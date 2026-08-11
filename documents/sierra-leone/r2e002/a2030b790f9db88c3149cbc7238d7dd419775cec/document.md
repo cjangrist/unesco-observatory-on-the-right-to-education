@@ -1,190 +1,188 @@
 [[START OF PAGE 1]]
 
-i i
-
-Section
-
-- Interpretation.
-
-### PART II STRUCTURE OF EDUCATION SYSTEM
-
-- 6-3-3-4 system of education.
-
-- Basic education as right of citizen.
-
-- Principle of non-discrimination.
-
-- Pre-primary education.
-
-- Primary school.
-
-- Junior secondary school.
-
-- Senior secondary school.
-
-- Technical and vocational education.
-
-- Tertiary or higher education.
-
-- Adult and non-formal education.
-
-- Additional functions of National Commission for Basic Education.
-
-### PART III CONTROL OF EDUCATION
-
-- Control and supervision of education system.
-
-- Powers of Minister.
-
-- Establishment of private schools.
-
-- Registration of private schools.
-
-- Penalty for unauthorised establishment, etc.
-
-- Duties of manager of schools.
-
-- Notice to remedy defects.
-
-- Offence of operating school contrary to notice to remedy.
+ii
 
 ACT
 
 Supplement to the Sierra Leone Gazette Vol. CXXXV, No. 19
 
-dated  1st  April,  2004
+dated 1st April, 2004
 
 # THE EDUCATION ACT, 2004
 
 ## ARRANGEMENT OF SECTIONS
 
+Section
+
 ### PART I PRELIMINARY
+
+1. Interpretation.
+
+### PART II STRUCTURE OF EDUCATION SYSTEM
+
+2. 6-3-3-4 system of education.
+
+3. Basic education as right of citizen.
+
+4. Principle of non-discrimination.
+
+5. Pre-primary education.
+
+6. Primary school.
+
+7. Junior secondary school.
+
+8. Senior secondary school.
+
+9. Technical and vocational education.
+
+10. Tertiary or higher education.
+
+11. Adult and non-formal education.
+
+12. Additional functions of National Commission for Basic Education.
+
+### PART III CONTROL OF EDUCATION
+
+13. Control and supervision of education system.
+
+14. Powers of Minister.
+
+15. Establishment of private schools.
+
+16. Registration of private schools.
+
+17. Penalty for unauthorised establishment, etc.
+
+18. Duties of manager of schools.
+
+19. Notice to remedy defects.
+
+20. Offence of operating school contrary to notice to remedy.
 
 Section
 
 ### PART IV ESTABLISHMENT OF BOARD OF EDUCATION
 
-- Establishment of Board of Education.
+21. Establishment of Board of Education.
 
-- Remuneration of chairman and other members of Board.
+22. Remuneration of chairman and other members of Board.
 
-- Filling of vacancies.
+23. Filling of vacancies.
 
-- Meetings of Board.
+24. Meetings of Board.
 
-- Functions of Board.
+25. Functions of Board.
 
-- Board to appoint committees.
+26. Board to appoint committees.
 
 ### PART V ROLE OF LOCAL AUTHORITIES IN EDUCATION SYSTEM
 
-- Power to establish Education Committee.
+27. Power to establish Education Committee.
 
-- Functions of local authorities in education.
+28. Functions of local authorities in education.
 
-- Establishment of schools and other institutions by local authority.
+29. Establishment of schools and other institutions by local authority.
 
-- Establishment of pre-primary, primary, junior, senior secondary schools, etc. outside area of local authority.
+30. Establishment of pre-primary, primary, junior, senior secondary schools, etc. outside area of local authority.
 
 ### PART VI ADVISORY BOARDS AND COMMITTEES
 
-- Appointment and composition of advisory bodies.
+31. Appointment and composition of advisory bodies.
 
 ### PART VII BOARDS OF GOVERNORS AND MANAGEMENT COMMITTEES, ETC.
 
-- Establishment and constitution of Boards of Governors.
+32. Establishment and constitution of Boards of Governors.
 
-- School management committees.
+33. School management committees.
 
-- Literacy centre management committees.
+34. Literacy centre management committees.
 
 ### PART VIII TEACHERS
 
-- Appointment, functions and tenure of headteacher or principal.
+35. Appointment, functions and tenure of headteacher or principal.
 
-- Certificate and licences for teachers.
+36. Certificate and licences for teachers.
 
-- Cancellation of certificates obtained by fraud or mistake.
+37. Cancellation of certificates obtained by fraud or mistake.
 
-- Registration of teachers.
+38. Registration of teachers.
 
-- Exemption of certain teachers from Act.
+39. Exemption of certain teachers from Act.
 
-- Annual appraisal of teachers.
+40. Annual appraisal of teachers.
 
-- Appointment, transfer and dismissal of teachers.
+41. Appointment, transfer and dismissal of teachers.
 
-- Teaching Service Trade Group Negotiating Council.
+42. Teaching Service Trade Group Negotiating Council.
 
-- Part applicable provisionally.
+43. Part applicable provisionally.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Section
+iii
 
-ii i
+Section
 
 ### PART IX FEES
 
-- Fees in government and assisted schools, etc.
+44. Fees in government and assisted schools, etc.
 
-- Maximum fees and exclusion of pupils for non-payment of fees.
+45. Maximum fees and exclusion of pupils for non-payment of fees.
 
-- Fees chargeable by private schools.
+46. Fees chargeable by private schools.
 
 ### PART X INSPECTION OF SCHOOLS
 
-- Inspection of schools.
+47. Inspection of schools.
 
 ### PART XI - MISCELLANEOUS
 
-- Institution and conduct of proceedings.
+48. Institution and conduct of proceedings.
 
-- General penalty.
+49. General penalty.
 
-- Compulsory attendance.
+50. Compulsory attendance.
 
-- Medical inspection.
+51. Medical inspection.
 
-- Apprenticeship.
+52. Apprenticeship.
 
 ### PART XII RULES AND REPEAL
 
-- Powers of Minister to make rules.
+53. Powers of Minister to make rules.
 
-- Science and technology.
+54. Science and technology.
 
-- National service
+55. National service
 
-- Repeal of Act No. 63 of 1964 and savings.
+56. Repeal of Act No. 63 of 1964 and savings.
 
 ### SCHEDULES
 
-SIGNED this 29th day of  March, 2004
-
-No. 2
+SIGNED this 29th day of March, 2004
 
 ALHAJI AHMAD TEJAN KABBAH,
 
 President.
 
+No. 2 2004
+
 Sierra Leone
 
-2004
+Short title.
 
 # The Education Act, 2004
 
-Being an Act to reform the education system, including provision for pre-primary education, technical and vocational training, adult and non-formal education and the role of  universities; and to provide for other related matters.
+Being an Act to reform the education system, including provision for pre-primary education, technical and vocational training, adult and non-formal education and the role of universities; and to provide for other related matters.
+
+Date of commencement.
 
 [1st April, 2004]
 
 ENACTED by the President and Members of Parliament in this present Parliament assembled.
-
-Short  title.
-
-Date  of  commencement.
 
 [[END OF PAGE 2]]
 
@@ -208,50 +206,50 @@ Education Act
 
 ### Interpretation.
 
-- In this Act, unless the context otherwise requires
+1. In this Act, unless the context otherwise requires—
 
-- BECE  means the Basic Education Certificate Examination;
+“BECE” means the Basic Education Certificate Examination;
 
-- community education centre  means a centre for the promotion  of  non-formal  literacy  and  basic education as well as skills acquisition;
+“community education centre” means a centre for the promotion of non-formal literacy and basic education as well as skills acquisition;
 
-- Co-ordinator or Manager  means the head of an adult literacy or non-formal education;
+“Co-ordinator or Manager” means the head of an adult literacy or non-formal education;
 
-- distance education  means a method of delivering education to students with minimum direct contact with teachers;
+“distance education” means a method of delivering education to students with minimum direct contact with teachers;
 
-- Education Committee  means an Education Committee established under section 26;
+“Education Committee” means an Education Committee established under section 26;
 
-- government school  means a school managed by or on behalf of the Ministry;
+“government school” means a school managed by or on behalf of the Ministry;
 
-- grant-in-aid  means a grant made out of public funds;
+“grant-in-aid” means a grant made out of public funds;
 
-- learner    means  a  person  of  any  age  for  whom education is provided in accordance with this Act;
+“learner” means a person of any age for whom education is provided in accordance with this Act;
 
-- manager  in the case of a school managed by the proprietor thereof, means the proprietor; and in the case of any other school the person for the time being  appointed  by  the  proprietor  to  be  the responsible local representative of the proprietor; and for the purposes of the provisions of this Act relating to applications to establish or open schools, includes an intended manager;
+“manager” in the case of a school managed by the proprietor thereof, means the proprietor; and in the case of any other school the person for the time being appointed by the proprietor to be the responsible local representative of the proprietor; and for the purposes of the provisions of this Act relating to applications to establish or open schools, includes an intended manager;
 
-- medical inspection  means the physical examination of  children  in  attendance  at  a  school  and  the consideration by a Medical Officer of all matters affecting the health of such children and includes physical examination by a School Nurse;
+“medical inspection” means the physical examination of children in attendance at a school and the consideration by a Medical Officer of all matters affecting the health of such children and includes physical examination by a School Nurse;
 
-- Medical Officer  means any Medical Officer in the employment of the Government or authorized by the Chief Medical Officer for the purposes of this Act;
+“Medical Officer” means any Medical Officer in the employment of the Government or authorized by the Chief Medical Officer for the purposes of this Act;
 
-- Minister    means  the  Minister  responsible  for education  and    Ministry    shall  be  construed accordingly;
+“Minister” means the Minister responsible for education and “Ministry” shall be construed accordingly;
 
-- NPSE  means National Primary School Examination.
+“NPSE” means National Primary School Examination.
 
-- pre-primary school  means the education referred to in subsection  (1) of section 5;
+“pre-primary school” means the education referred to in subsection (1) of section 5;
 
-- private school  means a school which receives no assistance from public funds;
+“private school” means a school which receives no assistance from public funds;
 
-- proprietor  in relation to any school, means the person or  body  of  persons  (including  any  Board  of Governors) responsible for the management of the school  either  directly  or  through  a  manager appointed in that behalf; and, for the purposes of the provisions of this Act relating to application to establish or open schools, includes any person or body of persons proposing to be so responsible;
+“proprietor” in relation to any school, means the person or body of persons (including any Board of Governors) responsible for the management of the school either directly or through a manager appointed in that behalf; and, for the purposes of the provisions of this Act relating to application to establish or open schools, includes any person or body of persons proposing to be so responsible;
 
-- public funds  means government funds or the funds of a local authority;
+“public funds” means government funds or the funds of a local authority;
 
-- pupil    means  a  leaner  attending  a  pre-tertiary educational institution designated as a school.
+“pupil” means a leaner attending a pre-tertiary educational institution designated as a school.
 
-- WASSCE  means West African Senior School Certificate Examinations.
+“WASSCE” means West African Senior School Certificate Examinations.
 
 ## PART II STRUCTURE OF EDUCATION SYSTEM
 
 ### 6-3-3-4 system  of education.
-(1) Subject  to  this  Act,  there  is  hereby  continued  in existence the system of formal education consisting of the following stages:
+2. (1) Subject to this Act, there is hereby continued in existence the system of formal education consisting of the following stages:—
 
 [[END OF PAGE 3]]
 
@@ -338,7 +336,7 @@ Education Act
 
 Cap.  44.
 
-### Principle  of nondiscrimination.
+### Principle of non-discrimination.
 
 (5) A child who persistently fails to attend school for basic education shall be treated as if he were a juvenile in need of care under paragraph (b) of subsection (1) of section 27 of the Children and Young Persons Act.
 
@@ -346,21 +344,21 @@ Cap.  44.
 
 (a) establishment or maintenance of separate educational systems or institutions to pupils of  the  two  sexes,  if  these  systems  or institutions  offer  equivalent  access  to education,  provide  a  teaching  staff  with qualifications of the same standard as well as  school  premises  and  equipment  of  the same quality, and afford the opportunity to take the same or equivalent courses of study;
 
-(b) establishment or maintenance, for religious or linguistic reasons, of separate educational systems or institutions offering an education which is in keeping with the wishes of the pupil s  parents  or  legal  guardians,  if participation in such systems or attendance at  such  institutions  is  optional  and  if  the education  provided  conforms  to  such standards as may be laid down or approved by the Minister, for education of the same level;
+(b) establishment or maintenance, for religious or linguistic reasons, of separate educational systems or institutions offering an education which is in keeping with the wishes of the pupil’s parents or legal guardians, if participation in such systems or attendance at such institutions is optional and if the education provided conforms to such standards as may be laid down or approved by the Minister, for education of the same level;
 
 (c) establishment  or  maintenance  of  private educational institutions, if the object of such institutions is not to secure the exclusion of any  group  but  to  provide  educational facilities in addition to those provided by the public  authority,  if  the  institutions  are
 
 conducted in accordance with that object and if the education provided conforms with such standards as may be laid down or approved by the Minister for educational institutions of the same level;
 
-(d) discrimination  between citizens  and  noncitizens of Sierra Leone in the matter of the provision  of  financial  assistance  for  the payment of school fees  or  the  award  of scholarships or otherwise.
+(d) discrimination between citizens and non-citizens of Sierra Leone in the matter of the provision of financial assistance for the payment of school fees or the award of scholarships or otherwise.
 
-(2) For the  purposes  of  this  section    discrimination includes any distinction, exclusion, limitation or preference which, being based on race, colour, sex, disability, language, religion, political, national or social origin, economic condition or birth, has the purpose or effect of impairing equality of treatment in education at any level.
+(2) For the purposes of this section “discrimination” includes any distinction, exclusion, limitation or preference which, being based on race, colour, sex, disability, language, religion, political, national or social origin, economic condition or birth, has the purpose or effect of impairing equality of treatment in education at any level.
 
 ### Pre-primary education.
 
-5. (l) Pre-primary education shall be the education given to pupils between the ages of three and six years in kindergarten or nursery schools.
+5. (1) Pre-primary education shall be the education given to pupils between the ages of three and six years in kindergarten or nursery schools.
 
-(2) Although optional and outside the formal system, preprimary education shall continue to be supported by Government because of its use in preparing children for primary education by
+(2) Although optional and outside the formal system, pre-primary education shall continue to be supported by Government because of its use in preparing children for primary education by—
 
 (a) enlarging and enriching their use of language and giving them other communication skills;
 
@@ -462,7 +460,7 @@ Education Act
 
 (c) the  same  continuous  assessment  scheme approved by the Ministry shall be used in all junior secondary schools.
 
-(8) The  junior  secondary  school  course  shall  be concluded by a Basic Education Certificate Examination (BECE) conducted by the West African Examinations Council on behalf of the  Ministry  in  conformity  with  an  approved  syllabus  and regulations; and in which each candidate s continuous assessment score shall form part of his final grading.
+(8) The junior secondary school course shall be concluded by a Basic Education Certificate Examination (BECE) conducted by the West African Examinations Council on behalf of the Ministry in conformity with an approved syllabus and regulations; and in which each candidate’s continuous assessment score shall form part of his final grading.
 
 ### Senior secondary school.
 
@@ -484,9 +482,9 @@ Education Act
 
 (e) all  teaching  shall  be  based  on  teaching syllabuses  developed  by  the  National Curriculum  Research  and  Development Centre;
 
-(f) at  the  end  of  the  senior  secondary  school course,  the  West African  Senior  School Certificate Examinations (W ASSCE) based on the  West African  Examinations  Council examination syllabuses shall be taken;
+(f) at the end of the senior secondary school course, the West African Senior School Certificate Examinations (WASSCE) based on the West African Examinations Council examination syllabuses shall be taken;
 
-(g) a pre-specified percentage of  each candidate s WASSCE final mark shall come from his continuous assessment score; and
+(g) a pre-specified percentage of each candidate’s WASSCE final mark shall come from his continuous assessment score; and
 
 (h) the Ministry shall continuously monitor and evaluate each senior secondary school and publish its findings thereon.
 
@@ -512,7 +510,7 @@ Education Act
 
 (5) Nothing contained in subsection (4) shall prevent any private senior secondary school from offering examinations other than the West African Senior School Certificate Examinations to its pupils.
 
-### Technical  and v o c a t i o n a l education.
+### Technical and vocational education.
 
 9. (1) Technical and vocational education is defined as that education provided in government approved educational institutions in which
 
@@ -520,7 +518,7 @@ Education Act
 
 (b) the objectives shall be
 
-(i) to fill the gap in technical and vocational manpower needs of Sierra Leone by substantially increasing the number of indigenous skilled lower middle level blue collar  workers;
+(i) to fill the gap in technical and vocational manpower needs of Sierra Leone by substantially increasing the number of indigenous skilled lower middle level ‘blue collar’ workers;
 
 (ii) to produce a more literate, numerate and enterprising lower middle level technical and  vocational  workforce  and  thus speed up national development;
 
@@ -536,7 +534,7 @@ Education Act
 
 (viii) to develop an appreciation of cultural and  aesthetic  values  in  productive work.
 
-(2) There shall be a National Council for Technical and Vocational Education (N.C.T.V .E.) appointed by the Minister to assist the  Government to run and co-ordinate technical and vocational education.
+(2) There shall be a National Council for Technical and Vocational Education (N.C.T.V.E.) appointed by the Minister to assist the Government to run and co-ordinate technical and vocational education.
 
 (3) The Council shall consist of not less than three and not more than seven persons appointed for their proven knowledge and experience in technical and vocational education.
 
@@ -578,13 +576,13 @@ Education Act
 
 (e) professional schools or institutes such as the National School for Nursing and the School of Hotels and Tourism.
 
-- The purpose of tertiary or higher education shall be -
+(3) The purpose of tertiary or higher education shall be—
 
 (a) to continue, widen and deepen the education gained in school;
 
 (b) to  provide  specialisation  in  one  or  more disciplines of knowledge and skills for which the student has the aptitude and in which he has been given appropriate preparation in school;
 
-(c) to help the student to gain the knowledge, skills  and  attitudes  required  for  selfenhancement and to earn a living;
+(c) to help the student to gain the knowledge, skills and attitudes required for self-enhancement and to earn a living;
 
 (d) to continue development of the student in all facets of knowledge (affective, cognitive and psychomotor);
 
@@ -616,9 +614,9 @@ Education Act
 
 (iv) Universities in Sierra Leone;
 
-(v) United  Nations  Children s  Fund (UNICEF)
+(v) United Nations Children’s Fund (UNICEF)
 
-(vi) Sierra  Leone  Association  of  NonGovernmental  Organisations (SLANGO);
+(vi) Sierra Leone Association of Non-Governmental Organisations (SLANGO);
 
 [[END OF PAGE 9]]
 
@@ -656,7 +654,7 @@ Education Act
 
 ### Additional functions  of National Commission for  Basic Education.
 
-- Without prejudice to its other functions under the National Commission for Basic Education Act, 1994, and for the purposes of this Act, it shall be the responsibility of the National Commission for Basic Education to protect the right to basic education for every citizen, including the amputees and other disabled persons.
+12. Without prejudice to its other functions under the National Commission for Basic Education Act, 1994, and for the purposes of this Act, it shall be the responsibility of the National Commission for Basic Education to protect the right to basic education for every citizen, including the amputees and other disabled persons.
 
 ## PART III CONTROL OF EDUCATION
 
@@ -782,7 +780,7 @@ Education Act
 
 ### Penalty  for unauthorised establishment, etc.
 
-- Any person who
+17. Any person who—
 
 (a) establishes  a  private  school  without  the authority of the Minister or in the case of a primary school, the authority of the local authority for the area; or
 
@@ -792,7 +790,9 @@ commits an offence and shall be liable on summary conviction to a fine not excee
 
 ### Duties  of managers of school.
 
-18. (1) Subject to this Act, it shall be the duty of the manager of a school
+18. (1) Subject to this Act, it shall be the duty of the manager of a school—
+
+(a) to keep a register of teachers employed thereat, showing the particulars of such teachers;
 
 (b) to ensure that all teachers employed at the school are fit  and  proper  persons  to  be  in charge of children and are qualified to give instruction  in  one  or  more  subjects  of  the curriculum in force at the school;
 
@@ -842,7 +842,7 @@ Education Act
 
 20. (1) A proprietor or manager who continues to operate a school in respect of which he has not complied with the requirements of a notice of complaint under section 19, to the satisfaction of the Minister or, as the case may be, the local authority, commits an offence except that no offence is committed if he has appealed against a notice served by the local authority.
 
-(2) An offence under subsection (1) shall be punishable by a fine not exceeding Le 1,000,000 and to a further fine not exceeding Le50,000 for every day during which the school is operated and, in the case of a second or subsequent conviction, to a fine not exceeding Le500,000 or to imprisonment for a term not exceeding three months or to both such fine and imprisonment and to a further fine of L.e50,000 for each day that the school is operated.
+(2) An offence under subsection (1) shall be punishable by a fine not exceeding Le 1,000,000 and to a further fine not exceeding Le50,000 for every day during which the school is operated and, in the case of a second or subsequent conviction, to a fine not exceeding Le500,000 or to imprisonment for a term not exceeding three months or to both such fine and imprisonment and to a further fine of Le50,000 for each day that the school is operated.
 
 ## PART IV ESTABLISHMENT OF BOARD OF EDUCATION
 
@@ -894,7 +894,7 @@ Education Act
 
 25
 
-(l) the Head of the National Office, West African
+(l) the Head of the National Office, West African Examinations Council (WAEC) Freetown;
 (m) the Representative, Association of Private Schools;
 (n) the President, Sierra Leone Association of Journalists;
 (o) the President, Sierra Leone Bar Association;
@@ -912,11 +912,13 @@ Education Act
 ### Remuneration of Chairman and other members of Board.
 22. The Chairman or other member of the Board shall be paid such remuneration or allowances as the Minister shall determine.
 ### Filling of vacancies.
-23. (1) Where the Chairman or a member of the Board dies, resigns, is removed from office or is absent from Sierra Leone for a continuous period exceeding three months or is by reason of illness unable to perform the functions of his office
+23. (1) Where the Chairman or a member of the Board dies, resigns, is removed from office or is absent from Sierra Leone for a continuous period exceeding three months or is by reason of illness unable to perform the functions of his office—
 (a) the members of the Board shall elect one of their number to act as Chairman until such time as the Chairman resumes his office or another is appointed in his stead; and
 (b) in the case of the member, the Chairman shall arrange, subject to this Act, to have another person appointed in his stead.
 (2) Where a person is elected as Chairman or appointed as a member to fill a vacancy, he shall hold office for the remainder of the term of the previous Chairman or member, as the case may be, and shall, subject to this Act, be eligible for re-appointment.
-such time and place as the Chairman may decide but shall meet at least twice a year. (2) The Chairman shall preside at every meeting of the Board and in his absence the members present shall elect one of their number to preside.
+### Meetings of Board.
+24. (1) The Board shall meet for the dispatch of business at such time and place as the Chairman may decide but shall meet at least twice a year.
+(2) The Chairman shall preside at every meeting of the Board and in his absence the members present shall elect one of their number to preside.
 (3) The quorum at a meeting of the Board shall be ten.
 
 [[END OF PAGE 14]]
@@ -1005,7 +1007,7 @@ Education Act
 
 Provided that  at  least  half  of  the  members  of  any  such Education Committee shall be members of the local authority concerned.
 
-- Every local authority shall
+(3) Every local authority shall—
 
 (i) consider a report  from  its  Education Committee before exercising any of its functions with respect to education;
 
@@ -1021,7 +1023,7 @@ Provided that  at  least  half  of  the  members  of  any  such Education Commit
 
 (b) subject to the approval of the Minister, to generally organise and develop Community Education Centres within its area of authority with a view to providing a place of learning and skills acquisition for children and adult learners;
 
-(c) to  control,  in  accordance  with  rules  made under this Act, the establishment of new preprimary,  primary  and  junior  secondary schools within its area of authority by private persons;
+(c) to control, in accordance with rules made under this Act, the establishment of new pre-primary, primary and junior secondary schools within its area of authority by private persons;
 
 (d) to  allocate,  subject  to  the  approval  of  the Minister,  grants-in-aid  to  pre-primary  and primary schools within its area of authority in accordance with rules made under this Act such  allocations  being  made  from  funds placed at its disposal by the Minister or from its own resources;
 
@@ -1039,9 +1041,9 @@ Provided that  at  least  half  of  the  members  of  any  such Education Commit
 
 (c) technical  or  vocational  training  centres  or schools;
 
-(d) community  education  and  non-formal education  centres,  primarily  for  the promotion of functional literacy and postliteracy activities.
+(d) community education and non-formal education centres, primarily for the promotion of functional literacy and post-literacy activities.
 
-### Establishment of  preprimary, primary, junior,  senior secondary schools,  etc. outside  area of  local authority.
+### Establishment of pre-primary, primary, junior, senior secondary schools, etc. outside area of local authority.
 
 30. Whenever he considers that it is in the public interest to do so, the Minister may, after consultation with and with the agreement of  the  local  authorities  concerned,  grant  permission  to  one  local authority to establish a pre-primary or primary, junior secondary school, senior secondary school, community education centres and other technical or vocational institutions.
 
@@ -1087,7 +1089,7 @@ Education Act
 
 (3) Every Board of Governors shall be a body corporate with perpetual succession and a common seal.
 
-- Every Board of Governors shall consist of
+(4) Every Board of Governors shall consist of—
 
 (a) a Chairman to be appointed by the Minister from among the members;
 
@@ -1113,9 +1115,9 @@ Education Act
 
 (b) the inspector of schools or his representative (non-voting member);
 
-(c) the proprietor s representative;
+(c) the proprietor’s representative;
 
-(d) chairman  of  the  community  teachers association;
+(d) chairman of the community teachers’ association;
 
 (e) the  traditional  ruler  of  the  village  or  area concerned;
 
@@ -1155,9 +1157,9 @@ Education Act
 
 (b) Director, Non-formal Education Division or his representative;
 
-(c) appropriate donor agency or nongovernmental organisation;
+(c) appropriate donor agency or non-governmental organisation;
 
-(d) a representative of a women s group;
+(d) a representative of a women’s group;
 
 (e) the traditional ruler of the village/town/area;
 
@@ -1183,11 +1185,11 @@ Education Act
 
 (2) The headteacher or principal of a school shall be responsible, subject in the case of a government school or assisted school, to any rule made by the Minister under this Act for the general control and supervision of the instruction and discipline and for the organisation of the classes therein.
 
-(3) There shall be a critical appraisal of a head teacher s or  principal s  performance  twice  in  the  first  ten  years  of  his appointment which shall provide the basis for stocktaking, correction and redirection where necessary; and the first appraisal shall be two years after he has completed a probationary period of one year and the second three years thereafter.
+(3) There shall be a critical appraisal of a head teacher’s or principal’s performance twice in the first ten years of his appointment which shall provide the basis for stocktaking, correction and redirection where necessary; and the first appraisal shall be two years after he has completed a probationary period of one year and the second three years thereafter.
 
 (4) A headteacher or principal, as the case may be, shall be regarded not only as the administrative but also the professional head of the school and this must be recognised if he should be free to manifest  his  professionalism  in  the  discharge  of  his  duties;  a recognition  which  confers  upon  him  the  responsibility  of accountability.
 
-(5) A headteacher or principal shall be liable to be rotated within the organisation which established the school or moved to a position within the Ministry after a period of ten years  exemplary service, if all relevant conditions are satisfied.
+(5) A headteacher or principal shall be liable to be rotated within the organisation which established the school or moved to a position within the Ministry after a period of ten years’ exemplary service, if all relevant conditions are satisfied.
 
 [[END OF PAGE 18]]
 
@@ -1225,7 +1227,7 @@ Provided that
 
 37. (1) Where the Minister is satisfied, after due enquiry, that a  certificate  or  licence  issued  under  section  36  or  a  certificate recognised under that section, has been obtained by fraud or mistake he  may cancel or suspend such certificate or licence or,  where appropriate, withdraw or suspend the recognition of such a certificate.
 
-(2) Any person who obtains a certificate or licence by fraud commits an offence and shall be liable on conviction to a fine not exceeding Lel,000,000 or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.
+(2) Any person who obtains a certificate or licence by fraud commits an offence and shall be liable on conviction to a fine not exceeding Le1,000,000 or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.
 
 ### Registration of  teachers.
 
@@ -1279,7 +1281,7 @@ Education Act
 
 ### Appointment, transfer  and dismissal of teachers.
 
-41. (1) The appointment of teachers in any assisted school shall lie with the proprietor thereof or the manager acting on his behalf or the Board of Governors with the approval of the DirectorGeneral of Education but every dismissal of a teacher from such school or transfer of a teacher from one such school to another, shall be subject to the prior approval of the Minister.
+41. (1) The appointment of teachers in any assisted school shall lie with the proprietor thereof or the manager acting on his behalf or the Board of Governors with the approval of the Director-General of Education but every dismissal of a teacher from such school or transfer of a teacher from one such school to another, shall be subject to the prior approval of the Minister.
 
 (2) The manager of an assisted school may be required to dismiss any teacher upon the order of the Minister made after giving the teacher a hearing, and any refusal to comply with such order, not inconsistent with the outcome of the hearing, shall entitle the Minister to refuse or withhold any grant payable to such school.
 
@@ -1311,7 +1313,7 @@ Education Act
 
 (b) grants-in-aid;
 
-(c) teachers  salaries;
+(c) teachers’ salaries;
 
 (d) donations and other gifts from any person or authority;
 
@@ -1319,7 +1321,6 @@ Education Act
 
 (f) other receivable.
 
-Maximum fees  and exclusion  of pupils  for non-payment of  fees.
 
 [[END OF PAGE 20]]
 
@@ -1419,7 +1420,7 @@ been served by a local authority upon the proprietor or manager of such school o
 
 ### General penalty.
 
-- Any person who commits an offence for which no penalty has  been  prescribed  shall  be  liable  on  conviction  to  a  fine  not exceeding Le1,000,000 or to imprisonment for a term not exceeding twelve months or to both such fine and imprisonment.
+49. Any person who commits an offence for which no penalty has been prescribed shall be liable on conviction to a fine not exceeding Le1,000,000 or to imprisonment for a term not exceeding twelve months or to both such fine and imprisonment.
 
 ### Compulsory attendance.
 
@@ -1449,7 +1450,7 @@ been served by a local authority upon the proprietor or manager of such school o
 
 (c) prescribe,  subject  to  section  50,  for  the compulsory attendance  of  pupils  at  any government school, or assisted school, where no fees are charged;
 
-(d) prescribe  the  conditions  governing  the payment of grants-in-aid of schools, boarding houses and other institutions to which grants may be made in accordance with this Act, the conditions under which and the manner in which local authorities may allocate grantsin-aid of primary schools, and the grounds upon which such grants may be revoked or withheld;
+(d) prescribe the conditions governing the payment of grants-in-aid of schools, boarding houses and other institutions to which grants may be made in accordance with this Act, the conditions under which and the manner in which local authorities may allocate grants-in-aid of primary schools, and the grounds upon which such grants may be revoked or withheld;
 
 [[END OF PAGE 22]]
 
@@ -1513,6 +1514,14 @@ Education Act
 
 [[START OF PAGE 24]]
 
+44
+
+No. 2
+
+Education Act
+
+2004
+
 No. 2
 
 Education Act
@@ -1521,36 +1530,51 @@ Education Act
 
 45
 
-44 | No. 2 | Education Act
---- | --- | ---
+(w) prescribe the conditions governing the use of government school buildings out of school hours;
+
+(x) prescribe such forms as the Minister is empowered to prescribe under this Act;
+
+(y) provide for or prescribe any other matter or thing which the Minister is empowered to provide for or prescribe under this Act.
+
 ### Science and technology.
-54. (1) The Science and Technology Council shall be responsible for providing policy guidance relating to the development, dissemination and application of science and technology country- wide, while the Science and Technology Secretariat is entrusted with the day-to-day operational issues emanating from the policy decisions of the Science and Technology Council. (2) It shall be the function of the Science and Technology Council to promote all aspects of capacity building in science and technology and related fields at all levels of the education system, popularise science and technology, promote advocacy for the adoption of a science and technology culture, coordinate all research and development activities towards achieving food security, food sufficiency and industrial growth.
+
+54. (1) The Science and Technology Council shall be responsible for providing policy guidance relating to the development, dissemination and application of science and technology country-wide, while the Science and Technology Secretariat is entrusted with the day-to-day operational issues emanating from the policy decisions of the Science and Technology Council.
+
+(2) It shall be the function of the Science and Technology Council to promote all aspects of capacity building in science and technology and related fields at all levels of the education system, popularise science and technology, promote advocacy for the adoption of a science and technology culture, coordinate all research and development activities towards achieving food security, food sufficiency and industrial growth.
+
 ### National Service.
-55. (1) Students in tertiary institutions who are given grants- in-aid by the Government or a local authority shall undergo national service for a maximum period of three years after graduation. (2) The Minister shall, by rules made by statutory instrument, prescribe the penalty for any contravention of subsection (1). (3) For the purposes of subsection (1), national service means service to the State in any field of work relevant to the student s
-### Repeal of Act No. 63 of 1964 and
+
+55. (1) Students in tertiary institutions who are given grants-in-aid by the Government or a local authority shall undergo national service for a maximum period of three years after graduation.
+
+(2) The Minister shall, by rules made by statutory instrument, prescribe the penalty for any contravention of subsection (1).
+
+(3) For the purposes of subsection (1), “national service” means service to the State in any field of work relevant to the student’s area of study to be done preferably in the district of his birth.
+
+### Repeal of Act No. 63 of 1964 and savings.
+
 56. (1) Subject to subsection (2), the Education Act, 1964 is hereby repealed.
 
-(2) All orders, notifications in the Gazette , rules and regulations made under the  Education  Act,  1964,  which  are  in  force  immediately  before  the commencement of this Act shall continue in force until revoked under this Act.
+(2) All orders, notifications in the Gazette, rules and regulations made under the Education Act, 1964, which are in force immediately before the commencement of this Act shall continue in force until revoked under this Act.
 
-## FIRST SCHEDULE (Section  9  (4))
+## FIRST SCHEDULE (Section 9 (4))
 
-Technical and vocational education shall be organised at three levels in terms of certification as follows:
+Technical and vocational education shall be organised at three levels in terms of certification as follows:—
 
-(a) The levels of courses shall be
+(a) The levels of courses shall be—
 
-- Level 1 leading to a National V ocational Qualification (NVQ);
+Level 1 – leading to a National Vocational Qualification (NVQ);
 
-- Level 2 leading to an Ordinary National Diploma (OND) or the Higher National Certificate (HNC) as its highest qualification;
+Level 2 – leading to an Ordinary National Diploma (OND) or the Higher National Certificate (HNC) as its highest qualification;
 
-- Level 3 leading initially to the Higher National Diploma (HND) as its highest qualification;
+Level 3 – leading initially to the Higher National Diploma (HND) as its highest qualification;
 
-(b) Duration of the courses shall be
+(b) Duration of the courses shall be—
 
-- Level 1 3 years for National V ocational Qualification (NVQ) Stage 3;
+Level 1 – 3 years for National Vocational Qualification (NVQ) Stage 3;
 
-- Level 2 determined  by Tertiary  Education  Commission/ National Council for Technical Vocational and Other Academic Awards;
+Level 2 – determined by Tertiary Education Commission/National Council for Technical Vocational and Other Academic Awards;
 
-- Level 3 determined  by Tertiary  Education  Commission/ National Council for Technical Vocational and Other Academic Awards;
+Level 3 – determined by Tertiary Education Commission/National Council for Technical Vocational and Other Academic Awards;
 
 [[END OF PAGE 24]]
 
@@ -1572,41 +1596,41 @@ Education Act
 
 47
 
-(c) Entry requirements for each course shall be
+(c) Entry requirements for each course shall be—
 
-- Level 1 completion of junior secondary schooling and the Basic Education Certificate Examination subjects and grades  stipulated  by  the  6-3-3-4  Implementation Committee or satisfactory performance in the three month access course for girls  applying  for  entry without formal qualification but  with some non-formal training  or  Animation  and  Community Education Centre awards approved by the National Council for Technical and Vocational Education (NCTVE);
+Level 1 – completion of junior secondary schooling and the Basic Education Certificate Examination subjects and grades stipulated by the 6-3-3-4 Implementation Committee or satisfactory performance in the three month access course for girls applying for entry without formal qualification but with some non-formal training or Animation and Community Education Centre awards approved by the National Council for Technical and Vocational Education (NCTVE);
 
-- Level 2 determined  by Tertiary  Education  Commission/ National Council for Technical Vocational and Other Academic Awards;
+Level 2 – determined by Tertiary Education Commission/National Council for Technical Vocational and Other Academic Awards;
 
-- Level 3 determined  by Tertiary  Education  Commission/ National Council for Technical Vocational and Other Academic Awards;
+Level 3 – determined by Tertiary Education Commission/National Council for Technical Vocational and Other Academic Awards;
 
-(d) The courses mentioned in paragraphs (a), (b) and (c) shall be provided by institutions categorised as follows:
+(d) The courses mentioned in paragraphs (a), (b) and (c) shall be provided by institutions categorised as follows:—
 
-(i) Polytechnic offers HND as its highest qualification;
+(i) Polytechnic—offers HND as its highest qualification;
 
-(ii) Technical/Vocational Institutes of fer the OND and HND as their highest qualifications;
+(ii) Technical/Vocational Institutes—offer the OND and HND as their highest qualifications;
 
-(iii) Trade/ Technical/V ocational Centres and Technical/ Vocational Schools offer the NVQ Stages 1 to 3;
+(iii) Trade/Technical/Vocational Centres—and Technical/Vocational Schools offer the NVQ Stages 1 to 3;
 
-(iv) Community Education/Animation Centres offer, amongst other things, courses for early school leavers and adult learners which would qualify them for entry into technical and vocational centres.
+(iv) Community Education/Animation Centres—offer, amongst other things, courses for early school leavers and adult learners which would qualify them for entry into technical and vocational centres.
 
-## SECOND SCHEDULE (Section  31  (3))
+## SECOND SCHEDULE (Section 31 (3))
 
-- 6-3-3-4 Implementation Committee.
+(1) 6-3-3-4 Implementation Committee.
 
-- United World Colleges (UWC) Interview Committee.
+(2) United World Colleges (UWC) Interview Committee.
 
-- Bursaries Award Advisory Committee.
+(3) Bursaries Award Advisory Committee.
 
-- Text Books Task Force.
+(4) Text Books Task Force.
 
-- Schools Broadcasting Committee.
+(5) Schools Broadcasting Committee.
 
-- Students Advisory Committee.
+(6) Students Advisory Committee.
 
-- Technical Education Advisory Committee.
+(7) Technical Education Advisory Committee.
 
-- UNESCO National Commission.
+(8) UNESCO National Commission.
 
 Passed in Parliament this 16th day of December , in the year of our Lord two thousand and three.
 
