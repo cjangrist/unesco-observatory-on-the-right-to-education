@@ -8,13 +8,13 @@ HOVHANNES MANOUKIAN MINISTER OF JUSTICE OF THE REPUBLIC OF ARMENIA 29 MAY 2015
 
 # L A W OF THE REPUBLIC OF ARMENIA ON GENERAL EDUCATION
 
+Adopted on 10 July 2009
+
 ## CHAPTER 1 GENERAL PROVISIONS
 
 ### Article 1. Subject matter of the Law
 
 The law on general education shall establish the principles of state policy for the general education system of the Republic of Armenia, legal and organisational as well as financial
-
-Adopted on 10 July 2009
 
 1
 
@@ -248,7 +248,7 @@ The  educational  institutions  referred  to  in  this  part  may  not  have  a 
 
 The outcomes of mastering programmes of general education shall be summarised upon the  completion  of  each  education  degree.  A  learner  having  not  mastered  the  previous degree of the programme of general education shall not be allowed to be transferred to the next degree of general education.
 
-- The standard time period for secondary education shall be 12 years under a threelevel system:
+- The standard time period for secondary education shall be 12 years under a three-level system:
 
 - the 1 st level consituting four years - 1-4 years;
 
@@ -342,7 +342,7 @@ implemented therein, be classified into the following types:
 
 - An educational institution may operate also within an educational complex.
 
-- For  the  purpose  of  ensuring  free  of  charge  general  education  of  learners,  the Republic of Armenia, represented by the Government of the Republic of Armenia, shall establish  educational  institutions  with  legal  and  organisational  form  of  a  state  noncommercial organisation (hereinafter referred to as 'the state education institution').
+- For the purpose of ensuring free of charge general education of learners, the Republic of Armenia, represented by the Government of the Republic of Armenia, shall establish educational institutions with legal and organisational form of a state non-commercial organisation (hereinafter referred to as 'the state education institution').
 
 - The body authorised for state high schools referred to in point 4 of part 5 of Article 8 of  this  Law,  shall  be  deemed  to  be  the  authorised  public  administration  body  for education.
 
@@ -378,37 +378,13 @@ and  under  the  procedure  established  by  legislation  and  the  Statute  of 
 
 institution.
 
-3.  The  state  education  institution  shall  have  a  collegial  management  body,
+3. The state education institution shall have a collegial management body, i.e. a board (hereinafter referred to as 'the Board').
 
-(hereinafter referred to as 'the Board').
+4. The powers of collegial management bodies of an educational institution shall be defined by law and the Statute of the educational institution.
 
-4.  The  powers  of  collegial  management  bodies  of  an  educational  institution  shall  be
+5. For the purpose of effective organisation of the educational activities of an educational institution, advisory bodies, i.e. pedagogical, parental, pupil councils, subject related methodology units shall be established, the procedure for the establishment and the competences whereof shall be defined by the Statute of an educational institution. The Statute of an educational institution may provide for other advisory bodies as well, i.e. board of curators and other boards.
 
-defined by law and the Statute of the educational institution.
-
-5. For the purpose of effective organisation of the educational activities of an educational
-
-institution,  advisory  bodies, i.e.
-
-pedagogical,  parental,  pupil  councils,  subject  related
-
-methodology  units  shall  be  established,  the  procedure  for  the  establishment  and  the
-
-competences whereof shall be defined by the Statute of an educational institution. The
-
-Statute of an educational institution may provide for other advisory bodies as well,
-
-board of curators and other boards.
-
-6.  The  members  of  the  pupil  council  shall  participate  in  the  management  of  an
-
-educational institution in an advisory capacity.
-
-i.e.
-
-i.e.
-
-a  board
+6. The members of the pupil council shall participate in the management of an educational institution in an advisory capacity.
 
 16
 
@@ -578,7 +554,7 @@ A person having undergone training under the procedure established by the author
 
 - An educational institution may implement programme(s) of general education in case of availability of relevant licence, in accordance with its Statute. Programmes of general education implemented by an educational institution shall be enshrined by its Statute.
 
-- An  educational  institution  may,  upon  the  decision  of  the  founder,  implement programmes  of  general  education  through  day-time,  after-school  and  (or)  boardingschool procedures.
+- An educational institution may, upon the decision of the founder, implement programmes of general education through day-time, after-school and (or) boarding-school procedures.
 
 ### Article 14. Curricula
 
@@ -1205,9 +1181,9 @@ Republican  Commission  shall  be  established  by  the  Government  of  the  Re
 [[START OF PAGE 49]]
 
 ### Article 30. Competences of the authorised public administration body for education in the field of general education
-1. The competences of the authorised public administration body for education shall be as follows: (1) to develop and approve state programmes of general education, approve alternative, including experimental, copyright and  basic international  programmes  of  general education; (2)  to  establish  the  time  limits  for  the  implementation  of  specialised  programmes  of general education, programmes for children having demonstrated outstanding abilities, programmes  for  children  in  need  of  special  conditions  for  education  and  alternative education programmes; (3) to grant licences for the implementation of programmes of general education; (4)  to  give  consent,  as  prescribed  by  law,  for  the  establishment  of  other  types  of  nonstate education institutions; (5) to be deemed as the authorised public administration body for state high schools, as well as territorial and republican pedagogical and psychological centres; (6) to establish the procedure for the formation of the collegial management body, i.e. the board of a state education institution; (7) to provide an expert opinion on the early termination of powers of the director of a state education institution; (8) to establish the list of the guaranteed textbooks; (9) (Point repealed by HO-200-N of 1 December 2014) ; (10)  to  establish  the  time  periods  and  the  duration  of  holidays  at  state  education institutions; final
+1. The competences of the authorised public administration body for education shall be as follows: (1) to develop and approve state programmes of general education, approve alternative, including experimental, copyright and  basic international  programmes  of  general education; (2)  to  establish  the  time  limits  for  the  implementation  of  specialised  programmes  of general education, programmes for children having demonstrated outstanding abilities, programmes  for  children  in  need  of  special  conditions  for  education  and  alternative education programmes; (3) to grant licences for the implementation of programmes of general education; (4)  to  give  consent,  as  prescribed  by  law,  for  the  establishment  of  other  types  of  non-state education institutions; (5) to be deemed as the authorised public administration body for state high schools, as well as territorial and republican pedagogical and psychological centres; (6) to establish the procedure for the formation of the collegial management body, i.e. the board of a state education institution; (7) to provide an expert opinion on the early termination of powers of the director of a state education institution; (8) to establish the list of the guaranteed textbooks; (9) (Point repealed by HO-200-N of 1 December 2014) ; (10)  to  establish  the  time  periods  and  the  duration  of  holidays  at  state  education institutions;
 
-- to establish the time periods of and  the procedure  for  holding  state examinations;
+- to establish the time periods of and  the procedure  for  holding  state final examinations;
 
 49
 
@@ -1247,7 +1223,7 @@ and decisions of the Government.
 
 ### Article 31. Competences of the territorial administration body and of the Mayor of Yerevan in the field of general education
 
-1.  The competences of the marzpet [regional governor] (of the Mayor - in the city of
+1. The competences of the marzpet [regional governor] (of the Mayor — in the city of
 
 Yerevan) shall be as follows:
 
@@ -1255,13 +1231,13 @@ Yerevan) shall be as follows:
 
 [region] (in the city of Yerevan);
 
-- to supervise the observance by educational institutions of the legislation on education of  the  Republic  of  Armenia  and  the  regulatory  acts  adopted  by  the  authorised  public administration body  for education, as well as the implementation  of educational programmes in conformity with the state standard for general education;
+(2) to supervise the observance by educational institutions of the legislation on education of the Republic of Armenia and the regulatory acts adopted by the authorised public administration body for education, as well as the implementation of educational programmes in conformity with the state standard for general education;
 
 (3)  to  coordinate  and  exercise  supervision  over  keeping  on  records  the  school-age
 
 children; to ensure their enrollment in educational institutions;
 
-- to ensure the construction, exploitation and maintenance of buildings transferred to educational institutions under the right of use;
+(4) to ensure the construction, exploitation and maintenance of buildings transferred to educational institutions under the right of use;
 
 51
 
@@ -1269,31 +1245,31 @@ children; to ensure their enrollment in educational institutions;
 
 [[START OF PAGE 52]]
 
-- to  conclude,  as  prescribed  by  the  Government  of  the  Republic  of  Armenia,  an employment contract for a period of five years on behalf of the founder with the elected director  of  the  educational  institutions  falling  under  his  or  her  competence;  to  early terminate, in the cases and under as the procedure prescribed by the legislation of the Republic of Armenia, the employment contract concluded with the director;
+(5) to conclude, as prescribed by the Government of the Republic of Armenia, an employment contract for a period of five years on behalf of the founder with the elected director of the educational institutions falling under his or her competence; to early terminate, in the cases and under as the procedure prescribed by the legislation of the Republic of Armenia, the employment contract concluded with the director;
 
-- to  assist  in  the  process  of  evaluation  of  the  knowledge  or  the  process  of  testing  of learners and graduates of educational institutions;
+(6) to assist in the process of evaluation of the knowledge or the process of testing of learners and graduates of educational institutions;
 
 (6.1) to assist in the process of attestation of a teacher;
 
-- to exercise other powers established by laws and other legal acts of the Republic of Armenia.
+(7) to exercise other powers established by laws and other legal acts of the Republic of Armenia.
 
 (Article 31 edited and, supplemented by HO-200-N of 1 December 2014)
 
 ### Article 32. Competences of local self-government bodies in the field of general education
 
-- The competences of the head of the community shall be as follows:
+1. The competences of the head of the community shall be as follows:
 
-- to  assist  in  the  implementation  of  state  educational  policy  in  the  territory  of  the community, as prescribed by law;
+(1) to assist in the implementation of state educational policy in the territory of the community, as prescribed by law;
 
-(2)  to  keep  on  records  the  school-age  children;  to  ensure  the  enrollment  thereof  in
+(2) to keep on records the school-age children; to ensure the enrollment thereof in
 
 educational institutions;
 
-- to exercise other powers as prescribed by laws of the Republic of Armenia.
+(3) to exercise other powers as prescribed by laws of the Republic of Armenia.
 
 ### Article 33. Supervision over the activities of an educational institution
 
-- The supervision over the activities of an educational institution shall be exercised by the  founder,  the  authorised  public  administration  body  for  education,  as  well  as  other public administration bodies provided for by law.
+1. The supervision over the activities of an educational institution shall be exercised by the founder, the authorised public administration body for education, as well as other public administration bodies provided for by law.
 
 52
 
@@ -1301,23 +1277,23 @@ educational institutions;
 
 [[START OF PAGE 53]]
 
-- State supervision over the compliance with the legislation in the field of education in an educational institution shall be exercised by the Law of the Republic of Armenia 'On State Inspectorate for Education'.
+2. State supervision over the compliance with the legislation in the field of education in an educational institution shall be exercised by the Law of the Republic of Armenia “On State Inspectorate for Education”.
 
 ### Article 34. Evaluation of the activities of an educational institution
 
-- An internal and external evaluation shall be made for the activities of an educational institution,  the  standards  and  the  procedure  for  the  performance  whereof  shall  be established by the Government of the Republic of Armenia.
+1. An internal and external evaluation shall be made for the activities of an educational institution, the standards and the procedure for the performance whereof shall be established by the Government of the Republic of Armenia.
 
-- Internal evaluation shall be deemed to be the analysis of its own activities carried out by an educational institution. Internal evaluation shall be carried out once a year until the beginning of new academic year. Administrative and pedagogical workers, learners and parents shall participate in the internal evaluation.
+2. Internal evaluation shall be deemed to be the analysis of its own activities carried out by an educational institution. Internal evaluation shall be carried out once a year until the beginning of new academic year. Administrative and pedagogical workers, learners and parents shall participate in the internal evaluation.
 
-- The director shall submit the internal evaluation report to the Board of the educational institution,  parental,  pupil  and  other  existing  councils  by  5  September  of  the  current year, as well as ensure the promulgation thereof.
+3. The director shall submit the internal evaluation report to the Board of the educational institution, parental, pupil and other existing councils by 5 September of the current year, as well as ensure the promulgation thereof.
 
-- The purpose of external evaluation of an educational institution shall be deemed to be the  evaluation  of  effectiveness  of  the  activities  thereof,  as  compared  to  other  similar institutions. External evaluation standards shall be uniform for all educational institutions.
+4. The purpose of external evaluation of an educational institution shall be deemed to be the evaluation of effectiveness of the activities thereof, as compared to other similar institutions. External evaluation standards shall be uniform for all educational institutions.
 
-- External  evaluation  shall  be  carried  out  with  the  knowledge  of  the  educational institution, by an independent organisation.
+5. External evaluation shall be carried out with the knowledge of the educational institution, by an independent organisation.
 
-- Parents, learners, authorised public and territorial administration bodies for education,  representatives  of  a  local  self-government  body  and  those  of  educational institution shall participate in external evaluation.
+6. Parents, learners, authorised public and territorial administration bodies for education, representatives of a local self-government body and those of educational institution shall participate in external evaluation.
 
-- External evaluation of an educational institution shall be carried out on the basis of the quality of educational services provided to the learner and the compliance of graduates with the requirements of the state standard for general education.
+7. External evaluation of an educational institution shall be carried out on the basis of the quality of educational services provided to the learner and the compliance of graduates with the requirements of the state standard for general education.
 
 53
 
@@ -1325,23 +1301,23 @@ educational institutions;
 
 [[START OF PAGE 54]]
 
-- The results of inspections carried out by the authorised public administration body for education shall be used during external evaluation.
+8. The results of inspections carried out by the authorised public administration body for education shall be used during external evaluation.
 
-- Average statistical data indicators of educational institutions shall be deemed to be the basis for the quality assessment of educational services.
+9. Average statistical data indicators of educational institutions shall be deemed to be the basis for the quality assessment of educational services.
 
-- The level of compliance of graduates with the requirements of the state standard for general education shall be determined by the results of the final attestation organised by the authorised public administration body for education.
+10. The level of compliance of graduates with the requirements of the state standard for general education shall be determined by the results of the final attestation organised by the authorised public administration body for education.
 
-- The authorised public administration body for education shall promulgate the rating list of educational institutions upon the results of external evaluation.
+11. The authorised public administration body for education shall promulgate the rating list of educational institutions upon the results of external evaluation.
 
 ## CHAPTER 7 ECONOMIC GROUNDS FOR THE ACTIVITIES OF THE SYSTEM OF GENERAL EDUCATION
 
 ### Article 35. Financing of an educational institution
 
-- Financial means of educational institutions shall generate from the State Budget and other resources not prohibited by the legislation.
+1. Financial means of educational institutions shall generate from the State Budget and other resources not prohibited by the legislation.
 
-- The procedure for financing the educational institutions from the State Budget shall be established by the Government of the Republic of Armenia.
+2. The procedure for financing the educational institutions from the State Budget shall be established by the Government of the Republic of Armenia.
 
-- Financing of an educational institution from the State Budget shall be carried out as of implemented programmes of general education depending on the number of learners. Non-state  education  institution  shall  be  financed  from  the  State  Budget  in  case  of complying with the requirements and the standards established by the Government of the Republic of Armenia.
+3. Financing of an educational institution from the State Budget shall be carried out as of implemented programmes of general education depending on the number of learners. Non-state education institution shall be financed from the State Budget in case of complying with the requirements and the standards established by the Government of the Republic of Armenia.
 
 54
 
@@ -1349,29 +1325,29 @@ educational institutions;
 
 [[START OF PAGE 55]]
 
-- 3.1. The children in need of special conditions for education shall avail themselves of the additional  state  support  for  the  organisation  of  education  with  an  increased  amount  of financing in case of having middle-level, grave and deep disorders relating to:
+3.1. The children in need of special conditions for education shall avail themselves of the additional state support for the organisation of education with an increased amount of financing in case of having middle-level, grave and deep disorders relating to:
 
-- voice and speech;
+(1) voice and speech;
 
-- hearing;
+(2) hearing;
 
-- vision;
+(3) vision;
 
-- intellectual (mental) retardation;
+(4) intellectual (mental) retardation;
 
-- movement.
+(5) movement.
 
-- 3.2. The scale of the increased amount of financing prescribed for children in need of special conditions for education as of the degree of gravity of the need of the child shall be defined by the Government of the Republic of Armenia.
+3.2. The scale of the increased amount of financing prescribed for children in need of special conditions for education as of the degree of gravity of the need of the child shall be defined by the Government of the Republic of Armenia.
 
-- Educational  institutions  may,  on  a  competitive  basis,  receive  from  the  State  Budget additional financing for the following purposes:
+4. Educational institutions may, on a competitive basis, receive from the State Budget additional financing for the following purposes:
 
-- to  implement  special  or  supplementary  educational  programmes  for  the  children having demonstrated outstanding abilities;
+(1) to implement special or supplementary educational programmes for the children having demonstrated outstanding abilities;
 
-- to carry out educational and methodical scientific experiment and (or) to implement an alternative programme;
+(2) to carry out educational and methodical scientific experiment and (or) to implement an alternative programme;
 
-- to organise preparatory meetings and courses for international olympiads of schoolchildren;
+(3) to organise preparatory meetings and courses for international olympiads of school-children;
 
-- to develop educational and methodical manuals and instruction materials (including in electronic form).
+(4) to develop educational and methodical manuals and instruction materials (including in electronic form).
 
 An educational institution may, on a competitive basis, receive additional financing from the  State  Budget  also  for  other  purposes  upon  the  proposal  of  the  authorised  public administration body for education.
 
@@ -1383,23 +1359,23 @@ An educational institution may, on a competitive basis, receive additional finan
 
 The  procedure  for  additional  financing  shall  be  established  by  the  Government  of  the Republic of Armenia.
 
-- A non-state education institution implementing programmes of general education as prescribed  by  the  legislation  of  the  Republic  of  Armenia,  may  organise  its  educational services  on  a  paid  basis,  as  well  as  charge  from  learners  tuition  fees,  pursuant  to  the Statute of the educational institution concerned.
+5. A non-state education institution implementing programmes of general education as prescribed by the legislation of the Republic of Armenia, may organise its educational services on a paid basis, as well as charge from learners tuition fees, pursuant to the Statute of the educational institution concerned.
 
-- Additional salary shall be set for pedagogical workers of state education institutions in borderline, highland and mountainous settlements of the Republic of Armenia, pursuant to the law on the State Budget of the given year, but not less than the amount provided for by the State Budget of the current year.
+6. Additional salary shall be set for pedagogical workers of state education institutions in borderline, highland and mountainous settlements of the Republic of Armenia, pursuant to the law on the State Budget of the given year, but not less than the amount provided for by the State Budget of the current year.
 
-(Article 35 amended by HO-228-N of 10 December 2009, supplemented by HO-200N of 1 December 2014)
+(Article 35 amended by HO-228-N of 10 December 2009, supplemented by HO-200-N of 1 December 2014)
 
 ### Article 36. Entrepreneurial activities of an educational institution
 
-- An  educational  institution  may  be  engaged  in  entrepreneurial  activities  only  in  the cases and in respect of the types of activities directly provided for by law or stipulated by the decision of the founder. An educational institution may be engaged in the types of activities subject to licensing only on the basis of a licence.
+1. An educational institution may be engaged in entrepreneurial activities only in the cases and in respect of the types of activities directly provided for by law or stipulated by the decision of the founder. An educational institution may be engaged in the types of activities subject to licensing only on the basis of a licence.
 
-- The profit arising from the activities of a state education institution shall be used for the  achievement  of  objectives  provided  for  by  the  Statute  thereof.  The  procedure  for using the profit of the educational institution shall be established by the founder.
+2. The profit arising from the activities of a state education institution shall be used for the achievement of objectives provided for by the Statute thereof. The procedure for using the profit of the educational institution shall be established by the founder.
 
-- The supervision over the financial and economic activities of an educational institution shall be exercised as prescribed by the laws of the Republic of Armenia.
+3. The supervision over the financial and economic activities of an educational institution shall be exercised as prescribed by the laws of the Republic of Armenia.
 
 ### Article 37. State guarantees for general education
 
-- The  State  shall  guarantee  relevant  annual  budgetary  allocations  to  the  needs  of  the activities of state education institutions within the system of general education.
+1. The State shall guarantee relevant annual budgetary allocations to the needs of the activities of state education institutions within the system of general education.
 
 56
 
@@ -1407,21 +1383,21 @@ The  procedure  for  additional  financing  shall  be  established  by  the  Gov
 
 [[START OF PAGE 57]]
 
-- State  financing  shall  be  deemed  to  be  the  basis  for  state  guarantee  for  receiving general education to the extent of state educational standards, as prescribed by law.
+2. State financing shall be deemed to be the basis for state guarantee for receiving general education to the extent of state educational standards, as prescribed by law.
 
-- The  State  shall  guarantee  equal  legal  framework  for  the  activities  of  educational institutions,  irrespective  of  the  legal  and  organisational  form  thereof,  in  respect  of activities of general education provided for by the Statute.
+3. The State shall guarantee equal legal framework for the activities of educational institutions, irrespective of the legal and organisational form thereof, in respect of activities of general education provided for by the Statute.
 
-- The  system  of  tax  privileges  prescribed  by  law  shall  apply  to  the  implementation  of basic programmes of general education.
+4. The system of tax privileges prescribed by law shall apply to the implementation of basic programmes of general education.
 
 ## CHAPTER 8 TRANSITIONAL AND FINAL PROVISIONS
 
 ### Article 38. Transitional provisions
 
-- Part 6 of Article 4 and part 8 of Article 7 of this Law shall not extend to learners aged 6,5  and  older  and  having  been  admitted  to  the  first  year  of  the  schools  of  general education by 2006. Their education shall continue pursuant to Article 55 of the Law of the Republic of Armenia 'On education'.
+1. Part 6 of Article 4 and part 8 of Article 7 of this Law shall not extend to learners aged 6,5 and older and having been admitted to the first year of the schools of general education by 2006. Their education shall continue pursuant to Article 55 of the Law of the Republic of Armenia “On education”.
 
-- The types of state education institutions shall be brought in line with the requirements of  parts  1  and  5  of  Article  8  of  this  Law  by  2011-2012  academic  year,  pursuant  to  the timetable established by the Government of the Republic of Armenia.
+2. The types of state education institutions shall be brought in line with the requirements of parts 1 and 5 of Article 8 of this Law by 2011-2012 academic year, pursuant to the timetable established by the Government of the Republic of Armenia.
 
-- The provisions referred to in parts 1 and 2 of Article 12 of this Law shall not extend to the directors having been elected before the entry into force of the Law, until the expiry of their powers prescribed by law. Whereas the directors, holding office on a contractual basis  for  an  indefinite  time  period,  shall  undergo  training  by  1  August  2011,  receive  a certificate  on  the  right  to  manage  an  educational  institution  and  participate  in  the competition for the election of directors in accordance with the procedure and timetable established  by  the  Government  of  the  Republic  of  Armenia.  The  certification  of pedagogical workers having received the honorary title of Distinguished Pedagogue, and
+3. The provisions referred to in parts 1 and 2 of Article 12 of this Law shall not extend to the directors having been elected before the entry into force of the Law, until the expiry of their powers prescribed by law. Whereas the directors, holding office on a contractual basis for an indefinite time period, shall undergo training by 1 August 2011, receive a certificate on the right to manage an educational institution and participate in the competition for the election of directors in accordance with the procedure and timetable established by the Government of the Republic of Armenia. The certification of pedagogical workers having received the honorary title of Distinguished Pedagogue, and
 
 57
 
@@ -1431,13 +1407,13 @@ The  procedure  for  additional  financing  shall  be  established  by  the  Gov
 
 that of directors holding office on a contractual basis for an indefinite time period and expected  to  attain  the  age  of  61  and  older  prior  to  31  December  2011  inclusive,  shall constitute and exception. Their certification shall be carried out through testing, i.e. the procedure established by the authorised public administration body for education. The powers  of  the  directors  having  failed  to  receive  relevant  certificate  or  to  win  the competition, shall terminate.
 
-- Article 26 of this Law shall enter into force from 1 March 2010.
+4. Article 26 of this Law shall enter into force from 1 March 2010.
 
-- The teachers working at an educational institution and not meeting the requirements prescribed by point 1 of Article 26 of this Law, may continue their professional activities up to 20 August 2018, unless they meet the requirements to a teacher until then.
+5. The teachers working at an educational institution and not meeting the requirements prescribed by point 1 of Article 26 of this Law, may continue their professional activities up to 20 August 2018, unless they meet the requirements to a teacher until then.
 
-- Article 34 of this Law shall enter into force from 1 August 2012.
+6. Article 34 of this Law shall enter into force from 1 August 2012.
 
-- The regulatory legal acts incompatible with the provisions of this Law shall be brought in line with the requirements of this Law by 20 August 2010.
+7. The regulatory legal acts incompatible with the provisions of this Law shall be brought in line with the requirements of this Law by 20 August 2010.
 
 (Article  38  supplemented by HO-146-N of 12 May 2011, edited by HO-264-N of 6
 
@@ -1451,15 +1427,13 @@ promulgation.
 
 President
 
-of the Republic of Armenia
+of the Republic of Armenia S. Sargsyan
 
 Yerevan
 
 23 July 2009
 
 HO-160-N
-
-S. Sargsyan
 
 58
 
