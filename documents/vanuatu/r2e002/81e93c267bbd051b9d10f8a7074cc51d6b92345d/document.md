@@ -1,9 +1,5 @@
 [[START OF PAGE 1]]
 
-- Amendment
-
-- Commencement
-
 Commencement: 16 July 2007
 
 REPUBLIC OF VANUATU
@@ -11,6 +7,10 @@ REPUBLIC OF VANUATU
 # VANUATU NATIONAL TRAINING COUNCIL (AMENDMENT) ACT NO.4 OF 2007
 
 ## Arrangement of Sections
+
+1. Amendment
+
+2. Commencement
 
 -------------------------------------
 
@@ -150,7 +150,7 @@ Insert
 
 ###### "10A  Protection for action taken under this Act
 
-- No suit or prosecution lies:
+(1) No suit or prosecution lies:
 
 (a) against the Council for anything done in good faith by the Council under this Act or Regulation; or
 
@@ -200,9 +200,9 @@ Repeal the section, substitute,
 
 ###### "17 Application for accreditation of a vocational course
 
-- Any person may apply to the Council for accreditation of a vocational course.
+(1) Any person may apply to the Council for accreditation of a vocational course.
 
-- An application for accreditation of a vocational course must:
+(2) An application for accreditation of a vocational course must:
 
 (a) be in writing and in the form specified by the Council; and
 
@@ -296,7 +296,7 @@ Repeal the section, substitute
 
 ###### "18 Period of accreditation and renewal
 
-- The accreditation of a vocational course by the Council is to have effect for a period not exceeding 5 years which is to be specified by the Council.
+(1) The accreditation of a vocational course by the Council is to have effect for a period not exceeding 5 years which is to be specified by the Council.
 
 (2) Subsection (1) does not apply if the registration is cancelled earlier by the Council.
 
@@ -560,7 +560,7 @@ A training provider or a course provider who provides false or misleading inform
 
 ###### 22K Council to approve persons to provide courses to overseas students
 
-- A person who intends to provide courses for overseas students must apply to the Council for registration as a training provider for overseas student.
+(1) A person who intends to provide courses for overseas students must apply to the Council for registration as a training provider for overseas student.
 
 (2) If the Council approves an application under subsection (1), the approval may, (according to its terms) apply:
 
@@ -570,15 +570,15 @@ A training provider or a course provider who provides false or misleading inform
 
 (c) to a specified course or courses.
 
-- An application to provide courses for overseas students must be in such form, and be accompanied by such fee, as may be determined by the Council.
+(3) An application to provide courses for overseas students must be in such form, and be accompanied by such fee, as may be determined by the Council.
 
-- The Council may require an applicant to furnish further information in relation to the application.
+(4) The Council may require an applicant to furnish further information in relation to the application.
 
 ###### 22L Conditions for approval
 
 (1) The Council may grant the approval unconditionally or subject to such conditions as may be imposed when the approval is granted or at any later time as the Council determines.
 
-- The conditions imposed under subsection (1) may include:
+(2) The conditions imposed under subsection (1) may include:
 
 (a) conditions that specify the period of the approval; or
 
@@ -730,7 +730,7 @@ Insert
 
 ###### 28A Compliance Audit
 
-- The Council may at any time, conduct a compliance audit:
+(1) The Council may at any time, conduct a compliance audit:
 
 (a) of a training provider that has been registered by the Council or that applies to the Council for registration; or
 
@@ -792,7 +792,7 @@ The Council may engage a person who has technical skills or knowledge to be an i
 
 (2) To avoid doubt, the powers of an inspector under subsection (1) may be exercised only during the ordinary operating hours of any such premises concerned.
 
-- An inspector must in exercising the powers conferred by this section:
+(3) An inspector must in exercising the powers conferred by this section:
 
 (a) if requested to do so by any person on the premises, produce evidence of his or her identification for inspection; and
 
