@@ -7,9 +7,7 @@ Türkmenistanyň halky bolan biz, öz ykbalymyzy kesgitlemek baradaky mizemez hu
 #### 1­nji madda.
 Türkmenistan ­ demokratik, hukuk we dünýewi döwlet bolup, onda döwleti dolandyrmak prezident respublikasy görnüşinde amala aşyrylýar. Türkmenistan öz çäginde hökmürowandyr we bütin häkimiýete eýedir, ol içeri we daşary syýasaty özbaşdak amala aşyrýar. Türkmenistanyň döwlet özygtyýarlylygy we çägi bitewidir hem bölünmezdir. Döwlet Türkmenistanyň garaşsyzlygyny, çäk bütewiligini, konstitusion gurluşyny goraýar, kanunylygyň berjaý edilmegini hem hukuk tertibini üpjün edýär. Türkmenistan kanun esasynda hemişelik bitaraplyk hukuk ýagdaýyna eýedir. Birleşen Milletler Guramasy Baş Assambleýasynyň 1995­nji ýylyň 12­nji dekabryndaky "Türkmenistanyň hemişelik bitaraplygy" Rezolýusiýasynda: "1. Türkmenistanyň yglan eden hemişelik bitaraplyk hukuk ýagdaýyny ykrar edýär we goldaýar; 2. Türkmenistanyň bu hukuk ýagdaýyna hormat goýmaga hem­de ony goldamaga, şeýle hem onuň garaşsyzlygyna, özygtyýarlylygyna we çäkleriniň bütewiligine hormat goýmaga Birleşen Milletler Guramasynyň agzalary bolan döwletleri çagyrýar.". Dünýä bileleşigi tarapyndan ykrar edilen Türkmenistanyň hemişelik bitaraplygy onuň içeri we daşary syýasatynyň esasy bolup durýar.
 #### 2­nji madda.
-Türkmenistanyň özygtyýarlylygyny halk amala aşyrýar, halk döwlet häkimiýetiniň ýeke­täk gözbaşydyr. Türkmenistanyň halky öz häkimiýetini gös­göni ýa­
-
-da wekilçilikli edaralaryň üsti bilen amala aşyrýar.
+Türkmenistanyň özygtyýarlylygyny halk amala aşyrýar, halk döwlet häkimiýetiniň ýeke­täk gözbaşydyr. Türkmenistanyň halky öz häkimiýetini gös­göni ýa­da wekilçilikli edaralaryň üsti bilen amala aşyrýar.
 
 [[END OF PAGE 1]]
 
@@ -41,37 +39,54 @@ Daşary ýurt raýatlary we raýatlygy bolmadyk adamlar, Türkmenistanyň kanun�
 #### 9­njy madda.
 Eýeçilik eldegrilmesizdir. Türkmenistan önümçilik serişdelerine, ýere, beýleki maddy hem intellektual gymmatlyklara hususy eýeçilik hukugyny berkarar edýär. Şonuň ýaly­da olar raýatlaryň birleşiklerine we döwlete degişli bolup biler. Diňe döwletiň eýeçiligi bolup durýan obýektler kanun esasynda bellenilýär. Döwlet eýeçiligiň ähli görnüşleriniň deň derejedäki goragyny kepillendirýär we olaryň ösmegi üçin deň şertleri döredýär. Kanun tarapyndan gadagan edilen usul bilen edinilen eýeçilikden başga eýeçiligiň muzdsuz alynmagyna ýol berilmeýär. Diňe kanunda göz öňünde tutulan halatlarda eýeçiligiň muzduny töläp, mejbury alynmagyna ýol berilýär.
 #### 10­njy madda.
-Türkmenistanyň ykdysadyýeti bazar gatnaşyklary ýörelgelerine esaslanýar. Döwlet telekeçiligi höweslendirỳär we goldaỳar, kiçi we orta işewürligiň ösmegine ỳardam berỳär.
+Türkmenistanyň ykdysadyýeti bazar gatnaşyklary ýörelgelerine esaslanýar. Döwlet telekeçiligi höweslendirýär we goldaýar, kiçi we orta işewürligiň ösmegine ýardam berýär.
 #### 11­nji madda.
-Döwlet milli taryhy­medeni mirasyň, tebigy gurşawyň abat saklanmagy, sosial we milli toparlaryň arasyndaky deňligiň üpjün edilmegi üçin jogapkärdir. Döwlet ylmy hem çeper döredijiligi, onuň oňyn netijeleriniň ýaýradylmagyny höweslendirýär, ylym, medeniýet, terbiýeçilik we bilim bermek, sport we syýahat babatda halkara gatnaşyklarynyň ösdürilmegine ýardam edýär. gatyşmagyna hem­de döwlet işlerini ýerine ýetirmegine ýol berilmeýär. Döwletiň bilim
+Döwlet milli taryhy­medeni mirasyň, tebigy gurşawyň abat saklanmagy, sosial we milli toparlaryň arasyndaky deňligiň üpjün edilmegi üçin jogapkärdir. Döwlet ylmy hem çeper döredijiligi, onuň oňyn netijeleriniň ýaýradylmagyny höweslendirýär, ylym, medeniýet, terbiýeçilik we bilim bermek, sport we syýahat babatda halkara gatnaşyklarynyň ösdürilmegine ýardam edýär.
 
 #### 12­nji madda.
-Döwlet dinleriň we dine uýmagyň erkinligini, olaryň kanun öňünde deňligini kepillendirýär. Dini guramalar döwletden aýrydyr we olaryň döwlet işlerine ulgamy dini guramalardan aýrydyr we ol dünýewi häsiýete eýedir.
+Döwlet dinleriň we dine uýmagyň erkinligini, olaryň kanun öňünde deňligini kepillendirýär. Dini guramalar döwletden aýrydyr we olaryň döwlet işlerine gatyşmagyna hem­de döwlet işlerini ýerine ýetirmegine ýol berilmeýär. Döwletiň bilim ulgamy dini guramalardan aýrydyr we ol dünýewi häsiýete eýedir.
 
-Her bir adam özüniň dine garaýşyny özbaşdak kesgitleýär, onuň ýeke özi ýa­da beýleki adamlar bilen bilelikde islän dinine uýmaga ýa­da hiç bir dine uýmazlyga, şonuň ýaly­da dine bolan garaýyşlary bilen baglanyşykly ynam­ygtykatlaryny beýan etmäge we ýaýratmaga, dini adatlary, däp­dessurlary berjaý etmäge gatnaşmaga haky bardyr.
-#### 13­nji madda.
-Türkmenistanyň döwlet özygtyýarlylygyny we howpsuzlygyny gorap saklamak üçin Ýaragly Güýçleri bardyr.
-#### 14­nji madda.
-Türkmen dili Türkmenistanyň döwlet dilidir. Türkmenistanyň ähli raýatlaryna öz ene dilini ulanmak hukugy kepillendirilýär.
-#### 15­nji madda.
-Türkmenistanyň özygtyýarly döwlet hökmündäki nyşanlary ­ Döwlet baýdagy, Döwlet tugrasy, Döwlet senasy  bardyr. Baýdak, Tugra, Sena kanun esasynda kabul edilýär we goralýar.
-#### 16­njy madda.
-Türkmenistan dolandyryş­çäk gurluşy boýunça welaýatlardan, welaýat hukukly şäherlerden, etraplardan, etrap hukukly şäherlerden, etrapdaky şäherlerden, şäherçelerden, geňeşliklerden ybaratdyr. Bir ýa­da birnäçe obanyň çägi geňeşligi emele getirýär.
-#### 17­nji madda.
-Türkmenistanyň paýtagty Aşgabat şäheridir.
-## II bölüm. Türkmenistanda adamyň we raýatyň hukuklary, azatlyklary hem borçlary
-#### 18­nji madda.
-Adamyň hukuklary hem azatlyklary eldegrilmesizdir we olary adamyň elinden alyp bolmaz. Konstitusiýada we kanunlarda görkezilen ýagdaýlardan başga ýagdaýlarda adamy haýsydyr bir hukugyndan we azatlygyndan mahrum etmäge ýa­da hukuklaryny we azatlyklaryny çäklendirmäge hiç kimiň haky ýokdur. Adamyň belli bir hukuklarynyň we azatlyklarynyň Konstitusiýada we kanunlarda sanalyp geçilmegi onuň beýleki hukuklaryny we azatlyklaryny inkär etmek ýa­da kemsitmek üçin ulanylyp bilinmez.
-#### 19­njy madda.
-Türkmenistan adamyň we raýatyň hukuklarynyň hem azatlyklarynyň deňligini, şeýle hem haýsy millete degişlidigine, teniniň reňkine, jynsyna, gelip çykyşyna, emläk hem wezipe ýagdaýyna, ýaşaýan ýerine, diline, dine garaýşyna, syýasy ygtykadyna, haýsy partiýa degişlidigine ýa­da hiç partiýa degişli däldigine garamazdan adamyň we raýatyň kanun öňündäki deňligini kepillendirýär.
-#### 20­nji madda.
-Türkmenistanda erkekler bilen aýallar deň raýatlyk hukuklaryna eýedirler. Deňhukuklylygyň jyns alamaty boýunça bozulmagy kanun esasynda jogapkärçilige getirýär.
+Her bir adam özüniň dine garaýşyny özbaşdak kesgitleýär, onuň ýeke özi ýa­da beýleki adamlar bilen bilelikde islän dinine uýmaga ýa­da hiç bir dine uýmazlyga, şonuň ýaly­da
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+dine bolan garaýyşlary bilen baglanyşykly ynam­ygtykatlaryny beýan etmäge we ýaýratmaga, dini adatlary, däp­dessurlary berjaý etmäge gatnaşmaga haky bardyr.
+
+#### 13­nji madda.
+Türkmenistanyň döwlet özygtyýarlylygyny we howpsuzlygyny gorap saklamak üçin Ýaragly Güýçleri bardyr.
+
+#### 14­nji madda.
+Türkmen dili Türkmenistanyň döwlet dilidir. Türkmenistanyň ähli raýatlaryna öz ene dilini ulanmak hukugy kepillendirilýär.
+
+#### 15­nji madda.
+Türkmenistanyň özygtyýarly döwlet hökmündäki nyşanlary ­ Döwlet baýdagy, Döwlet tugrasy, Döwlet senasy bardyr.
+
+Baýdak, Tugra, Sena kanun esasynda kabul edilýär we goralýar.
+
+#### 16­njy madda.
+Türkmenistan dolandyryş­çäk gurluşy boýunça welaýatlardan, welaýat hukukly şäherlerden, etraplardan, etrap hukukly şäherlerden, etrapdaky şäherlerden, şäherçelerden, geňeşliklerden ybaratdyr.
+
+Bir ýa­da birnäçe obanyň çägi geňeşligi emele getirýär.
+
+#### 17­nji madda.
+Türkmenistanyň paýtagty Aşgabat şäheridir.
+
+## II bölüm. Türkmenistanda adamyň we raýatyň hukuklary, azatlyklary hem borçlary
+
+#### 18­nji madda.
+Adamyň hukuklary hem azatlyklary eldegrilmesizdir we olary adamyň elinden alyp bolmaz.
+
+Konstitusiýada we kanunlarda görkezilen ýagdaýlardan başga ýagdaýlarda adamy haýsydyr bir hukugyndan we azatlygyndan mahrum etmäge ýa­da hukuklaryny we azatlyklaryny çäklendirmäge hiç kimiň haky ýokdur.
+
+Adamyň belli bir hukuklarynyň we azatlyklarynyň Konstitusiýada we kanunlarda sanalyp geçilmegi onuň beýleki hukuklaryny we azatlyklaryny inkär etmek ýa­da kemsitmek üçin ulanylyp bilinmez.
+
+#### 19­njy madda.
+Türkmenistan adamyň we raýatyň hukuklarynyň hem azatlyklarynyň deňligini, şeýle hem haýsy millete degişlidigine, teniniň reňkine, jynsyna, gelip çykyşyna, emläk hem wezipe ýagdaýyna, ýaşaýan ýerine, diline, dine garaýşyna, syýasy ygtykadyna, haýsy partiýa degişlidigine ýa­da hiç partiýa degişli däldigine garamazdan adamyň we raýatyň kanun öňündäki deňligini kepillendirýär.
+
+#### 20­nji madda.
+Türkmenistanda erkekler bilen aýallar deň raýatlyk hukuklaryna eýedirler. Deňhukuklylygyň jyns alamaty boýunça bozulmagy kanun esasynda jogapkärçilige getirýär.
 
 [[END OF PAGE 4]]
 
@@ -131,9 +146,7 @@ Her bir raýatyň bilim almaga hukugy bardyr. Umumy orta bilim hökmanydyr, her 
 #### 39­njy madda.
 Türkmenistanyň raýatlarynyň öz çeper, ylmy we tehniki döredijiligini erkin alyp barmaga hukugy bardyr. Raýatlaryň ylmy, tehniki döredijilikde, çeperçilik, edebiýat hem medeniýet işinde awtorlyk hukuklary we bähbitleri kanun esasynda goralýar. Döwlet ylmyň, medeniýetiň, sungatyň, halk döredijiliginiň, sportuň we syýahatçylygyň ösmegine ýardam edýär.
 #### 40­njy madda.
-Adamyň we raýatyň öz hukuklaryny hem azatlyklaryny amala aşyrmagy, onuň jemgyýetiň we döwletiň öňündäki borçlaryny ýerine ýetirmegi bilen aýrylmaz baglanyşyklydyr. Türkmenistanyň çäginde ýaşaýan ýa­da wagtlaýyn bolýan her bir adam Türkmenistanyň Konstitusiýasyny, kanunlaryny berjaý etmäge we milli däp­dessurlaryny hormatlamaga
-
-borçludyr. �
+Adamyň we raýatyň öz hukuklaryny hem azatlyklaryny amala aşyrmagy, onuň jemgyýetiň we döwletiň öňündäki borçlaryny ýerine ýetirmegi bilen aýrylmaz baglanyşyklydyr. Türkmenistanyň çäginde ýaşaýan ýa­da wagtlaýyn bolýan her bir adam Türkmenistanyň Konstitusiýasyny, kanunlaryny berjaý etmäge we milli däp­dessurlaryny hormatlamaga borçludyr.
 
 [[END OF PAGE 7]]
 
@@ -158,15 +171,13 @@ Raýatlaryň şu Konstitusiýada göz öňünde tutulan hukuklarynyň hem azatly
 #### 48­nji madda.
 Türkmenistanda ýokary döwlet häkimiýetini we dolandyryşy Türkmenistanyň Prezidenti, Türkmenistanyň Mejlisi, Türkmenistanyň Ministrler Kabineti, Türkmenistanyň Ýokary kazyýeti amala aşyrýar.
 #### 49­njy madda.
-Ỳerli häkimiýeti welaýatlarda, welaýat hukukly şäherlerde, etraplarda,
-
-etrap hukukly şäherlerde ýerli wekilçilikli we ýerine ýetiriji edaralar amala aşyrýarlar,
+Ýerli häkimiýeti welaýatlarda, welaýat hukukly şäherlerde, etraplarda, etrap hukukly şäherlerde ýerli wekilçilikli we ýerine ýetiriji edaralar amala aşyrýarlar,
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-- etrapdaky şäherlerde, şäherçelerde, geňeşliklerde bolsa ýerli öz­özüňi dolandyryş edaralary ­ Geňeşler.
+etrapdaky şäherlerde, şäherçelerde, geňeşliklerde bolsa ýerli öz­özüňi dolandyryş edaralary ­ Geňeşler.
 ### II bap. Türkmenistanyň Prezidenti
 #### 50­nji madda.
 Türkmenistanyň Prezidenti döwletiň we ýerine ýetiriji häkimiýetiň baştutanydyr, Türkmenistanyň iň ýokary wezipeli adamydyr, ol Türkmenistanyň döwlet garaşsyzlygynyň we bitaraplyk hukuk ýagdaýynyň, ýurt bitewiliginiň, Konstitusiýany berjaý etmegiň we halkara borçnamalaryny ýerine ýetirmegiň kepili hökmünde çykyş edýär.
@@ -175,31 +186,35 @@ Türkmenistanda doglan, ýaşy kyrkdan pes bolmadyk we ýetmişden uly bolmadyk,
 #### 52­nji madda.
 Türkmenistanyň Prezidenti gös­göni Türkmenistanyň halky tarapyndan bäş ýyl möhlete saýlanylýar we kasam kabul eden pursadyndan öz wezipesine girişýär. Türkmenistanyň Prezidentini saýlamagyň we onuň öz wezipesine girişmeginiň tertibi kanun arkaly kesgitlenilýär.
 #### 53­nji madda.
-Türkmenistanyň Prezidenti: 1) Konstitusiýany we kanunlary durmuşa geçirýär; 2) daşary syýasatyň amala aşyrylmagyna ýolbaşçylyk edýär, beýleki döwletler bilen gatnaşyklarda Türkmenistana wekilçilik edýär, Türkmenistanyň daşary ýurt döwletlerindäki, döwletara we halkara guramalarynyň ýanyndaky ilçilerini we beýleki diplomatik wekillerini belleýär hem yzyna çagyrýar, daşary ýurt döwletleriniň diplomatik wekilleriniň ynanç hem yzyna çagyrylyş hatlaryny kabul edýär; 3) Türkmenistanyň Ýaragly Güýçleriniň Belent Serkerdebaşysydyr, ol Ỳaragly Güýçleriň ählumumy ýa­da bölekleýin mobilizasiýasyny geçirmek, Ýaragly Güýçleri ulanmak we söweşjeň ýagdaýa getirmek hakynda buýruk berýär, Türkmenistanyň Ýaragly Güýçleriniň ýokary serkerdelerini belleýär; 4) hukuk ýagdaýy kanun esasynda kesgitlenýän Türkmenistanyň Döwlet howpsuzlyk geňeşini döredýär we oňa ýolbaşçylyk edýär; 5) ýurdy syýasy, ykdysady, sosial taýdan ösdürmegiň maksatnamalaryny we esasy ugurlaryny tassyklaýar; 6) Türkmenistanyň Döwlet býujetini hem onuň ýerine ýetirilişi hakyndaky hasabaty
-
-- Mejlisiň garamagyna we tassyklamagyna berýär;
+Türkmenistanyň Prezidenti:
+1) Konstitusiýany we kanunlary durmuşa geçirýär;
+2) daşary syýasatyň amala aşyrylmagyna ýolbaşçylyk edýär, beýleki döwletler bilen gatnaşyklarda Türkmenistana wekilçilik edýär, Türkmenistanyň daşary ýurt döwletlerindäki, döwletara we halkara guramalarynyň ýanyndaky ilçilerini we beýleki diplomatik wekillerini belleýär hem yzyna çagyrýar, daşary ýurt döwletleriniň diplomatik wekilleriniň ynanç hem yzyna çagyrylyş hatlaryny kabul edýär;
+3) Türkmenistanyň Ýaragly Güýçleriniň Belent Serkerdebaşysydyr, ol Ýaragly Güýçleriň ählumumy ýa­da bölekleýin mobilizasiýasyny geçirmek, Ýaragly Güýçleri ulanmak we söweşjeň ýagdaýa getirmek hakynda buýruk berýär, Türkmenistanyň Ýaragly Güýçleriniň ýokary serkerdelerini belleýär;
+4) hukuk ýagdaýy kanun esasynda kesgitlenýän Türkmenistanyň Döwlet howpsuzlyk geňeşini döredýär we oňa ýolbaşçylyk edýär;
+5) ýurdy syýasy, ykdysady, sosial taýdan ösdürmegiň maksatnamalaryny we esasy ugurlaryny tassyklaýar;
+6) Türkmenistanyň Döwlet býujetini hem onuň ýerine ýetirilişi hakyndaky hasabaty Mejlisiň garamagyna we tassyklamagyna berýär;
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-- kanunlara gol çekýär, ylalaşmadyk ýagdaýynda, gaýra goýmak gadaganlygyny (wetosyny) ulanyp, närazy ýerlerini görkezmek bilen kanuny iki hepdeden gijä goýman, Mejlise täzeden ara alyp maslahatlaşmak we sese goýmak üçin gaýtarmaga haklydyr. Eger Mejlis deputatlaryň bellenen sanynyň azyndan üçden iki böleginiň ses bermegi bilen ozal kabul eden çözgüdini tassyklaýan bolsa, onda Türkmenistanyň Prezidenti şol kanuna gol çekýär. Türkmenistanyň Prezidentiniň Konstitusiýa üýtgetmeler we goşmaçalar girizmek hakyndaky kanunlar babatda gaýra goýmak gadaganlygyny (wetosyny) ulanmaga hukugy ýokdur;
+7) kanunlara gol çekýär, ylalaşmadyk ýagdaýynda, gaýra goýmak gadaganlygyny (wetosyny) ulanyp, närazy ýerlerini görkezmek bilen kanuny iki hepdeden gijä goýman, Mejlise täzeden ara alyp maslahatlaşmak we sese goýmak üçin gaýtarmaga haklydyr. Eger Mejlis deputatlaryň bellenen sanynyň azyndan üçden iki böleginiň ses bermegi bilen ozal kabul eden çözgüdini tassyklaýan bolsa, onda Türkmenistanyň Prezidenti şol kanuna gol çekýär. Türkmenistanyň Prezidentiniň Konstitusiýa üýtgetmeler we goşmaçalar girizmek hakyndaky kanunlar babatda gaýra goýmak gadaganlygyny (wetosyny) ulanmaga hukugy ýokdur;
 
-- Türkmenistanda Saýlawlary we sala salşyklary geçirmek baradaky Merkezi topary döredýär, onuň düzümine üýtgetmeler girizýär;
+8) Türkmenistanda Saýlawlary we sala salşyklary geçirmek baradaky Merkezi topary döredýär, onuň düzümine üýtgetmeler girizýär;
 
-- sala salşyklary geçirmegiň senesini belleýär, Mejlisiň maslahatyny möhletinden öň çagyrmaga haklydyr;
+9) sala salşyklary geçirmegiň senesini belleýär, Mejlisiň maslahatyny möhletinden öň çagyrmaga haklydyr;
 
-- Türkmenistanyň raýatlygyna kabul etmek, raýatlykdan çykarmak we gaçybatalga bermek hakyndaky meseleleri çözýär;
+10) Türkmenistanyň raýatlygyna kabul etmek, raýatlykdan çykarmak we gaçybatalga bermek hakyndaky meseleleri çözýär;
 
-- Türkmenistanyň ordenleri we beýleki döwlet sylaglary bilen sylaglaýar, harby atlary, beýleki ýörite döwlet atlaryny we tapawutlandyryş atlaryny dakýar;
+11) Türkmenistanyň ordenleri we beýleki döwlet sylaglary bilen sylaglaýar, harby atlary, beýleki ýörite döwlet atlaryny we tapawutlandyryş atlaryny dakýar;
 
-- Mejlis bilen ylalaşyp, Ýokary kazyýetiň başlygyny, Baş prokurory, Içeri işler ministrini, Adalat ministrini wezipä belleýär we wezipeden boşadýar;
+12) Mejlis bilen ylalaşyp, Ýokary kazyýetiň başlygyny, Baş prokurory, Içeri işler ministrini, Adalat ministrini wezipä belleýär we wezipeden boşadýar;
 
-- rehim etme hem­de günä geçme çärelerini amala aşyrýar;
+13) rehim etme hem­de günä geçme çärelerini amala aşyrýar;
 
-- raýatlaryň howpsuzlygyny üpjün etmek üçin Türkmenistanyň bütin çäginde ýa­da aýry­aýry ýerlerinde adatdan daşary ýagdaý düzgünini girizýär. Adatdan daşary ýagdaý düzgüni Türkmenistanyň kanuny bilen kadalaşdyrylýar;
+14) raýatlaryň howpsuzlygyny üpjün etmek üçin Türkmenistanyň bütin çäginde ýa­da aýry­aýry ýerlerinde adatdan daşary ýagdaý düzgünini girizýär. Adatdan daşary ýagdaý düzgüni Türkmenistanyň kanuny bilen kadalaşdyrylýar;
 
-- Konstitusiýada we kanunlarda özüniň ygtyýarlyklaryna degişli edilen beýleki meseleleri çözýär.
+15) Konstitusiýada we kanunlarda özüniň ygtyýarlyklaryna degişli edilen beýleki meseleleri çözýär.
 
 #### 54­nji madda.
 Türkmenistanyň Prezidenti Türkmenistanyň bütin çäginde hökmanylyk güýji bolan permanlary, kararlary we buýruklary çykarýar.
@@ -208,7 +223,7 @@ Türkmenistanyň Prezidenti Türkmenistanyň bütin çäginde hökmanylyk güýj
 Türkmenistanyň Prezidenti Mejlisiň deputaty bolup bilmez.
 
 #### 56­njy madda.
-Türkmenistanyň Prezidenti eldegrilmesizlik hukugyna eýedir. Onuň at­ abraýy we mertebesi kanun bilen goralýar.
+Türkmenistanyň Prezidenti eldegrilmesizlik hukugyna eýedir. Onuň at­abraýy we mertebesi kanun bilen goralýar.
 
 Türkmenistanyň Prezidentiniň we onuň maşgalasynyň üpjünçiligi, hyzmat edilişi we goragy döwletiň hasabyna amala aşyrylýar.
 
@@ -219,90 +234,59 @@ Türkmenistanyň Prezidenti näsaglygy sebäpli öz borçlaryny ýerine ýetirip
 
 [[START OF PAGE 11]]
 
-garaşsyz lukmançylyk toparynyň çykaran netijenamasy esasynda Türkmenistanyň çözgüt Mejlisiň bellenen sandaky deputatlarynyň üçden iki böleginden az bolmadyk sesleriniň köplügi bilen kabul edilýär.
+garaşsyz lukmançylyk toparynyň çykaran netijenamasy esasynda Türkmenistanyň Prezidentini möhletinden öň wezipesinden boşatmak hakynda çözgüt kabul edýär. Şol çözgüt Mejlisiň bellenen sandaky deputatlarynyň üçden iki böleginden az bolmadyk sesleriniň köplügi bilen kabul edilýär.
 
-Prezidentini möhletinden öň wezipesinden boşatmak hakynda çözgüt kabul edýär.  Şol Türkmenistanyň Prezidenti Konstitusiýany we kanunlary bozan halatynda, Türkmenistanyň Mejlisi Türkmenistanyň Prezidentine ynamsyzlyk bildirip biler. Türkmenistanyň Prezidentine ynam bildirmezlik hakyndaky meselä Mejlisiň bellenen sandaky deputatlarynyň azyndan üçden ikisiniň talap etmegine görä seretmek bolar. Türkmenistanyň Prezidentine ynam bildirmezlik hakyndaky çözgüt Türkmenistanyň Mejlisiniň bellenen sandaky deputatlarynyň  dörtden üç böleginden az bolmadyk sesleriniň köplügi bilen kabul edilýär. Türkmenistanyň Prezidentini wezipesinden çetleşdirmek hakyndaky mesele ählihalk sala salşygyna goýulýar.
+Türkmenistanyň Prezidenti Konstitusiýany we kanunlary bozan halatynda, Türkmenistanyň Mejlisi Türkmenistanyň Prezidentine ynamsyzlyk bildirip biler. Türkmenistanyň Prezidentine ynam bildirmezlik hakyndaky meselä Mejlisiň bellenen sandaky deputatlarynyň azyndan üçden ikisiniň talap etmegine görä seretmek bolar. Türkmenistanyň Prezidentine ynam bildirmezlik hakyndaky çözgüt Türkmenistanyň Mejlisiniň bellenen sandaky deputatlarynyň dörtden üç böleginden az bolmadyk sesleriniň köplügi bilen kabul edilýär. Türkmenistanyň Prezidentini wezipesinden çetleşdirmek hakyndaky mesele ählihalk sala salşygyna goýulýar.
 #### 58­nji madda.
-Türkmenistanyň Prezidentiniň Konstitusiýanyň 53­nji maddasynyň 2­nji, 11­nji, 13­nji bentlerinde göz öňünde tutulan özüniň Mejlisiň Başlygyna berlip bilinýän ygtyýarlyklaryndan beýleki ygtyýarlyklaryny başga döwlet edaralaryna ýa­da wezipeli adamlara bermäge haky ýokdur. Eger Türkmenistanyň Prezidenti haýsydyr bir sebäbe göra öz borçlaryny ýerine ýetirip bilmeýän bolsa, onda Prezident saýlanýança Türkmenistanyň Döwlet howpsuzlyk geňeşiniň çözgüdi esasynda Türkmenistanyň Prezidentiniň wezipesini wagtlaýyn ýerine ýetirmek Türkmenistanyň Ministrler Kabinetiniň Başlygynyň orunbasarlarynyň biriniň üstüne ýüklenilýär. Şu ýagdaýda Prezidentiň saýlawlary onuň ygtyýarlyklarynyň Türkmenistanyň Prezidentiniň wezipesini wagtlaýyn ýerine ýetirijä geçen gününden başlap, 60 günden gijä goýulman geçirilmelidir. Türkmenistanyň Prezidentiniň wezipesini wagtlaýyn ýerine ýetiriji Prezidentlige dalaşgär bolup bilmez.
+Türkmenistanyň Prezidentiniň Konstitusiýanyň 53­nji maddasynyň 2­nji, 11­nji, 13­nji bentlerinde göz öňünde tutulan özüniň Mejlisiň Başlygyna berlip bilinýän ygtyýarlyklaryndan beýleki ygtyýarlyklaryny başga döwlet edaralaryna ýa­da wezipeli adamlara bermäge haky ýokdur. Eger Türkmenistanyň Prezidenti haýsydyr bir sebäbe görä öz borçlaryny ýerine ýetirip bilmeýän bolsa, onda Prezident saýlanýança Türkmenistanyň Döwlet howpsuzlyk geňeşiniň çözgüdi esasynda Türkmenistanyň Prezidentiniň wezipesini wagtlaýyn ýerine ýetirmek Türkmenistanyň Ministrler Kabinetiniň Başlygynyň orunbasarlarynyň biriniň üstüne ýüklenilýär. Şu ýagdaýda Prezidentiň saýlawlary onuň ygtyýarlyklarynyň Türkmenistanyň Prezidentiniň wezipesini wagtlaýyn ýerine ýetirijä geçen gününden başlap, 60 günden gijä goýulman geçirilmelidir. Türkmenistanyň Prezidentiniň wezipesini wagtlaýyn ýerine ýetiriji Prezidentlige dalaşgär bolup bilmez.
 ### III bap. Türkmenistanyň Mejlisi
 #### 59­njy madda.
 Türkmenistanyň Mejlisi (Parlament) kanun çykaryjy häkimiýeti amala aşyrýan iň ýokary wekilçilikli edaradyr.
 #### 60­njy madda.
 Mejlis 125 deputatdan ybarat bolup, olar saýlawçylarynyň sany takmynan deň bolan ýerli saýlaw okruglary boýunça bäş ýyl möhlete saýlanylýar.
 #### 61­nji madda.
-Mejlis aşakdaky halatlarda möhletinden öň ýatyrylyp bilner: 1) ählihalk sala salşygynyň çözgüdi esasynda; 2) Mejlisiň bellenen sandaky deputatlarynyň üçden iki böleginden az bolmadyk sesleriniň köplügi bilen kabul eden karary esasynda (öz­özüni ýatyrmagy); 3) alty aýyň dowamynda Mejlisiň ýolbaşçy düzümi düzülmedik mahalynda,
-
-- Türkmenistanyň Prezidenti tarapyndan.
+Mejlis aşakdaky halatlarda möhletinden öň ýatyrylyp bilner:
+1) ählihalk sala salşygynyň çözgüdi esasynda;
+2) Mejlisiň bellenen sandaky deputatlarynyň üçden iki böleginden az bolmadyk sesleriniň köplügi bilen kabul eden karary esasynda (öz­özüni ýatyrmagy);
+3) alty aýyň dowamynda Mejlisiň ýolbaşçy düzümi düzülmedik mahalynda, Türkmenistanyň Prezidenti tarapyndan.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 #### 62­nji madda.
-Mejlis deputatlaryň ygtyýarlyklaryny özbaşdak kesgitleýär, olaryň � arasyndan Mejlisiň Başlygyny, onuň orunbasaryny saýlaýar, komitetleri we toparlary düzýär. �
+Mejlis deputatlaryň ygtyýarlyklaryny özbaşdak kesgitleýär, olaryň arasyndan Mejlisiň Başlygyny, onuň orunbasaryny saýlaýar, komitetleri we toparlary düzýär.
 
-�
-
-Mejlisiň öňki çagyrylyşynyň deputatlary Mejlisiň täze çagyrylyşynyň birinji maslahaty açylýança öz ygtyýarlyklaryny saklaýarlar. �
+Mejlisiň öňki çagyrylyşynyň deputatlary Mejlisiň täze çagyrylyşynyň birinji maslahaty açylýança öz ygtyýarlyklaryny saklaýarlar.
 
 #### 63­nji madda.
 Mejlis:
 
-�
+1) kanunlary kabul edýär, Türkmenistanyň Konstitusiýasyna we kanunlara üýtgetmeler we goşmaçalar girizýär, olaryň ýerine ýetirilişine gözegçilik edýär hem­de olara resmi düşündirişler berýär;
 
-- kanunlary kabul edýär, Türkmenistanyň Konstitusiýasyna we kanunlara üýtgetmeler we goşmaçalar girizýär, olaryň ýerine ýetirilişine gözegçilik edýär hem­de olara resmi � düşündirişler berýär; �
+2) Ministrler Kabinetiniň iş maksatnamasyny makullamak baradaky meselä garaýar;
 
-�
+3) Türkmenistanyň Döwlet býujetini we onuň ýerine ýetirilişi hakyndaky hasabaty tassyklamak baradaky meselelere garaýar;
 
-�
+4) ýurdy syýasy, ykdysady, sosial taýdan ösdürmegiň esasy ugurlaryna we maksatnamalaryna garaýar;
 
-- Ministrler Kabinetiniň iş maksatnamasyny makullamak baradaky meselä garaýar;
+5) ählihalk sala salşyklaryny geçirmek hakyndaky meseleleri çözýär;
 
-- Türkmenistanyň Döwlet býujetini we onuň ýerine ýetirilişi hakyndaky hasabaty tassyklamak baradaky meselelere garaýar; �
+6) Türkmenistanyň Prezidentiniň, Mejlisiň deputatlarynyň, welaýat, etrap, şäher wekilçilikli edaralarynyň we Geňeşleriň agzalarynyň saýlawlaryny belleýär;
 
-- ýurdy syýasy, ykdysady, sosial taýdan ösdürmegiň esasy ugurlaryna we maksatnamalaryna garaýar; �
+7) Türkmenistanyň Prezidentiniň teklibi boýunça Ýokary kazyýetiň başlygyny, Baş prokurory, Içeri işler ministrini, Adalat ministrini wezipä bellemek we olary wezipeden boşatmak baradaky meselelere garaýar;
 
-�
+8) döwlet sylaglaryny döredýär, Türkmenistanyň Prezidentini döwlet sylaglary bilen sylaglaýar, oňa harby atlary we tapawutlandyryş atlaryny dakýar;
 
-- ählihalk sala salşyklaryny geçirmek hakyndaky meseleleri çözýär;
+9) döwlet häkimiýet we dolandyryş edaralarynyň kadalaşdyryjy hukuk namalarynyň Konstitusiýa laýyklygyny ýa­da laýyk däldigini kesgitleýär;
 
-�
+10) halkara şertnamalaryny tassyklaýar we ýatyrýar;
 
-- Türkmenistanyň Prezidentiniň, Mejlisiň deputatlarynyň, welaýat, etrap, şäher wekilçilikli edaralarynyň we Geňeşleriň agzalarynyň saýlawlaryny belleýär; �
+11) Türkmenistanyň Döwlet serhedini we dolandyryş­çäk bölünişigini üýtgetmek meselelerini çözýär;
 
-�
+12) parahatçylyk we howpsuzlyk meselelerine garaýar;
 
-- Türkmenistanyň Prezidentiniň teklibi boýunça Ýokary kazyýetiň başlygyny, Baş � prokurory, Içeri işler ministrini, Adalat ministrini wezipä bellemek we olary wezipeden boşatmak baradaky meselelere garaýar; �
-
-�
-
-- döwlet sylaglaryny döredýär, Türkmenistanyň Prezidentini döwlet sylaglary bilen sylaglaýar, oňa harby atlary we tapawutlandyryş atlaryny dakýar; �
-
-- döwlet häkimiýet we dolandyryş edaralarynyň kadalaşdyryjy hukuk namalarynyň Konstitusiýa laýyklygyny ýa­da laýyk däldigini kesgitleýär; �
-
-- halkara şertnamalaryny tassyklaýar we ýatyrýar;
-
-�
-
-- Türkmenistanyň Döwlet serhedini we dolandyryş­çäk bölünişigini üýtgetmek meselelerini çözýär; �
-
-- parahatçylyk we howpsuzlyk meselelerine garaýar;
-
-�
-
-- Konstitusiýada we kanunlarda Mejlisiň ygtyýarlyklaryna degişli edilen beýleki meseleleri çözýär. �
-
-�
-
-�
-
-�
-
-�
-
-�
-
-�
+13) Konstitusiýada we kanunlarda Mejlisiň ygtyýarlyklaryna degişli edilen beýleki meseleleri çözýär.
 
 [[END OF PAGE 12]]
 
@@ -313,7 +297,7 @@ Mejlis aýry­aýry meseleler boýunça Türkmenistanyň Prezidentine kanun çyk
 
 tarapyndan hökman garalmalydyr. Mejlis aşakdaky meseleler boýunça kanun çykaryjylyk hukugyny hiç kime berip bilmez: 1) Konstitusiýany üýtgetmek; 2) jenaýat we dolandyryş kanunçylygy; 3) kazyýet önümçiligi.
 #### 65­nji madda.
-Kanun çykaryjylyk başlangyjyna bolan hukuk Türkmenistanyň Prezidentine, Mejlisiň deputatlaryna, Ministrler Kabinetine, Ỳokary kazyýete degişlidir.
+Kanun çykaryjylyk başlangyjyna bolan hukuk Türkmenistanyň Prezidentine, Mejlisiň deputatlaryna, Ministrler Kabinetine, Ýokary kazyýete degişlidir.
 #### 66­njy madda.
 Mejlisiň deputatlarynyň Ministrler Kabinetine, ministrlere, beýleki döwlet edaralarynyň ýolbaşçylaryna resmi sowal bilen ýüz tutmaga, dilden hem hat üsti bilen sowal bermäge hukugy bardyr.
 #### 67­nji madda.
@@ -325,9 +309,7 @@ Mejlisiň deputaty şol bir wagtyň özünde Ministrler Kabinetiniň agzasy, hä
 #### 70­nji madda.
 Mejlisiň Başlygy gizlin ses bermek bilen saýlanýar. Ol Mejlise hasabat berýär hem­de Mejlisiň bellenen sandaky deputatlarynyň üçden iki böleginden az bolmadyk sesleriniň köplügi bilen kabul eden çözgüdi boýunça wezipesinden boşadylyp bilner. Mejlisiň Başlygynyň orunbasary açyk ses bermek arkaly saýlanýar, ol Başlygyň tabşyrmagy boýunça onuň aýry­aýry wezipelerini ýerine ýetirýär, Mejlisiň Başlygynyň bolmadyk ýagdaýynda ýa­da öz ygtyýarlyklaryny ýerine ýetirmäge mümkinçiligi bolmasa, onuň wezipesini ýerine ýetirýär.
 #### 71­nji madda.
-Mejlisiň, onuň komitetleriniň we toparlarynyň, deputatlaryň iş tertibi hem­
-
-de olaryň wezipeleri we ygtyýarlyklary kanun bilen kesgitlenilýär.
+Mejlisiň, onuň komitetleriniň we toparlarynyň, deputatlaryň iş tertibi hem­de olaryň wezipeleri we ygtyýarlyklary kanun bilen kesgitlenilýär.
 
 [[END OF PAGE 13]]
 
@@ -346,25 +328,27 @@ kararlary kabul edýär we buýruklary çykarýar.
 #### 75­nji madda.
 Ministrler Kabineti:
 
-- Türkmenistanyň kanunlarynyň, Türkmenistanyň Prezidentiniň we Türkmenistanyň Mejlisiniň namalarynyň ýerine ýetirilmegini guraýar;
+1) Türkmenistanyň kanunlarynyň, Türkmenistanyň Prezidentiniň we Türkmenistanyň Mejlisiniň namalarynyň ýerine ýetirilmegini guraýar;
 
-- raýatlaryň hukuklaryny we azatlyklaryny üpjün etmek hem goramak, eýeçiligi we jemgyýetçilik tertibini, milli howpsuzlygy goramak boýunça çäreleri amala aşyrýar;
+2) raýatlaryň hukuklaryny we azatlyklaryny üpjün etmek hem goramak, eýeçiligi we jemgyýetçilik tertibini, milli howpsuzlygy goramak boýunça çäreleri amala aşyrýar;
 
-- döwletiň içeri we daşary syýasatynyň esasy ugurlary baradaky teklipleri, ýurdy ykdysady we sosial taydan ösdürmegiň maksatnamalaryny işläp taýýarlaýar hem­de olary Mejlisiň garamagyna berýär;
+3) döwletiň içeri we daşary syýasatynyň esasy ugurlary baradaky teklipleri, ýurdy ykdysady we sosial taýdan ösdürmegiň maksatnamalaryny işläp taýýarlaýar hem­de olary Mejlisiň garamagyna berýär;
 
-- ykdysady we sosial taýdan ösüşiň döwlet tarapyndan dolandyrylmagyny amala aşyrýar; döwlet kärhanalaryny, edaralaryny we guramalaryny dolandyrmagy guraýar; tebigy baýlyklaryň rejeli peýdalanylmagyny hem goralmagyny üpjün edýär;
+4) ykdysady we sosial taýdan ösüşiň döwlet tarapyndan dolandyrylmagyny amala aşyrýar; döwlet kärhanalaryny, edaralaryny we guramalaryny dolandyrmagy guraýar; tebigy baýlyklaryň rejeli peýdalanylmagyny hem goralmagyny üpjün edýär;
 
-- pul we karz ulgamyny pugtalandyrmak boýunça çäreleri görýär;
+5) pul we karz ulgamyny pugtalandyrmak boýunça çäreleri görýär;
 
-- zerur bolan halatynda Ministrler Kabinetiniň ýanynda komitetleri, baş müdirlikleri we beýleki pudaklaýyn dolandyryş edaralaryny döredýär;
+6) zerur bolan halatynda Ministrler Kabinetiniň ýanynda komitetleri, baş müdirlikleri we beýleki pudaklaýyn dolandyryş edaralaryny döredýär;
 
-- daşary ykdysady işi amala aşyrýar, daşary ýurt döwletleri bilen medeni  we gaýry gatnaşyklaryň ösdürilmegini üpjün edýär;
+7) daşary ykdysady işi amala aşyrýar, daşary ýurt döwletleri bilen medeni we gaýry gatnaşyklaryň ösdürilmegini üpjün edýär;
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-- hökümet edaralarynyň, döwlet kärhanalarynyň we guramalarynyň işine ýolbaşçylyk edýär; ministrlikleriň we pudaklaýyn dolandyryş, şeýle hem ýerine ýetiriji ýerli häkimiýet edaralarynyň hukuk namalaryny ýatyrmaga haklydyr; 9) Türkmenistanyň Konstitusiýasynda, kanunlarynda we beýleki kadalaşdyryjy hukuk namalarynda öz ygtyýarlyklaryna degişli edilen gaýry meseleleri çözýär.
+8) hökümet edaralarynyň, döwlet kärhanalarynyň we guramalarynyň işine ýolbaşçylyk edýär; ministrlikleriň we pudaklaýyn dolandyryş, şeýle hem ýerine ýetiriji ýerli häkimiýet edaralarynyň hukuk namalaryny ýatyrmaga haklydyr;
+
+9) Türkmenistanyň Konstitusiýasynda, kanunlarynda we beýleki kadalaşdyryjy hukuk namalarynda öz ygtyýarlyklaryna degişli edilen gaýry meseleleri çözýär.
 #### 76­njy madda.
 Ministrler Kabinetiniň ygtyýarlyklary, onuň iş tertibi, beýleki döwlet edaralary bilen gatnaşyklary kanun arkaly kesgitlenilýär.
 ### V bap. Ýerli häkimiýet edaralary
@@ -392,9 +376,7 @@ häkimiýet we dolandyryş edaralary bilen özara gatnaşyklarynyň tertibi kanu
 [[START OF PAGE 16]]
 
 #### 84­nji madda.
-Ýerli öz­özüňi dolandyryş ulgamyny Geňeşler we ýerli jemgyýetçilik öz­
-
-özüňi dolandyryş edaralary emele getirýärler. Geňeşler etrapdaky şäherleriň, şäherçeleriň, geňeşlikleriň çäklerinde halk häkimiýetiniň wekilçilikli edaralarydyr. Geňeş agzalary gös­göni raýatlar tarapyndan üç ýyl möhlete saýlanylýar.
+Ýerli öz­özüňi dolandyryş ulgamyny Geňeşler we ýerli jemgyýetçilik öz­özüňi dolandyryş edaralary emele getirýärler. Geňeşler etrapdaky şäherleriň, şäherçeleriň, geňeşlikleriň çäklerinde halk häkimiýetiniň wekilçilikli edaralarydyr. Geňeş agzalary gös­göni raýatlar tarapyndan üç ýyl möhlete saýlanylýar.
 #### 85­nji madda.
 Geňeş öz işlerinde özbaşdakdyr. Ol häkimiýet we dolandyryş edaralary bilen özara gatnaşyklaryny Türkmenistanyň kanunçylygyna laýyklykda amala aşyrýar.
 #### 86­njy madda.
@@ -416,9 +398,9 @@ Saýlawlara kazyýet tarapyndan kämillik ukyby ýok diýlip ykrar edilen raýat
 #### 90­njy madda.
 Saýlawlar gününe çenli ýigrimi bäş ýaşy dolan we soňky on ýylyň dowamynda Türkmenistanda hemişelik ýaşaýan Türkmenistanyň raýaty Mejlisiň deputatlygyna saýlanyp bilner. Türkmenistanyň Mejlisiniň deputatlygyna, halk maslahatlarynyň we Geňeşleriň agzalygyna dalaşgärlere bildirilýän talaplar Türkmenistanyň kanunlarynda kesgitlenilýär.
 #### 91­nji madda.
-Saýlawlar göni saýlawlardyr we saýlanylýanlar raýatlar tarapyndan gös­ göni saýlanýarlar.
+Saýlawlar göni saýlawlardyr we saýlanylýanlar raýatlar tarapyndan gös­göni saýlanýarlar.
 #### 92­nji madda.
-Saýlawlarda ses bermek gizlindir, ses berlende saýlawçylaryň öz erk­ islegini beýan edişine gözegçilik edilmegine ýol berilmeýär.
+Saýlawlarda ses bermek gizlindir, ses berlende saýlawçylaryň öz erk­islegini beýan edişine gözegçilik edilmegine ýol berilmeýär.
 #### 93­nji madda.
 Dalaşgärleri hödürlemek hukugy syýasy partiýalara, jemgyýetçilik birleşiklerine we raýatlaryň toparlaryna degişlidir hem­de Türkmenistanyň kanunçylygyna laýyklykda amala aşyrylýar.
 #### 94­nji madda.
@@ -492,8 +474,7 @@ Konstitusiýany üýtgetmek hakyndaky Kanun, eger Türkmenistanyň Mejlisiniň d
 
 Prezidenti Berdimuhamedow
 
-Aşgabat şäheri. � 2008­nji ýylyň 26­njy sentýabry.
-
-�
+Aşgabat şäheri.
+2008­nji ýylyň 26­njy sentýabry.
 
 [[END OF PAGE 20]]
