@@ -22,13 +22,15 @@ Content updated: 17-04-2019 13:38
 
 - having preserved its spirit, native language, writing, and customs,
 
-- embodying the innate right of the human being and the Nation to live and create freely in the land of their fathers and forefathers-in the independent State of Lithuania,
+- embodying the innate right of the human being and the Nation to live and create freely in the land of their fathers and forefathers—in the independent State of Lithuania,
 
 - fostering national concord in the land of Lithuania,
 
 - striving for an open, just, and harmonious civil society and a State under the rule of law, by the will of the citizens of the reborn State of Lithuania, adopts and proclaims this
 
 CONSTITUTION
+
+## CHAPTER I THE STATE OF LITHUANIA
 
 ### Article 1
 
@@ -49,8 +51,6 @@ The Nation and each citizen shall have the right to resist anyone who encroaches
 The  Nation  shall  execute  its  supreme  sovereign  power  either  directly  or  through  its  democratically elected representatives.
 
 ### Article 5
-
-## CHAPTER I THE STATE OF LITHUANIA
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -88,7 +88,7 @@ The seizure of state power or state institutions by force shall be considered an
 
 ### Article 9
 
-The  most  signicant  issues  concerning  the  life  of  the  State  and  the  Nation  shall  be  decided  by referendum.
+The  most  significant  issues  concerning  the  life  of  the  State  and  the  Nation  shall  be  decided  by referendum.
 
 In cases established by law, the Seimas shall call a referendum.
 
@@ -100,7 +100,7 @@ The procedure for calling and conducting referendums shall be established by law
 
 The  territory  of  the  State  of  Lithuania  shall  be  integral  and  shall  not  be  divided  into  any  state-like formations.
 
-The boundaries of the State may be altered only by an international treaty of the Republic of Lithuania after it is ratied by 4/5 of all the Members of the Seimas.
+The boundaries of the State may be altered only by an international treaty of the Republic of Lithuania after it is ratified by 4/5 of all the Members of the Seimas.
 
 ### Article 11
 
@@ -138,15 +138,15 @@ Lithuanian shall be the state language.
 
 ### Article 15
 
-The colours of the ag of the State shall be yellow, green, and red.
+The colours of the flag of the State shall be yellow, green, and red.
 
-The coat of arms of the State shall be a white Vytis on a red eld.
+The coat of arms of the State shall be a white Vytis on a red field.
 
-The coat of arms and ag of the State, as well as their use, shall be established by law.
+The coat of arms and flag of the State, as well as their use, shall be established by law.
 
 ### Article 16
 
-The anthem of the State shall be 'Tautiška giesmė' by Vincas Kudirka.
+The anthem of the State shall be “Tautiška giesmė” by Vincas Kudirka.
 
 ### Article 17
 
@@ -168,7 +168,7 @@ Human liberty shall be inviolable.
 
 No one may be arbitrarily apprehended or detained. No one may be deprived of his liberty otherwise than on the grounds and according to the procedures established by law.
 
-A  person  apprehended  in agrante delicto  must,  within  48  hours,  be  brought  before  a  court  for  the purpose of deciding, in the presence of this person, on the validity of the apprehension. If the court does not adopt a decision to detain the person, the apprehended person shall be released immediately.
+A  person  apprehended  in flagrante delicto  must,  within  48  hours,  be  brought  before  a  court  for  the purpose of deciding, in the presence of this person, on the validity of the apprehension. If the court does not adopt a decision to detain the person, the apprehended person shall be released immediately.
 
 ### Article 21
 
@@ -178,7 +178,7 @@ Human dignity shall be protected by law.
 
 It  shall  be  prohibited  to  torture  or  injure  a  human  being,  degrade  his  dignity,  subject  him  to  cruel treatment, or to establish such punishments.
 
-No  one  may  be  subjected  to  scientic  or  medical  experimentation  without  his  knowledge  and  free consent.
+No  one  may  be  subjected  to  scientific  or  medical  experimentation  without  his  knowledge  and  free consent.
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -198,7 +198,7 @@ Private life shall be inviolable.
 
 Personal  correspondence,  telephone  conversations,  telegraph  messages,  and  other  communications shall be inviolable.
 
-Information  concerning  the  private  life  of  a  person  may  be  collected  only  upon  a  justied  court decision and only according to the law.
+Information  concerning  the  private  life  of  a  person  may  be  collected  only  upon  a  justified  court decision and only according to the law.
 
 The law and courts shall protect everyone from arbitrary or unlawful interference with his private and family life, as well as from encroachment upon his honour and dignity.
 
@@ -224,7 +224,7 @@ No one must be hindered from seeking, receiving, or imparting information and id
 
 The freedom to express convictions, as well as to receive and impart information, may not be limited otherwise than by law when this is necessary to protect human health, honour or dignity, private life, or morals, or to defend the constitutional order.
 
-The  freedom  to  express  convictions  and  to  impart  information  shall  be  incompatible  with  criminal actions-incitement  to  national,  racial,  religious,  or  social  hatred,  incitement  to  violence  or  to discrimination, as well as defamation and disinformation.
+The  freedom  to  express  convictions  and  to  impart  information  shall  be  incompatible  with  criminal actions—incitement  to  national,  racial,  religious,  or  social  hatred,  incitement  to  violence  or  to discrimination, as well as defamation and disinformation.
 
 Citizens shall have the right to receive, according to the procedure established by law, any information held about them by state institutions.
 
@@ -254,7 +254,7 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
-Convictions, practised religion, or belief may not serve as a justication for a crime or failure to observe laws.
+Convictions, practised religion, or belief may not serve as a justification for a crime or failure to observe laws.
 
 ### Article 28
 
@@ -262,11 +262,11 @@ While implementing his rights and exercising his freedoms, everyone must observe
 
 ### Article 29
 
-All persons shall be equal before the law, courts, and other state institutions and ofcials. Human rights may not be restricted; no one may be granted any privileges on the grounds of gender, race, nationality, language, origin, social status, belief, convictions, or views.
+All persons shall be equal before the law, courts, and other state institutions and officials. Human rights may not be restricted; no one may be granted any privileges on the grounds of gender, race, nationality, language, origin, social status, belief, convictions, or views.
 
 ### Article 30
 
-A person whose constitutional rights or freedoms are violated shall have the right to apply to a court. Compensation for material and moral damage inicted upon a person shall be established by law.
+A person whose constitutional rights or freedoms are violated shall have the right to apply to a court. Compensation for material and moral damage inflicted upon a person shall be established by law.
 
 ### Article 31
 
@@ -280,7 +280,7 @@ Punishment may be imposed or applied only on the grounds established by law.
 
 No one may be punished twice for the same offence.
 
-A  person  suspected  of  committing  a  crime,  as  well  as  the  accused,  shall  be  guaranteed,  from  the moment  of  his  apprehension  or  rst  interrogation,  the  right  to  defence,  as  well  as  the  right  to  an advocate.
+A  person  suspected  of  committing  a  crime,  as  well  as  the  accused,  shall  be  guaranteed,  from  the moment  of  his  apprehension  or  first  interrogation,  the  right  to  defence,  as  well  as  the  right  to  an advocate.
 
 ### Article 32
 
@@ -296,7 +296,7 @@ Everyone who is Lithuanian may settle in Lithuania.
 
 Citizens shall have the right to participate in the governance of their State both directly and through their  democratically  elected  representatives,  as  well  as  the  right  to  enter  on  equal  terms  the  State Service of the Republic of Lithuania.
 
-Citizens shall be guaranteed the right to criticise the work of state institutions or their ofcials and to appeal against their decisions. Persecution for criticism shall be prohibited.
+Citizens shall be guaranteed the right to criticise the work of state institutions or their officials and to appeal against their decisions. Persecution for criticism shall be prohibited.
 
 Citizens shall be guaranteed the right of petition; the procedure for the implementation of this right shall be established by law.
 
@@ -394,11 +394,11 @@ Culture, science and research, and teaching shall be free.
 
 The  State  shall  support  culture  and  science,  and  shall  take  care  of  the  protection  of  Lithuanian historical, artistic, and other cultural monuments, as well as other culturally valuable objects.
 
-The law shall protect and defend the spiritual and material interests of an author that are related to scientic, technical, cultural, and artistic work.
+The law shall protect and defend the spiritual and material interests of an author that are related to scientific, technical, cultural, and artistic work.
 
 ### Article 43
 
-The State shall recognise the churches and religious organisations that are traditional in Lithuania; other  churches  and  religious  organisations  shall  be  recognised  provided  that  they  have  support  in society, and their teaching and practices are not in conict with the law and public morals.
+The State shall recognise the churches and religious organisations that are traditional in Lithuania; other  churches  and  religious  organisations  shall  be  recognised  provided  that  they  have  support  in society, and their teaching and practices are not in conflict with the law and public morals.
 
 Churches and religious organisations recognised by the State shall have the rights of a legal person. Churches  and  religious  organisations  shall be free to proclaim  their teaching,  perform  their ceremonies, and have houses of prayer, charity establishments, and schools for the training of priests.
 
@@ -406,7 +406,7 @@ Churches and religious organisations shall conduct their affairs freely accordin
 
 The status of churches and other religious organisations in the State shall be established by agreement or by law.
 
-The teaching proclaimed by churches and religious organisations, other religious activities, and houses of prayer may not be used for purposes that are in conict with the Constitution and laws.
+The teaching proclaimed by churches and religious organisations, other religious activities, and houses of prayer may not be used for purposes that are in conflict with the Constitution and laws.
 
 There shall be no state religion in Lithuania.
 
@@ -434,6 +434,8 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
+## CHAPTER IV THE NATIONAL ECONOMY AND LABOUR
+
 ### Article 46
 
 The  economy  of  Lithuania  shall  be  based  on  the  right  of  private  ownership,  freedom  of  individual economic activity, and economic initiative.
@@ -458,9 +460,9 @@ Plots of land may belong to a foreign state by right of ownership for the establ
 
 Amendments to the Article:
 
-No. I-1390, 20-06-1996, Valstybės žinios (Ofcial Gazette), 1996, No. 64-1501 (05-07-1996)
+No. I-1390, 20-06-1996, Valstybės žinios (Official Gazette), 1996, No. 64-1501 (05-07-1996)
 
-No. IX-1305, 23-01-2003, Valstybės žinios (Ofcial Gazette), 2003, No. 14-540 (07-02-2003)
+No. IX-1305, 23-01-2003, Valstybės žinios (Official Gazette), 2003, No. 14-540 (07-02-2003)
 
 ### Article 48
 
@@ -485,8 +487,6 @@ The length of working time shall be established by law.
 Trade  unions  shall  be  established  freely  and  shall  function  independently.  They  shall  defend  the professional, economic, and social rights and interests of employees.
 
 All trade unions shall have equal rights.
-
-## CHAPTER IV THE NATIONAL ECONOMY AND LABOUR
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -514,7 +514,7 @@ The State shall take care of the health of people and shall guarantee medical ai
 
 The State shall promote the physical culture of society and shall support sport.
 
-The State and each person must protect the environment from harmful inuences.
+The State and each person must protect the environment from harmful influences.
 
 ### Article 54
 
@@ -526,7 +526,7 @@ The  destruction  of  land  and  subsurface,  the  pollution  of  water  and  ai
 
 ### Article 55
 
-The Seimas shall consist of representatives of the Nation-141 Members of the Seimas, who shall be elected for a four-year term on the basis of universal, equal, and direct suffrage by secret ballot.
+The Seimas shall consist of representatives of the Nation—141 Members of the Seimas, who shall be elected for a four-year term on the basis of universal, equal, and direct suffrage by secret ballot.
 
 The Seimas shall be deemed elected when not less than 3/5 of the Members of the Seimas are elected. The procedure for the election of the Members of the Seimas shall be established by law.
 
@@ -540,7 +540,7 @@ Persons who have not served punishment imposed by a court judgment, as well as p
 
 A regular election to the Seimas shall be held in the year of the expiry of the powers of the Members of the Seimas on the second Sunday of October.
 
-A regular election to the Seimas following an early election to the Seimas shall be held at the time specied in the rst paragraph of this Article.
+A regular election to the Seimas following an early election to the Seimas shall be held at the time
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -554,9 +554,11 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
+specified in the first paragraph of this Article.
+
 Amendments to the Article:
 
-No. IX-2344, 13-07-2004, Valstybės žinios (Ofcial Gazette), 2004, No. 111-4124 (17-07-2004)
+No. IX-2344, 13-07-2004, Valstybės žinios (Official Gazette), 2004, No. 111-4124 (17-07-2004)
 
 ### Article 58
 
@@ -564,27 +566,27 @@ An early election to the Seimas may be held upon the decision of the Seimas adop
 
 An early election to the Seimas may also be called by the President of the Republic:
 
-1) if the Seimas fails to adopt a decision on the new programme of the Government within 30 days of its presentation, or if the Seimas twice in succession gives no assent to the programme of the Government within 60 days of its rst presentation;
+1) if the Seimas fails to adopt a decision on the new programme of the Government within 30 days of its presentation, or if the Seimas twice in succession gives no assent to the programme of the Government within 60 days of its first presentation;
 
-- upon  the  proposal  of  the  Government,  if  the  Seimas  expresses  direct  no  condence  in  the Government.
+2) upon  the  proposal  of  the  Government,  if  the  Seimas  expresses  direct  no  confidence  in  the Government.
 
-The President of the Republic may not call an early election to the Seimas if the term of ofce of the President of the Republic expires in less than 6 months, or if 6 months have not passed since the early election to the Seimas.
+The President of the Republic may not call an early election to the Seimas if the term of office of the President of the Republic expires in less than 6 months, or if 6 months have not passed since the early election to the Seimas.
 
-The day of election to the new Seimas shall be specied in the resolution of the Seimas or in the act of the President of the Republic on the early election to the Seimas. The election to the new Seimas must be held within 3 months of the adoption of the decision on the early election.
+The day of election to the new Seimas shall be specified in the resolution of the Seimas or in the act of the President of the Republic on the early election to the Seimas. The election to the new Seimas must be held within 3 months of the adoption of the decision on the early election.
 
 ### Article 59
 
-The term of powers of the Members of the Seimas shall begin to be counted from the day on which the newly  elected  Seimas  convenes  for  the  rst  sitting.  The  term  of  powers  of  the  previously  elected Members of the Seimas shall expire at the beginning of this sitting.
+The term of powers of the Members of the Seimas shall begin to be counted from the day on which the newly  elected  Seimas  convenes  for  the  first  sitting.  The  term  of  powers  of  the  previously  elected Members of the Seimas shall expire at the beginning of this sitting.
 
 An elected Member of the Seimas shall acquire all the rights of a representative of the Nation only after taking an oath at the Seimas to be faithful to the Republic of Lithuania.
 
 A Member of the Seimas who either does not take the oath according to the procedure established by law or takes a conditional oath shall lose the mandate of a Member of the Seimas. The Seimas shall adopt a corresponding resolution thereon.
 
-While in ofce, the Members of the Seimas shall follow the Constitution of the Republic of Lithuania, the interests of the State, as well as their own consciences, and may not be restricted by any mandates.
+While in office, the Members of the Seimas shall follow the Constitution of the Republic of Lithuania, the interests of the State, as well as their own consciences, and may not be restricted by any mandates.
 
 ### Article 60
 
-The duties of the Members of the Seimas, with the exception of their duties at the Seimas, shall be incompatible  with  any  other  duties  at  state  institutions  or  organisations,  or  with  work  in  business, commercial, or other private establishments or enterprises. During their term of ofce, the Members of the Seimas shall be exempt from the duty to perform national defence service.
+The duties of the Members of the Seimas, with the exception of their duties at the Seimas, shall be incompatible  with  any  other  duties  at  state  institutions  or  organisations,  or  with  work  in  business, commercial, or other private establishments or enterprises. During their term of office, the Members of the Seimas shall be exempt from the duty to perform national defence service.
 
 A Member of the Seimas may be appointed only either as the Prime Minister or a Minister.
 
@@ -594,7 +596,7 @@ The duties, rights, and guarantees of the activities of a Member of the Seimas s
 
 ### Article 61
 
-A Member of the Seimas shall have the right to submit an inquiry to the Prime Minister, the Ministers, and  the  heads  of  other  state  institutions  formed  or  elected  by  the  Seimas.  The  said  persons  must respond orally or in writing during the session of the Seimas according to the procedure established by the Seimas.
+A Member of the Seimas shall have the right to submit an inquiry to the Prime Minister, the Ministers, and  the  heads  of  other  state  institutions  formed  or  elected  by  the  Seimas.  The  said  persons  must respond orally or in writing during the session of the Seimas according to the procedure established by
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -608,9 +610,11 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
+the Seimas.
+
 During  a  session  of  the  Seimas,  a  group  of  not  less  than  1/5  of  the  Members  of  the  Seimas  may interpellate the Prime Minister or a Minister.
 
-Upon considering the response of the Prime Minister or the Minister to the interpellation, the Seimas may decide that the response is not satisfactory, and, by a majority vote of half of all the Members of the Seimas, may express no condence in the Prime Minister or the Minister.
+Upon considering the response of the Prime Minister or the Minister to the interpellation, the Seimas may decide that the response is not satisfactory, and, by a majority vote of half of all the Members of the Seimas, may express no confidence in the Prime Minister or the Minister.
 
 The voting procedure shall be established by law.
 
@@ -626,35 +630,35 @@ The Members of the Seimas may not be persecuted for their votes or speeches at t
 
 The powers of a Member of the Seimas shall cease:
 
-- upon the expiry of the term of powers, or when the Seimas elected in an early election convenes for the rst sitting;
+1) upon the expiry of the term of powers, or when the Seimas elected in an early election convenes for the first sitting;
 
-- upon his death;
+2) upon his death;
 
-- upon his resignation;
+3) upon his resignation;
 
-- when he is declared by a court to be legally incapacitated;
+4) when he is declared by a court to be legally incapacitated;
 
-- when the Seimas revokes his mandate according to the procedure for impeachment proceedings;
+5) when the Seimas revokes his mandate according to the procedure for impeachment proceedings;
 
-- when the election is declared invalid, or the law on election is grossly violated;
+6) when the election is declared invalid, or the law on election is grossly violated;
 
-- when he takes up or does not give up employment that is incompatible with the duties of a Member of the Seimas;
+7) when he takes up or does not give up employment that is incompatible with the duties of a Member of the Seimas;
 
-- when he loses his citizenship of the Republic of Lithuania.
+8) when he loses his citizenship of the Republic of Lithuania.
 
 ### Article 64
 
-Every  year,  the  Seimas  shall  convene  for  two  regular  sessions-in  spring  and  autumn.  The  spring session shall commence on the 10th of March and shall end on the 30th of June. The autumn session shall  commence on the 10th of September and shall end on the 23rd of December. The Seimas may decide to prolong a session.
+Every  year,  the  Seimas  shall  convene  for  two  regular  sessions—in  spring  and  autumn.  The  spring session shall commence on the 10th of March and shall end on the 30th of June. The autumn session shall  commence on the 10th of September and shall end on the 23rd of December. The Seimas may decide to prolong a session.
 
 Extraordinary sessions shall be convened by the Speaker of the Seimas upon the proposal of not less than one-third of all the Members of the Seimas, or by the President of the Republic in cases provided for in the Constitution.
 
 ### Article 65
 
-The President of the Republic shall convene the rst sitting of the newly elected Seimas, which must be held within 15 days of the election of the Seimas. If the President of the Republic fails to convene the Seimas, the Members of the Seimas shall assemble by themselves on the day following the expiry of the 15-day period.
+The President of the Republic shall convene the first sitting of the newly elected Seimas, which must be held within 15 days of the election of the Seimas. If the President of the Republic fails to convene the Seimas, the Members of the Seimas shall assemble by themselves on the day following the expiry of the 15-day period.
 
 ### Article 66
 
-Sittings of the Seimas shall be presided over by the Speaker of the Seimas, or his Deputy. The rst sitting of the Seimas after its election shall be opened by the eldest Member of the Seimas.
+Sittings of the Seimas shall be presided over by the Speaker of the Seimas, or his Deputy. The first sitting of the Seimas after its election shall be opened by the eldest Member of the Seimas.
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -672,45 +676,45 @@ The Constitution - Constitutional Court of The Republic of Lithuania
 
 The Seimas:
 
-- shall consider and adopt amendments to the Constitution;
+1) shall consider and adopt amendments to the Constitution;
 
-- shall pass laws;
+2) shall pass laws;
 
-- shall adopt resolutions on referendums;
+3) shall adopt resolutions on referendums;
 
-- shall call elections for the President of the Republic of Lithuania;
+4) shall call elections for the President of the Republic of Lithuania;
 
-- shall establish state institutions provided for by law, and appoint and release their heads;
+5) shall establish state institutions provided for by law, and appoint and release their heads;
 
-- shall or shall not give its assent to the candidate proposed by the President of the Republic for the post of the Prime Minister;
+6) shall or shall not give its assent to the candidate proposed by the President of the Republic for the post of the Prime Minister;
 
-- shall  consider  the  programme  of  the  Government,  presented  by  the  Prime  Minister,  and  decide whether to give its assent to it;
+7) shall  consider  the  programme  of  the  Government,  presented  by  the  Prime  Minister,  and  decide whether to give its assent to it;
 
-- shall, upon the proposal of the Government, establish and abolish the ministries of the Republic of Lithuania;
+8) shall, upon the proposal of the Government, establish and abolish the ministries of the Republic of Lithuania;
 
-- shall  supervise  the  activities  of  the  Government  and  may  express  no  condence  in  the  Prime Minister or a Minister;
+9) shall  supervise  the  activities  of  the  Government  and  may  express  no  confidence  in  the  Prime Minister or a Minister;
 
-- shall appoint the justices and Presidents of the Constitutional Court and the Supreme Court;
+10) shall appoint the justices and Presidents of the Constitutional Court and the Supreme Court;
 
-- shall  appoint  and  release  the  Auditor  General  and  the  Chairperson  of  the  Board  of  the  Bank  of Lithuania;
+11) shall  appoint  and  release  the  Auditor  General  and  the  Chairperson  of  the  Board  of  the  Bank  of Lithuania;
 
-- shall call elections to municipal councils;
+12) shall call elections to municipal councils;
 
-- shall form the Central Electoral Commission and alter its composition;
+13) shall form the Central Electoral Commission and alter its composition;
 
-- shall approve the State Budget and supervise its execution;
+14) shall approve the State Budget and supervise its execution;
 
-- shall establish state taxes and other compulsory payments;
+15) shall establish state taxes and other compulsory payments;
 
-- shall  ratify  and  denounce  international  treaties  of  the  Republic  of  Lithuania  and  consider  other issues of foreign policy;
+16) shall  ratify  and  denounce  international  treaties  of  the  Republic  of  Lithuania  and  consider  other issues of foreign policy;
 
-- shall establish the administrative division of the Republic;
+17) shall establish the administrative division of the Republic;
 
-- shall establish the state awards of the Republic of Lithuania;
+18) shall establish the state awards of the Republic of Lithuania;
 
-- shall issue acts of amnesty;
+19) shall issue acts of amnesty;
 
-- shall impose direct rule and martial law, declare states of emergency, announce mobilisation, and adopt a decision to use the armed forces.
+20) shall impose direct rule and martial law, declare states of emergency, announce mobilisation, and adopt a decision to use the armed forces.
 
 ### Article 68
 
@@ -742,37 +746,37 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
-Laws adopted by the Seimas shall come into force after they are signed and ofcially promulgated by the  President  of  the  Republic,  unless  the  laws  themselves  establish  a  later  date  for  their  entry  into force.
+Laws adopted by the Seimas shall come into force after they are signed and officially promulgated by the  President  of  the  Republic,  unless  the  laws  themselves  establish  a  later  date  for  their  entry  into force.
 
 Other acts adopted by the Seimas, as well as the Statute of the Seimas, shall be signed by the Speaker of the Seimas. The said acts shall come into force on the day following their publication, unless the acts themselves establish another procedure for their entry into force.
 
 ### Article 71
 
-Within ten days of receiving a law adopted by the Seimas, the President of the Republic either shall sign and ofcially promulgate the law or shall, upon reasonable grounds, refer it back to the Seimas for reconsideration.
+Within ten days of receiving a law adopted by the Seimas, the President of the Republic either shall sign and officially promulgate the law or shall, upon reasonable grounds, refer it back to the Seimas for reconsideration.
 
-If the law adopted by the Seimas is neither referred back nor signed by the President of the Republic within the specied period, the law shall come into force after it is signed and ofcially promulgated by the Speaker of the Seimas.
+If the law adopted by the Seimas is neither referred back nor signed by the President of the Republic within the specified period, the law shall come into force after it is signed and officially promulgated by the Speaker of the Seimas.
 
-A law or another act adopted by referendum must, within 5 days, be signed and ofcially promulgated by the President of the Republic.
+A law or another act adopted by referendum must, within 5 days, be signed and officially promulgated by the President of the Republic.
 
-If the President of the Republic does not sign and promulgate such a law within the specied period, the law shall come into force after it is signed and ofcially promulgated by the Speaker of the Seimas.
+If the President of the Republic does not sign and promulgate such a law within the specified period, the law shall come into force after it is signed and officially promulgated by the Speaker of the Seimas.
 
 ### Article 72
 
 The Seimas may consider anew and adopt a law referred back by the President of the Republic.
 
-The law reconsidered by the Seimas shall be deemed adopted if the amendments and supplements submitted by the President of the Republic are adopted, or if more than 1/2 of all the Members of the Seimas vote for the law, or, in cases where such a law is a constitutional law-if not less than 3/5 of all the Members of the Seimas vote in favour thereof.
+The law reconsidered by the Seimas shall be deemed adopted if the amendments and supplements submitted by the President of the Republic are adopted, or if more than 1/2 of all the Members of the Seimas vote for the law, or, in cases where such a law is a constitutional law—if not less than 3/5 of all the Members of the Seimas vote in favour thereof.
 
 The  President  of  the  Republic  must  sign  such  laws  within  three  days  and  promulgate  them immediately.
 
 ### Article 73
 
-Complaints  of  citizens  about  the  abuse  of  authority  or  bureaucratic  intransigence  by  state  and municipal ofcials (with the exception of judges) shall be examined by the Seimas Ombudsmen, who shall have the right to submit a proposal before a court for dismissing the guilty ofcials from ofce. The powers of the Seimas Ombudsmen shall be established by law.
+Complaints  of  citizens  about  the  abuse  of  authority  or  bureaucratic  intransigence  by  state  and municipal officials (with the exception of judges) shall be examined by the Seimas Ombudsmen, who shall have the right to submit a proposal before a court for dismissing the guilty officials from office. The powers of the Seimas Ombudsmen shall be established by law.
 
 The Seimas shall also establish, when necessary, other institutions of control. Their system and powers shall be established by law.
 
 ### Article 74
 
-The President of the Republic, the President and justices of the Constitutional Court, the President and justices of the Supreme Court, the President and judges of the Court of Appeal, as well as any Members of the Seimas, who grossly violate the Constitution or breach their oath, or are found to have committed a crime, may be removed from ofce or have the mandate of a Member of the Seimas revoked by a 3/5 majority vote of all the Members of the Seimas. This shall be performed according to the procedure for impeachment proceedings, which shall be established by the Statute of the Seimas.
+The President of the Republic, the President and justices of the Constitutional Court, the President and justices of the Supreme Court, the President and judges of the Court of Appeal, as well as any Members of the Seimas, who grossly violate the Constitution or breach their oath, or are found to have committed a crime, may be removed from office or have the mandate of a Member of the Seimas revoked by a 3/5 majority vote of all the Members of the Seimas. This shall be performed according to the procedure for impeachment proceedings, which shall be established by the Statute of the Seimas.
 
 ### Article 75
 
@@ -788,7 +792,7 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
-The ofcials appointed or elected by the Seimas, with the exception of the persons specied in Article 74  of  the  Constitution,  shall  be  dismissed  from  ofce  when  the  Seimas  expresses  no  condence  in them by a majority vote of all the Members of the Seimas.
+The officials appointed or elected by the Seimas, with the exception of the persons specified in Article 74  of  the  Constitution,  shall  be  dismissed  from  office  when  the  Seimas  expresses  no  confidence  in them by a majority vote of all the Members of the Seimas.
 
 ### Article 76
 
@@ -806,25 +810,25 @@ The President of the Republic shall represent the State of Lithuania and shall p
 
 A  Lithuanian  citizen  by  descent  who  has  lived  in  Lithuania  for  not  less  than  the  last  three  years, provided that he has reached the age of not less than 40 prior to the election day and may stand for election as a Member of the Seimas, may stand for election as the President of the Republic.
 
-The President of the Republic shall be elected by the citizens of the Republic of Lithuania for a ve-year term by universal, equal, and direct suffrage by secret ballot.
+The President of the Republic shall be elected by the citizens of the Republic of Lithuania for a five-year term by universal, equal, and direct suffrage by secret ballot.
 
 The  same  person  may  not  be  elected  the  President  of  the  Republic  for  more  than  two  consecutive terms.
 
 ### Article 79
 
-Any citizen of the Republic of Lithuania who meets the conditions set forth in the rst paragraph of Article 78 and collects the signatures of not less than 20,000 voters shall be registered as a presidential candidate.
+Any citizen of the Republic of Lithuania who meets the conditions set forth in the first paragraph of Article 78 and collects the signatures of not less than 20,000 voters shall be registered as a presidential candidate.
 
 The number of candidates for the post of the President of the Republic shall not be limited.
 
 ### Article 80
 
-A regular election of the President of the Republic shall be held on the last Sunday two months before the expiry of the term of ofce of the President of the Republic.
+A regular election of the President of the Republic shall be held on the last Sunday two months before the expiry of the term of office of the President of the Republic.
 
 ### Article 81
 
-The candidate for the post of  the  President  of  the  Republic  who,  during  the  rst  round  of  voting  in which not less than half of all the voters participate, receives the votes of more than half of all the voters  who  participate  in  the  election  shall  be  deemed  elected.  If  less  than  half  of  all  the  voters participate in the election, the candidate who receives the greatest number of votes, but not less than 1/3 of the votes of all the voters, shall be deemed elected.
+The candidate for the post of  the  President  of  the  Republic  who,  during  the  first  round  of  voting  in which not less than half of all the voters participate, receives the votes of more than half of all the voters  who  participate  in  the  election  shall  be  deemed  elected.  If  less  than  half  of  all  the  voters participate in the election, the candidate who receives the greatest number of votes, but not less than 1/3 of the votes of all the voters, shall be deemed elected.
 
-If, during the rst round of voting, no single candidate gets the requisite number of votes, the second round of voting shall be held two weeks later with the two candidates who have received the greatest number of votes standing against each other. The candidate who receives more votes shall be deemed
+If, during the first round of voting, no single candidate gets the requisite number of votes, the second round of voting shall be held two weeks later with the two candidates who have received the greatest number of votes standing against each other. The candidate who receives more votes shall be deemed
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -840,11 +844,11 @@ The Constitution - Constitutional Court of The Republic of Lithuania
 
 elected.
 
-If no more than two candidates take part in the rst round, and neither of them receives the requisite number of votes, a repeat election shall be held.
+If no more than two candidates take part in the first round, and neither of them receives the requisite number of votes, a repeat election shall be held.
 
 ### Article 82
 
-On  the  day  following  the  expiry  of  the  term  of  ofce  of  the  President  of  the  Republic,  the  elected President of the Republic shall take ofce after he, in Vilnius, in the presence of the representatives of the Nation-the Members of the Seimas, takes an oath to the Nation to be faithful to the Republic of Lithuania and the Constitution, to conscientiously full the duties of his ofce, and to be equally just to all.
+On  the  day  following  the  expiry  of  the  term  of  office  of  the  President  of  the  Republic,  the  elected President of the Republic shall take office after he, in Vilnius, in the presence of the representatives of the Nation—the Members of the Seimas, takes an oath to the Nation to be faithful to the Republic of Lithuania and the Constitution, to conscientiously fulfil the duties of his office, and to be equally just to all.
 
 A re-elected President of the Republic shall also take the oath.
 
@@ -852,7 +856,7 @@ The act on taking the oath of the President of the Republic shall be signed by h
 
 ### Article 83
 
-The President of the Republic may not be a Member of the Seimas, may not hold any other ofce, and may not receive any remuneration other than the remuneration established for the President of the Republic and remuneration for creative activities.
+The President of the Republic may not be a Member of the Seimas, may not hold any other office, and may not receive any remuneration other than the remuneration established for the President of the Republic and remuneration for creative activities.
 
 A  person  elected  the  President  of  the  Republic  must  suspend  his  activities  in  political  parties  and political organisations until the beginning of a new campaign for the election of the President of the Republic.
 
@@ -860,27 +864,27 @@ A  person  elected  the  President  of  the  Republic  must  suspend  his  activ
 
 The President of the Republic:
 
-- shall  decide the basic issues of foreign policy and, together with the Government, conduct foreign policy;
+1) shall  decide the basic issues of foreign policy and, together with the Government, conduct foreign policy;
 
-- shall  sign  international  treaties  of  the  Republic  of  Lithuania  and  submit  them  to  the  Seimas  for ratication;
+2) shall  sign  international  treaties  of  the  Republic  of  Lithuania  and  submit  them  to  the  Seimas  for ratification;
 
-- shall, upon submission by the Government, appoint and recall the diplomatic representatives of the Republic  of  Lithuania  to  foreign  states  and  international  organisations;  shall  receive  the  letters  of credence and recall of the diplomatic representatives of foreign states; and shall confer the highest diplomatic ranks and special titles;
+3) shall, upon submission by the Government, appoint and recall the diplomatic representatives of the Republic  of  Lithuania  to  foreign  states  and  international  organisations;  shall  receive  the  letters  of credence and recall of the diplomatic representatives of foreign states; and shall confer the highest diplomatic ranks and special titles;
 
-- shall,  upon the assent of the Seimas, appoint the Prime Minister; shall charge the Prime Minister with forming the Government; and shall approve the composition of the formed Government;
+4) shall,  upon the assent of the Seimas, appoint the Prime Minister; shall charge the Prime Minister with forming the Government; and shall approve the composition of the formed Government;
 
-- shall, upon the assent of the Seimas, release the Prime Minister from duties;
+5) shall, upon the assent of the Seimas, release the Prime Minister from duties;
 
-- shall accept the powers returned by the Government upon the election of a new Seimas and charge the Government with exercising its duties until a new Government is formed;
+6) shall accept the powers returned by the Government upon the election of a new Seimas and charge the Government with exercising its duties until a new Government is formed;
 
-- shall accept the resignation of the Government and, when necessary, charge it with continuing to exercise its duties, or charge one of the Ministers with exercising the duties of the Prime Minister, until a  new Government is formed; shall accept the resignations of Ministers and may charge them with exercising their duties until a new respective Minister is appointed;
+7) shall accept the resignation of the Government and, when necessary, charge it with continuing to exercise its duties, or charge one of the Ministers with exercising the duties of the Prime Minister, until a  new Government is formed; shall accept the resignations of Ministers and may charge them with exercising their duties until a new respective Minister is appointed;
 
-- shall, upon the resignation of the Government or after it returns its powers, within 15 days, propose the candidate for the post of the Prime Minister for consideration by the Seimas;
+8) shall, upon the resignation of the Government or after it returns its powers, within 15 days, propose the candidate for the post of the Prime Minister for consideration by the Seimas;
 
-- shall appoint and release Ministers upon submission by the Prime Minister;
+9) shall appoint and release Ministers upon submission by the Prime Minister;
 
-- shall, according to the established procedure, appoint and release state ofcials provided for by law;
+10) shall, according to the established procedure, appoint and release state officials provided for by law;
 
-- shall propose candidates for the posts of the justices of the Supreme Court for consideration by the Seimas and, upon the appointment of all the justices of the Supreme Court, propose the candidate from among them for the post of the President of the Supreme Court to be appointed by the Seimas; shall appoint the judges of the Court of Appeal and, from among them, the President of the Court of Appeal,
+11) shall propose candidates for the posts of the justices of the Supreme Court for consideration by the Seimas and, upon the appointment of all the justices of the Supreme Court, propose the candidate from among them for the post of the President of the Supreme Court to be appointed by the Seimas; shall appoint the judges of the Court of Appeal and, from among them, the President of the Court of Appeal,
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -896,49 +900,49 @@ The Constitution - Constitutional Court of The Republic of Lithuania
 
 provided  that  the  Seimas  gives  its  assent  to  the  candidates  proposed;  shall  appoint  the  judges  and presidents of regional and district courts and change their places of work; in cases provided for by law, shall  submit  that  the  Seimas  release  judges  from  their  duties;  shall,  upon  the  assent  of  the  Seimas, appoint and release the Prosecutor General of the Republic of Lithuania;
 
-- shall  propose candidates for the posts of three justices of the Constitutional Court and, upon the appointment of all the justices of the Constitutional Court, propose the candidate from among them for the post of the President of the Constitutional Court to be appointed by the Seimas;
+12) shall  propose candidates for the posts of three justices of the Constitutional Court and, upon the appointment of all the justices of the Constitutional Court, propose the candidate from among them for the post of the President of the Constitutional Court to be appointed by the Seimas;
 
-- shall propose candidates for the posts of the Auditor General and the Chairperson of the Board of the  Bank  of  Lithuania  for  consideration  by  the  Seimas;  may  submit  that  the  Seimas  express  no condence in them;
+13) shall propose candidates for the posts of the Auditor General and the Chairperson of the Board of the  Bank  of  Lithuania  for  consideration  by  the  Seimas;  may  submit  that  the  Seimas  express  no confidence in them;
 
-- shall, upon the assent of the Seimas, appoint and release the Commander of the Armed Forces and the Head of the Security Service;
+14) shall, upon the assent of the Seimas, appoint and release the Commander of the Armed Forces and the Head of the Security Service;
 
-- shall confer the highest military ranks;
+15) shall confer the highest military ranks;
 
-- shall,  in  the  event  of  an  armed  attack  threatening  the  sovereignty  of  the  State  or  its  territorial integrity, adopt decisions concerning defence against the armed aggression, the imposition of martial law, as well as mobilisation, and submit these decisions for approval at the next sitting of the Seimas;
+16) shall,  in  the  event  of  an  armed  attack  threatening  the  sovereignty  of  the  State  or  its  territorial integrity, adopt decisions concerning defence against the armed aggression, the imposition of martial law, as well as mobilisation, and submit these decisions for approval at the next sitting of the Seimas;
 
-- shall declare a state of emergency according to the procedure and in cases established by law and present this decision for approval at the next sitting of the Seimas;
+17) shall declare a state of emergency according to the procedure and in cases established by law and present this decision for approval at the next sitting of the Seimas;
 
-- shall make annual reports at the Seimas on the situation in Lithuania and the domestic and foreign policies of the Republic of Lithuania;
+18) shall make annual reports at the Seimas on the situation in Lithuania and the domestic and foreign policies of the Republic of Lithuania;
 
-- shall, in cases provided for in the Constitution, convene an extraordinary session of the Seimas;
+19) shall, in cases provided for in the Constitution, convene an extraordinary session of the Seimas;
 
-- shall  call  regular  elections  to  the  Seimas  and,  in  cases  provided  for  in  the  second  paragraph  of Article 58 of the Constitution, call early elections to the Seimas;
+20) shall  call  regular  elections  to  the  Seimas  and,  in  cases  provided  for  in  the  second  paragraph  of Article 58 of the Constitution, call early elections to the Seimas;
 
-- shall grant citizenship of the Republic of Lithuania according to the procedure established by law;
+21) shall grant citizenship of the Republic of Lithuania according to the procedure established by law;
 
-- shall confer state awards;
+22) shall confer state awards;
 
-- shall grant pardons to convicted persons;
+23) shall grant pardons to convicted persons;
 
-- shall sign and promulgate laws adopted by the Seimas or refer them back to the Seimas according to the procedure established in Article 71 of the Constitution.
+24) shall sign and promulgate laws adopted by the Seimas or refer them back to the Seimas according to the procedure established in Article 71 of the Constitution.
 
 Amendments to the Article:
 
-No. IX-1378, 20-03-2003, Valstybės žinios (Ofcial Gazette), 2003, No. 32-1315 (02-04-2003)
+No. IX-1378, 20-03-2003, Valstybės žinios (Official Gazette), 2003, No. 32-1315 (02-04-2003)
 
 ### Article 85
 
-The President of the Republic, implementing the powers vested in him, shall issue acts-decrees. To be valid, the decrees issued by the President of the Republic for the purposes specied in Items 3, 15, 17, and  21  of  Article  84  of  the  Constitution  must  be  signed  by  the  Prime  Minister  or  an  appropriate Minister. Responsibility for such a decree shall lie with the Prime Minister or the Minister who signs it.
+The President of the Republic, implementing the powers vested in him, shall issue acts-decrees. To be valid, the decrees issued by the President of the Republic for the purposes specified in Items 3, 15, 17, and  21  of  Article  84  of  the  Constitution  must  be  signed  by  the  Prime  Minister  or  an  appropriate Minister. Responsibility for such a decree shall lie with the Prime Minister or the Minister who signs it.
 
 ### Article 86
 
-The  person  of  the  President  of  the  Republic  shall  be  inviolable:  while  in  ofce,  he  may  be  neither detained nor held criminally or administratively liable.
+The  person  of  the  President  of  the  Republic  shall  be  inviolable:  while  in  office,  he  may  be  neither detained nor held criminally or administratively liable.
 
-The President of the Republic may be removed from ofce only for a gross violation of the Constitution or a breach of the oath, or when he is found to have committed a crime. The issue of the removal of the President of the Republic from ofce shall be decided by the Seimas according to the procedure for impeachment proceedings.
+The President of the Republic may be removed from office only for a gross violation of the Constitution or a breach of the oath, or when he is found to have committed a crime. The issue of the removal of the President of the Republic from office shall be decided by the Seimas according to the procedure for impeachment proceedings.
 
 ### Article 87
 
-After, in cases provided for in the second paragraph of Article 58 of the Constitution, the President of the Republic calls an early election to the Seimas, the newly elected Seimas may, by a 3/5 majority vote of all the Members of the Seimas and within 30 days of the day of the rst sitting, call an early election of the President of the Republic.
+After, in cases provided for in the second paragraph of Article 58 of the Constitution, the President of the Republic calls an early election to the Seimas, the newly elected Seimas may, by a 3/5 majority vote of all the Members of the Seimas and within 30 days of the day of the first sitting, call an early election
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -952,41 +956,43 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
+of the President of the Republic.
+
 The President of the Republic wishing to participate in the election shall be immediately registered as a candidate.
 
-The President of the Republic re-elected in such an election shall be deemed elected for the second term of ofce provided that more than three years of his rst term of ofce have expired prior to the election. If less than three years of the rst term of ofce have expired, the President of the Republic shall  only  be  elected  for  the  remainder  of  the  rst  term  of  ofce,  which  shall  not  be  considered  the second term of ofce.
+The President of the Republic re-elected in such an election shall be deemed elected for the second term of office provided that more than three years of his first term of office have expired prior to the election. If less than three years of the first term of office have expired, the President of the Republic shall  only  be  elected  for  the  remainder  of  the  first  term  of  office,  which  shall  not  be  considered  the second term of office.
 
-If  an  early  election  of  the  President  of  the  Republic  is  called  during  his  second  term  of  ofce,  the incumbent President of the Republic may only be elected for the remainder of the second term of ofce.
+If  an  early  election  of  the  President  of  the  Republic  is  called  during  his  second  term  of  office,  the incumbent President of the Republic may only be elected for the remainder of the second term of office.
 
 ### Article 88
 
 The powers of the President of the Republic shall cease:
 
-- upon the expiry of the period for which he is elected;
+1) upon the expiry of the period for which he is elected;
 
-- after an early election of the President of the Republic takes place;
+2) after an early election of the President of the Republic takes place;
 
-- upon his resignation from ofce;
+3) upon his resignation from office;
 
-- upon his death;
+4) upon his death;
 
-- when the Seimas removes him from ofce according to the procedure for impeachment proceedings;
+5) when the Seimas removes him from office according to the procedure for impeachment proceedings;
 
-- when  the  Seimas,  taking  into  consideration  the  conclusion  of  the  Constitutional  Court,  by  a  3/5 majority vote of all the Members of the Seimas, adopts a resolution stating that the state of health of the President of the Republic does not allow him to hold ofce.
+6) when  the  Seimas,  taking  into  consideration  the  conclusion  of  the  Constitutional  Court,  by  a  3/5 majority vote of all the Members of the Seimas, adopts a resolution stating that the state of health of the President of the Republic does not allow him to hold office.
 
 ### Article 89
 
-In the event that the President of the Republic dies, resigns, or is removed from ofce according to the procedure for impeachment proceedings, or the Seimas decides that the state of health of the President of  the  Republic  does  not  allow  him  to  hold  ofce,  the  ofce  of  the  President  of  the  Republic  shall temporarily be held by the Speaker of the Seimas. In such a case, the Speaker of the Seimas shall lose his powers at the Seimas, and his ofce shall temporarily be held, upon commissioning by the Seimas, by  his  Deputy.  In  the  enumerated  cases,  the  Seimas  must,  within  10  days,  call  an  election  of  the President of the Republic, which must be held within two months. If the Seimas cannot convene and call the election of the President of the Republic, the election shall be called by the Government.
+In the event that the President of the Republic dies, resigns, or is removed from office according to the procedure for impeachment proceedings, or the Seimas decides that the state of health of the President of  the  Republic  does  not  allow  him  to  hold  office,  the  office  of  the  President  of  the  Republic  shall temporarily be held by the Speaker of the Seimas. In such a case, the Speaker of the Seimas shall lose his powers at the Seimas, and his office shall temporarily be held, upon commissioning by the Seimas, by  his  Deputy.  In  the  enumerated  cases,  the  Seimas  must,  within  10  days,  call  an  election  of  the President of the Republic, which must be held within two months. If the Seimas cannot convene and call the election of the President of the Republic, the election shall be called by the Government.
 
-The  Speaker  of  the  Seimas  shall  substitute  for  the  President  of  the  Republic  when  the  latter  is temporarily abroad or falls ill and, for this reason, is temporarily unable to hold ofce.
+The  Speaker  of  the  Seimas  shall  substitute  for  the  President  of  the  Republic  when  the  latter  is temporarily abroad or falls ill and, for this reason, is temporarily unable to hold office.
 
-While temporarily substituting for the President of the Republic, the Speaker of the Seimas may neither call an early election to the Seimas nor appoint or release Ministers without the consent of the Seimas. During the said period, the Seimas may not consider the issue of no condence in the Speaker of the Seimas.
+While temporarily substituting for the President of the Republic, the Speaker of the Seimas may neither call an early election to the Seimas nor appoint or release Ministers without the consent of the Seimas. During the said period, the Seimas may not consider the issue of no confidence in the Speaker of the Seimas.
 
-With the exception of the cases specied in this Article, the powers of the President of the Republic may not be executed by any other persons or institutions.
+With the exception of the cases specified in this Article, the powers of the President of the Republic may not be executed by any other persons or institutions.
 
 ### Article 90
 
-The President of the Republic shall have a residence. The nancing of the President of the Republic and of his residence shall be established by law.
+The President of the Republic shall have a residence. The financing of the President of the Republic and of his residence shall be established by law.
 
 ## CHAPTER VII THE GOVERNMENT OF THE REPUBLIC OF LITHUANIA
 
@@ -1020,25 +1026,25 @@ A new Government shall receive the powers to act after the Seimas gives assent t
 
 ### Article 93
 
-Before taking ofce, the Prime Minister and Ministers shall take an oath at the Seimas to be faithful to the  Republic  of  Lithuania  and  to  observe  the  Constitution  and  laws.  The  text  of  the  oath  shall  be established by the Law on the Government.
+Before taking office, the Prime Minister and Ministers shall take an oath at the Seimas to be faithful to the  Republic  of  Lithuania  and  to  observe  the  Constitution  and  laws.  The  text  of  the  oath  shall  be established by the Law on the Government.
 
 ### Article 94
 
 The Government of the Republic of Lithuania:
 
-- shall  manage  national  affairs,  protect  the  territorial  inviolability  of  the  Republic  of  Lithuania,  and guarantee state security and public order;
+1) shall  manage  national  affairs,  protect  the  territorial  inviolability  of  the  Republic  of  Lithuania,  and guarantee state security and public order;
 
-- shall  execute  laws,  the  resolutions  of  the  Seimas  on  the  implementation  of  laws,  as  well  as  the decrees of the President of the Republic;
+2) shall  execute  laws,  the  resolutions  of  the  Seimas  on  the  implementation  of  laws,  as  well  as  the decrees of the President of the Republic;
 
-- shall co-ordinate the activities of ministries and other establishments of the Government;
+3) shall co-ordinate the activities of ministries and other establishments of the Government;
 
-- shall prepare a draft State Budget and submit it to the Seimas; shall execute the State Budget and submit to the Seimas a report on the execution of the budget;
+4) shall prepare a draft State Budget and submit it to the Seimas; shall execute the State Budget and submit to the Seimas a report on the execution of the budget;
 
-- shall prepare draft laws and present them to the Seimas for consideration;
+5) shall prepare draft laws and present them to the Seimas for consideration;
 
-- shall  establish  diplomatic  ties  and  maintain  relations  with  foreign  states  and  international organisations;
+6) shall  establish  diplomatic  ties  and  maintain  relations  with  foreign  states  and  international organisations;
 
-- shall discharge other duties prescribed to the Government by the Constitution and other laws.
+7) shall discharge other duties prescribed to the Government by the Constitution and other laws.
 
 ### Article 95
 
@@ -1068,7 +1074,7 @@ The Constitution - Constitutional Court of The Republic of Lithuania
 
 The Prime Minister shall  represent  the  Government  of  the  Republic  of  Lithuania  and  shall  head  its activities.
 
-In the absence of the Prime Minister, or when he is unable to hold ofce, the President of the Republic, upon submission by the Prime Minister, shall assign one of the Ministers to substitute for the Prime Minister during a period not exceeding 60 days; when there is no such submission, the President of the Republic shall assign one of the Ministers to substitute for the Prime Minister.
+In the absence of the Prime Minister, or when he is unable to hold office, the President of the Republic, upon submission by the Prime Minister, shall assign one of the Ministers to substitute for the Prime Minister during a period not exceeding 60 days; when there is no such submission, the President of the Republic shall assign one of the Ministers to substitute for the Prime Minister.
 
 ### Article 98
 
@@ -1078,7 +1084,7 @@ Only another member of the Government appointed by the Prime Minister may tempor
 
 ### Article 99
 
-The Prime Minister and Ministers may not hold any other elective or appointive ofce, may not work in any business, commercial, or other private establishments or enterprises, nor may they receive any remuneration other than that established  for  their  respective  governmental  duties  and  payment  for creative activities.
+The Prime Minister and Ministers may not hold any other elective or appointive office, may not work in any business, commercial, or other private establishments or enterprises, nor may they receive any remuneration other than that established  for  their  respective  governmental  duties  and  payment  for creative activities.
 
 ### Article 100
 
@@ -1092,15 +1098,15 @@ When more than half of the Ministers are replaced, the Government must once agai
 
 The Government must also resign in the following cases:
 
-- when the Seimas twice in succession does not give its assent to the programme of the newly formed Government;
+1) when the Seimas twice in succession does not give its assent to the programme of the newly formed Government;
 
-- when the Seimas, by a majority vote of all the Members of the Seimas and by secret ballot, expresses no condence in the Government or in the Prime Minister;
+2) when the Seimas, by a majority vote of all the Members of the Seimas and by secret ballot, expresses no confidence in the Government or in the Prime Minister;
 
-- when the Prime Minister resigns or dies;
+3) when the Prime Minister resigns or dies;
 
-- after the election to the Seimas, when a new Government is formed.
+4) after the election to the Seimas, when a new Government is formed.
 
-A Minister must resign when more than half of all the Members of the Seimas, by secret ballot, express no condence in him.
+A Minister must resign when more than half of all the Members of the Seimas, by secret ballot, express no confidence in him.
 
 The President of the Republic shall accept the resignation of the Government or a Minister.
 
@@ -1120,21 +1126,21 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
-The Constitutional Court shall decide whether the laws and other acts of the Seimas are in conict with the Constitution, and whether the acts of the President of the Republic and the Government are in conict with the Constitution or laws.
+The Constitutional Court shall decide whether the laws and other acts of the Seimas are in conflict with the Constitution, and whether the acts of the President of the Republic and the Government are in conflict with the Constitution or laws.
 
 The  status  of  the  Constitutional  Court  and  the  procedure  for  the  execution  of  its  powers  shall  be established by the Law on the Constitutional Court of the Republic of Lithuania.
 
 ### Article 103
 
-The Constitutional Court shall consist of 9 justices, each appointed for a single nine-year term of ofce. Every  three  years,  one-third  of  the  Constitutional  Court  shall  be  reconstituted.  The  Seimas  shall appoint three candidates for justices of the Constitutional Court from the candidates submitted by the President of the Republic, the Speaker of the Seimas, and the President of the Supreme Court, and shall appoint them as justices.
+The Constitutional Court shall consist of 9 justices, each appointed for a single nine-year term of office. Every  three  years,  one-third  of  the  Constitutional  Court  shall  be  reconstituted.  The  Seimas  shall appoint three candidates for justices of the Constitutional Court from the candidates submitted by the President of the Republic, the Speaker of the Seimas, and the President of the Supreme Court, and shall appoint them as justices.
 
 The  Seimas  shall  appoint  the  President  of  the  Constitutional  Court  from  among  its  justices  upon submission by the President of the Republic.
 
-The citizens of the Republic of Lithuania with an impeccable reputation, higher education in law, and not less than a 10-year length of service in the eld of law or in a branch of science and education as a lawyer may be appointed as justices of the Constitutional Court.
+The citizens of the Republic of Lithuania with an impeccable reputation, higher education in law, and not less than a 10-year length of service in the field of law or in a branch of science and education as a lawyer may be appointed as justices of the Constitutional Court.
 
 ### Article 104
 
-While  in  ofce,  the  justices  of  the  Constitutional  Court  shall  be  independent  of  any  other  state institution, person, or organisation, and shall follow only the Constitution of the Republic of Lithuania. Before entering ofce, the justices of the Constitutional Court shall take an oath at the Seimas to be faithful to the Republic of Lithuania and the Constitution.
+While  in  office,  the  justices  of  the  Constitutional  Court  shall  be  independent  of  any  other  state institution, person, or organisation, and shall follow only the Constitution of the Republic of Lithuania. Before entering office, the justices of the Constitutional Court shall take an oath at the Seimas to be faithful to the Republic of Lithuania and the Constitution.
 
 The limitations established on work and political activities for the judges of courts shall also apply to the justices of the Constitutional Court.
 
@@ -1142,29 +1148,29 @@ The justices of the Constitutional Court shall have the same rights concerning t
 
 ### Article 105
 
-The Constitutional Court shall consider and adopt decisions on whether the laws of the Republic of Lithuania or other acts adopted by the Seimas are in conict with the Constitution of the Republic of Lithuania.
+The Constitutional Court shall consider and adopt decisions on whether the laws of the Republic of Lithuania or other acts adopted by the Seimas are in conflict with the Constitution of the Republic of Lithuania.
 
-The Constitutional Court shall also consider whether the following are in conict with the Constitution and laws:
+The Constitutional Court shall also consider whether the following are in conflict with the Constitution and laws:
 
-- the acts of the President of the Republic;
+1) the acts of the President of the Republic;
 
-- the acts of the Government of the Republic.
+2) the acts of the Government of the Republic.
 
 The Constitutional Court shall present conclusions on:
 
-- whether  there  were  the  violations  of  election  laws  during  the  elections  of  the  President  of  the Republic or the elections of the Members of the Seimas;
+1) whether  there  were  the  violations  of  election  laws  during  the  elections  of  the  President  of  the Republic or the elections of the Members of the Seimas;
 
-- whether the state of health of the President of the Republic allows him to continue to hold ofce;
+2) whether the state of health of the President of the Republic allows him to continue to hold office;
 
-- whether the international treaties of the Republic of Lithuania are in conict with the Constitution;
+3) whether the international treaties of the Republic of Lithuania are in conflict with the Constitution;
 
-- whether  the  concrete  actions  of  the  Members  of  the  Seimas  and  state  ofcials  against  whom  an impeachment case has been instituted are in conict with the Constitution.
+4) whether  the  concrete  actions  of  the  Members  of  the  Seimas  and  state  officials  against  whom  an impeachment case has been instituted are in conflict with the Constitution.
 
 ### Article 106
 
-The Government, not less than 1/5 of all the Members of the Seimas, and courts shall have the right to apply to the Constitutional Court concerning the acts specied in the rst paragraph of Article 105.
+The Government, not less than 1/5 of all the Members of the Seimas, and courts shall have the right to apply to the Constitutional Court concerning the acts specified in the first paragraph of Article 105.
 
-Not  less  than  1/5  of  all  the  Members  of  the  Seimas  and  courts  shall  have  the  right  to  apply  to  the Constitutional Court concerning the conformity of the acts of the President of the Republic with the Constitution and laws.
+Not  less  than  1/5  of  all  the  Members  of  the  Seimas  and  courts  shall  have  the  right  to  apply  to  the
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -1178,13 +1184,15 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
+Constitutional Court concerning the conformity of the acts of the President of the Republic with the Constitution and laws.
+
 Not less than 1/5 of all the Members of the Seimas, courts, as well as the President of the Republic, shall have  the  right  to  apply  to  the  Constitutional  Court  concerning  the  conformity  of  the  acts  of  the Government with the Constitution and laws.
 
-Every person shall have the right to apply to the Constitutional Court concerning the acts specied in the  rst  and  second  paragraphs  of  Article  105  if  a  decision  adopted  on  the  basis  of  these  acts  has violated  the  constitutional  rights  or  freedoms  of  the  person  and  the  person  has  exhausted  all  legal remedies.  The  procedure  for  implementing  this  right  shall  be  established  by  the  Law  on  the Constitutional Court.
+Every person shall have the right to apply to the Constitutional Court concerning the acts specified in the  first  and  second  paragraphs  of  Article  105  if  a  decision  adopted  on  the  basis  of  these  acts  has violated  the  constitutional  rights  or  freedoms  of  the  person  and  the  person  has  exhausted  all  legal remedies.  The  procedure  for  implementing  this  right  shall  be  established  by  the  Law  on  the Constitutional Court.
 
 As supplemented with this paragraph (to come into force on 1 September 2019)
 
-No XIII-2004, 21-03-2019, published in the Register of Legal Acts, 02-04-2019, identication code 2019-05330
+No XIII-2004, 21-03-2019, published in the Register of Legal Acts, 02-04-2019, identification code 2019-05330
 
 An  application  by  the  President  of  the  Republic  to  the  Constitutional  Court,  or  a  resolution  of  the Seimas, asking for an investigation into the conformity of an act with the Constitution shall suspend the validity of the act.
 
@@ -1194,31 +1202,31 @@ The Constitutional Court shall have the right to refuse to accept a case for con
 
 ### Article 107
 
-A law (or part thereof) of the Republic of Lithuania or another act (or part thereof) of the Seimas, an act of the President of the Republic, or an act (or part thereof) of the Government may not be applied from the day of the ofcial publication of the decision of the Constitutional Court that the act in question (or part thereof) is in conict with the Constitution of the Republic of Lithuania.
+A law (or part thereof) of the Republic of Lithuania or another act (or part thereof) of the Seimas, an act of the President of the Republic, or an act (or part thereof) of the Government may not be applied from the day of the official publication of the decision of the Constitutional Court that the act in question (or part thereof) is in conflict with the Constitution of the Republic of Lithuania.
 
-The decisions of the Constitutional Court on the issues assigned to its competence by the Constitution shall be nal and not subject to appeal.
+The decisions of the Constitutional Court on the issues assigned to its competence by the Constitution shall be final and not subject to appeal.
 
-In the case heard subsequent to an application by a person referred to in the fourth paragraph of Article 106  of  the  Constitution,  the  decision  of  the  Constitutional  Court  that  a  law  (or  part  thereof)  of  the Republic  of  Lithuania  or  another  act  (or  part  thereof)  of  the  Seimas,  an  act  of  the  President  of  the Republic,  or  an  act  (or  part  thereof)  of  the  Government  is  in  conict  with  the  Constitution  shall constitute  a  basis  for  renewing,  according  to  the  procedure  established  by  law,  the  proceedings regarding the implementation of the violated constitutional rights or freedoms of the person.
+In the case heard subsequent to an application by a person referred to in the fourth paragraph of Article 106  of  the  Constitution,  the  decision  of  the  Constitutional  Court  that  a  law  (or  part  thereof)  of  the Republic  of  Lithuania  or  another  act  (or  part  thereof)  of  the  Seimas,  an  act  of  the  President  of  the Republic,  or  an  act  (or  part  thereof)  of  the  Government  is  in  conflict  with  the  Constitution  shall constitute  a  basis  for  renewing,  according  to  the  procedure  established  by  law,  the  proceedings regarding the implementation of the violated constitutional rights or freedoms of the person.
 
 As supplemented with this paragraph (to come into force on 1 September 2019)
 
-No XIII-2004, 21-03-2019, published in the Register of Legal Acts, 02-04-2019, identication code 2019-05330
+No XIII-2004, 21-03-2019, published in the Register of Legal Acts, 02-04-2019, identification code 2019-05330
 
-On the basis of the conclusions of the Constitutional Court, the Seimas shall take a nal decision on the issues set forth in the third paragraph of Article 105 of the Constitution.
+On the basis of the conclusions of the Constitutional Court, the Seimas shall take a final decision on the issues set forth in the third paragraph of Article 105 of the Constitution.
 
 ### Article 108
 
 The powers of a justice of the Constitutional Court shall cease:
 
-- upon the expiry of the term of powers;
+1) upon the expiry of the term of powers;
 
-- upon his death;
+2) upon his death;
 
-- upon his resignation;
+3) upon his resignation;
 
-- when he is incapable of holding ofce due to the state of his health;
+4) when he is incapable of holding office due to the state of his health;
 
-- when  the  Seimas  removes  him  from  ofce  in  accordance  with  the  procedure  for  impeachment proceedings.
+5) when  the  Seimas  removes  him  from  office  in  accordance  with  the  procedure  for  impeachment proceedings.
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -1232,6 +1240,8 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
+## CHAPTER IX COURTS
+
 ### Article 109
 
 In the Republic of Lithuania, justice shall be administered only by courts.
@@ -1244,9 +1254,9 @@ Courts shall adopt decisions in the name of the Republic of Lithuania.
 
 ### Article 110
 
-Judges may not apply any laws that are in conict with the Constitution.
+Judges may not apply any laws that are in conflict with the Constitution.
 
-In cases when there are grounds to believe that a law or another legal act that should be applied in a concrete case is in conict with the Constitution, the judge shall suspend the consideration of the case and shall apply to the Constitutional Court, requesting that it decide whether the law or another legal act in question is in compliance with the Constitution.
+In cases when there are grounds to believe that a law or another legal act that should be applied in a concrete case is in conflict with the Constitution, the judge shall suspend the consideration of the case and shall apply to the Constitutional Court, requesting that it decide whether the law or another legal act in question is in compliance with the Constitution.
 
 ### Article 111
 
@@ -1272,13 +1282,11 @@ A person appointed as a judge shall, according to the procedure established by l
 
 ### Article 113
 
-Judges may not hold any other elective or appointive ofce, or work in any business, commercial, or other  private  establishments  or  enterprises.  Nor  may  they  receive  any  remuneration  other  than  the remuneration established for judges and payment for educational or creative activities.
+Judges may not hold any other elective or appointive office, or work in any business, commercial, or other  private  establishments  or  enterprises.  Nor  may  they  receive  any  remuneration  other  than  the remuneration established for judges and payment for educational or creative activities.
 
 Judges may not participate in the activities of political parties or other political organisations.
 
 ### Article 114
-
-## CHAPTER IX COURTS
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -1292,7 +1300,7 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
-Interference  by  any  institutions  of  state  power  and  governance,  Members  of  the  Seimas  or  other ofcials, political parties, political or public organisations, or citizens with the activities of a judge or court shall be prohibited and shall lead to liability provided for by law.
+Interference  by  any  institutions  of  state  power  and  governance,  Members  of  the  Seimas  or  other officials, political parties, political or public organisations, or citizens with the activities of a judge or court shall be prohibited and shall lead to liability provided for by law.
 
 Judges  may  not  be  held  criminally  liable  or  be  detained,  or  have  their  liberty  restricted  otherwise, without the consent of the Seimas or, in the period between the sessions of the Seimas, without the consent of the President of the Republic of Lithuania.
 
@@ -1300,21 +1308,21 @@ Judges  may  not  be  held  criminally  liable  or  be  detained,  or  have  the
 
 The judges of the courts of the Republic of Lithuania shall be released from their duties according to the procedure established by law in the following cases:
 
-- of their own will;
+1) of their own will;
 
-- upon the expiry of the term of powers, or upon reaching the pensionable age established by law;
+2) upon the expiry of the term of powers, or upon reaching the pensionable age established by law;
 
-- due to their state of health;
+3) due to their state of health;
 
-- upon election to another ofce, or upon transfer, with their consent, to another place of work;
+4) upon election to another office, or upon transfer, with their consent, to another place of work;
 
-- when their conduct discredits the name of judges;
+5) when their conduct discredits the name of judges;
 
-- upon the entry into effect of court judgments convicting them.
+6) upon the entry into effect of court judgments convicting them.
 
 ### Article 116
 
-For  a  gross  violation  of  the  Constitution  or  a  breach  of  the  oath,  or  when  they  are  found  to  have committed  a  crime,  the  President  and  justices  of  the  Supreme  Court,  as  well  as  the  President  and judges of the Court of Appeal, may be removed from ofce by the Seimas according to the procedure for impeachment proceedings.
+For  a  gross  violation  of  the  Constitution  or  a  breach  of  the  oath,  or  when  they  are  found  to  have committed  a  crime,  the  President  and  justices  of  the  Supreme  Court,  as  well  as  the  President  and judges of the Court of Appeal, may be removed from office by the Seimas according to the procedure for impeachment proceedings.
 
 ### Article 117
 
@@ -1322,7 +1330,7 @@ In all courts, the consideration of cases shall be public. A closed court hearin
 
 In the Republic of Lithuania, court proceedings shall be conducted in the state language.
 
-Persons who do not have sufcient knowledge of the Lithuanian language shall be guaranteed the right to participate in the investigation and court proceedings through a translator.
+Persons who do not have sufficient knowledge of the Lithuanian language shall be guaranteed the right to participate in the investigation and court proceedings through a translator.
 
 ### Article 118
 
@@ -1332,7 +1340,7 @@ In cases established by law, prosecutors shall defend the rights and legitimate 
 
 When performing their functions, prosecutors shall be independent and shall obey only the law.
 
-The Prosecution Service of the Republic of Lithuania shall be the Ofce of the Prosecutor General and territorial prosecutor's ofces.
+The Prosecution Service of the Republic of Lithuania shall be the Office of the Prosecutor General and territorial prosecutor’s offices.
 
 The  Prosecutor  General  shall  be  appointed  and  released  by  the  President  of  the  Republic  upon  the assent of the Seimas.
 
@@ -1340,7 +1348,7 @@ The  procedure  for  the  appointment  and  release  of  prosecutors,  as  well 
 
 Amendments to the Article:
 
-No. IX-1379, 20-03-2003, Valstybės žinios (Ofcial Gazette), 2003, No. 32-1316 (02-04-2003)
+No. IX-1379, 20-03-2003, Valstybės žinios (Official Gazette), 2003, No. 32-1316 (02-04-2003)
 
 ## CHAPTER X LOCAL SELF-GOVERNMENT AND GOVERNANCE
 
@@ -1368,15 +1376,15 @@ For the direct implementation of the laws of the Republic of Lithuania, as well 
 
 Amendments to the Article:
 
-No. VIII-32, 12-12-1996, Valstybės žinios (Ofcial Gazette), 1996, No. 122-2863 (18-12-1996)
+No. VIII-32, 12-12-1996, Valstybės žinios (Official Gazette), 1996, No. 122-2863 (18-12-1996)
 
-No. IX-959, 20-06-2002, Valstybės žinios (Ofcial Gazette), 2002, No. 65-2629 (28-06-2002)
+No. IX-959, 20-06-2002, Valstybės žinios (Official Gazette), 2002, No. 65-2629 (28-06-2002)
 
 ### Article 120
 
 The State shall support municipalities.
 
-Municipalities shall act freely and independently within their competence dened by the Constitution and laws.
+Municipalities shall act freely and independently within their competence defined by the Constitution and laws.
 
 ### Article 121
 
@@ -1400,7 +1408,7 @@ In  cases  and  according to the procedure provided for by law, the Seimas may t
 
 ### Article 124
 
-The acts or actions of municipal councils or of their executive bodies or ofcials that violate the rights of citizens or organisations may be appealed against before a court.
+The acts or actions of municipal councils or of their executive bodies or officials that violate the rights of citizens or organisations may be appealed against before a court.
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -1414,6 +1422,8 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
+## CHAPTER XI FINANCES AND THE STATE BUDGET
+
 ### Article 125
 
 In the Republic of Lithuania, the Bank of Lithuania shall be the central bank, which belongs to the State of Lithuania by right of ownership.
@@ -1422,19 +1432,19 @@ The procedure for the organisation and activities of the Bank of Lithuania, its 
 
 Amendments to the Article:
 
-No. X-572, 25-04-2006, Valstybės žinios (Ofcial Gazette), 2006, No. 48-1701 (29-04-2006)
+No. X-572, 25-04-2006, Valstybės žinios (Official Gazette), 2006, No. 48-1701 (29-04-2006)
 
-Note. To recognise that the Law of the Republic of Lithuania Amending Article 125 of the Constitution (wording of 25 April 2006; Ofcial Gazette Valstybės žinios, No. 48-1701, 2006), in view of the procedure of its adoption, is in conict with Paragraph 1 of Article 147 of the Constitution of the Republic of Lithuania.
+Note. To recognise that the Law of the Republic of Lithuania Amending Article 125 of the Constitution (wording of 25 April 2006; Official Gazette Valstybės žinios, No. 48-1701, 2006), in view of the procedure of its adoption, is in conflict with Paragraph 1 of Article 147 of the Constitution of the Republic of Lithuania.
 
-The Constitutional Court of the Republic of Lithuania, Ruling 24-01-2014, published 24-01-2014, identication code 2014-00478
+The Constitutional Court of the Republic of Lithuania, Ruling 24-01-2014, published 24-01-2014, identification code 2014-00478
 
-[In accordance with the ruling of the Constitutional Court of 24 January 2014, from the day of the ofcial publication of this ruling, Paragraph 2 of Article 125 of the Constitution may not be applied. This does not mean that Article 125 of the Constitution comes into force in the wording effective before the entry into force of the Law Amending Article 125 of the Constitution.]
+[In accordance with the ruling of the Constitutional Court of 24 January 2014, from the day of the official publication of this ruling, Paragraph 2 of Article 125 of the Constitution may not be applied. This does not mean that Article 125 of the Constitution comes into force in the wording effective before the entry into force of the Law Amending Article 125 of the Constitution.]
 
 ### Article 126
 
 The Bank of Lithuania shall be directed by the Board of the Bank, consisting of the Chairperson, Deputy Chairpersons, and members.
 
-The Chairperson of the Board of the Bank of Lithuania shall be appointed for a ve-year term by the Seimas upon submission by the President of the Republic.
+The Chairperson of the Board of the Bank of Lithuania shall be appointed for a five-year term by the Seimas upon submission by the President of the Republic.
 
 ### Article 127
 
@@ -1456,8 +1466,6 @@ The budget year shall start on the 1st of January and shall end on the 31st of D
 
 ### Article 130
 
-## CHAPTER XI FINANCES AND THE STATE BUDGET
-
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 25/34
@@ -1476,7 +1484,7 @@ The Government shall draw up a draft State Budget and present it to the Seimas n
 
 The draft State Budget shall be considered by the Seimas and shall be approved by law before the start of the new budget year.
 
-During the consideration of  the  draft  budget,  the  Seimas  may  increase  expenditure  provided  that  it species nancial sources for the additional expenditure. The expenditure established by law may not be reduced as long as these laws are not altered.
+During the consideration of the draft budget, the Seimas may increase expenditure provided that it specifies financial sources for the additional expenditure. The expenditure established by law may not be reduced as long as these laws are not altered.
 
 ### Article 132
 
@@ -1488,15 +1496,15 @@ During the budget year, the Seimas may change the budget. It shall be changed ac
 
 ### Article 133
 
-The system and powers of the National Audit Ofce shall be established by law.
+The system and powers of the National Audit Office shall be established by law.
 
-The National Audit Ofce shall be headed by the Auditor General, who shall be appointed for a ve-year term by the Seimas upon submission by the President of the Republic.
+The National Audit Office shall be headed by the Auditor General, who shall be appointed for a five-year term by the Seimas upon submission by the President of the Republic.
 
-Before taking ofce, the Auditor General shall take an oath. The oath shall be established by law.
+Before taking office, the Auditor General shall take an oath. The oath shall be established by law.
 
 ### Article 134
 
-The  National  Audit  Ofce  shall  supervise  the  lawfulness  of  the  possession  and  use  of  state-owned property and the execution of the State Budget.
+The National Audit Office shall supervise the lawfulness of the possession and use of state-owned property and the execution of the State Budget.
 
 The  Auditor  General  shall  submit  a  conclusion  to  the  Seimas  concerning  the  report  on  the  annual execution of the budget.
 
@@ -1510,7 +1518,7 @@ In the Republic of Lithuania, war propaganda shall be prohibited.
 
 ### Article 136
 
-The Republic of Lithuania shall participate in international organisations provided that this is not in conict with the interests and independence of the State.
+The Republic of Lithuania shall participate in international organisations provided that this is not in conflict with the interests and independence of the State.
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -1532,21 +1540,21 @@ There may not be any weapons of mass destruction and foreign military bases on t
 
 The Seimas shall ratify or denounce the following international treaties of the Republic of Lithuania:
 
-- on the alteration of the boundaries of the State of the Republic of Lithuania;
+1) on the alteration of the boundaries of the State of the Republic of Lithuania;
 
-- on  political  co-operation  with  foreign  states;  mutual  assistance  treaties;  as  well  as  treaties  of  a defensive nature related to the defence of the State;
+2) on political co-operation with foreign states; mutual assistance treaties; as well as treaties of a defensive nature related to the defence of the State;
 
-- on the renunciation of the use of force or threatening by force; as well as peace treaties;
+3) on the renunciation of the use of force or threatening by force; as well as peace treaties;
 
-- on  the  presence  and  status  of  the  armed  forces  of  the  Republic  of  Lithuania  on  the  territories  of foreign states;
+4) on the presence and status of the armed forces of the Republic of Lithuania on the territories of foreign states;
 
-- on  the  participation  of  the  Republic  of  Lithuania  in  universal  international  organisations  and regional international organisations;
+5) on the participation of the Republic of Lithuania in universal international organisations and regional international organisations;
 
-- multilateral or long-term economic treaties.
+6) multilateral or long-term economic treaties.
 
-Laws,  as  well  as  international  treaties,  may  also  provide  for  other  cases  when  the  Seimas  raties international treaties of the Republic of Lithuania.
+Laws, as well as international treaties, may also provide for other cases when the Seimas ratifies international treaties of the Republic of Lithuania.
 
-International treaties ratied by the Seimas of the Republic of Lithuania shall be a constituent part of the legal system of the Republic of Lithuania.
+International treaties ratified by the Seimas of the Republic of Lithuania shall be a constituent part of the legal system of the Republic of Lithuania.
 
 ### Article 139
 
@@ -1566,7 +1574,7 @@ The Government, the Minister of National Defence, and the Commander of the Armed
 
 ### Article 141
 
-Persons performing actual military service or alternative service, as well as the ofcers of the national defence system, the police, and the interior, non-commissioned ofcers, re-enlistees, and other paid ofcials of paramilitary and security services who are not retired to the reserve, may not be Members of the Seimas or members of municipal councils. They may not hold any elective or appointive ofce in the civil State Service, or participate in the activities of political parties or organisations.
+Persons performing actual military service or alternative service, as well as the officers of the national defence system, the police, and the interior, non-commissioned officers, re-enlistees, and other paid officials of paramilitary and security services who are not retired to the reserve, may not be Members of the Seimas or members of municipal councils. They may not hold any elective or appointive office in the civil State Service, or participate in the activities of political parties or organisations.
 
 ### Article 142
 
@@ -1582,7 +1590,7 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
-The Seimas shall impose martial law, announce mobilisation or demobilisation, or adopt the decision to  use  the  armed  forces  when  the  need  arises  to  defend  the  Homeland  or  to  full  the  international obligations of the State of Lithuania.
+The Seimas shall impose martial law, announce mobilisation or demobilisation, or adopt the decision to use the armed forces when the need arises to defend the Homeland or to fulfil the international obligations of the State of Lithuania.
 
 In the event of an armed attack threatening the sovereignty of the State or its territorial integrity, the President of the Republic shall immediately adopt a decision on defence against the armed aggression, impose martial law throughout the State or in its separate part, or announce mobilisation, and submit these decisions for approval at the next sitting of the Seimas, or immediately convene an extraordinary session  in  the  period  between  sessions  of  the  Seimas.  The  Seimas  shall  approve  or  overrule  the decision of the President of the Republic.
 
@@ -1600,7 +1608,7 @@ The state of emergency shall be regulated by law.
 
 ### Article 145
 
-Upon the imposition of martial law or the declaration of a state of emergency, the rights and freedoms specied in Articles 22, 24, 25, 32, 35, and 36 of the Constitution may temporarily be limited.
+Upon the imposition of martial law or the declaration of a state of emergency, the rights and freedoms specified in Articles 22, 24, 25, 32, 35, and 36 of the Constitution may temporarily be limited.
 
 ### Article 146
 
@@ -1630,9 +1638,9 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
-The provision 'The State of Lithuania shall be an independent democratic republic' of Article 1 of the Constitution may be altered only by referendum if not less than 3/4 of the citizens of Lithuania with the electoral right vote in favour thereof.
+The provision “The State of Lithuania shall be an independent democratic republic” of Article 1 of the Constitution may be altered only by referendum if not less than 3/4 of the citizens of Lithuania with the electoral right vote in favour thereof.
 
-The provisions of the First Chapter 'The State of Lithuania' and the Fourteenth Chapter 'The Alteration of the Constitution' may be altered only by referendum.
+The provisions of the First Chapter “The State of Lithuania” and the Fourteenth Chapter “The Alteration of the Constitution” may be altered only by referendum.
 
 Amendments to the Constitution concerning other chapters of the Constitution must be considered and voted at the Seimas twice. There must be a break of not less than three months between the votes. A draft law on the alteration of the Constitution shall be deemed adopted by the Seimas if, during each of the votes, not less than 2/3 of all the Members of the Seimas vote in favour thereof.
 
@@ -1640,9 +1648,9 @@ A failed amendment to the Constitution may be submitted to the Seimas for recons
 
 ### Article 149
 
-The  President  of  the  Republic  shall  sign  an  adopted  law  on  the  alteration  of  the  Constitution  and ofcially promulgate it within ve days.
+The President of the Republic shall sign an adopted law on the alteration of the Constitution and officially promulgate it within five days.
 
-If the President of the Republic does not sign and promulgate such a law within the specied time, this law shall come into force when the Speaker of the Seimas signs and promulgates it.
+If the President of the Republic does not sign and promulgate such a law within the specified time, this law shall come into force when the Speaker of the Seimas signs and promulgates it.
 
 A law on the alteration of the Constitution shall come into force not earlier than one month after its adoption.
 
@@ -1652,25 +1660,25 @@ A law on the alteration of the Constitution shall come into force not earlier th
 
 The constituent part of the Constitution of the Republic of Lithuania shall be:
 
-The Constitutional Law 'On the State of Lithuania' of 11 February 1991;
+The Constitutional Law “On the State of Lithuania” of 11 February 1991;
 
-The  Constitutional  Act  'On  the  Non-Alignment  of  the  Republic  of  Lithuania  to  Post-Soviet  Eastern Unions' of 8 June 1992;
+The Constitutional Act “On the Non-Alignment of the Republic of Lithuania to Post-Soviet Eastern Unions” of 8 June 1992;
 
-The Law 'On the Procedure for the Entry into Force of the Constitution of the Republic of Lithuania' of 25 October 1992;
+The Law “On the Procedure for the Entry into Force of the Constitution of the Republic of Lithuania” of 25 October 1992;
 
-The Constitutional Act 'On Membership of the Republic of Lithuania in the European Union' of 13 July 2004.
+The Constitutional Act “On Membership of the Republic of Lithuania in the European Union” of 13 July 2004.
 
 Amendments to the Article:
 
-No. IX-2343, 13-07-2004, Valstybės žinios (Ofcial Gazette), 2004, No. 111-4123 (17-07-2004)
+No. IX-2343, 13-07-2004, Valstybės žinios (Official Gazette), 2004, No. 111-4123 (17-07-2004)
 
 ### Article 151
 
-This Constitution of the Republic of Lithuania shall come into force on the day following the ofcial publication  of  the  results  of  the  Referendum  provided  that  more  than  half  of  the  citizens  of  the Republic of Lithuania with the electoral right give their consent to this Constitution in the Referendum.
+This Constitution of the Republic of Lithuania shall come into force on the day following the official publication of the results of the Referendum provided that more than half of the citizens of the Republic of Lithuania with the electoral right give their consent to this Constitution in the Referendum.
 
 ### Article 152
 
-The  procedure  for  the  entry  into  force  of  this  Constitution  and  separate  provisions  thereof  shall  be regulated by the Law of the Republic of Lithuania 'On the Procedure for the Entry into Force of the Constitution  of  the  Republic  of  Lithuania',  which,  together  with  this  Constitution  of  the  Republic  of Lithuania, shall be adopted by referendum.
+The procedure for the entry into force of this Constitution and separate provisions thereof shall be regulated by the Law of the Republic of Lithuania “On the Procedure for the Entry into Force of the Constitution of the Republic of Lithuania”, which, together with this Constitution of the Republic of Lithuania, shall be adopted by referendum.
 
 ### Article 153
 
@@ -1686,11 +1694,11 @@ www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
 The Constitution - Constitutional Court of The Republic of Lithuania
 
-After the adoption of this Constitution of the Republic of Lithuania by referendum, the Seimas of the Republic of Lithuania, by 25 October 1993, may alter, by a 3/5 majority vote of all the Members of the Seimas, the provisions of this Constitution of the Republic of Lithuania contained in Articles 47, 55, 56, Item 2 of the second paragraph of Article 58, in Articles 65, 68, 69, Items 11 and 12 of Article 84, the rst paragraph of Article 87, in Articles 96, 103, 118, and in the fourth paragraph of Article 119.
+After the adoption of this Constitution of the Republic of Lithuania by referendum, the Seimas of the Republic of Lithuania, by 25 October 1993, may alter, by a 3/5 majority vote of all the Members of the Seimas, the provisions of this Constitution of the Republic of Lithuania contained in Articles 47, 55, 56, Item 2 of the second paragraph of Article 58, in Articles 65, 68, 69, Items 11 and 12 of Article 84, the first paragraph of Article 87, in Articles 96, 103, 118, and in the fourth paragraph of Article 119.
 
 ### Article 154
 
-The  Constitution  of  the  Republic  of  Lithuania  and  the  Law  of  the  Republic  of  Lithuania  'On  the Procedure  for  the  Entry  into  Force  of  the  Constitution  of  the  Republic  of  Lithuania',  adopted  by referendum, shall be signed and, within 15 days, promulgated by the Chairman of the Supreme Council of the Republic of Lithuania.
+The Constitution of the Republic of Lithuania and the Law of the Republic of Lithuania “On the Procedure for the Entry into Force of the Constitution of the Republic of Lithuania”, adopted by referendum, shall be signed and, within 15 days, promulgated by the Chairman of the Supreme Council of the Republic of Lithuania.
 
 CHAIRMAN OF THE SUPREME COUNCIL OF THE REPUBLIC OF LITHUANIA VYTAUTAS LANDSBERGIS
 
@@ -1702,9 +1710,9 @@ Vilnius, 6 November 1992
 
 The Supreme Council of the Republic of Lithuania,
 
-taking account of the fact that, during the general poll (plebiscite) held on 9 February 1991, more than three-quarters of the population of Lithuania with the active electoral right voted by secret ballot that 'the State of Lithuania would be an independent democratic republic',
+taking account of the fact that, during the general poll (plebiscite) held on 9 February 1991, more than three-quarters of the population of Lithuania with the active electoral right voted by secret ballot that “the State of Lithuania would be an independent democratic republic”,
 
-emphasising that, by this expression of sovereign powers and will, the Nation of Lithuania once again conrmed its unchanging stand on the independent State of Lithuania;
+emphasising that, by this expression of sovereign powers and will, the Nation of Lithuania once again confirmed its unchanging stand on the independent State of Lithuania;
 
 interpreting the results of the plebiscite as the common determination to strengthen and defend the independence of Lithuania and to create a democratic republic, and
 
@@ -1714,11 +1722,11 @@ adopts and solemnly proclaims this Law.
 
 #### Article 1
 
-The statement 'The State of Lithuania shall be an independent democratic republic' is a constitutional norm of the Republic of Lithuania and a fundamental principle of the State.
+The statement “The State of Lithuania shall be an independent democratic republic” is a constitutional norm of the Republic of Lithuania and a fundamental principle of the State.
 
 #### Article 2
 
-The constitutional norm and the fundamental principle of the State as formulated in the rst article of this Law may be altered only by a general poll (plebiscite) of the Nation of Lithuania provided that not less  than  three-quarters  of  the  citizens  of  Lithuania  with  the  active  electoral  right  vote  in  favour thereof.
+The constitutional norm and the fundamental principle of the State as formulated in the first article of this Law may be altered only by a general poll (plebiscite) of the Nation of Lithuania provided that not less than three-quarters of the citizens of Lithuania with the active electoral right vote in favour thereof.
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -1742,15 +1750,15 @@ The Supreme Council of the Republic of Lithuania,
 
 invoking the 16 February 1918 and 11 March 1990 Acts on the Restoration of the Independent State of Lithuania and acting upon the will of the entire Nation, as expressed on 9 February 1991, and
 
-witnessing the attempts to preserve, in any form, the former Union of Soviet Socialist Republics with all  its  conquered  territories,  and  the  intentions  to  draw  Lithuania  into  the  defensive,  economic, nancial, and other 'spaces' of the post-Soviet Eastern bloc,
+witnessing the attempts to preserve, in any form, the former Union of Soviet Socialist Republics with all its conquered territories, and the intentions to draw Lithuania into the defensive, economic, financial, and other “spaces” of the post-Soviet Eastern bloc,
 
 r e s o l v e s:
 
-- To develop mutually advantageous relations with each state that was formerly a component of the USSR,  but  never  join,  in  any  form,  any  new  political,  military,  economic,  or  other  unions  or commonwealths of states formed on the basis of the former USSR.
+1. To develop mutually advantageous relations with each state that was formerly a component of the USSR, but never join, in any form, any new political, military, economic, or other unions or commonwealths of states formed on the basis of the former USSR.
 
-- Any activities seeking to draw the State of Lithuania into the unions or commonwealths of states specied in the rst article of this Constitutional Act shall be regarded as hostile to the independence of Lithuania, and liability for them shall be established by law.
+2. Any activities seeking to draw the State of Lithuania into the unions or commonwealths of states specified in the first article of this Constitutional Act shall be regarded as hostile to the independence of Lithuania, and liability for them shall be established by law.
 
-- There may be no military bases or army units of Russia, or the Commonwealth of Independent States or its constituent states, on the territory of the Republic of Lithuania.
+3. There may be no military bases or army units of Russia, or the Commonwealth of Independent States or its constituent states, on the territory of the Republic of Lithuania.
 
 CHAIRMAN OF THE SUPREME COUNCIL OF THE REPUBLIC OF LITHUANIA VYTAUTAS LANDSBERGIS
 
@@ -1764,7 +1772,7 @@ Upon the entry into force of the Constitution of the Republic of Lithuania, the 
 
 #### Article 2
 
-Laws, as well as other legal acts or parts thereof, that were in force on the territory of the Republic of Lithuania  prior  to  the  adoption  of  the  Constitution  of  the  Republic  of  Lithuania  shall  be  effective inasmuch as they are not in conict with the Constitution and this Law, and shall remain in force until they are either declared null and void or brought in line with the provisions of the Constitution.
+Laws, as well as other legal acts or parts thereof, that were in force on the territory of the Republic of Lithuania prior to the adoption of the Constitution of the Republic of Lithuania shall be effective inasmuch as they are not in conflict with the Constitution and this Law, and shall remain in force until they are either declared null and void or brought in line with the provisions of the Constitution.
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -1784,19 +1792,19 @@ The  provisions  of  the  laws  of  the  Republic  of  Lithuania  that  regulate
 
 #### Article 4
 
-The powers of the Supreme Council of the Republic of Lithuania and its deputies shall cease from the moment when the elected Seimas of the Republic of Lithuania convenes for its rst sitting.
+The powers of the Supreme Council of the Republic of Lithuania and its deputies shall cease from the moment when the elected Seimas of the Republic of Lithuania convenes for its first sitting.
 
-The  Members  of  the  Seimas  of  the  Republic  of  Lithuania  shall  convene  for  the  sitting  on  the  third working  day  after  the  ofcial  announcement  by  the  Central  Electoral  Commission,  following  both election rounds, that not less than 3/5 of all the Members of the Seimas have been elected.
+The Members of the Seimas of the Republic of Lithuania shall convene for the sitting on the third working day after the official announcement by the Central Electoral Commission, following both election rounds, that not less than 3/5 of all the Members of the Seimas have been elected.
 
 #### Article 5
 
 The  following  text  of  the  oath  for  a  Member  of  the  Seimas  of  the  Republic  of  Lithuania  shall  be established:
 
-'I (full name),
+“I (full name),
 
 swear to be faithful to the Republic of Lithuania;
 
-swear to respect and uphold its Constitution and laws and to protect the integrity of its lands; swear to strengthen, to the best of my ability, the independence of Lithuania, and to conscientiously serve my Homeland, democracy, and the welfare of the people of Lithuania. So help me God.'
+swear to respect and uphold its Constitution and laws and to protect the integrity of its lands; swear to strengthen, to the best of my ability, the independence of Lithuania, and to conscientiously serve my Homeland, democracy, and the welfare of the people of Lithuania. So help me God.”
 
 The oath may also be taken by omitting the last sentence.
 
@@ -1810,11 +1818,11 @@ When necessary, the Seimas may, by a majority vote of more than half of all the 
 
 The  justices  of  the  Constitutional  Court  of  the  Republic  of  Lithuania  and,  from  among  them,  the President of the Constitutional Court must be appointed not later than one month after the election of the President of the Republic.
 
-When the justices of the Constitutional Court are appointed for the rst time, three of them shall be appointed for a three-, three for a six-, and three for a nine-year term.
+When the justices of the Constitutional Court are appointed for the first time, three of them shall be appointed for a three-, three for a six-, and three for a nine-year term.
 
 The President of the Republic, the Speaker of the Seimas, and the President of the Supreme Court, when proposing candidates to be appointed as justices of the Constitutional Court, shall indicate who of them should be appointed for a three-, who for a six-, and who for a nine-year term.
 
-The justices of the Constitutional Court who will be appointed for three- or six-year terms may hold the same ofce for one more term of ofce after an interval of not less than three years.
+The justices of the Constitutional Court who will be appointed for three- or six-year terms may hold the same office for one more term of office after an interval of not less than three years.
 
 #### Article 8
 
@@ -1842,21 +1850,21 @@ The Seimas of the Republic of Lithuania,
 
 executing  the  will  of  the  citizens  of  the  Republic  of  Lithuania,  as  expressed  in  the  referendum  on membership of the Republic of Lithuania in the European Union, held on 10-11 May 2003,
 
-expressing its conviction that the European Union respects human rights and fundamental freedoms and that Lithuanian membership in the European Union will contribute to the more efcient securing of human rights and freedoms,
+expressing its conviction that the European Union respects human rights and fundamental freedoms and that Lithuanian membership in the European Union will contribute to the more efficient securing of human rights and freedoms,
 
 noting  that  the  European  Union  respects  the  national  identity  and  constitutional  traditions  of  its Member States,
 
-seeking  to  ensure  the  fully  edged  participation  of  the  Republic  of  Lithuania  in  the  European integration, as well as the security of the Republic of Lithuania and welfare of its citizens,
+seeking to ensure the fully fledged participation of the Republic of Lithuania in the European integration, as well as the security of the Republic of Lithuania and welfare of its citizens,
 
-having ratied, on 16 September 2003, the Treaty Between the Kingdom of Belgium, the Kingdom of Denmark, the Federal Republic of Germany, the Hellenic Republic, the Kingdom of Spain, the French Republic,  Ireland,  the  Italian  Republic,  the  Grand  Duchy  of  Luxembourg,  the  Kingdom  of  the Netherlands, the Republic of Austria, the Portuguese Republic, the Republic of Finland, the Kingdom of Sweden, the United Kingdom of Great Britain and Northern Ireland (Member States of the European Union) and the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic  of  Slovenia,  the  Slovak  Republic  Concerning  the  Accession  of  the  Czech  Republic,  the Republic  of  Estonia,  the  Republic  of  Cyprus,  the  Republic  of  Latvia,  the  Republic  of  Lithuania,  the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia, the Slovak Republic to the European Union, signed on 16 April 2003 in Athens,
+having ratified, on 16 September 2003, the Treaty Between the Kingdom of Belgium, the Kingdom of Denmark, the Federal Republic of Germany, the Hellenic Republic, the Kingdom of Spain, the French Republic, Ireland, the Italian Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, the Republic of Austria, the Portuguese Republic, the Republic of Finland, the Kingdom of Sweden, the United Kingdom of Great Britain and Northern Ireland (Member States of the European Union) and the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia, the Slovak Republic Concerning the Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia, the Slovak Republic to the European Union, signed on 16 April 2003 in Athens,
 
 adopts and proclaims this Constitutional Act:
 
-- The Republic of Lithuania as a Member State of the European Union shall share with or confer on the European Union the competences of its state  institutions  in  the  areas  provided  for  in  the  founding Treaties of the European Union and to the extent it would, together with the other Member States of the European  Union,  jointly  meet  its  membership  commitments  in  those  areas,  as  well  as  enjoy membership rights.
+1. The Republic of Lithuania as a Member State of the European Union shall share with or confer on the European Union the competences of its state institutions in the areas provided for in the founding Treaties of the European Union and to the extent it would, together with the other Member States of the European Union, jointly meet its membership commitments in those areas, as well as enjoy membership rights.
 
-- The norms of European Union law shall be a constituent part of the legal system of the Republic of Lithuania.  Where  it  concerns  the  founding  Treaties  of  the  European  Union,  the  norms  of  European Union law shall be applied directly, while in the event of the collision of legal norms, they shall have supremacy over the laws and other legal acts of the Republic of Lithuania.
+2. The norms of European Union law shall be a constituent part of the legal system of the Republic of Lithuania. Where it concerns the founding Treaties of the European Union, the norms of European Union law shall be applied directly, while in the event of the collision of legal norms, they shall have supremacy over the laws and other legal acts of the Republic of Lithuania.
 
-- The Government shall inform the Seimas about the proposals to adopt the acts of European Union law. As regards the proposals to adopt the acts of European Union law regulating the areas that, under the  Constitution  of  the  Republic  of  Lithuania,  are  related  to  the  competences  of  the  Seimas,  the Government shall consult the Seimas. The Seimas may recommend to the Government a position of the
+3. The Government shall inform the Seimas about the proposals to adopt the acts of European Union law. As regards the proposals to adopt the acts of European Union law regulating the areas that, under the Constitution of the Republic of Lithuania, are related to the competences of the Seimas, the Government shall consult the Seimas. The Seimas may recommend to the Government a position of the
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
@@ -1874,9 +1882,9 @@ Republic of Lithuania in respect of these proposals. The Seimas Committee on Eur
 
 4. The Government shall consider the proposals to adopt the acts of European Union law following the procedure established by legal acts. As regards these proposals, the Government may adopt decisions or  resolutions  for  the  adoption  of  which  the  provisions  of  Article  95  of  the  Constitution  are  not applicable.
 
-The Law Supplementing the Constitution of the Republic of Lithuania with the Constitutional Act 'On Membership of the Republic of Lithuania in the European Union' and Supplementing Article 150 of the Constitution of the Republic of Lithuania (No. IX-2343) of 13 July 2004,
+The Law Supplementing the Constitution of the Republic of Lithuania with the Constitutional Act “On Membership of the Republic of Lithuania in the European Union” and Supplementing Article 150 of the Constitution of the Republic of Lithuania (No. IX-2343) of 13 July 2004,
 
-Valstybės žinios (Ofcial Gazette), 2004, No. 111-4123
+Valstybės žinios (Official Gazette), 2004, No. 111-4123
 
 www.lrkt.lt/en/about-the-court/legal-information/the-constitution/192
 
