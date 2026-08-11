@@ -1,10 +1,16 @@
 [[START OF PAGE 1]]
 
+# Basic Education Act 628/1998
+
+Amendments up to 1136/2010
+
+## Chapter 1 Application and objectives
+
 ### Section 1 Application
 
 - This Act provides for basic education and compulsory schooling.
 
-- In addition, the Act provides for pre-primary education, which is primarily given during the year preceding compulsory schooling, for voluntary additional basic education for those who have completed the basic education syllabus, for instruction preparing immigrants for basic education, and for before- and after-school activities. If preprimary education referred to in this Act is provided in a day-care centre referred to in Section 1(2) or (3) of the Act on Children's Day-care (36/1973), pre-primary education shall further come under the provisions of the Act on Children's Day-care or the Decree enacted pursuant to it. (Amendment 1136/2004)
+- In addition, the Act provides for pre-primary education, which is primarily given during the year preceding compulsory schooling, for voluntary additional basic education for those who have completed the basic education syllabus, for instruction preparing immigrants for basic education, and for before- and after-school activities. If pre-primary education referred to in this Act is provided in a day-care centre referred to in Section 1(2) or (3) of the Act on Children's Day-care (36/1973), pre-primary education shall further come under the provisions of the Act on Children's Day-care or the Decree enacted pursuant to it. (Amendment 1136/2004)
 
 - Basic education provided for persons other than those of compulsory school age comes under Section 46.
 
@@ -20,12 +26,6 @@
 
 ### Section 3 The foundation for education
 
-# Basic Education Act 628/1998
-
-Amendments up to 1136/2010
-
-## Chapter 1 Application and objectives
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -39,6 +39,8 @@ Amendments up to 1136/2010
 - Those providing education shall cooperate with pupils' parents/carers.
 
 4.
+
+## Chapter 2 Local authority as education provider
 
 ### Section 4 Statutory duty to arrange basic education and pre-primary education
 
@@ -58,8 +60,6 @@ Amendments up to 1136/2010
 
 - A local authority may provide instruction preparing for basic education, voluntary additional basic education and activities within flexible basic education in conjunction with year-classes 7-9. The local authority may decide to provide basic education to persons other than those in compulsory schooling age.
 
-## Chapter 2 Local authority as education provider
-
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -70,7 +70,7 @@ Amendments up to 1136/2010
 
 ### Section 6 The determination of a pupil's school
 
-- Education shall be arranged in municipalities so as to make pupils' travel to and from school as safe and short as possible in view of the habitation, the location of schools and other places of education, and public transportation. In the arrangement of preprimary education, account shall additionally be taken of the participating children's access to day-care services. (Amendment 1288/1999)
+- Education shall be arranged in municipalities so as to make pupils' travel to and from school as safe and short as possible in view of the habitation, the location of schools and other places of education, and public transportation. In the arrangement of pre-primary education, account shall additionally be taken of the participating children's access to day-care services. (Amendment 1288/1999)
 
 - The local authority shall assign to a child of compulsory school age and others receiving education under this Act a neighbourhood school or some other appropriate place where education is given under Section 4(1) and (2) in his or her native language in which the local authority is obliged to provide education. A pupil participating in pre-primary education may also be assigned a day-care facility which fulfils comparable criteria or some other appropriate facility as a place of education. For a well-founded reason relating to educational arrangements, the local authority may change the place of education without changing the language of instruction. (Amendment 1288/1999)
 
@@ -94,7 +94,7 @@ Amendments up to 1136/2010
 
 - The government may revoke an authorisation to provide education if the education provision does not fulfil the conditions for authorisation laid down in subsection 1 or 2 or if the education is otherwise provided contrary to this Act or statutes or regulations issued by virtue thereof.
 
-- An education provider authorised to provide pre-primary education may purchase preprimary education services from a public or private service provider. The education provider shall be responsible for ensuring that the services purchased by it are arranged in compliance with this Act. (Amendment 1288/1999)
+- An education provider authorised to provide pre-primary education may purchase pre-primary education services from a public or private service provider. The education provider shall be responsible for ensuring that the services purchased by it are arranged in compliance with this Act. (Amendment 1288/1999)
 
 ### Section 8 Government as education provider
 
@@ -106,7 +106,7 @@ Amendments up to 1136/2010
 
 - The extent of the basic education syllabus shall be nine years.
 
-- Pre-primary education and voluntary additional basic education shall be one year in duration. The duration of pre-primary education in special-needs education given to pupils within prolonged compulsory schooling under Section 25(2) and in foreignlanguage education authorised by the competent Ministry under Section 10(4) shall be two years.
+- Pre-primary education and voluntary additional basic education shall be one year in duration. The duration of pre-primary education in special-needs education given to pupils within prolonged compulsory schooling under Section 25(2) and in foreign-language education authorised by the competent Ministry under Section 10(4) shall be two years.
 
 - The extent of instruction preparing immigrants for basic education shall correspond to a one-year syllabus. (Amendment 1037/2008)
 
@@ -188,7 +188,7 @@ Education in cooperation with the National Research and Development Centre for W
 
 - The education provider shall adopt a curriculum for education referred to in this Act. The curriculum shall be adopted separately for education given in the Finnish, Swedish and Saami languages and in other languages, where needed.
 
-- The curriculum shall be drawn up, to the extent provided in Section 14(3) concerning the core curriculum, in cooperation with the local executory social and health authorities. The education provider shall also determine the organisation of homeschool cooperation and of pupil welfare laid down in the core curriculum. (Amendment 477/2003)
+- The curriculum shall be drawn up, to the extent provided in Section 14(3) concerning the core curriculum, in cooperation with the local executory social and health authorities. The education provider shall also determine the organisation of home-school cooperation and of pupil welfare laid down in the core curriculum. (Amendment 477/2003)
 
 - When authorised by the competent Ministry, a common curriculum may be adopted for basic education and upper secondary education or a basic education curriculum may contain vocational studies.
 
@@ -206,7 +206,7 @@ Education in cooperation with the National Research and Development Centre for W
 
 - A pupil who needs regular support in learning or schoolgoing shall be provided enhanced support in accordance with a learning plan devised for him or her. The learning plan must be prepared, unless there is an apparent reason not to do so, in collaboration with the pupil, the parent, carer or, where necessary, some other legal representative of the pupil. The enhanced support shall comprise forms of pupil support, especially those referred to in Sections 16, 31 and 31a, and the required pedagogical arrangements. The salient content of the enhanced support and the learning plan shall be laid down in the core curriculum.
 
-- The commencement and provision of enhanced support shall be determined multiprofessionally based on a pedagogical assessment in pupil welfare work referred to in Section 31a (1) and (2). The support to be provided for the pupil shall be recorded in the learning plan. The enhanced support shall be provided qualitatively and quantitatively in a manner appropriate for the pupil's level of development and individual needs.
+- The commencement and provision of enhanced support shall be determined multi-professionally based on a pedagogical assessment in pupil welfare work referred to in Section 31a (1) and (2). The support to be provided for the pupil shall be recorded in the learning plan. The enhanced support shall be provided qualitatively and quantitatively in a manner appropriate for the pupil's level of development and individual needs.
 
 [[END OF PAGE 7]]
 
@@ -222,7 +222,7 @@ Education in cooperation with the National Research and Development Centre for W
 
 - The education provider shall make a written decision for the provision of special-needs support, which is reviewed at least after the second year-class and before transfer to the seventh year-class. The decision on special-needs support shall determine the pupil's primary teaching group, possible interpretation and assistant services and other services referred to in Section 31 and, where needed, exceptional teaching arrangements referred to in subsection 1 above.
 
-- Before the decision on the special-needs support is made, the education provider shall hear the pupil and his or her parent, carer or legal representative in accordance with the provisions of Section 34 of the Administrative Procedure Act (434/2003) and obtain a report on the pupil's progress in learning and an account of the enhanced support given to the pupil and the pupil's overall situation which has been prepared in multiprofessional pupil welfare cooperation and, based on these, undertake an assessment on the need for special-needs support (pedagogical examination). The pedagogical examination shall be supplemented by a psychological or medical opinion or a corresponding social assessment.
+- Before the decision on the special-needs support is made, the education provider shall hear the pupil and his or her parent, carer or legal representative in accordance with the provisions of Section 34 of the Administrative Procedure Act (434/2003) and obtain a report on the pupil's progress in learning and an account of the enhanced support given to the pupil and the pupil's overall situation which has been prepared in multi-professional pupil welfare cooperation and, based on these, undertake an assessment on the need for special-needs support (pedagogical examination). The pedagogical examination shall be supplemented by a psychological or medical opinion or a corresponding social assessment.
 
 - The decision on special-needs support may be made before the start of pre-primary or basic education or during pre-primary or basic education without a prior pedagogical examination and enhanced support if it is evident based on a psychological or medical examination that the pupil cannot be taught otherwise owing to a disability, illness, delayed development or emotional dysfunction or some other corresponding reason. In a case referred to above, the decision on special-needs support shall be reviewed in accordance with the provisions of subsection 2.
 
@@ -248,9 +248,11 @@ there is a manifest excuse not to do so, in collaboration with the pupil, the pa
 
 - A pupil's education may to a certain degree be arranged otherwise than provided in this Act if:
 
-- the pupil is considered to have some degree of prior knowledge and skills corresponding to the basic education syllabus;
+- (1) the pupil is considered to have some degree of prior knowledge and skills corresponding to the basic education syllabus;
 
-- the completion of the basic education syllabus would in some respect be unreasonable for the pupil in view of the circumstances and prior learning; or (3) it is justified for reasons relating to the pupil's health.
+- (2) the completion of the basic education syllabus would in some respect be unreasonable for the pupil in view of the circumstances and prior learning; or
+
+- (3) it is justified for reasons relating to the pupil's health.
 
 - If the pupil's parent/carer has not proposed learning arrangements in a manner referred to in subsection 1 or in provisions enacted by virtue thereof, the parent/carer shall be given an opportunity to be heard before the decision is made. In education other than that arranged for pupils of compulsory school age, the student shall correspondingly be given an opportunity to be heard. (Amendment 477/2003)
 
@@ -264,11 +266,11 @@ there is a manifest excuse not to do so, in collaboration with the pupil, the pa
 
 - Pilots undertaken to develop education or teaching may deviate from the allocation of lesson hours and the core curriculum referred to in Section 14 and from regulations concerning:
 
-- the annual and weekly number of lessons given to pupils and the daily work load of the pupil;
+- (1) the annual and weekly number of lessons given to pupils and the daily work load of the pupil;
 
-- the point in time when a pupil begins school; and
+- (2) the point in time when a pupil begins school; and
 
-- transferral from one year-class to another.
+- (3) transferral from one year-class to another.
 
 - Pilots shall be authorised by the Ministry of Education. If the pilot does not deviate from the provisions of subsection 1(1-3) or from the distribution of lesson hours, the authorisation shall be granted by the National Board of Education.
 
@@ -358,7 +360,7 @@ there is a manifest excuse not to do so, in collaboration with the pupil, the pa
 
 - A child shall be entitled to pre-primary education during the year preceding the beginning of compulsory schooling. A child within prolonged compulsory schooling referred to in Section 25(2) above and a child who under Section 27 begins basic education a year later than enacted, shall be entitled to pre-primary education during the first year of statutory compulsory schooling.
 
-- Participation in pre-primary education, with the exception referred to in Section 26(1), shall be decided by the pupil's parent/carer. Provisions concerning enrolment in preprimary education shall be enacted by decree, where necessary.
+- Participation in pre-primary education, with the exception referred to in Section 26(1), shall be decided by the pupil's parent/carer. Provisions concerning enrolment in pre-primary education shall be enacted by decree, where necessary.
 
 - Provisions concerning the formation of teaching groups in pre-primary education shall be enacted by decree, where necessary.
 
@@ -446,7 +448,7 @@ there is a manifest excuse not to do so, in collaboration with the pupil, the pa
 
 ### Section 33 Accommodation
 
-- If the school travel of a pupil in basic education, in additional education or in preprimary education for those within prolonged compulsory schooling under Section 25(2) cannot be arranged in a manner referred to in Section 32(2), the pupil shall be entitled to free accommodation and board. (Amendment 1288/1999)
+- If the school travel of a pupil in basic education, in additional education or in pre-primary education for those within prolonged compulsory schooling under Section 25(2) cannot be arranged in a manner referred to in Section 32(2), the pupil shall be entitled to free accommodation and board. (Amendment 1288/1999)
 
 - During the school year, the pupil shall be entitled to free travel between the place of accommodation and his or her home during holidays and weekends.
 
@@ -470,7 +472,7 @@ there is a manifest excuse not to do so, in collaboration with the pupil, the pa
 
 (Amendment 508/2003)
 
-- Collaboration in rehabilitation shall come under the provisions of the Act on Cooperation in Respect of Rehabilitation Service (497/2003).
+- Collaboration in rehabilitation shall come under the provisions of the Act on Co-operation in Respect of Rehabilitation Service (497/2003).
 
 ### Section 35 The pupil's duties
 
@@ -512,7 +514,7 @@ there is a manifest excuse not to do so, in collaboration with the pupil, the pa
 
 - The decision concerning the enforcement of a pending decision on suspension and the date on which its enforcement is instigated shall be made simultaneously with the decision on suspension.
 
-- Further provisions concerning the headteacher's and the teacher's authority and the matter referred to in Section 36(2-4) shall be enacted by Government Decree.
+- Further provisions concerning the headteacher's and the teacher's authority and the matter referred to in Section 36(2–4) shall be enacted by Government Decree.
 
 ### Section 36b Removal of a disruptive and potentially dangerous pupil
 
@@ -603,15 +605,15 @@ there is a manifest excuse not to do so, in collaboration with the pupil, the pa
 
 - Notwithstanding subsection 1, an appeal against a decision shall be lodged with the Regional State Administrative Agency in accordance with the provisions of the Administrative Judicial Procedure Act, if the decisions concerns:
 
-- admission to a school;
+- (1) admission to a school;
 
-- the provision of special-needs support referred to in Section 17 (Amendment 642/2010);
+- (2) the provision of special-needs support referred to in Section 17 (Amendment 642/2010);
 
-- special teaching arrangements referred to in Section 18; and
+- (3) special teaching arrangements referred to in Section 18; and
 
-- an exemption from the school starting age referred to in Section 27.
+- (4) an exemption from the school starting age referred to in Section 27.
 
-- An appeal against a decision made by the Regional State Administrative Agency concerning an appeal against a matter referred to in subsection 2 (1-3) shall be lodged with an administrative court in accordance with the provisions of the Administrative Judicial Procedure Act. A decision of the Regional State Administrative Agency concerning an appeal referred to in subsection 2 (4) may not be appealed against.
+- An appeal against a decision made by the Regional State Administrative Agency concerning an appeal against a matter referred to in subsection 2 (1–3) shall be lodged with an administrative court in accordance with the provisions of the Administrative Judicial Procedure Act. A decision of the Regional State Administrative Agency concerning an appeal referred to in subsection 2 (4) may not be appealed against.
 
 - An appeal against a decision referred to in subsection 2 or 3 or a decision to issue a written warning to a pupil or to suspend a pupil shall be lodged within 14 days of the date on which the pupil's parent/carer was notified of the decision. Matters referred to in this subsection shall be processed as urgent.
 
@@ -625,7 +627,7 @@ there is a manifest excuse not to do so, in collaboration with the pupil, the pa
 
 (Amendment 1707/2009)
 
-- Financing towards pre-primary and basic education referred to in this Act shall be granted in accordance with the provisions of the Act on government transfers for local basic services (1704/2009). Other financing towards the operational costs of preprimary and basic education shall be granted in accordance with the provisions of the
+- Financing towards pre-primary and basic education referred to in this Act shall be granted in accordance with the provisions of the Act on government transfers for local basic services (1704/2009). Other financing towards the operational costs of pre-primary and basic education shall be granted in accordance with the provisions of the
 
 [[END OF PAGE 20]]
 
@@ -651,7 +653,7 @@ Act on the Financing of Education and Culture (1705/2009). Financing for before-
 
 ### Section 46 Education for persons other than pupils of compulsory school age
 
-- Basic education provided to persons other than pupils of compulsory school age come under the provisions of Section 2, Section 3(1) and (2), Section 9(1), Sections 10-15, 18-22 and 29, Section 30(1), and Sections 35, 37, 38 and 40-44. Teaching, textbooks and other learning material, school equipment and work materials shall be free of charge for the pupil. In education arranged in the form of a boarding school in accordance with a decision of a local authority or a municipal consortium or with a stipulation of an authorisation referred to in Section 7, the pupil shall be entitled to accommodation and sufficient daily meals free of charge. In full-time studies, the student shall be entitled to a free meal on school days on which the student is required to be present according to the curriculum at a place designated by the education provider. On grounds referred to in Section 36(1), a student may be issued a written warning or be suspended for a maximum of one year.
+- Basic education provided to persons other than pupils of compulsory school age come under the provisions of Section 2, Section 3(1) and (2), Section 9(1), Sections 10–15, 18–22 and 29, Section 30(1), and Sections 35, 37, 38 and 40–44. Teaching, textbooks and other learning material, school equipment and work materials shall be free of charge for the pupil. In education arranged in the form of a boarding school in accordance with a decision of a local authority or a municipal consortium or with a stipulation of an authorisation referred to in Section 7, the pupil shall be entitled to accommodation and sufficient daily meals free of charge. In full-time studies, the student shall be entitled to a free meal on school days on which the student is required to be present according to the curriculum at a place designated by the education provider. On grounds referred to in Section 36(1), a student may be issued a written warning or be suspended for a maximum of one year.
 
 [[END OF PAGE 21]]
 
@@ -701,7 +703,7 @@ Act on the Financing of Education and Culture (1705/2009). Financing for before-
 
 ### Section 48b Provision and extent
 
-- The local authority may provide and purchase before- and after-school activities referred to in this Act. Where a local authority provides or purchases before- and afterschool activities referred to in this Act, they shall be available to first- and second-year pupils of the schools operating in the municipality and, as regards other year-classes, to pupils referred to in Section 17(1) in the extent determined by the local authority. (Amendment 642/2010)
+- The local authority may provide and purchase before- and after-school activities referred to in this Act. Where a local authority provides or purchases before- and after-school activities referred to in this Act, they shall be available to first- and second-year pupils of the schools operating in the municipality and, as regards other year-classes, to pupils referred to in Section 17(1) in the extent determined by the local authority. (Amendment 642/2010)
 
 - The application for before- and after-school activities shall be made as determined by the local authority. The local authority shall provide information about the venues of before- and after-school activities, their starting and ending times and the procedure for applying for before- and after-school activities. In admission to before- and after-school activities, the selection criteria shall be applied equally to all children.
 
