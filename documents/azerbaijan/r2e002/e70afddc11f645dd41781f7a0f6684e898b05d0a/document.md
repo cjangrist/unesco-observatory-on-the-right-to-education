@@ -1714,7 +1714,7 @@ Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə
 [68]
 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.13-cü maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
-19.13. Ümumi orta təhsilin məqsədi təhsilalanların şifahi nitq və yazı mədəniyyətinin, ünsiyyət bacarığının, idrak fəallığının və məntiqi təfəkkürünün inkişafını, təhsil proqramına daxil olan fənlər üzrə və eləcə də dünya sivilizasiyasının inkişafı haqqında müvafiq bilik və təsəvvürlərinin formalaşdılmasını, müasir informasiya-kommunikasiya vasitələrindən istifadə etmək qabiliyyətini, hadisələri qiymətləndirmək və öz gələcək fəaliyyət istiqamətlərini müəyyənləşdirmək bacarığını təmin etməkdən ibarətdir.
+19.13. Ümumi orta təhsilin məqsədi təhsilalanların şifahi nitq və yazı mədəniyyətinin, ünsiyyət bacarığının, idrak fəallığının və məntiqi təfəkkürünün inkişafını, təhsil proqramına daxil olan fənlər üzrə və eləcə də dünya sivilizasiyasının inkişafı haqqında müvafiq bilik və təsəvvürlərinin formalaşdırılmasını, müasir informasiya-kommunikasiya vasitələrindən istifadə etmək qabiliyyətini, hadisələri qiymətləndirmək və öz gələcək fəaliyyət istiqamətlərini müəyyənləşdirmək bacarığını təmin etməkdən ibarətdir.
 
 [69]
 12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 19.14-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
