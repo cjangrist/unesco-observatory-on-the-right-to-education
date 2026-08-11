@@ -4,6 +4,8 @@ UNHCR | Refworld | Refugee Act
 
 http://www.unhcr.org/refworld/country,LEGAL,,LEGISLATION,MWI,,3a...
 
+# Refugee Act
+
 Date of entry into force: 0 8 May 1989
 
 ## 1. Short Title
@@ -48,8 +50,6 @@ This Act may be cited as Refugee Act.
 
 (b)the Attorney-General or his designated representative;
 
-# Refugee Act
-
 1 of 5
 
 05/05/2011 10:46
@@ -61,8 +61,6 @@ This Act may be cited as Refugee Act.
 UNHCR | Refworld | Refugee Act
 
 http://www.unhcr.org/refworld/country,LEGAL,,LEGISLATION,MWI,,3a...
-
-(b)the Attorney-General or his designated representative;
 
 (c)the Chief Immigration Officer of his designated representative;
 
@@ -166,8 +164,6 @@ UNHCR | Refworld | Refugee Act
 
 http://www.unhcr.org/refworld/country,LEGAL,,LEGISLATION,MWI,,3a...
 
-## 11. Appeals to the Minister
-
 (1)Any person who is dissatisfied with a decision of the Committee in regard to -
 
 (a)his application for refugee status; and
@@ -209,8 +205,6 @@ The Minister may make regulations for carrying out or giving effect to the provi
 (b)make provision for -
 
 (i)procedure to be followed by competent officers for the purpose of facilitating the entry of
-
-refugees and their family members;
 
 4 of 5
 
