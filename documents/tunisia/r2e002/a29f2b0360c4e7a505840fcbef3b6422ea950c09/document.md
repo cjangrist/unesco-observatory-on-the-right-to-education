@@ -1,12 +1,20 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+République Tunisienne
+Assemblée Nationale Constituante
+
+# CONSTITUTION DE LA REPUBLIQUE TUNISIENNE
+
+Présenté pour adoption en séance plénière
+de l’Assemblée Nationale Constituante le 26 Janvier 2014
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-(this page came through the extractor with no text)
+# constitution DE LA REPUBLIQUE TUNISIENNE
+
+Présenté pour adoption en séance plénière de l'Assemblée Nationale Constituante le 26 Janvier 2014
 
 [[END OF PAGE 2]]
 
@@ -34,11 +42,43 @@ Ce document est une traduction non officielle du texte de la Constitution prése
 
 Cette traduction est fournie par le Projet du PNUD de soutien au processus constitutionnel, à l'Assemblée et au dialogue national en Tunisie
 
+RÉALISÉ AVEC L’APPUI DE
+
+تم تنفيذ هذا النشاط بدعم من
+
+PNUD
+Au service des peuples et des nations
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 ## TABLE DES MATIERES
+
+Préambule...................................................................................... 6
+Chapitre I : Les Principes Généraux ............................................... 8
+Chapitre II : Les Droits et les Libertés........................................... 12
+Chapitre III : Le Pouvoir Législatif ................................................ 18
+Chapitre IV : Le Pouvoir Exécutif.................................................. 26
+Titre I : Le Président de la République..................................... 26
+Titre II : Le Gouvernement ...................................................... 33
+Chapitre V : Le Pouvoir Judiciaire................................................. 40
+Titre I : La Justice judiciaire, administrative et financière ......... 41
+Section I : Le Conseil supérieur de la magistrature............... 42
+Section II : La Justice judiciaire............................................ 43
+Section III : La Justice administrative.................................... 44
+Section IV : La Justice financière.......................................... 44
+Titre II : La Cour constitutionnelle ........................................... 45
+Chapitre VI – Les Instances Constitutionnelles.............................. 48
+Titre I. L’Instance des élections................................................ 48
+Titre II. L’Instance de la communication audiovisuelle ............ 49
+Titre III. L’Instance des droits de l’Homme............................... 49
+Titre IV. L’Instance du développement durable et des droits des générations futures.................................................................. 50
+Titre V. L’instance de la bonne gouvernance et de la lutte contre la corruption............................................ 50
+Chapitre VII - Le Pouvoir Local..................................................... 51
+Chapitre VIII - La Révision de la Constitution............................... 54
+Chapitre IX - Disposition Finales.................................................. 55
+Chapitre X - Dispositions Transitoires ........................................... 56
 
 5
 
@@ -620,7 +660,7 @@ Les traités n'entrent en vigueur qu'après leur ratification.
 
 ##### Article 68
 
-Aucune  poursuite  judiciaire  civile  ou  pénale  ne  peut  être  engagée contre un membre de l'Assemblée des Représentants du Peuple, celuici ne peut être arrêté ou jugé, en raison d'opinions ou de propositions formulées ou d'actes effectués dans l'exercice de ses fonctions .
+Aucune  poursuite  judiciaire  civile  ou  pénale  ne  peut  être  engagée contre un membre de l'Assemblée des Représentants du Peuple, celui-ci ne peut être arrêté ou jugé, en raison d'opinions ou de propositions formulées ou d'actes effectués dans l'exercice de ses fonctions .
 
 ##### Article 69
 
@@ -714,7 +754,7 @@ Il a pour attributions :
 
 - La dissolution de l'Assemblée des Représentants du Peuple conformément aux cas énoncés par la Constitution ; l'Assemblée ne peut être dissoute au cours des six mois suivant l'obtention de la  confiance  de  l'Assemblée  par  le  premier  gouvernement  après les élections législatives, ou durant les six derniers mois du mandat présidentiel ou de la législature ;
 
-- La présidence du Conseil de Sécurité Nationale auquel il convoque le  Chef  du  Gouvernement  et  le  Président  au  de  l'Assemblée  des Représentants du Peuple ;
+- La présidence du Conseil de Sécurité Nationale auquel il convoque le  Chef  du  Gouvernement  et  le  Président  de  l'Assemblée  des Représentants du Peuple ;
 
 - Le haut commandement des forces armées ;
 
@@ -770,15 +810,15 @@ Ces mesures cessent d'avoir effet dès lors que les circonstances qui les ont en
 
 Le  Président  de  la  République  promulgue  les  lois  et  assure  leur publication au Journal officiel de la République Tunisienne dans un délai ne dépassant pas quatre jours à compter de :
 
-- L 'expiration  des  délais  de  recours  pour  inconstitutionnalité  ou  de renvoi ;
+1.L'expiration  des  délais  de  recours  pour  inconstitutionnalité  ou  de renvoi ;
 
-- L 'expiration des délais de renvoi après une décision de constitutionnalité    ou  après  la  transmission  impérative  du  projet de  loi  au  Président  de  la  République  selon  les  dispositions  du paragraphe 3 de l'article 121 ;
+2.L'expiration des délais de renvoi après une décision de constitutionnalité    ou  après  la  transmission  impérative  du  projet de  loi  au  Président  de  la  République  selon  les  dispositions  du paragraphe 3 de l'article 121 ;
 
-- L 'expiration  du  délai  de  recours  pour  inconstitutionnalité  contre un projet renvoyé par le Président de la République et adopté par l'Assemblée après son amendement ;
+3.L'expiration  du  délai  de  recours  pour  inconstitutionnalité  contre un projet renvoyé par le Président de la République et adopté par l'Assemblée après son amendement ;
 
-- La deuxième adoption sans amendement d'un projet de loi renvoyé, qui n'a pas fait l'objet de recours pour inconstitutionnalité après sa première adoption, ou après une décision de constitutionnalité, ou après ou sa transmission impérative au Président de la République selon les dispositions du paragraphe 3 de l'article 121;
+4.La deuxième adoption sans amendement d'un projet de loi renvoyé, qui n'a pas fait l'objet de recours pour inconstitutionnalité après sa première adoption, ou après une décision de constitutionnalité, ou après ou sa transmission impérative au Président de la République selon les dispositions du paragraphe 3 de l'article 121;
 
-- La décision de constitutionnalité, ou après la transmission impérative du projet de loi au Président de la République selon les dispositions du paragraphe 3 de l'article 121, si le projet était précédemment renvoyé par le Président de la République et amendé et adopté par l'Assemblée.
+5.La décision de constitutionnalité, ou après la transmission impérative du projet de loi au Président de la République selon les dispositions du paragraphe 3 de l'article 121, si le projet était précédemment renvoyé par le Président de la République et amendé et adopté par l'Assemblée.
 
 30
 
@@ -788,9 +828,9 @@ Le  Président  de  la  République  promulgue  les  lois  et  assure  leur publ
 
 A l'exception des initiatives de lois constitutionnelles, le Président de la République, peut, en motivant sa décision, renvoyer le projet pour une seconde lecture, dans un délai de 5 jours à compter de :
 
-- L 'expiration du délai de recours pour inconstitutionnalité, selon les dispositions du premier tiret de l'article 120 ;
+1.L'expiration du délai de recours pour inconstitutionnalité, selon les dispositions du premier tiret de l'article 120 ;
 
-- Une  décision  de  constitutionnalité  ou  le  désistement  de  la  Cour constitutionnelle, selon les dispositions du troisième paragraphe de l'article 121, en cas de recours selon les dispositions du premier tiret de l'article 120.
+2.Une  décision  de  constitutionnalité  ou  le  désistement  de  la  Cour constitutionnelle, selon les dispositions du troisième paragraphe de l'article 121, en cas de recours selon les dispositions du premier tiret de l'article 120.
 
 Les projets de lois ordinaires sont adoptés, après le renvoi, à la majorité absolue des membres de l'Assemblée ; les projets de lois organiques sont adoptés à la majorité des trois cinquième des membres.
 
@@ -958,7 +998,7 @@ Si la majorité absolue n'est pas obtenue, une motion de censure ne peut être p
 
 La  démission  du  Chef  du  Gouvernement  est  considérée  comme une  démission  de  l'ensemble  du  Gouvernement.  La  démission  est présentée par écrit au Président de la République qui en informe le Président de l'Assemblée des Représentants du Peuple.
 
-Le Chef du Gouvernement  peut  solliciter de l'Assemblée des Représentants du Peuple un vote de confiance relatif à la poursuite des activités du Gouvernement. Le vote de confiance se fait à la majorité absolue des membres de l'Assemblée des Représentants du Peuple. Si l'Assemblée ne renouvelle pas sa confiance au Gouvernement, celuici est réputé démissionnaire.
+Le Chef du Gouvernement  peut  solliciter de l'Assemblée des Représentants du Peuple un vote de confiance relatif à la poursuite des activités du Gouvernement. Le vote de confiance se fait à la majorité absolue des membres de l'Assemblée des Représentants du Peuple. Si l'Assemblée ne renouvelle pas sa confiance au Gouvernement, celui-ci est réputé démissionnaire.
 
 Dans  les  deux  cas,  le  Président  de  la  République  charge  la personnalité  la  plus  apte  de  former  un  gouvernement  selon  les exigences de l'article 89.
 
@@ -1444,7 +1484,7 @@ La Constitution entre en vigueur immédiatement après sa publication. Le Prési
 
 ##### Article 148
 
-- Les dispositions des articles 5, 6, 8, 15 et 16 de la loi relative à l'Organisation Provisoire des Pouvoirs Publics restent en vigueur jusqu'à l'élection de l'Assemblée des Représentants du Peuple.
+1. Les dispositions des articles 5, 6, 8, 15 et 16 de la loi relative à l'Organisation Provisoire des Pouvoirs Publics restent en vigueur jusqu'à l'élection de l'Assemblée des Représentants du Peuple.
 
 Les  dispositions  de  l'article  4  de  la  loi  relative  à  l'Organisation Provisoire des Pouvoirs Publics restent en vigueur jusqu'à l'élection de l'Assemblée des Représentants du Peuple. Cependant, à partir de l'entrée en vigueur de la Constitution, un projet de loi présenté par  les  députés  n'est  recevable  que  s'il  porte  sur  le  processus électoral,  sur  le  système  de  la  justice  transitionnelle  ou  sur  les instances  issues  des  lois  adoptées  par  l'Assemblée  nationale constituante.
 
@@ -1454,7 +1494,7 @@ Les articles 17 à 20 de la loi relative à l'Organisation Provisoire des Pouvoi
 
 L'Assemblée  nationale  constituante  poursuit  l'exercice  de  ses prérogatives législatives, électorales et de contrôle prévues par la loi  constituante  relative  à  l'Organisation  Provisoire  des  Pouvoirs Publics ou par les lois en vigueur jusqu'à l'élection de l'Assemblée des Représentants du Peuple.
 
-- les dispositions mentionnées ci-dessous entrent en vigueur comme suit :
+2. les dispositions mentionnées ci-dessous entrent en vigueur comme suit :
 
 - Les  dispositions  du  chapitre  III  relatif  au  Pouvoir  législatif, à l'exception des articles 53, 54 et 55, ainsi que le Titre II du
 
@@ -1476,11 +1516,11 @@ Chapitre IV relative au Gouvernement entrent en vigueur à partir de la date de 
 
 - Les dispositions du Chapitre VII relatif au Pouvoir local entrent en vigueur dès lors que les lois qui y sont mentionnées entrent en vigueur.
 
-- Les élections présidentielles et législatives sont organisées au plus tôt  quatre  mois  après  la  mise  en  place  de  l'Instance  supérieure indépendante des élections. Dans tous les cas, les élections sont organisées avant la fin de l'année 2014.
+3. Les élections présidentielles et législatives sont organisées au plus tôt  quatre  mois  après  la  mise  en  place  de  l'Instance  supérieure indépendante des élections. Dans tous les cas, les élections sont organisées avant la fin de l'année 2014.
 
-- Le  parrainage  se  fait  lors  de  la  première  élection  présidentielle directe  par  un  nombre  de  membres  de  l'Assemblée  nationale constituante correspondant au nombre déterminé pour les membres de l'Assemblée des Représentants du Peuple, ou par un nombre d'électeurs inscrit conformément aux dispositions de la loi électorale.
+4. Le  parrainage  se  fait  lors  de  la  première  élection  présidentielle directe  par  un  nombre  de  membres  de  l'Assemblée  nationale constituante correspondant au nombre déterminé pour les membres de l'Assemblée des Représentants du Peuple, ou par un nombre d'électeurs inscrit conformément aux dispositions de la loi électorale.
 
-- Le Conseil supérieur de la magistrature est mis en place dans un délai maximal de six mois à compter de la date de la première
+5. Le Conseil supérieur de la magistrature est mis en place dans un délai maximal de six mois à compter de la date de la première
 
 57
 
@@ -1488,11 +1528,11 @@ Chapitre IV relative au Gouvernement entrent en vigueur à partir de la date de 
 
 [[START OF PAGE 60]]
 
-- élection  législative.  La  Cour  constitutionnelle  est  mise  en  place dans un délai maximal d'une année à compter de cette élection.
+élection  législative.  La  Cour  constitutionnelle  est  mise  en  place dans un délai maximal d'une année à compter de cette élection.
 
-- Les deux premiers renouvellements partiels de la Cour constitutionnelle,  de  l'Instance  des  élections,  de  l'Instance  de la  communication  audio-visuelle  et  de  l'Instance  de  la  bonne gouvernance et des droits des générations futures sont effectués par tirage au sort parmi les membres de la première formation. Les présidents de ces Instances sont exemptés de ces tirages au sort.
+6. Les deux premiers renouvellements partiels de la Cour constitutionnelle,  de  l'Instance  des  élections,  de  l'Instance  de la  communication  audio-visuelle  et  de  l'Instance  de  la  bonne gouvernance et des droits des générations futures sont effectués par tirage au sort parmi les membres de la première formation. Les présidents de ces Instances sont exemptés de ces tirages au sort.
 
-- Au cours des trois premiers mois succédant à la promulgation de la  Constitution,  et  par  une  loi  organique,  l'Assemblée  nationale constituante créé une Instance provisoire chargée du contrôle de la constitutionnalité des projets des lois. Elle se compose de :
+7. Au cours des trois premiers mois succédant à la promulgation de la  Constitution,  et  par  une  loi  organique,  l'Assemblée  nationale constituante créé une Instance provisoire chargée du contrôle de la constitutionnalité des projets des lois. Elle se compose de :
 
 - le Premier président de la Cour de cassation qui la préside ;
 
@@ -1504,11 +1544,11 @@ Chapitre IV relative au Gouvernement entrent en vigueur à partir de la date de 
 
 Aucun tribunal n'est habilité à contrôler la constitutionnalité des lois. Les fonctions de cette Instance prennent fin après l'installation de la Cour constitutionnelle.
 
-- L'Instance provisoire chargée de la supervision de la justice judiciaire conserve  ses  fonctions  jusqu'à  la  finalisation  de  la  composition  du Conseil supérieur de la magistrature.
+8. L'Instance provisoire chargée de la supervision de la justice judiciaire conserve  ses  fonctions  jusqu'à  la  finalisation  de  la  composition  du Conseil supérieur de la magistrature.
 
 L'Instance indépendante de la communication audio-visuelle conserve ses  fonctions  jusqu'à  l'élection  de  l'Instance  de  la  communication audio-visuelle.
 
-- L'Etat s'engage à appliquer le système de la justice transitionnelle dans tous ses domaines et dans les délais prescrits par la législation qui  s'y  rapporte.  Sont  irrecevable  dans  ce  contexte  l'évocation de  la  non-rétroactivité  des  lois,  de  l'existence  d'une  amnistie antérieure, de l'autorité de la chose jugée, ou de la prescription du crime ou de la peine.
+9. L'Etat s'engage à appliquer le système de la justice transitionnelle dans tous ses domaines et dans les délais prescrits par la législation qui  s'y  rapporte.  Sont  irrecevable  dans  ce  contexte  l'évocation de  la  non-rétroactivité  des  lois,  de  l'existence  d'une  amnistie antérieure, de l'autorité de la chose jugée, ou de la prescription du crime ou de la peine.
 
 58
 
@@ -1535,6 +1575,13 @@ Et Dieu est le garant de la réussite.
 [[START OF PAGE 63]]
 
 Cette traduction est fournie par le Projet du PNUD de soutien au processus constitutionnel, à l'Assemblée et au dialogue national en Tunisie
+
+RÉALISÉ AVEC L'APPUI DE
+
+تم تنفيذ هذا النشاط بدعم من
+
+PNUD
+Au service des peuples et des nations
 
 [[END OF PAGE 63]]
 
