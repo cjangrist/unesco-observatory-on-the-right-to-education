@@ -12,7 +12,7 @@ Undécima  consulta  de  los  Estados  Miembros  sobre  la  aplicación  de  la 
 
 ## 1. Introducción
 
-La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza ( ' la Convención ' ) y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la  Enseñanza  ( ' la  Recomendación ' ),  que  fueron  aprobadas  por  la  Conferencia  General  de  la UNESCO  en  1960,  se  ajustan  al  mandato  constitucional  de  la  Organización  consistente  en ' fomentar el ideal de la igualdad de posibilidades de educación para todos, sin distinción de raza, sexo ni condición social o económica alguna ' . La Convención es el primer instrumento internacional jurídicamente vinculante centrado en el derecho a la  educación y el único dedicado exclusivamente a tal derecho.
+La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (“la Convención”) y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (“la Recomendación”), que fueron aprobadas por la Conferencia General de la UNESCO en 1960, se ajustan al mandato constitucional de la Organización consistente en “fomentar el ideal de la igualdad de posibilidades de educación para todos, sin distinción de raza, sexo ni condición social o económica alguna”. La Convención es el primer instrumento internacional jurídicamente vinculante centrado en el derecho a la educación y el único dedicado exclusivamente a tal derecho.
 
 El derecho a la educación es uno de los principios clave que sustentan la agenda Educación 2030 y  el  Objetivo  de  Desarrollo  Sostenible 4  (ODS 4),  aprobados  por  la  comunidad  internacional  en 2015.  El  ODS 4  busca  garantizar  el  pleno  disfrute  del  derecho  a  la  educación  como  elemento fundamental para lograr el desarrollo sostenible. Su alcance refleja la naturaleza multidimensional del derecho a la educación.
 
@@ -32,7 +32,7 @@ Dado que el alcance y el contenido de las obligaciones jurídicas en virtud del 
 
 La Convención no solo se ajusta plenamente al ODS 4, sino también al contenido normativo sobre el derecho a la educación de otros instrumentos internacionales de derechos humanos, como el Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966), la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (1979), la Convención sobre los Derechos del Niño (1989) y la Convención sobre los Derechos de las Personas con Discapacidad (2006).
 
-Esta consulta es asimismo una oportunidad para aportar una contribución a la iniciativa en curso de la UNESCO sobre la evolución del derecho a la educación dentro de una perspectiva de aprendizaje permanente 1  (puesta en marcha en diciembre de 2021). Esta iniciativa busca maneras de reforzar el derecho a la educación enmarcándolo en una perspectiva de aprendizaje permanente y tomando en consideración las nuevas exigencias que se plantean a la educación. Reposa en el informe de la Comisión Internacional sobre los Futuros de la Educación 2 , en el que se propone ampliar explícitamente nuestro enfoque del derecho a la educación a todas las edades, a todos los tiempos y a todos los espacios. La iniciativa también está en consonancia con la Declaración de visión  del  Secretario  General  de  las  Naciones  Unidas  sobre  la  transformación  de  la educación 3 y con el Informe de la Cumbre sobre la Transformación de la Educación (2022) 4 , el cual aboga por la transformación de los sistemas educativos para ' incluir a todos, independientemente de las circunstancias, el contexto o el origen ' . La iniciativa sobre la evolución del  derecho  a  la  educación  tiene  por  finalidad  poner  en  marcha  un  análisis  colaborativo  y participativo sobre el marco internacional para garantizar la observancia efectiva del derecho a la educación y al aprendizaje a lo largo de toda la vida para todos. Por último, la iniciativa se basa en diálogos  intergubernamentales  recientes,  en  particular  el  Marco  de  Acción  de  Marrakech  Aprovechar el poder transformador del aprendizaje y la educación de adultos 5  y la Declaración de Tashkent y los Compromisos de Acción para Transformar la Atención y Educación de la Primera Infancia 6 .
+Esta consulta es asimismo una oportunidad para aportar una contribución a la iniciativa en curso de la UNESCO sobre la evolución del derecho a la educación dentro de una perspectiva de aprendizaje permanente 1 (puesta en marcha en diciembre de 2021). Esta iniciativa busca maneras de reforzar el derecho a la educación enmarcándolo en una perspectiva de aprendizaje permanente y tomando en consideración las nuevas exigencias que se plantean a la educación. Reposa en el informe de la Comisión Internacional sobre los Futuros de la Educación 2, en el que se propone ampliar explícitamente nuestro enfoque del derecho a la educación a todas las edades, a todos los tiempos y a todos los espacios. La iniciativa también está en consonancia con la Declaración de visión del Secretario General de las Naciones Unidas sobre la transformación de la educación 3 y con el Informe de la Cumbre sobre la Transformación de la Educación (2022) 4, el cual aboga por la transformación de los sistemas educativos para “incluir a todos, independientemente de las circunstancias, el contexto o el origen”. La iniciativa sobre la evolución del derecho a la educación tiene por finalidad poner en marcha un análisis colaborativo y participativo sobre el marco internacional para garantizar la observancia efectiva del derecho a la educación y al aprendizaje a lo largo de toda la vida para todos. Por último, la iniciativa se basa en diálogos intergubernamentales recientes, en particular el Marco de Acción de Marrakech - Aprovechar el poder transformador del aprendizaje y la educación de adultos 5 y la Declaración de Tashkent y los Compromisos de Acción para Transformar la Atención y Educación de la Primera Infancia 6.
 
 Cabe señalar también que las consultas previas sobre la Convención y la Recomendación revelaron que  los  países  tienen  ahora  una  visión  más  amplia  del  derecho  a  la  educación.  La  undécima consulta, que reposa en las conclusiones de los informes nacionales anteriores, incluye diversas cuestiones que tienen repercusiones directas en el derecho a la educación como, por ejemplo, el aprendizaje  digital,  las  consideraciones  relacionadas  con  el  clima,  el  derecho  al  aprendizaje permanente y el papel de los agentes no estatales en la educación.
 
@@ -58,7 +58,7 @@ Al  margen  de  las  diferencias  en  cuanto  al  alcance  jurídico  inherentes
 
 [[START OF PAGE 3]]
 
-Las  disposiciones  del  artículo  VII  de  la  Convención  y  del  párrafo  correspondiente  de  la Recomendación, relativas a las obligaciones en materia de presentación de informes, son idénticas. En  el  artículo  VIII  de  la  Constitución  de  la  UNESCO  se  establece  que ' cada  Estado  Miembro someterá a la Organización, en el momento y la forma que decida la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativos a sus instituciones y actividades educativas, científicas y culturales, así como sobre el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV ' . Por tanto, incluso los países que no sean Estados Partes en la Convención deben presentar un informe sobre la aplicación de la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre  la  aplicación  de  estos  instrumentos  en  el  marco  de  las  consultas  realizadas  para  su seguimiento.
+Las disposiciones del artículo VII de la Convención y del párrafo correspondiente de la Recomendación, relativas a las obligaciones en materia de presentación de informes, son idénticas. En el artículo VIII de la Constitución de la UNESCO se establece que “cada Estado Miembro someterá a la Organización, en el momento y la forma que decida la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativos a sus instituciones y actividades educativas, científicas y culturales, así como sobre el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV”. Por tanto, incluso los países que no sean Estados Partes en la Convención deben presentar un informe sobre la aplicación de la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre la aplicación de estos instrumentos en el marco de las consultas realizadas para su seguimiento.
 
 ## 4. Participación en las consultas
 
@@ -98,9 +98,9 @@ Las directrices se estructuran en torno a tres capítulos:
 
 Con miras a simplificar las directrices proporcionando al mismo tiempo la información sustantiva necesaria para orientar a los Estados Miembros en la preparación de sus respuestas sobre la base de un proceso participativo, se ofrecen orientaciones de los dos tipos siguientes :
 
-- Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente.  Tenga  en  cuenta  que  pueden  proporcionarse  múltiples  respuestas cuando sea pertinente.
+1) Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente. Tenga en cuenta que pueden proporcionarse múltiples respuestas cuando sea pertinente.
 
-- Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus respuestas a las preguntas abiertas (incluidos comentarios sobre cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
+2) Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus respuestas a las preguntas abiertas (incluidos comentarios sobre cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
 
 [[END OF PAGE 4]]
 
@@ -116,7 +116,7 @@ Nombre de la persona de contacto: Elisa Sánchez Caballero
 
 Correo electrónico y número de teléfono de la persona de contacto: elisa.sanchezc@educacion.gob.es, +34 915065623
 
-## Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 10
+## I. Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 10
 
 ¿Es su país un Estado Parte en la Convención?
 
@@ -166,13 +166,13 @@ Sí
 
 También puede facilitarse información sobre las autoridades judiciales, administrativas y de otro tipo que tengan competencia en lo que atañe al derecho a la educación.
 
-## Información sobre la aplicación de la Convención y la Recomendación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
+## II. Información sobre la aplicación de la Convención y la Recomendación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
 
-### Hacia un sistema educativo inclusivo y no discriminatorio
+### 1. Hacia un sistema educativo inclusivo y no discriminatorio
 
 A título de referencia, esta parte se refiere al objetivo principal de la Convención y la Recomendación, a saber, subrayar la obligación de los Estados de prohibir toda forma de discriminación en la enseñanza y promover al mismo tiempo la igualdad de oportunidades educativas como lo estipulan los artículos/párrafos 1.1, 2 y 3 de la Convención/Recomendación.
 
-Este aspecto corresponde además a la aspiración general del ODS 4, que tiene por objeto ' garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos ' de aquí a 2030. Por tanto, abarca todas las metas del ODS 4, pero especialmente la meta 4.5 12 .
+Este aspecto corresponde además a la aspiración general del ODS 4, que tiene por objeto “garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos” de aquí a 2030. Por tanto, abarca todas las metas del ODS 4, pero especialmente la meta 4.5 12.
 
 -Indique si los derechos y principios establecidos en la Convención/Recomendación han servido de base para la elaboración del marco jurídico o político de educación.
 
@@ -194,7 +194,7 @@ Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), tras la última modific
 
 > 11 Los mecanismos judiciales desempeñan un papel importante en la aplicación del derecho a la educación, ya que garantizan la responsabilidad jurídica y, de esa forma, contribuyen a la realización en la práctica del derecho a la educación.
 
-> 12 En la que se insta a los Estados a 'eliminar las disparidades de género en la educación y asegurar el acceso igualitario a to dos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad'.
+> 12 En la que se insta a los Estados a “eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad”.
 
 [[END OF PAGE 6]]
 
@@ -234,7 +234,7 @@ b) La equidad, que garantice la igualdad de oportunidades para el pleno desarrol
 
 > 13 Véase el artículo/párrafo 1.1.
 
-> 14 En la cual se insta a los Estados a 'aumentar considerablemente a nivel mundial el número de becas disponibles [...] a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y progra mas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones'.
+> 14 En la cual se insta a los Estados a “aumentar considerablemente a nivel mundial el número de becas disponibles [...] a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y programas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones”.
 
 > 15 Constitución, leyes, decretos, reglamentos, circulares, etc.
 
@@ -310,9 +310,9 @@ universitaria  asegurando  la  igualdad  de  oportunidades  y  la  no  discrimin
 
 ##### Artículo 37. Equidad y no discriminación.
 
-- Las universidades garantizarán al estudiantado que en el ejercicio de sus derechos y el cumplimiento de sus deberes no será discriminado por razón de nacimiento, origen racial o étnico, sexo, orientación sexual, identidad  de  género,  religión,  convicción  u  opinión,  edad,  discapacidad,  nacionalidad,  enfermedad, condición  socioeconómica,  lingüística,  afinidad  política  y  sindical,  por  razón  de  su  apariencia,  o  por cualquier otra condición o circunstancia personal o social.
+1. Las universidades garantizarán al estudiantado que en el ejercicio de sus derechos y el cumplimiento de sus deberes no será discriminado por razón de nacimiento, origen racial o étnico, sexo, orientación sexual, identidad de género, religión, convicción u opinión, edad, discapacidad, nacionalidad, enfermedad, condición socioeconómica, lingüística, afinidad política y sindical, por razón de su apariencia, o por cualquier otra condición o circunstancia personal o social.
 
-- Las universidades favorecerán que las estructuras curriculares de las enseñanzas universitarias resulten inclusivas y accesibles. En particular, adoptarán medidas de acción positiva para que el estudiantado con discapacidad pueda disfrutar de una educación universitaria inclusiva, accesible y adaptable, en igualdad con el resto del estudiantado, realizando ajustes razonables, tanto curriculares como metodológicos, a los materiales didácticos, a los métodos de enseñanza y al sistema de evaluación.
+2. Las universidades favorecerán que las estructuras curriculares de las enseñanzas universitarias resulten inclusivas y accesibles. En particular, adoptarán medidas de acción positiva para que el estudiantado con discapacidad pueda disfrutar de una educación universitaria inclusiva, accesible y adaptable, en igualdad con el resto del estudiantado, realizando ajustes razonables, tanto curriculares como metodológicos, a los materiales didácticos, a los métodos de enseñanza y al sistema de evaluación.
 
 Las  universidades  facilitarán  a  las  personas  usuarias  de  las  lenguas  de  signos  su  utilización  cuando  se precise.
 
@@ -324,11 +324,11 @@ Las  universidades  promoverán  el  acceso  a  estudios  universitarios  de  la
 
 Por último, cabe destacar la Ley Orgánica 8/2021 de protección integral a la infancia y la adolescencia frente a la violencia que establece:
 
-##### ' Artículo 30. Principios:
+##### “Artículo 30. Principios:
 
-El sistema educativo debe regirse por el respeto mutuo de todos los miembros de la comunidad educativa y debe fomentar una educación accesible, igualitaria, inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y adolescentes y su participación en una escuela segura y libre de violencia, en la que se  garantice el respeto, la igualdad y la promoción de todos sus derechos fundamentales y libertades públicas, empleando métodos pacíficos de comunicación, negociación y resolución de conflictos.
+El sistema educativo debe regirse por el respeto mutuo de todos los miembros de la comunidad educativa y debe fomentar una educación accesible, igualitaria, inclusiva y de calidad que permita el desarrollo pleno de los niños, niñas y adolescentes y su participación en una escuela segura y libre de violencia, en la que se garantice el respeto, la igualdad y la promoción de todos sus derechos fundamentales y libertades públicas, empleando métodos pacíficos de comunicación, negociación y resolución de conflictos.
 
-Los niños, niñas y adolescentes en todas las etapas educativas e independientemente de la titularidad del centro, recibirán, de forma transversal, una educación que incluya su participación, el respeto a los demás, a su dignidad y sus derechos, especialmente de aquellos menores que sufran especial vulnerabilidad por su condición de discapacidad o de algún trastorno del neurodesarrollo, la igualdad de género, la diversidad familiar, la adquisición de habilidades para la elección de estilos de vida saludables, incluyendo educación alimentaria y nutricional, y una educación afectivo sexual, adaptada a su nivel madurativo y, en su caso, discapacidad,  orientada  al  aprendizaje  de  la  prevención  y  evitación  de  toda  forma  de  violencia  y discriminación, con el fin de ayudarles a reconocerla y reaccionar frente a la misma'.
+Los niños, niñas y adolescentes en todas las etapas educativas e independientemente de la titularidad del centro, recibirán, de forma transversal, una educación que incluya su participación, el respeto a los demás, a su dignidad y sus derechos, especialmente de aquellos menores que sufran especial vulnerabilidad por su condición de discapacidad o de algún trastorno del neurodesarrollo, la igualdad de género, la diversidad familiar, la adquisición de habilidades para la elección de estilos de vida saludables, incluyendo educación alimentaria y nutricional, y una educación afectivo sexual, adaptada a su nivel madurativo y, en su caso, discapacidad, orientada al aprendizaje de la prevención y evitación de toda forma de violencia y discriminación, con el fin de ayudarles a reconocerla y reaccionar frente a la misma”.
 
 - Enumere los motivos de discriminación prohibidos en la enseñanza tal y como se recogen en los textos jurídicos.
 
@@ -374,7 +374,7 @@ Del  mismo  modo,  es  competencia  de  las  Administraciones  educativas  de  l
 
 Respecto  a  la  enseñanza  superior, la  Ley  Orgánica  2/2023,  de  22  de  marzo,  del  Sistema Universitario en su artículo 37. Equidad y no discriminación :
 
-- Las universidades favorecerán que las estructuras curriculares de las enseñanzas universitarias resulten inclusivas y accesibles. En particular, adoptarán medidas de acción positiva para que el estudiantado con discapacidad pueda disfrutar de una educación universitaria inclusiva, accesible y adaptable,  en  igualdad  con  el  resto  del  estudiantado,  realizando  ajustes  razonables,  tanto curriculares  como  metodológicos,  a  los  materiales  didácticos,  a  los  métodos  de  enseñanza  y  al sistema de evaluación.
+2. Las universidades favorecerán que las estructuras curriculares de las enseñanzas universitarias resulten inclusivas y accesibles. En particular, adoptarán medidas de acción positiva para que el estudiantado con discapacidad pueda disfrutar de una educación universitaria inclusiva, accesible y adaptable, en igualdad con el resto del estudiantado, realizando ajustes razonables, tanto curriculares como metodológicos, a los materiales didácticos, a los métodos de enseñanza y al sistema de evaluación.
 
 Las universidades facilitarán a las personas usuarias de las lenguas de signos su utilización cuando se precise.
 
@@ -384,7 +384,7 @@ Por último, la Estrategia Estatal de Derechos de la Infancia y Adolescencia se�
 
 Estrategia Estatal de Derechos de la Infancia y Adolescencia. Área estratégica 4:
 
-- Línea  estratégica  1:  Garantizar  el  acceso  universal  al  primer  ciclo  de  educación  infantil  especialmente de 0-2 años- con plazas accesibles, asequibles, inclusivas y de calidad.
+- Línea estratégica 1: Garantizar el acceso universal al primer ciclo de educación infantil - especialmente de 0-2 años- con plazas accesibles, asequibles, inclusivas y de calidad.
 
 o Metas 2025:
 
@@ -456,7 +456,7 @@ La  educación en derechos humanos se aborda tanto de manera transversal, en tod
 
 [[START OF PAGE 13]]
 
-- entre  hombres  y  mujeres,  la  aceptación  de  la  discapacidad  y  el  respeto  a  los  derechos humanos.
+entre hombres y mujeres, la aceptación de la discapacidad y el respeto a los derechos humanos.
 
 - Educación Primaria:  se  aborda  de  forma  concreta  en  las  áreas  de  Educación  en  Valores Cívicos y Éticos y en Conocimientos del Medio Natural, Social y Cultural.
 
@@ -494,11 +494,11 @@ Asimismo, desde el 2024 se ha desarrollado otro programa de Educación Inclusiva
 
 - Programa de Libros de texto y materiales didácticos: Ayudas destinadas a las familias en mayor riesgo de vulnerabilidad para acceder a los libros de texto y materiales didácticos. Elimina la barrera de la adquisición de estos materiales y fomenta el uso compartido y la sostenibilidad.
 
-- Programa de refuerzo para la competencia matemática, para la mejora del rendimiento y de las expectativas académicas y profesionales del alumnado. Se inicia en el curso 20242025.
+- Programa de refuerzo para la competencia matemática, para la mejora del rendimiento y de las expectativas académicas y profesionales del alumnado. Se inicia en el curso 2024-2025.
 
 - Programa de refuerzo para la competencia lectora, para la mejora del rendimiento y de las expectativas académicas y profesionales del alumnado. Se inicia en el curso 2024-2025.
 
-Por otro lado, se resalta la reactivación del Observatorio Estatal de la Convivencia Escolar. Es este un órgano colegiado de la Administración General del Estado cuya misión, entre otras, es la de recabar información para la mejora del clima escolar en los centros educativos, así como analizar situaciones, hacer diagnósticos y proponer medidas que favorezcan la convivencia escolar. El recién finalizado Plan de Trabajo, que abarcaba hasta 2024, contó con una visión global de la convivencia que  defendía  el  respeto  hacia  el  género,  orientación  sexual,  pertenencia  a  minorías  étnicas  o cualquier otra situación de vulnerabilidad como elementos fundamentales. El Plan de Trabajo 20242027, que está actualmente en desarrollo, cuenta entre los ejes temáticos con diversos enfoques para erradicar el acoso, incluido el motivado por pertenencia al colectivo LGBTI+ o por racismo.
+Por otro lado, se resalta la reactivación del Observatorio Estatal de la Convivencia Escolar. Es este un órgano colegiado de la Administración General del Estado cuya misión, entre otras, es la de recabar información para la mejora del clima escolar en los centros educativos, así como analizar situaciones, hacer diagnósticos y proponer medidas que favorezcan la convivencia escolar. El recién finalizado Plan de Trabajo, que abarcaba hasta 2024, contó con una visión global de la convivencia que defendía el respeto hacia el género, orientación sexual, pertenencia a minorías étnicas o cualquier otra situación de vulnerabilidad como elementos fundamentales. El Plan de Trabajo 2024-2027, que está actualmente en desarrollo, cuenta entre los ejes temáticos con diversos enfoques para erradicar el acoso, incluido el motivado por pertenencia al colectivo LGBTI+ o por racismo.
 
 Entre los trabajos realizados se resaltan las siguientes publicaciones:
 
@@ -536,7 +536,7 @@ A estos trabajos se le añaden las siguientes publicaciones realizadas por el ME
 
 El MEFPD colabora con distintos ministerios y diversas entidades para abordar la discriminación:
 
-- Colaboración  con  OBERAXE  en  la  elaboración  del  diccionario  formativo  con  términos relacionados con la interculturalidad, la inclusión y la prevención del discurso de odio, del racismo, la xenofobia y otras formas conexas de intolerancia, coliderado por OBERAXE y CEAPA, en el marco del Grupo de Trabajo sobre 'Cultura de pertenencia dentro de una sociedad más igualitaria' del Foro Integral de Cultura de Seguridad Nacional.
+- Colaboración con OBERAXE en la elaboración del diccionario formativo con términos relacionados con la interculturalidad, la inclusión y la prevención del discurso de odio, del racismo, la xenofobia y otras formas conexas de intolerancia, coliderado por OBERAXE y CEAPA, en el marco del Grupo de Trabajo sobre “Cultura de pertenencia dentro de una sociedad más igualitaria” del Foro Integral de Cultura de Seguridad Nacional.
 
 - Participación en varias jornadas sobre prevención y atención de delitos y discursos de odio, islamofobia,  etc.  dirigidas  a  profesionales  y  estudiantes  universitarios  de  distintos  ámbitos  y organizadas por diversas entidades como la Asociación Marroquí para la integración de inmigrantes con financiación europea y del Ministerio de Inclusión, así como sobre Diversidad, escuela y factor religioso, organizada por la Fundación Pluralismo y Convivencia (fundación pública dependiente del Ministerio de Presidencia)
 
@@ -558,7 +558,7 @@ El MEFPD colabora con distintos ministerios y diversas entidades para abordar la
 
 Por último, en relación a la enseñanza superior, la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario , su artículo 32 de becas y ayudas al estudio recoge lo siguiente:
 
-- Se garantizará la igualdad de oportunidades en el acceso a la Universidad y en la continuidad en las enseñanzas universitarias del estudiantado, con independencia de la capacidad económica de las personas  o  familias  y  de  su  lugar  de  residencia.  A  tal  fin,  se  reconoce  el  derecho  subjetivo  del estudiantado  universitario  a  acceder  a  becas  y  ayudas  al  estudio,  siempre  que  cumpla  con  los requisitos recogidos en las normas reguladoras de las mismas, y de conformidad con los principios fundamentales de igualdad y no discriminación.
+1. Se garantizará la igualdad de oportunidades en el acceso a la Universidad y en la continuidad en las enseñanzas universitarias del estudiantado, con independencia de la capacidad económica de las personas o familias y de su lugar de residencia. A tal fin, se reconoce el derecho subjetivo del estudiantado universitario a acceder a becas y ayudas al estudio, siempre que cumpla con los requisitos recogidos en las normas reguladoras de las mismas, y de conformidad con los principios fundamentales de igualdad y no discriminación.
 
 #### 1.2 Igualdad de oportunidades e inclusión en la enseñanza
 
@@ -578,35 +578,35 @@ Por último, en relación a la enseñanza superior, la Ley Orgánica 2/2023, de 
 
  Iniciativas que abordan la discriminación y promueven la diversidad cultural y la aceptación mutua
 
-☒ Otro:
-
-El Ministerio de Sanidad y el Ministerio de Educación trabajan conjuntamente, a través de un acuerdo,  para  promover  el  modelo  de  Escuelas  Promotoras  de  Salud  y  la  Red  de  Escuelas Promotoras de Salud. En la Guía de Escuelas Promotoras de Salud (2023) se  han establecido estándares para España que incluyen la equidad, la inclusión, la sostenibilidad y la participación como principios transversales.
-
-- Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
-
-Ver apartado anterior.
-
-La  formación  del  profesorado  es  competencia  de  las  Administraciones  de  las  comunidades autónomas. No obstante, el MEFPD contribuye proporcionando a todo el profesorado diversas actividades  formativas  y  materiales  para  educar  en  ciudadanía  democrática,  los  derechos humanos,  el  desarrollo  sostenible,  la  cultura  de  paz,  la  convivencia  pacífica,  la  igualdad  de género, la prevención de la violencia y la discriminación en todas sus manifestaciones para todos los ámbitos y materias.
-
-Asimismo, la ya mencionada Estrategia Estatal de Derechos de la Infancia y Adolescencia señala que durante la pasada legislatura se crearon 60.000 plazas públicas y gratuitas de educación infantil de primer ciclo.
-
-Estrategia Estatal de Derechos de la Infancia y Adolescencia. Área estratégica 4:
-
-- Línea estratégica 1: Garantizar el acceso universal al primer ciclo de educación infantil especialmente de 0-2 años- con plazas accesibles, asequibles, inclusivas y de calidad.
-
-- o Metas 2025:
-
-> 16 Los docentes tienen la preparación necesaria para enseñar a todos los alumnos (no solo a los que tienen alguna discapacidad) e inculcarles conocimientos, valores y actitudes que les permitan tener éxito. Véase: documento de política de la UNESCO: Enseñanza inclusiva: preparar a todos los docentes para enseñar a todos los alumnos, 2020, pág.14.
-
-> 17 "Esto requiere múltiples y flexibles vías de aprendizaje y maneras de emprender y reanudar el aprendizaje a todas las edades y  en  todos  los  niveles  educativos;  un  fortalecimiento  de  los  vínculos  entre  las  estructuras  formales  y  no  formales;  y  el reconocimiento,  acreditación  y  convalidación  de  los  conocimientos,  las  aptitudes  y  las  competencias  adquiridos  en  la educación no formal e informal" (Marco de Acción Educación 2030, párr. 23). Esto puede incluir transferencias de alumnos entre cursos e instituciones y diversas modalidades de aprendizaje (en línea, presencial, a tiempo completo, a tiempo parcial, etc.) para responder a las necesidades e intereses individuales.
-
-> 18 Al elaborar los planes de estudio y los métodos pedagógicos, se procura garantizar que todos los alumnos gocen de una experiencia de aprendizaje inclusiva y favorable que les brinde la oportunidad de tener éxito sea cual sea su origen.
-
  Se ofrecen vías de aprendizaje múltiples y flexibles 17
 
  Los planes de estudio y los métodos pedagógicos están elaborados con un enfoque inclusivo 18
 
  Se favorece la educación multilingüe e intercultural
+
+☒ Otro:
+
+El Ministerio de Sanidad y el Ministerio de Educación trabajan conjuntamente, a través de un acuerdo, para promover el modelo de Escuelas Promotoras de Salud y la Red de Escuelas Promotoras de Salud. En la Guía de Escuelas Promotoras de Salud (2023) se han establecido estándares para España que incluyen la equidad, la inclusión, la sostenibilidad y la participación como principios transversales.
+
+- Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
+
+Ver apartado anterior.
+
+La formación del profesorado es competencia de las Administraciones de las comunidades autónomas. No obstante, el MEFPD contribuye proporcionando a todo el profesorado diversas actividades formativas y materiales para educar en ciudadanía democrática, los derechos humanos, el desarrollo sostenible, la cultura de paz, la convivencia pacífica, la igualdad de género, la prevención de la violencia y la discriminación en todas sus manifestaciones para todos los ámbitos y materias.
+
+Asimismo, la ya mencionada Estrategia Estatal de Derechos de la Infancia y Adolescencia señala que durante la pasada legislatura se crearon 60.000 plazas públicas y gratuitas de educación infantil de primer ciclo.
+
+Estrategia Estatal de Derechos de la Infancia y Adolescencia. Área estratégica 4:
+
+- Línea estratégica 1: Garantizar el acceso universal al primer ciclo de educación infantil - especialmente de 0-2 años- con plazas accesibles, asequibles, inclusivas y de calidad.
+
+- o Metas 2025:
+
+> 16 Los docentes tienen la preparación necesaria para enseñar a todos los alumnos (no solo a los que tienen alguna discapacidad) e inculcarles conocimientos, valores y actitudes que les permitan tener éxito. Véase: documento de política de la UNESCO: Enseñanza inclusiva: preparar a todos los docentes para enseñar a todos los alumnos, 2020, pág.14.
+
+> 17 "Esto requiere múltiples y flexibles vías de aprendizaje y maneras de emprender y reanudar el aprendizaje a todas las edades y en todos los niveles educativos; un fortalecimiento de los vínculos entre las estructuras formales y no formales; y el reconocimiento, acreditación y convalidación de los conocimientos, las aptitudes y las competencias adquiridos en la educación no formal e informal" (Marco de Acción Educación 2030, párr. 23). Esto puede incluir transferencias de alumnos entre cursos e instituciones y diversas modalidades de aprendizaje (en línea, presencial, a tiempo completo, a tiempo parcial, etc.) para responder a las necesidades e intereses individuales.
+
+> 18 Al elaborar los planes de estudio y los métodos pedagógicos, se procura garantizar que todos los alumnos gocen de una experiencia de aprendizaje inclusiva y favorable que les brinde la oportunidad de tener éxito sea cual sea su origen.
 
 17
 
@@ -696,15 +696,17 @@ La principal contribución del MEFPD en la promoción de la igualdad de género 
 
 -La  creación  de  una  nueva  asignatura,  Valores  Cívicos  y  Éticos,  en  Primaria  y Secundaria, en la que se trabaja el respeto a los derechos humanos, el respeto a la diversidad y la igualdad entre hombres y mujeres.
 
--La introducción de nuevos objetivos, como en bachillerato, donde se busca 'Prever, detectar y resolver pacíficamente los conflictos personales, familiares y sociales, así como las posibles situaciones de violencia'.
+-La introducción de nuevos objetivos, como en bachillerato, donde se busca “Prever, detectar y resolver pacíficamente los conflictos personales, familiares y sociales, así como las posibles situaciones de violencia”.
 
 -La incorporación de mecanismos de evaluación del sistema educativo a través del Instituto  Nacional  de  Evaluación  Educativa,  mediante  indicadores  de  evaluación desagregados por sexo, que permiten valorar el grado de equidad alcanzado por el sistema educativo y su evolución a lo largo de los cursos.
 
 -Formación específica para el profesorado en materia de acoso y malos tratos en el ámbito de los centros docentes. Del mismo modo, se incluye formación específica en
 
-> 19 " Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them" (La estigmatización es el hecho de tratar a alguien o a algo injustamente condenándolo públicamente) (traducción libre del Cambridge Dictionary). 20 Las instalaciones sanitarias que tienen en cuenta el género incluyen retretes limpios, seguros y separados, con acceso al agua y a la eliminación de desechos (entrada del blog de la UNGEI, Gender-sensitive sanitation , 2018).
+> 19 "Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them" (La estigmatización es el hecho de tratar a alguien o a algo injustamente condenándolo públicamente) (traducción libre del Cambridge Dictionary).
 
-> 21 " Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong " (Un estereotipo es una idea fija que la gente tiene sobre cómo es alguien o algo, especialmente una idea errónea) (traducción libre del Cambridge Dictionary).
+> 20 Las instalaciones sanitarias que tienen en cuenta el género incluyen retretes limpios, seguros y separados, con acceso al agua y a la eliminación de desechos (entrada del blog de la UNGEI, Gender-sensitive sanitation, 2018).
+
+> 21 "Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong" (Un estereotipo es una idea fija que la gente tiene sobre cómo es alguien o algo, especialmente una idea errónea) (traducción libre del Cambridge Dictionary).
 
 19
 
@@ -740,17 +742,15 @@ Para el cumplimiento de lo anterior, existe el Observatorio Estatal de la Conviv
 
 [[START OF PAGE 21]]
 
-
-
 necesidades de atención que el alumnado pueda mostrar en los campos del bienestar emocional y salud mental desde la perspectiva de la intervención educativa.
 
 ###### Actuaciones e iniciativas de Igualdad del MEFPD:
 
--Premios Aulas por la Igualdad: Los Premios Irene y los Premios Alianza STEAM se alternan  anualmente.  Los  primeros  reconocen  a  los  centros  que  desarrollan actividades de coeducación y prevención de la violencia de género, mientras que los segundos premian a aquellos que promueven iniciativas para reducir la brecha de género en las disciplinas STEAM
+-Premios Aulas por la Igualdad: Los Premios Irene y los Premios Alianza STEAM se alternan anualmente. Los primeros reconocen a los centros que desarrollan actividades de coeducación y prevención de la violencia de género, mientras que los segundos premian a aquellos que promueven iniciativas para reducir la brecha de género en las disciplinas STEAM
 
 -Publicaciones: La Unidad de Igualdad del MEFPD tiene una línea editorial que consta de dos colecciones.
 
-- Colección Aulas por la Igualdad:
+ - Colección Aulas por la Igualdad:
 
 -N.º 1: Igualdad y Violencia contra las Mujeres en la Adolescencia en España. El papel de la escuela. Un estudio pionero en nuestro país, dirigido por María José Díaz Aguado.
 
@@ -842,13 +842,13 @@ Dentro de esta iniciativa se dispone de ChicaSTEM https://code.intef.es/chicaste
 
 -En  segundo  lugar,  teniendo  en  cuenta  lo  explicado  con  respecto  al  dispar desempeño, por género, en matemáticas, el MEFPD ha promovido el Programa de cooperación territorial de refuerzo de la competencia matemática por importe de 64.894.392,00  euros,  enfocado  a  la  mejora  de  la  educación  matemática  de  los jóvenes españoles. El objetivo general para 2024 es mejorar el nivel de desempeño en competencia matemática del alumnado de Educación Primaria preferentemente desde 3.º Educación Primaria, Educación Secundaria Obligatoria y Ciclos Formativos de Grado Básico.
 
-¿Qué dificultades se encontraron en lo que se refiere al logro de la igualdad de género en la educación y mediante ella? De ser necesario, se pueden añadir breves datos cuantitativos.
+- ¿Qué dificultades se encontraron en lo que se refiere al logro de la igualdad de género en la educación y mediante ella? De ser necesario, se pueden añadir breves datos cuantitativos.
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-¿Se  ajusta  la  edad  mínima  legal  para  contraer  matrimonio  a  las  normas  internacionales  (18 años) 22 ?
+- ¿Se ajusta la edad mínima legal para contraer matrimonio a las normas internacionales (18 años) 22?
 
 Tenga en cuenta que el matrimonio infantil es una práctica discriminatoria, ya que a menudo las niñas pueden contraer matrimonio a una edad más temprana que los niños. El matrimonio infantil viola el derecho de los niños a la educación, puesto que es más probable que los niños casados abandonen la escuela y que aquellos que no van a la escuela contraigan matrimonio.
 
@@ -914,13 +914,13 @@ La Ley Orgánica 8/2021 de protección integral a la infancia y la adolescencia 
 
 ###### Artículo 1. Objeto:
 
-'En cualquier caso, se entenderá por violencia […] el matrimonio forzado, el matrimonio infantil'.
+“En cualquier caso, se entenderá por violencia […] el matrimonio forzado, el matrimonio infantil”.
 
 ###### Artículo 23. De la prevención:
 
-'3. En todo caso, tendrán la consideración de actuaciones en materia de prevención las siguientes:
+“3. En todo caso, tendrán la consideración de actuaciones en materia de prevención las siguientes:
 
-l)  Las encaminadas a evitar que niñas, niños y adolescentes abandonen sus estudios para asumir compromisos laborales y familiares, no acordes con su edad, con especial atención al matrimonio infantil, que afecta a las niñas en razón de sexo'.
+l) Las encaminadas a evitar que niñas, niños y adolescentes abandonen sus estudios para asumir compromisos laborales y familiares, no acordes con su edad, con especial atención al matrimonio infantil, que afecta a las niñas en razón de sexo”.
 
 ##### Minorías nacionales:
 
@@ -958,11 +958,9 @@ A título de referencia, en el artículo/párrafo 5.1.c de la Convención y la R
 
 [[START OF PAGE 27]]
 
-##### Pueblos indígenas:
-
  Se ofrecen incentivos financieros y becas a las minorías nacionales
 
- Otro 23 :
+ Otro23:
 
 - Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
@@ -976,9 +974,11 @@ Por  otro  lado,  todas  las  medidas  mencionadas  en  los  apartados  anterior
 
 Ya se ha mencionado que es competencia de las Administraciones educativas ofrecer formación al profesorado de acuerdo a los principios de la LOE. No obstante, el MEFPD apoya con diversas actividades y materiales. En relación al pueblo gitano, en el marco del Consejo Estatal del Pueblo Gitano,  en  el  que  el  MEFPD  participa,  dicho  ministerio  ha  publicado  materiales  de  atención educativa a niños y niñas gitanos para las etapas de Educación Primaria y de Educación Secundaria. También se ha contribuido a la formación del profesorado organizando cursos de formación y jornadas para profesorado sobre la atención educativa de niños y niñas gitanos. Además, el MEFPD ha publicado varias guías, la más reciente de 2024, para el tratamiento de la cultura gitana en el aula desde un enfoque valorizante y de educación contra el antigitanismo y alinear su estudio con los recientes marcos nacionales e internacionales en materia de inclusión y promoción del pueblo gitano.
 
-¿Con  qué  dificultades  se  ha  tropezado  para  hacer  efectivo  el  derecho  a  la  educación  de  las minorías? De ser necesario, se pueden añadir breves datos cuantitativos.
+- ¿Con qué dificultades se ha tropezado para hacer efectivo el derecho a la educación de las minorías? De ser necesario, se pueden añadir breves datos cuantitativos.
 
- La  legislación  contempla  el  derecho  a  la educación de los pueblos indígenas
+##### Pueblos indígenas:
+
+ La legislación contempla el derecho a la educación de los pueblos indígenas
 
  Se ofrecen incentivos financieros y becas a los pueblos indígenas
 
@@ -1054,7 +1054,7 @@ No procede.
 
 > 28 Véase la nota 16.
 
-> 29 ' Las poblaciones atrapadas son aquellas que no tienen la posibilidad de migrar a lugares seguros y permanecen atrapadas en localidades vulnerables a los efectos de los peligros climáticos ' (Informe de la UNESCO ' Los efectos del desplazamiento climático sobre el derecho a la educación', 2020, pág. 2).
+> 29 “Las poblaciones atrapadas son aquellas que no tienen la posibilidad de migrar a lugares seguros y permanecen atrapadas en localidades vulnerables a los efectos de los peligros climáticos” (Informe de la UNESCO “Los efectos del desplazamiento climático sobre el derecho a la educación”, 2020, pág. 2).
 
 > 32 Véase la nota 13.
 
@@ -1092,7 +1092,7 @@ Por otro lado, las Administraciones educativas de las comunidades autónomas deb
 
 - en el caso del alumnado que presente dificultades, las Administraciones educativas deberán facilitar su integración a través de programas específicos que suplen carencias lingüísticas o desfases en sus competencias o conocimientos básicos. El desarrollo de estos programas será simultáneo a la escolarización en grupos ordinarios conforme al nivel y evolución del aprendizaje
 
-> 30 Aunque la falta de documentación (como documentos de identidad, certificados de nacimiento, permisos de residencia, etc.) no debería ser un obstáculo para acceder a la educación, esto no siempre es cierto. Véase la  publicación de la UNESCO ' Handbook on the right to educati on' , 2018, pág. 96.
+> 30 Aunque la falta de documentación (como documentos de identidad, certificados de nacimiento, permisos de residencia, etc.) no debería ser un obstáculo para acceder a la educación, esto no siempre es cierto. Véase la publicación de la UNESCO “Handbook on the right to education”, 2018, pág. 96.
 
 > 31 Véase la nota 15.
 
@@ -1172,9 +1172,9 @@ Es una tendencia que las escuelas especiales se utilicen como centros de recurso
 
 Ver apartados anteriores.
 
-El sistema educativo español, configurado de acuerdo con los valores de la Constitución y asentado en el respeto a los derechos y libertades reconocidos en ella, entre los principios, se inspira en el principio de equidad, que, de acuerdo al artículo 1 b) de la LOE se define como
+Elsistema educativo español, configurado de acuerdo con los valores de la Constitución y asentado en el respeto a los derechos y libertades reconocidos en ella, entre los principios, se inspira en el principio de equidad, que, de acuerdo al artículo 1 b) de la LOE se define como
 
-- la  equidad que  garantice  la  igualdad  de  oportunidades  para  el  pleno  desarrollo  de  la personalidad  a  través  de  la  educación,  la  inclusión  educativa,  la  igualdad  de  derechos  y oportunidades, también entre mujeres y hombres, que ayuden a superar cualquier discriminación y  la  accesibilidad  universal  a  la  educación,  y  que  actúe  como  elemento  compensador  de  las desigualdades personales, culturales, económicas y sociales, con especial atención a las que se deriven de cualquier tipo de discapacidad, de acuerdo con lo establecido en la Convención sobre los Derechos de las Personas con Discapacidad, ratificada en 2008, por España .
+b) la equidad que garantice la igualdad de oportunidades para el pleno desarrollo de la personalidad a través de la educación, la inclusión educativa, la igualdad de derechos y oportunidades, también entre mujeres y hombres, que ayuden a superar cualquier discriminación y la accesibilidad universal a la educación, y que actúe como elemento compensador de las desigualdades personales, culturales, económicas y sociales, con especial atención a las que se deriven de cualquier tipo de discapacidad, de acuerdo con lo establecido en la Convención sobre los Derechos de las Personas con Discapacidad, ratificada en 2008, por España .
 
 En  lo  que  respecta  a  la  escolarización  del  alumnado  que  presenta  necesidades  educativas especiales, ésta se regirá por los principios de normalización e inclusión y sólo se llevará a cabo en centros de educación especial cuando sus necesidades no puedan ser atendidas en el marco de las medidas de atención a la diversidad de los centros ordinarios.
 
@@ -1193,7 +1193,7 @@ Por  otro  lado,  al  finalizar  cada  curso  se  evaluará  el  grado  de  cons
 [[START OF PAGE 32]]
 
 Las Administraciones educativas también son responsables de garantizar que los centros cuentan con los recursos necesarios y las medidas de accesibilidad establecidas para proporcionar una atención inclusiva de modo que las necesidades de personas con discapacidad no se conviertan en factor de discriminación.
----
+
 De igual modo, los planes educativos específicos diseñados por los docentes para la consecución de objetivos concretos del currículo promoverán los principios de accesibilidad universal y diseño para todas las personas, tanto en formatos y contenidos como en herramientas y entornos virtuales de aprendizaje.
 Se están desarrollando nuevos programas para la mejora de la educación inclusiva en los centros educativos.
 Además, la Estrategia Española sobre Discapacidad 2022-2030 incluye las siguientes medidas relacionadas con la educación inclusiva de las personas con discapacidad:
@@ -1217,6 +1217,10 @@ La falta de coordinación entre las comunidades autónomas o regiones, que son l
 
  Otro:
 
+ Los docentes reciben formación para luchar contra la estigmatización36
+
+ Los planes de estudio están libres de estereotipos37 y prejuicios
+
 - Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
 La  formación  del  profesorado  es  competencia  de  las  Administraciones  de  las  comunidades autónomas.  No  obstante,  tal  y  como  ya  se  ha  mencionado  en  apartados  anteriores,  el  MEFPD contribuye con una oferta de actividades formativas y materiales.
@@ -1229,15 +1233,11 @@ Se están desarrollando nuevos programas para reducir el abandono educativo temp
 
 #### 2.1 Atención y educación de la primera infancia
 
-A  fines  de  referencia,  la  atención  y  educación  de  la  primera  infancia  (AEPI)  no  se  menciona explícitamente en la Convención o la Recomendación. Sin embargo, a lo largo de los años, la comunidad internacional ha ido reconociendo cada vez más la importancia de la AEPI. El Comité de los Derechos del Niño reconoció inicialmente que ' el derecho a la educación durante la primera infancia comienza en el nacimiento ' (observación general núm. 7), y esto se estableció de forma más explícita en el Marco
+A fines de referencia, la atención y educación de la primera infancia (AEPI) no se menciona explícitamente en la Convención o la Recomendación. Sin embargo, a lo largo de los años, la comunidad internacional ha ido reconociendo cada vez más la importancia de la AEPI. El Comité de los Derechos del Niño reconoció inicialmente que “el derecho a la educación durante la primera infancia comienza en el nacimiento” (observación general núm. 7), y esto se estableció de forma más explícita en el Marco
 
 > 36 Véase la nota 15.
 
 > 37 Véase la nota 16.
-
- Los docentes reciben formación para luchar contra la estigmatización 36
-
- Los planes de estudio están libres de estereotipos 37 y prejuicios
 
 33
 
@@ -1245,7 +1245,7 @@ A  fines  de  referencia,  la  atención  y  educación  de  la  primera  infanc
 
 [[START OF PAGE 34]]
 
-de Acción y Cooperación de Moscú de 2010 38 y,  más recientemente, en la Declaración de Taskent y Compromisos de Acción  para  Transformar  la  Atención  y  Educación  de  la  Primera  Infancia 39 . En  el contexto actual de la agenda Educación 2030, los Estados se comprometieron, en virtud de la meta 4.2, a impartir ' al menos un año de enseñanza preescolar de calidad, gratuita y obligatoria ' .
+de Acción y Cooperación de Moscú de 201038 y, más recientemente, en la Declaración de Taskent y Compromisos de Acción para Transformar la Atención y Educación de la Primera Infancia39. En el contexto actual de la agenda Educación 2030, los Estados se comprometieron, en virtud de la meta 4.2, a impartir “al menos un año de enseñanza preescolar de calidad, gratuita y obligatoria”.
 
 - Indique las medidas adoptadas para garantizar el acceso a una AEPI de calidad ( marque todos los puntos que correspondan ).
 
@@ -1253,9 +1253,9 @@ de Acción y Cooperación de Moscú de 2010 38 y,  más recientemente, en la Dec
 
  Antes de la educación preprimaria, los servicios de AEPI son asequibles
 
- Los servicios de AEPI respetan las necesidades del niño en materia de desarrollo cognitivo y social temprano, aprendizaje fundacional, cuidado sensible, nutrición, salud, seguridad, protección y juego
-
  Los servicios de AEPI son accesibles sin discriminación alguna
+
+ Los servicios de AEPI respetan las necesidades del niño en materia de desarrollo cognitivo y social temprano, aprendizaje fundacional, cuidado sensible, nutrición, salud, seguridad, protección y juego
 
 - Proporcione más detalles sobre las medidas adoptadas.
 
@@ -1287,7 +1287,7 @@ Este ciclo en algunas Comunidades Autónomas es gratuito en los centros público
 
 Asimismo, tal y como se ha mencionado anteriormente, se está desarrollando un programa de Impulso de la Escolarización en el Primer Ciclo de Educación Infantil (prioritariamente para niñas y niños entre 1 y 2 años).  Es por ello que se ha producido un incremento importante de las tasas netas de escolarización del primer ciclo de Educación Infantil entre el 41,3% del curso 2019-2020 y el 48,2% del curso 2023-2024, según los datos provisionales de dicho curso.
 
-##### Segundo ciclo (3 -6 años de edad)
+##### Segundo ciclo (3-6 años de edad)
 
 Este ciclo educativo es voluntario y gratuito, tal y como dispone la LOE en su Artículo 15 , y establece que, a fin de atender las demandas de las familias, las Administraciones educativas garantizarán una oferta suficiente de plazas en los centros públicos y concertarán con centros privados, en el contexto de su programación educativa. En el segundo ciclo de Educación Infantil la escolarización es prácticamente plena, situándose en los últimos años en torno al 98% (97.8% en 2023-2024).
 
@@ -1313,45 +1313,41 @@ Asimismo, la Estrategia Estatal de Derechos de la Infancia y Adolescencia señal
 
 Estrategia Estatal de Derechos de la Infancia y Adolescencia. Área estratégica 4:
 
-- Línea estratégica 1: Garantizar el acceso universal al primer ciclo de educación infantil  especialmente de 0-2 años- con plazas accesibles, asequibles, inclusivas y de calidad.
+- Línea estratégica 1: Garantizar el acceso universal al primer ciclo de educación infantil -especialmente de 0-2 años- con plazas accesibles, asequibles, inclusivas y de calidad.
 
-- o Metas 2025:
+  - Metas 2025:
 
-- Tasa de escolarización a 1 año: 50%.
+    - Tasa de escolarización a 1 año: 50%.
 
-- Tasa de escolarización a 2 años: 75%.
+    - Tasa de escolarización a 2 años: 75%.
 
-- Tasa de escolarización temprana (0-3 años) del primer quintil de renta: 50%.
+    - Tasa de escolarización temprana (0-3 años) del primer quintil de renta: 50%.
 
-- o Meta 2030:
+  - Meta 2030:
 
-- Tasa de escolarización a 1 año (55%) y a 2 años (85%).
+    - Tasa de escolarización a 1 año (55%) y a 2 años (85%).
 
-- Línea 3: Promover la inclusión y la equidad educativas, mejorando los procesos de inclusión e igualdad de oportunidades educativas para el alumnado educativamente vulnerable -en particular,  la  infancia  y  adolescencia  gitana,  de  origen  extranjero,  con  necesidades educativas especiales derivadas de discapacidad, del sistema de protección o que habita en entornos rurales-.
+- Línea 3: Promover la inclusión y la equidad educativas, mejorando los procesos de inclusión e igualdad de oportunidades educativas para el alumnado educativamente vulnerable -en particular, la infancia y adolescencia gitana, de origen extranjero, con necesidades educativas especiales derivadas de discapacidad, del sistema de protección o que habita en entornos rurales-.
 
-- o Meta 2030:
+  - Meta 2030:
 
-- Reducción de la segregación escolar por motivos socioeconómicos, étnicos o de cualquier otro tipo en los centros públicos y concertados.
+    - Reducción de la segregación escolar por motivos socioeconómicos, étnicos o de cualquier otro tipo en los centros públicos y concertados.
 
-- Que  los  centros  ordinarios  cuenten  con  los  recursos  necesarios  para  poder atender en las mejores condiciones al alumnado con discapacidad.
+    - Que los centros ordinarios cuenten con los recursos necesarios para poder atender en las mejores condiciones al alumnado con discapacidad.
 
 Plan de Acción Estatal para la Implementación de la Garantía Infantil Europea (2022-2030):
 
 - Eje estratégico 2: Universalización de los derechos sociales mediante el acceso y disfrute a servicios esenciales de calidad, accesibles e inclusivos:
 
-- o Objetivo 2.1: Garantizar el acceso universal al primer ciclo de educación infantil.
+  - Objetivo 2.1: Garantizar el acceso universal al primer ciclo de educación infantil.
 
-- o Objetivo 2.4: Combatir la segregación escolar:
+    - Meta 2025: ídem EEDIA.
 
-▪
+    - Meta 2030: ídem EEDIA.
 
-- Meta 2025: ídem EEDIA.
+  - Objetivo 2.4: Combatir la segregación escolar:
 
-▪
-
-- Meta 2030: ídem EEDIA.
-
-Meta 2030: reducción significativa del índice de aislamiento a nivel nacional y por comunidad autónoma y ciudades de Ceuta y Melilla.
+    - Meta 2030: reducción significativa del índice de aislamiento a nivel nacional y por comunidad autónoma y ciudades de Ceuta y Melilla.
 
 - ¿Existe una enseñanza preprimaria gratuita y obligatoria?
 
@@ -1409,7 +1405,7 @@ La implantación de las diferentes etapas educativas corresponde a las Administr
 
 #### 2.2 Educación primaria y secundaria
 
-A título de referencia, en el artículo/párrafo 4.a de la Convención y la Recomendación se establece el derecho a la enseñanza primaria y secundaria universal. En el contexto de la agenda Educación 2030, los  Estados  deben  velar  por  que  todos  reciban,  en  virtud  de  la  meta  4.1  de  los  ODS, ' 12  años  de enseñanza primaria y secundaria gratuita, financiada con fondos públicos, inclusiva, equitativa y de calidad, de los cuales no menos de nueve deberán ser obligatorios ' .
+A título de referencia, en el artículo/párrafo 4.a de la Convención y la Recomendación se establece el derecho a la enseñanza primaria y secundaria universal. En el contexto de la agenda Educación 2030, los Estados deben velar por que todos reciban, en virtud de la meta 4.1 de los ODS, “12 años de enseñanza primaria y secundaria gratuita, financiada con fondos públicos, inclusiva, equitativa y de calidad, de los cuales no menos de nueve deberán ser obligatorios”.
 
 ##### Educación primaria
 
@@ -1421,7 +1417,7 @@ La Ley Orgánica 2/2006, de 3 de mayo, de Educación dispone:
 
 ###### Artículo 16. Principios generales.
 
-- La educación primaria es una etapa educativa que comprende seis cursos académicos, que se cursarán ordinariamente entre los seis y los doce años de edad.
+1. La educación primaria es una etapa educativa que comprende seis cursos académicos, que se cursarán ordinariamente entre los seis y los doce años de edad.
 
 ¿Es obligatoria y gratuita la educación primaria?
 
@@ -1481,23 +1477,23 @@ La Ley Orgánica 2/2006, de 3 de mayo, de Educación dispone:
 
 ###### Artículo 3. Las enseñanzas
 
-- La educación primaria, la educación secundaria obligatoria y los ciclos formativos de grado básico constituyen la educación básica.
+3. La educación primaria, la educación secundaria obligatoria y los ciclos formativos de grado básico constituyen la educación básica.
 
-- La educación secundaria se divide en educación secundaria obligatoria y educación secundaria postobligatoria . Constituyen la educación secundaria postobligatoria el bachillerato, la formación profesional de grado medio, las enseñanzas artísticas profesionales tanto de música y de danza como de artes plásticas y diseño de grado medio y las enseñanzas deportivas de grado medio.
+4. La educación secundaria se divide en educación secundaria obligatoria y educación secundaria postobligatoria. Constituyen la educación secundaria postobligatoria el bachillerato, la formación profesional de grado medio, las enseñanzas artísticas profesionales tanto de música y de danza como de artes plásticas y diseño de grado medio y las enseñanzas deportivas de grado medio.
 
 ###### Artículo 4. La enseñanza básica.
 
-- La enseñanza básica comprende diez años de escolaridad y se desarrolla, de forma regular, entre los  seis  y  los  dieciséis  años  de  edad . No  obstante,  los  alumnos  y  alumnas  tendrán  derecho  a permanecer en régimen ordinario cursando la enseñanza básica hasta los dieciocho años de edad, cumplidos en el año en que finalice el curso, en las condiciones establecidas en la presente Ley.
+2. La enseñanza básica comprende diez años de escolaridad y se desarrolla, de forma regular, entre los seis y los dieciséis años de edad. No obstante, los alumnos y alumnas tendrán derecho a permanecer en régimen ordinario cursando la enseñanza básica hasta los dieciocho años de edad, cumplidos en el año en que finalice el curso, en las condiciones establecidas en la presente Ley.
 
 ###### Artículo 22. Principios generales.
 
-- La  etapa  de  educación  secundaria  obligatoria  comprende  cuatro  cursos,  que  se  seguirán ordinariamente entre los doce y los dieciséis años de edad.
+1. La etapa de educación secundaria obligatoria comprende cuatro cursos, que se seguirán ordinariamente entre los doce y los dieciséis años de edad.
 
 ###### Artículo 24. Organización de los cursos primero a tercero de educación secundaria obligatoria.
 
-###### Artículo 25. Organización del cuarto curso de educación secundaria obligatoria .
+###### Artículo 25. Organización del cuarto curso de educación secundaria obligatoria.
 
-- Este cuarto curso tendrá carácter orientador, tanto para los estudios postobligatorios como para la incorporación a la vida laboral.
+4. Este cuarto curso tendrá carácter orientador, tanto para los estudios postobligatorios como para la incorporación a la vida laboral.
 
 39
 
@@ -1507,17 +1503,17 @@ La Ley Orgánica 2/2006, de 3 de mayo, de Educación dispone:
 
 ###### Artículo 28. Evaluación y promoción.
 
-- Al  finalizar  el  segundo  curso  se entregará a los padres, madres o tutores legales de cada alumno o alumna un consejo orientador. Dicho consejo incluirá un informe sobre el grado de logro de los objetivos y de adquisición de las competencias correspondientes, así como una propuesta a padres, madres o tutores legales o, en su caso, al alumno o alumna de la opción más adecuada para continuar su formación, que podrá incluir la incorporación a un Programa de diversificación curricular o a un ciclo formativo de grado básico.
+9. Al finalizar el segundo curso se entregará a los padres, madres o tutores legales de cada alumno o alumna un consejo orientador. Dicho consejo incluirá un informe sobre el grado de logro de los objetivos y de adquisición de las competencias correspondientes, así como una propuesta a padres, madres o tutores legales o, en su caso, al alumno o alumna de la opción más adecuada para continuar su formación, que podrá incluir la incorporación a un Programa de diversificación curricular o a un ciclo formativo de grado básico.
 
 ###### Artículo 30. Ciclos formativos de grado básico.
 
-- Los ciclos formativos de grado básico facilitarán la adquisición de las competencias de educación secundaria obligatoria a través de enseñanzas organizadas en los siguientes ámbitos (…) Asimismo, se podrán incluir otras enseñanzas que contribuyan al desarrollo de las competencias.
+2. Los ciclos formativos de grado básico facilitarán la adquisición de las competencias de educación secundaria obligatoria a través de enseñanzas organizadas en los siguientes ámbitos (…) Asimismo, se podrán incluir otras enseñanzas que contribuyan al desarrollo de las competencias.
 
-###### Artículo 32. Principios generales .
+###### Artículo 32. Principios generales.
 
-- El bachillerato comprende dos cursos, se desarrollará en modalidades diferentes, se organizará de  modo  flexible  y,  en  su  caso,  en  distintas  vías,  a  fin  de  que  pueda  ofrecer  una  preparación especializada  a  los  alumnos  y  alumnas  acorde  con  sus  perspectivas  e  intereses  de  formación  o permita la incorporación a la vida activa una vez finalizado el mismo.
+3. El bachillerato comprende dos cursos, se desarrollará en modalidades diferentes, se organizará de modo flexible y, en su caso, en distintas vías, a fin de que pueda ofrecer una preparación especializada a los alumnos y alumnas acorde con sus perspectivas e intereses de formación o permita la incorporación a la vida activa una vez finalizado el mismo.
 
-El Gobierno, previa consulta con las Comunidades Autónomas, fijará las condiciones en las que el alumnado  pueda  realizar  el  bachillerato  en  tres  cursos,  en  régimen  ordinario,  siempre  que  sus circunstancias personales, permanentes o transitorias, lo aconsejen. En este caso se contemplará la posibilidad de que el alumnado curse simultáneamente materias de ambos cursos de bachillerato .
+El Gobierno, previa consulta con las Comunidades Autónomas, fijará las condiciones en las que el alumnado pueda realizar el bachillerato en tres cursos, en régimen ordinario, siempre que sus circunstancias personales, permanentes o transitorias, lo aconsejen. En este caso se contemplará la posibilidad de que el alumnado curse simultáneamente materias de ambos cursos de bachillerato.
 
 - Indique la edad de matriculación y la duración del segundo ciclo de educación secundaria.
 
@@ -1593,7 +1589,7 @@ A fines de referencia, en el artículo/párrafo 4.a de la Convención y la Recom
 
 [[START OF PAGE 42]]
 
-4.3 40 y 4.4 41 del ODS 4. En el artículo 4 de la Convención se exige a los Estados ' hacer accesible a todos, en  condiciones  de  igualdad  total  y  según  la  capacidad  de  cada  uno,  la  enseñanza  superior ' . En  el artículo 13 del Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966) se añade que esto  debe  perseguirse ' por  cuantos  medios  sean  apropiados,  y  en  particular  por  la  implantación progresiva de la enseñanza gratuita ' . La enseñanza superior incluye la enseñanza y formación técnica y profesional.
+4.340 y 4.441 del ODS 4. En el artículo 4 de la Convención se exige a los Estados “hacer accesible a todos, en condiciones de igualdad total y según la capacidad de cada uno, la enseñanza superior”. En el artículo 13 del Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966) se añade que esto debe perseguirse “por cuantos medios sean apropiados, y en particular por la implantación progresiva de la enseñanza gratuita”. La enseñanza superior incluye la enseñanza y formación técnica y profesional.
 
 -  Indique  los esfuerzos que se han realizado para garantizar que la enseñanza superior, incluida la enseñanza y formación técnica y profesional, sea gratuita y accesible a todos por igual, sobre la base de la capacidad de cada uno ( marque todos los puntos que correspondan ).
 
@@ -1625,33 +1621,31 @@ Por otro lado, la participación de los diferentes sectores de la comunidad univ
 
 1. Se garantizará la igualdad de oportunidades en el acceso a la Universidad y en la continuidad en las enseñanzas universitarias del estudiantado, con independencia de la capacidad económica de las personas o familias y de su lugar de residencia. A tal fin, se reconoce el derecho subjetivo del estudiantado  universitario  a  acceder  a  becas  y  ayudas  al  estudio,  siempre  que  cumpla  con  los requisitos recogidos en las normas reguladoras de las mismas, y de conformidad con los principios fundamentales de igualdad y no discriminación.
 
-> 40 En la que se insta a los Estados a 'asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica , profesional y superior de calidad, incluida la enseñanza universitaria'.
+> 40 En la que se insta a los Estados a “asegurar el acceso igualitario de todos los hombres y las mujeres a una formación técnica, profesional y superior de calidad, incluida la enseñanza universitaria”.
 
-> 41 En  la  que  se  recomienda  'aumentar  considerablemente  el  número  de  jóvenes  y  adultos  que  tienen  las  competencias necesarias, en particular técnicas y profesionales, para acceder al empleo, el trabajo decente y el emprendimiento'.
+> 41 En la que se recomienda “aumentar considerablemente el número de jóvenes y adultos que tienen las competencias necesarias, en particular técnicas y profesionales, para acceder al empleo, el trabajo decente y el emprendimiento”.
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-- El Estado establecerá, con cargo a sus presupuestos generales y sin perjuicio de las competencias de las Comunidades Autónomas, un sistema general de becas y ayudas al estudio.
+2. El Estado establecerá, con cargo a sus presupuestos generales y sin perjuicio de las competencias de las Comunidades Autónomas, un sistema general de becas y ayudas al estudio.
 
 Las  Comunidades  Autónomas,  en  el  ejercicio  de  sus  competencias,  podrán  ofertar  y  regular  un sistema  propio  de  becas  y  ayudas  al  estudio  con  cargo  a  sus  presupuestos.  Asimismo,  las universidades, en el ámbito de sus competencias, podrán establecer su propio sistema de becas y ayudas al estudio con cargo a sus presupuestos.
 
-- El Gobierno regulará de forma básica con carácter de mínimos las modalidades y cuantías de las becas y ayudas al estudio a las que se refiere el apartado anterior, las condiciones económicas y académicas  que  hayan  de  reunir  los  beneficiarios,  así  como  los  supuestos  de  incompatibilidad, revocación, reintegro y cuantos requisitos sean precisos para asegurar la igualdad en el acceso a las citadas becas y ayudas, preservando las competencias de las Comunidades Autónomas que, con cargo a sus presupuestos, regulen y gestionen un sistema de becas y ayudas al estudio. Para asegurar la eficacia del sistema y una gestión descentralizada, se establecerán los oportunos mecanismos de información, coordinación y cooperación entre la Administración General del Estado
-
-y las Administraciones de las Comunidades Autónomas.
+3. El Gobierno regulará de forma básica con carácter de mínimos las modalidades y cuantías de las becas y ayudas al estudio a las que se refiere el apartado anterior, las condiciones económicas y académicas que hayan de reunir los beneficiarios, así como los supuestos de incompatibilidad, revocación, reintegro y cuantos requisitos sean precisos para asegurar la igualdad en el acceso a las citadas becas y ayudas, preservando las competencias de las Comunidades Autónomas que, con cargo a sus presupuestos, regulen y gestionen un sistema de becas y ayudas al estudio. Para asegurar la eficacia del sistema y una gestión descentralizada, se establecerán los oportunos mecanismos de información, coordinación y cooperación entre la Administración General del Estado y las Administraciones de las Comunidades Autónomas.
 
 4. La concesión de las becas y ayudas al estudio contempladas en los apartados 2 y 3 responderá prioritaria y fundamentalmente  a  criterios socioeconómicos, sin perjuicio de los criterios académicos y de otros criterios que, de conformidad con los principios de igualdad e inclusión, puedan, en su caso, establecer las bases reguladoras atendiendo a la discapacidad y sus necesidades de apoyo, al origen nacional y étnico, a las circunstancias sociales, cargas familiares, situaciones de violencia  de  género  y  otras  formas  de  violencia  contra  la  mujer,  así  como  otras  características específicas del estudiantado.
 
 En particular, se tendrán en cuenta la distancia al territorio peninsular y la insularidad y la necesidad de traslado entre las distintas islas y entre éstas y la península con el fin de favorecer la movilidad y el ejercicio del derecho de acceso y continuidad del estudiantado en las enseñanzas universitarias en condiciones de igualdad.
 
-- Con independencia del sistema general de becas a que se refieren los párrafos anteriores, las Comunidades Autónomas podrán ofertar becas y ayudas para el fomento del estudio con cargo a sus fondos propios, conforme a lo establecido en sus correspondientes Estatutos de Autonomía.
+5. Con independencia del sistema general de becas a que se refieren los párrafos anteriores, las Comunidades Autónomas podrán ofertar becas y ayudas para el fomento del estudio con cargo a sus fondos propios, conforme a lo establecido en sus correspondientes Estatutos de Autonomía.
 
-- Para  garantizar  el  acceso  y  la  permanencia  en  los  estudios  universitarios,  las  universidades públicas podrán establecer, con cargo a sus propios presupuestos, modalidades de exención parcial o total del pago de los precios públicos y derechos por prestación de servicios académicos que, en cualquier caso, tomarán en consideración la diversidad del núcleo familiar atendiendo a criterios socioeconómicos. El estudiantado con discapacidad y las víctimas de violencia de género y otras formas  de  violencia  contra  la  mujer  tendrán  derecho  a  una  bonificación  total  por  los  servicios académicos universitarios liquidados en la matrícula en los términos establecidos en la normativa específica y mediante acreditación formal.
+6. Para garantizar el acceso y la permanencia en los estudios universitarios, las universidades públicas podrán establecer, con cargo a sus propios presupuestos, modalidades de exención parcial o total del pago de los precios públicos y derechos por prestación de servicios académicos que, en cualquier caso, tomarán en consideración la diversidad del núcleo familiar atendiendo a criterios socioeconómicos. El estudiantado con discapacidad y las víctimas de violencia de género y otras formas de violencia contra la mujer tendrán derecho a una bonificación total por los servicios académicos universitarios liquidados en la matrícula en los términos establecidos en la normativa específica y mediante acreditación formal.
 
 ###### Artículo 37. Equidad y no discriminación.
 
-- Las universidades favorecerán que las estructuras curriculares de las enseñanzas universitarias resulten inclusivas y accesibles. En particular, adoptarán medidas de acción positiva para que el estudiantado con discapacidad pueda disfrutar de una educación universitaria inclusiva, accesible y adaptable,  en  igualdad  con  el  resto  del  estudiantado,  realizando  ajustes  razonables,  tanto
+2. Las universidades favorecerán que las estructuras curriculares de las enseñanzas universitarias resulten inclusivas y accesibles. En particular, adoptarán medidas de acción positiva para que el estudiantado con discapacidad pueda disfrutar de una educación universitaria inclusiva, accesible y adaptable, en igualdad con el resto del estudiantado, realizando ajustes razonables, tanto
 
 43
 
@@ -1669,15 +1663,15 @@ Las universidades promoverán el acceso a estudios universitarios de las persona
 
 Corresponde al Gobierno, previo informe del Consejo de Universidades, regular:
 
-- Los criterios generales a los que habrán de ajustarse las universidades en materia de convalidación y adaptación  de  estudios cursados en centros académicos  españoles  o  extranjeros.  Este procedimiento deberá estructurarse partiendo de los principios que sustenten el Espacio Europeo de Educación Superior, en cuanto al mutuo reconocimiento de títulos académicos de los países que lo han implementado, así como de acuerdo con el Convenio sobre reconocimiento de cualificaciones relativas a la educación superior en la Región Europea (número 165 del Consejo de Europa), hecho en Lisboa el 11 de abril de 1997.
+a) Los criterios generales a los que habrán de ajustarse las universidades en materia de convalidación y adaptación de estudios cursados en centros académicos españoles o extranjeros. Este procedimiento deberá estructurarse partiendo de los principios que sustenten el Espacio Europeo de Educación Superior, en cuanto al mutuo reconocimiento de títulos académicos de los países que lo han implementado, así como de acuerdo con el Convenio sobre reconocimiento de cualificaciones relativas a la educación superior en la Región Europea (número 165 del Consejo de Europa), hecho en Lisboa el 11 de abril de 1997.
 
-- Las condiciones de homologación de títulos oficiales extranjeros de educación superior con títulos universitarios oficiales españoles.
+b) Las condiciones de homologación de títulos oficiales extranjeros de educación superior con títulos universitarios oficiales españoles.
 
-- Las condiciones para la declaración de equivalencia de un título oficial extranjero de educación superior en relación con el nivel académico universitario oficial de Grado o de Máster Universitario. Los títulos de Grado expedidos por universidades en los Estados miembros de la Unión Europea serán equivalentes, a todos los efectos, a aquellos expedidos por universidades españolas.
+c) Las condiciones para la declaración de equivalencia de un título oficial extranjero de educación superior en relación con el nivel académico universitario oficial de Grado o de Máster Universitario. Los títulos de Grado expedidos por universidades en los Estados miembros de la Unión Europea serán equivalentes, a todos los efectos, a aquellos expedidos por universidades españolas.
 
-- Las condiciones para el reconocimiento académico de la experiencia laboral o profesional, así como la formación a lo largo de la vida.
+d) Las condiciones para el reconocimiento académico de la experiencia laboral o profesional, así como la formación a lo largo de la vida.
 
-- El régimen de convalidaciones y de reconocimiento de créditos entre las enseñanzas oficiales universitarias y las otras enseñanzas que constituyen la educación superior.
+e) El régimen de convalidaciones y de reconocimiento de créditos entre las enseñanzas oficiales universitarias y las otras enseñanzas que constituyen la educación superior.
 
 - ¿Con qué dificultades se ha tropezado para hacer efectiva la educación superior?
 
@@ -1699,7 +1693,7 @@ Corresponde al Gobierno, previo informe del Consejo de Universidades, regular:
 
 #### 2.4 Educación de adultos y aprendizaje alternativo
 
-A fines de referencia, en el artículo/párrafo 4.c de la Convención y la Recomendación se establece el derecho a la enseñanza de adultos y el aprendizaje alternativo. Mientras que el ODS 4 consiste en ' garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos ' , en la meta 4.6 se hace un llamamiento específico a los Estados a ' asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizados y tengan nociones elementales de aritmética ' . Además, en el marco de la meta 4.4, se insta a los Estados a ' aumentar y diversificar las oportunidades de aprendizaje, empleando una amplia gama de modalidades de educación y formación, de tal forma que todos los jóvenes y adultos, en especial las niñas y las mujeres, puedan adquirir conocimientos, aptitudes y competencias pertinentes para el trabajo decente y la vida ' .
+A fines de referencia, en el artículo/párrafo 4.c de la Convención y la Recomendación se establece el derecho a la enseñanza de adultos y el aprendizaje alternativo. Mientras que el ODS 4 consiste en “garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos”, en la meta 4.6 se hace un llamamiento específico a los Estados a “asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizados y tengan nociones elementales de aritmética”. Además, en el marco de la meta 4.4, se insta a los Estados a “aumentar y diversificar las oportunidades de aprendizaje, empleando una amplia gama de modalidades de educación y formación, de tal forma que todos los jóvenes y adultos, en especial las niñas y las mujeres, puedan adquirir conocimientos, aptitudes y competencias pertinentes para el trabajo decente y la vida”.
 
 [[END OF PAGE 44]]
 
@@ -1753,7 +1747,7 @@ A fines de referencia, en el artículo/párrafo 4.c de la Convención y la Recom
 
 ### 3. Educación de calidad y entorno de aprendizaje
 
-A fines de referencia, en los artículos/párrafos 2, 4.b y 5.b de la Convención y la Recomendación se establece el derecho a una educación de calidad. La educación de calidad es fundamental para alcanzar todas las metas del ODS 4. Esto también se destaca particularmente en la meta 4.a de los ODS, en la que se recomienda a los Estados ' construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos ' .
+A fines de referencia, en los artículos/párrafos 2, 4.b y 5.b de la Convención y la Recomendación se establece el derecho a una educación de calidad. La educación de calidad es fundamental para alcanzar todas las metas del ODS 4. Esto también se destaca particularmente en la meta 4.a de los ODS, en la que se recomienda a los Estados “construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos”.
 
 #### 3.1 Medidas generales:
 
@@ -1793,21 +1787,21 @@ Existen  protocolos  en  todas  las  Administraciones  educativas  de  las  comu
 
 ###### Artículo 5. Formación :
 
-'2. Además de lo dispuesto en el apartado anterior, las administraciones públicas, en el ámbito de sus  competencias,  deberán  garantizar  que  el  personal  docente  y  educador  recibe  formación específica en materia de educación inclusiva'.
+“2. Además de lo dispuesto en el apartado anterior, las administraciones públicas, en el ámbito de sus competencias, deberán garantizar que el personal docente y educador recibe formación específica en materia de educación inclusiva”.
 
 ###### Artículo 18. Deberes de información de los centros educativos y establecimientos residenciales :
 
-'Todos los centros educativos al inicio de cada curso escolar, así como  todos los establecimientos en los que habitualmente residan personas menores de edad, en el momento de su ingreso, facilitarán a los niños, niñas y adolescentes toda la información, que, en todo caso,  deberá  estar  disponible  en  formatos  accesibles,  referente  a  los  procedimientos  de comunicación  de  situaciones  de  violencia  regulados  por  las  administraciones  públicas  y aplicados  en  el  centro  o  establecimiento,  así  como  de  las personas  responsables  en  este ámbito'.
+1. “Todos los centros educativos al inicio de cada curso escolar, así como todos los establecimientos en los que habitualmente residan personas menores de edad, en el momento de su ingreso, facilitarán a los niños, niñas y adolescentes toda la información, que, en todo caso, deberá estar disponible en formatos accesibles, referente a los procedimientos de comunicación de situaciones de violencia regulados por las administraciones públicas y aplicados en el centro o establecimiento, así como de las personas responsables en este ámbito”.
 
 ###### Artículo 20. Protección y seguridad :
 
-'Los  centros  educativos  y  de  ocio  y  tiempo  libre,  así  como  los  establecimientos  en  los  que habitualmente residan personas menores de edad adoptarán todas las medidas necesarias para garantizar la protección y seguridad de los niños, niñas y adolescentes que comuniquen una situación de violencia'.
+1. “Los centros educativos y de ocio y tiempo libre, así como los establecimientos en los que habitualmente residan personas menores de edad adoptarán todas las medidas necesarias para garantizar la protección y seguridad de los niños, niñas y adolescentes que comuniquen una situación de violencia”.
 
 ###### Artículo 34. Protocolos de actuación:
 
-'1.  Las  administraciones  educativas  regularán  los  protocolos  de  actuación  contra  el  abuso  y  el maltrato,  el  acoso  escolar,  ciberacoso,  acoso  sexual,  violencia  de  género,  violencia  doméstica, suicidio y autolesión, así como cualquier otra manifestación de violencia comprendida en el ámbito de aplicación de esta ley. Para la redacción de estos protocolos se contará con la participación de niños, niñas y adolescentes, otras administraciones públicas, instituciones y profesionales de los diferentes sectores implicados en la prevención, detección precoz, protección y reparación de la violencia sobre niños, niñas y adolescentes.
+“1. Las administraciones educativas regularán los protocolos de actuación contra el abuso y el maltrato, el acoso escolar, ciberacoso, acoso sexual, violencia de género, violencia doméstica, suicidio y autolesión, así como cualquier otra manifestación de violencia comprendida en el ámbito de aplicación de esta ley. Para la redacción de estos protocolos se contará con la participación de niños, niñas y adolescentes, otras administraciones públicas, instituciones y profesionales de los diferentes sectores implicados en la prevención, detección precoz, protección y reparación de la violencia sobre niños, niñas y adolescentes.
 
-Dichos protocolos deberán ser aplicados en todos los centros educativos, independientemente de su titularidad y evaluarse periódicamente con el fin de valorar su eficacia. Deberán iniciarse cuando el  personal  docente  o  educador  de  los  centros  educativos,  padres  o  madres  del  alumnado  o cualquier  miembro  de  la  comunidad  educativa,  detecten  indicios  de  violencia  o  por  la  mera comunicación de los hechos por parte de los niños, niñas o adolescentes'.
+Dichos protocolos deberán ser aplicados en todos los centros educativos, independientemente de su titularidad y evaluarse periódicamente con el fin de valorar su eficacia. Deberán iniciarse cuando el personal docente o educador de los centros educativos, padres o madres del alumnado o cualquier miembro de la comunidad educativa, detecten indicios de violencia o por la mera comunicación de los hechos por parte de los niños, niñas o adolescentes”.
 
 - ¿Con qué dificultades se ha tropezado para hacer efectiva una educación de calidad?
 
@@ -1831,8 +1825,6 @@ Dichos protocolos deberán ser aplicados en todos los centros educativos, indepe
 
 [[START OF PAGE 48]]
 
-#### 3.2 Personal de educación
-
  Otro:
 
 - Explique. Se pueden añadir breves datos cuantitativos.
@@ -1845,7 +1837,9 @@ Violencia en las escuelas:
 
 - Legislación Relativa a Violencia Frente A Los Niños, Niñas Y Adolescente (documento del Ministerio de Sanidad con toda la legislación al respecto desde el año 2009)
 
-A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recomendación se hace referencia al  personal de educación. Este aspecto corresponde a la meta 4.c de los ODS, que está totalmente dedicada a la profesión docente, ya que pide a los Estados que ' aumenten considerablemente la oferta de docentes calificados ' .
+#### 3.2 Personal de educación
+
+A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recomendación se hace referencia al personal de educación. Este aspecto corresponde a la meta 4.c de los ODS, que está totalmente dedicada a la profesión docente, ya que pide a los Estados que “aumenten considerablemente la oferta de docentes calificados”.
 
 - Indique las medidas que se han adoptado para mejorar las condiciones de enseñanza y de trabajo del personal de educación, especialmente del personal docente de todos los niveles, y en relación con la formación para la profesión docente ( marque todos los puntos que correspondan ).
 
@@ -1907,7 +1901,7 @@ Las actividades educativas extracurriculares se desarrollan por iniciativa de lo
 
 Ley  Orgánica  10/2022,  de  6  de  septiembre,  de  garantía  integral  de  la  libertad  sexual. (2022). (Artículo 7. Prevención y sensabilización en el ámbito educativo).
 
-> 42 En la que se insta a los Estados a 'asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesario s para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida  sostenibles,  los  derechos  humanos,  la  igualdad  de  género,  la  promoción  de  una  cultura  de  paz  y  no  violencia,  la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible'.
+> 42 En la que se insta a los Estados a “asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible”.
 
 49
 
@@ -1963,7 +1957,7 @@ A fines de referencia, en los artículos/párrafos 2.c y 5.1.b de la Convención
 
 Acciones en materia de Salud Sexual y prevención de las ITS dirigidas a jóvenes están recogidas tanto en  el Plan  Estratégico  de  Prevención  y  Control  de  la  Infección  por  el  VIH  y  las  Infecciones  de Transmisión Sexual en España 2021-2030 , como en la Estrategia de Juventud 2030 y en el Primer Plan de Acción de Juventud 2022-2024 .
 
-¿Con qué dificultades se ha tropezado en la impartición de educación no estatal?
+- ¿Con qué dificultades se ha tropezado en la impartición de educación no estatal?
 
  Mala calidad de la infraestructura escolar y el material pedagógico
 
@@ -1991,7 +1985,7 @@ La educación digital permite mejorar el acceso, pero también puede plantear re
 
 La ley Orgánica 2/2006, de 3 de mayo, de Educación . Art. 111 bis.5.
 
-- Las Administraciones educativas y los equipos directivos de los centros promoverán el uso de las tecnologías de la información y la comunicación (TIC) en el aula como medio didáctico apropiado y valioso para llevar a cabo las tareas de enseñanza y aprendizaje. Las Administraciones educativas deberán establecer las condiciones que hagan posible la eliminación en el ámbito escolar de las situaciones de riesgo derivadas de la inadecuada utilización de las TIC, con especial atención a las situaciones de violencia en la red. Se fomentará la confianza y seguridad en el uso de las tecnologías
+5. Las Administraciones educativas y los equipos directivos de los centros promoverán el uso de las tecnologías de la información y la comunicación (TIC) en el aula como medio didáctico apropiado y valioso para llevar a cabo las tareas de enseñanza y aprendizaje. Las Administraciones educativas deberán establecer las condiciones que hagan posible la eliminación en el ámbito escolar de las situaciones de riesgo derivadas de la inadecuada utilización de las TIC, con especial atención a las situaciones de violencia en la red. Se fomentará la confianza y seguridad en el uso de las tecnologías
 
 > 45 Véase la observación general núm. 25 (2021) del Comité de los Derechos del Niño relativa a los derechos de los niños en relación con el entorno digital.
 
@@ -2029,11 +2023,11 @@ Ley  Orgánica  3/2018,  de  5  de  diciembre,  de  Protección  de  Datos  Pers
 
 [[START OF PAGE 53]]
 
-- Plan del Digitalización y Competencias Digitales del Sistema Educativo: https://intef.es/Noticias/plan-de-digitalizacion-y-competencias-digitales-del-sistema-educativo- plan-digedu/
+- Plan del Digitalización y Competencias Digitales del Sistema Educativo: https://intef.es/Noticias/plan-de-digitalizacion-y-competencias-digitales-del-sistema-educativo-plan-digedu/
 
-- Curriculum:  el  Desarrollo  de  la  competencia  digital  está  presente  en  todas  las  etapas  de  la educación  no    universitaria:  https://intef.es/competencia-digital-educativa/competencia-digital- del-alumnado/
+- Curriculum:  el  Desarrollo  de  la  competencia  digital  está  presente  en  todas  las  etapas  de  la educación  no    universitaria:  https://intef.es/competencia-digital-educativa/competencia-digital-del-alumnado/
 
-- Profesorado: Marco de competencia digital español: https://intef.es/wp- content/uploads/2023/04/English-SFDCT_2022.pdf
+- Profesorado: Marco de competencia digital español: https://intef.es/wp-content/uploads/2023/04/English-SFDCT_2022.pdf
 
 - La brecha digital y la conectividad en el hogar: Educa en Digital: https://www.red.es/es/iniciativas/educa-en-digital
 
@@ -2041,7 +2035,7 @@ Ley  Orgánica  3/2018,  de  5  de  diciembre,  de  Protección  de  Datos  Pers
 
 -Informe del Comité de Personas Expertas para el desarrollo de un entorno digital seguro para la juventud y la infancia. 107 medidas a corto, medio y largo plazo para garantizar derechos y proteger el desarrollo. (2024)
 
-¿Con qué dificultades se ha tropezado a la hora de impartir educación digital? (marque todas las que procedan).
+- ¿Con qué dificultades se ha tropezado a la hora de impartir educación digital? (marque todas las que procedan).
 
  Falta  de  contenidos  digitales  de  enseñanza  y aprendizaje de calidad y adaptados a los planes de estudio que respalden vías de aprendizaje y enseñanza flexibles
 
@@ -2077,7 +2071,7 @@ Competencia digital  del  profesorado:  desde 2021,  el  100%  del  profesorado 
 
 ### 4 Consolidación de los sistemas de gobernanza
 
-A fines de referencia, el Marco de Acción Educación 2030 establece que ' para garantizar la calidad de la educación y crear condiciones que permitan obtener resultados eficaces en este ámbito, los gobiernos deberán reforzar los sistemas educativos mediante la creación y mejora de mecanismos de gobernanza y rendición de cuentas adecuados, eficaces e inclusivos; la garantía de la calidad; sistemas de gestión e información de la educación; procedimientos y mecanismos de financiación transparentes y eficaces; y acuerdos institucionales de gestión, así como procurar que se disponga de información fiable, oportuna y accesible ' (párr. 18).
+A fines de referencia, el Marco de Acción Educación 2030 establece que “para garantizar la calidad de la educación y crear condiciones que permitan obtener resultados eficaces en este ámbito, los gobiernos deberán reforzar los sistemas educativos mediante la creación y mejora de mecanismos de gobernanza y rendición de cuentas adecuados, eficaces e inclusivos; la garantía de la calidad; sistemas de gestión e información de la educación; procedimientos y mecanismos de financiación transparentes y eficaces; y acuerdos institucionales de gestión, así como procurar que se disponga de información fiable, oportuna y accesible” (párr. 18).
 
 - Indique  las  medidas  adoptadas  en  términos  de  gobernanza  (marque  todos  los  puntos  que correspondan).
 
@@ -2085,15 +2079,15 @@ A fines de referencia, el Marco de Acción Educación 2030 establece que ' para 
 
  Los resultados del seguimiento se hacen públicos. Indique el enlace.
 
-A partir de la última modificación de la Ley Orgánica de Educación (LOMLOE) que entró en vigor en enero de 2021 y del nuevo currículo derivado de esta ley cuya implantación finalizó en el curso 20232024 está prevista la evaluación del sistema educativo cuyos resultados serán públicos.
+A partir de la última modificación de la Ley Orgánica de Educación (LOMLOE) que entró en vigor en enero de 2021 y del nuevo currículo derivado de esta ley cuya implantación finalizó en el curso 2023-2024 está prevista la evaluación del sistema educativo cuyos resultados serán públicos.
 
 Evaluaciones de la LOMLOE:
 
-https://www.educacionfpydeportes.gob.es/inee/evaluaciones-nacionales/evaluacioneslomloe.html
+https://www.educacionfpydeportes.gob.es/inee/evaluaciones-nacionales/evaluaciones-lomloe.html
 
 Marco  general  de  las  evaluaciones  del  sistema  educativo.  Evaluación  general  del  sistema  y Evaluaciones de diagnóstico
 
-https://www.libreria.educacion.gob.es/libro/marco-general-de-las-evaluaciones-del-sistemaeducativo-evaluacion-general-del-sistema-y-evaluaciones-de-diagnostico_181640/
+https://www.libreria.educacion.gob.es/libro/marco-general-de-las-evaluaciones-del-sistema-educativo-evaluacion-general-del-sistema-y-evaluaciones-de-diagnostico_181640/
 
  Los procesos de seguimiento son participativos, inclusivos y regulares
 
@@ -2117,7 +2111,7 @@ El  Estado  español  está  muy  descentralizado  y  en  el  ámbito  de  educa
 
 Portal del sistema educativo español: https://educagob.educacionfpydeportes.gob.es/inicio.html
 
-¿Con qué dificultades se ha tropezado en términos de gobernanza?
+- ¿Con qué dificultades se ha tropezado en términos de gobernanza?
 
  Limitaciones presupuestarias
 
@@ -2135,7 +2129,7 @@ Las dificultades singulares de cada crisis.
 
 - Explique. Se pueden añadir breves datos cuantitativos.
 
-Estadísticas del sistema educativo español: https://www.educacionfpydeportes.gob.es/servicios-al- ciudadano/estadisticas.html
+Estadísticas del sistema educativo español: https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas.html
 
 Portal del Instituto Nacional de Evaluación Educativa (INEE):
 
@@ -2145,7 +2139,7 @@ https://www.educacionfpydeportes.gob.es/inee/portada.html
 
 A fines de referencia, los órganos rectores de la UNESCO han subrayado la necesidad de llevar a cabo una labor de sensibilización. Dada la importancia de la acción normativa en el plano nacional, es preciso velar por que la Convención se difunda ampliamente, con el apoyo de las comisiones nacionales para la UNESCO.
 
-¿Se  han  llevado  a  cabo  actividades  para  familiarizar  a  las  distintas  autoridades  del  país  con  la Convención y la Recomendación y con sus disposiciones sobre el derecho a la educación, así como para sensibilizarlas a los principios de no discriminación e igualdad de oportunidades educativas? (marque todos los puntos que correspondan).
+- ¿Se  han  llevado  a  cabo  actividades  para  familiarizar  a  las  distintas  autoridades  del  país  con  la Convención y la Recomendación y con sus disposiciones sobre el derecho a la educación, así como para sensibilizarlas a los principios de no discriminación e igualdad de oportunidades educativas? (marque todos los puntos que correspondan).
 
  Traducción de la Convención o la Recomendación a los idiomas nacionales y posiblemente a los idiomas locales
 
