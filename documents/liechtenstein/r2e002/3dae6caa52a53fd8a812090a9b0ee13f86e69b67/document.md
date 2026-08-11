@@ -16,6 +16,25 @@ Issued by: Legal Service of the Gouvernment of the Principality of Liechtenstein
 
 ## Contents
 
+Articles
+Chapter I: The Principality............................................................... 1-6
+Chapter II: The Prince Regnant .................................................. 7-13ter
+Chapter III: Functions of the State ..................................................14-27
+Chapter IV: General Rights and Obligations of Citizens
+of the Principality.........................................................28-44
+Chapter V: The Diet.........................................................................45-70
+Chapter VI: The National Committee .............................................71-77
+Chapter VII: The Government ..........................................................78-94
+Chapter VIII: The Courts
+A. General Provisions..................................................95,96
+B. The Ordinary Courts............................................97-101
+C. The Administrative Court..................................102,103
+D. The State Court...................................................104,105
+Chapter IX: Administrative Bodies and Civil Servants.............106-109
+Chapter X: Communal Affairs ...................................................110,111
+Chapter XI: The Maintenance of the Constitution.....................112,113
+Chapter XII: Final Provisions........................................................114,115
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -464,6 +483,8 @@ The  right  of  complaint  is  guaranteed.  Any  citizen 1 shall  be  entitled  
 
 3)  Subject  to  the  same  conditions  as  in  the  preceding  Paragraph,  1,500 citizens entitled to vote or four communes which have adopted resolutions to that  effect  at  their  communal  assemblies  may  demand  a  referendum  with regard to the dissolution of the Diet. 6
 
+### Art. 49
+
 1) The regular convocation of the Diet shall be issued at the beginning of every year in the form of a Princely edict, indicating the place, day and hour of the assembly.
 
 2) The sessions of the Diet during the course of the year shall be decreed by its President.
@@ -502,13 +523,13 @@ Should  the  Diet  be  dissolved,  new  elections  must  take  place  within  si
 
 ### Art. 52
 
-1) At its first regularly convened sitting, the Diet shall proceed, under the chairmanship of its oldest member, to the election of a President and a VicePresident from among its members to direct its business for the current year.
+1) At its first regularly convened sitting, the Diet shall proceed, under the chairmanship of its oldest member, to the election of a President and a Vice-President from among its members to direct its business for the current year.
 
 2) Annulled 3
 
 ### Art. 53 4
 
-The Representatives shall be bound to attend in person at the seat of the Government in compliance with the notice of convocation. If a Representative is impeded from attending, he must, on receiving the first notice of convocation,  promptly  notify  the  Government  and  subsequently  the  President, stating the reasons preventing his attendance. If the impediment is of a permanent  nature,  a  by-election  shall  be  held,  if  the  Representative  cannot  be replaced by the substitution system.
+The Representatives shall be bound to attend in person at the seat of the Government in compliance with the notice of convocation. If a Representative is impeded from attending, he must, on receiving the first notice of con-
 
 > 1 Art. 49 Para. 4 inserted by LGBl. 1939 No. 3.
 
@@ -523,6 +544,8 @@ The Representatives shall be bound to attend in person at the seat of the Govern
 [[START OF PAGE 19]]
 
 19
+
+vocation, promptly notify the Government and subsequently the President, stating the reasons preventing his attendance. If the impediment is of a permanent nature, a by-election shall be held, if the Representative cannot be replaced by the substitution system.
 
 ### Art. 54
 
@@ -590,21 +613,21 @@ In particular, the following matters shall fall within the sphere of activity of
 
 21
 
-- participation in the work of legislation in accordance with the Constitution;
+a) participation in the work of legislation in accordance with the Constitution;
 
-- participation in the conclusion of treaties (Art. 8);
+b) participation in the conclusion of treaties (Art. 8);
 
-- the establishment of the annual budget and the authorization of taxes and other public dues;
+c) the establishment of the annual budget and the authorization of taxes and other public dues;
 
-- resolutions on credits, pledges and loans chargeable to the State, and the purchase and sale of State property;
+d) resolutions on credits, pledges and loans chargeable to the State, and the purchase and sale of State property;
 
-- the resolution on the annual report furnished annually by the Government on the whole of the State administration;
+e) the resolution on the annual report furnished annually by the Government on the whole of the State administration;
 
-- the submission of suggestions and complaints and the exercise of control with regard to the State administration as a whole (Art. 63); 1
+f) the submission of suggestions and complaints and the exercise of control with regard to the State administration as a whole (Art. 63); 1
 
-- the impeachment of members of the Government before the State Court for breaches of the Constitution or of other laws. 2
+g) the impeachment of members of the Government before the State Court for breaches of the Constitution or of other laws. 2
 
-- the passing of a resolution on a vote of no confidence in the Government or one of its members. 3
+h) the passing of a resolution on a vote of no confidence in the Government or one of its members. 3
 
 ### Art. 63
 
@@ -646,11 +669,11 @@ The Diet shall have the right to appoint a Finance Commission to which the passi
 
 1) The right of initiative with regard to legislation, that is to say, the right of introducing bills, shall appertain to:
 
-- the Prince Regnant, in the form of Government bills;
+a) the Prince Regnant, in the form of Government bills;
 
-- the Diet itself;
+b) the Diet itself;
 
-- citizens with the right to vote, subject to the following provisions.
+c) citizens with the right to vote, subject to the following provisions.
 
 2)  If  not  less  than  1,000  citizens  entitled  to  vote,  whose  signatures  and qualification to vote are duly certified by the authorities of the commune in which they reside, submit a petition in writing or if at least three communes do so in the form of resolutions of the communal assembly in similar terms requesting  the  enactment,  amendment  or  revocation  of  a  law,  such  petition must he debated at the next session of the Diet. 3
 
@@ -776,7 +799,7 @@ The National Committee (Landesausschuss) shall be constituted to act in place of
 
 ### Art. 72
 
-1)  The  National  Committee  shall  be  composed  of  the  President  of  the Diet, who shall be represented if unable to attend by his deputy, and of four other members, to be elected by the Diet from its midst, equal consideration being given to the Upper Country (Oberland) and the Lower Country (Unterland).
+1) The National Committee shall be composed of the President of the Diet, who shall be represented if unable to attend by his deputy, and of four other members, to be elected by the Diet from its midst, equal consideration
 
 > 1 Art. 70 amended by LGBl. 2003 No. 186.
 
@@ -785,6 +808,8 @@ The National Committee (Landesausschuss) shall be constituted to act in place of
 [[START OF PAGE 27]]
 
 27
+
+being given to the Upper Country (Oberland) and the Lower Country (Unterland).
 
 2) Under all circumstances, the Diet must be enabled to hold this election during the same session at which its prorogation, closing or dissolution is announced.
 
@@ -796,17 +821,17 @@ The term of office of the National Committee shall expire when the Diet reconven
 
 The National Committee shall have the following special powers and duties:
 
-- to  ensure  that  the  Constitution  is  observed,  that  steps  are  taken  for  the execution of the decisions of the Diet, and, if the Diet should have been dissolved or adjourned, that it is reconvened within the prescribed time;
+a) to ensure that the Constitution is observed, that steps are taken for the execution of the decisions of the Diet, and, if the Diet should have been dissolved or adjourned, that it is reconvened within the prescribed time;
 
-- to audit the accounts of the State Treasury and to transmit the same to the Diet, together with its report and proposals;
+b) to audit the accounts of the State Treasury and to transmit the same to the Diet, together with its report and proposals;
 
-- to append its signature to acknowledgements in respect of debts and securities made out against the State Treasury in pursuance of a previous resolution of the Diet;
+c) to append its signature to acknowledgements in respect of debts and securities made out against the State Treasury in pursuance of a previous resolution of the Diet;
 
-- to carry out special tasks entrusted to it by the Diet for the preparation of future proceedings of the latter;
+d) to carry out special tasks entrusted to it by the Diet for the preparation of future proceedings of the latter;
 
-- in urgent cases, to bring matters to the notice of the Prince Regnant or the Government,  and  to  lodge  representations,  protests  or  remonstrances  in the case of any menace to or violation of constitutional rights; 1
+e) in urgent cases, to bring matters to the notice of the Prince Regnant or the Government, and to lodge representations, protests or remonstrances in the case of any menace to or violation of constitutional rights; 1
 
-- should  the  circumstances  require  it,  to  propose  the  convocation  of  the Diet.
+f) should the circumstances require it, to propose the convocation of the Diet.
 
 ### Art. 75
 
@@ -818,9 +843,9 @@ The National Committee may not enter into any permanent obligation on behalf of 
 
 [[START OF PAGE 28]]
 
-### Art. 76
-
 28
+
+### Art. 76
 
 1) The meetings of the National Committee shall take place as required at the seat of the Government upon convocation by the President.
 
@@ -856,9 +881,9 @@ During the sessions of the National Committee, its members shall receive the sam
 
 [[START OF PAGE 29]]
 
-### Art. 79
-
 29
+
+### Art. 79
 
 1) The Collegial Government shall consist of the Head of the Government and four Government Councillors 1 .
 
@@ -876,7 +901,7 @@ During the sessions of the National Committee, its members shall receive the sam
 
 1)  If  the  Government loses the confidence of the Prince Regnant or the Diet, it shall lose its power to exercise its functions. For the period until the new Government takes office, the Prince, by application of the provisions of Art. 79 Paras. 1 and 4, shall appoint an interim Government to carry out the administration of the state (Art. 79 Para. 1). After four months at the latest, the  interim  Government  shall  submit  to  a  vote  of  confidence  in  the  Diet unless the Prince has previously appointed a new Government on the Diet's recommendation (Art. 79 Para. 2).
 
-2)  If  a  member  of  the  Government  should  lose  the  confidence  of  the Prince Regnant or the Diet, the decision on whether to allow him or her to continue in office shall be taken by the Prince Regnant in agreement with the Diet.  Until  the  new  member  is  appointed,  his  official  duties  shall  be  performed by his deputy.
+2) If a member of the Government should lose the confidence of the Prince Regnant or the Diet, the decision on whether to allow him or her to
 
 > 1 Art. 79 Para. 1 amended by LGBl. 1965 No. 22
 
@@ -897,6 +922,8 @@ During the sessions of the National Committee, its members shall receive the sam
 [[START OF PAGE 30]]
 
 30
+
+continue in office shall be taken by the Prince Regnant in agreement with the Diet. Until the new member is appointed, his official duties shall be performed by his deputy.
 
 ### Art. 81 1
 
@@ -930,9 +957,9 @@ The  Head  of  the  Government  shall  preside  at  meetings  of  the  Governmen
 
 [[START OF PAGE 31]]
 
-### Art. 86
-
 31
+
+### Art. 86
 
 1) The Head of the Government shall submit reports by word of mouth or in writing to the Prince Regnant with regard to matters placed under the authority of the Sovereign.
 
@@ -1000,21 +1027,21 @@ At the beginning of each period of office, the Collegial Government shall distri
 
 The following matters in particular shall fall within the sphere of action of the Government:
 
-- surveillance  over  all  authorities  and  officials  placed  under  the  Government, and the exercise of disciplinary powers in respect of officials;
+a) surveillance over all authorities and officials placed under the Government, and the exercise of disciplinary powers in respect of officials;
 
-- the allotment of the staff required for the Government and the other authorities;
+b) the allotment of the staff required for the Government and the other authorities;
 
-- supervision  of  the  prisons  and  of  the  treatment  of  persons  detained  in custody and of convicts;
+c) supervision of the prisons and of the treatment of persons detained in custody and of convicts;
 
-- the administration of buildings belonging to the State;
+d) the administration of buildings belonging to the State;
 
-- supervision of the despatch of business by the Princely Court to ensure that  it  is  conducted  lawfully  and  diligently  and  the  notification  to  the High Court of Appeal of any irregularities observed;
+e) supervision of the despatch of business by the Princely Court to ensure that it is conducted lawfully and diligently and the notification to the High Court of Appeal of any irregularities observed;
 
-- the preparation of the report on its official activities to be submitted annually to the Diet;
+f) the preparation of the report on its official activities to be submitted annually to the Diet;
 
-- the  preparation  of  Government  bills  for  submission  to  the  Diet  and  the expression of its opinion on proposals submitted to it for that purpose by the Diet;
+g) the preparation of Government bills for submission to the Diet and the expression of its opinion on proposals submitted to it for that purpose by the Diet;
 
-- the deciding of urgent expenditure not provided for in the estimates.
+h) the deciding of urgent expenditure not provided for in the estimates.
 
 ### Art. 94 1
 
@@ -1044,7 +1071,7 @@ The organization of the administration shall be established by law.
 
 1) For the selection of judges, the Prince Regnant and the Diet shall refer to a joint commission chaired by the Prince, who shall have a casting vote. He may appoint as many members to this body as the Diet delegates representatives. The Diet shall appoint one member for each electoral group represented in it.  The  Government shall appoint the member of the Government responsible  for  supervising  the  administration  of  justice.  The  commission's deliberations  shall  be  confidental.  The  commission  may  only  recommend candidates  to  the  Diet  with  the  Prince's  assent.  If  the  Diet  chooses  the  recommended candidate, he or she shall be appointed a judge by the Prince.
 
-2) If the Diet rejects a candidate recommended by the commission and no agreement  on  a  new  candidate  can  be  reached  within  four  weeks,  the  Diet shall propose its own candidate and set a date for a referendum. In the event of a referendum, the citizens entitled to vote shall have the right to nominate candidates under the conditions of an initiative (Art. 64). If the vote concerns more than two candidates, a second ballot must be held pursuant to Art. 113 Para. 2. The candidate who receives the absolute majority of votes cast shall be appointed a judge by the Prince.
+2) If the Diet rejects a candidate recommended by the commission and no agreement on a new candidate can be reached within four weeks, the Diet
 
 > 1 Title preceding Art. 95 inserted by LGBl. 2003 No. 186
 
@@ -1059,6 +1086,8 @@ The organization of the administration shall be established by law.
 [[START OF PAGE 35]]
 
 35
+
+shall propose its own candidate and set a date for a referendum. In the event of a referendum, the citizens entitled to vote shall have the right to nominate candidates under the conditions of an initiative (Art. 64). If the vote concerns more than two candidates, a second ballot must be held pursuant to Art. 113 Para. 2. The candidate who receives the absolute majority of votes cast shall be appointed a judge by the Prince.
 
 3)  A  judge  appointed  for  a  fixed  period  shall  remain  in  office  until  his successor is sworn in.
 
@@ -1216,13 +1245,13 @@ Members of the Government, State officials, and all mayors, their deputies and t
 
 2) The laws concerning the communes shall establish the following principles:
 
-- free election of the mayor and of the other officials of the commune by the communal assembly;
+a) free election of the mayor and of the other officials of the commune by the communal assembly;
 
-- autonomous management of the communal property and administration of the local police under the supervision of the Government;
+b) autonomous management of the communal property and administration of the local police under the supervision of the Government;
 
-- maintenance of a well-ordered poor-relief system under the supervision of the Government;
+c) maintenance of a well-ordered poor-relief system under the supervision of the Government;
 
-- the right of the commune to grant citizenship and the freedom of citizens 3 of the Principality to reside in any commune.
+d) the right of the commune to grant citizenship and the freedom of citizens 3 of the Principality to reside in any commune.
 
 > 1 Art. 109 (109bis) inserted by LGBl. 1964 Nr. 10 and amended by LGBl. 2003 No. 186.
 
@@ -1328,7 +1357,8 @@ Felsberg, 2nd October 1921
 
 Signed: Johann
 
-Signed: Johann Signed: Jos. Ospelt Princely Counsellor
+Signed: Jos. Ospelt
+Princely Counsellor
 
 My dear Nephew Prince Karl,
 
@@ -1338,8 +1368,8 @@ I remain, My Dear Nephew, always your most affectionate Uncle.
 
 Felsberg, 2nd October 1921
 
+Signed: Johann
 Signed: Jos. Ospelt
-
 Princely Counsellor
 
 [[END OF PAGE 43]]
