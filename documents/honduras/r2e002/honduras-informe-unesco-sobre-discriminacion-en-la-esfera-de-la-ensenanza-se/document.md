@@ -26,7 +26,10 @@ Comisión UNESCO-SE Dirección General de Modalidades Sub-Dirección General de 
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+I. Introducción ........................................................................................................................6
+II. Información sobre las medidas legislativas, judiciales, administrativas o de otra índole adoptada por el Estado a escala nacional ................................................................................8
+III. Informe sobre la aplicación de la Convención o la Recomendación.............................15
+IV. Métodos Utilizados para familiarizar a las diferentes autoridades del país con los instrumentos y superar los obstáculos encontrados .............................................................409
 
 [[END OF PAGE 3]]
 
@@ -42,7 +45,7 @@ El derecho a la educación es hoy en día uno de los principios clave que susten
 
 La Convención ha sido reconocida como la piedra angular de la agenda Educación 2030. Además, representa una poderosa herramienta para avanzar en la consecución del ODS  4, asegurando una articulación efectiva entre la labor normativa y operacional.
 
-En el Estado de Honduras, la acción nacional destinada a hacer que la educación de calidad,  sea  accesible  a  todos  sin  discriminación  es  altamente  enfatizada.  Entre  las medidas concretas adoptadas de conformidad con las obligaciones legales del Estado y  en  virtud  del  Convenio  y  la  Recomendación  contribuyen  a  este  proceso.  Como evidencia y atendiendo el Artículo VIII de la Constitución de la UNESCO que establece que "Cada Estado Miembro someterá a la Organización, en el momento y en la forma que  se  determine  la  Conferencia  General,  informes  sobre  las  leyes,  reglamentos  y estadísticas  relativos  a  sus  instituciones  educativas,  científicas  e  instituciones  y actividades  culturales,  así  como  sobre  el  curso  dado  a  las  recomendaciones  y convenciones  a  que  se  refiere  el  artículo  IV,  párrafo  4'.  Por  lo  tanto,  el  Estado  de Honduras satisfactoriamente somete a los miembros de la Organización el presente informe sobre la aplicación.
+En el Estado de Honduras, la acción nacional destinada a hacer que la educación de calidad, sea accesible a todos sin discriminación es altamente enfatizada. Entre las medidas concretas adoptadas de conformidad con las obligaciones legales del Estado
 
 Informe de Gestión Bienios 16-17, 18-19 y 20-21 ,  Julio-2020
 
@@ -52,7 +55,9 @@ Informe de Gestión Bienios 16-17, 18-19 y 20-21 ,  Julio-2020
 
 [[START OF PAGE 5]]
 
-El  proceso  de  elaboración  del  informe  se  procuró  hacerlo  participativo  llevándose  a cabo en cooperación con otras Secretarías de Estado, Universidades e Institutos como ser: Secretaría de Derechos Humanos, Universidad Nacional Autónoma de Honduras, Consejo de Educación Superior, así como diferentes direcciones y subdirecciones de la Secretaria de Educación
+y en virtud del Convenio y la Recomendación contribuyen a este proceso. Como evidencia y atendiendo el Artículo VIII de la Constitución de la UNESCO que establece que "Cada Estado Miembro someterá a la Organización, en el momento y en la forma que se determine la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativos a sus instituciones educativas, científicas e instituciones y actividades culturales, así como sobre el curso dado a las recomendaciones y convenciones a que se refiere el artículo IV, párrafo 4”. Por lo tanto, el Estado de Honduras satisfactoriamente somete a los miembros de la Organización el presente informe sobre la aplicación.
+
+El proceso de elaboración del informe se procuró hacerlo participativo llevándose a cabo en cooperación con otras Secretarías de Estado, Universidades e Institutos como ser: Secretaría de Derechos Humanos, Universidad Nacional Autónoma de Honduras, Consejo de Educación Superior, así como diferentes direcciones y subdirecciones de la Secretaria de Educación
 
 Informe de Gestión Bienios 16-17, 18-19 y 20-21 ,  Julio-2020
 
@@ -74,17 +79,17 @@ Organización o entidad responsable de la preparación del informe: Secretaria d
 
 Honduras ratificó la 'Convención de 1960 Relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza' el 05 de septiembre de 2013 .
 
-### Ratificación del Protocolo para instituir una Comisión de Conciliación y Buenos Oficios facultada para resolver las controversias que puedan plantearse entre Estados Partes en la  Convención  relativa  a  la  Lucha  contra  las  Discriminaciones  en  la  Esfera  de  la Enseñanza 1
+### 2. Ratificación del Protocolo para instituir una Comisión de Conciliación y Buenos Oficios facultada para resolver las controversias que puedan plantearse entre Estados Partes en la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza¹
 
 ¿Ha ratificado su país el Protocolo? Sí
 
-### Marco jurídico que rige la protección de los derechos consagrados en la Convención y la Recomendación en el ordenamiento jurídico interno
+### 3. Marco jurídico que rige la protección de los derechos consagrados en la Convención y la Recomendación en el ordenamiento jurídico interno
 
 Honduras un Estado parte de la Convención .
 
 La  Secretaria  de  Estado  en  el  Despacho  de  Educación  en  los  últimos  años  se  ha  fortalecido legalmente con la aprobación/creación de Leyes, Decretos, Acuerdos, Reglamentos,  creando en el año  2012  la  Ley  Fundamental  de  Educación,  que  viene  aparejada  con  un  cuerpo  Legal    de    22 reglamentos  que  regulan  toda la actividad Educativa del País, siendo la preocupación fundamental de esta Ley en general LOS EDUCANDOS, SUS DERECHOS, ASI COMO LAS OBLIGACIONES DE LOS PROFESIONALES DE LA DOCENCIA QUE SE DEDICAN A ESTA ACTIVIDAD, DE ELEVAR INCLUSIVE SU NIVEL EDUCATIVO Y CULTURAL PARA EL LOGRO DEL MEJOR PROVECHO DE LOS EDUCANDOS DEL SISTEMA EDUCATIVO, TANTO PUBLICO COMO PRIVADO.
 
-Asimismo,  se  implementa  la  Ley  de  Fortalecimiento  a  la  Educación  Pública  y  a  la  Participación comunitaria, cuyo propósito es mejorar la calidad educativa mediante la participación de los padres, madres de familia y la comunidad, a través de la creación de instancias de participación comunitaria, escolar  y  parental  como  los  Consejos  Municipales  de  Desarrollo  Educativo  COMDE,  Consejos Escolares de Desarrollo CED, Asociación de Padres de Familia APF, Gobiernos Estudiantiles GE y Escuela Para Padres y Madres de Familia, Tutores y/o Encargados. Estas instancias contribuyen a armonizar  esfuerzos,  optimizar  recursos  materiales  y  financieros  participando  en  la  toma  de decisiones  y  siendo  veedores  de  todos  los  procesos  educativos,  con  la  finalidad  de  garantizar  su transparencia.
+Asimismo, se implementa la Ley de Fortalecimiento a la Educación Pública y a la Participación comunitaria, cuyo propósito es mejorar la calidad educativa mediante la participación de los padres, madres de familia y la comunidad, a través de la creación de instancias de participación comunitaria,
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
@@ -92,13 +97,15 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 [[START OF PAGE 7]]
 
-Si bien el Estado de Honduras venía sufriendo del impase de la lucha laboral de los docentes,  que violentaba  el  derecho  a  la  formación  educacional  de  los  educandos  hondureños,  esta  situación  ha sido  solventada  de  la  mejor  manera  posible,  recordando  que  el  derecho  de  los  niños,  niñas  y adolescentes del país, es la prioridad del Estado, de la docencia y en sí de la sociedad en general, siendo supremacía este deber del Estado preocuparse por el mejor logro de los educandos ya que en ellos se asienta asimismo el futuro del país.
+escolar y parental como los Consejos Municipales de Desarrollo Educativo COMDE, Consejos Escolares de Desarrollo CED, Asociación de Padres de Familia APF, Gobiernos Estudiantiles GE y Escuela Para Padres y Madres de Familia, Tutores y/o Encargados. Estas instancias contribuyen a armonizar esfuerzos, optimizar recursos materiales y financieros participando en la toma de decisiones y siendo veedores de todos los procesos educativos, con la finalidad de garantizar su transparencia.
+
+Si bien el Estado de Honduras venía sufriendo del impase de la lucha laboral de los docentes, que violentaba el derecho a la formación educacional de los educandos hondureños, esta situación ha sido solventada de la mejor manera posible, recordando que el derecho de los niños, niñas y adolescentes del país, es la prioridad del Estado, de la docencia y en sí de la sociedad en general, siendo supremacía este deber del Estado preocuparse por el mejor logro de los educandos ya que en ellos se asienta asimismo el futuro del país.
 
 Es  cierto  que  en  la  actualidad  el  país,  está  siendo  objeto  de  violencia  por  los  jóvenes  que  han ingresado a asociaciones ilícitas, que están tratando de controlar los Centros Educativos así como la docencia y alumnado en general; El Estado de Honduras, ha tomado la gobernanza, como  marco principal  del  Estado  y  se  encuentra  tomando  las  medidas  necesarias  del  caso,  para  erradicar totalmente la violencia en los Centros Educativos del país y las comunidades, para mejorar la calidad de los aprendizajes,  evitar la deserción de las y los educandos provocando colocar a estos niños, niñas y adolescentes en estado de riesgo social.
 
 Para ello y entre otras acciones la Secretaría de Educación ha establecido Convenio con la Secretaría de Seguridad  para  implementar  el programa  Miles  de  Manos,  capacitación  a  consejeros  y orientadores en temas de psicoemocionales y prevención de violencia en centros educativos, entrega de incentivos tecnológicos y material educativo a educandos y docentes, mejora de infraestructura en el  centro  educativo  y  su  entorno,  construcción  de  canchas  deportivas  y  parques  comunitarios, implementación  de  programas  como  cine  comunitario,  murales  artísticos,  familias  fuertes.  Todos estas acciones se ejecutan con la participación activa de las diferentes instancias de participación, visualizando  la  escuela  dentro  de  un  ecosistema,  para  que  los  aprendizajes  sean  significativos, relevantes y útiles para la vida, como una manera de lograr calidad y permanencia.
 
-El Estado de Honduras, a través de la Secretaría de Estado en el Despacho de Educación se adhiere a los convenios internacionales y en el presente caso al Adherirse a la Convención de la lucha contra la discriminación en la esfera de la enseñanza informa que, siendo Honduras  un Estado de Derecho, emite, Leyes, acuerdos, decretos, reglamentos, Contemplados en la Constitución de La República, que  impiden  se  efectúe  discriminación  alguna  en  cuanto  a  la  Educación  o  Enseñanza  se  refiere, relacionando así pues artículos de la Constitución de La República, tales como los artículos: 15 al 18, artículos 59 al 64, 72, 74, 75, 119 al 126; se informa asimismo que la Ley de La Niñez y Adolescencia ha sido reformado, Código de Familia reformado, Los Convenios y Tratados suscritos por Honduras con respecto a los niños, Niñas y Adolescentes del País. Convenciones de las declaraciones de los Derechos Humanos, contemplados en la Constitución de La República, la suscripción del Convenio que nos ocupa entre otros y que es la que rige la función estatal en general.
+El Estado de Honduras, a través de la Secretaría de Estado en el Despacho de Educación se adhiere a los convenios internacionales y en el presente caso al Adherirse a la Convención de la lucha contra la discriminación en la esfera de la enseñanza informa que, siendo Honduras un Estado de Derecho, emite, Leyes, acuerdos, decretos, reglamentos, Contemplados en la Constitución de La República, que impiden se efectúe discriminación alguna en cuanto a la Educación o Enseñanza se refiere,
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
@@ -106,17 +113,21 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 [[START OF PAGE 8]]
 
-Lo antes expresado puede verse en la reforma que sufrió la Ley de la Administración Pública, a través de  la Ley  para  optimizar  la  Administración  Pública,  mejorar  los  servicios  a  la  ciudadanía  y fortalecimiento de la transparencia en el gobierno, publicada en el Diario La Gaceta No.33,336, de fecha 23 de enero del 2014, según Decreto   No.266-2013,  ley ésta,  que determina el interés del Estado de Honduras por cumplir y adherirse a los Convenios y Tratados Internacionales, pudiendo mencionar entre otros el artículo 6 que relaciona el Decreto legislativo No.286-2009, contentivo de la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras, la Administración Pública tiene una conducción estratégica y por resultados, lo que implica  diseñar  sus  planes,  fijar  sus  objetivos  y  metas,  asignar  recursos,  asegurar  la  coordinación entre  los  órganos  y  actividades  estatales,  ejecutar  efectiva  y  eficientemente  los  proyectos  y programas, hacer sus seguimientos y evaluar sus resultados alcanzados. Asimismo contiene esta Ley Administrativa el artículo 29: Para la Administración General del país, que  la Constitución  de  La República   confiere   al   Poder    Ejecutivo, las   Secretarías   de Estado tendrán  las    siguientes competencias:
+relacionando así pues artículos de la Constitución de La República, tales como los artículos: 15 al 18, artículos 59 al 64, 72, 74, 75, 119 al 126; se informa asimismo que la Ley de La Niñez y Adolescencia ha sido reformado, Código de Familia reformado, Los Convenios y Tratados suscritos por Honduras con respecto a los niños, Niñas y Adolescentes del País. Convenciones de las declaraciones de los Derechos Humanos, contemplados en la Constitución de La República, la suscripción del Convenio que nos ocupa entre otros y que es la que rige la función estatal en general.
+
+Lo antes expresado puede verse en la reforma que sufrió la Ley de la Administración Pública, a través de la Ley para optimizar la Administración Pública, mejorar los servicios a la ciudadanía y fortalecimiento de la transparencia en el gobierno, publicada en el Diario La Gaceta No.33,336, de fecha 23 de enero del 2014, según Decreto No.266-2013, ley ésta, que determina el interés del Estado de Honduras por cumplir y adherirse a los Convenios y Tratados Internacionales, pudiendo mencionar entre otros el artículo 6 que relaciona el Decreto legislativo No.286-2009, contentivo de la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras, la Administración Pública tiene una conducción estratégica y por resultados, lo que implica diseñar sus planes, fijar sus objetivos y metas, asignar recursos, asegurar la coordinación entre los órganos y actividades estatales, ejecutar efectiva y eficientemente los proyectos y programas, hacer sus seguimientos y evaluar sus resultados alcanzados. Asimismo contiene esta Ley Administrativa el artículo 29: Para la Administración General del país, que la Constitución de La República confiere al Poder Ejecutivo, las Secretarías de Estado tendrán las siguientes competencias:
 
 Coordinación General del Gobierno : Auxiliar al Presidente de la República en la coordinación de la administración  pública;  la  planificación  estratégica,  en  el  marco  de  la  Visión  del  País,  y  Plan  de Nación…
 
-Derechos  Humanos,  Justicia,  Gobernación  y  Descentralización,  Regímenes  Departamental, Distrital y  Municipal: Lo concerniente al Gobierno  Interior de la República, incluyendo la coordinación,  enlace,  supervisión  y  evaluación  de  los  regímenes  departamental  y  municipal;  la descentralización y la participación ciudadana; el desarrollo económico local; la infraestructura social y el equipamiento en el ámbito local; el ordenamiento territorial; el apoyo técnico a las municipalidades y la asociaciones civiles de vecinos y patronatos; las regulaciones de los espectáculos públicos y la protección de La Niñez y Juventud, la salud pública y el orden público en relación a los medios de comunicación social, publicaciones escritas y redes sociales, lo relativo a la colegiación  profesional,  lo  referente  a  población      comprendiendo      la    ciudadanía,  nacionalidad, extranjería  y  la  regulación  y  control  de  la  migración;  la  publicación  de  las  Leyes,  reglamentos  y disposiciones  de  carácter  general,  la  prevención  de  contingencias  y  el  combate  de  incendios,  lo referente a las políticas, planes y programas para la promoción y defensa de los derechos humanos, el  acceso  y  la  aplicación  de    la  justicia,  el  sistema  penitenciario  nacional,  el  otorgamiento  y cancelación de personalidad jurídica de todos los entes civiles siempre que las leyes especiales no confieran esta potestad a otros órganos del Estado, la regulación, registro, auditoría y seguimiento de las asociaciones civiles, todo lo relacionado con la organización, promoción y desarrollo del deporte; acceso a la justicia y la solución extrajudicial de conflictos.
+Derechos Humanos, Justicia, Gobernación y Descentralización, Regímenes Departamental, Distrital y Municipal: Lo concerniente al Gobierno Interior de la República, incluyendo la coordinación, enlace, supervisión y evaluación de los regímenes departamental y municipal; la descentralización y la participación ciudadana; el desarrollo económico local; la infraestructura social y el equipamiento en el ámbito local; el ordenamiento territorial; el apoyo técnico a las municipalidades y la asociaciones civiles de vecinos y patronatos; las regulaciones de los espectáculos públicos y la protección de La Niñez y Juventud, la salud pública y el orden público en relación a los medios de comunicación social, publicaciones escritas y redes sociales, lo relativo a la colegiación profesional, lo referente a población comprendiendo la ciudadanía, nacionalidad, extranjería y la regulación y control de la migración; la publicación de las Leyes, reglamentos y disposiciones de carácter general, la prevención de contingencias y el combate de incendios, lo referente a las políticas, planes y programas para la promoción y defensa de los derechos humanos, el acceso y la aplicación de la justicia, el sistema penitenciario nacional, el otorgamiento y
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+cancelación de personalidad jurídica de todos los entes civiles siempre que las leyes especiales no confieran esta potestad a otros órganos del Estado, la regulación, registro, auditoría y seguimiento de las asociaciones civiles, todo lo relacionado con la organización, promoción y desarrollo del deporte; acceso a la justicia y la solución extrajudicial de conflictos.
 
 #### Secretaría de la Presidencia:
 
@@ -130,7 +141,7 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 - Trabajo  y  Seguridad  Social :  Lo  concerniente  a  la  formulación,  coordinación,  ejecución      y evaluación  de  las  políticas  de  empleo,  inclusive  de  los      educandos  especiales,  el  salario,    la formación   de   mano   de obra; la capacitación para el trabajo, el fomento de la educación obrera y  de  las  relaciones  obrero  patronales:  la  migración  laboral  selectiva;  la    coordinación    con  las instituciones de Previsión y de Seguridad Social;  el reconocimiento y registro de la personalidad jurídica  de  sindicatos  y  demás  organizaciones  laborales;  Lo  relativo  a  la  higiene  y  seguridad ocupacional;  al  manejo  de  los  procedimientos  administrativos  de  solución  de  los  conflictos individuales y colectivos de trabajo.
 
-En general, la  Ley de la Administración Pública, fue reformada a través de la presente Ley que  nos ocupa, en todos los aspectos contemplados  en  los Convenios  y Tratados Internacionales  a  los  que  Honduras  se  ha  suscrito,  destacándose  lo  concerniente  a  la  no discriminación en la enseñanza nacional.
+En general, la Ley de la Administración Pública, fue reformada a través de la presente Ley que nos ocupa, en todos los aspectos contemplados en los Convenios y Tratados
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
@@ -138,7 +149,9 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 [[START OF PAGE 10]]
 
-En  esta parte I del informe solicitado en relación a Medidas  legislativas, judiciales, administrativas y de otra índole adoptadas por el Estado de Honduras a nivel nacional, no se puede dejar de relacionar la: LEY FUNDAMENTAL DE EDUCACION, publicada en el Diario Oficial  de  Honduras La Gaceta No.32,754 en fecha 22 de febrero del 2012, según Decreto No.262-11 , ley que fue creada en virtud de que la Ley Orgánica de Educación contenida en el Decreto del Congreso Nacional No.79 del 14 de noviembre de 1966, ya no respondía a las grandes  exigencias  de  la  realidad  nacional  y  del  mundo  globalizado,  a  los  avances  en  la ciencia, el conocimiento, la tecnología, así como la evolución experimentada en la sociedad globalizada y sobre todo las exigencias internacionales en virtud de estar Honduras adscrita a convenios  que  la  comprometen  a  cumplir  con  las  exigencias  de  la  sociedad  en  totalidad, demandándose un nuevo marco jurídico que contenga y defina un perfil  de  conocimientos, habilidades  y  actitudes  por  parte  de  las  personas, Tutelando  el  Estado  de  Honduras    el Derecho  a  la  Educación ,  velando  porque  esté  al  alcance  de  todos  los  educandos  sin discriminación, con la mayor cobertura y calidad posible, de manera que llegue hasta los más alejados  y  aislados  núcleos  poblacionales  del  país.  Esta  Ley  fomenta  una  educación  laica, inculcando y fomentando profundos sentimientos hondureñistas, desarrollar y fortalecer una cultura  de  valores,  universales,  tales  como  los  de  ciudadanía,  democracia,  transparencia  e integridad,  debiéndose vincular directamente estos conceptos  con el proceso de desarrollo económico y social del país y del mundo, teniendo como objetivo y finalidad, el respeto a los derechos  y  obligaciones,    garantías  y  jerarquía  normativa,  reconociendo  a  las  y    los educandos como titular del derecho y actor principal, siendo el fin primordial del Estado en cuanto  a  educación  el  desarrollo      al      máximo      de      sus        potencialidades      y      su personalidad, definiendo la Estructura del Sistema Nacional de Educación, las atribuciones y obligaciones  el Estado, los derechos y responsabilidades de las personas y de la sociedad en la función educadora.
+Internacionales a los que Honduras se ha suscrito, destacándose lo concerniente a la no discriminación en la enseñanza nacional.
+
+En esta parte I del informe solicitado en relación a Medidas legislativas, judiciales, administrativas y de otra índole adoptadas por el Estado de Honduras a nivel nacional, no se puede dejar de relacionar la: LEY FUNDAMENTAL DE EDUCACION, publicada en el Diario Oficial de Honduras La Gaceta No.32,754 en fecha 22 de febrero del 2012, según Decreto No.262-11, ley que fue creada en virtud de que la Ley Orgánica de Educación contenida en el Decreto del Congreso Nacional No.79 del 14 de noviembre de 1966, ya no respondía a las grandes exigencias de la realidad nacional y del mundo globalizado, a los avances en la ciencia, el conocimiento, la tecnología, así como la evolución experimentada en la sociedad globalizada y sobre todo las exigencias internacionales en virtud de estar Honduras adscrita a convenios que la comprometen a cumplir con las exigencias de la sociedad en totalidad, demandándose un nuevo marco jurídico que contenga y defina un perfil de conocimientos, habilidades y actitudes por parte de las personas, Tutelando el Estado de Honduras el Derecho a la Educación, velando porque esté al alcance de todos los educandos sin discriminación, con la mayor cobertura y calidad posible, de manera que llegue hasta los más alejados y aislados núcleos poblacionales del país. Esta Ley fomenta una educación laica, inculcando y fomentando profundos sentimientos hondureñistas, desarrollar y fortalecer una cultura de valores, universales, tales como los de ciudadanía, democracia, transparencia e integridad, debiéndose vincular directamente estos conceptos con el proceso de desarrollo económico y social del país y del mundo, teniendo como objetivo y finalidad, el respeto a los derechos y obligaciones, garantías y jerarquía normativa, reconociendo a las y los educandos como titular del derecho y actor principal, siendo el fin primordial del Estado en cuanto a educación el desarrollo al máximo de sus potencialidades y su personalidad, definiendo la Estructura del Sistema Nacional de Educación, las atribuciones y obligaciones el Estado, los derechos y responsabilidades de las personas y de la sociedad en la función educadora.
 
 La  Ley  Fundamental  de  Educación,  rige  las  actividades  educativas  realizadas  dentro  del territorio  nacional,  desarrolladas  por  personas  naturales  o  jurídicas,  publicas,  particulares  o mixtas, nacionales o extranjeras, en correspondencia con la Constitución de La República, los instrumentos internacionales de Derechos Humanos y demás aplicables a la educación y la cultura, teniendo como eje transversal el respeto a la dignidad del ser humano.
 
@@ -150,60 +163,41 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 [[START OF PAGE 11]]
 
-- CALIDAD DE LA EDUCACION.
-
-- GRATUIDAD.
-
-- IMPERATIVIDAD.
-
-- EQUIDAD E INCLUSION.
-
-- EDUCACION PERMANENTE.
-
-- DEMOCRACIA.
-
-- DIALOGICIDAD.
-
-- PARTICIPACION.
-
-- LIBERTAD.
-
-- FLEXIBILIDAD.
-
-- MULTICULTURALIDAD E INTERCULTURALIDAD.
-
-- INTERNACIONALIDAD DE LA EDUCACION.
-
-- PLURALIDAD.
-
-- LAICIDAD.
-
-- LIBERTAD DE CATEDRA.
-
-- RESPONSABILIDAD AMBIENTAL.
-
-- TRANSPARENCIA.
-
-- EDUCACION Y TRABAJO.
+1) CALIDAD DE LA EDUCACION.
+2) GRATUIDAD.
+3) IMPERATIVIDAD.
+4) EQUIDAD E INCLUSION.
+5) EDUCACION PERMANENTE.
+6) DEMOCRACIA.
+7) DIALOGICIDAD.
+8) PARTICIPACION.
+9) LIBERTAD.
+10) FLEXIBILIDAD.
+11) MULTICULTURALIDAD E INTERCULTURALIDAD.
+12) INTERNACIONALIDAD DE LA EDUCACION.
+13) PLURALIDAD.
+14) LAICIDAD.
+15) LIBERTAD DE CATEDRA.
+16) RESPONSABILIDAD AMBIENTAL.
+17) TRANSPARENCIA.
+18) EDUCACION Y TRABAJO.
 
 Para la funcionalidad y eficacia de la Ley Fundamental de Educación, en fecha 17 de septiembre del año  2014,  fueron  publicados  en  el  Diario  Oficial  de  Honduras  La  Gaceta  No.  33,533,  los  22 Reglamentos a la Ley, emanados de la misma Ley, los que se enlistan:
 
-1. | Reglamento General de la Ley Fundamental de Educación
---- | ---
-2. | Secretaria de Estado en el Despacho de Educación
-3. | Carrera Docente
-4. | Educación Básica
-5. | Instituciones No Gubernamentales
-6. | Formación Inicial de Docentes
-7. | Reglamento Educación Para Personas con Discapacidad Necesidades
-Educativas Especiales y Talentos Excepcionales
-8. | Educación Media
-9. | Educación en Casa
-10. | Evaluación Docente
-11. | Financiamiento Educación Pública
-12. | Gestión de la Educación
-13. | Modalidades Educativas Alternativas para Jóvenes y Adultos
-14. | Educación Física y Deportes
+1. Reglamento General de la Ley Fundamental de Educación
+2. Secretaria de Estado en el Despacho de Educación
+3. Carrera Docente
+4. Educación Básica
+5. Instituciones No Gubernamentales
+6. Formación Inicial de Docentes
+7. Reglamento Educación Para Personas con Discapacidad Necesidades Educativas Especiales y Talentos Excepcionales
+8. Educación Media
+9. Educación en Casa
+10. Evaluación Docente
+11. Financiamiento Educación Pública
+12. Gestión de la Educación
+13. Modalidades Educativas Alternativas para Jóvenes y Adultos
+14. Educación Física y Deportes
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
@@ -211,15 +205,14 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 [[START OF PAGE 12]]
 
-15. | Participación de la Comunidad Educativa
---- | ---
-16. | Direcciones Departamentales/Municipales/y Distritales de Educación
-17. | Educación Pre Básica
-18. | Educación Artística
-19. | Formación Permanente del Docente
-20. | Junta Nacional y Juntas Departamentales Concurso de Selección
-21. | Centros Educativos.
-22. | Educación No Formal
+15. Participación de la Comunidad Educativa
+16. Direcciones Departamentales/Municipales/y Distritales de Educación
+17. Educación Pre Básica
+18. Educación Artística
+19. Formación Permanente del Docente
+20. Junta Nacional y Juntas Departamentales Concurso de Selección
+21. Centros Educativos.
+22. Educación No Formal
 
 En lo que concierne a cada Reglamento, existe una dependencia de la Secretaría de Educación, que maneja lo relacionado con el Reglamento específicamente, quienes son los responsables de ejecutar los planes y programas relacionados y rendir su informe oportunamente.
 
@@ -247,13 +240,15 @@ Si, a través:
 
 También se ha aprobado Acuerdo de Institucionalización de la Ruta hacia la  Descentralización en Educación  No 0516-SE-2018 publicado en el Diario Oficial La Gaceta el 23 de agosto del año 2018, en el marco de la política de descentralización, pilar fundamental del Plan de Nación. Cuyo objetivo es alcanzar una mejor correspondencia entre la oferta de bienes y servicios públicos y la demanda de la población  hondureña,  a  fin  de  garantizar  entre  otros  aspectos  una  distribución  equitativa  de  los recursos materiales y económicos, su administración local  y su aprovechamiento óptimo, mejorando la entrega de los servicios educativos a nivel nacional y generando espacios de democratización y a participación ciudadana.
 
-Es importante señalar que en la Secretaría de Estado en el Despacho de Educación se han creado las Unidades de Genero y Migrante Retornado, para atender y velar por la no discriminación en la esfera  de  la  enseñanza,  revisando  las  normativas  y  los  programas  implementados,  al  igual  que desarrollando material relacionado con los ejes transversales, promoviendo capacitaciones a todos los actores de la comunidad educativa y normando la flexibilidad de los planes de estudio para facilitar su reinserción y permanencia de las y los educandos en los centros educativos respectivamente, con el  propósito  de  garantizar  el  respeto  a  los  derechos  de  las  y  los  educandos  del  sistema  educativo hondureño, en cumplimiento de los derechos establecidos en el Código de la Niñez y la adolescencia, y en conjunto con el Instituto Hondureño de la Niñez y la Familia.
+Es importante señalar que en la Secretaría de Estado en el Despacho de Educación se han creado las Unidades de Genero y Migrante Retornado, para atender y velar por la no discriminación en la
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+esfera de la enseñanza, revisando las normativas y los programas implementados, al igual que desarrollando material relacionado con los ejes transversales, promoviendo capacitaciones a todos los actores de la comunidad educativa y normando la flexibilidad de los planes de estudio para facilitar su reinserción y permanencia de las y los educandos en los centros educativos respectivamente, con el propósito de garantizar el respeto a los derechos de las y los educandos del sistema educativo hondureño, en cumplimiento de los derechos establecidos en el Código de la Niñez y la adolescencia, y en conjunto con el Instituto Hondureño de la Niñez y la Familia.
 
 ## III. Informe	sobre	la	aplicación	de	la	Convención	o	la Recomendación
 
@@ -437,13 +432,15 @@ La red de infraestructuras físicas denominadas aulas Mentor que supera actualme
 
 La variedad de su oferta formativa. Superior a los 170 cursos y en permanente crecimiento y actualización.
 
-La existencia de exámenes presenciales que permiten valorar el grado de aprovechamiento del curso, garantizando a su vez la identidad del alumno que realiza la prueba. Superar esta prueba da  derecho  a  un  certificado  de  aprovechamiento  emitido  por  la  secretaría  de  Educación.  Es importante destacar que este certificado NO es un título oficial pero si reconocido como mérito por muchas empresas del país. Con el objeto de dar sostenibilidad económica a esta iniciativa y asegurar la accesibilidad a la mayor parte de la población, tiene un  coste.
+La existencia de exámenes presenciales que permiten valorar el grado de aprovechamiento del curso, garantizando a su vez la identidad del alumno que realiza la prueba. Superar esta prueba da derecho a un certificado de aprovechamiento emitido por la secretaría de Educación. Es
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+importante destacar que este certificado NO es un título oficial pero si reconocido como mérito por muchas empresas del país. Con el objeto de dar sostenibilidad económica a esta iniciativa y asegurar la accesibilidad a la mayor parte de la población, tiene un coste.
 
 - Aulas abiertas para la educación cultural, artística y de habilidades para la vida en jóvenes de 15 a 24 años de edad.
 
@@ -455,27 +452,17 @@ Todas  estas  acciones  y  herramientas  tienen  la  clara  intención  de  aseg
 
 #### 1.4 Indique  las  medidas  que  ha  adoptado  o  que  prevé  adoptar  su  país  para  garantizar  la igualdad  de  oportunidades  (en  términos  de  acceso,  participación  y  finalización)  y  la igualdad de trato y para apoyar la inclusión de todos los educandos (incluidas las niñas y las  mujeres,  las  personas  marginadas  económica  y  socialmente,  las  personas  con discapacidad  y  otros  grupos  vulnerables)  en  los  procesos  de  aprendizaje  (pueden marcarse o mencionarse varios puntos):
 
-X o Ofrecer incentivos financieros y becas
-
-X o Adoptar medidas de acción positiva o afirmativa
-
-X o Garantizar la inclusión de todos los educandos en las escuelas de enseñanza general
-
-X o Formar a los docentes en materia de educación inclusiva
-
-X o Garantizar la paridad entre los sexos en las ciencias, tecnología, ingeniería y
-
-o Proporcionar asistencia auxiliar
-
-X o Adaptar las infraestructuras educativas
-
-X o Adaptar los planes y los métodos de estudio
-
-X o Impartir clases de idiomas a los recién llegados (por ejemplo, los refugiados)
-
-X o Eliminar las barreras administrativas a la educación 2
-
-X o Ofrecer itinerarios de aprendizaje
+X□ Ofrecer incentivos financieros y becas
+X□ Adoptar medidas de acción positiva o afirmativa
+X□ Garantizar la inclusión de todos los educandos en las escuelas de enseñanza general
+X□ Formar a los docentes en materia de educación inclusiva
+X□ Garantizar la paridad entre los sexos en las ciencias, tecnología, ingeniería y
+□ Proporcionar asistencia auxiliar
+X□ Adaptar las infraestructuras educativas
+X□ Adaptar los planes y los métodos de estudio
+X□ Impartir clases de idiomas a los recién llegados (por ejemplo, los refugiados)
+X□ Eliminar las barreras administrativas a la educación²
+X□ Ofrecer itinerarios de aprendizaje
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
@@ -485,17 +472,12 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 matemáticas (STEM) y en la enseñanza y formación técnica y profesional (EFTP)
 
-- X o Ofrecer  programas  de  reescolarización para las madres jóvenes
-
-- X o Eliminar todas las barreras para la educación de las niñas embarazadas o las madres jóvenes
-
-- o Otra:
-
+X□ Ofrecer programas de reescolarización para las madres jóvenes
+X□ Eliminar todas las barreras para la educación de las niñas embarazadas o las madres jóvenes
+□ Otra:
 flexibles
-
-- X o Valorar la diversidad en las escuelas
-
-X o Luchar contra los estereotipos y la estigmatización
+X□ Valorar la diversidad en las escuelas
+X□ Luchar contra los estereotipos y la estigmatización
 
 #### 1.5  Explique  con  más  detalle  las  medidas  adoptadas,  incluidas  aquellas  destinadas  a garantizar la igualdad entre los géneros y el empoderamiento de las niñas y las mujeres en la educación y por medio de ella :
 
@@ -503,7 +485,7 @@ A. La lucha contra el matrimonio infantil, que ejercieron las niñas y niños a 
 
 B.- El Código de la niñez y la adolescencia de los siguientes Artículos: 35. Establece que 'Los niños tienen derecho a la educación, la cual será organizada por el Estado como un proceso integral y coordinado en sus diversos niveles. La educación, en todos sus niveles, tenderá al logro del desarrollo de la persona humana y a prepararla para el ejercicio pleno y  responsable  de  sus  derechos  y  deberes.  Se  impartirá  de  manera  que  asegure: a)  La igualdad  de  oportunidades  para  acceder  y  permanecer  en  el  sistema  educativo.  b)  El respeto recíproco y un trato digno entre educador y educando.  c) La impugnación ante las instancias correspondientes, de acuerdo con la ley y los reglamentos, de las evaluaciones hechas durante el proceso de enseñanza aprendizaje. ch) La formación de organizaciones estudiantiles  y  juveniles  o  su  participación  o    permanencia  en  las  mismas.    d)  La participación  en  programas  de  becas  de  estudio;  y,    e)  El  acceso  a  escuelas  gratuitas cercanas a su residencia; y
 
-Artículo  40.  del  mismo  Código  establece  que    La  educación  estará  orientada  a:    a) Desarrollar al máximo de sus posibilidades la personalidad, aptitudes, talentos, capacidad mental  y  física  de  los  niños  b)  Inculcar  en  los  niños  el  respeto  y  amor  a  sus  padres  y demás  miembros  de  su  familia,    la  propia  identidad  cultural,  al  idioma  y  a  los  valores humanos nacionales y de otras culturas c) Difundir el respeto de los derechos humanos y los  principios  fundamentales  consagrados  en  la  Carta  de  las  Naciones  Unidas,  en  la Convención sobre los Derechos del Niño y en la Constitución de la República, así como el conocimiento de la historia y de la geografía nacionales. ch) Capacitar a los niños para que  puedan  desenvolverse  responsable  y    solidariamente    durante  la  vida  y  puedan contribuir  a  crear  y  mantener  una  sociedad  libre,  democrática,  tolerante,  pacífica, igualitaria  y  amistosa  con  los  demás  pueblos.  d)  Desarrollar  programas  en  todos  los niveles  educativos  sobre  formación  de  Valores  Humanos  y  Familiares  con  el  objeto  de crear conciencia en los niños de la responsabilidad que conlleva ser padres de familia. e) Crear en los niños un sentido de respeto por el medio ambiente. f) Incentivar en los niños el  conocimiento  de  sus  deberes  y  derechos  y  un  hondo  sentido  de  responsabilidad  g) Orientar y capacitar a los niños para que en la edad adulta consideren a la familia como un  bien  primordial  y  al  trabajo  como  un  medio  indispensable  para  realizarse  y  para promocionar el desarrollo económico y social del país h) Formar a los niños de modo que en  la  edad  adulta  puedan  hacer  un  aprovechamiento  adecuado  de  la  naturaleza,  de  la ciencia y de la tecnología; y, i) Contribuir a la conservación de la salud, a la formación y elevación espiritual del ser humano y al sostenido mejoramiento de la sociedad nacional.
+Artículo 40. del mismo Código establece que La educación estará orientada a: a) Desarrollar al máximo de sus posibilidades la personalidad, aptitudes, talentos, capacidad mental y física de los niños b) Inculcar en los niños el respeto y amor a sus padres y demás miembros de su familia, la propia identidad cultural, al idioma y a los valores humanos nacionales y de otras culturas c) Difundir el respeto de los derechos humanos y los principios fundamentales consagrados en la Carta de las Naciones Unidas, en la Convención sobre los Derechos del Niño y en la Constitución de la República, así como el conocimiento de la historia y de la geografía nacionales. ch) Capacitar a los niños para que puedan desenvolverse responsable y solidariamente durante la vida y puedan contribuir a crear y mantener una sociedad libre, democrática, tolerante, pacífica, igualitaria y amistosa con los demás pueblos. d) Desarrollar programas en todos los niveles educativos sobre formación de Valores Humanos y Familiares con el objeto de crear conciencia en los niños de la responsabilidad que conlleva ser padres de familia. e) Crear en los niños un sentido de respeto por el medio ambiente. f) Incentivar en los niños el conocimiento de sus deberes y derechos y un hondo sentido de responsabilidad g) Orientar y capacitar a los niños para que en la edad adulta consideren a la familia como un bien primordial y al trabajo como un medio indispensable para realizarse y para promocionar el desarrollo económico y social del país h) Formar a los niños de modo que en la edad adulta puedan hacer un aprovechamiento adecuado de la naturaleza, de la ciencia y de la tecnología; y, i) Contribuir a la conservación de la salud, a la formación y
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
@@ -511,15 +493,17 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 [[START OF PAGE 21]]
 
-C.  En  el  marco  de  la  Convención  de  los  Derechos  del  Niño  y  la  Niña  de  las  Naciones Unidas,  el  Código  de  la  Niñez  y  Adolescencia  de  Honduras  y  la  Ley  Fundamental  de Educación, el Estado a través de la Secretaría de Estado en el Despacho de Educación, se ha implementado desde el año 2018 Nuestro Reglamento de Gobiernos Estudiantiles, como  espacios  de  participación  efectiva  de  niños,  niñas  y  adolescentes  en  su  entorno escolar  para  expresarse  libremente,  ser  escuchados  e  involucrados  en  los  procesos  de toma de decisiones. En tal sentido, se consideran a  los Gobiernos Estudiantiles como un pilar  importante  para  el  ejercicio  democrático,  que  se  da  en  el  ámbito  de  los  centros educativos,  en  donde  las  y  los  educandos,  como  sujetos  de  derechos,  aprenden  a organizarse,  expresarse  y  debatir,  elaborar  propuestas  para  la  mejora  del  bienestar  y aprendizaje de los educandos, lograr consensos y acuerdos sin discriminación, manejar conflictos y respetarse a sí mismo.
+elevación espiritual del ser humano y al sostenido mejoramiento de la sociedad nacional.
+
+C. En el marco de la Convención de los Derechos del Niño y la Niña de las Naciones Unidas, el Código de la Niñez y Adolescencia de Honduras y la Ley Fundamental de Educación, el Estado a través de la Secretaría de Estado en el Despacho de Educación, se ha implementado desde el año 2018 Nuestro Reglamento de Gobiernos Estudiantiles, como espacios de participación efectiva de niños, niñas y adolescentes en su entorno escolar para expresarse libremente, ser escuchados e involucrados en los procesos de toma de decisiones. En tal sentido, se consideran a los Gobiernos Estudiantiles como un pilar importante para el ejercicio democrático, que se da en el ámbito de los centros educativos, en donde las y los educandos, como sujetos de derechos, aprenden a organizarse, expresarse y debatir, elaborar propuestas para la mejora del bienestar y aprendizaje de los educandos, lograr consensos y acuerdos sin discriminación, manejar conflictos y respetarse a sí mismo.
 
 Los Gobiernos Estudiantiles son la plataforma democrática de las y los educandos para ejercer sus derechos y responsabilidades como ciudadanos y aprender a convivir en una cultura  de  paz.  Para  la  Secretaría  de  Educación,  los  Gobiernos  Estudiantiles  también constituyen espacios pedagógicos, ya que a través del aprendizaje de diversos contenidos y  ejes  curriculares,  como  ciudadanía,  democracia,  identidad  cultural,  emprendimiento, promueven una mayor identificación, pertenencia y arraigo de las y los estudiantes con sus centros educativos y su entorno, garantizando la igualdad de género y contribuyendo al empoderamiento de las niñas y mujeres en la educación.
 
 #### 1.6  Indique  si  su  país  ha  aprobado  y  revisado  la  legislación  relativa  a  la  edad  mínima  para contraer matrimonio de manera que se ajuste a las normas internacionales (18 años): Tenga en cuenta que el matrimonio infantil es una práctica discriminatoria, ya que a menudo las niñas pueden contraer matrimonio a una edad más temprana que los niños. El matrimonio infantil viola  el  derecho  de  los  niños  a  la  educación,  puesto  que  es  más  probable  que  los  niños casados abandonen la escuela y que aquellos que no van a la escuela contraigan matrimonio.
 
-X o Sí
+X□ Sí
 
-o No
+□ No
 
 Mencione las leyes y disposiciones pertinentes:
 
@@ -649,13 +633,14 @@ Existe una parte de población que solo tiene acceso a los 6 grados y no tienen 
 
 En los últimos años los desafíos a los que se ha enfrentado el Sistema Educativo Nacional ha estimulado la implementación de políticas, a fin de aumentar la cobertura en el Tercer Ciclo de Educación Básica, sobre todo en los departamentos que se ven más afectados por la pobreza y la  falta  de  acceso  a  la  educación,  especialmente  en  las  zonas  rurales,  en  donde  se  han desarrollado  programas  y  proyectos  con  el  apoyo  de  organismos  internacionales,  a  fin  de implementar modalidades educativas alternativas tales como: SEMED, SAT, IHER, EDUCATODOS y TELEBASICA.
 
-Es importante señalar que incluso desde antes de la pandemia y más específicamente en estos últimos  tiempos,  se  han  realizado  esfuerzos  encaminados  a  atender  estas  dificultades, fortaleciendo las modalidades alternativas de educación a distancia y virtual, creando programas y proveyendo materiales  educativos y textos a las y los educandos de las zonas más  vulnerables,  sin  acceso  a  internet,  creando  recursos  educativos  para  la  mediación pedagógica del aprendizaje de los educandos, con enfoque de derecho, ya que se atiende a la diversidad, mediante audios, lenguaje a señas, sistema brayle y cuadernos de trabajo, textos y diccionarios en lengua originaria.
+Es importante señalar que incluso desde antes de la pandemia y más específicamente en estos últimos tiempos, se han realizado esfuerzos encaminados a atender estas dificultades, fortaleciendo las modalidades alternativas de educación a distancia y virtual, creando programas y proveyendo materiales educativos y textos a las y los educandos de las zonas más vulnerables, sin acceso a internet, creando recursos educativos para la mediación
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+pedagógica del aprendizaje de los educandos, con enfoque de derecho, ya que se atiende a la diversidad, mediante audios, lenguaje a señas, sistema brayle y cuadernos de trabajo, textos y diccionarios en lengua originaria.
 
 En  tal  sentido  se  han  priorizado  y  fortalecido  algunas  acciones  encaminadas  a  atender  a  la mayoría de la población, mediante videos educativos que se comparten vía WhatsApp, Audios radiales,  clases  televisadas  y  cuadernos  de  trabajo  para  atender  a  la  población  rural  más vulnerable,  incluso  clases  televisadas  en  Vivo,  con  el  apoyo  de  las  y  los  docentes  que  han mostrado su alto nivel de compromiso y creatividad, produciendo conocimiento y no solo siendo consumidores  de  los  recursos;  procurando  que  los  educandos  matriculados  en  el  sistema educativo,  no  pongan  en  riesgo  su  trayectoria  educativa  y  puedan  transitar  al  año  inmediato superior  si  dificultad  alguna;  con  estos  recursos  estamos  atendiendo  en  sus  hogares  a 1,587,114  según  el  quinto  informe  de  monitoreo  que  realiza  la  Unidad  de  Supervisión  y Acompañamiento de la SEDUC, esperando llegar al 100 % con los cuadernos de trabajo que se entregan casa a casa a partir del mes de julio.
 
@@ -669,7 +654,7 @@ La Constitución de la República de Honduras, (1982) en sus Artículos 123, 151
 
 En  la  Visión  de  País  2010-2038  y  el  Plan  de  Nación  2010-2022  se  establecen  objetivos estratégicos  tendientes  a  ampliar  la  cobertura  educativa  con  los  siguientes  alcances:  1) Incrementar el acceso de los niños y niñas al año obligatorio de la Educación Pre-Básica en la edad  de  referencia  de  cinco  años,  para  promover  el  primer  año  de  Educación  Básica;  2) Incrementar el acceso de los niños y niñas a la Educación Básica (primero a noveno grado) para promoverlos al nivel de Educación Media; y 3) Incrementar los índices de permanencia y aprobación en el Tercer Ciclo de Educación Básica y media.
 
-El  Plan  Estratégico  del  Sector  Educación  (PESE)  se  compromete  con  los  Objetivos  de Desarrollo  Sostenible  y  la  Agenda  Educación  2030,  estableciendo  en  los  indicadores  de resultado del PESE 'Elevar las Tasas Brutas de Escolarización hasta 80%' logrando '12 años de  escolaridad  promedio'  de  la  población  hondureña  para  el  año  2030,  a  través  del aseguramiento del acceso universal a la Educación Básica.
+El  Plan  Estratégico  del  Sector  Educación  (PESE)  se  compromete  con  los  Objetivos  de Desarrollo  Sostenible  y  la  Agenda  Educación  2030,  estableciendo  en  los  indicadores  de resultado del PESE “Elevar las Tasas Brutas de Escolarización hasta 80%” logrando “12 años de  escolaridad  promedio”  de  la  población  hondureña  para  el  año  2030,  a  través  del aseguramiento del acceso universal a la Educación Básica.
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
@@ -707,7 +692,7 @@ Asimismo, La Ley Fundamental de Educación en el CAPÍTULO II DE LA EDUCACIÓN F
 
 La Educación Media, comprende las edades de referencia entre los quince (15) a los diecisiete (17) años y su culminación dará lugar al otorgamiento del título conforme al grado académico determinado por la Secretaria de Estado en el Despacho de Educación. Las modalidades y especialidades de este nivel están sustentadas en criterios pedagógicos, técnicos y científicos.
 
-##### 2.3.3  Indique  si  su  país  ha  aprobado  y  revisado  la  legislación  relativa  a  la  edad  mínima  de entrada  en  el  mundo  laboral  para  armonizarla  con  la  edad  de  finalización  de  la  educación obligatoria. Tenga en cuenta que las leyes laborales sobre la edad mínima para trabajar y las leyes relativas a la educación obligatoria son interdependientes y se refuerzan mutuamente. Si la edad mínima para trabajar es inferior a la edad de finalización de la educación obligatoria, los niños corren el riesgo de abandonar la escuela para trabajar y, por tanto, de no completar la educación obligatoria. Por otra parte, si la edad de finalización de la educación obligatoria es  inferior  a  la  edad  mínima  para  trabajar,  una  vez  que  los  niños  terminan  la  educación obligatoria se abre la puerta a la explotación infantil y a la violación de las leyes laborales.
+##### 2.3.3  Indique  si  su  país  ha  aprobado  y  revisado  la  legislación  relativa  a  la  edad  mínima  de entrada  en  el  mundo  laboral  para  armonizarla  con  la  edad  de  finalización  de  la  educación obligatoria. - Tenga en cuenta que las leyes laborales sobre la edad mínima para trabajar y las leyes relativas a la educación obligatoria son interdependientes y se refuerzan mutuamente. Si la edad mínima para trabajar es inferior a la edad de finalización de la educación obligatoria, los niños corren el riesgo de abandonar la escuela para trabajar y, por tanto, de no completar la educación obligatoria. Por otra parte, si la edad de finalización de la educación obligatoria es  inferior  a  la  edad  mínima  para  trabajar,  una  vez  que  los  niños  terminan  la  educación obligatoria se abre la puerta a la explotación infantil y a la violación de las leyes laborales.
 
 R/  Sí /  "Leyes  Decreto Nº 35-2013 Código de la niñez y la adolescencia, Convención sobre los Derechos del Niño, Convenio 182 sobre la prohibición de las peores formas de trabajo infantil y la acción inmediata para su eliminación, Directrices de las Naciones Unidas para la prevención de  la  delincuencia  juvenil  (Directrices  de  Riad),  Reglas  de  las  Naciones  Unidas  para  la protección  de  los  menores  privados  de  libertad.  De  igual  forma  existes  Instituciones  y organismos gubernamentales y no gubernamentales que velan por el cumplimiento de dichas disposiciones.
 
@@ -737,7 +722,7 @@ En el artículo/párrafo 4.a de la Convención y la Recomendación se establece 
 
 - x Existen políticas y programas que tienen por objeto eliminar y prevenir la discriminación en la enseñanza superior, incluida la enseñanza y formación técnica y profesional
 
-- o Otra:  La  UNAH  en  coordinación  con  la  UPNFM,  CIPRODEH,  desarrollan  el  Plan  de sostenibilidad  de  iniciativas  y  redes  de  derechos  humanos  en  Honduras,  con  una  visión regional  Centroamericana  2010-2015,  2016-2021,  es  una  iniciativa  interinstitucional,  en donde  cada  institución  asume  un  rol  de  liderazgo  situacional,  en  el  caso  de  la  UNAH  se desprende del Plan General para la Reforma Integral de la UNAH, que crea entre otras la figura del Comisionado Universitario como un órgano unipersonal responsable de garantizar y proteger los derechos de los miembros de la Comunidad universitaria(artículo 53 de la Ley Orgánica  de la UNAH)  Los  grandes  retos  de  la educación  superior  en  la  UNAH: Internalización  de  la  educación  superior:  La  internacionalización  es  la  inclusión  de  una dimensión internacional, intercultural global dentro del currículo y el proceso de enseñanzaaprendizaje. También es la creación de los proyectos de desarrollo internacional, así como la movilidad  académica  para  estudiantes  y  profesores;  redes  internacionales,  asociaciones  y proyectos; nuevos programas académicos e iniciativas de investigación. Otro de los grandes retos  que  supone  la  Educación  Superior  en  Honduras  es  la  evaluación  de  los  docentes, estudiantes  y  personal  administrativo.  También  implica  la  mejora  de  los  contenidos  y  las metodologías,  la  incorporación  de  las  tecnologías  de  la  Información  y  la  comunicación, mejoras en el sistema de bibliotecas, entre otras.
+- o Otra:  La  UNAH  en  coordinación  con  la  UPNFM,  CIPRODEH,  desarrollan  el  Plan  de sostenibilidad  de  iniciativas  y  redes  de  derechos  humanos  en  Honduras,  con  una  visión regional  Centroamericana  2010-2015,  2016-2021,  es  una  iniciativa  interinstitucional,  en donde  cada  institución  asume  un  rol  de  liderazgo  situacional,  en  el  caso  de  la  UNAH  se desprende del Plan General para la Reforma Integral de la UNAH, que crea entre otras la figura del Comisionado Universitario como un órgano unipersonal responsable de garantizar y proteger los derechos de los miembros de la Comunidad universitaria(artículo 53 de la Ley Orgánica  de la UNAH)  Los  grandes  retos  de  la educación  superior  en  la  UNAH: Internalización  de  la  educación  superior:  La  internacionalización  es  la  inclusión  de  una dimensión internacional, intercultural global dentro del currículo y el proceso de enseñanza-aprendizaje. También es la creación de los proyectos de desarrollo internacional, así como la movilidad  académica  para  estudiantes  y  profesores;  redes  internacionales,  asociaciones  y proyectos; nuevos programas académicos e iniciativas de investigación. Otro de los grandes retos  que  supone  la  Educación  Superior  en  Honduras  es  la  evaluación  de  los  docentes, estudiantes  y  personal  administrativo.  También  implica  la  mejora  de  los  contenidos  y  las metodologías,  la  incorporación  de  las  tecnologías  de  la  Información  y  la  comunicación, mejoras en el sistema de bibliotecas, entre otras.
 
 ##### 2.4.2 Proporcione una breve descripción de los textos jurídicos, reglamentarios o normativos pertinentes, incluidas las medidas relacionadas con:
 
@@ -751,13 +736,13 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 [[START OF PAGE 30]]
 
-La  Constitución      de  la  República  de    Honduras    (1982),    en    el    capítulo    VIII  referente    a    la educación  y  la  cultura,  establece,  en  su  artículo  160,  que  'la  Universidad Nacional Autónoma de  Honduras  es  una  Institución  Autónoma  del  Estado,  con  personalidad  jurídica,  goza  de  la exclusividad de  organizar, dirigir y  desarrollar la educación superior y profesional'.  Además, la Ley de  Educación    Superior    (1989),    en    su    artículo    2,    establece    que    'la  Universidad  Nacional Autónoma de Honduras, como organismo autónomo y descentralizado del Estado, tiene a su cargo la exclusividad  de  organizar,  dirigir  y  desarrollar  la  educación  superior  y  profesional'.  También,  esta misma ley, en el capítulo 1, naturaleza y fines, en su artículo 3, expone que la educación  superior tiene  como fines  la investigación  científica, humanística y  tecnológica; la  difusión general  de la cultura; el  estudio de  los problemas nacionales;  la  creación  y  transmisión  de  la  ciencia  y  el fortalecimiento    de    la    identidad  nacional.  Por  esta  razón,  las  instituciones  de  educación  superior deben regirse internamente por  un  modelo  educativo  que  les  permita  responder  a  los  principios de  docencia, investigación y extensión o vinculación para promover la transformación de la sociedad como responsabilidad de este nivel educativo.
+La  Constitución      de  la  República  de    Honduras    (1982),    en    el    capítulo    VIII  referente    a    la educación  y  la  cultura,  establece,  en  su  artículo  160,  que  “la  Universidad Nacional Autónoma de  Honduras  es  una  Institución  Autónoma  del  Estado,  con  personalidad  jurídica,  goza  de  la exclusividad de  organizar, dirigir y  desarrollar la educación superior y profesional”.  Además, la Ley de  Educación    Superior    (1989),    en    su    artículo    2,    establece    que    “la  Universidad  Nacional Autónoma de Honduras, como organismo autónomo y descentralizado del Estado, tiene a su cargo la exclusividad  de  organizar,  dirigir  y  desarrollar  la  educación  superior  y  profesional”.  También,  esta misma ley, en el capítulo 1, naturaleza y fines, en su artículo 3, expone que la educación  superior tiene  como fines  la investigación  científica, humanística y  tecnológica; la  difusión general  de la cultura; el  estudio de  los problemas nacionales;  la  creación  y  transmisión  de  la  ciencia  y  el fortalecimiento    de    la    identidad  nacional.  Por  esta  razón,  las  instituciones  de  educación  superior deben regirse internamente por  un  modelo  educativo  que  les  permita  responder  a  los  principios de  docencia, investigación y extensión o vinculación para promover la transformación de la sociedad como responsabilidad de este nivel educativo.
 
 Las  universidades  hondureñas  públicas  y  privadas  ofrecen  carreras  con  grado  de  licenciatura  y técnico,  de  igual  forma,  diplomados,  maestrías  y  doctorados.  La  mayor  parte  de  centros  tienen  su sede en la capital del país y solo algunos se extienden con centros regionales a nivel nacional.  Todas las instituciones de educación superior poseen sus propios mecanismos de ingreso para las personas interesadas en cursar estudios en ellas. En la UNAH es un requisito esencial someterse a la Prueba de Aptitud Académica (PAA). Asimismo, en la UPNFM se aplica un examen de admisión. En cambio, la  mayoría  de  los  centros  universitarios  de  carácter  privado,  efectúan  pruebas  actitudinales  para orientar  la  elección  de  carreras  de  acuerdo  con  la  vocación  del  estudiantado.  Sin  embargo,  en  las universidades públicas y privadas del país no existe un ingreso especial para estudiantes en situación de  discapacidad,  pueblos  indígenas  y  afro  hondureños.  Por  ello,  es  fundamental  la  creación  de mecanismos de acceso, egreso y permanencia para este tipo de estudiantes.
 
 ##### 2.4.3  Indique  los  esfuerzos  que  ha  realizado  su  Gobierno  para  garantizar  que  la  enseñanza superior sea gratuita y accesible a todos por igual, sobre la base de la capacidad de cada uno (pueden marcarse o mencionarse varios puntos):
 
-En  el  artículo  4  de  la  Convención  se  exige  a  los  Estados  'hacer  accesible  a  todos,  en condiciones de igualdad total y según la capacidad de cada uno, la enseñanza superior'. En el artículo  13  del  Pacto  Internacional  de  Derechos  Económicos,  Sociales  y  Culturales  se  añade que  esto  debe  perseguirse  'por  cuantos  medios  sean  apropiados,  y  en  particular  por  la implantación progresiva de la enseñanza gratuita'.
+En  el  artículo  4  de  la  Convención  se  exige  a  los  Estados  “hacer  accesible  a  todos,  en condiciones de igualdad total y según la capacidad de cada uno, la enseñanza superior”. En el artículo  13  del  Pacto  Internacional  de  Derechos  Económicos,  Sociales  y  Culturales  se  añade que  esto  debe  perseguirse  “por  cuantos  medios  sean  apropiados,  y  en  particular  por  la implantación progresiva de la enseñanza gratuita”.
 
 - x La enseñanza superior es accesible sobre la base de la capacidad de cada uno, evaluada en función de las cualificaciones y la experiencia pertinentes
 
@@ -767,7 +752,7 @@ En  el  artículo  4  de  la  Convención  se  exige  a  los  Estados  'hacer  a
 
 ##### 2.4.4  Facilite  más  detalles  sobre  las  medidas  adoptadas  y  proporcione  información  breve sobre  los  costos  financieros  de  recibir  educación  en  instituciones  públicas  o  privadas  de enseñanza  superior,  en  caso  de  que  la  enseñanza  superior  no  sea  gratuita . En  esta  parte, también  puede  proporcionar  información  sobre  las  dificultades  que  ha  encontrado  su Gobierno para garantizar el acceso universal a la enseñanza superior. Pueden añadirse datos cuantitativos.
 
-El Estado de Honduras ha buscado ofrecer nuevas oportunidades en el campo de educación superior a  través  de  programas  como: El  Programa  Presidencial  de  Becas  'Honduras  20/20', es  un programa  robusto  sin  precedentes  en  la  historia  de  Honduras,  el  cual  tiene  una  estructura  y planificación  definida  con  el  fin  de  apoyar  la  educación  y  desarrollo  profesional  de  los  jóvenes hondureños.  En  2019  se  benefició  a  más  de  17,000  becarios  universitarios  a  nivel  nacional, favoreciendo a los 18 departamentos del país, y más de 950 estudiantes de posgrado becados en prestigiosas  universidades  del  extranjero.  El  Programa  beneficia  a  diferentes  sectores  del  país,  a través  de  tres  tipos  de  beca:  Beca  Solidaria,  Beca  Juventud  20/20  y  Beca  Internacional.  También apoyan  a  jóvenes  que  tienen  algún  tipo  de  discapacidad  como  baja  visión,  sordera,  movilidad reducida, entre otras.
+El Estado de Honduras ha buscado ofrecer nuevas oportunidades en el campo de educación superior a  través  de  programas  como: El  Programa  Presidencial  de  Becas  “Honduras  20/20”, es  un programa  robusto  sin  precedentes  en  la  historia  de  Honduras,  el  cual  tiene  una  estructura  y planificación  definida  con  el  fin  de  apoyar  la  educación  y  desarrollo  profesional  de  los  jóvenes hondureños.  En  2019  se  benefició  a  más  de  17,000  becarios  universitarios  a  nivel  nacional, favoreciendo a los 18 departamentos del país, y más de 950 estudiantes de posgrado becados en prestigiosas  universidades  del  extranjero.  El  Programa  beneficia  a  diferentes  sectores  del  país,  a través  de  tres  tipos  de  beca:  Beca  Solidaria,  Beca  Juventud  20/20  y  Beca  Internacional.  También apoyan  a  jóvenes  que  tienen  algún  tipo  de  discapacidad  como  baja  visión,  sordera,  movilidad reducida, entre otras.
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
@@ -777,7 +762,7 @@ Informe de la Décima consulta de los Estados miembros sobre la aplicación de l
 
 #### 2.5 Educación de adultos y aprendizaje alternativo
 
-En el artículo/párrafo 4.c de la Convención y la Recomendación se establece el derecho a la enseñanza  de  adultos  y  el  aprendizaje  alternativo. Mientras  que  el  ODS  4  consiste  en 'garantizar  una  educación  inclusiva  y  equitativa  de  calidad  y  promover  oportunidades  de aprendizaje permanente para todos', en la meta 4.6 se hace un llamamiento específico a los Estados a 'asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres  como  mujeres,  estén  alfabetizados  y  tengan  nociones  elementales  de  aritmética'. Además,  en  el  marco  de  la  meta  4.4,  se  insta  a  los  Estados  a  'aumentar  y  diversificar  las oportunidades  de  aprendizaje,  empleando  una  amplia  gama  de  modalidades  de  educación  y formación, de tal forma que todos los jóvenes y adultos, en especial las niñas y las mujeres, puedan adquirir conocimientos, aptitudes y competencias pertinentes para el trabajo decente y la vida'.
+En el artículo/párrafo 4.c de la Convención y la Recomendación se establece el derecho a la enseñanza  de  adultos  y  el  aprendizaje  alternativo. Mientras  que  el  ODS  4  consiste  en “garantizar  una  educación  inclusiva  y  equitativa  de  calidad  y  promover  oportunidades  de aprendizaje permanente para todos”, en la meta 4.6 se hace un llamamiento específico a los Estados a “asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres  como  mujeres,  estén  alfabetizados  y  tengan  nociones  elementales  de  aritmética”. Además,  en  el  marco  de  la  meta  4.4,  se  insta  a  los  Estados  a  “aumentar  y  diversificar  las oportunidades  de  aprendizaje,  empleando  una  amplia  gama  de  modalidades  de  educación  y formación, de tal forma que todos los jóvenes y adultos, en especial las niñas y las mujeres, puedan adquirir conocimientos, aptitudes y competencias pertinentes para el trabajo decente y la vida”.
 
 ##### 2.5.1 Indique  las  medidas  que  ha  adoptado  su  Gobierno  para  establecer  un  sistema  de educación permanente  y ofrecer un acceso equitativo a las oportunidades de aprendizaje y formación:
 
@@ -809,11 +794,11 @@ Asimismo se diseñó el Marco Nacional de Cualificaciones para la Educación y F
 
 #### 2.6 Educación de calidad y entorno de aprendizaje
 
-En los artículos/párrafos  2,  4.b,  y  5.b  de  la  Convención  y  la  Recomendación  se  establece  el derecho a una educación de calidad. La educación de calidad es fundamental para alcanzar todas  las  metas  del  ODS  4. Esto  también  se  destaca  particularmente  en  la  meta  4.a  de  los ODS, en la que se recomienda a los Estados 'construir y adecuar instalaciones educativas que tengan  en  cuenta  las  necesidades  de  los  niños  y  las  personas  con  discapacidad  y  las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos'.
+En los artículos/párrafos  2,  4.b,  y  5.b  de  la  Convención  y  la  Recomendación  se  establece  el derecho a una educación de calidad. La educación de calidad es fundamental para alcanzar todas  las  metas  del  ODS  4. Esto  también  se  destaca  particularmente  en  la  meta  4.a  de  los ODS, en la que se recomienda a los Estados “construir y adecuar instalaciones educativas que tengan  en  cuenta  las  necesidades  de  los  niños  y  las  personas  con  discapacidad  y  las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos”.
 
 ##### 2.6.1 Indique las medidas que ha adoptado su país para garantizar la equivalencia en todos los establecimientos educativos (pueden marcarse o mencionarse varios puntos):
 
-x Establecimiento de normas y estándares mínimos en la educación: A través de la estandarización de procesos constructivos, se cuenta con El manual de planificación y diseño de centros educativos, generado, propuesto y aplicado en la medida de lo posible por la DIGECEBI; con miras en el logro de condiciones  adecuadas  de  iluminación,  ventilación,  espacio,  comodidad  y  todas  las  condiciones mínimas  necesarias  para garantizar un espacio físico  adecuado  en  el  proceso  enseñanzaaprendizaje.
+x Establecimiento de normas y estándares mínimos en la educación: A través de la estandarización de procesos constructivos, se cuenta con El manual de planificación y diseño de centros educativos, generado, propuesto y aplicado en la medida de lo posible por la DIGECEBI; con miras en el logro de condiciones  adecuadas  de  iluminación,  ventilación,  espacio,  comodidad  y  todas  las  condiciones mínimas  necesarias  para garantizar un espacio físico  adecuado  en  el  proceso  enseñanza-aprendizaje.
 
 x Establecimiento  de  condiciones  relativas  a  la  calidad  de  la  educación  impartida  (por  ejemplo, infraestructura, proporción de alumnos por docente, materiales de enseñanza y aprendizaje o uso de la  TIC):  A  través  del  monitoreo  permanentemente  las  intervenciones  en  infraestructura  educativa realizada por los entes ejecutores, en aras de reducir las brechas existentes en cuanto a indicadores de  condiciones  mínimas  requeridas  en  los  CE  como  ser  mobiliario  (61.06%),  servicios  básicos (49.52%), amenazas sociales (79.24%) y naturales (91.75%), hidrosanitaro (19.30%), infraestructura (53.49%). con un indicador global de calidad del 49.46%. siendo cero la condición más precaria y 100% el ideal. Así mismo, es importante recalcar el indicador de Hacinamiento, en que se parametriza la  relación  espacio-alumno, siendo 1.6m2/alumno y 2.4m2/alumno la referencia para los niveles de Básica/media y Prebásico, respectivamente.
 
@@ -831,7 +816,7 @@ La  Secretaria  de  Educación  a  través  de  la  Dirección  General  de  Con
 
 #### 2.7 Personal de educación
 
-En el artículo/párrafo 4.d de la Convención y la Recomendación se hace referencia al personal de educación. Este aspecto corresponde a la meta 4.c de los ODS, que está totalmente dedicada a la profesión docente, ya que pide a los Estados que 'aumenten considerablemente la oferta de docentes calificados'.
+En el artículo/párrafo 4.d de la Convención y la Recomendación se hace referencia al personal de educación. Este aspecto corresponde a la meta 4.c de los ODS, que está totalmente dedicada a la profesión docente, ya que pide a los Estados que “aumenten considerablemente la oferta de docentes calificados”.
 
 ##### 2.7.1 Indique las medidas que se han adoptado para mejorar las condiciones de enseñanza y de trabajo del personal de educación, especialmente del personal docente de todos los niveles en  su  país,  y  en  relación  con  la  formación  para  la  profesión  docente  (pueden  marcarse  o mencionarse varios puntos):
 
@@ -951,7 +936,7 @@ Formación permanente y capacitación docentes  de  los Pueblos Indígenas y Afr
 
 Los  derechos  de  los  refugiados  y  los  migrantes  no  se  mencionan  explícitamente  en  la Convención y la Recomendación. Sin embargo, en ambos instrumentos se insta a los Estados a eliminar y prevenir la discriminación en la enseñanza, en particular la discriminación basada en el  origen  nacional. En este contexto, varios Estados Miembros que participaron en la novena consulta informaron sobre las medidas adoptadas para garantizar el derecho a la educación de los refugiados y los migrantes. El aumento de los desplazamientos y la afluencia de refugiados en todo el mundo, que conllevan la aparición de importantes desafíos educativos, así como los marcos adoptados recientemente por la comunidad internacional, ponen de relieve la necesidad de que los Estados informen sobre las medidas adoptadas para incluir a los refugiados y a los migrantes en sus sistemas educativos.
 
-Este aspecto también corresponde a la meta 4.5 de los ODS, en la que se insta a los Estados a 'asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables', incluidos 'los niños en situaciones de vulnerabilidad', y abarca la mayoría de las metas del ODS 4.
+Este aspecto también corresponde a la meta 4.5 de los ODS, en la que se insta a los Estados a “asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables”, incluidos “los niños en situaciones de vulnerabilidad”, y abarca la mayoría de las metas del ODS 4.
 
 Informe de la Décima consulta de los Estados miembros sobre la aplicación de la Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
@@ -969,7 +954,7 @@ Decreto: 262-2011 ley fundamental de educación, decreto ejecutivo PCM- 033-2014
 
 - Fundamentación de planificación de país e institucional:
 
-Plan visión de país; Objetivo; una honduras sin pobreza extrema, educada, sana, con sistemas consolidados de previsión social; Metas de prioridad 1.3: elevar la escolaridad a 9 años; Lineamiento estratégico 4.educación y cultura como  medios de emancipación social; Sector 4: sociedad más justa, pacífica e inclusiva; Subsector/componente: rehabilitación y reinserción social.
+Plan visión de país; Objetivo; una honduras sin pobreza extrema, educada, sana, con sistemas consolidados de previsión social; Metas de prioridad 1.3: elevar la escolaridad a 9 años; Lineamiento estratégico 4.- educación y cultura como  medios de emancipación social; Sector 4: sociedad más justa, pacífica e inclusiva; Subsector/componente: rehabilitación y reinserción social.
 
 - Plan Estratégico Institucional 2018-2022
 
