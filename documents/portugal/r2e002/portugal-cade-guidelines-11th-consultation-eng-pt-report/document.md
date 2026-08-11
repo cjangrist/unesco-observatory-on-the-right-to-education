@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 ## 4. Participation in consultations
 
@@ -88,7 +88,7 @@ The Guidelines are structured around three chapters:
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States  in  the  preparation  of  responses,  through  a  participatory  process, two  types  of guidance are provided:
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
 > 7 http://www.unesco.org/education/edurights/index.php?action=home&lng=en
 
@@ -100,7 +100,7 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -116,7 +116,7 @@ Name of contact person: David Sousa (Director-General)
 
 Email and telephone number of contact person: david.sousa@dge.mec.pt; +35121 393 4500
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -164,9 +164,9 @@ Email and telephone number of contact person: david.sousa@dge.mec.pt; +35121 393
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -200,11 +200,10 @@ Moreover, the following can be mentioned:
 
 [[START OF PAGE 7]]
 
-- | Law no. 116/2019, September 13 - amendments to DL no 54/2018, 6 July;
---- | ---
-- | Decree-Law no 62/2023, July 25 - Amends the rules for adapting the assessment process within the scope of the legal framework of inclusive education and the rules relating to the process of external assessment of learning;
-- | Council of Ministers Resolution No. 30/2020, of April 21, approved the Digital Transition Plan (which includes the School Digitization Program) that established a new framework for digital transformation by approving an action plan for a digital Portugal;
-- | Council of Ministers Resolution No. 103-C/2024, August 16, authorises expenditure on the purchase of connectivity services for primary and secondary school students in public establishments.
+- Law no. 116/2019, September 13 - amendments to DL no 54/2018, 6 July;
+- Decree-Law no 62/2023, July 25 – Amends the rules for adapting the assessment process within the scope of the legal framework of inclusive education and the rules relating to the process of external assessment of learning;
+- Council of Ministers Resolution No. 30/2020, of April 21, approved the Digital Transition Plan (which includes the School Digitization Program) that established a new framework for digital transformation by approving an action plan for a digital Portugal;
+- Council of Ministers Resolution No. 103-C/2024, August 16, authorises expenditure on the purchase of connectivity services for primary and secondary school students in public establishments.
 
 #### 1.1 Non-discrimination and equality in education
 
@@ -236,7 +235,7 @@ The Constitution of the Portuguese Republic (CPR) establishes that " everyone ha
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific program mes'.
+> 14 Which calls on states to “substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes”.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -244,23 +243,23 @@ The Constitution of the Portuguese Republic (CPR) establishes that " everyone ha
 
 [[START OF PAGE 8]]
 
-- All citizens have the same social dignity and are equal before the law ;
+1. All citizens have the same social dignity and are equal before the law;
 
-- No one may be favoured, benefited, disadvantaged, deprived of any right or exempted from any duty on the grounds of ancestry, sex, race, language, territory of origin, religion, political or ideological convictions, education, economic situation, social status or sexual orientation . -VII Constitutional Revision [2005].
+2. No one may be favoured, benefited, disadvantaged, deprived of any right or exempted from any duty on the grounds of ancestry, sex, race, language, territory of origin, religion, political or ideological convictions, education, economic situation, social status or sexual orientation. - VII Constitutional Revision [2005].
 
 Act Law for the Education System no. 46/1986 states:
 
 Article 2
 
-- All Portuguese have the right to education and culture, under the terms of the Constitution of the Republic ;
+1. All Portuguese have the right to education and culture, under the terms of the Constitution of the Republic;
 
-- It is the special responsibility of the State to promote the democratisation of education, guaranteeing the right to a fair and effective equality of opportunity in school access and success . (...)
+2. It is the special responsibility of the State to promote the democratisation of education, guaranteeing the right to a fair and effective equality of opportunity in school access and success. (...)
 
 Article 3
 
-The Education System is organised : (...)
+The Education System is organised: (...)
 
-- To ensure equal opportunities for both sexes, namely through co-education practices and school and vocational guidance, and to sensitise all those involved in the educational process .
+j) To ensure equal opportunities for both sexes, namely through co-education practices and school and vocational guidance, and to sensitise all those involved in the educational process.
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
@@ -290,7 +289,7 @@ Basic  Law  of  the  Educational  System  (Law  no.  46/1986,  of  October  14) 
 
 Portugal is committed to the transversal measures assumed in national strategic documents, within the scope of guaranteeing integration and compliance with fundamental rights, notably:
 
-(i) National Strategy for Children's Rights 2021-2024 - Resolution of the Council of Ministers no. 112/2020 of 18 th December approving the National Strategy for the Rights of the Child for the period 2021-2024;
+(i) National Strategy for Children's Rights 2021-2024 - Resolution of the Council of Ministers no. 112/2020 of 18th December approving the National Strategy for the Rights of the Child for the period 2021-2024;
 
 (ii) Child Guarantee Action Plan 2022-2030 - Council of Ministers Resolution no. 3/2023 of 17th January that approves the Child Guarantee Action Plan 2022-2030;
 
@@ -326,21 +325,15 @@ It aims to support schools and their professionals in defining strategies and id
 
 Educational Territories of Priority Intervention Programme (TEIP - Programa Territórios Educativos de Intervenção Prioritária) is part of a set of measures aimed at promoting educational success and the inclusion of all children and young people who attend the public education system.
 
-The fourth generation TEIP (TEIP4), created by Order no. 7798/2023 of 28 July, is in development in the current (2024/2025) school year. As an educational policy measure aimed at school groups and nongrouped schools located in areas with a high number of children and young people at risk of social vulnerability, it aims to ensure inclusion and educational success, improving the quality of learning and combating school dropout.
+The fourth generation TEIP (TEIP4), created by Order no. 7798/2023 of 28 July, is in development in the current (2024/2025) school year. As an educational policy measure aimed at school groups and non-grouped schools located in areas with a high number of children and young people at risk of social vulnerability, it aims to ensure inclusion and educational success, improving the quality of learning and combating school dropout.
 
 The National Arts Plan, created in 2019 aims, among other objectives, to foster collaboration among artistic agents, the educational community, and other stakeholders, in order to design teaching and learning strategies that promote an inclusive curriculum, without barriers between the school and its surroundings.
 
 In the framework of Higher Education, the following can be mentioned:
 
--
+- Project EEA Grants Portugal : PDP2 – GE HEI – Gender Equality in HEI
 
--
-
-- Project  EEA Grants Portugal : PDP2 -GE HEI -Gender  Equality in HEI
-
-A Project financed by the Conciliation and Gender Equality Program of the EEA Grants 2014-
-
-- 2021,  in  which  the  Commission  for  Citizenship  and  Gender  Equality  (CIG)  is  the  Program Operator, and the promoting entity is  the General Directorate of Higher Education (DGES), in partnership with (i) CIEG - ISCSP-ULisboa, (ii) RIKK - Institute for Gender, Equality and Difference at  the  University  of  Iceland  and  (iii)  A3ES  -  Higher  Education  Assessment  and  Accreditation Agency.
+A Project financed by the Conciliation and Gender Equality Program of the EEA Grants 2014-2021, in which the Commission for Citizenship and Gender Equality (CIG) is the Program Operator, and the promoting entity is the General Directorate of Higher Education (DGES), in partnership with (i) CIEG - ISCSP-ULisboa, (ii) RIKK - Institute for Gender, Equality and Difference at the University of Iceland and (iii) A3ES - Higher Education Assessment and Accreditation Agency.
 
 One  of  the  main  objectives  of  the  Ge-HEI  Project -Gender  Equality  in  Higher  Educations Institutions,  is  to  identify  and  combat  the  factors  that  contribute  to  explaining  inequalities between  women  and  men  in  Higher  Education,  as  well  as  the  elaboration  of  a  set  of recommendations  for  the  development  of  Gender  Equality  criteria  in  Higher  Education Institutions.
 
@@ -348,21 +341,21 @@ More information about the project is available at:
 
 Project EEA Grants Portugal : PDP2 -GE HEI -Gender Equality in HEI -https://gehei.dges.gov.pt/ (PT version only)
 
-https://www.eeagrants.gov.pt/pt/programas/conciliacao-e-igualdade-degenero/projetos/projetos-pre-definidos/pdp2-ge-hei-gender-equality-in-higher-educationsinstitutions/
+https://www.eeagrants.gov.pt/pt/programas/conciliacao-e-igualdade-de-genero/projetos/projetos-pre-definidos/pdp2-ge-hei-gender-equality-in-higher-educations-institutions/
 
-- Project DG REFORM Making HE more inclusive in Portugal (PT version only) This  project,  on  the  one  hand,  will  investigate  the  experiences  of  other  countries  that  are developing, or have already implemented strategies, with similar objectives. On the other hand, through consultations with various groups of interested parties in different parts of the national territory, an attempt will be made to better understand this reality, namely the specific causes that,  in  different  contexts  that  will  be  analyzed,  will  limit  these  students'  access  to  higher
+- Project DG REFORM Making HE more inclusive in Portugal (PT version only)
 
-education in Portugal.
+This project, on the one hand, will investigate the experiences of other countries that are developing, or have already implemented strategies, with similar objectives. On the other hand, through consultations with various groups of interested parties in different parts of the national territory, an attempt will be made to better understand this reality, namely the specific causes that, in different contexts that will be analyzed, will limit these students' access to higher education in Portugal.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-Based on these conclusions, it will be possible to design and implement an action plan, including possible legislative and non-legislative measures. These measures, will support the DirectorateGeneral for Higher Education in developing solutions that increase access to and completion of studies in higher education for groups of students socioeconomically disadvantaged, especially in  study  programs  and  more  competitive  HEIs,  thus  contributing  to  increasing  equity  and inclusion in higher education in Portugal.
+Based on these conclusions, it will be possible to design and implement an action plan, including possible legislative and non-legislative measures. These measures, will support the Directorate-General for Higher Education in developing solutions that increase access to and completion of studies in higher education for groups of students socioeconomically disadvantaged, especially in study programs and more competitive HEIs, thus contributing to increasing equity and inclusion in higher education in Portugal.
 
 Additional information about the project available at:
 
-https://www.dges.gov.pt/pt/pagina/projeto-tornar-o-ensino-superior-mais-inclusivo-emportugal?plid=39675
+https://www.dges.gov.pt/pt/pagina/projeto-tornar-o-ensino-superior-mais-inclusivo-em-portugal?plid=39675
 
  Combatting discrimination in terms of curriculum:
 
@@ -428,11 +421,11 @@ Decree-Law no 54/2018, 6 July -Law on Inclusive Education (in its actual version
 
 As a large-scale programme, TEIP Programme (Priority Intervention Educational Areas) targeted towards disadvantaged  students  in  response  to  their  needs  and  expectations.  TEIP  aims  to  improve  learning outcomes and the quality of educational pathways, preventing low achievement, early school leaving, and absenteeism, while also reducing indiscipline and strengthening relations between schools, families, and the community. This programme covers 146 school clusters (approximately 18% of Portuguese school clusters)  in  socially  and  economically  disadvantaged  areas.  Schools  integrated  into  these  challenging contexts  define  improvement  plans  where  priorities  such  as  promoting  the  adequate  welcoming  and inclusion of migrant students and their families are identified.
 
-These plans include the diversification of educational offerings to respond to the fundamental needs of all students and ensure their school inclusion. These schools have additional human resources (teachers, psychologists,  social  workers,  mediators,  among  others)  that  enable  them  to  implement  positive discrimination measures, paying special attention to minority groups such as migrants, especially nonPortuguese speakers, Roma children, and families facing economic or social disadvantages.
+These plans include the diversification of educational offerings to respond to the fundamental needs of all students and ensure their school inclusion. These schools have additional human resources (teachers, psychologists, social workers, mediators, among others) that enable them to implement positive discrimination measures, paying special attention to minority groups such as migrants, especially non-Portuguese speakers, Roma children, and families facing economic or social disadvantages.
 
 To  promote  measures  to  address  school  failure  and  dropout  rates,  TEIP  school  clusters  also  mobilize specific projects to support contexts of great social diversity as tools for inclusion and improved learning, such as the Learning Communities - Includ-Ed project implemented in Portugal since 2020. This project has facilitated the development of a network of approximately 52 schools, which have implemented measures to promote inclusion through participation, commitment, and equal dialogue among various stakeholders in educational communities, with scientifically proven results.
 
-In July 2023, the Fourth Generation of the Priority Intervention Educational Areas (TEIP4) was launched Legislative  Order  No.  7798/2023,  dated  July  28th  -  which  strengthens  and  refocuses  this  measure  by granting greater autonomy to educational communities, aiming to improve:
+In July 2023, the Fourth Generation of the Priority Intervention Educational Areas (TEIP4) was launched - Legislative Order No. 7798/2023, dated July 28th - which strengthens and refocuses this measure by granting greater autonomy to educational communities, aiming to improve:
 
 -More flexible and innovative interventions to meet the needs of students and their families;
 
@@ -470,6 +463,12 @@ Since  2020,  the  introduction  of  measures  integrated  into  the  Personal, 
 
  Other:
 
+ Multiple and flexible learning pathways 17 are provided for
+
+ Curricula and teaching methods are inclusive in design 18
+
+ Multilingual and intercultural education is supported
+
 Legislation provides for adaptations to the assessment/evaluation process.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
@@ -478,25 +477,15 @@ Inclusion is a fundamental principle of the Portuguese education system (Student
 
 This political priority is focused on the right of each student to an inclusive and equitable quality education that meet their own potential, expectations and needs within the framework of a common and plural educational project that provides everyone with participation and a sense of belonging in effective conditions of equity, thus contributing decisively to greater levels of social cohesion.
 
-All  students  are  entitled  to  adaptations  of  the  evaluation  process  (according  to  Decree-Law  no. 54/2018,  July  6,  Article  28,  in  its  current  version,  both  for  the  internal  and  external  evaluation processes. Students with significant curricular adaptations do not participate in national examinations.  It  is  possible  to  adapt  External  Assessment  Tests  and  Tests  of  Equivalence  to  the Attendance of Basic and Secondary Education according to the students´ needs.
+All students are entitled to adaptations of the evaluation process (according to Decree-Law no. 54/2018, July 6, Article 28, in its current version, both for the internal and external evaluation processes. Students with significant curricular adaptations do not participate in national examinations. It is possible to adapt External Assessment Tests and Tests of Equivalence to the Attendance of Basic and Secondary Education according to the students´ needs.
 
-(
-
-https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588
-
-)
+(https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588)
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and competencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are ‘entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education’ (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
- Multiple and flexible learning pathways 17 are provided for
-
- Curricula and teaching methods are inclusive in design 18
-
- Multilingual and intercultural education is supported
 
 [[END OF PAGE 14]]
 
@@ -508,7 +497,7 @@ https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588
 
 The  National  Strategy  for  Equality  and  Non-Discrimination  -  Portugal  +  Igual  (ENIND)  recognises equality and non-discrimination as a condition for building a sustainable future for Portugal, as a country that effectively realises human rights and fully ensures the participation of all. In this context, it has prioritized intervention in education.
 
-ENIND  is  supported  by  three  Action  Plans  that  define  strategic  and  specific  objectives  on  nondiscrimination based on sex and equality between women and men), to prevent and combat all forms of violence against women, gender violence and domestic violence, and combating discrimination on the grounds of sexual orientation, gender identity and expression, and sex characteristics.
+ENIND is supported by three Action Plans that define strategic and specific objectives on non-discrimination based on sex and equality between women and men), to prevent and combat all forms of violence against women, gender violence and domestic violence, and combating discrimination on the grounds of sexual orientation, gender identity and expression, and sex characteristics.
 
 In the educational context, there are other several guidelines for promoting inclusion and combating prejudice and discrimination, with  emphasis  on the Sexual  Education Law no. 60/2009, of August   6th, which establishes the application of sexual education in basic and secondary schools, applied to all levels of compulsory education.
 
@@ -532,7 +521,7 @@ The National Strategy to Combat Poverty (Council of Ministers Resolution no. 184
 
 This  Strategy  is  articulated  with  other  strategies,  plans  and  programmes  whose  areas  of  action intersect, namely:
 
--National Strategy for Equality and Non-Discrimination 20182030 'Portugal + Equal';
+- National Strategy for Equality and Non-Discrimination 2018-2030 “Portugal + Equal”;
 
 -National Implementation Plan for the Migration Pact;
 
@@ -602,11 +591,11 @@ Moreover, the Portuguese education and training system foresees that young peopl
 
 [[START OF PAGE 18]]
 
-- whose mother tongue is not Portuguese,
+i) whose mother tongue is not Portuguese,
 
-- ii) have not had Portuguese as their language of schooling and
+ii) have not had Portuguese as their language of schooling and
 
-- iii) do not have a knowledge of the Portuguese language corresponding to the level of proficiency B2 or C1,
+iii) do not have a knowledge of the Portuguese language corresponding to the level of proficiency B2 or C1,
 
 upon entering any of the education and training pathways for young people, may attend the subject of Portuguese Non-Native Language, until they reach proficiency level B2.
 
@@ -674,25 +663,25 @@ Capacity-building  of  those  involved  in  inclusive  education,  especially  s
 
 Professionals who are part of the multidisciplinary team to support inclusive education (EMAEI) have also been receiving training on inclusive education. The Ministry of Education Science and Innovation (MECI)  has provided this training through a highly selected set of trainers to:
 
-- Empower professionals for the assessment of learning;
+a) Empower professionals for the assessment of learning;
 
-- Analyse / reflect on learning assessment tools and practices;
+b)Analyse / reflect on learning assessment tools and practices;
 
-- Promote the development of knowledge in the field of assessment of, and for, learning;
+c) Promote the development of knowledge in the field of assessment of, and for, learning;
 
-- Define explicit criteria that serve as benchmarks for decision making;
+d)Define explicit criteria that serve as benchmarks for decision making;
 
-- Contribute  to  the  adoption  of  systematic  assessment  practices  as  a  privileged  resource  to improve teaching and learning;
+e)Contribute to the adoption of systematic assessment practices as a privileged resource to improve teaching and learning;
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-- Design support instruments for collecting information to support decision-making;
+f) Design support instruments for collecting information to support decision-making;
 
-- Empower for the creation of mechanisms for self-regulation of learning;
+g) Empower for the creation of mechanisms for self-regulation of learning;
 
-- Develop collaborative and reflective work skills among professionals and problem solving.
+h) Develop collaborative and reflective work skills among professionals and problem solving.
 
 A website is available with resources for capacity development on inclusion:
 
@@ -748,17 +737,17 @@ The need to strengthen in-service teacher training on non-discrimination, equali
 
 To guarantee the scientific, pedagogical, and didactic quality of student's textbooks, as didactic -pedagogical resources, the government implemented procedures of assessing and certification. Article 11 of Law no. 47/2006, of 28 August, in its current wording, states that the design and preparation of educational resources, namely school textbooks, must respect and obey the assessment criteria for their certification, in terms of their:
 
-- Scientific, linguistic and conceptual rigour;
+a) Scientific, linguistic and conceptual rigour;
 
-- Adequacy for the development of competences defined in the national curriculum;
+b) Adequacy for the development of competences defined in the national curriculum;
 
-- Conformity  with  the  objectives  and  contents  of  the  programmes  or  curricular guidelines in force;
+c) Conformity with the objectives and contents of the programmes or curricular guidelines in force;
 
-- Pedagogical  and  didactic  quality,  particularly  in  terms  of  method,  organisation, information and communication;
+d) Pedagogical and didactic quality, particularly in terms of method, organisation, information and communication;
 
-- Possibility of re-use and suitability for the planned period of validity;
+e) Possibility of re-use and suitability for the planned period of validity;
 
-- Material quality, namely robustness and weight,
+f) Material quality, namely robustness and weight,
 
 as well as constitutional principles and values, namely non-discrimination and gender equality, the  social  and  cultural  diversity  of  the  universe  of  students  for  whom  the  textbooks  are intended.
 
@@ -790,7 +779,7 @@ Access to Portuguese higher education, whether by young people have just complet
 
 Additional information may be found at
 
-https://wwwcdn.dges.gov.pt/sites/default/files/revisao_do_sistema_de_acesso_ao_e nsino_superior_-_2022-2023_0.pdf
+https://wwwcdn.dges.gov.pt/sites/default/files/revisao_do_sistema_de_acesso_ao_ensino_superior_-_2022-2023_0.pdf
 
 -Programs Impulso Jovens STEAM, Impulso Adultos and Impulso MAIS Digital Both Impulso Jovens STEAM and Impulso Adultos programs aim to support initiatives to be developed by higher education institutions, in partnership or consortium with companies, public and/or private employers and including local, regional and national authorities and public entities:
 
@@ -800,9 +789,9 @@ Impulso Adultos aims to support the conversion and updating of skills of active 
 
 The Impulso Mais Digital Program aims:
 
-- encourage  the  modernization  of  the  higher  education  network,  with  an emphasis  on  key  areas  for  the  country's  resilience  and  increasing  skills  in society and companies, particularly in digital and technological areas, through a greater number of training offers from Higher Education Institutions and a greater number  of  young  people and adults trained and requalified, reinforcing  and  accelerating  the  implementation  of  the  'Impulso  Jovens STEAM e Adultos' programs;
+i) encourage the modernization of the higher education network, with an emphasis on key areas for the country's resilience and increasing skills in society and companies, particularly in digital and technological areas, through a greater number of training offers from Higher Education Institutions and a greater number of young people and adults trained and requalified, reinforcing and accelerating the implementation of the “Impulso Jovens STEAM e Adultos” programs;
 
-- ii) to  modernize  pedagogical  practices  in  higher  education,  with  a  view  to promoting academic success, reducing dropout rates and student well-being, as well as technological updating and the modernization of training conditions, the promotion of sustainable agriculture, improving health systems, the green transition and environmental sustainability.
+ii) to modernize pedagogical practices in higher education, with a view to promoting academic success, reducing dropout rates and student well-being, as well as technological updating and the modernization of training conditions, the promotion of sustainable agriculture, improving health systems, the green transition and environmental sustainability.
 
 For more information, see also:
 
@@ -842,13 +831,13 @@ This study, aimed to identify measures and initiatives to support for higher edu
 
 More information available at :
 
-https://wwwcdn.dges.gov.pt/sites/default/files/sucesso_e_inclusao_medidas_e_inici ativas_de_apoio_aos_estudantes_do_ensino_superior._rev_am_dez_vfinal.pdf
+https://wwwcdn.dges.gov.pt/sites/default/files/sucesso_e_inclusao_medidas_e_iniciativas_de_apoio_aos_estudantes_do_ensino_superior._rev_am_dez_vfinal.pdf
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-- Does the legal minimum age for marriage conform to international standards (18 years) 22 :
-
 - What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
+
+- Does the legal minimum age for marriage conform to international standards (18 years) 22:
 
 > 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: ' a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law  and on the evidence of maturity, without deference to culture and tradition.'
 
@@ -916,7 +905,7 @@ As mentioned (question 1.2), Interculturality is one of the six domains (topics)
 
 Portugal´s commitment to an inclusive education and schools' inclusion is a priority. Each school is encouraged to ' recognize the added value of their students diversity, finding ways to deal with that difference, adjusting the teaching processes to the individual characteristics and specific needs of each student, mobilising the means at their disposal to ensure that everyone learns and participates in the life of the educational community ' ( Decree-Law no.54/2018, Preamble).
 
-In  the  constitution  of  groups  (preschool  education)  and  classes  (primary  and  secondary education), children's and young people's heterogeneity should be ' respected, and the school director, in consultation with the pedagogical council, may take into account other criteria that are decisive for promoting success and reducing school early leaving ' ( Legislative Order no.10- A/2018, of 19 th June, article 2, no. 2.
+In  the  constitution  of  groups  (preschool  education)  and  classes  (primary  and  secondary education), children's and young people's heterogeneity should be ' respected, and the school director, in consultation with the pedagogical council, may take into account other criteria that are decisive for promoting success and reducing school early leaving ' ( Legislative Order no.10- A/2018, of 19th June, article 2, no. 2.
 
 Please check above (question 1.2) the measures concerning Roma students , the National Plan to Combat Racism and Discrimination 2021-2025 and the Guide to Preventing and Combating Racial Discrimination in Schools .
 
@@ -930,13 +919,11 @@ Economic  support  for  meals  and  school  supplies  through  School  Social  A
 
 According to The Decree-Law no. 55/2018, of 6 July, curricular autonomy and the flexibility is granted to schools to manage the basic curricular matrices by adapting them to the curricular solutions appropriate to the contexts and needs of their students. This Law is the guarantee of an inclusive school that promotes equality and non-discrimination, whose diversity, flexibility, innovation and personalization respond to the heterogeneity of students, eliminating obstacles and stereotypes in access to the curriculum and learning, based on a multi-level approach that integrates universal, selective and additional measures to support learning and inclusion.
 
-As mentioned above (question 1.2), to guarantee the scientific, pedagogical, and didactic quality of  student's  textbooks,  as  didactic -pedagogical  resources,  the  government  implemented procedures of assessing and certification.
+As mentioned above (question 1.2), to guarantee the scientific, pedagogical, and didactic quality of  student's  textbooks,  as  didactic-pedagogical  resources,  the  government  implemented procedures of assessing and certification.
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
-
-##### Indigenous people:
 
 Regulations that define assessment criteria for the certification of school student´s textbooks were  created/disseminated, being "Values" specifically considered in its paragraph  c) " Promoting education for citizenship, not presenting cultural, ethnic, racial, religious and sexual discrimination; combating stereotypes, valuing diversity, interculturality and multiperspectivism, as well as the principle of gender equality ."
 
@@ -945,6 +932,8 @@ As  we  have  already  mentioned,  similar  situation  is  faced  by  teachers  
 In-service teacher training, organised by the Directorate-General for Education (DGE), continues to address these issues, as above mentioned.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
+
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -976,13 +965,9 @@ In-service teacher training, organised by the Directorate-General for Education 
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-26
+> 26 Supra note 15.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 27]]
 
@@ -1062,7 +1047,7 @@ In Portugal, the system for granting equivalence of qualifications from foreign 
 
 A  Ukraine  Circular  Letter  (Ofício-Circular  10976/2022/DGE-DSDC-ECE)  has  been  published  on  the granting  of  equivalences  and  the  integration  of  children  and  young  people  into  the  Portuguese education system.
 
-Decree-Law on inclusive education, in its current version, applies to all children and young students from all the school clusters and non-grouped schools, professional schools and establishments of pre- school education and basic and secondary education of private, cooperative and solidarity networks. The law on inclusive education reflects a move away from the rationale that it is necessary to categorise in order to intervene. Rather, it seeks to ensure that all learners reach the Students' Profile, which is achieved  through  reasonable  accommodations,  i.e.,  differentiated  learning  paths  that  allow  each learner to progress in the curriculum in a way that ensures their educational success.
+Decree-Law on inclusive education, in its current version, applies to all children and young students from all the school clusters and non-grouped schools, professional schools and establishments of pre-school education and basic and secondary education of private, cooperative and solidarity networks. The law on inclusive education reflects a move away from the rationale that it is necessary to categorise in order to intervene. Rather, it seeks to ensure that all learners reach the Students' Profile, which is achieved  through  reasonable  accommodations,  i.e.,  differentiated  learning  paths  that  allow  each learner to progress in the curriculum in a way that ensures their educational success.
 
 - Have specific measures been adopted for climate displaced persons?
 
@@ -1112,9 +1097,9 @@ As mentioned above, Decree-Law on Inclusive Education, in its current version, a
 
 The law on inclusive education reflects a move away from the rationale that it is necessary to categorise in order to intervene. Rather, it seeks to ensure that all learners reach the Students' Profile, which can be achieved through reasonable accommodations, i.e., differentiated learning paths that allow each learner to progress in the curriculum in a way that ensures their educational success.
 
-Therefore, according to the law on inclusive education, there is no need to have a formal diagnosis to receive specific  supports.  Categorisation  systems  for  learners  have  been  abandoned,  including  the  'categories associated  to  special  educational  needs'.  As  such,  it  removes  segregation  a nd  discrimination  based  on diagnosis  or  clinical  labels,  and  special  legislation  frameworks  for  learners  with  special  needs  from  the educational system. Moreover, it abandons the restricted concept of 'support measures for l earners with special  educational  needs'.  It  takes  a  broader  view,  implying  a  whole  school  approach,  which  considers multiple dimensions and the interactions between them.
+Therefore, according to the law on inclusive education, there is no need to have a formal diagnosis to receive specific  supports.  Categorisation  systems  for  learners  have  been  abandoned,  including  the  'categories associated  to  special  educational  needs'.  As  such,  it  removes  segregation  and  discrimination  based  on diagnosis  or  clinical  labels,  and  special  legislation  frameworks  for  learners  with  special  needs  from  the educational system. Moreover, it abandons the restricted concept of 'support measures for learners with special  educational  needs'.  It  takes  a  broader  view,  implying  a  whole  school  approach,  which  considers multiple dimensions and the interactions between them.
 
-The access of students in need of some additional support to the mainstream school is ensured. Nowadays, approximately 98.9% of students in need of additional support attend mainstream schools. These students attend classes with their peers with no specific needs -and for whom are mobilised selective or additional support measures for learning and inclusion, and often, therapeutic support.
+The access of students in need of some additional support to the mainstream school is ensured. Nowadays, approximately 98.9% of students in need of additional support attend mainstream schools. These students attend classes with their peers with no specific needs – and for whom are mobilised selective or additional support measures for learning and inclusion, and often, therapeutic support.
 
 > 33 Supra note 15.
 
@@ -1130,9 +1115,9 @@ To ensure specialised support for learners, specialised support staff supporting
 
 There are no financial incentives for schools welcoming more diverse student groups. Students shall attend the school of their geographic residence area, and no school can refuse a student's registration based on his/her characteristics.
 
-Inservice  training  is  both  a  right  and  a  duty  and  aims  at  upgrading  and  updating  teachers'  professional knowledge and competences. Decree-Law no. 22/2014, February 11 established the legal regime for the training of teachers.
+In-service  training  is  both  a  right  and  a  duty  and  aims  at  upgrading  and  updating  teachers'  professional knowledge and competences. Decree-Law no. 22/2014, February 11 established the legal regime for the training of teachers.
 
-In-service training became oriented towards improving the quality of teaching by making the training system focused on priorities identified by the school and its educational community. All teachers should do some training in their area of intervention regularly. School clusters define their priorities and needs regarding the domains considered relevant to improve teachers' competences and knowledge. Such diagnosis is usually made in close cooperation with the Teachers' Training Centre (Centro de Formação d e Associação de Escolas, CFAE) to which the school cluster is associated with, and it is the starting point for the definition and design of the training plan of both the schools and the training centres.
+In-service training became oriented towards improving the quality of teaching by making the training system focused on priorities identified by the school and its educational community. All teachers should do some training in their area of intervention regularly. School clusters define their priorities and needs regarding the domains considered relevant to improve teachers' competences and knowledge. Such diagnosis is usually made in close cooperation with the Teachers' Training Centre (Centro de Formação de Associação de Escolas, CFAE) to which the school cluster is associated with, and it is the starting point for the definition and design of the training plan of both the schools and the training centres.
 
 Long  before  the  Decree-Law  no  54/2018  came  into  effect,  the  Directorate-General  for  Education  (DGE) provided teachers' trainers training on the inclusive education framework. It allowed a high percentage of school  stakeholders  to  share  and  discuss  the  underlying  concepts  and  methodological  concepts  of  the legislative framework. Since 2018, DGE has been promoting several training sessions for school leaderships in the inclusive education domain.
 
@@ -1142,23 +1127,23 @@ Capacity  building  of  those  involved  in  inclusive  education,  especially  
 
 Professionals who are part of the multidisciplinary team to support inclusive education (EMAEI) have also been receiving training on inclusive education. The Ministry of Education, Science and Innovation (MECI) provided this training through a highly selected set of trainers to:
 
-- empower professionals for the assessment of learning;
+a. empower professionals for the assessment of learning;
 
-- analyse / reflect on learning assessment tools and practices;
+b. analyse / reflect on learning assessment tools and practices;
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
-- promote the development of knowledge in the field of assessment of, and for, learning;
+c. promote the development of knowledge in the field of assessment of, and for, learning;
 
-- define explicit criteria that serve as benchmarks for decision making;
+d. define explicit criteria that serve as benchmarks for decision making;
 
-- contribute to the adoption of systematic assessment practices as a privileged resource to improve teaching and learning;
+e. contribute to the adoption of systematic assessment practices as a privileged resource to improve teaching and learning;
 
-- design support instruments for collecting information to support decision-making;
+f. design support instruments for collecting information to support decision-making;
 
-- empower for the creation of mechanisms for self-regulation of learning;
+g. empower for the creation of mechanisms for self-regulation of learning;
 
 h. develop collaborative and reflective work skills among professionals and to solve problems.
 
@@ -1172,13 +1157,13 @@ The national curriculum is to be implemented by means of specific methodologies 
 
 In addition to Decree-Law no 55/2018, July 6, the law on Inclusive Education points out the need of each school to recognise the added value of the diversity of its students, finding ways to deal with that difference, adjusting  the  teaching  processes  to  the  individual  characteristics  and  conditions  of  each  student  and mobilising  the  means  available  so  that  everyone  learns  and  participates  in  the  life  of  the  educational community.
 
-This  DecreeLaw  provides  schools  with  the  necessary  autonomy  to  meet  each  student's  needs  by implementing different measures (universal, selective or additional measures).
+This  Decree-Law  provides  schools  with  the  necessary  autonomy  to  meet  each  student's  needs  by implementing different measures (universal, selective or additional measures).
 
 Assistive  products/devices  are  available  to  enable  participation  in  the  learning  process  and  to  access curriculum. At schools´ request, the Information and Communication Technology Resource Centres (Centro de Recursos de Tecnologias da Informação e Comunicação, CRTIC) carry out the assessment of students' needs, for granting the assistive products/devices, that are financed by the Ministry of Education, under the System of Assignment of Assistive Products (Legislative Order No. 7197/2016, June 1). CRTIC also produce adapted material and train teachers to use special software for different disabilities.
 
 The Ministry of Education's Resource Centre (RC) produces schoolbooks in Braille and large font.
 
-All  schools  are  required  to  have  disability-friendly  access  points  (Decree-Law  no.  163/2007,  August  8 -(approves the accessibility regime for buildings and establishments that receive people, public paths and residential buildings).
+All  schools  are  required  to  have  disability-friendly  access  points  (Decree-Law  no.  163/2007,  August  8 – (approves the accessibility regime for buildings and establishments that receive people, public paths and residential buildings).
 
 Order n.º 8584/2017, 29 of September on Regulations for the Award of Scholarships for attendance in Higher Education for Students with Disabilities equal to or greater than 60% ( PT version only).
 
@@ -1192,7 +1177,7 @@ The initiative 'Inclusion for Knowledge', promotes access to higher education an
 
 Additional information available at:
 
-https://www.dges.gov.pt/pt/pagina/bolsas-de-estudo-para-frequencia-de-estudantes-comincapacidade?plid=373
+https://www.dges.gov.pt/pt/pagina/bolsas-de-estudo-para-frequencia-de-estudantes-com-incapacidade?plid=373
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
@@ -1262,23 +1247,23 @@ there is more student housing demand than supply. The goal is also to offer more
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
-
-- Please elaborate further on the measures taken:
 
  Prior to pre-primary education, ECCE services are free
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services are accessible on a non- discriminatory basis
+ ECCE services are accessible on a non-discriminatory basis
 
  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+
+- Please elaborate further on the measures taken:
 
 As  mentioned,  the  Pedagogical  Guidelines  for  Kindergartens  (0-3  years  old)  and  the  Curriculum Guidelines for Pre-School Education (3-6 years old), guide the construction and management of the curriculum, and share the same foundations and principles.
 
@@ -1340,13 +1325,13 @@ The  Law  establishes  the  gratuity  of  pre-primary  education,  which  has  a
 
 Article 4.
 
-- Preschool education is universal for all children from the year they reach 4 years of age;
+1) Preschool education is universal for all children from the year they reach 4 years of age;
 
-- The universality implies, for the State, the obligation to guarantee the existence of a preschool education network that allows the enrollment of all the children covered by it and to ensure that this attendance takes place in a regime of gratuity of the educational component.
+2) The universality implies, for the State, the obligation to guarantee the existence of a pre-school education network that allows the enrollment of all the children covered by it and to ensure that this attendance takes place in a regime of gratuity of the educational component.
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -1358,23 +1343,23 @@ Act Law on Education (Law No. 46/86) as amended by the Law No. 49/05 :
 
 Article 6
 
-- Basic education is universal, compulsory and free and lasts for nine years (primary and lower secondary education).
+1) Basic education is universal, compulsory and free and lasts for nine years (primary and lower secondary education).
 
-- Children who reach the age of 6 by 15 September enter primary school.
+2) Children who reach the age of 6 by 15 September enter primary school.
 
 Article 8
 
-- Basic education comprises three sequential cycles, being the 1st of four years, the 2nd of two years and the 3rd of three years.
+1) Basic education comprises three sequential cycles, being the 1st of four years, the 2nd of two years and the 3rd of three years.
 
 Law No. 85/2009:
 
 Article 1
 
-- This law establishes the regime of compulsory education for children and young people of school age.
+1) This law establishes the regime of compulsory education for children and young people of school age.
 
 Article 2
 
-- For the purposes of paragraph 1 of the preceding article, children and adolescents are considered to be of school age when their ages are between 6 and 18 years old.
+1) For the purposes of paragraph 1 of the preceding article, children and adolescents are considered to be of school age when their ages are between 6 and 18 years old.
 
 [[END OF PAGE 37]]
 
@@ -1382,11 +1367,11 @@ Article 2
 
 Article 3.
 
-- In the context of compulsory education, education is universal and free;
+1) In the context of compulsory education, education is universal and free;
 
-- The gratuity includes tuition fees and other fees related to enrollment, school attendance and certification of achievement, and the students have support in the context of school social action, in accordance with applicable law;
+2) The gratuity includes tuition fees and other fees related to enrollment, school attendance and certification of achievement, and the students have support in the context of school social action, in accordance with applicable law;
 
-- The students covered by this law, in a situation of need, are beneficiaries of the granting of financial support, in the modality of scholarships, in terms and conditions to be regulated by decree-law.
+3) The students covered by this law, in a situation of need, are beneficiaries of the granting of financial support, in the modality of scholarships, in terms and conditions to be regulated by decree-law.
 
 - Is primary education compulsory and free of charge?
 
@@ -1406,9 +1391,9 @@ Act Law on Education (Law No. 46/86) as amended by the Law No. 49/05 :
 
 Article 6
 
-- Basic education is universal, compulsory and free and lasts for nine years (primary and lower secondary education).
+1) Basic education is universal, compulsory and free and lasts for nine years (primary and lower secondary education).
 
-- Children who reach the age of 6 by 15 September enter primary school.
+2) Children who reach the age of 6 by 15 September enter primary school.
 
 Article 8
 
@@ -1418,23 +1403,23 @@ Law No. 85/2009
 
 Article 1
 
-- This law establishes the regime of compulsory education for children and young people of school age.
+1) This law establishes the regime of compulsory education for children and young people of school age.
 
 Article 2
 
-- For the purposes of paragraph 1 of the preceding article, children and adolescents are considered to be of school age when their ages are between 6 and 18 years old.
+1) For the purposes of paragraph 1 of the preceding article, children and adolescents are considered to be of school age when their ages are between 6 and 18 years old.
 
 Article 3.
 
-- In the context of compulsory education, education is universal and free.
+1) In the context of compulsory education, education is universal and free.
 
-- The gratuity includes tuition fees and other fees related to enrollment, school attendance and certification of achievement, and the students have support in the context of school social action, in accordance with applicable law.
+2) The gratuity includes tuition fees and other fees related to enrollment, school attendance and certification of achievement, and the students have support in the context of school social action, in accordance with applicable law.
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
 
-- The students covered by this law, in a situation of need, are beneficiaries of the granting of financial support, in the modality of scholarships, in terms and conditions to be regulated by decree-law.
+3) The students covered by this law, in a situation of need, are beneficiaries of the granting of financial support, in the modality of scholarships, in terms and conditions to be regulated by decree-law.
 
 - What challenges were encountered in realizing primary education?
 
@@ -1478,13 +1463,13 @@ Act Law on Education (Law No. 46/86) as amended by the Law No. 49/05:
 
 Article 6.
 
-- Basic education is universal, compulsory and free and lasts for nine years.
+1) Basic education is universal, compulsory and free and lasts for nine years.
 
-- Children who reach the age of 6 by 15 September enter primary school.
+2) Children who reach the age of 6 by 15 September enter primary school.
 
 Article 8.
 
-- Basic education comprises three sequential cycles, being the 1st of four years, the 2nd of two years and the 3rd of three years (lower secondary education -from 12 to 14 years old).
+1) Basic education comprises three sequential cycles, being the 1st of four years, the 2nd of two years and the 3rd of three years (lower secondary education – from 12 to 14 years old).
 
 Law No. 85/2009
 
@@ -1494,19 +1479,19 @@ Article 1
 
 [[START OF PAGE 40]]
 
-- This law establishes the regime of compulsory education for children and young people of school age.
+1) This law establishes the regime of compulsory education for children and young people of school age.
 
 Article 2
 
-- For  the  purposes  of  paragraph  1  of  the  preceding article,  children  and  adolescents  are considered to be of school age when their ages are between 6 and 18 years old.
+1) For  the  purposes  of  paragraph  1  of  the  preceding article,  children  and  adolescents  are considered to be of school age when their ages are between 6 and 18 years old.
 
 Article 3.
 
-- In the context of compulsory education, education is universal and free.
+1) In the context of compulsory education, education is universal and free.
 
-- The gratuity includes tuition fees and other fees related to enrollment, school attendance and certification of achievement, and the students have support in the context of school social action, in accordance with applicable law.
+2) The gratuity includes tuition fees and other fees related to enrollment, school attendance and certification of achievement, and the students have support in the context of school social action, in accordance with applicable law.
 
-- The students covered by this law, in a situation of need, are beneficiaries of the granting of  financial  support,  in  the  modality  of  scholarships,  in  terms  and  conditions  to  be regulated by decree-law.
+3) The students covered by this law, in a situation of need, are beneficiaries of the granting of  financial  support,  in  the  modality  of  scholarships,  in  terms  and  conditions  to  be regulated by decree-law.
 
 - Please provide the age of enrolment and duration of upper secondary education:
 
@@ -1538,13 +1523,13 @@ Act Law on Education (Law No. 46/86) as amended by the Law No. 49/05:
 
 Article 6.
 
-- Basic education is universal, compulsory and free and lasts for nine years.
+1) Basic education is universal, compulsory and free and lasts for nine years.
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
 
-- Children who reach the age of 6 by 15 September enter primary school.
+2) Children who reach the age of 6 by 15 September enter primary school.
 
 Article 8.
 
@@ -1552,25 +1537,25 @@ Basic education comprises three sequential cycles, being the 1st of four years, 
 
 Article 10.
 
-- The courses of secondary education have the duration of three years.
+2) The courses of secondary education have the duration of three years.
 
 Law No. 85/2009
 
 Article 1
 
-- This law establishes the regime of compulsory education for children and young people of school age.
+1) This law establishes the regime of compulsory education for children and young people of school age.
 
 Article 2
 
-- For the purposes of paragraph 1 of the preceding article, children and adolescents are considered to be of school age when their ages are between 6 and 18 years old.
+1) For the purposes of paragraph 1 of the preceding article, children and adolescents are considered to be of school age when their ages are between 6 and 18 years old.
 
 Article 3.
 
-- In the context of compulsory education, education is universal and free.
+1) In the context of compulsory education, education is universal and free.
 
-- The gratuity  includes  tuition  fees  and  other  fees  related  to  enrollment,  school  attendance  and certification of achievement, and the students have support in the context of school social action, in accordance with applicable law.
+2) The gratuity  includes  tuition  fees  and  other  fees  related  to  enrollment,  school  attendance  and certification of achievement, and the students have support in the context of school social action, in accordance with applicable law.
 
-- The students covered by this law, in a situation of need, are beneficiaries of the granting of financial support, in the modality of scholarships, in terms and conditions to be regulated by decree-law.
+3) The students covered by this law, in a situation of need, are beneficiaries of the granting of financial support, in the modality of scholarships, in terms and conditions to be regulated by decree-law.
 
 Moreover, Declarations of Rectification no. 51/2019, of 7 October and of Rectification to Law no. 96/2019, of  4  September,  establish  that  school  textbooks  are  provided  to  all  students  free  of  charge  within compulsory education.
 
@@ -1578,7 +1563,7 @@ Moreover, Declarations of Rectification no. 51/2019, of 7 October and of Rectifi
 
 For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and  therefore  not  completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yes o No 
+Yes  No 
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
@@ -1646,7 +1631,7 @@ A report with Portuguese Higher Education data is a summary publication that pre
 
 To access the report please click on the following link :
 
-https://wwwcdn.dges.gov.pt/sites/default/files/o_ensino_superior_em_portugal_2021- 2023_versao_final_10_07_2024.pdf
+https://wwwcdn.dges.gov.pt/sites/default/files/o_ensino_superior_em_portugal_2021-2023_versao_final_10_07_2024.pdf
 
 - Revision of the system of access HE 2022/2023 (PT version only)
 
@@ -1668,9 +1653,9 @@ The Impulso Mais Digital Program aims:
 
 [[START OF PAGE 44]]
 
-- to  encourage  the  modernization  of  the  higher  education  network,  with  an emphasis on key areas for the country's resilience and increasing skills in society and companies, particularly in digital and technological areas, through a greater number of training offers from Higher Education Institutions and a greater number of young people and adults trained and requalified, reinforcing and accelerating the implementation of the 'Impulso Jovens STEAM e Adultos' programs;
+i) to  encourage  the  modernization  of  the  higher  education  network,  with  an emphasis on key areas for the country's resilience and increasing skills in society and companies, particularly in digital and technological areas, through a greater number of training offers from Higher Education Institutions and a greater number of young people and adults trained and requalified, reinforcing and accelerating the implementation of the 'Impulso Jovens STEAM e Adultos' programs;
 
-- ii) to modernize pedagogical practices in higher education, with a view to promoting academic  success,  reducing  dropout  rates  and  student  well-being,  as  well  as technological updating and the modernization of training conditions, the promotion  of  sustainable  agriculture,  improving  health  systems,  the  green transition and environmental sustainability.
+ii) to modernize pedagogical practices in higher education, with a view to promoting academic  success,  reducing  dropout  rates  and  student  well-being,  as  well  as technological updating and the modernization of training conditions, the promotion  of  sustainable  agriculture,  improving  health  systems,  the  green transition and environmental sustainability.
 
 -Order  nº7523/2024  -  Amends  the  Regulations  for  Awarding  Scholarships  to  Higher Education Students - July 2024  (PT version only);
 
@@ -1686,7 +1671,7 @@ The Impulso Mais Digital Program aims:
 
 Additional information available at:
 
-https://www.dges.gov.pt/pt/pagina/bolsas-de-estudo-para-frequencia-de-estudantescom-incapacidade?plid=373
+https://www.dges.gov.pt/pt/pagina/bolsas-de-estudo-para-frequencia-de-estudantes-com-incapacidade?plid=373
 
 -Strengthening the National Plan for Accommodation in Higher Education (Portugal: National Plan for Housing in Higher Education (PNAES)
 
@@ -1818,7 +1803,7 @@ For more information please consult: https://www.anqep.gov.pt/np4/RVCC.html (PT 
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1846,7 +1831,7 @@ Student-teacher ratio
 
 -Schools offer a Psychology and Counseling Service (Decree-Law No. 190/91 of May 17, https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1991-639489)  to  support  students  individually and in groups. This service promotes academic success, socio-emotional development, and well-being. It also improves interpersonal relationships within the school community.
 
--The "Framework for the Intervention of Psychologists in School Settings," ( https://www.dge.mec.pt/sites/default/files/EInclusiva/referencial_para_a_intervencao_dos_psicologos _em_contexto_escolar.pdf) published in 2024 by the Directorate-General for Education, guides the actions of psychologists in schools, reaffirming a strong commitment to high quality and equity in education.
+-The "Framework for the Intervention of Psychologists in School Settings," (https://www.dge.mec.pt/sites/default/files/EInclusiva/referencial_para_a_intervencao_dos_psicologos_em_contexto_escolar.pdf) published in 2024 by the Directorate-General for Education, guides the actions of psychologists in schools, reaffirming a strong commitment to high quality and equity in education.
 
 - Please elaborate on each of the measures taken:
 
@@ -1860,13 +1845,13 @@ Within the scope of this Law, we highlight Article 7 on Students' Rights , in wh
 
 [[START OF PAGE 49]]
 
-- be treated with respect and correction by any member of the educational community and they cannot, in any case, be discriminated against on grounds of ethnic origin, health, gender, sexual orientation,  age,  gender  identity,  economic  situation,  cultural  or  social  condition  or  political, ideological, philosophical or religious beliefs;
+i) be treated with respect and correction by any member of the educational community and they cannot, in any case, be discriminated against on grounds of ethnic origin, health, gender, sexual orientation,  age,  gender  identity,  economic  situation,  cultural  or  social  condition  or  political, ideological, philosophical or religious beliefs;
 
-- ii) benefit  from  other  specific  supports  that  match  their  school  needs  or  their  learning  through psychology and guidance services or any other specialized educational support services;
+ii) benefit  from  other  specific  supports  that  match  their  school  needs  or  their  learning  through psychology and guidance services or any other specialized educational support services;
 
-- iii) have safeguarded their safety at school and respected their physical and moral integrity, namely benefiting  from  the  special  protection  enshrined  in  criminal  law  for  members  of  the  school community;
+iii) have safeguarded their safety at school and respected their physical and moral integrity, namely benefiting  from  the  special  protection  enshrined  in  criminal  law  for  members  of  the  school community;
 
-- iv) be assisted, quickly and appropriately, in case of accident or sudden illness, occurred or manifested during  the    school  activities.  Students  have  duties  for  the  same  items  set  out  in  article  7 (as expressed in article 10 of this Law).
+iv) be assisted, quickly and appropriately, in case of accident or sudden illness, occurred or manifested during  the    school  activities.  Students  have  duties  for  the  same  items  set  out  in  article  7 (as expressed in article 10 of this Law).
 
 'School Without Bullying | School Without Violence' Plan aims to equip educational communities with a range of tools to help prevent and combat bullying and cyberbullying, especially among the younger population.
 
@@ -1880,7 +1865,7 @@ This initiative implemented in 2019 as a supportive measure and designed to enco
 
 -the forth and most recent edition, for the 2023/24 school year, certified 417 AE/Ena.
 
-It is important to continue certifying schools that, by staying vigilant, say 'no' to violence and develop a plan to prevent and combat all forms of violence, particularly bullying and cyberbullying. Creating a wellbeing environment within schools is the responsibility of everyone who inhabits each school!
+It is important to continue certifying schools that, by staying vigilant, say 'no' to violence and develop a plan to prevent and combat all forms of violence, particularly bullying and cyberbullying. Creating a well-being environment within schools is the responsibility of everyone who inhabits each school!
 
 - What challenges were encountered in realizing quality education?
 
@@ -1942,9 +1927,9 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
  Other:
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1968,9 +1953,17 @@ It is important to highlight a range of support services that can make a signifi
 
 - Please elaborate on each of the measures taken:
 
-As mentioned (question 1.2), Human Rights is one of the six domains (topics) of the curricular component 'Citizenship and Development' that is compulsory for all the school education levels and cycles.  , As a domain of Education for Citizenship - Citizenship and Development, Human Rights aim to promote a culture of human rights and fundamental freedoms, in all aspects of people's lives. This  domain  contributes  to  children  and  young  people  acquiring  the  knowledge,  skills,  values  and attitudes that allow them to understand, exercise and defend Human Rights, assuming respect for these as a responsibility of all people, in favour of a world of peace, justice, freedom and democracy. Aiming at  promoting  human  rights  education  several  measures  and  activities -such  as  projects  and programmes, awards, teachers and educational resources -are developed in the context of citizenship education, by the Ministry of Education, in collaboration with different national and international entities (including public and private agencies, NGO's and other civil society organisations). The following are just 2 examples of measures and activities: 'Students' Voice' is a set of initiatives developed with and by schools that promote time and space for students to exercise their full, active and creative citizenship, participating in the dynamics of the school. critically analyse and question reality; evaluate and select information; formulate hypotheses; take informed decisions in their daily lives, through the free expression of ideas and debate of opinions; actively participate in the school's educational project
+As mentioned (question 1.2), Human Rights is one of the six domains (topics) of the curricular component ‘Citizenship and Development’ that is compulsory for all the school education levels and cycles. ,
 
-By giving 'Voice to the Students', the aim is for them to and in other moments of the school's daily life.
+As a domain of Education for Citizenship - Citizenship and Development, Human Rights aim to promote a culture of human rights and fundamental freedoms, in all aspects of people's lives.
+
+This domain contributes to children and young people acquiring the knowledge, skills, values and attitudes that allow them to understand, exercise and defend Human Rights, assuming respect for these as a responsibility of all people, in favour of a world of peace, justice, freedom and democracy.
+
+Aiming at promoting human rights education several measures and activities – such as projects and programmes, awards, teachers and educational resources – are developed in the context of citizenship education, by the Ministry of Education, in collaboration with different national and international entities (including public and private agencies, NGO’s and other civil society organisations). The following are just 2 examples of measures and activities:
+
+“Students’ Voice” is a set of initiatives developed with and by schools that promote time and space for students to exercise their full, active and creative citizenship, participating in the dynamics of the school.
+
+By giving “Voice to the Students”, the aim is for them to critically analyse and question reality; evaluate and select information; formulate hypotheses; take informed decisions in their daily lives, through the free expression of ideas and debate of opinions; actively participate in the school's educational project and in other moments of the school's daily life.
 
 > 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
@@ -1984,9 +1977,9 @@ The  Safer  Internet  Center,  of  which  the  Directorate-General  for  Educati
 
 Notable among the services provided by this Center, managed by the Portuguese Association for Victim Support (APAV), and promoted to school administrations and educational communities, are:
 
-- The  Safer  Internet  Helpline,  which  offers  anonymous  and  confidential  telephone  or  online support on issues related to the use of online platforms and technologies, including responses to bullying, cyberbullying situations and all kid of digital violence. It has a system that allows serious incidents to be reported to the competent authorities when there are indications that a child may be in danger;
+a) The Safer Internet Helpline, which offers anonymous and confidential telephone or online support on issues related to the use of online platforms and technologies, including responses to bullying, cyberbullying situations and all kid of digital violence. It has a system that allows serious incidents to be reported to the competent authorities when there are indications that a child may be in danger;
 
-- The illegal online content reporting service (such as the promotion of violence, the promotion of racism, and content related to child abuse and exploitation), which provides a range of tools to anonymously report potentially illegal content.
+b) The illegal online content reporting service (such as the promotion of violence, the promotion of racism, and content related to child abuse and exploitation), which provides a range of tools to anonymously report potentially illegal content.
 
 #### 3.4 Non-state actors in education
 
@@ -1998,7 +1991,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
 Portugal has legal provisions that prohibit discrimination on various grounds, and these provisions apply to both state and non-state educational institutions.
 
-Law  no.  93/2017  is  a  key  piece  of  legislation  that  establishes  the  legal  framework  for  preventing, prohibiting,  and  combating  discrimination  based  on  racial  and  ethnic  origin,  skin  colour,  nationality, descent, and territory of origin. This law explicitly includes education within its scope, ensuring that nonstate educational institutions are also required to comply with anti-discrimination measures.
+Law no. 93/2017 is a key piece of legislation that establishes the legal framework for preventing, prohibiting, and combating discrimination based on racial and ethnic origin, skin colour, nationality, descent, and territory of origin. This law explicitly includes education within its scope, ensuring that non-state educational institutions are also required to comply with anti-discrimination measures.
 
 Additionally,  the  Portuguese  Constitution  enshrines  the  principle  of  equality  and  non-discrimination, which  applies  to  all  citizens  and  institutions,  including  educational  ones2.  This  foundational  legal framework ensures that all students, regardless of the type of educational institution they attend, are protected from discrimination.
 
@@ -2070,7 +2063,7 @@ These  legal  provisions  collectively  ensure  that  non-state  educational  in
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -2192,13 +2185,13 @@ The  Digital  Skills  Observatory  is  an  instrument  for  monitoring,  process
 
 -Program InCode2030
 
-The 'National Digital Skills Initiative e.2030, Portugal INCoDe.2030', is an integrated public policy initiative, launched in 2017, which aims to promote digital skills. Digital skills are essential for the full  exercise  of  citizenship,  also  acting  as  a  facilitator  of  employability,  by  responding  to  the demands of the growing digitization of the labour market: a more qualified working population gives rise to new forms of work, new professions, and innovative products and, therefore, more robust and competitive economic activities. Digital skills are also of the utmost importance for the development of critical and multifaceted thinking, and for promoting inclusion, autonomy, wellbeing and social justice.
+The 'National Digital Skills Initiative e.2030, Portugal INCoDe.2030', is an integrated public policy initiative, launched in 2017, which aims to promote digital skills. Digital skills are essential for the full exercise of citizenship, also acting as a facilitator of employability, by responding to the demands of the growing digitization of the labour market: a more qualified working population gives rise to new forms of work, new professions, and innovative products and, therefore, more robust and competitive economic activities. Digital skills are also of the utmost importance for the development of critical and multifaceted thinking, and for promoting inclusion, autonomy, well-being and social justice.
 
  Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -2296,7 +2289,7 @@ The monitoring processes of the IGEC in Portugal are characterized by being part
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
   Other:
 
@@ -2320,7 +2313,7 @@ In the 2022-2023 global report of the monitoring activity Action of the Multidis
 
 Recommendations for MECI services are also mentioned, such as continuing to promote dynamics of sharing practices between schools, within the scope of inclusive education; promote training in the area of  inclusive  education  for  teachers  and  non-teaching  staff,  specialised  technicians  and  operational assistants (without prejudice to the competences of the municipalities). These recommendations have as their main purpose the need to continue to invest in collaboration and training to build a broad vision of inclusion in education, focused on the dimensions of diversity and quality education.
 
-In the 2016-2017 and 2022-2023 global report of the monitoring activity Curriculum Management and Quality in Pre-School Education (https://www.igec.mec.pt/upload/Relatorios/GCQEPE_2016-2017_2022- 2023.pdf)  it  mentions  as  a  challenge  the  guarantee  that  the  facilities  of  pre-school  education establishments of the private solidarity network have the quality and safety required for children and professionals  and  thus  the  proposal  for  the  tutelage  to  design  a  strategy  to  provide  authorization  to operate from the Ministry of Education, Science and Innovation all these establishments.
+In the 2016-2017 and 2022-2023 global report of the monitoring activity Curriculum Management and Quality in Pre-School Education (https://www.igec.mec.pt/upload/Relatorios/GCQEPE_2016-2017_2022-2023.pdf) it mentions as a challenge the guarantee that the facilities of pre-school education establishments of the private solidarity network have the quality and safety required for children and professionals and thus the proposal for the tutelage to design a strategy to provide authorization to operate from the Ministry of Education, Science and Innovation all these establishments.
 
 Also noteworthy is the need to develop training and training actions aimed at professionals working in Pre-School Education; the revision/updating of the cooperation agreements and the annexes, signed with the institutions of the private solidarity network, in order to better safeguard the quality of the educational responses of pre-school education, supported by the guidelines in force, guaranteeing equal opportunities and equity to all children attending the establishments of the national network and publishing/updating the  legislation  and  guidelines,    by  the  competent  services  of  the  Ministry  of  Education,  Science  and Innovation in order to avoid the adoption of practices in various pre-school education establishments that jeopardize both compliance with the applicable legal framework and the OCEPE.
 
@@ -2334,11 +2327,11 @@ still  necessary to adapt the procedures to the specific realities, with greater
 
 educational community and continuous monitoring of improvements;
 
-- in Leadership and Management, community mobilization and strategic partnerships stand out, but there is still a need to strengthen the strategic vision focused on the quality of learning and improve the management and training of human resources;
+b) in Leadership and Management, community mobilization and strategic partnerships stand out, but there is still a need to strengthen the strategic vision focused on the quality of learning and improve the management and training of human resources;
 
-- regarding  the  Provision  of  the  Educational  Service,  despite  the  curricular  diversification  and successful  strategies,  challenges  persist  in  the  evaluation  of  learning,  collaborative  work  and implementation of active methodologies; and that,
+c) regarding the Provision of the Educational Service, despite the curricular diversification and successful strategies, challenges persist in the evaluation of learning, collaborative work and implementation of active methodologies; and that,
 
-- on Results, although there is the involvement of the school in community initiatives and the involvement of students in citizenship activities, it is necessary to reduce asymmetries in the internal results  of  students,  increase  student  responsibility,  and  reinforce  standards  of  conduct  as preventive and regulatory mechanisms for students discipline.
+d) on Results, although there is the involvement of the school in community initiatives and the involvement of students in citizenship activities, it is necessary to reduce asymmetries in the internal results of students, increase student responsibility, and reinforce standards of conduct as preventive and regulatory mechanisms for students discipline.
 
 In  summary,  it  is  recommended  that  Schools  prioritize  continuous  self-assessment  and  adjusted  to schools,  focusing  on  quality,  inclusion  and  the  Profile  of  Students  Leaving  Compulsory  Education, reinforcing the strategic vision and promoting teacher training for inclusive and equitable educational
 
@@ -2366,7 +2359,7 @@ For reference: UNESCO governing bodies have underlined the need for awareness ra
 
  Other:
 
-Reflecting  Portugal's  commitment  to  promoting  equality  and  non-discrimination  in  education various activities have been undertaken activities to draw attention to the 1960 Convention/Recommendation  on  the  right  to  education  and  to raise  awareness  of  nondiscrimination and equality of educational opportunities. Examples include:
+Reflecting Portugal's commitment to promoting equality and non-discrimination in education various activities have been undertaken activities to draw attention to the 1960 Convention/Recommendation on the right to education and to raise awareness of non-discrimination and equality of educational opportunities. Examples include:
 
 - Intercultural Education Programs: The High Commission for Migration (ACM, I.P.) and the Ministry of Education, Science and Innovation have implemented initiatives like the Network of  Schools  for  Intercultural  Education  (REEI)  and  the  Intercultural  School  Stamp.  These programs aim to promote the integration and educational success of all students, regardless of their cultural or national origins;
 
