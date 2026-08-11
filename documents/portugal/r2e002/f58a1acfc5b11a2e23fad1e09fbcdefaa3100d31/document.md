@@ -8,7 +8,7 @@ The National Strategy for Citizenship Education (ENEC) includes a set of rights 
 
 The Strategy is anchored in the proposal submitted to the Government in January 2017 by the Working Group on Citizenship Education (hereafter GTEC) appointed by joint decree (Decree no. 6173/2016, published in the D.R., II.ª Series, no. 90, of 10 May 2016) of the Secretary of States for Citizenship and Equality and for Education, mandated to devise a strategy for Citizenship Education to be implemented in schools.
 
-N ational S trategy | 1 | C itizenship E ducation
+National Strategy | 1 | Citizenship Education
 
 [[END OF PAGE 1]]
 
@@ -58,7 +58,7 @@ Since the GTEC was created to give fresh impetus to Citizenship Education, in re
 
 - Contents for posting on the Citizenship Education Platform.
 
-N ational S trategy | 2 | C itizenship E ducation
+National Strategy | 2 | Citizenship Education
 
 [[END OF PAGE 2]]
 
@@ -80,9 +80,9 @@ The subject Citizenship and Development is a component of the national curriculu
 
 In addition to the recommendations, the Strategy proposes that in the curricular component of Citizenship and Development pupils learn through plural and responsible participation of all in the construction of themselves as citizens and of fairer and more inclusive societies, in a democratic context of respect for diversity and the defence of Human Rights.
 
-Citizenship  and  Development thus  provides  the  ideal  educational  space  for  learning  with  a  threedimensional impact on the individual's civic stance, and interpersonal, social and intercultural relations.
+Citizenship  and  Development thus  provides  the  ideal  educational  space  for  learning  with  a  three-dimensional impact on the individual's civic stance, and interpersonal, social and intercultural relations.
 
-N ational S trategy | 3 | C itizenship E ducation
+National Strategy | 3 | Citizenship Education
 
 [[END OF PAGE 3]]
 
@@ -120,21 +120,21 @@ Portugal has undertaken several commitments linked with key documents setting th
 
 - The 5th National Plan for Gender Equality, Citizenship and Non-discrimination, 2014 -2017
 
-> Declaration on Promoting Citizenship and the Common Values of Freedom, Tolerance and Non-Discrimination through
-
-> 1 Education. Informal Meeting of European Union Education Ministers, Paris, 17 March 2015.
-
-> http://ec.europa.eu/education/news/2015/ documents/citizenship-education-declaration_en.pdf
-
-> 2 Council  of  Europe  Charter  on  Education  for  Democratic  Citizenship  and  Human  Rights  Education.  Recommendation  CM/ Rec(2010)7,  adopted  by  the  Committee  of  Ministers  on  11  May  2010.  https://rm.coe.int/CoERMPublicCommonSearchServices/ DisplayDCTMContent?documentId=09000016803034e3.  Abridged  version  in  Portuguese  available  at:  http://www.dge.mec.pt/ sites/default/files/ECidadania/Docs_referencia/edc_charter2_pt.pdf
-
+> 1 Declaration on Promoting Citizenship and the Common Values of Freedom, Tolerance and Non-Discrimination through Education. Informal Meeting of European Union Education Ministers, Paris, 17 March 2015.
+>
+> http://ec.europa.eu/education/news/2015/documents/citizenship-education-declaration_en.pdf
+>
+> 2 Council of Europe Charter on Education for Democratic Citizenship and Human Rights Education. Recommendation CM/Rec(2010)7, adopted by the Committee of Ministers on 11 May 2010. https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=09000016803034e3. Abridged version in Portuguese available at: http://www.dge.mec.pt/sites/default/files/ECidadania/Docs_referencia/edc_charter2_pt.pdf
+>
 > 3 Council of Europe (2016). Competences for Democratic Culture. Living together as equals in culturally diverse democratic societies. Strasbourg: Author. http://www.coe.int/t/dg4/education/Source/competences/CDC_en.pdf
-
+>
 > 4 United Nations (1948). Universal Declaration of Human Rights. Adopted and proclaimed by General Assembly resolution 217 A (III) of 10 December 1948.
+>
+> 5 United Nations (2015). Transforming our world: the 2030 Agenda for Sustainable Development. Resolution A/RES/70/1, adopted by the General Assembly on 25 September 2015. http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E
+>
+> 6 UNESCO (2014). Global citizenship education: Preparing learners for the challenges of the 21st century. Paris: Author. http://unesdoc.unesco.org/images/0022/002277/227729E.pdf
 
-> 5 United Nations (2015). Transforming our world: the 2030 Agenda for Sustainable Development. Resolution A/ RES/70/1, adopted by the General Assembly on 25 September 2015. http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E 6 UNESCO (2014). Global citizenship education: Preparing learners for the challenges of the 21st century. Paris: Author. http://unesdoc.unesco.org/images/0022/002277/227729E.pdf
-
-N ational S trategy | 4 | C itizenship E ducation
+National Strategy | 4 | Citizenship Education
 
 [[END OF PAGE 4]]
 
@@ -174,7 +174,7 @@ N ational S trategy | 4 | C itizenship E ducation
 
 - The need to invest and integrate Citizenship Education in early education and continuous teacher training.
 
-N ational S trategy | 5 | C itizenship E ducation
+National Strategy | 5 | Citizenship Education
 
 [[END OF PAGE 5]]
 
@@ -220,7 +220,7 @@ The approach to citizenship education should focus on the three axes that were r
 
 - Social and intercultural relations (democracy, sustainable human development, globalisation and interdependence, peace and the management of conflicts).
 
-N ational S trategy | 6 | C itizenship E ducation
+National Strategy | 6 | Citizenship Education
 
 [[END OF PAGE 6]]
 
@@ -270,7 +270,7 @@ Volunteering.
 
 Other (pursuant to citizenship education needs diagnosed by the school and which fit into the concept of CE proposed by the Group).
 
-N ational S trategy | 7 | C itizenship E ducation
+National Strategy | 7 | Citizenship Education
 
 [[END OF PAGE 7]]
 
@@ -350,7 +350,43 @@ Awareness of the command of
 
 the body
 
-N ational S trategy | 8 | C itizenship E ducation
+PRINCÍPIOS
+
+ÁREAS DE COMPETÊNCIAS
+
+Saber
+
+Aprendizagem
+
+Inclusão
+
+Estabilidade
+
+Sustentabilidade
+
+Base humanista
+
+Linguagens e textos
+
+Informação e comunicação
+
+Pensamento crítico e pensamento criativo
+
+Raciocínio e resolução de problemas
+
+Saber científico, técnico e tecnológico
+
+Relacionamento interpessoal
+
+Desenvolvimento pessoal e autonomia
+
+Bem-estar, saúde e ambiente
+
+Sensibilidade estética e artística
+
+Consciência e domínio do corpo
+
+National Strategy | 8 | Citizenship Education
 
 [[END OF PAGE 8]]
 
@@ -384,7 +420,7 @@ The assessment of learning under the subject Citizenship and Development is gove
 
 The assessment criteria laid out by the Class Committee and the school for the subject of Citizenship and Development must take into account the impact of pupil participation on the activities carried out in the school  and  the  community,  which,  according  to  the  established  rules,  must  feature  in  the  certificate  of completion of compulsory education.
 
-N ational S trategy | 9 | C itizenship E ducation
+National Strategy | 9 | Citizenship Education
 
 [[END OF PAGE 9]]
 
@@ -472,7 +508,7 @@ The school as a whole must base its daily practices on citizenship values and pr
 
 The  different  educational  methodologies  and  practices  which  the  school  adopts  must  induce  the implementation  in  real  life  experiences  and  citizenship  experiences,  adjusted  to  each  education  and teaching level.
 
-N ational S trategy | 10 | C itizenship E ducation
+National Strategy | 10 | Citizenship Education
 
 [[END OF PAGE 10]]
 
@@ -494,9 +530,9 @@ The Strategy for Citizenship Education must be:
 
 - A - Coordinated by a National Team for Citizenship Education ;
 
-- B - Implemented and coordinated by each school School Strategy for Citizenship Education (EECE)
+- B - Implemented and coordinated by each school - School Strategy for Citizenship Education (EECE)
 
-N ational S trategy | 11 | C itizenship E ducation
+National Strategy | 11 | Citizenship Education
 
 [[END OF PAGE 11]]
 
@@ -508,33 +544,25 @@ National Team for Citizenship Education
 
 School
 
-School
-
-School
-
-School
-
-School Strategy for
-
-Citizenship Education
+School Strategy for Citizenship Education
 
 (EECE)
 
-School Strategy for
+School
 
-School Strategy for
-
-School Strategy for
-
-Citizenship Education
-
-Citizenship Education
-
-Citizenship Education
+School Strategy for Citizenship Education
 
 (EECE)
 
+School
+
+School Strategy for Citizenship Education
+
 (EECE)
+
+School
+
+School Strategy for Citizenship Education
 
 (EECE)
 
@@ -560,7 +588,7 @@ Such coordinator will be the school's focal point with the National Team for Cit
 
 The Coordinator of the Strategy for Citizenship Education of the School must submit an annual report, which will include continuous training needs of teachers in this area.
 
-N ational S trategy | 12 | C itizenship E ducation
+National Strategy | 12 | Citizenship Education
 
 [[END OF PAGE 12]]
 
@@ -570,19 +598,19 @@ N ational S trategy | 12 | C itizenship E ducation
 
 It is a digital platform with a double function:
 
-- Making available information and resources;
+1. Making available information and resources;
 
-- Providing support to the National Strategy for Citizenship Education (ENEC);
+a. Providing support to the National Strategy for Citizenship Education (ENEC);
 
-- Helping with monitoring and oversight of the ENEC.
+b. Helping with monitoring and oversight of the ENEC.
 
-- Sharing of practices and networking;
+2. Sharing of practices and networking;
 
-- Sharing of reference practices in Citizenship Education;
+a. Sharing of reference practices in Citizenship Education;
 
-- Networking among schools;
+b. Networking among schools;
 
-- Networking among schools and stakeholders.
+c. Networking among schools and stakeholders.
 
 # RESOURCE AND KNOWLEDGE CENTRES OF THE SCHOOL
 
@@ -596,33 +624,15 @@ In this context initial teacher training, delivered by the Institutions of Highe
 
 Due to the Whole-school approach of  Citizenship  Education, non-teaching staff must be included in this component's specific actions of the training plan.
 
-N ational S trategy | 13 | C itizenship E ducation
+National Strategy | 13 | Citizenship Education
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-In the early stage of implementation of the National Strategy for Citizenship Education the continuous training to be delivered by the CFAE is primarily of theoretical and practical nature, and must focus on the school,  on  its  priorities,  needs  and  contexts,  in  tune  with  its  curricular  and  extra-curricular  projects  and activities, with the targets, and not losing sight of the global vision of the National Strategy for Citizenship Education. To this end the CFAE may sign collaboration protocols with different entities with a view to
+In the early stage of implementation of the National Strategy for Citizenship Education the continuous training to be delivered by the CFAE is primarily of theoretical and practical nature, and must focus on the school,  on  its  priorities,  needs  and  contexts,  in  tune  with  its  curricular  and  extra-curricular  projects  and activities, with the targets, and not losing sight of the global vision of the National Strategy for Citizenship Education. To this end the CFAE may sign collaboration protocols with different entities with a view to providing training in priority areas for the implementation of the strategy and for the establishment of a pool of in house trainers.
 
-## Profile of the Coordinator of the School Strategy for Citizenship Education:
-
- Experience in coordinating teams and organisational skills;
-
- Be receiving/have received training in Citizenship Education;
-
- Possess skills in the use of technological media and Digital Platforms;
-
- Be capable of establishing and maintaining good relations with pupils, teachers and nonteaching staff, based on listening and recognition procedures;
-
- Must have an intercultural vision of education (acknowledgement of the presence of different cultures);
-
- Feel motivated to perform the task without orders from superiors;
-
- Have experience in developing projects at school and possess team organisation skills.
-
-providing training in priority areas for the implementation of the strategy and for the establishment of a pool of in house trainers.
-
-## Profile of the teacher of the subject Citizenship and Development :
+## Profile of the teacher of the subject Citizenship and Development:
 
  Know how to identify and respect the cultural differences of students and the rest of the educational community;
 
@@ -644,7 +654,23 @@ providing training in priority areas for the implementation of the strategy and 
 
  Acknowledgement by the class committee as the best suited teacher for teaching CE to a specific class.
 
-N ational S trategy | 14 | C itizenship E ducation
+## Profile of the Coordinator of the School Strategy for Citizenship Education:
+
+ Experience in coordinating teams and organisational skills;
+
+ Be receiving/have received training in Citizenship Education;
+
+ Possess skills in the use of technological media and Digital Platforms;
+
+ Be capable of establishing and maintaining good relations with pupils, teachers and non-teaching staff, based on listening and recognition procedures;
+
+ Must have an intercultural vision of education (acknowledgement of the presence of different cultures);
+
+ Feel motivated to perform the task without orders from superiors;
+
+ Have experience in developing projects at school and possess team organisation skills.
+
+National Strategy | 14 | Citizenship Education
 
 [[END OF PAGE 14]]
 
@@ -678,6 +704,6 @@ Ties  with the  local  governments  and  municipalities, through  the  Municipal
 
 September 2017
 
-N ational S trategy | 15 | C itizenship E ducation
+National Strategy | 15 | Citizenship Education
 
 [[END OF PAGE 15]]
