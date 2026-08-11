@@ -38,6 +38,8 @@ Education for All 2015.    Federated States of Micronesia
 
 [[START OF PAGE 3]]
 
+# CONTENTS
+
 CHAPTER I
 
 INTRODUCTION 4
@@ -48,7 +50,7 @@ The six EFA goals | 5
 Jomtien | 6
 Strategic Plan for Improving Education | 6
 The National EFA Forum | 8
-The EFA National Plan
+The EFA National Plan | 10
 
 CHAPTER 2.
 
@@ -74,13 +76,13 @@ CHAPTER 4.
 
 SUMMARY 49
 
-# CONTENTS
-
 Education for All 2015.    Federated States of Micronesia 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+# CHAPTER 1
 
 ## 1. INTRODUCTION.
 
@@ -93,8 +95,6 @@ A Consultative Forum on Education for All was created that called for periodic r
 The  World  Education  Forum  held  in  Dakar  was  the  final  event  of  Education  for  All initiated  in  Jomtien,  1990  and  of  the  EFA  2000  needs  assessment.    It  assessed  the achievements,  challenges  and  lessons  of  the  past  decade.  The  Dakar  Framework  for Action is largely based on the data of 2000 Needs Assessment, the most accurate picture given,  to  date,  of  the  state  of  basic  education  worldwide  as  it  highlights  the  gains  and shortfalls  in  educational  provision  and  highlights  problem  areas  and  disadvantaged groups.
 
 The EFA 2000 Needs Assessment shows that progress has been achieved but is uneven and far too slow.   Millions of children have no access to education, millions of adults are still illiterate and the quality of learning has not improved enough. Youth and adults are
-
-# CHAPTER 1
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -144,9 +144,9 @@ The  World  Education  Forum  held  in  Dakar  was  the  final  event  of  Educa
 
 The FSM Strategic Plan for Improvement of Education has grown out of a need for the education  system  to  provide  for  the  economic  growth  and  social  development  of  the Nation and its States.  It has grown out of the need to answer the question:  Why has education not significantly improved over the past 15 - 20 years?  What have been the barriers to improvement?  Where have successes occurred - and why?
 
-6
-
 Education for All 2015.    Federated States of Micronesia
+
+6
 
 [[END OF PAGE 6]]
 
@@ -154,7 +154,7 @@ Education for All 2015.    Federated States of Micronesia
 
 The  development  process  has  been  complex.    Any  broad  scale  plan  in  the  FSM  must reflect  State  concerns.    With  the  high  cost  of  travel  in  the  FSM,  immense  distances between  islands  and  still  emerging  telecommunications  systems,  getting  extensive involvement of all stakeholders is both a time consuming and expensive process.  The development  process  has  employed  site  visits  to  each  State  for  data  collection  and discussions  and  review  of  draft  documents.    Numerous  Nation  wide  conferences  have been  held  for  discussions  on  the  status  of  education  and  to  draft  the  Plan  and  the Language Policy and extensive research.
 
-Much of the initial framework for the understanding the needs of the education system was  detailed  in  the  Asian  Development  Bank  (ADB)  Study:    Human  Resource Development (HRD) in the FSM.  An extensive series of site visits for data collection were followed up with two National Conferences in Pohnpei to discuss the findings and recommendations.    However,  the  findings  of  this  study  would  have  had  little  impact without the National and State Economic Summits that set the vision of where the Nation and States are to go for economic growth and social development.  It was in the Summits that  Education's  theme  was  introduced:    Education  -  Underpinning  Economic  Growth and Social Development.  A Mega Conference was convened as initial followed up to the Summits,  which  was  designed  to  begin  the  discussion  of  education's  specific  roles  in implementation of the policy directives from the Summits.  Site visits were then made to each States for information collection and discussion of issues.  From November 1996 January  1997,  three  working  sessions  were  convened.    First  in  November  1996  was  a Strategic  Plan  Writing  Session.    Second  in  December  was  training  on  School-to-Work and  more  detailed  discussions  on  the  role  of  education  in  economic  development.    In January  1997  a  workshop  was  convened  to  draft  out  the  FSM  Language  Policy.    The drafts of the Strategic Plan and the Language Policy were the basis for a series of States visits to review and solicit comments.  As part of the soliciting process, special efforts were made to include all segments of the FSM community.  From educators, parents and the  community,  traditional  and  church  leaders,  business  and  political  leaders  at  the National and State levels.  This Strategic Plan and Language Policy are the results of this time consuming process.
+Much of the initial framework for the understanding the needs of the education system was  detailed  in  the  Asian  Development  Bank  (ADB)  Study:    Human  Resource Development (HRD) in the FSM.  An extensive series of site visits for data collection were followed up with two National Conferences in Pohnpei to discuss the findings and recommendations.    However,  the  findings  of  this  study  would  have  had  little  impact without the National and State Economic Summits that set the vision of where the Nation and States are to go for economic growth and social development.  It was in the Summits that  Education's  theme  was  introduced:    Education  -  Underpinning  Economic  Growth and Social Development.  A Mega Conference was convened as initial followed up to the Summits,  which  was  designed  to  begin  the  discussion  of  education's  specific  roles  in implementation of the policy directives from the Summits.  Site visits were then made to each States for information collection and discussion of issues.  From November 1996 – January  1997,  three  working  sessions  were  convened.    First  in  November  1996  was  a Strategic  Plan  Writing  Session.    Second  in  December  was  training  on  School-to-Work and  more  detailed  discussions  on  the  role  of  education  in  economic  development.    In January  1997  a  workshop  was  convened  to  draft  out  the  FSM  Language  Policy.    The drafts of the Strategic Plan and the Language Policy were the basis for a series of States visits to review and solicit comments.  As part of the soliciting process, special efforts were made to include all segments of the FSM community.  From educators, parents and the  community,  traditional  and  church  leaders,  business  and  political  leaders  at  the National and State levels.  This Strategic Plan and Language Policy are the results of this time consuming process.
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -188,33 +188,33 @@ The National EFA Forum includes the following members:
 
 - Mr. Samuel Nathan
 
-- Mr. Yap Environment
-
 - Mrs. Emirose Elanzo
+
+- Mr. Yap Environment
 
 - Dr. Jefferson Benjamin
 
-- Ms. Liwiana Ioanis
-
 - Mr. Joe Habuchmai
+
+- Ms. Liwiana Ioanis
 
 - Mrs. Morena Santos
 
-- Mrs. Esiri Edward
-
 - Mrs. Jane Elymore
+
+- Mrs. Esiri Edward
 
 - First Lady Iris Falcam
 
-- Mrs. Louisa Helgenberger
-
 - Mr. Jesse Sidney
+
+- Mrs. Louisa Helgenberger
 
 - Mr. Weldis J. Welley
 
 The unofficial Forum has met twice where individual members had volunteered to do the write up (drafting) of preferred goals.  It is important to note that in both meetings not all members were present.
 
-The National EFA Forum will meet bi-monthly upon official formalization.  It had reidentified the priority areas according to the EFA goals and set in place a plan of action. It will provide ongoing monitoring as well as evaluating the progress of implementing the EFA plan of action.  It will also provide advice on EFA policies and on short and longterm plans for departments and EFA partners and stakeholders.
+The National EFA Forum will meet bi-monthly upon official formalization.  It had re-identified the priority areas according to the EFA goals and set in place a plan of action. It will provide ongoing monitoring as well as evaluating the progress of implementing the EFA plan of action.  It will also provide advice on EFA policies and on short and long-term plans for departments and EFA partners and stakeholders.
 
 The National EFA Forum has made a commitment that it would not only be a round table talk  group  that  is  reactive  and  responsive  to  EFA  problems  but  will  be  proactive  and practical.  It intends to take a complementary role in coordinating EFA activities between the  various  departments  and  partner  agencies  and  ensure  that  implementation  of  EFA plans are on target.
 
@@ -282,7 +282,7 @@ Education for All 2015.    Federated States of Micronesia
 
 ### Education System
 
-The FSM runs an American style education system with free public education from age 6 through age 15 or completion of the 8 th grade.  High School attendance is not assured. All  States  administer  high  school  entrance  tests  to  8 th graders.  Instruction  is  strictly  a responsibility  of  the  States  with  the  National  Government  providing  support  and assistance.    Funding  for  education  is  primarily  provided  through  State  Compact  funds with  some  local  revenue.    The  FSM  is  eligible  for  selected  US  Federal  Education Programs that contribute a significant amount to the overall education budget  The FSM's only Institute of Higher Education (IHE) is the College of Micronesia-FSM (COM-FSM) located in Pohnpei.
+The FSM runs an American style education system with free public education from age 6 through age 15 or completion of the 8th grade.  High School attendance is not assured. All  States  administer  high  school  entrance  tests  to  8th graders.  Instruction  is  strictly  a responsibility  of  the  States  with  the  National  Government  providing  support  and assistance.    Funding  for  education  is  primarily  provided  through  State  Compact  funds with  some  local  revenue.    The  FSM  is  eligible  for  selected  US  Federal  Education Programs that contribute a significant amount to the overall education budget  The FSM's only Institute of Higher Education (IHE) is the College of Micronesia-FSM (COM-FSM) located in Pohnpei.
 
 The FSM has entered into a Compact of Free Association (US Public Law 99-239) with the US of America.  The Compact sets forth a unique relationship between the FSM and the US where financial and other assistance is made in exchange for certain defense and denial  rights  related  concerns.    Under  the  Compact,  certain  US  programs  such  as  the inclusion in the US Postal System, various health program, and other programs continued to be provided to the FSM.  Additionally, provisions provide that the US may extend US federal education programs eligibility to the FSM.
 
@@ -302,6 +302,8 @@ Education for All 2015.    Federated States of Micronesia
 
 The majority of the FSM population still lives in rural areas and subsistence portion of the FSM economy has dropped from 1/3 to 1/5 in the past few years.  Substantial portions of  the  FSM  population  still  are  active  in  the  agriculture  sector.    However,  most  of  the activity  is  subsistence  related  and  not  for  income  production.    A  major  goal  of  the educational  improvement  is  to  address  subsistence  economy  and  attitudes  and  values which  will  allow  students  to  begin  to  see  the  economic  potential  of  the  subsistence portion of the FSM economy as employment and to approach the subsistence or partial subsistence of their life as a business and a source for generating income.
 
+Table 2. Human Development & Economic Indicators
+
 Human Development & Economic Indicators
 --- | ---
 Social Indicators
@@ -317,13 +319,11 @@ Economic Indicators
 *Expenditure on Education as % GDP | 10.72%
 *Expenditure on Health as % GDP | 9.56%
 
-Table 2. Human Development & Economic Indicators
-
 Source:  1999 Pacific Human Development Report, UNDP
 
-- 1994 FSM Census
++ 1994 FSM Census
 
-- Derived by Bureau of Statistics from ADB statistics
+• Derived by Bureau of Statistics from ADB statistics
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -385,13 +385,13 @@ This chapter contains the EFA Action Plan that consists of six priorities addres
 
 - EFA Goal VI. Priority  1 Improving all  aspects  of  the  quality  of  education  and ensuring excellence of all so that recognized and measurable learning outcomes are achieved by all, especially in literacy and innumeracy and essential life skills..
 
-- EFA Goal 1. Priority 2 Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
+- EFA Goal I. Priority 2 Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
 
-- EFA Goal 111. Priority 3 Ensuring that the learning needs of all young people and adults  are  met  through  equitable  access  to  appropriate  learning  and  life-skills programme.
+- EFA Goal III. Priority 3 Ensuring that the learning needs of all young people and adults  are  met  through  equitable  access  to  appropriate  learning  and  life-skills programme.
 
-- EFA Goal 1V. Priority 4 Achieving a 50 percent improvement in levels of adult literacy by 2015, especially for women, and equitable access to basic and continuing education for all adults.
+- EFA Goal IV. Priority 4 Achieving a 50 percent improvement in levels of adult literacy by 2015, especially for women, and equitable access to basic and continuing education for all adults.
 
-- EFA Goal 11. Priority  5 Ensuring  that  by  2015  all  children,  particularly  girls, children  in  difficult  circumstances  and  those  belonging  to  ethnic  minorities,  have access to and complete free and compulsory education of good quality.
+- EFA Goal II. Priority  5 Ensuring  that  by  2015  all  children,  particularly  girls, children  in  difficult  circumstances  and  those  belonging  to  ethnic  minorities,  have access to and complete free and compulsory education of good quality.
 
 - EFA Goal V. Priority 6 Eliminating gender disparities in primary and secondary education by 2005, and achieving gender equity in Education by 2015,with a focus on ensuring girls' full and equal access to and achievement in basic education of good quality.
 
@@ -439,9 +439,9 @@ intensive.    It  appears  that  a  great  many  teachers  in  the  profession  
 
 - Increase the local capacity to provide training and upgrade staff.
 
-- Use distance learning programs as a major mechanism for improving quality of teaching and other staff
-
 - Set up a system of incentives that can attract and keep teacher in the profession.
+
+- Use distance learning programs as a major mechanism for improving quality of teaching and other staff
 
 - Develop infrastructure to facilitate distance leaning programmes
 
@@ -470,7 +470,7 @@ Action 2 Training capacity | 20,000 | 5,000 | 18,000 | 7,000 | 12,000 | 10,000 |
 Action 3 Development of training course | 18,500 | 1,000 | 8,000 | 1,500 | 6, 500 | 1,000
 Action 4 Incentive system | 18,000 | 1,000 | 3,000 | 1,000 | 2,000 | 2,000 | 1,000 | 3,000 | 1,000 | 3,000
 Action 5 Development distance education program | 50,000 | 1,500 | 50,000 | 1,000 | 50,000 | 3,500 | 16,000 | 3,500 | 10,000 | 1,000
-Action 6 Infrastructure | 250,000 | 250,000 | 250,000
+Action 6 Infrastructure | 250,000 |  | 250,000 |  | 250,000
 
 #### Problem b.        Revise national curriculum standards at secondary level to include life long learning programs
 
@@ -540,8 +540,8 @@ Education for All 2015.    Federated States of Micronesia
 Action required for reform of c | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 1 Targeted teachers utilize distance learning | August 2003 | COM-FSM, UoG and UoH, Manoa | National EFA Forum | Targeted teachers in training at UoG and UoH, Manoa
-2 Targeted teachers to be sent for knowledge upgrade training off- island | August 2003/2004 | Department of Education | National EFA Forum | Targeted teachers in training off island
-3 Local-based special upgrade training program and incentives. | August 2003 | SDOE, NDOE and COM- FSM | National EFA Forum | Special local based training program completed and training commenced.
+2 Targeted teachers to be sent for knowledge upgrade training off-island | August 2003/2004 | Department of Education | National EFA Forum | Targeted teachers in training off island
+3 Local-based special upgrade training program and incentives. | August 2003 | SDOE, NDOE and COM-FSM | National EFA Forum | Special local based training program completed and training commenced.
 
 Budget [$US] | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -572,9 +572,9 @@ Education for All 2015.    Federated States of Micronesia
 
 Action required for reform of d | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-1 Professional development | August 2003 | NDOE, SDOE and COM- FSM | NDOE and EFA Forum | Development of training program completed for implementation
+1 Professional development | August 2003 | NDOE, SDOE and COM-FSM | NDOE and EFA Forum | Development of training program completed for implementation
 2. Appraisal support systems | March 2003 | NDOE | NDOE and EFA Forum | Appraisal and Support systems in place
-3. Development of training course on competencies | June 2003 | NDOE and COM-FSM | NDOE/COM- FSM/EFA Forum | Course workshop developed and in place
+3. Development of training course on competencies | June 2003 | NDOE and COM-FSM | NDOE/COM-FSM/EFA Forum | Course workshop developed and in place
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -605,7 +605,7 @@ In the 1994 FSM Census, chapter 8, Education and Literacy, under level of school
 
 There are currently two sources of funding that support the early childhood education in the FSM.  The major one of the two is the Headstart  program,  which  operates  through  a  US  Federal  grant.    Enrollment  at  the  Headstart  programs  in  the  FSM  stands approximately at 4,000 children aged from three to five.  The other one operates out of the four major religious groups including; Protestants, Catholics , Seventh Day Adventists ,and Calvary Baptist.
 
-The Title 41 of the Federated States of Micronesia mandates a compulsory education law requiring all children from ages 6 to 15 or until graduation from 8 th grade.  A child must be in school (grade 1) when he/she turns 6 before or by the end of September of the current  school  year.    The  Headstart  program  can  admit  children  only  aged  three  to  five  and  can  open  a  Headstart  center  in  a community only if there are at least ten (10) eligible children in that community or enroll children from nearby communities.
+The Title 41 of the Federated States of Micronesia mandates a compulsory education law requiring all children from ages 6 to 15 or until graduation from 8th grade.  A child must be in school (grade 1) when he/she turns 6 before or by the end of September of the current  school  year.    The  Headstart  program  can  admit  children  only  aged  three  to  five  and  can  open  a  Headstart  center  in  a community only if there are at least ten (10) eligible children in that community or enroll children from nearby communities.
 
 Due  to  financial  constraints  Early  Childhood  Education  (ECE)  has  not  come  under  the  formal  school  system.  There  is  still  no government policy for this level.   The ECE centers operating at present are funded by a US Federal grant.  They are well staffed and resourced but are running independently and are small in number.
 
@@ -637,9 +637,9 @@ Education for All 2015.    Federated States of Micronesia
 
 Action require for reform of ( b) | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-1. Planning Division to coordinate [Policy writing] | January 2003 | Policy writing begins
-Submission of Policy to MOE | January 2004 | Policy to MOE for approval
-Submission to Government | January 2005 | Revision of Education Act
+1. Planning Division to coordinate [Policy writing] | January 2003 |  |  | Policy writing begins
+Submission of Policy to MOE | January 2004 |  |  | Policy to MOE for approval
+Submission to Government | January 2005 |  |  | Revision of Education Act
 
 Budget [$US] | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -666,8 +666,8 @@ The Education Department should include in its Plan the facilities and equipment
 
 Actions or steps required | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-1.Provision of resources and equipment a) Identification of a minimum supply of teaching resources and equipment be identified for ECE Centers and Special Education needs, along with costing and suppliers. b) Delivery of resources and equipment to centres and schools. | By January 2003 December 2003 | EFA Forum | Distribution of resources and equipment to all centres and schools.
-2. Establish and form parental advisory services | On-going | EFA Forum | Advisory services established with result of positive change of parents attitude towards ECE and SNE
+1.Provision of resources and equipment a) Identification of a minimum supply of teaching resources and equipment be identified for ECE Centers and Special Education needs, along with costing and suppliers. b) Delivery of resources and equipment to centres and schools. | By January 2003 December 2003 |  | EFA Forum | Distribution of resources and equipment to all centres and schools.
+2. Establish and form parental advisory services | On-going |  | EFA Forum | Advisory services established with result of positive change of parents attitude towards ECE and SNE
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -683,7 +683,7 @@ Budget US | 2003 | 2004 | 2005 | 2006 | 2007
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Donor | Local | Donor | Local | Donor | Local | Donor | Local | Donor | Local
 1. Resources and equipment for all centers | 300,000 | 310,000 | 300,000 | 30,000 | 300,000 | 30,00 | 250,000 | 25,000 | 200,000 | 20,000
-2. Parental Advisory Services - establishment costs | 60,000 | 6,000 | 60,000 | 6,000 | 10,000 | 10,000 | 10,000
+2. Parental Advisory Services - establishment costs | 60,000 | 6,000 | 60,000 | 6,000 |  | 10,000 |  | 10,000 |  | 10,000
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -723,7 +723,7 @@ Education for All 2015.    Federated States of Micronesia
 
 - Provide training to teachers to become competent in life skills delivery.
 
-Action required for reform of a | Timefra me | Person Responsible | Monitoring | Progress Indicator
+Action required for reform of a | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
 1. Revise primary and secondary curriculum standards to include Life Skills. | January 2003 | State Department of Education and NDOE and COM-FSM | EFA Forum | Relevant life skills curriculum included as part of the curricula in schools
 2. Life skills are require subjects in schools | February 2005 | SDOE and NDOE | EFA Forum | All schools have in place life skills program as part of their curriculum
@@ -733,8 +733,8 @@ Budget [$US] | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov
 Action 1 Curriculum revision | 24,000 | 2,000 | 24,000 | 2,000 | 24,000 | 2,500 | 20,000 | 1,500
-Action 2 Life skills requirement in schools | 10,000 | 5,000 | 24,000 | 5,000 | 24,000 | 4,000 | 1,000 | 4,000 | 1,000
-Action 3 Competent teachers | 50,000 | 5,000 | 50,000 | 5,000 | 50,000 | 2,000 | 50,000 | 2,000 | 2,000 | 1,000
+Action 2 Life skills requirement in schools |  |  | 10,000 | 5,000 | 24,000 | 5,000 | 24,000 | 4,000 | 1,000 | 4,000 | 1,000
+Action 3 Competent teachers |  |  | 50,000 | 5,000 | 50,000 | 5,000 | 50,000 | 2,000 | 50,000 | 2,000 | 2,000 | 1,000
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -754,13 +754,12 @@ Education for All 2015.    Federated States of Micronesia
 
 Action require for reform of b | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | --- | ---
-1. | National community awareness campaigns District meetings Newspaper Radio | January 2003 Annually | Department of Education EFA Forum | EFA Forum | A wider understanding of the relevance of education for life.
+1. National community awareness campaigns District meetings Newspaper Radio Television | January 2003 Annually | Department of Education EFA Forum | EFA Forum | A wider understanding of the relevance of education for life.
 
 Budget [$US] | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov
-Action 1
-District meetings Newspaper, Radio Television | 15,000 | 2,000 | 15,000 | 2,000 | 15,000 | 2,000
+Action 1 District meetings Newspaper, Radio or Television | 15,000 | 2,000 | 15,000 | 2,000 | 15,000 | 2,000
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -782,13 +781,14 @@ Education for All 2015.    Federated States of Micronesia
 
 Action required for reform of c | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-1. Develop pathways 2. Practical Information | June 2004 January | NDOE, SDOE and COM NDOE and SDOE | NEFAF NEFAF | Pathways ready for implementation Information collected, developed and disseminated.
-2004
+1. Develop pathways | June 2004 | NDOE, SDOE and COM | NEFAF | Pathways ready for implementation
+2. Practical Information | January 2004 | NDOE and SDOE | NEFAF | Information collected, developed and disseminated.
 
 Budget [$US] | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov
-Action 1 Develop Pathways Practical Information | 18,000 5,000 | 3,000 1,000 | 18,000 5,000 | 3,000 1,000
+Action 1 Develop Pathways |  |  | 18,000 | 3,000 | 18,000 | 3,000
+Practical Information |  |  | 5,000 | 1,000 | 5,000 | 1,000
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -812,9 +812,9 @@ Education for All 2015.    Federated States of Micronesia
 
 Action required for reform of d | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-1. Provide training to trainers and policy makers | June 2003 | Training agenda and reports on file.
-2. Refine current policies | October 2003 | Revised HIV-AIDS policies and health related school policies at schools and offices
-3. Conduct training on policies to students, staff, PTA's and public | January 2004 | Training schedule, agenda, reports and attendance sheets on file.
+1. Provide training to trainers and policy makers | June 2003 |  |  | Training agenda and reports on file.
+2. Refine current policies | October 2003 |  |  | Revised HIV-AIDS policies and health related school policies at schools and offices
+3. Conduct training on policies to students, staff, PTA's and public | January 2004 |  |  | Training schedule, agenda, reports and attendance sheets on file.
 
 Education for All 2015.    Federated States of Micronesia
 
@@ -828,7 +828,7 @@ Budget [$US] | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov
 Action 1 Provide training
-Action 2 Refine and implement AIDS- HIV policies
+Action 2 Refine and implement AIDS-HIV policies
 Action 3 Conduct training
 
 Education for All 2015.    Federated States of Micronesia
@@ -913,8 +913,8 @@ The COM - FSM curriculum will be developed and put in place to accommodate the t
 
 Action require for reform of a | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-1. Adequate funding for teacher training] | January 2003 | Funding received
-2. Upgrading of curriculum | Curriculum upgraded
+1. Adequate funding for teacher training] | January 2003 |  |  | Funding received
+2. Upgrading of curriculum |  |  |  | Curriculum upgraded
 
 Budget [$US] | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -983,7 +983,7 @@ Education for All 2015.    Federated States of Micronesia
 
 ### EFA Goal.   Priority 5 Ensuring that by 2015 all children, particularly girls, children in difficult circumstances and those belonging to ethnic minorities, are access to and complete free and compulsory education of good quality.
 
-- FSM Public Law No 8-32 states that 'Education shall be provided and be compulsory for all children, including children with disabilities, from first grade through to graduation from the eighth grade, or until the age of fourteen years.
+- FSM Public Law No 8-32 states that “Education shall be provided and be compulsory for all children, including children with disabilities, from first grade through to graduation from the eighth grade, or until the age of fourteen years.
 
 - Attendance at school shall be required of all children between the ages of six and fourteen or until completion of the eighth grade, unless excluded from school or exempted from attendance for sickness or behavioral problems as determined by the appropriate State authorities.
 
@@ -995,7 +995,7 @@ Any person who knowingly permits a child who is under his control to be absent f
 
 The States may impose such penalties as each deems appropriate of this section.
 
-Good cause for absences shall be determined by State authorities and may include physical and mental infirmities, family or social responsibilities and disruptive or violent behavior.'
+Good cause for absences shall be determined by State authorities and may include physical and mental infirmities, family or social responsibilities and disruptive or violent behavior.”
 
 Problem a. | Lack of a definition of a drop out student
 --- | ---
@@ -1070,14 +1070,14 @@ Education for All 2015.    Federated States of Micronesia
 
 Action require for reform of b | Timeframe | Person Responsible | Monitoring | Progress Indicator
 --- | --- | --- | --- | ---
-1. Create an office for tracking system | January 2004 | EFA Forum | Memo creating office on file
-2. Design tracking system | June 2004 | EFA Forum | Tracking system approved.
-3. Implement tracking system | September 2004 | EFA Forum | Tracking system in place
+1. Create an office for tracking system | January 2004 |  | EFA Forum | Memo creating office on file
+2. Design tracking system | June 2004 |  | EFA Forum | Tracking system approved.
+3. Implement tracking system | September 2004 |  | EFA Forum | Tracking system in place
 
 Budget [$US] | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov | Donor | Local Gov
-Action 1 Create an office | 50,000 | 3,000 | 20,000 | 2000 | 2,000 | 2,000
+Action 1 Create an office |  |  | 50,000 | 3,000 | 20,000 | 2000 |  | 2,000 |  | 2,000
 Action 2 Design tracking system
 Action 3 Implement system
 
@@ -1095,7 +1095,7 @@ Education for All 2015.    Federated States of Micronesia
 
 - Expand/develop career programs that target
 
-- A] completion of secondary school [8 th grade]
+- A] completion of secondary school [8th grade]
 
 - B] completion of high school and
 
@@ -1149,7 +1149,7 @@ Education for All 2015.    Federated States of Micronesia
 
 [[START OF PAGE 48]]
 
-### EFA Goal V Priority 6 : Eliminating gender disparities in primary and secondary education by 2005, and achieving general  equality  in  education  by  2015,  with  a  focus  on  ensuring  girls'  full  and  equal  access  to  and  achievement  in  basic education of good quality .
+### EFA Goal V Priority 6: Eliminating gender disparities in primary and secondary education by 2005, and achieving general equality in education by 2015, with a focus on ensuring girls' full and equal access to and achievement in basic education of good quality.
 
 In FSM primary education by law is free and compulsory.  The expectation in the secondary area is that students remain at school until they have graduated, grade 8 or the age of fifteen years.   There is no gender disparity in education in the FSM.  Everyone is equal with all subjects being available to all students. There is a tendency for girls to be higher achievers.  Therefore, at this time there are no proposed actions for this EFA priority as it is not considered a problem area.
 
@@ -1160,6 +1160,8 @@ Education for All 2015.    Federated States of Micronesia
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
+
+# CHAPTER 4
 
 ## SUMMARY
 
@@ -1188,8 +1190,6 @@ There is a great need for:
 - Improving resources and facilities
 
 Proactive initiatives such as those identified in the priority areas are key components to achieving  good  quality  education  in  the  FSM.  This  provides  responsibility  for  all stakeholders in both government and civil society to work together and strives to provide the people of the FSM, and especially the children, with good quality, relevant education. Without funding  and  technical  assistance  from  the  donor  community  it  would  be  very difficult to implement the bulk of activities identified in the Strategic Plan
-
-# CHAPTER 4
 
 Education for All 2015.    Federated States of Micronesia
 
