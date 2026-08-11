@@ -6,7 +6,7 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO
 
 ═════════════════════════════════════════════════════════════
 
-> DECRETO N 1 38.-
+DECRETO Nº 38.-
 
 NOSOTROS,  REPRESENTANTES  DEL  PUEBLO  SALVADOREÑO  REUNIDOS  EN  ASAMBLEA CONSTITUYENTE,  PUESTA  NUESTRA  CONFIANZA  EN  DIOS,  NUESTRA  VOLUNTAD  EN  LOS  ALTOS DESTINOS  DE  LA  PATRIA  Y  EN  EJERCICIO  DE  LA  POTESTAD  SOBERANA  QUE  EL  PUEBLO  DE  EL SALVADOR  NOS  HA  CONFERIDO,  ANIMADOS  DEL  FERVIENTE  DESEO  DE  ESTABLECER  LOS FUNDAMENTOS DE LA CONVIVENCIA NACIONAL CON BASE EN EL RESPETO A LA DIGNIDAD DE LA PERSONA  HUMANA,  EN  LA  CONSTRUCCIÓN  DE  UNA  SOCIEDAD  MAS  JUSTA,  ESENCIA  DE  LA DEMOCRACIA Y AL ESPÍRITU DE LIBERTAD Y JUSTICIA,  VALORES DE NUESTRA HERENCIA HUMANISTA,
 
@@ -16,7 +16,7 @@ DECRETAMOS, SANCIONAMOS Y PROCLAMAMOS, la siguiente
 
 ## TITULO I
 
-### CAPITULO UNIDO
+### CAPITULO UNICO
 
 ### LA PERSONA HUMANA Y LOS FINES DEL ESTADO
 
@@ -229,7 +229,7 @@ En casos de guerra, invasión del territorio, rebelión, sedición, catástrofe,
 
 También podrán suspenderse las garantías contenidas en los Arts. 12 inciso segundo y 13 inciso segundo de esta Constitución, cuando así lo acuerde el Órgano Legislativo, con el voto favorable de las tres cuartas partes de los Diputados electos; no excediendo la detención administrativa de quince días.
 
-INCISO 3 1 SUPRIMIDO (1)
+INCISO 3º SUPRIMIDO (1)
 
 ##### Art. 30.-
 EL PLAZO DE SUSPENSIÓN DE LAS GARANTÍAS CONSTITUCIONALES NO EXCEDERÁ DE 30 DIAS. TRANSCURRIDO ESTE PLAZO PODRÁ PROLONGARSE LA SUSPENSIÓN, POR IGUAL PERIODO Y MEDIANTE NUEVO DECRETO, SI CONTINÚAN LAS CIRCUNSTANCIAS QUE LA MOTIVARON. SI NO SE EMITE TAL DECRETO, QUEDARAN  ESTABLECIDAS DE PLENO DERECHO LAS GARANTÍAS SUSPENDIDAS. (1)
@@ -295,19 +295,19 @@ El Estado empleará todos los recursos que estén a su alcance para proporcionar
 ##### Art. 38.-
 El trabajo estará regulado por un Código que tendrá por objeto principal armonizar las relaciones entre patronos y trabajadores, estableciendo sus derechos y obligaciones. Estará fundamentado en principios generales que tiendan al mejoramiento de las condiciones de vida de los trabajadores, e incluirá especialmente los derechos siguientes:
 
-- 1 1 -En una misma empresa o establecimiento y en idénticas circunstancias, a trabajo igual debe corresponder igual remuneración al trabajador, cualquiera que sea su sexo, raza, credo o nacionalidad;
+- 1º- En una misma empresa o establecimiento y en idénticas circunstancias, a trabajo igual debe corresponder igual remuneración al trabajador, cualquiera que sea su sexo, raza, credo o nacionalidad;
 
-- 2 1 -Todo  trabajador tiene derecho a devengar  un salario mínimo, que se fijará periódicamente. Para fijar este salario se atenderá sobre todo al costo de la vida, a la índole de la labor, a los diferentes sistemas de remuneración, a las distintas zonas de producción y a otros criterios similares. Este salario deberá ser suficiente para satisfacer las necesidades normales del hogar del trabajador en el orden material, moral y cultural.
+- 2º- Todo trabajador tiene derecho a devengar un salario mínimo, que se fijará periódicamente. Para fijar este salario se atenderá sobre todo al costo de la vida, a la índole de la labor, a los diferentes sistemas de remuneración, a las distintas zonas de producción y a otros criterios similares. Este salario deberá ser suficiente para satisfacer las necesidades normales del hogar del trabajador en el orden material, moral y cultural.
 
 En los trabajos a destajo, por ajuste o precio alzado, es obligatorio asegurar el salario mínimo por jornada de trabajo;
 
-- 3 1 -El  salario  y  las  prestaciones  sociales,  en  la  cuantía  que  determine  la  ley,  son inembargables y no se pueden compensar ni retener, salvo por obligaciones alimenticias. También pueden retenerse por obligaciones de seguridad social, cuotas sindicales o impuestos. Son inembargables los instrumentos de labor de los trabajadores;
+- 3º- El salario y las prestaciones sociales, en la cuantía que determine la ley, son inembargables y no se pueden compensar ni retener, salvo por obligaciones alimenticias. También pueden retenerse por obligaciones de seguridad social, cuotas sindicales o impuestos. Son inembargables los instrumentos de labor de los trabajadores;
 
-- 4 1 -El salario debe pagarse en moneda de curso legal. El salario y las prestaciones sociales constituyen créditos privilegiados en relación con los demás créditos que puedan existir contra el patrono;
+- 4º- El salario debe pagarse en moneda de curso legal. El salario y las prestaciones sociales constituyen créditos privilegiados en relación con los demás créditos que puedan existir contra el patrono;
 
-- 5 1 -Los  patronos  darán  a  sus  trabajadores  una  prima  por  cada  año  de  trabajo.  La  ley establecerá la forma en que se determinará su cuantía en relación con los salarios;
+- 5º- Los patronos darán a sus trabajadores una prima por cada año de trabajo. La ley establecerá la forma en que se determinará su cuantía en relación con los salarios;
 
-- 6 1 -La jornada ordinaria de trabajo efectivo diurno no excederá de ocho horas; y la semana laboral, de cuarenta y cuatro horas.
+- 6º- La jornada ordinaria de trabajo efectivo diurno no excederá de ocho horas; y la semana laboral, de cuarenta y cuatro horas.
 
 El máximo de horas extraordinarias para cada clase de trabajo será determinado por la ley.
 
@@ -327,25 +327,25 @@ La jornada nocturna y la que se cumpla en tareas peligrosas o insalubres, será 
 
 La ley determinará la extensión de las pausas que habrán de interrumpir la jornada cuando,  atendiendo  a  causas  biológicas,  el  ritmo  de  las  tareas  así  lo  exija,  y  la  de aquellas que deberán mediar entre dos jornadas. Las horas extraordinarias y el trabajo nocturno serán remunerados con recargo;
 
-7 1 -Todo trabajador tiene derecho a un día de descanso remunerado por cada semana laboral, en la forma que exija la  ley.
+7º- Todo trabajador tiene derecho a un día de descanso remunerado por cada semana laboral, en la forma que exija la ley.
 
-Los trabajadores que no gocen de descanso en los días  indicados anteriormente, tendrán derecho a una remuneración extraordinaria por los servicios que presten en esos días y a un descanso compensatorio;
+Los trabajadores que no gocen de descanso en los días indicados anteriormente, tendrán derecho a una remuneración extraordinaria por los servicios que presten en esos días y a un descanso compensatorio;
 
-8 1 -Los trabajadores tendrán derecho a descanso remunerado en los días de asueto que señala la ley; ésta determinará la clase de labores en que no regirá esta disposición, pero en tales casos, los trabajadores tendrán derecho a remuneración extraordinaria;
+8º- Los trabajadores tendrán derecho a descanso remunerado en los días de asueto que señala la ley; ésta determinará la clase de labores en que no regirá esta disposición, pero en tales casos, los trabajadores tendrán derecho a remuneración extraordinaria;
 
-9 1 -Todo trabajador que acredite una prestación mínima de servicios durante un lapso dado, tendrá derecho a vacaciones anuales remuneradas en la forma que determinará  la ley. Las vacaciones no podrán compensarse en dinero, y a la obligación del patrono de darlas corresponde la del trabajador de tomarlas;
+9º- Todo trabajador que acredite una prestación mínima de servicios durante un lapso dado, tendrá derecho a vacaciones anuales remuneradas en la forma que determinará la ley. Las vacaciones no podrán compensarse en dinero, y a la obligación del patrono de darlas corresponde la del trabajador de tomarlas;
 
-10 1 -Los menores de catorce años, y los que habiendo cumplido esa edad sigan sometidos a la enseñanza obligatoria en virtud de la ley, no podrán ser ocupados en ninguna clase de trabajo.
+10º- Los menores de catorce años, y los que habiendo cumplido esa edad sigan sometidos a la enseñanza obligatoria en virtud de la ley, no podrán ser ocupados en ninguna clase de trabajo.
 
 Podrá autorizarse su ocupación cuando se considere indispensable para la subsistencia de los mismos o de su familia, siempre que ello no les impida cumplir con el mínimo de instrucción obligatoria.
 
 La jornada de los menores de dieciséis años no podrá ser mayor de seis horas diarias y de treinta y cuatro semanales, en cualquier clase de trabajo.
 
-Se  prohíbe  el  trabajo  a  los  menores  de  dieciocho  años  y  a  las  mujeres  en  labores insalubres  o  peligrosas.  También  se  prohíbe  el  trabajo  nocturno  a  los  menores  de dieciocho años.
+Se prohíbe el trabajo a los menores de dieciocho años y a las mujeres en labores insalubres o peligrosas. También se prohíbe el trabajo nocturno a los menores de dieciocho años.
 
 La ley determinará las labores peligrosas o insalubres;
 
-11 1 -El patrono que despida a un trabajador sin causa justificada está obligado a indemnizarlo conforme a la ley;
+11º- El patrono que despida a un trabajador sin causa justificada está obligado a indemnizarlo conforme a la ley;
 
 ════════════════════════════════════════════════════════════
 
@@ -361,7 +361,7 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO
 
 ═════════════════════════════════════════════════════════════
 
-12 1 -La ley determinará las condiciones bajo las cuales los patronos estarán obligados a pagar a sus trabajadores permanentes, que renuncien a su trabajo, una prestación económica cuyo monto se fijará en relación con los salarios y el tiempo de servicio.
+12º- La ley determinará las condiciones bajo las cuales los patronos estarán obligados a pagar a sus trabajadores permanentes, que renuncien a su trabajo, una prestación económica cuyo monto se fijará en relación con los salarios y el tiempo de servicio.
 
 La  renuncia  produce  sus  efectos  sin  necesidad  de  aceptación  del  patrono,  pero  la negativa de éste a pagar la correspondiente prestación constituye presunción legal de despido injusto.
 
@@ -621,44 +621,44 @@ Son ciudadanos todos los salvadoreños mayores de dieciocho años.
 ##### Art. 72.-
 Los derechos políticos del ciudadano son:
 
-- 1 1 -Ejercer el sufragio;
+- 1º- Ejercer el sufragio;
 
-- 2 1 -Asociarse para constituir partidos políticos de acuerdo con la ley e ingresar a los ya constituidos;
+- 2º- Asociarse para constituir partidos políticos de acuerdo con la ley e ingresar a los ya constituidos;
 
-- 3 1 -Optar a cargos públicos cumpliendo con los requisitos que determinan esta Constitución y las leyes secundarias.
+- 3º- Optar a cargos públicos cumpliendo con los requisitos que determinan esta Constitución y las leyes secundarias.
 
 ##### Art. 73.-
 Los deberes políticos del ciudadano son:
 
-- 1 1 -Ejercer el sufragio;
+- 1º- Ejercer el sufragio;
 
-- 2 1 -Cumplir y velar porque se cumpla la Constitución de la  República;
+- 2º- Cumplir y velar porque se cumpla la Constitución de la República;
 
-- 3 1 -Servir al Estado de conformidad con la ley.
+- 3º- Servir al Estado de conformidad con la ley.
 
-- El ejercicio del sufragio comprende, además, el derecho de votar en la consulta popular directa, contemplada en esta Constitución.
+El ejercicio del sufragio comprende, además, el derecho de votar en la consulta popular directa, contemplada en esta Constitución.
 
 ##### Art. 74.-
 Los derechos de ciudadanía se suspenden por las causas siguientes :
 
-- 1 1 - Auto de prisión formal;
+- 1º- Auto de prisión formal;
 
-- 2 1 - Enajenación mental;
+- 2º- Enajenación mental;
 
-- 3 1 - Interdicción judicial;
+- 3º- Interdicción judicial;
 
-- 4 1 - Negarse a desempeñar, sin justa causa, un cargo de  elección popular; en este caso, la suspensión durará todo el tiempo que debiera desempeñarse el cargo rehusado.
+- 4º- Negarse a desempeñar, sin justa causa, un cargo de elección popular; en este caso, la suspensión durará todo el tiempo que debiera desempeñarse el cargo rehusado.
 
 ##### Art. 75.-
 Pierden los derechos de ciudadano :
 
-- 1 1 -Los de conducta notoriamente viciada;
+- 1º- Los de conducta notoriamente viciada;
 
-- 2 1 -Los condenados por delito;
+- 2º- Los condenados por delito;
 
-- 3 1 -Los que compren o vendan votos en las elecciones;
+- 3º- Los que compren o vendan votos en las elecciones;
 
-- 4 1 -Los que suscriban actas, proclamas o adhesiones para promover o apoyar la reelección o
+- 4º- Los que suscriban actas, proclamas o adhesiones para promover o apoyar la reelección o
 
 ════════════════════════════════════════════════════════════
 
@@ -674,9 +674,9 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO
 
 ═════════════════════════════════════════════════════════════
 
-- la continuación del Presidente de la República, o empleen medios directos encaminados a ese fin;
+la continuación del Presidente de la República, o empleen medios directos encaminados a ese fin;
 
-- 5 1 -Los  funcionarios,  las  autoridades  y  los  agentes  de  éstas  que  coarten  la  libertad  del sufragio.
+- 5º- Los funcionarios, las autoridades y los agentes de éstas que coarten la libertad del sufragio.
 
 En estos casos, los derechos de ciudadanía se recuperarán por rehabilitación expresa declarada por autoridad competente.
 
@@ -736,7 +736,7 @@ EL EJERCICIO DEL VOTO LO EJERCERÁN LOS CIUDADANOS EN LOS LUGARES QUE DETERMINE 
 ##### Art. 83.-
 El Salvador es un Estado soberano. La soberanía reside en el pueblo, que la ejerce en la
 
-- forma prescrita y dentro de los límites de esta Constitución.
+forma prescrita y dentro de los límites de esta Constitución.
 
 ##### Art. 84.-
 El territorio de la República sobre el cual El Salvador ejerce jurisdicción y soberanía es irreductible y además de la parte continental, comprende:
@@ -825,11 +825,11 @@ El proyecto y bases de la unión se someterán a consulta popular.
 ##### Art. 90.-
 Son salvadoreños por nacimiento:
 
-- 1 1 -Los nacidos en el territorio de El Salvador;
+- 1º- Los nacidos en el territorio de El Salvador;
 
-- 2 1 -Los hijos de padre o madre salvadoreños, nacidos en el extranjero;
+- 2º- Los hijos de padre o madre salvadoreños, nacidos en el extranjero;
 
-- 3 1 -Los originarios de los demás Estados que constituyeron la República Federal de Centro América,  que  teniendo  domicilio  en  El  Salvador,  manifiesten  ante  las  autoridades competentes su voluntad de ser salvadoreños, sin que se requiera la renuncia a su nacionalidad de origen.
+- 3º- Los originarios de los demás Estados que constituyeron la República Federal de Centro América, que teniendo domicilio en El Salvador, manifiesten ante las autoridades competentes su voluntad de ser salvadoreños, sin que se requiera la renuncia a su nacionalidad de origen.
 
 ##### Art.  91.-
 Los  salvadoreños  por  nacimiento  tienen  derecho  a  gozar  de  la  doble  o  múltiple nacionalidad.
@@ -839,13 +839,13 @@ La calidad de salvadoreño por nacimiento sólo se pierde por renuncia expresa a
 ##### Art. 92.-
 Pueden adquirir la calidad de salvadoreños por naturalización:
 
-- 1 1 -Los españoles e hispanoamericanos de origen que tuvieren un año de residencia en el país;
+- 1º- Los españoles e hispanoamericanos de origen que tuvieren un año de residencia en el país;
 
-- 2 1 -Los extranjeros de cualquier origen que tuvieren cinco años de residencia en el país;
+- 2º- Los extranjeros de cualquier origen que tuvieren cinco años de residencia en el país;
 
-- 3 1 -Los que por servicios notables prestados a la República obtengan esa calidad del Órgano Legislativo;
+- 3º- Los que por servicios notables prestados a la República obtengan esa calidad del Órgano Legislativo;
 
-- 4 1 -El  extranjero  casado  con  salvadoreña  o  la  extranjera  casada  con  salvadoreño  que acreditaren dos años de residencia en el país, anteriores o posteriores a la celebración del matrimonio.
+- 4º- El extranjero casado con salvadoreña o la extranjera casada con salvadoreño que acreditaren dos años de residencia en el país, anteriores o posteriores a la celebración del matrimonio.
 
 La nacionalidad por naturalización se otorgará por autoridades competentes de conformidad con la ley.
 
@@ -867,9 +867,9 @@ Los tratados internacionales regularán la forma y condiciones en que los nacion
 ##### Art. 94.-
 La calidad de salvadoreño naturalizado se pierde :
 
-- 1 1 -Por residir más de dos años consecutivos en el país de origen o por ausencia del territorio de la República por más de cinco años consecutivos, salvo en caso de permiso otorgado conforme a la ley;
+- 1º- Por residir más de dos años consecutivos en el país de origen o por ausencia del territorio de la República por más de cinco años consecutivos, salvo en caso de permiso otorgado conforme a la ley;
 
-- 2 1 -Por  sentencia  ejecutoriada,  en  los  casos  que  determine  la  ley.  Quien  pierda  así  la nacionalidad, no podrá recuperarla.
+- 2º- Por sentencia ejecutoriada, en los casos que determine la ley. Quien pierda así la nacionalidad, no podrá recuperarla.
 
 ##### Art. 95.-
 Son salvadoreñas las personas jurídicas constituidas conforme a las leyes de la República, que tengan domicilio legal en el país.
@@ -978,11 +978,11 @@ Se prohíbe la confiscación ya sea como pena o en cualquier otro concepto. Las 
 ##### Art. 107.-
 Se prohíbe toda especie de vinculación, excepto:
 
-- 1 1 -Los fideicomisos constituidos a favor del Estado, de los municipios, de las entidades públicas, de las instituciones de beneficencia o de cultura, y de los legalmente incapaces;
+- 1º- Los fideicomisos constituidos a favor del Estado, de los municipios, de las entidades públicas, de las instituciones de beneficencia o de cultura, y de los legalmente incapaces;
 
-- 2 1 -Los fideicomisos constituidos por un plazo que no exceda del establecido por la ley y cuyo manejo esté a cargo de bancos o instituciones de crédito legalmente autorizados;
+- 2º- Los fideicomisos constituidos por un plazo que no exceda del establecido por la ley y cuyo manejo esté a cargo de bancos o instituciones de crédito legalmente autorizados;
 
-- 3 1 -El bien de Familia.
+- 3º- El bien de Familia.
 
 ##### Art.  108.-
 Ninguna  corporación  o  fundación  civil  o  eclesiástica,  cualquiera  que  sea  su
@@ -1115,13 +1115,13 @@ Para ser elegido Diputado se requiere ser mayor de veinticinco años, salvadore�
 ##### Art. 127.-
 No podrán ser candidatos a Diputados:
 
-- 1 1 -El Presidente y el Vicepresidente de la República, los Ministros y Viceministros de Estado, el Presidente y los Magistrados de la Corte Suprema de Justicia, los funcionarios de  los organismos electorales, los militares de alta, y en general, los funcionarios que ejerzan jurisdicción;
+- 1º- El Presidente y el Vicepresidente de la República, los Ministros y Viceministros de Estado, el Presidente y los Magistrados de la Corte Suprema de Justicia, los funcionarios de los organismos electorales, los militares de alta, y en general, los funcionarios que ejerzan jurisdicción;
 
-- 2 1 -Los que hubiesen administrado o manejado fondos públicos, mientras no obtengan el finiquito de sus cuentas;
+- 2º- Los que hubiesen administrado o manejado fondos públicos, mientras no obtengan el finiquito de sus cuentas;
 
-- 3 1 -Los contratistas de obras o empresas públicas que se costeen con fondos del Estado o del Municipio, sus caucioneros y los que, de resultas de tales obras o empresas tengan pendientes reclamaciones de interés propio;
+- 3º- Los contratistas de obras o empresas públicas que se costeen con fondos del Estado o del Municipio, sus caucioneros y los que, de resultas de tales obras o empresas tengan pendientes reclamaciones de interés propio;
 
-- 4 1 -Los parientes del Presidente de la República dentro del cuarto grado de consanguinidad o segundo de afinidad;
+- 4º- Los parientes del Presidente de la República dentro del cuarto grado de consanguinidad o segundo de afinidad;
 
 ════════════════════════════════════════════════════════════
 
@@ -1135,9 +1135,9 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 27
 
 ═════════════════════════════════════════════════════════════
 
-- 5 1 -Los deudores de la Hacienda Pública o Municipal que estén en mora;
+- 5º- Los deudores de la Hacienda Pública o Municipal que estén en mora;
 
-- 6 1 -Los que tengan pendientes contratos o concesiones con el Estado para explotación de riquezas  nacionales  o  de  servicios  públicos,  así  como  los  que  hayan  aceptado  ser representantes o  apoderados administrativos de aquéllos, o de sociedades extranjeras que se hallen en los mismos casos.
+- 6º- Los que tengan pendientes contratos o concesiones con el Estado para explotación de riquezas nacionales o de servicios públicos, así como los que hayan aceptado ser representantes o apoderados administrativos de aquéllos, o de sociedades extranjeras que se hallen en los mismos casos.
 
 Las incompatibilidades a que se refiere el ordinal primero de este artículo afectan a quienes hayan desempeñado los cargos indicados dentro de los tres meses anteriores a la elección.
 
@@ -1154,20 +1154,20 @@ Los suplentes pueden desempeñar empleos o cargos públicos sin que su aceptaci�
 ##### Art. 130.-
 Los Diputados cesarán en su cargo en los casos siguientes:
 
-- 1 1 -Cuando en sentencia definitiva fueren condenados por delitos graves;
+- 1º- Cuando en sentencia definitiva fueren condenados por delitos graves;
 
-- 2 1 -Cuando  incurrieren  en  las  prohibiciones  contenidas  en  el  Artículo  128  de  esta Constitución;
+- 2º- Cuando incurrieren en las prohibiciones contenidas en el Artículo 128 de esta Constitución;
 
-- 3 1 -Cuando renunciaren sin justa causa calificada como tal por la Asamblea.
+- 3º- Cuando renunciaren sin justa causa calificada como tal por la Asamblea.
 
 En estos casos quedarán inhabilitados para desempeñar cualquier otro cargo público durante el período de su elección.
 
 ##### Art. 131.-
 Corresponde a la Asamblea Legislativa:
 
-- 1 1 -Decretar su reglamento interior;
+- 1º- Decretar su reglamento interior;
 
-- 2 1 -Aceptar  o  desechar  las  credenciales  de  sus  miembros,  recibir  a  éstos  la  protesta constitucional, y deducirles responsabilidades en los casos previstos por esta
+- 2º- Aceptar o desechar las credenciales de sus miembros, recibir a éstos la protesta constitucional, y deducirles responsabilidades en los casos previstos por esta
 
 ════════════════════════════════════════════════════════════
 
@@ -1183,31 +1183,31 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 28
 
 Constitución;
 
-- 3 1 -Conocer  de  las  renuncias  que  presentaren  los  Diputados,  admitiéndolas  cuando  se fundaren en causas justas legalmente comprobada;
+- 3º- Conocer de las renuncias que presentaren los Diputados, admitiéndolas cuando se fundaren en causas justas legalmente comprobadas;
 
-- 4 1 -Llamar a los Diputados suplentes en caso de muerte, renuncia, nulidad de elección, permiso temporal o imposibilidad de concurrir de los propietarios;
+- 4º- Llamar a los Diputados suplentes en caso de muerte, renuncia, nulidad de elección, permiso temporal o imposibilidad de concurrir de los propietarios;
 
-- 5 1 -Decretar, interpretar auténticamente, reformar y derogar las leyes secundarias;
+- 5º- Decretar, interpretar auténticamente, reformar y derogar las leyes secundarias;
 
-- 6 1 -Decretar impuestos, tasas y demás contribuciones sobre toda clase de bienes, servicios e ingresos, en relación equitativa; y en caso de invasión, guerra legalmente declarada o calamidad pública, decretar empréstitos forzosos en la misma relación, si no bastaren las rentas públicas ordinarias;
+- 6º- Decretar impuestos, tasas y demás contribuciones sobre toda clase de bienes, servicios e ingresos, en relación equitativa; y en caso de invasión, guerra legalmente declarada o calamidad pública, decretar empréstitos forzosos en la misma relación, si no bastaren las rentas públicas ordinarias;
 
-- 7 1 -Ratificar los tratados o pactos que celebre el Ejecutivo con otros Estados u organismos internacionales, o denegar su ratificación;
+- 7º- Ratificar los tratados o pactos que celebre el Ejecutivo con otros Estados u organismos internacionales, o denegar su ratificación;
 
-- 8 1 -Decretar el Presupuesto de Ingresos y Egresos de la Administración Pública, así como sus reformas;
+- 8º- Decretar el Presupuesto de Ingresos y Egresos de la Administración Pública, así como sus reformas;
 
-- 9 1 -Crear y suprimir plazas, y asignar sueldos a los funcionarios y empleados de acuerdo con el régimen de Servicio Civil;
+- 9º- Crear y suprimir plazas, y asignar sueldos a los funcionarios y empleados de acuerdo con el régimen de Servicio Civil;
 
-- 10 1 -Aprobar su presupuesto y sistema de salarios, así como sus reformas, consultándolos previamente con el Presidente de la República para el solo efecto de garantizar que existan los fondos necesarios para su cumplimiento. Una vez aprobado dicho presupuesto se incorporará al Presupuesto de Ingresos y Egresos de la Administración Pública;
+- 10º- Aprobar su presupuesto y sistema de salarios, así como sus reformas, consultándolos previamente con el Presidente de la República para el solo efecto de garantizar que existan los fondos necesarios para su cumplimiento. Una vez aprobado dicho presupuesto se incorporará al Presupuesto de Ingresos y Egresos de la Administración Pública;
 
-- 11 1 -Decretar,  de  una  manera  general,  beneficios  e  incentivos  fiscales  o  de  cualquier naturaleza, para la promoción de actividades culturales, científicas, agrícolas, industriales, comerciales o de servicios;
+- 11º- Decretar, de una manera general, beneficios e incentivos fiscales o de cualquier naturaleza, para la promoción de actividades culturales, científicas, agrícolas, industriales, comerciales o de servicios;
 
-- 12 1 -Decretar leyes sobre el reconocimiento de la deuda pública y crear y asignar los fondos necesarios para su pago;
+- 12º- Decretar leyes sobre el reconocimiento de la deuda pública y crear y asignar los fondos necesarios para su pago;
 
-- 13 1 -Establecer  y  regular  el  sistema  monetario  nacional  y  resolver  sobre  la  admisión  y circulación de la moneda extranjera;
+- 13º- Establecer y regular el sistema monetario nacional y resolver sobre la admisión y circulación de la moneda extranjera;
 
-- 14 1 -Recibir  la  protesta  constitucional  y  dar  posesión  de  su  cargo  a  los  ciudadanos  que, conforme a la ley, deban ejercer la Presidencia y Vicepresidencia de la República;
+- 14º- Recibir la protesta constitucional y dar posesión de su cargo a los ciudadanos que, conforme a la ley, deban ejercer la Presidencia y Vicepresidencia de la República;
 
-- 15 1 -Resolver  sobre  renuncias  interpuestas  y  licencias  solicitadas  por  el  Presidente  y  el Vicepresidente de la República y los Designados, previa ratificación personal ante la misma Asamblea;
+- 15º- Resolver sobre renuncias interpuestas y licencias solicitadas por el Presidente y el Vicepresidente de la República y los Designados, previa ratificación personal ante la misma Asamblea;
 
 ════════════════════════════════════════════════════════════
 
@@ -1221,27 +1221,27 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 29
 
 ═════════════════════════════════════════════════════════════
 
-- 16 1 -Desconocer obligatoriamente al Presidente de la República o al que haga sus veces cuando terminado su período constitucional continúe en el ejercicio del cargo. En tal caso,  si  no  hubiere  persona  legalmente  llamada  para  el  ejercicio  de  la  Presidencia, designará un Presidente Provisional;
+- 16º- Desconocer obligatoriamente al Presidente de la República o al que haga sus veces cuando terminado su período constitucional continúe en el ejercicio del cargo. En tal caso, si no hubiere persona legalmente llamada para el ejercicio de la Presidencia, designará un Presidente Provisional;
 
-- 17 1 -Elegir, para todo el período presidencial respectivo, en votación nominal y pública, a dos personas que en carácter de Designados deban ejercer la Presidencia de la República, en los casos y en el orden determinado por esta Constitución;
+- 17º- Elegir, para todo el período presidencial respectivo, en votación nominal y pública, a dos personas que en carácter de Designados deban ejercer la Presidencia de la República, en los casos y en el orden determinado por esta Constitución;
 
-- 18 1 -Recibir el informe de labores que debe rendir el Ejecutivo por medio de sus Ministros, y aprobarlo o desaprobarlo;
+- 18º- Recibir el informe de labores que debe rendir el Ejecutivo por medio de sus Ministros, y aprobarlo o desaprobarlo;
 
-- 19 1 -ELEGIR POR VOTACIÓN NOMINAL Y PUBLICA A LOS SIGUIENTES FUNCIONARIOS: PRESIDENTE Y MAGISTRADOS DE LA CORTE SUPREMA DE JUSTICIA, PRESIDENTE Y MAGISTRADOS DEL TRIBUNAL SUPREMO ELECTORAL, PRESIDENTE Y MAGISTRADOS DE LA  CORTE  DE  CUENTAS  DE  LA  REPÚBLICA,  FISCAL  GENERAL  DE  LA  REPÚBLICA, PROCURADOR GENERAL DE LA REPÚBLICA, PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS Y MIEMBROS DEL CONSEJO NACIONAL DE LA JUDICATURA;(1)
+- 19º- ELEGIR POR VOTACIÓN NOMINAL Y PUBLICA A LOS SIGUIENTES FUNCIONARIOS: PRESIDENTE Y MAGISTRADOS DE LA CORTE SUPREMA DE JUSTICIA, PRESIDENTE Y MAGISTRADOS DEL TRIBUNAL SUPREMO ELECTORAL, PRESIDENTE Y MAGISTRADOS DE LA CORTE DE CUENTAS DE LA REPÚBLICA, FISCAL GENERAL DE LA REPÚBLICA, PROCURADOR GENERAL DE LA REPÚBLICA, PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS Y MIEMBROS DEL CONSEJO NACIONAL DE LA JUDICATURA;(1)
 
-- 20 1 -Declarar,  con  no  menos  de  los  dos  tercios  de  votos  de  los  Diputados  electos,  la incapacidad física o mental del Presidente, del Vicepresidente de la República y de los funcionarios electos por la Asamblea, para el ejercicio de sus cargos, previo dictamen unánime de una Comisión de cinco médicos nombrados por la Asamblea;
+- 20º- Declarar, con no menos de los dos tercios de votos de los Diputados electos, la incapacidad física o mental del Presidente, del Vicepresidente de la República y de los funcionarios electos por la Asamblea, para el ejercicio de sus cargos, previo dictamen unánime de una Comisión de cinco médicos nombrados por la Asamblea;
 
-- 21 1 -Determinar las atribuciones y competencias de los diferentes funcionarios cuando por esta Constitución no se hubiese hecho;
+- 21º- Determinar las atribuciones y competencias de los diferentes funcionarios cuando por esta Constitución no se hubiese hecho;
 
-- 22 1 -Conceder, a personas o poblaciones, títulos, distinciones honoríficas y gratificaciones compatibles con la forma de gobierno establecida, por servicios relevantes prestados a la Patria.
+- 22º- Conceder, a personas o poblaciones, títulos, distinciones honoríficas y gratificaciones compatibles con la forma de gobierno establecida, por servicios relevantes prestados a la Patria.
 
-No obstante, se prohíbe que tales títulos, distinciones y gratificaciones se concedan, mientras desempeñen  sus  cargos, a los funcionarios siguientes: Presidente y Vicepresidente  de  la  República,  Ministros  y  Viceministros  de  Estado,  Diputados  a  la Asamblea Legislativa, y Presidente y Magistrados de la Corte Suprema de Justicia;
+No obstante, se prohíbe que tales títulos, distinciones y gratificaciones se concedan, mientras desempeñen sus cargos, a los funcionarios siguientes: Presidente y Vicepresidente de la República, Ministros y Viceministros de Estado, Diputados a la Asamblea Legislativa, y Presidente y Magistrados de la Corte Suprema de Justicia;
 
-- 23 1 -Conceder permiso a los salvadoreños para que acepten distinciones honoríficas otorgadas por gobiernos extranjeros;
+- 23º- Conceder permiso a los salvadoreños para que acepten distinciones honoríficas otorgadas por gobiernos extranjeros;
 
-- 24 1 -Conceder  permisos  o  privilegios  temporales  por  actividades  o  trabajos  culturales  o científicos;
+- 24º- Conceder permisos o privilegios temporales por actividades o trabajos culturales o científicos;
 
-- 25 1 -Declarar la guerra y ratificar la paz, con base en los informes que le proporcione el
+- 25º- Declarar la guerra y ratificar la paz, con base en los informes que le proporcione el
 
 ════════════════════════════════════════════════════════════
 
@@ -1257,29 +1257,29 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 30
 
 Órgano Ejecutivo;
 
-- 26 1 -Conceder amnistía por delitos políticos  o  comunes conexos con éstos, o por delitos comunes cometidos por un número de personas que no baje de veinte; y conceder indultos, previo informe favorable de la Corte Suprema de Justicia;
+- 26º- Conceder amnistía por delitos políticos o comunes conexos con éstos, o por delitos comunes cometidos por un número de personas que no baje de veinte; y conceder indultos, previo informe favorable de la Corte Suprema de Justicia;
 
-- 27 1 -Suspender y restablecer las garantías constitucionales de acuerdo con el Art. 29 de esta Constitución en votación nominal y pública con los dos tercios de votos, por lo menos, de los Diputados electos;
+- 27º- Suspender y restablecer las garantías constitucionales de acuerdo con el Art. 29 de esta Constitución en votación nominal y pública con los dos tercios de votos, por lo menos, de los Diputados electos;
 
-- 28 1 -Conceder o negar permiso a los salvadoreños para que acepten cargos diplomáticos o consulares que deban ser ejercidos en El Salvador;
+- 28º- Conceder o negar permiso a los salvadoreños para que acepten cargos diplomáticos o consulares que deban ser ejercidos en El Salvador;
 
-- 29 1 -Permitir o negar el tránsito de tropas extranjeras por el territorio de la República, y el estacionamiento de naves o aeronaves de guerra de otros países, por más tiempo del establecido en los tratados o prácticas internacionales;
+- 29º- Permitir o negar el tránsito de tropas extranjeras por el territorio de la República, y el estacionamiento de naves o aeronaves de guerra de otros países, por más tiempo del establecido en los tratados o prácticas internacionales;
 
-- 30 1 -Aprobar las concesiones a que se refiere el Art. 120 de esta Constitución;
+- 30º- Aprobar las concesiones a que se refiere el Art. 120 de esta Constitución;
 
-- 31 1 -Erigir jurisdicciones y establecer cargos, a propuesta de la Corte Suprema de Justicia, para  que  los  funcionarios  respectivos  conozcan  en  toda  clase  de  causas  criminales, civiles, mercantiles, laborales, contencioso-administrativas, agrarias y otras;
+- 31º- Erigir jurisdicciones y establecer cargos, a propuesta de la Corte Suprema de Justicia, para que los funcionarios respectivos conozcan en toda clase de causas criminales, civiles, mercantiles, laborales, contencioso-administrativas, agrarias y otras;
 
-- 32 1 -Nombrar comisiones especiales para la investigación de asuntos de interés nacional y adoptar los acuerdos o recomendaciones que estime necesarios, con base en el informe de dichas comisiones;
+- 32º- Nombrar comisiones especiales para la investigación de asuntos de interés nacional y adoptar los acuerdos o recomendaciones que estime necesarios, con base en el informe de dichas comisiones;
 
-- 33 1 -Decretar los Símbolos Patrios;
+- 33º- Decretar los Símbolos Patrios;
 
-- 34 1 -Interpelar a los Ministros o Encargados del Despacho y a los Presidentes de Instituciones Oficiales Autónomas;
+- 34º- Interpelar a los Ministros o Encargados del Despacho y a los Presidentes de Instituciones Oficiales Autónomas;
 
-- 35 1 -Calificar la fuerza mayor o el caso fortuito a que se refiere el último inciso del artículo 80;
+- 35º- Calificar la fuerza mayor o el caso fortuito a que se refiere el último inciso del artículo 80;
 
-- 36 1 -RECIBIR EL INFORME DE LABORES QUE DEBE RENDIR EL FISCAL GENERAL DE LA REPÚBLICA, EL PROCURADOR GENERAL DE LA REPÚBLICA, EL PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS, EL PRESIDENTE DE LA CORTE DE CUENTAS DE LA  REPÚBLICA  Y  EL  PRESIDENTE  DEL  BANCO  CENTRAL  DE  RESERVA  DE  EL SALVADOR;(1)
+- 36º- RECIBIR EL INFORME DE LABORES QUE DEBE RENDIR EL FISCAL GENERAL DE LA REPÚBLICA, EL PROCURADOR GENERAL DE LA REPÚBLICA, EL PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS, EL PRESIDENTE DE LA CORTE DE CUENTAS DE LA REPÚBLICA Y EL PRESIDENTE DEL BANCO CENTRAL DE RESERVA DE EL SALVADOR;(1)
 
-- 37 1 -RECOMENDAR  A    LA  PRESIDENCIA  DE  LA  REPÚBLICA  LA  DESTITUCIÓN  DE  LOS MINISTROS  DE  ESTADO;  O  A  LOS  ORGANISMOS  CORRESPONDIENTES,  LA  DE FUNCIONARIOS DE INSTITUCIONES OFICIALES AUTÓNOMAS, CUANDO ASÍ LO ESTIME
+- 37º- RECOMENDAR A LA PRESIDENCIA DE LA REPÚBLICA LA DESTITUCIÓN DE LOS MINISTROS DE ESTADO; O A LOS ORGANISMOS CORRESPONDIENTES, LA DE FUNCIONARIOS DE INSTITUCIONES OFICIALES AUTÓNOMAS, CUANDO ASÍ LO ESTIME
 
 ════════════════════════════════════════════════════════════
 
@@ -1295,7 +1295,7 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 31
 
 CONVENIENTE,  COMO  RESULTADO  DE  LA  INVESTIGACIÓN  DE  SUS  COMISIONES ESPECIALES O DE LA INTERPELACIÓN, EN SU CASO. LA RESOLUCIÓN DE LA ASAMBLEA SERA VINCULANTE CUANDO SE REFIERA A LOS JEFES DE SEGURIDAD PUBLICA O DE INTELIGENCIA DE ESTADO POR CAUSA DE GRAVES VIOLACIONES DE LOS DERECHOS HUMANOS;(1)
 
-- 38 1 -Ejercer las demás atribuciones que le señale esta Constitución.
+- 38º- Ejercer las demás atribuciones que le señale esta Constitución.
 
 ##### Art. 132.-
 Todos los funcionarios y empleados públicos, incluyendo los de Instituciones Oficiales Autónomas y los miembros de la Fuerza Armada, están en la obligación de colaborar con las Comisiones Especiales de la Asamblea Legislativa; y la comparecencia y declaración de aquéllos así como las de cualquier otra persona, requeridas por las mencionadas comisiones, serán obligatorias bajo los mismos apercibimientos que se observan en el procedimiento judicial.
@@ -1311,15 +1311,15 @@ Las conclusiones de las comisiones especiales de investigación de la Asamblea L
 ##### Art. 133.-
 Tienen exclusivamente iniciativa de ley:
 
-- 1 1 -Los Diputados;
+- 1º- Los Diputados;
 
-- 2 1 -El Presidente de la República por medio de sus Ministros;
+- 2º- El Presidente de la República por medio de sus Ministros;
 
-- 3 1 -La Corte Suprema de Justicia en materias relativas al Órgano Judicial, al ejercicio del notariado y de la abogacía, y a la jurisdicción y competencia de los Tribunales;
+- 3º- La Corte Suprema de Justicia en materias relativas al Órgano Judicial, al ejercicio del notariado y de la abogacía, y a la jurisdicción y competencia de los Tribunales;
 
-- 4 1 -Los Concejos Municipales en materia de impuestos municipales;
+- 4º- Los Concejos Municipales en materia de impuestos municipales;
 
-- 5 1 -EL PARLAMENTO CENTROAMERICANO, POR MEDIO DE LOS DIPUTADOS DEL ESTADO DE EL SALVADOR QUE LO CONFORMAN, EN MATERIA RELATIVA A LA INTEGRACIÓN DEL  ISTMO  CENTROAMERICANO,  A  QUE  SE  REFIERE  EL  ART.  89  DE  ESTA CONSTITUCIÓN.
+- 5º- EL PARLAMENTO CENTROAMERICANO, POR MEDIO DE LOS DIPUTADOS DEL ESTADO DE EL SALVADOR QUE LO CONFORMAN, EN MATERIA RELATIVA A LA INTEGRACIÓN DEL ISTMO CENTROAMERICANO, A QUE SE REFIERE EL ART. 89 DE ESTA CONSTITUCIÓN.
 
 DE IGUAL MANERA, Y EN LA MISMA MATERIA, TENDRÁN INICIATIVA LOS DIPUTADOS DEL ESTADO DE EL SALVADOR, QUE CONFORMAN EL PARLAMENTO CENTROAMERICANO. (20)
 
@@ -1342,7 +1342,7 @@ MAYORÍA DE LOS MIEMBROS DE LA JUNTA DIRECTIVA. SE GUARDARA UN EJEMPLAR EN LA AS
 
 SE ENVIARAN DOS AL PRESIDENTE DE LA REPÚBLICA.(1)
 ##### Art. 135.-
-TODO PROYECTO DE LEY, DESPUÉS DE DISCUTIDO Y APROBADO, SE TRASLADARA A MAS TARDAR DENTRO DE DIEZ DÍAS HÁBILES AL PRESIDENTE DE LA REPÚBLICA, Y SI ESTE NO TUVIERE OBJECIONES, LE DARÁ SU SANCIÓN  Y LO HARÁ PUBLICAR COMO LEY.(1)(14) NO SERA NECESARIA LA SANCIÓN DEL PRESIDENTE DE LA REPÚBLICA EN LOS CASOS DE LOS ORDINALES 1 1 , 2 1 , 3 1 , 4 1 , 14 1 , 15 1 , 16 1 , 17 1 , 18 1 , 19 1 , 20 1 , 32 1 , 34 1 , 35 1 , 36 1 Y 37 1 , DEL ART. 131 DE ESTA CONSTITUCIÓN Y EN LOS ANTEJUICIOS EN QUE CONOZCA LA ASAMBLEA.(1)
+TODO PROYECTO DE LEY, DESPUÉS DE DISCUTIDO Y APROBADO, SE TRASLADARA A MAS TARDAR DENTRO DE DIEZ DÍAS HÁBILES AL PRESIDENTE DE LA REPÚBLICA, Y SI ESTE NO TUVIERE OBJECIONES, LE DARÁ SU SANCIÓN Y LO HARÁ PUBLICAR COMO LEY.(1)(14) NO SERA NECESARIA LA SANCIÓN DEL PRESIDENTE DE LA REPÚBLICA EN LOS CASOS DE LOS ORDINALES 1º, 2º, 3º, 4º, 14º, 15º, 16º, 17º, 18º, 19º, 20º, 32º, 34º, 35º, 36º Y 37º, DEL ART. 131 DE ESTA CONSTITUCIÓN Y EN LOS ANTEJUICIOS EN QUE CONOZCA LA ASAMBLEA.(1)
 ##### Art. 136.-
 SI EL PRESIDENTE DE LA REPÚBLICA NO ENCONTRARE OBJECIÓN AL PROYECTO RECIBIDO, FIRMARA LOS DOS EJEMPLARES, DEVOLVERÁ UNO A LA ASAMBLEA, DEJARA EL OTRO EN SU ARCHIVO, Y HARÁ PUBLICAR EL TEXTO COMO LEY EN EL ÓRGANO OFICIAL CORRESPONDIENTE.(1)
 ##### Art.  137.-
@@ -1437,11 +1437,11 @@ Para ser elegido Presidente de la República se requiere: ser salvadoreño por n
 ##### Art. 152.-
 No podrán ser candidatos a Presidente de la República:
 
-- 1 1 -El  que  haya  desempeñado  la  Presidencia  de  la  República  por  más  de  seis  meses, consecutivos o no, durante el período inmediato anterior, o dentro de los últimos seis meses anteriores al inicio del período presidencial;
+- 1º- El que haya desempeñado la Presidencia de la República por más de seis meses, consecutivos o no, durante el período inmediato anterior, o dentro de los últimos seis meses anteriores al inicio del período presidencial;
 
-- 2 1 -El cónyuge y los parientes dentro del cuarto grado de  consanguinidad o segundo de afinidad de cualquiera de las personas que hayan ejercido la Presidencia en los casos del ordinal anterior;
+- 2º- El cónyuge y los parientes dentro del cuarto grado de consanguinidad o segundo de afinidad de cualquiera de las personas que hayan ejercido la Presidencia en los casos del ordinal anterior;
 
-- 3 1 -El que haya sido Presidente de la Asamblea Legislativa o Presidente de la Corte Suprema de Justicia durante el año anterior al día del inicio del período presidencial;
+- 3º- El que haya sido Presidente de la Asamblea Legislativa o Presidente de la Corte Suprema de Justicia durante el año anterior al día del inicio del período presidencial;
 
 ════════════════════════════════════════════════════════════
 
@@ -1457,13 +1457,13 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO
 
 ═════════════════════════════════════════════════════════════
 
-- 4 1 -EL QUE HAYA SIDO MINISTRO, VICEMINISTRO DE ESTADO O PRESIDENTE DE ALGUNA INSTITUCIÓN OFICIAL AUTÓNOMA Y EL DIRECTOR GENERAL DE LA POLICÍA NACIONAL CIVIL,  DENTRO  DEL  ULTIMO  AÑO  DEL  PERIODO  PRESIDENCIAL  INMEDIATO ANTERIOR.(1)
+- 4º- EL QUE HAYA SIDO MINISTRO, VICEMINISTRO DE ESTADO O PRESIDENTE DE ALGUNA INSTITUCIÓN OFICIAL AUTÓNOMA Y EL DIRECTOR GENERAL DE LA POLICÍA NACIONAL CIVIL, DENTRO DEL ULTIMO AÑO DEL PERIODO PRESIDENCIAL INMEDIATO ANTERIOR.(1)
 
-- 5 1 -Los militares de profesión que estuvieren de alta o que lo hayan estado en los tres años anteriores al día del inicio del período presidencial;
+- 5º- Los militares de profesión que estuvieren de alta o que lo hayan estado en los tres años anteriores al día del inicio del período presidencial;
 
-- 6 1 -El Vicepresidente o Designado que llamado legalmente a ejercer la Presidencia en el período inmediato anterior, se negare a desempeñarla sin justa causa, entendiéndose que ésta existe cuando el Vicepresidente o Designado manifieste su intención de ser candidato a la Presidencia de la República, dentro de los seis meses anteriores al inicio del período presidencial;
+- 6º- El Vicepresidente o Designado que llamado legalmente a ejercer la Presidencia en el período inmediato anterior, se negare a desempeñarla sin justa causa, entendiéndose que ésta existe cuando el Vicepresidente o Designado manifieste su intención de ser candidato a la Presidencia de la República, dentro de los seis meses anteriores al inicio del período presidencial;
 
-- 7 1 -Las personas comprendidas en los ordinales 2o., 3o., 4o., 5o. y 6o., del artículo 127 de esta Constitución.
+- 7º- Las personas comprendidas en los ordinales 2º., 3º., 4º., 5º. y 6º., del artículo 127 de esta Constitución.
 
 ##### Art. 153.-
 Lo dispuesto en los dos artículos anteriores se aplicará al Vicepresidente de la República y a los Designados a la Presidencia.
@@ -1510,7 +1510,7 @@ LA POLICÍA NACIONAL CIVIL TENDRÁ A SU CARGO LAS FUNCIONES DE POLICÍA URBANA Y
 Para ser Ministro o Viceministro de Estado se requiere ser salvadoreño por nacimiento, mayor de veinticinco años de edad, del estado seglar, de moralidad e instrucción notorias; estar en el ejercicio de los derechos de ciudadano y haberlo estado en los seis años anteriores a su nombramiento.
 
 ##### Art. 161.-
-No podrán ser Ministros ni Viceministros de Estado las personas comprendidas en los ordinales 2o., 3o., 4o., 5o. y 6o., del artículo 127 de esta Constitución.
+No podrán ser Ministros ni Viceministros de Estado las personas comprendidas en los ordinales 2º., 3º., 4º., 5º. y 6º., del artículo 127 de esta Constitución.
 
 ##### Art. 162.-
 CORRESPONDE AL PRESIDENTE DE LA REPÚBLICA NOMBRAR, REMOVER, ACEPTAR RENUNCIAS Y CONCEDER LICENCIAS A LOS MINISTROS Y VICEMINISTROS DE ESTADO, ASÍ COMO AL JEFE DE SEGURIDAD PUBLICA Y AL DE INTELIGENCIA DE ESTADO.(2)
@@ -1522,7 +1522,7 @@ LOS DECRETOS, ACUERDOS, ORDENES Y PROVIDENCIAS DEL PRESIDENTE DE LA REPÚBLICA D
 Todos los decretos, acuerdos, órdenes y resoluciones que los funcionarios del Órgano Ejecutivo emitan, excediendo las facultades que esta Constitución establece, serán nulos y no deberán ser obedecidos, aunque se den a reserva de someterlos a la aprobación de la Asamblea Legislativa.
 
 ##### Art.  165.-
-Los  Ministros  o  Encargados  del  despacho  y  Presidente  de  Instituciones  Oficiales Autónomas deberán concurrir a la Asamblea Legislativa para contestar las interpelaciones que se les hicieren.
+Los Ministros o Encargados del despacho y Presidentes de Instituciones Oficiales Autónomas deberán concurrir a la Asamblea Legislativa para contestar las interpelaciones que se les hicieren.
 
 Los funcionarios llamados a interpelación que sin justa causa se negaren a concurrir, quedarán, por el mismo hecho, depuestos de sus cargos.
 
@@ -1532,7 +1532,7 @@ Habrá un Consejo de Ministros integrado por el Presidente y el Vicepresidente d
 ##### Art. 167.-
 Corresponde al Consejo de Ministros:
 
-- 1 1 -Decretar el Reglamento Interno del Órgano Ejecutivo y su propio reglamento;
+- 1º- Decretar el Reglamento Interno del Órgano Ejecutivo y su propio reglamento;
 
 ════════════════════════════════════════════════════════════
 
@@ -1546,32 +1546,32 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 37
 
 ═════════════════════════════════════════════════════════════
 
-- 2 1 -Elaborar el plan general del Gobierno;
+- 2º- Elaborar el plan general del Gobierno;
 
-- 3 1 -Elaborar el proyecto de presupuesto de ingresos y egresos y presentarlo a la Asamblea Legislativa, por lo menos tres meses antes de que se inicie el nuevo ejercicio fiscal. También conocerá de las reformas a dicho presupuesto cuando se trate de transferencias entre partidas de distintos Ramos de la Administración Pública;
+- 3º- Elaborar el proyecto de presupuesto de ingresos y egresos y presentarlo a la Asamblea Legislativa, por lo menos tres meses antes de que se inicie el nuevo ejercicio fiscal. También conocerá de las reformas a dicho presupuesto cuando se trate de transferencias entre partidas de distintos Ramos de la Administración Pública;
 
-- 4 1 -Autorizar la erogación de sumas que no hayan sido incluidas en los presupuestos, a fin de satisfacer  necesidades  provenientes  de  guerra,  de  calamidad  pública  o  de  grave perturbación del orden, si la Asamblea Legislativa no estuviere reunida, informando inmediatamente  a  la  Junta  Directiva  de  la  misma,  de  las  causas  que  motivaron  tal medida,  a  efecto  de  que  reunida  que  fuere  ésta,  apruebe  o  no  los  créditos correspondientes;
+- 4º- Autorizar la erogación de sumas que no hayan sido incluidas en los presupuestos, a fin de satisfacer necesidades provenientes de guerra, de calamidad pública o de grave perturbación del orden, si la Asamblea Legislativa no estuviere reunida, informando inmediatamente a la Junta Directiva de la misma, de las causas que motivaron tal medida, a efecto de que reunida que fuere ésta, apruebe o no los créditos correspondientes;
 
-- 5 1 -Proponer a la Asamblea Legislativa la suspensión de garantías constitucionales a que se refiere el Art. 29 de esta Constitución;
+- 5º- Proponer a la Asamblea Legislativa la suspensión de garantías constitucionales a que se refiere el Art. 29 de esta Constitución;
 
-- 6 1 -Suspender y restablecer las garantías constitucionales a que se refiere el Art. 29 de esta Constitución, si la Asamblea Legislativa no estuviere reunida. En el primer caso, dará cuenta inmediatamente a la Junta Directiva de la Asamblea Legislativa, de las causas que motivaron tal medida y de los actos que haya ejecutado en relación con ésta;
+- 6º- Suspender y restablecer las garantías constitucionales a que se refiere el Art. 29 de esta Constitución, si la Asamblea Legislativa no estuviere reunida. En el primer caso, dará cuenta inmediatamente a la Junta Directiva de la Asamblea Legislativa, de las causas que motivaron tal medida y de los actos que haya ejecutado en relación con ésta;
 
-- 7 1 -Convocar extraordinariamente  a  la  Asamblea  Legislativa,  cuando  los  intereses  de  la República lo demanden;
+- 7º- Convocar extraordinariamente a la Asamblea Legislativa, cuando los intereses de la República lo demanden;
 
-- 8 1 -Conocer y decidir sobre todos los asuntos que someta a su consideración el Presidente de la República.
+- 8º- Conocer y decidir sobre todos los asuntos que someta a su consideración el Presidente de la República.
 
 ##### Art. 168.-
 Son atribuciones y obligaciones del Presidente de la República:
 
-- 1 1 -Cumplir y hacer cumplir la Constitución, los tratados, las leyes y demás disposiciones legales;
+- 1º- Cumplir y hacer cumplir la Constitución, los tratados, las leyes y demás disposiciones legales;
 
-- 2 1 -Mantener ilesa la soberanía de la República y la integridad del territorio;
+- 2º- Mantener ilesa la soberanía de la República y la integridad del territorio;
 
-- 3 1 -Procurar la armonía social, y conservar la paz y tranquilidad interiores y la seguridad de la persona humana como miembro de la sociedad;
+- 3º- Procurar la armonía social, y conservar la paz y tranquilidad interiores y la seguridad de la persona humana como miembro de la sociedad;
 
-- 4 1 -Celebrar  tratados  y  convenciones  internacionales,  someterlos  a  la  ratificación  de  la Asamblea Legislativa, y vigilar su cumplimiento;
+- 4º- Celebrar tratados y convenciones internacionales, someterlos a la ratificación de la Asamblea Legislativa, y vigilar su cumplimiento;
 
-- 5 1 -Dirigir las relaciones exteriores;
+- 5º- Dirigir las relaciones exteriores;
 
 ════════════════════════════════════════════════════════════
 
@@ -1585,21 +1585,21 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 38
 
 ═════════════════════════════════════════════════════════════
 
-- 6 1 -Presentar por conducto de los Ministros, a la Asamblea Legislativa, dentro de los dos meses siguientes a la terminación de cada año, el informe de labores de la Administración Pública en el año transcurrido. El Ministro de Hacienda presentará además, dentro de los tres meses siguientes a la terminación de cada período fiscal, la cuenta general del último presupuesto y  el estado demostrativo de la situación del Tesoro Público y el Patrimonio Fiscal.
+- 6º- Presentar por conducto de los Ministros, a la Asamblea Legislativa, dentro de los dos meses siguientes a la terminación de cada año, el informe de labores de la Administración Pública en el año transcurrido. El Ministro de Hacienda presentará además, dentro de los tres meses siguientes a la terminación de cada período fiscal, la cuenta general del último presupuesto y el estado demostrativo de la situación del Tesoro Público y el Patrimonio Fiscal.
 
 Si dentro de esos términos no se cumpliere con estas obligaciones, quedará por el mismo hecho depuesto el Ministro que no lo verifique, lo cual será notificado al Presidente de la República inmediatamente, para que nombre el sustituto. Este presentará dentro de los treinta días siguientes el informe correspondiente. Si aún en este caso no se cumpliere con lo preceptuado, quedará depuesto el nuevo Ministro;
 
-- 7 1 -Dar a la Asamblea Legislativa los informes que ésta le pida, excepto cuando se trate de planes  militares  secretos.  En  cuanto  a  negociaciones  políticas  que  fuere  necesario mantener  en  reserva,  el  Presidente  de  la  República  deberá  advertirlo,  para  que  se conozca de ellas en sesión secreta;
+- 7º- Dar a la Asamblea Legislativa los informes que ésta le pida, excepto cuando se trate de planes militares secretos. En cuanto a negociaciones políticas que fuere necesario mantener en reserva, el Presidente de la República deberá advertirlo, para que se conozca de ellas en sesión secreta;
 
-- 8 1 -Sancionar, promulgar y publicar las leyes y hacerlas ejecutar;
+- 8º- Sancionar, promulgar y publicar las leyes y hacerlas ejecutar;
 
-- 9 1 -Proporcionar a los funcionarios del orden judicial, los auxilios que necesiten para hacer efectivas sus providencias;
+- 9º- Proporcionar a los funcionarios del orden judicial, los auxilios que necesiten para hacer efectivas sus providencias;
 
-- 10 1 -Conmutar penas, previo informe y dictamen favorable de la Corte Suprema de Justicia;
+- 10º- Conmutar penas, previo informe y dictamen favorable de la Corte Suprema de Justicia;
 
-- 11 1 -ORGANIZAR, CONDUCIR Y MANTENER LA FUERZA ARMADA, CONFERIR LOS GRADOS MILITARES Y ORDENAR EL DESTINO, CARGO, O LA BAJA DE LOS OFICIALES DE LA MISMA, DE CONFORMIDAD CON LA LEY;(2)
+- 11º- ORGANIZAR, CONDUCIR Y MANTENER LA FUERZA ARMADA, CONFERIR LOS GRADOS MILITARES Y ORDENAR EL DESTINO, CARGO, O LA BAJA DE LOS OFICIALES DE LA MISMA, DE CONFORMIDAD CON LA LEY;(2)
 
-- 12 1 -DISPONER DE LA FUERZA ARMADA PARA LA DEFENSA DE LA SOBERANÍA DEL ESTADO, DE LA INTEGRIDAD DE SU TERRITORIO. EXCEPCIONALMENTE, SI SE HAN AGOTADO LOS  MEDIOS  ORDINARIOS  PARA  EL  MANTENIMIENTO  DE  LA  PAZ  INTERNA,  LA TRANQUILIDAD Y LA SEGURIDAD PUBLICA, EL PRESIDENTE DE LA REPÚBLICA PODRÁ DISPONER DE LA FUERZA ARMADA PARA ESE FIN. LA ACTUACIÓN DE LA FUERZA ARMADA SE LIMITARA AL TIEMPO Y A LA MEDIDA DE LO ESTRICTAMENTE NECESARIO PARA  EL  RESTABLECIMIENTO  DEL  ORDEN  Y  CESARA  TAN  PRONTO  SE  HAYA ALCANZADO  ESE  COMETIDO.  EL  PRESIDENTE  DE  LA  REPÚBLICA  MANTENDRÁ INFORMADA SOBRE TALES ACTUACIONES A LA ASAMBLEA LEGISLATIVA, LA CUAL PODRÁ,  EN  CUALQUIER  MOMENTO,  DISPONER  EL  CESE  DE  TALES  MEDIDAS EXCEPCIONALES. EN TODO CASO, DENTRO DE LOS QUINCE DÍAS SIGUIENTES A LA TERMINACIÓN  DE  ESTAS,  EL  PRESIDENTE  DE  LA  REPÚBLICA  PRESENTARA  A  LA ASAMBLEA LEGISLATIVA, UN INFORME CIRCUNSTANCIADO SOBRE LA ACTUACIÓN DE LA FUERZA ARMADA;(2)
+- 12º- DISPONER DE LA FUERZA ARMADA PARA LA DEFENSA DE LA SOBERANÍA DEL ESTADO, DE LA INTEGRIDAD DE SU TERRITORIO. EXCEPCIONALMENTE, SI SE HAN AGOTADO LOS MEDIOS ORDINARIOS PARA EL MANTENIMIENTO DE LA PAZ INTERNA, LA TRANQUILIDAD Y LA SEGURIDAD PUBLICA, EL PRESIDENTE DE LA REPÚBLICA PODRÁ DISPONER DE LA FUERZA ARMADA PARA ESE FIN. LA ACTUACIÓN DE LA FUERZA ARMADA SE LIMITARA AL TIEMPO Y A LA MEDIDA DE LO ESTRICTAMENTE NECESARIO PARA EL RESTABLECIMIENTO DEL ORDEN Y CESARA TAN PRONTO SE HAYA ALCANZADO ESE COMETIDO. EL PRESIDENTE DE LA REPÚBLICA MANTENDRÁ INFORMADA SOBRE TALES ACTUACIONES A LA ASAMBLEA LEGISLATIVA, LA CUAL PODRÁ, EN CUALQUIER MOMENTO, DISPONER EL CESE DE TALES MEDIDAS EXCEPCIONALES. EN TODO CASO, DENTRO DE LOS QUINCE DÍAS SIGUIENTES A LA TERMINACIÓN DE ESTAS, EL PRESIDENTE DE LA REPÚBLICA PRESENTARA A LA ASAMBLEA LEGISLATIVA, UN INFORME CIRCUNSTANCIADO SOBRE LA ACTUACIÓN DE LA FUERZA ARMADA;(2)
 
 ════════════════════════════════════════════════════════════
 
@@ -1615,21 +1615,21 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO
 
 ═════════════════════════════════════════════════════════════
 
-- 13 1 -Dirigir la guerra y hacer la paz, y someter inmediatamente el tratado que celebre con este último fin a la ratificación de la Asamblea Legislativa;
+- 13º- Dirigir la guerra y hacer la paz, y someter inmediatamente el tratado que celebre con este último fin a la ratificación de la Asamblea Legislativa;
 
-- 14 1 -Decretar los reglamentos que fueren necesarios para facilitar y asegurar la aplicación de las leyes cuya ejecución le corresponde;
+- 14º- Decretar los reglamentos que fueren necesarios para facilitar y asegurar la aplicación de las leyes cuya ejecución le corresponde;
 
-- 15 1 -Velar por la eficaz gestión y realización de los negocios públicos;
+- 15º- Velar por la eficaz gestión y realización de los negocios públicos;
 
-- 16 1 -Proponer las ternas de personas de entre las cuales deberá la Asamblea Legislativa elegir a los dos designados a la Presidencia de la República;
+- 16º- Proponer las ternas de personas de entre las cuales deberá la Asamblea Legislativa elegir a los dos designados a la Presidencia de la República;
 
-- 17 1 -ORGANIZAR,  CONDUCIR  Y  MANTENER  LA  POLICÍA  NACIONAL  CIVIL  PARA  EL RESGUARDO DE LA PAZ, LA TRANQUILIDAD, EL ORDEN Y LA SEGURIDAD PUBLICA, TANTO  EN  EL  ÁMBITO  URBANO  COMO  EN  EL  RURAL,  CON  ESTRICTO  APEGO  AL RESPETO  A  LOS  DERECHOS  HUMANOS  Y  BAJO  LA  DIRECCIÓN  DE  AUTORIDADES CIVILES;(2)
+- 17º- ORGANIZAR, CONDUCIR Y MANTENER LA POLICÍA NACIONAL CIVIL PARA EL RESGUARDO DE LA PAZ, LA TRANQUILIDAD, EL ORDEN Y LA SEGURIDAD PUBLICA, TANTO EN EL ÁMBITO URBANO COMO EN EL RURAL, CON ESTRICTO APEGO AL RESPETO A LOS DERECHOS HUMANOS Y BAJO LA DIRECCIÓN DE AUTORIDADES CIVILES;(2)
 
-- 18 1 -ORGANIZAR,  CONDUCIR  Y  MANTENER  EL  ORGANISMO  DE  INTELIGENCIA  DEL ESTADO;(2)
+- 18º- ORGANIZAR, CONDUCIR Y MANTENER EL ORGANISMO DE INTELIGENCIA DEL ESTADO;(2)
 
-- 19 1 -FIJAR ANUALMENTE UN NUMERO RAZONABLE DE EFECTIVOS DE LA FUERZA ARMADA Y DE LA POLICÍA NACIONAL CIVIL;(2)
+- 19º- FIJAR ANUALMENTE UN NUMERO RAZONABLE DE EFECTIVOS DE LA FUERZA ARMADA Y DE LA POLICÍA NACIONAL CIVIL;(2)
 
-- 20 1 -EJERCER LAS DEMÁS ATRIBUCIONES QUE LE CONFIEREN LAS LEYES.(2)
+- 20º- EJERCER LAS DEMÁS ATRIBUCIONES QUE LE CONFIEREN LAS LEYES.(2)
 
 ##### Art. 169.-
 El nombramiento, remoción, aceptación de renuncias y concesión de licencias de los funcionarios  y  empleados  de  la  Administración  Pública  y  de  la  Fuerza  Armada,  se  regirán  por  el Reglamento Interior del Órgano Ejecutivo u otras leyes y reglamentos que fueren aplicables.
@@ -1673,7 +1673,7 @@ La Corte Suprema de Justicia estará compuesta por el número de Magistrados que
 La ley determinará la organización interna de la Corte Suprema de Justicia, de modo que las atribuciones que le corresponden se distribuyan entre diferentes Salas.
 
 ##### Art.  174.-
-La  Corte  Suprema  de  Justicia  tendrá  una  Sala  de  lo  Constitucional,  a  la  cual corresponderá  conocer  y  resolverlas  demandas  de  inconstitucionalidad  de  las  leyes,  decretos  y reglamentos, los procesos de amparo, el habeas corpus, las controversias entre el Órgano Legislativo y el Órgano Ejecutivo a que se refiere el Art. 138 y las causas mencionadas en la atribución 7a. del Art. 182 de esta Constitución.
+La Corte Suprema de Justicia tendrá una Sala de lo Constitucional, a la cual corresponderá conocer y resolver las demandas de inconstitucionalidad de las leyes, decretos y reglamentos, los procesos de amparo, el habeas corpus, las controversias entre el Órgano Legislativo y el Órgano Ejecutivo a que se refiere el Art. 138 y las causas mencionadas en la atribución 7ª. del Art. 182 de esta Constitución.
 
 LA  SALA  DE  LO  CONSTITUCIONAL  ESTARÁ  INTEGRADA  POR    CINCO  MAGISTRADOS DESIGNADOS POR LA ASAMBLEA LEGISLATIVA. SU PRESIDENTE SERA ELEGIDO POR LA MISMA EN CADA OCASIÓN EN QUE LE CORRESPONDA ELEGIR MAGISTRADOS DE LA CORTE SUPREMA DE JUSTICIA; EL CUAL SERA PRESIDENTE DE LA CORTE SUPREMA DE JUSTICIA Y DEL ÓRGANO JUDICIAL.(1)
 
@@ -1715,19 +1715,19 @@ La administración de justicia será gratuita.
 ##### Art. 182.-
 Son atribuciones de la Corte Suprema de Justicia:
 
-- 1 0 -Conocer de los procesos de amparo;
+- 1º- Conocer de los procesos de amparo;
 
-- 2 0 -Dirimir  las  competencias  que  se  susciten  entre  los  tribunales  de  cualquier  fuero  y naturaleza;
+- 2º- Dirimir las competencias que se susciten entre los tribunales de cualquier fuero y naturaleza;
 
-- 3 0 -Conocer de las causas de presas y de aquellas que no estén reservadas a otra autoridad; ordenar el curso de los suplicatorios o comisiones rogatorias que se libren para practicar diligencias fuera del Estado y mandar a cumplimentar los que procedan de otros países, sin perjuicio de lo dispuesto en los tratados; y conceder la extradición;
+- 3º- Conocer de las causas de presas y de aquellas que no estén reservadas a otra autoridad; ordenar el curso de los suplicatorios o comisiones rogatorias que se libren para practicar diligencias fuera del Estado y mandar a cumplimentar los que procedan de otros países, sin perjuicio de lo dispuesto en los tratados; y conceder la extradición;
 
-- 4 0 -Conceder, conforme a la ley y cuando fuere necesario, el permiso para la ejecución de sentencias pronunciadas por los tribunales extranjeros;
+- 4º- Conceder, conforme a la ley y cuando fuere necesario, el permiso para la ejecución de sentencias pronunciadas por los tribunales extranjeros;
 
-- 5 0 -Vigilar que se administre pronta y cumplida justicia, para lo cual adoptará las medidas que estime necesarias;
+- 5º- Vigilar que se administre pronta y cumplida justicia, para lo cual adoptará las medidas que estime necesarias;
 
-- 6 0 -Conocer de la responsabilidad de los funcionarios públicos en los casos señalados por las leyes;
+- 6º- Conocer de la responsabilidad de los funcionarios públicos en los casos señalados por las leyes;
 
-- 7 0 -Conocer de las causas de suspensión o pérdida de los derechos de ciudadanía en los casos comprendidos en los ordinales 2 1 y 4 1 del artículo 74 y en los ordinales 1 1 , 3 1 , 4 1
+- 7º- Conocer de las causas de suspensión o pérdida de los derechos de ciudadanía en los casos comprendidos en los ordinales 2º y 4º del artículo 74 y en los ordinales 1º, 3º, 4º
 
 ════════════════════════════════════════════════════════════
 
@@ -1743,21 +1743,21 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO
 
 ═════════════════════════════════════════════════════════════
 
-y 5 1 del artículo 75 de esta Constitución, así como de la rehabilitación correspondiente;
+y 5º del artículo 75 de esta Constitución, así como de la rehabilitación correspondiente;
 
-- 8 0 -Emitir informe y dictamen en las solicitudes de indulto o de conmutación de pena;
+- 8º- Emitir informe y dictamen en las solicitudes de indulto o de conmutación de pena;
 
-9 0 -NOMBRAR A LOS MAGISTRADOS DE LAS CÁMARAS DE SEGUNDA INSTANCIA, JUECES DE PRIMERA INSTANCIA Y JUECES DE PAZ DE LAS TERNAS QUE LE PROPONGA EL CONSEJO  NACIONAL  DE  LA  JUDICATURA;  A  LOS  MÉDICOS  FORENSES  Y  A  LOS EMPLEADOS DE LAS DEPENDENCIAS DE LA MISMA; REMOVERLOS, CONOCER DE SUS RENUNCIAS Y CONCEDERLES LICENCIAS; (1)
+- 9º- NOMBRAR A LOS MAGISTRADOS DE LAS CÁMARAS DE SEGUNDA INSTANCIA, JUECES DE PRIMERA INSTANCIA Y JUECES DE PAZ DE LAS TERNAS QUE LE PROPONGA EL CONSEJO NACIONAL DE LA JUDICATURA; A LOS MÉDICOS FORENSES Y A LOS EMPLEADOS DE LAS DEPENDENCIAS DE LA MISMA; REMOVERLOS, CONOCER DE SUS RENUNCIAS Y CONCEDERLES LICENCIAS; (1)
 
-- 10 0 -Nombrar conjueces en los casos determinados por la ley;
+- 10º- Nombrar conjueces en los casos determinados por la ley;
 
-- 11 0 -Recibir, por sí o por medio de los funcionarios que designe, la protesta constitucional a los funcionarios de su nombramiento;
+- 11º- Recibir, por sí o por medio de los funcionarios que designe, la protesta constitucional a los funcionarios de su nombramiento;
 
-12 0 -Practicar recibimientos de abogados y autorizarlos para el ejercicio de su profesión; suspenderlos por incumplimiento de sus obligaciones profesionales, por negligencia o ignorancia graves, por mala conducta profesional, o por conducta privada notoriamente inmoral;  inhabilitarlos  por  venalidad,  cohecho,  fraude,  falsedad  y  otro  motivos  que establezca  la  ley  y  rehabilitarlos  por  causa  legal.  En  los  casos  de  suspensión  e inhabilitación procederá en la forma que la ley establezca, y resolverá con sólo robustez moral de prueba. Las mismas facultades ejercerá respecto de los notarios;
+- 12º- Practicar recibimientos de abogados y autorizarlos para el ejercicio de su profesión; suspenderlos por incumplimiento de sus obligaciones profesionales, por negligencia o ignorancia graves, por mala conducta profesional, o por conducta privada notoriamente inmoral; inhabilitarlos por venalidad, cohecho, fraude, falsedad y otros motivos que establezca la ley y rehabilitarlos por causa legal. En los casos de suspensión e inhabilitación procederá en la forma que la ley establezca, y resolverá con sólo robustez moral de prueba. Las mismas facultades ejercerá respecto de los notarios;
 
-- 13 0 -Elaborar el proyecto de presupuesto de los sueldos y gastos de la administración de justicia y remitirlo al Órgano Ejecutivo para su inclusión sin modificaciones en el proyecto del  Presupuesto  General  del  Estado.  Los  ajustes  presupuestarios  que  la  Asamblea Legislativa considere necesario hacer a dicho proyecto, se harán en consulta con la Corte Suprema de Justicia;
+- 13º- Elaborar el proyecto de presupuesto de los sueldos y gastos de la administración de justicia y remitirlo al Órgano Ejecutivo para su inclusión sin modificaciones en el proyecto del Presupuesto General del Estado. Los ajustes presupuestarios que la Asamblea Legislativa considere necesario hacer a dicho proyecto, se harán en consulta con la Corte Suprema de Justicia;
 
-14 0 -Las demás que determine esta Constitución y la ley.
+- 14º- Las demás que determine esta Constitución y la ley.
 
 ##### Art. 183.-
 La Corte Suprema de Justicia por medio de la Sala de lo Constitucional será el único tribunal competente para declarar la inconstitucionalidad de las leyes, decretos y reglamentos, en su forma y contenido, de un modo general y obligatorio, y podrá hacerlo a petición de cualquier ciudadano.
@@ -1839,22 +1839,22 @@ DURARAN TRES AÑOS EN EL EJERCICIO DE SUS CARGOS Y PODRÁN SER REELEGIDOS. LA DE
 
 PARA SER FISCAL GENERAL DE LA REPÚBLICA O PROCURADOR GENERAL DE LA REPÚBLICA SE REQUIEREN LAS MISMAS CUALIDADES QUE PARA SER MAGISTRADO DE LAS CÁMARAS DE SEGUNDA INSTANCIA.
 
-- LA  LEY  DETERMINARA LOS REQUISITOS QUE DEBERÁ REUNIR EL PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS.(1)
+LA LEY DETERMINARA LOS REQUISITOS QUE DEBERÁ REUNIR EL PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS.(1)
 
 ##### Art. 193.-
 Corresponde al Fiscal General de la República:
 
-- 1 1 -Defender los intereses del Estado y de la sociedad;
+- 1º- Defender los intereses del Estado y de la sociedad;
 
-- 2 1 -PROMOVER DE OFICIO O A PETICIÓN DE PARTE LA ACCIÓN DE LA JUSTICIA EN DEFENSA DE LA LEGALIDAD;(1)
+- 2º- PROMOVER DE OFICIO O A PETICIÓN DE PARTE LA ACCIÓN DE LA JUSTICIA EN DEFENSA DE LA LEGALIDAD;(1)
 
-- 3 1 -DIRIGIR LA INVESTIGACIÓN DEL DELITO CON LA COLABORACIÓN DE LA POLICÍA NACIONAL CIVIL EN LA FORMA QUE DETERMINE LA LEY;(1)(11)
+- 3º- DIRIGIR LA INVESTIGACIÓN DEL DELITO CON LA COLABORACIÓN DE LA POLICÍA NACIONAL CIVIL EN LA FORMA QUE DETERMINE LA LEY;(1)(11)
 
-- 4 1 -PROMOVER LA ACCIÓN PENAL DE OFICIO O A PETICIÓN DE PARTE;(1)
+- 4º- PROMOVER LA ACCIÓN PENAL DE OFICIO O A PETICIÓN DE PARTE;(1)
 
-- 5 1 -Defender los intereses fiscales y representar al Estado en toda clase de juicios y en los contratos sobre adquisición de bienes inmuebles en general y de los muebles sujetos a licitación, y los demás que determine la ley;
+- 5º- Defender los intereses fiscales y representar al Estado en toda clase de juicios y en los contratos sobre adquisición de bienes inmuebles en general y de los muebles sujetos a licitación, y los demás que determine la ley;
 
-- 6 1 -Promover el enjuiciamiento y castigo de los indiciados por delitos de atentados contra las
+- 6º- Promover el enjuiciamiento y castigo de los indiciados por delitos de atentados contra las
 
 ════════════════════════════════════════════════════════════
 
@@ -1868,38 +1868,38 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 45
 
 ═════════════════════════════════════════════════════════════
 
-- autoridades, y de desacato;
+autoridades, y de desacato;
 
-- 7 1 -Nombrar comisiones especiales para el cumplimiento de sus funciones;
+- 7º- Nombrar comisiones especiales para el cumplimiento de sus funciones;
 
-- 8 1 -Nombrar, remover, conceder licencias y aceptar renuncias a los Fiscales de la Corte Suprema de Justicia, de las Cámaras de Segunda Instancia, de los Tribunales Militares y de los tribunales que conocen en primera instancia, y a los fiscales de Hacienda. Iguales atribuciones ejercerá respecto de los demás  funcionarios  y  empleados  de  su dependencia;
+- 8º- Nombrar, remover, conceder licencias y aceptar renuncias a los Fiscales de la Corte Suprema de Justicia, de las Cámaras de Segunda Instancia, de los Tribunales Militares y de los tribunales que conocen en primera instancia, y a los fiscales de Hacienda. Iguales atribuciones ejercerá respecto de los demás funcionarios y empleados de su dependencia;
 
-- 9 1 -DEROGADO (1)
+- 9º- DEROGADO (1)
 
-- 10 1 -Velar porque en las concesiones de cualquier clase otorgadas por el Estado, se cumpla con los requisitos, condiciones y finalidades establecidas en las mismas y ejercer al respecto las acciones correspondientes;
+- 10º- Velar porque en las concesiones de cualquier clase otorgadas por el Estado, se cumpla con los requisitos, condiciones y finalidades establecidas en las mismas y ejercer al respecto las acciones correspondientes;
 
-- 11 1 -Ejercer las demás atribuciones que establezca la ley.
+- 11º- Ejercer las demás atribuciones que establezca la ley.
 
 ##### Art. 194.-
 EL PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS Y EL PROCURADOR GENERAL DE LA REPÚBLICA, TENDRÁ LAS SIGUIENTES FUNCIONES:
 
-###### I.CORRESPONDE AL PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS:
+###### I.- CORRESPONDE AL PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS:
 
-- 1 1 -VELAR POR EL RESPETO Y LA GARANTÍA A LOS DERECHOS HUMANOS;
+- 1º- VELAR POR EL RESPETO Y LA GARANTÍA A LOS DERECHOS HUMANOS;
 
-- 2 1 -INVESTIGAR,  DE  OFICIO  O  POR  DENUNCIA  QUE  HUBIERE  RECIBIDO,  CASOS  DE VIOLACIONES A LOS DERECHOS HUMANOS;
+- 2º- INVESTIGAR, DE OFICIO O POR DENUNCIA QUE HUBIERE RECIBIDO, CASOS DE VIOLACIONES A LOS DERECHOS HUMANOS;
 
-- 3 1 -ASISTIR A LAS PRESUNTAS VICTIMAS DE VIOLACIONES A LOS DERECHOS HUMANOS;
+- 3º- ASISTIR A LAS PRESUNTAS VICTIMAS DE VIOLACIONES A LOS DERECHOS HUMANOS;
 
-- 4 1 -PROMOVER RECURSOS JUDICIALES O ADMINISTRATIVOS PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS;
+- 4º- PROMOVER RECURSOS JUDICIALES O ADMINISTRATIVOS PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS;
 
-- 5 1 -VIGILAR  LA  SITUACIÓN  DE  LAS  PERSONAS  PRIVADAS  DE  SU  LIBERTAD.  SERA NOTIFICADO DE TODO ARRESTO Y CUIDARA QUE SEAN RESPETADOS LOS LIMITES LEGALES DE LA DETENCIÓN ADMINISTRATIVA;
+- 5º- VIGILAR LA SITUACIÓN DE LAS PERSONAS PRIVADAS DE SU LIBERTAD. SERA NOTIFICADO DE TODO ARRESTO Y CUIDARA QUE SEAN RESPETADOS LOS LIMITES LEGALES DE LA DETENCIÓN ADMINISTRATIVA;
 
-- 6 1 -PRACTICAR INSPECCIONES, DONDE LO ESTIME NECESARIO, EN ORDEN A ASEGURAR EL RESPETO A LOS DERECHOS HUMANOS;
+- 6º- PRACTICAR INSPECCIONES, DONDE LO ESTIME NECESARIO, EN ORDEN A ASEGURAR EL RESPETO A LOS DERECHOS HUMANOS;
 
-- 7 1 -SUPERVISAR  LA  ACTUACIÓN  DE  LA  ADMINISTRACIÓN  PUBLICA  FRENTE  A  LAS PERSONAS;
+- 7º- SUPERVISAR LA ACTUACIÓN DE LA ADMINISTRACIÓN PUBLICA FRENTE A LAS PERSONAS;
 
-- 8 1 -PROMOVER REFORMAS ANTE LOS ÓRGANOS DEL ESTADO PARA EL PROGRESO DE LOS DERECHOS HUMANOS;
+- 8º- PROMOVER REFORMAS ANTE LOS ÓRGANOS DEL ESTADO PARA EL PROGRESO DE LOS DERECHOS HUMANOS;
 
 ════════════════════════════════════════════════════════════
 
@@ -1915,29 +1915,29 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO
 
 ═════════════════════════════════════════════════════════════
 
-- 9 1 -EMITIR OPINIONES SOBRE PROYECTOS DE LEYES QUE AFECTEN EL EJERCICIO DE LOS DERECHOS HUMANOS;
+- 9º- EMITIR OPINIONES SOBRE PROYECTOS DE LEYES QUE AFECTEN EL EJERCICIO DE LOS DERECHOS HUMANOS;
 
-- 10 1 -PROMOVER  Y  PROPONER  LAS  MEDIDAS  QUE  ESTIME  NECESARIAS  EN  ORDEN  A PREVENIR VIOLACIONES A LOS DERECHOS HUMANOS;
+- 10º- PROMOVER Y PROPONER LAS MEDIDAS QUE ESTIME NECESARIAS EN ORDEN A PREVENIR VIOLACIONES A LOS DERECHOS HUMANOS;
 
-- 11 1 -FORMULAR CONCLUSIONES Y RECOMENDACIONES PUBLICA O PRIVADAMENTE;
+- 11º- FORMULAR CONCLUSIONES Y RECOMENDACIONES PUBLICA O PRIVADAMENTE;
 
-- 12 1 -ELABORAR Y PUBLICAR INFORMES;
+- 12º- ELABORAR Y PUBLICAR INFORMES;
 
-- 13 1 -DESARROLLAR UN PROGRAMA PERMANENTE DE ACTIVIDADES DE PROMOCIÓN SOBRE EL CONOCIMIENTO Y RESPETO DE LOS DERECHOS HUMANOS;
+- 13º- DESARROLLAR UN PROGRAMA PERMANENTE DE ACTIVIDADES DE PROMOCIÓN SOBRE EL CONOCIMIENTO Y RESPETO DE LOS DERECHOS HUMANOS;
 
-- 14 1 -LAS DEMÁS QUE LE ATRIBUYEN LA CONSTITUCIÓN O LA LEY.
+- 14º- LAS DEMÁS QUE LE ATRIBUYEN LA CONSTITUCIÓN O LA LEY.
 
 EL PROCURADOR PARA LA DEFENSA DE LOS DERECHOS HUMANOS PODRÁ TENER DELEGADOS DEPARTAMENTALES Y LOCALES DE CARÁCTER PERMANENTE.
 
-###### II.CORRESPONDE AL PROCURADOR GENERAL DE LA REPÚBLICA:
+###### II.- CORRESPONDE AL PROCURADOR GENERAL DE LA REPÚBLICA:
 
-- 1 1 -VELAR POR LA DEFENSA DE LA FAMILIA Y DE LAS PERSONAS E INTERESES DE LOS MENORES Y DEMÁS INCAPACES;
+- 1º- VELAR POR LA DEFENSA DE LA FAMILIA Y DE LAS PERSONAS E INTERESES DE LOS MENORES Y DEMÁS INCAPACES;
 
-- 2 1 -DAR ASISTENCIA LEGAL A LAS PERSONAS DE ESCASOS RECURSOS ECONÓMICOS, Y REPRESENTARLAS JUDICIALMENTE EN LA DEFENSA DE SU LIBERTAD INDIVIDUAL Y DE SUS DERECHOS LABORALES;
+- 2º- DAR ASISTENCIA LEGAL A LAS PERSONAS DE ESCASOS RECURSOS ECONÓMICOS, Y REPRESENTARLAS JUDICIALMENTE EN LA DEFENSA DE SU LIBERTAD INDIVIDUAL Y DE SUS DERECHOS LABORALES;
 
-- 3 1 -NOMBRAR,  REMOVER,  CONCEDER  LICENCIAS  Y  ACEPTAR  RENUNCIAS  A  LOS PROCURADORES AUXILIARES DE TODOS LOS TRIBUNALES DE LA REPÚBLICA, A LOS PROCURADORES DE TRABAJO Y A LOS DEMÁS FUNCIONARIOS Y EMPLEADOS DE SU DEPENDENCIA;
+- 3º- NOMBRAR, REMOVER, CONCEDER LICENCIAS Y ACEPTAR RENUNCIAS A LOS PROCURADORES AUXILIARES DE TODOS LOS TRIBUNALES DE LA REPÚBLICA, A LOS PROCURADORES DE TRABAJO Y A LOS DEMÁS FUNCIONARIOS Y EMPLEADOS DE SU DEPENDENCIA;
 
-- 4 1 -EJERCER LAS DEMÁS ATRIBUCIONES QUE ESTABLEZCA LA LEY.(1)
+- 4º- EJERCER LAS DEMÁS ATRIBUCIONES QUE ESTABLEZCA LA LEY.(1)
 
 ### CAPITULO V
 
@@ -1958,25 +1958,25 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 47
 
 ═════════════════════════════════════════════════════════════
 
-- 1 0 -Vigilar la recaudación, la custodia, el compromiso y la erogación de los fondos públicos; así como la liquidación de impuestos, tasas, derechos y demás contribuciones, cuando la ley lo determine;
+- 1º- Vigilar la recaudación, la custodia, el compromiso y la erogación de los fondos públicos; así como la liquidación de impuestos, tasas, derechos y demás contribuciones, cuando la ley lo determine;
 
-- 2 0 -APROBAR TODA SALIDA DE FONDOS DEL TESORO PUBLICO, DE ACUERDO CON EL PRESUPUESTO; INTERVENIR EN TODO ACTO QUE DE MANERA DIRECTA O INDIRECTA AFECTE AL TESORO PUBLICO O AL PATRIMONIO DEL ESTADO, Y REFRENDAR LOS ACTOS Y CONTRATOS RELATIVOS A LA DEUDA PUBLICA;(4)
+- 2º- APROBAR TODA SALIDA DE FONDOS DEL TESORO PUBLICO, DE ACUERDO CON EL PRESUPUESTO; INTERVENIR EN TODO ACTO QUE DE MANERA DIRECTA O INDIRECTA AFECTE AL TESORO PUBLICO O AL PATRIMONIO DEL ESTADO, Y REFRENDAR LOS ACTOS Y CONTRATOS RELATIVOS A LA DEUDA PUBLICA;(4)
 
-- 3 0 -Vigilar, inspeccionar y glosar las cuentas de los funcionarios y empleados que administren o manejen bienes públicos, y conocer de los juicios a que den lugar dichas cuentas;
+- 3º- Vigilar, inspeccionar y glosar las cuentas de los funcionarios y empleados que administren o manejen bienes públicos, y conocer de los juicios a que den lugar dichas cuentas;
 
-- 4 0 -FISCALIZAR  LA  GESTIÓN    ECONÓMICA  DE  LAS  INSTITUCIONES  Y  EMPRESAS ESTATALES DE CARÁCTER AUTÓNOMO Y DE LAS ENTIDADES QUE SE COSTEEN CON FONDOS DEL ERARIO O QUE RECIBAN SUBVENCIÓN O SUBSIDIO DEL MISMO.(4)
+- 4º- FISCALIZAR LA GESTIÓN ECONÓMICA DE LAS INSTITUCIONES Y EMPRESAS ESTATALES DE CARÁCTER AUTÓNOMO Y DE LAS ENTIDADES QUE SE COSTEEN CON FONDOS DEL ERARIO O QUE RECIBAN SUBVENCIÓN O SUBSIDIO DEL MISMO.(4)
 
-- 5 0 -Examinar la cuenta que sobre la gestión de la Hacienda Pública rinda el Órgano Ejecutivo a la Asamblea, e informar a ésta del resultado de su examen;
+- 5º- Examinar la cuenta que sobre la gestión de la Hacienda Pública rinda el Órgano Ejecutivo a la Asamblea, e informar a ésta del resultado de su examen;
 
-- 6 0 -Dictar los reglamentos necesarios para el cumplimiento de sus atribuciones;
+- 6º- Dictar los reglamentos necesarios para el cumplimiento de sus atribuciones;
 
-- 7 0 -Informar por escrito al Presidente de la República, a la Asamblea Legislativa y a los respectivos  superiores  jerárquicos  de  las  irregularidades  relevantes  comprobadas  a cualquier funcionario o empleado público en el manejo de bienes y fondos sujetos a fiscalización;
+- 7º- Informar por escrito al Presidente de la República, a la Asamblea Legislativa y a los respectivos superiores jerárquicos de las irregularidades relevantes comprobadas a cualquier funcionario o empleado público en el manejo de bienes y fondos sujetos a fiscalización;
 
-- 8 0 -Velar porque se hagan efectivas las deudas a favor del Estado y Municipios;
+- 8º- Velar porque se hagan efectivas las deudas a favor del Estado y Municipios;
 
-- 9 0 -Ejercer las demás funciones que las leyes le señalen.
+- 9º- Ejercer las demás funciones que las leyes le señalen.
 
-LAS ATRIBUCIONES 2 0 Y 4 0 LAS EFECTUARA DE UNA MANERA ADECUADA A LA NATURALEZA Y FINES DEL ORGANISMO DE QUE SE TRATE, DE ACUERDO CON LO QUE AL RESPECTO DETERMINE LA LEY; Y PODRÁ ACTUAR PREVIAMENTE A SOLICITUD DEL ORGANISMO FISCALIZADO, DEL SUPERIOR JERÁRQUICO DE ESTE O DE OFICIO CUANDO LO CONSIDERE NECESARIO.(4)
+LAS ATRIBUCIONES 2º Y 4º LAS EFECTUARA DE UNA MANERA ADECUADA A LA NATURALEZA Y FINES DEL ORGANISMO DE QUE SE TRATE, DE ACUERDO CON LO QUE AL RESPECTO DETERMINE LA LEY; Y PODRÁ ACTUAR PREVIAMENTE A SOLICITUD DEL ORGANISMO FISCALIZADO, DEL SUPERIOR JERÁRQUICO DE ESTE O DE OFICIO CUANDO LO CONSIDERE NECESARIO.(4)
 
 ##### Art.  196.-
 La  Corte  de  Cuentas  de  la  República,  para  el  cumplimiento  de  sus  funciones jurisdiccionales, se dividirá en una Cámara de Segunda Instancia y en las Cámaras de Primera Instancia que establezca la ley.
@@ -2059,19 +2059,19 @@ Los Municipios estarán obligados a colaborar con otras instituciones públicas 
 ##### Art. 204.-
 La autonomía del Municipio comprende:
 
-- 1 1 -Crear, modificar y suprimir tasas y contribuciones públicas para la realización de obras determinadas dentro de los límites que una ley general establezca.
+- 1º- Crear, modificar y suprimir tasas y contribuciones públicas para la realización de obras determinadas dentro de los límites que una ley general establezca.
 
 Aprobadas las tasas o contribuciones por el Concejo Municipal se mandará publicar el acuerdo respectivo en el Diario Oficial, y transcurridos que sean ocho días después de su publicación, será obligatorio su cumplimiento;
 
-- 2 1 -Decretar su Presupuesto de Ingresos y Egresos;
+- 2º- Decretar su Presupuesto de Ingresos y Egresos;
 
-- 3 1 -Gestionar libremente en las materias de su competencia;
+- 3º- Gestionar libremente en las materias de su competencia;
 
-- 4 1 -Nombrar y remover a los funcionarios y empleados de sus dependencias;
+- 4º- Nombrar y remover a los funcionarios y empleados de sus dependencias;
 
-- 5 1 -Decretar las ordenanzas y reglamentos locales;
+- 5º- Decretar las ordenanzas y reglamentos locales;
 
-- 6 1 -Elaborar sus tarifas de impuestos y las reformas a las mismas, para proponerlas como ley a la Asamblea Legislativa.
+- 6º- Elaborar sus tarifas de impuestos y las reformas a las mismas, para proponerlas como ley a la Asamblea Legislativa.
 
 ##### Art. 205.-
 Ninguna ley ni autoridad podrá eximir ni dispensar el pago de las tasas y contribuciones municipales.
@@ -2243,13 +2243,13 @@ Las  disposiciones  de  este  Capítulo  son  extensivas  a  los  funcionarios  
 ##### Art. 223.-
 Forman la Hacienda Pública:
 
-- 1 1 -Sus fondos y valores líquidos;
+1º- Sus fondos y valores líquidos;
 
-- 2 1 -Sus créditos activos;
+2º- Sus créditos activos;
 
-- 3 1 -Sus bienes muebles y raíces;
+3º- Sus bienes muebles y raíces;
 
-- 4 1 -Los derechos derivados de la aplicación de las leyes relativas a impuestos, tasas y demás contribuciones, así como los que por cualquier otro título le correspondan.
+4º- Los derechos derivados de la aplicación de las leyes relativas a impuestos, tasas y demás contribuciones, así como los que por cualquier otro título le correspondan.
 
 Son obligaciones a cargo de la Hacienda Pública, las deudas reconocidas y las que tengan origen en los gastos públicos debidamente autorizados.
 
@@ -2461,7 +2461,7 @@ La reforma únicamente puede ser propuesta por los Diputados en un número no me
 No podrán reformarse en ningún caso los artículos de esta Constitución que se refieren a la forma y sistema de Gobierno, al territorio de la República y a la alternabilidad en el ejercicio de la Presidencia de la República.
 
 ##### Art. 249.-
-Derógase la Constitución promulgada por Decreto N 1 6, de fecha 8 de enero de 1962, publicado en el Diario Oficial N 1 110, Tomo 194, de fecha 16 del mismo mes y año, adoptada por Decreto Constituyente N 1 3, de fecha 26 de abril de 1982, publicado en el Diario Oficial N 1 75, Tomo 275, de la misma fecha, su régimen de excepciones, así como todas aquellas disposiciones que estuvieren en contra de cualquier precepto de esta Constitución.
+Derógase la Constitución promulgada por Decreto Nº 6, de fecha 8 de enero de 1962, publicado en el Diario Oficial Nº 110, Tomo 194, de fecha 16 del mismo mes y año, adoptada por Decreto Constituyente Nº 3, de fecha 26 de abril de 1982, publicado en el Diario Oficial Nº 75, Tomo 275, de la misma fecha, su régimen de excepciones, así como todas aquellas disposiciones que estuvieren en contra de cualquier precepto de esta Constitución.
 
 ## TITULO X
 
@@ -2477,9 +2477,9 @@ Hasta que la ley de procedimientos mencionada en el inciso último del artículo
 El derecho establecido en el ordinal 12o. del artículo 38 de esta Constitución, tendrá aplicación hasta que sea regulado en la ley secundaria, la cual no podrá tener efecto retroactivo.
 
 ##### Art. 253.-
-Se incorporan a este Título las disposiciones contenidas en el Decreto Constituyente N 1 36, de fecha 22 de noviembre de 1983, publicado en el Diario Oficial N 1 225, Tomo 281 de fecha 5 de diciembre del mismo año.
+Se incorporan a este Título las disposiciones contenidas en el Decreto Constituyente Nº 36, de fecha 22 de noviembre de 1983, publicado en el Diario Oficial Nº 225, Tomo 281 de fecha 5 de diciembre del mismo año.
 
-Lo dispuesto en los ordinales 3 1 ,  4 1 y  5 1 del    artículo  152  de  esta  Constitución, no tendrá
+Lo dispuesto en los ordinales 3º, 4º y 5º del artículo 152 de esta Constitución, no tendrá
 
 ════════════════════════════════════════════════════════════
 
@@ -2495,7 +2495,7 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO
 
 ═════════════════════════════════════════════════════════════
 
-aplicación para la próxima elección de Presidente y Vicepresidente de la República, debiéndose estar a lo dispuesto en el Decreto Constituyente N 1 36, de fecha 22 de noviembre de 1983, publicado en el Diario Oficial N 1 225, Tomo 281, de fecha 5 de diciembre del mismo año.
+aplicación para la próxima elección de Presidente y Vicepresidente de la República, debiéndose estar a lo dispuesto en el Decreto Constituyente Nº 36, de fecha 22 de noviembre de 1983, publicado en el Diario Oficial Nº 225, Tomo 281, de fecha 5 de diciembre del mismo año.
 
 ##### Art.  254.-
 Las  personas a quienes esta Constitución confiere la calidad de salvadoreños por nacimiento, gozarán de los derechos y tendrán los deberes  inherentes a la misma, desde la fecha de su vigencia, sin que se requiera ningún trámite adicional de reconocimiento de su nacionalidad.
@@ -2509,7 +2509,7 @@ Los Magistrados de las Cámaras de Segunda Instancia y Jueces de Primera Instanc
 El Presidente y Magistrados de la Corte de Cuentas de la República elegidos por esta Asamblea Constituyente, durarán en sus funciones hasta el día 30 de junio de 1984.
 
 ##### Art. 257.-
-Los Vicepresidentes de la República continuarán en el ejercicio de sus cargos hasta el día 31 de mayo de 1984, con las atribuciones que establece el Decreto Constituyente N 1 9, de fecha  6 de mayo de 1982, publicado en el Diario Oficial N 1 91, Tomo 275, de fecha 19 del mismo mes y año.
+Los Vicepresidentes de la República continuarán en el ejercicio de sus cargos hasta el día 31 de mayo de 1984, con las atribuciones que establece el Decreto Constituyente Nº 9, de fecha 6 de mayo de 1982, publicado en el Diario Oficial Nº 91, Tomo 275, de fecha 19 del mismo mes y año.
 
 ##### Art. 258.-
 Las atribuciones, facultades y demás funciones que las leyes o reglamentos confieren a los Subsecretarios de Estado, serán ejercidas por los Viceministros de Estado, excepto la de formar parte del Consejo de Ministros, salvo cuando hicieren las veces de éstos.
@@ -2518,7 +2518,7 @@ Las atribuciones, facultades y demás funciones que las leyes o reglamentos conf
 El Fiscal General de la República y el Procurador General de Pobres nombrados de conformidad  a  la  Constitución  de  1962,  y  ratificados  por  esta  Asamblea  de  acuerdo  al  régimen  de excepciones de la misma, durarán en sus funciones hasta el treinta y uno de mayo de mil novecientos ochenta y cuatro.
 
 ##### Art. 260.-
-Los Concejos Municipales nombrados de conformidad al Decreto Constituyente N 1 9 de fecha 6 de mayo de 1982, publicado en el Diario Oficial N 1 91, Tomo 275, de fecha 19 del mismo mes y año, durarán en sus cargos hasta el día treinta de abril de mil novecientos ochenta y cinco.
+Los Concejos Municipales nombrados de conformidad al Decreto Constituyente Nº 9 de fecha 6 de mayo de 1982, publicado en el Diario Oficial Nº 91, Tomo 275, de fecha 19 del mismo mes y año, durarán en sus cargos hasta el día treinta de abril de mil novecientos ochenta y cinco.
 
 Si durante el período comprendido entre el 31 de mayo de 1984 y el 30 de abril de 1985, ocurriere alguna vacante por cualquier causa, ésta será llenada conforme a la ley.
 
@@ -2537,10 +2537,10 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 60
 
 ═════════════════════════════════════════════════════════════
 
-Constituyente N 1 36, de fecha 22 de noviembre de 1983, publicado en el Diario Oficial N 1 225, Tomo 281, de fecha 5 de diciembre del mismo año, éstos deberán ser ratificados por la Asamblea Legislativa.
+Constituyente Nº 36, de fecha 22 de noviembre de 1983, publicado en el Diario Oficial Nº 225, Tomo 281, de fecha 5 de diciembre del mismo año, éstos deberán ser ratificados por la Asamblea Legislativa.
 
 ##### Art. 262.-
-La creación, modificación y supresión de tasas y contribuciones públicas a que se refiere el ordinal 1 1 del Art. 204 de esta Constitución, serán aprobadas por la Asamblea Legislativa mientras no entre en vigencia la ley general a que se refiere la misma disposición constitucional.
+La creación, modificación y supresión de tasas y contribuciones públicas a que se refiere el ordinal 1º del Art. 204 de esta Constitución, serán aprobadas por la Asamblea Legislativa mientras no entre en vigencia la ley general a que se refiere la misma disposición constitucional.
 
 ##### Art. 263.-
 Los miembros del Consejo Central de Elecciones elegidos con base a los Decretos Constituyentes Nos. 17 y 18, de fecha 3 de noviembre de 1982, publicados en el Diario Oficial No. 203, Tomo 277, de fecha 4 del mismo mes y año, continuarán en sus funciones hasta el día 31 de julio de 1984.
@@ -2565,7 +2565,7 @@ Los conceptos campesino y agricultor en pequeño deberán definirse en la ley.
 Se tendrán como documentos fidedignos para la interpretación de esta Constitución, además del acta de la sesión plenaria de la Asamblea Constituyente, las grabaciones magnetofónicas y de audiovideo que contienen las incidencias  y participación de los Diputados Constituyentes en la discusión y aprobación de ella, así como los documentos similares que se elaboraron en la Comisión Redactora  del Proyecto de Constitución. La Junta Directiva de la Asamblea Legislativa deberá dictar las disposiciones pertinentes para garantizar la autenticidad y conservación de tales documentos.
 
 ##### Art.  269.-
-En  caso  de  que  por  fuerza  mayor  o  caso  fortuito,  debidamente  calificado  por  la Asamblea  Legislativa,  no  pudieren  efectuarse  las  elecciones  para  Presidente  y  Vicepresidente  de  la República en la fecha señalada en el Decreto Constituyente N 1 36, de fecha 22 de noviembre de 1983, publicado en el Diario Oficial N 1 225, Tomo 281, de fecha 5 de diciembre del mismo año, la misma señalará una nueva fecha. Tanto para la calificación del hecho como para  el señalamiento de la nueva fecha de celebración de las elecciones, se necesitará el voto de las tres cuartas partes de los diputados
+En caso de que por fuerza mayor o caso fortuito, debidamente calificado por la Asamblea Legislativa, no pudieren efectuarse las elecciones para Presidente y Vicepresidente de la República en la fecha señalada en el Decreto Constituyente Nº 36, de fecha 22 de noviembre de 1983, publicado en el Diario Oficial Nº 225, Tomo 281, de fecha 5 de diciembre del mismo año, la misma señalará una nueva fecha. Tanto para la calificación del hecho como para el señalamiento de la nueva fecha de celebración de las elecciones, se necesitará el voto de las tres cuartas partes de los diputados
 
 ════════════════════════════════════════════════════════════
 
@@ -2604,20 +2604,34 @@ La  presente  Constitución  entrará  en  vigencia  el  día  veinte  de  dicie
 
 DADO EN EL SALÓN DE SESIONES DE LA ASAMBLEA CONSTITUYENTE; PALACIO LEGISLATIVO: San Salvador, a los quince días del mes de diciembre de mil novecientos ochenta y tres.
 
-Roberto d' Aubuisson Arrieta Presidente
+Roberto d' Aubuisson Arrieta
+Presidente
+Diputado por el Departamento
+de San Salvador
 
+Hugo Roberto Carrillo Corleto
+Vice-Presidente
+Diputado por el Departamento de Santa Ana
+
+María Julia Castillo Rodas
+Vice-Presidente
+Diputada por el Departamento de San Salvador
+
+Hugo César Barrera Guerrero
+Primer Secretario
 Diputado por el Departamento de San Salvador
 
-Hugo Roberto Carrillo Corleto Vice-Presidente | María Julia Castillo Rodas Vice-Presidente
---- | ---
-Diputado por el Departamento de Santa Ana | Diputada por el Departamento de San Salvador
-Hugo César Barrera Guerrero Primer Secretario Diputado por el Departamento de San Salvador | José Francisco Merino López Primer Secretario Diputado por el Departamento de
-Rafael Morán Castaneda | Héctor Tulio Flores Larín Segundo Secretario
-Primer Secretario | por el Departamento
-por el Departamento de | Diputado de
-Diputado
-Usulután
-Ahuachapán
+José Francisco Merino López
+Primer Secretario
+Diputado por el Departamento de San Miguel
+
+Rafael Morán Castaneda
+Primer Secretario
+Diputado por el Departamento de Ahuachapán
+
+Héctor Tulio Flores Larín
+Segundo Secretario
+Diputado por el Departamento de Usulután
 
 ════════════════════════════════════════════════════════════
 
@@ -2631,35 +2645,103 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 62
 
 ═════════════════════════════════════════════════════════════
 
-Antonio Genaro Pastore Mendoza                                 Mercedes Gloria Salguero Gross Segundo Secretario                                                Segundo Secretario Diputado por el Departamento de San Salvador           Diputada por el Departamento de Santa Ana
+Antonio Genaro Pastore Mendoza
+Segundo Secretario
+Diputado por el Departamento de San Salvador
 
-Alfonso Arístides Alvarenga                           Rodolfo Antonio Castillo Claramount Diputado por el Departamento de San Salvador  Diputado por el Departamento de San Salvador
+Mercedes Gloria Salguero Gross
+Segundo Secretario
+Diputada por el Departamento de Santa Ana
 
-Ricardo González Camacho                                              Guillermo Antonio Guevara Lacayo Diputado por el Departamento de San Salvador           Diputado por el Departamento de San Salvador
+Alfonso Arístides Alvarenga
+Diputado por el Departamento de San Salvador
 
-José Humberto Posada Sánchez                                Julio Adolfo Rey Prendes Diputado por el Departamento de San Salvador      Diputado por el Departamento de San Salvador
+Rodolfo Antonio Castillo Claramount
+Diputado por el Departamento de San Salvador
 
-Luis Nelson Segovia                                      Mauricio Armando Mazier Andino Diputado por el Departamento de San Salvador          Diputado por el Departamento de San Salvador
+Ricardo González Camacho
+Diputado por el Departamento de San Salvador
 
-Juan Antonio Martínez Varela                                  Félix Ernesto Cánizales Acevedo Diputado por el Departamento de San Salvador            Diputado por el Departamento de Santa Ana
+Guillermo Antonio Guevara Lacayo
+Diputado por el Departamento de San Salvador
 
-Fantina Elvira Cortez v. de Martínez                                Rafael Antonio Peraza Hernández Diputada por el Departamento de Santa Ana                 Diputada por el Departamento de Santa Ana
+José Humberto Posada Sánchez
+Diputado por el Departamento de San Salvador
 
-Juan Ramón Toledo                                                   Carlos Alberto Funes Diputado por el Departamento de Santa Ana             Diputado por el Departamento de San Miguel
+Julio Adolfo Rey Prendes
+Diputado por el Departamento de San Salvador
 
-Herbert Prudencio Palma Duque                                            Rafael Soto Alvarenga Diputado por el Departamento de San Miguel Diputado por el Departamento de San Miguel
+Luis Nelson Segovia
+Diputado por el Departamento de San Salvador
 
-David Humberto Trejo Ricardo Edmundo Burgos Diputado por el Departamento  de San Miguel Diputado por el Departamento de La Libertad
+Mauricio Armando Mazier Andino
+Diputado por el Departamento de San Salvador
 
-Manuel Mártir Noguera Juan Francisco Puquirre González Diputado por el Departamento de La Libertad              Diputado por el Departamento de La Libertad
+Juan Antonio Martínez Varela
+Diputado por el Departamento de San Salvador
 
-Liliana Rosa Rubio de Valdez Héctor Manuel Araujo Rivera Diputada por el Departamento de La Libertad Diputado  por  el  Departamento  de  Usulután
+Félix Ernesto Cánizales Acevedo
+Diputado por el Departamento de Santa Ana
 
-Luis Roberto Hidalgo Zelaya Ricardo Arnoldo Pohl Tavarone Diputado por el Departamento de Usulután                     Diputado por el Departamento de Usulután
+Fantina Elvira Cortez v. de Martínez
+Diputada por el Departamento de Santa Ana
 
-Angel Armando Alfaro Calderón Hernán Antonio Castillo Garzona Diputado por el Departamento de Sonsonate                    Diputado por el Departamento de Sonsonate
+Rafael Antonio Peraza Hernández
+Diputada por el Departamento de Santa Ana
 
-Carlos Alberto Madrid Zúniga                                Jorge Alberto Zelada Robredo Diputado por el Departamento de Sonsonate    Diputado por el Departamento de Sonsonate Mauricio Adolfo Dheming Morrissey José Septalín Santos Ponce Diputado por el Departamento de La Unión Diputado por el Departamento de La Unión
+Juan Ramón Toledo
+Diputado por el Departamento de Santa Ana
+
+Carlos Alberto Funes
+Diputado por el Departamento de San Miguel
+
+Herbert Prudencio Palma Duque
+Diputado por el Departamento de San Miguel
+
+Rafael Soto Alvarenga
+Diputado por el Departamento de San Miguel
+
+David Humberto Trejo
+Diputado por el Departamento de San Miguel
+
+Ricardo Edmundo Burgos
+Diputado por el Departamento de La Libertad
+
+Manuel Mártir Noguera
+Diputado por el Departamento de La Libertad
+
+Juan Francisco Puquirre González
+Diputado por el Departamento de La Libertad
+
+Liliana Rosa Rubio de Valdez
+Diputada por el Departamento de La Libertad
+
+Héctor Manuel Araujo Rivera
+Diputado por el Departamento de Usulután
+
+Luis Roberto Hidalgo Zelaya
+Diputado por el Departamento de Usulután
+
+Ricardo Arnoldo Pohl Tavarone
+Diputado por el Departamento de Usulután
+
+Angel Armando Alfaro Calderón
+Diputado por el Departamento de Sonsonate
+
+Hernán Antonio Castillo Garzona
+Diputado por el Departamento de Sonsonate
+
+Carlos Alberto Madrid Zúniga
+Diputado por el Departamento de Sonsonate
+
+Jorge Alberto Zelada Robredo
+Diputado por el Departamento de Sonsonate
+
+Mauricio Adolfo Dheming Morrissey
+Diputado por el Departamento de La Unión
+
+José Septalín Santos Ponce
+Diputado por el Departamento de La Unión
 
 ════════════════════════════════════════════════════════════
 
@@ -2673,25 +2755,72 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 63
 
 ═════════════════════════════════════════════════════════════
 
-Macla Judith Romero de Torres José Napoleón Bonilla Alvarado Diputada por el Departamento de La Unión Diputado por el Departamento de La Paz
+Macla Judith Romero de Torres
+Diputada por el Departamento de La Unión
 
-José Alberto Buendía Flores Jesús Alberto Villacorta Rodríguez Diputado por el Departamento de La Paz Diputado por el Departamento de La Paz
+José Napoleón Bonilla Alvarado
+Diputado por el Departamento de La Paz
 
-Lucas Asdrúval Aguilar Zepeda                                             Carlos  Arnulfo Crespín Diputado por el Departamento de Chalatenango              Diputado por el Departamento de Chalatenango
+José Alberto Buendía Flores
+Diputado por el Departamento de La Paz
 
-Pedro Alberto Hernández Portillo Marina Isabel Marroquín de Ibarra Diputado por el Departamento de Chalatenango               Diputada por el Departamento de Cuscatlán
+Jesús Alberto Villacorta Rodríguez
+Diputado por el Departamento de La Paz
 
-Carmen Martínez Cañas de Lazo                                Jorge Alberto Jarquín Sosa Diputada por el Departamento de Cuscatlán                  Diputado por el Departamento de Cuscatlán Antonio Enrique Aguirre Rivas Luis Angel Trejo Sintigo Diputado por el Departamento   de Ahuachapán                    Diputado por el Departamento de Ahuachapán José Luis Chicas Alfredo Márquez Flores Diputado por el Departamento de Morazán Diputado por el Departamento de Morazán
+Lucas Asdrúval Aguilar Zepeda
+Diputado por el Departamento de Chalatenango
 
-Ramiro Midence Barrios Zavala Oscar Armando Méndez Molina Diputado por el Departamento de Morazán                 Diputado por el Departamento de San Vicente
+Carlos Arnulfo Crespín
+Diputado por el Departamento de Chalatenango
 
-José Armando Pino Molina Daniel Ramírez Rodríguez Diputado por el Departamento de San Vicente              Diputado por el Departamento de San Vicente
+Pedro Alberto Hernández Portillo
+Diputado por el Departamento de Chalatenango
 
-Mario Enrique Amaya Rosa Jesús Dolores Ortiz Hernández Diputado por el Departamento de Cabañas Diputado por el Departamento de Cabañas
+Marina Isabel Marroquín de Ibarra
+Diputada por el Departamento de Cuscatlán
 
-Roberto Ismael Ayala Echeverría Diputado por el Departamento de Cabañas
+Carmen Martínez Cañas de Lazo
+Diputada por el Departamento de Cuscatlán
 
-D.O. N 1 234 TOMO N 1 281 FECHA: 16 de Diciembre de 1983
+Jorge Alberto Jarquín Sosa
+Diputado por el Departamento de Cuscatlán
+
+Antonio Enrique Aguirre Rivas
+Diputado por el Departamento de Ahuachapán
+
+Luis Angel Trejo Sintigo
+Diputado por el Departamento de Ahuachapán
+
+José Luis Chicas
+Diputado por el Departamento de Morazán
+
+Alfredo Márquez Flores
+Diputado por el Departamento de Morazán
+
+Ramiro Midence Barrios Zavala
+Diputado por el Departamento de Morazán
+
+Oscar Armando Méndez Molina
+Diputado por el Departamento de San Vicente
+
+José Armando Pino Molina
+Diputado por el Departamento de San Vicente
+
+Daniel Ramírez Rodríguez
+Diputado por el Departamento de San Vicente
+
+Mario Enrique Amaya Rosa
+Diputado por el Departamento de Cabañas
+
+Jesús Dolores Ortiz Hernández
+Diputado por el Departamento de Cabañas
+
+Roberto Ismael Ayala Echeverría
+Diputado por el Departamento de Cabañas
+
+D.O. Nº234
+TOMO Nº 281
+FECHA: 16 de Diciembre de 1983
 
 ════════════════════════════════════════════════════════════
 
@@ -2707,35 +2836,47 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 64
 
 ## REFORMAS:
 
-- D.L. N 1 64, 31 DE OCTUBRE DE 1991; D.O. N 1 217, T. 313, 20 DE NOVIEMBRE DE 1991. FE DE ERRATAS AL D.L. No. 64 DEL 31 DE OCTUBRE DE1991: D.L. N 1 583, 30 DE JUNIO DE 1993, D.O. N 1 139, T. 320, 23 DE JULIO DE 1993.
+(1) D.L. Nº 64, 31 DE OCTUBRE DE 1991;
+D.O. Nº 217, T. 313, 20 DE NOVIEMBRE DE 1991.
+FE DE ERRATAS AL D.L. No. 64 DEL 31 DE OCTUBRE DE1991:
+D.L. Nº 583, 30 DE JUNIO DE 1993,
+D.O. Nº 139, T. 320, 23 DE JULIO DE 1993.
 
-- D.L. N 1 152, 30 DE ENERO DE 1992; D.O. N 1 19, T. 314, 30 DE ENERO DE 1992.
+(2) D.L. Nº 152, 30 DE ENERO DE 1992;
+D.O. Nº 19, T. 314, 30 DE ENERO DE 1992.
 
-- D.L. N 1 860, 21 DE ABRIL DE 1994;
+(3) D.L. Nº 860, 21 DE ABRIL DE 1994;
+D.O. Nº 88, T. 323, 13 DE MAYO DE 1994.
 
-D.O. N 1 88, T. 323, 13 DE MAYO DE 1994.
+(4) D.L. Nº 165, 20 DE OCTUBRE DE 1994;
+D.O. Nº 196, T. 325, 24 DE OCTUBRE DE 1994.
 
-- D.L. N 1 165, 20 DE OCTUBRE DE 1994; D.O. N 1 196, T. 325, 24 DE OCTUBRE DE 1994.
+(5) D.L. Nº 166, 20 DE OCTUBRE DE 1994;
+D.O. Nº 196, T. 325, 24 DE OCTUBRE DE 1994.
 
-- D.L. N 1 166, 20 DE OCTUBRE DE 1994; D.O. N 1 196, T. 325, 24 DE OCTUBRE DE 1994.
+(6) D.L. Nº 743, 27 DE JUNIO DE 1996;
+D.O. Nº 128, T. 332, DEL 10 DE JULIO DE 1996.
 
-- D.L. N 1 743, 27 DE JUNIO DE 1996; D.O. N 1 128, T. 332, DEL 10 DE JULIO DE 1996.
+(7) D.L. Nº 744, 27 DE JUNIO DE 1996;
+D.O. Nº 128, T. 332, 10 DE JULIO DE 1996.
 
-- D.L. N 1 744, 27 DE JUNIO DE 1996; D.O. N 1 128, T. 332, 10 DE JULIO DE 1996.
+(8) D.L. Nº 745, 27 DE JUNIO DE 1996;
+D.O. Nº 128, T. 332, 10 DE JULIO DE 1996.
 
-- D.L. N 1 745, 27 DE JUNIO DE 1996; D.O. N 1 128, T. 332, 10 DE JULIO DE 1996.
+(9) D.L. Nº 746, 27 DE JUNIO DE 1996;
+D.O. Nº 128, T. 332, 10 DE JULIO DE 1996.
 
-- D.L. N 1 746, 27 DE JUNIO DE 1996; D.O. N 1 128, T. 332, 10 DE JULIO DE 1996.
+(10) D.L. Nº 747, 27 DE JUNIO DE 1996,
+D.O. Nº 128, T. 332, 10 DE JULIO DE 1996.
 
-- D.L. N 1 747, 27 DE JUNIO DE 1996, D.O. N 1 128, T. 332, 10 DE JULIO DE 1996.
+(11) D.L. Nº 748, 27 DE JUNIO DE 1996,
+D.O. Nº 128, T. 332, 10 DE JULIO DE 1996.
 
-- D.L. N 1 748, 27 DE JUNIO DE 1996, D.O. N 1 128, T. 332, 10 DE JULIO DE 1996.
+(12) D.L. Nº 541, 3 DE FEBRERO DE 1999;
+D.O. Nº 32, T. 342, 16 DE FEBRERO DE 1999.
 
-- D.L. N 1 541, 3 DE FEBRERO DE 1999; D.O. N 1 32, T. 342, 16 DE FEBRERO DE 1999.
-
-- D.L. N 1 871, 13 DE ABRIL DEL 2000;
-
-D.O. N 1 79, T. 347, 28 DE ABRIL DEL 2000.
+(13) D.L. Nº 871, 13 DE ABRIL DEL 2000;
+D.O. Nº 79, T. 347, 28 DE ABRIL DEL 2000.
 
 ════════════════════════════════════════════════════════════
 
@@ -2751,37 +2892,44 @@ ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO
 
 ═════════════════════════════════════════════════════════════
 
-- D.L. N 1 872, 13 DE ABRIL DEL 2000;
+(14) D.L. Nº 872, 13 DE ABRIL DEL 2000;
+D.O. Nº 79, T. 347, 28 DE ABRIL DEL 2000.
 
-D.O. N 1 79, T. 347, 28 DE ABRIL DEL 2000.
+(15) D.L. Nº 873, 13 DE ABRIL DEL 2000;
+D.O. Nº 79, T. 347, 28 DE ABRIL DEL 2000.
 
-- D.L. N 1 873, 13 DE ABRIL DEL 2000; D.O. N 1 79, T. 347, 28 DE ABRIL DEL 2000.
+(16) D.L. Nº 874, 13 DE ABRIL DEL 2000;
+D.O. Nº 79, T. 347, 28 DE ABRIL DEL 2000.
 
-- D.L. N 1 874, 13 DE ABRIL DEL 2000; D.O. N 1 79, T. 347, 28 DE ABRIL DEL 2000.
+(17) D.L. Nº 875, 13 DE ABRIL DEL 2000;
+D.O. Nº 79, T. 347, 28 DE ABRIL DEL 2000.
 
-- D.L. N 1 875, 13 DE ABRIL DEL 2000; D.O. N 1 79, T. 347, 28 DE ABRIL DEL 2000.
+(18) D.L. Nº 56, 6 DE JULIO DEL 2000;
+D.O. Nº 128, T. 348, 10 DE JULIO DEL 2000.
 
-- D.L. N 1 56, 6 DE JULIO DEL 2000; D.O. N 1 128, T. 348, 10 DE JULIO DEL 2000.
+(19) D.L. Nº 7, 15 DE MAYO DEL 2003;
+D.O. Nº 90, T. 359, 20 DE MAYO DEL 2003.
 
-- D.L. N 1 7, 15 DE MAYO DEL 2003; D.O. N 1 90, T. 359, 20 DE MAYO DEL 2003.
+(20) D.L. Nº 154, 2 DE OCTUBRE DE 2003;
+D.O. Nº 191, T. 361, 15 DE OCTUBRE DE 2003.
 
-- D.L. N 1 154, 2 DE OCTUBRE DE 2003; D.O. N 1 191, T. 361, 15  DE OCTUBRE DE 2003.
+(21) D.L. Nº 33, 27 DE MAYO DE 2009;
+D.O. Nº 102, T.383, 4 DE JUNIO DE 2009.
 
-- D.L. N 1 33, 27 DE MAYO DE 2009; D.O. N 1 102, T.383, 4  DE JUNIO  DE 2009.
+(22) D.L. Nº 34, 27 DE MAYO DE 2009;
+D.O. Nº 102, T.383, 4 DE JUNIO DE 2009.
 
-- D.L. N 1 34, 27 DE MAYO DE 2009; D.O. N 1 102,  T.383, 4 DE JUNIO  DE 2009.
+(23) D.L. Nº 35, 27 DE MAYO DE 2009;
+D.O. Nº 102, T.383, 4 DE JUNIO DE 2009.
 
-- D.L. N 1 35, 27 DE MAYO DE 2009; D.O. N 1 102, T.383, 4 DE JUNIO  DE 2009.
-
-- D.L. N 1 36, 27 DE MAYO DE 2009;
-
-D.O. N 1 102, T.383, 4 DE JUNIO DE 2009.
+(24) D.L. Nº 36, 27 DE MAYO DE 2009;
+D.O. Nº 102, T.383, 4 DE JUNIO DE 2009.
 
 ## NOTAS:
 
-- 1LA CONSTITUCIÓN, ENTRO EN VIGENCIA EL 20 DE DICIEMBRE DE 1983.
+1- LA CONSTITUCIÓN, ENTRO EN VIGENCIA EL 20 DE DICIEMBRE DE 1983.
 
-- 2PARA EFECTOS DE DISCUSIÓN Y APROBACIÓN DEL PROYECTO DE LA CONSTITUCIÓN, LA  ASAMBLEA  CONSTITUYENTE  EMITIÓ  UN  REGLAMENTO  ESPECIAL,  MEDIANTE DECRETO CONSTITUYENTE N 1 32, EMITIDO EL 21 DE JULIO DE 1983; PUBLICADO EN EL D.O. N 1 142, TOMO N 1 280, DEL 29 DE JULIO DE 1983.
+2- PARA EFECTOS DE DISCUSIÓN Y APROBACIÓN DEL PROYECTO DE LA CONSTITUCIÓN, LA ASAMBLEA CONSTITUYENTE EMITIÓ UN REGLAMENTO ESPECIAL, MEDIANTE DECRETO CONSTITUYENTE Nº 32, EMITIDO EL 21 DE JULIO DE 1983; PUBLICADO EN EL D.O. Nº 142, TOMO Nº 280, DEL 29 DE JULIO DE 1983.
 
 ════════════════════════════════════════════════════════════
 
