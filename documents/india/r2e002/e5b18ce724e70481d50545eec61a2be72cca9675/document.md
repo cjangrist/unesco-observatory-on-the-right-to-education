@@ -1,12 +1,17 @@
 [[START OF PAGE 1]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
 # Padhe Bharat Badhe Bharat
 
 ## Early reading and writing with comprehension & Early Mathematics Programme
 
-lR;eso t;rs
+सत्यमेव जयते
 
-Government of India Ministry of Human Resource Development Department of School Education & Literacy
+Government of India
+Ministry of Human Resource Development
+Department of School Education & Literacy
 
 [[END OF PAGE 1]]
 
@@ -28,15 +33,35 @@ Government of India Ministry of Human Resource Development Department of School 
 
 ## CONTENTS
 
+S. No. | Title | Page No.
+--- | --- | ---
+1. | Background | 01
+2. | Objectives | 02
+3. | Components of (i) Early Reading and Writing with Comprehension and (ii) Early Mathematics Programme | 03
+3.A | System level Components | 03
+3.B | School - Classroom Components | 03
+1. | Learning Environment | 04
+2. | Enabling Class room transaction: Sustained & Active engagement with every child | 08
+3. | Connecting classrooms with community | 10
+4. | Assessment as learning | 10
+5. | Monitoring System | 11
+4. | Management Structure | 12
+5. | State preparedness | 12
+6. | Technical Support by Government of India to States | 13
+7. | Funding of Early reading and writing with comprehension and Early Mathematics Programme | 14
+8. | Milestones | 16
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
 # Padhe Bharat Badhe Bharat
 
 ## 1. Background :
 
-In the school curriculum reading and writing continues to be confined to textbooks to a large extent, despite the giving effect of National Curriculum Framework 2005 under RTE Act, 2009.  An overwhelming majority of teachers believe that completing the prescribed course  material  is  their  main  and  only  professional  concern.  Thus  reading  remained passive  in  school  curriculum.  Reading  to  construct  or  derive  meaning  as  a  means  of language acquisition and of communication and of sharing of information and ideas often gets neglected and the child fails to become a competent reader. The Yashpal Committee in its report on Learning without Burden (1993) had highlighted the meaningless and joyless nature  of  school  based  learning  in  India  and  strongly  raised  the  issue  of  noncomprehension in the classroom.
+In the school curriculum reading and writing continues to be confined to textbooks to a large extent, despite the giving effect of National Curriculum Framework 2005 under RTE Act, 2009. An overwhelming majority of teachers believe that completing the prescribed course material is their main and only professional concern. Thus reading remained passive in school curriculum. Reading to construct or derive meaning as a means of language acquisition and of communication and of sharing of information and ideas often gets neglected and the child fails to become a competent reader. The Yashpal Committee in its report on Learning without Burden (1993) had highlighted the meaningless and joyless nature of school based learning in India and strongly raised the issue of non-comprehension in the classroom.
 
 Reading is essentially a process of meaning making i.e, comprehension. Reading is an interaction between the text and the reader which is shaped by the context-the reader's prior knowledge, experience, attitude and language of community which is culturally and socially  situated.  The  reading  process  requires  continuous  practice,  development  and refinement. In addition, reading requires creativity and critical analysis.
 
@@ -53,10 +78,12 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
+The National Curriculum Framework - 2005 has clearly pointed out “A majority of children have a sense of fear and failure regarding Mathematics. Hence, they give up early on, and drop out of serious mathematical learning.” Far too many abstractions are introduced at once with scant attention to well-known facts about development of mathematical thinking in children. Many a time, the tendency embedded in teaching is to accelerate children's mathematical skills by teaching them mechanical rules at the expense of understanding and intelligent application. Therefore, there is a need to help the children learn mathematics in a way that develops liking and understanding of the mathematics during the early years of schooling, particularly in classes I and II.
 
-The National Curriculum Framework - 2005 has clearly pointed out ' A majority of children have a sense of fear and failure regarding Mathematics. Hence, they give up early on, and drop out of serious mathematical learning. ' Far too many abstractions are introduced at once with scant attention to well-known facts about development of mathematical thinking in children.  Many  a  time,  the  tendency  embedded  in  teaching  is  to  accelerate  children's mathematical skills  by  teaching them mechanical rules at the expense of understanding and  intelligent  application.  Therefore,  there  is  a  need  to  help  the  children  learn mathematics in a way that develops liking and understanding of the mathematics during the early years of schooling, particularly in classes I and II.
-
-A nationwide sub-programme to the Sarva Shiksha Abhiyan (SSA) ' Padhe Bharat Badhe Bharat '  is  planned  in  a twin  track  approach. (i)  to  improve  language  development  by creating an enduring interest in reading and writing with comprehension; and (ii) to create a natural and positive interest in mathematics related to the physical and social world.
+A nationwide sub-programme to the Sarva Shiksha Abhiyan (SSA) ‘Padhe Bharat Badhe Bharat” is planned in a twin track approach. (i) to improve language development by creating an enduring interest in reading and writing with comprehension; and (ii) to create a natural and positive interest in mathematics related to the physical and social world.
 
 The two tracks of Padhe Bharat Badhe Bharat are:
 
@@ -91,7 +118,9 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 ## 3. Components of (i) Early Reading and Writing with Comprehension and (ii) Early Mathematics Programme:
 
 Three factors a) the text; b) the reader and c) the context i.e. both the setting where the reading, writing and oral language activity happens and also the manner in which these are  transacted  are  critical  to  make  any  reading/writing/speaking  a  meaningful  or meaningless experience. Similarly the context of problem solving exposed by the reader provides better appreciation of numbers and spatial understanding. Considering these factors  the  programmes  are  composed  of  the  following  components  towards implementation.
@@ -143,16 +172,15 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
-- Positive school social environment
-
-- Enabling Classroom transaction
-
-- Connecting classrooms with community
-
-- Assessment as learning
-
-- Monitoring system
+c. Positive school social environment
+2. Enabling Classroom transaction
+3. Connecting classrooms with community
+4. Assessment as learning
+5. Monitoring system
 
 The School - Classroom components are explained below while the System level components are part of overall implementation of Sarva Shiksha Abhiyan.
 
@@ -201,7 +229,9 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
-
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 ii. Understanding of Early reading & writing and Pedagogy
 
 - Progressive Reading approach sensitive to the diversity of learners.
@@ -226,15 +256,15 @@ iii. Reading Corner
 
 - Children's Magazines: reading for joy
 
-- Home  to  school  language  transition :  Provision  of  space  for  children  home language including its transition to the language of instructions with a clear strategy spread over 2-3 years times span.
+iv. Home to school language transition: Provision of space for children home language including its transition to the language of instructions with a clear strategy spread over 2-3 years times span.
 
-- Classroom planning: Flexible planning as per the classroom and children specific situations.
+v. Classroom planning: Flexible planning as per the classroom and children specific situations.
 
 vi. Assessment as learning
 
-- Understanding of CCE and learning indicators, child profile tracking and their adaptation  to  CWSN  in  implementing  Early  reading  and  writing  and  Early Mathematics in classrooms.
+- Understanding of CCE and learning indicators, child profile tracking and their adaptation to CWSN in implementing Early reading and writing and Early Mathematics in classrooms.
 
-- Observing  children  to  record  the  process  of  learning,  achievements  and challenges to know students strengths, learning gaps and serve her in adapting curriculum and teaching-learning approach/method to suit learner's needs.
+- Observing children to record the process of learning, achievements and challenges to know students strengths, learning gaps and serve her in adapting curriculum and teaching-learning approach/method to suit learner's needs.
 
 - Child observation and reflection and review of classroom practices/ pedagogies and management techniques.
 
@@ -242,7 +272,7 @@ vi. Assessment as learning
 
 - Giving constructive feedback on children's work.
 
-- Inclusion  and  Celebration  of  Diversity:  Addressing  the  individual  needs  of  all children and being sensitive to the classroom linguistic, social,  religious and gender diversity and its celebration for unity in diversity.
+vii. Inclusion and Celebration of Diversity: Addressing the individual needs of all children and being sensitive to the classroom linguistic, social, religious and gender diversity and its celebration for unity in diversity.
 
 Padhe Bharat Badhe Bharat
 
@@ -251,7 +281,9 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
-
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 ###### 1.4.2  Training of teachers on Early Mathematics for classes I and II
 
 - To make them understand the concepts of numeracy, spatial understanding and pedagogy of mathematics.
@@ -295,46 +327,49 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
 Reading corner :
 
-- Children's literature (fiction and non-fiction), magazines, posters, drama, folk stories, poems , folk songs etc. as per children's level and interest.
+- iii. Children’s literature (fiction and non-fiction), magazines, posters, drama, folk stories, poems , folk songs etc. as per children’s level and interest.
 
-- Barkha (NCERT) or any other graded reading series.
+- iv. Barkha (NCERT) or any other graded reading series.
 
-- Easily accessible to children and prominently displayed.
+- v. Easily accessible to children and prominently displayed.
 
-- Provide facility to read at school or take books home for reading.
+- vi. Provide facility to read at school or take books home for reading.
 
-- Availability of stationery for children to write viz., slate, chalk etc.
+- vii. Availability of stationery for children to write viz., slate, chalk etc.
 
-- viii.Provide translations / adaptations to make the books accessible to children.
+- viii. Provide translations / adaptations to make the books accessible to children.
 
-- Get children to make books and become authors.
+- ix. Get children to make books and become authors.
 
-Parameters of Children's literature in Reading corner :
+Parameters of Children’s literature in Reading corner :
 
-- Key features / elements of  books liked by children in terms of characters, selfexplanatory attractive pictures, themes, text, content simplicity and length, fun, font, relating with child experience etc.
+- x. Key features / elements of books liked by children in terms of characters, self-explanatory attractive pictures, themes, text, content simplicity and length, fun, font, relating with child experience etc.
 
-- Are stimulating for children.
+- xi. Are stimulating for children.
 
-- Offer sensitivity to diversity in interests and social backgrounds and celebrates diversity.
+- xii. Offer sensitivity to diversity in interests and social backgrounds and celebrates diversity.
 
-- xiii.Does  not  create  superior  or  inferior  impressions  among  children  based  on cultures and social backgrounds and non-exclusionary.
+- xiii. Does not create superior or inferior impressions among children based on cultures and social backgrounds and non-exclusionary.
 
-- Provide  openness  to  linguistic  diversity  -  multiple  languages  (standard-nonstandard).
+- xiv. Provide openness to linguistic diversity - multiple languages (standard-non-standard).
 
-- Build on home - school linkages - by offering opportunity and space for sharing a variety of children's real world and home experiences in the classroom - such as their culture (eg food, festivals and dress), language, daily life experiences etc.
+- xv. Build on home – school linkages – by offering opportunity and space for sharing a variety of children’s real world and home experiences in the classroom – such as their culture (eg food, festivals and dress), language, daily life experiences etc.
 
-- xvi.Provide opportunity and space for various forms of engagement and expression drawing, painting, music, drama, craft etc.
+- xvi. Provide opportunity and space for various forms of engagement and expression – drawing, painting, music, drama, craft etc.
 
 ###### 1.6.2. Print-rich environment
 
-- Timely distribution of all text books to all children at the beginning of academic session.
+- i. Timely distribution of all text books to all children at the beginning of academic session.
 
-- Student's name chart and Attendance chart to be used by children as a literacy engagement.
+- ii. Student’s name chart and Attendance chart to be used by children as a literacy engagement.
 
-- Class responsibility chart, mid day meal chart, children's birthday chart, chart of stories, poems etc. to be used by teacher and children.
+- iii. Class responsibility chart, mid day meal chart, children’s birthday chart, chart of stories, poems etc. to be used by teacher and children.
 
 Padhe Bharat Badhe Bharat
 
@@ -343,38 +378,41 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
-- Display of children's writings, drawings, collections, variety of texts, pictures with captions, instructional material developed by teacher etc., (on walls / display boards) at the eye level of children to be changed from time to time.
+- iv. Display of children’s writings, drawings, collections, variety of texts, pictures with captions, instructional material developed by teacher etc., (on walls / display boards) at the eye level of children to be changed from time to time.
 
 ###### 1.6.3. Positive school social environment
 
-- Provides  welcoming,  caring  and  emotionally  safe  atmosphere,  warm  pupilteacher relationship.
+- i. Provides welcoming, caring and emotionally safe atmosphere, warm pupil-teacher relationship.
 
-- A non- threatening, non-discriminatory (irrespective of identity-gender, religion, caste, race, language, place of birth etc)  non-exclusionary  classroom environment.
+- ii. A non- threatening, non-discriminatory (irrespective of identity-gender, religion, caste, race, language, place of birth etc) non-exclusionary classroom environment.
 
-- Provides communicative spaces for dialogue, openness and sharing based on mutual  respect,  both  in  the  form  of  teacher  -  child  and  child  -  child communications.
+- iii. Provides communicative spaces for dialogue, openness and sharing based on mutual respect, both in the form of teacher – child and child – child communications.
 
-- Celebrates diversity and sensitive to social differences - background, gender, caste, religion, class, community, and literacy at home.
+- iv. Celebrates diversity and sensitive to social differences – background, gender, caste, religion, class, community, and literacy at home.
 
-- Teacher to be sensitive to the children's natural learning processes, to their home backgrounds,  and  their  individual  differences,  diversity  in  classroom  while fostering meaningful and purposeful ways of engagement.
+- v. Teacher to be sensitive to the children’s natural learning processes, to their home backgrounds, and their individual differences, diversity in classroom while fostering meaningful and purposeful ways of engagement.
 
-- Management of issues related to home to school transition viz., a) Coping with values and belief system of the school; b) Coping with the routine schedule; c) Coping with the language of the school.
+- vi. Management of issues related to home to school transition viz., a) Coping with values and belief system of the school; b) Coping with the routine schedule; c) Coping with the language of the school.
 
-- Provides a welcome space for parents and community members in classrooms.
+- vii. Provides a welcome space for parents and community members in classrooms.
 
 #### 2. Enabling Class room transaction: Sustained & Active engagement with every child
 
 Early reading and writing with comprehension / Early Mathematics specific strategies:
 
-##### Language in Classrooms -
+##### Language in Classrooms –
 
-- Teaching-learning preferably be in the mother tongue of children/child's home language/language  of  school  instruction  related  to  daily  life  experience  and socio-cultural context.
+- i. Teaching–learning preferably be in the mother tongue of children/child’s home language/language of school instruction related to daily life experience and socio-cultural context.
 
-- Encouraging activities like morning message (Aaj ki Baat) that bridge homeschool gaps and presenting reading writing connections to young children.
+- ii. Encouraging activities like morning message (Aaj ki Baat) that bridge home-school gaps and presenting reading writing connections to young children.
 
-- Encouraging  children  to  share  their  experiences  in  the  class  in  their  own language and use their talk as a resource in building classroom discussion richer by drawing from multilingual situation.
+- iii. Encouraging children to share their experiences in the class in their own language and use their talk as a resource in building classroom discussion richer by drawing from multilingual situation.
 
-- Encourage children to build connections between oral language and written language.
+- iv. Encourage children to build connections between oral language and written language.
 
 8.
 
@@ -383,44 +421,47 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
-- Specific strategy for transition from home language to medium of instruction spread over of 3 years timeline.
+- v. Specific strategy for transition from home language to medium of instruction spread over of 3 years timeline.
 
-- Allow children to invent their own ways of using existing vocabulary to convey mathematical ideas related to numeracy and spatial understanding.
+- vi. Allow children to invent their own ways of using existing vocabulary to convey mathematical ideas related to numeracy and spatial understanding.
 
-- Provide opportunities to learn formal mathematical language viz., numerals, symbols for operation, terms etc.
+- vii. Provide opportunities to learn formal mathematical language viz., numerals, symbols for operation, terms etc.
 
-- Use simple, friendly and clear language in classroom avoiding commands.
+- viii. Use simple, friendly and clear language in classroom avoiding commands.
 
-- Encourage  children  to  express  their  mathematical  findings  and  later  gently pointing out errors if any.
+- ix. Encourage children to express their mathematical findings and later gently pointing out errors if any.
 
-##### Children's participation in class -
+##### Children’s participation in class -
 
-- Make activities and learning tasks more participatory in nature keeping in view of varied needs of children.
+- i. Make activities and learning tasks more participatory in nature keeping in view of varied needs of children.
 
-- Encouraging children to participate in classroom activities through asking questions and framing of problems.
+- ii. Encouraging children to participate in classroom activities through asking questions and framing of problems.
 
-- Allow freedom of mobility to children in class while working in groups and reading from reading corner.
+- iii. Allow freedom of mobility to children in class while working in groups and reading from reading corner.
 
-- Encourage children to develop many informal strategies in dealing with problems related to numbers and measurement.
+- iv. Encourage children to develop many informal strategies in dealing with problems related to numbers and measurement.
 
-- Opportunity to respond, discuss and share readings and books.
+- v. Opportunity to respond, discuss and share readings and books.
 
-##### Teaching Learning Process -
+##### Teaching Learning Process –
 
-- Out of  4  instructional  hours  a  day,  2½  hrs  could  be  earmarked  to  language activities (viz., Oral language development, Read Aloud, Guided Reading, Word Study, Guided Writing and minimum 30 minutes of independent reading) and 1½ hr for early mathematics.
+- i. Out of 4 instructional hours a day, 2½ hrs could be earmarked to language activities (viz., Oral language development, Read Aloud, Guided Reading, Word Study, Guided Writing and minimum 30 minutes of independent reading) and 1½ hr for early mathematics.
 
-- Reading aloud of meaningful text / story books and storytelling through gestures and expressions.
+- ii. Reading aloud of meaningful text / story books and storytelling through gestures and expressions.
 
-- Giving space to developmental phases of reading and writing at early stages like pretend reading, making use of predictions in reading etc. and scribbling, using invented  spelling  etc.  in  writing  and  encouraging  expressions  instead  of findings errors in pronunciation, spelling or writing.
+- iii. Giving space to developmental phases of reading and writing at early stages like pretend reading, making use of predictions in reading etc. and scribbling, using invented spelling etc. in writing and encouraging expressions instead of findings errors in pronunciation, spelling or writing.
 
-- Able to sensitively challenge children by neither talking down at children nor watering down learning opportunities.
+- iv. Able to sensitively challenge children by neither talking down at children nor watering down learning opportunities.
 
-- Able to elicit creative responses from the children and allow them predictions while reading a story to children.
+- v. Able to elicit creative responses from the children and allow them predictions while reading a story to children.
 
-- Language and mathematical games based on the displayed print and content.
+- vi. Language and mathematical games based on the displayed print and content.
 
-- Use  of  local  rhymes,  stories  and  songs  as  print  material  for  reading  and numeracy pleasure.
+- vii. Use of local rhymes, stories and songs as print material for reading and numeracy pleasure.
 
 Padhe Bharat Badhe Bharat
 
@@ -429,44 +470,47 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
-- Activities which allow children to draw / write and then express the meaning of what they have written/ drawn.
+- viii. Activities which allow children to draw / write and then express the meaning of what they have written/ drawn.
 
-- Give opportunity to children to develop own stories individually or in groups and appreciating stories developed by them.
+- ix. Give opportunity to children to develop own stories individually or in groups and appreciating stories developed by them.
 
-- Classroom Conversations based on classroom displays, poems, texts and pictures.
+- x. Classroom Conversations based on classroom displays, poems, texts and pictures.
 
-- Experience based and imaginative writing which supports the development of listening, speaking and reading.
+- xi. Experience based and imaginative writing which supports the development of listening, speaking and reading.
 
-- Teacher demonstrates multiple ways of reading and writing and interesting ways of problem solving.
+- xii. Teacher demonstrates multiple ways of reading and writing and interesting ways of problem solving.
 
-- Opportunity to use and understand different genres and text types such as a) Narratives, b) Poems c) Information books and texts d) Instructions e) Expository texts which present or argue viewpoints.
+- xiii. Opportunity to use and understand different genres and text types such as a) Narratives, b) Poems c) Information books and texts d) Instructions e) Expository texts which present or argue viewpoints.
 
-- Help children to build a sound foundation of counting, moving on to place value and number operations.
+- xiv. Help children to build a sound foundation of counting, moving on to place value and number operations.
 
-- It is essential that children understand counting and do not just rote learn the sequence of number words.
+- xv. It is essential that children understand counting and do not just rote learn the sequence of number words.
 
-- Provide opportunities to explore 3-D and 2-D shapes found in the environment.
+- xvi. Provide opportunities to explore 3-D and 2-D shapes found in the environment.
 
-- Encourage children to identify various elements of an object and later relates a 3-D object with it's 2-D picture/shape.
+- xvii. Encourage children to identify various elements of an object and later relates a 3-D object with it’s 2-D picture/shape.
 
 #### 3. Connecting classrooms with community
 
-Connecting  reading  and  writing  with  parents/  community  living,  livelihood,  festivals, current events and engagement with local knowledge needs viz.,
+Connecting reading and writing with parents/ community living, livelihood, festivals, current events and engagement with local knowledge needs viz.,
 
-- Teachers asking children 'Morning message' (Aaj ki baat) and writing it on the board and reading to children and doing mathematics work similarly.
+- i. Teachers asking children “Morning message” (Aaj ki baat) and writing it on the board and reading to children and doing mathematics work similarly.
 
-- Showcasing  children's  accomplishments  (in  reading,  writing,  numeracy  etc.)  in community events
+- ii. Showcasing children’s accomplishments (in reading, writing, numeracy etc.) in community events
 
-- Involvement of community viz., Parents, SMCs, PRI and women etc. in teaching and school activities appropriately.
+- iii. Involvement of community viz., Parents, SMCs, PRI and women etc. in teaching and school activities appropriately.
 
-- Visits  to  fairs,  post  office,  police  station,  local  body,  diverse  religious  cultural institutions to celebrate local diversity etc.
+- iv. Visits to fairs, post office, police station, local body, diverse religious cultural institutions to celebrate local diversity etc.
 
-#### 4. Assessment as  learning
+#### 4. Assessment as learning
 
-- Parents are aware of the learning indicators of classes I and II.
+- i. Parents are aware of the learning indicators of classes I and II.
 
-- Teacher to have a baseline assessment of class / children at the beginning.
+- ii. Teacher to have a baseline assessment of class / children at the beginning.
 
 10.
 
@@ -475,44 +519,41 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
-- Teachers observation/ formative assessment -qualitative indicators.
+- iii. Teachers observation/ formative assessment –qualitative indicators.
 
--Are the children participating/expressing freely
+  - Are the children participating/expressing freely
+  - Are they confident
+  - Are they supporting each other
+  - Are they taking initiatives
+  - Strategies adopted by the child for reading (for e.g. awareness of print, use of prediction, illustration, context cues etc. for meaning making and decoding)
+  - Ways of expression (for example scribbling, drawing, string of letters, invented spellings etc.)
+  - Feedback considering children’s developmental processes of reading
 
--Are they confident
+- iv. Summative assessment of learning: Are they achieving learning milestones.
 
--Are they supporting each other
+- v. Learner profile folders (portfolios) with writings/drawings viz., Poem, drawing, short story, letter, messages, invented spellings, scribbling, activity involvement etc of individual child.
 
--Are they taking initiatives
+- vi. Documentation/ child learning tracking: Teacher’s assessment of child’s reading and writing and problem solving.
 
--Strategies adopted by the child for reading (for e.g. awareness of print, use of prediction, illustration, context cues etc. for meaning making and decoding)
+- vii. Feedback from children, parents and peer group.
 
--Ways  of  expression  (for  example  scribbling,  drawing,  string  of  letters, invented spellings etc.)
-
--Feedback considering children's developmental processes of reading
-
-- Summative assessment of learning: Are they achieving learning milestones.
-
-- Learner  profile  folders  (portfolios)  with  writings/drawings  viz.,  Poem,  drawing, short story, letter, messages, invented spellings, scribbling, activity involvement etc of individual child.
-
-- Documentation/ child learning tracking: Teacher's assessment of child's reading and writing and problem solving.
-
-- Feedback from children, parents and peer group.
-
-- Use of Continuous and Comprehensive Evaluation (CCE) to review the teaching plan and to work for improved learning performance of children in reading and writing and mathematics.
+- viii. Use of Continuous and Comprehensive Evaluation (CCE) to review the teaching plan and to work for improved learning performance of children in reading and writing and mathematics.
 
 #### 5. Monitoring System
 
-- Block Education Officers (& their inspectors) should visit every school once in 6 months  and  assess all components  of  Early reading and  writing with comprehension  and  Early  Mathematics  programme  viz.,  (i)  Learning Environment, (ii) Enabling classroom transaction, (iii) Connecting classroom with community and (iv) Assessments and (v) Monitoring; and review the CCE results of every child in comparison to set Learning indicators.
+- i. Block Education Officers (& their inspectors) should visit every school once in 6 months and assess all components of Early reading and writing with comprehension and Early Mathematics programme viz., (i) Learning Environment, (ii) Enabling classroom transaction, (iii) Connecting classroom with community and (iv) Assessments and (v) Monitoring; and review the CCE results of every child in comparison to set Learning indicators.
 
-- Use of Quality Monitoring Tools (QMT) by Resource Persons.
+- ii. Use of Quality Monitoring Tools (QMT) by Resource Persons.
 
-- Use of Teacher Performance Indicators by Head Teachers and Resource Persons.
+- iii. Use of Teacher Performance Indicators by Head Teachers and Resource Persons.
 
-- SCERT to conduct sample Learning Achievement Surveys and share the results with the teachers, HTs, BEOs, BRPs, CRPs and DIETs for improving performance.
+- iv. SCERT to conduct sample Learning Achievement Surveys and share the results with the teachers, HTs, BEOs, BRPs, CRPs and DIETs for improving performance.
 
-- NCERT to conduct NAS during 2014-15 and share the results with the States, teachers, Head  Teachers,  Education  officers,  Resource  Persons  and  DIETs  for  improving performance.
+- v. NCERT to conduct NAS during 2014-15 and share the results with the States, teachers, Head Teachers, Education officers, Resource Persons and DIETs for improving performance.
 
 Padhe Bharat Badhe Bharat
 
@@ -521,7 +562,9 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
-
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 ## 4. Management Structure:
 
 The State and UT Education Departments (under the leadership of State Project Directors of SSA) are responsible for the implementation of the programme.
@@ -543,7 +586,7 @@ Classroom level | Teacher | CRP
 
 - All States and UTs plan for Early Reading and Writing with comprehension and Early Mathematics have received GOI approval for funding starting 2014-15 in the Annual Work plans for SSA.
 
-- 4 States are accountable to demonstrate results based on bench marks notified by the State/ UT or, nationally notified Learning Indicators and track results through State Learning Achievement  Surveys or the three year cycle of National Achievement Survey results of Class III (2015-16).
+4 States are accountable to demonstrate results based on bench marks notified by the State/ UT or, nationally notified Learning Indicators and track results through State Learning Achievement Surveys or the three year cycle of National Achievement Survey results of Class III (2015-16).
 
 12.
 
@@ -552,10 +595,13 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
-- 5 Conduct research in the area of Early Reading and Writing & Early Mathematics by NCERT, SCERTs, University Education Deptts. and NGOs working in this area for long.
+5 Conduct research in the area of Early Reading and Writing & Early Mathematics by NCERT, SCERTs, University Education Deptts. and NGOs working in this area for long.
 
-- 6 Review  /  evaluate  the  programme  implementation  and  results  ;  and  provide opportunity for the States to revise programme plans.
+6 Review / evaluate the programme implementation and results ; and provide opportunity for the States to revise programme plans.
 
 ## 6. Technical Support by Government of India to States:
 
@@ -567,27 +613,27 @@ Padhe Bharat Badhe Bharat
 
 - NCERT developed resource material (available in NCERT website) viz.,
 
-- Teacher training module for reading and writingPadhne ki Samajh & Likhne ki Shuruat- Ek Samvad.
+- i. Teacher training module for reading and writing– Padhne ki Samajh & Likhne ki Shuruat- Ek Samvad.
 
-- Papers on pedagogy of Reading - a collation of papers reading for meaning and padhne ki dehleez par, padhna sikhaane ki shuruat.
+- ii. Papers on pedagogy of Reading – a collation of papers – reading for meaning and padhne ki dehleez par, padhna sikhaane ki shuruat.
 
-- Videos on how to use stories, poems and other activities in the classroom: Aaj ki Baat/ Morning Message, kahani-Padhne likhne ke avsar, Kavita-padhne likhne ke avsar.
+- iii. Videos on how to use stories, poems and other activities in the classroom: Aaj ki Baat/ Morning Message, kahani-Padhne likhne ke avsar, Kavita-padhne likhne ke avsar.
 
-- Barkha- graded reading series (a set of 40 books)
+- iv. Barkha- graded reading series (a set of 40 books)
 
-- Brochure on Barkha series (English and Hindi)
+- v. Brochure on Barkha series (English and Hindi)
 
-- Guidelines for setting Reading Corners in classrooms
+- vi. Guidelines for setting Reading Corners in classrooms
 
-- An annotated bibliography of children's literature
+- vii. An annotated bibliography of children’s literature
 
-- List of selected children's literature - 2008, 2013 & 2014
+- viii. List of selected children's literature - 2008, 2013 & 2014
 
-- Children's magazine (Firkhee Bachchon ki) Bi-lingual and Bi-annual
+- ix. Children’s magazine (Firkhee Bachchon ki)Bi-lingual and Bi-annual
 
-- Documentation of the process of selection of children's literature
+- x. Documentation of the process of selection of children’s literature
 
-- Posters (5) on features of reading and writing in classes I and II
+- xi. Posters (5) on features of reading and writing in classes I and II
 
 - NCERT shared their learning from Mathura Pilot Project implemented in government schools in the End-Term Survey Report and shared the resource material developed with states and union territories.
 
@@ -602,7 +648,9 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
-
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 #### Early Mathematics:
 
 - NCERT organised Early Mathematics orientation programme to build capacities of States/UTs/RIEs in planning & implementation on 25-29th March 2014. 9 States/UTs and 5 RIEs/DMSs attended.
@@ -611,13 +659,13 @@ Padhe Bharat Badhe Bharat
 
 - Designed and developed a Teacher's User Manual for Mathematics Learning Kits focusing on content and pedagogy.
 
-- NCERT developed Mathematics Teachers 'Training Manual (English) for classes I and II (2010) and Hindi Version (2014).
+- NCERT developed Mathematics Teachers ‘Training Manual (English) for classes I and II (2010) and Hindi Version (2014).
 
 ### 2014-15
 
 #### Early reading and writing with comprehension:
 
-- Funds are provided for Early reading and writing with comprehension as per State requirements / programme design-training, TLM, LEP etc. under SSA (AWP & B 201415 approved).
+- Funds are provided for Early reading and writing with comprehension as per State requirements / programme design-training, TLM, LEP etc. under SSA (AWP & B 2014-15 approved).
 
 - SSA has provisioned for State level assessments to all States and UTs; and NAS for Class III to NCERT.
 
@@ -644,7 +692,9 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
-
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 ### (B)  Funds approved (including Academic & Technical support)
 
 1 | All States and UTs including NCERT | Rs. in Crores | Rs. in Crores
@@ -666,7 +716,9 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
-
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 ## 8. Milestones:
 
 By the end of Year | Level | Processes / outcomes by | Milestone
@@ -690,7 +742,9 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
-
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 By the end of Year | Level | Processes / outcomes by | Milestone
 --- | --- | --- | ---
 4. Development of teacher training modules. Gujarat, Kerala, Nagaland, Rajasthan, Maharashtra, Odisha, Himachal Pradesh developed ERWC modules; and Punjab & Meghalaya developed for Early Mathematics
@@ -716,7 +770,9 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
-
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 By the end of Year | Level | Processes / outcomes by | Milestone
 --- | --- | --- | ---
 2015-16 | National | MHRD | Funding the programme
@@ -749,9 +805,14 @@ Padhe Bharat Badhe Bharat
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+शिक्षा का अधिकार
+सर्व शिक्षा अभियान
+सब पढ़ें सब बढ़ें
 
-lR;eso t;rs
+सत्यमेव जयते
 
-Government of India Ministry of Human Resource Development Department of School Education & Literacy
+Government of India
+Ministry of Human Resource Development
+Department of School Education & Literacy
 
 [[END OF PAGE 24]]
