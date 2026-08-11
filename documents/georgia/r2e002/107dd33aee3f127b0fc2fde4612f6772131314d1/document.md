@@ -18,7 +18,7 @@ Ministry of Sport and Youth Affairs of Georgia
 
 ## Youth Vision of Georgia
 
-,,We, the youth of Georgia, acknowledge our full potential within the existing capacities, for the purpose of our development; are active and involved, as valuable citizens, making our input in building peaceful, successful and tolerant civil society'....
+,,We, the youth of Georgia, acknowledge our full potential within the existing capacities, for the purpose of our development; are active and involved, as valuable citizens, making our input in building peaceful, successful and tolerant civil society“....
 
 2
 
@@ -30,7 +30,7 @@ Ministry of Sport and Youth Affairs of Georgia
 
 ## Milestones for 2015
 
-,,Successful and dynamically developing Georgia, whose youth represents the engine of social progress; directions based on unity, sharing international experience and mutual cooperation. Specific results show that new and reforming approaches and defined objectives referred to in the document have been achieved in the country where the youth is proud with its achievements, is responsible for its every job fulfilled and has a vision far beyond tomorrow'…
+,,Successful and dynamically developing Georgia, whose youth represents the engine of social progress; directions based on unity, sharing international experience and mutual cooperation. Specific results show that new and reforming approaches and defined objectives referred to in the document have been achieved in the country where the youth is proud with its achievements, is responsible for its every job fulfilled and has a vision far beyond tomorrow”…
 
 3
 
@@ -42,11 +42,11 @@ Ministry of Sport and Youth Affairs of Georgia
 
 ## Structure of the document
 
-- Definition of terms
+1. Definition of terms
 
-- Overview and main documents
+2. Overview and main documents
 
-- Introduction to the national policy of youth of Georgia
+3. Introduction to the national policy of youth of Georgia
 
  Purpose of the policy document
 
@@ -60,7 +60,7 @@ Ministry of Sport and Youth Affairs of Georgia
 
  Institutional environment
 
-- Future optimization
+4. Future optimization
 
  Principles and values of the national policy of youth
 
@@ -70,7 +70,7 @@ Ministry of Sport and Youth Affairs of Georgia
 
  Stakeholders
 
-- Support to positive development of the youth
+5. Support to positive development of the youth
 
  Coordination and management of the youth sector
 
@@ -82,15 +82,15 @@ Ministry of Sport and Youth Affairs of Georgia
 
  Informal education
 
-- Implementation of the national youth policy
+6. Implementation of the national youth policy
 
-- Monitoring and evaluation
+7. Monitoring and evaluation
 
-- Annexes
+8. Annexes
 
  Monitoring and evaluation indicators;
 
- Stakeholders' roles and responsibilities;
+ Stakeholders’ roles and responsibilities;
 
 4
 
@@ -104,11 +104,11 @@ Ministry of Sport and Youth Affairs of Georgia
 
 A young person - the legislation of Georgia indirectly defines the youth age. According to the existing legislation, a person is considered as youth if he/she is between 18 and 26 years old.
 
-The term 'youth' includes the age from childhood to adulthood. Youth age is the important period during which biological and psychological growth takes place and individual integration in the society. During this period young people try to gradually develop their skills and abilities to be able to freely play their role in any sphere of the social life. As a rule, this process continues until they reach a certain stage of development, responsibility and independence. It is still difficult to define the borders of age because diverse age limits of this part of life are quite different, on the one hand, from the approaches existing in the UN and the European Union, and, on the other one, national institutions.
+The term “youth” includes the age from childhood to adulthood. Youth age is the important period during which biological and psychological growth takes place and individual integration in the society. During this period young people try to gradually develop their skills and abilities to be able to freely play their role in any sphere of the social life. As a rule, this process continues until they reach a certain stage of development, responsibility and independence. It is still difficult to define the borders of age because diverse age limits of this part of life are quite different, on the one hand, from the approaches existing in the UN and the European Union, and, on the other one, national institutions.
 
 Taking into account specific environment and needs, it is possible to define three groups of youth: from 14 and 17, from 18 and 22 and from 22 to 26 years old.
 
-Participation  -  full  participation  in  any  activity.  This  can  also  be  defined  as  'co-participation' because it would require direct inclusion. Co-participation is understood as the participation in decisionmaking during planning, program implementation and monitoring activities and not only on a formal level.
+Participation – full participation in any activity. This can also be defined as “co-participation” because it would require direct inclusion. Co-participation is understood as the participation in decision-making during planning, program implementation and monitoring activities and not only on a formal level.
 
 Support  to  positive  youth  development  -  a  process,  which  includes  study  of  the  activities connected with scientific, social, physical, emotional and moral growth. The process, which supports the youth in development and fulfillment of their skills and capacities.
 
@@ -148,29 +148,29 @@ Ministry of Sport and Youth Affairs of Georgia
 
 ## 2. Overview and main documents
 
-The National policy of youth document states that no stakeholder is able to independently provide for  gradual  accessibility  for  the  needs  of  Georgian  youth;  therefore,  it  strengthens  the  need  for  multisector development of youth.
+The National policy of youth document states that no stakeholder is able to independently provide for gradual accessibility for the needs of Georgian youth; therefore, it strengthens the need for multi-sector development of youth.
 
-The given document is drafted by the Ministry of Sport and Youth Affairs of Georgia. 'National policy  of  youth  of  Georgia'  was  prepared  as  a  result  of  consultations  with  the  youth,  stakeholders, students' self-governance and youth organizations and their recommendations.
+The given document is drafted by the Ministry of Sport and Youth Affairs of Georgia. ”National policy of youth of Georgia” was prepared as a result of consultations with the youth, stakeholders, students’ self-governance and youth organizations and their recommendations.
 
 The  document  contains  evaluations  and  the  vision  based  on  manuals  of  different  international organizations and the results of the research conducted in Georgia:
 
 Manuals:
 
-,,European Youth Forum' manual '11 Indicators of the National Policy';
+- ,,European Youth Forum” manual “11 Indicators of the National Policy”;
 
-'Youth policy manual - how to develop the youth strategy 2009'
+- „Youth policy manual – how to develop the youth strategy 2009“
 
-- UN 'Youth Policy Formulation Manual';
+- UN “Youth Policy Formulation Manual”;
 
-- Manual of the European Commission 'White Papers'
+- Manual of the European Commission “White Papers”
 
 Research:
 
-'Report  of  the  National  Youth  Research  of  Georgia'  -  National  Council  of  the  Georgian youth organizations and 'New Generation - New Initiative'  - 2009;
+- “Report of the National Youth Research of Georgia” – National Council of the Georgian youth organizations and “New Generation – New Initiative” - 2009;
 
-'Start of job after study and participation in the workforce by the youth in Georgia' - World Bank, 2006;
+- “Start of job after study and participation in the workforce by the youth in Georgia” – World Bank, 2006;
 
-'Research on youth activities in Georgia' - BCG Research for the Eurasia Foundation- 2004.
+- “Research on youth activities in Georgia” – BCG Research for the Eurasia Foundation- 2004.
 
 7
 
@@ -208,7 +208,7 @@ Youth is a part of the society, which has high degree of freedom of its actions 
 
 ### Existing condition
 
-The attitude towards youth in Georgia drastically changed after the 'Rose Revolution'. During the last years many important steps were made towards youth inclusion in contemporary issues, increasing of  their  role  in  societal  or  political  lives.  In  particular,  now  youth  have  better  opportunities  for employment,  quality  education  and  using  state  services.  Today  young  people  are  included  in  the decision-making process, which is clearly evident in different spheres of community lives. One of the best examples of youth inclusion is schoolchildren's and students' activeness, for which the corresponding basis had been prepared by the state. Many young people are also employed by the public service, including on key positions. This means that the youth are considered as decision-makers.
+The attitude towards youth in Georgia drastically changed after the “Rose Revolution”. During the last years many important steps were made towards youth inclusion in contemporary issues, increasing of their role in societal or political lives. In particular, now youth have better opportunities for employment, quality education and using state services. Today young people are included in the
 
 8
 
@@ -218,7 +218,9 @@ The attitude towards youth in Georgia drastically changed after the 'Rose Revolu
 
 Ministry of Sport and Youth Affairs of Georgia
 
-Ministry of Sport and Youth Affairs of Georgia has made an overly important step on behalf of the state  towards  facilitation  development  of  the  Georgian  youth.  Creation  of  the  Ministry  started  a  new stage of relationship between the state and the youth.
+decision-making process, which is clearly evident in different spheres of community lives. One of the best examples of youth inclusion is schoolchildren’s and students’ activeness, for which the corresponding basis had been prepared by the state. Many young people are also employed by the public service, including on key positions. This means that the youth are considered as decision-makers.
+
+Ministry of Sport and Youth Affairs of Georgia has made an overly important step on behalf of the state towards facilitation development of the Georgian youth. Creation of the Ministry started a new stage of relationship between the state and the youth.
 
 ### National context
 
@@ -250,7 +252,7 @@ Ministry of Sport and Youth Affairs of Georgia
 
  to have healthy lifestyle and a wish to live in a health society;
 
- to reveal and develop arts and culture initiatives, which will facilitate development of skills in the youth in different spheres of art and will also help them in development independent thinking, selfrealization and having own opinions about numerous issued.
+ to reveal and develop arts and culture initiatives, which will facilitate development of skills in the youth in different spheres of art and will also help them in development independent thinking, self-realization and having own opinions about numerous issued.
 
 ### Legal regulation
 
@@ -272,7 +274,7 @@ For  legal  support  to  this  sphere,  Ministry  of  Sport  and  Youth  Affairs
 
 #### State management of the youth sector:
 
-Youth  sector  and  its  state  regulation  for  the  positive  development  is  different  from  other spheres  because  the  youth  as  one  of  the  most  prominent  part  of  the  society  requests  full-fledged utilization of all state services and programs (except for certain cases). Therefore, in many cases, there are difficulties with regards to the youth affairs in the executive authorities, division of competencies, and  other  issues  from  the  point  of  view  of  a  responsible  agency.  Many  European  countries  have  no separate  agency  (a  ministry)  responsible  for  sport  and  youth  affairs.  There  are  management  methods, which  place  youth  affairs  within  ministries  of  education,  culture  or  other  ministries.  Also,  based  on international experience, management of the youth sector is mostly successful when there is a separate agency responsible for youth affairs in the country.
+Youth sector and its state regulation for the positive development is different from other spheres because the youth as one of the most prominent part of the society requests full-fledged utilization of all state services and programs (except for certain cases). Therefore, in many cases, there are difficulties with regards to the youth affairs in the executive authorities, division of competencies, and other issues from the point of view of a responsible agency. Many European countries have no separate agency (a ministry) responsible for sport and youth affairs. There are management methods, which place youth affairs within ministries of education, culture or other ministries. Also, based on
 
 10
 
@@ -282,11 +284,13 @@ Youth  sector  and  its  state  regulation  for  the  positive  development  is 
 
 Ministry of Sport and Youth Affairs of Georgia
 
-By  creation  of  the  Ministry  of  Sport  and  Youth  Affairs  of  Georgia  most  problems  were alleviated with this respect. Today, the Ministry is the main executive agency for implementation of the youth policy in the country , the main function of which is to develop main directions of the state policy in the country, take care of the youth as the most important part of the society; create own state programs and coordinate effective public administration of the whole youth sphere.
+international experience, management of the youth sector is mostly successful when there is a separate agency responsible for youth affairs in the country.
+
+By creation of the Ministry of Sport and Youth Affairs of Georgia most problems were alleviated with this respect. Today, the Ministry is the main executive agency for implementation of the youth policy in the country, the main function of which is to develop main directions of the state policy in the country, take care of the youth as the most important part of the society; create own state programs and coordinate effective public administration of the whole youth sphere.
 
 Prior attitude towards the youth affairs did not create the basis for development of the unified, effective and efficient policy. Hence youth sector management was less active and successful. Ministry of Sport and Youth Affairs of Georgia will fully coordinate all the issues in the youth sector and will gradually  implement  the  state  policy  because  the  challenges  of  the  youth  sphere  demand  long-term vision from the government, and complex and organized efforts. For this aim we need to research and analyze the existing circumstances and close cooperation between the institutions.
 
-Also, Ministry of Sport and Youth Affairs of Georgia shall work actively on the international level. Special attention shall be paid to cooperation with the Youth and Sports Directorate of the Council of Europe, which helps the countries participate in creation of the joint European strategy, defining regional priorities  and  planning  youth  and  sport  programs  of  the  CE.  National  youth  policy  of  Georgia  shall comply with these requirements of the EU 'Nationhood Policy' towards our state.
+Also, Ministry of Sport and Youth Affairs of Georgia shall work actively on the international level. Special attention shall be paid to cooperation with the Youth and Sports Directorate of the Council of Europe, which helps the countries participate in creation of the joint European strategy, defining regional priorities and planning youth and sport programs of the CE. National youth policy of Georgia shall comply with these requirements of the EU “Nationhood Policy” towards our state.
 
 11
 
@@ -308,7 +312,7 @@ We consider that the stakeholders shall protect the following principles:
 
  Transparency - openness of the agencies implementing national youth policy;
 
- Participation - participation of the representatives of youth organizations and joint decisionmaking with regards to the youth problems, also provision for youth inclusion in the process of important decision-making;
+ Participation – participation of the representatives of youth organizations and joint decision-making with regards to the youth problems, also provision for youth inclusion in the process of important decision-making;
 
  Impartiality  -  non-permissibility  to  give  any  advantage  to  any  specific  public  group  or  a youth organization during implementation of the youth policy;
 
@@ -350,9 +354,7 @@ Ministry of Sport and Youth Affairs of Georgia
 
  Economic, creative, political and public activities;
 
-
-
-- Leisure, rest, travel;
+ Leisure, rest, travel;
 
 Currently, approximately 20% of the country's territory has been occupied; the youth living there are  practically  without  any  development  prospects.  Taking  into  account  the  problem  of  territorial integrity, apart from the mentioned above, there are special needs facing the IDP youth.
 
@@ -366,21 +368,21 @@ Main youth rights are:
 
  Life;
 
- Equality;
-
  Freedom for religious believes;
+
+ Equality;
 
  Living in safe environment;
 
- Inclusion;
-
  Education;
+
+ Inclusion;
 
  Development;
 
- Protection from physical and psychological pressure;
-
  Access to information and services facilitating their development;
+
+ Protection from physical and psychological pressure;
 
 The part on responsibility is an important component for strong guarantees for legal protection of the youth for it is in direct connection with defining the limits for realization of their rights and creating the mechanisms for effective protection.
 
@@ -432,7 +434,7 @@ The biggest challenge for the state in the youth sector management process is co
 
 Many youth programs or events are implemented with the support of the local civil sector in Georgia and international community targeting the youth. It is clear that absence of the state policy and the unified development strategy led to frequent overlap of the projects. Increased communication was needed between  those subjects, which  were  implementing  these projects. Insufficient level of communication decreased efficiency of resource distribution. Currently there are districts where, due to subjective  or  objective  reasons,  fully  or  partially  are  short  of  civil  or  public  initiatives.  Also,  projects have  been  frequently  duplicated.  Absence  of  coordination  and  joint  strategy  decreased  efficiency,  the needs of the target groups were not fulfilled, efficiency of the activities was partially not evaluated and the projects, in some cases, were mostly formal.
 
-Creation of the state strategy shall become the basis for development of new approaches in Georgia. It  is  desirable  that  any  subject  pay  attention  to  this  priority  direction  of  the  state  policy  and strategy.  Finding  effective  ways  for  topical  and  territorial  harmonization  of  the  programs,  thematic compliance of the programs and avoidance of their overlap is also necessary. Creation of state policy and strategy will also enable for more opportunities for collection of uniform information on the programs implemented in the youth sphere with the purpose of analysis, evaluation and future planning and also this is a good opportunity for systematization and evaluation of the completed programs with the purpose of increasing the efficiency increase of the spent resources and youth sector development. The strategy should be long-term and enable for sustainability of the sphere.
+Creation of the state strategy shall become the basis for development of new approaches in Georgia. It is desirable that any subject pay attention to this priority direction of the state policy and strategy. Finding effective ways for topical and territorial harmonization of the programs, thematic
 
 14
 
@@ -442,9 +444,11 @@ Creation of the state strategy shall become the basis for development of new app
 
 Ministry of Sport and Youth Affairs of Georgia
 
+compliance of the programs and avoidance of their overlap is also necessary. Creation of state policy and strategy will also enable for more opportunities for collection of uniform information on the programs implemented in the youth sphere with the purpose of analysis, evaluation and future planning and also this is a good opportunity for systematization and evaluation of the completed programs with the purpose of increasing the efficiency increase of the spent resources and youth sector development. The strategy should be long-term and enable for sustainability of the sphere.
+
 #### Youth organizations:
 
-Current realities show that the youth sector includes youth organizations (those NGOs which can be  called  'youth  organizations');  only  their  small  part  has  methodological-technical  or  financial resources, which is required for their effective operations. Out of the needs facing the organizations the following are the most important:
+Current realities show that the youth sector includes youth organizations (those NGOs which can be called “youth organizations”); only their small part has methodological-technical or financial resources, which is required for their effective operations. Out of the needs facing the organizations the following are the most important:
 
  Insufficient financial resources for operations;
 
@@ -454,13 +458,13 @@ Current realities show that the youth sector includes youth organizations (those
 
  Low quality of participation in national policy planning and implementation.
 
-Based  on  the  mentioned  above  problems,  majority  of  the  youth  organizations  are  nonfunctional, is limited by several or even one annual event.
+Based on the mentioned above problems, majority of the youth organizations are non-functional, is limited by several or even one annual event.
 
 Majority of the developed states have policies covering youth organizations. The state takes into  account  that  the  activity  of  a  youth  organization  is,  perhaps,  the  first  job  for  the  young  people; therefore, without job experience, their qualification and skills may not be sufficient for effective and full-fledged  public  service.  Therefore,  the  government  of  those  countries  takes  care  of  facilitating informal education, funding and institutional strengthening of the youth organizations. The experience that can be gained by a young person in a youth organization is invaluable. Youth practice, on the one hand,  is  the  perfect  opportunity  for  developing  civil  and  public  consciousness,  and,  on  the  other  one, develops the important skills for employment and societal realization.
 
 Umbrella  organizations  are  a  part  of  the  youth  development  policy.  As  a  rule,  such organizations are important bases for youth participation and lobbying of youth ideas on the national and international levels. Unfortunately, there is no strong basis in Georgia that would be acceptable for the majority of youth organizations and simultaneously would increase youth participation.
 
-Large  part  of  the  youth  organizations  does  not  fully  use  the  resources  of  the  international level. The programs of the European Union 'Youth in Action' and 'European Youth Foundation' of the Council of Europe's Fund are notable with this respect.
+Large part of the youth organizations does not fully use the resources of the international level. The programs of the European Union “Youth in Action” and “European Youth Foundation” of the Council of Europe’s Fund are notable with this respect.
 
 An informal union is an important tool with which youth organization are operating in the youth sphere. Today there is no unified standard of the educational programs, which, in most cases, are implemented by the youth organizations. Notwithstanding some experienced and well-qualified cadre in the non-governmental youth sector working not only in local but also international level, the sector needs preparation of more qualified trainers whose services would be accessible for any youth organization.
 
@@ -474,7 +478,7 @@ Ministry of Sport and Youth Affairs of Georgia
 
 ## 5. Support to positive development of the youth
 
-Youth, like other segments of the society, have specific needs requiring specific approaches from the state. Thus, these needs shall influence definition of general and state policies, including financialeconomic ones. It is important that the priorities given below on which the state will base its approaches be contemporary, result-oriented and attainable because in many cases their definition influences success of the final 'product. Sector directions of youth support shall be focused on the following priorities:
+Youth, like other segments of the society, have specific needs requiring specific approaches from the state. Thus, these needs shall influence definition of general and state policies, including financial-economic ones. It is important that the priorities given below on which the state will base its approaches be contemporary, result-oriented and attainable because in many cases their definition influences success of the final “product. Sector directions of youth support shall be focused on the following priorities:
 
 ### Youth sector coordination and management;
 
@@ -540,13 +544,13 @@ Harmonization  of  the  work  of  the  Ministry  of  Sport  and  Youth  Affairs 
 
 The  most  important  factor  defining  success  of  a  youth  policy  or  a  program  implementation  is increase of responsibility for youth affairs. Experience based on implementation of the youth projects and  programs  shows  that  the  basis  for  a  successful  policy  is  formulation  of  the  program/project,  its implementation  and  evaluation.  All  these  activities are based  on  institutional capacities of the implementing agency. Taking into account the above-mentioned, it is clear that creation of the unified plan for strengthening the capacities is a stabile component of policy implementation.
 
-With  the  purpose  of  successful  implementation  of  institutional  capacities,  the  policy  document focused  on  development  of  human  resources,  substantial  increase  of  funding,  provision  of  technical support  and  strengthening  of  the  status  of  implementing  agencies  via  state  budgeting  or  an  outside financing.  Taking  this  into  account,  adequate  financial  resources  shall  be  allocated  to  the  mentionedabove institutions  whereas  procurement,  trainings  or  other  logistical  tools  shall  strengthen  operational capacities.
+With the purpose of successful implementation of institutional capacities, the policy document focused on development of human resources, substantial increase of funding, provision of technical support and strengthening of the status of implementing agencies via state budgeting or an outside financing. Taking this into account, adequate financial resources shall be allocated to the mentioned-above institutions whereas procurement, trainings or other logistical tools shall strengthen operational capacities.
 
-Based on the fact that information is the starting point for majority of youth programs, research on youth needs became a part of the governmental policy. In order to achieve this result, the units of the Ministry of Sport and Youth Affairs responsible for planning, together with other relevant structures, is responsible to conduct periodical research on youth development. The database shall be created with the support of the LEPL  ,, Department of Statistics'
+Based on the fact that information is the starting point for majority of youth programs, research on youth needs became a part of the governmental policy. In order to achieve this result, the units of the Ministry of Sport and Youth Affairs responsible for planning, together with other relevant structures, is responsible to conduct periodical research on youth development. The database shall be created with the support of the LEPL ,,Department of Statistics”
 
 ### Institutionalization of implementation
 
-The present document represents the State Strategy 2011-2015. Apart from this, Ministry of Sport and Youth Affairs of Georgia by 2015 shall annually prepare for public discussions 'Youth Action Plan of the Ministry of Sport and Youth Affairs of Georgia'.
+The present document represents the State Strategy 2011–2015. Apart from this, Ministry of Sport and Youth Affairs of Georgia by 2015 shall annually prepare for public discussions “Youth Action Plan of the Ministry of Sport and Youth Affairs of Georgia”.
 
 Ministry  of  Sport  and  Youth  Affairs  of  Georgia  is  ready  to  undertake  the  responsibility  for coordinated  activities  of  the  youth  sector  and  managing  targeted  and  effective  state  policy  in  youth affairs. Based on the fact that today youth is the priority of not only the government but also in the global scale, Georgia, as a state, shall get actively involved in the process of development and progress of youth relations.  The  UN,  the  Council  of  Europe,  the  European  Union  and  other  international  organizations consider  the  problems  facing  the  youth  as  overly  important.  Ministry  of  Sport  and  Youth  Affairs  of Georgia has responded to all international initiatives directed towards youth development.
 
@@ -562,7 +566,7 @@ Thus, as it is mentioned in the document, the Strategy will act as a guarantor f
 
 ## 6. Monitoring and Evaluation
 
-The Georgian National Youth document is subject to compulsory review minimum once in 5 years and shall comply with the realities or challenges of its time. The institute of compulsory review is not limited to the control over compliance of the document with the contemporary realities which shall be implemented within the periodical, so-called 'current' monitoring and evaluation. The process of review of the document shall also include calculation of success of the relevant indicators or the coefficients of achievements. The purpose of the 'check' is to make this document relevant to the youth needs
+The Georgian National Youth document is subject to compulsory review minimum once in 5 years and shall comply with the realities or challenges of its time. The institute of compulsory review is not limited to the control over compliance of the document with the contemporary realities which shall be implemented within the periodical, so-called “current” monitoring and evaluation. The process of review of the document shall also include calculation of success of the relevant indicators or the coefficients of achievements. The purpose of the “check” is to make this document relevant to the youth needs
 
 19
 
@@ -572,13 +576,15 @@ The Georgian National Youth document is subject to compulsory review minimum onc
 
 Ministry of Sport and Youth Affairs of Georgia
 
+## Annex 1
+
 ### Indicators of Monitoring and Evaluation
 
  The strategic document is adopted which takes into account the recommendations which are based on specialized research conducted in different sector groups.
 
  Cooperation between the stakeholders is based on the arrangements or the decision-makers existing for specific activities in the strategic document action plan.
 
- Actions  plan  adopted  within  the  strategic  document  focuses  on  the  youth  programs  whose beneficiaries are separate target groups, in particular: people with lack of care, socially unprotected, on probation or youth with other specific needs.
+ Actions plan adopted within the strategic document focuses on the youth programs whose beneficiaries are separate target groups, in particular: people with lack of care, socially unprotected, on probation or youth with other specific needs.
 
 ## Annex 2
 
@@ -591,9 +597,6 @@ NGOs and other non-profit legal entities | Integration of youth problems and nee
 Private sector | Developing employment possibilities; offering credit lines; vocational education and training; financial support;
 Donors | Technical support; financial and logistical support
 Mass media | Provision information to the youth; information support to youth activities;
-
-## Annex 1
-
 20
 
 [[END OF PAGE 20]]
