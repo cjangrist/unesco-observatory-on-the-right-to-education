@@ -12,13 +12,17 @@ Amtsblatt des Großherzogtums Luxemburg
 
 RECUEIL DE LEGISLATION
 
+A -- N° 20
+
+16 février 2009
+
 # S o m m a i r e
 
 ## ENSEIGNEMENT FONDAMENTAL
 
-A -- N° 20
-
-16 février 2009
+Loi du 6 février 2009 relative à l'obligation scolaire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . page 198
+Loi du 6 février 2009 portant organisation de l'enseignement fondamental . . . . . . . . . . . . . . . . . . 200
+Loi du 6 février 2009 concernant le personnel de l'enseignement fondamental . . . . . . . . . . . . . . . 215
 
 [[END OF PAGE 1]]
 
@@ -186,6 +190,10 @@ et de la formation professionnelle,
 
 Mady Delvaux-Stehres
 
+Palais de Luxembourg, le 6 février 2009.
+
+Henri
+
 Doc. parl. 5758, sess. ord. 2006-2007, 2007-2008 et 2008-2009.
 
 # Loi du 6 février 2009 portant organisation de l'enseignement fondamental.
@@ -242,11 +250,7 @@ Au sens de la présente loi, on entend par:
 
 - instituteur-ressource:  un  instituteur  ayant  acquis  des  connaissances  par  l'expérience  et  la  formation  dans  un domaine particulier des sciences de l'éducation, et auquel l'équipe pédagogique ou l'inspecteur fait appel pour toute question relevant de ce domaine;
 
-- élève à besoins éducatifs spécifiques: enfant soumis à l'obligation scolaire et qui en raison de ses particularités mentales,  caractérielles,  sensorielles  ou  motrices  ne  peut  atteindre  les  socles  de  compétences  définis  pour l'enseignement fondamental dans le temps imparti;
-
-Palais de Luxembourg, le 6 février 2009.
-
-Henri
+- élève à besoins éducatifs spécifiques: enfant soumis à l'obligation scolaire et qui en raison de ses particularités mentales, caractérielles, sensorielles ou motrices ne peut atteindre les socles de compétences définis pour l'enseignement fondamental dans le temps imparti;
 
 [[END OF PAGE 4]]
 
@@ -347,6 +351,8 @@ Les activités  d'appui  pendant  et  en  dehors  des  heures  de  classe  et  l
 Un règlement grand-ducal fixe un plan d'études qui définit les socles de compétences à atteindre à la fin de chaque cycle dans les domaines définis à l'article précédent, les programmes y afférents ainsi que les grilles des horaires hebdomadaires.
 
 Le programme de l'instruction religieuse et morale est arrêté par le ministre sur proposition du chef du culte. Il fait partie du plan d'études.
+
+### Section 4 - L'organisation pédagogique
 
 #### Art. 9.
 Chaque classe est dirigée par un instituteur, désigné titulaire de classe dans le cadre de l'organisation scolaire.
@@ -501,6 +507,8 @@ Dans  des  circonstances  dûment  justifiées,  notamment  si  les  parents  en
 
 L'enseignement à domicile est soumis au contrôle de l'inspecteur. S'il est constaté que l'enseignement dispensé ne répond pas aux critères définis ci-dessus, l'élève est inscrit d'office à l'école de sa commune de résidence. Il en sera de même en cas de refus opposé à l'inspecteur de procéder au contrôle.
 
+### Section 2 - Le parcours scolaire
+
 #### Art. 22.
 En principe, chaque élève soumis à l'obligation scolaire parcourt un cycle de l'enseignement fondamental en deux années.
 
@@ -571,7 +579,7 @@ Un  règlement  grand-ducal  détermine  les  modalités  d'admission  dans  les
 ### Section 4 - Les mesures d'aide, d'appui et d'assistance en cas de difficultés d'apprentissage
 
 #### Art. 27.
-Au niveau de chaque arrondissement d'inspection, il est constitué au moins une équipe multiprofessionnelle qui a pour mission d'assurer, en collaboration avec le titulaire de classe, et, au besoin, avec l'équipe médico-socioscolaire  concernée, le diagnostic et la prise en charge des élèves à besoins éducatifs spécifiques et de conseiller le titulaire de classe et l'équipe pédagogique dans la mise en œuvre de mesures de différenciation.
+Au niveau de chaque arrondissement d'inspection, il est constitué au moins une équipe multiprofessionnelle qui a pour mission d'assurer, en collaboration avec le titulaire de classe, et, au besoin, avec l'équipe médico-socio-scolaire concernée, le diagnostic et la prise en charge des élèves à besoins éducatifs spécifiques et de conseiller le titulaire de classe et l'équipe pédagogique dans la mise en œuvre de mesures de différenciation.
 
 Ces équipes multiprofessionnelles comprennent du personnel de l'Éducation différenciée et du Centre de logopédie, des instituteurs de l'enseignement spécial affectés à une commune de l'arrondissement et d'autres experts dans l'aide, l'appui et l'assistance à donner aux élèves en question.
 
@@ -711,6 +719,8 @@ Ces classes sont placées sous l'autorité du ministre qui en assure le financem
 
 L'État peut conclure des conventions pour la mise à disposition d'infrastructures adéquates avec des communes et des syndicats de communes.
 
+### Section 2 - L'organisation scolaire
+
 #### Art. 38.
 Le conseil communal délibère annuellement sur l'organisation de l'enseignement fondamental, sur la base des rapports établis par les comités d'école, avisés par la commission scolaire et dans le respect du contingent de leçons d'enseignement qui est mis à sa disposition par le ministre.
 
@@ -835,6 +845,8 @@ Un règlement grand-ducal fixe la composition et les modalités de fonctionnemen
 
 #### Art. 46.
 Un règlement grand-ducal détermine les dispositions concernant les règles de conduite et l'ordre intérieur communs à toutes les écoles.
+
+### Section 4 - Le partenariat
 
 #### Art. 47.
 Au niveau de chaque classe, les partenaires des parents sont le titulaire de la classe et l'équipe pédagogique qui assurent l'encadrement scolaire des élèves.
@@ -972,7 +984,7 @@ Les modalités d'élection des membres, le fonctionnement de la commission ainsi
 #### Art. 56.
 Les parents d'élèves qui sont membres de la commission scolaire nationale ont droit à un congé de deux demi-journées par mois pour remplir leur mandat. Pendant ce congé, ils peuvent s'absenter du lieu de travail du secteur public et privé avec maintien de leur rémunération. Dans le secteur public les bénéficiaires du congé continueront à toucher leur traitement et à jouir des avantages attachés à leur fonction. Sont visés sous le terme de «secteur public», l'État, les communes, les syndicats de communes, les établissements et services publics placés sous la surveillance de l'État ou des communes, les organismes parastataux ainsi que la société nationale des chemins de fer.
 
-Dans le secteur privé, les bénéficiaires du congé ont droit, pour chaque demi-journée de congé, à une indemnité compensatoire égale à la moitié du salaire journalier moyen tel qu´il est défini par l'article L.233-14 du Code du Travail, sans qu'elle ne puisse dépasser le quadruple du salaire social minimum pour travailleurs non qualifiés.
+Dans le secteur privé, les bénéficiaires du congé ont droit, pour chaque demi-journée de congé, à une indemnité compensatoire égale à la moitié du salaire journalier moyen tel qu'il est défini par l'article L.233-14 du Code du Travail, sans qu'elle ne puisse dépasser le quadruple du salaire social minimum pour travailleurs non qualifiés.
 
 L'indemnité compensatoire est payée par l'employeur. L'État rembourse à l'employeur le montant de l'indemnité et la part patronale des cotisations sociales au vu d'une déclaration y afférente, dont le modèle est défini par le ministre compétent.
 
@@ -1197,6 +1209,8 @@ Le personnel des équipes multiprofessionnelles peut comprendre:
 
 - des infirmiers.
 
+### Section 2 - La formation continue
+
 #### Art. 70.
 Le personnel intervenant et les inspecteurs ont le droit et le devoir d'entretenir et de perfectionner leurs compétences professionnelles moyennant la formation continue.
 
@@ -1275,11 +1289,11 @@ La loi modifiée du 14 mars 1973 portant création d'instituts et de services d'
 
 «Sur  avis  de  la  commission  d'inclusion  scolaire,  approuvé  par  la  commission  médico-psycho-pédagogique nationale, un enfant peut, avec l'accord de la personne ayant la garde, être temporairement placé dans une des classes ou dans un des centres d'observation prévus à l'article 2 de la présente loi.
 
-Lorsque l'intérêt de la formation d'un enfant l'exige, le ministre, après avoir entendu la commission médicopsycho-pédagogique nationale, peut autoriser cet enfant à recevoir l'éducation et les soins appropriés au-delà du terme de la scolarité obligatoire. En ce cas, les dispositions de l'article 8 ci-dessus continuent à être applicables.»
+Lorsque l'intérêt de la formation d'un enfant l'exige, le ministre, après avoir entendu la commission médico-psycho-pédagogique nationale, peut autoriser cet enfant à recevoir l'éducation et les soins appropriés au-delà du terme de la scolarité obligatoire. En ce cas, les dispositions de l'article 8 ci-dessus continuent à être applicables.»
 
 - L'article 12 est modifié comme suit:
 
-«Les  demandes  visant  le  transfert  d'un  enfant  de  l'éducation  différenciée  à  l'enseignement  fondamental  sont adressées par la personne ayant la garde de l'enfant à la commission d'inclusion scolaire concernée au moins deux mois avant la rentrée des cours. La commission transmet cette information à la commission médico-psychopédagogique nationale et au ministre en y joignant son avis.
+«Les demandes visant le transfert d'un enfant de l'éducation différenciée à l'enseignement fondamental sont adressées par la personne ayant la garde de l'enfant à la commission d'inclusion scolaire concernée au moins deux mois avant la rentrée des cours. La commission transmet cette information à la commission médico-psycho-pédagogique nationale et au ministre en y joignant son avis.
 
 Les transferts se font par décision du ministre.»
 
@@ -1303,7 +1317,7 @@ Sont abrogées les dispositions légales suivantes:
 -les articles 28 et 33 de la loi du 6 septembre 1983 portant a) réforme de la formation des instituteurs, b) création d'un Institut supérieur d'études et de recherches pédagogiques, c) modification de l'organisation de l'éducation préscolaire et de l'enseignement primaire.
 
 ### Art. 79.
-Dans la mesure où ils ne sont pas contraires aux dispositions de la présente loi, les règlements grandducaux existants, pris en exécution de la loi modifiée du 10 août 1912 concernant l'organisation de l'enseignement primaire, restent en vigueur jusqu'à la publication d'éventuels règlements pris en exécution de la présente loi.
+Dans la mesure où ils ne sont pas contraires aux dispositions de la présente loi, les règlements grand-ducaux existants, pris en exécution de la loi modifiée du 10 août 1912 concernant l'organisation de l'enseignement primaire, restent en vigueur jusqu'à la publication d'éventuels règlements pris en exécution de la présente loi.
 
 [[END OF PAGE 18]]
 
@@ -1316,7 +1330,12 @@ La présente loi entre en vigueur au début de l'année scolaire 2009-2010.
 
 Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.
 
-La Ministre de l'Éducation nationale et de la Formation professionnelle, Mady Delvaux-Stehres
+La Ministre de l'Éducation nationale
+et de la Formation professionnelle,
+Mady Delvaux-Stehres
+
+Palais de Luxembourg, le 6 février 2009.
+Henri
 
 Doc. parl. 5759; sess. ord. 2006-2007, 2007-2008 et 2008-2009
 
@@ -1333,8 +1352,6 @@ Vu la décision de la Chambre des Députés du 21 janvier 2009 et celle du Conse
 Avons ordonné et ordonnons:
 
 ## Chapitre I - Définitions
-
-Palais de Luxembourg, le 6 février 2009. Henri
 
 ### Art. 1 er .
 
@@ -1436,7 +1453,7 @@ Les candidats ayant passé avec succès les épreuves du concours sont nommés �
 
 Le classement des candidats à l'issue du concours vaut pour l'année scolaire subséquente.
 
-Les conditions d'admission au concours, les contenus et les modalités du concours sont définis par règlement grandducal.
+Les conditions d'admission au concours, les contenus et les modalités du concours sont définis par règlement grand-ducal.
 
 ### Art. 6.
 
@@ -1458,17 +1475,11 @@ La  nomination  à  la  fonction  d'instituteur  est  provisoire  et  révocable
 
 217
 
-### Art. 12.
-
-Des  éducateurs  gradués  et  des  éducateurs  interviennent  dans  l'enseignement  fondamental  afin  d'assurer l'encadrement socio-éducatif des élèves.
-
-La tâche normale des éducateurs gradués et des éducateurs est fixée à quarante heures par semaine et comprend l'éducation  des  élèves  à  la  vie  en  communauté,  la  collaboration  dans  les  équipes  pédagogiques  et  l'organisation d'activités de prise en charge socio-éducative en dehors des heures de classe.
-
 Pendant cette période, l'instituteur reçoit un accompagnement de la part de l'équipe pédagogique dont il fait partie et de la part de l'inspecteur d'arrondissement. Il participe obligatoirement à des activités de formation en rapport avec son insertion professionnelle.
 
 Un règlement grand-ducal détermine les modalités de cet accompagnement et de ces activités de formation.
 
-La période de nomination provisoire peut être suspendue soit d'office, soit à la demande de l'intéressé, pour la durée de toute absence prolongée en cas d'incapacité de travail ainsi que dans l'hypothèse où l'instituteur bénéficie des congés visés  aux  articles  29bis  ou  30,  paragraphe  1 er de  la  loi  modifiée  du  16  avril  1979  fixant  le  statut  général  des fonctionnaires de l'État.
+La période de nomination provisoire peut être suspendue soit d'office, soit à la demande de l'intéressé, pour la durée de toute absence prolongée en cas d'incapacité de travail ainsi que dans l'hypothèse où l'instituteur bénéficie des congés visés aux articles 29bis ou 30, paragraphe 1 er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'État.
 
 En cas d'incapacité professionnelle constatée pendant cette période par l'inspecteur d'arrondissement ensemble avec l'inspecteur général, la révocation de la nomination provisoire peut être prononcée par le ministre, l'intéressé entendu en ses explications.
 
@@ -1478,15 +1489,15 @@ En dehors de l'hypothèse prévue à l'alinéa précédent, toute nomination pro
 
 Le ministre affecte les instituteurs soit à une commune, soit à une école ou classe de l'État.
 
-Les instituteurs  nouvellement  admis  à  la  fonction  sont  affectés  en  fonction  de  leur  rang  au  classement  établi  au concours visé à l'article 5.
+Les instituteurs nouvellement admis à la fonction sont affectés en fonction de leur rang au classement établi au concours visé à l'article 5.
 
 L'instituteur qui souhaite être changé d'affectation présente sa demande au ministre.
 
 Les décisions individuelles de réaffectation d'un instituteur à une classe ou école de l'État sont prises par le ministre.
 
-Les  décisions  individuelles  de  réaffectation  d'un  instituteur  à  une  commune  sont  prises  par  le  ministre  sur proposition du conseil communal concerné qui choisit, conformément aux dispositions de la loi communale modifiée du 13 décembre 1988, entre tous les candidats classés sur une liste par l'inspecteur d'arrondissement sur base d'une note d'inspection et de l'ancienneté de service.
+Les décisions individuelles de réaffectation d'un instituteur à une commune sont prises par le ministre sur proposition du conseil communal concerné qui choisit, conformément aux dispositions de la loi communale modifiée du 13 décembre 1988, entre tous les candidats classés sur une liste par l'inspecteur d'arrondissement sur base d'une note d'inspection et de l'ancienneté de service.
 
-Le détail  des  critères  de  classement  ainsi  que  les  modalités  des  procédures  d'affectation  et  de  réaffectation  des instituteurs sont déterminés par règlement grand-ducal.
+Le détail des critères de classement ainsi que les modalités des procédures d'affectation et de réaffectation des instituteurs sont déterminés par règlement grand-ducal.
 
 ### Art. 9.
 
@@ -1502,19 +1513,25 @@ Après les opérations de réaffectation prévues à l'article qui précède, le
 
 Les décisions individuelles d'affectation sont prises par le ministre.
 
-L'affectation  des  agents  mentionnés  aux  points  2  et  3  ne  peut  être  prononcée  chaque  fois  que  pour  une  année scolaire au maximum.
+L'affectation des agents mentionnés aux points 2 et 3 ne peut être prononcée chaque fois que pour une année scolaire au maximum.
 
 Tout poste d'instituteur vacant auquel aucun instituteur n'a pu être affecté devra être déclaré vacant sur la première liste des postes vacants de l'année scolaire subséquente.
 
 ### Art. 10.
 
-En cas de suppression d'un poste d'instituteur dans une commune, dans une école ou classe de l'État, l'instituteur qui  l'occupait  sera  réaffecté  dans  une  commune,  dans  une  école  ou  classe  de  l'État  du  même  arrondissement d'inspection ou, si aucun poste n'est vacant dans cet arrondissement, dans une commune, dans une école ou une classe de l'État d'un arrondissement d'inspection avoisinant.
+En cas de suppression d'un poste d'instituteur dans une commune, dans une école ou classe de l'État, l'instituteur qui l'occupait sera réaffecté dans une commune, dans une école ou classe de l'État du même arrondissement d'inspection ou, si aucun poste n'est vacant dans cet arrondissement, dans une commune, dans une école ou une classe de l'État d'un arrondissement d'inspection avoisinant.
 
 ### Art. 11.
 
 Le ministre peut réaffecter d'office un instituteur, sur proposition de l'inspecteur général, dans l'intérêt du service, l'intéressé entendu en ses observations.
 
 ## Chapitre IV - Les éducateurs gradués et les éducateurs
+
+### Art. 12.
+
+Des éducateurs gradués et des éducateurs interviennent dans l'enseignement fondamental afin d'assurer l'encadrement socio-éducatif des élèves.
+
+La tâche normale des éducateurs gradués et des éducateurs est fixée à quarante heures par semaine et comprend l'éducation des élèves à la vie en communauté, la collaboration dans les équipes pédagogiques et l'organisation d'activités de prise en charge socio-éducative en dehors des heures de classe.
 
 [[END OF PAGE 21]]
 
@@ -1712,6 +1729,8 @@ Pour les agents définis ci-dessus, l'aptitude prévue par l'article 3, point d)
 
 221
 
+## Chapitre VII - La planification des besoins en personnel enseignant et éducatif
+
 ### Art. 28.
 
 Les besoins en personnel des écoles de l'enseignement fondamental et les mesures destinées à y faire face font l'objet d'une planification continue, couvrant des périodes de cinq années scolaires.
@@ -1784,8 +1803,6 @@ Pour être admis à ce stage et à cet examen, les candidats à la fonction d'in
 
 - se classer en rang utile lors d'un concours de recrutement dont les modalités sont déterminées par règlement grand-ducal.
 
-## Chapitre VII - La planification des besoins en personnel enseignant et éducatif
-
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
@@ -1816,23 +1833,23 @@ Au cas où son grade est supérieur à celui de chef de bureau, le fonctionnaire
 
 La  loi  modifiée  du  22  juin  1963  fixant  le  régime  des  traitements  des    fonctionnaires  de  l'État  est  modifiée  et complétée comme suit:
 
-- À l'article 3, alinéas 1 et 3 sont supprimées les références «15°» et «17°» à l'article 22, section IV. de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État.
+a) À l'article 3, alinéas 1 et 3 sont supprimées les références «15°» et «17°» à l'article 22, section IV. de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État.
 
-- À l'article 8, section III., alinéa 3, les termes «grade E4» sont remplacés par ceux de «grade E6».
+b) À l'article 8, section III., alinéa 3, les termes «grade E4» sont remplacés par ceux de «grade E6».
 
-- À l'article 19, les deux alinéas du paragraphe 2, et le paragraphe 4 sont supprimés, les anciens paragraphes 5 et 6 devenant les nouveaux paragraphes 2 et 3.
+c) À l'article 19, les deux alinéas du paragraphe 2, et le paragraphe 4 sont supprimés, les anciens paragraphes 5 et 6 devenant les nouveaux paragraphes 2 et 3.
 
-- À l'article 20, la section I. est supprimée et l'ancienne section II. devient l'unique section de l'article 20.
+d) À l'article 20, la section I. est supprimée et l'ancienne section II. devient l'unique section de l'article 20.
 
-- À l'ancienne section II. de l'article 20, devenue l'unique section de cet article, les termes «E4» sont supprimés à l'alinéa premier et les alinéas 2 et 3 sont supprimés.
+e) À l'ancienne section II. de l'article 20, devenue l'unique section de cet article, les termes «E4» sont supprimés à l'alinéa premier et les alinéas 2 et 3 sont supprimés.
 
-- L'article 20ter est supprimé.
+f) L'article 20ter est supprimé.
 
-- À l'article 22, section IV., les points 15° et 17° sont supprimés.
+g) À l'article 22, section IV., les points 15° et 17° sont supprimés.
 
-- À l'article 22, section V., les points 4° et 5° sont supprimés.
+h) À l'article 22, section V., les points 4° et 5° sont supprimés.
 
-- À  l'annexe  A  -  Classification  des  fonctions  -  rubrique  IV  «Enseignement»  sont  supprimées  dans  les  grades renseignés les carrières et fonctions suivantes:
+i) À l'annexe A - Classification des fonctions - rubrique IV «Enseignement» sont supprimées dans les grades renseignés les carrières et fonctions suivantes:
 
 E3 | Différents établissements | instituteur [IV-15°, V-4°]
 --- | --- | ---
@@ -1898,14 +1915,14 @@ Maisons d'enfants de l'État | instituteur spécial
 
 224
 
-- À l'annexe D - Détermination Tableau IV - «Enseignement» dans la carrière moyenne de l'enseignement sont supprimées dans les grades renseignés les carrières et fonctions suivantes:
-
-- À l'annexe D - Détermination Tableau IV - «Enseignement» dans la carrière supérieure de l'enseignement sont ajoutées  au  grade  E5,  grade  de  la  computation  de  la  bonification  d'ancienneté  E5,  les  carrières  et  fonctions suivantes:
+k) À l'annexe D - Détermination Tableau IV - «Enseignement» dans la carrière moyenne de l'enseignement sont supprimées dans les grades renseignés les carrières et fonctions suivantes:
 
 moyenne de l'enseignement | E3 | instituteur de l'enseignement primaire/des différents établissements/ de l'éducation préscolaire/de l'éducation différenciée 67 /d'économie familiale 80 | E3
 --- | --- | --- | ---
 E3ter | instituteur principal 58 , instituteur d'enseignement complémentaire ou d'enseignement spécial 58 , instituteur d'économie familiale 80 /de la Force publique 58 /de l'Éducation différenciée 67 /d'enseignement préparatoire 93 | E3ter
-E4 | instituteur spécial de la Force publique, instituteur d'enseignement logopédique 58 , instituteur des enseignements primaire supérieur/ technique 31 , instituteur d'éducation différenciée 67 , instituteur spécial- Maisons d'Enfants de l'État 123 , instituteur spécial des centres socio- éducatifs de l'État 78 , institutrice d'enseignement ménager agricole | E4
+E4 | instituteur spécial de la Force publique, instituteur d'enseignement logopédique 58 , instituteur des enseignements primaire supérieur/ technique 31 , instituteur d'éducation différenciée 67 , instituteur spécial-Maisons d'Enfants de l'État 123 , instituteur spécial des centres socio-éducatifs de l'État 78 , institutrice d'enseignement ménager agricole | E4
+
+l) À l'annexe D - Détermination Tableau IV - «Enseignement» dans la carrière supérieure de l'enseignement sont ajoutées au grade E5, grade de la computation de la bonification d'ancienneté E5, les carrières et fonctions suivantes:
 
 supérieure de l'enseignement | E5 | Instituteur, instituteur d'enseignement primaire/ des différents établissements/d'éducation préscolaire/ d'éducation différenciée/d'économie familiale instituteur d'enseignement spécial, instituteur d'économie familiale/ de la Force publique/de l'Éducation différenciée/ d'enseignement préparatoire instituteur spécial de la Force publique, instituteur d'enseignement logopédique, instituteur d'enseignement technique, instituteur d'éducation différenciée, instituteur spécial-Maisons d'Enfants de l'État, instituteur spécial des centres socio-éducatifs de l'État. | E5
 --- | --- | --- | ---
@@ -1956,7 +1973,7 @@ Les  employés  communaux ainsi  que  les  salariés  au  service  des  communes
 
 Les carrières de tous les agents ainsi repris sont reconstituées d'après les modalités définies par la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État, respectivement par la loi modifiée du 27 janvier 1972 fixant le régime des employés de l'État. Il leur est tenu compte du temps passé au service de l'enseignement public  dans  les  conditions  de  l'article  7  de  la  loi  modifiée  du  22  juin  1963  fixant  le  régime  des  traitements  des fonctionnaires de l'État, à l'exception des dispositions du paragraphe 6, alinéa 1 er et alinéa 2, première phrase.
 
-Les employés communaux ainsi que les salariés des communes faisant partie des carrières définies à l'article 2 cidessus, paragraphe 3, points 10 et 11, en service auprès des écoles d'une commune et qui ont opté personnellement pour être repris par l'État, sont affectés à la commune auprès de laquelle ils étaient engagés au moment de l'entrée en vigueur de la présente loi, à moins qu'ils ne présentent une demande de réaffectation au ministre.
+Les employés communaux ainsi que les salariés des communes faisant partie des carrières définies à l'article 2 ci-dessus, paragraphe 3, points 10 et 11, en service auprès des écoles d'une commune et qui ont opté personnellement pour être repris par l'État, sont affectés à la commune auprès de laquelle ils étaient engagés au moment de l'entrée en vigueur de la présente loi, à moins qu'ils ne présentent une demande de réaffectation au ministre.
 
 Les modalités et le calendrier de la reprise sont fixés par règlement grand-ducal.
 
@@ -1972,13 +1989,13 @@ Le personnel mentionné ci-dessus, habilité à effectuer des remplacements dans
 
 Par dérogation à l'article 6, peut être nommé à la fonction d'instituteur, à condition de s'être classé en rang utile à l'issue du concours réglant l'accès à la fonction visé à l'article 5:
 
-- le détenteur du certificat d'études pédagogiques, option éducation préscolaire, délivré à partir  de l'année scolaire 1994/1995;
+1. le détenteur du certificat d'études pédagogiques, option éducation préscolaire, délivré à partir de l'année scolaire 1994/1995;
 
-- dans un délai de trois ans à partir de l'entrée en vigueur de la présente loi, le détenteur d'un diplôme étranger d'études supérieures préparant à la profession d'instituteur habilité à enseigner au premier cycle d'apprentissage de l'enseignement fondamental, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles;
+2. dans un délai de trois ans à partir de l'entrée en vigueur de la présente loi, le détenteur d'un diplôme étranger d'études supérieures préparant à la profession d'instituteur habilité à enseigner au premier cycle d'apprentissage de l'enseignement fondamental, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles;
 
-- le  détenteur  du  certificat  d'études  pédagogiques,  option  enseignement  primaire,  délivré  à  partir  de  l'année scolaire 1994/1995 ;
+3. le détenteur du certificat d'études pédagogiques, option enseignement primaire, délivré à partir de l'année scolaire 1994/1995 ;
 
-- dans un délai de trois ans à partir de l'entrée en vigueur de la présente loi, le détenteur d'un diplôme étranger d'études  supérieures  préparant  à  la  profession  d'instituteur  habilité  à  enseigner  aux  deuxième,  troisième  et quatrième cycles d'apprentissage de l'enseignement fondamental, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles.
+4. dans un délai de trois ans à partir de l'entrée en vigueur de la présente loi, le détenteur d'un diplôme étranger d'études supérieures préparant à la profession d'instituteur habilité à enseigner aux deuxième, troisième et quatrième cycles d'apprentissage de l'enseignement fondamental, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles.
 
 Les instituteurs visés aux points 1 et 2 sont habilités à enseigner au premier cycle d'apprentissage.
 
@@ -2004,11 +2021,11 @@ Les communes organisant des classes d'éducation précoce qui, au moment de l'en
 
 (1) Le Gouvernement est autorisé à procéder pour l'année scolaire 2009/2010 aux engagements à titre permanent suivants:
 
-- huit inspecteurs de l'enseignement fondamental;
+1. huit inspecteurs de l'enseignement fondamental;
 
-- quinze éducateurs gradués;
+2. quinze éducateurs gradués;
 
-- trente-cinq éducateurs.
+3. trente-cinq éducateurs.
 
 (2) Par dérogation aux dispositions des articles 32 et 33 de la présente loi, le Gouvernement est autorisé à procéder pour l'année scolaire 2009/2010 à l'engagement à titre permanent de deux cent quatre-vingt-cinq instituteurs.
 
@@ -2024,7 +2041,7 @@ Ces engagements définitifs au service de l'État se font par dépassement de l'
 
 a) Les agents relevant des carrières reclassées en vertu de la présente loi, en service, en congé parental ou en congé sans traitement au moment de l'entrée en vigueur de la même loi et classés aux grades E3, E3ter et E4 accèdent au grade E5 par substitution.
 
-La  substitution  est  obtenue  en  remplaçant  les  indices  des  grades  E3,  E3ter  et  E4  du  tableau  indiciaire  «IV  Enseignement» de l'annexe C de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État par l'indice du grade E5 correspondant au même numéro d'échelon, diminué d'un échelon dans le nouveau grade.
+La substitution est obtenue en remplaçant les indices des grades E3, E3ter et E4 du tableau indiciaire «IV - Enseignement» de l'annexe C de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État par l'indice du grade E5 correspondant au même numéro d'échelon, diminué d'un échelon dans le nouveau grade.
 
 Par dérogation aux dispositions qui précèdent, et pour les agents rémunérés au moment de l'entrée en vigueur de la présente loi au grade E3 sur base de l'échelon quatre (indice 220), l'échelon cinq (indice 232) et l'échelon six (indice 247), la substitution se fait au grade E5, aux échelons respectifs, échelon deux (indice 266), échelon trois (indice 278) et échelon quatre (indice 293).
 
@@ -2116,14 +2133,16 @@ La présente loi entre en vigueur au début de l'année scolaire 2009/2010 à l'
 
 Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.
 
-La Ministre de l'Éducation nationale et de la Formation professionnelle,
-
+La Ministre de l'Éducation nationale
+et de la Formation professionnelle,
 Mady Delvaux-Stehres
+
+Palais de Luxembourg, le 6 février 2009.
+Henri
 
 Doc. parl. 5760; sess. ord. 2006-2007, 2007-2008 et 2008-2009
 
-Palais de Luxembourg, le 6 février 2009. Henri
-
-Editeur: Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg Imprimeur: Association momentanée Imprimerie Centrale / Victor Buck
+Editeur: Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg
+Imprimeur: Association momentanée Imprimerie Centrale / Victor Buck
 
 [[END OF PAGE 32]]
