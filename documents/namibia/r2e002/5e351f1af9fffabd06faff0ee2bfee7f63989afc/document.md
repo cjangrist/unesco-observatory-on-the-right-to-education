@@ -24,6 +24,8 @@ No. 267 Promulgation of Teachers' Education Colleges Act, 2003 (Act No. 25 of 20
 
 _______________
 
+## Government Notice
+
 ### OFFICE OF THE PRIME MINISTER
 
 No. 267
@@ -36,8 +38,6 @@ The following Act which has been passed by the Parliament and signed by the Pres
 
 No. 25 of 2003: Teachers' Education Colleges Act, 2003.
 
-## Government Notice
-
 _______________
 
 [[END OF PAGE 1]]
@@ -48,66 +48,9 @@ Act No. 25, 2003
 
 TEACHERS' EDUCATION COLLEGES ACT, 2003
 
-Section
-
-- Definitions
-
-- Object of Act
-
-- Determination of general policy in respect of the education and training of teachers
-
-### CHAPTER II
-
-#### ADVISORY COUNCIL ON TEACHERS' EDUCATION AND TRAINING
-
-- Establishment of Advisory Council
-
-- Functions of Advisory Council
-
-- Composition of Advisory Council
-
-- Tenure of office of Advisory Council
-
-- Meetings and decisions of Advisory Council
-
-- Allowances of members of Advisory Council and other expenses
-
-- Secretariat to Advisory Council
-
-- Accommodation and other facilities
-
-### CHAPTER III
-#### TEACHERS' EDUCATION COLLEGES
-
-#### Part 1
-
-##### Establishment and closure of teachers' education colleges
-
-- Establishment of teachers' education colleges
-
-- Closure of teachers' education colleges
-
-#### Part 2
-
-##### Determination by Minister of admission and other requirements and standards applicable to teachers' education colleges
-
-- Determination of admission and other requirements and standards
-
-#### Part 3
-
-##### Governance and staffing of teachers' education colleges, and related matters
-
-- Institutional structures
-
-- Rector
-
-- Vice-rector
-
-- Registrar
-
 # ACT
 
-- To regulate  the  education  and  training  of  teachers;    to  provide  for  the establishment,  functions and composition of the Advisory Council on Teachers' Education and Training;  to provide for the establishment, closure and governance of teachers' education colleges;  to provide for the establishment and administration of Teachers' Education and Training Funds;  to provide for  the  appointment of committees to investigate and monitor teachers' education colleges;  and to provide for matters incidental thereto.
+To regulate the education and training of teachers; to provide for the establishment, functions and composition of the Advisory Council on Teachers' Education and Training; to provide for the establishment, closure and governance of teachers' education colleges; to provide for the establishment and administration of Teachers' Education and Training Funds; to provide for the appointment of committees to investigate and monitor teachers' education colleges; and to provide for matters incidental thereto.
 
 (Signed by the President on 21 December 2003)
 
@@ -116,6 +59,62 @@ Section
 ### CHAPTER I
 #### INTRODUCTORY PROVISIONS
 
+Section
+
+1. Definitions
+
+2. Object of Act
+
+3. Determination of general policy in respect of the education and training of teachers
+
+### CHAPTER II
+
+#### ADVISORY COUNCIL ON TEACHERS' EDUCATION AND TRAINING
+
+4. Establishment of Advisory Council
+
+5. Functions of Advisory Council
+
+6. Composition of Advisory Council
+
+7. Tenure of office of Advisory Council
+
+8. Meetings and decisions of Advisory Council
+
+9. Allowances of members of Advisory Council and other expenses
+
+10. Secretariat to Advisory Council
+
+11. Accommodation and other facilities
+
+### CHAPTER III
+#### TEACHERS' EDUCATION COLLEGES
+
+#### Part 1
+
+##### Establishment and closure of teachers' education colleges
+
+12. Establishment of teachers' education colleges
+
+13. Closure of teachers' education colleges
+
+#### Part 2
+
+##### Determination by Minister of admission and other requirements and standards applicable to teachers' education colleges
+
+14. Determination of admission and other requirements and standards
+
+#### Part 3
+
+##### Governance and staffing of teachers' education colleges, and related matters
+
+15. Institutional structures
+
+16. Rector
+
+17. Vice-rector
+
+18. Registrar
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -124,88 +123,87 @@ Act No. 25, 2003
 
 TEACHERS' EDUCATION COLLEGES ACT, 2003
 
-- Board of teachers' education college
+19. Board of teachers' education college
 
-- Functions of board
+20. Functions of board
 
-- Tenure of office of board
+21. Tenure of office of board
 
-- Meetings and decisions of board
+22. Meetings and decisions of board
 
-- Committees of board
+23. Committees of board
 
-- Allowances of members of board and of committees and other expenses
+24. Allowances of members of board and of committees and other expenses
 
-- Students' representative council
+25. Students' representative council
 
-- Staff establishment at teachers' education college
+26. Staff establishment at teachers' education college
 
-- Departments and other academic units
+27. Departments and other academic units
 
-- Institution of courses of study
+28. Institution of courses of study
 
-- Medium of instruction
+29. Medium of instruction
 
-- Examinations, diplomas and certificates
+30. Examinations, diplomas and certificates
 
-- Admission and registration of students
+31. Admission and registration of students
 
-- Tuition, boarding and other fees
+32. Tuition, boarding and other fees
 
-- Disciplinary measures
+33. Disciplinary measures
 
-- Rules of board
+34. Rules of board
 
 #### Part 4
 
 ##### Teachers' Education and Training Funds
 
-- Establishment of a Teachers' Education and Training Fund
+35. Establishment of a Teachers' Education and Training Fund
 
-- Administration of a Teachers' Education and Training Fund
+36. Administration of a Teachers' Education and Training Fund
 
-- Accounting responsibility
-
-#### Definitions
-
-- In this Act, unless the context indicates otherwise -
-
-'Advisory Council' means the Advisory Council on Teachers' Education and Training established by section 4;
-
-'board' means the board of a teachers' education college referred to in section 19;
-
-'financial year' means the financial year of a Teachers' Education and Training Fund referred to in section 36;
+37. Accounting responsibility
 
 #### Part 5
 
 ##### Investigation and monitoring of teachers' education colleges
 
-- 38 . Appointment of committees to investigate and monitor
+38. Appointment of committees to investigate and monitor
 
-- Allowances of members of committee and other expenses
+39. Allowances of members of committee and other expenses
 
 ### CHAPTER IV
 #### GENERAL PROVISIONS
 
-- Offences and penalties
+40. Offences and penalties
 
-- 41 . Assignment of functions
+41. Assignment of functions
 
-- Preservation of secrecy
+42. Preservation of secrecy
 
-- Limitation of liability
+43. Limitation of liability
 
-- Regulations
+44. Regulations
 
-- Transitional arrangements and savings
+45. Transitional arrangements and savings
 
-- Short title and commencement
+46. Short title and commencement
 
 BE IT ENACTED by the Parliament of the Republic of Namibia, as follows:-
 
 ## CHAPTER I
 ### INTRODUCTORY PROVISIONS
 
+#### Definitions
+
+1. In this Act, unless the context indicates otherwise -
+
+'Advisory Council' means the Advisory Council on Teachers' Education and Training established by section 4;
+
+'board' means the board of a teachers' education college referred to in section 19;
+
+'financial year' means the financial year of a Teachers' Education and Training Fund referred to in section 36;
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -250,13 +248,13 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Object of Act
 
-- The object of this Act is to provide for the establishment of teachers' education colleges for the education and training of students and serving teachers in order to enable them to obtain the necessary qualifications or to better such qualifications.
+2. The object of this Act is to provide for the establishment of teachers' education colleges for the education and training of students and serving teachers in order to enable them to obtain the necessary qualifications or to better such qualifications.
 
-#### Determination of general policy in respect of the education and training of  teachers
+#### Determination of general policy in respect of the education and training of teachers
 
-- The Minister may, after consultation with the Advisory Council, determine the general policy which is to be pursued in respect of the education and training of teachers in order to ensure that -
+3. The Minister may, after consultation with the Advisory Council, determine the general policy which is to be pursued in respect of the education and training of teachers in order to ensure that -
 
-(a) the  co-ordination  of  such  education  and  training  is  effected  throughout Namibia;  and
+(a) the co-ordination of such education and training is effected throughout Namibia; and
 
 [[END OF PAGE 4]]
 
@@ -273,11 +271,11 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Establishment of Advisory Council
 
-- There is hereby established an advisory council to be known as the Advisory Council on Teachers' Education and Training.
+4. There is hereby established an advisory council to be known as the Advisory Council on Teachers' Education and Training.
 
 #### Functions of Advisory Council
 
-- The Advisory Council must advise the Minister on -
+5. The Advisory Council must advise the Minister on -
 
 (a) the general policy to be pursued in respect of the education and training of teachers;
 
@@ -291,23 +289,23 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Composition of Advisory Council
 
-(1) The Advisory Council comprises -
+6. (1) The Advisory Council comprises -
 
 (a) the rector of each teachers' education college;
 
-(b) the  director  of  the  Directorate:  National  Institute  for  Educational Development of the Ministry responsible for basic education;
+(b) the director of the Directorate: National Institute for Educational Development of the Ministry responsible for basic education;
 
 (c) the dean of the Faculty of Education of the University of Namibia established by section 2 of the University of Namibia Act, 1992 (Act No. 18 of 1992);
 
-(d) one  staff  member,  with  a  rank  not  lower  than  that  of  director  in  the Directorate: Higher Education of the Ministry, appointed by the Minister;
+(d) one staff member, with a rank not lower than that of director in the Directorate: Higher Education of the Ministry, appointed by the Minister;
 
-(e) one member of each recognized teachers' union appointed by the Minister from amongst the persons nominated by the union concerned;  and
+(e) one member of each recognized teachers' union appointed by the Minister from amongst the persons nominated by the union concerned; and
 
 (f) one person appointed by the Minister on account of that person's expertise, knowledge or special interest in matters related to the functions of the Advisory Council.
 
-- The Minister must, for the purposes of the appointment of members of the Advisory Council in terms of subsection (1)(e), in writing invite each recognized teachers' union to within a specified period nominate, subject to subsection (3), three of its members for appointment.
+(2) The Minister must, for the purposes of the appointment of members of the Advisory Council in terms of subsection (1)(e), in writing invite each recognized teachers' union to within a specified period nominate, subject to subsection (3), three of its members for appointment.
 
-- At least one of the members nominated by a recognized teachers' union in terms of subsection (2), must be female.
+(3) At least one of the members nominated by a recognized teachers' union in terms of subsection (2), must be female.
 
 [[END OF PAGE 5]]
 
@@ -325,7 +323,7 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 7. (1) A member of the Advisory Council appointed in terms of section 6(1)(e) or (f) holds office, subject to subsection (2), for a period of three years from the date of his or her appointment, but may be reappointed upon the expiry of his or her term of office.
 
-- A member of the Advisory Council referred to in subsection (1) vacates office if -
+(2) A member of the Advisory Council referred to in subsection (1) vacates office if -
 
 (a) he or she ceases to be a member of the teachers' union that nominated him or her for appointment;
 
@@ -339,11 +337,11 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Meetings and decisions of Advisory Council
 
-(1) The chairperson of the Advisory Council must convene the first meeting of the Advisory Council and thereafter, subject to subsection (4), meetings must be held at such times and places as the Advisory Council determines, but a meeting must be held at least every three months.
+8. (1) The chairperson of the Advisory Council must convene the first meeting of the Advisory Council and thereafter, subject to subsection (4), meetings must be held at such times and places as the Advisory Council determines, but a meeting must be held at least every three months.
 
-- At the first meeting of the Advisory Council convened under subsection (1), and thereafter as the occasion arises, the members present must elect from among their number a vice-chairperson.
+(2) At the first meeting of the Advisory Council convened under subsection (1), and thereafter as the occasion arises, the members present must elect from among their number a vice-chairperson.
 
-(3) The chairperson of the Advisory Council or, in his or her absence, the vicechairperson must preside at meetings, but if both of them are absent from, or for whatever reason unable to preside, at any meeting of the Advisory Council, the members present thereat must elect from among their number a person to preside at such meeting.
+(3) The chairperson of the Advisory Council or, in his or her absence, the vice-chairperson must preside at meetings, but if both of them are absent from, or for whatever reason unable to preside, at any meeting of the Advisory Council, the members present thereat must elect from among their number a person to preside at such meeting.
 
 (4) The chairperson of the Advisory Council may at any time, and must if so requested in writing by the Minister or at least one third of the members of the Advisory Council, convene a special meeting of the Advisory Council.
 
@@ -375,13 +373,13 @@ if the decision was taken or the act authorized by the requisite majority of the
 
 #### Allowances of members of Advisory Council and other expenses
 
-(1) The Minister must, with the concurrence of the Minister responsible for finance, determine the allowances payable from moneys appropriated by Parliament, to the members of the Advisory Council who are not in the full-time employment of the Public Service, for -
+9. (1) The Minister must, with the concurrence of the Minister responsible for finance, determine the allowances payable from moneys appropriated by Parliament, to the members of the Advisory Council who are not in the full-time employment of the Public Service, for -
 
-(a) meetings of the Advisory Council attended by any such member;  and
+(a) meetings of the Advisory Council attended by any such member; and
 
 (b) reasonable expenses incurred by any such member in connection with the performance of the functions of the Advisory Council.
 
-- Any other expenses related to the functions of the Advisory Council must be defrayed from moneys appropriated for such purpose by Parliament.
+(2) Any other expenses related to the functions of the Advisory Council must be defrayed from moneys appropriated for such purpose by Parliament.
 
 #### Secretariat to Advisory Council
 
@@ -393,7 +391,7 @@ if the decision was taken or the act authorized by the requisite majority of the
 
 #### Accommodation and other facilities
 
-- The Ministry must facilitate the acquisition of the accommodation and other facilities required by the Advisory Council or the Secretariat for the performance of any work related to the functions of any such body.
+11. The Ministry must facilitate the acquisition of the accommodation and other facilities required by the Advisory Council or the Secretariat for the performance of any work related to the functions of any such body.
 
 [[END OF PAGE 7]]
 
@@ -412,29 +410,29 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Establishment of teachers' education colleges
 
-(1) The Minister may, on recommendation of the NCHE and after consultation with the Advisory Council from moneys appropriated by Parliament for the purpose, establish and maintain teachers' education colleges and hostels for such colleges.
+12. (1) The Minister may, on recommendation of the NCHE and after consultation with the Advisory Council from moneys appropriated by Parliament for the purpose, establish and maintain teachers' education colleges and hostels for such colleges.
 
-- The Minister must give notice in the Gazette of the establishment of any teachers' education college and hostel for such college.
+(2) The Minister must give notice in the Gazette of the establishment of any teachers' education college and hostel for such college.
 
 #### Closure of teachers' education colleges
 
-(1) The Minister may, permanently or temporarily, close a teachers' education college and hostel established for such college.
+13. (1) The Minister may, permanently or temporarily, close a teachers' education college and hostel established for such college.
 
-- The Minister may only act under subsection (1) after having -
+(2) The Minister may only act under subsection (1) after having -
 
 (a) consulted the NCHE, the Advisory Council, and the board of the teachers' education college in question;
 
-(b) (i) made  known,  by  notice in  the Gazette and    by    means    of announcement in such other public media as the Minister considers appropriate, the reasons for the proposed closure;  and
+(b) (i) made known, by notice in the Gazette and by means of announcement in such other public media as the Minister considers appropriate, the reasons for the proposed closure; and
 
-(ii) invited,  in  a  similar  manner,  interested  persons  to  make representations, within a specified period, in respect of the proposed closure;  and
+(ii) invited, in a similar manner, interested persons to make representations, within a specified period, in respect of the proposed closure; and
 
 (c) considered any representations made in terms of paragraph (b)(ii).
 
-- As soon as practicable after the closure of a teachers' education college under subsection (1), the Minister must make known, by notice in the Gazette and by means of announcement in such other public media as the Minister considers appropriate, the closure of that college and, if applicable, the period during which no courses of instruction are to be provided at that college.
+(3) As soon as practicable after the closure of a teachers' education college under subsection (1), the Minister must make known, by notice in the Gazette and by means of announcement in such other public media as the Minister considers appropriate, the closure of that college and, if applicable, the period during which no courses of instruction are to be provided at that college.
 
-- If the Minister is, after consultation with the board of a teachers' education college, of the opinion that an emergency situation exists that involves the safety of persons or property, the Minister may dispense with the requirements of subsection (2) and forthwith close a teachers' education college and hostel as contemplated in subsection (1).
+(4) If the Minister is, after consultation with the board of a teachers' education college, of the opinion that an emergency situation exists that involves the safety of persons or property, the Minister may dispense with the requirements of subsection (2) and forthwith close a teachers' education college and hostel as contemplated in subsection (1).
 
-- Upon the permanent closure of a teachers' education college under this section the Teachers' Education and Training Fund of that college is disestablished and the assets, rights, liabilities and obligations of the Fund vest in the State.
+(5) Upon the permanent closure of a teachers' education college under this section the Teachers' Education and Training Fund of that college is disestablished and the assets, rights, liabilities and obligations of the Fund vest in the State.
 
 ### Part 2
 
@@ -442,9 +440,9 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Determination of admission and other requirements and standards
 
-(1) The Minister must, after consultation with the Advisory Council -
+14. (1) The Minister must, after consultation with the Advisory Council -
 
-(a) approve the courses of study, including the curricula of such courses, under which education and training are to be provided by teachers' education colleges  and in respect of such courses determine -
+(a) approve the courses of study, including the curricula of such courses, under which education and training are to be provided by teachers' education colleges and in respect of such courses determine -
 
 [[END OF PAGE 8]]
 
@@ -476,7 +474,7 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Institutional structure
 
-- A teachers' education college established under section 12 must have -
+15. A teachers' education college established under section 12 must have -
 
 (a) a rector;
 
@@ -516,15 +514,15 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 (2) The vice-rector of a teachers' education college must act as the rector of the college when the post of rector is vacant or the rector is absent or for any other reason unable to perform his or her functions as rector.
 
-- A vice-rector must perform such other functions as may be assigned to the vice-rector under section 41(2) or (3).
+(3) A vice-rector must perform such other functions as may be assigned to the vice-rector under section 41(2) or (3).
 
 #### Registrar
 
 18. (1) The Minister must, subject to the Public Service Act, appoint a person as the registrar of a teachers' education college.
 
-- The registrar of a teachers' education college must act as secretary of the board of the college and of a committee of the board, but if the office of the registrar is vacant or if he or she is absent or for any other reason unable to act as secretary of the board or of a committee of the board, the rector may designate any other staff member of the college to so act during the vacancy, absence or incapacity.
+(2) The registrar of a teachers' education college must act as secretary of the board of the college and of a committee of the board, but if the office of the registrar is vacant or if he or she is absent or for any other reason unable to act as secretary of the board or of a committee of the board, the rector may designate any other staff member of the college to so act during the vacancy, absence or incapacity.
 
-- A registrar must perform such other functions as may be assigned to the registrar under section 41(2) or (3).
+(3) A registrar must perform such other functions as may be assigned to the registrar under section 41(2) or (3).
 
 #### Board of teachers' education college
 
@@ -534,17 +532,17 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 (b) the vice-rector of the college;
 
-(c) the registrar of the college;  and
+(c) the registrar of the college; and
 
-(d) the heads of  the teaching units of the college.
+(d) the heads of the teaching units of the college.
 
-- Upon the recognition of a students' representative council in terms of section 25, the students' representative council must elect one of its members to serve as a member of the board, and thereupon the board consists of the members referred to in subsection (1) and such member.
+(2) Upon the recognition of a students' representative council in terms of section 25, the students' representative council must elect one of its members to serve as a member of the board, and thereupon the board consists of the members referred to in subsection (1) and such member.
 
-- From a date determined by the Minister the board of a teachers' education college consists, in addition to the members referred to in subsections (1) and (2), of two members of the community appointed by the Minister from amongst the members of the community nominated by the staff and students of that college.
+(3) From a date determined by the Minister the board of a teachers' education college consists, in addition to the members referred to in subsections (1) and (2), of two members of the community appointed by the Minister from amongst the members of the community nominated by the staff and students of that college.
 
-- The Minister must, for the purposes of the appointment of members of the board in terms of subsection (3), in writing request the rector of a teachers' education college to within a specified period convene a meeting of the staff and students of that college to by majority vote nominate, subject to subsection (5), four members of the community for appointment.
+(4) The Minister must, for the purposes of the appointment of members of the board in terms of subsection (3), in writing request the rector of a teachers' education college to within a specified period convene a meeting of the staff and students of that college to by majority vote nominate, subject to subsection (5), four members of the community for appointment.
 
-- At least two of the members nominated by the staff and students of a teachers' education college in terms of subsection (4), must be female.
+(5) At least two of the members nominated by the staff and students of a teachers' education college in terms of subsection (4), must be female.
 
 [[END OF PAGE 10]]
 
@@ -576,7 +574,7 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 21. (1) Subject to subsection (2), a member of the board referred to in section 19(2) or (3), holds office for a period of one year from the date of his or her election or appointment, but may be re-elected or reappointed upon the expiry of his or her term of office.
 
-- A member of the board referred to in subsection (1) vacates office if he or she -
+(2) A member of the board referred to in subsection (1) vacates office if he or she -
 
 (a) ceases to be a member of the students' representative council that elected him or her to serve as a member of the board;
 
@@ -626,7 +624,7 @@ if the decision was taken or the act authorized by the requisite majority of the
 
 23. (1) The board of a teachers' education college may establish one or more committees to advise the board on such matters as the board may refer to any such committee or to perform such functions of the board as it assign to a committee under section 41(2).
 
-- Any committee established under subsection (1) may consist of such -
+(2) Any committee established under subsection (1) may consist of such -
 
 (a) members of the board as it may designate;  or
 
@@ -672,7 +670,7 @@ recognize that body as the students' representative council of the college in qu
 
 #### Departments and other academic units
 
-(1) The board of a teachers' education college may  -
+27. (1) The board of a teachers' education college may -
 
 (a) establish,  with  the  concurrence  of  the  Minister,  departments  or  other academic units for that college;  and
 
@@ -690,45 +688,45 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Institution of courses of study
 
-(1) A teachers' education college must institute the courses of study approved by the Minister in terms of section 14.
+28. (1) A teachers' education college must institute the courses of study approved by the Minister in terms of section 14.
 
-- The courses of study instituted in terms of subsection (1) must conform to the minimum requirements and standards determined by the Minister in terms of section 14.
+(2) The courses of study instituted in terms of subsection (1) must conform to the minimum requirements and standards determined by the Minister in terms of section 14.
 
 #### Medium of instruction
 
-- The English language must be used as medium of instruction at all teachers' education colleges, except in the instruction of any other language as a subject at teachers' education colleges in which event that other language may be used as medium of instruction.
+29. The English language must be used as medium of instruction at all teachers' education colleges, except in the instruction of any other language as a subject at teachers' education colleges in which event that other language may be used as medium of instruction.
 
 #### Examinations, diplomas and certificates
 
-(1) A teachers' education college must with regard to the courses of study instituted in terms of section 28 -
+30. (1) A teachers' education college must with regard to the courses of study instituted in terms of section 28 -
 
-(a) conduct the examinations and other forms of assessment required to be conducted in terms of section 14  in respect of  such courses;  and
+(a) conduct the examinations and other forms of assessment required to be conducted in terms of section 14 in respect of such courses; and
 
-(b) award diplomas or certificates to students who have satisfied the minimum requirements and standards determined in terms of section 14  in respect of such courses.
+(b) award diplomas or certificates to students who have satisfied the minimum requirements and standards determined in terms of section 14 in respect of such courses.
 
-- No teachers' education college may issue or award diplomas or certificates regarding any education or training provided by it, except in accordance with this Act.
+(2) No teachers' education college may issue or award diplomas or certificates regarding any education or training provided by it, except in accordance with this Act.
 
 #### Admission and registration of students
 
-(1) A teachers' education college must on receipt of an application  by a person who has satisfied the admission and other requirements determined in terms of this Act in respect of a particular course of study-
+31. (1) A teachers' education college must on receipt of an application by a person who has satisfied the admission and other requirements determined in terms of this Act in respect of a particular course of study-
 
-(a) register such person as a student for that course of study at the teachers' education college;  or
+(a) register such person as a student for that course of study at the teachers' education college; or
 
 (b) renew his or her registration as such a student.
 
-- If a person fails to satisfy or comply, or to remain in compliance, with the requirements referred to in subsection (1), the teachers' education college may -
+(2) If a person fails to satisfy or comply, or to remain in compliance, with the requirements referred to in subsection (1), the teachers' education college may -
 
 (a) refuse to register such person, or to renew his or her registration, as a student of that college; or
 
 (b) cancel such person's registration as such a student.
 
-- A teachers' education college must make the admission policy that applies to that college available on request.
+(3) A teachers' education college must make the admission policy that applies to that college available on request.
 
 #### Tuition, boarding and other fees
 
-- A student at a teachers' education college -
+32. A student at a teachers' education college -
 
-(a) to whom education and training is provided at such college, must pay such tuition and other fees to that college as the Minister may determine;  and
+(a) to whom education and training is provided at such college, must pay such tuition and other fees to that college as the Minister may determine; and
 
 [[END OF PAGE 14]]
 
@@ -742,19 +740,19 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Disciplinary measures
 
-- A student at a teachers' education college or a boarder accommodated in a hostel of that college is subject to such code of conduct and disciplinary measures and procedures as the board of the college may by rule prescribe.
+33. A student at a teachers' education college or a boarder accommodated in a hostel of that college is subject to such code of conduct and disciplinary measures and procedures as the board of the college may by rule prescribe.
 
 #### Rules by board
 
 34. (1) The board of a teachers' education college may make rules, not inconsistent with any regulation or directive made or issued under this Act, in relation to -
 
-(a) any matter permitted to be prescribed in terms of section 33;  or
+(a) any matter permitted to be prescribed in terms of section 33; or
 
 (b) any other matter which the board considers necessary or expedient to prescribe for the effective day-to-day management of the college.
 
 (2) No rule made in relation to any matter referred to in section 33, or any amendment of such rule, is of force unless and until it has been approved by the Minister.
 
-(a) The Minister may by notice in the Gazette make standard rules in relation to any matter referred to in subsection (1).
+(3) (a) The Minister may by notice in the Gazette make standard rules in relation to any matter referred to in subsection (1).
 
 (b) Until the board of a teachers' education college makes rules under subsection (1), the standard rules made under paragraph (a) of this subsection applies to that college.
 
@@ -791,7 +789,7 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 (3) No expenses may be incurred as a charge against a Teachers' Education and Training Fund except in accordance with the estimate of revenue and expenditure referred to in subsection (1).
 
-- The rector of a teachers' education college -
+(4) The rector of a teachers' education college -
 
 (a) must open and maintain a current account with a banking institution authorized to do business under the Banking Institutions Act, 1998 (Act No. 2 of 1998), into which must be deposited all moneys accruing to the college;
 
@@ -811,7 +809,7 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 37. (1) The rector of a teachers' education college is the accounting officer of the Teachers' Education and Training Fund of the college and must keep or cause to be kept in accordance with generally accepted accounting principles such financial accounts and statements as are necessary to accurately reflect the transactions and financial position of the fund.
 
-- The accounting officer of a Teachers' Education and Training Fund must -
+(2) The accounting officer of a Teachers' Education and Training Fund must -
 
 (a) not later than four months after the end of a financial year, submit to the Auditor-General for his or her examination, auditing and audit report the financial accounts and statements of the fund in respect of that financial year;  and
 
@@ -853,7 +851,7 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 (3) The Minister may at any time dissolve or reconstitute any committee so established.
 
-- Any member of a committee may for the purposes of subsection (1) -
+(4) Any member of a committee may for the purposes of subsection (1) -
 
 (a) at any reasonable time and without prior notice enter any teachers' education college or hostel;
 
@@ -896,11 +894,11 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Offences and penalties
 
-(1) A person commits an offence, if that person -
+40. (1) A person commits an offence, if that person -
 
 (a) without the authority of a teachers' education college -
 
-(i) awards a diploma or certificate purporting to be a diploma or certificate awarded by a teachers' education college;  or
+(i) awards a diploma or certificate purporting to be a diploma or certificate awarded by a teachers' education college; or
 
 (ii) performs any other act which purports to have been done by or on behalf of a teachers' education college;
 
@@ -908,21 +906,21 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 (c) issues and awards a diploma or certificate contrary to section 30;
 
-(d) obstructs, hinders, handicaps or disturbs any member of a committee  in carrying out an investigation or monitoring in terms of section 38;
+(d) obstructs, hinders, handicaps or disturbs any member of a committee in carrying out an investigation or monitoring in terms of section 38;
 
-(e) refuses or fails to allow any member of a committee to enter any premises for  purposes  of  carrying  out  an  investigation  or  performing  monitoring functions in terms of section 38;
+(e) refuses or fails to allow any member of a committee to enter any premises for purposes of carrying out an investigation or performing monitoring functions in terms of section 38;
 
 (f) refuses or fails, without reasonable excuse, to produce any material, book or document, or to furnish any information in accordance with any directive referred to in section 38;
 
-(g) refuses or fails, without reasonable excuse, to properly answer any question put to him or her under section 38, or knowingly gives an answer which is false or incorrect in a material respect;  or
+(g) refuses or fails, without reasonable excuse, to properly answer any question put to him or her under section 38, or knowingly gives an answer which is false or incorrect in a material respect; or
 
 (h) contravenes section 42.
 
-- Any person convicted of an offence -
+(2) Any person convicted of an offence -
 
-(a) in terms of subsection (1)(a), is liable to a penalty not exceeding a fine of N$20 000 or a period of five years imprisonment, or to both such fine and such imprisonment;  or
+(a) in terms of subsection (1)(a), is liable to a penalty not exceeding a fine of N$20 000 or a period of five years imprisonment, or to both such fine and such imprisonment; or
 
-(b) in  terms  of  subsection  (1)(b)  to  (h),  inclusive,  is  liable  to  a  penalty  not exceeding a fine of N$8 000 or a  period of two years imprisonment, or to both such fine and such imprisonment.
+(b) in terms of subsection (1)(b) to (h), inclusive, is liable to a penalty not exceeding a fine of N$8 000 or a period of two years imprisonment, or to both such fine and such imprisonment.
 
 #### Assignment of functions
 
@@ -964,7 +962,7 @@ TEACHERS' EDUCATION COLLEGES ACT, 2003
 
 #### Regulations
 
-(1) The Minister may make regulations in relation to -
+44. (1) The Minister may make regulations in relation to -
 
 (a) the management and control of teachers' education colleges and hostels, inclusive of the keeping of records by such colleges and hostels;
 
