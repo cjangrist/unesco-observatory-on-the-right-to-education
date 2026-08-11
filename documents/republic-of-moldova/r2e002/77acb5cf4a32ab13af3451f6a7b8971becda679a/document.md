@@ -48,19 +48,147 @@ Article 38. Right to Vote and Right to Stand for Election
 
 [[START OF PAGE 2]]
 
+Article 39. Right of Take Part in Administration
+Article 40. Freedom of Assembly
+Article 41. Freedom of Parties and Other Socio-Political Organisations
+Article 42. Right to Establish and Join Trade-Unions
+Article 43. Right to Work and Labour Protection
+Article 44. Prohibition of Forced Labour
+Article 45. Right to Strike
+Article 46. Right to Private Property and Its Protection
+Article 47. Right to Social Assistance and Protection
+Article 48. Family
+Article 49. Protection of Family and Orphaned Children
+Article 50. Protection of the Mother, of Children and Young People
+Article 51. Protection of Disabled Persons
+Article 52. Right to Lodge Petitions
+Article 53. Right of the Person Prejudiced by a Public Authority
+Article 54. Restrictions on the Exercise of Certain Rights or Freedoms
+#### CHAPTER III. FUNDAMENTAL DUTIES
+Article 55. Exercise of Rights and Freedoms
+Article 56. Faithfulness to the Country
+Article 57. Defence of Motherland
+Article 58. Financial Contributions
+Article 59. Protection of the Environment and Monuments
+### Title III. Public Authorities
+#### CHAPTER IV. PARLIAMENT
+##### First Section. Organisation and Functioning
+Article 60. Parliament – the Supreme Representative and Legislative Authority
+Article 61. Parliament Elections
+Article 62. Validation of Mandate of the Member of Parliament
+Article 63. Term of Office
+Article 64. Internal Organisation
+Article 65. Openness of Sessions
+Article 66. Basic Powers
+Article 67. Parliament Sessions
+##### Second Section. Status of the Members of Parliament
+Article 68. Representative Mandate
+Article 69. Mandate of the Members of Parliament
+Article 70. Incompatibilities and Immunities
+Article 71. Independence of Opinion
+##### Third Section. Legislation
+Article 72. Categories of Laws
+Article 73. Legislative Initiative
+Article 74. Passing of Laws and Decisions
+Article 75. Referendum
+Article 76. Coming into Effect of the Law
 #### CHAPTER V. PRESIDENT OF THE REPUBLIC OF MOLDOVA
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+Article 77. President of the Republic of Moldova -Head of the State
+Article 78. Election of the President
+Article 79. Validation of the Mandate and Taking the Oath
+Article 80. Term of Office
+Article 81. Incompatibilities and Immunities
+Article 84. Messages
+Article 85. Dissolution of Parliament
+Article 86. Powers in the field of Foreign Policy
+Article 87. Powers in the Field of National Defence
+Article 88. Other Powers
+Article 89. Removal
+Article 90. Vacancy of Office
+Article 91. Interim Office
+Article 92. Responsibility of the Interim President
+Article 93. Promulgation of Laws
+Article 94. Acts of the President
+Article 95. Financial Resources of the Staff of the President, Indemnity and Other Rights
+#### CHAPTER VI. GOVERNMENT
+Article 96. Role of the Government
+Article 97. Structure
+Article 98. Investiture
+Article 99. Incompatibilities
+Article 100. Termination of Office of the Member of Government
+Article 101. The Prime Minister
+Article 102. Acts of the Government
+Article 103. Termination of Office
+#### CHAPTER VII. RELATIONSHIP BETWEEN PARLIAMENT AND GOVERNMENT
+Article 104. Informing the Parliament
+Article 105. Questions and Interpellations
+Article 106. Vote of No Confidence
+Article 1061. Assumption of Responsibility by the Government
+Article 1062. Legislative Delegation
+#### CHAPTER VIII. PUBLIC ADMINISTRATION
+Article 107. Specialized Central Public Administration
+Article 108. Armed forces
+Article 109. Basic Principles of Local Public Administration
+Article 110. Administrative-Territorial Organisation
+Article 111. Autonomous Territorial -Unit of Găgăuzia
+Article 112. Village and Town Authorities
+Article 113. District Council
+#### CHAPTER IX. JUDICIARY
+##### First Section. Courts of Law
+Article 114. Administration of Justice
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+Article 115. Courts of Law
+Article 116. Status of Judges
+Article 117. Openness of Legal Proceedings
+Article 118. Language of the Legal Proceedings and Right to an Interpreter
+Article 119. Ways of Appeal
+Article 120. Mandatory Nature of Sentences and Other Final Legal Rulings
+Article 121. Budget of the Courts of Law, Indemnity and Other Rights
+##### Second Section. Superior Council of Magistracy
+Article 122. Structure
+Article 123. Powers
+##### Third Section. Public Prosecution
+Article 124. Powers and Structure
+Article 125. Mandate of Public Prosecutors
+### Title IV. National Economy and Public Finance
+Article 126. Economy
+Article 127. Property
+Article 128. Property of Foreign Citizens and Stateless Persons
+Article 129. External Economic Activity
+Article 130. Financial and Crediting System
+Article 131. National Public Budget
+Article 132. Fiscal System
+Article 133. Court of Audit
+### Title V. Constitutional Court
+Article 134. Statute
+Article 135. Powers
+Article 136. Structure
+Article 137. Independence
+Article 138. Qualifications for Appointment
+Article 139. Incompatibilities
+Article 140. Judgments of the Constitutional Court
+### Title VI. Revision of the Constitution
+Article 141. Initiatives for Revision
+Article 142. Limits of Revision
+Article 143. The Law Amending the Constitution
+### Title VII. Final and Transitory Provisions
+Article I
+Article II
+Article III
+Article IV
+Article V
+Article VI
+Article VII
+Article VIII
 
 [[END OF PAGE 4]]
 
@@ -127,7 +255,7 @@ We herewith adopt this Constitution of the Republic of Moldova, and declare it a
 
 The legislative, the executive and the judicial powers are separate and cooperate in  the  exercise  of  the  assigned  prerogatives  pursuant  to  the  provisions  of  the Constitution.
 
-##### Article 7 the Supreme Law Constitution -
+##### Article 7 Constitution -the Supreme Law
 
 The  Constitution  of  the  Republic  of  Moldova  shall  be  the  Supreme  Law  of  the State.  No  law  or  other  legal  act  which  contravenes  the  provisions  of  the Constitution shall have legal force.
 
@@ -155,9 +283,7 @@ The  Constitution  of  the  Republic  of  Moldova  shall  be  the  Supreme  Law 
 
 - The  State  recognises  and  guarantees  all  its  citizens the right to the preservation, development and expression of their ethnic, cultural, linguistic and religious identity.
 
-a Neutral State
-
-##### Article 11 The Republic of Moldova -
+##### Article 11 The Republic of Moldova -a Neutral State
 
 - The Republic of Moldova proclaims its permanent neutrality.
 
@@ -187,7 +313,7 @@ a Neutral State
 
 ##### Article 14 The Capital
 
-The capital of the Republic of Moldova is the city of Chi ș inău.
+The capital of the Republic of Moldova is the city of Chișinău.
 
 [[END OF PAGE 7]]
 
@@ -247,7 +373,7 @@ All  citizens  of  the  Republic  of  Moldova  shall  enjoy  the  rights  and  f
 
 Any person accused to have committed an offence shall be presumed innocent until found guilty on legal grounds, brought forward in a public trial, safeguarding all the necessary guarantees for his/her defence.
 
-##### Article 22 Non -Retroactivity of the Law
+##### Article 22 Non-Retroactivity of the Law
 
 No one shall be sentenced for actions or drawbacks which did not constitute an offence at the time they were committed. No punishment more severe than that applicable at the time when the offence was committed shall be imposed.
 
@@ -275,7 +401,7 @@ No one shall be sentenced for actions or drawbacks which did not constitute an o
 
 [[START OF PAGE 10]]
 
-(l) Individual freedom and security of person are inviolable.
+(1) Individual freedom and security of person are inviolable.
 
 - Searching, detaining in custody or arresting a person shall be permitted only in cases and pursuant to the procedure established by the law.
 
@@ -293,7 +419,7 @@ No one shall be sentenced for actions or drawbacks which did not constitute an o
 
 ##### Article 26 Right to Defence
 
-(l) The right to defence is guaranteed.
+(1) The right to defence is guaranteed.
 
 - Everyone shall be entitled to respond independently by appropriate legitimate means to an infringement of his/her rights and freedoms.
 
@@ -443,7 +569,7 @@ The State shall respect and protect the private and family life.
 
 Meetings, demonstrations, manifestations, processions or any other assembly are free and may be organised and conducted only peacefully and without the use of any kind of weapon.
 
-##### Article 41 Freedom of Parties and Other Socio -Political Organisations
+##### Article 41 Freedom of Parties and Other Socio-Political Organisations
 
 - All citizens are free to associate in parties and other socio-political organizations. These organisations shall contribute to the definition and expression  of  the  political  will  of  citizens  and  take  part  in  the  election  process, according to the law.
 
@@ -625,7 +751,7 @@ The  protection  of  environment  and  the  preservation  of  historical  and  c
 
 #### First Section ORGANISATION AND FUNCTIONING
 
-##### Article 60 Parliament - the Supreme Representative and Legislative Authority
+##### Article 60 Parliament – the Supreme Representative and Legislative Authority
 
 [[END OF PAGE 17]]
 
@@ -1035,7 +1161,7 @@ Should the person acting as interim President of the Republic of Moldova commit 
 
 ##### Article 97 Structure
 
-The Government consists of a Prime-Minister, a first Vice-Prime-Minister, VicePrime-Ministers, ministers and other members, as determined by organic law.
+The Government consists of a Prime-Minister, a first Vice-Prime-Minister, Vice-Prime-Ministers, ministers and other members, as determined by organic law.
 
 ##### Article 98 Investiture
 
@@ -1059,7 +1185,7 @@ The Government consists of a Prime-Minister, a first Vice-Prime-Minister, VicePr
 
 - The Government shall enter into the exercise of its powers on the very day of taking the oath by its members before the President of the Republic of Moldova.
 
-- In the event of the governmental reshuffle or vacancy of office, the President of the Republic of Moldova shall revoke and appoint, upon the proposal of the PrimeMinister, some members of the Government.
+- In the event of the governmental reshuffle or vacancy of office, the President of the Republic of Moldova shall revoke and appoint, upon the proposal of the Prime-Minister, some members of the Government.
 
 [Art. 98 para.(6) introduced by the Law no.1115-XIV of 05.07.00, MO no. 88-90/28.07.00, art.661]
 
@@ -1079,7 +1205,7 @@ The office of the member of Government shall cease in the event of resignation, 
 
 - The Prime-Minister exercises the leadership of the Government and coordinates the activity of its members, abiding by the powers delegated to them. [Art.101 para. (1) modified by the Law no.1115-XIV of 05.07.00, MO no. 88-90/28.07.00, art.661]
 
-- In  case  of  impossibility  of  the  Prime-Minister  to  exercise  his/her  functional duties or in case of his/her death, the President of the Republic of Moldova shall designate another member of the Government to fulfil the interim office of PrimeMinister  until  the  formation  of  the  new  Government.The  interim  office  for  the period of impossibility to perform functional duties shall cease whether the Prime Minister resumes his/her activity within the Government.
+- In  case  of  impossibility  of  the  Prime-Minister  to  exercise  his/her  functional duties or in case of his/her death, the President of the Republic of Moldova shall designate another member of the Government to fulfil the interim office of Prime-Minister  until  the  formation  of  the  new  Government.The  interim  office  for  the period of impossibility to perform functional duties shall cease whether the Prime Minister resumes his/her activity within the Government.
 
 [Art.101 para. (2) modified by the Law no.1115-XIV of 05.07.00, MO no. 88-90/28.07.00, art.661]
 
@@ -1191,7 +1317,7 @@ The office of the member of Government shall cease in the event of resignation, 
 
 - Places on the left bank of the Dniester River may be assigned special forms and conditions of autonomy, according to the special statutory provisions adopted by organic law.
 
-- The status of the capital of the Republic of Moldova, the city of Chi ș inău, is regulated by organic law.
+- The status of the capital of the Republic of Moldova, the city of Chișinău, is regulated by organic law.
 
 [Art.110 amended by the Law no. 344-XV of 25.07.03, MO nr.170-172/08.08.03, art.721]
 
@@ -1467,7 +1593,7 @@ It  is  mandatory  to  abide  by  the  sentences  and  other  final  rulings  de
 
 - exercises, upon appeal, the review of constitutionality over laws and decisions of  the  Parliament,  decrees  of  the  President,  decisions  and  ordinances  of  the Government,  as  well  as  over  international  treaties  to  which  the  Republic  of Moldova is a party;
 
-[Art.  135,  para.  (1)  section  a)  modified  by  the  Law  no.1115-  XIV  of  05.07.00,  MO  no.  8890/28.07.00, art.661]
+[Art.  135,  para.  (1)  section  a)  modified  by  the  Law  no.1115-  XIV  of  05.07.00,  MO  no.  88-90/28.07.00, art.661]
 
 - gives the interpretation of the Constitution;
 
@@ -1483,7 +1609,7 @@ It  is  mandatory  to  abide  by  the  sentences  and  other  final  rulings  de
 
 - ascertains the circumstances justifying the dissolution of the Parliament, the removal of the President of the Republic of Moldova or the interim office of the President, as well as the impossibility of the President of the Republic of Moldova to fully exercise his/her functional duties for more than 60 days;
 
-[Art. 135, para.(1) section f) amended by the Law no.1115- XIV of 05.07.00, MO no. 8890/28.07.00, art.661]
+[Art. 135, para.(1) section f) amended by the Law no.1115- XIV of 05.07.00, MO no. 88-90/28.07.00, art.661]
 
 - solves the pleas of unconstitutionality of legal acts, as claimed by the Supreme Court of Justice;
 
@@ -1537,7 +1663,7 @@ The position of judge of the Constitutional Court is incompatible with holding o
 
 - the Government.
 
-[Art. 141 para. (1) section c) excluded by the Law no.1115- XIV of 05.07.00, MO no. 8890/28.07.00, art.661; section d) became section c)]
+[Art. 141 para. (1) section c) excluded by the Law no.1115- XIV of 05.07.00, MO no. 88-90/28.07.00, art.661; section d) became section c)]
 
 - Draft Constitutional laws shall be submitted to Parliament only alongside with the advisory opinion of the Constitutional Court adopted by a vote of at least 4 judges.
 
@@ -1561,7 +1687,7 @@ The position of judge of the Constitutional Court is incompatible with holding o
 
 - This Constitution is adopted by the Parliament and shall be promulgated by the President of the Republic of Moldova within 3 days.
 
-- The  comes into effect on 27 August 1994. On the same date, the  of 15 April 1978, with its subsequent amendments and supplements shall be fully repealed.
+- The Constitution comes into effect on 27 August 1994. On the same date, the Constitution of 15 April 1978, with its subsequent amendments and supplements shall be fully repealed.
 
 ##### Article II
 
