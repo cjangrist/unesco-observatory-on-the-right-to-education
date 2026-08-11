@@ -10,17 +10,17 @@ INDICE LEGISLATIVO
 
 ═══════════════════════════════════════════════════════════
 
-# DECRETO N ° 554.-
+# DECRETO N° 554.-
 
 LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR,
 
 ## CONSIDERANDO:
 
-- I.Que  nuestro  país  cuenta  con  una  población  laboral  particularmente  hábil  y competente, que constituye su mayor riqueza, cuyo aporte a la comunidad será más efectivo en tanto más elevado sea su nivel de calificación profesional;
+- I.- Que nuestro país cuenta con una población laboral particularmente hábil y competente, que constituye su mayor riqueza, cuyo aporte a la comunidad será más efectivo en tanto más elevado sea su nivel de calificación profesional;
 
-- II.Que la formación profesional, en sus diferentes modalidades, constituye un medio adecuado para contribuir al desarrollo económico y social del país, al favorecer la promoción  humana  del  trabajador,  elevando  sus  niveles  de  capacitación  y calificación profesional, y contribuir al aumento de la producción y competitividad de las empresas;
+- II.- Que la formación profesional, en sus diferentes modalidades, constituye un medio adecuado para contribuir al desarrollo económico y social del país, al favorecer la promoción humana del trabajador, elevando sus niveles de capacitación y calificación profesional, y contribuir al aumento de la producción y competitividad de las empresas;
 
-- III.Que de acuerdo con el artículo 40 de la Constitución es obligación del Estado legislar sobre los alcances, extensión y forma en que debe ser puesto en vigor el sistema de formación profesional, establecido en dicha norma primaria, que es de imperativo cumplimiento;
+- III.- Que de acuerdo con el artículo 40 de la Constitución es obligación del Estado legislar sobre los alcances, extensión y forma en que debe ser puesto en vigor el sistema de formación profesional, establecido en dicha norma primaria, que es de imperativo cumplimiento;
 
 ## POR TANTO,
 
@@ -88,11 +88,11 @@ El Ministerio de Trabajo y Previsión Social será la unidad primaria del Instit
 ### Art. 6.-
 El INSAFORP tendrá las atribuciones siguientes:
 
-- Elaborar y revisar periódicamente la política nacional de formación profesional, precisando objetivos y metas de mediano y largo plazo;
+- a) Elaborar y revisar periódicamente la política nacional de formación profesional, precisando objetivos y metas de mediano y largo plazo;
 
-- Organizar, desarrollar y coordinar el sistema de formación profesional;
+- b) Organizar, desarrollar y coordinar el sistema de formación profesional;
 
-- Realizar  investigaciones  para  determinar  necesidades  cuantitativas  y  cualitativas  de recursos humanos calificados para los diferentes sectores económicos, ramas y grupos
+- c) Realizar investigaciones para determinar necesidades cuantitativas y cualitativas de recursos humanos calificados para los diferentes sectores económicos, ramas y grupos
 
 ═══════════════════════════════════════════════════════════
 
@@ -118,27 +118,27 @@ INDICE LEGISLATIVO
 
 ocupacionales, y planificar las acciones subsecuentes;
 
-- Dictar normas y evaluar y aprobar los programas de formación profesional, tanto en el ámbito publico como en el privado;
+- d) Dictar normas y evaluar y aprobar los programas de formación profesional, tanto en el ámbito publico como en el privado;
 
-- Otorgar  y  autorizar  certificación  ocupacional  a  las  personas  capacitadas  dentro  del sistema, con base en normas y procedimientos previamente definidos;
+- e) Otorgar y autorizar certificación ocupacional a las personas capacitadas dentro del sistema, con base en normas y procedimientos previamente definidos;
 
-- Brindar  apoyo  técnico  a  las  instituciones  dedicadas  a  la  formación  profesional, especialmente en la preparación técnica y pedagógica de instructores, certificando el nivel docente de los mismos;
+- f) Brindar apoyo técnico a las instituciones dedicadas a la formación profesional, especialmente en la preparación técnica y pedagógica de instructores, certificando el nivel docente de los mismos;
 
-- Coordinar y promover la acción formativa con otras instituciones publicas y privadas dedicadas al desarrollo educativo, científico y tecnológico;
+- g) Coordinar y promover la acción formativa con otras instituciones publicas y privadas dedicadas al desarrollo educativo, científico y tecnológico;
 
-- Impartir directamente cursos y desarrollar acciones de formación profesional en áreas de interés prioritarias para el desarrollo del país;
+- h) Impartir directamente cursos y desarrollar acciones de formación profesional en áreas de interés prioritarias para el desarrollo del país;
 
-- Diseñar programas globales o especializados de formación profesional enfocados a los requerimientos de las empresas, que se integren o coordinen con la asistencia técnica y financiera brindada por otras instituciones;
+- i) Diseñar programas globales o especializados de formación profesional enfocados a los requerimientos de las empresas, que se integren o coordinen con la asistencia técnica y financiera brindada por otras instituciones;
 
-- Formular el proyecto normativo para la complementación y cooperación entre los sistemas de educación formal y no formal, incluyendo criterios para establecer mecanismos de coordinación;
+- j) Formular el proyecto normativo para la complementación y cooperación entre los sistemas de educación formal y no formal, incluyendo criterios para establecer mecanismos de coordinación;
 
-- Identificar las necesidades de cooperación técnica y financiera en materia de formación profesional y coordinar su utilización
+- k) Identificar las necesidades de cooperación técnica y financiera en materia de formación profesional y coordinar su utilización
 
-- Formular  el  proyecto  normativo  para  regular  y  desarrollar  el  aprendizaje,  como  una modalidad de la formación profesional;
+- l) Formular el proyecto normativo para regular y desarrollar el aprendizaje, como una modalidad de la formación profesional;
 
-- Normar y coordinar la vinculación entre la formación profesional institucionalizada y la práctica en las empresas;
+- m) Normar y coordinar la vinculación entre la formación profesional institucionalizada y la práctica en las empresas;
 
-- Analizar las recomendaciones, resoluciones y convenios de la Organización Internacional del Trabajo y otros organismos internacionales en materia de formación profesional y gestionar su aplicación o ratificación cuando fuere aprobado;
+- n) Analizar las recomendaciones, resoluciones y convenios de la Organización Internacional del Trabajo y otros organismos internacionales en materia de formación profesional y gestionar su aplicación o ratificación cuando fuere aprobado;
 
 - ñ) Las demás que se le asignen en otras leyes.
 
@@ -169,18 +169,18 @@ INDICE LEGISLATIVO
 ### Art. 7.-
 La dirección y Administración del INSAFORP estará a cargo de los siguientes organismos:
 
-- a.El Consejo Directivo
+- a.- El Consejo Directivo
 
-- b.La Dirección Ejecutiva
+- b.- La Dirección Ejecutiva
 
 ### Art. 8.-
 El Consejo Directivo tendrá una estructura tripartita, formada por los sectores: gobierno, empleador y laboral. Estará integrado por diez miembros propietarios y diez suplentes, de la siguiente manera:
 
-- 1.Por el sector gobierno, tres representantes propietarios y sus suplentes, designados por los Ministerios de Trabajo y Previsión Social, de Planificación y Coordinación del Desarrollo Económico y Social y de Educación;
+- 1.- Por el sector gobierno, tres representantes propietarios y sus suplentes, designados por los Ministerios de Trabajo y Previsión Social, de Planificación y Coordinación del Desarrollo Económico y Social y de Educación;
 
-- 2.Por el sector empleador, cuatro representantes propietarios y sus suplentes;
+- 2.- Por el sector empleador, cuatro representantes propietarios y sus suplentes;
 
-- 3.Por el sector laboral, tres representantes propietarios y sus suplentes.
+- 3.- Por el sector laboral, tres representantes propietarios y sus suplentes.
 
 Los  Ministerios  de  Trabajo  y  Previsión  Social,  de  Planificación  y  Coordinación  del  Desarrollo Económico y Social y de Educación nombrarán cada uno por medio de un acuerdo ejecutivo al Director Propietario y Suplente que representarán al sector Gobierno en la Junta Directiva del INSAFORP.
 
@@ -230,11 +230,11 @@ Los miembros del Consejo Directivo deberán ser salvadoreños, mayores de veinti
 ### Art. 12.-
 No podrán ser miembros del Consejo Directivo
 
-- Los  cónyuges  o  parientes  dentro  del  cuarto  grado  de  consanguinidad  o  segundo  de afinidad de los otros miembros del Consejo Directivo o del Director Ejecutivo.
+- a) Los cónyuges o parientes dentro del cuarto grado de consanguinidad o segundo de afinidad de los otros miembros del Consejo Directivo o del Director Ejecutivo.
 
-- Los miembros que hubiesen sido declarados en quiebra fraudulenta o condenados por delitos de cualquier clase.
+- b) Los miembros que hubiesen sido declarados en quiebra fraudulenta o condenados por delitos de cualquier clase.
 
-- Los que estuvieran imposibilitados para el desempeño del cargo por otras causas legales.
+- c) Los que estuvieran imposibilitados para el desempeño del cargo por otras causas legales.
 
 Cuando exista o sobrevenga alguna de las causales mencionadas en este artículo caducará la gestión del respectivo miembro del Consejo Directivo y se procederá a su reemplazo en la forma prevista en la Ley.
 
@@ -287,29 +287,29 @@ El Consejo Directivo tendrá además las atribuciones siguientes:
 
 ═══════════════════════════════════════════════════════════
 
-- Aprobar el proyecto de presupuesto anual y el sistema de salarios del INSAFORP, para someterlo a consideración y aprobación de los organismos competentes;
+- a. Aprobar el proyecto de presupuesto anual y el sistema de salarios del INSAFORP, para someterlo a consideración y aprobación de los organismos competentes;
 
-- Aprobar el plan de trabajo anual, los reglamentos internos y la organización técnica y administrativa;
+- b. Aprobar el plan de trabajo anual, los reglamentos internos y la organización técnica y administrativa;
 
-- Establecer  un  sistema  de  información  sobre  la  cooperación  técnica  y  financiera internacional  que  reciban  los  miembros  del  sistema,  para  facilitar  una  adecuada coordinación de los planes y proyectos de formación profesional;
+- c. Establecer un sistema de información sobre la cooperación técnica y financiera internacional que reciban los miembros del sistema, para facilitar una adecuada coordinación de los planes y proyectos de formación profesional;
 
-- Proponer al Organo Ejecutivo las reformas a la legislación y los proyectos de reglamento que estime convenientes, con el objeto de lograr mejoras estructurales y funcionales del sistema de formación profesional;
+- d. Proponer al Organo Ejecutivo las reformas a la legislación y los proyectos de reglamento que estime convenientes, con el objeto de lograr mejoras estructurales y funcionales del sistema de formación profesional;
 
-- Aprobar los convenios de cooperación técnica y financiera del Instituto;
+- e. Aprobar los convenios de cooperación técnica y financiera del Instituto;
 
-- Proponer  a  la  autoridad  competente  la  creación  de  mecanismos  que  posibiliten  las relaciones entre los sistemas de educación escolar y de formación profesional
+- f. Proponer a la autoridad competente la creación de mecanismos que posibiliten las relaciones entre los sistemas de educación escolar y de formación profesional
 
-- Aprobar el informe anual de labores;
+- g. Aprobar el informe anual de labores;
 
-- Aprobar los planes de inversión;
+- h. Aprobar los planes de inversión;
 
-- Autorizar  las  ventas  de  productos  obtenidos  en  el  desarrollo  de  los  programas  de formación profesional que realice el Instituto;
+- i. Autorizar las ventas de productos obtenidos en el desarrollo de los programas de formación profesional que realice el Instituto;
 
-- Dirigir  la  política  general  del  INSAFORP  y  coordinarla  con  la  política  de  desarrollo económico y social del Estado, en todos los campos de acción que le asignen las leyes y sus reglamentos, de acuerdo a las necesidades del mercado laboral;
+- j. Dirigir la política general del INSAFORP y coordinarla con la política de desarrollo económico y social del Estado, en todos los campos de acción que le asignen las leyes y sus reglamentos, de acuerdo a las necesidades del mercado laboral;
 
-- Nombrar o contratar al Director Ejecutivo, Subdirector Ejecutivo y Auditor Interno, y fijar sus emolumentos;
+- k. Nombrar o contratar al Director Ejecutivo, Subdirector Ejecutivo y Auditor Interno, y fijar sus emolumentos;
 
-- Integrar los comités y grupos de trabajo que estime necesarios;
+- l. Integrar los comités y grupos de trabajo que estime necesarios;
 
 ═══════════════════════════════════════════════════════════
 
@@ -343,9 +343,9 @@ INDICE LEGISLATIVO
 
 ═══════════════════════════════════════════════════════════
 
-- Coordinar y desarrollar, las relaciones con otras entidades del sector público o privado, nacionales o extranjeras, de acuerdo con las normas legales pertinentes y a la política institucional;
+- m. Coordinar y desarrollar, las relaciones con otras entidades del sector público o privado, nacionales o extranjeras, de acuerdo con las normas legales pertinentes y a la política institucional;
 
-- Ejercer  las  demás  funciones,  deberes  y  atribuciones  que  establezcan  esta  ley  y  sus reglamentos y las que no estén asignadas específicamente a ningún funcionario y órgano del Instituto;
+- n. Ejercer las demás funciones, deberes y atribuciones que establezcan esta ley y sus reglamentos y las que no estén asignadas específicamente a ningún funcionario y órgano del Instituto;
 
 ## CAPITULO V DIRECCION EJECUTIVA
 
@@ -363,22 +363,22 @@ El Director Ejecutivo será directamente responsable de la correcta conducción 
 ### Art. 23.-
 Para ser Director Ejecutivo o Subdirector Ejecutivo se requiere:
 
-- Ser salvadoreño por nacimiento;
+- a. Ser salvadoreño por nacimiento;
 
-- Hallarse en el goce de los derechos civiles y políticos;
+- b. Hallarse en el goce de los derechos civiles y políticos;
 
-- Poseer un grado académico universitario y experiencia atinente al cargo;
+- c. Poseer un grado académico universitario y experiencia atinente al cargo;
 
-- No ser cónyuge ni pariente, dentro del cuarto grado de consanguinidad o segundo de afinidad de cualquiera de los miembros del Consejo Directivo.
+- d. No ser cónyuge ni pariente, dentro del cuarto grado de consanguinidad o segundo de afinidad de cualquiera de los miembros del Consejo Directivo.
 
 La prohibición del literal anterior se aplica también al Director y Subdirector Ejecutivo entre sí.
 
 ### Art. 24.-
 El Director Ejecutivo tendrá las atribuciones siguientes:
 
-- Dirigir las actividades de carácter técnico operativo y administrativo del INSAFORP, de acuerdo con las políticas y normas que al respecto determine el Consejo Directivo;
+- a. Dirigir las actividades de carácter técnico operativo y administrativo del INSAFORP, de acuerdo con las políticas y normas que al respecto determine el Consejo Directivo;
 
-- Administrar los recursos humanos y administrativos del INSAFORP de acuerdo con las
+- b. Administrar los recursos humanos y administrativos del INSAFORP de acuerdo con las
 
 [[END OF PAGE 7]]
 
@@ -394,37 +394,37 @@ INDICE LEGISLATIVO
 
 ═══════════════════════════════════════════════════════════
 
-- disposiciones legales y reglamentarias correspondientes;
+disposiciones legales y reglamentarias correspondientes;
 
-- Cumplir y hacer cumplir los acuerdos y resoluciones del Consejo Directivo del INSAFORP;
+- c. Cumplir y hacer cumplir los acuerdos y resoluciones del Consejo Directivo del INSAFORP;
 
-- Asistir a las reuniones del Consejo Directivo, ejercer la secretaría del mismo y proponer la agenda de las sesiones;
+- d. Asistir a las reuniones del Consejo Directivo, ejercer la secretaría del mismo y proponer la agenda de las sesiones;
 
-- Someter a la aprobación del Consejo Directivo la programación de labores, los proyectos de presupuesto anual, el sistema de salarios, la memoria anual de labores, los estados financieros contables y los planes de inversión del Instituto;
+- e. Someter a la aprobación del Consejo Directivo la programación de labores, los proyectos de presupuesto anual, el sistema de salarios, la memoria anual de labores, los estados financieros contables y los planes de inversión del Instituto;
 
-- Proponer al Consejo Directivo la creación o supresión de los órganos administrativos internos que las necesidades del Instituto requieran; y
+- f. Proponer al Consejo Directivo la creación o supresión de los órganos administrativos internos que las necesidades del Instituto requieran; y
 
-- Ejercer las atribuciones que le confieren esta Ley, sus reglamentos y las que le delegue el Consejo Directivo.
+- g. Ejercer las atribuciones que le confieren esta Ley, sus reglamentos y las que le delegue el Consejo Directivo.
 
 ### Art. 25.-
 Corresponde al Subdirector Ejecutivo:
 
-- Asumir las funciones que le delegare el Director Ejecutivo;
+- a. Asumir las funciones que le delegare el Director Ejecutivo;
 
-- Ejercer las demás atribuciones que le correspondan, de acuerdo con las disposiciones de esta ley y su reglamento.
+- b. Ejercer las demás atribuciones que le correspondan, de acuerdo con las disposiciones de esta ley y su reglamento.
 
 ## CAPITULO VI PATRIMONIO
 
 ### Art. 26.-
 El patrimonio del INSAFORP estará constituido por:
 
-- Los bienes muebles, inmuebles y asignaciones presupuestarias que el Gobierno de la República destine a programas de formación profesional y que transfiera al INSAFORP;
+- a. Los bienes muebles, inmuebles y asignaciones presupuestarias que el Gobierno de la República destine a programas de formación profesional y que transfiera al INSAFORP;
 
-- Los subsidios y aportes que le confiera el estado;
+- b. Los subsidios y aportes que le confiera el estado;
 
-- COTIZACIONES OBLIGATORIAS HASTA EL 1%, PAGADAS POR LOS PATRONOS DEL SECTOR PRIVADO Y POR LAS INSTITUCIONES OFICIALES AUTONOMAS, QUE EMPLEEN DIEZ  O  MAS  TRABAJADORES,  CALCULADAS  SOBRE  EL  MONTO  TOTAL;  "DE  LAS PLANILLAS  MENSUALES  DE  SUELDOS  Y  SALARIOS",  EXCEPTO  LOS  PATRONOS  DEL SECTOR AGROPECUARIO QUE COTIZARAN HASTA 1/4 DEL 1% SOBRE LAS PLANILLAS DE SALARIOS DE TRABAJADORES PERMANENTES. DICHO APORTE QUEDA LEGALMENTE ESTABLECIDO  DE  CONFORMIDAD  A  ESTA  LEY.  LOS  PATRONOS  DEL  SECTOR AGROPECUARIO NO COTIZARAN SOBRE LAS PLANILLAS DE SALARIOS DE TRABAJADORES TEMPORALES;(1)
+- c. COTIZACIONES OBLIGATORIAS HASTA EL 1%, PAGADAS POR LOS PATRONOS DEL SECTOR PRIVADO Y POR LAS INSTITUCIONES OFICIALES AUTONOMAS, QUE EMPLEEN DIEZ O MAS TRABAJADORES, CALCULADAS SOBRE EL MONTO TOTAL; "DE LAS PLANILLAS MENSUALES DE SUELDOS Y SALARIOS", EXCEPTO LOS PATRONOS DEL SECTOR AGROPECUARIO QUE COTIZARAN HASTA 1/4 DEL 1% SOBRE LAS PLANILLAS DE SALARIOS DE TRABAJADORES PERMANENTES. DICHO APORTE QUEDA LEGALMENTE ESTABLECIDO DE CONFORMIDAD A ESTA LEY. LOS PATRONOS DEL SECTOR AGROPECUARIO NO COTIZARAN SOBRE LAS PLANILLAS DE SALARIOS DE TRABAJADORES TEMPORALES;(1)
 
-- Los fondos y utilidades provenientes de las inversiones que efectúe el Instituto en títulos valores y de los intereses por depósitos bancarios;
+- d. Los fondos y utilidades provenientes de las inversiones que efectúe el Instituto en títulos valores y de los intereses por depósitos bancarios;
 
 ═══════════════════════════════════════════════════════════
 
@@ -446,13 +446,13 @@ INDICE LEGISLATIVO
 
 ═══════════════════════════════════════════════════════════
 
-- Los fondos provenientes de los productos obtenidos en el desarrollo de los programas de formación profesional y de cualquier actividad que desarrolle el INSAFORP, dentro o fuera del país;
+- e. Los fondos provenientes de los productos obtenidos en el desarrollo de los programas de formación profesional y de cualquier actividad que desarrolle el INSAFORP, dentro o fuera del país;
 
-- Los fondos que obtenga de préstamos internos o externos;
+- f. Los fondos que obtenga de préstamos internos o externos;
 
-- Las herencias, legados, donaciones y demás bienes que obtenga a cualquier título;
+- g. Las herencias, legados, donaciones y demás bienes que obtenga a cualquier título;
 
-- El producto resultante de la aplicación de sanciones prescritas por la presente Ley.
+- h. El producto resultante de la aplicación de sanciones prescritas por la presente Ley.
 
 ### Art. 27.-
 Se faculta al Consejo Directivo del INSAFORP para establecer mecanismos apropiados con el fin de captar las cotizaciones obligatorias establecidas en virtud de la presente ley.
@@ -624,7 +624,7 @@ JUAN SINFONTES, Ministro de Trabajo y Previsión Social.
 
 MIRNA LIEVANO DE MARQUES, Ministra de Planificación y Coordinación del Desarrollo Económico y Social.
 
-D. O. N 1 143 TOMO  N 1 320 FECHA : 29 de Julio de 1993.
+D. O. N° 143 TOMO N° 320 FECHA : 29 de Julio de 1993.
 
 ═══════════════════════════════════════════════════════════
 
@@ -640,9 +640,9 @@ REPUBLICA DE EL SALVADOR ─── AMERICA CENTRAL
 
 # REFORMA:
 
-- D.L. N 1 455, 21 DE SEPTIEMBRE DE 1995;
+- 1) D.L. N° 455, 21 DE SEPTIEMBRE DE 1995;
 
-- D.O. N 1 189, T. 329, 13 DE OCTUBRE DE 1995 .
+D.O. N° 189, T. 329, 13 DE OCTUBRE DE 1995 .
 
 MHSC/NGCL.
 
