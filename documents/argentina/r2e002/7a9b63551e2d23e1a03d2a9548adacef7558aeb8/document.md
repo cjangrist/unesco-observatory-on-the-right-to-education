@@ -17,11 +17,12 @@ Todos los educandos tienen derecho a recibir educación sexual integral en los e
 Créase el Programa Nacional de Educación Sexual Integral en el ámbito del Ministerio de Educación, Ciencia y Tecnología, con la finalidad de cumplir en los establecimientos educativos referidos en el artículo 1º las disposiciones específicas de la Ley Nº 25.673, de creación del Programa Nacional de Salud Sexual y Procreación Responsable; Ley Nº 23.849, de Ratificación de la Convención de los Derechos del Niño; Ley Nº 23.179, de Ratificación de la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer, que cuentan con rango constitucional; Ley Nº 26.061, de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes y las leyes generales de educación de la Nación.
 
 ### Art. 3º -
-Los objetivos del Programa Nacional de Educación Sexual Integral son: a) Incorporar la educación sexual integral dentro de las propuestas educativas orientadas a la formación armónica, equilibrada y permanente de las personas; b) Asegurar la transmisión de conocimientos pertinentes, precisos, confiables y actualizados sobre los distintos aspectos involucrados en la educación sexual integral; c) Promover actitudes responsables ante la sexualidad; d) Prevenir los problemas relacionados con la salud en general y la salud sexual y reproductiva en particular; e) Procurar igualdad de trato y oportunidades para varones y mujeres.
+Los objetivos del Programa Nacional de Educación Sexual Integral son: a) Incorporar la educación sexual integral dentro de las propuestas educativas orientadas a la formación armónica, equilibrada y permanente de las personas; b) Asegurar la transmisión de conocimientos pertinentes, precisos, confiables y actualizados sobre los distintos aspectos involucrados en la educación sexual integral; c) Promover actitudes responsables ante la sexualidad; d) Prevenir los
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+problemas relacionados con la salud en general y la salud sexual y reproductiva en particular; e) Procurar igualdad de trato y oportunidades para varones y mujeres.
 
 ### Art. 4º -
 Las acciones que promueva el Programa Nacional de Educación Sexual Integral están destinadas a los educandos del sistema educativo nacional, que asisten a establecimientos públicos de gestión estatal o privada, desde el nivel inicial hasta el nivel superior de formación docente y de educación técnica no universitaria.
@@ -36,21 +37,29 @@ El Ministerio de Educación, Ciencia y Tecnología definirá, en consulta con el
 La definición de los lineamientos curriculares básicos para la educación sexual integral será asesorada por una comisión interdisciplinaria de especialistas en la temática, convocada por el Ministerio de Educación, Ciencia y Tecnología, con los propósitos de elaborar documentos orientadores preliminares, incorporar los resultados de un diálogo sobre sus contenidos con distintos sectores del sistema educativo nacional, sistematizar las experiencias ya desarrolladas por estados provinciales, Ciudad Autónoma de Buenos Aires y municipalidades, y aportar al Consejo Federal de Cultura y Educación una propuesta de materiales y orientaciones que puedan favorecer la aplicación del programa.
 
 ### Art. 8º -
-Cada jurisdicción implementará el programa a través de: a) La difusión de los objetivos de la presente ley, en los distintos niveles del sistema educativo; b) El diseño de las propuestas de enseñanza, con secuencias y pautas de abordaje pedagógico, en función de la diversidad sociocultural local y de las necesidades de los grupos etarios; c) El diseño, producción o selección de los materiales didácticos que se recomiende, utilizar a nivel institucional; d) El seguimiento, supervisión y evaluación del desarrollo de las actividades obligatorias realizadas; e) Los programas de capacitación permanente y gratuita de los educadores en el marco de la formación docente continua; f) La inclusión de los contenidos y didáctica de la educación sexual integral en los programas de formación de educadores.
-### Art. 9º -
-Las jurisdicciones nacional, provincial, de la Ciudad Autónoma de Buenos Aires y municipal, con apoyo del programa, deberán organizar en todos los establecimientos educativos espacios de formación para los padres o responsables que tienen derecho a estar informados. Los objetivos de estos espacios son:a) Ampliar la información sobre aspectos biológicos, fisiológicos, genéticos, psicológicos, éticos, jurídicos y pedagógicos en relación con la sexualidad de niños, niñas y adolescentes; b) Promover la comprensión y el acompañamiento en la maduración afectiva del niño, niña y adolescente ayudándolo a formar su sexualidad y preparándolo para entablar relaciones interpersonales positivas; c) Vincular más estrechamente la escuela y la familia para el logro de los objetivos del programa.
-### Art. 10.- Disposición transitoria:
-La presente ley tendrá una aplicación gradual y progresiva, acorde al desarrollo de las acciones preparatorias en aspectos curriculares y de capacitación docente. La autoridad de aplicación establecerá en un plazo de ciento ochenta (180) días un plan que permita el cumplimiento de la presente ley, a partir de su vigencia y en un plazo máximo de cuatro (4) años. El Ministerio de Educación, Ciencia y Tecnología integrará a las jurisdicciones y comunidades escolares que implementan planes similares y que se ajusten a la presente ley.
-### Art. 11.-
-Comuníquese al Poder Ejecutivo. Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los cuatro días del mes de octubre del año dos mil seis. - Registrada bajo el Nº 26.150 Alberto E. Balestrini.- Daniel O. Scioli.- Enrique Hidalgo.- Juan H. Estrada.
-# Decreto Nº 1.489/2006
-Buenos Aires, 23 de octubre de 2006
+Cada jurisdicción implementará el programa a través de: a) La difusión de los objetivos de la presente ley, en los distintos niveles del sistema educativo; b) El diseño de las propuestas de enseñanza, con secuencias y pautas de abordaje pedagógico, en función de la diversidad sociocultural local y de las necesidades de los grupos
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+etarios; c) El diseño, producción o selección de los materiales didácticos que se recomiende, utilizar a nivel institucional; d) El seguimiento, supervisión y evaluación del desarrollo de las actividades obligatorias realizadas; e) Los programas de capacitación permanente y gratuita de los educadores en el marco de la formación docente continua; f) La inclusión de los contenidos y didáctica de la educación sexual integral en los programas de formación de educadores.
+
+### Art. 9º -
+Las jurisdicciones nacional, provincial, de la Ciudad Autónoma de Buenos Aires y municipal, con apoyo del programa, deberán organizar en todos los establecimientos educativos espacios de formación para los padres o responsables que tienen derecho a estar informados. Los objetivos de estos espacios son:a) Ampliar la información sobre aspectos biológicos, fisiológicos, genéticos, psicológicos, éticos, jurídicos y pedagógicos en relación con la sexualidad de niños, niñas y adolescentes; b) Promover la comprensión y el acompañamiento en la maduración afectiva del niño, niña y adolescente ayudándolo a formar su sexualidad y preparándolo para entablar relaciones interpersonales positivas; c) Vincular más estrechamente la escuela y la familia para el logro de los objetivos del programa.
+
+### Art. 10.- Disposición transitoria:
+La presente ley tendrá una aplicación gradual y progresiva, acorde al desarrollo de las acciones preparatorias en aspectos curriculares y de capacitación docente. La autoridad de aplicación establecerá en un plazo de ciento ochenta (180) días un plan que permita el cumplimiento de la presente ley, a partir de su vigencia y en un plazo máximo de cuatro (4) años. El Ministerio de Educación, Ciencia y Tecnología integrará a las jurisdicciones y comunidades escolares que implementan planes similares y que se ajusten a la presente ley.
+
+### Art. 11.-
+Comuníquese al Poder Ejecutivo. Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los cuatro días del mes de octubre del año dos mil seis.
+
+- Registrada bajo el Nº 26.150 -
+
+Alberto E. Balestrini.- Daniel O. Scioli.- Enrique Hidalgo.- Juan H. Estrada.
+
+# Decreto Nº 1.489/2006
+Buenos Aires, 23 de octubre de 2006
 
 [[END OF PAGE 3]]
 
