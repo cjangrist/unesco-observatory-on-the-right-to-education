@@ -44,9 +44,9 @@ Translation from Finnish Legally binding only in Finnish and Swedish Ministry of
 
 (Amendment 414/2012)
 
-- The universities referred to in subsection 2 (1-12) above are corporations under public law (public universities). In addition to this Act, Aalto University and Tampere University of Technology (foundation universities) are governed by the Foundations Act. (Amendments 487/2015 and 497/2015)
+- The universities referred to in subsection 2 (1–12) above are corporations under public law (public universities). In addition to this Act, Aalto University and Tampere University of Technology (foundation universities) are governed by the Foundations Act. (Amendments 487/2015 and 497/2015)
 
-- This Act, with the exception of sections 5, 13-22, 60, 64, 65 and 67, Chapters 8 and 9 and section 88, applies to the foundation universities.
+- This Act, with the exception of sections 5, 13–22, 60, 64, 65 and 67, Chapters 8 and 9 and section 88, applies to the foundation universities.
 
 ### Section 2. Mission
 
@@ -128,7 +128,7 @@ The university community comprises teaching and research staff, other staff and 
 
 - A university may arrange degree studies which are geared to a group of students and which have been commissioned and paid for by the Finnish state, another state, an international organisation, a Finnish or foreign public corporation, a foundation or a private corporation (commissioned education).
 
-- Commissioned education may not be arranged for citizens of states belonging to the European Economic Area or for persons or their family members who are deemed comparable to European Union citizens under European Union treaties or under a treaty concluded by the European Union and its Member States with another contracting party. Nor may commissioned education be arranged for persons who, under the Aliens Act (301/2004), have a European Union Blue Card, a continuous or a permanent residence permit or a long-term resident's European Union residence permit issued to third-country nationals, nor for any family members of the above. The Aliens Act is applied in the definition of persons regarded as family members. Persons participating in commissioned education are governed by sections 37, 37a, 37b, 43a-43d, 45, 45a, 45b and 82, 83, 83a, 84, 84a, 85 and 86 of this Act.
+- Commissioned education may not be arranged for citizens of states belonging to the European Economic Area or for persons or their family members who are deemed comparable to European Union citizens under European Union treaties or under a treaty concluded by the European Union and its Member States with another contracting party. Nor may commissioned education be arranged for persons who, under the Aliens Act (301/2004), have a European Union Blue Card, a continuous or a permanent residence permit or a long-term resident's European Union residence permit issued to third-country nationals, nor for any family members of the above. The Aliens Act is applied in the definition of persons regarded as family members. Persons participating in commissioned education are governed by sections 37, 37a, 37b, 43a–43d, 45, 45a, 45b and 82, 83, 83a, 84, 84a, 85 and 86 of this Act.
 
 - Tuition provided in the form of commissioned education must relate to undergraduate or postgraduate education in which the university has the right to confer degrees. The arrangement of commissioned education may not undermine the undergraduate and postgraduate education provided by the university. The university must charge a fee for commissioned education covering at least the costs incurring from it. The party who commissions the education is entitled to charge participating students fees in accordance with the legal provisions or other practices in the country where the education is offered.
 
@@ -196,7 +196,7 @@ The administrative bodies of a public university are the board, the rector and t
 
 ### Section 15. Composition of the board of a public university
 
-- The board of a public university has 7 or 9 -14 members. The university collegium decides on the number of board members.
+- The board of a public university has 7 or 9−14 members. The university collegium decides on the number of board members.
 
 - The board must include representatives from the following groups in the university community:
 
@@ -416,7 +416,7 @@ Universities employ professors and other teaching and research staff, as well as
 
 - Professorship duties must be publicly announced vacant when recruiting a person for an employment relationship that is effect until further notice.. The professorship may be filled by invitation without public notice of vacancy when an academically distinguished person is being invited to take the position or a candidate is appointed to the position for a fixed period. Only a candidate who indisputably fulfils the qualification requirements may be appointed to the position by invitation.
 
-- Statements on the qualifications and merits of applicants or invitees to a position must be requested from a minimum of two assessors for an appointment that is in effect until further notice or for a fixed period of at least two years. The disqualification of an assessor is governed by the provisions in sections 27-29 of the Administrative Procedure Act. Provisions on the selection, activities and remit of assessors are specified in the university rules of procedure, where needed.
+- Statements on the qualifications and merits of applicants or invitees to a position must be requested from a minimum of two assessors for an appointment that is in effect until further notice or for a fixed period of at least two years. The disqualification of an assessor is governed by the provisions in sections 27–29 of the Administrative Procedure Act. Provisions on the selection, activities and remit of assessors are specified in the university rules of procedure, where needed.
 
 - A university may award the right to use the title of professor to a person in its employ.
 
@@ -566,7 +566,7 @@ prospective student does not give the notification within the time indicated he 
 
 - Having accepted a student place, the student may register as a non-attending student during the first academic year provided he or she
 
-- is in active service in accordance with the Conscription Act (1438/2007), the NonMilitary Service Act (1446/2007) or the Women's Voluntary Military Service Act (194/1995);
+- is in active service in accordance with the Conscription Act (1438/2007), the Non-Military Service Act (1446/2007) or the Women's Voluntary Military Service Act (194/1995);
 
 - is on maternity, paternity or parental leave; or
 
@@ -610,7 +610,7 @@ prospective student does not give the notification within the time indicated he 
 
 - Students are considered to have begun their degree studies as of the date they accepted a student place at university.
 
-- A transfer student's right to complete degree studies is determined on the basis of the degree for which the student was given the right to complete a degree with the transfer. The time that the student, whether registered for attendance or non-attendance, has spent pursuing the studies on which the transfer is based is counted towards the normative duration of studies. However, for such attending or non-attending students who began their degree studies prior to the 2005-2006 academic year, the time spent pursuing the studies on which the transfer is based are not counted towards the normative duration of studies. (Amendment 256/2015)
+- A transfer student's right to complete degree studies is determined on the basis of the degree for which the student was given the right to complete a degree with the transfer. The time that the student, whether registered for attendance or non-attendance, has spent pursuing the studies on which the transfer is based is counted towards the normative duration of studies. However, for such attending or non-attending students who began their degree studies prior to the 2005–2006 academic year, the time spent pursuing the studies on which the transfer is based are not counted towards the normative duration of studies. (Amendment 256/2015)
 
 ### Section 41a. Right to a safe learning environment (Amendment 954 /2011)
 
@@ -648,7 +648,7 @@ prospective student does not give the notification within the time indicated he 
 
 - study referred to in section 37a(2) which could have prevented his or her admission as a student.
 
-- Where the studies or practical training relating to studies substantially require work with minors, the university may revoke the right to study where necessary in order to protect the minors, or if the student has been sentenced for a crime referred to in the Criminal Code, Chapter 17, section 18, 18a or 19, in Chapter 20, in Chapter 21, section 1-3 or 6, in Chapter 31, section 2, or in Chapter 50, section 1, 2, 3, 4 or 4a.
+- Where the studies or practical training relating to studies substantially require work with minors, the university may revoke the right to study where necessary in order to protect the minors, or if the student has been sentenced for a crime referred to in the Criminal Code, Chapter 17, section 18, 18a or 19, in Chapter 20, in Chapter 21, section 1–3 or 6, in Chapter 31, section 2, or in Chapter 50, section 1, 2, 3, 4 or 4a.
 
 - Before revoking the right to study, the university, together with the student, must explore the student's possibilities to apply for some other form of education. With his or her consent, the student may be transferred to other studies in the university where he or she fulfils the admission prerequisites.
 
@@ -750,7 +750,7 @@ as determined by the university, have his or her knowledge and skills attested i
 
 ### Section 45b. Handling of sensitive material (Amendment 954 /2011)
 
-- Information relating to an applicant's and a student's state of health, referred to in sections 37b and 43b-43d, may be handled only by those who prepare or make decisions on admission, on revocation or reinstatement of the right to study, or on disciplinary action or by those who issue statements on these matters.
+- Information relating to an applicant's and a student's state of health, referred to in sections 37b and 43b–43d, may be handled only by those who prepare or make decisions on admission, on revocation or reinstatement of the right to study, or on disciplinary action or by those who issue statements on these matters.
 
 - Information on the student in the criminal register about matters referred to in section 43a(2) may be handled only by those who prepare or make decisions on revocation of the right to study.
 
@@ -872,7 +872,7 @@ The Ministry of Education and Culture may order the funding referred to in this 
 
 - given false or misleading information to the Ministry of Education and Culture about a matter which was critical to the granting of the funding, the amount of funding or the terms of funding, or has concealed such a fact; or
 
-- otherwise, in a way comparable to paragraphs 1-3 above, essentially violated regulations governing the use of funding or the terms set in the funding decision.
+- otherwise, in a way comparable to paragraphs 1–3 above, essentially violated regulations governing the use of funding or the terms set in the funding decision.
 
 - The Ministry of Education and Culture must make a decision on the recovery of payments within two years of the date on which the finding, usable as a basis for discontinuation of payments, termination of payments or recovery of funding, was brought to the attention of the Ministry of Education and Culture. The decision on recovery of payments must be taken within five years of the date on which the payment was made.
 
@@ -914,7 +914,7 @@ A decision may be implemented notwithstanding a request for rectification unless
 
 - Further provisions on the profit and loss account and balance sheet formulas may be issued by government decree.
 
-### Section 61. Data on business activities
+### Section 62. Data on business activities
 
 [[END OF PAGE 26]]
 
