@@ -14,6 +14,17 @@ Ministry of Education
 
 ## Table of Contents
 
+1. Introduction ................................................... 2
+2. Situational Analysis of Female Education in Ethiopia ........... 3
+3. Major Obstacles to Low Enrollment and Achievement Level of Girls' Education ...................................................... 5
+4. Strategic Directions for Promoting Girls’ Education ............ 7
+4.1. Opportunities for Promoting Girls’ Education .................................................................................................................... 7
+4.2. Vision, Mission and Goals of Education and Training ....................................................................................................... 9
+4.3. Strategies for Promoting Girls’ Education ........................................................................................................................ 10
+5. National Girls Education Strategy Implementation, Monitoring and Evaluation .................................................... 21
+5.1. Implementation of the Strategy .......................................................................................................................................... 21
+5.2. Implementation, Monitoring and Evaluation of the Strategy ............................................................................................ 25
+
 1
 
 [[END OF PAGE 2]]
@@ -52,7 +63,7 @@ Parallel  to  the  formal  primary  schooling,  alternative  basic  education  p
 
 Out  of  the  beneficiaries  of  the  alternative  basic  education  programme,  54.1%  were  boys  and 45.9%  were  girls.  In  some  regions,  this  programme  has  contributed  a  lot  in  promoting  girls' education.
 
-Basic  education and skills  training  have  been  provided  to  5.2  million  adults  who  do  not  have access to education or are out of school for  various of reasons.This training built   the capacity of adults to involve in social, economical and political activities in their surrounding has been planned in the third education sector development programme. As a result, up to 2008/09, it has been possible to realize the participation of a total of 156, 588 adults out of which 95,998 were boys and 60, 590 were girls. On top of this, Functional Adult Litracy Strategies of 2007/2008 and  2008/2009  have  been  developed  with  a  special  focus  on  gender-fair  education  in  which practical intervention is underway by signing memorandum of understanding with the concerned Women Affair  Ministries.  The  strategy  adopted  in  recognition  to  the  lives  of  pastoralists  has been realized with a special focus given to female has shown remarkable achievements in Afar and Somali regions.
+Basic education and skills training have been provided to 5.2 million adults who do not have access to education or are out of school for various of reasons.This training built the capacity of adults to involve in social, economical and political activities in their surrounding has been planned in the third education sector development programme. As a result, up to 2008/09, it has been possible to realize the participation of a total of 156, 588 adults out of which 95,998 were boys and 60, 590 were girls. On top of this, Functional Adult Litracy Strategies of 2007/2008 and 2008/2009 have been developed with a special focus on gender-fair education in which
 
 3
 
@@ -63,6 +74,8 @@ Basic  education and skills  training  have  been  provided  to  5.2  million  a
 National Girls' Education Strategy- 2010
 
 Ministry of Education
+
+practical intervention is underway by signing memorandum of understanding with the concerned Women Affair Ministries. The strategy adopted in recognition to the lives of pastoralists has been realized with a special focus given to female has shown remarkable achievements in Afar and Somali regions.
 
 In 2008/09, the   GER at secondary first cycle education (Grades 9-10) has grown to 38.1% out of which the share for boys is 43.7% and that of girls is 32.4%. In this same year the GER at preparatory programme second cycle (Grades 11-12) jumped to 6% out of which the share for boys is 8.5% and that of girls is 3.5%.
 
@@ -90,7 +103,7 @@ In  general,  as  pointed  out  in  the  analysis  given  above,  a  relative  c
 
 ## 3. Major Obstacles to Low Enrollment and Achievement Level of Girls' Education
 
-In Ethiopia, the overall obstacles to advancing female enrolment and achievement in education are  indicated  as  follows.  The  first  obstacle  is  the  long-standing  cultural  misconception  of  the community and the family more specifically: early and forced marriage, verbal insult, beating up, insecurity,  rape,  etc  persist  unresolved  until  now.  The  second  obstacle  is  economic  problem related to insufficient involvement of concerned government bodies, community and parents in mobilizing  resources  to  finance,  and  little  focus  in  creating  sufficient  opportunities  to  girls' education, the demand by parents on girls' labour, specially, as those parents having low income do not afford to cover costs for stationery and food, they are reluctant to send their children to school.  Those  parents,  who  are  in  a  position  to  cover  some  of  the  costs,  give  priority  school enrolment opportunity for boy child over their child girl. Girls are forced to excessive work both at home and for income generating activities to support the family. The third obstacle is related to  schools  and  education  and  training  institutions.  Inadequate  numbers  of  schools,  teachers, textbooks, and other education inputs; low-level of awareness on the special support for girls, lack of curriculum design for promoting gender equality, sexual harasment in school, on the way to and from school, housing problems at secondary level in particular etc continue to hamper the performance of girls in education. The fourth obstacle that could mentioned here is that though there  is  a  strong  government  commitment  to  gender  issues,  implementing  bodies  at  different levels do not pay attention due to the abscence of accountability.
+In Ethiopia, the overall obstacles to advancing female enrolment and achievement in education are indicated as follows. The first obstacle is the long-standing cultural misconception of the community and the family more specifically: early and forced marriage, verbal insult, beating up, insecurity, rape, etc persist unresolved until now. The second obstacle is economic problem related to insufficient involvement of concerned government bodies, community and parents in mobilizing resources to finance, and little focus in creating sufficient opportunities to girls' education, the demand by parents on girls' labour, specially, as those parents having low income do not afford to cover costs for stationery and food, they are reluctant to send their children to school. Those parents, who are in a position to cover some of the costs, give priority school enrolment opportunity for boy child over their child girl. Girls are forced to excessive work both at home and for income generating activities to support the family. The third obstacle is related to schools and education and training institutions. Inadequate numbers of schools, teachers, textbooks, and other education inputs; low-level of awareness on the special support for girls, lack of curriculum design for promoting gender equality, sexual harasment in school, on the way to and from school, housing problems at secondary level in particular etc continue to hamper the
 
 5
 
@@ -101,6 +114,8 @@ In Ethiopia, the overall obstacles to advancing female enrolment and achievement
 National Girls' Education Strategy- 2010
 
 Ministry of Education
+
+performance of girls in education. The fourth obstacle that could mentioned here is that though there is a strong government commitment to gender issues, implementing bodies at different levels do not pay attention due to the abscence of accountability.
 
 Studies  carried  out  recently  include  the  following  findings  that  support  the  aforesaid  social, economic and institutional obstacles to the education of girls.
 
@@ -152,7 +167,7 @@ Thefore, this National Girls' Education and Training Strategy will have tangible
 
 ### 4.1. Opportunities for Promoting Girls' Education
 
-As a signatory of global Conventions, the Ethiopian Government has made steady progress for adaptation  of  the  Convention  into  the  Ethiopian  legal  system.  Among  these  conventions  are Millennium  Development  Goals  (MDGs),  Elimination  of  all  forms  of  Discrimination  Against Women (CEDAW) which guarantees women equal right and protection from discrimination, and the  Rights  of  the  Child.    On  top  of  these,  to  systematically  and  gradually  alleviate  traditional attitudes  and  discrimination  on  women  and  ensure  gender  equity,  based  on  article  35(a)  of  the constitution ratified in 1995, Ethiopia strides to implement the established laws, policies, development  strategies  and  packages.  Until  now  the  laws,  policies,  development  strategies  and packages  specifically  designed  to  build  the  capacity  of  women  and  narrow  gender  gaps  among others, are the following.
+As a signatory of global Conventions, the Ethiopian Government has made steady progress for adaptation of the Convention into the Ethiopian legal system. Among these conventions are Millennium Development Goals (MDGs), Elimination of all forms of Discrimination Against Women (CEDAW) which guarantees women equal right and protection from discrimination, and
 
 7
 
@@ -164,33 +179,35 @@ National Girls' Education Strategy- 2010
 
 Ministry of Education
 
-- handptright Education and Training Policy(1994),
+the Rights of the Child. On top of these, to systematically and gradually alleviate traditional attitudes and discrimination on women and ensure gender equity, based on article 35(a) of the constitution ratified in 1995, Ethiopia strides to implement the established laws, policies, development strategies and packages. Until now the laws, policies, development strategies and packages specifically designed to build the capacity of women and narrow gender gaps among others, are the following.
 
-- handptright Higher Education System Reform,
+- Education and Training Policy(1994),
 
-- handptright Technical and Vocational Education and Training Strategy(2007),
+- Higher Education System Reform,
 
-- handptright General Education Quality Assurance Programme and Package,
+- Technical and Vocational Education and Training Strategy(2007),
 
-- handptright Strategy for promoting Primary and Secondary Education in Pastoralist Areas(2008),
+- General Education Quality Assurance Programme and Package,
 
-- handptright Special Education and Adult Education Strategies etc ,
+- Strategy for promoting Primary and Secondary Education in Pastoralist Areas(2008),
 
-- handptright Gender  issues  included  in  the  consecutive  education  sector  development  programmes especially in the forth ESDP,
+- Special Education and Adult Education Strategies etc ,
 
-- handptright National Women Policy(1993),
+- Gender issues included in the consecutive education sector development programmes especially in the forth ESDP,
 
-- handptright Building a Democratic  System (2002),
+- National Women Policy(1993),
 
-- handptright Ethiopian Women Empowerment  Package(2005),
+- Building a Democratic System (2002),
 
-- handptright Capacity Building Strategies and Programmes(2002),
+- Ethiopian Women Empowerment Package(2005),
 
-- handptright Rural Development Policies(2002),
+- Capacity Building Strategies and Programmes(2002),
 
-- handptright Population Policy, and
+- Rural Development Policies(2002),
 
-- handptright Culture Policy.
+- Population Policy, and
+
+- Culture Policy.
 
 It is believed that the aforesaid agreements and conventions at national and global level will be an opportunity for the promotion of female participation in the education sector. Above all, as gender issue is a focus area in the basic business process reengineering being undertaken in the sector, a significant change will be achieved on girls' education.
 
@@ -284,7 +301,7 @@ To achieve the goal of universal access to primary education in the given span o
 
 -Continuing building of schools focusing on girl-friendly environments such as separate latrines for boys and girls, and  water supply;
 
--There  is  general  consensus  that  expansion  of  pre-primary  education  will  positively contribute  to  girl's  enrolment  and  effectiveness.  Therefore,  the  community  and  nongovernmental organizations will be mobilized and convenient situations will be created to expand pre-primary schools. Moreover other supports will be strengthened,
+-There is general consensus that expansion of pre-primary education will positively contribute to girl's enrolment and effectiveness. Therefore, the community and non-governmental organizations will be mobilized and convenient situations will be created to expand pre-primary schools. Moreover other supports will be strengthened,
 
 -Corrective  measures  will  be  taken  in  previously  built  schools  by  identifying  missing parts (facilities). In newly built schools to make them accessible and convenient for girls, inside  the  school  premises  or  outside  the  school  premises  to  make  them  gender harassment free areas teachers and students union, youth and women associations will be encouraged to exert strong effort, and
 
@@ -338,7 +355,7 @@ Ministry of Education
 
 -Arrange  forums  and  debates  involving  the  participation  of  local  community  and choosing appropriate topics with a focus given to ensuring equal participation of  girls and boys at all levels. To this effect, incentive and reward techniques will be designed and realized, and
 
--Strengthen  the  consorted  and  integrated  supports  given  by  government  and  nongovernment organizations working in the area of women, democracy and human right issues.
+-Strengthen the consorted and integrated supports given by government and non-government organizations working in the area of women, democracy and human right issues.
 
 #### 4.3.5. Celebrate National Girls' Education Week Once Every Year
 
@@ -438,7 +455,7 @@ Ministry of Education
 
 -In Ethiopia, secondary schools and TVET institutions are based far away from rural areas. Facts and objective realities reveal that this situation has a negative impact on participation and achievement of young female students in education. In this regard, a sizable number of young female students will dropout from school and are exposed to a variety of social evils,
 
--Building of low cost hostels will be realized in selected woredas where secondary schools and  TVET  institutions  are  available  with  the  contribution  from  communities  and  nongovernmental organizations. Moreover, private investors and prominent individuals will be approached and good practices will be compiled,
+-Building of low cost hostels will be realized in selected woredas where secondary schools and TVET institutions are available with the contribution from communities and non-governmental organizations. Moreover, private investors and prominent individuals will be approached and good practices will be compiled,
 
 -In partnership with the concerned bodies special focus will be rendered to Pastoralist areas, Benishangul Gumuz and Gambela (local nationalities) in building suitable low cost hostels and strengthening the existing ones to move forward girls' participation in education, and
 
@@ -460,7 +477,7 @@ National Girls' Education Strategy- 2010
 
 Ministry of Education
 
-- these  programmes,  a  considerable  role  will  be  played  by  mobilizing  women  education forums at all levels in realizing the recently developed Adult Education Strategy and Nonformal Education programmes, and
+these programmes, a considerable role will be played by mobilizing women education forums at all levels in realizing the recently developed Adult Education Strategy and Non-formal Education programmes, and
 
 -For other related activities joint plan will be developed and implemented at all levels with respective sub-process, regions, etc. Strengthened support and monitoring will continue.
 
@@ -486,7 +503,7 @@ National Girls' Education Strategy- 2010
 
 Ministry of Education
 
-- implementation  in  the  consecutive  education  sector  development  programmes.  More  than the previous times, a particular focus is given to gender issue in the fourth education sector development programme action plan,
+implementation in the consecutive education sector development programmes. More than the previous times, a particular focus is given to gender issue in the fourth education sector development programme action plan,
 
 -Moreover,  all  rounded  intensive  effort  will  be  strengthened  to  implement  gender  related activities. As a core issue of the new business process reengineering of the sector at federal, regional, schools, teacher training colleges, TVET  and  higher  education  institutions encompassing, realizing, and assessing gender mainstreaming as a direction in all aspects of work as a key tool in  ensuring  the overall gender equality  in the sector,
 
@@ -500,11 +517,11 @@ Ministry of Education
 
 -Due attention has been given to promote girls enrollment and achievement in education. As budget support is necessary to achieve the goal of this issue of special focus:
 
-- xrhombus Gender budgeting will be implemented at all levels,
+- Gender budgeting will be implemented at all levels,
 
-- xrhombus To this effect, by sustainably building the capacity and awareness of officials and expertise,  activities  will  be  performed  to  secure  special  resource  for  girls' education,
+- To this effect, by sustainably building the capacity and awareness of officials and expertise, activities will be performed to secure special resource for girls' education,
 
-- xrhombus Support and monitoring at all levels will be strengthened.
+- Support and monitoring at all levels will be strengthened.
 
 #### 4.3.14. Strengthen Effort to Stop Gender Harassment in the Sector's Women.
 
@@ -538,7 +555,7 @@ Therefore,  strong  monitoring  and  assurance  of  implementation assessment  a
 
 #### 4.3.16. Strengthen National Girls' Education Forums at all Levels
 
-Joint  effort  is  required  by  all  stakeholders  to  ensure  girls'  enrollment  and  achievement  in education  and support  activities  being  undertaken  in  the  education  sector.  In  this  regard  as  of 2003 national female education forum has been established and strengthened to carry out various activities. The forum was chaired by higher official of the Ministry of Education and coordinated by the gender and equity department, and includes high level representatives of the Ministry of Women's  Affairs, the women's affairs standing committees of the house of peoples representatives, the heads of regional women's affairs bureaux, the heads of education bureaux, the university officials, the heads of gender education at all levels, the chairpersons of regional women associations, the teachers associations, the heads of women sector, and other local nongovernmental  organizations  working  on  girls'  education.  Besides,  to  support  the  forum  and perform  activities  in  close  partnership,  advisory  committee  coordinated  by  the  Ministry  of Education has been established as of 2008 by the international and local organizations working on issues of girls' education. This advisory committee and the national forum were registered as member of the United Nation Girls' Education Initiative (UNGEI). Therefore,
+Joint effort is required by all stakeholders to ensure girls' enrollment and achievement in education and support activities being undertaken in the education sector. In this regard as of 2003 national female education forum has been established and strengthened to carry out various activities. The forum was chaired by higher official of the Ministry of Education and coordinated by the gender and equity department, and includes high level representatives of the Ministry of Women's Affairs, the women's affairs standing committees of the house of peoples
 
 19
 
@@ -549,6 +566,8 @@ Joint  effort  is  required  by  all  stakeholders  to  ensure  girls'  enrollme
 National Girls' Education Strategy- 2010
 
 Ministry of Education
+
+representatives, the heads of regional women's affairs bureaux, the heads of education bureaux, the university officials, the heads of gender education at all levels, the chairpersons of regional women associations, the teachers associations, the heads of women sector, and other local non-governmental organizations working on girls' education. Besides, to support the forum and perform activities in close partnership, advisory committee coordinated by the Ministry of Education has been established as of 2008 by the international and local organizations working on issues of girls' education. This advisory committee and the national forum were registered as member of the United Nation Girls' Education Initiative (UNGEI). Therefore,
 
 -By strengthening the national forum from regions to schools, in higher education institutions and  other  training  institutions,  efforts  will  further  be  initiated  in  an  integrated  manner  to provide  the  necessary  support  to  overall  equal  participation  and  achievement  level  of females in education , and
 
@@ -578,11 +597,11 @@ Ministry of Education
 
 To realize women all rounded equal participation, effectiveness and benefit in a short period of time recognition of role model women will have a significant role. Therefore,
 
--Both male and female researchers who will draw other countues b est practices or engaged in creativity  studies  researches  etc  to  contribute  special  support  for  girl's  education  equal participation, quality and competency promotion   will be encouraged,
+-Both male and female researchers who will draw other countues best practices or engaged in creativity studies researches etc to contribute special support for girl's education equal participation, quality and competency promotion will be encouraged,
 
 -System  will  be  established  for  women  at  all  levels  to  compete  in  studies  and  researches. Regions,  universities,  teachers  training  institutes  and  TVET  institutions  will  also  run  in competition among themselves in promoting female students, teachers and leaders participation and effectiveness, and
 
--To  enable  female  students  participate  equally  and i naress  their  effectiveness  motivation activities starting from grade one will continue to be undertaken
+-To enable female students participate equally and inaress their effectiveness motivation activities starting from grade one will continue to be undertaken
 
 ## 5. National Girls Education Strategy Implementation, Monitoring and Evaluation
 
@@ -652,7 +671,7 @@ Ministry of Education
 
 -Strengthen alternative basic education (ABE);
 
--Provide priority  to  attend  their  9 th grade  education  in  government  schools  to those  girl students who successfully pass 8 th grade and meet the criteria;
+-Provide priority to attend their 9th grade education in government schools to those girl students who successfully pass 8th grade and meet the criteria;
 
 -Produce  reference  books  by  the  incorporation  of  monitoring  and  evaluation  criteria  to measure the learning-teaching system effectively,
 
@@ -694,7 +713,7 @@ National Girls' Education Strategy- 2010
 
 Ministry of Education
 
--Provide at least one year for those girls who completed 10 th grade and interested to attend training in technical and vocational education and training areas,
+-Provide at least one year for those girls who completed 10th grade and interested to attend training in technical and vocational education and training areas,
 
 -Strengthen gender counseling services,
 
@@ -768,9 +787,7 @@ Implementation, Monitoring and evaluation of girl's education strategy will be e
 
 -Report will be presented every three and six months in meetings to be held with ESDP development partners and other stakeholders
 
--Before  National  Conference  is  held  discussion  will  be  conducted  on  girls  education problems and possible solutions with Ed
-
--cation Bureaus and other stakeholders;
+-Before  National  Conference  is  held  discussion  will  be  conducted  on  girls  education problems and possible solutions with Education Bureaus and other stakeholders;
 
 -Information work process to examine the activities performed by regions based on the National  Girls  Education  Strategy.  After  Field  visit  and  compiling  report,  it  will  be submitted to higher officials as deemed necessary,
 
