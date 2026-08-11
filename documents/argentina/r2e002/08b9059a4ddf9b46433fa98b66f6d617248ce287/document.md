@@ -12,40 +12,40 @@ Promulgada: Enero 8 de 2004.
 
 El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:
 
-### ARTICULO 1° -
+### ARTICULO 1° —
 Fíjase un ciclo lectivo anual mínimo de CIENTO OCHENTA (180) días efectivos de clase, para los establecimientos educativos de todo el país en los que se imparta Educación Inicial, Educación General Básica y Educación Polimodal, o sus respectivos equivalentes.
 
-### ARTICULO 2° -
+### ARTICULO 2° —
 Ante el eventual incumplimiento del ciclo lectivo anual a que se refiere  el  artículo  precedente,  las  autoridades  educativas  de  las  respectivas jurisdicciones, deberán adoptar las medidas necesarias a fin de compensar los días de clase perdidos, hasta completar el mínimo establecido.
 
-### ARTICULO 3° -
+### ARTICULO 3° —
 Para el cómputo de los CIENTO OCHENTA (180) días fijados por el  artículo  1°,  se  considerará  "día  de  clase"  cuando  se  haya  completado  por  lo menos la mitad de la cantidad de horas de reloj establecidas por las respectivas jurisdicciones  para  la  jornada  escolar,  según  sea  el  nivel,  régimen  o  modalidad correspondiente.
 
-### ARTICULO 4° -
+### ARTICULO 4° —
 A fin de asegurar el cumplimiento del CICLO a que se refiere el artículo 1° de la presente ley, las jurisdicciones provinciales que, una vez vencidos los  plazos  legales  y  reglamentarios,  pertinentes,  no  pudieran  saldar  las  deudas salariales  del  personal  docente,  podrán  solicitar  asistencia  financiera  al  Poder Ejecutivo  Nacional  que,  luego  de  evaluar  la  naturaleza  y  las  causas  de  las dificultades financieras que fueren invocadas como causa de tales incumplimientos, procurará brindar el financiamiento necesario para garantizar la continuidad de la actividad educativa, en la medida de sus posibilidades y en las condiciones que considere más adecuadas.
 
-### ARTICULO 5° -
+### ARTICULO 5° —
 El Poder Ejecutivo nacional deberá informar sobre la situación mencionada en el artículo precedente al Honorable Congreso de la Nación.
 
-### ARTICULO 6° -
+### ARTICULO 6° —
 El  cumplimiento  de  lo  dispuesto  en  la  presente  ley  no  podrá afectar  los  derechos  y  garantías  laborales,  individuales  y  colectivas,  de  los trabajadores  de  la  educación,  consagrados  por  la  Constitución  Nacional  y  la legislación vigente en las respectivas jurisdicciones.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-### ARTICULO 7° -
+### ARTICULO 7° —
 Apruébase el CONVENIO PARA GARANTIZAR EL CUMPLIMIENTO DE UN CICLO LECTIVO ANUAL MINIMO, suscripto el 1° de julio de 2003 entre el titular  del  Poder  Ejecutivo  nacional  y  los  representantes  de  las  jurisdicciones provinciales y de la Ciudad Autónoma de Buenos Aires, que en copia autenticada forma parte de la presente ley como Anexo I.
 
-### ARTICULO 8°
+### ARTICULO 8° —
 
-- Comuníquese al Poder Ejecutivo nacional.
+Comuníquese al Poder Ejecutivo nacional.
 
 DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS CUATRO DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL TRES.
 
 REGISTRADO BAJO EL N° 25.864
 
-EDUARDO O. CAMAÑO. - MARCELO A. GUINLE. - Eduardo D. Rollano. - Juan Estrada.
+EDUARDO O. CAMAÑO. — MARCELO A. GUINLE. — Eduardo D. Rollano. — Juan Estrada.
 
 ### CONVENIO PARA GARANTIZAR EL CUMPLIMIENTO DE UN CICLO LECTIVO ANUAL MINIMO
 
