@@ -64,23 +64,217 @@ Article 11.TVET Following an Integrated System
 
 [[START OF PAGE 2]]
 
-Article 12.TVET Formats Article 13.TVET Structure Section 2: TVET at Certificate Level Article 14.Meaning of TVET at Certificate Level Article 15.Levels of TVET Certificate Curricula Article 16.Format for TVET Certificates Article 17.Standards for the Content of TVET Certificates Article 18.Facilities Teaching TVET Certificates Section 3: TVET Diplomas Article 19.Meaning of TVET Diplomas Article 20.TVET Diploma Curricula Article 21.Format for TVET Diplomas Article 22.Standards for the Content of TVET Diplomas Article 23.Facilities Teaching TVET Diplomas Section 4: Higher Diplomas Article 24.Meaning of Higher Diplomas Article 25.Higher Diploma Curricula Article 26.Format for TVET Higher Diplomas Article 27.Standards for the Content of TVET Diplomas Article 28.Facilities Teaching TVET Diplomas Section 5: Framework for TVET Qualifications Article 29.TVET Qualifications Article 30. Framework for TVET Qualifications Article 31.Ranking of TVET Qualifications Part III: TVET Facilities Section I: Types of TVET Facilities Article 32.Types of TVET Facilities Article 33.Training Centers Article 34.Schools Article 35.Colleges Article 56.Organizations to Lead the Holding of Occupational Skills Competitions Article 36.Institutes Section 2: Establishment and Dissolution Article 37.Establishment of TVET Facilities Article 38.Approval for the Establishment of a TVET Facility Article 39.Dissolution of TVET Facilities Part IV: Guaranteeing the Quality of TVET Section 1: Professional Standards Article 40.Professional Standards Article 41.Structure of Technical and Vocational Standards Article 42.Development of Occupational Standards Section 2: Curricula Article 43.Technical and Vocational Curricula Article 44.Curricular Creation and Development Article 45.Approval and Termination of Curricula Section 3: Examinations and Testing Article 46.Examinations Article 47.Testing of Occupational Skills Article 48.Formats and Methods for Testing Occupational Skills Article 49.Standards for the Testing of Occupational Skills Article 50.Comparisons and Transfers Section 4: Issuance of Certificates and Affirmations Article 51.Certificates Article 52.Affirmations Article 53.Issuance of Certificates and Affirmations Section 5: Occupational Skills Competitions Article 54.Occupational Skills Competitions Article 55.Organizing Occupational Skills Competitions Section 6: Quality Assurance Measures Article 57.Quality Assurance Measures Article 58.Quality Assurance Mechanisms Article 59.Self-Assessment Article 60.Internal Assessments Article 61.External Assessments Part V: TVET Personnel Section 1: TVET Article 62.Managers Article 63.Specialists Section 2: Technical and Vocational Teachers Article 64.Technical and Vocational Teachers Article 65.Types of Technical and Vocational Teachers Article 66Standards for Technical and Vocational Teachers Article 67.Technical Positions and Titles for TVET Teachers Article 68.Rights, Duties, and Obligations of TVET teachers Article 69.Specific Policies for TVET Teachers Section 3: Learners Article 70.TVET Learners Article 71.Equality among TVET Learners Article 72.Rights and Obligations of TVET Learners Article 73.Vocational Training for Students with Problems Part VI: Obligations for TVET Article 74.Obligations of Lao Citizens and the Public Article 75.Obligations of Parents and Guardians Article 76.Obligations of TVET Facilities Article 77.Obligations of Labor Units Part VII: Investment in TVET Article 78.State Investment Article 79.Private Investment Article 80.Funds Part VIII: Rules Article 81.General Rules Article 82.Rules for Principals Article 83.Rules for Specialists Article 84.Rules for TVET Teachers Article 85.Rules for TVET Learners Part IX: Dispute Resolution Article 86.Types of Disputes Article 87.Compromise and Mediation Article 88.Administrative Resolution Article 89.Resolution by an OEDM
+Article 12.TVET Formats
+
+Article 13.TVET Structure
+
+Section 2: TVET at Certificate Level
+
+Article 14.Meaning of TVET at Certificate Level
+
+Article 15.Levels of TVET Certificate Curricula
+
+Article 16.Format for TVET Certificates
+
+Article 17.Standards for the Content of TVET Certificates
+
+Article 18.Facilities Teaching TVET Certificates
+
+Section 3: TVET Diplomas
+
+Article 19.Meaning of TVET Diplomas
+
+Article 20.TVET Diploma Curricula
+
+Article 21.Format for TVET Diplomas
+
+Article 22.Standards for the Content of TVET Diplomas
+
+Article 23.Facilities Teaching TVET Diplomas
+
+Section 4: Higher Diplomas
+
+Article 24.Meaning of Higher Diplomas
+
+Article 25.Higher Diploma Curricula
+
+Article 26.Format for TVET Higher Diplomas
+
+Article 27.Standards for the Content of TVET Diplomas
+
+Article 28.Facilities Teaching TVET Diplomas
+
+Section 5: Framework for TVET Qualifications
+
+Article 29.TVET Qualifications
+
+Article 30. Framework for TVET Qualifications
+
+Article 31.Ranking of TVET Qualifications
+
+Part III: TVET Facilities
+
+Section I: Types of TVET Facilities
+
+Article 32.Types of TVET Facilities
+
+Article 33.Training Centers
+
+Article 34.Schools
+
+Article 35.Colleges
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+Article 36.Institutes
+
+Section 2: Establishment and Dissolution
+
+Article 37.Establishment of TVET Facilities
+
+Article 38.Approval for the Establishment of a TVET Facility
+
+Article 39.Dissolution of TVET Facilities
+
+Part IV: Guaranteeing the Quality of TVET
+
+Section 1: Professional Standards
+
+Article 40.Professional Standards
+
+Article 41.Structure of Technical and Vocational Standards
+
+Article 42.Development of Occupational Standards
+
+Section 2: Curricula
+
+Article 43.Technical and Vocational Curricula
+
+Article 44.Curricular Creation and Development
+
+Article 45.Approval and Termination of Curricula
+
+Section 3: Examinations and Testing
+
+Article 46.Examinations
+
+Article 47.Testing of Occupational Skills
+
+Article 48.Formats and Methods for Testing Occupational Skills
+
+Article 49.Standards for the Testing of Occupational Skills
+
+Article 50.Comparisons and Transfers
+
+Section 4: Issuance of Certificates and Affirmations
+
+Article 51.Certificates
+
+Article 52.Affirmations
+
+Article 53.Issuance of Certificates and Affirmations
+
+Section 5: Occupational Skills Competitions
+
+Article 54.Occupational Skills Competitions
+
+Article 55.Organizing Occupational Skills Competitions
+
+Article 56.Organizations to Lead the Holding of Occupational Skills Competitions
+
+Section 6: Quality Assurance Measures
+
+Article 57.Quality Assurance Measures
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+Article 58.Quality Assurance Mechanisms
+
+Article 59.Self-Assessment
+
+Article 60.Internal Assessments
+
+Article 61.External Assessments
+
+Part V: TVET Personnel
+
+Section 1: TVET
+
+Article 62.Managers
+
+Article 63.Specialists
+
+Section 2: Technical and Vocational Teachers
+
+Article 64.Technical and Vocational Teachers
+
+Article 65.Types of Technical and Vocational Teachers
+
+Article 66.Standards for Technical and Vocational Teachers
+
+Article 67.Technical Positions and Titles for TVET Teachers
+
+Article 68.Rights, Duties, and Obligations of TVET teachers
+
+Article 69.Specific Policies for TVET Teachers
+
+Section 3: Learners
+
+Article 70.TVET Learners
+
+Article 71.Equality among TVET Learners
+
+Article 72.Rights and Obligations of TVET Learners
+
+Article 73.Vocational Training for Students with Problems
+
+Part VI: Obligations for TVET
+
+Article 74.Obligations of Lao Citizens and the Public
+
+Article 75.Obligations of Parents and Guardians
+
+Article 76.Obligations of TVET Facilities
+
+Article 77.Obligations of Labor Units
+
+Part VII: Investment in TVET
+
+Article 78.State Investment
+
+Article 79.Private Investment
+
+Article 80.Funds
+
+Part VIII: Rules
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Article 81.General Rules
+
+Article 82.Rules for Principals
+
+Article 83.Rules for Specialists
+
+Article 84.Rules for TVET Teachers
+
+Article 85.Rules for TVET Learners
+
+Part IX: Dispute Resolution
+
+Article 86.Types of Disputes
+
+Article 87.Compromise and Mediation
+
+Article 88.Administrative Resolution
+
+Article 89.Resolution by an OEDM
 
 Article 90.Court Verdict
 
@@ -136,9 +330,7 @@ Article 107.Entry into Force
 
 Lao People's Democratic Republic Peace Independence Democracy Unity Prosperity
 
-National President                                                                                                    No.:
-
-060 /NP
+National President                                                                                                    No.: 060/NP
 
 Vientiane Capital, dated 28 January 2014
 
@@ -146,7 +338,7 @@ Vientiane Capital, dated 28 January 2014
 
 -------------------------------
 
--Pursuant to Item 1, Article VI of the Constitution of the Lao People's Democratic Republic;
+-Pursuant to Item 1, Article 67 of the Constitution of the Lao People's Democratic Republic;
 
 -Pursuant to Resolutions 020/NA, dated 23 December 2013, of the National Assembly; and
 
@@ -174,7 +366,7 @@ Choummaly Xayasone
 
 Lao People's Democratic Republic Peace Independence Democracy Unity Prosperity
 
-National Assembly                                                                                                  No.:
+National Assembly                                                                                                  No.: 020/NA
 
 # Resolutions of the National Assembly of the Lao People's Democratic Republic on the Agreement to Approve the Law on Technical and Vocational Education and Training
 
@@ -182,11 +374,9 @@ National Assembly                               
 
 Pursuant to Item 2, Article 53 of the Constitution and Item 1, Article 3 of the Law on the National Assembly of the Lao People's Democratic Republic on the rights and duties of the National Assembly (NA);
 
-Following the 6 Ordinary Session of the 7 Legislature of the NA, extensive and in-depth studies for the content of the Law on Technical and Vocational Education and Training were carried out during the afternoon session on 23 December 2013. th th
+Following the 6th Ordinary Session of the 7th Legislature of the NA, extensive and in-depth studies for the content of the Law on Technical and Vocational Education and Training were carried out during the afternoon session on 23 December 2013.
 
 The meeting agreed as follows:
-
-020 /NA
 
 [[END OF PAGE 7]]
 
@@ -206,8 +396,6 @@ President of the National Assembly
 
 Pany Yathotou
 
-### Article 1.Objectives
-
 Lao People's Democratic Republic Peace Independence Democracy Unity Prosperity
 
 -------------------------------
@@ -216,11 +404,13 @@ National Assembly                               
 
 # Part I Law on Technical and Vocational Education and Training
 ## Section I General Provisions
-This Law specifies the principles, regulations, and measures concerning the management, monitoring, and inspection of technical and vocational education and training (TVET) and occupational skills in order to ensure that such work is performed efficiently so that Lao workers may be trained and developed to have knowledge, skills, expertise, occupational skills, vocations, and work ethics, be able to cater to labor market demand, connect sub-regionally, regionally, and internationally, and contribute to the preservation, building up, and development of the nation.
+### Article 1.Objectives
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+This Law specifies the principles, regulations, and measures concerning the management, monitoring, and inspection of technical and vocational education and training (TVET) and occupational skills in order to ensure that such work is performed efficiently so that Lao workers may be trained and developed to have knowledge, skills, expertise, occupational skills, vocations, and work ethics, be able to cater to labor market demand, connect sub-regionally, regionally, and internationally, and contribute to the preservation, building up, and development of the nation.
 
 ### Article 2.TVET
 
@@ -286,7 +476,7 @@ TVET must take place in accordance with the following principles:
 
 - An assurance that the theoretical study shall match the work in practice, have continuity, and be ongoing so that the students keep studying throughout their whole lives;
 
-- The application of National and Local Curricula and consistency with the curricula of the subregion, region, and the world;
+- The application of National and Local Curricula and consistency with the curricula of the sub-region, region, and the world;
 
 - An assurance that the learners will be able to do their jobs by themselves and that they will balance out with the demands of the domestic and overseas labor markets;
 
@@ -423,6 +613,8 @@ TVET diplomas may be taught and learned and training may take place 
 
 [[START OF PAGE 14]]
 
+Higher Diplomas
+
 ### Article 24.Meaning of Higher Diplomas
 
 TVET at higher diploma level means TVET and technological education for learners who have completed higher-secondary education or an equivalent thereof or higher, who have completed the TVET diploma, or who have completed the Level 3 TVET certificate, or who possess expertise to provide TVET and technological knowledge, expertise, and abilities in a given TVET field of study.
@@ -454,8 +646,6 @@ TVET higher diplomas may be taught and learned and training may take�
 ### Article 29.TVET Qualifications
 
 TVET qualifications refer to the characteristics and value of the learning of the TVET received in a given field and must be officially verified.
-
-Higher Diplomas
 
 [[END OF PAGE 14]]
 
@@ -557,6 +747,8 @@ A TVET facility shall be dissolved under the following circumstances:
 
 [[START OF PAGE 17]]
 
+Professional Standards
+
 ### Article 40.Professional Standards
 
 Professional standards refer to occupational benchmarks which specify the technical and vocational knowledge, abilities, and expertise and qualities of labor in order to act as a reference for the creation of curricula, testing, and ensuring the quality of the work involved.
@@ -586,8 +778,6 @@ There are two levels of vocational curricula - National Curricula and�
 ### Article 44.Curricular Creation and Development
 
 The relevant sector shall create, develop, and adjust curricula in accordance with the Three Characteristics and Five Pillars of National Education and consistently with the occupational standards, curricular standards, and national socio-economic development. They shall be of an ongoing nature and consist of many levels for which there will be textbooks and teaching manuals and created in such a way that they may connect up with the region and the world.
-
-Professional Standards
 
 [[END OF PAGE 17]]
 
@@ -619,7 +809,7 @@ Examinations refer to the measuring and assessment of knowledge, abiliti
 
 The formats and methods for examinations are specified in separate regulations.
 
-### Article 4.Testing of Occupational Skills
+### Article 47.Testing of Occupational Skills
 
 The testing of Occupational Skills refers to the measuring of Occupational Skills in a given technical and vocational branch in order to verify the knowledge, abilities, Occupational Skills, and work ethics of a learner who has graduated from a TVET facility and entered the world of work or of persons with practical experience in performing a particular duty.
 
@@ -687,7 +877,7 @@ An affirmation is a document issued to a person who has completed the�
 
 ### Article 53.Issuance of Certificates and Affirmations
 
-The relevant TVET institute shall issue certificates and affirmations. Technical and vocational certificates of diploma level and higher must be registered at the relevant ministry on a case-bycase basis for supervisory purposes. Technical and vocational certificates and affirmations of expertise and below must be registered at the relevant PESS on a case-by-case basis for supervisory purposes.
+The relevant TVET institute shall issue certificates and affirmations. Technical and vocational certificates of diploma level and higher must be registered at the relevant ministry on a case-by-case basis for supervisory purposes. Technical and vocational certificates and affirmations of expertise and below must be registered at the relevant PESS on a case-by-case basis for supervisory purposes.
 
 ## Section 5 Occupational Skills Competitions
 
@@ -794,7 +984,7 @@ There are the following two types of technical and vocational teachers
 
 - Practical teachers, who provide practical training during work experience, workshops, labor units, and in the field.
 
-### Article 66Standards for Technical and Vocational Teachers
+### Article 66.Standards for Technical and Vocational Teachers
 
 - Be principled, have a correct political attitude, have a love for the system of a people's democracy, possess certain qualities, be ethical, have strong interpersonal skills, love their career as a teacher, and act as a positive role model for the learners;
 
@@ -934,19 +1124,21 @@ Labor Units have the obligations to contribute to the learning and te
 
 [[START OF PAGE 26]]
 
+# Part VII Investment in TVET
+
 ### Article 78.State Investment
 
-The State invests in TVET and Occupational Skills - through the provision of budgets for subjects, such as the construction - infrastructure, buildings, facilities, vehicles, equipment, learning and teaching media, and the provision of steadfast training for personnel.
+The State invests in TVET and Occupational Skills – through the provision of budgets for subjects, such as the construction – infrastructure, buildings, facilities, vehicles, equipment, learning and teaching media, and the provision of steadfast training for personnel.
 
 ### Article 79.Private Investment
 
-Individuals, legal entities, and private organizations - both domestic and overseas - investing in TVET and Occupational Skills by building training centers, schools, colleges, and institutes must operate in accordance with the legal regulations, standards, conditions, and curricula issued by the MoES and consistently with the NSEDP for each period.
+Individuals, legal entities, and private organizations – both domestic and overseas – investing in TVET and Occupational Skills by building training centers, schools, colleges, and institutes must operate in accordance with the legal regulations, standards, conditions, and curricula issued by the MoES and consistently with the NSEDP for each period.
 
-Learning, teaching, and training shall be provided to the public using individuals, legal entities, and/or private organizations - domestic or foreign - by investing in TVET and Occupational Skills. Study fees shall be collected in accordance with regulations.
+Learning, teaching, and training shall be provided to the public using individuals, legal entities, and/or private organizations – domestic or foreign – by investing in TVET and Occupational Skills. Study fees shall be collected in accordance with regulations.
 
 ### Article 80.Fundsa
 
-A TVET fund s refers to the same type of fund as fund as a labor fund as specified in the Law on Labor.
+A TVET funds refers to the same type of fund as fund as a labor fund as specified in the Law on Labor.
 
 The management and use of this fund has been specified in separate regulations and the Law on the State Budget along with other relevant legal regulations must be conformed to stringently.
 
@@ -965,8 +1157,6 @@ Individuals, legal entities, and organizations must not behave as follo
 - Provide psychoactive and/or addictive substances, gamble, and/or to operate entertainment venues in near to the TVET facility;
 
 - Behave in such a way that is contradictory to the fine cultural traditions of the nation;
-
-# Part VII Investment in TVET
 
 [[END OF PAGE 26]]
 
@@ -1066,7 +1256,7 @@ In the event that a dispute arises over TVET, either litigant shall 
 
 ### Article 90.Court Verdict
 
-In the event that arises during the provision of TVET, either litigant shall have the right to request that the People's Court considers the case and comes to a verdict in accordance with legal regulations.
+In the event that arises during the provision of TVET, either litigant shall have the right to request that the People’s Court considers the case and comes to a verdict in accordance with legal regulations.
 
 Dispute resolution shall be of an international nature and take place in accordance with international agreements and conventions to which the Lao PDR is party.
 
@@ -1320,11 +1510,11 @@ Individuals, legal entities, and/or organizations found to be implementi
 
 ### Article 106.Implementation
 
-The government of the Lao People's Democratic Republic shall be responsible for the implementation of this law.
+The government of the Lao People’s Democratic Republic shall be responsible for the implementation of this law.
 
 ### Article 107.Entry into Force
 
-This Law shall enter into force on the date it is signed by the President of the Lao People's Democratic Republic a decree for its promulgation shall be issued by an official government letter fifteen days later.
+This Law shall enter into force on the date it is signed by the President of the Lao People’s Democratic Republic a decree for its promulgation shall be issued by an official government letter fifteen days later.
 
 Any specifications or provisions which conflict with this law are hereby repealed.
 
@@ -1332,11 +1522,19 @@ National President
 
 [SEAL OF THE PRESIDENT OF THE LAO
 
-PEOPLE'S DEMOCRATIC REPUBLIC AND SIGNATURE]
+PEOPLE’S DEMOCRATIC REPUBLIC AND SIGNATURE]
 
 Pany Yathotou
 
-[H1]To Client: I was unable to find a direct English language reference for this so have translated wordfor-word. Please check. [H2]To Client: I was unsure as to whether this referred to something specific or TVET societies and associations in general. Please check. [H3]To Client: I was unable to find a direct English language reference for this so have translated wordfor-word. Please check. [H4]To Client: This word can also translate as 'principals' and 'administrators' so I have had to take a guess at the most likely meaning. [H5]To Client: I was unable to find an English language reference for this so have translated word-forword. I shall continue to do so for future instances thereof.
+[H1]To Client: I was unable to find a direct English language reference for this so have translated word-for-word. Please check.
+
+[H2]To Client: I was unsure as to whether this referred to something specific or TVET societies and associations in general. Please check.
+
+[H3]To Client: I was unable to find a direct English language reference for this so have translated word-for-word. Please check.
+
+[H4]To Client: This word can also translate as ‘principals’ and ‘administrators’ so I have had to take a guess at the most likely meaning.
+
+[H5]To Client: I was unable to find an English language reference for this so have translated word-for-word. I shall continue to do so for future instances thereof.
 
 [H6]To Client: I was unable to find references for any of these.
 
@@ -1350,7 +1548,7 @@ Download Lao:Law on Technical and Vocational Education and Training No.
 
 ## List Measures Related to Legal Documents
 
-Name (/index.php? r=site%2Fdisplaylegal&id=247&sort=name) | Description (/index.php? r=site%2Fdisplaylegal&id=247&sort=description)
+Name (/index.php?r=site%2Fdisplaylegal&id=247&sort=name) | Description (/index.php?r=site%2Fdisplaylegal&id=247&sort=description)
 --- | ---
 No results found.
 
@@ -1358,7 +1556,7 @@ No results found.
 
 
 
-About Us (/index.php?r=site/content&id=31)| Terms and Conditions (/index.php? r=site/content&id=27)| FAQs (/index.php?r=site/content&id=28)| Links (/index.php? r=site/content&id=29)| Site Map (/index.php?r=site/content&id=30)| Contact Us (/index.php? r=site/contact)
+About Us (/index.php?r=site/content&id=31)| Terms and Conditions (/index.php?r=site/content&id=27)| FAQs (/index.php?r=site/content&id=28)| Links (/index.php?r=site/content&id=29)| Site Map (/index.php?r=site/content&id=30)| Contact Us (/index.php?r=site/contact)
 
 Copyright ©2019, Foreign Trade Policy Department, Ministry of Industry and Commerce, Lao PDR.
 
