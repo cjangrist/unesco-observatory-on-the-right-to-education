@@ -24,7 +24,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education (“the Convention”) and the Recommendation against Discrimination in Education (“the Recommendation”), adopted by UNESCO’s General Conference in 1960, are aligned with UNESCO’s constitutional mandate to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -38,13 +38,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to ‘include everyone, regardless of circumstance, context or background’. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -54,7 +56,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -108,9 +110,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 6]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 6]]
 
@@ -136,11 +138,9 @@ Telephone: +421 2 5937 4675
 
 Mobile: +421903719282
 
-•
+• E-mail: sandra.gazarekova@minedu.sk
 
-E-mail: sandra.gazarekova@minedu.sk
-
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -188,9 +188,9 @@ https://www.unesco.org/en/legal-affairs/convention-against-discrimination-educat
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -206,7 +206,7 @@ It further corresponds to the overall aspiration of SDG4 which aims to 'ensure i
 
 The Ministry of Education, Research, Development and Youth of the Slovak Republic prepared several projects and publications that are covering the topic of inclusive schools. More details can be seen: https://www.minedu.sk/specialne-a-inkluzivne-vzdelavanie/
 
-At  the  moment  there  is  a  formal  procedure  ongoing  to  settle  a  new  legislation  for  lifelong learning  and  adult  education,  Adult  Education  Act:  https://www.minedu.sk/ministerstvoskolstva-pripravilo-novy-zakon-o-vzdelavani-dospelych/
+At the moment there is a formal procedure ongoing to settle a new legislation for lifelong learning and adult education, Adult Education Act: https://www.minedu.sk/ministerstvo-skolstva-pripravilo-novy-zakon-o-vzdelavani-dospelych/
 
 > 11 Judicial mechanisms play an important role in enforcing the right to education by ensuring legal accountability and therefore contributing to the practical realization of the right to education.
 
@@ -239,18 +239,18 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 - Please indicate the relevant legal provisions:
 
 § 3 letter f) and § 144 Act no. 245/2008 Coll. on education and training (school law) and on the amendment of some laws.
----
-Act no. 245/2008 Coll. on education and training and on the amendment of some laws - § 3 letters (d), (f), (g).
+Act no. 245/2008 Coll. on education and training and on the amendment of some laws – § 3 letters (d), (f), (g).
 Education and training under this Act shall be based on the principles of:
 (d) equality of access to education and training, considering the educational needs of the individual and his/her co-responsibility for his/her education
 (f) the prohibition of all forms of discrimination and, in particular, segregation
 (g) the equivalence and indivisibility of education and training in the educational process.
 §55 art. 2 Act on higher education
 https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2002/131/20230101
+Act No. 413/2021 Coll. amending Act No. 61/2015 Coll. on Vocational Education and Training and on Amendments and Additions to Certain Acts - https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/413/20220101.html
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to ‘substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes’.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -320,11 +320,11 @@ In  the  consolidated  version  of the  National  Curriculum  (2023),  under  CH
 
 Component 5: Respect for Others, it states that at the end of Cycle 2, the student is able to:
 
-- respect  different  opinions,  people's  perspectives  and  competing  ideas  from different backgrounds and value the input of others in working together,
+a) respect different opinions, people's perspectives and competing ideas from different backgrounds and value the input of others in working together,
 
-- be interested in the well-being of others, noticing their visible needs.
+b) be interested in the well-being of others, noticing their visible needs.
 
-- Component: Justice, it states: at the end of Cycle 2, the student is able to:
+6. Component: Justice, it states: at the end of Cycle 2, the student is able to:
 
 (a) know ethical concepts such as justice, honesty, equality, respect, tolerance and distinguish between right and wrong actions even in less familiar contexts.
 
@@ -342,7 +342,7 @@ In the consolidated version of the National Curriculum (2023), in the section Hu
 
 The  theme  discrimination  is  discussed  in  several  subjects  in  curriculum  for  high schools and VET schools. For example: Náuka o spoločnosti, Slovak Language and Literature, Ethics etc.
 
-Link to the curriculum for VET schools: https://siov.sk/vzdelavanie/odbornevzdelavanie-a-priprava/
+Link to the curriculum for VET schools: https://siov.sk/vzdelavanie/odborne-vzdelavanie-a-priprava/
 
 Link to the curriculum for high schools: https://nivam.sk/dokumenty-institucie/
 
@@ -364,19 +364,19 @@ Link to the curriculum for high schools: https://nivam.sk/dokumenty-institucie/
 
  Other:
 
-Schools were obliged to organize updating education in the 2022/2023 in the scope of at least 20 hours per school year, while the content was focused on changes to the school curriculum, inclusive education or digitalisation. Link: Providers of innovative education for teachers in the field of inclusion
-
-> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
-
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  co mpetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
-
-> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
 - X Multiple and flexible learning pathways 17 are provided for
 
 - X Curricula and teaching methods are inclusive in design 18
 
 - X Multilingual and intercultural education is supported
+
+Schools were obliged to organize updating education in the 2022/2023 in the scope of at least 20 hours per school year, while the content was focused on changes to the school curriculum, inclusive education or digitalisation. Link: Providers of innovative education for teachers in the field of inclusion
+
+> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+
+> 17 Multiple and flexible learning pathways are ‘entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education’ (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+
+> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
 [[END OF PAGE 12]]
 
@@ -386,7 +386,7 @@ Schools were obliged to organize updating education in the 2022/2023 in the scop
 
 Act No. 245/2008 Coll. on Education and Training and on the Amendment of some laws - https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2008/245/20240601
 
-Act No. 413/2021 Coll. amending Act No. 61/2015 Coll. on Vocational Education and Training and amending and supplementing certain acts - https://www.slov-lex.sk/pravne- predpisy/SK/ZZ/2021/413/20220101.html
+Act No. 413/2021 Coll. amending Act No. 61/2015 Coll. on Vocational Education and Training and amending and supplementing certain acts - https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/413/20220101.html
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
@@ -424,17 +424,17 @@ Act No. 413/2021 Coll. amending Act No. 61/2015 Coll. on Vocational Education an
 
 Act No. 245/2008 Coll. on Education and Training and on the Amendment of some laws - https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2008/245/20240601
 
-> 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
+> 19 ‘Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them’ (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ‘Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal’ (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
+> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong’ (Cambridge Dictionary).
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-Act No. 413/2021 Coll. amending Act No. 61/2015 Coll. on Vocational Education and Training and on Amendments of some laws - https://www.slov-lex.sk/pravne- predpisy/SK/ZZ/2021/413/20220101.html
+Act No. 413/2021 Coll. amending Act No. 61/2015 Coll. on Vocational Education and Training and on Amendments of some laws - https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/413/20220101.html
 
 - What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
@@ -496,29 +496,29 @@ At the national level, the legal basis for the development of national minority 
 
 The  school  system  of  the  Slovak  Republic  is  set  up  in  such  a  way  that  an  equal  and inseparable part of the educational system of the Slovak Republic is the upbringing and education of national minorities in their mother tongue and the teaching of the mother tongue, including its institutional provision by schools and school facilities with the language of instruction of the national minority and with the teaching of the language of the national minority. Education and training in the language of a national minority creates conditions for the development of national minorities in the area of preserving and developing their identity, language, culture and traditions. According to Article 3(1) of the European Charter for Regional or Minority Languages in the Slovak Republic, "regional or minority languages"
 
-> 23 Please see: UNESCO report
+> 23 Please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
-25
-
-'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. Supra note 16.
+> 25 Supra note 16.
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
 in the Slovak Republic are: 1. Bulgarian, 2. Czech, 3. Croatian, 4. German, 5. Hungarian, 6. Polish, 7. Romani, 8. Ruthenian and 9. Ukrainian. In Slovakia, there are more than 15 schools where the language of the national minority is thought (schools with teaching either Romani, Ukrainian or German language as a language of the minority) and there are also more national minority schools with the language of instruction of the national minority (more than 500 schools with Hungarian language of instruction - kindergartens, elementary schools and secondary schools; 4 kindergartens and 2 elementary schools with Ruthenian language of instruction; 1 kindergarten, elementary and secondary school with Ukrainian language of instruction; and 150 schools with Slovak and also Hungarian language of instruction). Part of education and training in elementary and secondary schools with a language of instruction other than the state language is also the compulsory subject Slovak language and literature to the extent of teaching necessary for its acquisition, or the subject Slovak language and Slovak literature, which is taught using methods and forms of upbringing and education as a foreign language. The language of instruction in which the subject is taught is also the language in which the examination and monitoring and evaluation of the quality of education and training are carried out.
----
-In the national minority schools, upbringing and education are implemented according to educational programs that respect the specifics of the educational needs of the national minorities. Part of the state educational programs are framework curricula in which the minimum hourly allowance for the language and literature of national minorities is defined within general education subjects. Educational standards have been developed for teaching the subjects of: Bulgarian, Czech, Croatian, German, Hungarian, Polish, Romani, Russian, Ruthenian and Ukrainian language and literature. An addendum to the educational standards for teaching the subjects of history and music in elementary and secondary schools with the teaching language of the national minorities was also developed. Through these subjects, students gradually learn the history of their nation in the context of learning about the history of the Slovak nation and other national and social groups. This cultivates their historical consciousness and enables the realization of their constitutional right to
+In the national minority schools, upbringing and education are implemented according to educational programs that respect the specifics of the educational needs of the national minorities. Part of the state educational programs are framework curricula in which the minimum hourly allowance for the language and literature of national minorities is defined within general education subjects. Educational standards have been developed for teaching the subjects of: Bulgarian, Czech, Croatian, German, Hungarian, Polish, Romani, Russian, Ruthenian and Ukrainian language and literature. An addendum to the educational standards for teaching the subjects of history and music in elementary and secondary schools with the teaching language of the national minorities was also developed. Through these subjects, students gradually learn the history of their nation in the context of learning about the history of the Slovak nation and other national and social groups. This cultivates their historical consciousness and enables the realization of their constitutional right to preserve and develop their cultural and linguistic identity.
+
 At departments and institutes of higher education institutions, it is possible to take university courses in which several languages of national minorities are taught, namely Bulgarian, Croatian, German, Hungarian, Polish, Romani, Russian, Ruthenian and Ukrainian. In Slovakia, the Selye János University in Komárno remains the only independent public higher education institution where teaching takes place primarily in the language of the national minority - in the Hungarian language. With this, it secures continuous education and training in Hungarian language from kindergarten to university.
+
 The Ministry of Education in Slovakia has a separate National Minority and Inclusive Education Department. One of the main goals of the department is to ensure quality education of national minorities whose members live on the territory of the Slovak Republic, to monitor, analyse and evaluate the education in the languages of national minorities and to cooperate with The Office of the Plenipotentiary of the Slovak Government for National Minorities and nationality schools.
-The Slovak Republic provides positive affirmative action measures for national minority education: ensures the financial and professional prerequisites for the preservation and more efficient operation of nationality schools by increased financial norms for schools with the language of instruction and schools with the teaching the subject of a national minority,
+
+The Slovak Republic provides positive affirmative action measures for national minority education: ensures the financial and professional prerequisites for the preservation and more efficient operation of nationality schools by increased financial norms for schools with the language of instruction and schools with the teaching the subject of a national minority, increased financial standards for educational publication, ensures a free choice of educational publications and materials available in the language of the national minority if
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
 they are in accordance with the valid state educational program, ensures professional development for teaching staff and professional staff who educate children and pupils belonging to national minorities and ethnic groups through educational programs and professional events (about inclusive education, teaching methods for first and second languages etc.), ensures bilingual documentation for nationality schools (namely in the state language and in the language of the relevant national minority); coordinates nationwide competitions for pupils belonging to national minorities and ethnic groups; recognizes diplomas obtained abroad in case of content compliance, announces project calls for nationality school development projects with priority areas of activities shaping the relationship of pupils to their national identity, history, culture, traditions and activities contributing to the coexistence of children of various national minorities and the majority.
----
+
 The Ministry of Education is implementing a pilot project together with the Council of Europe in the period 2022-2025 entitled "ROMANI-PLURILINGUAL POLICY EXPERIMENTATION" (RPPE). Primary schools from 3 countries of the European Union are involved in the project: Slovakia, Slovenia and Greece. The implementation of the RPPE is planned for three school years: 2022/2023, 2023/2024, 2024/2025. The RPPE aims to explore ways of using Roma language and culture to further the inclusion of Roma pupils in education. The activities are shaped by two principles that underpin the work of the Council of Europe in the field of language education: 1) pupils of all ages are at the same time language users, social actors with their own agendas to fulfil, and 2) language education should take into account all the languages present in a given educational context and help pupils to develop an integrated plurilingual repertoire and intercultural awareness.
 The Ministry of Education was implementing a project ' Innovative training of teachers with the aim of increasing their intercultural competence in the educational process of Roma students ' , known under the slogan ' Together with the Roma we will achieve more ' until 2024. The aim of the project was the systemic support of schools with pupils from Roma communities with the introduction of the teaching of the Roma language and literature in formal and informal education. All project activities aimed at supporting intercultural education and building a democratic and inclusive school environment. Cooperation was established also with teachers who have successfully completed the state exam in the Romani language.
 In 2023, the Ministry of Education in Slovakia prepared a Program of Changes containing 39 points, the aim of which is to contribute to improving the state of education in Slovakia. Each of the mentioned 39 points is developed into separate projects within the framework of project management with the aim of fulfilling the obligations of the Program Statement of the Government of the Slovak Republic for the years 2023-2027. One of the projects of the Program of Changes is the Project Opportunity for all children, the aim of which is to ensure that all children in Slovakia, after completing their education, have the opportunity to find a job and lead a dignified and fulfilling adult life. The main goal is to increase the quality of education of children from an environment of generational poverty, with a health disadvantage, or otherwise disadvantaged pupils and to ensure the application of inclusive measures so that the educational needs of national minorities are also respected. The area of development of national education is covered in many projects arising from the program statement of the Government, whether it concerns the provision of an effective system of support measures, increasing the quality and quantity of textbooks and other educational resources, the effective implementation of curriculum reform in primary and secondary schools, the development of pedagogical and professional staff, or improving the mental health of pupils, for example also the standardization of diagnostic materials in the language
@@ -531,9 +531,9 @@ of national minorities. In many projects, organizations and experts from nationa
 
 A  mandatory  part  of  the  educational  content  are  cross-cutting  themes,  which  usually overlap across educational areas. Cross-cutting topics can be applied as an integrated part of the educational content of the appropriate teaching subjects or as a separate subject within optional lessons. The choice of method and time of implementation of cross-cutting topics is within the competence of each school. At the level of primary education, the State Education  Program  introduces  the  following  cross-cutting  topics:  Personal  and  social development, Environmental education, Medial education, Multicultural education, Protection  of  life  and  health,  and  Regional  education  and  traditional  folk  culture. Multicultural education is included in the content of education with regard to the Slovak cultural environment, where members of different ethnic, national, religious and cultural origins have lived together for centuries. At the same time, traditional cultural diversity is currently  deepening  thanks  to  several  trends  that  are  often  covered  by  the  term globalization.  The  goal  of  the  cross-cutting  topic  multicultural  education  is  therefore educational action aimed at developing knowledge of various traditional and new cultures and  subcultures,  acceptance  of  cultural  diversity  as  a  social  reality  and  development  of tolerance, respect and prosocial behaviour and actions in relation to cultural differences. Multicultural  education  can  naturally  be  integrated  into  humanities  and  social  science subjects. However, the elements of multicultural education can be developed in terms of content and methodology or with the help of suitable examples in natural science subjects or in the teaching of languages.
 
-##### Indigenous people:
-
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
+
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -561,13 +561,9 @@ A  mandatory  part  of  the  educational  content  are  cross-cutting  themes,  
 
  Curricula are rid of all stereotypes 27 and bias
 
-26
+> 26 Supra note 15.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 18]]
 
@@ -689,7 +685,7 @@ Act  no.  245/2008  Coll.  on  Education  and  Training  and  on  the  Amendment
 
 [[START OF PAGE 21]]
 
-Act No. 413/2021 Coll. amending Act No. 61/2015 Coll. on Vocational Education and Training and on Amendments and Additions to Certain Acts - https://www.slov-lex.sk/pravne- predpisy/SK/ZZ/2021/413/20220101.html
+Act No. 413/2021 Coll. amending Act No. 61/2015 Coll. on Vocational Education and Training and on Amendments and Additions to Certain Acts - https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2021/413/20220101.html
 
 All details about special and inclusive education are available here: https://www.minedu.sk/specialne-a-inkluzivne-vzdelavanie/
 
@@ -721,9 +717,7 @@ Link - Slovak republic provides financial subsidy for students from poor househo
 
 Funds
 
-35
-
-> Supra note 15.
+> 35 Supra note 15.
 
 > 36 Supra note 16.
 
@@ -735,7 +729,7 @@ Funds
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized ‘the right to education during early childhood as beginning at birth’ (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to ‘the provision of at least one year of free and compulsory pre-primary education’.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -743,9 +737,9 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+ ECCE services are accessible on a non-discriminatory basis
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -759,7 +753,7 @@ Please provide the age of enrolment and duration:
 
 5 years old, 1 year is compulsory
 
-Enrolment and duration of pre-primary education is from 5-6 years. Compulsory and free preprimary education in the Slovak Republic is from the age of 5 years.
+Enrolment and duration of pre-primary education is from 5-6 years. Compulsory and free pre-primary education in the Slovak Republic is from the age of 5 years.
 
  Pre-primary education is not compulsory.
 
@@ -804,18 +798,6 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 ##### Primary education
 
 - Please provide the age of enrolment and duration of primary education:
-
-From 6 to 16 years.
-
-- Is primary education compulsory and free of charge?
-
-X Primary education is compulsory
-
- Primary education is not compulsory.
-
-X Primary education is free of charge.
-
- Primary education is not free.
 
 From 6 to 16 years.
 
@@ -875,7 +857,7 @@ In this part, please provide information on the general availability and accessi
 
 - Please provide the age of enrolment and duration of lower secondary education:
 
-The pupil will finish lower secondary education after successful graduation from second stage of primary school (after 9 years) or successful finishing the first year of 5 years gymnasium (type of high school) or after finishing 4 th year of 8-year gymnasium. Usually this happens at the age of 16.
+The pupil will finish lower secondary education after successful graduation from second stage of primary school (after 9 years) or successful finishing the first year of 5 years gymnasium (type of high school) or after finishing 4th year of 8-year gymnasium. Usually this happens at the age of 16.
 
 - Please provide the age of enrolment and duration of upper secondary education:
 
@@ -935,9 +917,9 @@ Yes o No o
 
 [[START OF PAGE 26]]
 
-#### 2.3 Higher education
-
 - Please elaborate. Brief quantitative information may be added.
+
+#### 2.3 Higher education
 
 For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39 , and target 4.4 40 . Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
 
@@ -1021,7 +1003,7 @@ Lifelong learning strategy (europa.eu)
 
 - Please elaborate further on the measures taken:
 
-National project was approved: Link Systém individuálnych vzdelávacích účtov časť I: Elektronická  platforma  individuálnych  vzdelávacích  účtov  (EPIVU) to  support  lifelong learning in Slovakia.
+National project was approved: Link - Systém individuálnych vzdelávacích účtov – časť I: Elektronická platforma individuálnych vzdelávacích účtov (EPIVU) to support lifelong learning in Slovakia.
 
 - What challenges were encountered in realizing adult learning and education?
 
@@ -1043,25 +1025,23 @@ National project was approved: Link Systém individuálnych vzdelávacích účt
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
-- X State monitoring and inspections
+X State monitoring and inspections
 
-- X Health and sanitation
+X Health and sanitation
 
-X
+X Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
-- Safety  (children  learn  in  a  safe  environment  free  from  violence  or  harassment, including school-related gender-based violence (in and around schools))
+X Infrastructure
 
-- X Infrastructure
+X Curriculum
 
-- X Curriculum
-
-- X Student-teacher ratio
+X Student-teacher ratio
 
  School fees (if relevant)
 
@@ -1135,9 +1115,9 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
  Other:
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1217,7 +1197,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -1249,7 +1229,7 @@ Act No. 245/2008 on Education and training and on the amendment of some laws men
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1265,7 +1245,7 @@ Following the adoption of Regulation (EU) 2016/679 of the European Parliament an
 
 The Ministry has prepared  HYPERLINK "https://www.minedu.sk/digiedu/" a model of the School  Digital  Equipment  Standard,  which  is  based  on  the  draft  model  for  the  European Commission Highly Equipped and Connected Classrooms (HECC). The aim of this model is not to  exhaustively  list  the  compulsory  equipment  of  each  school,  but  to  set  a  standard  of technological equipment for primary and secondary  schools that should be achieved and maintained for the needs of a successful digital transformation of education.
 
-HYPERLINK "https://www.minedu.sk/vzdelavacia-a-informacna-platforma-viki/" The Viki educational and information platform is the Central Repository of Digital Educational Content of  the  Ministry  of  Education  CUDEO  for  kindergartens,  primary  and  secondary  schools, including  grammar  schools  (for  principals,  teaching  staff  and  pupils).  This  multi-modal national platform is free of charge for schools, teachers, and students. It contains interactive content for all of the subjects and even in different languages -Slovak, Rusyn, Hungarian, and Romani.
+HYPERLINK "https://www.minedu.sk/vzdelavacia-a-informacna-platforma-viki/" The Viki educational and information platform is the Central Repository of Digital Educational Content
 
 > 45 Lack of internet connection, basic infrastructure or devices.
 
@@ -1273,7 +1253,9 @@ HYPERLINK "https://www.minedu.sk/vzdelavacia-a-informacna-platforma-viki/" The V
 
 [[START OF PAGE 34]]
 
-HYPERLINK  "https://vzdelavanie21.sk/"  The  new  curricular  reform  also  promotes  the inclusion of future-ready skills in education.
+of the Ministry of Education CUDEO for kindergartens, primary and secondary schools, including grammar schools (for principals, teaching staff and pupils). This multi-modal national platform is free of charge for schools, teachers, and students. It contains interactive content for all of the subjects and even in different languages – Slovak, Rusyn, Hungarian, and Romani.
+
+HYPERLINK "https://vzdelavanie21.sk/" The new curricular reform also promotes the inclusion of future-ready skills in education.
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
@@ -1313,7 +1295,7 @@ Currently,  there  is  an  ongoing  debate  about  the  use  of  technologies  (
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1349,7 +1331,7 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 [[START OF PAGE 36]]
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
