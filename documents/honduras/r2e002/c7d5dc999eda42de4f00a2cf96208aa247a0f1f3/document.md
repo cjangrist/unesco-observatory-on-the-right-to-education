@@ -1,10 +1,10 @@
 [[START OF PAGE 1]]
 
-# Plan Estrat Plan Estraté égico gico
+# Plan Estratégico
 
-## del Sector Educaci del Sector Educació ón n Período 2005-2015
+## del Sector Educación Período 2005-2015
 
-Septiembre 2007 Septiembre 2007
+Septiembre 2007
 
 1
 
@@ -12,7 +12,7 @@ Septiembre 2007 Septiembre 2007
 
 [[START OF PAGE 2]]
 
-'La Educación es la base fundamental del desarrollo humano, institucional, económico y social.'
+“La Educación es la base fundamental del desarrollo humano, institucional, económico y social.”
 
 2
 
@@ -20,7 +20,7 @@ Septiembre 2007 Septiembre 2007
 
 [[START OF PAGE 3]]
 
-'Es urgente transformar la educación para que responda a los desafíos de un entorno competitivo y globalizado.'
+“Es urgente transformar la educación para que responda a los desafíos de un entorno competitivo y globalizado.”
 
 3
 
@@ -32,7 +32,7 @@ Septiembre 2007 Septiembre 2007
 
 - Honduras necesita un instrumento de planificación de mediano plazo que incluya políticas educativas de estado.
 
-- El Plan Estratégico Sectorial es la guía para lograr una 'Educación de Calidad para Todas y Todos'.
+- El Plan Estratégico Sectorial es la guía para lograr una “Educación de Calidad para Todas y Todos”.
 
 4
 
@@ -40,7 +40,7 @@ Septiembre 2007 Septiembre 2007
 
 [[START OF PAGE 5]]
 
-## SECTOR EDUCACI SECTOR EDUCACIÓ ÓN N
+## SECTOR EDUCACIÓN
 
 ### GOBIERNO
 
@@ -62,15 +62,15 @@ Representantes organizados en la MERECE
 
 [[START OF PAGE 6]]
 
-## Educaci Educació ón Preb n Prebá ásica  (Grado 0) sica  (Grado 0)
+## Educación Prebásica (Grado 0)
 
-### Cobertura Neta (%) Cobertura Neta (%)
+### Cobertura Neta (%)
 
-100
+36.5
 
 38.6
 
-36.5
+100
 
 0
 
@@ -104,15 +104,15 @@ meta
 
 [[START OF PAGE 7]]
 
-## Educaci Educació ón B n Bá ásica (1 sica (1º º- -6 6º º Grado) Grado)
+## Educación Básica (1º-6º Grado)
 
-### Cobertura Neta (%) Cobertura Neta (%)
+### Cobertura Neta (%)
 
-100
+91.7
 
 92.5
 
-91.7
+100
 
 0
 
@@ -156,15 +156,15 @@ meta
 
 [[START OF PAGE 8]]
 
-## Educaci Educació ón B n Bá ásica (7 sica (7º º- -9 Grado)
+## Educación Básica (7º-9º Grado)
 
-### 9º º Grado) Cobertura Neta (%) Cobertura Neta (%)
+### Cobertura Neta (%)
 
-70
+37.3
 
 39.7
 
-37.3
+70
 
 0
 
@@ -208,15 +208,15 @@ meta
 
 [[START OF PAGE 9]]
 
-## Educaci Educació ón Media (10 n Media (10º º- -12 12º º Grado) Grado)
+## Educación Media (10º-12º Grado)
 
-### Cobertura Neta (%) Cobertura Neta (%)
+### Cobertura Neta (%)
 
-50
+22.3
 
 24.2
 
-22.3
+50
 
 0
 
@@ -250,15 +250,15 @@ meta
 
 [[START OF PAGE 10]]
 
-## Educaci Educació ón Superior n Superior
+## Educación Superior
 
-### Cobertura Neta (%) Cobertura Neta (%)
+### Cobertura Neta (%)
 
-20
+15
 
 16
 
-15
+20
 
 0
 
@@ -292,15 +292,15 @@ meta
 
 [[START OF PAGE 11]]
 
-## Analfabetismo Analfabetismo
+## Analfabetismo
 
-### Cobertura Neta (%) Cobertura Neta (%)
+### Cobertura Neta (%)
 
-10
+18.3
 
 17.3
 
-18.3
+10
 
 0
 
@@ -334,9 +334,9 @@ meta
 
 [[START OF PAGE 12]]
 
-## ¿ ¿D DÓ ÓNDE ESTAMOS Y NDE ESTAMOS Y HACIA D HACIA DÓ ÓNDE VAMOS? NDE VAMOS?
+## ¿DÓNDE ESTAMOS Y HACIA DÓNDE VAMOS?
 
-CALIDAD CALIDAD | 2006 2006 | 2015 2015
+CALIDAD | 2006 | 2015
 --- | --- | ---
 Rendimiento en Matemáticas (%) | 41 | 70
 Rendimiento en Español (%) | 42 | 70
@@ -350,11 +350,11 @@ Supervisión y evaluación docente | Mínima o nula | Funcionando
 
 [[START OF PAGE 13]]
 
-## ¿ ¿D DÓ ÓNDE ESTAMOS Y NDE ESTAMOS Y
+## ¿DÓNDE ESTAMOS Y
 
-## HACIA D HACIA DÓ ÓNDE VAMOS? NDE VAMOS?
+## HACIA DÓNDE VAMOS?
 
-Recursos e Infraestructura Recursos e Infraestructura | 2006 2006 | 2015 2015
+Recursos e Infraestructura | 2006 | 2015
 --- | --- | ---
 Recursos didácticos (Centros con libros) | 20-30% | 100%
 Infraestructura física (Edificaciones en buen estado) | <20% | 100%
@@ -366,15 +366,17 @@ Infraestructura tecnológica (Centros con computadoras y conectividad) | <5% | 6
 
 [[START OF PAGE 14]]
 
-## ¿ ¿C CÓ ÓMO LOGRAREMOS MO LOGRAREMOS LAS METAS? LAS METAS?
+## ¿CÓMO LOGRAREMOS LAS METAS?
 
-Establecimiento del marco legal: Ley General de Educación Establecimiento del marco legal: Ley General de Educación
+Establecimiento del marco legal: Ley General de Educación
 
 ### 1. Articulando el Sistema Educativo
 
-Articulación interna: Educ. Prebásica-BásicaMedia-Técnica ProfesionalSuperior-No Formal-Informal Articulación interna: Educ. Prebásica-BásicaMedia-Técnica ProfesionalSuperior-No Formal-Informal
+Articulación interna: Educ. Prebásica-Básica-Media-Técnica Profesional-Superior-No Formal-Informal
 
-Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medio ambiente y nero, Medio ambiente y gesti gestió ón de riesgos, Descentralizaci n de riesgos, Descentralizació ón n Articulación externa: Conjunto curricular nacional integrado, pertinente e integral (basado en valores). Articulación externa: Conjunto curricular nacional integrado, pertinente e integral (basado en valores).
+Articulación externa: Conjunto curricular nacional integrado, pertinente e integral (basado en valores).
+
+Ejes Transversales: Equidad de género, Medio ambiente y gestión de riesgos, Descentralización
 
 14
 
@@ -382,9 +384,7 @@ Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medi
 
 [[START OF PAGE 15]]
 
-## ¿ ¿C CÓ ÓMO LOGRAREMOS MO LOGRAREMOS LAS METAS? LAS METAS?
-
-Ampliar cobertura
+## ¿CÓMO LOGRAREMOS LAS METAS?
 
 Ampliar cobertura
 
@@ -396,13 +396,13 @@ Ampliar cobertura
 
 Garantizar equidad
 
-Garantizar equidad
+Aumentar eficiencia
 
 Mejorar gestión
 
-Mejorar gestión
+Mejorar calidad
 
-Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medio ambiente y nero, Medio ambiente y gesti gestió ón de riesgos, Descentralizaci n de riesgos, Descentralizació ón n Aumentar eficiencia Aumentar eficiencia Mejorar calidad Mejorar calidad
+Ejes Transversales: Equidad de género, Medio ambiente y gestión de riesgos, Descentralización
 
 15
 
@@ -410,15 +410,17 @@ Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medi
 
 [[START OF PAGE 16]]
 
-## ¿ ¿C CÓ ÓMO LOGRAREMOS MO LOGRAREMOS LAS METAS? LAS METAS?
+## ¿CÓMO LOGRAREMOS LAS METAS?
 
-Implementación de plan maestro de infraestructura física Implementación de plan maestro de infraestructura física
+Implementación de plan maestro de infraestructura física
 
 ### 3. Ampliando infraestructura física y tecnológica
 
-Dotación de equipo y mobiliario Dotación de equipo y mobiliario
+Dotación de equipo y mobiliario
 
-Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medio ambiente y nero, Medio ambiente y gesti gestió ón de riesgos, Descentralizaci n de riesgos, Descentralizació ón n Dotación de computadoras, recursos didácticos informáticos y conectividad Dotación de computadoras, recursos didácticos informáticos y conectividad
+Dotación de computadoras, recursos didácticos informáticos y conectividad
+
+Ejes Transversales: Equidad de género, Medio ambiente y gestión de riesgos, Descentralización
 
 16
 
@@ -426,15 +428,9 @@ Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medi
 
 [[START OF PAGE 17]]
 
-## ¿ ¿C CÓ ÓMO LOGRAREMOS MO LOGRAREMOS LAS METAS? LAS METAS?
+## ¿CÓMO LOGRAREMOS LAS METAS?
 
-Formación inicial y
-
-Formación inicial y
-
-permanente de docentes
-
-permanente de docentes
+Formación inicial y permanente de docentes
 
 ### 4.
 
@@ -442,15 +438,11 @@ permanente de docentes
 
 ### talento humano
 
-Formación de
+Formación de formadores
 
-Formación de
+Formación de catedráticos e investigadores
 
-formadores
-
-formadores
-
-Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medio ambiente y nero, Medio ambiente y gesti gestió ón de riesgos, Descentralizaci n de riesgos, Descentralizació ón n Formación de catedráticos e investigadores Formación de catedráticos e investigadores
+Ejes Transversales: Equidad de género, Medio ambiente y gestión de riesgos, Descentralización
 
 17
 
@@ -458,15 +450,17 @@ Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medi
 
 [[START OF PAGE 18]]
 
-## ¿ ¿C CÓ ÓMO LOGRAREMOS MO LOGRAREMOS LAS METAS? LAS METAS?
+## ¿CÓMO LOGRAREMOS LAS METAS?
 
-Formación de investigadores con niveles de maestría y doctorado Formación de investigadores con niveles de maestría y doctorado
+Formación de investigadores con niveles de maestría y doctorado
 
 ### 5. Generando conocimiento, ciencia y tecnología
 
-Inversión en programas de investigación y desarrollo Inversión en programas de investigación y desarrollo
+Inversión en programas de investigación y desarrollo
 
-Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medio ambiente y nero, Medio ambiente y gesti gestió ón de riesgos, Descentralizaci n de riesgos, Descentralizació ón n Incentivos a la generación de conocimiento e investigación científicatecnológica Incentivos a la generación de conocimiento e investigación científicatecnológica
+Incentivos a la generación de conocimiento e investigación científica-tecnológica
+
+Ejes Transversales: Equidad de género, Medio ambiente y gestión de riesgos, Descentralización
 
 18
 
@@ -474,17 +468,19 @@ Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medi
 
 [[START OF PAGE 19]]
 
-## ¿ ¿C CÓ ÓMO LOGRAREMOS MO LOGRAREMOS LAS METAS? LAS METAS?
+## ¿CÓMO LOGRAREMOS LAS METAS?
 
-Crear mecanismos de supervisión, evaluación, acreditación y certificación Crear mecanismos de supervisión, evaluación, acreditación y certificación
+Crear mecanismos de supervisión, evaluación, acreditación y certificación
 
 ### 6. Implementando sistema de rendición de cuentas y transparencia
 
-Aplicar modelo de Gerencia por Resultados Aplicar modelo de Gerencia por Resultados
+Empoderar a madres y padres de familia en procesos de gestión educativa
 
-Ejes Transversales: Equidad de g Ejes Transversales: Equidad de gé énero, Medio ambiente y nero, Medio ambiente y gesti gestió ón de riesgos, Descentralizaci n de riesgos, Descentralizació ón n
+Promover mecanismos de participación ciudadana a nivel nacional, departamental, municipal y local
 
-Empoderar a madres y padres de familia en procesos de gestión educativa Empoderar a madres y padres de familia en procesos de gestión educativa Promover mecanismos de participación ciudadana a nivel nacional, departamental, municipal y local Promover mecanismos de participación ciudadana a nivel nacional, departamental, municipal y local
+Aplicar modelo de Gerencia por Resultados
+
+Ejes Transversales: Equidad de género, Medio ambiente y gestión de riesgos, Descentralización
 
 19
 
@@ -492,9 +488,9 @@ Empoderar a madres y padres de familia en procesos de gestión educativa Empoder
 
 [[START OF PAGE 20]]
 
-## FINANCIAMIENTO FINANCIAMIENTO
+## FINANCIAMIENTO
 
-Presupuestos Presupuestos estimados estimados ( ( Millones de Millones de US$ US$ ) ) | 2007 2007 | 2008 2008 | 2009 2009
+Presupuestos estimados (Millones de US$) | 2007 | 2008 | 2009
 --- | --- | --- | ---
 Plan | 930 | 1,067 | 1,192
 Sector | 880 | 987 | 1,094
@@ -508,9 +504,15 @@ Nota: La brecha del Plan al 2015 es de aprox. US$ 1,000 MM
 
 [[START OF PAGE 21]]
 
-## ACCIONES A ACCIONES A CORTO PLAZO CORTO PLAZO
+## ACCIONES A CORTO PLAZO
 
-Socializar el Plan Estratégico del Sector Educación Reactivar Consejo Nacional de Educación Actualizar y gestionar brecha financiera Operativizar el Plan
+Socializar el Plan Estratégico del Sector Educación
+
+Reactivar Consejo Nacional de Educación
+
+Actualizar y gestionar brecha financiera
+
+Operativizar el Plan
 
 21
 
@@ -518,7 +520,7 @@ Socializar el Plan Estratégico del Sector Educación Reactivar Consejo Nacional
 
 [[START OF PAGE 22]]
 
-## GRANDES DESAF GRANDES DESAFÍ ÍOS OS
+## GRANDES DESAFÍOS
 
 - Aprobar la Ley General de Educación
 
@@ -526,9 +528,9 @@ Socializar el Plan Estratégico del Sector Educación Reactivar Consejo Nacional
 
 - Lograr un Pacto Nacional por la Educación que garantice
 
--Continuidad del Plan a través de diferentes Gobiernos
+- Continuidad del Plan a través de diferentes Gobiernos
 
--Apoyo de la Dirigencia Magisterial
+- Apoyo de la Dirigencia Magisterial
 
 22
 
@@ -536,11 +538,11 @@ Socializar el Plan Estratégico del Sector Educación Reactivar Consejo Nacional
 
 [[START OF PAGE 23]]
 
-# Plan Estrat Plan Estraté égico gico del Sector Educaci del Sector Educació ón n
+# Plan Estratégico del Sector Educación
 
 ## Período 2005-2015
 
-Septiembre 2007 Septiembre 2007
+Septiembre 2007
 
 23
 
