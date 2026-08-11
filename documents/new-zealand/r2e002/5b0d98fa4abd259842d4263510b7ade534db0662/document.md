@@ -6,6 +6,11 @@ Cross-government priorities to improve disabled people's ability to participate 
 
 December 2015
 
+Office for
+Disability issues
+Te Tari Mō Ngā Take Hauātanga
+Administered by the Ministry of Social Development
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -27,6 +32,32 @@ Disability Action Plan 2014-2018: Update 2015
 [[START OF PAGE 3]]
 
 ## Contents
+
+Priorities for cross-government action.................................................. 4
+The strategic direction is disabled people-led .............................................4
+Actions involve more than one government agency ....................................4
+Other actions are important to disabled people, but these are the
+responsibility of a single agency...............................................................5
+The Plan is codesigned with disabled people ........................................ 6
+Disabled people are involved through their representative organisations .......7
+Building on principles, working together evolves into practice ......................7
+Governance........................................................................................... 9
+Ministerial Committee on Disability Issues .................................................9
+Chief Executives' Group on Disability Issues and Disabled People's
+Organisations ........................................................................................9
+Senior Officials Group on Disability Issues and Disabled People's
+Organisations ........................................................................................9
+Implementation and monitoring ..........................................................10
+Disability Action Plan 2014-2018: Update 2015 ...................................11
+Vision .................................................................................................11
+Person-directed outcomes .....................................................................11
+Shared result: Increase employment and economic opportunities...............12
+Shared result: Transform the disability support system.............................12
+Shared result: Ensure personal safety.....................................................13
+Shared result: Promote access in the community .....................................14
+Appendix 1: Plan summary ..................................................................16
+Appendix 2: Governance arrangement on disability issues ..................18
+Appendix 3: What has changed in the 2015 update .............................21
 
 Disability Action Plan 2014-2018: Update 2015
 
@@ -50,7 +81,7 @@ This updated Plan was approved by Cabinet in December 2015, following public con
 
 ### The strategic direction is disabled people-led
 
-The Plan's joint vision is for 'All New Zealanders to experience equal rights of citizenship'.
+The Plan's joint vision is for "All New Zealanders to experience equal rights of citizenship".
 
 Reinforcing this vision are five person-driven outcomes, which indicate key changes that disabled people say they want to experience in their lives. The actions should, over time, help make these outcomes real.
 
@@ -74,7 +105,7 @@ These issues are usually more difficult and complex, in part because multiple or
 
 ### Other actions are important to disabled people, but these are the responsibility of a single agency
 
-Some priorities and actions raised by disabled people in the development and update of the Plan are clearly the responsibility of one government agency, and no other government agency needs to be directly involved. These single agencyled actions are not included in the Plan.
+Some priorities and actions raised by disabled people in the development and update of the Plan are clearly the responsibility of one government agency, and no other government agency needs to be directly involved. These single agency-led actions are not included in the Plan.
 
 In 2016, the Office for Disability Issues will work with Disabled People's Organisations to develop a coordinated process to ensure opportunities for their feedback on single agency-led actions.
 
@@ -88,7 +119,7 @@ Disability Action Plan 2014-2018: Update 2015
 
 ## The Plan is codesigned with disabled people
 
-In July 2013, the Chief Executives' Group on Disability Issues 1 met for the first time with the Independent Monitoring Mechanism (that is the Human Rights Commission, the Office of the Ombudsman, and the Convention Coalition Monitoring Group). This meeting recognised that the status quo approach to disability policy development needed to change.
+In July 2013, the Chief Executives' Group on Disability Issues¹ met for the first time with the Independent Monitoring Mechanism (that is the Human Rights Commission, the Office of the Ombudsman, and the Convention Coalition Monitoring Group). This meeting recognised that the status quo approach to disability policy development needed to change.
 
 The Chief Executives' Group agreed to take a more inclusive and collaborative approach with developing a new action plan. They directed government agencies to work closely with Disabled People's Organisations and codesign the Plan.
 
@@ -144,7 +175,7 @@ Seven national Disabled People's Organisations were involved in codesigning the 
 
  Kāpo Māori o Aotearoa New Zealand.
 
-In 2015, the Disabled People's Organisations published a list of attributes describing in more detail what constitutes a Disabled Person's Organisation. These attributes are online at: http://www.odi.govt.nz/community/disabledpeoples-organisations.html
+In 2015, the Disabled People's Organisations published a list of attributes describing in more detail what constitutes a Disabled Person's Organisation. These attributes are online at: http://www.odi.govt.nz/community/disabled-peoples-organisations.html
 
 ### Building on principles, working together evolves into practice
 
@@ -196,7 +227,7 @@ Implementation of the Plan is jointly overseen by the Disabled People's Organisa
 
 In addition, management of the Plan is provided by regular meetings between the Disabled People's Organisations and senior officials (who support the Chief Executives' Group on Disability Issues). These meetings discuss any emerging issues with the Plan before they are discussed with the Chief Executives' Group.
 
-Appendix 2 has a diagram that illustrates the governance arrangement for crossgovernment action on disability issues.
+Appendix 2 has a diagram that illustrates the governance arrangement for cross-government action on disability issues.
 
 Disability Action Plan 2014-2018: Update 2015
 
@@ -216,7 +247,7 @@ Depending on the requirements of an action, a reference or advisory group may be
 
 An important part of the scoping process is the identification of milestones. These form the basis for ongoing reporting of implementation.
 
-Action implementation only begins after the scope 2  has been approved by a governance meeting.
+Action implementation only begins after the scope² has been approved by a governance meeting.
 
 The Office for Disability Issues coordinates an overall progress report on the Plan, based on information provided by action leads. The report is provided to each governance meeting.
 
@@ -224,7 +255,7 @@ In 2016, the Office for Disability Issues will improve the information available
 
 The Minister for Disability Issues also includes implementation progress in their annual report to Parliament.
 
-> 2 Approved scoping templates for new actions in the initial Plan are available at: http://www.odi.govt.nz/what-we-do/ministerial-committee-on-disabilityissues/disability-action-plan/2014-2018/actions-2014-2015/actions-all.html
+> 2 Approved scoping templates for new actions in the initial Plan are available at: http://www.odi.govt.nz/what-we-do/ministerial-committee-on-disability-issues/disability-action-plan/2014-2018/actions-2014-2015/actions-all.html
 
 Disability Action Plan 2014-2018: Update 2015
 
@@ -280,11 +311,11 @@ Disability Action Plan 2014-2018: Update 2015
 
 This shared result focuses on building employers' confidence to employ disabled people and provide accessible workplaces, opportunities for work experiences, entrepreneurship, and education achievement and skill development. It recognises obligations in the CRPD, particularly Articles 24 and 27.
 
-#### Priority: Increase the number of disabled people who transition from school and from tertiary education into employment
+#### 1. Priority: Increase the number of disabled people who transition from school and from tertiary education into employment
 
 - Improve transitions. Lead: Ministry of Education.
 
-#### Priority: Increase the number of disabled people, including longterm unemployed disabled people, in paid employment and selfemployment on an equal basis with others
+#### 2. Priority: Increase the number of disabled people, including long-term unemployed disabled people, in paid employment and self-employment on an equal basis with others
 
 - Implement a long term work programme to improve employment outcomes for disabled people including the development of guidelines on reasonable accommodation. Lead: Ministry of Social Development.
 
@@ -300,7 +331,7 @@ This shared result focuses on building employers' confidence to employ disabled 
 
 This shared result focuses on ensuring effective engagement with disabled people and coordination across sectors and across agencies to focus on outcomes and maximum progress from available resources. It recognises obligations in the CRPD, particularly Articles 19, 20 and 26.
 
-#### Priority: Promote disabled people having choice and control over their supports/services, and make more efficient use of disability support funding
+#### 4. Priority: Promote disabled people having choice and control over their supports/services, and make more efficient use of disability support funding
 
 - DPOs advise and work with government agencies and the National Enabling Good Lives Leadership Group to support changes to the disability support system, including learning from the Enabling Good Lives approach (particularly its demonstrations) and other initiatives. Key principles of this work are being culturally responsive, strengths based, holistic, involve whānau (whānau ora
 
@@ -336,7 +367,7 @@ This shared result focuses on promoting systems and practices to protect disable
 
 - Ensure disabled people can exercise their legal capacity, including through recognition of supported decision making. Lead: Office for Disability Issues.
 
-- Explore the framework that protects the bodily integrity of disabled children and disabled adults against non-therapeutic medical procedures, including the issue of consent.  This action will focus initially on options to protect against nontherapeutic sterilisation without the fully informed consent of the individual. Lead: Ministry of Health, with support from the Ministry of Justice.
+- Explore the framework that protects the bodily integrity of disabled children and disabled adults against non-therapeutic medical procedures, including the issue of consent. This action will focus initially on options to protect against non-therapeutic sterilisation without the fully informed consent of the individual. Lead: Ministry of Health, with support from the Ministry of Justice.
 
 Disability Action Plan 2014-2018: Update 2015
 
@@ -430,47 +461,41 @@ Disability Action Plan 2014-2018: Update 2015
 
 ### Disability Action Plan 2014-2018: Update 2015
 
-Wellbeing: I feel dignity and cultural identity through a balance of family/community, mental, physical and spiritual wellbeing. I can earn and grow my wealth on an equal basis with others.
+Cross-government priorities to improve disabled people's ability to participate and contribute to New Zealand.
 
 #### Vision
 
-#### Person-driven outcomes Person-directed outcomes
+Disabled people, through their representative organisations, have said to government agencies it is most important that:
+
+All New Zealanders experience equal rights of citizenship
+
+#### Person-directed outcomes
+
+Actions to achieve the vision should result in disabled people being able to say they experience:
+
+Wellbeing: I feel dignity and cultural identity through a balance of family/community, mental, physical and spiritual wellbeing. I can earn and grow my wealth on an equal basis with others.
+
+Representation: Disabled People's Organisations (DPOs) represent collective issues that have meaning for me (based on lived experience) in a way that has influence and impact. DPOs are sustainable with the capacity to deliver their role and evolve over time.
+
+Self-determination: I make my decisions myself based on my aspirations. I have access to information and support so that my decisions are informed.
+
+Community: I feel welcomed by my community. I feel respected for my views and my contribution is received on an equal basis with others.
+
+Safety and autonomy: I am safe in my home, community, and work environment. I feel safe to speak up or complain, and I am heard. Those assisting me (professionals and others) have high awareness, and I do not experience abuse.
 
 #### Shared results
 
+Disabled people and government agencies have identified priorities for cross-government action to achieve results that:
+
 Increase employment and economic opportunities: This shared result focuses on building employers' confidence to employ disabled people and provide accessible workplaces, opportunities for work experiences, entrepreneurship, and education achievement and skill development. It recognises obligations in the CRPD, particularly Articles 24 and 27.
 
-Transform the disability support system:
-
-This
-
-shared result focuses on ensuring effective engagement with disabled people and coordination across sectors and across agencies to focus on outcomes and maximum progress from available resources. It recognises obligations in the CRPD, particularly Articles 19, 20 and 26.
+Transform the disability support system: This shared result focuses on ensuring effective engagement with disabled people and coordination across sectors and across agencies to focus on outcomes and maximum progress from available resources. It recognises obligations in the CRPD, particularly Articles 19, 20 and 26.
 
 Ensure personal safety: This shared result focuses on promoting systems and practices to protect disabled children and adults in all settings. It recognises obligations in the CRPD, particularly Articles 11, 12, 13, 14, 15, 16, 17 and 23.
 
 Promote access in the community: This shared result focuses on: accessible buildings and spaces transport, urban design; accessible information, communications; access to health services, justice services; and political and civic participation. It recognises obligations in the CRPD, particularly Articles 5, 8, 9, 21, 25, 29 and 30.
 
-Community: I feel welcomed by my community. I feel respected for my views and my contribution is received on an equal basis with others.
-
-Self-determination: I make my decisions myself based on my aspirations. I have access to information and support so that my decisions are informed.
-
-Representation: Disabled People's Organisations (DPOs) represent collective issues that have meaning for me (based on lived experience) in a way that has influence and impact. DPOs are sustainable with the capacity to deliver their role and evolve over time.
-
-Safety and autonomy:
-
-I am safe in my home, community, and work environment. I feel safe to speak up or complain, and I am heard. Those assisting me (professionals and others) have high awareness, and I do not experience abuse.
-
-Disabled people, through their representative organisations, have said to government agencies it is most important that:
-
-Cross- government priorities to improve disabled people's ability to participate and contribute to New Zealand.
-
-Actions to achieve the vision should result in disabled people being able to say they experience:
-
-Disabled people and government agencies have identified priorities for cross-government action to achieve results that:
-
-All New Zealanders experience equal rights of citizenship
-
-A8496047 - November 2015 - Office for Disability Issues
+A8496047 – November 2015 – Office for Disability Issues
 
 16
 
@@ -486,17 +511,17 @@ Within each shared result, disabled people and government agencies agreed the mo
 
 ##### Increase employment and economic opportunities
 
-###### Priority: Increase the number of disabled people who transition from school and from tertiary education into employment
+###### 1. Priority: Increase the number of disabled people who transition from school and from tertiary education into employment
 
 - Improve transitions. Lead: Ministry of Education.
 
-###### Priority: Increase the number of disabled people, including long-term unemployed disabled people, in paid employment and self-employment on an equal basis with others
+###### 2. Priority: Increase the number of disabled people, including long-term unemployed disabled people, in paid employment and self-employment on an equal basis with others
 
 - Implement a long term work programme to improve employment outcomes for disabled people including the development of guidelines on reasonable accommodation. Lead: Ministry of Social Development.
 
 - Building on work in action 2(a), identify better alternatives so that the minimum wage exemption process can be removed. Lead: Ministry of Social Development and Ministry of Business, Innovation and Employment.
 
-###### Priority: Increase the number of employers who are confident in employing disabled people, with the public sector taking a lead
+###### 3. Priority: Increase the number of employers who are confident in employing disabled people, with the public sector taking a lead
 
 - Government to take a lead in employing disabled people and providing paid internships. Lead: Ministry of Social Development.
 
@@ -504,33 +529,33 @@ Within each shared result, disabled people and government agencies agreed the mo
 
 ##### Transform the disability support system
 
-###### Priority: Promote disabled people having choice and control over their supports/services, and make more efficient use of disability support funding
+###### 4. Priority: Promote disabled people having choice and control over their supports/services, and make more efficient use of disability support funding
 
 - DPOs advise and work with government agencies and the National Enabling Good Lives Leadership Group to support changes to the disability support system, including learning from the Enabling Good Lives approach (particularly its demonstrations) and other initiatives. Key principles of this work are being culturally responsive, strengths based, holistic, involve whānau (whānau ora principles), and an integrated approach. Lead: Ministry of Social Development, Ministry of Health, and Ministry of Education.
 
-- A good start in life: Develop policy options to improve government supports for parents, family and whānau of disabled children aged 0-6 years. Lead: Ministry of Education .
+- A good start in life: Develop policy options to improve government supports for parents, family and whānau of disabled children aged 0-6 years. Lead: Ministry of Education.
 
-###### Priority: Promote the involvement of Disabled People's Organisations in the design and monitoring of the disability support system transformation
+###### 5. Priority: Promote the involvement of Disabled People's Organisations in the design and monitoring of the disability support system transformation
 
 - DPOs and government working together - joint work programme on involving DPOs in decisions that affect disabled people agreed by the Chief Executives' Group on Disability Issues and Independent Monitors on 21 August 2013. Lead: Office for Disability Issues and DPOs.
 
 - Improve DPO capability (individually and collectively) to engage with government agencies and their wider community, and consider representation of different population groups in DPOs. Lead: Office for Disability Issues and DPOs.
 
-###### Priority: Increase the capability of disability support service providers to be of service to disabled people
+###### 6. Priority: Increase the capability of disability support service providers to be of service to disabled people
 
 - Develop and implement effective ways for disabled people and DPOs to provide feedback (both qualitative and quantitative) safely about the quality of services and support and to monitor, evaluate, and scrutinise and make providers accountable to funders for achieving outcomes. Lead: Ministry of Health.
 
-- Disability Action Plan 2014-2018: Update 2015 b) Ensure providers are responsive to disabled people and provide choice and tailoring of services. Explore how provider performance should be assessed, including through accreditation, provider performance measurement, and contract monitoring systems. Lead: Ministry of Health.
+- Ensure providers are responsive to disabled people and provide choice and tailoring of services. Explore how provider performance should be assessed, including through accreditation, provider performance measurement, and contract monitoring systems. Lead: Ministry of Health.
 
 ##### Ensure personal safety
 
-###### Priority: Reduce barriers to disabled people making decisions to determine their own lives
+###### 7. Priority: Reduce barriers to disabled people making decisions to determine their own lives
 
 - Ensure disabled people can exercise their legal capacity, including through recognition of supported decision making. Lead: Office for Disability Issues.
 
-- Explore the framework that protects the bodily integrity of disabled children and disabled adults against nontherapeutic medical procedures, including the issue of consent. This action will focus initially on options to protect against non-therapeutic sterilisation without the fully informed consent of the individual. Lead: Ministry of Health, with support from the Ministry of Justice.
+- Explore the framework that protects the bodily integrity of disabled children and disabled adults against non-therapeutic medical procedures, including the issue of consent. This action will focus initially on options to protect against non-therapeutic sterilisation without the fully informed consent of the individual. Lead: Ministry of Health, with support from the Ministry of Justice.
 
-###### Priority: Reduce the number of disabled children and adults who are victims of violence, abuse or neglect
+###### 8. Priority: Reduce the number of disabled children and adults who are victims of violence, abuse or neglect
 
 - Review the current care and support processes for disabled children who are (or are likely to be) subject to care under the Children, Young Persons and Their Families Act 1989 to establish whether they are being treated equitably and fairly, and in their best interests, and if not, to provide advice on changes needed to legislation, operational policy, operational delivery and/or monitoring and enforcement. Lead: Ministry of Social Development.
 
@@ -542,19 +567,19 @@ Within each shared result, disabled people and government agencies agreed the mo
 
 - scoping a new work programme for abuse by non-family members.
 
-- Lead: Ministry of Social Development.
+Lead: Ministry of Social Development.
 
 ##### Promote access in the community
 
-###### Priority: Increase government services' responsiveness to disabled people
+###### 9. Priority: Increase government services' responsiveness to disabled people
 
 - Increase accessibility of information across government agencies. Lead: Office for Disability Issues and DPOs.
 
 - Understand the journey through the justice sector for disabled adults, disabled children and their families. Lead: Ministry of Justice.
 
-- Increase access to health services and improve health outcomes for disabled people with a specific focus on people with learning/intellectual disabilities. Lead: Ministry of Health .
+- Increase access to health services and improve health outcomes for disabled people with a specific focus on people with learning/intellectual disabilities. Lead: Ministry of Health.
 
-- Explore how the Mental Health (Compulsory Assessment and Treatment) Act 1992 relates to the New Zealand Bill of Rights Act 1990 and the CRPD. Lead: Ministry of Health .
+- Explore how the Mental Health (Compulsory Assessment and Treatment) Act 1992 relates to the New Zealand Bill of Rights Act 1990 and the CRPD. Lead: Ministry of Health.
 
 - Implement the work programme of the Disability Data and Evidence Working Group, including a focus on Māori and Pasifika. Lead: Office for Disability Issues and Statistics New Zealand.
 
@@ -566,7 +591,7 @@ Within each shared result, disabled people and government agencies agreed the mo
 
 Deferred until 2017/18: i) Investigate how Government can utilise a whānau ora approach for disabled persons who prefer a whānau and community inclusive approach to government services. Lead: to be determined.
 
-###### Priority: Increase the accessibility for disabled people of the built environment and transport services
+###### 10. Priority: Increase the accessibility for disabled people of the built environment and transport services
 
 - Implement the recommendations agreed by the Chief Executives' Group on Disability Issues, which were identified through the stocktake on the accessibility of public transport. Lead: Ministry of Transport and New Zealand Transport Agency.
 
@@ -574,13 +599,17 @@ Deferred until 2017/18: i) Investigate how Government can utilise a whānau ora 
 
 - Understand the impact of disability on housing needs and influence the social housing reform programme to meet the needs of disabled people. Lead: Office for Disability Issues.
 
-###### Priority: Promote disabled people participating in political and civic processes
+###### 11. Priority: Promote disabled people participating in political and civic processes
 
 - DPOs to complete a stocktake of what are the areas needing the most attention and which will make the biggest difference to promote disabled people participating in political and civic processes. ODI will convene a discussion with DPOs and relevant government agencies to discuss priorities from the DPOs stocktake and identify possible actions. Lead: DPOs.
 
-###### Priority: Promote opportunities for disabled people to participate in cultural life, recreation, leisure and sport
+###### 12. Priority: Promote opportunities for disabled people to participate in cultural life, recreation, leisure and sport
 
-- 17 a) Investigate the feasibility of introducing a companion card programme in New Zealand to reduce the cost barrier for disabled people who require a companion to attend paid-entry activities. Lead: Ministry for Culture and Heritage.
+- Investigate the feasibility of introducing a companion card programme in New Zealand to reduce the cost barrier for disabled people who require a companion to attend paid-entry activities. Lead: Ministry for Culture and Heritage.
+
+17
+
+Disability Action Plan 2014-2018: Update 2015
 
 [[END OF PAGE 17]]
 
@@ -608,7 +637,7 @@ This box shows the different levels of activity within government, from the top 
 
  Cabinet - Makes final decisions on government policy.
 
- Ministerial Committee on Disability Issues - Coordinates implementation of the CRPD and the New Zealand Disability Strategy, sets priorities for crossgovernment action, and reviews progress by government agencies. Mandated by Cabinet.
+ Ministerial Committee on Disability Issues - Coordinates implementation of the CRPD and the New Zealand Disability Strategy, sets priorities for cross-government action, and reviews progress by government agencies. Mandated by Cabinet.
 
  Chief Executives' Group on Disability Issues - Leads implementation of decisions and priorities made by the Ministerial Committee on Disability Issues.
 
@@ -638,71 +667,53 @@ Disability Action Plan 2014-2018: Update 2015
 
 [[START OF PAGE 20]]
 
-#### CRPD Article 33 - Government mechanism promoting implementation
+### Governance arrangement for disability issues
 
-#### CRPD Article 33 - Monitoring implementation
+#### CRPD Article 33 – Monitoring implementation
 
-#### CRPD Article 4(3) - Involvement
+##### Independent Monitors
+
+Human Rights Commission
+
+Office of the Ombudsman
+
+Convention Coalition
 
 ##### Framework to promote, protect and monitor implementation of the CRPD
 
-Independent Monitors meet annually with the
+Independent Monitors meet annually with the Ministerial Committee on Disability Issues and the Chief Executives Group on Disability Issues to review progress and priorities.
 
-Ministerial Committee on Disability Issues and
-
-the Chief Executives Group on Disability Issues
-
-to review progress and priorities.
-
-##### Ministerial Committee on Disability Issues
-
-Coordinates implementation of the UN Convention on the Rights of Persons with Disabilities and the New Zealand Disability Strategy, sets priorities for cross-government action, and reviews progress by government agencies.
-
-### Governance arrangement for disability issues
-
-##### Chief Executives' Group on Disability Issues
-
-Leads implementation of decisions and priorities made by
-
-the Ministerial Committee on Disability Issues.
-
-##### DPOs and Senior Officials
-
-Government agencies (Senior Officials Group on Disability Issues' representatives) attend part of the regular DPOs-only meetings to support the Disability Action Plan governance and implementation arrangements
+#### CRPD Article 33 - Government mechanism promoting implementation
 
 ##### Cabinet
 
 Makes final decisions on government policy.
 
+##### Ministerial Committee on Disability Issues
+
+Coordinates implementation of the UN Convention on the Rights of Persons with Disabilities and the New Zealand Disability Strategy, sets priorities for cross-government action, and reviews progress by government agencies.
+
+##### Chief Executives' Group on Disability Issues
+
+Leads implementation of decisions and priorities made by the Ministerial Committee on Disability Issues.
+
 ##### Senior Officials' Group on Disability Issues
 
-Manages implementation of decisions and priorities made
+Manages implementation of decisions and priorities made by the Chief Executives' Group on Disability Issues.
 
-by the Chief Executives' Group on Disability Issues.
+#### CRPD Article 4(3) - Involvement
 
 ##### DPOs and Chief Executives' Group on Disability Issues
 
-Governance oversight of progress implementing the Disability Action Plan
+Governance oversight of progress implementing the Disability Action Plan and review of engagement between DPOs and government agencies.
 
-and review of engagement between DPOs and government agencies.
+##### DPOs and Senior Officials
 
-Human Rights
+Government agencies (Senior Officials Group on Disability Issues' representatives) attend part of the regular DPOs-only meetings to support the Disability Action Plan governance and implementation arrangements
 
-Commission
+Ref: A7761972    Date: 12 November 2015
 
-Office of the
-
-Ombudsman
-
-Convention
-
-Coalition
-
-##### Independent Monitors
-
-Date:  12 November 2015
-
-20 Ref: A7761972
+20
 
 Disability Action Plan 2014-2018: Update 2015
 
@@ -725,12 +736,9 @@ The changes in the updated Plan consist of:
  adding in new actions
 
  changing some actions by:
-
-- o rewording to reflect completion of initial work and continuation to the next phase of implementation
-
-- o merging those addressing closely related issues and rewording to better clarify what is intended to be achieved
-
-- o removing two actions that are considered to be single agency-led and therefore out-of-scope for the inclusion in the Plan.
+- rewording to reflect completion of initial work and continuation to the next phase of implementation
+- merging those addressing closely related issues and rewording to better clarify what is intended to be achieved
+- removing two actions that are considered to be single agency-led and therefore out-of-scope for the inclusion in the Plan.
 
 Note that numbering of priorities and actions have changed from the initial Plan.
 
@@ -760,7 +768,7 @@ Build capability for inclusive education to improve delivery in the CRPD context
 
  New action: Improve DPO capability (individually and collectively) to engage with government agencies and their wider community, and consider representation of different population groups in DPOs. Lead: Office for Disability Issues and DPOs.
 
- Merge and reword existing actions 8(a) and (b): DPOs advise and work with government agencies and the National Enabling Good Lives Leadership Group to support changes to the disability support system, including learning from the Enabling Good Lives approach (particularly its demonstrations) and other initiatives. Key principles of this work are being culturally responsive, strengths based, holistic, involve wh ā nau (wh ā nau ora principles), and an integrated approach. Lead: Ministry of Social Development, Ministry of Health, and Ministry of Education.
+ Merge and reword existing actions 8(a) and (b): DPOs advise and work with government agencies and the National Enabling Good Lives Leadership Group to support changes to the disability support system, including learning from the Enabling Good Lives approach (particularly its demonstrations) and other initiatives. Key principles of this work are being culturally responsive, strengths based, holistic, involve whānau (whānau ora principles), and an integrated approach. Lead: Ministry of Social Development, Ministry of Health, and Ministry of Education.
 
 ### Shared result: Ensure personal safety
 
@@ -792,9 +800,9 @@ people in the Canterbury earthquakes. Lead: Ministry of Civil Defence and Emerge
 
 ### Shared result: Promote access in the community
 
-#### Priority: Increase go vernment services' responsiveness to disabled people.
+#### Priority: Increase government services' responsiveness to disabled people.
 
- New action: Implement the work programme of the Disability Data and Evidence Working Group, including a focus on M ā ori and Pasifika. Lead: Office for Disability Issues and Statistics New Zealand
+ New action: Implement the work programme of the Disability Data and Evidence Working Group, including a focus on Māori and Pasifika. Lead: Office for Disability Issues and Statistics New Zealand
 
  New action: Undertake a stocktake to identify any legislation that is not consistent with the Convention on the Rights of Persons with Disabilities and explore options to improve consistency. Lead: DPOs and Office for Disability Issues
 
@@ -802,7 +810,7 @@ people in the Canterbury earthquakes. Lead: Ministry of Civil Defence and Emerge
 
  New action: Develop a framework for understanding the costs of disability and mechanisms for meeting these. Lead: ACC and Ministry of Social Development
 
- Deferred until 2017/18, new action: Investigate how Government can utilise a wh ā nau ora approach for disabled persons who prefer a wh ā nau and community inclusive approach to government services. Lead: to be determined
+ Deferred until 2017/18, new action: Investigate how Government can utilise a whānau ora approach for disabled persons who prefer a whānau and community inclusive approach to government services. Lead: to be determined
 
  Reword former action 11 B to reflect next phase of implementation: Understand the journey through the justice sector for disabled adults, disabled children and their families. Lead: Ministry of Justice
 
