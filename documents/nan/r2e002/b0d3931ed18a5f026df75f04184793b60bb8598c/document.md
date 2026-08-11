@@ -60,27 +60,27 @@ NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
 - 17 III.  SITUATION ASSESSMENT
 
- Legislative and institutional development and implementing mechanisms
+1. Legislative and institutional development and implementing mechanisms
 
- Achievements and challenges in implementing gender equality policy
+2. Achievements and challenges in implementing gender equality policy
 
 - 39 IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF
 
 THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
-- Promoting the human rights of women and gender equality
+1. Promoting the human rights of women and gender equality
 
-- Equal opportunities on the labour market
+2. Equal opportunities on the labour market
 
-- Gender-sensitive education
+3. Gender-sensitive education
 
-- Equality in political and public decision-making
+4. Equality in political and public decision-making
 
-- Eliminating violence against women
+5. Eliminating violence against women
 
-- International policy and cooperation
+6. International policy and cooperation
 
-- Institutional mechanisms and modes of implementation
+7. Institutional mechanisms and modes of implementation
 
 73 V. FINAL PROVISIONS
 
@@ -102,7 +102,7 @@ The National Policy for Gender Equality is the basic strategic document of the R
 
 The policy of gender equality and the empowerment of women is one of the fundamental principles of the democratic and social order of the Republic of Croatia, and is accepted at the highest national level through the decisions of the Government of the Republic of Croatia and the Croatian Parliament, and through the adoption of the national strategic action plans in 1997, 2001 and 2006, which confirmed the obligations assumed with the acceptance of the Beijing Declaration and the Platform for Action at the UN Fourth World Conference on Women held in 1995 in Beijing.
 
-The National  Policy  for  Gender  Equality 2011  -  2015 (hereinafter: National Policy )  builds  on  the  previous National  Policy  2006  -  2010 (Official  Gazette, No.  114/06)  by  redefining  the  national  priorities,  the  modes  of  implementation and the undertaking of special measures in line with the altered social  and  political  circumstances,  the  progress  achieved,  and  the  further challenges in establishing true gender equality. It binds the Republic of Croatia  to  integrate  the  gender  dimension  in  all  policy  areas  by  implementing special measures with regard to the following seven key fields of action: 1) the  promotion of  the  human  rights  of  women  and  gender  equality;  2)  the creation  of  equal  opportunities  in  the  labour  market;  3)  the  improvement of  gender  sensitive  education;  4)  the  balanced  participation  of  women and men in political and public decision-making processes; 5) the elimination  of  all  forms  of  violence  against  women;  6)  the  promotion  of  international  cooperation  and  gender  equality  outside  Croatia;  and  7)  the  further strengthening  of  institutional  mechanisms  and  implementation  methods.
+The National Policy for Gender Equality 2011 - 2015 (hereinafter: National Policy) builds on the previous National Policy 2006 - 2010 (Official Gazette, No. 114/06) by redefining the national priorities, the modes of implementation and the undertaking of special measures in line with the altered social and political circumstances, the progress achieved, and the further challenges in establishing true gender equality. It binds the Republic of Croatia to integrate the gender dimension in all policy areas by implementing special measures with regard to the following seven key fields of action: 1) the promotion of the human rights of women and gender equality; 2) the creation of equal opportunities in the labour market; 3) the improvement of gender sensitive education; 4) the balanced participation of women and men in political and public decision-making processes; 5) the elimination of all forms of violence against women; 6) the promotion of interna-
 
 7
 
@@ -112,11 +112,13 @@ The National  Policy  for  Gender  Equality 2011  -  2015 (hereinafter: National
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
-A novelty is the inclusion of a new chapter related to international affairs. This chapter was included not only to meet the assumed commitments but also to facilitate the implementation of numerous activities aimed at establishing and developing cooperation with the most important international and regional mechanisms and organisations, including the new UN body for the promotion of gender equality UN WOMEN - the United Nations Entity for Gender Equality and the Empowerment of Women, the European Institute for Gender Equality in Lithuania, and at promoting knowledge about the policies of the European Union (hereinafter:  EU) and the Council of Europe (hereinafter: CoE) in this area.
+tional cooperation and gender equality outside Croatia; and 7) the further strengthening of institutional mechanisms and implementation methods.
+
+A novelty is the inclusion of a new chapter related to international affairs. This chapter was included not only to meet the assumed commitments but also to facilitate the implementation of numerous activities aimed at establishing and developing cooperation with the most important international and regional mechanisms and organisations, including the new UN body for the promotion of gender equality UN WOMEN - the United Nations Entity for Gender Equality and the Empowerment of Women, the European Institute for Gender Equality in Lithuania, and at promoting knowledge about the policies of the European Union (hereinafter: EU) and the Council of Europe (hereinafter: CoE) in this area.
 
 The chapter Women and Health has not been included as a separate chapter in the new National Policy since an evaluation indicated that the earlier measures are part of other strategic plans and programmes of the Ministry of Health and Social Welfare.
 
-An integral part of the strategic framework for the promotion of gender equality  are  also  other  national  plans,  programmes and strategies, which define goals and prescribed measures for improving the implementation of gender mainstreaming and the general social status of, not only the overall female population,  but  also  of  individual  target  groups.  This  framework  includes: the National Strategy for Protection Against Domestic Violence 2011 - 2016; the Strategy for the Development of Women Entrepreneurship in the Republic of Croatia 2010 - 2013; the National Programme for the Protection and Promotion of Human Rights 2008 - 2011; the Action Plan for the Decade of Roma Inclusion 2005 - 2015; the National  Programme  for  the  Roma; the National  Plan  for  the  Prevention  of Trafficking in Human Beings 2009 - 2011; the National Employment Plan for 2011 and 2012; the Strategic Development of Official Statistics of the Republic of Croatia 2004 - 2012; the Programme of Statistical Activity of the Republic of Croatia 2008 - 2012; and the National Strategy of Development of Health Care 2006 - 2011. To assess the overall progress achieved in the field of equality between men and women, it is important to produce a synergic effect in implementing the mentioned strategic documents, and this is why their most important goals are included in the National Policy for Gender Equality.
+An integral part of the strategic framework for the promotion of gender equality are also other national plans, programmes and strategies, which define goals and prescribed measures for improving the implementation of gender mainstreaming and the general social status of, not only the overall female population, but also of individual target groups. This framework includes: the National Strategy for Protection Against Domestic Violence 2011 - 2016; the Strategy for the Development of Women Entrepreneurship in the Republic of Croatia 2010 - 2013; the National Programme for the Protection and Promotion of Human Rights 2008 - 2011; the Action Plan for the Decade of Roma Inclusion 2005 - 2015; the National Programme for the Roma; the National Plan for the Prevention of Trafficking in Human Beings 2009 - 2011; the National Employment Plan for 2011 and 2012; the Strategic Development of Official Statistics of the Republic of Croatia 2004 - 2012; the Programme of Statistical Activity of the Republic of Croatia 2008 - 2012; and the National Strategy of Development of Health Care 2006 - 2011. To assess the overall progress achieved in the field of equality between men
 
 8
 
@@ -126,13 +128,15 @@ An integral part of the strategic framework for the promotion of gender equality
 
 I. INTRODUCTION
 
-The strategic approach is also based on the commitments assumed by signing various international agreements, including the UN Convention on the Elimination of All Forms of Discrimination against Women and the UN Millennium Declaration , the commitments arising from membership in the Council of Europe, and further tasks in the process of EU accession.
+and women, it is important to produce a synergic effect in implementing the mentioned strategic documents, and this is why their most important goals are included in the National Policy for Gender Equality.
+
+The strategic approach is also based on the commitments assumed by signing various international agreements, including the UN Convention on the Elimination of All Forms of Discrimination against Women and the UN Millennium Declaration, the commitments arising from membership in the Council of Europe, and further tasks in the process of EU accession.
 
 Starting from the fact that gender equality is one of the fundamental principles of the EU acquis , and given that assuring equal opportunities and the suppression of gender discrimination represent the general goal and component of all its programmes and policies, Croatia, as a candidate country and future member of the European Union, also has an obligation to implement the goals defined in the legislation as well as in the strategic documents that the European Commission (hereinafter: EC) adopts with a view to fighting gender discrimination in the Member States. The National  Policy  for  Gender  Equality 2011 - 2015 includes as a component part the strategic targets and goals of the Strategy for Equality between Women and Men 2010 - 2015. This Strategy , in which inequality between men and women is defined as a violation of fundamental human rights, includes the following priority areas: 1) equal economic independence; 2) equal pay for equal work and work of equal value; 3) equality in decision-making; 4) dignity, integrity and an end to gender-based violence; 5) gender equality in external actions; and 6) horizontal issues (such as non-discriminatory gender roles, legislation and implementation methods).
 
 The Strategy stresses that candidate countries must fully embrace the fundamental principle of equality between women and men, and that the monitoring, transposition, implementation and enforcement of EU legislation in this area remains a priority in the enlargement process.
 
-In all its progress reports on Croatia's accession to the EU, the EC has regularly assessed not only the general progress of women's human rights, but also the progress achieved in implementing the National Policy , which clearly reaffirms its significance as the most important strategic document for eliminating gender discrimination. The adoption of a new national strategy is also a component of the Programme of the Government of the Republic of Croatia for the Adoption and Implementation of the Acquis in 2011.
+In all its progress reports on Croatia's accession to the EU, the EC has regularly assessed not only the general progress of women's human rights, but
 
 9
 
@@ -142,7 +146,9 @@ In all its progress reports on Croatia's accession to the EU, the EC has regular
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
-In  2009  in  Croatia,  the  same  year  when  this  was  done  in  the  EU,  the  first public opinion poll on gender discrimination was conducted. A comparison of the results of the survey 'Perception, experiences and attitudes about gender discrimination in the Republic of Croatia' and the results of a special Eurobarometer survey 'Gender equality in the EU in 2009' shows that EU citizens and Croatian citizens share views on gender equality issues.  A total of 62% of respondents in the EU and 56% in Croatia consider that women and men are not equal. At the same time, 62% of EU respondents and 59% of Croatian respondents believe that some progress was made in the last decade and that gender discrimination is not as prevalent as it was some ten years ago.
+also the progress achieved in implementing the National Policy, which clearly reaffirms its significance as the most important strategic document for eliminating gender discrimination. The adoption of a new national strategy is also a component of the Programme of the Government of the Republic of Croatia for the Adoption and Implementation of the Acquis in 2011.
+
+In 2009 in Croatia, the same year when this was done in the EU, the first public opinion poll on gender discrimination was conducted. A comparison of the results of the survey 'Perception, experiences and attitudes about gender discrimination in the Republic of Croatia' and the results of a special Eurobarometer survey 'Gender equality in the EU in 2009' shows that EU citizens and Croatian citizens share views on gender equality issues. A total of 62% of respondents in the EU and 56% in Croatia consider that women and men are not equal. At the same time, 62% of EU respondents and 59% of Croatian respondents believe that some progress was made in the last decade and that gender discrimination is not as prevalent as it was some ten years ago.
 
 Data showing the same level of awareness of the occurrence of gender inequality are also a good basis for the future EU membership of the Republic of Croatia, considering the need to further develop legislation and anti-discrimination policies, and to implement and advocate them, with the aim of establishing true gender equality as a precondition for an active democratic society where respect for human rights is used as a benchmark for progress.
 
@@ -174,7 +180,7 @@ NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
 Gender equality is one of the highest values of the constitutional order of the Republic of Croatia and the grounds for the interpretation of the Constitution.
 
-At  the  proposal  of  the  Government  of  the  Republic  of  Croatia,  the  Croatian Parlia­ ment  adopted  the  National  Policy  for  Gender  Equality  pursuant  to  Arti­ cle  81  of  the  Constitution  as  an  act  which  expresses  the  policy  of  the  rep­ re­ sentative body  of  citizens  and  the  body  vested  with  legislative  power in the Republic of Croatia.
+At the proposal of the Government of the Republic of Croatia, the Croatian Parliament adopted the National Policy for Gender Equality pursuant to Article 81 of the Constitution as an act which expresses the policy of the representative body of citizens and the body vested with legislative power in the Republic of Croatia.
 
 The legal grounds for the adoption of the National Policy for Gender Equality 2011 - 2015 are included in the provisions of the Gender Equality Act (Official Gazette,  No.  82/08),  which  sets  out  the  general  grounds  for  the  protection and promotion of gender equality as a fundamental value of the constitutional order of the Republic of Croatia.
 
@@ -226,11 +232,11 @@ NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
 Achievements and challenges in promoting gender equality and the empowerment of women
 
-### 1.  Legislative and institutional development and implementing mechanisms
+### 1. Legislative and institutional development and implementing mechanisms
 
 Since the adoption of the National Policy for Gender Equality in 2006 until today, the basic institutional mechanisms at national and local levels have been strengthened and important legislative amendments introduced with a view to suppressing the discrimination of women and improving the implementation of equal opportunity policies for both sexes.
 
-The Gender Equality Act of 2003 (Official Gazette, No. 116/03) was in force until 15 July 2008 when the Croatian Parliament adopted a new Gender Equality Act (Official Gazette, No. 82/08), which was additionally aligned with the provisions of international standards and with EU law, and whose adoption represented one of the important benchmarks for closing negotiations on Chapter 19: Social Policy and Employment. The law extended the grounds of the prohibition of discrimination in the field of employment and labour, introduced a system of quotas for elections at all levels, improved the area of judicial protection against discrimination, and established an independent body for combating discrimination in the area of gender equality, which led to the redefinition and extension of the authorities and remit of the Ombudswoman for Gender Equality in line with the commitments to transpose the EU acquis .  The role and status of county gender equality commissions as bodies in charge of implementing the Gender Equality Act was legally defined for the first time, along with the Office of the Ombudswoman, the Government Office for Gender Equality, and the gender equality coordinators in the bodies of state administration.
+The Gender Equality Act of 2003 (Official Gazette, No. 116/03) was in force until 15 July 2008 when the Croatian Parliament adopted a new Gender Equality Act (Official Gazette, No. 82/08), which was additionally aligned with the provisions of international standards and with EU law, and whose adoption represented one of the important benchmarks for closing negotiations on Chapter 19: Social Policy and Employment. The law extended the grounds of the prohibition of discrimination in the field of employment and labour, introduced a system of quotas for elections at all levels, improved the area of judicial protection against discrimination, and established an independent body for combating discrimination in the area of gender equality, which led to the redefinition and extension of the authorities and remit of the Ombudswoman for Gender Equality in line with the commitments to transpose the EU acquis. The role and status of county gender equality
 
 17
 
@@ -240,13 +246,15 @@ The Gender Equality Act of 2003 (Official Gazette, No. 116/03) was in force unti
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
+commissions as bodies in charge of implementing the Gender Equality Act was legally defined for the first time, along with the Office of the Ombudswoman, the Government Office for Gender Equality, and the gender equality coordinators in the bodies of state administration.
+
 On 1 January 2009, the Anti-discrimination Act (Official Gazette, No. 85/08) entered into force, which created additional grounds for the realisation of equal opportunities by regulating protection against discrimination on grounds of gender, race, ethnic belonging, skin colour, language, political or other opinion, national or social origin, property, trade union membership, education, social status, marital or family status, age, health, disability, genetic heritage, gender identity and expression, or sexual orientation.
 
 In 2009, a new Act on Protection against Domestic Violence (Official Gazette, Nos. 137/09, 14/10, and 60/10) was adopted with the aim of improving the work of bodies in charge of combating domestic violence, and aligning it with modern international guidelines. The Criminal Procedure Act (Official Gazette, Nos. 152/08 and 76/09), adopted in 2008, contains provisions related to protection against domestic violence, especially the provisions regarding the examination of witnesses and the protection of the rights of the victim. Preparations are underway for the adoption of a new Criminal Code in 2011.
 
 In order to combat domestic violence in the previous period, the Government of the Republic of Croatia adopted National Strategies for Protection against Domestic Violence 2005 - 2007 (Official Gazette, No. 182/04), as well as for the period from 2008 to 2010 (Official Gazette, No. 126/07) , with the accompanying Protocol for Action in Cases of Domestic Violence. The Government of the Republic of Croatia established in 2009 a Commission for the Improvement of Protection against Domestic Violence , and this year it adopted a National Strategy for Protection against Domestic Violence 2011 - 2016 (Official Gazette, No. 20/11).
 
-In addition to the Gender Equality Act , the Labour Act (Official Gazette, No. 149/09) is the most important act to contain provisions for the prevention of gender discrimination in the field of work and employment and, among other things, it has also been aligned with Directive 2006/54/EC of the European Parliament and of the Council on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation.
+In addition to the Gender Equality Act, the Labour Act (Official Gazette, No. 149/09) is the most important act to contain provisions for the prevention of gender discrimination in the field of work and employment and, among other things, it has
 
 18
 
@@ -256,13 +264,15 @@ In addition to the Gender Equality Act , the Labour Act (Official Gazette, No. 1
 
 III. SITUATION ASSESSMENT
 
+also been aligned with Directive 2006/54/EC of the European Parliament and of the Council on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation.
+
 The gender equality principle has been included in a series of legislative, strategic and other documents and regulations dealing with many other areas, including state administration, education, the media, etc.
 
 Based on the implementation of the National Policy for the Promotion of Gender Equality 2006 - 2010 , several other important regulations were adopted for the purpose of the faster elimination of the unequal status of particular segments of the female population, in addition to many other measures aimed at raising public awareness of gender equality.  Concerning the above, it is necessary to stress that the Government of the Republic of Croatia adopted a Strategy on Women's Entrepreneurship Development 2010 - 2013, and that in 2008 the Central Bureau of Statistics (hereinafter:  CBS)  adopted  a  new National  Occupational  Classification where,  for the first time, all occupations are listed in both the male and female grammatical gender, which has also created the linguistic conditions for promoting a balanced representation of men and women in the labour market and eliminating gender role stereotypes.  The Training Centre for Civil Servants of the Ministry of Public Administration has introduced, as part of the anti-discrimination and protection of human rights sphere, a training programme for civil servants entitled 'Legal provisions on gender equality'. The Rules of Procedure of the Croatian Parliament (Official Gazette, No. 39/08) have also been amended, introducing the obligation to use the linguistic standards for professions and occupations by employing both the male and female gender, as well as promoting proportionate gender representation in the composition of working bodies and delegations.
 
 The system and coordination of institutional mechanisms for the promotion and implementation of gender equality at national and local levels have been upgraded in the recent period.
 
-The progress achieved at the level of local and regional self-government is visible not only in the number of activities implemented by local commissions, but also in the continuous growth of municipal and town gender equality commissions. In addition to 21 county commissions, 52 town and 30 municipal gender equality commissions have been formed.
+The progress achieved at the level of local and regional self-government is visible not only in the number of activities implemented by local commissions, but also
 
 19
 
@@ -271,6 +281,8 @@ The progress achieved at the level of local and regional self-government is visi
 [[START OF PAGE 20]]
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
+
+in the continuous growth of municipal and town gender equality commissions. In addition to 21 county commissions, 52 town and 30 municipal gender equality commissions have been formed.
 
 These institutional mechanisms, including the Gender Equality Committee of the Croatian Parliament, in the foregoing five-year period, frequently cooperated with NGOs on the implementation of a large number of activities. Increased funds to finance projects, programmes and other activities of civil society organisations have been granted from the state budget.
 
@@ -288,7 +300,7 @@ Significant progress has been recorded in the area of statistical methodology de
 
 III. SITUATION ASSESSMENT
 
-In its most recent Progress Report on the Accession of the Republic of Croatia to the EU for 2010, the European Commission assessed that overall good progress had been made in the field of gender equality, women's rights and the application of the equal opportunities principle. It also stressed the progress made on the implementation of the National Policy for the Promotion of Gender Equality 2006 2010 , the continuation of awareness-raising activities on gender equality, and the establishment of the gender dimension in public policy and in anti-discrimination legislation.
+In its most recent Progress Report on the Accession of the Republic of Croatia to the EU for 2010, the European Commission assessed that overall good progress had been made in the field of gender equality, women's rights and the application of the equal opportunities principle. It also stressed the progress made on the implementation of the National Policy for the Promotion of Gender Equality 2006 - 2010, the continuation of awareness-raising activities on gender equality, and the establishment of the gender dimension in public policy and in anti-discrimination legislation.
 
 The European Commission considers that, although some steps have been taken to raise awareness of the new anti-discrimination legislation, knowledge of its content and scope is still limited. This opinion has also been confirmed by the results of the survey 'Perception, experiences and attitudes about gender discrimination in the Republic of Croatia' conducted in 2009 on a national representative sample of 1,363 respondents, according to which as many as 63% do not know or do not believe that gender discrimination is punishable by law, and only 12% of those who said that they knew that discrimination was prohibited stated that they knew which laws contained such prohibitions and sanctions.  These discouraging data clearly show the direction in which priority measures need to be taken in the coming period in order to inform the public about the legislation that regulates the issue of gender equality. This cannot be successfully achieved without the support of the media.
 
@@ -312,7 +324,7 @@ Gender differences in salaries are still present and, according to the official 
 
 Another unfavourable indicator is also the widespread use of fixed-term employment contracts for the female part of the economically active population, and the sectoral segregation of the female labour force.
 
-Women are the majority in activities such as the textile industry, catering and trade services, education, public administration, social activities, social and personal services, etc., while being very underpaid in particular branches. Representatives of women's NGOs and women's trade union groups drew attention to the difficult position of women in the labour market during the celebration of the 100 th  anniversary of International Women's Day, by requesting faster changes in suppressing gender discrimination and in protecting women's rights in this area.
+Women are the majority in activities such as the textile industry, catering and trade services, education, public administration, social activities, social and personal services, etc., while being very underpaid in particular branches. Representatives of women's NGOs and women's trade union groups drew attention to the
 
 22
 
@@ -322,11 +334,13 @@ Women are the majority in activities such as the textile industry, catering and 
 
 III. SITUATION ASSESSMENT
 
+difficult position of women in the labour market during the celebration of the 100th anniversary of International Women's Day, by requesting faster changes in suppressing gender discrimination and in protecting women's rights in this area.
+
 In order to improve the status of women in the labour market and raise public awareness, a number of targeted activities were conducted, including the implementation of relevant scientific surveys and the adoption of sectoral policies. Significant improvement has been recorded in the field of aligning published employment announcements with the provisions of the Gender Equality Act.
 
 Since the signing of the Joint Assessment of the Employment Policy Priorities of the Republic of Croatia (JAP) in May 2008, the Government of the Republic of Croatia has been adopting biannual national employment promotion plans. The National Employment Promotion Plan 2011 - 2012 (hereinafter: NEPP) stresses that there is a key priority to increase the employability and participation rate of prime-age women (especially those with low or inadequate skills) in the labour market, and also of those with a low or inadequate educational background, women victims of violence, long-term unemployed women, and female members of national minorities. In order to facilitate their participation in the labour market, the NEPP includes a number of activities, such as: educational programmes, encouraging units of local and regional self-government to give priority in their social plans to developing community services which support families and the work-family balance for women, providing employment subsidies for employed persons over 50 who are at risk of losing their job due to the employer's introduction of new technologies, etc.
 
-The  Croatian  Employment  Service  has  developed  a  grant  scheme  for  the 'Women in the Labour Market' project which is part of the Human Resource Development Operational Programme of the 4 th  component of IPA to the amount of  EUR  2,017,480.  Projects  financed  through  this  grant  scheme  are  aimed at  including  in  the  labour  market  women  who  are  faced  with  specific  difficulties  in  employment,  and  are  implemented  in  a  large  number  of  Croatian counties  in  cooperation  with  NGOs.  As  part  of  the  same  'Women  in  the  Labour  Market'  project,  EUR  1,000,000  has  been  earmarked  for  a  service  contract for the purpose of analysing the situation and making recommendations to  improve  the  policy  and  programmes  in  this  area.  The  Croatian  Employment Service  also  implemented  the  'Supporting  Equality  in  the  Croatian  Labour Market' project (2009 - 2010) as part of the PROGRESS Community Programme which also developed a 'Compendium of Best Practices' in promoting diversity and implementing anti-discrimination measures in the labour market, and the 'Guidelines for Combating Discrimination and Promoting Diversity in the Labour Market'.
+The Croatian Employment Service has developed a grant scheme for the 'Women in the Labour Market' project which is part of the Human Resource Development Operational Programme of the 4th component of IPA to the amount of EUR 2,017,480. Projects financed through this grant scheme are aimed at including in the labour market women who are faced with specific difficulties in employment, and are implemented in a large number of Croatian counties in cooperation with NGOs. As part of the same 'Women in the Labour Market' project, EUR 1,000,000 has been earmarked for a service con-
 
 23
 
@@ -336,11 +350,13 @@ The  Croatian  Employment  Service  has  developed  a  grant  scheme  for  the '
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
-The  Ministry  of  the  Economy,  Labour  and  Entrepreneurship  is  implementing the 'Women Entrepreneurship' project based on annual Operational Plans for encouraging the establishment of small and medium enterprises. The amount of funds allocated in this way has been continuously growing, from 353 grants allocated in 2004 to the amount of HRK 3,500,000, to a total of 1,001 applications awarded in 2010 to a total amount of HRK 10,540,000. Since 2002, Croatia has recorded growth in the number of enterprises owned or majority owned by women. Currently, the participation of women entrepreneurs is around 30%, with a visible trend of growth. The size of companies and revenues are directly related to the gender aspect of company ownership. The bigger the company and the higher the revenue, the fewer women company owners there are: microenterprises are 31.8% owned by women, in small enterprises this percentage is 18.8%, while in medium and large enterprises the proportion is only 12.0%.
+tract for the purpose of analysing the situation and making recommendations to improve the policy and programmes in this area. The Croatian Employment Service also implemented the 'Supporting Equality in the Croatian Labour Market' project (2009 - 2010) as part of the PROGRESS Community Programme which also developed a 'Compendium of Best Practices' in promoting diversity and implementing anti-discrimination measures in the labour market, and the 'Guidelines for Combating Discrimination and Promoting Diversity in the Labour Market'.
+
+The Ministry of the Economy, Labour and Entrepreneurship is implementing the 'Women Entrepreneurship' project based on annual Operational Plans for encouraging the establishment of small and medium enterprises. The amount of funds allocated in this way has been continuously growing, from 353 grants allocated in 2004 to the amount of HRK 3,500,000, to a total of 1,001 applications awarded in 2010 to a total amount of HRK 10,540,000. Since 2002, Croatia has recorded growth in the number of enterprises owned or majority owned by women. Currently, the participation of women entrepreneurs is around 30%, with a visible trend of growth. The size of companies and revenues are directly related to the gender aspect of company ownership. The bigger the company and the higher the revenue, the fewer women company owners there are: microenterprises are 31.8% owned by women, in small enterprises this percentage is 18.8%, while in medium and large enterprises the proportion is only 12.0%.
 
 The Croatian Association  of  Businesswomen  KRUG in  2010  implemented  the project 'Women in Entrepreneurship, Science and Politics in the Republic of Croatia', financed by the Ministry of the Economy, Labour and Entrepreneurship, where, based on data collected in previous projects, an analysis was made of the role of women in business, science and politics.
 
-The process of balancing family and private and professional life does not keep up with the demands to eliminate inequalities in the social status of men and women. However, a slight rise has been recorded in the number of men who take care of their children, from 1.14% who used supplemental parental leave in 2008 to 1.86% of men in 2010 who also used other rights pursuant to the Act on Maternity and Parental Benefits (Official Gazette, Nos. 85/08, 110/08, and 34/11). The number of children's day-care and educational institutions and other social institutions that meet the needs and interest of families is also insufficient. Here we also have to take into account that the overall economic situation in the country greatly affects the implementation of social policy measures.
+The process of balancing family and private and professional life does not keep up with the demands to eliminate inequalities in the social status of men and women. However, a slight rise has been recorded in the number of men who take care of their children, from 1.14% who used supplemental parental leave in 2008 to 1.86% of men in 2010 who also used other rights pursuant to the Act on
 
 24
 
@@ -350,9 +366,11 @@ The process of balancing family and private and professional life does not keep 
 
 III. SITUATION ASSESSMENT
 
-Some progress  has  also  been  made  in  the  area  of  the  political  participation of women, although women remain under-represented in public and political decision-making processes, i.e., in their participation in representative and executive power, with the exception of judicial power, at national and local levels. The greatest progress was made in improving the regulatory framework, so that the  new Gender Equality  Act for  the  first  time  introduced  quotas  in  the  Croatian legislation. In this way, the Council of Europe's definition concerning the significant inequality of one gender in bodies of public and political decisionmaking was taken on, and the obligation was prescribed for political parties and other bodies authorised to propose candidates to include a minimum of 40% of the under-represented gender in electoral lists at all levels of elections. This additionally complements and makes more concrete the previous legislative framework which, with the Act on the Election of Members of Representative Bodies of Units of Local and Regional Self-government (Official Gazette, No. 44/05), binds political parties who propose the lists to take gender equality into account, and, with the Act on Political Parties (Official Gazette, Nos. 76/93, 111/96, 164/98, and 36/01), lays down special measures, such as granting parliamentary parties 10% higher financial support for the party's activities for each female representative (or the under-represented gender). Another important change is the introduction of gender-sensitive language in the election process, or on the candidates' forms introduced by the State Election Commission.
+Maternity and Parental Benefits (Official Gazette, Nos. 85/08, 110/08, and 34/11). The number of children's day-care and educational institutions and other social institutions that meet the needs and interest of families is also insufficient. Here we also have to take into account that the overall economic situation in the country greatly affects the implementation of social policy measures.
 
-The trend in the participation of women in the total number of members of the Croatian Parliament in the last ten years has not significantly changed from the parliamentary elections of 2000, and has ranged between 21 and 23% (source: CBS, 'Women and Men in Figures 2010'). The current composition of the Croatian  Parliament  includes  25%  of  women  MPs,  which  is  above  the  average  in EU Member States (24%), and above the world average concerning the share of women in national parliaments (18.9%) according to the data of the Inter-parliamentary Union. Women MPs participate in the working bodies of the Croatian Parliament in proportion to their representation and chairmanship in Parliament committees.
+Some progress has also been made in the area of the political participation of women, although women remain under-represented in public and political decision-making processes, i.e., in their participation in representative and executive power, with the exception of judicial power, at national and local levels. The greatest progress was made in improving the regulatory framework, so that the new Gender Equality Act for the first time introduced quotas in the Croatian legislation. In this way, the Council of Europe's definition concerning the significant inequality of one gender in bodies of public and political decision-making was taken on, and the obligation was prescribed for political parties and other bodies authorised to propose candidates to include a minimum of 40% of the under-represented gender in electoral lists at all levels of elections. This additionally complements and makes more concrete the previous legislative framework which, with the Act on the Election of Members of Representative Bodies of Units of Local and Regional Self-government (Official Gazette, No. 44/05), binds political parties who propose the lists to take gender equality into account, and, with the Act on Political Parties (Official Gazette, Nos. 76/93, 111/96, 164/98, and 36/01), lays down special measures, such as granting parliamentary parties 10% higher financial support for the party's activities for each female representative (or the under-represented gender). Another important change is the introduction of gender-sensitive language in the election process, or on the candidates' forms introduced by the State Election Commission.
+
+The trend in the participation of women in the total number of members of the Croatian Parliament in the last ten years has not significantly changed from the parliamentary elections of 2000, and has ranged between 21 and 23% (source: CBS, 'Women and Men in Figures 2010'). The current composition of the Croatian Parliament includes 25% of women MPs, which is above the average in EU Member States (24%), and above the world average concerning the share of
 
 25
 
@@ -362,11 +380,13 @@ The trend in the participation of women in the total number of members of the Cr
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
+women in national parliaments (18.9%) according to the data of the Inter-parliamentary Union. Women MPs participate in the working bodies of the Croatian Parliament in proportion to their representation and chairmanship in Parliament committees.
+
 There is an encouraging trend in that women have recently carried out, and are still carrying out, some of the most important political functions in the state: from that of the Prime Minister, Deputy Prime Minister of the Government of the Republic of Croatia, Deputy Speaker of the Croatian Parliament, through the chairmanship of the National Committee for Monitoring the Accession Negotiations of the Republic of Croatia to the European Union, to the President of the Constitutional Court.
 
 The number of women among officials and senior state and public servants has also increased, from 20% in 2000 to 30.2% in 2009. Although the number of women in diplomacy continues to be low, it is slowly increasing, with 8% of ambassador posts in 2000, to 15% in 2010 (source: CBS, 'Women and Men in Figures 2010' and the Ministry of Foreign Affairs and European Integration).
 
-The participation of women in legislative and executive power at local level continues to be very low, although significant progress was made in the local elections in 2009, when the share of women county councillors increased by 7.4% (from 13.4% to 21.9%), women town councillors by 5.1% (from 14% to 21.4%), and women municipal councillors by 4.1% (from 7% to 15.5%) compared to elected women councillors in the local elections in 2005 (source: Central Bureau of Statistics, 'Women and Men in Figures 2010'). The average representation of all women councillors in representative bodies of units of local and regional selfgovernment in 2001 amounted to 11.5%, in 2005 to 12.9%, and in 2009 to 15.4%.
+The participation of women in legislative and executive power at local level continues to be very low, although significant progress was made in the local elections in 2009, when the share of women county councillors increased by 7.4% (from 13.4% to 21.9%), women town councillors by 5.1% (from 14% to 21.4%), and women municipal councillors by 4.1% (from 7% to 15.5%) compared to elected women councillors in the local elections in 2005 (source: Central Bureau of Statistics, 'Women and Men in Figures 2010'). The average representation of all women councillors in representative bodies of units of local and regional self-government in 2001 amounted to 11.5%, in 2005 to 12.9%, and in 2009 to 15.4%.
 
 However, out of a total of 429 municipalities, there are no women represented in  the  composition  of  106  municipal  councils  (24.75%).  This  negative  trend was shown during direct elections for executive functions at local level, when only 21 women heads of municipalities (4.9%), 6 women mayors (4.7%), and 1 woman county prefect (5%) were elected.
 
@@ -382,9 +402,9 @@ Only in judicial power do women make a significant majority and are not under-re
 
 Examples of good practice that need to be mentioned are the campaign of the Government Office for Gender Equality aimed at promoting the political participation of women by increasing the share of women on electoral lists for local elections in 2009; the financing of NGO projects before the parliamentary elections in 2007 and the local elections in 2009; the organisation of a large number of round-table discussions, forums and public discussions in cooperation with and/or organised by institutional mechanisms and NGOs and county gender equality commissions; and the implementation of targeted surveys and the dissemination of knowledge  of the most important national and European documents in this area.
 
-Statistical data, reports, data analyses and research results all corroborate that in the last few years some progress has been recorded in the area of gendersensitive education, and changes in the legal framework have created conditions for further improvements in the situation.
+Statistical data, reports, data analyses and research results all corroborate that in the last few years some progress has been recorded in the area of gender-sensitive education, and changes in the legal framework have created conditions for further improvements in the situation.
 
-The foundation for progress in achieving gender equality in the field of education is  the Primary and Secondary Education Act (Official  Gazette,  Nos.  87/08, 86/09, 92/10, and 105/10) which defines the educational objectives. The National Curriculum Framework for Preschool Education, General Compulsory and Secondary Education (hereinafter: NCF) of July 2010 stresses the significance of a nondiscriminatory approach in teaching curricula, and respect for diversity and tolerance within the school and the social community. One of the fundamental principles of the NCF is to eliminate, or to reduce, inequality and prejudice. The Ministry of Science, Education and Sports, by adopting the Act on Primary and  Secondary  School  Textbooks (Official  Gazette,  No.  27/10),  has  also  significantly raised the quality of textbooks and supplementary teaching material .
+The foundation for progress in achieving gender equality in the field of education is the Primary and Secondary Education Act (Official Gazette, Nos. 87/08, 86/09, 92/10, and 105/10) which defines the educational objectives. The National Curriculum Framework for Preschool Education, General Compulsory and Secondary Education (hereinafter: NCF) of July 2010 stresses the significance of a non-discriminatory approach in teaching curricula, and respect for diversity and tolerance within the school and the social community. One of the fundamental
 
 27
 
@@ -392,9 +412,11 @@ The foundation for progress in achieving gender equality in the field of educati
 
 [[START OF PAGE 28]]
 
-NATIONAL POLICY FOR GENDER EQUALITY 2011-2015 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
+NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
-The T extbook Standard of 2007 (Official Gazette, No. 7/07) prescribes the use of gender-sensitive language and contents. A further step forward in this area was achieved by the adoption of the Act on Academic and Professional Titles and Academic Degrees in 2007 (Official Gazette, No. 107/07) which introduces the obligation to state professional titles and academic degrees in the male and female grammatical gender.  The Ordinance on the contents and form of certificates and other public documents and on educational documentation and records in schools (Official Gazette, No. 32/10) has also been adopted, and the prescribed language standards are being applied in the contents of certificates and student record booklets. In addition, the NCF provides that all primary and secondary schools  set  up  cross-curricular  topics  and  inter-disciplinary  contents  and/or modules. As part of these cross-curricular  topics,  especially  as  part  of  civic education,  the  module  'Protection  and  Promotion  of  Gender  Equality'  was developed in 2010.
+principles of the NCF is to eliminate, or to reduce, inequality and prejudice. The Ministry of Science, Education and Sports, by adopting the Act on Primary and Secondary School Textbooks (Official Gazette, No. 27/10), has also significantly raised the quality of textbooks and supplementary teaching material.
+
+The Textbook Standard of 2007 (Official Gazette, No. 7/07) prescribes the use of gender-sensitive language and contents. A further step forward in this area was achieved by the adoption of the Act on Academic and Professional Titles and Academic Degrees in 2007 (Official Gazette, No. 107/07) which introduces the obligation to state professional titles and academic degrees in the male and female grammatical gender. The Ordinance on the contents and form of certificates and other public documents and on educational documentation and records in schools (Official Gazette, No. 32/10) has also been adopted, and the prescribed language standards are being applied in the contents of certificates and student record booklets. In addition, the NCF provides that all primary and secondary schools set up cross-curricular topics and inter-disciplinary contents and/or modules. As part of these cross-curricular topics, especially as part of civic education, the module 'Protection and Promotion of Gender Equality' was developed in 2010.
 
 Since the National Council for Higher Education in September 2008 adopted the Recommendation on the introduction of a women's studies course in undergraduate, graduate and postgraduate studies, and the National Science Council adopted the Ordinance on scientific and artistic areas, fields and branches (Official Gazette, No. 118/09) which includes the field of gender studies in the interdisciplinary areas of science, the conditions were created for the implementation of the above, and the measures related to the institutionalisation of gender studies in the higher education system have thus not been included in  this National Policy .
 
@@ -412,11 +434,11 @@ Croatia, just like other European countries, has been recording a continually gr
 
 A total of 16,072 persons are employed in conducting research and development tasks in the Republic of Croatia, and the share of women here amounts to 49.8%. A total of 46.9% of women are among persons holding the status of researchers (Sources: CBS Statistical Data 2010; Statistical Report 1446/2011; CBS Communication 8.1.5 MAs and specialists in 2010).
 
-However, although women are in the majority among university graduates, in Croatia they continue to be under-represented in IT studies (15%), engineering (27%), architecture and construction (37%), whereas men are highly underrepresented in studies in the field of education (8.1%).
+However, although women are in the majority among university graduates, in Croatia they continue to be under-represented in IT studies (15%), engineering (27%), architecture and construction (37%), whereas men are highly under-represented in studies in the field of education (8.1%).
 
 Significant gender differences are evident at secondary school level, so that girls make up the majority of students that complete general education secondary schools (gymnasiums) (62.7%) and art schools (71.7%), while young men prevail in technical and trade schools (62.5%).  In order to achieve a balanced representation of genders it will be necessary in the coming period to draw up gender-sensitive professional guidance programme for students, and more intensively encourage the inclusion of interested female students in elective, traditionally 'male' programmes, and male students in traditionally 'female' areas, for example native and foreign languages, or art and music culture.
 
-Although preschool education is not compulsory, by ensuring adequate conditions, an increasing number of children are becoming involved in preschool programmes, which creates the conditions for the greater presence of women in the labour market. According to the data of the Central Bureau of Statistics, the number of children attending preschool education has been increasing by around 2,500 children per year, and the number of staff in preschool institutions has grown accordingly. However, the share of men employed as preschool teachers has risen only slightly, from 3.6% in 2005 to 3.9% in 2008. This means that additional efforts will have to be exerted for the affirmation of this profession among the male population. There is noticeably decreasing interest shown by men to be employed in the primary school system. The share of men in the teaching profession in 2008 amounted to a mere 16.4% (source: CBS, 'Women and Men in Croatia 2010').
+Although preschool education is not compulsory, by ensuring adequate conditions, an increasing number of children are becoming involved in preschool programmes, which creates the conditions for the greater presence of women in the labour market. According to the data of the Central Bureau of Statistics,
 
 29
 
@@ -426,11 +448,13 @@ Although preschool education is not compulsory, by ensuring adequate conditions,
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
-It is important to note that men hold most of the management functions at all, including the highest, levels of education. In the academic year 2010/2011, there were 18 women deans and 113 male deans in a total of 132 higher education providers registered in the Register of Institutes of Higher Education kept at the Ministry of Science, Education and Sports. In seven public universities in the Republic of Croatia, there are six male rectors and one female rector (14.3%). On the other hand, it is important to stress that there are 25 public institutes in Croatia, 15 of which have male directors, while 10 have female directors.  Women are at the top of three of the largest public institutes (the 'Ruđer Bošković' Institute, the Medical Research Institute, and the Institute for Oceanography and Fisheries).
+the number of children attending preschool education has been increasing by around 2,500 children per year, and the number of staff in preschool institutions has grown accordingly. However, the share of men employed as preschool teachers has risen only slightly, from 3.6% in 2005 to 3.9% in 2008. This means that additional efforts will have to be exerted for the affirmation of this profession among the male population. There is noticeably decreasing interest shown by men to be employed in the primary school system. The share of men in the teaching profession in 2008 amounted to a mere 16.4% (source: CBS, 'Women and Men in Croatia 2010').
+
+It is important to note that men hold most of the management functions at all, including the highest, levels of education. In the academic year 2010/2011, there were 18 women deans and 113 male deans in a total of 132 higher education providers registered in the Register of Institutes of Higher Education kept at the Ministry of Science, Education and Sports. In seven public universities in the Republic of Croatia, there are six male rectors and one female rector (14.3%). On the other hand, it is important to stress that there are 25 public institutes in Croatia, 15 of which have male directors, while 10 have female directors. Women are at the top of three of the largest public institutes (the 'Ruđer Bošković' Institute, the Medical Research Institute, and the Institute for Oceanography and Fisheries).
 
 According  to  the  earlier  mentioned  survey,  gender  equality  in  education  is given less support by men, the less educated and the elderly, and also by those among the rural population. The fact that around 30 - 40% of women support the traditional image of women and gender stereotypes, and that they would tend to discriminate against women in the selection procedure for enrolment in technical schools, is also a cause for concern. Priority in this area continues to be the advancement of gender-sensitive education and the introduction of gender equality education in the education system.
 
-Many activities have been taken in the field of combating domestic violence and other forms of violence against women, based on the implementation of the National Strategy for Protection Against Domestic Violence 2005 - 2007 , and the National Strategy for Protection Against Domestic Violence 2008 - 2010, with the accompanying Protocol for Action in Cases of Domestic Violence and the National Policy for the Promotion of Gender Equality 2006 - 2010 .
+Many activities have been taken in the field of combating domestic violence and other forms of violence against women, based on the implementation of the National Strategy for Protection Against Domestic Violence 2005 - 2007, and
 
 30
 
@@ -440,7 +464,9 @@ Many activities have been taken in the field of combating domestic violence and 
 
 III. SITUATION ASSESSMENT
 
-According to the official data of the Ministry of the Interior, the number of registered violations of the Act on Protection against Domestic Violence amounted to a total of 12,941 in 2006; in 2007 this number grew to 13,673; in 2008 there were 13,140 reported violations; in 2009 there were 14,265; while in 2010 a slight decrease was registered with 14,129 recorded violations. The trend of  reported  criminal  offences  concerning  violent  behaviour  within  the  family referred to in Article 215a of the Criminal Code shows a continuous slight decrease. The official data of the Ministry of the Interior indicate that in 2006 a total of 1,985 crimes of family violence was recorded; in 2007 there was a total of 1,798 crimes; in 2008 a total of 1,647 crimes; in 2009 a total of 1,400 crimes; and in 2010 a total of 1,060 crimes of domestic violence was recorded.
+the National Strategy for Protection Against Domestic Violence 2008 - 2010, with the accompanying Protocol for Action in Cases of Domestic Violence and the National Policy for the Promotion of Gender Equality 2006 - 2010.
+
+According to the official data of the Ministry of the Interior, the number of registered violations of the Act on Protection against Domestic Violence amounted to a total of 12,941 in 2006; in 2007 this number grew to 13,673; in 2008 there were 13,140 reported violations; in 2009 there were 14,265; while in 2010 a slight decrease was registered with 14,129 recorded violations. The trend of reported criminal offences concerning violent behaviour within the family referred to in Article 215a of the Criminal Code shows a continuous slight decrease. The official data of the Ministry of the Interior indicate that in 2006 a total of 1,985 crimes of family violence was recorded; in 2007 there was a total of 1,798 crimes; in 2008 a total of 1,647 crimes; in 2009 a total of 1,400 crimes; and in 2010 a total of 1,060 crimes of domestic violence was recorded.
 
 With a view to combating violence against women and to improving the position of women victims of violence, the Republic of Croatia actively participated in the Council of Europe Campaign to Combat Violence against Women, Including Domestic Violence. By applying the recommendations of the CoE, a national campaign was conducted. In January 2006, a National Committee for the Implementation of the Campaign to Combat Domestic Violence against Women was established at the Ministry of Family, Veterans' Affairs and Intergenerational Solidarity. Round-table discussions were held dealing with 'Economic Violence against Women' and 'Systematic Financing of Civil Society Organisations which Provide Direct Protection to Victims of Domestic Violence'. A Manual with Instructions on Media Reporting on Violence against Women was published. In May 2007, in Zagreb, the Ministry of Family, Veterans' Affairs and Intergenerational Solidarity and the Gender Equality and Anti-Trafficking Division of the Directorate General of Human Rights and Legal Affairs of the Council of Europe - Department for Gender Equality organised an international seminar under the title 'Men's active participation in combating domestic violence'. Enlarged editions of the Address Book of Institutions, Organisations and other Institutions which Provide Assistance, Support and Protection to Victims of Domestic Violence are regularly printed.
 
@@ -472,7 +498,7 @@ III. SITUATION ASSESSMENT
 
 In  order  to  eliminate  gender  based  violence  against  women,  in  this National Policy emphasis is placed on the elimination of all other forms of violence against women, the further advancement of practice, and the elimination of prejudice against women victims of all forms of violence.  The non-reporting of violence appears to be one of the key problems, since it not only affects social perception of the extensiveness of the problem, but also the work of all competent bodies and institutions. This is also indicated by the fact that sexual violence in the Republic of Croatia, as in nearly all countries, is one of the least reported crimes, thus constituting a dark figure of crime that is higher than in any other criminal area.
 
-According to the official data of the Ministry of the Interior, the number of reported crimes against sexual freedom and sexual morality ranges from 610 recorded crimes in 2006, 681 crimes in 2007, 761 crimes in 2008, 658 crimes in 2009, and 567 recorded crimes in 2010. According to the type of criminal offence, lewd acts and rape figure the most. In over 90% of cases, rape victims are  women, most often adolescents and young women in their 20s, unlike the  perpetrators  who  are  usually  in  their  30s  and  40s.  The  perpetrators  of sexual violence are men almost without exception. The results of the survey Eliminating Stereotypes and the Discrimination of Women - Sexual Violence in Legal Proceedings in Croatia, conducted by the civil society organisation B.a.B.e. (Be Active. Be Emancipated) in order to analyse the case law of the Supreme Court and county courts in Karlovac, Rijeka, Zagreb and Vukovar, among other indicators, show the need to further improve the system of protecting the victims of  sexual  violence.  The  results  of  the  survey  indicate  that  victims  of  sexual violence in court proceedings are additionally victimised by the length of the proceedings, by having to give multiple statements, by being confronted by their rapists, etc. These data, among others from practice, point to the need to take further targeted action to prevent the secondary victimisation of women victims of sexual violence in official proceedings, including the introduction of a unified practice of conduct with the victims of sexual violence. A number of significant activities to standardise the procedures of competent bodies with victims of sexual violence are already being conducted, and the Government Office for Gender Equality has already drawn up a draft proposal of the Protocol for Action in Cases of Sexual Violence . Additional efforts must be invested in designing, organising and continuously implementing treatment programmes in prisons for the perpetrators and recidivists of grave crimes against women. It is also necessary to continue activities aimed at increasing the available places in existing shelters and at developing a network of centres for victims of sexual violence, as well as counselling centres which provide long-term assistance for women victims of all forms of violence, in line with the recommendations of the Council of Europe. Improving the system of keeping statistical data, mutual cooperation and exchange of information between competent bodies, training professional staff, and raising public awareness continue to be the tasks of all competent national and other bodies and institutions in the process of eliminating all forms of violence against women, and providing optimum assistance and support to victims of violence.
+According to the official data of the Ministry of the Interior, the number of reported crimes against sexual freedom and sexual morality ranges from 610 recorded crimes in 2006, 681 crimes in 2007, 761 crimes in 2008, 658 crimes in 2009, and 567 recorded crimes in 2010. According to the type of criminal offence, lewd acts and rape figure the most. In over 90% of cases, rape victims are women, most often adolescents and young women in their 20s, unlike the perpetrators who are usually in their 30s and 40s. The perpetrators of sexual violence are men almost without exception. The results of the survey Eliminating Stereotypes and the Discrimination of Women - Sexual Violence in Legal Proceedings in Croatia, conducted by the civil society organisation B.a.B.e. (Be Active. Be Emancipated) in order to analyse the case law of the Supreme Court and county courts in Karlovac, Rijeka, Zagreb and Vukovar, among other indicators, show the need to further improve the system of protecting the victims of sexual violence. The results of the survey indicate that victims of sexual violence in court proceedings are additionally victimised by the length of the proceedings, by having to give multiple statements, by being confronted by their rapists, etc. These data, among others from practice, point to the need to take further targeted action to prevent the secondary victimisation of women victims of sexual violence in official proceedings, including the introduction of a unified practice of conduct with the victims of sexual violence. A number of significant activities to standardise the procedures of competent bodies with victims of sexual violence are already being conducted, and the Government Office for Gender Equality has already drawn up a draft proposal of the Protocol
 
 33
 
@@ -482,11 +508,13 @@ According to the official data of the Ministry of the Interior, the number of re
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
-The Republic of Croatia was among the first to sign the new UN Convention on the Rights of Persons with Disabilities and to become party to it. The commitments of the Convention were embedded in the National Strategy for Equal Opportunities for Persons with Disabilities 2007 - 2015. A special discussion was held at the 12 th  Croatian Symposium of Persons with Disabilities on the 'Application of the UN Convention to Women with Disabilities'. NGO projects are being supported and workshops and seminars are held devoted to the empowerment of women with disabilities, and there is regular cooperation with the Croatian Union of Associations of Persons with Disabilities (hereinafter: SOIH).
+for Action in Cases of Sexual Violence. Additional efforts must be invested in designing, organising and continuously implementing treatment programmes in prisons for the perpetrators and recidivists of grave crimes against women. It is also necessary to continue activities aimed at increasing the available places in existing shelters and at developing a network of centres for victims of sexual violence, as well as counselling centres which provide long-term assistance for women victims of all forms of violence, in line with the recommendations of the Council of Europe. Improving the system of keeping statistical data, mutual cooperation and exchange of information between competent bodies, training professional staff, and raising public awareness continue to be the tasks of all competent national and other bodies and institutions in the process of eliminating all forms of violence against women, and providing optimum assistance and support to victims of violence.
+
+The Republic of Croatia was among the first to sign the new UN Convention on the Rights of Persons with Disabilities and to become party to it. The commitments of the Convention were embedded in the National Strategy for Equal Opportunities for Persons with Disabilities 2007 - 2015. A special discussion was held at the 12th Croatian Symposium of Persons with Disabilities on the 'Application of the UN Convention to Women with Disabilities'. NGO projects are being supported and workshops and seminars are held devoted to the empowerment of women with disabilities, and there is regular cooperation with the Croatian Union of Associations of Persons with Disabilities (hereinafter: SOIH).
 
 Towards the end of 2009, SOIH, as part of the 'Situation of Women with Disabilities in the Republic of Croatia' project, funded by the Ministry of Health and Social Welfare, conducted a survey on the status of women with disabilities in the Republic of Croatia in all the counties. The survey was conducted on a sample of 582 women with disabilities, with special emphasis on establishing key features, such as discrimination issues and obstacles to full integration into the social life of the community.
 
-In the area of fulfilling international obligations and cooperation, Croatia has recently been actively cooperating with various entities of the UN, the Council of Europe and the European Union. The alignment and implementation of laws and  other  regulations  related  to  gender  equality  in  relation  to  international documents has regularly been monitored, and national reports have been drawn up on the meeting of international obligations in the field of gender equality.
+In the area of fulfilling international obligations and cooperation, Croatia has recently been actively cooperating with various entities of the UN, the Council
 
 34
 
@@ -496,11 +524,13 @@ In the area of fulfilling international obligations and cooperation, Croatia has
 
 III. SITUATION ASSESSMENT
 
-In  2009, a Progress Report on the Implementation of the Beijing Declaration and Platform for Action (1995) , as preparation for the Global Review Beijing +15 , was submitted to the UN Economic Commission for Europe (hereinafter: UNECE). As part of a summary regional progress overview, UNECE's Secretariat stressed the following as significant achievements in promoting gender equality in Croatia: the adoption of the new Gender Equality Act, which has been fully aligned with the provisions of relevant international standards and EU directives, the adoption of a Free Legal Aid Act , the growing trend of women in higher education, and the translation and dissemination of international documents.
+of Europe and the European Union. The alignment and implementation of laws and other regulations related to gender equality in relation to international documents has regularly been monitored, and national reports have been drawn up on the meeting of international obligations in the field of gender equality.
+
+In 2009, a Progress Report on the Implementation of the Beijing Declaration and Platform for Action (1995), as preparation for the Global Review Beijing +15, was submitted to the UN Economic Commission for Europe (hereinafter: UNECE). As part of a summary regional progress overview, UNECE's Secretariat stressed the following as significant achievements in promoting gender equality in Croatia: the adoption of the new Gender Equality Act, which has been fully aligned with the provisions of relevant international standards and EU directives, the adoption of a Free Legal Aid Act, the growing trend of women in higher education, and the translation and dissemination of international documents.
 
 Various activities have been undertaken for the purpose of promoting the UN Convention on the Elimination of All Forms of Discrimination against Women at national and regional levels, including regular participation in the work of the UN Commission on the Status of Women.
 
-Most activities were related to meeting obligations in the EU accession process, mostly within Chapter 19: Social Policy and Employment, which had been provisionally closed at the end of 2009. The Republic of Croatia also participated in the implementation of the Gender Equality Community Programme and, on joining this programme, was included in the European Commission's database on men and women in decision-making, which contains data on Member States and candidate countries in the field of political decision-making, the judiciary, the economy, and state administration. In 2007, with the financial support of the European Commission, as part of the implementation of the Programme, an international 'Awareness Raising Conference about EU Policies and Legislation on Gender Equality' was organised in Zagreb, on which occasion the representative of the EC stressed that the changes in Croatia  were very much in tune with the EU strategy, and assessed the National Policy for the Promotion of Gender Equality 2006 - 2010 as 'a very positive step [which] shows the importance accorded by Croatia to gender equality'. As part of the same Programme , Croatia also participated in an international project entitled Taking Gender Equality to Local Communities implemented by the Republic of Malta, in partnership with Portugal, Italy and Greece.
+Most activities were related to meeting obligations in the EU accession process, mostly within Chapter 19: Social Policy and Employment, which had been provisionally closed at the end of 2009. The Republic of Croatia also participated in the implementation of the Gender Equality Community Programme and, on joining this programme, was included in the European Commission's database on men and women in decision-making, which contains data on Member States and candidate countries in the field of political decision-making, the judiciary, the economy, and state administration. In 2007, with the financial support of the European Commission, as part of the implementation of the Programme, an international 'Awareness Raising Conference about EU Policies and Legislation on Gender Equality' was organised in Zagreb, on which occasion the representative of the EC stressed that the changes in Croatia were very much in tune with the EU strategy, and assessed the National Policy for the
 
 35
 
@@ -510,9 +540,11 @@ Most activities were related to meeting obligations in the EU accession process,
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
+Promotion of Gender Equality 2006 - 2010 as 'a very positive step [which] shows the importance accorded by Croatia to gender equality'. As part of the same Programme, Croatia also participated in an international project entitled Taking Gender Equality to Local Communities implemented by the Republic of Malta, in partnership with Portugal, Italy and Greece.
+
 In 2008, the Republic of Croatia also signed two important pre-accession documents which integrated as a key part the gender dimension in the area of employment and social policy: the Joint Inclusion Memorandum - JIM and the Joint Assessment Paper of Employment Policies - JAP.
 
-Regular reports have been submitted to the EC and other EU bodies on the implementation of the National Policy for the Promotion of Gender Equality 2006 2010 . The EC has assessed the progress achieved in the implementation of this document in all the progress reports on Croatia, as part of meeting the obligations set in the Political Criteria within the accession process.
+Regular reports have been submitted to the EC and other EU bodies on the implementation of the National Policy for the Promotion of Gender Equality 2006 - 2010. The EC has assessed the progress achieved in the implementation of this document in all the progress reports on Croatia, as part of meeting the obligations set in the Political Criteria within the accession process.
 
 Special attention was devoted to building a communication strategy related to the accession process, by translating, printing and popularising the fundamental European strategic documents in this field.
 
@@ -546,13 +578,13 @@ NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
 [[START OF PAGE 39]]
 
-## IV.    STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+## IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
-In  order to ensure the implementation of the National Policy for Gender Equality 2011 - 2015, the Action Plan contains key activities and measures according to priority  thematic  activity  areas:  promoting  the  human  rights  of  women  and gen­ der equality , equal  opportunities on the labour market, gender-sensitive education, equality in political and public decision-making, elimination of violence against women, international policy and cooperation, and institutional mechanisms and implementation arrangements. The main implementing and co-competent authorities and the planned time frames for implementation have been determined. The first-listed authority on the list of the competent authorities is responsible for the coordination, planning and implementation of a particular measure. The measures are also implemented through cooperation with civil society organisations.
+In order to ensure the implementation of the National Policy for Gender Equality 2011 - 2015, the Action Plan contains key activities and measures according to priority thematic activity areas: promoting the human rights of women and gender equality, equal opportunities on the labour market, gender-sensitive education, equality in political and public decision-making, elimination of violence against women, international policy and cooperation, and institutional mechanisms and implementation arrangements. The main implementing and co-competent authorities and the planned time frames for implementation have been determined. The first-listed authority on the list of the competent authorities is responsible for the coordination, planning and implementation of a particular measure. The measures are also implemented through cooperation with civil society organisations.
 
 ### 1. Promoting the human rights of women and gender equality
 
-Promoting the human rights of women is a continuous task which demands the implementation of systematic campaigns and many other activities aimed at raising  public  awareness  and  knowledge  of  gender  discrimination  to  set  up  more promptly a society of equal opportunities and to eliminate all forms of gender discrimination. This includes the implementation of measures related to familiarisation with the Gender Equality Act and other anti-discrimination legislation, targeted training for members of the judiciary and the state administration, promotion of the use of gender-sensitive language, activities aimed at improving the social status of women members of national minorities, women with disabilities, women from rural areas, organisations for the equality of LGBT persons, continuously supported by projects and activities of civil society organisations in this area.
+Promoting the human rights of women is a continuous task which demands the implementation of systematic campaigns and many other activities aimed at raising public awareness and knowledge of gender discrimination to set up more promptly a society of equal opportunities and to eliminate all forms of gender discrimination. This includes the implementation of measures related to familiarisation with the Gender Equality Act and other anti-discrimination legislation, targeted training for members of the judiciary and the state administration, promotion of the use of gender-sensitive language, activities aimed at improving the social sta-
 
 39
 
@@ -562,7 +594,9 @@ Promoting the human rights of women is a continuous task which demands the imple
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
-#### 1.1  Raise the level of knowledge and awareness of anti-discrimination legislation, gender equality and the human rights of women
+tus of women members of national minorities, women with disabilities, women from rural areas, organisations for the equality of LGBT persons, continuously supported by projects and activities of civil society organisations in this area.
+
+#### 1.1 Raise the level of knowledge and awareness of anti-discrimination legislation, gender equality and the human rights of women
 
 ##### 1.1.1 Campaigns and other activities will be conducted with a view to acquainting the public with the Gender Equality Act and other anti-discrimination acts, and with gender discrimination protection mechanisms.
 
@@ -573,9 +607,9 @@ Timeframe for implementation: 2011 - 2015
 ##### 1.1.2 Gender equality and anti-discrimination legislation contents will be included in the general part of the state, judicial or professional examinations.
 Competent authorities: Ministry of Public Administration, competent state administration bodies in line with their legally prescribed remit.
 
-##### 1.1.3 Training of judicial and state attorney office staff, and attorneys in the application of anti-discrimination legislation.
-
 Timeframe for implementation: 2011
+
+##### 1.1.3 Training of judicial and state attorney office staff, and attorneys in the application of anti-discrimination legislation.
 
 Competent authorities: Judicial Academy, Croatian Bar Association.
 
@@ -589,7 +623,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 41]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 tional Day for Combating Violence against Women, 17 May - International Day against Homophobia and Transphobia, as well as International Day for Women Entrepreneurs, and European Equal Pay Day.
 
@@ -605,7 +639,7 @@ Timeframe for implementation: 2011 - 2015
 
 ##### 1.1.6 The use of gender-sensitive language will be promoted in state bodies and bodies of units of local and regional self-government, as well as in public speech and in the media.
 
-Competent authorities: State bodies, bodies of units of local and regional selfgovernment, Croatian Radio and Television, and the media.
+Competent authorities: State bodies, bodies of units of local and regional self-government, Croatian Radio and Television, and the media.
 
 Timeframe for implementation: 2011 - 2015
 
@@ -654,7 +688,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 43]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 ##### 1.2.4 The  collection of statistical data in the area of education of girls and young women belonging to the Roma national minority will be improved.
 Competent authority: Ministry of Science, Education and Sports.
@@ -679,7 +713,7 @@ Timeframe for implementation: 2011 - 2015
 
 ##### 1.4.1 A  working group will be formed to collect data on women in rural areas with regard to education, employment and self-employment, health care, the preservation of cultural heritage and economic development, and an  action  plan  will  be  drawn  up  based  on  the  results  of  the  conducted analyses.
 
-Competent authorities: Ministry of Agriculture, Fisheries and Rural Development, Office  for  Gender  Equality,  competent  state  administration  bodies  in line with their legally prescribed remit, Central Bureau of Statistics, Croatian Employment Service, Croatian Chamber of Trades and Crafts, units of local and regional self-government, county/local gender equality commissions, in cooperation with civil society organisations and research institutes.
+Competent authorities: Ministry of Agriculture, Fisheries and Rural Development, Office for Gender Equality, competent state administration bodies in
 
 43
 
@@ -688,6 +722,8 @@ Competent authorities: Ministry of Agriculture, Fisheries and Rural Development,
 [[START OF PAGE 44]]
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
+
+line with their legally prescribed remit, Central Bureau of Statistics, Croatian Employment Service, Croatian Chamber of Trades and Crafts, units of local and regional self-government, county/local gender equality commissions, in cooperation with civil society organisations and research institutes.
 
 Timeframe for implementation: 2011 - 2012
 
@@ -707,7 +743,7 @@ Timeframe for implementation: 2011 - 2015
 
 ##### 1.5.2 The level of knowledge and awareness will be raised regarding types of STDs, their prevention and efficient forms of protection.
 
-Competent authorities: Ministry of Health and Social Welfare, Croatian Institute for Public Health, county institutes for public health, Croatian Institute for Health Insurance, health care providers, health care personnel, expert societies, civil society organisations.
+Competent authorities: Ministry of Health and Social Welfare, Croatian Institute for Public Health, county institutes for public health, Croatian Institute for
 
 44
 
@@ -715,7 +751,9 @@ Competent authorities: Ministry of Health and Social Welfare, Croatian Institute
 
 [[START OF PAGE 45]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+
+Health Insurance, health care providers, health care personnel, expert societies, civil society organisations.
 
 Timeframe for implementation: 2011 - 2015
 
@@ -737,14 +775,14 @@ NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
 Reducing unemployment and eliminating all forms of discrimination of women in the labour market remains the main strategic goal. In addition to the adoption and implementation of parallel strategies, key activities will be conducted with a view to reducing the pay gap, supporting the development of women entrepreneurship at national and local levels, and promoting measures aimed at balancing family, private and professional duties. Analyses and surveys will continue to be conducted, and the quality of statistical data on structural indicators of the status of men and women in the labour market will be improved. Public awareness will continue to be raised concerning the stereotypes and obstacles in the way of the economic empowerment of women in various areas, including the ICT sector.
 
-#### 2.1  Reduce the unemployment and eliminate all forms of discrimination of women in the labour market
+#### 2.1 Reduce the unemployment and eliminate all forms of discrimination of women in the labour market
 
 ##### 2.1.1 Separate data on the status of women in the labour market based on the effects of the implementation of the measures of the National Employment Action Plan for 2011 - 2012 and 2013 - 2014 will be monitored and published.
-Competent authorities: Ministry of the Economy, Labour and Entrepreneurship, Croatian Employment Service, competent state administration bodies in  line  with  their  legally  prescribed  remit,  units  of  local  and  regional  selfgovernment.
-
-##### 2.1.2 Activities will be run to encourage units of local and regional self-government to engage within their territories in implementing national plans to encourage employment and enterprise development, and to draw up additional incentive measures.
+Competent authorities: Ministry of the Economy, Labour and Entrepreneurship, Croatian Employment Service, competent state administration bodies in line with their legally prescribed remit, units of local and regional self-government.
 
 Timeframe for implementation: 2011 - 2014
+
+##### 2.1.2 Activities will be run to encourage units of local and regional self-government to engage within their territories in implementing national plans to encourage employment and enterprise development, and to draw up additional incentive measures.
 
 46
 
@@ -752,7 +790,7 @@ Timeframe for implementation: 2011 - 2014
 
 [[START OF PAGE 47]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 Competent authorities: Ministry of the Economy, Labour and Entrepreneurship, units of local and regional self-government, county gender equality commissions, business incubators.
 
@@ -772,13 +810,13 @@ Timeframe for implementation: 2011 - 2015
 
 ##### 2.1.5 The employment of women in the ICT sector will be promoted, as will the exchange of experience and good practice in the ICT sector.
 
-##### A conference will be organised on the status of women in the ICT sector.
-
-- 2.1.6 Competent authority: Central State Office for e-Croatia.
-
 Competent authority: Central State Office for e-Croatia.
 
 Timeframe for implementation: 2011 - 2015
+
+##### 2.1.6 A conference will be organised on the status of women in the ICT sector.
+
+Competent authority: Central State Office for e-Croatia.
 
 Timeframe for implementation: 2011
 
@@ -798,14 +836,14 @@ Competent authorities: Ministry of The Economy, Labour and Entrepreneurship.
 
 Timeframe for implementation: 2014
 
-##### 2.2.2 In the Operational Plan for the Promotion of SMEs for the current year , the earmarked funds aimed at financing women entrepreneurship will be increased.
+##### 2.2.2 In the Operational Plan for the Promotion of SMEs for the current year, the earmarked funds aimed at financing women entrepreneurship will be increased.
 Competent authorities: Ministry of the Economy, Labour and Entrepreneurship, Croatian Bank for Reconstruction and Development.
-
-##### 2.2.3 Women entrepreneurship will be systematically promoted through media campaigns, programmes and the education of women concerning entrepreneurship, and by providing assistance with organisation, funding and premises, as well as other types of assistance.
 
 Timeframe for implementation: 2011 - 2015
 
-Competent authorities: Ministry of the Economy, Labour and Entrepreneurship,  Ministry  of  Agriculture,  Fisheries  and  Rural  Development,  Croatian Agency for Small Businesses, Croatian Employment Service, Croatian Chamber of the Economy, Croatian Chamber of Trades and Crafts, Croatian Employers Association,  Office  for  Gender  Equality,  units  of  local  and  regional  self-government, county/local gender equality commissions, in cooperation with civil society organisations.
+##### 2.2.3 Women entrepreneurship will be systematically promoted through media campaigns, programmes and the education of women concerning entrepreneurship, and by providing assistance with organisation, funding and premises, as well as other types of assistance.
+
+Competent authorities: Ministry of the Economy, Labour and Entrepreneurship, Ministry of Agriculture, Fisheries and Rural Development, Croatian Agency for Small Businesses, Croatian Employment Service, Croatian Chamber of the Economy, Croatian Chamber of Trades and Crafts, Croatian Employers Association, Office for Gender Equality, units of local and regional self-government, county/local gender equality commissions, in cooperation with civil society organisations.
 
 Timeframe for implementation: 2011 - 2015
 
@@ -817,7 +855,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 49]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 Competent authorities: Ministry of the Economy, Labour and Entrepreneurship, Ministry of Agriculture, Fisheries and Rural Development, Office for Gender Equality,  county gender equality commissions, in cooperation with civil society organisations.
 
@@ -837,7 +875,7 @@ Competent authorities:  Units  of  local  and  regional  self-government,  count
 
 Timeframe for implementation: 2011 - 2015
 
-##### 2.3.3 Activities will be conducted to raise the awareness of all stakeholders involved in collective bargaining of the importance of the principle of equal pay for work of equal value, and the implementation of the Labour Act .
+##### 2.3.3 Activities will be conducted to raise the awareness of all stakeholders involved in collective bargaining of the importance of the principle of equal pay for work of equal value, and the implementation of the Labour Act.
 
 Competent  authorities:  Office  for  Social  Partnership,  Social  and  Economic Council, Ministry of the Economy, Labour and Entrepreneurship.
 
@@ -863,7 +901,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 51]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 ### 3. Gender-sensitive education
 
@@ -871,7 +909,7 @@ The elimination of stereotypes and the introduction of gender-sensitive educatio
 
 The competent bodies and institutions will be acquainted with Recommendation CM/Rec (2007) 13 of the Committee of Ministers to member states on gender mainstreaming in education.
 
-#### 3.1  Introduce gender-sensitive education in the entire education system, while eliminating gender stereotypes from textbooks and teaching curricula
+#### 3.1 Introduce gender-sensitive education in the entire education system, while eliminating gender stereotypes from textbooks and teaching curricula
 
 ##### 3.1.1 A new Textbook Standard will be adopted, which will improve the quality of gender-sensitive education, and will align the ethical and linguistic standards of textbooks and their artwork and graphic solutions with the principles of gender equality .
 Competent authority: Ministry of Science, Education and Sports.
@@ -898,7 +936,7 @@ Competent authority: Ministry of Science, Education and Sports.
 
 Timeframe for implementation: 2011
 
-##### 3.1.4 Part of the civic education curriculum will also include competences for the development of 'media literacy', which will encourage students to acquire a critical attitude towards stereotypes and sexism promoted in the media.
+##### 3.1.4 Part of the civic education curriculum will also include competences for the development of “media literacy”, which will encourage students to acquire a critical attitude towards stereotypes and sexism promoted in the media.
 
 Competent authorities: Education and Training Agency, Ministry of Science, Education and Sports.
 
@@ -908,7 +946,9 @@ Timeframe for implementation: 2011 - 2015
 
 ##### 3.2.1 A professional training programme on gender equality for education providers in primary and secondary schools will be updated, regularly implemented and monitored, in conformity with Recommendation CM(2007)13 to member states on gender mainstreaming in education .
 
-Competent authorities: Education and Training Agency, Agency for Vocational Education and T raining and Adult Education, in cooperation with civil society organisations. Timeframe for implementation: 2011 - 2015
+Competent authorities: Education and Training Agency, Agency for Vocational Education and Training and Adult Education, in cooperation with civil society organisations.
+
+Timeframe for implementation: 2011 - 2015
 
 ##### 3.2.2 Language standards will be applied in the contents of certificates, licences and diplomas, listing the vocational qualification, title and occupation in the male or female grammatical gender according to the sex of the person to whom the document is awarded.
 
@@ -922,9 +962,9 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 53]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
-#### 3.3  Achieve gender balance in selecting the field of education in secondary schools and in higher education
+#### 3.3 Achieve gender balance in selecting the field of education in secondary schools and in higher education
 
 ##### 3.3.1 Based on an analysis of gender-disaggregated statistical data on the involvement of the student population in elective/optional programmes, the education provider will, as necessary, draw up measures to increase the involvement of the under-represented gender.
 
@@ -934,11 +974,11 @@ Timeframe for implementation: 2012 - 2015
 
 ##### 3.3.2 A gender-sensitive programme will be developed to provide professional information for the population of students in their final years of elementary schools on the attractiveness of occupations sought in the labour market in order to develop the interest of female students to enrol in secondary schools where traditionally and statistically the male student population prevails, and of male students to enrol in secondary schools where traditionally and statistically the female student population prevails.
 
-##### 3.3.3 In the event that the results from all grounds of evaluation in awarding higher education scholarships are equal, priority will be given to the under-represented gender.
-
 Competent authority: Croatian Employment Service.
 
 Timeframe for implementation: 2011 - 2012
+
+##### 3.3.3 In the event that the results from all grounds of evaluation in awarding higher education scholarships are equal, priority will be given to the under-represented gender.
 
 Competent authorities: Ministry of Science, Education and Sports, units of local and regional self-government, National Foundation for Supporting the Pupil and Student Standard.
 
@@ -954,11 +994,11 @@ NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
 ### 4. Equality in political and public decision-making
 
-No true  democracy  can  exist  without  a  balanced  representation  of  men  and women in political and public decision-making. By 2015, it is necessary to significantly increase the representation of women in representative and executive bodies of power at all levels.  One important task is to advance the keeping of gender statistics on the political participation of women at state, county, town and municipal levels, as well as to improve gender balance in economic decisionmaking. Key activities will be conducted with the aim of improving the status of women in sports.
+No true democracy can exist without a balanced representation of men and women in political and public decision-making. By 2015, it is necessary to significantly increase the representation of women in representative and executive bodies of power at all levels. One important task is to advance the keeping of gender statistics on the political participation of women at state, county, town and municipal levels, as well as to improve gender balance in economic decision-making. Key activities will be conducted with the aim of improving the status of women in sports.
 
-Political  institutions,  political  parties  and  the  public  will  continue  to  the  acquainted with Recommendation Rec (2003) of the Committee of Ministers to member states  on  balanced  participation  of  women  and  men  in  political  and  public  decisionmaking , and with other national and international documents.
+Political institutions, political parties and the public will continue to the acquainted with Recommendation Rec (2003) of the Committee of Ministers to member states on balanced participation of women and men in political and public decision-making, and with other national and international documents.
 
-#### 4.1  Achieve a balanced representation of men and women in representative and executive bodies of power at all levels
+#### 4.1 Achieve a balanced representation of men and women in representative and executive bodies of power at all levels
 
 ##### 4.1.1 Forums,  seminars,  conferences,  campaigns  and  other  activities  dealing with the political representation of women in legislative and executive power at national and local levels will be held regularly.
 
@@ -974,7 +1014,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 55]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 tion of both genders.
 
@@ -983,11 +1023,12 @@ Competent authorities: State bodies, legal entities vested with public authority
 Timeframe for implementation: 2011 - 2015
 
 ##### 4.1.3 Statistical records will be taken and gender disaggregated data will be published of all accepted valid lists of candidates per proposer for elections at state, county, town or municipal level, and for elections to the European Parliament.
+
 Competent authorities: State Election Commission, Central Bureau of Statistics, units of local and regional self-government.
 
-##### 4.1.4 Statistical  records  will  be  taken  and  gender  disaggregated  data  will  be published regarding mandates won by individual political parties or independent lists, according to the results of elections conducted at state, county, town or municipal level, and for elections to the European Parliament.
-
 Timeframe for implementation: 2011 - 2015
+
+##### 4.1.4 Statistical records will be taken and gender disaggregated data will be published regarding mandates won by individual political parties or independent lists, according to the results of elections conducted at state, county, town or municipal level, and for elections to the European Parliament.
 
 Competent authorities: State Election Commission, units of local and regional self-government, Central Bureau of Statistics.
 
@@ -1014,11 +1055,12 @@ Competent authority: Croatian Parliament / Information and Documentation Service
 Timeframe for implementation: 2011 - 2015
 
 ##### 4.1.7 Gender disaggregated data on officials and leading civil servants will be systematically collected and published on the websites of state administration bodies.
+
 Competent authorities: State administration bodies.
 
-##### 4.1.8 In appointing members of supervisory and management boards of companies in the public and private sector , account will be taken of the need to establish a balanced representation of both genders, so that the under-represented gender, pursuant to the Gender Equality Act , does not fall below 40%.
-
 Timeframe for implementation: 2011 - 2015
+
+##### 4.1.8 In appointing members of supervisory and management boards of companies in the public and private sector, account will be taken of the need to establish a balanced representation of both genders, so that the under-represented gender, pursuant to the Gender Equality Act, does not fall below 40%.
 
 Competent authorities: Government of the Republic of Croatia, state administration bodies, companies.
 
@@ -1032,11 +1074,11 @@ Timeframe for implementation: 2011 - 2012
 
 ##### 4.1.10 Greater representation of women in international forums where key political decisions are made will be encouraged.
 
-##### 4.1.11 When forming and appointing representatives to delegations, commissions
-
 Competent authority: Ministry of Foreign Affairs and European Integration.
 
 Timeframe for implementation: 2011 - 2015
+
+##### 4.1.11 When forming and appointing representatives to delegations, commissions
 
 56
 
@@ -1044,7 +1086,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 57]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 and other bodies, account will be taken of the balanced representation of women and men.
 
@@ -1055,11 +1097,12 @@ Timeframe for implementation: 2011 - 2015
 #### 4.2 Improve the status of women in sports
 
 ##### 4.2.1 The share of women in the management structure of sports associations and other sporting organisations will be increased pursuant to the Gender Equality Act.
+
 Competent authorities: Croatian Olympic Committee, Croatian Paralympic Committee, state and local sports associations.
 
-##### 4.2.2 The existing legal framework will be reviewed and models for monitoring the statistical data on the status of women in sports will be monitored with a view to combating direct and indirect discrimination.
-
 Timeframe for implementation: 2011 - 2015
+
+##### 4.2.2 The existing legal framework will be reviewed and models for monitoring the statistical data on the status of women in sports will be monitored with a view to combating direct and indirect discrimination.
 
 Competent authorities: Ministry of Science, Education and Sports, Croatian Olympic Committee, Croatian Paralympic Committee, and state sports associations.
 
@@ -1085,7 +1128,7 @@ Violence against women, including domestic violence, is the most serious violati
 
 At the same time, the adoption and implementation of the strategy in the fight to eliminate violence against women will be monitored at the level of the entire European Union, as will the launch of a public campaign on gender violence at the EU level, which is provided for in the European Commission's Strategy for Equality between Women and Men 2010 - 2015 .
 
-#### 5.1  Eliminate all forms of violence against women and improve the status and protection of the rights of women victims of all forms of violence
+#### 5.1 Eliminate all forms of violence against women and improve the status and protection of the rights of women victims of all forms of violence
 
 ##### 5.1.1 Adoption of the Council of Europe Convention on preventing and combating violence against women and domestic violence will be considered.
 
@@ -1099,7 +1142,7 @@ Timeframe for implementation: 2011 - 2012
 
 [[START OF PAGE 59]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 ##### 5.1.2 The  number  of  necessary  hot  lines,  counselling  centres,  shelters  and other extra-institutional services for women victims of all forms of violence will  be  aligned  with  the  population  of  the  Republic  of  Croatia,  pursuant  to Recommendation (2002)5 of the Committee of Ministers to member states on the protection of women against violence.
 
@@ -1147,7 +1190,7 @@ Competent authorities:  Ministry  of  Science,  Education  and  Sports,  Nationa
 
 Timeframe for implementation: 2011 - 2015
 
-#### 5.2  Improve the system of keeping statistical data, intersectoral cooperation and the coordination of competent state bodies, institutions and civil society organisations in resolving the problem of violence against women at national and local levels and ensure continuous education for the competent bodies
+#### 5.2 Improve the system of keeping statistical data, intersectoral cooperation and the coordination of competent state bodies, institutions and civil society organisations in resolving the problem of violence against women at national and local levels and ensure continuous education for the competent bodies
 
 ##### 5.2.1 The system of keeping statistical data (with the introduction of continuous statistical monitoring of the relationship between the victim and the perpetrator)  will  be  improved  and  the  systematic  and  analytical  monitoring  of
 
@@ -1157,7 +1200,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 61]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 cases concerning all forms of violence against women, with the exception of domestic violence, will be implemented. The exchange of data between the police, health-care providers, courts, the State Attorney's Office of the Republic of Croatia and civil society organisations that provide assistance and support to victims of violence will be improved.
 
@@ -1171,9 +1214,9 @@ Competent authorities: Judicial Academy, Police Academy, Ministry of Family, Vet
 
 Timeframe for implementation: 2011 - 2015
 
-#### 5.3  Raise the awareness of the general public about the phenomenon, problems and methods of suppressing gender motivated violence
+#### 5.3 Raise the awareness of the general public about the phenomenon, problems and methods of suppressing gender motivated violence
 
-##### 5.3.1 Campaigns and other activities, workshops, lectures, forums and roundtable discussions will be organised concerning the problem of gender motivated  violence,  including  trafficking  in  human  beings  and  prostitution,  and
+##### 5.3.1 Campaigns and other activities, workshops, lectures, forums and round-table discussions will be organised concerning the problem of gender motivated violence, including trafficking in human beings and prostitution, and
 
 61
 
@@ -1195,13 +1238,13 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 63]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 ### 6. International policy and cooperation
 
 In the foregoing period, the Republic of Croatia has taken an active role in promoting gender equality in the international environment. The most important goal in the coming period, in line with the communication strategy for EU accession, is to conduct a number of activities aimed at acquainting the public about gender equality legislation and policies implemented at the EU level, as well as about the development of modes of cooperation with the European Institute for Gender Equality. Further undertakings related to the obligation to implement UN instruments, including the promotion of the UN Convention on the Elimination of all Forms of Discrimination against Women, the Beijing Declaration and Platform for Action, and the Millennium Development Goals are also important, as is the adoption of the national Action Plan for the Implementation of UN Security Council Resolution: 1325 (2000)  and related resolutions with a view to integrating the gender perspective in the country's security policy.
 
-#### 6.1  The public will be acquainted with the gender equality policies of the EU and other international organisations
+#### 6.1 The public will be acquainted with the gender equality policies of the EU and other international organisations
 
 ##### 6.1.1 The Strategy for Equality between Women and Men 2010 - 2015 of the European Commission will be translated, printed and distributed.
 
@@ -1237,11 +1280,11 @@ Timeframe for implementation: 2011 - 2012
 
 ##### 6.1.5 A special section will be posted on the website of the Office for Gender Equality (www.ured-ravnopravnosti.hr) devoted to the status of women and the promotion of gender equality in the EU.
 
-##### 6.1.6 The activities of the Republic of Croatia related to monitoring the work and actively presenting and participating in the activities of the UN Human Rights Council, the UN Commission on the Status of Women, the UN Entity for Gender Equality and the Empowerment of Women - UN WOMEN, and other UN bodies, working groups and mechanisms will be coordinated.
-
 Competent authority: Office for Gender Equality.
 
 Timeframe for implementation: 2011
+
+##### 6.1.6 The activities of the Republic of Croatia related to monitoring the work and actively presenting and participating in the activities of the UN Human Rights Council, the UN Commission on the Status of Women, the UN Entity for Gender Equality and the Empowerment of Women - UN WOMEN, and other UN bodies, working groups and mechanisms will be coordinated.
 
 Competent authorities: Ministry of Foreign Affairs and European Integration, Office for Gender Equality.
 
@@ -1255,7 +1298,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 65]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 Competent authorities: Office for Gender Equality, Ministry of Foreign Affairs and European Integration, state administration bodies and units of local and regional self-government.
 
@@ -1291,7 +1334,7 @@ NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
 Strengthening and coordinating the work of institutional gender mainstreaming mechanisms is one of the key preconditions for the more efficient implementation of policies at national and local levels. In order to further develop implementation methods, and in line with the process of developing gender awareness policies which take place at the EU level, the conducting of statistical and scientific analyses and surveys will be supported. Important activities in this area also include measures to improve gender mainstreaming in the media, with special emphasis on eliminating gender stereotypes and sexism from the media environment, the use of gender-sensitive language, and promoting gender equality policies and communicating them to the public.
 
-#### 7.1  Strengthen mechanisms for the implementation of gender equality at national and local levels and improve their coordinated action
+#### 7.1 Strengthen mechanisms for the implementation of gender equality at national and local levels and improve their coordinated action
 
 ##### 7.1.1 Training seminars for civil servants will be regularly held in order to more efficiently comply with gender mainstreaming rules and tasks, and a Guide will be drawn up on gender equality issues for personnel in state administration and local and regional self-government.
 
@@ -1311,7 +1354,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 67]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 ##### 7.1.3 County gender equality commissions in representative bodies will encourage the establishment of town and municipal gender equality commissions in their counties, keep records, cooperate with them, and regularly report to the Office for Gender Equality.
 
@@ -1321,11 +1364,11 @@ Timeframe for implementation: 2011 - 2015
 
 ##### 7.1.4 County gender equality commissions will encourage, in cooperation with the administrative bodies of units of local and regional self-government, civil society organisations concerned with the promotion and protection of human rights, research institutes, the media, and other interested entities, the affirmation of women in the local community, especially in political and public life, women entrepreneurship, education and culture, professional development, and will promote the health and social safety of women, and will act to prevent all forms of discrimination against them.
 
-##### 7.1.5 Action plans will be adopted for the implementation of the measures of the National Policy for Gender Equality 2011 - 2015 at the level of counties, and funds for their implementation will be secured.
-
 Competent authorities: County gender equality commissions.
 
 Timeframe for implementation: 2011 - 2015
+
+##### 7.1.5 Action plans will be adopted for the implementation of the measures of the National Policy for Gender Equality 2011 - 2015 at the level of counties, and funds for their implementation will be secured.
 
 Competent authorities: County assemblies, county gender equality commissions.
 
@@ -1344,7 +1387,7 @@ Timeframe for implementation: 2011 - 2015
 
 NATIONAL POLICY FOR GENDER EQUALITY 2011-2015
 
-#### 7.2  Combat gender stereotypes and introduce gender-sensitive policies in the media
+#### 7.2 Combat gender stereotypes and introduce gender-sensitive policies in the media
 
 ##### 7.2.1 Citizens will be informed of the obligations to introduce gender sensitive policies in all areas of social life, in line with the national legislation and EU standards.
 
@@ -1359,11 +1402,12 @@ Competent authorities: Croatian Radio and Television, the media, Office for Gend
 Timeframe for implementation: 2011 - 2015
 
 ##### 7.2.3 A survey will be conducted on the opinions of the staff of Croatian Radio and Television about the promotion of gender equality in programme contents.
+
 Competent authority: Croatian Radio and Television.
 
-##### 7.2.4 The  staff  who  create  media  contents  will  receive  training  on  gender equality.
-
 Timeframe for implementation: 2011
+
+##### 7.2.4 The staff who create media contents will receive training on gender equality.
 
 Competent authorities: Croatian Radio and Television, county gender equality commissions, in cooperation with civil society organisations.
 
@@ -1375,15 +1419,15 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 69]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 ##### 7.2.5 When keeping court statistics, a better view will be ensured of the number, type and outcome of court proceedings initiated on the grounds of gender discrimination in the media.
-
-##### 7.2.6 Media contents will be analysed to detect the frequency and types of gender stereotypes.
 
 Competent authority: Ministry of Justice.
 
 Timeframe for implementation: 2011 - 2015
+
+##### 7.2.6 Media contents will be analysed to detect the frequency and types of gender stereotypes.
 
 Competent authorities: County gender equality commissions, in cooperation with civil society organisations.
 
@@ -1395,7 +1439,7 @@ Competent  authorities:  Office  for  Gender  Equality,  county  gender  equalit
 
 Timeframe for implementation: 2012
 
-#### 7.3  Introduce gender budgeting and support the implementation of gender surveys and analyses
+#### 7.3 Introduce gender budgeting and support the implementation of gender surveys and analyses
 
 ##### 7.3.1 The methodological Handbook of the Council of Europe on the Implementation of Gender Budgeting to review public budgets according to their effect on gender mainstreaming will be translated, promoted and distributed.
 Competent authorities: Office for Gender Equality/Ministry of Finance, county gender equality commissions, in cooperation with civil society organisations.
@@ -1431,7 +1475,7 @@ Timeframe for implementation: 2011 - 2015
 
 [[START OF PAGE 71]]
 
-IV . STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
+IV. STRATEGIC FRAMEWORK FOR THE IMPLEMENTATION OF THE GENDER EQUALITY POLICY AND THE ACTION PLAN
 
 71
 
@@ -1459,7 +1503,10 @@ Class: 004-01/11-0106
 
 Zagreb, 15 July 2011
 
-THE CROATIAN PARLIAMENT Speaker of the Croatian Parliament Luka Bebić, m.p.
+THE CROATIAN PARLIAMENT
+Speaker of the
+Croatian Parliament
+Luka Bebić, m.p.
 
 73
 
@@ -1467,22 +1514,22 @@ THE CROATIAN PARLIAMENT Speaker of the Croatian Parliament Luka Bebić, m.p.
 
 [[START OF PAGE 74]]
 
-NOTES BILJEŠKE
+NOTES
 
-74 74
+74
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
 
-NOTES BILJEŠKE
+NOTES
 
-75 75
+75
 
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
+NOTES
 
-(this page came through the extractor with no text)
-
+76
 [[END OF PAGE 76]]
