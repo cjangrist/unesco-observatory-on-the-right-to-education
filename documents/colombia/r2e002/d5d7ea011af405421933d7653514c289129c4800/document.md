@@ -14,13 +14,11 @@ DIARIO OFICIAL. AÑO CXLVII. N. 48289. 20, DICIEMBRE, 2011. PÁG. 97.
 
 por el cual se reglamenta parcialmente la Ley 1257 de 2008, "por la cual se dictan normas de sensibilización, prevención y sanción de formas de violencia y discriminación contra las mujeres, se reforman los Códigos Penal, de Procedimiento Penal, la Ley 294 de 1996 y se dictan otras disposiciones
 
-E S TA D O   D E   V I G E N C I A :
+E S T A D O   D E   V I G E N C I A :
 
 [Mostrar]
 
-DECRETO REGLAMENTARIO
-
-Subtipo:
+Subtipo: DECRETO REGLAMENTARIO
 
 El Presidente de la República de Colombia, en ejercicio de sus facultades constitucionales y legales, en especial las conferidas por el artículo 189, numeral 11 de la Constitución Política,
 
@@ -61,21 +59,21 @@ Que  se  entiende  por  prevención,  protección  y  atención  las  acciones  
 ### Artículo 1°. De los Derechos Humanos de las niñas, adolescentes y las mujeres en el ámbito educativo.
 A partir de los principios de la Ley 1257 de 2008 consagrados en el artículo 6°, el Ministerio de Educación Nacional, las Entidades Territoriales y las instituciones educativas en el ámbito de sus competencias deberán:
 
-- Vincular a la comunidad educativa en la promoción, formación, prevención y protección de los Derechos Humanos de las mujeres para vivir una vida libre de violencias.
+1. Vincular a la comunidad educativa en la promoción, formación, prevención y protección de los Derechos Humanos de las mujeres para vivir una vida libre de violencias.
 
-- Generar ambientes educativos libres de violencias y discriminación, donde se reconozcan y valoren las capacidades de las mujeres, desde un enfoque diferencial.
+2. Generar ambientes educativos libres de violencias y discriminación, donde se reconozcan y valoren las capacidades de las mujeres, desde un enfoque diferencial.
 
-- Fomentar la independencia y libertad de las niñas, adolescentes y mujeres para tomar sus propias decisiones y para participar activamente en diferentes instancias educativas donde se adopten decisiones de su interés.
+3. Fomentar la independencia y libertad de las niñas, adolescentes y mujeres para tomar sus propias decisiones y para participar activamente en diferentes instancias educativas donde se adopten decisiones de su interés.
 
-- Garantizar el acceso a información suficiente y oportuna para hacer exigibles los derechos de las mujeres.
+4. Garantizar el acceso a información suficiente y oportuna para hacer exigibles los derechos de las mujeres.
 
-- Garantizar la formación, para el conocimiento y ejercicio de los Derechos Humanos sexuales y reproductivos.
+5. Garantizar la formación, para el conocimiento y ejercicio de los Derechos Humanos sexuales y reproductivos.
 
-- Orientar y acompañar a las niñas, adolescentes y jóvenes que han sido víctimas de violencia de género para la atención integral y el restablecimiento de sus derechos.
+6. Orientar y acompañar a las niñas, adolescentes y jóvenes que han sido víctimas de violencia de género para la atención integral y el restablecimiento de sus derechos.
 
-- Reconocer y desarrollar estrategias para la prevención, formación y protección de los derechos de las mujeres para vivir una vida libre de violencias, en el marco de la autonomía institucional.
+7. Reconocer y desarrollar estrategias para la prevención, formación y protección de los derechos de las mujeres para vivir una vida libre de violencias, en el marco de la autonomía institucional.
 
-- Coordinar acciones integrales intersectoriales con el fin de erradicar la violencia contra la mujer.
+8. Coordinar acciones integrales intersectoriales con el fin de erradicar la violencia contra la mujer.
 
 ### Artículo 2°. Proyectos  pedagógicos.
 A  través  de  los  proyectos  pedagógicos,  que  de  conformidad  con  la  Ley  115  de  1994,  deben implementar de manera obligatoria todas las instituciones educativas en los niveles de preescolar, básica y media se garantizará el proceso de formación de la comunidad educativa en el respeto de los derechos, libertades, autonomía e igualdad entre hombres y mujeres,  la  sensibilización  y  el  reconocimiento  de  la  existencia  de  discriminación  y  violencia  contra  las  mujeres,  toda  vez  que  los proyectos  permiten  la  participación  directa  de  la  comunidad  educativa  y  en  particular  de  estudiantes,  docentes,  directivos, administrativos y padres y madres de familia en la solución de problemáticas del contexto escolar.
@@ -85,9 +83,9 @@ Estos  proyectos  considerarán  las  particularidades  de  cada  institución  
 ### Artículo 3°.
 Corresponde al Ministerio de Educación Nacional, como ente rector de la política educativa:
 
-- Articular y armonizar las orientaciones y estrategias del sector, con el marco normativo nacional e internacional vigente en materia de violencias de género y con la Política Nacional de Equidad de Género para las mujeres, o la que haga sus veces.
+1. Articular y armonizar las orientaciones y estrategias del sector, con el marco normativo nacional e internacional vigente en materia de violencias de género y con la Política Nacional de Equidad de Género para las mujeres, o la que haga sus veces.
 
-- Definir los lineamientos y orientaciones pedagógicas, conceptuales y operativas de los proyectos pedagógicos, para el desarrollo de conocimientos,  habilidades,  capacidades,  actitudes  y  prácticas  en  los  integrantes  de  la  comunidad  educativa,  con  el  objeto  de promover la  igualdad,  libertad,  respeto  y  dignidad  y  el  ejercicio  de  los  Derechos  Humanos  para  superar  estereotipos,  prejuicios  y violencias asociadas al género, específicamente violencias contra la mujer.
+2. Definir los lineamientos y orientaciones pedagógicas, conceptuales y operativas de los proyectos pedagógicos, para el desarrollo de conocimientos, habilidades, capacidades, actitudes y prácticas en los integrantes de la comunidad educativa, con el objeto de promover la igualdad, libertad, respeto y dignidad y el ejercicio de los Derechos Humanos para superar estereotipos, prejuicios y violencias asociadas al género, específicamente violencias contra la mujer.
 
 www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1551021
 
@@ -116,25 +114,25 @@ Corresponde  a  las  entidades  territoriales certificadas en educación, como e
 
 2. Acompañar a las instituciones educativas, en el marco del plan de apoyo al mejoramiento, en la formulación e implementación de sus proyectos pedagógicos, incluida la revisión y la resignificación de los manuales de convivencia a la luz de lo definido en el artículo 1°  del  presente  decreto,  para  crear  ambientes  escolares  protectores  de  situaciones  de  violencia  contra  las  niñas,  adolescentes  y mujeres.
 
-- Brindar asistencia técnica a las instituciones educativas en la definición de los procedimientos y rutas que deben seguir frente a los casos de violencias basadas en género que se presenten en la comunidad educativa.
+3. Brindar asistencia técnica a las instituciones educativas en la definición de los procedimientos y rutas que deben seguir frente a los casos de violencias basadas en género que se presenten en la comunidad educativa.
 
-- Orientar a las instituciones educativas en el desarrollo de estrategias que involucren a educadores, padres y madres de familia, para denunciar las violencias basadas en el género, especialmente contra mujeres.
+4. Orientar a las instituciones educativas en el desarrollo de estrategias que involucren a educadores, padres y madres de familia, para denunciar las violencias basadas en el género, especialmente contra mujeres.
 
-- Garantizar a las niñas, adolescentes y mujeres que sean víctimas de cualquier forma de violencia, el acceso al servicio educativo en cualquier momento del año académico y la reubicación en otra institución educativa para aquellas que lo requieran.
+5. Garantizar a las niñas, adolescentes y mujeres que sean víctimas de cualquier forma de violencia, el acceso al servicio educativo en cualquier momento del año académico y la reubicación en otra institución educativa para aquellas que lo requieran.
 
-6.  Desarrollar  estrategias  para  garantizar  la  permanencia  en  el  servicio  educativo,  de  niñas,  adolescentes  y  mujeres  víctimas  de cualquier forma de violencia, considerando sus particularidades de etnia, raza, grupo etario, capacidades diversas, desplazamiento y ruralidad.
+6. Desarrollar estrategias para garantizar la permanencia en el servicio educativo, de niñas, adolescentes y mujeres víctimas de cualquier forma de violencia, considerando sus particularidades de etnia, raza, grupo etario, capacidades diversas, desplazamiento y ruralidad.
 
-- Consolidar  y  hacer  seguimiento  a  través  de  los  sistemas  de  información  que  disponga  el  Ministerio  de  Educación  Nacional,  el reporte de los casos de violencias basadas en género y específicamente de violencias contra las niñas, las adolescentes y las jóvenes que hayan sido identificados en las instituciones educativas, considerando las exigencias que para este tipo de registro de información establece la Ley 1266 de 2008.
+7. Consolidar y hacer seguimiento a través de los sistemas de información que disponga el Ministerio de Educación Nacional, el reporte de los casos de violencias basadas en género y específicamente de violencias contra las niñas, las adolescentes y las jóvenes que hayan sido identificados en las instituciones educativas, considerando las exigencias que para este tipo de registro de información establece la Ley 1266 de 2008.
 
 8. Orientar a las instituciones educativas en el diseño e implementación de estrategias de movilización y comunicación social en el nivel territorial para la difusión de la Ley 1257 del 2008, que incentiven la identificación y reporte de los casos de violencia, así como llevar el registro pertinente.
 
-9.  Difundir con las instituciones educativas, las estrategias del Ministerio de Educación Nacional y otras que se desarrollen a nivel regional  y  local,  para  incentivar  el  ingreso  de  las  niñas,  adolescentes  y  jóvenes  a  la  Educación  Superior,  sin  sesgos  de  género, facilitando información suficiente para la toma de decisiones ante la elección de carrera.
+9. Difundir con las instituciones educativas, las estrategias del Ministerio de Educación Nacional y otras que se desarrollen a nivel regional y local, para incentivar el ingreso de las niñas, adolescentes y jóvenes a la Educación Superior, sin sesgos de género, facilitando información suficiente para la toma de decisiones ante la elección de carrera.
 
-- Definir con las instancias sectoriales e intersectoriales de concertación estrategias de promoción de la equidad de género y el derecho de las mujeres a vivir una vida libre de violencias, que permitan dinamizar rutas de atención integral.
+10. Definir con las instancias sectoriales e intersectoriales de concertación estrategias de promoción de la equidad de género y el derecho de las mujeres a vivir una vida libre de violencias, que permitan dinamizar rutas de atención integral.
 
-- 11  Realizar  acciones  de  inspección  y  vigilancia  respecto  del  cumplimiento  de  las  obligaciones  estipuladas  para  las  instituciones educativas relacionados con la erradicación de la violencia contra las niñas, las adolescentes y las jóvenes.
+11 Realizar acciones de inspección y vigilancia respecto del cumplimiento de las obligaciones estipuladas para las instituciones educativas relacionados con la erradicación de la violencia contra las niñas, las adolescentes y las jóvenes.
 
-- Adelantar las acciones disciplinarias para aquellos educadores o administrativos involucrados en hechos de violencias de género, de conformidad con el Código Único Disciplinario sin perjuicio de las acciones penales a que haya lugar.
+12. Adelantar las acciones disciplinarias para aquellos educadores o administrativos involucrados en hechos de violencias de género, de conformidad con el Código Único Disciplinario sin perjuicio de las acciones penales a que haya lugar.
 
 www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1551021
 
@@ -153,28 +151,28 @@ DECRETO 4798 DE 2011
 ### Artículo 5°.
 Corresponde a las instituciones educativas de preescolar, básica y media, como instituciones prestadoras del servicio educativo:
 
-- Incluir en los proyectos pedagógicos el lema del derecho de las mujeres a vivir una vida libre de violencias.
+1. Incluir en los proyectos pedagógicos el lema del derecho de las mujeres a vivir una vida libre de violencias.
 
-- Revisar el manual de convivencia, a la luz de lo definido en el artículo 1° del presente decreto; para promover la equidad de género, crear ambientes escolares protectores de situaciones de violencia y eliminación de las violencias contra las niñas, las adolescentes y las jóvenes.
+2. Revisar el manual de convivencia, a la luz de lo definido en el artículo 1° del presente decreto; para promover la equidad de género, crear ambientes escolares protectores de situaciones de violencia y eliminación de las violencias contra las niñas, las adolescentes y las jóvenes.
 
-- Desarrollar  procesos  de  formación  docente  que  les  permita  a  las  y  los  educadores  generar  reflexiones  sobre  la  escuela  como escenario de reproducción de estereotipos y prejuicios basados en género, para transformarlos en sus prácticas educativas.
+3. Desarrollar procesos de formación docente que les permita a las y los educadores generar reflexiones sobre la escuela como escenario de reproducción de estereotipos y prejuicios basados en género, para transformarlos en sus prácticas educativas.
 
-- Difundir  con  los  y  las  estudiantes  que  cursan  los  grados  diez  y  once,  las  estrategias  del  sector  para  estimular  el  ingreso  a  la Educación Superior, sin distinción de género.
+4. Difundir con los y las estudiantes que cursan los grados diez y once, las estrategias del sector para estimular el ingreso a la Educación Superior, sin distinción de género.
 
-- Orientar  a  la  comunidad  educativa  sobre  el  contenido  de  la  Ley  1257  de  2008  y  sus  decretos  reglamentarios;  y  la  ruta  para  la atención y protección de los casos de violencias basadas en género, específicamente violencias contra las mujeres.
+5. Orientar a la comunidad educativa sobre el contenido de la Ley 1257 de 2008 y sus decretos reglamentarios; y la ruta para la atención y protección de los casos de violencias basadas en género, específicamente violencias contra las mujeres.
 
-- Reportar, a través del rector o director de la institución educativa, al ICBF, a la Comisaría de Familia, a la Fiscalía General, a la Secretaría de Educación o a la autoridad que corresponda, los casos de violencias de género identificados de conformidad con los artículos 44.9 de la Ley 1098 de 2006 y 11 y 12 de la Ley 1146 de 2001.
+6. Reportar, a través del rector o director de la institución educativa, al ICBF, a la Comisaría de Familia, a la Fiscalía General, a la Secretaría de Educación o a la autoridad que corresponda, los casos de violencias de género identificados de conformidad con los artículos 44.9 de la Ley 1098 de 2006 y 11 y 12 de la Ley 1146 de 2001.
 
-- Identificar y reportar a la Secretaría de Educación, a través del rector o director de la institución educativa, los casos de deserción escolar relacionados con cualquier forma de violencia contra las mujeres y hacer seguimiento a través de los sistemas de información que disponga el Ministerio.
+7. Identificar y reportar a la Secretaría de Educación, a través del rector o director de la institución educativa, los casos de deserción escolar relacionados con cualquier forma de violencia contra las mujeres y hacer seguimiento a través de los sistemas de información que disponga el Ministerio.
 
 ### Artículo 6°. De la educación superior.
 El Ministerio de Educación Nacional, promoverá, especialmente a través de los programas de fomento, que las instituciones de educación superior, en el marco de su autonomía:
 
-- Generen estrategias que contribuyan a sensibilizar y capacitar a la comunidad educativa, especialmente docentes y estudiantes, en la prevención de las violencias contra las mujeres.
+a) Generen estrategias que contribuyan a sensibilizar y capacitar a la comunidad educativa, especialmente docentes y estudiantes, en la prevención de las violencias contra las mujeres.
 
-- Incluyan  en  los  procesos  de  selección,  admisión  y  matrícula,  mecanismos  que  permitan  a  las  mujeres  víctimas  de  violencias, acceder a la oferta académica y a los incentivos para su permanencia.
+b) Incluyan en los procesos de selección, admisión y matrícula, mecanismos que permitan a las mujeres víctimas de violencias, acceder a la oferta académica y a los incentivos para su permanencia.
 
-- Adelanten a través de sus centros de investigación, líneas de investigación sobre género y violencias contra las mujeres.
+c) Adelanten a través de sus centros de investigación, líneas de investigación sobre género y violencias contra las mujeres.
 
 ### Artículo 7°.
 El presente decreto rige a partir de su publicación y deroga las disposiciones que le sean contrarias.
