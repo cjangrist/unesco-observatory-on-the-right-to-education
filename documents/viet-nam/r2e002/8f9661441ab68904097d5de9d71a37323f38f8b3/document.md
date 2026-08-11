@@ -10,11 +10,11 @@ Independence - Freedom- Happiness
 
 NATIONAL ASSEMBLY of the Socialist Republic of Vietnam
 
-10 th Session of the XI Legislature (From 17 October to 29 November 2006)
+10th Session of the XI Legislature (From 17 October to 29 November 2006)
 
 # LAW ON GENDER EQUALITY
 
-Pursuant to the 1992 Constitution of the Socialist Republic of Vietnam amended and supplemented according to the Resolution No. 51/2001/QH10 dated 25 th December 2001 of the 10 th Session of the X Legislature of the National Assembly.
+Pursuant to the 1992 Constitution of the Socialist Republic of Vietnam amended and supplemented according to the Resolution No. 51/2001/QH10 dated 25th December 2001 of the 10th Session of the X Legislature of the National Assembly.
 
 This Law provides for gender equality.
 
@@ -154,7 +154,7 @@ In this Law, the terms below can be understood as follows:
 
 - Man and woman are equal in participating in the formulation and implementation of village covenants, community regulations, agency and organization regulations.
 
-- Man  and  woman  are  equal  in  self-nominating  as  candidates  or  in  nominating candidates to the National Assembly, People's Council; and are equal in self-nominating as candidates and in nominating candidates to leading bodies of political organizations, sociopolitical  organizations,  socio-political  and  professional  organizations,  social  organizations, social and professional organizations.
+- Man  and  woman  are  equal  in  self-nominating  as  candidates  or  in  nominating candidates to the National Assembly, People's Council; and are equal in self-nominating as candidates and in nominating candidates to leading bodies of political organizations, socio-political  organizations,  socio-political  and  professional  organizations,  social  organizations, social and professional organizations.
 
 - Man and woman are equal in term of professional qualifications and age when they are  promoted  or  appointed  to  the  same  management  and  leader  posts  in  agencies  and organizations.
 
@@ -436,7 +436,7 @@ Within  the  scope  of  their  duties  and  authorities,  ministries  and  minis
 
 - To implement the social criticism to policies and law on gender equality.
 
-#### Article  31:  Responsibilities  of  state  agencies,  political  organizations,  sociopolitical organizations in implementation of gender equality within their own agencies and organizations
+#### Article  31:  Responsibilities  of  state  agencies,  political  organizations,  socio-political organizations in implementation of gender equality within their own agencies and organizations
 
 10
 
@@ -572,7 +572,7 @@ Every behavior that violates the law on gender equality must be timely detected 
 
 ##### 1. Violations of the law on gender equality in the field of politics include:
 
-- To hinder men or women from self-nominating, being nominated as candidates to the National Assembly, People's Council, to leading bodies of political organizations, sociopolitical  organizations,  socio-political  and  professional  organizations,  social  organizations, social and professional organizations because of gender bias;
+- To hinder men or women from self-nominating, being nominated as candidates to the National Assembly, People's Council, to leading bodies of political organizations, socio-political  organizations,  socio-political  and  professional  organizations,  social  organizations, social and professional organizations because of gender bias;
 
 - Not  to  carry  out  or  to  hinder  the  appointment  of  men  and  women  to  posts  of managers, leaders or professional titles because of gender bias;
 
@@ -664,7 +664,7 @@ This Law comes into force from 01 July 2007.
 
 The Government stipulates detailed regulations and gives guidance on the implementation of this law.
 
-> This Law was adopted at the 10 th session, XI Legislature of the National Assembly of the Socialist Republic of Vietnam on 29 th December 2006.
+> This Law was adopted at the 10th session, XI Legislature of the National Assembly of the Socialist Republic of Vietnam on 29th December 2006.
 
 Chairman of the National Assembly
 
