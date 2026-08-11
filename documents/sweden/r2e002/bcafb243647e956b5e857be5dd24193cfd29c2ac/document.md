@@ -16,7 +16,7 @@ In accordance with a decision 1 by the Riksdag 2 , the following is enacted.
 
 The purpose of this Act is to promote equal rights for children and school students and to combat discrimination on grounds of sex, ethnic origin, religion or other belief, sexual orientation or disability. This Act also has the purpose of combating other degrading treatment.
 
-This Act is applicable to education and other activities referred to in the Education Act ( 1985 : 1100 ).
+This Act is applicable to education and other activities referred to in the Education Act (1985:1100).
 
 ## Definitions
 
@@ -24,7 +24,7 @@ This Act is applicable to education and other activities referred to in the Educ
 
 In this Act the following terms have the meaning set out in this section.
 
-school student: a person being educated or applying for an education under the Education Act ( 1985 : 1100 ),
+school student: a person being educated or applying for an education under the Education Act (1985:1100),
 
 child: a person taking part in or applying to a pre-school activity or school-age child care under the Education Act,
 
@@ -34,16 +34,18 @@ ethnic origin: the condition of belonging to a group of persons who have the sam
 
 sexual orientation: homosexual, bisexual or heterosexual orientation,
 
-disability: permanent physical, mental or intellectual limitations of a person's functional capacity that, as a consequence of injury or illness, existed at birth, have arisen since then or may be expected to arise, harassment: conduct that degrades a child's or school student's dignity and that 1 . is related to
+disability: permanent physical, mental or intellectual limitations of a person’s functional capacity that, as a consequence of injury or illness, existed at birth, have arisen since then or may be expected to arise,
 
-> 1 Government Bill 2005 / 06 : 38 , Committee Report 2005 / 06 :UbU 4 , Riksdag Communication 2005 / 06 : 149. 2 Compare Council Directive 2000 / 43 /EC of 29 June 2000 implementing the principle of equal treatment between persons irrespective of racial or ethnic origin (OJ L 180 , 19 . 7 . 2000 , p. 22 , Celex 32000 L 0043 ), Council Directive 2000 / 78 /EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation (OJ L 303 , 2 . 12 . 2000 , p. 16 , Celex 32000 L 0078 ) and Directive 2002 / 73 /EC of the European Parliament and of the Council 23 September 2002 amending Council Directive 76 / 207 /EEC on the implementation of the principle of equal treatment for men and women as regards access to employment, vocational training and promotion, and working conditions, OJ L 269 , 5 . 10 . 2002 , p. 15 (Celex 32002 L 0073 ).
+> 1 Government Bill 2005/06:38, Committee Report 2005/06:UbU4, Riksdag Communication 2005/06:149. 2 Compare Council Directive 2000/43/EC of 29 June 2000 implementing the principle of equal treatment between persons irrespective of racial or ethnic origin (OJ L 180, 19.7.2000, p. 22, Celex 32000L0043), Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation (OJ L 303, 2.12.2000, p. 16, Celex 32000L0078) and Directive 2002/73/EC of the European Parliament and of the Council 23 September 2002 amending Council Directive 76/207/EEC on the implementation of the principle of equal treatment for men and women as regards access to employment, vocational training and promotion, and working conditions, OJ L 269, 5.10.2002, p. 15 (Celex 32002L0073).
 
-
+
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
+harassment: conduct that degrades a child’s or school student’s dignity and that
+1. is related to
 - ethnic origin (ethnic harassment)
 
 - religion or other belief (harassment on grounds of religion or other belief)
@@ -54,7 +56,7 @@ disability: permanent physical, mental or intellectual limitations of a person's
 
 - sex (harassment on grounds of sex) or
 
-- 2 . is of a sexual nature (sexual harassment),
+2. is of a sexual nature (sexual harassment),
 
 other degrading treatment: conduct that otherwise degrades a child's or school student's dignity.
 
@@ -76,7 +78,7 @@ Terms in an agreement that restrict duties under this Act have no legal force.
 
 #### Section 5
 
-The organiser of the activity shall ensure that it is conducted in a goal-oriented manner in order to promote the purposes specified in Section 1, first paragraph. Special provisions on this are set out in Sections 6 -8 .
+The organiser of the activity shall ensure that it is conducted in a goal-oriented manner in order to promote the purposes specified in Section 1, first paragraph. Special provisions on this are set out in Sections 6–8.
 
 ### Equal treatment plan
 
@@ -84,7 +86,7 @@ The organiser of the activity shall ensure that it is conducted in a goal-orient
 
 The organiser of the activity or the person designated by the organiser shall ensure that there is an equal treatment plan for each individual activity. The plan shall aim to promote the equal rights of children and school students irrespective of sex, ethnic or national origin, religion or other belief, sexual orientation or disability and to prevent and hinder harassment and other degrading treatment. The plan shall set out the measures planned. The plan shall be followed up and reviewed each year.
 
-
+
 
 [[END OF PAGE 2]]
 
@@ -116,7 +118,7 @@ The organiser of the activity, the head teacher or some other person with a corr
 
 The organiser of the activity, the head teacher or some other person with a corresponding management function or some other staff member must not disadvantage a child or a school student by the application of a provision, a criterion or a procedure that is apparently neutral but that in practice particularly disadvantages children or pupils of a particular sex, ethnic origin, religion or other belief, sexual orientation or disability. This does not apply, however, if the provision, criterion or procedure can be motivated by a legitimate aim and the means are appropriate and necessary to achieve the aim.
 
-
+
 
 [[END OF PAGE 3]]
 
@@ -132,7 +134,7 @@ The organiser of the activity, the head teacher or some other person with a corr
 
 #### Section 12
 
-The organiser of the activity, the head teacher or some other person with a corresponding management function or another staff member must not give orders or instructions to discriminate against a child or a school student in his or her activity under Sections 9 -11 .
+The organiser of the activity, the head teacher or some other person with a corresponding management function or another staff member must not give orders or instructions to discriminate against a child or a school student in his or her activity under Sections 9–11.
 
 ## Prohibition of other degrading treatment
 
@@ -154,7 +156,7 @@ If the organiser of the activity, the head teacher or some other person with a c
 
 If there are special reasons, the damages for degrading treatment can be reduced or cancelled.
 
-
+
 
 [[END OF PAGE 4]]
 
@@ -180,13 +182,13 @@ In such cases it may, however, be ordered that each party shall bear its litigat
 
 ### Section 18
 
-If a child or a school student who considers that he or she has been discriminated against under Sections 9 -12 , subjected to other degrading treatment under Section 13 or subjected to reprisals under Section 14 presents circumstances that give grounds to presume that he or she has been discriminated, subjected to other degrading treatment or subjected to reprisals, the organiser of the activity shall show that the discrimination, other degrading treatment or reprisals have not taken place.
+If a child or a school student who considers that he or she has been discriminated against under Sections 9–12, subjected to other degrading treatment under Section 13 or subjected to reprisals under Section 14 presents circumstances that give grounds to presume that he or she has been discriminated, subjected to other degrading treatment or subjected to reprisals, the organiser of the activity shall show that the discrimination, other degrading treatment or reprisals have not taken place.
 
 ### Section 19
 
 If a child or school student shows that he or she has been subjected to harassment or other degrading treatment by another child or school student in connection with the conduct of the activity, then, in order to escape liability for damages, the organiser shall show that every reasonable measure had been taken to prevent or hinder such treatment.
 
-
+
 
 [[END OF PAGE 5]]
 
@@ -206,13 +208,13 @@ The provisions of the Swedish Code of Judicial Procedure concerning parties with
 
 ### Section 21
 
-Legal proceedings in a case on damages under Section 9 , 10 , 12 or 14 shall be initiated within two years from the date of the action complained about or from the last date on which a duty should have been fulfilled. Otherwise the right to initiate legal proceedings is forfeited.
+Legal proceedings in a case on damages under Section 9, 10, 12 or 14 shall be initiated within two years from the date of the action complained about or from the last date on which a duty should have been fulfilled. Otherwise the right to initiate legal proceedings is forfeited.
 
 ### Section 22
 
 An action brought by the Equal Opportunities Ombudsman, the Ombudsman against Ethnic Discrimination, the Ombudsman against Discrimination because of Sexual Orientation, the Disability Ombudsman or the National Agency for Education is treated as if it had been brought by the child or school student himself or herself.
 
-## (Transitional provisions) 2006 : 67
+## (Transitional provisions) 2006:67
 
 This Act enters into force on 1 April 2006 and is applicable to cases of damage that take place after its entry into force.
 
@@ -220,9 +222,11 @@ On behalf of the Government
 
 BOSSE RINGHOLM
 
-IBRAHIM BAYLAN (Ministry of Education, Research and Culture)
+IBRAHIM BAYLAN
 
-
+(Ministry of Education, Research and Culture)
+
+
 
 [[END OF PAGE 6]]
 
@@ -233,6 +237,12 @@ Article number: U06.028 Printed by: Grafisk Service, May 2006 Additional copies 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+REGERINGSKANSLIET
+
+Ministry of Education,
+Research and Culture
+Sweden
 
 www.sweden.gov.se
 
