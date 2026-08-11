@@ -12,11 +12,28 @@ Amtsblatt des  Großherzogtums Luxemburg
 
 RECUEIL  DE  LEGISLATION
 
-# S O M M A I R E
-
-A  N°  41
+A  N° 41
 
 28 mai 1979
+
+# S O M M A I R E
+
+Loi du 21 mai 1979 portant
+1. organisation de la formation professionnelle et de l´enseignement
+   secondaire technique
+2. organisation de la formation professionnelle continue ...... page 850
+
+Chapitre Ier.  De la formation professionnelle et de l´enseignement secondaire technique (Art. 1er – 21) ........................ 850
+A. La finalité et la structuration générale (Art. 1er – 2) ..... 850
+B. Le cycle d´observation et d´orientation (Art. 3 – 4) ..... 850
+C. Le cycle moyen (Art. 5 – 17) ........................ 851
+D. Le cycle supérieur (Art. 18 – 21) .................... 854
+Chapitre II.  De la formation professionnelle continue (Art. 22 – 27) .... 855
+Chapitre III.  Du personnel (Art. 28 – 37) ............................ 856
+Chapitre IV.  Des dispositions générales (Art. 38 – 43) ............... 860
+Chapitre V.  Des dispositions transitoires (Art. 44 – 48) ............... 860
+
+Loi du 21 mai 1979 portant création d´un institut supérieur de technologie 863
 
 [[END OF PAGE 1]]
 
@@ -220,7 +237,7 @@ Sans préjudice  des compétences  des chambres  professionnelles,  le Commissai
 
 Le Commissaire  du  Gouvernement  à  la formation  professionnelle  et son adjoint  sont  nommés  par le Grand-Duc.
 
-La répartition   des  tâches entre  le commissaire  du  Gouvernement  à  la formation  professionnelle  et le commissaire  du  Gouvernement  à la formation  professionnelle  adjoint  se fait  par  règlement  grandducal.
+La répartition des tâches entre le commissaire du Gouvernement à la formation professionnelle et le commissaire du Gouvernement à la formation professionnelle adjoint se fait par règlement grand-ducal.
 
 [[END OF PAGE 5]]
 
@@ -340,7 +357,7 @@ Il  fait  au  Ministre  de l´Education  Nationale  les  propositions  qu´il  j
 
 856
 
-II propose au ministre de l´Education  nationale  les conventions avec les institutions luxembourgeoises ou étrangères  nécessaires pour atteindre  les objectifs  de la  formation  continue.
+Il propose au ministre de l´Education nationale les conventions avec les institutions luxembourgeoises ou étrangères nécessaires pour atteindre les objectifs de la formation continue.
 
 #### Art. 27.
 Le ministre de  l´Education  nationale  détache aux  centres  le personnel  administratif, technique et  auxiliaire   nécessaire,  à  plein  temps ou  à temps  partiel,  suivant  les besoins.
@@ -485,7 +502,7 @@ A tous les lycées techniques,  en cas de besoin, des professeurs  peuvent  êtr
 Pour  les  besoins  de  l´organisation hiérarchique  et  de  la  direction  pédagogique, un  lycée technique  peut être  rattaché à  un autre.  Dans ce cas, un directeur  adjoint  y est nommé.  Il est  le chef du personnel et l´administrateur  responsable du lycée technique.  Il exerce ses fonctions sous l´autorité du directeur  auquel  est  rattaché  le  lycée technique. Il  sera  déchargé  de  tout  ou  partie  de sa  tâche d´enseignement.
 
 #### Art.  35.
-Les  enseignants  d´un  lycée  technique  se  réunissent  soit  en  conférence  spéciale,  soit  en conférence  plénière,  chaque  fois  que  les  besoins du  lycée technique l´exigent.  Un  règlement  grandducal  définit  les délais et  les modes de convocation,  les attributions,   la  composition,  les modalités  de vote et  la composition du  bureau de la conférence.
+Les enseignants d´un lycée technique se réunissent soit en conférence spéciale, soit en conférence plénière, chaque fois que les besoins du lycée technique l´exigent. Un règlement grand-ducal définit les délais et les modes de convocation, les attributions, la composition, les modalités de vote et la composition du bureau de la conférence.
 
 #### Art. 36.
 La  fonction  de  commissaire  du  Gouvernement  à  la formation professionnelle  est classée au grade  15,  celle  de  commissaire  du  Gouvernement  à  la formation  professionnelle  adjoint  au  grade 14 du  tableau I « Administration  générale »  de l´annexe A de la loi modifiée du  22 juin  1963 fixant   le régime des traitements  des fonctionnaires  de l´Etat.
@@ -608,7 +625,7 @@ Les  fonctionnaires actuellement en  service  aux  établissements  d´enseignem
 
 - avoir  accompli dix  années de service  à partir  de leur  nomination  aux fonctions de professeur de sciences économiques;
 
-- avoir  subi avec  succès,  dans les quatre  ans qui  suivent  la  mise en vigueur  de la  présente  loi, une épreuve scientifique complémentaire, dont  les modalités sont fixées  par règlement grandducal.
+- avoir subi avec succès, dans les quatre ans qui suivent la mise en vigueur de la présente loi, une épreuve scientifique complémentaire, dont les modalités sont fixées par règlement grand-ducal.
 
 - Les instituteurs d´enseignement technique et professionnel, les instituteurs   d´enseignement moyen et les institutrices d´enseignement  ménager agricole actuellement en service peuvent être nommés aux  fonctions  de  professeur   d´enseignement  technique  s´ils  remplissent  l´une  des  conditions suivantes:
 
@@ -716,9 +733,9 @@ Des règlements   grand-ducaux, pris sur avis  du Conseil d´Etat,  peuvent  cr�
 Des règlements  grand-ducaux,  pris sur avis  du Conseil  d´Etat,  peuvent  créer dans le cadre de  l´institut  un centre  de documentation  scientifique et  technique,  ainsi  que  des  laboratoires de  recherche  et d´essais.  Ils  fixent  l´organisation  et le fonctionnement du  centre  et  des  laboratoires,  ainsi que les modalités  de collaboration   avec les institutions et entreprises concernées, publiques et privées.
 
 ### Art.  4.
-Les  études  et  la  formation à  l´institut  s´étendent sur  une  durée  de  trois  ans.  Elles  sont sanctionnées par un examen dont les modalités et le programme  sont déterminés par règlement  grandducal.
+Les études et la formation à l´institut s´étendent sur une durée de trois ans. Elles sont sanctionnées par un examen dont les modalités et le programme sont déterminés par règlement grand-ducal.
 
-Le titre  décerné  est celui  d´ingénieur technicien.  Ce titre  peut être modifié par  règlement  grandducal.
+Le titre décerné est celui d´ingénieur technicien. Ce titre peut être modifié par règlement grand-ducal.
 
 ### Art. 5.
 Sont  admis en première année  de l´institut  les détenteurs   du diplôme  de fin d´études secondaires techniques.
@@ -772,9 +789,7 @@ Le  personnel   de l´institut  comprend:
 
  des  professeurs-ingénieurs  diplômés  et des professeurs-architectes  diplômés,
 
- des professeurs-docteurs ou  professeurs  titulaires d´un titre  ou grade étranger  homologué en lettres  ou en sciences, détenteurs  du certificat  d´aptitude aux fonctions de professeur  de l´en-
-
-- seignement supérieur et secondaire,
+ des professeurs-docteurs ou professeurs titulaires d´un titre ou grade étranger homologué en lettres ou en sciences, détenteurs du certificat d´aptitude aux fonctions de professeur de l´enseignement supérieur et secondaire,
 
  un  professeur  de doctrine chrétienne,
 
@@ -946,6 +961,6 @@ Emile  Krieps
 
 Doc. parl.  n°  2270, sess.  ord.  1978-1979
 
-Imprimerie  de  la  Cour  Victor  Buck, s.  à   r. I.,  Luxembourg
+Imprimerie de la Cour Victor Buck, s. à r. l., Luxembourg
 
 [[END OF PAGE 19]]
