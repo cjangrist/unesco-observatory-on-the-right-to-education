@@ -26,7 +26,7 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as avaluable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 1
 
@@ -34,7 +34,9 @@ Beyond SDG 4, the Convention is also closely aligned with the normative content 
 
 [[START OF PAGE 2]]
 
-In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds  on  the Report  from  the  International  Commission  on  the  Futures  of Education 2 , which suggeststo broaden our understanding of the right to education to clearly apply it  to  all  ages  and  across  all  times  and  spaces.  The  initiative  is  also  in-line  withthe Vision Statement  of  the  United  Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the2022  Transforming  Education  Summit 4 which  call  for  the  transformation  of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative  on  the  Evolving  Right  to  Education  aims  to  open  a  collaborative  and  participatory discussion  about  the  international  framework  to  ensure  the  effective  enforcement  of  the  right  to education  and  learning throughout  life for all. Finally, the Initiative builds on  recentintergovernmental  dialogues,  including  the  Marrakech  Framework  for  Action  for  Adult  Learning  and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggeststo broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line withthe Vision Statement of the United Nations Secretary General on Transforming Education 3 , and the Report on the2022 Transforming Education Summit 4 which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recentintergovernmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include  various areas that  have  direct  repercussions  on  the  right  to  education  such  as,  for  instance,  digital  learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -48,15 +50,13 @@ The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  C
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
-> 3 https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_education.pdf
-
 > 2 https://unesdoc.unesco.org/ark:/48223/pf0000379707
+
+> 3 https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_education.pdf
 
 > 4 https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf
 
-Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
-
-5
+> 5 Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
 
 > 6 Tashkent-declaration-ecce-2022.pdf (unesco.org)
 
@@ -90,9 +90,9 @@ The Guidelines are structured around three chapters:
 
 > 7 http://www.unesco.org/education/edurights/index.php?action=home&lng=en
 
-> 9 UIS Statistics (unesco.org)
-
 > 8 https://en.unesco.org/education/girls-women-rights
+
+> 9 UIS Statistics (unesco.org)
 
 [[END OF PAGE 3]]
 
@@ -100,9 +100,9 @@ The Guidelines are structured around three chapters:
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States  in  the  preparation  of  responses,  through  a  participatory  process, two  types  of guidance are provided:
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses  to  the  open-ended  questions  (including  remarks  on  how  to  respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -118,7 +118,7 @@ Name of contact person:Nidalhasan
 
 Email and telephone number of contact person:7110846@gmail.com
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -168,7 +168,7 @@ Yes: Have the provisions of the Convention been invoked?
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
 
@@ -190,11 +190,11 @@ It  further  corresponds  to  the  overall  aspiration  of  SDG4  which  aims  t
 
 For reference: This notably is covered under SDG target 4.1 and partly target 4.b 14
 
-> 12 Which  calls  on  states  to  'eliminate  gender  disparities  in  education  and  ensure  equal  access  to  all  levels  of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
-
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
+> 12 Which calls on states to 'eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
 
 > 13 See: Article/Paragraph 1(1).
+
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 [[END OF PAGE 6]]
 
@@ -282,11 +282,11 @@ In higher education
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-> 16 Teachers  are  prepared  to  teach  all  student  (beyond  just  students  with  disabilities),  equipping  them  with knowledge,  values  and  attitudes  that  permit  every  student  to  succeed.  See:  UNESCO  policy  paper:  Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive  and  supportive  learning  experience  that  offers  them  the  opportunity  to  succeed  whatever  their background.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  competencies  acquired  through  nonformal  and  informal  education'  (Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
 [[END OF PAGE 8]]
 
@@ -312,7 +312,7 @@ In higher education
 
  Other:
 
-- All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
+All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
 √ Re-entry programmes for young mothers are provided for
 
@@ -330,9 +330,9 @@ In higher education
 
 > 19 ' Stigmatisation isthe act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
-
 > 20 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+
+> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
 [[END OF PAGE 9]]
 
@@ -410,11 +410,11 @@ bias
 
 [[START OF PAGE 11]]
 
-##### Indigenous people:
-
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
+
+##### Indigenous people:
 
 √ Legislation provides for the right to education ofindigenous people
 
@@ -450,9 +450,9 @@ bias
 
 > 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
-> 25 Supra note 16.
-
 > 24 Supra note 15.
+
+> 25 Supra note 16.
 
 > 26 Supra note 15.
 
@@ -508,11 +508,11 @@ bias
 
 No
 
-> 28 'Trapped  populations  are  those  who  are  unable  to  migrate  to  safe  locations  and  remain  trapped  in  locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
+> 28 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
+
+> 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
 > 30 Supra note 15.
-
-> 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See:  UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
 > 31 Supra note 13
 
@@ -566,10 +566,6 @@ No
 
 [[START OF PAGE 14]]
 
-35
-
-36
-
 ##### Students from poor households:
 
 √ Financial incentives and fellowships for school enrolment are provided
@@ -588,7 +584,7 @@ Positive or affirmative action measures are provided
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
@@ -598,15 +594,15 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 √ Prior to pre-primary education, ECCE services
 
-> Supra note 15.
+√ ECCE services respect a child's need for early
 
-> Supra note 16.
+> 35 Supra note 15.
 
-> 38 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
+> 36 Supra note 16.
 
 > 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
-√ ECCE services respect a child's need for early
+> 38 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
 
 [[END OF PAGE 14]]
 
@@ -616,9 +612,9 @@ are free
 
 √ Prior to pre-primary education, ECCE services are affordable
 
-cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+√ ECCE services are accessible on a non-discriminatory basis
 
-√ ECCE services are accessible on a non- discriminatory basis
+cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -748,11 +744,13 @@ duration :3 years
 
 - Please  indicate  whether  the  legal  minimum  age  for  employment  is  aligned  with  the  end  of compulsory education:
 
-For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and  therefore  not  completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment,  once  the  child  has  completed  compulsory  education,  the  door  is  open  to  child exploitation and the violation of labour laws.
+For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
 √ Yeso No
 
@@ -792,7 +790,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 [[START OF PAGE 19]]
 
- Higher education is free of charge
+√ Higher education is free of charge
 
  Higher  education  is  accessible  on  the  basis  of  individual  capacity  (as  assessed  by  reference  to relevant qualifications and experience)
 
@@ -802,7 +800,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
  Higher education is accessible through credit transfer system between states
 
- Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition,  validation,  and  accreditation  of  knowledge  and  skills  acquired  through  non-formal and informal education).
+√ Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
  Other:
 
@@ -816,11 +814,11 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
  Poor quality programmes
 
- Poor learning outcomes
+√ Poor learning outcomes
 
  Other:
 
- Low number of professionally trained professors
+√ Low number of professionally trained professors
 
  Insufficient mechanisms to ensure smooth transition from secondary to tertiary
 
@@ -928,11 +926,11 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
- State monitoring and inspections
+√ State monitoring and inspections
 
- Health and sanitation
+√ Health and sanitation
 
- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
+√ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
  Infrastructure
 
@@ -950,7 +948,7 @@ You may include information on policies, protocols or codes of conduct.
 
 - What challenges were encountered in realizing quality education?
 
- Non-supportive or inadequate learning environments
+√ Non-supportive or inadequate learning environments
 
  Violence in schools
 
@@ -960,7 +958,7 @@ You may include information on policies, protocols or codes of conduct.
 
  Other:
 
- Low quality educational infrastructure and materials
+√ Low quality educational infrastructure and materials
 
  Inadequate parental support to education
 
@@ -992,7 +990,7 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
  Establishment of performance monitoring systems.
 
- Measures taken to increase women in leadership positions in education.
+√ Measures taken to increase women in leadership positions in education.
 
  Other:
 
@@ -1000,11 +998,11 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - What challenges were encountered in the education personnel?
 
- Shortages of teaching staff
+√ Shortages of teaching staff
 
- Lack of qualified, trained and motivated teaching staff
+√ Lack of qualified, trained and motivated teaching staff
 
- Lack of training centres
+√ Lack of training centres
 
  Other:
 
@@ -1024,7 +1022,7 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 - Please  indicate  the  national  efforts  taken  in  directing  education  to  the  full  development  of  the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
- Curriculum includes human rights education.
+√ Curriculum includes human rights education.
 
  Educational and/or extracurricular activities are organized on human rights education.
 
@@ -1038,15 +1036,15 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the  Convention/Recommend
 
 - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked):
 
- Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43 explicitly apply to non-state educational institutions. Please specify:
+√ Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43 explicitly apply to non-state educational institutions. Please specify:
 
- Policies  aim  to  guarantee  that  the  development  of  non-state  education  does  not  generate discrimination  and  that  non-state  actors  offer  a  relevant  alternative  (without  supplanting  public education). Please specify:
+√ Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:
 
-> 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human  rights,  gender  equality,  promotion  of  a  culture  of  peace  and  non-violence,  global  citizenship  and appreciation of cultural diversity and of culture's contribution to sustainable development'.
-
-> 43 See: Article/Paragraph 1(1).
+> 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
 > 42 Private, faith-based, NGOs, community actors.
+
+> 43 See: Article/Paragraph 1(1).
 
 [[END OF PAGE 24]]
 
@@ -1056,25 +1054,25 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the  Convention/Recommend
 
  Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
- Registration
+√ Registration
 
- State monitoring and inspections
+√ State monitoring and inspections
 
- Qualifications of teachers
+√ Qualifications of teachers
 
- Health and sanitation
+√ Health and sanitation
 
- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+√ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
 
- Infrastructure
+√ Infrastructure
 
- Curriculum
+√ Curriculum
 
- Student-teacher ratio
+√ Student-teacher ratio
 
- School fees
+√ School fees
 
- School closures
+√ School closures
 
  Other
 
@@ -1082,7 +1080,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the  Convention/Recommend
 
 - What challenges were encountered in non-state education provision?
 
- Low quality educational infrastructure and materials
+√ Low quality educational infrastructure and materials
 
  Low number of professionally trained teachers
 
@@ -1114,7 +1112,7 @@ Please indicate the relevant text and provisions:
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures  to  remove  barriers  to  accessing  digital  content 45 , including ensuring access  to curriculum-aligned  digital  content  available  on  free,  public,  multi-modal  national  platforms;  high- quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures  to  remove  barriers  to  accessing  digital  content 45 , including ensuring access  to curriculum-aligned  digital  content  available  on  free,  public,  multi-modal  national  platforms;  high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital  skills  incorporated  into  pre-  and  in-service  teacher  and  leadership  training  curricula  to create  a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables ongoing professional development for existing and emerging staff.
 
@@ -1122,11 +1120,11 @@ Please indicate the relevant text and provisions:
 
  Measures address the digital  divide,  including  ensuring  access  to  reliable  electricity,  meaningful internet  connectivity  at  school  and  at  home,  devices  suitable  for  learning  and  teaching,  safe  and sustainable software and secure platforms, and integrated education data systems.
 
- A well-established, sustainable, and cost-effective budget secured from a range offunding sources and  intersectoralcooperation,  supported  by  impact  focusedreporting  linked  to  regional  strategic goals.
+ A well-established, sustainable, and cost-effective budget secured from a range of funding sources and  intersectoral cooperation,  supported  by  impact  focused reporting  linked  to  regional  strategic goals.
 
 - Please elaborate on each of the measures taken:
 
-> 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
+> 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment.
 
 > 45 Lack of internet connection, basic infrastructure or devices.
 
@@ -1140,7 +1138,7 @@ Please indicate the relevant text and provisions:
 
  Lack of equity and inclusion in digital learning solutions
 
- inadequate safety measures and IT support to respond to issues of child online safety or reducecyber security risks
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
  Other:
 
@@ -1160,7 +1158,7 @@ Please indicate the relevant text and provisions:
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms;  quality assurance; management  information  systems; transparent and effective financing procedures and mechanisms;  and  institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and accessible data are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms;  quality assurance; management  information  systems; transparent and effective financing procedures and mechanisms;  and  institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1192,13 +1190,13 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- Poor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
