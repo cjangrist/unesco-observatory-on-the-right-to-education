@@ -14,20 +14,22 @@ Que se hace necesario conformar y fortalecer un sistema educativo que sea válid
 ## CONSIDERANDO:
 Que el ser humano guatemalteco debe consolidar una sociedad justa que coadyuve en la formación de niveles de vida donde impere la igualdad, la justicia social, y la auténtica libertad que permita la consecución del bien común;
 ## CONSIDERANDO:
-Que el sistema democrático requiere que la educación nacional extienda progresivamente los servicios educativos empleando con probidad todos los recursos humanos y económicos y efectuando una edecuada distribución de los ingresos ordinarios del Presupuesto General del Estado para la educación a fin de ofrecer iguales oportunidades de los habitantes del país;
+Que el sistema democrático requiere que la educación nacional extienda progresivamente los servicios educativos empleando con probidad todos los recursos humanos y económicos y efectuando una adecuada distribución de los ingresos ordinarios del Presupuesto General del Estado para la educación a fin de ofrecer iguales oportunidades de los habitantes del país;
 ## CONSIDERANDO:
 Que la educación debe ayudar y orientar al educando para conservar y utilizar nuestros valores, fortaleciendo la identidad nacional, promoviendo la integración centroamericana y propiciar el ideal latinoamericano;
 ## CONSIDERANDO:
-Que la Ley de Educación Básica Nacional vigente no responde en forma general a las necesidades e intereses actuales de la sociedad guatemalteca, ni es congruente con los principios constitucionales, por lo que se hace necesario la emisión de una nueva Ley de Educación que corresponda al marco constitucional y responda a las demandas de una sociedad democrática, multiétnica y pluricultural en constante devenir y cuya base fundamental es el hombre como un ente histórico, como ser insustituible y como ser solidario;
+Que la Ley de Educación Básica Nacional vigente no responde en forma general a las necesidades e intereses actuales de la sociedad guatemalteca, ni es congruente con los principios constitucionales, por lo
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+que se hace necesario la emisión de una nueva Ley de Educación que corresponda al marco constitucional y responda a las demandas de una sociedad democrática, multiétnica y pluricultural en constante devenir y cuya base fundamental es el hombre como un ente histórico, como ser insustituible y como ser solidario;
 ## CONSIDERANDO:
 Que para garantizar el proceso democrático de la educación y siendo el maestro un protagonista esencial del proceso de enseñanza-aprendizaje, el Estado debe garantizar el cumplimiento de los artículos 78 y 106 de la Constitución Política de la República,
 ## POR TANTO:
 En el ejercicio de las facultades que le confiere el inciso a) del Artículo 171 de la Constitución Política de la República de Guatemala,
 ## DECRETA:
-
-[[END OF PAGE 1]]
-
-[[START OF PAGE 2]]
 
 La siguiente:
 
@@ -41,7 +43,7 @@ La educación en Guatemala se fundamenta en los siguientes principios:
 
 - Es un derecho inherente a la persona humana y una obligación del estado.
 
-- En el respeto o la dignidad de la persona humana y el cumplimiento efectivo de los Derechos Humanos.
+- En el respeto a la dignidad de la persona humana y el cumplimiento efectivo de los Derechos Humanos.
 
 - Tiene al educando como centro y sujeto del proceso educativo.
 
@@ -113,7 +115,7 @@ El Sistema Educativo Nacional se integra con los componentes siguientes:
 
 - Los Centros Educativos.
 
-### ARTICU0LO 6º. Integración.
+### ARTICULO 6º. Integración.
 El Sistema Educativo Nacional se conforma con dos subsistemas:
 
 - Subsistema de Educación Escolar.
@@ -162,10 +164,10 @@ a. Nivel de Dirección Superior.
 - Dependencias Operativas de Apoyo Logístico.
 
 ### ARTICULO 10º. Despacho Ministerial.
-El Despacho Ministerial esta a cargo de un Ministro, quien es la máxima autoridad del ramo. Acorde a las funciones establecidas en el Artículo 194 de la Constitución de la República de Guatemala, es responsable en coordinación con el Consejo Nacional de Educación, de establecer las políticas educativas del país y de garantizar la operatividad de la misma y de sistema educativo en todos los niveles e instancia que lo conforman.
+El Despacho Ministerial está a cargo de un Ministro, quien es la máxima autoridad del ramo. Acorde a las funciones establecidas en el Artículo 194 de la Constitución de la República de Guatemala, es responsable en coordinación con el Consejo Nacional de Educación, de establecer las políticas educativas del país y de garantizar la operatividad de la misma y del sistema educativo en todos los niveles e instancias que lo conforman.
 
 ### ARTICULO 11º. Despachos Viceministeriales.
-Los despachos veceministeriales se integran con un Viceministro Técnico que tiene a su cargo la Dirección Técnica pedagógica de la Educación Nacional y un Viceministro Administrativo, que tiene a su cargo la Dirección Administrativa del Ministerio de Educación y sus dependencias.
+Los despachos viceministeriales se integran con un Viceministro Técnico que tiene a su cargo la Dirección Técnica pedagógica de la Educación Nacional y un Viceministro Administrativo, que tiene a su cargo la Dirección Administrativa del Ministerio de Educación y sus dependencias.
 
 ### ARTICULO 12º. Consejo Nacional de Educación.
 Es un órgano multisectorial educativo encargado de conocer, analizar y aprobar conjuntamente con el Despacho Ministerial, las principales políticas, estrategias y acciones de la administración educativa, tendientes a mantener y mejorar los avances que en materia de educación se hubiesen logrado.
@@ -178,7 +180,7 @@ Las Direcciones Generales de Educación son dependencias Técnico-Administrativa
 [[START OF PAGE 6]]
 
 ### ARTICULO 14º. Direcciones Regionales de Educación.
-Las Direcciones Regionales de Educación, son dependencia Técnico-Administrativas creadas para desconcentrar y descentralizar las políticas y acciones educativas, adaptándolas a las necesidades y características regionales.
+Las Direcciones Regionales de Educación, son dependencias Técnico-Administrativas creadas para desconcentrar y descentralizar las políticas y acciones educativas, adaptándolas a las necesidades y características regionales.
 
 ### ARTICULO 15º. Dependencias de Asesoría y Planeamiento.
 Las Dependencias de Asesoría, Planificación, Ciencia y Tecnología, son órganos de investigación, consulta y asesoría a nivel nacional, que proporcionan información a los niveles de dirección superior y de alta coordinación y ejecución.
@@ -204,9 +206,9 @@ Los centros educativos públicos, privados o por cooperativas están integrados 
 
 - Educandos
 
-- Educadores
-
 - Padres de Familia
+
+- Educadores
 
 - Personal Técnico, Administrativo y de Servicio.
 
@@ -249,7 +251,7 @@ Los centros educativos por cooperativa, para su organización y funcionamiento, 
 ## CAPITULO VIII Subsistemas de Educación Escolar
 
 ### ARTICULO 28º. Subsistema de Educación Escolar.
-Para la realización del proceso educativo en los establecimiento escolares, está organizado en niveles, ciclos, grados y etapas en educación acelerada para adultos, con programas estructurados en los currícula establecidos y los que se establezcan, en forma flexible, gradual y progresiva para hacer efectivos los fines de la educación nacional.
+Para la realización del proceso educativo en los establecimientos escolares, está organizado en niveles, ciclos, grados y etapas en educación acelerada para adultos, con programas estructurados en los currícula establecidos y los que se establezcan, en forma flexible, gradual y progresiva para hacer efectivos los fines de la educación nacional.
 
 ### ARTICULO 29º. Niveles del Subsistema de Educación Escolar.
 El Subsistema de Educación Escolar, se conforma con los niveles, ciclos, grados y etapas siguientes:
@@ -282,7 +284,7 @@ La Educación Extraescolar o Paralela, tiene las características siguientes:
 
 - No está sujeta a un orden rígido de grados, edades ni a un sistema inflexible de conocimientos.
 
-- Capacita al educando en el desarrollo de habilidades sociales, culturales y académicos.
+- Capacita al educando en el desarrollo de habilidades sociales, culturales y académicas.
 
 ### ARTICULO 32º. Modalidades Desescolarizadas.
 El Ministerio de Educación promoverá la organización y funcionamiento de servicios que ofrezcan modalidades de alternancia, de enseñanza libre y educación a distancia. Su funcionamiento se normará en el reglamento de esta ley.
@@ -320,9 +322,9 @@ Son obligaciones del Estado las siguientes:
 
 - Facilitar la libre expresión creadora y estimular la formación científica, artística, deportiva, recreativa, tecnológica y humanística.
 
-- Promover e intensificar la educación física y estética en todos sus manifestaciones.
+- Promover e intensificar la educación física y estética en todas sus manifestaciones.
 
-- Garantizar el funcionamiento de los centros educativos oficiales, privados y pro cooperativa en beneficio del desarrollo educativo.
+- Garantizar el funcionamiento de los centros educativos oficiales, privados y por cooperativa en beneficio del desarrollo educativo.
 
 - Dotar el Ministerio de Educación a los estudiantes de los niveles educativos considerados obligatorios, de los útiles necesarios y de mejores niveles de nutrición.
 
@@ -344,7 +346,7 @@ Son obligaciones del Estado las siguientes:
 
 - Promover y apoyar la educación especial, diversificada y extraescolar en todos los niveles y áreas que lo ameriten.
 
-- Crear, mantener e incrementar centros de educación con orientación ocupacional, así como fomentar la formación técnica y profesional de acuerdo a la vocacional de la región.
+- Crear, mantener e incrementar centros de educación con orientación ocupacional, así como fomentar la formación técnica y profesional de acuerdo a la vocación de la región.
 
 - Construir edificios e instalaciones escolares para centros oficiales.
 
@@ -357,7 +359,7 @@ Son obligaciones del Estado las siguientes:
 ### ARTICULO 34º. Obligaciones de los Educandos.
 Son obligaciones de los educandos:
 
-- Participar en el proceso educativo de manera activa, regular y puntual en las instancia, etapas o fases que lo requieran.
+- Participar en el proceso educativo de manera activa, regular y puntual en las instancias, etapas o fases que lo requieran.
 
 - Cumplir con los requisitos expresados en los reglamentos que rigen los centros educativos de acuerdo con las disposiciones que derivan de la ejecución de esta ley.
 
@@ -399,7 +401,7 @@ Son obligaciones de los educadores que participan en el proceso educativo, las s
 
 - Actualizar los contenidos de la materia que enseña y la metodología educativa que utiliza.
 
-- Conocer su entorno ecológico, la realidad económica, histórica social, política, y cultural guatemalteca, para lograr congruencia entre el proceso de enseñanza-aprendizaje y las necesidades del desarrollo nacional.
+- Conocer su entorno ecológico, la realidad económica, histórica, social, política, y cultural guatemalteca, para lograr congruencia entre el proceso de enseñanza-aprendizaje y las necesidades del desarrollo nacional.
 
 - Elaborar una periódica y eficiente planificación de su trabajo.
 
@@ -424,7 +426,7 @@ Son obligaciones de los educadores que participan en el proceso educativo, las s
 ### ARTICULO 37º. Obligaciones de los Directores.
 Son obligaciones de los Directores de centros educativos las siguientes:
 
-- Tener conocimiento y pleno dominio del proceso administrativo de los aspectos técnicopedagógicos y de la legislación educativa vigente relacionada con su cargo y centro educativo que dirige.
+- Tener conocimiento y pleno dominio del proceso administrativo de los aspectos técnico-pedagógicos y de la legislación educativa vigente relacionada con su cargo y centro educativo que dirige.
 
 - Planificar, organizar, orientar, coordinar, supervisar y evaluar todas las acciones administrativas del centro educativo en forma eficiente.
 
@@ -516,7 +518,7 @@ Son derechos de los educadores:
 
 - Mantenerse en el goce y disfrute de los derechos establecidos en el Decreto Legislativo 1485, Ley de Dignificación y Catalogación del Magisterio Nacional, en las Leyes Laborales del país, Constitución Política de la República de Guatemala y Convenios Internacionales.
 
-- Optar a cargos dentro del sistema educativo que mejoren sus posición profesional, social y económica de acuerdo a sus méritos.
+- Optar a cargos dentro del sistema educativo que mejoren su posición profesional, social y económica de acuerdo a sus méritos.
 
 - Participar en actividades de recreación, culturales, sociales y deportivas.
 
@@ -542,7 +544,7 @@ Son derechos de los educadores:
 
 - Apelar ante las autoridades competentes en caso de inconformidad en su evaluación.
 
-### ARTUCULO 42º. Derechos de los Directores y Subdirectores.
+### ARTICULO 42º. Derechos de los Directores y Subdirectores.
 Son derechos de los directores y subdirectores:
 
 - Ejercer su autoridad para adecuar el modelo pedagógico que responda a los intereses de la comunidad educativa bajo su responsabilidad, en coordinación con el Personal Docente.
@@ -584,7 +586,7 @@ Son finalidades de la Educación Experimental:
 ## CAPITULO III Educación Especial
 
 ### ARTICULO 47º. Definición.
-La Educación Especial, constituye el proceso educativo que comprende la aplicación de programas adicionales o complementarios, a personas que presentes deficiencias en el desarrollo del leguaje, intelectual, físico y sensorial y/o que den evidencia de capacidad superior a la normal.
+La Educación Especial, constituye el proceso educativo que comprende la aplicación de programas adicionales o complementarios, a personas que presenten deficiencias en el desarrollo del lenguaje, intelectual, físico y sensorial y/o que den evidencia de capacidad superior a la normal.
 
 ### ARTICULO 48º. Finalidades.
 Son finalidades de la Educación Especial:
@@ -596,11 +598,11 @@ Son finalidades de la Educación Especial:
 ### ARTICULO 49º.
 El Ministerio de Educación creará, promoverá y apoyará programas, proyectos y centros educativos tendientes a prevenir, atender e integrar los casos especiales. El Estado asignará y otorgará el financiamiento para el funcionamiento de la dependencia del Ministerio de Educación encargada de la Educación Especial.
 
-### ARTICULO 50 o. Educación Especial Pública y Privada.
+### ARTICULO 50º. Educación Especial Pública y Privada.
 La educación Especial que se imparte en centros públicos y privados, estará sujeta a la autorización, supervisión y evaluación del Ministerio de Educación, a través de la dependencia responsable.
 
 ### ARTICULO 51º. Orientación y Capacitación Ocupacional Especial.
-El Ministerio de Educación, promoverá y apoyará la creación de centros y programas de orientación y capacitación ocupacional para discapacitados, a fin de propiciar su independencia personal e integración al medio trabajo.
+El Ministerio de Educación, promoverá y apoyará la creación de centros y programas de orientación y capacitación ocupacional para discapacitados, a fin de propiciar su independencia personal e integración al medio de trabajo.
 
 ## CAPITULO IV Educación Estética
 
@@ -646,7 +648,7 @@ La educación en las lenguas vernáculas de las zonas de población indígena, s
 ## CAPITULO VII Educación Física
 
 ### ARTICULO 59º. Definición.
-Se define a la Educación física como una parte fundamental la educación del ser humano que tiende a formarle integralmente, en mente, cuerpo y espíritu, a través de actividades físicas racionalmente planificadas, científicamente concebidas y dosificadas para ser aplicadas progresivamente en todos los ciclos de la vida del hombre, cuya extensión comienza con la educación inicial y termina con la educación del anciano.
+Se define a la Educación física como una parte fundamental de la educación del ser humano que tiende a formarle integralmente, en mente, cuerpo y espíritu, a través de actividades físicas racionalmente planificadas, científicamente concebidas y dosificadas para ser aplicadas progresivamente en todos los ciclos de la vida del hombre, cuya extensión comienza con la educación inicial y termina con la educación del anciano.
 
 ### ARTICULO 60º. Finalidades.
 Son finalidades de la Educación Física:
@@ -733,7 +735,7 @@ La evaluación del rendimiento escolar, debe realizarse solamente en períodos y
 ## CAPITULO UNICO
 
 ### ARTICULO 72º. Definición.
-La Supervisión Educativa es una función técnico-administrativa que realiza acciones de asesoría, de orientación, seguimiento, coordinación y evaluación del proceso enseñanzaaprendizaje en el Sistema Educativo Nacional.
+La Supervisión Educativa es una función técnico-administrativa que realiza acciones de asesoría, de orientación, seguimiento, coordinación y evaluación del proceso enseñanza-aprendizaje en el Sistema Educativo Nacional.
 
 ### ARTICULO 73º. Finalidades.
 Son finalidades de la Supervisión Educativa:
@@ -782,7 +784,7 @@ El Ministerio de Educación proveerá de útiles escolares, de manera gratuita y
 Toda importación de útiles escolares que efectúe el Ministerio de Educación, queda exonerada de todo tipo de impuestos.
 
 ### ARTICULO 81º. Textos Básicos.
-El Ministerio de Educación producirá, distribuirá y evaluara textos básicos para la Educación Preprimaria, Primaria y Media. Asimismo impulsará la producción de materia de apoyo a la enseñanza.
+El Ministerio de Educación producirá, distribuirá y evaluará textos básicos para la Educación Preprimaria, Primaria y Media. Asimismo impulsará la producción de materia de apoyo a la enseñanza.
 
 ### ARTICULO 82º. Textos de Autores Nacionales.
 El Ministerio de Educación, estimulará, incentivará y financiará la producción de obras educativas de autores nacionales, contribuyendo a su edición y divulgación.
@@ -809,8 +811,8 @@ El Ministerio de Educación otorgará o respaldará becas para realizar estudios
 
 Las personas que gocen de becas en el exterior están obligadas a servir en instituciones públicas por un lapso equivalente al doble de tiempo que goce la beca, retribuyendo su función acorde con la capacitación obtenida.
 
-### ARTIVULO 87º.
-Los estudios realizados en el extranjero tendrán validez en el territorio nacional, siempre que el interesado compruebe ante el Ministerio del ramo, conforme documentación legalizada, que dichos estudios equivalen a los que sigan en Guatemala.
+### ARTICULO 87º.
+Los estudios realizados en el extranjero tendrán validez en el territorio nacional, siempre que el interesado compruebe ante el Ministerio del ramo, conforme documentación legalizada, que dichos estudios equivalen a los que se sigan en Guatemala.
 
 ### ARTICULO 88º.
 El Ministerio de Educación queda obligado a garantizar la utilización o incorporación de las personas becadas, en el servicio de instituciones públicas dentro de su área de especialización.
@@ -824,7 +826,7 @@ El Régimen Económico Financiero para la Educación Nacional está constituido 
 
 - Recursos financieros no menores del 35% de los ingresos ordinarios del presupuesto general del Estado incluyendo las otras asignaciones constitucionales.
 
-- Recursos provenientes de donaciones, aportes, subvenciones y cualquier otro tipo de transferencias corrientes y de capital, que provengan de personas individuales o jurídicas, nacionales o internacionales. Las transferencia provenientes de personas individuales o jurídicas, privadas, son deducibles del impuesto sobre la Renta.
+- Recursos provenientes de donaciones, aportes, subvenciones y cualquier otro tipo de transferencias corrientes y de capital, que provengan de personas individuales o jurídicas, nacionales o internacionales. Las transferencias provenientes de personas individuales o jurídicas, privadas, son deducibles del impuesto sobre la Renta.
 
 - Fondos privativos provenientes de cuentas escolares y actividades de autofinanciamiento que realizan las comunidades escolares de conformidad con el Acuerdo Gubernativo 399 del 3 de Octubre de 1968.
 
@@ -852,13 +854,13 @@ El Ministerio de Educación promoverá y controlará ante los medios de comunica
 En todos los centros educativos del país se desarrollará un programa permanente de actividades de formación cultural, moral y cívica con la participación de la comunidad educativa, exaltando sus valores.
 
 ### ARTICULO 93º. Traducción de la Ley y su Reglamento.
-La presente ley y su reglamente será traducida y difundida por lo menos en los cuatro idiomas indígenas mayoritarios del país: Quiché, Cackchiquel, Kekchí y Mam.
+La presente ley y su reglamento será traducida y difundida por lo menos en los cuatro idiomas indígenas mayoritarios del país: Quiché, Cackchiquel, Kekchí y Mam.
 
 ### ARTICULO 94º. Obligación de Propietarios de Lotificaciones.
 Los propietarios de lotificaciones en centros urbanos, suburbanos o rurales, otorgarán en propiedad al Estado, terreno suficiente y adecuado para la construcción de edificios escolares y áreas recreativas, de acuerdo con el porcentaje que fije el reglamento respectivo.
 
 ### ARTICULO 95º. Aplicación de la Ley.
-Las disposiciones de la presente ley se aplicarán sin perjuicio de lo que sobre el particular y en relación a la educación dispongan otras leyes. El Ministerio de Educación, con los otros ministerios del Estado, y las entidades que tengan programa afines, actuarán para el efecto en forma coordinada.
+Las disposiciones de la presente ley se aplicarán sin perjuicio de lo que sobre el particular y en relación a la educación dispongan otras leyes. El Ministerio de Educación, con los otros ministerios del Estado, y las entidades que tengan programas afines, actuarán para el efecto en forma coordinada.
 
 ### ARTICULO 96º. Obligaciones de las Autoridades Municipales.
 Las autoridades municipales de toda la República y demás autoridades locales, quedan obligadas a colaborar con el Ministerio de Educación para el cumplimiento de esta ley y su reglamento.
@@ -867,9 +869,9 @@ Las autoridades municipales de toda la República y demás autoridades locales, 
 Las Direcciones Regionales de Educación, propondrán el calendario y horario escolar para los diversos niveles, tomando como base las condiciones geográficas y económicas-sociales de la región, a fin de que éstos responda a las demandas poblacionales.
 
 ### ARTICULO 98º. Obligaciones de los Propietarios de Empresas.
-El incumplimiento de la obligatoriedad constitucional de los propietarios de empresas industriales, agrícolas, pecuarias y comerciales, de establecer y mantener escuelas, guarderías y centros culturales para sus trabajadores y población escolar, dará lugar a las sanciones que establezca el Ministerio de acuerdo al reglamente respectivo.
+El incumplimiento de la obligatoriedad constitucional de los propietarios de empresas industriales, agrícolas, pecuarias y comerciales, de establecer y mantener escuelas, guarderías y centros culturales para sus trabajadores y población escolar, dará lugar a las sanciones que establezca el Ministerio de acuerdo al reglamento respectivo.
 
-### ARTUCULO 99º. Alfabetización.
+### ARTICULO 99º. Alfabetización.
 El Ministerio de Educación dará prioridad a los programas de alfabetización dentro de los planes de Educación Escolar y Extraescolar o Paralela.
 
 ### ARTICULO 100º. Protección a las Comunidades Educativas.
