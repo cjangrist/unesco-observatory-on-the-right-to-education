@@ -4,9 +4,9 @@
 
 Pursuant to article 88 item 2 of the Constitution of the  Republic of Montenegro I pronounce
 
-# ON PROMULGATING LAW ON CHANGES AND AMENDMENTS OF
+# EDICT
 
-# EDICT GENERAL LAW ON EDUCATION
+# ON PROMULGATING LAW ON CHANGES AND AMENDMENTS OF GENERAL LAW ON EDUCATION
 
 I promulgate the Law on Changes and Amendments of General Law on Education,  adopted  by  the  Constitutional  Assembly  of  the  Republic  of Montenegro, at the sixth meeting of the first regular session in 2007, on 25th July  2007.
 
@@ -62,11 +62,9 @@ In article 18 after item 2 three new items shall be added:
 
 »3) School for art education« is school in which elementary respectively secondary art education are exercised;
 
-»Two  years  post-secondary  school«  is  school  in  which  advanced professional education is realized;
+4) »Two years post-secondary school« is school in which advanced professional education is realized;
 
-»educational center« is an institution in which more  various
-
-- educational curricula from  a number of educational levels are realized«.
+5) »educational center« is an institution in which more various educational curricula from a number of educational levels are realized«.
 
 Former items 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15, shall become items 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 and 18.
 
@@ -92,7 +90,7 @@ In  article  27  after  paragraph  3  a  new  paragraph  4  shall  be  added;  i
 
 After paragraph 5 new paragraph 6 shall be added; it reads:
 
-»Advanced  professional education is realized by twoyears postsecondary schools, in harmony with law«
+»Advanced professional education is realized by twoyears post-secondary schools, in harmony with law«
 
 [[END OF PAGE 2]]
 
@@ -204,11 +202,11 @@ In article 43 paragraph 1 shall change and read:
 
 ## Article 21
 
-In article 46 paragraph 1 item 2 after words »curriculum« the words »in harmony  with  this  law,  or    a  foreign  educational  curriculum  has  been
+In article 46 paragraph 1 item 2 after words »curriculum« the words »in harmony with this law, or a foreign educational curriculum has been approved«.
 
-approved«. After paragraph 1 a new paragraph 2 shall be added and it reads: »By exception from paragraph 1 of this article, on ocassion of founding elementary schools for education of foreign citizens conditions from items 1
+After paragraph 1 a new paragraph 2 shall be added and it reads:
 
-- and 3 shall be rated«.
+»By exception from paragraph 1 of this article, on ocassion of founding elementary schools for education of foreign citizens conditions from items 1 and 3 shall be rated«.
 
 [[END OF PAGE 4]]
 
@@ -232,7 +230,7 @@ After  article  48  a  new  subtitle  shall  be  added  as  well  as  article  4
 
 #### Article 48a
 
-The  institutions  which  meet  required  personnel,  pedagogical  and  material conditions  may  be  organized  as  laboratory  schools,    in  which  employed teachers  of  school  are  speciaslised,  respectively  where  the  pedagogicalmetodic  practical  work  of  students  of  the  faculty  for  teacher  training  is
+The  institutions  which  meet  required  personnel,  pedagogical  and  material conditions  may  be  organized  as  laboratory  schools,    in  which  employed teachers  of  school  are  speciaslised,  respectively  where  the  pedagogical-metodic  practical  work  of  students  of  the  faculty  for  teacher  training  is
 
 exercised.
 
@@ -494,11 +492,12 @@ After article 153 a new article 153a shall be added; it reads: Selection, or nom
 ## Article 57
 After article 159 a new article 159a shall be added; it reads:
 ### »Article 159a
-Members  of  the  Council  for  Professional  Education  and  Council  for Adult Education, who have been selected pursuant to regulations valid until coming of this law into force, shall continue working until the expiration  of the term of office for which they were selected«.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+Members of the Council for Professional Education and Council for Adult Education, who have been selected pursuant to regulations valid until coming of this law into force, shall continue working until the expiration of the term of office for which they were selected«.
 
 ## Article 58
 
