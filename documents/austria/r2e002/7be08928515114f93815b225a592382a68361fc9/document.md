@@ -33,7 +33,7 @@ Bundesrecht konsolidiert
 
 § 1. (1)  Dieses  Bundesgesetz  gilt  für  die  öffentlichen  und  die  mit  dem  Öffentlichkeitsrecht ausgestatteten Schulen der im Schulorganisationsgesetz, BGBl. Nr. 242/1962, geregelten Schularten mit Ausnahme deren in Semester gegliederte Sonderformen.
 
-(2)  Dieses  Bundesgesetz  gilt  ferner  für  die  öffentlichen  und  die  mit  dem  Öffentlichkeitsrecht ausgestatteten höheren landund forstwirtschaftlichen Lehranstalten im Sinne des Landund forstwirtschaftlichen  Bundesschulgesetzes,  BGBl.  Nr. 175/1966,  die  land-  und  forstwirtschaftlichen Fachschulen  des  Bundes  im  Sinne  des  Art. 14a  Abs. 2  lit. c  des  Bundes-Verfassungsgesetzes  in  der Fassung  von  1929  sowie  die  Forstfachschule  im  Sinne  des  Forstgesetzes 1975,  BGBl.  Nr. 440.  Diese Schulen gelten im Sinne dieses Bundesgesetzes als höhere bzw. mittlere berufsbildende Schulen.
+(2) Dieses Bundesgesetz gilt ferner für die öffentlichen und die mit dem Öffentlichkeitsrecht ausgestatteten höheren land- und forstwirtschaftlichen Lehranstalten im Sinne des Land- und forstwirtschaftlichen Bundesschulgesetzes, BGBl. Nr. 175/1966, die land- und forstwirtschaftlichen Fachschulen des Bundes im Sinne des Art. 14a Abs. 2 lit. c des Bundes-Verfassungsgesetzes in der Fassung von 1929 sowie die Forstfachschule im Sinne des Forstgesetzes 1975, BGBl. Nr. 440. Diese Schulen gelten im Sinne dieses Bundesgesetzes als höhere bzw. mittlere berufsbildende Schulen.
 
 #### Erfüllung der Aufgabe der österreichischen Schule
 
@@ -58,17 +58,17 @@ Bundesrecht konsolidiert
 
 § 3. (1) Als ordentlicher Schüler ist nach Maßgabe des § 5 aufzunehmen, wer
 
-- die gesetzlichen Aufnahmsvoraussetzungen für die betreffende Schulart und Schulstufe erfüllt,
+a) die gesetzlichen Aufnahmsvoraussetzungen für die betreffende Schulart und Schulstufe erfüllt,
 
-- die  Unterrichtssprache  der  betreffenden  Schule  soweit  beherrscht,  daß  er  dem  Unterricht  zu folgen vermag, und
+b) die Unterrichtssprache der betreffenden Schule soweit beherrscht, daß er dem Unterricht zu folgen vermag, und
 
-- die  Eignung  für  die  betreffende  Schulart  besitzt,  zu  deren  Feststellung  im  Zweifelsfalle  ein Gutachten des Schularztes oder des Amtsarztes einzuholen ist.
+c) die Eignung für die betreffende Schulart besitzt, zu deren Feststellung im Zweifelsfalle ein Gutachten des Schularztes oder des Amtsarztes einzuholen ist.
 
-- Abs. 1 lit. b ist nicht anzuwenden auf Schüler, die
+(2) Abs. 1 lit. b ist nicht anzuwenden auf Schüler, die
 
-- nach den Bestimmungen des § 13 des Minderheiten-Schulgesetzes für Kärnten, BGBl. Nr. 101/1959,  zur  Aufnahme  in  eine  im  § 12  dieses  Gesetzes  genannte  Schule  angemeldet werden, und
+a) nach den Bestimmungen des § 13 des Minderheiten-Schulgesetzes für Kärnten, BGBl. Nr. 101/1959, zur Aufnahme in eine im § 12 dieses Gesetzes genannte Schule angemeldet werden, und
 
-- in eine in den §§ 3  und 8  des  Minderheiten-Schulgesetzes für  das  Burgenland,  BGBl. Nr. 641/1994, genannte Schule aufgenommen werden.
+b) in eine in den §§ 3 und 8 des Minderheiten-Schulgesetzes für das Burgenland, BGBl. Nr. 641/1994, genannte Schule aufgenommen werden.
 
 (3)  Die  Erziehungsberechtigten  haben  dafür  Sorge  zu  tragen,  dass  ihre  Kinder  zum  Zeitpunkt  der Schülereinschreibung die Unterrichtssprache im Sinne des Abs. 1 lit. b soweit beherrschen, dass sie dem Unterricht zu folgen vermögen.
 
@@ -76,7 +76,7 @@ Bundesrecht konsolidiert
 
 (5)  Wenn  der  Aufnahmsbewerber  vorher  Schüler  einer  anderen  Schule  nach  österreichischem Lehrplan  war,  darf  eine  Aufnahme  als  ordentlicher  Schüler  -  ausgenommen  in  Pflichtschulen  -  nur erfolgen, wenn er ein Abschlußzeugnis oder ein Zeugnis bzw. eine Besuchsbestätigung mit Abgangsklausel der bisher besuchten Schule vorlegt.
 
-- Ein Aufnahmsbewerber, der die Aufnahme in eine Schulstufe anstrebt,
+(6) Ein Aufnahmsbewerber, der die Aufnahme in eine Schulstufe anstrebt,
 
 www.ris.bka.gv.at
 
@@ -88,41 +88,41 @@ Seite 2 von 71
 
 Bundesrecht konsolidiert
 
-- ohne  durch  das  Zeugnis  einer  öffentlichen  oder  mit  dem  Öffentlichkeitsrecht  ausgestatteten Schule zur Aufnahme in die betreffende Schulstufe berechtigt zu sein, ferner
+a) ohne durch das Zeugnis einer öffentlichen oder mit dem Öffentlichkeitsrecht ausgestatteten Schule zur Aufnahme in die betreffende Schulstufe berechtigt zu sein, ferner
 
-- nicht jünger ist, als der betreffenden Schulstufe entspricht und
+b) nicht jünger ist, als der betreffenden Schulstufe entspricht und
 
-- nicht im unmittelbar vorangegangenen Schuljahr eine Schulstufe besucht hat, deren erfolgreicher Abschluß zur Aufnahme in die angestrebte Schulstufe berechtigt,
+c) nicht im unmittelbar vorangegangenen Schuljahr eine Schulstufe besucht hat, deren erfolgreicher Abschluß zur Aufnahme in die angestrebte Schulstufe berechtigt,
 
-ist vom Schulleiter zur Ablegung einer Einstufungsprüfung zuzulassen. Zweck der Einstufungsprüfung ist die Feststellung, ob die Vorbildung des Aufnahmsbewerbers für die angestrebte Schulstufe ausreicht. Die Einstufungsprüfung  kann  insoweit  entfallen,  als  der  Schüler  durch  die  Mitarbeit  im  Unterricht  sowie durch in die Unterrichtsarbeit sonst eingeordnete Leistungsfeststellungen (§ 18 Abs. 1) zu erkennen gibt, daß er das Bildungsziel des betreffenden Pflichtgegenstandes in den vorangegangenen Schulstufen in den wesentlichen Bereichen überwiegend erfüllt. Die diesbezügliche Feststellung trifft der den Pflichtgegenstand  unterrichtende  Lehrer  und  ist  dem  Schüler  unverzüglich  bekanntzugeben.  Auf  eine derartige Feststellung besteht kein Rechtsanspruch. Die näheren Bestimmungen über die Aufnahme auf Grund  einer  Einstufungsprüfung  sind  unter  Berücksichtigung  der  Aufgabe  und  des  Lehrplanes  der einzelnen Schularten durch Verordnung des zuständigen Bundesministers zu erlassen.
+ist vom Schulleiter zur Ablegung einer Einstufungsprüfung zuzulassen. Zweck der Einstufungsprüfung ist die Feststellung, ob die Vorbildung des Aufnahmsbewerbers für die angestrebte Schulstufe ausreicht. Die Einstufungsprüfung kann insoweit entfallen, als der Schüler durch die Mitarbeit im Unterricht sowie durch in die Unterrichtsarbeit sonst eingeordnete Leistungsfeststellungen (§ 18 Abs. 1) zu erkennen gibt, daß er das Bildungsziel des betreffenden Pflichtgegenstandes in den vorangegangenen Schulstufen in den wesentlichen Bereichen überwiegend erfüllt. Die diesbezügliche Feststellung trifft der den Pflichtgegenstand unterrichtende Lehrer und ist dem Schüler unverzüglich bekanntzugeben. Auf eine derartige Feststellung besteht kein Rechtsanspruch. Die näheren Bestimmungen über die Aufnahme auf Grund einer Einstufungsprüfung sind unter Berücksichtigung der Aufgabe und des Lehrplanes der einzelnen Schularten durch Verordnung des zuständigen Bundesministers zu erlassen.
 
-- Abs.  6  gilt  für  Berufsschulen  nur  insoweit,  als  es  sich  um  den  Besuch  einer  höheren  als  der 1. Schulstufe
+(7) Abs. 6 gilt für Berufsschulen nur insoweit, als es sich um den Besuch einer höheren als der 1. Schulstufe
 
-- in einer anderen Fachrichtung bei Erlernung von zwei Lehrberufen oder
+1. in einer anderen Fachrichtung bei Erlernung von zwei Lehrberufen oder
 
-- bei gegenüber der Dauer des Lehrberufes kürzerer Dauer des Lehroder Ausbildungsverhältnisses gemäß dem Berufsausbildungsgesetz, BGBl. Nr. 142/1969,
+2. bei gegenüber der Dauer des Lehrberufes kürzerer Dauer des Lehr- oder Ausbildungsverhältnisses gemäß dem Berufsausbildungsgesetz, BGBl. Nr. 142/1969,
 
 handelt.
 
-(7a) Hat der Aufnahmsbewerber die Einstufungsprüfung nicht bestanden, ist er zu einer Wiederholung der Einstufungsprüfung berechtigt. Er ist vom Schulleiter innerhalb einer Frist von zwei Monaten zu einer Wiederholung der Prüfung zuzulassen; hiebei sind jene Prüfungsgebiete zu wiederholen, die mit 'Nicht genügend' beurteilt worden sind.
+(7a) Hat der Aufnahmsbewerber die Einstufungsprüfung nicht bestanden, ist er zu einer Wiederholung der Einstufungsprüfung berechtigt. Er ist vom Schulleiter innerhalb einer Frist von zwei Monaten zu einer Wiederholung der Prüfung zuzulassen; hiebei sind jene Prüfungsgebiete zu wiederholen, die mit „Nicht genügend” beurteilt worden sind.
 
 (7b) Für die Aufnahme von behinderten Kindern ist Abs. 1 lit. c insoweit nicht anzuwenden, als die gesundheitliche und körperliche Eignung Bestandteil des Verfahrens zur Feststellung des sonderpädagogischen  Förderbedarfes  (§ 8  Abs. 1  des  Schulpflichtgesetzes 1985,  BGBl.  Nr. 76,  in  der jeweils geltenden Fassung) waren.
 
-- Die  Aufnahme  gilt  ohne  weitere  Anmeldung  für  alle  an  der  betreffenden  Schule  geführten Schulstufen derselben Schulart bis zur Beendigung des Schulbesuches im Sinne des § 33.
+(8) Die Aufnahme gilt ohne weitere Anmeldung für alle an der betreffenden Schule geführten Schulstufen derselben Schulart bis zur Beendigung des Schulbesuches im Sinne des § 33.
 
 #### Aufnahme als außerordentlicher Schüler
 
 § 4. (1) Voraussetzung für die Aufnahme als außerordentlicher Schüler ist, daß der Aufnahmsbewerber  nach  Alter  und  geistiger  Reife  zur  Teilnahme  am  Unterricht  der  betreffenden Schulstufe  geeignet  ist  und  wichtige  in  seiner  Person  liegende  Gründe  die  Aufnahme  rechtfertigen.  In Berufsschulen können bei Erfüllung dieser Voraussetzungen auch Personen, die nicht schulpflichtig sind, als außerordentliche Schüler aufgenommen werden.
 
-- Der  allgemeinen Schulpflicht unterliegende Kinder sind nur dann als außerordentliche Schüler aufzunehmen, wenn
+(2) Der allgemeinen Schulpflicht unterliegende Kinder sind nur dann als außerordentliche Schüler aufzunehmen, wenn
 
-- ihre Aufnahme als ordentliche Schüler wegen mangelnder Kenntnis der Unterrichtssprache nicht zulässig ist (§ 3 Abs. 1 lit. b) oder
+a) ihre Aufnahme als ordentliche Schüler wegen mangelnder Kenntnis der Unterrichtssprache nicht zulässig ist (§ 3 Abs. 1 lit. b) oder
 
-- der Schüler zur Ablegung einer Einstufungsprüfung zugelassen wird (§ 3 Abs. 6).
+b) der Schüler zur Ablegung einer Einstufungsprüfung zugelassen wird (§ 3 Abs. 6).
 
-- Die Aufnahme als außerordentlicher Schüler im Sinne des Abs. 2 ist höchstens für die Dauer von zwölf Monaten zulässig, wobei im Falle einer Aufnahme während des zweiten Semesters diese Frist erst mit  dem  folgenden  1. September  zu  laufen  beginnt.  Im  Falle  des  Abs. 2  lit. a  kann  die  Aufnahme  als außerordentlicher Schüler für höchstens weitere zwölf Monate erfolgen, wenn die Voraussetzungen für die Aufnahme weiter vorliegen und die ausreichende Erlernung der Unterrichtssprache ohne Verschulden des Schülers nicht möglich war; nach Beendigung des außerordentlichen Schulbesuches ist der Schüler ohne Rücksicht auf § 3 Abs. 1 lit. b als ordentlicher Schüler aufzunehmen.
+(3) Die Aufnahme als außerordentlicher Schüler im Sinne des Abs. 2 ist höchstens für die Dauer von zwölf Monaten zulässig, wobei im Falle einer Aufnahme während des zweiten Semesters diese Frist erst mit dem folgenden 1. September zu laufen beginnt. Im Falle des Abs. 2 lit. a kann die Aufnahme als außerordentlicher Schüler für höchstens weitere zwölf Monate erfolgen, wenn die Voraussetzungen für die Aufnahme weiter vorliegen und die ausreichende Erlernung der Unterrichtssprache ohne Verschulden des Schülers nicht möglich war; nach Beendigung des außerordentlichen Schulbesuches ist der Schüler ohne Rücksicht auf § 3 Abs. 1 lit. b als ordentlicher Schüler aufzunehmen.
 
-- Gemäß  Abs. 2  lit. a aufgenommene  schulpflichtige außerordentliche Schüler haben alle Pflichtgegenstände  der betreffenden Schulstufe zu besuchen.  Das  gleiche  gilt für schulpflichtige außerordentliche Schüler, die nach Abs. 2 lit. b aufgenommen worden sind; auf ihr Ansuchen können sie jedoch  vom  Besuch  einzelner  Pflichtgegenstände  befreit  werden,  wenn  sie  dem  Unterricht  in  diesen Pflichtgegenständen  mangels  entsprechender  Vorkenntnisse  nicht  zu  folgen  vermögen.  Alle  anderen außerordentlichen  Schüler  können  zum  Besuch  aller  oder  einzelner  Unterrichtsgegenstände  einer  oder mehrerer Schulstufen aufgenommen werden.
+(4) Gemäß Abs. 2 lit. a aufgenommene schulpflichtige außerordentliche Schüler haben alle Pflichtgegenstände der betreffenden Schulstufe zu besuchen. Das gleiche gilt für schulpflichtige außerordentliche Schüler, die nach Abs. 2 lit. b aufgenommen worden sind; auf ihr Ansuchen können sie jedoch vom Besuch einzelner Pflichtgegenstände befreit werden, wenn sie dem Unterricht in diesen Pflichtgegenständen mangels entsprechender Vorkenntnisse nicht zu folgen vermögen. Alle anderen außerordentlichen Schüler können zum Besuch aller oder einzelner Unterrichtsgegenstände einer oder mehrerer Schulstufen aufgenommen werden.
 
 www.ris.bka.gv.at
 
@@ -134,23 +134,23 @@ Seite 3 von 71
 
 Bundesrecht konsolidiert
 
-- Die Aufnahme eines nicht schulpflichtigen Aufnahmsbewerbers als außerordentlicher Schüler ist nur  dann  zulässig,  wenn  alle  als  ordentliche  Schüler  in  Betracht  kommenden  Aufnahmsbewerber aufgenommen  worden  sind.  Zum  Besuch  einzelner  Unterrichtsgegenstände  dürfen  außerordentliche Schüler  nur  dann  aufgenommen  werden,  wenn  dadurch  keine  Klassenteilung  erforderlich  ist.  Dieser Absatz gilt nicht für die Privatschulen.
+(5) Die Aufnahme eines nicht schulpflichtigen Aufnahmsbewerbers als außerordentlicher Schüler ist nur dann zulässig, wenn alle als ordentliche Schüler in Betracht kommenden Aufnahmsbewerber aufgenommen worden sind. Zum Besuch einzelner Unterrichtsgegenstände dürfen außerordentliche Schüler nur dann aufgenommen werden, wenn dadurch keine Klassenteilung erforderlich ist. Dieser Absatz gilt nicht für die Privatschulen.
 
-(6)  Aufnahmsbewerber,  die  eine  Schulstufe  als  ordentliche  Schüler  ohne  Erfolg  besucht  haben, dürfen in eine höhere Schulstufe der gleichen Schulart nicht als außerordentliche Schüler aufgenommen werden.
+(6) Aufnahmsbewerber, die eine Schulstufe als ordentliche Schüler ohne Erfolg besucht haben, dürfen in eine höhere Schulstufe der gleichen Schulart nicht als außerordentliche Schüler aufgenommen werden.
 
-- Dieses Bundesgesetz ist auf schulpflichtige außerordentliche Schüler sinngemäß, auf die übrigen außerordentlichen Schüler nur insoweit anzuwenden, als dies darin ausdrücklich bestimmt ist.
+(7) Dieses Bundesgesetz ist auf schulpflichtige außerordentliche Schüler sinngemäß, auf die übrigen außerordentlichen Schüler nur insoweit anzuwenden, als dies darin ausdrücklich bestimmt ist.
 
 #### Aufnahmsverfahren
 
 § 5. (1)  Für die Aufnahme in die 1. Stufe der einzelnen Schularten (ausgenommen der Volks- und Sonderschule sowie der Berufsschule) hat der zuständige Bundesminister durch Verordnung die näheren Bestimmungen  über  das  Aufnahmsverfahren  festzulegen.  Für  die  Aufnahme  in  Schulen,  für  die  kein Schulsprengel  besteht,  sind  in  der  Verordnung  für  alle  Aufnahmsbewerber  in  gleicher  Weise  geltende Reihungskriterien  festzulegen,  wobei  jedenfalls  auf  die  bisherigen  Leistungen,  auf  die  Wohnortnähe sowie  auf  einen  allfälligen  Besuch  der  Schule  durch  Geschwister  Bedacht  zu  nehmen  ist.  In  der Verordnung ist weiters an Schulen, für die kein Schulsprengel besteht, der Schulgemeinschaftsausschuss zu  ermächtigen,  im  Hinblick  auf  die  Aufgabe  der  betreffenden  Schulart  (Form,  Fachrichtung)  nähere Bestimmungen  über  die  Reihung  festzulegen,  wobei  hinsichtlich  der  Eignung  der  Aufnahmsbewerber auch auf eine allfällige  schulautonome  Profilbildung  und  auf  allenfalls  bestehende  Schulkooperationen Bedacht  zu  nehmen  ist  (schulautonome  Reihungskriterien).  Die  Fristen  für  die  Anmeldung  sind  so festzulegen,  dass  das  Aufnahmsverfahren,  sofern  nicht  zwingende  Gründe  (zB  die  Ablegung  von Prüfungen) entgegenstehen, zu Beginn der Hauptferien beendet ist.
 
-- Über  die  Aufnahme  der  angemeldeten Aufnahmsbewerber  einschließlich jener, die die Voraussetzungen für die Aufnahme als außerordentlicher Schüler erfüllen (§ 4 Abs. 1), hat der Schulleiter zu entscheiden. Die Aufnahme ist durch Anschlag an der Amtstafel der Schule oder in anderer geeigneter Weise  bekanntzugeben.  Die  Ablehnung  der  Aufnahme  ist  dem  Aufnahmsbewerber  schriftlich  unter Angabe der Gründe mitzuteilen.
+(2) Über die Aufnahme der angemeldeten Aufnahmsbewerber einschließlich jener, die die Voraussetzungen für die Aufnahme als außerordentlicher Schüler erfüllen (§ 4 Abs. 1), hat der Schulleiter zu entscheiden. Die Aufnahme ist durch Anschlag an der Amtstafel der Schule oder in anderer geeigneter Weise bekanntzugeben. Die Ablehnung der Aufnahme ist dem Aufnahmsbewerber schriftlich unter Angabe der Gründe mitzuteilen.
 
-(Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
+(3) (Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
 
-(Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
+(4) (Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
 
-(Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
+(5) (Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
 
 (6)  Die  vorstehenden  Absätze  gelten  nicht  für  Privatschulen.  Die  Aufnahme  in  eine  Privatschule erfolgt durch einen Vertrag des bürgerlichen Rechts zwischen dem Schüler und dem Privatschulerhalter. Wenn jedoch ein Aufnahmsbewerber trotz Nichterfüllung der schulrechtlichen Aufnahmsvoraussetzungen aufgenommen wird, ist der Aufnahmevertrag rechtsunwirksam.
 
@@ -163,11 +163,11 @@ Bundesrecht konsolidiert
 
 § 6. (1)  Voraussetzung  für  die  Zulassung  zu  den  Aufnahms-  und  Eignungsprüfungen  ist  die Erfüllung aller anderen Aufnahmsvoraussetzungen für die betreffende Schulart; hievon ausgenommen ist der  Abschluss  jener  Schulstufe,  deren  erfolgreicher  Abschluss  Voraussetzung  für  die  Aufnahme  in  die angestrebte Schulart ist.
 
-- Eine für eine bestimmte Schulart abgelegte Aufnahms- oder Eignungsprüfung darf für dasselbe Schuljahr nicht wiederholt werden.
+(2) Eine für eine bestimmte Schulart abgelegte Aufnahms- oder Eignungsprüfung darf für dasselbe Schuljahr nicht wiederholt werden.
 
 #### Durchführung der Aufnahms- und Eignungsprüfungen
 
-§ 7. (1) Die Prüfungsgebiete der Aufnahmsund Eignungsprüfungen hat der zuständige Bundesminister nach den Aufgaben der einzelnen Schularten durch Verordnung zu bestimmen, wobei auf den Lehrplan jener Schulstufe Bedacht zu nehmen ist, deren erfolgreicher Besuch Mindestvoraussetzung für die Aufnahme ist. Der zuständige Bundesminister hat ferner durch Verordnung je nach der Art des
+§ 7. (1) Die Prüfungsgebiete der Aufnahms- und Eignungsprüfungen hat der zuständige Bundesminister nach den Aufgaben der einzelnen Schularten durch Verordnung zu bestimmen, wobei auf den Lehrplan jener Schulstufe Bedacht zu nehmen ist, deren erfolgreicher Besuch Mindestvoraussetzung für die Aufnahme ist. Der zuständige Bundesminister hat ferner durch Verordnung je nach der Art des
 
 www.ris.bka.gv.at
 
@@ -181,23 +181,23 @@ Bundesrecht konsolidiert
 
 Prüfungsgebietes festzusetzen, ob die Prüfung schriftlich und mündlich, nur schriftlich oder nur mündlich oder auch praktisch abzulegen ist.
 
-- Zur Durchführung der Prüfung hat der Schulleiter die erforderliche Zahl von Lehrern als Prüfer zu bestellen.
+(2) Zur Durchführung der Prüfung hat der Schulleiter die erforderliche Zahl von Lehrern als Prüfer zu bestellen.
 
-- Die  Aufgabenstellungen  in  den  einzelnen  Prüfungsgebieten  sind,  soweit  sie  nicht  von  der zuständigen  Schulbehörde  für  ein  ganzes  Bundesland  oder  vom  zuständigen  Bundesminister  für  das ganze Bundesgebiet einheitlich festgelegt werden, in einer Konferenz der Prüfer unter dem Vorsitz des Schulleiters festzusetzen.
+(3) Die Aufgabenstellungen in den einzelnen Prüfungsgebieten sind, soweit sie nicht von der zuständigen Schulbehörde für ein ganzes Bundesland oder vom zuständigen Bundesminister für das ganze Bundesgebiet einheitlich festgelegt werden, in einer Konferenz der Prüfer unter dem Vorsitz des Schulleiters festzusetzen.
 
-- Der  zuständige  Bundesminister  kann  anstelle  oder  in  Verbindung  mit  der  Prüfung  aus bestimmten Prüfungsgebieten nach wissenschaftlichen Grundsätzen erstellte und erprobte Untersuchungsverfahren zur Feststellung der Eignung für die betreffende Schulart (Form oder Fachrichtung) einführen.
+(4) Der zuständige Bundesminister kann anstelle oder in Verbindung mit der Prüfung aus bestimmten Prüfungsgebieten nach wissenschaftlichen Grundsätzen erstellte und erprobte Untersuchungsverfahren zur Feststellung der Eignung für die betreffende Schulart (Form oder Fachrichtung) einführen.
 
 #### Prüfungsergebnis
 
 § 8. (1)  Die  Leistungen  des  Prüfungskandidaten  in  jedem  Prüfungsgebiet  sind  vom  Prüfer  unter sinngemäßer Anwendung des § 18 Abs. 2 bis 4 zu beurteilen. Bei standardisierten Untersuchungsverfahren tritt an die Stelle der Beurteilung durch den Prüfer das Bewertungsergebnis der Eignungsuntersuchung.
 
-- Auf  Grund  der  Prüfungsergebnisse  nach  Abs. 1  ist  unter  Berücksichtigung  der  bisherigen Schulleistungen  in  einer  Konferenz  der  Prüfer  unter  dem  Vorsitz  des  Schulleiters  mit  unbedingter Mehrheit der abgegebenen Stimmen festzusetzen, ob der Prüfungskandidat die Prüfung 'bestanden' oder wegen mangelnder Eignung 'nicht bestanden' hat (Gesamtbeurteilung). Bei Stimmengleichheit entscheidet der Schulleiter.
+(2) Auf Grund der Prüfungsergebnisse nach Abs. 1 ist unter Berücksichtigung der bisherigen Schulleistungen in einer Konferenz der Prüfer unter dem Vorsitz des Schulleiters mit unbedingter Mehrheit der abgegebenen Stimmen festzusetzen, ob der Prüfungskandidat die Prüfung „bestanden“ oder wegen mangelnder Eignung „nicht bestanden“ hat (Gesamtbeurteilung). Bei Stimmengleichheit entscheidet der Schulleiter.
 
-- Dem Prüfungskandidaten ist die Gesamtbeurteilung seiner Leistungen bei der Aufnahms- oder Eignungsprüfung (Abs. 2)  bekanntzugeben.  Kann  der  Aufnahmsbewerber  wegen  Platzmangels  nicht  in die  Schule  aufgenommen  werden,  ist  ihm  auf  sein  Verlangen  über  die  Einzelbeurteilungen  durch  die Prüfer bzw. das Bewertungsergebnis des standardisierten Untersuchungsverfahrens und die Gesamtbeurteilung (Abs. 1 und 2) ein Zeugnis auszustellen.
+(3) Dem Prüfungskandidaten ist die Gesamtbeurteilung seiner Leistungen bei der Aufnahms- oder Eignungsprüfung (Abs. 2) bekanntzugeben. Kann der Aufnahmsbewerber wegen Platzmangels nicht in die Schule aufgenommen werden, ist ihm auf sein Verlangen über die Einzelbeurteilungen durch die Prüfer bzw. das Bewertungsergebnis des standardisierten Untersuchungsverfahrens und die Gesamtbeurteilung (Abs. 1 und 2) ein Zeugnis auszustellen.
 
-- Die erfolgreiche Ablegung einer Aufnahms- oder Eignungsprüfung berechtigt - bei Erfüllung der sonstigen  Aufnahmsvoraussetzungen  -  zur  Aufnahme  in  alle  Schulen  derselben  Schulart  in  jenem Schuljahr,  für  das  sie  abgelegt  wurde,  sowie  in  den  beiden  diesem  folgenden  Schuljahren;  in  gleicher Weise berechtigt die erfolgreiche Ablegung der Aufnahmsprüfung in eine berufsbildende höhere Schule auch  zur  Aufnahme  in  eine  berufsbildende  mittlere  Schule.  Die  Berechtigungen  im  Sinne  des  ersten Satzes gelten in berufsbildenden Schulen nur insoweit, als es sich nicht um eine Fachrichtung handelt, für die neben der Aufnahmsprüfung für die betreffende Schulart eine zusätzliche Überprüfung der Eignung für die betreffende Fachrichtung stattfindet.
+(4) Die erfolgreiche Ablegung einer Aufnahms- oder Eignungsprüfung berechtigt - bei Erfüllung der sonstigen Aufnahmsvoraussetzungen - zur Aufnahme in alle Schulen derselben Schulart in jenem Schuljahr, für das sie abgelegt wurde, sowie in den beiden diesem folgenden Schuljahren; in gleicher Weise berechtigt die erfolgreiche Ablegung der Aufnahmsprüfung in eine berufsbildende höhere Schule auch zur Aufnahme in eine berufsbildende mittlere Schule. Die Berechtigungen im Sinne des ersten Satzes gelten in berufsbildenden Schulen nur insoweit, als es sich nicht um eine Fachrichtung handelt, für die neben der Aufnahmsprüfung für die betreffende Schulart eine zusätzliche Überprüfung der Eignung für die betreffende Fachrichtung stattfindet.
 
-(5) Unbeschadet des Abs. 4 ist der Aufnahmsbewerber zur nochmaligen Ablegung der Aufnahmsoder  Eignungsprüfung  in  den  beiden  Schuljahren  berechtigt,  die  jenem,  für  das  die  Prüfung  abgelegt wurde, folgen; macht der Aufnahmsbewerber von diesem Recht Gebrauch, so ist dem Aufnahmsverfahren jeweils das bessere Prüfungsergebnis zugrunde zu legen.
+(5) Unbeschadet des Abs. 4 ist der Aufnahmsbewerber zur nochmaligen Ablegung der Aufnahms- oder Eignungsprüfung in den beiden Schuljahren berechtigt, die jenem, für das die Prüfung abgelegt wurde, folgen; macht der Aufnahmsbewerber von diesem Recht Gebrauch, so ist dem Aufnahmsverfahren jeweils das bessere Prüfungsergebnis zugrunde zu legen.
 
 #### Beachte für folgende Bestimmung
 
@@ -228,7 +228,7 @@ Bundesrecht konsolidiert
 
 (4) Die Klassenzuweisung  und  die Lehrfächerverteilung sind der zuständigen  Schulbehörde schriftlich zur Kenntnis zu bringen.
 
-(5) Bei Bildung von Schülergruppen und an ganztägigen Schulformen bei der Bildung von Gruppen im  Betreuungsteil  hat  der  Schulleiter  die  in  Betracht  kommenden  Schüler  in  die  einzelnen  Gruppen einzuteilen (Gruppenbildung). Ferner hat der Schulleiter den einzelnen Schülergruppen unter sinngemäßer  Anwendung  der  Abs. 2  und  3  die  erforderlichen  Lehrer,  den  einzelnen  Gruppen  im Betreuungsteil ganztägiger Schulformen Lehrer oder - ausgenommen die gegenstandsbezogene Lernzeit -Erzieher oder -ausgenommen die gegenstandsbezogene und die individuelle Lernzeit -Freizeitpädagogen  zuzuweisen.  Die  Zuweisung  der  Lehrer,  Erzieher  und  Freizeitpädagogen  an  die einzelnen Gruppen ist der zuständigen Schulbehörde schriftlich zur Kenntnis zu bringen.
+(5) Bei Bildung von Schülergruppen und an ganztägigen Schulformen bei der Bildung von Gruppen im Betreuungsteil hat der Schulleiter die in Betracht kommenden Schüler in die einzelnen Gruppen einzuteilen (Gruppenbildung). Ferner hat der Schulleiter den einzelnen Schülergruppen unter sinngemäßer Anwendung der Abs. 2 und 3 die erforderlichen Lehrer, den einzelnen Gruppen im Betreuungsteil ganztägiger Schulformen Lehrer oder – ausgenommen die gegenstandsbezogene Lernzeit – Erzieher oder – ausgenommen die gegenstandsbezogene und die individuelle Lernzeit – Freizeitpädagogen zuzuweisen. Die Zuweisung der Lehrer, Erzieher und Freizeitpädagogen an die einzelnen Gruppen ist der zuständigen Schulbehörde schriftlich zur Kenntnis zu bringen.
 
 #### Stundenplan
 
@@ -290,13 +290,13 @@ Bundesrecht konsolidiert
 
 § 12. (1) Die Schüler können sich zur Teilnahme an Freigegenständen und unverbindlichen Übungen anmelden. Die Anmeldung hat (ausgenommen an Berufsschulen) anlässlich der Aufnahme in die Schule oder  innerhalb  einer  vom  Schulleiter  zu  Beginn  des  2.  Semesters  der  vorangehenden  Schulstufe vorzusehenden Frist von mindestens drei Tagen und längstens einer Woche zu erfolgen und gilt nur für das nächstfolgende Unterrichtsjahr; nach dieser Frist ist eine Anmeldung zulässig, wenn sie keine Teilung der Unterrichtsveranstaltung zur Folge hat.
 
-(Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
+(2) (Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
 
-(Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
+(3) (Anm.: aufgehoben durch BGBl. I Nr. 20/2006)
 
-(4) Wenn ein Schüler in einem Freigegenstand im Jahreszeugnis mit Nichtgenügend beurteilt wird, kann  er  sich  im  darauffolgenden  Unterrichtsjahr  in  diesem  Freigegenstand  nur  zur  Wiederholung desselben anmelden.
+(4) Wenn ein Schüler in einem Freigegenstand im Jahreszeugnis mit Nichtgenügend beurteilt wird, kann er sich im darauffolgenden Unterrichtsjahr in diesem Freigegenstand nur zur Wiederholung desselben anmelden.
 
-- Für den Freigegenstand Religion an Berufsschulen ist Abs. 4 nicht anzuwenden.
+(5) Für den Freigegenstand Religion an Berufsschulen ist Abs. 4 nicht anzuwenden.
 
 (6) Schüler an Haupt- und Berufsschulen sind verpflichtet, den Förderunterricht zu besuchen, sofern von  Amts  wegen  oder  auf  Antrag  des  Schülers  der  den  betreffenden  Pflichtgegenstand  unterrichtende Lehrer feststellt, daß der Schüler zur Vorbereitung auf den Übertritt in eine höhere Leistungsgruppe oder zur  Vermeidung  des  Übertrittes  in  eine  niedrigere  Leistungsgruppe  des  Förderunterrichtes  bedarf;  dies gilt  auch  für  den  Förderunterricht  in  den  Pflichtgegenständen  Deutsch,  Mathematik  und  Lebende Fremdsprache der Hauptschule während des Beobachtungszeitraumes und in der niedrigsten Leistungsgruppe,  wenn  der  Schüler  des  Förderunterrichtes  bedarf,  weil  er  die  Anforderungen  in wesentlichen Bereichen nur mangelhaft erfüllt oder wegen eines Schulwechsels Umstellungsschwierigkeiten hat.
 
@@ -312,21 +312,21 @@ Bundesrecht konsolidiert
 
 § 12a. (1)  Der  Besuch  des  Betreuungsteiles  ganztägiger  Schulformen  bedarf  einer  Anmeldung. Bezüglich der Anmeldung gilt
 
-- für ganztägige Schulformen mit getrennter Abfolge des Unterrichts- und des Betreuungsteiles:
+1. für ganztägige Schulformen mit getrennter Abfolge des Unterrichts- und des Betreuungsteiles:
 
-- Die Anmeldung kann anlässlich der Anmeldung zur Aufnahme in die Schule, bei schul- und schulartenübergreifendem Besuch des Betreuungsteiles jedoch zum Zeitpunkt der Anmeldung zur Aufnahme in die Schule, sowie innerhalb einer vom Schulleiter einzuräumenden Frist von mindestens  drei  Tagen  und  längstens  einer  Woche  (wobei  diese  Frist  einen  Sonntag  einzuschließen  hat)  erfolgen;  nach  dieser  Frist  ist  eine  Anmeldung  zulässig,  wenn  dadurch  keine zusätzliche Gruppe erforderlich ist.
+a) Die Anmeldung kann anlässlich der Anmeldung zur Aufnahme in die Schule, bei schul- und schulartenübergreifendem Besuch des Betreuungsteiles jedoch zum Zeitpunkt der Anmeldung zur Aufnahme in die Schule, sowie innerhalb einer vom Schulleiter einzuräumenden Frist von mindestens drei Tagen und längstens einer Woche (wobei diese Frist einen Sonntag einzuschließen hat) erfolgen; nach dieser Frist ist eine Anmeldung zulässig, wenn dadurch keine zusätzliche Gruppe erforderlich ist.
 
-- Die Anmeldung kann sich auf alle Schultage oder auf einzelne Tage einer Woche beziehen.
+b) Die Anmeldung kann sich auf alle Schultage oder auf einzelne Tage einer Woche beziehen.
 
-- Die Anmeldung gilt nur für das betreffende Unterrichtsjahr.
+c) Die Anmeldung gilt nur für das betreffende Unterrichtsjahr.
 
-- für ganztägige Schulformen mit verschränkter Abfolge des Unterrichts- und Betreuungsteiles:
+2. für ganztägige Schulformen mit verschränkter Abfolge des Unterrichts- und Betreuungsteiles:
 
-- Die Regelung der Z 1 lit. a gilt auch hier.
+a) Die Regelung der Z 1 lit. a gilt auch hier.
 
-- Die Anmeldung kann sich nur auf alle Schultage erstrecken.
+b) Die Anmeldung kann sich nur auf alle Schultage erstrecken.
 
-- Die Anmeldung gilt für die Dauer des Besuches der betreffenden Schule.
+c) Die Anmeldung gilt für die Dauer des Besuches der betreffenden Schule.
 
 www.ris.bka.gv.at
 
@@ -340,33 +340,33 @@ Bundesrecht konsolidiert
 
 (2)  Während  des  Unterrichtsjahres  kann  eine  Abmeldung  vom  Betreuungsteil  nur  zum  Ende  des ersten Semesters erfolgen; diese Abmeldung hat spätestens drei Wochen vor Ende des ersten Semesters zu  erfolgen.  Zu  einem  anderen  als  im  ersten  Satz  genannten  Zeitpunkt  kann  eine  Abmeldung  nur  bei Vorliegen besonders berücksichtigungswürdiger Gründe erfolgen. Sofern an der Schule keine entsprechenden Klassen mit bloßem Unterrichtsteil oder ohne verschränkter Form von Unterrichts- und Betreuungsteil bestehen, ist nur eine Abmeldung von der Schule möglich.
 
-(3) Bei schulund schulartenübergreifendem Besuch des Betreuungsteiles ist auf die unterschiedlichen  Anforderungen  der  jeweiligen  Schulstufen  oder  Schularten  besonders  Bedacht  zu nehmen.
+(3) Bei schul- und schulartenübergreifendem Besuch des Betreuungsteiles ist auf die unterschiedlichen Anforderungen der jeweiligen Schulstufen oder Schularten besonders Bedacht zu nehmen.
 
 #### Schulveranstaltungen
 
 § 13. (1)  Aufgabe  der  Schulveranstaltungen  ist  die  Ergänzung  des  lehrplanmäßigen  Unterrichtes durch unmittelbaren und anschaulichen Kontakt zum wirtschaftlichen, gesellschaftlichen und kulturellen Leben, durch die Förderung der musischen Anlagen der Schüler und durch die körperliche Ertüchtigung.
 
-(1a) In Klassen, in denen körperoder sinnesbehinderte Schüler bzw. Schüler mit sonderpädagogischem  Förderbedarf  gemeinsam  mit  Schülern  ohne  sonderpädagogischem  Förderbedarf unterrichtet  werden,  sind  Schulveranstaltungen  so  zu  planen,  daß  Schüler  mit  sonderpädagogischem Förderbedarf in größtmöglichem Ausmaß teilnehmen können.
+(1a) In Klassen, in denen körper- oder sinnesbehinderte Schüler bzw. Schüler mit sonderpädagogischem Förderbedarf gemeinsam mit Schülern ohne sonderpädagogischem Förderbedarf unterrichtet werden, sind Schulveranstaltungen so zu planen, daß Schüler mit sonderpädagogischem Förderbedarf in größtmöglichem Ausmaß teilnehmen können.
 
 (2) Der zuständige Bundesminister hat durch Verordnung
 
-- die Höchstzahl an Schulveranstaltungen so zu bestimmen, daß die dadurch verursachte Einschränkung  der  Unterrichtszeit  für  die  lehrplanmäßig  vorgesehenen  Unterrichtsgegenstände nicht die Erfüllung des Lehrplanes beeinträchtigt,
+1. die Höchstzahl an Schulveranstaltungen so zu bestimmen, daß die dadurch verursachte Einschränkung der Unterrichtszeit für die lehrplanmäßig vorgesehenen Unterrichtsgegenstände nicht die Erfüllung des Lehrplanes beeinträchtigt,
 
-- vorzusehen, daß im Rahmen von Durchführungsrichtlinien Festlegungen zur Gewährleistung der Sicherheit der Schüler getroffen werden,
+2. vorzusehen, daß im Rahmen von Durchführungsrichtlinien Festlegungen zur Gewährleistung der Sicherheit der Schüler getroffen werden,
 
-- vorzusehen,  daß  die  erwachsenden  Kosten  (Fahrpreise,  Eintrittsgebühren  usw.)  dem  Grundsatz der Sparsamkeit und Angemessenheit entsprechen, und
+3. vorzusehen, daß die erwachsenden Kosten (Fahrpreise, Eintrittsgebühren usw.) dem Grundsatz der Sparsamkeit und Angemessenheit entsprechen, und
 
-- die Entscheidung über Schulveranstaltungen unter Bedachtnahme  auf die pädagogischen Erfordernisse und die vorstehenden Z 1 bis 3 an Organe der Schule zu übertragen.
+4. die Entscheidung über Schulveranstaltungen unter Bedachtnahme auf die pädagogischen Erfordernisse und die vorstehenden Z 1 bis 3 an Organe der Schule zu übertragen.
 
-- Die Schüler sind zur Teilnahme an Schulveranstaltungen ohne Rücksicht darauf verpflichtet, ob die Veranstaltung innerhalb oder außerhalb der Schulliegenschaften stattfindet, sofern nicht
+(3) Die Schüler sind zur Teilnahme an Schulveranstaltungen ohne Rücksicht darauf verpflichtet, ob die Veranstaltung innerhalb oder außerhalb der Schulliegenschaften stattfindet, sofern nicht
 
-- die Vorschriften über das Fernbleiben von der Schule (§ 45) anzuwenden sind oder
+1. die Vorschriften über das Fernbleiben von der Schule (§ 45) anzuwenden sind oder
 
-- der  Schulleiter  nach  Anhörung  der  Klassenkonferenz  einen  Schüler  von  der  Teilnahme  an  der Schulveranstaltung ausgeschlossen hat oder
+2. der Schulleiter nach Anhörung der Klassenkonferenz einen Schüler von der Teilnahme an der Schulveranstaltung ausgeschlossen hat oder
 
-- mit der Veranstaltung eine Nächtigung außerhalb des Wohnortes verbunden ist.
+3. mit der Veranstaltung eine Nächtigung außerhalb des Wohnortes verbunden ist.
 
-Ein  Ausschluss  gemäß  Z 2  darf  nur  dann  erfolgen,  wenn  auf  Grund  des  bisherigen  Verhaltens  des Schülers eine Gefährdung der Sicherheit des Schülers oder anderer Personen mit großer Wahrscheinlichkeit zu erwarten ist.
+Ein Ausschluss gemäß Z 2 darf nur dann erfolgen, wenn auf Grund des bisherigen Verhaltens des Schülers eine Gefährdung der Sicherheit des Schülers oder anderer Personen mit großer Wahrscheinlichkeit zu erwarten ist.
 
 (4) Schüler, die aus dem Grunde des Abs. 3 Z 2 und 3 an einer Schulveranstaltung nicht teilnehmen, sind  vom  Schulleiter  nach  Möglichkeit  einer  anderen  Klasse  zu  einem  ersatzweisen  Schulbesuch zuzuweisen.  Die  Beurteilung  der  Erreichung  des  Lehrzieles  der  betreffenden  Schulstufe  hat  ohne Rücksicht auf die Nichtteilnahme an der Schulveranstaltung zu erfolgen.
 
@@ -384,13 +384,13 @@ Seite 9 von 71
 
 Bundesrecht konsolidiert
 
-- Die Teilnahme an schulbezogenen Veranstaltungen bedarf der vorhergehenden Anmeldung durch den Schüler. Die Teilnahme ist zu untersagen, wenn
+(2) Die Teilnahme an schulbezogenen Veranstaltungen bedarf der vorhergehenden Anmeldung durch den Schüler. Die Teilnahme ist zu untersagen, wenn
 
-- der Schüler die für die Teilnahme an der schulbezogenen Veranstaltung erforderlichen Voraussetzungen nicht erbringt oder
+1. der Schüler die für die Teilnahme an der schulbezogenen Veranstaltung erforderlichen Voraussetzungen nicht erbringt oder
 
-- wenn  auf  Grund  des  bisherigen  Verhaltens  des  Schülers  eine  Gefährdung  der  Sicherheit  des Schülers oder anderer Personen mit großer Wahrscheinlichkeit zu erwarten ist oder
+2. wenn auf Grund des bisherigen Verhaltens des Schülers eine Gefährdung der Sicherheit des Schülers oder anderer Personen mit großer Wahrscheinlichkeit zu erwarten ist oder
 
-- durch  die  Teilnahme  an  der  schulbezogenen  Veranstaltung  der  erfolgreiche  Abschluss  der Schulstufe in Frage gestellt erscheint.
+3. durch die Teilnahme an der schulbezogenen Veranstaltung der erfolgreiche Abschluss der Schulstufe in Frage gestellt erscheint.
 
 Zuständig für die Annahme der Anmeldung und für die Untersagung ist der Schulleiter oder ein von ihm hiezu beauftragter Lehrer; die Untersagung hat nach Anhörung der Klassenkonferenz unter Angabe des Grundes zu erfolgen.
 
@@ -442,11 +442,11 @@ Bundesrecht konsolidiert
 
 § 15. (1) Bevor der zuständige Bundesminister ein Unterrichtsmittel als für den Unterrichtsgebrauch geeignet erklärt (§ 14 Abs. 5), hat er ein Gutachten einer Gutachterkommission
 
-- über das Vorliegen der Voraussetzungen nach § 14 Abs. 2,
+1. über das Vorliegen der Voraussetzungen nach § 14 Abs. 2,
 
-- zur Feststellung der Zweckmäßigkeit des Einsatzes des Unterrichtsmittels im Unterricht und
+2. zur Feststellung der Zweckmäßigkeit des Einsatzes des Unterrichtsmittels im Unterricht und
 
-- zur Feststellung, auf welche Weise das Unterrichtsmittel zur Erlangung von fächerübergreifenden Bildungszielen und Kompetenzen im Sinne der Aufgaben der österreichischen Schule (§ 2 des Schulorganisationsgesetzes) beiträgt,
+3. zur Feststellung, auf welche Weise das Unterrichtsmittel zur Erlangung von fächerübergreifenden Bildungszielen und Kompetenzen im Sinne der Aufgaben der österreichischen Schule (§ 2 des Schulorganisationsgesetzes) beiträgt,
 
 einzuholen, sofern es sich nicht um Hörfunk- oder Fernsehsendungen handelt, an deren Herstellung ein Vertreter des zuständigen Bundesministeriums als Berater teilgenommen hat.
 
@@ -458,9 +458,9 @@ einzuholen, sofern es sich nicht um Hörfunk- oder Fernsehsendungen handelt, an 
 
 (5) Der zuständige Bundesminister kann durch Verordnung ein gegenüber Abs. 1 bis 4 abgekürztes Verfahren vorsehen, wenn
 
-- es sich um Aktualisierungen oder Neuauflagen von bereits als geeignet erklärten Unterrichtsmitteln handelt oder
+1. es sich um Aktualisierungen oder Neuauflagen von bereits als geeignet erklärten Unterrichtsmitteln handelt oder
 
-- keine  zureichende  Aussicht  auf  Feststellung  der  Eignung  des  Unterrichtsmittels  nach  den Kriterien des § 14 Abs. 2 oder des § 15 Abs. 1 Z 2 oder 3 besteht.
+2. keine zureichende Aussicht auf Feststellung der Eignung des Unterrichtsmittels nach den Kriterien des § 14 Abs. 2 oder des § 15 Abs. 1 Z 2 oder 3 besteht.
 
 Im Fall der Feststellung der Nichteignung eines Unterrichtsmittels im abgekürzten Verfahren nach Z 2 kann der Urheber, Herausgeber, Verleger oder Hersteller einen nochmaligen Antrag gemäß § 14 Abs. 5 stellen, der einem Verfahren gemäß Abs. 1 bis 4 zuzuführen ist.
 
@@ -508,13 +508,13 @@ Seite 12 von 71
 
 Bundesrecht konsolidiert
 
-- Für Kinder, bei denen gemäß § 8 Abs. 1 des Schulpflichtgesetzes 1985 ein sonderpädagogischer Förderbedarf festgestellt wurde, hat unter Bedachtnahme auf diese Feststellung
+(4) Für Kinder, bei denen gemäß § 8 Abs. 1 des Schulpflichtgesetzes 1985 ein sonderpädagogischer Förderbedarf festgestellt wurde, hat unter Bedachtnahme auf diese Feststellung
 
-- der Landesschulrat zu entscheiden, ob und in welchem Ausmaß der Schüler nach dem Lehrplan einer anderen Schulart zu unterrichten ist,
+a) der Landesschulrat zu entscheiden, ob und in welchem Ausmaß der Schüler nach dem Lehrplan einer anderen Schulart zu unterrichten ist,
 
-- die Schulkonferenz zu entscheiden, ob und in welchen Unterrichtsgegenständen der Schüler nach dem Lehrplan einer anderen Schulstufe, als der seinem Alter entsprechenden, zu unterrichten ist.
+b) die Schulkonferenz zu entscheiden, ob und in welchen Unterrichtsgegenständen der Schüler nach dem Lehrplan einer anderen Schulstufe, als der seinem Alter entsprechenden, zu unterrichten ist.
 
-Bei  der  Entscheidung  gemäß  lit. a  und  b  ist  anzustreben,  daß  der  Schüler  die  für  ihn  bestmögliche Förderung erhält.
+Bei der Entscheidung gemäß lit. a und b ist anzustreben, daß der Schüler die für ihn bestmögliche Förderung erhält.
 
 (5)  Innerhalb  der  Grundstufe  I  der  Volksschule  und  der  nach  dem  Lehrplan  der  Volksschule geführten Sonderschule sowie weiters innerhalb der ersten drei Schulstufen der Allgemeinen Sonderschule  sind  die  Schüler  berechtigt,  während  des  Unterrichtsjahres  in  die  nächsthöhere  oder nächstniedrigere Schulstufe zu wechseln, wenn dadurch der Lernsituation des Schülers eher entsprochen wird und eine Unter- oder Überforderung in körperlicher oder geistiger Hinsicht nicht zu befürchten ist. Über den Wechsel von Schulstufen während des Unterrichtsjahres hat die Schulkonferenz auf Antrag der Erziehungsberechtigten oder des Klassenlehrers zu entscheiden. Diese Entscheidung ist den Erziehungsberechtigten unverzüglich unter Angabe der Gründe und einer Belehrung über die Widerspruchsmöglichkeit bekanntzugeben.
 
@@ -524,11 +524,11 @@ Bei  der  Entscheidung  gemäß  lit. a  und  b  ist  anzustreben,  daß  der  S
 
 (2)  Für  die  Beurteilung  der  Leistungen  der  Schüler  sind  folgende  Beurteilungsstufen  (Noten)  zu verwenden:  Sehr  gut  (1),  Gut  (2),  Befriedigend  (3),  Genügend  (4),  Nicht  genügend  (5). In  der Volksschule  und  der  Sonderschule  sowie  an  der  Neuen  Mittelschule  kann  das  Klassenforum  oder  das Schulforum beschließen, dass der Beurteilung der Leistungen durch Noten eine schriftliche Erläuterung hinzuzufügen ist.
 
-(2a)  In  der  7.  und  8.  Schulstufe  der  Neuen  Mittelschule  haben  Leistungsfeststellungen  und  beurteilungen  in  den  differenzierten  Pflichtgegenständen  nach  den  Anforderungen  des  Lehrplans  nach grundlegenden und vertieften Gesichtspunkten zu erfolgen. Leistungsfeststellungen haben die Beurteilung nach  den  Anforderungen  der  grundlegenden  oder  der  vertieften  Allgemeinbildung  auszuweisen.  Die Beurteilung im Rahmen der vertieften Allgemeinbildung kann nicht schlechter als 'Genügend' sein und setzt  voraus,  dass  die  Anforderungen  im  Bereich  der  grundlegenden  Allgemeinbildung  mindestens  mit 'Gut'  zu  beurteilen  sind,  anderenfalls  hat  lediglich  eine  Beurteilung  nach  den  Anforderungen  der grundlegenden Allgemeinbildung zu erfolgen.
+(2a) In der 7. und 8. Schulstufe der Neuen Mittelschule haben Leistungsfeststellungen und -beurteilungen in den differenzierten Pflichtgegenständen nach den Anforderungen des Lehrplans nach grundlegenden und vertieften Gesichtspunkten zu erfolgen. Leistungsfeststellungen haben die Beurteilung nach den Anforderungen der grundlegenden oder der vertieften Allgemeinbildung auszuweisen. Die Beurteilung im Rahmen der vertieften Allgemeinbildung kann nicht schlechter als „Genügend“ sein und setzt voraus, dass die Anforderungen im Bereich der grundlegenden Allgemeinbildung mindestens mit „Gut“ zu beurteilen sind, anderenfalls hat lediglich eine Beurteilung nach den Anforderungen der grundlegenden Allgemeinbildung zu erfolgen.
 
-(3)  Durch  die  Noten  ist  die  Selbständigkeit  der  Arbeit,  die  Erfassung  und  die  Anwendung  des Lehrstoffes, die Durchführung der Aufgaben und die Eigenständigkeit des Schülers zu beurteilen.
+(3) Durch die Noten ist die Selbständigkeit der Arbeit, die Erfassung und die Anwendung des Lehrstoffes, die Durchführung der Aufgaben und die Eigenständigkeit des Schülers zu beurteilen.
 
-- Vorgetäuschte Leistungen sind nicht zu beurteilen.
+(4) Vorgetäuschte Leistungen sind nicht zu beurteilen.
 
 (5)  Das  Verhalten  des  Schülers  in  der  Schule  (§ 21)  darf  in  die  Leistungsbeurteilung  nicht einbezogen werden.
 
@@ -552,7 +552,7 @@ Bundesrecht konsolidiert
 
 (10)  Der  zuständige  Bundesminister  hat  durch  Verordnung  nach  den  Aufgaben  der  einzelnen Schularten und nach der Art der einzelnen Unterrichtsgegenstände nähere Bestimmungen für den Aufbau und  die  Durchführung  von  Leistungsfeststellungen  und  die  Beurteilung  der  Leistungen  der  Schüler  zu erlassen.
 
-(11)  Wenn  die  Leistungen  von  mehr  als  der  Hälfte  der  Schüler  bei  einer  schriftlichen  oder graphischen  Leistungsfeststellung  mit  'Nicht  genügend'  zu  beurteilen  sind,  so  ist  sie  mit  neuer Aufgabenstellung  ein  Mal  zu  wiederholen.  Als  Grundlage  für  die  Beurteilung  ist  in  diesem  Falle  jene Leistungsfeststellung heranzuziehen, bei der der Schüler die bessere Leistung erbracht hat.
+(11) Wenn die Leistungen von mehr als der Hälfte der Schüler bei einer schriftlichen oder graphischen Leistungsfeststellung mit „Nicht genügend” zu beurteilen sind, so ist sie mit neuer Aufgabenstellung ein Mal zu wiederholen. Als Grundlage für die Beurteilung ist in diesem Falle jene Leistungsfeststellung heranzuziehen, bei der der Schüler die bessere Leistung erbracht hat.
 
 (12) Auf Antrag eines Schülers, dessen Muttersprache nicht die Unterrichtssprache der betreffenden Schule ist, hat der Schulleiter zu bestimmen, daß hinsichtlich der Beurteilung die Unterrichtssprache an die Stelle der lebenden Fremdsprache tritt, wenn eine lebende Fremdsprache als Pflichtgegenstand in der betreffenden Schulstufe lehrplanmäßig vorgesehen ist; der Schüler hat in seiner Muttersprache Leistungen nachzuweisen, die jenen eines Schülers deutscher Muttersprache im Pflichtgegenstand Deutsch entsprechen,  allenfalls  auch  im  Wege  von  Externistenprüfungen  (§ 42),  sofern  die  Durchführung  von Prüfungen in der betreffenden Sprache möglich ist. Dasselbe gilt sinngemäß für die Pflichtgegenstände Kaufmännischer  Schriftverkehr,  Phonotypie,  Textverarbeitung,  Kurzschrift  und  Maschinschreiben.  Das Jahreszeugnis  ist mit  einem  entsprechenden  Vermerk  zu  versehen.  Dieser  Absatz  gilt  nicht  für Bildungsanstalten für Kindergartenpädagogik und für Bildungsanstalten für Sozialpädagogik.
 
@@ -568,7 +568,7 @@ Abs. 2 tritt mit 10.7.2014 und Abs. 3a mit 15.2.2012, hinsichtlich der 10. Schul
 
 (1a)  An  der  Neuen  Mittelschule  sind  darüber  hinaus  regelmäßige  Gespräche  zwischen  Lehrer, Erziehungsberechtigten und Schüler vorzusehen, in denen  die Leistungsstärken und der Leistungsstand des  Schülers,  auf  der  7.  und  8.  Schulstufe  insbesondere  auch  in  Hinblick  auf  das  Bildungsziel  der vertieften Allgemeinbildung, gemeinsam zu erörtern sind.
 
-(2) Am  Ende  des ersten Semesters, ausgenommen  der  Vorschulstufe, der lehrgangsund saisonmäßigen Berufsschulen sowie der 10. bis 13. Schulstufe von zumindest dreijährigen mittleren und höheren Schulen, ist für jeden Schüler eine Schulnachricht auszustellen. Am Ende des ersten Semesters der 10. bis 13. Schulstufe von zumindest dreijährigen mittleren und höheren Schulen ist nach Maßgabe der Bestimmungen des § 22a ein Semesterzeugnis über das betreffende Wintersemester auszustellen. Die Schulnachricht hat die Noten des Schülers in den einzelnen Unterrichtsgegenständen (§ 18) zu enthalten. Sofern der Unterricht in Leistungsgruppen erfolgt, ist zur Note auch die bisher besuchte Leistungsgruppe und im Falle der Umstufung in eine andere Leistungsgruppe mit dem Ende des ersten Semesters auch die neue Leistungsgruppe anzugeben; an Berufsschulen entfällt die Angabe der Leistungsgruppe, doch ist im Falle  des  Besuches  von  Pflichtgegenständen  mit  erweitertem  oder  vertieftem  Bildungsangebot  (§ 47 Abs. 3 des Schulorganisationsgesetzes) ein diesbezüglicher Vermerk  aufzunehmen, sofern dieser Vermerk  nicht  wegen  der  besonderen  Bezeichnung  dieser  Pflichtgegenstände  entbehrlich  ist.  Die Schulnachricht der Neuen  Mittelschule hat in der 7. und 8. Schulstufe in den differenzierten Pflichtgegenständen  die  Beurteilungen  mit  einem  entsprechenden  Zusatz  der  grundlegenden  oder  der vertieften Allgemeinbildung anzuführen. Im Falle des § 31d ist ein diesbezüglicher Vermerk aufzunehmen.  Sofern  für  Schüler  mit  sonderpädagogischem  Förderbedarf  Lehrpläne  verschiedener Schularten oder Schulstufen Anwendung finden, sind Abweichungen vom Lehrplan der Schulart und der Schulstufe, die der Schüler besucht, zu vermerken. Ferner hat die Schulnachricht die Note des Schülers für das Verhalten in der Schule (§ 21) zu enthalten. Für verbindliche und unverbindliche Übungen sowie für therapeutische und funktionelle Übungen sind nur Teilnahmevermerke aufzunehmen. Der zuständige Bundesminister kann durch Verordnung für die erste oder die ersten beiden Stufen der Volksschule und für Sonderschulen mit Klassenlehrersystem bestimmen, daß für alle oder mehrere Unterrichtsgegenstände, ausgenommen Religion, nur eine Gesamtnote einzutragen ist. In Sonderschulen für  schwerstbehinderte  Kinder  ist  anstelle  der  Noten  der  erreichte  Entwicklungsstand  des  Schülers darzustellen; dies gilt auch in Sonderschulen für mehrfach behinderte Kinder, wenn Arten und Ausmaß der Mehrfachbehinderung diese Form der Beurteilung erforderlich machen.
+(2) Am Ende des ersten Semesters, ausgenommen der Vorschulstufe, der lehrgangs- und saisonmäßigen Berufsschulen sowie der 10. bis 13. Schulstufe von zumindest dreijährigen mittleren und höheren Schulen, ist für jeden Schüler eine Schulnachricht auszustellen. Am Ende des ersten Semesters der 10. bis 13. Schulstufe von zumindest dreijährigen mittleren und höheren Schulen ist nach Maßgabe der Bestimmungen des § 22a ein Semesterzeugnis über das betreffende Wintersemester auszustellen. Die Schulnachricht hat die Noten des Schülers in den einzelnen Unterrichtsgegenständen (§ 18) zu enthalten. Sofern der Unterricht in Leistungsgruppen erfolgt, ist zur Note auch die bisher besuchte Leistungsgruppe und im Falle der Umstufung in eine andere Leistungsgruppe mit dem Ende des ersten Semesters auch die neue Leistungsgruppe anzugeben; an Berufsschulen entfällt die Angabe der Leistungsgruppe, doch ist im Falle des Besuches von Pflichtgegenständen mit erweitertem oder vertieftem Bildungsangebot (§ 47 Abs. 3 des Schulorganisationsgesetzes) ein diesbezüglicher Vermerk aufzunehmen, sofern dieser Vermerk nicht wegen der besonderen Bezeichnung dieser Pflichtgegenstände entbehrlich ist. Die
 
 www.ris.bka.gv.at
 
@@ -580,13 +580,15 @@ Seite 14 von 71
 
 Bundesrecht konsolidiert
 
+Schulnachricht der Neuen Mittelschule hat in der 7. und 8. Schulstufe in den differenzierten Pflichtgegenständen die Beurteilungen mit einem entsprechenden Zusatz der grundlegenden oder der vertieften Allgemeinbildung anzuführen. Im Falle des § 31d ist ein diesbezüglicher Vermerk aufzunehmen. Sofern für Schüler mit sonderpädagogischem Förderbedarf Lehrpläne verschiedener Schularten oder Schulstufen Anwendung finden, sind Abweichungen vom Lehrplan der Schulart und der Schulstufe, die der Schüler besucht, zu vermerken. Ferner hat die Schulnachricht die Note des Schülers für das Verhalten in der Schule (§ 21) zu enthalten. Für verbindliche und unverbindliche Übungen sowie für therapeutische und funktionelle Übungen sind nur Teilnahmevermerke aufzunehmen. Der zuständige Bundesminister kann durch Verordnung für die erste oder die ersten beiden Stufen der Volksschule und für Sonderschulen mit Klassenlehrersystem bestimmen, daß für alle oder mehrere Unterrichtsgegenstände, ausgenommen Religion, nur eine Gesamtnote einzutragen ist. In Sonderschulen für schwerstbehinderte Kinder ist anstelle der Noten der erreichte Entwicklungsstand des Schülers darzustellen; dies gilt auch in Sonderschulen für mehrfach behinderte Kinder, wenn Arten und Ausmaß der Mehrfachbehinderung diese Form der Beurteilung erforderlich machen.
+
 (2a)  An  allgemein  bildenden  höheren  Schulen  ist  in  der  letzten  Stufe  abweichend  von  Abs. 2  am Ende des ersten Semesters keine Schulnachricht auszustellen.
 
 (2b) (Anm.: aufgehoben durch BGBl. I Nr. 117/2008)
 
 (3)  Wenn  die  Leistungen  eines  Schülers  allgemein  oder  in  einzelnen  Unterrichtsgegenständen  in besonderer Weise nachlassen, hat der Klassenvorstand oder der Lehrer des betreffenden Unterrichtsgegenstandes mit den Erziehungsberechtigten Verbindung aufzunehmen.
 
-(3a)  Wenn  die  Leistungen  des  Schülers  auf  Grund  der  bisher  erbrachten  Leistungen  in  einem Pflichtgegenstand  zum  Ende  eines  Semesters  mit  'Nicht  genügend'  zu  beurteilen  wären,  ist  dies  den Erziehungsberechtigten ab November bzw. ab April unverzüglich mitzuteilen und dem Schüler sowie den Erziehungsberechtigten  vom  Klassenvorstand  oder  vom  unterrichtenden  Lehrer  Gelegenheit  zu  einem beratenden  Gespräch  zu  geben  (Frühwarnsystem).  Dabei  sind  insbesondere  Fördermaßnahmen  zur Vermeidung  dieser  negativen Beurteilung (zB Analyse  der Lerndefizite unter Einbeziehung  der individuellen Lernund Leistungsstärken, Fördermöglichkeiten, Förderunterrichtsangebote, Leistungsnachweise) zu erarbeiten und zu vereinbaren. Dies gilt für Berufsschulen mit der Maßgabe, dass die Verständigung auch an die Lehrberechtigten zu ergehen hat und an lehrgangsmäßigen Berufsschulen dann  unmittelbar  zu  erfolgen  hat,  wenn  die  Leistungen  des  Schülers  auf  Grund  der  bisher  erbrachten Leistungen in einem Pflichtgegenstand zum Ende eines Lehrganges mit 'Nicht genügend' zu beurteilen wären.  Ab  der  10.  Schulstufe  von  zumindest  dreijährigen  mittleren  und  höheren  Schulen  sind  auch Unterstützungsmöglichkeiten in Form einer individuellen Lernbegleitung zu erörtern.
+(3a) Wenn die Leistungen des Schülers auf Grund der bisher erbrachten Leistungen in einem Pflichtgegenstand zum Ende eines Semesters mit „Nicht genügend“ zu beurteilen wären, ist dies den Erziehungsberechtigten ab November bzw. ab April unverzüglich mitzuteilen und dem Schüler sowie den Erziehungsberechtigten vom Klassenvorstand oder vom unterrichtenden Lehrer Gelegenheit zu einem beratenden Gespräch zu geben (Frühwarnsystem). Dabei sind insbesondere Fördermaßnahmen zur Vermeidung dieser negativen Beurteilung (zB Analyse der Lerndefizite unter Einbeziehung der individuellen Lern- und Leistungsstärken, Fördermöglichkeiten, Förderunterrichtsangebote, Leistungsnachweise) zu erarbeiten und zu vereinbaren. Dies gilt für Berufsschulen mit der Maßgabe, dass die Verständigung auch an die Lehrberechtigten zu ergehen hat und an lehrgangsmäßigen Berufsschulen dann unmittelbar zu erfolgen hat, wenn die Leistungen des Schülers auf Grund der bisher erbrachten Leistungen in einem Pflichtgegenstand zum Ende eines Lehrganges mit „Nicht genügend“ zu beurteilen wären. Ab der 10. Schulstufe von zumindest dreijährigen mittleren und höheren Schulen sind auch Unterstützungsmöglichkeiten in Form einer individuellen Lernbegleitung zu erörtern.
 
 (3b)  Wenn  darüber  hinaus  die  Leistungen  eines  Schülers  in  der  7.  und  8.  Schulstufe  der  Neuen Mittelschule in der Vertiefung eines differenzierten Pflichtgegenstandes in dem Ausmaß nachlassen, dass er  am  Ende  des  Jahres  nur  mehr  nach  den  Anforderungen  der  grundlegenden  Allgemeinbildung  zu beurteilen wäre, ist dies den Erziehungsberechtigten unverzüglich mitzuteilen und dem Schüler sowie den Erziehungsberechtigten  vom  Klassenvorstand  oder  vom  unterrichtenden  Lehrer  Gelegenheit  zu  einem beratenden Gespräch über die Fördermöglichkeiten im Sinne des Abs. 3a zu geben. § 12 Abs. 6a ist zu beachten.
 
@@ -630,7 +632,7 @@ Tritt hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und
 
 (6)  Im  Zeitraum  von Mittwoch bis Freitag der zweiten Woche vor Ende des Unterrichtsjahres hat eine  Klassenkonferenz  zur  Beratung  über  die  Leistungsbeurteilung  der  Schüler  stattzufinden.  Die Entscheidungen der Klassenkonferenz über die Nichtberechtigung zum  Aufsteigen in die nächsthöhere Schulstufe  oder  den  nicht  erfolgreichen  Abschluß  der  letzten  Stufe  der  besuchten  Schulart  (§ 25)  sind spätestens  am  folgenden  Tag  unter  Angabe  der  Gründe  und  Beifügung  einer  Belehrung  über  die Widerspruchsmöglichkeit dem Schüler bekanntzugeben.
 
-(6a) Weiters hat die Klassenkonferenz gemäß Abs. 6 an der Neuen Mittelschule in der 8. Schulstufe nach  Maßgabe  der  Aufnahmsvoraussetzungen  des  Schulorganisationsgesetzes  festzustellen,  ob  die Berechtigungen zum Übertritt in eine mindestens dreijährige mittlere Schule oder in eine höhere Schule allenfalls unter der Bedingung der erfolgreichen Ablegung einer Wiederholungsprüfung - vorliegt. Dabei sind  die  Beurteilungen  in  den  übrigen  Unterrichtsgegenständen  sowie  die  ergänzende  differenzierende Leistungsbeschreibung gemäß § 22 Abs. 1a zu berücksichtigen. Die Entscheidungen der Klassenkonferenz  über  die  Nichtberechtigung  zum  Übertritt  in  eine  der  genannten  Schulen  sind spätestens am folgenden Tag unter Angabe der Gründe dem Schüler bekanntzugeben.
+(6a) Weiters hat die Klassenkonferenz gemäß Abs. 6 an der Neuen Mittelschule in der 8. Schulstufe nach Maßgabe der Aufnahmsvoraussetzungen des Schulorganisationsgesetzes festzustellen, ob die Berechtigungen zum Übertritt in eine mindestens dreijährige mittlere Schule oder in eine höhere Schule – allenfalls unter der Bedingung der erfolgreichen Ablegung einer Wiederholungsprüfung – vorliegt. Dabei sind die Beurteilungen in den übrigen Unterrichtsgegenständen sowie die ergänzende differenzierende Leistungsbeschreibung gemäß § 22 Abs. 1a zu berücksichtigen. Die Entscheidungen der Klassenkonferenz über die Nichtberechtigung zum Übertritt in eine der genannten Schulen sind spätestens am folgenden Tag unter Angabe der Gründe dem Schüler bekanntzugeben.
 
 www.ris.bka.gv.at
 
@@ -670,17 +672,17 @@ Abs. 1: Tritt mit Ablauf des 14. Februar 2012, hinsichtlich der 10. Schulstufen 
 
 (2) Das Jahreszeugnis hat insbesondere zu enthalten:
 
-- die Bezeichnung, Form bzw. Fachrichtung der Schulart und den Standort der Schule;
+a) die Bezeichnung, Form bzw. Fachrichtung der Schulart und den Standort der Schule;
 
-- die Personalien des Schülers;
+b) die Personalien des Schülers;
 
-- die besuchte Schulstufe und die Bezeichnung der Klasse (des Jahrganges);
+c) die besuchte Schulstufe und die Bezeichnung der Klasse (des Jahrganges);
 
-- die Unterrichtsgegenstände der betreffenden Schulstufe und die Beurteilung der darin erbrachten Leistungen  (§ 20),  sofern  der  Unterricht  in  Leistungsgruppen  erfolgt,  auch  die  Angabe  der Leistungsgruppe; an Berufsschulen entfällt die  Angabe der Leistungsgruppe, doch ist im Falle des  Besuches  von  Pflichtgegenständen  mit  erweitertem  oder  vertieftem  Bildungsangebot  (§ 47 Abs. 3 des Schulorganisationsgesetzes) ein diesbezüglicher Vermerk aufzunehmen, sofern dieser Vermerk nicht wegen der besonderen Bezeichnung dieser Pflichtgegenstände entbehrlich ist; in der 7. und 8. Schulstufe der Neuen Mittelschule sind in den differenzierten Pflichtgegenständen die  Beurteilungen  mit  einem  entsprechenden  Zusatz  der  grundlegenden  oder  der  vertieften Allgemeinbildung anzuführen; im Falle des § 31d ist ein diesbezüglicher Vermerk aufzunehmen;
+d) die Unterrichtsgegenstände der betreffenden Schulstufe und die Beurteilung der darin erbrachten Leistungen (§ 20), sofern der Unterricht in Leistungsgruppen erfolgt, auch die Angabe der Leistungsgruppe; an Berufsschulen entfällt die Angabe der Leistungsgruppe, doch ist im Falle des Besuches von Pflichtgegenständen mit erweitertem oder vertieftem Bildungsangebot (§ 47 Abs. 3 des Schulorganisationsgesetzes) ein diesbezüglicher Vermerk aufzunehmen, sofern dieser Vermerk nicht wegen der besonderen Bezeichnung dieser Pflichtgegenstände entbehrlich ist; in der 7. und 8. Schulstufe der Neuen Mittelschule sind in den differenzierten Pflichtgegenständen die Beurteilungen mit einem entsprechenden Zusatz der grundlegenden oder der vertieften Allgemeinbildung anzuführen; im Falle des § 31d ist ein diesbezüglicher Vermerk aufzunehmen;
 
 e) die Beurteilung des Verhaltens des Schülers in der Schule nach Maßgabe des § 21 Abs. 1;
 
-- allfällige Beurkundungen über
+f) allfällige Beurkundungen über
 
 www.ris.bka.gv.at
 
@@ -702,29 +704,27 @@ Bundesrecht konsolidiert
 
 - dd) die  Beendigung  des  Schulbesuches  wegen  Überschreitens  der  zulässigen  Höchstdauer  (§ 33 Abs. 2 lit. d);
 
-- die Feststellung, daß der Schüler die Schulstufe mit ausgezeichnetem Erfolg abgeschlossen hat, wenn  er  in  mindestens  der  Hälfte  der  Pflichtgegenstände  mit  'Sehr  gut'  und  in  den  übrigen Pflichtgegenständen  mit  'Gut'  beurteilt  wurde,  wobei  Beurteilungen  mit  'Befriedigend'  diese Feststellung nicht hindern, wenn dafür gleich viele Beurteilungen mit 'Sehr gut' über die Hälfte der  Pflichtgegenstände  hinaus  vorliegen;  in  der  Neuen  Mittelschule  setzt  die  Feststellung  des ausgezeichneten  Erfolges  in  der  7.  und  8.  Schulstufe  eine  entsprechende  Beurteilung  in  der Vertiefung  sämtlicher  differenzierter  Pflichtgegenstände  voraus;  in  der  Volksschule  und  den Sonderschulen (ausgenommen die Sonderschulen nach dem Lehrplan der Hauptschule oder der Neuen Mittelschule und der Polytechnischen Schule) ist die Feststellung
+g) die Feststellung, daß der Schüler die Schulstufe mit ausgezeichnetem Erfolg abgeschlossen hat, wenn er in mindestens der Hälfte der Pflichtgegenstände mit „Sehr gut” und in den übrigen Pflichtgegenständen mit „Gut” beurteilt wurde, wobei Beurteilungen mit „Befriedigend” diese Feststellung nicht hindern, wenn dafür gleich viele Beurteilungen mit „Sehr gut” über die Hälfte der Pflichtgegenstände hinaus vorliegen; in der Neuen Mittelschule setzt die Feststellung des ausgezeichneten Erfolges in der 7. und 8. Schulstufe eine entsprechende Beurteilung in der Vertiefung sämtlicher differenzierter Pflichtgegenstände voraus; in der Volksschule und den Sonderschulen (ausgenommen die Sonderschulen nach dem Lehrplan der Hauptschule oder der Neuen Mittelschule und der Polytechnischen Schule) ist die Feststellung des ausgezeichneten Erfolges nicht zu treffen; an Schularten mit Leistungsgruppen ist hiebei ein „Befriedigend” in der höchsten Leistungsgruppe als „Gut” bzw. ein „Gut” als „Sehr gut” zu bewerten; an Schularten mit drei Leistungsgruppen ist diese Feststellung nur zu treffen, wenn
 
-- des ausgezeichneten Erfolges nicht zu treffen; an Schularten mit Leistungsgruppen ist hiebei ein 'Befriedigend'  in  der  höchsten  Leistungsgruppe  als  'Gut'  bzw.  ein  'Gut'  als  'Sehr  gut'  zu bewerten; an Schularten mit drei Leistungsgruppen ist diese Feststellung nur zu treffen, wenn
+aa) das Jahreszeugnis in leistungsdifferenzierten Pflichtgegenständen in der mittleren Leistungsgruppe keine schlechtere Beurteilung als „Gut” aufweist und das Jahreszeugnis - mit Ausnahme des Jahreszeugnisses der jeweils letzten Stufe der betreffenden Schulart - den Vermerk enthält, daß der Schüler im nächsten Unterrichtsjahr in den leistungsdifferenzierten Pflichtgegenständen die höchste Leistungsgruppe zu besuchen hat,
 
-- aa) das Jahreszeugnis in leistungsdifferenzierten Pflichtgegenständen in der mittleren Leistungsgruppe keine schlechtere Beurteilung als 'Gut' aufweist und das Jahreszeugnis - mit Ausnahme  des  Jahreszeugnisses  der  jeweils  letzten  Stufe  der  betreffenden  Schulart  -  den Vermerk enthält, daß der Schüler im nächsten Unterrichtsjahr in den leistungsdifferenzierten Pflichtgegenständen die höchste Leistungsgruppe zu besuchen hat,
+bb) der Schüler in keinem leistungsdifferenzierten Pflichtgegenstand den Unterricht am Ende des Unterrichtsjahres in der niedrigsten Leistungsgruppe besucht hat;
 
-- bb) der Schüler in keinem leistungsdifferenzierten Pflichtgegenstand den Unterricht am Ende des Unterrichtsjahres in der niedrigsten Leistungsgruppe besucht hat;
+an Berufsschulen ist ein „Befriedigend” in einem Pflichtgegenstand mit erweitertem oder vertieftem Bildungsangebot als „Gut” bzw. ein „Gut” als „Sehr gut” zu bewerten, sofern dieses Bildungsangebot nicht in einem zusätzlichen Pflichtgegenstand erfolgt;
 
-- an  Berufsschulen  ist  ein  'Befriedigend'  in  einem  Pflichtgegenstand  mit  erweitertem  oder vertieftem Bildungsangebot als 'Gut' bzw. ein 'Gut' als 'Sehr gut' zu bewerten, sofern dieses Bildungsangebot nicht in einem zusätzlichen Pflichtgegenstand erfolgt;
+h) die Feststellung, daß der Schüler die Schulstufe mit gutem Erfolg abgeschlossen hat, wenn er in keinem Pflichtgegenstand schlechter als mit „Befriedigend” beurteilt worden ist und mindestens gleich viele Beurteilungen mit „Sehr gut” aufweist wie mit „Befriedigend”; in der Neuen Mittelschule setzt die Feststellung des guten Erfolges in der 7. und 8. Schulstufe eine entsprechende Beurteilung in der Vertiefung sämtlicher differenzierter Pflichtgegenstände voraus; in der Volksschule und den Sonderschulen (ausgenommen die Sonderschulen nach dem Lehrplan der Hauptschule oder der Neuen Mittelschule und der Polytechnischen Schule) ist die Feststellung des guten Erfolges nicht zu treffen; an Schularten mit Leistungsgruppen ist hiebei ein „Befriedigend” in der höchsten Leistungsgruppe als „Gut” bzw. ein „Gut” als „Sehr gut” zu bewerten; an Schularten mit drei Leistungsgruppen ist diese Feststellung nur zu treffen, wenn
 
-- die Feststellung, daß der Schüler die Schulstufe mit gutem Erfolg abgeschlossen hat, wenn er in keinem Pflichtgegenstand schlechter als mit 'Befriedigend' beurteilt worden ist und mindestens gleich  viele  Beurteilungen  mit  'Sehr  gut'  aufweist  wie  mit  'Befriedigend';  in  der  Neuen Mittelschule  setzt die Feststellung des guten  Erfolges  in der 7. und  8. Schulstufe  eine entsprechende Beurteilung in der Vertiefung sämtlicher differenzierter Pflichtgegenstände voraus; in der Volksschule und den Sonderschulen (ausgenommen die Sonderschulen nach dem Lehrplan der Hauptschule oder der Neuen Mittelschule und der Polytechnischen Schule) ist die Feststellung des guten Erfolges nicht zu treffen; an Schularten mit Leistungsgruppen ist hiebei ein 'Befriedigend' in der höchsten Leistungsgruppe als 'Gut' bzw. ein 'Gut' als 'Sehr gut' zu bewerten; an Schularten mit drei Leistungsgruppen ist diese Feststellung nur zu treffen, wenn
+aa) das Jahreszeugnis in leistungsdifferenzierten Pflichtgegenständen in der mittleren Leistungsgruppe keine schlechtere Beurteilung als „Befriedigend” aufweist und
 
-- aa) das Jahreszeugnis in leistungsdifferenzierten Pflichtgegenständen in der mittleren Leistungsgruppe keine schlechtere Beurteilung als 'Befriedigend' aufweist und
+bb) der Schüler in keinem leistungsdifferenzierten Pflichtgegenstand den Unterricht am Ende des Unterrichtsjahres in der niedrigsten Leistungsgruppe besucht hat;
 
-- bb) der Schüler in keinem leistungsdifferenzierten Pflichtgegenstand den Unterricht am Ende des Unterrichtsjahres in der niedrigsten Leistungsgruppe besucht hat;
+an Berufsschulen ist ein „Befriedigend” in einem Pflichtgegenstand mit erweitertem oder vertieftem Bildungsangebot als „Gut” bzw. ein „Gut” als „Sehr gut” zu bewerten, sofern dieses Bildungsangebot nicht in einem zusätzlichen Pflichtgegenstand erfolgt;
 
-- an  Berufsschulen  ist  ein  'Befriedigend'  in  einem  Pflichtgegenstand  mit  erweitertem  oder vertieftem Bildungsangebot als 'Gut' bzw. ein 'Gut' als 'Sehr gut' zu bewerten, sofern dieses Bildungsangebot nicht in einem zusätzlichen Pflichtgegenstand erfolgt;
+i) sofern für Schüler mit sonderpädagogischem Förderbedarf Lehrpläne verschiedener Schularten oder Schulstufen Anwendung finden, sind Abweichungen vom Lehrplan der Schulart und der Schulstufe, die der Schüler besucht, zu vermerken;
 
-- sofern  für  Schüler  mit  sonderpädagogischem  Förderbedarf  Lehrpläne  verschiedener  Schularten oder  Schulstufen  Anwendung  finden,  sind  Abweichungen  vom  Lehrplan  der  Schulart  und  der Schulstufe, die der Schüler besucht, zu vermerken;
+j) (Anm.: aufgehoben durch BGBl. I Nr. 22/1998)
 
-(Anm.: aufgehoben durch BGBl. I Nr. 22/1998)
-
-- im Falle der Beendigung der allgemeinen Schulpflicht eine diesbezügliche Feststellung;
+k) im Falle der Beendigung der allgemeinen Schulpflicht eine diesbezügliche Feststellung;
 
 www.ris.bka.gv.at
 
@@ -736,7 +736,7 @@ Seite 18 von 71
 
 Bundesrecht konsolidiert
 
-- Ort  und  Datum  der  Ausstellung,  Unterschrift  des  Schulleiters  und  des  Klassenvorstandes, Rundsiegel der Schule.
+l) Ort und Datum der Ausstellung, Unterschrift des Schulleiters und des Klassenvorstandes, Rundsiegel der Schule.
 
 (3)  Für  verbindliche  und  unverbindliche  Übungen  sowie  für  therapeutische  und  funktionelle Übungen sind anstelle der Beurteilung Teilnahmevermerke in das Jahreszeugnis aufzunehmen. Desgleichen  ist  im  Jahreszeugnis  zu  vermerken,  wenn  ein  Schüler  von  der  Teilnahme  an  einem Pflichtgegenstand befreit ist (§ 11 Abs. 6, 7 oder 8).
 
@@ -748,7 +748,7 @@ Bundesrecht konsolidiert
 
 (7) (Anm.: aufgehoben durch BGBl. I Nr. 22/1998)
 
-(8) Im Zeitpunkt des erfolgreichen Abschlusses der letzten Schulstufe einer Schulart oder - im Fall des Überspringens an einer 'Nahtstelle' gemäß § 26a - der vorletzten Schulstufe einer Schulart ist neben dem Jahreszeugnis oder im  Zusammenhang mit diesem ein Abschlusszeugnis auszustellen,  wenn nicht gemäß  § 39  Abs. 1  ein  Zeugnis  über  die  abschließende  Prüfung  auszustellen  ist.  Bei  berufsbildenden Schulen können auch die damit verbundenen gewerblichen Berechtigungen angeführt werden.
+(8) Im Zeitpunkt des erfolgreichen Abschlusses der letzten Schulstufe einer Schulart oder - im Fall des Überspringens an einer “Nahtstelle” gemäß § 26a - der vorletzten Schulstufe einer Schulart ist neben dem Jahreszeugnis oder im Zusammenhang mit diesem ein Abschlusszeugnis auszustellen, wenn nicht gemäß § 39 Abs. 1 ein Zeugnis über die abschließende Prüfung auszustellen ist. Bei berufsbildenden Schulen können auch die damit verbundenen gewerblichen Berechtigungen angeführt werden.
 
 (9)  Die  Gestaltung  des  Zeugnisformulares  ist  durch  Verordnung  des  zuständigen  Bundesministers nach den Erfordernissen der einzelnen Schularten zu bestimmen.
 
@@ -776,41 +776,39 @@ Seite 19 von 71
 
 Bundesrecht konsolidiert
 
-- Das Jahreszeugnis hat insbesondere zu enthalten:
+(2) Das Jahreszeugnis hat insbesondere zu enthalten:
 
-- die Bezeichnung, Form bzw. Fachrichtung der Schulart und den Standort der Schule;
+a) die Bezeichnung, Form bzw. Fachrichtung der Schulart und den Standort der Schule;
 
-- die Personalien des Schülers;
+b) die Personalien des Schülers;
 
-- die besuchte Schulstufe und die Bezeichnung der Klasse (des Jahrganges);
+c) die besuchte Schulstufe und die Bezeichnung der Klasse (des Jahrganges);
 
-- die Unterrichtsgegenstände der betreffenden Schulstufe und die Beurteilung der darin erbrachten Leistungen  (§ 20),  sofern  der  Unterricht  in  Leistungsgruppen  erfolgt,  auch  die  Angabe  der Leistungsgruppe; an Berufsschulen entfällt die  Angabe der Leistungsgruppe, doch ist im Falle des  Besuches  von  Pflichtgegenständen  mit  erweitertem  oder  vertieftem  Bildungsangebot  (§ 47 Abs. 3 des Schulorganisationsgesetzes) ein diesbezüglicher Vermerk aufzunehmen, sofern dieser Vermerk nicht wegen der besonderen Bezeichnung dieser Pflichtgegenstände entbehrlich ist; in der 7. und 8. Schulstufe der Neuen Mittelschule sind in den differenzierten Pflichtgegenständen die  Beurteilungen  mit  einem  entsprechenden  Zusatz  der  grundlegenden  oder  der  vertieften Allgemeinbildung anzuführen; im Falle des § 31d ist ein diesbezüglicher Vermerk aufzunehmen;
+d) die Unterrichtsgegenstände der betreffenden Schulstufe und die Beurteilung der darin erbrachten Leistungen (§ 20), sofern der Unterricht in Leistungsgruppen erfolgt, auch die Angabe der Leistungsgruppe; an Berufsschulen entfällt die Angabe der Leistungsgruppe, doch ist im Falle des Besuches von Pflichtgegenständen mit erweitertem oder vertieftem Bildungsangebot (§ 47 Abs. 3 des Schulorganisationsgesetzes) ein diesbezüglicher Vermerk aufzunehmen, sofern dieser Vermerk nicht wegen der besonderen Bezeichnung dieser Pflichtgegenstände entbehrlich ist; in der 7. und 8. Schulstufe der Neuen Mittelschule sind in den differenzierten Pflichtgegenständen die Beurteilungen mit einem entsprechenden Zusatz der grundlegenden oder der vertieften Allgemeinbildung anzuführen; im Falle des § 31d ist ein diesbezüglicher Vermerk aufzunehmen;
 
-- die Beurteilung des Verhaltens des Schülers in der Schule nach Maßgabe des § 21 Abs. 1;
+e) die Beurteilung des Verhaltens des Schülers in der Schule nach Maßgabe des § 21 Abs. 1;
 
-- allfällige Beurkundungen über
+f) allfällige Beurkundungen über
 
-- aa) die  Berechtigung  oder  Nichtberechtigung  zum  Aufsteigen  oder  den  nicht  erfolgreichen Abschluß der letzten Stufe der besuchten Schulart (§ 20 Abs. 6, § 25),
+aa) die Berechtigung oder Nichtberechtigung zum Aufsteigen oder den nicht erfolgreichen Abschluß der letzten Stufe der besuchten Schulart (§ 20 Abs. 6, § 25),
 
-- ab) die Berechtigung zum Übertritt in eine mittlere oder höhere Schule nach der 8. Schulstufe der Neuen Mittelschule,
+ab) die Berechtigung zum Übertritt in eine mittlere oder höhere Schule nach der 8. Schulstufe der Neuen Mittelschule,
 
-- bb) in  leistungsdifferenzierten  Pflichtgegenständen  die  Leistungsgruppe,  die  der  Schüler  im folgenden Unterrichtsjahr zu besuchen hat (§ 20 Abs. 6, § 31b, § 31c); an den Berufsschulen hat  diese  Beurkundung  nur  im  Falle  einer  Umstufung  in  die  höhere  Leistungsgruppe  zu erfolgen (§ 31c Abs. 7),
+bb) in leistungsdifferenzierten Pflichtgegenständen die Leistungsgruppe, die der Schüler im folgenden Unterrichtsjahr zu besuchen hat (§ 20 Abs. 6, § 31b, § 31c); an den Berufsschulen hat diese Beurkundung nur im Falle einer Umstufung in die höhere Leistungsgruppe zu erfolgen (§ 31c Abs. 7),
 
-- cc) die  Zulässigkeit  der  Ablegung  einer  Wiederholungsprüfung  (§ 23)  oder  der  Wiederholung einer Schulstufe (§ 27),
+cc) die Zulässigkeit der Ablegung einer Wiederholungsprüfung (§ 23) oder der Wiederholung einer Schulstufe (§ 27),
 
-- dd) die  Beendigung  des  Schulbesuches  wegen  Überschreitens  der  zulässigen  Höchstdauer  (§ 33 Abs. 2 lit. d);
+dd) die Beendigung des Schulbesuches wegen Überschreitens der zulässigen Höchstdauer (§ 33 Abs. 2 lit. d);
 
-- die Feststellung, daß der Schüler die Schulstufe mit ausgezeichnetem Erfolg abgeschlossen hat, wenn  er  in  mindestens  der  Hälfte  der  Pflichtgegenstände  mit  'Sehr  gut'  und  in  den  übrigen Pflichtgegenständen  mit  'Gut'  beurteilt  wurde,  wobei  Beurteilungen  mit  'Befriedigend'  diese Feststellung nicht hindern, wenn dafür gleich viele Beurteilungen mit 'Sehr gut' über die Hälfte der  Pflichtgegenstände  hinaus  vorliegen;  in  der  Neuen  Mittelschule  setzt  die  Feststellung  des ausgezeichneten  Erfolges  in  der  7.  und  8.  Schulstufe  eine  entsprechende  Beurteilung  in  der Vertiefung  sämtlicher  differenzierter  Pflichtgegenstände  voraus;  in  der  Volksschule  und  den Sonderschulen (ausgenommen die Sonderschulen nach dem Lehrplan der Hauptschule oder der Neuen Mittelschule und der Polytechnischen Schule) ist die Feststellung
+g) die Feststellung, daß der Schüler die Schulstufe mit ausgezeichnetem Erfolg abgeschlossen hat, wenn er in mindestens der Hälfte der Pflichtgegenstände mit „Sehr gut” und in den übrigen Pflichtgegenständen mit „Gut” beurteilt wurde, wobei Beurteilungen mit „Befriedigend” diese Feststellung nicht hindern, wenn dafür gleich viele Beurteilungen mit „Sehr gut” über die Hälfte der Pflichtgegenstände hinaus vorliegen; in der Neuen Mittelschule setzt die Feststellung des ausgezeichneten Erfolges in der 7. und 8. Schulstufe eine entsprechende Beurteilung in der Vertiefung sämtlicher differenzierter Pflichtgegenstände voraus; in der Volksschule und den Sonderschulen (ausgenommen die Sonderschulen nach dem Lehrplan der Hauptschule oder der Neuen Mittelschule und der Polytechnischen Schule) ist die Feststellung des ausgezeichneten Erfolges nicht zu treffen; an Schularten mit Leistungsgruppen ist hiebei ein „Befriedigend” in der höchsten Leistungsgruppe als „Gut” bzw. ein „Gut” als „Sehr gut” zu bewerten; an Schularten mit drei Leistungsgruppen ist diese Feststellung nur zu treffen, wenn
 
-des ausgezeichneten Erfolges nicht zu treffen; an Schularten mit Leistungsgruppen ist hiebei ein 'Befriedigend'  in  der  höchsten  Leistungsgruppe  als  'Gut'  bzw.  ein  'Gut'  als  'Sehr  gut'  zu bewerten; an Schularten mit drei Leistungsgruppen ist diese Feststellung nur zu treffen, wenn
+aa) das Jahreszeugnis in leistungsdifferenzierten Pflichtgegenständen in der mittleren Leistungsgruppe keine schlechtere Beurteilung als „Gut” aufweist und das Jahreszeugnis - mit Ausnahme des Jahreszeugnisses der jeweils letzten Stufe der betreffenden Schulart - den Vermerk enthält, daß der Schüler im nächsten Unterrichtsjahr in den leistungsdifferenzierten Pflichtgegenständen die höchste Leistungsgruppe zu besuchen hat,
 
-- aa) das Jahreszeugnis in leistungsdifferenzierten Pflichtgegenständen in der mittleren Leistungsgruppe keine schlechtere Beurteilung als 'Gut' aufweist und das Jahreszeugnis - mit Ausnahme  des  Jahreszeugnisses  der  jeweils  letzten  Stufe  der  betreffenden  Schulart  -  den Vermerk enthält, daß der Schüler im nächsten Unterrichtsjahr in den leistungsdifferenzierten Pflichtgegenständen die höchste Leistungsgruppe zu besuchen hat,
+bb) der Schüler in keinem leistungsdifferenzierten Pflichtgegenstand den Unterricht am Ende des Unterrichtsjahres in der niedrigsten Leistungsgruppe besucht hat;
 
-- bb) der Schüler in keinem leistungsdifferenzierten Pflichtgegenstand den Unterricht am Ende des Unterrichtsjahres in der niedrigsten Leistungsgruppe besucht hat;
+an Berufsschulen ist ein „Befriedigend” in einem Pflichtgegenstand mit erweitertem oder vertieftem Bildungsangebot als „Gut” bzw. ein „Gut” als „Sehr gut” zu bewerten, sofern dieses Bildungsangebot nicht in einem zusätzlichen Pflichtgegenstand erfolgt;
 
-an  Berufsschulen  ist  ein  'Befriedigend'  in  einem  Pflichtgegenstand  mit  erweitertem  oder vertieftem Bildungsangebot als 'Gut' bzw. ein 'Gut' als 'Sehr gut' zu bewerten, sofern dieses Bildungsangebot nicht in einem zusätzlichen Pflichtgegenstand erfolgt;
-
-- die Feststellung, daß der Schüler die Schulstufe mit gutem Erfolg abgeschlossen hat, wenn er in keinem Pflichtgegenstand schlechter als mit 'Befriedigend' beurteilt worden ist und mindestens gleich  viele  Beurteilungen  mit  'Sehr  gut'  aufweist  wie  mit  'Befriedigend';  in  der  Neuen Mittelschule  setzt die Feststellung des guten  Erfolges  in der 7. und  8. Schulstufe  eine entsprechende Beurteilung in der Vertiefung sämtlicher differenzierter Pflichtgegenstände voraus; in der Volksschule und den Sonderschulen (ausgenommen die Sonderschulen nach dem Lehrplan der Hauptschule oder der Neuen Mittelschule und der Polytechnischen Schule) ist die Feststellung des guten Erfolges nicht zu treffen; an Schularten mit Leistungsgruppen ist hiebei
+h) die Feststellung, daß der Schüler die Schulstufe mit gutem Erfolg abgeschlossen hat, wenn er in keinem Pflichtgegenstand schlechter als mit „Befriedigend” beurteilt worden ist und mindestens gleich viele Beurteilungen mit „Sehr gut” aufweist wie mit „Befriedigend”; in der Neuen Mittelschule setzt die Feststellung des guten Erfolges in der 7. und 8. Schulstufe eine entsprechende Beurteilung in der Vertiefung sämtlicher differenzierter Pflichtgegenstände voraus; in der Volksschule und den Sonderschulen (ausgenommen die Sonderschulen nach dem Lehrplan der Hauptschule oder der Neuen Mittelschule und der Polytechnischen Schule) ist die Feststellung des guten Erfolges nicht zu treffen; an Schularten mit Leistungsgruppen ist hiebei
 
 www.ris.bka.gv.at
 
@@ -822,21 +820,21 @@ Seite 20 von 71
 
 Bundesrecht konsolidiert
 
-ein 'Befriedigend' in der höchsten Leistungsgruppe als 'Gut' bzw. ein 'Gut' als 'Sehr gut' zu bewerten; an Schularten mit drei Leistungsgruppen ist diese Feststellung nur zu treffen, wenn
+ein „Befriedigend” in der höchsten Leistungsgruppe als „Gut” bzw. ein „Gut” als „Sehr gut” zu bewerten; an Schularten mit drei Leistungsgruppen ist diese Feststellung nur zu treffen, wenn
 
-- aa) das Jahreszeugnis in leistungsdifferenzierten Pflichtgegenständen in der mittleren Leistungsgruppe keine schlechtere Beurteilung als 'Befriedigend' aufweist und
+aa) das Jahreszeugnis in leistungsdifferenzierten Pflichtgegenständen in der mittleren Leistungsgruppe keine schlechtere Beurteilung als „Befriedigend” aufweist und
 
-- bb) der Schüler in keinem leistungsdifferenzierten Pflichtgegenstand den Unterricht am Ende des Unterrichtsjahres in der niedrigsten Leistungsgruppe besucht hat;
+bb) der Schüler in keinem leistungsdifferenzierten Pflichtgegenstand den Unterricht am Ende des Unterrichtsjahres in der niedrigsten Leistungsgruppe besucht hat;
 
-an  Berufsschulen  ist  ein  'Befriedigend'  in  einem  Pflichtgegenstand  mit  erweitertem  oder vertieftem Bildungsangebot als 'Gut' bzw. ein 'Gut' als 'Sehr gut' zu bewerten, sofern dieses Bildungsangebot nicht in einem zusätzlichen Pflichtgegenstand erfolgt;
+an Berufsschulen ist ein „Befriedigend” in einem Pflichtgegenstand mit erweitertem oder vertieftem Bildungsangebot als „Gut” bzw. ein „Gut” als „Sehr gut” zu bewerten, sofern dieses Bildungsangebot nicht in einem zusätzlichen Pflichtgegenstand erfolgt;
 
-- sofern  für  Schüler  mit  sonderpädagogischem  Förderbedarf  Lehrpläne  verschiedener  Schularten oder  Schulstufen  Anwendung  finden,  sind  Abweichungen  vom  Lehrplan  der  Schulart  und  der Schulstufe, die der Schüler besucht, zu vermerken;
+i) sofern für Schüler mit sonderpädagogischem Förderbedarf Lehrpläne verschiedener Schularten oder Schulstufen Anwendung finden, sind Abweichungen vom Lehrplan der Schulart und der Schulstufe, die der Schüler besucht, zu vermerken;
 
-(Anm.: aufgehoben durch BGBl. I Nr. 22/1998)
+j) (Anm.: aufgehoben durch BGBl. I Nr. 22/1998)
 
-- im Falle der Beendigung der allgemeinen Schulpflicht eine diesbezügliche Feststellung;
+k) im Falle der Beendigung der allgemeinen Schulpflicht eine diesbezügliche Feststellung;
 
-- Ort  und  Datum  der  Ausstellung,  Unterschrift  des  Schulleiters  und  des  Klassenvorstandes, Rundsiegel der Schule.
+l) Ort und Datum der Ausstellung, Unterschrift des Schulleiters und des Klassenvorstandes, Rundsiegel der Schule.
 
 (3)  Für  verbindliche  und  unverbindliche  Übungen  sowie  für  therapeutische  und  funktionelle Übungen sind anstelle der Beurteilung Teilnahmevermerke in das Jahreszeugnis aufzunehmen. Desgleichen  ist  im  Jahreszeugnis  zu  vermerken,  wenn  ein  Schüler  von  der  Teilnahme  an  einem Pflichtgegenstand befreit ist (§ 11 Abs. 6, 6a, 7 oder 8).
 
@@ -848,7 +846,7 @@ an  Berufsschulen  ist  ein  'Befriedigend'  in  einem  Pflichtgegenstand  mit  
 
 (7) (Anm.: aufgehoben durch BGBl. I Nr. 22/1998)
 
-(8) Im Zeitpunkt des erfolgreichen Abschlusses der letzten Schulstufe einer Schulart oder - im Fall des Überspringens an einer 'Nahtstelle' gemäß § 26a - der vorletzten Schulstufe einer Schulart ist neben dem Jahreszeugnis oder im  Zusammenhang mit diesem ein Abschlusszeugnis auszustellen,  wenn nicht gemäß  § 39  Abs. 1  ein  Zeugnis  über  die  abschließende  Prüfung  auszustellen  ist.  Bei  berufsbildenden Schulen können auch die damit verbundenen gewerblichen Berechtigungen angeführt werden.
+(8) Im Zeitpunkt des erfolgreichen Abschlusses der letzten Schulstufe einer Schulart oder - im Fall des Überspringens an einer “Nahtstelle” gemäß § 26a - der vorletzten Schulstufe einer Schulart ist neben dem Jahreszeugnis oder im Zusammenhang mit diesem ein Abschlusszeugnis auszustellen, wenn nicht gemäß § 39 Abs. 1 ein Zeugnis über die abschließende Prüfung auszustellen ist. Bei berufsbildenden Schulen können auch die damit verbundenen gewerblichen Berechtigungen angeführt werden.
 
 (9)  Die  Gestaltung  des  Zeugnisformulares  ist  durch  Verordnung  des  zuständigen  Bundesministers nach den Erfordernissen der einzelnen Schularten zu bestimmen.
 
@@ -874,15 +872,15 @@ Abs. 1a: Tritt hinsichtlich dreijähriger mittlerer Schulen mit Ablauf des 31. A
 
 #### Wiederholungsprüfung
 
-§ 23. (1)  Ein  Schüler  darf  -  ausgenommen  in  der  Grundschule  sowie  in  Sonderschulen  mit Klassenlehrersystem -in einem Pflichtgegenstand oder in zwei Pflichtgegenständen eine Wiederholungsprüfung ablegen, wenn im Jahreszeugnis
+§ 23. (1) Ein Schüler darf - ausgenommen in der Grundschule sowie in Sonderschulen mit Klassenlehrersystem - in einem Pflichtgegenstand oder in zwei Pflichtgegenständen eine Wiederholungsprüfung ablegen, wenn im Jahreszeugnis
 
-- der  Schüler  in  Pflichtgegenständen  ohne  Leistungsgruppen  mit  'Nicht  genügend'  beurteilt worden ist, oder
+1. der Schüler in Pflichtgegenständen ohne Leistungsgruppen mit “Nicht genügend” beurteilt worden ist, oder
 
-- der Schüler in der niedrigsten Leistungsgruppe eingestuft war und mit 'Nicht genügend' beurteilt worden ist, oder
+2. der Schüler in der niedrigsten Leistungsgruppe eingestuft war und mit “Nicht genügend” beurteilt worden ist, oder
 
-- der Schüler in der letzten Stufe einer Schulart in einer höheren Leistungsgruppe eingestuft war und mit 'Nicht genügend' beurteilt worden ist;
+3. der Schüler in der letzten Stufe einer Schulart in einer höheren Leistungsgruppe eingestuft war und mit “Nicht genügend” beurteilt worden ist;
 
-hiebei  darf  die  Gesamtanzahl  der  Beurteilungen  mit  'Nicht  genügend'  gemäß  Z 1  bis  3  zwei  nicht übersteigen.
+hiebei darf die Gesamtanzahl der Beurteilungen mit “Nicht genügend” gemäß Z 1 bis 3 zwei nicht übersteigen.
 
 (1a) Die Wiederholungsprüfungen finden - soweit nachstehend nicht anderes angeordnet wird - an den ersten beiden Unterrichtstagen der ersten Woche des folgenden Schuljahres statt. In der letzten Stufe von Schulen mit abschließender Prüfung findet die Wiederholungsprüfung in höchstens einem Pflichtgegenstand auf Antrag des Schülers zwischen der Beurteilungskonferenz (§ 20 Abs. 6) und dem Beginn  der  Klausurprüfung  statt;  eine  einmalige  Wiederholung  dieser  Prüfungen  ist  auf  Antrag  des Schülers zum Prüfungstermin gemäß dem ersten Satz und Abs. 1c zulässig.
 
@@ -890,9 +888,9 @@ hiebei  darf  die  Gesamtanzahl  der  Beurteilungen  mit  'Nicht  genügend'  ge
 
 (1c)  Wenn  der  Beginn  des  Unterrichts  an  den  ersten  beiden  Tagen  des  Schuljahres  (§ 10  Abs. 1) durch die Abhaltung der Wiederholungsprüfungen beeinträchtigt wäre oder es aus anderen organisatorischen Gründen, wie insbesondere der Gewährleistung einer ordnungsgemäßen und schülerorientierten  Durchführung  der  Wiederholungsprüfungen,  zweckmäßig  ist,  kann  das  Schulforum (§ 63a)  bzw.  der  Schulgemeinschaftsausschuss  (§ 64)  beschließen,  dass  die  Wiederholungsprüfungen abweichend  von  Abs. 1a  auch  oder  nur  am  Donnerstag  und  bzw.  oder  Freitag  der  letzten  Woche  des Schuljahres durchzuführen sind. Ein solcher Beschluss unterliegt den Beschlusserfordernissen des § 63a Abs. 12 bzw. des § 64 Abs. 11, jeweils vierter Satz.
 
-(1d)  Macht  ein  Schüler,  der  gemäß  § 25  Abs. 1  letzter  Satz  sowie  Abs. 2  trotz  der  Note  'Nicht genügend' zum Aufsteigen in die nächsthöhere Schulstufe berechtigt ist, von dieser Befugnis Gebrauch, so bleibt die Berechtigung zum Aufsteigen ohne Rücksicht auf die Beurteilung seiner Leistungen bei der Wiederholungsprüfung erhalten. Eine Wiederholungsprüfung ist nicht zulässig,  wenn die Note auf dem Ergebnis einer Nachtragsprüfung (§ 20 Abs. 3) beruht.
+(1d) Macht ein Schüler, der gemäß § 25 Abs. 1 letzter Satz sowie Abs. 2 trotz der Note “Nicht genügend” zum Aufsteigen in die nächsthöhere Schulstufe berechtigt ist, von dieser Befugnis Gebrauch, so bleibt die Berechtigung zum Aufsteigen ohne Rücksicht auf die Beurteilung seiner Leistungen bei der Wiederholungsprüfung erhalten. Eine Wiederholungsprüfung ist nicht zulässig, wenn die Note auf dem Ergebnis einer Nachtragsprüfung (§ 20 Abs. 3) beruht.
 
-(2) Wenn die Leistungen eines Schülers im Jahreszeugnis in mehr als zwei Pflichtgegenständen mit 'Nicht genügend' beurteilt worden sind, aber nur höchstens zwei dieser Beurteilungen einem Übertritt in eine andere Schulart gemäß § 29 entgegenstehen, darf der Schüler aus den betreffenden Pflichtgegenständen eine Wiederholungsprüfung ablegen. Die erfolgreiche Ablegung der Wiederholungsprüfung ist mit dem Hinweis auf den beabsichtigten Übertritt in eine andere Schulart auf dem Jahreszeugnis zu vermerken. Dies gilt sinngemäß, wenn die Beurteilung mit 'Nicht genügend' in höchstens zwei Pflichtgegenständen einem erfolgreichen Abschluß der 8. Schulstufe im Sinne des § 28 Abs. 3 entgegensteht.
+(2) Wenn die Leistungen eines Schülers im Jahreszeugnis in mehr als zwei Pflichtgegenständen mit „Nicht genügend” beurteilt worden sind, aber nur höchstens zwei dieser Beurteilungen einem Übertritt in eine andere Schulart gemäß § 29 entgegenstehen, darf der Schüler aus den betreffenden Pflichtgegenständen eine Wiederholungsprüfung ablegen. Die erfolgreiche Ablegung der Wiederholungsprüfung ist mit dem Hinweis auf den beabsichtigten Übertritt in eine andere Schulart auf dem Jahreszeugnis zu vermerken. Dies gilt sinngemäß, wenn die Beurteilung mit „Nicht genügend” in höchstens zwei Pflichtgegenständen einem erfolgreichen Abschluß der 8. Schulstufe im Sinne des § 28 Abs. 3 entgegensteht.
 
 (3)  Die  Wiederholungsprüfung  darf  im  Falle  eines  Schulwechsels  an  der  neuen  Schule  abgelegt werden, wenn mit dem Schulwechsel ein Wechsel der Schulart oder des Schulortes verbunden ist und es sich um  eine Schule gleicher oder größerer Bildungshöhe handelt oder der Wechsel  von  der allgemeinbildenden  höheren  Schule  in  die  Hauptschule  oder  in  die  Neue  Mittelschule  erfolgt.  Die erfolgreiche Ablegung der Wiederholungsprüfung ist auf dem Jahreszeugnis zu vermerken.
 
@@ -906,7 +904,7 @@ Seite 22 von 71
 
 Bundesrecht konsolidiert
 
-(4) Eine Wiederholungsprüfung darf außer in den Fällen der Abs. 1 bis 3 auch in einem oder zwei Freigegenständen, in denen der Schüler mit 'Nicht genügend' beurteilt worden ist, abgelegt werden.
+(4) Eine Wiederholungsprüfung darf außer in den Fällen der Abs. 1 bis 3 auch in einem oder zwei Freigegenständen, in denen der Schüler mit „Nicht genügend” beurteilt worden ist, abgelegt werden.
 
 (5) Die Prüfungen nach Abs. 1 bis 4 haben sich auf den Lehrstoff des betreffenden Unterrichtsgegenstandes auf der ganzen Schulstufe zu beziehen. Der zuständige Bundesminister hat durch Verordnung  nach  der  Art  des  Unterrichtsgegenstandes  festzusetzen,  ob  die  Wiederholungsprüfung schriftlich und mündlich, nur schriftlich, nur mündlich oder auch praktisch abzulegen ist.
 
@@ -928,15 +926,15 @@ Tritt hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und
 
 #### Aufsteigen
 
-§ 25. (1)  Ein  Schüler  ist  zum  Aufsteigen  in  die  nächsthöhere  Schulstufe  berechtigt,  wenn  er  die Schulstufe  erfolgreich  abgeschlossen  hat.  Eine  Schulstufe  ist  erfolgreich  abgeschlossen,  wenn  das Jahreszeugnis in allen Pflichtgegenständen eine Beurteilung aufweist und in keinem Pflichtgegenstand die Note 'Nicht genügend' enthält. Eine Schulstufe gilt auch dann als erfolgreich abgeschlossen, wenn bei Wiederholen von Schulstufen das Jahreszeugnis in höchstens einem Pflichtgegenstand die Note 'Nicht genügend'  enthält  und  dieser  Pflichtgegenstand  vor  der  Wiederholung  der  Schulstufe  zumindest  mit 'Befriedigend' beurteilt wurde.
+§ 25. (1) Ein Schüler ist zum Aufsteigen in die nächsthöhere Schulstufe berechtigt, wenn er die Schulstufe erfolgreich abgeschlossen hat. Eine Schulstufe ist erfolgreich abgeschlossen, wenn das Jahreszeugnis in allen Pflichtgegenständen eine Beurteilung aufweist und in keinem Pflichtgegenstand die Note „Nicht genügend” enthält. Eine Schulstufe gilt auch dann als erfolgreich abgeschlossen, wenn bei Wiederholen von Schulstufen das Jahreszeugnis in höchstens einem Pflichtgegenstand die Note „Nicht genügend” enthält und dieser Pflichtgegenstand vor der Wiederholung der Schulstufe zumindest mit „Befriedigend” beurteilt wurde.
 
-(2)  Ein  Schüler  ist  ferner  zum  Aufsteigen  in  die  nächsthöhere  Schulstufe  berechtigt,  wenn  das Jahreszeugnis zwar in einem Pflichtgegenstand die Note 'Nicht genügend' enthält, aber
+(2) Ein Schüler ist ferner zum Aufsteigen in die nächsthöhere Schulstufe berechtigt, wenn das Jahreszeugnis zwar in einem Pflichtgegenstand die Note „Nicht genügend” enthält, aber
 
-- der Schüler nicht auch schon im Jahreszeugnis des vorhergegangenen Schuljahres in demselben Pflichtgegenstand die Note 'Nicht genügend' erhalten hat,
+a) der Schüler nicht auch schon im Jahreszeugnis des vorhergegangenen Schuljahres in demselben Pflichtgegenstand die Note „Nicht genügend” erhalten hat,
 
-- der betreffende Pflichtgegenstand - ausgenommen an Berufsschulen - in einer höheren Schulstufe lehrplanmäßig vorgesehen ist und
+b) der betreffende Pflichtgegenstand - ausgenommen an Berufsschulen - in einer höheren Schulstufe lehrplanmäßig vorgesehen ist und
 
-- die  Klassenkonferenz  feststellt,  daß  der  Schüler  auf  Grund  seiner  Leistungen  in  den  übrigen Pflichtgegenständen die Voraussetzungen  zur erfolgreichen Teilnahme  am  Unterricht der nächsthöheren Schulstufe im Hinblick auf die Aufgabe der betreffenden Schulart aufweist.
+c) die Klassenkonferenz feststellt, daß der Schüler auf Grund seiner Leistungen in den übrigen Pflichtgegenständen die Voraussetzungen zur erfolgreichen Teilnahme am Unterricht der nächsthöheren Schulstufe im Hinblick auf die Aufgabe der betreffenden Schulart aufweist.
 
 (3)  Schüler  von  Volksschulen  und  Sonderschulen  sind  ohne  Rücksicht  auf  die  Beurteilung  in  den Pflichtgegenständen  Musikerziehung,  Bildnerische  Erziehung,  Schreiben,  Werkerziehung  (Technisches Werken,  Textiles  Werken),  Ernährung  und  Haushalt  sowie  Bewegung  und  Sport  zum  Aufsteigen berechtigt.  Abs. 2  lit. a  ist  auch  hinsichtlich  der  übrigen  Pflichtgegenstände  an  den  Volksschulen  und Sonderschulen nicht anzuwenden.
 
@@ -952,7 +950,7 @@ Bundesrecht konsolidiert
 
 (4) Schüler der 1. Schulstufe sind ohne Rücksicht auf die Beurteilungen im Jahreszeugnis berechtigt, in die 2. Schulstufe aufzusteigen.
 
-(5)  Schüler,  die  in  leistungsdifferenzierten  Pflichtgegenständen  ein  'Nicht  genügend'  in  einer anderen  als  der  niedrigsten  Leistungsgruppe  erhalten  haben,  sind  berechtigt,  in  die  nächsthöhere Schulstufe  aufzusteigen,  in  der  sie  jedoch  den  betreffenden  Pflichtgegenstand  in  der  nächstniedrigeren Leistungsgruppe zu besuchen haben.
+(5) Schüler, die in leistungsdifferenzierten Pflichtgegenständen ein „Nicht genügend” in einer anderen als der niedrigsten Leistungsgruppe erhalten haben, sind berechtigt, in die nächsthöhere Schulstufe aufzusteigen, in der sie jedoch den betreffenden Pflichtgegenstand in der nächstniedrigeren Leistungsgruppe zu besuchen haben.
 
 (5a) Schüler mit sonderpädagogischem Förderbedarf an allgemeinen Schulen sind berechtigt, in die nächsthöhere Schulstufe aufzusteigen, wenn dies für den Schüler insgesamt eine bessere Entwicklungsmöglichkeit bietet; hierüber hat die Klassenkonferenz gemäß § 20 Abs. 6 zu entscheiden.
 
@@ -968,7 +966,7 @@ Bundesrecht konsolidiert
 
 (9) Bei der Entscheidung über das Aufsteigen in die nächsthöhere Schulstufe gilt ein nachgewiesener mindestens  fünfmonatiger  und  längstens  einjähriger  fremdsprachiger  Schulbesuch  im  Ausland  als erfolgreicher Schulbesuch in Österreich.
 
-#### Begabungsförderung - Überspringen von Schulstufen
+#### Begabungsförderung – Überspringen von Schulstufen
 
 § 26. (1)  Ein  Schüler,  der  auf  Grund  seiner  außergewöhnlichen  Leistungen  und  Begabungen  die geistige Reife besitzt, am Unterricht der übernächsten Schulstufe teilzunehmen, ist auf sein Ansuchen in die  übernächste  Stufe  der  betreffenden  Schulart  aufzunehmen.  Die  Aufnahme  in  die  übernächste Schulstufe  ist  nur  zulässig,  wenn  eine  Überforderung  in  körperlicher  und  geistiger  Hinsicht  nicht  zu befürchten ist. Im Zweifel ist der Schüler einer Einstufungsprüfung und allenfalls auch einer schulpsychologischen und (oder) schulärztlichen Untersuchung zu unterziehen. Schüler der Grundschule dürfen nur dann in die übernächste Schulstufe aufgenommen werden, wenn sie dadurch in eine Schulstufe gelangen,  die  unter  Bedachtnahme  auf  eine  etwaige  vorzeitige  Aufnahme  in  die  Schule  (§ 7  des Schulpflichtgesetzes 1985)  ihrem  Alter  entspricht.  Schüler  der  Grundschule  dürfen  nur  dann  in  die übernächste Schulstufe aufgenommen werden, wenn dadurch die Gesamtdauer des Grundschulbesuches nicht weniger als drei Schuljahre beträgt.
 
@@ -988,25 +986,25 @@ Seite 24 von 71
 
 Bundesrecht konsolidiert
 
-#### 'Begabungsförderung - Überspringen an den 'Nahtstellen'
+#### “Begabungsförderung – Überspringen an den „Nahtstellen“
 
 § 26a. (1) Auf  die Aufnahme  in  eine  höhere  Stufe einer Schulart, als es dem  Alter  des Aufnahmsbewerbers entspricht, findet § 3 Abs. 6 lit. b auf Ansuchen des Schülers dann nicht Anwendung, wenn
 
-- bei einem unmittelbar vorangehenden Schulbesuch in Österreich die betreffende Schulstufe unter sinngemäßer  Anwendung  von  § 22  Abs. 2  lit. g  mit  ausgezeichnetem  Erfolg  abgeschlossen wurde,
+1. bei einem unmittelbar vorangehenden Schulbesuch in Österreich die betreffende Schulstufe unter sinngemäßer Anwendung von § 22 Abs. 2 lit. g mit ausgezeichnetem Erfolg abgeschlossen wurde,
 
-- die  Klassenkonferenz  feststellt,  dass  der  Schüler  auf  Grund  seiner  besonderen  Leistungen  und Begabungen mit großer Wahrscheinlichkeit den Anforderungen der angestrebten Schulstufe und Schulart genügen wird, und
+2. die Klassenkonferenz feststellt, dass der Schüler auf Grund seiner besonderen Leistungen und Begabungen mit großer Wahrscheinlichkeit den Anforderungen der angestrebten Schulstufe und Schulart genügen wird, und
 
-- eine Überforderung in körperlicher und geistiger Hinsicht nicht zu befürchten ist.
+3. eine Überforderung in körperlicher und geistiger Hinsicht nicht zu befürchten ist.
 
 Im  Zweifel  ist  der  Schüler  einer  Einstufungsprüfung  und  allenfalls  auch  einer  schulpsychologischen und/oder schulärztlichen Untersuchung zu unterziehen.
 
 (2) Sofern  der erfolgreiche Abschluss  der  4. Stufe der Volksschule  oder  der  4. Klasse der Hauptschule oder der Neuen Mittelschule (bzw. der 8. Schulstufe) Voraussetzung für die Aufnahme in die 1. Stufe der Hauptschule, der Neuen Mittelschule, einer mittleren oder einer höheren Schule ist, ist diese Voraussetzung auf Ansuchen des Schülers auch durch den erfolgreichen Abschluss der 3. Stufe der Volksschule oder der 3. Klasse der Hauptschule oder der Neuen Mittelschule (bzw. der 7. Schulstufe) gegeben, wenn
 
-- diese  Schulstufe  unter  sinngemäßer  Anwendung  von  § 22  Abs. 2  lit. g  mit  ausgezeichnetem Erfolg abgeschlossen wurde,
+1. diese Schulstufe unter sinngemäßer Anwendung von § 22 Abs. 2 lit. g mit ausgezeichnetem Erfolg abgeschlossen wurde,
 
-- die  Klassenkonferenz  feststellt,  dass  der  Schüler  auf  Grund  seiner  besonderen  Leistungen  und Begabungen mit großer Wahrscheinlichkeit den Anforderungen der angestrebten Schulstufe und Schulart genügen wird, und
+2. die Klassenkonferenz feststellt, dass der Schüler auf Grund seiner besonderen Leistungen und Begabungen mit großer Wahrscheinlichkeit den Anforderungen der angestrebten Schulstufe und Schulart genügen wird, und
 
-- eine Überforderung in körperlicher und geistiger Hinsicht nicht zu befürchten ist.
+3. eine Überforderung in körperlicher und geistiger Hinsicht nicht zu befürchten ist.
 
 Im  Zweifel  ist  der  Schüler  einer  Einstufungsprüfung  und  allenfalls  auch  einer  schulpsychologischen und/oder schulärztlichen Untersuchung zu unterziehen.
 
@@ -1040,15 +1038,15 @@ auszustellen. Sofern sich die Berechtigung zum Aufsteigen nach dem Jahreszeugnis
 
 #### Aufnahme in die 1. Stufe einer Hauptschule, einer mittleren oder einer höheren Schule
 
-§ 28. (1)  Der  erfolgreiche  Abschluß  der  4.  Stufe  der  Volksschule  als  Voraussetzung  für  die Aufnahme in  die  1.  Stufe  einer  Hauptschule,  einer  Neuen  Mittelschule  oder  einer  allgemeinbildenden höheren Schule ist gegeben, wenn das Zeugnis über die 4. Stufe der Volksschule in allen Pflichtgegenständen  eine  Beurteilung  aufweist  und  in  keinem  Pflichtgegenstand  die  Note  'Nicht genügend' enthält. Darüber hinaus gilt für die Aufnahme in die erste Klasse einer allgemeinbildenden höheren  Schule  § 40  Abs. 1  des  Schulorganisationsgesetzes.  Die  vorstehenden  Bestimmungen  finden keine Anwendung  bei  Aufnahme  eines  Schülers  mit  sonderpädagogischem  Förderbedarf  in  eine Hauptschule, eine Neue Mittelschule oder die Unterstufe einer allgemeinbildenden  höheren Schule auf Grund des § 8a Abs. 1 des Schulpflichtgesetzes 1985.
+§ 28. (1) Der erfolgreiche Abschluß der 4. Stufe der Volksschule als Voraussetzung für die Aufnahme in die 1. Stufe einer Hauptschule, einer Neuen Mittelschule oder einer allgemeinbildenden höheren Schule ist gegeben, wenn das Zeugnis über die 4. Stufe der Volksschule in allen Pflichtgegenständen eine Beurteilung aufweist und in keinem Pflichtgegenstand die Note „Nicht genügend“ enthält. Darüber hinaus gilt für die Aufnahme in die erste Klasse einer allgemeinbildenden höheren Schule § 40 Abs. 1 des Schulorganisationsgesetzes. Die vorstehenden Bestimmungen finden keine Anwendung bei Aufnahme eines Schülers mit sonderpädagogischem Förderbedarf in eine Hauptschule, eine Neue Mittelschule oder die Unterstufe einer allgemeinbildenden höheren Schule auf Grund des § 8a Abs. 1 des Schulpflichtgesetzes 1985.
 
 (2) (Anm.: aufgehoben durch BGBl. I Nr. 29/2011)
 
 (3) Der erfolgreiche Abschluß der 8. Schulstufe bzw. die erfolgreiche Erfüllung der ersten acht Jahre der  allgemeinen  Schulpflicht  als  Voraussetzung  für  die  Aufnahme  in  die  1.  Stufe  einer  mittleren  oder höheren Schule ist gegeben, wenn
 
-- das  Jahreszeugnis  der  8.  Stufe  der  Volksschule,  der  4.  Stufe  der  Hauptschule  oder  der  Neuen Mittelschule  oder  der  4.  oder  der  5.  Stufe  der  allgemeinbildenden  höheren  Schule  in  allen Pflichtgegenständen (ausgenommen in den Pflichtgegenständen Latein/Zweite lebende Fremdsprache und Geometrisches Zeichnen sowie in zusätzlichen schulautonomen Pflichtgegenständen und  in besonderen  Pflichtgegenständen an Schulen unter besonderer Berücksichtigung der musischen oder der sportlichen Ausbildung) eine Beurteilung aufweist und in keinem dieser Pflichtgegenstände die Note 'Nicht genügend' enthält oder
+1. das Jahreszeugnis der 8. Stufe der Volksschule, der 4. Stufe der Hauptschule oder der Neuen Mittelschule oder der 4. oder der 5. Stufe der allgemeinbildenden höheren Schule in allen Pflichtgegenständen (ausgenommen in den Pflichtgegenständen Latein/Zweite lebende Fremdsprache und Geometrisches Zeichnen sowie in zusätzlichen schulautonomen Pflichtgegenständen und in besonderen Pflichtgegenständen an Schulen unter besonderer Berücksichtigung der musischen oder der sportlichen Ausbildung) eine Beurteilung aufweist und in keinem dieser Pflichtgegenstände die Note „Nicht genügend“ enthält oder
 
-- der  Schüler  nach  mindestens  achtjähriger  Schullaufbahn  einen  ausländischen  Schulbesuch erfolgreich  abgeschlossen  hat;  wenn  das  Zeugnis  über  den  ausländischen  Schulbesuch  keinen Nachweis über den positiven Abschluß in Deutsch enthält, ist eine Externistenprüfung über den Lehrstoff des Unterrichtsgegenstandes Deutsch in der Hauptschule abzulegen.
+2. der Schüler nach mindestens achtjähriger Schullaufbahn einen ausländischen Schulbesuch erfolgreich abgeschlossen hat; wenn das Zeugnis über den ausländischen Schulbesuch keinen Nachweis über den positiven Abschluß in Deutsch enthält, ist eine Externistenprüfung über den Lehrstoff des Unterrichtsgegenstandes Deutsch in der Hauptschule abzulegen.
 
 Ferner  ist  der  erfolgreiche  Abschluß  der  8.  Schulstufe  bzw.  die  Erfüllung  der  ersten  acht  Jahre  der allgemeinen Schulpflicht gegeben, wenn der Schüler nach erfolgreichem Abschluß der 7. Schulstufe der Volksschule  oder  der  3.  Klasse  der  Hauptschule  oder  der  Neuen  Mittelschule  oder  der  3.  Klasse  der allgemeinbildenden  höheren  Schule  die  Polytechnische  Schule  erfolgreich  abgeschlossen  hat.  Die vorstehenden Bestimmungen finden keine Anwendung bei Aufnahme eines Schülers mit sonderpädagogischem  Förderbedarf  in  eine  Haushaltungsschule  auf  Grund  des  §  8a  Abs.  1  des Schulpflichtgesetzes 1985.
 
@@ -1060,7 +1058,7 @@ Ferner  ist  der  erfolgreiche  Abschluß  der  8.  Schulstufe  bzw.  die  Erfü
 
 #### Übertritt in eine andere Schulart oder eine andere Form oder Fachrichtung einer Schulart
 
-§ 29. (1) Für den Übertritt in eine höhere, gleiche oder niedrigere Schulstufe einer anderen Schulart oder  eine  andere  Form,  Fachrichtung  oder  einen  anderen  Schwerpunktbereich  einer  Schulart  gelten, soweit es sich nicht um die Polytechnische Schule oder um die 1. Stufe einer Hauptschule, einer Neuen Mittelschule,  einer  mittleren  oder  einer  höheren  Schule  oder  um  den  Übertritt  von  Hauptschülern  in allgemein  bildende  höhere  Schulen  im  Sinne  des  § 30  oder  um  den  Übertritt  von  Schülern  der  Neuen Mittelschule in allgemein bildende höhere Schulen im Sinne des § 30b handelt, die folgenden Absätze.
+§ 29. (1) Für den Übertritt in eine höhere, gleiche oder niedrigere Schulstufe einer anderen Schulart oder eine andere Form, Fachrichtung oder einen anderen Schwerpunktbereich einer Schulart gelten,
 
 www.ris.bka.gv.at
 
@@ -1071,8 +1069,8 @@ Seite 26 von 71
 [[START OF PAGE 27]]
 
 Bundesrecht konsolidiert
-
-(2)  Für  den  Übertritt  von  einer  Schulstufe  in  eine  höhere  Schulstufe  einer  anderen  Schulart (Fachrichtung)  ist  Voraussetzung,  dass  das  Jahreszeugnis  der  zuletzt  besuchten  Schulstufe  -  allenfalls neben  einer  Beurteilung  mit  'Nicht  genügend'  im  Sinne  des  § 25  Abs. 1  letzter  Satz  -  in  keinem Pflichtgegenstand,  der  in  den  vorhergehenden  Schulstufen  der  angestrebten  Schulart  lehrplanmäßig vorgesehen ist, ein 'Nicht genügend' enthält oder der Schüler eine Prüfung im Sinne des § 23 Abs. 2 oder 3 erfolgreich abgelegt hat; dies gilt nicht für den Übertritt in eine Allgemeine Sonderschule. Ein 'Nicht genügend' in einer anderen als der niedrigsten Leistungsgruppe steht dem Übertritt nicht entgegen. Ein Schüler einer allgemeinbildenden höheren Schule, der in eine Hauptschule übertritt, ist hinsichtlich der Einstufung  in  die  Leistungsgruppe  so  zu  behandeln,  wie  wenn  er  bisher  in  der  jeweils  höchsten Leistungsgruppe eingestuft gewesen wäre.
+soweit es sich nicht um die Polytechnische Schule oder um die 1. Stufe einer Hauptschule, einer Neuen Mittelschule, einer mittleren oder einer höheren Schule oder um den Übertritt von Hauptschülern in allgemein bildende höhere Schulen im Sinne des § 30 oder um den Übertritt von Schülern der Neuen Mittelschule in allgemein bildende höhere Schulen im Sinne des § 30b handelt, die folgenden Absätze.
+(2) Für den Übertritt von einer Schulstufe in eine höhere Schulstufe einer anderen Schulart (Fachrichtung) ist Voraussetzung, dass das Jahreszeugnis der zuletzt besuchten Schulstufe - allenfalls neben einer Beurteilung mit „Nicht genügend“ im Sinne des § 25 Abs. 1 letzter Satz - in keinem Pflichtgegenstand, der in den vorhergehenden Schulstufen der angestrebten Schulart lehrplanmäßig vorgesehen ist, ein „Nicht genügend“ enthält oder der Schüler eine Prüfung im Sinne des § 23 Abs. 2 oder 3 erfolgreich abgelegt hat; dies gilt nicht für den Übertritt in eine Allgemeine Sonderschule. Ein „Nicht genügend“ in einer anderen als der niedrigsten Leistungsgruppe steht dem Übertritt nicht entgegen. Ein Schüler einer allgemeinbildenden höheren Schule, der in eine Hauptschule übertritt, ist hinsichtlich der Einstufung in die Leistungsgruppe so zu behandeln, wie wenn er bisher in der jeweils höchsten Leistungsgruppe eingestuft gewesen wäre.
 
 (3)  Für  den  Übertritt  von  einer  Schulstufe  in  die  gleiche  Schulstufe  einer  anderen  Schulart (Fachrichtung) ist Voraussetzung, daß der Schüler mit einem gleichartigen Jahreszeugnis der angestrebten Schulart berechtigt wäre, die betreffende Schulstufe zu wiederholen.
 
@@ -1080,7 +1078,7 @@ Bundesrecht konsolidiert
 
 (5)  Für  den  Übertritt  ist  außer  der  Erfüllung  der  Voraussetzungen  gemäß  den  Abs. 2  bis  4  eine weitere Voraussetzung die erfolgreiche Ablegung einer Aufnahmsprüfung aus jenen Unterrichtsgegenständen, die in einer der vorhergehenden Schulstufen der angestrebten Schulart oder der angestrebten  Form  oder  Fachrichtung,  oder  dem  Schwerpunktbereich  einer  Schulart  Pflichtgegenstand waren  und  die  der  Schüler  noch  nicht  oder  nicht  in  annähernd  gleichem  Umfang  besucht  hat.  Die Aufnahmsprüfung  ist  vom  Schulleiter  auf  Ansuchen  des  Schülers  bei  gleichzeitiger  Aufnahme  als außerordentlicher  Schüler  (§ 4)  aufzuschieben,  wenn  in  dessen  Person  rücksichtswürdige  Gründe vorliegen.  Die  Frist  zur  Ablegung  ist  mit  höchstens  einem  halben  Unterrichtsjahr  je  nachzuholender Schulstufe  zu  bemessen.  Die  Aufnahmsprüfung  kann  insoweit  entfallen,  als  der  Schüler  durch  die Mitarbeit  im  Unterricht  sowie  durch  in  die  Unterrichtsarbeit  sonst  eingeordnete  Leistungsfeststellung (§ 18  Abs. 1)  zu  erkennen  gibt,  daß  er  das  Bildungsziel  des  betreffenden  Pflichtgegenstandes  in  den vorangegangenen  Schulstufen  in  den  wesentlichen  Bereichen  überwiegend  erfüllt.  Die  diesbezügliche Feststellung  trifft  der  den  Pflichtgegenstand  unterrichtende  Lehrer  und  ist  dem  Schüler  unverzüglich bekanntzugeben. Auf eine derartige Feststellung besteht kein Rechtsanspruch.
 
-(5a)  Hat  der  Schüler  die  Aufnahmsprüfung  nicht  bestanden,  ist  er  zu  einer  Wiederholung  der Aufnahmsprüfung  berechtigt.  Er  ist  vom  Schulleiter  innerhalb  einer  Frist  von  zwei  Monaten  zu  einer Wiederholung der Prüfung zuzulassen; hiebei sind jene Prüfungsgebiete zu wiederholen, die mit 'Nicht genügend' beurteilt worden sind.
+(5a) Hat der Schüler die Aufnahmsprüfung nicht bestanden, ist er zu einer Wiederholung der Aufnahmsprüfung berechtigt. Er ist vom Schulleiter innerhalb einer Frist von zwei Monaten zu einer Wiederholung der Prüfung zuzulassen; hiebei sind jene Prüfungsgebiete zu wiederholen, die mit „Nicht genügend“ beurteilt worden sind.
 
 (6)  Die  näheren  Bestimmungen über den Übertritt in eine andere Schulart oder eine andere Form oder Fachrichtung einer Schulart hat der zuständige Bundesminister durch Verordnung unter Bedachtnahme  auf  die  Aufgaben  und  die  Lehrpläne  der  einzelnen  Schularten  zu  erlassen.  Diese Bestimmungen sind so zu gestalten, daß allen geeigneten Schülern der Besuch der ihrer Begabung und ihrem  Berufsziel  entsprechenden  Schulart  bzw.  Form  und  Fachrichtung  einer  Schulart  ohne  oder  mit geringstem Zeitverlust möglich ist (§ 3 Abs. 1 des Schulorganisationsgesetzes).
 
@@ -1116,29 +1114,29 @@ Bundesrecht konsolidiert
 
 § 31. (1) Für den Übertritt von Schülern mittlerer berufsbildender Schulen in die nächsthöhere Stufe einer berufsbildenden höheren Schule vergleichbarer Schulart (Fachrichtung) gilt § 29 mit der Maßgabe, daß bei der Anwendung des Abs. 5 Freigegenstände Pflichtgegenständen gleichgestellt sind.
 
-(2) Der Übertritt von einer mittleren berufsbildenden Schule in eine höhere berufsbildende Schule vergleichbarer  Schulart  (Fachrichtung)  kann  auch  nach  Abschluß  des  1.  Semesters  der  1.  Stufe  der berufsbildenden mittleren Schule erfolgen, wenn die Schulnachricht in den allgemeinbildenden Pflichtgegenständen (ausgenommen Bewegung und Sport) und in den fachtheoretischen Pflichtgegenständen keine schlechtere Beurteilung als 'Befriedigend' enthält und die Pflichtgegenstände hinsichtlich  des  Umfanges  annähernd  dem  Umfang  der  in  der  höheren  Lehranstalt  vorgesehenen Pflichtgegenstände entsprechen. Sofern Pflichtgegenstände des I. Jahrganges der höheren berufsbildenden Schule  in  der  1.  Klasse  der  berufsbildenden  mittleren  Schule  nicht  geführt  werden,  sind  einschlägige Freigegenstände, die der Schüler besucht hat, Pflichtgegenständen gleichgestellt.
+(2) Der Übertritt von einer mittleren berufsbildenden Schule in eine höhere berufsbildende Schule vergleichbarer Schulart (Fachrichtung) kann auch nach Abschluß des 1. Semesters der 1. Stufe der berufsbildenden mittleren Schule erfolgen, wenn die Schulnachricht in den allgemeinbildenden Pflichtgegenständen (ausgenommen Bewegung und Sport) und in den fachtheoretischen Pflichtgegenständen keine schlechtere Beurteilung als „Befriedigend“ enthält und die Pflichtgegenstände hinsichtlich des Umfanges annähernd dem Umfang der in der höheren Lehranstalt vorgesehenen Pflichtgegenstände entsprechen. Sofern Pflichtgegenstände des I. Jahrganges der höheren berufsbildenden Schule in der 1. Klasse der berufsbildenden mittleren Schule nicht geführt werden, sind einschlägige Freigegenstände, die der Schüler besucht hat, Pflichtgegenständen gleichgestellt.
 
 #### Differenzierung an der Neuen Mittelschule
 
 § 31a. (1) In der 7. und 8. Schulstufe der Neuen Mittelschule hat der den betreffenden differenzierten Pflichtgegenstand unterrichtende Lehrer in Hinblick auf die Anforderungen des Lehrplans jeden Schüler bei  grundsätzlicher  Orientierung  am  Bildungsziel  der  Vertiefung  nach  Maßgabe  seiner  individuellen Lern- und Leistungsfähigkeit zu fördern.
 
-- In der Neuen Mittelschule sind in den Pflichtgegenständen Deutsch, Mathematik und Lebende Fremdsprache auf allen vier Schulstufen aus den folgenden pädagogischen Fördermaßnahmen von den Lehrern in koordiniertem Zusammenwirken mit dem Schulleiter auszuwählen:
+(2) In der Neuen Mittelschule sind in den Pflichtgegenständen Deutsch, Mathematik und Lebende Fremdsprache auf allen vier Schulstufen aus den folgenden pädagogischen Fördermaßnahmen von den Lehrern in koordiniertem Zusammenwirken mit dem Schulleiter auszuwählen:
 
-- Individualisierung des Unterrichts,
+1. Individualisierung des Unterrichts,
 
-- differenzierter Unterricht in der Klasse,
+2. differenzierter Unterricht in der Klasse,
 
-- Begabungs- einschließlich Begabtenförderung,
+3. Begabungs- einschließlich Begabtenförderung,
 
-- Maßnahmen der inklusiven Pädagogik und Diversität,
+4. Maßnahmen der inklusiven Pädagogik und Diversität,
 
-- Förderung in temporär gebildeten Schülergruppen,
+5. Förderung in temporär gebildeten Schülergruppen,
 
-- Förderung in Förder- bzw. Leistungskursen und
+6. Förderung in Förder- bzw. Leistungskursen und
 
-- Unterrichten im Lehrerteam (Teamteaching).
+7. Unterrichten im Lehrerteam (Teamteaching).
 
-- Der  Schulleiter  hat  die  durchgeführten  Maßnahmen  am  Ende  des  Unterrichtsjahres  dem zuständigen Beamten des Qualitätsmanagements (gemäß § 18 des Bundes-Schulaufsichtsgesetzes, BGBl. Nr. 240/1962) zu melden.
+(3) Der Schulleiter hat die durchgeführten Maßnahmen am Ende des Unterrichtsjahres dem zuständigen Beamten des Qualitätsmanagements (gemäß § 18 des Bundes-Schulaufsichtsgesetzes, BGBl. Nr. 240/1962) zu melden.
 
 #### Einstufung in die Leistungsgruppen
 
@@ -1154,7 +1152,7 @@ Seite 28 von 71
 
 Bundesrecht konsolidiert
 
-abgelegt  haben;  diese  Schüler  haben  mit  Beginn  des  Schuljahres  die  höchste  Leistungsgruppe  zu besuchen. Der Beobachtungszeitraum dient der Feststellung der individuellen Leistungsund Lernfähigkeit des Schülers im Hinblick auf die Anforderungen der einzelnen Leistungsgruppen auf der Grundlage  der  Feststellung  der  Mitarbeit  des  Schülers  im  Unterricht,  im  Falle  des  Besuches  eines vergleichbaren  Unterrichtgegenstandes  in  einer  unmittelbar  vorhergehenden  Schulstufe  auch  unter Berücksichtigung der Beurteilung in diesem  Unterrichtsgegenstand, sowie allenfalls unter Verwendung von mündlichen und schriftlichen Leistungsfeststellungen.
+abgelegt haben; diese Schüler haben mit Beginn des Schuljahres die höchste Leistungsgruppe zu besuchen. Der Beobachtungszeitraum dient der Feststellung der individuellen Leistungs- und Lernfähigkeit des Schülers im Hinblick auf die Anforderungen der einzelnen Leistungsgruppen auf der Grundlage der Feststellung der Mitarbeit des Schülers im Unterricht, im Falle des Besuches eines vergleichbaren Unterrichtgegenstandes in einer unmittelbar vorhergehenden Schulstufe auch unter Berücksichtigung der Beurteilung in diesem Unterrichtsgegenstand, sowie allenfalls unter Verwendung von mündlichen und schriftlichen Leistungsfeststellungen.
 
 (1a) An Berufsschulen entfällt der Beobachtungszeitraum für die Leistungsgruppen im betriebswirtschaftlichen und fachtheoretischen Unterricht. Schüler, die den entsprechenden Fachbereich in  einer  anderen  berufsbildenden  Schule  oder  in  der  Polytechnischen  Schule  erfolgreich  abgeschlossen haben, sind in die höhere Leistungsgruppe einzustufen, in welcher der Unterricht auf dem bisher erlernten Lehrstoff aufzubauen hat.
 
@@ -1168,7 +1166,7 @@ abgelegt  haben;  diese  Schüler  haben  mit  Beginn  des  Schuljahres  die  h�
 
 § 31c. (1)  Ein  Schüler  ist  in  die  nächsthöhere  Leistungsgruppe  eines  leistungsdifferenzierten Pflichtgegenstandes umzustufen, wenn auf Grund der bisherigen Leistungen zu erwarten ist, daß er den erhöhten Anforderungen in der nächsthöheren Leistungsgruppe voraussichtlich entsprechen wird.
 
-(2) Wäre ein Schüler während des Unterrichtsjahres mit 'Nicht genügend' zu beurteilen, ist er in die nächstniedrigere  Leistungsgruppe  des  betreffenden  Pflichtgegenstandes  umzustufen.  Ferner  ist  der Schüler  in  die  nächstniedrigere  Leistungsgruppe  umzustufen,  wenn  die  Leistungsbeurteilung  für  die Schulstufe in dem leistungsdifferenzierten Pflichtgegenstand mit 'Nicht genügend' erfolgt. An Berufsschulen kann eine Umstufung in die niedrigere Leistungsgruppe auch bei einer Leistungsbeurteilung mit 'Genügend' erfolgen, wenn der Schüler zustimmt.
+(2) Wäre ein Schüler während des Unterrichtsjahres mit „Nicht genügend“ zu beurteilen, ist er in die nächstniedrigere Leistungsgruppe des betreffenden Pflichtgegenstandes umzustufen. Ferner ist der Schüler in die nächstniedrigere Leistungsgruppe umzustufen, wenn die Leistungsbeurteilung für die Schulstufe in dem leistungsdifferenzierten Pflichtgegenstand mit „Nicht genügend“ erfolgt. An Berufsschulen kann eine Umstufung in die niedrigere Leistungsgruppe auch bei einer Leistungsbeurteilung mit „Genügend“ erfolgen, wenn der Schüler zustimmt.
 
 (3)  Eine  Konferenz  der  Lehrer,  die  an  der  betreffenden  Schule  den  leistungsdifferenzierten Pflichtgegenstand unterrichten, kann Umstufungstermine festsetzen, sofern dies am betreffenden Standort vom pädagogischen Standpunkt aus zweckmäßig erscheint.
 
@@ -1190,7 +1188,7 @@ Bundesrecht konsolidiert
 
 #### Teilnahme am Unterricht in einer anderen Schulstufe an Sonderschulen
 
-§ 31d. Sofern  ein  Schüler  einer  Allgemeinen Sonderschule auf der betreffenden  Schulstufe in den Unterrichtsgegenständen Deutsch und (oder) Mathematik nicht entsprechend gefördert werden kann, ist ihm die Teilnahme am Unterricht der nächstniedrigeren oder nächsthöheren Schulstufe zu ermöglichen. Die  Erziehungsberechtigten  können  den  Schüler  zur  Teilnahme  am  Unterricht  in  Deutsch  und  (oder) Mathematik  der  nächstniedrigeren  oder  nächsthöheren  Schulstufe  anmelden,  wenn  die  Schulkonferenz auf  Antrag  der  Erziehungsberechtigten  oder  von  Amts  wegen  feststellt,  daß  hiedurch  eine  bessere Förderungsmöglichkeit gegeben ist. Die Teilnahme am Unterricht in der nächstniedrigeren Schulstufe ist nur zu ermöglichen, wenn im betreffenden Unterrichtsgegenstand eine Beurteilung für die Schulstufe mit 'Nicht genügend' zu erwarten ist.
+§ 31d. Sofern ein Schüler einer Allgemeinen Sonderschule auf der betreffenden Schulstufe in den Unterrichtsgegenständen Deutsch und (oder) Mathematik nicht entsprechend gefördert werden kann, ist ihm die Teilnahme am Unterricht der nächstniedrigeren oder nächsthöheren Schulstufe zu ermöglichen. Die Erziehungsberechtigten können den Schüler zur Teilnahme am Unterricht in Deutsch und (oder) Mathematik der nächstniedrigeren oder nächsthöheren Schulstufe anmelden, wenn die Schulkonferenz auf Antrag der Erziehungsberechtigten oder von Amts wegen feststellt, daß hiedurch eine bessere Förderungsmöglichkeit gegeben ist. Die Teilnahme am Unterricht in der nächstniedrigeren Schulstufe ist nur zu ermöglichen, wenn im betreffenden Unterrichtsgegenstand eine Beurteilung für die Schulstufe mit „Nicht genügend“ zu erwarten ist.
 
 (BGBl. Nr. 367/1982, Art. I Z 31)
 
@@ -1213,7 +1211,7 @@ Bundesrecht konsolidiert
 
 (2) Schüler mit sonderpädagogischem Förderbedarf sind mit Zustimmung des Schulerhalters und mit Bewilligung der zuständigen Schulbehörde berechtigt, eine Sonderschule zwei Jahre über den im Abs. 1 genannten Zeitraum hinaus zu besuchen.
 
-(2a) Schüler, die während der Schulpflicht oder nach Weiterbesuch der Schule in einem freiwilligen zehnten  Schuljahr  § 18  des  Schulpflichtgesetzes 1985)  die  4.  Klasse  der  Hauptschule  oder  der  Neuen Mittelschule  oder  die  Polytechnische  Schule  nicht  erfolgreich  abgeschlossen  haben,  dürfen  in  einem freiwilligen zehnten bzw. elften Schuljahr die Hauptschule, die Neue Mittelschule oder die Polytechnische  Schule  mit  Zustimmung  des  Schulerhalters  und  mit  Bewilligung  der zuständigen Schulbehörde besuchen, sofern sie zu Beginn des betreffenden Schuljahres das 18. Lebensjahr noch nicht vollendet haben.
+(2a) Schüler, die während der Schulpflicht oder nach Weiterbesuch der Schule in einem freiwilligen zehnten Schuljahr (§ 18 des Schulpflichtgesetzes 1985) die 4. Klasse der Hauptschule oder der Neuen Mittelschule oder die Polytechnische Schule nicht erfolgreich abgeschlossen haben, dürfen in einem freiwilligen zehnten bzw. elften Schuljahr die Hauptschule, die Neue Mittelschule oder die Polytechnische Schule mit Zustimmung des Schulerhalters und mit Bewilligung der zuständigen Schulbehörde besuchen, sofern sie zu Beginn des betreffenden Schuljahres das 18. Lebensjahr noch nicht vollendet haben.
 
 www.ris.bka.gv.at
 
@@ -1245,17 +1243,17 @@ Bundesrecht konsolidiert
 
 (2) Ein Schüler hört schon vor dem im Abs. 1 genannten Zeitpunkt auf, Schüler einer Schule zu sein
 
-- mit  dem  Zeitpunkt  des  Einlangens  seiner  schriftlichen  Abmeldung  vom  Schulbesuch  beim Schulleiter, sofern darin nicht ein späterer Endtermin des Schulbesuches genannt wird;
+a) mit dem Zeitpunkt des Einlangens seiner schriftlichen Abmeldung vom Schulbesuch beim Schulleiter, sofern darin nicht ein späterer Endtermin des Schulbesuches genannt wird;
 
-- in  der  Berufsschule  mit  der  Beendigung  des  Lehr-  oder  Ausbildungsverhältnisses,  sofern  die Berufsschule nicht gemäß § 32 Abs. 3 oder 3a besucht wird;
+b) in der Berufsschule mit der Beendigung des Lehr- oder Ausbildungsverhältnisses, sofern die Berufsschule nicht gemäß § 32 Abs. 3 oder 3a besucht wird;
 
-- mit  dem  ungenützten  Ablauf  der  einwöchigen  Frist  seit  der  Zustellung  einer  schriftlichen Aufforderung zur Rechtfertigung gemäß § 45 Abs. 5;
+c) mit dem ungenützten Ablauf der einwöchigen Frist seit der Zustellung einer schriftlichen Aufforderung zur Rechtfertigung gemäß § 45 Abs. 5;
 
-- mit dem Zeitpunkt, in dem feststeht, daß ein Schüler im Falle des Weiterbesuches die gemäß § 32 zulässige Höchstdauer des Schulbesuches überschreitet;
+d) mit dem Zeitpunkt, in dem feststeht, daß ein Schüler im Falle des Weiterbesuches die gemäß § 32 zulässige Höchstdauer des Schulbesuches überschreitet;
 
-- mit dem Eintritt der Rechtskraft eines Ausschlusses (§ 49) oder eines Widerrufes der vorzeitigen Aufnahme in die Volksschule bzw. der Abmeldung vom Besuch der 1. Schulstufe (§ 7 Abs. 8 des Schulpflichtgesetzes 1985);
+e) mit dem Eintritt der Rechtskraft eines Ausschlusses (§ 49) oder eines Widerrufes der vorzeitigen Aufnahme in die Volksschule bzw. der Abmeldung vom Besuch der 1. Schulstufe (§ 7 Abs. 8 des Schulpflichtgesetzes 1985);
 
-- wenn  er  die  1.  Stufe  einer  berufsbildenden  mittleren  oder  höheren  Schule  oder  einer  höheren Anstalt  der  Lehrerbildung  und  der  Erzieherbildung  mit  vier  oder  mehr  'Nicht  genügend'  in Pflichtgegenständen abgeschlossen hat.
+f) wenn er die 1. Stufe einer berufsbildenden mittleren oder höheren Schule oder einer höheren Anstalt der Lehrerbildung und der Erzieherbildung mit vier oder mehr „Nicht genügend“ in Pflichtgegenständen abgeschlossen hat.
 
 (3)  Der  Zeitpunkt  und  der  Grund  der  Beendigung  des  Schulbesuches  sind  auf  dem  Jahreszeugnis (§ 22  Abs. 1),  wenn  jedoch  das  Ende  des  Schulbesuches  nicht  mit  dem  Abschluß  einer  Schulstufe zusammenfällt, auf der Schulbesuchsbestätigung (§ 22 Abs. 10) ersichtlich zu machen.
 
@@ -1291,21 +1289,21 @@ Zum Bezugszeitraum vgl. § 82 Abs. 5p Z 2 und § 82b.
 
 § 34. (1) Die abschließende Prüfung besteht aus
 
-- einer Vorprüfung und einer Hauptprüfung oder
+1. einer Vorprüfung und einer Hauptprüfung oder
 
-- einer Hauptprüfung.
+2. einer Hauptprüfung.
 
-- Die Vorprüfung besteht aus schriftlichen, mündlichen und/oder praktischen Prüfungen.
+(2) Die Vorprüfung besteht aus schriftlichen, mündlichen und/oder praktischen Prüfungen.
 
-- Die Hauptprüfung besteht aus
+(3) Die Hauptprüfung besteht aus
 
-- einer abschließenden Arbeit (einschließlich deren Präsentation und Diskussion), die selbständig und außerhalb der Unterrichtszeit zu erstellen ist (in höheren Schulen auf vorwissenschaftlichem Niveau; mit Abschluss- oder Diplomcharakter),
+1. einer abschließenden Arbeit (einschließlich deren Präsentation und Diskussion), die selbständig und außerhalb der Unterrichtszeit zu erstellen ist (in höheren Schulen auf vorwissenschaftlichem Niveau; mit Abschluss- oder Diplomcharakter),
 
-- einer Klausurprüfung,  die schriftliche, grafische und/oder  praktische Klausurarbeiten  und allfällige mündliche Kompensationsprüfungen umfasst, und
+2. einer Klausurprüfung, die schriftliche, grafische und/oder praktische Klausurarbeiten und allfällige mündliche Kompensationsprüfungen umfasst, und
 
-- einer mündlichen Prüfung, die mündliche Teilprüfungen umfasst.
+3. einer mündlichen Prüfung, die mündliche Teilprüfungen umfasst.
 
-- Der zuständige Bundesminister hat für die betreffenden Schularten (Schulformen, Fachrichtungen) nach deren Aufgaben und Lehrplänen sowie unter Bedachtnahme auf die Gleichwertigkeit der Prüfung durch Verordnung nähere Festlegungen über die Prüfungsform zu treffen.
+(4) Der zuständige Bundesminister hat für die betreffenden Schularten (Schulformen, Fachrichtungen) nach deren Aufgaben und Lehrplänen sowie unter Bedachtnahme auf die Gleichwertigkeit der Prüfung durch Verordnung nähere Festlegungen über die Prüfungsform zu treffen.
 
 #### Beachte für folgende Bestimmung
 
@@ -1315,9 +1313,9 @@ Zum Bezugszeitraum vgl. § 82 Abs. 5p Z 2 und § 82b.
 
 § 35. (1) Bei der Vorprüfung gehören den Prüfungskommissionen der einzelnen Prüfungsgebiete als Mitglieder an:
 
-- der  Schulleiter  oder  der  Fachvorstand  oder  ein  vom  Schulleiter  zu  bestellender  Lehrer  als Vorsitzender und
+1. der Schulleiter oder der Fachvorstand oder ein vom Schulleiter zu bestellender Lehrer als Vorsitzender und
 
-- jener  Lehrer,  der  den  das  jeweilige  Prüfungsgebiet  bildenden  Unterrichtsgegenstand  in  der betreffenden  Klasse  unterrichtet  hat  sowie  ein  weiterer  vom  Schulleiter  zu  bestimmender fachkundiger Lehrer (Prüfer).
+2. jener Lehrer, der den das jeweilige Prüfungsgebiet bildenden Unterrichtsgegenstand in der betreffenden Klasse unterrichtet hat sowie ein weiterer vom Schulleiter zu bestimmender fachkundiger Lehrer (Prüfer).
 
 www.ris.bka.gv.at
 
@@ -1329,17 +1327,17 @@ Seite 32 von 71
 
 Bundesrecht konsolidiert
 
-- Bei der Hauptprüfung gehören den Prüfungskommissionen der einzelnen Prüfungsgebiete gemäß § 34 Abs. 3 Z 1 bis 3 als Mitglieder an:
+(2) Bei der Hauptprüfung gehören den Prüfungskommissionen der einzelnen Prüfungsgebiete gemäß § 34 Abs. 3 Z 1 bis 3 als Mitglieder an:
 
-- der nach der Geschäftsverteilung des Amtes des Landesschulrates zuständige Landesschulinspektor  oder  ein  anderer  von  der  zuständigen  Schulbehörde  zu  bestellender Experte des mittleren bzw. des höheren Schulwesens oder externer Fachexperte als Vorsitzender,
+1. der nach der Geschäftsverteilung des Amtes des Landesschulrates zuständige Landesschulinspektor oder ein anderer von der zuständigen Schulbehörde zu bestellender Experte des mittleren bzw. des höheren Schulwesens oder externer Fachexperte als Vorsitzender,
 
-- der Schulleiter oder ein von ihm zu bestellender Abteilungsvorstand oder Lehrer,
+2. der Schulleiter oder ein von ihm zu bestellender Abteilungsvorstand oder Lehrer,
 
-- der Klassenvorstand bzw. der Jahrgangsvorstand oder, wenn es im Hinblick auf die fachlichen Anforderungen  des  Prüfungsgebietes  erforderlich  ist,  ein  vom  Schulleiter  zu  bestellender fachkundiger Lehrer,
+3. der Klassenvorstand bzw. der Jahrgangsvorstand oder, wenn es im Hinblick auf die fachlichen Anforderungen des Prüfungsgebietes erforderlich ist, ein vom Schulleiter zu bestellender fachkundiger Lehrer,
 
-- jener Lehrer, der die abschließende Arbeit gemäß § 34 Abs. 3 Z 1 betreut hat oder der den oder die  das  jeweilige  Prüfungsgebiet  der  Klausurprüfung  oder  der  mündlichen  Prüfung  bildenden Unterrichtsgegenstand  oder  Unterrichtsgegenstände  in  der  betreffenden  Klasse  unterrichtet  hat (Prüfer) und
+4. jener Lehrer, der die abschließende Arbeit gemäß § 34 Abs. 3 Z 1 betreut hat oder der den oder die das jeweilige Prüfungsgebiet der Klausurprüfung oder der mündlichen Prüfung bildenden Unterrichtsgegenstand oder Unterrichtsgegenstände in der betreffenden Klasse unterrichtet hat (Prüfer) und
 
-- bei  Prüfungsgebieten  der  mündlichen  Prüfung  sowie  bei  mündlichen  Kompensationsprüfungen der Klausurprüfung ein vom Schulleiter zu bestimmender fachkundiger Lehrer (Beisitzer).
+5. bei Prüfungsgebieten der mündlichen Prüfung sowie bei mündlichen Kompensationsprüfungen der Klausurprüfung ein vom Schulleiter zu bestimmender fachkundiger Lehrer (Beisitzer).
 
 Wenn  für  ein  Prüfungsgebiet  mehrere  Lehrer  als  Prüfer  gemäß  Z 4  in  Betracht  kommen,  hat  der Schulleiter einen,  wenn es die fachlichen  Anforderungen erfordern jedoch höchstens zwei fachkundige Lehrer  als  Prüfer  zu  bestellen.  Bei  der  Bestellung  von  zwei  Prüfern  kommt  diesen  gemeinsam  eine Stimme zu und erfolgt im Fall einer mündlichen Prüfung oder einer mündlichen Kompensationsprüfung keine Bestellung eines Beisitzers gemäß Z 5. Wenn für ein Prüfungsgebiet kein fachkundiger Lehrer als Beisitzer  gemäß  Z  5  zur  Verfügung  steht,  hat  die  zuständige  Schulbehörde  einen  fachkundigen  Lehrer einer anderen Schule als Beisitzer zu bestellen.
 
@@ -1355,17 +1353,17 @@ Abs. 3: Tritt hinsichtlich dreijähriger mittlerer Schulen mit Ablauf des 31. Au
 
 § 36. (1) Vorprüfungen haben nach den Aufgaben und dem Lehrplan der betreffenden Schulform für das  erstmalige  Antreten  am  Ende  der  vorletzten  oder  in  der  letzten  Schulstufe,  jedoch  vor  dem Haupttermin der Hauptprüfung stattzufinden. Die konkreten Prüfungstermine für die einzelnen Prüfungsgebiete (Teilprüfungen) sind nach  Maßgabe  näherer  Regelungen  durch  Verordnung  des zuständigen Bundesministers sowie unter Bedachtnahme auf die lehrplanmäßigen Erfordernisse durch die zuständige Schulbehörde festzulegen.
 
-- Hauptprüfungen haben stattzufinden:
+(2) Hauptprüfungen haben stattzufinden:
 
-- für  die  erstmalige  Abgabe  der  abschließenden  Arbeit  gemäß  § 34  Abs.  3  Z 1  innerhalb  des 2. Semesters der letzten Schulstufe vor dem Beginn der Klausurprüfung im Haupttermin,
+1. für die erstmalige Abgabe der abschließenden Arbeit gemäß § 34 Abs. 3 Z 1 innerhalb des 2. Semesters der letzten Schulstufe vor dem Beginn der Klausurprüfung im Haupttermin,
 
-- 1a. für  die  Präsentation  und  Diskussion  der  abschließenden  Arbeit  im  Zeitraum  nach  erfolgter Abgabe gemäß Z 1 und dem Ende des Haupttermins,
+1a. für die Präsentation und Diskussion der abschließenden Arbeit im Zeitraum nach erfolgter Abgabe gemäß Z 1 und dem Ende des Haupttermins,
 
-- für  das  erstmalige  Antreten  zur  Klausurprüfung  und  zur  mündlichen  Prüfung  innerhalb  der letzten neun oder, wenn es die Terminorganisation erfordert, zehn Wochen des Unterrichtsjahres (Haupttermin) und
+2. für das erstmalige Antreten zur Klausurprüfung und zur mündlichen Prüfung innerhalb der letzten neun oder, wenn es die Terminorganisation erfordert, zehn Wochen des Unterrichtsjahres (Haupttermin) und
 
-- im Übrigen
+3. im Übrigen
 
-- innerhalb der ersten sieben Wochen des Schuljahres,
+a) innerhalb der ersten sieben Wochen des Schuljahres,
 
 www.ris.bka.gv.at
 
@@ -1377,21 +1375,21 @@ Seite 33 von 71
 
 Bundesrecht konsolidiert
 
-- innerhalb von sieben Wochen nach den Weihnachtsferien und
+b) innerhalb von sieben Wochen nach den Weihnachtsferien und
 
-- innerhalb der letzten neun oder, wenn es die Terminorganisation erfordert, zehn Wochen des Unterrichtsjahres.
+c) innerhalb der letzten neun oder, wenn es die Terminorganisation erfordert, zehn Wochen des Unterrichtsjahres.
 
 Wenn  es  aus  lehrplanmäßigen  Gründen  oder  wegen  der  Dauer  einer  lehrplanmäßig  vorgesehenen Ferialpraxis  erforderlich  ist,  kann  der  zuständige  Bundesminister  durch  Verordnung  von  Z  1  bis 3 abweichende Termine für die Hauptprüfung festlegen.
 
 (3) Im Rahmen der abschließenden Prüfung an berufsbildenden höheren Schulen sowie an höheren Anstalten der Lehrerbildung und der Erzieherbildung können einzelne Teilprüfungen der Klausurprüfung bzw.  der  mündlichen  Prüfung  auf  Antrag  des  Schülers  vor  dem  Haupttermin  (Abs.  2  Z  2)  abgelegt werden  (vorgezogene  Teilprüfungen),  wenn  die  entsprechenden  Unterrichtsgegenstände  lehrplanmäßig abgeschlossen sind. Prüfungstermin ist der Termin gemäß Abs. 2 Z 3 lit. a der letzten Schulstufe.
 
-- Die konkreten Prüfungstermine im Rahmen der Hauptprüfung sind unter Bedachtnahme auf die lehrplanmäßigen Erfordernisse wie folgt festzulegen:
+(4) Die konkreten Prüfungstermine im Rahmen der Hauptprüfung sind unter Bedachtnahme auf die lehrplanmäßigen Erfordernisse wie folgt festzulegen:
 
-- für  die  Abgabe  der  abschließenden  Arbeit  gemäß  § 34  Abs.  3  Z  1  durch  den  zuständigen Bundesminister,
+1. für die Abgabe der abschließenden Arbeit gemäß § 34 Abs. 3 Z 1 durch den zuständigen Bundesminister,
 
-- für  die  einzelnen  standardisierten  Klausurarbeiten  der  Klausurprüfung  durch  den  zuständigen Bundesminister  und  für  die  übrigen  Klausurarbeiten  der  Klausurprüfung  durch  die  zuständige Schulbehörde und
+2. für die einzelnen standardisierten Klausurarbeiten der Klausurprüfung durch den zuständigen Bundesminister und für die übrigen Klausurarbeiten der Klausurprüfung durch die zuständige Schulbehörde und
 
-- für  allfällige  mündliche  Kompensationsprüfungen  von  standardisierten  Klausurarbeiten  durch den zuständigen Bundesminister, für die mündliche Prüfung, allfällige mündliche Kompensationsprüfungen von nicht standardisierten Klausurarbeiten sowie die Präsentation und Diskussion der abschließenden Arbeit gemäß § 34 Abs. 3 Z 1 durch die zuständige Schulbehörde.
+3. für allfällige mündliche Kompensationsprüfungen von standardisierten Klausurarbeiten durch den zuständigen Bundesminister, für die mündliche Prüfung, allfällige mündliche Kompensationsprüfungen von nicht standardisierten Klausurarbeiten sowie die Präsentation und Diskussion der abschließenden Arbeit gemäß § 34 Abs. 3 Z 1 durch die zuständige Schulbehörde.
 
 Die  zuständige  Schulbehörde  hat  bei  der  Festlegung  von  Prüfungsterminen  gemäß  Z  2  und  3  unter Bedachtnahme  auf  die  durch  den  zuständigen  Bundesminister  festgelegten  Prüfungstermine  für  die standardisierten  Klausurarbeiten  vorzusehen,  dass  zwischen  dem  Ende  der  Klausurprüfung  und  dem Anfang der mündlichen Prüfung ein angemessener, mindestens zwei Wochen umfassender Zeitraum liegt.
 
@@ -1429,13 +1427,13 @@ Bundesrecht konsolidiert
 
 (2) Die Aufgabenstellungen sind wie folgt zu bestimmen:
 
-- für  die  einzelnen  Prüfungsgebiete  der  Vorprüfung  durch  den  Prüfer  mit  Zustimmung  des Vorsitzenden der Prüfungskommission,
+1. für die einzelnen Prüfungsgebiete der Vorprüfung durch den Prüfer mit Zustimmung des Vorsitzenden der Prüfungskommission,
 
-- für die abschließende Arbeit gemäß § 34 Abs. 3 Z 1 durch den Prüfer im Einvernehmen mit dem Prüfungskandidaten und mit Zustimmung der zuständigen Schulbehörde,
+2. für die abschließende Arbeit gemäß § 34 Abs. 3 Z 1 durch den Prüfer im Einvernehmen mit dem Prüfungskandidaten und mit Zustimmung der zuständigen Schulbehörde,
 
-- für die Prüfungsgebiete Deutsch (am Bundesgymnasium und Bundesrealgymnasium für Slowenen  weiters:  Slowenisch;  an  der  Zweisprachigen  Bundeshandelsakademie  in  Klagenfurt weiters: Slowenisch; am Zweisprachigen Bundesgymnasium in Oberwart weiters: Kroatisch und Ungarisch),  (Lebende)  Fremdsprache  (Englisch,  Französisch,  Spanisch,  Italienisch,  Latein, Griechisch; in weiteren Sprachen nach Maßgabe einer Verordnung des zuständigen Bundesministers) und (angewandte) Mathematik (unter Berücksichtigung der jeweiligen lehrplanmäßigen Anforderungen) der Klausurprüfung (Klausurarbeiten und mündliche Kompensationsprüfungen)  an  höheren  Schulen  durch  den  zuständigen  Bundesminister,  für  die übrigen Prüfungsgebiete der Klausurprüfung (Klausurarbeiten und mündliche Kompensationsprüfung) an mittleren und höheren Schulen auf Vorschlag des Prüfers durch die zuständige Schulbehörde und
+3. für die Prüfungsgebiete Deutsch (am Bundesgymnasium und Bundesrealgymnasium für Slowenen weiters: Slowenisch; an der Zweisprachigen Bundeshandelsakademie in Klagenfurt weiters: Slowenisch; am Zweisprachigen Bundesgymnasium in Oberwart weiters: Kroatisch und Ungarisch), (Lebende) Fremdsprache (Englisch, Französisch, Spanisch, Italienisch, Latein, Griechisch; in weiteren Sprachen nach Maßgabe einer Verordnung des zuständigen Bundesministers) und (angewandte) Mathematik (unter Berücksichtigung der jeweiligen lehrplanmäßigen Anforderungen) der Klausurprüfung (Klausurarbeiten und mündliche Kompensationsprüfungen) an höheren Schulen durch den zuständigen Bundesminister, für die übrigen Prüfungsgebiete der Klausurprüfung (Klausurarbeiten und mündliche Kompensationsprüfung) an mittleren und höheren Schulen auf Vorschlag des Prüfers durch die zuständige Schulbehörde und
 
-- für  die  einzelnen  Prüfungsgebiete der mündlichen Prüfung sind durch (Fach)lehrerkonferenzen Themenbereiche  zu  erstellen.  Der  Prüfungskandidat  hat  zwei  der  Themenbereiche  zu  wählen, wobei zu gewährleisten ist, dass ihm nicht bekannt ist, welche Themenbereiche er gewählt hat. Diese beiden Themenbereiche sind dem Prüfungskandidaten sodann vorzulegen, der in weiterer Folge sich für einen dieser Bereiche zu entscheiden hat, aus dem ihm vom Prüfer oder von den Prüfern eine Aufgabenstellung vorzulegen ist.
+4. für die einzelnen Prüfungsgebiete der mündlichen Prüfung sind durch (Fach)lehrerkonferenzen Themenbereiche zu erstellen. Der Prüfungskandidat hat zwei der Themenbereiche zu wählen, wobei zu gewährleisten ist, dass ihm nicht bekannt ist, welche Themenbereiche er gewählt hat. Diese beiden Themenbereiche sind dem Prüfungskandidaten sodann vorzulegen, der in weiterer Folge sich für einen dieser Bereiche zu entscheiden hat, aus dem ihm vom Prüfer oder von den Prüfern eine Aufgabenstellung vorzulegen ist.
 
 (3) Die Prüfung ist so zu gestalten, dass der Prüfungskandidat bei der Lösung der Aufgaben seine Kenntnisse  des  Prüfungsgebietes,  seine  Einsicht  in  die  Zusammenhänge  zwischen  verschiedenen Sachgebieten sowie seine Eigenständigkeit im Denken  und  in der Anwendung  des  Lehrstoffes nachweisen kann.  Die  Aufgabenstellung  der  abschließenden  Arbeit  gemäß  § 34  Abs. 3  Z 1  ist  darüber hinaus  unter  Beachtung  des  Bildungszieles  der  jeweiligen  Schulart  (Schulform,  Fachrichtung)  so  zu gestalten, dass der Prüfungskandidat umfangreiche Kenntnisse und die Beherrschung von dem jeweiligen Prüfungsgebiet oder der jeweiligen Fachdisziplin angemessenen Methoden  sowie seine  Selbständigkeit bei der Aufgabenbewältigung und seine Fähigkeit in der Kommunikation und Fachdiskussion im Rahmen der Präsentation und Diskussion unter Beweis stellen kann.
 
@@ -1467,17 +1465,17 @@ Bundesrecht konsolidiert
 
 (4)  Die  Leistungen  des  Prüfungskandidaten  bei  den  einzelnen  Prüfungsgebieten  der  mündlichen Prüfung der Hauptprüfung sind auf Grund von begründeten einvernehmlichen Anträgen der Prüfer bzw. der Prüfer und Beisitzer von der jeweiligen Prüfungskommission der Hauptprüfung (§ 35 Abs. 2 und 3) zu beurteilen (Beurteilungen der Prüfungsgebiete der mündlichen Prüfung).
 
-(5) Sofern im Rahmen einer Vorprüfung Teilprüfungen abgelegt wurden, hat die Prüfungskommission  der  Vorprüfung  auf  Grund  der  gemäß  Abs. 1  festgesetzten  Teilbeurteilungen  die Beurteilung der Leistungen des Prüfungskandidaten in diesen Prüfungsgebieten festzusetzen. Sofern im Rahmen  der  Klausurprüfung  bei  negativer  Beurteilung  einer  Klausurarbeit  eine  zusätzliche  mündliche Kompensationsprüfung  abgelegt  wurde,  hat  die  Prüfungskommission  der  Hauptprüfung  auf  Grund  der Teilbeurteilung  der  Klausurarbeit  mit  'Nicht  genügend'  und  der  Teilbeurteilung  der  mündlichen Kompensationsprüfung die Beurteilung der Leistungen des Prüfungskandidaten im betreffenden Prüfungsgebiet mit 'Befriedigend', 'Genügend' oder 'Nicht genügend' festzusetzen.
+(5) Sofern im Rahmen einer Vorprüfung Teilprüfungen abgelegt wurden, hat die Prüfungskommission der Vorprüfung auf Grund der gemäß Abs. 1 festgesetzten Teilbeurteilungen die Beurteilung der Leistungen des Prüfungskandidaten in diesen Prüfungsgebieten festzusetzen. Sofern im Rahmen der Klausurprüfung bei negativer Beurteilung einer Klausurarbeit eine zusätzliche mündliche Kompensationsprüfung abgelegt wurde, hat die Prüfungskommission der Hauptprüfung auf Grund der Teilbeurteilung der Klausurarbeit mit „Nicht genügend“ und der Teilbeurteilung der mündlichen Kompensationsprüfung die Beurteilung der Leistungen des Prüfungskandidaten im betreffenden Prüfungsgebiet mit „Befriedigend“, „Genügend“ oder „Nicht genügend“ festzusetzen.
 
-(6) Die Beurteilungen gemäß Abs. 1 bis 5 haben unter Anwendung des § 18 Abs. 2 bis 4 und 6 unter Ausschluss der Öffentlichkeit zu erfolgen. Auf Grund der gemäß Abs. 1 bis 5 festgesetzten Beurteilungen der Leistungen in den Prüfungsgebieten der Vorprüfung  und der Hauptprüfung hat der Vorsitzende der Prüfungskommissionen  der  Hauptprüfung  über  die  Gesamtbeurteilung  der  abschließenden  Prüfung  zu entscheiden. Die abschließende Prüfung ist
+(6) Die Beurteilungen gemäß Abs. 1 bis 5 haben unter Anwendung des § 18 Abs. 2 bis 4 und 6 unter Ausschluss der Öffentlichkeit zu erfolgen. Auf Grund der gemäß Abs. 1 bis 5 festgesetzten Beurteilungen der Leistungen in den Prüfungsgebieten der Vorprüfung und der Hauptprüfung hat der Vorsitzende der Prüfungskommissionen der Hauptprüfung über die Gesamtbeurteilung der abschließenden Prüfung zu entscheiden. Die abschließende Prüfung ist
 
-'mit  ausgezeichnetem Erfolg bestanden',  wenn  mindestens die Hälfte der Prüfungsgebiete mit 'Sehr  gut'  und  die  übrigen  Prüfungsgebiete  mit  'Gut'  beurteilt  werden;  Beurteilungen  mit 'Befriedigend' hindern diese Feststellung nicht, wenn dafür mindestens gleich viele Beurteilungen mit 'Sehr gut' über die Hälfte der Prüfungsgebiete hinaus vorliegen;
+1. „mit ausgezeichnetem Erfolg bestanden“, wenn mindestens die Hälfte der Prüfungsgebiete mit „Sehr gut“ und die übrigen Prüfungsgebiete mit „Gut“ beurteilt werden; Beurteilungen mit „Befriedigend“ hindern diese Feststellung nicht, wenn dafür mindestens gleich viele Beurteilungen mit „Sehr gut“ über die Hälfte der Prüfungsgebiete hinaus vorliegen;
 
-'mit gutem Erfolg bestanden', wenn keines der Prüfungsgebiete schlechter als mit 'Befriedigend' beurteilt wird und im Übrigen mindestens gleich viele Prüfungsgebiete mit 'Sehr gut' wie mit 'Befriedigend' beurteilt werden;
+2. „mit gutem Erfolg bestanden“, wenn keines der Prüfungsgebiete schlechter als mit „Befriedigend“ beurteilt wird und im Übrigen mindestens gleich viele Prüfungsgebiete mit „Sehr gut“ wie mit „Befriedigend“ beurteilt werden;
 
-'bestanden', wenn kein Prüfungsgebiet mit 'Nicht genügend' beurteilt wird und die Voraussetzungen nach Z 1 und 2 nicht gegeben sind;
+3. „bestanden“, wenn kein Prüfungsgebiet mit „Nicht genügend“ beurteilt wird und die Voraussetzungen nach Z 1 und 2 nicht gegeben sind;
 
-'nicht  bestanden'  wenn  die  Leistungen  in  einem  oder  mehreren  Prüfungsgebieten  mit  'Nicht genügend' beurteilt werden.
+4. „nicht bestanden“ wenn die Leistungen in einem oder mehreren Prüfungsgebieten mit „Nicht genügend“ beurteilt werden.
 
 #### Beachte für folgende Bestimmung
 
@@ -1487,19 +1485,19 @@ Zum Bezugszeitraum vgl. § 82 Abs. 5p Z 2 und § 82b.
 
 § 39. (1)  Die  Leistungen des Prüfungskandidaten bei der Vorprüfung und auf Antrag des Schülers auch bei vorgezogenen Teilprüfungen der Hauptprüfung sind in einem Zeugnis über die Vorprüfung bzw. über  die  vorgezogene  Teilprüfung  der  Hauptprüfung  zu  beurkunden.  Die  Gesamtbeurteilung  der Leistungen des Prüfungskandidaten ist in einem Zeugnis über die abschließende Prüfung zu beurkunden.
 
-- Das Zeugnis gemäß Abs. 1 hat insbesondere zu enthalten:
+(2) Das Zeugnis gemäß Abs. 1 hat insbesondere zu enthalten:
 
-- die Bezeichnung der Schule (Schulart, Schulform, Fachrichtung);
+1. die Bezeichnung der Schule (Schulart, Schulform, Fachrichtung);
 
-- die Personalien des Prüfungskandidaten;
+2. die Personalien des Prüfungskandidaten;
 
-- die Bezeichnung des Lehrplanes, nach dem unterrichtet wurde;
+3. die Bezeichnung des Lehrplanes, nach dem unterrichtet wurde;
 
-- die Themenstellung der abschließenden Arbeit gemäß § 34 Abs. 3 Z 1;
+4. die Themenstellung der abschließenden Arbeit gemäß § 34 Abs. 3 Z 1;
 
-- die  Beurteilung  der  Leistungen  in  den  einzelnen  Prüfungsgebieten  der  Vorprüfung  und  der Hauptprüfung;
+5. die Beurteilung der Leistungen in den einzelnen Prüfungsgebieten der Vorprüfung und der Hauptprüfung;
 
-- bei der Hauptprüfung die Gesamtbeurteilung der Leistungen gemäß § 38 Abs. 6;
+6. bei der Hauptprüfung die Gesamtbeurteilung der Leistungen gemäß § 38 Abs. 6;
 
 www.ris.bka.gv.at
 
@@ -1511,13 +1509,13 @@ Seite 36 von 71
 
 Bundesrecht konsolidiert
 
-- allenfalls die Entscheidung über die Zulässigkeit einer Wiederholung von Teilprüfungen (§ 40);
+7. allenfalls die Entscheidung über die Zulässigkeit einer Wiederholung von Teilprüfungen (§ 40);
 
-- allenfalls Vermerke über durch den Schulbesuch erworbene Berechtigungen (auch im Hinblick auf die EU-rechtliche Anerkennung von Diplomen und beruflichen Befähigungsnachweisen);
+8. allenfalls Vermerke über durch den Schulbesuch erworbene Berechtigungen (auch im Hinblick auf die EU-rechtliche Anerkennung von Diplomen und beruflichen Befähigungsnachweisen);
 
-- Ort  und  Datum  der  Ausstellung,  Unterschrift  des  Vorsitzenden  der  Prüfungskommission,  des Schulleiters oder des Abteilungsvorstandes sowie des Klassenvorstandes bzw. des Jahrgangsvorstandes, Rundsiegel der Schule.
+9. Ort und Datum der Ausstellung, Unterschrift des Vorsitzenden der Prüfungskommission, des Schulleiters oder des Abteilungsvorstandes sowie des Klassenvorstandes bzw. des Jahrgangsvorstandes, Rundsiegel der Schule.
 
-- Der  zuständige  Bundesminister  hat  durch  Verordnung  die  näheren  Bestimmungen  über  die Gestaltung der Zeugnisformulare zu treffen.
+(3) Der zuständige Bundesminister hat durch Verordnung die näheren Bestimmungen über die Gestaltung der Zeugnisformulare zu treffen.
 
 #### Beachte für folgende Bestimmung
 
@@ -1525,7 +1523,7 @@ Zum Bezugszeitraum vgl. § 82 Abs. 5p Z 2 und § 82b.
 
 #### Wiederholung von Teilprüfungen bzw. von Prüfungsgebieten
 
-§ 40. (1)  Wurden  Teilprüfungen  bzw.  Prüfungsgebiete  wegen  vorgetäuschter  Leistungen  nicht beurteilt  oder  mit  'Nicht  genügend'  beurteilt,  so  ist  der  Prüfungskandidat  höchstens  drei  Mal  zur Wiederholung dieser Teilprüfungen der Vorprüfung bzw. Prüfungsgebiete der Hauptprüfung zuzulassen.
+§ 40. (1) Wurden Teilprüfungen bzw. Prüfungsgebiete wegen vorgetäuschter Leistungen nicht beurteilt oder mit „Nicht genügend“ beurteilt, so ist der Prüfungskandidat höchstens drei Mal zur Wiederholung dieser Teilprüfungen der Vorprüfung bzw. Prüfungsgebiete der Hauptprüfung zuzulassen.
 
 (2) Die Wiederholung der abschließenden Arbeit gemäß § 34 Abs. 3 Z 1 hat nach Maßgabe näherer Festlegungen  durch  Verordnung  mit  neuer  Themenstellung  oder  in  anderer  Form  zu  erfolgen.  Die Wiederholung der übrigen Teilprüfungen der Vorprüfung bzw. Prüfungsgebiete der Klausurprüfung und der mündlichen Prüfung hat in der gleichen Art wie die ursprüngliche Prüfung zu erfolgen.
 
@@ -1547,7 +1545,7 @@ Zum Bezugszeitraum vgl. § 82 Abs. 5p Z 2 und § 82b.
 
 #### Bundes-Reifeprüfungskommission
 
-§ 41a. (1)  Der zuständige Bundesminister hat eine Bundes-Reifeprüfungskommission einzurichten. Diese  hat  die  Aufgaben,  alle  zentralen  Elemente  der  abschließenden  Prüfung  gemäß  Abschnitt  8  auf Grundlage der vom  BIFIE  vorgelegten Auswertungsund Evaluierungsergebnisse begleitend zu evaluieren  und  den  zuständigen  Bundesminister  bezüglich  der  Abwicklung  der  Prüfung  strategisch  zu beraten.
+§ 41a. (1) Der zuständige Bundesminister hat eine Bundes-Reifeprüfungskommission einzurichten. Diese hat die Aufgaben, alle zentralen Elemente der abschließenden Prüfung gemäß Abschnitt 8 auf Grundlage der vom BIFIE vorgelegten Auswertungs- und Evaluierungsergebnisse begleitend zu evaluieren und den zuständigen Bundesminister bezüglich der Abwicklung der Prüfung strategisch zu beraten.
 
 www.ris.bka.gv.at
 
@@ -1607,7 +1605,7 @@ Seite 38 von 71
 
 Bundesrecht konsolidiert
 
-(4) Die Externistenprüfungen sind vor Prüfungskommissionen abzulegen. Auf die Kommissionen für Externistenprüfungen, die einer Reifeprüfung, Reifeund Diplomprüfung, Diplomprüfung oder Abschlußprüfung  entsprechen,  ist  § 35  sinngemäß  anzuwenden.  In  den  übrigen  Fällen  besteht  die Prüfungskommission  aus  dem  Leiter  der  Schule  oder  einem  von  ihm  zu  bestimmenden  Lehrer  als Vorsitzenden und der erforderlichen Anzahl von Lehrern der in Betracht kommenden Prüfungsgegenstände, die der Schulleiter zu bestimmen  hat. Die  zuständige Schulbehörde kann jedoch auch  Externistenprüfungskommissionen  an  bestimmten  Schulen  für  einen  größeren  örtlichen  Bereich einrichten  und  auch  Lehrer  anderer  Schulen  als  Mitglieder  dieser  Prüfungskommission  bestellen.  Der zuständige Bundesminister kann für das ganze Bundesgebiet zuständige Prüfungskommissionen einrichten,  wenn  dies  wegen  der  einheitlichen  Vorbereitung  der  Prüfungskandidaten  oder  der  geringen Zahl  von  Prüfern,  die  für  die  betreffenden  Prüfungsgegenstände  zur  Verfügung  stehen,  zweckmäßig erscheint. Ferner kann der zuständige Bundesminister durch Verordnung bestimmen, daß Externistenprüfungen  im  Sinne  des  Abs. 2  vor  Einzelprüfern  abzulegen  sind,  wenn  dadurch  eine Vereinfachung  und  Beschleunigung  des  Prüfungsganges  erreicht  wird;  hiebei  ist  vorzusehen,  daß  die Einzelprüfer  Mitglieder  der  nach  diesem  Absatz  zu  bildenden  Prüfungskommissionen  sind  und  die Externistenprüfung  an  der  Schule  abzulegen  ist,  an  der  die  Prüfungskommission,  der  der  Einzelprüfer angehört, eingerichtet ist.
+(4) Die Externistenprüfungen sind vor Prüfungskommissionen abzulegen. Auf die Kommissionen für Externistenprüfungen, die einer Reifeprüfung, Reife- und Diplomprüfung, Diplomprüfung oder Abschlußprüfung entsprechen, ist § 35 sinngemäß anzuwenden. In den übrigen Fällen besteht die Prüfungskommission aus dem Leiter der Schule oder einem von ihm zu bestimmenden Lehrer als Vorsitzenden und der erforderlichen Anzahl von Lehrern der in Betracht kommenden Prüfungsgegenstände, die der Schulleiter zu bestimmen hat. Die zuständige Schulbehörde kann jedoch auch Externistenprüfungskommissionen an bestimmten Schulen für einen größeren örtlichen Bereich einrichten und auch Lehrer anderer Schulen als Mitglieder dieser Prüfungskommission bestellen. Der zuständige Bundesminister kann für das ganze Bundesgebiet zuständige Prüfungskommissionen einrichten, wenn dies wegen der einheitlichen Vorbereitung der Prüfungskandidaten oder der geringen Zahl von Prüfern, die für die betreffenden Prüfungsgegenstände zur Verfügung stehen, zweckmäßig erscheint. Ferner kann der zuständige Bundesminister durch Verordnung bestimmen, daß Externistenprüfungen im Sinne des Abs. 2 vor Einzelprüfern abzulegen sind, wenn dadurch eine Vereinfachung und Beschleunigung des Prüfungsganges erreicht wird; hiebei ist vorzusehen, daß die Einzelprüfer Mitglieder der nach diesem Absatz zu bildenden Prüfungskommissionen sind und die Externistenprüfung an der Schule abzulegen ist, an der die Prüfungskommission, der der Einzelprüfer angehört, eingerichtet ist.
 
 (5) Für die Zulassung zur Ablegung einer Externistenprüfung ist der Vorsitzende der betreffenden Prüfungskommission zuständig.
 
@@ -1621,7 +1619,7 @@ Bundesrecht konsolidiert
 
 (9) Für die Aufgabenstellung und den Prüfungsvorgang gilt § 37 Abs. 2, 3 und 5 sinngemäß. Für die Beurteilungen der Leistungen der Prüfungskandidaten gelten die  § 36 Abs. 5 sowie § 38 Abs. 1 bis 4, ferner,  wenn  es  sich  um  die  Ablegung  einer  Externistenprüfung  handelt,  die  einer  Reifeprüfung,  einer Reife- und Diplomprüfung, einer Diplomprüfung oder einer Abschlußprüfung entspricht, auch § 38 Abs. 5 und 6 sinngemäß.
 
-(10) Das Ergebnis einer Externistenprüfung über eine Schulstufe oder eine Schulart (Abs. 1) ist in einem  Externistenprüfungszeugnis  zu  beurkunden,  für  das  § 22  Abs. 2  und  allenfalls  auch  Abs. 8 sinngemäß gilt. Bei Externistenprüfungen, die einer Reifeprüfung, Reifeund Diplomprüfung, Diplomprüfung oder Abschlußprüfung entsprechen, ist über die Ablegung der Zulassungsprüfungen und allfälliger Vorprüfungen ein Zeugnis auszustellen, auf das § 22 Abs. 2 und 8 sinngemäß anzuwenden ist; über die Ablegung der Hauptprüfung ist ein Zeugnis auszustellen, auf das § 39 Abs. 1 und 2 sinngemäß
+(10) Das Ergebnis einer Externistenprüfung über eine Schulstufe oder eine Schulart (Abs. 1) ist in einem Externistenprüfungszeugnis zu beurkunden, für das § 22 Abs. 2 und allenfalls auch Abs. 8 sinngemäß gilt. Bei Externistenprüfungen, die einer Reifeprüfung, Reife- und Diplomprüfung, Diplomprüfung oder Abschlußprüfung entsprechen, ist über die Ablegung der Zulassungsprüfungen und allfälliger Vorprüfungen ein Zeugnis auszustellen, auf das § 22 Abs. 2 und 8 sinngemäß anzuwenden ist; über die Ablegung der Hauptprüfung ist ein Zeugnis auszustellen, auf das § 39 Abs. 1 und 2 sinngemäß
 
 www.ris.bka.gv.at
 
@@ -1678,9 +1676,9 @@ Bundesrecht konsolidiert
 
 § 44a. Die Beaufsichtigung von Schülern in der Schule, bei Schulveranstaltungen (§ 13), schulbezogenen  Veranstaltungen  (§ 13a)  oder  individueller  Berufs(bildungs)orientierung  (§ 13b)  kann auch durch andere geeignete Personen als durch Lehrer, Erzieher oder Freizeitpädagogen erfolgen, wenn dies
 
-- zur Gewährleistung der Sicherheit für die Schüler erforderlich ist und
+1. zur Gewährleistung der Sicherheit für die Schüler erforderlich ist und
 
-- im Hinblick auf die Erfüllung der Aufgaben der Schule zweckmäßig ist.
+2. im Hinblick auf die Erfüllung der Aufgaben der Schule zweckmäßig ist.
 
 Diese Personen (zB Erziehungsberechtigte) werden funktionell als Bundesorgane tätig.
 
@@ -1688,11 +1686,11 @@ Diese Personen (zB Erziehungsberechtigte) werden funktionell als Bundesorgane t�
 
 § 45. (1) Das Fernbleiben vom Unterricht ist nur zulässig:
 
-- bei gerechtfertigter Verhinderung (Abs. 2 und 3),
+a) bei gerechtfertigter Verhinderung (Abs. 2 und 3),
 
-- bei Erlaubnis zum Fernbleiben (Abs. 4),
+b) bei Erlaubnis zum Fernbleiben (Abs. 4),
 
-- bei Befreiung von der Teilnahme an einzelnen Unterrichtsgegenständen (§ 11 Abs. 6).
+c) bei Befreiung von der Teilnahme an einzelnen Unterrichtsgegenständen (§ 11 Abs. 6).
 
 (2) Eine gerechtfertigte Verhinderung ist insbesondere: Krankheit des Schülers; mit der Gefahr der Übertragung verbundene Krankheit von Hausangehörigen des Schülers; Krankheit der Eltern oder anderer Angehöriger,  wenn  sie  vorübergehend  der  Hilfe  des  Schülers  unbedingt  bedürfen;  außergewöhnliche Ereignisse im Leben des Schülers oder in der Familie des Schülers; Ungangbarkeit des Schulweges oder schlechte Witterung, wenn die Gesundheit des Schülers dadurch gefährdet ist; Dauer der Beschäftigungsverbote im Sinne der Bestimmungen über den Mutterschutz.
 
@@ -1704,11 +1702,11 @@ Diese Personen (zB Erziehungsberechtigte) werden funktionell als Bundesorgane t�
 
 (6)  Für  die  der  Schulpflicht  unterliegenden  Schüler sind anstelle der vorhergehenden  Absätze § 9, § 22 Abs. 3 und § 23 des Schulpflichtgesetzes 1985 anzuwenden.
 
-- Das Fernbleiben vom Betreuungsteil an ganztägigen Schulformen ist nur zulässig:
+(7) Das Fernbleiben vom Betreuungsteil an ganztägigen Schulformen ist nur zulässig:
 
-- bei gerechtfertigter Verhinderung (Abs. 2 und 3),
+a) bei gerechtfertigter Verhinderung (Abs. 2 und 3),
 
-- bei  Erlaubnis  zum  Fernbleiben,  die  aus  vertretbaren  Gründen  vom  Schulleiter  oder  Leiter  des Betreuungsteiles zu erteilen ist.
+b) bei Erlaubnis zum Fernbleiben, die aus vertretbaren Gründen vom Schulleiter oder Leiter des Betreuungsteiles zu erteilen ist.
 
 www.ris.bka.gv.at
 
@@ -1724,23 +1722,23 @@ Bundesrecht konsolidiert
 
 § 46. (1)  Sammlungen  unter  den  Schülern  in  der  Schule  (einschließlich  der  Einhebung  von Mitgliedsbeiträgen) sind nur mit Bewilligung zulässig. Zur Erteilung der Bewilligung für Sammlungen, die  nur  unter  Schülern  der  betreffenden  Schule  durchgeführt  werden  sollen,  ist  das  Klassen-  bzw. Schulforum (§ 63a) bzw. der Schulgemeinschaftsausschuß (§ 64), im übrigen die zuständige Schulbehörde  -  für  allgemeinbildende  Pflichtschulen  der  Landesschulrat  -  zuständig.  Die  Bewilligung darf vom Klassen- und Schulforum bzw. vom Schulgemeinschaftsausschuß insgesamt für höchstens zwei und von der Schulbehörde ebenfalls  für höchstens zwei Sammlungen je Schuljahr und  Klasse und nur dann  erteilt  werden,  wenn  sichergestellt  ist,  daß  kein  wie  immer  gearteter  Druck  zur  Beitragsleistung ausgeübt wird, der Zweck der Sammlung erzieherisch wertvoll ist und mit der Schule im Zusammenhang steht. Dies gilt nicht für Sammlungen, die von den Schülervertretern (§ 59) aus besonderen Anlässen, wie Todesfälle und soziale Hilfsaktionen, beschlossen werden.
 
-- Die  Teilnahme  von  Schülern  an  Veranstaltungen,  die  nicht  Schulveranstaltungen  (§ 13)  oder schulbezogene Veranstaltungen (§ 13a) sind, darf in der Schule nur mit Bewilligung organisiert werden. Zur Erteilung der Bewilligung ist das Klassen- bzw. Schulforum bzw. der Schulgemeinschaftsausschuß zuständig.  Ferner  kann  die  Bewilligung  durch  die  zuständige  Schulbehörde  erteilt  werden;  sofern  die Teilnahme  von  Schülern  mehrerer  Schulen, für die verschiedene Schulbehörden  zuständig  sind, organisiert  werden  soll,  kann  die  Bewilligung  von  der  für  alle  diese  Schulen  in  Betracht  kommenden gemeinsamen Schulbehörde erteilt werden. Die Bewilligung darf nur erteilt werden, wenn sichergestellt ist,  daß  die  Teilnahme  der  Schüler  freiwillig  und  auf  Grund  schriftlicher  Zustimmungserklärung  der Erziehungsberechtigten erfolgt sowie eine Gefährdung der Schüler weder in sittlicher noch in körperlicher Hinsicht zu befürchten ist und der Zweck der Veranstaltung auf andere Weise nicht erreicht werden  kann.  Die  vorstehenden  Bestimmungen  gelten  nicht  für  die  im  Religionsunterricht  erfolgende Organisation von Schülergottesdiensten sowie religiösen Übungen und Veranstaltungen (§ 2a Abs. 1 des Religionsunterrichtsgesetzes, BGBl. Nr. 190/1949).
+(2) Die Teilnahme von Schülern an Veranstaltungen, die nicht Schulveranstaltungen (§ 13) oder schulbezogene Veranstaltungen (§ 13a) sind, darf in der Schule nur mit Bewilligung organisiert werden. Zur Erteilung der Bewilligung ist das Klassen- bzw. Schulforum bzw. der Schulgemeinschaftsausschuß zuständig. Ferner kann die Bewilligung durch die zuständige Schulbehörde erteilt werden; sofern die Teilnahme von Schülern mehrerer Schulen, für die verschiedene Schulbehörden zuständig sind, organisiert werden soll, kann die Bewilligung von der für alle diese Schulen in Betracht kommenden gemeinsamen Schulbehörde erteilt werden. Die Bewilligung darf nur erteilt werden, wenn sichergestellt ist, daß die Teilnahme der Schüler freiwillig und auf Grund schriftlicher Zustimmungserklärung der Erziehungsberechtigten erfolgt sowie eine Gefährdung der Schüler weder in sittlicher noch in körperlicher Hinsicht zu befürchten ist und der Zweck der Veranstaltung auf andere Weise nicht erreicht werden kann. Die vorstehenden Bestimmungen gelten nicht für die im Religionsunterricht erfolgende Organisation von Schülergottesdiensten sowie religiösen Übungen und Veranstaltungen (§ 2a Abs. 1 des Religionsunterrichtsgesetzes, BGBl. Nr. 190/1949).
 
 (3)  In  der  Schule,  bei  Schulveranstaltungen  und  bei  schulbezogenen  Veranstaltungen  darf  für schulfremde Zwecke nur dann geworben werden, wenn die Erfüllung der Aufgaben der österreichischen Schule (§ 2 des Schulorganisationsgesetzes) hiedurch nicht beeinträchtigt wird.
 
 #### Mitwirkung der Schule an der Erziehung
 
-§ 47. (1)  Im  Rahmen  der  Mitwirkung  der  Schule  an  der  Erziehung  der  Schüler  (§ 2  des Schulorganisationsgesetzes) hat der Lehrer in seiner Unterrichtsund Erziehungsarbeit die der Erziehungssituation angemessenen persönlichkeitsund gemeinschaftsbildenden Erziehungsmittel anzuwenden,  die  insbesondere  Anerkennung,  Aufforderung  oder  Zurechtweisung  sein  können.  Diese Maßnahmen können auch vom Klassenvorstand und vom Schulleiter (Abteilungsvorstand), in besonderen Fällen  auch  von  der  zuständigen  Schulbehörde  ausgesprochen  werden.  Der  erste  Satz  gilt  auch  für Erzieher und Freizeitpädagogen im Betreuungsteil an ganztägigen Schulformen.
+§ 47. (1) Im Rahmen der Mitwirkung der Schule an der Erziehung der Schüler (§ 2 des Schulorganisationsgesetzes) hat der Lehrer in seiner Unterrichts- und Erziehungsarbeit die der Erziehungssituation angemessenen persönlichkeits- und gemeinschaftsbildenden Erziehungsmittel anzuwenden, die insbesondere Anerkennung, Aufforderung oder Zurechtweisung sein können. Diese Maßnahmen können auch vom Klassenvorstand und vom Schulleiter (Abteilungsvorstand), in besonderen Fällen auch von der zuständigen Schulbehörde ausgesprochen werden. Der erste Satz gilt auch für Erzieher und Freizeitpädagogen im Betreuungsteil an ganztägigen Schulformen.
 
-- Wenn  es  aus  erzieherischen  Gründen  oder  zur  Aufrechterhaltung  der  Ordnung  notwendig erscheint, kann der Schulleiter einen Schüler in eine Parallelklasse, bei lehrgangsmäßigen Berufsschulen auch  in  einen  anderen  Lehrgang  versetzen.  Wenn  mit  einer  solchen  Maßnahme  nicht  das  Auslangen gefunden werden kann, kann die Schulkonferenz (bei Schulen, die in Fachabteilungen gegliedert sind, die Abteilungskonferenz) die Stellung eines Antrages auf Ausschluß des Schülers (§ 49 Abs. 2) androhen.
+(2) Wenn es aus erzieherischen Gründen oder zur Aufrechterhaltung der Ordnung notwendig erscheint, kann der Schulleiter einen Schüler in eine Parallelklasse, bei lehrgangsmäßigen Berufsschulen auch in einen anderen Lehrgang versetzen. Wenn mit einer solchen Maßnahme nicht das Auslangen gefunden werden kann, kann die Schulkonferenz (bei Schulen, die in Fachabteilungen gegliedert sind, die Abteilungskonferenz) die Stellung eines Antrages auf Ausschluß des Schülers (§ 49 Abs. 2) androhen.
 
-- Körperliche Züchtigung, beleidigende Äußerungen und Kollektivstrafen sind verboten.
+(3) Körperliche Züchtigung, beleidigende Äußerungen und Kollektivstrafen sind verboten.
 
-- Im  Rahmen der Mitwirkung an der Erziehung kann das Verhalten des Schülers außerhalb der Schule  berücksichtigt  werden;  hiebei  dürfen  nur  Maßnahmen  gemäß  Abs. 1  und  § 48  gesetzt  werden. Eine Bestrafung  für  ein  Verhalten,  das  Anlaß  zu  Maßnahmen  der  Erziehungsberechtigten,  der  Kinderund Jugendhilfe, sonstiger Verwaltungsbehörden oder der Gerichte ist, ist unzulässig.
+(4) Im Rahmen der Mitwirkung an der Erziehung kann das Verhalten des Schülers außerhalb der Schule berücksichtigt werden; hiebei dürfen nur Maßnahmen gemäß Abs. 1 und § 48 gesetzt werden. Eine Bestrafung für ein Verhalten, das Anlaß zu Maßnahmen der Erziehungsberechtigten, der Kinder- und Jugendhilfe, sonstiger Verwaltungsbehörden oder der Gerichte ist, ist unzulässig.
 
 #### Verständigungspflichten der Schule
 
-§ 48. Wenn es die Erziehungssituation eines Schülers erfordert, haben der Klassenvorstand oder der Schulleiter  (der  Abteilungsvorstand)  das  Einvernehmen  mit  den  Erziehungsberechtigten  zu  pflegen. Wenn die Erziehungsberechtigten ihre Pflichten offenbar nicht erfüllen oder in wichtigen Fragen uneinig sind,  hat  der  Schulleiter  dies  dem  zuständigen  Jugendwohlfahrtsträger gemäß § 37 des Bundes-Kinderund Jugendhilfegesetzes 2013, BGBl. I Nr. 69/2013, mitzuteilen.
+§ 48. Wenn es die Erziehungssituation eines Schülers erfordert, haben der Klassenvorstand oder der Schulleiter (der Abteilungsvorstand) das Einvernehmen mit den Erziehungsberechtigten zu pflegen. Wenn die Erziehungsberechtigten ihre Pflichten offenbar nicht erfüllen oder in wichtigen Fragen uneinig sind, hat der Schulleiter dies dem zuständigen Jugendwohlfahrtsträger gemäß § 37 des Bundes-Kinder- und Jugendhilfegesetzes 2013, BGBl. I Nr. 69/2013, mitzuteilen.
 
 #### Ausschluß eines Schülers
 
@@ -1798,7 +1796,7 @@ Seite 43 von 71
 
 Bundesrecht konsolidiert
 
-(3) Der Lehrer hat nach der jeweiligen Diensteinteilung die Schüler in der Schule auch 15 Minuten vor  Beginn  des  Unterrichtes,  in  den  Unterrichtspausen  -  ausgenommen  die  zwischen  dem  Vormittagsund dem Nachmittagsunterricht liegende Zeit - und unmittelbar nach Beendigung des Unterrichtes beim Verlassen der  Schule sowie  bei  allen  Schulveranstaltungen  und  schulbezogenen  Veranstaltungen innerhalb und außerhalb des Schulhauses zu beaufsichtigen, soweit dies nach dem Alter und der geistigen Reife der Schüler erforderlich ist. Hiebei hat er insbesondere auf die körperliche Sicherheit und auf die Gesundheit der Schüler zu achten und Gefahren nach Kräften abzuwehren. Dies gilt sinngemäß für den Betreuungsteil an ganztägigen Schulformen, wobei an die Stelle des Unterrichtes der Betreuungsteil tritt.
+(3) Der Lehrer hat nach der jeweiligen Diensteinteilung die Schüler in der Schule auch 15 Minuten vor Beginn des Unterrichtes, in den Unterrichtspausen - ausgenommen die zwischen dem Vormittags- und dem Nachmittagsunterricht liegende Zeit - und unmittelbar nach Beendigung des Unterrichtes beim Verlassen der Schule sowie bei allen Schulveranstaltungen und schulbezogenen Veranstaltungen innerhalb und außerhalb des Schulhauses zu beaufsichtigen, soweit dies nach dem Alter und der geistigen Reife der Schüler erforderlich ist. Hiebei hat er insbesondere auf die körperliche Sicherheit und auf die Gesundheit der Schüler zu achten und Gefahren nach Kräften abzuwehren. Dies gilt sinngemäß für den Betreuungsteil an ganztägigen Schulformen, wobei an die Stelle des Unterrichtes der Betreuungsteil tritt.
 
 #### Kustos
 
@@ -1812,37 +1810,37 @@ Bundesrecht konsolidiert
 
 § 54. (1) An Schulen, an denen der Unterricht durch Fachlehrer erteilt wird, hat der Schulleiter für jede Klasse einen Lehrer dieser Klasse als Klassenvorstand zu bestellen.
 
-- Dem Klassenvorstand obliegt für seine Klasse in Zusammenarbeit mit den anderen Lehrern die Koordination der Erziehungsarbeit, die Abstimmung der Unterrichtsarbeit auf die Leistungssituation der Klasse und die Belastbarkeit der Schüler, die Beratung der Schüler in unterrichtlicher und erzieherischer Hinsicht, die Pflege der Verbindung zwischen Schule und Erziehungsberechtigten, die Wahrnehmung der erforderlichen organisatorischen Aufgaben sowie die Führung der Amtsschriften.
+(2) Dem Klassenvorstand obliegt für seine Klasse in Zusammenarbeit mit den anderen Lehrern die Koordination der Erziehungsarbeit, die Abstimmung der Unterrichtsarbeit auf die Leistungssituation der Klasse und die Belastbarkeit der Schüler, die Beratung der Schüler in unterrichtlicher und erzieherischer Hinsicht, die Pflege der Verbindung zwischen Schule und Erziehungsberechtigten, die Wahrnehmung der erforderlichen organisatorischen Aufgaben sowie die Führung der Amtsschriften.
 
-- An  Schulen  mit  Klassenlehrersystem  kommen  die  Aufgaben  des  Klassenvorstandes  dem Klassenlehrer zu.
+(3) An Schulen mit Klassenlehrersystem kommen die Aufgaben des Klassenvorstandes dem Klassenlehrer zu.
 
-- An den berufsbildenden höheren Schulen tritt an die Stelle der Bezeichnung Klassenvorstand die Bezeichnung Jahrgangsvorstand.
+(4) An den berufsbildenden höheren Schulen tritt an die Stelle der Bezeichnung Klassenvorstand die Bezeichnung Jahrgangsvorstand.
 
 #### Fachkoordinator
 
 § 54a. (1) Der Schulleiter hat Fachkoordinatoren zu bestellen:
 
-- an Schulen mit Leistungsgruppen für die einzelnen leistungsdifferenzierten Pflichtgegenstände je einen den betreffenden Pflichtgegenstand unterrichtenden Lehrer;
+a) an Schulen mit Leistungsgruppen für die einzelnen leistungsdifferenzierten Pflichtgegenstände je einen den betreffenden Pflichtgegenstand unterrichtenden Lehrer;
 
-- an  Schulen  unter  besonderer  Berücksichtigung  der  musischen  oder  sportlichen  Ausbildung  je einen Lehrer.
+b) an Schulen unter besonderer Berücksichtigung der musischen oder sportlichen Ausbildung je einen Lehrer.
 
-- Vor der Bestellung der Fachkoordinatoren ist die Schulkonferenz anzuhören.
+Vor der Bestellung der Fachkoordinatoren ist die Schulkonferenz anzuhören.
 
-- Den Fachkoordinatoren obliegen:
+(2) Den Fachkoordinatoren obliegen:
 
-- an Schulen mit Leistungsgruppen die Koordination der Unterrichtstätigkeit der den betreffenden Pflichtgegenstand  unterrichtenden  Lehrer  im  Hinblick  auf  die  Erleichterung  der  Umstufung  in andere  Leistungsgruppen  und  die  Durchführung  des  Förderunterrichtes  in  Unterordnung  unter den Schulleiter;
+a) an Schulen mit Leistungsgruppen die Koordination der Unterrichtstätigkeit der den betreffenden Pflichtgegenstand unterrichtenden Lehrer im Hinblick auf die Erleichterung der Umstufung in andere Leistungsgruppen und die Durchführung des Förderunterrichtes in Unterordnung unter den Schulleiter;
 
-- an  Schulen  unter  besonderer  Berücksichtigung  der  musischen  oder  sportlichen  Ausbildung  die Koordinierung der Unterrichtstätigkeit jener Lehrer, die im musischen bzw. sportlichen Bereich unterrichten.
+b) an Schulen unter besonderer Berücksichtigung der musischen oder sportlichen Ausbildung die Koordinierung der Unterrichtstätigkeit jener Lehrer, die im musischen bzw. sportlichen Bereich unterrichten.
 
-Die  den  Fachkoordinatoren  im  einzelnen  obliegenden  Pflichten  sind  durch  Dienstanweisung  des zuständigen Bundesministers festzulegen.
+Die den Fachkoordinatoren im einzelnen obliegenden Pflichten sind durch Dienstanweisung des zuständigen Bundesministers festzulegen.
 
-- Der zuständige Bundesminister hat durch Verordnung festzulegen, ab welcher Zahl von Klassen bzw.  Schülergruppen  die  Bestellung eines Fachkoordinators  im  Hinblick  auf den  Lernstoff des betreffenden Pflichtgegenstandes erforderlich ist.
+(3) Der zuständige Bundesminister hat durch Verordnung festzulegen, ab welcher Zahl von Klassen bzw. Schülergruppen die Bestellung eines Fachkoordinators im Hinblick auf den Lernstoff des betreffenden Pflichtgegenstandes erforderlich ist.
 
 #### Abteilungsvorstand und Fachvorstand
 
 § 55. (1)  Dem  Abteilungsvorstand  an  berufsbildenden  Schulen  obliegt  außer  den  ihm  als  Lehrer zukommenden Aufgaben die Leitung einer Fachabteilung in Unterordnung unter den Schulleiter.
 
-- Dem Abteilungsvorstand an den Bildungsanstalten obliegt in Unterordnung unter den Schulleiter außer den ihm als Lehrer zukommenden Aufgaben
+(2) Dem Abteilungsvorstand an den Bildungsanstalten obliegt in Unterordnung unter den Schulleiter außer den ihm als Lehrer zukommenden Aufgaben
 
 www.ris.bka.gv.at
 
@@ -1854,43 +1852,43 @@ Seite 44 von 71
 
 Bundesrecht konsolidiert
 
-- an  den  Bildungsanstalten  für  Kindergartenpädagogik  die  Leitung  des  Übungskindergartens, gegebenenfalls auch des Übungshortes, sowie der Kindergarten- und Hortpraxis,
+1. an den Bildungsanstalten für Kindergartenpädagogik die Leitung des Übungskindergartens, gegebenenfalls auch des Übungshortes, sowie der Kindergarten- und Hortpraxis,
 
-- an  den  Bildungsanstalten  für  Sozialpädagogik  die  Leitung  des  Übungsschülerheimes  und  des Übungshortes sowie der Hort- und Heimpraxis; im Falle eines angeschlossenen Schülerheimes für  Schüler  der  Bildungsanstalt  obliegt  ihm  auch  die  Unterstützung  des  Schulleiters  in  den berufsbezogenen Angelegenheiten dieses Schülerheimes.
+2. an den Bildungsanstalten für Sozialpädagogik die Leitung des Übungsschülerheimes und des Übungshortes sowie der Hort- und Heimpraxis; im Falle eines angeschlossenen Schülerheimes für Schüler der Bildungsanstalt obliegt ihm auch die Unterstützung des Schulleiters in den berufsbezogenen Angelegenheiten dieses Schülerheimes.
 
-- Dem  Fachvorstand  obliegt  die  Betreuung  einer  Gruppe  fachlicher  Unterrichtsgegenstände  in Unterordnung unter den Schulleiter.
+(3) Dem Fachvorstand obliegt die Betreuung einer Gruppe fachlicher Unterrichtsgegenstände in Unterordnung unter den Schulleiter.
 
-(Anm.: aufgehoben durch BGBl. Nr. 767/1996)
+(4) (Anm.: aufgehoben durch BGBl. Nr. 767/1996)
 
 #### Erzieher
 
 § 55a. (1) Der Erzieher an ganztägigen Schulformen hat das Recht und die Pflicht, an der Gestaltung des  Betreuungsteiles  unter  Bedachtnahme  auf  freizeitpädagogische  Erfordernisse  mitzuwirken.  Seine Hauptaufgabe ist die dem § 2 Abs. 3 des Schulorganisationsgesetzes entsprechende Erziehungsarbeit. Er hat diese im erforderlichen Ausmaß vorzubereiten.
 
-- Außer  den  erzieherischen  Aufgaben  hat  er  auch  die  mit  seiner  Erziehertätigkeit  verbundenen administrativen Aufgaben zu übernehmen und an Lehrerkonferenzen, die Angelegenheiten des Betreuungsteiles betreffen, teilzunehmen. § 51 Abs. 3 ist insoweit anzuwenden, als er den Betreuungsteil betrifft.
+(2) Außer den erzieherischen Aufgaben hat er auch die mit seiner Erziehertätigkeit verbundenen administrativen Aufgaben zu übernehmen und an Lehrerkonferenzen, die Angelegenheiten des Betreuungsteiles betreffen, teilzunehmen. § 51 Abs. 3 ist insoweit anzuwenden, als er den Betreuungsteil betrifft.
 
 #### Freizeitpädagoge
 
 § 55b. (1) Der Freizeitpädagoge an ganztägigen Schulformen hat das Recht und die Pflicht, an der Gestaltung  des  Betreuungsteiles  unter  Bedachtnahme  auf  freizeitpädagogische  Erfordernisse  mitzuwirken. Seine Hauptaufgabe ist die dem  § 2 Abs. 3 des Schulorganisationsgesetzes entsprechende Erziehungsarbeit.
 
-- Außer  den  erzieherischen  Aufgaben  hat  er  auch  die  mit  seiner  Erziehertätigkeit  verbundenen administrativen Aufgaben zu übernehmen und auf Anordnung des Schulleiters an Lehrerkonferenzen, die Angelegenheiten der Freizeit  im Betreuungsteil  ganztägiger  Schulformen betreffen,  teilzunehmen.  § 51 Abs. 3 ist insoweit anzuwenden, als er den Betreuungsteil betrifft.
+(2) Außer den erzieherischen Aufgaben hat er auch die mit seiner Erziehertätigkeit verbundenen administrativen Aufgaben zu übernehmen und auf Anordnung des Schulleiters an Lehrerkonferenzen, die Angelegenheiten der Freizeit im Betreuungsteil ganztägiger Schulformen betreffen, teilzunehmen. § 51 Abs. 3 ist insoweit anzuwenden, als er den Betreuungsteil betrifft.
 
 #### Schulleiter
 
 § 56. (1)  Der  Schulleiter  ist  zur  Besorgung  aller  Angelegenheiten  nach  diesem  Bundesgesetz zuständig,  sofern  dieses  nicht  die  Zuständigkeit  anderer  schulischer  Organe  oder  der  Schulbehörden festlegt.
 
-- Der Schulleiter ist der unmittelbare Vorgesetzte aller an der Schule tätigen Lehrer und sonstigen Bediensteten. Ihm obliegt die Leitung der Schule und die Pflege der Verbindung zwischen der Schule, den  Schülern  und  den  Erziehungsberechtigten,  bei  Berufsschulen  auch  den  Lehrberechtigten.  Seine Aufgaben  umfassen  insbesondere  Schulleitung  und  -management,  Qualitätsmanagement,  Schul-  und Unterrichtsentwicklung,  Führung  und  Personalentwicklung  sowie  Außenbeziehungen  und  Öffnung  der Schule.
+(2) Der Schulleiter ist der unmittelbare Vorgesetzte aller an der Schule tätigen Lehrer und sonstigen Bediensteten. Ihm obliegt die Leitung der Schule und die Pflege der Verbindung zwischen der Schule, den Schülern und den Erziehungsberechtigten, bei Berufsschulen auch den Lehrberechtigten. Seine Aufgaben umfassen insbesondere Schulleitung und -management, Qualitätsmanagement, Schul- und Unterrichtsentwicklung, Führung und Personalentwicklung sowie Außenbeziehungen und Öffnung der Schule.
 
-- Der Schulleiter hat die Lehrer in ihrer Unterrichts- und Erziehungsarbeit (§ 17) zu beraten und sich vom Stand des Unterrichtes und von den Leistungen der Schüler regelmäßig zu überzeugen.
+(3) Der Schulleiter hat die Lehrer in ihrer Unterrichts- und Erziehungsarbeit (§ 17) zu beraten und sich vom Stand des Unterrichtes und von den Leistungen der Schüler regelmäßig zu überzeugen.
 
-- Außer den ihm obliegenden unterrichtlichen, erzieherischen und administrativen Aufgaben hat er für die Einhaltung aller Rechtsvorschriften und schulbehördlichen Weisungen sowie für die Führung der Amtsschriften der Schule und die Ordnung in der Schule zu sorgen. Für die Beaufsichtigung der Schüler im Sinne des § 51 Abs. 3 hat er eine Diensteinteilung zu treffen. Er hat  dem Schulerhalter wahrgenommene Mängel der Schulliegenschaften und ihrer Einrichtungen zu melden.
+(4) Außer den ihm obliegenden unterrichtlichen, erzieherischen und administrativen Aufgaben hat er für die Einhaltung aller Rechtsvorschriften und schulbehördlichen Weisungen sowie für die Führung der Amtsschriften der Schule und die Ordnung in der Schule zu sorgen. Für die Beaufsichtigung der Schüler im Sinne des § 51 Abs. 3 hat er eine Diensteinteilung zu treffen. Er hat dem Schulerhalter wahrgenommene Mängel der Schulliegenschaften und ihrer Einrichtungen zu melden.
 
-- Pflichten,  die  dem  Schulleiter  auf  Grund  von  anderen,  insbesondere  von  dienstrechtlichen Vorschriften obliegen, bleiben unberührt.
+(5) Pflichten, die dem Schulleiter auf Grund von anderen, insbesondere von dienstrechtlichen Vorschriften obliegen, bleiben unberührt.
 
-- In  Schulen,  an  denen  ein  ständiger  Stellvertreter  des  Schulleiters  bestellt  ist,  hat  dieser  den Schulleiter bei der Erfüllung seiner Aufgaben zu unterstützen.
+(6) In Schulen, an denen ein ständiger Stellvertreter des Schulleiters bestellt ist, hat dieser den Schulleiter bei der Erfüllung seiner Aufgaben zu unterstützen.
 
-- In Schulen, in denen ein Lehrer zur Unterstützung des Schulleiters bestellt wird, obliegt ihm die Wahrnehmung jener Verwaltungsaufgaben, die in engem Zusammenhang mit der pädagogischen Arbeit in der Schule stehen.
+(7) In Schulen, in denen ein Lehrer zur Unterstützung des Schulleiters bestellt wird, obliegt ihm die Wahrnehmung jener Verwaltungsaufgaben, die in engem Zusammenhang mit der pädagogischen Arbeit in der Schule stehen.
 
-- An  ganztägigen  Schulformen,  in  denen  ein  Lehrer  oder  Erzieher  zur  Unterstützung  des Schulleiters  bezüglich  des  Betreuungsteiles  bestellt  wird  (Leiter  des  Betreuungsteiles),  obliegt  ihm  die Wahrnehmung jener Verwaltungsaufgaben, die in engem Zusammenhang mit diesem Bereich der Schule
+(8) An ganztägigen Schulformen, in denen ein Lehrer oder Erzieher zur Unterstützung des Schulleiters bezüglich des Betreuungsteiles bestellt wird (Leiter des Betreuungsteiles), obliegt ihm die Wahrnehmung jener Verwaltungsaufgaben, die in engem Zusammenhang mit diesem Bereich der Schule
 
 www.ris.bka.gv.at
 
@@ -1906,7 +1904,7 @@ stehen;  die  diesem  Lehrer  einzeln  obliegenden  Pflichten  können  generell
 
 #### Lehrerkonferenzen
 
-§ 57. (1) Lehrerkonferenzen sind zur Erfüllung der ihnen durch die Rechtsvorschriften übertragenen Aufgaben und zur Beratung gemeinsamer Fragen insbesondere der Planungs-, Unterrichts-, Erziehungsund Bildungsarbeit, der Evaluation oder der beruflichen  Fortbildung der Lehrer durchzuführen. In den Lehrerkonferenzen sind jedenfalls jene Angelegenheiten zu beraten, deren Behandlung von einem Drittel der für die Teilnahme an den Lehrerkonferenzen jeweils in Betracht kommenden Lehrer verlangt wird.
+§ 57. (1) Lehrerkonferenzen sind zur Erfüllung der ihnen durch die Rechtsvorschriften übertragenen Aufgaben und zur Beratung gemeinsamer Fragen insbesondere der Planungs-, Unterrichts-, Erziehungs- und Bildungsarbeit, der Evaluation oder der beruflichen Fortbildung der Lehrer durchzuführen. In den Lehrerkonferenzen sind jedenfalls jene Angelegenheiten zu beraten, deren Behandlung von einem Drittel der für die Teilnahme an den Lehrerkonferenzen jeweils in Betracht kommenden Lehrer verlangt wird.
 
 (2) Je nach Aufgabe der Lehrerkonferenz setzt sich diese aus den Lehrern der Schule (Schulkonferenz), einer Klasse (Klassenkonferenz), eines Unterrichtsgegenstandes oder in anderer Weise zusammen.  Über  Beschluss  der  Lehrerkonferenz  können  auch  andere Personen den  Beratungen beigezogen werden.
 
@@ -1929,17 +1927,17 @@ stehen;  die  diesem  Lehrer  einzeln  obliegenden  Pflichten  können  generell
 
 § 58. (1)  Die  Schüler  einer  Schule  haben  das  Recht  der  Schülermitverwaltung  in  Form  der Vertretung  ihrer  Interessen  und  der  Mitgestaltung  des  Schullebens.  Die  Schüler  haben  sich  bei  dieser Tätigkeit  von  der  Aufgabe  der  österreichischen  Schule  (§ 2  des  Schulorganisationsgesetzes)  leiten  zu lassen.
 
-- Im  Rahmen  der  Interessenvertretung gegenüber  den  Lehrern, dem  Schulleiter und den Schulbehörden stehen den Schülervertretern folgende Rechte zu:
+(2) Im Rahmen der Interessenvertretung gegenüber den Lehrern, dem Schulleiter und den Schulbehörden stehen den Schülervertretern folgende Rechte zu:
 
-- Mitwirkungsrechte:
+1. Mitwirkungsrechte:
 
-- das Recht auf Anhörung,
+a) das Recht auf Anhörung,
 
-- das Recht auf Information über alle Angelegenheiten, die die Schüler allgemein betreffen,
+b) das Recht auf Information über alle Angelegenheiten, die die Schüler allgemein betreffen,
 
-- das Recht auf Abgabe von Vorschlägen und Stellungnahmen,
+c) das Recht auf Abgabe von Vorschlägen und Stellungnahmen,
 
-- das Recht auf Teilnahme an Lehrerkonferenzen, ausgenommen Beratungen und Beschlußfassungen über Angelegenheiten der Leistungsbeurteilung einzelner Schüler und des
+d) das Recht auf Teilnahme an Lehrerkonferenzen, ausgenommen Beratungen und Beschlußfassungen über Angelegenheiten der Leistungsbeurteilung einzelner Schüler und des
 
 www.ris.bka.gv.at
 
@@ -1953,17 +1951,17 @@ Bundesrecht konsolidiert
 
 § 20  Abs. 6,  § 25,  § 31b  und  des  § 31c  sowie  über  dienstrechtliche  Angelegenheiten  der Lehrer und ausgenommen die Teilnahme an Lehrerkonferenzen zur Wahl von Lehrervertretern,
 
-- das Recht auf Mitsprache bei der Gestaltung des Unterrichtes im Rahmen des Lehrplanes,
+e) das Recht auf Mitsprache bei der Gestaltung des Unterrichtes im Rahmen des Lehrplanes,
 
-- das Recht auf Beteiligung an der Wahl der Unterrichtsmittel;
+f) das Recht auf Beteiligung an der Wahl der Unterrichtsmittel;
 
 2. Mitbestimmungsrechte:
 
-- das Recht auf Mitentscheidung bei der Anwendung von Erziehungsmitteln gemäß § 47 Abs. 2,
+a) das Recht auf Mitentscheidung bei der Anwendung von Erziehungsmitteln gemäß § 47 Abs. 2,
 
-- das Recht auf Mitentscheidung bei der Antragstellung auf Ausschluß eines Schülers;
+b) das Recht auf Mitentscheidung bei der Antragstellung auf Ausschluß eines Schülers;
 
-- das Recht auf Mitentscheidung bei der Festlegung von Unterrichtsmitteln.
+c) das Recht auf Mitentscheidung bei der Festlegung von Unterrichtsmitteln.
 
 Die in Z 1 lit. d und Z 2 genannten Rechte stehen erst ab der 9.Schulstufe zu.
 
@@ -1979,25 +1977,25 @@ Die in Z 1 lit. d und Z 2 genannten Rechte stehen erst ab der 9.Schulstufe zu.
 
 (2) Schülervertreter im Sinne des Abs. 1 sind:
 
-- die Klassensprecher, die an Schulen mit Jahrgangseinteilung als Jahrgangssprecher zu bezeichnen sind,
+1. die Klassensprecher, die an Schulen mit Jahrgangseinteilung als Jahrgangssprecher zu bezeichnen sind,
 
-- die Vertreter der Klassensprecher an Volksschuloberstufen, an Hauptschulen, an  Neuen Mittelschulen,  an  den  5.  bis  8.  Schulstufen  der  nach  dem  Lehrplan  der  Hauptschule  oder  der Neuen  Mittelschule  geführten  Sonderschulen  und  an  den  Unterstufen  der  allgemein  bildenden höheren Schulen,
+2. die Vertreter der Klassensprecher an Volksschuloberstufen, an Hauptschulen, an Neuen Mittelschulen, an den 5. bis 8. Schulstufen der nach dem Lehrplan der Hauptschule oder der Neuen Mittelschule geführten Sonderschulen und an den Unterstufen der allgemein bildenden höheren Schulen,
 
-- die Abteilungssprecher an Schulen mit Fachabteilungen,
+3. die Abteilungssprecher an Schulen mit Fachabteilungen,
 
-- die Tagessprecher an ganzjährigen Berufsschulen für die einzelnen Schultage einer Woche,
+4. die Tagessprecher an ganzjährigen Berufsschulen für die einzelnen Schultage einer Woche,
 
-- die Schulsprecher an Polytechnischen Schulen, nach dem Lehrplan der Polytechnischen Schule geführten Sonderschulen, an Berufsschulen sowie an mittleren und höheren Schulen.
+5. die Schulsprecher an Polytechnischen Schulen, nach dem Lehrplan der Polytechnischen Schule geführten Sonderschulen, an Berufsschulen sowie an mittleren und höheren Schulen.
 
 (3) Die Schülervertreter werden im Fall der Verhinderung jeweils von ihrem Stellvertreter vertreten. Die  Wahl  der  Stellvertreter  erfolgt  gleichzeitig  mit  der  Wahl  der  Schülervertreter,  wobei  für  die Schulsprecher jeweils zwei Stellvertreter und für die übrigen Schülervertreter jeweils ein Stellvertreter zu wählen  sind.  Der  Schulsprecher  wird  von  jenem  Stellvertreter  vertreten,  der  die  höhere  Zahl  an Wahlpunkten  aufweist.  An  ganzjährigen  Berufsschulen  wird  der  Schulsprecher  durch  den  jeweiligen Tagessprecher vertreten; die nach dem zweiten Satz an diesen Schulen gewählten Stellvertreter treten an die Stelle des Schulsprechers nur im Falle dessen Ausscheidens aus dieser Funktion.
 
 (4)  Die  Interessenvertretung  (§ 58  Abs. 2)  und  die  Mitgestaltung  des  Schullebens  (§ 58  Abs. 3) obliegen
 
-- dem Klassensprecher, soweit sie nur einzelne Klassen betreffen,
+1. dem Klassensprecher, soweit sie nur einzelne Klassen betreffen,
 
-- dem Abteilungssprecher, soweit sie mehrere Klassen einer Abteilung betreffen, und
+2. dem Abteilungssprecher, soweit sie mehrere Klassen einer Abteilung betreffen, und
 
-- dem  Schulsprecher  bzw.  dem  Vertreter  der  Klassensprecher  (Abs. 2  Z 2),  soweit  sie  mehrere Klassen (Abteilungen) betreffen.
+3. dem Schulsprecher bzw. dem Vertreter der Klassensprecher (Abs. 2 Z 2), soweit sie mehrere Klassen (Abteilungen) betreffen.
 
 Angelegenheiten, die nur einzelne Klassen (oder Abteilungen) betreffen, dürfen gegenüber Schulbehörden,  Schulleiter,  Abteilungsleiter  oder  Klassenvorstand  auch  vom  Schulsprecher  bzw.  vom Vertreter der Klassensprecher wahrgenommen werden. Das Recht auf Teilnahme an Lehrerkonferenzen (§ 58 Abs. 2 Z 1 lit. d) ist von den Vertretern der Schüler im Schulgemeinschaftsausschuß (§ 64 Abs. 5) auszuüben.
 
@@ -2019,27 +2017,27 @@ Bundesrecht konsolidiert
 
 (2) Wahlberechtigt sind zur Wahl
 
-- des Klassensprechers (Jahrgangssprechers) die Schüler einer Klasse (eines Jahrganges),
+1. des Klassensprechers (Jahrgangssprechers) die Schüler einer Klasse (eines Jahrganges),
 
-- 1a. des  Vertreters  der  Klassensprecher  die  Klassensprecher  der  Schule,  an  allgemeinbildenden höheren Schulen die Klassensprecher der Unterstufe,
+1a. des Vertreters der Klassensprecher die Klassensprecher der Schule, an allgemeinbildenden höheren Schulen die Klassensprecher der Unterstufe,
 
-- des Abteilungssprechers die Schüler einer Fachabteilung,
+2. des Abteilungssprechers die Schüler einer Fachabteilung,
 
-- des Tagessprechers die Schüler des Schultages einer Woche einer ganzjährigen Berufsschule,
+3. des Tagessprechers die Schüler des Schultages einer Woche einer ganzjährigen Berufsschule,
 
-- des Schulsprechers die Schüler einer Schule, an allgemeinbildenden höheren Schulen die Schüler der Oberstufe, an ganzjährigen Berufsschulen die Tagessprecher.
+4. des Schulsprechers die Schüler einer Schule, an allgemeinbildenden höheren Schulen die Schüler der Oberstufe, an ganzjährigen Berufsschulen die Tagessprecher.
 
-- Wählbar sind
+(3) Wählbar sind
 
-- zum Klassensprecher (Jahrgangssprecher) jeder Schüler der betreffenden Klasse (des betreffenden Jahrganges) ab der 5. Schulstufe,
+1. zum Klassensprecher (Jahrgangssprecher) jeder Schüler der betreffenden Klasse (des betreffenden Jahrganges) ab der 5. Schulstufe,
 
-- 1a. zum  Vertreter  der  Klassensprecher  jeder  Klassensprecher  der  Schule,  an  allgemeinbildenden höheren Schulen jeder Klassensprecher der Unterstufe,
+1a. zum Vertreter der Klassensprecher jeder Klassensprecher der Schule, an allgemeinbildenden höheren Schulen jeder Klassensprecher der Unterstufe,
 
-- zum Abteilungssprecher jeder Schüler der betreffenden Fachabteilung,
+2. zum Abteilungssprecher jeder Schüler der betreffenden Fachabteilung,
 
-- zum Tagessprecher jeder Schüler des betreffenden Schultages,
+3. zum Tagessprecher jeder Schüler des betreffenden Schultages,
 
-- zum Schulsprecher jeder Schüler der Schule, an allgemeinbildenden höheren Schulen jedoch nur Schüler der Oberstufe.
+4. zum Schulsprecher jeder Schüler der Schule, an allgemeinbildenden höheren Schulen jedoch nur Schüler der Oberstufe.
 
 (4) Gleichzeitig mit der Wahl der Schülervertreter hat die Wahl der Stellvertreter der Schülervertreter (§ 59 Abs. 3) sowie die Wahl  der Stellvertreter der Vertreter der Schüler im Schulgemeinschaftsausschuß (§ 64 Abs. 5) zu erfolgen.
 
@@ -2107,25 +2105,25 @@ Seite 49 von 71
 
 Bundesrecht konsolidiert
 
-- Mitwirkungsrechte:
+1. Mitwirkungsrechte:
 
-- das Recht auf Anhörung,
+a) das Recht auf Anhörung,
 
-- das  Recht  auf  Information  über  alle  Angelegenheiten,  die  die  Eltern  und  Schüler  allgemein betreffen,
+b) das Recht auf Information über alle Angelegenheiten, die die Eltern und Schüler allgemein betreffen,
 
-- das Recht auf Abgabe von Vorschlägen und Stellungnahmen,
+c) das Recht auf Abgabe von Vorschlägen und Stellungnahmen,
 
-- das Recht auf Teilnahme an Lehrerkonferenzen, ausgenommen Beratungen und Beschlußfassungen über Angelegenheiten der Leistungsbeurteilung einzelner Schüler und des § 20  Abs. 6,  § 25,  § 31b  und  des  § 31c  sowie  über  dienstrechtliche  Angelegenheiten  der Lehrer und ausgenommen die Teilnahme an Lehrerkonferenzen zur Wahl von Lehrervertretern; dieses Recht besteht nicht an Schulen, an denen Klassenforen einzurichten sind (§ 63a Abs. 1),
+d) das Recht auf Teilnahme an Lehrerkonferenzen, ausgenommen Beratungen und Beschlußfassungen über Angelegenheiten der Leistungsbeurteilung einzelner Schüler und des § 20 Abs. 6, § 25, § 31b und des § 31c sowie über dienstrechtliche Angelegenheiten der Lehrer und ausgenommen die Teilnahme an Lehrerkonferenzen zur Wahl von Lehrervertretern; dieses Recht besteht nicht an Schulen, an denen Klassenforen einzurichten sind (§ 63a Abs. 1),
 
-- das Recht auf Stellungnahme bei der Wahl von Unterrichtsmitteln;
+e) das Recht auf Stellungnahme bei der Wahl von Unterrichtsmitteln;
 
-- Mitbestimmungsrechte:
+2. Mitbestimmungsrechte:
 
-- das Recht auf Mitentscheidung bei der Androhung des Antrages auf Ausschluß,
+a) das Recht auf Mitentscheidung bei der Androhung des Antrages auf Ausschluß,
 
-- das Recht auf Mitentscheidung bei der Antragstellung auf Ausschluß eines Schülers;
+b) das Recht auf Mitentscheidung bei der Antragstellung auf Ausschluß eines Schülers;
 
-- das Recht auf Mitentscheidung bei der Festlegung von Unterrichtsmitteln.
+c) das Recht auf Mitentscheidung bei der Festlegung von Unterrichtsmitteln.
 
 (3) Die Erziehungsberechtigten haben die für die Führung der Amtsschriften der Schule erforderlichen  Dokumente  vorzulegen  und  Auskünfte  zu  geben  sowie  erhebliche  Änderungen  dieser Angaben unverzüglich der Schule mitzuteilen.
 
@@ -2143,7 +2141,7 @@ Bundesrecht konsolidiert
 
 (2)  Die  Organe  des  Elternvereines  können  dem  Schulleiter  und  dem  Klassenvorstand  Vorschläge, Wünsche und Beschwerden mitteilen; der Schulleiter hat  das Vorbringen des Elternvereines zu prüfen und mit den Organen des Elternvereines zu besprechen.
 
-(Anm.: aufgehoben durch BGBl. Nr. 767/1996)
+(3) (Anm.: aufgehoben durch BGBl. Nr. 767/1996)
 
 (4) Die Rechte gemäß den Abs. 1 und 2 stehen nur zu, wenn an einer Schule nur ein Elternverein errichtet  werden  soll  oder  besteht  und  sich  dessen  Wirkungsbereich  nur  auf  diese  Schule  bezieht;  sie stehen ferner zu, wenn sich der Wirkungsbereich des Elternvereines auf mehrere in einem engen örtlichen Zusammenhang  stehende  Schulen  oder  der  Wirkungsbereich  des  Elternvereines  einer  Volksschule, Hauptschule, Neuen Mittelschule oder Sonderschule auch auf eine Polytechnische Schule bezieht.
 
@@ -2167,55 +2165,55 @@ Bundesrecht konsolidiert
 
 (2) Neben den auf Grund anderer gesetzlicher Bestimmungen übertragener Entscheidungsbefugnissen obliegen dem Klassenforum die Beschlussfassung in den folgenden Angelegenheiten,  soweit  sie  nur  eine  Klasse  betreffen,  und  dem  Schulforum  die  Beschlussfassung jedenfalls in den Angelegenheiten der Z 1 lit. c, e, h, i und n, ferner in den folgenden Angelegenheiten, soweit sie mehr als eine Klasse berühren:
 
-- die Entscheidung über
+1. die Entscheidung über
 
-- mehrtägige Schulveranstaltungen,
+a) mehrtägige Schulveranstaltungen,
 
-- die Erklärung einer Veranstaltung zu einer schulbezogenen Veranstaltung (§ 13a Abs. 1),
+b) die Erklärung einer Veranstaltung zu einer schulbezogenen Veranstaltung (§ 13a Abs. 1),
 
-- die Hausordnung gemäß § 44 Abs. 1,
+c) die Hausordnung gemäß § 44 Abs. 1,
 
-- die Bewilligung zur Durchführung von Sammlungen gemäß § 46 Abs. 1,
+d) die Bewilligung zur Durchführung von Sammlungen gemäß § 46 Abs. 1,
 
-- die  Bewilligung  zur  Organisierung  der  Teilnahme  von  Schülern  an  Veranstaltungen  gemäß § 46 Abs. 2,
+e) die Bewilligung zur Organisierung der Teilnahme von Schülern an Veranstaltungen gemäß § 46 Abs. 2,
 
-- die Durchführung von Veranstaltungen der Schulbahnberatung,
+f) die Durchführung von Veranstaltungen der Schulbahnberatung,
 
-- die Durchführung von Veranstaltungen betreffend die Schulgesundheitspflege,
+g) die Durchführung von Veranstaltungen betreffend die Schulgesundheitspflege,
 
-- die Erlassung schulautonomer Lehrplanbestimmungen (§ 6 Abs. 1 und 3 des Schulorganisationsgesetzes),
+h) die Erlassung schulautonomer Lehrplanbestimmungen (§ 6 Abs. 1 und 3 des Schulorganisationsgesetzes),
 
-- die schulautonome Festlegung von Eröffnungsund Teilungszahlen (§ 8a Abs. 2 des Schulorganisationsgesetzes),
+i) die schulautonome Festlegung von Eröffnungs- und Teilungszahlen (§ 8a Abs. 2 des Schulorganisationsgesetzes),
 
-- schulautonome Schulzeitregelungen (§ 2 Abs. 5 und 8 sowie § 3 Abs. 2 des Schulzeitgesetzes 1985),
+j) schulautonome Schulzeitregelungen (§ 2 Abs. 5 und 8 sowie § 3 Abs. 2 des Schulzeitgesetzes 1985),
 
-- die Festlegung der Ausstattung der Schüler mit Unterrichtsmitteln (§ 14 Abs. 6),
+k) die Festlegung der Ausstattung der Schüler mit Unterrichtsmitteln (§ 14 Abs. 6),
 
-- die Erstellung von Richtlinien über die Wiederverwendung von Schulbüchern (§ 14 Abs. 7),
+l) die Erstellung von Richtlinien über die Wiederverwendung von Schulbüchern (§ 14 Abs. 7),
 
-- die Festlegung einer alternativen Form der Beurteilung der Leistungen (§ 18 Abs. 2),
+m) die Festlegung einer alternativen Form der Beurteilung der Leistungen (§ 18 Abs. 2),
 
-- Kooperationen mit Schulen oder außerschulischen Einrichtungen;
+n) Kooperationen mit Schulen oder außerschulischen Einrichtungen;
 
-- die Beratung insbesondere über
+2. die Beratung insbesondere über
 
-- wichtige Fragen des Unterrichtes,
+a) wichtige Fragen des Unterrichtes,
 
-- wichtige Fragen der Erziehung,
+b) wichtige Fragen der Erziehung,
 
-- Fragen der Planung von Schulveranstaltungen, soweit diese nicht unter Z 1 lit. a fallen,
+c) Fragen der Planung von Schulveranstaltungen, soweit diese nicht unter Z 1 lit. a fallen,
 
-- die Termine und die Art der Durchführung von Elternsprechtagen,
+d) die Termine und die Art der Durchführung von Elternsprechtagen,
 
-- die Wahl von Unterrichtsmitteln,
+e) die Wahl von Unterrichtsmitteln,
 
-- die Verwendung von der Schule zur Verwaltung übertragener Budgetmittel,
+f) die Verwendung von der Schule zur Verwaltung übertragener Budgetmittel,
 
-- Baumaßnahmen im Bereich der Schule.
+g) Baumaßnahmen im Bereich der Schule.
 
 (3) Dem Klassenforum gehören der Klassenlehrer oder Klassenvorstand und die Erziehungsberechtigten der Schüler der betreffenden Klasse an. Den Vorsitz im Klassenforum führt der Klassenlehrer  bzw.  Klassenvorstand;  sofern  der  Schulleiter  anwesend  ist,  kann  dieser  den  Vorsitz übernehmen.  Sonstige  Lehrer  der  Klasse  sind  berechtigt,  mit  beratender  Stimme  am  Klassenforum teilzunehmen.
 
-(4)  Das  Klassenforum  ist  vom  Klassenlehrer  oder  Klassenvorstand  jedenfalls  zu  einer  Sitzung, welche innerhalb der ersten acht Wochen jedes Schuljahres stattzufinden hat, einzuberufen; im Fall der Zusammenlegung oder Teilung von Klassen während des Unterrichtsjahres sind die Klassenforen der neu eingerichteten  Klassen  in  gleicher  Weise  zu  einer  Sitzung  einzuberufen,  welche  innerhalb  von  sechs Wochen ab dem Zeitpunkt der Klassenzusammenlegung oder -teilung stattzufinden hat. Ferner hat der Klassenlehrer  oder  Klassenvorstand  das  Klassenforum  einzuberufen,  sofern  eine  Entscheidung  gemäß Abs. 2 Z 1 erforderlich ist oder eine Beratung gemäß Abs. 2 Z 2 zweckmäßig erscheint. Darüber hinaus ist das Klassenforum einzuberufen, wenn dies die Erziehungsberechtigten eines Drittels der Schüler der betreffenden Klasse unter gleichzeitiger Einbringung eines Antrages auf Behandlung einer der im Abs. 2 genannten Angelegenheiten verlangen; die Frist für die Einberufung beträgt eine Woche, gerechnet von dem Zeitpunkt, zu dem das Verlangen gestellt wurde. Der Klassenelternvertreter kann die Einberufung einer  Sitzung  des  Klassenforums  verlangen;  über  die  Einberufung  ist  das  Einvernehmen  mit  dem Klassenlehrer  oder  Klassenvorstand  herzustellen.  Mit  jeder  Einberufung  ist  die  Tagesordnung  zu übermitteln. Die Einberufung hat spätestens zwei Wochen vor der Sitzung zu erfolgen.
+(4) Das Klassenforum ist vom Klassenlehrer oder Klassenvorstand jedenfalls zu einer Sitzung, welche innerhalb der ersten acht Wochen jedes Schuljahres stattzufinden hat, einzuberufen; im Fall der Zusammenlegung oder Teilung von Klassen während des Unterrichtsjahres sind die Klassenforen der neu eingerichteten Klassen in gleicher Weise zu einer Sitzung einzuberufen, welche innerhalb von sechs Wochen ab dem Zeitpunkt der Klassenzusammenlegung oder -teilung stattzufinden hat. Ferner hat der Klassenlehrer oder Klassenvorstand das Klassenforum einzuberufen, sofern eine Entscheidung gemäß Abs. 2 Z 1 erforderlich ist oder eine Beratung gemäß Abs. 2 Z 2 zweckmäßig erscheint. Darüber hinaus ist das Klassenforum einzuberufen, wenn dies die Erziehungsberechtigten eines Drittels der Schüler der betreffenden Klasse unter gleichzeitiger Einbringung eines Antrages auf Behandlung einer der im Abs. 2 genannten Angelegenheiten verlangen; die Frist für die Einberufung beträgt eine Woche, gerechnet von
 
 www.ris.bka.gv.at
 
@@ -2226,6 +2224,8 @@ Seite 51 von 71
 [[START OF PAGE 52]]
 
 Bundesrecht konsolidiert
+
+dem Zeitpunkt, zu dem das Verlangen gestellt wurde. Der Klassenelternvertreter kann die Einberufung einer Sitzung des Klassenforums verlangen; über die Einberufung ist das Einvernehmen mit dem Klassenlehrer oder Klassenvorstand herzustellen. Mit jeder Einberufung ist die Tagesordnung zu übermitteln. Die Einberufung hat spätestens zwei Wochen vor der Sitzung zu erfolgen.
 
 (5)  Das  Klassenforum  hat  in  der  Vorschulstufe  und  den  ersten  Stufen  der  in  Abs. 1  genannten Schularten,  ansonsten  bei  Bedarf,  einen  Klassenelternvertreter  und  einen  Stellvertreter,  der  diesen  im Verhinderungsfall zu vertreten hat, in gleicher, unmittelbarer und persönlicher Wahl für die Zeit bis zur nächsten Wahl zu wählen. Zum Klassenelternvertreter (Stellvertreter) dürfen nur Erziehungsberechtigte von  Schülern  der  betreffenden  Klasse  gewählt  werden.  Gewählt  ist,  wer  die  einfache  Mehrheit  der gültigen  Stimmen auf sich  vereinigt.  Vor  der  Wahl  hat  das  Klassenforum  einen  Wahlvorsitzenden  aus dem Kreis der Erziehungsberechtigten der Schüler der betreffenden Schule in gleicher, unmittelbarer und persönlicher Wahl mit einfacher Mehrheit zu wählen. Besteht an der Schule ein Elternverein im Sinne des § 63, so ist dieser berechtigt, den Wahlvorsitzenden zu bestellen und einen Wahlvorschlag für die Wahl des Klassenelternvertreters (Stellvertreters) zu erstatten. Der Wahlvorsitzende darf nicht Kandidat für die Wahl zum Klassenelternvertreter  (Stellvertreter)  der  Klasse  sein,  in  der  er  den  Wahlvorsitz  führt.  Die Funktion eines Klassenelternvertreters (Stellvertreters) endet durch Wahl eines neuen Klassenelternvertreters (Stellvertreters), Ausscheiden seines Kindes aus dem Klassenverband, Zusammenlegung  oder  Teilung  der  betreffenden  Klasse  und  mit  dem  nach  Ablauf  eines  Schuljahres zulässigen Rücktritt. Werden anläßlich der Wahl des Wahlvorsitzenden oder des Klassenelternvertreters (Stellvertreters)  die  meisten  Stimmen  für  zwei  oder  mehr  Kandidaten  in  gleicher  Anzahl  abgegeben, entscheidet  das  Los,  wer  Wahlvorsitzender  bzw.  Klassenelternvertreter  bzw.  Stellvertreter  ist.  Der zuständige Bundesminister hat durch Verordnung die näheren Bestimmungen über die Durchführung der Wahl der Klassenelternvertreter zu erlassen.
 
@@ -2283,49 +2283,49 @@ Seite 53 von 71
 
 Bundesrecht konsolidiert
 
-- mehrtägige Schulveranstaltungen,
+a) mehrtägige Schulveranstaltungen,
 
-- die Erklärung einer Veranstaltung zu einer schulbezogenen Veranstaltung (§ 13a Abs. 1),
+b) die Erklärung einer Veranstaltung zu einer schulbezogenen Veranstaltung (§ 13a Abs. 1),
 
-- die Durchführung (einschließlich der Terminfestlegung) von Elternsprechtagen (§ 19 Abs. 1),
+c) die Durchführung (einschließlich der Terminfestlegung) von Elternsprechtagen (§ 19 Abs. 1),
 
-- die Hausordnung gemäß § 44 Abs. 1,
+d) die Hausordnung gemäß § 44 Abs. 1,
 
-- die Bewilligung zur Durchführung von Sammlungen gemäß § 46 Abs. 1,
+e) die Bewilligung zur Durchführung von Sammlungen gemäß § 46 Abs. 1,
 
-- die  Bewilligung  zur  Organisierung  der  Teilnahme  von  Schülern  an  Veranstaltungen  gemäß § 46 Abs. 2,
+f) die Bewilligung zur Organisierung der Teilnahme von Schülern an Veranstaltungen gemäß § 46 Abs. 2,
 
-- die Durchführung von Veranstaltungen der Schulbahnberatung,
+g) die Durchführung von Veranstaltungen der Schulbahnberatung,
 
-- die Durchführung von Veranstaltungen betreffend die Schulgesundheitspflege,
+h) die Durchführung von Veranstaltungen betreffend die Schulgesundheitspflege,
 
-- Vorhaben, die der Mitgestaltung des Schullebens dienen (§ 58 Abs. 3),
+i) Vorhaben, die der Mitgestaltung des Schullebens dienen (§ 58 Abs. 3),
 
-- die Erlassung schulautonomer Lehrplanbestimmungen (§ 6 Abs. 1 und 3 des Schulorganisationsgesetzes  und  § 5  Abs. 1  und  3  Z  1  des  Land-  und  forstwirtschaftlichen Bundesschulgesetzes),
+j) die Erlassung schulautonomer Lehrplanbestimmungen (§ 6 Abs. 1 und 3 des Schulorganisationsgesetzes und § 5 Abs. 1 und 3 Z 1 des Land- und forstwirtschaftlichen Bundesschulgesetzes),
 
-- die schulautonome Festlegung von Eröffnungsund Teilungszahlen (§ 8a Abs. 2 des Schulorganisationsgesetzes und § 8a Abs. 2 des Landund forstwirtschaftlichen Bundesschulgesetzes),
+k) die schulautonome Festlegung von Eröffnungs- und Teilungszahlen (§ 8a Abs. 2 des Schulorganisationsgesetzes und § 8a Abs. 2 des Land- und forstwirtschaftlichen Bundesschulgesetzes),
 
-- schulautonome Schulzeitregelungen (§ 2 Abs. 5 und 8 sowie § 3 Abs. 2 des Schulzeitgesetzes 1985),
+l) schulautonome Schulzeitregelungen (§ 2 Abs. 5 und 8 sowie § 3 Abs. 2 des Schulzeitgesetzes 1985),
 
-- die schulautonome Festlegung von Reihungskriterien (§ 5 Abs. 1),
+m) die schulautonome Festlegung von Reihungskriterien (§ 5 Abs. 1),
 
-- die Erstellung von Richtlinien über die Wiederverwendung von Schulbüchern (§ 14 Abs. 7),
+n) die Erstellung von Richtlinien über die Wiederverwendung von Schulbüchern (§ 14 Abs. 7),
 
-- Kooperationen mit Schulen oder außerschulischen Einrichtungen;
+o) Kooperationen mit Schulen oder außerschulischen Einrichtungen;
 
-- die Beratung insbesondere über
+2. die Beratung insbesondere über
 
-- wichtige Fragen des Unterrichtes,
+a) wichtige Fragen des Unterrichtes,
 
-- wichtige Fragen der Erziehung,
+b) wichtige Fragen der Erziehung,
 
-- Fragen der Planung von Schulveranstaltungen, soweit diese nicht unter Z 1 lit. a fallen,
+c) Fragen der Planung von Schulveranstaltungen, soweit diese nicht unter Z 1 lit. a fallen,
 
-- die Wahl von Unterrichtsmitteln,
+d) die Wahl von Unterrichtsmitteln,
 
-- die Verwendung von der Schule zur Verwaltung übertragenen Budgetmitteln,
+e) die Verwendung von der Schule zur Verwaltung übertragenen Budgetmitteln,
 
-- Baumaßnahmen im Bereich der Schule.
+f) Baumaßnahmen im Bereich der Schule.
 
 (3) Dem Schulgemeinschaftsausschuß gehören der Schulleiter und je drei Vertreter der Lehrer, der Schüler und der Erziehungsberechtigten an. An den Berufsschulen gehören dem Schulgemeinschaftsausschuß Vertreter der Erziehungsberechtigten nur dann an, wenn dies die Erziehungsberechtigten von 20 vH der Schüler oder der Elternverein verlangen; das Verlangen hat für ein Schuljahr Gültigkeit. Sofern Vertreter der Lehrer, der Schüler oder der Erziehungsberechtigten nicht oder nicht in der erforderlichen Zahl gewählt werden konnten, gehören dem Schulgemeinschaftsausschuß nur die tatsächlich gewählten Vertreter der Lehrer, der Schüler und der Erziehungsberechtigten an.
 
@@ -2333,7 +2333,7 @@ Bundesrecht konsolidiert
 
 (5) Die Vertreter der Schüler im Schulgemeinschaftsausschuß sind der Schulsprecher und seine zwei Stellvertreter  (§ 59  Abs. 2  und  3).  Die  drei  Stellvertreter  werden  gemäß  § 59a  Abs. 4  gewählt.  Zu Stellvertretern sind jene Kandidaten gewählt, die die dritt- bis fünfthöchste Zahl an Wahlpunkten (unter Außerachtlassung der Zahl der Wahlpunkte des Schulsprechers) erhalten haben.
 
-(6) Die Vertreter der Erziehungsberechtigten sind von den Erziehungsberechtigten der Schüler der betreffenden Schule, bei volljährigen Schülern von deren Eltern, sofern sie im Zeitpunkt der Beendigung der Minderjährigkeit ihrer Kinder erziehungsberechtigt waren, aus deren Kreis innerhalb der ersten drei Monate, an lehrgangs- und saisonmäßigen Berufsschulen innerhalb der ersten drei Wochen eines jeden Lehrganges, eines jeden Schuljahres für die Zeit bis zur nächsten Wahl zu wählen. Gleichzeitig mit der Wahl der Vertreter der Erziehungsberechtigten sind drei Stellvertreter zu wählen. Besteht für die Schule ein Elternverein im Sinne des § 63, so sind die Vertreter der Erziehungsberechtigten jedoch von diesem zu entsenden; hiebei dürfen nur Erziehungsberechtigte von Kindern, die die betreffende Schule besuchen, bzw.  bei  volljährigen  Schülern  der  betreffenden  Schule  deren  Eltern,  sofern  sie  im  Zeitpunkt  der Beendigung der Minderjährigkeit ihrer Kinder erziehungsberechtigt waren, entsendet werden.
+(6) Die Vertreter der Erziehungsberechtigten sind von den Erziehungsberechtigten der Schüler der betreffenden Schule, bei volljährigen Schülern von deren Eltern, sofern sie im Zeitpunkt der Beendigung der Minderjährigkeit ihrer Kinder erziehungsberechtigt waren, aus deren Kreis innerhalb der ersten drei Monate, an lehrgangs- und saisonmäßigen Berufsschulen innerhalb der ersten drei Wochen eines jeden Lehrganges, eines jeden Schuljahres für die Zeit bis zur nächsten Wahl zu wählen. Gleichzeitig mit der Wahl der Vertreter der Erziehungsberechtigten sind drei Stellvertreter zu wählen. Besteht für die Schule ein Elternverein im Sinne des § 63, so sind die Vertreter der Erziehungsberechtigten jedoch von diesem
 
 www.ris.bka.gv.at
 
@@ -2344,6 +2344,8 @@ Seite 54 von 71
 [[START OF PAGE 55]]
 
 Bundesrecht konsolidiert
+
+zu entsenden; hiebei dürfen nur Erziehungsberechtigte von Kindern, die die betreffende Schule besuchen, bzw. bei volljährigen Schülern der betreffenden Schule deren Eltern, sofern sie im Zeitpunkt der Beendigung der Minderjährigkeit ihrer Kinder erziehungsberechtigt waren, entsendet werden.
 
 (7)  Die  Wahl  der  Vertreter  der  Lehrer,  der  Schüler  (mit  Ausnahme  des  Schulsprechers  und  des Vertreters der Klassensprecher) und der Erziehungsberechtigten ist nach den Grundsätzen der Verhältniswahl durchzuführen. Die Wahl ist geheim. Gewählt ist, wer die höchste Zahl an Wahlpunkten auf  sich  vereinigt.  Bei  gleicher  Punktezahl  entscheidet  das  Los.  Bei  Ungültigkeit  der  Wahl  ist  diese unverzüglich zu wiederholen.
 
@@ -2363,7 +2365,7 @@ Bundesrecht konsolidiert
 
 (15) Der Schulgemeinschaftsausschuß kann bei Bedarf eine Geschäftsordnung beschließen. Diese ist der zuständigen Schulbehörde zur Kenntnis zu bringen.
 
-(16)  Der  Schulleiter  hat  für  die  Durchführung  der  nach  Abs. 2  Z 1  gefaßten  Beschlüsse  des Schulgemeinschaftsausschusses und des Unterausschusses (Abs. 12) zu sorgen; hält er einen derartigen Beschluß  für  rechtswidrig  oder  aus  organisatorischen  Gründen  nicht  durchführbar,  hat  er  diesen auszusetzen  und  die  Weisung  der  zuständigen  Schulbehörde  einzuholen.  Sofern  ein  Beschluß  in  den Fällen des Abs. 2 Z 2 nicht an den Schulleiter gerichtet ist, hat er diesen Beschluß an die zuständige Stelle weiterzuleiten.
+(16) Der Schulleiter hat für die Durchführung der nach Abs. 2 Z 1 gefaßten Beschlüsse des Schulgemeinschaftsausschusses und des Unterausschusses (Abs. 12) zu sorgen; hält er einen derartigen
 
 www.ris.bka.gv.at
 
@@ -2374,6 +2376,8 @@ Seite 55 von 71
 [[START OF PAGE 56]]
 
 Bundesrecht konsolidiert
+
+Beschluß für rechtswidrig oder aus organisatorischen Gründen nicht durchführbar, hat er diesen auszusetzen und die Weisung der zuständigen Schulbehörde einzuholen. Sofern ein Beschluß in den Fällen des Abs. 2 Z 2 nicht an den Schulleiter gerichtet ist, hat er diesen Beschluß an die zuständige Stelle weiterzuleiten.
 
 (17)  Kann  der  Schulgemeinschaftsausschuß  in  den  Fällen  des  Abs. 2  Z 1  lit. a  und  c  bis  i  keine Entscheidung treffen, weil die Beschlußfähigkeit nicht gegeben ist, hat der Schulleiter den Schulgemeinschaftsausschuß unverzüglich zu einer neuerlichen Sitzung einzuladen; der Schulgemeinschaftsausschuß  ist  in  der  neuen  Sitzung  jedenfalls  beschlußfähig,  sofern  die  Einladung ordnungsgemäß ergangen und seit dem vorgesehenen Beginn der Sitzung eine halbe Stunde vergangen ist und zumindest je ein Mitglied der im Ausschuß vertretenen Gruppen anwesend ist.
 
@@ -2403,7 +2407,7 @@ Bundesrecht konsolidiert
 
 § 66. (1)  Schulärzte haben die Aufgabe, die Lehrer in gesundheitlichen Fragen der Schüler, soweit sie den Unterricht und den Schulbesuch betreffen, zu beraten und die hiefür erforderlichen Untersuchungen der Schüler durchzuführen.
 
-(2)  Die  Schüler  sind  verpflichtet,  sich  -  abgesehen  von  einer  allfälligen  Aufnahmsuntersuchung  einmal im Schuljahr einer schulärztlichen Untersuchung zu unterziehen. Darüber hinaus sind Untersuchungen  mit  Zustimmung  des  Schülers  möglich.  Sofern  bei  Untersuchungen  gesundheitliche Mängel festgestellt werden, ist der Schüler hievon vom Schularzt in Kenntnis zu setzen.
+(2) Die Schüler sind verpflichtet, sich - abgesehen von einer allfälligen Aufnahmsuntersuchung - einmal im Schuljahr einer schulärztlichen Untersuchung zu unterziehen. Darüber hinaus sind Untersuchungen mit Zustimmung des Schülers möglich. Sofern bei Untersuchungen gesundheitliche Mängel festgestellt werden, ist der Schüler hievon vom Schularzt in Kenntnis zu setzen.
 
 www.ris.bka.gv.at
 
@@ -2430,43 +2434,43 @@ Bundesrecht konsolidiert
 
 § 68. Ab der 9. Schulstufe ist der nichteigenberechtigte Schüler (Prüfungskandidat) zum selbständigen  Handeln  in  nachstehenden  Angelegenheiten  befugt,  sofern  die  Kenntnisnahme  durch  die Erziehungsberechtigten nachgewiesen wird. Die Kenntnisnahme hat an lehrgangsmäßigen Berufsschulen zu  entfallen.  Die  Erziehungsberechtigten  können  durch  Erklärung  dem  Klassenvorstand  gegenüber  auf die  Kenntnisnahme  in  allen  oder  einzelnen  in  lit. a  bis  w  genannten  Angelegenheiten  schriftlich verzichten, diesen Verzicht jedoch jederzeit schriftlich widerrufen.
 
-- Ansuchen um Befreiung vom Besuch einzelner Pflichtgegenstände (§ 4 Abs. 4),
+a) Ansuchen um Befreiung vom Besuch einzelner Pflichtgegenstände (§ 4 Abs. 4),
 
-- Ansuchen um Bewilligung zur Ablegung der Aufnahms- oder Eignungsprüfung im Herbsttermin oder zu einem späteren Zeitpunkt (§ 6 Abs. 3),
+b) Ansuchen um Bewilligung zur Ablegung der Aufnahms- oder Eignungsprüfung im Herbsttermin oder zu einem späteren Zeitpunkt (§ 6 Abs. 3),
 
-- Verlangen auf Ausstellung eines Zeugnisses gemäß § 8 Abs. 3,
+c) Verlangen auf Ausstellung eines Zeugnisses gemäß § 8 Abs. 3,
 
-- Wahl zwischen alternativen Pflichtgegenständen, späterer Wechsel eines alternativen Pflichtgegenstandes, Weiterführen oder Wechsel des bisher besuchten alternativen Pflichtgegenstandes  bzw.  der  bisher  besuchten  Fremdsprache  anläßlich  des  Übertrittes  in  eine andere  Schule,  Stellung  eines  Ansuchens  um  Befreiung  von  der  Teilnahme  an  einzelnen Pflichtgegenständen (§ 11 Abs. 1 und 3 bis 7),
+d) Wahl zwischen alternativen Pflichtgegenständen, späterer Wechsel eines alternativen Pflichtgegenstandes, Weiterführen oder Wechsel des bisher besuchten alternativen Pflichtgegenstandes bzw. der bisher besuchten Fremdsprache anläßlich des Übertrittes in eine andere Schule, Stellung eines Ansuchens um Befreiung von der Teilnahme an einzelnen Pflichtgegenständen (§ 11 Abs. 1 und 3 bis 7),
 
-- Antrag, Anmeldung und Abmeldung betreffend Teilnahme an Freigegenständen, unverbindlichen Übungen sowie am Förderunterricht (§ 12 Abs. 1, 3, 4 und 6 bis 8),
+e) Antrag, Anmeldung und Abmeldung betreffend Teilnahme an Freigegenständen, unverbindlichen Übungen sowie am Förderunterricht (§ 12 Abs. 1, 3, 4 und 6 bis 8),
 
-- Anmeldung zu schulbezogenen Veranstaltungen (§ 13a),
+f) Anmeldung zu schulbezogenen Veranstaltungen (§ 13a),
 
-- Antrag betreffend Beurteilung fremdsprachiger Schüler (§ 18 Abs. 12),
+g) Antrag betreffend Beurteilung fremdsprachiger Schüler (§ 18 Abs. 12),
 
-- Ansuchen um  Stundung  der Feststellungsprüfung sowie Antrag auf Zulassung zu einer Wiederholung der Nachtragsprüfung (§ 20 Abs. 3),
+h) Ansuchen um Stundung der Feststellungsprüfung sowie Antrag auf Zulassung zu einer Wiederholung der Nachtragsprüfung (§ 20 Abs. 3),
 
-- Ansuchen  um  Durchführung  einer  Prüfung  über  Kenntnisse  und  Fertigkeiten  des  praktischen Unterrichtes (§ 20 Abs. 4),
+i) Ansuchen um Durchführung einer Prüfung über Kenntnisse und Fertigkeiten des praktischen Unterrichtes (§ 20 Abs. 4),
 
-- Verlangen auf Ausstellung eines vorläufigen Jahreszeugnisses (§ 22 Abs. 5),
+j) Verlangen auf Ausstellung eines vorläufigen Jahreszeugnisses (§ 22 Abs. 5),
 
-- Verlangen auf Ausstellung einer Schulbesuchsbestätigung (§§ 22 Abs. 10 und 24 Abs. 1),
+k) Verlangen auf Ausstellung einer Schulbesuchsbestätigung (§§ 22 Abs. 10 und 24 Abs. 1),
 
-- Antrag auf Beurteilung der Leistungen in den besuchten Unterrichtsgegenständen (§ 24 Abs. 2),
+l) Antrag auf Beurteilung der Leistungen in den besuchten Unterrichtsgegenständen (§ 24 Abs. 2),
 
-- Ansuchen um Aufnahme in die übernächste Schulstufe (§ 26 Abs. 1),
+m) Ansuchen um Aufnahme in die übernächste Schulstufe (§ 26 Abs. 1),
 
-- Ansuchen um Bewilligung zur Wiederholung einer Schulstufe (§ 27 Abs. 2),
+n) Ansuchen um Bewilligung zur Wiederholung einer Schulstufe (§ 27 Abs. 2),
 
-- Ansuchen um Aufschub der Aufnahmsprüfung anläßlich des Übertrittes in eine andere Schulart oder eine andere Form oder Fachrichtung einer Schulart (§ 29 Abs. 5, auch im Zusammenhalt mit § 30),
+o) Ansuchen um Aufschub der Aufnahmsprüfung anläßlich des Übertrittes in eine andere Schulart oder eine andere Form oder Fachrichtung einer Schulart (§ 29 Abs. 5, auch im Zusammenhalt mit § 30),
 
-- Ansuchen  um  Verlängerung  der  Höchstdauer  für  den  Abschluss  einer  mindestens  dreistufigen mittleren oder höheren Schule (§ 32 Abs. 8),
+p) Ansuchen um Verlängerung der Höchstdauer für den Abschluss einer mindestens dreistufigen mittleren oder höheren Schule (§ 32 Abs. 8),
 
-- Ansuchen um Bewilligung zum erstmaligen Antreten zur abschließenden Prüfung in dem dem Haupttermin nächstfolgenden Termin (§ 36a Abs. 3),
+q) Ansuchen um Bewilligung zum erstmaligen Antreten zur abschließenden Prüfung in dem dem Haupttermin nächstfolgenden Termin (§ 36a Abs. 3),
 
-- Ansuchen  um  Zulassung  zur  Wiederholung  von  Teilprüfungen  der  abschließenden  Prüfung (§ 40),
+r) Ansuchen um Zulassung zur Wiederholung von Teilprüfungen der abschließenden Prüfung (§ 40),
 
-- Anmeldung zur Ablegung von Zusatzprüfungen zur Reifeprüfung (§ 41 Abs. 1) und Ansuchen gemäß § 41 Abs. 2,
+s) Anmeldung zur Ablegung von Zusatzprüfungen zur Reifeprüfung (§ 41 Abs. 1) und Ansuchen gemäß § 41 Abs. 2,
 
 www.ris.bka.gv.at
 
@@ -2478,15 +2482,15 @@ Seite 57 von 71
 
 Bundesrecht konsolidiert
 
-- Ansuchen  um  Zulassung  zur  Ablegung  einer  Externistenprüfung  (§ 42  Abs. 5),  Ansuchen  um Zulassung zur Wiederholung der im § 42 Abs. 12 genannten Prüfungen,
+t) Ansuchen um Zulassung zur Ablegung einer Externistenprüfung (§ 42 Abs. 5), Ansuchen um Zulassung zur Wiederholung der im § 42 Abs. 12 genannten Prüfungen,
 
-- Benachrichtigung von  einer  Verhinderung  am  Schulbesuch, Ansuchen  um  Erteilung  der Erlaubnis zum Fernbleiben von der Schule (§ 45 Abs. 3 und 4),
+u) Benachrichtigung von einer Verhinderung am Schulbesuch, Ansuchen um Erteilung der Erlaubnis zum Fernbleiben von der Schule (§ 45 Abs. 3 und 4),
 
-- Ansuchen um Nostrifikation ausländischer Zeugnisse (§ 75 Abs. 1),
+v) Ansuchen um Nostrifikation ausländischer Zeugnisse (§ 75 Abs. 1),
 
-- Antrag auf Ausstellung einer Ersatzbestätigung für ein verlorenes Zeugnis (§ 76 Abs. 1),
+w) Antrag auf Ausstellung einer Ersatzbestätigung für ein verlorenes Zeugnis (§ 76 Abs. 1),
 
-- Zustimmung zur Umstufung in die niedrigere Leistungsgruppe gemäß § 31c Abs. 2 letzter Satz.
+x) Zustimmung zur Umstufung in die niedrigere Leistungsgruppe gemäß § 31c Abs. 2 letzter Satz.
 
 #### Untätigbleiben des nichteigenberechtigten Schülers
 
@@ -2500,27 +2504,27 @@ Abs. 1 lit. c: Tritt mit Ablauf des 14. Februar 2012, hinsichtlich der 10. Schul
 
 § 70. (1) Soweit zur Durchführung von Verfahren andere Organe als die Schulbehörden des Bundes berufen sind, finden die allgemeinen Verfahrensbestimmungen des AVG keine Anwendung und sind in den nachstehend angeführten Angelegenheiten die Absätze 2 bis 4 anzuwenden:
 
-- Aufnahme  in  die  Schule  und  Übertritt  in  eine  andere  Schulart  oder  eine  andere  Form  oder Fachrichtung einer Schulart (§§ 3 bis 5, 29 bis 31),
+a) Aufnahme in die Schule und Übertritt in eine andere Schulart oder eine andere Form oder Fachrichtung einer Schulart (§§ 3 bis 5, 29 bis 31),
 
-- Zulassung zu Aufnahms- und Eignungsprüfungen (§ 6),
+b) Zulassung zu Aufnahms- und Eignungsprüfungen (§ 6),
 
-- Besuch von Pflichtgegenständen, Freigegenständen, verbindlichen und unverbindlichen Übungen, des Förderunterrichtes sowie des Betreuungsteiles an ganztägigen Schulen (§§ 11, 12, 12a),
+c) Besuch von Pflichtgegenständen, Freigegenständen, verbindlichen und unverbindlichen Übungen, des Förderunterrichtes sowie des Betreuungsteiles an ganztägigen Schulen (§§ 11, 12, 12a),
 
-- Festlegung besonderer Lehrplanmaßnahmen für Schüler mit sonderpädagogischem Förderbedarf (§ 17 Abs. 4 lit. b),
+d) Festlegung besonderer Lehrplanmaßnahmen für Schüler mit sonderpädagogischem Förderbedarf (§ 17 Abs. 4 lit. b),
 
-- Bestimmung von Beurteilungsgrundlagen gemäß § 18 Abs. 12,
+e) Bestimmung von Beurteilungsgrundlagen gemäß § 18 Abs. 12,
 
-- Stundung von Feststellungsprüfungen (§ 20 Abs. 3),
+f) Stundung von Feststellungsprüfungen (§ 20 Abs. 3),
 
-(Anm.: tritt mit 1.9.2017 in Kraft)
+g) (Anm.: tritt mit 1.9.2017 in Kraft)
 
-- Verlängerung der Höchstdauer des Schulbesuches (§ 32 Abs. 8),
+h) Verlängerung der Höchstdauer des Schulbesuches (§ 32 Abs. 8),
 
-- Zulassung  zu  abschließenden  Prüfungen  einschließlich  Vorprüfungen  und  Zusatzprüfungen  in einer  anderen  als  der  beantragten  Form  und  Nichtzulassung  zu  diesen  Prüfungen  sowie Zulassung zu Externistenprüfungen (§§ 36a, 40 bis 42),
+i) Zulassung zu abschließenden Prüfungen einschließlich Vorprüfungen und Zusatzprüfungen in einer anderen als der beantragten Form und Nichtzulassung zu diesen Prüfungen sowie Zulassung zu Externistenprüfungen (§§ 36a, 40 bis 42),
 
-- Fernbleiben von der Schule (§ 45),
+j) Fernbleiben von der Schule (§ 45),
 
-- Versetzung in eine Parallelklasse oder einen anderen Lehrgang (§ 47 Abs. 2).
+k) Versetzung in eine Parallelklasse oder einen anderen Lehrgang (§ 47 Abs. 2).
 
 (2) Der Erlassung einer Entscheidung hat die Feststellung des maßgebenden Sachverhaltes, soweit er nicht  von  vornherein  klar  gegeben  ist,  durch  Beweise  voranzugehen.  Als  Beweismittel  kommt  alles  in Betracht,  was  zur  Feststellung  des  maßgebenden  Sachverhaltes  geeignet  und  nach  Lage  des  einzelnen Falles zweckdienlich ist. Dem  Schüler (Aufnahmsbewerber,  Prüfungskandidaten) ist, sofern der Sachverhalt nicht von vornherein klar gegeben ist oder seinem Standpunkt nicht vollinhaltlich Rechnung getragen werden soll, Gelegenheit zu geben, zu den Sachverhaltsfeststellungen Stellung zu nehmen.
 
@@ -2538,19 +2542,19 @@ Bundesrecht konsolidiert
 
 (3)  Entscheidungen  können  sowohl  mündlich  als  auch  schriftlich  erlassen  werden.  Sofern  einem Ansuchen nicht vollinhaltlich stattgegeben wird, kann innerhalb einer Woche  eine schriftliche Ausfertigung der Entscheidung verlangt werden.
 
-- Die schriftliche Ausfertigung einer Entscheidung hat zu enthalten:
+(4) Die schriftliche Ausfertigung einer Entscheidung hat zu enthalten:
 
-- Bezeichnung und Standort der Schule, Bezeichnung des entscheidenden Organes;
+a) Bezeichnung und Standort der Schule, Bezeichnung des entscheidenden Organes;
 
-- den Inhalt der Entscheidung unter Anführung der angewendeten Gesetzesstellen;
+b) den Inhalt der Entscheidung unter Anführung der angewendeten Gesetzesstellen;
 
-- die Begründung, wenn dem Standpunkt des Schülers (Aufnahmsbewerbers, Prüfungskandidaten) nicht vollinhaltlich Rechnung getragen wird;
+c) die Begründung, wenn dem Standpunkt des Schülers (Aufnahmsbewerbers, Prüfungskandidaten) nicht vollinhaltlich Rechnung getragen wird;
 
-- Datum der Entscheidung;
+d) Datum der Entscheidung;
 
-- die Unterschrift des entscheidenden Organes, bei Kollegialorganen des Vorsitzenden;
+e) die Unterschrift des entscheidenden Organes, bei Kollegialorganen des Vorsitzenden;
 
-- die  Belehrung  über  die  Widerspruchsmöglichkeit,  wenn  dem  Ansuchen  nicht  vollinhaltlich stattgegeben wird.
+f) die Belehrung über die Widerspruchsmöglichkeit, wenn dem Ansuchen nicht vollinhaltlich stattgegeben wird.
 
 #### Beachte für folgende Bestimmung
 
@@ -2560,27 +2564,27 @@ Abs. 1 lit. c: Tritt mit 15. Februar 2012, hinsichtlich der 10. Schulstufen von 
 
 § 70. (1) Soweit zur Durchführung von Verfahren andere Organe als die Schulbehörden des Bundes berufen sind, finden die allgemeinen Verfahrensbestimmungen des AVG keine Anwendung und sind in den nachstehend angeführten Angelegenheiten die Absätze 2 bis 4 anzuwenden:
 
-- Aufnahme  in  die  Schule  und  Übertritt  in  eine  andere  Schulart  oder  eine  andere  Form  oder Fachrichtung einer Schulart (§§ 3 bis 5, 29 bis 31),
+a) Aufnahme in die Schule und Übertritt in eine andere Schulart oder eine andere Form oder Fachrichtung einer Schulart (§§ 3 bis 5, 29 bis 31),
 
-- Zulassung zu Aufnahms- und Eignungsprüfungen (§ 6),
+b) Zulassung zu Aufnahms- und Eignungsprüfungen (§ 6),
 
-- Besuch von Pflichtgegenständen, Freigegenständen, verbindlichen und unverbindlichen Übungen, des Förderunterrichtes, des Betreuungsteils an ganztägigen Schulen, das Überspringen einzelner Unterrichtsgegenstände sowie die zeitweise Teilnahme am Unterricht in einem höheren Semester (§§ 11, 12, 12a, 26b, 26c),
+c) Besuch von Pflichtgegenständen, Freigegenständen, verbindlichen und unverbindlichen Übungen, des Förderunterrichtes, des Betreuungsteils an ganztägigen Schulen, das Überspringen einzelner Unterrichtsgegenstände sowie die zeitweise Teilnahme am Unterricht in einem höheren Semester (§§ 11, 12, 12a, 26b, 26c),
 
-- Festlegung besonderer Lehrplanmaßnahmen für Schüler mit sonderpädagogischem Förderbedarf (§ 17 Abs. 4 lit. b),
+d) Festlegung besonderer Lehrplanmaßnahmen für Schüler mit sonderpädagogischem Förderbedarf (§ 17 Abs. 4 lit. b),
 
-- Bestimmung von Beurteilungsgrundlagen gemäß § 18 Abs. 12,
+e) Bestimmung von Beurteilungsgrundlagen gemäß § 18 Abs. 12,
 
-- Stundung von Feststellungsprüfungen (§ 20 Abs. 3),
+f) Stundung von Feststellungsprüfungen (§ 20 Abs. 3),
 
-- Maßnahmen der Begabungsförderung (§§ 26, 26a, 26b, 26c),
+g) Maßnahmen der Begabungsförderung (§§ 26, 26a, 26b, 26c),
 
-- Verlängerung der Höchstdauer des Schulbesuches (§ 32 Abs. 8),
+h) Verlängerung der Höchstdauer des Schulbesuches (§ 32 Abs. 8),
 
-- Zulassung  zu  abschließenden  Prüfungen  einschließlich  Vorprüfungen  und  Zusatzprüfungen  in einer  anderen  als  der  beantragten  Form  und  Nichtzulassung  zu  diesen  Prüfungen  sowie Zulassung zu Externistenprüfungen (§§ 36a, 40 bis 42),
+i) Zulassung zu abschließenden Prüfungen einschließlich Vorprüfungen und Zusatzprüfungen in einer anderen als der beantragten Form und Nichtzulassung zu diesen Prüfungen sowie Zulassung zu Externistenprüfungen (§§ 36a, 40 bis 42),
 
-- Fernbleiben von der Schule (§ 45),
+j) Fernbleiben von der Schule (§ 45),
 
-- Versetzung in eine Parallelklasse oder einen anderen Lehrgang (§ 47 Abs. 2).
+k) Versetzung in eine Parallelklasse oder einen anderen Lehrgang (§ 47 Abs. 2).
 
 (2) Der Erlassung einer Entscheidung hat die Feststellung des maßgebenden Sachverhaltes, soweit er nicht  von  vornherein  klar  gegeben  ist,  durch  Beweise  voranzugehen.  Als  Beweismittel  kommt  alles  in Betracht,  was  zur  Feststellung  des  maßgebenden  Sachverhaltes  geeignet  und  nach  Lage  des  einzelnen Falles zweckdienlich ist. Dem  Schüler (Aufnahmsbewerber,  Prüfungskandidaten) ist, sofern der Sachverhalt nicht von vornherein klar gegeben ist oder seinem Standpunkt nicht vollinhaltlich Rechnung getragen werden soll, Gelegenheit zu geben, zu den Sachverhaltsfeststellungen Stellung zu nehmen.
 
@@ -2588,7 +2592,7 @@ Abs. 1 lit. c: Tritt mit 15. Februar 2012, hinsichtlich der 10. Schulstufen von 
 
 (3)  Entscheidungen  können  sowohl  mündlich  als  auch  schriftlich  erlassen  werden.  Sofern  einem Ansuchen nicht vollinhaltlich stattgegeben wird, kann innerhalb einer Woche  eine schriftliche Ausfertigung der Entscheidung verlangt werden.
 
-- Die schriftliche Ausfertigung einer Entscheidung hat zu enthalten:
+(4) Die schriftliche Ausfertigung einer Entscheidung hat zu enthalten:
 
 www.ris.bka.gv.at
 
@@ -2600,17 +2604,17 @@ Seite 59 von 71
 
 Bundesrecht konsolidiert
 
-- Bezeichnung und Standort der Schule, Bezeichnung des entscheidenden Organes;
+a) Bezeichnung und Standort der Schule, Bezeichnung des entscheidenden Organes;
 
-- den Inhalt der Entscheidung unter Anführung der angewendeten Gesetzesstellen;
+b) den Inhalt der Entscheidung unter Anführung der angewendeten Gesetzesstellen;
 
-- die Begründung, wenn dem Standpunkt des Schülers (Aufnahmsbewerbers, Prüfungskandidaten) nicht vollinhaltlich Rechnung getragen wird;
+c) die Begründung, wenn dem Standpunkt des Schülers (Aufnahmsbewerbers, Prüfungskandidaten) nicht vollinhaltlich Rechnung getragen wird;
 
-- Datum der Entscheidung;
+d) Datum der Entscheidung;
 
-- die Unterschrift des entscheidenden Organes, bei Kollegialorganen des Vorsitzenden;
+e) die Unterschrift des entscheidenden Organes, bei Kollegialorganen des Vorsitzenden;
 
-- die  Belehrung  über  die  Widerspruchsmöglichkeit,  wenn  dem  Ansuchen  nicht  vollinhaltlich stattgegeben wird.
+f) die Belehrung über die Widerspruchsmöglichkeit, wenn dem Ansuchen nicht vollinhaltlich stattgegeben wird.
 
 #### Beachte für folgende Bestimmung
 
@@ -2622,21 +2626,21 @@ Abs. 2 lit. f: zum Bezugszeitraum vgl. § 82 Abs. 5p Z 2 und § 82b
 
 (2) Gegen die Entscheidung,
 
-- daß die Einstufungs-, Aufnahms- oder Eignungsprüfung nicht bestanden worden ist (§§ 3, 8, 28 bis 31),
+a) daß die Einstufungs-, Aufnahms- oder Eignungsprüfung nicht bestanden worden ist (§§ 3, 8, 28 bis 31),
 
-- betreffend den Wechsel von Schulstufen in der Grundstufe I der Volksschule (§ 17 Abs. 5),
+b) betreffend den Wechsel von Schulstufen in der Grundstufe I der Volksschule (§ 17 Abs. 5),
 
-- dass  der  Schüler  zum  Aufsteigen  nicht  berechtigt  ist  oder  die  letzte  Stufe  der  besuchten Schulart  nicht  erfolgreich  abgeschlossen  hat  (Entscheidung  gemäß  § 20  Abs. 6,  8  und  10, Entscheidung  nach  Ablegung  von  einer  oder  zwei  Wiederholungsprüfungen,  jeweils  in Verbindung mit § 25) oder zum Übertritt in eine mindestens dreijährige mittlere oder in eine höhere Schule nicht berechtigt ist (Entscheidung gemäß § 20 Abs. 6a),
+c) dass der Schüler zum Aufsteigen nicht berechtigt ist oder die letzte Stufe der besuchten Schulart nicht erfolgreich abgeschlossen hat (Entscheidung gemäß § 20 Abs. 6, 8 und 10, Entscheidung nach Ablegung von einer oder zwei Wiederholungsprüfungen, jeweils in Verbindung mit § 25) oder zum Übertritt in eine mindestens dreijährige mittlere oder in eine höhere Schule nicht berechtigt ist (Entscheidung gemäß § 20 Abs. 6a),
 
-- daß die Aufnahmsprüfung gemäß § 31b Abs. 4 nicht bestanden worden ist,
+d) daß die Aufnahmsprüfung gemäß § 31b Abs. 4 nicht bestanden worden ist,
 
-- daß  der  Schüler  auf  der  nächsten  Schulstufe  eine  niedrigere  Leistungsgruppe  zu  besuchen  hat oder daß sein Antrag auf Umstufung in die höhere Leistungsgruppe für die nächste Schulstufe abgelehnt wird (§ 31c Abs. 6),
+e) daß der Schüler auf der nächsten Schulstufe eine niedrigere Leistungsgruppe zu besuchen hat oder daß sein Antrag auf Umstufung in die höhere Leistungsgruppe für die nächste Schulstufe abgelehnt wird (§ 31c Abs. 6),
 
-- daß eine Reifeprüfung, eine Reife- und Diplomprüfung, eine Diplomprüfung, eine Abschlußprüfung, eine Zusatzprüfung oder eine Externistenprüfung nicht bestanden worden ist (§§ 38, 41, 42),
+f) daß eine Reifeprüfung, eine Reife- und Diplomprüfung, eine Diplomprüfung, eine Abschlußprüfung, eine Zusatzprüfung oder eine Externistenprüfung nicht bestanden worden ist (§§ 38, 41, 42),
 
-- dass dem Ansuchen gemäß § 26a nicht vollinhaltlich stattgegeben wurde,
+g) dass dem Ansuchen gemäß § 26a nicht vollinhaltlich stattgegeben wurde,
 
-- dass die letztmögliche Wiederholung einer Semesterprüfung (§ 23a) nicht bestanden worden ist,
+h) dass die letztmögliche Wiederholung einer Semesterprüfung (§ 23a) nicht bestanden worden ist,
 
 ist  ein  Widerspruch  an  die  zuständige  Schulbehörde  zulässig.  Der  Widerspruch  ist  schriftlich  (in  jeder technisch möglichen Form, nicht jedoch mit E-Mail) innerhalb von fünf Tagen bei der Schule, im Falle der  Externistenprüfungen  bei  der  Prüfungskommission,  einzubringen.  Der  Schulleiter  (der  Vorsitzende der Prüfungskommission) hat den Widerspruch unter Anschluß einer Stellungnahme der Lehrer (Prüfer), auf deren Beurteilungen sich die Entscheidung gründet, sowie unter Anschluß aller sonstigen Beweismittel unverzüglich der zuständigen Schulbehörde vorzulegen.
 
@@ -2644,7 +2648,7 @@ ist  ein  Widerspruch  an  die  zuständige  Schulbehörde  zulässig.  Der  Wid
 
 (3)  Die  Frist  für  die  Einbringung  des  Widerspruchs  beginnt im Falle der mündlichen Verkündung der  Entscheidung  mit  dieser,  im  Falle  der  schriftlichen  Ausfertigung  der  Entscheidung  jedoch  mit  der Zustellung.
 
-(4)  Die  zuständige  Schulbehörde  hat  in  den  Fällen  des  Abs. 2,  insoweit  sich  der  Widerspruch  auf behauptete  unrichtige  Beurteilungen  mit  'Nicht  genügend'  stützt,  diese  zu  überprüfen.  Wenn  die Unterlagen  nicht  zur  Feststellung,  daß  eine  auf  'Nicht  genügend'  lautende  Beurteilung  unrichtig  oder richtig  war,  ausreichen,  ist  das  Verfahren  zu  unterbrechen  und  der  Widerspruchswerber  zu  einer kommissionellen Prüfung (Abs. 5) zuzulassen. Die Überprüfung der Beurteilungen bzw. die Zulassung zur kommissionellen Prüfung hat auch dann zu erfolgen, wenn deren Ergebnis keine Grundlage für eine Änderung der angefochtenen Entscheidung gibt.
+(4) Die zuständige Schulbehörde hat in den Fällen des Abs. 2, insoweit sich der Widerspruch auf behauptete unrichtige Beurteilungen mit „Nicht genügend” stützt, diese zu überprüfen. Wenn die Unterlagen nicht zur Feststellung, daß eine auf „Nicht genügend” lautende Beurteilung unrichtig oder richtig war, ausreichen, ist das Verfahren zu unterbrechen und der Widerspruchswerber zu einer kommissionellen Prüfung (Abs. 5) zuzulassen. Die Überprüfung der Beurteilungen bzw. die Zulassung zur kommissionellen Prüfung hat auch dann zu erfolgen, wenn deren Ergebnis keine Grundlage für eine Änderung der angefochtenen Entscheidung gibt.
 
 www.ris.bka.gv.at
 
@@ -2656,29 +2660,29 @@ Seite 60 von 71
 
 Bundesrecht konsolidiert
 
-- Für  die  Durchführung  der  kommissionellen  Prüfung  gelten  die  Bestimmungen  über  die Wiederholungsprüfung (§ 23 Abs. 6) mit der Maßgabe, dass
+(5) Für die Durchführung der kommissionellen Prüfung gelten die Bestimmungen über die Wiederholungsprüfung (§ 23 Abs. 6) mit der Maßgabe, dass
 
-- die Prüfung unter dem Vorsitz eines Schulaufsichtsbeamten oder eines von diesem bestimmten Vertreters stattzufinden hat und
+1. die Prüfung unter dem Vorsitz eines Schulaufsichtsbeamten oder eines von diesem bestimmten Vertreters stattzufinden hat und
 
-- der  Vorsitzende  den  Lehrer,  der  den  betreffenden  Unterrichtsgegenstand  in  der  betreffenden Klasse  unterrichtet  hat,  oder  einen  anderen  für  den  betreffenden  Unterrichtsgegenstand  (das Prüfungsgebiet)  lehrbefähigten  Lehrer  als  Prüfer  und  einen  weiteren  Lehrer  als  Beisitzer  zu bestellen hat.
+2. der Vorsitzende den Lehrer, der den betreffenden Unterrichtsgegenstand in der betreffenden Klasse unterrichtet hat, oder einen anderen für den betreffenden Unterrichtsgegenstand (das Prüfungsgebiet) lehrbefähigten Lehrer als Prüfer und einen weiteren Lehrer als Beisitzer zu bestellen hat.
 
 Wenn  eine  Einigung  über  die  Beurteilung  des  Ergebnisses  dieser  Prüfung  nicht  zu  Stande  kommt, entscheidet der Vorsitzende.
 
-(6) Der dem Widerspruch stattgebenden oder diesen abweisenden Entscheidung ist die Beurteilung zugrunde  zu  legen,  die  die  Behörde  nach  der  Überprüfung  bzw.  die  Prüfungskommission  nach  der Durchführung der Prüfung für richtig hält. Sofern diese Beurteilung nicht auf 'Nicht genügend' lautet, ist ein Zeugnis auszustellen, das diese Beurteilung enthält.
+(6) Der dem Widerspruch stattgebenden oder diesen abweisenden Entscheidung ist die Beurteilung zugrunde zu legen, die die Behörde nach der Überprüfung bzw. die Prüfungskommission nach der Durchführung der Prüfung für richtig hält. Sofern diese Beurteilung nicht auf „Nicht genügend” lautet, ist ein Zeugnis auszustellen, das diese Beurteilung enthält.
 
 (7) (Anm.: aufgehoben durch BGBl. I Nr. 75/2013)
 
-(7a) Im Falle des Abs. 2 lit. h hat die zuständige Schulbehörde die behauptete unrichtige Beurteilung der Semesterprüfung mit 'Nicht genügend' bzw. deren Nichtbeurteilung wegen vorgetäuschter Leistungen zu überprüfen. Wenn die Unterlagen zur Feststellung, dass eine Nichtbeurteilung oder eine auf 'Nicht genügend' lautende Beurteilung unrichtig oder richtig war, nicht ausreichen, ist das Verfahren zu unterbrechen und der Widerspruchswerber zu einer neuerlichen Semesterprüfung unter dem Vorsitz eines Vertreters der zuständigen Schulbehörde zuzulassen.
+(7a) Im Falle des Abs. 2 lit. h hat die zuständige Schulbehörde die behauptete unrichtige Beurteilung der Semesterprüfung mit „Nicht genügend” bzw. deren Nichtbeurteilung wegen vorgetäuschter Leistungen zu überprüfen. Wenn die Unterlagen zur Feststellung, dass eine Nichtbeurteilung oder eine auf „Nicht genügend” lautende Beurteilung unrichtig oder richtig war, nicht ausreichen, ist das Verfahren zu unterbrechen und der Widerspruchswerber zu einer neuerlichen Semesterprüfung unter dem Vorsitz eines Vertreters der zuständigen Schulbehörde zuzulassen.
 
-(Anm.: aufgehoben durch BGBl. I Nr. 75/2013)
+(8) (Anm.: aufgehoben durch BGBl. I Nr. 75/2013)
 
-- Gegen  andere  als  in  Abs. 1  und  2  genannte  Entscheidungen  von  schulischen  Organen  ist  ein Widerspruch an die zuständige Schulbehörde nicht zulässig.
+(9) Gegen andere als in Abs. 1 und 2 genannte Entscheidungen von schulischen Organen ist ein Widerspruch an die zuständige Schulbehörde nicht zulässig.
 
 #### Zustellung
 
 § 72. (1)  Schriftliche  Ausfertigungen  von  in  den  Fällen  des  § 70  Abs. 1  und  des  § 71  Abs. 2 erlassenen  Entscheidungen  sind  den  Schülern,  sofern  sie  jedoch  nicht  eigenberechtigt  sind  und  Abs. 3 nicht anzuwenden ist, den Erziehungsberechtigten nachweislich zuzustellen.
 
-- Die  Zustellung  an  die  Erziehungsberechtigten  kann  auch  in  der  Weise  erfolgen,  daß  die Ausfertigungen dem Schüler (Aufnahmsbewerber, Prüfungskandidaten) zur Übergabe an die Erziehungsberechtigten ausgehändigt werden und diese die Empfangnahme schriftlich bestätigen.
+(2) Die Zustellung an die Erziehungsberechtigten kann auch in der Weise erfolgen, daß die Ausfertigungen dem Schüler (Aufnahmsbewerber, Prüfungskandidaten) zur Übergabe an die Erziehungsberechtigten ausgehändigt werden und diese die Empfangnahme schriftlich bestätigen.
 
 (3)  Ist  der  Schüler  (Prüfungskandidat)  zum  selbständigen  Handeln  befugt  (§ 68),  so  hat  die Zustellung durch Übergabe der Ausfertigungen an ihn zu erfolgen. Die Erziehungsberechtigten können jedoch jeweils innerhalb von zwei Wochen nach Beginn des Schuljahres verlangen, daß in diesen Fällen die Zustellung neben der Zustellung an den Schüler (Prüfungskandidaten) auch an sie zu erfolgen hat.
 
@@ -2688,13 +2692,13 @@ Wenn  eine  Einigung  über  die  Beurteilung  des  Ergebnisses  dieser  Prüfun
 
 § 73. (1) In den Fällen des § 70 Abs. 1 haben die zuständigen Organe über Ansuchen des Schülers (Aufnahmsbewerbers, Prüfungskandidaten) spätestens vier Wochen nach deren Einlangen, in den Fällen des § 70 Abs. 1 lit. a spätestens zwei Wochen nach Erfüllung sämtlicher Aufnahmsvoraussetzungen, die Entscheidung zu erlassen. Bei Nichteinhalten dieser Fristen geht die Zuständigkeit zur Entscheidung auf schriftliches  Verlangen  des  Schülers  (Aufnahmsbewerbers,  Prüfungskandidaten)  auf  die  zuständige Schulbehörde über. Ein solches Verlangen ist unmittelbar bei der zuständigen Schulbehörde einzubringen. Das Verlangen ist abzuweisen, wenn die Verzögerung der Entscheidung nicht ausschließlich auf ein Verschulden des zuständigen Organes zurückzuführen ist.
 
-- Die  Fristen  des  Abs. 1  werden  für  die  Dauer  der  Hauptferien,  der  Weihnachtsferien,  der Semesterferien, der Osterferien und der Pfingstferien gehemmt.
+(2) Die Fristen des Abs. 1 werden für die Dauer der Hauptferien, der Weihnachtsferien, der Semesterferien, der Osterferien und der Pfingstferien gehemmt.
 
 (3) Die Schulbehörden haben über Ansuchen und Widersprüche des Schülers (Aufnahmsbewerbers, Prüfungskandidaten)  spätestens,  soweit  im  Abs. 4  nicht  anderes  bestimmt  ist,  drei  Monate  nach  deren Einbringung die Entscheidung zu erlassen.
 
 (3a)  Die  Schulbehörden  haben  über  Anträge  auf  Suspendierung  gemäß  § 49  Abs. 3  binnen  zwei Tagen zu entscheiden.
 
-- In den  Fällen des § 71 Abs. 2 hat  die  zuständige  Schulbehörde  über  die  eingelangten Widersprüche binnen drei Wochen bescheidmäßig zu entscheiden. In den Fällen des § 71 Abs. 2 lit. c hat
+(4) In den Fällen des § 71 Abs. 2 hat die zuständige Schulbehörde über die eingelangten Widersprüche binnen drei Wochen bescheidmäßig zu entscheiden. In den Fällen des § 71 Abs. 2 lit. c hat
 
 www.ris.bka.gv.at
 
@@ -2708,21 +2712,21 @@ Bundesrecht konsolidiert
 
 die zuständige Schulbehörde über die eingelangten Widersprüche binnen zwei Wochen bescheidmäßig zu entscheiden. Bis zur bescheidmäßigen Entscheidung der zuständigen Schulbehörde im Widerspruchsverfahren in den Fällen des § 71 Abs. 2 lit. c ist der Schüler zum Besuch des Unterrichtes in der nächsten Schulstufe berechtigt.
 
-- Die Frist zur Erhebung der Beschwerde beim Verwaltungsgericht beträgt vier Wochen. In den Fällen des § 71 Abs. 2 lit. c beträgt sie grundsätzlich zwei Wochen, in den Fällen der Entscheidung nach Ablegung von einer oder zwei Wiederholungsprüfungen (jeweils in Verbindung mit § 25) fünf Tage. Das Verwaltungsgericht hat über Beschwerden aufgrund dieses Bundesgesetzes ab Beschwerdevorlage binnen drei Monaten  zu  entscheiden. In den Fällen des § 71 Abs. 2 lit. c hat das Verwaltungsgericht grundsätzlich ab Beschwerdevorlage binnen vier Wochen, in den Fällen der Entscheidung nach Ablegung von einer oder zwei Wiederholungsprüfungen (jeweils in Verbindung mit § 25) binnen drei Wochen zu entscheiden. Bis zur Entscheidung des Verwaltungsgerichtes im Beschwerdeverfahren in den Fällen des § 71 Abs. 2 lit. c ist der Schüler zum Besuch des Unterrichtes in der nächsten Schulstufe berechtigt.
+(5) Die Frist zur Erhebung der Beschwerde beim Verwaltungsgericht beträgt vier Wochen. In den Fällen des § 71 Abs. 2 lit. c beträgt sie grundsätzlich zwei Wochen, in den Fällen der Entscheidung nach Ablegung von einer oder zwei Wiederholungsprüfungen (jeweils in Verbindung mit § 25) fünf Tage. Das Verwaltungsgericht hat über Beschwerden aufgrund dieses Bundesgesetzes ab Beschwerdevorlage binnen drei Monaten zu entscheiden. In den Fällen des § 71 Abs. 2 lit. c hat das Verwaltungsgericht grundsätzlich ab Beschwerdevorlage binnen vier Wochen, in den Fällen der Entscheidung nach Ablegung von einer oder zwei Wiederholungsprüfungen (jeweils in Verbindung mit § 25) binnen drei Wochen zu entscheiden. Bis zur Entscheidung des Verwaltungsgerichtes im Beschwerdeverfahren in den Fällen des § 71 Abs. 2 lit. c ist der Schüler zum Besuch des Unterrichtes in der nächsten Schulstufe berechtigt.
 
 #### Fristberechnung
 
 § 74. (1)  Bei  der  Berechnung  von  Fristen,  die  nach  Tagen  bestimmt  sind,  wird  der  Tag  nicht mitgerechnet, in den der Zeitpunkt oder das Ereignis fällt, nach dem sich der Anfang der Frist richten soll.
 
-- Nach  Wochen  oder  Monaten  bestimmte  Fristen  enden  mit  dem  Ablauf  desjenigen  Tages  der letzten Woche oder des letzten Monats, der durch seine Benennung oder Zahl dem Tag entspricht, an dem die Frist begonnen hat. Fehlt dieser Tag in dem letzten Monat, so endet die Frist mit Ablauf des letzten Tages dieses Monats.
+(2) Nach Wochen oder Monaten bestimmte Fristen enden mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, der durch seine Benennung oder Zahl dem Tag entspricht, an dem die Frist begonnen hat. Fehlt dieser Tag in dem letzten Monat, so endet die Frist mit Ablauf des letzten Tages dieses Monats.
 
-- Der Beginn und Lauf einer Frist wird durch Sonn- oder Feiertage nicht behindert.
+(3) Der Beginn und Lauf einer Frist wird durch Sonn- oder Feiertage nicht behindert.
 
-- Fällt das Ende einer Frist auf einen Samstag, Sonn- oder Feiertag, so ist der nächste Werktag als letzter Tag der Frist anzusehen.
+(4) Fällt das Ende einer Frist auf einen Samstag, Sonn- oder Feiertag, so ist der nächste Werktag als letzter Tag der Frist anzusehen.
 
-- Die Tage des Postlaufes werden in die Frist nicht eingerechnet.
+(5) Die Tage des Postlaufes werden in die Frist nicht eingerechnet.
 
-- Durch dieses Bundesgesetz oder die auf Grund dieses Bundesgesetzes erlassenen Verordnungen festgesetzte Fristen können, wenn nicht ausdrücklich anderes bestimmt ist, nicht geändert werden.
+(6) Durch dieses Bundesgesetz oder die auf Grund dieses Bundesgesetzes erlassenen Verordnungen festgesetzte Fristen können, wenn nicht ausdrücklich anderes bestimmt ist, nicht geändert werden.
 
 #### Nostrifikation ausländischer Zeugnisse
 
@@ -2730,19 +2734,19 @@ die zuständige Schulbehörde über die eingelangten Widersprüche binnen zwei W
 
 Staatsbürgern mit Hauptwohnsitz im Ausland sind auf deren Ansuchen vom zuständigen Bundesminister mit  einem  Zeugnis  über  einen  Schulbesuch  oder  die  Ablegung  von  Prüfungen  im  Sinne  dieses Bundesgesetzes  als  gleichwertig  anzuerkennen  (Nostrifikation),  wenn  glaubhaft  gemacht  wird,  daß  die Nostrifikation  für  das  Erlangen  einer  angestrebten  Berechtigung  oder  eines  angestrebten  Anspruches erforderlich ist und die in den folgenden Bestimmungen festgelegten Voraussetzungen erfüllt sind. Eine Nostrifikation  ist  nicht  erforderlich,  wenn  ein  Schüler  die  Aufnahme  in  eine  Schule  anstrebt  und  die Ablegung  von  Einstufungsprüfungen  (§ 3  Abs. 6)  zulässig  ist.  Die  Nostrifikation  kann  auch  mit Zeugnissen  von  Schularten  und  mit  Prüfungen,  die  nicht  mehr  bestehen,  vorgenommen  werden; ausgenommen  davon  ist  eine  Anerkennung  als  dem  Zeugnis  einer  Lehrerbildungsanstalt  gleichartig, soweit es sich um die Lehrbefähigung handelt.
 
-- Dem Ansuchen sind anzuschließen:
+(2) Dem Ansuchen sind anzuschließen:
 
-- Geburtsurkunde;
+a) Geburtsurkunde;
 
-- bei österreichischen Staatsbürgern, die ihren Hauptwohnsitz im Ausland haben, der Nachweis der österreichischen Staatsbürgerschaft, bei Personen, die ihren Hauptwohnsitz im Inland haben, der Nachweis des Hauptwohnsitzes im Inland;
+b) bei österreichischen Staatsbürgern, die ihren Hauptwohnsitz im Ausland haben, der Nachweis der österreichischen Staatsbürgerschaft, bei Personen, die ihren Hauptwohnsitz im Inland haben, der Nachweis des Hauptwohnsitzes im Inland;
 
-- Nachweise über den zurückgelegten Schulbesuch bzw. die abgelegten Prüfungen.
+c) Nachweise über den zurückgelegten Schulbesuch bzw. die abgelegten Prüfungen.
 
-- Der zuständige Bundesminister hat zu prüfen, ob der Schulbesuch und die abgelegten Prüfungen den Anforderungen für ein Zeugnis entsprechen, mit dem die Gleichhaltung angestrebt wird.
+(3) Der zuständige Bundesminister hat zu prüfen, ob der Schulbesuch und die abgelegten Prüfungen den Anforderungen für ein Zeugnis entsprechen, mit dem die Gleichhaltung angestrebt wird.
 
 (4)  Soweit  den  Anforderungen  nach  Abs. 3  nur  zum  Teil  entsprochen  wird,  ist  die  Nostrifikation vom  erfolgreichen  Besuch  einzelner  Schulstufen  oder  Unterrichtsgegenstände  als  außerordentlicher Schüler oder von der erfolgreichen Ablegung von Prüfungen abhängig zu machen. Auf diese Prüfungen ist § 42 sinngemäß anzuwenden.
 
-- Nostrifizierte  Zeugnisse  gewähren  die  gleichen  Berechtigungen  wie  Zeugnisse,  mit  denen  sie gleichgehalten werden. Wenn die Anforderungen nach Abs. 3, allenfalls in Verbindung mit Abs. 4, zwar hinsichtlich der Bildungshöhe erfüllt sind, aber eine lehrplanmäßig gleiche Fachrichtung oder Form einer Schulart in Österreich nicht vorgesehen  ist oder nicht  alle  Voraussetzungen  für  die  mit  einem
+(5) Nostrifizierte Zeugnisse gewähren die gleichen Berechtigungen wie Zeugnisse, mit denen sie gleichgehalten werden. Wenn die Anforderungen nach Abs. 3, allenfalls in Verbindung mit Abs. 4, zwar hinsichtlich der Bildungshöhe erfüllt sind, aber eine lehrplanmäßig gleiche Fachrichtung oder Form einer Schulart in Österreich nicht vorgesehen ist oder nicht alle Voraussetzungen für die mit einem
 
 www.ris.bka.gv.at
 
@@ -2766,13 +2770,13 @@ gleichwertigen österreichischen Zeugnis verbundenen Berechtigungen gegeben sind
 
 § 76. (1) Die Ausstellung einer Ersatzbestätigung für ein verlorenes inländisches Zeugnis kann beim örtlich  zuständigen  Landesschulrat  beantragt  werden.  Die  Ausstellung  einer  Ersatzbestätigung  für  ein verlorenes  ausländisches  Zeugnis  kann  von  Personen,  die  ihren  Hauptwohnsitz  im  Inland  haben,  beim zuständigen  Bundesministerium  beantragt  werden.  Der  Antragsteller  hat  glaubhaft  zu  machen,  daß  die Bemühungen um die Wiedererlangung des verlorenen Zeugnisses oder die Ausstellung einer Zweitschrift ohne sein Verschulden ergebnislos geblieben sind.
 
-- Dem Ansuchen sind anzuschließen:
+(2) Dem Ansuchen sind anzuschließen:
 
-- Geburtsurkunde;
+a) Geburtsurkunde;
 
-- Staatsbürgerschaftsnachweis und Nachweis des Hauptwohnsitzes;
+b) Staatsbürgerschaftsnachweis und Nachweis des Hauptwohnsitzes;
 
-- Angaben über Beweismittel, aus denen der seinerzeitige Erwerb des Zeugnisses hervorgeht.
+c) Angaben über Beweismittel, aus denen der seinerzeitige Erwerb des Zeugnisses hervorgeht.
 
 (3) Die Ersatzbestätigung ist auszustellen, wenn sich der Erwerb des Zeugnisses im Ermittlungsverfahren zweifelsfrei ergibt. Andernfalls ist der Antrag abzuweisen.
 
@@ -2784,11 +2788,11 @@ gleichwertigen österreichischen Zeugnis verbundenen Berechtigungen gegeben sind
 
 § 77. Die  Landesschulräte  und,  soweit  Bedarf  nach  einer  einheitlichen  Regelung  besteht,  der zuständige Bundesminister  haben durch Verordnung nach  den Erfordernissen der einzelnen Schularten Bestimmungen  über  Form,  Inhalt,  Führung  und  Aufbewahrung  der  in  den  Schulen  zu  führenden Aufzeichnungen  und  über  die  sonstigen  bei  der  Vollziehung  dieses  Bundesgesetzes  zu  verwendenden Formblätter zu erlassen. Als solche kommen insbesondere in Betracht:
 
-- Schülerstammblätter, in  die  die  für  die  Ausstellung  von  Zeugnissen  (§ 22)  notwendigen  Daten sowie die Noten der Jahreszeugnisse und die darin enthaltenen Entscheidungen und Verfügungen aufzunehmen sind; Gesundheitsblätter;
+a) Schülerstammblätter, in die die für die Ausstellung von Zeugnissen (§ 22) notwendigen Daten sowie die Noten der Jahreszeugnisse und die darin enthaltenen Entscheidungen und Verfügungen aufzunehmen sind; Gesundheitsblätter;
 
-- Klassenbücher  für  jede  Klasse,  die  zur  Eintragung  der  Namen  der  Schüler  der  Klasse,  der Unterrichtsgegenstände eines jeden Schultages, der unterrichtenden Lehrer, des durchgenommenen  Lehrstoffes,  der  vom  Unterricht  fernbleibenden  Schüler  und  besonderer Vorkommnisse ua. bestimmt werden können;
+b) Klassenbücher für jede Klasse, die zur Eintragung der Namen der Schüler der Klasse, der Unterrichtsgegenstände eines jeden Schultages, der unterrichtenden Lehrer, des durchgenommenen Lehrstoffes, der vom Unterricht fernbleibenden Schüler und besonderer Vorkommnisse ua. bestimmt werden können;
 
-- Prüfungsprotokoll  über  die  Durchführung  von  Einstufungsprüfungen  (§ 3  Abs. 6),  Aufnahmsund Eignungsprüfungen (§§ 6 bis 8), Feststellungsprüfungen (§ 20 Abs. 2), Nachtragsprüfungen (§ 20  Abs. 3),  Prüfungen  über  Kenntnisse  und  Fertigkeiten  des  praktischen  Unterrichtes  (§ 20 Abs. 4), Wiederholungsprüfungen (§ 23), Reifeprüfungen, Reifeund Diplomprüfungen, Diplomprüfungen  und  Abschlußprüfungen  (§§ 34  bis  41)  und  Externistenprüfungen  (§ 42), Prüfungen  im  Provisorialverfahren  (§ 71  Abs. 4  und  5);  in  den  Prüfungsprotokollen  sind  die Prüfungskommission (der bzw. die Prüfer), die Daten des Prüfungskandidaten, die Aufgabenstellungen, die Beschreibung der Leistungen und ihre Beurteilung, die Prüfungsergebnisse und die bei der Prüfung oder auf Grund der Prüfungsergebnisse getroffenen Entscheidungen und Verfügungen zu verzeichnen.
+c) Prüfungsprotokoll über die Durchführung von Einstufungsprüfungen (§ 3 Abs. 6), Aufnahms- und Eignungsprüfungen (§§ 6 bis 8), Feststellungsprüfungen (§ 20 Abs. 2), Nachtragsprüfungen (§ 20 Abs. 3), Prüfungen über Kenntnisse und Fertigkeiten des praktischen Unterrichtes (§ 20 Abs. 4), Wiederholungsprüfungen (§ 23), Reifeprüfungen, Reife- und Diplomprüfungen, Diplomprüfungen und Abschlußprüfungen (§§ 34 bis 41) und Externistenprüfungen (§ 42), Prüfungen im Provisorialverfahren (§ 71 Abs. 4 und 5); in den Prüfungsprotokollen sind die Prüfungskommission (der bzw. die Prüfer), die Daten des Prüfungskandidaten, die Aufgabenstellungen, die Beschreibung der Leistungen und ihre Beurteilung, die Prüfungsergebnisse und die bei der Prüfung oder auf Grund der Prüfungsergebnisse getroffenen Entscheidungen und Verfügungen zu verzeichnen.
 
 www.ris.bka.gv.at
 
@@ -2807,7 +2811,7 @@ Bundesrecht konsolidiert
 
 § 78. (1)  Im  Wege  der  Durchführung  von  Schulversuchen  darf  nur  von  den  Abschnitten  2  bis  9 (ausgenommen  die  §§ 48  und  49)  dieses  Bundesgesetzes  sowie  von  den  Wahlbestimmungen  und  der Anzahl der Vertreter durch eine Erhöhung der Zahl der Vertreter (§§ 63a und 64 dieses Bundesgesetzes) sowie von den auf Grund dieser Bestimmungen erlassenen Verordnungen abgewichen werden; im Fall der Erhöhung der Zahl der Vertreter ist die Zahl der Vertreter der einzelnen Gruppen in gleicher Höhe festzusetzen.  Auf  solche  Schulversuche ist § 7 des Schulorganisationsgesetzes sinngemäß anzuwenden; ihre  Zahl  ist  jedoch  nicht  auf  die  im  § 7  des  Schulorganisationsgesetzes  genannten  Hundertsätze anzurechnen.
 
-(2)  Ferner  darf  im  Rahmen  der  Schulversuche  gemäß  Art. II  der  4.  SchulorganisationsgesetzNovelle, BGBl. Nr. 234/1971, und gemäß Art. II und III der 5. Schulorganisationsgesetz-Novelle, BGBl. Nr. 323/1975,  von  den  im  Abs. 1  genannten  Bestimmungen  insoweit  abgewichen  werden,  als  es  die Durchführung dieser Schulversuche erfordert.
+(2) Ferner darf im Rahmen der Schulversuche gemäß Art. II der 4. Schulorganisationsgesetz-Novelle, BGBl. Nr. 234/1971, und gemäß Art. II und III der 5. Schulorganisationsgesetz-Novelle, BGBl. Nr. 323/1975, von den im Abs. 1 genannten Bestimmungen insoweit abgewichen werden, als es die Durchführung dieser Schulversuche erfordert.
 
 #### Schulversuche zur Leistungsbeurteilung
 
@@ -2831,7 +2835,7 @@ Bundesrecht konsolidiert
 
 #### Kundmachung von Verordnungen
 
-§ 79. (1) Wenn auf Grund dieses Bundesgesetzes zu erlassende Verordnungen sich nur auf einzelne Schulen beziehen, so sind sie abweichend von den sonst geltenden Bestimmungen über die Kundmachung solcher Verordnungen ein Monat lang bzw. bei kürzerer Geltungsdauer der Verordnung für diesen Zeitraum, durch Anschlag in der betreffenden Schule kundzumachen. Sie treten, soweit darin nicht anderes bestimmt ist, mit Ablauf des Tages des Anschlages in der Schule in Kraft. Die Schüler und die Erziehungsberechtigten sind in geeigneter Weise auf diese Kundmachungen hinzuweisen.
+§ 79. (1) Wenn auf Grund dieses Bundesgesetzes zu erlassende Verordnungen sich nur auf einzelne Schulen beziehen, so sind sie abweichend von den sonst geltenden Bestimmungen über die
 
 www.ris.bka.gv.at
 
@@ -2842,6 +2846,8 @@ Seite 64 von 71
 [[START OF PAGE 65]]
 
 Bundesrecht konsolidiert
+
+Kundmachung solcher Verordnungen ein Monat lang bzw. bei kürzerer Geltungsdauer der Verordnung für diesen Zeitraum, durch Anschlag in der betreffenden Schule kundzumachen. Sie treten, soweit darin nicht anderes bestimmt ist, mit Ablauf des Tages des Anschlages in der Schule in Kraft. Die Schüler und die Erziehungsberechtigten sind in geeigneter Weise auf diese Kundmachungen hinzuweisen.
 
 (2) Spätestens nach Ablauf eines Monats sind die nach Abs. 1 kundgemachten Verordnungen bei der Schulleitung  zu  hinterlegen  und  zumindest  für  die  Dauer  ihrer  Geltung  aufzubewahren;  abweichende Aufbewahrungsvorschriften werden von dieser Regelung nicht berührt. Auf Verlangen ist Schülern und Erziehungsberechtigten Einsicht zu gewähren.
 
@@ -2861,21 +2867,21 @@ Bundesrecht konsolidiert
 
 #### Außerkrafttreten bisheriger Vorschriften
 
-§ 81. (1)  Mit  dem  Inkrafttreten  dieses  Bundesgesetzes treten alle  bisherigen Vorschriften  über die Aufnahme in die Schule, die Aufnahmsund Eignungsprüfungen, die Unterrichtsordnung, die Unterrichtsarbeit  und  die  Schülerbeurteilung,  das  Zeugniswesen,  das  Aufsteigen  und  das  Wiederholen von  Schulstufen,  die  Höchstdauer  und  Beendigung  des  Schulbesuches,  die  Reife-,  Befähigungs-  und Abschlußprüfungen, die Externistenprüfungen, die Prüfungstaxen, die Schulordnung, die Funktionen des Lehrers,  die  Lehrerkonferenzen,  die  Beziehungen  zwischen  Schule  und  Schülern  sowie  Schule  und Erziehungsberechtigten,  das  Verfahren  schulischer  Organe,  die  Nostrifikation  ausländischer  Zeugnisse, die  Ersatzbestätigung  für  verlorene  Zeugnisse  und  die  in  den  Schulen  zu  führenden  Aufzeichnungen außer Kraft.
+§ 81. (1) Mit dem Inkrafttreten dieses Bundesgesetzes treten alle bisherigen Vorschriften über die Aufnahme in die Schule, die Aufnahms- und Eignungsprüfungen, die Unterrichtsordnung, die Unterrichtsarbeit und die Schülerbeurteilung, das Zeugniswesen, das Aufsteigen und das Wiederholen von Schulstufen, die Höchstdauer und Beendigung des Schulbesuches, die Reife-, Befähigungs- und Abschlußprüfungen, die Externistenprüfungen, die Prüfungstaxen, die Schulordnung, die Funktionen des Lehrers, die Lehrerkonferenzen, die Beziehungen zwischen Schule und Schülern sowie Schule und Erziehungsberechtigten, das Verfahren schulischer Organe, die Nostrifikation ausländischer Zeugnisse, die Ersatzbestätigung für verlorene Zeugnisse und die in den Schulen zu führenden Aufzeichnungen außer Kraft.
 
-- Im  Sinne des Abs. 1 treten insbesondere die noch geltenden  Bestimmungen  folgender Vorschriften außer Kraft:
+(2) Im Sinne des Abs. 1 treten insbesondere die noch geltenden Bestimmungen folgender Vorschriften außer Kraft:
 
-- die Verordnung des Ministers für Cultus und Unterricht vom 16. Dezember 1854, RGBl. Nr. 315, mit der Bestimmungen über die Organisation der Gymnasien in Kraft gesetzt werden;
+a) die Verordnung des Ministers für Cultus und Unterricht vom 16. Dezember 1854, RGBl. Nr. 315, mit der Bestimmungen über die Organisation der Gymnasien in Kraft gesetzt werden;
 
-- das  Reichsvolksschulgesetz,  RGBl.  Nr. 62/1869,  in  der  geltenden  Fassung,  ausgenommen  die §§ 38 Abs. 2 bis 5, 39 und 40;
+b) das Reichsvolksschulgesetz, RGBl. Nr. 62/1869, in der geltenden Fassung, ausgenommen die §§ 38 Abs. 2 bis 5, 39 und 40;
 
-- die Schul- und Unterrichtsordnung für allgemeine Volksschulen und für Bürger(Haupt)schulen, RGBl. Nr. 159/1905;
+c) die Schul- und Unterrichtsordnung für allgemeine Volksschulen und für Bürger(Haupt)schulen, RGBl. Nr. 159/1905;
 
-- das Burgenländische Landesschulgesetz 1937, LGBl. Nr. 40, mit Ausnahme des § 7;
+d) das Burgenländische Landesschulgesetz 1937, LGBl. Nr. 40, mit Ausnahme des § 7;
 
-- die Allgemeine Schulordnung für Mittelschulen, BGBl. Nr. 294/1937, in der geltenden Fassung.
+e) die Allgemeine Schulordnung für Mittelschulen, BGBl. Nr. 294/1937, in der geltenden Fassung.
 
-- Das Religionsunterrichtsgesetz und das Minderheiten-Schulgesetz für Kärnten bleiben unberührt.
+(3) Das Religionsunterrichtsgesetz und das Minderheiten-Schulgesetz für Kärnten bleiben unberührt.
 
 (BGBl. Nr. 231/1977, Art. I Z 33)
 
@@ -2899,39 +2905,39 @@ Seite 65 von 71
 
 Bundesrecht konsolidiert
 
-§ 2a, § 18 Abs. 12, § 22 Abs. 8 und 11, § 48, § 57 Abs. 5, § 70 Abs. 1, § 71 Abs. 1 und 2, § 74 Abs. 4 sowie die Änderung der Bezeichnung des Bundesministers und des Bundesministeriums für Unterricht, Kunst und Sport mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt;
+1. § 2a, § 18 Abs. 12, § 22 Abs. 8 und 11, § 48, § 57 Abs. 5, § 70 Abs. 1, § 71 Abs. 1 und 2, § 74 Abs. 4 sowie die Änderung der Bezeichnung des Bundesministers und des Bundesministeriums für Unterricht, Kunst und Sport mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt;
 
-§ 3 Abs. 6 und 7a, § 18 Abs. 1 und 11, § 19 Abs. 2, § 21, § 22 Abs. 2 lit. e und g bis k, § 26, § 29 Abs. 5 und 5a, § 30, § 31b Abs. 1, § 35 Abs. 1 und 2, § 42 Abs. 6, 6a, 8 und 9 sowie § 78 Abs. 1 mit 1. September 1992;
+2. § 3 Abs. 6 und 7a, § 18 Abs. 1 und 11, § 19 Abs. 2, § 21, § 22 Abs. 2 lit. e und g bis k, § 26, § 29 Abs. 5 und 5a, § 30, § 31b Abs. 1, § 35 Abs. 1 und 2, § 42 Abs. 6, 6a, 8 und 9 sowie § 78 Abs. 1 mit 1. September 1992;
 
-§ 59 Abs. 1 und 2, § 59a sowie § 64 Abs. 4, 5 und 7 mit 1. September 1993.
+3. § 59 Abs. 1 und 2, § 59a sowie § 64 Abs. 4, 5 und 7 mit 1. September 1993.
 
-§ 63a Abs. 2, 12, 14 und 17 sowie § 64 Abs. 2, 11, 13 und 16 in der Fassung des Bundesgesetzes BGBl. Nr. 324/1993 treten mit 1. September 1993 in Kraft.
+(3) § 63a Abs. 2, 12, 14 und 17 sowie § 64 Abs. 2, 11, 13 und 16 in der Fassung des Bundesgesetzes BGBl. Nr. 324/1993 treten mit 1. September 1993 in Kraft.
 
-§ 3 Abs. 7a, § 9 Abs. 1 und 1a, § 17 Abs. 4, § 18 Abs. 12 und 13, § 19 Abs. 2, § 22 Abs. 2, § 25 Abs. 5a,  § 36  Abs. 2,  § 42  Abs. 8,  § 49  Abs. 1  und  9,  § 55  Abs. 2,  § 57  Abs. 3,  § 62  Abs. 1  und  § 70 Abs. 1,  lit. d  dieses  Bundesgesetzes  in  der  Fassung  des  Bundesgesetzes  BGBl.  Nr. 514/1993  treten  mit 1. September 1993 in Kraft.
+(4) § 3 Abs. 7a, § 9 Abs. 1 und 1a, § 17 Abs. 4, § 18 Abs. 12 und 13, § 19 Abs. 2, § 22 Abs. 2, § 25 Abs. 5a, § 36 Abs. 2, § 42 Abs. 8, § 49 Abs. 1 und 9, § 55 Abs. 2, § 57 Abs. 3, § 62 Abs. 1 und § 70 Abs. 1, lit. d dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 514/1993 treten mit 1. September 1993 in Kraft.
 
-- Die Überschrift des § 9, § 9 Abs. 5, § 12a, § 17 Abs. 1, § 33 Abs. 7a, § 43 Abs. 1, § 45 Abs. 7, § 47 Abs. 1, § 51 Abs. 3, § 55a, § 56 Abs. 8, § 57 Abs. 7, § 62 Abs. 3, § 70 Abs. 1 lit. c in der Fassung des Bundesgesetzes BGBl. Nr. 514/1993 treten mit 1. September 1994 in Kraft.
+(5) Die Überschrift des § 9, § 9 Abs. 5, § 12a, § 17 Abs. 1, § 33 Abs. 7a, § 43 Abs. 1, § 45 Abs. 7, § 47 Abs. 1, § 51 Abs. 3, § 55a, § 56 Abs. 8, § 57 Abs. 7, § 62 Abs. 3, § 70 Abs. 1 lit. c in der Fassung des Bundesgesetzes BGBl. Nr. 514/1993 treten mit 1. September 1994 in Kraft.
 
 (5a)  § 64  Abs. 2  Z 1  lit. j  und  k  in  der  Fassung  des  Bundesgesetzes  BGBl.  Nr. 643/1994  tritt  mit 1. September 1995 in Kraft.
 
 (5b) Die folgenden Paragraphen in der Fassung des Bundesgesetzes BGBl. Nr. 468/1995 treten wie folgt in Kraft:
 
-§ 3 Abs. 2 und 6, § 7 Abs. 1, 3 und 4, § 11 Abs. 6, § 12 Abs. 2 und 9, § 13 Abs. 2, § 14 Abs. 3 bis 5 und 7, § 15 Abs. 1 bis 4, § 16 Abs. 3, § 17 Abs. 3, § 18 Abs. 7 und 10, § 19 Abs. 2, § 21 Abs. 1, § 22 Abs. 9, § 29 Abs. 6, § 31a, § 31b Abs. 2, § 31c Abs. 1 und 4, § 34 Abs. 1, § 35 Abs. 1, § 39 Abs. 4,  § 40  Abs. 2,  § 42  Abs. 2,  4  und  10,  § 44  Abs. 1  und  2,  § 52,  § 53,  § 54a  Abs. 2,  § 55 Abs. 4,  § 56  Abs. 8,  § 59a  Abs. 12, § 63a  Abs. 5,  § 64  Abs. 19,  § 65  Abs. 1,  § 66  Abs. 4,  § 75 Abs. 1  und  3,  § 76  Abs. 1,  § 77  Abs. 1  und  § 83  mit  Ablauf  des  Tages  der  Kundmachung  im Bundesgesetzblatt und
+1. § 3 Abs. 2 und 6, § 7 Abs. 1, 3 und 4, § 11 Abs. 6, § 12 Abs. 2 und 9, § 13 Abs. 2, § 14 Abs. 3 bis 5 und 7, § 15 Abs. 1 bis 4, § 16 Abs. 3, § 17 Abs. 3, § 18 Abs. 7 und 10, § 19 Abs. 2, § 21 Abs. 1, § 22 Abs. 9, § 29 Abs. 6, § 31a, § 31b Abs. 2, § 31c Abs. 1 und 4, § 34 Abs. 1, § 35 Abs. 1, § 39 Abs. 4, § 40 Abs. 2, § 42 Abs. 2, 4 und 10, § 44 Abs. 1 und 2, § 52, § 53, § 54a Abs. 2, § 55 Abs. 4, § 56 Abs. 8, § 59a Abs. 12, § 63a Abs. 5, § 64 Abs. 19, § 65 Abs. 1, § 66 Abs. 4, § 75 Abs. 1 und 3, § 76 Abs. 1, § 77 Abs. 1 und § 83 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt und
 
-§ 63a Abs. 2, 12 und 14 sowie § 64 Abs. 2, 11 und 13 mit 1. September 1995.
+2. § 63a Abs. 2, 12 und 14 sowie § 64 Abs. 2, 11 und 13 mit 1. September 1995.
 
 (5c)  Die  nachstehenden  Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 767/1996 treten wie folgt in Kraft:
 
-§ 3 Abs. 7b, § 12a Abs. 2, § 18 Abs. 8, § 22 Abs. 2 lit. l und Abs. 10, § 23 Abs. 5, § 25 Abs. 3, § 36  Abs. 2,  3  und  5,  § 37  Abs. 1,  § 42  Abs. 3  (hinsichtlich  der  Wendung  'Unterricht  und kulturelle Angelegenheiten') und 15, § 54a Abs. 3 sowie § 56 Abs. 6 und 7 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt,
+1. § 3 Abs. 7b, § 12a Abs. 2, § 18 Abs. 8, § 22 Abs. 2 lit. l und Abs. 10, § 23 Abs. 5, § 25 Abs. 3, § 36 Abs. 2, 3 und 5, § 37 Abs. 1, § 42 Abs. 3 (hinsichtlich der Wendung „Unterricht und kulturelle Angelegenheiten”) und 15, § 54a Abs. 3 sowie § 56 Abs. 6 und 7 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt,
 
-- der Entfall des § 3 Abs. 3 und 4, § 4 Abs. 3, § 9 Abs. 1, § 10 Abs. 2, der Entfall des § 10 Abs. 3, § 11  Abs. 3,  § 13  Abs. 1a  und  2,  § 13a  Abs. 1,  § 14  Abs. 6,  der  Entfall  des  § 14  Abs. 7,  § 16 Abs. 3, § 17 Abs. 4, § 19 Abs. 4, § 22 Abs. 2 lit. h und Abs. 4, § 23 Abs. 1, § 25 Abs. 1 und 9, § 27 Abs. 1 und 3, der Entfall des § 31a samt Überschrift, § 33 Abs. 2 lit. e und f, § 44a samt Überschrift, § 45 Abs. 5, § 46 Abs. 3, § 52, § 53, der Entfall des § 55 Abs. 4, § 56 Abs. 6 und 7, § 58 Abs. 2 Z 2 lit. b und c, § 61 Abs. 2 Z 2 lit. b und c, der Entfall des § 63 Abs. 3, § 63a Abs. 2, § 64 Abs. 2 Z 1 lit. a und Z 2 lit. c sowie Abs. 7, § 65 Abs. 1, § 70 Abs. 1 lit. d, i und j sowie § 71 Abs. 8 mit 1. Februar 1997,
+2. der Entfall des § 3 Abs. 3 und 4, § 4 Abs. 3, § 9 Abs. 1, § 10 Abs. 2, der Entfall des § 10 Abs. 3, § 11 Abs. 3, § 13 Abs. 1a und 2, § 13a Abs. 1, § 14 Abs. 6, der Entfall des § 14 Abs. 7, § 16 Abs. 3, § 17 Abs. 4, § 19 Abs. 4, § 22 Abs. 2 lit. h und Abs. 4, § 23 Abs. 1, § 25 Abs. 1 und 9, § 27 Abs. 1 und 3, der Entfall des § 31a samt Überschrift, § 33 Abs. 2 lit. e und f, § 44a samt Überschrift, § 45 Abs. 5, § 46 Abs. 3, § 52, § 53, der Entfall des § 55 Abs. 4, § 56 Abs. 6 und 7, § 58 Abs. 2 Z 2 lit. b und c, § 61 Abs. 2 Z 2 lit. b und c, der Entfall des § 63 Abs. 3, § 63a Abs. 2, § 64 Abs. 2 Z 1 lit. a und Z 2 lit. c sowie Abs. 7, § 65 Abs. 1, § 70 Abs. 1 lit. d, i und j sowie § 71 Abs. 8 mit 1. Februar 1997,
 
-§ 5  Abs. 4,  § 22  Abs. 8,  § 28  Abs. 3,  § 32  Abs. 8,  die  Überschrift  des  8.  Abschnittes,  die Überschrift des § 34, § 34 Abs. 1, § 35 Abs. 2, § 36 Abs. 1 und 6, § 37 Abs. 5, § 38 Abs. 4, § 39 Abs. 1 und 3, § 41 samt Überschrift, § 42 Abs. 1, 3, 4, 6, 6a, 9, 10 und 13, § 64 Abs. 2 Z 1 lit. l und m sowie Abs. 11, § 68 lit. q, r und s, § 70 Abs. 1 lit. g und h, § 71 Abs. 2 lit. e sowie § 77 lit. c mit 1. April 1997,
+3. § 5 Abs. 4, § 22 Abs. 8, § 28 Abs. 3, § 32 Abs. 8, die Überschrift des 8. Abschnittes, die Überschrift des § 34, § 34 Abs. 1, § 35 Abs. 2, § 36 Abs. 1 und 6, § 37 Abs. 5, § 38 Abs. 4, § 39 Abs. 1 und 3, § 41 samt Überschrift, § 42 Abs. 1, 3, 4, 6, 6a, 9, 10 und 13, § 64 Abs. 2 Z 1 lit. l und m sowie Abs. 11, § 68 lit. q, r und s, § 70 Abs. 1 lit. g und h, § 71 Abs. 2 lit. e sowie § 77 lit. c mit 1. April 1997,
 
-§ 5 Abs. 1, § 11 Abs. 1, 7 und 8, § 12 Abs. 6, § 20 Abs. 3, § 22 Abs. 2 lit. g, § 28 Abs. 4, § 29 Abs. 1  bis  4,  7  und  8,  § 31b  Abs. 2,  § 59,  § 59a  Abs. 2,  3,  5,  6,  9  und  11,  § 63  Abs. 4,  § 63a Abs. 1 und 14 sowie § 64 Abs. 1, 3, 7 (Anm.: bei der Anführung des § 64 Abs. 7 handelt es sich um ein redaktionelles Versehen) und 13 mit 1. September 1997,
+4. § 5 Abs. 1, § 11 Abs. 1, 7 und 8, § 12 Abs. 6, § 20 Abs. 3, § 22 Abs. 2 lit. g, § 28 Abs. 4, § 29 Abs. 1 bis 4, 7 und 8, § 31b Abs. 2, § 59, § 59a Abs. 2, 3, 5, 6, 9 und 11, § 63 Abs. 4, § 63a Abs. 1 und 14 sowie § 64 Abs. 1, 3, 7 (Anm.: bei der Anführung des § 64 Abs. 7 handelt es sich um ein redaktionelles Versehen) und 13 mit 1. September 1997,
 
-§ 9 Abs. 1a, § 25 Abs. 5a sowie § 28 Abs. 1 mit 1. September 1997 schulstufenweise aufsteigend,
+5. § 9 Abs. 1a, § 25 Abs. 5a sowie § 28 Abs. 1 mit 1. September 1997 schulstufenweise aufsteigend,
 
-§ 32 Abs. 2 mit 1. September 1998.
+6. § 32 Abs. 2 mit 1. September 1998.
 
 (5d) Die nachstehend genannten Bestimmungen  dieses  Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 22/1998 treten wie folgt in Kraft:
 
@@ -2945,45 +2951,45 @@ Seite 66 von 71
 
 Bundesrecht konsolidiert
 
-§ 22 Abs. 8, § 33 Abs. 4 und 5, die Überschrift des 8. Abschnittes sowie des § 34, § 34 Abs. 1, § 39 Abs. 1, § 42 Abs. 1, 3, 4, 6, 6a, 9 und 10, § 63 Abs. 4, § 63a Abs. 2 Z 1 lit. k (soweit nicht durch Z 5 erfaßt) und Abs. 18, § 64 Abs. 13 und 18, § 66 Abs. 4, § 68 lit. q und r, § 70 Abs. 1 lit. h, § 71  Abs. 1  lit. e, § 77  lit. c  sowie  § 83  Abs. 1  treten  mit  Ablauf  des  Tages  der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 22 Abs. 8, § 33 Abs. 4 und 5, die Überschrift des 8. Abschnittes sowie des § 34, § 34 Abs. 1, § 39 Abs. 1, § 42 Abs. 1, 3, 4, 6, 6a, 9 und 10, § 63 Abs. 4, § 63a Abs. 2 Z 1 lit. k (soweit nicht durch Z 5 erfaßt) und Abs. 18, § 64 Abs. 13 und 18, § 66 Abs. 4, § 68 lit. q und r, § 70 Abs. 1 lit. h, § 71 Abs. 1 lit. e, § 77 lit. c sowie § 83 Abs. 1 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-- der Entfall des § 22 Abs. 2 lit. j, § 22 Abs. 5 sowie § 25 Abs. 3 treten mit 1. September 1997 in Kraft,
+2. der Entfall des § 22 Abs. 2 lit. j, § 22 Abs. 5 sowie § 25 Abs. 3 treten mit 1. September 1997 in Kraft,
 
-§ 31b Abs. 1a tritt mit 1. Jänner 1998 in Kraft,
+3. § 31b Abs. 1a tritt mit 1. Jänner 1998 in Kraft,
 
-§ 35 Abs. 1 und 1a sowie § 36 Abs. 2 treten mit 1. April 1998 in Kraft,
+4. § 35 Abs. 1 und 1a sowie § 36 Abs. 2 treten mit 1. April 1998 in Kraft,
 
-§ 14 Abs. 7, § 19 Abs. 2, der Entfall des § 22 Abs. 7, § 23 Abs. 1, § 63a Abs. 1 Z 1 lit. k (Ersatz des Strichpunktes durch einen Beistrich) und l, § 64 Abs. 1 Z 1 lit. m und n, § 64 Abs. 7 sowie § 68 lit. h treten mit 1. September 1998 in Kraft.
+5. § 14 Abs. 7, § 19 Abs. 2, der Entfall des § 22 Abs. 7, § 23 Abs. 1, § 63a Abs. 1 Z 1 lit. k (Ersatz des Strichpunktes durch einen Beistrich) und l, § 64 Abs. 1 Z 1 lit. m und n, § 64 Abs. 7 sowie § 68 lit. h treten mit 1. September 1998 in Kraft.
 
 (5e)  Die  nachstehenden  Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 133/1998 treten wie folgt in bzw. außer Kraft:
 
-§ 82a samt Überschrift tritt mit 1. Juni 1998 in Kraft,
+1. § 82a samt Überschrift tritt mit 1. Juni 1998 in Kraft,
 
-§ 18 Abs. 2, § 22 Abs. 1, § 26 Abs. 1, 3 und 4, § 28 Abs. 6, § 31c samt Überschrift, § 32 Abs. 1 und 2a, § 36 Abs. 4, § 37 Abs. 8, § 57 Abs. 3, § 63a Abs. 2 und 12 sowie § 78a samt Überschrift treten mit 1. September 1998 in Kraft,
+2. § 18 Abs. 2, § 22 Abs. 1, § 26 Abs. 1, 3 und 4, § 28 Abs. 6, § 31c samt Überschrift, § 32 Abs. 1 und 2a, § 36 Abs. 4, § 37 Abs. 8, § 57 Abs. 3, § 63a Abs. 2 und 12 sowie § 78a samt Überschrift treten mit 1. September 1998 in Kraft,
 
-§ 17 Abs. 5 sowie § 71 Abs. 2 und 8 treten mit 1. September 1999 in Kraft,
+3. § 17 Abs. 5 sowie § 71 Abs. 2 und 8 treten mit 1. September 1999 in Kraft,
 
-§ 32 Abs. 2a tritt mit Ablauf des 31. August 2002 außer Kraft,
+4. § 32 Abs. 2a tritt mit Ablauf des 31. August 2002 außer Kraft,
 
-§ 82a samt Überschrift tritt mit Ablauf des 31. August 2001 außer Kraft.
+5. § 82a samt Überschrift tritt mit Ablauf des 31. August 2001 außer Kraft.
 
 (5f) Die nachstehend genannten Bestimmungen  dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 98/1999 treten wie folgt in Kraft:
 
-§ 25 Abs. 1, § 29 Abs. 2, § 54a Abs. 1, § 63a Abs. 15, § 64 Abs. 14, § 68 lit. s und x, § 71 Abs. 5, sowie § 80a samt Überschrift treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 25 Abs. 1, § 29 Abs. 2, § 54a Abs. 1, § 63a Abs. 15, § 64 Abs. 14, § 68 lit. s und x, § 71 Abs. 5, sowie § 80a samt Überschrift treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 38 samt Überschrift sowie § 82b Abs. 3 treten mit 1. Mai 1999 in Kraft,
+2. § 38 samt Überschrift sowie § 82b Abs. 3 treten mit 1. Mai 1999 in Kraft,
 
-§ 23 Abs. 1, § 27 Abs. 1 und 4 sowie § 59 Abs. 1 treten mit 1. September 1999 in Kraft,
+3. § 23 Abs. 1, § 27 Abs. 1 und 4 sowie § 59 Abs. 1 treten mit 1. September 1999 in Kraft,
 
-§ 2b samt Überschrift, § 22 Abs. 8, die Überschrift des 8. Abschnittes, §§ 34 bis 36 jeweils samt Überschrift, § 36a samt Überschrift, § 37 samt Überschrift, §§ 39 bis 41 jeweils samt Überschrift, § 42 Abs. 9, § 68 lit. q und r, § 70 Abs. 1 lit. h, die Überschrift des § 82a und des § 82b sowie § 82b Abs. 1 und 2 treten mit 1. April 2000 in Kraft.
+4. § 2b samt Überschrift, § 22 Abs. 8, die Überschrift des 8. Abschnittes, §§ 34 bis 36 jeweils samt Überschrift, § 36a samt Überschrift, § 37 samt Überschrift, §§ 39 bis 41 jeweils samt Überschrift, § 42 Abs. 9, § 68 lit. q und r, § 70 Abs. 1 lit. h, die Überschrift des § 82a und des § 82b sowie § 82b Abs. 1 und 2 treten mit 1. April 2000 in Kraft.
 
 (5g) Die nachstehend genannten Bestimmungen  dieses  Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 78/2001 treten wie folgt in Kraft:
 
-§ 3 Abs. 6, § 7 Abs. 1, 3 und 4, § 11 Abs. 6, § 12 Abs. 2 und 9, § 13 Abs. 2, § 14 Abs. 3, 4 und 5, § 15 Abs. 1, 2, 3 und 4, § 17 Abs. 3, § 18 Abs. 7 und 10, § 19 Abs. 2, § 21 Abs. 1, § 22 Abs. 9, § 23 Abs. 5, § 25 Abs. 5b, § 29 Abs. 6, § 31b Abs. 2, § 33 Abs. 2 lit. e, § 42 Abs. 2, 3, 4, 10 und 15, die Überschrift des § 44, § 44 Abs. 1 und 2, § 45 Abs. 4, § 54a Abs. 2 und 3, § 56 Abs. 8, § 59a Abs. 12, § 63a Abs. 5, § 64 Abs. 19, § 66 Abs. 4, § 71 Abs. 2 lit. e, § 75 Abs. 1 und 3, § 76 Abs. 1, § 77 sowie § 83 Abs. 1 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft;
+1. § 3 Abs. 6, § 7 Abs. 1, 3 und 4, § 11 Abs. 6, § 12 Abs. 2 und 9, § 13 Abs. 2, § 14 Abs. 3, 4 und 5, § 15 Abs. 1, 2, 3 und 4, § 17 Abs. 3, § 18 Abs. 7 und 10, § 19 Abs. 2, § 21 Abs. 1, § 22 Abs. 9, § 23 Abs. 5, § 25 Abs. 5b, § 29 Abs. 6, § 31b Abs. 2, § 33 Abs. 2 lit. e, § 42 Abs. 2, 3, 4, 10 und 15, die Überschrift des § 44, § 44 Abs. 1 und 2, § 45 Abs. 4, § 54a Abs. 2 und 3, § 56 Abs. 8, § 59a Abs. 12, § 63a Abs. 5, § 64 Abs. 19, § 66 Abs. 4, § 71 Abs. 2 lit. e, § 75 Abs. 1 und 3, § 76 Abs. 1, § 77 sowie § 83 Abs. 1 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft;
 
-§ 13 Abs. 3 und 4, § 13a Abs. 2, § 19 Abs. 4, § 21 Abs. 3, § 32 Abs. 3a, § 43 Abs. 1, § 49 Abs. 1, § 57 Abs. 11, § 58 Abs. 5, § 59b samt Überschrift, § 70 Abs. 2a, § 71 Abs. 1 und 2 sowie § 73 Abs. 3a treten mit 1. September 2001 in Kraft;
+2. § 13 Abs. 3 und 4, § 13a Abs. 2, § 19 Abs. 4, § 21 Abs. 3, § 32 Abs. 3a, § 43 Abs. 1, § 49 Abs. 1, § 57 Abs. 11, § 58 Abs. 5, § 59b samt Überschrift, § 70 Abs. 2a, § 71 Abs. 1 und 2 sowie § 73 Abs. 3a treten mit 1. September 2001 in Kraft;
 
-§ 82a samt Überschrift tritt mit 1. September 2002 in Kraft.
+3. § 82a samt Überschrift tritt mit 1. September 2002 in Kraft.
 
 (5h)  § 32  Abs. 2a  dieses  Bundesgesetzes  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 56/2003 tritt mit 1. September 2003 in Kraft.
 
@@ -2991,9 +2997,9 @@ Bundesrecht konsolidiert
 
 (5j) Die nachstehend genannten Bestimmungen  dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 91/2005 treten wie folgt in Kraft:
 
-§ 31b Abs. 1 sowie § 51 Abs. 2 treten mit 1. September 2005 in Kraft,
+1. § 31b Abs. 1 sowie § 51 Abs. 2 treten mit 1. September 2005 in Kraft,
 
-§ 18 Abs. 8, § 20 Abs. 4, § 25 Abs. 3 sowie § 31 Abs. 2 treten mit 1. September 2006 in Kraft.
+2. § 18 Abs. 8, § 20 Abs. 4, § 25 Abs. 3 sowie § 31 Abs. 2 treten mit 1. September 2006 in Kraft.
 
 (5k) Die nachstehend genannten Bestimmungen  dieses  Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 20/2006 treten wie folgt in Kraft bzw. außer Kraft:
 
@@ -3007,23 +3013,23 @@ Seite 67 von 71
 
 Bundesrecht konsolidiert
 
-§ 5 Abs. 1, § 6 samt Überschrift, § 11 Abs. 1 und 3a, § 12 Abs. 1, § 20 Abs. 9, § 38 Abs. 4, § 63a Abs. 2 Z 1 lit. h, Abs. 11 sowie § 64 Abs. 2 Z 1 lit. j treten mit 1. Jänner 2006 in Kraft,
+1. § 5 Abs. 1, § 6 samt Überschrift, § 11 Abs. 1 und 3a, § 12 Abs. 1, § 20 Abs. 9, § 38 Abs. 4, § 63a Abs. 2 Z 1 lit. h, Abs. 11 sowie § 64 Abs. 2 Z 1 lit. j treten mit 1. Jänner 2006 in Kraft,
 
-§ 20 Abs. 6 sowie § 23 Abs. 1, 1a, 1b, 1c und 1d treten mit 1. Juni 2006 in Kraft,
+2. § 20 Abs. 6 sowie § 23 Abs. 1, 1a, 1b, 1c und 1d treten mit 1. Juni 2006 in Kraft,
 
-§ 3 Abs. 1 lit. c, § 10 Abs. 1, § 11 Abs. 6a, § 12 Abs. 5, § 19 Abs. 3a, § 22 Abs. 8, § 25 Abs. 5c, § 26a samt Überschrift, die Überschrift des 7. Abschnittes, § 31e samt Überschrift, § 36a Abs. 2, § 57  samt  Überschrift,  § 63a  Abs. 2  erster  Satz,  Abs. 2  Z 1  lit. m  und  n,  Abs. 12,  § 64  Abs. 2 erster Satz, Abs. 2 Z 1 lit. n und o, Abs. 6 und 11, § 65a samt Überschrift, § 71 Abs. 2 lit. g sowie § 71 Abs. 8 treten mit 1. September 2006 in Kraft,
+3. § 3 Abs. 1 lit. c, § 10 Abs. 1, § 11 Abs. 6a, § 12 Abs. 5, § 19 Abs. 3a, § 22 Abs. 8, § 25 Abs. 5c, § 26a samt Überschrift, die Überschrift des 7. Abschnittes, § 31e samt Überschrift, § 36a Abs. 2, § 57 samt Überschrift, § 63a Abs. 2 erster Satz, Abs. 2 Z 1 lit. m und n, Abs. 12, § 64 Abs. 2 erster Satz, Abs. 2 Z 1 lit. n und o, Abs. 6 und 11, § 65a samt Überschrift, § 71 Abs. 2 lit. g sowie § 71 Abs. 8 treten mit 1. September 2006 in Kraft,
 
-§ 5 Abs. 3, 4 und 5 tritt mit Ablauf des 31. Dezember 2005 außer Kraft,
+4. § 5 Abs. 3, 4 und 5 tritt mit Ablauf des 31. Dezember 2005 außer Kraft,
 
-§ 12 Abs. 2 und 3 tritt mit Ablauf des 31. August 2006 außer Kraft.
+5. § 12 Abs. 2 und 3 tritt mit Ablauf des 31. August 2006 außer Kraft.
 
 (5l) Die nachstehend genannten Bestimmungen  dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 113/2006 treten wie folgt in Kraft bzw. außer Kraft:
 
-§ 19 Abs. 2a tritt mit 1. September 2006 in Kraft,
+1. § 19 Abs. 2a tritt mit 1. September 2006 in Kraft,
 
-§ 1 Abs. 1 tritt mit 1. Oktober 2007 in Kraft,
+2. § 1 Abs. 1 tritt mit 1. Oktober 2007 in Kraft,
 
-§ 12 Abs. 1 vorletzter Satz tritt  mit  Ablauf des Tages der Kundmachung im Bundesgesetzblatt außer Kraft.
+3. § 12 Abs. 1 vorletzter Satz tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt außer Kraft.
 
 (5m) § 3 Abs. 3 sowie § 23 Abs. 1a und 1c dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 27/2008 treten mit 1. Jänner 2008 in Kraft.
 
@@ -3033,19 +3039,19 @@ Bundesrecht konsolidiert
 
 (5p) Die nachstehend genannten Bestimmungen  dieses  Bundesgesetzes in der Fassung des Bundesgesetzes  BGBl. I  Nr. 52/2010,  § 36  Abs. 2  Z 1a  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 9/2012 und § 39 Abs. 2 Z 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 74/2013, treten wie folgt in Kraft und außer Kraft:
 
-§ 14  Abs. 2  und  5,  § 15  Abs. 1  und  5,  § 51  Abs. 2,  § 78b  Abs. 1  und  § 82b  samt  Überschrift treten mit 1. September 2010 in Kraft,
+1. § 14 Abs. 2 und 5, § 15 Abs. 1 und 5, § 51 Abs. 2, § 78b Abs. 1 und § 82b samt Überschrift treten mit 1. September 2010 in Kraft,
 
-- die Überschrift des Abschnittes 8 sowie die §§ 34 bis 36, 36a und 37 bis 41 sowie § 71 Abs. 2 lit. f treten mit 1. September 2010 in Kraft und finden abweichend von diesem Zeitpunkt
+2. die Überschrift des Abschnittes 8 sowie die §§ 34 bis 36, 36a und 37 bis 41 sowie § 71 Abs. 2 lit. f treten mit 1. September 2010 in Kraft und finden abweichend von diesem Zeitpunkt
 
-- hinsichtlich  der  allgemein  bildenden  höheren  Schulen  (ausgenommen  dem  Werkschulheim und dem Realgymnasium sowie dem Oberstufenrealgymnasium unter besonderer Berücksichtigung der musischen Ausbildung für Studierende der Musik) auf Reifeprüfungen mit Haupttermin ab 2015 und
+a) hinsichtlich der allgemein bildenden höheren Schulen (ausgenommen dem Werkschulheim und dem Realgymnasium sowie dem Oberstufenrealgymnasium unter besonderer Berücksichtigung der musischen Ausbildung für Studierende der Musik) auf Reifeprüfungen mit Haupttermin ab 2015 und
 
-- hinsichtlich  der  berufsbildenden  mittleren  und  höheren  Schulen,  der  höheren  Anstalten  der Lehrerbildung und der Erzieherbildung, dem Werkschulheim und dem Realgymnasium sowie dem Oberstufenrealgymnasium unter besonderer Berücksichtigung der musischen Ausbildung für Studierende der Musik auf abschließende Prüfungen mit Haupttermin ab 2016
+b) hinsichtlich der berufsbildenden mittleren und höheren Schulen, der höheren Anstalten der Lehrerbildung und der Erzieherbildung, dem Werkschulheim und dem Realgymnasium sowie dem Oberstufenrealgymnasium unter besonderer Berücksichtigung der musischen Ausbildung für Studierende der Musik auf abschließende Prüfungen mit Haupttermin ab 2016
 
 Anwendung,
 
-§ 41a  samt  Überschrift  tritt  hinsichtlich  seiner  Bezeichnung  und  Vorreihung  mit  1. September 2013 in Kraft.
+3. § 41a samt Überschrift tritt hinsichtlich seiner Bezeichnung und Vorreihung mit 1. September 2013 in Kraft.
 
-§ 23 Abs. 1a tritt mit 1. September 2014 in Kraft.
+4. § 23 Abs. 1a tritt mit 1. September 2014 in Kraft.
 
 (5q) § 28 Abs. 3 und § 56 Abs. 2 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 29/2011 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft. Zum gleichen Zeitpunkt tritt § 28 Abs. 2 außer Kraft.
 
@@ -3063,27 +3069,27 @@ Bundesrecht konsolidiert
 
 (5s) Für das Inkrafttreten der  durch  das  Bundesgesetz  BGBl. I  Nr. 9/2012  geänderten  oder eingefügten Bestimmungen  und  das  Außerkrafttreten der durch dieses Bundesgesetz entfallenen Bestimmung sowie für den Übergang zur neuen Rechtslage gilt Folgendes:
 
-§ 22  Abs. 3,  § 43  Abs. 2,  § 66  Abs. 4,  § 78b  Abs. 2  sowie  § 83  Abs. 1  treten  mit  Ablauf  des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 22 Abs. 3, § 43 Abs. 2, § 66 Abs. 4, § 78b Abs. 2 sowie § 83 Abs. 1 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 1  Abs. 1,  die  Überschrift  der  §§ 26  und  26a,  § 27  Abs. 2,  § 28  Abs. 3,  § 33  Abs. 4,  § 63a Abs. 14  sowie  § 71  Abs. 1  und  Abs. 2  zweiter  Satz  treten  mit  1. September  2012  in  Kraft; gleichzeitig treten § 2b Abs. 2 und § 31e Abs. 4 außer Kraft,
+2. § 1 Abs. 1, die Überschrift der §§ 26 und 26a, § 27 Abs. 2, § 28 Abs. 3, § 33 Abs. 4, § 63a Abs. 14 sowie § 71 Abs. 1 und Abs. 2 zweiter Satz treten mit 1. September 2012 in Kraft; gleichzeitig treten § 2b Abs. 2 und § 31e Abs. 4 außer Kraft,
 
-§ 78c samt Überschrift tritt mit 1. September 2013 in Kraft,
+3. § 78c samt Überschrift tritt mit 1. September 2013 in Kraft,
 
-§ 45 Abs. 4, § 64 Abs. 13 sowie § 71 Abs. 2 lit. h sowie Abs. 7a und 8 treten mit 1. September 2017 in Kraft,
+4. § 45 Abs. 4, § 64 Abs. 13 sowie § 71 Abs. 2 lit. h sowie Abs. 7a und 8 treten mit 1. September 2017 in Kraft,
 
-§ 19  Abs. 2  und  3a,  § 22  Abs. 1  sowie  § 70  Abs. 1  lit. c  treten  mit  Ablauf  des  Tages  der Kundmachung im Bundesgesetzblatt, hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren  und  höheren  Schulen  jedoch  mit  1. September  2017  und  hinsichtlich  der  weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft,
+5. § 19 Abs. 2 und 3a, § 22 Abs. 1 sowie § 70 Abs. 1 lit. c treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt, hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen jedoch mit 1. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft,
 
-§ 11 Abs. 6b, § 19a samt Überschrift, § 20 Abs. 10, § 22a samt Überschrift, § 23 Abs. 1, § 23a samt  Überschrift,  § 23b  samt  Überschrift,  § 25  Abs. 10,  § 26b  samt  Überschrift,  § 26c  samt Überschrift, § 27 Abs. 2a, § 29 Abs. 3 und 4, § 43 Abs. 1, § 55c samt Überschrift, § 61 Abs. 1, treten hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1. September 2017 und hinsichtlich  der weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft; gleichzeitig tritt § 19 Abs. 2a außer Kraft,
+6. § 11 Abs. 6b, § 19a samt Überschrift, § 20 Abs. 10, § 22a samt Überschrift, § 23 Abs. 1, § 23a samt Überschrift, § 23b samt Überschrift, § 25 Abs. 10, § 26b samt Überschrift, § 26c samt Überschrift, § 27 Abs. 2a, § 29 Abs. 3 und 4, § 43 Abs. 1, § 55c samt Überschrift, § 61 Abs. 1, treten hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft; gleichzeitig tritt § 19 Abs. 2a außer Kraft,
 
-§ 29  Abs. 2a  tritt  hinsichtlich  der  11.  Schulstufe  von  mittleren  und  höheren  Schulen  mit 1. September  2018,  hinsichtlich  der  12.  Schulstufe  von  mittleren  und  höheren  Schulen  mit 1. September  2019  und  hinsichtlich  der  13.  Schulstufe  von  höheren  Schulen  mit  1. September 2020 in Kraft,
+7. § 29 Abs. 2a tritt hinsichtlich der 11. Schulstufe von mittleren und höheren Schulen mit 1. September 2018, hinsichtlich der 12. Schulstufe von mittleren und höheren Schulen mit 1. September 2019 und hinsichtlich der 13. Schulstufe von höheren Schulen mit 1. September 2020 in Kraft,
 
-§ 36 Abs. 3 sowie § 36a Abs. 1 jeweils in der Fassung des Bundesgesetzes BGBl. I Nr. 52/2010 treten hinsichtlich dreijähriger mittlerer Schulen mit 1. September 2018, hinsichtlich vierjähriger mittlerer  und  höherer  Schulen  mit  1. September  2019  und  hinsichtlich  fünfjähriger  höherer Schulen mit 1. September 2020 in Kraft; gleichzeitig und in gleichem Umfang tritt § 23 Abs. 1a letzter Satz in der Fassung BGBl. I Nr. 52/2010 außer Kraft,
+8. § 36 Abs. 3 sowie § 36a Abs. 1 jeweils in der Fassung des Bundesgesetzes BGBl. I Nr. 52/2010 treten hinsichtlich dreijähriger mittlerer Schulen mit 1. September 2018, hinsichtlich vierjähriger mittlerer und höherer Schulen mit 1. September 2019 und hinsichtlich fünfjähriger höherer Schulen mit 1. September 2020 in Kraft; gleichzeitig und in gleichem Umfang tritt § 23 Abs. 1a letzter Satz in der Fassung BGBl. I Nr. 52/2010 außer Kraft,
 
-§ 42 Abs. 3 zweiter Satz sowie Abs. 9 tritt mit 1. September 2012 in Kraft und findet hinsichtlich Externistenprüfungen,  die  einer  abschließenden  Prüfung  entsprechen,  abweichend  von  diesem Zeitpunkt
+9. § 42 Abs. 3 zweiter Satz sowie Abs. 9 tritt mit 1. September 2012 in Kraft und findet hinsichtlich Externistenprüfungen, die einer abschließenden Prüfung entsprechen, abweichend von diesem Zeitpunkt
 
-- hinsichtlich  der  allgemein  bildenden  höheren  Schulen  (ausgenommen  dem  Werkschulheim und dem Realgymnasium sowie dem Oberstufenrealgymnasium unter besonderer Berücksichtigung der musischen Ausbildung für Studierende der Musik) auf Reifeprüfungen mit Haupttermin ab 2015 und
+a) hinsichtlich der allgemein bildenden höheren Schulen (ausgenommen dem Werkschulheim und dem Realgymnasium sowie dem Oberstufenrealgymnasium unter besonderer Berücksichtigung der musischen Ausbildung für Studierende der Musik) auf Reifeprüfungen mit Haupttermin ab 2015 und
 
-- hinsichtlich  der  berufsbildenden  mittleren  und  höheren  Schulen,  der  höheren  Anstalten  der Lehrerbildung und der Erzieherbildung, dem Werkschulheim und dem Realgymnasium sowie dem Oberstufenrealgymnasium unter besonderer Berücksichtigung der musischen Ausbildung für Studierende der Musik auf abschließende Prüfungen mit Haupttermin ab 2016
+b) hinsichtlich der berufsbildenden mittleren und höheren Schulen, der höheren Anstalten der Lehrerbildung und der Erzieherbildung, dem Werkschulheim und dem Realgymnasium sowie dem Oberstufenrealgymnasium unter besonderer Berücksichtigung der musischen Ausbildung für Studierende der Musik auf abschließende Prüfungen mit Haupttermin ab 2016
 
 Anwendung.
 
@@ -3105,45 +3111,45 @@ Seite 69 von 71
 
 Bundesrecht konsolidiert
 
-§ 65a Abs. 2 erster Satz sowie § 73 Abs. 1 dritter Satz, § 46 Abs. 1, § 46 Abs. 2 dritter Satz, § 70 Abs. 1 erster Satz, § 70 Abs. 1 lit. h, i, j und k sowie Abs. 4 lit. f § 71 Abs. 1 samt Überschrift, § 71 Abs. 2, 2a, 3, 4, 6 und 9, § 73 Abs. 3, 4 und 5, § 74 Abs. 4 sowie § 77 lit. c in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2013  treten  mit  1. Jänner 2014  in  Kraft,  § 70  Abs. 1  lit. g  tritt  mit  1. September  2017  in  Kraft. Gleichzeitig  ( Anm.:  mit  Ablauf  des  31. Dezember  2013,  vgl.  dazu  die Parlamentarischen  Materialien) treten § 17 Abs. 4 letzter Satz, § 49 Abs. 6, § 71 Abs. 7 und 8 außer Kraft.
+§ 65a Abs. 2 erster Satz sowie § 73 Abs. 1 dritter Satz, § 46 Abs. 1, § 46 Abs. 2 dritter Satz, § 70 Abs. 1 erster Satz, § 70 Abs. 1 lit. h, i, j und k sowie Abs. 4 lit. f § 71 Abs. 1 samt Überschrift, § 71 Abs. 2, 2a, 3, 4, 6 und 9, § 73 Abs. 3, 4 und 5, § 74 Abs. 4 sowie § 77 lit. c in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2013 treten mit 1. Jänner 2014 in Kraft, § 70 Abs. 1 lit. g tritt mit 1. September 2017 in Kraft. Gleichzeitig (Anm.: mit Ablauf des 31. Dezember 2013, vgl. dazu die Parlamentarischen Materialien) treten § 17 Abs. 4 letzter Satz, § 49 Abs. 6, § 71 Abs. 7 und 8 außer Kraft.
 
 (5x) § 32 Abs. 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 76/2013 tritt mit 1. Juni 2013 in Kraft.
 
 (5y)  Die  nachstehend  genannten  Bestimmungen  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 48/2014 treten wie folgt in Kraft:
 
-§ 12  Abs. 6a,  § 19  Abs. 2,  § 25  Abs. 8,  § 29  Abs. 1,  § 31a  Abs. 2,  § 41a  Abs. 1  und  2,  § 47 Abs. 4, § 48, § 66 Abs. 4, § 71 Abs. 4, § 82b Abs. 2 und § 83 Abs. 1 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 12 Abs. 6a, § 19 Abs. 2, § 25 Abs. 8, § 29 Abs. 1, § 31a Abs. 2, § 41a Abs. 1 und 2, § 47 Abs. 4, § 48, § 66 Abs. 4, § 71 Abs. 4, § 82b Abs. 2 und § 83 Abs. 1 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 17 Abs. 4 lit. a und § 33 Abs. 7 treten mit 1. August 2014 in Kraft.
+2. § 17 Abs. 4 lit. a und § 33 Abs. 7 treten mit 1. August 2014 in Kraft.
 
-- Verordnungen  auf  Grund  der  Änderungen  durch  die  in  den  vorstehenden  Absätzen  genannten Bundesgesetze können bereits von dem ihrer Kundmachung folgenden Tag an erlassen werden. Sie treten frühestens mit dem jeweils in den vorstehenden Absätzen genannten Zeitpunkt in Kraft.
+(6) Verordnungen auf Grund der Änderungen durch die in den vorstehenden Absätzen genannten Bundesgesetze können bereits von dem ihrer Kundmachung folgenden Tag an erlassen werden. Sie treten frühestens mit dem jeweils in den vorstehenden Absätzen genannten Zeitpunkt in Kraft.
 
 #### Sonderbestimmung zu § 33
 
-§ 82a. Abweichend von § 33 Abs. 2 lit. f ist ein Schüler, der die erste Stufe einer berufsbildenden mittleren oder höheren Schule oder einer höheren Anstalt der Lehrerbildung und der Erzieherbildung mit vier  oder  mehr  'Nicht  genügend'  in  Pflichtgegenständen  abgeschlossen  hat,  zum  Wiederholen  dieser ersten  Stufe  berechtigt,  wenn  alle  Aufnahmsbewerber  für  diese  erste  Stufe  an  der  betreffenden  Schule gemäß § 5 aufgenommen werden können.
+§ 82a. Abweichend von § 33 Abs. 2 lit. f ist ein Schüler, der die erste Stufe einer berufsbildenden mittleren oder höheren Schule oder einer höheren Anstalt der Lehrerbildung und der Erzieherbildung mit vier oder mehr “Nicht genügend” in Pflichtgegenständen abgeschlossen hat, zum Wiederholen dieser ersten Stufe berechtigt, wenn alle Aufnahmsbewerber für diese erste Stufe an der betreffenden Schule gemäß § 5 aufgenommen werden können.
 
 #### Übergangsrecht zum 8. Abschnitt
 
 § 82b. (1) Die §§ 34 bis 36 (ausgenommen Abs. 2 Z 2), 36a und 37 bis 41 sowie 71 Abs. 2 lit. f in der  Fassung  vor  der  Novelle  BGBl. I  Nr. 52/2010  finden  auf  abschließende  Prüfungen  bis  zum Wirksamwerden  der  korrespondierenden  Bestimmungen  gemäß  § 82  Abs. 5p  Z 2  sowie auf die Wiederholung von solchen abschließenden Prüfungen auch über den Zeitpunkt dieses Wirksamwerdens hinaus weiterhin Anwendung.
 
-§ 36  Abs. 2  Z 2  der  Fassung  vor  der  Novelle  BGBl. I  Nr. 52/2010  lautet  für  den  in  Abs. 1 genannten Anwendungszeitraum wie folgt:
+(2) § 36 Abs. 2 Z 2 der Fassung vor der Novelle BGBl. I Nr. 52/2010 lautet für den in Abs. 1 genannten Anwendungszeitraum wie folgt:
 
-'2. im Übrigen innerhalb der ersten sieben Wochen des Schuljahres, innerhalb von sieben Wochen nach den Weihnachtsferien und innerhalb der letzten neun Wochen des Unterrichtsjahres.'
+„2. im Übrigen innerhalb der ersten sieben Wochen des Schuljahres, innerhalb von sieben Wochen nach den Weihnachtsferien und innerhalb der letzten neun Wochen des Unterrichtsjahres.“
 
-#### Optionenmodell 'Neue Reifeprüfung' bzw. 'Neue Reife- und Diplomprüfung'
+#### Optionenmodell „Neue Reifeprüfung“ bzw. „Neue Reife- und Diplomprüfung“
 
 § 82c. (1) Mit Zustimmung des Schulgemeinschaftsausschusses können die Bestimmungen über die teilzentrale  standardisierte  Reifeprüfung bzw. Reife- und Diplomprüfung bereits ein Schuljahr vor dem Inkrafttreten bzw. Wirksamwerden gemäß § 82 Abs. 5p Z 2 und Z 4 sowie Abs. 5s Z 9 zur Anwendung gelangen.  Eine  solche  Zustimmungserklärung  bedarf  der  besonderen  Beschlusserfordernisse  gemäß § 64 Abs. 11 letzter Satz und ist bis spätestens zum Ende des ersten Semesters des Schuljahres 2012/13 (hinsichtlich  der  in  § 82  Abs. 5p  Z 2  lit.  a  genannten  Schulen)  bzw.  2013/14  (hinsichtlich  der  in § 82 Abs. 5p  Z 2  lit.  b  genannten  Schulen)  der  zuständigen  Schulbehörde  erster  Instanz  gegenüber vorzulegen, welche die vorgezogene Anwendung der für die Durchführung der teilzentralen standardisierten  Reifeprüfung  bzw.  Reife-  und  Diplomprüfung  relevanten  Bestimmungen  gemäß  § 79 kundzumachen hat.
 
 #### Vollziehung
 
-§ 83. (1) Mit der Vollziehung dieses Bundesgesetzes -ausgenommen  des  § 80 -ist der Bundesminister für Bildung und Frauen, hinsichtlich des § 66 Abs. 4 jedoch im Einvernehmen mit dem Bundesminister für Gesundheit, betraut.
+§ 83. (1) Mit der Vollziehung dieses Bundesgesetzes - ausgenommen des § 80 - ist der Bundesminister für Bildung und Frauen, hinsichtlich des § 66 Abs. 4 jedoch im Einvernehmen mit dem Bundesminister für Gesundheit, betraut.
 
-- Mit der Vollziehung des § 80 ist der Bundesminister für Finanzen betraut.
+(2) Mit der Vollziehung des § 80 ist der Bundesminister für Finanzen betraut.
 
 # Artikel II
 
 ## (Anm.: Zu § 30a, BGBl. Nr. 472/1986)
 
-Für Schüler, die von der 4. Klasse des Gymnasiums zu Beginn der Schuljahre 1989/90 und 1990/91 in die 5. Klasse des Realgymnasiums übertreten und das in der gymnasialen Unterstufe begonnene Latein in  der  Oberstufe  fortsetzen,  ist  § 30a  des  Schulunterrichtsgesetzes  in  der  Fassung  des  Artikels  I  dieses Bundesgesetzes mit der Maßgabe anzuwenden, daß keine Aufnahmsprüfung in Geometrischem Zeichnen abzulegen ist.
+Für Schüler, die von der 4. Klasse des Gymnasiums zu Beginn der Schuljahre 1989/90 und 1990/91 in die 5. Klasse des Realgymnasiums übertreten und das in der gymnasialen Unterstufe begonnene Latein in der Oberstufe fortsetzen, ist § 30a des Schulunterrichtsgesetzes in der Fassung des Artikels I dieses
 
 www.ris.bka.gv.at
 
@@ -3154,6 +3160,8 @@ Seite 70 von 71
 [[START OF PAGE 71]]
 
 Bundesrecht konsolidiert
+
+Bundesgesetzes mit der Maßgabe anzuwenden, daß keine Aufnahmsprüfung in Geometrischem Zeichnen abzulegen ist.
 
 www.ris.bka.gv.at
 
