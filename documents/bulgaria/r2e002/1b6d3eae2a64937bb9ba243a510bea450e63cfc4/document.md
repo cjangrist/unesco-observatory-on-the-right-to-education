@@ -1,6 +1,8 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+MINISTRY OF EDUCATION AND SCIENCE
+
+# SCHOOL AND PRE-SCHOOL EDUCATION DEVELOPMENT NATIONAL PROGRAMME (2006–2015)
 
 [[END OF PAGE 1]]
 
@@ -26,7 +28,7 @@ Over the last few years, education has established itself as one of the issues w
 
 The programme offered is based on the understanding that, the principal value of the educational system is the child (the pupil). Any idea for the development of the Bulgarian school and pre-school education shall be rationalized in the light of this value. The interests of the rest of the participants in this process - teachers, headmasters, mayors and municipal administration, the Minister and the administration of the Ministry of Education and Science, the publishers of textbooks and school appliances -  shall  be  subordinated  to  this  major  objective  -  the  granting  of  equal access to a high quality education for our children.
 
-The aim of the programme is to formulate the national objectives for the development of school and pre-school education, as well as to outline the main steps that shall be taken to implement them. In so far as school education is the main part of the public educational system and for obvious reasons it is facing more and more significant challenges, the programme focuses namely on school education in the sense of a system of stages and grades within the framework of which the educative process at school (I - XII grade included) is performed, while in the same time it gives  an  account  of  the  relationship  and  significance  of  the  pre-school upbringing and preparation.
+The aim of the programme is to formulate the national objectives for the development of school and pre-school education, as well as to outline the main steps that shall be taken to implement them. In so far as school education is the main part of the public educational system and for obvi-
 
 3
 
@@ -36,7 +38,9 @@ The aim of the programme is to formulate the national objectives for the develop
 
 MINISTRY OF EDUCATION AND SCIENCE
 
-The current programme is not aimed at rendering ready-made solutions  to  all  possible  problems  that  school  and  pre-school  education  in Bulgaria are confronted with. It attempts to define and bring out to the forefront the most sensitive for the society problems, whose solution is of vital importance for the Bulgarian school education in its transformation into  modern,  accessible  and  high  quality  education.  On  account  of  the identified problems, the programme elaborates on specific measures and sets time frames for their implementation and for the securing of corresponding resources and legislative regulation.
+ous reasons it is facing more and more significant challenges, the programme focuses namely on school education in the sense of a system of stages and grades within the framework of which the educative process at school (I - XII grade included) is performed, while in the same time it gives an account of the relationship and significance of the pre-school upbringing and preparation.
+
+The current programme is not aimed at rendering ready-made solutions to all possible problems that school and pre-school education in Bulgaria are confronted with. It attempts to define and bring out to the forefront the most sensitive for the society problems, whose solution is of vital importance for the Bulgarian school education in its transformation into modern, accessible and high quality education. On account of the identified problems, the programme elaborates on specific measures and sets time frames for their implementation and for the securing of corresponding resources and legislative regulation.
 
 4
 
@@ -58,7 +62,7 @@ In  contrast  to  other  educational  systems  which  have  registered  successf
 
 ### 2. Lack of a national system for external evaluation and not sufficiently effective system for internal rating of the quality of education
 
-With regard to the current system for rating the knowledge and skills of the pupils, two important conclusions can be made. On the one hand, within the framework of the internal evaluation system, traditional and not quite effective evaluation rating methods are used. The requirement for the pupil to reproduce what the teacher said or what was written in the textbook, the search for the effect of the surprise when examining, as well as  the  likelihood  that  subjective  factors  may  influence  the  assessment process, do not stimulate the pupil to give his best.
+With regard to the current system for rating the knowledge and skills of the pupils, two important conclusions can be made. On the one hand, within the framework of the internal evaluation system, traditional and not quite effective evaluation rating methods are used. The requirement for the pupil to reproduce what the teacher said or what was written in the
 
 5
 
@@ -67,6 +71,8 @@ With regard to the current system for rating the knowledge and skills of the pup
 [[START OF PAGE 7]]
 
 MINISTRY OF EDUCATION AND SCIENCE
+
+textbook, the search for the effect of the surprise when examining, as well as the likelihood that subjective factors may influence the assessment process, do not stimulate the pupil to give his best.
 
 Besides, the lack of a national system for external evaluation does not allow gauging the achievements of pupils from the same grade of different schools (conclusions about the quality of tuition at school as well as about the work of the particular teacher) and juxtaposing the results of pupils from different grades (conclusions about the trends in the development of the quality of education on a national scale).
 
@@ -78,7 +84,7 @@ In Bulgaria, the percentage of children who are in the compulsory education age 
 
 The social economic changes during the 90ies of the previous century brought about a considerable downgrading of the general economic and social status of the teachers. A large number of the reasons are outside the realm of the educational system - elements of disintegration of the society,  general  depreciation  of  values  and  regulatory  systems,  absence  of  a direct relationship between the erudition and success in life. The teachers not only do not get the adequate payment for their labour, but there is also no system for their career development, qualification and lifelong learning.
 
-The low social status and in particular the low economic status of the teacher to a great extent reflects on the lack of confidence and motivation for manifestation. It often leads to inadequate efforts to grasp and provoke the attention of the pupils, which additionally reduces the teachers' confidence. In the same time, the invasion of the Internet as a source of information  and  the  new  information  and  communication  technologies  are changing the traditional model of teacher-pupil relationship.
+The low social status and in particular the low economic status of the teacher to a great extent reflects on the lack of confidence and motivation
 
 6
 
@@ -87,6 +93,8 @@ The low social status and in particular the low economic status of the teacher t
 [[START OF PAGE 8]]
 
 NATIONAL PROGRAMME
+
+for manifestation. It often leads to inadequate efforts to grasp and provoke the attention of the pupils, which additionally reduces the teachers' confidence. In the same time, the invasion of the Internet as a source of information and the new information and communication technologies are changing the traditional model of teacher-pupil relationship.
 
 As a result of this, the insufficient prestige of the teacher puts to trial the process of education and upbringing at school.
 
@@ -118,7 +126,7 @@ On  the  one  hand,  the  state  reluctantly  separates  itself  from  state sch
 
 ### 8. Problems with the legislative basis
 
-The school education system is regulated by an excessively large number of acts. They have different legal characteristics and are of different standing in the hierarchy of the legal acts - laws, statutes, regulations, instructions, individual administrative acts. This diversity of regulations impedes the process of law enforcement.
+The school education system is regulated by an excessively large number of acts. They have different legal characteristics and are of different
 
 8
 
@@ -127,6 +135,8 @@ The school education system is regulated by an excessively large number of acts.
 [[START OF PAGE 10]]
 
 NATIONAL PROGRAMME
+
+standing in the hierarchy of the legal acts - laws, statutes, regulations, instructions, individual administrative acts. This diversity of regulations impedes the process of law enforcement.
 
 The practice of regulating of basic and lasting social relations on a secondary legislation level is still existent. There are discrepancies among legislative acts of equal standing in the regulatory hierarchy, as well as among those of different standing. It has been a long lasting tradition in the system to use regulatory acts of vague legal character (letters, instructions and so on) to settle relationships requiring judicial regulation.
 
@@ -178,7 +188,7 @@ MINISTRY OF EDUCATION AND SCIENCE
 
 In the acts approved by the European Union as well as by the United Nations with regard to education, two main objectives of the educational policy can be defined - equal access to education and high-quality education. They can be deduced as main objectives for the Bulgarian school education too, and in an indirect way, at preparatory stage - as objectives of pre-school upbringing and preparation.
 
-The two main objectives of the educational policy should not be treated separately from each other, let alone be opposed - each one of them can  be  understood  in  its  completeness  only  when  related  to  the  other objective. Equal access means access to high-quality education, and highquality education reveals its full potential only when it is accessible for each Bulgarian child.
+The two main objectives of the educational policy should not be treated separately from each other, let alone be opposed - each one of them can be understood in its completeness only when related to the other objective. Equal access means access to high-quality education, and high-quality education reveals its full potential only when it is accessible for each Bulgarian child.
 
 ### 1. Equal access to education
 
@@ -188,7 +198,7 @@ It is necessary to take special care for those children, deprived of equal start
 
 ### 2. High-quality education
 
-High-quality education presupposes a continuous build up of knowledge and skills with regard to the maximum development of each child's potential and an opportunity for adequate social realization. On the one hand,  education  shall  allow  for  the  development  of  the  talents  of  each child. It shall encourage the manifestation and maximum development of the  capacities  of  the  child  in  the  educational  process  (building  up  of knowledge and formation of skills) as well as in the process of upbringing (development of the personality). On the other hand, the system of school education shall create the conditions for the adequate social realization in its professional and personal aspects. The children shall be able to  realize  to  a  maximum  degree  their  worldly  plans,  by  abiding  to  the established rules and by not offending the right of others to realize their worldly plans.
+High-quality education presupposes a continuous build up of knowledge and skills with regard to the maximum development of each child's
 
 12
 
@@ -197,6 +207,8 @@ High-quality education presupposes a continuous build up of knowledge and skills
 [[START OF PAGE 14]]
 
 NATIONAL PROGRAMME
+
+potential and an opportunity for adequate social realization. On the one hand, education shall allow for the development of the talents of each child. It shall encourage the manifestation and maximum development of the capacities of the child in the educational process (building up of knowledge and formation of skills) as well as in the process of upbringing (development of the personality). On the other hand, the system of school education shall create the conditions for the adequate social realization in its professional and personal aspects. The children shall be able to realize to a maximum degree their worldly plans, by abiding to the established rules and by not offending the right of others to realize their worldly plans.
 
 13
 
@@ -220,9 +232,9 @@ It is necessary to increase the foreign language and computer teaching in the cu
 
 The school curricula and syllabi shall comply with the new educational structure.
 
-It  is  necessary  to  update  the  List  of  Professions  for  V ocational Education and Training and to elaborate on the state educational requirements for acquisition of qualification in each of these professions.
+It is necessary to update the List of Professions for Vocational Education and Training and to elaborate on the state educational requirements for acquisition of qualification in each of these professions.
 
-The specific changes in the educational contents, curricula and syllabi shall not be only a result of an administrative decision. In order for the changes to be well grounded, acceptable by the society and corresponding to the socio-economic actualities, it is necessary to hold a social discussion with the active participation of teachers, parents, non-governmental organizations, employers. Of special importance shall be national conventions  of  teachers  of  different  subjects,  where  the  requirements  and  the direction of the changes in the educational contents, curricula and syllabi will be discussed.
+The specific changes in the educational contents, curricula and syllabi shall not be only a result of an administrative decision. In order for the changes to be well grounded, acceptable by the society and corresponding to the socio-economic actualities, it is necessary to hold a social discus-
 
 14
 
@@ -231,6 +243,8 @@ The specific changes in the educational contents, curricula and syllabi shall no
 [[START OF PAGE 16]]
 
 NATIONAL PROGRAMME
+
+sion with the active participation of teachers, parents, non-governmental organizations, employers. Of special importance shall be national conventions of teachers of different subjects, where the requirements and the direction of the changes in the educational contents, curricula and syllabi will be discussed.
 
 #### 2. Measures with regard to textbooks and school appliances
 
@@ -244,7 +258,7 @@ The textbooks shall be more fully consistent with the educational contents, curr
 
 ##### Improving the system for evaluation and approval of textbooks
 
-One of the issues to be resolved with regard to the system for grading and approval of textbooks is what the number of the approved textbooks on a certain subject for each grade shall be. There are different opinions on this matter - to preserve the current system for the approval of up to three textbooks, to increase to a fixed number the approved textbooks, to approve all the textbooks meeting the state educational requirements. It would not be such an important issue if all the textbooks on a certain subject for each grade had uniform structure and if there were mechanisms for the citizens to exercise control over the choice of textbooks within the school.
+One of the issues to be resolved with regard to the system for grading and approval of textbooks is what the number of the approved textbooks on a certain subject for each grade shall be. There are different opinions on this matter - to preserve the current system for the approval of up to three textbooks, to increase to a fixed number the approved textbooks, to approve all the textbooks meeting the state educational requirements. It
 
 15
 
@@ -254,7 +268,9 @@ One of the issues to be resolved with regard to the system for grading and appro
 
 MINISTRY OF EDUCATION AND SCIENCE
 
-The evaluation of the textbooks with regard to their conformity with the  state  educational  requirements  shall  be  performed  on  a  large  scale participation of teachers in the respective cultural and educational field.
+would not be such an important issue if all the textbooks on a certain subject for each grade had uniform structure and if there were mechanisms for the citizens to exercise control over the choice of textbooks within the school.
+
+The evaluation of the textbooks with regard to their conformity with the state educational requirements shall be performed on a large scale participation of teachers in the respective cultural and educational field.
 
 ##### Free of charge textbooks and school appliances
 
@@ -266,7 +282,7 @@ One of the greatest challenges of the modern life is the tempestuous entering of
 
 ##### Providing high speed Internet in every school
 
-By the end of 2007 every Bulgarian school shall be provided with free of charge high speed Internet. The implementation of this objective is in close relation with the securing of directed investments for the modernization  of  the  basic  communicational  infrastructure  in  settlements  with outdated analogue telephony.
+By the end of 2007 every Bulgarian school shall be provided with free of charge high speed Internet. The implementation of this objective is in close relation with the securing of directed investments for the modern-
 
 16
 
@@ -275,6 +291,8 @@ By the end of 2007 every Bulgarian school shall be provided with free of charge 
 [[START OF PAGE 18]]
 
 NATIONAL PROGRAMME
+
+ization of the basic communicational infrastructure in settlements with outdated analogue telephony.
 
 ##### Elaboration of a national education portal
 
@@ -348,7 +366,7 @@ The good traditions in the extracurricular and out of school activity were aband
 
 - All year round engagement of children, including the holiday periods;
 
-- Financing on a project basis with the possibility of inclusion of nongovernmental organizations;
+- Financing on a project basis with the possibility of inclusion of non-governmental organizations;
 
 - Independence in the choice of activities in the management of the funds by the schools;
 
@@ -476,7 +494,7 @@ The implementation of a new educational structure is of great importance for the
 
 At the end of this stage the pupils shall be awarded a Certificate for Basic  Education  Completed,  which  shall  enable  them  to  continue  their education in the next stages in specialized high schools, vocational education  schools  and  general  education  schools.  On  completion  of  basic school, the level of mastering of the general education minimum shall be examined by means of a national standardized external evaluation, which apart from being a measure of the knowledge of the pupils, shall serve for weighing their capacity with regard to entering various types of schools.
 
-The curtailment of the level by one year and the completion of basic education in seven years instead of eight shall not bring about redistribution  of  the  content  of  teaching  and  increasing  of  the  workload  for  the pupils. It presumes a change in the state educational requirements on the specific subjects with regard to bringing to the forefront the knowledge, skills and competences which shall be acquired in the course of a seven year  school  education.  The  transfer  of  grade  VIII  into  the  high  school level shall not affect the general logic, philosophy and structure of the curricula for grades V-VII, since grade VII is in many ways a border area in  grade VII the foundations of the course of study in natural sciences
+The curtailment of the level by one year and the completion of basic education in seven years instead of eight shall not bring about redistribution of the content of teaching and increasing of the workload for the pupils. It presumes a change in the state educational requirements on the specific subjects with regard to bringing to the forefront the knowledge, skills and competences which shall be acquired in the course of a seven year school education. The transfer of grade VIII into the high school level shall not affect the general logic, philosophy and structure of the curricula for grades V-VII, since grade VII is in many ways a border area – in grade VII the foundations of the course of study in natural sciences
 
 26
 
@@ -514,7 +532,7 @@ The intensity of foreign language learning shall vary in the different types of 
 
 #### The new educational structure shall have several advantages:
 
-- Equal treatment of graduates at the output of the basic education all pupils graduating basic education, shall be awarded a certificate and shall proceed to the next stage of education at the same time; all pupils can graduate basic education without changing school;
+- Equal treatment of graduates at the output of the basic education – all pupils graduating basic education, shall be awarded a certificate and shall proceed to the next stage of education at the same time; all pupils can graduate basic education without changing school;
 
 28
 
@@ -564,7 +582,7 @@ Throughout the implementation period of the programme, the practice of  granting
 
 #### Continuation  of  the  activities  for  implementation  of  the  National Programme for Extensive Coverage of the Pupils in Compulsory School Age, approved by the XXXIX National Assembly
 
-One  of  the  measures  in  this  programme  is  the  provision  of  free  of charge snacks for the pupils in the primary education stage (I - IV) grade which combined with other social measures can yield good results with regard to children in danger of dropping out. This measure shall continue and be developed for senior age pupils by ensuring them the opportunity for nourishment at school.
+One of the measures in this programme is the provision of free of charge snacks for the pupils in the primary education stage (I - IV) grade which combined with other social measures can yield good results with
 
 30
 
@@ -573,6 +591,8 @@ One  of  the  measures  in  this  programme  is  the  provision  of  free  of ch
 [[START OF PAGE 32]]
 
 NATIONAL PROGRAMME
+
+regard to children in danger of dropping out. This measure shall continue and be developed for senior age pupils by ensuring them the opportunity for nourishment at school.
 
 #### Ensuring of free transportation and half-boarding-school type of education
 
@@ -584,7 +604,7 @@ This coordination exists at the moment too, but the elaboration of its mechanism
 
 ### 4.  Socialization  of  the  children  whose  native  language  is  not Bulgarian.  Integration  of  other  children  with  special  educational needs
 
-The need for the state to take special care for the socialization of children whose native language is not Bulgarian is becoming more evident. The activities related to learning Bulgarian language shall be especially energetic in the compulsory period prior to enrolment in grade I and shall continue until they reach a level of mastering the language comparable with that of the rest of the children. The additional tuition of these children in Bulgarian language shall be out under specialized methods by taking into consideration their specific needs and difficulties. Apart from the various forms of additional pedagogic assistance, of great importance for these children shall be their immersion into an integrating environment excluding any division on language, ethno-cultural or other basis.  It  is extremely important to take expedient steps with regard to broadening the coverage  of  such  children  by  kindergartens  and  their  upbringing  in  an environment where they shall be able to communicate in Bulgarian every day. This necessitates the usage of differentiated approaches allowing for the preservation and further consolidation of the kindergartens, especially in areas where they are the only centre for learning Bulgarian language. To this end it is necessary for the parents to be better informed about the benefits of attending kindergartens.
+The need for the state to take special care for the socialization of children whose native language is not Bulgarian is becoming more evident. The activities related to learning Bulgarian language shall be especially energetic in the compulsory period prior to enrolment in grade I and shall continue until they reach a level of mastering the language comparable with that of the rest of the children. The additional tuition of these children in Bulgarian language shall be out under specialized methods by taking into consideration their specific needs and difficulties. Apart from the
 
 31
 
@@ -593,6 +613,8 @@ The need for the state to take special care for the socialization of children wh
 [[START OF PAGE 33]]
 
 MINISTRY OF EDUCATION AND SCIENCE
+
+various forms of additional pedagogic assistance, of great importance for these children shall be their immersion into an integrating environment excluding any division on language, ethno-cultural or other basis. It is extremely important to take expedient steps with regard to broadening the coverage of such children by kindergartens and their upbringing in an environment where they shall be able to communicate in Bulgarian every day. This necessitates the usage of differentiated approaches allowing for the preservation and further consolidation of the kindergartens, especially in areas where they are the only centre for learning Bulgarian language. To this end it is necessary for the parents to be better informed about the benefits of attending kindergartens.
 
 The integration of children with special educational needs requires a series of steps with regard to creating a supportive environment for their education, including the formation of an accessible physical environment and an opportunity for education under individual programmes, granting of special textbooks, school appliances and technical equipment for the pupils in the elementary, training the pedagogic staff to work with such children. Furthermore, the vicious practice of directing and accommodating in such schools of children whose education does not require such an environment. This practice impedes the education, upbringing and development of the children with special educational needs, as well as those who have been directed there for other social reasons. To this end, it is necessary to exercise constant control over the activity of the diagnostic commissions for complex pedagogical assessment to the regional inspectorates of education, who direct children to these types of schools. Such control shall be exercised over headmasters of the educational institutions who admit for education pupils who have not been directed by the diagnostic commissions.
 
@@ -638,7 +660,7 @@ Improvement  of  teachers'  qualification  is  of  great  importance  with regar
 
 ### 2. Introduction of a system for career development
 
-The introduction of a system for career development and its binding to the system of payment for the work shall create the conditions for competition among teachers, shall motivate them to participate in the process of tuition and education at school more actively.
+The introduction of a system for career development and its binding to the system of payment for the work shall create the conditions for compe-
 
 34
 
@@ -648,6 +670,8 @@ The introduction of a system for career development and its binding to the syste
 
 NATIONAL PROGRAMME
 
+tition among teachers, shall motivate them to participate in the process of tuition and education at school more actively.
+
 From the point of view of the contemporary system for career development, two trends can be isolated:
 
 #### In horizontal aspect:
@@ -656,7 +680,7 @@ The opportunity for development shall be provided by differentiating the formula
 
 #### In vertical aspect
 
-The changes are related mostly to the change in the requirement for occupying  administrative  posts  in  the  system  of  national  education  Headmaster, Deputy Headmaster, Expert, Head of Regional Inspectorate of Education, administration of the Ministry of Education and Science.
+The changes are related mostly to the change in the requirement for occupying administrative posts in the system of national education – Headmaster, Deputy Headmaster, Expert, Head of Regional Inspectorate of Education, administration of the Ministry of Education and Science.
 
 The presence of a teaching background, the real participation in the process of teaching and educating, shall create the experience and knowledge  necessary  in  the  management  process  and  guarantee  the  better understanding of the problems and the effects the application of certain managerial decisions.
 
@@ -664,7 +688,7 @@ The presence of a teaching background, the real participation in the process of 
 
 This system shall lead to increasing the quality of education as a result of the higher motivation of teachers to continuously develop their knowledge and qualification and to exert more efforts in the process of teaching and educating.
 
-The differentiated approach in the payment presupposes the elaboration of a system of objective indicators and criteria for the assessment of the quality of work. The most important criterion shall be the results of the internal grading at each stage, as well as the entry and exit examination results. Other indicators can be:
+The differentiated approach in the payment presupposes the elaboration of a system of objective indicators and criteria for the assessment of
 
 35
 
@@ -673,6 +697,8 @@ The differentiated approach in the payment presupposes the elaboration of a syst
 [[START OF PAGE 37]]
 
 MINISTRY OF EDUCATION AND SCIENCE
+
+the quality of work. The most important criterion shall be the results of the internal grading at each stage, as well as the entry and exit examination results. Other indicators can be:
 
 - Whether the results of the pupils from the current grading are comparable to the results of the external grading;
 
@@ -794,7 +820,7 @@ From the beginning of the 2006/2007 school year annual pilot projects shall be l
 
 #### Opening and closing schools
 
-Local  authorities  shall  be  granted  wider  authorities  in  relation  to municipal  schools  and  the  procedures  for  opening  and  closing  such schools while maintaining the possibilities for the Ministry of Education and  Science  to  exercise  control  for  adherence  to  legal  regulations. Combining this authority with certain financial incentives shall raise the interest of local authorities to maintain and invest in schools which have sufficient number of children and use an optimum number of qualified teaching staff, i.e. maintain an optimized school infrastructure.
+Local authorities shall be granted wider authorities in relation to municipal schools and the procedures for opening and closing such schools while maintaining the possibilities for the Ministry of Education
 
 42
 
@@ -803,6 +829,8 @@ Local  authorities  shall  be  granted  wider  authorities  in  relation  to mun
 [[START OF PAGE 44]]
 
 NATIONAL PROGRAMME
+
+and Science to exercise control for adherence to legal regulations. Combining this authority with certain financial incentives shall raise the interest of local authorities to maintain and invest in schools which have sufficient number of children and use an optimum number of qualified teaching staff, i.e. maintain an optimized school infrastructure.
 
 #### Determining  the  number  and  types  of  vocational  and  specialized schools
 
@@ -814,7 +842,7 @@ There are two main conditions required for the implementation of the process of 
 
 #### Financial decentralization
 
-Financial decentralization is a process of transferring to schools the authorities  related  to  the  establishment  and  implementation  of  budgets (delegated budgets). Schools shall have wider operating authorities with regard  to  the  establishment  of  the  budget  and  spending  of  funds,  thus being capable of implementing their individual policy. Schools that manage their budgets observing all legal regulations and in a way that is economically efficient shall be granted additional financing in order to be able to provide higher remunerations to their teachers. It is envisaged to provide training and information materials with examples of good practice in the management of delegated budgets.
+Financial decentralization is a process of transferring to schools the authorities related to the establishment and implementation of budgets (delegated budgets). Schools shall have wider operating authorities with regard to the establishment of the budget and spending of funds, thus being capable of implementing their individual policy. Schools that manage their budgets observing all legal regulations and in a way that is economically efficient shall be granted additional financing in order to be able to provide higher remunerations to their teachers. It is envisaged to
 
 43
 
@@ -823,6 +851,8 @@ Financial decentralization is a process of transferring to schools the authoriti
 [[START OF PAGE 45]]
 
 MINISTRY OF EDUCATION AND SCIENCE
+
+provide training and information materials with examples of good practice in the management of delegated budgets.
 
 #### Civil control
 
@@ -836,7 +866,7 @@ Local authorities shall be granted additional authority which is currently exclu
 
 ### 3. Changes in the headmaster's statute
 
-Being  the  authority  responsible  for  the  direct  management  of  the school  the  headmaster  shall  be  capable  of  following  a  policy  aimed  at improving the image of the school and gaining recognition for an institution  capable  of  providing  modern  high-quality  education.  In  order  to achieve  this  it  is  necessary  to  introduce  changes  in  the  headmaster's statute  that  shall  provide  guarantees  that  he  is  in  possession  of  the required management skills and knowledge, on the one hand, and that he shall provide for mechanisms of control over his activities, on the other hand. In this respect it is envisaged:
+Being the authority responsible for the direct management of the school the headmaster shall be capable of following a policy aimed at
 
 44
 
@@ -846,17 +876,19 @@ Being  the  authority  responsible  for  the  direct  management  of  the school
 
 NATIONAL PROGRAMME
 
+improving the image of the school and gaining recognition for an institution capable of providing modern high-quality education. In order to achieve this it is necessary to introduce changes in the headmaster's statute that shall provide guarantees that he is in possession of the required management skills and knowledge, on the one hand, and that he shall provide for mechanisms of control over his activities, on the other hand. In this respect it is envisaged:
+
 #### Introduction  of  a  term  of  mandate  for  the  post  of  the  headmasters without limitations on the number of terms held
 
 Introducing a term of mandate shall foster the necessary motivation for better and more responsible performance of the headmaster's duties. It shall  also  provide  an  opportunity  for  exercising  better  control  over  the headmasters' activities and they will have to re-confirm at regular intervals the efficiency of their programme for the development of the school, to  report  on  their  achievements  and  to  re-confirm  the  trust  of  parents, teachers and pupils.
 
 #### Establishment of a National Institute for Training of Headmasters
 
-The main objective of the Institute  shall  be  to  train  headmasters  in order to improve their organizational, managerial and financial competences. The Institute shall provide two types of training: initial training for new recruits to the post of headmaster: upon completion of this training a national examination shall be taken be for acquiring the qualifications of a headmaster; regular training for active headmasters in view of up-todating their knowledge and improving their qualifications. Training shall involve various training courses aimed at transforming headmasters into professionally trained school managers. It is envisaged that the Institute shall be established and fully operational in the beginning of 2007.
+The main objective of the Institute shall be to train headmasters in order to improve their organizational, managerial and financial competences. The Institute shall provide two types of training: initial training for new recruits to the post of headmaster: upon completion of this training a national examination shall be taken be for acquiring the qualifications of a headmaster; regular training for active headmasters in view of up-to-dating their knowledge and improving their qualifications. Training shall involve various training courses aimed at transforming headmasters into professionally trained school managers. It is envisaged that the Institute shall be established and fully operational in the beginning of 2007.
 
 #### Developing model forms of attesting the performance of headmasters
 
-It is necessary to develop a system of criteria and indicators for periodical assessment of the performance and professional characteristics of headmasters. A compulsory attestation shall play a motivating and disciplining role for headmasters and even more so when combined with the introduction of the term of mandate for this position.
+It is necessary to develop a system of criteria and indicators for periodical assessment of the performance and professional characteristics of
 
 45
 
@@ -865,6 +897,8 @@ It is necessary to develop a system of criteria and indicators for periodical as
 [[START OF PAGE 47]]
 
 MINISTRY OF EDUCATION AND SCIENCE
+
+headmasters. A compulsory attestation shall play a motivating and disciplining role for headmasters and even more so when combined with the introduction of the term of mandate for this position.
 
 46
 
@@ -914,7 +948,7 @@ The  overall  implementation  of  the  concept  for  delegated  budgets involves
 
 #### Completed vision for decentralization of the system
 
-It includes clear separation of responsibilities within the three levels of management - central, local and school. On the one hand the completed concept  for  delegated  budgets  requires  transferring  the  standards  to school level. On the other hand, there are natural inequalities among different schools within a community, which only local authorities can report and compensate. It calls for finding the optimal ratio between the part of the  standards  that  shall  be  transferred  to  school  level  and  the  part  that shall be distributed by the municipalities. A maximum percentage of the funds shall reach school level and a minimum percentage shall be kept for the compensation of these inequalities by the municipalities. Besides, the municipalities  shall  have  the  authority  within  certain  limits,  to  direct some of the additional instruments for encouraging the access - social grants, transportation, nutrition at school and boarding houses.
+It includes clear separation of responsibilities within the three levels of management - central, local and school. On the one hand the completed concept for delegated budgets requires transferring the standards to school level. On the other hand, there are natural inequalities among different schools within a community, which only local authorities can report and compensate. It calls for finding the optimal ratio between the part of the standards that shall be transferred to school level and the part that shall be distributed by the municipalities. A maximum percentage of the
 
 48
 
@@ -923,6 +957,8 @@ It includes clear separation of responsibilities within the three levels of mana
 [[START OF PAGE 50]]
 
 NATIONAL PROGRAMME
+
+funds shall reach school level and a minimum percentage shall be kept for the compensation of these inequalities by the municipalities. Besides, the municipalities shall have the authority within certain limits, to direct some of the additional instruments for encouraging the access - social grants, transportation, nutrition at school and boarding houses.
 
 #### Gradual transition of a large number of state schools to financing from the municipal budgets
 
@@ -970,7 +1006,7 @@ NATIONAL PROGRAMME
 ### Implementation of a system for differentiated payment of teachers
 ### Extending the principle "Money Follows Pupils" over private schools as well
 
-The expected development of private education in our country especially after the accession of our country into the European Union shall raise to the foreground the issue of the financial policy of the state to private  schools,  mainly  with  regard  to  extending  the  principle  "Money Follows Pupils" over these schools as well. The solution of this issue lies in achieving certain results with regard to the other two problems - the improvement of the material basis in state and municipal schools and the unification of the criteria and mechanisms for control over the quality of education in all schools. For this reason, the principle "Money Follows Pupils" can be implemented in its completeness not earlier than 2009.
+The expected development of private education in our country especially after the accession of our country into the European Union shall raise to the foreground the issue of the financial policy of the state to private schools, mainly with regard to extending the principle "Money Follows Pupils" over these schools as well. The solution of this issue lies in achieving certain results with regard to the other two problems – the improvement of the material basis in state and municipal schools and the unification of the criteria and mechanisms for control over the quality of education in all schools. For this reason, the principle "Money Follows Pupils" can be implemented in its completeness not earlier than 2009.
 
 51
 
@@ -988,7 +1024,7 @@ The improvement of the legal framework puts forward several main issues:
 
 ### Management of the system not by people, but by rules
 
-The  school  education  system  continues  to  be  managed  by  people rather than by rules. The reversal of this situation involves the uniform and joint settlement on legal level of all relations which can be developed without issuance of an individual administrative act and where this is not possible - by secondary legislation. Besides that, the cases of rendering discretional  authority  on  resolving  of  certain  issues  shall  sharply  be reduced.
+The school education system continues to be managed by people rather than by rules. The reversal of this situation involves the uniform and joint settlement on legal level of all relations which can be developed without issuance of an individual administrative act and where this is not possible – by secondary legislation. Besides that, the cases of rendering discretional authority on resolving of certain issues shall sharply be reduced.
 
 ### Raising the level of the legislative framework
 
@@ -1072,11 +1108,11 @@ MINISTRY OF EDUCATION AND SCIENCE
 
 NATIONAL PROGRAMME
 
-The implementation of the measures shall necessitate the approval of new  legislative  acts  -  an  ordinance  for  the  extracurricular  and  out  of school activity, an ordinance for the procedure and criteria for evaluation of the work of the pedagogic staff, a new ordinance for the procedure and ways  to  determine  the  individual  salaries  of  the  staff  in  secondary schools, an ordinance for the procedure and ways to award teachers, a regulation  for  the  structure  and  activities  of  the  National  Institute  for Training Headmasters, a regulation for the capacity and qualification of headmasters, a regulation for the criteria and procedure for the rating of headmasters.
+The implementation of the measures shall necessitate the approval of new legislative acts – an ordinance for the extracurricular and out of school activity, an ordinance for the procedure and criteria for evaluation of the work of the pedagogic staff, a new ordinance for the procedure and ways to determine the individual salaries of the staff in secondary schools, an ordinance for the procedure and ways to award teachers, a regulation for the structure and activities of the National Institute for Training Headmasters, a regulation for the capacity and qualification of headmasters, a regulation for the criteria and procedure for the rating of headmasters.
 
 The large number of essential changes shall give ground for the necessity to elaborate and implement a new, general law which shall completely  settle  all  fundamental  relationships  developing  within  the  system  of national education. The approval of such a general law shall eliminate the probability for the simultaneous operation of a parallel and in the same time contradictory settlement of the same social relations and shall create the conditions for uniform and legitimate law enforcement.
 
-By 1st October of each year, the Minister of Education and Science shall submit before the National Assembly a report for the implementation of the National Programme for the Development of School and preschool education (2006-2015) for the corresponding school year and for the measures that shall be implemented during the next one.
+By 1st October of each year, the Minister of Education and Science shall submit before the National Assembly a report for the implementation of the National Programme for the Development of School and pre-school education (2006-2015) for the corresponding school year and for the measures that shall be implemented during the next one.
 
 55
 
