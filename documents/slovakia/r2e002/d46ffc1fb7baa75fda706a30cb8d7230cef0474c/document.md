@@ -2,6 +2,8 @@
 
 PDF generated: 17 Jan 2018, 19:57
 
+CONSTITUTE
+
 constituteproject.org
 
 # Slovakia's Constitution of 1992 with Amendments through 2014
@@ -19,6 +21,39 @@ constituteproject.org
 PDF generated: 17 Jan 2018, 19:57
 
 # Table of contents
+
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+PART ONE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Chapter One: GENERAL PROVISIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Chapter Two: THE STATE SYMBOLS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Chapter Three: THE CAPITAL OF THE SLOVAK REPUBLIC . . . . . . . . . . . . . . . . . . . . . . . 5
+PART TWO: FUNDAMENTAL RIGHTS AND FREEDOMS . . . . . . . . . . . . . . . . . . . 5
+Chapter One: GENERAL PROVISIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Chapter Two: FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS . . . . . . . . . . . . . . . . . 6
+Chapter Three: POLITICAL RIGHTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Chapter Four: THE RIGHTS OF NATIONAL MINORITIES AND ETHNIC GROUPS . . . . . . . 11
+Chapter Five: ECONOMIC, SOCIAL AND CULTURAL RIGHTS . . . . . . . . . . . . . . . . . . . . 11
+Chapter Six: THE RIGHT TO PROTECT THE ENVIRONMENT AND CULTURAL HERITAGE . . . . 14
+Chapter Seven: RIGHT TO JUDICIAL AND OTHER LEGAL PROTECTION . . . . . . . . . . . . 14
+Chapter Eight: PART ONE AND PART TWO JOINT PROVISIONS . . . . . . . . . . . . . . . . . . 15
+PART THREE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Chapter One: THE ECONOMY IN THE SLOVAK REPUBLIC . . . . . . . . . . . . . . . . . . . . . . 16
+Chapter Two: THE SUPREME AUDIT OFFICE OF THE SLOVAK REPUBLIC . . . . . . . . . . . 17
+PART FOUR: LOCAL SELF-GOVERNING BODIES . . . . . . . . . . . . . . . . . . . . . . 18
+PART FIVE: LEGISLATIVE POWER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Chapter One: THE NATIONAL COUNCIL OF THE SLOVAK REPUBLIC . . . . . . . . . . . . . . 21
+Chapter Two: REFERENDUM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+PART SIX: EXECUTIVE POWER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Chapter One: THE PRESIDENT OF THE SLOVAK REPUBLIC . . . . . . . . . . . . . . . . . . . . 28
+Chapter Two: THE GOVERNMENT OF THE SLOVAK REPUBLIC . . . . . . . . . . . . . . . . . . 32
+PART SEVEN: THE JUDICIAL POWER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Chapter One: THE CONSTITUTIONAL COURT OF THE SLOVAK REPUBLIC . . . . . . . . . . 36
+Chapter Two: THE JUDICIARY OF THE SLOVAK REPUBLIC . . . . . . . . . . . . . . . . . . . . 43
+Article 141a: The Judicial Council of the Slovak Republic . . . . . . . . . . . . . . . . . . . . . . . 43
+PART EIGHT: THE OFFICE OF THE PUBLIC PROSECUTION OF THE SLOVAK REPUBLIC AND THE PUBLIC DEFENDER OF RIGHTS . . . . . . . . . . . . . . . . . . . . . 47
+Chapter One: OFFICE OF THE PUBLIC PROSECUTORS IN THE SLOVAK REPUBLIC . . . . . 47
+Chapter Two: PUBLIC DEFENDER OF RIGHTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+PART NINE: TRANSITORY AND FINAL PROVISIONS . . . . . . . . . . . . . . . . . . . 48
 
 Slovakia 1992 (rev. 2014)
 
@@ -244,9 +279,9 @@ The state symbols of the Slovak Republic are the state emblem, the state flag, t
 
 - The state  flag  of  the  Slovak  Republic  has  three  horizontal  stripes:  white,  blue and red. The state emblem of the Slovak Republic appears in the left half of the flag.
 
-- The state seal of the Slovak Republic consists of the state emblem encircled by the inscription "Slovensk republika".
+- The state seal of the Slovak Republic consists of the state emblem encircled by the inscription "Slovenská republika".
 
-- The national anthem of the Slovak Republic is composed of the first two stanzas of the hymn "Nad Tatrou sa blyska".
+- The national anthem of the Slovak Republic is composed of the first two stanzas of the hymn "Nad Tatrou sa blýska".
 
 - Modifications and use of the state symbols shall be determined by law.
 
@@ -1900,6 +1935,8 @@ Page 30
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 19:57
+
 Minimum age of head of state
 
 Eligibility for head of state
@@ -1941,8 +1978,6 @@ Head of state replacement
 #### Article 105
 
 - If  the  President is  not  elected,  or  if  the  office  of  the  President  is  vacant  and  a new  president  is  not  elected  yet,  or  if  a  new  President  is  elected  but  before taking the oath, or if  the  President  is  unable  to  discharge  his  or  her  office  for serious reasons, the powers of the President pursuant to Art. 102, para. 1,letters a),  b),  c),  k),  n)  and  o)  shall  pass  to  the  Government  of  the  Slovak  Republic.  In these cases the Government may vest some of the powers of the President in the Prime Minister. During such time the Prime Minister shall act as Commander-in-Chief of the armed forces. Powers of the President according to Art. 102, para. 1, letters d), g), h), l), m), s) and t) shall pass to the President of the National Council of the Slovak Republic at such time.
-
-PDF generated: 17 Jan 2018, 19:57
 
 Slovakia 1992 (rev. 2014)
 
@@ -2018,6 +2053,8 @@ Page 32
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 19:57
+
 - Head of government removal
 
 - Head of government selection
@@ -2086,8 +2123,6 @@ The Government shall be obliged, within thirty days of its formation, to present
 
 - If  the  President  of  the  Slovak  Republic  recalls  the  government  in  accordance with section (1), then by a decision promulgated in the Collection of Laws, the President shall charge that government with further performing its competences until a new government is appointed, but solely those competences  set  out  in  Article  119.a.b.e.f.m.n.o.p.r;  in  addition,  however,  the performance of government competences set out in Article 119.m.r requires the prior approval of the President in each individual case.
 
-PDF generated: 17 Jan 2018, 19:57
-
 Slovakia 1992 (rev. 2014)
 
 Page 33
@@ -2097,6 +2132,8 @@ Page 33
 [[START OF PAGE 34]]
 
 constituteproject.org
+
+PDF generated: 17 Jan 2018, 19:57
 
 - Cabinet removal
 
@@ -2148,8 +2185,6 @@ The Government shall decide as a body:
 
 - on draft state budget and final state budgetary account,
 
-PDF generated: 17 Jan 2018, 19:57
-
 Slovakia 1992 (rev. 2014)
 
 Page 34
@@ -2159,6 +2194,8 @@ Page 34
 [[START OF PAGE 35]]
 
 constituteproject.org
+
+PDF generated: 17 Jan 2018, 19:57
 
 - International law
 
@@ -2207,8 +2244,6 @@ constituteproject.org
 - on  despatching  the  military  forces  outside  of  the  territory  of  the  Slovak Republic if it regards performance of obligations resulting from international treaties on joint defence against attack for a maximum period of60  days;  the  Government  shall  announce  this  decision  without  undue delay to the National Council of the Slovak Republic,
 
 - on other issues if the law provides so.
-
-PDF generated: 17 Jan 2018, 19:57
 
 #### Article 120
 
@@ -2374,6 +2409,8 @@ Page 38
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 19:57
+
 · Constitutional court powers
 
 - Constitutional interpretation
@@ -2419,8 +2456,6 @@ The  Constitutional  Court  shall give an interpretation of  the  Constitution  
 - The Constitutional Court decides on complaint against a decision of the Judicial Council of the Slovak Republic pursuant to Article 154d.2.
 
 - The decisions of the Constitutional Court according to the preceding paragraphs shall  be  binding  for  all  bodies  of  public  authority,  natural  persons  or  legal persons  whom they concern. The respective  body  of  public  authority  shall  be obliged, without undue delay, to ensure their enforcement. Details shall be laid down by law.
-
-PDF generated: 17 Jan 2018, 19:57
 
 Slovakia 1992 (rev. 2014)
 
@@ -2594,6 +2629,8 @@ Page 42
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 19:57
+
 · Judicial independence
 
 · Establishment of judicial council
@@ -2641,8 +2678,6 @@ constituteproject.org
 - to  issue  an  opinion  on  whether  the  candidate  for  the  appointment  to  the judicial office meets the eligibility requirements that guarantee that he will exercise the judicial office properly,
 
 - to  submit  to  the  President  of  the  Slovak  Republic  names  of  candidates proposed to be appointed judges and names of judges to be removed,
-
-PDF generated: 17 Jan 2018, 19:57
 
 Slovakia 1992 (rev. 2014)
 
@@ -2697,6 +2732,8 @@ Page 44
 [[START OF PAGE 45]]
 
 constituteproject.org
+
+PDF generated: 17 Jan 2018, 19:57
 
 · Jury trials required
 
@@ -2753,8 +2790,6 @@ constituteproject.org
 - The President of the Slovak Republic shall appoint and recall judges on the basis of a proposal of the Judiciary Council of the Slovak Republic; they are appointed without time restrictions.
 
 - Any citizen of the Slovak Republic who is eligible to become a member of the National Council of the Slovak Republic, has reached the age of 30, completed a legal education and meets the eligibility requirements for the judicial office that guarantee that the judicial office will be exercised properly, may be appointed a judge. Further requirements regarding the appointment to the judicial office and promotion, as well as the scope of the immunity of judges, shall be laid down by law.
-
-PDF generated: 17 Jan 2018, 19:57
 
 Slovakia 1992 (rev. 2014)
 
@@ -2818,11 +2853,11 @@ Page 46
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 19:57
+
 · Mandatory retirement age for judges
 
 · Attorney general
-
-PDF generated: 17 Jan 2018, 19:57
 
 - The President of the Slovak Republic, on a proposal of the Judicial Council of the Slovak Republic may recall a judge
 
@@ -3000,7 +3035,7 @@ The following laws are hereby abrogated:
 
 #### Article 156
 
-This  Constitution  of  the  Slovak  Republic  shall  enter  into  effect  on  the  day  of  its Proclamation except for the following: Article 3, section (2), Article 23, section (4) in the cases of expelling or extraditing an alien; Articles 53 and 84, section (3) in the case of war against another state, Article 86 subsection k) and 1 ) and Article 102 subsection  g)  in  the  case  of  academic  appointments  of  university  professors, presidents of universities, and promotions of military generals, Article  102, subsections  j)  and  k)  and  Article  152  section  1,second  clause  in  the  case  of constitutional statutes, laws and other general binding rules issued by the appropriate  authorities  in  the  Czech  and  Slovak  Federal  Republic  which  shall become operative concurrently with the appropriate constitutional changes in the Czech and Slovak Republic under the provisions of this Constitution.
+This  Constitution  of  the  Slovak  Republic  shall  enter  into  effect  on  the  day  of  its Proclamation except for the following: Article 3, section (2), Article 23, section (4) in the cases of expelling or extraditing an alien; Articles 53 and 84, section (3) in the case of war against another state, Article 86 subsection k) and l) and Article 102 subsection  g)  in  the  case  of  academic  appointments  of  university  professors, presidents of universities, and promotions of military generals, Article  102, subsections  j)  and  k)  and  Article  152  section  1,second  clause  in  the  case  of constitutional statutes, laws and other general binding rules issued by the appropriate  authorities  in  the  Czech  and  Slovak  Federal  Republic  which  shall become operative concurrently with the appropriate constitutional changes in the Czech and Slovak Republic under the provisions of this Constitution.
 
 Slovakia 1992 (rev. 2014)
 
@@ -3016,6 +3051,54 @@ PDF generated: 17 Jan 2018, 19:57
 
 ## Topic index
 
+### A
+
+Access to higher education 13
+Accession of territory 3
+Approval of general legislation 25
+Attorney general 30, 47
+
+### B
+
+Budget bills 24, 34
+
+### C
+
+Cabinet removal 25, 29, 33, 34
+Cabinet selection 29, 33
+Central bank 16
+Claim of universal suffrage 10, 21
+Compulsory education 13
+Conditions for revoking citizenship 4
+Constitution amendment procedure 24
+Constitutional court powers 28, 29, 32, 35, 36, 37, 38, 39
+Constitutional court removal 30, 42
+Constitutional court selection 30, 41
+Constitutional court term length 41
+Constitutional court term limits 41
+Constitutional interpretation 36, 39
+Constitutionality of legislation 37, 40
+Customary international law 3
+
+### D
+
+Deputy executive 33
+Designation of commander in chief 30
+Dismissal of the legislature 23, 29, 32
+Duty to obey the constitution 3
+Duty to serve in the military 7, 9
+
+### E
+
+Eligibility for cabinet 21, 32
+Eligibility for const court judges 21, 41
+Eligibility for first chamber 21
+Eligibility for head of government 21, 33
+Eligibility for head of state 31
+Eligibility for ordinary court judges 21, 45
+Eligibility for supreme court judges 21, 45, 46
+Emergency provisions 15, 29, 30, 35, 39
+
 Slovakia 1992 (rev. 2014)
 
 Page 52
@@ -3027,6 +3110,54 @@ Page 52
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 19:57
+
+Equality regardless of creed or belief 5
+Equality regardless of financial status 5
+Equality regardless of gender 5
+Equality regardless of language 5
+Equality regardless of nationality 5
+Equality regardless of origin 5
+Equality regardless of parentage 5
+Equality regardless of political party 5
+Equality regardless of race 5
+Equality regardless of religion 5
+Equality regardless of skin color 5
+Equality regardless of social status 5
+Establishment of cabinet/ministers 32
+Establishment of constitutional court 36
+Establishment of judicial council 24, 30, 35, 40, 43, 45, 46
+Extraordinary legislative sessions 23
+
+### F
+
+Federal review of subnational legislation 37
+First chamber selection 21
+Foreign affairs representative 28, 29
+Free education 13
+Freedom of assembly 10
+Freedom of association 10
+Freedom of expression 9
+Freedom of movement 8
+Freedom of opinion/thought/conscience 9
+Freedom of press 9
+Freedom of religion 9
+
+### G
+
+General guarantee of equality 5
+
+### H
+
+Head of government decree power 35
+Head of government removal 25, 29, 33, 34
+Head of government selection 29, 33
+Head of government term length 21, 34
+Head of government's role in the legislature 21, 32
+Head of state immunity 32
+Head of state powers 29
+Head of state removal 26, 32, 39
+Head of state replacement 31
+Head of state selection 28
 
 Slovakia 1992 (rev. 2014)
 
@@ -3040,6 +3171,58 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 19:57
 
+Head of state term length 28
+Head of state term limits 31
+Human dignity 5, 7
+
+### I
+
+Immunity of legislators 22
+Inalienable rights 5, 8
+Initiation of general legislation 25
+Integration of ethnic communities 3, 11
+International law 3, 4, 6, 19, 23, 24, 25, 29, 30, 35, 36, 37, 38, 40, 41, 45, 46, 49, 50
+International organizations 4, 21, 24, 39, 41
+
+### J
+
+Judicial independence 43, 45
+Jury trials required 45
+
+### L
+
+Leader of first chamber 25, 26
+Legal status of treaties 4, 35, 36, 37, 50
+Legislative committees 22, 23, 25, 26
+Legislative oversight of the executive 22, 24
+Length of legislative sessions 23
+Limits on employment of children 12
+
+### M
+
+Mandatory retirement age for judges 47
+Min age of const court judges 41
+Minimum age for first chamber 21
+Minimum age of head of government 21, 33
+Minimum age of head of state 31
+Minimum age of ordinary court judges 45
+Minimum age of supreme court judges 45
+Motives for writing constitution 3
+Municipal government 16, 17, 18
+
+### N
+
+Name/structure of executive(s) 28, 32
+National anthem 5
+National capital 5
+National flag 5
+
+### O
+
+Oaths to abide by constitution 21, 31, 33, 41, 46
+Official or national languages 4
+Official religion 3
+
 Slovakia 1992 (rev. 2014)
 
 Page 54
@@ -3051,6 +3234,54 @@ Page 54
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 19:57
+
+Ombudsman 40, 48
+Ordinary court selection 30, 43, 45
+Ordinary court term length 45
+Outside professions of legislators 21
+Ownership of natural resources 3
+
+### P
+
+Political theorists/figures 3
+Power to declare/approve war 24, 25, 30, 35
+Power to deport citizens 9
+Power to pardon 30
+Powers of cabinet 34, 35, 36
+Presumption of innocence in trials 15
+Principle of no punishment without law 7, 15
+Prohibition of capital punishment 6
+Prohibition of cruel treatment 6
+Prohibition of double jeopardy 15
+Prohibition of slavery 7
+Prohibition of torture 6
+Protection from ex post facto laws 15
+Protection from expropriation 8
+Protection from false imprisonment 14
+Protection from self-incrimination 14, 15
+Protection from unjustified restraint 7
+Protection of environment 8, 9, 14
+Protection of language use 11
+Protection of stateless persons 16
+Provisions for intellectual property 13
+Public or private sessions 23
+
+### Q
+
+Quorum for legislative sessions 23
+
+### R
+
+Radio 9
+Reference to art 13, 18, 32, 42, 43, 46
+Reference to country's history 3
+Reference to science 13, 18, 32, 42, 43, 46
+Referenda 4, 24, 26, 30, 32, 38, 39
+Regional group(s) 4
+Regulation of evidence collection 8
+Regulation of political parties 39
+Removal of individual legislators 22
+Requirements for birthright citizenship 4
 
 Slovakia 1992 (rev. 2014)
 
@@ -3064,7 +3295,51 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 19:57
 
+Requirements for naturalization 4
+Restrictions on political parties 10
+Restrictions on the armed forces 12, 16, 21
+Restrictions on voting 10
+Right of petition 10
+Right to choose occupation 11
+Right to competitive marketplace 16
+Right to conscientious objection 9
+Right to counsel 14, 15
+Right to culture 11, 13
+Right to equal pay for work 12
+Right to establish a business 11
+Right to examine evidence/ witnesses 15
+Right to fair trial 14, 15
+Right to form political parties 10
+Right to found a family 13
+Right to health care 13
+Right to information 9
+Right to join trade unions 10, 12
+Right to life 6
+Right to marry 13
+Right to overthrow government 11
+Right to own property 8
+Right to pre-trial release 7
+Right to privacy 6, 7, 8
+Right to protect one's reputation 7
+Right to public trial 15
+Right to reasonable standard of living 12, 13
+Right to renounce citizenship 4
+Right to rest and leisure 12
+Right to safe work environment 12
+Right to self determination 3, 11
+Right to speedy trial 15
+Right to strike 12
+Right to work 11
+Rights of children 12, 13
+Rights of debtors 7
+
 ### S
+
+Scheduling of elections 10, 31
+Secession of territory 3
+Secret ballot 10, 21, 28
+Selection of active-duty commanders 29
+Size of first chamber 21
 
 Slovakia 1992 (rev. 2014)
 
@@ -3077,6 +3352,36 @@ Page 56
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 19:57
+
+Source of constitutional authority 3
+State operation of the media 9
+State support for children 12
+State support for the disabled 12
+State support for the elderly 12
+Structure of legislative chamber(s) 21
+Structure of the courts 45
+Subsidiary unit government 16, 17, 18
+Supreme court selection 30, 43, 44, 45
+Supreme court term length 45, 46
+Supreme court term limits 46
+Supreme/ordinary court judge removal 30, 43, 44, 45, 46
+
+### T
+
+Telecommunications 8, 9
+Television 9
+Term length for first chamber 21
+Treaty ratification 4, 23, 24, 25, 29, 35
+Trial in native language of accused 14
+Type of government envisioned 3
+
+### U
+
+Ultra-vires administrative actions 14
+
+### V
+
+Veto override procedure 23, 25
 
 Slovakia 1992 (rev. 2014)
 
