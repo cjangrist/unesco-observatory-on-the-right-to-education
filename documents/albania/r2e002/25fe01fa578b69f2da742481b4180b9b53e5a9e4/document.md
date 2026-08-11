@@ -10,11 +10,55 @@ December 2005
 
 [[START OF PAGE 2]]
 
-ACRONYMS USED IN THIS REPORT INTRODUCTION
-
-PART A
-
 # CONTENTS
+
+ACRONYMS USED IN THIS REPORT
+INTRODUCTION
+PART A
+PRIORITY DEVELOPMENT ISSUES FOR PRE-UNIVERSITY EDUCATION
+A.1 GOVERNANCE: REFORMING AND STRENGTHENING MANAGEMENT CAPACITY
+A.1.1 Reforming the Central Office
+A.1.2 Decentralization
+A.1.3 School Autonomy
+A.1.4 Educational Management Information System
+A.1.5 Reporting and Quality Assurance
+A.2 IMPROVING THE QUALITY OF THE TEACHING AND LEARNING PROCESS
+A.2.1 Curriculum Development
+National Curriculum Framework
+Rationalization of Subjects
+Content Articulation /Vertical and Horizontal Integration
+Structure of the Pre-university Education Curriculum
+Student Choice and Inclusive Curriculum
+Vocational Education Curriculum
+A.2.2 Teacher Development
+Better Forecasting of Teacher Demand
+Strengthening the Teacher Development Centre
+Teacher Training Curriculum Content and Processes
+Conditions of Employment and Merit-based Incentive Schemes
+Quality Assurance and Teacher Registration
+In-service Training and Professional Networks
+A.2.3 Textbook Development
+Better Selection of Content and Instructional Design Issues
+Coordinating the Demand and Supply of Textbooks
+Managing the Supply of Alternative Textbooks
+Privatization
+Cost Recovery
+A.2.4 Alternative Teaching Resources
+A.2.5 Examinations and Monitoring
+Strengthening Capacity
+Monitoring Quality and International Benchmarking
+Developing and Managing National Examinations
+A.3 FINANCING PRE-UNIVERSITY EDUCATION
+A.3.1 Composition of Education Finance
+A.3.2 Instruments and Processes for Transfer of Funds
+Block Grants
+Local Government Funding
+Recurrent Expenditure Managed by the Central Office of the MOES.
+Accountability and Transparency
+Budget Planning Capacity
+A.3.3 Increasing Efficiency in the Sub-sector Funding
+Communication and Information Sharing
+Non-public Funding of Education
 
 - 2 -
 
@@ -42,9 +86,9 @@ Funds Raised by Schools Tax Exemptions for Educational Investments Reallocation 
 
 - A.4.6 Research-based and Data-driven Policy Development
 
-- 5.  Development  of  vocational  education  in  the  context  of  overall  pre-university  education development strategy
+- A. 5. Development of vocational education in the context of overall pre-university education development strategy
 
-- 5. 1. Major characteristics and the significant problems surrounding Vocational Education (VE)
+- A. 5. 1. Major characteristics and the significant problems surrounding Vocational Education (VE)
 
 - A.5.2. Objective goals of Vocational Education
 
@@ -92,7 +136,7 @@ PART E
 
 RESOURCE INPUT MATRICES
 
-- E.1 GOVERNANCE: REFORMING AND STRENGTHENING MANAGEMENT CAPACITYRESOURCE INPUT MATRIX
+- E.1 GOVERNANCE: REFORMING AND STRENGTHENING MANAGEMENT CAPACITY-RESOURCE INPUT MATRIX
 
 - E.2 IMPROVING THE QUALITY OF THE TEACHING AND LEARNING PROCESS- RESOURCE INPUT MATRIX
 
@@ -107,6 +151,28 @@ E.3 FINANCING PRE-UNIVERSITY EDUCATION- RESOURCE INPUT MATRIX
 [[START OF PAGE 4]]
 
 # ACRONYMS USED IN THIS REPORT
+
+EFA/ FTI Education for All/Fast Track Initiative
+EMIS Educational Management Information System
+EU European Union
+GDP Gross Domestic Product
+INGO International Non-Government Organization
+ISCED International Standard Classification of Education
+LSMS The Living Standards Measurement Survey
+MODLG Ministry of Decentralization and Local Government
+MOES Ministry of Education and Science
+NCEA National Centre for Evaluation and Assessment
+NES National Education Strategy
+NSSED National Strategy for Socio-Economic Development
+NGO Non-Government Organization
+OECD Organization for Economic Co-operation and Development
+PAPD Planning and Policy Development
+PBM Performance-based management
+VE Vocational Education
+VET Vocational Education and Training
+NCVET National Council of VET
+NAVET National Agency of VET
+WB World Bank
 
 - 4 -
 
@@ -230,13 +296,17 @@ The  unit  responsible  for  collecting  and  processing  information  should  b
 
 Quality  Assurance  of  the  services  requires  a  fundamental  philosophical  shift, which is not only concerned with policy-making as such, but also with the monitoring
 
-QA should have both internal and external elements. Internal QA can be used by both individuals and  organizational units.  It  provides  immediate  feedback  and formative evaluation outcomes and is a powerful tool which needs to be utilized more. To  complement  the  self-audit,  there  has  to  be  periodic  external  monitoring  (External QA)  which  will  provide  a  national  and  international  comparisons  of  the  quality  of performance of education planners, administrators etc. The dual system of internal and external  QA mechanisms will need to be built into the management system and will need to have multiple pathways for reporting and auditing to increase transparency. The  dual  monitoring  of  school  performance  creates  the  possibility  of  not  only undertaking effective improvement actions in the form of assistance from specialized local and national units but also bringing to account those responsible. If a school fails to  achieve  its  standards  and  student  achievement  objectives  which  are  specified  and defined in the school's development plans, the whole school management support team is  responsible  and,  for  example,  the  Local  Government  could  limit  the  functions delegated  to  the  school  and  disband  the  school  board.  Currently,  the  inspectorate  is being  reformed  to  operate  at  two  levels  (central  and  local)  for  the  pre-university education system.
+QA should have both internal and external elements. Internal QA can be used by both individuals and organizational units. It provides immediate feedback and formative evaluation outcomes and is a powerful tool which needs to be utilized more. To complement the self-audit, there has to be periodic external monitoring (External QA) which will provide a national and international comparisons of the quality of performance of education planners, administrators etc. The dual system of internal and external QA mechanisms will need to be built into the management system and will need to have multiple pathways for reporting and auditing to increase transparency.
+
+The dual monitoring of school performance creates the possibility of not only undertaking effective improvement actions in the form of assistance from specialized local and national units but also bringing to account those responsible. If a school fails to achieve its standards and student achievement objectives which are specified and defined in the school’s development plans, the whole school management support team
 
 - 9 -
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+is responsible and, for example, the Local Government could limit the functions delegated to the school and disband the school board. Currently, the inspectorate is being reformed to operate at two levels (central and local) for the pre-university education system.
 
 ### A.2 IMPROVING THE QUALITY OF THE TEACHING AND LEARNING PROCESS
 
@@ -376,7 +446,7 @@ Teacher registration should be a prerequisite for employment as a teacher. The C
 
 This is perhaps one of the most critical issues confronting the MOES due to the urgent need to train the large number of currently untrained teachers and to upgrade the  skills  of  others  with  regard  to  developing  competencies  in  new  and  innovative teaching  methods.    The  ongoing  professional  development  of  teachers  needs  to  be strategically aligned with their needs. Such training needs to focus on aspects such as the new attributes and subject knowledge that teachers need along with exposure to the new teaching and learning models.
 
-To  ensure  quality  and  efficiency,  alternative  modes  of  delivering  in-service training  need  to  be  considered.  For  example,  the  training  could  involve  the  use  of intensive  block  training,  distance  learning,  or  a  hybrid  of  these  modes.  Further,  inservice training does not need to be restricted to universities with bodies such as NonGovernment  Organizations  (NGOs),  international  agencies,  and  teacher  professional associations becoming involved.
+To ensure quality and efficiency, alternative modes of delivering in-service training need to be considered. For example, the training could involve the use of intensive block training, distance learning, or a hybrid of these modes. Further, in-service training does not need to be restricted to universities with bodies such as Non-Government Organizations (NGOs), international agencies, and teacher professional associations becoming involved.
 
 - 15 -
 
@@ -418,7 +488,7 @@ Currently, students in pre-university education are fortunate to have textbooks 
 
 #### A.2.4  Alternative Teaching Resources
 
-The current key resource for pre-university education is the class text-books with teachers  teaching  only  the  content  of  textbook  with  little  or  no  consideration  of alternative  resources,  including  the  use  of  ICTs  which  is  very  limited  in  the  preuniversity  education  program.  To  redress  these  deficits,  there  is  a  need  to  gradually introduce additional textbooks and other reference books by starting classroom libraries and  in  larger  schools  where  it  is  possible  to  establish  proper  libraries  with  internet facilities.
+The current key resource for pre-university education is the class text-books with teachers teaching only the content of textbook with little or no consideration of alternative resources, including the use of ICTs which is very limited in the pre-university education program. To redress these deficits, there is a need to gradually introduce additional textbooks and other reference books by starting classroom libraries and in larger schools where it is possible to establish proper libraries with internet facilities.
 
 The newly created Centre for Teacher Development (CTD) and the Institute for Curriculum and Standards (ICS) should be researching ways to develop and support additional resources for pre-university education. One option for them is to work with and support teachers in the development of examples of good practices which can then be  shared  nationally  with  other  teachers.  They  should  also  be  constantly  engaged  in researching new and innovative practices, teaching and learning resources for different subjects and developing CD-ROMs and/or hard copies of materials for distribution to schools which enjoy no access to Internet.
 
@@ -468,7 +538,7 @@ Since  the  late  nineties,  the  demand  for  capital  expenditure  has  increa
 
 ##### Block Grants
 
-Whatever the process, the system does not appear to be responsive to the changing needs as exemplified by the maintenance issue above. There are other examples: First,  the  increased  categories  of  activities  in  the  pre-university  subsector and distribution of resources among those categories have changed but the total  expenditure  in  education  has  not,  confirming  that  the  system  is  not responsive to the rapidly changing conditions in this sub-sector. And second, the increase  in  internal  and  external  migration  and  the  flexibility  for  students  to attend schools in neighboring regions may pose problems in the area of crossregional funding. To overcome these and similar problems and to be responsive to  the  changing  demands  and  allow  flexibility  and  equity  for  students  and regions,  a  per-capita  funding  model  that  links  directly  to  schools  may  be  an alternative. Rather than using pre-determined amounts, this model is based on actual student numbers which can act as an indicator of the size of the school, the extent of facilities, the number of teacher and support staff that are needed and not necessarily in the amount of money predetermined by way of pragmatic and archaic methods as has been the case up to the present day.
+Whatever the process, the system does not appear to be responsive to the changing needs as exemplified by the maintenance issue above. There are other examples: First, the increased categories of activities in the pre-university sub-sector and distribution of resources among those categories have changed but the total expenditure in education has not, confirming that the system is not responsive to the rapidly changing conditions in this sub-sector. And second, the increase in internal and external migration and the flexibility for students to attend schools in neighboring regions may pose problems in the area of cross-regional funding. To overcome these and similar problems and to be responsive to the changing demands and allow flexibility and equity for students and regions, a per-capita funding model that links directly to schools may be an alternative. Rather than using pre-determined amounts, this model is based on actual student numbers which can act as an indicator of the size of the school, the extent of facilities, the number of teacher and support staff that are needed and not necessarily in the amount of money predetermined by way of pragmatic and archaic methods as has been the case up to the present day.
 
 - 19 -
 
@@ -500,7 +570,7 @@ The presence of such line items will ensure the realization of disbursements as 
 
 ##### Budget Planning Capacity
 
-The current supply model of the education services is reflected in the financing system. One of the key reform assumptions is to shift to a demand- and performancebased model for managing and financing the sub-sector. For this to happen, there is a need to develop capacities at the various levels in the financial system to engage in not only developing detailed budget plans but also implementing and managing the plan.
+The current supply model of the education services is reflected in the financing system. One of the key reform assumptions is to shift to a demand- and performance-based model for managing and financing the sub-sector. For this to happen, there is a need to develop capacities at the various levels in the financial system to engage in not only developing detailed budget plans but also implementing and managing the plan.
 
 #### A.3.2 Increasing Efficiency in the Sub-sector Funding
 
@@ -606,13 +676,13 @@ The MOES has established the PAPD to engage in rigorous analytical work in the a
 
 In the framework of education, the further development and consolidation of the vocational education occupies a conspicuous place in the Government Program. In fact vocational  education  is  considered  to  be  a  top  priority.  The  vocational  education, among other things, aims at encouraging the thorough acquisition of new knowledge and skills, bringing the school closer and closer to the world of work, combating and eliminating  the  exclusion  of  youth  from  the  direct  participation  in  the  social  and economic  life  of  the  country,  promoting  life-long  learning  as  well  as  the  creation  of equal opportunities for all.
 
-In line with Act no. 8872, dated. 29.03.2002, "On Vocational Education and Training in the  Republic  of  Albania',  attendance  at  the  Vocational  Education  schools  takes  place  upon completion of the 9-year compulsory education and consists of these types and levels:
+In line with Act no. 8872, dated. 29.03.2002, "On Vocational Education and Training in the Republic of Albania", attendance at the Vocational Education schools takes place upon completion of the 9-year compulsory education and consists of these types and levels:
 
-- Vocational  education,  typically  noted  for  its  very  practical  nature,  equips pupils with a range of basic and indispensable competences and skills for the intentions of highly qualified vocational activities in a certain profile or craft. It is structured around two levels: First level: lasts for 3 years (equivalent to the 3C category of ISCED-International Standard Classification of Education ). It does not necessarily  end  with  a  Matura,  but  it  awards  a  certificate  of  vocational competences and it allows for a smooth transition or upward transfer to the second level of vocational education in the same profile or craft. Second level, which  lasts  for  2  years,  happens  as  such  upon  completion  of  the  first  level, (equivalent  to  the  category  3A  of  ISCED),  ends  with  a  Matura  and  is accompanied with the release of a certificate testifying to vocational competences and abilities. This level allows for enrolment in university studies in all of the branches on offer.
+a)Vocational education, typically noted for its very practical nature, equips pupils with a range of basic and indispensable competences and skills for the intentions of highly qualified vocational activities in a certain profile or craft. It is structured around two levels: First level: lasts for 3 years (equivalent to the 3C category of ISCED--International Standard Classification of Education). It does not necessarily end with a Matura, but it awards a certificate of vocational competences and it allows for a smooth transition or upward transfer to the second level of vocational education in the same profile or craft. Second level, which lasts for 2 years, happens as such upon completion of the first level, (equivalent to the category 3A of ISCED), ends with a Matura and is accompanied with the release of a certificate testifying to vocational competences and abilities. This level allows for enrolment in university studies in all of the branches on offer.
 
-- Technical  secondary  education  (equivalent  to  category  3A  ISCED),  equips pupils with a general technical-managerial culture and knowledge, capable of organizing and steering vocational activities in a given profile or specialty. It lasts  for  5  years  (after  the  compulsory  education)  and  it  ends  with  a  Matura and the certificate attesting to the technical-vocational competences. It allows students to enroll in university studies after they go through studies at such an educational level.
+b)Technical secondary education (equivalent to category 3A ISCED), equips pupils with a general technical-managerial culture and knowledge, capable of organizing and steering vocational activities in a given profile or specialty. It lasts for 5 years (after the compulsory education) and it ends with a Matura and the certificate attesting to the technical-vocational competences. It allows students to enroll in university studies after they go through studies at such an educational level.
 
-All in all there are 40 purely technical and vocational school across the country. They are for the most part spread out or located in 22 districts, where students attend studies in a range of profiles and apprentices equal to 35. Out of the total number, it's easy to notice that there operate in the rural areas some 3 vocational schools which are oriented towards the agriculture-agribusiness track. The number of students enrolled in the  public  technical-vocational  schools,  including  the  arts,  pedagogical,  sports  and foreign language track schools (termed as social-cultural ones) accounts for around 20 %  of the pupils that attend the general secondary education. This figure is comparatively low, taking note of the fact that in the OECD countries, this figure hovers around the 50 % region. What is more, this figure tends to be even higher in some other western developed countries.
+All in all there are 40 purely technical and vocational school across the country. They are for the most part spread out or located in 22 districts, where students attend
 
 - 26 -
 
@@ -620,13 +690,15 @@ All in all there are 40 purely technical and vocational school across the countr
 
 [[START OF PAGE 27]]
 
+studies in a range of profiles and apprentices equal to 35. Out of the total number, it’s easy to notice that there operate in the rural areas some 3 vocational schools which are oriented towards the agriculture-agribusiness track. The number of students enrolled in the public technical-vocational schools, including the arts, pedagogical, sports and foreign language track schools (termed as social-cultural ones) accounts for around 20 % of the pupils that attend the general secondary education. This figure is comparatively low, taking note of the fact that in the OECD countries, this figure hovers around the 50 % region. What is more, this figure tends to be even higher in some other western developed countries.
+
 #### A.5.2. Major characteristics and the significant problems surrounding Vocational Education (VE)
 
 Despite  the  many  reforming  interventions  undertaken  in  recent  years,  and  in particular with reference to the support provided by the various donors, VE in Albania, aside  from  any  noteworthy  positive  marks  of  renewal  or  recovery,  is  still  enjoying  a low-profile reputation and is continuing to fall short of playing the intended role in the current and expected developments in the country.
 
 The VE today is still exhibiting the following characteristics and issues:
 
--VE  is  still  considered  today  to  be  a  'school-based  system',  where  the theoretical  and  practical  preparation  of  pupils  is  fulfilled  mainly  in  the facilities of the vocational school and, where possible and permissible, within the spaces of an enterprise.
+-VE is still considered today to be a “school-based system”, where the theoretical and practical preparation of pupils is fulfilled mainly in the facilities of the vocational school and, where possible and permissible, within the spaces of an enterprise.
 
 -The very content of vocational qualifications is varied in nature depending on the direction/profile and levels, but in general, it is structured as follows: (a) relating to the 3 year level, 34% belongs to general culture, 33 % vocational theory and 33 % vocational practicum and (b) for the 5 year level, 40 % turns out  to  be  of  general  culture,  35%  vocational  theory  and  25%  vocational practicum.
 
@@ -658,7 +730,7 @@ The VE today is still exhibiting the following characteristics and issues:
 
 #### A.5.3. Objective goals of Vocational Education
 
-In view of the coming decade the Vocational Education (VE) should be oriented more and more towards a systematic reform. It should respond to the ever changing needs of VE in a system capable of adapting to the uncertainty and in sustainability of employment  underpinning  the  changing  demands  of  the  labor  markets.  This  reform should go beyond the purely institutional transformations and not fall short of such a target. As such it will call for radical changes affecting the vision, the set of attitudes and behaviors of all people, be they stakeholders or various social partners.
+In view of the coming decade the Vocational Education (VE) should be oriented more and more towards a systematic reform. It should respond to the ever changing needs of VE in a system capable of adapting to the uncertainty and in sustainability of employment underpinning the changing demands of the labor markets. This reform
 
 - 28 -
 
@@ -666,14 +738,16 @@ In view of the coming decade the Vocational Education (VE) should be oriented mo
 
 [[START OF PAGE 29]]
 
-The actual development trends in VE should be oriented towards goals that lead up to the establishment of a far more attractive VE, that offers access to all interested parties and far bigger employment opportunities allowing for transition to the higher levels ( ex. tertiary level). VE should be elevated is such a position as to facilitate any immediate reaction to the developments and the demands of the labor market at the regional,  national  and  local  level.  It  will  have  to  be  effective  and  be  based  on  a partnership model that engages in all its activities all of the stakeholders (government, social partners and communities). At the basis of it all should be placed the underlying concept of life-long learning. Such a system should help establish the opportunity for the  accumulation,  transferring  and  recognition  of  all  credits  gained  and  obtained  in different forms and manners. Step by step it will have to fit in snugly with the level of qualifications already acknowledged and accepted by the European Union.
+should go beyond the purely institutional transformations and not fall short of such a target. As such it will call for radical changes affecting the vision, the set of attitudes and behaviors of all people, be they stakeholders or various social partners.
 
-Generally speaking, it should be pointed out that any developments in VE, being an  integral  part  of  Pre-university  Education,  will  be  realized  in  fine  tune  with Government Program and the prime objectives of 'National Strategy for the Development of Pre-university Education'. The following set of objectives in VE take due account of the developments in recent years, not only in Albania, but also in the region and beyond. At the same time they make special reference to the most important documents published by EU that enjoy a relevance to the specific features of the VE sector.
+The actual development trends in VE should be oriented towards goals that lead up to the establishment of a far more attractive VE, that offers access to all interested parties and far bigger employment opportunities allowing for transition to the higher levels ( ex. tertiary level). VE should be elevated is such a position as to facilitate any immediate reaction to the developments and the demands of the labor market at the regional, national and local level. It will have to be effective and be based on a partnership model that engages in all its activities all of the stakeholders (government, social partners and communities). At the basis of it all should be placed the underlying concept of life-long learning. Such a system should help establish the opportunity for the accumulation, transferring and recognition of all credits gained and obtained in different forms and manners. Step by step it will have to fit in snugly with the level of qualifications already acknowledged and accepted by the European Union.
+
+Generally speaking, it should be pointed out that any developments in VE, being an integral part of Pre-university Education, will be realized in fine tune with Government Program and the prime objectives of “National Strategy for the Development of Pre-university Education”. The following set of objectives in VE take due account of the developments in recent years, not only in Albania, but also in the region and beyond. At the same time they make special reference to the most important documents published by EU that enjoy a relevance to the specific features of the VE sector.
 
 ##### 1. From  the  structural  perspective  of  the  VE  system:
 increasing  the  flexibility  of  the choice  of  offers,  admission  opportunities,  advancement  and  vertical  and  horizontal mobility ( among the levels and profiles) in VE, through:
 
-- Establishment of a National Framework of Vocational Qualifications (NFVQ), which will consist of:
+a) Establishment of a National Framework of Vocational Qualifications (NFVQ), which will consist of:
 
 -Levels of vocational qualifications and benchmarks (descriptive figures) of these levels from the perspective of vocational standards.
 
@@ -683,7 +757,7 @@ increasing  the  flexibility  of  the choice  of  offers,  admission  opportunit
 
 -Description of Certificates  for  the  vocational  qualifications  recognized  at the national and international level.
 
-- Adapting and adjusting the structure of the VE system relying mostly on NFVQ and taking into account the recommending levels of European Framework of Qualifications;
+b) Adapting and adjusting the structure of the VE system relying mostly on NFVQ and taking into account the recommending levels of European Framework of Qualifications;
 
 -Entry  level  into  the  work  sector,  which  awards  certificates  on  the  basic vocational competences;
 
@@ -695,27 +769,27 @@ increasing  the  flexibility  of  the choice  of  offers,  admission  opportunit
 
 -The  level  of  qualified  employee/worker,  which  offers  certificates  of  the vocational  competences;  the  technical/managerial  level  which  offers  the diploma of the technical Matura.
 
-- Establishment of a special cycle in order to complete the general culture of pupils who complete the level of the qualified worker in order to offer the diploma of the technical Matura;
+c) Establishment of a special cycle in order to complete the general culture of pupils who complete the level of the qualified worker in order to offer the diploma of the technical Matura;
 
-- Establishment  of  the  post-secondary  vocational-oriented  cycle  for  pupils who  complete  the  general  secondary  education  and  who  seek  to  obtain  a vocational qualification.
+d) Establishment of the post-secondary vocational-oriented cycle for pupils who complete the general secondary education and who seek to obtain a vocational qualification.
 
-From the quantitative viewpoint, the major indicator of expected developments during  this  period  will  be  doubling  the  drawing-in  rate  of  pupils  in  the  vocationaltechnical  and  social-cultural  schools,  from  20  %,  the  current  rate,  of  secondary education to about 40 % figure.
+From the quantitative viewpoint, the major indicator of expected developments during this period will be doubling the drawing-in rate of pupils in the vocational-technical and social-cultural schools, from 20 %, the current rate, of secondary education to about 40 % figure.
 
 ##### 2. From  the  curriculum  perspective  of  VE:
 Modernizing  the  curricula  model  in order  to  align  it  with  the  demands  of  the  labor  market  and  increasing  or  raising  the level of flexibility, though the following:
 
-- Institutionalizing the two-tier curriculum structure of VET (decentralized), with curricula  framework (  as  a  national  standard  of  the  relevant  vocational qualification) drawn up/developed at the central level and with a school-based curricula ,  based on the respective curricula framework, on the real demands of the labor market and the real opportunities of schools;
+a) Institutionalizing the two-tier curriculum structure of VET (decentralized), with curricula framework ( as a national standard of the relevant vocational qualification) drawn up/developed at the central level and with a school-based curricula, based on the respective curricula framework, on the real demands of the labor market and the real opportunities of schools;
 
-- The  gradual  modularization  of  the  VE  curricula in order  to  facilitate  the integration  of  vocational  competences  and  occupational  standards  and  to facilitate the accumulation, transferring and recognition of credits earned by pupils;
+b) The gradual modularization of the VE curricula in order to facilitate the integration of vocational competences and occupational standards and to facilitate the accumulation, transferring and recognition of credits earned by pupils;
 
-- Institutionalizing a methodology of drafting the VE curricula that is based on the occupation  analysis,  which  considers  the  compilation  of  curricula  as  an ongoing and multi-faceted process and which commits all interested persons in this process.
+c) Institutionalizing a methodology of drafting the VE curricula that is based on the occupation analysis, which considers the compilation of curricula as an ongoing and multi-faceted process and which commits all interested persons in this process.
 
-- Supporting the VE curricula with 'integral textbooks' which are to be in use for a relatively long period of time, by a huge number of pupils for all levels and  directions  by  helping  reduce  considerably  the  costs  incurred  by  their production;
+d) Supporting the VE curricula with “integral textbooks” which are to be in use for a relatively long period of time, by a huge number of pupils for all levels and directions by helping reduce considerably the costs incurred by their production;
 
 ##### 3. From the institutional perspective:
 Development of institutional mechanisms for the administration of new functions and support given to the current functions of VE through:
 
-- Empowering the roles of National Council of VET (specialized committees and the respective secretariat) as a three-party consultative body (government,
+a) Empowering the roles of National Council of VET (specialized committees and the respective secretariat) as a three-party consultative body (government,
 
 - 30 -
 
@@ -725,7 +799,7 @@ Development of institutional mechanisms for the administration of new functions 
 
 employer, and employee) in support of developing the reforming policies on VET.
 
-- Establishing  the  National  Agency  of  VET in  order  to  carry  out  the  following cross-sector functions. There seems to be some failure towards accomplishing such functions on the part of central and VET institutions.
+b) Establishing the National Agency of VET in order to carry out the following cross-sector functions. There seems to be some failure towards accomplishing such functions on the part of central and VET institutions.
 
 -Constantly  drafting  and  reviewing  the  National  List  of  Vocations  and  the accompanying descriptions;
 
@@ -739,13 +813,13 @@ employer, and employee) in support of developing the reforming policies on VET.
 
 -Establishing  and  updating  the  Databank  in  relation  to  NFVQ,  curriculum framework, accreditation, needs for vocational qualifications etc, that relate to VET.
 
-- Empowering the Vocational School boards with social partners ( employers and employees);
+c) Empowering the Vocational School boards with social partners ( employers and employees);
 
-- Establishing  departments (  on  vocational  basis) at  the  vocational  schools,  as units of developing and adapting the curricula at the school level, as well as the internal training of teachers and instructors alike;
+d) Establishing departments ( on vocational basis) at the vocational schools, as units of developing and adapting the curricula at the school level, as well as the internal training of teachers and instructors alike;
 
-- Establishing national  mechanism  on  the vocational orientation and  career counseling, with the support of the social partners.
+e) Establishing national mechanism on the vocational orientation and career counseling, with the support of the social partners.
 
-##### From the human resources perspective of VET:
+##### 4. From the human resources perspective of VET:
 Building teaching and managerial competences of the VE personnel, through:
 
 -Establishing an institutional mechanism on qualification ( pre-service ) on the basis of pedagogy and psychology, of new teachers and instructors of VE;
@@ -763,7 +837,7 @@ Building teaching and managerial competences of the VE personnel, through:
 ##### 5. From the legal-financial perspective.
 Completing and supplementing the normative-legal framework of VE with acts, decisions, ordinances and other regulations with all the relevant reforming changes and transformations in this sector, through:
 
--Drafting  a  special  Act  '  The  national  framework  of  vocational  qualifications', as well as the sub-legal acts in support of this vital and central component to a modern system of VET;
+-Drafting a special Act “ The national framework of vocational qualifications”, as well as the sub-legal acts in support of this vital and central component to a modern system of VET;
 
 -Establishing a legal environment for the development of non-public VE;
 
@@ -778,7 +852,7 @@ Quantitative and qualitative development of the teaching environment and teachin
 
 -Establishing/opening of new schools in those regions where the demand is much  higher  (or  transferring  the  destination  of  some  general  secondary schools  to  vocational  schools).  Of  course  this  will  have  to  be  accompanied with  other  interventions  at  the  school  level  (restructuring  school  buildings, creating  new  workshops  and  renewing  their  equipment  sources,  reviewing the qualifications offered, changes in the school personnel).
 
--Optimizing  the  extent  and  size  of  schools  (establishing  the  regional  and  national vocational schools), in order to better align the supply with the demand and to reduce drastically the costs of such a public service. This means that after the reorganization  process  (the  end  of  2008),  there  will  be  an  increase  in  the number of pupils per school, from 380, the figure as it stands now, to 7001000 pupils. This could be made possible by way of constructions, editions, schools coming under the same roof, freeing up any school space encroached upon by use of force, as well better making use of the existing capacities.
+-Optimizing the extent and size of schools (establishing the regional and national vocational schools), in order to better align the supply with the demand and to reduce drastically the costs of such a public service. This means that after the reorganization process (the end of 2008), there will be an increase in the number of pupils per school, from 380, the figure as it stands now, to 700-1000 pupils. This could be made possible by way of constructions, editions, schools coming under the same roof, freeing up any school space encroached upon by use of force, as well better making use of the existing capacities.
 
 -Institutionalizing  cooperation  among VE, vocational education and business in order to use in a mutual manner the infrastructure of these actors to the intent of better training professionally the pupils and the course attendees.
 
@@ -818,9 +892,9 @@ B.1.1 Reforming the Central Office . | • Clearly define job roles to avoid amb
 
 [[START OF PAGE 35]]
 
-B.1.2 Decentralization | • Develop clear policy guidelines for the MOES functions that will be decentralized • Develop clear guidelines for the regional agencies accepting the decentralized roles • Develop capacity to use data for planning of local level. Develop reporting and accountability process within and across | • MOES central staff • Regional MOES and LGA staff • Other stakeholders • Parents and students | • New policy guidelines approved by cabinet • Percentage of identified tasks managed through DCM • number of training opportunities provided • | • Reluctance to share power • Not sufficient training of personnel • Lack of trust and ownership by stakeholders • Not fully appreciating the complementarity of central and local management responsibilities | • Guidelines and functions to be decentralized approved by 2006 • 50% of agreed functioned decentralized by 2007 • 100% of agreed function decentralized by 2010
+B.1.2 Decentralization | • Develop clear policy guidelines for the MOES functions that will be decentralized • Develop clear guidelines for the regional agencies accepting the decentralized roles • Develop capacity to use data for planning of local level. Develop reporting and accountability process within and across departments | • MOES central staff • Regional MOES and LGA staff • Other stakeholders • Parents and students | • New policy guidelines approved by cabinet • Percentage of identified tasks managed through DCM • number of training opportunities provided • | • Reluctance to share power • Not sufficient training of personnel • Lack of trust and ownership by stakeholders • Not fully appreciating the complementarity of central and local management responsibilities | • Guidelines and functions to be decentralized approved by 2006 • 50% of agreed functioned decentralized by 2007 • 100% of agreed function decentralized by 2010
 --- | --- | --- | --- | --- | ---
-B.1.3 School Autonomy | departments • Develop clear policy guideline for School director and school boards • Develop capacity to prepare school development plans • Establish PTA and encourage parents and community ownership of schools • Develop quality accountability systems • Establish external benchmark-king of quality at all levels | • School directors and teachers • PTA and local community • LGA and other stakeholders | • Number of school directors trained • Number of PTA established and actively supporting the school • Number of school development plans submitted • National benchmarking • Number of Commune leaders trained | • Communities not ready to take on the responsibility • School director and LGA manager not fully trained • Funding mechanism not targeted well • LGA not willing to allocate agreed funds to schools. | • 100 selected school function as autonomous schools by 2006 • 50 % of all school functioning a s autonomous entities by 2010 • 100% of schools are either fully or partly autonomous by 2015.
+B.1.3 School Autonomy | • Develop clear policy guideline for School director and school boards • Develop capacity to prepare school development plans • Establish PTA and encourage parents and community ownership of schools • Develop quality accountability systems • Establish external benchmark-king of quality at all levels | • School directors and teachers • PTA and local community • LGA and other stakeholders | • Number of school directors trained • Number of PTA established and actively supporting the school • Number of school development plans submitted • National benchmarking • Number of Commune leaders trained | • Communities not ready to take on the responsibility • School director and LGA manager not fully trained • Funding mechanism not targeted well • LGA not willing to allocate agreed funds to schools. | • 100 selected school function as autonomous schools by 2006 • 50 % of all school functioning a s autonomous entities by 2010 • 100% of schools are either fully or partly autonomous by 2015.
 B.1.4 Educational Management Information System | • Develop policy framework for EMIS Design • Develop systems specification and support • Identify types of data to be collected and at which locations • Develop access levels and authorization procedures • Develop analysis and reporting procedures and responsible departments • Intensive staff developing and specialized training | • Managers and Policy developers at Central MOES • Managers and Policy developers at Central Regional MOES and LGA • Planning and budgeting officers • Quality monitoring people | • Level of infra- structure and equipment in place. • Extent of training provided to technical staff • Extent of training provided to the professional staff • Quality of data being collected • Types of analysis performed • Quality of data driven reports prepared for policy development | • Inadequate infrastructure and equipment • Not enough and not specialized training provided to local personnel. | • EMIS at Central fully functional by 2006 • EMIS functional at 50% of schools and regional offices by 2008 • EMIS functional at 100% of schools and regional offices by 2010
 
 - 35 -
@@ -877,8 +951,8 @@ B. 3.2 Instruments to Transfer Budget Funds | • Disaggregate block grants into
 
 B.3.3 Increasing Efficiency in the sub- sector | • Communication and information sharing • Attracting Non-public funding into per university education • Approving and /or amending legislations to encourage School Raising Funds • Negotiating Tax Exempts for educational investment. • Through Public dialogue agree on reallocation of education Funds | • MOF, MOES • Interdepartment within MOES • MOES and LG • MOES,LG and community • MOF, MOES, Teacher and School Directors • MOES and other sub-sectors in education | • Agreed information types and process of reporting • MOES approved policy guidelines for supporting and managing non public funded education. • Approved tax exemptions and approved policy guidelines for schools to raise funds • Legislations adopted for redistribution of public sector funds | • Reluctance to share information • Delays caused by govt elections and parliament procedures • Lack of ability to monitor tax exempts may deter considering this option • Sub-sectors unable to agree on terms of redistribution of funds. | • Formal agreement on what information and how it will be shared approved by 2006 • Revised tax policy for education investments and school fund raining approved by 2008 • Redistribution of public funds within the education sector agreed and approved by 2008.
 --- | --- | --- | --- | --- | ---
-B.3.4 Investment Programmes | Capital works- • Review and prioritize maintenance and rehabilitations • Develop transparent system to monitor LG investment contributions • Consider school mapping report before planning new schools Special project- • School based research to develop innovative practices. | • MOES central and regional • LG, Communes Teachers and students • Teachers and students | • Minimum standard for maintenance developed and adopted • System of monitoring and managing regular LG contribution for maintenance • Policy guidelines and funding process approved to promote school based innovations. Number of | • Lack of capacity at local level to undertake the tasks • Not willing to be subjected to public scrutiny • Commune and parent oppose consolidation of schools • Lack of confidence in school teachers to be innovative | • Maintenance guidelines developed and monitors by 2006 • School mapping completed and adopted by 2010 • First round of school based innovation funded by 2006.
-B.3.5 Mentoring and Supporting | • Develop roles and responsibilities between mentor and mentee for supporting with new concepts and processes. • Develop roles and responsibilities for cluster schools and for MOES Regional office networks | • MOES ( finance section) • Educational institutes and agencies • Schools and communes | • mentor/mentee agreement reached • Number of cluster group and office networks • Number of meeting for each of the above | • Not willing to accept mutual responsibilities for making the new finance management work. • Power relationship interfering with implementation. | • Mentoring systems established by 2006 • School cluster and Regional networks established by 2007
+B.3.4 Investment Programmes | Capital works- • Review and prioritize maintenance and rehabilitations • Develop transparent system to monitor LG investment contributions • Consider school mapping report before planning new schools Special project- • School based research to develop innovative practices. | • MOES central and regional • LG, Communes Teachers and students • Teachers and students | • Minimum standard for maintenance developed and adopted • System of monitoring and managing regular LG contribution for maintenance • Policy guidelines and funding process approved to promote school based innovations. | • Lack of capacity at local level to undertake the tasks • Not willing to be subjected to public scrutiny • Commune and parent oppose consolidation of schools • Lack of confidence in school teachers to be innovative | • Maintenance guidelines developed and monitors by 2006 • School mapping completed and adopted by 2010 • First round of school based innovation funded by 2006.
+B.3.5 Mentoring and Supporting | • Develop roles and responsibilities between mentor and mentee for supporting with new concepts and processes. • Develop roles and responsibilities for cluster schools and for MOES Regional office networks | • MOES ( finance section) • Educational institutes and agencies • Schools and communes | • Number of mentor/mentee agreement reached • Number of cluster group and office networks • Number of meeting for each of the above | • Not willing to accept mutual responsibilities for making the new finance management work. • Power relationship interfering with implementation. | • Mentoring systems established by 2006 • School cluster and Regional networks established by 2007
 
 - 40 -
 
@@ -886,13 +960,13 @@ B.3.5 Mentoring and Supporting | • Develop roles and responsibilities between 
 
 [[START OF PAGE 41]]
 
-### B4   CAPACITY BUILDING AND HUMAN RESOURCE DEVELOPMENT-THE CONCEPTUAL SHIFT
+### B4   CAPACITY BUILDING AND HUMAN RESOURCE DEVELOPMENT—THE CONCEPTUAL SHIFT
 
 Key issue s | Objectives | Beneficiaries | Monitoring indicators | Risks & assumptions | Proposed timeline
 --- | --- | --- | --- | --- | ---
 B.4.1 Cross Sector Service | • Engage others sectors in planning per university education • Develop national ownership of the education reform • Develop education as a tool to support national economic and social development | • Parents and students • Planners in all line ministries • Community and economic stakeholders • MOES and LG | • Cross sector ministerial advisory committee established • Conduct cross sector debates and discussion forums | • Other sectors unwilling to engage • Education experts not willing to share planning with other sectors | • Guidelines for cross sector engagement approves by 2006.
-B.4.2 Rationalizing schools | • Develop public consciousness that quality and quantity of schools have cost • Quality education may need to over-ride local government boundaries. • Review National and Local objectives to meet | • MOES Central and Regional • School directors and teachers • Parents and students | • Conduct public forum to debate at national level • Conduct public forum to debate at local government level | • Reluctance to share with adjacent regions/ Communes • Not appreciating the value of quality over quality | • Initial forums established in 2006 • Provisional discussion paper developed 2007
-B.4.3 Inspection vs. Facilitation | equity and access. • Educate inspectors to assist rather then control and reprimand. • Develop trust through the above approach to promote honesty in self- reporting | • Inspectors at Central and Regional MOES • Staff involved in self reporting process | • Performance profiles of inspectors • Feedback for school director and teachers. | • Inspectors not appreciating the need for change • Teachers and school director not trusting to report honestly. | • Inspectors training in 2006 • Other training in self reporting 2006 • Evaluate inspectors performance directly and indirectly ( self reporting by others) 2007
+B.4.2 Rationalizing schools | • Develop public consciousness that quality and quantity of schools have cost • Quality education may need to over-ride local government boundaries. • Review National and Local objectives to meet equity and access. | • MOES Central and Regional • School directors and teachers • Parents and students | • Conduct public forum to debate at national level • Conduct public forum to debate at local government level | • Reluctance to share with adjacent regions/ Communes • Not appreciating the value of quality over quality | • Initial forums established in 2006 • Provisional discussion paper developed 2007
+B.4.3 Inspection vs. Facilitation | • Educate inspectors to assist rather then control and reprimand. • Develop trust through the above approach to promote honesty in self- reporting | • Inspectors at Central and Regional MOES • Staff involved in self reporting process | • Performance profiles of inspectors • Feedback for school director and teachers. | • Inspectors not appreciating the need for change • Teachers and school director not trusting to report honestly. | • Inspectors training in 2006 • Other training in self reporting 2006 • Evaluate inspectors performance directly and indirectly ( self reporting by others) 2007
 
 - 41 -
 
@@ -975,6 +1049,7 @@ EMIS operating at 50% of regional & school level
 EMIS operating at 100% of regional & school level
 #### C1.5 Reporting and Quality Assurance
 Develop new indicators of quality
+Developing a reporting guidelines
 Train Supervisors & Directors in new
 procedures.
 
@@ -985,8 +1060,8 @@ procedures.
 [[START OF PAGE 46]]
 
 ### C 2. Improving the Quality of Teaching and Learning Processes
-Activity | 2012 | 2013 | 2014 | 2015
---- | --- | --- | --- | ---
+Activity | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 #### C2.1 Curriculum Development
 Develop a National Curriculum Framework
 Develop policy guidelines to implement NCF
@@ -1000,9 +1075,12 @@ Prepare teachers guide for new Sec. curriculum
 Pilot new curriculum for grades 10-12
 Train teachers to use the new Sec. curriculum
 National implementation of new Sec. curriculum.
+#### C2.2Teacher Development
 Develop system for teacher data on EMIS
+Strengthen Teacher Development Agencies
 Review & enhance teacher training curriculum
 Review teacher employment conditions
+Review teacher in-service and PD training
 Develop teacher accreditation and QA
 #### C2.3 Text Book Development
 Develop process to map new content in textbooks
@@ -1062,8 +1140,10 @@ Train local experts
 
 [[START OF PAGE 48]]
 
-Activity | 2012 | 2014
---- | --- | ---
+### C 3. Financing Pre-University Education
+
+Activity | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 #### C3.1 Review composition of pre university budget
 Develop transparent financial model
 Separate each stakeholder contribution
@@ -1078,6 +1158,7 @@ Develop mechanism for decentralizing funding
 Develop monitoring& accounting of funding
 Comprehensive training at all levels
 #### C3.3 Increasing Efficiency in the sub sector
+Develop system for sharing finance information
 Attract private sector funds
 Develop legislation to encourage schools collect funds
 Negotiate tax exemption for education investments
@@ -1106,8 +1187,11 @@ Train mentors to work at Regional levels
 
 [[START OF PAGE 50]]
 
+### C.4 Capacity Building and Human Resource Development
+
+Activity | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 #### C4.1 Cross Sector Service
----
 Establish cross sector advisory team
 Public awareness and ownership
 #### C4.2 Rationalizing Schools
@@ -1119,6 +1203,7 @@ Adoption of school rationalization
 Develop new roles as facilitators
 Develop professionalism and trust
 Intensive training of school inspectors in new roles
+#### C4.4 Professionalisation of Teachers
 Redesign Teaching as fulltime profession
 Review teacher condition to match civil servants
 Diversify teacher competencies
@@ -1126,9 +1211,11 @@ Establish and support teacher Prof. associations
 #### C4.5 Curriculum elective and specializations
 Develop curriculum to reflect every needs
 Consolidate subjects to increase learning time
+Train CD experts to undertake the above task
 #### C4.6 Research Data Driven Policy Development
 Develop process for data driven policy making
 Develop capacity to use data to test new ideas
+Train PAPD staff in data analysis and reporting
 
 - 50 -
 
@@ -1155,6 +1242,14 @@ To appreciate the cost calculation process see Part E. It provides a narrative a
 
 ### D.1  GOVERNANCE: REFORMING AND STRENGTHENING MANAGEMENT CAPACITY
 
+#### D.1.1 Reforming the Central Office 288,000
+#### D.1.2 Decentralization 282,750
+#### D.1.3 School Autonomy 738,000
+#### D.1.4 Educational Management Information System 176,000
+#### D.1.5 Reporting and Quality Assurance 60,000
+
+TOTAL 1,544,750
+
 50
 
 [[END OF PAGE 51]]
@@ -1163,9 +1258,34 @@ To appreciate the cost calculation process see Part E. It provides a narrative a
 
 ### D.2  IMPROVING THE QUALITY OF THE TEACHING AND LEARNING PROCESS
 
+#### D.2.1 Curriculum Development 4,155,000
+#### D.2.2 Teacher Development 1,683,000
+#### D.2.3 Textbook Development 4,597,000
+#### D.2.4 Alternative Teaching Resources 1,069,000
+#### D.2.5 Examinations and Monitoring 1,274,000
+
+TOTAL 12,778,000
+
 ### D.3 FINANCING PRE-UNIVERSITY EDUCATION
 
+#### D.3.1 Composition of Education Finance 176,000
+#### D.3.2 Instruments and Processes for Transfer of Funds 150,500
+#### D.3.3 Increasing Efficiency in the Sub-sector Funding 63,500
+#### D.3.4 Investment Program 185,624,660
+#### D.3.5 Mentoring and Support Systems 84,500
+
+TOTAL 186,099,160
+
 ### D.4 CAPACITY BUILDING AND HUMAN RESOURCE DEVELOPMENT A CONCEPTUAL SHIFT
+
+#### D.4.1 Education as Cross-Sector Service 44,250
+#### D.4.2 Rationalization of School Distribution 99,000
+#### D.4.3 Inspection vs. Facilitation 34,230
+#### D.4.4 Professionalisation of Teaching 85,000
+#### D.4.5 Curriculum Electives and Specializations 66,500
+#### D.4.6 Research-based and Data-driven Policy Development 139,500
+
+TOTAL $467,480
 
 The estimated total cost over the ten years to implement the reforms will cost
 
@@ -1216,7 +1336,7 @@ Number of days x USD50 per day = total cost for the activity
 
 3 Rehabilitation costs
 
-Estimates were made on the basis of work undertaken under the WB Credit 3343ALB which finished in 2004.
+Estimates were made on the basis of work undertaken under the WB Credit 3343-ALB which finished in 2004.
 
 44 school were rehabilitated a cost of USD$ 6,000, 000 (approx) Average cost per schools = USD$ 136, 366 (approx) 40% of schools not rehabilitated yet = 1360 schools
 
@@ -1229,6 +1349,8 @@ Therefore, total cost for rehabilitating 1360 schools = USD$ 185, 457, 760 to be
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
+
+### E 1. Governance: Reforming and Strengthening management capacity- Resource input matrix
 
 Activity | Foreign T/A | Local Experts | Training Programs | Resources & Equipment | Number of Workshops | # of People Involved | Department Responsible | Costs Estimates
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -1277,8 +1399,9 @@ Train Supervisors & Directors in new procedures. | 5 weeks | 13 wkshops | 100 pe
 [[START OF PAGE 57]]
 
 ### E 2. Improving the Quality of Teaching and Learning Processes - Resource input matrix
+
+Activity | Foreign T/A | Local Experts | Training Programs | Resources & Equipment | Number of Workshops | # of People Involved | Department Responsible | Costs Estimates
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Activity | Foreign T/A | Local Experts | Training Program s | Resoures & Equipment | Number of Workshops | # of People Involved | Department Responsibl e | Costs Estimates
 E2.1 Curriculum Development | 9 mths | 18 mths | 14 weeks | 30 wkshops | 20020 | 4,155,000
 Develop a National Curriculum Framework | 3mths | 2 weeks | 4 wkshops | 20 | MOES/CDU | 50000
 Develop policy guidelines to implement NCF
@@ -1338,6 +1461,8 @@ Train local experts | 2 week | 2 wkshops | 200 people | 5000
 
 [[START OF PAGE 59]]
 
+### E 3. Financing Pre-University Education- Resource Input Matrix
+
 Activity | Foreign T/A | Local Experts | Training Programs | Resources & Equipment | Number of workshops | # of People Involved | Department Responsible | Costs Estimates
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 E3.1 Review composition of pre university budget | 6 mths | 18 mths | 2 weeks | 5 workshops | 260 people | 176000
@@ -1382,7 +1507,9 @@ Train mentors to work at school levels | 1 wk | 1 workshop | 40 | Schools | 1000
 
 [[START OF PAGE 61]]
 
-E 4. Capacity Building and Human Resource Activity | Development Foreign T/A | - Resource Local Experts | input matrix Training Programs | Resoures & Equipment | Number of workshops | # of People Involved | Department Responsible | Costs Estimates
+### E 4. Capacity Building and Human Resource Development - Resource input matrix
+
+Activity | Foreign T/A | Local Experts | Training Programs | Resources & Equipment | Number of workshops | # of People Involved | Department Responsible | Costs Estimates
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 E4.1 Cross Sector Service | 1mth | 9 mths | 2 weeks | secretariat | 6 wkshops | 15 people | MOES | 44250
 Establish cross sector advisory team | 1mth | 3 mths | 2 weeks | secretariat | 6 wkshops | 15 people | MOES | 26250
