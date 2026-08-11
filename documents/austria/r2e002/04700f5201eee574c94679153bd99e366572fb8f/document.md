@@ -30,11 +30,21 @@ Bundesrecht konsolidiert
 
 (2) Die Bestimmungen dieses Bundesgesetzes sind ferner über die im Abs. 1 genannten Bundeslehrer hinaus auf Personen anzuwenden, die an den unter Abs. 1 fallenden Schulen im Unterricht verwendet werden.
 
-(3) Dieses Bundesgesetz findet überdies auf die in einem öffentlich-rechtlichen Dienstverhältnis zum Bund stehenden Lehrer (Bundeslehrer), die an Schulen im Ausland -mit Ausnahme der Universitäten - sowie an Schülerheimen im Ausland verwendet werden, Anwendung.
+(3) Dieses Bundesgesetz findet überdies auf die in einem öffentlich-rechtlichen Dienstverhältnis zum Bund stehenden Lehrer (Bundeslehrer), die an Schulen im Ausland - mit Ausnahme der Universitäten - sowie an Schülerheimen im Ausland verwendet werden, Anwendung.
 
 ### Ausmaß der Lehrverpflichtung
 
-§ 2. (1)  Das  Ausmaß  der  Lehrverpflichtung  der  Lehrer  (Erzieher)  beträgt  20  Wochenstunden.  Die Unterrichtsstunden in den einzelnen Unterrichtsgegenständen sind auf die Lehrverpflichtung mit folgenden Werteinheiten je Wochenstunde anzurechnen:
+§ 2. (1) Das Ausmaß der Lehrverpflichtung der Lehrer (Erzieher) beträgt 20 Wochenstunden. Die Unterrichtsstunden in den einzelnen Unterrichtsgegenständen sind auf die Lehrverpflichtung mit folgenden Werteinheiten je Wochenstunde anzurechnen:
+
+1. für Unterrichtsgegenstände der Lehrverpflichtungsgruppe I (Anlage 1) 1,167
+2. für Unterrichtsgegenstände der Lehrverpflichtungsgruppe II (Anlage 2) 1,105
+3. für Unterrichtsgegenstände der Lehrverpflichtungsgruppe III (Anlage 3) 1,050
+4. für Unterrichtsgegenstände der Lehrverpflichtungsgruppe IV (Anlage 4) 0,913
+5. für Unterrichtsgegenstände der Lehrverpflichtungsgruppe IVa (Anlage 4a) 0,955
+6. für Unterrichtsgegenstände der Lehrverpflichtungsgruppe IVb (Anlage 4b) 0,977
+7. für Unterrichtsgegenstände der Lehrverpflichtungsgruppe V (Anlage 5) 0,875
+8. für Unterrichtsgegenstände der Lehrverpflichtungsgruppe Va (Anlage 5a) 0,825
+9. für Unterrichtsgegenstände der Lehrverpflichtungsgruppe VI (Anlage 6) 0,75.
 
 (2) Die Unterrichtsstunden der Lehrer der Verwendungsgruppe L PH sind auf die Lehrverpflichtung mit 1,290 Werteinheiten je Wochenstunde anzurechnen.
 
@@ -64,11 +74,10 @@ Seite 2 von 35
 
 Bundesrecht konsolidiert
 
-- 7% der an der Praxisvolksschule oder 6% der an der Praxishauptschule für die Unterrichtserteilung vorgesehenen Werteinheiten und
+1. 7% der an der Praxisvolksschule oder 6% der an der Praxishauptschule für die Unterrichtserteilung vorgesehenen Werteinheiten und
 
-- sofern nicht ein eigener Abteilungsleiter für die schulpraktische Ausbildung bestellt ist -
-
-2,00 Werteinheiten bei bis zu 50 Studierenden, 2,75 Werteinheiten bei 51 bis 100 Studierenden, 3,50 Werteinheiten bei 101  bis 150  Studierenden, 4,25 Werteinheiten  bei 151  bis  200 Studierenden, 5,00 Werteinheiten bei 201 bis 250 Studierenden, 5,75 Werteinheiten bei 251 bis 300 Studierenden und 6,50 Werteinheiten bei über 300 Studierenden des betreffenden Diplomstudiums, die im jeweiligen Studienjahr schulpraktische Studien absolvieren.
+2. - sofern nicht ein eigener Abteilungsleiter für die schulpraktische Ausbildung bestellt ist -
+2,00 Werteinheiten bei bis zu 50 Studierenden, 2,75 Werteinheiten bei 51 bis 100 Studierenden, 3,50 Werteinheiten bei 101 bis 150 Studierenden, 4,25 Werteinheiten bei 151 bis 200 Studierenden, 5,00 Werteinheiten bei 201 bis 250 Studierenden, 5,75 Werteinheiten bei 251 bis 300 Studierenden und 6,50 Werteinheiten bei über 300 Studierenden des betreffenden Diplomstudiums, die im jeweiligen Studienjahr schulpraktische Studien absolvieren.
 
 (11) Die Bildung der Supplierreserve an Praxisschulen hat in der Weise zu erfolgen, daß jeweils ein Prozentsatz  der  Lehrverpflichtung  eines  Lehrers  oder  mehrerer  Lehrer  der  Supplierreserve  zugewiesen wird.  Werteinheiten  gemäß  Abs. 10  Z 1  sind,  sofern  nicht  § 3  Abs. 7  zweiter  Satz  anzuwenden  ist, vorrangig für Supplierungen an der Praxisschule zu verwenden.
 
@@ -78,15 +87,11 @@ Bundesrecht konsolidiert
 
 § 3. (1) Das Ausmaß der Lehrverpflichtung der Leiter der unter § 1 Abs. 1 fallenden Schulen und der Leiter der Bundeskonvikte vermindert sich je nach der Zuweisung dieser Schulen und Bundeskonvikte zu den Dienstzulagengruppen im Sinne des § 57 des Gehaltsgesetzes 1956, BGBl. Nr. 54. Das Ausmaß der Verminderung der Lehrverpflichtung des Leiters beträgt bei Zuweisung der Schule zur
 
-- Dienstzulagengruppe V 8 Wochenstunden,
-
-- Dienstzulagengruppe IV 12 Wochenstunden,
-
-- Dienstzulagengruppe III 14 Wochenstunden,
-
-- Dienstzulagengruppe II 16 Wochenstunden,
-
-- Dienstzulagengruppe I 18 Wochenstunden der Lehrverpflichtungsgruppe III.
+a) Dienstzulagengruppe V 8 Wochenstunden,
+b) Dienstzulagengruppe IV 12 Wochenstunden,
+c) Dienstzulagengruppe III 14 Wochenstunden,
+d) Dienstzulagengruppe II 16 Wochenstunden,
+e) Dienstzulagengruppe I 18 Wochenstunden der Lehrverpflichtungsgruppe III.
 
 (2)  Leiter  von  berufsbildenden  höheren  Schulen  und  der  Höheren  technischen  Bundeslehranstalt, Bundes-Handelsakademie  und Bundes-Handelsschule Wien III, deren Dienstzulage  gemäß  § 57  Abs. 6 des Gehaltsgesetzes 1956 erhöht ist, sind von der Unterrichtserteilung befreit.
 
@@ -96,17 +101,15 @@ Bundesrecht konsolidiert
 
 (4)  Das  Ausmaß  der  Lehrverpflichtung  der  Direktor-Stellvertreter  und  der  Erziehungsleiter  an Höheren Internatsschulen des Bundes vermindert sich um 14 Wochenstunden der Lehrverpflichtungsgruppe III.
 
-- Das Ausmaß der Lehrverpflichtung der Abteilungsvorstände an
+(5) Das Ausmaß der Lehrverpflichtung der Abteilungsvorstände an
 
-- höheren technischen und gewerblichen Lehranstalten,
-
-- gewerblichen, technischen und kunstgewerblichen Fachschulen mit Ausnahme der Fachschulen für Bekleidungsgewerbe und
-
-- der Höheren technischen Bundeslehranstalt, Bundes-Handelsakademie und Bundeshandelsschule Wien III
+1. höheren technischen und gewerblichen Lehranstalten,
+2. gewerblichen, technischen und kunstgewerblichen Fachschulen mit Ausnahme der Fachschulen für Bekleidungsgewerbe und
+3. der Höheren technischen Bundeslehranstalt, Bundes-Handelsakademie und Bundeshandelsschule Wien III
 
 vermindert sich um je eine Wochenstunde der Lehrverpflichtungsgruppe I für jede ihnen unterstehende Klasse, höchstens jedoch um 14 Wochenstunden der Lehrverpflichtungsgruppe I.
 
-(6) Das Ausmaß der Lehrverpflichtung der Abteilungsvorstände, die nicht unter Abs. 5 fallen, und der  Fachvorstände  gemäß  § 58  Abs. 1  Z 11  bis  13  des  Gehaltsgesetzes 1956  vermindert  sich  um  zwei Wochenstunden der Lehrverpflichtungsgruppe V  und zusätzlich um  je eine Wochenstunde der Lehrverpflichtungsgruppe V für jede ihnen unterstehende Klasse, höchstens jedoch um 18 Wochenstunden der Lehrverpflichtungsgruppe V.
+(6) Das Ausmaß der Lehrverpflichtung der Abteilungsvorstände, die nicht unter Abs. 5 fallen, und der Fachvorstände gemäß § 58 Abs. 1 Z 11 bis 13 des Gehaltsgesetzes 1956 vermindert sich um zwei Wochenstunden der Lehrverpflichtungsgruppe V und zusätzlich um je eine Wochenstunde der
 
 www.ris.bka.gv.at
 
@@ -118,43 +121,39 @@ Seite 3 von 35
 
 Bundesrecht konsolidiert
 
-(7)  Leiter  von  Pädagogischen  Hochschulen  eingegliederten  Praxisschulen  mit  mehr  als  sieben Klassen sind von der Unterrichtserteilung befreit. Sie sind jedoch verpflichtet, an einer Praxisschule mit acht oder neun Klassen abwesende Praxisschullehrer bis zum Ausmaß von zwei Unterrichtsstunden sowie an einer Praxisschule mit zehn bis zwölf Klassen abwesende Praxisschullehrer bis zum Ausmaß von einer Unterrichtsstunde pro Woche zu vertreten. Hiefür gebührt ihnen abweichend von § 61 des Gehaltsgesetzes 1956 keine Vergütung. Die Unterrichtsverpflichtung des Leiters einer Praxisschule mit weniger als acht Klassen vermindert sich beim Leiter einer als Praxisschule eingerichteten Volksschule um eine Wochenstunde für die Leitung der Schule sowie um jeweils eine weitere Wochenstunde für jede an der Schule geführte Klasse sowie beim Leiter einer als Praxisschule eingerichteten Neuen Mittelschule oder  Hauptschule  um  zwei  Wochenstunden  für  die  Leitung  der  Schule  sowie  um  jeweils  1,5  weitere Wochenstunden für jede an der Schule geführte Klasse.
+Lehrverpflichtungsgruppe V für jede ihnen unterstehende Klasse, höchstens jedoch um 18 Wochenstunden der Lehrverpflichtungsgruppe V.
 
-- Das  Ausmaß  der  Lehrverpflichtung  der  Abteilungsvorstände  an  den  Bildungsanstalten  für Kindergartenpädagogik,  an  den  Bildungsanstalten für Sozialpädagogik  und  an  den  Instituten für Sozialpädagogik beträgt die nachstehend angeführte Anzahl von Wochenstunden der Lehrverpflichtungsgruppe III:
+(7) Leiter von Pädagogischen Hochschulen eingegliederten Praxisschulen mit mehr als sieben Klassen sind von der Unterrichtserteilung befreit. Sie sind jedoch verpflichtet, an einer Praxisschule mit acht oder neun Klassen abwesende Praxisschullehrer bis zum Ausmaß von zwei Unterrichtsstunden sowie an einer Praxisschule mit zehn bis zwölf Klassen abwesende Praxisschullehrer bis zum Ausmaß von einer Unterrichtsstunde pro Woche zu vertreten. Hiefür gebührt ihnen abweichend von § 61 des Gehaltsgesetzes 1956 keine Vergütung. Die Unterrichtsverpflichtung des Leiters einer Praxisschule mit weniger als acht Klassen vermindert sich beim Leiter einer als Praxisschule eingerichteten Volksschule um eine Wochenstunde für die Leitung der Schule sowie um jeweils eine weitere Wochenstunde für jede an der Schule geführte Klasse sowie beim Leiter einer als Praxisschule eingerichteten Neuen Mittelschule oder Hauptschule um zwei Wochenstunden für die Leitung der Schule sowie um jeweils 1,5 weitere Wochenstunden für jede an der Schule geführte Klasse.
 
-(Anm.: aufgehoben durch BGBl. I Nr. 120/2012)
+(8) Das Ausmaß der Lehrverpflichtung der Abteilungsvorstände an den Bildungsanstalten für Kindergartenpädagogik, an den Bildungsanstalten für Sozialpädagogik und an den Instituten für Sozialpädagogik beträgt die nachstehend angeführte Anzahl von Wochenstunden der Lehrverpflichtungsgruppe III:
 
-- Das  Ausmaß  der  Lehrverpflichtung  der  Abteilungsvorstände  an  Schulen  zur  Ausbildung  von Leibeserziehern und Sportlehrern vermindert sich um
-
-- 8 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von nicht mehr als 150 Kurstagen zu betreuen hat,
-
-- 9 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von nicht mehr als 200 Kurstagen zu betreuen hat,
-
-- 11 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von nicht mehr als 250 Kurstagen zu betreuen hat,
-
-- 12 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von nicht mehr als 300 Kurstagen zu betreuen hat,
-
-- 14 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von mehr als 300 Kurstagen zu betreuen hat.
-
-Gruppenanzahl des Übungskindergartens | Klassenanzahl der Bildungsanstalt
---- | --- | --- | ---
-(-horts) | bis 6 Klassen | 7 bis 10 Klassen | ab 11 Klassen
-Gruppen bis 3 | 8 | Wochenstunden 7 | 6
+Gruppenanzahl des Übungskindergartens (-horts) | Klassenanzahl der Bildungsanstalt
+ | bis 6 Klassen | 7 bis 10 Klassen | ab 11 Klassen
+Gruppen | Wochenstunden |  | 
+bis 3 | 8 | 7 | 6
 4 und mehr | 7 | 6 | 5
 
-Bei  ganzjährigen  Unterrichtsveranstaltungen,  die  nach  dem  in  der  Verordnung  BGBl.  Nr. 201/1975 geregelten Lehrplan geführt werden, sind die Schultage den Kurstagen gleichzuhalten. Als Schultag ist ein Kalendertag nur einmal zu zählen.
+(9) (Anm.: aufgehoben durch BGBl. I Nr. 120/2012)
 
-- Für  die  Leiterin  oder  den  Leiter,  die  Abteilungsvorständin  oder  den  Abteilungsvorstand,  die Fachvorständin oder den Fachvorstand oder die Erziehungsleiterin oder den Erziehungsleiter, deren oder dessen Lehrverpflichtung herabgesetzt ist, verringert sich auch die Verminderung der Unterrichtsverpflichtung im Sinne der Abs. 1 bis 10. Die Lehrverpflichtung der Lehrperson, die gemäß § 213a Abs. 1 BDG 1979 mit der Leitung teilbetraut ist, vermindert sich in dem Ausmaß, um das sich die Verminderung  der  Unterrichtsverpflichtung  bei  der  Inhaberin  oder  beim  Inhaber  der  Leitungsfunktion reduziert.
+(10) Das Ausmaß der Lehrverpflichtung der Abteilungsvorstände an Schulen zur Ausbildung von Leibeserziehern und Sportlehrern vermindert sich um
+
+1. 8 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von nicht mehr als 150 Kurstagen zu betreuen hat,
+2. 9 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von nicht mehr als 200 Kurstagen zu betreuen hat,
+3. 11 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von nicht mehr als 250 Kurstagen zu betreuen hat,
+4. 12 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von nicht mehr als 300 Kurstagen zu betreuen hat,
+5. 14 Wochenstunden der Lehrverpflichtungsgruppe III, wenn der Abteilungsvorstand Kurse in der Dauer von mehr als 300 Kurstagen zu betreuen hat.
+
+Bei ganzjährigen Unterrichtsveranstaltungen, die nach dem in der Verordnung BGBl. Nr. 201/1975 geregelten Lehrplan geführt werden, sind die Schultage den Kurstagen gleichzuhalten. Als Schultag ist ein Kalendertag nur einmal zu zählen.
+
+(11) Für die Leiterin oder den Leiter, die Abteilungsvorständin oder den Abteilungsvorstand, die Fachvorständin oder den Fachvorstand oder die Erziehungsleiterin oder den Erziehungsleiter, deren oder dessen Lehrverpflichtung herabgesetzt ist, verringert sich auch die Verminderung der Unterrichtsverpflichtung im Sinne der Abs. 1 bis 10. Die Lehrverpflichtung der Lehrperson, die gemäß § 213a Abs. 1 BDG 1979 mit der Leitung teilbetraut ist, vermindert sich in dem Ausmaß, um das sich die Verminderung der Unterrichtsverpflichtung bei der Inhaberin oder beim Inhaber der Leitungsfunktion reduziert.
 
 § 4. Die §§ 2 und 3 sind
 
-- auf Lehrer an nicht ganzjährig geführten Schulen und Klassen,
+1. auf Lehrer an nicht ganzjährig geführten Schulen und Klassen,
+2. auf Lehrer an lehrgangs-, kurs- oder seminarmäßig geführten Schulen, Klassen und Studienveranstaltungen und
+3. auf Lehrer mit auf Grund der Lehrfächerverteilung, von Blockungen und anderen autonomen Gestaltungsmöglichkeiten unregelmäßiger oder nicht ganzjähriger Unterrichtserteilung
 
-- auf Lehrer an lehrgangs-, kursoder seminarmäßig geführten Schulen, Klassen und Studienveranstaltungen und
-
-- auf  Lehrer  mit  auf  Grund  der  Lehrfächerverteilung,  von  Blockungen  und  anderen  autonomen Gestaltungsmöglichkeiten unregelmäßiger oder nicht ganzjähriger Unterrichtserteilung
-
-mit  wöchentlich  unterschiedlichem  Beschäftigungsausmaß  mit  der  Maßgabe  anzuwenden,  dass  die Gesamtzahl der  Jahresstunden  jener  eines  vergleichbaren  Lehrers  in  den  von  Z 1  bis  3  nicht  erfassten Fällen  entspricht.  Als  nicht  ganzjährig  geführte  Schulen  und  Klassen  gelten  insbesondere  Schulen  und Klassen, deren Unterrichtsjahr auf Grund schulzeitrechtlicher Vorschriften verkürzt wird, sowie Klassen, bei  denen  wegen  einer  abschließenden  Prüfung  (zB  Reifeprüfung,  Reife-  und  Diplomprüfung  oder Abschlussprüfung) für Schüler das Unterrichtsjahr gemäß § 2 Abs. 2 Z 1 lit. c des Schulzeitgesetzes 1985, BGBl.  Nr. 77,  mit  dem  Tag  vor  dem  Beginn  der  Klausurprüfung  endet.  Bei  einem  nicht  im  Ausmaß seiner vollen Lehrverpflichtung verwendeten Lehrer ist in den Fällen der Z 1 bis 3 eine unterschiedliche Verwendung in der Höhe des sich ergebenden Mittelwertes abzugelten.
+mit wöchentlich unterschiedlichem Beschäftigungsausmaß mit der Maßgabe anzuwenden, dass die Gesamtzahl der Jahresstunden jener eines vergleichbaren Lehrers in den von Z 1 bis 3 nicht erfassten
 
 www.ris.bka.gv.at
 
@@ -166,51 +165,46 @@ Seite 4 von 35
 
 Bundesrecht konsolidiert
 
+Fällen entspricht. Als nicht ganzjährig geführte Schulen und Klassen gelten insbesondere Schulen und Klassen, deren Unterrichtsjahr auf Grund schulzeitrechtlicher Vorschriften verkürzt wird, sowie Klassen, bei denen wegen einer abschließenden Prüfung (zB Reifeprüfung, Reife- und Diplomprüfung oder Abschlussprüfung) für Schüler das Unterrichtsjahr gemäß § 2 Abs. 2 Z 1 lit. c des Schulzeitgesetzes 1985, BGBl. Nr. 77, mit dem Tag vor dem Beginn der Klausurprüfung endet. Bei einem nicht im Ausmaß seiner vollen Lehrverpflichtung verwendeten Lehrer ist in den Fällen der Z 1 bis 3 eine unterschiedliche Verwendung in der Höhe des sich ergebenden Mittelwertes abzugelten.
+
 § 5. Bei Unterrichtserteilung an
 
-- allgemein bildenden höheren Schulen für Berufstätige,
+1. allgemein bildenden höheren Schulen für Berufstätige,
+2. berufsbildenden mittleren und höheren Schulen für Berufstätige und
+3. als Schulen für Berufstätige geführten Lehrgängen und Kollegs an Bildungsanstalten
 
-- berufsbildenden mittleren und höheren Schulen für Berufstätige und
+sind Unterrichtsstunden, die stundenplanmäßig um oder nach 18.45 Uhr beginnen, mit 4/3 des in § 2 Abs. 1 vorgesehenen Ausmaßes zu werten.
 
-- als Schulen für Berufstätige geführten Lehrgängen und Kollegs an Bildungsanstalten sind  Unterrichtsstunden,  die  stundenplanmäßig  um  oder  nach  18.45  Uhr  beginnen,  mit  4/3  des  in  § 2
+§ 6. Soweit für einzelne Unterrichtsgegenstände lehrplanmäßig nicht die Erteilung wöchentlicher Unterrichtsstunden (Wochenstunden), sondern
 
-Abs. 1 vorgesehenen Ausmaßes zu werten.
+1. nur die Abhaltung von Exkursionen oder tageweisen Lehrveranstaltungen oder
+2. Fernunterricht
 
-§ 6. Soweit  für  einzelne  Unterrichtsgegenstände  lehrplanmäßig  nicht  die  Erteilung  wöchentlicher Unterrichtsstunden Wochenstunden), sondern
-
-- nur die Abhaltung von Exkursionen oder tageweisen Lehrveranstaltungen oder
-
-- Fernunterricht
-
-vorgesehen  ist,  hat  der  zuständige  Bundesminister  im  Einvernehmen  mit  dem  Bundeskanzler  unter Bedachtnahme  auf  die  Inanspruchnahme  des  Lehrers  bei  diesen  Lehrveranstaltungen  das  Ausmaß  der Anrechnung auf die Lehrverpflichtung allgemein durch Verordnung oder im Einzelfall zu bestimmen.
+vorgesehen ist, hat der zuständige Bundesminister im Einvernehmen mit dem Bundeskanzler unter Bedachtnahme auf die Inanspruchnahme des Lehrers bei diesen Lehrveranstaltungen das Ausmaß der Anrechnung auf die Lehrverpflichtung allgemein durch Verordnung oder im Einzelfall zu bestimmen.
 
 § 7. (1) Der zuständige Bundesminister hat für Unterrichtsgegenstände, die
 
-- vom § 2 nicht erfaßt sind oder
-
-- neu eingeführt werden,
+1. vom § 2 nicht erfaßt sind oder
+2. neu eingeführt werden,
 
 das Ausmaß der Lehrverpflichtung durch Verordnung festzusetzen. Maßgebend hiefür ist die Belastung des Lehrers im Vergleich zur Belastung mit den im § 2 Abs. 1 genannten Unterrichtsgegenständen.
 
 (2) Bei Verordnungen gemäß Abs. 1 kann von einer Kundmachung im Bundesgesetzblatt abgesehen werden, wenn Unterrichtsgegenstände
 
-- im  Rahmen  schulautonomer  Lehrplanbestimmungen  oder  zusätzlicher  Lehrplanbestimmungen der Landesschulräte (§ 6 Abs. 1 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962) vorgesehen oder
+1. im Rahmen schulautonomer Lehrplanbestimmungen oder zusätzlicher Lehrplanbestimmungen der Landesschulräte (§ 6 Abs. 1 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962) vorgesehen oder
+2. im Rahmen von Schulversuchen oder Organisationsstatuten (§ 14 Abs. 2 des Privatschulgesetzes, BGBl. Nr. 244/1962) nur an einzelnen Schulen geführt
 
-- im Rahmen von Schulversuchen oder Organisationsstatuten (§ 14 Abs. 2 des Privatschulgesetzes, BGBl. Nr. 244/1962) nur an einzelnen Schulen geführt
+werden. In diesen Fällen sind solche Verordnungen durch Anschlag in den betreffenden Schulen kundzumachen. Sie treten, soweit darin nicht anderes bestimmt ist, mit Ablauf des Tages des Anschlages in der Schule in Kraft. Eine Abschrift einer solchen Verordnung ist, sofern die Schule einem Landesschulrat untersteht, überdies im betreffenden Landesschulrat zur Einsicht aufzulegen.
 
-werden.  In  diesen  Fällen  sind  solche  Verordnungen  durch  Anschlag  in  den  betreffenden  Schulen kundzumachen. Sie treten, soweit darin nicht anderes bestimmt ist, mit Ablauf des Tages des Anschlages in der Schule  in Kraft.  Eine  Abschrift  einer  solchen  Verordnung  ist,  sofern  die  Schule  einem Landesschulrat untersteht, überdies im betreffenden Landesschulrat zur Einsicht aufzulegen.
-
-(3) Bei Verordnungen gemäß Abs. 1 kann von einer Kundmachung im Bundesgesetzblatt abgesehen werden,  wenn  es  sich  um  Unterrichtsgegenstände  handelt,  die  im  Rahmen  der  Studienpläne  als  nicht verpflichtend  zu  inskribierende  Lehrveranstaltungen  an  einzelnen  Pädagogischen  Hochschulen  geführt werden. In diesen Fällen sind solche Verordnungen durch  Anschlag in der betreffenden Pädagogischen Hochschule kundzumachen. Sie treten, soweit darin nicht anderes bestimmt ist, mit Ablauf des Tages des Anschlages in der Pädagogischen Hochschule in Kraft.
+(3) Bei Verordnungen gemäß Abs. 1 kann von einer Kundmachung im Bundesgesetzblatt abgesehen werden, wenn es sich um Unterrichtsgegenstände handelt, die im Rahmen der Studienpläne als nicht verpflichtend zu inskribierende Lehrveranstaltungen an einzelnen Pädagogischen Hochschulen geführt werden. In diesen Fällen sind solche Verordnungen durch Anschlag in der betreffenden Pädagogischen Hochschule kundzumachen. Sie treten, soweit darin nicht anderes bestimmt ist, mit Ablauf des Tages des Anschlages in der Pädagogischen Hochschule in Kraft.
 
 § 8. (1)  Über  das  Ausmaß  der  Lehrverpflichtung  hinaus  kann  ein  Lehrer  nur  aus  zwingenden Gründen zu Mehrdienstleistungen bis zu einem Viertel des Ausmaßes seiner Lehrverpflichtung verhalten werden.
 
 (2) Die Lehrverpflichtung kann auf Ansuchen des Lehrers herabgesetzt werden (Lehrpflichtermäßigung). Eine Lehrpflichtermäßigung ist nur zulässig:
 
-- aus gesundheitlichen Gründen, die in der Person des Lehrers liegen, oder
-
-- im öffentlichen Interesse zur Ausübung von Tätigkeiten auf dem Unterrichtsgebiet des Lehrers, die pädagogische Praxis voraussetzen und mit der Gewinnung von Erfahrungen verbunden sind, die  eine  positive  Rückwirkung  auf  die  konkrete  Unterrichtsarbeit  des  Lehrers  erwarten  lassen, oder
-
-- zur  Ausübung  anderer  der  Aufgabe  der  österreichischen  Schule  gemäßen  Tätigkeiten  auf kulturellem, sozialem, religiösem, sportlichem oder wissenschaftlichem Gebiet, wenn dem Bund, von der Einrichtung, für die der Lehrer tätig wird, Ersatz nach Abs. 7 geleistet wird.
+1. aus gesundheitlichen Gründen, die in der Person des Lehrers liegen, oder
+2. im öffentlichen Interesse zur Ausübung von Tätigkeiten auf dem Unterrichtsgebiet des Lehrers, die pädagogische Praxis voraussetzen und mit der Gewinnung von Erfahrungen verbunden sind, die eine positive Rückwirkung auf die konkrete Unterrichtsarbeit des Lehrers erwarten lassen, oder
+3. zur Ausübung anderer der Aufgabe der österreichischen Schule gemäßen Tätigkeiten auf kulturellem, sozialem, religiösem, sportlichem oder wissenschaftlichem Gebiet, wenn dem Bund, von der Einrichtung, für die der Lehrer tätig wird, Ersatz nach Abs. 7 geleistet wird.
 
 www.ris.bka.gv.at
 
@@ -222,11 +216,10 @@ Seite 5 von 35
 
 Bundesrecht konsolidiert
 
-- Eine Lehrpflichtermäßigung nach Abs. 2 Z 2 oder 3 darf nur dann eingeräumt werden, wenn
+(3) Eine Lehrpflichtermäßigung nach Abs. 2 Z 2 oder 3 darf nur dann eingeräumt werden, wenn
 
-- dies unter Bedachtnahme auf die Erfordernisse des Unterrichtes möglich ist und
-
-- die  Tätigkeit,  für  die  die  Lehrpflichtermäßigung  beantragt  ist,  nicht  neben  den  lehramtlichen Pflichten ausgeübt werden kann.
+1. dies unter Bedachtnahme auf die Erfordernisse des Unterrichtes möglich ist und
+2. die Tätigkeit, für die die Lehrpflichtermäßigung beantragt ist, nicht neben den lehramtlichen Pflichten ausgeübt werden kann.
 
 (4)  Das  Ausmaß  der  Lehrpflichtermäßigung  beträgt  in  den  Fällen  des  Abs. 2  Z 1  bis  zu  50%. Lehrpflichtermäßigungen gemäß Abs. 2 Z 2 und 3 dürfen nur bis zu jenem Ausmaß gewährt werden, das sicherstellt,  daß  mit  der  verbleibenden  Unterrichtsverpflichtung  eine  dauernde  Unterrichtserteilung  in zumindest einem Unterrichtsgegenstand erfolgt.
 
@@ -236,13 +229,12 @@ Bundesrecht konsolidiert
 
 (7) Der Ersatz gemäß Abs. 2 Z 3 hat zu umfassen:
 
-- den dem Ausmaß der Lehrpflichtermäßigung entsprechenden Aktivitätsaufwand für den Lehrer und
+1. den dem Ausmaß der Lehrpflichtermäßigung entsprechenden Aktivitätsaufwand für den Lehrer und
+2. einen Zuschlag im Ausmaß von 50% der dem Ausmaß der Lehrpflichtermäßigung entsprechenden Bezüge, von denen der Lehrer einen Pensionsbeitrag gemäß § 22 des Gehaltsgesetzes 1956 oder gemäß § 60 des Pensionsgesetzes 1965, BGBl. Nr. 340, zu leisten hat.
 
-- einen Zuschlag im Ausmaß von 50% der dem Ausmaß der Lehrpflichtermäßigung entsprechenden Bezüge, von denen der Lehrer einen Pensionsbeitrag gemäß § 22 des Gehaltsgesetzes 1956 oder gemäß § 60 des Pensionsgesetzes 1965, BGBl. Nr. 340, zu leisten hat.
+(8) (Anm.: aufgehoben durch BGBl. I Nr. 61/1997)
 
-(Anm.: aufgehoben durch BGBl. I Nr. 61/1997)
-
-(Anm.: aufgehoben durch BGBl. I Nr. 61/1997)
+(9) (Anm.: aufgehoben durch BGBl. I Nr. 61/1997)
 
 ### Einrechnung von Nebenleistungen
 
@@ -250,15 +242,13 @@ Bundesrecht konsolidiert
 
 (2)  Eine  Bestellung  zur  Unterstützung  des  Schulleiters  nach  Abs. 1  ist  nur  an  höheren  oder selbständig  geführten  mittleren Schulen zulässig, die  mindestens acht  Klassen aufweisen und an denen weder  Direktor-Stellvertreter  noch  Abteilungsvorstände  vorgesehen  sind.  Eine  solche  Bestellung  ist weiters  zulässig  an  Bildungsanstalten  für  Kindergartenpädagogik  und  für  Sozialpädagogik,  wenn  diese Anstalten  mindestens  acht  Klassen  aufweisen.  Die  Bestellung  mehrerer  Lehrer  an  einer  Schule  ist unzulässig.  Gruppen  im  Rahmen  des  Betreuungsteiles  ganztägiger  Schulformen  und  vergleichbarer Betreuungsteile  sind  bei  der  Ermittlung  der  Zahl  der  Klassen  gemäß  Satz 1  und  Abs. 1  nicht  zu berücksichtigen.
 
-(2a) Die Betreuung einer nach dem Modell 'Schulbibliothek an höheren Schulen unter Mitarbeit von Schülern' eingerichteten Schulbibliothek an allgemeinbildenden höheren Schulen oder (gemeinsam  für mehr als eine Schule) an Schulzentren, denen eine allgemeinbildende höhere Schule angehört,  wird in nachstehendem Ausmaß in die Lehrverpflichtung eingerechnet:
+(2a) Die Betreuung einer nach dem Modell „Schulbibliothek an höheren Schulen unter Mitarbeit von Schülern“ eingerichteten Schulbibliothek an allgemeinbildenden höheren Schulen oder (gemeinsam für mehr als eine Schule) an Schulzentren, denen eine allgemeinbildende höhere Schule angehört, wird in nachstehendem Ausmaß in die Lehrverpflichtung eingerechnet:
 
-- als  sechs  Wochenstunden  der  Lehrverpflichtungsgruppe II die  Betreuung  einer  Schulbibliothek der Größenklasse I (bis 600 Schüler, rund 5000 Bände, wöchentliche Öffnungszeit: neun Stunden),
+1. als sechs Wochenstunden der Lehrverpflichtungsgruppe II die Betreuung einer Schulbibliothek der Größenklasse I (bis 600 Schüler, rund 5000 Bände, wöchentliche Öffnungszeit: neun Stunden),
+2. als siebeneinhalb Wochenstunden der Lehrverpflichtungsgruppe II die Betreuung einer Schulbibliothek der Größenklasse II (über 600 Schüler, rund 7500 Bände, wöchentliche Öffnungszeit: elf Stunden),
+3. als neun Wochenstunden der Lehrverpflichtungsgruppe II die Betreuung einer Schulbibliothek der Größenklasse III (über 1000 Schüler, rund 10000 Bände, wöchentliche Öffnungszeit: 13,5 Stunden).
 
-- als siebeneinhalb Wochenstunden der Lehrverpflichtungsgruppe II die Betreuung einer Schulbibliothek der Größenklasse II (über 600 Schüler, rund 7500 Bände, wöchentliche Öffnungszeit: elf Stunden),
-
-- als  neun  Wochenstunden  der  Lehrverpflichtungsgruppe II  die  Betreuung  einer  Schulbibliothek der Größenklasse III (über 1000 Schüler, rund 10000 Bände, wöchentliche Öffnungszeit: 13,5 Stunden).
-
-(2b) Die Betreuung einer nach dem Modell 'Schulbibliothek an Bildungsanstalten für Kindergartenpädagogik/Bildungsanstalten für Sozialpädagogik unter Mitarbeit von Schülern' eingerichteten  Schulbibliothek  an  Bildungsanstalten  für  Kindergartenpädagogik  oder  Bildungsanstalten für Sozialpädagogik oder (gemeinsam  für mehr als eine Schule) an Schulzentren, denen eine Bildungsanstalt und eine berufsbildende mittlere oder höhere Schule angehört, wird, soweit die Betreuung nicht  von  anderen  Bediensteten  besorgt  wird  und  die  Schule  (die  Schulen  gemeinsam)  mehr  als 300 Schüler aufweist (aufweisen), nach Abs. 2a Z 1 bis 3 in die Lehrverpflichtung eingerechnet.
+(2b) Die Betreuung einer nach dem Modell „Schulbibliothek an Bildungsanstalten für Kindergartenpädagogik/Bildungsanstalten für Sozialpädagogik unter Mitarbeit von Schülern“ eingerichteten Schulbibliothek an Bildungsanstalten für Kindergartenpädagogik oder Bildungsanstalten für Sozialpädagogik oder (gemeinsam für mehr als eine Schule) an Schulzentren, denen eine Bildungsanstalt und eine berufsbildende mittlere oder höhere Schule angehört, wird, soweit die Betreuung
 
 www.ris.bka.gv.at
 
@@ -270,23 +260,21 @@ Seite 6 von 35
 
 Bundesrecht konsolidiert
 
-(2c)  Die  Betreuung  einer  nach  dem  Modell  'Schulbibliothek  an  berufsbildenden  mittleren  und höheren Schulen' eingerichteten Schulbibliothek an einer berufsbildenden mittleren oder höheren Schule oder  (gemeinsam  für  mehr  als  eine  Schule)  an  Schulzentren,  denen  nur  berufsbildende  mittlere  oder höhere Schulen angehören, wird, soweit die Betreuung nicht von anderen Bediensteten besorgt wird und die Schule (das Schulzentrum)  mehr  als  300 Schüler  aufweist,  nach Abs. 2a Z 1 bis 3 in die Lehrverpflichtung eingerechnet.
+nicht von anderen Bediensteten besorgt wird und die Schule (die Schulen gemeinsam) mehr als 300 Schüler aufweist (aufweisen), nach Abs. 2a Z 1 bis 3 in die Lehrverpflichtung eingerechnet.
 
-(2d) Das in den Abs. 2a, 2b und 2c für die jeweilige Größenklasse festgelegte Einrechnungsausmaß erhöht  sich  für  die  Betreuung  von  Bibliotheken,  zu  deren  Betreuungsbereich  neben  anderen  Schülern zusätzlich Abendschüler (Schüler an mittleren und höheren Schulen für Berufstätige, § 5 des Schulzeitgesetzes 1985)  gehören,  sodaß  neben  den  Öffnungszeiten  der  Schulbibliothek  tagsüber  auch Öffnungszeiten an bestimmten Abenden erforderlich sind, in folgendem Ausmaß:
+(2c) Die Betreuung einer nach dem Modell „Schulbibliothek an berufsbildenden mittleren und höheren Schulen“ eingerichteten Schulbibliothek an einer berufsbildenden mittleren oder höheren Schule oder (gemeinsam für mehr als eine Schule) an Schulzentren, denen nur berufsbildende mittlere oder höhere Schulen angehören, wird, soweit die Betreuung nicht von anderen Bediensteten besorgt wird und die Schule (das Schulzentrum) mehr als 300 Schüler aufweist, nach Abs. 2a Z 1 bis 3 in die Lehrverpflichtung eingerechnet.
 
-- bei  bis  zu  100  Abendschülern  um  eine  halbe  Wochenstunde  der  Lehrverpflichtungsgruppe II (zusätzliche wöchentliche Öffnungszeit: eine Stunde),
+(2d) Das in den Abs. 2a, 2b und 2c für die jeweilige Größenklasse festgelegte Einrechnungsausmaß erhöht sich für die Betreuung von Bibliotheken, zu deren Betreuungsbereich neben anderen Schülern zusätzlich Abendschüler (Schüler an mittleren und höheren Schulen für Berufstätige, § 5 des Schulzeitgesetzes 1985) gehören, sodaß neben den Öffnungszeiten der Schulbibliothek tagsüber auch Öffnungszeiten an bestimmten Abenden erforderlich sind, in folgendem Ausmaß:
 
-- bei 101 bis 200 Abendschülern um  eine Wochenstunde der Lehrverpflichtungsgruppe II (zusätzliche wöchentliche Öffnungszeit: zwei Stunden),
+1. bei bis zu 100 Abendschülern um eine halbe Wochenstunde der Lehrverpflichtungsgruppe II (zusätzliche wöchentliche Öffnungszeit: eine Stunde),
+2. bei 101 bis 200 Abendschülern um eine Wochenstunde der Lehrverpflichtungsgruppe II (zusätzliche wöchentliche Öffnungszeit: zwei Stunden),
+3. bei 201 bis 300 Abendschülern um eineinhalb Wochenstunden der Lehrverpflichtungsgruppe II (zusätzliche wöchentliche Öffnungszeit: drei Stunden),
+4. bei 301 und mehr Abendschülern um zwei Wochenstunden der Lehrverpflichtungsgruppe II (zusätzliche wöchentliche Öffnungszeit: vier Stunden).
 
-- bei  201 bis 300 Abendschülern um eineinhalb Wochenstunden der Lehrverpflichtungsgruppe II (zusätzliche wöchentliche Öffnungszeit: drei Stunden),
+(2e) Die Betreuung einer nach dem Modell „Schulbibliothek an Praxishauptschulen“ eingerichteten Bibliothek an Praxishauptschulen wird, soweit die Betreuung nicht von anderen Bediensteten besorgt wird, in nachstehendem Ausmaß in die Lehrverpflichtung eingerechnet:
 
-- bei  301  und  mehr  Abendschülern  um  zwei  Wochenstunden  der  Lehrverpflichtungsgruppe II (zusätzliche wöchentliche Öffnungszeit: vier Stunden).
-
-(2e) Die Betreuung einer nach dem Modell 'Schulbibliothek an Praxishauptschulen' eingerichteten Bibliothek  an  Praxishauptschulen  wird,  soweit  die  Betreuung  nicht  von  anderen  Bediensteten  besorgt wird, in nachstehendem Ausmaß in die Lehrverpflichtung eingerechnet:
-
-- an Praxishauptschulen bis zu elf Klassen als vier Wochenstunden der Lehrverpflichtungsgruppe III,
-
-- an Praxishauptschulen ab zwölf Klassen als fünf Wochenstunden der Lehrverpflichtungsgruppe III.
+1. an Praxishauptschulen bis zu elf Klassen als vier Wochenstunden der Lehrverpflichtungsgruppe III,
+2. an Praxishauptschulen ab zwölf Klassen als fünf Wochenstunden der Lehrverpflichtungsgruppe III.
 
 (2f) Gehört die Schule einem  Schulzentrum an, für das eine gemeinsame  Schulbibliothek (Bibliothek)  eingerichtet  ist,  ist  eine  gesonderte  Einrechnung  für  die  Betreuung  einer  Schulbibliothek (Bibliothek) an dieser Schule unzulässig.
 
@@ -294,23 +282,19 @@ Bundesrecht konsolidiert
 
 (3) Inwieweit Nebenleistungen, für die keine Vergütungen vorgesehen sind und die
 
-- vom Lehrer außerhalb der mit dem Unterricht verbundenen Pflichten erbracht werden und
-
-- durch die Bestimmungen dieses Bundesgesetzes nicht erfasst sind,
+1. vom Lehrer außerhalb der mit dem Unterricht verbundenen Pflichten erbracht werden und
+2. durch die Bestimmungen dieses Bundesgesetzes nicht erfasst sind,
 
 in die Lehrverpflichtung eingerechnet werden, hat der zuständige Bundesminister im Einvernehmen mit dem Bundeskanzler entweder allgemein durch Verordnung oder im Einzelfall zu bestimmen. Maßgebend hiefür ist die aus der Nebenleistung erwachsende zusätzliche Belastung des Lehrers im Vergleich zu den in den Bestimmungen dieses Bundesgesetzes angeführten Leistungen.
 
 (3a) Der Schulleiter kann unter Berücksichtigung der unterschiedlichen Belastung der Lehrer durch die Nebenleistungen eine andere Verteilung der Einrechnungen vornehmen, die für die betreffende Schule nach den Bestimmungen dieses Bundesgesetzes oder einer auf Grund dieses Bundesgesetzes erlassenen Verordnung vorgesehen sind. Er hat hiebei im Einvernehmen mit dem Dienststellenausschuss vorzugehen.
 
-(3b)  Zusätzlich  zu  den  auf  Grund  einer  Verordnung  gemäß  Abs. 3  an  einer  Schule  zustehenden Einrechnungen kann der Schulleiter für die pädagogisch-fachliche Betreuung der für den lehrplanmäßigen Unterricht verwendeten Informationstechnologie-Arbeitsplätze an mittleren und höheren Schulen
+(3b) Zusätzlich zu den auf Grund einer Verordnung gemäß Abs. 3 an einer Schule zustehenden Einrechnungen kann der Schulleiter für die pädagogisch-fachliche Betreuung der für den lehrplanmäßigen Unterricht verwendeten Informationstechnologie-Arbeitsplätze an mittleren und höheren Schulen
 
-- mit mindestens 11 Klassen eine Einrechnung von einer Wochenstunde,
-
-- mit mindestens 20 Klassen eine Einrechnung von zwei Wochenstunden,
-
-- mit mindestens 30 Klassen eine Einrechnung von drei Wochenstunden,
-
-- mit mindestens 40 Klassen eine Einrechnung von vier Wochenstunden
+1. mit mindestens 11 Klassen eine Einrechnung von einer Wochenstunde,
+2. mit mindestens 20 Klassen eine Einrechnung von zwei Wochenstunden,
+3. mit mindestens 30 Klassen eine Einrechnung von drei Wochenstunden,
+4. mit mindestens 40 Klassen eine Einrechnung von vier Wochenstunden
 
 der Lehrverpflichtungsgruppe II je Schule in die Lehrverpflichtung eines Lehrers oder mehrerer Lehrer vornehmen. Der Schulleiter hat hiebei im Einvernehmen mit dem Dienststellenausschuss vorzugehen. Bei der Inanspruchnahme von im ersten Satz angeführten Wochenstunden verringert sich der Anspruch auf Vergütung gemäß § 61b des Gehaltsgesetzes 1956 im selben Ausmaß an Wochenstunden.
 
@@ -324,9 +308,9 @@ Seite 7 von 35
 
 Bundesrecht konsolidiert
 
-- Für Lehrer der Verwendungsgruppe L PH finden die Abs. 1 bis 3 keine Anwendung.
+(4) Für Lehrer der Verwendungsgruppe L PH finden die Abs. 1 bis 3 keine Anwendung.
 
-(Anm.: aufgehoben durch BGBl. I Nr. 142/2000)
+(5) (Anm.: aufgehoben durch BGBl. I Nr. 142/2000)
 
 § 9a. Die von einem Unterrichtspraktikanten in einem Unterrichtsgegenstand zu haltenden Unterrichtsstunden  sind  in  die  Lehrverpflichtung  des  Lehrers  einzurechnen,  der  mit  der  Betreuung  des Unterrichtspraktikanten im betreffenden Unterrichtsgegenstand betraut ist.
 
@@ -334,17 +318,15 @@ Bundesrecht konsolidiert
 
 § 10. (1)  Die  Erziehertätigkeit  der  Lehrer  (Erzieher)  an  Internatsschulen  oder  Schülerheimen  des Bundes  oder  an  gleichartigen  Anstalten  ist,  soweit  in  den  folgenden  Absätzen  nicht  anderes  bestimmt wird, je Beschäftigungsstunde in der Woche  mit 0,5 Werteinheiten auf die Lehrverpflichtung anzurechnen  beziehungsweise  zu  vergüten.  Beschäftigungsstunde  ist  eine  Stunde,  in  der  der  Erzieher nach der bestehenden Diensteinteilung mit der Betreuung und Beaufsichtigung von Zöglingen außerhalb der Zeit des Nachtdienstes (Abs. 3) und der im Abs. 6 angeführten Dienstleistung beauftragt ist und die nicht durch die Erzieherzulage gemäß § 60a des Gehaltsgesetzes 1956 abgegolten wird.
 
-(2) Die Erziehertätigkeit an Sonnund Feiertagen ist abweichend vom Abs. 1 je Beschäftigungsstunde  in  der  Woche  mit  0,75  Werteinheiten  auf  die  Lehrverpflichtung  anzurechnen beziehungsweise zu vergüten.
+(2) Die Erziehertätigkeit an Sonn- und Feiertagen ist abweichend vom Abs. 1 je Beschäftigungsstunde in der Woche mit 0,75 Werteinheiten auf die Lehrverpflichtung anzurechnen beziehungsweise zu vergüten.
 
 (3)  Als  Nachtdienst  gilt  der  neunstündige  Zeitraum, der dem dienstplanmäßigen Wecken der vom Erzieher zu betreuenden Zöglinge vorangeht. Ein wöchentlich geleisteter Nachtdienst ist, soweit er nicht durch die Erzieherzulage gemäß § 60a des Gehaltsgesetzes 1956 abgegolten wird, mit 2,25 Werteinheiten auf die Lehrverpflichtung anzurechnen beziehungsweise zu vergüten.
 
-- Abweichend vom Abs. 3 sind Nachtdienste, die
+(4) Abweichend vom Abs. 3 sind Nachtdienste, die
 
-- an einem Sonn- oder Feiertag beginnen und an einem Werktag enden, mit 2,625 Werteinheiten,
-
-- an einem Werktag beginnen und an einem Sonn- oder Feiertag enden, mit 3 Werteinheiten,
-
-- zur Gänze auf Sonn- beziehungsweise Feiertage fallen, mit 3,375 Werteinheiten
+1. an einem Sonn- oder Feiertag beginnen und an einem Werktag enden, mit 2,625 Werteinheiten,
+2. an einem Werktag beginnen und an einem Sonn- oder Feiertag enden, mit 3 Werteinheiten,
+3. zur Gänze auf Sonn- beziehungsweise Feiertage fallen, mit 3,375 Werteinheiten
 
 auf die Lehrverpflichtung anzurechnen beziehungsweise zu vergüten.
 
@@ -358,13 +340,12 @@ auf die Lehrverpflichtung anzurechnen beziehungsweise zu vergüten.
 
 (9) Die Aufsichtsführung an Tagesschulheimen, offenen Studiersälen und ähnlichen Einrichtungen ist für je zwei tatsächlich gehaltene Stunden als eine Unterrichtsstunde der Lehrverpflichtungsgruppe III auf die Lehrverpflichtung anzurechnen.
 
-- Inwieweit Nebenleistungen, die vom Erzieher außerhalb
+(10) Inwieweit Nebenleistungen, die vom Erzieher außerhalb
 
-- der gemäß Abs. 1 bis 7 und 9 genannten Leistungen und
+1. der gemäß Abs. 1 bis 7 und 9 genannten Leistungen und
+2. der durch die Erzieherzulage gemäß § 60a des Gehaltsgesetzes 1956 abgegoltenen Leistungen
 
-- der durch die Erzieherzulage gemäß § 60a des Gehaltsgesetzes 1956 abgegoltenen Leistungen
-
-erbracht  werden,  in  die  Lehrverpflichtung  eingerechnet  werden,  hat  der  zuständige  Bundesminister  im Einvernehmen  mit  dem  Bundeskanzler  entweder  allgemein  durch  Verordnung  oder  im  Einzelfall  zu bestimmen.  Maßgebend  hiefür  ist  die  aus  der  Nebenleistung  erwachsende  zusätzliche  Belastung  des Erziehers im Vergleich zu den im § 9 angeführten Leistungen.
+erbracht werden, in die Lehrverpflichtung eingerechnet werden, hat der zuständige Bundesminister im Einvernehmen mit dem Bundeskanzler entweder allgemein durch Verordnung oder im Einzelfall zu bestimmen. Maßgebend hiefür ist die aus der Nebenleistung erwachsende zusätzliche Belastung des Erziehers im Vergleich zu den im § 9 angeführten Leistungen.
 
 ### Mitverwendung an einer Schule im Ausland
 
@@ -380,25 +361,22 @@ Seite 8 von 35
 
 Bundesrecht konsolidiert
 
-(2)  Diese  Unterrichtsstunden  sind  dabei  mit  jener  Zahl  von  Werteinheiten  je  Wochenstunde anzurechnen, die sich
+(2) Diese Unterrichtsstunden sind dabei mit jener Zahl von Werteinheiten je Wochenstunde anzurechnen, die sich
 
-- ausgehend vom entsprechenden österreichischen Unterrichtsgegenstand (§ 2 Abs. 1) und
-
-- unter  Berücksichtigung  einer  abweichenden  Dauer  der  Unterrichtsstunde  und  der  jährlichen Unterrichtszeit ergibt.
+1. ausgehend vom entsprechenden österreichischen Unterrichtsgegenstand (§ 2 Abs. 1) und
+2. unter Berücksichtigung einer abweichenden Dauer der Unterrichtsstunde und der jährlichen Unterrichtszeit ergibt.
 
 (3) Besteht kein entsprechender österreichischer Unterrichtsgegenstand, hat der zuständige Bundesminister jene Zahl von Werteinheiten im Einzelfall festzulegen, die der Anrechnung zugrunde zu legen ist. Maßgebend hiefür ist die zeitliche Belastung des Lehrers mit dem ausländischen Unterrichtsgegenstand  im Vergleich zur zeitlichen Belastung mit den im  § 2 Abs. 1  genannten Unterrichtsgegenständen.
 
-(4)  Eine  Verwendung  nach  Abs. 1  darf  nur  unterrichtliche  Tätigkeiten  umfassen  und  ist  nur  an Schulen in grenznahen Orten zulässig. Sie darf nicht so gestaltet sein, daß der Lehrer
+(4) Eine Verwendung nach Abs. 1 darf nur unterrichtliche Tätigkeiten umfassen und ist nur an Schulen in grenznahen Orten zulässig. Sie darf nicht so gestaltet sein, daß der Lehrer
 
-- im Ausland wohnen muß oder
+1. im Ausland wohnen muß oder
+2. an der Erfüllung seiner dienstlichen Aufgaben an der inländischen Schule beeinträchtigt wird.
 
-- an der Erfüllung seiner dienstlichen Aufgaben an der inländischen Schule beeinträchtigt wird.
+(5) Eine solche Verwendung bedarf
 
-- Eine solche Verwendung bedarf
-
-- eines Auftrages des Bundesministers für Unterricht, Kunst und Kultur und
-
-- der Zustimmung des ausländischen Schulerhalters und des Lehrers.
+1. eines Auftrages des Bundesministers für Unterricht, Kunst und Kultur und
+2. der Zustimmung des ausländischen Schulerhalters und des Lehrers.
 
 (6) Erhält der Lehrer für oder im Zusammenhang mit seiner Verwendung nach Abs. 1 Zuwendungen von dritter Seite, hat er diese dem Bund abzuführen.
 
@@ -412,9 +390,8 @@ Bundesrecht konsolidiert
 
 (4) Wird die Leitung des Betreuungsteiles an einer ganztägigen Schulform
 
-- dem gemäß § 9 mit der verwaltungsmäßigen Unterstützung des Direktors betrauten Lehrer oder
-
-- einem anderen Lehrer oder einem Erzieher
+1. dem gemäß § 9 mit der verwaltungsmäßigen Unterstützung des Direktors betrauten Lehrer oder
+2. einem anderen Lehrer oder einem Erzieher
 
 übertragen, sind für die mit der Leitung des Betreuungsteiles verbundenen Aufgaben 0,5 Werteinheiten je Gruppe in die Lehrverpflichtung einzurechnen. Die Bestellung mehrerer Leiter des Betreuungsteiles an einer ganztägigen Schulform ist unzulässig.
 
@@ -422,13 +399,11 @@ Bundesrecht konsolidiert
 
 ### Übergangs- und Schlußbestimmungen
 
-§ 13. (1)  An  mittleren  und  höheren  Schulen  können  für  Lehrer,  die  mit  der  Implementierung  der Software-Komponenten,  die für die Vollziehung des Dienstund Besoldungsrechtes der Lehrer erforderlich  sind,  an  den  Schulen  betraut  sind,  in  den  Unterrichtsjahren  2004/2005  bis  2006/2007  je Schule in die Lehrverpflichtung eingerechnet werden:
+§ 13. (1) An mittleren und höheren Schulen können für Lehrer, die mit der Implementierung der Software-Komponenten, die für die Vollziehung des Dienst- und Besoldungsrechtes der Lehrer erforderlich sind, an den Schulen betraut sind, in den Unterrichtsjahren 2004/2005 bis 2006/2007 je Schule in die Lehrverpflichtung eingerechnet werden:
 
-- bis zu einer Wochenstunde der Lehrverpflichtungsgruppe II bei bis zu zehn Klassen,
-
-- bis zu zwei Wochenstunden der Lehrverpflichtungsgruppe II bei elf bis 19 Klassen,
-
-- bis zu drei Wochenstunden der Lehrverpflichtungsgruppe II ab 20 Klassen.
+1. bis zu einer Wochenstunde der Lehrverpflichtungsgruppe II bei bis zu zehn Klassen,
+2. bis zu zwei Wochenstunden der Lehrverpflichtungsgruppe II bei elf bis 19 Klassen,
+3. bis zu drei Wochenstunden der Lehrverpflichtungsgruppe II ab 20 Klassen.
 
 (2) (Anm.: aufgehoben durch BGBl. I Nr. 127/1999)
 
@@ -464,9 +439,8 @@ Bundesrecht konsolidiert
 
 (5) Es treten in Kraft:
 
-§ 9 Abs. 2b in der Fassung des Bundesgesetzes BGBl. Nr. 873/1992 mit 1. Februar 1993,
-
-§ 8  und  § 12  Abs. 3  in  der  Fassung  des  Bundesgesetzes BGBl. Nr. 873/1992 mit 1. September 1993.
+1. § 9 Abs. 2b in der Fassung des Bundesgesetzes BGBl. Nr. 873/1992 mit 1. Februar 1993,
+2. § 8 und § 12 Abs. 3 in der Fassung des Bundesgesetzes BGBl. Nr. 873/1992 mit 1. September 1993.
 
 (6)  § 6,  § 7  Abs. 1,  § 9  Abs. 3  und  § 10  Abs. 10  in  der  Fassung  des  Bundesgesetzes  BGBl. Nr. 256/1993 treten mit 1. Juli 1993 in Kraft.
 
@@ -474,37 +448,28 @@ Bundesrecht konsolidiert
 
 (8) Es treten in Kraft:
 
-§ 3  Abs. 13,  § 7  Abs. 2,  § 9  Abs. 2b,  § 13,  § 14  und  § 16  in  der  Fassung  des  Bundesgesetzes BGBl. Nr. 16/1994 mit 1. Jänner 1994,
+1. § 3 Abs. 13, § 7 Abs. 2, § 9 Abs. 2b, § 13, § 14 und § 16 in der Fassung des Bundesgesetzes BGBl. Nr. 16/1994 mit 1. Jänner 1994,
+2. § 3 Abs. 3a und § 12 in der Fassung des Bundesgesetzes BGBl. Nr. 16/1994
 
-§ 3 Abs. 3a und § 12 in der Fassung des Bundesgesetzes BGBl. Nr. 16/1994
-
-- hinsichtlich  der  ersten  und  fünften  Schulstufe  sowie  des  Polytechnischen  Lehrganges  mit 1. September 1994,
-
-- hinsichtlich der zweiten und sechsten Schulstufe mit 1. September 1995,
-
-- hinsichtlich der dritten und siebenten Schulstufe mit 1. September 1996,
-
-- hinsichtlich der vierten und achten Schulstufe mit 1. September 1997.
+a) hinsichtlich der ersten und fünften Schulstufe sowie des Polytechnischen Lehrganges mit 1. September 1994,
+b) hinsichtlich der zweiten und sechsten Schulstufe mit 1. September 1995,
+c) hinsichtlich der dritten und siebenten Schulstufe mit 1. September 1996,
+d) hinsichtlich der vierten und achten Schulstufe mit 1. September 1997.
 
 (9) Es treten in Kraft:
 
-§ 3 Abs. 5 und 6 in der Fassung des Bundesgesetzes BGBl. Nr. 665/1994 mit 1. September 1994,
+1. § 3 Abs. 5 und 6 in der Fassung des Bundesgesetzes BGBl. Nr. 665/1994 mit 1. September 1994,
+2. Anlage 1 Z 44, 178a, 182a, 224a, 232a, 235a und Anlage 2 Z 1 bis 1d, 5a, 5b, 15a bis 15e, 25a bis 25c, 29a, 29b, 30a bis 30c, 32a und Anlage 3 Z 23, 52, 74, 110, 131a, 166, 238a in der Fassung des Bundesgesetzes BGBl. Nr. 665/1994 mit 1. September 1994,
+3. Anlage 4a Z 1 und 4 und Anlage 5 Z 70 in der Fassung des Bundesgesetzes BGBl. Nr. 665/1994
 
-- Anlage 1 Z 44, 178a, 182a, 224a, 232a, 235a und Anlage 2 Z 1 bis 1d, 5a, 5b, 15a bis 15e, 25a bis  25c,  29a,  29b,  30a  bis  30c,  32a  und  Anlage  3  Z 23,  52,  74,  110,  131a,  166,  238a  in  der Fassung des Bundesgesetzes BGBl. Nr. 665/1994 mit 1. September 1994,
+a) hinsichtlich der 1. und 2. Klassen der Fachschulen für wirtschaftliche Berufe mit 1. September 1994,
+b) hinsichtlich der 3. Klassen der Fachschulen für wirtschaftliche Berufe mit 1. September 1995,
 
-- Anlage 4a Z 1 und 4 und Anlage 5 Z 70 in der Fassung des Bundesgesetzes BGBl. Nr. 665/1994
+4. die Aufhebung der Anlage 3 Z 26, 83, 84, 173, 177, 214 und 253 mit Ablauf des 31. August 1994,
+5. die Aufhebung der Anlage 5 Z 5
 
-- hinsichtlich der 1. und 2. Klassen der Fachschulen für wirtschaftliche Berufe mit 1. September 1994,
-
-- hinsichtlich der 3. Klassen der Fachschulen für wirtschaftliche Berufe mit 1. September 1995,
-
-- die  Aufhebung  der  Anlage  3  Z 26,  83,  84,  173,  177,  214  und  253  mit  Ablauf  des  31. August 1994,
-
-- die Aufhebung der Anlage 5 Z 5
-
-- hinsichtlich der 1. und 2. Klassen der Fachschulen für wirtschaftliche Berufe mit Ablauf des 31. August 1994,
-
-- hinsichtlich  der  3.  Klassen  der  Fachschulen  für  wirtschaftliche  Berufe  mit  Ablauf  des 31. August 1995.
+a) hinsichtlich der 1. und 2. Klassen der Fachschulen für wirtschaftliche Berufe mit Ablauf des 31. August 1994,
+b) hinsichtlich der 3. Klassen der Fachschulen für wirtschaftliche Berufe mit Ablauf des 31. August 1995.
 
 (10) § 8 Abs. 8 und 9 in der Fassung des Bundesgesetzes BGBl. Nr. 297/1995 tritt mit 1. September 1995 in Kraft.
 
@@ -518,51 +483,44 @@ Seite 10 von 35
 
 Bundesrecht konsolidiert
 
-- In der Fassung des Bundesgesetzes BGBl. Nr. 201/1996 treten in Kraft:
+(11) In der Fassung des Bundesgesetzes BGBl. Nr. 201/1996 treten in Kraft:
 
-§ 5, § 7 Abs. 1, § 8 Abs. 4 und 5 und
-
-- die Aufhebung des § 7 Abs. 3
+1. § 5, § 7 Abs. 1, § 8 Abs. 4 und 5 und
+2. die Aufhebung des § 7 Abs. 3
 
 mit 1. September 1996.
 
-§ 14a  samt  Überschrift  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 61/1997  und  die Aufhebung des § 8 Abs. 8 und 9 durch das Bundesgesetz BGBl. I Nr. 61/1997 treten mit 1. Juli 1997 in Kraft.
+(12) § 14a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 61/1997 und die Aufhebung des § 8 Abs. 8 und 9 durch das Bundesgesetz BGBl. I Nr. 61/1997 treten mit 1. Juli 1997 in Kraft.
 
-§ 4  und  § 9  Abs. 3a  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 138/1997  treten  mit 1. September 1998 in Kraft. § 4 Abs. 2 und die Absatzbezeichnung des § 4 Abs. 1 treten mit Ablauf des 31. August 2008 außer Kraft.
+(13) § 4 und § 9 Abs. 3a in der Fassung des Bundesgesetzes BGBl. I Nr. 138/1997 treten mit 1. September 1998 in Kraft. § 4 Abs. 2 und die Absatzbezeichnung des § 4 Abs. 1 treten mit Ablauf des 31. August 2008 außer Kraft.
 
 (14) In der Fassung des Bundesgesetzes BGBl. I Nr. 123/1998 treten in Kraft:
 
-§ 11 Abs. 5 Z 1 mit 15. Februar 1997,
+1. § 11 Abs. 5 Z 1 mit 15. Februar 1997,
+2. § 8 Abs. 3 Z 2 und § 14a Abs. 3 mit 1. Juli 1998,
+3. § 2 Abs. 12, § 7 Abs. 1 und § 9 Abs. 2b bis 2g und 3a mit 1. September 1998,
+4. die Aufhebung des § 7 Abs. 3 und des § 15 Abs. 11 letzter Satz mit 1. September 1998.
 
-§ 8 Abs. 3 Z 2 und § 14a Abs. 3 mit 1. Juli 1998,
-
-§ 2 Abs. 12, § 7 Abs. 1 und § 9 Abs. 2b bis 2g und 3a mit 1. September 1998,
-
-- die Aufhebung des § 7 Abs. 3 und des § 15 Abs. 11 letzter Satz mit 1. September 1998.
-
-§ 11 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 127/1999 tritt mit 1. August 1999 in Kraft.  Zugleich  treten  § 13  Abs. 1  und  2  und  § 15  Abs. 2  zweiter  Satz  in  der  bis  zu  diesem  Zeitpunkt geltenden Fassung außer Kraft.
+(15) § 11 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 127/1999 tritt mit 1. August 1999 in Kraft. Zugleich treten § 13 Abs. 1 und 2 und § 15 Abs. 2 zweiter Satz in der bis zu diesem Zeitpunkt geltenden Fassung außer Kraft.
 
 (16) In der Fassung des Bundesgesetzes BGBl. I Nr. 94/2000 treten in Kraft:
 
-§ 6, § 8 Abs. 6, § 9 Abs. 3, § 10 Abs. 10 und § 11 Abs. 5 Z 1 mit 1. April 2000,
-
-§ 1, § 7 Abs. 3, § 9 Abs. 2b und § 13 Abs. 1 mit 1. September 2000.
+1. § 6, § 8 Abs. 6, § 9 Abs. 3, § 10 Abs. 10 und § 11 Abs. 5 Z 1 mit 1. April 2000,
+2. § 1, § 7 Abs. 3, § 9 Abs. 2b und § 13 Abs. 1 mit 1. September 2000.
 
 (17) § 9 Abs. 1, 2, 2a, 2b, 2c, 2e, 3 und 3a und § 12 Abs. 4 Z 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 142/2000, die Aufhebung des § 9 Abs. 2g und 5 durch das angeführte Bundesgesetz und der Entfall der bisherigen Anlagen 7 bis 9 auf Grund des Art. 47 des angeführten Bundesgesetzes treten mit 1. September 2001 in Kraft.
 
 (18) In der Fassung des Bundesgesetzes BGBl. I Nr. 87/2001 treten in Kraft:
 
-§ 11 Abs. 5 Z 1 mit 1. April 2000,
-
-§ 9 Abs. 3b und § 13 Abs. 1 mit 1. September 2001.
+1. § 11 Abs. 5 Z 1 mit 1. April 2000,
+2. § 9 Abs. 3b und § 13 Abs. 1 mit 1. September 2001.
 
 (19) In der Fassung des Bundesgesetzes BGBl. I Nr. 119/2002 treten in Kraft:
 
-§ 2 Abs. 3, 4, 9 und 10 Z 2, § 3 Abs. 6, 7, 8, 8a, 9, 9a und 10, § 6, § 9 Abs. 3, § 10 Abs. 10 und § 13 Abs. 1 mit 1. September 2002,
+1. § 2 Abs. 3, 4, 9 und 10 Z 2, § 3 Abs. 6, 7, 8, 8a, 9, 9a und 10, § 6, § 9 Abs. 3, § 10 Abs. 10 und § 13 Abs. 1 mit 1. September 2002,
+2. § 8 Abs. 7 mit 1. Jänner 2003.
 
-§ 8 Abs. 7 mit 1. Jänner 2003.
-
-§ 6,  § 9  Abs. 3  und  § 10  Abs. 10  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 119/2002  treten  mit Ablauf des 31. August 2004 außer Kraft. Mit 1. September 2004 treten § 6, § 9 Abs. 3 und § 10 Abs. 10 in der bis zum Ablauf des 31. August 2002 geltenden Fassung wieder in Kraft.
+§ 6, § 9 Abs. 3 und § 10 Abs. 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 119/2002 treten mit Ablauf des 31. August 2004 außer Kraft. Mit 1. September 2004 treten § 6, § 9 Abs. 3 und § 10 Abs. 10 in der bis zum Ablauf des 31. August 2002 geltenden Fassung wieder in Kraft.
 
 (20) § 13 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2003 tritt mit 1. September 2003 in Kraft.
 
@@ -572,15 +530,13 @@ mit 1. September 1996.
 
 (23) In der Fassung des Bundesgesetzes BGBl. I Nr. 165/2005 treten in Kraft:
 
-§ 4 Abs. 1 in der Fassung des Art. 10 Z 8 mit 1. September 2006,
-
-§ 1 Abs. 1, § 2 Abs. 2, 3 und 12, § 3, § 4 Abs. 1 in der Fassung des Art. 10 Z 9 und § 7 Abs. 3, § 9 Abs. 4 mit 1. Oktober 2007.
+1. § 4 Abs. 1 in der Fassung des Art. 10 Z 8 mit 1. September 2006,
+2. § 1 Abs. 1, § 2 Abs. 2, 3 und 12, § 3, § 4 Abs. 1 in der Fassung des Art. 10 Z 9 und § 7 Abs. 3, § 9 Abs. 4 mit 1. Oktober 2007.
 
 (24) In der Fassung des Bundesgesetzes BGBl. I Nr. 53/2007 treten in Kraft:
 
-§ 11 Abs. 5 Z 1 mit 1. März 2007 und
-
-§ 3 Abs. 7a mit 1. Oktober 2007.
+1. § 11 Abs. 5 Z 1 mit 1. März 2007 und
+2. § 3 Abs. 7a mit 1. Oktober 2007.
 
 www.ris.bka.gv.at
 
@@ -592,15 +548,15 @@ Seite 11 von 35
 
 Bundesrecht konsolidiert
 
-§ 2 Abs. 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 96/2007 tritt mit 1. Oktober 2007 in Kraft.
+(25) § 2 Abs. 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 96/2007 tritt mit 1. Oktober 2007 in Kraft.
 
-§ 5  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 52/2009  tritt  mit  1. September  2009  in Kraft.
+(26) § 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 52/2009 tritt mit 1. September 2009 in Kraft.
 
-§ 3 Abs. 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 55/2012 tritt mit 1. Oktober 2010 in Kraft. § 1 Abs. 1, § 2 Abs. 9, 12 und 13, die Aufhebung  des  bisherigen § 3 Abs. 7 und die Neubezeichnung  des  bisherigen  § 3  Abs. 7a  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 55/2012 treten mit 1. September 2013 in Kraft; gleichzeitig tritt § 2 Abs. 3 außer Kraft.
+(27) § 3 Abs. 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 55/2012 tritt mit 1. Oktober 2010 in Kraft. § 1 Abs. 1, § 2 Abs. 9, 12 und 13, die Aufhebung des bisherigen § 3 Abs. 7 und die Neubezeichnung des bisherigen § 3 Abs. 7a in der Fassung des Bundesgesetzes BGBl. I Nr. 55/2012 treten mit 1. September 2013 in Kraft; gleichzeitig tritt § 2 Abs. 3 außer Kraft.
 
-§ 3 Abs. 8 und 11 sowie der Entfall des § 3 Abs. 9 in der Fassung des Bundesgesetzes BGBl. I Nr. 120/2012 treten mit 1. September 2013 in Kraft.
+(28) § 3 Abs. 8 und 11 sowie der Entfall des § 3 Abs. 9 in der Fassung des Bundesgesetzes BGBl. I Nr. 120/2012 treten mit 1. September 2013 in Kraft.
 
-§ 1 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 211/2013 tritt mit 1. September 2015 in Kraft.
+(29) § 1 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 211/2013 tritt mit 1. September 2015 in Kraft.
 
 § 16. Mit der Vollziehung dieses Bundesgesetzes ist, soweit darin nichts anderes bestimmt ist, jedes Bundesministerium, und zwar insoweit betraut, als es oberste Dienstbehörde ist.
 
@@ -608,45 +564,26 @@ Bundesrecht konsolidiert
 
 ### Lehrverpflichtungsgruppe I
 
-- Allgemein  chemisch-technologisches  Praktikum  an  höheren  Lehranstalten  für  Biochemie  und Schädlingsbekämpfung.
-
-- Allgemeine  Biologie  an  höheren  Lehranstalten  für  Biochemie  und  Schädlingsbekämpfung,  für Technische Chemie und für Gerbereichemie und Ledertechnik.
-
-- Allgemeine chemische Technologie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Allgemeine Maschinenkunde an Fachschulen für Gerbereichemie und Ledertechnik.
-
-- Allgemeine Maschinenkunde mit Konstuktionsübungen an höheren Lehranstalten für Holztechnik.
-
-- Analytisch-chemische Übungen an höheren Lehranstalten für Silikattechnik.
-
-- Analytische  Chemie  an  höheren  Lehranstalten  für  Technische  Chemie,  für  Biochemie  und Schädlingsbekämpfung, für  Gerbereichemie und Ledertechnik und für Silikattechnik, sowie an Fachschulen für Gerbereichemie und Ledertechnik.
-
-- Analytisches Laboratorium an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
-
-- Angewandte Mineralogie und Bergbaukunde an höheren Lehranstalten für Silikattechnik.
-
-- Angewandte Perspektive an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
-
-- Anorganische  Chemie  an  höheren  Lehranstalten  für  Technische  Chemie,  für  Biochemie  und Schädlingsbekämpfung  und  für  Gerbereichemie  und  Ledertechnik,  sowie  an  Fachschulen  für Gerbereichemie und Ledertechnik.
-
-- Anorganisches technologisches Laboratorium an höheren Lehranstalten für Technische Chemie und für Gerbereichemie und Ledertechnik.
-
-- Anorganische Technologie und Untersuchungsmethoden an höheren Lehranstalten für Technische Chemie und für Gerbereichemie und Ledertechnik.
-
-- Baubetriebslehre  an  höheren  Lehranstalten  für  Hochbau,  für  Holzbau,  für  Tiefbau,  und  an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Fachschulen für Zimmerer und an Bauhandwerkerschulen für Maurer und für Zimmerer.
-
-- Bauformenlehre  an  höheren  Lehranstalten  für  Hochbau,  für  Holzbau,  an  höheren  technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau und an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen.
-
-- Baukunde an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
-
-- Baukunde und Bauzeichnen an höheren Lehranstalten für Holztechnik.
-
-- Baumaschinen an Fachschulen für Steinmetzerei.
-
-- Baumaschinenkunde  an  höheren  Lehranstalten  für  Hochbau,  für  Tiefbau  und  an  höheren technischen  Lehranstalten  für  Berufstätige,  Fachrichtung  Hochbau,  sowie  an  Fachschulen  für Zimmerer und Bauhandwerkerschulen für Maurer.
-
-- Baumechanik an Fachschulen für Steinmetzerei und für Zimmerer.
+1. Allgemein chemisch-technologisches Praktikum an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+2. Allgemeine Biologie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung, für Technische Chemie und für Gerbereichemie und Ledertechnik.
+3. Allgemeine chemische Technologie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+4. Allgemeine Maschinenkunde an Fachschulen für Gerbereichemie und Ledertechnik.
+5. Allgemeine Maschinenkunde mit Konstuktionsübungen an höheren Lehranstalten für Holztechnik.
+6. Analytisch-chemische Übungen an höheren Lehranstalten für Silikattechnik.
+7. Analytische Chemie an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung, für Gerbereichemie und Ledertechnik und für Silikattechnik, sowie an Fachschulen für Gerbereichemie und Ledertechnik.
+8. Analytisches Laboratorium an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
+9. Angewandte Mineralogie und Bergbaukunde an höheren Lehranstalten für Silikattechnik.
+10. Angewandte Perspektive an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
+11. Anorganische Chemie an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik, sowie an Fachschulen für Gerbereichemie und Ledertechnik.
+12. Anorganisches technologisches Laboratorium an höheren Lehranstalten für Technische Chemie und für Gerbereichemie und Ledertechnik.
+13. Anorganische Technologie und Untersuchungsmethoden an höheren Lehranstalten für Technische Chemie und für Gerbereichemie und Ledertechnik.
+14. Baubetriebslehre an höheren Lehranstalten für Hochbau, für Holzbau, für Tiefbau, und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Fachschulen für Zimmerer und an Bauhandwerkerschulen für Maurer und für Zimmerer.
+15. Bauformenlehre an höheren Lehranstalten für Hochbau, für Holzbau, an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau und an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen.
+16. Baukunde an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
+17. Baukunde und Bauzeichnen an höheren Lehranstalten für Holztechnik.
+18. Baumaschinen an Fachschulen für Steinmetzerei.
+19. Baumaschinenkunde an höheren Lehranstalten für Hochbau, für Tiefbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Fachschulen für Zimmerer und Bauhandwerkerschulen für Maurer.
+20. Baumechanik an Fachschulen für Steinmetzerei und für Zimmerer.
 
 www.ris.bka.gv.at
 
@@ -658,57 +595,32 @@ Seite 12 von 35
 
 Bundesrecht konsolidiert
 
-- Baustillehre  an  höheren  Lehranstalten  für  Hochbau,  für  Holzbau  und  an  höheren  technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
-
-- Baustoffkunde an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen.
-
-- Baustofflehre an höheren Lehranstalten für Hochbau, für Holzbau, für Tiefbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
-
-- Bauzeichen und Konstruktionsübungen an höheren Lehranstalten für Hochbau, für Holzbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
-
-- Betriebslaboratorium an höheren Lehranstalten für Maschinenbau, für Maschinenbau, Motorenund Kraftfahrzeugbau, für Maschinenbau, Motoren- und Landmaschinenbau, für Maschinenbau und Schweißtechnik, für Feinwerktechnik, für Werkzeugund Vorrichtungsbau, für Betriebstechnik, für Kunststofftechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau, sowie an der Bundesfachschule für Technik.
-
-- Betriebslehre an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei, für Textilchemie, für Reproduktionsund Drucktechnik, an höheren Lehranstalten textilkaufmännischer Richtung, an einjährigen Abiturientenlehrgängen für Weberei, an Fachschulen für Damenkleiderkonfektion, für Herrenkleiderkonfektion und an Bauhandwerkerschulen für Steinmetzen, sowie an der Bundesfachschule für Technik.
-
-- Betriebslehre und technische Kalkulation an höheren technischen und gewerblichen Lehranstalten,  an  gewerblichen,  technischen  und  kunstgewerblichen  Fachschulen  und  an  den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
-
-- Biochemie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Biochemische Technologie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Biochemisches Laboratorium an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Biologisches Praktikum an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Bodenlaboratorium und Baustofflaboratorium an höheren Lehranstalten für Hochbau, für Tiefbau und für Holzbau.
-
-- Brückenbau an höheren Lehranstalten für Tiefbau.
-
-- Buchhaltung,  Bilanz-  und  Steuerlehre  an  Handelsakademien  und  Handelsschulen  und  den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik (Handelsschule).
-
-- Buchhaltung,  Bilanzlehre  und  Kostenrechnung  an  höheren  Lehranstalten  textilkaufmännischer Richtung.
-
-- Chemisch-analytische Übungen an höheren Lehranstalten für Silikattechnik.
-
-- Chemisches Laboratorium an höheren Lehranstalten für technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik, an Fachschulen für Gerbereichemie und Ledertechnik sowie an Meisterklassen für künstlerische Wandgestaltung.
-
-- Chemisches Praktikum an höheren Lehranstalten für Holztechnik.
-
-- Chemische Technologie der Kunststoffe an höheren Lehranstalten für Kunststofftechnik.
-
-- Chemische Technologie und Materialienkunde an höheren Lehranstalten für Reproduktions- und Drucktechnik.
-
-- Chemische Textiltechnologie an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei, für Textilchemie, an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
-
-- Dampferzeuger,  Kolbendampfmaschinen  und  Dampfturbinen  an  höheren  Lehranstalten  für Maschinenbau, Motorenund Kraftfahrzeugbau und für Maschinenbau, Motorenund Landmaschinenbau.
-
-- Dampferzeuger, Strömungsmaschinen für Dampf und Gas mit Konstruktionsübungen an höheren Lehranstalten  für  Maschinenbau,  für  Maschinenbau  und  Schweißtechnik  und  an  höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
-
-- Darstellende Geometrie an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, an höheren Lehranstalten für Landtechnik und an höheren Lehranstalten für Forstwirtschaft sowie an der Bundesfachschule für Technik.
-
-- Darstellende  Geometrie  und  Technisches  Zeichnen  an  höheren  Lehranstalten  für  Weberei  und Spinnerei, für Wirkerei und Strickerei und für Textilchemie.
-
-- Deutsch.
+21. Baustillehre an höheren Lehranstalten für Hochbau, für Holzbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
+22. Baustoffkunde an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen.
+23. Baustofflehre an höheren Lehranstalten für Hochbau, für Holzbau, für Tiefbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
+24. Bauzeichen und Konstruktionsübungen an höheren Lehranstalten für Hochbau, für Holzbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
+25. Betriebslaboratorium an höheren Lehranstalten für Maschinenbau, für Maschinenbau, Motoren- und Kraftfahrzeugbau, für Maschinenbau, Motoren- und Landmaschinenbau, für Maschinenbau und Schweißtechnik, für Feinwerktechnik, für Werkzeug- und Vorrichtungsbau, für Betriebstechnik, für Kunststofftechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau, sowie an der Bundesfachschule für Technik.
+26. Betriebslehre an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei, für Textilchemie, für Reproduktions- und Drucktechnik, an höheren Lehranstalten textilkaufmännischer Richtung, an einjährigen Abiturientenlehrgängen für Weberei, an Fachschulen für Damenkleiderkonfektion, für Herrenkleiderkonfektion und an Bauhandwerkerschulen für Steinmetzen, sowie an der Bundesfachschule für Technik.
+27. Betriebslehre und technische Kalkulation an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
+28. Biochemie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+29. Biochemische Technologie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+30. Biochemisches Laboratorium an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+31. Biologisches Praktikum an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+32. Bodenlaboratorium und Baustofflaboratorium an höheren Lehranstalten für Hochbau, für Tiefbau und für Holzbau.
+33. Brückenbau an höheren Lehranstalten für Tiefbau.
+34. Buchhaltung, Bilanz- und Steuerlehre an Handelsakademien und Handelsschulen und den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik (Handelsschule).
+35. Buchhaltung, Bilanzlehre und Kostenrechnung an höheren Lehranstalten textilkaufmännischer Richtung.
+36. Chemisch-analytische Übungen an höheren Lehranstalten für Silikattechnik.
+37. Chemisches Laboratorium an höheren Lehranstalten für technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik, an Fachschulen für Gerbereichemie und Ledertechnik sowie an Meisterklassen für künstlerische Wandgestaltung.
+38. Chemisches Praktikum an höheren Lehranstalten für Holztechnik.
+39. Chemische Technologie der Kunststoffe an höheren Lehranstalten für Kunststofftechnik.
+40. Chemische Technologie und Materialienkunde an höheren Lehranstalten für Reproduktions- und Drucktechnik.
+41. Chemische Textiltechnologie an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei, für Textilchemie, an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
+42. Dampferzeuger, Kolbendampfmaschinen und Dampfturbinen an höheren Lehranstalten für Maschinenbau, Motoren- und Kraftfahrzeugbau und für Maschinenbau, Motoren- und Landmaschinenbau.
+43. Dampferzeuger, Strömungsmaschinen für Dampf und Gas mit Konstruktionsübungen an höheren Lehranstalten für Maschinenbau, für Maschinenbau und Schweißtechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
+44. Darstellende Geometrie an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, an höheren Lehranstalten für Landtechnik und an höheren Lehranstalten für Forstwirtschaft sowie an der Bundesfachschule für Technik.
+45. Darstellende Geometrie und Technisches Zeichnen an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei und für Textilchemie.
+46. Deutsch.
 
 www.ris.bka.gv.at
 
@@ -720,63 +632,35 @@ Seite 13 von 35
 
 Bundesrecht konsolidiert
 
-- Einführung in die zweite Fremdsprache an Handelsschulen für Berufstätige.
-
-- Eisengießereikunde an höheren Lehranstalten für Gießereitechnik.
-
-- Eisenhüttenkunde an höheren Lehranstalten für Gießereitechnik.
-
-- Elektrische Anlagen, Licht- und Hochspannungstechnik an Fachschulen für Starkstromtechnik.
-
-- Elektrische  Anlagen,  Licht-  und  Hochspannungstechnik  mit  Konstruktionsübungen  an  höheren Lehranstalten  für  Elektrotechnik  und  an  höheren  technischen  Lehranstalten  für  Berufstätige, Fachrichtung Elektrotechnik.
-
-- Elektrische Maschinen und Anlagen an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik, für Hochfrequenz und Nachrichtentechnik und an höheren technischen Lehranstalten  für  Berufstätige,  Fachrichtung  Nachrichtentechnik,  sowie  an  Fachschulen  für Hochfrequenz- und Rundfunktechnik.
-
-- Elektrische Maschinen und Geräte an Fachschulen für Starkstromtechnik.
-
-- Elektrische  Maschinen  und  Geräte  mit  Konstruktionsübungen  an  höheren  Lehranstalten  für Elektrotechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Elektrotechnik.
-
-- Elektrische Meßkunde mit Übungen an Fachschulen für Starkstromtechnik und für Hochfrequenz- und Rundfunktechnik.
-
-- Elektrische  Meßtechnik  an  höheren  Lehranstalten  für  Elektrotechnik,  für  Hochfrequenz  und Nachrichtentechnik, für elektrische Nachrichtentechnik und Elektronik, an höheren technischen Lehranstalten  für  Berufstätige,  Fachrichtung  Elektrotechnik,  Fachrichtung  Nachrichtentechnik und an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Elektrische Nachrichtentechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik und an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Elektrische Uhren an Fachschulen für Uhrmacher und an Meisterklassen für Uhrmacher.
-
-- Elektroakustik an Fachschulen für Hochfrequenz und Rundfunktechnik.
-
-- Elektroakustik, Verstärker-, Empfängerund Antennentechnik an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Elektrochemie an höheren Lehranstalten für Technische Chemie.
-
-- Elektrofeinwerktechnik mit Konstruktionsübungen an höheren Lehranstalten für Feinwerktechnik.
-
-- Elektronik  und  Radiotechnik  an  höheren  Lehranstalten  für  elektrische  Nachrichtentechnik  und Elektronik.
-
-- Elektrotechnik  an  höheren  technischen  und  gewerblichen  Lehranstalten,  an  gewerblichen, technischen  und  kunstgewerblichen  Fachschulen,  an  den  Sonderformen  dieser  Schulen  und  an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik.
-
-- Elektrotechnik im Betrieb an der Bundesfachschule für Technik.
-
-- Elektrotechnik mit Übungen an höheren Lehranstalten für Feinwerktechnik, an Fachschulen für Metallbearbeitung und an Werkmeisterschulen für Elektrotechnik, sowie an der Bundesfachschule für Technik.
-
-- Elektrotechnik und Laboratoriumsübungen an höheren Lehranstalten für Silikattechnik.
-
-- Elektrotechnik und Optik an höheren Lehranstalten für Reproduktions- und Drucktechnik.
-
-- Elektrotechnik und Regelungstechnik mit Übungen an höheren Lehranstalten für Kunststofftechnik.
-
-- Elektrotechnisches  Laboratorium  an  höheren  Lehranstalten  für  Elektrotechnik,  an  höheren technischen  Lehranstalten  für  Berufstätige,  Fachrichtung  Elektrotechnik  und  an  zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Elemente für Feinwerktechnik mit Konstruktionsübungen an höheren Lehranstalten für Feinwerktechnik.
-
-- Empfangs- und Sendetechnik an Fachschulen für Hochfrequenz- und Rundfunktechnik.
-
-- Entwerfen  an  höheren  Lehranstalten  für  Hochbau,  für  Holzbau  und  an  höheren  technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Fachschulen für Zimmerer.
-
-- Entwurf an Glasfachschulen, an Fachschulen für angewandte Malerei, für Gebrauchsgraphik, für Musterzeichnen und an Meisterklassen für Gebrauchsgraphik.
-
-- Entwurfzeichnen an Bauhandwerkerschulen für Maurer und für Zimmerer.
+47. Einführung in die zweite Fremdsprache an Handelsschulen für Berufstätige.
+48. Eisengießereikunde an höheren Lehranstalten für Gießereitechnik.
+49. Eisenhüttenkunde an höheren Lehranstalten für Gießereitechnik.
+50. Elektrische Anlagen, Licht- und Hochspannungstechnik an Fachschulen für Starkstromtechnik.
+51. Elektrische Anlagen, Licht- und Hochspannungstechnik mit Konstruktionsübungen an höheren Lehranstalten für Elektrotechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Elektrotechnik.
+52. Elektrische Maschinen und Anlagen an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik, für Hochfrequenz und Nachrichtentechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik, sowie an Fachschulen für Hochfrequenz- und Rundfunktechnik.
+53. Elektrische Maschinen und Geräte an Fachschulen für Starkstromtechnik.
+54. Elektrische Maschinen und Geräte mit Konstruktionsübungen an höheren Lehranstalten für Elektrotechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Elektrotechnik.
+55. Elektrische Meßkunde mit Übungen an Fachschulen für Starkstromtechnik und für Hochfrequenz- und Rundfunktechnik.
+56. Elektrische Meßtechnik an höheren Lehranstalten für Elektrotechnik, für Hochfrequenz und Nachrichtentechnik, für elektrische Nachrichtentechnik und Elektronik, an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Elektrotechnik, Fachrichtung Nachrichtentechnik und an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+57. Elektrische Nachrichtentechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik und an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+58. Elektrische Uhren an Fachschulen für Uhrmacher und an Meisterklassen für Uhrmacher.
+59. Elektroakustik an Fachschulen für Hochfrequenz und Rundfunktechnik.
+60. Elektroakustik, Verstärker-, Empfänger- und Antennentechnik an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+61. Elektrochemie an höheren Lehranstalten für Technische Chemie.
+62. Elektrofeinwerktechnik mit Konstruktionsübungen an höheren Lehranstalten für Feinwerktechnik.
+63. Elektronik und Radiotechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik.
+64. Elektrotechnik an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen, an den Sonderformen dieser Schulen und an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik.
+65. Elektrotechnik im Betrieb an der Bundesfachschule für Technik.
+66. Elektrotechnik mit Übungen an höheren Lehranstalten für Feinwerktechnik, an Fachschulen für Metallbearbeitung und an Werkmeisterschulen für Elektrotechnik, sowie an der Bundesfachschule für Technik.
+67. Elektrotechnik und Laboratoriumsübungen an höheren Lehranstalten für Silikattechnik.
+68. Elektrotechnik und Optik an höheren Lehranstalten für Reproduktions- und Drucktechnik.
+69. Elektrotechnik und Regelungstechnik mit Übungen an höheren Lehranstalten für Kunststofftechnik.
+70. Elektrotechnisches Laboratorium an höheren Lehranstalten für Elektrotechnik, an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Elektrotechnik und an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+71. Elemente für Feinwerktechnik mit Konstruktionsübungen an höheren Lehranstalten für Feinwerktechnik.
+72. Empfangs- und Sendetechnik an Fachschulen für Hochfrequenz- und Rundfunktechnik.
+73. Entwerfen an höheren Lehranstalten für Hochbau, für Holzbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Fachschulen für Zimmerer.
+74. Entwurf an Glasfachschulen, an Fachschulen für angewandte Malerei, für Gebrauchsgraphik, für Musterzeichnen und an Meisterklassen für Gebrauchsgraphik.
+75. Entwurfzeichnen an Bauhandwerkerschulen für Maurer und für Zimmerer.
 
 www.ris.bka.gv.at
 
@@ -788,69 +672,38 @@ Seite 14 von 35
 
 Bundesrecht konsolidiert
 
-- Fabrikationslehre an höheren Lehranstalten für Betriebstechnik und an der Bundesfachschule für Technik.
-
-- Fabrikationsund Betriebslehre, Technische Kalkulation an höheren Lehranstalten für Werkzeug- und Vorrichtungsbau.
-
-- Fachkunde an höheren Lehranstalten für Reproduktions- und Drucktechnik an Fachschulen für Metallbearbeitung, für Steinmetzerei, für Zimmerer, für Damenkleiderkonfektion, für Herrenkleiderkonfektion, für Maschinstickerei, an Meisterklassen für Maschinsticker, an Werkmeisterschulen für Maschinenbau, an Bauhandwerkerschulen für Zimmerer, für Steinmetzen und an Meisterschulen für das Malerhandwerk, sowie an der Bundesfachschule für Technik.
-
-- Fachkunde der Farbenphotographie an Fachschulen für Photographie.
-
-- Fachtechnologie an Fachschulen für Gerbereichemie und Ledertechnik.
-
-- Fachtechnologie und Untersuchungsmethoden an höheren Lehranstalten für Gerbereichemie und Ledertechnik.
-
-- Fachzeichen  an  höheren  Lehranstalten  für  Möbelbau  (Möbelbau  und  Innenausbau)  und  an Abiturientenlehrgängen für Weberei.
-
-- Feinwerktechnik mit Konstruktionsübungen an höheren Lehranstalten für Feinwerktechnik.
-
-- Fernmeldetechnik an Fachschulen für Starkstromtechnik und für Hochfrequenzund Rundfunktechnik.
-
-- Fernsehtechnik an Fachschulen für Hochfrequenz- und Rundfunktechnik.
-
-- Festigkeitslehre an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
-
-- Feuerungs- und Gießereikunde an höheren Lehranstalten für Gießereitechnik.
-
-- Feuerungs- und Heizungstechnik an Fachschulen für Keramik und Ofenbau.
-
-- Feuerungstechnik und Wärmewirtschaft an höheren Lehranstalten für Gießereitechnik.
-
-- Gärungstechnik an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Gebäudeinstallation  an  höheren  Lehranstalten  für  Hochbau,  für  Holzbau  und  an  höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Bauhandwerkerschulen für Maurer und für Zimmerer.
-
-- Gebäudelehre an höheren Lehranstalten für Hochbau, für Holzbau und an höheren technischen Lehranstalten  für  Berufstätige,  Fachrichtung  Hochbau,  sowie  an  Bauhandwerkerschulen  für Maurer und für Zimmerer.
-
-- Gebäudelehre und Gebäudeinstallation an Fachschulen für Zimmerer.
-
-- Geometrie und Darstellende Geometrie an Glasfachschulen und Meisterschulen für das Malerhandwerk.
-
-- Gerätekunde an Fachschulen für Hochfrequenz- und Rundfunktechnik.
-
-- Gerbereichemie an höheren Lehranstalten und an Fachschulen für Gerbereichemie und Ledertechnik.
-
-- Gerbereichemisches Laboratorium an höheren Lehranstalten für Gerbereichemie und Ledertechnik.
-
-- Gerbereimaschinenkunde an Fachschulen für Gerbereichemie und Ledertechnik.
-
-- Gerbstofflehre an höheren Lehranstalten für Gerbereichemie und Ledertechnik.
-
-- Getriebelehre an höheren Lehranstalten für Weberei und Spinnerei.
-
-- Gießereimaschinen und -einrichtungen mit Konstruktionsübungen an höheren Lehranstalten für Gießereitechnik.
-
-- Gießereitechnische Übungen an höheren Lehranstalten für Gießereitechnik.
-
-- Griechisch.
-
-- Grund- und Wasserbau an höheren Lehranstalten für Tiefbau.
-
-- Grundlagen  der  Elektrotechnik  an  höheren  Lehranstalten  für  Elektrotechnik,  für  elektrische Nachrichtentechnik  und  Elektronik,  für  Hochfrequenz-  und  Nachrichtentechnik,  an  höheren technischen Lehranstalten für Berufstätige, Fachrichtung  Elektrotechnik  und  Fachrichtung Nachrichtentechnik, an zweijährigen Abiturientenlehrgängen für Radiotechnik sowie an Fachschulen für Starkstromtechnik und für Hochfrequenz- und Rundfunktechnik.
-
-- Grundlagen der Feinwerktechnik an Fachschulen für Uhrmacher.
-
-- Grundlagen der Hochfrequenztechnik an Fachschulen für Hochfrequenz- und Rundfunktechnik.
+76. Fabrikationslehre an höheren Lehranstalten für Betriebstechnik und an der Bundesfachschule für Technik.
+77. Fabrikations- und Betriebslehre, Technische Kalkulation an höheren Lehranstalten für Werkzeug- und Vorrichtungsbau.
+78. Fachkunde an höheren Lehranstalten für Reproduktions- und Drucktechnik an Fachschulen für Metallbearbeitung, für Steinmetzerei, für Zimmerer, für Damenkleiderkonfektion, für Herrenkleiderkonfektion, für Maschinstickerei, an Meisterklassen für Maschinsticker, an Werkmeisterschulen für Maschinenbau, an Bauhandwerkerschulen für Zimmerer, für Steinmetzen und an Meisterschulen für das Malerhandwerk, sowie an der Bundesfachschule für Technik.
+79. Fachkunde der Farbenphotographie an Fachschulen für Photographie.
+80. Fachtechnologie an Fachschulen für Gerbereichemie und Ledertechnik.
+81. Fachtechnologie und Untersuchungsmethoden an höheren Lehranstalten für Gerbereichemie und Ledertechnik.
+82. Fachzeichen an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau) und an Abiturientenlehrgängen für Weberei.
+83. Feinwerktechnik mit Konstruktionsübungen an höheren Lehranstalten für Feinwerktechnik.
+84. Fernmeldetechnik an Fachschulen für Starkstromtechnik und für Hochfrequenz- und Rundfunktechnik.
+85. Fernsehtechnik an Fachschulen für Hochfrequenz- und Rundfunktechnik.
+86. Festigkeitslehre an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
+87. Feuerungs- und Gießereikunde an höheren Lehranstalten für Gießereitechnik.
+88. Feuerungs- und Heizungstechnik an Fachschulen für Keramik und Ofenbau.
+89. Feuerungstechnik und Wärmewirtschaft an höheren Lehranstalten für Gießereitechnik.
+90. Gärungstechnik an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+91. Gebäudeinstallation an höheren Lehranstalten für Hochbau, für Holzbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Bauhandwerkerschulen für Maurer und für Zimmerer.
+92. Gebäudelehre an höheren Lehranstalten für Hochbau, für Holzbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Bauhandwerkerschulen für Maurer und für Zimmerer.
+93. Gebäudelehre und Gebäudeinstallation an Fachschulen für Zimmerer.
+94. Geometrie und Darstellende Geometrie an Glasfachschulen und Meisterschulen für das Malerhandwerk.
+95. Gerätekunde an Fachschulen für Hochfrequenz- und Rundfunktechnik.
+96. Gerbereichemie an höheren Lehranstalten und an Fachschulen für Gerbereichemie und Ledertechnik.
+97. Gerbereichemisches Laboratorium an höheren Lehranstalten für Gerbereichemie und Ledertechnik.
+98. Gerbereimaschinenkunde an Fachschulen für Gerbereichemie und Ledertechnik.
+99. Gerbstofflehre an höheren Lehranstalten für Gerbereichemie und Ledertechnik.
+100. Getriebelehre an höheren Lehranstalten für Weberei und Spinnerei.
+101. Gießereimaschinen und -einrichtungen mit Konstruktionsübungen an höheren Lehranstalten für Gießereitechnik.
+102. Gießereitechnische Übungen an höheren Lehranstalten für Gießereitechnik.
+103. Griechisch.
+104. Grund- und Wasserbau an höheren Lehranstalten für Tiefbau.
+105. Grundlagen der Elektrotechnik an höheren Lehranstalten für Elektrotechnik, für elektrische Nachrichtentechnik und Elektronik, für Hochfrequenz- und Nachrichtentechnik, an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Elektrotechnik und Fachrichtung Nachrichtentechnik, an zweijährigen Abiturientenlehrgängen für Radiotechnik sowie an Fachschulen für Starkstromtechnik und für Hochfrequenz- und Rundfunktechnik.
+106. Grundlagen der Feinwerktechnik an Fachschulen für Uhrmacher.
+107. Grundlagen der Hochfrequenztechnik an Fachschulen für Hochfrequenz- und Rundfunktechnik.
 
 www.ris.bka.gv.at
 
@@ -862,67 +715,37 @@ Seite 15 von 35
 
 Bundesrecht konsolidiert
 
-- Hebemaschinen  mit  Konstruktionsübungen  an  höheren  Lehranstalten  für  Maschinenbau,  für Maschinenbau, Motorenund Kraftfahrzeugbau, für Maschinenbau, Motorenund Landmaschinenbau und für Maschinenbau und Schweißtechnik.
-
-- Hebemaschinen und Stahlbau mit Konstruktionsübungen an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
-
-- Heizungs- und Feuerungstechnik an Meisterschulen für Keramik und Ofenbau.
-
-- Hochbau  an  höheren  Lehranstalten  für  Hochbau,  für  Holzbau,  für  Tiefbau  und  an  höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
-
-- Hochbau und Fachkunde an Bauhandwerkerschulen für Maurer.
-
-- Hochfrequenztechnik an höheren Lehranstalten für Hochfrequenz- und Nachrichtentechnik.
-
-- Hochfrequenztechnik  und  Elektronik  an  höheren  technischen  Lehranstalten  für  Berufstätige, Fachrichtung Nachrichtentechnik.
-
-- Holzbearbeitungsmaschinen mit Konstruktionsübungen an höheren Lehranstalten für Holztechnik.
-
-- Impulstechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik.
-
-- Impuls- und Regeltechnik an Fachschulen für Hochfrequenz- und Rundfunktechnik.
-
-- Innenausbau an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
-
-- Kalkulation im Hochdruck an höheren Lehranstalten für Reproduktions- und Drucktechnik.
-
-- Kalkulation  in  der  Reproduktionstechnik  an  höheren  Lehranstalten  für  Reproduktions-  und Drucktechnik.
-
-- Kolbenmaschinen  mit  Konstruktionsübungen  an  höheren  Lehranstalten  für  Maschinenbau,  für Maschinenbau und Schweißtechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
-
-- Konstruktionslehre an höheren Lehranstalten für Holztechnik und für Möbelbau (Möbelbau und Innenausbau)  und  an  Fachschulen  für  Tischlerei  und  Raumgestaltung  und  für  Drechslerei,  an Meisterschulen für Tischlerei und Raumgestaltung, sowie an Meisterklassen für Tischlerei.
-
-- Konstruktionslehre  der  Hochfrequenz-  und  Nachrichtentechnik  mit  Konstruktionsübungen  an höheren Lehranstalten für Hochfrequenz- und Nachrichtentechnik.
-
-- Konstruktionslehre der Nachrichtentechnik und Elektronik mit Konstruktionsübungen an höheren Lehranstalten  für  elektrische  Nachrichtentechnik  und  Elektronik  und  an  höheren  technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik.
-
-- Konstruktionslehre mit Übungen an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Konstruktionslehre  zur  Hochfrequenz-  und  Nachrichtentechnik  mit  Konstruktionsübungen  an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik.
-
-- Konstruktiver Holzbau mit Konstruktionsübungen an höheren Lehranstalten für Holzbau.
-
-- Kraftfahrzeugbau mit Konstruktionsübungen  an  höheren  Lehranstalten für  Maschinenbau, Motoren- und Kraftfahrzeugbau.
-
-- Laboratorium für elektrische Maschinen an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik.
-
-- Laboratorium  für  elektrische  Nachrichtentechnik  an  höheren  Lehranstalten  für  elektrische Nachrichtentechnik und Elektronik.
-
-- Laboratorium für Elektronik und Radiotechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik.
-
-- Laboratorium für Hochfrequenzund Nachrichtentechnik an höheren Lehranstalten für Hochfrequenz- und Nachrichtechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik.
-
-- Laboratorium für Silikattechnik an höheren Lehranstalten für Silikattechnik.
-
-- Landwirtschafliche  Arbeitsmaschinen  mit  Konstruktionsübungen  an  höheren  Lehranstalten  für Maschinenbau, Motoren- und Landmaschinenbau.
-
-- Latein.
-
-- Lebende Fremdsprachen beziehungsweise lebende Fremdsprachen (einschließlich kaufmännischer Schriftverkehr), beziehungsweise lebende Fremdsprachen (einschließlich Schriftverkehr).
-
-- Lebensmittelchemie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Lehrbetrieb an der Bundesfachschule für Technik.
+108. Hebemaschinen mit Konstruktionsübungen an höheren Lehranstalten für Maschinenbau, für Maschinenbau, Motoren- und Kraftfahrzeugbau, für Maschinenbau, Motoren- und Landmaschinenbau und für Maschinenbau und Schweißtechnik.
+109. Hebemaschinen und Stahlbau mit Konstruktionsübungen an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
+110. Heizungs- und Feuerungstechnik an Meisterschulen für Keramik und Ofenbau.
+111. Hochbau an höheren Lehranstalten für Hochbau, für Holzbau, für Tiefbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
+112. Hochbau und Fachkunde an Bauhandwerkerschulen für Maurer.
+113. Hochfrequenztechnik an höheren Lehranstalten für Hochfrequenz- und Nachrichtentechnik.
+114. Hochfrequenztechnik und Elektronik an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik.
+115. Holzbearbeitungsmaschinen mit Konstruktionsübungen an höheren Lehranstalten für Holztechnik.
+116. Impulstechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik.
+117. Impuls- und Regeltechnik an Fachschulen für Hochfrequenz- und Rundfunktechnik.
+118. Innenausbau an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
+119. Kalkulation im Hochdruck an höheren Lehranstalten für Reproduktions- und Drucktechnik.
+120. Kalkulation in der Reproduktionstechnik an höheren Lehranstalten für Reproduktions- und Drucktechnik.
+121. Kolbenmaschinen mit Konstruktionsübungen an höheren Lehranstalten für Maschinenbau, für Maschinenbau und Schweißtechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
+122. Konstruktionslehre an höheren Lehranstalten für Holztechnik und für Möbelbau (Möbelbau und Innenausbau) und an Fachschulen für Tischlerei und Raumgestaltung und für Drechslerei, an Meisterschulen für Tischlerei und Raumgestaltung, sowie an Meisterklassen für Tischlerei.
+123. Konstruktionslehre der Hochfrequenz- und Nachrichtentechnik mit Konstruktionsübungen an höheren Lehranstalten für Hochfrequenz- und Nachrichtentechnik.
+124. Konstruktionslehre der Nachrichtentechnik und Elektronik mit Konstruktionsübungen an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik.
+125. Konstruktionslehre mit Übungen an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+126. Konstruktionslehre zur Hochfrequenz- und Nachrichtentechnik mit Konstruktionsübungen an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik.
+127. Konstruktiver Holzbau mit Konstruktionsübungen an höheren Lehranstalten für Holzbau.
+128. Kraftfahrzeugbau mit Konstruktionsübungen an höheren Lehranstalten für Maschinenbau, Motoren- und Kraftfahrzeugbau.
+129. Laboratorium für elektrische Maschinen an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik.
+130. Laboratorium für elektrische Nachrichtentechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik.
+131. Laboratorium für Elektronik und Radiotechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik.
+132. Laboratorium für Hochfrequenz- und Nachrichtentechnik an höheren Lehranstalten für Hochfrequenz- und Nachrichtechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik.
+133. Laboratorium für Silikattechnik an höheren Lehranstalten für Silikattechnik.
+134. Landwirtschafliche Arbeitsmaschinen mit Konstruktionsübungen an höheren Lehranstalten für Maschinenbau, Motoren- und Landmaschinenbau.
+135. Latein.
+136. Lebende Fremdsprachen beziehungsweise lebende Fremdsprachen (einschließlich kaufmännischer Schriftverkehr), beziehungsweise lebende Fremdsprachen (einschließlich Schriftverkehr).
+137. Lebensmittelchemie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+138. Lehrbetrieb an der Bundesfachschule für Technik.
 
 www.ris.bka.gv.at
 
@@ -934,67 +757,37 @@ Seite 16 von 35
 
 Bundesrecht konsolidiert
 
-- Leichtbau an höheren Lehranstalten für Maschinenbau, Motoren- und Kraftfahrzeugbau.
-
-- Markscheide- und Baukunde an höheren Lehranstalten für Silikattechnik.
-
-- Maschinenund Formenbau mit Konstruktionsübungen an höheren Lehranstalten für Kunststofftechnik.
-
-- Maschinenelemente  an  höheren  land-  und  forstwirtschaftlichen  Lehranstalten,  Fachrichtung Landtechnik und an Fachschulen für Büchsenmacher und Schäfter.
-
-- Maschinenelmente  mit  (und)  Konstruktionsübungen  an  höheren  technischen  und  gewerblichen Lehranstalten und an deren Sonderformen, sowie an der Bundesfachschule für Technik.
-
-- Maschinenkunde  an  höheren  technischen  und  gewerblichen  Lehranstalten,  an  gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
-
-- Maschinenkunde  mit  Konstruktionsübungen  an  höheren  Lehranstalten  für  Gießereitechnik  und für Silikattechnik.
-
-- Maschinenkunde und Elektrotechnik  an  höheren  Lehranstalten  für  Weberei  und  Spinnerei,  für Wirkerei und Strickerei und für Textilchemie.
-
-- Maschinenkunde und Maschinenzeichnen an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Maschinenkunde  und  technisches  Zeichnen  an  höheren  Lehranstalten  für  Reproduktions-  und Drucktechnik.
-
-- Maschinenkunde  und  Verfahrenstechnik  an  höheren  Lehranstalten  für  technische  Chemie,  für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
-
-- Maschinen- und Motorenkunde an höheren Lehranstalten für Feinwerktechnik und für Holzbau, sowie an Abiturientenlehrgängen für Weberei.
-
-- Materialund Schweißnahtprüfung an höheren Lehranstalten für Maschinenbau und Schweißtechnik.
-
-- Mathematik an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik.
-
-- Mathematik und angewandte Mathematik an höheren technischen und gewerblichen Lehranstalten,  an  gewerblichen,  technischen  und  kunstgewerblichen  Fachschulen  und  an  den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
-
-- Mechanik an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und  kunstgewerblichen  Fachschulen  und  an  den  Sonderformen  dieser  Schulen,  sowie  an  der Bundesfachschule für Technik.
-
-- Mechanik  und  Festigkeitslehre  an  betriebstechnischen  Werkmeisterlehrgängen  und  an  der Bundesfachschule für Technik.
-
-- Mechanische Technologie an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
-
-- Mechanische  Technologie  (Metalle  und  spanlose  Formgebung)  an  technisch-kaufmännischen Abiturientenlehrgängen.
-
-- Mechanische Technologie der Kunststoffe an höheren Lehranstalten für Kunststofftechnik.
-
-- Mechanische Technologie des Holzes an höheren Lehranstalten für Holztechnik.
-
-- Mechanische Technologie einschließlich Werkzeugmaschinen an Werkmeisterschulen für Maschinenbau und für Elektrotechnik sowie an der Bundesfachschule für Technik.
-
-- Mechanische  Technologie  und  Werkzeugmaschinen  an  Fachschulen  für  Büchsenmacher  und Schäfter.
-
-- Mechanische Uhren an Fachschulen für Uhrmacher und an Meisterschulen für Uhrmacher.
-
-- Messen, Anreißen, Vorrichtungen an betriebstechnischen Werkmeisterlehrgängen.
-
-- Meßtechnik an höheren Lehranstalten für Feinwerktechnik.
-
-- Meß-  und  Prüftechnik  an  höheren  Lehranstalten  für  Reproduktions-  und  Drucktechnik  und  an Fachschulen für Photographie.
-
-- Metallhüttenkunde an höheren Lehranstalten für Gießereitechnik.
-
-- Metallgießereikunde an höheren Lehranstalten für Gießereitechnik.
-
-- Metallurgie der Metallschweißung an höheren Lehranstalten für Maschinenbau und Schweißtechnik.
-
-- Metallurgisch-metallographische Übungen an Lehranstalten für Gießereitechnik.
+139. Leichtbau an höheren Lehranstalten für Maschinenbau, Motoren- und Kraftfahrzeugbau.
+140. Markscheide- und Baukunde an höheren Lehranstalten für Silikattechnik.
+141. Maschinen- und Formenbau mit Konstruktionsübungen an höheren Lehranstalten für Kunststofftechnik.
+142. Maschinenelemente an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik und an Fachschulen für Büchsenmacher und Schäfter.
+143. Maschinenelmente mit (und) Konstruktionsübungen an höheren technischen und gewerblichen Lehranstalten und an deren Sonderformen, sowie an der Bundesfachschule für Technik.
+144. Maschinenkunde an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
+145. Maschinenkunde mit Konstruktionsübungen an höheren Lehranstalten für Gießereitechnik und für Silikattechnik.
+146. Maschinenkunde und Elektrotechnik an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei und für Textilchemie.
+147. Maschinenkunde und Maschinenzeichnen an höheren Lehranstalten textilkaufmännischer Richtung.
+148. Maschinenkunde und technisches Zeichnen an höheren Lehranstalten für Reproduktions- und Drucktechnik.
+149. Maschinenkunde und Verfahrenstechnik an höheren Lehranstalten für technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
+150. Maschinen- und Motorenkunde an höheren Lehranstalten für Feinwerktechnik und für Holzbau, sowie an Abiturientenlehrgängen für Weberei.
+151. Material- und Schweißnahtprüfung an höheren Lehranstalten für Maschinenbau und Schweißtechnik.
+152. Mathematik an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik.
+153. Mathematik und angewandte Mathematik an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
+154. Mechanik an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
+155. Mechanik und Festigkeitslehre an betriebstechnischen Werkmeisterlehrgängen und an der Bundesfachschule für Technik.
+156. Mechanische Technologie an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
+157. Mechanische Technologie (Metalle und spanlose Formgebung) an technisch-kaufmännischen Abiturientenlehrgängen.
+158. Mechanische Technologie der Kunststoffe an höheren Lehranstalten für Kunststofftechnik.
+159. Mechanische Technologie des Holzes an höheren Lehranstalten für Holztechnik.
+160. Mechanische Technologie einschließlich Werkzeugmaschinen an Werkmeisterschulen für Maschinenbau und für Elektrotechnik sowie an der Bundesfachschule für Technik.
+161. Mechanische Technologie und Werkzeugmaschinen an Fachschulen für Büchsenmacher und Schäfter.
+162. Mechanische Uhren an Fachschulen für Uhrmacher und an Meisterschulen für Uhrmacher.
+163. Messen, Anreißen, Vorrichtungen an betriebstechnischen Werkmeisterlehrgängen.
+164. Meßtechnik an höheren Lehranstalten für Feinwerktechnik.
+165. Meß- und Prüftechnik an höheren Lehranstalten für Reproduktions- und Drucktechnik und an Fachschulen für Photographie.
+166. Metallhüttenkunde an höheren Lehranstalten für Gießereitechnik.
+167. Metallgießereikunde an höheren Lehranstalten für Gießereitechnik.
+168. Metallurgie der Metallschweißung an höheren Lehranstalten für Maschinenbau und Schweißtechnik.
+169. Metallurgisch-metallographische Übungen an Lehranstalten für Gießereitechnik.
 
 www.ris.bka.gv.at
 
@@ -1006,69 +799,38 @@ Seite 17 von 35
 
 Bundesrecht konsolidiert
 
-- Mikrobiologie  an  höheren  Lehranstalten  für  Technische  Chemie  und  für  Biochemie  und Schädlingsbekämpfung.
-
-- Mikrobiologisches Praktikum an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Mineralogie an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
-
-- Modellbau und Dauerformen mit Konstruktionsübungen an höheren Lehranstalten für Gießereitechnik.
-
-- Nachrichtentechnik an höheren Lehranstalten für Hochfrequenz- und Nachrichtentechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik.
-
-- Nachrichtentechnik und Elektronik an höheren Lehranstalten für Elektrotechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Elektrotechnik.
-
-- Niederfrequenz-, Hochfrequenz-, Röhrenund Transistorentechnik an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Niederund Hochfrequenzmeßtechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik, für Hochfrequenzund Nachrichtentechnik und an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Oberflächentechnik und Korrosionsschutz an höheren Lehranstalten für Kunststofftechnik.
-
-- 178a. Obstbau an höheren Lehranstalten für Wein- und Obstbau.
-
-- Organische  Chemie  an  höheren  Lehranstalten  für  Technische  Chemie,  für  Biochemie  und Schädlingsbekämpfung  und  für  Gerbereichemie  und  Ledertechnik,  sowie  an  Fachschulen  für Gerbereichemie und Ledertechnik.
-
-- Organische Technologie und Untersuchungsmethoden an höheren Lehranstalten für Technische Chemie.
-
-- Organisch-präparatives Praktikum an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
-
-- Organisch-technologisches Laboratorium an höheren Lehranstalten für Technische Chemie.
-
-- 182a. Pflanzenbau an höheren Lehranstalten für allgemeine Landwirtschaft, an höheren Lehranstalten für  alpenländische  Landwirtschaft  und  an  höheren  Lehranstalten  für  Milchwirtschaft  und Lebensmitteltechnologie.
-
-- Photographische Fachkunde an Fachschulen für Photographie.
-
-- Photographische Verfahren an höheren Lehranstalten für Reproduktions- und Drucktechnik.
-
-- Physikalisch-chemisches  Praktikum  an  höheren  Lehranstalten  für  Technische  Chemie  und  für Biochemie und Schädlingsbekämpfung.
-
-- Physikalische  Chemie  an  höheren  Lehranstalten  für  Technische  Chemie,  für  Biochemie  und Schädlingsbekämpfung, für Gerbereichemie und Ledertechnik und für Silikattechnik.
-
-- Physiologie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Pumpen-  und  Wasserkraftmaschinen  mit  Konstruktionsübungen  an  höheren  Lehranstalten  für Maschinenbau, Motorenund Kraftfahrzeugbau und für Maschinenbau, Motorenund Landmaschinenbau.
-
-- Qualitative und quantitative Analysen mit Übungen an höheren Lehranstalten für Gießereitechnik.
-
-- Radiotechnik an Fachschulen für Starkstromtechnik.
-
-- Radiotechnische Konstruktionslehre an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Radiotechnische Konstruktionsübungen an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Radiotechnisches Laboratorium an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Rohstoff- und Werkstoffkunde an höheren Lehranstalten für Gießereitechnik.
-
-- Schädlingskunde an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
-
-- Schalung und Rüstung an Bauhandwerkerschulen für Zimmerer.
-
-- Schweißtechnik und Stahlbau an höheren Lehranstalten für Maschinenbau und für Maschinenbau und Schweißtechnik.
-
-- Sender-, Fernseh-, Höchstfrequenzund Regelungstechnik, angewandte Elektronik an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Silikathüttenkunde an höheren Lehranstalten für Silikattechnik.
+170. Mikrobiologie an höheren Lehranstalten für Technische Chemie und für Biochemie und Schädlingsbekämpfung.
+171. Mikrobiologisches Praktikum an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+172. Mineralogie an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
+173. Modellbau und Dauerformen mit Konstruktionsübungen an höheren Lehranstalten für Gießereitechnik.
+174. Nachrichtentechnik an höheren Lehranstalten für Hochfrequenz- und Nachrichtentechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Nachrichtentechnik.
+175. Nachrichtentechnik und Elektronik an höheren Lehranstalten für Elektrotechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Elektrotechnik.
+176. Niederfrequenz-, Hochfrequenz-, Röhren- und Transistorentechnik an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+177. Nieder- und Hochfrequenzmeßtechnik an höheren Lehranstalten für elektrische Nachrichtentechnik und Elektronik, für Hochfrequenz- und Nachrichtentechnik und an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+178. Oberflächentechnik und Korrosionsschutz an höheren Lehranstalten für Kunststofftechnik.
+178a. Obstbau an höheren Lehranstalten für Wein- und Obstbau.
+179. Organische Chemie an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik, sowie an Fachschulen für Gerbereichemie und Ledertechnik.
+180. Organische Technologie und Untersuchungsmethoden an höheren Lehranstalten für Technische Chemie.
+181. Organisch-präparatives Praktikum an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
+182. Organisch-technologisches Laboratorium an höheren Lehranstalten für Technische Chemie.
+182a. Pflanzenbau an höheren Lehranstalten für allgemeine Landwirtschaft, an höheren Lehranstalten für alpenländische Landwirtschaft und an höheren Lehranstalten für Milchwirtschaft und Lebensmitteltechnologie.
+183. Photographische Fachkunde an Fachschulen für Photographie.
+184. Photographische Verfahren an höheren Lehranstalten für Reproduktions- und Drucktechnik.
+185. Physikalisch-chemisches Praktikum an höheren Lehranstalten für Technische Chemie und für Biochemie und Schädlingsbekämpfung.
+186. Physikalische Chemie an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung, für Gerbereichemie und Ledertechnik und für Silikattechnik.
+187. Physiologie an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+188. Pumpen- und Wasserkraftmaschinen mit Konstruktionsübungen an höheren Lehranstalten für Maschinenbau, Motoren- und Kraftfahrzeugbau und für Maschinenbau, Motoren- und Landmaschinenbau.
+189. Qualitative und quantitative Analysen mit Übungen an höheren Lehranstalten für Gießereitechnik.
+190. Radiotechnik an Fachschulen für Starkstromtechnik.
+191. Radiotechnische Konstruktionslehre an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+192. Radiotechnische Konstruktionsübungen an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+193. Radiotechnisches Laboratorium an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+194. Rohstoff- und Werkstoffkunde an höheren Lehranstalten für Gießereitechnik.
+195. Schädlingskunde an höheren Lehranstalten für Biochemie und Schädlingsbekämpfung.
+196. Schalung und Rüstung an Bauhandwerkerschulen für Zimmerer.
+197. Schweißtechnik und Stahlbau an höheren Lehranstalten für Maschinenbau und für Maschinenbau und Schweißtechnik.
+198. Sender-, Fernseh-, Höchstfrequenz- und Regelungstechnik, angewandte Elektronik an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+199. Silikathüttenkunde an höheren Lehranstalten für Silikattechnik.
 
 www.ris.bka.gv.at
 
@@ -1080,71 +842,39 @@ Seite 18 von 35
 
 Bundesrecht konsolidiert
 
-- Silikattechnisches Fachrechnen an höheren Lehranstalten für Silikattechnik.
-
-- Slowenisch am Bundesrealgymnasium für Slowenen.
-
-- Städtischer Tiefbau an höheren Lehranstalten für Tiefbau.
-
-- Stahlbau  und  konstruktiver  Holzbau  an  Lehranstalten  für  Hochbau  und  für  Tiefbau  und  an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
-
-- Stahlbeton an Bauhandwerkerschulen für Maurer.
-
-- Stahlbetonbau an höheren Lehranstalten für Hochbau, für Holzbau, für Tiefbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
-
-- Starkstromtechnik an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Statik  an  höheren  Lehranstalten  für  Hochbau,  für  Holzbau,  für  Tiefbau  und  an  höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen.
-
-- Stöchiometrie an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
-
-- Strömungsmaschinen für Flüssigkeiten mit Konstruktionsübungen an höheren Lehranstalten für Maschinenbau, für Maschinenbau und Schweißtechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
-
-- Technische Optik an höheren Lehranstalten für Feinwerktechnik.
-
-- Technisches Englisch an technisch-kaufmännischen Abiturientenlehrgängen.
-
-- Technisches Zeichnen und Fachzeichnen an höheren Lehranstalten für Holztechnik.
-
-- Technisch-kaufmännisches Rechnen an technisch-kaufmännischen Abiturientenlehrgängen.
-
-- Technologie der Appretur an höheren Lehranstalten für Weberei und Spinnerei, für Textilchemie und an Abiturientenlehrgängen für Weberei, sowie an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Technologie der Appretur und Ausrüstung von Wirk- und Strickwaren an höheren Lehranstalten für Wirkerei und Strickerei.
-
-- Technologie der Brennstoffe, Feuerungstechnik an höheren Lehranstalten für Silikattechnik.
-
-- Technologie der Spinnerei an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei und an Abiturientenlehrgängen für Weberei, sowie an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Technologie der  Weberei  an  höheren Lehranstalten für Weberei  und  Spinnerei und an Abiturientenlehrgängen für Weberei.
-
-- Technologie der Wirkerei und Strickerei an höheren  Lehranstalten  für Wirkerei  und Strickerei und an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Technologie des Glases an Glasfachschulen.
-
-- Technologie und Materialienkunde an zweijährigen Abiturientenlehrgängen für Radiotechnik.
-
-- Technologische Übungen an höheren Lehranstalten für Silikattechnik.
-
-- Textiltechnologie an Fachschulen für Musterzeichnen.
-
-- Tiefbaukunde an höheren Lehranstalten für Hochbau, für Holzbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
-
-- 224a. Tierhaltung  und  Tierzüchtung  an  höheren  Lehranstalten  für  allgemeine  Landwirtschaft,  an höheren  Lehranstalten  für  alpenländische  Landwirtschaft  und  an  höheren  Lehranstalten  für Milchwirtschaft und Lebensmitteltechnologie.
-
-- Unterrichtsgegenstände der Sonderkurse für Elektrotechnik.
-
-- Verbrennungskraftmaschinen und Verdichter mit Konstruktionsübungen an höheren Lehranstalten  für  Maschinenbau,  Motoren-  und  Kraftfahrzeugbau  und  für  Maschinenbau, Motoren- und Landmaschinenbau.
-
-- Verfahrenstechnik und Laboratoriumsübungen an höheren Lehranstalten für Silikattechnik.
-
-- Vekehrswegebau an höheren Lehranstalten für Tiefbau.
-
-- Vermessungskunde  an  höheren  Lehranstalten  für  Hochbau,  für  Holzbau,  für  Tiefbau  und  an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
-
-- Vermessungskunde,  Wege-  und  Wasserbau  an  höheren  Lehranstalten  für  Holztechnik  und  an Bauhandwerkerschulen für Maurer und für Zimmerer.
-
-- Vorrichtungsbau  mit  Konstruktionsübungen  an  höheren  Lehranstalten  für  Werkzeug-  und Vorrichtungsbau.
+200. Silikattechnisches Fachrechnen an höheren Lehranstalten für Silikattechnik.
+201. Slowenisch am Bundesrealgymnasium für Slowenen.
+202. Städtischer Tiefbau an höheren Lehranstalten für Tiefbau.
+203. Stahlbau und konstruktiver Holzbau an Lehranstalten für Hochbau und für Tiefbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
+204. Stahlbeton an Bauhandwerkerschulen für Maurer.
+205. Stahlbetonbau an höheren Lehranstalten für Hochbau, für Holzbau, für Tiefbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
+206. Starkstromtechnik an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+207. Statik an höheren Lehranstalten für Hochbau, für Holzbau, für Tiefbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, sowie an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen.
+208. Stöchiometrie an höheren Lehranstalten für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
+209. Strömungsmaschinen für Flüssigkeiten mit Konstruktionsübungen an höheren Lehranstalten für Maschinenbau, für Maschinenbau und Schweißtechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
+210. Technische Optik an höheren Lehranstalten für Feinwerktechnik.
+211. Technisches Englisch an technisch-kaufmännischen Abiturientenlehrgängen.
+212. Technisches Zeichnen und Fachzeichnen an höheren Lehranstalten für Holztechnik.
+213. Technisch-kaufmännisches Rechnen an technisch-kaufmännischen Abiturientenlehrgängen.
+214. Technologie der Appretur an höheren Lehranstalten für Weberei und Spinnerei, für Textilchemie und an Abiturientenlehrgängen für Weberei, sowie an höheren Lehranstalten textilkaufmännischer Richtung.
+215. Technologie der Appretur und Ausrüstung von Wirk- und Strickwaren an höheren Lehranstalten für Wirkerei und Strickerei.
+216. Technologie der Brennstoffe, Feuerungstechnik an höheren Lehranstalten für Silikattechnik.
+217. Technologie der Spinnerei an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei und an Abiturientenlehrgängen für Weberei, sowie an höheren Lehranstalten textilkaufmännischer Richtung.
+218. Technologie der Weberei an höheren Lehranstalten für Weberei und Spinnerei und an Abiturientenlehrgängen für Weberei.
+219. Technologie der Wirkerei und Strickerei an höheren Lehranstalten für Wirkerei und Strickerei und an höheren Lehranstalten textilkaufmännischer Richtung.
+220. Technologie des Glases an Glasfachschulen.
+221. Technologie und Materialienkunde an zweijährigen Abiturientenlehrgängen für Radiotechnik.
+222. Technologische Übungen an höheren Lehranstalten für Silikattechnik.
+223. Textiltechnologie an Fachschulen für Musterzeichnen.
+224. Tiefbaukunde an höheren Lehranstalten für Hochbau, für Holzbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
+224a. Tierhaltung und Tierzüchtung an höheren Lehranstalten für allgemeine Landwirtschaft, an höheren Lehranstalten für alpenländische Landwirtschaft und an höheren Lehranstalten für Milchwirtschaft und Lebensmitteltechnologie.
+225. Unterrichtsgegenstände der Sonderkurse für Elektrotechnik.
+226. Verbrennungskraftmaschinen und Verdichter mit Konstruktionsübungen an höheren Lehranstalten für Maschinenbau, Motoren- und Kraftfahrzeugbau und für Maschinenbau, Motoren- und Landmaschinenbau.
+227. Verfahrenstechnik und Laboratoriumsübungen an höheren Lehranstalten für Silikattechnik.
+228. Vekehrswegebau an höheren Lehranstalten für Tiefbau.
+229. Vermessungskunde an höheren Lehranstalten für Hochbau, für Holzbau, für Tiefbau und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau.
+230. Vermessungskunde, Wege- und Wasserbau an höheren Lehranstalten für Holztechnik und an Bauhandwerkerschulen für Maurer und für Zimmerer.
+231. Vorrichtungsbau mit Konstruktionsübungen an höheren Lehranstalten für Werkzeug- und Vorrichtungsbau.
 
 www.ris.bka.gv.at
 
@@ -1156,75 +886,44 @@ Seite 19 von 35
 
 Bundesrecht konsolidiert
 
-- Waffenlehre an Fachschulen für Büchsenmacher und Schäfter.
-
-- 232a. Waldbau an höheren Lehranstalten für Forstwirtschaft.
-
-- Wärmebehandlung und Schweißen an betriebstechnischen Werkmeisterlehrgängen.
-
-- Wärmetechnische Anlagen und Betriebslaboratorium an höheren Lehranstalten für Silikattechnik.
-
-- Wasserbau mit Konstruktionsübungen an höheren Lehranstalten für Holzbau.
-
-- 235a. Weinbau an höheren Lehranstalten für Wein- und Obstbau.
-
-- Werkstoffprüfung mit Übungen an höheren Lehranstalten für Gießereitechnik.
-
-- Werkzeugbau mit Konstruktionsübungen an höheren Lehranstalten für Werkzeugund Vorrichtungsbau.
-
-- Werkzeuge und Werkzeugmaschinen an technisch-kaufmännischen Abiturientenlehrgängen.
-
-- Werkzeuglehre an betriebstechnischen Werkmeisterlehrgängen.
-
-- Werkzeugmaschinen an höheren Lehranstalten für Maschinenbau, für Maschinenbau, Motorenund Kraftfahrzeugbau, für Maschinenbau, Motoren- und Landmaschinenbau, für Maschinenbau und  Schweißtechnik,  für  Feinwerktechnik,  für  Kunststofftechnik  und  an  höheren  technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
-
-- Werkzeugmaschinen  mit  Konstruktionsübungen  an  höheren  Lehranstalten  für  Betriebstechnik und an der Bundesfachschule für Technik.
-
-- Werkzeugmaschinenbau mit Konstruktionsübungen an höheren Lehranstalten für Werkzeug- und Vorrichtungsbau.
-
-- Werkzeug-  und  Maschinenkunde  an  höheren  Lehranstalten  für  Möbelbau  (Möbelbau  und Innenausbau).
+232. Waffenlehre an Fachschulen für Büchsenmacher und Schäfter.
+232a. Waldbau an höheren Lehranstalten für Forstwirtschaft.
+233. Wärmebehandlung und Schweißen an betriebstechnischen Werkmeisterlehrgängen.
+234. Wärmetechnische Anlagen und Betriebslaboratorium an höheren Lehranstalten für Silikattechnik.
+235. Wasserbau mit Konstruktionsübungen an höheren Lehranstalten für Holzbau.
+235a. Weinbau an höheren Lehranstalten für Wein- und Obstbau.
+236. Werkstoffprüfung mit Übungen an höheren Lehranstalten für Gießereitechnik.
+237. Werkzeugbau mit Konstruktionsübungen an höheren Lehranstalten für Werkzeug- und Vorrichtungsbau.
+238. Werkzeuge und Werkzeugmaschinen an technisch-kaufmännischen Abiturientenlehrgängen.
+239. Werkzeuglehre an betriebstechnischen Werkmeisterlehrgängen.
+240. Werkzeugmaschinen an höheren Lehranstalten für Maschinenbau, für Maschinenbau, Motoren- und Kraftfahrzeugbau, für Maschinenbau, Motoren- und Landmaschinenbau, für Maschinenbau und Schweißtechnik, für Feinwerktechnik, für Kunststofftechnik und an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Maschinenbau.
+241. Werkzeugmaschinen mit Konstruktionsübungen an höheren Lehranstalten für Betriebstechnik und an der Bundesfachschule für Technik.
+242. Werkzeugmaschinenbau mit Konstruktionsübungen an höheren Lehranstalten für Werkzeug- und Vorrichtungsbau.
+243. Werkzeug- und Maschinenkunde an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
 
 ## Anlage 2
 
 ### Lehrverpflichtungsgruppe II
 
-- Allgemeine Produktionslehre an höheren Lehranstalten für Gartenbau.
-
-- 1a. Arbeitstechnik und Arbeitslehre an höheren Lehranstalten für Forstwirtschaft.
-
-- 1b. Baumschulwesen und Obstbau an höheren Lehranstalten für Gartenbau.
-
-- 1c. Bauzeichnen an Bauhandwerkerschulen für Maurer.
-
-- 1d. Berglandwirtschaft an höheren Lehranstalten für alpenländische Landwirtschaft.
-
-- Betriebswirtschaftslehre an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei, für Textilchemie, für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
-
-- Betriebswirtschaftslehre und Buchführung an höheren landund forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaftliche Frauenberufe.
-
-- Bindungslehre an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei und an Abiturientenlehrgängen für Weberei.
-
-- Bindungslehre  und  Dekomposition  an  Fachschulen  für  Musterzeichnen,  für  Textilhandwerk, Fachrichtung Weberei und an Meisterschulen für Textilhandwerk, Fachrichtung Weberei.
-
-- 5a. Bodenkunde an höheren Lehranstalten für Wein- und Obstbau.
-
-- 5b. Bodenkunde und Pflanzenernährung an höheren Lehranstalten für Gartenbau.
-
-- Buchhaltung, Bilanz- und Steuerlehre an höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- Buchhaltung an der Bundesfachschule für Technik (Sonderform der Handelsschule).
-
-- Chemie  und  angewandte  Chemie  an  höheren  technischen  und  gewerblichen  Lehranstalten,  an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie Chemie an höheren land- und forstwirtschaftlichen Lehranstalten, ausgenommen die Fachrichtungen Landtechnik und Landwirtschaftliche Frauenberufe.
-
-- Chemie  und  chemische  Technologie  an  höheren  Lehranstalten  für  Holztechnik  und  an  der Bundesfachschule für Technik.
-
-- Chemie und Materialkunde an Fachschulen für Keramik und Ofenbau und für Gebrauchsgraphik.
-
-- Darstellende Geometrie, soweit dieser Unterrichtsgegenstand nicht in die Lehrverpflichtunsgruppe I fällt.
-
-- Dekomposition an höheren Lehranstalten für Wirkerei und Strickerei und an Abiturientenlehrgängen für Weberei.
-
-- Dekomposition und Warenkunde an höheren Lehranstalten für Weberei und Spinnerei.
+1. Allgemeine Produktionslehre an höheren Lehranstalten für Gartenbau.
+1a. Arbeitstechnik und Arbeitslehre an höheren Lehranstalten für Forstwirtschaft.
+1b. Baumschulwesen und Obstbau an höheren Lehranstalten für Gartenbau.
+1c. Bauzeichnen an Bauhandwerkerschulen für Maurer.
+1d. Berglandwirtschaft an höheren Lehranstalten für alpenländische Landwirtschaft.
+2. Betriebswirtschaftslehre an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei, für Textilchemie, für Technische Chemie, für Biochemie und Schädlingsbekämpfung und für Gerbereichemie und Ledertechnik.
+3. Betriebswirtschaftslehre und Buchführung an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaftliche Frauenberufe.
+4. Bindungslehre an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei und an Abiturientenlehrgängen für Weberei.
+5. Bindungslehre und Dekomposition an Fachschulen für Musterzeichnen, für Textilhandwerk, Fachrichtung Weberei und an Meisterschulen für Textilhandwerk, Fachrichtung Weberei.
+5a. Bodenkunde an höheren Lehranstalten für Wein- und Obstbau.
+5b. Bodenkunde und Pflanzenernährung an höheren Lehranstalten für Gartenbau.
+6. Buchhaltung, Bilanz- und Steuerlehre an höheren Lehranstalten für wirtschaftliche Frauenberufe.
+7. Buchhaltung an der Bundesfachschule für Technik (Sonderform der Handelsschule).
+8. Chemie und angewandte Chemie an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie Chemie an höheren land- und forstwirtschaftlichen Lehranstalten, ausgenommen die Fachrichtungen Landtechnik und Landwirtschaftliche Frauenberufe.
+9. Chemie und chemische Technologie an höheren Lehranstalten für Holztechnik und an der Bundesfachschule für Technik.
+10. Chemie und Materialkunde an Fachschulen für Keramik und Ofenbau und für Gebrauchsgraphik.
+11. Darstellende Geometrie, soweit dieser Unterrichtsgegenstand nicht in die Lehrverpflichtunsgruppe I fällt.
+12. Dekomposition an höheren Lehranstalten für Wirkerei und Strickerei und an Abiturientenlehrgängen für Weberei.
+13. Dekomposition und Warenkunde an höheren Lehranstalten für Weberei und Spinnerei.
 
 www.ris.bka.gv.at
 
@@ -1236,67 +935,37 @@ Seite 20 von 35
 
 Bundesrecht konsolidiert
 
-- Deutsch und kaufmännischer Schriftverkehr an der Bundesfachschule für Technik.
-
-- Forstliche Arbeitslehre II an Bundesförsterschulen.
-
-- 15a. Forstschutz an höheren Lehranstalten für Forstwirtschaft.
-
-- 15b. Forstwirtschaft an höheren Lehranstalten für alpenländische Landwirtschaft.
-
-- 15c. Gartenbau an höheren Lehranstalten für Land- und Ernährungswirtschaft.
-
-- 15d. Gehölzkunde an höheren Lehranstalten für Gartenbau.
-
-- 15e. Gemüsebau an höheren Lehranstalten für Gartenbau.
-
-- Grundlagen der Technologie  der Weberei  an  höheren  Lehranstalten textilkaufmännischer Richtung.
-
-- Kaufmännische Betriebskunde und Schriftverkehr an  höheren Lehranstalten  für  wirtschaftliche Frauenberufe.
-
-- Kaufmännischer Schriftverkehr an Handelsakademien und Handelsschulen, an den Sonderformen dieser Schulen und an den vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe, sowie an der Bundesfachschule für Technik (Handelsschule und Sonderformen).
-
-- Kaufmännischer Schriftverkehr, Geschäftsund Betriebsbuchhaltung an den technischkaufmännischen Abiturientenlehrgängen.
-
-- Kaufmännischer  Schriftverkehr  in  einer  lebenden  Fremdsprache  an  Abiturientenlehrgängen  an Handelsakademien und an Abiturientenlehrgängen für Berufstätige an Handelsakademien.
-
-- Kaufmännischer Schriftverkehr und Vertragstechnik an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Kaufmännisches  Rechnen  an  Handelsakademien,  Handelsschulen  und  an  den  Sonderformen dieser Schulen, an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei sowie an der Bundesfachschule für Technik (Handelsschule und Sonderform).
-
-- Mathematik, beziehungsweise Mathematik (einschließlich Wirtschaftsmathematik), beziehungsweise Mathematik  und Geometrisches Zeichnen, beziehungsweise Mathematik, Geometrisches Zeichnen, soweit diese Unterrichtsgegenstände nicht in die Lehrverpflichtungsgruppe I fallen.
-
-- Neumustern  an  höheren  Lehranstalten  für  Weberei  und  Spinnerei  und  für  Wirkerei  und Strickerei.
-
-- Neumustern  und  webtechnische  Kalkulation  an  höheren  Lehranstalten  textilkaufmännischer Richtung.
-
-- 25a. Obstbau an höheren Lehranstalten für allgemeine Landwirtschaft und an höheren Lehranstalten für Milchwirtschaft und Lebensmitteltechnologie.
-
-- 25b. Pflanzenbau  an  höheren  Lehranstalten  für  Wein-  und  Obstbau,  an  höheren  Lehranstalten  für Landtechnik und an höheren Lehranstalten für Land- und Ernährungswirtschaft.
-
-- 25c. Pflanzenschutz an höheren Lehranstalten für Wein- und Obstbau und an höheren Lehranstalten für Gartenbau.
-
-- Physik  in  der  siebenten  und  achten  Klasse  an  naturwissenschaftlichen  Realgymnasien  und Oberstufenrealgymnasien  mit  ergänzendem  Unterricht  in  Biologie  und  Umweltkunde  sowie Physik und Chemie, soweit Schularbeiten lehrplanmäßig vorgesehen sind.
-
-- Physik  und  angewandte  Physik  an  höheren  technischen  und  gewerblichen  Lehranstalten,  an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
-
-- Rechnen an Bundesförsterschulen.
-
-- Rechnen, Kalkulation und Buchführung an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- 29a. Standortkunde an höheren Lehranstalten für Forstwirtschaft.
-
-- 29b. Stauden und Sommerblumen an höheren Lehranstalten für Gartenbau.
-
-- Textilwarenkunde an höheren Lehranstalten für Textilchemie.
-
-- 30a. Tierhaltung an höheren Lehranstalten für Landtechnik.
-
-- 30b. Tierhaltung und Tierzüchtung an höheren Lehranstalten für Land- und Ernährungswirtschaft.
-
-- 30c. Versuchstechnik und Samenbau an höheren Lehranstalten für Gartenbau (Erwerbsgartenbau).
-
-- Wirtschaftliches Rechnen an höheren Lehranstalten für wirtschaftliche Frauenberufe.
+14. Deutsch und kaufmännischer Schriftverkehr an der Bundesfachschule für Technik.
+15. Forstliche Arbeitslehre II an Bundesförsterschulen.
+15a. Forstschutz an höheren Lehranstalten für Forstwirtschaft.
+15b. Forstwirtschaft an höheren Lehranstalten für alpenländische Landwirtschaft.
+15c. Gartenbau an höheren Lehranstalten für Land- und Ernährungswirtschaft.
+15d. Gehölzkunde an höheren Lehranstalten für Gartenbau.
+15e. Gemüsebau an höheren Lehranstalten für Gartenbau.
+16. Grundlagen der Technologie der Weberei an höheren Lehranstalten textilkaufmännischer Richtung.
+17. Kaufmännische Betriebskunde und Schriftverkehr an höheren Lehranstalten für wirtschaftliche Frauenberufe.
+18. Kaufmännischer Schriftverkehr an Handelsakademien und Handelsschulen, an den Sonderformen dieser Schulen und an den vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe, sowie an der Bundesfachschule für Technik (Handelsschule und Sonderformen).
+19. Kaufmännischer Schriftverkehr, Geschäfts- und Betriebsbuchhaltung an den technisch-kaufmännischen Abiturientenlehrgängen.
+20. Kaufmännischer Schriftverkehr in einer lebenden Fremdsprache an Abiturientenlehrgängen an Handelsakademien und an Abiturientenlehrgängen für Berufstätige an Handelsakademien.
+21. Kaufmännischer Schriftverkehr und Vertragstechnik an höheren Lehranstalten textilkaufmännischer Richtung.
+22. Kaufmännisches Rechnen an Handelsakademien, Handelsschulen und an den Sonderformen dieser Schulen, an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei sowie an der Bundesfachschule für Technik (Handelsschule und Sonderform).
+23. Mathematik, beziehungsweise Mathematik (einschließlich Wirtschaftsmathematik), beziehungsweise Mathematik und Geometrisches Zeichnen, beziehungsweise Mathematik, Geometrisches Zeichnen, soweit diese Unterrichtsgegenstände nicht in die Lehrverpflichtungsgruppe I fallen.
+24. Neumustern an höheren Lehranstalten für Weberei und Spinnerei und für Wirkerei und Strickerei.
+25. Neumustern und webtechnische Kalkulation an höheren Lehranstalten textilkaufmännischer Richtung.
+25a. Obstbau an höheren Lehranstalten für allgemeine Landwirtschaft und an höheren Lehranstalten für Milchwirtschaft und Lebensmitteltechnologie.
+25b. Pflanzenbau an höheren Lehranstalten für Wein- und Obstbau, an höheren Lehranstalten für Landtechnik und an höheren Lehranstalten für Land- und Ernährungswirtschaft.
+25c. Pflanzenschutz an höheren Lehranstalten für Wein- und Obstbau und an höheren Lehranstalten für Gartenbau.
+26. Physik in der siebenten und achten Klasse an naturwissenschaftlichen Realgymnasien und Oberstufenrealgymnasien mit ergänzendem Unterricht in Biologie und Umweltkunde sowie Physik und Chemie, soweit Schularbeiten lehrplanmäßig vorgesehen sind.
+27. Physik und angewandte Physik an höheren technischen und gewerblichen Lehranstalten, an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
+28. Rechnen an Bundesförsterschulen.
+29. Rechnen, Kalkulation und Buchführung an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
+29a. Standortkunde an höheren Lehranstalten für Forstwirtschaft.
+29b. Stauden und Sommerblumen an höheren Lehranstalten für Gartenbau.
+30. Textilwarenkunde an höheren Lehranstalten für Textilchemie.
+30a. Tierhaltung an höheren Lehranstalten für Landtechnik.
+30b. Tierhaltung und Tierzüchtung an höheren Lehranstalten für Land- und Ernährungswirtschaft.
+30c. Versuchstechnik und Samenbau an höheren Lehranstalten für Gartenbau (Erwerbsgartenbau).
+31. Wirtschaftliches Rechnen an höheren Lehranstalten für wirtschaftliche Frauenberufe.
 
 www.ris.bka.gv.at
 
@@ -1308,75 +977,44 @@ Seite 21 von 35
 
 Bundesrecht konsolidiert
 
-- Wirtschaftsmathematik an Abiturientenlehrgängen an Handelsakademien und Abiturientenlehrgängen für Berufstätige an Handelsakademien.
+32. Wirtschaftsmathematik an Abiturientenlehrgängen an Handelsakademien und Abiturientenlehrgängen für Berufstätige an Handelsakademien.
+32a. Zierpflanzenbau unter Glas an höheren Lehranstalten für Gartenbau.
 
-- 32a. Zierpflanzenbau unter Glas an höheren Lehranstalten für Gartenbau.
+## Anlage 3
 
 ### Lehrverpflichtungsgruppe III
 
-- Allgemeine Rechtskunde an der Bundesfachschule für Technik.
-
-- Allgemeine Warenkunde und mechanische Technologie an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Almwirtschaft an höheren landund forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaft.
-
-- Angewandte Typographie an Meisterklassen für Gebrauchsgraphik.
-
-- Anatomie an Fachschulen für gewerbliche Holz-  und Steinbildhauerei, für künstlerische Wandgestaltung, für angewandte Malerei, für dekorative Gestaltung und für Gebrauchsgraphik und an Meisterschulen für Bildhauerei und für Malerei.
-
-- Anstands- und Gesundheitslehre an Hotelfachschulen und Gastgewerbefachschulen.
-
-- Arbeitshygiene  und  Unfallverhütung  an  höheren  technischen  und  gewerblichen  Lehranstalten und  an  gewerblichen  technischen  und  kunstgewerblichen  Fachschulen,  an  den  Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
-
-- Arbeitskunde an der Bundesfachschule für Technik.
-
-- Arbeits- und Sozialrecht an der Bundesfachschule für Technik.
-
-- Arbeitstechnik und Energiewirtschaft an Fachschulen für Gerbereichemie und Ledertechnik.
-
-- Bauernwaldbetreuung an Bundesförsterschulen.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Baumschulwesen an höheren landund forstwirtschaftlichen Lehranstalten, Fachrichtung Gartenbau.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Berufskunde an Familienhelferinnenschulen.
-
-- Betrieblicher Schriftverkehr an betriebstechnischen Werkmeisterlehrgängen.
-
-- Betriebsabrechnung an höheren Lehranstalten für Reproduktions- und Drucktechnik.
-
-- Betriebskunde an der Bundesfachschule für Technik.
-
-- Betriebs-  und  Rechtskunde  an  höheren  technischen  und  gewerblichen  Lehranstalten,  an  den Sonderformen dieser Schulen und an der Bundesfachschule für Technik.
-
-- Betriebswirtschafts-  und  Rechtskunde  an  gewerblichen,  technischen  und  kunstgewerblichen Fachschulen und an deren Sonderformen, sowie an der Bundesfachschule für Technik.
-
-- Betriebswirtschaftslehre an den Fachschulen für Photographie, für Gerbereichemie und Ledertechnik,  für  Damenkleiderkonfektion  und  für  Herrenkleiderkonfektion,  sowie  an  der Bundesfachschule für Technik.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Bienenkunde an höheren Lehranstalten für allgemeine Landwirtschaft, an höheren Lehranstalten für alpenländische Landwirtschaft, an höheren Lehranstalten für Wein- und Obstbau und an höheren Lehranstalten für Milchwirtschaft und Lebensmitteltechnologie.
-
-- Biologie an Lehranstalten für gehobene Sozialberufe.
-
-- Botanik an höheren land- und forstwirtschaftlichen Lehranstalten.
-
-(Anm.: aufgehoben durch BGBl. Nr. 665/1994)
-
-- Buchführung an Meisterklassen für Uhrmacher.
-
-- Buchhaltung  an  gewerblichen,  technischen  und  kunstgewerblichen  Fachschulen  und  an  den Sonderformen dieser Schulen, an Fachschulen für wirtschaftliche Frauenberufe und an Hauswirtschaftsschulen.
-
-- Buchhaltung und forstliches Kanzleiwesen an Bundesförsterschulen.
-
-- Buchhaltung und kaufmännische Kalkulation an der Bundesfachschule für Technik.
-
-- Buchhaltung und Korrespondenz an Abiturientenlehrgängen für Weberei.
-
-## Anlage 3
+1. Allgemeine Rechtskunde an der Bundesfachschule für Technik.
+2. Allgemeine Warenkunde und mechanische Technologie an höheren Lehranstalten textilkaufmännischer Richtung.
+3. Almwirtschaft an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaft.
+4. Angewandte Typographie an Meisterklassen für Gebrauchsgraphik.
+5. Anatomie an Fachschulen für gewerbliche Holz- und Steinbildhauerei, für künstlerische Wandgestaltung, für angewandte Malerei, für dekorative Gestaltung und für Gebrauchsgraphik und an Meisterschulen für Bildhauerei und für Malerei.
+6. Anstands- und Gesundheitslehre an Hotelfachschulen und Gastgewerbefachschulen.
+7. Arbeitshygiene und Unfallverhütung an höheren technischen und gewerblichen Lehranstalten und an gewerblichen technischen und kunstgewerblichen Fachschulen, an den Sonderformen dieser Schulen, sowie an der Bundesfachschule für Technik.
+8. Arbeitskunde an der Bundesfachschule für Technik.
+9. Arbeits- und Sozialrecht an der Bundesfachschule für Technik.
+10. Arbeitstechnik und Energiewirtschaft an Fachschulen für Gerbereichemie und Ledertechnik.
+11. Bauernwaldbetreuung an Bundesförsterschulen.
+12. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+13. Baumschulwesen an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Gartenbau.
+14. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+15. Berufskunde an Familienhelferinnenschulen.
+16. Betrieblicher Schriftverkehr an betriebstechnischen Werkmeisterlehrgängen.
+17. Betriebsabrechnung an höheren Lehranstalten für Reproduktions- und Drucktechnik.
+18. Betriebskunde an der Bundesfachschule für Technik.
+19. Betriebs- und Rechtskunde an höheren technischen und gewerblichen Lehranstalten, an den Sonderformen dieser Schulen und an der Bundesfachschule für Technik.
+20. Betriebswirtschafts- und Rechtskunde an gewerblichen, technischen und kunstgewerblichen Fachschulen und an deren Sonderformen, sowie an der Bundesfachschule für Technik.
+21. Betriebswirtschaftslehre an den Fachschulen für Photographie, für Gerbereichemie und Ledertechnik, für Damenkleiderkonfektion und für Herrenkleiderkonfektion, sowie an der Bundesfachschule für Technik.
+22. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+23. Bienenkunde an höheren Lehranstalten für allgemeine Landwirtschaft, an höheren Lehranstalten für alpenländische Landwirtschaft, an höheren Lehranstalten für Wein- und Obstbau und an höheren Lehranstalten für Milchwirtschaft und Lebensmitteltechnologie.
+24. Biologie an Lehranstalten für gehobene Sozialberufe.
+25. Botanik an höheren land- und forstwirtschaftlichen Lehranstalten.
+26. (Anm.: aufgehoben durch BGBl. Nr. 665/1994)
+27. Buchführung an Meisterklassen für Uhrmacher.
+28. Buchhaltung an gewerblichen, technischen und kunstgewerblichen Fachschulen und an den Sonderformen dieser Schulen, an Fachschulen für wirtschaftliche Frauenberufe und an Hauswirtschaftsschulen.
+29. Buchhaltung und forstliches Kanzleiwesen an Bundesförsterschulen.
+30. Buchhaltung und kaufmännische Kalkulation an der Bundesfachschule für Technik.
+31. Buchhaltung und Korrespondenz an Abiturientenlehrgängen für Weberei.
 
 www.ris.bka.gv.at
 
@@ -1388,81 +1026,44 @@ Seite 22 von 35
 
 Bundesrecht konsolidiert
 
-- Bürotechnik an höheren Lehranstalten textilkaufmännischer Richtung, an Handelsakademien und Handelsschulen und an deren Sonderformen, sowie an der Bundesfachschule für Technik.
-
-- Chemie.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Chemisches Praktikum an höheren technischen und gewerblichen Lehranstalten.
-
-- Deutsch (Kinder- und Jugendliteratur) an Bildungsanstalten für Erzieher.
-
-- Düngerlehre an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Gartenbau.
-
-- Einführung in die Forstwirtschaft an Bundesförsterschulen.
-
-- Einführung in medizinische Fachgebiete an Lehranstalten für gehobene Sozialberufe.
-
-- Einführung in die Pädagogik an Lehranstalten für gehobene Sozialberufe.
-
-- Einführung  in  die  Philosophie  und  in  die  angewandte  Psychologie  an  höheren  Lehranstalten textilkaufmännischer Richtung.
-
-- Einführung in die Psychiatrie an Lehranstalten für gehobene Sozialberufe.
-
-- Einführung in die Psychologie an Lehranstalten für gehobene Sozialberufe.
-
-- Einführung in rechtskundliche Fachgebiete an Lehranstalten für gehobene Sozialberufe.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Einführung in die Sozialphilosophie an Lehranstalten für gehobene Sozialberufe.
-
-- Einführung in soziologisch-ökonomische Fachgebiete an Lehranstalten für gehobene Sozialberufe.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Englische Konversation und literaturkundliche Übungen an höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- Entwurf- und Fachzeichnen an den Fachschulen für Textilhandwerk, Fachrichtung Weberei und an den Meisterklassen für Textilhandwerk, Fachrichtungen Weberei und Stickerei.
-
-- Ernährungslehre an höheren Lehranstalten für Land- und Ernährungswirtschaft.
-
-- Erziehungslehre an wirtschaftskundlichen Realgymnasien für Mädchen und an Fachschulen für wirtschaftliche Frauenberufe.
-
-- Erziehungslehre einschließlich Psychologie an Bildungsanstalten für Erzieher und an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- Erziehungslehre und allgemeine Psychologie an Familienhelferinnenschulen.
-
-- Fachrechnen an Fachschulen für Textilhandwerk, Fachrichtungen Weberei und Stickerei, sowie an Meisterschulen für Textilhandwerk, Fachrichtung Weberei.
-
-- Fach- und Wirtschaftsrechnen an der Bundesfachschule für Technik.
-
-- Fachzeichnen an den Fachschulen für Metallbearbeitung, für Büchsenmacher und Schäfter, für Starkstromtechnik, für Hochfrequenzund Rundfunktechnik, für Uhrmacher, für Musterzeichnen, für Steinmetzerei und für Zimmerer, an Glasfachschulen, an Werkmeisterschulen  für  Maschinenbau  und  für  Elektrotechnik,  an  Meisterklassen  für  Tischler und für Uhrmacher, an Bauhandwerkerschulen für Zimmerer und für Steinmetzen, sowie an der Bundesfachschule für Technik.
-
-- Fachzeichnen und Entwurfslehre an der Bundesfachschule für Technik.
-
-- Farblehre  an  Fachschulen  für  künstlerische  Wandgestaltung,  für  angewandte  Malerei,  für dekorative Gestaltung, für Gebrauchsgraphik, für Textilhandwerk, Fachrichtungen Weberei und Stickerei,  an  Meisterklassen  für  künstlerische  Wandgestaltung  und  an  Meisterschulen  für  das Malerhandwerk.
-
-- Farb- und Formenlehre an Meisterschulen für Malerei.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Film- und Fernsehseminar an Bildungsanstalten für Erzieher.
-
-- Fischerei an Bundesförsterschulen.
-
-- Form und Farbe an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
-
-- Forstbotanik an Bundesförsterschulen.
-
-- Forstliche Arbeitslehre I an Bundesförsterschulen.
+32. Bürotechnik an höheren Lehranstalten textilkaufmännischer Richtung, an Handelsakademien und Handelsschulen und an deren Sonderformen, sowie an der Bundesfachschule für Technik.
+33. Chemie.
+34. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+35. Chemisches Praktikum an höheren technischen und gewerblichen Lehranstalten.
+36. Deutsch (Kinder- und Jugendliteratur) an Bildungsanstalten für Erzieher.
+37. Düngerlehre an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Gartenbau.
+38. Einführung in die Forstwirtschaft an Bundesförsterschulen.
+39. Einführung in medizinische Fachgebiete an Lehranstalten für gehobene Sozialberufe.
+40. Einführung in die Pädagogik an Lehranstalten für gehobene Sozialberufe.
+41. Einführung in die Philosophie und in die angewandte Psychologie an höheren Lehranstalten textilkaufmännischer Richtung.
+42. Einführung in die Psychiatrie an Lehranstalten für gehobene Sozialberufe.
+43. Einführung in die Psychologie an Lehranstalten für gehobene Sozialberufe.
+44. Einführung in rechtskundliche Fachgebiete an Lehranstalten für gehobene Sozialberufe.
+45. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+46. Einführung in die Sozialphilosophie an Lehranstalten für gehobene Sozialberufe.
+47. Einführung in soziologisch-ökonomische Fachgebiete an Lehranstalten für gehobene Sozialberufe.
+48. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+49. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+50. Englische Konversation und literaturkundliche Übungen an höheren Lehranstalten für wirtschaftliche Frauenberufe.
+51. Entwurf- und Fachzeichnen an den Fachschulen für Textilhandwerk, Fachrichtung Weberei und an den Meisterklassen für Textilhandwerk, Fachrichtungen Weberei und Stickerei.
+52. Ernährungslehre an höheren Lehranstalten für Land- und Ernährungswirtschaft.
+53. Erziehungslehre an wirtschaftskundlichen Realgymnasien für Mädchen und an Fachschulen für wirtschaftliche Frauenberufe.
+54. Erziehungslehre einschließlich Psychologie an Bildungsanstalten für Erzieher und an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
+55. Erziehungslehre und allgemeine Psychologie an Familienhelferinnenschulen.
+56. Fachrechnen an Fachschulen für Textilhandwerk, Fachrichtungen Weberei und Stickerei, sowie an Meisterschulen für Textilhandwerk, Fachrichtung Weberei.
+57. Fach- und Wirtschaftsrechnen an der Bundesfachschule für Technik.
+58. Fachzeichnen an den Fachschulen für Metallbearbeitung, für Büchsenmacher und Schäfter, für Starkstromtechnik, für Hochfrequenz- und Rundfunktechnik, für Uhrmacher, für Musterzeichnen, für Steinmetzerei und für Zimmerer, an Glasfachschulen, an Werkmeisterschulen für Maschinenbau und für Elektrotechnik, an Meisterklassen für Tischler und für Uhrmacher, an Bauhandwerkerschulen für Zimmerer und für Steinmetzen, sowie an der Bundesfachschule für Technik.
+59. Fachzeichnen und Entwurfslehre an der Bundesfachschule für Technik.
+60. Farblehre an Fachschulen für künstlerische Wandgestaltung, für angewandte Malerei, für dekorative Gestaltung, für Gebrauchsgraphik, für Textilhandwerk, Fachrichtungen Weberei und Stickerei, an Meisterklassen für künstlerische Wandgestaltung und an Meisterschulen für das Malerhandwerk.
+61. Farb- und Formenlehre an Meisterschulen für Malerei.
+62. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+63. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+64. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+65. Film- und Fernsehseminar an Bildungsanstalten für Erzieher.
+66. Fischerei an Bundesförsterschulen.
+67. Form und Farbe an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
+68. Forstbotanik an Bundesförsterschulen.
+69. Forstliche Arbeitslehre I an Bundesförsterschulen.
 
 www.ris.bka.gv.at
 
@@ -1474,85 +1075,46 @@ Seite 23 von 35
 
 Bundesrecht konsolidiert
 
-- Forstliche Baukunde an Bundesförsterschulen.
-
-- Forstnutzung I und Forstnutzung II (Sägewerkskunde) an Bundesförsterschulen.
-
-- Forstschutz an Bundesförsterschulen.
-
-- Forstvermessung an Bundesförsterschulen.
-
-- Forstwirtschaft an höheren Lehranstalten für allgemeine Landwirtschaft und an höheren Lehranstalten für Milchwirtschaft und Lebensmitteltechnologie.
-
-- Forstwirtschaftslehre an höheren Lehranstalten für Holztechnik.
-
-- Fremdenverkehrslehre an Gastgewerbefachschulen und Handelsakademien.
-
-- Fremdenverkehrslehre und Werbung an Hotelfachschulen.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Gastgewerbliche Betriebslehre an Gastgewerbefachschulen.
-
-(Anm.: aufgehoben durch BGBl. Nr. 665/1994)
-
-(Anm.: aufgehoben durch BGBl. Nr. 665/1994)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Geographie.
-
-- Geographie (einschließlich Wirtschaftsgeographie) an Handelsschulen und an der Bundesfachschule für Technik.
-
-- Geographie und Wirtschaftskunde.
-
-- Geographie und Wirtschaftskunde (einschließlich Wirtschaftsgeographie) an höheren Lehranstalten textilkaufmännischer Richtung und an Handelsakademien.
-
-- Geometrisches Zeichnen an allgemeinbildenden höheren Schulen, soweit es sich lehrplanmäßig um ein Trägerfach der Informatik handelt.
-
-- Gerbstofflehre an Fachschulen für Gerbereichemie und Ledertechnik.
-
-- Geschichte.
-
-- Geschichte der Mode an Klassen für Modellarbeit für Damenkleidermacher und Wäschewarenerzeuger.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Geschichte und Sozialkunde.
-
-- Geschichte  und  Sozialkunde  (einschließlich  Wirtschaftsgeschichte)  an  höheren  Lehranstalten textilkaufmännischer Richtung und an Handelsakademien.
-
-- Gesetzeskunde an Bundesförsterschulen.
-
-- Gesteinskunde an Bundesförsterschulen.
-
-- Gesundheitslehre an Bildungsanstalten für Kindergärtnerinnen und für Erzieher, an Haushaltungsschulen, an Familienhelferinnenschulen und an höheren landund forstwirtschaftlichen Lehranstalten.
-
-- Gesundheitslehre und Arbeitshygiene an Hauswirtschaftsschulen, an Fachschulen für wirtschaftliche Frauenberufe, an gewerblichen, technischen und kunstgewerblichen Fachschulen und deren Sonderformen.
-
-- Getränkekunde an Hotelfachschulen und Gastgewerbefachschulen.
-
-- Grundfragen der Soziologie an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Grundlagen der Forsteinrichtungen an Bundesförsterschulen.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Hauswirtschaftliche  Betriebskunde  an  vierjährigen  höheren  Lehranstalten  für  wirtschaftliche Frauenberufe.
-
-- Heilpädagogik an Bildungsanstalten für Erzieher.
-
-- Holzmeßkunde an Bundesförsterschulen.
-
-- Hotelbetriebslehre an Hotelfachschulen.
+70. Forstliche Baukunde an Bundesförsterschulen.
+71. Forstnutzung I und Forstnutzung II (Sägewerkskunde) an Bundesförsterschulen.
+72. Forstschutz an Bundesförsterschulen.
+73. Forstvermessung an Bundesförsterschulen.
+74. Forstwirtschaft an höheren Lehranstalten für allgemeine Landwirtschaft und an höheren Lehranstalten für Milchwirtschaft und Lebensmitteltechnologie.
+75. Forstwirtschaftslehre an höheren Lehranstalten für Holztechnik.
+76. Fremdenverkehrslehre an Gastgewerbefachschulen und Handelsakademien.
+77. Fremdenverkehrslehre und Werbung an Hotelfachschulen.
+78. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+79. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+80. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+81. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+82. Gastgewerbliche Betriebslehre an Gastgewerbefachschulen.
+83. (Anm.: aufgehoben durch BGBl. Nr. 665/1994)
+84. (Anm.: aufgehoben durch BGBl. Nr. 665/1994)
+85. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+86. Geographie.
+87. Geographie (einschließlich Wirtschaftsgeographie) an Handelsschulen und an der Bundesfachschule für Technik.
+88. Geographie und Wirtschaftskunde.
+89. Geographie und Wirtschaftskunde (einschließlich Wirtschaftsgeographie) an höheren Lehranstalten textilkaufmännischer Richtung und an Handelsakademien.
+90. Geometrisches Zeichnen an allgemeinbildenden höheren Schulen, soweit es sich lehrplanmäßig um ein Trägerfach der Informatik handelt.
+91. Gerbstofflehre an Fachschulen für Gerbereichemie und Ledertechnik.
+92. Geschichte.
+93. Geschichte der Mode an Klassen für Modellarbeit für Damenkleidermacher und Wäschewarenerzeuger.
+94. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+95. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+96. Geschichte und Sozialkunde.
+97. Geschichte und Sozialkunde (einschließlich Wirtschaftsgeschichte) an höheren Lehranstalten textilkaufmännischer Richtung und an Handelsakademien.
+98. Gesetzeskunde an Bundesförsterschulen.
+99. Gesteinskunde an Bundesförsterschulen.
+100. Gesundheitslehre an Bildungsanstalten für Kindergärtnerinnen und für Erzieher, an Haushaltungsschulen, an Familienhelferinnenschulen und an höheren land- und forstwirtschaftlichen Lehranstalten.
+101. Gesundheitslehre und Arbeitshygiene an Hauswirtschaftsschulen, an Fachschulen für wirtschaftliche Frauenberufe, an gewerblichen, technischen und kunstgewerblichen Fachschulen und deren Sonderformen.
+102. Getränkekunde an Hotelfachschulen und Gastgewerbefachschulen.
+103. Grundfragen der Soziologie an höheren Lehranstalten textilkaufmännischer Richtung.
+104. Grundlagen der Forsteinrichtungen an Bundesförsterschulen.
+105. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+106. Hauswirtschaftliche Betriebskunde an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
+107. Heilpädagogik an Bildungsanstalten für Erzieher.
+108. Holzmeßkunde an Bundesförsterschulen.
+109. Hotelbetriebslehre an Hotelfachschulen.
 
 www.ris.bka.gv.at
 
@@ -1564,75 +1126,41 @@ Seite 24 von 35
 
 Bundesrecht konsolidiert
 
-- Jagd  und  Fischerei  an  höheren  Lehranstalten für  allgemeine  Landwirtschaft,  an  höheren Lehranstalten für alpenländische Landwirtschaft und an höheren Lehranstalten für Forstwirtschaft.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Kaufmännische  Betriebsführung  an  Klassen  für  Modellarbeit  für  Damenkleidermacher  und Wäschewarenerzeuger.
-
-- Kaufmännische Betriebskunde an Handelsakademien und Handelsschulen und an den Sonderformen dieser Schulen sowie an der Bundesfachschule  für Technik (Handelsschule und Sonderform).
-
-- Kaufmännische Betriebskunde (einschließlich Betriebswirtschaftslehre) an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Kaufmännischer Schriftverkehr an Fachschulen für Damenkleidermacher, für Herrenkleidermacher, für Wäschewarenerzeuger, für Modisten und für Kunststicker, an Fachschulen für wirtschaftliche Frauenberufe, an Hauswirtschaftsschulen und an Meisterklassen für Uhrmacher.
-
-- Kaufmännischer  Schriftverkehr  und  Buchhaltung  an  höheren  Lehranstalten  für  Reproduktionsund Drucktechnik.
-
-- Kellerwirtschaft  an  höheren  land-  und  forstwirtschaftlichen  Lehranstalten,  Fachrichtung  Weinund Obstbau.
-
-- Kinderpflege an höheren landund forstwirtschaftlichen Lehranstalten, Fachrichtung landwirtschaftliche Frauenberufe.
-
-- Kinder- und Jugendliteratur an Bildungsanstalten für Erzieher.
-
-- Kinematographie an Fachschulen für Photographie
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Konversation als Ergänzung des Unterrichtes in einer lebenden Fremdsprache an Bundeserziehungsanstalten.
-
-- Kulturgeschichte an Bildungsanstalten für Arbeitslehrerinnen, an Meisterklassen für Uhrmacher und an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- Kulturkunde der Familie an Familienhelferinnenschulen.
-
-- Kunstformenlehre an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
-
-- Kurzschrift in einer lebenden Fremdsprache.
-
-- Laboratorium an höheren Lehranstalten für Textilchemie.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Land- und Almwirtschaft an Bundesförsterschulen.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- 131a. Landwirtschaft an höheren Lehranstalten für Forstwirtschaft.
-
-- Landwirtschaftslehre an Lehrerbildungsanstalten.
-
-- Layout an Fachschulen und Meisterklassen für Gebrauchsgraphik.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Lebenskunde an höheren Lehranstalten und an Fachschulen für wirtschaftliche Frauenberufe und an Lehranstalten für gehobene Sozialberufe.
-
-- Lebenskunde einschließlich (und) Erziehungslehre an Haushaltungsschulen und Hauswirtschaftsschulen, an Fachschulen für Damenkleidermacher, Herrenkleidermacher, Wäschewarenerzeuger, Modisten und Kunststicker und an deren Meisterklassen.
-
-- Lernhilfe an Bildungsanstalten für Erzieher.
-
-- Literaturpflege.
-
-- Lohnverrechnung an der Bundesfachschule für Technik.
-
-- Maschinenkunde an Bundesförsterschulen.
-
-- Maschinenzeichnen an betriebstechnischen Werkmeisterlehrgängen.
-
-- Materialienkunde an Fachschulen für Maschinstickerei und an Meisterklassen für Maschinsticker.
-
-- Materialienkunde und Textilchemie an Fachschulen für Damenkleidermacher, für Herrenkleidermacher,  für  Modisten,  für  Kunststicker  und  für  Wäschewarenerzeuger  und  an
+110. Jagd und Fischerei an höheren Lehranstalten für allgemeine Landwirtschaft, an höheren Lehranstalten für alpenländische Landwirtschaft und an höheren Lehranstalten für Forstwirtschaft.
+111. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+112. Kaufmännische Betriebsführung an Klassen für Modellarbeit für Damenkleidermacher und Wäschewarenerzeuger.
+113. Kaufmännische Betriebskunde an Handelsakademien und Handelsschulen und an den Sonderformen dieser Schulen sowie an der Bundesfachschule für Technik (Handelsschule und Sonderform).
+114. Kaufmännische Betriebskunde (einschließlich Betriebswirtschaftslehre) an höheren Lehranstalten textilkaufmännischer Richtung.
+115. Kaufmännischer Schriftverkehr an Fachschulen für Damenkleidermacher, für Herrenkleidermacher, für Wäschewarenerzeuger, für Modisten und für Kunststicker, an Fachschulen für wirtschaftliche Frauenberufe, an Hauswirtschaftsschulen und an Meisterklassen für Uhrmacher.
+116. Kaufmännischer Schriftverkehr und Buchhaltung an höheren Lehranstalten für Reproduktions- und Drucktechnik.
+117. Kellerwirtschaft an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Wein- und Obstbau.
+118. Kinderpflege an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung landwirtschaftliche Frauenberufe.
+119. Kinder- und Jugendliteratur an Bildungsanstalten für Erzieher.
+120. Kinematographie an Fachschulen für Photographie
+121. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+122. Konversation als Ergänzung des Unterrichtes in einer lebenden Fremdsprache an Bundeserziehungsanstalten.
+123. Kulturgeschichte an Bildungsanstalten für Arbeitslehrerinnen, an Meisterklassen für Uhrmacher und an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
+124. Kulturkunde der Familie an Familienhelferinnenschulen.
+125. Kunstformenlehre an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau).
+126. Kurzschrift in einer lebenden Fremdsprache.
+127. Laboratorium an höheren Lehranstalten für Textilchemie.
+128. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+129. Land- und Almwirtschaft an Bundesförsterschulen.
+130. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+131. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+131a. Landwirtschaft an höheren Lehranstalten für Forstwirtschaft.
+132. Landwirtschaftslehre an Lehrerbildungsanstalten.
+133. Layout an Fachschulen und Meisterklassen für Gebrauchsgraphik.
+134. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+135. Lebenskunde an höheren Lehranstalten und an Fachschulen für wirtschaftliche Frauenberufe und an Lehranstalten für gehobene Sozialberufe.
+136. Lebenskunde einschließlich (und) Erziehungslehre an Haushaltungsschulen und Hauswirtschaftsschulen, an Fachschulen für Damenkleidermacher, Herrenkleidermacher, Wäschewarenerzeuger, Modisten und Kunststicker und an deren Meisterklassen.
+137. Lernhilfe an Bildungsanstalten für Erzieher.
+138. Literaturpflege.
+139. Lohnverrechnung an der Bundesfachschule für Technik.
+140. Maschinenkunde an Bundesförsterschulen.
+141. Maschinenzeichnen an betriebstechnischen Werkmeisterlehrgängen.
+142. Materialienkunde an Fachschulen für Maschinstickerei und an Meisterklassen für Maschinsticker.
+143. Materialienkunde und Textilchemie an Fachschulen für Damenkleidermacher, für Herrenkleidermacher, für Modisten, für Kunststicker und für Wäschewarenerzeuger und an
 
 www.ris.bka.gv.at
 
@@ -1644,81 +1172,44 @@ Seite 25 von 35
 
 Bundesrecht konsolidiert
 
-Meisterklassen  für  Damenkleidermacher,  für  Herrenkleidermacher,  für  Wäschewarenerzeuger und für Kunststicker.
-
-- Materialienlehre an Fachschulen für Damenkleiderkonfektion und für Herrenkleiderkonfektion.
-
-- Materialkunde  an  höheren Lehranstalten  für  Möbelbau  (Möbelbau  und  Innenausbau),  an Fachschulen für Steinmetzerei, für Holz- und Steinbildhauerei, für Zimmerer, für Tischlerei und Raumgestaltung, für Drechslerei, für künstlerische Wandgestaltung, für angewandte Malerei, für Musterzeichnen, für gestaltendes Metallhandwerk und für dekorative Gestaltung, an Meisterschulen für Bildhauerei, für Tischlerei und Raumgestaltung, für gestaltendes Metallhandwerk,  für  Keramik  und  Ofenbau  und  für  Mode,  an  Meisterklassen  für  dekorative Gestaltung und für Tischler, an Bildungsanstalten für Arbeitslehrerinnen, und an der Bundesfachschule für Technik.
-
-- Materialkunde und Maltechniken an Meisterschulen für Malerei.
-
-- Materialkunde  und  Technologie  an  Fachschulen  und  an  Meisterschulen  für  Textilhandwerk, Fachrichtungen Weberei und Stickerei.
-
-- Materiallehre  an  höheren  Lehranstalten  für  Wirkerei  und  Strickerei,  an  höheren  Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
-
-- Materiallehre und Mikroskopie an höheren Lehranstalten für Weberei und Spinnerei.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Meliorationen an höheren land- und forstwirtschaftlichen Lehranstalten.
-
-- Menschenführung, Sozialgesetzgebung, Arbeitshygiene und Unfallverhütung an betriebstechnischen Werkmeisterlehrgängen.
-
-- Methodik der Sozialarbeit an Lehranstalten für gehobene Sozialberufe.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Mikroskopie und Warenkunde an Fachschulen für Gerbereichemie und Ledertechnik.
-
-- Milchwirtschaft an höheren landund forstwirtschaftlichen Lehranstalten, Fachrichtungen Landwirtschaft und landwirtschaftliche Frauenberufe.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Nahrungsmittelkunde an Hotelfachschulen.
-
-- Nahrungsmittel- und Speisenkunde an Gastgewerbefachschulen.
-
-- Naturgeschichte.
-
-- Naturkunde.
-
-- Naturkundliches Seminar mit praktischen Übungen an Bildungsanstalten für Erzieher.
-
-- Naturlehre an Bundesförsterschulen und an der Bundesfachschule für Technik.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Obstbau an höheren Lehranstalten für alpenländische Landwirtschaft.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Obst-  und  Gemüsebau  an  höheren  land-  und  forstwirtschaftlichen  Lehranstalten,  Fachrichtung Landwirtschaft.
-
-- Obstund Gemüseverwertung an höheren landund forstwirtschaftlichen Lehranstalten, Fachrichtungen Wein- und Obstbau und Gartenbau.
-
-- Organisationslehre der Beherbergungs- und Verpflegungsbetriebe an höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- Originalgraphik an Fachschulen und Meisterklassen für Gebrauchsgraphik.
-
-- Pädagogik  an  Lehrerbildungsanstalten,  sowie  an  Bildungsanstalten  für  Kindergärtnerinnen  und für Arbeitslehrerinnen.
-
-(Anm.: aufgehoben durch BGBl. Nr. 665/1994)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch BGBl. Nr. 665/1994)
-
-- Philosophischer Einführungsunterricht.
-
-- Photographik an Fachschulen und Meisterklassen für Gebrauchsgraphik.
-
-- Physik.
+Meisterklassen für Damenkleidermacher, für Herrenkleidermacher, für Wäschewarenerzeuger und für Kunststicker.
+144. Materialienlehre an Fachschulen für Damenkleiderkonfektion und für Herrenkleiderkonfektion.
+145. Materialkunde an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau), an Fachschulen für Steinmetzerei, für Holz- und Steinbildhauerei, für Zimmerer, für Tischlerei und Raumgestaltung, für Drechslerei, für künstlerische Wandgestaltung, für angewandte Malerei, für Musterzeichnen, für gestaltendes Metallhandwerk und für dekorative Gestaltung, an Meisterschulen für Bildhauerei, für Tischlerei und Raumgestaltung, für gestaltendes Metallhandwerk, für Keramik und Ofenbau und für Mode, an Meisterklassen für dekorative Gestaltung und für Tischler, an Bildungsanstalten für Arbeitslehrerinnen, und an der Bundesfachschule für Technik.
+146. Materialkunde und Maltechniken an Meisterschulen für Malerei.
+147. Materialkunde und Technologie an Fachschulen und an Meisterschulen für Textilhandwerk, Fachrichtungen Weberei und Stickerei.
+148. Materiallehre an höheren Lehranstalten für Wirkerei und Strickerei, an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
+149. Materiallehre und Mikroskopie an höheren Lehranstalten für Weberei und Spinnerei.
+150. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+151. Meliorationen an höheren land- und forstwirtschaftlichen Lehranstalten.
+152. Menschenführung, Sozialgesetzgebung, Arbeitshygiene und Unfallverhütung an betriebstechnischen Werkmeisterlehrgängen.
+153. Methodik der Sozialarbeit an Lehranstalten für gehobene Sozialberufe.
+154. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+155. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+156. Mikroskopie und Warenkunde an Fachschulen für Gerbereichemie und Ledertechnik.
+157. Milchwirtschaft an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtungen Landwirtschaft und landwirtschaftliche Frauenberufe.
+158. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+159. Nahrungsmittelkunde an Hotelfachschulen.
+160. Nahrungsmittel- und Speisenkunde an Gastgewerbefachschulen.
+161. Naturgeschichte.
+162. Naturkunde.
+163. Naturkundliches Seminar mit praktischen Übungen an Bildungsanstalten für Erzieher.
+164. Naturlehre an Bundesförsterschulen und an der Bundesfachschule für Technik.
+165. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+166. Obstbau an höheren Lehranstalten für alpenländische Landwirtschaft.
+167. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+168. Obst- und Gemüsebau an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaft.
+169. Obst- und Gemüseverwertung an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtungen Wein- und Obstbau und Gartenbau.
+170. Organisationslehre der Beherbergungs- und Verpflegungsbetriebe an höheren Lehranstalten für wirtschaftliche Frauenberufe.
+171. Originalgraphik an Fachschulen und Meisterklassen für Gebrauchsgraphik.
+172. Pädagogik an Lehrerbildungsanstalten, sowie an Bildungsanstalten für Kindergärtnerinnen und für Arbeitslehrerinnen.
+173. (Anm.: aufgehoben durch BGBl. Nr. 665/1994)
+174. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+175. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+176. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+177. (Anm.: aufgehoben durch BGBl. Nr. 665/1994)
+178. Philosophischer Einführungsunterricht.
+179. Photographik an Fachschulen und Meisterklassen für Gebrauchsgraphik.
+180. Physik.
 
 www.ris.bka.gv.at
 
@@ -1730,77 +1221,42 @@ Seite 26 von 35
 
 Bundesrecht konsolidiert
 
-- Physik und Wetterkunde an höheren land- und forstwirtschaftlichen Lehranstalten.
-
-- Physikalisch-chemische Untersuchungsmethoden an Fachschulen für Gerbereichemie und Ledertechnik.
-
-- Physikalisches Praktikum an höheren technischen und gewerblichen Lehranstalten.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Psychologie  und  Erziehungslehre  an  Frauenoberschulen  und  an  höheren  Lehranstalten  für wirtschaftliche Frauenberufe.
-
-- Raumgestaltung an Meisterschulen für Tischlerei und Raumgestaltung.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Rechnen an Haushaltungsschulen und an der Bundesfachschule für Technik.
-
-- Rechnen, Kalkulation und Buchhaltung einschließlich kaufmännischer Schriftverkehr an Meisterklassen  für  Damenkleidermacher,  für  Herrenkleidermacher,  für  Wäschewarenerzeuger, für Kunststicker und für Maschinsticker.
-
-- Rechnen und Kalkulation an Hotelfachschulen und an Gastgewerbefachschulen.
-
-- Rechnen und Wirtschaften an Familienhelferinnenschulen.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Rechtskunde an Bildungsanstalten für Kindergärtnerinnen, an höheren Lehranstalten für Technische Chemie und für Reproduktionsund Drucktechnik, an Fachschulen für Gerbereichemie und Ledertechnik, an Hotelfachschulen und an höheren landund forstwirtschaftlichen Lehranstalten, sowie an der Bundesfachschule für Technik.
-
-- Rechtslehre an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei, für Textilchemie,  an  höheren  Lehranstalten  textilkaufmännischer  Richtung,  an  Fachschulen  für Photographie und an Handelsakademien.
-
-- Religion.
-
-- Reproduktionstechnik an Fachschulen für Photographie.
-
-- Reproduktions- und Drucktechnik an Fachschulen für Gebrauchsgraphik.
-
-- Säuglingspflege an Familienhelferinnenschulen.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Schriftverkehr an Hotelfachschulen und an Gastgewerbefachschulen.
-
-- Schulhygiene an Lehrerbildungsanstalten.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Seminar für Sozialarbeit an Lehranstalten für gehobene Sozialberufe.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Sozialkunde an Bildungsanstalten für Erzieher.
-
-- Spezielle Berufskunde an Bildungsanstalten für Kindergärtnerinnen.
-
-- Spezielle Probleme der Heimerziehung an Bildungsanstalten für Erzieher.
-
-- Staatsbürgerkunde an Haushaltungsschulen, an Hauswirtschaftsschulen, an höheren technischen und  gewerblichen  Lehranstalten  und  deren  Sonderformen,  an  gewerblichen,  technischen  und kunstgewerblichen  Fachschulen und deren  Sonderformen,  an Lehranstalten für  gehobene Sozialberufe, an Familienhelferinnenschulen, an höheren landund forstwirtschaftlichen Lehranstalten und an Bundesförsterschulen, sowie an der Bundesfachschule für Technik.
-
-- Staatsbürgerkunde einschließlich Rechtslehre an höheren  Lehranstalten für wirtschaftliche Frauenberufe und an Handelsschulen, sowie an der Bundesfachschule für Technik.
-
-- Staatsbürgerkunde, Rechtslehre an Handelsakademien und an deren Sonderformen.
-
-- Staatsbürgerkunde und Rechtskunde an höheren Lehranstalten und an Fachschulen für wirtschaftliche  Frauenberufe,  an Fachschulen  und Meisterklassen für Damenkleidermacher, für Herrenkleidermacher,  für  Wäschewarenerzeuger,  für  Modisten  und  für  Kunststicker  und  an Meisterklassen für Uhrmacher und für Maschinsticker.
-
-- Standortkunde an Bundesförsterschulen.
-
-(Anm.: aufgehoben durch BGBl. Nr. 665/1994)
-
-- Steuerkunde an der Bundesfachschule für Technik und an höheren landund forstwirtschaftlichen Lehranstalten.
-
-- Steuerlehre an höheren Lehranstalten textilkaufmännischer Richtung.
+181. Physik und Wetterkunde an höheren land- und forstwirtschaftlichen Lehranstalten.
+182. Physikalisch-chemische Untersuchungsmethoden an Fachschulen für Gerbereichemie und Ledertechnik.
+183. Physikalisches Praktikum an höheren technischen und gewerblichen Lehranstalten.
+184. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+185. Psychologie und Erziehungslehre an Frauenoberschulen und an höheren Lehranstalten für wirtschaftliche Frauenberufe.
+186. Raumgestaltung an Meisterschulen für Tischlerei und Raumgestaltung.
+187. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+188. Rechnen an Haushaltungsschulen und an der Bundesfachschule für Technik.
+189. Rechnen, Kalkulation und Buchhaltung einschließlich kaufmännischer Schriftverkehr an Meisterklassen für Damenkleidermacher, für Herrenkleidermacher, für Wäschewarenerzeuger, für Kunststicker und für Maschinsticker.
+190. Rechnen und Kalkulation an Hotelfachschulen und an Gastgewerbefachschulen.
+191. Rechnen und Wirtschaften an Familienhelferinnenschulen.
+192. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+193. Rechtskunde an Bildungsanstalten für Kindergärtnerinnen, an höheren Lehranstalten für Technische Chemie und für Reproduktions- und Drucktechnik, an Fachschulen für Gerbereichemie und Ledertechnik, an Hotelfachschulen und an höheren land- und forstwirtschaftlichen Lehranstalten, sowie an der Bundesfachschule für Technik.
+194. Rechtslehre an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei, für Textilchemie, an höheren Lehranstalten textilkaufmännischer Richtung, an Fachschulen für Photographie und an Handelsakademien.
+195. Religion.
+196. Reproduktionstechnik an Fachschulen für Photographie.
+197. Reproduktions- und Drucktechnik an Fachschulen für Gebrauchsgraphik.
+198. Säuglingspflege an Familienhelferinnenschulen.
+199. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+200. Schriftverkehr an Hotelfachschulen und an Gastgewerbefachschulen.
+201. Schulhygiene an Lehrerbildungsanstalten.
+202. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+203. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+204. Seminar für Sozialarbeit an Lehranstalten für gehobene Sozialberufe.
+205. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+206. Sozialkunde an Bildungsanstalten für Erzieher.
+207. Spezielle Berufskunde an Bildungsanstalten für Kindergärtnerinnen.
+208. Spezielle Probleme der Heimerziehung an Bildungsanstalten für Erzieher.
+209. Staatsbürgerkunde an Haushaltungsschulen, an Hauswirtschaftsschulen, an höheren technischen und gewerblichen Lehranstalten und deren Sonderformen, an gewerblichen, technischen und kunstgewerblichen Fachschulen und deren Sonderformen, an Lehranstalten für gehobene Sozialberufe, an Familienhelferinnenschulen, an höheren land- und forstwirtschaftlichen Lehranstalten und an Bundesförsterschulen, sowie an der Bundesfachschule für Technik.
+210. Staatsbürgerkunde einschließlich Rechtslehre an höheren Lehranstalten für wirtschaftliche Frauenberufe und an Handelsschulen, sowie an der Bundesfachschule für Technik.
+211. Staatsbürgerkunde, Rechtslehre an Handelsakademien und an deren Sonderformen.
+212. Staatsbürgerkunde und Rechtskunde an höheren Lehranstalten und an Fachschulen für wirtschaftliche Frauenberufe, an Fachschulen und Meisterklassen für Damenkleidermacher, für Herrenkleidermacher, für Wäschewarenerzeuger, für Modisten und für Kunststicker und an Meisterklassen für Uhrmacher und für Maschinsticker.
+213. Standortkunde an Bundesförsterschulen.
+214. (Anm.: aufgehoben durch BGBl. Nr. 665/1994)
+215. Steuerkunde an der Bundesfachschule für Technik und an höheren land- und forstwirtschaftlichen Lehranstalten.
+216. Steuerlehre an höheren Lehranstalten textilkaufmännischer Richtung.
 
 www.ris.bka.gv.at
 
@@ -1812,73 +1268,40 @@ Seite 27 von 35
 
 Bundesrecht konsolidiert
 
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Stickereizeichnen an Fachschulen für Maschinsticker.
-
-- Tariflehre an Fachschulen für Maschinstickerei und an Meisterklassen für Maschinsticker.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Technisches  Zeichnen  an  höheren  technischen  und  gewerblichen  Lehranstalten,  an  technischkaufmännischen Abiturientenlehrgängen, an Fachschulen  für Büchsenmacher  und Schäfter, für Uhrmacher und für Gerbereichemie und Ledertechnik, an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik, und an der Bundesfachschule für Technik.
-
-- Technologie an Meisterklassen für künstlerische Wandgestaltung.
-
-- Technologisches Praktikum an höheren Lehranstalten für Gerbereichemie und Ledertechnik.
-
-- Textilchemische Untersuchungen an höheren Lehranstalten für Textilchemie.
-
-- Textile Verkaufskunde an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Textilmechanische  Untersuchungen  an  höheren  Lehranstalten  für  Weberei  und  Spinnerei,  für Wirkerei  und  Strickerei, für  Textilchemie,  an  höheren  Lehranstalten  textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
-
-- Tierheilkunde an höheren landund forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaft.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Tierzucht und Fütterungslehre an höheren landund forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaft.
-
-- Übungen aus Naturgeschichte, Physik, Chemie oder Psychologie an allgemeinbildenden höheren Schulen und an Mittelschulen.
-
-- Übungen im chemischen und Warenkundelaboratorium an Handelsakademien.
-
-- Übungen im Warenkundelaboratorium an Abiturientenlehrgängen an Handelsakademien und an Abiturientenlehrgängen für Beruftstätige an Handelsakademien.
-
-- Übungen in Bürotechnik an Handelsakademien.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Verlags- und Zeitungskunde an höheren Lehranstalten für Reproduktions- und Drucktechnik.
-
-- Vermessungskunde an Fachschulen für Zimmerer.
-
-- 238a. Volkskunde an höheren land- und forstwirtschaftlichen Lehranstalten.
-
-- Volkswirtschaftslehre an Handelsakademien und deren Sonderformen, an höheren Lehranstalten und  Fachschulen  für  wirtschaftliche  Frauenberufe,  an  höheren  technischen  und  gewerblichen Lehranstalten, an Meisterklassen für Uhrmacher und an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen, sowie an der Bundesfachschule für Technik.
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Volkswirtschaftslehre und Volkswirtschaftspolitik an höheren Lehranstalten textilkaufmännischer Richtung.
-
-- Volkswirtschaftslehre, Rechtsund Staatsbürgerkunde an technisch-kaufmännischen Abiturientenlehrgängen.
-
-- Volkswirtschaftsund  Gesellschaftslehre an allgemeinbildenden höheren Schulen und  an Mittelschulen.
-
-- Waldbau an Bundesförsterschulen.
-
-- Warenkunde  an  höheren Lehranstalten für Technische  Chemie, für Gerbereichemie und Ledertechnik, für Biochemie und Schädlingsbekämpfung, an technisch-kaufmännischen Abiturientenlehrgängen, an Abiturientenlehrgängen an Handelsakademien, an Abiturientenlehrgängen für Berufstätige an Handelsakademien und an der Bundesfachschule für Technik.
-
-- Warenkunde der Kettenwirkerei an höheren Lehranstalten für Wirkerei und Strickerei.
-
-- Warenkunde der Kulierwirkerei an höheren Lehranstalten für Wirkerei und Strickerei.
-
-- Warenkunde der Strickerei an höheren Lehranstalten für Wirkerei und Strickerei.
-
-- Warenkunde der Wirkerei und Strickerei an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
+217. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+218. Stickereizeichnen an Fachschulen für Maschinsticker.
+219. Tariflehre an Fachschulen für Maschinstickerei und an Meisterklassen für Maschinsticker.
+220. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+221. Technisches Zeichnen an höheren technischen und gewerblichen Lehranstalten, an technisch-kaufmännischen Abiturientenlehrgängen, an Fachschulen für Büchsenmacher und Schäfter, für Uhrmacher und für Gerbereichemie und Ledertechnik, an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik, und an der Bundesfachschule für Technik.
+222. Technologie an Meisterklassen für künstlerische Wandgestaltung.
+223. Technologisches Praktikum an höheren Lehranstalten für Gerbereichemie und Ledertechnik.
+224. Textilchemische Untersuchungen an höheren Lehranstalten für Textilchemie.
+225. Textile Verkaufskunde an höheren Lehranstalten textilkaufmännischer Richtung.
+226. Textilmechanische Untersuchungen an höheren Lehranstalten für Weberei und Spinnerei, für Wirkerei und Strickerei, für Textilchemie, an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
+227. Tierheilkunde an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaft.
+228. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+229. Tierzucht und Fütterungslehre an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaft.
+230. Übungen aus Naturgeschichte, Physik, Chemie oder Psychologie an allgemeinbildenden höheren Schulen und an Mittelschulen.
+231. Übungen im chemischen und Warenkundelaboratorium an Handelsakademien.
+232. Übungen im Warenkundelaboratorium an Abiturientenlehrgängen an Handelsakademien und an Abiturientenlehrgängen für Beruftstätige an Handelsakademien.
+233. Übungen in Bürotechnik an Handelsakademien.
+234. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+235. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+236. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+237. Verlags- und Zeitungskunde an höheren Lehranstalten für Reproduktions- und Drucktechnik.
+238. Vermessungskunde an Fachschulen für Zimmerer.
+238a. Volkskunde an höheren land- und forstwirtschaftlichen Lehranstalten.
+239. Volkswirtschaftslehre an Handelsakademien und deren Sonderformen, an höheren Lehranstalten und Fachschulen für wirtschaftliche Frauenberufe, an höheren technischen und gewerblichen Lehranstalten, an Meisterklassen für Uhrmacher und an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen, sowie an der Bundesfachschule für Technik.
+240. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+241. Volkswirtschaftslehre und Volkswirtschaftspolitik an höheren Lehranstalten textilkaufmännischer Richtung.
+242. Volkswirtschaftslehre, Rechts- und Staatsbürgerkunde an technisch-kaufmännischen Abiturientenlehrgängen.
+243. Volkswirtschafts- und Gesellschaftslehre an allgemeinbildenden höheren Schulen und an Mittelschulen.
+244. Waldbau an Bundesförsterschulen.
+245. Warenkunde an höheren Lehranstalten für Technische Chemie, für Gerbereichemie und Ledertechnik, für Biochemie und Schädlingsbekämpfung, an technisch-kaufmännischen Abiturientenlehrgängen, an Abiturientenlehrgängen an Handelsakademien, an Abiturientenlehrgängen für Berufstätige an Handelsakademien und an der Bundesfachschule für Technik.
+246. Warenkunde der Kettenwirkerei an höheren Lehranstalten für Wirkerei und Strickerei.
+247. Warenkunde der Kulierwirkerei an höheren Lehranstalten für Wirkerei und Strickerei.
+248. Warenkunde der Strickerei an höheren Lehranstalten für Wirkerei und Strickerei.
+249. Warenkunde der Wirkerei und Strickerei an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
 
 www.ris.bka.gv.at
 
@@ -1890,75 +1313,41 @@ Seite 28 von 35
 
 Bundesrecht konsolidiert
 
-- Warenkunde und Technologie an Handelsakademien.
-
-- Waren- und Verkaufskunde an Handelsschulen und an der Bundesfachschule für Technik.
-
-- Webwarenkunde an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
-
-(Anm.: aufgehoben durch BGBl. Nr. 665/1994)
-
-(Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
-
-- Werbelehre  an  Fachschulen  für  dekorative  Gestaltung  und  für  Gebrauchsgraphik  und  an Meisterklassen für dekorative Gestaltung.
-
-- Werkstättenkunde an höheren landund forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik.
-
-- Werkstoffkunde an betriebstechnischen Werkmeisterlehrgängen.
-
-- Werkzeug- und Maschinenkunde an der Bundesfachschule für Technik.
-
-- Wildkunde und Jagdbetrieb an Bundesförsterschulen.
-
-- Wirtschaftliches Rechnen an Fachschulen für Damenkleidermacher, für Herrenkleidermacher, für Modisten,  für  Kunststicker  und  für  Wäschewarenerzeuger,  an  Fachschulen  für  wirtschaftliche Frauenberufe und an Hauswirtschaftsschulen, sowie an der Bundesfachschule für Technik.
-
-- Wirtschaftsgeographie an Abiturientenlehrgängen an Handelsakademien und an Abiturientenlehrgängen für Berufstätige an Handelsakademien.
-
-- Wissenschaftliche Photographie an Fachschulen für Photographie.
-
-- Wohlfahrtspflege an Familienhelferinnenschulen.
-
-- Zoologie an höheren land- und forstwirtschaftlichen Lehranstalten und an Bundesförsterschulen.
-
+250. Warenkunde und Technologie an Handelsakademien.
+251. Waren- und Verkaufskunde an Handelsschulen und an der Bundesfachschule für Technik.
+252. Webwarenkunde an höheren Lehranstalten textilkaufmännischer Richtung und an Abiturientenlehrgängen für Weberei.
+253. (Anm.: aufgehoben durch BGBl. Nr. 665/1994)
+254. (Anm.: aufgehoben durch Art. I Z 9, BGBl. Nr. 228/1972)
+255. Werbelehre an Fachschulen für dekorative Gestaltung und für Gebrauchsgraphik und an Meisterklassen für dekorative Gestaltung.
+256. Werkstättenkunde an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik.
+257. Werkstoffkunde an betriebstechnischen Werkmeisterlehrgängen.
+258. Werkzeug- und Maschinenkunde an der Bundesfachschule für Technik.
+259. Wildkunde und Jagdbetrieb an Bundesförsterschulen.
+260. Wirtschaftliches Rechnen an Fachschulen für Damenkleidermacher, für Herrenkleidermacher, für Modisten, für Kunststicker und für Wäschewarenerzeuger, an Fachschulen für wirtschaftliche Frauenberufe und an Hauswirtschaftsschulen, sowie an der Bundesfachschule für Technik.
+261. Wirtschaftsgeographie an Abiturientenlehrgängen an Handelsakademien und an Abiturientenlehrgängen für Berufstätige an Handelsakademien.
+262. Wissenschaftliche Photographie an Fachschulen für Photographie.
+263. Wohlfahrtspflege an Familienhelferinnenschulen.
+264. Zoologie an höheren land- und forstwirtschaftlichen Lehranstalten und an Bundesförsterschulen.
 ## Anlage 4
-
 ### Lehrverpflichtungsgruppe IV
-
-- Akt an Meisterschulen für Bildhauerei und für Malerei.
-
-- Aktzeichnen an Fachschulen für Musterzeichnen.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 567/1981)
-
-- Entwerfen und Vergrößern an Meisterklassen für Maschinsticker.
-
-- Entwurf  und  Werkzeichnen  an  Fachschulen  für  gestaltendes  Metallhandwerk,  für  gewerbliche Holz- und Steinbildhauerei, für Tischlerei und Raumgestaltung, für Drechslerei, für Keramik und Ofenbau und für dekorative Gestaltung, an Meisterschulen für gestaltendes Metallhandwerk, für Tischlerei und Raumgestaltung und für Keramik und Ofenbau.
-
-- Entwurfzeichnen an Fachschulen für Kunststicker und an Meisterschulen für das Malerhandwerk.
-
-- Entwurf-  und  Fachzeichnen  an  höheren  Lehranstalten  für  Wirkerei  und  Strickerei  und  an Fachschulen für Maschinstickerei sowie an der Bundesfachschule für Technik.
-
-(Anm.: aufgehoben durch Art. III Z 5, BGBl. Nr. 362/1991)
-
-- Entwurf- und Schnittzeichnen an Meisterschulen für Mode.
-
-- Freihandzeichnen  an  höheren  Lehranstalten  für  Hochbau,  für  Holzbau  und  für  Tiefbau,  an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, an Fachschulen für Steinmetzerei und für Zimmerer und an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen.
-
-- Freihandzeichnen und Schriftpflege an Lehrerbildungsanstalten.
-
-- 11a. Geometrisches Zeichnen an allgemeinbildenden höheren Schulen, soweit dieser Unterrichtsgegenstand nicht in die Lehrverpflichtungsgruppe III fällt.
-
-- Komposition an Meisterschulen für Malerei.
-
-- Kopf an Meisterschulen für Malerei.
-
-(Anm.: aufgehoben durch Art. I Z 14, BGBl. Nr. 228/1972)
-
-- Kunstgeschichte an höheren  Lehranstalten für  Textilchemie und  für Reproduktions-  und Drucktechnik und an gewerblichen, technischen und kunstgewerblichen Fachschulen und deren Sonderformen.
-
-- Kunstgeschichte (Bauformenlehre) an Fachschulen für Zimmerer.
-
-- Kunstpflege (Zeichnen) an Mittelschulen.
+1. Akt an Meisterschulen für Bildhauerei und für Malerei.
+2. Aktzeichnen an Fachschulen für Musterzeichnen.
+3. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 567/1981)
+4. Entwerfen und Vergrößern an Meisterklassen für Maschinsticker.
+5. Entwurf und Werkzeichnen an Fachschulen für gestaltendes Metallhandwerk, für gewerbliche Holz- und Steinbildhauerei, für Tischlerei und Raumgestaltung, für Drechslerei, für Keramik und Ofenbau und für dekorative Gestaltung, an Meisterschulen für gestaltendes Metallhandwerk, für Tischlerei und Raumgestaltung und für Keramik und Ofenbau.
+6. Entwurfzeichnen an Fachschulen für Kunststicker und an Meisterschulen für das Malerhandwerk.
+7. Entwurf- und Fachzeichnen an höheren Lehranstalten für Wirkerei und Strickerei und an Fachschulen für Maschinstickerei sowie an der Bundesfachschule für Technik.
+8. (Anm.: aufgehoben durch Art. III Z 5, BGBl. Nr. 362/1991)
+9. Entwurf- und Schnittzeichnen an Meisterschulen für Mode.
+10. Freihandzeichnen an höheren Lehranstalten für Hochbau, für Holzbau und für Tiefbau, an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, an Fachschulen für Steinmetzerei und für Zimmerer und an Bauhandwerkerschulen für Maurer, für Zimmerer und für Steinmetzen.
+11. Freihandzeichnen und Schriftpflege an Lehrerbildungsanstalten.
+11a. Geometrisches Zeichnen an allgemeinbildenden höheren Schulen, soweit dieser Unterrichtsgegenstand nicht in die Lehrverpflichtungsgruppe III fällt.
+12. Komposition an Meisterschulen für Malerei.
+13. Kopf an Meisterschulen für Malerei.
+14. (Anm.: aufgehoben durch Art. I Z 14, BGBl. Nr. 228/1972)
+15. Kunstgeschichte an höheren Lehranstalten für Textilchemie und für Reproduktions- und Drucktechnik und an gewerblichen, technischen und kunstgewerblichen Fachschulen und deren Sonderformen.
+16. Kunstgeschichte (Bauformenlehre) an Fachschulen für Zimmerer.
+17. Kunstpflege (Zeichnen) an Mittelschulen.
 
 www.ris.bka.gv.at
 
@@ -1970,64 +1359,35 @@ Seite 29 von 35
 
 Bundesrecht konsolidiert
 
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 567/1981)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 567/1981)
-
-(Anm.: aufgehoben durch Art. I Z 14, BGBl. Nr. 228/1972)
-
-- Musik an Mittelschulen und an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 567/1981)
-
-- Musiklehre und Gesang an Lehrerbildungsanstalten.
-
-- Musische Unterrichtsgegenstände an Lehranstalten für gehobene Sozialberufe.
-
-- Naturzeichnen an Meisterschulen für Malerei.
-
-- Werkerziehung an allgemeinbildenden höheren Schulen und an Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen und für Erzieher.
-
+18. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 567/1981)
+19. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 567/1981)
+20. (Anm.: aufgehoben durch Art. I Z 14, BGBl. Nr. 228/1972)
+21. Musik an Mittelschulen und an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
+22. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 567/1981)
+23. Musiklehre und Gesang an Lehrerbildungsanstalten.
+24. Musische Unterrichtsgegenstände an Lehranstalten für gehobene Sozialberufe.
+25. Naturzeichnen an Meisterschulen für Malerei.
+26. Werkerziehung an allgemeinbildenden höheren Schulen und an Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen und für Erzieher.
 ## Beachte für folgende Bestimmung
-
 Hinsichtlich der Fachschulen für wirtschaftliche Berufe klassenweise gestaffeltes Inkrafttreten (§ 15 Abs. 9 idF BGBl. Nr. 665/1994)
-
 1. 9. 1994 (1. und 2. Klasse)
-
 1. 9. 1995 (3. Klasse)
-
-### Lehrverpflichtungsgruppe IVa
-
-- Bildnerische Erziehung an Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen und für Erzieher, an Fachschulen für wirtschaftliche Berufe, an höheren Schulen und an Akademien für Sozialarbeit.
-
-- 1a. Entwurf- und Modezeichnen an höheren Lehranstalten für Mode und Bekleidungstechnik und an deren  Sonderformen,  an  Fachschulen  für  Mode  und  Bekleidungstechnik  einschließlich  der Fachrichtung Herrenbekleidung und der Sonderform für Gehörlose sowie an Meisterklassen für Damenkleidermacher und Herrenkleidermacher.
-
-- Leibeserziehung.
-
-- Leibesübungen.
-
-- Musikerziehung an Akademien für Sozialarbeit, an Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen  und  für  Erzieher,  an  allgemeinbildenden  höheren  Schulen,  an  höheren Lehranstalten für wirtschaftliche Berufe und an Fachschulen für wirtschaftliche Berufe.
-
-## Anlage 4b
-
-### Lehrverpflichtungsgruppe IVb
-
-- Bildnerische Erziehung in der siebenten und achten Klasse an Gymnasien, Realgymnasien und Oberstufenrealgymnasien unter besonderer Berücksichtigung der musischen Ausbildung, soweit lehrplanmäßig Schularbeiten vorgesehen sind.
-
-- Musikerziehung  in  der  siebenten  und  achten  Klasse  an  Gymnasien,  Realgymnasien  und Oberstufenrealgymnasien unter besonderer Berücksichtigung der musischen Ausbildung, soweit lehrplanmäßig Schularbeiten vorgesehen sind.
-
-- Stenotypie und Textverarbeitung an Handelsschulen, Handelsakademien und deren Sonderformen,  an  mittleren  und  höheren  Lehranstalten  für  Fremdenverkehrsberufe  sowie  an Höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-## Beachte für folgende Bestimmung
-
-Hinsichtlich der Fachschulen für wirtschaftliche Berufe klassenweise gestaffeltes Inkrafttreten (§ 15 Abs. 9 idF BGBl. Nr. 665/1994)
-
-1. 9. 1994 (1. und 2. Klasse)
-
-1. 9. 1995 (3. Klasse)
-
 ## Anlage 4a
-
+### Lehrverpflichtungsgruppe IVa
+1. Bildnerische Erziehung an Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen und für Erzieher, an Fachschulen für wirtschaftliche Berufe, an höheren Schulen und an Akademien für Sozialarbeit.
+1a. Entwurf- und Modezeichnen an höheren Lehranstalten für Mode und Bekleidungstechnik und an deren Sonderformen, an Fachschulen für Mode und Bekleidungstechnik einschließlich der Fachrichtung Herrenbekleidung und der Sonderform für Gehörlose sowie an Meisterklassen für Damenkleidermacher und Herrenkleidermacher.
+2. Leibeserziehung.
+3. Leibesübungen.
+4. Musikerziehung an Akademien für Sozialarbeit, an Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen und für Erzieher, an allgemeinbildenden höheren Schulen, an höheren Lehranstalten für wirtschaftliche Berufe und an Fachschulen für wirtschaftliche Berufe.
+## Anlage 4b
+### Lehrverpflichtungsgruppe IVb
+1. Bildnerische Erziehung in der siebenten und achten Klasse an Gymnasien, Realgymnasien und Oberstufenrealgymnasien unter besonderer Berücksichtigung der musischen Ausbildung, soweit lehrplanmäßig Schularbeiten vorgesehen sind.
+2. Musikerziehung in der siebenten und achten Klasse an Gymnasien, Realgymnasien und Oberstufenrealgymnasien unter besonderer Berücksichtigung der musischen Ausbildung, soweit lehrplanmäßig Schularbeiten vorgesehen sind.
+3. Stenotypie und Textverarbeitung an Handelsschulen, Handelsakademien und deren Sonderformen, an mittleren und höheren Lehranstalten für Fremdenverkehrsberufe sowie an Höheren Lehranstalten für wirtschaftliche Frauenberufe.
+## Beachte für folgende Bestimmung
+Hinsichtlich der Fachschulen für wirtschaftliche Berufe klassenweise gestaffeltes Inkrafttreten (§ 15 Abs. 9 idF BGBl. Nr. 665/1994)
+1. 9. 1994 (1. und 2. Klasse)
+1. 9. 1995 (3. Klasse)
 ## Anlage 5
 
 www.ris.bka.gv.at
@@ -2041,86 +1401,46 @@ Seite 30 von 35
 Bundesrecht konsolidiert
 
 ### Lehrverpflichtungsgruppe V
-
-- Anstandslehre an Bundesförsterschulen.
-
-- Atelier an Meisterschulen für Bildhauerei und für Malerei und an Meisterklassen für dekorative Gestaltung.
-
-- Atelier und Werkstätte in Fachschulen und Meisterklassen für künstlerische Wandgestaltung.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch BGBl. Nr. 665/1994)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Chorgesang  an allgemeinbildenden höheren Schulen, Mittelschulen, Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen und für Erzieher und an höheren landund forstwirtschaftlichen Lehranstalten.
-
-- Chorgesang und Orchesterübungen an höheren technischen und gewerblichen Lehranstalten und an gewerblichen, technischen und kunstgewerblichen Fachschulen.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. III Z 8, BGBl. Nr. 362/1991) Damenkleidermacher, für Herrenkleidermacher, für Damenkleiderkonfektion, für Herrenkleiderkonfektion, für Wäschewarenerzeuger und für Modisten.
-
-- Ergänzende Unterrichtsveranstaltungen an Bildungsanstalten für Kindergärtnerinnen.
-
-- Ernährungslehre, Lebensmittel- und Diätkunde an höheren Lehranstalten und an Fachschulen für wirtschaftliche Frauenberufe.
-
-- Fachausbildung (verschiedene Techniken, Weißnähen einschließlich Schnittzeichnen und Kleidernähen einschließlich Schnittzeichnen) an Bildungsanstalten für Arbeitslehrerinnen.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Formenschneiden an Glasfachschulen.
-
-- Forstbotanik - Übungen an Bundesförsterschulen.
-
-- Forstliche Arbeitslehre II - Übungen an Bundesförsterschulen.
-
-- Forstliche Baukunde - Übungen an Bundesförsterschulen.
-
-- Forstliches Zeichnen an Bundesförsterschulen.
-
-- Forstschutz - Übungen an Bundesförsterschulen.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 18, BGBl. Nr. 567/1981)
-
-- Gesang an höheren land- und forstwirtschaftlichen Lehranstalten und an Bundesförsterschulen.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Geschäftsschrift an Handelsschulen und an der Bundesfachschule für Technik.
-
-- Gips- und Stuckarbeiten an höheren Lehranstalten für Hochbau, für Tiefbau und für Holzbau.
-
-- Handarbeit (als Pflichtgegenstand) an Mittelschulen und Lehrerbildungsanstalten.
-
-- Handarbeit und Werkerziehung an allgemeinbildenden höheren Schulen.
-
-- Haushaltsführung  an  Fachschulen  für  Damenkleidermacher,  für  Wäschewarenerzeuger,  für Modisten und für Kunststicker.
-
-- Haushaltspflege an höheren Lehranstalten und an Fachschulen für wirtschaftliche Frauenberufe sowie an Hauswirtschaftsschulen und an Haushaltungsschulen.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Hauskrankenpflege und Erste Hilfe an Familienhelferinnenschulen.
-
-- Hauswirtschaft  an  Lehrerbildungsanstalten,  Bildungsanstalten  für  Arbeitslehrerinnen  und  für Kindergärtnerinnen sowie an Handelsakademien und Handelsschulen.
-
-- Hauswirtschaft mit ihren theoretischen Grundlagen an Bildungsanstalten für Arbeitslehrerinnen.
-
-- Hauswirtschaftliche Betriebskunde an Fachschulen für wirtschaftliche Frauenberufe.
-
-- Hauswirtschaftliche  Betriebspraxis  und  Organisationsübungen  an  höheren  Lehranstalten  für wirtschaftliche Frauenberufe.
+1. Anstandslehre an Bundesförsterschulen.
+2. Atelier an Meisterschulen für Bildhauerei und für Malerei und an Meisterklassen für dekorative Gestaltung.
+3. Atelier und Werkstätte in Fachschulen und Meisterklassen für künstlerische Wandgestaltung.
+4. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+5. (Anm.: aufgehoben durch BGBl. Nr. 665/1994)
+6. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+7. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+8. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+9. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+10. Chorgesang an allgemeinbildenden höheren Schulen, Mittelschulen, Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen und für Erzieher und an höheren land- und forstwirtschaftlichen Lehranstalten.
+11. Chorgesang und Orchesterübungen an höheren technischen und gewerblichen Lehranstalten und an gewerblichen, technischen und kunstgewerblichen Fachschulen.
+12. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+13. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+14. (Anm.: aufgehoben durch Art. III Z 8, BGBl. Nr. 362/1991) Damenkleidermacher, für Herrenkleidermacher, für Damenkleiderkonfektion, für Herrenkleiderkonfektion, für Wäschewarenerzeuger und für Modisten.
+15. Ergänzende Unterrichtsveranstaltungen an Bildungsanstalten für Kindergärtnerinnen.
+16. Ernährungslehre, Lebensmittel- und Diätkunde an höheren Lehranstalten und an Fachschulen für wirtschaftliche Frauenberufe.
+17. Fachausbildung (verschiedene Techniken, Weißnähen einschließlich Schnittzeichnen und Kleidernähen einschließlich Schnittzeichnen) an Bildungsanstalten für Arbeitslehrerinnen.
+18. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+19. Formenschneiden an Glasfachschulen.
+20. Forstbotanik - Übungen an Bundesförsterschulen.
+21. Forstliche Arbeitslehre II - Übungen an Bundesförsterschulen.
+22. Forstliche Baukunde - Übungen an Bundesförsterschulen.
+23. Forstliches Zeichnen an Bundesförsterschulen.
+24. Forstschutz - Übungen an Bundesförsterschulen.
+25. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+26. (Anm.: aufgehoben durch Art. I Z 18, BGBl. Nr. 567/1981)
+27. Gesang an höheren land- und forstwirtschaftlichen Lehranstalten und an Bundesförsterschulen.
+28. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+29. Geschäftsschrift an Handelsschulen und an der Bundesfachschule für Technik.
+30. Gips- und Stuckarbeiten an höheren Lehranstalten für Hochbau, für Tiefbau und für Holzbau.
+31. Handarbeit (als Pflichtgegenstand) an Mittelschulen und Lehrerbildungsanstalten.
+32. Handarbeit und Werkerziehung an allgemeinbildenden höheren Schulen.
+33. Haushaltsführung an Fachschulen für Damenkleidermacher, für Wäschewarenerzeuger, für Modisten und für Kunststicker.
+34. Haushaltspflege an höheren Lehranstalten und an Fachschulen für wirtschaftliche Frauenberufe sowie an Hauswirtschaftsschulen und an Haushaltungsschulen.
+35. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+36. Hauskrankenpflege und Erste Hilfe an Familienhelferinnenschulen.
+37. Hauswirtschaft an Lehrerbildungsanstalten, Bildungsanstalten für Arbeitslehrerinnen und für Kindergärtnerinnen sowie an Handelsakademien und Handelsschulen.
+38. Hauswirtschaft mit ihren theoretischen Grundlagen an Bildungsanstalten für Arbeitslehrerinnen.
+39. Hauswirtschaftliche Betriebskunde an Fachschulen für wirtschaftliche Frauenberufe.
+40. Hauswirtschaftliche Betriebspraxis und Organisationsübungen an höheren Lehranstalten für wirtschaftliche Frauenberufe.
 
 www.ris.bka.gv.at
 
@@ -2132,83 +1452,45 @@ Seite 31 von 35
 
 Bundesrecht konsolidiert
 
-- Heim- und lebenspraktisches Seminar an Bildungsanstalten für Erzieher.
-
-- Instrumentale Spielgruppe an Bildungsanstalten für Kindergärtnerinnen und für Erzieher.
-
-- Instrumentalmusik an allgemeinbildenden höheren Schulen, Lehrerbildungsanstalten, Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen und für Erzieher.
-
-- Instrumentenbau an Bildungsanstalten für Kindergärtnerinnen und für Erzieher.
-
-- Jagdhornblasen an Bundesförsterschulen.
-
-- Jugendspiele an Bildungsanstalten für Arbeitslehrerinnen.
-
-- Kinderbeschäftigung an Fachschulen für wirtschaftliche Frauenberufe.
-
-- Kinderpflege und Fürsorge an Frauenoberschulen.
-
-- Kirchenchor an allgemeinbildenden höheren Schulen und Mittelschulen.
-
-- Kochen an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- Kochen einschließlich Lebensmittelkunde und Servieren an Haushaltungsschulen und Hauswirtschaftsschulen.
-
-- Kochen und Hauswirtschaftskunde an Frauenoberschulen und an wirtschaftskundlichen Realgymnasien für Mädchen.
-
-- Kochlehre  und  Vorratswirtschaft  an  höheren  land-  und  forstwirtschaftlichen  Lehranstalten, Fachrichtung Landwirtschaftliche Frauenberufe.
-
-- Küchenpraxis und Küchenführung an höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- Küchenpraxis und Servieren an Fachschulen für wirtschaftliche Frauenberufe.
-
-- Kulturpflege  (Arbeitsgemeinschaft)  an  Handelsakademien,  an  Handelsschulen  und  an  der Bundesfachschule für Technik.
-
-- Kurzschrift.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Mädchenhandarbeit an Bildungsanstalten für Kindergärtnerinnen.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Maschinschreiben.
-
-- Menschenführung an Fachschulen für Damenkleiderkonfektion, für Herrenkleiderkonfektion und für Maschinstickerei.
-
-- Möbel-, Raum- und Fassadengestaltung an Meisterschulen für das Malerhandwerk.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Modellieren  an  höheren  Lehranstalten  für  Hochbau,  an  höheren  technischen  Lehranstalten  für Berufstätige,  Fachrichtung  Hochbau,  an  Fachschulen  für  gestaltendes  Metallhandwerk,  für Steinmetzerei,  für  gewerbliche  Holz-  und  Steinbildhauerei,  an  Meisterschulen  für  gestaltendes Metallhandwerk und an Bauhandwerkerschulen für Steinmetzen.
-
-- Modellieren und Modellbau an Fachschulen für dekorative Gestaltung.
-
-- Montierungsarbeiten  an  Fachschulen  und  Meisterschulen  für  Textilhandwerk,  Fachrichtung Stickerei.
-
-- Musik an Haushaltungsschulen und an Hauswirtschaftsschulen.
-
-- Musikalisch-rhythmische Erziehung an Bildungsanstalten für Kindergärtnerinnen.
-
-- Musikerziehung an Fachschulen für Damenkleidermacher, für Wäschewarenerzeuger, für Modisten und für Kunststicker.
-
-- Musterkunde  und  Kartenlehre  an  Fachschulen  für  Maschinstickerei  und  Meisterklassen  für Maschinsticker.
-
-- Musterzeichnen und Modellarbeit an der Bundesfachschule für Technik.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Nähen und Schnittzeichnen an Fachschulen für wirtschaftliche Frauenberufe.
-
-- Orchester beziehungsweise Orchester-Instrumentalmusik an Mittelschulen und Lehrerbildungsanstalten.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Säuglings- und Kinderpflege an wirtschaftskundlichen Realgymnasien für Mädchen.
-
-- Schnittzeichnen an Fachschulen für Meisterklassen für Herrenkleidermacher.
-
-- Schnittzeichnen und Modellarbeit an Fachschulen für Damenkleiderkonfektion, für Herrenkleiderkonfektion, für Damenkleidermacher und für Wäschewarenerzeuger, an
+41. Heim- und lebenspraktisches Seminar an Bildungsanstalten für Erzieher.
+42. Instrumentale Spielgruppe an Bildungsanstalten für Kindergärtnerinnen und für Erzieher.
+43. Instrumentalmusik an allgemeinbildenden höheren Schulen, Lehrerbildungsanstalten, Bildungsanstalten für Arbeitslehrerinnen, für Kindergärtnerinnen und für Erzieher.
+44. Instrumentenbau an Bildungsanstalten für Kindergärtnerinnen und für Erzieher.
+45. Jagdhornblasen an Bundesförsterschulen.
+46. Jugendspiele an Bildungsanstalten für Arbeitslehrerinnen.
+47. Kinderbeschäftigung an Fachschulen für wirtschaftliche Frauenberufe.
+48. Kinderpflege und Fürsorge an Frauenoberschulen.
+49. Kirchenchor an allgemeinbildenden höheren Schulen und Mittelschulen.
+50. Kochen an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
+51. Kochen einschließlich Lebensmittelkunde und Servieren an Haushaltungsschulen und Hauswirtschaftsschulen.
+52. Kochen und Hauswirtschaftskunde an Frauenoberschulen und an wirtschaftskundlichen Realgymnasien für Mädchen.
+53. Kochlehre und Vorratswirtschaft an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landwirtschaftliche Frauenberufe.
+54. Küchenpraxis und Küchenführung an höheren Lehranstalten für wirtschaftliche Frauenberufe.
+55. Küchenpraxis und Servieren an Fachschulen für wirtschaftliche Frauenberufe.
+56. Kulturpflege (Arbeitsgemeinschaft) an Handelsakademien, an Handelsschulen und an der Bundesfachschule für Technik.
+57. Kurzschrift.
+58. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+59. Mädchenhandarbeit an Bildungsanstalten für Kindergärtnerinnen.
+60. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+61. Maschinschreiben.
+62. Menschenführung an Fachschulen für Damenkleiderkonfektion, für Herrenkleiderkonfektion und für Maschinstickerei.
+63. Möbel-, Raum- und Fassadengestaltung an Meisterschulen für das Malerhandwerk.
+64. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+65. Modellieren an höheren Lehranstalten für Hochbau, an höheren technischen Lehranstalten für Berufstätige, Fachrichtung Hochbau, an Fachschulen für gestaltendes Metallhandwerk, für Steinmetzerei, für gewerbliche Holz- und Steinbildhauerei, an Meisterschulen für gestaltendes Metallhandwerk und an Bauhandwerkerschulen für Steinmetzen.
+66. Modellieren und Modellbau an Fachschulen für dekorative Gestaltung.
+67. Montierungsarbeiten an Fachschulen und Meisterschulen für Textilhandwerk, Fachrichtung Stickerei.
+68. Musik an Haushaltungsschulen und an Hauswirtschaftsschulen.
+69. Musikalisch-rhythmische Erziehung an Bildungsanstalten für Kindergärtnerinnen.
+70. Musikerziehung an Fachschulen für Damenkleidermacher, für Wäschewarenerzeuger, für Modisten und für Kunststicker.
+71. Musterkunde und Kartenlehre an Fachschulen für Maschinstickerei und Meisterklassen für Maschinsticker.
+72. Musterzeichnen und Modellarbeit an der Bundesfachschule für Technik.
+73. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+74. Nähen und Schnittzeichnen an Fachschulen für wirtschaftliche Frauenberufe.
+75. Orchester beziehungsweise Orchester-Instrumentalmusik an Mittelschulen und Lehrerbildungsanstalten.
+76. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+77. Säuglings- und Kinderpflege an wirtschaftskundlichen Realgymnasien für Mädchen.
+78. Schnittzeichnen an Fachschulen für Meisterklassen für Herrenkleidermacher.
+79. Schnittzeichnen und Modellarbeit an Fachschulen für Damenkleiderkonfektion, für Herrenkleiderkonfektion, für Damenkleidermacher und für Wäschewarenerzeuger, an
 
 www.ris.bka.gv.at
 
@@ -2220,79 +1502,43 @@ Seite 32 von 35
 
 Bundesrecht konsolidiert
 
-Meisterklassen  für  Damenkleidermacher  und  für  Wäschewarenerzeuger  und  an  Klassen  für Modellarbeit im Damenkleidermachen und in der Wäschewarenerzeugung.
-
-- Schreiben einschließlich Linkshandschreiben an der Bundesfachschule für Technik.
-
-- Schrift  an  Fachschulen  für  Steinmetzerei,  für  gewerbliche  Holz-  und  Steinbildhauerei,  für künstlerische Wandgestaltung, für angewandte Malerei, für dekorative Gestaltung, für Gebrauchsgraphik, für Musterzeichnen, an Glasfachschulen, an Meisterschulen für Malerei und für das Malerhandwerk und an Meisterklassen für künstlerische Wandgestaltung.
-
-- Schrift- und Kompositionsübungen an Fachschulen für Photographie.
-
-- Seminar für Erste Hilfe an Bildungsanstalten für Erzieher.
-
-- Seminar für Fest- und Feiergestaltung an Bildungsanstalten für Erzieher.
-
-- Seminar für Freizeitgestaltung an Bildungsanstalten für Erzieher.
-
-- Seminar für Lager und Zelten an Bildungsanstalten für Erzieher.
-
-- Seminar für musikalisch-rhythmische Erziehung an Bildungsanstalten für Erzieher.
-
-- Seminar in dem theoretischen Fachgebiet für das Lehramt in Servierkunde an berufspädagogischen Lehranstalten.
-
-- Seminaristische Übungen im berufseinschlägigen Schriftverkehr und in Bürotechnik an Lehranstalten für gehobene Sozialberufe.
-
-- Seminar zur Einführung in die Bedienung von Bild- und Tongeräten, Vervielfältigungsapparaten und anderen Geräten an Bildungsanstalten für Erzieher.
-
-- Servierkunde an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- Servierkunde und Übungen an Hotelfachschulen und an Gastgewerbefachschulen.
-
-- Singen an Familienhelferinnenschulen.
-
-- Spielmusik an allgemeinbildenden höheren Schulen und an Bildungsanstalten für Kindergärtnerinnen.
-
-- Sprecherziehung an allgemeinbildenden höheren Schulen.
-
-- Stenotypie (Kurzschrift, Maschinschreiben und Übungen).
-
-- Textiles Dekor an Meisterschulen für Mode.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Volkskunde und Volkstumspflege an höheren land- und forstwirtschaftlichen Lehranstalten.
-
-(Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
-
-- Werkarbeit an Familienhelferinnenschulen und an Lehranstalten für gehobene Sozialberufe.
-
-(Anm.: aufgehoben durch Art. I Z 18, BGBl. Nr. 567/1981)
-
-- Werkstätte einschließlich Fachkunde beziehungsweise einschließlich Fachkunde und Modetechnik  beziehungsweise  einschließlich  Fachkunde  und  Vorarbeiten  an  Fachschulen  für Modisten, für Damenkleidermacher, für Wäschewarenerzeuger und für Herrenkleidermacher und an Meisterklassen für Damenkleidermacher, für Herrenkleidermacher und für Wäschewarenerzeuger.
-
-- Werkstätte einschließlich  Fach-  und  Stoffkunde  und  Modetechnik  an  Klassen  für  Modellarbeit im Damenkleidermachen und in der Wäschewarenerzeugung.
-
-- Werkstätte  einschließlich  Fachkunde,  Vorarbeiten  und  Schnittzeichnen  an  Fachschulen  für Kunststicker.
-
-- Werkstätte einschließlich Vorarbeiten und Fachkunde an Meisterklassen für Kunststicker.
-
-- Werkstätte für Textilverarbeitung an höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
-- Werkstätte und Betriebslaboratorium an Werkmeisterschulen für Maschinenbau und für Elektrotechnik in den zweiten Klassen.
-
-- Werkzeuge und Geräte an Meisterschulen für das Malerhandwerk.
-
-- Werkzeuge und Maschinen  an  Fachschulen für Tischlerei und  Raumgestaltung und für Drechslerei,  an  Meisterschulen  für  Tischlerei  und  Raumgestaltung  und  an  Meisterklassen  für Tischler.
-
-- Werkzeugkunde an Fachschulen für Zimmerer.
+Meisterklassen für Damenkleidermacher und für Wäschewarenerzeuger und an Klassen für Modellarbeit im Damenkleidermachen und in der Wäschewarenerzeugung.
+80. Schreiben einschließlich Linkshandschreiben an der Bundesfachschule für Technik.
+81. Schrift an Fachschulen für Steinmetzerei, für gewerbliche Holz- und Steinbildhauerei, für künstlerische Wandgestaltung, für angewandte Malerei, für dekorative Gestaltung, für Gebrauchsgraphik, für Musterzeichnen, an Glasfachschulen, an Meisterschulen für Malerei und für das Malerhandwerk und an Meisterklassen für künstlerische Wandgestaltung.
+82. Schrift- und Kompositionsübungen an Fachschulen für Photographie.
+83. Seminar für Erste Hilfe an Bildungsanstalten für Erzieher.
+84. Seminar für Fest- und Feiergestaltung an Bildungsanstalten für Erzieher.
+85. Seminar für Freizeitgestaltung an Bildungsanstalten für Erzieher.
+86. Seminar für Lager und Zelten an Bildungsanstalten für Erzieher.
+87. Seminar für musikalisch-rhythmische Erziehung an Bildungsanstalten für Erzieher.
+88. Seminar in dem theoretischen Fachgebiet für das Lehramt in Servierkunde an berufspädagogischen Lehranstalten.
+89. Seminaristische Übungen im berufseinschlägigen Schriftverkehr und in Bürotechnik an Lehranstalten für gehobene Sozialberufe.
+90. Seminar zur Einführung in die Bedienung von Bild- und Tongeräten, Vervielfältigungsapparaten und anderen Geräten an Bildungsanstalten für Erzieher.
+91. Servierkunde an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
+92. Servierkunde und Übungen an Hotelfachschulen und an Gastgewerbefachschulen.
+93. Singen an Familienhelferinnenschulen.
+94. Spielmusik an allgemeinbildenden höheren Schulen und an Bildungsanstalten für Kindergärtnerinnen.
+95. Sprecherziehung an allgemeinbildenden höheren Schulen.
+96. Stenotypie (Kurzschrift, Maschinschreiben und Übungen).
+97. Textiles Dekor an Meisterschulen für Mode.
+98. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+99. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+100. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+101. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+102. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+103. Volkskunde und Volkstumspflege an höheren land- und forstwirtschaftlichen Lehranstalten.
+104. (Anm.: aufgehoben durch Art. I Z 15, BGBl. Nr. 228/1972)
+105. Werkarbeit an Familienhelferinnenschulen und an Lehranstalten für gehobene Sozialberufe.
+106. (Anm.: aufgehoben durch Art. I Z 18, BGBl. Nr. 567/1981)
+107. Werkstätte einschließlich Fachkunde beziehungsweise einschließlich Fachkunde und Modetechnik beziehungsweise einschließlich Fachkunde und Vorarbeiten an Fachschulen für Modisten, für Damenkleidermacher, für Wäschewarenerzeuger und für Herrenkleidermacher und an Meisterklassen für Damenkleidermacher, für Herrenkleidermacher und für Wäschewarenerzeuger.
+108. Werkstätte einschließlich Fach- und Stoffkunde und Modetechnik an Klassen für Modellarbeit im Damenkleidermachen und in der Wäschewarenerzeugung.
+109. Werkstätte einschließlich Fachkunde, Vorarbeiten und Schnittzeichnen an Fachschulen für Kunststicker.
+110. Werkstätte einschließlich Vorarbeiten und Fachkunde an Meisterklassen für Kunststicker.
+111. Werkstätte für Textilverarbeitung an höheren Lehranstalten für wirtschaftliche Frauenberufe.
+112. Werkstätte und Betriebslaboratorium an Werkmeisterschulen für Maschinenbau und für Elektrotechnik in den zweiten Klassen.
+113. Werkzeuge und Geräte an Meisterschulen für das Malerhandwerk.
+114. Werkzeuge und Maschinen an Fachschulen für Tischlerei und Raumgestaltung und für Drechslerei, an Meisterschulen für Tischlerei und Raumgestaltung und an Meisterklassen für Tischler.
+115. Werkzeugkunde an Fachschulen für Zimmerer.
 
 www.ris.bka.gv.at
 
@@ -2304,71 +1550,39 @@ Seite 33 von 35
 
 Bundesrecht konsolidiert
 
-- Werkzeug- und Maschinenkunde an der Bundesfachschule für Technik.
-
-- Zeichnen und Malen an gewerblichen, technischen und kunstgewerblichen Fachschulen und an deren Sonderformen.
-
-- Zeichnen und Modellieren an allgemeinbildenden höheren Schulen und an Mittelschulen.
-
-- Zeichnen und Schrift an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau), an Fachschulen für Tischlerei und Raumgestaltung, für Drechslerei und für Keramik und Ofenbau, an Meisterschulen für gestaltendes Metallhandwerk, für Tischlerei und Raumgestaltung  und für Keramik und Ofenbau, sowie an Meisterklassen für Tischlerei.
-
-- Zeichnen und Werkarbeit an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
-
+116. Werkzeug- und Maschinenkunde an der Bundesfachschule für Technik.
+117. Zeichnen und Malen an gewerblichen, technischen und kunstgewerblichen Fachschulen und an deren Sonderformen.
+118. Zeichnen und Modellieren an allgemeinbildenden höheren Schulen und an Mittelschulen.
+119. Zeichnen und Schrift an höheren Lehranstalten für Möbelbau (Möbelbau und Innenausbau), an Fachschulen für Tischlerei und Raumgestaltung, für Drechslerei und für Keramik und Ofenbau, an Meisterschulen für gestaltendes Metallhandwerk, für Tischlerei und Raumgestaltung und für Keramik und Ofenbau, sowie an Meisterklassen für Tischlerei.
+120. Zeichnen und Werkarbeit an vierjährigen höheren Lehranstalten für wirtschaftliche Frauenberufe.
 ## Anlage 5a
-
 ### Lehrverpflichtungsgruppe Va
-
-- Arbeitsgemeinschaft für erweiterte Betriebspraxis an gewerblichen, technischen und kunstgewerblichen Fachschulen.
-
-- Atelier und Werkstätte an Fachschulen für gestaltendes Metallhandwerk, für gewerbliche Holzund  Steinbildhauerei,  für  Tischlerei  und  Raumgestaltung,  für  Drechslerei,  für  Keramik  und Ofenbau, für angewandte Malerei, für dekorative Gestaltung, für Textilhandwerk, Fachrichtungen Weberei und Stickerei, an Meisterschulen für gestaltendes Metallhandwerk, für Keramik  und  Ofenbau,  für  Textilhandwerk,  Fachrichtungen  Weberei  und  Stickerei,  für  das Malerhandwerk und für Mode.
-
-- Bautechnisches Praktikum an höheren Lehranstalten für Bautechnik-Hochbau und -Tiefbau und an den Sonderformen dieser Schulen.
-
-- Betriebspraktikum an Höheren Lehranstalten für Fremdenverkehrsberufe und an den Sonderformen dieser Schulen, an Gastgewerbefachschulen und an Hotelfachschulen.
-
-- Farbenfotografie an Fachschulen für Fotografie.
-
-- Mechanische Werkstätte an höheren Lehranstalten für Silikattechnik.
-
-- Nähen an Fachschulen für Sozialberufe.
-
-- Nähen und Werken an Haushaltungsschulen.
-
-- Porträtfotografie an Fachschulen für Fotografie.
-
-- Praktische  Bauarbeiten  an  Baufachschulen  und  Bauhandwerkerschulen  für  Maurer  und  für Zimmerer.
-
-- Retusche an Fachschulen für Fotografie.
-
-- Schmalfilmpraktikum an Fachschulen für Fotografie.
-
-- Technische und Werbefotografie an Fachschulen für Fotografie.
-
-- Werkstätte  an  höheren  technischen  und  gewerblichen  Lehranstalten  und  an  gewerblichen, technischen und kunstgewerblichen Fachschulen, an den Sonderformen dieser Schulen sowie an der Bundesfachschule für Technik.
-
-- Werkstätte  -  Praktischer  Unterricht  an  höheren  land-  und  forstwirtschaftlichen  Lehranstalten, Fachrichtung Landtechnik.
-
-- Werkstätte und Betriebslaboratorium an Werkmeisterschulen für Maschinenbau und für Elektrotechnik in den ersten Klassen.
-
+1. Arbeitsgemeinschaft für erweiterte Betriebspraxis an gewerblichen, technischen und kunstgewerblichen Fachschulen.
+2. Atelier und Werkstätte an Fachschulen für gestaltendes Metallhandwerk, für gewerbliche Holz- und Steinbildhauerei, für Tischlerei und Raumgestaltung, für Drechslerei, für Keramik und Ofenbau, für angewandte Malerei, für dekorative Gestaltung, für Textilhandwerk, Fachrichtungen Weberei und Stickerei, an Meisterschulen für gestaltendes Metallhandwerk, für Keramik und Ofenbau, für Textilhandwerk, Fachrichtungen Weberei und Stickerei, für das Malerhandwerk und für Mode.
+3. Bautechnisches Praktikum an höheren Lehranstalten für Bautechnik-Hochbau und -Tiefbau und an den Sonderformen dieser Schulen.
+4. Betriebspraktikum an Höheren Lehranstalten für Fremdenverkehrsberufe und an den Sonderformen dieser Schulen, an Gastgewerbefachschulen und an Hotelfachschulen.
+5. Farbenfotografie an Fachschulen für Fotografie.
+6. Mechanische Werkstätte an höheren Lehranstalten für Silikattechnik.
+7. Nähen an Fachschulen für Sozialberufe.
+8. Nähen und Werken an Haushaltungsschulen.
+9. Porträtfotografie an Fachschulen für Fotografie.
+10. Praktische Bauarbeiten an Baufachschulen und Bauhandwerkerschulen für Maurer und für Zimmerer.
+11. Retusche an Fachschulen für Fotografie.
+12. Schmalfilmpraktikum an Fachschulen für Fotografie.
+13. Technische und Werbefotografie an Fachschulen für Fotografie.
+14. Werkstätte an höheren technischen und gewerblichen Lehranstalten und an gewerblichen, technischen und kunstgewerblichen Fachschulen, an den Sonderformen dieser Schulen sowie an der Bundesfachschule für Technik.
+15. Werkstätte - Praktischer Unterricht an höheren land- und forstwirtschaftlichen Lehranstalten, Fachrichtung Landtechnik.
+16. Werkstätte und Betriebslaboratorium an Werkmeisterschulen für Maschinenbau und für Elektrotechnik in den ersten Klassen.
 ## Anlage 6
-
 ### Lehrverpflichtungsgruppe VI
-
-- Anstrich und Lackierung an Meisterschulen für das Malerhandwerk.
-
-- Haushaltspflege an Familienhelferinnenschulen.
-
-- Hauswirtschaft an allgemeinbildenden höheren Schulen.
-
-- Kochen an Familienhelferinnenschulen.
-
-- Lasieren an Meisterschulen für das Malerhandwerk.
-
-- Maschinenkunde - Übungen an Bundesförsterschulen.
-
-- Modetechnik an Fachschulen für Damenkleiderkonfektion und für Herrenkleiderkonfektion.
-
-- Nähen an Familienhelferinnenschulen.
+1. Anstrich und Lackierung an Meisterschulen für das Malerhandwerk.
+2. Haushaltspflege an Familienhelferinnenschulen.
+3. Hauswirtschaft an allgemeinbildenden höheren Schulen.
+4. Kochen an Familienhelferinnenschulen.
+5. Lasieren an Meisterschulen für das Malerhandwerk.
+6. Maschinenkunde - Übungen an Bundesförsterschulen.
+7. Modetechnik an Fachschulen für Damenkleiderkonfektion und für Herrenkleiderkonfektion.
+8. Nähen an Familienhelferinnenschulen.
 
 www.ris.bka.gv.at
 
@@ -2380,19 +1594,10 @@ Seite 34 von 35
 
 Bundesrecht konsolidiert
 
-- Nähen, Materialienkunde Hauswirtschaftsschulen.
-
-und Werken
-
+9. Nähen, Materialienkunde und Werken (ausgenommen Materialienkunde) an Hauswirtschaftsschulen.
 ## Artikel II
-
 (Anm.: aus BGBl. Nr. 567/1981, zu § 7, BGBl. Nr. 244/1965)
-
-Artikel II des Bundesgesetzes BGBl. Nr. 399/1975 tritt mit Ablauf des 31. Jänner 1982 außer Kraft. Durch dieses  Außerkrafttreten  werden  die  auf  Grund  dieser  Bestimmungen  festgesetzten  Einreihungen von Unterrichtsgegenständen in Lehrverpflichtungsgruppen in ihrer Rechtswirksamkeit nicht berührt.
-
-(ausgenommen Materialienkunde)
-
-an
+Artikel II des Bundesgesetzes BGBl. Nr. 399/1975 tritt mit Ablauf des 31. Jänner 1982 außer Kraft. Durch dieses Außerkrafttreten werden die auf Grund dieser Bestimmungen festgesetzten Einreihungen von Unterrichtsgegenständen in Lehrverpflichtungsgruppen in ihrer Rechtswirksamkeit nicht berührt.
 
 www.ris.bka.gv.at
 
