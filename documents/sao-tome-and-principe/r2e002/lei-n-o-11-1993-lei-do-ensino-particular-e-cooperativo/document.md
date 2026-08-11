@@ -1,135 +1,104 @@
 [[START OF PAGE 1]]
 
-Sexta-feira,  SI ile Dezembro  ite tggS
+Sexta-feira, 31 de Dezembro de 1993
 
-Nfinftem 17
+Número 17
 
--qïm,
+DIÁRIO DA REPÚBLICA
 
-ffis&msffi &A
+S. TOMÉ E PRÍNCIPE
 
-5. ïGN-}E  E PFïíf-rfIPf,
+PREÇO DESTE NÚMERO — Dbs. 2 550,00
 
-Y*{%
+A correspondência respeitante à publicação de anúncios no Diário da República, e sua assinatura ou falta de remessa, deve ser dirigida à Cooperativa de Artes Gráficas — Caixa Postal n.º 98 — S. Tomé.
 
-peEçü  DEsrE  NúMEno*Dbs.  255o,os
+No preço das assinaturas fora do País não está incluída a importância para o porte do correio.
 
-Ls€
+Assinaturas
 
-Ee6çtfo filR*itro
+Ano — Semestre — Trimestre
 
-Fb" 8000,00  {400,00  zeoo,oo
+Dentro do País — Dbs. 8000,00 — 4400,00 — 2400,00
 
-I
+No estrangeiro incluindo porte — Dbs. 8600,00 — 4900,00 — 2780,00
 
-I
+Os números publicados antes de ser tomada a assinatura são considerados venda avulsa.
 
-Db. 8600,00 {900,c0 ziso,oo
+Anúncios — por cada linha do corpo 8, Dbs. 12,00
 
-I
+(As repetições têm o desconto de 50%).
 
-sütss da rrr  goordõ ã  uinntrn sge I I â-  . jÌ *"u"?ol{i"Trt"#'*'ãï.ï
+Em conformidade com a lei, cobrar-se-á mais 4% sobre o preço do anúncio.
 
-"à**i**tÉ*.4à
+Anúncio algum será publicado, sem que venha acompanhado do seu custo provável e assim, só o será, quando houver espaço disponível para isso.
 
-- j  Du"ttt  dc Pôlt
+# 4.º SUPLEMENTO
 
-"""""""'
+## SUMÁRIO
 
-ll  Fo catrleloite  irclnÍaôo
+### Assembleia Nacional
 
-roo.
+Lei n.º 11/93.
 
-I
+### Conselho de Ministros
 
-ÀnÉã6los-p€r salò  linhr do ÊôFtr L Db. lt.r$ (-â,  r6F.tiçôâl  tem o dorcelic é.  Es%).
+Decreto-Lei n.º 80/93.
 
-BË aeúernldnde êìJEt  â l6i.  aâbfr}-rg.Á k*!ç {% cobrô ó  prnç€  Ca *n;râci6.
+Aprova a lei orgânica e o regulamento do Ministério dos Negócios Estrangeiros.
 
-ÀaúDcio rlgun mrsÇúics{.,  laü  çec  s*rha ÈeoËFrnhado  do &êe  cEçt*i pHryável  a tlllil,ES ú &aró, qranêê ho  ar 6spsgê  alrtrúycl Ê*ra  k*è
+### Ministério da Saúde
 
-A t*FjesgsndâEsia s€qpei:Ét* i  tÈbli-4Ít aâ . *ld!õL! *o i7íá,rra á.  Z.paèIia,  r tú  EilrtËra rr €ritr  d€ Ë*ru, irvt tt airkÍif. ò  Coope.lj tr&iivc ár  Áns a"i!il -u*. tìãr ;..;: !, tãé. #
+Direcção do Plano, Administração e Finanças.
 
-.;
-
-ll
-
-rl
-
-ha pr*o é&.  wÍa*trÌH í€rr do Pirs  nao mte  ;j s*r*í4a r rxpÍ.orrÁËei* **  *  n"*" *o";;r'r.-
-
-# Ëã"0 $iltrã,HffiffiruK€3
-
-## SilfïfáRlO
-
-### Asscmbleie Haclonal
-dos esíuda,ntes e tla qualidade  do ensino  que s€ vem prec  onizando nos írltimos ternpos.
-
-Contudo, as iniciativas  privadas  uesse seatldo pressupõe a, existência,  cle um quaclro lcgal  e" fim de regulamcnta'r  a, p-roblemá5ica  tlo enslno particule,r e coopere,t-ivo,,intro  d.uzi  r norm&s para d i scipüne"r  a, int ervãnção dcs d-ifcrenLes pe.rcciros " d"finir ãs  responsabilid,Eiâes a assumir.
-
-Nestes  termos:
-
-A Ássembleia Nacional, no uso das faculclad.es que lhe são  confcridr,s  pcìe, alínee. g) do artigo  86.o da ConËtituição  Folíi,ica,  dçcre'üs,  e eu promulgJa  seguinte:
-
-# LEI DO ENSINO PAR,TICULAR, E COOPERATIVO
-
-## CAPÍTULO
-
-### Da generalidaile
-
-#### Secção  I
-
-##### Dos principios  gerais
-
-###### Ariigo t.o
-
-. f _  O prcsente  rliploma  constitue o Estatuto do Ensino Far|icular e Coãperativo,  reguìarnen.ie,ndo  o exercíeio de, actividade  ãos  estabelõcimentos de Ensino Particular.
-
-- 2 .* 4r exprcssões  <<ensino particular>>  <<este,belccimcnto cj.e ensin-o  particular,>  e <ìescola  particular>  uôili* zadens nes'üe.,  ï,tli,  deverão  scr enrenclidô,s  como  se referind-o  ar  <rensino  particuli,r  e cooper*iivo))  e <<cscoÌa par.iculc,r e cooperr;liva>>.
-
-###### Ârbigo  z.o
-
-- I -O Estaclo rcconh,Ìcc a tod.os os c.id,s:Cãos  o d,ireito dc apr,:nç1",:r  u. (tr:  etlinirr-,  incluindo o d,ireito ao, or-i* o escollÌÊ .;  à  orio,rtiição d.o procestro  cd.uce.:ivo  dns'Ê;;:.,;.
-
-- 2 -O cxcrcíoio  d.r, ìibcrclr,cl,;  d,r ensini.r gó  é  lim.iatlo prrlo bem comum, peJr,; filil.clad,;s  g._.rais e-..-, a"çaÀ r:d:1.ü  iïi, c pcloc  l,"ord."*  ccì,  brad.os crrïc  o Bs,iclc ,; os esi,aJclc  crntuntos  de ensino pir;icuÌar.
-
-Ì,çl  a.o IU!3.
-
-### Concelhe  de Ministros
-
-Dperoto-Loi  n.o 80jtE.
-
-Ap-lov?  .a  loi orgâniea  e o regulamento do Mirristério dos Negócios  Estrangoiros:
-
-### lïãinigtório ila Saúdo
-
-Direcçõo  d,o Plano, Administração e  Finanças.
-
-### Proeurailoria Geral iÍa Repúbliea
+### Procuradoria Geral da República
 
 Secretaria.
 
-### PubllcaçõcÍ  G aviro! olisielr
+### Publicações e avisos oficiais
 
-### BlinirÉéris ils Eeononaia a Fin*nç*r
+### Ministério da Economia e Finanças
 
-### A.nÉnelos  Judiciaic e Outros
+Aviso.
 
-# ASSËMBLEIA  FJATI&FIÂI.
+### Anúncios Judiciais e Outros
 
-## Leí  n.c lligS
+# ASSEMBLEIA NACIONAL
 
-Um dos eorolários  do dirciio de aprender a liberdade 'l.e cnsine;r é a possibilidadc  da exisiència  de iniciativas r:ivadr,s no d-omínio da Educe,ção  visando a formaçã,o :-eni'ífica  cultural,  e técnica d.os cid.adãos.
+## Lei n.º 11/93
 
-]Ícsmo reconhecend,o-se  o deser do Es'lado em garantir ,,  "tcagão  a todos e, preferencialmcnte,  a escoú,riC.ade .rca, a parüicipação  dos cida.clãos  &ssume  urna grancle -:rori,ância.
+Um dos corolários do direito de aprender a liberdade de ensinar é a possibilidade da existência de iniciativas privadas no domínio da Educação visando a formação científica cultural, e técnica dos cidadãos.
 
-ir* *  eriiçlio  dc e;eolas  pirticul.',rcs oní.;vô-sc i, ' :  -::rrbuição  efcctiva pâra  i) mclhorii,  da formição giobal
+Mesmo reconhecendo-se o dever do Estado em garantir educação a todos e, preferencialmente, a escolaridade básica, a participação dos cidadãos assume uma grande importância.
 
-Asi*o.
+Com a criação de escolas particulares antevê-se a contribuição efectiva para a melhoria da formação global dos estudantes e da qualidade do ensino que se vem preconizando nos últimos tempos.
 
-, H[P[! ffiLtüe
+Contudo, as iniciativas privadas nesse sentido pressupõe a existência, de um quadro legal a fim de regulamentar a problemática do ensino particular e cooperativo, introduzir normas para disciplinar a intervenção dos diferentes parceiros e definir as responsabilidades a assumir.
 
-:.'i Í::
+Nestes termos:
+
+A Assembleia Nacional, no uso das faculdades que lhe são conferidas pela alínea g) do artigo 86.º da Constituição Política, decreta, e eu promulgo a seguinte:
+
+# LEI DO ENSINO PARTICULAR E COOPERATIVO
+
+## CAPÍTULO
+
+### Da generalidade
+
+#### Secção I
+
+##### Dos princípios gerais
+
+###### Artigo 1.º
+
+1 — O presente diploma constitue o Estatuto do Ensino Particular e Cooperativo, regulamentando o exercício da actividade dos estabelecimentos de Ensino Particular.
+
+2 — As expressões «ensino particular» «estabelecimento de ensino particular» e «escola particular» utilizadas nesta Lei, deverão ser entendidas como se referindo ao «ensino particular e cooperativo» e «escola particular e cooperativa».
+
+###### Artigo 2.º
+
+1 — O Estado reconhece a todos os cidadãos o direito de aprender e de ensinar, incluindo o direito dos pais à escolha e à orientação do processo educativo dos filhos.
+
+2 — O exercício da liberdade de ensinar só é limitado pelo bem comum, pelas finalidades gerais da acção educativa e pelos acordos celebrados entre o Estado e os estabelecimentos de ensino particular.
 
 [[END OF PAGE 1]]
 
@@ -137,877 +106,775 @@ Asi*o.
 
 374
 
-###### .Artigo 3.o
+DIÁRIO DA REPÚBLICA
 
-DIÁRIO  D$. R,E?ÚBLÏ€Á,
+###### Artigo 3.º
 
-- I -São  consid,erados esi;abelecimenilos  cle ensino partic-ular as insiituiçõcs criade,s  por pt:ssoirs  dngularcs ou colccôiviús  cm quc sc ministrâ  o Ënsino colr,ãüivo  a rnais  Cc clcz alunos ou em que sc d.esenrola,rn  e,ciivid.ad,cs
+1 — São considerados estabelecimentos de ensino particular as instituições criadas por pessoas singulares ou colectivas em que se ministre o ensino colectivo a mais de dez alunos ou em que se desenrolam actividades regulares de carácter educativo e formativo.
 
-- regulares  de carác.ücr  cd.ucaiivo e formativo
+2 — A presente lei aplica-se a todas as instituições particulares de educação pré-escolar, de educação geral, de formação técnico-profissional e do ensino superior com a exclusão de formação de docentes.
 
-- 2 -A preseni;e  lci e,plica,-se ar todas as instituicões. pariiculare,s  dc cducaçãã pré-cscola,r,  clt: ecluca;ão  g:.r;t; de forma,ção  téanicojproã,ssioneJ  e'clo ensino  *"f"iioi com a cxclusão  d,e formação  cl-e d,ocentes.
+3 — O preceituado nesta lei não se aplica:
 
-- 3 -_ O preceituacLo  nesta lei aão  se e,pÌica:
+a) Aos ensinos individuais e domésticos;
 
-- c,) Aos ensinos  inclividue.is  e domés:icos;
+b) Aos pensionatos e às salas de estudos;
 
-- Aos peasionaios  e ers salas cle esiud.os;
+c) Aos postos de recepção de ensino à distância;
 
-- c/ Aos postos  de recepcão  d.e cnino à cì_isrâneia;
+d) Aos estabelecimentos de ensino de Estados estrangeiros salvo se adoptarem o sistema escolar santomense e ministrarem ensino a nacionais santomenses;
 
-- rJJ Aos esie.belccimentos  d,e easic,o dc E;i.ad.os estrangeiros  salvo se ad"opt,arem  o sistema cscolar  saq.i,omense e ministrarem  ensino  a nacionais saniomeases;
+e) As escolas de formação de quadros de partidos e outras organizações políticas;
 
-- e/ As escolas  d.c formagão  de quad,ros d.e partidos e outr$s organizações políiica,s
+f) Aos estabelecimentos em que se ministre ensino intensivo ou adestramento em qualquer técnica, artes ou língua, sujeito a regulamentação própria.
 
-;
+4 — Para efeito de alínea a) do número anterior, é considerado:
 
-//  Aos esi;abelecimen-los  cm que se minìstre  en€iÍlo in{,ensivo  ou adeõ,iramen.üo em qìalquer  técnica, ari;es ou língua,, sujetto a rcgulamentagão próplia.
+a) Ensino individual, aquele que é ministrado por um professor diplomado a menos de dez alunos fora do estabelecimento de ensino;
 
-- 4-Para  efeito de alínea  a) d,o número  anterior, ó
-
-- considerado:
-
-- a,l Ensino igdividual,  aquele q-ue ! ministrad.o por urn professor  diplomad-o  e, menos  ãe  dez ailunos  fore,*do esie.belecimeuío de ensino  ;
-
--ó/ Ensino  doméstico, a,quele que é  ministra,do  no domicílio  d,o aluno, por ,rm familiar  ou por pessoa  que com ele co-habii,a.
+b) Ensino doméstico, aquele que é ministrado no domicílio do aluno, por um familiar ou por pessoa que com ele co-habita.
 
 ## CAPÍTULO II
 
-### Da Acção  do Estado
+### Da Acção do Estado
 
 #### Secção I
 
-##### Ila fntervenção rlo Esúailo
+##### Da Intervenção do Estado
 
-###### Art,;go  4.o
+###### Artigo 4.º
 
-- 1 ._  A intervenção do Estado no d.omínio  da consi;ituigão  e funcionamento dos es'cabelecimen.los  d.e ensino perri;icular,  obedeoe  ao orii,ério priorirário d.e grrrani;ir e fazer respeitar  o direito  funclamental  tlos ciãaclãos d,e apr.end.er e de ensinar, compatibiÌizanclo-o  com os prin_ gípios fund.amentais  do sisiema Nacional da Educeìção, devendo, nomeadamente  :
+1 — A intervenção do Estado no domínio da constituição e funcionamento dos estabelecimentos de ensino particular, obedece ao critério prioritário de garantir e fazer respeitar o direito fundamental dos cidadãos de aprender e de ensinar, compatibilizando-o com os princípios fundamentais do sistema Nacional da Educação, devendo, nomeadamente:
 
-- cf Garantir a liberdade  de insbituição  e d.e funcionamení;o de ensino particular;
+a) Garantir a liberdade de instituição e de funcionamento de ensino particular;
 
-- ó,) Promover  condições  que possibilitem  a criação e fu ncionarne  nt o de esi,e,b  el ecimeritos  de ensin  o pari;ic ular.
+b) Promover condições que possibilitem a criação e funcionamento de estabelecimentos de ensino particular.
 
-- 2 -Para ra&llztt os objectivos  referidos  no número anierior, o Esiado deverá,  dcsignadamente:
+2 — Para realizar os objectivos referidos no número anterior, o Estado deverá, designadamente:
 
-- cll Veriflcar  o regular funcionamento  dos estabelecimr:ntos dc ensino particular;
+a) Verificar o regular funcionamento dos estabelecimentos de ensino particular;
 
-- ô/ Proporcionar-lhes  apoio técnico e pedagógico;
+b) Proporcionar-lhes apoio técnico e pedagógico;
 
-- c,) \rela,r pelo  nírel  pedagógico  e científico dos prcg,amas e planos  de estudos;
+c) Velar pelo nível pedagógico e científico dos programas e planos de estudos;
 
--d/ Apoiar og c'sttÌ:eli;cimentos  de ensino particulsr, d,:'d.c  que respanrlrr',rì acs obje,:.iivos  fixados io sistem:l Naoional  da Ecluur,ção  alra;és  d.a celebração  de con-
+d) Apoiar os estabelecimentos de ensino particular, desde que respondam aos objectivos fixados no sistema Nacional da Educação através da celebração de contratos e de concessão de subsídios e de outros benefícios fiscais e financeiros, bem como velar pela sua correcta aplicação.
 
-- tratos e tl,e conccssão  de subsídios c de outros bcnefícios fiscais e financciros,  bem como ve  hl p"iu  ,u* correcta eplicaião.
+e) Promover a profissionalização dos docentes e apoiar a sua formação contínua;
 
-?rotitorer a profissionaJize,ção dos d,ocentes e a,poiar e,  sua formação  conüinua;
+f) Fomentar o desenvolvimento da inovação pedagógica nos estabelecimentos do ensino particular.
 
-.// Fomcncar  o clesenrolvimeato  cìa inovação  pedagó_ gica nos es-üabelecimcntos  clo ensino parüicular.
+###### Artigo 5.º
 
-###### Arligo 5.o
+1 — É criado o Conselho Consultivo do Ensino Particular e Cooperativo, COCEPAC, como órgão consultivo do Ministério tutelar da Educação em matéria do Ensino Particular.
 
-- t _  É  criad.o  o Conselho  Cr:nsukivo  do Ensino  par_ úicuÌar c Cooncri,r;ivo,  COC_EPAC, como  órgão  consul_ tivo.do lvÌinis'tério  i;uielar  d;-pãilçã" em matéria clo Ensjno Pi:iicuh,r.
+2 — O COCEPAC é formado por treze membros, sendo;
 
-: -O COCB?AC ó formado po rlt tczemcmbros,  send,o;
+a) Três representantes do Ministério tutelar da Educação, sendo um deles o Presidente;
 
-_ c.) T._ê:  :er::e-:.:r-'A::-  e.- c-ll ïfi  nisr,ério  i;uiclar da J)d  Ìi.-14ìí,'aaO. S.t-d.t r, r',  ..i :^ : r  .:.  ? :' .:  rl  cn .  e. '' " "'
+b) Um Inspector da Educação;
 
-", c,) Três  representantes  cìos  estabeleeimeotos  do pariicular; ìf eoslno
+c) Três representantes dos estabelecimentos do ensino particular;
 
-- trm Inspecior  da Eduta;ã
+d) Dois encarregados de educação do ensino particular;
 
-- r/l Dois cnce.rregarìos  de ed.ucação  do ensino c  ular ; pa/ci-
+e) Quatro professores do ensino geral, sendo um deles do ensino primário, um do ensino secundário, o terceiro do ensino técnico profissional e o quarto do ensino superior.
 
-" e,/  Q.uatrollrofessores d"o ensino geral, send.o  um d.eles cto enstno primário,  um do ensino secundário,  o t,ercciro d-o- errsino  bécnico profissional  e o quarto do ensino supe_ rl or.
+3 — O Ministro tutelar da Educação indigita os três representantes do Ministério tutelar da Educação e designa, entre eles, o presidente.
 
-- 3 -O Ministro t,uteÌar  da Bducação  ir;digita os três represenianues  do ï{.i:lis'l;ório  .üuleiar cia Ed.ucãção e desi_ gna, eeíre  eles, o presidenüe.
+4 — Os membros a que se referem as alíneas c), d) e e) do n.º 2, são designados pelos Sindicatos e/ou Associações representativas, ou eleitos democraticamente na ausência de órgãos representativos.
 
-*
+5 — Em caso de necessidade de eleição nos termos do número anterior, a mesma será organizada e convocada pelo Ministério tutelar da Educação.
 
-- 4 Os mcmbros a q.re se referem as ajíncas  t), d) e ej d_o n.o 2, são  designadìs pelos  .eincticatos  elouãusáci.,1 çces  rDpÍesentai;iva,s,  ou eleitos cle rnocraiicamenie  na ausência  de órgãos  repÍesenta.üiyos.
+6 — Sempre que julgar necessário, o presidente pode convidar a tomar parte, nas reuniões, pessoas especialmente qualificadas, em vista das questões a serem tratadas, bem como representantes de outros serviços.
 
-- 5 -Em caso d.e necossid_ade cì-e cleição  nos tcrmos  do "qmg.-g anterior,  a mesma  se.á  orge.niluA* " "onrro.uau pelo  Ministério  tu-ielar  da Educaçã-o.
+7 — O COCEPAC deve elaborar o seu regulamento próprio, que será aprovado pelo Ministro tutelar da Educação.
 
-_ 6;Semqre que julgar necessírio, o preslclente  pode CoÍlvrclsrr a,-.t-om?r IlArte,  naS reuniões, pc$sop,.s  es,.feì;al_ mlnte queJificadas,  em vista das qo.stã".  * .u..-* tr* tedas,  bem  como  renrêseni.*nÍes  r:le  nrr*r^-  .-*-;^^^ tedas, otrlo
+###### Artigo 6.º
 
-- p esentantes  de outros  serviços.
+Compete ao COCEPAC:
 
-- 7 -O COCEPÁC  deve elaborar E  gprio,  que será aprovado  pelo ECucação. '  o  geu  regulamento Ministro tutelar da
+a) Dar parecer sobre a formulação e alteração da política educativa atinente ao ensino particular;
 
-###### Artigo 6.o
+b) Participar na regulamentação da actividade das escolas particulares;
 
-Competc ao COCEpAC:
+c) Exercer todas as demais funções próprias previstas neste diploma.
 
-- a).Dat -paíecer sobre a formulação  e alteragão polí'üica ed,ucariva eo"l  i ne  nt e a o en,si:rã pr,  rtic da
+#### Secção II
 
-- u le.r ;'
+##### Do Apoio do Estado
 
-- ó/ Participar na regulamentação da actividade eseol{ìs pi,rõiculitres ; dae
+###### Artigo 7.º
 
-- c,/ Exercer  tod.as as demais  fungões  próprias  previstar nes{,e  diploma.
-
-#### Secção  Iï
-
-##### Do Apoio rlo Estaúo
-
-###### Artigo ?.o
-
-- O Es6ad,o apoia, esrlimula e fisca,lize,  os ec.el eirïìr:n':oi;  rle  ensino  pari;iculr,r  no rcspcito peia  C:, Í,rriçãc,t  pela  lci, coú  base ,ra prosu""'ução  d,ioss-gr cL;ce  -üivcu:
-
-- f *
+1 — O Estado apoia, estimula e fiscaliza os estabelecimentos de ensino particular no respeito pela Constituição e pela lei, com base na prossecução dos seguintes objectivos:
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-NÚ}TERO  I?-3I DE DEZEMBÏìO DE I.993
+NÚMERO 17 — 31 DE DEZEMBRO DE 1993
 
-q4 Ê.
+375
 
-Íh,
+a) Garantia de elevado nível científico, cultural e pedagógico;
 
-- a,) Ga,rantia cle elevaCo  nível  científieo, cultural ç pedagógico;
+b) Promoção da melhoria da qualidade do ensino, de inovação pedagógica, da modernização e do progresso técnico e científico;
 
-- Promoqã,o da nrelhoria  da qualid-acle  do ensino, de lnovaÇão pedagógica,  da mod,errrjzztgáo e do progresso iécnico  e cientiÍìco;
+c) Garantia do pluralismo global do sistema e da liberdade do ensino;
 
-- úf  Giira,niis,  do pluralismo globai do sistema e d.e, Iiberdade do e;tsino;
+d) Integração das instituições de ensino particular e sua participação activa nos Sistema Nacional da Educação;
 
-- d,) I;úagre,ção das instiiuições  de ensino pariicular e sua particlpação  activa,  nos Sislema, Nacionai dr. Educ*çã,o;
+e) Racionalização e aproveitamento máximo dos recursos do País;
 
-- e,) Racionalizaçã,o e  aproveitame-.to  máilmo dos reoursos  do Faís:
+f) Desenvolvimento da educação nas regiões mais desfavorecidas;
 
-/)  Dcscnvolvimenio cla, educação  nas regiões  mais de sfavorecidris;
+g) Promoção gradual das condições de acesso dos alunos aos estabelecimentos de ensino de acordo com a sua livre escolha, independentemente de factores económicos, sociais e geográficos.
 
-?romogác  gr:.d.ual  das condiçõcs de acesso dos alunos aos esiabelecimenios  d.e ensino de acordo  com ra sua livre escolha,  indcpcncì.eniemen'üc  cle ftici;o,-es  económicos,  socieúis  e geográfi,.;os.
+2 — Os serviços de fiscalização organizados pelo Estado, devem avaliar a qualidade científica e pedagógica do projecto escolar e do nível de ensino ministrado.
 
-_  2  -:  Oq serviços  de fiscalização  organizados  pclo Esuad.o, clevem avaliar a quaiiclade  cie ntifi.ce,  c pccìr,gógrca d,o projeci;o escolar L. do nívcl dc cnsino  minisi;raclo.
+###### Artigo 8.º
 
-###### Ari:go 8.o
+1 — As escolas particulares que se enquadrem nos objectivos do Sistema Nacional da Educação, bem como sociedades, associações ou fundações que tenham como finalidade dominante a criação ou manutenção de estabelecimentos de ensino particular, gozam das prerrogativas das pessoas colectivas de utilidade pública e de isenções fiscais para os equipamentos básicos e duas viaturas durante os cinco primeiros anos do início da actividade.
 
-- I -Ás  cscolas pari,icula,res  que se enquadrem nos objecôivos  do S:sücma  Nacioaal da Eclucação,  tem como socied&Ccs,  asscciações  ou fundações  que tcnham  como finalidacle  clominani;c e, criacão  ou  manu'üer.ção de csi;abclecimentos de cnsino parlicular, gozain das prerrog:iiva,s das p..ssoas  cclccliras  cli; utiïrdacle púbEia  e dc isenções fircars per:a os equ,pamen;os bájlcos  c cluas viaiuras  cluran-ôe  os cinco primeiros  anos do início c,l-a, acl,ividade.
+2 — Sempre que por qualquer motivo se verifique o não funcionamento ou o encerramento das escolas particulares, os seus donos ou representantes ficam obrigados a pagar os impostos e outros benefícios fiscais que lhes foram concedidos por força das disposições da presente lei, relativamente aos equipamentos e viaturas que importam, desde que sobre os mesmos não tenham decorridos dez anos.
 
-_ 2-S,;mpre  qucpor qualqucr  motivo sc vcrifiquc  o não funcionamento ou o cneerre,menio  dts cscolas:pa"rticule,res,  os scus donos ou represcnte,n.í,es  fii,am obr gad-os  i, pagar os imposios c ou'troÊ  brnt,fi.cios fi,scais  que lhes fqramconcedic'l-os  por força das d.isposiçõcs cla  lrresen.be Ieì,  relativa,mení,e e,os  equipe"menLos  c via,iuras quc  imp-o1tr,qr,  dcsd.c  que sobrc og mesflìos  não icnhamdccorridos clcz anos.
+###### Artigo 9.º
 
-###### .Ariigo 9.o
+A fim de promover a inovação pedagógica e garantir a melhoria da qualidade de ensino, será autorizada a realização de experiências pedagógicas com relação aos cursos que seguem os planos de estudos oficiais, em termos idênticos aos que vigoram para o ensino público.
 
-A Êm  cle promover  a, inovação  pecì-agógica  e garanüir  a mcìhoria da qualid-atlc  de cnsino,  scrá attorizãct_a  a rcalização  de experiências  peda3ógiea,s  com rclação  aos curflos  que seguem  os pÌanos de esi,udos  oficiais, cm termos idênticos  aos gue vigorarn  pprrã  o ensino público.
+###### Artigo 10.º
 
-###### Artígo l0.o
+O Governo, através do organismo competente, tomará providências necessárias para que sejam concedidas facilidades de créditos destinados à aquisição, construção e equipamento de estabelecimentos de ensino abrangidos pela presente lei.
 
-- O G_orerno, ai;ravés d.o organismo  competcntc, tornarí :-rovid.ências  necessárias  pafa que sejãm  conccrÌ das : , ilidatìcs  de erédiios dcsüúados  â aquisição,  construção ,  rq.ripame:rto cle estabclecimeni,os de'ensiao abrin, ,.ics  Ìteìa  pre sente lei.
+#### Secção III
 
-#### Secção  fII
-##### Dos Conh.:rtos
-###### Ai'cigo 1ì.o
+##### Dos Contratos
 
-- I -O Estndo poder{,  cclebrar  coní:r?"tos eom ese.,!âs -  .:--:ulirc: quc, inieg.r,ndo-se, nos oïrjcc,iiros  d.o Sjt-
+###### Artigo 11.º
 
-- tema Nacional da Educaeão,  se localizem  em áreag carecid,as  de escolas pribliias.
+1 — O Estado poderá celebrar contratos com escolas particulares que, integrando-se nos objectivos do Sistema Nacional da Educação, se localizem em áreas carecidas de escolas públicas.
 
-- 2 -Pode aioda o Este,do celebrar  conúratos com est.ô, bele:,imentos .C,e  ensino que,  piìÍâ  r,lém  dos pla,los oficiais de ensir;o e,os várioÀ niv?is. minisirem ãutras  marérii's  iro âmbito  de expe-riêncìe.s peda,4óqicar  c ain<ia com escolas que sc proponÌrarn a criação  dã  cursos  técni_ cos e profis:ionais  com. planos  próprios.
+2 — Pode ainda o Estado celebrar contratos com estabelecimentos de ensino que, para além dos planos oficiais de ensino aos vários níveis, ministrem outras matérias no âmbito de experiências pedagógicas e ainda com escolas que se proponham a criação de cursos técnicos e profissionais com planos próprios.
 
-- 3 -\os conira-ios  dever-sc-á  especifiear  as obriga* ções  assrrnride.s  peia esool?,,  assim ìomo os benefíclios espeeiais e os eveaiuais  suÌrsídios  que thcs scrão  conce* diclos.
+3 — Nos contratos dever-se-á especificar as obrigações assumidas pela escola, assim como os benefícios especiais e os eventuais subsídios que lhes serão concedidos.
 
-- 4 --4.s escolas parbieulares que celebrarem cont,ratos com o Estado fic*m tambórn su;ìii;as  às inspecçõc.s aclmiaistrativas  e financeiras dos seiviços compãtent"s.
+4 — As escolas particulares que celebrarem contratos com o Estado ficam também sujeitas às inspecções administrativas e financeiras dos serviços competentes.
 
-###### Aúigo  12.o
+###### Artigo 12.º
 
-- I -Os contratos  e n.ire o Estado e as escolas particularcs podem ser de ({associeçãoD,  ou de <rpatrocínür>.
+1 — Os contratos entre o Estado e as escolas particulares podem ser de «associação», ou de «patrocínio».
 
-- I  * Os con'üratos podem ter âmbi-i,o plurianual. e consicl,)ram-se  au'ijomãi;icamcn.üe  rcnove,d.o-s,  salvo  em caso clc incumprimen-i;o  por qualquer  das partes.
+2 — Os contratos podem ter âmbito plurianual e consideram-se automaticamente renovados, salvo em caso de incumprimento por qualquer das partes.
 
--3 -Os conira-í;os podem abranger alguns ou tod.os  os níveis  ou rnodaljdaiLãs  de snsino ãrinis.úados na cscola.
+3 — Os contratos podem abranger alguns ou todos os níveis ou modalidades de ensino ministrados na escola.
 
--4As propostas  dc contrato, rcporr.;and,o-sc  &o &no lectivo  scgur'n  ic, devcrn  dar eniãda  no 1\{inisiério tutclar da Educação  até Bl de Marco dc cacla ano.
+4 — As propostas de contrato, reportando-se ao ano lectivo seguinte, devem dar entrada no Ministério tutelar da Educação até 31 de Março de cada ano.
 
-###### Artigo t3.o
+###### Artigo 13.º
 
-- 1 -Os conLratos de assocriação  são  cclcbrados  com escole,s  particularcs  siruad"as ãm  zonas  carecide,s  de
+1 — Os contratos de associação são celebrados com escolas particulares situadas em zonas carecidas de escolas públicas pelo prazo mínimo de dois anos.
 
-- escoÌas públicas  pclo prazo mínimo de clois anos.
+2 — Os contratos de associação têm por fim possibilitar a frequência das escolas particulares, nas mesmas condições de gratuitidade do ensino público.
 
-- 2 -Os eontraios  cle associação iêm  por fim possibilitar a frequêncji  das escolas pari,icule,?cs,  ,ras^*"nmas ccndições dc gra-buiticlade  do ãnsino  público.
+3 — A gratuitidade de ensino estabelecida por lei pode abranger apenas uma parte da lotação da escola.
 
-- 3*A gra-üuiiidade  de ensino estabelecid*  por  lci pode abranger epenas uma, pari;c da loi;ação  da esãoÌa.
+###### Artigo 14.º
 
-###### Artigo l4.o
+1 — O Estado concederá às escolas com as quais celebrar contratos de associação, além dos benefícios fiscais e financeiros gerais, um subsídio por aluno igual ao custo de manutenção e funcionamento por aluno das escolas públicas de nível geral e grau equivalentes, fiscalizando a utilização das verbas concedidas.
 
-- I -O Estado co-neederá  as escolas com as quais celebrar contratos cle assoãlação, alàm d.os beneficics fiscais c fi.nanceiros  gcrais, um-subsíd.io por aluno igui,l ao custo de manu-ôenção  c funionamenbJpor  alunJdas cscolas  púï:licas d.e nível  geral e grau equiialenies, fi.scalizando a uiilização  das vcrha,s ãoncedid_as.
+2 — O subsídio será fixado anualmente pelo Ministério tutelar da Educação.
 
-- 2 -O sulcsíclio  serí,  fixaclo  anue,lme  nte pelo  Ministério tui;clar da Educação.
+###### Artigo 15.º
 
-###### Arüigo I5.o
+Os contratos de associação obrigam as escolas particulares a:
 
-Os contre.tos  d-c associação  obrigam as cscola,s  parüicularcs a:
+a) Garantir a gratuitidade do ensino obrigatório nas mesmas condições do ensino público;
 
-- Ge,re,rriir  a gratuitidadc  d.o ensino obrigarlório  nas mcsmiJÍi  concliç'õr,s d-o cnsino  púLlico:
+b) Garantir prioritariamente a matrícula e frequência dos alunos em idade de escolaridade obrigatória;
 
-. b) Ge,rtuíir prio-ri.iar,amcn-Le  a matrícula e frequência
-
-- d.os  alunos em idndc cle esooli.:ridi,cl-,:  obrig;.i,ória:  l
-
--ol Aceitar, a, tíi,ulo condicionr,l,  as mi-5rícuh,r quo ulirl,';";ssem  a sui, ci,lã?iclirl,_. d,, lo.l,ação,  comun:,;a.  tã,,,-Í,ì,  com oporiun'Cari,;,  â.)ü  órgiros p,-óprios  clo }iin:stório  ';u'i,,:lar  d.a nduca:ão;
+c) Aceitar, a título condicional, as matrículas que ultrapassem a sua capacidade de lotação, comunicando-as, com oportunidade, aos órgãos próprios do Ministério tutelar da Educação;
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-01
+376
 
-DIÀ}èIT}  PA R,NPÚBLIÜÂ
+DIÁRIO DA REPÚBLICA
 
-'U
+d) Divulgar os regimes de contrato e da gratuitidade do ensino ministrado;
 
-- Divulgar os reg'rmes  de contrato  o da gratui'ôida,de
+e) Apresentar, até noventa dias antes do início do ano escolar, o orçamento de gestão para o ano seguinte;
 
-- clo cncino minisi;rado ;
+f) Apresentar ao Ministério de tutela balancetes trimestrais e o balanço e contas anuais, depois de aprovados pelo órgão responsável.
 
-- e/ Aprescnts,r, &Èé  novenia  clias anf es do iníoio do arr,o cscolar,  o orgarnenüo  dc g,.t'ião  pãr&  o arno scguirì"ie:
+###### Artigo 16.º
 
-//  Ápresent?rr  rro IÍinistério  cl.e t;u'i.',eh" br,lancctcs trirncsirais  e o balanço e coni;as  &rìua!s,  dcpois de aprovad,os pelo órgão  responli<,rel.
+1 — O Estado pode ainda celebrar com órgãos proprietários de estabelecimentos de ensino particular contratos de patrocínio, quando a acção pedagógica, o interesse pelos cursos, o nível de programas, os métodos e os meios de ensino ou a categoria do pessoal docente se enquadrem no âmbito do Sistema Nacional da Educação e no deste diploma.
 
-###### Árrigo l6'0
+2 — Os contratos de patrocínio têm por fim estimular e apoiar o ensino em domínios não abrangidos pelo ensino oficial, nomeadamente a criação de cursos com planos próprios e a inovação pedagógica.
 
-- I -O Es'i;ad.o  pode  ainda oeletrrar  corn órgãos  proprietários  de es'üabele cimcntos  d-e cnsino par"üicular con-üra.ios  d-e pairocínio,  qr-re,ndo  a aeçã,o  pedagógice', o f  pl,cressc pelcs cursos  ,  o ní,tcl  cÌe  prcg-ana,s,  os méi;oclos e os meìos de eqsino ou â câiúgoria  clc pessoal tlccen'i;e se enq.ridrem no ânbrio  do S-slena \e-ir-,ioral  c'l-e Eclucação  e no d,este  cliploma.
+###### Artigo 17.º
 
-- 2 -Os contratos d.e parrocíaio  têm  por fi,m eslimuli,r e a,poiar o eosino em d.omínios não  aÌrra,ng.dos  pelo ensino oficial,  nomcads,menie  a criação  de cursos com planos próprios c a inovação  peda'gógica.
+1 — O Estado obriga-se nos contratos de patrocínio estabelecidos com estabelecimentos de ensino particular, a:
 
-###### Artigo 17.o
+a) Suportar uma percentagem das despesas de funcionamento não superior a 50%;
 
-- f  .-"-  O Esiado obriga-se nos contratos d.e patrocínio
+b) Reconhecer valor oficial aos títulos e diplomas passados por essas escolas;
 
-- os'Í;abqlecj.dos  com estabelceimcntos  d.a ensino pariicular, a:
+c) Definir a equivalência dos cursos ministrados a cursos oficiais;
 
-- a,) Suportar um& percen"üagem d,e,s d.espcsas de funeionameni;o não  supcrior  a 50o/o;
+d) Estabelecer as regras de transferência dos alunos destes cursos para outros;
 
-- b,) B,econhecér  valor oficianl aos títulos e diplomas passados  por ess?rs  csooias:
+e) Acompanhar a acção pedagógica das escolas.
 
-- c,)  Dofinir er equive,lência  dos curËos  ministrados a
+2 — As obrigações referidas no número anterior serão definidas caso a caso, segundo as características dos cursos e das escolas.
 
-- oursos ofi,cia,is;
+###### Artigo 18.º
 
-- d/ Esta,belecer  as rcgras do transferência  dos :ilunos desï'es  cursos para oir'uros;
+Os contratos de patrocínio obrigam as escolas a divulgar o regime de contrato, a estabelecer as propinas e mensalidades nos termos acordados e a entrega no Ministério tutelar da Educação de balancetes trimestrais e o balanço e contas anuais, depois de aprovados pelo órgão social competente.
 
-- e,) Aoompanhar a e,cção  peilagógica  das escolas.
+## CAPÍTULO III
 
-- 2-_As ob,'igaçôes i"ofo.'id::s  no núrnei'o  ante^'jol selã,o definidr,s caso a caso, segundo  as caracterísiicas  dos curso8 o das escolas,
-
-###### Artigo  18.o
-
-Os contratos  de patrocínio obrigam  as escolas a divulgar  o regime de coni;rai;o,  a estabclecer as propinens  e mensalidades  nos termos acordi.d.os  c a enireg:r  no Ministério tutelar da Educação  de balance'les trimesirais  e o halanço  e contas anu€iis,  depois de aprovados  pelo órgãos social  competente.
-
-## CAPÍTULO ilI
-
-### Dos Estabcleaimenúos rlo Ensino Pa,rúicular
+### Dos Estabelecimentos do Ensino Particular
 
 #### Secção I
 
-##### Da C:iaiãq
+##### Da Criação
 
-###### Artigo l9.o
+###### Artigo 19.º
 
-- t -É  livre a oriação  d.e escolas  3)âri;ioulâres  e de outros estabelecimcnïos cle €nsino parÍ;icular previstos nesi+ lei, por pessoas  singulares  ou colee'i;ivas  nã,o  públicas  que revistam a f,ormíb de ?ssocieção, fundação  ou cooperativa,  d,:sde que se enoontrem  consi;iiuidas  em eonformidade  eom a lei.
+1 — É livre a criação de escolas particulares e de outros estabelecimentos de ensino particular previstos nesta lei, por pessoas singulares ou colectivas não públicas que revistam a forma de associação, fundação ou cooperativa, desde que se encontrem constituídas em conformidade com a lei.
 
-- I -Irlen'iifi,ca  iniciativa  e reeoúccida  as associaeões púil;cris  e a outras en'iidades não  esÉíàia^s,desd,equca
+2 — Idêntica iniciativa é reconhecida às associações públicas e a outras entidades não estatais, desde que a iniciativa respeite os seus poderes e caiba no âmbito das suas atribuições.
 
-- inieiaiiva  respeiio os seds poderes e caibe, no âmbiÉo  clas suas a'i,ribuiçõcs.
+3 — As pessoas colectivas sob a forma de sociedades civil ou comercial que se encontrem regularmente constituídas podem criar escolas particulares ou outros estabelecimentos de ensino particular, quando haja relação directa entre o ensino a ministrar e o respectivo objecto social.
 
-- 3 -A.s pessoa,s  coleetiyas sotr sl, forma cle sociecl&des civil _ou cornercial que sc enconi;rem  ro$r.rts,y11*otc  constituidas pod.ern criar cscoia:.i pârõicularõs ou ou"iros cs-i&trclccimcnios  de eneino  pariiìllar,  que,nclo  haia rclação direcia  enür'r, o ensino  a minlst,rar  o õ reçprctiv'o obje-cto s ocial.
+###### Artigo 20.º
 
-###### Ârtigo 20.e
+1 — Cada escola particular pode destinar-se a um ou vários níveis de ensino, constituindo cada um deles um ciclo de estudos completo.
 
-- t -Cada L-scali, paiticuh,r  pod.c  clestinâr-se  3r um ou vários  níyeis de cnsino,  consti-i;uindo  cada urn deles urn ciclo d.e estudos  comple'i;o.
+2 — Porém, é permitida a abertura de escolas apenas com o primeiro ou os primeiros anos de um ciclo ou curso, sob compromisso de continuidade imediata dos anos subsequentes.
 
-- 2 ._  Forém, c pcrmi'üida  â, âberlure,  de escolas  ?,penas com o primciro ou os primeiros  anos de um ciclo ou c-:.i::  t. : rb cc ilpronisso cle coo.iinuida,dc imedia,,oa. clos ãr  ;-r 5  -ì;-;,;  i':;:]  -,'i.
+###### Artigo 21.º
 
-###### ârirgc  2Ì.o
+1 — As escolas particulares não podem funcionar em edifícios oficiais, mormente nos edifícios destinados às escolas públicas.
 
-- I -As sscolas  particula"res não  podem funcionenr em edifícios  cficiais, mormentç  nos ed-ifícios destinados  às escolas púïrlicas,
+2 — Cada escola particular pode funcionar num único edifício ou num edifício-sede com secções.
 
-- Cada escolin particular  pode fuccionar  nuru único
+###### Artigo 22.º
 
-- 2 -edifício  ou num edifício-sede com seccões.
+1 — As pessoas singulares que requeiram a criação de escolas particulares devem fazer prova de idoneidade civil e pedagógica.
 
-###### Artigo  22.9
+2 — As pessoas colectivas que requeiram a criação de escolas particulares ou outros estabelecimentos de ensino particular previstos neste diploma, devem juntar a escritura de constituição e, pelo menos, um dos membros da sua administração deve fazer prova das condições exigidas no número anterior.
 
-- I -As pesscas singulares que requeiram a dcescolas  parüierrla,rcs  d,:vcm  fazer prova dc de,dc civil e pcdagógiea. criação idonei-
+###### Artigo 23.º
 
-- 2 -As possoas colective.s  quc requeiram  a criação  d-e escolers  par'i;iculares ou ouïroFi cs:abelccimentos d,; ensi. no pari;icular previstos  noste cliploma,  devem juntar a cscritura  d.c cons'oii;urcão  e, pelo  menos, um dos membros de, sua ad.ministração dcve fazer prova dr,s condições exigidas  no núm.ero  ani;erior.
+Cada escola particular deve adoptar uma denominação por forma a permitir a sua individualização e evitar a confusão com qualquer outro estabelecimento de ensino particular, cooperativo ou público e nem pode suscitar equívocos sobre a natureza de ensino ou de tipo de escola.
 
-###### .Àrtigo  23.o
+A denominação dos estabelecimentos de ensino particular e a alteração carecem de autorização a conceder por despacho ministerial.
 
-Cad.* esoola  particular deve a,dopì;&r uma denomi. nação  por forma a permiiir  .â  $r?r inclividualização e evìtar  a confusão  com qualqúcr  ouiro csi;abeleoiment,o de ensino particular, coopera'iivo ou público  e nerÌr pode s,uscitar  equivocos  sobrc  a nai;urcza  de ensino  ou de tipo de esoola.
+###### Artigo 24.º
 
-Á  deoominação  dos estaÈelecimentos de cnsino particular e a alterqgão  careccm  de autorização  a coneeder por despacho  minisi;erial.
+A criação de estabelecimentos de ensino particular depende de despacho homologatório do Ministro tutelar da Educação.
 
-###### Lrtigo 24.o
+###### Artigo 25.º
 
-_ A criação  de estabelecimentos  de ensino  partieular {epencì.r:  d,e dcspacho  homok,g.,tório d,o Ministro  tuielar da Educagão.
+1 — A autorização de funcionamento deve ser requerida até 31 de Março de cada ano, com vista ao ano escolar seguinte, e decidida e comunicada até 45 dias após a entrada do respectivo processo no Ministério de tutela.
 
-###### Ártigo ZS.o
-
-- I -A autoriza*ào  de funcionamento  deve ser Íeqtrrride. até  3l cle Março  de eenda &no, com vista a,o aÊ.r  r$colar seguini;c, e  decidida e comunie&d.a  r,'.ó'45  d.:a:  :,-,tiçlr a entrada do respectivo  processo no Ministério c1,;  '-  u-l--
-
-- 2 -I\. i  Ì.ÌtorizÍÌ..1ão  cì.e funoionamr;nío só pcro.. r*.rr recusa.clr, rrom fu:-rd';"r,.'nto  nlì ina.dsquação cla: Jo;ii;f-C materi4is ou pr;i!:';g'g vtat.
+2 — A autorização de funcionamento só pode ser recusada com fundamento na inadequação das condições materiais ou pedagógicas.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-NÚMER,O  17- 3I DE DtsZEMBR,O  DE I993
+NÚMERO 17 — 31 DE DEZEMBRO DE 1993
 
-últ
+377
 
-###### Artigo  26.o
+###### Artigo 26.º
 
-- f -A autorização  d,e funcionamento dos esiabelecimcntos  dc cnsino  pe,rüicula,r  pode scr provisórie,  ou dcfiniüiva.
+1 — A autorização de funcionamento dos estabelecimentos de ensino particular pode ser provisória ou definitiva.
 
-- 2 -A autorização do funcionarncnto será  prol-isória quand,o  for necessário corrigi  r defi ciências  {asìondições técnicas e peda,gógicas.
+2 — A autorização de funcionamento será provisória quando for necessário corrigir deficiências das condições técnicas e pedagógicas.
 
-- 3 A au'i;orização  d.e funcionarnento  prorìsória é válida  por um ano e pode ser renovadan no másimo  três &nos consecui;ivos.
+3 — A autorização de funcionamento provisória é válida por um ano e pode ser renovada no máximo três anos consecutivos.
 
-- 4 -$e, após o prazo refcr:clo no número  aaterior,  as deflciências  pr-evaleccrr.m, os organismos  compereotes propoião  e,o }finistério  tuielar da Bducação  o êneeramento cle, esccla ou c1o esiabelecimento de ensino.
+4 — Se, após o prazo referido no número anterior, as deficiências prevalecerem, os organismos competentes proporão ao Ministério tutelar da Educação o encerramento da escola ou do estabelecimento de ensino.
 
--5 -Â auiorização  do funcionarnenÍ;o será  deÊnitiva sempre que s-e. mos'í;rern  preenchid,os  os requisii,os  e vericadas  as condições exigíveis.
+5 — A autorização do funcionamento será definitiva sempre que se mostrem preenchidos os requisitos e verificadas as condições exigíveis.
 
-###### Áriigo 2Z.o
+###### Artigo 27.º
 
-- I -A autorizaeão  de funcionainenÌ;o de ume, eseola pe,ri,icular cspccífica,iri  p.  cLenomine,ção tla escola,  -r,ipo dr: ensino  a sãr  minisiraclo  e o local d.e funeione,mento]  o nome da, cni;itlad-c rcquerente  e do d-irector  ped.agógióo, bem como a lo'ôação,  ã  númaro  d-e dirisões  Ja ulìtãad-á públice,,  sc fôr  ce.so d-isso, nos tormos do artigo  g.o.
+1 — A autorização de funcionamento de uma escola particular especificará a denominação da escola, tipo de ensino a ser ministrado e o local de funcionamento, o nome da entidade requerente e do director pedagógico, bem como a lotação, o número de divisões e a utilidade pública, se fôr caso disso, nos termos do artigo 8.º.
 
-- A  auioriTação  d.o funcjoaamenio  d,as escolas
+2 — A autorização do funcionamento das escolas particulares com cursos ou planos próprios deverá conter os requisitos dos cursos e dos respectivos currículos, planos de estudo e programas.
 
-- 2 -particulares  com cursos ou pli,nos próprios cl-cverâ conter os rcquisiios  clos eursos-e  dcs rãspãciivos curri_ culos,  planos  cle csüuclo  c progrârìas.
+3 — A autorização do funcionamento provisório deverá especificar ainda as condições e os requisitos a satisfazer e os respectivos prazos.
 
-,  3 . Á aurorizagão  d.o foncionam.ento  provisório deverá  cspecifi.ce,r  ainda a.s condigões e os re-quisilos a sen'üisfazer  e os rcspeciivos  prazos,'
+###### Artigo 28.º
 
-###### Artigo 28.o
+1 — Os estabelecimentos de ensino particular não podem iniciar o funcionamento antes de lhes serem comunicada a autorização.
 
-- I  ._  Os estabelecimenï;os  d.e cnsino  particular  não podcm iniciar  o funcionarnento  antes ãe  lhes serem comunicada e, aui;orização.
+2 — A violação do disposto neste artigo é punível nos termos do artigo 87.º.
 
-- 2 -A vi_olação  do disposto  neste  ar{,igo e punívcl :ros terrnos  do artigo  8T.o
+###### Artigo 29.º
 
-###### Artr'go 29.o
+1 — A autorização não é transmissível por acto entre vivos.
 
-. f -A auí;orizaçã,o  não  ó rlransmissível por aeto en.fro -lvos.
+2 — No caso do número anterior, o herdeiro ou legatário deve requerer a autorização em seu nome no prazo de sessenta dias após a morte do titular.
 
-.2.-_No  ca:;o d.o númcro  a,ntcrior,  o herd,eito ou lege,ório devc requcrer  €i au.üorizaç-ão em scu nome no praão '.e  sosscnl;a dias  após a, morte  do titular.
+###### Artigo 30.º
 
-###### Ari;igo B0.o
+1 — Cada escola particular pode ter um projecto educativo próprio, desde que proporcione, em cada nível de ensino, uma formação global de valor equivalente à dos correspondentes níveis de ensino a cargo do Estado.
 
-" 1 -.Cada  ,cscola pari;ieule.r  pode  ter um projeei;o :uc&:lvo proprio, Ccsct_e  que proporcione,  cm eacì"a nível
+2 — As escolas particulares devem ter um regulamento interno próprio.
 
-- cnsino, urna formaçao  gtobat cie \,?úlor  equivil,::r,ie à
+3 — Os regulamentos das escolas com cursos e planos próprios devem conter as regras a que obedecem a inscrição ou admissão, a idade mínima para a frequência, as normas de assiduidade dos alunos e os critérios de avaliação de conhecimentos.
 
-- s corrcspond.cntes  nívc.is dc ensino  a câ€;  clo  Esiad.o.
-
-- I .  4. essolas .particulares  devem ter um regula.r,o  irricrno  p;úprio.
-
-: -Qs 1r:$ule,rn,;ntos  d,as cscolas  com cursos c phnos :11i6g  i{,;1',;1p cotr,l;r:r  i,1 reg;Íâ,r}  a  qur: obed(,ccm*a inslrc ou admisião,  i,:di,d,; míniml,  pìri,  e frequônc!a,  i.s
-
-- normas de assicluidadq  clos alunos e os critérios  de avaüação  de conhecimcni;os.
-
-- 4.-  Os regulamcntos  c âs sue,s  alterações d,everão  scr emie,dos  aos órgãos  próprios  do }iinistério tutelar  dì -tic.uc€lcao.
+4 — Os regulamentos e as suas alterações deverão ser enviados aos órgãos próprios do Ministério tutelar da Educação.
 
 #### Secção II
 
-##### Do Reeonhecirnenúo
+##### Do Reconhecimento
 
-###### Ariigo 3l.o
+###### Artigo 31.º
 
-- f -O ree  onhecimento oficial de qualquer  estabele; cimcaio_de  casino particule.r  é  ,"qurrid,o  a" mi"ìÀigrio tutela'r da Edueação.
+1 — O reconhecimento oficial de qualquer estabelecimento de ensino particular é requerido ao Ministério tutelar da Educação.
 
--2 -O rcquerimcnôo a quc se refcrc o númcro  antcrior clevsrá  ser acompanhaclo  dos scguinics  elemcnüos:
+2 — O requerimento a que se refere o número anterior deverá ser acompanhado dos seguintes elementos:
 
--a/ {s_cr!tura,  consi;ituição  c cstatuí;os  ou fe,cto  social da en't  idaile requercnte: '
+a) Escritura, constituição e estatutos ou pacto social da entidade requerente;
 
-- ó/ fnd-icação  do esiabelccimento  d,e ensino  que pretcncle cri r,r ;
+b) Indicação do estabelecimento de ensino que pretende criar;
 
-- c/. Indicação d-os  níveis  cl-c  cnsino  d.o  curso  ou cursos  a !X,tnrs-;Íar  e dos diplom?rs  eue  prei;encl.e  confêrir;
+c) Indicação dos níveis de ensino do curso ou cursos a ministrar e dos diplomas que pretende conferir;
 
-- dl R egrlamenio  interno ;
+d) Regulamento interno;
 
-^,:l^C_?rlrierizaçã,o d,o cdíficio  ou edifícios cm quefuncronará  a cscola;
+e) Caracterização do edifício ou edifícios em que funcionará a escola;
 
-^..41,|n{'"*ção clo cquipamento  didáctico  e técnico a t,rcuirôr  a cseolâ;
+f) Indicação do equipamento didáctico e técnico a afectar à escola;
 
-- Plano cconómico  e financeiro p&râ  uítr pcríodo  d.e três  e,nos.
+g) Plano económico e financeiro para um período de três anos.
 
-*
+3 — Em caso de dúvida, poderá o Ministério tutelar da Educação, solicitar esclarecimentos ou documentação complementar relativamente aos elementos referidos no número anterior ou outros que julgar pertinentes.
 
-- I  *
+###### Artigo 32.º
 
-_ -3 Em caso d.c dúvicl-a"  pod-crá  o Ministério  tutelar  d.a Educação,  solicitar cscle,rãaimenios ou Ao""r"ã"t",çáã complernenterr  rolani;ive.rncn'i  e aos elsmenros  refericlo$ no número  anierior ou ouiros quc juJgar  periinentes.
+1 — O pedido de reconhecimento de um estabelecimento de ensino particular deverá ser apresentado com uma antecedência mínima de seis meses em relação à data prevista para o início de funcionamento do estabelecimento de ensino.
 
-###### Artigo 32.o
+2 — O órgão próprio do Ministério tutelar da Educação, organiza o processo de reconhecimento, podendo solicitar parecer ou informações a entidades ou serviços especializados ou ainda recorrer a especialistas de reconhecido mérito.
 
-- O pectido  de reconhecimento  d.e um es.tabelecr",. mcnto de ensino particulanr  deverá  scr â,llrcsent*ao-lr* uma anLcccdência mínima  de seis *"uó*  em rciação  à d-ata previsüa  pe,ra  o início  dc funcionamenl,o  do'cstabelccimcnto  de cnsino.
+3 — Na instrução do processo de reconhecimento, deve ser ouvido o COCEPAC.
 
-- 2-- O órgõo  própi.io  do Ministério  tui;ch,r  da Ed-u!*,qãg,, orgã,rìiza o  tr)roe,esso  de reconheciment,o,  poctrondo sohclfar paÍocr;r ou inforrnaçõcs  a entidad.es ou-serviços especializad.os  ou ainde, ,ccorre,  a cspecialisias d.c reco_ nhecido mórilo.
+4 — A decisão sobre o pedido de criação de um estabelecimento do ensino particular deve ser proferida no prazo máximo de 45 dias após a entrada do respectivo processo completo no Ministério de tutela.
 
-, 3 -Na insiruçio^$:_qr^g.esso  d.c reconhecimcnto, dcvc ser ouvido o COCEpAC-
+#### Secção III
 
-- 4 -A d.ccisão  sobre o pcclido  dc criacão d,e um es.iabelccimenío  do ensino  paiiicular  d*ve's*r proferid.a no prazo máximo  de 45 d,as após  en entrada,  d'o r.spectivo processo complcüo  no Mir;is,ério de tutclâ.
+##### Da autonomia e do paralelismo pedagógicos
 
-#### Sccção  III
+###### Artigo 33.º
 
-##### I)a auÉoncrnia  e do pi::;leiisrz:,o  Beiligôgicos
-
-###### Ari;'go 33.o
-
-.As  e:;coli'l  parrliculiins,  no âmbiio  do scu projec..ìo
-
-cduce,livo  como  cle.i;crminr,  o n.o I clo i,rtig:r eO.o, p,idcm funcionar  cm rc.gi:mc  dc autonomia  p,,Cr,gïigicü.
+As escolas particulares, no âmbito do seu projecto educativo como determina o n.º 1 do artigo 30.º, podem funcionar em regime de autonomia pedagógica.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-3?8
+378
 
-DÏÃR,IO  DA AEPÚBTIOÂ
+DIÁRIO DA REPÚBLICA
 
-###### Artigo 34.o
+###### Artigo 34.º
 
-- 1 -A ârutonomia  pctl.agógrce,  consisic na não  d-epen' dôncia  de escolas  pari,iculares  quanto a:
+1 — A autonomia pedagógica consiste na não dependência de escolas particulares quanto a:
 
-- Orirn',;e,ção  meüod,ológican c adopção  d.e instrumen'üos cscoli;res;
+a) Orientação metodológica e adopção de instrumentos escolares;
 
-- óJ Flanos dc estuclos  e conteírdo prograrmáticos'
+b) Planos de estudos e conteúdo programáticos.
 
-- 2 -O pa,ralelisno  ped-agógico  consistq  na d'opend-ência, de esôolas  particúarel  que,nt'o ao d.isposto las tJíneas do parÉigiafo  aaüerior, relr,iiva,men'r'e  i'o Sislema Nacione.l  d,e Eclucação.
+2 — O paralelismo pedagógico consiste na dependência de escolas particulares quanto ao disposto nas alíneas do parágrafo anterior, relativamente ao Sistema Nacional de Educação.
 
-###### Àrtigo  35.o
+###### Artigo 35.º
 
-- 1-A e,utonomia  pccl-agógrca  c o paralelismo  peCagógico  são  totais quando  e,bre,ngr:m iod-os-  os aíveis  ou hãautiaadrs de enÀinq  minis'irad'os na escola.
+1 — A autonomia pedagógica e o paralelismo pedagógico são totais quando abrangem todos os níveis ou modalidades de ensino ministrados na escola.
 
-- 2_  Ai,ut,onomia  pecl-r,gógicr,  c o pe,ralclismo  ped'agógico  são  parciais quantlo  nã'o  abrangcflÌ ãrp€lìers um:u [r g"uns dos ïiveis o u- rnod,ali  darlcs  dc  c osi no mi nis üre'clos
+2 — A autonomia pedagógica e o paralelismo pedagógico são parciais quando não abrangem apenas um ou alguns dos níveis ou modalidades de ensino ministrados na escola.
 
-- n&  qscola.
+3 — Para efeitos dos números anteriores consideram-se os seguintes níveis e modalidades de ensino pré-escolar, primário, secundário-básico, pré-universitário, técnico-profissional e superior.
 
-- 3 -Para efeitos d-os nirmeres  anteriores  consideramse os scguinües  aívcis c rnoclalid.e,des  de ensino  píe-esco-
+4 — A autonomia pedagógica é concedida por período de um, três ou cinco anos, renováveis.
 
-- la,r, prim?rio,  secund,/rrio-básico,  pré-universiia'rio,  iécnico-profi,ssional  e suPerior.
+5 — O paralelismo pedagógico é concedido por períodos de um, três ou cinco anos, renováveis.
 
-- 4 -A rnui;onomia  ped-agógica  é  concedida  por  pe ríodo d,e um, três  cu cinco 3rÍlos, rcnovávcís'
+###### Artigo 36.º
 
-- 5 -O paraÌelismo ped-agógico  é  conced,ido  por períod,os  de um, trôs  ou cinco anos,  renovavels'
+1 — A concessão ou renovação da autonomia ou paralelismo pedagógicos devem ser requeridas ao Ministro tutelar da Educação, até 31 de Julho.
 
-###### Ari;igo  36.0
+2 — A definição das escolas abrangidas pela autonomia ou paralelismo pedagógicos será feita por Decreto do Governo até 45 dias após a data de entrega do requerimento referido no número anterior.
 
-- I -Á"  concessão  oü  rclÌoYârcão  da autonomia ou naralcÌismo  pcdagógÌcos  d'evcm icr requcridas  ao Minis'tro  tuücìar Aã  nduúçeo,  e,bó 3l d'e Julho'
+###### Artigo 37.º
 
-- 2*  A' definição  d,as escolas a,brang^ïd,as pela aui;ono' -ú  o,, puoulelismo  pedagógicos-  serÉ'  fcite' por- Decreto ão  Go.rãtt  o aüé 45 ó-ias .ipõt â,  d-i'í;?'  d.c entrega' d'o requerimento refarido no número  an'i;erior'
+1 — Se uma escola, de autonomia pedagógica, deixar de reunir as condições necessárias para a manter, os órgãos competentes, proporão ao Governo que lhe seja retirada esta prerrogativa.
 
-###### Artigo  37.o
+2 — Se a escola gozava de autonomia pedagógica total, pode passar a gozar de autonomia parcial, se fôr caso disso.
 
-- I  _-Se uma esoola,,  tLe autonomia  pedagógica'  deixar de reunir as condições necessárias  para a manter' os órgãcs  competentes,  p.oporã'o  ao Gdverno  qrre lhe seja retire,da esta  Prerr  cgativa.
+## CAPÍTULO IV
 
-- 2 -Se a escola  gítzãr:& de autonomia  ped'agógica totat, poa. passar  a"go"*t de autonomia  parcial, se fôr
-
-- caso disso.
-
-## CAPÍT{ILO  IV
-
-### Da Entittaite  Titular
+### Da Entidade Titular
 
 #### Secção I
 
 ##### Deveres
 
-###### Ártigo 38.o
+###### Artigo 38.º
 
-- 1 * C.rmpe';c às entidad-"s  1if,u!.'reri  cÌ.,1 r,utori:a3ão  e
+1 — Compete às entidades titulares de autorização e funcionamento de escolas particulares:
 
-- fun tiorrarreni;o  de escole's pariicularel:
+a) Definir orientações gerais para a escola;
 
-- cJ D.Cnir  orientarções  gerais para a oscoii;
+b) Assegurar os investimentos necessários;
 
-- b,) Assegurar os inves'tirn entos neeessários;
+c) Representar a escola em todas as questões de natureza administrativa;
 
-- c/ R,epresen'tar a cscola em  'iodas  as ques'üões  de
+d) Responder pela correcta aplicação dos subsídios, créditos e outros apoios eventualmente concedidos;
 
-- na.üurczã  ad.mi nis'üra  biva ;
+e) Estabelecer a organização administrativa e as condições de funcionamento da escola;
 
-- dJ Rcsponder pela ccrrecta aplice,ção  dos subsídios, cródi?,os  ã  outroe ãpoios  evcntualmente conccdidos;
+f) Assegurar a contratação e a gestão do pessoal;
 
-- ej Esta.beleeer  â  crganize,ção  aclminisire,'uiva cond'igõcs dç funcionamen'üo  d.a escola;
+g) Prestar ao Ministério tutelar da Educação todas as informações que, nos termos da lei, lhe forem solicitadas.
 
-- e  as
+2 — O não cumprimento do disposto neste artigo é punível nos termos do artigo 87.º.
 
-//  Âssegurar a conira{;ação e a gesi;ão  do pessoal;
+#### Secção II
 
-?re*tar ao Ministério tutela,r da Eclucagão  tod-as as-informa'gõcs quc, nos termos  ila lei, lhe forem solicitad.es.
+##### Da Direcção Pedagógica
 
-- O não cumprimcni;o  d.o dispost,o nestc artigo é
+###### Artigo 39.º
 
-- 2 -puní-,'el nos iermos do artigo 87.o
+1 — Em cada escola particular deve existir uma direcção pedagógica devidamente reconhecida pela entidade tutelar da Educação.
 
-#### Secqão  II
+2 — A direcção pedagógica pode ser singular ou colectiva.
 
-##### Ila Direeção  Peitagógica
+3 — O exercício de funções de direcção pedagógica é equiparável, para todos os efeitos legais, à função docente.
 
-###### Artigo 39'o
+###### Artigo 40.º
 
-- I -Em eada, escola particular  devc cxisi,ir  uma dirccção  peclagógica  devidamente  rcconhecid.a  pela eni;i'
+Não é permitida a mesma direcção pedagógica em mais de um estabelecimento de ensino.
 
-- daCe tutelar da Educação,
+###### Artigo 41.º
 
-- 2 -A, direcção  pedagógica pod,e ser singular ou
+Compete à direcção pedagógica a orientação da acção educativa da escola, designadamente:
 
-- colec{,iva.
+a) Representar a escola junto do Ministério tutelar da Educação em todos os assuntos de natureza pedagógica;
 
-- 3 -O exercício de funções  de cl,ireocão  pedagógica é equiparável,  para todos os efeitos  legais, à função  do-
+b) Planificar e superintender as actividades curriculares e culturais;
 
-- cente.
+c) Promover o cumprimento dos planos e programas de estudos;
 
-###### Arl,igo 40.o
+d) Velar pela qualidade de ensino;
 
-- Nã,o  é  permiticì.e, a mesma direcção  pedagógice,  em me.is d,e uú  estabclecimeni;o  de ensino.
-
-###### Ártigo 41.o
-
-Compete  à direcção  pedagógica a orientação  da acção
-
-educativa da escola, dcs:gnadamente  :
-
-- R,epresentar a escola junto do Ministério  tutelar d,a
-
-- Edúcação  em todos os &sÊunijos  de natureza pedagógica;
-
-- bJ Planifice.r  o superintender  as aci;ividad'es  curri-
-
-- culares e culturais;
-
-- c,) Promover o cumprimento  dos planos  e progrem€Is d-e esiudos;
-
-- d,) Yelat pela qualidend" flç 615inoi
-
-- Zelar pela educação  e disciplina de alunos.
+e) Zelar pela educação e disciplina de alunos.
 
 ## CAPÍTULO V
 
-### I)os ilocenÍes
+### Dos docentes
 
 #### Secção I
 
-##### Oonilições  Gerais
+##### Condições Gerais
 
-###### Ariigo 42.o
+###### Artigo 42.º
 
-- f -O pessoal  docente  d'as escolas pariiaulares  ere uma fungão  de interesse  público,  tem os.direitos^e  i suieito ãos  dtvc::es  inerentes  ero excrcício  da fung doïco;c,  além  dos fixad,os na l,-'5 slação  la'lora"l aplic;r
+1 — O pessoal docente das escolas particulares exerce uma função de interesse público, tem os direitos e está sujeito aos deveres inerentes ao exercício da função docente, além dos fixados na legislação laboral aplicável.
 
-- 2 -Na definição  d'os direitos  e dos dovc'es Co elocente  de,s eccolas p?.rtiouleÍca clever-se-í ie r em
+2 — Na definição dos direitos e dos deveres do pessoal docente das escolas particulares dever-se-á ter em consi-
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-ìTÚUERO 1?_3r DE DI"ZEMBR,O  DE I993
+NÚMERO 17 — 31 DE DEZEMBRO DE 1993
 
 379
 
-rys deração  a conveniência  de harmonizar as suas carreiras com âs clas escolas  públicas,  gar*niind,o_se,  na m"d.ida. d.o possível, os direitãs  adquirid,os,  sem prejuízo a* auionomia das insôiiuições.
+deração a conveniência de harmonizar as suas carreiras com as das escolas públicas, garantindo-se, na medida do possível, os direitos adquiridos, sem prejuízo da autonomia das instituições.
 
-###### Artigo 43.o
+###### Artigo 43.º
 
-- t -Os docentcs  das escole,s  perticulareõ devem fazcr prova de sanidadc  fpi9el-e  menÌal,  idonciclad,,.;  proâssional e de possuirem  habilitações profissionais  Ju acaclémicas próprias  ao respeci;ivô  niút de cnsino ou curso.
+1 — Os docentes das escolas particulares devem fazer prova de sanidade física e mental, idoneidade profissional e de possuírem habilitações profissionais ou académicas próprias ao respectivo nível de ensino ou curso.
 
-. 2 . $*Tp-.9_-q,re sc mos-trar  possírel, d.ai-se-á  prcferência  às habilioações  profi.ssionais.
+2 — Sempre que se mostrar possível, dar-se-á preferência às habilitações profissionais.
 
-###### Ártigo .14.o
+###### Artigo 44.º
 
-Áiclr...le ryqlma  para o exercício de função  d.ocenÈe  em es:-.ias parúiculares  é  de 18 anos.
+A idade mínima para o exercício de função docente em escolas particulares é de 18 anos.
 
-###### Ariigo 45.o
+###### Artigo 45.º
 
-, É  permìtida  a li]:crdadc  d,e coniratação dc d.ocentes, obs,:ivando-sc,  coni,udo,  &s oond.içõcs  àxigìdnu ""* .,i] t.igos anteriores.
+É permitida a liberdade de contratação de docentes, observando-se, contudo, as condições exigidas nos artigos anteriores.
 
-###### Artigo  46.o
+###### Artigo 46.º
 
-.l  As escolas  particulares  podem  aclmitir professores esi;rangeiros  nas m€s-mtr- áondiçõcs dos *:,racionais, mcd.!ante  autorização  do liinisi;ro iutclar de, Oclucr,ção"
+1 — As escolas particulares podem admitir professores estrangeiros nas mesmas condições dos nacionais, mediante autorização do Ministro tutelar da Educação.
 
-- 2 -Os docêntes  estrangeiros devem  fazer prove,  de sufi.ciente conhecimento  da lÍnguâ porrìugrresa, semprc que ela su-j*.inclispensá-rcl  paã  ai tliscfulinas  qrr"'s" propõem  leccionar.
+2 — Os docentes estrangeiros devem fazer prova de suficiente conhecimento da língua portuguesa, sempre que ela seja indispensável para as disciplinas que se propõem leccionar.
 
-- A contrs,tação
+3 — A contratação de professores estrangeiros não deve constituir encargo para as instituições bancárias estatais no pagamento em moedas estrangeiras.
 
-, 3 -de professores  es.ürangriros  não oevc consrtúutr  enc?,rgo  para a,s ins.ti.iuiçõcs  bancárias estatais no pa,gamcnto  ern moqde,s  es,rrang'eiras.
+###### Artigo 47.º
 
-###### Ártigo 47.o
+As habilitações profissionais e académicas a exigir aos docentes das escolas com curso e/ou plano próprios são estabelecidas, caso a caso, por despacho ministerial.
 
-, As habili'tações  profissione,is  e académieas a exigir aos d.occntes  das cscoÌas oom curso e/ou plano  próprios  são estabelecidase cprso  a cas:o, por'd"esia,cho-úiïristerial.
+###### Artigo 48.º
 
-###### Artigo  48.o
+1 — Não podem exercer função nas escolas particulares os indivíduos que tenham sido condenados por sentença transitada em julgado, em penas inibitórias, nos termos da legislação penal, do exercício de funções públicas.
 
-. I -Não .pod-cm  cxí.'rccr função  nas cscolas  particulares os indivícluos que tenhaà sido co:rd"n.,if"u-p", seÍìrrGaÇ€!  trar,si6a,da  em julgado,  cm penâs  inibitóriïs, nos.tcrmos  d.e, legislação  pcnal,  {o  exôrcício  de funções públicas.
+2 — As entidades proprietárias de escolas particulares respondem perante o Governo pelo cumprimento do disposto neste artigo.
 
-- 2 -Ir en'iid:.d.es proprieiárias d,e cscolas pariicularcs respondem  peranic o Governo pelo cumpiimenio  do dispcsuo nesi;e a.rtigo.
+###### Artigo 49.º
 
-###### Artigo 49.o
+1 — No período compreendido entre 1 a 15 de Novembro de cada ano, as escolas particulares enviarão ao organismo competente do Ministério tutelar da Educação a relação discriminatória dos docentes dos seus serviços, com os elementos constantes dos respectivos registos biográficos.
 
-- t:-N9 pcrío<Ì,o  eomprcenrlido  entre I  e, 15 de Novembro de cacla ano, as eseolar paúicula,res "rr*alao P,o  or-g.,nismo  ecmpcl,t;nie  do nlinisi,ório  tui,eÌar d-a Rrlu_ cicão  e, relagão  d,:ilerimiru,iória  tLas (Ìoc,,nt,rl  dos srus s,rrr.iços, com o$ elr;mc:n.ics  constinntes  clos rcspecüivos r+g s'i;os biogríficos.
+2 — Quando os professores forem contratados durante o ano lectivo, os elementos referidos no número anterior serão enviados no prazo de 15 dias após a celebração do contrato.
 
-- 2 -Qur,nC.o  os prof,;ffÍìorot  forcm  eontriiti,ì.os  du-
-
-- ralie o ano lcctivo, os clemunilos  rcf;ridos  no número
-
-an'í;erior  serão  enviados no prazo  de 15 dias após  a cele_ bração  clo con.iraio.
-
-- 3 -A não  obsen-ância  d,o dìsposto neste artigo  está sujeita às sanções previstas  no ariigo  g7.o
+3 — A não observância do disposto neste artigo está sujeita às sanções previstas no artigo 87.º.
 
 #### Secção II
 
-##### Do Ca{asÉro
+##### Do Cadastro
 
-###### Artìgo S0.o
+###### Artigo 50.º
 
-- O.serviço  d,e pessoal  do Ìúinistério dc tutcïa d.cve rne,oicr os rl-gistos  biogré,fi.cos  índ,ividuais  do p"**oui  ãã ensino  pari;icular.
+O serviço de pessoal do Ministério de tutela deve manter os registos biográficos individuais do pessoal do ensino particular.
 
-###### Ariigo 5l.o
+###### Artigo 51.º
 
-^^ I :fcscolas porúicuJarcs_  d,circm rni,ntcr organízados os rcgistos b_rográficos  indivìd-uais  cìo pcssoal  dãci,ntc  e o proccsso individual cl,e cade.  um itoi cloe"nt,;s  ;;-;; scrviço.
+1 — As escolas particulares devem manter organizados os registos biográficos individuais do pessoal docente e o processo individual de cada um dos docentes ao seu serviço.
 
-- 2.* O procesõo indiviclual  d.cvc acompanhar  o d,oconic quand.o  mudar  de cscole,.
+2 — O processo individual deve acompanhar o docente quando mudar de escola.
 
-#### Secção  Ifï
+#### Secção III
 
-##### Autoriz*çâo  provisória
+##### Autorização Provisória de Docência
 
-###### dfl;,;g6  g!.o
+###### Artigo 52.º
 
-. I -.dpós  a enôra,da  cm vigor da prcsentc  lci e enquanl: _.,^  ",,,.r91"i a cì o  lcssoal  doõn i e o-j ustìfi  ,,r,  r.  i"d;il;;, c onc íd.r d as a ut o ri zaçõ  es provi só  rias-d.e  d ocêncie,,  dc vaÌ  i_ dade anual, desde q,r* oì  iniercssaclos-po*rr,u*  habilitaç-ões  sufi.cicn.ües  nos termos exigid,os'para  o ensino público.
+1 — Após a entrada em vigor da presente lei e enquanto a carência do pessoal docente o justificar, podem ser concedidas autorizações provisórias de docência, de validade anual, desde que os interessados possuam habilitações suficientes nos termos exigidos para o ensino público.
 
-.^-?'... {hbltit..,-e,oeg ai.exigir  para os cursos  com planos propnos  serão  esi;abclecidos  c&So & c&so.
+2 — As habilitações a exigir para os cursos com planos próprios serão estabelecidos caso a caso.
 
-###### Ártigo 53.o
+###### Artigo 53.º
 
-- no.l ; As ,autorizaçõcsprovisórias  serão  requeridas  ao lllinisiro  i;ul,elar  da Eclucação  peÌas  .s"oËrs intcrcsi;adas, r,tó  3l dc Our,uÌrro  d" ;;á*;;;. -
+1 — As autorizações provisórias serão requeridas ao Ministro tutelar da Educação pelas escolas interessadas, até 31 de Outubro de cada ano.
 
-- 2.Quando  os profcssores  forcm contratados  d,ura,nic o aao lccôivo a, au.i;orizaçã,o provisória  de docência d,eve sei imccl.ia.i;amen.tc  soÌiciljaai,  u* pici ui, o' no  ìnicio de funçõcs  a tÍtulu eundicional. *-
+2 — Quando os professores forem contratados durante o ano lectivo a autorização provisória de docência deve ser imediatamente solicitada sem prejuízo no início de funções a título condicional.
 
-- 3 -Denl;ro cl.,)  trint,r,  di-r.s posreriorcs  à su?, entrp,cì.a, os serviços compete-nr:es  d.evãrão  notifi,ce,r  à eniid,ade requere  nte, o dcspacho  que o pedido  mereceu.
+3 — Dentro de trinta dias posteriores à sua entrada, os serviços competentes deverão notificar à entidade requerente, o despacho que o pedido mereceu.
 
-###### Artigo 54.o
+###### Artigo 54.º
 
-O excreício  d.e função  do,cgnte nas cscolas  partieulerlss por quem não  esteja ha,bilii,aclo ou e,utoïjzi,dn,  *"rã punido com multa entr" Dbs. + iroo,oo * O:;2úô0;ób:
+O exercício de função docente nas escolas particulares por quem não esteja habilitado ou autorizado, será punido com multa entre Dbs. 4 000,00 a Dbs 20 000,00.
 
-###### Artigo 55.
+###### Artigo 55.º
 
-Os d-oe,:ntcs  d-ar ,,";eolas  particul{ì:ê$ em "oo6l.ições {f 1n1nfi'ruionllizi.ri;m  podeL  fazôJo  ,,", **.*n, "oncliçõus  fi,xldas para o eas-rno público.
-
-de Docêueia
+Os docentes das escolas particulares em condições de se profissionalizarem podem fazê-lo nas mesmas condições fixadas para o ensino público.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-DIÃRIO  DA REPÚBÏ,ICA
+380
 
-##### Da e,csnnulação  ile fulrções
+DIÁRIO DA REPÚBLICA
 
-###### Arligo  56.o
+#### Secção IV
 
-- 1*É pcrmii;ida a acumulação  d'c-.funçõcs  doccnües nas escolf,s pari;icularcs  c cscolas  públicas'
+##### Da acumulação de funções
 
-- 2 -L acumulação  cì-e funções  por agcotes aão  cleve nroiuclicar o cumìriim"nüo dc horário  d'e docência  aproïu.io  pot lci neml  cm que,lqucr  tlos caÊos,  uli;raipe'ssar  e's que,rentti  horas scmanais.
+###### Artigo 56.º
 
-###### Ârtigo 57.o
+1 — É permitida a acumulação de funções docentes nas escolas particulares e escolas públicas.
 
-- l -Á.  ?rcurìlul?rÇão  d-c funções  co  r:nrino público  c nariicular  cstá  suj,;ii;ai t  e,uhctizt,gã,o do liinis'sro  i;uieiar ã*  Éd""nçao  c d.ì,v., scr solioitad.a aié  31 d-c Outubro d" toO-t *no, o**  prc juízo  de fun4ões  a''bíiulo  cond-icioneJ'
+2 — A acumulação de funções por agentes não deve prejudicar o cumprimento de horário de docência aprovado por lei nem, em qualquer dos casos, ultrapassar as quarenta horas semanais.
 
-- 2 -Qu*ndo  os professores forcm con'ira;i;aclos  clu,*nt*  o ã,no  lsobivo, ã  e,u,orizição  para a acunulaçãotlc funções,  dcvc  ser imcdia,e,menic  solicitaCa, sem preJulzo rlo início  d.e funções a'üítulo cond,icional'
+###### Artigo 57.º
 
-- 3 -Sm qualqucr d.os casos, o rcqueri'rnento dcve ser objecto  d" d"spe,"ilo,  cì-eni;ro de 15 dias  posteriores à sua
+1 — A acumulação de funções no ensino público e particular está sujeita a autorização do Ministro tutelar da Educação e deve ser solicitada até 31 de Outubro de cada ano, sem prejuízo de funções a título condicional.
 
-- entrada.
+2 — Quando os professores forem contratados durante o ano lectivo, a autorização para a acumulação de funções, deve ser imediatamente solicitada, sem prejuízo do início de funções a título condicional.
 
-A qualince,nu"  a" :Ï;:;cen-tc.presiado  peios prof*s'sor.s daó  escola,s par'i;iculares,  obedccc  em tud"o  às *rro.*u* vigenües  Fâíâ  o ensino público'
+3 — Em qualquer dos casos, o requerimento deve ser objecto de despacho, dentro de 15 dias posteriores à sua entrada.
 
-#### Secçã,o  V
+###### Artigo 58.º
 
-##### Do trânsito  entre os ensinos públicos  e paúieule'res
+A qualificação do trabalho docente prestado pelos professores das escolas particulares, obedece em tudo às normas vigentes para o ensino público.
 
-###### Artigo 59.o
+#### Secção V
 
-- I -É  permil,id.o  o trânsito  de docentcs  entre  o
+##### Do trânsito entre os ensinos públicos e particulares
 
-- ensi$o pa.rïicrolar e o"ensino  público  c vice  -vcrsa'
+###### Artigo 59.º
 
-- 2 -O trânsito  da d.ocenies d.os níveis  de ensino  da. na,rru"áo-  eera.l  fi,ca conclicione'd,o à  esiabilizagã'o  do ã*""  lt"."ït,e  pírblico,  devsnd,o as respeetivas  regras estabele  cidas em diplomas  próprio'
+1 — É permitido o trânsito de docentes entre o ensino particular e o ensino público e vice-versa.
 
-###### Artigo  60'o
+2 — O trânsito de docentes dos níveis de ensino da Educação geral fica condicionado à estabilização do corpo docente público, devendo as respectivas regras serem estabelecidas em diplomas próprio.
 
-- O trânsito de docentes entre  as escolas púb-licas  e as le,rticulares  far-se-á  sem prcjuízo clos direitos  adquirid'os' ïelai;ivamente  à conte"gcm  de tcmpo,  c?'rreir?',  sc$urârng& sooial e aPosentação.
+###### Artigo 60.º
 
-#### Secção  VI
+O trânsito de docentes entre as escolas públicas e as particulares far-se-á sem prejuízo dos direitos adquiridos, relativamente à contagem de tempo, carreira, segurança social e aposentação.
 
-##### I)a coatr,gem  ilo temPo ile serviço
+#### Secção VI
 
-###### Art'igo  6l'o
+##### Da contagem do tempo de serviço
 
-- I  *.A.os  d.ocentes  clas escolas  particul'trr'"s  que tre'nsit"Ã  p* o orrsino  público-é conti'cl'o o tempo  d'e serviço ;;;-ád"  no ensirio  part'icular,  des'g;rr'd'amenle  para ãi"i  to;á-  ;;";;;;" c' d.iutu'nid'r'd"s'  em igur'lrrii";  de eoncìições  õom  sÁrviço  prestad'c , nas es-c-cla's públicas' d,*stl""qu"  se veriflquóm  ãs seguinrlcs  cond'içõcs:
+###### Artigo 61.º
 
-"..Ë-
+1 — Aos docentes das escolas particulares que transitem para o ensino público é contado o tempo de serviço prestado no ensino particular, designadamente para efeitos de promoção e diuturnidades, em igualdade de condições com serviço prestado nas escolas públicas, desde que se verifiquem as seguintes condições:
 
-- oi Quc  o tcmpo de serviço tcnha siclo prcste'clo em escoli,s dc'rid,amcni,c  lcgalizacleis  ;
+a) Que o tempo de serviço tenha sido prestado em escolas devidamente legalizadas;
 
-- b,)  Que  os d.ocenicg sc cnconbri,sssm  vinculltd'os  à d,a,ia,  cle presta,çã,o clo serviço;
+b) Que os docentes se encontrassem vinculados à data de prestação do serviço;
 
-- Que  o serviço  nã,o  tcnha  sido- prcstad-o  em acumule,gáo  i1" scrviço ôom  a, função  pirblica ou com o ensino oficiLÌ.
+c) Que o serviço não tenha sido prestado em acumulação de serviço com a função pública ou com o ensino oficial.
 
-- 2 -A Om d,c ãrsscgur?rr  um efcctivo computo-  cm d'ieo c e, co&fi.tma,ção  d,o  'ücmpo  d.* sr:rviço prcsia'c1o .pclos d,ôccn.i,es,  ca,clã  cscola pe,i'uioular  promovcrá,  obrigaioritrmcni;s:
+2 — A fim de assegurar um efectivo computo em dia e a confirmação do tempo de serviço prestado pelos docentes, cada escola particular promoverá, obrigatoriamente:
 
-- oJ O regïsto mensal, nos proceËsos  ind,ivid.uais  dos cl-occnies, ãu,  urru sii;uação  c1o úês, em tcrmos clc prescnci,s  c Ëru$ôncias justifiei.c'l.a.s  c não  j ust'ifi.cadr,s ;
+a) O registo mensal, nos processos individuais dos docentes, da sua situação do mês, em termos de presenças e ausências justificadas e não justificadas;
 
-- óJ O cnvio e,o liinistério'iutclar  aóé 30 d-e Setcmbro dc ãada  aao, d.o ma,.ì:a giobal relaiivo  e, cad"a doceni;e o a loCo o :,no escolar atr,ierior, dc  ond-e consie a d.iscriminargão  cì.o tempo  c qualid-acle de serviço  presii,d'o;
+b) O envio ao Ministério tutelar até 30 de Setembro de cada ano, do mapa global relativo a cada docente e a todo o ano escolar anterior, de onde conste a discriminação do tempo e qualidade de serviço prestado;
 
-- c,) A prove. dc tempo.
+c) A prova de tempo.
 
-#### Secção  YIf
+#### Secção VII
 
-##### Ila lespons*bllids{e  iiiscipliiral
+##### Da responsabilidade disciplinar
 
-###### Artigo 62.o
+###### Artigo 62.º
 
-- 1 -Os docentcs  d.i,s escolas pi,ri,icularcs  rcspond'e-m disoiplinarmente  perani;e a  eniidade propriciária  da" escola, nos termos  d.a lci vigcn-le.
+1 — Os docentes das escolas particulares respondem disciplinarmente perante a entidade proprietária da escola, nos termos da lei vigente.
 
-## CAPíTULO VI
+## CAPÍTULO VI
 
-### I)os alunos
+### Dos alunos
 
 #### Secção I
 
-##### I)as  ma,trjeulas
+##### Das matrículas
 
-###### Ari;igo  63.o
+###### Artigo 63.º
 
-- t -A mai;rícula lea,liza,-sc  apenas quand,o  os alunos ingressem pela primeír& Yt-.!, em rcglme  diurno ou nocturno dos nívcis d,c cnsino.
+1 — A matrícula realiza-se apenas quando os alunos ingressem pela primeira vez, em regime diurno ou nocturno dos níveis de ensino.
 
-- 2 * A, renovação da mai;rícula realiza-se ÍÌos  ?rÍlos subscquentes  8óo  da mairícula,  -parâ prossecução  c1e e*udoì ou rcpetição  de frequência.
+2 — A renovação da matrícula realiza-se nos anos subsequentes ao da matrícula, para prossecução de estudos ou repetição de frequência.
 
-###### Artigo 64.o
+###### Artigo 64.º
 
-- I -Os alunos d.as csoole.s  particulares  esi;ão  sujeitos a id.ad,c mínima  d.e ingrcsso  no ensino  público'
+1 — Os alunos das escolas particulares estão sujeitos a idade mínima de ingresso no ensino público.
 
-- 2 -Não  é  permiticlo  minist,rar  o ensino nas cscolas pari,icuÌares úm  admitir a cxarnc  arlunos  sujciios  a hatrícule", som que estsr se tenhe. cfectivaclo'
+2 — Não é permitido ministrar o ensino nas escolas particulares nem admitir a exame alunos sujeitos a matrícula, sem que esta se tenha efectivado.
 
-###### Artigo  65.0
+###### Artigo 65.º
 
-- L -Nã,o  é  perrnitido a martículg  ?'oâ alunos  q'.rc preÌ;cnrJ.em fre{uentar o mesmo ano ou disciplina  e:l mais d.e uma cscolo.
+1 — Não é permitida a matrícula aos alunos que pretendem frequentar o mesmo ano ou disciplina em mais de uma escola.
 
-- 2  -_  À.q  m&',rícule.s  € âS ÍgÍìoïir;õ,:i  cì.rr mi'":rícula rft
-
-- s:ir,.oli,r piriicuÌarcs  ef,:ct,uam-s,  ; ;ité  Ír' I lirni  i": C- os p "':r {: com ì-rrse.vêrnela d,os requisitos r:in  Ì'r'g}r  pâ-i'  ir8 cscola,i pírilican do mesmo nível dc ensino'
+2 — As matrículas e as renovações de matrícula nas escolas particulares efectuam-se até ao limite dos prazos e com observância dos requisitos em vigor para as escolas públicas do mesmo nível de ensino.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-I{ÚTEB  O r"'I DÊDË EUBB,O DE I93 3
+NÚMERO 17 — 31 DE DEZEMBRO DE 1993
 
 381
 
-lïu,'i:'uuut'
+###### Artigo 66.º
 
-, duais de inscrição.
+1 — As matrículas e as renovações de matrículas nas escolas particulares com autonomia pedagógica e paralelismo pedagógico têm plena validade oficial nos níveis por ela abrangidos.
 
-###### Ari;igo 66.o
+2 — Os processos de matrículas e de renovação de matrícula nas escolas particulares dos níveis de ensino não abrangidos por autonomia pedagógica e paralelismo pedagógico, devem ser entregues na delegação distrital do Ministério tutelar da Educação ou na escola pública da área (onde não haja delegação distrital consoante o caso), no prazo de sessenta dias após o termo do prazo de matrículas ou de renovação.
 
-- I--As mstriculas  c af rcnDya?ões de ma,úríoule,s nas cscolas panr.üicule,rcs  com e,uionoinie  pcdr,gc,gl*r" " p*ral lslismo  pcdegóglco  itêrn  plene, ""i;A*a'_"ãÀoie,l nos níveis pcr ela e.brr.ng;d.os.
+3 — Quando a escola perca a autonomia pedagógica e o paralelismo pedagógico, os processos dos alunos transitam para a Delegação Distrital de Adultos ou para escola pública da área, segundo critério do número anterior.
 
-- 2 -A, concretizagão. da transferêneia  dcpcnde  da exisiência  dc  yaq  ìs  nÍ-,s jnsúiúrüõ_r;;:;;ïnd* sõo  r.lqucricli,s  c do rccorúccimcnro  da;q#;iã;ü;_ ;il.ïüï ne,s  ministra  das,  tra.ie,na  o*" -a *'aìunoïïror,"níentes d, e escolis com âutonomia  pcdagógi.o.-"""  "
+4 — Se entretanto o aluno prosseguir os estudos noutra escola particular, o processo transitará para esta escola.
 
-2.;9u procÍ;ssos  dc me,i;rícula  e dc rcnovação  dc
-###### Ártigo 7l.o
-matrícula nas escolas  pa*ícularcs  tl'o''nivt':s  t1'""*nuino  A transÍ'erência d,o mairícuÌe,  de escolas  pariiclrrares não  abrang'dos  por au'üãnom!;'  p-á"gà-gü*  c pare,lctism" ""ï,ll^oq;  .ei;$io.  prop.r.* p*r* o*oãlus  públicas, pcdag'ígico'  de'cm s+r cn  'rcgT-,;*  ,,.ï,i1,,Ì,g.rção  cÌisiri-at  Jiu*uu-s' no  io;"L  ao ano cscoÌar  e só  pode efec.üivar-se Ëi,ï,}'.'"",iàïJ;:'ï:iïf,i;: *ìr1;i:ïff;.3,';'; ;i:ffi#J;,ili;:"#'o da habi,itaeoeË --ãïÏl;flïïil'"""u,ï.'::ï;';ft aì  apos o ;;;;;ì;;;;
-#### secção  v
+#### Secção II
 
-- B -euaado  a eì-c,orir.perca  a a,utonomia  pcdagógica e o pzr,Ìelismo p;rl;,gígi*o,  o" 1r.o"rr*ro, 4."*  ír.inà* tran$tam-  pâr&  â De!,:g  ição  Djs;rìtat  * -an aO."fi"*"rï pe'ra' escoÌa  pública  da á.rÃ*, scgund,o  cri*;io;;;;;";; anicrior'
+##### Das Inscrições
 
-##### Ds assiiluiilatle
+###### Artigo 67.º
 
-###### Ar1,ìgo72.o
+As escolas particulares devem organizar os processos individuais de inscrição dos alunos não sujeitos à matrícula.
 
--  _os alunos  d,ers osooras pa,rúiculares  estão  sujcÍtos aos reg'mcs  ,Ì"  ;=;idJãáá-
+###### Artigo 68.º
 
-- 4-  s; entretanf o o aluro proe seguir  os estucros  llou-
+1 — As escolas devem conservar os processos individuais de inscrição.
 
-- j:::,^"rrolu  pa.rricular,  o proccsso  transitaií parr,  cst& escola'
+2 — Os processos individuais de inscrição dos alunos da educação pré-escolar devem acompanhá-los na transição para o ensino primário.
 
-#### secção
+#### Secção III
 
-rr
+##### Das Propinas
 
-##### I)as fnsci.ições
+###### Artigo 69.º
 
-###### Á.rúigo 67.o
+1 — Os alunos das escolas particulares podem estar sujeitos o pagamento de propinas de matrícula, frequência e exame.
 
-a;.'".."r;'"ï;i.rï:  '
+2 — As escolas particulares que possuam contratos de associação ou de patrocínio podem conceder o direito à isenção ou redução de propinas a alunos, de acordo com os subsídios recebidos pelas escolas, nos termos previstos nesse contrato.
 
-###### Á.rtlgo z3.o
-Ár
+#### Secção IV
 
-- I :-  o regïma cl,e fa!'ôas p-ara  os alunos  das esoolas f*ïiïÏi';:ïoï !"ïffa" pãi"ì'  ;;;;ï';:.*i" pã*'ã"
+##### Da transferência
 
-- 2 Para, os alunos  de-cursos  ccm planos e progrsrrìas lüfr:ff";rregime de ralias  ã  ;i,;;#1"ïï no respecrivo
+###### Artigo 70.º
 
-*
+1 — É permitida a transferência de matrícula aos alunos entre escolas particulares e entre estas escolas públicas e vice-versa.
 
-- proccssos  d.li^;  ff ;,,irffil"Ëïf  ,,;uï:,Jffïffi,
+2 — A concretização da transferência depende da existência de vagas nas instituições para onde são requeridas e do reconhecimento da equivalência das disciplinas ministradas, tratando-se de alunos provenientes de escolas com autonomia pedagógica.
 
-- ï"*_ïg:ff:: l-ì*:-,::lsidcrando-se as rarr,as  up*r,u"-pu,a  efc*os
+###### Artigo 71.º
 
-###### Artigo 7.1.o
+A transferência do matrícula de escolas particulares com planos e programas próprios para escolas públicas, efectua-se no início do ano escolar e só pode efectivar-se mediante a equiparação de habilitações.
 
-- I  _.  A djrsccão  nedagógico  cï.is  esoolas particulares dcye ccmunica.  aos""ncai.fuados  A" "ãuïàçao dos alunos as falúas  da.clas pelos scus  ïar""rA""l-""
+#### Secção V
 
-- 2 -A comunicaeão  ó úrÍgai;ória  a rncio de cad,a nc:':9: " scmpre e que a r*rtã  ãí Ã_iáïìàrt*";ï#: !,que.
+##### Da assiduidade
 
-###### Artigo 75.o
+###### Artigo 72.º
 
-- I * Ás  faka; datlas pelos alunos serão  registadas  ers livro próprio,  com  ai*.iiÀi"ail #";ilrifice,das  e não j.rs'iiflcadas.
+Os alunos das escolas particulares estão sujeitos aos regimes de assiduidade das escolas oficiais.
 
-*As faltas  deyem consta,r iguaìmente  em todos os
+###### Artigo 73.º
 
-- 2 mâpas  de eçuramento  do fr"q"eïãiu. ""
+1 — O regime de faltas para os alunos das escolas particulares é o regulado pelas normas gerais para as instituições de ensino.
 
-#### Secção  Vf
+2 — Para os alunos de cursos com planos e programas próprios o regime de faltas é o previsto no respectivo regulamento.
 
-##### Da av,aliação
+3 — Os alunos afectados de doenças contagiosas devem ser afastados da frequência às aulas nos termos da lei, considerando-se as faltas apenas para efeitos estatísticos.
 
-###### Artigo ?6.o
+###### Artigo 74.º
 
-I -As cseoli.s pa.iticuÌares  nos níveis  d,c ensino quc E'zam de auronoàio ryga*gógiã;üá;  ad,oprar proc  {  rss  os d. e aveJ i  acã  n n  o r,ïír, r.ï-p'róp;  il, à  ;;"nd o co n t ud. o, ob'lrlr  a t .""a*,,,,;;  i,:)ro.Ìi,:ão  do Ministro  tut,elar da Ed,ucação,  tend,o  pe"rá  Ëo.:,,s "- "f"fiï_, ï*li.tod"  oficial.
+1 — A direcção pedagógica das escolas particulares deve comunicar aos encarregados de educação dos alunos as faltas dadas pelos seus educandos.
 
-_r?-*Nos  dema'Íì fiJo,s, obser\ri.:_se-;,i  o regime em vrgor nas escolas  núblicas lJar;;  os mesmos  graqs  e ní, ve.s de ensÍno"
+2 — A comunicação é obrigatória a meio de cada período e sempre que a falta de assiduidade o justifique.
 
-As csco]as  n'e,rÍ,ic'ra:cs  d,+vem organiza,r .os d'Ëinscrição d'os alunos  ia"-";-iïãJáff;'ï
+###### Artigo 75.º
 
-###### Artigo 68.o
+1 — As faltas dadas pelos alunos serão registadas em livro próprio, com discriminação das justificadas e não justificadas.
 
-- l.-,4Ì escolas d,evem conserv&r  os processos  inclivi_
+2 — As faltas devem constar igualmente em todos os mapas de apuramento de frequência.
 
-,^r; 9*processos indivjdrrais  de insorição  d,os alunos a:1rycducôção prc.-cscolar  rl.evcm  ;c"mpanhá-los  na t.ã"_ srçao pera o eiisino  primário.
+#### Secção VI
 
-#### Secção
+##### Da avaliação
 
-flf
+###### Artigo 76.º
 
-##### Das Fropinas
+1 — As escolas particulares nos níveis de ensino que gozam de autonomia pedagógica podem adoptar processos de avaliação contínua próprios, devendo contudo, obter a necessária aprovação do Ministro tutelar da Educação, tendo para todos os efeitos, validade oficial.
 
-###### Artigo 69.o
-
--Os alunos das c:colas  particulares  po<l,em  es.üar sujeitos  o pagarm.:nto  de p;"iü'd; mairícula, fre_ quência  e examc.
-
-- I
-
-^_?: As cscoJas partieulares  quc possuam  conrrai;os  cle 1ssoc:agtto ou,d,)-pi.-lroeínic  podrm conc(!1,:r  o riireiL,  í" r.engão  ou rcdução  dc propinis  a alu...cs,  d, u"oráo  oo* os subsídi os',r;,,bidos leieis  escola;;  ;;;i *r*"s 3  revist os rÀcrsc  contrâlo-
-
-#### Seeção  fV
-
-##### Da tr.ansfelôneia
-
-###### Âr;jg6 7g.o
-
-. I --É permitid.a  a triinsferôneia cl_,_-  :^.Ì-.,;ricula aes alünos entre c.icnlas  pr.ri;icular", "  ".ìr" r:.ri.,g  clcolrls públicas  e vici,.-ïcna.
+2 — Nos demais casos, observar-se-á o regime em vigor nas escolas públicas para os mesmos graus e níveis de ensino.
 
 [[END OF PAGE 9]]
 
@@ -1015,238 +882,206 @@ flf
 
 382
 
-DIÁR,IO  DA R,EPÚBT,TCÃ
+DIÁRIO DA REPÚBLICA
 
-- As escolas particule,res  dovsm i;ornâ.r públicas,
+3 — As escolas particulares devem tornar públicas, após cada período escolar, as classificações obtidas pelos alunos e comunicar anualmente ao Ministério tutelar da Educação, em termos globais, os resultados finais de aproveitamento.
 
-- 3 -a,pós  cac1.a  pcríod.o  escolar, as classificaçõrs obtid"as pclos *lunos e comunicar anualmenÌ;r:  ao lliinls-bório  i;u'i,elar da Ed.ucação,  cm  'bermos  glob:iis,  os rcsuluaclos  finais de aprovci'òamcni;o.
+4 — O critério e processos de avaliação dos cursos com planos próprios devem constar do respectivo regulamento.
 
-- 4 -O critério e proocssos  d+ ava.liação  dos  cursos com planos próprios dt'vern cons.Lar  do rcspcoLivo  rcgulamenlo,
+###### Artigo 77.º
 
-###### Ártigo 77.o
+Os alunos das escolas particulares, nos níveis de ensino sem autonomia ou paralelismo pedagógicos, dos ensinos primários, secundário básico, pré-universitário e superior são submetidos a provas de avaliação a nível nacional a regular por despacho ministerial.
 
-Os alunos das escolas  pari;ioulares,  nos níveis de ensino  scm aui,onornia ou paralclismo pcdagógicos, dcs ensinos  primârios, secuoc]-ário  básico.  pré-universitário e supcrioisão  submcjicl.os  â pÍoïÈ',.r cì,;  ar-aiiação  a nív;l ni,cional a regul.ar  por despa"eÌro minis:erie,l.
+###### Artigo 78.º
 
-###### ArLigo  Z8.o
+Em qualquer escola particular, os exames finais a aplicar são a nível nacional, os adoptados pelo Ministério tutelar da Educação.
 
-Em qualquer  es,cola pariicular,  os cxames finais a e,plicar  sã,o  i, nível  &acional,  cs e,clopbados pelo Minis-
+###### Artigo 79.º
 
-tério  i;u'i,cle,r  da Educação.
+Os resultados finais de avaliação dos alunos referidos no artigo anterior serão comunicados às Delegações distritais do Ministério de tutela ou às escolas públicas da área.
 
-###### Ari,igo 79.o
+#### Secção VII
 
-Os resultad-os  finais de avtrlie,ção  dos alunos  refcrid.os no a"r'tigo  ?rnterior serão  comunice,d.os  às  Delege,ç'ões distritais  do Ministério d.e i;urela ou às cscolas  públicas da área.
+##### Da acção disciplinar
 
-#### Secçã,o  VII
+###### Artigo 80.º
 
-##### Da acção  discil:linar
+A acção disciplinar dos alunos é exercida nos termos das normas gerais para a instituições do ensino.
 
-###### Artigo  80.o
+#### Secção VIII
 
-A acção  disciplir:ar  dos alunos é  exercid'a  nos termo$ das norma: getáis  pe,ra a instiôuições  do ensino'
+##### Dos Certificados e Diplomas
 
-#### Secção  VIII
+###### Artigo 81.º
 
-##### Dos Certificaúos  e SiPlenaas
+1 — Os certificados de matrícula, de aproveitamento, de habilitações bem como os diplomas de conclusão de curso dos níveis de ensino de escolas particulares com autonomia e paralelismo pedagógicos, bem como as escolas com cursos e planos próprios são passados pelas próprias escolas e autenticados pelos órgãos próprios do Ministério tutelar da Educação.
 
-###### Artigo  81.o
+2 — Os dos alunos dos níveis de ensino das escolas sem autonomia e paralelismo pedagógicos, são passados pela Delegação distrital ou escolas públicas da área onde foram apresentados os respectivos processos de matrícula.
 
-- I -Os certifice,dos  de matrícula, de aprovcitamenio, de ha"bili'ôa,ções bern como os diplomas de conclusão  de c,rrso d.os nír'eis de ensino cle escolas particulaics com autonomia c paralelismo  pedagógioos,  bcm como ir: cscolas com ctrrsos e planos próprios são  passad'os pelas próÌrriao cscolas e aúieni,icadco  pelos ór$ãos  próprios
+## CAPÍTULO VII
 
-- ão  jVIjni=1ório  i,utelir da llducação.
-
-- 2 -Os clos eJunos d,os níveis dc cnsino das escoìas sem âilionomi&  e paralelismo  p,ldagógicos,  são  passacìos pela' Delesação distriial  ou eicoles pírblicas d'a árca  ontìc fo rari .çtc's  + ni,ados os resp *ci'iv os p ro cessos  de ma ü ríc  ula"
-
-## CÁPíTULO  VN
-
-### Da fiscalinação  e da: sanções
+### Da fiscalização e das sanções
 
 #### Secção I
 
-##### Da publieidaüc
+##### Da publicidade
 
-###### Ar'üigo  82.o
+###### Artigo 82.º
 
-A pubÌiciClde da clcoli,s peurliculares d*;c rcspeitor n  gçã.,  a s {ignlciade  clri eicção  r;tlrrci:,iivâ,  visa:rclo uma inf,rrmação  cãrrecta,  conÌ  escrupuloso re:p';iio pela vcrdad.c.
+A publicidade de escolas particulares deve respeitar a ética e a dignidade da acção educativa, visando uma informação correcta, com escrupuloso respeito pela verdade.
 
-###### Aríigo 83.o
+###### Artigo 83.º
 
-- I -As escole,s  particulares  que violem  o dispos.üo  no ar'üigo  antclior cstão  sujr:ii;as às sanções previsias no artigo 87.o do presenuc  dipÌoma.
+1 — As escolas particulares que violem o disposto no artigo anterior estão sujeitas às sanções previstas no artigo 87.º do presente diploma.
 
-- 2 -As mcdidas d.iseiplinares serão aplieadas  pelo Ministério  d.c tutela mcd.iani;e  processo  de bransgressão.
+2 — As medidas disciplinares serão aplicadas pelo Ministério de tutela mediante processo de transgressão.
 
-#### Secção
+#### Secção II
 
-II
+##### Da cessação de funcionamento e da suspensão
 
-##### Ila eess*ção  de funeionaÍneï?to e da suspensão
+###### Artigo 84.º
 
-###### Artigo 84.o
+1 — O encerramento das escolas particulares pode ocorrer por infracção ao disposto na presente Lei ou a pedido dos titulares da autorização de funcionamento.
 
-- f -O enccrrarnsnio de,s cscole,s  pa,rticulares pod.e ocorreí por infra,cção  ao dispos'ôo  na prcseat,e Lci ou a pc-liilo clos  tiiulares  da au'i;orização.d.e funcionamento.
+2 — As escolas podem também requerer a substituição de níveis de ensino ou de cursos, bem como a sua extensão ou cessação.
 
-- 9 -Ás  c;crias pcclem ta:nbém requerer  a substituição cì.e  níi-cis  cl,;  ,-'rsino  ou dc cursos. bera como e, suar oxtensão  ou cc.ss-r,cão.
+3 — O requerimento deve dar entrada no Ministério tutelar da Educação até 31 de Março de cada ano, visando o ano escolar seguinte.
 
-- 3-O requcrimcnio  dere dar cn'i,rada no Ministério tuoelar  da Educaqãcr  ai;é  3l dc Me,rço  d.s cada ano, visand.o  o ano c.,scolar seguinte.
+###### Artigo 85.º
 
-###### Artigo s5.o
+1 — As escolas particulares não podem suspender o seu funcionamento, salvo casos de força maior devidamente fundamentados.
 
-- I-As escôlas particularcs não  pcdem ruspcnd.cr  o seu funcionamento,  salvo casos  de Í'orça maior devida-
+2 — O período de suspensão, nos termos do número anterior, será de imediato comunicado ao Ministério tutelar da Educação que, se reconhecer de autorizar, fixará à respectiva escola particular, a data do início e do termo da suspensão.
 
-- mcn'ie fundamcni,ad  os.
-
-- 2 -O pcríod.o de suspcnsão,  nos  "Lermos  d-o número an'ücri  or, será  de imeCiai;o  comunicailo  a,o Minlstério tu"üelar  da Educe,ção  que, sc reccnhecer de au'üorizar, fi.xaré, à  respecri'ra  e$cole,  particular,  a c1a ta do início  e d.o termo d-a slspcnsã.o.
-
-- 3 --4, suspe*são não  autorizaCa, d.e cursos ou níveis de ensino  es.üá  sujeiüa  às sanções  prerisi;as  no artigo  87.o desi,a  lei.
+3 — A suspensão não autorizada de cursos ou níveis de ensino está sujeita às sanções previstas no artigo 87.º desta lei.
 
 #### Secção III
-##### tr)e,s  S*,nções
-###### A*igo se.o
 
-- I -São  cland.estinas  as escolens pari,iculares  que não possuâm r,utorização  dc funcionp,mcirlo.
+##### Das Sanções
 
-- 2 -A fntpcoção  da Eilucaçã,o  devc solicite,r às e,utoride,dcs  ird"mi niscra.iivas  c policiais  comprte  ntes  o encer' râ,mcníjo  rlas escolas  clandesüinas,  depois d.c ouvido o CÜCEPAC.
+###### Artigo 86.º
 
-###### Artigo 8z.o
+1 — São clandestinas as escolas particulares que não possuam autorização de funcionamento.
 
-- I -As cntidad.es proprie'i,árias  das escol&s  pt,rticulares quc violem o clispìs.tã  resi,a lei, poctrcm ser ?,plics,das, pelo Mrnistério i;utelar  da Ed,uce,ção,  as seguintc$ sr,n-
+2 — A Inspecção da Educação deve solicitar às autoridades administrativas e policiais competentes o encerramento das escolas clandestinas, depois de ouvido o COCEPAC.
 
-- çõcs  de i,cordo coú  a ne*ureza e e, gtavidade de. vioÌagão,
+###### Artigo 87.º
 
-- a,) Adverüêncir.;
+1 — As entidades proprietárias das escolas particulares que violem o disposto nesta lei, podem ser aplicadas, pelo Ministério tutelar da Educação, as seguintes sanções de acordo com a natureza e a gravidade da violação,
 
-- ó/ Multa no  v&lor  cnt,rc DJrs. l0 000,00 à
+a) Advertência;
 
-- Dbs.  100 000,00;
+b) Multa no valor entre Dbs. 10 000,00 à Dbs. 100 000,00;
 
-- c,) Encerramenio  da escola por período do aió dois
+c) Encerramento da escola por período de até dois anos;
 
-- a  ncÍi;
+d) Encerramento definitivo.
 
-- cíJ  Encerrarnen':;o  deÍìrìiivo.
-
-- 2-A r,:T1icr.l,ão  eli'l sanções  prevlsí,as  nas a'!írrca,: ó i, c) e d,) rlr r,ri:5;c:ln';çri.or  é  f,:iui' rncciian'üc  o parccer  c1CCCEP""C.
+2 — A aplicação das sanções previstas nas alíneas b), c) e d) do artigo anterior é feita mediante o parecer do COCEPAC.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-NÚMEP.O  1?-3I DE DEZEMBR  o DE 1993
+NÚMERO 17 — 31 DE DEZEMBRO DE 1993
 
-883
+383
 
-.q#
+3 — Aos directores pedagógicos, podem ser aplicadas, pelo Ministério tutelar, as seguintes sanções;
 
--
+a) Advertência;
 
-t
+b) Multa no valor entre Dbs. 5 000,00 à Dbs. 50 000,00;
 
--l
+c) Suspensão de funções por período de um mês a um ano;
 
-I
+d) Proibição definitiva do exercício de funções de direcção.
 
-I
+4 — As escolas clandestinas, além do encerramento, ser-lhes-á aplicada, pelo Governo, multa que vai de Dbs. 20 000,00 a Dbs. 200 000,00.
 
-,,
+5 — A ameaça de castigo ou pena cominação de sanções será objecto de regulamentação específica, a definir pelo Governo.
 
-f  lrit\.
+#### Secção IV
 
-I
+##### Da documentação das Escolas Encerradas
 
-I
+###### Artigo 88.º
 
--3  -_Aos'dircctores pedagógicos,  podem ser aplicadas, pelo Ministério tutcle,r; as scguinÈes  sançõts;
+1 — Quando uma escola particular encerrar, deve entregar a sua documentação fundamental na delegação distrital do Ministério de tutela ou na escola pública da área.
 
-- c,) Advor'üência;
+2 — Deve-se entender por documentação fundamental a respeitante a livros de matrícula ou inscrições, processos dos alunos, contratos de serviços docentes, processo de professores e do pessoal auxiliar e escritura da escola.
 
-- ôj M'rl'"a no valor en{,re  Dbs.  5 000,00  à Dbs.  50 000,00;
+## CAPÍTULO VIII
 
---c/.suspcnsão dc funçõcs  por pcríodo dc um môs  a um ano;
+### Disposições Finais e Transitórias
 
--d') ?rolbição  dorlaióiva  do exeroício de funções  de direcção.
+#### Secção I
 
-# S{}IqSETH{} DE MIIìIISTROS
+##### Das disposições finais
 
-## Decreio-Lei  n.o 80/93
+###### Artigo 89.º
+
+As dúvidas resultantes de aplicação da presente lei e os casos omissos serão resolvidos por decreto do governo.
+
+###### Artigo 90.º
+
+1 — Serão reguladas em diploma próprio as questões relativas a subsídios ou outros benefícios de natureza financeira e fiscal.
+
+###### Artigo 91.º
+
+Fica revogada toda a legislação anterior que contrarie os princípios e normas expressos nesta lei.
+
+#### Secção II
+
+##### Das disposições transitórias
+
+###### Artigo 92.º
+
+A aplicação da presente lei é feita conforme se revele adequado e de modo gradativo.
+
+Assembleia Nacional em S. Tomé, aos 26 de Agosto de 1993. — O Presidente da A. N., Leonel Mário d' Alva.
+
+Promulgada em 23 de Dezembro de 1993.
+
+Publique-se.
+
+O Presidente da República, Miguel Anjos da Cunha Lisboa Trovoada.
+
+# CONSELHO DE MINISTROS
+
+## Decreto-Lei n.º 80/93
 
 ### Preâmbulo
 
-- o_presente  ?roj--cto  ce Lei orgânica  do Minirtério dos Negóci,.''s  Estiargeiros  visa frrídame,rtalmente  d.efi:rir  a -cc_mp-'tê.raia dests  Orga:rismc  da. Admi$slração Central do Ï.ctado.
+O presente Projecto de Lei Orgânica do Ministério dos Negócios Estrangeiros visa fundamentalmente definir a competência deste Organismo da Administração Central do Estado.
 
-4-Ás oscotra"s  clandesiinas, s,!ém  do cncerrâ,mento, Seetor charneira  rlo i,pr,relho  Central  do Estado no ser-lher-á  apÌica*i,,  pclo Gov,;iao, mulra  quu "ìi aá  que se atérn ac relacicni,metito  com s eomunid,i,dc  interDbs. 20 OOObo a Ofri. 200  000,00. --  a-na,cional,  cleve c.'.ber  ro Mi,tistério  dos Negócios  Estran-5-Á ameâ?a  de casr:gou  pena cominação  de sa,n- fft'J,:i;i*ï;:  ;:"'j*:,tï  SJ-,fff.ïi*:J"*-ffi#J ções  s^erá  objccto  de regulamen;ação  cspecífi.ca, a. defi,nir  recursor;  dirpo;ríveis  e nôr  cc,bro a eventuais sobro_ pu.lo  Govcrro. posicõeÍI  de corn-peiêucie,l
+Sector charneira do aparelho Central do Estado no que se atém ao relacionamento com a comunidade internacional, deve caber ao Ministério dos Negócios Estrangeiros a efectiva coordenação das acções inerentes a tal relacionamento, de modo a se rentabilizar os poucos recursos disponíveis e pôr cobro a eventuais sobreposições de competência.
 
-#### Secção  fV
+Em conformidade com esta competência, estruturou-se este Ministério em serviços centrais e externos.
 
-##### I)a doeumentação  ilas Esaolas Encerrr,ilas
+Os serviços centrais foram estruturados principalmente no sentido de controlar a política externa do País e atender às Representações Diplomáticas, Consulares e Organizações Internacionais, acreditados junto do Governo de São Tomé e Príncipe.
 
-###### Ari;igo 8B.o
+Relativamente aos serviços externos a sua estruturação visa assegurar a prossecução da actividade externa do País.
 
-- I  .-Quand,o  umâ c.lcola  1.ra.ríicular "ose11st, d,cre entrtgar  a sua documeeïação fundamenral aa d,,.iegação dislrita,l  do Minis-i.ério  de  iulela ou nê  escola públìia-da área.
+A questão do pessoal mereceu igualmente uma atenção particular neste Projecto de Lei Orgânica porque vislumbrou-se a criação de um quadro que assegure com eficiência o desempenho das funções do Ministério dos Negócios Estrangeiros.
 
-- 2 -D eve-s  e eat errder p or doc um eaiação  fund ameqtal a rcspeitanie  a livros de ma.brícula ou inscrições,  processos dos alunos,, coaira'i;os  de serri'ços docca;c;, processo de profcssorcs  Ë  d o pessoal  guriliai e escriiura dã  escola.
+Assim, o Ministério dos Negócios Estrangeiros poderá garantir a dinâmica exigida na gestão das relações externas e orientar o relacionamento com o exterior de acordo com os grandes objectivos do desenvolvimento económico e social de São Tomé e Príncipe.
 
-## CÂPíTULO  VIII
+### Decreto
 
-### Disposições  Finr,ls e Tr.ansitôrias
+Tornando necessário adoptar a Orgânica do Ministério dos Negócios Estrangeiros, de forma a garantir a dinâmica na gestão das relações externas da República Democrática de São Tomé e Príncipe.
 
-##### Das ilisposiçõos finais
+Nestes termos;
 
-###### Ari;igo 89.o
+Usando da faculdade conferida pelo artigo 99.º, alínea c), da Constituição Política, o Governo da República Democrática de São Tomé e Príncipe, decreta e eu promulgo o seguinte:
 
-Âs dúvidas resultantcs  de aplicação  da, presente lei e os ca,sos ornissos  serão  resolvidos  por dccretã  do governo.
+### CAPÍTULO I
 
-###### Ariigo 90'o
+#### Artigo 1.º
 
--I  Serão  r_cgulad.as em d.iploma próprio  as questões relativas a subsídios ou cutros benefÍcios  de nãtureza fi,nanceira e fi,scel.
+##### Disposições gerais
 
-###### Àr'rigo  9l.e
-
-ï'ica  revogaCa toda a legislação  anterior que oontrarie os princípios  e normas expressos nes,cL lei.
-
-#### Seoção  ff
-
-##### o* u'"ï:ï:lï"1ïn'"'*'
-
-Â aplicagão  d.a presen*c  lci é  fcita oonforrne  se revele adequàdo  e de modo g:adativo.
-
-Ass^mblcla  Nalional  nm  S Tomó, aos 2G de Ágosio  de Ì993. -O Presidenic  da  A N., Lecne! Miri,o d: Alua.
-
-fromulgad*  crn ?3 d,.: Dczembro d.e tgg3.
-
-e,rttiq,r"-u".
-
-- O Presidente da Rep'i5lica,  lÍrçucr, Ársror  D^ CïrÍE^
-
-- Lrrror Tx,ovoeo.r.
-
-Em copformid-ad,e  com esta competêgaia,  estruturou-se este Ministério cm serviços  centrais  e externos.
-
-Os serriçcs centrais f{,râm  estruturad,os pri:rcipalmerrt: :ro seritido de ct,:lt:r,Iar  a políticti  externJ d.o l.-,ís  e ;terder às B  .prese:rtl,çõss D-ilihirrátjcgs, Ct,rìgut3*: " Organizaqoes  fnt:rnacionaisf  acreditados  junto dú  Goçerlo de Sào Tamé e Prí:rcip;.
-
-Relativamente  aos serviços  externos  & süÊ,  es{,ruturagão  visa asseguri r a porisecução  da actividado extcrna d,o País.
-
-À  questão  d.o pessoil  mê,reccìl igualmente  uma atenção particular  neste Projecío d.e Lei Orgânica  porque  vietúbr(,u-Íie r, criaçãn  d,e um qur,dro clue i,ssegure  c{,rn eficiência c d,esempenlro  d,as funções  do MiniÀtério dos Negó. cios  Estrangeiros.
-
-Âsoim, o Ministério d-os Negóaios  Esürangeiros  pod,erá garr,utir  a dilâmica  exigidr,  na  gestão  dcs rõli,çõeo oxl,ernas  e orientiir o rc'li;ciorlamento  com o exterir,i clo acordo com os grrndes  c,bjectivot  d.o d"esenvolvimenüo económico e social de São  Tcmé e Príncipe.
-
--
-
-### I)ecreúo
-
-Tornando  necessário  adoptar a Orgânica  do Minis. tdrio dos Negócios  Estrangãiros,  d.e iorma & g?,rõ!,tir e,.dinâmica  na gestão  das relições  exeúnas  de, Rã5rúblic* Democrática  de São  Tomé e  Príncipe.
-
-Nestes tcrmos;
-
-Use,lrdo  da faculdade conferide. pelo arüigo,gg.o,  alí. neo c,), da, Cc.rrstituição  Folítica, o Gãver.no  dã  RepriÍrtica Democli,liça  de Sãó  Tumé e Príricipo, d,ocreta uãupromulgo o scguinte:
-
-### CAPÍTULO  I
-
-#### Àrtigo  1'o
-
-##### Disgrosições gorais
-
-Cornpete r,o Ministério dos Negócios  Estrangeiror execul,íìr  e ccrrtrtrl,r c. lrilíticii  exterira d-o  Estado,  mohilizl,r recursr,s externJ em a,poio i,o d.esesvolvimento ilario31aì, i,$Í]egürur  i, represeìrtr,ção  naeional  junto a (ìutr(,s  Estac'!:.,,s  e Orgr,:liza,ções fnternaciírni,;s e r,talder ;s Scpresent ;lçõcs  Diptt,mát!ci;,.1,  Collsuli,rer, e O rga,:tizjgões  fnterrraí]ionai,; .,creC,'tad.as  ju$tu  Cl, F.i-púiJhca Dumoorátic;,  cis São  Tr,mé  e Prínci1ie.
-
-)
+Compete ao Ministério dos Negócios Estrangeiros executar e controlar a política externa do Estado, mobilizar recursos externos em apoio ao desenvolvimento nacional, assegurar a representação nacional junto a outros Estados e Organizações Internacionais e atender às Representações Diplomáticas, Consulares e Organizações Internacionais acreditadas junto da República Democrática de São Tomé e Príncipe.
 
 [[END OF PAGE 11]]
