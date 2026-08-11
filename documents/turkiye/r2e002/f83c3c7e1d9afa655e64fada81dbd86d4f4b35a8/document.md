@@ -36,19 +36,19 @@ Mecburi öğretim çağında olup da, memleket dışında olmak, oturduğu yerde
 
 İlköğretim kurumları şunlardır:
 
-- Mecburi olanlar:
+a) Mecburi olanlar:
 
-(Mülga: 16/8/1997 - 4306/9 md.)
+(1) (Mülga: 16/8/1997 - 4306/9 md.)
 
-- İlköğretim okulları (gündüzlü, pansiyonlu, yatılı ilköğretim okulları ve gezici okullar),
+(2) İlköğretim okulları (gündüzlü, pansiyonlu, yatılı ilköğretim okulları ve gezici okullar),
 
-(Mülga: 16/8/1997 - 4306/9 md.)
+(3) (Mülga: 16/8/1997 - 4306/9 md.)
 
 ----------
 
 (1)    a) 12/10/1983 tarih ve 2917 Sayılı Kanunun Ek 1 inci maddesi gereğince bu Kanunda geçen "ilköğretim müdürü" deyimi "ilçe eğitim müdürü", "öğretmenevi" deyimi "öğretmen lojmanı" olarak değiştirilmiş olup Kanun metnine işlenmiştir.
 
-> b)  Bu  Kanunda  birlikte  veya  ayrı  ayrı  geçen  "İlkokul'  ve  "ortaokul"  ibareleri,  16/8/1997  tarih  4306 sayılı Kanunun 8 inci maddesiyle "İlköğretim okulu" olarak değiştirilmiş ve metne işlenmiştir.
+b) Bu Kanunda birlikte veya ayrı ayrı geçen "İlkokul” ve "ortaokul" ibareleri, 16/8/1997 tarih 4306 sayılı Kanunun 8 inci maddesiyle "İlköğretim okulu" olarak değiştirilmiş ve metne işlenmiştir.
 
 [[END OF PAGE 1]]
 
@@ -61,7 +61,8 @@ Mecburi öğretim çağında olup da, memleket dışında olmak, oturduğu yerde
 İlköğretim; 1 inci maddede belirtilen amacı gerçekleştirmek için kurulmuş dört yıl süreli ve zorunlu ilkokul ile dört yıl süreli ve zorunlu ortaokuldan oluşan bir Milli Eğitim ve Öğretim Kurumudur.
 ### Madde 8 - (Mülga: 16/8/1997 - 4306/9 md.)
 ### Madde 9 - (Değişik: 12/10/1983 - 2917/3 md.)
-(Değişik birinci fıkra: 30/3/2012 - 6287/3 md.) İ lk öğ r e t im   k u r u m la r ı n ı n   ilk o k u l ve ortaoku l olarak b a ğı ms ı z  o k u lla r   h â lin d e   k u r u lm a s ı e s a s t ı r .  An ca k   im k â n ve ş ar t la r a g ö r e ortaoku llar , ilkoku llar la veya liseler le b ir lik t e d e ku r u la b ilir . (Mülga ikinci fıkra: 16/8/1997 - 4306/9 md.)
+(Değişik birinci fıkra: 30/3/2012 - 6287/3 md.) İlköğretim kurumlarının ilkokul ve ortaokul olarak bağımsız okullar hâlinde kurulması esastır. Ancak imkân ve şartlara göre ortaokullar, ilkokullarla veya liselerle birlikte de kurulabilir.
+(Mülga ikinci fıkra: 16/8/1997 - 4306/9 md.)
 
 Nüfusun az veya dağınık olduğu yerlerde; köyler gruplaştırılarak, merkezi durumda olan veya  durumu  uygun  bulunan  köylerde  ilköğretim  bölge  okulları  ve  bunlara  bağlı  pansiyonlar, gruplaştırmanın mümkün olmadığı yerlerde ise yatılı ilköğretim bölge okulları veya gezici okullar açılabilir. Gezici okullarda gezici öğretmenler görevlendirilir. Bu okullarda yetiştirici sınıflar ve kurslar da açılabilir. Şehir ve kasabalarda, ihtiyaca göre yatılı veya pansiyonlu okullar kurulabilir.
 ### Madde  10
@@ -89,7 +90,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ### Madde 14 - (Değişik: 12/10/1983 - 2917/4 md.)
 
-(...) (1) İ lkoku llar ve or t a o k u lla r b ir lik t e veya ayr ı olu ş la r ı n a , büyüklüğüne, (2)  anasınıfları ve özel eğitim sınıflarının bulunuşuna göre, ilköğretim kurumlarında aşağıdaki görevliler bulunur:
+(...) (1) İlkokullar ve ortaokullar birlikte veya ayrı oluşlarına, büyüklüğüne,(2) anasınıfları ve özel eğitim sınıflarının bulunuşuna göre, ilköğretim kurumlarında aşağıdaki görevliler bulunur:
 
 a) Müdür ve müdür yardımcıları,
 
@@ -128,7 +129,7 @@ Ancak, bu iki aylık izin sürelerine dokunulmadan kalan tatil zamanlarında yö
 
 b)  Tek  öğretmenli  okullarda  görevli  öğretmenlerin  yaz  tatili  izinleri,  bölge  ilköğretim müfettişleriyle,  İlçe  eğitim  müdürü  tarafından  okul  ve  kurumların  korunması  da  gözönünde tutularak ayarlanır.
 
----------c)  Okul  müdürleriyle  müdür  yardımcıları  tatil  aylarında  okul  işlerini  ayarlamak  ve düzenlemek şartı ile, sıra ile izinlerini kullanırlar.
+——————————
 
 (1) Bu fıkrada yer alan "İlkokul  ve ortaokulların birlikte veya ayrı oluşlarına" ibaresi; 16/8/1997 tarih ve 4306 sayılı Kanunun 9 uncu maddesi ile yürürlükten kaldırılmış olup, metinden çıkarılmıştır.
 
@@ -141,6 +142,8 @@ b)  Tek  öğretmenli  okullarda  görevli  öğretmenlerin  yaz  tatili  izinle
 [[START OF PAGE 4]]
 
 3582
+
+c) Okul müdürleriyle müdür yardımcıları tatil aylarında okul işlerini ayarlamak ve düzenlemek şartı ile, sıra ile izinlerini kullanırlar.
 
 ### Madde 44 -
 Öğretmenler kanunlarla veya Cumhurbaşkanlığı kararnameleriyle kendilerine verilen işlerden başka, meslek dışı her hangi bir görevle yükümlü tutulamazlar.  (1)
@@ -179,15 +182,7 @@ Her  yıl  Eylül  ayının  üçüncü  haftası  "İlköğretim  haftası"  d�
 ### Madde  52
 Her  öğrenci  velisi  yahut  vasisi  veya  aile  başkanı  çocuğunun  mecburi ilköğretim  kurumuna  muntazaman  devamını  sağlamakla  ve  özrü  yüzünden  okula  gidemiyen çocuğun durumunu en geç üç gün içinde okul idaresine bildirmekle yükümlüdür.
 
-------------- Mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı ilköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamakla veli yahut vasi veya aile başkanlarına ve okul idarelerine yardımla ve her türlü tedbiri almakla vazifelidirler.
-### Madde 53 - (Değişik: 12/10/1983 - 2917/7 md.)
-Okula devam etmeyen öğrencilerin devamsızlık sebepleri okul idarelerince ve ilköğretim müfettişlerince  araştırılarak  devama  engel  olan  maddi  ve  manevi  sebeplerin  giderilmesine çalışılır.  Bu  sebeplerin  giderilmesi  mümkün  olmadığı  takdirde  durum,  köylerde  muhtara,  diğer yerlerde mülki amirlere bildirilir. Bu makamlarca gerekli tedbirler alınır. Okul idareleriyle muhtar ve mülki amirlerin bu vazifeleri devamsız öğrenciler hakkındaki kovuşturmanın her safhasında devam eder.
-### Madde 54
-55 inci maddenin ikinci fıkrasında yazılı zorlayıcı sebepler dışında çocuğun ailesi yanında kalmasını gerektiren ailede ölüm, yaralanma, düğün, askere gitme, bağ, bahçe, tarla ve  sürüde  tarım  ve  hastalık  savaşı  yapılması  gibi  sebeplerle  öğrencilere  bir  yıl  içinde  15  günü geçmemek üzere okul idarelerince izin verilir.
-### Madde 55 - (Değişik: 12/10/1983 - 2917/8 md.)
-Hastalık, sel, kar, deprem ve yangın gibi okul idaresince takdir edilecek sebeplerle okula gelemeyen  öğrenciler  izinli  sayılırlar.  Bu  hallerin  dışında  53  üncü  madde  gereğince  yapılacak teşebbüs ve alınacak tedbirlere rağmen; a) Çocuğunu okula göndermeyen; b) Verilen izin müddetini geçiren; c) Geç nakil yaptıran; d) Okul çevresi dışına çıkarak izini kaybettiren; e) Çocuğunun  devamsızlık durumunu  özürsüz olarak zamanında okul idaresine bildirmeyen; Öğrencinin veli veya vasi veya aile başkanları, okul idaresince köylerde muhtarlığa, diğer yerlerde  mülki  amirliğe  hemen  bildirilir.  Muhtarlar  ve  mülki  amirler  en  geç  üç  gün  içinde durumun veli veya vasi veya aile başkanlarına tebliğini sağlarlar. (Değişik son cümle: 24/4/20034854/1  md.) Yapılan  tebliğde  okulca  kabul  edilecek  geçerli  sebepler  dışında  çocuğun  okula gönderilmemesi hâlinde idarî para cezasıyla cezalandırılacağı bildirilir.
-### Madde 56 - (Değişik: 23/1/2008-5728/282 md.)
-Muhtarlıkça veya mülkî amirce yapılan tebliğe rağmen çocuğunu okula göndermeyen veli veya  vasiye  okul  idaresince  tespit  edilen  çocuğun  okula  devam  etmediği  beher  gün  için  onbeş Türk Lirası idarî para cezası verilir. Bu para cezasına rağmen çocuğunu okula göndermeyen veya göndermeme  sebeplerini  okul  idaresine  bildirmeyen  çocuğun  veli  veya  vasisine  beşyüz  Türk Lirası idarî para cezası verilir.
+–––––––––––––
 
 (1) 2/7/2018 tarihli ve 700 sayılı KHK'nin 47 nci maddesiyle, bu maddede yer alan 'kanunlarla' ibaresinden sonra gelmek üzere 'veya Cumhurbaşkanlığı kararnameleriyle' ibaresi eklenmiştir.
 
@@ -196,6 +191,38 @@ Muhtarlıkça veya mülkî amirce yapılan tebliğe rağmen çocuğunu okula gö
 [[START OF PAGE 5]]
 
 3583
+
+Mülki amirler, ilköğretim müfettişleri ve zabıta teşkilatı ilköğrenim çağındaki çocukların mecburi ilköğretim kurumlarına devamlarını sağlamakla veli yahut vasi veya aile başkanlarına ve okul idarelerine yardımla ve her türlü tedbiri almakla vazifelidirler.
+
+### Madde 53 - (Değişik: 12/10/1983 - 2917/7 md.)
+
+Okula devam etmeyen öğrencilerin devamsızlık sebepleri okul idarelerince ve ilköğretim müfettişlerince araştırılarak devama engel olan maddi ve manevi sebeplerin giderilmesine çalışılır. Bu sebeplerin giderilmesi mümkün olmadığı takdirde durum, köylerde muhtara, diğer yerlerde mülki amirlere bildirilir. Bu makamlarca gerekli tedbirler alınır.
+
+Okul idareleriyle muhtar ve mülki amirlerin bu vazifeleri devamsız öğrenciler hakkındaki kovuşturmanın her safhasında devam eder.
+
+### Madde 54
+
+55 inci maddenin ikinci fıkrasında yazılı zorlayıcı sebepler dışında çocuğun ailesi yanında kalmasını gerektiren ailede ölüm, yaralanma, düğün, askere gitme, bağ, bahçe, tarla ve sürüde tarım ve hastalık savaşı yapılması gibi sebeplerle öğrencilere bir yıl içinde 15 günü geçmemek üzere okul idarelerince izin verilir.
+
+### Madde 55 - (Değişik: 12/10/1983 - 2917/8 md.)
+
+Hastalık, sel, kar, deprem ve yangın gibi okul idaresince takdir edilecek sebeplerle okula gelemeyen öğrenciler izinli sayılırlar. Bu hallerin dışında 53 üncü madde gereğince yapılacak teşebbüs ve alınacak tedbirlere rağmen;
+
+a) Çocuğunu okula göndermeyen;
+
+b) Verilen izin müddetini geçiren;
+
+c) Geç nakil yaptıran;
+
+d) Okul çevresi dışına çıkarak izini kaybettiren;
+
+e) Çocuğunun devamsızlık durumunu özürsüz olarak zamanında okul idaresine bildirmeyen;
+
+Öğrencinin veli veya vasi veya aile başkanları, okul idaresince köylerde muhtarlığa, diğer yerlerde mülki amirliğe hemen bildirilir. Muhtarlar ve mülki amirler en geç üç gün içinde durumun veli veya vasi veya aile başkanlarına tebliğini sağlarlar. (Değişik son cümle: 24/4/2003-4854/1 md.) Yapılan tebliğde okulca kabul edilecek geçerli sebepler dışında çocuğun okula gönderilmemesi hâlinde idarî para cezasıyla cezalandırılacağı bildirilir.
+
+### Madde 56 - (Değişik: 23/1/2008-5728/282 md.)
+
+Muhtarlıkça veya mülkî amirce yapılan tebliğe rağmen çocuğunu okula göndermeyen veli veya vasiye okul idaresince tespit edilen çocuğun okula devam etmediği beher gün için onbeş Türk Lirası idarî para cezası verilir. Bu para cezasına rağmen çocuğunu okula göndermeyen veya göndermeme sebeplerini okul idaresine bildirmeyen çocuğun veli veya vasisine beşyüz Türk Lirası idarî para cezası verilir.
 
 [[END OF PAGE 5]]
 
@@ -254,7 +281,7 @@ Bunların  ve  bu  Kanunun  yürürlüğe girdiği tarihten önce  yapılmış o
 
 4274 ve 5129 sayılı kanunlarla şimdiye kadar köy okullarına tahsis edilmiş olan Devlete veya köye ait nizasız ve ihtilafsız topraklarla bu Kanuna göre sağlanacak topraklar, köy ihtiyar heyetinin kararı ve illerde valinin, ilçelerde kaymakamın tasdiki ile köy ihtiyar heyetince imece vesair suretlerle işletilir veya kiraya verilir. Elde edilen gelir, okul ihtiyaçlarına sarfedilmek üzere, köy bütçelerine gelir kaydedilir.
 
----------- Paralı  veya  parasız  olarak  ilköğretim  hizmetlerine  tahsis,  temlik  ve  tescil  edilen  bütün gayrimenkullerin ferağ ve intikal işlemleriyle bu işlemlerle ilgili olarak düzenlenecek belgelerden ve senetlerden hiçbir vergi, harç ve resim alınmaz.
+——————————
 
 (1)    Bu bölümün uygulanmasında ek 2 nci maddeye bakınız.
 
@@ -263,6 +290,8 @@ Bunların  ve  bu  Kanunun  yürürlüğe girdiği tarihten önce  yapılmış o
 [[START OF PAGE 8]]
 
 3586
+
+Paralı veya parasız olarak ilköğretim hizmetlerine tahsis, temlik ve tescil edilen bütün gayrimenkullerin ferağ ve intikal işlemleriyle bu işlemlerle ilgili olarak düzenlenecek belgelerden ve senetlerden hiçbir vergi, harç ve resim alınmaz.
 
 ### Madde  67
 Köy  okullarına bitişik öğretmen lojmanlariyle müstakil öğretmen lojmanlarının dolayında her ev için 500 ila 1000 metre karelik bir arazi, öğretmen bahçesi olmak üzere okul arsasından veya uygulama bahçesinden yahut okula gelir sağlıyacak araziden ayrılır. Öğretmenler, bu bahçelerden parasız faydalanırlar; fakat kiraya veya ortaklığa veremezler.
@@ -299,9 +328,7 @@ Tarifelerde  yapılacak  indirme,  her  yıl  Milli  Eğitim  ve  ilgili  bakanl
 
 Ayrıca,  iller  emrinde  bulunan  teşekküllere  ait  çeşitli  nakil  vasıtalarından  gereğine  göre faydalanılır.
 
---------
-### Madde 74
-Okul ve öğretmen lojmanlarının onarımı ile teçhizat, mefruşat ve öğretim araç ve gereçlerinin yapımında Milli Eğitim Bakanlığı teknik öğretim müesseselerinden faydalanırlar.
+————————
 
 (1)    Bu bölümün uygulanmasında ek 2 inci maddeye bakınız.
 
@@ -310,6 +337,9 @@ Okul ve öğretmen lojmanlarının onarımı ile teçhizat, mefruşat ve öğret
 [[START OF PAGE 9]]
 
 3587
+
+### Madde 74
+Okul ve öğretmen lojmanlarının onarımı ile teçhizat, mefruşat ve öğretim araç ve gereçlerinin yapımında Milli Eğitim Bakanlığı teknik öğretim müesseselerinden faydalanırlar.
 
 ### Madde 75
 Okul  yapımı  ve  donatımı  işlerinde  yardım  ve  hizmetleri  değerlendirmek, inşaatın ucuza maledilmesi amaciyle;
@@ -349,9 +379,7 @@ j)  Sözleşmeler  gereğince  kısmen  veya  tamamen  yerine  getirilmiyen  oku
 
 Bütçelerine yukarda yazılı oranlarda ilköğretim ödeneği koymamış olan idareler, belediye ve köyler için bu ödenekler; bütçeleri inceleme ve onamaya yetkili makamlar tarafından doğrudan doğruya konur; bu ödeneklerin mali yıl başında özel idarelere yatırılması sağlanır.
 
-----------
-### Madde 77
-76  ncı  maddenin  (a)  fıkrası  gereğince  Milli  Eğitim  Bakanlığı  bütçesinde açılacak  özel  fasıla  gelecek  yıllara  geçici  taahhütler  ve  masraflar  karşılığı  olarak  ilk  on  sene (1961-1971) Devlet gelirlerinin % 3 ünden ve ondan sonraki yıllarda ise % 2 sinden az olmamak üzere, ödenek konulur. Bu ödeneklerle diğer giderlerin % 70 i munhasıran 78 inci maddenin (a) fıkrasında yazılı işlere, % 30 u ise aynı maddenin (b) fıkrasında gösterilen ihtiyaçlara sarf edilir. Milli Eğitim Bakanlığınca genel bütçeden yapılacak yardımlar tesbit olunacak programa göre İl Özel İdarelerine dağıtılır veya Bayındırlık Bakanlığı bütçesine aktarılır.
+——————————
 
 (1)    Bu bölümün uygulanmasında ek 2 nci maddeye bakınız.
 
@@ -360,6 +388,9 @@ Bütçelerine yukarda yazılı oranlarda ilköğretim ödeneği koymamış olan 
 [[START OF PAGE 10]]
 
 3588
+
+### Madde 77
+76 ncı maddenin (a) fıkrası gereğince Milli Eğitim Bakanlığı bütçesinde açılacak özel fasıla gelecek yıllara geçici taahhütler ve masraflar karşılığı olarak ilk on sene (1961-1971) Devlet gelirlerinin % 3 ünden ve ondan sonraki yıllarda ise % 2 sinden az olmamak üzere, ödenek konulur. Bu ödeneklerle diğer giderlerin % 70 i munhasıran 78 inci maddenin (a) fıkrasında yazılı işlere, % 30 u ise aynı maddenin (b) fıkrasında gösterilen ihtiyaçlara sarf edilir. Milli Eğitim Bakanlığınca genel bütçeden yapılacak yardımlar tesbit olunacak programa göre İl Özel İdarelerine dağıtılır veya Bayındırlık Bakanlığı bütçesine aktarılır.
 
 Milli  Eğitim  Bakanlığı  gerekli  gördüğü  takdirde  bu  ödeneklerden  bir  kısmını  84  üncü maddede  yazılı  esaslar  dahilinde  doğrudan  doğruya kullanabilir ve ayniyat halinde illere gönderebilir.
 
@@ -539,8 +570,6 @@ Bu Kanunun mali hükümleri 1 Mart 1961 tarihinde, tayinle ilgili işleri 28 Şu
 Bu Kanunu Bakanlar Kurulu yürütür.
 ## 10 yılda yeniden yapılacak ve açılacak şehir, kasaba ve köy ilköğretim okullarının bugünkü rayice göre ortalama maliyetini gösterir plan
 
-181 040 000
-
 Yıllar | Şehir okulu | Köy okulu | Toplam | İnşa ve tesis için gerekli en az ödenek
 --- | --- | --- | --- | ---
 1961 | 240 | 1 770 | 2 010 | 183 000 000
@@ -577,26 +606,27 @@ Toplam | 2 388 | 17 702 | 20 090 | 1 828 040 000
 
 ## 222 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 
-Değiştiren Kanunun/ KHK'nin Numarası | 222 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+Değiştiren Kanunun/ KHK’nin Numarası | 222 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 --- | --- | ---
-308 | 3/6/1961
-353 | 25/8/1961
-68 | 13/7/1962
-574 | 17/4/1965
-655 | 20/7/1965
-693 | 26/7/1965
-1731 | 31/5/1973
-1732 | 1/3/1973
-1739 | 24/6/1973
-2087 | 1/1/1976 tarihinden geçerli olmak üzere 30/3/1977
-2490 | 10/7/1981
-2917 | 15/10/1983
-KHK/254 | 19/3/1986
-4306 | - | 18/8/1997
-4322 | - | 18/1/1998
-4359 | 1, 2, 3 ve 14 üncü maddeleri Diğer maddeleri | 1/1/1998 4/4/1998
-4854 | - | 6/5/2003
-5002 | - | 21/11/2003
+308 |  | 3/6/1961
+353 |  | 25/8/1961
+68 |  | 13/7/1962
+574 |  | 17/4/1965
+655 |  | 20/7/1965
+693 |  | 26/7/1965
+1731 |  | 31/5/1973
+1732 |  | 1/3/1973
+1739 |  | 24/6/1973
+2087 |  | 1/1/1976 tarihinden geçerli olmak üzere 30/3/1977
+2490 |  | 10/7/1981
+2917 |  | 15/10/1983
+KHK/254 |  | 19/3/1986
+4306 | — | 18/8/1997
+4322 | — | 18/1/1998
+4359 | 1, 2, 3 ve 14 üncü maddeleri | 1/1/1998
+ | Diğer maddeleri | 4/4/1998
+4854 | — | 6/5/2003
+5002 | — | 21/11/2003
 5728 | 56, 57, 59 | 8/2/2008
 6287 | 3, 7, 9, 14, Ek Madde 4, Geçici Madde 11 | 11/4/2012
 6462 | 12 | 3/5/2013
