@@ -1,6 +1,21 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+LESOTHO
+Government Gazette
+EXTRAORDINARY
+
+Vol. XLIII                    Friday — 27th March, 1998                    No. 20
+
+CONTENTS
+
+ACTS
+
+No.                                                                    Page
+
+2    Lesotho College of Education Act, 1997 ........................ 211
+
+Published by the Authority of His Majesty the King
+Price: M2.90
 
 [[END OF PAGE 1]]
 
@@ -8,13 +23,47 @@
 
 211
 
-Section
-
 # LESOTHO COLLEGE OF EDUCATION ACT 1997
 
 ## ARRANGEMENT OF SECTIONS
 
-### PART I -PRELIMINARY
+### PART I - PRELIMINARY
+
+Section
+
+1. Short title and commencement
+2. Interpretation
+
+### PART II - CONSTITUTION AND GOVERNMENT OF THE COLLEGE
+
+3. Establishment of the College
+4. Membership
+5. Functions
+6. Affiliation with other institutions
+7. Governing Council
+8. Disqualification from office
+9. Casual appointment
+10. Powers of Council
+11. Delegation by the Council
+12. Director
+13. Deputy Director
+14. Registrar
+15. Bursar
+16. Librarian
+17. Academic Board
+18. Functions of the Academic Board
+19. Validity of proceedings
+20. Employment of staff
+21. Existing staff
+22. Retirement of staff
+
+### PART III - FINANCE
+
+23. Funds, assets and resources
+24. Application of revenue by the College
+25. Borrowing power
+26. Budget
+27. Accounts and audit
 
 [[END OF PAGE 2]]
 
@@ -22,7 +71,16 @@ Section
 
 212
 
-### PART IV MISCELLANEOUS
+### PART IV -MISCELLANEOUS
+
+28. Statutes and Ordinances
+29. Students Union
+30. Annual report
+31. Special resolutions
+32. Property and assets
+33. Rights, liabilities and obligations
+34. Legal proceedings pending
+35. Regulations
 
 # LESOTHO COLLEGE OF EDUCATION ACT 1997
 
@@ -32,21 +90,19 @@ An Act to establish the Lesotho College of Education and to provide for incident
 
 Enacted by the Parliament of Lesotho.
 
-## PART I -PRELIMINARY
+## PART I - PRELIMINARY
 
 ### Short title and commencement
 
-- This Act may be cited as the Lesotho College of Education Act 1997 and shall come into operation on a date to be appointed by the Minister by notice in the Gazette.
+1. This Act may be cited as the Lesotho College of Education Act 1997 and shall come into operation on a date to be appointed by the Minister by notice in the Gazette.
 
 ### Interpretation
 
-(1) In this Act unless the context otherwise requires
+2. (1) In this Act unless the context otherwise requires -
 
--
+“Academic Board” means the Academic Board established under section 17;
 
-'Academic Board' means the Academic Board established under section 17;
-
-'academic staff' means all members of the staff of the College appointed on academic terms of service and includes the Director and the Deputy Director for Academic Affairs;
+“academic staff” means all members of the staff of the College appointed on academic terms of service and includes the Director and the Deputy Director for Academic Affairs;
 
 [[END OF PAGE 3]]
 
@@ -54,69 +110,61 @@ Enacted by the Parliament of Lesotho.
 
 213
 
-'administrative staff' means all members of the staff of the College who have not been appointed on the academic terms of service;
+“administrative staff” means all members of the staff of the College who have not been appointed on the academic terms of service;
 
-'Alumni' includes former students of the National Teacher Training College;
+“Alumni” includes former students of the National Teacher Training College;
 
-'College' means the Lesotho College of Education established under section 3 ;
+“College” means the Lesotho College of Education established under section 3;
 
-'Council' means the Governing Council of the College established under section 7;
+“Council” means the Governing Council of the College established under section 7;
 
-'Director' means the Director of the College;
+“Director” means the Director of the College;
 
-'Minister' means the Minister responsible for education;
+“Minister” means the Minister responsible for education;
 
-'Ordinances' means the Ordinances of the College made under the authority of this Act;
+“Ordinances” means the Ordinances of the College made under the authority of this Act;
 
-'special resolution' means a resolution passed at a meeting of the Council by a majority of not less than three-fourths of those present and voting.
+“special resolution” means a resolution passed at a meeting of the Council by a majority of not less than three-fourths of those present and voting.
 
-'Statutes' means the Statutes of the College made under this Act;
+“Statutes” means the Statutes of the College made under this Act;
 
-'student' means  any  person  admitted  and  registered  into  any  academic programme of the College whether full-time or part-time;
+“student” means any person admitted and registered into any academic programme of the College whether full-time or part-time;
 
-'University' means any University to which the college is affiliated.
+“University” means any University to which the college is affiliated.
 
-## PART II -CONSTITUTION AND GOVERNMENT OF THE COLLEGE
+## PART II - CONSTITUTION AND GOVERNMENT OF THE COLLEGE
 
 ### Establishment of the College
 
-- The College is a body corporate with perpetual succession and a common seal.
+3. (1) There is established the Lesotho College of Education.
 
-- There is established the Lesotho College of Education.
+(2) The College is a body corporate with perpetual succession and a common seal.
 
--
-
-3.
-
-- The College is capable of
+(3) The College is capable of -
 
 (a) suing and being sued;
 
-(c)  doing all such other things as are essential or incidental to the discharge or performance of the functions of the College; and
+(b) acquiring, holding, dealing with and disposing of movable and immovable property;
 
-(b) acquiring,  holding,  dealing  with  and  disposing  of  movable and immovable property;
+(c) doing all such other things as are essential or incidental to the discharge or performance of the functions of the College; and
 
-(d) doing  and  allowing  such  other  acts  and  things  as  bodies
+(d) doing and allowing such other acts and things as bodies
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-corporate may by law do or suffer.
-
 214
+
+corporate may by law do or suffer.
 
 ### Membership
 
--
-
-- The College consists of
+4. The College consists of -
 
 (a) the members of the Council;
 
-(b) the full-time members of the academic and administrative staff of the
-
-College;
+(b) the full-time members of the academic and administrative staff of the College;
 
 (c) the graduates of the College;
 
@@ -126,17 +174,15 @@ College;
 
 ### Functions
 
-(1) The functions of the College are
+5. (1) The functions of the College are -
 
--
+(a) to provide education for members of the teaching profession and to such other persons as may be determined by the Council;
 
-(a)to provide education for members of the teaching profession and to such other persons as may be determined by the Council;
+(b) to provide courses of study or instruction in fields that the council deems appropriate;
 
-(c)to recommend conferring, granting or giving diplomas, certificates or other educational awards through the affiliation relationship with the University;
+(c) to recommend conferring, granting or giving diplomas, certificates or other educational awards through the affiliation relationship with the University;
 
-(b)to provide courses of study or instruction in fields that the council deems appropriate;
-
-(d)  to provide facilities for, and undertake, research;
+(d) to provide facilities for, and undertake, research;
 
 (e) to disseminate knowledge and to promote scholarship;
 
@@ -146,7 +192,7 @@ College;
 
 (h) to exploit the results of research and development work undertaken by the College either separately or jointly, including entering into arrangements with other bodies or persons and participation in limited liability companies.
 
-- The Minister may, on the recommendation of the Council, assign to the College additional functions.
+(2) The Minister may, on the recommendation of the Council, assign to the College additional functions.
 
 [[END OF PAGE 5]]
 
@@ -156,15 +202,15 @@ College;
 
 ### Affiliation with other institutions
 
-- The College may, with the approval of the Council, affiliate, associate or have academic links with other institutions wherever situated,
+6. The College may, with the approval of the Council, affiliate, associate or have academic links with other institutions wherever situated,
 
 ### Governing Council
 
-(1) There is established a council to be known as the Governing Council of the College which shall consist of,
+7. (1) There is established a council to be known as the Governing Council of the College which shall consist of,
 
 (a) the following ex-officio members:
 
-(i) the  Principal  Secretary  of  the  Ministry  responsible  for education;
+(i) the Principal Secretary of the Ministry responsible for education;
 
 (ii) a representative of the Ministry responsible for finance;
 
@@ -176,11 +222,11 @@ College;
 
 (vi) the Vice-Chancellor of the University;
 
-(vii) Deputy Director (Academic  Affairs) and the Deputy Director(Administration);
+(vii) Deputy Director (Academic Affairs) and the Deputy Director(Administration);
 
 (viii) Heads of Divisions of the College;
 
-(ix) the President of the Students' Representative Council;
+(ix) the President of the Students’ Representative Council;
 
 (x) the Dean of the Faculty of Education of the University to which the college is affiliated;
 
@@ -192,7 +238,7 @@ College;
 
 (xiv) a representative of the Teaching Service Commission.
 
-(b) the  following  persons  to  be  appointed  by  the  Minister  (in  this  Act referred to as 'appointed members'):
+(b) the following persons to be appointed by the Minister (in this Act referred to as “appointed members”):
 
 (i) one person to represent the interests of commerce and
 
@@ -212,19 +258,19 @@ industry;
 
 (v) one person having special competence in teacher education;
 
-one representative of teachers elected by the teacher's associations; and
+(vi) one representative of teachers elected by the teacher’s associations; and
 
 (vii) one representative of the Law Society of Lesotho nominated by the Law Society.
 
-- An  appointed  member  of  the  Council  shall,  subject  to  this  Act,  hold office for a period of three years from the date of his appointment. If still qualified, an appointed member is eligible for reappointment.
+(2) An appointed member of the Council shall, subject to this Act, hold office for a period of three years from the date of his appointment. If still qualified, an appointed member is eligible for reappointment.
 
-- A person appointed to act in, or who according to law acts in, the office of a member of the Council shall while so acting, be entitled also to act as a member of the Council in place of the person in whose office he is acting and shall have and may exercise all the powers and authorities of, and shall discharge and perform all the functions and duties of, a member of the Council.
+(3) A person appointed to act in, or who according to law acts in, the office of a member of the Council shall while so acting, be entitled also to act as a member of the Council in place of the person in whose office he is acting and shall have and may exercise all the powers and authorities of, and shall discharge and perform all the functions and duties of, a member of the Council.
 
-- If  an  appointed  member  of  the  Council  is,  or  may  be,  prevented  by absence,  illness  or  any  other  cause  from  performing  the  duties  as  a  member  of  the Council and the Council believes that this absence may extend beyond six months, the Minister or the electing authority may appoint or elect some other eligible person in place  of  the  appointed  person,  and  that  person  shall  have  and  may  exercise  all  the powers and authorities of, and shall discharge and perform all the functions and duties of, a member of the Council.
+(4) If an appointed member of the Council is, or may be, prevented by absence, illness or any other cause from performing the duties as a member of the Council and the Council believes that this absence may extend beyond six months, the Minister or the electing authority may appoint or elect some other eligible person in place of the appointed person, and that person shall have and may exercise all the powers and authorities of, and shall discharge and perform all the functions and duties of, a member of the Council.
 
-- Members of the Council may elect from among themselves, persons to fill posts of Chairman and Vice-Chairman, but such persons shall not be members of staff or students of the college or public officers.
+(5) Members of the Council may elect from among themselves, persons to fill posts of Chairman and Vice-Chairman, but such persons shall not be members of staff or students of the college or public officers.
 
-- The Chairman shall preside at all meetings of the Council where he is present and the Vice Chairman shall preside where the Chairman is absent.
+(6) The Chairman shall preside at all meetings of the Council where he is present and the Vice Chairman shall preside where the Chairman is absent.
 
 [[END OF PAGE 7]]
 
@@ -232,41 +278,41 @@ one representative of teachers elected by the teacher's associations; and
 
 217
 
-- If  the  Chairman  and  the  Vice  Chairman  are  both  absent  from  any meeting, the members of the Council present at the meeting shall appoint one member to  preside  at  that  meeting but they cannot appoint a person who is a member of the staff or a student of the College or a public officer.
+(7) If the Chairman and the Vice Chairman are both absent from any meeting, the members of the Council present at the meeting shall appoint one member to preside at that meeting but they cannot appoint a person who is a member of the staff or a student of the College or a public officer.
 
-- At any meeting of the Council, the person presiding has a primary vote and in the event of an equality of votes on any issue, also a casting vote.
+(8) At any meeting of the Council, the person presiding has a primary vote and in the event of an equality of votes on any issue, also a casting vote.
 
 ### Disqualification from office
 
-- 8 (1) The following people are not qualified to be members of the Council:
+8 (1) The following people are not qualified to be members of the Council:
 
 (a) an unrehabilitated insolvent except with the leave of the High Court;
 
-(c)  any person suffering from mental incapacity within the meaning of the Mental Health Law, 1964 1 .
-
 (b) any person who has been convicted of any crime or offence involving dishonesty; and
 
-- An appointed member must vacate his office if he,
+(c) any person suffering from mental incapacity within the meaning of the Mental Health Law, 1964¹.
+
+(2) An appointed member must vacate his office if he,
 
 (a) resigns office by writing to the Minister;
 
-(c) is  absent,  without  leave  granted  by  the  Council,  from  three successive  meetings  of  the  Council  of  which  due  notice  has been given; or
-
 (b) becomes an ex-officio member of the Council;
+
+(c) is absent, without leave granted by the Council, from three successive meetings of the Council of which due notice has been given; or
 
 (d) ceases to hold the office or qualification in respect of which the person was appointed a member of the Council.
 
 ### Casual appointment
 
-- If, a vacancy occurs in the office of an appointed member of the Council, the Minister or the electing authority must appoint or elect a person qualified to fill the vacancy for the remainder of the term of the appointed member and the person appointed to fill the casual vacancy may at the end of the term be re-appointed if still eligible.
+9. If, a vacancy occurs in the office of an appointed member of the Council, the Minister or the electing authority must appoint or elect a person qualified to fill the vacancy for the remainder of the term of the appointed member and the person appointed to fill the casual vacancy may at the end of the term be re-appointed if still eligible.
 
 ### Powers of the Council
 
-(1 ) The Council is the governing body of the College
+10. (1) The Council is the governing body of the College
 
-- Except where otherwise provided in this Act and the Statutes, the Council shall manage and control the affairs and property of the College and shall perform the functions conferred on the College and has powers necessary for that purpose.
+(2) Except where otherwise provided in this Act and the Statutes, the Council shall manage and control the affairs and property of the College and shall perform the functions conferred on the College and has powers necessary for that purpose.
 
-- Without limiting the generality of the foregoing, the Council has the
+(3) Without limiting the generality of the foregoing, the Council has the
 
 [[END OF PAGE 8]]
 
@@ -278,39 +324,39 @@ following powers:
 
 (a) to regulate its own procedure;
 
-(c) to propose the annual budget and the estimates of revenue and expenditure for submission to the Minister;
+(b) to govern, manage and regulate the finances, accounts, investments, property, business and all affairs of the College and, for that purpose, to appoint bankers and other officers or agents;
 
-(b)  to govern, manage and regulate the finances, accounts, investments, property, business and all affairs of the College and, for that purpose, to appoint bankers and other officers or agents;
+(c) to propose the annual budget and the estimates of revenue and expenditure for submission to the Minister;
 
 (d) to acquire and transfer immovable property and to enter into lease agreements with regard to such property on behalf of the College;
 
-(f)  to authorise the establishment of any academic post or suspension or abolition of any academic post after consultation with the Academic Board;
+(e) to enter into, vary, carry out or rescind contracts on behalf of the College;
 
-(e)  to enter into, vary, carry out or rescind contracts on behalf of the College;
+(f) to authorise the establishment of any academic post or suspension or abolition of any academic post after consultation with the Academic Board;
 
-(g)  to appoint, dismiss or remove from office any member of the academic or administrative staff of the College in accordance with procedures prescribed by Statutes;
-
-(i)  to determine College fees after consultation with the Academic Board;
+(g) to appoint, dismiss or remove from office any member of the academic or administrative staff of the College in accordance with procedures prescribed by Statutes;
 
 (h) to call for, receive and consider reports from the Director on the working of the College;
 
-(j)  to establish, abolish or vary any administrative section or unit as it deems fit;
+(i) to determine College fees after consultation with the Academic Board;
 
-(l)   to affiliate, associate or link with any other institution or body on such terms and conditions as it deems fit;
+(j) to establish, abolish or vary any administrative section or unit as it deems fit;
 
-(k)  to approve the Constitution of the students' union and any subsequent amendments to that Constitution and to receive and approve the audited accounts of the students' union which must be submitted annually;
+(k) to approve the Constitution of the students’ union and any subsequent amendments to that Constitution and to receive and approve the audited accounts of the students’ union which must be submitted annually;
+
+(l) to affiliate, associate or link with any other institution or body on such terms and conditions as it deems fit;
 
 (m) to determine salaries and conditions of service of employees of the College in consultation with the Government of Lesotho and to provide pension and retirement benefits or other benefits for employees of the College;
 
-(o)  to establish committees or boards;
-
 (n) to determine the criteria for admission of students;
 
-(p)  subject to the provisions of this Act, to make Statutes and Ordinances and to approve any academic rules drawn up by the Academic Board;
+(o) to establish committees or boards;
 
-(r)   to approve any association of academic or administrative staff; and
+(p) subject to the provisions of this Act, to make Statutes and Ordinances and to approve any academic rules drawn up by the Academic Board;
 
-(q)  subject to the provisions of this Act, to appoint the Director, Deputy Director (Academic Affairs), Deputy Director (Administration), the Registrar and the Bursar and Librarian of the College;
+(q) subject to the provisions of this Act, to appoint the Director, Deputy Director (Academic Affairs), Deputy Director (Administration), the Registrar and the Bursar and Librarian of the College;
+
+(r) to approve any association of academic or administrative staff; and
 
 [[END OF PAGE 9]]
 
@@ -318,17 +364,17 @@ following powers:
 
 219
 
-(s)  to establish, abolish or vary any department or division of the College on the recommendation of the Academic Board.
+(s) to establish, abolish or vary any department or division of the College on the recommendation of the Academic Board.
 
-- The Council has power to exclude any member from a meeting at which his  promotion,  conduct,  suspension,  dismissal  or  retirement  or  that  of  any  member holding a post senior to such a member are being considered.
+(4) The Council has power to exclude any member from a meeting at which his promotion, conduct, suspension, dismissal or retirement or that of any member holding a post senior to such a member are being considered.
 
-- No student member of the Council shall take part in any discussion or voting relating  to  the  appointment,  remuneration, conditions of service, dismissal or retirement  of  a  member  of  staff  of  the  college  and  if  required  by  the  Chairman,  a student member present at a meeting shall withdraw from that meeting.
+(5) No student member of the Council shall take part in any discussion or voting relating to the appointment, remuneration, conditions of service, dismissal or retirement of a member of staff of the college and if required by the Chairman, a student member present at a meeting shall withdraw from that meeting.
 
-- The Council may,
+(6) The Council may,
 
-(a)  terminate  the  appointment  of  any  member  of  the  academic  or administrative  staff  or  other  officer  or  servant  of  the  College, with or without notice but where termination of appointment is made without notice, the member, officer or servant shall receive a cash payment in lieu of notice;
+(a) terminate the appointment of any member of the academic or administrative staff or other officer or servant of the College, with or without notice but where termination of appointment is made without notice, the member, officer or servant shall receive a cash payment in lieu of notice;
 
-(b)  Subject to section 20 (4), dismiss any member of the academic staff or other officer or servant of the College on the ground that,
+(b) Subject to section 20 (4), dismiss any member of the academic staff or other officer or servant of the College on the ground that,
 
 (i) the person is engaging in an occupation likely to interfere with the proper discharge of his duties in the College;
 
@@ -336,15 +382,15 @@ following powers:
 
 (iii) the person has failed to observe his responsibilities to the College;
 
-(iv) the  person  has  otherwise  engaged  in  conduct  rendering him unfit to hold his appointment; or
+(iv) the person has otherwise engaged in conduct rendering him unfit to hold his appointment; or
 
 (v) the public interest so requires.
 
-(c) take  disciplinary  measures  provided  for  in  the  Statutes  against any member of the academic staff or other officer or servant of the College.
+(c) take disciplinary measures provided for in the Statutes against any member of the academic staff or other officer or servant of the College.
 
-- Where practicable,  before  exercising  any  of  its  powers  or  discharging any of its functions with respect to a matter which falls within the competence of the Academic Board, the Council shall seek and consider any report or recommendation from the Academic Board in relation to that matter unless the Academic Board fails within a reasonable time to make a report or recommendation to the Council.
+(7) Where practicable, before exercising any of its powers or discharging any of its functions with respect to a matter which falls within the competence of the Academic Board, the Council shall seek and consider any report or recommendation from the Academic Board in relation to that matter unless the Academic Board fails within a reasonable time to make a report or recommendation to the Council.
 
-- In  case  of  emergency  or  urgency,  the  Council  shall,  as  soon  as  is reasonably  practicable,  advise  the  Academic  Board  of  the  circumstances  and  the action  which  it  has  taken  and  thereafter  give  due  consideration  to  any  report  or
+(8) In case of emergency or urgency, the Council shall, as soon as is reasonably practicable, advise the Academic Board of the circumstances and the action which it has taken and thereafter give due consideration to any report or
 
 [[END OF PAGE 10]]
 
@@ -354,21 +400,23 @@ following powers:
 
 recommendation which the Academic Board may make.
 
-(9)  The  Council  shall  appoint  from  among  the  members,  persons  who  are  not members of staff or students of the College or public officers, to be the Chairman and Vice Chairman of the Council.
+(9) The Council shall appoint from among the members, persons who are not members of staff or students of the College or public officers, to be the Chairman and Vice Chairman of the Council.
 
 ### Delegation by the Council
 
-11. (1) The Council may, in relation to any matter, activity or function, delegate by an ordinary resolution any of its powers under this Act except the power of delegation and the powers in relation to the annual adoption of a budget and the approval of the proposed distribution of funds referred to in section 26 of this Act, to any member of or to any committee appointed by the Council or to any officer of the College. (2) A delegation under this section may be varied or revoked by an ordinary resolution of the Council, and no delegation shall prevent the exercise, discharge or
+11. (1) The Council may, in relation to any matter, activity or function, delegate by an ordinary resolution any of its powers under this Act except the power of delegation and the powers in relation to the annual adoption of a budget and the approval of the proposed distribution of funds referred to in section 26 of this Act, to any member of or to any committee appointed by the Council or to any officer of the College.
 
-- performance of any power, authority, function or duty by the Council.
+(2) A delegation under this section may be varied or revoked by an ordinary resolution of the Council, and no delegation shall prevent the exercise, discharge or performance of any power, authority, function or duty by the Council.
 
 ### Director
 
 12. (1) There shall be a Director who shall be the chief academic and administrative officer of the College.
 
-- The  Director  shall,  subject  to  the  provisions  of  this  Act,  Statutes  and Ordinances,  control  and  direct  the  activities  of  the  College,  and  shall  control  and direct the staff of the College in the implementation of those activities. (3) The Director (other than the first Director) shall be appointed subject to the approval of the Minister, by the Council. The first Director shall be appointed by the Minister. (4) The Director shall be appointed for a period of five years and is eligible for re-appointment. The terms and conditions of his appointment shall be specified in
+(2) The Director shall, subject to the provisions of this Act, Statutes and Ordinances, control and direct the activities of the College, and shall control and direct the staff of the College in the implementation of those activities.
 
-- the instrument of his appointment.
+(3) The Director (other than the first Director) shall be appointed subject to the approval of the Minister, by the Council. The first Director shall be appointed by the Minister.
+
+(4) The Director shall be appointed for a period of five years and is eligible for re-appointment. The terms and conditions of his appointment shall be specified in the instrument of his appointment.
 
 (5)The office of the Director shall become vacant
 
@@ -377,9 +425,10 @@ recommendation which the Academic Board may make.
 (b) if the Council, with the approval of the Minister, removes the Director from office for inability to perform his duties or for misbehaviour; or
 
 (c) at the expiry of his term of office
+
 ### Deputy Directors
 
-(1) There shall be a Deputy Director (Academic Affairs) and a Deputy Director
+13. (1) There shall be a Deputy Director (Academic Affairs) and a Deputy Director
 
 [[END OF PAGE 11]]
 
@@ -389,25 +438,25 @@ recommendation which the Academic Board may make.
 
 (Administration) who shall have such powers and shall discharge such duties and functions specified in the Statutes or which are assigned to them by the Director.
 
-- The Deputy Director (Academic Affairs) and the Deputy Director (Administration) shall be appointed by the Council in consultation with the Director. The First Deputy Director (Academic Affairs) and the First Deputy Director (Administration) shall be appointed by the Minister.
+(2) The Deputy Director (Academic Affairs) and the Deputy Director (Administration) shall be appointed by the Council in consultation with the Director. The First Deputy Director (Academic Affairs) and the First Deputy Director (Administration) shall be appointed by the Minister.
 
-- The Deputy Director (Academic Affairs) and the Deputy Director (Administration) hold office for a term of four years and are eligible for reappointment.
+(3) The Deputy Director (Academic Affairs) and the Deputy Director (Administration) hold office for a term of four years and are eligible for re-appointment.
 
 ### Registrar
 
-- The Council shall appoint a Registrar who has and may exercise such other powers and authorities and shall discharge and perform such functions and duties as may be specified in the Statutes.
+14. The Council shall appoint a Registrar who has and may exercise such other powers and authorities and shall discharge and perform such functions and duties as may be specified in the Statutes.
 
 ### Bursar
 
-- The Council shall appoint a Bursar who shall exercise such powers and perform such functions and duties as may be specified in the Statutes.
+15. The Council shall appoint a Bursar who shall exercise such powers and perform such functions and duties as may be specified in the Statutes.
 
 ### Librarian
 
-- The Council shall appoint a Librarian who shall exercise such powers and perform such functions and duties as may be specified in the Statutes.
+16. The Council shall appoint a Librarian who shall exercise such powers and perform such functions and duties as may be specified in the Statutes.
 
 ### Academic Board
 
-(1) There is established a board to be known as the Academic Board which shall consist of
+17. (1) There is established a board to be known as the Academic Board which shall consist of
 
 (a) the Director who shall be the Chairman;
 
@@ -419,7 +468,7 @@ recommendation which the Academic Board may make.
 
 (e) the College Librarian;
 
-(f) the Students' Welfare Officer;
+(f) the Students’ Welfare Officer;
 
 (g) two representatives of the Faculty of Education of the University, of whom one shall be the Dean of the Faculty of Education;
 
@@ -431,35 +480,35 @@ recommendation which the Academic Board may make.
 
 222
 
-- shall be the President of the Students Representative Council;
-
-(j) the Chief Education Officer (Primary);
+shall be the President of the Students Representative Council;
 
 (i) the Director of the National Curriculum Development Centre;
+
+(j) the Chief Education Officer (Primary);
 
 (k) the Chief Education Officer (Secondary); and
 
 (l) the Registrar who shall be the secretary.
 
-- Other members of the academic staff of the College may be invited to attend the meetings of the Academic Board at the discretion of the Academic Board.
+(2) Other members of the academic staff of the College may be invited to attend the meetings of the Academic Board at the discretion of the Academic Board.
 
 ### Functions of the Academic Board
 
-(1) The Academic Board shall assist the Council in the planning, co-ordination and development of the academic activities of the College.
+18. (1) The Academic Board shall assist the Council in the planning, co-ordination and development of the academic activities of the College.
+
+(2) Without prejudice to the generality of subsection (1), the Academic Board has the following powers:
 
 (a) to design, develop and implement appropriate programmes of study;
 
-- Without prejudice to the generality of subsection (1), the Academic Board has the following powers:
-
 (b) to make recommendations to the Council for the establishment of appropriate structures to implement programmes of study;
-
-(d) to make rules for the conduct of examinations and for the evaluation of academic progress;
 
 (c) to direct and regulate the research carried out under the auspices of the College;
 
+(d) to make rules for the conduct of examinations and for the evaluation of academic progress;
+
 (e) to appoint external examiners and academic advisers;
 
-(f) to make rules for the award of fellowships, scholarships, bursaries, prizes  or other awards;
+(f) to make rules for the award of fellowships, scholarships, bursaries, prizes or other awards;
 
 (g) to make general arrangements for tutorial or other academic counselling;
 
@@ -471,11 +520,11 @@ recommendation which the Academic Board may make.
 
 (k) to consider the budget of departments and divisions of the College in respect of teaching and research for recommendation to the Council.
 
-- Subject to the provisions of this Act, the Academic Board may regulate its own procedure.
+(3) Subject to the provisions of this Act, the Academic Board may regulate its own procedure.
 
 ### Validity of proceedings
 
-- No proceedings of the Council, any board or any committee and no act done by the Minister, Director, any of the Deputy Directors or any person acting in any of those offices, shall be invalidated by reason of,
+19. No proceedings of the Council, any board or any committee and no act done by the Minister, Director, any of the Deputy Directors or any person acting in any of those offices, shall be invalidated by reason of,
 
 [[END OF PAGE 13]]
 
@@ -483,9 +532,7 @@ recommendation which the Academic Board may make.
 
 223
 
-(a) any defect in the appointment or election of or any disqualification of any
-
-member of any of that body;
+(a) any defect in the appointment or election of or any disqualification of any member of any of that body;
 
 (b) any defect in the convening or conduct of any meeting of that body;
 
@@ -495,17 +542,19 @@ member of any of that body;
 
 ### Employment of staff
 
-(1) The Council may subject to the approval of the Minister employ such staff as it thinks appropriate. (2) Subject to subsection (3), the terms and conditions of service of the staff of the College shall be determined by the Council after consultation with the Academic Board. (3) The remuneration and allowances payable to the staff of the College
+20. (1) The Council may subject to the approval of the Minister employ such staff as it thinks appropriate.
 
-- shall be subject to the approval of the Minister.
+(2) Subject to subsection (3), the terms and conditions of service of the staff of the College shall be determined by the Council after consultation with the Academic Board.
+
+(3) The remuneration and allowances payable to the staff of the College shall be subject to the approval of the Minister.
 
 (4) A member of staff of the College may not be dismissed unless the person has been provided with reasons for the proposed dismissal and has been given an opportunity to reply.
 
 ### Existing staff
 
-(1) Any person who, immediately before the coming into operation of this Act, was employed full-time at the National Teacher Training College, may within the period of six months of the coming into operation of this Act, if he so wishes, elect to terminate his employment with the Public Service and thereafter serve under the College.
+21. (1) Any person who, immediately before the coming into operation of this Act, was employed full-time at the National Teacher Training College, may within the period of six months of the coming into operation of this Act, if he so wishes, elect to terminate his employment with the Public Service and thereafter serve under the College.
 
-- A person so employed by the National Teacher Training College who, on or after the commencement of this Act, elects to serve under the College shall
+(2) A person so employed by the National Teacher Training College who, on or after the commencement of this Act, elects to serve under the College shall
 
 (a) be regarded as an employee of the College; and
 
@@ -515,9 +564,23 @@ member of any of that body;
 
 224
 
+(b) subject to the Pensions Proclamation 1964², be paid any pension and or gratuity accruing at the time of his election to serve under the College.
+
+### Retirement of Staff
+
+22. (1)Subject to the provisions of this Act as specified in the Statutes, Academic Staff shall retire at the age of sixty-five and administrative staff shall retire at the age of sixty.
+
+(2) An academic staff member may, on or at any time after attaining the age of fifty-five years subject to three months notice being given retire or be required to retire.
+
+(3) An administrative staff member may, on or at any time after attaining the age of fifty years subject to three months notice being given retire or be required to retire.
+
+(4) If, in the opinion of the Council an academic or administrative staff member has to be retained in his post beyond the age of sixty-five years or sixty years respectively that member of staff may willing, be retained by the Council for such period as the Council may determine.
+
+## PART III - FINANCE
+
 ### Funds
 
-- 23.The funds available for the purpose of enabling the College to perform its functions under this Act consist of -
+23.The funds available for the purpose of enabling the College to perform its functions under this Act consist of -
 
 (a) all moneys or property that may from time to time,
 
@@ -527,25 +590,11 @@ member of any of that body;
 
 (b) any moneys raised or borrowed by the College under this Act;
 
-(d) moneys derived from the disposal of, or dealing with, movable or immovable property vested in or acquired by the College, or derived as income from investment by the College; and
-
 (c) all moneys received by the College for goods or services provided under the authority of this Act;
 
+(d) moneys derived from the disposal of, or dealing with, movable or immovable property vested in or acquired by the College, or derived as income from investment by the College; and
+
 (e) fees payable by the students of the College.
-
-(b) subject to the Pensions Proclamation 19642, be paid any pension and or gratuity accruing at the time of his election to serve under the College.
-
-### Retirement of Staff
-
-- An academic staff member may, on or at any time after attaining the age of fifty-five years subject to three months notice being given retire or be required to retire.
-
-(1)Subject to the provisions of this Act as specified in the Statutes, Academic Staff shall retire at the age of sixty-five and administrative staff shall retire at the age of sixty.
-
-- An administrative staff member may, on or at any time after attaining the age of fifty years subject to three months notice being given retire or be required to retire.
-
-- If, in the opinion of the Council an academic or administrative staff member has to be retained in his post beyond the age of sixty-five years or sixty years respectively that member of staff may willing, be retained by the Council for such period as the Council may determine.
-
-## PART III -FINANCE
 
 [[END OF PAGE 15]]
 
@@ -555,9 +604,9 @@ member of any of that body;
 
 ### Application of revenue by the College
 
-(1) All fees and all other moneys received by the Council shall be applied by the Council solely for the purposes of the College.
+24. (1) All fees and all other moneys received by the Council shall be applied by the Council solely for the purposes of the College.
 
-- For the purposes of this section, the application of moneys by the Council for the purpose of-
+(2) For the purposes of this section, the application of moneys by the Council for the purpose of-
 
 (a) enabling a member of staff of the College to pursue study or research at any University or elsewhere;
 
@@ -569,19 +618,19 @@ shall be deemed to be an application of those moneys for the purposes of the Col
 
 ### Borrowing power
 
-- Subject to the Loans (Statutory Bodies) Act, 1975 4 , the College may with the prior approval of the Minister of Finance, raise or borrow money with or without interest and on such terms as may be agreed upon between the lender and the College.
+25. Subject to the Loans (Statutory Bodies) Act, 1975⁴, the College may with the prior approval of the Minister of Finance, raise or borrow money with or without interest and on such terms as may be agreed upon between the lender and the College.
 
 ### Budget
 
-(1) The Council shall in each financial year adopt for the next financial year, a budget for all funds of the College other than those specified in subsection (2) and shall control the expenditure of the College so that it conforms as nearly as practicable to the approved budget.
+26. (1) The Council shall in each financial year adopt for the next financial year, a budget for all funds of the College other than those specified in subsection (2) and shall control the expenditure of the College so that it conforms as nearly as practicable to the approved budget.
 
-- The  Council  shall  review  annually  funds  available  to  the  College  by way of bequest, donation, or special grant, and shall, subject to the terms of any trust and before any expenditure is made, approve the proposed disposition of these funds.
+(2) The Council shall review annually funds available to the College by way of bequest, donation, or special grant, and shall, subject to the terms of any trust and before any expenditure is made, approve the proposed disposition of these funds.
 
-- The  entire  budget  (including  the  subvention,  required  from  the  public funds) must be submitted to the Minister for his approval.
+(3) The entire budget (including the subvention, required from the public funds) must be submitted to the Minister for his approval.
 
 ### Accounts and audit
 
-(1) The Council shall correctly keep accounting and associated records that correctly record and explain all transactions.
+27. (1) The Council shall correctly keep accounting and associated records that correctly record and explain all transactions.
 
 [[END OF PAGE 16]]
 
@@ -589,29 +638,29 @@ shall be deemed to be an application of those moneys for the purposes of the Col
 
 226
 
-- The  accounts  and  records  of  financial  transactions  of  the  College shall be audited each year in accordance with the Audit Act, 1973 5 .
+(2) The accounts and records of financial transactions of the College shall be audited each year in accordance with the Audit Act, 1973⁵.
 
-- The  Auditor-General,  or  an  officer  authorised  by  him,  has  a  right  of access  to  the  accounting  and  associated  records  of  the  College  and  is  entitled  to require  from  any  officer  or  employee  of  the  College  information  necessary  for  the purposes of the audit, and that officer or employee shall comply with any reasonable requirement.
+(3) The Auditor-General, or an officer authorised by him, has a right of access to the accounting and associated records of the College and is entitled to require from any officer or employee of the College information necessary for the purposes of the audit, and that officer or employee shall comply with any reasonable requirement.
 
-- The Auditor-General or an officer authorised by him shall report to the Council the results of the audit and, if he deems necessary, shall make recommendations to the Council in regard to the conduct of the financial transactions of  the  College  and  the  manner  of  operating  and  maintaining  the  accounts.  The Auditor-General  or  an  officer  authorised  by  him  must  certify  whether  or  not  the statements  of  accounts  submitted  exhibit  a  true  and  fair  view  of  the  financial transactions of the College for the period to which they relate.
+(4) The Auditor-General or an officer authorised by him shall report to the Council the results of the audit and, if he deems necessary, shall make recommendations to the Council in regard to the conduct of the financial transactions of the College and the manner of operating and maintaining the accounts. The Auditor-General or an officer authorised by him must certify whether or not the statements of accounts submitted exhibit a true and fair view of the financial transactions of the College for the period to which they relate.
 
-- The Council shall, as soon as practicable after thirty first day of March, and in any event, not later than one month after the receipt of the certificate of the Auditor-General  referred  to  in  subsection  (4)  prepare  and  give  to  the  Minister statements  of  accounts  in  the  form  approved  by  the  Auditor-General  and  Auditor General's report.
+(5) The Council shall, as soon as practicable after thirty first day of March, and in any event, not later than one month after the receipt of the certificate of the Auditor-General referred to in subsection (4) prepare and give to the Minister statements of accounts in the form approved by the Auditor-General and Auditor General’s report.
 
-## PART IV -MISCELLANEOUS
+## PART IV - MISCELLANEOUS
 
 ### Statutes and Ordinances
 
-(1) The Council may make Statutes not inconsistent with this Act with respect to all or any of the following matters -
+28. (1) The Council may make Statutes not inconsistent with this Act with respect to all or any of the following matters -
 
 (a) the use and custody of the common seal;
 
-(c) the  quorum  and  voting  at  meetings  of  the  Council  and  the Academic Board;
+(b) the manner and time of convening, holding and adjourning the meetings of the Council and Academic Board;
 
-(b) the  manner  and  time  of  convening,  holding  and  adjourning  the meetings of the Council and Academic Board;
+(c) the quorum and voting at meetings of the Council and the Academic Board;
 
-(d) the  powers  and  duties  of  the  presiding  officers  at  meetings  of Council and Academic Board;
+(d) the powers and duties of the presiding officers at meetings of Council and Academic Board;
 
-(e) the appointment,  quorum  and  duties  of  committees  of  the Council and Academic Board;
+(e) the appointment, quorum and duties of committees of the Council and Academic Board;
 
 (f) the appointment, termination of appointment, discipline (including the dismissal, suspension and imposition of disciplinary punishments) and the salaries or wages of academic and administrative staff of the College;
 
@@ -631,7 +680,7 @@ shall be deemed to be an application of those moneys for the purposes of the Col
 
 (k) the establishment, management and control of libraries in connection with the College;
 
-(l)      the affiliation, association or connection with any educational institution or research establishment;
+(l) the affiliation, association or connection with any educational institution or research establishment;
 
 (m) the control and investment of the property of the College including any property held in trust or subject to a condition;
 
@@ -639,25 +688,25 @@ shall be deemed to be an application of those moneys for the purposes of the Col
 
 (o) such other matters as are necessary or convenient to be prescribed by Statutes.
 
-- The making, amending, repealing or otherwise modifying of any Statutes or any part of the Statutes shall require a special resolution.
+(2) The making, amending, repealing or otherwise modifying of any Statutes or any part of the Statutes shall require a special resolution.
 
-- The Statutes made by the Council must be sealed with the common seal of the College and shall be transmitted to the Minister for approval.
+(3) The Statutes made by the Council must be sealed with the common seal of the College and shall be transmitted to the Minister for approval.
 
-- The Statutes shall have no force and effect unless they have been approved by the Minister and published in the Gazette.
+(4) The Statutes shall have no force and effect unless they have been approved by the Minister and published in the Gazette.
 
-### Students' Union
+### Students’ Union
 
-(1) There shall be a Lesotho College of Education Students' Union, which shall have such powers and be subject to such obligations as may be prescribed by or under the Statutes.
+29. (1) There shall be a Lesotho College of Education Students’ Union, which shall have such powers and be subject to such obligations as may be prescribed by or under the Statutes.
 
-- All students of the College shall be members of the Student' Union.
+(2) All students of the College shall be members of the Student’ Union.
 
-- The Students' Union shall conduct its affairs under the supervision and direction of the Director.
+(3) The Students’ Union shall conduct its affairs under the supervision and direction of the Director.
 
-- The constitution of the Student' Union and all amendments must be submitted to the Council through the Academic Board and have no force or effect unless approved by the Council.
+(4) The constitution of the Student’ Union and all amendments must be submitted to the Council through the Academic Board and have no force or effect unless approved by the Council.
 
 ### Annual report
 
-30. The Council shall, not later than six months after the end of each academic year, prepare a report  of  the  proceedings  and  activities  of  the  College  during  the  preceding  academic  year and submit it to the Minister.
+30. The Council shall, not later than six months after the end of each academic year, prepare a report of the proceedings and activities of the College during the preceding academic year
 
 [[END OF PAGE 18]]
 
@@ -665,15 +714,17 @@ shall be deemed to be an application of those moneys for the purposes of the Col
 
 228
 
+and submit it to the Minister.
+
 ### Special Resolution Meeting
 
-- Notice of a special resolution meeting must be given at least a month before the meeting.
+31. Notice of a special resolution meeting must be given at least a month before the meeting.
 
 ### Property and assets
 
-(1) Any property or assets which immediately prior to coming into operation of this Act was vested in the Government of Lesotho for the purposes of the National Teachers Training College shall, from the coming into operation of this Act, vest in the College subject to any conditions, liabilities or obligations upon or under which it was vested immediately prior to the coming into operation of the Act.
+32. (1) Any property or assets which immediately prior to coming into operation of this Act was vested in the Government of Lesotho for the purposes of the National Teachers Training College shall, from the coming into operation of this Act, vest in the College subject to any conditions, liabilities or obligations upon or under which it was vested immediately prior to the coming into operation of the Act.
 
-(2)  Where immediately prior to the coming into operation of this Act, any person holds any  property  or  assets  in  trust  of  the  Government  of  Lesotho  for  the  purposes  of  National Teachers Training College, that person shall from the coming into operation of this Acts, hold such property or assets on the like trust for the College.
+(2) Where immediately prior to the coming into operation of this Act, any person holds any property or assets in trust of the Government of Lesotho for the purposes of National Teachers Training College, that person shall from the coming into operation of this Acts, hold such property or assets on the like trust for the College.
 
 ### Rights, liabilities and obligations
 
@@ -681,22 +732,18 @@ shall be deemed to be an application of those moneys for the purposes of the Col
 
 ### Legal proceedings pending
 
-- Legal proceedings pending immediately before the coming into operation of the Act by or against the government in relation to the National Teacher Training College may be continued on or after the coming into operation of this Act by or against the College as the party to the proceedings.
+34. Legal proceedings pending immediately before the coming into operation of the Act by or against the government in relation to the National Teacher Training College may be continued on or after the coming into operation of this Act by or against the College as the party to the proceedings.
 
 ### Regulations
 
-- 35 . The Minister may make regulations not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+35. The Minister may make regulations not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 ## NOTE
 
-- Law No.7 of 1964
-
-- Pensions Proclamation 1964
-
-- Act No.22 of 1975
-
-- Act No. 15 of 1967
-
-- Act No. 12 of 1973
+1. Law No.7 of 1964
+2. Pensions Proclamation 1964
+3. Act No.22 of 1975
+4. Act No. 15 of 1967
+5. Act No. 12 of 1973
 
 [[END OF PAGE 19]]
