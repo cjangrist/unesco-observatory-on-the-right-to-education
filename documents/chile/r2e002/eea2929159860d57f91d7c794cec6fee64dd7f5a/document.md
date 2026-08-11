@@ -8,13 +8,13 @@ Fecha Promulgación       :08-02-2011
 
 Organismo                :MINISTERIO DE EDUCACIÓN
 
+Título                   :CALIDAD Y EQUIDAD DE LA EDUCACIÓN
+
 Tipo Version             :Unica     De : 26-02-2011
 
 Inicio Vigencia          :26-02-2011
 
 Id Norma                 :1022346
-
-Título                   :CALIDAD Y EQUIDAD DE LA EDUCACIÓN
 
 URL                      :http://www.leychile.cl/N?i=1022346&f=2011-02-26&p=
 
@@ -269,9 +269,7 @@ Departamento de Administración de Educación Municipal serán convocados y admi
 
 - Modifícase el artículo 51 de la siguiente forma:
 
-- En el inciso primero reemplázase la frase "hasta los siguientes porcentajes
-
-- máximos" por la siguiente frase: "los siguientes porcentajes mínimos".
+- En el inciso primero reemplázase la frase "hasta los siguientes porcentajes máximos" por la siguiente frase: "los siguientes porcentajes mínimos".
 
 - En el inciso segundo agrégase a continuación de la palabra "cuenta" la expresión ", entre otras,".
 
@@ -443,6 +441,27 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 13]]
 
+Enseñanza que imparte el establecimiento | Valor de la subvención en U.S.E. factor artículo 9° (incluye incrementos fijados por leyes Nos. 19.662 y 19.808) | Valor de la subvención en U.S.E. por aplicación del factor artículo 7° ley N° 19.933 | Valor de la subvención en U.S.E.
+Educación Parvularia (1° Nivel de Transición) | 1,74265 | 0,17955 | 1,9222
+Educación Parvularia (2° Nivel Transición) | 1,74265 | 0,17955 | 1,9222
+Educación General Básica (1°, 2°, 3°, 4°, 5° y 6°) | 1,74658 | 0,17997 | 1,92655
+Educación General Básica (7° y 8°) | 1,89565 | 0,19546 | 2,09111
+Educación Especial Diferencial | 5,79658 | 0,59727 | 6,39385
+Necesidades Educativas Especiales de carácter Transitorio | 4,96143 | 0,59727 | 5,5587
+Educación Media Humanístico-Científica | 2,11678 | 0,21818 | 2,33496
+Educación Media Técnico-Profesional Agrícola Marítima | 3,13727 | 0,32402 | 3,46129
+Educación Media Técnico-Profesional Industrial | 2,4474 | 0,25252 | 2,69992
+Educación Media Técnico-Profesional Comercial y Técnica | 2,19518 | 0,22634 | 2,42152
+Educación Básica de Adultos (Primer Nivel) | 1,29547 | 0,13317 | 1,42864
+Educación Básica de Adultos (Segundo Nivel y Tercer Nivel) | 1,71879 | 0,13317 | 1,85196
+Educación Básica de Adultos con oficios (Segundo Nivel y Tercer Nivel) | 1,93046 | 0,13317 | 2,06363
+Educación Media Humanístico-Científica de adultos (Primer Nivel y Segundo Nivel) | 2,0946 | 0,18363 | 2,27823
+Educación Media Técnico-Profesional de Adultos Agrícola y Marítima (Primer Nivel) | 2,36078 | 0,18363 | 2,54441
+Educación Media Técnico-Profesional de Adultos Agrícola y Marítima (Segundo Nivel y Tercer Nivel) | 2,89313 | 0,18363 | 3,07676
+Educación Media Técnico-Profesional de Adultos Industrial (Primer Nivel) | 2,1371 | 0,18363 | 2,32073
+Educación Media Técnico-Profesional de Adultos Industrial (Segundo Nivel y Tercer Nivel) | 2,22211 | 0,18363 | 2,40574
+Educación Media Técnico-Profesional de Adultos Comercial y Técnica (Primer Nivel, Segundo Nivel y Tercer Nivel) | 2,0946 | 0,18363 | 2,27823
+
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 13]]
@@ -452,6 +471,12 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 - Sustitúyese el inciso noveno por el siguiente:
 
 "En el caso de los establecimientos educacionales que operen bajo el régimen de jornada escolar completa diurna, el valor unitario mensual por alumno, para los niveles y modalidades de enseñanza que se indican, expresado en unidades de subvención educacional (U.S.E.), será el siguiente:
+Enseñanza que imparte el establecimiento | Valor de la subvención en factor artículo 9° en U.S.E. (incluye incrementos fijados por leyes N°s. 19.662 y 19.808) | Valor de la subvención en U.S.E. factor artículo 7° ley N° 19.933 | Valor de la subvención en U.S.E.
+Educación General Básica 3° a 8° años | 2,43079 | 0,24655 | 2,67734
+Educación Media Humanístico-Científica | 2,90192 | 0,29481 | 3,19673
+Educación Media Técnico-Profesional Agrícola Marítima | 3,91566 | 0,40013 | 4,31579
+Educación Media Técnico-Profesional Industrial | 3,06363 | 0,31177 | 3,3754
+Educación Media Técnico-Profesional Comercial y Técnica. | 2,90192 | 0,29481 | 3,19673
 
 - iii) Reemplázase el inciso undécimo por el siguiente:
 
@@ -478,6 +503,10 @@ total 74,91951 U.S.E., y el incremento a que se refiere el artículo 11.".
 - Sustitúyese el artículo undécimo transitorio por el siguiente:
 
 "Artículo undécimo transitorio.- El valor unitario mensual por alumno a que se refiere el artículo 9° de esta ley, para la educación de adultos de aquellos cursos que aún no apliquen el nuevo marco curricular establecido en el decreto supremo N° 239, de 2004, de Educación, será el siguiente, expresado en unidades de subvención educacional (U.S.E.):
+Enseñanza que imparte el establecimiento | Valor de la subvención en U.S.E. (incluye incrementos fijados por leyes N°s. 19.662 y 19.808) | Valor de la subvención en U.S.E. factor artículo 7° ley N° 19.933 | Valor de la subvención en U.S.E.
+Educación General Básica de Adultos | 1,29547 | 0,13317 | 1,42864
+Educación Media Humanístico-Científica y Técnico Profesional de Adultos (con a lo menos 20 y no más de 25 horas semanales presenciales de clases) | 1,47211 | 0,15128 | 1,62339
+Educación Media Humanístico-Científica y Técnico Profesional de Adultos (con a lo menos 26 horas semanales presenciales de clases) | 1,78262 | 0,18363 | 1,96625
 
 ### Artículo 6°.-
 Modifícase el artículo 8° de la ley N° 19.979, como sigue:
@@ -508,6 +537,9 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 [[START OF PAGE 16]]
 
 municipios y corporaciones municipales para financiar el plan de retiro dispuesto en el artículo noveno transitorio y siguientes y los demás gastos necesarios para poner término a la relación laboral de quienes se beneficien de dicho plan. Dichos recursos se entregarán de acuerdo a la siguiente tabla:
+Año | Monto (en millones)
+2011 | $20.000
+2012 | $10.000
 
 - Para efectos de la distribución de los recursos, el Ministerio de Educación, mediante resolución exenta suscrita por la  Dirección de Presupuestos, establecerá el monto al que anualmente accederá cada municipalidad. Para la determinación de dichos montos se considerará:
 
@@ -545,10 +577,18 @@ todos los alumnos,", lo siguiente: "y contratación de personal idóneo para el 
 - Elimínase en el artículo 11, inciso primero, la siguiente frase: "de 4º y 8º básico, según corresponda,".
 
 - Reemplázase en el artículo 14 el cuadro de Valor de Subvención en U.S.E. por el siguiente:
+ | Desde 1° nivel de transición hasta 4° año de la educación básica | 5° y 6° año básico | 7° y 8° año básico | Desde 1° año hasta 4° año de enseñanza media
+A: Establecimientos educacionales autónomos | 1.4 | 0.93 | 0.47 | 0.47
+B: Establecimientos educacionales emergentes | 0.7 | 0.465 | 0.235 | 0.235
 
 - Modifícase el artículo 16 de la siguiente forma:
 
 - Sustitúyese la tabla incluida en el inciso segundo por la siguiente:
+Tramos según el porcentaje de alumnos prioritarios del establecimiento educacional | Desde el 1° nivel de transición hasta 4° año básico (U.S.E.) | 5° y 6° año básico (U.S.E.) | 7° y 8° año básico (U.S.E.) | Desde 1° año hasta 4° año de enseñanza media (U.S.E.)
+60% o más | 0,302 | 0,202 | 0,101 | 0,101
+Entre 45% y menos de 60% | 0,269 | 0,179 | 0,090 | 0,090
+Entre 30% y menos de 45% | 0,202 | 0,134 | 0,067 | 0,067
+Entre 15% y menos de 30% | 0,118 | 0,078 | 0,040 | 0,040
 
 - Sustitúyese en el inciso cuarto la frase "educación parvularia y de educación general básica" por la siguiente: "educación parvularia, educación general básica y enseñanza media".
 
@@ -574,6 +614,12 @@ primer y segundo año de transición de la educación parvularia y hasta el 4º 
 
 ### Artículo 13.-
 Reemplázase la tabla de la letra h) del artículo 46 de la ley N° 20.370, General de Educación, por la siguiente:
+Matrícula proyectada (cantidad de alumnos) | Monto a acreditar (unidades de fomento)
+0 - 100 | 200
+101 - 200 | 300
+201 - 400 | 600
+401 - 600 | 1.000
+601 o más | 1.400
 
 ### Artículo 14.-
 Agrégase en la ley N° 19.933 el siguiente artículo 17 bis:
@@ -650,6 +696,10 @@ Sin perjuicio de lo establecido en el artículo 15 de la ley N° 19.715,  los pr
 Facúltase al Presidente de la República para dictar, en el plazo de un año contado desde la publicación de la presente ley, un decreto con fuerza de ley expedido por intermedio del Ministerio de Educación, el que también deberá ser suscrito por el Ministro de Hacienda, que contenga las normas necesarias para reestructurar el funcionamiento, el monto de los beneficios y el número de beneficiarios de la Asignación de Excelencia Pedagógica, a que se refiere el artículo 15 de la ley N° 19.715.
 
 - Dicho decreto con fuerza de ley deberá considerar para los pagos de la asignación de excelencia pedagógica los resultados que hayan obtenido en el examen de acuerdo a lo establecido en la siguiente tabla:
+TRAMO DE LOGROS | MONTO MENSUAL JORNADA 44 HORAS SEMANALES
+Primero | $150.000
+Segundo | $100.000
+Tercero | $50.000
 
 - Los profesionales de la educación que reciban esta asignación y mientras se desempeñen en establecimientos con una alta concentración de alumnos prioritarios
 
@@ -777,6 +827,10 @@ Facúltase al Ministerio de Educación para que, hasta el 31 de diciembre de 201
 
 ### Artículo decimonoveno.-
 Créase, de manera transitoria y a partir de 2011, un fondo por un total de $45.000 millones, que deberán ser utilizados para fines educacionales y serán distribuidos a municipios y corporaciones municipales de acuerdo a la siguiente tabla:
+Año | Monto (en millones de pesos)
+2011 | $ 10.000
+2012 | $ 15.000
+2013 | $ 20.000
 
 - Para el año 2011, los recursos se repartirán mediante resolución exenta del Ministerio de Educación suscrita por la Dirección de Presupuestos, donde se establecerá el monto de estos recursos que le corresponderá a cada municipalidad. Para la determinación de dichos montos, se considerará:
 
