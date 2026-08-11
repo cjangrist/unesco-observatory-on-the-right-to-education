@@ -1,7 +1,8 @@
 [[START OF PAGE 1]]
 
-Primer  Cuerpo  Página    8
-
+Primer Cuerpo Página 8
+DIARIO OFICIAL DE LA REPUBLICA DE CHILE
+Jueves 15 de Abril de 2010
 Nº 39.636
 
 # Normas Generales
@@ -20,7 +21,7 @@ Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguient
 
 Proyecto de ley:
 
-### ''TíTULO I
+### ‘‘TÍTULO I
 
 ### Disposiciones Generales
 
@@ -38,13 +39,13 @@ Las disposiciones de esta ley se aplicarán a los solicitantes de la condición 
 ##### Artículo 2° .- Concepto de Refugiado.
 Tendrán derecho a que se les reconozca la condición de refugiado las personas que se encuentren en alguna de las siguientes situaciones:
 
-- Quienes, por fundados temores de ser perseguidos por motivos de raza, religión, nacionalidad, pertenencia a determinado grupo social u opiniones políticas, se encuentren fuera del país de su nacionalidad y no puedan o no quieran acogerse a la protección de aquél debido a dichos temores.
+1. Quienes, por fundados temores de ser perseguidos por motivos de raza, religión, nacionalidad, pertenencia a determinado grupo social u opiniones políticas, se encuentren fuera del país de su nacionalidad y no puedan o no quieran acogerse a la protección de aquél debido a dichos temores.
 
-- Los  que  hayan huido de su país de nacionalidad o residencia habitual y cuya vida, seguridad o libertad han sido amenazadas por la violencia generalizada, la agresión extranjera,  los  conflictos  internos,  la  violación  masiva  de  los  derechos humanos u otras circunstancias que hayan perturbado gravemente el orden público en dicho país.
+2. Los que hayan huido de su país de nacionalidad o residencia habitual y cuya vida, seguridad o libertad han sido amenazadas por la violencia generalizada, la agresión extranjera, los conflictos internos, la violación masiva de los derechos humanos u otras circunstancias que hayan perturbado gravemente el orden público en dicho país.
 
-- Quienes, careciendo de nacionalidad y por los motivos expuestos en los numerales anteriores, se encuentren fuera del país en que tenían su residencia habitual y no puedan o no quieran regresar a él.
+3. Quienes, careciendo de nacionalidad y por los motivos expuestos en los numerales anteriores, se encuentren fuera del país en que tenían su residencia habitual y no puedan o no quieran regresar a él.
 
-- Los que, si bien al momento de abandonar su país de nacionalidad o residencia habitual no poseían la condición de refugiado, satisfacen plenamente las condiciones de inclusión como consecuencia de acontecimientos ocurridos con posterioridad a su salida.
+4. Los que, si bien al momento de abandonar su país de nacionalidad o residencia habitual no poseían la condición de refugiado, satisfacen plenamente las condiciones de inclusión como consecuencia de acontecimientos ocurridos con posterioridad a su salida.
 
 #### Capítulo III
 
@@ -60,11 +61,7 @@ La protección en los términos enunciados precedentemente comprenderá, asimism
 
 A los efectos de determinar si existen tales razones, se tendrán en cuenta todas las consideraciones pertinentes, inclusive,  cuando  proceda,  la  existencia  en  el  territorio  de  una situación persistente de violación manifiesta, patente o masiva de los derechos humanos.
 
-Aquellos solicitantes de la condición de refugiado que no hubieran obtenido el estatuto de tal, podrán solicitar un permiso
-
-DIARIO  OFICIAL  DE  LA  REPUBLICA  DE  CHILE Jueves 15 de Abril de 2010
-
-de permanencia en el país, de conformidad con la legislación que establece normas sobre extranjeros en Chile.
+Aquellos solicitantes de la condición de refugiado que no hubieran obtenido el estatuto de tal, podrán solicitar un permiso de permanencia en el país, de conformidad con la legislación que establece normas sobre extranjeros en Chile.
 
 ##### Artículo 5° .-  La  Expulsión.
 La  expulsión  de  un  solicitante de la condición de refugiado o refugiado que se halle en el territorio nacional, no podrá disponerse sino de manera excepcional,  cuando  razones  de  seguridad  nacional  o  de  orden público así lo justifiquen. Esta medida deberá adoptarse conforme a los procedimientos legales vigentes.
@@ -130,11 +127,11 @@ Las  autoridades competentes asistirán a los refugiados, otorgándoles informac
 ##### Artículo 16 .- Cláusula de Exclusión.
 No obstante cumplir con las condiciones para ser reconocido como refugiado, será excluida del régimen de protección, la persona respecto de la cual existan fundados motivos de haber cometido alguno de los actos siguientes:
 
-- Delito contra la paz, de guerra, o cualquier otro delito contra la humanidad definido en algún instrumento internacional, ratificado por Chile.
+1. Delito contra la paz, de guerra, o cualquier otro delito contra la humanidad definido en algún instrumento internacional, ratificado por Chile.
 
-- Grave delito común, fuera del territorio nacional y antes de ser admitido como refugiado.
+2. Grave delito común, fuera del territorio nacional y antes de ser admitido como refugiado.
 
-- Actos contrarios a los principios y finalidades de la Carta de Naciones Unidas.
+3. Actos contrarios a los principios y finalidades de la Carta de Naciones Unidas.
 
 #### Capítulo II
 
@@ -143,28 +140,28 @@ No obstante cumplir con las condiciones para ser reconocido como refugiado, ser�
 ##### Artículo 17 .- Cláusula de Cesación.
 Cesará la condición de refugiado de una persona en los siguientes casos:
 
-- Si se ha acogido, voluntariamente, a la protección del país del cual es nacional.
+1. Si se ha acogido, voluntariamente, a la protección del país del cual es nacional.
 
-- Si,  habiendo perdido su nacionalidad con anterioridad, la ha recuperado por propia decisión.
+2. Si, habiendo perdido su nacionalidad con anterioridad, la ha recuperado por propia decisión.
 
-- Si ha obtenido una nueva nacionalidad y goza de la protección del país cuya nacionalidad adquirió.
+3. Si ha obtenido una nueva nacionalidad y goza de la protección del país cuya nacionalidad adquirió.
 
-- Si ha decidido establecerse nuevamente, de manera voluntaria, en el país que abandonó o fuera del cual permanecía por temor a ser perseguido.
+4. Si ha decidido establecerse nuevamente, de manera voluntaria, en el país que abandonó o fuera del cual permanecía por temor a ser perseguido.
 
-- Si  no  es  posible  continuar  rechazando la protección del país  del  cual  es  nacional,  por  haber  dejado  de  existir  las circunstancias por las cuales fue reconocido como refugiado.
+5. Si no es posible continuar rechazando la protección del país del cual es nacional, por haber dejado de existir las circunstancias por las cuales fue reconocido como refugiado.
 
-- Si aquélla que no tiene nacionalidad, está en condiciones de volver al país en el cual tenía su residencia habitual,  una vez que hayan dejado de existir las circunstancias a consecuencia de las cuales fue reconocida como refugiado.
+6. Si aquélla que no tiene nacionalidad, está en condiciones de volver al país en el cual tenía su residencia habitual, una vez que hayan dejado de existir las circunstancias a consecuencia de las cuales fue reconocida como refugiado.
 
 No cesará la condición de refugiado respecto de aquella persona comprendida en los números 5 y 6 precedentes que pueda invocar razones imperiosas, derivadas de la persecución singularmente grave por la que originalmente dejó su país de nacionalidad o residencia habitual o que, en su caso particular, y a pesar del cambio de circunstancias en general, mantenga un fundado temor de persecución por motivos de raza, religión, nacionalidad, pertenencia a determinado grupo social u opiniones políticas.
 
 ##### Artículo 18 .- Renuncia, Cancelación y Revocación del Estatuto de Refugiado.
 Se perderá el estatuto de refugiado por cualquiera de las siguientes circunstancias:
 
-- Renuncia individual, expresa, voluntaria e informada a tal condición.
+1. Renuncia individual, expresa, voluntaria e informada a tal condición.
 
-- Por  cancelación, si se acreditase la falsedad de los fundamentos invocados para el reconocimiento de la condición de  refugiado  o  la  existencia  de  hechos  que,  de  haber  sido conocidos  cuando  se  otorgó  tal  reconocimiento,  hubiesen implicado una decisión negativa.
+2. Por cancelación, si se acreditase la falsedad de los fundamentos invocados para el reconocimiento de la condición de refugiado o la existencia de hechos que, de haber sido conocidos cuando se otorgó tal reconocimiento, hubiesen implicado una decisión negativa.
 
-- Por revocación, si luego de otorgado dicho estatuto, la persona realiza actividades descritas en los números 1 ó 3 del artículo 16 de la presente ley.
+3. Por revocación, si luego de otorgado dicho estatuto, la persona realiza actividades descritas en los números 1 ó 3 del artículo 16 de la presente ley.
 
 [[END OF PAGE 1]]
 
@@ -197,11 +194,11 @@ Esta  Comisión  se  entenderá  sucesora,  para  todos  los efectos legales, de
 ##### Artículo 21 .- Composición.
 La señalada Comisión estará  conformada  por  los  siguientes  miembros,  con  derecho  a voto:
 
-- El Jefe del Departamento de Extranjería y Migración, quien la presidirá.
+1. El Jefe del Departamento de Extranjería y Migración, quien la presidirá.
 
-- Dos representantes del Ministerio del Interior.
+2. Dos representantes del Ministerio del Interior.
 
-- Dos representantes del Ministerio de Relaciones Exteriores.
+3. Dos representantes del Ministerio de Relaciones Exteriores.
 
 Los representantes de las referidas Carteras, así como sus reemplazantes, serán nombrados por los respectivos Ministros.
 
@@ -212,17 +209,17 @@ La Comisión de Reconocimiento de la  Condición  de  Refugiado  tendrá  las  s
 
 1. Proponer al Ministerio del Interior el reconocimiento o rechazo de tal condición, así como la exclusión, cesación, cancelación y revocación del estatuto de refugiado.
 
-- Proponer la aceptación o rechazo de las solicitudes de reunificación familiar de refugiados reconocidos.
+2. Proponer la aceptación o rechazo de las solicitudes de reunificación familiar de refugiados reconocidos.
 
-- Proponer la aceptación o rechazo de las solicitudes de reasentamiento.
+3. Proponer la aceptación o rechazo de las solicitudes de reasentamiento.
 
-- Solicitar  los  antecedentes  que  estime  convenientes para el cumplimiento de su tarea asesora, a los organismos públicos pertinentes.
+4. Solicitar los antecedentes que estime convenientes para el cumplimiento de su tarea asesora, a los organismos públicos pertinentes.
 
-- Planificar, promover y coordinar políticas en materia de protección de solicitantes de la condición de refugiado y refugiados,  relacionándose  directamente,  para  tales  efectos, con cualquier institución pública o privada, nacional, internacional o extranjera, que fuese pertinente.
+5. Planificar, promover y coordinar políticas en materia de protección de solicitantes de la condición de refugiado y refugiados, relacionándose directamente, para tales efectos, con cualquier institución pública o privada, nacional, internacional o extranjera, que fuese pertinente.
 
-- Coadyuvar en la búsqueda e implementación de soluciones duraderas para los refugiados.
+6. Coadyuvar en la búsqueda e implementación de soluciones duraderas para los refugiados.
 
-- Dictar y aprobar su reglamento interno.
+7. Dictar y aprobar su reglamento interno.
 
 ##### Artículo 23 .-  Quórum.
 La Comisión de Reconocimiento de  la  Condición  de  Refugiado  podrá  sesionar  con,  a  lo menos, tres de sus miembros con derecho a voto y sus decisiones se adoptarán por un mínimo de tres votos concurrentes.
@@ -285,17 +282,17 @@ Asimismo, notificará a los organismos correspondientes,  con  el  fin  que  se 
 ##### Artículo 33 .- Obligaciones del Solicitante.
 Durante el procedimiento, el solicitante tendrá las siguientes obligaciones:
 
-- Decir la verdad, informar y cooperar activamente a fin de que puedan esclarecerse los hechos y razones en que se basa su solicitud.
+1. Decir la verdad, informar y cooperar activamente a fin de que puedan esclarecerse los hechos y razones en que se basa su solicitud.
 
-- Aportar pruebas y suministrar explicaciones satisfactorias sobre la eventual insuficiencia o falta de las mismas.
+2. Aportar pruebas y suministrar explicaciones satisfactorias sobre la eventual insuficiencia o falta de las mismas.
 
-- Proporcionar información sobre su persona y experiencia, con los detalles necesarios para determinar los hechos pertinentes.
+3. Proporcionar información sobre su persona y experiencia, con los detalles necesarios para determinar los hechos pertinentes.
 
-- Dar una explicación de las razones invocadas en apoyo de su solicitud.
+4. Dar una explicación de las razones invocadas en apoyo de su solicitud.
 
-- Contestar todas las preguntas que le sean formuladas.
+5. Contestar todas las preguntas que le sean formuladas.
 
-- Fijar domicilio e informar, oportunamente, a la autoridad competente, cualquier cambio que éste sufra, en un plazo de quince días.
+6. Fijar domicilio e informar, oportunamente, a la autoridad competente, cualquier cambio que éste sufra, en un plazo de quince días.
 
 ##### Artículo  34 .-  Mérito  de  la  Prueba.
 La  Comisión  de Reconocimiento apreciará las pruebas conforme a las reglas de la sana crítica. Cuando no pudiera recolectarse prueba material suficiente, la Comisión podrá basar sus recomendaciones en indicios, presunciones y la credibilidad general del solicitante, en cuyo caso corresponderá otorgarle el beneficio de la duda, siempre que éste hubiera cumplido con las obligaciones enunciadas en el artículo anterior.
@@ -333,8 +330,9 @@ En el caso de personas que presentaren una solicitud y alegasen haber sido víct
 
 [[START OF PAGE 3]]
 
-Primer Cuerpo Página  10
-
+Primer Cuerpo Página 10
+DIARIO OFICIAL DE LA REPUBLICA DE CHILE
+Jueves 15 de Abril de 2010
 Nº 39.636
 
 Del mismo modo, se procurará que, en la realización de las entrevistas, la persona pueda sentirse segura respecto de la confidencialidad de su petición.
@@ -384,8 +382,6 @@ El Ministerio del Interior podrá, por razones de orden público  o  de  segurid
 ##### Artículo 48 .- Gratuidad.-
 El procedimiento de determinación de la condición de refugiado será gratuito. También tendrán este carácter, los trámites para la obtención de visas y permisos, incluido el de trabajo.
 
-DIARIO  OFICIAL  DE  LA  REPUBLICA  DE  CHILE Jueves 15 de Abril de 2010
-
 ### TÍTULO VI
 
 ### Disposiciones Finales
@@ -394,7 +390,7 @@ DIARIO  OFICIAL  DE  LA  REPUBLICA  DE  CHILE Jueves 15 de Abril de 2010
 Deróganse las normas establecidas en el decreto ley Nº1.094, de 1975, en lo que digan relación con los refugiados.
 
 ##### Artículo 50 .-
-Dentro de los ciento ochenta días posteriores  a  la  publicación  de  la  presente  ley,  el  Presidente  de  la República,  a  través  del  Ministerio  del  Interior,  dictará  el correspondiente reglamento.''.
+Dentro de los ciento ochenta días posteriores a la publicación de la presente ley, el Presidente de la República, a través del Ministerio del Interior, dictará el correspondiente reglamento.’’.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por  tanto  promúlguese  y  llévese  a  efecto  como  Ley  de  la República.
 
@@ -410,13 +406,13 @@ Lo que transcribo a Ud. para su conocimiento.- Saluda atte.  a  Ud.,  Rodrigo  U
 
 #### RECTIFICACIÓN
 
-En la edición del Diario Oficial Nº 39.632 de 10 de Abril del 2010, se publicó Resolución  Nº 361 Exenta, que Delega Facultad  de  Firma que Indica, con los  errores  que se salvan a  continuación:  en  el  sumario,    primera  columna  y  página cuatro,  primera    columna,  donde  dice  '  ...  Ministerio  de Hacienda  ...'    debe  decir  '... Ministerio  de  Economía, Fomento y Turismo ...'.
+En la edición del Diario Oficial Nº 39.632 de 10 de Abril del 2010, se publicó Resolución Nº 361 Exenta, que Delega Facultad de Firma que Indica, con los errores que se salvan a continuación: en el sumario, primera columna y página cuatro, primera columna, donde dice “ ... Ministerio de Hacienda ...” debe decir “... Ministerio de Economía, Fomento y Turismo ...”.
 
 ## Ministerio de Hacienda
 
 ### ESTABLECE A CONTAR DEL 16 DE ABRIL Y HASTA EL 15 DE JUNIO DE 2010 REBAJAS QUE INDICA POR LA IMPORTACIÓN DE TRIGO
 
-Núm.  347  exento.-  Santiago,  12  de  abril  de  2010.Vistos: lo dispuesto en el artículo 1º de la Ley Nº19.897, en el decreto  Nº831,  de  2003,  del  Ministerio  de  Hacienda,  en  el decreto Nº19, de 2001, del Ministerio Secretaría General de la Presidencia y en la resolución Nº1.600, de 2008, de la Contraloría General de la República, que fija normas sobre la exención del trámite de toma de razón, y
+Núm. 347 exento.- Santiago, 12 de abril de 2010.- Vistos: lo dispuesto en el artículo 1º de la Ley Nº19.897, en el decreto Nº831, de 2003, del Ministerio de Hacienda, en el decreto Nº19, de 2001, del Ministerio Secretaría General de la Presidencia y en la resolución Nº1.600, de 2008, de la Contraloría General de la República, que fija normas sobre la exención del trámite de toma de razón, y
 
 #### Considerando:
 
@@ -463,11 +459,7 @@ RUT
 
 6.624.357-5
 
-Ubicación :
-
-Tercera Región - Regional de Copia-
-
-pó - Staff
+Ubicación : Tercera Región - Regional de Copiapó - Staff
 
 Calidad jurídica :
 
@@ -496,5 +488,17 @@ Función :
 Tesorero Regional Subrogante
 
 Anótese y comuníquese.- Pamela Cuzmar Poblete, Tesorera General de la República.
+
+marcas
+Instituto Nacional de Propiedad Industrial
+Protección efectiva de los distintos elementos que conforman la marca comercial o patente
+• Marcas o patentes de invención
+• modelos de utilidad o dibujos y diseños industriales
+• esquemas de trazado o topografías de circuitos integrados,
+• indicaciones geográficas y
+• denominaciones de origen
+Oficinas atención de usuarios:
+Moneda 975 Piso 13 · Santiago Centro
+DIARIO OFICIAL - Suplemento Marcas aparece los Viernes
 
 [[END OF PAGE 3]]
