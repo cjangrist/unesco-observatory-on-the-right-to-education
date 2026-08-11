@@ -60,8 +60,10 @@ Jordi Farràs Forné Síndic General
 
 Nosaltres els Coprínceps la sancionem i promulguem i n'ordenem la publicació en el Butlletí Oficial del Principat d'Andorra.
 
-François Mitterrand President de la | Joan Martí Alanís
+François Mitterrand | Joan Martí Alanís
 --- | ---
+President de la República Francesa | Bisbe d'Urgell
+Copríncep d'Andorra | Copríncep d'Andorra
 
 # Llei qualificada d'educació
 
@@ -97,7 +99,7 @@ Aquesta és l'estructura educativa andorrana en el moment en què el poble andor
 
 La present Llei  desenvolupa,  en  primer lloc, el dret de tota persona a l'educació, dret que la Constitució reconeix amb el caràcter de fonamental i estableix l'escolarització obligatòria i gratuïta fins als 16 anys; el dret dels adults a la formació bàsica, i el principi d'igualtat en l'accés als  nivells  superiors  de  l'ensenyament.  Es refereix també a la llibertat de càtedra dels  ensenyants,  i  als  drets  dels  pares d'alumnes a escollir el tipus d'educació que desitgen per a llurs fills, així com als drets dels alumnes.
 
-A partir de la proclamació constitucional  del  dret  a  l'educació  com  un  dret fonamental, l'Estat andorrà ha de dotarse dels mecanismes per fer-lo efectiu, i a aquesta finalitat obeeix el sistema educatiu andorrà. Amb aquest sistema, poden coexistir altres sistemes educatius, amb el sol requisit que es conclogui prèviament el corresponent conveni.
+A partir de la proclamació constitucional del dret a l'educació com un dret fonamental, l'Estat andorrà ha de dotar-se dels mecanismes per fer-lo efectiu, i a aquesta finalitat obeeix el sistema educatiu andorrà. Amb aquest sistema, poden coexistir altres sistemes educatius, amb el sol requisit que es conclogui prèviament el corresponent conveni.
 
 Pel que fa als centres docents, la llei distingeix entre els públics i els privats.
 
@@ -105,15 +107,15 @@ La llei  configura  els  centres  públics  d'una forma molt àmplia, entenent c
 
 La regulació de l'ensenyament especialitzat es deixa al Govern, per via de reglament, però es reserva a la llei ordinària  la  creació  de  centres  d'ensenyament superior o universitari.
 
-Per últim, la llei es refereix expressament a la situació dels diferents centres educatius que actualment estan oberts a Andorra  i  que  imparteixen  estudis d'acord amb els sistemes educatius espanyol o francès. La situació i l'estatut dels centres docents d'ensenyament francès i espanyol dependents de les Administracions públiques dels països veïns, així com el col.legi Sant Ermengol i les escoles de la Sagrada Família han de regularse  per  conveni  amb  el  Govern  d'Andorra.
+Per últim, la llei es refereix expressament a la situació dels diferents centres educatius que actualment estan oberts a Andorra i que imparteixen estudis d'acord amb els sistemes educatius espanyol o francès. La situació i l'estatut dels centres docents d'ensenyament francès i espanyol dependents de les Administracions públiques dels països veïns, així com el col.legi Sant Ermengol i les escoles de la Sagrada Família han de regular-se per conveni amb el Govern d'Andorra.
 
 ## Títol I. Principis generals
 
 #### Article 1
 
-- Tothom té dret a rebre una educació bàsica  que  li  permeti  desenvolupar  la pròpia personalitat, formar-se com a ciutadà i participar en el desenvolupament del país.
+1. Tothom té dret a rebre una educació bàsica que li permeti desenvolupar la pròpia personalitat, formar-se com a ciutadà i participar en el desenvolupament del país.
 
-- Igualment, tothom té dret a accedir als  nivells  superiors  de  l'ensenyament, en funció de les seves aptituds, aprofitament i vocació.
+2. Igualment, tothom té dret a accedir als nivells superiors de l'ensenyament, en funció de les seves aptituds, aprofitament i vocació.
 
 #### Article 2
 
@@ -121,29 +123,29 @@ L'educació es basa en els drets, llibertats  i  principis  que  s'estableixen  
 
 #### Article 3
 
-- L'activitat  educativa  s'adreçarà  a  la consecució de les finalitats següents:
+L'activitat educativa s'adreçarà a la consecució de les finalitats següents:
 
-- promoure i afavorir el desenvolupament de la personalitat de l'alumne.
+a) promoure i afavorir el desenvolupament de la personalitat de l'alumne.
 
-- impulsar  l'adquisició  d'hàbits  intel.lectuals i tècniques de treball.
+b) impulsar l'adquisició d'hàbits intel.lectuals i tècniques de treball.
 
-- transmetre coneixements científics, tècnics, humanístics, artístics i ètics.
+c) transmetre coneixements científics, tècnics, humanístics, artístics i ètics.
 
-- capacitar  per  a  l'exercici  d'activitats professionals.
+d) capacitar per a l'exercici d'activitats professionals.
 
-- impulsar  el  català  com  a  llengua pròpia del país, vetllant perquè s'assoleixi un domini correcte i un ús matisat i ric del català oral i escrit.
+e) impulsar el català com a llengua pròpia del país, vetllant perquè s'assoleixi un domini correcte i un ús matisat i ric del català oral i escrit.
 
-- fomentar  l'esperit  universal  crític, així com els comportaments d'autonomia i adaptabilitat, i contribuir a l'enriquiment dels elements culturals propis i específics de la societat andorrana.
+f) fomentar l'esperit universal crític, així com els comportaments d'autonomia i adaptabilitat, i contribuir a l'enriquiment dels elements culturals propis i específics de la societat andorrana.
 
-- fomentar la integració i  la  participació social i cívica.
+g) fomentar la integració i la participació social i cívica.
 
-- formar els infants i els joves en el respecte de la diversitat i dels drets i llibertats  fonamentals,  i  en  l'exercici  de la tolerància i la llibertat, dins els principis  democràtics  de  convivència  i  pluralisme.
+h) formar els infants i els joves en el respecte de la diversitat i dels drets i llibertats fonamentals, i en l'exercici de la tolerància i la llibertat, dins els principis democràtics de convivència i pluralisme.
 
 #### Article 4
 
-- L'educació  bàsica  és  obligatòria  i gratuïta per a tots els ciutadans, els naturals i els estrangers legalment residents, en els nivells que estableix l'article 7 de la present Llei. L'Estat garanteix aquest dret a través dels centres públics.
+1. L'educació bàsica és obligatòria i gratuïta per a tots els ciutadans, els naturals i els estrangers legalment residents, en els nivells que estableix l'article 7 de la present Llei. L'Estat garanteix aquest dret a través dels centres públics.
 
-- Es  garanteix  l'educació  bàsica  als adults a través d'un sistema de formació d'adults.
+2. Es garanteix l'educació bàsica als adults a través d'un sistema de formació d'adults.
 
 #### Article 5
 
@@ -151,7 +153,7 @@ L'estructura  educativa  andorrana  és plural.  Està  integrada  pels  centres
 
 #### Article 6
 
-- El sistema educatiu andorrà es regeix  per  la  present  Llei,  per  la  llei  de desenvolupament del sistema educatiu andorrà, per la llei de l'Escola Andorrana
+1. El sistema educatiu andorrà es regeix per la present Llei, per la llei de desenvolupament del sistema educatiu andorrà, per la llei de l'Escola Andorrana
 
 [[END OF PAGE 2]]
 
@@ -171,7 +173,7 @@ Aquesta és l'estructura educativa andorrana en el moment en què el poble andor
 
 La present Llei  desenvolupa,  en  primer lloc, el dret de tota persona a l'educació, dret que la Constitució reconeix amb el caràcter de fonamental i estableix l'escolarització obligatòria i gratuïta fins als 16 anys; el dret dels adults a la formació bàsica, i el principi d'igualtat en l'accés als  nivells  superiors  de  l'ensenyament.  Es refereix també a la llibertat de càtedra dels  ensenyants,  i  als  drets  dels  pares d'alumnes a escollir el tipus d'educació que desitgen per a llurs fills, així com als drets dels alumnes.
 
-A partir de la proclamació constitucional  del  dret  a  l'educació  com  un  dret fonamental, l'Estat andorrà ha de dotarse dels mecanismes per fer-lo efectiu, i a aquesta finalitat obeeix el sistema educatiu andorrà. Amb aquest sistema, poden coexistir altres sistemes educatius, amb el sol requisit que es conclogui prèviament el corresponent conveni.
+A partir de la proclamació constitucional del dret a l'educació com un dret fonamental, l'Estat andorrà ha de dotar-se dels mecanismes per fer-lo efectiu, i a aquesta finalitat obeeix el sistema educatiu andorrà. Amb aquest sistema, poden coexistir altres sistemes educatius, amb el sol requisit que es conclogui prèviament el corresponent conveni.
 
 Pel que fa als centres docents, la llei distingeix entre els públics i els privats.
 
@@ -179,15 +181,15 @@ La llei  configura  els  centres  públics  d'una forma molt àmplia, entenent c
 
 La regulació de l'ensenyament especialitzat es deixa al Govern, per via de reglament, però es reserva a la llei ordinària  la  creació  de  centres  d'ensenyament superior o universitari.
 
-Per últim, la llei es refereix expressament a la situació dels diferents centres educatius que actualment estan oberts a Andorra  i  que  imparteixen  estudis d'acord amb els sistemes educatius espanyol o francès. La situació i l'estatut dels centres docents d'ensenyament francès i espanyol dependents de les Administracions públiques dels països veïns, així com el col.legi Sant Ermengol i les escoles de la Sagrada Família han de regularse  per  conveni  amb  el  Govern  d'Andorra.
+Per últim, la llei es refereix expressament a la situació dels diferents centres educatius que actualment estan oberts a Andorra i que imparteixen estudis d'acord amb els sistemes educatius espanyol o francès. La situació i l'estatut dels centres docents d'ensenyament francès i espanyol dependents de les Administracions públiques dels països veïns, així com el col.legi Sant Ermengol i les escoles de la Sagrada Família han de regular-se per conveni amb el Govern d'Andorra.
 
 ## Títol I. Principis generals
 
 #### Article 1
 
-- Tothom té dret a rebre una educació bàsica  que  li  permeti  desenvolupar  la pròpia personalitat, formar-se com a ciutadà i participar en el desenvolupament del país.
+1. Tothom té dret a rebre una educació bàsica que li permeti desenvolupar la pròpia personalitat, formar-se com a ciutadà i participar en el desenvolupament del país.
 
-- Igualment, tothom té dret a accedir als  nivells  superiors  de  l'ensenyament, en funció de les seves aptituds, aprofitament i vocació.
+2. Igualment, tothom té dret a accedir als nivells superiors de l'ensenyament, en funció de les seves aptituds, aprofitament i vocació.
 
 #### Article 2
 
@@ -195,29 +197,29 @@ L'educació es basa en els drets, llibertats  i  principis  que  s'estableixen  
 
 #### Article 3
 
-- L'activitat  educativa  s'adreçarà  a  la consecució de les finalitats següents:
+L'activitat educativa s'adreçarà a la consecució de les finalitats següents:
 
-- promoure i afavorir el desenvolupament de la personalitat de l'alumne.
+a) promoure i afavorir el desenvolupament de la personalitat de l'alumne.
 
-- impulsar  l'adquisició  d'hàbits  intel.lectuals i tècniques de treball.
+b) impulsar l'adquisició d'hàbits intel.lectuals i tècniques de treball.
 
-- transmetre coneixements científics, tècnics, humanístics, artístics i ètics.
+c) transmetre coneixements científics, tècnics, humanístics, artístics i ètics.
 
-- capacitar  per  a  l'exercici  d'activitats professionals.
+d) capacitar per a l'exercici d'activitats professionals.
 
-- impulsar  el  català  com  a  llengua pròpia del país, vetllant perquè s'assoleixi un domini correcte i un ús matisat i ric del català oral i escrit.
+e) impulsar el català com a llengua pròpia del país, vetllant perquè s'assoleixi un domini correcte i un ús matisat i ric del català oral i escrit.
 
-- fomentar  l'esperit  universal  crític, així com els comportaments d'autonomia i adaptabilitat, i contribuir a l'enriquiment dels elements culturals propis i específics de la societat andorrana.
+f) fomentar l'esperit universal crític, així com els comportaments d'autonomia i adaptabilitat, i contribuir a l'enriquiment dels elements culturals propis i específics de la societat andorrana.
 
-- fomentar la integració i  la  participació social i cívica.
+g) fomentar la integració i la participació social i cívica.
 
-- formar els infants i els joves en el respecte de la diversitat i dels drets i llibertats  fonamentals,  i  en  l'exercici  de la tolerància i la llibertat, dins els principis  democràtics  de  convivència  i  pluralisme.
+h) formar els infants i els joves en el respecte de la diversitat i dels drets i llibertats fonamentals, i en l'exercici de la tolerància i la llibertat, dins els principis democràtics de convivència i pluralisme.
 
 #### Article 4
 
-- L'educació  bàsica  és  obligatòria  i gratuïta per a tots els ciutadans, els naturals i els estrangers legalment residents, en els nivells que estableix l'article 7 de la present Llei. L'Estat garanteix aquest dret a través dels centres públics.
+1. L'educació bàsica és obligatòria i gratuïta per a tots els ciutadans, els naturals i els estrangers legalment residents, en els nivells que estableix l'article 7 de la present Llei. L'Estat garanteix aquest dret a través dels centres públics.
 
-- Es  garanteix  l'educació  bàsica  als adults a través d'un sistema de formació d'adults.
+2. Es garanteix l'educació bàsica als adults a través d'un sistema de formació d'adults.
 
 #### Article 5
 
@@ -225,7 +227,7 @@ L'estructura  educativa  andorrana  és plural.  Està  integrada  pels  centres
 
 #### Article 6
 
-- El sistema educatiu andorrà es regeix  per  la  present  Llei,  per  la  llei  de desenvolupament del sistema educatiu andorrà, per la llei de l'Escola Andorrana
+1. El sistema educatiu andorrà es regeix per la present Llei, per la llei de desenvolupament del sistema educatiu andorrà, per la llei de l'Escola Andorrana
 
 [[END OF PAGE 3]]
 
@@ -237,17 +239,17 @@ Butlletí Oficial del Principat d'Andorra
 
 885
 
-- i  per  les  disposicions  que  les  complementin i desenvolupin.
+i per les disposicions que les complementin i desenvolupin.
 
-- Els sistemes educatius diferents de l'andorrà  es  regulen  per  les  seves  pròpies normes en allò que no hagi estat modificat pel conveni que els reconeix, i sense perjudici de l'aplicació directa d'aquesta Llei i de les disposicions que la desenvolupen en allò que es prevegi expressament.
+2. Els sistemes educatius diferents de l'andorrà es regulen per les seves pròpies normes en allò que no hagi estat modificat pel conveni que els reconeix, i sense perjudici de l'aplicació directa d'aquesta Llei i de les disposicions que la desenvolupen en allò que es prevegi expressament.
 
 #### Article 7
 
-- L'escolaritat  obligatòria  inclou  els nivells de primera i segona ensenyança. Comprèn des dels 6 anys fins als 16 anys.
+1. L'escolaritat obligatòria inclou els nivells de primera i segona ensenyança. Comprèn des dels 6 anys fins als 16 anys.
 
-- Tot infant tindrà el dret de ser escolaritzat a partir dels 3 anys, si els pares o el tutor així ho demanen.
+2. Tot infant tindrà el dret de ser escolaritzat a partir dels 3 anys, si els pares o el tutor així ho demanen.
 
-- Els alumnes podran ser escolaritzats fins als 18 anys per cursar el nivell de segona ensenyança.
+3. Els alumnes podran ser escolaritzats fins als 18 anys per cursar el nivell de segona ensenyança.
 
 #### Article 8
 
@@ -255,9 +257,9 @@ L'atenció  dels  alumnes  amb  necessitats educatives  especials  es  regirà  
 
 #### Article 9
 
-- Els alumnes tenen dret a rebre una orientació escolar i professional i a percebre els ajuts necessaris per compensar possibles  mancances de tipus familiar, econòmic, social i cultural, d'acord amb la llei.
+1. Els alumnes tenen dret a rebre una orientació escolar i professional i a percebre els ajuts necessaris per compensar possibles mancances de tipus familiar, econòmic, social i cultural, d'acord amb la llei.
 
-- Els alumnes tenen dret a que el seu rendiment escolar sigui valorat amb criteris objectius.
+2. Els alumnes tenen dret a que el seu rendiment escolar sigui valorat amb criteris objectius.
 
 #### Article 10
 
@@ -277,9 +279,9 @@ Es facilitarà l'accés a les Universitats i centres d'ensenyament superior per 
 
 #### Article 14
 
-- Els títols acadèmics i professionals expedits per l'Estat, d'acord amb les diferents modalitats del sistema educatiu andorrà, tindran plena validesa acadèmica i professional dins del territori andorrà.
+1. Els títols acadèmics i professionals expedits per l'Estat, d'acord amb les diferents modalitats del sistema educatiu andorrà, tindran plena validesa acadèmica i professional dins del territori andorrà.
 
-- El  reconeixement  i  homologació dels títols acadèmics i professionals lliurats pels sistemes educatius estrangers, i el reconeixement a l'estranger dels títols lliurats pel sistema educatiu andorrà, es regularan pels corresponents convenis.
+2. El reconeixement i homologació dels títols acadèmics i professionals lliurats pels sistemes educatius estrangers, i el reconeixement a l'estranger dels títols lliurats pel sistema educatiu andorrà, es regularan pels corresponents convenis.
 
 #### Article 15
 
@@ -287,9 +289,9 @@ El  Govern  fixarà  anualment  el  calendari escolar de tots els centres docent
 
 #### Article 16
 
-- Correspon al Govern la planificació general de l'ensenyament, d'acord amb les necessitats educatives, per tal de garantir l'exercici efectiu del dret a l'educació i a la llibertat d'ensenyament.
+1. Correspon al Govern la planificació general de l'ensenyament, d'acord amb les necessitats educatives, per tal de garantir l'exercici efectiu del dret a l'educació i a la llibertat d'ensenyament.
 
-- En la seva funció de planificació, el Govern  tindrà  en  compte  l'existència d'opcions provinents dels sistemes educatius diferents de l'andorrà.
+2. En la seva funció de planificació, el Govern tindrà en compte l'existència d'opcions provinents dels sistemes educatius diferents de l'andorrà.
 
 ## Títol II. Els sistemes educatius
 
@@ -325,13 +327,13 @@ Sobre els centres dependents dels sistemes educatius altres que l'andorrà, el G
 
 #### Article 23
 
-- Els centres docents poden ser públics o privats.
+1. Els centres docents poden ser públics o privats.
 
-- Els centres públics són l'instrument per garantir el dret a l'educació reconegut per la present Llei. Poden ser estatals o no-estatals.
+2. Els centres públics són l'instrument per garantir el dret a l'educació reconegut per la present Llei. Poden ser estatals o no-estatals.
 
-- Són centres públics estatals els que crea el Govern i se sostenen amb càrrec al pressupost general.
+a) Són centres públics estatals els que crea el Govern i se sostenen amb càrrec al pressupost general.
 
-- Són  centres  públics  no-estatals aquells  que  depenen  d'una  persona pública o privada lligada per conveni,
+b) Són centres públics no-estatals aquells que depenen d'una persona pública o privada lligada per conveni,
 
 [[END OF PAGE 4]]
 
@@ -343,33 +345,33 @@ Butlletí Oficial del Principat d'Andorra
 
 Núm. 51 - any 5 - 28.9.1993
 
-- concert,  contracte  o  altra  fórmula d'acord de voluntats amb el Govern.
+concert, contracte o altra fórmula d'acord de voluntats amb el Govern.
 
-- Els centres privats són expressió del principi  constitucional  de  llibertat  de creació de centres docents. El seu titular pot ser una persona pública diferent de l'Estat o una persona física o jurídica de caràcter privat.
+3. Els centres privats són expressió del principi constitucional de llibertat de creació de centres docents. El seu titular pot ser una persona pública diferent de l'Estat o una persona física o jurídica de caràcter privat.
 
 #### Article 24
 
-- En  funció  dels  nivells  d'ensenyament  que  imparteixin,  els  centres  docents es classifiquen en:
+1. En funció dels nivells d'ensenyament que imparteixin, els centres docents es classifiquen en:
 
-- Centres d'educació maternal.
+a) Centres d'educació maternal.
 
-- Centres de primera ensenyança.
+b) Centres de primera ensenyança.
 
-- Centres de segona ensenyança.
+c) Centres de segona ensenyança.
 
-- Centres de batxillerat.
+d) Centres de batxillerat.
 
-- Centres de formació professional.
+e) Centres de formació professional.
 
-- Centres universitaris.
+f) Centres universitaris.
 
-- El Govern determinarà reglamentàriament les condicions necessàries per obrir  centres  docents  que  imparteixin  ensenyaments no compresos a l'apartat anterior, així com la validesa i efectes dels títols que aquests centres lliurin.
+2. El Govern determinarà reglamentàriament les condicions necessàries per obrir centres docents que imparteixin ensenyaments no compresos a l'apartat anterior, així com la validesa i efectes dels títols que aquests centres lliurin.
 
 #### Article 25
 
-- L'obertura  i  el  funcionament  dels centres privats estan subjectes al règim d'autorització  administrativa,  que  es  concedirà quan es compleixin els requisits mínims  que  s'estableixin  amb  caràcter general. L'autorització es revocarà, sense dret  a  indemnització,  quan  els  centres deixin de complir aquells requisits.
+1. L'obertura i el funcionament dels centres privats estan subjectes al règim d'autorització administrativa, que es concedirà quan es compleixin els requisits mínims que s'estableixin amb caràcter general. L'autorització es revocarà, sense dret a indemnització, quan els centres deixin de complir aquells requisits.
 
-- La creació i el funcionament a Andorra de centres docents que imparteixin ensenyaments diferents dels del sistema educatiu andorrà es regularà per conveni.
+2. La creació i el funcionament a Andorra de centres docents que imparteixin ensenyaments diferents dels del sistema educatiu andorrà es regularà per conveni.
 
 #### Article 26
 
@@ -377,15 +379,15 @@ Núm. 51 - any 5 - 28.9.1993
 
 També podran obrir i dirigir  els  centres que s'especifiquen en l'apartat anterior, les societats d'interès públic constituïdes d'acord amb el que preveu la legislació mercantil vigent.
 
-- Per excepció al que estableix el paràgraf anterior, no podran ser titulars de centres docents:
+2. Per excepció al que estableix el paràgraf anterior, no podran ser titulars de centres docents:
 
-- Els funcionaris  públics  i el personal que estigui al servei de qualsevol Administració pública.
+a) Els funcionaris públics i el personal que estigui al servei de qualsevol Administració pública.
 
-- Les persones que prestin serveis o assessoraments a qualsevol Administració pública o centre docent estatal.
+b) Les persones que prestin serveis o assessoraments a qualsevol Administració pública o centre docent estatal.
 
-- Els que tinguin antecedents penals per delicte dolós.
+c) Els que tinguin antecedents penals per delicte dolós.
 
-- Les  persones jurídiques  en  què  una o més persones físiques incloses als apartats  anteriors  exerceixin  càrrecs socials o posseeixin capital social.
+d) Les persones jurídiques en què una o més persones físiques incloses als apartats anteriors exerceixin càrrecs socials o posseeixin capital social.
 
 #### Article 27
 
@@ -393,35 +395,35 @@ Tots els centres docents, públics i privats, hauran de reunir uns requisits mí
 
 #### Article 28
 
-- Tots els centres docents tindran una denominació pròpia. S'inscriuran en un registre que portarà el Govern a través del servei corresponent.
+1. Tots els centres docents tindran una denominació pròpia. S'inscriuran en un registre que portarà el Govern a través del servei corresponent.
 
-- Als centres docents els queda prohibit  l'ús  de  denominacions  que  puguin induir a confusió sobre el nivell dels ensenyaments que imparteixen, el sistema educatiu que segueixen, la validesa acadèmica dels estudis o qualsevol altra.
+2. Als centres docents els queda prohibit l'ús de denominacions que puguin induir a confusió sobre el nivell dels ensenyaments que imparteixen, el sistema educatiu que segueixen, la validesa acadèmica dels estudis o qualsevol altra.
 
 #### Article 29
 
-- Són centres universitaris o centres d'ensenyament superior els que siguin reconeguts com a tals per llei del Consell General a proposta de Govern.
+1. Són centres universitaris o centres d'ensenyament superior els que siguin reconeguts com a tals per llei del Consell General a proposta de Govern.
 
-- El Govern determinarà amb caràcter general  el  número  de  centres  i  les  exigències de material i de personal mínim que hauran de reunir aquests centres.
+2. El Govern determinarà amb caràcter general el número de centres i les exigències de material i de personal mínim que hauran de reunir aquests centres.
 
-- La  llibertat  de  creació  de  centres docents reconeguda en l'article 20, apartat 2n. de la Constitució, comprèn la llibertat de creació de centres d'ensenyament superior de titularitat privada. Aquests centres s'hauran d'ajustar a  les  normes  previstes  en  els  apartats anteriors.
+3. La llibertat de creació de centres docents reconeguda en l'article 20, apartat 2n. de la Constitució, comprèn la llibertat de creació de centres d'ensenyament superior de titularitat privada. Aquests centres s'hauran d'ajustar a les normes previstes en els apartats anteriors.
 
-- Correspon al Govern l'homologació dels títols expedits pels centres privats d'acord amb la reglamentació que s'estableixi.
+4. Correspon al Govern l'homologació dels títols expedits pels centres privats d'acord amb la reglamentació que s'estableixi.
 
 ## Títol IV. El Consell Andorrà de l'Ensenyament
 
 #### Article 30
 
-- El  Consell  Andorrà  de  l'Ensenyament (CADE) serà el màxim òrgan col.legiat de participació dels diferents sectors de la comunitat educativa per a la planificació general de l'ensenyament i d'assessorament i consulta del Govern.
+1. El Consell Andorrà de l'Ensenyament (CADE) serà el màxim òrgan col.legiat de participació dels diferents sectors de la comunitat educativa per a la planificació general de l'ensenyament i d'assessorament i consulta del Govern.
 
-- El  president  del  CADE  serà  el  ministre d'Educació o una altra persona nomenada pel Govern, a proposta del ministre d'Educació.
+2. El president del CADE serà el ministre d'Educació o una altra persona nomenada pel Govern, a proposta del ministre d'Educació.
 
-- El CADE podrà formular propostes per millorar l'eficàcia, el rendiment i la qualitat de l'ensenyament i podrà elaborar  estudis  a  fi  d'experimentar  i  investigar sobre noves propostes educatives i mètodes d'estudi.
+3. El CADE podrà formular propostes per millorar l'eficàcia, el rendiment i la qualitat de l'ensenyament i podrà elaborar estudis a fi d'experimentar i investigar sobre noves propostes educatives i mètodes d'estudi.
 
 #### Article 31
 
-- La composició i el funcionament del CADE s'establiran reglamentàriament.
+1. La composició i el funcionament del CADE s'establiran reglamentàriament.
 
-- Es podran incorporar al CADE, amb caràcter permanent o per a temes específics,  experts estrangers nomenats pel Govern a proposta del ministre d'Educació.
+2. Es podran incorporar al CADE, amb caràcter permanent o per a temes específics, experts estrangers nomenats pel Govern a proposta del ministre d'Educació.
 
 ## Disposicions addicionals
 
@@ -463,9 +465,10 @@ Jordi Farràs Forné Síndic General
 
 Nosaltres els Coprínceps la sancionem i promulguem i n'ordenem la publicació en el Butlletí Oficial del Principat d'Andorra.
 
-François Mitterrand President de la República Francesa
-
-Copríncep d'Andorra Joan Martí Alanís Bisbe d'Urgell Copríncep d'Andorra
+François Mitterrand | Joan Martí Alanís
+--- | ---
+President de la República Francesa | Bisbe d'Urgell
+Copríncep d'Andorra | Copríncep d'Andorra
 
 # Llei qualificada de la nacionalitat
 
