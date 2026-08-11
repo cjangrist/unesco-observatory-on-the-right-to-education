@@ -13,14 +13,14 @@ DECRETA:
 ### De la formación y las instituciones de educación superior técnicas profesionales y tecnológicas
 
 #### Artículo  1°.  Instituciones  técnicas  profesionales.
-Son  Instituciones  de  Educación  Superior,  que  se  caracterizan por  su  vocación  e  identidad  manifiesta  en  los  campos  de  l os  conocimientos  y  el  trabajo  en  actividades  de carácter  técnico,  debidamente  fundamentadas  en  la  naturaleza  de  un  saber,  cuya  formación  debe  garantizar  la interacción de lo intelectual con lo instrumental, lo operacional y el saber técnico.
+Son  Instituciones  de  Educación  Superior,  que  se  caracterizan por  su  vocación  e  identidad  manifiesta  en  los  campos  de  los  conocimientos  y  el  trabajo  en  actividades  de carácter  técnico,  debidamente  fundamentadas  en  la  naturaleza  de  un  saber,  cuya  formación  debe  garantizar  la interacción de lo intelectual con lo instrumental, lo operacional y el saber técnico.
 
 Estas  instituciones  podrán  ofrecer  y  desarrollar  programas  de  formación  hasta  el  nivel  profesional,  solo  por ciclos  propedéuticos  y  en  las  áreas  de  las  ingenierías,  tecnología  de  la  información  y  administración,  siempre que  se  deriven  de  los  programas  de  formación  técnica  profesional  y  tecnológica  que  ofrezcan,  y  previo cumplimiento de los requisitos señalados en la presente ley.
 
 #### Artículo  2°.  Instituciones  tecnológicas.
 Son  Instituciones  de  Educación  Superior,  que  se  caracterizan  por  su vocación e identidad manifiestas en los campos de los conocimientos y profesiones de carácter tecnológico, con fundamentación científica e investigativa.
 
-Estas  instituciones  podrán  ofrecer  y  desarrollar  programas  de  formación  hasta  el  nivel  profesional,  solo  por ciclos  propedéuticos  y  e n  las  áreas  de  las  ingenierías,  tecnología  de  la  información  y  administración,  siempre que se deriven de los programas de formación tecnológica que ofrezcan, y previo cumplimiento de los requisitos señalados en la presente ley.
+Estas  instituciones  podrán  ofrecer  y  desarrollar  programas  de  formación  hasta  el  nivel  profesional,  solo  por ciclos  propedéuticos  y  en  las  áreas  de  las  ingenierías,  tecnología  de  la  información  y  administración,  siempre que se deriven de los programas de formación tecnológica que ofrezcan, y previo cumplimiento de los requisitos señalados en la presente ley.
 
 #### Artículo  3°.  De  los  ciclos de  formación.
 Las  instituciones  técnicas  profesionales  y  tecnológicas  de  educación superior  organizarán  su  actividad  formativa  de  pregrado  en  ciclos  propedéuticos  de  formación  en  las  áreas  de las ingenierías, la tecnología de la información y la administración, así:
@@ -43,12 +43,12 @@ Las  instituciones  técnicas  profesionales  y  tecnológicas  de  educación  
 Las  instituciones  técnicas  profesionales  e  instituciones  tecnológicas  otorgarán  los títulos correspondientes a los programas que puedan ofrecer de conformidad con la presente ley en concordancia con la Ley 30 de 1992 y la Ley 115 de 1994.
 
 #### Artículo  5°.  De  la  transferencia  de  estudiantes.
-Todas  las  Instituciones  de  Educación  Superior,  por  el  hecho  de formar  porte  del  Sistema  de  Educación  Superior  al  reglamentar,  en  uso  de  su  autonomía  responsable,  los criterios  de  transferencia de estudiantes e ingreso a programas de formación, adoptarán los procedimientos que permitan  la  movilidad  estudiantil  de  quienes  hayan  cursado  programas  técnicos  profesionales  y  tecnológicos, teniendo en cuenta el reconocimiento de los títulos otorgados por las instituciones del sistema.
+Todas  las  Instituciones  de  Educación  Superior,  por  el  hecho  de formar  parte  del  Sistema  de  Educación  Superior  al  reglamentar,  en  uso  de  su  autonomía  responsable,  los criterios  de  transferencia de estudiantes e ingreso a programas de formación, adoptarán los procedimientos que permitan  la  movilidad  estudiantil  de  quienes  hayan  cursado  programas  técnicos  profesionales  y  tecnológicos, teniendo en cuenta el reconocimiento de los títulos otorgados por las instituciones del sistema.
 
 #### Artículo  6°.  De  la  articulación  con  la  media  técnica.
 Las  instituciones  técnicas  profesionales,  a  pesar  del desarrollo  curricular  que  logren  realizar  a  través  de  los ciclos propedéuticos, mantendrán el nivel técnico en los diferentes  programas  que  ofrezcan  para  permitirles  complementariamente  a  los  estudiantes  que  concluyan  su educación  básica  secundaria  y  deseen  iniciarse  en  una  carrera  técnica  su  iniciación  en  la educación superior; en caso de que estos estudiantes opten en el futuro por el ciclo tecnológico y/o profesional deberán graduarse como bachilleres.
 
-Las instituciones  técnicas  profesionales,  en  uso  de  su  autonomía  responsable,  fijarán  los  criterios  que  p ermitan la  homologación  o  validación  de  contenidos  curriculares  a  quienes  hayan  cursado  sus  estudios  de  educación media en colegios técnicos, teniendo en cuenta el reconocimiento de los títulos otorgados por las instituciones del sistema.
+Las instituciones  técnicas  profesionales,  en  uso  de  su  autonomía  responsable,  fijarán  los  criterios  que  permitan la  homologación  o  validación  de  contenidos  curriculares  a  quienes  hayan  cursado  sus  estudios  de  educación media en colegios técnicos, teniendo en cuenta el reconocimiento de los títulos otorgados por las instituciones del sistema.
 
 ## CAPITULO II
 
@@ -71,11 +71,13 @@ Podrán  igualmente  ingresar  a  los  programas  de  formación técnica profes
 Para poder ofrecer y desarrollar un programa  de formación técnica profesional, tecnológica, y profesional de pregrado, o de especialización,  nuevo  o  en  funcionamiento,  se  requiere  obtener  registro  calificado  del  mismo.  El  Gobierno Nacional  reglamentará:  el  registro  de  programas  académicos,  los  estándares  mínimos,  y  los  exámenes  de calidad  de  los  estudiantes  de  educación  superior,  como  herramientas  de  medición  y  evaluación  de  calidad  e instrumentos de inspección y vigilancia de la educación superior.
 
 #### Artículo  9°.  De  la  definición  de  estándares  mínimos  de  calidad  y  criterios  de  evaluación  de  la  información.
-El Gobierno  Nacional  con  la  participación  de  la  comunidad  académica  y  el  sector  productivo  del  país,  definirá  en un  término  no  mayor  de  un  año,  los  estándares  mínimos  de  calidad  de  los  programas  de  formación  técnica profesional  y  tecnológica  y  los  criterios  para  la  evaluación  de  los  mismos,  los  cuales  serán  tenidos  en  cuenta, tanto  por  las  instituciones  de  educación  superior  que  los  ofrezcan,  como  por  quienes  efectúen  la  e valuación de la información presentada por las mismas.
+El Gobierno  Nacional  con  la  participación  de  la  comunidad  académica  y  el  sector  productivo  del  país,  definirá  en un  término  no  mayor  de  un  año,  los  estándares  mínimos  de  calidad  de  los  programas  de  formación  técnica profesional  y  tecnológica  y  los  criterios  para  la  evaluación  de  los  mismos,  los  cuales  serán  tenidos  en  cuenta,
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+tanto por las instituciones de educación superior que los ofrezcan, como por quienes efectúen la evaluación de la información presentada por las mismas.
 
 #### Artículo 10. De los programas actuales.
 Las instituciones técnicas profesionales y las Instituciones Tecnológicas podrán  seguir  ofreciendo  y  desarrollando  los  programas  académicos  que  a  la  expedición  de  la  presente  ley tengan  registrados  en  el  Sistema  Nacional  de  Información  de  la  Educación  Superior,  o  que  encontrándose  en trámite  obtengan  el  respectivo.  Una  vez  se  expidan  los  respectivos  estándares  mínimos  de  calidad  deberán someter los programas al cumplimiento de los mismos.
@@ -83,12 +85,12 @@ Las instituciones técnicas profesionales y las Instituciones Tecnológicas podr
 #### Artículo  11.
 Las  instituciones  técnicas  profesionales  y  tecnológicas  son  por  su  esencia  y  naturaleza  las instituciones  de  educación  superior  llamadas  a  liderar  la  formación  técnica  y  tecnológica  en  el  país,  y  a responder socialmente a la demanda de este tipo de formación con altos niveles de calidad.
 
-No  obstante  lo  anterior,  las  instituciones  técnicas  profesionales  y  tecnológicas  podrán  ofrecer  programas profesionales  solo  a  través  de  ciclos  propedéuticos,  cuando  se  deriven  de  l os  programas  de  formación  técnica profesional  y  tecnológica,  siempre  que  cumplan  con  los  requisitos  mínimos  de  calidad  y  una  vez  obtengan  la acreditación de excelencia de los dos primeros ciclos por el Consejo Nacional de Acreditación.
+No  obstante  lo  anterior,  las  instituciones  técnicas  profesionales  y  tecnológicas  podrán  ofrecer  programas profesionales  solo  a  través  de  ciclos  propedéuticos,  cuando  se  deriven  de  los  programas  de  formación  técnica profesional  y  tecnológica,  siempre  que  cumplan  con  los  requisitos  mínimos  de  calidad  y  una  vez  obtengan  la acreditación de excelencia de los dos primeros ciclos por el Consejo Nacional de Acreditación.
 
 En  concordancia  con  lo  señalado  en  el  inciso  anterior,  de  cancelarse  un  programa  de  nivel  técnico  profesional por  motivación  institucional  quedarían  consecuentemente  cancelados  aquellos  de  nivel  tecnológico  y  profesional a los que el técnico profesional diera origen a partir del desarrollo curricular por ciclos propedéuticos.
 
 #### Artículo  12.  De  la  acreditación  de  excelencia  de  los  programas  técnicos  y  tecnológicos.
-La  acreditación  de  los programas  técnicos  profesionales  y  tecnológicos  es  el  acto  por  el  cual  el  Estado  adopta  y  h ace  público  el reconocimiento  que  los  pares  académicos  y  el  sector  productivo  del  país  hacen  de  la  comprobación  que  una institución efectúa sobre la calidad de sus programas técnicos y/o tecnológicos, su organización, su funcionamiento y el cumplimiento de su función social.
+La  acreditación  de  los programas  técnicos  profesionales  y  tecnológicos  es  el  acto  por  el  cual  el  Estado  adopta  y  hace  público  el reconocimiento  que  los  pares  académicos  y  el  sector  productivo  del  país  hacen  de  la  comprobación  que  una institución efectúa sobre la calidad de sus programas técnicos y/o tecnológicos, su organización, su funcionamiento y el cumplimiento de su función social.
 
 La  acreditación  tiene  carácter  voluntario  y  temporal.  Se  requiere  una  comprobación  periódica  ante  pares académicos,  nombrados  por  el  Consejo  Nacional de Acreditación CNA,  con  la participación del sector productivo  del  país,  de  la  capacidad  de  autorregulación  y  de  la  calidad  de  la  institución  y  sus  programas  para continuar gozando de la acreditación.
 
@@ -104,12 +106,14 @@ Las  instituciones  técnicas  profesionales  y  tecnológicas, podrán  solicit
 #### Artículo  14.  De  la  redefinición  de  las  instituciones  de  educación  superior  técnicas  profesionales  y  tecnológicas.
 Las  instituciones  técnicas  profesionales  y  tecnológicas  a  partir  de  lo  señalado  en  la  presente  ley  que  decidan ofrecer  la  formación  por  ciclos  propedéuticos  podrán  solicitar  al  Ministro  de  Educación  Nacional,  a  través  del Instituto  Colombiano  para  el  Fomento  de  la  Educación  Superior, ICFES,  el  reconocimiento  de  las  reformas estatutarias  que  las  redefinan  de  conformidad  con  lo  establecido  en  los  artículos  primero,  segundo  y  tercero  de esta ley siempre y cuando cumplan con los requisitos establecidos por el Gobierno Nacional.
 
-#### Artículo  1 5.  De  los  requisitos  para  el  reconocimiento  del  nuevo  carácter  académico  de  instituciones  técnicas profesionales y tecnológicas, o su redefinición y sus criterios de evaluación.
-El Ministerio de Educación Nacional en  un  plazo  no  mayor  a  un  año  contado  a  partir  de  la  expedición  de  la  presente  ley,  con  el  apoyo  técnico  del Instituto Colombiano para el Fomento de la Educación Superior ICFES, de la comunidad académica y del sector productivo  del  país,  definirá  los  requisitos  mínimos  que  deberán  cumplir  las  instituciones técnicas profesionales y  tecnológicas  que  deseen  redefinirse  o  cambiar  su  carácter  académico  al  de  Instituciones  Universitarias  o Escuelas  Tecnológicas,  y  los  criterios  para  su  evaluación  en  el  proceso  al  que  se  refieren  los  artículos anteriores,  que  serán  tenidos  en  cuenta  tanto  por  las  instituciones  como  por  quienes  efectúen  la  evaluación  de la información presentada por las instituciones.
+#### Artículo  15.  De  los  requisitos  para  el  reconocimiento  del  nuevo  carácter  académico  de  instituciones  técnicas profesionales y tecnológicas, o su redefinición y sus criterios de evaluación.
+El Ministerio de Educación Nacional en  un  plazo  no  mayor  a  un  año  contado  a  partir  de  la  expedición  de  la  presente  ley,  con  el  apoyo  técnico  del Instituto Colombiano para el Fomento de la Educación Superior ICFES, de la comunidad académica y del sector
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+productivo del país, definirá los requisitos mínimos que deberán cumplir las instituciones técnicas profesionales y tecnológicas que deseen redefinirse o cambiar su carácter académico al de Instituciones Universitarias o Escuelas Tecnológicas, y los criterios para su evaluación en el proceso al que se refieren los artículos anteriores, que serán tenidos en cuenta tanto por las instituciones como por quienes efectúen la evaluación de la información presentada por las instituciones.
 
 La  reglamentación  que  para  tal  efecto  expida  el  Gobierno  Nacional  deberá  contemplar  como  mínimo  los siguientes requisitos o criterios de evaluación:
 
