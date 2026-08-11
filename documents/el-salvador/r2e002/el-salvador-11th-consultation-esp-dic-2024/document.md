@@ -12,7 +12,7 @@ Undécima  consulta  de  los  Estados  Miembros  sobre  la  aplicación  de  la 
 
 ## 1. Introducción
 
-La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza ('la Convención') y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la  Enseñanza  ('la  Recomendación'),  que  fueron  aprobadas  por  la  C onferencia  General  de  la UNESCO  en  1960,  se  ajustan  al  mandato  constitucional  de  la  Organización  consistente  en 'fomentar el ideal de la igualdad de posibilidades de educación para todos, sin distinción de raza, sexo ni condición social o económica alguna' . La Convención es el primer instrumento internacional jurídicamente vinculante centrado en el derecho a la  educación y el único dedicado exclusivamente a tal derecho.
+La Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (“la Convención”) y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (“la Recomendación”), que fueron aprobadas por la Conferencia General de la UNESCO en 1960, se ajustan al mandato constitucional de la Organización consistente en “fomentar el ideal de la igualdad de posibilidades de educación para todos, sin distinción de raza, sexo ni condición social o económica alguna”. La Convención es el primer instrumento internacional jurídicamente vinculante centrado en el derecho a la educación y el único dedicado exclusivamente a tal derecho.
 
 El derecho a la educación es uno de los principios clave que sustentan la agenda Educación 2030 y  el  Objetivo  de  Desarrollo  Sostenible 4  (ODS 4),  aprobados  por  la  comunidad  internacional  en 2015.  El  ODS 4  busca  garantizar  el  pleno  disfrute  del  derecho  a  la  educación  como  elemento fundamental para lograr el desarrollo sostenible. Su alcance refleja la naturaleza multidimensional del derecho a la educación.
 
@@ -24,15 +24,17 @@ Las presentes directrices tienen por objeto ayudar a los Estados Miembros a prep
 
 Habida cuenta de la agenda Educación 2030, el seguimiento de la Convención y la Recomendación es de vital importancia a fin de garantizar que la educación sea realmente inclusiva para todos y hacer  frente  a  la  persistencia  de  las  desigualdades  en  cuanto  al  acceso,  la  participación  y  los resultados del aprendizaje en todos los niveles, especialmente para los grupos más vulnerables. Esto  es  particularmente  cierto  en  el  contexto  actual,  en  el  que  los  países  se  esfuerzan  por recuperarse de la interrupción del aprendizaje causada por la pandemia de COVID-19. Las medidas concretas adoptadas por los países en consonancia con sus obligaciones jurídicas en virtud de estos instrumentos contribuyen a la aplicación de la agenda Educación 2030.
 
-Dado que el alcance y el contenido de las obligaciones jurídicas en virtud del derecho a la educación están en consonancia con las diez metas del ODS 4, se están invirtiendo esfuerzos en velar por que las  directrices  incluyan  los  componentes  de  las  metas  y  sean  una  valiosa  contribución  al seguimiento de los progresos realizados hacia la consecución de las metas del ODS 4.
+Dado que el alcance y el contenido de las obligaciones jurídicas en virtud del derecho a la educación están en consonancia con las diez metas del ODS 4, se están invirtiendo esfuerzos en velar por que
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
+las directrices incluyan los componentes de las metas y sean una valiosa contribución al seguimiento de los progresos realizados hacia la consecución de las metas del ODS 4.
+
 La Convención no solo se ajusta plenamente al ODS 4, sino también al contenido normativo sobre el derecho a la educación de otros instrumentos internacionales de derechos humanos, como el Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966), la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (1979), la Convención sobre los Derechos del Niño (1989) y la Convención sobre los Derechos de las Personas con Discapacidad (2006).
 
-Esta consulta es asimismo una oportunidad para aportar una contribución a la iniciativa en curso de la UNESCO sobre la evolución del derecho a la educación dentro de una perspectiva de aprendizaje permanente 1  (puesta en marcha en diciembre de 2021). Esta iniciativa busca maneras de reforzar el derecho a la educación enmarcándolo en una perspectiva de aprendizaje permanente y tomando en consideración las nuevas exigencias que se plantean a la educación. Reposa en el informe de la Comisión Internacional sobre los Futuros de la Educación 2 , en el que se propone ampliar explícitamente nuestro enfoque del derecho a la educación a todas las edades, a todos los tiempos y a todos los espacios. La iniciativa también está en consonancia con la Declaración de visión  del  Secretario  General  de  las  Naciones  Unidas  sobre  la  transformación  de  la educación 3 y con el Informe de la Cumbre sobre la Transformación de la Educación (2022) 4 , el cual aboga por la transformación de los sistemas educativos para 'incluir a todos, independientemente de las circunstancias, el contexto o el origen'. La iniciativa sobre la evolución del  derecho  a  la  educación  tiene  por  finalidad  poner  en  marcha  un  análisis  colaborativo  y participativo sobre el marco internacional para garantizar la observancia efectiva del derecho a la educación y al aprendizaje a lo largo de toda la vida para todos. Por último, la iniciativa se basa en diálogos  intergubernamentales  recientes,  en  particular  el  Marco  de  Acción  de  Marrakech  Aprovechar el poder transformador del aprendizaje y la educación de adultos 5  y la Declaración de Tashkent y los Compromisos de Acción para Transformar la Atención y Educación de la Primera Infancnia 6 .
+Esta consulta es asimismo una oportunidad para aportar una contribución a la iniciativa en curso de la UNESCO sobre la evolución del derecho a la educación dentro de una perspectiva de aprendizaje permanente1 (puesta en marcha en diciembre de 2021). Esta iniciativa busca maneras de reforzar el derecho a la educación enmarcándolo en una perspectiva de aprendizaje permanente y tomando en consideración las nuevas exigencias que se plantean a la educación. Reposa en el informe de la Comisión Internacional sobre los Futuros de la Educación2, en el que se propone ampliar explícitamente nuestro enfoque del derecho a la educación a todas las edades, a todos los tiempos y a todos los espacios. La iniciativa también está en consonancia con la Declaración de visión del Secretario General de las Naciones Unidas sobre la transformación de la educación3 y con el Informe de la Cumbre sobre la Transformación de la Educación (2022)4, el cual aboga por la transformación de los sistemas educativos para “incluir a todos, independientemente de las circunstancias, el contexto o el origen”. La iniciativa sobre la evolución del derecho a la educación tiene por finalidad poner en marcha un análisis colaborativo y participativo sobre el marco internacional para garantizar la observancia efectiva del derecho a la educación y al aprendizaje a lo largo de toda la vida para todos. Por último, la iniciativa se basa en diálogos intergubernamentales recientes, en particular el Marco de Acción de Marrakech - Aprovechar el poder transformador del aprendizaje y la educación de adultos5 y la Declaración de Tashkent y los Compromisos de Acción para Transformar la Atención y Educación de la Primera Infancnia6.
 
 Cabe señalar también que las consultas previas sobre la Convención y la Recomendación revelaron que  los  países  tienen  ahora  una  visión  más  amplia  del  derecho  a  la  educación.  La  undécima consulta, que reposa en las conclusiones de los informes nacionales anteriores, incluye diversas cuestiones que tienen repercusiones directas en el derecho a la educación como, por ejemplo, el aprendizaje  digital,  las  consideraciones  relacionadas  con  el  clima,  el  derecho  al  aprendizaje permanente y el papel de los agentes no estatales en la educación.
 
@@ -58,7 +60,7 @@ Existen diferencias entre la índole jurídica de las obligaciones previstas en 
 
 Al  margen  de  las  diferencias  en  cuanto  al  alcance  jurídico  inherentes  al  carácter  de  cada instrumento, el contenido de la Recomendación es idéntico al de la Convención. Se espera que los Estados Miembros la pongan en práctica en su legislación nacional y sus políticas educativas.
 
-Las  disposiciones  del  artículo  VII  de  la  Convención  y  del  párrafo  correspondiente  de  la Recomendación, relativas a las obligaciones en materia de presentación de informes, son idénticas. En  el  artículo  VIII  de  la  Constitución  de  la  UNESCO  se  establece  que ' cada  Estado  Miembro someterá a la Organización, en el momento y la forma que decida la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativos a sus instituciones y actividades educativas, científicas y culturales, así como sobre el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV '. Por tanto, incluso los países que no sean Estados Partes en la Convención deben presentar un informe sobre la aplicación de la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre  la  aplicación  de  estos  instrumentos  en  el  marco  de  las  consultas  realizadas  para  su seguimiento.
+Las disposiciones del artículo VII de la Convención y del párrafo correspondiente de la Recomendación, relativas a las obligaciones en materia de presentación de informes, son idénticas. En el artículo VIII de la Constitución de la UNESCO se establece que “cada Estado Miembro someterá a la Organización, en el momento y la forma que decida la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativos a sus instituciones y actividades educativas, científicas y culturales, así como sobre el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV”. Por tanto, incluso los países que no sean Estados Partes en la Convención deben presentar un informe sobre la aplicación de la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre la aplicación de estos instrumentos en el marco de las consultas realizadas para su seguimiento.
 
 ## 4. Participación en las consultas
 
@@ -72,7 +74,7 @@ Al preparar los informes, se anima a los Estados Miembros a proporcionar informa
 
 La información pertinente proporcionada en otros informes puede reproducirse o señalarse como referencia  con  indicaciones  precisas  para  su  consulta.  Del  mismo  modo,  se  apreciarán  los hipervínculos a cualquier documento útil o texto jurídico o normativo pertinente, y también pueden añadirse textos en el anexo.
 
-Los  informes  de  los  países  presentados  en  consultas  anteriores  pueden  consultarse  en  el Observatorio sobre el Derecho a la Educación 7 , en la sección sobre el seguimiento de los perfiles de los países. La información proporcionada en los informes es valiosa tanto para el Observatorio sobre el Derecho a la Educación como para HerAtlas 8 , la herramienta de seguimiento en línea del derecho a la educación de las niñas y las mujeres. La información y los datos relativos a los sistemas educativos de los países también están disponibles en la base de datos del Instituto de Estadística de  la  UNESCO 9 .  Las  conclusiones  y  los  informes  de  las  consultas  no  solo  sirven  para  el seguimiento, sino que nutren una labor más amplia de generación de conocimientos, promoción y cooperación técnica.
+Los informes de los países presentados en consultas anteriores pueden consultarse en el Observatorio sobre el Derecho a la Educación7, en la sección sobre el seguimiento de los perfiles de los países. La información proporcionada en los informes es valiosa tanto para el Observatorio sobre el Derecho a la Educación como para HerAtlas8, la herramienta de seguimiento en línea del derecho a la educación de las niñas y las mujeres. La información y los datos relativos a los sistemas educativos de los países también están disponibles en la base de datos del Instituto de Estadística de la UNESCO9. Las conclusiones y los informes de las consultas no solo sirven para el
 
 > 7 http://www.unesco.org/education/edurights/index.php?action=home&lng=en.
 
@@ -83,6 +85,8 @@ Los  informes  de  los  países  presentados  en  consultas  anteriores  pueden 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+seguimiento, sino que nutren una labor más amplia de generación de conocimientos, promoción y cooperación técnica.
 
 ## 5. Modalidades y estructura
 
@@ -96,9 +100,9 @@ Las directrices se estructuran en torno a tres capítulos:
 
 Con miras a simplificar las directrices proporcionando al mismo tiempo la información sustantiva necesaria para orientar a los Estados Miembros en la preparación de sus respuestas sobre la base de un proceso participativo, se ofrecen orientaciones de los dos tipos siguientes :
 
-- Preguntas  abiertas  y  cerradas  que  los  Estados  Miembros  deben  responder  directamente. Tenga  en  cuenta  que  pueden  proporcionarse  múltiples  respuestas  cuando  sea pertinente.
+1) Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente. Tenga en cuenta que pueden proporcionarse múltiples respuestas cuando sea pertinente.
 
-- Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen  sus  respuestas  a  las  preguntas  abiertas  (incluidos  comentarios  sobre  cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
+2) Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus respuestas a las preguntas abiertas (incluidos comentarios sobre cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
 
 [[END OF PAGE 4]]
 
@@ -108,13 +112,14 @@ Con miras a simplificar las directrices proporcionando al mismo tiempo la inform
 
 Nombre del país: El Salvador
 
-Organización o entidad responsable de la preparación del informe: Ministerio de Educación, Ciencia y Te cnología
+Organización o entidad responsable de la preparación del informe: Ministerio de Educación, Ciencia y Tecnología
 
 Nombre de la persona de contacto: José Mauricio Pineda
 
-Correo electrónico y número de teléfono de la persona de contacto: mauricio.pineda@mined.gob.sv Tel éfono: (503) 7517 9289
+Correo electrónico y número de teléfono de la persona de contacto: mauricio.pineda@mined.gob.sv
+Teléfono: (503) 7517 9289
 
-## Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 10
+## I. Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza10
 
 - ¿Es su país un Estado Parte en la Convención?
 
@@ -160,11 +165,11 @@ Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la E
 
 También puede facilitarse información sobre las autoridades judiciales, administrativas y de otro tipo que tengan competencia en lo que atañe al derecho a la educación.
 
-## Información sobre la aplicación de la Convención y la Recomendación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
+## II. Información sobre la aplicación de la Convención y la Recomendación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
 
-### Hacia un sistema educativo inclusivo y no discriminatorio
+### 1. Hacia un sistema educativo inclusivo y no discriminatorio
 
-A título de referencia, esta parte se refiere al objetivo principal de la Convención y la Recomendación, a saber, subrayar la obligación de los Estados de prohibir toda forma de discriminación en la enseñanza y promover al mismo tiempo la igualdad de oport unidades educativas como lo estipulan los artículos/párrafos 1.1, 2 y 3 de la Convención/Recomendación.
+A título de referencia, esta parte se refiere al objetivo principal de la Convención y la Recomendación, a saber, subrayar la obligación de los Estados de prohibir toda forma de discriminación en la enseñanza y promover al mismo tiempo la igualdad de oportunidades educativas como lo estipulan los artículos/párrafos 1.1, 2 y 3 de la Convención/Recomendación.
 
 Este aspecto corresponde además a la aspiración general del ODS 4, que tiene por objeto 'garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos' de aquí a 2030. Por tanto, abarca todas las metas del ODS 4, pero especialmente la meta 4.5 12 .
 
@@ -182,7 +187,7 @@ Este aspecto corresponde además a la aspiración general del ODS 4, que tiene p
 
 > 11 Los mecanismos judiciales desempeñan un papel importante en la aplicación del derecho a la educación, ya que garantizan la responsabilidad jurídica y, de esa forma, contribuyen a la realización en la práctica del derecho a la educación.
 
-> 12 En la que se insta a los Estados a 'eliminar las disparidades de género en la educación y asegurar el acceso igualitario a to dos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad , los pueblos indígenas y los niños en situaciones de vulnerabilidad'.
+> 12 En la que se insta a los Estados a “eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad”.
 
 > 13 Véase el artículo/párrafo 1.1.
 
@@ -194,21 +199,21 @@ A título de referencia, este aspecto se abarca principalmente en la meta 4.1 de
 
 □ Los textos jurídicos 15 prohíben la discriminación y garantizan la igualdad de acceso a la enseñanza:
 
-- En la educación preprimaria (incluido el aprendizaje y la atención en la primera infancia)
+✓ En la educación preprimaria (incluido el aprendizaje y la atención en la primera infancia)
 
-- En la educación primaria
+✓ En la educación primaria
 
-- En la educación secundaria
+✓ En la educación secundaria
 
-- En la enseñanza y formación técnica y profesional
+✓ En la enseñanza y formación técnica y profesional
 
-- En la educación superior
+✓ En la educación superior
 
-- En la educación de adultos y las demás posibilidades de aprendizaje
+✓ En la educación de adultos y las demás posibilidades de aprendizaje
 
 -Indique las disposiciones jurídicas pertinentes.
 
-En El Salvador se reconoce este derecho en la Constitución de la República, en su Art. 53 que dice: 'El derecho a la educación y a la cultura es inherente a la persona humana; es obligación y finalidad del Estado su conservación, fomento y difusión'; y en su Artículo 55, cuando afirma: 'La educación tiene los siguientes fines: lograr el desarrollo integral de la personalidad en su dimensión espiritual, moral y social; contribuir a la  construcción de una sociedad democrática más próspera, justa y humana; in culcar el respeto a los derechos  humanos  y  a  la  observancia  de  los  correspondientes  deberes;  combatir  todo  espíritu  de intolerancia  y  de  odio;  conocer  la  realidad  nacional  e  identificarse  con  los  valores  de  la  nacionalidad salvadoreña; y propiciar la unidad del pueblo centroamericano. Los padres tendrán derecho preferente a escoger la educación de sus hijos.'
+En El Salvador se reconoce este derecho en la Constitución de la República, en su Art. 53 que dice: “El derecho a la educación y a la cultura es inherente a la persona humana; es obligación y finalidad del Estado su conservación, fomento y difusión”; y en su Artículo 55, cuando afirma: “La educación tiene los siguientes fines: lograr el desarrollo integral de la personalidad en su dimensión espiritual, moral y social; contribuir a la construcción de una sociedad democrática más próspera, justa y humana; inculcar el respeto a los derechos humanos y a la observancia de los correspondientes deberes; combatir todo espíritu de intolerancia y de odio; conocer la realidad nacional e identificarse con los valores de la nacionalidad salvadoreña; y propiciar la unidad del pueblo centroamericano. Los padres tendrán derecho preferente a escoger la educación de sus hijos.”
 
 Por su parte, el Art. 56, expresa que todos los habitantes de la República tienen el derecho y el deber de recibir  educación  parvularia  y  básica  que  los  capacite  para  desempeñarse  como  ciudadanos  útiles.  El Estado promoverá la formación de centros de educación especial.
 
@@ -220,9 +225,9 @@ Ley General de Educación en su Artículo 1, inciso 1, afirma: 'La educación es
 
 El Art. 4 de la misma ley señala que 'El Estado fomentará el pleno acceso de la población apta al sistema educativo como una estrategia de democratización de la educación. Dicha estrategia incluirá el desarrollo de  una  infraestructura  física  adecuada,  la  dotación  del  personal  competente  y  de  los  instrumentos curriculares pertinentes.'
 
-Ley Crecer Juntos, en su Artículo 48, reafirma la gratuidad y obligatoriedad de la educación: La educación en los diferentes niveles y modalidades será obligatoria y gratuita cuando la imparta el Estado. Asimismo, deberá brindarse con calidad y calidez en respeto a los ritmos y estilos de aprendizaje, garantizando la continuidad educativa. El Estado debe crear y sostener centros educativos que cuenten con instalaciones y recursos pedagógicos adecuados para brindar una educación integral. En consecuencia, debe asignar un presupuesto suficiente para tal fin.
+Ley Crecer Juntos, en su Artículo 48, reafirma la gratuidad y obligatoriedad de la educación: La educación en los diferentes niveles y modalidades será obligatoria y gratuita cuando la imparta el Estado. Asimismo, deberá brindarse con calidad y calidez en respeto a los ritmos y estilos de aprendizaje, garantizando la continuidad educativa. El Estado debe crear y sostener centros educativos que cuenten con instalaciones
 
-> 14 En la cual se insta a los Estados a 'aumentar considerablemente a nivel mundial el número de becas disponibles [...] a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y program as técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones'.
+> 14 En la cual se insta a los Estados a “aumentar considerablemente a nivel mundial el número de becas disponibles [...] a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos programas de formación profesional y programas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones”.
 
 > 15 Constitución, leyes, decretos, reglamentos, circulares, etc.
 
@@ -230,51 +235,53 @@ Ley Crecer Juntos, en su Artículo 48, reafirma la gratuidad y obligatoriedad de
 
 [[START OF PAGE 8]]
 
-- La Ley Crecer Juntos en su Artículo 49 expresa: El Estado tiene la obligación de asegurar a las niñas, niños  y  adolescentes  el  acceso  universal  a  la  educación,  incluyendo  educación  artística  y  deportiva; garantizando  la  infraestructura  adecuada,  la  incorp oración  oportuna,  la  permanencia,  transición  y finalización exitosa del proceso educativo en todos los niveles y las modalidades. Además, deberá asegurar la  pertinencia  del  currículo  y  la  disponibilidad  de  planes  y  programas  educativos  sin  ningún  tipo  de d iscriminación  por  causa  de  embarazo,  discapacidad  u  otras  condiciones.  En  ningún  caso  la  falta  de documentos  de  filiación  o  de  identidad  de  la  niña,  niño  o  adolescente  será  obstáculo  para  su correspondiente matrícula, continuidad educativa y culminación de Sus estudios.
+y recursos pedagógicos adecuados para brindar una educación integral. En consecuencia, debe asignar un presupuesto suficiente para tal fin.
 
-La Ley Crecer Juntos para la Protección Integral de la Primera Infancia, Niñez y Adolescencia, tiene por finalidad garantizar el ejercicio y disfrute pleno de los derechos de toda niña, niño y adolescente y facilitar el cumplimiento de sus deberes (Artículo 1 Ley Crecer Juntos). El Estado tiene la obligación de asegurar a las niñas, niños y adolescentes con discapacidad el acceso universal e inclusivo a la atención educativa en todos sus niveles y garantizará la eliminación de todo tipo de barreras que impi dan gozar de este derecho, tanto en los centros educativos públicos como privados. (Artículo 51, Ley Crecer Juntos). https://crecerjuntos.gob.sv/dist/documents/DECRETO_LEY.pdf
+4. La Ley Crecer Juntos en su Artículo 49 expresa: El Estado tiene la obligación de asegurar a las niñas, niños y adolescentes el acceso universal a la educación, incluyendo educación artística y deportiva; garantizando la infraestructura adecuada, la incorporación oportuna, la permanencia, transición y finalización exitosa del proceso educativo en todos los niveles y las modalidades. Además, deberá asegurar la pertinencia del currículo y la disponibilidad de planes y programas educativos sin ningún tipo de discriminación por causa de embarazo, discapacidad u otras condiciones. En ningún caso la falta de documentos de filiación o de identidad de la niña, niño o adolescente será obstáculo para su correspondiente matrícula, continuidad educativa y culminación de Sus estudios.
+
+La Ley Crecer Juntos para la Protección Integral de la Primera Infancia, Niñez y Adolescencia, tiene por finalidad garantizar el ejercicio y disfrute pleno de los derechos de toda niña, niño y adolescente y facilitar el cumplimiento de sus deberes (Artículo 1 Ley Crecer Juntos). El Estado tiene la obligación de asegurar a las niñas, niños y adolescentes con discapacidad el acceso universal e inclusivo a la atención educativa en todos sus niveles y garantizará la eliminación de todo tipo de barreras que impidan gozar de este derecho, tanto en los centros educativos públicos como privados. (Artículo 51, Ley Crecer Juntos). https://crecerjuntos.gob.sv/dist/documents/DECRETO_LEY.pdf
 
 -Enumere los motivos de discriminación prohibidos en la enseñanza tal y como se recogen en los textos jurídicos.
 
 □ Políticas, programas e iniciativas que tienen como objetivo prohibir y prevenir la discriminación y garantizar la igualdad de acceso a la enseñanza.
 
-- En la educación preprimaria (incluido el aprendizaje y la atención en la primera infancia)
+✓ En la educación preprimaria (incluido el aprendizaje y la atención en la primera infancia)
 
-- En la educación primaria
+✓ En la educación primaria
 
-- En la educación secundaria
+✓ En la educación secundaria
 
-- En la enseñanza y formación técnica y profesional
+✓ En la enseñanza y formación técnica y profesional
 
-- En la educación superior
+✓ En la educación superior
 
-- En la educación de adultos y las demás posibilidades de aprendizaje
+✓ En la educación de adultos y las demás posibilidades de aprendizaje
 
 - Especifique.
 
-Política de Educación Inclusiva en sus fundamentos resalta que la educación inclusiva está basada en el reconocimiento de las diferencias y en la adecuación de los sistemas y respuestas educativas a la diversidad de necesidades y demandas por parte de la p oblación. Y, por tanto, sobre la base de este planteamiento concebimos la educación inclusiva como: 'El conjunto de respuestas educativas orientadas a la eliminación gradual y efectiva de las barreras de acceso y participación que faciliten el  cumplimiento del  derecho  efectivo  a  una  educación  oportuna,  integral,  de  calidad  y  en condiciones de equidad. En el marco de un esfuerzo constante de transformar y fortalecer el sistema
+Política de Educación Inclusiva en sus fundamentos resalta que la educación inclusiva está basada en el reconocimiento de las diferencias y en la adecuación de los sistemas y respuestas educativas a la diversidad de necesidades y demandas por parte de la población. Y, por tanto, sobre la base de este planteamiento concebimos la educación inclusiva como: “El conjunto de respuestas educativas orientadas a la eliminación gradual y efectiva de las barreras de acceso y participación que faciliten el cumplimiento del derecho efectivo a una educación oportuna, integral, de calidad y en condiciones de equidad. En el marco de un esfuerzo constante de transformar y fortalecer el sistema
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-educativo,  empoderar  la  escuela  y  facilitar  la  participación  de  la  comunidad  en  to do  el  hecho pedagógico'.
+educativo, empoderar la escuela y facilitar la participación de la comunidad en todo el hecho pedagógico”.
 
-La Política Nacional de Apoyo al Desarrollo Infantil Temprano 'Crecer Juntos', busca garantizar las condiciones  necesarias  para  brindar  a  niñas  y  niños  servicios  de  calidad,  apropiados  a  sus particularidades  y  fundamentados  en  el  enfoque  de  derechos,  la  vi sión  multidimensional  del desarrollo  y  la  responsabilidad  compartida  de  todos  los  sectores  en  la  provisión  de  cuidados, estimulación,  educación,  salud,  nutrición,  entornos  protectores  de  sus  derechos  y  protección especial. https://crecerjuntos.gob.sv/dist/documents/POLITICA-CRECER-JUNTOS-actualizada- 2024_VF.pdf
+La Política Nacional de Apoyo al Desarrollo Infantil Temprano “Crecer Juntos”, busca garantizar las condiciones necesarias para brindar a niñas y niños servicios de calidad, apropiados a sus particularidades y fundamentados en el enfoque de derechos, la visión multidimensional del desarrollo y la responsabilidad compartida de todos los sectores en la provisión de cuidados, estimulación, educación, salud, nutrición, entornos protectores de sus derechos y protección especial. https://crecerjuntos.gob.sv/dist/documents/POLITICA-CRECER-JUNTOS-actualizada-2024_VF.pdf
 
 □ La lucha contra la discriminación se extiende a los planes de estudio:
 
-- En la educación preprimaria (incluido el aprendizaje y la atención en la primera infancia)
+✓ En la educación preprimaria (incluido el aprendizaje y la atención en la primera infancia)
 
-- En la educación primaria
+✓ En la educación primaria
 
-- En la educación secundaria
+✓ En la educación secundaria
 
-- En la enseñanza y formación técnica y profesional
+✓ En la enseñanza y formación técnica y profesional
 
-- En la educación superior
+✓ En la educación superior
 
-- En la educación de adultos y las demás posibilidades de aprendizaje
+✓ En la educación de adultos y las demás posibilidades de aprendizaje
 
 - Especifique.
 
@@ -292,7 +299,7 @@ La Política Nacional de Apoyo al Desarrollo Infantil Temprano 'Crecer Juntos', 
 
 17
 
-"Esto requiere múltiples y flexibles vías de aprendizaje y maneras de emprender y reanudar el aprendizaje a todas las edades y  en  todos  los  niveles  educativos;  un  fortalecimiento  de  los  vínculos  entre  las  estructuras  formales  y  no  formales;  y  el reconocim iento,  acreditación  y  convalidación  de  los  conocimientos,  las  aptitudes  y  las  competencias  adquiridos  en  la educación no formal e informal" (Marco de Acción Educación 2030, párr. 23). Esto puede incluir transferencias de alumnos entre cursos e instituciones y diversas modalidades de aprendizaje (en línea, presencial, a tiempo completo, a tiempo parcial , etc.) para responder a las necesidades e intereses individuales.
+"Esto requiere múltiples y flexibles vías de aprendizaje y maneras de emprender y reanudar el aprendizaje a todas las edades y en todos los niveles educativos; un fortalecimiento de los vínculos entre las estructuras formales y no formales; y el reconocimiento, acreditación y convalidación de los conocimientos, las aptitudes y las competencias adquiridos en la educación no formal e informal" (Marco de Acción Educación 2030, párr. 23). Esto puede incluir transferencias de alumnos entre cursos e instituciones y diversas modalidades de aprendizaje (en línea, presencial, a tiempo completo, a tiempo parcial, etc.) para responder a las necesidades e intereses individuales.
 
 [[END OF PAGE 9]]
 
@@ -318,7 +325,7 @@ La Ley Crecer Juntos para la Protección Integral de la Primera Infancia, Niñez
 
 Se tiene un proyecto de desarrollo de la Educación Intercultural estableciendo, una coordinación entre las diferentes unidades Institucionales vinculadas a la atención educativa, de la niñez y adolescencia indígena. Se sensibiliza en los 14 departamentos a docentes y directores de 443 centros educativos.
 
-Para el fortalecimiento del recurso humano institucional se está proponiendo un programa de especialización en interculturalidad y Lenguas indígenas. Así mismo, se está desarrollando una investigación con grupos focales conformado por personas adultas mayo res de las comunidades con el objetivo de recopilar vocabulario y remanentes lingüísticos del potón, cacaopera y náhuat en los distritos municipales priorizados que sirvan para la creación de materiales didácticos y educativos pertinentemente contextualiza dos a las realidades culturales de la niñez indígena. En el  caso  del  potón  y  cacaopera  se  están  elaborando diccionarios  que  reflejan  los  remanentes lingüísticos documentados en fuentes históricas y orales.
+Para el fortalecimiento del recurso humano institucional se está proponiendo un programa de especialización en interculturalidad y Lenguas indígenas. Así mismo, se está desarrollando una investigación con grupos focales conformado por personas adultas mayores de las comunidades con el objetivo de recopilar vocabulario y remanentes lingüísticos del potón, cacaopera y náhuat en los distritos municipales priorizados que sirvan para la creación de materiales didácticos y educativos pertinentemente contextualizados a las realidades culturales de la niñez indígena. En el caso del potón y cacaopera se están elaborando diccionarios que reflejan los remanentes lingüísticos documentados en fuentes históricas y orales.
 
 > 16 Los docentes tienen la preparación necesaria para enseñar a todos los alumnos (no solo a los que tienen alguna discapacidad) e inculcarles conocimientos, valores y actitudes que les permitan tener éxito. Véase: documento de política de la UNESCO : Enseñanza inclusiva: preparar a todos los docentes para enseñar a todos los alumnos, 2020, pág.14.
 
@@ -328,7 +335,7 @@ Para el fortalecimiento del recurso humano institucional se está proponiendo un
 
 [[START OF PAGE 11]]
 
-La oferta de formación continua se diseña cuidadosamente para garantizar que todos los factores que pudiesen limitar el acceso a los procesos formativos sean considerados. Esto incluye desde la planificación metodológica de tiempos y duraciones adecuadas p ara evitar la saturación de actividades,  así  como  la  de  elaborar  materiales  o  recursos  educativos  que  contemplen  las necesidades específicas educativas de los docentes (Integración de lenguaje de señas, subtítulos, pistas de audio, etc.). De esta manera, d esde la Dirección Nacional de formación Docente, se asegura que la formación se imparta sin discriminación, promoviendo la inclusión y la equidad en todos los aspectos del proceso educativo.
+La oferta de formación continua se diseña cuidadosamente para garantizar que todos los factores que pudiesen limitar el acceso a los procesos formativos sean considerados. Esto incluye desde la planificación metodológica de tiempos y duraciones adecuadas para evitar la saturación de actividades, así como la de elaborar materiales o recursos educativos que contemplen las necesidades específicas educativas de los docentes (Integración de lenguaje de señas, subtítulos, pistas de audio, etc.). De esta manera, desde la Dirección Nacional de formación Docente, se asegura que la formación se imparta sin discriminación, promoviendo la inclusión y la equidad en todos los aspectos del proceso educativo.
 
 Por otro lado, las convocatorias a participar de los procesos formativos se elaboran considerando aspectos estratégicos como el nivel educativo que imparte o la disciplina específica que brinda el docente para no generar sobrecarga en sus labores.
 
@@ -366,7 +373,7 @@ Por otro lado, las convocatorias a participar de los procesos formativos se elab
 
 > 19 " Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them" (La estigmatización es el hecho de tratar a alguien o a algo injustamente condenándolo públicamente) (traducción libre del Cambridge Dictionary).
 
-> 20 Las instalaciones sanitarias que tienen en cuenta el género incluyen retretes limpios, seguros y separados, con acceso al agu a y a la eliminación de desechos ( entrada del blog de la UNGEI, Gender-sensitive sanitation , 2018).
+> 20 Las instalaciones sanitarias que tienen en cuenta el género incluyen retretes limpios, seguros y separados, con acceso al agua y a la eliminación de desechos (entrada del blog de la UNGEI, Gender-sensitive sanitation, 2018).
 
 > 21 " Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong " (Un estereotipo es una idea fija que la gente tiene sobre cómo es alguien o algo, especialmente una idea errónea) (traducción libre del Cambridge Dictionary).
 
@@ -378,7 +385,17 @@ Como  Ministerio  de  Educación  de  El  Salvador  el  enfoque  que  se  trabaj
 
 -Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
-· Con el compromiso institucional de dar cumplimiento a los mandatos establecidos en la Ley Crecer Juntos, Ley de Igualdad, Equidad y Erradicación de la Discriminación, Ley Especial Integral para una Vida Libre de Violencia para las Mujeres, Ley General de E ducación, se cuenta con procesos  institucionales  dentro  del  MINEDUCYT  que  tienen  como  propósito  erradicar  las desigualdades entre mujeres y hombres en el sistema educativo nacional. · Ley de la Carrera Docente: Art. 3-A.la igualdad, la prohibición de todas las formas de discriminación y el interés superior del menor, son los principios que especialmente informan la presente ley; por cuanto, deberán observarse en su interpretación y aplicación. Art. 28.'el Ministerio deberá incluir programas de capacitación y sensibilización en materia de prevención de todas las formas de violencia; así como, contra la discriminación, con énfasis en la niñez y la adolescencia.' · Se  cuenta  con  el Protocolo  de  Actuación  para  el  abordaje  de  la  violencia  sexual  en  las comunidades educativas, brinda orientaciones  a partir de un marco conceptual, un marco legal vigente    que  comprende  la  Normativa  Internacional  y  Nacional,  para  abordar  situaciones particulares  de  vulneración  de  Derechos  de  niñas,  niños  y  adolescentes  identificando    y detectando  casos  a  través  de  una  ruta  jurídica  que  facilita  identificar    a  las  instituciones obligadas actuar frente a las situaciones de violencia sexual, frente a las cuales las autoridades están obligadas a iniciar las investigaciones de los hechos, así como a proceder de inmediato a tomar medidas de protección a las víctimas, que incluyen el evitar la revictimización  hasta garantizar la reincorporación de la persona víctima a las actividades escolares, con dignidad y efectiva protección de su integridad. · También  se  tiene  el  Protocolo  para  la  permanencia  escolar  de  las  niñas  y  adolescentes embarazadas o que ya son madres. Dicho protocolo tiene como objetivo reducir la deserción escolar de niñas y adolescentes por motivos de embarazo y por ser madres, para g arantizar su permanencia en las instituciones educativas y lograr culminar sus estudios con éxito. · La Direcci ó n  de  Educaci ó n  de  III  Ciclo,  Media  y  Tecnol ó gica,  ha  desarrollado varias  acciones encaminadas  a  promover  la  ense ñ anza  de  la  ciencia,  la  tecnolog í a,  la  ingenier í a  y las matem á ticas bajo el enfoque STEAM en las ni ñ as y j ó venes bajo la metodolog í a de aprendizaje basado en proyectos. Estas intervenciones tambi é n han incluido capacitaci ó n a docente donde el  67%  de  los  mismos  han  sido  docentes  mujeres.  Para  el  a ñ o  2024,  se  espera  continuar trabajando  en  la  promoci ó n  de  STEAM  como  estrategia  de  mejora  de  los  aprendizajes, promoviendo la participaci ó n de ni ñ as y j óvenes y otros grupos en condición o situación de vulnerabilidad.
+• Con el compromiso institucional de dar cumplimiento a los mandatos establecidos en la Ley Crecer Juntos, Ley de Igualdad, Equidad y Erradicación de la Discriminación, Ley Especial Integral para una Vida Libre de Violencia para las Mujeres, Ley General de Educación, se cuenta con procesos institucionales dentro del MINEDUCYT que tienen como propósito erradicar las desigualdades entre mujeres y hombres en el sistema educativo nacional.
+
+• Ley de la Carrera Docente:
+Art. 3-A.- la igualdad, la prohibición de todas las formas de discriminación y el interés superior del menor, son los principios que especialmente informan la presente ley; por cuanto, deberán observarse en su interpretación y aplicación.
+Art. 28.- “el Ministerio deberá incluir programas de capacitación y sensibilización en materia de prevención de todas las formas de violencia; así como, contra la discriminación, con énfasis en la niñez y la adolescencia.”
+
+• Se cuenta con el Protocolo de Actuación para el abordaje de la violencia sexual en las comunidades educativas, brinda orientaciones a partir de un marco conceptual, un marco legal vigente que comprende la Normativa Internacional y Nacional, para abordar situaciones particulares de vulneración de Derechos de niñas, niños y adolescentes identificando y detectando casos a través de una ruta jurídica que facilita identificar a las instituciones obligadas actuar frente a las situaciones de violencia sexual, frente a las cuales las autoridades están obligadas a iniciar las investigaciones de los hechos, así como a proceder de inmediato a tomar medidas de protección a las víctimas, que incluyen el evitar la revictimización hasta garantizar la reincorporación de la persona víctima a las actividades escolares, con dignidad y efectiva protección de su integridad.
+
+• También se tiene el Protocolo para la permanencia escolar de las niñas y adolescentes embarazadas o que ya son madres. Dicho protocolo tiene como objetivo reducir la deserción escolar de niñas y adolescentes por motivos de embarazo y por ser madres, para garantizar su permanencia en las instituciones educativas y lograr culminar sus estudios con éxito.
+
+• La Dirección de Educación de III Ciclo, Media y Tecnológica, ha desarrollado varias acciones encaminadas a promover la enseñanza de la ciencia, la tecnología, la ingeniería y las matemáticas bajo el enfoque STEAM en las niñas y jóvenes bajo la metodología de aprendizaje basado en proyectos. Estas intervenciones también han incluido capacitación a docente donde el 67% de los mismos han sido docentes mujeres. Para el año 2024, se espera continuar trabajando en la promoción de STEAM como estrategia de mejora de los aprendizajes, promoviendo la participación de niñas y jóvenes y otros grupos en condición o situación de vulnerabilidad.
 
 -¿Qué dificultades se encontraron en lo que se refiere al logro de la igualdad de género en la educación y mediante ella? De ser necesario, se pueden añadir breves datos cuantitativos.
 
@@ -498,9 +515,9 @@ Se tiene un proyecto de desarrollo de la Educación Intercultural estableciendo,
 
 Se tiene un proyecto de desarrollo de la Educación Intercultural estableciendo, una coordinación entre  las  diferentes  unidades  Institucionales  vinculadas  a  la  atención  educativa,  de  la  niñez  y adolescencia  indígena.  Se  sensibiliza  en  los  14  departamentos  a docentes  y  directores  de  443 centros educativos.
 
-Para el fortalecimiento del recurso humano institucional se está proponiendo un programa de especialización en interculturalidad y Lenguas indígenas. Así mismo, se está desarrollando una investigación con grupos focales conformado por personas adultas mayo res de las comunidades con el objetivo de recopilar vocabulario y remanentes lingüísticos del potón, cacaopera y náhuat en  los  distritos  municipales  priorizados  que  sirvan  para  la  creación  de  materiales  didácticos  y educativos pertinentemente contextualiza dos a las realidades culturales de la niñez indígena. En el  caso  del  potón  y  cacaopera  se  están  elaborando  diccionarios  que  reflejan  los  remanentes lingüísticos documentados en fuentes históricas y orales.
+Para el fortalecimiento del recurso humano institucional se está proponiendo un programa de especialización en interculturalidad y Lenguas indígenas. Así mismo, se está desarrollando una investigación con grupos focales conformado por personas adultas mayores de las comunidades con el objetivo de recopilar vocabulario y remanentes lingüísticos del potón, cacaopera y náhuat en los distritos municipales priorizados que sirvan para la creación de materiales didácticos y educativos pertinentemente contextualizados a las realidades culturales de la niñez indígena. En el caso del potón y cacaopera se están elaborando diccionarios que reflejan los remanentes lingüísticos documentados en fuentes históricas y orales.
 
-Aunado a este trabajo, también se está llevando a cabo un inventario sobre patrimonio cultural material e inmaterial, con participación de portadores culturales y miembros de la comunidad, cuyos resultados servirán para hacer adecuaciones curriculares pert inentes.
+Aunado a este trabajo, también se está llevando a cabo un inventario sobre patrimonio cultural material e inmaterial, con participación de portadores culturales y miembros de la comunidad, cuyos resultados servirán para hacer adecuaciones curriculares pertinentes.
 
 Por  otro  lado,  se  tienen  programados  el  desarrollo  de  talleres  sobre  procesos  artesanales  y dancísticos en los diferentes distritos respondiendo a su patrimonio inmaterial.
 
@@ -558,7 +575,7 @@ El  establecimiento  de  mecanismos  de  articulación,  que  conlleven  al  dis
 
 ###### Pruebas  de  suficiencia  para  personas  migrantes  retornadas,  salvadoreñas  en  el  exterior  y Extranjeras:
 
-Con la estrategia de Prueba de Suficiencia, las personas salvadoreñas retornadas , pueden acceder a la prueba de suficiencia, a través de la Dirección de Jóvenes y Adultos, dicha estrategia, garantiza la inserción o reinserción educativa para que niños, niñas, adolescente, jóvenes y adultos continúen sus estudios, en cualquier época del año. La población migrante retornada que solicita dicha prueba, es atendida por medio de Tutorías con docentes especialistas, durante 3 a 5 meses promedio, para preparación  académica,  previo  a  la  aplicación  de  la  prueba,  además  cuentan  con  el  apoyo  de material educativo por grado y asignatura. En el año 2023 se atendieron 1,041 personas migrantes retornadas.
+Con la estrategia de Prueba de Suficiencia, las personas salvadoreñas retornadas, pueden acceder a la prueba de suficiencia, a través de la Dirección de Jóvenes y Adultos, dicha estrategia, garantiza la inserción o reinserción educativa para que niños, niñas, adolescente, jóvenes y adultos continúen sus estudios, en cualquier época del año. La población migrante retornada que solicita dicha prueba, es atendida por medio de Tutorías con docentes especialistas, durante 3 a 5 meses promedio, para preparación académica, previo a la aplicación de la prueba, además cuentan con el apoyo de
 
 > 28 'Las poblaciones atrapadas son aquellas que no tienen la posibilidad de migrar a lugares seguros y permanecen atrapadas en localidades vulnerables a los efectos de los peligros climáticos' ( Informe de la UNESCO 'Los efectos del desplazamiento climático sobre el derecho a la educación', 2020, pág. 2).
 
@@ -574,7 +591,9 @@ Con la estrategia de Prueba de Suficiencia, las personas salvadoreñas retornada
 
 [[START OF PAGE 17]]
 
-Las  personas  salvadoreñas  residentes  en  el  exterior ,  solicitan  Prueba  de  Suficiencia  y  estos  se presentan  en  el  lugar  que  el  MINEDUCYT  haya  habilitado  para  el  desarrollo  de  la  prueba  en coordinación con el Ministerio de Relaciones Exteriores por medio de Consulados. El MINEDUCYT comunicará a la comunidad de salvadoreños en el exterior sobre los lugares autorizados para la presentación de la solicitud y documentación respectiva para inscribirse, así como de los días y horas de aplicación.  Por otra parte, las personas que han finalizado su educación básica, pueden optar por la modalidad alternativa del bachillerato virtual, para culminar sus estudios de educación media. En el  año  2023  se  atendieron  39  salvadoreños  en  el  exterior,  de  los  cuales  32  personas  fue ron atendidas con modalidades educativas alternas y 7 con prueba de suficiencia.
+material educativo por grado y asignatura. En el año 2023 se atendieron 1,041 personas migrantes retornadas.
+
+Las personas salvadoreñas residentes en el exterior, solicitan Prueba de Suficiencia y estos se presentan en el lugar que el MINEDUCYT haya habilitado para el desarrollo de la prueba en coordinación con el Ministerio de Relaciones Exteriores por medio de Consulados. El MINEDUCYT comunicará a la comunidad de salvadoreños en el exterior sobre los lugares autorizados para la presentación de la solicitud y documentación respectiva para inscribirse, así como de los días y horas de aplicación. Por otra parte, las personas que han finalizado su educación básica, pueden optar por la modalidad alternativa del bachillerato virtual, para culminar sus estudios de educación media. En el año 2023 se atendieron 39 salvadoreños en el exterior, de los cuales 32 personas fueron atendidas con modalidades educativas alternas y 7 con prueba de suficiencia.
 
 Las  personas  extranjeras  pueden  incorporarse  al  sistema  educativo  nacional,  por  medio  de  la Estrategia Educativa de Prueba de Suficiencia, siguiendo los procedimientos establecidos. En el año 2023 se atendieron 257 migrantes extranjeros.
 
@@ -584,13 +603,9 @@ El Bachillerato  Virtual  tiene  cobertura  a  nivel  nacional  e  internacional
 
 En el año 2023 se atendieron 32 salvadoreños en el exterior.
 
-¿Se han adoptado medidas específicas para los desplazados climáticos?
+- ¿Se han adoptado medidas específicas para los desplazados climáticos?
 
-□ Sí
-
-□
-
-No
+□ Sí □ No
 
 - Explique.
 
@@ -634,15 +649,15 @@ No
 
 -Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
-La Política Nacional de Apoyo al Desarrollo Infantil Temprano 'Crecer Juntos', busca garantizar las condiciones  necesarias  para  brindar  a  niñas  y  niños  servicios  de  calidad,  apropiados  a  sus particularidades  y  fundamentados  en  el  enfoque  de  derechos,  la  visión  multidimensional  del desarrollo  y  la  responsabilidad  compartida  de  todos  los  sec tores  en  la  provisión  de  cuidados, estimulación,  educación,  salud,  nutrición,  entornos  protectores  de  sus  derechos  y  protección especial. https://crecerjuntos.gob.sv/dist/documents/POLITICA-CRECER-JUNTOS-actualizada-2024_VF.pdf
+La Política Nacional de Apoyo al Desarrollo Infantil Temprano “Crecer Juntos”, busca garantizar las condiciones necesarias para brindar a niñas y niños servicios de calidad, apropiados a sus particularidades y fundamentados en el enfoque de derechos, la visión multidimensional del desarrollo y la responsabilidad compartida de todos los sectores en la provisión de cuidados, estimulación, educación, salud, nutrición, entornos protectores de sus derechos y protección especial. https://crecerjuntos.gob.sv/dist/documents/POLITICA-CRECER-JUNTOS-actualizada-2024_VF.pdf
 
-La Ley Crecer Juntos para la Protección Integral de la Primera Infancia, Niñez y Adolescencia , tiene por  finalidad  garantizar  el  ejercicio  y  disfrute  pleno  de  los  derechos  de  toda  niña,  niño  y adolescente y facilitar el cumplimiento de sus deberes ( Artículo 1 Ley Crecer Juntos ). El Estado tiene la obligación de asegurar a las niñas, niños y adolescentes con discapacidad el acceso universal e inclusivo a la atención educativa en todos sus niveles y garantizará la eliminación de todo tipo de barreras  que  impidan  gozar  de  este  der echo,  tanto  en  los  centros  educativos  públicos  como privados. (Artículo 51, Ley Crecer Juntos). https://crecerjuntos.gob.sv/dist/documents/DECRETO_LEY.pdf
+La Ley Crecer Juntos para la Protección Integral de la Primera Infancia, Niñez y Adolescencia, tiene por finalidad garantizar el ejercicio y disfrute pleno de los derechos de toda niña, niño y adolescente y facilitar el cumplimiento de sus deberes (Artículo 1 Ley Crecer Juntos). El Estado tiene la obligación de asegurar a las niñas, niños y adolescentes con discapacidad el acceso universal e inclusivo a la atención educativa en todos sus niveles y garantizará la eliminación de todo tipo de barreras que impidan gozar de este derecho, tanto en los centros educativos públicos como privados. (Artículo 51, Ley Crecer Juntos). https://crecerjuntos.gob.sv/dist/documents/DECRETO_LEY.pdf
 
 La  Ley  Especial  de  Inclusión  de  Personas  con  Discapacidad ,  que  tiene  por  objeto  reconocer, proteger y garantizar el ejercicio y disfrute pleno de los derechos de las personas con discapacidad en igualdad de condiciones. El Estado garantizará la eliminación de barreras que obstaculicen el pleno  desarrollo  de  las  personas  con  discapacidad,  asegurando  los  ajustes  razonables  y fomentando la implementación del diseño universal en todas las instituciones gubernamentales y no gubernamentales, así como en las entidades de carácter privado. (Artículo 1 LEIPCD , )
 
-El Ministerio de Educación, Ciencia y Tecnología garantizará a las personas con discapacidad el derecho a la educación inclusiva en todos los niveles del sistema educativo regular , tanto del sector público  como  del  privado,  debiendo  implementar  la  revisión  del  currículo,  los  ajustes  o adaptaciones que garanticen el acceso y la participación en toda actividad educativa, así como los apoyos  técnicos,  sin  restricción  alguna  por  edad  y tipo  de  discapacidad. (Artículo  4 3  LEIPCD, Derecho a la educación inclusiva ) https://conaipd.gob.sv/wp-content/uploads/2021/01/LeyEspecial-de-Inclusi%C3%B3n-de-las-Personas-con-Discapacidad.pdf
+El Ministerio de Educación, Ciencia y Tecnología garantizará a las personas con discapacidad el derecho a la educación inclusiva en todos los niveles del sistema educativo regular, tanto del sector público como del privado, debiendo implementar la revisión del currículo, los ajustes o adaptaciones que garanticen el acceso y la participación en toda actividad educativa, así como los apoyos técnicos, sin restricción alguna por edad y tipo de discapacidad. (Artículo 43 LEIPCD, Derecho a la educación inclusiva) https://conaipd.gob.sv/wp-content/uploads/2021/01/Ley-Especial-de-Inclusi%C3%B3n-de-las-Personas-con-Discapacidad.pdf
 
-El  Ministerio  de  Educación a través de la Dirección de Educación Inclusiva  con el propósito de garantizar el ejercicio y disfrute pleno del derecho a la educación de toda niña, niño y adolescente con discapacidad ha desarrollado políticas, programas y proyectos de acuerdo a las prioridades establecidas en el Plan Estratégico Institucional 2019 -2024; abonando a las siguientes:
+El Ministerio de Educación a través de la Dirección de Educación Inclusiva con el propósito de garantizar el ejercicio y disfrute pleno del derecho a la educación de toda niña, niño y adolescente con discapacidad ha desarrollado políticas, programas y proyectos de acuerdo a las prioridades establecidas en el Plan Estratégico Institucional 2019-2024; abonando a las siguientes:
 
 > 33 Véase la nota 15.
 
@@ -654,19 +669,19 @@ El  Ministerio  de  Educación a través de la Dirección de Educación Inclusiv
 
 Prioridad 1:  Aprendizaje de calidad y significativos a lo largo del ciclo de vida con pedagogía y currículo pertinente e inclusivo.
 
-- Transformación del modelo de atención y la oferta educativa de las escuelas de educación especial, con el objetivo de desarrollar competencias y habilidades en los estudiantes, que los preparen para su inserción a la vida en sociedad y al mundo laboral. Pa ra ello se ha redefinido la organización de la oferta educativa y diseñado el ciclo de formación laboral que  considera  el  desarrollo  en  dos  fases:  Iniciación  y  especialización.  incluyendo  la dotación  de  recursos  para  la  implementación  de  7  talleres  de  formación  laboral, actualización del SIGES para el registro de estudiantes por asignatura. Beneficiando a más de 571 estudiantes del ciclo de formación laboral en las escuelas de educación especial.
+1. Transformación del modelo de atención y la oferta educativa de las escuelas de educación especial, con el objetivo de desarrollar competencias y habilidades en los estudiantes, que los preparen para su inserción a la vida en sociedad y al mundo laboral. Para ello se ha redefinido la organización de la oferta educativa y diseñado el ciclo de formación laboral que considera el desarrollo en dos fases: Iniciación y especialización. incluyendo la dotación de recursos para la implementación de 7 talleres de formación laboral, actualización del SIGES para el registro de estudiantes por asignatura. Beneficiando a más de 571 estudiantes del ciclo de formación laboral en las escuelas de educación especial.
 
-- Diseño de 8 Módulos de la fase de iniciación laboral: Habilidades para la vida laboral (2), TIC (2), Cálculo funcional (2), Lectura aplicada (2).
+2. Diseño de 8 Módulos de la fase de iniciación laboral: Habilidades para la vida laboral (2), TIC (2), Cálculo funcional (2), Lectura aplicada (2).
 
-- Diseño y producción de guías didácticas instaladas en entornos virtuales de aprendizaje, para la continuidad educativa de los estudiantes de las escuelas de educación especial, de las asignaturas básicas del currículo
+3. Diseño y producción de guías didácticas instaladas en entornos virtuales de aprendizaje, para la continuidad educativa de los estudiantes de las escuelas de educación especial, de las asignaturas básicas del currículo
 
-- Revisión y adecuación de contenidos curriculares de las cuatro asignaturas básicas.
+4. Revisión y adecuación de contenidos curriculares de las cuatro asignaturas básicas.
 
-- Diseño y producción de la Colección Hablemos LESSA que incluye: 4 módulos para impartir cursos sobre Lengua de Señas Salvadoreña, y material audiovisual para el estudio de la LESSA.
+5. Diseño y producción de la Colección Hablemos LESSA que incluye: 4 módulos para impartir cursos sobre Lengua de Señas Salvadoreña, y material audiovisual para el estudio de la LESSA.
 
-- Producción de material audiovisual en LESSA de la Colección Crecer Leyendo.
+6. Producción de material audiovisual en LESSA de la Colección Crecer Leyendo.
 
-- Creación del Sistema de Apoyos Territoriales para la Inclusión Educativa, permitiendo la atención y apoyos a estudiantes por medio de los siguientes servicios:
+7. Creación del Sistema de Apoyos Territoriales para la Inclusión Educativa, permitiendo la atención y apoyos a estudiantes por medio de los siguientes servicios:
 
 ★ 4,418  estudiantes  con  evaluación  psicopedagógica,  realizada  por  los  equipos técnicos de los 17 Centros de Orientación y Recursos.
 
@@ -674,7 +689,7 @@ Prioridad 1:  Aprendizaje de calidad y significativos a lo largo del ciclo de vi
 
 ★ 14 Comités Departamentales de Apoyo a la Inclusión, coordinan acciones en el territorio  que  contribuyen  a  la  generación  de  condiciones  que  favorecen  la inclusión educativa a estudiantes.
 
-- Fortalecimiento del Centro de Recursos para la Inclusión de Estudiantes con Discapacidad Visual (CRIEDV), Lo que permitió que:
+8. Fortalecimiento del Centro de Recursos para la Inclusión de Estudiantes con Discapacidad Visual (CRIE-DV), Lo que permitió que:
 
 ★ 300 estudiantes ciegos y de baja visión de los niveles de Educación parvularia hasta educación  media  de  centros  escolares  regulares  cuenten  con  sus  materiales curriculares impresos en múltiples formatos (Braille, audio, macro tipo, alto y bajo relieve).
 
@@ -692,7 +707,7 @@ Prioridad 1:  Aprendizaje de calidad y significativos a lo largo del ciclo de vi
 
 Prioridad 3: Ciencia, Tecnología e Innovación para impactar positivamente en el sector educativo productivo y académico
 
-- Dotación de ayudas técnicas a 3,015 estudiantes y 73 docentes con discapacidad, para favorecer el acceso a la información, la participación y los aprendizajes. Dichas ayudas incluyen  laptop,  Tablet,  mouse  y  teclados  adaptados  según  la  necesidad  de  cada est udiante, lápiz lector, cámaras de escaneo, líneas braille, así como software específico para discapacidad visual, y aplicaciones para apoyar procesos de lecto escritura y cálculo matemático  tanto  para  estudiantes  con  discapacidad  como  estudiantes  con  algun a necesidad educativa específica.
+9. Dotación de ayudas técnicas a 3,015 estudiantes y 73 docentes con discapacidad, para favorecer el acceso a la información, la participación y los aprendizajes. Dichas ayudas incluyen laptop, Tablet, mouse y teclados adaptados según la necesidad de cada estudiante, lápiz lector, cámaras de escaneo, líneas braille, así como software específico para discapacidad visual, y aplicaciones para apoyar procesos de lecto escritura y cálculo matemático tanto para estudiantes con discapacidad como estudiantes con alguna necesidad educativa específica.
 
 -¿Con  qué  dificultades  se  ha  tropezado  para  hacer  efectivo  el  derecho  a  la  educación  de  las personas con discapacidad? De ser necesario, se pueden añadir breves datos cuantitativos.
 
@@ -768,7 +783,7 @@ social temprano, aprendizaje fundacional, cuidado sensible, nutrición, salud, s
 
 -Proporcione más detalles sobre las medidas adoptadas.
 
-La  Malla  Curricular  para  Primera  Infancia  está  fundamentada  en  'Estándares  de  Desarrollo  y Aprendizaje' y contempla el enfoque de desarrollo integral, el enfoque  inclusivo y los cuidados cariñosos y sensibles; esto como parte del Modelo de Atención Integr al para la Primera Infancia cuyos componentes son: salud, nutrición, protección y educación.
+La Malla Curricular para Primera Infancia está fundamentada en “Estándares de Desarrollo y Aprendizaje” y contempla el enfoque de desarrollo integral, el enfoque inclusivo y los cuidados cariñosos y sensibles; esto como parte del Modelo de Atención Integral para la Primera Infancia cuyos componentes son: salud, nutrición, protección y educación.
 
 Se  implementa  la  'Estrategia  Nacional  del  Juego'  como  parte  de  las  atenciones  a  la  primera infancia  valorando  el  juego  como  la  actividad  rectora  para  la  construcción  de  aprendizajes tempranos.  Así  también  contamos  con  modalidades  complementarias  como  las  'Bebetecas' (locales y móviles), acceso a la 'Biblioteca Nacional (BINAES)', 'Festivales culturales Tradiciones de mi Tierra', Gira de 'La Casa de Lula' para el fortalecimiento del disfrute del juego y la literatura, el  Proyecto  de  'Pequeños  Guardaparques' con un enfoque de desarrollo de competencias de cuido y respeto a la naturaleza. Todas estas modalidades se desarrollan a nivel nacional.
 
@@ -898,7 +913,7 @@ Las  dificultades  más  recurrentes  con  las  que  el  país  se  ha  identifi
 
 - Aprendizaje socioemocional, debido a que no se había articulado con la currícula en sus diferentes niveles  del  sistema  educativo  nacional.  A  la  fecha  el  desarrollo  socioemocional  es  una  de  las prioridades en materia educativa.
 
-- Disparidad en los resultados de aprendizaje, se considera que la disparidad era producto de las metodologías no centradas en la niña, niño y adolescente, además del poco involucramiento de las familias en los  procesos  educativos  y  la  carencia  de  un  mode lo  pedagógico  que  contribuyera  al desarrollo integral de la niñez y adolescencia. En la actualidad se reduce esta brecha a partir de
+- Disparidad en los resultados de aprendizaje, se considera que la disparidad era producto de las metodologías no centradas en la niña, niño y adolescente, además del poco involucramiento de las familias en los procesos educativos y la carencia de un modelo pedagógico que contribuyera al desarrollo integral de la niñez y adolescencia. En la actualidad se reduce esta brecha a partir de
 
 [[END OF PAGE 24]]
 
@@ -972,11 +987,17 @@ pagan por exámenes,
 
 material escolar, uniformes y no hay tasas obligatorias para los padres.
 
-Fuente:
+Gasto por estudiante según nivel educativo (USD)
+Educ. Básica | $824.07 | $878.93 | $1,150.20 | $1,186.22
+Educ. Media | $751.07 | $804.37 | $1,064.08 | $1,204.23
 
-ESTADÍSTICAS E INDICADORES EDUCATIVOS AÑOS 2022
+Fuente: ESTADÍSTICAS E INDICADORES EDUCATIVOS AÑOS 2022-2023. MINEDUCYT (VALIDAR ESTE DATO)
 
--2023. MINEDUCYT (VALIDAR ESTE DATO)
+Tasas brutas y netas por nivel educativo
+Años 2022 y 2023
+Nivel educativo | Tasas brutas 2022 | Tasas brutas 2023 | Tasas netas 2022 | Tasas netas 2023
+Tercer ciclo y Educación Media (Secundaria) | 78.1% | 82.0% | 62.2% | 66.4%
+Fuente: ESTADÍSTICAS E INDICADORES EDUCATIVOS AÑOS 2022-2023. MINEDUCYT (VALIDAR ESTE DATO)
 
 -Indique si la edad mínima legal para trabajar coincide con la edad de finalización de la educación obligatoria.
 
@@ -1002,13 +1023,11 @@ Política Nacional de Protección Integral de la Niñez y de la Adolescencia de 
 
 Cómo se aplican:
 
-- Los CAPI, o Centro de Atención a Primera Infancia que es un establecimiento destinado a implementar  la  vía  institucional  del  modelo  de  atención  integral  a  la  Primera  Infancia  y  a promover un cuidado cariñoso y sensible, estimulación oportuna y educación de calidad, con el propósito de favorecer el desarrollo físico, cognitivo, afectivo y social de las niñas y niños.
+1) Los CAPI, o Centro de Atención a Primera Infancia que es un establecimiento destinado a implementar la vía institucional del modelo de atención integral a la Primera Infancia y a promover un cuidado cariñoso y sensible, estimulación oportuna y educación de calidad, con el propósito de favorecer el desarrollo físico, cognitivo, afectivo y social de las niñas y niños.
 
-- El Consejo Nacional de la Primera Infancia, Niñez y Adolescencia -  CONAPINA - que tiene como objetivo ejercer la rectoría en materia de protección integral de los derechos de la niñez y de la adolescencia, siendo sus funciones primordiales: la defensa efectiva de los derechos de las niñas, niños y adolescentes; la coordinación del Sistema Nacional de Protección Integral; y, la formulación y evaluación de la Política Nacional. Se coordinará para efectos presupuestarios con los demás Órganos de Estado a través del Ministerio de Educación, Ciencia y Tecnología .
+2) El Consejo Nacional de la Primera Infancia, Niñez y Adolescencia - CONAPINA - que tiene como objetivo ejercer la rectoría en materia de protección integral de los derechos de la niñez y de la adolescencia, siendo sus funciones primordiales: la defensa efectiva de los derechos de las niñas, niños y adolescentes; la coordinación del Sistema Nacional de Protección Integral; y, la formulación y evaluación de la Política Nacional. Se coordinará para efectos presupuestarios con los demás Órganos de Estado a través del Ministerio de Educación, Ciencia y Tecnología.
 
--Explique. Se pueden añadir breves datos cuantitativos.
-
-¿Con qué dificultades se ha tropezado para hacer efectiva la educación secundaria?
+- ¿Con qué dificultades se ha tropezado para hacer efectiva la educación secundaria?
 
 ⮽ Acceso limitado
 
@@ -1028,11 +1047,13 @@ Cómo se aplican:
 
 Algunas familias le dan poco interés a la continuidad educativa.
 
-Dificultad  para  concretar  las  estrategias  que  faciliten  el  proceso  de  transición  de  sexto  a séptimo grado y de noveno grado a primer año de bachillerato.
+Dificultad para concretar las estrategias que faciliten el proceso de transición de sexto a séptimo grado y de noveno grado a primer año de bachillerato.
 
 Algunos docentes, le dan poco interés a la atención integral de la adolescencia y lo ven como problema y no como una gran oportunidad para desarrollar su habilidades y competencias.
 
-El acceso limitado cobra sentido en los territorios rurales distantes, donde las escuelas con Tercer Ciclo  y  Media están lejos de sus domicilios; esto se agrava al residir en territorios vulnerables a fenómenos naturales, se trabaja en Modalidades de atención que garanticen el acceso a toda la población en edad escolar.
+- Explique. Se pueden añadir breves datos cuantitativos.
+
+El acceso limitado cobra sentido en los territorios rurales distantes, donde las escuelas con Tercer Ciclo y Media están lejos de sus domicilios; esto se agrava al residir en territorios vulnerables a fenómenos naturales, se trabaja en Modalidades de atención que garanticen el acceso a toda la población en edad escolar.
 
 [[END OF PAGE 27]]
 
@@ -1046,7 +1067,7 @@ Información adicional de acciones relacionadas con la aplicación de la Convenc
 
 - Además, se desarrollan talleres vocacionales con enfoque STEAM, para que los estudiantes de tercer ciclo exploren áreas laborales y profesionales; que les motive a construir su proyecto de vida.
 
-- Como  M inisterio  de  Educación,  se  participa  en  la  construcción  de  una  Política  Integral  para  la Atención de Niñez y Adolescencia, trabajo que se hace de manera conjunta y coordinada con otras instancias gubernamentales buscando hacer efectiva la atención a la niñez y adolescencia.
+- Como Ministerio de Educación, se participa en la construcción de una Política Integral para la Atención de Niñez y Adolescencia, trabajo que se hace de manera conjunta y coordinada con otras instancias gubernamentales buscando hacer efectiva la atención a la niñez y adolescencia.
 
 #### 2.3 Educación superior
 
@@ -1080,21 +1101,21 @@ Otro:
 
 El sistema Nacional de Educación Superior cuenta con 42 instituciones de educación superior, (IES) compuesto por 24 son Universidades, 5 Institutos Tecnológicos de educación superior y 12 Son Institutos de Educación Superior Especializados.  De las 42 IES, 9 son públicas y de estás sólo una es totalmente gratuita (la Universidad de El Salvador) y los 8 restantes reciben subvenciones estatales para su funcionamiento y establecen cuotas diferenciadas para estudiantes de acuerdo a estudios socioeconómicos.
 
-Respecto al favorecimiento de la accesibilidad mediante incentivos financieros y becas, el Porcentaje del presupuesto de las IES concedido asignado para programas de ayuda financiera y becas para los estudiantes, identifica que en 2021 se dedicó el 3.9% en 2022 se dedicó el 3.4%, presentando una leve  disminución  de  0.5%  entre  la  secesión  de  incentivos  fin ancieros  y  becas  para  el  acceso  y permanencia en educación superior.
+Respecto al favorecimiento de la accesibilidad mediante incentivos financieros y becas, el Porcentaje del presupuesto de las IES concedido asignado para programas de ayuda financiera y becas para los estudiantes, identifica que en 2021 se dedicó el 3.9% en 2022 se dedicó el 3.4%, presentando una leve disminución de 0.5% entre la secesión de incentivos financieros y becas para el acceso y permanencia en educación superior.
 
 -Enumere las leyes y políticas pertinentes. Si procede, facilite información sobre los costos directos (por  ejemplo,  tasas  de  matrícula  y  académicas)  e  indirectos  (por  ejemplo,  derechos  de  examen, material universitario, transporte y alojamiento). Se pueden añadir breves datos cuantitativos.
 
 Leyes y Políticas:
 
-- Ley General de Educación;
+1. Ley General de Educación;
 
-- Ley de Educación Superior (1995, con reformas en 2017).
+2. Ley de Educación Superior (1995, con reformas en 2017).
 
-- La Política Nacional de Educación Superior (2021).
+3. La Política Nacional de Educación Superior (2021).
 
-- Ley orgánica de la Universidad de El Salvador (1972, con sus reformas).
+4. Ley orgánica de la Universidad de El Salvador (1972, con sus reformas).
 
-- Ley especial de inclusión de personas con discapacidad (2021).
+5. Ley especial de inclusión de personas con discapacidad (2021).
 
 Las  Instituciones  de  Educación  Superior,  registraron  ingresos  por  un  monto  superior  a  los  187 millones de dólares, según reportes enviados a la Dirección Nacional de Educación Superior. En el cuadro 1, se detalla por tipo de IES la estructura de sus ingresos, donde destaca que los cobros por cuotas  representan  el  62.74%  de  los  ingresos  percibidos,  seguido  del  valor  de  la  matrícula  que acumula el 19.22% de los ingresos.
 
@@ -1106,7 +1127,7 @@ Especializado | 1,148,439.96 | 11,403,491.25 | 299,935.55 | 488,812.51 | 677,697
 Tecnológico | 136,736.20 | 450,770.64 | 20,015.57 | 27,348.00 | 88,664.25 | 228,648.93 | 952,183.59
 Total de ingresos por rubro | 36,076,081.56 | 117,796,961.69 | 1,531,978.84 | 5,512,557.71 | 10,922,586.28 | 15,904,844.17 | 187,745,010.25
 
-Fuente: Elaboración propia, sobre la base de reportes de la Gerencia de Monitoreo, DNES .
+Fuente: Elaboración propia, sobre la base de reportes de la Gerencia de Monitoreo, DNES.
 
 [[END OF PAGE 29]]
 
@@ -1136,11 +1157,13 @@ Para el año 2023, la graduación de educación media fue de 68,222, y el ingres
 
 Es importante mencionar que siempre para ese año (2023) son las mujeres las que presentan mayor número de ingreso (13,798 estudiantes), los hombres de ingreso continuo alcanzaron la cifra de 11,321.
 
-Respecto a profesorado en educación superior, para el año 2022, las IES reportaron 9,789 docentes, de ellos el 61.09% son Hombres y el 38.91% mujeres.  Analizando la estructura de la planta docente para ese año, se destaca que el grado de Licenciatura conc entra el 57.56% de los docentes, mientras que un porcentaje inferior al 1% de la planta docente posee Doctorado (posgrado).
+Respecto a profesorado en educación superior, para el año 2022, las IES reportaron 9,789 docentes, de ellos el 61.09% son Hombres y el 38.91% mujeres. Analizando la estructura de la planta docente para ese año, se destaca que el grado de Licenciatura concentra el 57.56% de los docentes, mientras que un porcentaje inferior al 1% de la planta docente posee Doctorado (posgrado).
 
 Por su parte, el personal de investigación en las Instituciones de Educación Superior, lo conforman 531 profesionales: 57.44% hombres y 42.56% mujeres. En estos equipos de investigación se carece de doctores (posgrado), y se conforma principalmente por Ingenieros y Licenciados en un 82.86%.
 
--Explique. Se pueden añadir breves datos cuantitativos.
+- Explique. Se pueden añadir breves datos cuantitativos.
+
+Tabla 1: Comportamiento de matrícula de estudiantes de ingreso continuo, por tipo de IES y año.
 
 Tipo de IES/Año | 2021 | 2022 | 2023
 --- | --- | --- | ---
@@ -1148,19 +1171,11 @@ Universidad | 19,124 | 18,101 | 20,126
 Instituto Especializado | 2,153 | 2,819 | 4,633
 Instituto Tecnológico | 375 | 429 | 360
 
-Tabla 1: Comportamiento de matrícula de estudiantes de ingreso continuo, por tipo de IES y año.
-
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-Total ingreso continuo
-
-21,652
-
-21,349
-
-25,119
+Total ingreso continuo | 21,652 | 21,349 | 25,119
 
 Fuente: Elaboración propia sobre la base de reportes de la Gerencia de Monitoreo/DNES.
 
@@ -1182,7 +1197,9 @@ TÉCNICO | 124 | 20 | 144
 TECNÓLOGO | 101 | 79 | 180
 Total docentes por sexo | 5,980 | 3,809 | 9,789
 
-Fuente: Elaboración propia sobre la base de reportes de la Gerencia de Monitoreo/DNE S
+Fuente: Elaboración propia sobre la base de reportes de la Gerencia de Monitoreo/DNES
+
+Tabla 3: Investigadores en Educación Superior. Año 2022
 
 Tabla 2 | Investigadores por sexo. Año 2022
 --- | --- | --- | ---
@@ -1196,8 +1213,6 @@ MAESTRÍA | 15 | 12 | 27
 NO ESPECIFICADO | 0 | 1 | 1
 PROFESORADO | 1 | 0 | 1
 TÉCNICO | 8 | 0 | 8
-
-Tabla 3: Investigadores en Educación Superior. Año 2022
 
 [[END OF PAGE 31]]
 
@@ -1248,13 +1263,7 @@ El  Programa  de  Educación  Básica  Integral  para  Adultos,  desarrolla  el 
 ##### Modalidades Educativas Alternas:
 Atienden a jóvenes y adultos con sobreedad que se encuentran fuera del sistema educativo, interesados en completar los estudios de Educación Secundaria. Es un servicio  educativo  gratuito  con  las  modalidades  educativas  alternas:  acelerada,  semipresencial, distancia, nocturna, flexible integrada y bachillerato virtual. Además, se cuenta con dos estrategias educativas: Tutoría para nivelación académica y Prueba de Suficiencia.
 
--¿Con qué dificultades se ha tropezado para hacer efectivos el aprendizaje y la educación de adultos?
-
-- Para la Educación de Jóvenes y Adultos, existen muchos retos, uno de los principales es proveer oportunidades  para  que  dicha  población  inicie  y  concluya  su  educación  o  se  mantenga  en procesos formativos de actualización permanente a lo largo de la vida.
-
-- No haber ingresado nunca al sistema educativo o permanecido fuera del mismo por un periodo de varios años.
-
--Explique. Se pueden añadir breves datos cuantitativos.
+- ¿Con qué dificultades se ha tropezado para hacer efectivos el aprendizaje y la educación de adultos?
 
 □ Acceso limitado
 
@@ -1270,11 +1279,17 @@ Atienden a jóvenes y adultos con sobreedad que se encuentran fuera del sistema 
 
 ⮽ Escaso número de educadores que han recibido formación profesional
 
-En  el  año  2023,  se  atendieron  con  Educación  Básica  de  Adultos  a  2,528  personas  y  53,344  con Modalidades Educativas Alternas (Modalidades Flexibles de Educación) y Estrategia Educativa de Prueba de Suficiencia.
+• Para la Educación de Jóvenes y Adultos, existen muchos retos, uno de los principales es proveer oportunidades para que dicha población inicie y concluya su educación o se mantenga en procesos formativos de actualización permanente a lo largo de la vida.
+
+• No haber ingresado nunca al sistema educativo o permanecido fuera del mismo por un periodo de varios años.
+
+- Explique. Se pueden añadir breves datos cuantitativos.
+
+En el año 2023, se atendieron con Educación Básica de Adultos a 2,528 personas y 53,344 con Modalidades Educativas Alternas (Modalidades Flexibles de Educación) y Estrategia Educativa de Prueba de Suficiencia.
 
 ### 3. Educación de calidad y entorno de aprendizaje
 
-A fines de referencia, en los artículos/párrafos 2, 4.b y 5.b de la Convención y la Recomendación se establece el derecho a una educación de calidad. La educación de calidad es fundamental para alcanzar todas las metas del ODS 4. Esto también se destaca particularmente en la meta 4.a de los ODS, en la que se recomienda a los Estados 'construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de gé nero, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos'.
+A fines de referencia, en los artículos/párrafos 2, 4.b y 5.b de la Convención y la Recomendación se establece el derecho a una educación de calidad. La educación de calidad es fundamental para alcanzar todas las metas del ODS 4. Esto también se destaca particularmente en la meta 4.a de los ODS, en la que se recomienda a los Estados 'construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos'.
 
 #### 3.1 Medidas generales:
 
@@ -1284,27 +1299,27 @@ A fines de referencia, en los artículos/párrafos 2, 4.b y 5.b de la Convenció
 
 - Indique  si  el  marco  jurídico  o  reglamentario  establece  las  condiciones  y  las  normas  mínimas  de educación para la creación y el funcionamiento de centros públicos de enseñanza en lo que se refiere a los aspectos siguientes:
 
-- Control e inspecciones estatales
+✓ Control e inspecciones estatales
 
-- Salud y saneamiento
+✓ Salud y saneamiento
 
-- Seguridad:  los  niños  reciben  enseñanza  en  un  entorno  seguro  y  libre  de  violencia  o acoso, incluida la violencia de género en el entorno escolar (dentro y alrededor de las escuelas)
+✓ Seguridad: los niños reciben enseñanza en un entorno seguro y libre de violencia o acoso, incluida la violencia de género en el entorno escolar (dentro y alrededor de las escuelas)
 
-- Infraestructura
+✓ Infraestructura
 
-- Planes de estudio
+✓ Planes de estudio
 
-- Número de alumnos por docente
+✓ Número de alumnos por docente
 
-- Pago de matrícula (si procede)
+✓ Pago de matrícula (si procede)
 
-- Otro:
+✓ Otro:
 
 - Proporcione detalles sobre cada una de las medidas adoptadas.
 
 Puede incluir información sobre políticas, protocolos o códigos de conducta.
 
-¿Con qué dificultades se ha tropezado para hacer efectiva una educación de calidad?
+- ¿Con qué dificultades se ha tropezado para hacer efectiva una educación de calidad?
 
 □ Entornos  de  aprendizaje  poco  estimulantes  o inadecuados
 
@@ -1356,13 +1371,13 @@ A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recom
 
 ##### La formación de docentes se imparte sin discriminación
 
-La oferta de formación continua se diseña cuidadosamente para garantizar que todos los factores que pudiesen  limitar  el  acceso  a  los  procesos  formativos  sean  considerados.  Esto  incluye  desde  la planificación metodológica de tiempos y duraciones adecuadas p ara evitar la saturación de actividades, así como la de elaborar materiales o recursos educativos que contemplen las necesidades específicas educativas de los docentes (Integración de lenguaje de señas, subtítulos, pistas de audio, etc.). De esta manera, d esde la Dirección Nacional de formación Docente, se asegura que la formación se imparta sin discriminación, promoviendo la inclusión y la equidad en todos los aspectos del proceso educativo.
+La oferta de formación continua se diseña cuidadosamente para garantizar que todos los factores que pudiesen limitar el acceso a los procesos formativos sean considerados. Esto incluye desde la planificación metodológica de tiempos y duraciones adecuadas para evitar la saturación de actividades, así como la de elaborar materiales o recursos educativos que contemplen las necesidades específicas educativas de los docentes (Integración de lenguaje de señas, subtítulos, pistas de audio, etc.). De esta manera, desde la Dirección Nacional de formación Docente, se asegura que la formación se imparta sin discriminación, promoviendo la inclusión y la equidad en todos los aspectos del proceso educativo.
 
 Por  otro  lado,  las  convocatorias  a  participar  de  los  procesos  formativos  se  elaboran  considerando aspectos  estratégicos  como  el  nivel  educativo  que  imparte  o  la  disciplina  específica  que  brinda  el docente para no generar sobrecarga en sus labores.
 
 ##### Se ofrece formación inicial y desarrollo profesional continuo
 
-El Ministerio de Educación a través de la Dirección Nacional de Formación Docente, diseña, gestiona y ejecuta  los  procesos  de  formación  continua  de  los  y  las  docentes  de  las  escuelas  públicas.  Dichos procesos  se  materializan  a  través  de  un  Plan  de  Formació n  Docente,  integrado  por  programas  de formación acordes a los diferentes niveles educativos.
+El Ministerio de Educación a través de la Dirección Nacional de Formación Docente, diseña, gestiona y ejecuta los procesos de formación continua de los y las docentes de las escuelas públicas. Dichos procesos se materializan a través de un Plan de Formación Docente, integrado por programas de formación acordes a los diferentes niveles educativos.
 
 Dicho Plan se elabora sobre la identificación de necesidades de formación, lineamientos estratégicos en coherencia con las políticas y desafíos del país y la consulta entre el cuerpo docente.
 
@@ -1400,9 +1415,9 @@ Más  que  un  problema  de  escasez  de  personal  docente,  la  distribución 
 
 #### 3.3 Respeto de los derechos humanos y de las libertades fundamentales
 
-A  fines  de  referencia,  en  el  artículo/párrafo  5.1.a  de  la  Convención  y  la  Recomendación  se  hace referencia al respeto de los derechos humanos y las libertades fundamentales. Este aspecto se abarca en la meta 4.7 41 de los ODS. Tenga en cuenta que esta sección contribuye al seguimiento general del artículo/párrafo 5.1.a de la Convención y la Recomendación y que la consulta futura dedicada a la Recomendación sobre la Educación para la Comprensión, la Cooperación y la Paz Internaci onales y la Educación relativa a los Derechos Humanos y las Libertades Fundamentales (1974) // Recomendación sobre [...] (2023) se utilizará específicamente para el seguimiento del indicador 4.7.1 del ODS 4 .
+A fines de referencia, en el artículo/párrafo 5.1.a de la Convención y la Recomendación se hace referencia al respeto de los derechos humanos y las libertades fundamentales. Este aspecto se abarca en la meta 4.7 41 de los ODS. Tenga en cuenta que esta sección contribuye al seguimiento general del artículo/párrafo 5.1.a de la Convención y la Recomendación y que la consulta futura dedicada a la Recomendación sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades Fundamentales (1974) // Recomendación sobre [...] (2023) se utilizará específicamente para el seguimiento del indicador 4.7.1 del ODS 4.
 
-> 41 En la que se insta a los Estados a 'asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesario s para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos d e v ida  sostenibles,  los  derechos  humanos,  la  igualdad  de  género,  la  promoción  de  una  cultura  de  paz  y  no  violencia,  la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible'.
+> 41 En la que se insta a los Estados a 'asegurar que todos los alumnos adquieran los conocimientos teóricos y prácticos necesarios para promover el desarrollo sostenible, entre otras cosas mediante la educación para el desarrollo sostenible y los estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la valoración de la diversidad cultural y la contribución de la cultura al desarrollo sostenible'.
 
 [[END OF PAGE 36]]
 
@@ -1448,8 +1463,6 @@ Tercero | 4 | Derechos y deberes del niño y la niña en el municipio y el depar
 
 [[START OF PAGE 38]]
 
-- Se anexa link de los materiales curriculares:
-
 Cuarto | 4 | Explotación y abuso que sufren las poblaciones vulnerables: la niñez, el adulto mayor, la mujer y las personas discapacitadas. Medidas y base legal para prevenirlos.
 --- | --- | ---
 Derechos humanos de la niñez y la mujer contemplados en la Constitución de la República de El Salvador.
@@ -1465,6 +1478,8 @@ Derechos civiles, políticos, económicos, sociales y culturales y derechos espe
 Los derechos civiles, políticos, sociales, económicos y culturales garantizados en la Constitución de la República.
 Pactos y Tratados Internacionales en materia de derechos humanos vigentes en El Salvador.
 Segundo año de bachillerato | 4 | Los derechos de III y IV generación. - Orígenes y desarrollo. - Derechos del trabajador. - Derechos de la mujer. - Derechos de grupos étnicos. - El derecho a la seguridad social. - Derechos de las personas con discapacidad. - Leyes, acuerdos y convenciones internacionales.
+
+- Se anexa link de los materiales curriculares:
 
 Inicial y Parvularia
 
@@ -1532,31 +1547,31 @@ A fines de referencia, en los artículos/párrafos 2.c y 5.1.b de la Convención
 
 [[START OF PAGE 40]]
 
-- Inscripción
+✓ Inscripción
 
-- Control e inspecciones estatales
+✓ Control e inspecciones estatales
 
-- Cualificaciones de los docentes
+✓ Cualificaciones de los docentes
 
-- Salud y saneamiento
+✓ Salud y saneamiento
 
-- Seguridad:  los  niños  reciben  enseñanza  en  un  entorno  seguro  y  libre  de  violencia  o acoso, incluida la violencia de género en el entorno escolar (dentro y alrededor de las escuelas)
+✓ Seguridad: los niños reciben enseñanza en un entorno seguro y libre de violencia o acoso, incluida la violencia de género en el entorno escolar (dentro y alrededor de las escuelas)
 
-- Infraestructura
+✓ Infraestructura
 
-- Planes de estudio
+✓ Planes de estudio
 
-- Número de alumnos por docente
+✓ Número de alumnos por docente
 
-- Pago de matrícula
+✓ Pago de matrícula
 
-- Cierre de escuelas
+✓ Cierre de escuelas
 
-- Otro:
+✓ Otro:
 
 - Explique.
 
-¿Con qué dificultades se ha tropezado en la impartición de educación no estatal?
+- ¿Con qué dificultades se ha tropezado en la impartición de educación no estatal?
 
 □ Mala calidad de la infraestructura escolar y el material pedagógico
 
@@ -1624,9 +1639,9 @@ En cuanto al marco legal respecto del uso de información:
 
 ⮽ El marco regulatorio establece normas mínimas para la educación digital que deben cumplir todos los agentes de la educación .
 
-En la Ley Crecer Juntos, Capítulo IV -Educación y cultura, el art. art. 54 (Responsabilidad del Estado en materia de educación) se mandata 'Para hacer efectivo el derecho a la educación, en todos los niveles y  modalidades,el  Estado  deberá  garantizar  las  siguientes  condiciones:...j)  Incluir  en  el  currículo contenidos relacionados con la nutrición, la educación integral de la sexualidad, la equidad y violencia de  género,  educación  inclusiva,  discapacidad,  la  prevención  del  acoso  escolar,  convivencia  escolar, r esolución de conflictos, inteligencia emocional, prevención del consumo de sustancias psicotrópicas y similares, enfermedades infecto contagiosas, conservación del medio ambiente, seguridad vial, cultura de  paz,  prevención  de  la  migración  irregular,  el  uso adecuado  de  las  nuevas  tecnologías  de  la información y comunicación, el uso del entorno digital y la no discriminación, entre otros…'
+En la Ley Crecer Juntos, Capítulo IV-Educación y cultura, el art. art. 54 (Responsabilidad del Estado en materia de educación) se mandata 'Para hacer efectivo el derecho a la educación, en todos los niveles y modalidades,el Estado deberá garantizar las siguientes condiciones:...j) Incluir en el currículo contenidos relacionados con la nutrición, la educación integral de la sexualidad, la equidad y violencia de género, educación inclusiva, discapacidad, la prevención del acoso escolar, convivencia escolar, resolución de conflictos, inteligencia emocional, prevención del consumo de sustancias psicotrópicas y similares, enfermedades infecto contagiosas, conservación del medio ambiente, seguridad vial, cultura de paz, prevención de la migración irregular, el uso adecuado de las nuevas tecnologías de la información y comunicación, el uso del entorno digital y la no discriminación, entre otros…'
 
-⮽ Se han adoptado medidas para eliminar las barreras para acceder a los contenidos digitales 45 , en especial garantizando el acceso a contenidos digitales adaptados a los planes de estudio y disponibles en plataformas nacionales gratuitas, públicas y multimodales; se elaboran contenidos de alta calidad, disponibles en las asignaturas troncales, en l a lengua o lenguas nacionales oficiales y con características inclusivas para ayudar a los alumnos con discapacidades.
+⮽ Se han adoptado medidas para eliminar las barreras para acceder a los contenidos digitales 45, en especial garantizando el acceso a contenidos digitales adaptados a los planes de estudio y disponibles en plataformas nacionales gratuitas, públicas y multimodales; se elaboran contenidos de alta calidad, disponibles en las asignaturas troncales, en la lengua o lenguas nacionales oficiales y con características inclusivas para ayudar a los alumnos con discapacidades.
 
 En efecto se han realizado dichos contenidos digitales tomando en cuenta todo lo indicado y se ponen a disposición de la comunidad educativa a través de sitios web.
 
@@ -1638,7 +1653,7 @@ El Ministerio de Educación, a través de la Dirección Nacional de Formación D
 
 Se tiene la proyección de hacerlo pero a la fecha solo se está impulsando un  concurso de creación de recursos con herramientas de IA en docentes e igual está en diseño un bootcamp piloto en IA para estudiantes de Bachillerato en Desarrollo de Software.
 
-⮽ Se han adoptado medidas para reducir la brecha digital, en especial garantizando un suministro de electricidad fiable, una buena conectividad a Internet en la escuela y en casa, y el acceso a dispositivos adecuados para el aprendizaje y la enseñanza, a sof tware seguro y sostenible, a plataformas seguras y a sistemas integrados de datos sobre la educación .
+⮽ Se han adoptado medidas para reducir la brecha digital, en especial garantizando un suministro de electricidad fiable, una buena conectividad a Internet en la escuela y en casa, y el acceso a dispositivos adecuados para el aprendizaje y la enseñanza, a software seguro y sostenible, a plataformas seguras y a sistemas integrados de datos sobre la educación.
 
 > 45 Falta de conexión a Internet, infraestructura básica o dispositivos.
 
@@ -1646,7 +1661,7 @@ Se tiene la proyección de hacerlo pero a la fecha solo se está impulsando un  
 
 [[START OF PAGE 43]]
 
-En efecto con el Programa ENLACES se ha cubierto el 100% de estudiantes y docentes con equipo tecnológico, se avanza a grandes pasos con cobertura de Internet en los CE y se tiene acceso universal por estudiantes del sistema educativo público a Google Work space for Education. Siempre en materia de plataformas digitales, está habilitada la plataforma para promover la lectoescritura Fiction Express para todos los estudiantes del sistema público de cuarto grado de básica a Bachillerato, y para finales de 2024 se espera incrementar paulatinamente la cobertura de primero a tercero de básica.
+En efecto con el Programa ENLACES se ha cubierto el 100% de estudiantes y docentes con equipo tecnológico, se avanza a grandes pasos con cobertura de Internet en los CE y se tiene acceso universal por estudiantes del sistema educativo público a Google Workspace for Education. Siempre en materia de plataformas digitales, está habilitada la plataforma para promover la lectoescritura Fiction Express para todos los estudiantes del sistema público de cuarto grado de básica a Bachillerato, y para finales de 2024 se espera incrementar paulatinamente la cobertura de primero a tercero de básica.
 
 ⮽ Se ha preparado un presupuesto bien establecido, sostenible y costoeficaz financiado por diversas fuentes y la cooperación intersectorial, y respaldado por informes centrados en el impacto y vinculados a los objetivos estratégicos regionales .
 
@@ -1655,19 +1670,25 @@ En efecto todo ha sido bien presupuestado con fondos GOES.
 - Proporcione detalles sobre cada una de las medidas adoptadas.
 
 Desde el punto de vista de sistemas informáticos, el MINEDUCYT establece políticas de seguridad y acceso a los sistemas informáticos a través de las diferentes normativas, entre las políticas podemos mencionar:
----
+
 ➢ Todos los sistemas cuentan con mecanismos de autenticación cifrada y los sistemas publicados en internet cuentan con doble factor de autenticación.
-➢ Se establecen roles dentro de los sistemas para controlar el acceso a los datos. ➢ Los sistemas cuentan con bitácoras y huellas de auditoría. ➢ Se coordinan jornadas de capacitación sobre el buen uso, acceso y seguridad de los sistemas.
+➢ Se establecen roles dentro de los sistemas para controlar el acceso a los datos.
+➢ Los sistemas cuentan con bitácoras y huellas de auditoría.
+➢ Se coordinan jornadas de capacitación sobre el buen uso, acceso y seguridad de los sistemas.
+
 En cuanto al marco legal informático que nos rige:
-➢ Política de ciberseguridad de El Salvador ➢ Ley de delitos informáticos y conexos, específicamente acceso, seguridad, uso y
-confidencialidad de los datos (Art. 24, 25, 26)
+
+➢ Política de ciberseguridad de El Salvador
+➢ Ley de delitos informáticos y conexos, específicamente acceso, seguridad, uso y confidencialidad de los datos (Art. 24, 25, 26)
+
 En cuanto al marco legal respecto del uso de información:
-➢ Ley Crecer Juntos. Norma el uso de los datos de menores de edad. ➢ Instituto de acceso a la información pública. Establecen las categorías de los datos. abiertos, confidenciales, restringidos, etc.
-En la Ley Crecer Juntos, Capítulo IV - Educación y cultura, el art. art. 54 (Responsabilidad del Estado en materia de educación) se mandata 'Para hacer efectivo el derecho a la educación, en todos los niveles y modalidades,el Estado deberá garantizar las sig uientes condiciones:...j) Incluir en el currículo contenidos relacionados con la nutrición, la educación integral de la sexualidad, equidad y violencia de género, educación inclusiva, discapacidad, la prevención del escolar, convivencia escolar, r esolución de conflictos, inteligencia emocional, prevención consumo de sustancias psicotrópicas y similares, enfermedades infecto conservación del medio ambiente, seguridad vial, cultura de paz, prevención de la irregular, el uso adecuado de las nuevas tecnologías de la información y comunicación, el uso entorno digital y la no discriminación, entre otros…'
-En efecto se han realizado dichos contenidos digitales tomando en cuenta todo lo indicado y ponen a disposición de la comunidad educativa a través de sitios web.
-se
-la acoso
-del contagiosas, migración del
+
+➢ Ley Crecer Juntos. Norma el uso de los datos de menores de edad.
+➢ Instituto de acceso a la información pública. Establecen las categorías de los datos. abiertos, confidenciales, restringidos, etc.
+
+En la Ley Crecer Juntos, Capítulo IV-Educación y cultura, el art. art. 54 (Responsabilidad del Estado en materia de educación) se mandata 'Para hacer efectivo el derecho a la educación, en todos los niveles y modalidades,el Estado deberá garantizar las siguientes condiciones:...j) Incluir en el currículo contenidos relacionados con la nutrición, la educación integral de la sexualidad, la equidad y violencia de género, educación inclusiva, discapacidad, la prevención del acoso escolar, convivencia escolar, resolución de conflictos, inteligencia emocional, prevención del consumo de sustancias psicotrópicas y similares, enfermedades infecto contagiosas, conservación del medio ambiente, seguridad vial, cultura de paz, prevención de la migración irregular, el uso adecuado de las nuevas tecnologías de la información y comunicación, el uso del entorno digital y la no discriminación, entre otros…'
+
+En efecto se han realizado dichos contenidos digitales tomando en cuenta todo lo indicado y se ponen a disposición de la comunidad educativa a través de sitios web.
 
 [[END OF PAGE 43]]
 
@@ -1677,7 +1698,7 @@ del contagiosas, migración del
 
 - Se tiene la proyección de hacerlo pero a la fecha solo se está impulsando un  concurso de creación de recursos con herramientas de IA en docentes e igual está en diseño un bootcamp piloto en IA para estudiantes de Bachillerato en Desarrollo de Software.
 
-En efecto con el Programa ENLACES se ha cubierto el 100% de estudiantes y docentes con equipo tecnológico, se avanza a grandes pasos con cobertura de Internet en los CE y se tiene acceso universal  por  estudiantes  del  sistema  educativo  público  a  Google  Work space  for  Education. Siempre en materia de plataformas digitales, está habilitada la plataforma para promover la lectoescritura Fiction Express para todos los estudiantes del sistema público de cuarto grado de básica a Bachillerato, y para finales de 2024 se espera incrementar paulatinamente la cobertura de primero a tercero de básica.
+En efecto con el Programa ENLACES se ha cubierto el 100% de estudiantes y docentes con equipo tecnológico, se avanza a grandes pasos con cobertura de Internet en los CE y se tiene acceso universal por estudiantes del sistema educativo público a Google Workspace for Education. Siempre en materia de plataformas digitales, está habilitada la plataforma para promover la lectoescritura Fiction Express para todos los estudiantes del sistema público de cuarto grado de básica a Bachillerato, y para finales de 2024 se espera incrementar paulatinamente la cobertura de primero a tercero de básica.
 
 En efecto todo ha sido bien presupuestado con fondos GOES.
 
@@ -1739,7 +1760,7 @@ A fines de referencia, el Marco de Acción Educación 2030 establece que 'para g
 
 - Proporcione detalles sobre cada una de las medidas adoptadas.
 
-¿Con qué dificultades se ha tropezado en términos de gobernanza?
+- ¿Con qué dificultades se ha tropezado en términos de gobernanza?
 
 □ Limitaciones presupuestarias
 
@@ -1763,7 +1784,7 @@ A fines de referencia, el Marco de Acción Educación 2030 establece que 'para g
 
 A fines de referencia, los órganos rectores de la UNESCO han subrayado la necesidad de llevar a cabo una labor de sensibilización. Dada la importancia de la acción normativa en el plano nacional, es preciso velar por que la Convención se difunda ampliamente, con el apoyo de las comisiones nacionales para la UNESCO.
 
-¿Se  han  llevado  a  cabo  actividades  para  familiarizar  a  las  distintas  autoridades  del  país  con  la Convención y la Recomendación y con sus disposiciones sobre el derecho a la educación, así como para sensibilizarlas a los principios de no discriminación e igualdad de oportunidades educativas? (marque todos los puntos que correspondan).
+- ¿Se han llevado a cabo actividades para familiarizar a las distintas autoridades del país con la Convención y la Recomendación y con sus disposiciones sobre el derecho a la educación, así como para sensibilizarlas a los principios de no discriminación e igualdad de oportunidades educativas? (marque todos los puntos que correspondan).
 
 □ Traducción de la Convención o la Recomendación a los idiomas nacionales y posiblemente a los idiomas locales
 
