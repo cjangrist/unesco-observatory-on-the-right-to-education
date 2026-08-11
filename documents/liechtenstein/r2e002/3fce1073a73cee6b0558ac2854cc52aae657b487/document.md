@@ -1,10 +1,10 @@
 [[START OF PAGE 1]]
 
-Jahrgang 2004
-
 416.0
 
 Liechtensteinisches Landesgesetzblatt
+
+Jahrgang 2004
 
 Nr. 262
 
@@ -298,7 +298,7 @@ Stipendiengesetz (StipG)
 
 ##### Ermittlung der Eigenleistung
 
-- Die Eigenleistung ergibt sich aufgrund der anrechenbaren Erwerbsund Vermögensverhältnisse aus der Tabelle im Anhang zu diesem Gesetz.
+- Die Eigenleistung ergibt sich aufgrund der anrechenbaren Erwerbs- und Vermögensverhältnisse aus der Tabelle im Anhang zu diesem Gesetz.
 
 > 1 Art. 20 Abs. 3 eingefügt durch LGBl. 2005 Nr. 41.
 
@@ -572,7 +572,7 @@ Stipendiengesetz (StipG)
 
 #### Art. 33
 
-##### Zusammensetzung, Mandatsdauer und Beschlussfähigkeit
+##### a) Zusammensetzung, Mandatsdauer und Beschlussfähigkeit
 
 - Die Stipendienkommission wird von der Regierung auf vier Jahre bestellt und besteht aus je einer Vertretung des Schulamtes und des Amtes für  Soziale  Dienste,  einer  Vertretung  des  Amtes  für  Berufsbildung  und Berufsberatung  sowie  zwei  weiteren  Mitgliedern;  mindestens  ein  Mitglied der Stipendienkommission muss rechtskundig sein. 1
 
@@ -658,7 +658,7 @@ Stipendiengesetz (StipG)
 
 ##### Übergangsbestimmungen
 
-- Bei der Berechnung der Höchstdauer nach Art. 8 Abs. 3 sind Erstund Zweitausbildungen ab dem 1. August 2000 zu berücksichtigen.
+- Bei der Berechnung der Höchstdauer nach Art. 8 Abs. 3 sind Erst- und Zweitausbildungen ab dem 1. August 2000 zu berücksichtigen.
 
 - Die bei Inkrafttreten dieses Gesetzes hängigen Gesuche sind nach diesem Gesetz zu behandeln.
 
@@ -728,7 +728,7 @@ Stipendiengesetz (StipG)
 
 ### Ermittlung der Eigenleistung
 
-Stufung | Anrechenbare Erwerbs- und Vermögensver- hältnisse | Eigenleistung | Stipendien- anteil | Darlehens- anteil
+Stufung | Anrechenbare Erwerbs- und Vermögensverhältnisse | Eigenleistung | Stipendienanteil | Darlehensanteil
 --- | --- | --- | --- | ---
 je 200 | 48 000 | 200 | 60 | 40
 49 000 | 400 | 60 | 40
@@ -761,7 +761,7 @@ Stipendiengesetz (StipG)
 
 416.0
 
-Stufung | Anrechenbare Erwerbs- und Vermögensver- hältnisse | Eigenleistung | Stipendien- anteil | Darlehens- anteil
+Stufung | Anrechenbare Erwerbs- und Vermögensverhältnisse | Eigenleistung | Stipendienanteil | Darlehensanteil
 --- | --- | --- | --- | ---
 je 300 | 68 000 | 4 800 | 50 | 50
 69 000 | 5 100 | 50 | 50
@@ -804,7 +804,7 @@ je 500 | 88 000 | 12 000 | 40 | 60
 
 Stipendiengesetz (StipG)
 
-Stufung | Anrechenbare Erwerbs- und Vermögensver- hältnisse | Eigenleistung | Stipendien- anteil | Darlehens- anteil
+Stufung | Anrechenbare Erwerbs- und Vermögensverhältnisse | Eigenleistung | Stipendienanteil | Darlehensanteil
 --- | --- | --- | --- | ---
 je 800 | 98 000 | 17 300 | 40 | 60
 99 000 | 18 100 | 40 | 60
@@ -847,7 +847,7 @@ Stipendiengesetz (StipG)
 
 416.0
 
-Stufung | Anrechenbare Erwerbs- und Vermögensver- hältnisse | Eigenleistung | Stipendien- anteil | Darlehens- anteil
+Stufung | Anrechenbare Erwerbs- und Vermögensverhältnisse | Eigenleistung | Stipendienanteil | Darlehensanteil
 --- | --- | --- | --- | ---
 je 1500 | 128 000 | 49 000 | 40 | 60
 129 000 | 50 500 | 40 | 60
@@ -890,7 +890,7 @@ je 1500 | 128 000 | 49 000 | 40 | 60
 
 Stipendiengesetz (StipG)
 
-Stufung | Anrechenbare Erwerbs- und Vermögensver- hältnisse | Eigenleistung | Stipendien- anteil | Darlehens- anteil
+Stufung | Anrechenbare Erwerbs- und Vermögensverhältnisse | Eigenleistung | Stipendienanteil | Darlehensanteil
 --- | --- | --- | --- | ---
 158 000 | 94 000 | 40 | 60
 159 000 | 95 500 | 40 | 60
