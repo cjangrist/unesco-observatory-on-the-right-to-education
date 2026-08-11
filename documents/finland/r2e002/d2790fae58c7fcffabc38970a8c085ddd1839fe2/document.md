@@ -65,7 +65,7 @@ The national languages of Finland are Finnish and Swedish.
 
 - the majority in these municipalities, as well as which municipalities are unilingual Finnish or Swedish-speaking municipalities.
 
-- A  municipality  is  designated  bilingual  if  the  population  includes  both Finnish and Swedish speakers and the minority comprises at least eight percent of the population or at least 3,000 persons. A bilingual municipality is designated unilingual if the minority comprises less than 3,000 persons and its proportion has decreased below six percent. On the recommendation of the municipal council Government may determine by a Government Decree that the municipal is bilingual for the following tenyear period even if the municipality would otherwise be unilingual.
+- A  municipality  is  designated  bilingual  if  the  population  includes  both Finnish and Swedish speakers and the minority comprises at least eight percent of the population or at least 3,000 persons. A bilingual municipality is designated unilingual if the minority comprises less than 3,000 persons and its proportion has decreased below six percent. On the recommendation of the municipal council Government may determine by a Government Decree that the municipality is bilingual for the following ten-year period even if the municipality would otherwise be unilingual.
 
 - When the boundaries of municipalities are changed, a decision shall be taken at the same time on the effect of the amendment on the linguistic status of municipalities.
 
@@ -190,7 +190,7 @@ The language used on the lower level is used before the Court of Appeal and the 
 
 ### Section  21 Official  translation  of  a  document  containing  a  decision  and  of other documents
 
-- In  this  Act  an  'official  translation'  refers  to  a  Finnish  or  Swedishlanguage translation made by an authority or a licensed translator.
+- In  this  Act  an  “official  translation”  refers  to  a  Finnish  or  Swedish-language translation made by an authority or a licensed translator.
 
 [[END OF PAGE 8]]
 
@@ -313,7 +313,7 @@ When the law requires that a product to be sold is labelled, in accordance with 
 
 ### Section 35 Measures for the promotion of linguistic rights
 
-- In accordance with the Constitution, the Government shall provide for the cultural and  societal needs  of  the  Finnish-speaking  and  Swedishspeaking population of the country on an equal basis.
+- In accordance with the Constitution, the Government shall provide for the cultural and  societal needs  of  the  Finnish-speaking  and  Swedish-speaking population of the country on an equal basis.
 
 - In the organisation of administration, the objective shall be made suitable territorial divisions, so that the Finnish-speaking and Swedish-speaking populations have an opportunity to receive services in their own language on an equal basis.
 
@@ -372,7 +372,7 @@ by Government Decree.
 - undertaken before its entry into force.
 
 ### Section 43 Transitional provisions
-(1)  After  this  Act  enters  into  force,  a  reference  in  an  Act  or  Decree  issued before this Act enters into force to the Language Act repealed by this Act shall refer to this Act. (2)  Provisions  that  were  in  force  at  the  time  this  Act  enters  into  force continue to apply to matters that have become pending before this Act enters  into  force,  unless  an  authority  decides  otherwise  with  regard  to the rights and interests of the parties. (3)  The Government Decree on the Linguistic Divisions of Official and SelfGovernment Districts 2003-2012 (1174/2002) is in force until the end of  the  period  of  validity  provided  in  the  Decree,  to  the  extent  that  it applies  to  the  linguistic  status  of  municipalities,  after  which  a  new Government Decree shall be issued on the linguistic status of municipalities, on the basis of Section 5(1) of this Act. (4)  Texts related to consumer goods referred to in Section 34 of this Act shall be brought into conformity with this Act within five years of the entry of this Act into force.
+(1)  After  this  Act  enters  into  force,  a  reference  in  an  Act  or  Decree  issued before this Act enters into force to the Language Act repealed by this Act shall refer to this Act. (2)  Provisions  that  were  in  force  at  the  time  this  Act  enters  into  force continue to apply to matters that have become pending before this Act enters  into  force,  unless  an  authority  decides  otherwise  with  regard  to the rights and interests of the parties. (3)  The Government Decree on the Linguistic Divisions of Official and Self-Government Districts 2003—2012 (1174/2002) is in force until the end of  the  period  of  validity  provided  in  the  Decree,  to  the  extent  that  it applies  to  the  linguistic  status  of  municipalities,  after  which  a  new Government Decree shall be issued on the linguistic status of municipalities, on the basis of Section 5(1) of this Act. (4)  Texts related to consumer goods referred to in Section 34 of this Act shall be brought into conformity with this Act within five years of the entry of this Act into force.
 
 -----
 
