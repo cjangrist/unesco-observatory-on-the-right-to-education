@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# The Māori education strategy: Ka Hikitia Accelerating Success 2013 -2017
+# The Māori education strategy: Ka Hikitia - Accelerating Success 2013 -2017
 
 ## Contents
 
@@ -52,11 +52,19 @@ Ka Hikitia Accelerating Success in action
 
 Putting Ka Hikitia Accelerating Success 2013 - 2017 into action
 
-Measuring and sharing success Key readings and resources Glossary Selected references Karakia Mutunga
+Measuring and sharing success
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Key readings and resources
+
+Glossary
+
+Selected references
+
+Karakia Mutunga
 
 ### Ka Hikitia - Strategy documents
 
@@ -206,11 +214,13 @@ A focus on action by all key stakeholders
 
 ##### What is the role of Ka Hikitia 2013-2017?
 
-Ka Hikitia - Accelerating Success 2013-2017 will guide and measure quality education provision for and with Māori students and their whānau. It highlights the elements required to support education success for Māori students as Māori.
+Ka Hikitia - Accelerating Success 2013-2017 will guide and measure quality education provision for and with Māori students and their whānau. It highlights the elements required to
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+support education success for Māori students as Māori.
 
 It provides a framework for action by all who have a role to play in raising education system performance for Māori students - supporting 'local solutions for local change, by local communities'.
 
@@ -244,7 +254,7 @@ Ka Hikitia - Accelerating Success 2013-2017 is the Government's strategy to rapi
 
 [[START OF PAGE 7]]
 
-### The audience for Ka Hikitia Accelerating Success 20132017
+### The audience for Ka Hikitia Accelerating Success 2013-2017
 
 Ka Hikitia - Accelerating Success 2013-2017 guides how government departments, agencies, education providers and professionals will work together to ensure the education system works well for every Māori student. It prioritises action and resources towards what evidence says works to achieve strong language and educational outcomes.
 
@@ -272,11 +282,15 @@ Ka Hikitia - Accelerating Success 2013-2017 guides how government departments, a
 
 ### The vision
 
-Māori enjoying and achieving education success as Māori The vision of Ka Hikitia - Accelerating Success 2013-2017 is 'Māori enjoying and achieving education success as Māori'. This vision means ensuring that all Māori students, their parents and their whānau participate in and contribute to an engaging and enjoyable educational journey that recognises and celebrates their uniqueidentity, language and culture. This journey will support Māori students to achieve the skills, knowledge and qualifications they need to achieve success in te ao Māori, New Zealand and in the wider world.
+Māori enjoying and achieving education success as Māori
+
+The vision of Ka Hikitia - Accelerating Success 2013-2017 is 'Māori enjoying and achieving
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+education success as Māori'. This vision means ensuring that all Māori students, their parents and their whānau participate in and contribute to an engaging and enjoyable educational journey that recognises and celebrates their uniqueidentity, language and culture. This journey will support Māori students to achieve the skills, knowledge and qualifications they need to achieve success in te ao Māori, New Zealand and in the wider world.
 
 #### When the vision is realised, all Māori students will:
 
@@ -316,23 +330,30 @@ Every Māori student has the potential to make a valuable social, cultural and e
 
 Students who are expected to achieve and who have high (but not unrealistic) expectations of themselves are more likely to succeed. Education sector professionals can hold lower expectations for Māori students and this can be detrimental to their learning and achievement. 1
 
-Students, parents, whānau, hapū, iwi, Māori organisations, communities, peers, and education and vocational training sector professionals must share high expectations for Māori students to achieve. Sometimes this means challenging longstanding beliefs and stereotypes.
+Students, parents, whānau, hapū, iwi, Māori organisations, communities, peers, and
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
+education and vocational training sector professionals must share high expectations for Māori students to achieve. Sometimes this means challenging longstanding beliefs and stereotypes.
+
 ##### The Māori potential approach 2  means:
 
 LESS FOCUS ON | MORE FOCUS ON
 --- | ---
-remedying deficit problems of dysfunction government intervention targeting deficit Māori as a minority | realising potential identifying opportunity investing in people and local solutions, communities or networks of provision tailoring education to the student indigeneity and distinctiveness collaborating and co-constructing.
+remedying deficit | realising potential
+problems of dysfunction | identifying opportunity
+government intervention | investing in people and local solutions, communities or networks of provision
+targeting deficit | tailoring education to the student
+Māori as a minority | indigeneity and distinctiveness
+ | collaborating and co-constructing.
 
 > 1  Alton-Lee, A. (2003)
 
 > 2  Developed by Te Puni Kōkiri in 2004 as a public policy approach for Government, Cabinet minute [(04) 37/15]; [Pol Min (04) 27/7]
 
-#### Ako-a two-way teaching and learning process
+#### Ako—a two-way teaching and learning process
 
 Quality teaching is the most important influence that the education system can have on student achievement. Effective teaching and learning depends on the relationship between the teacher and student, and the teacher's ability to engage and motivate the students. 3
 
@@ -368,11 +389,13 @@ Students do better in education when what and how they learn reflects and positi
 
 #### Productive partnerships
 
-A productive partnership in education means a two-way relationship leading to and generating shared action, outcomes and solutions. Productive partnerships are based on mutual respect, understanding and shared aspirations. They are formed by acknowledging, understanding and celebrating similarities and differences.
+A productive partnership in education means a two-way relationship leading to and generating shared action, outcomes and solutions. Productive partnerships are based on
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+mutual respect, understanding and shared aspirations. They are formed by acknowledging, understanding and celebrating similarities and differences.
 
 For Ka Hikitia - Accelerating Success 2013- 2017 to be successful, stakeholders must form productive partnerships where there is an ongoing exchange of knowledge and information, and where everybody contributes to achieving the goals.
 
@@ -418,7 +441,7 @@ In senior secondary and tertiary education, it is important to ensure transition
 
 Throughout this journey, there will be a focus on supporting more Māori students to access high quality Māori language in education.
 
-### The focus areas of Ka Hikitia Accelerating Success 20132017
+### The focus areas of Ka Hikitia Accelerating Success 2013-2017
 
 [[END OF PAGE 13]]
 
@@ -448,11 +471,33 @@ This acknowledges that parents, whānau and iwi may also play a role within the 
 
 Strong engagement and contribution from students and those who are best placed to support them - parents and whānau, hapū, iwi, Māori organisations, communities and businesses - have a strong influence on students' success. Māori students' learning is strengthened when education professionals include a role for parents and whānau, hapū, iwi, and Māori organisations and communities in curriculum, teaching and learning. 10
 
-The actions of Ka Hikitia - Accelerating Success 2013-2017 are designed to strengthen the impact of these critical factors across the educational journey.
+The actions of Ka Hikitia - Accelerating Success 2013-2017 are designed to strengthen the
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+impact of these critical factors across the educational journey.
+
+FIGURE 3
+
+The critical factors of Ka Hikitia – Accelerating Success 2013–2017
+
+Identity, language and culture
+
+Treaty of Waitangi
+
+Māori potential
+
+Ako
+
+Productive partnerships
+
+1. Quality provision, leadership, teaching and learning, supported by effective governance
+
+MĀORI STUDENT ACHIEVEMENT AS MĀORI
+
+2. Strong engagement and contribution from students and those who are best placed to support them – parents, families and whānau, hapū, iwi, communities and businesses
 
 > 9  Hattie, J. (2009), Alton-Lee, A. (2003)
 
@@ -528,11 +573,17 @@ Māori language in education is critical for the Crown to meet its Treaty obliga
 
 ##### High quality Māori language in education is important because it:
 
-supports identity, language and culture as critical, but not exclusive, ingredients for the success of all Māori students provides all Māori students with the opportunity to realise their unique potential and to succeed as Māori gives expression to the national curriculum documents for early learning, primary and secondary education, which recognise the importance of Māori language for New Zealand supports community and iwi commitments to Māori language intergenerational transmission and language survival. 16
+supports identity, language and culture as critical, but not exclusive, ingredients for the success of all Māori students
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+provides all Māori students with the opportunity to realise their unique potential and to succeed as Māori
+
+gives expression to the national curriculum documents for early learning, primary and secondary education, which recognise the importance of Māori language for New Zealand
+
+supports community and iwi commitments to Māori language intergenerational transmission and language survival. 16
 
 The Ministry of Education, ERO and education sector agencies play an important role in supporting Māori language acquisition and revitalisation in the early learning, primary, secondary and tertiary education sectors. Their role includes providing funding, resources, support and information, and developing policies and regulations.
 
@@ -702,11 +753,17 @@ Over the past decade, there has been an increase in achievement for Māori stude
 
 integrate elements of students' identity, language and culture into the curriculumteaching and learning
 
-use their student achievement data to target resources for optimal effect provide early, intensive support for those students who are at risk of falling behind create productive partnerships with parents, whānau, hapū, iwi, communities and businesses that are focused on educational success retain high expectations of students to succeed in education as Māori. 28
+use their student achievement data to target resources for optimal effect
+
+provide early, intensive support for those students who are at risk of falling behind
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+create productive partnerships with parents, whānau, hapū, iwi, communities and businesses that are focused on educational success
+
+retain high expectations of students to succeed in education as Māori. 28
 
 Ka Hikitia - Accelerating Success 2013-2017 aims to ensure this good practice occurs in all schools and kura.
 
@@ -744,11 +801,12 @@ Students with a strong belief in their capacity to achieve are more likely to se
 
 Students who believe they have set abilities, whether they believe they are smart or not very smart, are less likely to engage in activities where they might fail or look bad. They tend to avoid challenges and are more vulnerable to setbacks. Education professionals and whānau can help students by encouraging them to believe that if they apply themselves, they can achieve what they set out to do.
 
-Education professionals who believe students have fixed abilities often have their belief confirmed when students do not improve. On the other hand, education professionals who believe their students can improve through diligence find that students who start at the bottom of the class can improve throughout the year. Education professionals who have strong selfefficacy believe in their own ability to create change and are confident of their teaching abilities. Education professionals with a high sense of efficacy about their teaching capabilities may find it easier to connect with students, influence students' beliefs about their abilities and influence student achievement. 33
+Education professionals who believe students have fixed abilities often have their belief confirmed when students do not improve. On the other hand, education professionals who believe their students can improve through diligence find that students who start at the bottom of the class can improve throughout the year. Education professionals who have strong self-efficacy believe in their own ability to create change and are confident of their teaching abilities. Education professionals with a high sense of efficacy about their teaching
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+capabilities may find it easier to connect with students, influence students' beliefs about their abilities and influence student achievement. 33
 
 The New Zealand Curriculum and Te Marautanga o Aotearoa highlight the importance of self-efficacy in influencing student achievement.
 
@@ -764,17 +822,18 @@ Students who expect and are expected to succeed are more likely to succeed.
 
 Innovative approaches to education provision for at-risk students at the secondary and tertiary interface will support more Māori students to gain NCEA Level 2 and progress to further education and employment. The Government will continue to expand these opportunities. Iwi and Māori organisations and businesses will be key partners in this. Responses will involve creating teaching and learning environments and support systems that recognise and reflect the identity, language and culture of these students and support their achievement in education as Māori.
 
-To achieve their potential as Māori, every Māori student needs to play a role, from an early stage, in planning strong pathways in their education, supported by effective, culturally responsive transitions, and career information and guidance. Vocational Pathways will be an important tool, but communities also need to be provided with more information about the post-school outcomes and destinations of their students. Schools must focus on providing quality careers information, advice and guidance that take account of the aspirations of Māori students, their parents, whānau, hapū, iwi and communities. 35
+To achieve their potential as Māori, every Māori student needs to play a role, from an early stage, in planning strong pathways in their education, supported by effective, culturally responsive transitions, and career information and guidance. Vocational Pathways will be an important tool, but communities also need to be provided with more information about the post-school outcomes and destinations of their students. Schools must focus on providing
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+quality careers information, advice and guidance that take account of the aspirations of Māori students, their parents, whānau, hapū, iwi and communities. 35
 
 ###### Quality leadership through effective boards
 
 Boards of trustees of schools and kura are responsible for the governance of the school or kura. The board sets the strategic direction for the school or kura in consultation with parents, whānau, iwi, staff, communities and students.
 
-School charters outline how boards will deliver set goals that reflect the school's or kura's priorities. Charters will be an important way to guide action to support Ka Hikitia Accelerating Success 2013-2017.
+School charters outline how boards will deliver set goals that reflect the school's or kura's priorities. Charters will be an important way to guide action to support Ka Hikitia - Accelerating Success 2013-2017.
 
 Boards will be expected to set targets that deliver on the Government's expectations for better outcomes for Māori students. Boards are required to monitor progress on their charters and report results annually to the Ministry of Education and communities.
 
@@ -882,11 +941,12 @@ Course completion rates for Māori students at all levels are up to 76% in 2012,
 
 #### Current work
 
-Raising educational achievement is the single most important way to achieve the Government's ambitious goals for raising living standards through a more productive and competitive economy. Under the Education Act 1989, the Tertiary Education Strategy sets out the Government's long-term strategic direction for tertiary education including a goal to address the development aspirations of Māori. This has enabled a range of work that makes a difference in improving educational and employment outcomes for Māori.
+Raising educational achievement is the single most important way to achieve the Government's ambitious goals for raising living standards through a more productive and
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+competitive economy. Under the Education Act 1989, the Tertiary Education Strategy sets out the Government's long-term strategic direction for tertiary education including a goal to address the development aspirations of Māori. This has enabled a range of work that makes a difference in improving educational and employment outcomes for Māori.
 
 The Government is working to:
 
@@ -896,13 +956,15 @@ increase the accountability of tertiary providers to their communities and to th
 
 The Government is progressing this by:
 
-setting strong performance targets for providers through performance linked funding the Tertiary Education Commission setting strong targets for providers that focus on increasing Māori learner participation and achievement to be at least on par with other students, and providing additional resourcing to providers that have shown good outcomes for Māori students
+setting strong performance targets for providers through performance linked funding
+
+the Tertiary Education Commission setting strong targets for providers that focus on increasing Māori learner participation and achievement to be at least on par with other students, and providing additional resourcing to providers that have shown good outcomes for Māori students
 
 committing funding to expand Māori and Pasifika trades training from the current 600 places to 3,000 places by 2015 and expanding apprenticeship training opportunities through New Zealand Apprenticeships
 
-actively encouraging more Māori students to successfully transition from secondary to tertiary education by increasing places in the Youth Guarantee (up to 10,500 places by 2015) improving the information available on the outcomes of tertiary study to help students and potential students understand the benefits of tertiary education and to assist them to make
+actively encouraging more Māori students to successfully transition from secondary to tertiary education by increasing places in the Youth Guarantee (up to 10,500 places by 2015)
 
-decisions about what to study
+improving the information available on the outcomes of tertiary study to help students and potential students understand the benefits of tertiary education and to assist them to make decisions about what to study
 
 the NZQA developing the Mātauranga Māori Quality Assurance Mark, which is awarded to qualifications that have been approved as meeting the needs of Māori students.
 
@@ -914,11 +976,12 @@ This is improving the performance of tertiary education for Māori students.
 
 #### Goals for this focus area
 
-Four tertiary education goals and accompanying actions have been developed to improve system and institutional performance for Māori that focus on the shifts needed to accelerate progress.
+Four tertiary education goals and accompanying actions have been developed to improve
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+system and institutional performance for Māori that focus on the shifts needed to accelerate progress.
 
 Māori participate and achieve at all levels at least on a par with other students in tertiary education.
 
@@ -936,9 +999,9 @@ expanding trades training for Māori
 
 maintaining a strong performance element to tertiary funding - to ensure providers are accountable and have the incentives to support better educational outcomes for Māori students
 
-continuing to improve the information available on tertiary education, particularly on careers advice, employment outcomes and skills in demand, for Māori students, whānau, communities and iwi to enable them to make informed educational choices examining existing support for research based on mātauranga Māori as part of the reviews of
+continuing to improve the information available on tertiary education, particularly on careers advice, employment outcomes and skills in demand, for Māori students, whānau, communities and iwi to enable them to make informed educational choices
 
-the Performance Based Research Fund and the Centres of Research Excellence.
+examining existing support for research based on mātauranga Māori as part of the reviews of the Performance Based Research Fund and the Centres of Research Excellence.
 
 In the longer term, the Ministry of Education and education, business, innovation and employment sector agencies' actions include (but are not limited to):
 
@@ -946,11 +1009,18 @@ supporting approaches to up-skill Māori in the workforce by connecting tertiary
 
 growing the research available on effective teaching and learning for Māori students so providers know what they can do to support students
 
-ensuring that Māori students' success is more transparent in NZQA's quality assessment of tertiary providers, so students, parents, whānau and iwi can better judge individual providers, improving the quality of Māori medium initial teacher education providing clear, quality Māori language pathways through tertiary education to support improvement in language proficiency looking for opportunities for better inclusion of mātauranga Māori in tertiary programmes.
+ensuring that Māori students' success is more transparent in NZQA's quality assessment of
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+tertiary providers, so students, parents, whānau and iwi can better judge individual providers,
+
+improving the quality of Māori medium initial teacher education
+
+providing clear, quality Māori language pathways through tertiary education to support improvement in language proficiency
+
+looking for opportunities for better inclusion of mātauranga Māori in tertiary programmes.
 
 #### Applying the critical factors to this focus area
 
@@ -988,7 +1058,9 @@ We want to increase the expectations of Māori students, which may require us to
 
 The tertiary education sector encourages parents, whānau, iwi, and communities to:
 
-have high expectations for Māori students to learn and succeed in tertiary education increase their own understanding of the benefits and challenges of tertiary education, and the support available
+have high expectations for Māori students to learn and succeed in tertiary education
+
+increase their own understanding of the benefits and challenges of tertiary education, and the support available
 
 choose their tertiary education organisation carefully - judge them on how well they provide excellent learning environments and good outcomes for Māori students
 
@@ -1010,17 +1082,17 @@ The performance of the Ministry of Education, ERO and education sector agencies 
 
 The Ministry of Education, ERO and education sector agencies must lead, coordinate and support improvements in education system performance for Māori students.
 
-This will require close collaboration with all stakeholders - students, parents, whānau, hapū, iwi, communities and businesses. The actions of Ka Hikitia - Accelerating Success 20132017 will also connect with and be supported by the following strategies and activities led by ERO and education sector agencies, including:
+This will require close collaboration with all stakeholders - students, parents, whānau, hapū, iwi, communities and businesses. The actions of Ka Hikitia - Accelerating Success 2013-2017 will also connect with and be supported by the following strategies and activities led by ERO and education sector agencies, including:
 
-the Tertiary Education Commission's Tū Māia e te Ākonga 2013-2016: Framework for Māori Learners Te Rautaki Māori 2012-2017 - NZQA's strategy to guide action towards fulfilling its contribution
+the Tertiary Education Commission's Tū Māia e te Ākonga 2013-2016: Framework for Māori Learners
 
-to the Government's education sector goal of Māori enjoying and achieving education success as Māori focusing ERO's differentiated review cycle and
+Te Rautaki Māori 2012-2017 - NZQA's strategy to guide action towards fulfilling its contribution to the Government's education sector goal of Māori enjoying and achieving education success as Māori
 
-ongoing reviews in individual schools and kura on success for Māori students ERO sharing, through its national reports, good
+focusing ERO's differentiated review cycle and ongoing reviews in individual schools and kura on success for Māori students
 
-practice for improving outcomes for Māori students and system-wide findings related to success for Māori students ERO including actions and successes for improving outcomes for Māori students in its reports on other
+ERO sharing, through its national reports, good practice for improving outcomes for Māori students and system-wide findings related to success for Māori students
 
-education centres outside of mainstream schools (such as teen parent units, activity centres and alternative education centres)
+ERO including actions and successes for improving outcomes for Māori students in its reports on other education centres outside of mainstream schools (such as teen parent units, activity centres and alternative education centres)
 
 He Kai Kei Aku Ringa - The Māori Economic Development Growth Strategy and Action Plan.
 
@@ -1028,17 +1100,16 @@ The effective implementation of Ka Hikitia - Accelerating Success 2013-2017 requ
 
 #### Goals for this focus area
 
-The Ministry of Education provides strong leadership to all relevant government
+The Ministry of Education provides strong leadership to all relevant government agencies and the education sector that supports Māori education success.
 
-agencies and the education sector that supports Māori education success. Ka Hikitia - Accelerating Success 2013-2017 and evidence of what works for and with
+Ka Hikitia - Accelerating Success 2013-2017 and evidence of what works for and with Māori students are embedded into all education sector agencies' planning and accountability processes.
 
-Māori students are embedded into all education sector agencies' planning and accountability processes.
-
-The Ministry of Education and education sector agencies take steps to increase their capacity and capability to lift the performance of the education system for Māori students.
+The Ministry of Education and education sector agencies take steps to increase their
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+capacity and capability to lift the performance of the education system for Māori students.
 
 #### The key actions for achieving these goals
 
@@ -1046,7 +1117,9 @@ Continue to build the Ministry of Education, ERO and education sector agencies' 
 
 Whakapūmautia, Papakōwhaitia, Tau ana: Grasp, Embrace and Realise - A model of excellent education relationships between iwi and the Ministry of Education
 
-Tau Mai Te Reo - The Māori Language in Education Strategy 2013-2017 Tātai Pou - competency framework
+Tau Mai Te Reo - The Māori Language in Education Strategy 2013-2017
+
+Tātai Pou - competency framework
 
 Ka Hikitia Measurable Gains R Framework.
 
@@ -1066,7 +1139,7 @@ evaluation and measuring of progress.
 
 - Primary and secondary education
 
-- Tertiary eduction
+- Tertiary education
 
 - Key readings and resources
 
@@ -1082,7 +1155,7 @@ evaluation and measuring of progress.
 
 ### Putting Ka Hikitia Accelerating Success 2013 - 2017 into action
 
-To succeed, Ka Hikitia - Accelerating Success 2013-2017 requires contribution from everyone who has a role to play. To improve the performance of the education system for Māori students, the actions of Ka Hikitia - Accelerating Success 2013-2017 must be supported and delivered by stakeholders at all levels of th education system - at national, regional/rohe, local, provider, student and whānau levels.
+To succeed, Ka Hikitia - Accelerating Success 2013-2017 requires contribution from everyone who has a role to play. To improve the performance of the education system for Māori students, the actions of Ka Hikitia - Accelerating Success 2013-2017 must be supported and delivered by stakeholders at all levels of the education system - at national, regional/rohe, local, provider, student and whānau levels.
 
 At national, regional and local levels, action planning requires engagement with students and their whānau so that actions meet local needs, priorities and aspirations. Action plans must take account of the views of students and their whānau, hapū, iwi, Māori organisations and communities.
 
@@ -1099,19 +1172,19 @@ The Government is committed to ensuring that resourcing and funding are targeted
 Success 2013-2017 and where we need to make changes in our approach.
 
 ##### Supporting a stronger student and whānau voice in education
-The Ministry of Education will create ways to gather and share feedback from students and their whānau and communities through ongoing hui, shared stories of Māori students'successes, the findings of an annual student and whānau survey, and updates on the Ministry of Education's website. These resources will be added to, expanded and enhanced over time.
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+The Ministry of Education will create ways to gather and share feedback from students and their whānau and communities through ongoing hui, shared stories of Māori students'successes, the findings of an annual student and whānau survey, and updates on the Ministry of Education's website. These resources will be added to, expanded and enhanced over time.
 
 At the provider level, there will be a focus on giving students a greater say in teaching and learning, and on students playing a proactive role in determining their own educational journey. This will be supported through goal setting and strong support from education professionals, parents, whānau, hapū, iwi, Māori organisations, communities and businesses.
 
 ##### Creating and maintaining momentum and action
 
-All stakeholders must remain motivated and maintain momentum in delivering on their Ka Hikitia - Accelerating Success 2013-2017 action plans. We will support this by gathering and sharing information and real life examples that demonstrate our progress towards achieving the vision, outcomes and targets within Ka Hikitia - Accelerating Success 20132017. We will also create opportunities to acknowledge and celebrate successes.
+All stakeholders must remain motivated and maintain momentum in delivering on their Ka Hikitia - Accelerating Success 2013-2017 action plans. We will support this by gathering and sharing information and real life examples that demonstrate our progress towards achieving the vision, outcomes and targets within Ka Hikitia - Accelerating Success 2013-2017. We will also create opportunities to acknowledge and celebrate successes.
 
-The Ministry of Education and education sector agencies will also take account of the findings and recommendations of the Office of the Controller and Auditor-General's fiveyear audit programme on Māori education as they progress with implementing Ka Hikitia Accelerating Success 2013-2017.
+The Ministry of Education and education sector agencies will also take account of the findings and recommendations of the Office of the Controller and Auditor-General's fiveyear audit programme on Māori education as they progress with implementing Ka Hikitia - Accelerating Success 2013-2017.
 
 ##### Developing further measures and indicators of progress
 
@@ -1145,7 +1218,7 @@ Of the Māori students who turn 18 in 2017, 85% will achieve at least NCEA Level
 
 In 2015, 22% of students will participate in Māori language in education (primary and secondary education).
 
-By 2017, Māori school leavers achieving University Entrance will be on par with nonMāori school leavers.
+By 2017, Māori school leavers achieving University Entrance will be on par with non-Māori school leavers.
 
 #### Tertiary education
 
@@ -1167,7 +1240,7 @@ The number of people who complete immersion or bilingual initial teacher educati
 
 - Whakapūmautia, Papakōwhaitia, Tau ana - Grasp, Embrace and Realise: Conducting Excellent Education Relationships between Iwi and the Ministry of Education, Ministry of Education.
 
-- Key evidence and how we must use it to improve system performance for Māori (20082012), Ministry of Education, Ministry of Education.
+- Key evidence and how we must use it to improve system performance for Māori (2008-2012), Ministry of Education, Ministry of Education.
 
 - Tātaiako: Cultural Competencies for Teachers of Māori Learners, Ministry of Education.
 
