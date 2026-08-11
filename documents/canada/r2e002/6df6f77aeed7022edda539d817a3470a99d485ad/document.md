@@ -13,8 +13,6 @@ Current to February 6, 2014 À jour au 6 février 2014
 Last amended on February 6, 2014 Dernière modification le 6 février 2014
 
 Published by the Minister of Justice at the following address: http://laws-lois.justice.gc.ca Publié par le ministre de la Justice à l'adresse suivante : http://lois-laws.justice.gc.ca
-### Published consolidation is evidence
-### Inconsistencies in Acts
 
 [[END OF PAGE 1]]
 
@@ -22,11 +20,15 @@ Published by the Minister of Justice at the following address: http://laws-lois.
 
 ## OFFICIAL STATUS OF CONSOLIDATIONS
 
-Subsections 31(1) and (2) of the Legislation Revision  and  Consolidation  Act ,  in  force  on June 1, 2009, provide as follows:
+Subsections 31(1) and (2) of the Legislation Revision and Consolidation Act, in force on June 1, 2009, provide as follows:
 
-31. (1)  Every  copy  of  a  consolidated  statute  or consolidated  regulation  published  by  the  Minister under this Act in either print or electronic form is evidence of that statute or regulation and of its contents and  every  copy  purporting  to  be  published  by  the Minister  is  deemed  to  be  so  published,  unless  the contrary is shown.
+### Published consolidation is evidence
 
-(2)  In  the  event  of  an  inconsistency  between  a consolidated statute published by the Minister under this  Act  and  the  original  statute  or  a  subsequent amendment  as  certified  by  the  Clerk  of  the  Parliaments under the Publication of Statutes Act , the original  statute  or  amendment  prevails  to  the  extent  of the inconsistency.
+31. (1) Every copy of a consolidated statute or consolidated regulation published by the Minister under this Act in either print or electronic form is evidence of that statute or regulation and of its contents and every copy purporting to be published by the Minister is deemed to be so published, unless the contrary is shown.
+
+### Inconsistencies in Acts
+
+(2) In the event of an inconsistency between a consolidated statute published by the Minister under this Act and the original statute or a subsequent amendment as certified by the Clerk of the Parliaments under the Publication of Statutes Act, the original statute or amendment prevails to the extent of the inconsistency.
 
 ### NOTE
 
@@ -34,19 +36,19 @@ This  consolidation  is  current  to  February  6,  2014. The  last  amendments 
 
 ## CARACTÈRE OFFICIEL DES CODIFICATIONS
 
-Les paragraphes 31(1) et (2) de la Loi sur la révision et la codification des textes législatifs , en  vigueur  le  1 er juin  2009,  prévoient  ce  qui suit :
-
-31. (1)  Tout exemplaire d'une loi codifiée ou d'un règlement codifié, publié par le ministre en vertu de la présente loi sur support papier ou sur support électronique, fait foi de cette loi ou de ce règlement et de son  contenu.  Tout  exemplaire  donné  comme  publié par le ministre est réputé avoir été ainsi publié, sauf preuve contraire.
-
-(2)  Les  dispositions  de  la  loi  d'origine  avec  ses modifications subséquentes par le greffier des Parlements en vertu de la Loi sur la publication des lois l'emportent  sur  les  dispositions  incompatibles  de  la loi codifiée publiée par le ministre en vertu de la présente loi.
-
-### NOTE
-
-Cette  codification  est  à  jour  au  6  février  2014.  Les dernières modifications sont entrées en vigueur le 6 février 2014. Toutes modifications qui n'étaient pas en vigueur au 6 février 2014 sont énoncées à la fin de ce document sous le titre « Modifications non en vigueur ».
+Les paragraphes 31(1) et (2) de la Loi sur la révision et la codification des textes législatifs, en vigueur le 1er juin 2009, prévoient ce qui suit :
 
 ### Codifications comme élément de preuve
 
-### Incompatibilité - lois
+31. (1) Tout exemplaire d'une loi codifiée ou d'un règlement codifié, publié par le ministre en vertu de la présente loi sur support papier ou sur support électronique, fait foi de cette loi ou de ce règlement et de son contenu. Tout exemplaire donné comme publié par le ministre est réputé avoir été ainsi publié, sauf preuve contraire.
+
+### Incompatibilité — lois
+
+(2) Les dispositions de la loi d'origine avec ses modifications subséquentes par le greffier des Parlements en vertu de la Loi sur la publication des lois l'emportent sur les dispositions incompatibles de la loi codifiée publiée par le ministre en vertu de la présente loi.
+
+### NOTE
+
+Cette codification est à jour au 6 février 2014. Les dernières modifications sont entrées en vigueur le 6 février 2014. Toutes modifications qui n'étaient pas en vigueur au 6 février 2014 sont énoncées à la fin de ce document sous le titre « Modifications non en vigueur ».
 
 [[END OF PAGE 2]]
 
@@ -91,10 +93,9 @@ PROCEDURE | 14 | PROCÉDURE | 14
 19.1 | Appointment of a judge | 18 | 19.1 | Nomination d'un juge à la retraite | 18
 19.2 | Referral | 18 | 19.2 | Renvoi | 18
 19.3 | Annual report | 18 | 19.3 | Rapport annuel | 18
-20 | Declaration by the Governor in Council | 20 | Déclaration du gouverneur en conseil en
-in matters of security | 19 | matière de sécurité | 19
-21 | Periods not counted as residence | 19 | 21 | Période ne comptant pas pour la résidence
-22 | Prohibition | 20 | 22 | Interdiction | 19 20
+20 | Declaration by the Governor in Council in matters of security | 19 | 20 | Déclaration du gouverneur en conseil en matière de sécurité | 19
+21 | Periods not counted as residence | 19 | 21 | Période ne comptant pas pour la résidence | 19
+22 | Prohibition | 20 | 22 | Interdiction | 20
 
 3
 
@@ -102,9 +103,40 @@ in matters of security | 19 | matière de sécurité | 19
 
 [[START OF PAGE 4]]
 
-Citizenship - February 6, 2014
+Citizenship — February 6, 2014
 
 4
+
+Section | Page | Article | Page
+--- | --- | --- | --- | --- | ---
+PART VI | PARTIE VI
+ADMINISTRATION | 21 | APPLICATION | 21
+23 | Delegation of authority | 21 | 23 | Délégation de pouvoirs | 21
+24 | Requirement to take oath of citizenship | 21 | 24 | Obligation de prêter le serment de citoyenneté | 21
+25 | Evidence of declarations | 21 | 25 | Preuve des déclarations | 21
+26 | Citizenship judges | 22 | 26 | Juges de la citoyenneté | 22
+27 | Regulations | 22 | 27 | Règlements | 22
+27.1 | Laying of proposed regulations | 23 | 27.1 | Dépôt des projets de règlement | 23
+27.2 | User Fees Act | 23 | 27.2 | Loi sur les frais d’utilisation | 23
+28 | Powers of Minister | 24 | 28 | Pouvoirs du ministre | 24
+PART VII | PARTIE VII
+OFFENCES | 24 | INFRACTIONS | 24
+29 | Definition of “certificate” | 24 | 29 | Définition de « certificat » | 24
+30 | Where offence is committed outside Canada | 25 | 30 | Infraction commise à l’étranger | 25
+31 | Limitation period | 25 | 31 | Prescription | 25
+PART VIII | PARTIE VIII
+STATUS OF PERSONS IN CANADA | 25 | DIFFÉRENTS STATUTS PERSONNELS AU CANADA | 25
+32 | Citizen of the Commonwealth | 25 | 32 | Citoyen du Commonwealth | 25
+33 | Citizen of Ireland | 25 | 33 | Citoyens irlandais | 25
+34 | Rights | 25 | 34 | Droits | 25
+35 | Authority to prohibit or restrict acquisitions of property in a province by non-Canadians | 26 | 35 | Interdiction ou limitation visant les non-Canadiens | 26
+36 | Offences and punishment | 27 | 36 | Infractions et peines | 27
+37 | Coming into force | 27 | 37 | Entrée en vigueur | 27
+38 | Disabilities | 27 | 38 | Incapacités | 27
+39 | Trial | 28 | 39 | Procès | 28
+SCHEDULE | ANNEXE
+OATH OR AFFIRMATION OF CITIZENSHIP | 29 | SERMENT DE CITOYENNETÉ | 29
+RELATED PROVISIONS | 30 | DISPOSITIONS CONNEXES | 30
 
 [[END OF PAGE 4]]
 
@@ -186,13 +218,13 @@ conjoint de fait
 
 ## TITRE ABRÉGÉ
 
-- Loi sur la citoyenneté .
+1. Loi sur la citoyenneté.
 
 1974-75-76, ch. 108, art. 1.
 
 ## DÉFINITIONS ET INTERPRÉTATION
 
-(1)  Les définitions qui suivent s'appliquent à la présente loi.
+2. (1) Les définitions qui suivent s'appliquent à la présente loi.
 
 « ancienne loi » La Loi sur la citoyenneté canadienne ,  chapitre  C-19  des  Statuts  revisés  du Canada de 1970.
 
@@ -336,7 +368,6 @@ c )  ayant  obtenu  la  citoyenneté  -  par  attribution ou acquisition - sous 
 #### Interprétation
 
 ### Citoyens
-age or over on the day that he is granted citizenship, he has taken the oath of citizenship;
 
 2
 
@@ -344,9 +375,11 @@ age or over on the day that he is granted citizenship, he has taken the oath of 
 
 [[START OF PAGE 7]]
 
-Citoyenneté - 6 février 2014
+Citoyenneté — 6 février 2014
 
-( c.1 )  the person has been granted citizenship under section 5.1;
+age or over on the day that he is granted citizenship, he has taken the oath of citizenship;
+
+( c.1 ) the person has been granted citizenship under section 5.1;
 
 ( d )  the person was a citizen immediately before February 15, 1977;
 
@@ -378,9 +411,9 @@ Citoyenneté - 6 février 2014
 
 d'au moins quatorze ans, prêté le serment de citoyenneté;
 
-- c.1 )  ayant obtenu la citoyenneté par attribution au titre de l'article 5.1;
+c.1 ) ayant obtenu la citoyenneté par attribution au titre de l'article 5.1;
 
-- d )  ayant cette qualité au 14 février 1977;
+d ) ayant cette qualité au 14 février 1977;
 
 - e )  habile,  au  14  février  1977,  à  devenir  citoyen aux termes de l'alinéa 5(1) b )  de  l'ancienne loi;
 
@@ -529,9 +562,6 @@ b )  à  un  moment  donné,  seul  le  père  ou  la mère a qualité  de  cito
 #### Inapplicabilité aux enfants de diplomates étrangers, etc.
 
 #### Inapplicabilité après la première génération
-#### Exception transitional provision
-#### Exception service abroad
-#### Citizenship other than by way of grant
 
 5
 
@@ -547,54 +577,63 @@ Citizenship - February 6, 2014
 
 (viii)  paragraph 4(1)( b ) or 5(1)( b ) or subsection 42(1) of the former Act.
 
-(4)  Subsection (3) does not apply to a person who, on the coming into force of that subsection, is a citizen.
+#### Exception — transitional provision
 
-(5)  Subsection (3) does not apply to a person if  one  or  both  of  the  person's  parents,  as  provided for in that subsection, were, at the time of the  person's  birth  or  adoption,  employed  outside  Canada  in  or  with  the  Canadian  armed forces, the federal public administration or the public service of a province, otherwise than as a locally engaged person.
+(4) Subsection (3) does not apply to a person who, on the coming into force of that subsection, is a citizen.
 
-(6)  A person referred to in paragraph (1)( h ), ( i ) or ( j ) is deemed, except for the purposes of that paragraph, never to have been a citizen by way of grant.
+#### Exception — service abroad
+
+(5) Subsection (3) does not apply to a person if one or both of the person’s parents, as provided for in that subsection, were, at the time of the person’s birth or adoption, employed outside Canada in or with the Canadian armed forces, the federal public administration or the public service of a province, otherwise than as a locally engaged person.
+
+#### Citizenship other than by way of grant
+
+(6) A person referred to in paragraph (1)(h), (i) or (j) is deemed, except for the purposes of that paragraph, never to have been a citizen by way of grant.
 
 #### Deemed application
-(7)  Despite any provision of this Act or any Act respecting naturalization or citizenship that was in force in Canada at any time before the day on which this subsection comes into force
 
-( a )  a  person  referred  to  in  paragraph  (1)( c ) who was, before the coming into force of this subsection, granted citizenship under any of the following provisions after ceasing to be a citizen by way of grant for any reason other than the reasons referred to in subparagraphs (1)( f )(i) to (iii) is deemed to be a citizen under paragraph (1)( c ) from the time that he or she ceased to be a citizen:
+(7) Despite any provision of this Act or any Act respecting naturalization or citizenship that was in force in Canada at any time before the day on which this subsection comes into force
 
-(i)  subsection 10(1) of the Citizenship Act , S.C. 1974-75-76, c. 108,
+(a) a person referred to in paragraph (1)(c) who was, before the coming into force of this subsection, granted citizenship under any of the following provisions after ceasing to be a citizen by way of grant for any reason other than the reasons referred to in subparagraphs (1)(f)(i) to (iii) is deemed to be a citizen under paragraph (1)(c) from the time that he or she ceased to be a citizen:
 
-(ii)  subsection 5(1) or (4) or 11(1) of this Act, or
+(i) subsection 10(1) of the Citizenship Act, S.C. 1974-75-76, c. 108,
 
-(iii)  paragraph  5(2)( a )  of  this  Act,  as  it read  before  the  coming  into  force  of  this paragraph;
+(ii) subsection 5(1) or (4) or 11(1) of this Act, or
 
-( b )  a  person  referred  to  in  paragraph  (1)( d ) who, under prior  legislation,  ceased  to  be  a citizen by way of grant for any reason other than the reasons referred to in subparagraphs (1)( f )(i)  and  (ii)  and  resumed  citizenship  is
+(iii) paragraph 5(2)(a) of this Act, as it read before the coming into force of this paragraph;
+
+(b) a person referred to in paragraph (1)(d) who, under prior legislation, ceased to be a citizen by way of grant for any reason other than the reasons referred to in subparagraphs (1)(f)(i) and (ii) and resumed citizenship is
 
 33, modifié par S.C. 1952-53, ch. 23, par. 14(1),
 
-(vii)  le paragraphe 39B(1) de la Loi sur la citoyenneté  canadienne ,  S.R.C.  1952,  ch. 33, édicté par S.C. 1967-68, ch. 4, art. 10,
+(vii) le paragraphe 39B(1) de la Loi sur la citoyenneté canadienne, S.R.C. 1952, ch. 33, édicté par S.C. 1967-68, ch. 4, art. 10,
 
-(viii)  les alinéas 4(1) b ) ou 5(1) b ) ou le paragraphe 42(1) de l'ancienne loi.
+(viii) les alinéas 4(1)b) ou 5(1)b) ou le paragraphe 42(1) de l'ancienne loi.
 
-(4)  Le paragraphe (3) ne s'applique pas à la personne qui, à la date d'entrée en vigueur de ce paragraphe, a qualité de citoyen.
+#### Exception — disposition transitoire
 
-(5)  Le  paragraphe  (3)  ne  s'applique  pas  si, au moment de la naissance ou de l'adoption, le ou les parents visés sont, sans avoir été engagés sur place, au service, à l'étranger, des forces armées  canadiennes  ou  de  l'administration  publique fédérale ou de celle d'une province.
+(4) Le paragraphe (3) ne s'applique pas à la personne qui, à la date d'entrée en vigueur de ce paragraphe, a qualité de citoyen.
 
-(6)  La  personne  visée  à  l'un  des  alinéas (1) h ) à j ) est réputée, sauf pour l'application de ces alinéas, n'avoir jamais obtenu la citoyenneté par attribution.
+#### Exception — en service à l'étranger
 
-(7)  Malgré les autres dispositions de la présente  loi  et  l'ensemble  des  lois  concernant  la naturalisation  ou  la  citoyenneté  en  vigueur  au Canada avant l'entrée en vigueur du présent paragraphe :
+(5) Le paragraphe (3) ne s'applique pas si, au moment de la naissance ou de l'adoption, le ou les parents visés sont, sans avoir été engagés sur place, au service, à l'étranger, des forces armées canadiennes ou de l'administration publique fédérale ou de celle d'une province.
 
-a )  la  personne  visée  à  l'alinéa  (1) c )  qui, avant  l'entrée  en  vigueur  du  présent  paragraphe,  a  obtenu  la  citoyenneté  par  attribution sous le régime de l'une des dispositions ci-après  après  avoir  cessé  d'être  citoyen  pour un motif autre que les motifs visés aux sous-alinéas  (1) f )(i)  à  (iii)  -  alors  qu'elle avait  obtenu  la  citoyenneté  par  attribution, est réputée être citoyen au titre de cet alinéa à partir du moment où elle a cessé d'être citoyen :
-
-(i)  le paragraphe 10(1) de la Loi sur la citoyenneté , S.C. 1974-75-76, ch. 108,
-
-(ii)  les  paragraphes  5(1)  ou  (4)  ou  11(1) de la présente loi,
-
-(iii)  l'alinéa 5(2) a ) de la présente loi, dans ses  versions  antérieures  à  l'entrée  en  vigueur du présent alinéa;
-
-b )  la personne visée à l'alinéa (1) d ) qui a réintégré la citoyenneté en vertu de la législa-
-#### Exception disposition transitoire
-#### Exception - en service à l'étranger
 #### Citoyenneté sans attribution
+
+(6) La personne visée à l'un des alinéas (1)h) à j) est réputée, sauf pour l'application de ces alinéas, n'avoir jamais obtenu la citoyenneté par attribution.
+
 #### Application présumée
-#### Limitation
-deemed to  be  a  citizen  under  paragraph  (1) ( d ) from the time that he or she ceased to be a citizen;
+
+(7) Malgré les autres dispositions de la présente loi et l'ensemble des lois concernant la naturalisation ou la citoyenneté en vigueur au Canada avant l'entrée en vigueur du présent paragraphe :
+
+a) la personne visée à l'alinéa (1)c) qui, avant l'entrée en vigueur du présent paragraphe, a obtenu la citoyenneté par attribution sous le régime de l'une des dispositions ci-après après avoir cessé d'être citoyen — pour un motif autre que les motifs visés aux sous-alinéas (1)f)(i) à (iii) — alors qu'elle avait obtenu la citoyenneté par attribution, est réputée être citoyen au titre de cet alinéa à partir du moment où elle a cessé d'être citoyen :
+
+(i) le paragraphe 10(1) de la Loi sur la citoyenneté, S.C. 1974-75-76, ch. 108,
+
+(ii) les paragraphes 5(1) ou (4) ou 11(1) de la présente loi,
+
+(iii) l'alinéa 5(2)a) de la présente loi, dans ses versions antérieures à l'entrée en vigueur du présent alinéa;
+
+b) la personne visée à l'alinéa (1)d) qui a réintégré la citoyenneté en vertu de la législa-
 
 6
 
@@ -602,52 +641,59 @@ deemed to  be  a  citizen  under  paragraph  (1) ( d ) from the time that he or 
 
 [[START OF PAGE 11]]
 
-Citoyenneté - 6 février 2014
+Citoyenneté — 6 février 2014
 
-( c )  a  person  referred  to  in  paragraph  (1)( f ) who, at the time he or she ceased to be a citizen, was a citizen by way of grant is deemed to  have  been  granted  citizenship  under  that paragraph at that time;
+deemed to be a citizen under paragraph (1)(d) from the time that he or she ceased to be a citizen;
 
-( d )  a  person  referred  to  in  paragraph  (1)( f ) -  other  than  a  person  described  in  paragraph ( c ) - is deemed to be a citizen under paragraph  (1)( f )  from  the  time  the  person ceased to be a citizen;
+(c) a person referred to in paragraph (1)(f) who, at the time he or she ceased to be a citizen, was a citizen by way of grant is deemed to have been granted citizenship under that paragraph at that time;
 
-( e )  a  person  referred  to  in  paragraph  (1)( g ) or ( h ) is deemed to be a citizen from the time that he or she was born;
+(d) a person referred to in paragraph (1)(f) — other than a person described in paragraph (c) — is deemed to be a citizen under paragraph (1)(f) from the time the person ceased to be a citizen;
 
-( f )  a person referred to in paragraph (1)( i ) is deemed to be a citizen under that paragraph from the time that he or she ceased to be a citizen; and
+(e) a person referred to in paragraph (1)(g) or (h) is deemed to be a citizen from the time that he or she was born;
 
-( g )  a person referred to in paragraph (1)( j ) is deemed to be a citizen under that paragraph from the time that he or she ceased to be a citizen.
+(f) a person referred to in paragraph (1)(i) is deemed to be a citizen under that paragraph from the time that he or she ceased to be a citizen; and
 
-(8)  With  respect  to  any  period  before  the coming into force of this subsection,
+(g) a person referred to in paragraph (1)(j) is deemed to be a citizen under that paragraph from the time that he or she ceased to be a citizen.
 
-( a )  subsection (7) does not have the effect of conferring on a person any rights, powers or privileges, or imposing on a person any obligations, duties or liabilities, under any Act of Parliament  other  than  this  Act  or  any  other law; and
+#### Limitation
 
-( b )  no action or other proceedings for damages based on subsection (7) may be brought against  Her  Majesty  in  right  of  Canada  or any  officers,  employees  or  agents  of  Her Majesty in right of Canada in respect of anything done or omitted to be done during that period.
+(8) With respect to any period before the coming into force of this subsection,
+
+(a) subsection (7) does not have the effect of conferring on a person any rights, powers or privileges, or imposing on a person any obligations, duties or liabilities, under any Act of Parliament other than this Act or any other law; and
+
+(b) no action or other proceedings for damages based on subsection (7) may be brought against Her Majesty in right of Canada or any officers, employees or agents of Her Majesty in right of Canada in respect of anything done or omitted to be done during that period.
 
 R.S., 1985, c. C-29, s. 3; 1995, c. 5, s. 25; 2007, c. 24, s. 1; 2008, c. 14, ss. 2, 13.
 
 ### Deserted child
-4. (1)  For  the  purposes  of  paragraph  3(1) ( a ), every person who, before apparently attaining the age of seven years, was found as a deserted child in Canada shall be deemed to have been  born  in  Canada,  unless  the  contrary  is tion  antérieure  après  avoir  cessé  d'être  citoyen - pour un motif autre que les motifs visés aux sous-alinéas (1) f )(i) et (ii) - alors qu'elle avait obtenu la citoyenneté par attribution, est réputée être citoyen au titre de cet alinéa  à  partir  du  moment  où  elle  a  cessé d'être citoyen;
 
-c )  la  personne  visée  à  l'alinéa  (1) f )  qui,  au moment où elle a cessé d'être citoyen, avait obtenu la citoyenneté par attribution, est réputée avoir acquis par attribution la citoyenneté au titre de cet alinéa à partir de ce moment;
+4. (1) For the purposes of paragraph 3(1)(a), every person who, before apparently attaining the age of seven years, was found as a deserted child in Canada shall be deemed to have been born in Canada, unless the contrary is
 
-d )  la personne visée à l'alinéa (1) f ) autre que celle  visée  à  l'alinéa c )  est  réputée  être  citoyen au titre de l'alinéa (1) f ) à partir du moment où elle a cessé d'être citoyen;
+tion antérieure après avoir cessé d'être citoyen — pour un motif autre que les motifs visés aux sous-alinéas (1)f)(i) et (ii) — alors qu'elle avait obtenu la citoyenneté par attribution, est réputée être citoyen au titre de cet alinéa à partir du moment où elle a cessé d'être citoyen;
 
-e )  la  personne visée aux alinéas (1) g )  ou h ) est  réputée  être  citoyen  à  partir  du  moment de sa naissance;
+c) la personne visée à l'alinéa (1)f) qui, au moment où elle a cessé d'être citoyen, avait obtenu la citoyenneté par attribution, est réputée avoir acquis par attribution la citoyenneté au titre de cet alinéa à partir de ce moment;
 
-f )  la personne visée à l'alinéa (1) i ) est réputée être citoyen au titre de cet alinéa à partir du moment où elle a cessé d'être citoyen;
+d) la personne visée à l'alinéa (1)f) autre que celle visée à l'alinéa c) est réputée être citoyen au titre de l'alinéa (1)f) à partir du moment où elle a cessé d'être citoyen;
 
-g )  la personne visée à l'alinéa (1) j ) est réputée être citoyen au titre de cet alinéa à partir du moment où elle a cessé d'être citoyen.
+e) la personne visée aux alinéas (1)g) ou h) est réputée être citoyen à partir du moment de sa naissance;
 
-(8)  Le  paragraphe  (7),  en  ce  qui  a  trait  à toute  période  antérieure  à  l'entrée  en  vigueur du présent paragraphe :
+f) la personne visée à l'alinéa (1)i) est réputée être citoyen au titre de cet alinéa à partir du moment où elle a cessé d'être citoyen;
 
-a )  n'a pas pour effet de conférer des droits, pouvoirs  et  avantages  ou  d'imposer  des  devoirs,  obligations  et  responsabilités  à  quiconque  sous  le  régime  de  toute  loi  fédérale autre  que  la  présente  loi  ou  de  toute  autre règle de droit;
-
-b )  ne peut servir de fondement à aucune action  ou  autre  procédure  en  dommages-intérêts contre Sa Majesté du chef du Canada ou ses fonctionnaires, employés ou mandataires pour un fait - acte ou omission - accompli pendant cette période.
-
-L.R. (1985), ch. C-29, art. 3; 1995, ch. 5, art. 25; 2007, ch. 24, art. 1; 2008, ch. 14, art. 2 et 13.
-
-4. (1)  Pour  l'application  de  l'alinéa  3(1) a ), l'enfant  abandonné  trouvé  au  Canada  avant l'âge apparent de sept ans est réputé être né au Canada sauf preuve du contraire faite dans les sept  ans  qui  suivent  la  date  à  laquelle  il  a  été trouvé.
+g) la personne visée à l'alinéa (1)j) est réputée être citoyen au titre de cet alinéa à partir du moment où elle a cessé d'être citoyen.
 
 #### Restriction
 
+(8) Le paragraphe (7), en ce qui a trait à toute période antérieure à l'entrée en vigueur du présent paragraphe :
+
+a) n'a pas pour effet de conférer des droits, pouvoirs et avantages ou d'imposer des devoirs, obligations et responsabilités à quiconque sous le régime de toute loi fédérale autre que la présente loi ou de toute autre règle de droit;
+
+b) ne peut servir de fondement à aucune action ou autre procédure en dommages-intérêts contre Sa Majesté du chef du Canada ou ses fonctionnaires, employés ou mandataires pour un fait — acte ou omission — accompli pendant cette période.
+
+L.R. (1985), ch. C-29, art. 3; 1995, ch. 5, art. 25; 2007, ch. 24, art. 1; 2008, ch. 14, art. 2 et 13.
+
 ### Enfant abandonné
+
+4. (1) Pour l'application de l'alinéa 3(1)a), l'enfant abandonné trouvé au Canada avant l'âge apparent de sept ans est réputé être né au Canada sauf preuve du contraire faite dans les sept ans qui suivent la date à laquelle il a été trouvé.
 
 7
 
@@ -694,9 +740,9 @@ proved  within  seven  years  from  the  date  the person was found.
 
 5. (1)  Le  ministre  attribue  la  citoyenneté  à toute personne qui, à la fois :
 
-- a )  en fait la demande;
+a ) en fait la demande;
 
-- b )  est âgée d'au moins dix-huit ans;
+b ) est âgée d'au moins dix-huit ans;
 
 c )  est  un résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la  protection  des  réfugiés et a,  dans  les quatre ans qui ont précédé la date de sa demande,  résidé  au  Canada  pendant  au  moins trois  ans  en  tout,  la  durée  de  sa  résidence étant calculée de la manière suivante :
 
@@ -715,7 +761,6 @@ f )  n'est  pas  sous  le  coup  d'une  mesure  de renvoi et n'est pas visée pa
 ### Attribution de la citoyenneté
 
 #### Période de résidence
-dence in Canada for the purposes of paragraph (1)( c ) and subsection 11(1).
 
 8
 
@@ -723,18 +768,19 @@ dence in Canada for the purposes of paragraph (1)( c ) and subsection 11(1).
 
 [[START OF PAGE 13]]
 
-Citoyenneté - 6 février 2014
+Citoyenneté — 6 février 2014
 
-(2)  The  Minister  shall  grant  citizenship  to any person who is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act , and is the minor child of a citizen if an application for citizenship  is  made  to  the  Minister  by  a  person authorized  by  regulation  to  make  the  applica-
+dence in Canada for the purposes of paragraph (1)(c) and subsection 11(1).
 
 #### Grant of citizenship
-tion on behalf of the minor child.
+
+(2) The Minister shall grant citizenship to any person who is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act, and is the minor child of a citizen if an application for citizenship is made to the Minister by a person authorized by regulation to make the application on behalf of the minor child.
 
 #### Waiver by Minister on compassionate grounds
 
 #### Special cases
 
-#### Statelessness bloodline connection
+#### Statelessness — bloodline connection
 
 (3)  The Minister may, in his discretion, waive on compassionate grounds,
 
@@ -762,37 +808,37 @@ tion on behalf of the minor child.
 
 armées canadiennes ou de l'administration publique fédérale ou de celle d'une province.
 
-(2)  Le ministre attribue en outre la citoyenneté,  sur  demande  qui  lui  est  présentée  par  la personne autorisée par règlement à représenter celui-ci, à l'enfant mineur d'un citoyen qui est résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés .
-
-(3)  Pour des raisons d'ordre humanitaire, le ministre a le pouvoir discrétionnaire d'exempter :
-
-a )  dans tous les cas, des conditions prévues aux alinéas (1) d ) ou e );
-
-b )  dans  le  cas  d'un  mineur,  des  conditions relatives  soit  à  l'âge  ou  à  la  durée  de  résidence  au  Canada  respectivement  énoncées aux alinéas (1) b ) et c ), soit à la prestation du serment de citoyenneté;
-
-c )  dans  le  cas  d'une  personne  incapable  de saisir la portée du serment de citoyenneté en raison  d'une  déficience  mentale,  de  l'exigence de prêter ce serment.
-
-(4)  Afin de remédier à une situation particulière  et  inhabituelle  de  détresse  ou  de  récompenser  des  services  exceptionnels  rendus  au Canada, le gouverneur en conseil a le pouvoir discrétionnaire,  malgré  les  autres  dispositions de la présente loi, d'ordonner au ministre d'attribuer la citoyenneté à toute personne qu'il désigne;  le  ministre  procède  alors  sans  délai  à l'attribution.
-
-(5)  Le ministre attribue, sur demande, la citoyenneté  à  quiconque  remplit  les  conditions suivantes :
-
-a )  il est né à l'étranger après l'entrée en vigueur du présent paragraphe;
-
-b )  l'un  de  ses  parents  naturels  avait  qualité de citoyen au moment de sa naissance;
-
-c )  il est âgé de moins de vingt-trois ans;
-
-d )  il  a  résidé  au  Canada  pendant  au  moins trois ans au cours des quatre ans précédant la date de sa demande;
-
-e )  il a toujours été apatride;
-
 #### Attribution de la citoyenneté
+
+(2) Le ministre attribue en outre la citoyenneté, sur demande qui lui est présentée par la personne autorisée par règlement à représenter celui-ci, à l'enfant mineur d'un citoyen qui est résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés.
 
 #### Dispenses
 
+(3) Pour des raisons d'ordre humanitaire, le ministre a le pouvoir discrétionnaire d'exempter :
+
+a) dans tous les cas, des conditions prévues aux alinéas (1)d) ou e);
+
+b) dans le cas d'un mineur, des conditions relatives soit à l'âge ou à la durée de résidence au Canada respectivement énoncées aux alinéas (1)b) et c), soit à la prestation du serment de citoyenneté;
+
+c) dans le cas d'une personne incapable de saisir la portée du serment de citoyenneté en raison d'une déficience mentale, de l'exigence de prêter ce serment.
+
 #### Cas particuliers
 
+(4) Afin de remédier à une situation particulière et inhabituelle de détresse ou de récompenser des services exceptionnels rendus au Canada, le gouverneur en conseil a le pouvoir discrétionnaire, malgré les autres dispositions de la présente loi, d'ordonner au ministre d'attribuer la citoyenneté à toute personne qu'il désigne; le ministre procède alors sans délai à l'attribution.
+
 #### Apatridie : droit de sang
+
+(5) Le ministre attribue, sur demande, la citoyenneté à quiconque remplit les conditions suivantes :
+
+a) il est né à l'étranger après l'entrée en vigueur du présent paragraphe;
+
+b) l'un de ses parents naturels avait qualité de citoyen au moment de sa naissance;
+
+c) il est âgé de moins de vingt-trois ans;
+
+d) il a résidé au Canada pendant au moins trois ans au cours des quatre ans précédant la date de sa demande;
+
+e) il a toujours été apatride;
 
 9
 
@@ -800,75 +846,73 @@ e )  il a toujours été apatride;
 
 [[START OF PAGE 14]]
 
-Citizenship - February 6, 2014
+Citizenship — February 6, 2014
 
-#### Adoptees adults
+(i) a terrorism offence, as defined in section 2 of the Criminal Code,
 
-(i)  a  terrorism  offence, as defined in section 2 of the Criminal Code ,
+(ii) an offence under section 47, 51 or 52 of the Criminal Code,
 
-(ii)  an offence under section 47, 51 or 52 of the Criminal Code ,
+(iii) an offence under subsection 5(1) or any of sections 6 and 16 to 22 of the Security of Information Act, or
 
-(iii)  an  offence  under  subsection  5(1)  or any of sections 6 and 16 to 22 of the Security of Information Act , or
-
-(iv)  a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence  referred  to  in  subparagraph  (ii)  or (iii).
+(iv) a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in subparagraph (ii) or (iii).
 
 #### No oath required
-(6)  A person who is granted citizenship under  subsection  (5)  is  not  required  to  take  the oath of citizenship.
 
-R.S., 1985, c. C-29, s. 5; R.S., 1985, c. 44 (3rd Supp.), s. 1; 1992,  c.  21,  s.  7;  2000,  c.  12,  s.  75;  2001,  c.  27,  s.  228; 2003, c. 22, s. 149(E); 2008, c. 14, s. 4.
+(6) A person who is granted citizenship under subsection (5) is not required to take the oath of citizenship.
 
-5.1 (1)  Subject to subsection (3), the Minister  shall  on  application  grant  citizenship  to  a person who was adopted by a citizen on or after January 1, 1947 while the person was a minor
+R.S., 1985, c. C-29, s. 5; R.S., 1985, c. 44 (3rd Supp.), s. 1; 1992, c. 21, s. 7; 2000, c. 12, s. 75; 2001, c. 27, s. 228; 2003, c. 22, s. 149(E); 2008, c. 14, s. 4.
 
-### Adoptees minors
-child if the adoption
+### Adoptees — minors
 
-( a )  was in the best interests of the child;
+5.1 (1) Subject to subsection (3), the Minister shall on application grant citizenship to a person who was adopted by a citizen on or after January 1, 1947 while the person was a minor child if the adoption
 
-( b )  created  a  genuine  relationship  of  parent and child;
+(a) was in the best interests of the child;
 
-( c )  was  in  accordance  with  the  laws  of  the place where the adoption took place and the laws of the country of residence of the adopting citizen; and
+(b) created a genuine relationship of parent and child;
 
-( d )  was  not  entered  into  primarily  for  the purpose of acquiring a status or privilege in relation to immigration or citizenship.
+(c) was in accordance with the laws of the place where the adoption took place and the laws of the country of residence of the adopting citizen; and
 
-(2)  Subject  to  subsection  (3),  the  Minister shall  on  application  grant  citizenship  to  a  person  who  was  adopted  by  a  citizen  on  or  after January  1,  1947  while  the  person  was  at  least 18 years of age if
+(d) was not entered into primarily for the purpose of acquiring a status or privilege in relation to immigration or citizenship.
 
-( a )  there  was a genuine relationship of parent  and  child  between  the  person  and  the adoptive  parent  before  the  person  attained the  age  of  18  years  and  at  the  time  of  the adoption; and f )  il n'a jamais été déclaré coupable de l'une des infractions suivantes :
+#### Adoptees — adults
 
-(i)  l'infraction  de  terrorisme  au  sens  de l'article 2 du Code criminel ,
+(2) Subject to subsection (3), the Minister shall on application grant citizenship to a person who was adopted by a citizen on or after January 1, 1947 while the person was at least 18 years of age if
 
-(ii)  l'infraction  visée  aux  articles  47,  51 ou 52 du Code criminel ,
+(a) there was a genuine relationship of parent and child between the person and the adoptive parent before the person attained the age of 18 years and at the time of the adoption; and
 
-(iii)  l'infraction  visée  au  paragraphe  5(1) ou à l'un des articles 6 et 16 à 22 de la Loi sur la protection de l'information ,
+f) il n'a jamais été déclaré coupable de l'une des infractions suivantes :
 
-(iv)  le  complot  ou  la  tentative  en  vue  de commettre l'infraction visée aux sous-alinéas  (ii)  ou  (iii)  ou,  relativement  à  une telle  infraction,  la  complicité  après  le  fait ou l'encouragement à la perpétration.
+(i) l'infraction de terrorisme au sens de l'article 2 du Code criminel,
 
-(6)  La personne à qui la citoyenneté est attribuée au titre du paragraphe (5) n'est pas tenue de prêter le serment de citoyenneté.
+(ii) l'infraction visée aux articles 47, 51 ou 52 du Code criminel,
 
-L.R. (1985), ch. C-29, art. 5; L.R. (1985), ch. 44 (3 e suppl.), art. 1; 1992, ch. 21, art. 7; 2000, ch. 12, art. 75; 2001, ch. 27, art. 228; 2003, ch. 22, art. 149(A); 2008, ch. 14, art. 4.
+(iii) l'infraction visée au paragraphe 5(1) ou à l'un des articles 6 et 16 à 22 de la Loi sur la protection de l'information,
 
-5.1 (1)  Sous  réserve  du  paragraphe  (3),  le ministre attribue, sur demande, la citoyenneté à la personne adoptée par un citoyen le 1 er janvier 1947  ou  subséquemment  lorsqu'elle  était  un enfant mineur. L'adoption doit par ailleurs satisfaire aux conditions suivantes :
-
-a )  elle a été faite dans l'intérêt supérieur de l'enfant;
-
-b )  elle  a  créé  un  véritable  lien  affectif  parent-enfant entre l'adoptant et l'adopté;
-
-c )  elle a été faite conformément au droit du lieu de l'adoption et du pays de résidence de l'adoptant;
-
-d )  elle  ne  visait  pas  principalement  l'acquisition d'un statut ou d'un privilège relatifs à l'immigration ou à la citoyenneté.
-
-(2)  Sous  réserve  du  paragraphe  (3),  le  ministre attribue, sur demande, la citoyenneté à la personne  adoptée  par  un  citoyen  le  1 er janvier 1947 ou subséquemment lorsqu'elle était âgée de  dix-huit  ans  ou  plus,  si  les  conditions  suivantes sont remplies :
-
-a )  il existait un véritable lien affectif parentenfant entre l'adoptant et l'adopté avant que celui-ci n'atteigne l'âge de dix-huit ans et au moment de l'adoption;
+(iv) le complot ou la tentative en vue de commettre l'infraction visée aux sous-alinéas (ii) ou (iii) ou, relativement à une telle infraction, la complicité après le fait ou l'encouragement à la perpétration.
 
 #### Aucun serment exigé
 
-### Cas de personnes adoptées mineurs
+(6) La personne à qui la citoyenneté est attribuée au titre du paragraphe (5) n'est pas tenue de prêter le serment de citoyenneté.
 
-#### Cas de personnes adoptées adultes
-#### Quebec adoptions
-### Rights and obligations
-### No loss except as provided
-### Renunciation of citizenship
+L.R. (1985), ch. C-29, art. 5; L.R. (1985), ch. 44 (3e suppl.), art. 1; 1992, ch. 21, art. 7; 2000, ch. 12, art. 75; 2001, ch. 27, art. 228; 2003, ch. 22, art. 149(A); 2008, ch. 14, art. 4.
+
+### Cas de personnes adoptées — mineurs
+
+5.1 (1) Sous réserve du paragraphe (3), le ministre attribue, sur demande, la citoyenneté à la personne adoptée par un citoyen le 1er janvier 1947 ou subséquemment lorsqu'elle était un enfant mineur. L'adoption doit par ailleurs satisfaire aux conditions suivantes :
+
+a) elle a été faite dans l'intérêt supérieur de l'enfant;
+
+b) elle a créé un véritable lien affectif parent-enfant entre l'adoptant et l'adopté;
+
+c) elle a été faite conformément au droit du lieu de l'adoption et du pays de résidence de l'adoptant;
+
+d) elle ne visait pas principalement l'acquisition d'un statut ou d'un privilège relatifs à l'immigration ou à la citoyenneté.
+
+#### Cas de personnes adoptées — adultes
+
+(2) Sous réserve du paragraphe (3), le ministre attribue, sur demande, la citoyenneté à la personne adoptée par un citoyen le 1er janvier 1947 ou subséquemment lorsqu'elle était âgée de dix-huit ans ou plus, si les conditions suivantes sont remplies :
+
+a) il existait un véritable lien affectif parent-enfant entre l'adoptant et l'adopté avant que celui-ci n'atteigne l'âge de dix-huit ans et au moment de l'adoption;
 
 10
 
@@ -876,19 +920,23 @@ a )  il existait un véritable lien affectif parentenfant entre l'adoptant et l'
 
 [[START OF PAGE 15]]
 
-Citoyenneté - 6 février 2014
+Citoyenneté — 6 février 2014
 
-( b )  the  adoption  meets  the  requirements  set out in paragraphs (1)( c ) and ( d ).
+(b) the adoption meets the requirements set out in paragraphs (1)(c) and (d).
 
-(3)  The  Minister  shall  on  application  grant citizenship  to  a  person  in  respect  of  whose adoption - by a citizen who is subject to Quebec law governing adoptions - a decision was made abroad on or after January 1, 1947 if
+#### Quebec adoptions
 
-( a )  the  Quebec authority responsible for international adoptions advises, in writing, that in its opinion the adoption meets the requirements  of  Quebec  law  governing  adoptions; and
+(3) The Minister shall on application grant citizenship to a person in respect of whose adoption — by a citizen who is subject to Quebec law governing adoptions — a decision was made abroad on or after January 1, 1947 if
 
-( b )  the  adoption  was  not  entered  into  primarily  for  the  purpose  of  acquiring  a  status or privilege in relation to immigration or citizenship.
+(a) the Quebec authority responsible for international adoptions advises, in writing, that in its opinion the adoption meets the requirements of Quebec law governing adoptions; and
+
+(b) the adoption was not entered into primarily for the purpose of acquiring a status or privilege in relation to immigration or citizenship.
 
 2007, c. 24, s. 2; 2008, c. 14, s. 13.
 
-6. A citizen, whether or not born in Canada, is  entitled  to  all  rights,  powers  and  privileges and is subject to all obligations, duties and liabilities to which a person who is a citizen under paragraph 3(1)( a ) is entitled or subject and has a like status to that of such person.
+### Rights and obligations
+
+6. A citizen, whether or not born in Canada, is entitled to all rights, powers and privileges and is subject to all obligations, duties and liabilities to which a person who is a citizen under paragraph 3(1)(a) is entitled or subject and has a like status to that of such person.
 
 1974-75-76, c. 108, s. 5.
 
@@ -896,31 +944,41 @@ Citoyenneté - 6 février 2014
 
 ## LOSS OF CITIZENSHIP
 
-7. A person who is a citizen shall not cease to  be  a  citizen  except  in  accordance  with  this Part or regulations made under paragraph 27( j. 1 ).
+### No loss except as provided
+
+7. A person who is a citizen shall not cease to be a citizen except in accordance with this Part or regulations made under paragraph 27(j.1).
 
 R.S., 1985, c. C-29, s. 7; 2008, c. 14, s. 5.
 
 8. [Repealed, 2008, c. 14, s. 6]
 
-9. (1)  A  citizen  may,  on  application,  renounce his citizenship if he
+### Renunciation of citizenship
 
-( a )  is a citizen of a country other  than Canada or, if his application is accepted, will become  a  citizen  of  a  country  other  than Canada;
+9. (1) A citizen may, on application, renounce his citizenship if he
 
-( b )  is not the subject of a declaration by the Governor  in  Council  made  pursuant  to  section 20;
+(a) is a citizen of a country other than Canada or, if his application is accepted, will become a citizen of a country other than Canada;
 
-( c )  is not a minor;
+(b) is not the subject of a declaration by the Governor in Council made pursuant to section 20;
 
-( d )  is  not  prevented from understanding the significance of renouncing  citizenship  by b )  l'adoption  satisfait  aux  conditions  prévues aux alinéas (1) c ) et d ).
+(c) is not a minor;
 
-(3)  Le ministre attribue, sur demande, la citoyenneté à toute personne faisant l'objet d'une décision  rendue  à  l'étranger  prononçant  son adoption,  le  1 er janvier  1947  ou  subséquemment,  par  un  citoyen  assujetti  à  la  législation québécoise  régissant  l'adoption,  si  les  conditions suivantes sont remplies :
+(d) is not prevented from understanding the significance of renouncing citizenship by
 
-a )  l'autorité du Québec responsable de l'adoption internationale déclare par écrit qu'elle estime l'adoption conforme aux exigences  du  droit  québécois  régissant  l'adoption;
+b) l'adoption satisfait aux conditions prévues aux alinéas (1)c) et d).
 
-b )  l'adoption  ne  visait  pas  principalement l'acquisition d'un statut ou d'un privilège relatifs à l'immigration ou à la citoyenneté.
+#### Adoptants du Québec
+
+(3) Le ministre attribue, sur demande, la citoyenneté à toute personne faisant l'objet d'une décision rendue à l'étranger prononçant son adoption, le 1er janvier 1947 ou subséquemment, par un citoyen assujetti à la législation québécoise régissant l'adoption, si les conditions suivantes sont remplies :
+
+a) l'autorité du Québec responsable de l'adoption internationale déclare par écrit qu'elle estime l'adoption conforme aux exigences du droit québécois régissant l'adoption;
+
+b) l'adoption ne visait pas principalement l'acquisition d'un statut ou d'un privilège relatifs à l'immigration ou à la citoyenneté.
 
 2007, ch. 24, art. 2; 2008, ch. 14, art. 13.
 
-6. Tout  citoyen,  qu'il  soit  né  ou  non  au Canada, jouit des droits, pouvoirs et avantages conférés aux citoyens qui ont cette qualité aux termes  de  l'alinéa  3(1) a );  il  est  assujetti  aux mêmes  devoirs,  obligations  et  responsabilités, et son statut est le même.
+### Droits et obligations
+
+6. Tout citoyen, qu'il soit né ou non au Canada, jouit des droits, pouvoirs et avantages conférés aux citoyens qui ont cette qualité aux termes de l'alinéa 3(1)a); il est assujetti aux mêmes devoirs, obligations et responsabilités, et son statut est le même.
 
 1974-75-76, ch. 108, art. 5.
 
@@ -928,32 +986,27 @@ b )  l'adoption  ne  visait  pas  principalement l'acquisition d'un statut ou d'
 
 ## PERTE DE LA CITOYENNETÉ
 
-7. Le citoyen ne peut perdre sa citoyenneté que dans les cas prévus à la présente partie ou aux règlements pris en vertu de l'alinéa 27 j.1 ).
+### Perte de la citoyenneté
+
+7. Le citoyen ne peut perdre sa citoyenneté que dans les cas prévus à la présente partie ou aux règlements pris en vertu de l'alinéa 27j.1).
 
 L.R. (1985), ch. C-29, art. 7; 2008, ch. 14, art. 5.
 
 8. [Abrogé, 2008, ch. 14, art. 6]
 
-9. (1)  Peut demander à répudier sa citoyenneté le citoyen qui :
-
-a )  possède une nationalité étrangère ou l'obtiendra si sa demande de répudiation est acceptée;
-
-b )  n'est pas visé par une déclaration du gouverneur  en  conseil  faite  en  application  de l'article 20;
-
-c )  n'est pas un mineur;
-
-d )  n'est  pas  incapable de saisir la portée de répudier sa citoyenneté en raison d'une déficience mentale;
-
-e )  ne réside pas au Canada.
-
-#### Adoptants du Québec
-
-### Droits et obligations
-
-### Perte de la citoyenneté
-
 ### Faculté de répudiation
-reason of the person having a mental disability; and
+
+9. (1) Peut demander à répudier sa citoyenneté le citoyen qui :
+
+a) possède une nationalité étrangère ou l'obtiendra si sa demande de répudiation est acceptée;
+
+b) n'est pas visé par une déclaration du gouverneur en conseil faite en application de l'article 20;
+
+c) n'est pas un mineur;
+
+d) n'est pas incapable de saisir la portée de répudier sa citoyenneté en raison d'une déficience mentale;
+
+e) ne réside pas au Canada.
 
 11
 
@@ -961,33 +1014,35 @@ reason of the person having a mental disability; and
 
 [[START OF PAGE 16]]
 
-Citizenship - February 6, 2014
+Citizenship — February 6, 2014
 
-( e )  does not reside in Canada.
+reason of the person having a mental disability; and
+
+(e) does not reside in Canada.
 
 #### Ministerial discretion to waive requirements
-(2)  The Minister may, in the Minister's discretion,  waive  on  compassionate  grounds  the requirements of paragraph (1)( d ) or ( e ).
 
-(3)  Where an application for renunciation is
+(2) The Minister may, in the Minister's discretion, waive on compassionate grounds the requirements of paragraph (1)(d) or (e).
 
 #### Certificate of renunciation
-approved, the Minister shall issue a certificate of  renunciation  to  the  applicant  and  the  applicant  ceases  to  be  a  citizen  after  the  expiration of the day on which the certificate is issued or such later day as the certificate may specify.
+
+(3) Where an application for renunciation is approved, the Minister shall issue a certificate of renunciation to the applicant and the applicant ceases to be a citizen after the expiration of the day on which the certificate is issued or such later day as the certificate may specify.
 
 R.S., 1985, c. C-29, s. 9; 1992, c. 21, s. 8.
 
 ### Order in cases of fraud
 
-#### Presumption
+10. (1) Subject to section 18 but notwithstanding any other section of this Act, where the Governor in Council, on a report from the Minister, is satisfied that any person has obtained, retained, renounced or resumed citizenship under this Act by false representation or fraud or by knowingly concealing material circumstances,
 
-10. (1)  Subject  to  section  18  but  notwithstanding  any  other  section  of  this  Act,  where the Governor in Council, on a report from the Minister,  is  satisfied  that  any  person  has  obtained, retained, renounced or resumed citizenship  under  this  Act  by  false  representation  or fraud or by knowingly concealing material circumstances,
+(a) the person ceases to be a citizen, or
 
-( a )  the person ceases to be a citizen, or
-
-( b )  the  renunciation  of  citizenship  by  the person  shall  be  deemed  to  have  had  no  effect,
+(b) the renunciation of citizenship by the person shall be deemed to have had no effect,
 
 as of such date as may be fixed by order of the Governor in Council with respect thereto.
 
-(2)  A  person  shall  be  deemed  to  have  obtained  citizenship  by  false  representation  or fraud or by knowingly concealing material circumstances if the person was lawfully admitted to Canada for permanent residence by false representation  or  fraud  or  by  knowingly  concealing material circumstances and, because of that admission,  the  person  subsequently  obtained citizenship.
+#### Presumption
+
+(2) A person shall be deemed to have obtained citizenship by false representation or fraud or by knowingly concealing material circumstances if the person was lawfully admitted to Canada for permanent residence by false representation or fraud or by knowingly concealing material circumstances and, because of that admission, the person subsequently obtained citizenship.
 
 1974-75-76, c. 108, s. 9.
 
@@ -995,26 +1050,33 @@ as of such date as may be fixed by order of the Governor in Council with respect
 
 ## RESUMPTION OF CITIZENSHIP
 
-11. (1)  The  Minister  shall  grant  citizenship
-
 ### Resumption by application
-to any person who, having ceased to be a citizen,
 
-( a )  makes  an  application  for  resumption  of citizenship;
+11. (1) The Minister shall grant citizenship to any person who, having ceased to be a citizen,
 
-(2)  Pour  des  raisons  humanitaires,  le  ministre  a  le  pouvoir  discrétionnaire  d'exempter les  intéressés  des  conditions  prévues  aux  alinéas (1) d ) ou e ).
+(a) makes an application for resumption of citizenship;
 
-(3)  Une fois la demande de répudiation approuvée, le ministre délivre un certificat de répudiation  au  demandeur,  lequel  perd  sa  citoyenneté soit à l'expiration du jour de délivrance du certificat, soit à la date ultérieure qui y est indiquée.
+#### Dispenses
+
+(2) Pour des raisons humanitaires, le ministre a le pouvoir discrétionnaire d'exempter les intéressés des conditions prévues aux alinéas (1)d) ou e).
+
+#### Certificat de répudiation
+
+(3) Une fois la demande de répudiation approuvée, le ministre délivre un certificat de répudiation au demandeur, lequel perd sa citoyenneté soit à l'expiration du jour de délivrance du certificat, soit à la date ultérieure qui y est indiquée.
 
 L.R. (1985), ch. C-29, art. 9; 1992, ch. 21, art. 8.
 
-10. (1)  Sous  réserve  du  seul  article  18,  le gouverneur en conseil peut, lorsqu'il est convaincu, sur rapport du ministre, que l'acquisition,  la  conservation  ou  la  répudiation  de  la citoyenneté,  ou  la  réintégration  dans  celle-ci, est intervenue sous le régime de la présente loi par  fraude  ou  au  moyen  d'une  fausse  déclaration  ou  de  la  dissimulation  intentionnelle  de faits  essentiels,  prendre  un  décret  aux  termes duquel  l'intéressé,  à  compter  de  la  date  qui  y est fixée :
+### Décret en cas de fraude
 
-a )  soit perd sa citoyenneté;
+10. (1) Sous réserve du seul article 18, le gouverneur en conseil peut, lorsqu'il est convaincu, sur rapport du ministre, que l'acquisition, la conservation ou la répudiation de la citoyenneté, ou la réintégration dans celle-ci, est intervenue sous le régime de la présente loi par fraude ou au moyen d'une fausse déclaration ou de la dissimulation intentionnelle de faits essentiels, prendre un décret aux termes duquel l'intéressé, à compter de la date qui y est fixée :
 
-b )  soit est réputé ne pas avoir répudié sa citoyenneté.
+a) soit perd sa citoyenneté;
 
-(2)  Est  réputée  avoir  acquis  la  citoyenneté par fraude, fausse déclaration ou dissimulation intentionnelle de faits essentiels la personne qui l'a  acquise  à  raison  d'une  admission légale au Canada  à  titre  de  résident  permanent  obtenue par l'un de ces trois moyens.
+b) soit est réputé ne pas avoir répudié sa citoyenneté.
+
+#### Présomption
+
+(2) Est réputée avoir acquis la citoyenneté par fraude, fausse déclaration ou dissimulation intentionnelle de faits essentiels la personne qui l'a acquise à raison d'une admission légale au Canada à titre de résident permanent obtenue par l'un de ces trois moyens.
 
 1974-75-76, ch. 108, art. 9.
 
@@ -1022,20 +1084,13 @@ b )  soit est réputé ne pas avoir répudié sa citoyenneté.
 
 ## RÉINTÉGRATION DANS LA CITOYENNETÉ
 
-11. (1)  Le ministre attribue la citoyenneté à toute personne qui a cessé d'être citoyen et qui, à la fois :
-
-a )  sollicite une réintégration;
-
-b )  n'est  visée  ni  par  un  décret  pris  aux termes de l'article 10 ni par une déclaration
-#### Dispenses
-#### Certificat de répudiation
-### Décret en cas de fraude
-#### Présomption
 ### Réintégration sur demande
-#### Automatic acquisition of citizenship
-### Application for certificate of citizenship
-#### Issue of certificate
-#### When effective
+
+11. (1) Le ministre attribue la citoyenneté à toute personne qui a cessé d'être citoyen et qui, à la fois :
+
+a) sollicite une réintégration;
+
+b) n'est visée ni par un décret pris aux termes de l'article 10 ni par une déclaration
 
 12
 
@@ -1043,23 +1098,25 @@ b )  n'est  visée  ni  par  un  décret  pris  aux termes de l'article 10 ni pa
 
 [[START OF PAGE 17]]
 
-Citoyenneté - 6 février 2014
+Citoyenneté — 6 février 2014
 
-( b )  is not the subject of an order of or a declaration  by  the  Governor  in  Council  made pursuant  to  section  10  or  20  of  this  Act  or section 18 of the former Act;
+(b) is not the subject of an order of or a declaration by the Governor in Council made pursuant to section 10 or 20 of this Act or section 18 of the former Act;
 
-( c )  is not under a removal order; and
+(c) is not under a removal order; and
 
-( d )  has become a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act and has, since  having  ceased  to  be  a  citizen  and  become a permanent resident, resided in Canada  for  at  least  one  year  immediately preceding the date of the application.
+(d) has become a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act and has, since having ceased to be a citizen and become a permanent resident, resided in Canada for at least one year immediately preceding the date of the application.
 
-(1.1)  [Repealed, 2008, c. 14, s. 7]
+(1.1) [Repealed, 2008, c. 14, s. 7]
 
-(2)  Notwithstanding  any  other  provision  of this Act, a woman, who
+#### Automatic acquisition of citizenship
 
-( a )  by virtue of any law of Canada in force at  any  time  before  January  1,  1947  had,  by reason  only  of  her  marriage  or  the  acquisition by her husband of a foreign nationality, ceased to be a British subject, and
+(2) Notwithstanding any other provision of this Act, a woman, who
 
-( b )  would have been a citizen had the former Act come into force immediately before her marriage or the acquisition by her husband of a foreign nationality,
+(a) by virtue of any law of Canada in force at any time before January 1, 1947 had, by reason only of her marriage or the acquisition by her husband of a foreign nationality, ceased to be a British subject, and
 
-acquires citizenship immediately on the receipt by  the  Minister  of  a  notice  in  writing  by  her that she elects to be a citizen.
+(b) would have been a citizen had the former Act come into force immediately before her marriage or the acquisition by her husband of a foreign nationality,
+
+acquires citizenship immediately on the receipt by the Minister of a notice in writing by her that she elects to be a citizen.
 
 R.S., 1985, c. C-29, s. 11; 2001, c. 27, s. 229; 2005, c. 17, s. 1; 2008, c. 14, s. 7.
 
@@ -1067,27 +1124,35 @@ R.S., 1985, c. C-29, s. 11; 2001, c. 27, s. 229; 2005, c. 17, s. 1; 2008, c. 14,
 
 ## CERTIFICATE OF CITIZENSHIP
 
-12. (1)  Subject to any regulations made under  paragraph  27( i ),  the  Minister  shall  issue  a certificate of citizenship to any citizen who has made application therefor.
+### Application for certificate of citizenship
 
-(2)  When an application under section 5 or 5.1 or subsection 11(1) is approved, the Minister shall issue a certificate of citizenship to the applicant.
+12. (1) Subject to any regulations made under paragraph 27(i), the Minister shall issue a certificate of citizenship to any citizen who has made application therefor.
 
-(3)  A certificate issued pursuant to this section  does  not  take  effect  until  the  person  to whom  it  is  issued  has  complied  with  the  requirements  of  this  Act  and  the  regulations  respecting the oath of citizenship.
+#### Issue of certificate
+
+(2) When an application under section 5 or 5.1 or subsection 11(1) is approved, the Minister shall issue a certificate of citizenship to the applicant.
+
+#### When effective
+
+(3) A certificate issued pursuant to this section does not take effect until the person to whom it is issued has complied with the requirements of this Act and the regulations respecting the oath of citizenship.
 
 R.S., 1985, c. C-29, s. 12; 2008, c. 14, ss. 8, 13.
 
-faite en application de l'article 20 ni par une ordonnance  prise  aux  termes  de  l'article  18 de l'ancienne loi;
+faite en application de l'article 20 ni par une ordonnance prise aux termes de l'article 18 de l'ancienne loi;
 
-c )  n'est  pas  sous  le  coup  d'une  mesure  de renvoi;
+c) n'est pas sous le coup d'une mesure de renvoi;
 
-d )  est  devenue  un  résident  permanent  au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés , après la perte de sa citoyenneté, et a depuis résidé au Canada pendant au moins l'année précédant la date de la demande.
+d) est devenue un résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés, après la perte de sa citoyenneté, et a depuis résidé au Canada pendant au moins l'année précédant la date de la demande.
 
-(1.1)  [Abrogé, 2008, ch. 14, art. 7]
+(1.1) [Abrogé, 2008, ch. 14, art. 7]
 
-(2)  Nonobstant  les  autres  dispositions  de  la présente loi, acquiert la citoyenneté dès réception par le ministre d'un avis adressé à celui-ci pour lui faire connaître son intention en ce sens la femme qui, à la fois :
+#### Réintégration par avis
 
-a )  en  vertu  d'une  règle  de  droit  en  vigueur au Canada à une date antérieure au 1 er janvier 1947 avait, du seul fait de son mariage ou de l'acquisition  d'une  nationalité  étrangère  par son  mari,  perdu  sa  qualité  de  sujet  britannique;
+(2) Nonobstant les autres dispositions de la présente loi, acquiert la citoyenneté dès réception par le ministre d'un avis adressé à celui-ci pour lui faire connaître son intention en ce sens la femme qui, à la fois :
 
-b )  aurait  eu  la  qualité  de  citoyen  si  l'ancienne loi était entrée en vigueur immédiatement  avant son mariage ou l'acquisition d'une nationalité étrangère par son mari.
+a) en vertu d'une règle de droit en vigueur au Canada à une date antérieure au 1er janvier 1947 avait, du seul fait de son mariage ou de l'acquisition d'une nationalité étrangère par son mari, perdu sa qualité de sujet britannique;
+
+b) aurait eu la qualité de citoyen si l'ancienne loi était entrée en vigueur immédiatement avant son mariage ou l'acquisition d'une nationalité étrangère par son mari.
 
 L.R. (1985), ch. C-29, art. 11; 2001, ch. 27, art. 229; 2005, ch. 17, art. 1; 2008, ch. 14, art. 7.
 
@@ -1095,22 +1160,19 @@ L.R. (1985), ch. C-29, art. 11; 2001, ch. 27, art. 229; 2005, ch. 17, art. 1; 20
 
 ## CERTIFICAT DE CITOYENNETÉ
 
-12. (1)  Sous réserve des règlements d'application  de  l'alinéa  27 i ),  le  ministre  délivre  un certificat  de  citoyenneté  aux  citoyens  qui  en font la demande.
-
-(2)  Le  ministre  délivre  un  certificat  de  citoyenneté aux personnes dont la demande présentée au titre des articles 5 ou 5.1 ou du paragraphe 11(1) a été approuvée.
-
-(3)  Le  certificat  délivré  en  application  du présent  article  ne  prend  effet  qu'en  tant  que l'intéressé s'est conformé aux dispositions de la présente loi et aux règlements régissant la prestation du serment de citoyenneté.
-
-L.R. (1985), ch. C-29, art. 12; 2008, ch. 14, art. 8 et 13.
-
-#### Réintégration par avis
-
 ### Demandes émanant de citoyens
+
+12. (1) Sous réserve des règlements d'application de l'alinéa 27i), le ministre délivre un certificat de citoyenneté aux citoyens qui en font la demande.
 
 #### Délivrance aux nouveaux citoyens
 
+(2) Le ministre délivre un certificat de citoyenneté aux personnes dont la demande présentée au titre des articles 5 ou 5.1 ou du paragraphe 11(1) a été approuvée.
+
 #### Entrée en vigueur
-### Consideration by citizenship judge
+
+(3) Le certificat délivré en application du présent article ne prend effet qu'en tant que l'intéressé s'est conformé aux dispositions de la présente loi et aux règlements régissant la prestation du serment de citoyenneté.
+
+L.R. (1985), ch. C-29, art. 12; 2008, ch. 14, art. 8 et 13.
 
 13
 
@@ -1118,91 +1180,91 @@ L.R. (1985), ch. C-29, art. 12; 2008, ch. 14, art. 8 et 13.
 
 [[START OF PAGE 18]]
 
-Citizenship - February 6, 2014
+Citizenship — February 6, 2014
 
 ## PART V
 
 ## PROCEDURE
 
-13. When an application is made or a notice
-
 ### Applications
-is given under this Act
 
-( a )  it  shall  be  made  or  given  in  such  form and manner and at such place, and
+13. When an application is made or a notice is given under this Act
 
-( b )  such evidence  shall  be  provided  and such fees shall be paid with respect thereto,
+(a) it shall be made or given in such form and manner and at such place, and
 
-as  are  prescribed  by  the  Minister  pursuant  to this Act or by the regulations.
+(b) such evidence shall be provided and such fees shall be paid with respect thereto,
+
+as are prescribed by the Minister pursuant to this Act or by the regulations.
 
 R.S., 1985, c. C-29, s. 13; 2008, c. 14, s. 9.
 
-14. (1)  An application for
+### Consideration by citizenship judge
 
-( a )  a  grant  of  citizenship  under  subsection 5(1) or (5),
+14. (1) An application for
 
-( b )  [Repealed, 2008, c. 14, s. 10]
+(a) a grant of citizenship under subsection 5(1) or (5),
 
-( c )  a  renunciation  of  citizenship  under  subsection 9(1), or
+(b) [Repealed, 2008, c. 14, s. 10]
 
-( d )  a  resumption  of  citizenship  under  subsection 11(1)
+(c) a renunciation of citizenship under subsection 9(1), or
 
-shall be considered by a citizenship judge who shall, within sixty days of the day the application was referred to the judge, determine whether or not the person who made the application  meets  the  requirements  of  this  Act  and the regulations with respect to the application.
+(d) a resumption of citizenship under subsection 11(1)
 
-(1.1)  Where an applicant is a permanent resident  who  is  the  subject  of  an  admissibility hearing  under  the Immigration  and  Refugee Protection  Act ,  the  citizenship  judge  may  not make a determination under subsection (1) until there  has  been  a  final  determination  whether, for  the  purposes  of  that  Act,  a  removal  order
+shall be considered by a citizenship judge who shall, within sixty days of the day the application was referred to the judge, determine whether or not the person who made the application meets the requirements of this Act and the regulations with respect to the application.
 
 #### Interruption of proceedings
-shall be made against that applicant.
 
-(1.2)  [Repealed, 2001, c. 27, s. 230]
+(1.1) Where an applicant is a permanent resident who is the subject of an admissibility hearing under the Immigration and Refugee Protection Act, the citizenship judge may not make a determination under subsection (1) until there has been a final determination whether, for the purposes of that Act, a removal order shall be made against that applicant.
+
+(1.2) [Repealed, 2001, c. 27, s. 230]
 
 #### Advice to Minister
 
-(2)  Forthwith  after  making  a  determination under  subsection  (1)  in  respect  of  an  application  referred  to  therein  but  subject  to  section 15,  the  citizenship  judge  shall  approve  or  not approve the application in accordance with his determination,  notify  the  Minister  accordingly and provide the Minister with the reasons therefor.
+(2) Forthwith after making a determination under subsection (1) in respect of an application referred to therein but subject to section 15, the citizenship judge shall approve or not approve the application in accordance with his determination, notify the Minister accordingly and provide the Minister with the reasons therefor.
 
 #### Notice to applicant
-(3)  Where  a  citizenship  judge  does  not  approve  an  application  under  subsection  (2),  the judge shall forthwith notify the applicant of his
+
+(3) Where a citizenship judge does not approve an application under subsection (2), the judge shall forthwith notify the applicant of his
 
 ## PARTIE V
 
 ## PROCÉDURE
 
-13. Les demandes et avis prévus par la présente  loi  sont  régis  par  les  règlements  ou  les prescriptions édictées par le ministre sous le régime de la présente loi, en ce qui concerne :
+### Demandes
 
-a )  les formalités à suivre et le lieu de leur remise ou de leur accomplissement;
+13. Les demandes et avis prévus par la présente loi sont régis par les règlements ou les prescriptions édictées par le ministre sous le régime de la présente loi, en ce qui concerne :
 
-b )  les éléments de preuve à fournir à leur appui et les droits à acquitter à leur égard.
+a) les formalités à suivre et le lieu de leur remise ou de leur accomplissement;
+
+b) les éléments de preuve à fournir à leur appui et les droits à acquitter à leur égard.
 
 L.R. (1985), ch. C-29, art. 13; 2008, ch. 14, art. 9.
 
-14. (1)  Dans les soixante jours de sa saisine, le juge de la citoyenneté statue sur la conformité  - avec les dispositions applicables en l'espèce de la présente loi et de ses règlements des demandes déposées en vue de :
-
-a )  l'attribution de la citoyenneté, au titre des paragraphes 5(1) ou (5);
-
-b )  [Abrogé, 2008, ch. 14, art. 10]
-
-c )  la  répudiation  de  la  citoyenneté,  au  titre du paragraphe 9(1);
-
-d )  la  réintégration  dans  la  citoyenneté,  au titre du paragraphe 11(1).
-
-(1.1)  Le juge de la citoyenneté ne peut toutefois statuer sur la demande émanant d'un résident permanent qui fait l'objet d'une enquête dans le cadre de la Loi sur l'immigration et la protection des réfugiés tant qu'il n'a pas été décidé en dernier ressort si une mesure de renvoi devrait être prise contre lui.
-
-(1.2)  [Abrogé, 2001, ch. 27, art. 230]
-
-(2)  Aussitôt  après  avoir  statué  sur  la  demande visée au paragraphe (1), le juge de la citoyenneté,  sous  réserve  de  l'article  15,  approuve ou rejette la demande selon qu'il conclut  ou  non  à  la  conformité  de  celle-ci  et transmet sa décision motivée au ministre.
-
-(3)  En cas de rejet de la demande, le juge de la citoyenneté en informe sans délai le demandeur en lui faisant connaître les motifs de sa décision et l'existence d'un droit d'appel.
-
-### Demandes
-
 ### Examen par un juge de la citoyenneté
+
+14. (1) Dans les soixante jours de sa saisine, le juge de la citoyenneté statue sur la conformité — avec les dispositions applicables en l'espèce de la présente loi et de ses règlements — des demandes déposées en vue de :
+
+a) l'attribution de la citoyenneté, au titre des paragraphes 5(1) ou (5);
+
+b) [Abrogé, 2008, ch. 14, art. 10]
+
+c) la répudiation de la citoyenneté, au titre du paragraphe 9(1);
+
+d) la réintégration dans la citoyenneté, au titre du paragraphe 11(1).
 
 #### Interruption de la procédure
 
+(1.1) Le juge de la citoyenneté ne peut toutefois statuer sur la demande émanant d'un résident permanent qui fait l'objet d'une enquête dans le cadre de la Loi sur l'immigration et la protection des réfugiés tant qu'il n'a pas été décidé en dernier ressort si une mesure de renvoi devrait être prise contre lui.
+
+(1.2) [Abrogé, 2001, ch. 27, art. 230]
+
 #### Information du ministre
 
+(2) Aussitôt après avoir statué sur la demande visée au paragraphe (1), le juge de la citoyenneté, sous réserve de l'article 15, approuve ou rejette la demande selon qu'il conclut ou non à la conformité de celle-ci et transmet sa décision motivée au ministre.
+
 #### Information du demandeur
-decision, of the reasons therefor and of the right to appeal.
+
+(3) En cas de rejet de la demande, le juge de la citoyenneté en informe sans délai le demandeur en lui faisant connaître les motifs de sa décision et l'existence d'un droit d'appel.
 
 14
 
@@ -1210,90 +1272,89 @@ decision, of the reasons therefor and of the right to appeal.
 
 [[START OF PAGE 19]]
 
-Citoyenneté - 6 février 2014
+Citoyenneté — 6 février 2014
 
-(4)  A notice referred to in subsection (3) is sufficient if it is sent by registered mail to the
+decision, of the reasons therefor and of the right to appeal.
 
 #### Sufficiency
-applicant at his latest known address.
 
-(5)  The Minister or the applicant may appeal to the Court from the decision of the citizenship judge under subsection (2) by filing a notice of appeal in the Registry of the Court within sixty
+(4) A notice referred to in subsection (3) is sufficient if it is sent by registered mail to the applicant at his latest known address.
 
 #### Appeal
-days after the day on which
 
-( a )  the citizenship judge approved the application under subsection (2); or
+(5) The Minister or the applicant may appeal to the Court from the decision of the citizenship judge under subsection (2) by filing a notice of appeal in the Registry of the Court within sixty days after the day on which
 
-( b )  notice was mailed or otherwise given under subsection (3) with respect to the application.
+(a) the citizenship judge approved the application under subsection (2); or
+
+(b) notice was mailed or otherwise given under subsection (3) with respect to the application.
 
 #### Decision final
-(6)  A  decision  of  the  Court  pursuant  to  an appeal made under subsection (5) is, subject to section 20, final and, notwithstanding any other Act of Parliament, no appeal lies therefrom.
+
+(6) A decision of the Court pursuant to an appeal made under subsection (5) is, subject to section 20, final and, notwithstanding any other Act of Parliament, no appeal lies therefrom.
 
 R.S., 1985, c. C-29, s. 14; 1995, c. 15, s. 23; 2001, c. 27, s. 230; 2008, c. 14, s. 10.
 
 ### Recommendation re use of discretion
-15. (1)  Where a citizenship judge is unable to approve  an  application  under  subsection 14(2),  the  judge  shall,  before  deciding  not  to approve  it,  consider  whether  or  not  to  recommend  an  exercise  of  discretion  under  subsection  5(3)  or  (4)  or  subsection  9(2)  as  the  circumstances may require.
+
+15. (1) Where a citizenship judge is unable to approve an application under subsection 14(2), the judge shall, before deciding not to approve it, consider whether or not to recommend an exercise of discretion under subsection 5(3) or (4) or subsection 9(2) as the circumstances may require.
 
 #### Subsequent action
 
-(2)  Where a citizenship  judge  makes  a  recommendation for an exercise of discretion under subsection (1), the judge shall
+(2) Where a citizenship judge makes a recommendation for an exercise of discretion under subsection (1), the judge shall
 
-( a )  notify the applicant;
+(a) notify the applicant;
 
-( b )  transmit the recommendation to the Minister with the reasons therefor; and
+(b) transmit the recommendation to the Minister with the reasons therefor; and
 
-( c )  in  accordance with the decision that has been made in respect of his recommendation, forthwith on the communication of the decision to the judge approve or not approve the application.
+(c) in accordance with the decision that has been made in respect of his recommendation, forthwith on the communication of the decision to the judge approve or not approve the application.
 
 1974-75-76, c. 108, s. 14.
 
 ### Section 28 of Federal Courts Act
-16. Notwithstanding  section  28  of  the Federal  Courts  Act ,  the  Federal  Court  of  Appeal does  not  have  jurisdiction  to  hear  and  determine  an  application  to  review  and  set  aside  a decision  made  under  this  Act  if  the  decision may be appealed under section 14 of this Act. R.S., 1985, c. C-29, s. 16; 2002, c. 8, s. 182.
 
-(4)  L'obligation d'informer prévue au paragraphe  (3)  peut  être  remplie  par  avis  expédié par  courrier  recommandé  au  demandeur  à  sa dernière adresse connue.
+16. Notwithstanding section 28 of the Federal Courts Act, the Federal Court of Appeal does not have jurisdiction to hear and determine an application to review and set aside a decision made under this Act if the decision may be appealed under section 14 of this Act.
 
-(5)  Le ministre et le demandeur peuvent interjeter  appel  de  la  décision  du  juge  de  la  citoyenneté en déposant un avis d'appel au greffe de  la  Cour  dans  les  soixante  jours  suivant  la date, selon le cas :
-
-a )  de l'approbation de la demande;
-
-b )  de la communication, par courrier ou tout autre moyen, de la décision de rejet.
-
-(6)  La décision de la Cour rendue sur l'appel prévu  au  paragraphe  (5)  est,  sous  réserve  de l'article 20, définitive et, par dérogation à toute autre loi fédérale, non susceptible d'appel.
-
-L.R. (1985), ch. C-29, art. 14; 1995, ch. 15, art. 23; 2001, ch. 27, art. 230; 2008, ch. 14, art. 10.
-
-15. (1)  Avant de rendre une décision de rejet,  le  juge  de  la  citoyenneté  examine  s'il  y  a lieu de recommander l'exercice du pouvoir discrétionnaire prévu aux paragraphes 5(3) ou (4) ou 9(2), selon le cas.
-
-(2)  S'il  recommande  l'exercice  du  pouvoir discrétionnaire, le juge de la citoyenneté :
-
-a )  en informe le demandeur;
-
-b )  transmet  sa  recommandation  motivée  au ministre;
-
-c )  approuve ou rejette la demande dès réception de la réponse du ministre, en se conformant à la décision prise par celui-ci à l'égard de sa recommandation.
-
-1974-75-76, ch. 108, art. 14.
-
-16. Nonobstant l'article 28 de la Loi sur les Cours  fédérales ,  la  Cour  d'appel  fédérale  n'a pas compétence pour entendre et juger une demande de révision et d'annulation d'une décision rendue sous le régime de la présente loi et susceptible d'appel en vertu de l'article 14.
-
-L.R. (1985), ch. C-29, art. 16; 2002, ch. 8, art. 182.
+R.S., 1985, c. C-29, s. 16; 2002, c. 8, s. 182.
 
 #### Transmission
 
+(4) L'obligation d'informer prévue au paragraphe (3) peut être remplie par avis expédié par courrier recommandé au demandeur à sa dernière adresse connue.
+
 #### Appel
+
+(5) Le ministre et le demandeur peuvent interjeter appel de la décision du juge de la citoyenneté en déposant un avis d'appel au greffe de la Cour dans les soixante jours suivant la date, selon le cas :
+
+a) de l'approbation de la demande;
+
+b) de la communication, par courrier ou tout autre moyen, de la décision de rejet.
 
 #### Caractère définitif de la décision
 
+(6) La décision de la Cour rendue sur l'appel prévu au paragraphe (5) est, sous réserve de l'article 20, définitive et, par dérogation à toute autre loi fédérale, non susceptible d'appel.
+
+L.R. (1985), ch. C-29, art. 14; 1995, ch. 15, art. 23; 2001, ch. 27, art. 230; 2008, ch. 14, art. 10.
+
 ### Exercice du pouvoir discrétionnaire
+
+15. (1) Avant de rendre une décision de rejet, le juge de la citoyenneté examine s'il y a lieu de recommander l'exercice du pouvoir discrétionnaire prévu aux paragraphes 5(3) ou (4) ou 9(2), selon le cas.
 
 #### Mesures subséquentes
 
+(2) S'il recommande l'exercice du pouvoir discrétionnaire, le juge de la citoyenneté :
+
+a) en informe le demandeur;
+
+b) transmet sa recommandation motivée au ministre;
+
+c) approuve ou rejette la demande dès réception de la réponse du ministre, en se conformant à la décision prise par celui-ci à l'égard de sa recommandation.
+
+1974-75-76, ch. 108, art. 14.
+
 ### Incompétence de la Cour d'appel fédérale
-### Suspension of processing of application
-### Notice to person in respect of revocation
-#### Nature of notice
-#### Decision final
-### Definitions
-#### Report to Review Committee
+
+16. Nonobstant l'article 28 de la Loi sur les Cours fédérales, la Cour d'appel fédérale n'a pas compétence pour entendre et juger une demande de révision et d'annulation d'une décision rendue sous le régime de la présente loi et susceptible d'appel en vertu de l'article 14.
+
+L.R. (1985), ch. C-29, art. 16; 2002, ch. 8, art. 182.
 
 15
 
@@ -1301,58 +1362,71 @@ L.R. (1985), ch. C-29, art. 16; 2002, ch. 8, art. 182.
 
 [[START OF PAGE 20]]
 
-Citizenship - February 6, 2014
+Citizenship — February 6, 2014
 
-17. Where a person has made an application under this Act and the Minister is of the opinion that there is insufficient information to ascertain  whether  that  person  meets  the  requirements  of  this  Act  and  the  regulations  with respect  to  the  application,  the  Minister  may suspend  the  processing  of  the  application  for the  period,  not  to  exceed  six  months  immediately following the day on which the processing is suspended, required by the Minister to obtain the necessary information.
+### Suspension of processing of application
+
+17. Where a person has made an application under this Act and the Minister is of the opinion that there is insufficient information to ascertain whether that person meets the requirements of this Act and the regulations with respect to the application, the Minister may suspend the processing of the application for the period, not to exceed six months immediately following the day on which the processing is suspended, required by the Minister to obtain the necessary information.
 
 1974-75-76, c. 108, s. 16.
 
-18. (1)  The Minister shall not make a report under section 10 unless the Minister has given notice of his intention to do so to the person in respect of whom the report is to be made and
+### Notice to person in respect of revocation
 
-( a )  that  person  does  not,  within  thirty  days after the day on which the notice is sent, request  that  the  Minister  refer  the  case  to  the Court; or
+18. (1) The Minister shall not make a report under section 10 unless the Minister has given notice of his intention to do so to the person in respect of whom the report is to be made and
 
-( b )  that person does so request and the Court decides  that  the  person  has  obtained,  retained, renounced or resumed citizenship by false representation or fraud or by knowingly concealing material circumstances.
+(a) that person does not, within thirty days after the day on which the notice is sent, request that the Minister refer the case to the Court; or
 
-(2)  The  notice  referred  to  in  subsection  (1) shall  state  that  the  person  in  respect  of  whom the report is to be made may, within thirty days after the day on which the notice is sent to him, request  that  the  Minister  refer  the  case  to  the Court, and such notice is sufficient if it is sent by  registered  mail  to  the  person  at  his  latest known address.
+(b) that person does so request and the Court decides that the person has obtained, retained, renounced or resumed citizenship by false representation or fraud or by knowingly concealing material circumstances.
 
-(3)  A decision of the Court made under subsection  (1)  is  final  and,  notwithstanding  any other  Act  of  Parliament,  no  appeal  lies  therefrom.
+#### Nature of notice
+
+(2) The notice referred to in subsection (1) shall state that the person in respect of whom the report is to be made may, within thirty days after the day on which the notice is sent to him, request that the Minister refer the case to the Court, and such notice is sufficient if it is sent by registered mail to the person at his latest known address.
+
+#### Decision final
+
+(3) A decision of the Court made under subsection (1) is final and, notwithstanding any other Act of Parliament, no appeal lies therefrom.
 
 1974-75-76, c. 108, s. 17.
 
-19. (1)  In  this  section  and  sections  19.1, 19.2 and 20, 'Review Committee' and 'threats to the security of Canada' have the same meanings  as  in  the Canadian  Security  Intelligence Service Act .
+### Definitions
 
-(2)  Where the Minister is of the opinion that a person should not be granted citizenship under  section  5  or  subsection  11(1)  or  administered the oath of citizenship or be issued a certificate of renunciation under section 9 because
+19. (1) In this section and sections 19.1, 19.2 and 20, “Review Committee” and “threats to the security of Canada” have the same meanings as in the Canadian Security Intelligence Service Act.
 
-17. S'il  estime ne pas avoir tous les renseignements nécessaires pour lui permettre d'établir si le demandeur remplit les conditions prévues  par  la  présente  loi  et  ses  règlements,  le ministre peut suspendre la procédure d'examen de la demande pendant la période nécessaire qui ne peut dépasser six mois suivant la date de la  suspension  -  pour  obtenir  les  renseignements qui manquent.
+#### Report to Review Committee
+
+(2) Where the Minister is of the opinion that a person should not be granted citizenship under section 5 or subsection 11(1) or administered the oath of citizenship or be issued a certificate of renunciation under section 9 because
+
+### Suspension de la procédure d'examen
+
+17. S'il estime ne pas avoir tous les renseignements nécessaires pour lui permettre d'établir si le demandeur remplit les conditions prévues par la présente loi et ses règlements, le ministre peut suspendre la procédure d'examen de la demande pendant la période nécessaire — qui ne peut dépasser six mois suivant la date de la suspension — pour obtenir les renseignements qui manquent.
 
 1974-75-76, ch. 108, art. 16.
 
-18. (1)  Le ministre ne peut procéder à l'établissement du rapport mentionné à l'article 10 sans  avoir  auparavant  avisé  l'intéressé  de  son intention en ce sens et sans que l'une ou l'autre des conditions suivantes ne se soit réalisée :
+### Avis préalable à l'annulation
 
-a )  l'intéressé  n'a  pas,  dans  les  trente  jours suivant  la  date  d'expédition  de  l'avis,  demandé le renvoi de l'affaire devant la Cour;
+18. (1) Le ministre ne peut procéder à l'établissement du rapport mentionné à l'article 10 sans avoir auparavant avisé l'intéressé de son intention en ce sens et sans que l'une ou l'autre des conditions suivantes ne se soit réalisée :
 
-b )  la Cour, saisie de l'affaire, a décidé qu'il y avait eu fraude, fausse déclaration ou dissimulation intentionnelle de faits essentiels.
+a) l'intéressé n'a pas, dans les trente jours suivant la date d'expédition de l'avis, demandé le renvoi de l'affaire devant la Cour;
 
-(2)  L'avis prévu au paragraphe (1) doit spécifier la faculté qu'a l'intéressé, dans les trente jours suivant sa date d'expédition, de demander au  ministre  le  renvoi  de  l'affaire  devant  la Cour. La communication de l'avis peut se faire par  courrier  recommandé envoyé à la dernière adresse connue de l'intéressé.
+b) la Cour, saisie de l'affaire, a décidé qu'il y avait eu fraude, fausse déclaration ou dissimulation intentionnelle de faits essentiels.
 
-(3)  La  décision  de  la  Cour  visée  au  paragraphe  (1)  est  définitive  et,  par  dérogation  à toute  autre  loi  fédérale,  non  susceptible  d'appel.
+#### Nature de l'avis
+
+(2) L'avis prévu au paragraphe (1) doit spécifier la faculté qu'a l'intéressé, dans les trente jours suivant sa date d'expédition, de demander au ministre le renvoi de l'affaire devant la Cour. La communication de l'avis peut se faire par courrier recommandé envoyé à la dernière adresse connue de l'intéressé.
+
+#### Caractère définitif de la décision
+
+(3) La décision de la Cour visée au paragraphe (1) est définitive et, par dérogation à toute autre loi fédérale, non susceptible d'appel.
 
 1974-75-76, ch. 108, art. 17.
 
-19. (1)  Au  présent  article  et  aux  articles 19.1, 19.2 et 20, « comité de surveillance » et « menaces envers la sécurité du Canada » s'entendent au sens de la Loi sur le Service canadien du renseignement de sécurité .
-
-(2)  Le ministre peut, en lui adressant un rapport à cet effet, saisir le comité de surveillance des cas où il est d'avis que l'intéressé devrait se voir refuser l'attribution de citoyenneté prévue à l'article 5 ou au paragraphe 11(1), ou la délivrance du certificat de répudiation prévu à l'ar-
-### Suspension de la procédure d'examen
-### Avis préalable à l'annulation
-#### Nature de l'avis
-#### Caractère définitif de la décision
 ### Définitions
+
+19. (1) Au présent article et aux articles 19.1, 19.2 et 20, « comité de surveillance » et « menaces envers la sécurité du Canada » s'entendent au sens de la Loi sur le Service canadien du renseignement de sécurité.
+
 #### Renvoi au comité de surveillance
-#### Notice to be sent to person affected
-#### Application of the Canadian Security Intelligence Service Act
-#### Investigation to cease
-#### Statement to be sent to person affected
-there are reasonable grounds to believe that the person will engage in activity
+
+(2) Le ministre peut, en lui adressant un rapport à cet effet, saisir le comité de surveillance des cas où il est d'avis que l'intéressé devrait se voir refuser l'attribution de citoyenneté prévue à l'article 5 ou au paragraphe 11(1), ou la délivrance du certificat de répudiation prévu à l'ar-
 
 16
 
@@ -1360,56 +1434,61 @@ there are reasonable grounds to believe that the person will engage in activity
 
 [[START OF PAGE 21]]
 
-Citoyenneté - 6 février 2014
+Citoyenneté — 6 février 2014
 
-( a )  that constitutes a threat to the security of Canada, or
+there are reasonable grounds to believe that the person will engage in activity
 
-( b )  that is part of a pattern of criminal activity  planned  and  organized  by  a  number  of persons  acting  in  concert  in  furtherance  of the  commission of any offence that may be punishable  under  any  Act  of  Parliament  by way of indictment,
+(a) that constitutes a threat to the security of Canada, or
+
+(b) that is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of any offence that may be punishable under any Act of Parliament by way of indictment,
 
 the Minister may make a report to the Review Committee.
 
-(3)  The Minister shall, within ten days after a  report  is  made  pursuant  to  subsection  (2), cause a notice to be sent informing the person referred to in that subsection of the report and stating  that  following  an  investigation  in  relation  thereto,  a  declaration  with  respect  to  that person may be made by the Governor in Council under section 20.
+#### Notice to be sent to person affected
 
-(4)  Where  a  report  is  made  to  the  Review Committee pursuant to subsection (2), the Review  Committee  shall  investigate  the  grounds on which it is based and for that purpose subsections 39(2) and (3) and sections 43, 44 and 48 to 51 of the Canadian Security Intelligence Service  Act apply,  with  such  modifications  as the  circumstances  require,  to  the  investigation as  if  the  investigation  were  conducted  in  relation to a complaint made pursuant to section 42 of  that  Act,  except  that  a  reference  in  any  of those provisions to 'deputy head' shall be read as a reference to the Minister.
+(3) The Minister shall, within ten days after a report is made pursuant to subsection (2), cause a notice to be sent informing the person referred to in that subsection of the report and stating that following an investigation in relation thereto, a declaration with respect to that person may be made by the Governor in Council under section 20.
 
-(4.1)  If  the  Review  Committee  is  of  the opinion  that  it  cannot  perform  its  duties  described in subsections (4), (5) and (6), it must cease  its  investigation  and  give  notice  to  the Minister  and  the  person  referred  to  in  subsection (2).
+#### Application of the Canadian Security Intelligence Service Act
 
-(5)  The Review Committee shall, as soon as practicable after a report is made to it pursuant to  subsection  (2),  send  to  the  person  with  respect  to  whom  the  report  is  made  a  statement summarizing such information available to it as will  enable  the  person  to  be  as  fully  informed as  possible  of  the  circumstances giving rise to the report.
+(4) Where a report is made to the Review Committee pursuant to subsection (2), the Review Committee shall investigate the grounds on which it is based and for that purpose subsections 39(2) and (3) and sections 43, 44 and 48 to 51 of the Canadian Security Intelligence Service Act apply, with such modifications as the circumstances require, to the investigation as if the investigation were conducted in relation to a complaint made pursuant to section 42 of that Act, except that a reference in any of those provisions to “deputy head” shall be read as a reference to the Minister.
 
-(6)  The  Review  Committee  shall,  on  com-
+#### Investigation to cease
+
+(4.1) If the Review Committee is of the opinion that it cannot perform its duties described in subsections (4), (5) and (6), it must cease its investigation and give notice to the Minister and the person referred to in subsection (2).
+
+#### Statement to be sent to person affected
+
+(5) The Review Committee shall, as soon as practicable after a report is made to it pursuant to subsection (2), send to the person with respect to whom the report is made a statement summarizing such information available to it as will enable the person to be as fully informed as possible of the circumstances giving rise to the report.
 
 #### Report
-pletion  of  an  investigation  made  pursuant  to
 
-ticle  9,  ou  encore  la  prestation  du  serment  de citoyenneté,  parce  qu'il  existe  des  motifs  raisonnables de croire qu'il se livrera à des activités qui :
+(6) The Review Committee shall, on completion of an investigation made pursuant to
 
-a )  soit constituent des menaces envers la sécurité du Canada;
+ticle 9, ou encore la prestation du serment de citoyenneté, parce qu'il existe des motifs raisonnables de croire qu'il se livrera à des activités qui :
 
-b )  soit  font  partie  d'un  plan  d'activités  criminelles  organisées  par  plusieurs  personnes agissant de concert en vue de la perpétration d'une infraction punissable par voie de mise en accusation aux termes d'une loi fédérale.
+a) soit constituent des menaces envers la sécurité du Canada;
 
-(3)  Dans les dix jours suivant la date du rapport,  le  ministre  fait  envoyer  à  l'intéressé  un avis l'informant de l'existence du rapport et du fait qu'au terme d'une enquête sur la question, le gouverneur en conseil pourrait faire à son sujet la déclaration prévue à l'article 20.
+b) soit font partie d'un plan d'activités criminelles organisées par plusieurs personnes agissant de concert en vue de la perpétration d'une infraction punissable par voie de mise en accusation aux termes d'une loi fédérale.
 
-(4)  Le  comité  de  surveillance  examine  les motifs sur lesquels est fondé le rapport dont il est saisi en suivant - compte tenu des adaptations  de  circonstance  -  la  procédure  prévue aux paragraphes 39(2) et (3) et aux articles 43, 44 et 48 à 51 de la Loi sur le Service canadien du renseignement de sécurité pour les enquêtes portant  sur  les  plaintes  présentées  au  titre  de l'article  42  de  cette  loi,  étant  entendu  que  la mention de l'administrateur général équivaut à celle du ministre.
-
-(4.1)  S'il est d'avis qu'il ne peut s'acquitter des fonctions prévues aux paragraphes (4), (5) et  (6),  le  comité  de  surveillance  met  fin  à  son enquête et en avise le ministre et l'intéressé.
-
-(5)  Afin de permettre à l'intéressé d'être informé le mieux possible des circonstances qui ont donné lieu à l'établissement du rapport, le comité  de  surveillance  lui  adresse,  dans  les meilleurs délais suivant la réception de celui-ci, un résumé des informations dont il dispose à ce sujet.
-
-(6)  Au  terme  de  son  enquête,  le  comité  de surveillance fait rapport de celle-ci au gouver-
 #### Avis à l'intéressé
+
+(3) Dans les dix jours suivant la date du rapport, le ministre fait envoyer à l'intéressé un avis l'informant de l'existence du rapport et du fait qu'au terme d'une enquête sur la question, le gouverneur en conseil pourrait faire à son sujet la déclaration prévue à l'article 20.
 
 #### Application de la Loi sur le Service canadien du renseignement de sécurité
 
+(4) Le comité de surveillance examine les motifs sur lesquels est fondé le rapport dont il est saisi en suivant — compte tenu des adaptations de circonstance — la procédure prévue aux paragraphes 39(2) et (3) et aux articles 43, 44 et 48 à 51 de la Loi sur le Service canadien du renseignement de sécurité pour les enquêtes portant sur les plaintes présentées au titre de l'article 42 de cette loi, étant entendu que la mention de l'administrateur général équivaut à celle du ministre.
+
 #### Fin de l'enquête
+
+(4.1) S'il est d'avis qu'il ne peut s'acquitter des fonctions prévues aux paragraphes (4), (5) et (6), le comité de surveillance met fin à son enquête et en avise le ministre et l'intéressé.
 
 #### Information de l'intéressé
 
+(5) Afin de permettre à l'intéressé d'être informé le mieux possible des circonstances qui ont donné lieu à l'établissement du rapport, le comité de surveillance lui adresse, dans les meilleurs délais suivant la réception de celui-ci, un résumé des informations dont il dispose à ce sujet.
+
 #### Rapport
-### Appointment of a judge
-#### Tenure and reappointment
-#### Remuneration and expenses
-### Referral
-#### Application of subsections 19(4), (5) and (6)
+
+(6) Au terme de son enquête, le comité de surveillance fait rapport de celle-ci au gouver-
 
 17
 
@@ -1417,60 +1496,71 @@ b )  soit  font  partie  d'un  plan  d'activités  criminelles  organisées  par
 
 [[START OF PAGE 22]]
 
-Citizenship - February 6, 2014
+Citizenship — February 6, 2014
 
-### Annual report
-subsection  (4),  make  a  report  to  the  Governor in  Council  on  all  matters  relating  thereto  and shall, at the same time as or after the report is made, provide the complainant with the conclusions of the report.
+subsection (4), make a report to the Governor in Council on all matters relating thereto and shall, at the same time as or after the report is made, provide the complainant with the conclusions of the report.
 
 R.S., 1985, c. C-29, s. 19; 1992, c. 1, s. 144(F); 1997, c. 22, s. 1.
 
-19.1 (1)  After consultation  by  the  Prime Minister of Canada with the Leader of the Opposition  in  the  House  of  Commons  and  the leader in the House of Commons of each party having at least twelve members in that House, the Governor in Council may appoint a retired judge of a superior court for a term of three to five years to perform the duties of the Review Committee described in subsections 19(4),  (5) and (6).
+### Appointment of a judge
 
-(2)  The appointed person holds office during good  behaviour  and  may  be  removed  by  the Governor in Council at any time for cause. The person is eligible to be re-appointed.
+19.1 (1) After consultation by the Prime Minister of Canada with the Leader of the Opposition in the House of Commons and the leader in the House of Commons of each party having at least twelve members in that House, the Governor in Council may appoint a retired judge of a superior court for a term of three to five years to perform the duties of the Review Committee described in subsections 19(4), (5) and (6).
 
-(3)  The  appointed  person  shall  be  paid,  for each day that the person performs duties under this  Act,  such  remuneration  as  is  fixed  by  the Governor in Council, and is entitled to be paid reasonable  travel  and  living  expenses  incurred in  the  course  of  their  duties  under  this  Act while absent from their ordinary place of residence.
+#### Tenure and re-appointment
+
+(2) The appointed person holds office during good behaviour and may be removed by the Governor in Council at any time for cause. The person is eligible to be re-appointed.
+
+#### Remuneration and expenses
+
+(3) The appointed person shall be paid, for each day that the person performs duties under this Act, such remuneration as is fixed by the Governor in Council, and is entitled to be paid reasonable travel and living expenses incurred in the course of their duties under this Act while absent from their ordinary place of residence.
 
 1997, c. 22, s. 2.
 
-19.2 (1)  The Minister may refer to the person  appointed  under  subsection  19.1(1)  any case that the Review Committee has ceased to investigate  under  subsection  19(4.1)  and,  in that case, the Minister must make a report described  in  subsection  19(2)  to  the  appointed person and send the notice described in subsection 19(3).
+### Referral
 
-(2)  Subsections  19(4),  (5)  and  (6)  apply  to the appointed person as if that person were the Review Committee.
+19.2 (1) The Minister may refer to the person appointed under subsection 19.1(1) any case that the Review Committee has ceased to investigate under subsection 19(4.1) and, in that case, the Minister must make a report described in subsection 19(2) to the appointed person and send the notice described in subsection 19(3).
+
+#### Application of subsections 19(4), (5) and (6)
+
+(2) Subsections 19(4), (5) and (6) apply to the appointed person as if that person were the Review Committee.
 
 1997, c. 22, s. 2.
 
-19.3 The person appointed under subsection 19.1(1) must, not later than September 30, submit to the Minister of Public Safety and Emergency Preparedness a report of the activities of the person during the preceding fiscal year and that  Minister  must  cause  the  report  to  be  laid before each House of Parliament on any of the neur en conseil; en même temps ou plus tard, il communique  à  l'intéressé  les  conclusions  du rapport.
+### Annual report
 
-L.R.  (1985),  ch.  C-29,  art.  19;  1992,  ch.  1,  art.  144(F); 1997, ch. 22, art. 1.
+19.3 The person appointed under subsection 19.1(1) must, not later than September 30, submit to the Minister of Public Safety and Emergency Preparedness a report of the activities of the person during the preceding fiscal year and that Minister must cause the report to be laid before each House of Parliament on any of the
 
-19.1 (1)  Le gouverneur en conseil peut nommer, pour une période de trois à cinq ans, un juge à la retraite d'une juridiction supérieure qu'il charge de remplir les fonctions du comité de surveillance prévues aux paragraphes 19(4), (5)  et  (6).  Cette  nomination  est  précédée  de consultations entre le premier ministre du Canada,  le  chef  de  l'opposition  à  la  Chambre des communes et le chef de chacun des partis qui y disposent d'au moins douze députés.
+neur en conseil; en même temps ou plus tard, il communique à l'intéressé les conclusions du rapport.
 
-(2)  La  personne  ainsi  nommée  occupe  son poste à titre inamovible, sous réserve de révocation  motivée  par  le  gouverneur  en  conseil. Elle peut recevoir un nouveau mandat.
+L.R. (1985), ch. C-29, art. 19; 1992, ch. 1, art. 144(F); 1997, ch. 22, art. 1.
 
-(3)  Elle reçoit, pour chaque  jour qu'elle exerce  ses  fonctions,  la  rémunération  que  fixe le gouverneur en conseil et est indemnisée des frais de déplacement et de séjour entraînés par l'accomplissement de celles-ci hors de son lieu de résidence.
-
-1997, ch. 22, art. 2.
-
-19.2 (1)  Le ministre peut saisir la personne nommée au titre du paragraphe 19.1(1) des cas à  l'égard  desquels  le  comité  de  surveillance  a mis  fin  à  son  enquête  en  application  du  paragraphe  19(4.1).  Le  cas  échéant,  il  adresse  à celle-ci  le  rapport  visé  au  paragraphe  19(2)  et envoie à l'intéressé l'avis prévu au paragraphe 19(3).
-
-(2)  Les  paragraphes  19(4),  (5)  et  (6)  s'appliquent à la personne ainsi nommée.
-
-1997, ch. 22, art. 2.
-
-19.3 Au  plus  tard  le  30  septembre,  la  personne  nommée  au  titre  du  paragraphe  19.1(1) présente au ministre de la Sécurité publique et de  la  Protection  civile  son  rapport  d'activité pour l'exercice précédant cette date. Ce dernier le fait déposer devant chaque chambre du Par-
 ### Nomination d'un juge à la retraite
+
+19.1 (1) Le gouverneur en conseil peut nommer, pour une période de trois à cinq ans, un juge à la retraite d'une juridiction supérieure qu'il charge de remplir les fonctions du comité de surveillance prévues aux paragraphes 19(4), (5) et (6). Cette nomination est précédée de consultations entre le premier ministre du Canada, le chef de l'opposition à la Chambre des communes et le chef de chacun des partis qui y disposent d'au moins douze députés.
+
 #### Occupation du poste et nouveau mandat
+
+(2) La personne ainsi nommée occupe son poste à titre inamovible, sous réserve de révocation motivée par le gouverneur en conseil. Elle peut recevoir un nouveau mandat.
+
 #### Rémunération et frais de déplacement et de séjour
+
+(3) Elle reçoit, pour chaque jour qu'elle exerce ses fonctions, la rémunération que fixe le gouverneur en conseil et est indemnisée des frais de déplacement et de séjour entraînés par l'accomplissement de celles-ci hors de son lieu de résidence.
+
+1997, ch. 22, art. 2.
+
 ### Renvoi
+
+19.2 (1) Le ministre peut saisir la personne nommée au titre du paragraphe 19.1(1) des cas à l'égard desquels le comité de surveillance a mis fin à son enquête en application du paragraphe 19(4.1). Le cas échéant, il adresse à celle-ci le rapport visé au paragraphe 19(2) et envoie à l'intéressé l'avis prévu au paragraphe 19(3).
+
 #### Application des paragraphes 19(4), (5) et (6)
 
+(2) Les paragraphes 19(4), (5) et (6) s'appliquent à la personne ainsi nommée.
+
+1997, ch. 22, art. 2.
+
 ### Rapport annuel
-### Declaration by the Governor in Council in matters of security
-#### Applications and appeals deemed rejected
-#### Expiration of declaration
-#### Further declaration
-#### Conclusive proof
-### Periods not counted as residence
-first 15 days on which that House is sitting after the day on which the Minister receives it.
+
+19.3 Au plus tard le 30 septembre, la personne nommée au titre du paragraphe 19.1(1) présente au ministre de la Sécurité publique et de la Protection civile son rapport d'activité pour l'exercice précédant cette date. Ce dernier le fait déposer devant chaque chambre du Par-
 
 18
 
@@ -1478,60 +1568,75 @@ first 15 days on which that House is sitting after the day on which the Minister
 
 [[START OF PAGE 23]]
 
-Citoyenneté - 6 février 2014
+Citoyenneté — 6 février 2014
+
+first 15 days on which that House is sitting after the day on which the Minister receives it.
 
 1997, c. 22, s. 2; 2005, c. 10, s. 14.
 
-20. (1)  Notwithstanding anything in this Act,  a  person  shall  not  be  granted  citizenship under section 5 or subsection 11(1) or administered the oath of citizenship or be issued a certificate  of  renunciation  under  section  9  where, after considering the report made under subsection 19(6) by the Review Committee or the person  appointed  under  subsection  19.1(1),  the Governor in Council declares that there are reasonable grounds to believe that the person with respect to whom the report was made will engage in an activity described in paragraph 19(2) ( a ) or ( b ).
+### Declaration by the Governor in Council in matters of security
 
-(2)  Where a person is the subject of a declaration made under subsection (1), any application  that  has  been  made  by  that  person  under section 5 or 9 or subsection 11(1) is deemed to be not approved and any appeal made by him under  subsection  14(5)  is  deemed  to  be  dismissed.
+20. (1) Notwithstanding anything in this Act, a person shall not be granted citizenship under section 5 or subsection 11(1) or administered the oath of citizenship or be issued a certificate of renunciation under section 9 where, after considering the report made under subsection 19(6) by the Review Committee or the person appointed under subsection 19.1(1), the Governor in Council declares that there are reasonable grounds to believe that the person with respect to whom the report was made will engage in an activity described in paragraph 19(2)(a) or (b).
 
-(3)  A declaration made under subsection (1) ceases to have effect two years after the day on which it was made.
+#### Applications and appeals deemed rejected
 
-(4)  Notwithstanding  that  a  declaration  has been  previously  made  under  subsection  20(1) with respect to a person, the Governor in Council  may,  after  considering  any  further  application made by that person, make a further declaration under that subsection with respect to that person.
+(2) Where a person is the subject of a declaration made under subsection (1), any application that has been made by that person under section 5 or 9 or subsection 11(1) is deemed to be not approved and any appeal made by him under subsection 14(5) is deemed to be dismissed.
 
-(5)  Notwithstanding anything in this Act or any  other  Act  of  Parliament,  a  declaration  by the Governor in Council under subsection (1) is conclusive of the matters stated therein in relation to an application for citizenship or for the issue of a certificate of renunciation.
+#### Expiration of declaration
+
+(3) A declaration made under subsection (1) ceases to have effect two years after the day on which it was made.
+
+#### Further declaration
+
+(4) Notwithstanding that a declaration has been previously made under subsection 20(1) with respect to a person, the Governor in Council may, after considering any further application made by that person, make a further declaration under that subsection with respect to that person.
+
+#### Conclusive proof
+
+(5) Notwithstanding anything in this Act or any other Act of Parliament, a declaration by the Governor in Council under subsection (1) is conclusive of the matters stated therein in relation to an application for citizenship or for the issue of a certificate of renunciation.
 
 R.S., 1985, c. C-29, s. 20; 1997, c. 22, s. 3.
 
-21. Notwithstanding anything in this Act, no period may be counted as a period of residence for the purpose of this Act during which a person  has  been,  pursuant  to  any  enactment  in force in Canada,
+### Periods not counted as residence
 
-( a )  under a probation order;
+21. Notwithstanding anything in this Act, no period may be counted as a period of residence for the purpose of this Act during which a person has been, pursuant to any enactment in force in Canada,
 
-( b )  a paroled inmate; or lement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+(a) under a probation order;
+
+(b) a paroled inmate; or
+
+lement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
 
 1997, ch. 22, art. 2; 2005, ch. 10, art. 14.
 
-20. (1)  Malgré  les  autres  dispositions  de  la présente loi, le gouverneur en conseil peut empêcher l'attribution de la citoyenneté demandée au titre de l'article 5 ou du paragraphe 11(1), la délivrance  du  certificat  de  répudiation  visé  à l'article  9  ou  la  prestation  du  serment  de  citoyenneté  en  déclarant,  après  avoir  étudié  le rapport fait en vertu du paragraphe 19(6) par le comité de surveillance ou la personne nommée au titre du paragraphe 19.1(1), qu'il existe des motifs  raisonnables  de  croire  que  la  personne visée dans ce rapport se livrera à des activités mentionnées aux alinéas 19(2) a ) ou b ).
-
-(2)  Une telle déclaration vaut rejet de la demande en cause et de tout appel éventuellement interjeté en vertu du paragraphe 14(5).
-
-(3)  La  déclaration  visée  au  paragraphe  (1) cesse  d'avoir  effet  deux  ans  après  la  date  où elle a été faite.
-
-(4)  L'existence  d'une  première  déclaration n'empêche  pas  le  gouverneur  en  conseil  d'en faire une autre, après examen de toute nouvelle demande faite par la personne visée.
-
-(5)  Malgré les autres dispositions de la présente loi ou toute autre loi fédérale, la déclaration  visée  au  paragraphe  (1)  fait  péremptoirement foi  de  son  contenu  en  ce  qui  a  trait  à  la demande de citoyenneté ou à la délivrance d'un certificat de répudiation.
-
-L.R. (1985), ch. C-29, art. 20; 1997, ch. 22, art. 3.
-
-21. Malgré les autres dispositions de la présente loi, ne sont pas prises en compte pour la durée de résidence les périodes où, en application d'une disposition législative en vigueur au Canada, l'intéressé :
-
-a )  a  été  sous  le  coup  d'une  ordonnance  de probation;
-
-b )  a  bénéficié  d'une  libération  conditionnelle;
-
 ### Déclaration du gouverneur en conseil en matière de sécurité
+
+20. (1) Malgré les autres dispositions de la présente loi, le gouverneur en conseil peut empêcher l'attribution de la citoyenneté demandée au titre de l'article 5 ou du paragraphe 11(1), la délivrance du certificat de répudiation visé à l'article 9 ou la prestation du serment de citoyenneté en déclarant, après avoir étudié le rapport fait en vertu du paragraphe 19(6) par le comité de surveillance ou la personne nommée au titre du paragraphe 19.1(1), qu'il existe des motifs raisonnables de croire que la personne visée dans ce rapport se livrera à des activités mentionnées aux alinéas 19(2)a) ou b).
 
 #### Effets
 
+(2) Une telle déclaration vaut rejet de la demande en cause et de tout appel éventuellement interjeté en vertu du paragraphe 14(5).
+
 #### Caducité de la déclaration
+
+(3) La déclaration visée au paragraphe (1) cesse d'avoir effet deux ans après la date où elle a été faite.
 
 #### Nouvelle déclaration
 
+(4) L'existence d'une première déclaration n'empêche pas le gouverneur en conseil d'en faire une autre, après examen de toute nouvelle demande faite par la personne visée.
+
 #### Preuve péremptoire
 
+(5) Malgré les autres dispositions de la présente loi ou toute autre loi fédérale, la déclaration visée au paragraphe (1) fait péremptoirement foi de son contenu en ce qui a trait à la demande de citoyenneté ou à la délivrance d'un certificat de répudiation.
+
+L.R. (1985), ch. C-29, art. 20; 1997, ch. 22, art. 3.
+
 ### Période ne comptant pas pour la résidence
-### Prohibition
+
+21. Malgré les autres dispositions de la présente loi, ne sont pas prises en compte pour la durée de résidence les périodes où, en application d'une disposition législative en vigueur au Canada, l'intéressé :
+
+a) a été sous le coup d'une ordonnance de probation;
+
+b) a bénéficié d'une libération conditionnelle;
 
 19
 
@@ -1539,61 +1644,67 @@ b )  a  bénéficié  d'une  libération  conditionnelle;
 
 [[START OF PAGE 24]]
 
-Citizenship - February 6, 2014
+Citizenship — February 6, 2014
 
-#### Prohibition
-
-( c )  confined  in  or  been  an  inmate  of  any penitentiary, jail, reformatory or prison.
+(c) confined in or been an inmate of any penitentiary, jail, reformatory or prison.
 
 1974-75-76, c. 108, s. 19.
 
-22. (1)  Despite  anything  in  this  Act,  a  person shall not be granted citizenship under subsection 5(1), (2) or (4) or 11(1) or take the oath of citizenship
+### Prohibition
 
-( a )  while the person is, pursuant to any enactment in force in Canada,
+22. (1) Despite anything in this Act, a person shall not be granted citizenship under subsection 5(1), (2) or (4) or 11(1) or take the oath of citizenship
 
-(i)  under a probation order,
+(a) while the person is, pursuant to any enactment in force in Canada,
 
-(ii)  a paroled inmate, or
+(i) under a probation order,
 
-(iii)  confined  in  or  is  an  inmate  of  any penitentiary, jail, reformatory or prison;
+(ii) a paroled inmate, or
 
-( b )  while the person is charged with, on trial for or subject to or a party to an appeal relating  to  an  offence  under  subsection  29(2)  or (3) or an indictable offence under any Act of Parliament, other than an offence that is designated as a contravention under the Contraventions Act ;
+(iii) confined in or is an inmate of any penitentiary, jail, reformatory or prison;
 
-( c )  while  the  person  is  under  investigation by the Minister of Justice, the Royal Canadian Mounted Police or the Canadian Security Intelligence  Service  for,  or  is  charged  with, on trial for, subject to or a party to an appeal relating to, an offence under any of sections 4 to 7 of the Crimes Against Humanity and War Crimes Act ;
+(b) while the person is charged with, on trial for or subject to or a party to an appeal relating to an offence under subsection 29(2) or (3) or an indictable offence under any Act of Parliament, other than an offence that is designated as a contravention under the Contraventions Act;
 
-( d )  if  the  person  has  been  convicted  of  an offence  under  any  of  sections  4  to  7  of  the Crimes  Against  Humanity  and  War  Crimes Act ;
+(c) while the person is under investigation by the Minister of Justice, the Royal Canadian Mounted Police or the Canadian Security Intelligence Service for, or is charged with, on trial for, subject to or a party to an appeal relating to, an offence under any of sections 4 to 7 of the Crimes Against Humanity and War Crimes Act;
 
-( e )  if the person has not obtained the authorization  to  return  to  Canada  required  under subsection  52(1)  of the Immigration  and Refugee Protection Act ; or
+(d) if the person has been convicted of an offence under any of sections 4 to 7 of the Crimes Against Humanity and War Crimes Act;
 
-( f )  if, during the five years immediately preceding  the  person's  application,  the  person ceased to be a citizen pursuant to subsection 10(1).
+(e) if the person has not obtained the authorization to return to Canada required under subsection 52(1) of the Immigration and Refugee Protection Act; or
 
-(2)  Despite anything in this Act, but subject to the Criminal Records Act , a person shall not be  granted  citizenship  under  subsection  5(1), (2)  or  (4)  or  11(1)  or  take  the  oath  of  citizenship if, c )  a été détenu dans un pénitencier, une prison ou une maison de correction.
+(f) if, during the five years immediately preceding the person's application, the person ceased to be a citizen pursuant to subsection 10(1).
+
+#### Prohibition
+
+(2) Despite anything in this Act, but subject to the Criminal Records Act, a person shall not be granted citizenship under subsection 5(1), (2) or (4) or 11(1) or take the oath of citizenship if,
+
+c) a été détenu dans un pénitencier, une prison ou une maison de correction.
 
 1974-75-76, ch. 108, art. 19.
 
-22. (1)  Malgré  les  autres  dispositions  de  la présente loi, nul ne peut recevoir la citoyenneté au  titre  des  paragraphes  5(1),  (2)  ou  (4)  ou 11(1) ni prêter le serment de citoyenneté :
-
-a )  pendant la période où, en application d'une  disposition  législative  en  vigueur  au Canada :
-
-(i)  il est sous le coup d'une ordonnance de probation,
-
-(ii)  il bénéficie d'une libération conditionnelle,
-
-(iii)  il est détenu dans un pénitencier, une prison ou une maison de correction;
-
-b )  tant  qu'il  est  inculpé  pour  une  infraction prévue aux paragraphes 29(2) ou (3) ou pour un  acte  criminel  prévu  par  une  loi  fédérale, autre  qu'une  infraction  qualifiée  de  contravention en vertu de la Loi sur les contraventions , et ce, jusqu'à la date d'épuisement des voies de recours;
-
-c )  tant qu'il fait l'objet d'une enquête menée par le ministre de la Justice, la Gendarmerie royale du Canada ou le Service canadien du renseignement  de  sécurité,  relativement  à une infraction visée à l'un des articles 4 à 7 de la Loi sur les crimes contre l'humanité et les crimes de guerre , ou tant qu'il est inculpé pour une telle infraction et ce, jusqu'à la date d'épuisement des voies de recours;
-
-d )  s'il  a  été  déclaré  coupable  d'une  infraction visée à l'un des articles 4 à 7 de la Loi sur les crimes contre l'humanité et les crimes de guerre ;
-
-e )  s'il  n'a  pas  obtenu  l'autorisation  requise préalablement à son retour au Canada par le paragraphe 52(1) de la Loi sur l'immigration et la protection des réfugiés ;
-
-f )  si, au cours des cinq années qui précèdent sa demande, il a cessé d'être citoyen en application du paragraphe 10(1).
-
-(2)  Malgré les autres dispositions de la présente loi, mais sous réserve de la Loi sur le casier judiciaire ,  nul ne peut recevoir la citoyenneté au titre des paragraphes 5(1), (2) ou (4) ou 11(1) ni prêter le serment de citoyenneté s'il a
 ### Interdiction
+
+22. (1) Malgré les autres dispositions de la présente loi, nul ne peut recevoir la citoyenneté au titre des paragraphes 5(1), (2) ou (4) ou 11(1) ni prêter le serment de citoyenneté :
+
+a) pendant la période où, en application d'une disposition législative en vigueur au Canada :
+
+(i) il est sous le coup d'une ordonnance de probation,
+
+(ii) il bénéficie d'une libération conditionnelle,
+
+(iii) il est détenu dans un pénitencier, une prison ou une maison de correction;
+
+b) tant qu'il est inculpé pour une infraction prévue aux paragraphes 29(2) ou (3) ou pour un acte criminel prévu par une loi fédérale, autre qu'une infraction qualifiée de contravention en vertu de la Loi sur les contraventions, et ce, jusqu'à la date d'épuisement des voies de recours;
+
+c) tant qu'il fait l'objet d'une enquête menée par le ministre de la Justice, la Gendarmerie royale du Canada ou le Service canadien du renseignement de sécurité, relativement à une infraction visée à l'un des articles 4 à 7 de la Loi sur les crimes contre l'humanité et les crimes de guerre, ou tant qu'il est inculpé pour une telle infraction et ce, jusqu'à la date d'épuisement des voies de recours;
+
+d) s'il a été déclaré coupable d'une infraction visée à l'un des articles 4 à 7 de la Loi sur les crimes contre l'humanité et les crimes de guerre;
+
+e) s'il n'a pas obtenu l'autorisation requise préalablement à son retour au Canada par le paragraphe 52(1) de la Loi sur l'immigration et la protection des réfugiés;
+
+f) si, au cours des cinq années qui précèdent sa demande, il a cessé d'être citoyen en application du paragraphe 10(1).
+
 #### Interdiction
+
+(2) Malgré les autres dispositions de la présente loi, mais sous réserve de la Loi sur le casier judiciaire, nul ne peut recevoir la citoyenneté au titre des paragraphes 5(1), (2) ou (4) ou 11(1) ni prêter le serment de citoyenneté s'il a
 
 20
 
@@ -1601,13 +1712,13 @@ f )  si, au cours des cinq années qui précèdent sa demande, il a cessé d'êt
 
 [[START OF PAGE 25]]
 
-Citoyenneté - 6 février 2014
+Citoyenneté — 6 février 2014
 
-( a )  during the three year period immediately preceding  the  date  of  the  person's  application, or
+(a) during the three year period immediately preceding the date of the person's application, or
 
-( b )  during the period between the date of the person's  application  and  the  date  that  the person  would  otherwise  be  granted  citizenship or take the oath of citizenship,
+(b) during the period between the date of the person's application and the date that the person would otherwise be granted citizenship or take the oath of citizenship,
 
-the person has been convicted of an offence under subsection 29(2) or (3) or of an indictable offence under any Act of Parliament, other than an offence that is designated as a contravention under the Contraventions Act .
+the person has been convicted of an offence under subsection 29(2) or (3) or of an indictable offence under any Act of Parliament, other than an offence that is designated as a contravention under the Contraventions Act.
 
 R.S., 1985, c. C-29, s. 22; R.S., 1985, c. 30 (3rd Supp.), s. 11; 1992, c. 47, s. 67, c. 49, s. 124; 1999, c. 31, s. 42; 2000, c. 24, s. 33; 2001, c. 27, s. 231; 2008, c. 14, s. 11.
 
@@ -1616,265 +1727,277 @@ R.S., 1985, c. C-29, s. 22; R.S., 1985, c. 30 (3rd Supp.), s. 11; 1992, c. 47, s
 ## ADMINISTRATION
 
 ### Delegation of authority
-23. Anything that is required to be done or that may be done by the Minister under this Act or the regulations may be done on behalf of the Minister by any person authorized by the Min- ister in writing to act on his behalf without proof of the authenticity of the authorization. 1974-75-76, c. 108, s. 21.
---- | ---
+
+23. Anything that is required to be done or that may be done by the Minister under this Act or the regulations may be done on behalf of the Minister by any person authorized by the Minister in writing to act on his behalf without proof of the authenticity of the authorization.
+
+1974-75-76, c. 108, s. 21.
+
 ### Requirement to take oath of citizenship
-24. Where a person is required under this Act to take the oath of citizenship, the person shall swear or affirm in the form set out in the schedule and in accordance with the regula- tions. 1974-75-76, c. 108, s. 23.
+
+24. Where a person is required under this Act to take the oath of citizenship, the person shall swear or affirm in the form set out in the schedule and in accordance with the regulations.
+
+1974-75-76, c. 108, s. 23.
+
 ### Evidence of declarations
-25. (1) Any declaration made under this Act or prior legislation or any regulations made thereunder may be proved in any legal proceed- ing by the production of the original declaration or of any copy thereof certified to be a true copy by the Minister, and the production of the declaration or copy is conclusive evidence of the contents thereof and of the person named therein as declarant having made the declara- tion at the date therein mentioned.
+
+25. (1) Any declaration made under this Act or prior legislation or any regulations made thereunder may be proved in any legal proceeding by the production of the original declaration or of any copy thereof certified to be a true copy by the Minister, and the production of the declaration or copy is conclusive evidence of the contents thereof and of the person named therein as declarant having made the declaration at the date therein mentioned.
+
 #### Evidence of certificates
+
 (2) A certificate of citizenship, a certificate of naturalization or a certificate of renunciation may be proved in any legal proceeding by the production of the original certificate or of a document that is certified by the Minister as bearing the same information as the original certificate.
 
 1974-75-76, c. 108, s. 24.
 
-été  déclaré  coupable  d'une  infraction  prévue aux paragraphes 29(2) ou (3) ou d'un acte criminel prévu par une loi fédérale, autre qu'une infraction  qualifiée  de  contravention  en  vertu de la Loi sur les contraventions :
+été déclaré coupable d'une infraction prévue aux paragraphes 29(2) ou (3) ou d'un acte criminel prévu par une loi fédérale, autre qu'une infraction qualifiée de contravention en vertu de la Loi sur les contraventions :
 
-a )  au cours des trois ans précédant la date de sa demande;
+a) au cours des trois ans précédant la date de sa demande;
 
-b )  entre la date de sa demande et celle prévue pour l'attribution de la citoyenneté ou la prestation du serment.
+b) entre la date de sa demande et celle prévue pour l'attribution de la citoyenneté ou la prestation du serment.
 
-L.R. (1985), ch. C-29, art. 22; L.R. (1985), ch. 30 (3 e suppl.), art. 11; 1992, ch. 47, art. 67, ch. 49, art. 124; 1999, ch. 31,  art.  42;  2000,  ch.  24,  art.  33;  2001,  ch.  27,  art.  231; 2008, ch. 14, art. 11.
+L.R. (1985), ch. C-29, art. 22; L.R. (1985), ch. 30 (3e suppl.), art. 11; 1992, ch. 47, art. 67, ch. 49, art. 124; 1999, ch. 31, art. 42; 2000, ch. 24, art. 33; 2001, ch. 27, art. 231; 2008, ch. 14, art. 11.
 
 ## PARTIE VI
 
 ## APPLICATION
 
-23. Le ministre peut déléguer, par écrit, les pouvoirs  qui  lui  sont  conférés  par  la  présente loi  ou ses règlements et il n'est pas nécessaire de prouver l'authenticité de la délégation.
+### Délégation de pouvoirs
+
+23. Le ministre peut déléguer, par écrit, les pouvoirs qui lui sont conférés par la présente loi ou ses règlements et il n'est pas nécessaire de prouver l'authenticité de la délégation.
 
 1974-75-76, ch. 108, art. 21.
 
-24. Le serment de citoyenneté est prêté dans les  termes  prescrits  par  l'annexe  et  selon  les modalités fixées par règlement.
+### Obligation de prêter le serment de citoyenneté
+
+24. Le serment de citoyenneté est prêté dans les termes prescrits par l'annexe et selon les modalités fixées par règlement.
 
 1974-75-76, ch. 108, art. 23.
 
-25. (1)  L'original ou une copie certifiée conforme par le ministre des déclarations faites sous le régime de la présente loi, de la législation antérieure ou de leurs règlements d'application  fait  péremptoirement  foi,  en  justice,  de leur  contenu,  de  l'identité  des  déclarants  et  de leur date.
-
-(2)  L'original  du  certificat  de  citoyenneté, de naturalisation ou de répudiation ou un document certifié équivalent par le ministre fait foi en justice.
-
-1974-75-76, ch. 108, art. 24.
-
-### Délégation de pouvoirs
-
-### Obligation de prêter le serment de citoyenneté
-
 ### Preuve des déclarations
 
+25. (1) L'original ou une copie certifiée conforme par le ministre des déclarations faites sous le régime de la présente loi, de la législation antérieure ou de leurs règlements d'application fait péremptoirement foi, en justice, de leur contenu, de l'identité des déclarants et de leur date.
+
 #### Preuve des certificats
+
+(2) L'original du certificat de citoyenneté, de naturalisation ou de répudiation ou un document certifié équivalent par le ministre fait foi en justice.
+
+1974-75-76, ch. 108, art. 24.
 
 21
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
-Citizenship - February 6, 2014
-
-### Citizenship judges
-
-#### Duties
-
-### Regulations
-
-26. (1)  The  Governor  in  Council  may  appoint any citizen to be a citizenship judge.
-
-(2)  In addition to his other duties set out in this Act, a citizenship judge shall perform such other duties as the Minister prescribes for carrying into effect the purposes and provisions of this Act.
-
-1974-75-76, c. 108, s. 25.
-
-27. The Governor in Council may make regulations
-
-( a )  prescribing the manner in which and the place  at  which  applications  are  to  be  made and  notices  are  to  be  given  under  this  Act and the evidence that is to be provided with respect to those applications and notices;
-
-( b )  respecting  fees  for  services  provided  in the  administration  of  this  Act,  and  cases  in which those fees may be waived;
-
-( c )  providing  for  the  remission  of  fees  referred to in paragraph ( b );
-
-( d )  providing for various criteria that may be applied to determine whether a person
-
-(i)  has  an  adequate  knowledge  of  one  of the official languages of Canada, or
-
-(ii)  has an adequate knowledge of Canada and  of  the  responsibilities  and  privileges of citizenship;
-
-(iii)  [Repealed, 2008, c. 14, s. 12]
-
-( d.1 )  providing for the factors to be considered  in  determining  whether  the  requirements set out in section 5.1 are met;
-
-( d.2 )  providing for the circumstances in which the Minister shall determine that any of the requirements of subsections 5.1(1) and (2) are met;
-
-( d.3 )  providing for the circumstances in which a review of an application under section 5.1 is suspended;
-
-( e )  prescribing the procedures  to be followed in  the  referral  of  applications  to  citizenship judges;
-
-( f )  prescribing the procedures to be followed by  citizenship  judges  in  the  performance  of their duties;
-
-( g )  prescribing the ceremonial procedures to be followed by citizenship judges;
-
-26. (1)  Le gouverneur en conseil peut nommer tout citoyen juge de la citoyenneté.
-
-(2)  En plus des fonctions que lui attribue la présente loi, le juge de la citoyenneté s'acquitte de celles que lui confie le ministre en vue de la mise en oeuvre de la présente loi.
-
-1974-75-76, ch. 108, art. 25.
-
-27. Le  gouverneur  en  conseil  peut,  par  règlement :
-
-a )  fixer  les  modalités  des  demandes  et  avis prévus  par  la  présente  loi,  le  lieu  où  ils doivent se faire ou se donner et préciser les éléments de preuve à produire à leur appui;
-
-b )  prendre des mesures concernant les droits à  acquitter  pour  les  services  offerts  dans  le cadre de l'application de la présente loi, ainsi que les cas de dispense de ces droits;
-
-c )  déterminer les cas d'exemption des droits mentionnés à l'alinéa b );
-
-d )  établir  les  divers  critères  permettant  de déterminer :
-
-(i)  la connaissance suffisante de l'une des langues officielles au Canada,
-
-(ii)  la  connaissance  suffisante  du  Canada et des responsabilités et avantages attachés à la citoyenneté;
-
-(iii)  [Abrogé, 2008, ch. 14, art. 12]
-
-d.1 )  prévoir  les  facteurs  à  considérer  pour établir si les conditions prévues à l'article 5.1 sont remplies;
-
-d.2 )  prévoir les circonstances dans lesquelles le ministre décide si l'une ou l'autre des conditions prévues aux paragraphes 5.1(1) ou (2) sont remplies;
-
-d.3 )  prévoir les circonstances dans lesquelles  l'examen  des  demandes  présentées en vertu de l'article 5.1 est suspendu;
-
-e )  fixer la procédure de saisine du juge de la citoyenneté;
-
-f )  fixer  la  procédure  à  suivre  par  le  juge  de la citoyenneté;
-
-g )  prévoir le cérémonial à suivre par le juge de la citoyenneté;
-
-h )  régir la prestation du serment de citoyenneté;
-
-### Juges de la citoyenneté
-
-#### Fonctions
-
-### Règlements
-### Laying of proposed regulations
+Citizenship — February 6, 2014
 
 22
 
+### Citizenship judges
+
+26. (1) The Governor in Council may appoint any citizen to be a citizenship judge.
+
+#### Duties
+
+(2) In addition to his other duties set out in this Act, a citizenship judge shall perform such other duties as the Minister prescribes for carrying into effect the purposes and provisions of this Act.
+
+1974-75-76, c. 108, s. 25.
+
+### Regulations
+
+27. The Governor in Council may make regulations
+
+(a) prescribing the manner in which and the place at which applications are to be made and notices are to be given under this Act and the evidence that is to be provided with respect to those applications and notices;
+
+(b) respecting fees for services provided in the administration of this Act, and cases in which those fees may be waived;
+
+(c) providing for the remission of fees referred to in paragraph (b);
+
+(d) providing for various criteria that may be applied to determine whether a person
+
+(i) has an adequate knowledge of one of the official languages of Canada, or
+
+(ii) has an adequate knowledge of Canada and of the responsibilities and privileges of citizenship;
+
+(iii) [Repealed, 2008, c. 14, s. 12]
+
+(d.1) providing for the factors to be considered in determining whether the requirements set out in section 5.1 are met;
+
+(d.2) providing for the circumstances in which the Minister shall determine that any of the requirements of subsections 5.1(1) and (2) are met;
+
+(d.3) providing for the circumstances in which a review of an application under section 5.1 is suspended;
+
+(e) prescribing the procedures to be followed in the referral of applications to citizenship judges;
+
+(f) prescribing the procedures to be followed by citizenship judges in the performance of their duties;
+
+(g) prescribing the ceremonial procedures to be followed by citizenship judges;
+
+### Juges de la citoyenneté
+
+26. (1) Le gouverneur en conseil peut nommer tout citoyen juge de la citoyenneté.
+
+#### Fonctions
+
+(2) En plus des fonctions que lui attribue la présente loi, le juge de la citoyenneté s'acquitte de celles que lui confie le ministre en vue de la mise en oeuvre de la présente loi.
+
+1974-75-76, ch. 108, art. 25.
+
+### Règlements
+
+27. Le gouverneur en conseil peut, par règlement :
+
+a) fixer les modalités des demandes et avis prévus par la présente loi, le lieu où ils doivent se faire ou se donner et préciser les éléments de preuve à produire à leur appui;
+
+b) prendre des mesures concernant les droits à acquitter pour les services offerts dans le cadre de l'application de la présente loi, ainsi que les cas de dispense de ces droits;
+
+c) déterminer les cas d'exemption des droits mentionnés à l'alinéa b);
+
+d) établir les divers critères permettant de déterminer :
+
+(i) la connaissance suffisante de l'une des langues officielles au Canada,
+
+(ii) la connaissance suffisante du Canada et des responsabilités et avantages attachés à la citoyenneté;
+
+(iii) [Abrogé, 2008, ch. 14, art. 12]
+
+d.1) prévoir les facteurs à considérer pour établir si les conditions prévues à l'article 5.1 sont remplies;
+
+d.2) prévoir les circonstances dans lesquelles le ministre décide si l'une ou l'autre des conditions prévues aux paragraphes 5.1(1) ou (2) sont remplies;
+
+d.3) prévoir les circonstances dans lesquelles l'examen des demandes présentées en vertu de l'article 5.1 est suspendu;
+
+e) fixer la procédure de saisine du juge de la citoyenneté;
+
+f) fixer la procédure à suivre par le juge de la citoyenneté;
+
+g) prévoir le cérémonial à suivre par le juge de la citoyenneté;
+
+h) régir la prestation du serment de citoyenneté;
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
-
-Citoyenneté - 6 février 2014
-
-#### Exception
-
-#### Making of regulations
-
-### User Fees Act
-
-( h )  respecting the taking of the oath of citizenship;
-
-( i )  providing for the number of copies of any certificate, declaration  or  other  document made or issued under this Act or prior legislation  or  any  regulations  made  thereunder that any person is entitled to have;
-
-( j )  providing for the surrender and retention of  certificates  of  citizenship,  certificates  of naturalization  or  certificates  of  renunciation issued or granted under this Act or prior legislation  or  any  regulations  made  thereunder if  there  is  reason  to  believe  that  the  holder thereof  may  not  be  entitled  thereto  or  has contravened  any  of  the  provisions  of  this Act;
-
-( j.1 )  providing  for  the  renunciation  of  citizenship  by  persons  who  are  citizens  under paragraph 3(1)( f ) or ( g );
-
-( k )  providing for the surrender and cancellation of certificates referred to in paragraph ( j ) where the holder thereof has ceased to be entitled thereto; and
-
-( l )  generally,  to  carry  out  the  purposes  and provisions of this Act.
-
-R.S., 1985, c. C-29, s. 27; 2007, c. 24, s. 3; 2008, c. 14, s. 12; 2013, c. 33, s. 170.
-
-27.1 (1)  The Minister shall cause a copy of each  regulation  proposed  to  be  made  under paragraph 27( d.1 ) to be laid before each House of  Parliament,  and  each  House  shall  refer  the proposed regulation to the appropriate Committee of that House.
-
-(2)  No  proposed  regulation  that  has  been laid under subsection (1) need again be laid under that subsection, whether or not it has been altered.
-
-(3)  The Governor in Council may make the regulation at any time after the proposed regulation has been laid before each House of Parliament under subsection (1).
-
-2007, c. 24, s. 3.1.
-
-27.2 The User Fees Act does not apply in respect  of  a  fee  for  services  provided  in  the  administration of this Act.
-
-2013, c. 33, s. 171.
-
-i )  préciser le nombre de copies de certificats, déclarations  ou  autres  documents  établis  ou délivrés en vertu de la présente loi ou de la législation antérieure ou de leurs règlements qu'une personne a le droit d'obtenir;
-
-j )  régir la restitution et la rétention des certificats de citoyenneté, de naturalisation ou de répudiation  délivrés  en  vertu  de  la  présente loi ou de la législation antérieure ou en application  de  leurs  règlements  lorsqu'il  y  a  des raisons de croire que leur titulaire n'y a peutêtre pas droit ou a enfreint la présente loi;
-
-j.1 )  régir la répudiation de la citoyenneté de quiconque  a  qualité  de  citoyen  au  titre  des alinéas 3(1) f ) ou g );
-
-k )  régir la restitution et l'annulation des certificats  mentionnés  à  l'alinéa j )  lorsque  leur titulaire a cessé d'y avoir droit;
-
-l )  prendre  toute  autre  mesure  d'application de la présente loi.
-
-L.R. (1985), ch. C-29, art. 27; 2007, ch. 24, art. 3; 2008, ch. 14, art. 12; 2013, ch. 33, art. 170.
-
-27.1 (1)  Le ministre fait déposer tout projet de  règlement  fondé  sur  l'alinéa  27 d.1 )  devant chaque chambre du Parlement; celle-ci renvoie le projet de règlement à son comité compétent.
-
-(2)  Il  n'est  pas  nécessaire  de  déposer  de nouveau le projet de règlement devant le Parlement même s'il a subi des modifications.
-
-(3)  Le gouverneur en conseil peut prendre le règlement après le dépôt du projet de règlement devant chaque chambre du Parlement.
-
-2007, ch. 24, art. 3.1.
-
-27.2 La Loi  sur  les  frais  d'utilisation ne s'applique  pas  aux  droits  à  acquitter  pour  les services  offerts  dans  le  cadre  de  l'application de la présente loi.
-
-2013, ch. 33, art. 171.
-
-### Dépôt des projets de règlement
-
-#### Modification du projet de règlement
-
-#### Prise du règlement
-
-### Loi sur les frais d'utilisation
+Citoyenneté — 6 février 2014
 
 23
 
+(h) respecting the taking of the oath of citizenship;
+
+(i) providing for the number of copies of any certificate, declaration or other document made or issued under this Act or prior legislation or any regulations made thereunder that any person is entitled to have;
+
+(j) providing for the surrender and retention of certificates of citizenship, certificates of naturalization or certificates of renunciation issued or granted under this Act or prior legislation or any regulations made thereunder if there is reason to believe that the holder thereof may not be entitled thereto or has contravened any of the provisions of this Act;
+
+(j.1) providing for the renunciation of citizenship by persons who are citizens under paragraph 3(1)(f) or (g);
+
+(k) providing for the surrender and cancellation of certificates referred to in paragraph (j) where the holder thereof has ceased to be entitled thereto; and
+
+(l) generally, to carry out the purposes and provisions of this Act.
+
+R.S., 1985, c. C-29, s. 27; 2007, c. 24, s. 3; 2008, c. 14, s. 12; 2013, c. 33, s. 170.
+
+### Laying of proposed regulations
+
+27.1 (1) The Minister shall cause a copy of each regulation proposed to be made under paragraph 27(d.1) to be laid before each House of Parliament, and each House shall refer the proposed regulation to the appropriate Committee of that House.
+
+#### Exception
+
+(2) No proposed regulation that has been laid under subsection (1) need again be laid under that subsection, whether or not it has been altered.
+
+#### Making of regulations
+
+(3) The Governor in Council may make the regulation at any time after the proposed regulation has been laid before each House of Parliament under subsection (1).
+
+2007, c. 24, s. 3.1.
+
+### User Fees Act
+
+27.2 The User Fees Act does not apply in respect of a fee for services provided in the administration of this Act.
+
+2013, c. 33, s. 171.
+
+i) préciser le nombre de copies de certificats, déclarations ou autres documents établis ou délivrés en vertu de la présente loi ou de la législation antérieure ou de leurs règlements qu'une personne a le droit d'obtenir;
+
+j) régir la restitution et la rétention des certificats de citoyenneté, de naturalisation ou de répudiation délivrés en vertu de la présente loi ou de la législation antérieure ou en application de leurs règlements lorsqu'il y a des raisons de croire que leur titulaire n'y a peut-être pas droit ou a enfreint la présente loi;
+
+j.1) régir la répudiation de la citoyenneté de quiconque a qualité de citoyen au titre des alinéas 3(1)f) ou g);
+
+k) régir la restitution et l'annulation des certificats mentionnés à l'alinéa j) lorsque leur titulaire a cessé d'y avoir droit;
+
+l) prendre toute autre mesure d'application de la présente loi.
+
+L.R. (1985), ch. C-29, art. 27; 2007, ch. 24, art. 3; 2008, ch. 14, art. 12; 2013, ch. 33, art. 170.
+
+### Dépôt des projets de règlement
+
+27.1 (1) Le ministre fait déposer tout projet de règlement fondé sur l'alinéa 27d.1) devant chaque chambre du Parlement; celle-ci renvoie le projet de règlement à son comité compétent.
+
+#### Modification du projet de règlement
+
+(2) Il n'est pas nécessaire de déposer de nouveau le projet de règlement devant le Parlement même s'il a subi des modifications.
+
+#### Prise du règlement
+
+(3) Le gouverneur en conseil peut prendre le règlement après le dépôt du projet de règlement devant chaque chambre du Parlement.
+
+2007, ch. 24, art. 3.1.
+
+### Loi sur les frais d'utilisation
+
+27.2 La Loi sur les frais d'utilisation ne s'applique pas aux droits à acquitter pour les services offerts dans le cadre de l'application de la présente loi.
+
+2013, ch. 33, art. 171.
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+Citizenship — February 6, 2014
 
-Citizenship - February 6, 2014
-
-28. The Minister may prescribe the forms of
+24
 
 ### Powers of Minister
-applications,  certificates  and  other  documents required for the purposes of this Act. 1974-75-76, c. 108, s. 27.
+
+28. The Minister may prescribe the forms of applications, certificates and other documents required for the purposes of this Act.
+
+1974-75-76, c. 108, s. 27.
 
 ## PART VII
 
 ## OFFENCES
 
-29. (1)  For the purposes  of  this section, 'certificate'  means  a  certificate  of  citizenship, a certificate of naturalization or a certificate of renunciation.
+### Definition of “certificate”
 
-(2)  A person who
-
-( a )  for any of the purposes of this Act makes any  false  representation,  commits  fraud  or knowingly  conceals  any  material  circumstances,
-
-( b )  obtains  or  uses  a  certificate  of  another person  in  order  to  personate  that  other  person,
-
-( c )  knowingly  permits  his  certificate  to  be used by another person to personate himself, or
-
-( d )  traffics  in  certificates  or  has  in  his  possession any certificate for the purpose of trafficking,
-
-is  guilty  of  an  offence  and  liable  on  summary conviction to a fine not exceeding one thousand dollars  or  to  imprisonment  for  a  term  not  exceeding one year or to both.
-
-(3)  A person who
-
-( a )  without  lawful  authority  issues  or  alters a certificate,
-
-( b )  counterfeits a certificate, or
-
-( c )  uses,  acts  on  or  causes  or  attempts  to cause  any  person  to  use  or  act  on  a  certificate, knowing it to have been unlawfully issued or altered or to have been counterfeited,
-
-is guilty of an indictable offence and liable to a fine  not  exceeding  five  thousand  dollars  or  to imprisonment  for  a  term  not  exceeding  three years or to both.
-
-#### Idem
-(4)  A person who contravenes any provision of this Act or the regulations for the contravention  of  which  no  fine  or  imprisonment  is  pro-
-
-### Definition of 'certificate'
+29. (1) For the purposes of this section, “certificate” means a certificate of citizenship, a certificate of naturalization or a certificate of renunciation.
 
 #### Offences and punishment
 
+(2) A person who
+
+(a) for any of the purposes of this Act makes any false representation, commits fraud or knowingly conceals any material circumstances,
+
+(b) obtains or uses a certificate of another person in order to personate that other person,
+
+(c) knowingly permits his certificate to be used by another person to personate himself, or
+
+(d) traffics in certificates or has in his possession any certificate for the purpose of trafficking,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding one year or to both.
+
 #### Idem
 
-28. Le  ministre  peut  prescrire  les  formules des demandes, des certificats et des autres documents requis pour l'application de la présente loi.
+(3) A person who
+
+(a) without lawful authority issues or alters a certificate,
+
+(b) counterfeits a certificate, or
+
+(c) uses, acts on or causes or attempts to cause any person to use or act on a certificate, knowing it to have been unlawfully issued or altered or to have been counterfeited,
+
+is guilty of an indictable offence and liable to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding three years or to both.
+
+#### Idem
+
+(4) A person who contravenes any provision of this Act or the regulations for the contravention of which no fine or imprisonment is pro-
+
+### Pouvoirs du ministre
+
+28. Le ministre peut prescrire les formules des demandes, des certificats et des autres documents requis pour l'application de la présente loi.
 
 1974-75-76, ch. 108, art. 27.
 
@@ -1882,55 +2005,57 @@ is guilty of an indictable offence and liable to a fine  not  exceeding  five  t
 
 ## INFRACTIONS
 
-29. (1)  Au présent article, « certificat » s'entend  du  certificat  de  citoyenneté,  de  celui de naturalisation ou de celui de répudiation.
-
-(2)  Commet  une  infraction  et  encourt,  sur déclaration  de  culpabilité  par  procédure  sommaire,  une  amende  maximale  de  mille  dollars et  un  emprisonnement  maximal  d'un  an,  ou l'une de ces peines, quiconque :
-
-a )  dans  le  cadre  de  la  présente  loi,  fait  une fausse  déclaration,  commet  une  fraude  ou dissimule intentionnellement des faits essentiels;
-
-b )  obtient ou utilise le certificat d'une autre personne en vue de se faire passer pour elle;
-
-c )  permet  sciemment  que  son  certificat  soit utilisé  par  une  autre  personne  pour  se  faire passer pour lui;
-
-d )  fait  le  trafic  de  certificats  ou  en  a  en  sa possession à cette intention.
-
-(3)  Commet  une  infraction  et  encourt,  sur déclaration  de  culpabilité  par  mise  en  accusation,  une  amende maximale de cinq mille dollars  et  un  emprisonnement  maximal  de  trois ans, ou l'une de ces peines, quiconque :
-
-a )  sans autorisation légale, délivre ou modifie un certificat;
-
-b )  contrefait un certificat;
-
-c )  sachant qu'il a été illégalement délivré ou modifié ou qu'il a été contrefait, se sert d'un certificat, en permet l'utilisation ou incite ou tente d'inciter une autre personne à s'en servir ou à en permettre l'utilisation.
-
-(4)  Quiconque contrevient à une disposition de la présente loi ou de ses règlements pour la violation de laquelle aucune peine n'est prévue
-### Pouvoirs du ministre
 ### Définition de « certificat »
+
+29. (1) Au présent article, « certificat » s'entend du certificat de citoyenneté, de celui de naturalisation ou de celui de répudiation.
 
 #### Infractions et peines
 
-#### Idem
+(2) Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de mille dollars et un emprisonnement maximal d'un an, ou l'une de ces peines, quiconque :
+
+a) dans le cadre de la présente loi, fait une fausse déclaration, commet une fraude ou dissimule intentionnellement des faits essentiels;
+
+b) obtient ou utilise le certificat d'une autre personne en vue de se faire passer pour elle;
+
+c) permet sciemment que son certificat soit utilisé par une autre personne pour se faire passer pour lui;
+
+d) fait le trafic de certificats ou en a en sa possession à cette intention.
 
 #### Idem
-### Where offence is committed outside Canada
-#### Jurisdiction
-### Limitation period
-vided in this Act is guilty of an offence punishable on summary conviction.
 
-24
+(3) Commet une infraction et encourt, sur déclaration de culpabilité par mise en accusation, une amende maximale de cinq mille dollars et un emprisonnement maximal de trois ans, ou l'une de ces peines, quiconque :
 
+a) sans autorisation légale, délivre ou modifie un certificat;
+
+b) contrefait un certificat;
+
+c) sachant qu'il a été illégalement délivré ou modifié ou qu'il a été contrefait, se sert d'un certificat, en permet l'utilisation ou incite ou tente d'inciter une autre personne à s'en servir ou à en permettre l'utilisation.
+
+#### Idem
+
+(4) Quiconque contrevient à une disposition de la présente loi ou de ses règlements pour la violation de laquelle aucune peine n'est prévue
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+Citoyenneté — 6 février 2014
 
-Citoyenneté - 6 février 2014
+25
+
+vided in this Act is guilty of an offence punishable on summary conviction.
 
 1974-75-76, c. 108, s. 28.
 
-30. (1)  An  act  or  omission  that  would,  if committed in Canada, be an offence under this Act is, if committed outside Canada, an offence under this Act.
+### Where offence is committed outside Canada
 
-(2)  Where  a  person  has  committed  outside Canada  an  act  or  omission  that  is  an  offence under this Act, the offence is within the competence of and may be tried and punished by any court  having  jurisdiction  in  respect  of  similar offences in the place in Canada where that person  is  found  in  the  same  manner  as  if  the  offence had been committed in that place, or by any other court to which jurisdiction has been lawfully transferred.
+30. (1) An act or omission that would, if committed in Canada, be an offence under this Act is, if committed outside Canada, an offence under this Act.
+
+#### Jurisdiction
+
+(2) Where a person has committed outside Canada an act or omission that is an offence under this Act, the offence is within the competence of and may be tried and punished by any court having jurisdiction in respect of similar offences in the place in Canada where that person is found in the same manner as if the offence had been committed in that place, or by any other court to which jurisdiction has been lawfully transferred.
 
 1974-75-76, c. 108, s. 29.
+
+### Limitation period
 
 31. Any proceedings in respect of an offence under this Act or the regulations that is punishable on summary conviction may be instituted at any time within but not later than three years after the time when the offence was committed.
 
@@ -1940,17 +2065,43 @@ Citoyenneté - 6 février 2014
 
 ## STATUS OF PERSONS IN CANADA
 
-commet  une  infraction  punissable  par  procédure sommaire.
+### Citizen of the Commonwealth
+
+32. (1) Every person who, under an enactment of a Commonwealth country other than Canada, is a citizen or national of that country has in Canada the status of a citizen of the Commonwealth.
+
+#### British subject
+
+(2) For the purposes of any law in force in Canada on and after February 15, 1977 that refers to the status of British subject, the status so described shall refer to the status of Canadian citizen or citizen of the Commonwealth or both as the intent of that law may require.
+
+1974-75-76, c. 108, s. 31.
+
+### Citizen of Ireland
+
+33. Any law of Canada and any regulation made thereunder shall, unless it otherwise provides, have effect in relation to a citizen of Ireland who is not a citizen of the Commonwealth in like manner as it has in relation to a citizen of the Commonwealth.
+
+1974-75-76, c. 108, s. 32.
+
+### Rights
+
+34. Subject to section 35,
+
+commet une infraction punissable par procédure sommaire.
 
 1974-75-76, ch. 108, art. 28.
 
-30. (1)  Toute  violation  de  la  présente  loi commise à l'étranger a valeur d'infraction commise au Canada.
+### Infraction commise à l'étranger
 
-(2)  Quiconque contrevient à la présente loi à l'étranger peut être jugé et puni par tout tribunal compétent pour connaître de l'infraction au lieu  du  Canada où il se trouve, tout comme si l'infraction avait été commise en ce lieu, ou par tout  autre  tribunal  auquel  cette  compétence  a été légalement transférée.
+30. (1) Toute violation de la présente loi commise à l'étranger a valeur d'infraction commise au Canada.
+
+#### Compétence
+
+(2) Quiconque contrevient à la présente loi à l'étranger peut être jugé et puni par tout tribunal compétent pour connaître de l'infraction au lieu du Canada où il se trouve, tout comme si l'infraction avait été commise en ce lieu, ou par tout autre tribunal auquel cette compétence a été légalement transférée.
 
 1974-75-76, ch. 108, art. 29.
 
-31. Les poursuites visant une infraction à la présente  loi  ou  aux  règlements  punissable  par procédure sommaire se prescrivent par trois ans à compter de sa perpétration.
+### Prescription
+
+31. Les poursuites visant une infraction à la présente loi ou aux règlements punissable par procédure sommaire se prescrivent par trois ans à compter de sa perpétration.
 
 1974-75-76, ch. 108, art. 30.
 
@@ -1958,195 +2109,199 @@ commet  une  infraction  punissable  par  procédure sommaire.
 
 ## DIFFÉRENTS STATUTS PERSONNELS AU CANADA
 
-### Citizen of the Commonwealth
-32. (1) Every person who, under an enact- ment of a Commonwealth country other than Canada, is a citizen or national of that country has in Canada the status of a citizen of the Commonwealth. | 32. (1) Les personnes qui, dans un autre pays du Commonwealth, jouissent du statut lé- gal de citoyen ou ressortissant de ce pays ont, au Canada, le statut de citoyen du Common- wealth. | Citoyen
---- | --- | --- | ---
-#### British subject
-(2) For the purposes of any law in force in Canada on and after February 15, 1977 that refers to the status of British subject, the status so described shall refer to the status of Canadi- an citizen or citizen of the Commonwealth or both as the intent of that law may require. 1974-75-76, c. 108, s. 31. | (2) Dans toute disposition législative qui continue de s'appliquer au Canada après le 14 février 1977, la mention du statut de sujet bri- tannique vaut mention de celui de citoyen cana- dien ou de citoyen du Commonwealth ou des deux, selon l'esprit de la disposition en ques- tion.
+### Citoyen du Commonwealth
+
+32. (1) Les personnes qui, dans un autre pays du Commonwealth, jouissent du statut légal de citoyen ou ressortissant de ce pays ont, au Canada, le statut de citoyen du Commonwealth.
+
 #### Sujet britannique
-### Citizen of Ireland
-33. Any law of Canada and any regulation made thereunder shall, unless it otherwise pro- vides, have effect in relation to a citizen of Ire- land who is not a citizen of the Commonwealth in like manner as it has in relation to a citizen of the Commonwealth. 1974-75-76, c. 108, s. 32. | 33. Pour l'application des lois du Canada et de leurs règlements d'application, le citoyen ir- landais qui n'est pas citoyen du Common- wealth y est assimilé, sauf disposition contraire du texte. 1974-75-76, ch. 108, art. 32.
+
+(2) Dans toute disposition législative qui continue de s'appliquer au Canada après le 14 février 1977, la mention du statut de sujet britannique vaut mention de celui de citoyen canadien ou de citoyen du Commonwealth ou des deux, selon l'esprit de la disposition en question.
+
+1974-75-76, ch. 108, art. 31.
+
 ### Citoyens irlandais
-### Rights
-34. Subject to section 35, | 34. Sous réserve de l'article 35 :
+
+33. Pour l'application des lois du Canada et de leurs règlements d'application, le citoyen irlandais qui n'est pas citoyen du Commonwealth y est assimilé, sauf disposition contraire du texte.
+
+1974-75-76, ch. 108, art. 32.
+
 ### Droits
 
-### Infraction commise à l'étranger
-
-#### Compétence
-
-### Prescription
-
-### Citoyen du Commonwealth
-### Authority to prohibit or restrict acquisitions of property in a province by nonCanadians
-
-25
-
+34. Sous réserve de l'article 35 :
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
-
-Citizenship - February 6, 2014
-
-( a )  real  and  personal  property  of  every  description  may  be  taken,  acquired,  held  and disposed of by a person who is not a citizen in the same manner in all respects as by a citizen; and
-
-( b )  a  title  to  real  and  personal  property  of every  description  may  be  derived  through, from or in succession to a person who is not a  citizen  in  the  same  manner  in  all  respects as though through, from or in succession to a citizen.
-
-1974-75-76, c. 108, s. 33.
-
-35. (1)  Subject  to  subsection  (3),  the  Lieutenant  Governor  in  Council  of  a  province  or such other  person  or  authority  in  the  province as is designated by the Lieutenant Governor in Council thereof is authorized to prohibit, annul or in any manner restrict the taking or acquisition directly or indirectly of, or the succession to,  any  interest  in  real  property  located  in  the province by persons who are not citizens or by corporations or associations that are effectively controlled by persons who are not citizens.
-
-#### Regulations
-province  may  make  regulations  applicable  in
-
-(2)  The Lieutenant Governor in Council of a the province for the purposes of determining
-
-( a )  what  transactions  constitute  a  direct  or an indirect taking or acquisition of any interest in real property located in the province;
-
-( b )  what  constitutes  effective  control  of  a corporation  or  association  by  persons  who are not citizens; and
-
-( c )  what constitutes an association.
-
-(3)  Subsections (1) and (2) do not operate so as to authorize or permit the Lieutenant Governor in Council of a province, or such other person  or  authority  as  is  designated  by  the  Lieutenant  Governor  in  Council  thereof,  to  make any decision or take any action that
-
-( a )  prohibits, annuls or restricts the taking or acquisition  directly  or  indirectly  of,  or  the succession  to,  any  interest  in  real  property located in a province by a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act ;
-
-( b )  conflicts  with  any  legal  obligation  of Canada under any international law, custom or agreement;
-
-#### Restriction
-a )  le  non-citoyen  peut  acquérir,  détenir  ou aliéner  des  biens  meubles  ou  immeubles  de toute nature au même titre que le citoyen;
-
-b )  le  non-citoyen  peut  transmettre  un  titre afférent  à  des  biens  meubles  ou  immeubles de toute nature soit directement, soit en servant d'intermédiaire, soit par voie de succession, au même titre que le citoyen.
-
-1974-75-76, ch. 108, art. 33.
-
-35. (1)  Le  lieutenant-gouverneur en conseil d'une  province,  ou  la  personne  ou  l'autorité qu'il désigne, peut, sous réserve du paragraphe (3), interdire, annuler ou limiter de quelque façon que ce soit l'acquisition directe ou indirecte notamment par dévolution successorale de droits  sur  des  biens  immeubles  situés  dans  la province par des non-citoyens ou par des personnes morales ou associations qui sont en fait contrôlées par des non-citoyens.
-
-(2)  Le lieutenant-gouverneur en conseil peut, par règlement, définir :
-
-a )  les opérations qui constituent une acquisition,  directe  ou  indirecte,  de  droits  sur  des biens immeubles situés dans la province;
-
-b )  ce  qu'il  faut  entendre  par  «  personnes morales ou associations en fait contrôlées par des non-citoyens »;
-
-c )  la notion d'association.
-
-(3)  Les paragraphes (1) et (2) n'ont pas pour effet  de  permettre  au  lieutenant-gouverneur  en conseil,  ou  à  la  personne  ou  autorité  qu'il  désigne, de prendre des décisions ou mesures visant à :
-
-a )  appliquer  les  restrictions  en  matière  de biens  immeubles  aux  résidents  permanents au  sens  du  paragraphe  2(1)  de  la Loi  sur l'immigration et la protection des réfugiés ;
-
-b )  faire  obstacle  à  l'exécution  des  obligations imposées au Canada, sur le plan international,  par  le  droit,  la  coutume  ou  une convention;
-
-c )  établir  des  distinctions  entre  les  non-citoyens en fonction de leur nationalité, sauf si
-### Interdiction ou limitation visant les nonCanadiens
-#### Règlements
-#### Réserve
-### Offences and punishment
-#### Officers, etc., of corporations
-### Coming into force
-### Disabilities
+Citizenship — February 6, 2014
 
 26
 
-[[END OF PAGE 30]]
+(a) real and personal property of every description may be taken, acquired, held and disposed of by a person who is not a citizen in the same manner in all respects as by a citizen; and
 
-[[START OF PAGE 31]]
-
-Citoyenneté - 6 février 2014
-
-( c )  discriminates  as  between  persons  who are not citizens on the basis of their nationalities,  except  in  so  far  as  more  favourable treatment is required by any legal obligation of  Canada under any international law, custom or agreement;
-
-( d )  hinders any foreign state in taking or acquiring  real  property  located  in  a  province for diplomatic or consular purposes; or
-
-( e )  prohibits, annuls or restricts the taking or acquisition directly or indirectly of any interest in real property located in a province by any person in the course or as a result of an investment that the Minister is satisfied or is deemed to be satisfied is likely to be of net benefit to Canada under the Investment Canada Act .
-
-R.S., 1985, c. C-29, s. 35; R.S., 1985, c. 28 (1st Supp.), s. 49; 2001, c. 27, s. 232.
-
-36. (1)  Every  person  who  fails  to  comply with  any  prohibition,  annulment  or  restriction made pursuant to subsection 35(1) is guilty of an offence and liable on summary conviction to a fine not exceeding ten thousand dollars or to imprisonment  for  a  term  not  exceeding  one year or to both.
-
-(2)  Where a corporation commits an offence under  subsection  (1),  any  officer,  director  or agent  of  the  corporation  who  directed,  authorized, assented to, acquiesced in or participated in  the  commission of the offence is a party to and guilty of the offence and is liable on conviction  to  the  punishment  provided  for  the  offence whether or not the corporation has been prosecuted or convicted.
+(b) a title to real and personal property of every description may be derived through, from or in succession to a person who is not a citizen in the same manner in all respects as though through, from or in succession to a citizen.
 
 1974-75-76, c. 108, s. 33.
 
-37. Sections 35 and 36 shall come into force in  any  of  the  Provinces  of  Ontario,  Quebec, Nova Scotia, New Brunswick, British Columbia, Prince Edward Island, Saskatchewan and Newfoundland or in Yukon, the Northwest Territories or Nunavut on a day fixed  in  a  proclamation  of  the  Governor  in Council declaring those sections to be in force in that Province or any of those territories.
+### Authority to prohibit or restrict acquisitions of property in a province by non-Canadians
 
-R.S., 1985, c. C-29, s. 37; 1993, c. 28, s. 78; 2002, c. 7, s. 131.
+35. (1) Subject to subsection (3), the Lieutenant Governor in Council of a province or such other person or authority in the province as is designated by the Lieutenant Governor in Council thereof is authorized to prohibit, annul or in any manner restrict the taking or acquisition directly or indirectly of, or the succession to, any interest in real property located in the province by persons who are not citizens or by corporations or associations that are effectively controlled by persons who are not citizens.
 
-38. Sections 34 and 35 do not operate so as to les  obligations  imposées  au  Canada,  sur  le plan international, par le droit, la coutume ou une convention exigent de sa part un traitement privilégié à leur égard;
+#### Regulations
 
-d )  empêcher  tout  État  étranger  d'acquérir des  biens  immeubles  situés  dans  une  province pour un usage diplomatique ou consulaire;
+(2) The Lieutenant Governor in Council of a province may make regulations applicable in the province for the purposes of determining
 
-e )  appliquer  les  restrictions  en  matière  de biens immeubles aux investissements au sujet  desquels  le  ministre  est  d'avis  ou  est  réputé être d'avis aux termes de la Loi sur Investissement Canada qu'ils seront vraisemblablement à l'avantage net du Canada.
+(a) what transactions constitute a direct or an indirect taking or acquisition of any interest in real property located in the province;
 
-L.R. (1985), ch. C-29, art. 35; L.R. (1985), ch. 28 (1 er suppl.), art. 49; 2001, ch. 27, art. 232.
+(b) what constitutes effective control of a corporation or association by persons who are not citizens; and
 
-36. (1)  Quiconque  contrevient  à  une  interdiction,  annulation  ou  limitation  édictée  aux termes du paragraphe 35(1) commet une infraction  et  encourt,  sur  déclaration  de  culpabilité par  procédure  sommaire,  une  amende  maximale de dix mille dollars et un emprisonnement maximal d'un an, ou l'une de ces peines.
+(c) what constitutes an association.
 
-(2)  En cas de perpétration par une personne morale  de  l'infraction  prévue  au  paragraphe (1),  ceux  de  ses  dirigeants,  administrateurs  ou mandataires qui l'ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme  des  coauteurs  de  l'infraction  et  encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+#### Restriction
+
+(3) Subsections (1) and (2) do not operate so as to authorize or permit the Lieutenant Governor in Council of a province, or such other person or authority as is designated by the Lieutenant Governor in Council thereof, to make any decision or take any action that
+
+(a) prohibits, annuls or restricts the taking or acquisition directly or indirectly of, or the succession to, any interest in real property located in a province by a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act;
+
+(b) conflicts with any legal obligation of Canada under any international law, custom or agreement;
+
+a) le non-citoyen peut acquérir, détenir ou aliéner des biens meubles ou immeubles de toute nature au même titre que le citoyen;
+
+b) le non-citoyen peut transmettre un titre afférent à des biens meubles ou immeubles de toute nature soit directement, soit en servant d'intermédiaire, soit par voie de succession, au même titre que le citoyen.
 
 1974-75-76, ch. 108, art. 33.
 
-37. Les articles 35 et 36 entrent en vigueur dans l'une ou l'autre des provinces d'Ontario, de Québec,  de  la  Nouvelle-Écosse,  du  NouveauBrunswick, de la Colombie-Britannique,  de l'Île-du-Prince-Édouard, de la Saskatchewan ou de  Terre-Neuve,  ou  au  Yukon,  dans  les  Territoires du Nord-Ouest ou au Nunavut, à la date fixée par proclamation du gouverneur en conseil à cet effet.
+### Interdiction ou limitation visant les non-Canadiens
 
-### Infractions et peines
+35. (1) Le lieutenant-gouverneur en conseil d'une province, ou la personne ou l'autorité qu'il désigne, peut, sous réserve du paragraphe (3), interdire, annuler ou limiter de quelque façon que ce soit l'acquisition directe ou indirecte notamment par dévolution successorale de droits sur des biens immeubles situés dans la province par des non-citoyens ou par des personnes morales ou associations qui sont en fait contrôlées par des non-citoyens.
 
-#### Personnes morales et leurs dirigeants, etc.
+#### Règlements
 
-### Entrée en vigueur
+(2) Le lieutenant-gouverneur en conseil peut, par règlement, définir :
 
-L.R. (1985), ch. C-29, art. 37; 1993, ch. 28, art. 78; 2002, ch. 7, art. 131.
+a) les opérations qui constituent une acquisition, directe ou indirecte, de droits sur des biens immeubles situés dans la province;
 
-38. Les articles 34 et 35 n'ont pas les effets suivants :
-### Incapacités
-### Trial
+b) ce qu'il faut entendre par « personnes morales ou associations en fait contrôlées par des non-citoyens »;
+
+c) la notion d'association.
+
+#### Réserve
+
+(3) Les paragraphes (1) et (2) n'ont pas pour effet de permettre au lieutenant-gouverneur en conseil, ou à la personne ou autorité qu'il désigne, de prendre des décisions ou mesures visant à :
+
+a) appliquer les restrictions en matière de biens immeubles aux résidents permanents au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés;
+
+b) faire obstacle à l'exécution des obligations imposées au Canada, sur le plan international, par le droit, la coutume ou une convention;
+
+c) établir des distinctions entre les non-citoyens en fonction de leur nationalité, sauf si
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+Citoyenneté — 6 février 2014
 
 27
 
+(c) discriminates as between persons who are not citizens on the basis of their nationalities, except in so far as more favourable treatment is required by any legal obligation of Canada under any international law, custom or agreement;
+
+(d) hinders any foreign state in taking or acquiring real property located in a province for diplomatic or consular purposes; or
+
+(e) prohibits, annuls or restricts the taking or acquisition directly or indirectly of any interest in real property located in a province by any person in the course or as a result of an investment that the Minister is satisfied or is deemed to be satisfied is likely to be of net benefit to Canada under the Investment Canada Act.
+
+R.S., 1985, c. C-29, s. 35; R.S., 1985, c. 28 (1st Supp.), s. 49; 2001, c. 27, s. 232.
+
+### Offences and punishment
+
+36. (1) Every person who fails to comply with any prohibition, annulment or restriction made pursuant to subsection 35(1) is guilty of an offence and liable on summary conviction to a fine not exceeding ten thousand dollars or to imprisonment for a term not exceeding one year or to both.
+
+#### Officers, etc., of corporations
+
+(2) Where a corporation commits an offence under subsection (1), any officer, director or agent of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence whether or not the corporation has been prosecuted or convicted.
+
+1974-75-76, c. 108, s. 33.
+
+### Coming into force
+
+37. Sections 35 and 36 shall come into force in any of the Provinces of Ontario, Quebec, Nova Scotia, New Brunswick, British Columbia, Prince Edward Island, Saskatchewan and Newfoundland or in Yukon, the Northwest Territories or Nunavut on a day fixed in a proclamation of the Governor in Council declaring those sections to be in force in that Province or any of those territories.
+
+R.S., 1985, c. C-29, s. 37; 1993, c. 28, s. 78; 2002, c. 7, s. 131.
+
+### Disabilities
+
+38. Sections 34 and 35 do not operate so as to
+
+les obligations imposées au Canada, sur le plan international, par le droit, la coutume ou une convention exigent de sa part un traitement privilégié à leur égard;
+
+d) empêcher tout État étranger d'acquérir des biens immeubles situés dans une province pour un usage diplomatique ou consulaire;
+
+e) appliquer les restrictions en matière de biens immeubles aux investissements au sujet desquels le ministre est d'avis ou est réputé être d'avis aux termes de la Loi sur Investissement Canada qu'ils seront vraisemblablement à l'avantage net du Canada.
+
+L.R. (1985), ch. C-29, art. 35; L.R. (1985), ch. 28 (1er suppl.), art. 49; 2001, ch. 27, art. 232.
+
+### Infractions et peines
+
+36. (1) Quiconque contrevient à une interdiction, annulation ou limitation édictée aux termes du paragraphe 35(1) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de dix mille dollars et un emprisonnement maximal d'un an, ou l'une de ces peines.
+
+#### Personnes morales et leurs dirigeants, etc.
+
+(2) En cas de perpétration par une personne morale de l'infraction prévue au paragraphe (1), ceux de ses dirigeants, administrateurs ou mandataires qui l'ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l'infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+1974-75-76, ch. 108, art. 33.
+
+### Entrée en vigueur
+
+37. Les articles 35 et 36 entrent en vigueur dans l'une ou l'autre des provinces d'Ontario, de Québec, de la Nouvelle-Écosse, du Nouveau-Brunswick, de la Colombie-Britannique, de l'Île-du-Prince-Édouard, de la Saskatchewan ou de Terre-Neuve, ou au Yukon, dans les Territoires du Nord-Ouest ou au Nunavut, à la date fixée par proclamation du gouverneur en conseil à cet effet.
+
+L.R. (1985), ch. C-29, art. 37; 1993, ch. 28, art. 78; 2002, ch. 7, art. 131.
+
+### Incapacités
+
+38. Les articles 34 et 35 n'ont pas les effets suivants :
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+Citizenship — February 6, 2014
 
-Citizenship - February 6, 2014
+28
 
-( a )  qualify  any  person  for  any  office  or  for any  municipal,  parliamentary  or  other  franchise;
+(a) qualify any person for any office or for any municipal, parliamentary or other franchise;
 
-( b )  qualify any person to be the owner of a Canadian ship;
+(b) qualify any person to be the owner of a Canadian ship;
 
-( c )  qualify any person to take, acquire, hold or dispose of any property that under or pursuant to any Act of Parliament may be taken, acquired,  held  or  disposed  of  only  by  citizens;
+(c) qualify any person to take, acquire, hold or dispose of any property that under or pursuant to any Act of Parliament may be taken, acquired, held or disposed of only by citizens;
 
-( d )  entitle  any  person  to  any  right  or  privilege as a Canadian citizen except such rights and  privileges  in  respect  of  property  as  are by this Act expressly given to the person; or
+(d) entitle any person to any right or privilege as a Canadian citizen except such rights and privileges in respect of property as are by this Act expressly given to the person; or
 
-( e )  affect any estate or interest in real or personal property to which a person has or may become entitled, either mediately or immediately,  in  possession  or  expectancy,  in  pursuance  of  any  disposition  made  before  July 4,  1883,  or  in  pursuance  of  any  devolution by law on the death of any person dying before July 4, 1883.
+(e) affect any estate or interest in real or personal property to which a person has or may become entitled, either mediately or immediately, in possession or expectancy, in pursuance of any disposition made before July 4, 1883, or in pursuance of any devolution by law on the death of any person dying before July 4, 1883.
 
 1974-75-76, c. 108, s. 33.
+
+### Trial
 
 39. A person who is not a citizen is triable at law in the same manner as if the person were a citizen.
 
 1974-75-76, c. 108, s. 34.
 
-a )  l'habilitation à une charge ou à l'exercice du  droit  de  vote  aux  élections  municipales, législatives ou autres;
+a) l'habilitation à une charge ou à l'exercice du droit de vote aux élections municipales, législatives ou autres;
 
-b )  l'habilitation  à  devenir  propriétaire  d'un navire canadien;
+b) l'habilitation à devenir propriétaire d'un navire canadien;
 
-c )  l'extension  aux  non-citoyens  du  droit  réservé par un texte législatif fédéral aux citoyens - d'acquérir, de détenir ou d'aliéner des biens donnés;
+c) l'extension aux non-citoyens du droit — réservé par un texte législatif fédéral aux citoyens — d'acquérir, de détenir ou d'aliéner des biens donnés;
 
-d )  l'octroi de droits ou avantages attachés à la qualité de citoyen autres que ceux qui sont expressément conférés par la présente loi en matière de biens;
+d) l'octroi de droits ou avantages attachés à la qualité de citoyen autres que ceux qui sont expressément conférés par la présente loi en matière de biens;
 
-e )  la  modification  des  droits  sur  des  biens meubles ou immeubles dont une personne est ou peut devenir titulaire, directement ou par intermédiaire, pour jouissance immédiate ou ultérieure par suite d'une  aliénation  faite avant  le  4  juillet  1883  ou  d'une  dévolution légale  intervenue  au  décès  d'une  personne survenu avant cette date.
+e) la modification des droits sur des biens meubles ou immeubles dont une personne est ou peut devenir titulaire, directement ou par intermédiaire, pour jouissance immédiate ou ultérieure par suite d'une aliénation faite avant le 4 juillet 1883 ou d'une dévolution légale intervenue au décès d'une personne survenu avant cette date.
 
 1974-75-76, ch. 108, art. 33.
 
-39. Le non-citoyen est justiciable des tribunaux au même titre que le citoyen.
 ### Procès
 
+39. Le non-citoyen est justiciable des tribunaux au même titre que le citoyen.
+
 1974-75-76, ch. 108, art. 34.
-
-28
-
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+Citoyenneté — 6 février 2014
 
-Citoyenneté - 6 février 2014
+29
 
 ## SCHEDULE
 
@@ -2154,7 +2309,7 @@ Citoyenneté - 6 février 2014
 
 ### OATH OR AFFIRMATION OF CITIZENSHIP
 
-I  swear  ( or affirm)  that  I  will  be  faithful  and  bear  true  allegiance  to  Her Majesty Queen Elizabeth the Second, Queen of Canada, Her Heirs and Successors, and that I will faithfully observe the laws of Canada and fulfil my duties as a Canadian citizen.
+I swear (or affirm) that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, Queen of Canada, Her Heirs and Successors, and that I will faithfully observe the laws of Canada and fulfil my duties as a Canadian citizen.
 
 1974-75-76, c. 108, Sch.
 
@@ -2168,34 +2323,29 @@ Je jure fidélité et sincère allégeance à Sa Majesté la Reine Elizabeth Deu
 
 ### AFFIRMATION SOLENNELLE
 
-J'affirme solennellement que je serai fidèle et porterai sincère allégeance à Sa Majesté la Reine Elizabeth Deux, Reine du Canada, à ses héritiers et successeurs,  que  j'observerai  fidèlement  les  lois  du  Canada  et  que  je  remplirai loyalement mes obligations de citoyen canadien.
+J'affirme solennellement que je serai fidèle et porterai sincère allégeance à Sa Majesté la Reine Elizabeth Deux, Reine du Canada, à ses héritiers et successeurs, que j'observerai fidèlement les lois du Canada et que je remplirai loyalement mes obligations de citoyen canadien.
 
 1974-75-76, ch. 108, ann.
-
-29
-
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
-
-Citizenship - February 6, 2014
-
-#### Citizenship Act
-
-## RELATED PROVISIONS
-
-### 1997, c. 22, s. 10
-
-10. If,  before  section  1  of  this  Act  comes  into force, a legal proceeding has been commenced with respect to an investigation under subsection 19(4) of the Citizenship Act , a final decision in that proceeding that the Review Committee must cease its investigation  is  deemed  to  be  a  decision  of  the  Review Committee under subsection 19(4.1) of that Act, as enacted by subsection 1(2) of this Act.
-
-## DISPOSITIONS CONNEXES
-
-### 1997, ch. 22, art. 10
-
-10. Dans le cas où une procédure judiciaire a été intentée, avant l'entrée en vigueur de l'article 1 de la présente  loi,  à  l'égard  d'une  enquête  visée  au  paragraphe 19(4) de la Loi sur la citoyenneté , la décision définitive  selon  laquelle  le  comité  de  surveillance doit y mettre fin vaut décision du comité rendue au titre du paragraphe 19(4.1) de cette loi, édicté par le paragraphe 1(2) de la présente loi.
-
-#### Loi sur la citoyenneté
+Citizenship — February 6, 2014
 
 30
 
+## RELATED PROVISIONS
+
+### — 1997, c. 22, s. 10 —
+
+#### Citizenship Act
+
+10. If, before section 1 of this Act comes into force, a legal proceeding has been commenced with respect to an investigation under subsection 19(4) of the Citizenship Act, a final decision in that proceeding that the Review Committee must cease its investigation is deemed to be a decision of the Review Committee under subsection 19(4.1) of that Act, as enacted by subsection 1(2) of this Act.
+
+## DISPOSITIONS CONNEXES
+
+### — 1997, ch. 22, art. 10 —
+
+#### Loi sur la citoyenneté
+
+10. Dans le cas où une procédure judiciaire a été intentée, avant l'entrée en vigueur de l'article 1 de la présente loi, à l'égard d'une enquête visée au paragraphe 19(4) de la Loi sur la citoyenneté, la décision définitive selon laquelle le comité de surveillance doit y mettre fin vaut décision du comité rendue au titre du paragraphe 19(4.1) de cette loi, édicté par le paragraphe 1(2) de la présente loi.
 [[END OF PAGE 34]]
