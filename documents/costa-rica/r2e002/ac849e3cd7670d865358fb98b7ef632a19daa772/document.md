@@ -2,6 +2,8 @@
 
 PDF generated: 01 Feb 2019, 15:42
 
+CONSTITUTE
+
 constituteproject.org
 
 # Costa Rica's Constitution of 1949 with Amendments through 2015
@@ -10,7 +12,7 @@ English Translation © 2016 by William S. Hein & Co., Inc. All rights reserved.
 
 Translated by Maria del Carmen Gress
 
-Prepared for distribution on constituteproject.org with content generously provided by Hein Online. This document has been recompiled and reformatted using texts collected in Hein Online's  World Constitution's Illustrated.
+Prepared for distribution on constituteproject.org with content generously provided by Hein Online. This document has been recompiled and reformatted using texts collected in Hein Online’s World Constitution’s Illustrated.
 
 [[END OF PAGE 1]]
 
@@ -20,11 +22,47 @@ constituteproject.org
 
 PDF generated: 01 Feb 2019, 15:42
 
-## Table of contents
-
 Costa Rica 1949 (rev. 2015)
 
 Page 2
+
+## Table of contents
+
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Title I: The Republic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Title II: The Costa Ricans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+TITLE III: Foreigners . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Title IV: Individual Rights and Guarantees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Title V: Social Rights and Guarantees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Title VI: Religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Title VII: The Education and the Culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Title VIII: Political Rights and Duties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Chapter I: The Citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Chapter II: Suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Chapter III: The Supreme Tribunal of Elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Title IX: The Legislative Power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Chapter I: Organization of the Legislative Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Chapter II: Attributions of the Legislative Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Chapter III: Formation of the Laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Title X: The Executive Power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Chapter I: The President and the Vice Presidents of the Republic . . . . . . . . . . . . . . . . . . . . . . . 32
+Chapter II: Duties and Attributions of Those Who Exercise the Executive Power . . . . . . . . . . 34
+Chapter III: The Ministers of Government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Chapter IV: The Council of Government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Chapter V: Responsibilities of Those Who Exercise the Executive Power . . . . . . . . . . . . . . . 38
+Title XI: The Judicial Power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Title XII: The Municipal Regime . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Title XIII: The Public Finances [Hacienda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Chapter I: The Budget of the Republic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Chapter II: The Office of the Comptroller General of the Republic . . . . . . . . . . . . . . . . . . . . . . 45
+Chapter III: The National Treasury . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Title XIV: The Autonomous Institutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Title XV: The Civil Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Title XVI: The Constitutional Oath . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Title XVII: The Reforms of the Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Title XVIII: Final Provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+Transitory Provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+1. [Concerning] Article 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
 
 [[END OF PAGE 2]]
 
@@ -37,6 +75,17 @@ PDF generated: 01 Feb 2019, 15:42
 Costa Rica 1949 (rev. 2015)
 
 Page 3
+
+2. [Concerning] Article 16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+3. [Concerning] Article 78 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+4. [Concerning] Article 85 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+5. [Concerning] Article 100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+6. [Concerning] Articles 105 and 123 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+7. [Concerning] Article 116 - VII . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+8. [Concerning] Article 141 - XI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+9. [Concerning] Article 170 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+10. [Concerning] Article 171 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+11. [Concerning] Article 177, first and third paragraphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
 
 [[END OF PAGE 3]]
 
@@ -150,9 +199,9 @@ It  will  correspond  to  a  specialized  Chamber  of  the  Supreme  Court  of  
 
 It will also correspond to it:
 
-- To settle the conflicts of competence between the powers of the State, the Supreme Tribunal of Elections included, as well as with the other entities or organs that the law indicates.
+a. To settle the conflicts of competence between the powers of the State, the Supreme Tribunal of Elections included, as well as with the other entities or organs that the law indicates.
 
-- To take cognizance of the consultations on bills of constitutional reform, of approval of international agreements or treaties and of other bills of law, as provided in the law.
+b. To take cognizance of the consultations on bills of constitutional reform, of approval of international agreements or treaties and of other bills of law, as provided in the law.
 
 Costa Rica 1949 (rev. 2015)
 
@@ -198,13 +247,13 @@ Military forces may only be organized by a continental agreement or for the nati
 
 [The following] are Costa Ricans by birth:
 
-- The child of [a]  Costa  Rican  father  or  mother  born  in  the  territory  of  the Republic;
+1. The child of [a] Costa Rican father or mother born in the territory of the Republic;
 
-- The child of [a] father or mother Costa Rican by birth, who are born abroad, and who are inscribed as such in the Civil Registry, by the will of the Costa Rican  progenitor,  while  they  are  minors,  or  on  their  own  until  they  turn twenty-five years old;
+2. The child of [a] father or mother Costa Rican by birth, who are born abroad, and who are inscribed as such in the Civil Registry, by the will of the Costa Rican progenitor, while they are minors, or on their own until they turn twenty-five years old;
 
-- The child of foreign parents born in Costa Rica who are inscribed as Costa Ricans, by the will of either of their progenitors while they are minors, or on their own until they turn twenty-five years old;
+3. The child of foreign parents born in Costa Rica who are inscribed as Costa Ricans, by the will of either of their progenitors while they are minors, or on their own until they turn twenty-five years old;
 
-- The infant, of unknown [ignorados] parents, found in Costa Rica.
+4. The infant, of unknown [ignorados] parents, found in Costa Rica.
 
 #### Article 14
 
@@ -232,17 +281,17 @@ PDF generated: 01 Feb 2019, 15:42
 
 · Duty to pay taxes
 
-- The ones who have acquired this nationality by virtue of previous laws.
+1. The ones who have acquired this nationality by virtue of previous laws.
 
-- The nationals of other countries of Central American, the Spanish and the Spanish-Americans by birth, who have officially resided in the country for five years at a minimum and that fulfill the other requirements established by the law.
+2. The nationals of other countries of Central American, the Spanish and the Spanish-Americans by birth, who have officially resided in the country for five years at a minimum and that fulfill the other requirements established by the law.
 
-- The  Central  Americans,  the  Spanish  and  the  Spanish-Americans  that  are not so by birth, and the other foreigners who have officially resided in the country for seven years at a minimum and that fulfill the other requirements established by the law.
+3. The Central Americans, the Spanish and the Spanish-Americans that are not so by birth, and the other foreigners who have officially resided in the country for seven years at a minimum and that fulfill the other requirements established by the law.
 
-- The foreign woman who by contracting marriage with a Costa Rican loses her nationality.
+4. The foreign woman who by contracting marriage with a Costa Rican loses her nationality.
 
-- The foreign persons who by marring Costa Ricans lose their nationality or that  after  being  married  two  years  to  Costa  Ricans,  and  residing  for  that same time period in the country, manifest their desire to acquire the Costa Rican nationality.
+5. The foreign persons who by marring Costa Ricans lose their nationality or that after being married two years to Costa Ricans, and residing for that same time period in the country, manifest their desire to acquire the Costa Rican nationality.
 
-- Whoever holds honorary nationality granted by the Legislative Assembly.
+6. Whoever holds honorary nationality granted by the Legislative Assembly.
 
 #### Article 15
 
@@ -984,9 +1033,9 @@ Citizenship  is  the  set  of  political  rights  and  duties  that  correspond 
 
 Citizenship is suspended only:
 
-- By judicially declared interdiction;
+1. By judicially declared interdiction;
 
-- By a sentence imposing the penalty of suspension of the exercise of political rights.
+2. By a sentence imposing the penalty of suspension of the exercise of political rights.
 
 #### Article 92
 
@@ -1006,11 +1055,11 @@ The Costa Rican citizen by naturalization may not vote except after twelve month
 
 The  law  will  regulate  the  exercise  of  suffrage  in  accordance  with  the  following principles:
 
-- Autonomy of the electoral function;
+1. Autonomy of the electoral function;
 
-- Obligation of the State to register, of office, the citizens in the Civil Registry and to provide them with [an] identity form to exercise suffrage;
+2. Obligation of the State to register, of office, the citizens in the Civil Registry and to provide them with [an] identity form to exercise suffrage;
 
-- Effective guarantees of freedom, order, purity [pureza] and impartiality on the part of the government authorities;
+3. Effective guarantees of freedom, order, purity [pureza] and impartiality on the part of the government authorities;
 
 Costa Rica 1949 (rev. 2015)
 
@@ -1032,15 +1081,15 @@ PDF generated: 01 Feb 2019, 15:42
 
 · Restrictions on political parties
 
-- Guarantees that the system to emit the suffrage facilitates to the citizens the exercise of this right;
+4. Guarantees that the system to emit the suffrage facilitates to the citizens the exercise of this right;
 
-- Identification of the elector through a form [cédula] with [a] photograph or other appropriate technical means provided [dispuesto] by the law for such effect;
+5. Identification of the elector through a form [cédula] with [a] photograph or other appropriate technical means provided [dispuesto] by the law for such effect;
 
-- Guarantees of representation for the minorities;
+6. Guarantees of representation for the minorities;
 
-- Guarantees of political pluralism;
+7. Guarantees of political pluralism;
 
-- Guarantees  for  the  designation  of  authorities  and  candidates  of  the political parties, according to democratic principles and without discrimination based on gender.
+8. Guarantees for the designation of authorities and candidates of the political parties, according to democratic principles and without discrimination based on gender.
 
 #### Article 96
 
@@ -1048,15 +1097,15 @@ The State may not deduct anything from the remunerations of the public servants 
 
 The  State  will contribute  to defray  the  expenses  of  the  political parties, in accordance with the following provisions:
 
-- The contribution will be of zero point nineteen percent (0.19%) of the gross domestic  product  of  the  two  previous  years  to  the  celebration  of  the election for President, Vice Presidents of the Republic and Deputies to the Legislative Assembly. The law will determine in which cases a reduction of this percentage may be agreed to.
+1. The contribution will be of zero point nineteen percent (0.19%) of the gross domestic product of the two previous years to the celebration of the election for President, Vice Presidents of the Republic and Deputies to the Legislative Assembly. The law will determine in which cases a reduction of this percentage may be agreed to.
 
-This percentage will be allocated to cover the expenses generated by the participation  of  the  political  parties  in  those  electoral  processes,  and  to satisfy  the  necessities  of  political  training  and  organization.  Each  political party will establish the percentages corresponding to these rubrics.
+This percentage will be allocated to cover the expenses generated by the participation of the political parties in those electoral processes, and to satisfy the necessities of political training and organization. Each political party will establish the percentages corresponding to these rubrics.
 
-- The political parties that participate in the electoral processes specified in this  Article  and  achieve  [alcanzaren]  at  least  four  percent  (4%)  of  the suffrage  validly  emitted  on  [a]  national  scale  or  those  registered  on  [a] provincial scale, that obtain as minimum that percentage in the province or elect, at least, one Deputy[,] will have the right to the State contribution.
+2. The political parties that participate in the electoral processes specified in this Article and achieve [alcanzaren] at least four percent (4%) of the suffrage validly emitted on [a] national scale or those registered on [a] provincial scale, that obtain as minimum that percentage in the province or elect, at least, one Deputy[,] will have the right to the State contribution.
 
-[With]  previous  granting  of  the  corresponding  bonds  [cauciones],  the political  parties  will  have  the  right  to  be  advanced  part  of  the  State contribution, as determined by the law.
+3. [With] previous granting of the corresponding bonds [cauciones], the political parties will have the right to be advanced part of the State contribution, as determined by the law.
 
-- To  receive  the  contribution  from  the  State,  the  parties  must  prove  their expenses before the Supreme Tribunal of Elections.
+4. To receive the contribution from the State, the parties must prove their expenses before the Supreme Tribunal of Elections.
 
 The private contributions to the political parties will be submitted to the principle of publicity and will be regulated by law.
 
@@ -1140,21 +1189,21 @@ The Magistrates of the Supreme Tribunal of Elections will enjoy the immunities a
 
 The Supreme Tribunal of Elections has the following functions:
 
-- To convoke [the] popular elections;
+1. To convoke [the] popular elections;
 
-- To  appoint  the  members  of  the  Electoral  Boards,  in  accordance  with  the law;
+2. To appoint the members of the Electoral Boards, in accordance with the law;
 
-- To interpret in  exclusive  and  obligatory  form  the  constitutional  and  legal provisions referring to electoral matters;
+3. To interpret in exclusive and obligatory form the constitutional and legal provisions referring to electoral matters;
 
-- To  take  cognizance  in  appeal  of  the  appealable  resolutions  issued  by  the Civil Registry and the Electoral Boards;
+4. To take cognizance in appeal of the appealable resolutions issued by the Civil Registry and the Electoral Boards;
 
-- To investigate by itself or through delegates, and to pronounce itself with regard  to  any  complaint  formulated  by  the  parties  on  [the]  political partiality of the servants of the State in the exercise of their offices, or on political  activities  of  functionaries  to  whom  it  is  prohibited  to  exercise them.  The  declaration  of  culpability  pronounced  by  the  Tribunal  will  be obligatory  cause  for  dismissal  and  will  incapacitate  the  culpable  [person] from exercising public offices for a period of no less than two years, without prejudice  to  the  penal  responsibilities  that  may  be  demanded  of  them. However, if the investigation initiated [practicada] includes charges against the  President  of  the  Republic,  Ministers  of  Government,  Diplomatic Ministers,  Comptroller  and  Sub-comptroller  General  of  the  Republic,  or Magistrates of the Supreme Court of Justice, the Tribunal will limit itself to give account to the Legislative Assembly of the result of the investigation;
+5. To investigate by itself or through delegates, and to pronounce itself with regard to any complaint formulated by the parties on [the] political partiality of the servants of the State in the exercise of their offices, or on political activities of functionaries to whom it is prohibited to exercise them. The declaration of culpability pronounced by the Tribunal will be obligatory cause for dismissal and will incapacitate the culpable [person] from exercising public offices for a period of no less than two years, without prejudice to the penal responsibilities that may be demanded of them. However, if the investigation initiated [practicada] includes charges against the President of the Republic, Ministers of Government, Diplomatic Ministers, Comptroller and Sub-comptroller General of the Republic, or Magistrates of the Supreme Court of Justice, the Tribunal will limit itself to give account to the Legislative Assembly of the result of the investigation;
 
-- To  issue,  with  regard  to  the  public  force,  the  pertinent  measures  for  the electoral  processes  to  develop  in  conditions  of  unrestricted  freedom  and guarantees. In the case that military conscription is decreed, the Tribunal may  equally  issue  the  adequate  measures  not  to  obstruct  the  electoral process, so [that] all citizens may freely emit their vote. The Tribunal may have to fulfill these measures itself, or through the delegates it designates;
+6. To issue, with regard to the public force, the pertinent measures for the electoral processes to develop in conditions of unrestricted freedom and guarantees. In the case that military conscription is decreed, the Tribunal may equally issue the adequate measures not to obstruct the electoral process, so [that] all citizens may freely emit their vote. The Tribunal may have to fulfill these measures itself, or through the delegates it designates;
 
-- To effect  the  definitive  count  of  the  suffrage  emitted  in  the  elections  for President and Vice Presidents of the Republic, Deputies to the Legislative Assembly, members of the Municipalities and Representatives to Constituent Assemblies;
+7. To effect the definitive count of the suffrage emitted in the elections for President and Vice Presidents of the Republic, Deputies to the Legislative Assembly, members of the Municipalities and Representatives to Constituent Assemblies;
 
-- To  make  the  definitive  declaration  of  the  election  of  President  and  Vice Presidents of the Republic, within the thirty days following the date of the vote and in the time period that the law determines, [and] that of the other functionaries mentioned in the preceding paragraph;
+8. To make the definitive declaration of the election of President and Vice Presidents of the Republic, within the thirty days following the date of the vote and in the time period that the law determines, [and] that of the other functionaries mentioned in the preceding paragraph;
 
 Costa Rica 1949 (rev. 2015)
 
@@ -1178,9 +1227,9 @@ PDF generated: 01 Feb 2019, 15:42
 
 International law
 
-- To organize, to direct, to supervise, to count and to declare the results of the processes of referendum. More than one referendum per year may not be  convoked;  or  during  the  six  months  prior  to  or  after  the  presidential election. The results will be binding for the State if, at least, thirty percent (30%)  of  the  citizens  registered  in  the  electoral  roll  participate,  for  the ordinary legislation, and forty percent (40%) as [a] minimum, for the partial reforms  of  the  Constitution  and  the  matters  that  require  legislative approval by [a] qualified majority.
+9. To organize, to direct, to supervise, to count and to declare the results of the processes of referendum. More than one referendum per year may not be convoked; or during the six months prior to or after the presidential election. The results will be binding for the State if, at least, thirty percent (30%) of the citizens registered in the electoral roll participate, for the ordinary legislation, and forty percent (40%) as [a] minimum, for the partial reforms of the Constitution and the matters that require legislative approval by [a] qualified majority.
 
-- The other functions entrusted to it by this Constitution or the laws.
+10. The other functions entrusted to it by this Constitution or the laws.
 
 #### Article 103
 
@@ -1190,13 +1239,13 @@ The  decisions  of  the  Supreme  Tribunal  of  Elections  have  no  recourse,  
 
 Under the exclusive  dependency  of  the  Supreme  Tribunal  of  Elections  is  the  Civil Registry, [of] which [the] functions are:
 
-- To  keep  the  Central  Registry  of  the  Civil  Estate  and  to  form  the  lists  of electors;
+1. To keep the Central Registry of the Civil Estate and to form the lists of electors;
 
-- To decide on the applications to acquire or to recover the quality of Costa Rican,  as  well  as  the  cases  of  loss  of  nationality;  to  execute  the  judicial sentences that suspend citizenship and to decide the procedures to recover it.  The  decisions  issued  by  the  Civil  Registry  in  accordance  with  the attributions  referred  to  in  this  paragraph,  are  appealable  before  the Supreme Tribunal of Elections;
+2. To decide on the applications to acquire or to recover the quality of Costa Rican, as well as the cases of loss of nationality; to execute the judicial sentences that suspend citizenship and to decide the procedures to recover it. The decisions issued by the Civil Registry in accordance with the attributions referred to in this paragraph, are appealable before the Supreme Tribunal of Elections;
 
-- To issue the identity forms;
+3. To issue the identity forms;
 
-- The other attributions that this Constitution and the laws specify to it.
+4. The other attributions that this Constitution and the laws specify to it.
 
 ## Title IX: The Legislative Power
 
@@ -1276,25 +1325,25 @@ The Deputies will remain in their offices for four years and may not be reelecte
 
 To be a Deputy it is required to:
 
-- Be a citizen in exercise;
+1. Be a citizen in exercise;
 
-- Be Costa Rican by birth, or by naturalization with ten years of residence in the country after having obtained the nationality;
+2. Be Costa Rican by birth, or by naturalization with ten years of residence in the country after having obtained the nationality;
 
-- Be already twenty-one years old.
+3. Be already twenty-one years old.
 
 #### Article 109
 
 [The  following]  may  not  be  elected  Deputies,  or  register  as  candidates  to  that function:
 
-- The President of the Republic or whoever substitutes him in the exercise of the Presidency at the time of the election;
+1. The President of the Republic or whoever substitutes him in the exercise of the Presidency at the time of the election;
 
-- The Ministers of Government;
+2. The Ministers of Government;
 
-- The titular Magistrates of the Supreme Court of Justice;
+3. The titular Magistrates of the Supreme Court of Justice;
 
-- The titular and substitute Magistrates of the Supreme Tribunal of Elections, and the Director of the Civil Registry;
+4. The titular and substitute Magistrates of the Supreme Tribunal of Elections, and the Director of the Civil Registry;
 
-- The military [personnel] on active service;
+5. The military [personnel] on active service;
 
 Costa Rica 1949 (rev. 2015)
 
@@ -1318,11 +1367,11 @@ PDF generated: 01 Feb 2019, 15:42
 
 · Compensation of legislators
 
-- Those  who  exercise  jurisdiction,  civil  or  police  authority,  extensive  to  a province;
+6. Those who exercise jurisdiction, civil or police authority, extensive to a province;
 
-- The managers of the autonomous institutions;
+7. The managers of the autonomous institutions;
 
-- The relatives of whoever exercises the Presidency of the Republic within the second degree of consanguinity or affinity, inclusive.
+8. The relatives of whoever exercises the Presidency of the Republic within the second degree of consanguinity or affinity, inclusive.
 
 These incompatibilities will affect whoever performs the indicated offices within the six months prior to the date of the election.
 
@@ -1476,7 +1525,9 @@ PDF generated: 01 Feb 2019, 15:42
 
 · Budget bills
 
-· Ownership of natural resources In  no  case  may  individual  rights  and  guarantees  not  written  in  this paragraph be suspended;
+· Ownership of natural resources
+
+In  no  case  may  individual  rights  and  guarantees  not  written  in  this paragraph be suspended;
 
 - To receive the oath of law and to take cognizance of the resignations of the members of the Supreme Powers, with the exception of the Ministers of Government; to decide on the doubts that may occur in the case of physical or  mental  incapacity  of  who  is  exercising  the  Presidency  of  the  Republic, and to declare if [the person] who must substitute [for] him must be called to the exercise of the Power;
 
@@ -2228,7 +2279,9 @@ PDF generated: 01 Feb 2019, 15:42
 
 - Municipal government
 
-· Municipal government The Legislative Assembly may decree, observing the procedures for partial reform to this  Constitution,  the  creation  of  new  provinces,  as  long  as  the  respective  bill  is previously approved in a plebiscite that the Assembly will order to be celebrated in the province or provinces that support the dismemberment.
+· Municipal government
+
+The Legislative Assembly may decree, observing the procedures for partial reform to this  Constitution,  the  creation  of  new  provinces,  as  long  as  the  respective  bill  is previously approved in a plebiscite that the Assembly will order to be celebrated in the province or provinces that support the dismemberment.
 
 The creation of new cantons requires[,] to be approved by the Legislative Assembly[,] through a vote of no less than two-thirds of the total of its members.
 
@@ -2276,7 +2329,9 @@ constituteproject.org
 
 PDF generated: 01 Feb 2019, 15:42
 
-· Budget bills In both cases, if the Municipality does not revoke or reform the agreement objected to or appealed, the prior records will pass to the Tribunal dependent of the Judicial Power that the law indicates for it to decide definitively.
+· Budget bills
+
+In both cases, if the Municipality does not revoke or reform the agreement objected to or appealed, the prior records will pass to the Tribunal dependent of the Judicial Power that the law indicates for it to decide definitively.
 
 #### Article 174
 
@@ -2318,7 +2373,9 @@ constituteproject.org
 
 PDF generated: 01 Feb 2019, 15:42
 
-· Balanced budget created  in  favor  of  the  Caja  Costarricense  de  Seguro  Social  [Costa  Rican  Bank  of Social Security] sufficient and calculated incomes in such a form that they cover the current and future needs of the Institution. If a deficit is produced because of the insufficiency  of  those  incomes,  the  State  will  assume  it,  for  which  [purpose]  the Executive Power must include in its next bill of [the] Budget the respective amount determined as necessary by the mentioned institution to  cover  the  totality  of  the quota [cuotas] of the State.
+· Balanced budget
+
+created  in  favor  of  the  Caja  Costarricense  de  Seguro  Social  [Costa  Rican  Bank  of Social Security] sufficient and calculated incomes in such a form that they cover the current and future needs of the Institution. If a deficit is produced because of the insufficiency  of  those  incomes,  the  State  will  assume  it,  for  which  [purpose]  the Executive Power must include in its next bill of [the] Budget the respective amount determined as necessary by the mentioned institution to  cover  the  totality  of  the quota [cuotas] of the State.
 
 The  Executive  Power  will  prepare,  for  the  respective  economic  year,  the  bills  of extraordinary budgets, to the end of investing the revenues originating from the use of public credit or from any other extraordinary source.
 
@@ -2636,6 +2693,45 @@ PDF generated: 01 Feb 2019, 15:42
 
 ## Topic index
 
+A
+Access to higher education . . . 17
+Approval of general legislation . . . 30, 31, 34
+Attendance by legislators . . . 26
+B
+Balanced budget . . . 44
+Budget bills . . . 28, 31, 36, 43
+C
+Cabinet removal . . . 34, 38
+Cabinet selection . . . 34
+Campaign financing . . . 20
+Census . . . 24
+Central bank . . . 18, 46
+Civil service recruitment . . . 47
+Claim of executive independence . . . 5
+Compensation of legislators . . . 25
+Compulsory education . . . 17
+Compulsory voting . . . 19
+Conditions for revoking citizenship . . . 7
+Constitution amendment procedure . . . 48
+Constitutional interpretation . . . 5
+Constitutionality of legislation . . . 5, 31
+Customary international law . . . 4
+D
+Deputy executive . . . 33
+Designation of commander in chief . . . 34
+Duty to obey the constitution . . . 6, 7
+Duty to pay taxes . . . 7
+Duty to work . . . 13
+E
+Electoral court powers . . . 20, 21, 22, 23, 24
+Electoral court selection . . . 21
+Electoral court term length . . . 21
+Electoral districts . . . 24
+Eligibility for cabinet . . . 24, 36, 37
+Eligibility for electoral court judges . . . 21, 40
+Eligibility for first chamber . . . 24
+Eligibility for head of state . . . 32
+
 Costa Rica 1949 (rev. 2015)
 
 Page 52
@@ -2647,6 +2743,46 @@ Page 52
 constituteproject.org
 
 PDF generated: 01 Feb 2019, 15:42
+
+Eligibility for supreme court judges . . . 40
+Emergency provisions . . . 27, 35
+Establishment of cabinet/ministers . . . 36
+Extradition procedure . . . 10
+Extraordinary legislative sessions . . . 26
+F
+Finance bills . . . 24, 30
+First chamber selection . . . 24
+Foreign affairs representative . . . 35
+Free education . . . 17
+Freedom of assembly . . . 9
+Freedom of association . . . 9
+Freedom of expression . . . 9, 10
+Freedom of movement . . . 8
+Freedom of opinion/thought/conscience . . . 9
+Freedom of press . . . 10
+Freedom of religion . . . 16
+G
+General guarantee of equality . . . 10
+God or other deities . . . 4, 47
+H
+Head of state decree power . . . 34, 35, 37
+Head of state immunity . . . 38, 39
+Head of state powers . . . 34
+Head of state removal . . . 28
+Head of state replacement . . . 33
+Head of state selection . . . 33
+Head of state term length . . . 33
+Head of state term limits . . . 32
+Human dignity . . . 10, 13
+I
+Immunity of legislators . . . 25
+Inalienable rights . . . 8
+Initiation of general legislation . . . 30
+International law . . . 4, 5, 8, 10, 12, 23
+J
+Judicial independence . . . 5
+L
+Leader of first chamber . . . 26
 
 Costa Rica 1949 (rev. 2015)
 
@@ -2660,6 +2796,47 @@ constituteproject.org
 
 PDF generated: 01 Feb 2019, 15:42
 
+Legal status of treaties . . . 5, 35
+Legislative committees . . . 29, 30
+Legislative initiatives by citizens . . . 23, 30
+Legislative oversight of the executive . . . 29, 34, 35
+Limits on employment of children . . . 15
+M
+Minimum age for first chamber . . . 24
+Minimum age of electoral court judges . . . 21, 40
+Minimum age of head of state . . . 32
+Minimum age of supreme court judges . . . 40
+Municipal government . . . 42
+N
+Name/structure of executive(s) . . . 32
+O
+Oaths to abide by constitution . . . 6, 26, 33, 47
+Official or national languages . . . 16
+Official religion . . . 16
+Ordinary court selection . . . 29
+Outside professions of legislators . . . 24, 25
+Ownership of natural resources . . . 15, 28, 36
+P
+Power to declare/approve war . . . 27, 37
+Power to pardon . . . 37
+Powers of cabinet . . . 37
+Principle of no punishment without law . . . 11
+Prohibition of cruel treatment . . . 11
+Prohibition of double jeopardy . . . 11
+Prohibition of slavery . . . 8
+Prohibition of torture . . . 11
+Protection from ex post facto laws . . . 10
+Protection from expropriation . . . 12
+Protection from self-incrimination . . . 10
+Protection from unjustified restraint . . . 11, 12
+Protection of consumers . . . 12
+Protection of environment . . . 12, 13, 18
+Protection of language use . . . 16
+Protection of stateless persons . . . 10
+Provision for matrimonial equality . . . 13
+Provisions for intellectual property . . . 12
+Public or private sessions . . . 26
+
 Costa Rica 1949 (rev. 2015)
 
 Page 54
@@ -2672,9 +2849,48 @@ constituteproject.org
 
 PDF generated: 01 Feb 2019, 15:42
 
-Size of first chamber
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 24
+Q
+Quorum for legislative sessions . . . 26
+R
+Reference to art . . . 18, 29
+Reference to fraternity/solidarity . . . 15, 16
+Reference to science . . . 18, 29
+Referenda . . . 24, 30
+Regulation of evidence collection . . . 8
+Removal of individual legislators . . . 25
+Requirements for birthright citizenship . . . 6, 7
+Requirements for naturalization . . . 6, 7
+Restrictions on political parties . . . 20, 21
+Restrictions on the armed forces . . . 6, 24
+Restrictions on voting . . . 19
+Right of petition . . . 9
+Right to academic freedom . . . 17, 18
+Right to amparo . . . 12
+Right to choose occupation . . . 13
+Right to competitive marketplace . . . 12
+Right to culture . . . 17, 18
+Right to equal pay for work . . . 14
+Right to form political parties . . . 21
+Right to found a family . . . 13
+Right to information . . . 10
+Right to join trade unions . . . 14
+Right to life . . . 8
+Right to marry . . . 13
+Right to own property . . . 12
+Right to privacy . . . 8
+Right to reasonable standard of living . . . 14
+Right to rest and leisure . . . 14
+Right to safe work environment . . . 15
+Right to shelter . . . 15
+Right to speedy trial . . . 11
+Right to strike . . . 14
+Right to work . . . 13
+Rights of children . . . 13, 15
+Rights of debtors . . . 11
+S
+Scheduling of elections . . . 33
+Secret ballot . . . 19
+Size of first chamber . . . 24
 
 Costa Rica 1949 (rev. 2015)
 
@@ -2687,6 +2903,33 @@ Page 55
 constituteproject.org
 
 PDF generated: 01 Feb 2019, 15:42
+
+Source of constitutional authority . . . 4
+Spending bills . . . 30
+Standing committees . . . 30
+State support for children . . . 13
+State support for the disabled . . . 13, 16
+State support for the elderly . . . 13, 16
+State support for the unemployed . . . 15, 16
+Structure of legislative chamber(s) . . . 23, 24
+Structure of the courts . . . 39
+Subsidiary unit government . . . 41
+Supermajority required for legislation . . . 9, 12, 26, 27, 30, 42
+Supreme court powers . . . 28
+Supreme court selection . . . 39, 40, 41
+Supreme court term length . . . 40
+Supreme court term limits . . . 40
+Supreme/ordinary court judge removal . . . 41
+T
+Tax bills . . . 24, 30
+Term length for first chamber . . . 24
+Term limits for first chamber . . . 24
+Treaty ratification . . . 5, 27, 34, 35
+Type of government envisioned . . . 4
+U
+Ultra-vires administrative actions . . . 12
+V
+Veto override procedure . . . 31
 
 Costa Rica 1949 (rev. 2015)
 
