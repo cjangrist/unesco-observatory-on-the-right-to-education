@@ -75,7 +75,7 @@ The Higher Education Act, which contains provisions relating to higher education
 
 - Higher education institutions shall also actively promote and widen recruitment to higher education.
 
-The Qualifications Ordinance, annex 2 to the Higher Education Ordinance contains regulations on education outcomes for all higher education degrees. GCED and/or ESD related themes are mentioned or inferred in the outcomes for certain degrees. For example, for a Degree of Bachelor of Science in Nursing the student shall, i.a., demonstrate knowledge of social circumstances that affect the health of children, women and men, demonstrate knowledge of men's violence towards women and violence in close relationships. Another example is that for a Degree of Master of Arts/Science in Secondary/Upper Secondary Education the student shall, i.a., demonstrate the capacity  to  communicate  and  instil  core  educational  values,  including  human  rights  and  the fundamental democratic values, demonstrate the capacity to prevent and counteract discrimination  and  other  forms  of  victimisation  of  pupil,  demonstrate  the  capacity  to  respect, communicate  and  instil  the  perspective  of  gender  equality  and  equal  rights  perspective  in educational  processes,  and  demonstrate  the  capacity  to  communicate  and  reflect  on  issues relating to identity, sexuality and relationships (new provision entering into force on 1 jan, 2021).
+The Qualifications Ordinance, annex 2 to the Higher Education Ordinance contains regulations on education outcomes for all higher education degrees. GCED and/or ESD related themes are mentioned or inferred in the outcomes for certain degrees. For example, for a Degree of Bachelor of Science in Nursing the student shall, i.a., demonstrate knowledge of social circumstances that affect the health of children, women and men, demonstrate knowledge of men's violence towards women and violence in close relationships. Another example is that for a Degree of Master of Arts/Science in Secondary/Upper Secondary Education the student shall, i.a., demonstrate the
 
 > 1 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -83,47 +83,47 @@ The Qualifications Ordinance, annex 2 to the Higher Education Ordinance contains
 
 [[START OF PAGE 4]]
 
+capacity to communicate and instil core educational values, including human rights and the fundamental democratic values, demonstrate the capacity to prevent and counteract discrimination and other forms of victimisation of pupil, demonstrate the capacity to respect, communicate and instil the perspective of gender equality and equal rights perspective in educational processes, and demonstrate the capacity to communicate and reflect on issues relating to identity, sexuality and relationships (new provision entering into force on 1 jan, 2021).
+
 Furthermore, the Convention on the Rights of the Child is now incorporated in Swedish Law: ((2018:1197)
 
 #### A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
 Only the curriculum for the Preschool and the upper secondary school have been translated to English the other links are only available in Swedish.
 
-- Chapter 1, Sections 4 and 5 of the Education Act (2010:800). (https://www.riksdagen.se/sv/dokument-lagar/dokument/svenskforfattningssamling/skollag-2010800_sfs-2010-800#K1)
+- Chapter 1, Sections 4 and 5 of the Education Act (2010:800). (https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/skollag-2010800_sfs-2010-800#K1)
 
-- Curriculum for the compulsory school, preschool class and school-age educare 2011 (https://www.skolverket.se/undervisning/grundskolan/laroplan-och-kursplaner-forgrundskolan/laroplan-lgr11-for-grundskolan-samt-for-forskoleklassen-och-fritidshemmet)
+- Curriculum for the compulsory school, preschool class and school-age educare 2011 (https://www.skolverket.se/undervisning/grundskolan/laroplan-och-kursplaner-for-grundskolan/laroplan-lgr11-for-grundskolan-samt-for-forskoleklassen-och-fritidshemmet)
 
-- Curriculum for the compulsory school for pupils with learning disabilities 2011 (https://www.skolverket.se/undervisning/grundsarskolan/laroplan-och-kursplaner-forgrundsarskolan/laroplan-for-grundsarskolan)
+- Curriculum for the compulsory school for pupils with learning disabilities 2011 (https://www.skolverket.se/undervisning/grundsarskolan/laroplan-och-kursplaner-for-grundsarskolan/laroplan-for-grundsarskolan)
 
-- Curriculum for the Sami school, preschool class and the leisure time centre 2011 (https://www.skolverket.se/undervisning/sameskolan/laroplan-och-kursplaner-isameskolan/laroplan-lsam11-for-sameskolan-samt-for-forskoleklassen-ochfritidshemmet-i-vissa-fall)
+- Curriculum for the Sami school, preschool class and the leisure time centre 2011 (https://www.skolverket.se/undervisning/sameskolan/laroplan-och-kursplaner-i-sameskolan/laroplan-lsam11-for-sameskolan-samt-for-forskoleklassen-och-fritidshemmet-i-vissa-fall)
 
-- Curriculum for the compulsory special needs school, preschool class and school-age educare 2011 (https://www.skolverket.se/undervisning/specialskolan/laroplan-ochkursplaner-i-specialskolan/laroplan-lspec11-for-specialskolan-samt-for-forskoleklassenoch-fritidshemmet-i-vissa-fall)
+- Curriculum for the compulsory special needs school, preschool class and school-age educare 2011 (https://www.skolverket.se/undervisning/specialskolan/laroplan-och-kursplaner-i-specialskolan/laroplan-lspec11-for-specialskolan-samt-for-forskoleklassen-och-fritidshemmet-i-vissa-fall)
 
 - Curriculum for the Preschool 2018 (https://www.skolverket.se/getFile?file=4049)
 
-- Curriculum for the upper secondary school (2013): https://www.skolverket.se/publikationsserier/styrdokument/2013/curriculum-for-theupper-secondary-school
+- Curriculum for the upper secondary school (2013): https://www.skolverket.se/publikationsserier/styrdokument/2013/curriculum-for-the-upper-secondary-school
 
-- The Swedish version includes revisions concerning digital skills, which the English version does not include: https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-igymnasieskolan/laroplan-gy11-for-gymnasieskolan
+- The Swedish version includes revisions concerning digital skills, which the English version does not include: https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/laroplan-gy11-for-gymnasieskolan
 
-- Curriculum for the upper secondary school for students with learning disabilities: https://www.skolverket.se/undervisning/gymnasiesarskolan/laroplan-program-ochamnen-i-gymnasiesarskolan/laroplan-gysar13-for-gymnasiesarskolan
+- Curriculum for the upper secondary school for students with learning disabilities: https://www.skolverket.se/undervisning/gymnasiesarskolan/laroplan-program-och-amnen-i-gymnasiesarskolan/laroplan-gysar13-for-gymnasiesarskolan
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-- Curriculum för municipal adult education: https://www.skolverket.se/publikationsserier/styrdokument/2017/laroplan-forvuxenutbildningen-reviderad-2017
+- Curriculum för municipal adult education: https://www.skolverket.se/publikationsserier/styrdokument/2017/laroplan-for-vuxenutbildningen-reviderad-2017
 
-- Regulation (2015:218) of the goverment grant to liberal adult education: https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-
+- Regulation (2015:218) of the goverment grant to liberal adult education: https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-2015218-om-statsbidrag-till_sfs-2015-218
 
-forfattningssamling/forordning-2015218-om-statsbidrag-till_sfs-2015-218
+- Higher vocational education act: https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2009128-om-yrkeshogskolan_sfs-2009-128
 
-- Higher vocational education act: https://www.riksdagen.se/sv/dokumentlagar/dokument/svensk-forfattningssamling/lag-2009128-om-yrkeshogskolan_sfs-2009128
+- Higher Education Act (1992:1434) https://www.uhr.se/en/start/laws-and-regulations/Laws-and-regulations/The-Swedish-Higher-Education-Act/
 
-- Higher Education Act (1992:1434) https://www.uhr.se/en/start/laws-and-regulations/Lawsand-regulations/The-Swedish-Higher-Education-Act/
+- Higher Education Ordinance (1993:100) https://www.uhr.se/en/start/laws-and-regulations/Laws-and-regulations/The-Higher-Education-Ordinance/
 
-- Higher Education Ordinance (1993:100) https://www.uhr.se/en/start/laws-andregulations/Laws-and-regulations/The-Higher-Education-Ordinance/
-
-- The United Nations Convention on the Rights of the Child Act (2018:1197) https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag20181197-om-forenta-nationernas-konvention_sfs-2018-1197
+- The United Nations Convention on the Rights of the Child Act (2018:1197) https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-20181197-om-forenta-nationernas-konvention_sfs-2018-1197
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
@@ -132,14 +132,14 @@ KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given lev
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
-1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1 | 99 | 99 | 99
-2. | Gender equality | 1 | 1 | 1 | 1 | 99 | 99 | 99
-3. | Human rights | 1 | 1 | 1 | 1 | 99 | 99 | 99
-4. | Peace and non- violence | 1 | 1 | 1 | 0 | 99 | 99 | 99
-5. | Climate change | 1 | 1 | 1 | 0 | 99 | 99 | 99
-6. | Environmental sustainability | 1 | 1 | 1 | 0 | 99 | 99 | 99
-7. | Human survival and well-being | 1 | 1 | 1 | 0 | 99 | 99 | 99
-8. | Sustainable consumption and production | 1 | 1 | 1 | 0 | 99 | 99 | 99
+1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1 | 99 | 99 |  | 99
+2. | Gender equality | 1 | 1 | 1 | 1 | 99 | 99 |  | 99
+3. | Human rights | 1 | 1 | 1 | 1 | 99 | 99 |  | 99
+4. | Peace and non- violence | 1 | 1 | 1 | 0 | 99 | 99 |  | 99
+5. | Climate change | 1 | 1 | 1 | 0 | 99 | 99 |  | 99
+6. | Environmental sustainability | 1 | 1 | 1 | 0 | 99 | 99 |  | 99
+7. | Human survival and well-being | 1 | 1 | 1 | 0 | 99 | 99 |  | 99
+8. | Sustainable consumption and production | 1 | 1 | 1 | 0 | 99 | 99 |  | 99
 
 [[END OF PAGE 5]]
 
@@ -165,11 +165,11 @@ According to the provisions of the Higher Education Act (1992:1434) universities
 
 #### A3b. Please  provide  the  full  names  of  any education  policies,  frameworks  or  strategic objectives referred to in A3a and, where possible, web links to relevant documents .
 
-- The Swedish National Council of Adult Education's terms for the government grant to study associations 2020: https://www.folkbildningsradet.se/globalassets/statsbidragstudieforbund/2020/statsbidragsvillkor-studieforbund-2020.pdf
+- The Swedish National Council of Adult Education's terms for the government grant to study associations 2020: https://www.folkbildningsradet.se/globalassets/statsbidrag-studieforbund/2020/statsbidragsvillkor-studieforbund-2020.pdf
 
-- The Swedish National Council of Adult Education's terms for the government grant to folk high schools 2020: https://www.folkbildningsradet.se/globalassets/statsbidragfolkhogskolor/2020/statsbidragsvillkor-folkhogskola-2020.pdf
+- The Swedish National Council of Adult Education's terms for the government grant to folk high schools 2020: https://www.folkbildningsradet.se/globalassets/statsbidrag-folkhogskolor/2020/statsbidragsvillkor-folkhogskola-2020.pdf
 
-- Higher Education Act (1992:1434) https://www.uhr.se/en/start/laws-and-regulations/Lawsand-regulations/The-Swedish-Higher-Education-Act/
+- Higher Education Act (1992:1434) https://www.uhr.se/en/start/laws-and-regulations/Laws-and-regulations/The-Swedish-Higher-Education-Act/
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -225,7 +225,7 @@ For the study associations and folk high schools of the mainly non-formal libera
 
 Within higher vocational education there is no national or sub-national governance of learning outcomes in qualifications and course syllabi. These are decided by each education provider.
 
-An overview of the work of HEI can be found here as the Swedish Higher Education Authority (UKÄ) was tasked by the Swedish government to conduct an evaluation of efforts by universities and university colleges to promote sustainable development, pursuant to the provisions of the Higher Education Act (1992:143) in March 2016: https://english.uka.se/aboutus/publications/reports--guidelines/reports--guidelines/2018-02-15-how-swedish-heis-work-inpromoting-sustainable-development.html
+An overview of the work of HEI can be found here as the Swedish Higher Education Authority (UKÄ) was tasked by the Swedish government to conduct an evaluation of efforts by universities and university colleges to promote sustainable development, pursuant to the provisions of the Higher Education Act (1992:143) in March 2016: https://english.uka.se/about-us/publications/reports--guidelines/reports--guidelines/2018-02-15-how-swedish-heis-work-in-promoting-sustainable-development.html
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
@@ -239,9 +239,11 @@ See answer in A1b.
 
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
-1. | Cultural diversity and tolerance | 1 | 1 | 1 4 | 9
+1. | Cultural diversity and tolerance | 1 | 1 | 1⁴ | 9
 2. | Gender equality | 1 | 1 | 1 | 9
 3. | Human rights | 1 | 1 | 1 | 9
 4. | Peace and non-violence | 1 | 1 | 9 | 9
@@ -250,9 +252,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 9
 8. | Sustainable consumption and production | 1 | 1 | 1 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -268,8 +270,6 @@ Religious education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Science | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 > 4  Please refer to I2 for details.
 
@@ -309,7 +309,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 11]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -333,11 +333,13 @@ As  for  continuing  professional  development,  the  Education  Act  specifies 
 
 The  Swedish  National  Agency  for  Education  provides  web-based  modules  for  continuing professional  development,  some  of  which  includes  issues  concerning  GCED  and  ESD.  For instance, there is one module about promoting equal treatment.
 
-For the liberal adult education, there is no national regulation regulating the specific competence or diploma of teachers at folk high schools or activity leaders at study associations. However, insight into the regulations that apply to the liberal adult education as well as insight into questions related to democracy, human rights, diversity and equality is a requirement for the initial training of folk high school teachers as well as other training provided for e.g. activity leaders.
+For the liberal adult education, there is no national regulation regulating the specific competence or diploma of teachers at folk high schools or activity leaders at study associations. However, insight into the regulations that apply to the liberal adult education as well as insight into questions
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+related to democracy, human rights, diversity and equality is a requirement for the initial training of folk high school teachers as well as other training provided for e.g. activity leaders.
 
 In higher vocational education, there is no national regulation regulating the specific competence or diploma of teacher or trainers.
 
@@ -347,18 +349,18 @@ The educational plan for the folk high school teacher programme: https://liu.se/
 
 In Sweden, public-sector HEIs have considerable autonomy within a system of management by objectives. Within the framework of national regulations that apply to the higher education sector, primarily the Higher Education Act and the Higher Education Ordinance, HEIs take most decisions themselves. These decisions cover such areas as organisation; internal allocation of resources; educational offerings; educational content and design; how many students are admitted and what research is conducted. Qualifications are regulated in the Qualifications Ordinance, stipulating for each higher education degree the knowledge and skills that the student should have attained in order to be awarded the specific degree. It is up to the HEI to determine how to ascertain the student's knowledge and skills, for example, they are free to design the curriculum and decide on examination and student assessment methods.
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Initial or pre-service training
-For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1
-For teachers of other subjects | 1 | 9
+For teachers of selected subjects only (in which GCED or ESD are typically taught) |  |  | 1 | 1
+For teachers of other subjects |  |  | 1 | 9
 Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 9 | 9 | 9 | 9
 For teachers of other subjects | 9 | 9 | 9 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 12]]
 
@@ -405,7 +407,7 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 
 [[START OF PAGE 14]]
 
-### Student assessment (paras 4 and 5 of the 1974 Recommendation )
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation )
 
 #### D1a.  Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills  related  to  the  topics  being  tested  or  also  on  their  values,  attitudes  and/or behaviours.
 
@@ -496,7 +498,7 @@ Sub-national
 
 [[START OF PAGE 17]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical and vocational education and training (paras 25-29 of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -522,24 +524,24 @@ The proposals concerning equality between women and men and those concerning sex
 
 #### H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | ---
-Hosting of international meetings on GCED and/or ESD | 1 | 1 | 1
-Participation in international meetings abroad on GCED and/or ESD | 1 | 1 | 1
-Support for programmes hosting foreign students, researchers and/or teachers | 1 | 1
-Membership of international networks including ASPnet | 1
-Joint research projects on GCED and/or ESD with foreign institutions | 1
-Other activities (please specify): | 1
+--- | --- | --- | --- | ---
+Hosting of international meetings on GCED and/or ESD | 1 | 1 | 1 |
+Participation in international meetings abroad on GCED and/or ESD | 1 | 1 | 1 |
+Support for programmes hosting foreign students, researchers and/or teachers |  | 1 | 1 |
+Membership of international networks including ASPnet |  |  | 1 |
+Joint research projects on GCED and/or ESD with foreign institutions |  |  | 1 |
+Other activities (please specify): |  |  | 1 |
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-### Any other comments
+### I. Any other comments
 
 #### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
 
