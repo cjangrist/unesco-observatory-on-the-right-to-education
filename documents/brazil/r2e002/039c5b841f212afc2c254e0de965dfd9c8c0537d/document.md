@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-Seção  1
+DIÁRIO OFICIAL DA UNIÃO - Seção 1
 
 ISSN  1677-7042
 
@@ -39,7 +39,7 @@ MICHEL TEMER Eduardo Refinetti Guardia Ilan Goldfajn
 
 # DECRETO Nº 9.653, DE 27 DE DEZEMBRO DE 2018
 
-Reconhece como de interesse do Governo brasileiro a participação  estrangeira no  capital social  do BBN  Banco Brasileiro de Negócios S.A.
+Reconhece como de interesse do Governo brasileiro a participação  estrangeira no  capital social  do BBN - Banco Brasileiro de Negócios S.A.
 
 - O  PRESIDENTE  DA REPÚBLICA ,  no  uso  da atribuição  que  lhe  confere o  art.  84, caput , inciso IV, da Constituição, e tendo em vista o disposto no art. 52, parágrafo único, do Ato das Disposições Constitucionais Transitórias,
 
@@ -121,10 +121,10 @@ Modificar o Artigo 19 do Acordo de Complementação Econômica Nº 36,  que  fic
 
 "Os produtos que incorporem  em sua fabricação insumos importados temporariamente, ou sob regime de drawback ,  não  se  beneficiarão  do  Programa  de Liberalização  estabelecido  no  presente  Acordo  a  partir  de  1º  de  janeiro  de  2024."
 
-#### Artigo 2°.-
+#### Artigo 2º.-
 Deixar sem efeito o Vigésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica Nº 36 a partir da entrada em vigor do presente Protocolo.
 
-#### Artigo 3°.-
+#### Artigo 3º.-
 O presente Protocolo entrará em vigor bilateralmente trinta (30) dias depois da  data em  que cada Estado  Parte do  Mercosul, por um  lado, e  o Estado Plurinacional da Bolívia, por outro, informarem à Secretaria-Geral da Aladi sua incorporação  aos  respectivos  ordenamentos  jurídicos  internos.
 
 - A Secretaria-Geral da Aladi informará às Partes Signatárias as respectivas datas de  entrada  em  vigor  bilaterais.
