@@ -17,6 +17,42 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 [[START OF PAGE 2]]
 
 # Table of Contents
+FOREWORD 3
+1.0 INTRODUCTION 4
+2.0 TOKELAU PHILOSOPHY OF EDUCATION 4
+3.0 THE NATIONAL CURRICULUM POLICY FRAMEWORK 6
+3.1 The Tokelau Curriculum 6
+3.2 National Curriculum Policy Framework 7
+3.3 Curriculum Policy Principles 7
+3.3.1 Self identity and learning success 7
+3.3.2 Tokelau culture and values 7
+3.3.3 Tokelau languages 8
+3.3.4 Nation building 8
+3.3.5 Assessment 8
+3.3.6 Health and well-being 9
+3.3.7 Tokelau learning success and approaches to teaching and learning 9
+3.3.8 Key competencies, values and attitudes 9
+3.3.9 Teaching and learning programmes 10
+3.3.10 Equity 10
+3.3.11 Sustainability 11
+4.0 CURRICULUM POLICIES 12
+4.1 Learning areas and subjects of study 12
+4.2 Key Competencies 12
+4.3 Languages and bilingualism 13
+4.4 Early Childhood Education 18
+4.5 Students with special needs 19
+4.6 Assessment Strategy 20
+4.7 Length of the school year 20
+4.8 School terms 20
+4.9 Subjects to be offered at each year level, time allocation 21
+4.10 Homework Policy 23
+4.11 Pathways after Year 11 24
+4.12 Progression Policy 25
+4.13 Curriculum Planning and Review 26
+4.14 Monitoring the quality of teaching and learning 27
+4.15 Communication 28
+4.16 Discipline 28
+ACKNOWLEDGEMENTS 29
 
 NCPF Tokelau Department of Education 19 Sept 2006 version
 
@@ -68,15 +104,12 @@ The  people  of  Tokelau  developed  their  own  unique  ways  of  adapting  to 
 
 The senior elders have always been regarded as guardians and keepers of culture and tradition for generations.    The  senior  female  members  also  play  important  roles  as  invaluable  sources  of  that knowledge.    When  one  deviates  from  community  norms,  he  or  she  would  be  reminded  of  this saying:
 
-Uhu ki Afaga fakananunanu ai (Attend to Afaga
-
-Taliga fakalogo mai
-
-discussions) (With attentive ears)
+Uhu ki Afaga fakananunanu ai (Attend to Afaga discussions)
+Taliga fakalogo mai (With attentive ears)
 
 This serves as a reminder and an advice for people to attend the gathering place of the elders and to learn from listening to the various issues being discussed there. Fakananunanu in a sense connotes the concepts of discussion, sharing, modification, trial, ongoing evaluation and change.  It reflects the various processes used in the production of the pearl-shell lure to achieve its desired shape and hues.
 
-Fakananunanu then  is  used  here  as  a  strategy  with  a  number  of  processes  around  which  most aspects of Tokelauan knowledge revolved. Afaga was a symbol of the authoritative knowledge of elders gathered and engaged in daily discussions.  These were the people who in the past held the knowledge  about  their  god  Tui-Tokelau  whom  they  much  depended  for  their  daily  sustenance. Knowledge about the cosmology, the lunar cycles, fishing lore, weaving, carving, kinship structures and taboos would have emanated from these discussions. The wisdom gained from Afaga discussion came to be regarded as a collective construction representing community norms and values.
+Fakananunanu then is used here as a strategy with a number of processes around which most aspects of Tokelauan knowledge revolved. Afaga was a symbol of the authoritative knowledge of
 
 NCPF Tokelau Department of Education 19 Sept 2006 version
 
@@ -85,6 +118,7 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+elders gathered and engaged in daily discussions. These were the people who in the past held the knowledge about their god Tui-Tokelau whom they much depended for their daily sustenance. Knowledge about the cosmology, the lunar cycles, fishing lore, weaving, carving, kinship structures and taboos would have emanated from these discussions. The wisdom gained from Afaga discussion came to be regarded as a collective construction representing community norms and values.
 
 ## Association of Knowledge and Practice
 
@@ -333,7 +367,7 @@ The  people  of  Tokelau  developed  their  own  unique  ways  of  adapting  to 
 
 Key competencies provide focus for what is considered important by Tokelau society.  They are what people need in order to lead full lives in well-functioning societies. They include the wisdom and  values  of  our  forbears,  and  the  knowledge  and  skills  needed  to  sustain  quality  lifestyles  for individuals  and  communities  on  Tokelau.  As  well,  they  prepare  Tokelau  students  to  participate confidently in the international community
 
-Key competencies underpin what we do in schools. They include a capacity for thinking, making meaning, relating to others, managing self, participating and contributing. Together, they are encapsulated in the Tokelau notion of olaga halala, a life that continuously strives for what is best in any context.
+Key competencies underpin what we do in schools. They include a capacity for thinking, making meaning, relating to others, managing self, participating and contributing. Together, they are
 
 NCPF Tokelau Department of Education 19 Sept 2006 version
 
@@ -342,6 +376,7 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+encapsulated in the Tokelau notion of olaga halala, a life that continuously strives for what is best in any context.
 
 Thinking is about all kinds of thinking in all kinds of contexts. It includes lako muna, atawhaia (creative thinking), mahauhau huahua ki na malohiaga ma na awhianga (critical thinking), mahauhau fakatatau, mahauhau matala, mahauhau hakilikili (logical thinking, sharp mind, inquiring mind), mahauhau tau fakatatau (metacognition), toe manatu (reflection and self-awareness,), mahauhauga tauatea (seeking solutions) and matau (judgement).
 
@@ -361,7 +396,7 @@ The Tokelau National Curriculum Policy Framework 2005-2010 describes our vision 
 
 Tokelau language embraces the heart of our nation as Tokelau people. It defines us as a people and is fundamental to our survival as an island nation within the international community.
 
-In education, language ability is fundamental to classroom learning. To be successful in classroom learning,  students  need  to  be  able  to  use  language  to  interact  appropriately  with  others  in  the learning environment in order to understand their tasks. They have to be able to use language to apply  the  necessary  mental  processes  that  are  needed  to  express  and  elaborate  knowledge  and reflection.  They  have  to  be  able  to  use  language  to  reason  through  to  conclusions,  to  read  and understand  a  wide  range  of  texts,  develop  arguments,  analyse,  synthesise  and  evaluate  ideas. Furthermore students are assessed on how well they use language to express themselves coherently either orally or in writing.
+In education, language ability is fundamental to classroom learning. To be successful in classroom learning, students need to be able to use language to interact appropriately with others in the learning environment in order to understand their tasks. They have to be able to use language to
 
 NCPF Tokelau Department of Education 19 Sept 2006 version
 
@@ -370,6 +405,7 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+apply the necessary mental processes that are needed to express and elaborate knowledge and reflection. They have to be able to use language to reason through to conclusions, to read and understand a wide range of texts, develop arguments, analyse, synthesise and evaluate ideas. Furthermore students are assessed on how well they use language to express themselves coherently either orally or in writing.
 
 Learning becomes increasingly abstract  and cognitively demanding as students move through the school system. The degree to which students have developed the necessary language skills to cope with learning situations, which are increasingly abstract and cognitively demanding as they move through the school system, is crucial to their success.
 
@@ -419,10 +455,10 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 
  The  percentage  of  time  applies  to  instruction  time  in  each  and  every  subject  in  the  school programme. This means every subject signals what is to be taught in Tokelauan, and what is to be  taught  in  English,  effectively  building  a  language  syllabus  for  the  content  to  be  taught  in either language. The distribution of time to each language as medium of instruction is illustrated in Figure 1.
 
- In all subjects other than Tokelau and English, the implementation of the time for each language as medium of instruction will be realised through the distribution of units of work in a subject to each language as described below:
+Figure 1
 
-% | EC | Y1 | Y2 | Y3 | Y4 | Y5 | Y6 | Y7 | Y8 | Y9 | 10 | Y11 %
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+% | EC | Y1 | Y2 | Y3 | Y4 | Y5 | Y6 | Y7 | Y8 | Y9 | 10 | Y11 | %
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 100 | 100
 90 | 90
 80 | TOKELAU | AS | MEDIUM | OF | 80
@@ -436,11 +472,11 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 0 | 0
 EC | Y1 | Y2 | Y3 | Y4 | Y5 | Y6 | Y7 | Y8 | Y9 | 10 | Y11
 
-Figure 1
+ In all subjects other than Tokelau and English, the implementation of the time for each language as medium of instruction will be realised through the distribution of units of work in a subject to each language as described below:
 
 #### ECE to Year 3
 
-An integrated approach to teaching is used at these levels. For ECE to Year 2 all units of work will be prepared, taught and assessed in Tokelau. In this way children's literacy and content learning will be established in their first language, Tokelau . For Year 3, 80% of the units will be prepared, taught, and assessed in Tokelau, and 20 % of the units will be prepared, taught and assessed in English. This provides the opportunities to begin to learn the English language associated with other subjects.
+An integrated approach to teaching is used at these levels. For ECE to Year 2 all units of work will be prepared, taught and assessed in Tokelau. In this way children's literacy and content learning will be established in their first language, Tokelau . For Year 3, 80% of the units will be prepared, taught, and assessed in Tokelau, and 20 % of the units will be prepared, taught and
 
 NCPF Tokelau Department of Education 19 Sept 2006 version
 
@@ -449,6 +485,7 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+assessed in English. This provides the opportunities to begin to learn the English language associated with other subjects.
 
 #### Year 4 to Year 6
 
@@ -511,7 +548,7 @@ Bilingual literacy requires a supportive literature, as well audio and visual ma
 
  Since bilingual literacy development is developed in all subjects, all teachers must develop the skills to teach language and biliteracy development.
 
- Preand  in-service teacher education  will  focus  on  bilingual  literacy  development  and methodology,  including  time  allocation  for  each  language  and  aspects  of  classroom  practice which enable language development and content learning to take place.
+ Pre- and in-service teacher education will focus on bilingual literacy development and methodology, including time allocation for each language and aspects of classroom practice which enable language development and content learning to take place.
 
 ### Assessment
 
@@ -599,7 +636,7 @@ Four  broad  principles  are  at  the  centre  of  early  childhood  curriculum.
 
 ## 4.5 Students with Special needs
 
-Tokelau Curriculum recognises that all students can be successful learners when they are included in the  curriculum,  provided  with  adequate  support,  and  effective  teaching  practices  that  respond  to their needs. The curriculum assumes that the care and education of students with special needs will be encompassed in the principles, strands and goals set out for all students. Activities will be age appropriate, developmentally appropriate and will enable children with special needs to be actively engaged in learning. An individual development plan (IDP) or individual education plan (IEP) will be developed for any children or students who require resources alternative or additional to those provided in  the  early  childhood  or  school  setting.  Objectives  for  an  IDP  or  IEP  will  be  realistic, useful  and  of  value  to  the  child.  The  programme  will  provide  activities  to  meet  the  specified objectives  and  the  equipment  necessary  to  promote  independence.  The  Tokelau  curriculum  is designed to be inclusive and appropriate for all children. The programmes of each early childhood education  centre  and  the  schools  will  incorporate  strategies  to  fully  include  students  with  special needs.
+Tokelau Curriculum recognises that all students can be successful learners when they are included in the curriculum, provided with adequate support, and effective teaching practices that respond to their needs. The curriculum assumes that the care and education of students with special needs will be encompassed in the principles, strands and goals set out for all students. Activities will be age appropriate, developmentally appropriate and will enable children with special needs to be actively engaged in learning. An individual development plan (IDP) or individual education plan (IEP) will be developed for any children or students who require resources alternative or additional to those
 
 > 3 Ibid; (p.49)
 
@@ -612,6 +649,7 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+provided in the early childhood or school setting. Objectives for an IDP or IEP will be realistic, useful and of value to the child. The programme will provide activities to meet the specified objectives and the equipment necessary to promote independence. The Tokelau curriculum is designed to be inclusive and appropriate for all children. The programmes of each early childhood education centre and the schools will incorporate strategies to fully include students with special needs.
 
 ## 4.6 Assessment Strategy
 
@@ -679,7 +717,9 @@ Health and Physical Education | 3 hrs
 Visual Performing Arts | 3 hrs
 Environmental Science | 1 hrs
 Other (assemblies, recess) | 1.5 hrs
-Total 25 Year 2
+Total | 25 hours
+
+Year 2
 Tokelauan language and literacy (reading, writing, listening, speaking, handwriting) | 7 hrs
 Social Science | 2.5hrs
 Mathematics | 5 hrs
@@ -739,9 +779,7 @@ The minimum hours of instruction for secondary students in Year 9 to 11 are 25 h
 
 A course of study in Year 9 to 11 will consist of a compulsory component made up of these subjects with these time allocation:
 
-3hrs The total time allocation for optional subjects is 6 hours, with at least two hours provided for each option studied per week. Options will be offered through a modular approach organized around two levels - Level 1 and Level 2. Schools should ensure that all students will have achieved Level 2 in all of the options by the end of Year 11.
-
-Tokelau
+Tokelau | 3hrs
 
 NCPF Tokelau Department of Education 19 Sept 2006 version
 
@@ -757,12 +795,18 @@ Mathematics | 3hrs
 Science | 3hrs
 Social Science | 3hrs
 Health and PE | 2hrs
-The suggested allocation of hours per week for the compulsory subjects is 18 hours. In addition optional studies may be undertaken in
+
+The suggested allocation of hours per week for the compulsory subjects is 18 hours.
+
+In addition optional studies may be undertaken in
+
 Business Studies
 Home Economics
 Industrial Arts
 Environmental Studies
 Visual and Performing Arts
+
+The total time allocation for optional subjects is 6 hours, with at least two hours provided for each option studied per week. Options will be offered through a modular approach organized around two levels – Level 1 and Level 2. Schools should ensure that all students will have achieved Level 2 in all of the options by the end of Year 11.
 
 Christian education will be demonstrated in the lived culture of the school. Schools may also opt to allocate 1 hour of structured instruction in Christian education.
 
@@ -818,47 +862,41 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 
 [[START OF PAGE 25]]
 
+SELF-EMPLOYMENT. COMMUNITY WORK. EMPLOYMENT. FURTHER STUDY
+
+V O C A T I O N A L   P A T H W A Y
+
 ADVANCE VOCATIONAL
-
 CERTIFICATES &
-
 DIPLOMAS
 
 VOCATIONAL FOUNDATION
-
 CERTIFICATES
 
 VOCATIONAL PRELIMINARY
-
 CERTIFICATES
 
 COMMUNITY EDUCATION
-
-CERTIFICATE - LEVEL 2
+CERTIFICATE – LEVEL 2
 
 COMMUNITY EDUCATION
+CERTIFICATE – LEVEL 1
 
-CERTIFICATE - LEVEL 1
-
-YEAR 8 / YEAR 9
-
-YEAR 10 / YEAR 11
-
-YEAR 12
-
-YEAR 13
-
-PRELIM
-
-FOUNDATION
+A C A D E M I C   P A T H W A Y
 
 CERTIFICATES &DIPLOMAS
 
-SELF-EMPLOYMENT, COMMUNITY WORK, EMPLOYMENT, FURTHER STUDY
+FOUNDATION
 
-A    C    A    D    E    M    I    C              P    A    T    H    W    A    Y
+PRELIM
 
-V   O   C   A   T   I   O   N   A    L            P   A   T   H   W   A   Y
+YEAR 13
+
+YEAR 12
+
+YEAR 10 / YEAR 11
+
+YEAR 8 / YEAR 9
 
 VOCATIONAL PATHWAY                                                ACADEMIC PATHWAY
 
@@ -964,7 +1002,7 @@ Monitoring must be continual, consistent with requirements of curriculum policie
 
 Monitoring  the  quality  of  teaching  and  learning  shall  be  carried  out  through  observations  of teaching,  displays  in  the  teaching  and  learning  environment,  teacher  interviews,  peer  discussions, review of teachers' plans, students' assessment results, and students' work.
 
-Monitoring  reports  will  give  teachers  specific  information  on  their  strengths,  and  what  to  do  to improve. They will form part of the teachers' records for appraisal purposes. Subject leaders will incorporate monitoring information into curriculum review, and planning for professional development. Principals have overall responsibility for the monitoring programme and reports to the committee in the schools' annual report.
+Monitoring  reports  will  give  teachers  specific  information  on  their  strengths,  and  what  to  do  to improve. They will form part of the teachers' records for appraisal purposes. Subject leaders will incorporate monitoring information into curriculum review, and planning for professional
 
 NCPF Tokelau Department of Education 19 Sept 2006 version
 
@@ -973,6 +1011,8 @@ NCPF Tokelau Department of Education 19 Sept 2006 version
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+development. Principals have overall responsibility for the monitoring programme and reports to the committee in the schools' annual report.
 
 The Tokelau Curriculum acknowledges the importance of monitoring in assuring learners, parents and the community of the quality of education at the schools. It is important therefore that it is an ongoing part of each school's practice.
 
