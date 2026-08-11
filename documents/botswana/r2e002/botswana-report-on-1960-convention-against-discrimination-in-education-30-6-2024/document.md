@@ -14,7 +14,7 @@ The right to education for all, without any form of discrimination, is one of th
 
 While  significant  progress  has  been  made in improving  access  to education  in recent decades, some 250 million children and young people are still out of school.
 
-The 1960 Convention and Recommendation against Discrimination in Education major  global  normative  instruments  protecting  the  right  to  education  reflect UNESCO's mission which, according to its Constitution, is to "advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social."
+The 1960 Convention and Recommendation against Discrimination in Education - major global normative instruments protecting the right to education - reflect UNESCO's mission which, according to its Constitution, is to "advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social."
 
 Under Article VIII of UNESCO's Constitution, Member States are required to submit regular reports on the measures they have taken to implement the conventions and recommendations adopted by the Organization.
 
@@ -26,10 +26,10 @@ Member States are encouraged to organize the necessary consultations including w
 
 The detailed arrangements for the submission of reports will be communicated to the Permanent Delegations to UNESCO.
 
-Fax: +33 co)1 45 68 55 55
-
-7. place de Fontenoy 75352 Paris 07 SP, France Tel.: +33 (0)1 45 68 10 00
-
+7. place de Fontenoy
+75352 Paris 07 SP, France
+Tel.: +33 (0)1 45 68 10 00
+Fax: +33 (0)1 45 68 55 55
 www.unesco.org
 
 To Ministers responsible for relations with UNESCO
@@ -84,7 +84,7 @@ As the scope and content of the legal obligations under the right to education a
 
 Beyond  SDG  4,  the  Convention  is  also  closely  aligned  with  the  normative  content  on  the  right  to education  of  other  international  human  rights  instruments  such  as  the  International  Covenant  on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination  against  Women  (1979),  the  Convention  on  the  Rights  of  the  Child  (1989)  and  the Convention on the Rights of Persons with Disabilities (2006).
 
-T
+
 
 [[END OF PAGE 3]]
 
@@ -92,7 +92,7 @@ T
 
 -2-
 
-In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO  Initiative  on  the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative  investigates  how  the  right  to  education  could  be  reinforced  placing  it  within  a  lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International  Commission  on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General  on  Transforming  Education 3 , and  the Report  on  the  2022  Transforming  Education Summit' which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5  and the Tashkent Declaration on Early Childood Care and Education. 6
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childhood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that countries now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have  direct  repercussions  on  the  right  to  education  such  as,  for  instance,  digital  learning,  climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -108,25 +108,27 @@ The  reporting obligation under  the provisions of Article VII of the Convention
 
 The  reporting  period  for  the  11th  consultation  on  the  implementation  of  the  Convention  and  the Recommendation covers four years (2021-2024).
 
-The  Futures  of  Education  Report  calls  for  a  new  social  contract  for  education,  which  requires  to understand education as a common good and a shared societal endeavour. To ensure this, extensive consultations involving a broad range of stakeholders is needed. The reporting process therefore needs to  be participatory. This  includes  ensuring  cooperation  between  ministries  of  education  and  other ministries dealing with aspects of the right to education as well as consulting social partners and civil society organizations and other relevant bodies.
+The Futures of Education Report calls for a new social contract for education, which requires to understand education as a common good and a shared societal endeavour. To ensure this, extensive
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
 > 2 https://unesdoc.unesco.org/ark:/48223/pf0000379707
 
-> 3 https://www.un.org/sites/un2.un.org/files/2022/09/sq  vision  statement  on  transforming  education. pelf
+> 3 https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_education.pdf
 
-> 4 https://www.un.org/sites/un2.un.org/files/report  on  the  2022  transforming  education  summit.pdf
+> 4 https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf
 
-> 5 Marrakech Framework for Action ! Institute for Lifelong Learning (unesco.org)
+> 5 Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)
 
-> 6 Tashkent-declaration-ecce-2022.pdf {unesco.org)
+> 6 Tashkent-declaration-ecce-2022.pdf (unesco.org)
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 -3-
+
+consultations involving a broad range of stakeholders is needed. The reporting process therefore needs to be participatory. This includes ensuring cooperation between ministries of education and other ministries dealing with aspects of the right to education as well as consulting social partners and civil society organizations and other relevant bodies.
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation of the right to education in their country, identify specific challenges, build constructive dialogue with other actors involved in this field and share good practices.
 
@@ -152,11 +154,11 @@ With  a  view  to  simplify  the  Guidelines  while  providing  necessary  subst
 
 - Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
-> 7 http://www.unesco.org/education/eduriqhts/index.php?action=home&lnq=en
+> 7 http://www.unesco.org/education/edurights/index.php?action=home&lng=en
 
-> 8 https://en.unesco.orq/education/qirls-women-riqhts
+> 8 https://en.unesco.org/education/girls-women-rights
 
-> 9 UIS Statistics (unesco.orq)
+> 9 UIS Statistics (unesco.org)
 
 [[END OF PAGE 5]]
 
@@ -164,13 +166,18 @@ With  a  view  to  simplify  the  Guidelines  while  providing  necessary  subst
 
 -4-
 
-## INFORMATION:
+## GENERAL INFORMATION:
 
 Country name: BOTSWANA
 
+Organization or entity responsible for the preparation of the report:
+BOTSWANA NATIONAL COMMISSION FOR UNESCO
+
+Name of contact person: MASOME REBAONE
+
 Email and telephone number of contact person: tmodise@gov.bw / mtrebaone@gmail.com
 
-## Ratification and applicability of the Convention against Discrimination in Education!!!
+## I. Ratification and applicability of the Convention against Discrimination in Education!!!
 
 - Is your country a State Party to the Convention?
 
@@ -230,9 +237,9 @@ Information could also be given about the judicial, administrative and other com
 
 The provisions of the Convention are catered for in the Education Act and its corollaries
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For reference: This section relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe  any form of discrimination in education while promoting equality  of educational opportunity  as laid out in Articles/Paragraphs 1(1), 2 and 3 of  the Convention/Recommendation.
 
@@ -344,7 +351,7 @@ Governing bodies that include CBOs and NGOs, Government departments responsible 
 
 X Legislation provides for inclusive education for all
 
-Multiple and flexible learning pathways 17 are provided for X
+X Multiple and flexible learning pathways 17 are provided for
 
 X Policy measures aim to enhance inclusion in education for all
 
@@ -666,7 +673,7 @@ COVID - 19 pandemic increased number of poor households and the cost of accessin
 
 -13-
 
-### Progress made  with respect  to  implementing  the right  to education  across  all  levels and  forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
@@ -874,7 +881,7 @@ About 75% of learners who complete lower secondary are admitted to senior second
 
 #### 2.3 Higher education
 
-For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for  higher education. Ensuring higher education  is essential to  achieve SDG4, both targets 4.3 39 ,  and target 4.4 40 .  Article 4 of the Convention  requires  states  to  make  "higher  education  equally  accessible  to  all  on  the  basis  of individual capacity". Article 13 of the International Covenant on Economic, Social and Cultural Rights {1966) further adds that this should be pursued by "every appropriate means, and in particular by the progressive introduction of free education". Higher education includes technical and vocational education and training.
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39, and target 4.4 40. Article 4 of the Convention requires states to make "higher education equally accessible to all on the basis of
 
 > 39 Which calls on states to "ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university".
 
@@ -885,6 +892,8 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 [[START OF PAGE 19]]
 
 -17-
+
+individual capacity". Article 13 of the International Covenant on Economic, Social and Cultural Rights {1966) further adds that this should be pursued by "every appropriate means, and in particular by the progressive introduction of free education". Higher education includes technical and vocational education and training.
 
 - Please indicate efforts made to  ensure that higher education, including technical, vocation education and training, is equally accessible to  all on the basis of  individual capacity and/or is available  free of charge (several items may be ticked):
 
@@ -1090,11 +1099,7 @@ Schools that do well in national examinations attract more learners than their e
 
 #### 3.3 Respect for human rights and fundamental freedoms
 
-For reference: Article/Paragraph 5{1)(a) of the Convention/Recommendation provides for  the respect for human rights and fundamental freedoms. This is covered under SDG target 4. 7. 41   Please note that this section contributes to the general monitoring of Article/Paragraph 5(1}(a) of the Convention/Recommendation and that thefuture consultation  on the 1974 Recommendation concerning Education for  International  Understanding,  Co-operation and Peace  and  Education relating to Human Rights  and  Fundamental  Freedoms // 2023  Recommendation  on  [....]  will  be  used  specifically  for monitoring SDG4 indicator4.7.l.
-
-X
-
-. Please specify:
+For reference: Article/Paragraph 5{1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4. 7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1}(a) of the Convention/Recommendation and that thefuture consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [....] will be used specifically for monitoring SDG4 indicator4.7.l.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
@@ -1112,11 +1117,9 @@ For reference: Articles/Paragraphs 2{c) and 5{l}(b) of the Convention/Recommenda
 
 - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked):
 
-X
+X Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43 explicitly apply to non-state educational institutions
 
-Legal provisions prohibiting discrimination on the grounds listed by the
-
-Convention/Recommendation 43  explicitly apply to non-state educational institutions
+. Please specify:
 
 Education Act, Revised National Policy on Education, Education and Training Sector Strategic Plan 2015
 
@@ -1202,7 +1205,7 @@ Measures to remove barriers to accessing digital content 45 ,  including ensurin
 
 X Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
-Future-ready skills (including digital skills, data and Al competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
+Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
 
 X Measures  address  the  digital  divide,  including  ensuring  access  to  reliable  electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
 
@@ -1222,9 +1225,9 @@ A well-established, sustainable, and cost-effective budget secured from a range 
 
 X Lack of quality, curriculum-aligned digital teaching and learning content that supports flexible learning and teaching pathways
 
-X Limited access to  internet and/or electricity Limited access to hardware (devices, chargers,
+X Limited access to internet and/or electricity
 
-etc.)
+Limited access to hardware (devices, chargers, etc.)
 
 Lack of equity and inclusion in digital learning solutions
 
@@ -1288,7 +1291,7 @@ Other
 
 - Please elaborate. Brief quantitative information may be added.
 
-## Ill. Methods used to draw the attention of the various authorities in the country to the instruments
+## III. Methods used to draw the attention of the various authorities in the country to the instruments
 
 For reference: UNESCO governing bodies have underlined the need for  awareness raising. Given the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for  UNESCO.
 
