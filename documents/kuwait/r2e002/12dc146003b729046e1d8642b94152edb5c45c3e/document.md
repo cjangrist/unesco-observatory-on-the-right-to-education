@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+# Kuwaiti Constitution
+
 ## Preamble
 
 In the name of Allah, the Beneficent, the Merciful
@@ -16,8 +18,6 @@ Desiring to use the means of democratic rule for our dear Country; and, having f
 
 - Part IV: Powers
 
-- Part V: General and Transitional Provisions
-
  | Chapter III: | The National Assembly
 --- | --- | ---
  | Chapter IV: | The Executive Power
@@ -25,7 +25,7 @@ Desiring to use the means of democratic rule for our dear Country; and, having f
  | Section III: | Military Affairs
  | Chapter V: | The Judicial Power
 
-# Kuwaiti Constitution
+- Part V: General and Transitional Provisions
 
 1
 
@@ -135,7 +135,7 @@ Public  property  is  inviolable  and  its  protection  is  the  duty  of  every
 
 - Private property is inviolable. No one shall be prevented from disposing of his property except within the limits of the law. No property shall be expropriated except  for  the  public  benefit  under  the  circumstances  and  in  the  manner specified by law, and on condition that just compensation is paid.
 
-- Inheritance is a right g overned by the Islamic Shari'a.
+- Inheritance is a right governed by the Islamic Shari'a.
 
 ##### Article 19 [Confiscation]
 
@@ -143,7 +143,7 @@ General  confiscation  of  the  property  of  any  person  shall  be  prohibited
 
 ##### Article 20 [National Economy]
 
-The national economy shall be based on social justice. It is founded on fair cooperation between public and private activities. Its aim shall be economic development,  increase  of  productivity,  improvement  of  the  standard  of  living,  and achievement of prosperity for citizens, all within the limits of the law.
+The national economy shall be based on social justice. It is founded on fair co-operation between public and private activities. Its aim shall be economic development, increase of productivity, improvement of the standard of living, and achievement of prosperity for citizens, all within the limits of the law.
 
 ##### Article 21 [Natural Resources]
 
@@ -216,6 +216,8 @@ Personal liberty is guaranteed.
 
 - Penalty is personal.
 
+##### Article 33 {...}
+
 Penalty is personal.
 
 ##### Article 34 [Presumption of Innocence, Right to Trial]
@@ -234,9 +236,7 @@ Freedom of opinion and of scientific research is guaranteed. Every person has th
 
 ##### Article 37 [Freedom of the Press]
 
-Freedom  of  the  press,  printing,  and  publishing  is  guaranteed  in  accordance with the conditions and manner specified by law.
-
-##### Article 33 {...}
+Freedom of the press, printing, and publishing is guaranteed in accordance with the conditions and manner specified by law.
 
 6
 
@@ -372,7 +372,7 @@ The Prime Minister and the Ministers are collectively responsible to the Amir fo
 
 The Law referred to in Article 4 specifies the conditions under which the Amir exercises his constitutional powers.
 
-##### Article 60 [Oath of the Amir's Office ]
+##### Article 60 [Oath of the Amir's Office]
 
 Before assuming his powers, the Amir takes the following oath at a special sitting of the National Assembly:
 
@@ -386,7 +386,7 @@ In the event of his absence outside the Country and the inability of the Heir Ap
 
 The Deputy Amir has to satisfy the qualifications laid down in Article 82. If he is  a  Minister  or  a  member  of  the  National  Assembly,  he  may  not  take  part  in  the ministerial functions or in the work of the Assembly during the period he is acting as Deputy for the Amir.
 
-##### Article 63 [O ath of the Deputy Amir's Office]
+##### Article 63 [Oath of the Deputy Amir's Office]
 
 - Before  assuming  his  powers  the  Deputy  Amir,  at  a  special  sitting  of  the National Assembly, takes the oath mentioned in Article 60 with the following phrase added thereto: " and be loyal to the Amir."
 
@@ -680,11 +680,11 @@ The Amir may, by a decree, adjourn the meeting of the National Assembly for a  p
 
 [[START OF PAGE 18]]
 
-- If the elections are not held within the said period, the dissolved Assembly is restored  to  its  full  constitutional  authority  and  meets  immediately  as  if  the dissolution  had  not  taken  place.  The  Assembly  then  continues  to  function until the new Assembly is elected.
-
-- A member of the Assembly represents the whole nation. He safeguards the public  interest  and  is  not  subject  to  any  authority  in the  discharge  of  his duties in the Assembly or in its committees.
+- If the elections are not held within the said period, the dissolved Assembly is restored to its full constitutional authority and meets immediately as if the dissolution had not taken place. The Assembly then continues to function until the new Assembly is elected.
 
 ##### Article 108 {...}
+
+A member of the Assembly represents the whole nation. He safeguards the public interest and is not subject to any authority in the discharge of his duties in the Assembly or in its committees.
 
 ##### Article 109 [Member Bills]
 
@@ -998,9 +998,9 @@ The right of recourse to the Courts is guaranteed to all people. Law prescribes 
 
 ##### Article 167 [Public Prosecution]
 
-- The Public Prosecution Office conducts penal charges on behalf of society. It supervises  the  affairs  of  judicial  police,  the  enforcement  of  penal  laws,  the pursuit of offenders, and the execution of judgments. Law regulates this body, lays down its duties, and defines the conditions and guarantees for those who assume its functions.
+(1) The Public Prosecution Office conducts penal charges on behalf of society. It supervises  the  affairs  of  judicial  police,  the  enforcement  of  penal  laws,  the pursuit of offenders, and the execution of judgments. Law regulates this body, lays down its duties, and defines the conditions and guarantees for those who assume its functions.
 
-- As an exception, law may entrust to the public security authorities the conduct of prosecutions in misdemeanors in accordance with the manner prescribed by law.
+(2) As an exception, law may entrust to the public security authorities the conduct of prosecutions in misdemeanors in accordance with the manner prescribed by law.
 
 ##### Article 168 [Supreme Council of Judiciary]
 
@@ -1024,11 +1024,11 @@ The method of resolving conflicts of jurisdiction or of judgments between the va
 
 ##### Article 173 [Constitutional Review]
 
-- The law specifies the judicial body competent to deciding disputes relating to the constitutionality of laws and regulations and determines its jurisdiction and procedure.
+(1) The law specifies the judicial body competent to deciding disputes relating to the constitutionality of laws and regulations and determines its jurisdiction and procedure.
 
-- The  law  ensures  the  right  of  both  the  Government  and  the  interested parties to challenge the constitutionality of laws and regulations before the said body.
+(2) The  law  ensures  the  right  of  both  the  Government  and  the  interested parties to challenge the constitutionality of laws and regulations before the said body.
 
-- If the said body decides that a law or a regulation is unconstitutional, it is considered null and void.
+(3) If the said body decides that a law or a regulation is unconstitutional, it is considered null and void.
 
 26
 
@@ -1042,15 +1042,15 @@ The method of resolving conflicts of jurisdiction or of judgments between the va
 
 ##### Article 174 [Amendments of the Constitution]
 
-- The  Amir  or  one-third  of  the  members  of  the  National  Assembly  have  the right.
+1. The  Amir  or  one-third  of  the  members  of  the  National  Assembly  have  the right.
 
-- To propose a revision of the Constitution by amending or deleting one or more of its provisions or by adding new provisions.
+2. To propose a revision of the Constitution by amending or deleting one or more of its provisions or by adding new provisions.
 
-- If  the  Amir  and  the  majority  of  the  members  constituting  the  National Assembly  approve  the  principle  of  revision  and  its  subject  matter,  the Assembly debates the bill article by article. Approval by a two-thirds majority vote of the members constituting the Assembly is required for the bill to be passed.  The  revision  comes  into  force  only  after  being  sanctioned  and promulgated by the Amir regardless of the provisions of Articles 65 and 66.
+3. If  the  Amir  and  the  majority  of  the  members  constituting  the  National Assembly  approve  the  principle  of  revision  and  its  subject  matter,  the Assembly debates the bill article by article. Approval by a two-thirds majority vote of the members constituting the Assembly is required for the bill to be passed.  The  revision  comes  into  force  only  after  being  sanctioned  and promulgated by the Amir regardless of the provisions of Articles 65 and 66.
 
-- If  the  principle  of  revision  or  its  subject  matter  is  rejected,  it  may  not  be presented again before the lapse of one year from the rejection.
+4. If  the  principle  of  revision  or  its  subject  matter  is  rejected,  it  may  not  be presented again before the lapse of one year from the rejection.
 
-- No amendment to this Constitution may be proposed before the lapse of five years from its coming into force.
+5. No amendment to this Constitution may be proposed before the lapse of five years from its coming into force.
 
 ##### Article 175 [Limits to Constitutional Amendments]
 
@@ -1092,9 +1092,9 @@ This  Constitution  shall  be  published  in  the Official  Gazette  and  comes 
 
 ##### Article 183 [Continuing Assembly]
 
-Law  Number  I  of  1962  concerning  the system  of  Government  during  the period  of  transition  continues  to  be  in  force,  and  the  present  members  of  the Constituent Assembly continue in the exercise of their duties specified in the said law, until the meeting of the National Assembly.
+Law  Number  1  of  1962  concerning  the system  of  Government  during  the period  of  transition  continues  to  be  in  force,  and  the  present  members  of  the Constituent Assembly continue in the exercise of their duties specified in the said law, until the meeting of the National Assembly.
 
-Abdullah Al-Salim AI-Subah
+Abdullah Al-Salim Al-Sabah
 
 Amir of the State of Kuwait
 
@@ -1104,7 +1104,7 @@ Issued at the Seif Palace on the:
 
 Corresponding to the:
 
-11 th of November, 1962
+11th of November, 1962
 
 28
 
