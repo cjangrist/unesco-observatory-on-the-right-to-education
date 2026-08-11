@@ -1,5 +1,10 @@
 [[START OF PAGE 1]]
 
+Prime Minister of Japan and His Cabinet
+TOP
+
+# The Constitution of Japan
+
 Promulgated on November 3, 1946 Came into effect on May 3, 1947
 
 We, the Japanese people, acting through our duly elected representatives in the National Diet, determined that we shall secure for ourselves and our posterity the fruits of peaceful cooperation with all nations and the blessings of liberty throughout this land, and resolved that never again shall we be visited with the horrors of war through the action of government, do proclaim that sovereign power resides with the people and do firmly establish this Constitution. Government is a sacred trust of the people, the authority for which is derived from the people, the powers of which are exercised by the representatives of the people, and the benefits of which are enjoyed by the people. This is a universal principle of mankind upon which this Constitution is founded. We reject and revoke all constitutions, laws, ordinances, and rescripts in conflict herewith. We, the Japanese people, desire peace for all time and are deeply conscious of the high ideals controlling human relationship, and we have determined to preserve our security and existence, trusting in the justice and faith of the peace-loving peoples of the world. We desire to occupy an honored place in an international society striving for the preservation of peace, and the banishment of tyranny and slavery, oppression and intolerance for all time from the earth. We recognize that all peoples of the world have the right to live in peace, free from fear and want. We believe that no nation is responsible to itself alone, but that laws of political morality are universal; and that obedience to such laws is incumbent upon all nations who would sustain their own sovereignty and justify their sovereign relationship with other nations. We, the Japanese people, pledge our national honor to accomplish these
@@ -53,11 +58,13 @@ No property can be given to, or received by, the Imperial House, nor can any gif
 ### Article 9.
 Aspiring sincerely to an international peace based on justice and order, the Japanese people forever renounce war as a sovereign right of the nation and the threat or use of force as means of settling international disputes.
 
-In order to accomplish the aim of the preceding paragraph, land, sea, and air forces, as well as other war potential, will never be maintained. The right of belligerency of the state will not be recognized.
+In order to accomplish the aim of the preceding paragraph, land, sea, and
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+air forces, as well as other war potential, will never be maintained. The right of belligerency of the state will not be recognized.
 
 # CHAPTER III
 
@@ -201,11 +208,13 @@ Members of both Houses shall not be held liable outside the House for speeches, 
 ### Article 52.
 An ordinary session of the Diet shall be convoked once per year.
 ### Article 53.
-The Cabinet may determine to convoke extraordinary sessions of the Diet. When a quarter or more of the total members of either House makes the demand, the Cabinet must determine on such convocation.
+The Cabinet may determine to convoke extraordinary sessions of the Diet. When a quarter or more of the total members of either House
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+makes the demand, the Cabinet must determine on such convocation.
 
 ### Article 54.
 When the House of Representatives is dissolved, there must be a general election of members of the House of Representatives within forty (40) days from the date of dissolution, and the Diet must be convoked within thirty (30) days from the date of the election. When the House of Representatives is dissolved, the House of Councillors is closed at the same time. However, the Cabinet may in time of national emergency convoke the House of Councillors in emergency session. Measures taken at such session as mentioned in the proviso of the preceding paragraph shall be provisional and shall become null and void unless agreed to by the House of Representatives within a period of ten (10) days after the opening of the next session of the Diet.
@@ -223,11 +232,13 @@ Deliberation in each House shall be public. However, a secret meeting may be hel
 Each House shall select its own president and other officials. Each House shall establish its rules pertaining to meetings, proceedings and internal discipline, and may punish members for disorderly conduct. However, in order to expel a member, a majority of two-thirds or more of those members present must pass a resolution thereon.
 
 ### Article 59.
-A bill becomes a law on passage by both Houses, except as otherwise provided by the Constitution. A bill which is passed by the House of Representatives, and upon which the House of Councillors makes a decision different from that of the House of Representatives, becomes a law when passed a second time by the House of Representatives by a majority of two-thirds or more of the members present. The provision of the preceding paragraph does not preclude the House of Representatives from calling for the meeting of a joint committee of both Houses, provided for by law. Failure by the House of Councillors to take final action within sixty (60) days after receipt of a bill passed by the House of Representatives, time in recess excepted, may be determined by the House of Representatives to constitute a rejection of the said bill by the House of Councillors.
+A bill becomes a law on passage by both Houses, except as otherwise provided by the Constitution. A bill which is passed by the House of Representatives, and upon which the House of Councillors makes a decision different from that of the House of Representatives, becomes a law when passed a second time by the House of Representatives by a majority of two-thirds or more of the members present. The provision of the preceding paragraph does not preclude the House of Representatives from calling for the meeting of a joint committee of both Houses, provided for by law. Failure by the House of Councillors to take final action within sixty (60) days after receipt of a bill passed by the House of Representatives, time in recess
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+excepted, may be determined by the House of Representatives to constitute a rejection of the said bill by the House of Councillors.
 
 ### Article 60.
 The budget must first be submitted to the House of Representatives. Upon consideration of the budget, when the House of Councillors makes a decision different from that of the House of Representatives, and when no agreement can be reached even through a joint committee of both Houses, provided for by law, or in the case of failure by the House of Councillors to take final action within thirty (30) days, the period of recess excluded, after the receipt of the budget passed by the House of Representatives, the decision of the House of Representatives shall be the decision of the Diet.
