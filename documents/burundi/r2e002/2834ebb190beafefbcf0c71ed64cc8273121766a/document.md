@@ -6,11 +6,9 @@
 
 !
 
-Republika*y'Uburundi* *
+Republika y’Uburundi
 
-République*du*Burundi*
-
-!
+République du Burundi
 
 !
 
@@ -38,7 +36,10 @@ République*du*Burundi*
 
 !
 
-# Plan*sectoriel*de*développement*de* l'éducation*et*de*la*formation.* 2012@2020*
+!
+
+# Plan sectoriel de développement de l’éducation et de la formation.
+2012-2020
 
 !
 
@@ -58,7 +59,7 @@ République*du*Burundi*
 
 !
 
-Juillet*2012*
+Juillet 2012
 
 *
 
@@ -112,117 +113,67 @@ Madame+Victoire+NAHIMANA:+Président+ (ultérieurement+remplacée+par+Madame+Cha
 
 !
 
-# SOMMAIRE*
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-3!
+# SOMMAIRE
+REMERCIEMENTS.............................................................................................................................2
+1. LISTE DES SIGLES ET ABREVIATIONS...................................................................................5
+LISTE DES GRAHIQUES ET TABLEAUX.........................................................................................7
+2. INTRODUCTION. ..........................................................................................................................8
+2.1. CONTEXTE HISTORIQUE DE REVISION DU PSDEF.................................................................. 8
+2.2. CONTEXTE ECONOMIQUE, SOCIAL ET DEMOGRAPHIQUE................................................... 9
+2.3. CONTEXTE SECTORIEL. .................................................................................................................10
+2.4. L’EDUCATION AU CŒUR DE LA STRATEGIE NATIONALE DE REDUCTION DE LA
+PAUVRETE.................................................................................................................................................14
+2.5. PROCESSUS D’ELABORATION DU PSDEF REVISE. ................................................................15
+3. ORIENTATIONS POLITIQUES DU SECTEUR...................................................................... 16
+3.1. UNE REFORME GLOBALE DE L’ENSEIGNEMENT FONDAMENTAL, POUR UN
+ACHEVEMENT UNIVERSEL ET UNE MEILLEURE EQUITE............................................................16
+3.2. UNE EVOLUTION DE LA GESTION DU SYSTEME. ...................................................................19
+3.2.1. ACCELERER LA DECONCENTRATION. .............................................................................................19
+3.2.2. RENFORCER LES CAPACITES CRITIQUES POUR LE PILOTAGE DE LA REFORME ET
+DU PSDEF...................................................................................................................................................................19
+3.3. DES STRATEGIES D’EXPANSION RAISONNEE POUR L’ENSEMBLE DU SYSTEME. .......20
+4. DEVELOPPEMENT DES PRINCIPALES STRATEGIES ...................................................... 21
+4.1. LES STRATEGIES PAR SOUS-SECTEURS ...................................................................................21
+4.1.1. ENSEIGNEMENT FONDAMENTAL .....................................................................................................21
+4.1.2. ENSEIGNEMENT DES METIERS, FORMATION PROFESSIONNELLE ET
+ENSEIGNEMENT TECHNIQUE..........................................................................................................................27
+4.1.3. ENSEIGNEMENT SECONDAIRE GENERAL ET PEDAGOGIQUE. .............................................29
+4.1.4. ENSEIGNEMENT SUPERIEUR ET RECHERCHE SCIENTIFIQUE.............................................31
+4.1.5. EDUCATION PRESCOLAIRE ET ALPHABETISATION. ................................................................34
+4.2. DEVELOPPEMENT INSTITUTIONNEL ET PILOTAGE DU PLAN SECTORIEL. .................36
+4.2.1. DEVELOPPEMENT INSTITUTIONNEL. .............................................................................................36
+4.2.2. PILOTAGE DU PLAN SECTORIEL (ARRANGEMENTS INSTITUTIONNELS)......................42
+4.2.3. PILOTAGE SPECIFIQUE DES REFORMES PEDAGOGIQUES ET DES FLUX.........................44
+4.2.3-1. REFORME DES PROGRAMMES D’ENSEIGNEMENT................................................................44
+4.2.3.- 2 PILOTAGE DE LA POLITIQUE DE REDUCTION DES REDOUBLEMENTS......................46
+4.2. 3.-3 GESTION DES FLUX .............................................................................................................................47
+4.2.3.-4. EVALUATIONS .......................................................................................................................................50
+4.3. QUESTIONS TRANSVERSALES ET EQUITE...............................................................................51
+4.3.1. MESURES EN FAVEUR DE PUBLICS SPECIFIQUES......................................................................51
+4.3.2. LE REDEPLOIEMENT DES ENSEIGNANTS POUR UNE MEILLEURE EQUITE. .................51
+4.3.3. MESURES D’EQUITE EN MATIERE DE TEMPS SCOLAIRE .......................................................52
+4.3.4. MESURES EN MATIERE D’EQUITE GENRE.....................................................................................53
+5. COUTS ET FINANCEMENT DU PLAN. .................................................................................. 54
+5.1. MOBILISATION DES RESSOURCES INTERIEURES. ................................................................54
+5.2. EFFECTIFS, TRANSITIONS ET ACHEVEMENT.........................................................................56
+5.3. SOUTENABILITE DU SCENARIO DE REFERENCE  DU PSDEF..............................................57
+6. INTRODUCTION AU PLAN D’ACTIONS TRIENNAL.......................................................... 59
+3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-!
-
-7.8.*LISTE*DES*ETUDES*ET*ANALYSES*PERTINENTES*DU*SECTEUR.*......................................*61
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-!
-
-4!
+7- ANNEXES (voir document à part)...................................................................................... 61
+7.1. INDICATEURS DE BASE. ................................................................................................................61
+7.2. CADRE LOGIQUE DU PSDEF. ........................................................................................................61
+7.3.  SCENARIO DE REFERENCE DU PSDEF......................................................................................61
+7.4. PLAN D’ACTION DU PSDEF...........................................................................................................61
+7.5. TABLEAU DES CONTRAINTES DE CAPACITES ET PLAN DE RENFORCEMENT. ............61
+7.6. NOTE SUR LA MAITRISE D’OUVRAGE DES CONSTRUCTIONS SCOLAIRES.....................61
+7.7. TDR SUR LA REVISION DES PROGRAMMES SCOLAIRES. ....................................................61
+7.8. LISTE DES ETUDES ET ANALYSES PERTINENTES DU SECTEUR. ......................................61
+4
 
 [[END OF PAGE 4]]
 
@@ -262,7 +213,7 @@ CONFEMEN! | Conférence!des!Ministres!de!l'Education!des!pays!ayant!le!Français
 CRIDIS! | Centre!de!Recherche!et!d'Intervention!pour!le!Développement!Individuel!,! Communautaire!et!Social!!
 CRS! | Catholic!Relief!Service!
 CSLP! | Cadre!stratégique!de!lutte!contre!la!pauvreté!
-CTA! | Centre!de!transformation!agroCalimentaire!
+CTA! | Centre!de!transformation!agro-alimentaire!
 CTB! | Coopération!technique!belge!
 CTE! | Comité!technique!d'exécution!
 DCE! | Direction!communale!de!l'enseignement!
@@ -286,17 +237,17 @@ FCE! | Fonds!commun!pour!l'éducation!
 
 [[START OF PAGE 6]]
 
-F!4! | 4 ème !cycle!de!l'enseignement!fondamental!
+F 4! | 4ème!cycle!de!l'enseignement!fondamental!
 --- | ---
-FIE! | Formation!Initiale!des!Enseignants!pour!l'enseignement!fondamental!(projet! de!la!CTB!CBDI!09!057!11)!
+FIE! | Formation!Initiale!des!Enseignants!pour!l'enseignement!fondamental!(projet!de!la!CTB-BDI!09!057!11)!
 FNUAP! | Fonds!des!Nations!Unies!pour!la!Population!
 FPSE! | Faculté!de!Psychologie!et!des!Sciences!de!l'Education!
 GP! | Groupe!pédagogique!
 GPE! | Global!Partnership!for!Education!
 GSE! | Groupe!sectoriel!de!l'éducation!
-hj! | hommeCjour!
-hjs! | hommeCjourCsensibilisation!
-hm! | hommeCmois!
+hj! | homme-jour!
+hjs! | homme-jour-sensibilisation!
+hm! | homme-mois!
 ICE! | Inspection!communale!de!l'enseignement!
 IFADEM! | Initiative!de!formation!à!distance!des!maîtres!
 IPA! | Institut!de!pédagogie!appliquée!
@@ -312,7 +263,7 @@ MOE! | Maître!d'ouvrage!
 OAG! | Observatoire!de!l'Action!Gouvernementale!
 PAP! | Plan!d'Actions!Prioritaires!
 PARES! | Projet!d'Appui!au!Renforcement!de!l'Enseignement!Supérieur!
-PARSEBCEI! | (Jumelage)Projet!de!réhabilitation!du!système!éducatif!burundaisC!Education! Internationale!
+PARSEB-EI! | (Jumelage)Projet!de!réhabilitation!du!système!éducatif!burundais-!Education!Internationale!
 PIB! | Produit!intérieur!brut!
 PM! | Pour!mémoire!
 PME! | Partenariat!Mondial!pour!l'Education!
@@ -331,9 +282,10 @@ SIGE! | Système!d'information!et!de!gestion!de!l'éducation.!
 SIGEFI! | Système!informatique!de!gestion!des!finances!
 SEO! | Secrétariat!exécutif!opérationnel!
 SP! | Secrétaire!Permanent!
-SOFRECO ! | Société Française de Réalisation, d'Etudes et de Conseil ! Taux!brut!de!scolarité!
-TBS!
-UB!! UNESCO! | Université!du!Burundi! United!Nations!Educational!Scientific!and!Cultural!Organisation!
+SOFRECO! | Société Française de Réalisation, d’Etudes et de Conseil
+TBS! | Taux!brut!de!scolarité!
+UB! | Université!du!Burundi!
+UNESCO! | United!Nations!Educational!Scientific!and!Cultural!Organisation!
 UNICEF! | Fonds!des!Nations!Unies!pour!l'Enfance!
 
 !
@@ -380,7 +332,7 @@ Au! même! moment,! le! secteur! de! l'éducation! a! connu! d'importants! chang
 
 $
 
-Sur!le!plan!politique,!après!plus!de!dix!ans!de!guerre!civile,!l'heure!est!à!la!normalisation! et!à!la!consolidation!de!la!sécurité!et!de!la!paix.! Les ! Accords&de&Paix&d'Arusha&de&2000 !et! l'Accord&de&cessez@le@feu&de&2003 !avec!le!dernier!mouvement!rebelle!le!PALIPEHUTUCFNL!! et!son!intégration!dans!la!vie!politique!du!pays!ont!permis!au!Burundi!de!franchir!un!pas! décisif! vers! le! rétablissement! de! la! sécurité! dans! tout! le! pays.! La! tenue! de! nouvelles! élections!en!2010!a!été!le!signal!fort!de!la!continuité!du!processus!démocratique!qui!a! permis!la!mise!en!place!de!nouvelles!institutions.!!
+Sur!le!plan!politique,!après!plus!de!dix!ans!de!guerre!civile,!l'heure!est!à!la!normalisation!et!à!la!consolidation!de!la!sécurité!et!de!la!paix.!Les!Accords&de&Paix&d'Arusha&de&2000!et!l'Accord&de&cessez-le-feu&de&2003!avec!le!dernier!mouvement!rebelle!le!PALIPEHUTU-FNL!et!son!intégration!dans!la!vie!politique!du!pays!ont!permis!au!Burundi!de!franchir!un!pas!décisif!vers!le!rétablissement!de!la!sécurité!dans!tout!le!pays.!La!tenue!de!nouvelles!élections!en!2010!a!été!le!signal!fort!de!la!continuité!du!processus!démocratique!qui!a!permis!la!mise!en!place!de!nouvelles!institutions.!
 
 !
 
@@ -500,7 +452,7 @@ Suite!aux!élections!de!2010!des!changements!institutionnels!importants!ont!ét�
 
 - la! volonté! de! renouer!avec!un!dialogue!sectoriel!entre!Ministères!en!charge!du! secteur! et! les! partenaires! techniques! et! financiers,! gage! d'une! plus! grande! efficacité!de!l'aide!au!développement!et!d'une!meilleure!coordination!du!secteur!;!
 
-- Introduction! de! l'école! fondamentale! au! niveau! du! MEBSEMFPA! et! du! système! BMB!dans!l'enseignement!supérieur.!
+- Introduction! de! l'école! fondamentale! au! niveau! du! MEBSEMFPA! et! du! système! BMD!dans!l'enseignement!supérieur.!
 
 ### Principaux éléments du diagnostic du système éducatif au Burundi
 
@@ -676,39 +628,25 @@ comparables.!
 
 [[START OF PAGE 15]]
 
-Le!PSDEF!s'inscrit!dans!la!continuité!de!cette!stratégie!à!travers!les!formes!principales! suivantes!:!
+Le!PSDEF!s'inscrit!dans!la!continuité!de!cette!stratégie!à!travers!les!formes!principales!suivantes!:!
 
-!
+i)! l'organisation! de! la! production! du! capital! humain! pour! contribuer! à! la! croissance!en!assurant!une!couverture!universelle!et!de!bonne!qualité!au!niveau!de! l'enseignement! fondamental,! qui! est! perçu! comme! un! investissement! à! tout! faire! pour! les! gains! de! productivité! dans! le! secteur! informel,! d'une! part,! et! en! assurant! des! formations! techniques! et! supérieures! en! cohérence! avec! les! demandes! de! l'économie! et! le! marché! de! l'emploi! en! main! d'œuvre! qualifiée,! d'autre!part.!
 
-!
+ii)! l'équipement! des! populations! pauvres! exclues! des! circuits! économiques! efficaces,! du! capital! humain! minimum! qui! leur! permet! l'inclusion! dans! ces! circuits,! et! donc! de! contribuer! aux! progrès! économiques! et! à! titre! individuel,! à! sortir!de!la!trappe!de!la!pauvreté.!
 
-Le!CSLP!met!l'accent!sur!les!progrès!réalisés!dans!l'accès!aux!services!éducatifs!au!cours! des! dernières! années! tout! en! affirmant! la! nécessité! d'accroître! les! performances! du! secteur.!Pour!y!arriver!il!préconise!la!mise!en!place!d'une!école!fondamentale!de!9!ans.! La! réforme! de! l'enseignement! fondamental! qui! vise! l'accès! universel! et! l'achèvement! constitue! la! première! des! priorités! du! CSLP.! Les! autres! priorités,! en! totale! cohérence! avec! celle! du! PSDEF,! sont! :! (i)! la! réduction! du! redoublement! (ii)! l'augmentation! des! heures! effectives! d'enseignement! (iii)! la! révision! des! programmes! scolaires! et! des! curricula! (iv)! le! renforcement! du! système! de! formation! initiale! et! continue! des! enseignants!et!(v)!l'amélioration!de!la!gestion!et!du!pilotage.!Pour!les!autres!niveaux,! l'accent!doit!être!mis!sur!l'amélioration!de!la!qualité!et!de!la!pertinence!des!formations.!!
-
-!
+Le!CSLP!met!l'accent!sur!les!progrès!réalisés!dans!l'accès!aux!services!éducatifs!au!cours!des! dernières! années! tout! en! affirmant! la! nécessité! d'accroître! les! performances! du! secteur.!Pour!y!arriver!il!préconise!la!mise!en!place!d'une!école!fondamentale!de!9!ans.!La! réforme! de! l'enseignement! fondamental! qui! vise! l'accès! universel! et! l'achèvement! constitue! la! première! des! priorités! du! CSLP.! Les! autres! priorités,! en! totale! cohérence! avec! celle! du! PSDEF,! sont! :! (i)! la! réduction! du! redoublement! (ii)! l'augmentation! des! heures! effectives! d'enseignement! (iii)! la! révision! des! programmes! scolaires! et! des! curricula! (iv)! le! renforcement! du! système! de! formation! initiale! et! continue! des! enseignants!et!(v)!l'amélioration!de!la!gestion!et!du!pilotage.!Pour!les!autres!niveaux,!l'accent!doit!être!mis!sur!l'amélioration!de!la!qualité!et!de!la!pertinence!des!formations.!
 
 ## 2.5.$PROCESSUS$D'ELABORATION$DU$PSDEF$REVISE.$
 
-!
+Le!choix!d'un!scénario!de!référence!était!un!préalable!à!l'étape!de!rédaction.!La!période!de! prévision! s'étend! de! 2012! à! 2020,! c'est! aussi! la! période! de! mise! en! œuvre! du! programme!national.!Les!documents!en!annexe,!plus!précis,!proposent!un!plan!d'actions!budgétisé!sur!la!période!2013-2015.!
 
-Le!choix!d'un!scénario!de!référence!était!un!préalable!à!l'étape!de!rédaction.!La!période! de! prévision! s'étend! de! 2012! à! 2020,! c'est! aussi! la! période! de! mise! en! œuvre! du! programme!national.!Les!documents!en!annexe,!plus!précis,!proposent!un!plan!d'actions! budgétisé!sur!la!période!2013C2015.!
+Les!simulations!financières!ont!été!réalisées!sur!un!modèle,!le!choix!définitif!du!scénario!de!référence!a!été!fait!au!moment!du!démarrage!des!travaux!de!rédaction!du!PSDEF!et!de!ses!annexes.!
 
-!
+La!rédaction!a!été!confiée!à!une!équipe!nationale!de!cadres!des!Ministères!en!charge!de!l'éducation! appuyée! par! une! expertise! internationale! recrutée! à! cet! effet,! ! afin! qu'elle! apporte! un! regard! externe,! une! expérience! sectorielle! tirée! de! plusieurs! pays,! une! coordination! technique! et! de! la! méthode.! L'écriture! s'est! faite! en! ateliers! intensifs! et!structurés.!Les!!étapes!d'écriture!et!d'évaluation!ont!été!parallèles,!en!privilégiant!une!approche!concertée,!!afin!de!faciliter!le!processus!d'endossement!par!les!PTF.!
 
-Les!simulations!financières!ont!été!réalisées!sur!un!modèle,!le!choix!définitif!du!scénario! de!référence!a!été!fait!au!moment!du!démarrage!des!travaux!de!rédaction!du!PSDEF!et! de!ses!annexes.! La!rédaction!a!été!confiée!à!une!équipe!nationale!de!cadres!des!Ministères!en!charge!de! l'éducation! appuyée! par! une! expertise! internationale! recrutée! à! cet! effet,! ! afin! qu'elle! apporte! un! regard! externe,! une! expérience! sectorielle! tirée! de! plusieurs! pays,! une! coordination! technique! et! de! la! méthode.! L'écriture! s'est! faite! en! ateliers! intensifs! et! structurés.!Les!!étapes!d'écriture!et!d'évaluation!ont!été!parallèles,!en!privilégiant!une! approche!concertée,!!afin!de!faciliter!le!processus!d'endossement!par!les!PTF.!!
-
-!
-
-Un!atelier!de!validation!conjointe!du!projet!sera!ensuite!organisé!avec!la!participation!de! représentants! du! Gouvernement,! de! la! société! civile! et! les! syndicats! du! secteur.! ! Le! projet!de!PSDEF,!!soumis!à!l'évaluation!des!PTF,!sera!envoyé!!par!courrier!des!Ministres! en!charge!du!secteur!au!chef!de!file!des!PTF.!!
-
-!
+Un!atelier!de!validation!conjointe!du!projet!sera!ensuite!organisé!avec!la!participation!de!représentants! du! Gouvernement,! de! la! société! civile! et! les! syndicats! du! secteur.! ! Le! projet!de!PSDEF,!!soumis!à!l'évaluation!des!PTF,!sera!envoyé!!par!courrier!des!Ministres!en!charge!du!secteur!au!chef!de!file!des!PTF.!
 
 15!
-
-- i)! l'organisation! de! la! production! du! capital! humain! pour! contribuer! à! la! croissance!en!assurant!une!couverture!universelle!et!de!bonne!qualité!au!niveau! de! l'enseignement! fondamental,! qui! est! perçu! comme! un! investissement! à! tout! faire! pour! les! gains! de! productivité! dans! le! secteur! informel,! d'une! part,! et! en! assurant! des! formations! techniques! et! supérieures! en! cohérence! avec! les! demandes! de! l'économie! et! le! marché! de! l'emploi! en! main! d'œuvre! qualifiée,! d'autre!part.!
-
-!
-
-!ii)! l'équipement! des! populations! pauvres! exclues! des! circuits! économiques! efficaces,! du! capital! humain! minimum! qui! leur! permet! l'inclusion! dans! ces! circuits,! et! donc! de! contribuer! aux! progrès! économiques! et! à! titre! individuel,! à! sortir!de!la!trappe!de!la!pauvreté.!
 
 [[END OF PAGE 15]]
 
@@ -789,11 +727,9 @@ La! situation! des! parcours! scolaires! en! 2010! pouvait! être! représentée
 [[START OF PAGE 18]]
 
 Graphique*1 !:!Parcours!scolaires!des!élèves!dans!le!système!éducatif!burundais!en!2010!
-
-!
-
-!
-
+140 120 100 80 60 40 20 00
+1 2 3 4 5 6 7 8 9 10 11 12
+Série1
 Source$ : $ Données!tirées!du!!scenario!du!modèle!de!simulation,!2012 .
 
 !
@@ -805,11 +741,9 @@ A!ce!schéma!regrettable,!la!stratégie!nationale!entend!substituer!une!ambition
 !
 
 Graphique*2 !:!! Parcours! scolaires! des! élèves! du! fondamental! dans! le! système! éducatif!burundais!!
-
-!
-
-!
-
+120 100 80 60 40 20 00
+1 2 3 4 5 6 7 8 9 10 11 12
+Série1
 Source! : ! Données$tirées$du$$scenario$du$modèle$de$simulation,$2012.
 
 !
@@ -874,39 +808,23 @@ C'est!pourquoi!le!PSDEF!a!fait!le!choix!de!retenir!un!petit!nombre!de!fonctions!
 
 [[START OF PAGE 20]]
 
-!
+- la!gestion!budgétaire!et!financière,!de!façon!à!garantir!l'efficacité!dans!l'exécution!des! dépenses,! en! particulier! par! le! truchement! du! Fonds! commun! pour! l'éducation,!qui!recevra,!entre!autres,!le!don!du!PME!;!
+- la! gestion! des! ressources! humaines,! dans! la! mesure! où! l'utilisation! plus! rationnelle!des!personnels!enseignants!est!la!condition!pour!que!l'expansion!de!l'offre!puisse!se!réaliser!sans!explosion!des!coûts!;!
+- la!supervision!pédagogique,!dont!le!rôle!sera!d'accompagner!la!réforme!de!fond!de!l'enseignement!fondamental!et!en!particulier,!de!s'engager!dans!la!bataille!du!redoublement!et!de!la!qualité!;!
+- l'information!statistique!et!la!planification,!clef!de!voûte!du!pilotage!du!système!;!
+- la! maîtrise! d'ouvrage! des! constructions,! le! rythme! de! ces! dernières! devant! atteindre!un!niveau!jamais!atteint!jusque-là.!
 
 ## 3.3.$DES$STRATEGIES$D'EXPANSION$RAISONNEE$POUR$L'ENSEMBLE$DU$SYSTEME.$$
 
-!
+La!stratégie!sectorielle!englobe!des!projets!d'évolution!pour!les!autres!sous-secteurs!de!l'éducation! et! de! la! formation.! Ces! projets! ont! en! commun! de! mettre! en! parallèle! des! efforts!de!structuration!et!une!expansion!sous!contrôle.!
 
-La!stratégie!sectorielle!englobe!des!projets!d'évolution!pour!les!autres!sousCsecteurs!de! l'éducation! et! de! la! formation.! Ces! projets! ont! en! commun! de! mettre! en! parallèle! des! efforts!de!structuration!et!une!expansion!sous!contrôle.!
+L'enseignement!des!métiers,!la!formation!professionnelle!et!l'enseignement!technique!poursuivront!un!chemin!de!partenariats!avec!le!secteur!privé!productif!(!mise!en!place!d'un!cadre!national!des!certifications!et!des!qualifications,!création!d'un!fonds!d'appui!à!la!formation!professionnelle),!l'extension!de!l'autonomie!financière!des!établissements!et! l'augmentation! de! l'offre! de! formations! avec! comme! objectif! un! centre! d'enseignement! des! métiers! (CEM)! par! commune! et! un! centre! de! formation! professionnelle! (CFP)! par! province,! avec! des! missions! élargies! englobant! l'appui! à! l'insertion.!Des!pôles!d'excellence!sous!forme!d'instituts!polytechniques!d'enseignement!des!métiers!et!de!formation!professionnelle!seront!créés!au!niveau!régional!d'abord!et!ensuite!au!niveau!provincial.!
 
-!
+L'enseignement!secondaire!général!et!pédagogique!verra!ses!effectifs!s'accroître,!mais!une!régulation!renforcée!à!la!fin!de!la!9 ème !année!du!fondamental!permettra!de!maîtriser!cette! croissance.! Des! efforts! de! qualité! seront! entrepris,! avec! une! révision! des! programmes! en! lien! avec! le! nouveau! profil! des! élèves! issus! du! fondamental! et! un! accroissement! des! dépenses! de! qualité.! L'orientation! des! élèves! vers! les! séries! scientifiques!et!technologiques!sera!promue.!Les!filières!pédagogiques!des!lycées!seront!supprimées!au!profit!des!sections!normales,!qui!correspondent!mieux!aux!exigences!du!nouvel!enseignement!fondamental.!
 
-L'enseignement!des!métiers,!la!formation!professionnelle!et!l'enseignement!technique! poursuivront!un!chemin!de!partenariats!avec!le!secteur!privé!productif!(!mise!en!place! d'un!cadre!national!des!certifications!et!des!qualifications,!création!d'un!fonds!d'appui!à! la!formation!professionnelle),!l'extension!de!l'autonomie!financière!des!établissements! et! l'augmentation! de! l'offre! de! formations! avec! comme! objectif! un! centre! d'enseignement! des! métiers! (CEM)! par! commune! et! un! centre! de! formation! professionnelle! (CFP)! par! province,! avec! des! missions! élargies! englobant! l'appui! à! l'insertion.!Des!pôles!d'excellence!sous!forme!d'instituts!polytechniques!d'enseignement! des!métiers!et!de!formation!professionnelle!seront!créés!au!niveau!régional!d'abord!et! ensuite!au!niveau!provincial.!
-
-!
-
-L'enseignement!secondaire!général!et!pédagogique!verra!ses!effectifs!s'accroître,!mais! une!régulation!renforcée!à!la!fin!de!la!9 ème !année!du!fondamental!permettra!de!maîtriser! cette! croissance.! Des! efforts! de! qualité! seront! entrepris,! avec! une! révision! des! programmes! en! lien! avec! le! nouveau! profil! des! élèves! issus! du! fondamental! et! un! accroissement! des! dépenses! de! qualité.! L'orientation! des! élèves! vers! les! séries! scientifiques!et!technologiques!sera!promue.!Les!filières!pédagogiques!des!lycées!seront! supprimées!au!profit!des!sections!normales,!qui!correspondent!mieux!aux!exigences!du! nouvel!enseignement!fondamental.!
-
-!
-
-L'enseignement! supérieur! met! en! place! la! réforme! BMD,! développe! une! offre! de! formation!technologique!postCsecondaire!à!cursus!courts,!régule!les!flux!entre!les!filières! au!moyen!d'une!politique!ciblée!et!contingentée!des!bourses,!promeut!l'orientation!vers! les! établissements! privés! et! s'appuie! sur! le! renforcement! des! partenariats! sous! régionaux! nécessaires! pour! l'extension! des! possibilités! offertes! aux! étudiants.! L'amélioration! de! la! qualité! des! enseignements! est! attendue! de! la! réforme! BMD! qui! contribuera!à!améliorer!le!taux!d'encadrement!des!étudiants!et!de!la!mise!en!place!d'un! système! d'assuranceCqualité.! Dans! le! domaine! de! la! professionnalisation! et! du! développement! des! sciences! et! de! la! technologie,! le! Ministère! mettra! en! place! des!
-
-!
+L'enseignement! supérieur! met! en! place! la! réforme! BMD,! développe! une! offre! de! formation!technologique!post-secondaire!à!cursus!courts,!régule!les!flux!entre!les!filières!au!moyen!d'une!politique!ciblée!et!contingentée!des!bourses,!promeut!l'orientation!vers!les! établissements! privés! et! s'appuie! sur! le! renforcement! des! partenariats! sous-régionaux! nécessaires! pour! l'extension! des! possibilités! offertes! aux! étudiants.! L'amélioration! de! la! qualité! des! enseignements! est! attendue! de! la! réforme! BMD! qui! contribuera!à!améliorer!le!taux!d'encadrement!des!étudiants!et!de!la!mise!en!place!d'un!système! d'assurance-qualité.! Dans! le! domaine! de! la! professionnalisation! et! du! développement! des! sciences! et! de! la! technologie,! le! Ministère! mettra! en! place! des!
 
 20!
-
-- la!gestion!budgétaire!et!financière,!de!façon!à!garantir!l'efficacité!dans!l'exécution! des! dépenses,! en! particulier! par! le! truchement! du! Fonds! commun! pour! l'éducation,!qui!recevra,!entre!autres,!le!don!du!PME!;!
-
-- la! gestion! des! ressources! humaines,! dans! la! mesure! où! l'utilisation! plus! rationnelle!des!personnels!enseignants!est!la!condition!pour!que!l'expansion!de! l'offre!puisse!se!réaliser!sans!explosion!des!coûts!;!
-
-- la!supervision!pédagogique,!dont!le!rôle!sera!d'accompagner!la!réforme!de!fond! de!l'enseignement!fondamental!et!en!particulier,!de!s'engager!dans!la!bataille!du! redoublement!et!de!la!qualité!;!
-
-- l'information!statistique!et!la!planification,!clef!de!voûte!du!pilotage!du!système!;!
-
-- la! maîtrise! d'ouvrage! des! constructions,! le! rythme! de! ces! dernières! devant! atteindre!un!niveau!jamais!atteint!jusqueClà.!
 
 [[END OF PAGE 20]]
 
@@ -968,35 +886,18 @@ constaté!actuellement.!
 
 !
 
-Le! second! pilier! de! la! stratégie! d'achèvement! consiste! à! améliorer! l'équité! entre! les! élèves,!en!faisant!disparaître!les!handicaps!dont!souffrent!ceux!qui,!aujourd'hui,!suivent! une! scolarité! sous! le! régime! de! la! double! vacation,! et! ne! bénéficient! pas! d'un! temps! d'apprentissage!convenable.!Pour!cela,!il!est!prévu!:!
+Le! second! pilier! de! la! stratégie! d'achèvement! consiste! à! améliorer! l'équité! entre! les! élèves,!en!faisant!disparaître!les!handicaps!dont!souffrent!ceux!qui,!aujourd'hui,!suivent!une! scolarité! sous! le! régime! de! la! double! vacation,! et! ne! bénéficient! pas! d'un! temps! d'apprentissage!convenable.!Pour!cela,!il!est!prévu!:!
 
-!
+(i) d'éliminer! les! situations! de! double! vacation!à!un!seul!enseignant!pour!deux!groupes!pédagogiques!successifs.!Il!existe!aujourd'hui!encore!environ!2000!situations!de!ce!type!au!Burundi,!il!n'en!existera!plus!une!seule!à!la!rentrée!2015.!
+(ii) de!diminuer!des!deux!tiers!le!nombre!de!situations!de!double!vacation!à!deux!enseignants! pour! deux! groupes! pédagogiques! successifs.! Malheureusement,! en! fin! de! période,! ce! mode! d'organisation,! devenu! certes! minoritaire,! continuera! d'exister! (pour! le! cinquième! des! enseignants,! contre! plus! de! la! moitié!aujourd'hui).!
+(iii) de! modifier! les! horaires! réglementaires! des! classes! fonctionnant! en! double! vacation.!Une!première!ordonnance!prévoit!l'allongement!des!horaires!dans!la!journée,!son!effet!sera!de!porter!l'horaire!hebdomadaire!des!enfants!à!20!heures!environ,!soit!6!heures!de!plus!qu'aujourd'hui.!Au-delà,!l'augmentation!du!temps!scolaire!de!ces!enfants!nécessite!soit!de!mettre!en!place!des!cours!le!samedi,! soit! de! diminuer! un! peu! le! temps! des! congés! scolaires! en! cours! d'année.!Les!autorités!sectorielles!entament!un!processus!de!réflexion!et!de!concertation!avec!la!profession!enseignante,!les!parents!d'élèves!et!la!société!civile,! afin! de! choisir! la! solution! la! plus! acceptable! et! la! mieux! adaptée.! Ces! mesures! de! temps! scolaire! n'engendreront! pas! de! coût! supplémentaire,! puisque! les! enseignants! exerçant! aujourd'hui! en! double! vacation! effectuent! un!service!hebdomadaire!inférieur!à!leur!charge!réglementaire.!
 
-!
+Des!mesures!!particulières!d'équité!pour!des!publics!ayant!encore!des!difficultés!d'accès!sont!décrites!plus!bas,!point!n°!4.3.1.!
 
-Des!mesures!!particulières!d'équité!pour!des!publics!ayant!encore!des!difficultés!d'accès! sont!décrites!plus!bas,!point!n°!4.3.1.!
+Le! troisième! pilier! de! la! stratégie! visant! l'achèvement! universel! consiste! en! une! réduction!énergique!des!taux!de!redoublement!(en!moyenne!39,7%!aujourd'hui) 15 .!Cette!politique!de!lutte!contre!le!redoublement!vise!l'atteinte!d'une!proportion!acceptable!de!redoublants!(5!%!maximum!en!1 ère ,!2 ème ,!4 ème !et!5 ème !année,!15!%!maximum!en!3 ème !et!6 ème !année).!Les!mesures!seront!les!suivantes!:!
 
-!
-
-Le! troisième! pilier! de! la! stratégie! visant! l'achèvement! universel! consiste! en! une! réduction!énergique!des!taux!de!redoublement!(en!moyenne!39,7%!aujourd'hui) 15 .!Cette! politique!de!lutte!contre!le!redoublement!vise!l'atteinte!d'une!proportion!acceptable!de! redoublants!(5!%!maximum!en!1 ère ,!2 ème ,!4 ème !et!5 ème !année,!15!%!maximum!en!3 ème !et! 6 ème !année).!Les!mesures!seront!les!suivantes!:!
-
-!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !
-
-14 ! 4769!en!trois!ans!pour!les!trois!premiers!cycles!du!fondamental,!auxquelles!rajouter!éventuellement!
-
-des!reconstructions!de!salles!dégradées.!
-
-15 ! On! sait! qu'en! moyenne,! un! point! de! redoublement! en! moins! entraine! mécaniquement! 0,8! point!
-
-d'achèvement! en! plus.! Dans! le! cas! du! Burundi,! où! l'enfant! n'accède! à! l'école! qu'à! l'âge! de! 7! ans,! cette!
-
-relation!est!susceptible!d'être!plus!forte!encore.!
-
-!
-
-(i) !!!!!!!d'éliminer! les! situations! de! double! vacation!à!un!seul!enseignant!pour!deux! groupes!pédagogiques!successifs.! Il! existe! aujourd'hui! encore! environ! 2000! situations!de!ce!type!au!Burundi,!il!n'en!existera!plus!une!seule!à!la!rentrée! 2015.! (ii) !!!!!!de!diminuer!des!deux!tiers!le!nombre!de!situations!de!double!vacation!à!deux! enseignants! pour! deux! groupes! pédagogiques! successifs.! Malheureusement,! en! fin! de! période,! ce! mode! d'organisation,! devenu! certes! minoritaire,! continuera! d'exister! (pour! le! cinquième! des! enseignants,! contre! plus! de! la! moitié!aujourd'hui).! (iii) !de! modifier! les! horaires! réglementaires! des! classes! fonctionnant! en! double! vacation.!Une!première!ordonnance!prévoit!l'allongement!des!horaires!dans! la!journée,!son!effet!sera!de!porter!l'horaire!hebdomadaire!des!enfants!à!20! heures!environ,!soit!6!heures!de!plus!qu'aujourd'hui.!AuCdelà,!l'augmentation! du!temps!scolaire!de!ces!enfants!nécessite!soit!de!mettre!en!place!des!cours!le! samedi,! soit! de! diminuer! un! peu! le! temps! des! congés! scolaires! en! cours! d'année.!Les!autorités!sectorielles!entament!un!processus!de!réflexion!et!de! concertation!avec!la!profession!enseignante,!les!parents!d'élèves!et!la!société! civile,! afin! de! choisir! la! solution! la! plus! acceptable! et! la! mieux! adaptée.! Ces! mesures! de! temps! scolaire! n'engendreront! pas! de! coût! supplémentaire,! puisque! les! enseignants! exerçant! aujourd'hui! en! double! vacation! effectuent! un!service!hebdomadaire!inférieur!à!leur!charge!réglementaire.!
+14 !4769!en!trois!ans!pour!les!trois!premiers!cycles!du!fondamental,!auxquelles!rajouter!éventuellement!des!reconstructions!de!salles!dégradées.!
+15 !On!sait!qu'en!moyenne,!un!point!de!redoublement!en!moins!entraine!mécaniquement!0,8!point!d'achèvement!en!plus.!Dans!le!cas!du!Burundi,!où!l'enfant!n'accède!à!l'école!qu'à!l'âge!de!7!ans,!cette!relation!est!susceptible!d'être!plus!forte!encore.!
 
 22!
 
@@ -1004,27 +905,21 @@ relation!est!susceptible!d'être!plus!forte!encore.!
 
 [[START OF PAGE 23]]
 
-!
+(i) fixation! réglementaire!de!critères!d'évaluation!des!enfants!et!de!décision!de!passage!de!classe,!avec!mise!en!place!de!délibérations!collectives!;!
+(ii) prohibition!du!redoublement!volontaire!prononcé!à!la!demande!de!la!famille!;!
+(iii) mesures! pédagogiques! portant! sur! l'évaluation! et! sur! les! exigences! des! enseignants,! jugées! souvent! excessives.! Cette! mesure! sera! parallèle! à! la! révision!des!programmes!jugés!vastes!au!niveau!de!l'enseignement!primaire!(F1-F3)!;!
+(iv) sensibilisation!et!communication!auprès!des!enseignants!et!des!familles!;!
+(v) mise! en! place! d'un! processus! de! concertation! avec! les! enseignants! et! les! parents! d'élèves! permettant! de! convenir! d'une! pratique! de! promotion! automatique!des!élèves!au!sein!des!sous-cycles!de!deux!ans!chacun!;!
+(vi) développement!des!capacités!d'accueil!et!de!la!promotion!des!élèves!au!cycle!4! du! fondamental.! Il! apparaît! en! effet! qu'aujourd'hui,! la! sévérité! de! la! régulation!des!flux!entre!l'école!primaire!et!le!collège!porte!une!grande!part!de! responsabilité! dans! la! pratique! des! redoublements,! l'encombrement! des! classes! de! 6 ème ! année! diminuant! les! possibilités! de! promotion! des! élèves! terminant!la!cinquième!année,!avec!des!répercussions!similaires!jusque!dans!les!premières!années!du!cycle!;!
+(vii) instauration!d'un!supplément!à!la!subvention!annuelle!de!l'école!sur!la!base!de!l'atteinte!d'objectifs!en!matière!de!redoublement!
 
-Le! quatrième! pilier! de! la! stratégie! de! développement! des! trois! premiers! cycles! du! fondamental! consiste! en! l'amélioration! de! l'utilisation! des! enseignants.! La! diminution! importante!des!situations!de!double!vacation!(à!deux!enseignants!pour!deux!groupes! successifs),! la! suppression! des! situations! où! deux! enseignants! sont! présents! simultanément!dans!la!même!classe,!ainsi!que!l'augmentation!des!horaires!des!classes! restant! en! double! vacation,! limiteront! le! sousCemploi! des! enseignants,! qui! représente! aujourd'hui! un! handicap! lourd! pour! le! système.! La! réduction! des! doubles! vacations! passera! principalement! par! les! constructions! de! salles! de! classes! et! une! meilleure! affectation! des! enseignants.! Il! est! prévu! que! le! point! de! référence! pour! le! groupe! pédagogique!passe!de!53!en!2013!à!50!en!2020.!Le!redéploiement!géographique!des! enseignants! initié! en! 2010! a! permis! de! réaliser! des! progrès! sur! l'aléa! de! leur! distribution,! des! mesures! locales! de! même! type! continueront! d'être! prises! aux! fins! d'améliorer! encore! cette! situation.! Enfin,! la! réglementation! de! l'affectation! de! suppléants!dans!les!écoles!permettra!de!limiter!cette!pratique!aux!besoins!pour!lesquels! elle!a!été!initiée.!Le!nombre!d'enseignants!suppléants!est!donc!appelé!à!se!stabiliser.!!
+Le! quatrième! pilier! de! la! stratégie! de! développement! des! trois! premiers! cycles! du! fondamental! consiste! en! l'amélioration! de! l'utilisation! des! enseignants.! La! diminution! importante!des!situations!de!double!vacation!(à!deux!enseignants!pour!deux!groupes!successifs),! la! suppression! des! situations! où! deux! enseignants! sont! présents! simultanément!dans!la!même!classe,!ainsi!que!l'augmentation!des!horaires!des!classes!restant! en! double! vacation,! limiteront! le! sous-emploi! des! enseignants,! qui! représente! aujourd'hui! un! handicap! lourd! pour! le! système.! La! réduction! des! doubles! vacations! passera! principalement! par! les! constructions! de! salles! de! classes! et! une! meilleure! affectation! des! enseignants.! Il! est! prévu! que! le! point! de! référence! pour! le! groupe! pédagogique!passe!de!53!en!2013!à!50!en!2020.!Le!redéploiement!géographique!des!enseignants! initié! en! 2010! a! permis! de! réaliser! des! progrès! sur! l'aléa! de! leur! distribution,! des! mesures! locales! de! même! type! continueront! d'être! prises! aux! fins! d'améliorer! encore! cette! situation.! Enfin,! la! réglementation! de! l'affectation! de! suppléants!dans!les!écoles!permettra!de!limiter!cette!pratique!aux!besoins!pour!lesquels!elle!a!été!initiée.!Le!nombre!d'enseignants!suppléants!est!donc!appelé!à!se!stabiliser.!
 
-!
+Des! mesures! de! soutien! à! la! demande! scolaire! complèteront! les! quatre! piliers! précédemment!décrits.!Au!titre!de!ces!mesures!de!soutien!figurent!la!poursuite!de!la!politique!d'alimentation!scolaire!dans!les!zones!d'insécurité!alimentaire,!l'instauration,!à!compter! de! 2013,! d'appuis! spécifiques! au! bénéfice! des! enfants! défavorisés! et! le! développement! d'une! offre! adaptée! aux! enfants! déscolarisés.! L'alimentation! scolaire! couvre!le!niveau!primaire!et!pré!scolaire!et!se!fait!à!travers!les!cantines!scolaires.!Il!faut!ajouter! à! cela! la! prohibition! de! l'exclusion! d'élèves! pour! défaut! de! fournitures,! d'uniforme!ou!de!cotisation!à!la!caisse!de!l'école.!
 
-Des! mesures! de! soutien! à! la! demande! scolaire! complèteront! les! quatre! piliers! précédemment!décrits.!Au!titre!de!ces!mesures!de!soutien!figurent!la!poursuite!de!la! politique!d'alimentation!scolaire!dans!les!zones!d'insécurité!alimentaire,!l'instauration,!à! compter! de! 2013,! d'appuis! spécifiques! au! bénéfice! des! enfants! défavorisés! et! le! développement! d'une! offre! adaptée! aux! enfants! déscolarisés.! L'alimentation! scolaire! couvre!le!niveau!primaire!et!pré!scolaire!et!se!fait!à!travers!les!cantines!scolaires.!Il!faut! ajouter! à! cela! la! prohibition! de! l'exclusion! d'élèves! pour! défaut! de! fournitures,! d'uniforme!ou!de!cotisation!à!la!caisse!de!l'école.!!
-
-!
-
-Il! convient! ici! de! signaler! qu'en! ce! qui! concerne! les! groupes! à! besoins! spécifiques,! le! Burundi!a!entamé!depuis!longtemps!une!investigation!sur!les!éléments!déterminants!de! l'équité!genre!dans!le!domaine!de!la!scolarisation.!Plusieurs!études!ont!été!menées!par!
-
-!
+Il! convient! ici! de! signaler! qu'en! ce! qui! concerne! les! groupes! à! besoins! spécifiques,! le! Burundi!a!entamé!depuis!longtemps!une!investigation!sur!les!éléments!déterminants!de!l'équité!genre!dans!le!domaine!de!la!scolarisation.!Plusieurs!études!ont!été!menées!par!
 
 23!
-
-(i) !!!!!!!fixation! réglementaire!de!critères!d'évaluation!des!enfants!et!de!décision!de! passage!de!classe,!avec!mise!en!place!de!délibérations!collectives!;!
-
-(ii) !!!!!!!prohibition!du!redoublement!volontaire!prononcé!à!la!demande!de!la!famille!;! (iii) mesures! pédagogiques! portant! sur! l'évaluation! et! sur! les! exigences! des! enseignants,! jugées! souvent! excessives.! Cette! mesure! sera! parallèle! à! la! révision!des!programmes!jugés!vastes!au!niveau!de!l'enseignement!primaire! (F1CF3)!;! (iv) sensibilisation!et!communication!auprès!des!enseignants!et!des!familles!;! (v) !!!!!!!mise! en! place! d'un! processus! de! concertation! avec! les! enseignants! et! les! parents! d'élèves! permettant! de! convenir! d'une! pratique! de! promotion! automatique!des!élèves!au!sein!des!sousCcycles!de!deux!ans!chacun!;! (vi) développement!des!capacités!d'accueil!et!de!la!promotion!des!élèves!au!cycle! 4! du! fondamental.! Il! apparaît! en! effet! qu'aujourd'hui,! la! sévérité! de! la! régulation!des!flux!entre!l'école!primaire!et!le!collège!porte!une!grande!part! de! responsabilité! dans! la! pratique! des! redoublements,! l'encombrement! des! classes! de! 6 ème ! année! diminuant! les! possibilités! de! promotion! des! élèves! terminant!la!cinquième!année,!avec!des!répercussions!similaires!jusque!dans! les!premières!années!du!cycle!;! instauration!d'un!supplément!à!la!subvention!annuelle!de!l'école!sur!la!base!
-
-(vii) de!l'atteinte!d'objectifs!en!matière!de!redoublement!
 
 [[END OF PAGE 23]]
 
@@ -1084,35 +979,21 @@ En! termes! quantitatifs,! l'amélioration! de! la! transition! entre! le! cycle
 
 [[START OF PAGE 25]]
 
-par!l'administration.!Cette!augmentation!de!la!transition!n'est!donc!pas!laissée!au!hasard! ni! à! l'initiative! des! familles! ou! des! enseignants! -! ce! qui! aurait! pu! se! produire! si! les! autorités!avaient!tenté!de!maintenir!longtemps!encore!une!régulation!très!sévère!à!ce! niveau. 17 !!
-
-!
+par!l'administration.!Cette!augmentation!de!la!transition!n'est!donc!pas!laissée!au!hasard!ni! à! l'initiative! des! familles! ou! des! enseignants! –! ce! qui! aurait! pu! se! produire! si! les! autorités!avaient!tenté!de!maintenir!longtemps!encore!une!régulation!très!sévère!à!ce!niveau. 17 !!
 
 L'organisation! du! quatrième! cycle! de! l'enseignement! fondamental! tient! compte! des! contraintes!de!financement!du!pays!et!repose!sur!les!principes!suivants!:!
 
-!
-
-!
+(i) En! 7 ème ! et! en! 8 ème ! année,! les! enseignants! ont! le! même! profil! que! celui! privilégié! pour! le! 3 ème ! cycle,! ce! sont! des! maîtres! formés! dans! les! écoles! normales!(ou!en!un!an!à!l'issue!des!humanités)!et!recrutés!au!rang!dit!«!D!7!»!;!ils!sont!polyvalents!et!sont!appelés!à!enseigner!soit!les!disciplines!du!domaine! des! lettres! et! des! humanités,! soit! les! disciplines! du! domaine! scientifique! et! des! mathématiques.! De! la! sorte,! chaque! groupe! pédagogique!a!deux!enseignants!;!
+(ii) Pour! éviter! les! situations! de! sous! service! des! enseignants,! chaque! professeur! enseignera! son! groupe! de! disciplines! dans! deux! groupes! pédagogiques.! On! privilégiera! donc! des! écoles! accueillant! deux! 7 èmes ! et! deux! 8 èmes ! années.! Dans! les! cas! où! cette! organisation! ne! serait! pas! possible,! l'administration! cherchera! à! affecter! ces! enseignants! sur! deux! établissements! peu! distants,! de! façon! à! bénéficier! de! la! totalité! de! leur! service! horaire,! ou! affectera! deux! enseignants! en! parallèle! sur! l'unique! classe!de!7 ème !et!!sur!l'unique!classe!de!8 ème .!
+(iii) Dans!les!classes!de!9 ème !année,!les!cours!seront!confiés!à!des!enseignants! bivalents! du! même! type! que! ceux! qui! exercent! aujourd'hui! dans! les! collèges.!De!façon!à!éviter!les!sous!services,!l'administration!cherchera!à!maximiser!leur!emploi!soit!en!les!affectant!sur!plusieurs!établissements!du! même! type! peu! distants,!!soit! partiellement! au! fondamental! 4! et! partiellement!au!lycée.!
+(iv) Le! nouveau! système! se! substitue! progressivement! à! l'ancien,! l'actuelle! 10 ème !année!des!collèges!sera!supprimée!en!2015.!
+(v) De! façon! à! marquer! clairement! la! continuité! entre! l'école! primaire! et! le! cycle!4!du!fondamental,!les!nouvelles!constructions!viendront,!dans!tous!les!cas!possibles,!en!extension!des!installations!des!écoles!primaires!et!sur!le!même!site!et!non!sur!des!sites!séparés!(«!classes!accolées!»).!Les!locaux!des! anciens! collèges! seront! aussi! utilisés! par! le! nouveau! cycle! 4! en! développement.! Cette! disposition! est! de! nature! à! augmenter! la! sécurité! sur!le!chemin!à!parcourir!notamment!au!profit!de!l'équité!genre!dans!la!fréquentation!de!l'enseignement!fondamental.!
 
 Sur! le! plan! pédagogique,! des! travaux! sont! en! cours! de! façon! à! réviser! les! anciens! programmes!des!collèges.!Les!programmes!révisés!tiendront!compte!de!ceci!que!:!
 
-!
+(i) la! finalité! du! nouveau! cycle! n'est! plus! exclusivement! la! préparation! de! l'entrée!au!lycée,!mais!inclut!des!objectifs!d'insertion!sociale!et!d'accès!à!des!formations!courtes!;!
 
-(i) la! finalité! du! nouveau! cycle! n'est! plus! exclusivement! la! préparation! de! l'entrée!au!lycée,!mais!inclut!des!objectifs!d'insertion!sociale!et!d'accès!à! des!formations!courtes!;!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !
-
-17 !On!aurait!pu!s'attendre!dans!ce!cas!à!un!foisonnement!d'initiatives!communautaires!difficiles!à!fédérer!
-
-et!à!contrôler,!comme!cela!s'observe!souvent!dans!les!situations!où!l'offre!étatique!de!scolarité!peine!à!
-
-suivre!la!demande!sociale.!
-
-!
-
-(i) En! 7 ème ! et! en! 8 ème ! année,! les! enseignants! ont! le! même! profil! que! celui! privilégié! pour! le! 3 ème ! cycle,! ce! sont! des! maîtres! formés! dans! les! écoles! normales!(ou!en!un!an!à!l'issue!des!humanités)!et!recrutés!au!rang!dit!«!D! 7!»!;!ils!sont!polyvalents!et!sont!appelés!à!enseigner!soit!les!disciplines!du! domaine! des! lettres! et! des! humanités,! soit! les! disciplines! du! domaine! scientifique! et! des! mathématiques.! De! la! sorte,! chaque! groupe! pédagogique!a!deux!enseignants!;! (ii) Pour! éviter! les! situations! de! sous! service! des! enseignants,! chaque! professeur! enseignera! son! groupe! de! disciplines! dans! deux! groupes! pédagogiques.! On! privilégiera! donc! des! écoles! accueillant! deux! 7 èmes ! et! deux! 8 èmes ! années.! Dans! les! cas! où! cette! organisation! ne! serait! pas! possible,! l'administration! cherchera! à! affecter! ces! enseignants! sur! deux! établissements! peu! distants,! de! façon! à! bénéficier! de! la! totalité! de! leur! service! horaire,! ou! affectera! deux! enseignants! en! parallèle! sur! l'unique! classe!de!7 ème !et!!sur!l'unique!classe!de!8 ème .! (iii) Dans!les!classes!de!9 ème !année,!les!cours!seront!confiés!à!des!enseignants! bivalents! du! même! type! que! ceux! qui! exercent! aujourd'hui! dans! les! collèges.!De!façon!à!éviter!les!sous!services,!l'administration!cherchera!à! maximiser!leur!emploi!soit!en!les!affectant! sur! plusieurs! établissements! du! même! type! peu! distants,! ! soit! partiellement! au! fondamental! 4! et! partiellement!au!lycée.!! (iv) Le! nouveau! système! se! substitue! progressivement! à! l'ancien,! l'actuelle! 10 ème !année!des!collèges!sera!supprimée!en!2015.! (v)
-
-- De! façon! à! marquer! clairement! la! continuité! entre! l'école! primaire! et! le! cycle!4!du!fondamental,!les!nouvelles!constructions!viendront,!dans!tous! les!cas!possibles,!en!extension!des!installations!des!écoles!primaires!et!sur! le!même!site!et!non!sur!des!sites!séparés!(«!classes!accolées!»).!Les!locaux! des! anciens! collèges! seront! aussi! utilisés! par! le! nouveau! cycle! 4! en! développement.! Cette! disposition! est! de! nature! à! augmenter! la! sécurité! sur!le!chemin!à!parcourir!notamment!au!profit!de!l'équité!genre!dans!la! fréquentation!de!l'enseignement!fondamental.!
+17 !On!aurait!pu!s'attendre!dans!ce!cas!à!un!foisonnement!d'initiatives!communautaires!difficiles!à!fédérer!et!à!contrôler,!comme!cela!s'observe!souvent!dans!les!situations!où!l'offre!étatique!de!scolarité!peine!à!suivre!la!demande!sociale.!
 
 25!
 
@@ -1120,11 +1001,13 @@ suivre!la!demande!sociale.!
 
 [[START OF PAGE 26]]
 
-!
+(ii) les! enseignants! sont! plus! largement! polyvalents! que! dans! les! anciens! collèges!;!
+
+(iii) les! exigences! académiques! d'entrée! dans! le! cycle! sont! désormais! moins! rigoureuses.!
+
+Enfin!des!travaux!sont!entrepris!afin!d'élaborer!la!maquette!d'un!examen!terminal! du!cycle,!appelé!à!remplacer!en!2015!le!test!national!d'orientation!actuel.!
 
 Tableau*2*: !Récapitulatif!des!indicateurs!repères!pour!le!cycle!4!du!fondamental!:!!
-
-!
 
 ! | 2010! | 2013! | 2014! | 2015! | 2020!
 --- | --- | --- | --- | --- | ---
@@ -1132,43 +1015,19 @@ Effectifs!totaux!du!cycle!4! | 281!759! | 415!064! | 416!864! | 418!268! | 333!2
 Taux! de! transition! cycle! 3! C! cycle!4! | 40%! | 52%! | 58%! | 64%! | 80%!
 Taux! brut! d'accès! en! 9 ème année! | 24%! ! | 30%! ! | 42%! ! | 56%! ! | 68%! !
 
-Source*:
-
-!Modèle!de!simulation!version!avril!2012.!
-
-!
+Source*: !Modèle!de!simulation!version!avril!2012.!
 
 #### Amélioration!de!la!qualité!des!enseignements!sur!l'ensemble!du!cycle!fondamental.!
 
-!
-
 Les! mesures! d'amélioration! du! temps! scolaire! ont! été! décrites! plus! haut,! il! en! est! attendu!une!amélioration!sensible!de!la!qualité!des!apprentissages!en!particulier!pour! les!enfants!qui!fréquentent!des!classes!en!double!vacation.!
 
-!
-
-La! stratégie! nationale! opte! par! ailleurs! pour! une! réorientation! des! pratiques! de! formation! initiale! et! continue! des! maîtres.! Les! écoles! normales! deviennent! le! lieu! de! formation! des! maîtres,! les! anciens! lycées! pédagogiques! étant! progressivement! supprimés.!En!effet,!il!est!apparu!que!la!formation!reçue!par!les!élèvesCmaîtres!dans!ces! établissements! laissait! des! lacunes,! en! particulier! linguistiques.! Pour! desservir! l'enseignement!fondamental!il!a!été!jugé!que!le!profil!des!sortants!des!écoles!normales! permettait!de!garantir!un!niveau!académique!adéquat!!face!aux!nouveaux!défis!soulevés! par!cette!innovation.!En!termes!d'effectifs!les!écoles!normales!seront!renforcées!par!la! formation!pédagogique!annuellement!offerte!à!des!finalistes!des!Humanités!générales!
-
-!
+La! stratégie! nationale! opte! par! ailleurs! pour! une! réorientation! des! pratiques! de! formation! initiale! et! continue! des! maîtres.! Les! écoles! normales! deviennent! le! lieu! de! formation! des! maîtres,! les! anciens! lycées! pédagogiques! étant! progressivement! supprimés.!En!effet,!il!est!apparu!que!la!formation!reçue!par!les!élèves-maîtres!dans!ces! établissements! laissait! des! lacunes,! en! particulier! linguistiques.! Pour! desservir! l'enseignement!fondamental!il!a!été!jugé!que!le!profil!des!sortants!des!écoles!normales! permettait!de!garantir!un!niveau!académique!adéquat!!face!aux!nouveaux!défis!soulevés! par!cette!innovation.!En!termes!d'effectifs!les!écoles!normales!seront!renforcées!par!la! formation!pédagogique!annuellement!offerte!à!des!finalistes!des!Humanités!générales!
 
 Les!programmes!des!écoles!normales!seront!dans!le!périmètre!des!travaux!de!révision! des! curricula,! puisque! ces! écoles! formeront! l'ensemble! des! enseignants! des! huit! premières!années!de!l'école!fondamentale.!Il!n'y!a!pas!lieu!de!modifier!la!durée!de!la! formation! dans! ces! écoles,! qui! forment! déjà! des! enseignants! du! profil! retenu! par! la! réforme!pour!les!7 !ème! et ! 8 !ème! années!(D7).!Un!projet!d'assistance!technique!déjà!en!place! aidera! les! écoles! normales! à! suivre! cette! évolution! et! à! produire! des! enseignants! polyvalents!de!bon!niveau!et!informés!du!contenu!de!la!réforme.!
 
-!
-
 La!formation!continue!des!enseignants!sera!développée!au!moment!de!la!mise!en!place! des! nouveaux! programmes! scolaires! du! fondamental 18 ! .! Des! actions! à! l'attention! des! enseignants!du!cycle!4!sur!les!aménagements!provisoires!des!programmes!de!ce!niveau! se!dérouleront!cependant!pendant!la!première!phase.!Par!ailleurs,!une!étude!en!cours!
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !
-
 > 18 !Le!calendrier!indicatif!figure!dans!les!termes!de!référence!des!réformes!curriculaires!en!annexe!7.!
-
-!
-
-!
-
-Enfin!des!travaux!sont!entrepris!afin!d'élaborer!la!maquette!d'un!examen!terminal! du!cycle,!appelé!à!remplacer!en!2015!le!test!national!d'orientation!actuel.!
-
-(ii) les! enseignants! sont! plus! largement! polyvalents! que! dans! les! anciens! collèges!;!
-
-(iii) les! exigences! académiques! d'entrée! dans! le! cycle! sont! désormais! moins! rigoureuses.!
 
 26!
 
@@ -1238,37 +1097,19 @@ d'améliorer!la!situation!en!conjugaison!avec!les!perspectives!en!cours!en!la!ma
 
 En!termes!quantitatifs,!les!objectifs!de!la!stratégie!sectorielle!sont!:!
 
-!
-
-!
+! de!maintenir!stables!les!effectifs!de!l'enseignement!technique!(avec!la!disparition! des! collèges! techniques! et! une! légère! augmentation! des! effectifs! des! lycées! techniques)!;!!
+! de!faire! croître! le! nombre! de! jeunes! bénéficiant! de! l'enseignement! des! métiers! (formations!postCprimaires!dans!les!centres!d'enseignement!des!métiers,!dont!le! nombre!de!bénéficiaires!devrait!atteindre!environ!16000!en!2020!contre!moins! de!3000!aujourd'hui)!;!
+! de! faire! croître,! dans! de! moindres! proportions,! les! effectifs! de! la! formation! professionnelle! (formation! postCfondamentale,! environ! 4000! apprenants! en! fin! de!période,!contre!2000!aujourd'hui).!
 
 En! effet,! l'enseignement! technique! doit! garder! sa! vocation! consistant! à! former! l'élite! technicienne!et!les!cadres!dont!le!secteur!formel!de!l'économie!a!besoin,!or,!ce!dernier! reste! peu! développé! au! Burundi! et! n'offre! que! peu! d'emplois.! En! revanche,! l'enseignement!des!métiers!et!la!formation!professionnelle!permettent!d'accompagner! les!jeunes!vers!l'emploi!et!l'autoCemploi,!dans!une!perspective!de!progrès!techniques!et! de!gains!de!productivité!dans!le!secteur!informel.!
 
-*
-
 Cette! expansion! de! l'offre! de! formations! passera! par! l'implantation! de! centres! d'enseignement!des!métiers!dans!les!communes!qui!en!sont!aujourd'hui!dépourvues!(69! communes!sur!129!ont!déjà!un!centre!de!ce!type)!et!la!création!de!4!nouveaux!pôles! d'excellence!au!niveau!régional!et!Instituts!polytechniques!de!formation!professionnelle! en!province.!!
-
-!
 
 Les! centres! d'enseignement! des! métiers! s'ouvriront! progressivement! à! une! fonction! d'insertion! y! compris! dans! le! secteur! artisanal! informel.! Des! conventions! avec! des! institutions! de! microfinances! sont! déjà! en! expérimentation,! de! façon! à! ce! que! les! lauréats! des! centres! puissent! créer! leur! propre! emploi.! Un! fonds! de! garantie! de! ces! financements!créé!!par!un!projet!d'un!partenaire!!sera!à!moyen!terme!transféré!vers!le! ministère.!
 
-!
-
 Les!centres!des!métiers!s'orientent!vers!une!offre!modulaire!de!formation!(un!module! comptant!en!moyenne!trois!mois!de!formation)!de!façon!à!être!en!adéquation!avec!la! demande!de!formation!exprimée!par!le!secteur!privé!productif!informel.!!
 
-!
-
 Des!études!sont!prévues!pour!l'identification!des!spécialités!les!plus!pertinentes!pour! l'économie! locale,! auCdelà! des! filières! classiques! déjà! implantées! (aujourd'hui! dix! filières)!
-
-*
-
-!
-
-! de!maintenir!stables!les!effectifs!de!l'enseignement!technique!(avec!la!disparition! des! collèges! techniques! et! une! légère! augmentation! des! effectifs! des! lycées! techniques)!;!!
-
-! de!faire! croître! le! nombre! de! jeunes! bénéficiant! de! l'enseignement! des! métiers! (formations!postCprimaires!dans!les!centres!d'enseignement!des!métiers,!dont!le! nombre!de!bénéficiaires!devrait!atteindre!environ!16000!en!2020!contre!moins! de!3000!aujourd'hui)!;!
-
-! de! faire! croître,! dans! de! moindres! proportions,! les! effectifs! de! la! formation! professionnelle! (formation! postCfondamentale,! environ! 4000! apprenants! en! fin! de!période,!contre!2000!aujourd'hui).!
 
 28!
 
@@ -1286,39 +1127,25 @@ Un!important!effort!de!structuration!du!sousCsecteur!de!la!formation!professionn
 
 Des! partenariats! entre! l'Etat! et! le! secteur! privé! productif! (partenariats! publicCprivé)! seront!systématiquement!recherchés!dans!les!directions!suivantes!:!
 
-!
-
-!
-
-!
-
-### 4.1.3.+ENSEIGNEMENT+SECONDAIRE+GENERAL+ET+PEDAGOGIQUE.+
-
-!
-
-Les! options! stratégiques! de! l'enseignement! secondaire! se! déclinent! autour! de! quatre! axes!prioritaires.!!
-
-!
-
-!
-
-!
+(i) participation! des! artisans! ou! professionnels! à! la! certification! de! fin! de! formation!;!
+(ii) stages!ou!autres!modalités!d'alternance!;!
+(iii) utilisation!partagée!d'équipements!techniques!;!
+(iv) intervention!d'artisans!ou!professionnels!au!cours!des!formations!;!
+(v) ouverture! des! CEM! et! des! CFP! à! des! activités! de! formation! continue! au! profit!des!entreprises!;!
+(vi) élaboration!d'un!cadre!national!des!qualifications!et!certifications!(CNQC).! Le! processus! d'élaboration! de! ce! cadre! a! d'ores! et! déjà! débuté,! avec! un! certain!nombre!de!préCétudes!par!secteurs!d'activité!et!la!mise!en!place,!en! 2012,!d'une!commission!en!charge!de!ces!travaux!;!
+(vii) création!d'un!centre!de!développement!des!compétences!professionnelles! (CDCP),! employant! environ! 25! personnes! chargées! de! la! rédaction! des! programmes!de!formation,!de!la!formation!des!formateurs!et!du!pilotage! de!l'élaboration!du!CNQC.!!!
 
 Une!lettre!d'entente!avec!les!partenaires!du!secteur!productif!privé!doit!être!signée! en! novembre! 2012,! à! l'occasion! d'un! séminaire! estCafricain! sur! la! formation! professionnelle.!
 
-!
-
 #### Recherche* de* nouvelles* modalités* de* financement* et* renforcement* de* l'autonomie.*
-
-!
 
 Les!CEM!et!les!CFP!devraient!être!rendus!financièrement!autonomes.!Ils!disposent! déjà! de! comptes! bancaires! alimentés! depuis! le! FCE,! et! réalisent! localement! l'achat! des! matières! d'œuvre!;! une! autonomie! plus! étendue! leur! permettra! une! meilleure! insertion!locale!dans!le!tissu!économique!privé,!notamment!par!le!fonctionnement! des! ateliers! d'appui! pédagogiques,! lieux! de! production! favorisant! l'autonomie! des! centres!pour!leurs!dépenses!courantes!et!l'acquisition!de!la!matière!d'œuvre.!
 
 Enfin,! la! création! d'un! fonds! autonome! de! financement! de! la! formation! professionnelle!est!envisagée.!Un!tel!fonds!sera!le!moyen!le!plus!pérenne!d'assurer!le! lien!entre!les!formations!et!l'évolution!du!secteur!productif.!
 
-(i) participation! des! artisans! ou! professionnels! à! la! certification! de! fin! de! formation!;! (ii) stages!ou!autres!modalités!d'alternance!;! (iii) utilisation!partagée!d'équipements!techniques!;! (iv) intervention!d'artisans!ou!professionnels!au!cours!des!formations!;! (v) ouverture! des! CEM! et! des! CFP! à! des! activités! de! formation! continue! au! profit!des!entreprises!;! (vi) élaboration!d'un!cadre!national!des!qualifications!et!certifications!(CNQC).! Le! processus! d'élaboration! de! ce! cadre! a! d'ores! et! déjà! débuté,! avec! un! certain!nombre!de!préCétudes!par!secteurs!d'activité!et!la!mise!en!place,!en! 2012,!d'une!commission!en!charge!de!ces!travaux!;! création!d'un!centre!de!développement!des!compétences!professionnelles! (CDCP),! employant! environ! 25! personnes! chargées! de! la! rédaction! des! programmes!de!formation,!de!la!formation!des!formateurs!et!du!pilotage!
+### 4.1.3.+ENSEIGNEMENT+SECONDAIRE+GENERAL+ET+PEDAGOGIQUE.+
 
-(vii) de!l'élaboration!du!CNQC.!!!
+Les! options! stratégiques! de! l'enseignement! secondaire! se! déclinent! autour! de! quatre! axes!prioritaires.!!
 
 29!
 
@@ -1366,49 +1193,27 @@ Afin!d'éviter!la!croissance!des!effectifs!dans!les!filières!jugées!moins!prio
 
 [[START OF PAGE 31]]
 
-!
-
-### 4.1.4.+ENSEIGNEMENT+SUPERIEUR+ET+RECHERCHE+SCIENTIFIQUE.+
-
-!
-
-Le!Ministère!de!l'Enseignement!Supérieur!et!de!la!Recherche!Scientifique!et!l'Université! du! Burundi! publieront! au! cours! de! l'année! 2012! des! plans! stratégiques! détaillés,! conformes!avec!le!schéma!général!du!PSDEF.!
-
-!
-
-Les! options! stratégiques! de! l'enseignement! supérieur! se! déclinent! autour! des! axes! suivants.!!
-
-!
-
-!
-
-Avec!un!peu!moins!de!30!000!étudiants!(soit!363!pour!100!000!habitants,!ce!qui!est! sensiblement!inférieur!à!la!moyenne!africaine),!dont!57!%!dans!des!établissements! privés,! les! effectifs! de! l'enseignement! supérieur! burundais! sont! aujourd'hui! modestes.! Pour! autant,! le! gouvernement! n'ambitionne! pas! de! développement! quantitatif! massif! des! études! supérieures,! préférant! pendant! les! années! à! venir!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !
-
-22 !Ce!qui!correspond!à!22!séances!de!45!mn!en!moyenne!par!semaine!
-
-23 !Ce!qui!correspond!à!29!séances!de!45!mn!en!moyenne!par!semaine!
-
-!
-
 #### (iv) L'amélioration*de*la*qualité*des*apprentissages.*
-
-!
 
 Le!gouvernement!envisage!la!mise!en!place!d'un!certain!nombre!de!mesures!pour! améliorer!la!qualité!des!apprentissages!:!
 
-!
-
-!
+! la!réduction!de!la!taille!des!groupes!pédagogiques!qui!passeront!de!46!à!40! élèves.! Cette! mesure! sera! rendue! possible! par! un! léger! accroissement! de! l'horaire! effectif! des! enseignants! qui! passera! de! 17! h 22 ! à! 22! h 23 ,! par! la! construction!de!100!salles!de!classe!par!an!et!par!une!meilleure!utilisation!des! salles!de!classe!existantes!;!
+! l'accroissement! des! dépenses! de! qualité! des! établissements! (manuels,! matériels! didactiques! et! pédagogiques)! qui! passeront! de! 0,4%! du! total! des! dépenses!du!secondaire!à!12%!en!2020.!Cette!mesure!sera!rendue!possible! par!une!maitrise!dépenses!des!internats!qui!ne!représenteront!plus!que!18%! des!dépenses!du!secondaire!au!lieu!de!plus!de!28%!actuellement!et!une!légère! réduction!des!dépenses!de!l'administration!centrale!en!charge!du!secondaire,! notamment!par!la!stabilisation!des!effectifs!d'élèves!dans!les!internats!et!la! suppression!des!internats!dans!les!collèges.!
 
 Le!Ministère!envisage!une!révision!des!programmes!pour!tenir!compte!des!prérequis! des! nouveaux! entrants! et! d'un! profil! du! sortant! du! secondaire! qui! permet! la! poursuite! d'études! supérieures! de! qualité! répondant! aux! besoins! du! pays! en! qualifications!de!hauts!niveaux.!Cette!révision!sera!suivie!de!travaux!de!rédaction!de! manuels,! de! guides! et! de! supports! pédagogiques.! De! même,! la! formation! continue! des!enseignants!fera!l'objet!d'une!attention!particulière.!Une!large!concertation!avec! les! structures! responsables! du! fondamental! et! de! l'enseignement! supérieur! sera! menée!par!les!équipes!chargées!de!cette!révision.!
 
-! la!réduction!de!la!taille!des!groupes!pédagogiques!qui!passeront!de!46!à!40! élèves.! Cette! mesure! sera! rendue! possible! par! un! léger! accroissement! de! l'horaire! effectif! des! enseignants! qui! passera! de! 17! h 22 ! à! 22! h 23 ,! par! la! construction!de!100!salles!de!classe!par!an!et!par!une!meilleure!utilisation!des! salles!de!classe!existantes!;!
+### 4.1.4.+ENSEIGNEMENT+SUPERIEUR+ET+RECHERCHE+SCIENTIFIQUE.+
 
-! l'accroissement! des! dépenses! de! qualité! des! établissements! (manuels,! matériels! didactiques! et! pédagogiques)! qui! passeront! de! 0,4%! du! total! des! dépenses!du!secondaire!à!12%!en!2020.!Cette!mesure!sera!rendue!possible! par!une!maitrise!dépenses!des!internats!qui!ne!représenteront!plus!que!18%! des!dépenses!du!secondaire!au!lieu!de!plus!de!28%!actuellement!et!une!légère! réduction!des!dépenses!de!l'administration!centrale!en!charge!du!secondaire,! notamment!par!la!stabilisation!des!effectifs!d'élèves!dans!les!internats!et!la! suppression!des!internats!dans!les!collèges.!
+Le!Ministère!de!l'Enseignement!Supérieur!et!de!la!Recherche!Scientifique!et!l'Université! du! Burundi! publieront! au! cours! de! l'année! 2012! des! plans! stratégiques! détaillés,! conformes!avec!le!schéma!général!du!PSDEF.!
+
+Les! options! stratégiques! de! l'enseignement! supérieur! se! déclinent! autour! des! axes! suivants.!!
 
 #### (i) Un*développement*quantitatif*modéré*et*maîtrisé.*
+
+Avec!un!peu!moins!de!30!000!étudiants!(soit!363!pour!100!000!habitants,!ce!qui!est! sensiblement!inférieur!à!la!moyenne!africaine),!dont!57!%!dans!des!établissements! privés,! les! effectifs! de! l'enseignement! supérieur! burundais! sont! aujourd'hui! modestes.! Pour! autant,! le! gouvernement! n'ambitionne! pas! de! développement! quantitatif! massif! des! études! supérieures,! préférant! pendant! les! années! à! venir!
+
+22 !Ce!qui!correspond!à!22!séances!de!45!mn!en!moyenne!par!semaine!
+23 !Ce!qui!correspond!à!29!séances!de!45!mn!en!moyenne!par!semaine!
 
 31!
 
@@ -1520,51 +1325,21 @@ Ces! instruments! d'intégration! permettent! de! développer! de! façon! effic
 
 #### Développement*de*la*petite*enfance.*
 
-!
-
-!
-
 Les!options!stratégiques!de!l'enseignement!préscolaire!et!du!développement!du!jeune! enfant!se!déclinent!autour!de!trois!axes.!!
-
-!
-
-!
-
-Les!enfants!scolarisés!dans!les!établissements!du!préscolaire!représentent!environ!7%! des!4!à!6!ans 25 .!La!durée!de!ce!cycle!varie!de!un!à!trois!ans!selon!les!structures,!elle!est!le! plus! souvent! de! deux! ans.! Moins! du! quart! de! ces! enfants! est! scolarisé! dans! des! structures!publiques.!
-
-!
-
-Le!gouvernement!ambitionne!un!développement!quantitatif!des!études!préscolaires,!en! privilégiant!pendant!les!années!à!venir!la!promotion!et!le!développement!des!structures!! gérées!par!les!communautés.!Cette!approche!des!centres!communautaires!a!été!initiée! par!l'ONG!TWITEZIMBERE!et!a!ciblé!prioritairement!les!enfants!des!zones!défavorisées! qui!accusent!un!taux!de!scolarisation!faible.!
-
-!
-
-En! 2020,! la! cible! est! d'accueillir! 50%! des! enfants! de! cette! tranche! d'âge! dont! 86! %! seront! scolarisés! dans! des! structures! communautaires! et! seulement! 10%! dans! les! structures! publiques.! Pour! ce! faire,! le! gouvernement! va! mettre! en! place,! à! partir! de! 2014,!une!subvention!destinée!aux!établissements!communautaires.!Cette!mesure!sera! précédée! par! des! actions! de! sensibilisation! sur! l'importance! du! développement! de! la! petite!enfance,!aussi!bien!à!l'intention!des!administrations!déconcentrées!de!l'éducation! qu'à! l'intention! des! communautés,! mais! aussi! par! l'identification! des! mécanismes! de! mise!en!place!et!de!suivi!évaluation!de!la!subvention.!Cette!subvention!permettra!aux! communautés!de!disposer!de!matériels!ludiques!et!pédagogiques!et!de!les!appuyer!dans! la! prise! en! charge! des! éducateurs.! Une! attention! particulière! sera! accordée! aux! implantations!d'espaces!préscolaires!dans!les!provinces!sous!dotées.!
-
-!
-
-!
-
-Le!Ministère!entend!développer!une!stratégie!pour!la!sensibilisation!et!l'éducation!des! parents,!en!concertation!avec!les!Ministères!impliqués!comme!celui!de!la!Santé!publique,! pour!la!prise!en!charge!du!développement!intégré!des!enfants!de!0C3!ans,!l'objectif!étant,!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !
-
-25 ! L'âge! officiel! d'entrée! à! l'école! primaire! est! de! 7! ans! révolus.! Cet! âge! a! été! fixé! à! une! époque! où! les!
-
-écoles,! encore! peu! nombreuses! étaient! souvent! éloignées! de! l'habitation,! ce! qui! rendait! pratiquement!
-
-impossible! pour! beaucoup! d'enfants! de! se! rendre! à! l'école! à! 6! ans.! Au! fur! et! ! à! mesure! que! le! réseau!
-
-scolaire!se!densifie,!le!défi!de!la!distance!va!s'estomper.!Le!Burundi!va!s'harmoniser!avec!les!autres!pays!et!
-
-l'âge!officiel!d'entrée!à!l'école!primaire!pourrait!être!ramené!à!6!ans!comme!c'est!déjà!courant!dans!les!
-
-centres!urbains.!
-
-!
 
 ##### (i) L'accroissement$et$la$diversification$de$l'offre$du$préscolaire$destinée$ aux$enfants$de$4$à$6$ans.$
 
-##### (ii) La$sensibilisation$et$l'éducation$des$parents$pour$la$prise$en$charge$ des$0Q3$ans$
+Les!enfants!scolarisés!dans!les!établissements!du!préscolaire!représentent!environ!7%! des!4!à!6!ans 25 .!La!durée!de!ce!cycle!varie!de!un!à!trois!ans!selon!les!structures,!elle!est!le! plus! souvent! de! deux! ans.! Moins! du! quart! de! ces! enfants! est! scolarisé! dans! des! structures!publiques.!
+
+Le!gouvernement!ambitionne!un!développement!quantitatif!des!études!préscolaires,!en! privilégiant!pendant!les!années!à!venir!la!promotion!et!le!développement!des!structures!! gérées!par!les!communautés.!Cette!approche!des!centres!communautaires!a!été!initiée! par!l'ONG!TWITEZIMBERE!et!a!ciblé!prioritairement!les!enfants!des!zones!défavorisées! qui!accusent!un!taux!de!scolarisation!faible.!
+
+En! 2020,! la! cible! est! d'accueillir! 50%! des! enfants! de! cette! tranche! d'âge! dont! 86! %! seront! scolarisés! dans! des! structures! communautaires! et! seulement! 10%! dans! les! structures! publiques.! Pour! ce! faire,! le! gouvernement! va! mettre! en! place,! à! partir! de! 2014,!une!subvention!destinée!aux!établissements!communautaires.!Cette!mesure!sera! précédée! par! des! actions! de! sensibilisation! sur! l'importance! du! développement! de! la! petite!enfance,!aussi!bien!à!l'intention!des!administrations!déconcentrées!de!l'éducation! qu'à! l'intention! des! communautés,! mais! aussi! par! l'identification! des! mécanismes! de! mise!en!place!et!de!suivi!évaluation!de!la!subvention.!Cette!subvention!permettra!aux! communautés!de!disposer!de!matériels!ludiques!et!pédagogiques!et!de!les!appuyer!dans! la! prise! en! charge! des! éducateurs.! Une! attention! particulière! sera! accordée! aux! implantations!d'espaces!préscolaires!dans!les!provinces!sous!dotées.!
+
+##### (ii) La$sensibilisation$et$l'éducation$des$parents$pour$la$prise$en$charge$ des$0-3$ans$
+
+Le!Ministère!entend!développer!une!stratégie!pour!la!sensibilisation!et!l'éducation!des! parents,!en!concertation!avec!les!Ministères!impliqués!comme!celui!de!la!Santé!publique,! pour!la!prise!en!charge!du!développement!intégré!des!enfants!de!0C3!ans,!l'objectif!étant,!
+
+25 ! L'âge! officiel! d'entrée! à! l'école! primaire! est! de! 7! ans! révolus.! Cet! âge! a! été! fixé! à! une! époque! où! les! écoles,! encore! peu! nombreuses! étaient! souvent! éloignées! de! l'habitation,! ce! qui! rendait! pratiquement! impossible! pour! beaucoup! d'enfants! de! se! rendre! à! l'école! à! 6! ans.! Au! fur! et! ! à! mesure! que! le! réseau! scolaire!se!densifie,!le!défi!de!la!distance!va!s'estomper.!Le!Burundi!va!s'harmoniser!avec!les!autres!pays!et! l'âge!officiel!d'entrée!à!l'école!primaire!pourrait!être!ramené!à!6!ans!comme!c'est!déjà!courant!dans!les! centres!urbains.!
 
 34!
 
@@ -1574,47 +1349,25 @@ centres!urbains.!
 
 notamment!de!protéger!la!petite!enfance!(vaccination,!déparasitage,!santéChygiène),!et! de!stimuler!l'éveil!des!tout!petits!pour!leur!permettre!par!la!suite!de!suivre!aisément!la! scolarité!ultérieure.!
 
-!
-
 Les!activités!de!sensibilisation!se!feront!en!cascade!du!niveau!provincial!au!niveau!local! pour!permettre!de!toucher!le!plus!grand!nombre,!chaque!niveau!sensibilisé!se!chargeant! de! la! sensibilisation! du! niveau! plus! bas.! Des! activités! de! suivi! évaluation! seront! développées!par!le!Ministère!pour!mesurer!l'effet!et!ajuster!le!cas!échéant!la!stratégie.!!
-
-!
-
-!
-
-Des!activités!de!formation!sur!les!programmes!scolaires!seront!organisées!à!l'intention! des! éducateurs! du! public,! mais! aussi! du! communautaire,! de! même! des! kits! ludiques! seront!distribués!aux!structures!communautaires.!De!même,!des!activités!d'amélioration! de!l'environnement!des!structures!publiques!seront!mises!en!œuvre.!L'amélioration!de! l'encadrement!et!du!suivi!évaluation!est!également!prévue!dans!cette!stratégie.!
-
-!
-
-#### Alphabétisation.*
-
-!
-
-Les!options!stratégiques!du!sousCsecteur!de!l'alphabétisation!s'articulent!autour!de!la!(i)! diversification! des! activités! d'alphabétisation! et! (ii)! le! développement! de! partenariat! autour!de!ce!secteur.!!
-
-!
-
-!
-
-Au!Burundi!plus!de!la!moitié!de!la!population!est!analphabète!(57,5%!de!la!population! totale!et!61,2%!de!la!population!féminine).!Pour!autant,!le!gouvernement!n'ambitionne! pas!un!développement!massif!des!activités!d'alphabétisation!gérées!par!le!département,! préférant! pendant! les! années! à! venir! mettre! l'accent! sur! la! promotion! d'activités! communautaires!d'alphabétisation.!
-
-!
-
-Le!Gouvernement!réserve!les!ressources!dont!il!dispose!à!l'amélioration!et!à!l'adaptation! des! programmes! d'alphabétisation,! à! la! formation! des! alphabétiseurs! au! suivi! et! à! l'encadrement.! De! même,! il! est! envisagé! la! mise! en! place! de! mécanismes! d'incitation! pour!les!alphabétiseurs!bénévoles!pour!les!encourager!à!améliorer!leurs!performances! et! à! poursuivre! leurs! activités! de! bénévolat! dans! le! sousCsecteur.! Une! attention! particulière! sera! accordée! au! développement! de! programme! et! d'activités! de! post! alphabétisation!pour!consolider!les!acquis.!
-
-!
-
-Par!ailleurs,!le!suivi,!l'encadrement!et!l'évaluation!des!activités!d'alphabétisation!feront! l'objet!d'activités!régulières!mises!en!œuvre!par!le!département.!
-
-!
 
 ##### (iii) L'amélioration$de$la$qualité$des$apprentissages.$
 
+Des!activités!de!formation!sur!les!programmes!scolaires!seront!organisées!à!l'intention! des! éducateurs! du! public,! mais! aussi! du! communautaire,! de! même! des! kits! ludiques! seront!distribués!aux!structures!communautaires.!De!même,!des!activités!d'amélioration! de!l'environnement!des!structures!publiques!seront!mises!en!œuvre.!L'amélioration!de! l'encadrement!et!du!suivi!évaluation!est!également!prévue!dans!cette!stratégie.!
+
+#### Alphabétisation.*
+
+Les!options!stratégiques!du!sousCsecteur!de!l'alphabétisation!s'articulent!autour!de!la!(i)! diversification! des! activités! d'alphabétisation! et! (ii)! le! développement! de! partenariat! autour!de!ce!secteur.!!
+
 ##### (i) Diversification$et$amélioration$de$l'offre$d'alphabétisation$
 
-##### (ii) Le$développement$de$partenariats$autour$de$l'alphabétisation$
+Au!Burundi!plus!de!la!moitié!de!la!population!est!analphabète!(57,5%!de!la!population! totale!et!61,2%!de!la!population!féminine).!Pour!autant,!le!gouvernement!n'ambitionne! pas!un!développement!massif!des!activités!d'alphabétisation!gérées!par!le!département,! préférant! pendant! les! années! à! venir! mettre! l'accent! sur! la! promotion! d'activités! communautaires!d'alphabétisation.!
 
-!
+Le!Gouvernement!réserve!les!ressources!dont!il!dispose!à!l'amélioration!et!à!l'adaptation! des! programmes! d'alphabétisation,! à! la! formation! des! alphabétiseurs! au! suivi! et! à! l'encadrement.! De! même,! il! est! envisagé! la! mise! en! place! de! mécanismes! d'incitation! pour!les!alphabétiseurs!bénévoles!pour!les!encourager!à!améliorer!leurs!performances! et! à! poursuivre! leurs! activités! de! bénévolat! dans! le! sousCsecteur.! Une! attention! particulière! sera! accordée! au! développement! de! programme! et! d'activités! de! post! alphabétisation!pour!consolider!les!acquis.!
+
+Par!ailleurs,!le!suivi,!l'encadrement!et!l'évaluation!des!activités!d'alphabétisation!feront! l'objet!d'activités!régulières!mises!en!œuvre!par!le!département.!
+
+##### (ii) Le$développement$de$partenariats$autour$de$l'alphabétisation$
 
 Une!alternative!à!la!faiblesse!des!moyens!mis!à!la!disposition!du!secteur!consiste!en!la! recherche!de!partenariats!auprès!des!acteurs!non!étatiques!intervenant!ou!non!dans!le! secteur!(ONG,!entreprises!et!communautés).!Dans!ce!partenariat,!le!Ministère!assure!la! formation! des! alphabétiseurs! et! met! à! leur! disposition! des! kits! et! les! partenaires! se! chargent!du!financement!des!activités!de!formation!des!apprenants.!
 
@@ -1678,37 +1431,21 @@ Hérité! d'une! succession! de! modifications,! l'organigramme! actuel! du! Min
 
 Le! Ministère! considère! que! cinq! fonctions! sont! critiques! pour! la! mise! en! œuvre! de! la! stratégie!sectorielle!et!qu'à!ce!titre,!elles!devront!bénéficier!en!priorité!des!activités!de! renforcements! de! capacités,! qu'il! s'agisse! d'équipements,! de! formations,! de! développements! de! logiciels! ou! d'assistance! technique! résidente! ou! perlée.! Ces! cinq! fonctions!sont!:!
 
-!
-
-!
+(i) La!gestion!budgétaire!et!financière!
+(ii) La!gestion!des!ressources!humaines!
+(iii) La!supervision!pédagogique!
+(iv) L'information!statistique,!la!planification!et!la!programmation!
+(v) La!maîtrise!d'ouvrage!du!génie!civil!
 
 #### Gestion*budgétaire*et*financière.*
 
-!
-
 Le! Ministère! deviendra! en! 2014! un! département! pilote! pour! la! décentralisation! de! la! chaîne!de!la!dépense!conformément!à!la!loi!d'orientation!des!finances!publiques!et!au! règlement!général!de!la!gestion!des!budgets!publics.!Cette!réforme!qui!est!préparée!à! travers!l'application!des!procédures!du!BAS/FCE!sera!accompagnée!par!la!centralisation! de!la!gestion!des!crédits!du!budget!général!à!la!DGF.!Cela!permettra!un!meilleur!suivi!de! l'allocation!des!ressources!et!de!l'exécution!du!budget.!Les!missions!des!personnels!de!la! DGF! seront! clarifiées! et! rationalisées.! Au! besoin! et! selon! l'évolution! de! la! charge! de! travail,!les!effectifs!seront!renforcés!tant!pour!la!gestion!du!budget!général!que!pour!le! BAS/FCE.!Les!agents!de!la!DGF!bénéficieront!de!formation!à!la!phase!administrative!de! la! dépense! (engagement,! liquidation,! ordonnancement),! à! la! gestion! des! crédits,! au! contrôle!de!la!régularité!des!demandes!d'engagement,!au!contrôle!financier!a!priori,!à! l'archivage! des! pièces! justificatives,! au! reporting! financier.! Ces! formations! seront! délivrées!par!de!l'expertise!nationale!ou!internationale!ou!dans!des!instituts!spécialisés! de! la! région.! Chaque! agent! de! la! DGF! bénéficiera! d'un! nombre! minimum! de! jours! de! formation! chaque! année.! La! DGF! sera! équipée! en! matériel! informatique! et! des! investissements! seront! réalisés! pour! installer! les! terminaux! du! système! intégré! de! gestion!de!la!dépense!publique.!
-
-!
 
 ##### Gestion&du&BAS/FCE&(portion&centrale)&&
 
-&
-
 Les!appuis!spécifiques!à!l'équipe!en!charge!de!la!gestion!du!BAS/FCE!se!poursuivront,! mobilisés! avec! l'appui! des! partenaires! techniques! et! financiers.! Le! renforcement! des! capacités! articulera! des! actions! de! formation,! du! conseil! budgétaire,! comptable! et! financier,! des! audits! conseil.! A! cette! fin! le! Ministère! actualisera! un! plan! spécifique! de!
 
-!
-
 37!
-
-(i) La!gestion!budgétaire!et!financière!
-
-(ii) La!gestion!des!ressources!humaines!
-
-(iii) La!supervision!pédagogique!
-
-(iv) L'information!statistique,!la!planification!et!la!programmation!
-
-(v) La!maîtrise!d'ouvrage!du!génie!civil!
 
 [[END OF PAGE 37]]
 
@@ -1802,41 +1539,23 @@ conserver!des!conditions!d'accueil!décentes!et!des!salaires!enseignants!accepta
 
 [[START OF PAGE 40]]
 
-!
+d'évaluation!et!de!passage.!
 
 Des!procédures!spécifiques!de!contrôle!des!pratiques!de!redoublement!seront!mises!en! place! à! l'usage! des! personnels! chargés! de! la! supervision! pédagogique,! et! les! moyens! matériels!!d'exercer!leur!tâche!seront!mobilisés!à!leur!profit.! 27 !
 
-!
-
 #### Information*statistique,*coordination,*planification,*programmation*et*suivi.*
-
-!
 
 La!collecte!des!données!et!le!calcul!des!indicateurs!du!système!éducatif!ont!fait!l'objet! ces! dernières! années! d'un! appui! prolongé! qui! a! donné! de! bons! résultats.! Toutefois! l'ensemble!du!dispositif!peut!être!amélioré.!L'analyse!des!données!pour!produire!une! information!utile!aux!décideurs!sera!renforcée!grâce!à!la!formation!des!personnels!du! BPSE.! Ces! derniers! auront! la! responsabilité! d'intégrer! dans! les! rapports! de! suivi! des! sections! d'analyse! qualitative! interprétant! les! changements! observés! du! système! éducatif!et!se!rapportant!aux!objectifs!clés.!Le!Ministère!souhaite!que!les!indicateurs!du! système! éducatif! soient! disponibles! en! mai! au! lieu! de! décembre! de! l'année! scolaire!! suivante.! Des! personnels! additionnels! pourront! être! affectés! et! formés! dans! ce! but! et! l'organisation!de!la!collecte!des!données!revue.!Le!respect!de!cette!échéance!permettra! de!disposer!d'informations!pertinentes!lors!de!la!préparation!du!budget.!!
 
-!
-
 La!direction!de!la!planification!bénéficiera!aussi!d'actions!de!renforcement!des!capacités! visant! à! (i)! étendre! l'utilisation! du! SIGE! à! l'ensemble! des! provinces! du! territoire! national,!(ii)!réaliser,!à!la!demande,!des!études!spécifiques!à!un!rythme!supérieur!à!celui! actuellement! constaté,! (iii)! disposer! d'une! cellule! apte! à! coordonner! les! activités! particulières!à!réaliser!lors!d'éventuelles!situations!d'urgence!(catastrophe!naturelle!ou! événement! de! toute! nature),! et! disposant! pour! cela! de! capacités! et! de! procédures! préalablement!mise!en!place.!
-
-!
 
 Pour!le! sousCsecteur! de! l'enseignement! des! métiers! et! la! formation! professionnelle,! il! sera!réalisé!une!étude!sur!les!besoins!d'information!des!décideurs!et!des!gestionnaires! de! la! FP,! notamment! les! mécanismes! d'analyse! de! l'adéquation! formation! emploi,! les! indicateurs! du! sousCsecteur,! le! système! de! collecte! et! de! traitement! des! données.! Le! Ministère! en! charge! de! la! FP! élaborera! sur! cette! base! un! plan! de! développement! du! système! d'information! qui! comprendra! (i)! la! définition! des! outils! de! collecte! et! de! traitement,!leur!acquisition!et!leur!implantation,!(ii)!la!formation!des!personnels,!(iii)!la! collecte! et! le! traitement! des! données,! (iv)! la! production! des! rapports! périodiques! sur! l'évolution! de! l'offre! de! formation! par! filière! et! l'adéquation! formation! emploi.! Une! expertise!internationale!sera!mobilisée!pour!accompagner!les!directions!nationales!dans! ce!travail.!Des!appuis!pourront!concerner!l'observatoire!de!l'emploi,!notamment!pour!la! réalisation! d'études! visant! l'actualisation! des! besoins! de! qualification! des! entreprises! dans!les!filières!économiques!porteuses!et!soutenues!par!les!investissements!publics.!!
 
-*
-
 #### Maîtrise*d'ouvrage*du*génie*civil.*
-
-!
 
 Le!Ministère!entend!continuer!à!employer!les!maîtrises!d'ouvrage!déléguées!déjà!actives! et!à!développer!les!maîtrises!d'ouvrage!communale!et!communautaire!des!constructions!
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !
-
 27 !Voir!plus!loin,!points!n°4221,!4222!
-
-!
-
-d'évaluation!et!de!passage.!
 
 40!
 
@@ -1930,31 +1649,19 @@ La! mise! en! œuvre! de! la! stratégie! sectorielle! du! PSDEF! et! l'exécuti
 
 Il!existe!aujourd'hui!trois!modalités!de!financement!public!des!politiques!sectorielles!:!
 
-!
-
-!
+(i) le!budget!général!de!l'Etat!
+(ii) le! fonds! commun! de! l'éducation,! inscrit! dans! un! budget! d'affectation! spéciale!(BAS)!
+(iii) les! fonds! de! différents! projets! extérieurs! accordés! par! les! PTF,! gérés! chacun!selon!des!modalités!qui!lui!sont!propres.!
 
 Le! FCECBAS,! dont! le! fonctionnement! a! été! révisé! en! 2011! avec! un! nouveau! guide! de! procédures,!est!mis!en!œuvre!par!la!Direction!Générale!des!Finances!du!Ministère!de! l'Enseignement! de! base! et! secondaire,! avec! des! appuis! en! assistance! technique,! de! la! même!façon!que!les!fonds!du!budget!général.!!
 
-!
-
 Le!FCE!est!piloté!par!un!Comité!du!fonds!commun,!dont!la!composition!comprend!des! représentants!des!ministères!sectoriels!et!des!représentants!des!PTF!qui!l'alimentent.! Les!réunions!de!ce!comité!sont!mensuelles.!Les!habitudes!de!rapportage!sont!désormais! bien!installées,!et!la!traçabilité!des!opérations!est!totale.!
-
-!
 
 En!2012,!le!FCE!représente!environ!34!%!des!appuis!extérieurs.!De!2013!à!2015,!en!y! ajoutant! le! don! espéré! du! PME,! ce! pourcentage! passera! à! 57,42! %.! Les! autorités! burundaises! voient! dans! le! FCE! l'instrument! d'avenir! pour! la! gestion! des! appuis! sectoriels!extérieurs.!
 
-!
-
 Cette! modalité! a! une! préférence! stratégique! des! autorités,! dans! la! mesure! où! elle! ne! suppose!pas!la!création!d'une!entité!d'exécution!spécifique,!extérieure!aux!services!que! le!Ministère!fait!fonctionner!pour!ses!besoins!courants.!La!mise!en!œuvre!du!FCE!est!le! fait!de!l'administration!sectorielle!nationale,!comme!celle!du!budget!national!en!vertu!du! mouvement! actuel! de! déconcentration! budgétaire! et! financière.! Le! financement! extérieur!via!le!FCE!est!une!modalité!conforme!à!la!déclaration!de!Paris!sur!l'alignement!
 
-!
-
 42!
-
-(i) le!budget!général!de!l'Etat! (ii) le! fonds! commun! de! l'éducation,! inscrit! dans! un! budget! d'affectation! spéciale!(BAS)! (iii)
-
-- les! fonds! de! différents! projets! extérieurs! accordés! par! les! PTF,! gérés! chacun!selon!des!modalités!qui!lui!sont!propres.!
 
 [[END OF PAGE 42]]
 
@@ -2018,7 +1725,7 @@ Une!évaluation!plus!fouillée!de!la!mise!en!œuvre!du!programme!aura!lieu!tous!
 
 ### 4.2.3.+PILOTAGE+SPECIFIQUE+DES+REFORMES+PEDAGOGIQUES+ET+DES+FLUX.+
 
-#### 4.2.3O1.+REFORME+DES+PROGRAMMES+D'ENSEIGNEMENT.+
+#### 4.2.3.-1.+REFORME+DES+PROGRAMMES+D'ENSEIGNEMENT.+
 
 !
 
@@ -2054,83 +1761,46 @@ pédagogiques!du!BEPEB!est!en!train!de!travailler!sur!le!curriculum!du!fondament
 
 On! doit! noter! cependant! que! les! travaux! de! refonte! de! ces! programmes! qui! seront! menés!s'inscriront!sous!les!contraintes!suivantes!:!
 
-!
-
-!
-
-!
+(i) La! massification! de! l'accès! au! cycle! 4! ne! doit! pas! se! traduire! par! la! massification!de!l'accès!au!secondaire,! de&sorte&que&le&parcours&majoritaire& des&élèves&fera&du&cycle&4&un&cycle&terminal .! La! finalité!du!cycle!ne!pourra! donc! pas! être,! en! priorité,! la! préparation! à! l'entrée! au! lycée,! elle! devra! ouvrir! vers! une! pluralité! d'orientations,! y! compris! vers! la! formation! professionnelle,!l'enseignement!des!métiers!ou!la!vie!active.!
+(ii) La! mise! en! place! d'une! régulation! des! flux! entre! le! cycle! 4! de! l'enseignement! fondamental! et! l'enseignement! secondaire! est! une! condition! critique! du! succès! de! la! réforme.! C'est! pourquoi! le! PSDEF! prévoit!de!changer!l'examen!de!fin!de!9 ème !année.!Le!nouvel!examen!devra! à! la! fois! valider! les! acquis! du! cycle! 4! et! réguler! l'accès! au! secondaire.! Il! pourra!prendre!la!forme!d'un!examenCconcours.! La&définition&des&contenus,& de&la&forme&et&des&modalités&de&ce&nouvel&examen&doivent&être&éclaircies&dès& le&départ&en&même&temps&que&la&réécriture&des&programmes .!
+(iii) La! question! des! langues! enseignées! et! d'enseignement! fera! l'objet! d'un! examen! spécifique! au! moment! de! ces! travaux! de! réécriture,! de! façon! à! garantir! qu'à! aucun! moment! les! élèves! ne! soient! handicapés! dans! leur! apprentissage,! pour! ne! pas! avoir! reçu! préalablement! les! enseignements! linguistiques!nécessaires!à!leur!progression.!Le!choix!de!ces!langues!et!des! niveaux! auxquelles! elles! doivent! être! enseignées! ou! servir! de! langue! d'enseignement! sera! donc! instruit! et! fixé! à! la! faveur! des! travaux! de! réécriture.!
 
 Une!commission!nationale!de!pilotage! de! la! rédaction! des! curricula! a! été! mise! en! place!pour!assurer!le!suivi!de!la!refonte!globale!des!programmes!de!l'enseignement! fondamental! et! postCfondamental.! Cette! commission! va! travailler! en! étroite! collaboration!avec!les!structures!ministérielles!impliquées,!notamment!l'inspection,! les!bureaux!pédagogiques,!le!bureau!des!évaluations!et!le!bureau!de!la!planification.!
 
-!
-
 De! la! sorte,! les! nouveaux! programmes! pourront! apporter! une! réponse! pertinente! aux! différentes! questions! soulevées! par! la! réforme.! La! commission! établira! régulièrement!un!rapport!aux!autorités!du!Ministère!et!aux!différentes!structures!du! suivi!de!la!gestion!du!PSDEF!(GSE,!CCSPS).!
 
-!
+Conséquemment! à! la! refonte! des! programmes! du! cycle! 4,! des! travaux! similaires! seront!menés!
 
-!
-
-Conséquemment! à! la! refonte! des! programmes! du! cycle! 4,! des! travaux! similaires! seront!menés!! (i) Pour!les!trois!premiers!cycles!du!fondamental.!Les!aspects!à!prendre!en! compte!dans!ce!cadre!seront!(a)! la! modération! et! la! standardisation! du! niveau!d'exigence!académique,!dans!la!perspective!de!scolarités!pouvant! se!poursuivre!au!cycle!4!et!(b)!la!question!des!langues.!
+(i) Pour!les!trois!premiers!cycles!du!fondamental.!Les!aspects!à!prendre!en! compte!dans!ce!cadre!seront!(a)! la! modération! et! la! standardisation! du! niveau!d'exigence!académique,!dans!la!perspective!de!scolarités!pouvant! se!poursuivre!au!cycle!4!et!(b)!la!question!des!langues.!
 
 45!
-
-(i) La! massification! de! l'accès! au! cycle! 4! ne! doit! pas! se! traduire! par! la! massification!de!l'accès!au!secondaire,! de&sorte&que&le&parcours&majoritaire& des&élèves&fera&du&cycle&4&un&cycle&terminal .! La! finalité!du!cycle!ne!pourra! donc! pas! être,! en! priorité,! la! préparation! à! l'entrée! au! lycée,! elle! devra! ouvrir! vers! une! pluralité! d'orientations,! y! compris! vers! la! formation! professionnelle,!l'enseignement!des!métiers!ou!la!vie!active.! (ii) La! mise! en! place! d'une! régulation! des! flux! entre! le! cycle! 4! de! l'enseignement! fondamental! et! l'enseignement! secondaire! est! une! condition! critique! du! succès! de! la! réforme.! C'est! pourquoi! le! PSDEF! prévoit!de!changer!l'examen!de!fin!de!9 ème !année.!Le!nouvel!examen!devra! à! la! fois! valider! les! acquis! du! cycle! 4! et! réguler! l'accès! au! secondaire.! Il! pourra!prendre!la!forme!d'un!examenCconcours.! La&définition&des&contenus,& de&la&forme&et&des&modalités&de&ce&nouvel&examen&doivent&être&éclaircies&dès& le&départ&en&même&temps&que&la&réécriture&des&programmes .! (iii) La! question! des! langues! enseignées! et! d'enseignement! fera! l'objet! d'un! examen! spécifique! au! moment! de! ces! travaux! de! réécriture,! de! façon! à! garantir! qu'à! aucun! moment! les! élèves! ne! soient! handicapés! dans! leur! apprentissage,! pour! ne! pas! avoir! reçu! préalablement! les! enseignements! linguistiques!nécessaires!à!leur!progression.!Le!choix!de!ces!langues!et!des! niveaux! auxquelles! elles! doivent! être! enseignées! ou! servir! de! langue! d'enseignement! sera! donc! instruit! et! fixé! à! la! faveur! des! travaux! de!
-
-- réécriture.!
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-!
-
-!
-
-La!réduction!des!redoublements!à!l'école!fondamentale!est!à!la!fois!une!nécessité!et!la! condition! première! de! la! réussite! de! l'ensemble! de! la! stratégie! visant! à! l'achèvement! universel!de!la!scolarité!primaire!et!à!la!promotion!de!cohortes!nombreuses!au!cycle!4.!
-
-!
-
-Ses!principaux!instruments!sont!
-
-!
-
-!
-
-A!terme!plus!lointain,!le!déploiement!du!SIGE!avec!immatriculation!des!élèves!permettra! aux! services! déconcentrés! de! suivre! l'application! de! cette! politique,! par! un! repérage! individuel!des!cas!anormaux.!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !
-
-30 !A!ce!niveau!!de!la!!9 ème !année!de!l'enseignement!fondamental,!l'évaluation!!va!poursuivre!deux!objectifs!
-
-principaux!:!d'une!part!la!certification!des!acquis!de!l'enseignement!fondamental!et!d'autre!part!l'accès!à!
-
-l'enseignement!post!fondamental!(secondaire,!professionnel).!Il!sera!nécessaire!de!discuter!des!modalités!
-
-de!son!administration.!
-
-31 !Un!atelier!du!genre!est!prévu!au!cours!au!courant!du!mois!de!juillet!de!cette!année!pour!l'analyse!et!la!
-
-validation!du!curriculum!de!l'enseignement!fondamental!élaboré!récemment.!
-
-32 ! Une!étude!sur!la!déperdition!scolaire!au!Burundi!(voir!références!bibliographiques)!a!montré!que!les!
-
-critères! d'avancement! de! classe! ne! sont! pas! harmonisés,! situation! ! qui! devrait! faire! objet! d'une!
-
-réglementation!officielle.!
-
-!
-
-!
+(ii) Pour!l'enseignement!secondaire!général!et!pédagogique.!Les!données!de! base!pour!cette!révision!viendront!(a)!du!nouveau!profil!des!sortants!de! 9 ème ! année! et! des! exigences! de! l'examen! correspondant 30 ! et! (b)! pour! l'enseignement! pédagogique,! du! nouveau! profil! professionnel! des! enseignants!dérivé!de!la!réforme!du!fondamental.!
+(iii) Pour! l'enseignement! des! métiers! et! la! formation! professionnelle,! la! révision!des!programmes!va!privilégier!la!diversification!des!filières!selon! les! potentialités! du! milieu! et! l'approche! modulaire! pour! ! permettre! l'ancrage!des!acquis!de!l'enseignement!fondamental.!
+(iv) Cette! phase! de! conception! des! programmes! sera! suivie! de! l'élaboration! des! supports! pédagogiques! d'accompagnement! (manuels! des! élèves! et! guides!des!maîtres)!sur!lesquels!les!enseignants!en!place!seront!formés.! Une!expertise!nationale!ou!internationale!sera!envisagée!pour!garantir!la! qualité!et!une!meilleure!cohérence.!Des!ateliers!seront!organisés!pour!une! validation!et!une!large!consultation!sur!les!nouveaux!programmes. 31 !
 
 Des! termes! de! référence! pour! la! réforme! des! curricula! (ce! terme! englobant! les! programmes! scolaires,! les! méthodes! d'évaluation! et! d'examen)! sont! annexés! au! PSDEF.!
 
-#### 4.2.3.O+2+PILOTAGE+DE+LA+POLITIQUE+DE+REDUCTION+DES+REDOUBLEMENTS+
+#### 4.2.3.-2.+PILOTAGE+DE+LA+POLITIQUE+DE+REDUCTION+DES+REDOUBLEMENTS+
 
-(ii) Pour!l'enseignement!secondaire!général!et!pédagogique.!Les!données!de! base!pour!cette!révision!viendront!(a)!du!nouveau!profil!des!sortants!de! 9 ème ! année! et! des! exigences! de! l'examen! correspondant 30 ! et! (b)! pour! l'enseignement! pédagogique,! du! nouveau! profil! professionnel! des! enseignants!dérivé!de!la!réforme!du!fondamental.! (iii) Pour! l'enseignement! des! métiers! et! la! formation! professionnelle,! la! révision!des!programmes!va!privilégier!la!diversification!des!filières!selon! les! potentialités! du! milieu! et! l'approche! modulaire! pour! ! permettre! l'ancrage!des!acquis!de!l'enseignement!fondamental.! (iv) Cette! phase! de! conception! des! programmes! sera! suivie! de! l'élaboration! des! supports! pédagogiques! d'accompagnement! (manuels! des! élèves! et! guides!des!maîtres)!sur!lesquels!les!enseignants!en!place!seront!formés.! Une!expertise!nationale!ou!internationale!sera!envisagée!pour!garantir!la! qualité!et!une!meilleure!cohérence.!Des!ateliers!seront!organisés!pour!une! validation!et!une!large!consultation!sur!les!nouveaux!programmes. 31 !
+La!réduction!des!redoublements!à!l'école!fondamentale!est!à!la!fois!une!nécessité!et!la! condition! première! de! la! réussite! de! l'ensemble! de! la! stratégie! visant! à! l'achèvement! universel!de!la!scolarité!primaire!et!à!la!promotion!de!cohortes!nombreuses!au!cycle!4.!
 
-(i) une!politique!de!cycle,!les!redoublements!étant!strictement!limités!au!sein! de!chaque!cycle!de!deux!années!;! (ii) l'harmonisation! des! exigences! et! des! procédés! d'évaluation! des! enseignants! 32 ;! (iii) la!communication!autour!de!la!nocivité!de!la!pratique!du!redoublement,!la! sensibilisation!des!enseignants,!des!directeurs!d'école!et!des!familles!;! (iv)
+Ses!principaux!instruments!sont!
 
-- un!encadrement!de!proximité!des!enseignants,!mandaté!pour!faire!évoluer! et!encadrer!leurs!pratiques!d'évaluation.!
+(i) une!politique!de!cycle,!les!redoublements!étant!strictement!limités!au!sein! de!chaque!cycle!de!deux!années!;!
+(ii) l'harmonisation! des! exigences! et! des! procédés! d'évaluation! des! enseignants! 32 ;!
+(iii) la!communication!autour!de!la!nocivité!de!la!pratique!du!redoublement,!la! sensibilisation!des!enseignants,!des!directeurs!d'école!et!des!familles!;!
+(iv) un!encadrement!de!proximité!des!enseignants,!mandaté!pour!faire!évoluer! et!encadrer!leurs!pratiques!d'évaluation.!
+
+A!terme!plus!lointain,!le!déploiement!du!SIGE!avec!immatriculation!des!élèves!permettra! aux! services! déconcentrés! de! suivre! l'application! de! cette! politique,! par! un! repérage! individuel!des!cas!anormaux.!
+
+30 !A!ce!niveau!!de!la!!9 ème !année!de!l'enseignement!fondamental,!l'évaluation!!va!poursuivre!deux!objectifs! principaux!:!d'une!part!la!certification!des!acquis!de!l'enseignement!fondamental!et!d'autre!part!l'accès!à! l'enseignement!post!fondamental!(secondaire,!professionnel).!Il!sera!nécessaire!de!discuter!des!modalités! de!son!administration.!
+31 !Un!atelier!du!genre!est!prévu!au!cours!au!courant!du!mois!de!juillet!de!cette!année!pour!l'analyse!et!la! validation!du!curriculum!de!l'enseignement!fondamental!élaboré!récemment.!
+32 ! Une!étude!sur!la!déperdition!scolaire!au!Burundi!(voir!références!bibliographiques)!a!montré!que!les! critères! d'avancement! de! classe! ne! sont! pas! harmonisés,! situation! ! qui! devrait! faire! objet! d'une! réglementation!officielle.!
 
 46!
 
@@ -2138,53 +1808,26 @@ Des! termes! de! référence! pour! la! réforme! des! curricula! (ce! terme! en
 
 [[START OF PAGE 47]]
 
-!
-
 L'indicateur! fourni! par! les! taux! de! redoublement! sera! particulièrement! suivi! pendant! l'exécution!du!PSDEF.!Il!fera!l'objet!d'un!rapport!annuel!spécifique!établi!par!l'inspection! générale!pour!chaque!revue!annuelle!du!secteur.!Ce!rapport!donnera!les!proportions!de! redoublants! constatées! à! la! rentrée! scolaire! dans! les! classes,! par! commune! et! par! province,! il! indiquera! l'ensemble! des! activités! entreprises! au! cours! de! l'année! précédente,!citera!les!pratiques!remarquables!et!les!difficultés!les!plus!marquantes,!ces! dernières!faisant!l'objet!d'une!analyse.!Chaque!revue!sectorielle!devra!se!prononcer!sur! la!nécessité!ou!non!d'adjoindre!des!mesures!complémentaires!à!celles!déjà!prévues!par! le!PSDEF.!
 
-!
-
 Les! activités! liées! à! la! politique! de! réduction! des! redoublements! ont! un! caractère! prioritaire.!Elles!font!donc!l'objet!d'un!suivi!particulier!exercé!par!l'inspection!générale,! qui!veille!
-
 - à!leur!inscription!dans!les!plans!annuels!d'activités!;!
-
 - au!déclenchement!effectif!des!dépenses!correspondantes!;!
-
 - au!respect!des!délais!d'exécution!indiqués!dans!les!plans!annuels.!
-
-!
 
 A!ce!titre,! l'inspection! générale! de! l'Enseignement! peut! intervenir! directement!auprès! des!services!en!charge!des!activités!en!lien!avec!cette!politique.!
 
-!
-
 Ce! suivi! s'exerce! en! redondance! du! suivi! plus! général! de! l'ensemble! des! activités! du! PSDEF!par!les!services!du!Secrétaire!Permanent.!
 
-*
-
-!
+#### 4.2.3.-3.+GESTION+DES+FLUX+
 
 La!gestion!des!flux!d'élèves!dans!le!système!éducatif!constitue!un!enjeu!de!taille!dans!la! perspective! de! l'amélioration! de! l'achèvement! au! primaire! et! de! la! réforme! du! fondamental.!La!politique!volontariste!de!la!promotion!du!fondamental!va!entrainer!des! conséquences!sur!la!partie!haute!du!système.!Les!travaux!de!simulation!ont!permis!de! mesurer! ces! conséquences.! Le! gouvernement! envisage! de! prendre! les! mesures! lui! permettent! de! maitriser! les! diverses! transitions! comme! il! l'a! toujours! fait! pour! les! entrées!au!supérieur.!
 
-!
-
-##### 1Q$Le$fondamental$:
-
-!
+##### 1-$Le$fondamental$:
 
 La!politique!visant!l'amélioration!de!l'achèvement!à!la!6 ème !!année!du!primaire!aura!pour! effet!l'augmentation!de!près!de!28%!des!effectifs!de!la!6AF!entre!2010!et2015!et!près!de! 60%!d'augmentation!si!on!considère!l'horizon!2020.!!
 
-!
-
 Près!de!80%!des!enfants!de!la!6AF!accéderont!à!la!7AF!à!l'horizon!2020,!contre!40%!qui! accèdent!aujourd'hui!à!la!première!année!du!collège.!L'objectif!du!gouvernement!est!de! les!accueillir!tous!au!fur!et!à!mesure!qu'il!construira!les!capacités!d'accueil!nécessaires.! Une! partie! des! enfants! n'ayant! pas! pu! accéder! à! la! 7AF! recevra! une! formation! dans! centres!d'enseignement!des!métiers.!Le!tableau!ciCdessous!présente!les!évolutions!des! effectifs!au!fondamental.!!
-
-!
-
-!
-
-#### 4.2.+3.O3+GESTION+DES+FLUX+
-
-!!
 
 47!
 
@@ -2217,7 +1860,7 @@ Un!autre!aspect!important!de!cette!réforme!est!l'interdiction!du!redoublement!e
 
 !
 
-##### 2@*Le*niveau*post*fondamental*
+##### 2-*Le*niveau*post*fondamental*
 
 !
 
@@ -2282,7 +1925,7 @@ Les! modalités! pratiques! et! les! contenus! de! cet! examen 33 ! font! actuel
 
 !
 
-##### 3@*Le*supérieur*
+##### 3-*Le*supérieur*
 
 !
 
@@ -2325,27 +1968,15 @@ L'examen!d'Etat!sera!maintenu!pour!permettre!une!orientation!des!élèves!en!fon
 
 !
 
-*
+#### 4.2.3.-4.+EVALUATIONS+
 
 De! façon! à! exercer! un! suivi! de! la! réforme! de! l'enseignement! fondamental,! dans! ses! conséquences!sur!la!qualité!des!apprentissages,!le!Ministère!va!développer!des!activités! d'évaluations!standardisées!régulières!des!acquis!des!élèves.!Il!existe!déjà!une!pratique! régulière! d'évaluations! harmonisées! de! toutes! les! écoles! d'une! même! commune,! de! façon!à!permettre!à!chacune!de!se!situer!dans!ses!performances.!
 
-!
-
 Sur!le!plan!national,!le!Bureau!des!évaluations!est!chargé!de!mener!des!opérations!plus! systématiques.!Il! existe! une! commission! nationale! des! évaluations! des! acquis! scolaire! qui!compte!en!son!sein!huit!cadres!ayant!bénéficié!des!formations!PSGSE!organisées!par! le! Pôle! d'analyse! sectorielle! de! Dakar! ainsi! que! les! membres! de! l'Equipe! nationale! PASEC.! Elle! est! institutionnellement! rattachée! au! Bureau! des! évaluations! et! a! déjà! réalisé! une! évaluation! pilote! sur! échantillon! des! acquisitions! des! élèves! de! deuxième! année.!!
-
-!
 
 Ce! bureau! mobilisera! des! appuis! techniques! ponctuels! destinés! à! lui! permettre! de! réaliser!de!telles!études!à!plus!grande!ampleur!et!avec!régularité.!De!même,!au!sein!de! ce! Bureau,! il! existe! une! commission! nationale! qui! a,! à! son! actif,! la! réalisation! de! 2! évaluations!des!compétences!fondamentales!en!lecture!(EGRA!2011!et!2012).!
 
-!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !
-
 > 34 !Il!importe!de!réserver!l'accès!à!ces!filières!aux!admis!de!l'examen!d'état!qui!ne!peuvent!pas!accéder!aux!filières! classiques!de!l'enseignement!supérieur!à!l'horizon!2017.!!
-
-!
-
-#### 4.2.3.O4.+EVALUATIONS+
 
 50!
 
@@ -2363,7 +1994,7 @@ La!scolarité!primaire!connaît!peu!de!discriminations!de!genre!dans!l'accès!au
 
 !
 
-Les! enfants! à! besoins! spécifiques,! qu'ils! soient! touchés! par! la! grande! pauvreté,! ou! orphelins,! ou! porteurs! de! handicaps,! ou! victimes! directes! ou! indirectes! du! VIHCSIDA! feront!l'objet!d'opérations!pilotes!de!soutien,!menés!par!des!ONG!ou!d'autres!opérateurs! sur!la!base!d'appel!à!propositions.!Particulièrement!en!ce!qui!concerne!la!lutte!contre!le! VIH/SIDA,!il!existe!au!sein!du!Ministère!une!Unité!sectorielle!de!lutte!contre!le!VIH/SIDA! qui! anime! des! clubs! STOP! SIDA! dans! les! écoles! secondaires! et! qui! collabore! avec! les! partenaires! actifs! dans! ce! champ.! En! perspective,! ! en! collaboration! et! avec! l'appui! de! l'UNESCO,!les!deux!ministères!ayant!en!charge!l'éducation!vont!élaborer!une!politique! sectorielle!en!matière!de!VIH/SIDA!et!éducation!sexuelle.!Ces!expériences!feront!l'objet! d'évaluations,! de! façon! à! pouvoir,! le! cas! échéant,! les! étendre! dans! les! plans! d'actions! ultérieurs.!
+Les! enfants! à! besoins! spécifiques,! qu'ils! soient! touchés! par! la! grande! pauvreté,! ou! orphelins,! ou! porteurs! de! handicaps,! ou! victimes! directes! ou! indirectes! du! VIH/SIDA! feront!l'objet!d'opérations!pilotes!de!soutien,!menés!par!des!ONG!ou!d'autres!opérateurs! sur!la!base!d'appel!à!propositions.!Particulièrement!en!ce!qui!concerne!la!lutte!contre!le! VIH/SIDA,!il!existe!au!sein!du!Ministère!une!Unité!sectorielle!de!lutte!contre!le!VIH/SIDA! qui! anime! des! clubs! STOP! SIDA! dans! les! écoles! secondaires! et! qui! collabore! avec! les! partenaires! actifs! dans! ce! champ.! En! perspective,! ! en! collaboration! et! avec! l'appui! de! l'UNESCO,!les!deux!ministères!ayant!en!charge!l'éducation!vont!élaborer!une!politique! sectorielle!en!matière!de!VIH/SIDA!et!éducation!sexuelle.!Ces!expériences!feront!l'objet! d'évaluations,! de! façon! à! pouvoir,! le! cas! échéant,! les! étendre! dans! les! plans! d'actions! ultérieurs.!
 
 *
 
@@ -2393,6 +2024,10 @@ Les! directions! communales! et! provinciales! seront! sollicitées! à! produir
 
 !
 
+- indiquer!les!écoles!dans!lesquelles!le!ratio!élèves/maître!est!sensiblement!moins! élevé!que!dans!la!moyenne!communale!ou!provinciale,!et!en!donner!les!raisons! (affectations!non!demandées!par!l'école,!migrations!de!populations,!présence!de! suppléants,…)!et!les!mesures!envisagées!pour!y!remédier!
+
+- chiffrer!la!proportion!d'enseignants!affectés!en!suppléance!ou!n'exerçant!pas!un! service!complet!et!leurs!écoles!de!rattachement.!
+
 La! revue! sectorielle! annuelle! examinera! la! dispersion! des! ratios! élèves/maître! sur! le! territoire,! sa! relation! avec! les! affectations! de! nouveaux! enseignants! et! les! mesures! de! redéploiement.!!
 
 !
@@ -2419,10 +2054,6 @@ Le!PSDEF!a!pour!ambition!de!supprimer!totalement!la!double!vacation!à!un!enseig
 
 52!
 
-- indiquer!les!écoles!dans!lesquelles!le!ratio!élèves/maître!est!sensiblement!moins! élevé!que!dans!la!moyenne!communale!ou!provinciale,!et!en!donner!les!raisons! (affectations!non!demandées!par!l'école,!migrations!de!populations,!présence!de! suppléants,…)!et!les!mesures!envisagées!pour!y!remédier!
-
-- chiffrer!la!proportion!d'enseignants!affectés!en!suppléance!ou!n'exerçant!pas!un! service!complet!et!leurs!écoles!de!rattachement.!
-
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
@@ -2435,7 +2066,7 @@ L'étude! sur! l'équité! genre! qui! a! été! mentionné! plus! haut! a! éta
 
 !
 
-L'étude!propose!également!un!ensemble!de!mesures!et!d'actions!dont!la!mise!en!œuvre! contribuera! à! la! réalisation! du! droit! à! l'éducation! pour! tous! les! enfants! burundais,! gar ç ons!comme!filles.!Les!cinq!principaux!axes!stratégiques!relevés!sont!les!suivants:!!
+L'étude!propose!également!un!ensemble!de!mesures!et!d'actions!dont!la!mise!en!œuvre! contribuera! à! la! réalisation! du! droit! à! l'éducation! pour! tous! les! enfants! burundais,! garçons!comme!filles.!Les!cinq!principaux!axes!stratégiques!relevés!sont!les!suivants:!!
 
 !
 
@@ -2445,7 +2076,7 @@ L'étude!propose!également!un!ensemble!de!mesures!et!d'actions!dont!la!mise!en!
 
 " !Développer! les! compétences! et! les! comportements! favorables! à! l'équité! genre! chez!tous!les!acteurs!impliqués!dans!l'éducation.!
 
-" Mettre! en! place! des! mécanismes! de! formation! et! d'appui! à! la! formation! qui! contribuent!à!un!environnement!socioCéconomique!favorable!à!l'équité!genre.!
+" Mettre! en! place! des! mécanismes! de! formation! et! d'appui! à! la! formation! qui! contribuent!à!un!environnement!socio-économique!favorable!à!l'équité!genre.!
 
 " Développer!l'éducation!parentale!et!l'alphabétisation.!
 
@@ -2489,11 +2120,9 @@ Les!hypothèses!pour!le!financement!du!PSDEF!reposent!sur!
 
 - la!stabilité!des!appuis!des!partenaires.!
 
-comme!le!montre!le!tableau!ciCdessous,!extrait!du!modèle!de!simulation!économique!et! financier.!!
+comme!le!montre!le!tableau!ci-dessous,!extrait!du!modèle!de!simulation!économique!et! financier.!!
 
-)!
-
-( tableau&page&suivante
+(tableau&page&suivante)
 
 !
 
