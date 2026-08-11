@@ -2,9 +2,8 @@
 
 Ministero dell'Istruzione, dell'Università e della Ricerca Dipartimento per l'Istruzione
 
-Circolare n. 101 Prot.n. AOODGPER 11313
-
-Roma,   30 dicembre 2010
+Circolare n. 101 Roma, 30 dicembre 2010
+Prot.n. AOODGPER 11313
 
 Ai Direttori Generali degli Uffici Scolastici Regionali LORO SEDI Ai Presidenti delle Regioni LORO SEDI Ai Presidenti delle Province LORO SEDI Ai Sindaci dei Comuni LORO SEDI Al Sovrintendente Scolastico per la Regione Valle d'Aosta AOSTA Al Sovrintendente Scolastico per la scuola in lingua italiana BOLZANO All'Intendente Scolastico per la scuola in lingua tedesca BOLZANO All'Intendente Scolastico per la scuola delle località ladine BOLZANO Al Dirigente del Dipartimento Istruzione per la Provincia TRENTO Agli Uffici territoriali degli U.S.R. LORO SEDI Ai Dirigenti Scolastici delle scuole statali e paritarie LORO SEDI
 
@@ -94,7 +93,7 @@ Ogni singola istituzione scolastica, all'atto dell'iscrizione, mette a disposizi
 
 All'atto dell'iscrizione, i genitori esprimono le proprie opzioni rispetto alle possibili articolazioni dell'orario settimanale, che, in base all'art. 4 del Regolamento, è così strutturato: 24; 27; fino a 30;  40 ore (tempo pieno).
 
-L'accoglimento delle opzioni fino a 30 ore settimanali o per il tempo pieno è subordinato alla esistenza delle risorse di organico e alla disponibilità di adeguati  servizi, circostanze queste che, in base  agi  elementi  in  possesso  delle  singole  istituzioni  scolastiche,  dovranno  essere  portate  a conoscenza dei genitori all'atto dell'iscrizione.
+L'accoglimento delle opzioni fino a 30 ore settimanali o per il tempo pieno è subordinato alla esistenza delle risorse di organico e alla disponibilità di adeguati servizi, circostanze queste che, in base agli elementi in possesso delle singole istituzioni scolastiche, dovranno essere portate a conoscenza dei genitori all'atto dell'iscrizione.
 
 L'adozione del modello di 24 ore settimanali si rende possibile solo in presenza di un numero di domande che consenta la formazione di una classe.
 
@@ -154,7 +153,7 @@ Coloro  che  intendano  provvedere  in  proprio  alla  istruzione  dei  minori  
 
 Coloro che frequentano una scuola non statale e non paritaria hanno l'obbligo di sottoporsi ad esame di idoneità nel caso in cui intendano iscriversi a scuole statali o paritarie, nonché, in ogni caso, al termine della scuola primaria per il passaggio alla scuola secondaria di primo grado. Inoltre tutti  gli  obbligati  sono  tenuti  a  sostenere  l'esame  di  Stato  a  conclusione  del  primo  ciclo  di istruzione.
 
-Gli studenti che nel corrente anno scolastico concluderanno con esito positivo il  percorso del primo ciclo, per effetto della norma che ha disposto l'innalzamento dell'obbligo di istruzione, devono  iscriversi  alla  classe  prima  di  un  istituto  secondario  di  secondo  grado.  L'obbligo  di istruzione, in base all'art. 64, comma 4 bis, della legge 6 agosto 2008, n. 133, può essere assolto anche nei percorsi di istruzione e formazione professionale di cui al capo III del decreto legislativo 17 ottobre 2005, n. 226.
+Gli studenti che nel corrente anno scolastico concluderanno con esito positivo il percorso del primo ciclo, per effetto della norma che ha disposto l'innalzamento dell'obbligo di istruzione,
 
 5
 
@@ -162,7 +161,9 @@ Gli studenti che nel corrente anno scolastico concluderanno con esito positivo i
 
 [[START OF PAGE 6]]
 
-Con il  conseguimento  di  un  titolo  di  studio  di  istruzione  secondaria  di  II  grado  o  di  una qualifica professionale di durata almeno triennale entro il 18° anno di età si assolve anche il dirittodovere di cui al decreto legislativo n. 76/2005.
+devono iscriversi alla classe prima di un istituto secondario di secondo grado. L'obbligo di istruzione, in base all'art. 64, comma 4 bis, della legge 6 agosto 2008, n. 133, può essere assolto anche nei percorsi di istruzione e formazione professionale di cui al capo III del decreto legislativo 17 ottobre 2005, n. 226.
+
+Con il conseguimento di un titolo di studio di istruzione secondaria di II grado o di una qualifica professionale di durata almeno triennale entro il 18° anno di età si assolve anche il diritto-dovere di cui al decreto legislativo n. 76/2005.
 
 ### Verifica dell'assolvimento dell'obbligo di istruzione
 
@@ -202,19 +203,21 @@ Ai  sensi  del  D.P.R.  15-3-2010,  n.  87,  i  percorsi  degli  istituti  profe
 
 A  puro  titolo  informativo,  si  segnala  che  dall'a.s.  2011-2012  avranno  inizio  i  percorsi formativi, di durata biennale, degli Istituti tecnici superiori, ITS, cui si accede con il possesso del diploma  di  istruzione  secondaria  superiore.  Gli  ITS,  istituiti  nell'ambito  dei  piani  territoriali deliberati dalle Regioni, rappresentano un canale formativo di livello post secondario parallelo ai percorsi accademici. Hanno come ente di riferimento un Istituto tecnico o professionale e rilasciano il 'diploma di tecnico superiore' valido su tutto il territorio nazionale.
 
-Si tratta in sostanza di 'scuole speciali di tecnologia' costituite con l'obiettivo di fornire ai giovani diplomati una formazione specialistica nelle aree tecnologiche strategiche per lo sviluppo economico del Paese: Efficienza energetica -  Mobilità sostenibile -  Nuove tecnologie per il made in  Italy  (sistema  della  Meccanica,  sistema  Moda,  sistema  Casa,  sistema  Alimentare,  Servizi  alle imprese) -  Nuove tecnologie della vita -  Tecnologie innovative per i beni e le attività culturali Tecnologie dell'informazione e della comunicazione. Tutte le notizie al riguardo sono disponibili sul sito www.indire.it/ifts.
+Si tratta in sostanza di 'scuole speciali di tecnologia' costituite con l'obiettivo di fornire ai giovani diplomati una formazione specialistica nelle aree tecnologiche strategiche per lo sviluppo economico del Paese: Efficienza energetica - Mobilità sostenibile - Nuove tecnologie per il made in Italy (sistema della Meccanica, sistema Moda, sistema Casa, sistema Alimentare, Servizi alle imprese) - Nuove tecnologie della vita - Tecnologie innovative per i beni e le attività culturali - Tecnologie dell'informazione e della comunicazione. Tutte le notizie al riguardo sono disponibili sul sito www.indire.it/ifts.
 
 ### Iscrizione ai percorsi di Istruzione e Formazione Professionale (IeFP)
 
 Com'è noto,  i percorsi triennali di Istruzione e Formazione Professionale per il conseguimento di uno  dei  21  titoli di qualifica  professionale  (allegato  2) di  cui  al  decreto  del  Ministro dell'Istruzione,  dell'Università  e  della  Ricerca  adottato  di  concerto  con  il  Ministro  del  Lavoro  e delle Politiche sociali il 15 giugno 2010, con il quale è stato recepito l'Accordo in sede  Conferenza Stato-Regioni  29  aprile  2010,  sono  realizzati  dalle  strutture  formative  accreditate  dalle  Regioni secondo  i  criteri  di  cui  al  D.M.  29  novembre  2007.  Le  modalità  relative  all'iscrizione  presso  le citate  strutture  formative  accreditate  sono  stabilite  dalle  Regioni  nell'ambito  della  loro  esclusiva competenza.
 
-Fermo restando quanto sopra, le Regioni nella propria programmazione possono prevedere la realizzazione,  da  parte  degli  Istituti  professionali,  di  percorsi  di  IeFP  in  regime  di  sussidiarietà, secondo due distinte modalità contenute nelle linee-guida di cui all'articolo 13, comma l-quinquies della  legge  n.  40/07.  E'  bene  evidenziare  che  tale  articolo  disciplina  gli  organici  raccordi  tra  i percorsi degli istituti professionali e i percorsi di istruzione e formazione professionale adottati con l'Intesa in sede di Conferenza Unificata il 16 dicembre 2010 (pubblicata nel sito di questo Ministero www.istruzione.it riforma della scuola secondaria superiore-) .
+Fermo restando quanto sopra, le Regioni nella propria programmazione possono prevedere la realizzazione, da parte degli Istituti professionali, di percorsi di IeFP in regime di sussidiarietà, secondo due distinte modalità contenute nelle linee-guida di cui all'articolo 13, comma 1-quinquies della legge n. 40/07. E' bene evidenziare che tale articolo disciplina gli organici raccordi tra i percorsi degli istituti professionali e i percorsi di istruzione e formazione professionale adottati con
 
 7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+l'Intesa in sede di Conferenza Unificata il 16 dicembre 2010 (pubblicata nel sito di questo Ministero www.istruzione.it - riforma della scuola secondaria superiore-) .
 
 Il suddetto regime di sussidiarietà trova attuazione attraverso le due seguenti tipologie:
 
@@ -232,7 +235,7 @@ Resta ferma la prosecuzione, sino alla loro conclusione, dei corsi di qualifica 
 
 L'iscrizione  alle  sezioni  di  scuola  dell'infanzia  e  alle  classi  prime  della  scuola  primaria, secondaria di primo grado e secondaria di secondo grado è effettuata a domanda, come da modelli allegati A, B, C, D.  A tal fine gli interessati rendono le informazioni essenziali relative all'alunno (nome  e  cognome,  data  di  nascita,  residenza)  ed  esprimono  le  proprie  scelte  in  merito  alle possibilità  di  fruizione  del  tempo  scuola,  della  mensa,  degli  altri  servizi  indicati  dalle  istituzioni scolastiche  sulla  base  del  POF  e  delle  risorse  disponibili.  I  citati  modelli,  ferme  restando  le informazioni  sopra  riportate,  potranno  essere  contestualizzati  a  cura  delle  singole  istituzioni scolastiche autonome.
 
-Per l'istruzione secondaria di secondo  grado,  le  domande  di  iscrizione  devono essere presentate ad un solo istituto ,  per  evitare  che  una  doppia opzione da parte delle famiglie possa alterare  le  situazioni  di  organico.  Tuttavia,  in  considerazione  della  possibilità  che  si  verifichi eccedenza  di  domande  rispetto  ai  posti  disponibili  e  che,  conseguentemente,  si  renda  necessario indirizzare  verso  altri  istituti  le  domande  non  accolte  (anche  in  base  ai  criteri  di  ammissione deliberati dal consiglio di istituto), le famiglie, in sede di presentazione della istanza di iscrizione, possono indicare, in subordine, fino ad un massimo di altri due istituti di proprio gradimento. Sarà cura del dirigente scolastico dell'istituto secondario di II grado presso cui la domanda non è stata accolta,  provvedere  all'inoltro  immediato  delle  domande  di  iscrizione,  d'intesa  con  le  famiglie, verso gli istituti indicati in subordine.
+Per l'istruzione secondaria di secondo grado, le domande di iscrizione devono essere presentate ad un solo istituto, per evitare che una doppia opzione da parte delle famiglie possa alterare le situazioni di organico. Tuttavia, in considerazione della possibilità che si verifichi eccedenza di domande rispetto ai posti disponibili e che, conseguentemente, si renda necessario indirizzare verso altri istituti le domande non accolte (anche in base ai criteri di ammissione deliberati dal consiglio di istituto), le famiglie, in sede di presentazione della istanza di iscrizione,
 
 8
 
@@ -240,7 +243,9 @@ Per l'istruzione secondaria di secondo  grado,  le  domande  di  iscrizione  dev
 
 [[START OF PAGE 9]]
 
-Per una coerente e idonea programmazione del servizio e in considerazione del fatto che una doppia opzione da parte delle famiglie potrebbe influire negativamente sulla rilevazione dei dati ed alterare  la  esatta  definizione  degli  organici,  con  il  rischio  di  danni  erariali,  i  genitori  possono indirizzare la domanda di iscrizione ad una sola istituzione scolastica. Non è, infatti, consentito agli stessi di presentare altre domande ad altri istituti, né a questi di accoglierle.
+possono indicare, in subordine, fino ad un massimo di altri due istituti di proprio gradimento. Sarà cura del dirigente scolastico dell'istituto secondario di II grado presso cui la domanda non è stata accolta, provvedere all'inoltro immediato delle domande di iscrizione, d'intesa con le famiglie, verso gli istituti indicati in subordine.
+
+Per una coerente e idonea programmazione del servizio e in considerazione del fatto che una doppia opzione da parte delle famiglie potrebbe influire negativamente sulla rilevazione dei dati ed alterare la esatta definizione degli organici, con il rischio di danni erariali, i genitori possono indirizzare la domanda di iscrizione ad una sola istituzione scolastica. Non è, infatti, consentito agli stessi di presentare altre domande ad altri istituti, né a questi di accoglierle.
 
 Per  gli  alunni  delle  classi  successive  alle  prime  e  per  quelli  ripetenti  delle  classi  prime, l'iscrizione è disposta d'ufficio.
 
@@ -346,57 +351,49 @@ IL DIRETTORE GENERALE F.to  Luciano Chiappetta
 
 ## Allegato 1
 
-### Licei :
+### Licei:
 
 Articolazione del sistema dei licei:
 
-te
-
--sociale
+- liceo classico
+- liceo scientifico, con opzione scienze applicate
+- liceo artistico
+- liceo linguistico
+- liceo musicale e coreutico
+- liceo delle scienze umane, con opzione economico-sociale
 
 ### Istituti tecnici e professionali
 
 Articolazione del sistema degli istituti tecnici e professionali:
 
-- Amministrativo, finanza e marketing (con eventuali articolazioni 'Relazioni internazionali per il Marketing' e 'Sistemi informativi aziendali' ),
+#### Istituti tecnici per il settore economico
 
-- Turismo
+- a) Amministrativo, finanza e marketing (con eventuali articolazioni 'Relazioni internazionali per il Marketing' e 'Sistemi informativi aziendali' ),
+- b) Turismo
 
-#### cnici per il settore tecnologico
+#### Istituti tecnici per il settore tecnologico
 
-- Meccanica, Meccatronica ed Energia (Articolazioni: 'Meccanica e meccatronica' ed 'Energia')
+- a) Meccanica, Meccatronica ed Energia (Articolazioni: 'Meccanica e meccatronica' ed 'Energia')
+- b) Trasporti e Logistica (Articolazioni: 'Costruzione del mezzo', 'Conduzione del mezzo' e 'Logistica')
+- c) Elettronica ed Elettrotecnica (Articolazioni: 'Elettronica', 'Elettrotecnica' e 'Automazione'),
+- d) Informatica e Telecomunicazioni (Articolazioni: 'Informatica' e 'Telecomunicazioni'),
+- e) Grafica e Comunicazione
+- f) Chimica, Materiali e Biotecnologie (Articolazioni: 'Chimica e materiali', 'Biotecnologie ambientali' e 'Biotecnologie sanitarie'),
+- g) Sistema Moda (Articolazioni: 'Tessile, abbigliamento e moda' e 'Calzature e moda')
+- h) Agraria, Agroalimentare e Agroindustria (Articolazioni: 'Produzioni e trasformazioni', 'Gestione dell'ambiente e del territorio' e 'Viticoltura ed enologia'),
+- i) Costruzioni, Ambiente e Territorio (Articolazione: 'Geotecnico' )
 
-- Trasporti  e  Logistica  (Articolazioni:  'Costruzione  del  mezzo',  'Conduzione  del  mezzo'  e 'Logistica')
+#### Istituti professionali per il settore servizi
 
-- Elettronica ed Elettrotecnica (Articolazioni: 'Elettronica', 'Elettrotecnica' e 'Automazione'),
+- a) Servizi per l'agricoltura e lo sviluppo rurale
+- b) Servizi socio-sanitari (con le eventuali articolazioni: 'Arti ausiliarie delle professioni sanitarie, Odontotecnico' e 'Arti ausiliarie delle professioni sanitarie, Ottico'),
+- c) Servizi per l'enogastronomia e l'ospitalità alberghiera con le articolazioni 'Enogastronomia', 'Servizi di sala e di vendita' e 'Accoglienza turistica')
+- d) Servizi commerciali
 
-- Informatica e Telecomunicazioni (Articolazioni: 'Informatica' e 'Telecomunicazioni'),
+#### Istituti professionali per il settore industria e artigianato
 
-- Grafica e Comunicazione
-
-- Chimica,  Materiali  e  Biotecnologie  (Articolazioni:  'Chimica  e  materiali',  'Biotecnologie ambientali' e 'Biotecnologie sanitarie'),
-
-- Sistema Moda (Articolazioni: 'Tessile, abbigliamento e moda' e 'Calzature e moda')
-
-- Agraria, Agroalimentare e Agroindustria (Articolazioni: 'Produzioni e trasformazioni', 'Gestione dell'ambiente e del territorio' e 'Viticoltura ed enologia'),
-
-- Costruzioni, Ambiente e Territorio (Articolazione: 'Geotecnico' )
-
-- Servizi per l'agricoltura e lo sviluppo rurale
-
-- Servizi socio-sanitari (con le eventuali articolazioni: 'Arti ausiliarie delle professioni sanitarie, Odontotecnico' e 'Arti ausiliarie delle professioni sanitarie, Ottico'),
-
-- Servizi  per  l'enogastronomia  e  l'ospitalità  alberghiera  con  le  articolazioni  'Enogastronomia',
-
-'Servizi di sala e di vendita' e 'Accoglienza turistica')
-
-- Servizi commerciali
-
-#### igianato
-
-- Produzioni artigianali ed industriali(con le articolazioni, 'Industria' e 'Artigianato')
-
-- Manutenzione e Assistenza tecnica
+- a) Produzioni artigianali ed industriali(con le articolazioni, 'Industria' e 'Artigianato')
+- b) Manutenzione e Assistenza tecnica
 
 12
 
@@ -444,25 +441,31 @@ OPERATORE AGRICOLO
 QUALIFICHE TRIENNALI (Accordo in Conferenza Stato- Regioni del 29 aprile 2010) | DIPLOMI DI QUALIFICA TRIENNALE DEGLI ISTITUTI PROFESSIONALI DI STATO ( previgente ordinamento )
 --- | ---
 OPERATORE DELL'ABBIGLIAMENTO | OPERATORE DELLA MODA
-OPERATORE DELLE CALZATURE OPERATORE DELLE PRODUZIONI CHIMICHE | OPERATORE CHIMICO E BIOLOGICO
+OPERATORE DELLE CALZATURE |
+OPERATORE DELLE PRODUZIONI CHIMICHE | OPERATORE CHIMICO E BIOLOGICO
 OPERATORE EDILE | OPERATORE EDILE
 OPERATORE ELETTRICO | OPERATORE ELETTRICO
-OPERATORE ELETTRONICO | OPERATORE ELETTRONICO OPERATORE PER LE TELECOMUNICAZIONI
-OPERATORE GRAFICO | OPERATORE GRAFICO PUBBLICITARIO OPERATORE PER L'INDUSTRIA GRAFICA
-OPERATORE FOTOGRAFICO OPERATORE DELLA COMUNICAZIONE
-AUDIOVISIVA
-OPERATORE DELLE LAVORAZIONI ARTISTICHE | OPERATORE DELL'ARTIGIANATO DEL MARMO OPERATORE DELLE INDUSTRIE CERAMICHE OPERATORE DELLE LAVORAZIONI
-CERAMICHE
-OPERATORE ORAFO OPERATORE DI LIUTERIA. OPERATORE DELL'INDUSTRIA DEL MARMO
+OPERATORE ELETTRONICO | OPERATORE ELETTRONICO
+| OPERATORE PER LE TELECOMUNICAZIONI
+OPERATORE GRAFICO | OPERATORE GRAFICO PUBBLICITARIO
+| OPERATORE PER L'INDUSTRIA GRAFICA
+| OPERATORE FOTOGRAFICO
+| OPERATORE DELLA COMUNICAZIONE AUDIOVISIVA
+OPERATORE DELLE LAVORAZIONI ARTISTICHE | OPERATORE DELL'ARTIGIANATO DEL MARMO
+| OPERATORE DELLE INDUSTRIE CERAMICHE
+| OPERATORE DELLE LAVORAZIONI CERAMICHE
+| OPERATORE ORAFO
+| OPERATORE DI LIUTERIA.
+| OPERATORE DELL'INDUSTRIA DEL MARMO
 OPERATORE DEL LEGNO | OPERATORE INDUSTRIA DEL MOBILE E DELL'ARREDAMENTO
-OPERATORE DELLE IMBARCAZIONI DA DIPORTO
+OPERATORE DELLE IMBARCAZIONI DA DIPORTO |
 OPERATORE MECCANICO | OPERATORE MECCANICO
-OPERATORE ALLA RIPARAZIONE DEI VEICOLI A MOTORE
-OPERATORE DI IMPIANTI TERMOIDRAULICI | OPERATORE MECCANICO TERMICO
+OPERATORE ALLA RIPARAZIONE DEI VEICOLI A MOTORE | OPERATORE MECCANICO TERMICO
+OPERATORE DI IMPIANTI TERMOIDRAULICI |
 OPERATORE DELLA RISTORAZIONE | OPERATORE SERVIZI DI RISTORAZIONE, SETTORE CUCINA
-OPERATORE SERVIZI DI RISTORAZIONE, SETTORE SALA-BAR
-OPERATORE AI SERVIZI DI PROMOZIONE OPERATORE DELL'IMPRESA TURISTICA
-E ACCOGLIENZA | OPERATORE DEI SERVIZI DI RICEVIMENTO
+| OPERATORE SERVIZI DI RISTORAZIONE, SETTORE SALA-BAR
+OPERATORE AI SERVIZI DI PROMOZIONE E ACCOGLIENZA | OPERATORE DELL'IMPRESA TURISTICA
+| OPERATORE DEI SERVIZI DI RICEVIMENTO
 
 14
 
@@ -470,13 +473,16 @@ E ACCOGLIENZA | OPERATORE DEI SERVIZI DI RICEVIMENTO
 
 [[START OF PAGE 15]]
 
-OPERATORE AMMINISTRATIVO - SEGRETARIALE | OPERATORE DELLA GESTIONE AZIENDALE CENTRALINISTA TELEFONICO (NON VEDENTE)
---- | ---
-OPERATORE AI SERVIZI DI VENDITA
-OPERATORE DEI SISTEMI E DEI SERVIZI LOGISTICI
-OPERATORE DELLA TRASFORMAZIONE AGROALIMENTARE | OPERATORE DELL'INDUSTRIA DOLCIARIA OPERATORE DELL'INDUSTRIA MOLITORIA OPERATORE AGROINDUSTRIALE
-OPERATORE AGRICOLO | OPERATORE AGROAMBIENTALE OPERATORE ARIGRITURISTICO
-OPERATORE DEL BENESSERE
+OPERATORE AMMINISTRATIVO - SEGRETARIALE | OPERATORE DELLA GESTIONE AZIENDALE
+| CENTRALINISTA TELEFONICO (NON VEDENTE)
+OPERATORE AI SERVIZI DI VENDITA |
+OPERATORE DEI SISTEMI E DEI SERVIZI LOGISTICI |
+OPERATORE DELLA TRASFORMAZIONE AGROALIMENTARE | OPERATORE DELL'INDUSTRIA DOLCIARIA
+| OPERATORE DELL'INDUSTRIA MOLITORIA
+| OPERATORE AGROINDUSTRIALE
+OPERATORE AGRICOLO | OPERATORE AGROAMBIENTALE
+| OPERATORE ARIGRITURISTICO
+OPERATORE DEL BENESSERE |
 
 15
 
@@ -848,13 +854,9 @@ in subordine
 
 nel caso in cui per indisponibilità di posti e/o per mancata attivazione del percorso finalizzato al conseguimento della qualifica professionale di cui sopra, CHIEDE in ordine di preferenza:
 
-- classe prima di codesto istituto  per il conseguimento del diploma quinquennale di istruzione  professionale - indirizzo ……………………
-
-- 2.
-
-Liceo/istituto ______________________________ via __________________
-
-- Liceo/istituto ______________________________ via __________________
+1. classe prima di codesto istituto per il conseguimento del diploma quinquennale di istruzione professionale - indirizzo ……………………
+2. Liceo/istituto ______________________________ via __________________
+3. Liceo/istituto ______________________________ via __________________
 
 In base alle norme sullo snellimento dell'attività amministrativa, consapevole delle responsabilità cui va incontro in caso di dichiarazione non corrispondente al vero, dichiara che:
 
@@ -908,9 +910,8 @@ ________________________ e _____________________
 
 [[START OF PAGE 20]]
 
-- il reddito imponibile (rilevabile dall'ultima dichiarazione dei redditi) del nucleo familiare è di euro _____________________ ( dichiarazione da rilasciare solo ove ricorrano le condizioni di altre agevolazioni previste ).
-
-per usufruire dell'esonero delle tasse scolastiche o
+- il reddito imponibile (rilevabile dall'ultima dichiarazione dei redditi) del nucleo familiare è di euro _____________________
+(dichiarazione da rilasciare solo ove ricorrano le condizioni per usufruire dell'esonero delle tasse scolastiche o di altre agevolazioni previste).
 
 - di non aver prodotto domanda ad altro istituto.
 
