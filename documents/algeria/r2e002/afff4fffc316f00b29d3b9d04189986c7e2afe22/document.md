@@ -1,8 +1,9 @@
 [[START OF PAGE 1]]
 
-JOURNAL OFFICIEL DE LA  REPUBLIQUE ALGERIENNE N °
-
-15 Chaoual 1424 9 décembre 2003
+15 Chaoual 1424
+9 décembre 2003
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 76
+5
 
 # Décret   exécutif   n ° 03-470   du   8   Chaoual   1424 correspondant   au   2   décembre   2003   portant création,  organisation  et  fonctionnement  d'un centre national pédagogique et linguistique pour l'enseignement de Tamazight.
 
@@ -36,7 +37,7 @@ Décrète :
 Le  présent  décret  a  pour  objet  la création,  l'organisation  et  le  fonctionnement  d'un  centre national  pédagogique  et  linguistique  pour  l'enseignement de Tamazight.
 
 #### Art.   2.   -
-Le   centre   national   pédagogique   et linguistique  pour  l'enseignement  de  Tamazight,  dénommé ci-après   'le   centre',   est   un   établissement   public   à caractère  administratif,  doté  de  la  personnalité  morale  et de l'autonomie financière.
+Le   centre   national   pédagogique   et linguistique  pour  l'enseignement  de  Tamazight,  dénommé ci-après   “le centre”,   est   un   établissement   public   à caractère  administratif,  doté  de  la  personnalité  morale  et de l'autonomie financière.
 
 Il  est  placé  sous  la  tutelle  du  ministre  chargé  de l'éducation nationale.
 
@@ -51,7 +52,7 @@ Des antennes du centre peuvent être créées au niveau régional par arrêté  
 ## MISSIONS ET ATTRIBUTIONS
 
 #### Art.  5.  -
-Dans  le  cadre  de  la  mise  en ° uvre  de  la politique  nationale  de  l'éducation,  le  centre,  structure nationale    d'études    et    de    recherche    chargée    du développement  de  l'enseignement  de la  langue  amazighe, a pour missions :
+Dans  le  cadre  de  la  mise  en œuvre  de  la politique  nationale  de  l'éducation,  le  centre,  structure nationale    d'études    et    de    recherche    chargée    du développement  de  l'enseignement  de la  langue  amazighe, a pour missions :
 
 - la  conception  de  dispositifs  organisationnels  et  de stratégies       psycho-pédagogiques    de   promotion    et    de développement  de  l'enseignement  de la  langue  amazighe, dans tous les cycles du système éducatif,
 
@@ -59,9 +60,9 @@ Dans  le  cadre  de  la  mise  en ° uvre  de  la politique  nationale  de  l'é
 
 - de   participer   aux   recherches   initiées   par   les structures  nationales  concernées,  portant  sur  la  langue amazighe dans ses variantes linguistiques,
 
-- de  participer  à  l'élaboration  de  programmes  de formation des enseignants et à leur mise en ° uvre par les institutions spécialisées des secteurs concernés.
+- de  participer  à  l'élaboration  de  programmes  de formation des enseignants et à leur mise en œuvre par les institutions spécialisées des secteurs concernés.
 
-76                     5
+
 
 [[END OF PAGE 1]]
 
@@ -90,9 +91,8 @@ Le  centre  peut  organiser,  au  titre  de  ses missions, toute manifestation  
 ## CHAPITRE 3
 
 ## ORGANISATION ET FONCTIONNEMENT
-#### Art.
-
--  Le  centre  est  dirigé  par  un  directeur, administré  par  un  conseil  d'orientation  et  doté  d'un conseil scientifique.
+#### Art. 8. -
+Le  centre  est  dirigé  par  un  directeur, administré  par  un  conseil  d'orientation  et  doté  d'un conseil scientifique.
 
 #### Art.  9.  -
 L'organisation  interne  du  centre  et  de  ses antennes  est  fixée  par  arrêté  conjoint  du  ministre  chargé des finances,  du ministre chargé de l'éducation nationale et de l'autorité chargée de la fonction publique.
@@ -273,7 +273,7 @@ Le conseil scientifique donne son avis sur le programme,  l'organisation  et  le
 
 - la  programmation  des  manifestations  scientifiques du centre.
 
-- Il   procède   à   l'évaluation   périodique   des   activités scientifiques du centre.
+Il   procède   à   l'évaluation   périodique   des   activités scientifiques du centre.
 
 [[END OF PAGE 3]]
 
