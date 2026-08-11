@@ -45,26 +45,36 @@ Octobre
 
 ## SOMMAIRE
 
-NB
-:
-Les
-numéros
-des
-fiches
-correspondent
-au
-plan
-du
-CDMT.
+NB : Les numéros des fiches correspondent au plan du CDMT.
 
-3
-
-7
-
-8
+Présentation du plan d'actions à moyen terme du secteur de l'éducation. 3
+11. Améliorer l'accès au préscolaire. 7
+121 122 Construction et réhabilitation de salles de classe. 8
+123. Stimulation de la demande d'éducation. 10
+125. Recrutement et formation initiale d'instituteurs. 13
+126. Offres alternatives 16
+131. Rénovation des conditions d'entrée au premier cycle du secondaire. 18
+132. Réorganisation du premier cycle de l'enseignement secondaire, de ses modalités et contenus d'enseignement. 20
+133 / 134. Recrutement et formation des enseignants polyvalents de collège. 23
+137 Modalités d'évaluation et certification des acquis des élèves en fin de premier cycle secondaire. 25
+221. Evaluations standardisées régulières du niveau d'acquisition des élèves du primaire. 27
+222. Réduction des redoublements à l'école primaire. 28
+225. Formation continue des enseignants. 30
+311. Gestion des ressources humaines : amélioration de l'affectation des enseignants sur tout le territoire. 32
+321. Amélioration de la gouvernance financière. 34
+322. Allocation des ressources financières aux écoles. 36
+331 à 334 Monitoring des carrières scolaires. 38
+34. Renforcements de capacités de l'administration scolaire. 40
+41. Le cadre institutionnel de l'enseignement technique et professionnel, et les partenariats avec les acteurs de l'économie ivoirienne. 42
+42. Amélioration de la qualité et de la pertinence de l'offre d'enseignement technique et de formation professionnelle. 44
+43. Amélioration de l'accès à l'enseignement technique et à la formation professionnelle. 46
+44. Mise en place de la stratégie de l'enseignement technique et de la formation professionnelle. 48
+51. Diversification de l'offre de l'enseignement supérieur, et régulation des flux et spécialités. 49
+52. Amélioration de la qualité de l'enseignement supérieur et de l'adaptation des formations aux demandes du marché du travail. 50
+7. Alphabétisation. 51
+Arrangements institutionnels 52
 
 2
-
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -2954,7 +2964,7 @@ proposer
 du
 cabinet.
 
-#### appui spécifique à la scolarisation des filles
+#### c) appui spécifique à la scolarisation des filles
 
 En
  Côte
@@ -3036,7 +3046,7 @@ ciblées
  de
  scolarisation féminins.
 
-#### appui spécifique aux orphelins et enfants rendus vunérables par la andémie de VIH/SIDA.
+#### d) appui spécifique aux orphelins et enfants rendus vunérables par la andémie de VIH/SIDA.
 
 Un
 appui
@@ -3120,7 +3130,7 @@ Distribution de kits scolaires aux enfants orphelins ou vulnérables du fait de 
 
 [[START OF PAGE 14]]
 
-## Recrutement et formation initiale d'instituteurs.
+## 125. Recrutement et formation initiale d'instituteurs.
 
 Le
  développement
@@ -4083,7 +4093,7 @@ Travaux de réhabilitation, extension et constructions nouvelles, CAFOP | BEP | 
 
 [[START OF PAGE 17]]
 
-## Offres alternatives
+## 126. Offres alternatives
 
 Le
 nombre
@@ -4538,7 +4548,7 @@ des
 propositions
 établis
 en
-2OO8,
+2008,
 le
 MEN
 établira
@@ -4691,7 +4701,7 @@ gestion
 de
 cette
 transition,
-l'examen­ concours
+l'examen-concours
  de
  fin
  de
@@ -4999,7 +5009,7 @@ A
  de
  l'organisation
  de
- l'examenconcours,
+l'examen-concours,
 avec
 une
 première
@@ -5729,7 +5739,7 @@ Définition réglementaire des obligations de services des professeurs polyvalen
 Révision du curriculum existant | DPFC IGEN DELC | 2010 et 2011
 Définition des outils pédagogiques nécessaires | DPFC | 2011
 Plan de communication | S CA, CRIMEN | 4 ème trimestre 2010
-Recensement des instituteurs diplômés de | DRH | 1 er trimestre
+Recensement des instituteurs diplômés de | DRH | 1er trimestre
 
 22
 
@@ -5737,8 +5747,7 @@ Recensement des instituteurs diplômés de | DRH | 1 er trimestre
 
 [[START OF PAGE 23]]
 
-l'enseignement supérieur (DEUG) dans les spécialités souhaitées | 2010
---- | --- | ---
+l'enseignement supérieur (DEUG) dans les spécialités souhaitées |  | 2010
 Définition des épreuves, jurys, zones et calendriers des nouveaux concours de recrutement de professeurs polyvalents des collèges | DECO DPFC IGEN DELC | 2 ème trimestre 2010
 Des voyages d'étude et d'information au Ghana | CGS, DPFC, DELC, IGEN, Cabinet | 1 er trimestre 2010
 
@@ -7119,7 +7128,7 @@ dans
 l'adoption
 d'un
 système
-de sous­ cycles .
+de sous-cycles.
  Le
  cycle
  primaire
@@ -7321,7 +7330,7 @@ générale
  de
  politique
  éducative
- rematifs
+relatifs
  au
  redoublement
  à
@@ -7412,7 +7421,7 @@ prises par
 
 Activité | Responsabilité | Dates
 --- | --- | ---
-Rédaction et diffusion du texte organisant les sous- cycles | DELC, IGEN, cabinet | 1 er et 2 ème trimestre 2010
+Rédaction et diffusion du texte organisant les sous-cycles | DELC, IGEN, cabinet | 1 er et 2 ème trimestre 2010
 Elaboration des supports de communication et diffusion | SCA | 2 ème trimestre 2010
 Elaboration d'un texte sur les décisions de redoublement au CP2, CE2 et CM2, mise en place des conseils d'école | DELC, IGEN | 1 er et 2 ème trimestre 2010
 Organisation du dispositif de cours de soutien mise en place | DELC IGEN DRH DPFC | 1 er et 2 ème trimestre 2010
@@ -7736,388 +7745,32 @@ Réalisation de l'évaluation | DPFC | 2 ème trimestre 2011
 
 [[START OF PAGE 33]]
 
-Les
-procédures
-actuelles
-qui
-président
-à
-l'affectation
-des
-maîtres
-ne
-donnent
-donc
-pas satisfaction.
-Dans
-les
-faits,
-deux
-phénomènes
-concourent
-aux
-distorsions
-observées
-:
-
- une
-certaine
-absence
-de
-maîtrise
-des
-données
-concernant
-les
-besoins
-réels
-en enseignants
- à
- chaque
- phase
- de
- la
- procédure
- (affectations
- successives
- de
- la centrale
-aux
-DREN,
-des
-DREN
-aux
-IEP,
-des
-IEP
-aux
-écoles)
-
- la
- pratique
- malheureusement
- répandue
- de
- réaffectation
- d'enseignants
- hors procédure,
-par
-simple
-note
-de
-service,
-et
-compte
-non
-tenu
-des
-besoins
-des écoles
-et
-des
-enfants.
-
-### Mesures opérationnelles immédiates.
-
-Les
-moyens
-que
-la
-stratégie
-nationale
-a
-identifiés
-pour
-faire
-face
-à
-cette
-problématique critique
-sont
-de
-plusieurs
-natures
-:
-
 ## 311. Gestion des ressources humaines : amélioration de l'affectation des enseignants sur tout le territoire.
 
-Le
-recrutement
-massif
-de
-nouveaux
-instituteurs
-en
-Côte
-d'Ivoire,
-prévu
-par
-la
-stratégie nationale,
-ne
-permettra
-d'augmenter
-l'offre
-scolaire
-de
-façon
-significative
-que
-si l'affectation
-des
-maîtres
-dans
-les
-écoles
-devient
-plus
-efficace
-et
-plus
-rationnelle. Aujourd'hui,
-cette
-distribution
-est
-marquée
-par
-un
-très
-fort
-aléa,
-ce
-qui
-signifie
-que
-les procédés
-de
-gestion
-de
-ressources
-humaines
-sont
-mal
-maîtrisés,
-et
-ce
-qui
-a
-pour conséquences
-que
-certaines
-écoles,
-localités
-ou
-régions
-connaissent
-une
-pénurie
-de
-maîtres quand
-d'autres
-en
-ont
-en
-excédent.
-L'amélioration
-de
-l'affectation
-des
-maîtres
-représente la
-plus
-importante
-des
-marges
-de
-gestion
-dont
-dispose
-aujourd'hui
-le
-système
-éducatif ivoirien.
+Le recrutement massif de nouveaux instituteurs en Côte d'Ivoire, prévu par la stratégie nationale, ne permettra d'augmenter l'offre scolaire de façon significative que si l'affectation des maîtres dans les écoles devient plus efficace et plus rationnelle.
+Aujourd'hui, cette distribution est marquée par un très fort aléa, ce qui signifie que les procédés de gestion de ressources humaines sont mal maîtrisés, et ce qui a pour conséquences que certaines écoles, localités ou régions connaissent une pénurie de maîtres quand d'autres en ont en excédent. L'amélioration de l'affectation des maîtres représente la plus importante des marges de gestion dont dispose aujourd'hui le système éducatif ivoirien.
 
 ### Problématique et vision stratégique à long terme.
 
-La
-distribution
-des
-maîtres
-dans
-les
-écoles
-se
-caractérise
-en
-Côte
-d'Ivoire
-par
-un
-aléa très
- fort,
- la
- relation
- entre
- le
- nombre
- d'élèves
- et
- le
- nombre
- de
- maîtres
- dans
- les
- écoles étant
-loin
-d'être
-linéaire.
-En
-pratique,
-cela
-signifie
-que
-certaines
-écoles,
-notamment
-en milieu
-urbain,
-sont
-sur-dotées,
-tandis
-que
-d'autres,
-excentrées,
-sont
-sous-dotées.
+La distribution des maîtres dans les écoles se caractérise en Côte d'Ivoire par un aléa très fort, la relation entre le nombre d'élèves et le nombre de maîtres dans les écoles étant loin d'être linéaire. En pratique, cela signifie que certaines écoles, notamment en milieu urbain, sont sur-dotées, tandis que d'autres, excentrées, sont sous-dotées.
 
- la
-DRH
-développe
-une
-application
-informatique
-visant
-à
-identifier
-et
-à
-codifier chaque
-poste
-de
-travail
-dans
-les
-écoles.
-Une
-fois
-cette
-identification
-réalisée,
-il ne
-devra
-plus
-être
-possible
-d'affecter
-un
-fonctionnaire
-ailleurs
-que
-sur
-un poste
-connu
-comme
-vacant
-par
-l'application.
+Les procédures actuelles qui président à l'affectation des maîtres ne donnent donc pas satisfaction. Dans les faits, deux phénomènes concourent aux distorsions observées :
 
- Le
-recrutement
-des
-nouveaux
-maîtres
-sera
-réalisé
-sur
-une
-base
-régionale, avec
-engagement
-de
-l'instituteur
-à
-servir
-au
-moins
-cinq
-années
-dans
-sa
-région de
-recrutement
-(v.
-n°
-125)
+ une certaine absence de maîtrise des données concernant les besoins réels en enseignants à chaque phase de la procédure (affectations successives de la centrale aux DREN, des DREN aux IEP, des IEP aux écoles)
 
- Chaque
-année,
-les
-cadres
-des
-villages
-et
-les
-élus
-locaux
-seront
-informés
-de l'affectation
-des
-maîtres
-telle
-qu'elle
-apparaît
-dans
-le
-système
-de
-gestion
-de
-la DRH.
+ la pratique malheureusement répandue de réaffectation d'enseignants hors procédure, par simple note de service, et compte non tenu des besoins des écoles et des enfants.
 
- Une
-prime
-de
-zone
-difficile,
-correspondant
-à
-30
-%
-de
-majoration
-de
-la rémunération,
-sera
-versée
-à
-10
-%
-des
-maîtres
-du
-cycle
-primaire,
-exerçant dans
-les
-localités
-les
-moins
-bien
-équipées
-en
-infrastructures.
+### Mesures opérationnelles immédiates.
+
+Les moyens que la stratégie nationale a identifiés pour faire face à cette problématique critique sont de plusieurs natures :
+
+ la DRH développe une application informatique visant à identifier et à codifier chaque poste de travail dans les écoles. Une fois cette identification réalisée, il ne devra plus être possible d'affecter un fonctionnaire ailleurs que sur un poste connu comme vacant par l'application.
+
+ Le recrutement des nouveaux maîtres sera réalisé sur une base régionale, avec engagement de l'instituteur à servir au moins cinq années dans sa région de recrutement (v. n° 125)
+
+ Chaque année, les cadres des villages et les élus locaux seront informés de l'affectation des maîtres telle qu'elle apparaît dans le système de gestion de la DRH.
+
+ Une prime de zone difficile, correspondant à 30 % de majoration de la rémunération, sera versée à 10 % des maîtres du cycle primaire, exerçant dans les localités les moins bien équipées en infrastructures.
 
 33
 
@@ -8142,7 +7795,7 @@ Détermination des zones difficiles éligibles à la majoration du salaire (10 %
 
 [[START OF PAGE 35]]
 
-## Amélioration de la gouvernance financière.
+## 321. Amélioration de la gouvernance financière.
 
 La
  déficience
@@ -9439,7 +9092,7 @@ Formation des directeurs d'école et des responsables locaux | DIPES | 2012
 
 [[START OF PAGE 41]]
 
-## Renforcements de capacités de l'administration scolaire.
+## 34. Renforcements de capacités de l'administration scolaire.
 
 L'administration
  scolaire
@@ -9973,7 +9626,7 @@ Mise en place d'une assistance à maîtrise d'ouvrage et d'un fonds de renforcem
 
 [[START OF PAGE 43]]
 
-## Le cadre institutionnel de l'enseignement technique et professionnel, et les partenariats avec les acteurs de l'économie ivoirienne.
+## 41. Le cadre institutionnel de l'enseignement technique et professionnel, et les partenariats avec les acteurs de l'économie ivoirienne.
 
 L'offre
  d'enseignement
@@ -10357,7 +10010,7 @@ Informations sur les partenariats de branche en formation professionnelle | AGEF
 
 [[START OF PAGE 45]]
 
-## Amélioration de la qualité et de la pertinence de l'offre d'enseignement technique et de formation professionnelle .
+## 42. Amélioration de la qualité et de la pertinence de l'offre d'enseignement technique et de formation professionnelle.
 
 La
 rénovation
@@ -10887,7 +10540,7 @@ Etude sur les facteurs favorisant l'insertion | IG, cabinet, AGEFOP, consultant 
 Développement du cadre national de qualifications et certifications | IG, IPNEPT, consultants, branches professionnelles | mi-2010 à mi-2011
 Accord de partenariat pour un centre sectoriel de formation professionnel, définition des missions du centre | IG, cabinet, branche professionnelle | 2010
 Etudes techniques pour l'implantation du centre sectoriel | IG, branche professionnelle | 3 ème et 4 ème trimestre 2010
-Construction du centre sectoriel expérimental | Démarrage début 2011
+Construction du centre sectoriel expérimental |  | Démarrage début 2011
 Etudes pour la rénovation de l'IPNEPT | IPNEPT | 1 er semestre 2010
 Rénovation et rééquipement de l'IPNEPT | IPNEPT | Début à la fin de 2010
 
@@ -10897,7 +10550,7 @@ Rénovation et rééquipement de l'IPNEPT | IPNEPT | Début à la fin de 2010
 
 [[START OF PAGE 47]]
 
-## Amélioration de l'accès à l'enseignement technique et à la formation professionnelle.
+## 43. Amélioration de l'accès à l'enseignement technique et à la formation professionnelle.
 
 Le
  triplement
@@ -11208,9 +10861,9 @@ des
 Activité | Responsabilité | Dates
 --- | --- | ---
 Etude sur les coûts unitaires de formation et leur maîtrise | IG, cabinet | 1 er semestre 2010
-Génie civil, réhabilitation d'installations existantes | A partir de 2010 pour les financements acquis
-Etudes d'équipements | 2 ème semestre 2010, 1 er semestre 2011
-Acquisitions d'équipements | A partir de 2012
+Génie civil, réhabilitation d'installations existantes |  | A partir de 2010 pour les financements acquis
+Etudes d'équipements |  | 2 ème semestre 2010, 1 er semestre 2011
+Acquisitions d'équipements |  | A partir de 2012
 
 48
 
@@ -11746,7 +11399,7 @@ Révision des frais d'inscription | DESUP, DPE, cabinet | 1er semestre 2010
 
 [[START OF PAGE 52]]
 
-## Amélioration de la qualité de l'enseignement supérieur et de l'adaptation des formations aux demandes du marché du travail.
+## 52. Amélioration de la qualité de l'enseignement supérieur et de l'adaptation des formations aux demandes du marché du travail.
 
 La
 qualité
@@ -12244,8 +11897,8 @@ superviseurs
 
 Activité | Responsabilité | Dates
 --- | --- | ---
-Evaluer les pratiques actuelles (étude d'efficacité, séminaire-bilan) | SAA FNA Cabinet | 1 er trimestre 2010
-Clarifier le rôle des services chargés de l'alphabétisation, préparation de textes | SAA FNA Cabinet | 1 er trimestre 2010
+Evaluer les pratiques actuelles (étude d'efficacité, séminaire-bilan) | SAA FNA Cabinet | 1er trimestre 2010
+Clarifier le rôle des services chargés de l'alphabétisation, préparation de textes | SAA FNA Cabinet | 1er trimestre 2010
 Planifier la formation des encadreurs, établir les documents standard de formation, réaliser les formations | SAA FNA | 2010
 Planifier la formation des superviseurs et leurs besoins en équipements | SAA FNA | 2010
 
