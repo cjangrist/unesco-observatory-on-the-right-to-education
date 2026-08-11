@@ -58,7 +58,7 @@ Los gobiernos estatales y del Distrito Federal celebrarán con el gobierno feder
 ###### Octavo.
 Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adiciones a la Ley General de Educación y demás disposiciones legales aplicables en la materia.
 
-SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 15 de mayo de 2002.- Sen. Diego Fernández de Cevallos Ramos , Presidente.Dip. Manuel Añorve Baños , Secretario.- Rúbricas " .
+SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 15 de mayo de 2002.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Manuel Añorve Baños, Secretario.- Rúbricas".
 
 [[END OF PAGE 2]]
 
@@ -70,7 +70,7 @@ DIARIO OFICIAL
 
 (Primera Sección)     3
 
-En  cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de noviembre de dos mil dos.Vicente Fox Quesada .- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de noviembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 ### DECLARATORIA  de  Desastre  Natural  para  efectos  de  las  Reglas  de  Operación  del  Fondo  de  Desastres Naturales (FONDEN) vigentes, en virtud de los daños provocados por las lluvias atípicas e impredecibles que se presentaron  el  25  de  octubre  de  2002,  ocasionadas  por  la  presencia  del  huracán  Kenna  en  el  Municipio  de Manzanillo del Estado de Colima.
 
@@ -115,9 +115,9 @@ La presente Declaratoria de Desastre Natural se expide exclusivamente para efect
 ##### Artículo 3o.
 La determinación de los daños a mitigar en el municipio antes mencionado del Estado de Colima,  se  hará  en  los  términos  de  los  numerales  47,  49  y  50  de  las  Reglas  de  Operación  del  Fondo de Desastres Naturales vigentes.
 ##### Artículo 4o.
-La presente Declaratoria se publicará en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación en el Estado de Colima. México, Distrito Federal, a cinco de noviembre de dos mil dos.- El Secretario de Gobernación, Creel  Miranda .-  Rúbrica.-  La  Coordinadora  General  de  Protección  Civil,
+La presente Declaratoria se publicará en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación en el Estado de Colima.
 
-Santiago María  del  Carmen  Segura Rangel .- Rúbrica.
+México, Distrito Federal, a cinco de noviembre de dos mil dos.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.- La Coordinadora General de Protección Civil, María del Carmen Segura Rangel.- Rúbrica.
 
 ### DECLARATORIA  de  Desastre  Natural  para  efectos  de  las  Reglas  de  Operación  del  Fondo  de  Desastres Naturales (FONDEN) vigentes, en virtud de los daños provocados por las lluvias atípicas e impredecibles que se presentaron del 25 al 27 de septiembre de 2002, ocasionadas por la presencia de la tormenta tropical Julio en diversos municipios del Estado de Guerrero.
 
@@ -202,13 +202,7 @@ Con base en lo anterior, se determinó procedente declarar como zona de desastre
 #### DECLARATORIA DE DESASTRE NATURAL PARA EFECTOS DE LAS REGLAS DE OPERACION DEL FONDO DE DESASTRES NATURALES (FONDEN) VIGENTES, EN VIRTUD DE LOS DAÑOS PROVOCADOS POR LAS LLUVIAS ATIPICAS E IMPREDECIBLES QUE SE PRESENTARON EL 22, 23, 24, 28 Y 29 DE OCTUBRE DE 2002, EN EL MUNICIPIO DE GALEANA DEL ESTADO DE NUEVO LEON
 
 ##### Artículo 1o.
-Para efectos de las Reglas de Operación del Fondo de Desastres Naturales (FONDEN) vigentes,  se  declara  como  zona  de  desastre,  afectado  por  las  lluvias  atípicas  e  impredecibles  que  se presentaron el 22, 23, 24, 28 y 29 de octubre de 2002, al Municipio de Galeana del Estado de Nuevo León, mismo que, una vez que sean evaluados los daños, se precisarán por cada una de las dependencias y entidades federales participantes.
-##### Artículo 2o.
-La presente Declaratoria de Desastre Natural se expide exclusivamente para efectos de acceder  a  los  recursos  con  cargo  al  presupuesto  autorizado  al  FONDEN,  así  como  a  los  recursos fideicomitidos  en  el  Fideicomiso  FONDEN,  conforme  al  Presupuesto  de  Egresos  de  la  Federación para el ejercicio fiscal de 2002, a la Ley General de Protección Civil y a las Reglas de Operación vigentes de dicho Fondo.
-##### Artículo 3o.
-La determinación de los daños a mitigar en el municipio antes mencionado del Estado de Nuevo León, se hará en los términos de los numerales 47, 49 y 50 de las Reglas de Operación del Fondo de Desastres Naturales vigentes.
-##### Artículo 4o.
-La presente Declaratoria se publicará en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación en el Estado de Nuevo León. México, Distrito Federal, a cinco de noviembre de dos mil dos.- El Secretario de Gobernación, Santiago Creel  Miranda .-  Rúbrica.-  La  Coordinadora  General  de  Protección  Civil, María  del  Carmen  Segura Rangel .- Rúbrica.
+Para efectos de las Reglas de Operación del Fondo de Desastres Naturales (FONDEN) vigentes, se declara como zona de desastre, afectado por las lluvias atípicas e impredecibles que se presentaron el 22, 23, 24, 28 y 29 de octubre de 2002, al Municipio de Galeana del Estado de Nuevo León,
 
 [[END OF PAGE 6]]
 
@@ -219,6 +213,19 @@ Martes 12 de noviembre de 2002
 DIARIO OFICIAL
 
 (Primera Sección)     7
+
+mismo que, una vez que sean evaluados los daños, se precisarán por cada una de las dependencias y entidades federales participantes.
+
+##### Artículo 2o.
+La presente Declaratoria de Desastre Natural se expide exclusivamente para efectos de acceder a los recursos con cargo al presupuesto autorizado al FONDEN, así como a los recursos fideicomitidos en el Fideicomiso FONDEN, conforme al Presupuesto de Egresos de la Federación para el ejercicio fiscal de 2002, a la Ley General de Protección Civil y a las Reglas de Operación vigentes de dicho Fondo.
+
+##### Artículo 3o.
+La determinación de los daños a mitigar en el municipio antes mencionado del Estado de Nuevo León, se hará en los términos de los numerales 47, 49 y 50 de las Reglas de Operación del Fondo de Desastres Naturales vigentes.
+
+##### Artículo 4o.
+La presente Declaratoria se publicará en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación en el Estado de Nuevo León.
+
+México, Distrito Federal, a cinco de noviembre de dos mil dos.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.- La Coordinadora General de Protección Civil, María del Carmen Segura Rangel.- Rúbrica.
 
 ## SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
@@ -406,9 +413,11 @@ Publíquese la  presente  Resolución  en  el Diario  Oficial  de  la  Federaci�
 
 personalmente a los interesados dentro de los diez días naturales siguientes al de su publicación.
 ###### TERCERO.
-Inscríbase esta Resolución en el Registro Público de la Propiedad y del Comercio de la entidad  que  corresponda,  en  el  Registro  Público  de  la  Propiedad  Inmobiliaria  Federal  y  en  el  Registro Agrario Nacional. Así lo proveyó y firma. .-.-.-
+Inscríbase esta Resolución en el Registro Público de la Propiedad y del Comercio de la entidad que corresponda, en el Registro Público de la Propiedad Inmobiliaria Federal y en el Registro Agrario Nacional.
 
-México, D.F., a 7 de mayo de 2002.- La Secretaria de la Reforma Agraria, María Teresa Herrera Tello Rúbrica.- El Subsecretario de Ordenamiento de la Propiedad Rural, Gilberto José Hershberger Reyes Rúbrica.- La Directora General de Ordenamiento y Regularización, María del Rosario Garza Alejandro Rúbrica.
+Así lo proveyó y firma.
+
+México, D.F., a 7 de mayo de 2002.- La Secretaria de la Reforma Agraria, María Teresa Herrera Tello.- Rúbrica.- El Subsecretario de Ordenamiento de la Propiedad Rural, Gilberto José Hershberger Reyes.- Rúbrica.- La Directora General de Ordenamiento y Regularización, María del Rosario Garza Alejandro.- Rúbrica.
 
 ### RESOLUCION  que  declara  como  terreno  nacional  el  predio  Las  Gardenias,  expediente  número  734342, Municipio de Nacajuca, Tab.
 
@@ -531,9 +540,7 @@ Luis Aguilar
 
 ##### CONSIDERANDOS
 
-Esta Secretaría es competente para conocer y resolver sobre la procedencia o improcedencia de la resolución que declare o no el terreno como nacional en torno al predio objeto de los trabajos de deslinde, de conformidad con lo dispuesto en los artículos 27 constitucional; 160 de la Ley Agraria; 41 de la Ley Orgánica de la Administración Pública Federal; 111, 112, 113 y 115 del Reglamento de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural, así como 4o., 5o. fracción
-
-I.XIX, 6o. y 12 fracciones I y II de su Reglamento Interior.
+I.- Esta Secretaría es competente para conocer y resolver sobre la procedencia o improcedencia de la resolución que declare o no el terreno como nacional en torno al predio objeto de los trabajos de deslinde, de conformidad con lo dispuesto en los artículos 27 constitucional; 160 de la Ley Agraria; 41 de la Ley Orgánica de la Administración Pública Federal; 111, 112, 113 y 115 del Reglamento de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural, así como 4o., 5o. fracción XIX, 6o. y 12 fracciones I y II de su Reglamento Interior.
 
 II.Una vez revisados los trabajos de deslinde, a fin de verificar que éstos se desarrollaron con apego a las normas técnicas, habiéndose realizado los avisos, notificaciones y publicaciones que exigen los  ordenamientos  legales,  según  se  acredita  con  la  documentación  que  corre  agregada  a  su expediente,  se  desprende  que  con  fecha  23  de  junio  de  2000  se  emitió  el  correspondiente dictamen técnico, asignándosele el número 880243, mediante el cual se aprueban los trabajos del deslinde  y  los  planos  derivados  del  mismo,  resultando  una  superficie  analítica  de  60-69-00
 
@@ -999,7 +1006,7 @@ Al  margen  un  sello  con  el  Escudo  Nacional,  que  dice:  Estados  Unidos  
 
 La  investigación  se  refiere  a  una  posible  concentración,  cuyo  objeto  o  efecto  sea  disminuir,  dañar  o impedir la competencia  y  la libre concurrencia respecto de  bienes  o servicios iguales, similares o sustancialmente relacionados. El mercado que se considera afectado es el de insecticidas y plaguicidas de uso doméstico en el territorio nacional.
 
-México,  Distrito Federal, a veintidós de  octubre de  dos  mil dos.Así lo acordaron  y  firman el  C.  Comisionado  licenciado Fernando  Heftye  Etienne ,  en  ausencia  temporal  del  Presidente  de  la Comisión  Federal  de  Competencia,  de  conformidad  con  el  acuerdo  de  suplencia  contenido  en  el  oficio número PRES-10-096-2002-048, de fecha dieciocho de octubre de dos mil dos.- Rúbrica.- El Secretario Ejecutivo, Luis A. Prado Robles .- Rúbrica.
+México, Distrito Federal, a veintidós de octubre de dos mil dos.- Así lo acordaron y firman el C. Comisionado licenciado Fernando Heftye Etienne, en ausencia temporal del Presidente de la Comisión Federal de Competencia, de conformidad con el acuerdo de suplencia contenido en el oficio número PRES-10-096-2002-048, de fecha dieciocho de octubre de dos mil dos.- Rúbrica.- El Secretario Ejecutivo, Luis A. Prado Robles.- Rúbrica.
 
 [[END OF PAGE 21]]
 
@@ -1072,9 +1079,25 @@ DIARIO OFICIAL
 
 Las  tasas  a  que  se  refiere  esta  publicación,  corresponden  al  promedio  de  las  determinadas  por las  instituciones  de  crédito  para  la  captación  de  recursos  del  público  en  general  a  la  apertura  del  día 11 de noviembre de 2002. Se expresan en por ciento anual y se dan a conocer para los efectos a que se  refiere  la  publicación  de  este  Banco  de  México  en  el Diario  Oficial  de  la  Federación de  fecha  11 de abril de 1989.
 
-México, D.F., a 11 de noviembre de 2002. BANCO DE MEXICO
+México, D.F., a 11 de noviembre de 2002.
 
-Gerente de Autorizaciones, Consultas y Control de Legalidad Héctor Helú Carranza Rúbrica.
+BANCO DE MEXICO
+
+Gerente de Autorizaciones, Consultas
+y Control de Legalidad
+
+Héctor Helú Carranza
+
+Rúbrica.
+
+Director de Información
+del Sistema Financiero
+
+Cuauhtémoc Montes Campos
+
+Rúbrica.
+
+(R.- 170504)
 
 ## TASA de interés interbancaria de equilibrio.
 
@@ -1082,49 +1105,57 @@ Al margen un logotipo, que dice: Banco de México.
 
 ## TASA DE INTERES INTERBANCARIA DE EQUILIBRIO
 
-Según resolución de Banco de México publicada en el Diario Oficial de la Federación del 23 de marzo de 1995, y de conformidad con lo establecido en el Anexo 1 de la Circular 2019/95, modificada mediante Circular-Telefax 4/97 del propio Banco del 9 de enero de 1997, dirigida a las instituciones de banca múltiple, se  informa  que  la  Tasa  de  Interés  Interbancaria  de  Equilibrio  a  plazo  de  28  días,  obtenida  el  día  de hoy, fue de 8.8500 por ciento.
+Según resolución de Banco de México publicada en el Diario Oficial de la Federación del 23 de marzo de 1995, y de conformidad con lo establecido en el Anexo 1 de la Circular 2019/95, modificada mediante Circular-Telefax 4/97 del propio Banco del 9 de enero de 1997, dirigida a las instituciones de banca múltiple, se informa que la Tasa de Interés Interbancaria de Equilibrio a plazo de 28 días, obtenida el día de hoy, fue de 8.8500 por ciento.
 
-La tasa de interés citada se calculó con base a las cotizaciones presentadas por: BBVA Bancomer, S.A., Banca  Serfin  S.A.,  Banco  Internacional  S.A.,  Banco  Nacional  de  México  S.A.,  Banco  Inbursa  S.A.,  Banco Interacciones S.A., Banco Invex S.A., ING Bank México S.A., ScotiaBank Inverlat, S.A. y Banco Mercantil Del Norte S.A.
+La tasa de interés citada se calculó con base a las cotizaciones presentadas por: BBVA Bancomer, S.A., Banca Serfin S.A., Banco Internacional S.A., Banco Nacional de México S.A., Banco Inbursa S.A., Banco Interacciones S.A., Banco Invex S.A., ING Bank México S.A., ScotiaBank Inverlat, S.A. y Banco Mercantil Del Norte S.A.
 
-México, D.F., a 11 de noviembre de 2002. BANCO DE MEXICO
+México, D.F., a 11 de noviembre de 2002.
 
-Gerente de Autorizaciones, Consultas y Control de Legalidad
+BANCO DE MEXICO
 
-Héctor Helú Carranza Rúbrica.
+Gerente de Autorizaciones, Consultas
+y Control de Legalidad
 
-Gerente de Operaciones Nacionales
+Héctor Helú Carranza
 
-Jaime Cortina Morfin Rúbrica.
+Rúbrica.
 
-## COSTO  de  captación  de  los  pasivos  a  plazo  denominados  en  dólares  de  los  EE.UU.A.,  a  cargo  de  las instituciones de banca múltiple del país (CCP-dólares).
+Gerente de Operaciones
+Nacionales
+
+Jaime Cortina Morfin
+
+Rúbrica.
+
+## COSTO de captación de los pasivos a plazo denominados en dólares de los EE.UU.A., a cargo de las instituciones de banca múltiple del país (CCP-dólares).
 
 Al margen un logotipo, que dice: Banco de México.
 
 ## COSTO DE CAPTACION DE LOS PASIVOS A PLAZO DENOMINADOS EN DOLARES DE LOS EE.UU.A., A CARGO DE LAS INSTITUCIONES DE BANCA MULTIPLE DEL PAIS (CCP-Dólares)
 
-Según resolución del Banco de México publicada en el Diario  Oficial  de  la  Federación el  día  6  de mayo de 1996, el  costo  de  captación  de  los  pasivos  a  plazo  denominados  en  dólares  de  los  EE.UU.A. (CCP-Dólares), expresado en por ciento anual, de las instituciones de banca múltiple del país, fue de 3.12 (tres puntos y doce centésimas) en el mes de octubre de 2002.
+Según resolución del Banco de México publicada en el Diario Oficial de la Federación el día 6 de mayo de 1996, el costo de captación de los pasivos a plazo denominados en dólares de los EE.UU.A. (CCP-Dólares), expresado en por ciento anual, de las instituciones de banca múltiple del país, fue de 3.12 (tres puntos y doce centésimas) en el mes de octubre de 2002.
 
-México, D.F., a 11 de noviembre de 2002. BANCO DE MEXICO
+México, D.F., a 11 de noviembre de 2002.
 
-Gerente de Autorizaciones, Consultas y Control de Legalidad
+BANCO DE MEXICO
 
-Héctor Helú Carranza Rúbrica.
+Gerente de Autorizaciones, Consultas
+y Control de Legalidad
 
-Director de Información del Sistema Financiero
+Héctor Helú Carranza
 
-Cuauhtémoc Montes Campos Rúbrica.
+Rúbrica.
 
-# INSTITUTO FEDERAL ELECTORAL
-
-## ACUERDO del Consejo General del Instituto Federal Electoral por el que se designa como vocales ejecutivos de Juntas Ejecutivas Locales a quienes han resultado ganadores del concurso de incorporación en modalidad de oposición para ocupar diversas plazas en ese cargo, y por el que se readscribe al vocal ejecutivo de la Junta Local en Colima a la Junta Local de Guanajuato.
-
-Director de Información del Sistema Financiero
+Director de Información
+del Sistema Financiero
 
 Cuauhtémoc Montes Campos
 
 Rúbrica.
 
-(R.- 170504)
+# INSTITUTO FEDERAL ELECTORAL
+
+## ACUERDO del Consejo General del Instituto Federal Electoral por el que se designa como vocales ejecutivos de Juntas Ejecutivas Locales a quienes han resultado ganadores del concurso de incorporación en modalidad de oposición para ocupar diversas plazas en ese cargo, y por el que se readscribe al vocal ejecutivo de la Junta Local en Colima a la Junta Local de Guanajuato.
 
 [[END OF PAGE 23]]
 
@@ -1138,11 +1169,19 @@ Al  margen  un  sello  con  el  Escudo  Nacional,  que  dice:  Estados  Unidos  
 
 ### CONSIDERANDO
 
-- QUE  DE  CONFORMIDAD  CON  EL  ARTICULO  41,  PARRAFO  SEGUNDO,  FRACCION  III  DE  LA CONSTITUCION  POLITICA  DE  LOS  ESTADOS  UNIDOS  MEXICANOS,  LA  ORGANIZACION  DE  LAS ELECCIONES  FEDERALES  ES  UNA  FUNCION  ESTATAL  QUE  SE  REALIZA  A  TRAVES  DE  UN ORGANISMO  PUBLICO  AUTONOMO  DENOMINADO  INSTITUTO  FEDERAL  ELECTORAL,  DOTADO  DE PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS, EN CUYA INTEGRACION PARTICIPAN EL PODER LEGISLATIVO DE LA UNION, LOS PARTIDOS POLITICOS NACIONALES Y LOS CIUDADANOS, EN LOS TERMINOS QUE ORDENA LA LEY; EN EL EJERCICIO DE ESA FUNCION ESTATAL LA CERTEZA,  LA LEGALIDAD,  LA  INDEPENDENCIA,  LA  IMPARCIALIDAD  Y  LA  OBJETIVIDAD  SERAN  PRINCIPIOS
+1. QUE DE CONFORMIDAD CON EL ARTICULO 41, PARRAFO SEGUNDO, FRACCION III DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA ORGANIZACION DE LAS ELECCIONES FEDERALES ES UNA FUNCION ESTATAL QUE SE REALIZA A TRAVES DE UN ORGANISMO PUBLICO AUTONOMO DENOMINADO INSTITUTO FEDERAL ELECTORAL, DOTADO DE PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS, EN CUYA INTEGRACION PARTICIPAN EL PODER LEGISLATIVO DE LA UNION, LOS PARTIDOS POLITICOS NACIONALES Y LOS CIUDADANOS, EN LOS TERMINOS QUE ORDENA LA LEY; EN EL EJERCICIO DE ESA FUNCION ESTATAL LA CERTEZA, LA LEGALIDAD, LA INDEPENDENCIA, LA IMPARCIALIDAD Y LA OBJETIVIDAD SERAN PRINCIPIOS RECTORES.
 
-- RECTORES. 2. QUE  EL  PROPIO  DISPOSITIVO  CONSTITUCIONAL  REFERIDO  DETERMINA  QUE  EL  INSTITUTO FEDERAL ELECTORAL SERA AUTORIDAD EN LA MATERIA, INDEPENDIENTE EN SUS DECISIONES Y FUNCIONAMIENTO,  Y  PROFESIONAL  EN  SU  DESEMPEÑO;  CONTARA  EN  SU  ESTRUCTURA  CON ORGANOS DE DIRECCION, EJECUTIVOS, TECNICOS Y DE VIGILANCIA; LOS ORGANOS EJECUTIVOS Y TECNICOS CONTARAN CON EL PERSONAL CALIFICADO NECESARIO PARA PRESTAR EL SERVICIO PROFESIONAL  ELECTORAL,  CUYAS  RELACIONES  DE  TRABAJO  SE  REGIRAN  POR  EL  CODIGO FEDERAL  DE  INSTITUCIONES  Y  PROCEDIMIENTOS  ELECTORALES,  EL  ESTATUTO  DEL  SERVICIO PROFESIONAL  ELECTORAL  Y  DEL  PERSONAL  DEL  INSTITUTO  FEDERAL  ELECTORAL,  Y  LAS DISPOSICIONES QUE CON BASE EN ELLOS APRUEBE EL CONSEJO GENERAL. 3. QUE EL ARTICULO 73 DEL CODIGO ELECTORAL FEDERAL ESTABLECE QUE EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL ES EL ORGANO SUPERIOR DE DIRECCION, RESPONSABLE DE VIGILAR EL CUMPLIMIENTO DE LAS DISPOSICIONES CONSTITUCIONALES Y LEGALES EN MATERIA ELECTORAL, ASI COMO  DE VELAR PORQUE LOS PRINCIPIOS DE CERTEZA, LEGALIDAD, INDEPENDENCIA, IMPARCIALIDAD Y OBJETIVIDAD GUIEN TODAS LAS ACTIVIDADES DEL INSTITUTO. 4. QUE EN TERMINOS DEL ARTICULOS 82, PARRAFO 1, INCISO B), DEL CODIGO DE LA MATERIA, Y DEL ARTICULO  12,  FRACCION  I  DEL  ESTATUTO  DEL  SERVICIO  PROFESIONAL  ELECTORAL  Y  DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL, EL CONSEJO GENERAL TIENE LA ATRIBUCION DE VIGILAR  LA  OPORTUNA  INTEGRACION  Y  ADECUADO  FUNCIONAMIENTO  DE  LOS  ORGANOS  DEL INSTITUTO FEDERAL ELECTORAL. 5. QUE ASIMISMO, DE LO DISPUESTO EN EL ARTICULO 82, PARRAFO 1, INCISO E), DE LA CITADA LEY ELECTORAL,  Y  EN  LOS  ARTICULOS  12,  FRACCION  V,  Y  62,  FRACCION  VII,  DEL  ESTATUTO  DEL SERVICIO  PROFESIONAL  ELECTORAL  Y  DEL  PERSONAL  DEL  INSTITUTO  FEDERAL  ELECTORAL, SE  DESPRENDE  LA  ATRIBUCION  DEL  CONSEJO  GENERAL  PARA  DESIGNAR  Y  DETERMINAR  EL LUGAR DE ADSCRIPCION DE LOS VOCALES EJECUTIVOS DE LAS JUNTAS LOCALES Y DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL, CONFORME A LOS PROCEDIMIENTOS APLICABLES. 6. QUE EN LOS ARTICULOS 36, 60 Y 61 DEL ORDENAMIENTO ESTATUTARIO MENCIONADO SE PREVE QUE  EL  CONCURSO  DE  INCORPORACION,  EN  SU  MODALIDAD  DE  OPOSICION,  ES  LA  VIA PRIMORDIAL PARA OCUPAR VACANTES Y ACCEDER AL SERVICIO PROFESIONAL ELECTORAL; QUE DICHO CONCURSO CONSISTE EN UN CONJUNTO DE PROCEDIMIENTOS QUE BUSCA ASEGURAR LA SELECCION  DE  LOS  ASPIRANTES  IDONEOS  PARA  DESEMPEÑAR  LOS  CARGOS  O  PUESTOS EXCLUSIVOS  DEL  SERVICIO  PROFESIONAL  ELECTORAL,  ES  PUBLICO  Y  DEBE  PROCURAR  LA PARTICIPACION MAS AMPLIA DE ASPIRANTES A OCUPAR LAS VACANTES; Y QUE PARA TAL EFECTO, LA JUNTA GENERAL EJECUTIVA DEBE EXPEDIR UNA CONVOCATORIA PUBLICA QUE SE DIFUNDIRA EN  LOS  ESTRADOS  UBICADOS  EN  LAS  JUNTAS  EJECUTIVAS  LOCALES,  DISTRITALES  Y  OFICINAS CENTRALES DEL INSTITUTO Y, AL MENOS, EN UN DIARIO DE AMPLIA CIRCULACION NACIONAL Y UNO LOCAL DE LA ENTIDAD CORRESPONDIENTE. QUE SOBRE LA BASE DE LO SEÑALADO EN EL CONSIDERANDO ANTERIOR, EL ARTICULO 62 DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL
+2. QUE EL PROPIO DISPOSITIVO CONSTITUCIONAL REFERIDO DETERMINA QUE EL INSTITUTO FEDERAL ELECTORAL SERA AUTORIDAD EN LA MATERIA, INDEPENDIENTE EN SUS DECISIONES Y FUNCIONAMIENTO, Y PROFESIONAL EN SU DESEMPEÑO; CONTARA EN SU ESTRUCTURA CON ORGANOS DE DIRECCION, EJECUTIVOS, TECNICOS Y DE VIGILANCIA; LOS ORGANOS EJECUTIVOS Y TECNICOS CONTARAN CON EL PERSONAL CALIFICADO NECESARIO PARA PRESTAR EL SERVICIO PROFESIONAL ELECTORAL, CUYAS RELACIONES DE TRABAJO SE REGIRAN POR EL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL, Y LAS DISPOSICIONES QUE CON BASE EN ELLOS APRUEBE EL CONSEJO GENERAL.
 
-- ELECTORAL  DISPONE  QUE  EL  CONSEJO  GENERAL  DEBE  APROBAR  UN  MODELO  ESPECIAL  DE
+3. QUE EL ARTICULO 73 DEL CODIGO ELECTORAL FEDERAL ESTABLECE QUE EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL ES EL ORGANO SUPERIOR DE DIRECCION, RESPONSABLE DE VIGILAR EL CUMPLIMIENTO DE LAS DISPOSICIONES CONSTITUCIONALES Y LEGALES EN MATERIA ELECTORAL, ASI COMO DE VELAR PORQUE LOS PRINCIPIOS DE CERTEZA, LEGALIDAD, INDEPENDENCIA, IMPARCIALIDAD Y OBJETIVIDAD GUIEN TODAS LAS ACTIVIDADES DEL INSTITUTO.
+
+4. QUE EN TERMINOS DEL ARTICULOS 82, PARRAFO 1, INCISO B), DEL CODIGO DE LA MATERIA, Y DEL ARTICULO 12, FRACCION I DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL, EL CONSEJO GENERAL TIENE LA ATRIBUCION DE VIGILAR LA OPORTUNA INTEGRACION Y ADECUADO FUNCIONAMIENTO DE LOS ORGANOS DEL INSTITUTO FEDERAL ELECTORAL.
+
+5. QUE ASIMISMO, DE LO DISPUESTO EN EL ARTICULO 82, PARRAFO 1, INCISO E), DE LA CITADA LEY ELECTORAL, Y EN LOS ARTICULOS 12, FRACCION V, Y 62, FRACCION VII, DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL, SE DESPRENDE LA ATRIBUCION DEL CONSEJO GENERAL PARA DESIGNAR Y DETERMINAR EL LUGAR DE ADSCRIPCION DE LOS VOCALES EJECUTIVOS DE LAS JUNTAS LOCALES Y DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL, CONFORME A LOS PROCEDIMIENTOS APLICABLES.
+
+6. QUE EN LOS ARTICULOS 36, 60 Y 61 DEL ORDENAMIENTO ESTATUTARIO MENCIONADO SE PREVE QUE EL CONCURSO DE INCORPORACION, EN SU MODALIDAD DE OPOSICION, ES LA VIA PRIMORDIAL PARA OCUPAR VACANTES Y ACCEDER AL SERVICIO PROFESIONAL ELECTORAL; QUE DICHO CONCURSO CONSISTE EN UN CONJUNTO DE PROCEDIMIENTOS QUE BUSCA ASEGURAR LA SELECCION DE LOS ASPIRANTES IDONEOS PARA DESEMPEÑAR LOS CARGOS O PUESTOS EXCLUSIVOS DEL SERVICIO PROFESIONAL ELECTORAL, ES PUBLICO Y DEBE PROCURAR LA PARTICIPACION MAS AMPLIA DE ASPIRANTES A OCUPAR LAS VACANTES; Y QUE PARA TAL EFECTO, LA JUNTA GENERAL EJECUTIVA DEBE EXPEDIR UNA CONVOCATORIA PUBLICA QUE SE DIFUNDIRA EN LOS ESTRADOS UBICADOS EN LAS JUNTAS EJECUTIVAS LOCALES, DISTRITALES Y OFICINAS CENTRALES DEL INSTITUTO Y, AL MENOS, EN UN DIARIO DE AMPLIA CIRCULACION NACIONAL Y UNO LOCAL DE LA ENTIDAD CORRESPONDIENTE.
+
+7. QUE SOBRE LA BASE DE LO SEÑALADO EN EL CONSIDERANDO ANTERIOR, EL ARTICULO 62 DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL DISPONE QUE EL CONSEJO GENERAL DEBE APROBAR UN MODELO ESPECIAL DE
 
 [[END OF PAGE 24]]
 
@@ -1150,15 +1189,31 @@ Al  margen  un  sello  con  el  Escudo  Nacional,  que  dice:  Estados  Unidos  
 
 Martes 12 de noviembre de 2002 DIARIO OFICIAL (Primera Sección)     25
 
-- 8.
+CONCURSO DE INCORPORACION EN MODALIDAD DE OPOSICION PARA OCUPAR LAS VACANTES EN LOS CARGOS DE VOCALES EJECUTIVOS; QUE DICHO PROCEDIMIENTO ES LA UNICA VIA PARA LA OCUPACION DE VACANTES GENERADAS EN ESTOS CARGOS, A EXCEPCION DE LOS CASOS DE READSCRIPCION, DISPONIBILIDAD Y DE LAS VACANTES DE URGENTE OCUPACION; Y QUE DEBE REUNIR LAS SIGUIENTES CARACTERISTICAS:
 
-- 9.
+I. EL CONSEJO GENERAL, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, ESTABLECERA EL MODELO DE OPERACION, ASI COMO LOS MODELOS GENERALES DE LOS EXAMENES;
 
-- 10.
+II. LA JUNTA GENERAL EJECUTIVA EXPEDIRA UNA CONVOCATORIA PUBLICA, PARA ASPIRANTES INTERNOS Y EXTERNOS;
 
-- LA CONVOCATORIA PARA OCUPAR LAS PLAZAS DE VOCAL EJECUTIVO DE JUNTAS LOCALES QUE
+III. LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL LLEVARA A CABO LA VALORACION DE LOS ANTECEDENTES CURRICULARES DE LOS CANDIDATOS, REALIZARA LOS EXAMENES PARA LOS CANDIDATOS EXTERNOS E INTEGRARA UN LISTADO CON LOS ASPIRANTES QUE CUMPLAN CON LOS REQUISITOS;
 
-CONCURSO DE INCORPORACION EN MODALIDAD DE OPOSICION PARA OCUPAR LAS VACANTES EN LOS CARGOS DE VOCALES EJECUTIVOS; QUE DICHO PROCEDIMIENTO ES LA UNICA VIA PARA LA OCUPACION  DE  VACANTES  GENERADAS  EN  ESTOS  CARGOS,  A  EXCEPCION  DE  LOS  CASOS  DE READSCRIPCION,  DISPONIBILIDAD  Y  DE  LAS  VACANTES  DE  URGENTE  OCUPACION;  Y  QUE  DEBE REUNIR LAS SIGUIENTES CARACTERISTICAS: I. EL CONSEJO GENERAL, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, ESTABLECERA EL MODELO DE OPERACION, ASI COMO LOS MODELOS GENERALES DE LOS EXAMENES; II. LA JUNTA GENERAL EJECUTIVA EXPEDIRA UNA CONVOCATORIA PUBLICA, PARA ASPIRANTES INTERNOS Y EXTERNOS; III. LA  DIRECCION  EJECUTIVA  DEL  SERVICIO  PROFESIONAL  ELECTORAL  LLEVARA  A  CABO  LA VALORACION  DE  LOS  ANTECEDENTES  CURRICULARES  DE  LOS  CANDIDATOS,  REALIZARA LOS  EXAMENES  PARA  LOS  CANDIDATOS  EXTERNOS  E  INTEGRARA  UN  LISTADO  CON  LOS ASPIRANTES QUE CUMPLAN CON LOS REQUISITOS; IV. LA JUNTA GENERAL EJECUTIVA, A PROPUESTA DE LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL, ENTREGARA A LOS INTEGRANTES DEL CONSEJO GENERAL, POR MEDIO DEL SECRETARIO EJECUTIVO, LA LISTA DE ASPIRANTES QUE HAYAN CUMPLIDO LOS REQUISITOS. LOS CANDIDATOS CON LOS MEJORES PROMEDIOS SERAN ENTREVISTADOS POR EL SECRETARIO EJECUTIVO Y POR QUIENES EL CONSEJO GENERAL DESIGNE; V. LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL APLICARA Y CALIFICARA LOS  EXAMENES  DE  CONOCIMIENTOS  Y  DE  HABILIDADES  EN  FUNCION  DEL  CARGO  A DESEMPEÑAR; VI. LA  DIRECCION  EJECUTIVA  DEL  SERVICIO  PROFESIONAL  ELECTORAL  DARA  CUENTA  DEL PROCEDIMIENTO SEGUIDO Y SUS RESULTADOS AL SECRETARIO EJECUTIVO, PARA QUE ESTE INFORME A LOS INTEGRANTES DEL CONSEJO GENERAL; VII. CON  BASE  EN  LOS  RESULTADOS  OBTENIDOS,  EL  CONSEJO  GENERAL  DESIGNARA  A  LOS FUNCIONARIOS CORRESPONDIENTES A CADA CARGO Y LUGAR DE ADSCRIPCION; Y, VIII. LA JUNTA GENERAL EJECUTIVA EMITIRA EL ACUERDO DE INCORPORACION CORRESPONDIENTE Y EL SECRETARIO EJECUTIVO EXPEDIRA LOS NOMBRAMIENTOS A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL CON EL CARGO Y LA ADSCRIPCION QUE LES CORRESPONDA. QUE ASIMISMO, EL ARTICULO 58 DEL ESTATUTO CITADO DISPONE QUE LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL VIGILARA DE MANERA PERMANENTE EL CUMPLIMIENTO DE TODOS LOS PROCEDIMIENTOS PARA LA OCUPACION DE VACANTES Y QUE TAMBIEN PODRA PRESENTAR LAS OBSERVACIONES  QUE  CONSIDERE  PERTINENTES  Y  SOLICITAR  A  LA  MENCIONADA  DIRECCION EJECUTIVA UN INFORME RESPECTO DE LAS INCONFORMIDADES EXISTENTES SOBRE EL CUMPLIMIENTO DE TALES PROCEDIMIENTOS. QUE  EL  ARTICULO  66  DEL  ORDENAMIENTO  ESTATUTARIO  ESTABLECE  QUE  LOS  MIEMBROS  DEL CONSEJO GENERAL PODRAN ESTAR PRESENTES EN LAS FASES DEL CONCURSO DE INCORPORACION  Y  EMITIR  LAS  OBSERVACIONES  QUE  ESTIMEN  PERTINENTES  A  LA  DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL. QUE TOMANDO EN CONSIDERACION, ENTRE OTRAS, LAS DISPOSICIONES ESTATUTARIAS SEÑALADAS  EN  LOS  CONSIDERANDOS  PRECEDENTES,  CON  FECHA  12  DE  DICIEMBRE  DEL  AÑO 2001, EL CONSEJO GENERAL APROBO EL ACUERDO POR EL QUE SE ESTABLECE, A PROPUESTA DE LA  JUNTA  GENERAL  EJECUTIVA,  EL  MODELO  DE  OPERACION  Y  MODELO  GENERAL  DE  LOS EXAMENES  DEL  CONCURSO  DE  INCORPORACION  PARA  OCUPAR  PLAZAS  VACANTES  DE  VOCAL EJECUTIVO  EN  JUNTAS  LOCALES  DEL  INSTITUTO  FEDERAL  ELECTORAL,  MEDIANTE  EL  CUAL  SE FIJARON LOS PROCEDIMIENTOS  PARA  LA SELECCION DE ASPIRANTES, DESIGNACION DE GANADORES  Y  NOMBRAMIENTO  DE  VOCALES  EJECUTIVOS  POR  LA  VIA  DEL  CONCURSO  DE INCORPORACION;  LOS  LINEAMIENTOS  GENERALES  PARA  EL  DISEÑO  DE  LOS  EXAMENES;  LAS DIVERSAS FASES DEL CONCURSO; ASI COMO LOS MECANISMOS DE PARTICIPACION, VIGILANCIA Y TRANSPARENCIA DEL PROCESO. QUE EN CUMPLIMIENTO DEL ACUERDO DEL CONSEJO GENERAL CITADO EN EL CONSIDERANDO ANTERIOR, LA JUNTA GENERAL EJECUTIVA APROBO EL 18 DE ENERO DEL AÑO 2002 LA EMISION DE
+IV. LA JUNTA GENERAL EJECUTIVA, A PROPUESTA DE LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL, ENTREGARA A LOS INTEGRANTES DEL CONSEJO GENERAL, POR MEDIO DEL SECRETARIO EJECUTIVO, LA LISTA DE ASPIRANTES QUE HAYAN CUMPLIDO LOS REQUISITOS. LOS CANDIDATOS CON LOS MEJORES PROMEDIOS SERAN ENTREVISTADOS POR EL SECRETARIO EJECUTIVO Y POR QUIENES EL CONSEJO GENERAL DESIGNE;
+
+V. LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL APLICARA Y CALIFICARA LOS EXAMENES DE CONOCIMIENTOS Y DE HABILIDADES EN FUNCION DEL CARGO A DESEMPEÑAR;
+
+VI. LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL DARA CUENTA DEL PROCEDIMIENTO SEGUIDO Y SUS RESULTADOS AL SECRETARIO EJECUTIVO, PARA QUE ESTE INFORME A LOS INTEGRANTES DEL CONSEJO GENERAL;
+
+VII. CON BASE EN LOS RESULTADOS OBTENIDOS, EL CONSEJO GENERAL DESIGNARA A LOS FUNCIONARIOS CORRESPONDIENTES A CADA CARGO Y LUGAR DE ADSCRIPCION; Y,
+
+VIII. LA JUNTA GENERAL EJECUTIVA EMITIRA EL ACUERDO DE INCORPORACION CORRESPONDIENTE Y EL SECRETARIO EJECUTIVO EXPEDIRA LOS NOMBRAMIENTOS A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL CON EL CARGO Y LA ADSCRIPCION QUE LES CORRESPONDA.
+
+8. QUE ASIMISMO, EL ARTICULO 58 DEL ESTATUTO CITADO DISPONE QUE LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL VIGILARA DE MANERA PERMANENTE EL CUMPLIMIENTO DE TODOS LOS PROCEDIMIENTOS PARA LA OCUPACION DE VACANTES Y QUE TAMBIEN PODRA PRESENTAR LAS OBSERVACIONES QUE CONSIDERE PERTINENTES Y SOLICITAR A LA MENCIONADA DIRECCION EJECUTIVA UN INFORME RESPECTO DE LAS INCONFORMIDADES EXISTENTES SOBRE EL CUMPLIMIENTO DE TALES PROCEDIMIENTOS.
+
+9. QUE EL ARTICULO 66 DEL ORDENAMIENTO ESTATUTARIO ESTABLECE QUE LOS MIEMBROS DEL CONSEJO GENERAL PODRAN ESTAR PRESENTES EN LAS FASES DEL CONCURSO DE INCORPORACION Y EMITIR LAS OBSERVACIONES QUE ESTIMEN PERTINENTES A LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL.
+
+10. QUE TOMANDO EN CONSIDERACION, ENTRE OTRAS, LAS DISPOSICIONES ESTATUTARIAS SEÑALADAS EN LOS CONSIDERANDOS PRECEDENTES, CON FECHA 12 DE DICIEMBRE DEL AÑO 2001, EL CONSEJO GENERAL APROBO EL ACUERDO POR EL QUE SE ESTABLECE, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, EL MODELO DE OPERACION Y MODELO GENERAL DE LOS EXAMENES DEL CONCURSO DE INCORPORACION PARA OCUPAR PLAZAS VACANTES DE VOCAL EJECUTIVO EN JUNTAS LOCALES DEL INSTITUTO FEDERAL ELECTORAL, MEDIANTE EL CUAL SE FIJARON LOS PROCEDIMIENTOS PARA LA SELECCION DE ASPIRANTES, DESIGNACION DE GANADORES Y NOMBRAMIENTO DE VOCALES EJECUTIVOS POR LA VIA DEL CONCURSO DE INCORPORACION; LOS LINEAMIENTOS GENERALES PARA EL DISEÑO DE LOS EXAMENES; LAS DIVERSAS FASES DEL CONCURSO; ASI COMO LOS MECANISMOS DE PARTICIPACION, VIGILANCIA Y TRANSPARENCIA DEL PROCESO.
+
+11. QUE EN CUMPLIMIENTO DEL ACUERDO DEL CONSEJO GENERAL CITADO EN EL CONSIDERANDO ANTERIOR, LA JUNTA GENERAL EJECUTIVA APROBO EL 18 DE ENERO DEL AÑO 2002 LA EMISION DE LA CONVOCATORIA PARA OCUPAR LAS PLAZAS DE VOCAL EJECUTIVO DE JUNTAS LOCALES QUE
 
 [[END OF PAGE 25]]
 
@@ -1166,9 +1221,21 @@ CONCURSO DE INCORPORACION EN MODALIDAD DE OPOSICION PARA OCUPAR LAS VACANTES EN 
 
 Martes 12 de noviembre de 2002 DIARIO OFICIAL (Primera Sección)     26
 
-EN  ESE  MOMENTO  SE  ENCONTRABAN  VACANTES  (GUANAJUATO  Y  TLAXCALA),  LA  CUAL  FUE PUBLICADA EN DIARIOS DE CIRCULACION LOCAL Y NACIONAL EL ULTIMO DIA DE ESE MISMO MES, ASI COMO EN LA PAGINA DE INTERNET DEL INSTITUTO CON EL PROPOSITO DE LOGRAR LA MAS AMPLIA DIFUSION DEL CONCURSO. 12. QUE  DE  CONFORMIDAD  CON  DIVERSAS  DISPOSICIONES  ESTABLECIDAS  EN  EL  ESTATUTO,  EL ACUERDO Y LA CONVOCATORIA A QUE SE HA ALUDIDO, LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL  ELECTORAL  PROCEDIO  A  LA  REALIZACION  DE  LAS  ACCIONES  NECESARIAS  PARA CELEBRAR CORRECTAMENTE LAS DISTINTAS FASES Y ETAPAS, Y CUMPLIR CON LOS PROCEDIMIENTOS  PREVISTOS  EN  EL  CONCURSO,  DE  LO  QUE  OPORTUNAMENTE  INFORMO  Y PROPICIO  LA  PARTICIPACION  DE  LOS  INTEGRANTES  DEL  CONSEJO  GENERAL  Y  DE  LA  JUNTA GENERAL EJECUTIVA EN LOS TERMINOS QUE PREVIAMENTE HABIAN SIDO ESTABLECIDOS. 13. QUE, DE MANERA ESPECIFICA, ENTRE EL 7 DE FEBRERO Y EL 7 DE MARZO DEL 2002, SE LLEVO A CABO  LA  INSCRIPCION  DE  ASPIRANTES,  LA  VERIFICACION  DE  REQUISITOS,  LA  VALORACION CURRICULAR Y EL PERIODO DE PRESENTACION DE OBSERVACIONES SOBRE EL CUMPLIMIENTO DE REQUISITOS DE LOS ASPIRANTES -EXTERNOS E INTERNOS- POR PARTE DE LOS MIEMBROS DEL CONSEJO GENERAL Y DE LA JUNTA GENERAL EJECUTIVA. 14. QUE, ENSEGUIDA, LOS EXAMENES DE CONOCIMIENTOS GENERALES PARA ASPIRANTES EXTERNOS SE ELABORARON Y APLICARON LOS DIAS 13 Y 16 DE MARZO DEL 2002, RESPECTIVAMENTE, CON LA PRESENCIA  -EN  CALIDAD  DE  OBSERVADORES-  DE  INTEGRANTES  O  REPRESENTANTES  DEL CONSEJO GENERAL Y DE LA JUNTA GENERAL EJECUTIVA; Y QUE ASIMISMO, EL 20 DE MARZO DEL MISMO  AÑO  SE  DIERON  A  CONOCER  LOS  RESULTADOS  DE  TALES  EXAMENES,  TAMBIEN  EN PRESENCIA DE REPRESENTANTES O INTEGRANTES DE LOS DOS ORGANOS CITADOS. 15. QUE, DESPUES, LOS EXAMENES DE CONOCIMIENTOS Y HABILIDADES EN FUNCION DEL CARGO DE VOCAL EJECUTIVO LOCAL SE CONFECCIONARON Y APLICARON LOS DIAS 3 Y 6 DE ABRIL DEL 2002, RESPECTIVAMENTE,  Y  DE  CUYOS  RESULTADOS  SE  PUDIERON  CONOCER  EN  SESION  ESPECIAL CONVOCADA POR LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL PARA EL DIA 10 DE ABRIL, A LA QUE FUERON INVITADOS LOS INTEGRANTES DEL CONSEJO GENERAL Y DE LA JUNTA GENERAL EJECUTIVA. 16. QUE  UNA  VEZ  CONOCIDAS  LAS  CALIFICACIONES  DE  LOS  EXAMENES  DE  CONOCIMIENTOS  Y HABILIDADES EN FUNCION DEL CARGO DE VOCAL EJECUTIVO LOCAL, LA DIRECCION EJECUTIVA DEL  SERVICIO  PROFESIONAL  ELECTORAL  PROCEDIO  A  LA  DETERMINACION  DEL  CONJUNTO  DE ASPIRANTES QUE ACCEDERIAN A LA ETAPA DE ENTREVISTAS, TOMANDO EN CUENTA LOS MERITOS EXTRAORDINARIOS QUE EN SU CASO PUDIERAN TENER LOS CANDIDATOS INTERNOS, ASI COMO LA DISPOSICION  PREVISTA  EN  EL  MODELO  DE  OPERACION  CORRESPONDIENTE  EN  EL  SENTIDO  DE QUE  HASTA  EL  MAXIMO  DE  OCHO  ASPIRANTES  -POR  CADA  PLAZA  EN  CONCURSO-  PODRIAN ARRIBAR A LA ULTIMA ETAPA DEL CONCURSO. 17. QUE SOBRE LA BASE DE LO SEÑALADO EN EL CONSIDERANDO ANTERIOR, Y CON FUNDAMENTO EN EL  ARTICULO  62,  FRACCION  IV,  DEL  ESTATUTO,  Y  EN  EL  PUNTO  CUARTO  DEL ACUERDO  DEL CONSEJO  GENERAL  POR  EL  QUE  SE  ESTABLECE,  A  PROPUESTA  DE  LA  JUNTA  GENERAL EJECUTIVA, EL MODELO DE OPERACION Y MODELO GENERAL DE LOS EXAMENES DEL CONCURSO DE  INCORPORACION  PARA  OCUPAR  PLAZAS  VACANTES  DE  VOCAL  EJECUTIVO  EN  JUNTAS LOCALES  DEL  INSTITUTO  FEDERAL  ELECTORAL, ENTRE  EL  23  Y  26  DE  ABRIL  DE  2002,  EL CONSEJERO  PRESIDENTE,  LOS  CONSEJEROS  QUE  INTEGRAN  LA  COMISION  DEL  SERVICIO PROFESIONAL ELECTORAL, EL  SECRETARIO  EJECUTIVO,  EL  DIRECTOR  EJECUTIVO  DE  ORGANIZACION  ELECTORAL  Y  EL DIRECTOR  EJECUTIVO  DE  CAPACITACION  ELECTORAL  Y  DE  EDUCACION  CIVICA,  REALIZARON ENTREVISTAS  A  LOS  16  ASPIRANTES  CON  MEJORES  CALIFICACIONES  QUE  ARRIBARON  A  DICHA ETAPA DEL CONCURSO. 18. CRITERIOS QUE AL EFECTO PREVE EL ESTATUTO, EL MODELO DE OPERACION Y
+EN ESE MOMENTO SE ENCONTRABAN VACANTES (GUANAJUATO Y TLAXCALA), LA CUAL FUE PUBLICADA EN DIARIOS DE CIRCULACION LOCAL Y NACIONAL EL ULTIMO DIA DE ESE MISMO MES, ASI COMO EN LA PAGINA DE INTERNET DEL INSTITUTO CON EL PROPOSITO DE LOGRAR LA MAS AMPLIA DIFUSION DEL CONCURSO.
 
-QUE LAS CALIFICACIONES OTORGADAS POR CADA ENTREVISTADOR PERMITIERON A LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL OBTENER LOS PROMEDIOS DE LA ETAPA DE ENTREVISTAS E INTEGRAR LA CALIFICACION FINAL CON LA QUE SE ELABORARIA EL LISTADO DE CANDIDATOS GANADORES DEL CONCURSO DE INCORPORACION PARA OCUPAR LAS DOS PLAZAS DE  VOCAL  EJECUTIVO  LOCAL  SUJETAS  A  CONCURSO.  ES  OPORTUNO  SEÑALAR  QUE  EN  LA DETERMINACION DEL ORDEN DE LOS ASPIRANTES EN ESE LISTADO SE TOMARON EN CUENTA LOS LA CONVOCATORIA CORRESPONDIENTE, TALES COMO EL PROMEDIO DE LOS RESULTADOS DE CADA FASE DEL CONCURSO Y, EN SU CASO, LA DEFINICION DE DESEMPATES.
+12. QUE DE CONFORMIDAD CON DIVERSAS DISPOSICIONES ESTABLECIDAS EN EL ESTATUTO, EL ACUERDO Y LA CONVOCATORIA A QUE SE HA ALUDIDO, LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL PROCEDIO A LA REALIZACION DE LAS ACCIONES NECESARIAS PARA CELEBRAR CORRECTAMENTE LAS DISTINTAS FASES Y ETAPAS, Y CUMPLIR CON LOS PROCEDIMIENTOS PREVISTOS EN EL CONCURSO, DE LO QUE OPORTUNAMENTE INFORMO Y PROPICIO LA PARTICIPACION DE LOS INTEGRANTES DEL CONSEJO GENERAL Y DE LA JUNTA GENERAL EJECUTIVA EN LOS TERMINOS QUE PREVIAMENTE HABIAN SIDO ESTABLECIDOS.
+
+13. QUE, DE MANERA ESPECIFICA, ENTRE EL 7 DE FEBRERO Y EL 7 DE MARZO DEL 2002, SE LLEVO A CABO LA INSCRIPCION DE ASPIRANTES, LA VERIFICACION DE REQUISITOS, LA VALORACION CURRICULAR Y EL PERIODO DE PRESENTACION DE OBSERVACIONES SOBRE EL CUMPLIMIENTO DE REQUISITOS DE LOS ASPIRANTES -EXTERNOS E INTERNOS- POR PARTE DE LOS MIEMBROS DEL CONSEJO GENERAL Y DE LA JUNTA GENERAL EJECUTIVA.
+
+14. QUE, ENSEGUIDA, LOS EXAMENES DE CONOCIMIENTOS GENERALES PARA ASPIRANTES EXTERNOS SE ELABORARON Y APLICARON LOS DIAS 13 Y 16 DE MARZO DEL 2002, RESPECTIVAMENTE, CON LA PRESENCIA -EN CALIDAD DE OBSERVADORES- DE INTEGRANTES O REPRESENTANTES DEL CONSEJO GENERAL Y DE LA JUNTA GENERAL EJECUTIVA; Y QUE ASIMISMO, EL 20 DE MARZO DEL MISMO AÑO SE DIERON A CONOCER LOS RESULTADOS DE TALES EXAMENES, TAMBIEN EN PRESENCIA DE REPRESENTANTES O INTEGRANTES DE LOS DOS ORGANOS CITADOS.
+
+15. QUE, DESPUES, LOS EXAMENES DE CONOCIMIENTOS Y HABILIDADES EN FUNCION DEL CARGO DE VOCAL EJECUTIVO LOCAL SE CONFECCIONARON Y APLICARON LOS DIAS 3 Y 6 DE ABRIL DEL 2002, RESPECTIVAMENTE, Y DE CUYOS RESULTADOS SE PUDIERON CONOCER EN SESION ESPECIAL CONVOCADA POR LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL PARA EL DIA 10 DE ABRIL, A LA QUE FUERON INVITADOS LOS INTEGRANTES DEL CONSEJO GENERAL Y DE LA JUNTA GENERAL EJECUTIVA.
+
+16. QUE UNA VEZ CONOCIDAS LAS CALIFICACIONES DE LOS EXAMENES DE CONOCIMIENTOS Y HABILIDADES EN FUNCION DEL CARGO DE VOCAL EJECUTIVO LOCAL, LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL PROCEDIO A LA DETERMINACION DEL CONJUNTO DE ASPIRANTES QUE ACCEDERIAN A LA ETAPA DE ENTREVISTAS, TOMANDO EN CUENTA LOS MERITOS EXTRAORDINARIOS QUE EN SU CASO PUDIERAN TENER LOS CANDIDATOS INTERNOS, ASI COMO LA DISPOSICION PREVISTA EN EL MODELO DE OPERACION CORRESPONDIENTE EN EL SENTIDO DE QUE HASTA EL MAXIMO DE OCHO ASPIRANTES -POR CADA PLAZA EN CONCURSO- PODRIAN ARRIBAR A LA ULTIMA ETAPA DEL CONCURSO.
+
+17. QUE SOBRE LA BASE DE LO SEÑALADO EN EL CONSIDERANDO ANTERIOR, Y CON FUNDAMENTO EN EL ARTICULO 62, FRACCION IV, DEL ESTATUTO, Y EN EL PUNTO CUARTO DEL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE ESTABLECE, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, EL MODELO DE OPERACION Y MODELO GENERAL DE LOS EXAMENES DEL CONCURSO DE INCORPORACION PARA OCUPAR PLAZAS VACANTES DE VOCAL EJECUTIVO EN JUNTAS LOCALES DEL INSTITUTO FEDERAL ELECTORAL, ENTRE EL 23 Y 26 DE ABRIL DE 2002, EL CONSEJERO PRESIDENTE, LOS CONSEJEROS QUE INTEGRAN LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL, EL SECRETARIO EJECUTIVO, EL DIRECTOR EJECUTIVO DE ORGANIZACION ELECTORAL Y EL DIRECTOR EJECUTIVO DE CAPACITACION ELECTORAL Y DE EDUCACION CIVICA, REALIZARON ENTREVISTAS A LOS 16 ASPIRANTES CON MEJORES CALIFICACIONES QUE ARRIBARON A DICHA ETAPA DEL CONCURSO.
+
+18. QUE LAS CALIFICACIONES OTORGADAS POR CADA ENTREVISTADOR PERMITIERON A LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL OBTENER LOS PROMEDIOS DE LA ETAPA DE ENTREVISTAS E INTEGRAR LA CALIFICACION FINAL CON LA QUE SE ELABORARIA EL LISTADO DE CANDIDATOS GANADORES DEL CONCURSO DE INCORPORACION PARA OCUPAR LAS DOS PLAZAS DE VOCAL EJECUTIVO LOCAL SUJETAS A CONCURSO. ES OPORTUNO SEÑALAR QUE EN LA DETERMINACION DEL ORDEN DE LOS ASPIRANTES EN ESE LISTADO SE TOMARON EN CUENTA LOS CRITERIOS QUE AL EFECTO PREVE EL ESTATUTO, EL MODELO DE OPERACION Y LA CONVOCATORIA CORRESPONDIENTE, TALES COMO EL PROMEDIO DE LOS RESULTADOS DE CADA FASE DEL CONCURSO Y, EN SU CASO, LA DEFINICION DE DESEMPATES.
 
 [[END OF PAGE 26]]
 
@@ -1176,9 +1243,17 @@ QUE LAS CALIFICACIONES OTORGADAS POR CADA ENTREVISTADOR PERMITIERON A LA DIRECCI
 
 Martes 12 de noviembre de 2002 DIARIO OFICIAL (Primera Sección)     27
 
-- QUE  DE  ACUERDO  CON  ESE  LISTADO,  TAL  COMO  OPORTUNAMENTE  FUE  INFORMADO  A  LOS INTEGRANTES DEL CONSEJO GENERAL POR EL SECRETARIO EJECUTIVO DEL INSTITUTO FEDERAL ELECTORAL,  MEDIANTE  EL  OFICIO  SE/0325/02  SUSCRITO  EL  22  DE  MAYO  DEL  2002,  LOS.  CC.  J. JESUS LULE ORTEGA Y JOSUE CERVANTES MARTINEZ OBTUVIERON LAS CALIFICACIONES FINALES MAS  ALTAS  Y,  POR  LO  TANTO,  HAN  RESULTADO  SER  LOS  CANDIDATOS  GANADORES  DEL CONCURSO REFERIDO. EN TAL SENTIDO, LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL HA  ACORDADO  PROPONER  AL  CONSEJO  GENERAL  SU  DESIGNACION  FORMAL  COMO  VOCALES EJECUTIVOS DE JUNTAS LOCALES, EN LOS TERMINOS DEL MODELO DE OPERACION Y DEL MODELO GENERAL DE LOS EXAMENES DEL CONCURSO DE INCORPORACION EN MODALIDAD DE OPOSICION PARA  OCUPAR  PLAZAS  VACANTES  EN  EL  CARGO  DE  VOCAL  EJECUTIVO  DE  JUNTA  LOCAL  DEL INSTITUTO FEDERAL ELECTORAL, APROBADO POR EL PROPIO ORGANO DE DIRECCION EL 12 DE DICIEMBRE DEL 2001. 20. QUE POR OTRA PARTE, EN SESION CELEBRADA EL 10 DE JUNIO DEL AÑO 2002, LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL CONOCIO DE LA SOLICITUD FORMULADA POR EL C. GERARDO HERNANDEZ  CHACON,  FUNCIONARIO  QUE  SE  HA  VENIDO  DESEMPEÑANDO  COMO  VOCAL EJECUTIVO DE LA JUNTA LOCAL EN EL ESTADO DE COLIMA, PARA SER READSCRITO A LA JUNTA LOCAL DEL ESTADO DE GUANAJUATO EN ESE MISMO PUESTO. 21. QUE EN LA MISMA SESION DEL 10 DE JUNIO DEL 2002, LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL SE MANIFESTO A FAVOR DE DAR CAUCE A LA SOLICITUD DE READSCRIPCION ANTES MENCIONADA, EN VIRTUD DEL DESEMPEÑO Y LA EXPERIENCIA PROBADA EN LOS ULTIMOS TRES PROCESOS ELECTORALES FEDERALES POR EL FUNCIONARIO EN CUESTION. AL MISMO TIEMPO, LA COMISION -DE MANERA UNANIME- TAMBIEN ESTIMO CONVENIENTE CONSULTAR, A TRAVES DE SU PRESIDENTE,  LA  OPINION  DE  LOS  REPRESENTANTES  DE  LOS  PARTIDOS  POLITICOS  ANTE  EL ORGANO  DE  DIRECCION  DEL  INSTITUTO  FEDERAL  ELECTORAL  RESPECTO  DE  TAL  SOLICITUD, DADO  QUE  SU  EVENTUAL  ACEPTACION  MODIFICARIA  LAS  ADSCRIPCIONES  QUE  FINALMENTE SERIAN ASIGNADAS POR EL CONSEJO GENERAL A LOS CANDIDATOS GANADORES REFERIDOS EN EL  CONSIDERANDO 19 DEL PRESENTE INSTRUMENTO. CABE AGREGAR QUE EN CONCORDANCIA CON  LO  SEÑALADO  EN  EL  CONSIDERANDO  5,  EL  ESTATUTO  DEL  SERVICIO  PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL PREVE EN SU ARTICULO 53 QUE EL CONSEJO GENERAL ESTA FACULTADO PARA READSCRIBIR A LOS VOCALES EJECUTIVOS QUE, CON BASE EN LAS NECESIDADES DEL SERVICIO PROFESIONAL ELECTORAL O A PETICION DE LOS PROPIOS FUNCIONARIOS INTERESADOS EN ELLO, JUZGUE CONVENIENTE PARA LA ADECUADA INTEGRACION Y FUNCIONAMIENTO DE LOS ORGANOS DEL INSTITUTO FEDERAL ELECTORAL. 22. QUE UNA VEZ QUE SE VALORARON LAS OPINIONES DE LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS  ANTE  EL  CONSEJO  GENERAL,  QUE  SE  TOMO  EN  CUENTA  EL  DESEMPEÑO  DEL  C. GERARDO HERNANDEZ CHACON, Y QUE LOS MENCIONADOS CANDIDATOS GANADORES DE PLAZAS DE VOCAL EJECUTIVO LOCAL PUDIERON MANIFESTAR SUS PREFERENCIAS DE ADSCRIPCION, LA COMISION  DEL  SERVICIO  PROFESIONAL  ELECTORAL  DETERMINO  PROPONER  AL  CONSEJO GENERAL LA CELEBRACION DE LA READSCRIPCION DEL SEÑOR HERNANDEZ CHACON AL CARGO DE VOCAL EJECUTIVO LOCAL EN EL ESTADO DE GUANAJUATO Y, AL MISMO TIEMPO, DESIGNAR AL C. JOSUE CERVANTES MARTINEZ COMO VOCAL EJECUTIVO DE LA JUNTA LOCAL DE COLIMA Y AL C. J.  JESUS  LULE  ORTEGA  COMO  VOCAL  EJECUTIVO  DE  LA  JUNTA  LOCAL  EN  EL  ESTADO  DE TLAXCALA,  EN  VIRTUD  DE  LAS  ARGUMENTACIONES,  LA  MOTIVACION  Y  LOS  FUNDAMENTOS JURIDICOS ANTES EXPRESADOS. 23. QUE EN RAZON DE LO ANTERIOR, EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL ESTIMA QUE SE HA CUMPLIDO CON LOS EXTREMOS LEGALES Y ESTATUTARIOS CORRESPONDIENTES PARA PROCEDER A LA APROBACION DE LA READSCRIPCION MENCIONADA Y DE LAS PROPUESTAS DE ADSCRIPCION COMO VOCALES EJECUTIVOS DE JUNTAS LOCALES DE LOS CANDIDATOS QUE HAN RESULTADO SER LOS GANADORES DEL CONCURSO DE INCORPORACION PARA  OCUPAR  PLAZAS  EN  ESE  CARGO,  AMEN  DE  QUE  CON  ELLO  SE  CONTRIBUIRIA  A  LA ADECUADA  INTEGRACION  DE  LOS  ORGANOS  DESCONCENTRADOS  DEL  INSTITUTO  FEDERAL ELECTORAL.
+19. QUE DE ACUERDO CON ESE LISTADO, TAL COMO OPORTUNAMENTE FUE INFORMADO A LOS INTEGRANTES DEL CONSEJO GENERAL POR EL SECRETARIO EJECUTIVO DEL INSTITUTO FEDERAL ELECTORAL, MEDIANTE EL OFICIO SE/0325/02 SUSCRITO EL 22 DE MAYO DEL 2002, LOS CC. J. JESUS LULE ORTEGA Y JOSUE CERVANTES MARTINEZ OBTUVIERON LAS CALIFICACIONES FINALES MAS ALTAS Y, POR LO TANTO, HAN RESULTADO SER LOS CANDIDATOS GANADORES DEL CONCURSO REFERIDO. EN TAL SENTIDO, LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL HA ACORDADO PROPONER AL CONSEJO GENERAL SU DESIGNACION FORMAL COMO VOCALES EJECUTIVOS DE JUNTAS LOCALES, EN LOS TERMINOS DEL MODELO DE OPERACION Y DEL MODELO GENERAL DE LOS EXAMENES DEL CONCURSO DE INCORPORACION EN MODALIDAD DE OPOSICION PARA OCUPAR PLAZAS VACANTES EN EL CARGO DE VOCAL EJECUTIVO DE JUNTA LOCAL DEL INSTITUTO FEDERAL ELECTORAL, APROBADO POR EL PROPIO ORGANO DE DIRECCION EL 12 DE DICIEMBRE DEL 2001.
 
-DE CONFORMIDAD CON LOS CONSIDERANDOS VERTIDOS, Y CON FUNDAMENTO EN LOS ARTICULOS 41, PARRAFO SEGUNDO, FRACCION III, DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 73,  82,  PARRAFO  1,  INCISOS  B),  E)  Y  Z),  Y  171,  PARRAFO  2,  DEL  CODIGO  FEDERAL  DE  INSTITUCIONES  Y PROCEDIMIENTOS ELECTORALES; 9, 12, FRACCIONES I Y V, 34, 35, 36, 37, 43, 51, 53, 68, 60, 61, 62, 63, 66 Y 74 DEL  ESTATUTO  DEL  SERVICIO  PROFESIONAL  ELECTORAL  Y  DEL  PERSONAL  DEL  INSTITUTO  FEDERAL ELECTORAL; EN EL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE ESTABLECE, A PROPUESTA DE LA JUNTA  GENERAL  EJECUTIVA,  EL  MODELO  DE  OPERACION  Y  MODELO  GENERAL  DE  LOS  EXAMENES  DEL
+20. QUE POR OTRA PARTE, EN SESION CELEBRADA EL 10 DE JUNIO DEL AÑO 2002, LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL CONOCIO DE LA SOLICITUD FORMULADA POR EL C. GERARDO HERNANDEZ CHACON, FUNCIONARIO QUE SE HA VENIDO DESEMPEÑANDO COMO VOCAL EJECUTIVO DE LA JUNTA LOCAL EN EL ESTADO DE COLIMA, PARA SER READSCRITO A LA JUNTA LOCAL DEL ESTADO DE GUANAJUATO EN ESE MISMO PUESTO.
+
+21. QUE EN LA MISMA SESION DEL 10 DE JUNIO DEL 2002, LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL SE MANIFESTO A FAVOR DE DAR CAUCE A LA SOLICITUD DE READSCRIPCION ANTES MENCIONADA, EN VIRTUD DEL DESEMPEÑO Y LA EXPERIENCIA PROBADA EN LOS ULTIMOS TRES PROCESOS ELECTORALES FEDERALES POR EL FUNCIONARIO EN CUESTION. AL MISMO TIEMPO, LA COMISION -DE MANERA UNANIME- TAMBIEN ESTIMO CONVENIENTE CONSULTAR, A TRAVES DE SU PRESIDENTE, LA OPINION DE LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS ANTE EL ORGANO DE DIRECCION DEL INSTITUTO FEDERAL ELECTORAL RESPECTO DE TAL SOLICITUD, DADO QUE SU EVENTUAL ACEPTACION MODIFICARIA LAS ADSCRIPCIONES QUE FINALMENTE SERIAN ASIGNADAS POR EL CONSEJO GENERAL A LOS CANDIDATOS GANADORES REFERIDOS EN EL CONSIDERANDO 19 DEL PRESENTE INSTRUMENTO. CABE AGREGAR QUE EN CONCORDANCIA CON LO SEÑALADO EN EL CONSIDERANDO 5, EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL PREVE EN SU ARTICULO 53 QUE EL CONSEJO GENERAL ESTA FACULTADO PARA READSCRIBIR A LOS VOCALES EJECUTIVOS QUE, CON BASE EN LAS NECESIDADES DEL SERVICIO PROFESIONAL ELECTORAL O A PETICION DE LOS PROPIOS FUNCIONARIOS INTERESADOS EN ELLO, JUZGUE CONVENIENTE PARA LA ADECUADA INTEGRACION Y FUNCIONAMIENTO DE LOS ORGANOS DEL INSTITUTO FEDERAL ELECTORAL.
+
+22. QUE UNA VEZ QUE SE VALORARON LAS OPINIONES DE LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS ANTE EL CONSEJO GENERAL, QUE SE TOMO EN CUENTA EL DESEMPEÑO DEL C. GERARDO HERNANDEZ CHACON, Y QUE LOS MENCIONADOS CANDIDATOS GANADORES DE PLAZAS DE VOCAL EJECUTIVO LOCAL PUDIERON MANIFESTAR SUS PREFERENCIAS DE ADSCRIPCION, LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL DETERMINO PROPONER AL CONSEJO GENERAL LA CELEBRACION DE LA READSCRIPCION DEL SEÑOR HERNANDEZ CHACON AL CARGO DE VOCAL EJECUTIVO LOCAL EN EL ESTADO DE GUANAJUATO Y, AL MISMO TIEMPO, DESIGNAR AL C. JOSUE CERVANTES MARTINEZ COMO VOCAL EJECUTIVO DE LA JUNTA LOCAL DE COLIMA Y AL C. J. JESUS LULE ORTEGA COMO VOCAL EJECUTIVO DE LA JUNTA LOCAL EN EL ESTADO DE TLAXCALA, EN VIRTUD DE LAS ARGUMENTACIONES, LA MOTIVACION Y LOS FUNDAMENTOS JURIDICOS ANTES EXPRESADOS.
+
+23. QUE EN RAZON DE LO ANTERIOR, EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL ESTIMA QUE SE HA CUMPLIDO CON LOS EXTREMOS LEGALES Y ESTATUTARIOS CORRESPONDIENTES PARA PROCEDER A LA APROBACION DE LA READSCRIPCION MENCIONADA Y DE LAS PROPUESTAS DE ADSCRIPCION COMO VOCALES EJECUTIVOS DE JUNTAS LOCALES DE LOS CANDIDATOS QUE HAN RESULTADO SER LOS GANADORES DEL CONCURSO DE INCORPORACION PARA OCUPAR PLAZAS EN ESE CARGO, AMEN DE QUE CON ELLO SE CONTRIBUIRIA A LA ADECUADA INTEGRACION DE LOS ORGANOS DESCONCENTRADOS DEL INSTITUTO FEDERAL ELECTORAL.
+
+DE CONFORMIDAD CON LOS CONSIDERANDOS VERTIDOS, Y CON FUNDAMENTO EN LOS ARTICULOS 41, PARRAFO SEGUNDO, FRACCION III, DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 73, 82, PARRAFO 1, INCISOS B), E) Y Z), Y 171, PARRAFO 2, DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; 9, 12, FRACCIONES I Y V, 34, 35, 36, 37, 43, 51, 53, 58, 60, 61, 62, 63, 66 Y 74 DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL; EN EL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE ESTABLECE, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, EL MODELO DE OPERACION Y MODELO GENERAL DE LOS EXAMENES DEL
 
 [[END OF PAGE 27]]
 
@@ -1220,7 +1295,19 @@ LOS  ORGANOS  DEL  INSTITUTO,  Y  CONOCER  POR  CONDUCTO  DE  SU  PRESIDENTE  Y 
 
 Martes 12 de noviembre de 2002 DIARIO OFICIAL (Primera Sección)     29
 
-COMISIONES LAS ACTIVIDADES DE LOS MISMOS, ASI COMO DE LOS INFORMES ESPECIFICOS QUE ESTIME NECESARIO SOLICITARLES. 3. QUE EN EL TITULO SEGUNDO DEL LIBRO CUARTO DEL CODIGO DE LA MATERIA, SE DETERMINAN LAS BASES PARA LA ORGANIZACION DEL SERVICIO PROFESIONAL ELECTORAL, ENTRE LAS CUALES DESTACAN QUE LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL ORGANIZARA Y  DESARROLLARA  DICHO  SERVICIO;  QUE  LA  OBJETIVIDAD  Y  LA  IMPARCIALIDAD  SERAN  LOS PRINCIPIOS  PARA  LA  FORMACION  DE  LOS  MIEMBROS  DEL  SERVICIO  PROFESIONAL  ELECTORAL; QUE HABRA DOS  CUERPOS  DE  FUNCIONARIOS  -EL  DE  LA  FUNCION  DIRECTIVA  Y  EL DE TECNICOSESTRUCTURADOS  POR  NIVELES  O  RANGOS;  QUE  PARA  INGRESAR  A  ESTOS  LOS  ASPIRANTES DEBERAN  ACREDITAR  REQUISITOS  PERSONALES,  ACADEMICOS  Y  DE  BUENA  REPUTACION, ADEMAS DE CUMPLIR CON LOS CURSOS DE FORMACION Y CAPACITACION CORRESPONDIENTES; QUE TAMBIEN SERAN VIAS DE ACCESO A LOS CUERPOS DEL SERVICIO EL EXAMEN O CONCURSO; QUE LA PERMANENCIA EN EL SERVICIO DEPENDERA DE LA ACREDITACION DE LOS EXAMENES DE LOS PROGRAMAS DE FORMACION Y DESARROLLO, ASI COMO DEL RESULTADO DE LA EVALUACION ANUAL. 4. QUE CONFORME A LOS DISPUESTO EN EL ARTICULO 35 DEL ESTATUTO, SON FORMAS DE ACCESO AL SERVICIO: GANAR EL CONCURSO DE INCORPORACION; APROBAR EL EXAMEN DE INCORPORACION; O ACREDITAR LOS CURSOS DE CAPACITACION Y FORMACION INCLUYENDO LOS EXAMENES CORRESPONDIENTES, Y REALIZAR LAS PRACTICAS EN LOS ORGANOS DEL INSTITUTO. 5. QUE  SEGUN  LO  DISPUESTO  EN  EL  ARTICULO  36  DEL  ORDENAMIENTO  ANTES  SEÑALADO,  EL CONCURSO  DE  INCORPORACION  EN  SU  MODALIDAD  DE  OPOSICION,  SERA  LA  VIA  PRIMORDIAL PARA LA OCUPACION DE VACANTES Y EL ACCESO AL SERVICIO; LA UTILIZACION DE CUALQUIERA DE  LAS  OTRAS  VIAS  DEBERA  HACERSE  EXCEPCIONALMENTE  Y  DE  MANERA  DEBIDAMENTE FUNDADA Y MOTIVADA. 6. QUE CON BASE EN LOS ANTERIORES CONSIDERANDOS, Y TOMANDO EN CUENTA LA EXPERIENCIA DE LOS CONCURSOS QUE SE HAN CELEBRADO DESDE 1999, EL CONSEJO GENERAL CON BASE EN LO  DISPUESTO  POR  EL  ARTICULO  62  DEL  ESTATUTO,  ESTIMO  LA  CONVENIENCIA  DE  EMITIR  UN MODELO DE OPERACION ESPECIFICO PARA EL CONCURSO DE PLAZAS EN EL CARGO DE VOCAL EJECUTIVO DE JUNTAS EJECUTIVAS DISTRITALES, Y ES ASI COMO EL 17 DE ABRIL DEL AÑO EN CURSO, EL CONSEJO GENERAL APROBO A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, EL MODELO DE OPERACION  Y  EL  MODELO  GENERAL  DE  LOS  EXAMENES  DEL  CONCURSO  DE  INCORPORACION PARA OCUPAR PLAZAS DE VOCAL EJECUTIVO EN JUNTAS EJECUTIVAS DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL. 7. QUE DE CONFORMIDAD  CON  LO  DISPUESTO  EN EL ARTICULO 37 DEL ESTATUTO, LOS PROCEDIMIENTOS PARA REALIZAR LOS CONCURSOS DE INCORPORACION SE ESTABLECERAN EN LOS ACUERDOS Y LAS CONVOCATORIAS QUE EXPIDA LA JUNTA, A PROPUESTA DE LA DIRECCION EJECUTIVA  DEL  SERVICIO  PROFESIONAL  ELECTORAL;  PARA  ELLO,  ESTA  ULTIMA  TOMARA  EN CONSIDERACION LA OPINION DE LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL. 8. QUE EN SESION CELEBRADA EL 10 DE JUNIO DEL 2002, LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL  CONSIDERO  CONVENIENTE  QUE,  A  TRAVES  DE  LA  JUNTA  GENERAL  EJECUTIVA,  SE ELEVARA  AL  CONSEJO  GENERAL  UNA  PROPUESTA  DE  MODIFICACIONES  AL  MODELO  DE OPERACION  PARA  EL  CONCURSO  DE  PLAZAS  DE  VOCAL  EJECUTIVO  DE  JUNTAS  DISTRITALES APROBADO POR EL ORGANO DE DIRECCION EL 17 DE ABRIL DEL 2002, PARTICULARMENTE EN SUS APARTADOS II.3, SOBRE LA 'ETAPA, DE EXAMENES PREVIOS DE CONOCIMIENTOS GENERALES EN MATERIA  ELECTORAL',  Y  III.4,  RELATIVO  A  LA  'CALIFICACION  FINAL',  A  EFECTO  DE  PRECISAR  Y REAFIRMAR LAS CONDICIONES DE IGUALDAD ENTRE ASPIRANTES INTERNOS Y EXTERNOS EN LA ULTIMA FASE DEL  CONCURSO  DE  INCORPORACION.  ESPECIFICAMENTE,  SE  PRETENDE  QUE  LA  CALIFICACION DEL  EXAMEN  DE  CONOCIMIENTOS  Y  HABILIDADES  EN  FUNCION  DEL  CARGO  Y  LA  DE  LAS ENTREVISTAS  TENGA  UNA  PONDERACION  EQUIVALENTE  AL  50  POR  CIENTO  RESPECTO  DE  LA CALIFICACION FINAL DE TODOS LOS CONCURSANTES, SEAN EXTERNOS O INTERNOS.
+COMISIONES LAS ACTIVIDADES DE LOS MISMOS, ASI COMO DE LOS INFORMES ESPECIFICOS QUE ESTIME NECESARIO SOLICITARLES.
+
+3. QUE EN EL TITULO SEGUNDO DEL LIBRO CUARTO DEL CODIGO DE LA MATERIA, SE DETERMINAN LAS BASES PARA LA ORGANIZACION DEL SERVICIO PROFESIONAL ELECTORAL, ENTRE LAS CUALES DESTACAN QUE LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL ORGANIZARA Y DESARROLLARA DICHO SERVICIO; QUE LA OBJETIVIDAD Y LA IMPARCIALIDAD SERAN LOS PRINCIPIOS PARA LA FORMACION DE LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL; QUE HABRA DOS CUERPOS DE FUNCIONARIOS –EL DE LA FUNCION DIRECTIVA Y EL DE TECNICOS– ESTRUCTURADOS POR NIVELES O RANGOS; QUE PARA INGRESAR A ESTOS LOS ASPIRANTES DEBERAN ACREDITAR REQUISITOS PERSONALES, ACADEMICOS Y DE BUENA REPUTACION, ADEMAS DE CUMPLIR CON LOS CURSOS DE FORMACION Y CAPACITACION CORRESPONDIENTES; QUE TAMBIEN SERAN VIAS DE ACCESO A LOS CUERPOS DEL SERVICIO EL EXAMEN O CONCURSO; QUE LA PERMANENCIA EN EL SERVICIO DEPENDERA DE LA ACREDITACION DE LOS EXAMENES DE LOS PROGRAMAS DE FORMACION Y DESARROLLO, ASI COMO DEL RESULTADO DE LA EVALUACION ANUAL.
+
+4. QUE CONFORME A LOS DISPUESTO EN EL ARTICULO 35 DEL ESTATUTO, SON FORMAS DE ACCESO AL SERVICIO: GANAR EL CONCURSO DE INCORPORACION; APROBAR EL EXAMEN DE INCORPORACION; O ACREDITAR LOS CURSOS DE CAPACITACION Y FORMACION INCLUYENDO LOS EXAMENES CORRESPONDIENTES, Y REALIZAR LAS PRACTICAS EN LOS ORGANOS DEL INSTITUTO.
+
+5. QUE SEGUN LO DISPUESTO EN EL ARTICULO 36 DEL ORDENAMIENTO ANTES SEÑALADO, EL CONCURSO DE INCORPORACION EN SU MODALIDAD DE OPOSICION, SERA LA VIA PRIMORDIAL PARA LA OCUPACION DE VACANTES Y EL ACCESO AL SERVICIO; LA UTILIZACION DE CUALQUIERA DE LAS OTRAS VIAS DEBERA HACERSE EXCEPCIONALMENTE Y DE MANERA DEBIDAMENTE FUNDADA Y MOTIVADA.
+
+6. QUE CON BASE EN LOS ANTERIORES CONSIDERANDOS, Y TOMANDO EN CUENTA LA EXPERIENCIA DE LOS CONCURSOS QUE SE HAN CELEBRADO DESDE 1999, EL CONSEJO GENERAL CON BASE EN LO DISPUESTO POR EL ARTICULO 62 DEL ESTATUTO, ESTIMO LA CONVENIENCIA DE EMITIR UN MODELO DE OPERACION ESPECIFICO PARA EL CONCURSO DE PLAZAS EN EL CARGO DE VOCAL EJECUTIVO DE JUNTAS EJECUTIVAS DISTRITALES, Y ES ASI COMO EL 17 DE ABRIL DEL AÑO EN CURSO, EL CONSEJO GENERAL APROBO A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, EL MODELO DE OPERACION Y EL MODELO GENERAL DE LOS EXAMENES DEL CONCURSO DE INCORPORACION PARA OCUPAR PLAZAS DE VOCAL EJECUTIVO EN JUNTAS EJECUTIVAS DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL.
+
+7. QUE DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO 37 DEL ESTATUTO, LOS PROCEDIMIENTOS PARA REALIZAR LOS CONCURSOS DE INCORPORACION SE ESTABLECERAN EN LOS ACUERDOS Y LAS CONVOCATORIAS QUE EXPIDA LA JUNTA, A PROPUESTA DE LA DIRECCION EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL; PARA ELLO, ESTA ULTIMA TOMARA EN CONSIDERACION LA OPINION DE LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL.
+
+8. QUE EN SESION CELEBRADA EL 10 DE JUNIO DEL 2002, LA COMISION DEL SERVICIO PROFESIONAL ELECTORAL CONSIDERO CONVENIENTE QUE, A TRAVES DE LA JUNTA GENERAL EJECUTIVA, SE ELEVARA AL CONSEJO GENERAL UNA PROPUESTA DE MODIFICACIONES AL MODELO DE OPERACION PARA EL CONCURSO DE PLAZAS DE VOCAL EJECUTIVO DE JUNTAS DISTRITALES APROBADO POR EL ORGANO DE DIRECCION EL 17 DE ABRIL DEL 2002, PARTICULARMENTE EN SUS APARTADOS II.3, SOBRE LA 'ETAPA, DE EXAMENES PREVIOS DE CONOCIMIENTOS GENERALES EN MATERIA ELECTORAL', Y III.4, RELATIVO A LA 'CALIFICACION FINAL', A EFECTO DE PRECISAR Y REAFIRMAR LAS CONDICIONES DE IGUALDAD ENTRE ASPIRANTES INTERNOS Y EXTERNOS EN LA ULTIMA FASE DEL CONCURSO DE INCORPORACION. ESPECIFICAMENTE, SE PRETENDE QUE LA CALIFICACION DEL EXAMEN DE CONOCIMIENTOS Y HABILIDADES EN FUNCION DEL CARGO Y LA DE LAS ENTREVISTAS TENGA UNA PONDERACION EQUIVALENTE AL 50 POR CIENTO RESPECTO DE LA CALIFICACION FINAL DE TODOS LOS CONCURSANTES, SEAN EXTERNOS O INTERNOS.
 
 [[END OF PAGE 29]]
 
@@ -1260,15 +1347,15 @@ PARTE DE ESTE ORGANISMO, DE INFORMACION, DOCUMENTACION ELECTORAL Y LOS APOYOS NE
 
 ### CONSIDERANDOS
 
-- QUE  EL  ARTICULO  41,  FRACCION  III,  DE  LA  CONSTITUCION  POLITICA  DE  LOS  ESTADOS  UNIDOS MEXICANOS,  ESTABLECE  QUE  LA  ORGANIZACION  DE  LAS  ELECCIONES  FEDERALES  ES  UNA  FUNCION ESTATAL, QUE SE REALIZA A TRAVES DE UN ORGANISMO PUBLICO AUTONOMO DENOMINADO INSTITUTO FEDERAL ELECTORAL, DOTADO  DE PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS, EN CUYA INTEGRACION PARTICIPAN EL PODER LEGISLATIVO DE LA UNION, EN LOS TERMINOS QUE ORDENE LA LEY. EN EL EJERCICIO DE ESA FUNCION ESTATAL, LA CERTEZA, LEGALIDAD, INDEPENDENCIA, IMPARCIALIDAD Y OBJETIVIDAD SERAN PRINCIPIOS RECTORES.
+1. QUE EL ARTICULO 41, FRACCION III, DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, ESTABLECE QUE LA ORGANIZACION DE LAS ELECCIONES FEDERALES ES UNA FUNCION ESTATAL, QUE SE REALIZA A TRAVES DE UN ORGANISMO PUBLICO AUTONOMO DENOMINADO INSTITUTO FEDERAL ELECTORAL, DOTADO DE PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS, EN CUYA INTEGRACION PARTICIPAN EL PODER LEGISLATIVO DE LA UNION, EN LOS TERMINOS QUE ORDENE LA LEY. EN EL EJERCICIO DE ESA FUNCION ESTATAL, LA CERTEZA, LEGALIDAD, INDEPENDENCIA, IMPARCIALIDAD Y OBJETIVIDAD SERAN PRINCIPIOS RECTORES.
 
-- QUE LOS ARTICULOS 2, PARRAFO 1 Y 131, PARRAFO 1, DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS  ELECTORALES,  DISPONEN  QUE  EL  INSTITUTO  FEDERAL  ELECTORAL  Y  SUS  ORGANOS DESCONCENTRADOS  EN  LOS  ESTADOS  DE  LA  REPUBLICA  CONTARAN  PARA  EL  DESEMPEÑO  DE  SUS FUNCIONES,  CON  EL  APOYO  Y  COLABORACION  DE  LAS  AUTORIDADES  FEDERALES,  ESTATALES  Y MUNICIPALES.
+2. QUE LOS ARTICULOS 2, PARRAFO 1 Y 131, PARRAFO 1, DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DISPONEN QUE EL INSTITUTO FEDERAL ELECTORAL Y SUS ORGANOS DESCONCENTRADOS EN LOS ESTADOS DE LA REPUBLICA CONTARAN PARA EL DESEMPEÑO DE SUS FUNCIONES, CON EL APOYO Y COLABORACION DE LAS AUTORIDADES FEDERALES, ESTATALES Y MUNICIPALES.
 
-- QUE  EL  ARTICULO  73,  PARRAFO  1,  DEL  CODIGO  FEDERAL  DE  INSTITUCIONES  Y  PROCEDIMIENTOS ELECTORALES,  ESTABLECE  QUE  EL  CONSEJO  GENERAL  ES  EL  ORGANO  SUPERIOR  DE  DIRECCION  DEL INSTITUTO FEDERAL ELECTORAL Y RESPONSABLE DE VIGILAR EL CUMPLIMIENTO DE LAS DISPOSICIONES CONSTITUCIONALES Y LEGALES EN MATERIA ELECTORAL, ASI COMO DE VELAR QUE LOS PRINCIPIOS DE CERTEZA,  LEGALIDAD,  INDEPENDENCIA,  IMPARCIALIDAD  Y  OBJETIVIDAD  GUIEN  TODAS  LAS  ACTIVIDADES DEL INSTITUTO.
+3. QUE EL ARTICULO 73, PARRAFO 1, DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, ESTABLECE QUE EL CONSEJO GENERAL ES EL ORGANO SUPERIOR DE DIRECCION DEL INSTITUTO FEDERAL ELECTORAL Y RESPONSABLE DE VIGILAR EL CUMPLIMIENTO DE LAS DISPOSICIONES CONSTITUCIONALES Y LEGALES EN MATERIA ELECTORAL, ASI COMO DE VELAR QUE LOS PRINCIPIOS DE CERTEZA, LEGALIDAD, INDEPENDENCIA, IMPARCIALIDAD Y OBJETIVIDAD GUIEN TODAS LAS ACTIVIDADES DEL INSTITUTO.
 
-- QUE  EL  ARTICULO  82,  PARRAFO  1,  INCISO  z),  DEL  CODIGO  FEDERAL  DE  LA  MATERIA,  FACULTA  AL CONSEJO GENERAL PARA DICTAR LOS ACUERDOS NECESARIOS CON LA FINALIDAD HACER EFECTIVAS SUS ATRIBUCIONES.
+4. QUE EL ARTICULO 82, PARRAFO 1, INCISO z), DEL CODIGO FEDERAL DE LA MATERIA, FACULTA AL CONSEJO GENERAL PARA DICTAR LOS ACUERDOS NECESARIOS CON LA FINALIDAD HACER EFECTIVAS SUS ATRIBUCIONES.
 
-- QUE  CONFORME  AL  ARTICULO  83,  PARRAFO  1,  INCISO  b),  DEL  CODIGO  FEDERAL  DE  LA  MATERIA, CORRESPONDE AL PRESIDENTE DEL CONSEJO GENERAL ESTABLECER LOS VINCULOS ENTRE EL INSTITUTO
+5. QUE CONFORME AL ARTICULO 83, PARRAFO 1, INCISO b), DEL CODIGO FEDERAL DE LA MATERIA, CORRESPONDE AL PRESIDENTE DEL CONSEJO GENERAL ESTABLECER LOS VINCULOS ENTRE EL INSTITUTO
 
 [[END OF PAGE 31]]
 
@@ -1293,7 +1380,29 @@ CON  EL  FIN  DE  FACILITAR  A  LOS  ELECTORES  LA  EMISION  DEL  SUFRAGIO,  EL 
 
 Martes 12 de noviembre de 2002 DIARIO OFICIAL (Primera Sección)     33
 
-INSTALAR,  QUE  PREFERENTEMENTE  SERA  EN  EL  MISMO  SITIO,  VIGILANDO  EL  CUMPLIMIENTO  DE  LAS DISPOSICIONES  ESTABLECIDAS  EN  LAS  LEGISLACIONES  ELECTORALES  RESPECTIVAS,  ASI  COMO  LOS ACUERDOS Y DISPOSICIONES GENERALES QUE AL EFECTO EMITAN SUS ORGANOS DE DIRECCION. EL  INSTITUTO  FEDERAL  ELECTORAL  INVITARA  A  CADA  ORGANISMO  ELECTORAL  DE  LAS  ENTIDADES FEDERATIVAS A PARTICIPAR EN LOS RECORRIDOS POR LAS SECCIONES ELECTORALES, QUE TIENEN COMO OBJETO  SELECCIONAR  LOS  LUGARES  SUSCEPTIBLES  DE  SER  PROPUESTOS  PARA  LA  UBICACION  DE LAS CASILLAS. LAS OBSERVACIONES A LA PROPUESTA DE LUGARES DE UBICACION DE CASILLAS QUE SE PLANTEEN EN LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS, SE HARAN DEL CONOCIMIENTO DE LOS CONSEJOS DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL. LA  PUBLICACION  Y  CIRCULACION  DE  LAS  LISTAS  DE  UBICACION  E  INTEGRACION  DE  LAS  MESAS DIRECTIVAS DE CASILLA, SE REALIZARA BAJO LA RESPONSABILIDAD DEL INSTITUTO FEDERAL ELECTORAL. ADICIONALMENTE,  PODRA  ACORDARSE  UNA  CIRCULACION  MAS  AMPLIA  Y  EN  DISTINTA  FECHA  DE  ESA INFORMACION. EN EL ANEXO TECNICO SE ESTABLECERAN LOS MECANISMOS DE COORDINACION ENTRE EL INSTITUTO FEDERAL  ELECTORAL  Y  LOS  ORGANISMOS  ELECTORALES  DE  LAS  ENTIDADES  FEDERATIVAS  PARA REALIZAR  EL  REGISTRO  DE  REPRESENTANTES  DE  PARTIDOS  POLITICOS  GENERALES  Y  ANTE  MESAS DIRECTIVAS  DE  CASILLA,  ASI  COMO  LOS  PROCEDIMIENTOS  DE  INTERCAMBIO  DE  INFORMACION  ENTRA AMBAS AUTORIDADES, EN LA FORMA Y TERMINOS ESTABLECIDOS EN LAS LEGISLACIONES RESPECTIVAS. EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS ACORDARAN, EN LOS TERMINOS QUE ESTABLECEN LAS LEYES ELECTORALES RESPECTIVAS, LA ENTREGA DE LA DOCUMENTACION Y EL MATERIAL ELECTORAL A LOS PRESIDENTES DE LAS MESAS DIRECTIVAS DE CASILLA.  EL  ANEXO  TECNICO  ESTABLECERA  LOS  MECANISMOS  DE  COORDINACION  ENTRE  EL  INSTITUTO FEDERAL  ELECTORAL  Y  LOS  ORGANISMOS  ELECTORALES  DE  LAS  ENTIDADES  FEDERATIVAS  PARA  LA ENTREGA DE DICHA DOCUMENTACION Y MATERIAL ELECTORAL. EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS,  ACORDARAN  PROPORCIONAR  EL  EQUIPAMIENTO  Y  APOYOS  NECESARIOS  EL  DIA  DE  LA JORNADA ELECTORAL A LAS MESAS DIRECTIVAS DE CASILLA. LA RESPONSABILIDAD DE CADA PARTE SE ESPECIFICARA EN EL ANEXO TECNICO CORRESPONDIENTE. EN  CASO  DE  SUSPENSION  DEL  DESARROLLO  DE  LA  VOTACION  POR  CAUSA  DE  FUERZA  MAYOR,  SE REMITIRA  A  LO  ESTABLECIDO  TANTO  EN  EL  ORDENAMIENTO  LOCAL  COMO  EN  EL  FEDERAL.  EN  EL SUPUESTO DE EXISTIR UNA CONTROVERSIA, PREVALECERA LA LEY QUE CORRESPONDA A CADA ELECCION. EL  DIA  DE  LA  JORNADA  ELECTORAL  LAS  MESAS  DIRECTIVAS  DE  CASILLA  RECIBIRAN  Y  TRAMITARAN CUALQUIER ESCRITO QUE PRESENTEN LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS EN LA FORMA Y  TERMINOS  QUE  SEÑALAN  LAS  RESPECTIVAS  LEGISLACIONES  ELECTORALES,  Y  LOS  REMITIRAN  AL ORGANISMO ELECTORAL CORRESPONDIENTE. EL  COMPUTO  Y  LA  PUBLICACION  DE  RESULTADOS  EN  EL  EXTERIOR  DE  LA  CASILLA  SE  REALIZARA CONFORME A LAS LEGISLACIONES ELECTORALES RESPECTIVAS. EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS  ACORDARAN  LOS  MECANISMOS  DE  COORDINACION  PARA  REALIZAR  EL  REGISTRO  DE OBSERVADORES  ELECTORALES,  ASI  COMO  LOS  SISTEMAS  DE  INTERCAMBIO  DE  INFORMACION  ENTRE AMBAS AUTORIDADES, EN LA FORMA Y TERMINOS ESTABLECIDOS EN LAS LEGISLACIONES RESPECTIVAS. EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS  PROMOVERAN  LA  FIRMA  DE  ACUERDOS  ENTRE  LA  AUTORIDAD  ELECTORAL  FEDERAL,  LA AUTORIDAD ELECTORAL ESTATAL Y LAS INSTANCIAS DE GOBIERNO COMPETENTES, PARA LA DETERMINACION  DE  LOS  LUGARES  DE  USO  COMUN  PARA  LA  FIJACION  DE  LA  PROPAGANDA  DE  LOS PARTIDOS POLITICOS.
+INSTALAR, QUE PREFERENTEMENTE SERA EN EL MISMO SITIO, VIGILANDO EL CUMPLIMIENTO DE LAS DISPOSICIONES ESTABLECIDAS EN LAS LEGISLACIONES ELECTORALES RESPECTIVAS, ASI COMO LOS ACUERDOS Y DISPOSICIONES GENERALES QUE AL EFECTO EMITAN SUS ORGANOS DE DIRECCION.
+
+EL INSTITUTO FEDERAL ELECTORAL INVITARA A CADA ORGANISMO ELECTORAL DE LAS ENTIDADES FEDERATIVAS A PARTICIPAR EN LOS RECORRIDOS POR LAS SECCIONES ELECTORALES, QUE TIENEN COMO OBJETO SELECCIONAR LOS LUGARES SUSCEPTIBLES DE SER PROPUESTOS PARA LA UBICACION DE LAS CASILLAS.
+
+LAS OBSERVACIONES A LA PROPUESTA DE LUGARES DE UBICACION DE CASILLAS QUE SE PLANTEEN EN LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS, SE HARAN DEL CONOCIMIENTO DE LOS CONSEJOS DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL.
+
+LA PUBLICACION Y CIRCULACION DE LAS LISTAS DE UBICACION E INTEGRACION DE LAS MESAS DIRECTIVAS DE CASILLA, SE REALIZARA BAJO LA RESPONSABILIDAD DEL INSTITUTO FEDERAL ELECTORAL. ADICIONALMENTE, PODRA ACORDARSE UNA CIRCULACION MAS AMPLIA Y EN DISTINTA FECHA DE ESA INFORMACION.
+
+EN EL ANEXO TECNICO SE ESTABLECERAN LOS MECANISMOS DE COORDINACION ENTRE EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS PARA REALIZAR EL REGISTRO DE REPRESENTANTES DE PARTIDOS POLITICOS GENERALES Y ANTE MESAS DIRECTIVAS DE CASILLA, ASI COMO LOS PROCEDIMIENTOS DE INTERCAMBIO DE INFORMACION ENTRE AMBAS AUTORIDADES, EN LA FORMA Y TERMINOS ESTABLECIDOS EN LAS LEGISLACIONES RESPECTIVAS.
+
+EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS ACORDARAN, EN LOS TERMINOS QUE ESTABLECEN LAS LEYES ELECTORALES RESPECTIVAS, LA ENTREGA DE LA DOCUMENTACION Y EL MATERIAL ELECTORAL A LOS PRESIDENTES DE LAS MESAS DIRECTIVAS DE CASILLA. EL ANEXO TECNICO ESTABLECERA LOS MECANISMOS DE COORDINACION ENTRE EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS PARA LA ENTREGA DE DICHA DOCUMENTACION Y MATERIAL ELECTORAL.
+
+EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS, ACORDARAN PROPORCIONAR EL EQUIPAMIENTO Y APOYOS NECESARIOS EL DIA DE LA JORNADA ELECTORAL A LAS MESAS DIRECTIVAS DE CASILLA. LA RESPONSABILIDAD DE CADA PARTE SE ESPECIFICARA EN EL ANEXO TECNICO CORRESPONDIENTE.
+
+EN CASO DE SUSPENSION DEL DESARROLLO DE LA VOTACION POR CAUSA DE FUERZA MAYOR, SE REMITIRA A LO ESTABLECIDO TANTO EN EL ORDENAMIENTO LOCAL COMO EN EL FEDERAL. EN EL SUPUESTO DE EXISTIR UNA CONTROVERSIA, PREVALECERA LA LEY QUE CORRESPONDA A CADA ELECCION.
+
+EL DIA DE LA JORNADA ELECTORAL LAS MESAS DIRECTIVAS DE CASILLA RECIBIRAN Y TRAMITARAN CUALQUIER ESCRITO QUE PRESENTEN LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS EN LA FORMA Y TERMINOS QUE SEÑALAN LAS RESPECTIVAS LEGISLACIONES ELECTORALES, Y LOS REMITIRAN AL ORGANISMO ELECTORAL CORRESPONDIENTE.
+
+EL COMPUTO Y LA PUBLICACION DE RESULTADOS EN EL EXTERIOR DE LA CASILLA SE REALIZARA CONFORME A LAS LEGISLACIONES ELECTORALES RESPECTIVAS.
+
+EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS ACORDARAN LOS MECANISMOS DE COORDINACION PARA REALIZAR EL REGISTRO DE OBSERVADORES ELECTORALES, ASI COMO LOS SISTEMAS DE INTERCAMBIO DE INFORMACION ENTRE AMBAS AUTORIDADES, EN LA FORMA Y TERMINOS ESTABLECIDOS EN LAS LEGISLACIONES RESPECTIVAS.
+
+EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS PROMOVERAN LA FIRMA DE ACUERDOS ENTRE LA AUTORIDAD ELECTORAL FEDERAL, LA AUTORIDAD ELECTORAL ESTATAL Y LAS INSTANCIAS DE GOBIERNO COMPETENTES, PARA LA DETERMINACION DE LOS LUGARES DE USO COMUN PARA LA FIJACION DE LA PROPAGANDA DE LOS PARTIDOS POLITICOS.
 ##### V. EN LO RELATIVO A CAPACITACION ELECTORAL:
 LOS CONVENIOS DE APOYO Y COLABORACION QUE CELEBRE EL INSTITUTO FEDERAL ELECTORAL CON LOS ORGANISMOS  ELECTORALES  DE  LAS ENTIDADES FEDERATIVAS DEBERAN  ATENERSE  A LOS SIGUIENTES CRITERIOS GENERALES: EN MATERIA DE DIFUSION DE LA PROMOCION DE LA PARTICIPACION CIUDADANA, EL INSTITUTO FEDERAL ELECTORAL  PONDRA  A  LA  DISPOSICION  DE  LOS  ORGANISMOS  ELECTORALES  DE  LAS  ENTIDADES
 
@@ -1305,10 +1414,37 @@ Martes 12 de noviembre de 2002 DIARIO OFICIAL (Primera Sección)     34
 
 FEDERATIVAS LOS MATERIALES QUE GENERE, A FIN DE QUE PUEDAN SER ADAPTADOS POR ESTOS PARA INCLUIR SU LOGO INSTITUCIONAL Y LA MATERIA LOCAL ELECTORAL. EL INSTITUTO FEDERAL ELECTORAL Y LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS  ACORDARAN  EL  APOYO  ADMINISTRATIVO  QUE  SE  ENTREGARA  EL  DIA  DE  LA  JORNADA ELECTORAL A LOS FUNCIONARIOS DE MESAS DIRECTIVA DE CASILLA, Y PROCURARAN QUE ESTOS SEAN DEL MISMO MONTO. EN  CASO  DE  QUE  SE  ACUERDE  LA  INSTALACION  DE  UNA  SOLA  MESA  DIRECTIVA  DE  CASILLA  PARA RECIBIR LA VOTACION  DE  LAS ELECCIONES  FEDERAL  Y  LOCAL,  LOS  CONVENIOS  DE  APOYO  Y
 
-- COLABORACION DEBERAN CUMPLIR CON LO SIGUIENTE: a) LOS METODOS Y MATERIALES DIDACTICOS PARA LA CAPACITACION ELECTORAL EN MATERIA FEDERAL Y LOCAL SERAN ELABORADOS CONJUNTAMENTE. b) EL COSTO QUE RESULTE DE LA PRODUCCION DE LOS MATERIALES DIDACTICOS ELABORADOS  CONJUNTAMENTE  PARA  LA  CAPACITACION  ELECTORAL  A  LOS  CIUDADANOS QUE PARTICIPARAN COMO FUNCIONARIOS DE MESAS DIRECTIVAS DE CASILLA SE CUBRIRA EN PARTES IGUALES POR EL INSTITUTO FEDERAL ELECTORAL Y EL ORGANISMO ELECTORAL DE LA ENTIDAD FEDERATIVA CORRESPONDIENTE. c) SE  PROCURARA  CONTRATAR  A  UN  SOLO  GRUPO  DE  CAPACITADORES  QUE  SERAN  LOS RESPONSABLES DE IMPARTIR LA CAPACITACION FEDERAL Y LOCAL. d) LA CONVOCATORIA PARA RECLUTAR, SELECCIONAR Y CONTRATAR A LOS CAPACITADORES ELECTORALES SE EMITIRA DE MANERA CONJUNTA. e) SE PROCURARA QUE LA CAPACITACION A LOS CIUDADANOS INSACULADOS QUE PARTICIPARAN COMO FUNCIONARIOS DE MESAS DIRECTIVAS DE CASILLA COMUN SE REALICE POR UN SOLO CAPACITADOR. EN CASO DE QUE ESTO NO SEA POSIBLE, SE PROMOVERA QUE LA CAPACITACION SEA REALIZADA POR DOS CAPACITADORES EN UNA VISITA SIMULTANEA AL CIUDADANO, EN LA CUAL UNO IMPARTIRA LO RELATIVO A LA ELECCION FEDERAL Y EL OTRO A LA ELECCION LOCAL. f) EL INSTITUTO FEDERAL ELECTORAL REALIZARA LA INSACULACION DE LOS CIUDADANOS QUE PARTICIPARAN COMO FUNCIONARIOS DE MESAS DIRECTIVAS DE CASILLA COMUN. g) LOS FORMATOS DE CARTAS-NOTIFICACION QUE SE ENTREGARAN A LOS CIUDADANOS QUE RESULTEN INSACULADOS, LOS FORMATOS DE NOMBRAMIENTO DE FUNCIONARIOS DE MESAS DIRECTIVAS  DE  CASILLA,  ASI  COMO  OTROS  MATERIALES  DE  CAPACITACION  QUE  LO AMERITEN DEBERAN CONTENER LOS LOGOTIPOS DE AMBOS ORGANISMOS ELECTORALES. h) ATENDIENDO A LOS PRINCIPIOS DE LEGALIDAD, OBJETIVIDAD, TRANSPARENCIA, ASI COMO AL CRITERIO DE ALEATORIDAD, EL NUMERO DE INTEGRANTES DE LAS MESAS DIRECTIVAS DE CASILLA COMUN  SE  DETERMINARA  CON  BASE  EN  EL OBJETIVO DE OPTIMIZAR EL FUNCIONAMIENTO DE CADA CASILLA. EN CASO DE QUE SE ADOPTE LA MODALIDAD DE INSTALAR DOS MESAS DIRECTIVAS DE CASILLA EN UN MISMO LUGAR PARA RECIBIR LA VOTACION DE LAS ELECCIONES FEDERAL Y LOCAL, LOS CONVENIOS DE APOYO Y COLABORACION DEBERAN CUMPLIR CON LO SIGUIENTE: a) POR  LO  QUE  SE  REFIERE  AL  SORTEO  DEL  MES  CALENDARIO  QUE  SE  APLICA  PARA  LA INSACULACION  DE  CIUDADANOS  QUE  INTEGRARAN  LAS  MESAS  DIRECTIVAS  DE  CASILLA, AMBAS  INSTANCIAS  ACORDARAN  QUE  ENTRE  LOS  MESES  SORTEADOS  EXISTA  UNA DIFERENCIA DE AL MENOS SEIS MESES. b) ACORDAR LA ELABORACION CONJUNTA DE UNA GUIA EXPLICATIVA PARA FUNCIONARIOS DE CASILLA Y MATERIALES DE APOYO DIRIGIDOS A LOS ELECTORES SOBRE LA INTEGRACION Y FUNCIONAMIENTO DE LAS MESAS DIRECTIVAS DE CASILLA. c) CADA AUTORIDAD ELECTORAL SERA RESPONSABLE DE LAS MODALIDADES, METODOLOGIA Y MATERIALES MEDIANTE LOS CUALES SE IMPARTIRA LA CAPACITACION ELECTORAL. d) CADA AUTORIDAD ELECTORAL DESIGNARA DE FORMA INDEPENDIENTE A SUS CAPACITADORES. LA ELABORACION DE LA DOCUMENTACION ELECTORAL SERA RESPONSABILIDAD DE CADA ORGANISMO DEMAS
+COLABORACION DEBERAN CUMPLIR CON LO SIGUIENTE:
+
+a) LOS METODOS Y MATERIALES DIDACTICOS PARA LA CAPACITACION ELECTORAL EN MATERIA FEDERAL Y LOCAL SERAN ELABORADOS CONJUNTAMENTE.
+
+b) EL COSTO QUE RESULTE DE LA PRODUCCION DE LOS MATERIALES DIDACTICOS ELABORADOS CONJUNTAMENTE PARA LA CAPACITACION ELECTORAL A LOS CIUDADANOS QUE PARTICIPARAN COMO FUNCIONARIOS DE MESAS DIRECTIVAS DE CASILLA SE CUBRIRA EN PARTES IGUALES POR EL INSTITUTO FEDERAL ELECTORAL Y EL ORGANISMO ELECTORAL DE LA ENTIDAD FEDERATIVA CORRESPONDIENTE.
+
+c) SE PROCURARA CONTRATAR A UN SOLO GRUPO DE CAPACITADORES QUE SERAN LOS RESPONSABLES DE IMPARTIR LA CAPACITACION FEDERAL Y LOCAL.
+
+d) LA CONVOCATORIA PARA RECLUTAR, SELECCIONAR Y CONTRATAR A LOS CAPACITADORES ELECTORALES SE EMITIRA DE MANERA CONJUNTA.
+
+e) SE PROCURARA QUE LA CAPACITACION A LOS CIUDADANOS INSACULADOS QUE PARTICIPARAN COMO FUNCIONARIOS DE MESAS DIRECTIVAS DE CASILLA COMUN SE REALICE POR UN SOLO CAPACITADOR. EN CASO DE QUE ESTO NO SEA POSIBLE, SE PROMOVERA QUE LA CAPACITACION SEA REALIZADA POR DOS CAPACITADORES EN UNA VISITA SIMULTANEA AL CIUDADANO, EN LA CUAL UNO IMPARTIRA LO RELATIVO A LA ELECCION FEDERAL Y EL OTRO A LA ELECCION LOCAL.
+
+f) EL INSTITUTO FEDERAL ELECTORAL REALIZARA LA INSACULACION DE LOS CIUDADANOS QUE PARTICIPARAN COMO FUNCIONARIOS DE MESAS DIRECTIVAS DE CASILLA COMUN.
+
+g) LOS FORMATOS DE CARTAS-NOTIFICACION QUE SE ENTREGARAN A LOS CIUDADANOS QUE RESULTEN INSACULADOS, LOS FORMATOS DE NOMBRAMIENTO DE FUNCIONARIOS DE MESAS DIRECTIVAS DE CASILLA, ASI COMO OTROS MATERIALES DE CAPACITACION QUE LO AMERITEN DEBERAN CONTENER LOS LOGOTIPOS DE AMBOS ORGANISMOS ELECTORALES.
+
+h) ATENDIENDO A LOS PRINCIPIOS DE LEGALIDAD, OBJETIVIDAD, TRANSPARENCIA, ASI COMO AL CRITERIO DE ALEATORIDAD, EL NUMERO DE INTEGRANTES DE LAS MESAS DIRECTIVAS DE CASILLA COMUN SE DETERMINARA CON BASE EN EL OBJETIVO DE OPTIMIZAR EL FUNCIONAMIENTO DE CADA CASILLA.
+
+EN CASO DE QUE SE ADOPTE LA MODALIDAD DE INSTALAR DOS MESAS DIRECTIVAS DE CASILLA EN UN MISMO LUGAR PARA RECIBIR LA VOTACION DE LAS ELECCIONES FEDERAL Y LOCAL, LOS CONVENIOS DE APOYO Y COLABORACION DEBERAN CUMPLIR CON LO SIGUIENTE:
+
+a) POR LO QUE SE REFIERE AL SORTEO DEL MES CALENDARIO QUE SE APLICA PARA LA INSACULACION DE CIUDADANOS QUE INTEGRARAN LAS MESAS DIRECTIVAS DE CASILLA, AMBAS INSTANCIAS ACORDARAN QUE ENTRE LOS MESES SORTEADOS EXISTA UNA DIFERENCIA DE AL MENOS SEIS MESES.
+
+b) ACORDAR LA ELABORACION CONJUNTA DE UNA GUIA EXPLICATIVA PARA FUNCIONARIOS DE CASILLA Y MATERIALES DE APOYO DIRIGIDOS A LOS ELECTORES SOBRE LA INTEGRACION Y FUNCIONAMIENTO DE LAS MESAS DIRECTIVAS DE CASILLA.
+
+c) CADA AUTORIDAD ELECTORAL SERA RESPONSABLE DE LAS MODALIDADES, METODOLOGIA Y MATERIALES MEDIANTE LOS CUALES SE IMPARTIRA LA CAPACITACION ELECTORAL.
+
+d) CADA AUTORIDAD ELECTORAL DESIGNARA DE FORMA INDEPENDIENTE A SUS CAPACITADORES.
 
 ##### VI. POR LO QUE CORRESPONDE A LA DOCUMENTACION Y MATERIALES ELECTORALES:
-ELECTORAL, PROCURANDO QUE LOS MODELOS DE BOLETAS, ACTAS, FORMATOS Y DOCUMENTACION  ELECTORAL  QUE  LE  CORRESPONDA  APROBAR  Y  EDITAR  AL  ORGANISMO  ELECTORAL
+
+LA ELABORACION DE LA DOCUMENTACION ELECTORAL SERA RESPONSABILIDAD DE CADA ORGANISMO ELECTORAL, PROCURANDO QUE LOS MODELOS DE BOLETAS, ACTAS, FORMATOS Y DEMAS DOCUMENTACION ELECTORAL QUE LE CORRESPONDA APROBAR Y EDITAR AL ORGANISMO ELECTORAL
 
 [[END OF PAGE 34]]
 
