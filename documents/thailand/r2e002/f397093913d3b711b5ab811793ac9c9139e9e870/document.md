@@ -1,12 +1,8 @@
 [[START OF PAGE 1]]
 
-19
-
-Vol. 125,  Part 41a, Government Gazette, dated 3 rd  March B.E. 2551 (2008)
-
 # Promotion of Non-Formal and Informal Education Act, B.E. 2551 (2008)
 
-Ministry of Educatiom
+Ministry of Education
 
 [[END OF PAGE 1]]
 
@@ -241,7 +237,7 @@ Vol. 125,  Part 41a, Government Gazette, dated 3 rd  March B.E. 2551 (2008)
 ## Section 15.
 There shall be a Provincial Committee for Promotion of Non-Formal and Informal Education in every province, as follows:
 
-(1) in Bangkok, there shall be a Bangkok Committee for Promotion of Non-Formal and Informal Education, comprising the Governor of Bangkok Metropolis as chairperson, Permanent Secretary of the Bangkok Metropolitan Administration, Secretary-General of the ONIE, a representative of the Ministry of Social Development and Human Security, a representative  of  the  Ministry  of  Interior,  a  representative  of  the Ministry of Labour, a representative of the Ministry of Public Health and eight qualified persons appointed by the Minister as members, of which no fewer than five persons must be appointed from persons engaged in private sector work relating to nonformal and informal education, and the Director of the Bangkok Office of the Non-Formal and Informal Education shall be a member and secretary;
+(1) in Bangkok, there shall be a Bangkok Committee for Promotion of Non-Formal and Informal Education, comprising the Governor of Bangkok Metropolis as chairperson, Permanent Secretary of the Bangkok Metropolitan Administration, Secretary-General of the ONIE, a representative of the Ministry of Social Development and Human Security, a representative of the Ministry of Interior, a representative of the Ministry of Labour, a representative of the Ministry of Public Health and eight qualified persons appointed by the Minister as members, of which no fewer than five persons must be appointed from persons engaged in private sector work relating to non-formal and informal education, and the Director of the Bangkok Office of the Non-Formal and Informal Education shall be a member and secretary;
 
 (2) in other provinces, there shall be a Provincial Committee for Promotion of Non-Formal and Informal Education, comprising the Provincial Governor as chairperson, Provincial Permanent Secretary, Provincial Agricultural Official, Provincial Public Health Official, Provincial Labour Official, Provincial Social Development and Human Security Official, Chairperson of the Provincial  Administrative Organization and eight qualified persons appointed by the Minister, of which no fewer than five persons must be appointed from persons engaged in private sector work relating to non-formal and informal education in the province area, and the Director of the Provincial Office of the Non-Formal and Informal Education shall be a member and secretary.
 
@@ -267,7 +263,7 @@ The Bangkok Committee for Promotion of Non-Formal and Informal Education and the
 (4) to perform other work as entrusted by the Committee.
 
 ## Section 17.
-There shall be a Provincial Office of the NonFormal and Informal Education in every province, as follows:
+There shall be a Provincial Office of the Non-Formal and Informal Education in every province, as follows:
 
 [[END OF PAGE 12]]
 
@@ -277,9 +273,9 @@ There shall be a Provincial Office of the NonFormal and Informal Education in ev
 
 Vol. 125,  Part 41a, Government Gazette, dated 3 rd  March B.E. 2551 (2008)
 
-(1) in Bangkok, there shall be a Bangkok Office of the Non-Formal and Informal Education, abbreviated as 'Bangkok ONIE', as an agency attached to the Office, and as an educational  agency  under  the  law  on  administration  of  teaching officials and educational personnel, to perform the duties of a secretariat to the Bangkok Committee for Promotion of NonFormal and Informal Education, and shall have the powers and duties of administering the provision of non-formal and informal education in Bangkok;
+(1) in Bangkok, there shall be a Bangkok Office of the Non-Formal and Informal Education, abbreviated as 'Bangkok ONIE', as an agency attached to the Office, and as an educational agency under the law on administration of teaching officials and educational personnel, to perform the duties of a secretariat to the Bangkok Committee for Promotion of Non-Formal and Informal Education, and shall have the powers and duties of administering the provision of non-formal and informal education in Bangkok;
 
-(2) in other provinces, there shall be a Provincial Office of the Non-Formal and Informal Education, abbreviated as 'Provincial ONIE', as an agency attached to the Office, and as an educational agency under the law on administration of teaching officials and educational personnel, to perform the duties of a secretariat to the Provincial Committee for Promotion of NonFormal and Informal Education, and shall have the powers and duties of administering the provision of non-formal and informal education in the province.
+(2) in other provinces, there shall be a Provincial Office of the Non-Formal and Informal Education, abbreviated as 'Provincial ONIE', as an agency attached to the Office, and as an educational agency under the law on administration of teaching officials and educational personnel, to perform the duties of a secretariat to the Provincial Committee for Promotion of Non-Formal and Informal Education, and shall have the powers and duties of administering the provision of non-formal and informal education in the province.
 
 The educational agency under paragraph one shall have a Director as the superior official in charge of teaching officials and educational personnel attached to the Bangkok ONIE or Provincial ONIE, as the case may be, as well as to be the superior official in charge of teaching officials and educational personnel attached to educational establishments in the area of responsibility, and shall hold the status of an educational administrator under the law on administration of teaching officials and educational personnel, as well as be responsible for the performance of official functions by such agency.
 
@@ -352,7 +348,7 @@ The educational establishments under the list published by the Minister under pa
 Vol. 125,  Part 41a, Government Gazette, dated 3 rd  March B.E. 2551 (2008)
 
 ## Section 24.
-The Ministerial Regulations, Ordinances, Rules, Notifications and Orders relating to the provision of nonformal education in force on the day this Act comes into force shall apply mutatis mutandis until Ministerial Regulations, Ordinances, Rules, Regulations and Notifications are issued under this  Act whereby such issuances must be made no later than two years as from the date this Act comes into force.
+The Ministerial Regulations, Ordinances, Rules, Notifications and Orders relating to the provision of non-formal education in force on the day this Act comes into force shall apply mutatis mutandis until Ministerial Regulations, Ordinances, Rules, Regulations and Notifications are issued under this Act whereby such issuances must be made no later than two years as from the date this Act comes into force.
 
 ## Section 25.
 The Minister of Education shall have charge and control of the execution of this  Act and shall have the power to issue Ministerial Regulations and Notifications for the implementation of this Act.
@@ -362,8 +358,6 @@ Such Ministerial Regulations and Notifications shall come into force upon their 
 Countersigned by: Gen. Surayud Chulanont
 
 Prime Minister
-# Note :-
-The  reason  for  promulgating  this Act  is  as  follows. Whereas the law on national education contains principles for the provision of education as lifelong education for the people, and for all sectors of the society to participate in the provision of education, including educational establishments to provide formal, non-formal and informal education, either in one or in all  three  forms,  through a combination of all three forms of education in order to enable the continual development of education and the people's quality of life.  However, due to the lack of laws which support the mechanisms and proceedings relating to the provision of non-formal and informal education, therefore, in order to achieve such guidelines and goals, it is expedient to have a law for promoting and supporting the provision  of  non-formal  and  informal  education  which  is systematic and continuous, with efficient administration and provision of education so as to extend learning opportunities to the people, and with the ability to develop one's quality of life according to individual capacities.  This would create a learning and intellectual  society,  which  would  have  an  effect  in  the development of manpower and the further advancement of the nation.  It is therefore necessary to enact this Act.
 
 [[END OF PAGE 17]]
 
@@ -372,6 +366,9 @@ The  reason  for  promulgating  this Act  is  as  follows. Whereas the law on na
 17
 
 Vol. 125,  Part 41a, Government Gazette, dated 3 rd  March B.E. 2551 (2008)
+
+# Note :-
+The reason for promulgating this Act is as follows. Whereas the law on national education contains principles for the provision of education as lifelong education for the people, and for all sectors of the society to participate in the provision of education, including educational establishments to provide formal, non-formal and informal education, either in one or in all three forms, through a combination of all three forms of education in order to enable the continual development of education and the people's quality of life. However, due to the lack of laws which support the mechanisms and proceedings relating to the provision of non-formal and informal education, therefore, in order to achieve such guidelines and goals, it is expedient to have a law for promoting and supporting the provision of non-formal and informal education which is systematic and continuous, with efficient administration and provision of education so as to extend learning opportunities to the people, and with the ability to develop one's quality of life according to individual capacities. This would create a learning and intellectual society, which would have an effect in the development of manpower and the further advancement of the nation. It is therefore necessary to enact this Act.
 
 [[END OF PAGE 18]]
 
