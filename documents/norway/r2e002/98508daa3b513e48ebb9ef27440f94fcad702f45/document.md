@@ -2,6 +2,9 @@
 
 # Act no. 64 of June 2005 relating to Kindergartens (the Kindergarten Act)
 
+NORWEGIAN MINISTRY
+OF EDUCATION AND RESEARCH
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -12,7 +15,7 @@ Act no. 64 of June 2005 relating to Kindergartens (the Kindergarten Act)
 
 ### Section 1. Purpose
 
-The Kindergarten shall, in collaboration and close understanding with the home, safeguard the children's need for care and play, and promote learning and formation as a basis for an allround development. The Kindergarten shall be based on fundamental values in the Christian and humanist heritage and  tradition, such as respect for human dignity and nature, on intellectual freedom, charity, forgiveness, equality and solidarity, values that also appear  in different religions and beliefs and are rooted in  human rights.
+The Kindergarten shall, in collaboration and close understanding with the home, safeguard the children's need for care and play, and promote learning and formation as a basis for an all-round development. The Kindergarten shall be based on fundamental values in the Christian and humanist heritage and tradition, such as respect for human dignity and nature, on intellectual freedom, charity, forgiveness, equality and solidarity, values that also appear in different religions and beliefs and are rooted in human rights.
 
 The children shall be able to develop their creative zest, sense of wonder and need to investigate. They shall learn to take care of themselves, each other and nature. The children shall develop basic knowledge and skills. They shall have the right to participate in accordance with their age and abilities.
 
@@ -90,11 +93,11 @@ The municipality may decide that there shall be joint coordinating committees fo
 
 Undertakings that have responsibility for children under compulsory school age are obligated to seek approval as a kindergarten when:
 
-- the undertaking operates on a regular basis and one or more children spend more than 20 hours per week there, and
+a) the undertaking operates on a regular basis and one or more children spend more than 20 hours per week there, and
 
-- the number of children who are present at the same time is ten or more when the children are three years old or older, or five or more when the children are less than three years old, as the case may be, and
+b) the number of children who are present at the same time is ten or more when the children are three years old or older, or five or more when the children are less than three years old, as the case may be, and
 
-- the activity is carried out in return for remuneration.
+c) the activity is carried out in return for remuneration.
 
 Undertakings pursuant to the first paragraph must be approved before they commence operating.
 
@@ -108,15 +111,15 @@ The owner of a kindergarten is obligated to give the municipality in which a chi
 
 The owner of a kindergarten shall lay down the statutes of the kindergarten. The statutes shall provide information of significance for the parents'/guardians' relationship to the kindergarten, including
 
-- ownership,
+a) ownership,
 
-- purpose, cf. section 1and 1a,
+b) purpose, cf. section 1and 1a,
 
-- admission criteria
+c) admission criteria
 
-- the number of members in the coordinating committee,
+d) the number of members in the coordinating committee,
 
-- the kindergarten's hours of operation.
+e) the kindergarten's hours of operation.
 
 Approved undertakings shall be registered in the Central Coordinating Register for Legal Entities.
 
@@ -166,7 +169,9 @@ The municipality shall make decisions on applications for approval after assessi
 
 When giving approval, the municipality may set operating conditions as regards the number of children, the age of the children and the amount of time spent at the institution.
 
-The administrative decisions of the municipality may be appealed to the county governor. In force from 1 January 2006.
+The administrative decisions of the municipality may be appealed to the county governor.
+
+In force from 1 January 2006.
 
 ### Section 11. Family kindergartens
 
@@ -204,7 +209,7 @@ Added through the Act of 8 August 2008 No. 73 (in force from 1 January 2009 in a
 
 Children with disabilities shall be entitled to priority for admission to a kindergarten. An expert assessment shall be carried out to determine whether the child has a disability.
 
-Children who are the objects of an administrative decision pursuant to sections 4-12 and 44, second and fourth paragraphs, of the Child Welfare Service Act shall be entitled to priority for admission to a kindergarten.
+Children who are the objects of an administrative decision pursuant to sections 4-12 and 4-4, second and fourth paragraphs, of the Child Welfare Service Act shall be entitled to priority for admission to a kindergarten.
 
 The municipality is responsible for ensuring that children who are entitled to priority are given a place in a kindergarten.
 
@@ -214,7 +219,7 @@ In force from 1 January 2006.
 
 The municipality must provide grants to the regular operation of all approved, non-municipal kindergartens in the municipality, provided the kindergarten has applied for approval before the kindergarten sector becomes subject to block financing.
 
-The municipality may provide grants to kindergartens that apply for approval after the daycare sector becomes subject to block financing.
+The municipality may provide grants to kindergartens that apply for approval after the day-care sector becomes subject to block financing.
 
 Approved non-municipal kindergartens, cf. the first and second subsection, must be given equal treatment with municipal kindergartens as regards public grants. The King in Council may prescribe regulations containing further provisions concerning what is meant by equal treatment.
 
@@ -278,7 +283,9 @@ Persons convicted of sexual abuse of children are barred from employment in kind
 
 The municipality may also require a police certificate pursuant to the first paragraph for other persons who are regularly present in the kindergarten.
 
-The Ministry will lay down supplementary regulations concerning police certificates. In force from 1 January 2006.
+The Ministry will lay down supplementary regulations concerning police certificates.
+
+In force from 1 January 2006.
 
 7
 
@@ -310,7 +317,7 @@ In force from 1 January 2006.
 
 ### Section 23 . Health check-ups for children and staff
 
-Before a child starts to attend a kindergarten, a statement concerning the child's health shall be presented. If the child has attended the local mother-and-child clinic for regular checkups, such statement may be provided by the child's parents/guardians.
+Before a child starts to attend a kindergarten, a statement concerning the child's health shall be presented. If the child has attended the local mother-and-child clinic for regular check-ups, such statement may be provided by the child's parents/guardians.
 
 The kindergarten staff are obliged to undergo check-ups for tuberculosis pursuant to current rules.
 
@@ -356,12 +363,13 @@ The Ministry may lay down regulations containing further provisions regarding tr
 
 [[START OF PAGE 11]]
 
+Published by:
+Norwegian Ministry of Education and Research
+
+Print:
+Norwegian Government Administration Services 01/2012 - 300
+
 MILJØMERKET
-
 Trykkeri 241-446
-
-Published by: Norwegian Ministry of Education and Research
----
-Print: Norwegian Government Administration Services 01/2012 - 300
 
 [[END OF PAGE 11]]
