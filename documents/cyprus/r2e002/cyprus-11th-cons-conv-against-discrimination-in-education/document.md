@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -26,12 +26,12 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
 In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -68,11 +68,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -96,9 +96,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -118,7 +118,7 @@ Dr Ioannis SAVVIDES, Head of International and European Affairs Bureau
 
 Email and telephone number of contact person : +357 22 800 697, isavvides@moec.gov.cy
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -166,7 +166,7 @@ Email and telephone number of contact person : +357 22 800 697, isavvides@moec.g
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
 
@@ -194,7 +194,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 [[END OF PAGE 6]]
 
@@ -218,7 +218,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 The right to education for all children is safeguarded by Article 20 of the Constitution of the Republic of Cyprus. Moreover, the equality of all children enrolled in schools is guaranteed by the legislation.
 
-The regulations for the operation of public secondary schools clearly state that any person or public authority involved in the interpretation or implementation of the regulations  is  obliged  to  refrain  from  ʺany  discrimination  based  on  race,  colour, gender, language, religion, political and other beliefs of the child or his/her parents or guardians, citizenship, ethnic or social origin, economic situation, disability, birth, sexual orientation or any other situationʺ. Thus, any discriminatory attitudes base d on religion or belief are strictly forbidden.
+The regulations for the operation of public secondary schools clearly state that any person or public authority involved in the interpretation or implementation of the regulations is obliged to refrain from ʺany discrimination based on race, colour, gender, language, religion, political and other beliefs of the child or his/her parents or guardians, citizenship, ethnic or social origin, economic situation, disability, birth, sexual orientation or any other situationʺ. Thus, any discriminatory attitudes based on religion or belief are strictly forbidden.
 
 'Access to Higher Education for All' is set as one of the main goals in the Strategic Plan  of  the  Department  of  Higher  Education  (DHE)  of  the  Ministry  of  Education, Sports and Youth (MESY). To achieve this goal, several actions are in place, deriving from  either  the  national  laws/policies  or  the  policies  of  the  Higher  Education Institutions (HEIs), as described in Section 1.2. below.
 
@@ -236,7 +236,7 @@ The  Cyprus  Agency  of  Quality  Assurance  and  Accreditation  in  Higher  Edu
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
-Αny discrimination based on race, colour, gender, language, religion, political and other beliefs of the child or his/her parents or guardians, citizenship, ethnic or social origin, economic situation, disability, birth, sexual orientation or any other situation.
+Any discrimination based on race, colour, gender, language, religion, political and other beliefs of the child or his/her parents or guardians, citizenship, ethnic or social origin, economic situation, disability, birth, sexual orientation or any other situation.
 
  Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
@@ -264,69 +264,71 @@ In this context, and given the ongoing increasing and unpredictable migrant flow
 
 [[START OF PAGE 9]]
 
-Currently, the Ministry offers five different Programs for the teaching of Greek as a second language in secondary schools and in State Institutes for Further Education. Namely, 'The intensive  program  in  transitional  classes  (offered  in  High  schools)', 'T he program for the teaching of Greek as a second language (offered in specific High schools  with  a  small  number  of  students  with  Migrant  background)',  'The Educational  Program  for  Unaccompanied  Minors  /  Applicants  of  International Protection  (offered  in  ly ceums  and  technical  schools)',  'The  programme  for  the intensive  teaching  of  Greek  as  a  second  language  offered  in  lyceums'  and  'The program offered at the State Institutes for Further Education for Unaccompanied Minors  /  Applicants  of  International  Protect ion'.    For  instance,  the  Educational Programme for Unaccompanied Minors / Applicants of International Protection (in operation  both  in  lyceums  and  in  technical  schools)  offers  an  intensive  course  of Greek as a Second Language.
+Currently, the Ministry offers five different Programs for the teaching of Greek as a second language in secondary schools and in State Institutes for Further Education. Namely, 'The intensive program in transitional classes (offered in High schools)', 'The program for the teaching of Greek as a second language (offered in specific High schools with a small number of students with Migrant background)', 'The Educational Program for Unaccompanied Minors / Applicants of International Protection (offered in lyceums and technical schools)', 'The programme for the intensive teaching of Greek as a second language offered in lyceums' and 'The program offered at the State Institutes for Further Education for Unaccompanied Minors / Applicants of International Protection'. For instance, the Educational Programme for Unaccompanied Minors / Applicants of International Protection (in operation both in lyceums and in technical schools) offers an intensive course of Greek as a Second Language.
 
 During the school year 2023-24, the programs operate in 9 schools (5 lyceums and 4 technical  schools)  in  Nicosia,  Limassol  and  Larnaca,  during  the  normal  school hours/timetable (morning sessions, from 7.30 a.m. until 13.35 p.m.). In this program, as  operated in  lyceums,  Greek  with  elements of  History  and  Culture  is  taught  20 periods  per  week,  while  students  also  take  lessons  in  Mathematics  (2  periods), English (4 periods), Computers (2 periods), Design and Technology (3 periods), Arts (2 periods), Physical Education (4 periods).
 
 Due to the ongoing increase of the number of Unaccompanied Minors / Applicants of  International  Protection  and  according  to  the  relevant  Ministers'  Decision  (no. 87.593), an afternoon Educational Program, offering lessons in Greek as a Second Language  and  Mathematics  is  in  operation  at  State  Institutes  of  Training.  This program is offered to students who could not be hosted in the morning programs due to shortage of places in schools (lyceums or technical schools). During the current school year (2023-2024), the Program is offered in Nicosia (Institutes of Acropolis and Kykkos), Larnaca (Institute of Livadia) and Paphos (Institute at Lyceum of Archbishop Makarios the 3rd).
 
-For the operation of the above Programs, the Ministry, as well as the schools that host such programs -stand in close collaboration with the Services of Social Welfare and other partners, in order to resolve any problems that emerge during the school year.
+For the operation of the above Programs, the Ministry, as well as the schools that host such programs – stand in close collaboration with the Services of Social Welfare and other partners, in order to resolve any problems that emerge during the school year.
 
-Furthermore, and in line with the Ministry's applied policies of supporting children of migrant biography as well as according to the basic principle of fighting stereotyping and discrimination against persons based on different national descent, religion or beliefs,  the  Sector  of  Migrant  Biography  further  organises  several  extracurricular activities  in  collaboration  with  Secondary  Schools  and  other  partners'  /  key stakeholders. All these activities are closely related to the primary aim of developing active  and  democratic  citizens  who  are  deeply  aware  of  social  challenges  and sensitive  towards  any  form  of  stigmatization  and  violence.  The  outer  purpose  of these actions is to promote social inclusion and work towards the creation of a better society that is open and welcoming for all its members, regardless their background or personal beliefs. The following activities are not a part of the students' formal curriculum  and  students'  participation  in  them  is  optional.  However,  schools  are encouraged to promote t heir students' participation through regular bulletins and supportive correspondence communicated to them by the Sector.
+Furthermore, and in line with the Ministry's applied policies of supporting children of migrant biography as well as according to the basic principle of fighting stereotyping and discrimination against persons based on different national descent, religion or beliefs, the Sector of Migrant Biography further organises several extracurricular activities in collaboration with Secondary Schools and other partners' / key stakeholders. All these activities are closely related to the primary aim of developing active and democratic citizens who are deeply aware of social challenges and sensitive towards any form of stigmatization and violence. The outer purpose of these actions is to promote social inclusion and work towards the creation of a better society that is open and welcoming for all its members, regardless their background or personal beliefs. The following activities are not a part of the students' formal curriculum and students' participation in them is optional. However, schools are encouraged to promote their students' participation through regular bulletins and supportive correspondence communicated to them by the Sector.
 
 ###### 1) Annual Competition 'Ξένιος Ζευς' (Xenios Zeus)
 
-Taking its name by Zeus, the ancient Greek god of hospitality, this annual competition (now in its third year) aims to encourage students to think about social inclusion, acceptance and the importance of co-operation. The competition is announced in December  every  year  and  results  are  examined  by  specialised  committees  and announced about three months later. Students are usually prompted to work on a project either personally or as a part of a team under the guidance and supervision of one of their teachers and submit their work in about one or two months after the competition call. Students are expected to work on this competition in their free time and create original work on several fields, such as the creating of a song, painting, story or polytropic text. The competition bears a distinctive title every year, usually inspired  by  famous  sayings  regarding  the  importance  of  freedom,  respect  and acceptance. The  competition  is  especially  addressed  to  schools  where  Courses  of Greek as a Second Language are in operation, but it is at the same time open to all students of Secondary Education that would like to reflect on the phenomena of racism and migration in society. To encourage as much participation as possible, the best creations and practices are presented in a special ceremony, where students who have submitted the best projects receive awards and prizes.
+Taking its name by Zeus, the ancient Greek god of hospitality, this annual competition (now in its third year) aims to encourage students to think about social inclusion,
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
-
+acceptance and the importance of co-operation. The competition is announced in December every year and results are examined by specialised committees and announced about three months later. Students are usually prompted to work on a project either personally or as a part of a team under the guidance and supervision of one of their teachers and submit their work in about one or two months after the competition call. Students are expected to work on this competition in their free time and create original work on several fields, such as the creating of a song, painting, story or polytropic text. The competition bears a distinctive title every year, usually inspired by famous sayings regarding the importance of freedom, respect and acceptance. The competition is especially addressed to schools where Courses of Greek as a Second Language are in operation, but it is at the same time open to all students of Secondary Education that would like to reflect on the phenomena of racism and migration in society. To encourage as much participation as possible, the best creations and practices are presented in a special ceremony, where students who have submitted the best projects receive awards and prizes.
 ###### 2) Intercultural Activities Month
 
 As of school year 2023-2024, the Sector of Migrant Biography launched a new series of activities under the general title 'We are all the same. We are all different'. In this context,  the  Sector  determined  a  certain  period  between  January  and  February during which schools were encouraged to organise certain activities beyond formal classes in which students would reflect upon aspects of intercultural relations and social  inclusions.  More  specifically,  under  each  school's  individual  guidelines, students were prompted to collect myths and stories from different countries and organise sessions of storytelling, present literary works from different countries in various  mother  tongues  in  the  framework  of  the  school's  Reading  Club,  create records of traditional recipes, traditions and songs as these are kept by the families, both of Cypriot and migrant descent. The outer aim of this long series of activities was to offer the students' the opportunity to get in touch with several other cultures, understand similarities among people as well as have the opportunity to present aspects of their own culture and thus get their voice heard. Schools were requested to send a short report of the activities that were implemented by their students. A selection of activities by various schools is aimed to be presented at the Intercultural Festival.
 
 ###### 3) Intercultural Festival
 
-Following the Competition and the Month of Intercultural Activities at schools, the Sector of Migrant Biography is planning the organisation of a big-scale Pancyprian Festival  devoted  to  the  promotion  of  intercultural  relations,  co-operation,  social inclusion and anti-racism. The Festival will comprise of two sessions: the Ceremony of  award  giving  to  all  students  that  earned  awards  and  prizes  at  the  Annual Competition 'Ξένιος  Ζευς' (Xenios  Zeus)  and  the  presentation  of  a  selection  of activities  that  the  schools  hosted  during  the  Intercultural  Month.  The  aim  of  this event  is  to  give  the  opportunity  for  more  students  coming  from  various  ethnic backgrounds from all around Cyprus to gather together, learn from each other and present  aspects  of  their  traditions  and  cultures.  At  the  same  time,  through  the recognition of the most interesting and original works that schools have produced towards the aim of social inclusion and interculturalism, the Sector aims to offer a precious opportunity  to  showcase  good  practices of  promoting  collaboration and students' inclusion. This is going to be a one -day event; small groups of students from all secondary schools in Cyprus are eligible to attend. In addition, representatives of of Lifelong Learning Programmes are some of the Members of the two Committees. The programmes that are provided by the various departments of the MESY aim to increase participation of adults in lifelong learning, in both the formal and the nonformal  sector.  Specifically,  the  departments  offer  a  wide  range  of  education  and training opportunities, either free of charge (e.g. evening schools) or at a very low cost, with the aim of fostering personal development and fulfilment or enhancing participants' skills and competences. Additionally, fees are waived for certain social groups,  such  as  pensioners  and  adults  in  rural  areas,  as  is  the  case  with  Adult Education Centres. Finally,  tuition fees  are  reduced or  fully  exempted  for  specific vulnerable groups to ensure broader access to adult education and training.
+Following the Competition and the Month of Intercultural Activities at schools, the Sector of Migrant Biography is planning the organisation of a big-scale Pancyprian Festival devoted to the promotion of intercultural relations, co-operation, social inclusion and anti-racism. The Festival will comprise of two sessions: the Ceremony of award giving to all students that earned awards and prizes at the Annual Competition 'Ξένιος Ζευς' (Xenios Zeus) and the presentation of a selection of activities that the schools hosted during the Intercultural Month. The aim of this event is to give the opportunity for more students coming from various ethnic backgrounds from all around Cyprus to gather together, learn from each other and present aspects of their traditions and cultures. At the same time, through the recognition of the most interesting and original works that schools have produced towards the aim of social inclusion and interculturalism, the Sector aims to offer a precious opportunity to showcase good practices of promoting collaboration and students' inclusion. This is going to be a one-day event; small groups of students from all secondary schools in Cyprus are eligible to attend. In addition, representatives of
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
 departments that collaborate closely with the Sector (e.g. Services of Social Welfare) will be invited to attend.
----
-Further to the above, the Ministry of Education, Sport and Youth offers a variety of educational activities / seminars in order to assist students, educators and overall staff in embracing diversity and social inclusion. In addition, through school network ing and professional 'teacher observing teacher' programs, further professional development is sought.
+
+Further to the above, the Ministry of Education, Sport and Youth offers a variety of educational activities / seminars in order to assist students, educators and overall staff in embracing diversity and social inclusion. In addition, through school networking and professional 'teacher observing teacher' programs, further professional development is sought.
 The Career Counselling and Educational Services (CCES) which operates under the administration of the Secondary General Education of the MESY, focuses on the personal, interpersonal, educational and career development of high school students (Secondary General Education and Secondary Technical and Vocational Education and Training Schools) and other young people. Through the counselling process and the career guidance, school counsellors help students to:
 • adjust to the school environment, set goals and grow personally and academically,
 • develop positive self-esteem and acquire the skills to deal effectively with personal, family and/or interpersonal issues,
 • grow and accept themselves and others,
 • learn and acquire decision making skills and techniques in order to make well informed decisions concerning educational, career and personal choices,
-• identify their individual capabilities, interests and skills - reach self-awareness, • explore different types of careers and gain valuable knowledge about the
+• identify their individual capabilities, interests and skills – reach self-awareness,
+• explore different types of careers and gain valuable knowledge about the modern socio-economic and cultural developments.
 School counsellors offer individual and group counselling and may facilitate other programs such as the School Mediation Program that is a peaceful conflict resolution program which empowers teachers and students to promote fairness and respect in the school community.
 Additionally, school counsellors provide training to students and students trained in peaceful conflict resolution skills, can support their peers in conflict to reach peaceful agreements through a mediation process.
 Furthermore, school counsellors, like all members of school units, follow and implement the MESY's Antiracist Policy.
 All of the above services are offered based on the uniqueness of each person and thus play a significant role in fostering an inclusive environment where diversity is embraced.
 The Department of Secondary Technical and Vocational Education and Training of the MESY offers a wide range of technical and vocational education, initial training, lifelong training programmes and higher vocational education and training to all eligible gymnasium leavers and adults through the following pathways:
 • Secondary Technical and Vocational Education (morning classes)
-• Apprenticeship System of Vocational Education and Training • Post-Secondary Institutes of Vocational Education and Training (Public School of Higher VET)
+• Apprenticeship System of Vocational Education and Training
+• Post-Secondary Institutes of Vocational Education and Training (Public School of Higher VET)
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 • Evening Schools of Technical and Vocational Education (second chance schools)
----
+
 • Lifelong Learning Programmes of Vocational Education and Training (Afternoon and Evening Classes non-formal education).
 The vision of the Department is to ensure an attractive, flexible and high quality Technical and Vocational Education and Training System that is equally accessible to all and can respond to the needs of the economy and society of Cyprus.
-The Department of Higher Education (DHE) systematically collects and analyses data on a longitudinal basis regarding a wide spectrum of variables related to various aspects of Higher Education (such as the synthesis of student population, access and completion, the synthesis of teaching/academic staff, programs of study offered, participation in European University Alliances). In terms of disabilities, the DHE collects data on the type of disability HE students have or on the type of difficulty they face. The DHE provides nine options for the categorization of disabilities/difficulties. The data is collected twice per academic year through Higher E ducation Institutions' (HEI) registries. The ultimate purpose is to provide to DHE the evidence base for both decision and policy making in order to enhance Higher Education in Cyprus.
+The Department of Higher Education (DHE) systematically collects and analyses data on a longitudinal basis regarding a wide spectrum of variables related to various aspects of Higher Education (such as the synthesis of student population, access and completion, the synthesis of teaching/academic staff, programs of study offered, participation in European University Alliances). In terms of disabilities, the DHE collects data on the type of disability HE students have or on the type of difficulty they face. The DHE provides nine options for the categorization of disabilities/difficulties. The data is collected twice per academic year through Higher Education Institutions' (HEI) registries. The ultimate purpose is to provide to DHE the evidence base for both decision and policy making in order to enhance Higher Education in Cyprus.
 At an institutional level, several HEIs have set policies to ensure equality of opportunities. Student support is provided covering the needs of a diverse student population, such as mature, part-time students, students in employment, international students and students with special needs. All HEIs in Cyprus have a Student Welfare Unit which is responsible to address issues related to social dimension. At the same time, some HEIs have established offices dealing with ensuring equality of opportunities. For example, the University of Cyprus has established the Office for Diversity, Equality and Inclusivity which aims to create a fair, safe and pleasant environment, where all students and staff members, within and beyond their multiple identities, will be supported, both in their professional and personal development.
 Finally, the Cyprus Lifelong Learning Strategy (CyLLLS) for the years 2021-2027 is envisioned to provide the long-term strategic framework towards the development of a knowledge-based society, where all citizens are provided with learning opportunities, to develop the knowledge, skills, and attitudes that will facilitate their personal and social growth, professional advancement, social inclusion, resilience, and well-being. In this context, Inclusion and equality is one of its six strategic horizontal pillars and aspires to provide accessible and available lifelong learning opportunities to all citizens so they can develop their skills, participate in society, and succeed in life. Equal treatment and opportunities for lifelong learning are to be provided regardless of social class, gender, ethnicity, religion, disability, age, and sexual orientation. Issues, such as equal and inclusive attainment in early childhood education, provision of alternative pathways to dropouts, upskilling and reskilling of low qualified adults, accessible educational opportunities for persons with disabilities, pathways for re-entering education, or an efficient VET system are of particular importance for the CyLLLS. The CyLLLS 2021-2027 is coordinated by the Ministry of Education, Sport and Youth (MESY) and its work is facilitated by two committees, the National and Technical Committees for lifelong learning which are responsible for the development, supervision, monitoring, and updating of the strategy. Human Resource Development Authority, the Directorate General Growth of the Ministry of Finance, the Youth Board of Cyprus, the Foundation of the Management
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
-
+of Lifelong Learning Programmes are some of the Members of the two Committees. The programmes that are provided by the various departments of the MESY aim to increase participation of adults in lifelong learning, in both the formal and the non-formal sector. Specifically, the departments offer a wide range of education and training opportunities, either free of charge (e.g. evening schools) or at a very low cost, with the aim of fostering personal development and fulfilment or enhancing participants' skills and competences. Additionally, fees are waived for certain social groups, such as pensioners and adults in rural areas, as is the case with Adult Education Centres. Finally, tuition fees are reduced or fully exempted for specific vulnerable groups to ensure broader access to adult education and training.
  Combatting discrimination in terms of curriculum:
 
  In pre-primary education (including early learning and care)
@@ -355,13 +357,13 @@ Religious education in public schools is not taught in the form of indoctrinatio
 
 [[START OF PAGE 14]]
 
-The Department of Higher Education (DHE) of the MESY is not involved in the design of  the  curricula  of  the  programmes  of  study  offered  by  the  Higher  Education Institution's  (HEI ).  Although,  a  recent  mapping  of  the  courses  on  human  rights offered  and  the  available  personnel  with  expertise  in  human  rights  education undertaken by the DHE, showed that the HEIs offer specific courses/programmes for human rights. Also, they have personnel with expertise in related subjects.
+The Department of Higher Education (DHE) of the MESY is not involved in the design of the curricula of the programmes of study offered by the Higher Education Institution's (HEI). Although, a recent mapping of the courses on human rights offered and the available personnel with expertise in human rights education undertaken by the DHE, showed that the HEIs offer specific courses/programmes for human rights. Also, they have personnel with expertise in related subjects.
 
  Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
 Equal access to education and elimination of discrimination is one of the main goals set by the Ministry of Education, Sport and Youth (MESY).
 
-##### Pupils/ students with disabilities
+##### 1) Pupils/ students with disabilities
 
 According to the Special Education Legislation, the District Committees for Special Education decide on provisions and / or any other accommodations in order to assist children with special needs who attend public schools.
 
@@ -369,9 +371,9 @@ Children  with  special  needs,  who  attend  mainstream  class  in  public  sch
 
 In Secondary Education, support is provided by teachers of the mainstream class. Additionally, pupils with special needs receive modifications, such as extra completion time, exemption from spelling mistakes, and so on.
 
-Furthermore, c hildren who attend Special Units are enrolled on the school's registry. Pupils, who attend Special Units in Primary and Secondary Education, participate in activities and lessons of the mainstream class, based on their capabilities and individual needs. Pupils, who attend the Lyceum Special Units, have a three-day class programme in their school unit and a two-day pre-vocational training programme at selected workplaces. A special programme on Hotel and Catering runs in Secondary Technical and Vocational Education and Training. In Secondary Education, pupils who attend Special Units receive a "Certificate of Attendance".
+Furthermore, children who attend Special Units are enrolled on the school's registry. Pupils, who attend Special Units in Primary and Secondary Education, participate in activities and lessons of the mainstream class, based on their capabilities and individual needs. Pupils, who attend the Lyceum Special Units, have a three-day class programme in their school unit and a two-day pre-vocational training programme at selected workplaces. A special programme on Hotel and Catering runs in Secondary Technical and Vocational Education and Training. In Secondary Education, pupils who attend Special Units receive a "Certificate of Attendance".
 
-##### Pupils/ students from poor households
+##### 2) Pupils/ students from poor households
 
 The Ministry provides breakfast during the school year to public school pupils from all levels of education who need help, as well as to the pupils participating in the New Modern Apprenticeship Programme.
 
@@ -379,23 +381,23 @@ The aim of this Programme is to secure that children from disadvantaged families
 
 The children eligible  to  participate  in  the  programme  are selected  based  on  financial  and  social criteria,  such  as  the  following:  -  families  who  receive  the  Guaranteed  Minimum  Income,  - unemployed parents, - orphans, - single parent families, - multi-child families (families over three children), and - families with an especially inadequate income due to other reasons.
 
-The Ministry acknowledges the necessity of introduction and use of ICT in Education. Thus, showing particular sensitivity in supporting needy students, the MESY grants the amount of  €400  for the purchase  of  a  laptop  for  students  attending  the  2 nd grade  of  public  Gymnasiums  and  private Secondary Schools (approved by the Ministry), and students attending the Preparatory class of the Evening Gymnasiums-Lyceums, whose families according to which receive a Municipal Law on Public Aid  and  Services  or  the  Minimum  Guaranteed  Income  or  they  themselves  receive  a  Minimum Guaranteed Income or Public Aid in accordance with the Law on Public Aid and Services.
+The Ministry acknowledges the necessity of introduction and use of ICT in Education. Thus, showing particular sensitivity in supporting needy students, the MESY grants the amount of €400 for the purchase of a laptop for students attending the 2nd grade of public Gymnasiums and private Secondary Schools (approved by the Ministry), and students attending the Preparatory class of the Evening Gymnasiums-Lyceums, whose families according to which receive a Municipal Law on Public Aid and Services or the Minimum Guaranteed Income or they themselves receive a Minimum Guaranteed Income or Public Aid in accordance with the Law on Public Aid and Services.
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-##### Pupils belonging to national minorities/religious groups according to the Cyprus Constitution
+##### 3) Pupils belonging to national minorities/religious groups according to the Cyprus Constitution
 
-For the Republic of Cyprus the term 'national minorities' designates only those minority -groups which had a traditional presence on the island at the time of the establishment of the Republic of Cyprus in 1960 and hold the Cypriot citizenship. Thus, 'religious groups', as defined in article 2(3) of the Constitution, are treaded as national minorities.
+For the Republic of Cyprus the term 'national minorities' designates only those minority-groups which had a traditional presence on the island at the time of the establishment of the Republic of Cyprus in 1960 and hold the Cypriot citizenship. Thus, 'religious groups', as defined in article 2(3) of the Constitution, are treaded as national minorities.
 
 The MESY that has an earmarked budget specifically for the support of the educational needs of the three  religious  groups.  There  is  a  different  degree  of  autonomy  in  educational  issues  and  each religious group has its own schools based on their needs and goals.
 
-The  educational  needs  of  the  Armenians  are  mainly  supported  though  the  operation  of  the Armenian Nareg Schools that are fully subsidized by the MESY. Armenian Nareg Schools are public schools that follow a differentiate program since the Armenian language, history, geography and religion are taught. Τhe Armenian Nareg schools promote the Armenian identity in extra -curricular activities, such as, the offering of Armenian dance and music lessons. It must be noted that MESY also subsidizes the tuition fees of Armenian children that choose to be enrolled in private schools. Furthermore, the MESY has as a different budget for the operation of the Armenian School Board.
+The educational needs of the Armenians are mainly supported though the operation of the Armenian Nareg Schools that are fully subsidized by the MESY. Armenian Nareg Schools are public schools that follow a differentiate program since the Armenian language, history, geography and religion are taught. The Armenian Nareg schools promote the Armenian identity in extra-curricular activities, such as, the offering of Armenian dance and music lessons. It must be noted that MESY also subsidizes the tuition fees of Armenian children that choose to be enrolled in private schools. Furthermore, the MESY has as a different budget for the operation of the Armenian School Board.
 
-The educational needs of the Maronites are supported in 'Agios Maronas' Pre-Primary and Primary School and are fully subsidized by the MESY. ' Agios Maronas ' Pre-Primary and Primary School, is a public school with a high attendance of pupils that belong to the Maronite religious group. The school  follows  the  existing  curriculum  of  public  schools  that  includes  specific  attainment  and adequacy indicators in all subjects. At the same time, the curriculum in History, Religious Education and Geography is enriched with content of specific interest to Maronites to cover aspects of the Maronite catholic religion, the history and culture of the Maronite community, for grades 1-6. Based on  the  enriched  curriculum  new  teaching  material  was  developed  that  covers  aspects  of  the Maronite catholic religion, history , geography, and culture. Τhe M ESY has as a different budget for the operation of the Maronite School Board and subsidizes the transportation of Maronite children to the school.
+The educational needs of the Maronites are supported in 'Agios Maronas' Pre-Primary and Primary School and are fully subsidized by the MESY. 'Agios Maronas' Pre-Primary and Primary School, is a public school with a high attendance of pupils that belong to the Maronite religious group. The school follows the existing curriculum of public schools that includes specific attainment and adequacy indicators in all subjects. At the same time, the curriculum in History, Religious Education and Geography is enriched with content of specific interest to Maronites to cover aspects of the Maronite catholic religion, the history and culture of the Maronite community, for grades 1-6. Based on the enriched curriculum new teaching material was developed that covers aspects of the Maronite catholic religion, history, geography, and culture. The MESY has as a different budget for the operation of the Maronite School Board and subsidizes the transportation of Maronite children to the school.
 
-##### Turkish Cypriot/Roma pupils
+##### 4) Turkish Cypriot/Roma pupils
 
 The department of Secondary Education is implementing various measures to ensure access to education  for  Roma  students.  More  specifically,  the  following  are  implemented  in  a  secondary school where a number of Roma pupils is enrolled:
 
@@ -429,11 +431,11 @@ The department of Secondary Education is implementing various measures to ensure
 
 - In September 2022, pupils produced a short video in Turkish, describing, what they aspire for 2045. The video was produced following an initiative of the President of the 76th session of  the  General  Assembly of  the  United  Nations, with  the  name  "Voices  of  Youth  -  Time Capsule". The collection of recordings after an initial period of screening will be sealed in physical and virtual formats and would be unveiled on the 100th anniversary of the founding of the United Nations.
 
-##### Pupils with Migrant Background
+##### 5) Pupils with Migrant Background
 
 As stated above, the MESY has developed and implemented an upgraded educational policy aiming at the smooth integration of pupils with migrant background into the educational system of Cyprus. A policy document was approved by the Minister and the departments have developed an action plan with a variety of targeted actions, through the prism of an intercultural approach, anti-racist education and the methodology of teaching Greek as a second language.
 
-More specifically,  the  policy  focuses  on  five  priority  areas:  (1)  learning  the  Greek  language;  (2) reception of newly arrived children with migrant background; (3) education and teachers' in -service training;  (4)  data  collection  and  analysis  of  the  needs  of  pupils  with  migrant  background;  (5) intercultural approach in the new curricula.
+More specifically, the policy focuses on five priority areas: (1) learning the Greek language; (2) reception of newly arrived children with migrant background; (3) education and teachers' in-service training; (4) data collection and analysis of the needs of pupils with migrant background; (5) intercultural approach in the new curricula.
 
 #### 1.2 Equality of opportunities and inclusion in education
 
@@ -443,7 +445,7 @@ More specifically,  the  policy  focuses  on  five  priority  areas:  (1)  learn
 
  Legislation provides for inclusive education for all  Multiple and flexible learning pathways 17 are provided for
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 [[END OF PAGE 16]]
 
@@ -457,29 +459,28 @@ More specifically,  the  policy  focuses  on  five  priority  areas:  (1)  learn
 
  Other:
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-Regulations  for  primary  and  secondary  education  include  the  provision  for  inclusive education for all.
-
-The antiracist policy of the Ministry of Education, Sports and Youth (MESY) «Code of Conduct against Racism & Guide for Managing and Recording Racist Incidents» is being implemented with the support of the Cyprus Pedagogical Institute (CPI) since the school year 2014-2015. The  antiracist  policy  was  developed  based  on the  Follow-up  Report  of  Cyprus  for Recommendation  No  20  and  a  recommendation  by  the  Anti-Discrimination  Body.  The development  and  implementation  of  the  policy  responds  to  the  European  Commissio n's against Racism and Intolerance guideline Νο . 10 and is also in line with various international and European conventions that Cyprus has ratified, such as the Convention on the Rights of the  Child,  the  Council  of  Europe's  Recommendation  CM/Rec  (2010)  of  the  Committee  of Ministers  to  member  states,  the  Convention  on  the  Elimination  of  All  Forms  of  Violence Against Women, and the European Social Charter.
-
-Homophobia  and  transphobia  are  specifically  categorized  amongst  the  types  of  racist incidents that may be identified, managed and recorded by schools, based on the antiracist policy. The  policy conceptualizes racism in a broad  manner,  including  all sorts of discrimination. It includes definitions of basic  concepts  which  form  the  theoretical background (e.g. racism, racist incident, discrimination, stereotypes, diversity, etc.), outlines the responsibilities and commitments, expected by each member of the school community, and provides the steps to be followed by schools for dealing with racist incidents in a practical rubric. It provides schools and teachers with a detailed plan on how to deal with and prevent racist  incidents.  As  the  antiracist  views  diversity  as  a  multidimensional  phenomenon, involving various aspects of people's identities, it is expected to contribute to the decrease of bullying and discrimination based on any form of diversity in schools, including religion, beliefs, ethnicity, language, appearance, disability, gender, sexual orientation, etc.
-
-Since 2018, the CPI continues to organize and facilitate a 'School Network for the Support of Antiracist Policy Implementation', which supports teachers from schools of all levels wishing to participate in the network while their school implements the MESY antiracist policy.  Each school year, the network consists of around 30 schools of all levels. Several face to face and online meetings are conducted each year, aiming to empower and train these teachers in relation to the theoretical and practical aspects of the antiracist policy. Specifically, in relation to the conceptualization of racism in a broad manner, including all sorts of discrimination on a  local  and  global  level,  the  definitions  of  basic  concepts  which  form  the  theoretical
-
-> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
-
-> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
  Curricula and teaching methods are inclusive in design 18
 
  Multilingual and intercultural education is supported
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+Regulations for primary and secondary education include the provision for inclusive education for all.
+
+The antiracist policy of the Ministry of Education, Sports and Youth (MESY) «Code of Conduct against Racism & Guide for Managing and Recording Racist Incidents» is being implemented with the support of the Cyprus Pedagogical Institute (CPI) since the school year 2014-2015. The antiracist policy was developed based on the Follow-up Report of Cyprus for Recommendation No 20 and a recommendation by the Anti-Discrimination Body. The development and implementation of the policy responds to the European Commission's against Racism and Intolerance guideline No. 10 and is also in line with various international and European conventions that Cyprus has ratified, such as the Convention on the Rights of the Child, the Council of Europe's Recommendation CM/Rec (2010) of the Committee of Ministers to member states, the Convention on the Elimination of All Forms of Violence Against Women, and the European Social Charter.
+
+Homophobia and transphobia are specifically categorized amongst the types of racist incidents that may be identified, managed and recorded by schools, based on the antiracist policy. The policy conceptualizes racism in a broad manner, including all sorts of discrimination. It includes definitions of basic concepts which form the theoretical background (e.g. racism, racist incident, discrimination, stereotypes, diversity, etc.), outlines the responsibilities and commitments, expected by each member of the school community, and provides the steps to be followed by schools for dealing with racist incidents in a practical rubric. It provides schools and teachers with a detailed plan on how to deal with and prevent racist incidents. As the antiracist views diversity as a multidimensional phenomenon, involving various aspects of people's identities, it is expected to contribute to the decrease of bullying and discrimination based on any form of diversity in schools, including religion, beliefs, ethnicity, language, appearance, disability, gender, sexual orientation, etc.
+
+Since 2018, the CPI continues to organize and facilitate a 'School Network for the Support of Antiracist Policy Implementation', which supports teachers from schools of all levels wishing to participate in the network while their school implements the MESY antiracist policy. Each school year, the network consists of around 30 schools of all levels. Several face to face and online meetings are conducted each year, aiming to empower and train these teachers in relation to the theoretical and practical aspects of the antiracist policy. Specifically, in relation to the conceptualization of racism in a broad manner, including all sorts of discrimination on a local and global level, the definitions of basic concepts which form the theoretical
+
+> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+
+> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-background  (e.g.  racism,  homophobia,  transphobia,  sexism,  antigypsyism,  racist  incident, discrimination, stereotypes, diversity, etc.), the responsibilities and commitments, expected by each member of the school community, and the steps to be followed by schools for dealing with  racist  incidents.  The  theoretical  concept  of  intersectionality  permeates  all  trainings conducted,  as  the  antiracist  policy  views  diversity  as  a  multidimensional  phenomenon, involving  various  aspects  of  people's  identities  and  contri butes  to  the  decrease  of discrimination based on any form of diversity in schools, including religion, beliefs, ethnicity, language, appearance, disability, gender, sexual orientation, etc. In addition to the trainings, every year, the CPI offers support to the Network schools in the following ways:
+background (e.g. racism, homophobia, transphobia, sexism, antigypsyism, racist incident, discrimination, stereotypes, diversity, etc.), the responsibilities and commitments, expected by each member of the school community, and the steps to be followed by schools for dealing with racist incidents. The theoretical concept of intersectionality permeates all trainings conducted, as the antiracist policy views diversity as a multidimensional phenomenon, involving various aspects of people's identities and contributes to the decrease of discrimination based on any form of diversity in schools, including religion, beliefs, ethnicity, language, appearance, disability, gender, sexual orientation, etc. In addition to the trainings, every year, the CPI offers support to the Network schools in the following ways:
 
 - Continuous update of website (presentations, FAQs, supportive material etc)
 
@@ -507,7 +508,7 @@ The CPI also participated in the European project BODI. The project aimed to con
 
 - Development of school's capacity to address cultural diversity, to ensure that children of different  cultural  backgrounds  and  their  parents  are  not  excluded  and  equip  children  for participation in an intercultural society tolerant towards gender diversity. Offer tools and strategies to address sensitive issues such as gender.
 
-- European  transnational  project SAFER  Training  workshop/experiential workshop for the prevention of gender and all forms of violence in schools
+➢ European transnational project SAFER - Training workshop/experiential workshop for the prevention of gender and all forms of violence in schools
 
 [[END OF PAGE 18]]
 
@@ -517,17 +518,17 @@ The CPI and the Department of Primary Education co-organized a training workshop
 
 ➢ Workshop on on piloting the Council of Europe's Descriptors of Competences for Democratic Culture
 
-The CPI, under the guidelines of the Council of Europe (CoE), conducted one of the European workshops on piloting the Council of Europe's Descriptors of Competences for Democratic Culture (CDC) on 13 th February 2017. The training was conducted based on and adapted for the needs of the Cypriot context, from a training guide provided by the CoE, which gives advice  to  education  professionals  on  how  to  organize  training  for  the  piloting  of  the descriptors in the CDC framework. The Council of Europe has been actively promoting human rights and citizenship education for many  years, providing comprehensive  training programmes,  manuals  and  educational  materials  both  in  schools  and  universities  and through youth work and non-formal education. The methods are active and participative. The CDC model is based on four main categories of competence: values; knowledge and critical understanding; attitudes; and skills. Random examples would be valuing other human beings, human dignity and human rights; civic-mindedness; analytical and critical thinking skills; and knowledge and critical understanding of politics, law and human rights.
+The CPI, under the guidelines of the Council of Europe (CoE), conducted one of the European workshops on piloting the Council of Europe's Descriptors of Competences for Democratic Culture (CDC) on 13th February 2017. The training was conducted based on and adapted for the needs of the Cypriot context, from a training guide provided by the CoE, which gives advice to education professionals on how to organize training for the piloting of the descriptors in the CDC framework. The Council of Europe has been actively promoting human rights and citizenship education for many years, providing comprehensive training programmes, manuals and educational materials both in schools and universities and through youth work and non-formal education. The methods are active and participative. The CDC model is based on four main categories of competence: values; knowledge and critical understanding; attitudes; and skills. Random examples would be valuing other human beings, human dignity and human rights; civic-mindedness; analytical and critical thinking skills; and knowledge and critical understanding of politics, law and human rights.
 
-- Erasmus+ Program, EACEA 33/2014 - Key action 3: Support for policy reform Initiatives  for  policy  innovation  'An  innovative  toolkit  for  inclusive  decision making policies iDecide'
+➢ Erasmus+ Program, EACEA 33/2014 - Key action 3: Support for policy reform - Initiatives for policy innovation 'An innovative toolkit for inclusive decision making policies - iDecide'
 
-The Erasmus+ Program, EACEA 33/2014 - Key action 3: Support for policy reform - Initiatives for policy innovation 'An innovative toolkit for inclusive decision making policies -iDecide' (2017-2018,  https://www.idecide-project.eu/)  aimed  to  support  policy  makers,  school principals  and  teachers  in  developing  inclusive  policies  and  practices  in  schools.  In  the application developed in the context of this project, special references are made to people with disabilities or belonging to minorities (e.g. people with mobility, visual, auditory or other disabilities, people with learning or other difficulties, etc.).
+The Erasmus+ Program, EACEA 33/2014 - Key action 3: Support for policy reform - Initiatives for policy innovation 'An innovative toolkit for inclusive decision making policies - iDecide' (2017-2018, https://www.idecide-project.eu/) aimed to support policy makers, school principals and teachers in developing inclusive policies and practices in schools. In the application developed in the context of this project, special references are made to people with disabilities or belonging to minorities (e.g. people with mobility, visual, auditory or other disabilities, people with learning or other difficulties, etc.).
 
 ###### Collaboration with other organizations on issues of Human Rights Education
 
-In terms of antisemitism, the ΜΕSY organizes educational visits in collaboration with the Vad Yashem International School of Holocaust Studies for teachers and students once a year. For the purposes of the programme, the MESY also organizes in Cyprus a special conference for teachers on the pedagogical practices of the Holocaust and a specialized educator gives inservice seminars on the subject both for students and teachers.
+In terms of antisemitism, the MESY organizes educational visits in collaboration with the Vad Yashem International School of Holocaust Studies for teachers and students once a year. For the purposes of the programme, the MESY also organizes in Cyprus a special conference for teachers on the pedagogical practices of the Holocaust and a specialized educator gives in-service seminars on the subject both for students and teachers.
 
-The CPI, in collaboration with the UNHCR Cyprus Office, organised two conference on issues of migration and asylum in education: a) on 25 th November 2017, at the University of Nicosia, titled 'People on the move: pedagogical tools for cultivating empathy for refugee and migrant children', and b) on 3rd November 2018, at the CPI, in Nicosia, titled 'Refugees and Migrants: Pedagogical Approache s'.
+The CPI, in collaboration with the UNHCR Cyprus Office, organised two conference on issues of migration and asylum in education: a) on 25th November 2017, at the University of Nicosia, titled 'People on the move: pedagogical tools for cultivating empathy for refugee and migrant children', and b) on 3rd November 2018, at the CPI, in Nicosia, titled 'Refugees and Migrants: Pedagogical Approaches'.
 
 [[END OF PAGE 19]]
 
@@ -695,7 +696,7 @@ At an institutional level, several HEIs have set policies to ensure equality of 
 
 Although the DHE of MESY is not involved in the design of the curricula of the programmes of study offered by the HEIs, a recent mapping of the courses on human rights offered and the available personnel with expertise in human rights education (undertaken by the DHE) showed that the HEIs offer specific courses/programmes for human rights. Also, they have personnel with expertise in related subjects.
 
-Offering language programmes is another way through which HEIs promote multiculturalism in  Higher  Education.  HEIs  in  Cyprus  offer  courses  in  multiple  languages,  including  Greek, Turkish, and English, to accommodate the linguistic diversity of the student population. Two of the Public Universities, namely UCY and CUT, operate Language Centres. The University of Cyprus also offers programmes, events and activities in Chinese language, culture, arts and business offered by the Confucius Institute, a non-profit organization and a joint venture between the Chinese International Education Foundation, ICY and the Beijing Institute of Education (https://www.ucy.ac.cy/confucius/).
+Offering language programmes is another way through which HEIs promote multiculturalism in Higher Education. HEIs in Cyprus offer courses in multiple languages, including Greek, Turkish, and English, to accommodate the linguistic diversity of the student population. Two of the Public Universities, namely UCY and CUT, operate Language Centres. The University of Cyprus also offers programmes, events and activities in Chinese language, culture, arts and business offered by the Confucius Institute, a non-profit organization and a joint venture between the Chinese International Education Foundation, UCY and the Beijing Institute of Education (https://www.ucy.ac.cy/confucius/).
 
 The Examination Service of the DHE conducts the Examination for the Certification of Greek Language the six levels of the Common European Framework of Reference for Languages of the  Council of Europe, among which levels A2 and B1, necessary  for immigrants living in Cyprus according to the Civil Registry (Amendment) Law of 2023.
 
@@ -749,8 +750,6 @@ The Antiracist Policy School Network, employing an intersectional approach, iden
 
 [[START OF PAGE 24]]
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
  Providing positive or affirmative action measures
 
  Providing financial incentives and fellowships
@@ -761,13 +760,15 @@ The Antiracist Policy School Network, employing an intersectional approach, iden
 
  Other:
 
- Ensuring safe and adequate gender- sensitive sanitation facilities 20
+ Ensuring safe and adequate gender-sensitive sanitation facilities 20
 
  Curricula are rid of all stereotypes 21 and bias
 
  Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
  Ensuring gender parity in technical and vocational training education and training (TVET)
+
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 ###### Policy Statement
 
@@ -789,7 +790,7 @@ The Committee's work and actions includes:
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -809,19 +810,19 @@ The Committee's work and actions includes:
 
 - Preventing and combating violence and delinquency in school and in the family.
 
-Furthermore,  every  year  the  Interdepartmental  Committee,  in  collaboration  with  the 'Gender Equality  Committee  in  Employment  and  Vocational  Training'  launches  a  writing competition related to gender equality for students in primary and secondary education. The competition often asks for written pieces that fit a certain theme or even follow a prompt. For example, the competition launched for the school year 2022-2023 was asking students to write a descriptive text or essay following a certain prompt: 'We env ision a school where all children  are  equally  treated  regardless  of  their  gender,  where  they  are  given  equal opportunities and rights, while they feel protected and free. Describe that school explaining the ways all persons in that school try to make that vision a reality'.
+Furthermore, every year the Interdepartmental Committee, in collaboration with the 'Gender Equality Committee in Employment and Vocational Training' launches a writing competition related to gender equality for students in primary and secondary education. The competition often asks for written pieces that fit a certain theme or even follow a prompt. For example, the competition launched for the school year 2022-2023 was asking students to write a descriptive text or essay following a certain prompt: 'We envision a school where all children are equally treated regardless of their gender, where they are given equal opportunities and rights, while they feel protected and free. Describe that school explaining the ways all persons in that school try to make that vision a reality'.
 
 In addition, representatives of the Interdepartmental Committee for gender equality often participate in several meetings and/or training sessions related to the promotion of gender equality in the educational system as well as in society in general.
 
 The  Interdepartmental  Committee's  work  and  actions  are  made  public  through  the Committee's website, hosted by the Cyprus Pedagogical Institute, in which among others, useful  information  regarding  the  Committee's  actions  as  well  as  teaching  material  for promoting  equal  opportunities  and  gender  mainstreaming  in  the  educational  process  is presented
 
-(https://www.pi.ac.cy/pi/index.php?option=com_content&view=article&id=910&Itemid=38 3&lang=el).
+(https://www.pi.ac.cy/pi/index.php?option=com_content&view=article&id=910&Itemid=383&lang=el).
 
 ###### Ensure effective implementation of the National Action Plan for Gender Equality through the curriculum of various subjects
 
 The establishment of modern educational materials which will include a gender perspective aimed at combating gender stereotypes from an early age, especially by encouraging boys' greater  involvement  in  family  life  and  women's  participation  in  politics/public  life  and develop relationships based on gender equality and mutual respect between the sexes.
 
-One example is that in the Biology book of A' Lyceum (for students aged 15 -16 years old) in Unit 2 'Introduction to the genetic material' a number of references is hosted about the major input of women in science progress. A special reference is also included about the role of Rosaline Frankline in the discovery of the structure of the DNA double helix. Students are encouraged to write project-based reports about the role of women in the development of science from the 17 th century until today in the topic of «Ethics in science».
+One example is that in the Biology book of A' Lyceum (for students aged 15-16 years old) in Unit 2 'Introduction to the genetic material' a number of references is hosted about the major input of women in science progress. A special reference is also included about the role of Rosaline Frankline in the discovery of the structure of the DNA double helix. Students are encouraged to write project-based reports about the role of women in the development of science from the 17th century until today in the topic of «Ethics in science».
 
 ###### Empowering women/empowerment programmes and achieve equality between men and women in all areas
 
@@ -913,7 +914,7 @@ Graduate  Tracking  Mechanism  will  provide  valid  and  reliable  data  to  es
 
 indicators and track progress on various dimensions regarding gender equality.'
 
-The MESY has developed a policy in 2018, which defines the use of a non-sexist language in all  Ministry  documents.  The  policy  is  implemented through  a  guide  called 'Guide  for  the Transcendence  of  Language  Sexism  in  the  Language  of  the  Documents  of  the  Public Admin istration of the Republic of Cyprus'.
+The MESY has developed a policy in 2018, which defines the use of a non-sexist language in all Ministry documents. The policy is implemented through a guide called “Guide for the Transcendence of Language Sexism in the Language of the Documents of the Public Administration of the Republic of Cyprus”.
 
 ###### Promoting gender equality though STEAM education programs
 
@@ -921,10 +922,29 @@ The MESY has developed a policy in 2018, which defines the use of a non-sexist l
 
 [[START OF PAGE 27]]
 
-All students are informed and are encouraged to participate in STEAM activities limitations or stereotypes. More specifically the following actions are • Equal participation of both sexes in Science education activities. • Extension of the inclusion of STEAM education programs in schools with participation of both sexes • Teachers training in STEAM education in order to promote gender equality the activities. • All parents are informed about STEAM education and its benefits for the society • Active participation of both sexes in mixed group STEAM activities • Implementation of STEAM education in the curriculum of primary and schools. • Encourage girls to participate in STEAM fairs and competitions. • Girls are informed and encouraged by school counsellors to choose their occupation without limitations or stereotypes. • Establishing modern STEAM education materials including a gender aimed at combating gender stereotypes from an early age. • Organize several activities in the school unit (debates, dramas, art exhibition, shows) to promote gender equality and inclusion. • Participation in programs promoting gender equality and inclusion for example «The Mediterranean Institute of Gender Studies». • Establishing educational material for teachers to inform about gender equality. • Inspectors and teachers training through seminars about gender equality, education and inclusion. • Organize workshops/ seminars for teachers/ parents and students about equality within the field of national and European programs.
+All students are informed and are encouraged to participate in STEAM activities without limitations or stereotypes. More specifically the following actions are undertaken/promoted:
+• Equal participation of both sexes in Science education activities.
+• Extension of the inclusion of STEAM education programs in schools with equal participation of both sexes
+• Teachers training in STEAM education in order to promote gender equality through the activities.
+• All parents are informed about STEAM education and its benefits for the society
+• Active participation of both sexes in mixed group STEAM activities
+• Implementation of STEAM education in the curriculum of primary and secondary schools.
+• Encourage girls to participate in STEAM fairs and competitions.
+• Girls are informed and encouraged by school counsellors to choose their future occupation without limitations or stereotypes.
+• Establishing modern STEAM education materials including a gender perspective aimed at combating gender stereotypes from an early age.
+• Organize several activities in the school unit (debates, dramas, art exhibition, talent shows) to promote gender equality and inclusion.
+• Participation in programs promoting gender equality and inclusion for example the «The Mediterranean Institute of Gender Studies».
+• Establishing educational material for teachers to inform about gender equality.
+• Inspectors and teachers training through seminars about gender equality, sex education and inclusion.
+• Organize workshops/ seminars for teachers/ parents and students about gender equality within the field of national and European programs.
+
 ###### Sexuality Education
----
-without undertaken/promoted: equal through secondary future perspective talent the sex gender Sexuality Education (SD) is part of the Health Education Curriculum (HEC), which is taught in Primary Education through the Health Education course and in Secondary General Education through the Health Education (Home Economics) course, since 2011 (in Gymnasium and in two grades of the Lyceum as an elective). According to the "Law for Holistic Sexuality Education of 2022" (Law 205(I)/2022) dated December 2, 2022, during the current school year 2023-2024, Sexuality Education is offered to all Lyceum and Technical school students with six (6) teaching periods per school year. The purpose of this Law is to develop a framework for mandatory holistic sexual education,
+
+Sexuality Education (SD) is part of the Health Education Curriculum (HEC), which is taught in Primary Education through the Health Education course and in Secondary General Education through the Health Education (Home Economics) course, since 2011 (in Gymnasium and in two grades of the Lyceum as an elective). According to the “Law for Holistic Sexuality Education of 2022” (Law 205(I)/2022) dated December 2, 2022, during the current school year 2023-2024, Sexuality Education is offered to all Lyceum and Technical school students with six (6) teaching periods per school year.
+
+The purpose of this Law is to develop a framework for mandatory holistic sexual education, through the syllabus in all classes and at all levels of public and private education.
+
+Sexuality education, as included in Health Education, may contribute to the prevention and dealing of social problems such as sexual violence, bullying, unwanted pregnancies in teenagers, homophobia, risky sexual behaviours, HIV/AIDS and other STDs, reproduction of gender stereotypes, violence against women, stigmatization and discrimination of marginalized groups such as LGBT pupils etc. Based on the methodological approach of Health Education, sexuality education is approached in a way that no pupil, from any background, will feel insulted, excluded or uncomfortable during the lesson. On the contrary, each pupil is empowered through their own cultural and ethical framework in order to acquire the skills
 
 [[END OF PAGE 27]]
 
@@ -951,7 +971,7 @@ Moreover, the COSV collects data concerning good practices for the prevention of
 [[START OF PAGE 29]]
 
 In addition, the COSV participates as a partner in the Erasmus+ KA3 project titled "SAFER: SociAl competences and FundamEntal Rights for preventing bullying (including on-line bullying)" (December 2020-November 2023). This project aims to experiment with the innovative method of "Whole School and Community Approach" in preventing and combating bullying.
----
+
 ###### National Action Plan
 Gender equality in education is a major part in the National Action Plan that was created by the collaboration of all ministries in Cyprus. More specifically, there are three actions in this Action Plan which are focusing on these issues:
 1) Enriching the content of curricula with actions that promote empathy, gender equality and prevention of violence against women.
@@ -1006,11 +1026,11 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Teachers are trained to combat stigmatisation 24
 
-- Ö Multilingual and intercultural education are supported
+Ö Multilingual and intercultural education are supported
 
-- Ö Native language instruction is ensured for national minorities
+Ö Native language instruction is ensured for national minorities
 
-- Ö Adapting curricula and teaching and learning methods to their needs for national minorities
+Ö Adapting curricula and teaching and learning methods to their needs for national minorities
 
  Curricula are rid of all stereotypes 25 and bias
 
@@ -1029,8 +1049,6 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
-
-26
 
  Legislation provides for the right to education of indigenous people
 
@@ -1062,7 +1080,7 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-For the Republic of Cyprus the term 'national minorities' designates only those minority -groups which had a traditional presence on the island at the time of the establishment of the Republic of Cyprus in 1960 and hold the Cypriot citizenship. Thus, 'religious groups', as defined in article 2(3) of the Constitution, are treaded as national minorities. Consequently, with the term religious group we refer to Armenians, Maronites and Latins (Roman Catholic) citizens of the Republic of Cyprus who at the time of establishment of the Republic of Cyprus in 1960 opted in accordance with its Constitution to be part of the Greek Community (Article 2, paragraph 3 of the Constitution).
+For the Republic of Cyprus the term 'national minorities' designates only those minority-groups which had a traditional presence on the island at the time of the establishment of the Republic of Cyprus in 1960 and hold the Cypriot citizenship. Thus, 'religious groups', as defined in article 2(3) of the Constitution, are treaded as national minorities. Consequently, with the term religious group we refer to Armenians, Maronites and Latins (Roman Catholic) citizens of the Republic of Cyprus who at the time of establishment of the Republic of Cyprus in 1960 opted in accordance with its Constitution to be part of the Greek Community (Article 2, paragraph 3 of the Constitution).
 
 The right to education for all children is safeguarded by Article 20 of the Constitution of the Republic of Cyprus. Moreover, the equality of all children enrolled in schools is guaranteed by the legislation. The regulations for the operation of public secondary schools clearly state that any person or public authority involved in the interpretation or implementation of the regulations  is  obliged  to  refrain  from  ʺany  discrimination  based on  race,  colour,  gender, language, religion, political and other beliefs of the child or his/her parents or guardians, citizenship, ethnic or social origin, economic situation, disability, birth, sexual orientation or any other situationʺ. Thus, any discriminatory attitudes based on religion or belief are strictly forbidden.
 
@@ -1070,25 +1088,22 @@ The  educational  needs  of  the  three  religious  groups  are  supported  by  
 
 The educational needs of the Armenians are mainly supported though the operation of the Armenian Nareg Schools that are fully subsidized by the MESY. Armenian Nareg Schools are public  schools that  follow a  differentiate  program  since  the  Armenian  language,  history, geography and religion  are  taught.  Τhe  Armenian  Nareg  schools  promote  the  Armenian identity  in  extra-curricular  activities,  such  as,  the  offering  of  Armenian  dance  and  music lessons. Furthermore, the MESY has as a different budget for the operation of the Armenian School Board.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+26 Supra note 15.
+27 Supra note 16.
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
-The educational needs of the Maronites are supported in 'Agios Maronas' Pre -Primary and Primary School that are fully subsidized by the MESY. The 'Agios Maronas' Pre -Primary and Primary  School,  is  a  public  school  with  a  high  attendance  of  pupils  that  belong  to  the Maronite religious group. The MESY subsidizes the transportation of Maronite children to the school.
+The educational needs of the Maronites are supported in 'Agios Maronas' Pre-Primary and Primary School that are fully subsidized by the MESY. The 'Agios Maronas' Pre-Primary and Primary School, is a public school with a high attendance of pupils that belong to the Maronite religious group. The MESY subsidizes the transportation of Maronite children to the school.
 
-Regarding  the  children  belonging  to  the  religious  groups  that  choose  to  attend  private schools, the MESY subsidizes their tuition fees. The subsidization is significantly higher for Maronite and Latin children attending Terra Santa College and St Mary's Sc hool, the private schools that are particularly affiliated with these groups.
+Regarding the children belonging to the religious groups that choose to attend private schools, the MESY subsidizes their tuition fees. The subsidization is significantly higher for Maronite and Latin children attending Terra Santa College and St Mary's School, the private schools that are particularly affiliated with these groups.
 
-The  Republic  of  Cyprus  after  signing  the  European  Charter  for  Regional  or  Minority Languages  recognised  the  Armenian  language  and  Cypriot  Maronite  Arabic  (CMA)  as minority languages of the Republic of Cyprus. To this end, Armenian language is supported in Armenian Nareg Schools and CMA is safeguarded in 'Agios Maronas' Pre -Primary and Primary School, a public school with a high attendance of pupils that belong to the Maronite religious group. The Ministry also supports the organisation of training seminars for teachers of the Armenian language and CMA, as well as the rest of the staff of the Armenian and Maronite schools. Additionally, the MESY subsidizes the purchase and production of books and teaching material for both languages.
+The Republic of Cyprus after signing the European Charter for Regional or Minority Languages recognised the Armenian language and Cypriot Maronite Arabic (CMA) as minority languages of the Republic of Cyprus. To this end, Armenian language is supported in Armenian Nareg Schools and CMA is safeguarded in 'Agios Maronas' Pre-Primary and Primary School, a public school with a high attendance of pupils that belong to the Maronite religious group. The Ministry also supports the organisation of training seminars for teachers of the Armenian language and CMA, as well as the rest of the staff of the Armenian and Maronite schools. Additionally, the MESY subsidizes the purchase and production of books and teaching material for both languages.
 
-Separate teaching periods regarding the history, culture, language, religion and identity of the  three  religious  groups  of  Cyprus  i.e.  national  minorities  are  included  in  the  History subject in secondary education. Ιn particular, the curriculum contains pr oposed activities for the designing of projects by pupils and a list of monuments is included for the organisation of planned visits by the teachers, thus promoting the better understanding of the history of the  religious  groups  in  Cyprus.  Additionally,  the  curriculum  specifically  mentions  that through the teaching of history pupils are expected to develop respect for religious and cultural differences.  Towards  this  end  15  short  videos  were  produced  by  Cyprus Broadcasting Corporation have been uploaded on the website of the MESY. These videos promote the identity and culture of the religious groups and provide overall awareness to the  general  public  about  their  history,  religion,  values  and  contribution  to  the  Cypriot society.
+Separate teaching periods regarding the history, culture, language, religion and identity of the three religious groups of Cyprus i.e. national minorities are included in the History subject in secondary education. Ιn particular, the curriculum contains proposed activities for the designing of projects by pupils and a list of monuments is included for the organisation of planned visits by the teachers, thus promoting the better understanding of the history of the religious groups in Cyprus. Additionally, the curriculum specifically mentions that through the teaching of history pupils are expected to develop respect for religious and cultural differences. Towards this end 15 short videos were produced by Cyprus Broadcasting Corporation have been uploaded on the website of the MESY. These videos promote the identity and culture of the religious groups and provide overall awareness to the general public about their history, religion, values and contribution to the Cypriot society.
 
-Moreover, in 'Agios Maronas' Pre -Primary and Primary School (public school with a high attendance of pupils that belong to the Maronite religious group) the existing curriculum of public schools that includes specific attainment and adequacy indicators in all subjects is followed. At the same time, the curriculum in History, Religious Education and Geography is enriched with content of specific interest to Maronites to cover aspects of the Maronite catholic religion, the history and culture of the Maronite community, for grades 1-6. Based on the enriched curriculum new teaching material was developed that covers aspects of the Maronite catholic religion, history, geography, and culture.
+Moreover, in 'Agios Maronas' Pre-Primary and Primary School (public school with a high attendance of pupils that belong to the Maronite religious group) the existing curriculum of public schools that includes specific attainment and adequacy indicators in all subjects is followed. At the same time, the curriculum in History, Religious Education and Geography is enriched with content of specific interest to Maronites to cover aspects of the Maronite catholic religion, the history and culture of the Maronite community, for grades 1-6. Based on the enriched curriculum new teaching material was developed that covers aspects of the Maronite catholic religion, history, geography, and culture.
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  indigenous  people?  If needed, brief quantitative information may be added.
 
@@ -1136,7 +1151,7 @@ Moreover, in 'Agios Maronas' Pre -Primary and Primary School (public school with
 
 The  Ministry  of  Education,  Sport  and  Youth  (MESY)  has  developed  and  implemented  an upgraded  educational  policy  pertaining  to  Intercultural  Education,  aiming  at  the  smooth integration of pupils/students from diverse ethnic backgrounds into the educational system of Cyprus.
 
-The Policy Paper (2016) was prepared by an Interdepartmental Committee and approved by the Minister of Education. The Policy Paper covers key issues related to the reception and integration of students with migrant backgrounds at the macro-, the meso- and the microlevel. According to the taxonomy suggested in a European Commission Report (NESSE, 2008) the macro-level refers to the society and the educational system and thus to the formulation of the educational policy expressed in the policy paper, the meso-level focuses on the school and the interaction between the individual and society in the school context and the microlevel  refers  to  the  school  classroom  and  the  interaction  and  relations  between  teachers, students, and parents. Through the Policy Paper the Ministry declares its commitment to the smooth integration of pupils with a migrant background into the Cyprus educational system. It actually provides a framework for every action and activity which falls within the Cyprus educational  system  in  respect  to  the  issue  of  the  integration  of  pupils  with  migrant backgrounds. The policy focuses on five priority areas: (1) learning the Greek language, (2) reception of newly arrived children with migrant backgroun d, (3) education and teachers' in -service training, (4) data collection and analysis of the needs of pupils/students with a migrant background and (5) intercultural approach in the new curricula. The document also describes the current state of affairs regarding the integration of children with migrant backgrounds in the Cyprus Educational System as well as the teaching of Greek as a second language. Based on  the  Policy  Paper  action  plans  have  been  developed  and  implemented  covering  the different pillars of the policy paper. In addition to that, in cooperation with the European Commission Directorate on Education a peer counseling event took place in March 2019. The final report submitted in July 2019 consisted of 21 recommendations. The recommendations focus mainly on the reception phase per se, for supporting all significant others in the school role set of migrant students. There were also recommendations for the schools as institutions seeking autonomy and flexibility, the policy-makers and the anti-racist policy.
+The Policy Paper (2016) was prepared by an Interdepartmental Committee and approved by the Minister of Education. The Policy Paper covers key issues related to the reception and integration of students with migrant backgrounds at the macro-, the meso- and the micro-level. According to the taxonomy suggested in a European Commission Report (NESSE, 2008) the macro-level refers to the society and the educational system and thus to the formulation of the educational policy expressed in the policy paper, the meso-level focuses on the school and the interaction between the individual and society in the school context and the micro-level refers to the school classroom and the interaction and relations between teachers,
 
 > 28 ' Trapped  populations  are  those  who  are  unable  to  migrate  to  safe  locations  and  remain  trapped  in  locations vulnerable to the impacts of climate hazards' ( UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
 
@@ -1151,6 +1166,8 @@ The Policy Paper (2016) was prepared by an Interdepartmental Committee and appro
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+students, and parents. Through the Policy Paper the Ministry declares its commitment to the smooth integration of pupils with a migrant background into the Cyprus educational system. It actually provides a framework for every action and activity which falls within the Cyprus educational system in respect to the issue of the integration of pupils with migrant backgrounds. The policy focuses on five priority areas: (1) learning the Greek language, (2) reception of newly arrived children with migrant background, (3) education and teachers' in-service training, (4) data collection and analysis of the needs of pupils/students with a migrant background and (5) intercultural approach in the new curricula. The document also describes the current state of affairs regarding the integration of children with migrant backgrounds in the Cyprus Educational System as well as the teaching of Greek as a second language. Based on the Policy Paper action plans have been developed and implemented covering the different pillars of the policy paper. In addition to that, in cooperation with the European Commission Directorate on Education a peer counseling event took place in March 2019. The final report submitted in July 2019 consisted of 21 recommendations. The recommendations focus mainly on the reception phase per se, for supporting all significant others in the school role set of migrant students. There were also recommendations for the schools as institutions seeking autonomy and flexibility, the policy-makers and the anti-racist policy.
 
 The work that the Cyprus Pedagogical Institute (CPI) and the Interdepartmental Committee have done based on the Policy Paper and the Peer Counseling Report can be described shortly as follows:
 
@@ -1218,11 +1235,11 @@ Students with migrant background attend lessons of Greek as a Second Language, f
 
 [[START OF PAGE 36]]
 
-In addition to the above, in September 2020, the 'Syllabus for Greek as a second language (Pre- primary, Primary, Secondary, Technical and Vocational Education of Cyprus)' has been published  and  notified  to  all  schools.  It  is  a  unified  curriculum  for  all  levels  of  education including indicators for language and academic skills, through a cross-cultural perspective:
+In addition to the above, in September 2020, the 'Syllabus for Greek as a second language (Pre-primary, Primary, Secondary, Technical and Vocational Education of Cyprus)' has been published and notified to all schools. It is a unified curriculum for all levels of education including indicators for language and academic skills, through a cross-cultural perspective:
 
 - Offering Greek language courses - in the afternoon - from the Adult Education Centres and the State Institutes of Further Education of the MESY for both minor and adult students
 
-- Offering  free  Greek  language  courses  through  the  'Greek  Language  Program  and Mediation Services for Minor Third- Country Nationals' («Μαθαίνω ελληνικά!»). Through this program, primary school students receive after class lessons thought the school year, while secondary education students during the summer.
+- Offering free Greek language courses through the 'Greek Language Program and Mediation Services for Minor Third-Country Nationals' («Μαθαίνω ελληνικά!»). Through this program, primary school students receive after class lessons thought the school year, while secondary education students during the summer.
 
 In  primary  education  around  16%  of  the  pupil  population  speak  Greek  as  their  second language.  As  of  September  2021,  the  support  teaching  of  the  Greek  language  has  been redesigned, following one of the recommendations of the European Commission's (2019) peer counselling activity. The number of teaching periods for learning the Greek language has considerably been increased in all primary schools, so that pupils learn the language for free at  an  adequate  level  and  the  programme  becomes  more  effective.  The  Adult  Education Centres also provide lessons free of charge to pupils with a migrant background for learning the Greek language, after school hours. The Centers also offer courses to migrant adults to learn the Greek language, as well as courses to Greek and Turkish Cypriot adults to learn the Turkish and Greek languages, respectively.
 
@@ -1230,7 +1247,7 @@ Regarding  school  education  (primary,  secondary,  vocational),  it  should  b
 
 Some of the Higher Education Institutions in Cyprus offer free language courses for learning Greek to migrants. For example, the School of Modern Greek of the University of Cyprus offers Greek language courses to immigrants residing in Cyprus, Turkish Cypriots, non-Greek speaking residents of Cyprus, and asylum seekers. Civil Refugees / Political Refugees in a Complementary Protection Scheme and Turkish Cypriots are exempted from paying fees. Additionally, the Examination Service of the Department of Higher Education conducts the Examination for the Certification of Greek Language the six levels of the Common European Framework of Reference for Languages of the Council of Europe, among which levels A2 and B1, necessary for immigrants living in Cyprus according to the Civil Registry (Amendment) Law of 2023.
 
-The needs of students attending pre-primary schools are addressed through differentiated instruction within the curriculum. In the 52 pre-primary schools participating in the DRASE+ program, this effort is reinforced by the presence of a teacher assistant for 10 hours per week. As part of the ' Syllabus for Greek as a second language', the 'Supplementary Progression Framework  for  Pre- Primary  Education'  is  applied  complementing  the  official  syllabus. Kindergarten  classrooms  are  ideal  learning  environments  for  pupils  with  a  migrant background at an age when the innate language acquisition mechanism is fully activated. Children learn and socialize not only in interaction with their teachers, but mainly with their peers  through  play  which  is  the  basic  method  of  building  their  knowledge,  spiritual  and
+The needs of students attending pre-primary schools are addressed through differentiated instruction within the curriculum. In the 52 pre-primary schools participating in the DRASE+ program, this effort is reinforced by the presence of a teacher assistant for 10 hours per week. As part of the 'Syllabus for Greek as a second language', the 'Supplementary Progression Framework for Pre-Primary Education' is applied complementing the official syllabus. Kindergarten classrooms are ideal learning environments for pupils with a migrant background at an age when the innate language acquisition mechanism is fully activated. Children learn and socialize not only in interaction with their teachers, but mainly with their peers through play which is the basic method of building their knowledge, spiritual and
 
 [[END OF PAGE 36]]
 
@@ -1246,7 +1263,7 @@ After the introduction and the implementation of the new policy for the integrat
 
 ###### System for mapping the migrant pupil population
 
-The Centre of Educational Research and Evaluation (CERE) is operating a common data entry and data processing platform, to create a flexible and easy-to-use system for mapping the pupil population. The data collected for migrant pupils are: parent's countr y of origin, year of entry  in  Cyprus,  whether  pupils  speak  Greek  at  an  adequate  level  and  whether  pupils currently participate in remedial classes (and if yes for how many years) or need to participate in the following school year.
+The Centre of Educational Research and Evaluation (CERE) is operating a common data entry and data processing platform, to create a flexible and easy-to-use system for mapping the pupil population. The data collected for migrant pupils are: parent's country of origin, year of entry in Cyprus, whether pupils speak Greek at an adequate level and whether pupils currently participate in remedial classes (and if yes for how many years) or need to participate in the following school year.
 
 ###### Educational material for teaching Greek as a second language
 
@@ -1254,21 +1271,8 @@ Appropriate educational material has been prepared and was sent to schools to he
 
 ###### Teacher trainings
 
-•
-
-Ο
-
-n intercultural education and teaching Greek as a second language (2019-today): School
-
-Support Networks for pre-primary and primary education teachers for the teaching of
-
-Greek as a second language.
-
-•
-
-On the implementation of the anti-racist policy (2018-today): School Support Networks
-
-(primary and secondary education) for the implementation of the policy.
+• Οn intercultural education and teaching Greek as a second language (2019-today): School Support Networks for pre-primary and primary education teachers for the teaching of Greek as a second language.
+• On the implementation of the anti-racist policy (2018-today): School Support Networks (primary and secondary education) for the implementation of the policy.
 
 ###### Curriculum and syllabus for teaching Greek as a second language (2020)
 
@@ -1294,9 +1298,7 @@ Apart from the measures mentioned above, which also apply for secondary educatio
 
 should also be stressed that many schools where migrant children are enrolled, participate
 
-in the project 'School and Social Inclusion Actions' since 2015. The implementa
-
-tion of this
+in the project 'School and Social Inclusion Actions' since 2015. The implementation of this
 
 project aims to support the population living below the poverty line or being at risk of poverty
 
@@ -1328,7 +1330,7 @@ students and parents and training programmes for the staff involved. The project
 
 by the European Social Fund.
 
-Additionally to the above-mentioned actions, it is important to note that due to the ongoing increase of the number of Unaccompanied Minors / Applicants of International Protection and  according  to  the  relevant  Ministers'  Decision  (no.  87.593),  an  afternoo n  Educational Programme offering lessons in Greek as a Second Language and Mathematics is in operation at State Institutes of Training. This programme is offered to students who could not be hosted in  the  morning  programmes  due  to  shortage  of  places  in  schools  (lyceums  or  technical schools).
+Additionally to the above-mentioned actions, it is important to note that due to the ongoing increase of the number of Unaccompanied Minors / Applicants of International Protection and according to the relevant Ministers' Decision (no. 87.593), an afternoon Educational Programme offering lessons in Greek as a Second Language and Mathematics is in operation at State Institutes of Training. This programme is offered to students who could not be hosted in the morning programmes due to shortage of places in schools (lyceums or technical schools).
 
 The MESY, implementing the European directives for the education of all children, especially migrant children, has prepared a special programme for the education of unaccompanied migrant children. Within this context, Upper Secondary Technical and Vocational Education and Training programmes are offered to groups of unaccompanied migrant children, who attend Technical and Vocational Schools of Education and Training in Nicosia, Limassol and Larnaca districts. The programmes have been tailored to meet the needs of unaccompanied migrant children. As part of their one-year studies, they attend Greek language courses, as well  as  general  education  and  technical  and  vocational  education  and  training  courses. Children  who  acquire  a  good  level  of  knowledge  of  the  Greek  language  can  proceed  to continue their education at the Evening Schools of Technical and Vocational Education, which operate as second chance schools. These schools offer formal upper Secondary Technical and Vocational Education programmes (EQF level 4) to adult learners who wish to obtain an upper Secondary School Leaving Certificate (Apolyterion). The Apolyterion entitles graduates either
 
@@ -1350,7 +1352,7 @@ In addition to the above, in the context of the operation of the Lifelong Learni
 
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
-Upon  the  outbreak  of  the  refugee  crisis,  the  Cyprus  educational  system  encountered  various challenges in order to ensure the access to the right of education for all students. For instance, various problems that the Ministry had encountered were administrative challenges, shortages of classrooms and trained teachers, lack of training material, tools and resources to work with refugee and migrant children and various other educa tional challenges as a result of students' migratory lifestyles (for instance, cultural barriers, including language and communication barriers.
+Upon the outbreak of the refugee crisis, the Cyprus educational system encountered various challenges in order to ensure the access to the right of education for all students. For instance, various problems that the Ministry had encountered were administrative challenges, shortages of classrooms and trained teachers, lack of training material, tools and resources to work with refugee and migrant children and various other educational challenges as a result of students' migratory lifestyles (for instance, cultural barriers, including language and communication barriers.
 
 ##### People with disabilities:
 
@@ -1480,15 +1482,15 @@ In  October  2023,  the  President  of  the  Republic  announced  the  initiatio
 
  Financial incentives and fellowships for school enrolment are provided
 
- Transport, meals and education material are subsidised  or  provided  free  of  charge  beyond compulsory education
+ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
  Positive or affirmative action measures are provided
+
+ Other:
 
  Teachers are trained to combat stigmatisation 35
 
  Curricula are rid of all stereotypes 36 and bias
-
- Other:
 
 ###### Actions/Programmes supported by the Committee of Health Education and Citizenship (CHEC)
 
@@ -1496,9 +1498,9 @@ In  October  2023,  the  President  of  the  Republic  announced  the  initiatio
 
 The Programme has been operating since 2012 and is part of the commitments of the Ministry of the Interior regarding the National Strategy for Addressing Addictions (2021 - 2028). The CHEC identifies  and  supports  pupils  who  belong  to  vulnerable  population  groups  (i.e.  delinquent behavior, use of alcohol or illegal substances, smoking, families with extremely difficult economic conditions or with severe dysfunction - violence in the family, serious health problems of another member or of the child himself, residence in the Children's Home, a family member in prison, unemployment, alcoholism and so on.), to be engaged in creative employment activities that they choose themselves in the community, in non-school settings every year.
 
-The actions aim at contributing to the essential support (learning, emotional, self- and social selfempowerment, highlighting and cultivating talent, developing a safe life and so on.) of pupils who belong to vulnerable population groups. A possible risk faced by the action is the social exclusion and marginalization of pupils of the specific categories due to their possible inability to participate in activities utilizing their free time and highlighting their special abilities / talents.
+The actions aim at contributing to the essential support (learning, emotional, self- and social self-empowerment, highlighting and cultivating talent, developing a safe life and so on.) of pupils who belong to vulnerable population groups. A possible risk faced by the action is the social exclusion and marginalization of pupils of the specific categories due to their possible inability to participate in activities utilizing their free time and highlighting their special abilities / talents.
 
-During the 2022 - 2023 school year, 787 actions, outside school time, were offered, which related to the support of pupils belonging to vulnerable population groups. During the 2023 - 2024 school year, 900 actions, outside school time, are offered The  Action  is  included  in  the  Memorandum  of  Cooperation  between  the  Cyprus  Addiction Treatment Authority and the Cyprus Sports Organization, through the "Tackling Addiction to Legal and Illegal Substances" Plan. For the 2022 -2023 and 2024-24 school year, thirty athletes were supported who belong to: (a) vulnerable population groups and (b) sport clubs, which take part in the World Championships of the Cypriot Sports Federation, recognized by the CMO.
+During the 2022 - 2023 school year, 787 actions, outside school time, were offered, which related to the support of pupils belonging to vulnerable population groups. During the 2023 - 2024 school year, 900 actions, outside school time, are offered
 
 > 35 Supra note 15.
 
@@ -1522,13 +1524,13 @@ The programme is an action dealing with early school dropouts and the marginaliz
 
 The PA provides a safe and supportive framework to upgrade the basic learning and soft skills of the learners, strengthen the goal-setting mechanism, and support them to believe in themselves and their skills, as well as improve their self-esteem by choosing and implementing correct and healthy choices in their life. PA's target groups are:
 
-- Pupils of the Preparatory Apprenticeship
+1. Pupils of the Preparatory Apprenticeship
 
-- Family members of the pupils
+2. Family members of the pupils
 
-- Teachers of the Preparatory Apprenticeship
+3. Teachers of the Preparatory Apprenticeship
 
-- Special social scientists of the Preparatory Apprenticeship.
+4. Special social scientists of the Preparatory Apprenticeship.
 
 The  programme  provides  training  of  instructors  and  specialists,  organization  of  afternoon  / summer activities for the learners, organization of creativity workshops, sports and educational activities for the learners as well as psychosocial support and coverage of basic material needs of the  learners  and  their  families.  Responsible  for  the  implementation  of  the  Programme  is  the 'National  Addictions  Authority  Cyprus',  which  after  an  open  tender  process  assigned  the Programme  to  the  'Association  for  the  Prevention  and  Handling  of  Violence  in  the  Family' (SPAVO). The programme is entirely financed by the Cyprus Ministry of Education, Sport and Youth.
 
@@ -1538,15 +1540,17 @@ The  programme  provides  training  of  instructors  and  specialists,  organiza
 
 [[START OF PAGE 43]]
 
+The Action is included in the Memorandum of Cooperation between the Cyprus Addiction Treatment Authority and the Cyprus Sports Organization, through the "Tackling Addiction to Legal and Illegal Substances" Plan. For the 2022 – 2023 and 2024-24 school year, thirty athletes were supported who belong to: (a) vulnerable population groups and (b) sport clubs, which take part in the World Championships of the Cypriot Sports Federation, recognized by the CMO.
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre - primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -1572,7 +1576,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Pre-primary education is compulsory. Please provide the age of enrolment and duration:
 
-Children aged 5 years can be enrolled in compulsory pre-primary education according to the Compulsory Education Law, one year and four months before they attend primary education. For  the  school  year  2024-2025,  according  to  the  decision  of  the  Council  of  Ministers,  pre- primary education is compulsory if before the 1 st September, a child is 4 years and 6 months old. Gradually compulsory pre-primary education will be extended from the age of four.
+Children aged 5 years can be enrolled in compulsory pre-primary education according to the Compulsory Education Law, one year and four months before they attend primary education. For the school year 2024-2025, according to the decision of the Council of Ministers, pre-primary education is compulsory if before the 1st September, a child is 4 years and 6 months old. Gradually compulsory pre-primary education will be extended from the age of four.
 
  Pre-primary education is not compulsory.
 
@@ -1604,17 +1608,19 @@ Pre-Primary education is compulsory and free for children aged 4 ⁶/₁₂ year
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
+States to provide “12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.”
+
 ##### Primary education
 
 - Please provide the age of enrolment and duration of primary education:
 
-According to the decision of the Council of Ministers, a child who has completed the age of 6 years before the 1 st of September of the enrolment year must enrol at a primary school. The duration of primary education is six years (ages 6-12).
+According to the decision of the Council of Ministers, a child who has completed the age of 6 years before the 1st of September of the enrolment year must enrol at a primary school. The duration of primary education is six years (ages 6-12).
 
 - Is primary education compulsory and free of charge?
 
@@ -1710,7 +1716,7 @@ For reference: The employment laws and those related to compulsory education are
 
 education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and  therefore  not  completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
- Yes No
+ Yes   No
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
@@ -1854,11 +1860,11 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please elaborate further on the measures taken:
 
-In  the  context  of  the  operation  of  the  Lifelong  Learning  Programmes  of  Vocational Education and Training, the Department of Secondary Technical and Vocational Education and Training offers one-year and three-year training programmes in order to respond to the  increasing  need  for  continuous  up-skilling  and  re- skilling  throughout  an  individual's working life. The objective of these programmes is to offer lifelong learning opportunities for education and training to employed or unemployed adults, including migrants, in order to be able to respond more effectively to the contemporary demands of the labour market and enhance their integration in society.
+In  the  context  of  the  operation  of  the  Lifelong  Learning  Programmes  of  Vocational Education and Training, the Department of Secondary Technical and Vocational Education and Training offers one-year and three-year training programmes in order to respond to the  increasing  need  for  continuous  up-skilling  and  re-skilling  throughout  an  individual's working life. The objective of these programmes is to offer lifelong learning opportunities for education and training to employed or unemployed adults, including migrants, in order to be able to respond more effectively to the contemporary demands of the labour market and enhance their integration in society.
 
 The programmes operate on the premises of Technical and Vocational Schools of Education and Training in all major Government controlled areas of Cyprus. Learners pay limited fees approved by the Council of Ministers for attending these programmes. Migrants who are asylum seekers can attend these programmes free of charge.
 
-The CyLLLS for the years 2021-2027 recognising the need for further developments in the area of establishing validation and assessment processes, introducing quality standards for non-formal learning programmes, and forming links between validation arrangements and credit systems. Although, Cyprus has not set an official framework for the recognition and validation of non-formal and informal learning, several developments took place during the last  years,  such  as  the  Human  Resource Development Authority's  S ystem of Vocational Qualifications  (SVQs),  as  well  as  the  System  for  the  Assessment  and  Accreditation  of Training.  Also,  programmes run and managed by the several departments of the MESY (Ministry of Education, Sport and Youth) address the needs of various target groups and ensure equal access to the provide programmes for all adults. These programs, covering both  the  formal  and  the  non-formal  sector,  include  Adult  Education  Centres,  State Institutes  of  Further  Education  (KIE),  Evening  Schools  (second-chance  schools),  Lifelong Learning Programs of VET, and the Public School of Higher VET (PSIVET, also known as "MIEEK").
+The CyLLLS for the years 2021-2027 recognising the need for further developments in the area of establishing validation and assessment processes, introducing quality standards for non-formal learning programmes, and forming links between validation arrangements and credit systems. Although, Cyprus has not set an official framework for the recognition and validation of non-formal and informal learning, several developments took place during the last  years,  such  as  the  Human  Resource Development Authority's  System of Vocational Qualifications  (SVQs),  as  well  as  the  System  for  the  Assessment  and  Accreditation  of Training.  Also,  programmes run and managed by the several departments of the MESY (Ministry of Education, Sport and Youth) address the needs of various target groups and ensure equal access to the provide programmes for all adults. These programs, covering both  the  formal  and  the  non-formal  sector,  include  Adult  Education  Centres,  State Institutes  of  Further  Education  (KIE),  Evening  Schools  (second-chance  schools),  Lifelong Learning Programs of VET, and the Public School of Higher VET (PSIVET, also known as "MIEEK").
 
 - What challenges were encountered in realizing adult learning and education?
 
@@ -1888,13 +1894,11 @@ Adults face several challenges that hinder their participation in lifelong learn
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
-
-- Please elaborate on each of the measures taken:
 
  State monitoring and inspections
 
@@ -1912,13 +1916,17 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
  Other
 
+- Please elaborate on each of the measures taken:
+
 You may include information on policies, protocols or codes of conduct.
 
-The Ministry of Education, Sport and Youth (MESY) has designed and developed the National Strategy  for  Preventing  and  addressing  School  Violence  (COSV),  which  has  a  four-year timeframe of implementation (2018 -2024). According to its role and responsibilities, and based on the aforementioned Strategy, the COSV has developed and implemented actions that aim to prevent and address bullying and violence at schools. The COSV provides support to school units  for  the  implementation  of  actions  and  programmes  aimed  at  improving  the  school climate, with the ultimate aim of reducing violence at schools. These programmes, run on an annual basis and are school-based, are the "Conflict Resolution - School Mediation" and the "Recognition  and  Management  of  School  Bullying".  The  COSV  supports  schools  in  the implementation  of  anti-bullying  programmes,  which  deal  with  recognizing,  preventing  and combating bullying. With "Conflict Resolution - School Mediation" schools are encouraged to find effective ways of resolving pupils' conflicts as well as alternative wa ys of managing conflict situations at school. In 2023, 104 schools were supported and 4008 teachers and 300 parents were trained by COSV.
+The Ministry of Education, Sport and Youth (MESY) has designed and developed the National Strategy  for  Preventing  and  addressing  School  Violence  (COSV),  which  has  a  four-year timeframe of implementation (2018 -2024). According to its role and responsibilities, and based on the aforementioned Strategy, the COSV has developed and implemented actions that aim to prevent and address bullying and violence at schools. The COSV provides support to school units  for  the  implementation  of  actions  and  programmes  aimed  at  improving  the  school climate, with the ultimate aim of reducing violence at schools. These programmes, run on an annual basis and are school-based, are the "Conflict Resolution - School Mediation" and the "Recognition  and  Management  of  School  Bullying".  The  COSV  supports  schools  in  the
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
+
+implementation of anti-bullying programmes, which deal with recognizing, preventing and combating bullying. With "Conflict Resolution - School Mediation" schools are encouraged to find effective ways of resolving pupils' conflicts as well as alternative ways of managing conflict situations at school. In 2023, 104 schools were supported and 4008 teachers and 300 parents were trained by COSV.
 
 Guidelines  on  how  to  handle  conflicts  or  bullying  were  produced  and  disseminated  at  the training courses. Also, educational material to assist teachers on how to undertake activities with children to enhance their competences needed for prevention and management of school violence was produced and disseminated. The curriculum of this material includes activities to enhance  anger  management,  team  building,  empathy,  emotional  intelligence,  social  and communicative skills, tolerance, acceptance of diversity, mediation skills, anti-bullying skills, conflict management etc.
 
@@ -1980,13 +1988,15 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please elaborate on each of the measures taken:
 
-The minimum standards and qualifications required for the teaching profession of every level (primary, secondary, vocational education) in Cyprus is holding at least a bachelor's degree. Teachers' average salaries are competitive, comparable and in some ca se above average to those paid in other professions requiring similar or equivalent qualifications (at all levels).
+The minimum standards and qualifications required for the teaching profession of every level (primary, secondary, vocational education) in Cyprus is holding at least a bachelor's degree. Teachers' average salaries are competitive, comparable and in some case above average to those paid in other professions requiring similar or equivalent qualifications (at all levels).
 
-Teacher training is provided in Cyprus without discrimination by the Cyprus Pedagogical Institute (CPI), one the Directorates of the Ministry of Education, Sport and Youth (MESY). According  to  the  Council  of  Ministers  Decision  (August  2015,  July  2017),  the  CPI  is  the official  department  of  the  MESY which  runs  the  prof essional  learning of  teachers.  CPI's mission is the design and implementation of continuous professional learning of teachers at all levels, the setting of framework for the teacher competences and the promotion of horizontal issues of educational priority, improving the content and effectiveness of the education  provided  in  accordance  with  the  wider  international,  European,  and  local context.
+Teacher training is provided in Cyprus without discrimination by the Cyprus Pedagogical Institute (CPI), one the Directorates of the Ministry of Education, Sport and Youth (MESY). According  to  the  Council  of  Ministers  Decision  (August  2015,  July  2017),  the  CPI  is  the official  department  of  the  MESY which  runs  the  professional  learning of  teachers.  CPI's mission is the design and implementation of continuous professional learning of teachers at all levels, the setting of framework for the teacher competences and the promotion of horizontal issues of educational priority, improving the content and effectiveness of the
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
+
+education provided in accordance with the wider international, European, and local context.
 
 Since  2015,  a  unified  policy  was  introduced  by  the  MESY  concerning  the  professional learning of teachers.  The policy designates CPI as the Official Body for Professional Learning of in-service teachers. At the same time, the CPI enhance Professional Learning of teachers via different methodologies (inquiry-based methodologies).
 
@@ -2034,11 +2044,11 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 [[START OF PAGE 57]]
 
-The Ministry of Education, Sports and Youth (MESY), in 2014-2015, represented Cyprus as a partner country in the Council of Europe's Pilot Project titled " Teaching controversial issues -developing effective training for teachers and school leaders". The aim of the project was to assess how the teaching of contentious/controversial issues, including issues related to religion and belief, can support education for democratic citizenship and human rights. MESY officials participated in pan-European conferences where they presented the results and their experience from Cyprus's participation in the project. A major product of the project was the "Teaching Controversial Topics" guide, a publication of the Council of Europe. The material approaches issues related to religion and belief, among others, through teaching strategies and pedagogical methods from the context of human rights education. The manual continues to be the basis for numerous trainings that have been carried out by the Cyprus Pedagogical Institute (CPI) since 2014 and continue to this day.
+The Ministry of Education, Sports and Youth (MESY), in 2014-2015, represented Cyprus as a partner country in the Council of Europe's Pilot Project titled "Teaching controversial issues – developing effective training for teachers and school leaders". The aim of the project was to assess how the teaching of contentious/controversial issues, including issues related to religion and belief, can support education for democratic citizenship and human rights. MESY officials participated in pan-European conferences where they presented the results and their experience from Cyprus's participation in the project. A major product of the project was the "Teaching Controversial Topics" guide, a publication of the Council of Europe. The material approaches issues related to religion and belief, among others, through teaching strategies and pedagogical methods from the context of human rights education. The manual continues to be the basis for numerous trainings that have been carried out by the Cyprus Pedagogical Institute (CPI) since 2014 and continue to this day.
 
-Furthermore,  the  CPI  continues  to  support  teachers  and  schools,  by  providing  training workshops for the implementation of the anti-racist policy and by organising conferences on issues of racism and human rights. In addition, it supports schools on relevant issues through the Professional Learning Programme, organises inservice teachers' training s eminars, on a school basis, as well as a series of seminars where teachers can attend in the afternoon, on an optional basis. Indicatively, during 2023, the following in-service seminars were offered by, for both primary and secondary education:
+Furthermore,  the  CPI  continues  to  support  teachers  and  schools,  by  providing  training workshops for the implementation of the anti-racist policy and by organising conferences on issues of racism and human rights. In addition, it supports schools on relevant issues through the Professional Learning Programme, organises in-service teachers' training seminars, on a school basis, as well as a series of seminars where teachers can attend in the afternoon, on an optional basis. Indicatively, during 2023, the following in-service seminars were offered by, for both primary and secondary education:
 
-"Nail" or defender? Ways to empower pupils as bystanders in incidents of school violence and bullying
+- "Nail" or defender? Ways to empower pupils as bystanders in incidents of school violence and bullying
 
 - Recognition and management of incidents of school bullying: Policy of the Ministry of Education and Culture
 
@@ -2072,7 +2082,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
  Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43 explicitly  apply  to  non-state  educational  institutions. Please specify:
 
-Legal provisions prohibiting any kind of discrimination that apply for public schools also apply in non- state (private) schools.
+Legal provisions prohibiting any kind of discrimination that apply for public schools also apply in non-state (private) schools.
 
  Policies  aim  to  guarantee  that  the  development  of  non-state  education  does  not  generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:
 
@@ -2124,7 +2134,7 @@ All  of  the  above  are  regulated  by  the  Law  for  Private  Schools,  passe
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -2150,7 +2160,7 @@ Digital  technology is included in the school curriculum that is approved by the
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures  to  remove  barriers  to  accessing  digital  content 45 ,  including  ensuring  access  to curriculum-aligned digital content available on free, public, multi-modal national platforms; highquality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures  to  remove  barriers  to  accessing  digital  content 45 ,  including  ensuring  access  to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
 > 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
 
@@ -2172,7 +2182,7 @@ Digital  technology is included in the school curriculum that is approved by the
 
 The  syllabus  of  Computer  Science  applies  to  all  Cypriot  pupils  in  the  same  way  without discrimination.  During  the  past  few  years,  the  syllabi  of  all  Information  Technology  (IT) courses  taught  in  Secondary  Education  have  been  updated  in  order  to  meet  European standards and current trends. Teaching of these courses at the Gymnasium and Lyceum aims to engage pupils in meaningful learning using the computer as a problem-solving tool. In all Lycea,  depending  on  the  curriculum  needs,  there  are  130  IT  labs  for  the  teaching  of  all computer science courses. Each lab contains 18 computers and a printer. In all Gymnasia, depending on the curriculum needs, there are 181 IT labs with 13 computers and a printer per  lab.  Furthermore,  a  video  projector  is  installed  in  all  IT  labs.  The  video  projector  is connected to the instructor's computer. All computers in each IT lab are interconnected to form a local network and are connected to the Internet via an ADSL line. In all Gymnasia, the course of Informatics is compulsory and is taught two periods per week in each of the three classes.  Part  of  the  curriculum  covers  four  basic  modules  of  the  international  standard European Computer Driving License (ECDL).
 
-The Cyprus Pedagogical Institute (CPI) implements several actions aiming to contribute to the development of digital skills for in service teachers and students, guided by national and EU digital  strategies  and  based  on  European  digital  competence  frameworks  and  tools .  CPI's actions  include:  the  Digital  Competence  Development  for  Educators  Programme,  which follows a distance learning approach and methodology utilizing CPI's eLearning Environment, annual educational programs (Innovative schools and Teacher coaches, Young Coaches for the Internet, eSafe Schools, Recording Memory,  Student Web Radio), seminars, workshops, contests ( Radio and Music Student Contest 'Make it Heard' , CyberSafety Video Production Contest), conferences (Digital Education -Developments  and  pedagogical practices, Advancing Media Literacy in Education: Contemporary Approaches in Pedagogy), and pilot implementation of EU Projects such as Learning from the Extremes (PPPA Grant Agreement No.LC-01760255/10105266) and Social Radio 2.0 - The European School Radio and Podcasting Community  for  Active  Citizenship  Education  (KA2  Agreement  No.  2020-1-PL01-KA201081838).
+The Cyprus Pedagogical Institute (CPI) implements several actions aiming to contribute to the development of digital skills for in service teachers and students, guided by national and EU digital strategies and based on European digital competence frameworks and tools. CPI's actions include: the Digital Competence Development for Educators Programme, which follows a distance learning approach and methodology utilizing CPI's eLearning Environment, annual educational programs (Innovative schools and Teacher coaches, Young Coaches for the Internet, eSafe Schools, Recording Memory, Student Web Radio), seminars, workshops, contests (Radio and Music Student Contest “Make it Heard”, CyberSafety Video Production Contest), conferences (Digital Education - Developments and pedagogical practices, Advancing Media Literacy in Education: Contemporary Approaches in Pedagogy), and pilot implementation of EU Projects such as Learning from the Extremes (PPPA Grant Agreement No.LC-01760255/10105266) and Social Radio 2.0 - The European School Radio and Podcasting Community for Active Citizenship Education (KA2 Agreement No. 2020-1-PL01-KA201-081838).
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
@@ -2206,7 +2216,7 @@ Limited access to hardware among refugees and migrant students.
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available" (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -2240,7 +2250,7 @@ The  Ministry  of  Education,  Sport  and  Youth  (MESY)  is  responsible  for  
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
@@ -2280,11 +2290,13 @@ Since 2018, Cyprus National Commission for UNESCO collaborates with the Cyprus A
 
 ### Innovation Camp in Cultural and Creative Industries
 
-In  2022  the  NGO  Junior  Achievement  Cyprus  and  the  Cyprus  National  Commission  for  UNESCO launched  a  joint  annual  programme  for  ASPnet  students,  an  Innovation  Camp  on  Cultural  and Creative Industries. It is a one-day, intensive experience for high school students (aged 15-18 years), who  work  together  to  tackle  a  business  challenge  that  simulates  a  real-world  issue  faced  by professionals in cultural industries. Students receive extensive information, by keynote speakers and develop a proposal, under the guidance of professionals in the field of culture and entrepreneurship. The  challenges  discussed  so  far  were  related  to  cultural  goods  and  services  in  the  digital environment as well as traditional crafts marketing and transmission. In both cases, students were asked to consider in their proposals fair-trade principles. During the boot camp, in the process of solving  actual  problems  faced  by  CCI,  students  cultivate  a  broad  skill  set,  ranging  from  time management  to  interpersonal  and  communication  skills,  which  are  all  important  for  a  holistic approach to problem-solving. Furthermore, during the Camp, students develop creative thinking, strengthen communication skills through teamwork and problem-solving and familiarize themselves with challenges in the field of culture.
+In  2022  the  NGO  Junior  Achievement  Cyprus  and  the  Cyprus  National  Commission  for  UNESCO launched  a  joint  annual  programme  for  ASPnet  students,  an  Innovation  Camp  on  Cultural  and Creative Industries. It is a one-day, intensive experience for high school students (aged 15-18 years), who  work  together  to  tackle  a  business  challenge  that  simulates  a  real-world  issue  faced  by professionals in cultural industries. Students receive extensive information, by keynote speakers and develop a proposal, under the guidance of professionals in the field of culture and entrepreneurship. The  challenges  discussed  so  far  were  related  to  cultural  goods  and  services  in  the  digital environment as well as traditional crafts marketing and transmission. In both cases, students were asked to consider in their proposals fair-trade principles. During the boot camp, in the process of solving  actual  problems  faced  by  CCI,  students  cultivate  a  broad  skill  set,  ranging  from  time
 
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
+
+management to interpersonal and communication skills, which are all important for a holistic approach to problem-solving. Furthermore, during the Camp, students develop creative thinking, strengthen communication skills through teamwork and problem-solving and familiarize themselves with challenges in the field of culture.
 
 Printed on recycled paper
 
