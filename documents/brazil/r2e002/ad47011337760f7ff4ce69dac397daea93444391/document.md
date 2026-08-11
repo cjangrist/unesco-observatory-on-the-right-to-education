@@ -12,7 +12,7 @@ Subchefia para Assuntos Jurídicos
 
 Dispõe sobre a implementação do Plano de Metas Compromisso Todos pela Educação, pela União Federal, em regime  de  colaboração  com  Municípios,  Distrito  Federal  e Estados,  e  a  participação  das  famílias  e  da  comunidade, mediante  programas  e  ações  de  assistência  técnica  e financeira,  visando  a  mobilização  social  pela  melhoria  da qualidade da educação básica.
 
-O PRESIDENTE DA REPÚBLICA , no uso das atribuições que lhe confere o art. 84, incisos IV e VI, alínea 'a', da Constituição, e tendo em vista o disposto nos arts. 23, inciso V, 205 e 211, § 1 o , da Constituição, e nos arts. 8 o  a 15 da Lei n o  9.394, de 20 de dezembro de 1996,
+O PRESIDENTE DA REPÚBLICA , no uso das atribuições que lhe confere o art. 84, incisos IV e VI, alínea “a”, da Constituição, e tendo em vista o disposto nos arts. 23, inciso V, 205 e 211, § 1 o , da Constituição, e nos arts. 8 o  a 15 da Lei n o  9.394, de 20 de dezembro de 1996,
 
 DECRETA:
 
