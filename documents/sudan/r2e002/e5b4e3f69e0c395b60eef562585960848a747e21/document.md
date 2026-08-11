@@ -12,15 +12,15 @@ Be it  hereby approved by the National Assembly,  and signed by the President of
 
 #### Title and commencement
 
-- This  Act  may  be  cited  as  the,  "Child  Act,  2010",  and  shall come into force, as of the date of signature.
+- 1. This  Act  may  be  cited  as  the,  "Child  Act,  2010",  and  shall come into force, as of the date of signature.
 
 #### Repeal and saving
 
-- The Child Act, 2004  shall be repealed;  provided that all  the regulations and orders made thereunder shall remain in force, until revoked, or amended in accordance with the provisions of this Act.
+- 2. The Child Act, 2004  shall be repealed;  provided that all  the regulations and orders made thereunder shall remain in force, until revoked, or amended in accordance with the provisions of this Act.
 
 #### Scope of application and prevalence of provisions of the Act
 
-- The provisions of this Act shall prevail over any other provision in any other law, upon inconsistency thereof, to the extent of removing such inconsistency.
+- 3. The provisions of this Act shall prevail over any other provision in any other law, upon inconsistency thereof, to the extent of removing such inconsistency.
 
 [[END OF PAGE 1]]
 
@@ -28,11 +28,11 @@ Be it  hereby approved by the National Assembly,  and signed by the President of
 
 #### Interpretation
 
-- In this Act, unless the context otherwise requires, :-
+- 4. In this Act, unless the context otherwise requires, :-
 
-In this Act, unless the "Maintenance Family", | context otherwise requires, :- means the substitute family, which is assigned with provision of spiritual, social, psychological, and health care of the Child, whose circumstances prevented his upbringing in his natural family;
+"Maintenance Family", | means the substitute family, which is assigned with provision of spiritual, social, psychological, and health care of the Child, whose circumstances prevented his upbringing in his natural family;
 --- | ---
-"Military actions", | mean the actions the nature of which requires joining a military body, or disciplined, or non- disciplined military forces;
+"Military actions", | mean the actions the nature of which requires joining a military body, or disciplined, or non-disciplined military forces;
 "Child Traffic", | means any act, or transaction by which a Child is transferred, on the part of any person, or group of persons, to one person, or another group, for recompense, or any of the forms of consideration;
 "Delinquent", | means every Child, who completes the age of twelve years, and does not attain eighteen years of his age, upon his commission of an act in contravention of the laws;
 "Remand Homes", | mean the homes, provided for in section 59;
@@ -61,13 +61,12 @@ In this Act, unless the "Maintenance Family", | context otherwise requires, :- m
 
 moral, psychological, physical or instructional safety;
 --- | ---
-"Maintenance", | means any of the types of compensatory care, which aim at
-"Council", | the sound upbringing of a Child; means the Childhood (Care) National Council, established under the Childhood ( Care) National Council Act;
+"Maintenance", | means any of the types of compensatory care, which aim at the sound upbringing of a Child;
+"Council", | means the Childhood (Care) National Council, established under the Childhood ( Care) National Council Act;
 "Court", | means the Child Court, provided for in section 62;
 "Social probation officer" | means the probation officer specified by the court to undertake the duties provided for in section 82;
 "Social Probation", | means the judicial measure, through which a delinquent Child is accommodated in the society;
-"Prosecution Attorneys
-Bureau", | means the Child Prosecution Attorneys Bureau, provided for in section 60;
+"Prosecution Attorneys Bureau", | means the Child Prosecution Attorneys Bureau, provided for in section 60;
 "Having special needs", | means any Child, who by reason of a bodily, kinetic, mental, visual or auditive disability, that affects him wholly or partially;
 
 4
@@ -76,13 +75,11 @@ Bureau", | means the Child Prosecution Attorneys Bureau, provided for in section
 
 [[START OF PAGE 5]]
 
-Protection Unit", | means the Police Force, concerning the protection of the Family and Child, provided for in section 54;
+"Family and Child Protection Unit", | means the Police Force, concerning the protection of the Family and Child, provided for in section 54;
 --- | ---
-" Children development
-Center " | means the children development center established by the Ministry according to the provisions of section 22;
-"Child exposed to
-Delinquency " | means the child who attained seven but not reaches twelve years, who is found in an environment endanger his moral, psychological, physical or
-" Moral justice " | means the justice which concentrates on the rehabilitation of vagrant child and re accomodate him in the society, and deal with the victim in a way aiming to compensate him or the society on
+" Children development Center " | means the children development center established by the Ministry according to the provisions of section 22;
+"Child exposed to Delinquency " | means the child who attained seven but not reaches twelve years, who is found in an environment endanger his moral, psychological, physical or instructional safety;
+" Moral justice " | means the justice which concentrates on the rehabilitation of vagrant child and re accomodate him in the society, and deal with the victim in a way aiming to compensate him or the society on the damage suffered thereby ;
 " community committees" | means the joint committees between the police force and the community of the area or village;
 
 5
@@ -91,11 +88,9 @@ Delinquency " | means the child who attained seven but not reaches twelve years,
 
 [[START OF PAGE 6]]
 
-Ministry", | means the Ministry responsible for the Child affairs;
+"Ministry", | means the Ministry responsible for the Child affairs;
 --- | ---
-"Minister", | means the responsible Minister
-specified by the President of the
-Republic;
+"Minister", | means the responsible Minister specified by the President of the Republic;
 
 ## Chapter II
 
@@ -103,7 +98,7 @@ Republic;
 
 - 5.(1) In application of the provisions of this Act, and interpretation of the  words  and  phrases,  set  out  therein,  guidance  shall  be resorted to the principles and provisions, set out in the Interim Constitution,  2005,  the  ratified  international  agreements,  the policies, decisions and directives, laid down by the Council .
 
-- Without  affecting  the  generality  of  the  provisions  of  subsection  (1),  the  following  general  principles  shall  be  the fundamental rules for application of the provisions of this Act :-
+- (2) Without  affecting  the  generality  of  the  provisions  of  sub-section  (1),  the  following  general  principles  shall  be  the fundamental rules for application of the provisions of this Act :-
 
 (a) the State shall be assigned with care and protection  of  Children,  and  strive  to  prepare  the appropriate circumstances for the proper upbringing thereof, from all sides, in the framework of freedom, human dignity and spiritual and social values, and in a healthy environment;
 
@@ -119,7 +114,7 @@ Republic;
 
 (d) the  protection  of  the  Child  and  his  best  interests shall  have  the  priority  in  all  the  decisions,  or measures,  relating  to  Childhood,  the  family  or environment,  whatever  may  be  the  body,  which issues, or exercises the same;
 
-(e) the State shall guarantee all the lawful rights of the Child, in particular his right to prove his affinity and his right to life and growth , the name, nationality, breastfeeding, custody, clothing and accommodation,  and  his  right  to  education  and care  of  his  conditions,  in  accordance  with  the provisions of the law;
+(e) the State shall guarantee all the lawful rights of the Child, in particular his right to prove his affinity and his right to life and growth , the name, nationality, breast- feeding, custody, clothing and accommodation,  and  his  right  to  education  and care  of  his  conditions,  in  accordance  with  the provisions of the law;
 
 (f) a Child, who is affiliated to an ethnic, religious  or linguistic minority shall have the right to enjoy, with the  rest  individuals  of  the  group,  his  culture  or declaration of his religion and practice of its rites, or use of his language;
 
@@ -167,17 +162,17 @@ subject to one of the care measures, in accordance with the provisions of this A
 ### Health Care
 #### Application
 
-- In cases not expressly provided therefore in this Chapter, the provisions of the Public Health Act, 2008, and any other law concerning human health shall apply.
+- 6. In cases not expressly provided therefore in this Chapter, the provisions of the Public Health Act, 2008, and any other law concerning human health shall apply.
 
 #### Right of Child to breast-feeding
 
-(1) A Child has the right to breast-feeding, for the period of two years, other than particular cases specified by the physician;
+- 7. (1) A Child has the right to breast-feeding, for the period of two years, other than particular cases specified by the physician;
 
-- The  State  shall  grant  a  suckling  working  mother  a maternity leave for a period, to be specified by the laws and regulations of civil service.
+- (2) The  State  shall  grant  a  suckling  working  mother  a maternity leave for a period, to be specified by the laws and regulations of civil service.
 
 #### Right of Child to immunization
 
-(1)  A Child shall have the right to be immunized by serums and vaccines protecting from infectious diseases, at the competent health  offices  and  health  units,  free  of  charge,  as  to  such systems and dates, as the health authorities may specify, by a decision thereof; and the decision shall set forth the diseases for the protection against which immunization is made; provided  that  the  State  shall  strive  to  provide  immunization aids.
+- 8. (1)  A Child shall have the right to be immunized by serums and vaccines protecting from infectious diseases, at the competent health  offices  and  health  units,  free  of  charge,  as  to  such systems and dates, as the health authorities may specify, by a decision thereof; and the decision shall set forth the diseases for the protection against which immunization is made; provided  that  the  State  shall  strive  to  provide  immunization aids.
 
 10
 
@@ -185,17 +180,17 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 [[START OF PAGE 11]]
 
-- Child immunization  shall  be a  duty  upon his  parents,  or  the person under custody, or guardianship of whom the Child is placed.
+- (2) Child immunization  shall  be a  duty  upon his  parents,  or  the person under custody, or guardianship of whom the Child is placed.
 
-- A  Child may be immunized by protective serums by a person physician licensed to practise the profession.
+- (3) A  Child may be immunized by protective serums by a person physician licensed to practise the profession.
 
 #### Health card
 
-- Every Child shall have a health card, the data of which shall be  registered  in  a  special  register,  at  the  competent  health office, and shall be delivered to the parent , or guardian of the Child, within one month, of the date of birth, as the laws and regulations of public health may specify.
+- 9. Every Child shall have a health card, the data of which shall be  registered  in  a  special  register,  at  the  competent  health office, and shall be delivered to the parent , or guardian of the Child, within one month, of the date of birth, as the laws and regulations of public health may specify.
 
 #### Health card presented
 
-- The  health  card  shall  be  presented  upon  every  medical examination of the Child, at the Childhood Care Centres, the health units  or otherwise,  by which  the health  condition of  a Child shall be proved; and there shall be registered therein the immunizations conducted to the Child and the dates thereof.
+- 10. The  health  card  shall  be  presented  upon  every  medical examination of the Child, at the Childhood Care Centres, the health units  or otherwise,  by which  the health  condition of  a Child shall be proved; and there shall be registered therein the immunizations conducted to the Child and the dates thereof.
 
 11
 
@@ -205,17 +200,17 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### The card attached upon joining school
 
-- The Child parent, or his guardian shall present the health card among  the  papers  of  the  Child  joining  school,  at  the  preuniversity education stages; provided that the physician shall register therein the results of the periodical medical examination of the Child, and such as may occur in his health condition  of  diseases  or  afflictions;  provided  that  it  shall  be kept in the school file.
+- 11. The Child parent, or his guardian shall present the health card among  the  papers  of  the  Child  joining  school,  at  the  pre-university education stages; provided that the physician shall register therein the results of the periodical medical examination of the Child, and such as may occur in his health condition  of  diseases  or  afflictions;  provided  that  it  shall  be kept in the school file.
 
 #### Periodical medical examination procedure
 
-- The health authority, by a decision thereof, shall specify the procedure of periodical medical examination of school Children and the dates of conducting the same, in accordance with the laws and regulations organizing that.
+- 12. The health authority, by a decision thereof, shall specify the procedure of periodical medical examination of school Children and the dates of conducting the same, in accordance with the laws and regulations organizing that.
 
 #### Addition of substances inconsistent with specifications to Child food prohibited
 
 - 13.(1) No  coloured  or  preservative  substances,  nor  food  additives shall be added to the foods and preparations specified for the nutrition of Children, unless they are identical to the conditions  and  specifications  validated  by  the  competent bodies.
 
-- No advertisement of the foods and preparations specified for nutrition of Children shall be made, save after their registration and  obtaining  a  licence  to circulate  the  same  from  the competent bodies, in particular the mother milk substitutes .
+- (2) No advertisement of the foods and preparations specified for nutrition of Children shall be made, save after their registration and  obtaining  a  licence  to circulate  the  same  from  the competent bodies, in particular the mother milk substitutes .
 
 12
 
@@ -225,21 +220,21 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Child right to primary health care
 
-- A Child shall have the right to the provision of primary health care free of charge, at government hospitals and centres; as specified by health authorities.
+- 14. A Child shall have the right to the provision of primary health care free of charge, at government hospitals and centres; as specified by health authorities.
 
 #### Children protected from infectious diseases and provision of treatment free of charge in emergent cases
 
-- A  Child  shall  have  the  right  to  protection  from  infectious diseases, and provision of treatment in emergent cases, at the government hospitals and centres.
+- 15. A  Child  shall  have  the  right  to  protection  from  infectious diseases, and provision of treatment in emergent cases, at the government hospitals and centres.
 
 #### Medical examination in case of marriage
 
-- Those  desirous of marriage shall submit  themselves to examination, to prove their freedom of infections and hereditary diseases, in protection of the Child.
+- 16. Those  desirous of marriage shall submit  themselves to examination, to prove their freedom of infections and hereditary diseases, in protection of the Child.
 
 #### Children afflicted with mental or psychological diseases
 
 - 17.(1) A Child found in the street, and it transpires through inquiries his exposure to neglect, that he has no family and suffers from a mental, or psychological disease, shall be lodged with one of the specialized government hospitals.
 
-- The regulations  shall  specify  the  procedure  that  have  to  be followed and the bodies competent to lodge.
+- (2) The regulations  shall  specify  the  procedure  that  have  to  be followed and the bodies competent to lodge.
 
 13
 
@@ -249,7 +244,7 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Sale of Tobacco and volatile substances to Children prohibited
 
-- There shall be prohibited sale, use or distribution of  volatile substances,  such  as  rubber  adhesive  and  other  narcotic substances,  or alcohol to Children except in necessity and for legitimate cause.
+- 18. There shall be prohibited sale, use or distribution of  volatile substances,  such  as  rubber  adhesive  and  other  narcotic substances,  or alcohol to Children except in necessity and for legitimate cause.
 
 ## Chapter IV
 
@@ -259,11 +254,11 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 - 19.(1) No  person  shall  establish  a  Nursery  ,  or  change  the  site thereof,  before  obtaining  a  prior  licence  from  the  Ministry concerned.
 
-- The regulations, made under the provisions of this Act, shall organize Nurseries, and the procedure of licensing, specifications, control and supervision thereof.
+- (2) The regulations, made under the provisions of this Act, shall organize Nurseries, and the procedure of licensing, specifications, control and supervision thereof.
 
 #### Objectives of Nurseries
 
-- Nurseries aim at achievement of the following objectives :-
+- 20. Nurseries aim at achievement of the following objectives :-
 
 (a) social care of Children, and development of their abilities and gifts;
 
@@ -281,13 +276,13 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Employer bound to establish a  Nursery
 
-- Every employer, who employs one hundred working women, and  more  shall  establish  a  Nursery,  in  which  there  shall  be satisfied  the  conditions  and  specifications,  prescribed  in  the regulations made under the provisions of this Act.
+- 21. Every employer, who employs one hundred working women, and  more  shall  establish  a  Nursery,  in  which  there  shall  be satisfied  the  conditions  and  specifications,  prescribed  in  the regulations made under the provisions of this Act.
 
 #### objectives of Children Development Centres
 
 - 22.(1) There  shall be  established,  by  the Ministry, centres  for Children  development,  which  aim  at  the  social,  instructional and cultural upbringing of Children, through filling their leisure times by sound instructional means and styles.
 
-- Without  prejudice  to  the  generality  of  the  provisions  of  subsection (1), Children Centres shall have the following objectives :-
+- (2) Without  prejudice  to  the  generality  of  the  provisions  of  sub-section (1), Children Centres shall have the following objectives :-
 
 (a)  social, instructional and cultural care, through their leisure times and during holidays, and before the beginning of the school day and after its end;
 
@@ -299,7 +294,7 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 [[START OF PAGE 16]]
 
-- and  psychological  neglect,  and  protecting  them, against exposure to delinquency;
+and  psychological  neglect,  and  protecting  them, against exposure to delinquency;
 
 (c) preparing  the  chances  for  a  Child  to  grow  in  an integrated way, from all bodily, mental and emotional sides,  to  acquire  new  skills  and  reach the greatest amount of development of his potential abilities;
 
@@ -311,11 +306,11 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Vagrancy
 
-- Vagrancy  of Children shall not be deemed  an  offence punishable by law.
+- 23. Vagrancy  of Children shall not be deemed  an  offence punishable by law.
 
 #### Care measures for a vagrant Child
 
-- The competent bodies, in case of finding a vagrant Child, shall hand him over to whoever satisfies the moral guarantees for his care, in accordance  with the following arrangement :-
+- 24. The competent bodies, in case of finding a vagrant Child, shall hand him over to whoever satisfies the moral guarantees for his care, in accordance  with the following arrangement :-
 
 (a) his parents, or one of them;
 
@@ -325,17 +320,11 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 [[START OF PAGE 17]]
 
-(b)
+(b) whoever has guardianship, or trusteeship thereon;
 
-- whoever has guardianship, or trusteeship thereon;
+(c) one of his family members, or relatives;
 
-(c)
-
-- one of his family members, or relatives;
-
-- a  Maintenance  Family,  to  be  entrusted  with  his care according to the provisions of Islamic Sharia and  the  non-Muslim  status  law  as  the  case  may
-
-(d) be;
+(d) a  Maintenance  Family,  to  be  entrusted  with  his care according to the provisions of Islamic Sharia and  the  non-Muslim  status  law  as  the  case  may be;
 
 (e) an official body competent to care for Children.
 
@@ -349,11 +338,9 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 (c) Care Homes.
 
-- The social care institutions such as the Zakat Fund, and other of  funds  shall  subsidize  the  Substitute  Care  Institutions  and programmes.
+- (2) The social care institutions such as the Zakat Fund, and other of  funds  shall  subsidize  the  Substitute  Care  Institutions  and programmes.
 
-- Upon  selecting  Substitute  Care,  due  consideration  shall  be had to continuity of Child instruction, in  accordance with his religious, ethnic, cultural and linguistic background, according
-
-- to his beliefs.
+- (3) Upon  selecting  Substitute  Care,  due  consideration  shall  be had to continuity of Child instruction, in  accordance with his religious, ethnic, cultural and linguistic background, according to his beliefs.
 
 17
 
@@ -363,11 +350,11 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Care Homes established
 
-- The Ministry shall establish Care Homes for the Children, who are deprived of family care ; and the regulations made under the provisions  of  this  Act  shall  specify  the  tasks,  functions  and manner of organizing the same.
+- 26. The Ministry shall establish Care Homes for the Children, who are deprived of family care ; and the regulations made under the provisions  of  this  Act  shall  specify  the  tasks,  functions  and manner of organizing the same.
 
 #### Instruction Homes
 
-- There  shall  be  established  Instruction  Homes  for  delinquent Children, and the regulations shall specify the tasks, functions and manner of organizing them.
+- 27. There  shall  be  established  Instruction  Homes  for  delinquent Children, and the regulations shall specify the tasks, functions and manner of organizing them.
 
 ## Chapter V
 
@@ -377,11 +364,11 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 - 28.(1) Every Child shall have the right to general education.
 
-- The  State shall provide  the capabilities for availing the chances of the compulsory basic education, free of charge.
+- (2) The  State shall provide  the capabilities for availing the chances of the compulsory basic education, free of charge.
 
-- The State shall endeavour to provide education free of charge, at  the  government  secondary  schools,  for  orphans,  and  the disabled and those of unknown parents.
+- (3) The State shall endeavour to provide education free of charge, at  the  government  secondary  schools,  for  orphans,  and  the disabled and those of unknown parents.
 
-- The  State  shall  endeavour  to  include,  into  the  educational curricula, the following :-
+- (4) The  State  shall  endeavour  to  include,  into  the  educational curricula, the following :-
 
 (a)  the spiritual and religious instruction;
 
@@ -407,11 +394,11 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 (d)  expulsion from the school during the progress of study .
 
-- The Ministry of Instruction and General Education shall specify such sanctions, as may be appropriate, for whoever contravenes  the  provisions  of  sub-section  (1),  under  the regulations, to be made thereby in this respect.
+- (2) The Ministry of Instruction and General Education shall specify such sanctions, as may be appropriate, for whoever contravenes  the  provisions  of  sub-section  (1),  under  the regulations, to be made thereby in this respect.
 
 #### Excellent Children rewarded
 
-- Children at schools may be rewarded for academic excellence and cultural and artistic creation, as the regulations made by the Ministry of Instruction and General Education may specify.
+- 30. Children at schools may be rewarded for academic excellence and cultural and artistic creation, as the regulations made by the Ministry of Instruction and General Education may specify.
 
 19
 
@@ -425,17 +412,17 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Child cultural needs satisfied
 
-- There shall be guaranteed for the Child the satisfaction of his cultural needs, such as literature, knowledge and information, and the same shall be connected to values of the society, in a framework of  human  heritage  and  the  modern  scientific  and technological advancement.
+- 31. There shall be guaranteed for the Child the satisfaction of his cultural needs, such as literature, knowledge and information, and the same shall be connected to values of the society, in a framework of  human  heritage  and  the  modern  scientific  and technological advancement.
 
 #### Libraries established
 
 - 32.(1) libraries for the Child, shall be attached to at towns, quarters and villages.
 
-- The regulations shall specify the conditions and procedure of establishment of Child libraries and organizing work thereat.
+- (2) The regulations shall specify the conditions and procedure of establishment of Child libraries and organizing work thereat.
 
 #### Publication of some printed materials and literary works prohibited
 
-- There shall be prohibited the publication, exhibition, circulation, photographing or possession of any printed materials,  or  visual  or  audio  artistic  works,  concerning  the Child, which address his lower desires, or embellish therefor the  conduct  inconsistent  with  values  and  traditions  of  the society, or by nature encourage him to be delinquent .
+- 33. There shall be prohibited the publication, exhibition, circulation, photographing or possession of any printed materials,  or  visual  or  audio  artistic  works,  concerning  the Child, which address his lower desires, or embellish therefor the  conduct  inconsistent  with  values  and  traditions  of  the society, or by nature encourage him to be delinquent .
 
 20
 
@@ -447,11 +434,11 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 - 34.(1) There shall categorically be prevented entry of Children into cinema houses, and viewing clubs, during the school day, and their  entery  shall  be  prohibited  save  they  are  accompanied with their parents or guardians .
 
-- The regulations shall specify organizing viewing of shows for Children at cinema houses, viewing clubs and public places; and  the  responsibility  of  managers  and  supervisors  of  such places,  and  holding  such  shows,  and  those  responsible  for entry  of  the  public,  and  the  sanctions  inflicted  on  those contravening,  from  owners  and  those  responsible  for  the houses.
+- (2) The regulations shall specify organizing viewing of shows for Children at cinema houses, viewing clubs and public places; and  the  responsibility  of  managers  and  supervisors  of  such places,  and  holding  such  shows,  and  those  responsible  for entry  of  the  public,  and  the  sanctions  inflicted  on  those contravening,  from  owners  and  those  responsible  for  the houses.
 
 #### Advertisement of prohibited shows
 
-- Managers of cinema houses, viewing clubs and similar public places shall advertise, on a conspicuous place, in both Arabic and English languages, by all the available mass media the shows viewing of which is prohibited for Children.
+- 35. Managers of cinema houses, viewing clubs and similar public places shall advertise, on a conspicuous place, in both Arabic and English languages, by all the available mass media the shows viewing of which is prohibited for Children.
 
 ## Chapter VII
 
@@ -459,7 +446,7 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Employment of Children organized
 
-- 36.(1) There shall be prohibited work of Children, who are under the age of fourteen years. Notwithstanding the provisions of subsection  (1),  the  Minister  may  exclude  work  of  Children  in agricultural  works,  which  are  not  dangerous,  or  harmful  to health.
+- 36.(1) There shall be prohibited work of Children, who are under the age of fourteen years. Notwithstanding the provisions of sub-section  (1),  the  Minister  may  exclude  work  of  Children  in agricultural  works,  which  are  not  dangerous,  or  harmful  to health.
 
 21
 
@@ -467,19 +454,19 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 [[START OF PAGE 22]]
 
-- A  Child  may  join  apprenticeship  at  industrial  schools,  and vocational education, and  training institutes and  centres, which  are  subject  to  the  supervision  of  the  State,  where  he attains fourteen years of his age.
+- (2) A  Child  may  join  apprenticeship  at  industrial  schools,  and vocational education, and  training institutes and  centres, which  are  subject  to  the  supervision  of  the  State,  where  he attains fourteen years of his age.
 
-- In  cases  not  expressly  provided  therefor  in  this  Act,  the provisions  of  the  Labour  Act,  and  the  regulations  made thereunder shall apply.
+- (3) In  cases  not  expressly  provided  therefor  in  this  Act,  the provisions  of  the  Labour  Act,  and  the  regulations  made thereunder shall apply.
 
 #### Works unhealthy to Child prohibited
 
-- There  shall  be  prohibited  works  by  its  nature  or  for  the circumstances  around  may  damage  child  health,  safety  or moral  conduct  and  the  Minister  of  Labour  or  any  person authorized by him shall specify these business or industries.
+- 37. There  shall  be  prohibited  works  by  its  nature  or  for  the circumstances  around  may  damage  child  health,  safety  or moral  conduct  and  the  Minister  of  Labour  or  any  person authorized by him shall specify these business or industries.
 
 #### Medical examination conducted
 
 - 38.(1) An  employer  shall  conduct  medical  examination  to  working Children free of fees before joining work, to verify the extent of suitability  of  their  bodily  and  health  fitness  for  the  required work.
 
-- The  competent  authority  shall  specify  the  medical  approved body to conduct medical examination and issuing the required medical certficate.
+- (2) The  competent  authority  shall  specify  the  medical  approved body to conduct medical examination and issuing the required medical certficate.
 
 22
 
@@ -491,17 +478,17 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 - 39.(1) The daily work hours of a working Child shall not be more than seven hours, intercepted by one rest period, or more, not less in  total,  than  one  hour,  in  such  way  that  the  Child  shall  not work for more than four consecutive hours, and not remain at the  place  of  work  for  a  period,  which  is  more  than  seven hours.
 
-- A  working Child shall not work over time, or be employed on the weekly rest days, or official holidays, or by night between six P.M and eight a.m.
+- (2) A  working Child shall not work over time, or be employed on the weekly rest days, or official holidays, or by night between six P.M and eight a.m.
 
 #### Leave
 
-- A working Child shall be entitled to a paid leave according to laws and regulations regulating the same.
+- 40. A working Child shall be entitled to a paid leave according to laws and regulations regulating the same.
 
 #### Benefiting by social services
 
 - 41.(1) A working Child may benefit by the workmen social services, which are compatible with his age.
 
-- The  employer  shall  be  bound  to  insure  the  working  Child  at the  Social  Insurance  Fund;  and  present  health  and  medical care,  as to such manner, as the bodies of competence may specify, and train him on the manner of use of means of safety and vocational health, and control application thereof, and his benefiting by such means .
+- (2) The  employer  shall  be  bound  to  insure  the  working  Child  at the  Social  Insurance  Fund;  and  present  health  and  medical care,  as to such manner, as the bodies of competence may specify, and train him on the manner of use of means of safety and vocational health, and control application thereof, and his benefiting by such means .
 
 23
 
@@ -511,7 +498,7 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Child training
 
-- An  employer  shall  not  assign  the  working  Child  with  work, placing  him  under  the  control  of  a  person,  or  persons  from those possessed of experience in such work.
+- 42. An  employer  shall  not  assign  the  working  Child  with  work, placing  him  under  the  control  of  a  person,  or  persons  from those possessed of experience in such work.
 
 ## Chapter VIII
 ### Employment or Participation of Children in Military Actions Prohibited
@@ -519,7 +506,7 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 - 43.(1) There  shall  be  prohibited  the  recruitment  of  Children  in  the armed forces, or in armed groups, or employment thereof to participate in war actions.
 
-- The military laws and regulations shall specify the appropriate measures  to  whoever  contravenes  the  provisions  of  subsection (1).
+- (2) The military laws and regulations shall specify the appropriate measures  to  whoever  contravenes  the  provisions  of  sub-section (1).
 
 #### Demobilization, rehabilitation and re-accommodation
 
@@ -531,17 +518,15 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 [[START OF PAGE 25]]
 
-- The  competent  body  shall  rehabilitate  the  child,  who  is  the victim of armed conflicts, psychologically and mentally and reaccommodate him socially and economically.
+- (2) The  competent  body  shall  rehabilitate  the  child,  who  is  the victim of armed conflicts, psychologically and mentally and re-accommodate him socially and economically.
 
 ## Chapter IX
 ### Exploitation of Children in Prostitution, Pornographic Materials and Forced Labour
 #### Use of Children in prostitution and pornographic materials prohibited
 
-- There shall be deemed committed an offence whoever:-
+- 45. There shall be deemed committed an offence whoever:-
 
-(a) kidnapping of , traffic in and transfer any organ or organs
-
-- of any child;
+(a) kidnapping of , traffic in and transfer any organ or organs of any child;
 
 (b)   rape of Children.
 
@@ -561,15 +546,15 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Employment of Children in forced labour prohibited
 
-(1) There  shall  be  committed  an  offence  whoever    employ Children in traffic in slavery, of all the forms thereof; and no Child shall  be  enslaved,  or    subjected  to  forced  labour,  or compelling him to perform work by force.
+46. (1) There  shall  be  committed  an  offence  whoever    employ Children in traffic in slavery, of all the forms thereof; and no Child shall  be  enslaved,  or    subjected  to  forced  labour,  or compelling him to perform work by force.
 
-- Whoever smuggle or assist in smuggling any child or children across  borders  for  the  purpose  of  forced  labour,  in  traffic, compelling use, or use any form of violence .
+- (2) Whoever smuggle or assist in smuggling any child or children across  borders  for  the  purpose  of  forced  labour,  in  traffic, compelling use, or use any form of violence .
 
 #### Children re-accommodation and rehabilitation
 
-- 47.(1)The  Ministry  shall  take  appropriate  measures  to  achieve  the physical and psychological rehabilitation, and social reaccommodation of the Child, who is the victim of any of the forms  of  neglect,  exploitation,  abuse  ,  torture,  or  any  of  the forms  of  harsh  treatment,  or  severe,  inhuman,  or  degrading punishment, or armed conflicts.
+- 47.(1)The  Ministry  shall  take  appropriate  measures  to  achieve  the physical and psychological rehabilitation, and social re-accommodation of the Child, who is the victim of any of the forms  of  neglect,  exploitation,  abuse  ,  torture,  or  any  of  the forms  of  harsh  treatment,  or  severe,  inhuman,  or  degrading punishment, or armed conflicts.
 
-- Such rehabilitation and re-accommodation shall be conducted in such environment, as may strengthen the Child health, and self and dignity respect.
+- (2) Such rehabilitation and re-accommodation shall be conducted in such environment, as may strengthen the Child health, and self and dignity respect.
 
 26
 
@@ -585,7 +570,7 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 - 48.(1) Subject  to  the  National  Disabled  (  Care  and  Rehabilitation) Act,  2009,  or  any  law  replacing  it  a  Child  having  a  special need shall have the right to social, health and psychological care, aiming at training him to depend upon himself; and the State shall protect him against any work, as may impede his education,  or  prejudice  his  health  or  his  bodily,  mental, spiritual or social growth.
 
-- A  Child having  a special  need  shall  have the right to rehabilitation, by rendering the social, psychological, medical and  vocational  services;  and  the  facilitation  means,  which have to be provided therefore, without consideration, aiming at enabling  him  to  overcome  the  effects  arising  out  of  his disability,  within  the  limits  to  the  amounts  allocated  for  such purpose  in  the  general  budget  of  the  State,  as  to  such conditions, as the regulations may specify.
+- (2) A  Child having  a special  need  shall  have the right to rehabilitation, by rendering the social, psychological, medical and  vocational  services;  and  the  facilitation  means,  which have to be provided therefore, without consideration, aiming at enabling  him  to  overcome  the  effects  arising  out  of  his disability,  within  the  limits  to  the  amounts  allocated  for  such purpose  in  the  general  budget  of  the  State,  as  to  such conditions, as the regulations may specify.
 
 #### Education for children having special need
 
@@ -603,17 +588,15 @@ subject to one of the care measures, in accordance with the provisions of this A
 
 #### Certificates granted
 
-- Every Child, from those having special needs, who has been rehabilitated,    shall  be  granted    a  certificate  ,wherein  there shall be set forth the vocation, for the practice of which he has been qualified, in addition to any other  data, as the Minister of Labour may deem the addition thereof necessary.
+- 50.Every Child, from those having special needs, who has been rehabilitated,    shall  be  granted    a  certificate  ,wherein  there shall be set forth the vocation, for the practice of which he has been qualified, in addition to any other  data, as the Minister of Labour may deem the addition thereof necessary.
 
 #### Registration at labour offices
 
-- The labour office, which lies within the local limits of jurisdiction, shall register the name of the Child, from those having special needs,  who  has  been  rehabilitated,  into  a  special  register, upon notification from the body, which has rehabilitated him.
+- 51. The labour office, which lies within the local limits of jurisdiction, shall register the name of the Child, from those having special needs,  who  has  been  rehabilitated,  into  a  special  register, upon notification from the body, which has rehabilitated him.
 
 #### Employment of children having special needs
 
-52
-
-he Minister of Labour shall allocate jobs in the public sector for the  children  having  special  needs  subject  to  the  required scientific  qualifications,  and  he  shall  encourage  the  public sector to employ them, subject to their qualifications.
+52. The Minister of Labour shall allocate jobs in the public sector for the  children  having  special  needs  subject  to  the  required scientific  qualifications,  and  he  shall  encourage  the  public sector to employ them, subject to their qualifications.
 
 28
 
@@ -623,7 +606,7 @@ he Minister of Labour shall allocate jobs in the public sector for the  children
 
 #### Exemption from fees
 
-- The facilitation and assisting means, and means of transport, which are necessary for Children having special needs, shall be exempted from all types of custom fees , upon approval of the Minister of Finance and National Economy, upon recommendation of the Minister.
+- 53. The facilitation and assisting means, and means of transport, which are necessary for Children having special needs, shall be exempted from all types of custom fees , upon approval of the Minister of Finance and National Economy, upon recommendation of the Minister.
 
 ## Chapter XI
 
@@ -631,7 +614,7 @@ he Minister of Labour shall allocate jobs in the public sector for the  children
 
 #### Family and Child Protection Unit
 
-- There shall be established, under the provisions of the Sudan Police  Act,  2008,  or  any  other  law  replacing  it  specialized police  for  Children,  to  be  known  as  the,  "Family  and  Child Protection  Unit",  and  the  regulations  made  thereunder  shall specify the budget and administrative system thereof.
+- 54. There shall be established, under the provisions of the Sudan Police  Act,  2008,  or  any  other  law  replacing  it  specialized police  for  Children,  to  be  known  as  the,  "Family  and  Child Protection  Unit",  and  the  regulations  made  thereunder  shall specify the budget and administrative system thereof.
 
 #### Functions of the Family and Child Protection Unit
 
@@ -665,13 +648,13 @@ he Minister of Labour shall allocate jobs in the public sector for the  children
 
 [[START OF PAGE 31]]
 
-- Notwithstanding the provisions of sub-section (1), due regard, upon  the  impossibility  of  attendance  of  the  Child  guardian, whoever may deputize, or stand therefore, a delegate of the social care shall be attended .
+- (2) Notwithstanding the provisions of sub-section (1), due regard, upon  the  impossibility  of  attendance  of  the  Child  guardian, whoever may deputize, or stand therefore, a delegate of the social care shall be attended .
 
 #### Social service office
 
-(1)  There shall be established social service offices within the family  and  child  protection  unit,  and  shall  comprise  of appropriate number of social and psychological researches, whether they are from the state employees or volunteers.
+57. (1)  There shall be established social service offices within the family  and  child  protection  unit,  and  shall  comprise  of appropriate number of social and psychological researches, whether they are from the state employees or volunteers.
 
-- The Social Service Office shall have competence on the following, to :-
+- (2) The Social Service Office shall have competence on the following, to :-
 
 (a)      prepare  the  social  and  psychological  file  of  the Child,  preserve  its  secrecy;  provided  that  it  shall contain such information, as the regulations  may specify.
 
@@ -693,11 +676,11 @@ he Minister of Labour shall allocate jobs in the public sector for the  children
 
 - 58.(1)   No procedure of arrest, or detention shall be taken, against a Child,  save  after  summoning  the  guardian,  and  no  arrest warrant  shall  be  executed,  save  by  the  Family  and  Child Protection Unit.
 
-- The Prosecution Attorney, or Magistrate, who has issued the arrest  warrant,  shall  write  a  record,  wherein  he  shall  show the reasons, which justify the same.
+- (2) The Prosecution Attorney, or Magistrate, who has issued the arrest  warrant,  shall  write  a  record,  wherein  he  shall  show the reasons, which justify the same.
 
-- The  Family  and  Child  Protection  Unit,  upon  arrest  of  the Child, shall, as far as possible, forthwith notify both, or one of his parents, his guardians, or those, who exercise supervision over him.
+- (3) The  Family  and  Child  Protection  Unit,  upon  arrest  of  the Child, shall, as far as possible, forthwith notify both, or one of his parents, his guardians, or those, who exercise supervision over him.
 
-- There may not :-
+- (4) There may not :-
 
 (a) detain or kept any child upon his precautionary detention, with adult persons;
 
@@ -707,7 +690,7 @@ he Minister of Labour shall allocate jobs in the public sector for the  children
 
 - 59.(1) The  Ministry  of  interior  shall  establish  Remand  Homes,  in accordance  with  the  international  standards  to  the  children who are waiting inquiry or trait .
 
-- Children,  during  the  period  of  their  remaining  at  Remand Homes,  shall  receive  care  and  protection,  and  all  types  of legal, social, educational, vocational, psychological and medical  aids,  which  are  requisite  therefor,  subject  to  their gender, character and special circumstances.
+- (2) Children,  during  the  period  of  their  remaining  at  Remand Homes,  shall  receive  care  and  protection,  and  all  types  of legal, social, educational, vocational, psychological and medical  aids,  which  are  requisite  therefor,  subject  to  their gender, character and special circumstances.
 
 32
 
@@ -717,17 +700,15 @@ he Minister of Labour shall allocate jobs in the public sector for the  children
 
 #### Children Prosecution Attorneys Bureau  established
 
-it
+- 60.(1) There  shall be  established, under  the  provisions  of the Criminal  Procedure  Act,  1991,  and  the  Ministry  of  Justice (Organization) Act, 1983, or any other law replacing it a  Prosecution Attorneys Bureau, to  be known as the,  "Child Prosecution Attorneys Bureau", and shall have competence to supervise  the  inquiries,  conducted  by  the  Family  and  Child Protection Unit.
 
-- 60.(1) There  shall be  established, under  the  provisions  of the Criminal  Procedure  Act,  1991,  and  the  Ministry  of  Justice (Organization) Act, 1983, or any other law replacing a  Prosecution Attorneys Bureau, to  be known as the,  "Child Prosecution Attorneys Bureau", and shall have competence to supervise  the  inquiries,  conducted  by  the  Family  and  Child Protection Unit.
+- (2)The Prosecution Attorneys Bureau shall give due regard to the good treatment of Children in the inquiries, which it supervises.
 
-- The Prosecution Attorneys Bureau shall give due regard to the good treatment of Children in the inquiries, which it supervises.
+- (3)The Prosecution Attorneys Bureau shall be subject to specialized courses in the field of Sociology, Psychology, the laws and international agreements concerning Children, before  the  assignment  of  any  one  of  them  with  any  tasks, relating to Children.
 
-- The Prosecution Attorneys Bureau shall be subject to specialized courses in the field of Sociology, Psychology, the laws and international agreements concerning Children, before  the  assignment  of  any  one  of  them  with  any  tasks, relating to Children.
+- (4) The  Prosecution  Attorneys  Bureau  may  seek  the  help  of experts  on Psychology  and  Sociology,  to assist in any inquiries, as may be conducted thereby, whether the experts belong to official or voluntary bodies.
 
-- The  Prosecution  Attorneys  Bureau  may  seek  the  help  of experts  on Psychology  and  Sociology,  to assist in any inquiries, as may be conducted thereby, whether the experts belong to official or voluntary bodies.
-
-- Inquiry  of  the  delinquent  Children,  or  victims  cases  shall  be conducted by the Child Prosecution Attorneys Bureau.
+- (5) Inquiry  of  the  delinquent  Children,  or  victims  cases  shall  be conducted by the Child Prosecution Attorneys Bureau.
 
 33
 
@@ -737,23 +718,23 @@ it
 
 #### Functions of the Child Prosecution Attorneys Bureau
 
-(1)  Subject  to  the  provisions  of  the  Criminal  Procedure  Act, 1991, and the Ministry of Justice ( Organization) Act, 1983, or any law  replacing it  the  Child  Prosecution  Attorneys  Bureau shall have the following functions, to  :-
+61. (1)  Subject  to  the  provisions  of  the  Criminal  Procedure  Act, 1991, and the Ministry of Justice ( Organization) Act, 1983, or any law  replacing it  the  Child  Prosecution  Attorneys  Bureau shall have the following functions, to  :-
 
-- supervise  inquiries  in  Children  cases,  and  direct inquiry therein;
+- (1) supervise  inquiries  in  Children  cases,  and  direct inquiry therein;
 
-- supervise the progress of the criminal suit;
+- (2) supervise the progress of the criminal suit;
 
-- address charge in the offences, committed against, or by Children;
+- (3) address charge in the offences, committed against, or by Children;
 
-- conduct prosecution before the Court.
+- (4) conduct prosecution before the Court.
 
-- The  child  Prosecution  Attorney  Bureau  shall  transfer the cases to any competent bodies, to take whatever it deems necessary of measurements and procedures.
+- (2) The  child  Prosecution  Attorney  Bureau  shall  transfer the cases to any competent bodies, to take whatever it deems necessary of measurements and procedures.
 
 #### Child Court established
 
 - 62.(1) There shall be established, under the Judiciary Act, 1986, or any other law replacing it a court, to be known as the, "Child Court".
 
-- The  Child  Court  Magistrate  shall  be  subject  to  specialized courses, in the field of Sociology, Instruction, Psychology and the styles of dealing with Children, and the laws and international agreements concerning the Child.
+- (2)The  Child  Court  Magistrate  shall  be  subject  to  specialized courses, in the field of Sociology, Instruction, Psychology and the styles of dealing with Children, and the laws and international agreements concerning the Child.
 
 34
 
@@ -763,9 +744,9 @@ it
 
 #### Functions of the Child Court
 
-- In addition to any other functions, provided therefor in this Act, the Child Court shall be competent to consider :-
+- 63. In addition to any other functions, provided therefor in this Act, the Child Court shall be competent to consider :-
 
-(a) the cases  submitted, before it on part of the Prosecution  Attorneys  Bureau,  the  Social    and Psychological  Service  Office  or  the  Child  next-ofkin,  with  respect  to  Children  ,  who  are  victims  of violations;
+(a) the cases  submitted, before it on part of the Prosecution  Attorneys  Bureau,  the  Social    and Psychological  Service  Office  or  the  Child  next-of-kin,  with  respect  to  Children  ,  who  are  victims  of violations;
 
 (b) the cases  transferred thereto, by other courts, against delinquent Children;
 
@@ -773,7 +754,7 @@ it
 
 #### Precautionary remand of a Child
 
-- A Child may precautionally be remanded, by an order of the Child Prosecution  Attorneys Bureau,  or the Child Court Magistrate, at a Remand Home, where the circumstances of the  Child,  or  the  nature  of  the  punishable  act  require  the same.
+- 64. A Child may precautionally be remanded, by an order of the Child Prosecution  Attorneys Bureau,  or the Child Court Magistrate, at a Remand Home, where the circumstances of the  Child,  or  the  nature  of  the  punishable  act  require  the same.
 
 #### Trial procedure
 
@@ -785,15 +766,15 @@ it
 
 [[START OF PAGE 36]]
 
-- Notwithstanding the provisions of this Act, with respect to the procedure,  which  have  to  be  followed  by  the  Court,  the procedure may take such form, as may not be followed in the ordinary trial procedure; and the Court may likewise convene at any appropriate place, or time, where the said Court deems there is an interest of the Child therein.
+- (2) Notwithstanding the provisions of this Act, with respect to the procedure,  which  have  to  be  followed  by  the  Court,  the procedure may take such form, as may not be followed in the ordinary trial procedure; and the Court may likewise convene at any appropriate place, or time, where the said Court deems there is an interest of the Child therein.
 
-- A child shall not be tried, save in the attendance of a person deputed by the Social and Psychological Service Office, and endeavor, as far as possible, to secure the attendance of his guardian, or whoever may stand therefor.
+- (3) A child shall not be tried, save in the attendance of a person deputed by the Social and Psychological Service Office, and endeavor, as far as possible, to secure the attendance of his guardian, or whoever may stand therefor.
 
-- Trial of a Child shall not be conducted, save in the attendance of an  advocate,  or  pleader  therefor,  as  far  as  possible;  and  the Court may allow the attendance of any other person, as a friend.
+- (4) Trial of a Child shall not be conducted, save in the attendance of an  advocate,  or  pleader  therefor,  as  far  as  possible;  and  the Court may allow the attendance of any other person, as a friend.
 
-- The Court may exempt a delinquent Child, or the witness, from attending the trial  by  himself,  where  it  deems  that  his  interest requires the same.
+- (5) The Court may exempt a delinquent Child, or the witness, from attending the trial  by  himself,  where  it  deems  that  his  interest requires the same.
 
-- Every procedure, which the law demands its service on a Child shall, as far as possible, be served on his parent, or guardian, whoever may be entrusted with care thereof, or his advocate; and those  shall  have the  right  to  contest,  by  all  the  available legal ways, the judgement passed against the Child.
+- (6) Every procedure, which the law demands its service on a Child shall, as far as possible, be served on his parent, or guardian, whoever may be entrusted with care thereof, or his advocate; and those  shall  have the  right  to  contest,  by  all  the  available legal ways, the judgement passed against the Child.
 
 36
 
@@ -801,13 +782,13 @@ it
 
 [[START OF PAGE 37]]
 
-- Where  the  Court  deems  that  the  health,  bodily,  mental  or psychological  condition  of  the  Child  requires  his  examination, before determining the suit, it shall transfer him to the competent official medical bodies, together with staying the suit, pending  the  examination  being  made,  and  receipt  of  a  report thereon.
+- (7) Where  the  Court  deems  that  the  health,  bodily,  mental  or psychological  condition  of  the  Child  requires  his  examination, before determining the suit, it shall transfer him to the competent official medical bodies, together with staying the suit, pending  the  examination  being  made,  and  receipt  of  a  report thereon.
 
-- Where a Child and adults jointly commit one act, his trial shall be separated; and the Child shall not be brought in the criminal trial of the adults. Where  the same  is not possible, a representative  thereof  shall  be  appointed  to  attend  the  trial sittings.
+- (8) Where a Child and adults jointly commit one act, his trial shall be separated; and the Child shall not be brought in the criminal trial of the adults. Where  the same  is not possible, a representative  thereof  shall  be  appointed  to  attend  the  trial sittings.
 
 #### Visit to remand and instruction homes
 
-- The prosecution  attorney  and  magistrate of  child  court  shall visit remand  homes,  instruction homes  and  social care institutions within their jurisdiction continuously to see Children arrested or convicted and any of them may take appropriate directives.
+- 66. The prosecution  attorney  and  magistrate of  child  court  shall visit remand  homes,  instruction homes  and  social care institutions within their jurisdiction continuously to see Children arrested or convicted and any of them may take appropriate directives.
 
 #### Sentences transferred from Criminal Courts to the Child Court
 
@@ -819,13 +800,13 @@ it
 
 [[START OF PAGE 38]]
 
-- The  Child  Court,  to  which  the  copy  of  the  trial  record  is transferred, in pursuance of the provisions of sub-section (1), may order conducting any inquiries, or social researches, and summon  the Child, before it, to consider taking such measures, as may be appropriate in respect thereof.
+- (2) The  Child  Court,  to  which  the  copy  of  the  trial  record  is transferred, in pursuance of the provisions of sub-section (1), may order conducting any inquiries, or social researches, and summon  the Child, before it, to consider taking such measures, as may be appropriate in respect thereof.
 
 #### Care measures for children exposed to delinquency
 
-(1)  There shall not be taken any criminal proceedings against the children exposed to delinquency .
+68. (1)  There shall not be taken any criminal proceedings against the children exposed to delinquency .
 
-- The Family and Child Prosecution Unit, the child prosecution  attorney  Bureau,  social  care  or  community committees,  shall  take  the  following  reform  measures against the child exposed to delinquency, namely :-
+- (2) The Family and Child Prosecution Unit, the child prosecution  attorney  Bureau,  social  care  or  community committees,  shall  take  the  following  reform  measures against the child exposed to delinquency, namely :-
 
 (a)  moral influence or social justice or any other appropriate methods subject to the recommendation of competent social or psychological expert;
 
@@ -833,7 +814,7 @@ it
 
 (c)  deliver  him  to  the  charity  committee  taking  care  of children or any other charitable body .
 
-- A  written  permission  from  the  child  court  shall  be obtained  in  order  to  implementation  the  measures mentioned in sub-section (2).
+- (3) A  written  permission  from  the  child  court  shall  be obtained  in  order  to  implementation  the  measures mentioned in sub-section (2).
 
 38
 
@@ -853,15 +834,15 @@ it
 
 (d) lodging at Instruction Homes.
 
-- The Court may inflict such reform measures, to the term as it may deem necessary and appropriate.
+- (2) The Court may inflict such reform measures, to the term as it may deem necessary and appropriate.
 
 #### Child age to be considered upon inflicting measures
 
-- The Court shall have due regard to the age of the delinquent Child,  appropriateness  of  the  sentenced  measure  and  the term thereof, for reform of the juvenile and socially rehabilitate him.
+- 70. The Court shall have due regard to the age of the delinquent Child,  appropriateness  of  the  sentenced  measure  and  the term thereof, for reform of the juvenile and socially rehabilitate him.
 
 #### Loding at Instruction Homes
 
-- the  Minister  of  Interior  shall  establish  Instruction  Homes,  for keeping  the  Children  sentenced  to  reform  measures,  under judicial sentences,  in accordance  with  the provisions of section 69(1)(d).
+- 71. the  Minister  of  Interior  shall  establish  Instruction  Homes,  for keeping  the  Children  sentenced  to  reform  measures,  under judicial sentences,  in accordance  with  the provisions of section 69(1)(d).
 
 39
 
@@ -871,23 +852,23 @@ it
 
 #### Youth Homes
 
-- The  competent  Minister  shall  establish  Youth  Homes,  to  be allocated  for  the  delinquent  children  who  attain  the  age  of eighteen and did not finish the term of reform measurement in the instruction home.
+- 72. The  competent  Minister  shall  establish  Youth  Homes,  to  be allocated  for  the  delinquent  children  who  attain  the  age  of eighteen and did not finish the term of reform measurement in the instruction home.
 
 #### Power of the Court to stop measures
 
-- The  Court,  at  any  time,  according  to  the  condition  of  the delinquent Child, may exempt from measures, by a grounded decision,  if  it  is  proved  the  righteousness  of  the  delinquent child.
+- 73. The  Court,  at  any  time,  according  to  the  condition  of  the delinquent Child, may exempt from measures, by a grounded decision,  if  it  is  proved  the  righteousness  of  the  delinquent child.
 
 #### Reports of the Instruction Home
 
 - 74.(1) The  Director  of  the  Instruction  Home  shall  present,  to  the Court, a report every three months, wherein he sets forth the condition of the delinquent Child, together with recommending in respect thereof.
 
-- The Court, upon recommendation of the Instruction Home, or any  specialized  body,  may  amend,  or  quash  any  reform measure taken in regard of the delinquent child.
+- (2) The Court, upon recommendation of the Instruction Home, or any  specialized  body,  may  amend,  or  quash  any  reform measure taken in regard of the delinquent child.
 
 #### Appeal
 
 - 75.(1) The sentences and orders passed by the Child Court shall be subject to appeal before the Court of Appeal.
 
-- The  Child  parents,  his  guardian,  whoever  may  be  entrusted with his care or his advocate shall have the right to contest , by all the available legal ways, the sentence passed against the Child  interest.
+- (2) The  Child  parents,  his  guardian,  whoever  may  be  entrusted with his care or his advocate shall have the right to contest , by all the available legal ways, the sentence passed against the Child  interest.
 
 40
 
@@ -899,13 +880,13 @@ it
 
 - 76.(1) Where  it  transpires,  to  the  Child  Court,  in  any  proceedings before it,  or  before  any  other  court,  that  the  Child  has  been exposed,  or  may  be  exposed  to  danger,  or  any  harmful influence, it may assign any specialized body, with the study of his case, and  prepare  the  recommendation  and  the appropriate treatment thereof, and the body having competence on such treatment.
 
-- The  Child  Court  shall  pass  the appropriate  decision, in accordance  with  the  recommendation  of  the  body,  referred thereto in sub-section (1).
+- (2) The  Child  Court  shall  pass  the appropriate  decision, in accordance  with  the  recommendation  of  the  body,  referred thereto in sub-section (1).
 
-- A  Criminal  Court,  or  any  other  court,  before  which  a  suit  is submitted, which reveals the occurrence of an offence against a Child, shall write a record thereof, and submit the same to the Child Court.
+- (3) A  Criminal  Court,  or  any  other  court,  before  which  a  suit  is submitted, which reveals the occurrence of an offence against a Child, shall write a record thereof, and submit the same to the Child Court.
 
 #### Principles of passing sentences
 
-- The Court, upon passing sentences, shall give due regard to the following principles :-
+- 77. The Court, upon passing sentences, shall give due regard to the following principles :-
 
 (a) that the measure is appropriate to the circumstances and needs of the Child, and the act he has committed;
 
@@ -929,11 +910,11 @@ it
 
 - 78.(1) The Court shall supervise execution of the sentences passed thereby.
 
-- The  Social  probation  officer  shall  submit,  to  the  Court,  a periodical report and a monthly report, on the development of the Child conduct, and the Court , in the light of the reports submitted  thereto,  by  the  Social  and  Psychological  Service Office,  may  amend  the  measures  taken  on  the  part  thereof, whenever the same is necessary.
+- (2) The  Social  probation  officer  shall  submit,  to  the  Court,  a periodical report and a monthly report, on the development of the Child conduct, and the Court , in the light of the reports submitted  thereto,  by  the  Social  and  Psychological  Service Office,  may  amend  the  measures  taken  on  the  part  thereof, whenever the same is necessary.
 
 #### Secrecy of sittings
 
-- The privacy right of the Child shall be respected , during the sittings of trial, to avoid any injury, as may affect him; and no information, relating to his appearance before any court, shall be published, save by permission of the Child Court.
+- 79. The privacy right of the Child shall be respected , during the sittings of trial, to avoid any injury, as may affect him; and no information, relating to his appearance before any court, shall be published, save by permission of the Child Court.
 
 42
 
@@ -943,21 +924,21 @@ it
 
 #### Transfer outside the judicial system
 
-- The Court may transfer the suit of the delinquent Child, to be treated by a social association, or institution, without recourse to  his  trial  before  it;  provided  that  it  shall  set  forth,  in  the transfer decision, the standards and conditions, which have to apply to the said treatment.
+- 80. The Court may transfer the suit of the delinquent Child, to be treated by a social association, or institution, without recourse to  his  trial  before  it;  provided  that  it  shall  set  forth,  in  the transfer decision, the standards and conditions, which have to apply to the said treatment.
 
 #### Records
 
 - 81.(1) Records of Children cases shall be kept in full secrecy, and they shall not be perused, save by permission of the Court .
 
-- Where a Child is brought for trial, before the Child Court , such court shall assure joining the papers of previous trials (if any), before other  courts,  for  the  purpose  of  benefiting  thereby  in knowing the background and circumstances of the Child.
+- (2) Where a Child is brought for trial, before the Child Court , such court shall assure joining the papers of previous trials (if any), before other  courts,  for  the  purpose  of  benefiting  thereby  in knowing the background and circumstances of the Child.
 
-- Notwithstanding  any  other  rules,  relating  to  burning  cases papers, Children cases papers shall be burnt forthwith attainment thereby of the age of eighteen years.
+- (3) Notwithstanding  any  other  rules,  relating  to  burning  cases papers, Children cases papers shall be burnt forthwith attainment thereby of the age of eighteen years.
 
-- Notwithstanding  the  provisions  of  any  rules  concerning  the extermination  of  the  papers  of  cases,  the  papers  of  the children  cases  shall  be  exterminated  forwith  attainment  the age of eighteen.
+- (4) Notwithstanding  the  provisions  of  any  rules  concerning  the extermination  of  the  papers  of  cases,  the  papers  of  the children  cases  shall  be  exterminated  forwith  attainment  the age of eighteen.
 
 #### Role of the Social  Probation Officer in case of placing a Child under Social Probation
 
-- The  Social  Probation  Officer  shall  discharge  the  following duties, to :-
+- 82. The  Social  Probation  Officer  shall  discharge  the  following duties, to :-
 
 43
 
@@ -1017,7 +998,7 @@ Probation Officer in the area, to which he has moved, for follow-up of his Proba
 
 (g)  avoidance of unjustified delay in determining the cases, and execution of the orders and decisions, which grant compensation to victim Children.
 
-- The Justice  Organs  shall  guarantee  to  all  Children,  who are the victims of the offences, provided for in sections 45 and  46  ,  availing  the  appropriate  procedure  to  obtain, without  discrimination,  compensation  for  the  injuries  they have suffered, by the persons legally responsible for such offences.
+- (2) The Justice  Organs  shall  guarantee  to  all  Children,  who are the victims of the offences, provided for in sections 45 and  46  ,  availing  the  appropriate  procedure  to  obtain, without  discrimination,  compensation  for  the  injuries  they have suffered, by the persons legally responsible for such offences.
 
 46
 
@@ -1035,7 +1016,7 @@ Probation Officer in the area, to which he has moved, for follow-up of his Proba
 
 (2)The  competent  authority,  which    has  been  informed  of  the matter, under the provisions of sub-section (1), may summon the person, against whom the information is made, and verify the matter therewith; and the competent body may order such , as it may deem achieving the Child interest.
 
-- Where  the  person,  to  whom  any  order  has  been  issued  , under  the  provisions  of  sub-section  (2),  refuses  executing such order, the competent body may submit the matter to the nearest Family and Child Protection Unit, together with such recommendations, as it may deem fit, to treat  the situation, and the body, to which the matter has been submitted may :-
+- (3) Where  the  person,  to  whom  any  order  has  been  issued  , under  the  provisions  of  sub-section  (2),  refuses  executing such order, the competent body may submit the matter to the nearest Family and Child Protection Unit, together with such recommendations, as it may deem fit, to treat  the situation, and the body, to which the matter has been submitted may :-
 
 (a)  issue any order, as it may issue under the provisions of this Act, or any other law;
 
@@ -1051,9 +1032,9 @@ Probation Officer in the area, to which he has moved, for follow-up of his Proba
 
 - 85.(1) There shall be established a hot telephone line, or any other means  of  communication,  to  receive  information,  suits  and complaints of any violation to any of the Child rights, set out in this Act, provided that the official authorities which receive the information shall be certain of the informant and his address.
 
-- The police shall establish a centre of receiving information , and co-ordination with the competent bodies, to intervene.
+- (2) The police shall establish a centre of receiving information , and co-ordination with the competent bodies, to intervene.
 
-- If  it  appears  that  there  is  a  false  information,  the  informant shall be tried under the criminal law .
+- (3) If  it  appears  that  there  is  a  false  information,  the  informant shall be tried under the criminal law .
 
 #### Penalties
 
@@ -1085,7 +1066,7 @@ Probation Officer in the area, to which he has moved, for follow-up of his Proba
 
 #### Power to make regulations, rules and orders
 
-- The Council may make such regulations, rules and orders, as may be necessary, for implementation of the provisions of this Act.
+- 87. The Council may make such regulations, rules and orders, as may be necessary, for implementation of the provisions of this Act.
 
 49
 
