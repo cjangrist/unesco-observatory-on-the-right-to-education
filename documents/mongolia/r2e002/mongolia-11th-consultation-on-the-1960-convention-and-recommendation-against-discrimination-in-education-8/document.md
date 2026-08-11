@@ -4,7 +4,7 @@
 
 ## Survey response 1
 
-## ENERAL INFORMATION
+
 
 Response ID
 
@@ -26,6 +26,8 @@ Seed
 
 1469744335
 
+## GENERAL INFORMATION
+
 Country name:
 
 Mongolia
@@ -44,7 +46,7 @@ amarjargal@moe.gov.mn
 
 e.urangaa@unesco.mn, 976-70105652
 
-## Ratification and applicability of the Convention against Discrimination in Education[1]
+## I. Ratification and applicability of the Convention against Discrimination in Education[1]
 
 Is your country a State Party to the Convention?
 
@@ -70,7 +72,7 @@ page 1 / 34
 
 [[START OF PAGE 2]]
 
-## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development  oal 4 (SD 4).
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4).
 ### 1. Towards an inclusive non-discriminatory education system
 
 Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
@@ -81,46 +83,46 @@ Yes
 
 Resolutions:
 
-Resolution No. 235 (2020) of the  overnment of Mongolia: "Some Measures to Be Taken Regarding Inclusive Education."
+Resolution No. 235 (2020) of the Government of Mongolia: "Some Measures to Be Taken Regarding Inclusive Education."
 
-Resolution No. 91 (2022) of the  overnment of Mongolia: "Approving the Normative Methodology of Average Variable Costs."
+Resolution No. 91 (2022) of the Government of Mongolia: "Approving the Normative Methodology of Average Variable Costs."
 
-Resolution No. 264 (2021) of the  overnment of Mongolia: "Regulations on Financial Support from the State for Students of Higher Education Institutions."
+Resolution No. 264 (2021) of the Government of Mongolia: "Regulations on Financial Support from the State for Students of Higher Education Institutions."
 
-Resolution No. 208 (2020) of the  overnment of Mongolia: "On Additions to the Regulations" / Procedures for Calculating Costs of Special Training Institutions and Paying Additional Fees to Certain Officials, as approved by Appendix 4 of Resolution No. 185 (May 30, 2012)./
+Resolution No. 208 (2020) of the Government of Mongolia: "On Additions to the Regulations" / Procedures for Calculating Costs of Special Training Institutions and Paying Additional Fees to Certain Officials, as approved by Appendix 4 of Resolution No. 185 (May 30, 2012)./
 
 Orders:
 
-Order No. A/296 (2020) of the Ministry of Education, Culture, and Sports: "Instructions on the Payment of Additional Remuneration to Teachers and Assistant Teachers Working with Children with Disabilities in Kindergartens and  eneral Education Schools."
+Order No. A/296 (2020) of the Ministry of Education, Culture, and Sports: "Instructions on the Payment of Additional Remuneration to Teachers and Assistant Teachers Working with Children with Disabilities in Kindergartens and General Education Schools."
 
 Order No. A/170 (2022) of the Minister of Education and Science: "Instructions for Planning and Allocating the Costs of Educational Activities."
 
-Order No. A/249 (2020) of the Minister of Education and Science: "Directions for the Activities of Classrooms Supporting Children's Development in  eneral Education Schools."
+Order No. A/249 (2020) of the Minister of Education and Science: "Directions for the Activities of Classrooms Supporting Children's Development in General Education Schools."
 
 Order No. A/305 (2020) of the Minister of Education, Culture, Science, and Sports: "Language Development Standard Training Program."
 
 Order No. A/184 (2020) of the Minister of Education and Science: "Procedures for Creating Materials and Learning Environments Suitable for Students with Disabilities at All Levels of Educational Institutions."
 
-Order No. A/292 (2019) of the Ministry of Education and Culture: "Procedures for the Equal Inclusion of Children with Disabilities in  eneral Education Schools."
+Order No. A/292 (2019) of the Ministry of Education and Culture: "Procedures for the Equal Inclusion of Children with Disabilities in General Education Schools."
 
 Order No. A/309 (2021) of the Minister of Education and Science: "Standard Training Program for Providing Household, Space, and Movement Orientation to Visually Impaired Children."
 
-Order No. A/177 (2021) of the Minister of Education and Science: "Procedures for the Inclusion of Children with Disabilities in Preschool Education Services."
+Order No. A/177 (2021) of the Minister of Education and Science: "Procedures for the Inclusion of Children with Disabilities in Pre-school Education Services."
 
 Order No. A/325 (2021) of the Minister of Education and Science: "Directions for the Evaluation of Students Studying with an Individual Study Plan."
 
 Order No. A/155 (2018): "Methodology for Developing Individual Training Plans."
 
-Order No. A/553 (2023) of the Minister of Education and Science: " uidelines for Inclusive Education."
+Order No. A/553 (2023) of the Minister of Education and Science: "Guidelines for Inclusive Education."
 
 Order No. A/158 (2023) of the Minister of Education and Science: "Standard Program for Traveling Teachers."
 
 #### 1.1 Non-discrimination and equality in education
-Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SD  target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Legal texts (Constitution, laws, decrees, regulations, circulars, etc.) prohibit discrimination and guarantee equal access to education]
+Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Legal texts (Constitution, laws, decrees, regulations, circulars, etc.) prohibit discrimination and guarantee equal access to education]
 
 Yes
 
-1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SD  target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education]
+1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education]
 
 Yes
 
@@ -130,7 +132,7 @@ page 2 / 34
 
 [[START OF PAGE 3]]
 
-1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SD  target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Combatting discrimination in terms of curriculum]
+1.1 Non-discrimination and equality in education Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation [1], and ensure equal access to all levels and types of education (please tick all that apply): For reference: This notably is covered under SDG target 4.1 and partly target 4.b [2]. [1] See: Article/Paragraph 1(1). [2] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'. [Combatting discrimination in terms of curriculum]
 
 Yes
 
@@ -160,7 +162,7 @@ No
 
 - Please indicate the relevant legal provisions:
 
-The  eneral Education Law:
+The General Education Law:
 
 Section 4.1 states that the goal of education is to ensure equal opportunities for all to receive quality education.
 
@@ -180,13 +182,13 @@ Section 13.2.2 outlines teachers' responsibility to effectively manage and direc
 
 The funding and composition of variable costs in educational institutions are determined at each level to provide equal learning opportunities, considering school location, professional field, curriculum, and students' diverse needs.
 
-The  eneral Education Law incorporates provisions for "Education for Equal Inclusion" (Chapter Three), covering curriculum plans, programs, textbooks, materials, evaluation, teacher methodology, learning environment, funding, and parent participation. Regulations ensure equal inclusion of every child in education.
+The General Education Law incorporates provisions for "Education for Equal Inclusion" (Chapter Three), covering curriculum plans, programs, textbooks, materials, evaluation, teacher methodology, learning environment, funding, and parent participation. Regulations ensure equal inclusion of every child in education.
 
 All levels of education adapt curriculum and content to meet the needs of diverse learners. The Law on Vocational and Technical Education and Training adjusts curriculum to match students' varying needs and skill levels (Section 6.10).
 
 The Law on Higher Education requires educational institutions to implement programs supporting students with special educational needs and create suitable environments (Section 31.1.6).
 
-Additionally, the  overnment's Resolution No. 102 of 2024 outlines procedures for grants, loans, repayment, and support to students of domestic and foreign higher education institutions. It provides tuition grants for students in high-demand professions such as speech therapy, movement therapy, occupational therapy, psychology, and special education methodologists (Clauses 7.1, 7.2.2, 7.7 of the Rules).
+Additionally, the Government's Resolution No. 102 of 2024 outlines procedures for grants, loans, repayment, and support to students of domestic and foreign higher education institutions. It provides tuition grants for students in high-demand professions such as speech therapy, movement therapy, occupational therapy, psychology, and special education methodologists (Clauses 7.1, 7.2.2, 7.7 of the Rules).
 
 page 3 / 34
 
@@ -196,7 +198,7 @@ page 3 / 34
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
-eneral Education Law:
+General Education Law:
 
 Article 5. Principles of education: 5.1.3. equal access, non-discrimination and openness;
 
@@ -242,7 +244,7 @@ The "Methods and Forms for Comprehensive Developmental Support for Children with
 
 Under the Minister of Education and Science's Order No. A/41 of 2020, titled "Inclusion of Children with Disabilities in Kindergarten," more than 200 school-aged children (aged 6-11) who require permanent or inpatient care were included in the educational and support services of Kindergarten No. 10 in the capital from 2021 to 2024.
 
-A draft of the "Structure and Staffing Rules for the Support Center for Education of People with Disabilities" and the "Procedures for Providing Comprehensive Developmental Support to Students with Different Needs in Kindergartens and  eneral Education Schools" has been prepared.
+A draft of the "Structure and Staffing Rules for the Support Center for Education of People with Disabilities" and the "Procedures for Providing Comprehensive Developmental Support to Students with Different Needs in Kindergartens and General Education Schools" has been prepared.
 
 To ensure no child is left out of education, a post for Inclusive Education has been created within the structure of state and local administrative organizations. This post is responsible for implementing education sector policies and activities related to inclusive education, with detailed duties and responsibilities outlined in the job description. For example, the job description of the official responsible for inclusive education in the local State Ministry of Education and Culture includes tasks such as "Reporting statistical information on the implementation of inclusive education policies accurately and on time" and "Ensuring the inclusion of each child with different needs in educational services, detecting children left out of education, and taking necessary countermeasures."
 
@@ -254,9 +256,9 @@ In accordance with Order No. A/158 of 2023 from the Minister of Education and Sc
 
 In 2021, 140.6 million MNT was allocated to fund methodological recommendations for teaching Mongolian language lessons to deaf children using the bilingual method, as well as to develop elementary and advanced programs for Mongolian sign language.
 
-The "Mongolian Sign Interpreter" professional program was developed in collaboration with organizations such as the "Education of the Deaf" N O, the Association of Sign Language Interpreters and Translators, and the National Association of Deaf People. This initiative aims to create opportunities for people with disabilities to participate in vocational and technical education, enhancing their professional skills and employment prospects. New standards were developed, and training in this field has commenced.
+The "Mongolian Sign Interpreter" professional program was developed in collaboration with organizations such as the "Education of the Deaf" NGO, the Association of Sign Language Interpreters and Translators, and the National Association of Deaf People. This initiative aims to create opportunities for people with disabilities to participate in vocational and technical education, enhancing their professional skills and employment prospects. New standards were developed, and training in this field has commenced.
 
-By Order No. A/206 of 2022 from the Minister of BSU, the exemplary model of the "Individual Education Plan" for preschool-aged children with disabilities was approved. This enables teachers to develop learning plans tailored to the characteristics and abilities of children with different needs, establishing a legal framework for supporting children's development. As a result, Article 8.3 of the eneral Law on Education stipulates that "Students with disabilities may receive one-on-one training based on the request and consent of their parents, guardians, or caregivers." The "Procedures for Organizing One-on-One Training for Students with Disabilities in Pre-School and  eneral Education Services" have been developed in accordance with these provisions, with the methodology and training plan approved by the member of the government responsible for education.
+By Order No. A/206 of 2022 from the Minister of BSU, the exemplary model of the "Individual Education Plan" for preschool-aged children with disabilities was approved. This enables teachers to develop learning plans tailored to the characteristics and abilities of children with different needs, establishing a legal framework for supporting children's development. As a result, Article 8.3 of the General Law on Education stipulates that "Students with disabilities may receive one-on-one training based on the request and consent of their parents, guardians, or caregivers." The "Procedures for Organizing One-on-One Training for Students with Disabilities in Pre-School and General Education Services" have been developed in accordance with these provisions, with the methodology and training plan approved by the member of the government responsible for education.
 
 The "Variable Costs and Performance-Based Financing Regulations," approved by Appendix 3 of Resolution No. 39 (2024), titled "On Approving Variable Cost Amounts, Trusts, and Procedures," include provisions to triple the variable costs per student or child with disabilities in all types of kindergartens and educational institutions. Specifically:
 
@@ -298,7 +300,7 @@ No
 
 - Please provide details:
 
-An independent group called "Education for Equal Inclusion," outlined in Chapter Three of the law, covers areas such as curriculum plans, programs, textbooks, materials, evaluation, teaching methodology, learning environment, funding, and parent participation in both pre-school and general education. This group was officially approved, and regulations promoting the equal inclusion of every child in education were established by incorporating the principles of the  eneral Education Law into each provision.
+An independent group called "Education for Equal Inclusion," outlined in Chapter Three of the law, covers areas such as curriculum plans, programs, textbooks, materials, evaluation, teaching methodology, learning environment, funding, and parent participation in both pre-school and general education. This group was officially approved, and regulations promoting the equal inclusion of every child in education were established by incorporating the principles of the General Education Law into each provision.
 
 The Law on Vocational and Technical Education and Training provides for adjustments to the curriculum to accommodate the different needs and skill levels of students. Article 6.10 states that educational institutions may adjust the curriculum specified in Article 6.7, considering the diverse needs and skill levels of students.
 
@@ -315,11 +317,11 @@ Clause 13.1.4 of Article 13 of the Law on the Mongolian Language states that "if
 Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
 #### 1.2. Equality of opportunities and inclusion in education
-Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Legislation provides for inclusive education for all]
+Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Legislation provides for inclusive education for all]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Policy measures aim to enhance inclusion in education for all]
+- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Policy measures aim to enhance inclusion in education for all]
 
 Yes
 
@@ -329,39 +331,39 @@ page 6 / 34
 
 [[START OF PAGE 7]]
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Teachers are trained on inclusive education and to value diversity ]
+- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Teachers are trained on inclusive education and to value diversity ]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Initiatives to address discrimination and promote cultural diversity and mutual acceptance]
+- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Initiatives to address discrimination and promote cultural diversity and mutual acceptance]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Multiple and flexible learning pathways are provided for]
+- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Multiple and flexible learning pathways are provided for]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Curricula and teaching methods are inclusive in design ]
+- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Curricula and teaching methods are inclusive in design ]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Multilingual and intercultural education is supported]
+- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Multilingual and intercultural education is supported]
 
 Yes
 
-- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):  eneral measures: [Other]
+- 1.2. Equality of opportunities and inclusion in education Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked): General measures: [Other]
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 In accordance with the Minister of Education and Culture's Order No. A/170 of 2022, "On Approving Instructions," which mandates a three-fold increase in variable expenses for children with disabilities, more than 5% of the teaching and practical expenses of educational institutions must be allocated for acquiring equipment suitable for children with disabilities. Funding is provided to support these efforts.
 
-According to  overnment Resolution No. 403 of 2021, the Institute of Professional Development for Teachers and the National Center for Lifelong Education were merged to form the " eneral Department of Education," under the Ministry of Education and Science. The Department of Inclusive Education within this structure is responsible for supporting the development and protection of students with diverse needs, ensuring accessible environments in educational institutions, and advancing teacher development.
+According to Government Resolution No. 403 of 2021, the Institute of Professional Development for Teachers and the National Center for Lifelong Education were merged to form the "General Department of Education," under the Ministry of Education and Science. The Department of Inclusive Education within this structure is responsible for supporting the development and protection of students with diverse needs, ensuring accessible environments in educational institutions, and advancing teacher development.
 
-overnment Resolution No. 235 of 2020 instructs the Central State Administrative Organization in charge of Education to ensure that students training to become teachers take the "Basics of Special Needs Education" as a compulsory course.
+Government Resolution No. 235 of 2020 instructs the Central State Administrative Organization in charge of Education to ensure that students training to become teachers take the "Basics of Special Needs Education" as a compulsory course.
 
-The  eneral Education Law, Article 30.1.4, mandates creating conditions for national minorities to receive education in both the Mongolian language and their mother tongue, while also preserving their culture and customs. Additionally, the Law on Pre-School and  eneral Education, Article 7.2, states that in cases where the majority of students belong to a national minority with a different native language, kindergarten and elementary school activities can be conducted in their native language. Article 11.9 ensures the translation of textbooks for visually impaired students and the preparation of mother tongue textbooks for ethnic minorities and hearing-impaired children.
+The General Education Law, Article 30.1.4, mandates creating conditions for national minorities to receive education in both the Mongolian language and their mother tongue, while also preserving their culture and customs. Additionally, the Law on Pre-School and General Education, Article 7.2, states that in cases where the majority of students belong to a national minority with a different native language, kindergarten and elementary school activities can be conducted in their native language. Article 11.9 ensures the translation of textbooks for visually impaired students and the preparation of mother tongue textbooks for ethnic minorities and hearing-impaired children.
 
-The "Variable Costs and Performance-Based Financing Regulations" approved by Appendix 3 of  overnment Resolution No. 39 (2024), "On Approving Variable Costs, Credentials, and Procedures," includes provision 4.1.2, which increases the average variable cost per student by 1% for students in Bayan-Olgii province participating in state-sanctioned general education programs. The budget is allocated accordingly.
+The "Variable Costs and Performance-Based Financing Regulations" approved by Appendix 3 of Government Resolution No. 39 (2024), "On Approving Variable Costs, Credentials, and Procedures," includes provision 4.1.2, which increases the average variable cost per student by 1% for students in Bayan-Olgii province participating in state-sanctioned general education programs. The budget is allocated accordingly.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
@@ -379,13 +381,17 @@ Other relevant general measures, including gender equality [Policy measures aim 
 
 Yes
 
-Other relevant general measures, including gender equality [ ender-responsive education sector planning is undertaken]
+Other relevant general measures, including gender equality [Gender-responsive education sector planning is undertaken]
 
 Yes
 
-Other relevant general measures, including gender equality [Providing positive or affirmative action measures] No
+Other relevant general measures, including gender equality [Providing positive or affirmative action measures]
 
-Other relevant general measures, including gender equality [Providing financial incentives and fellowships ] No
+No
+
+Other relevant general measures, including gender equality [Providing financial incentives and fellowships ]
+
+No
 
 Other relevant general measures, including gender equality [Teachers are trained (initial and in-service) on gender equality]
 
@@ -429,13 +435,13 @@ page 8 / 34
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-ENDER EQUALITY LAW
+GENDER EQUALITY LAW
 
-Article 12:  uarantee of  ender Equality in Culture and Education
+Article 12: Guarantee of Gender Equality in Culture and Education
 
 - 12.1. Men and women shall have equal rights and opportunities to access pre-school, primary, secondary, vocational, and higher education, as well as formal and informal training, professional development, specialization, methodological guidance, and training grants.
 
-- 12.2. The workplace and training environment for directors and heads of educational institutions must be free from gender discrimination.  ender awareness and training activities shall be implemented based on established plans and programs.
+- 12.2. The workplace and training environment for directors and heads of educational institutions must be free from gender discrimination. Gender awareness and training activities shall be implemented based on established plans and programs.
 
 - 12.3. The activity report of educational institutions must include the results of efforts to ensure gender equality, any violations that occurred, and the measures taken to address them.
 
@@ -469,13 +475,15 @@ Yes
 
 National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Policy elaboration includes consultations with local communities]
 
-No National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [The right to carry out their own educational activities is legally guaranteed for national minorities]
+No
 
 page 9 / 34
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [The right to carry out their own educational activities is legally guaranteed for national minorities]
 
 Yes
 
@@ -513,7 +521,7 @@ Yes
 
 National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Curricula are rid of all stereotypes and bias]
 
-Yes National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Other]
+Yes
 
 page 10 / 34
 
@@ -521,13 +529,15 @@ page 10 / 34
 
 [[START OF PAGE 11]]
 
+National minorities: For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. For 'others', please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. [Other]
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-It was enacted in accordance with the Constitution, the  eneral Law on Education, and the Law on the Mongolian Language to protect and develop the rights of ethnic minorities to use their mother tongue and to further safeguard state language rights. The provisions are as follows:
+It was enacted in accordance with the Constitution, the General Law on Education, and the Law on the Mongolian Language to protect and develop the rights of ethnic minorities to use their mother tongue and to further safeguard state language rights. The provisions are as follows:
 
 Article 8, Section 1 of the Constitution of Mongolia states, "Mongolian is the official language of the state." Furthermore, Section 2 states, "This provision shall not prevent ethnic minorities from using their mother tongue for learning, communication, cultural, and scientific activities," ensuring the rights of ethnic minorities.
 
-The  eneral Law on Education, in Article 30.1.4, states, "Organize the work of creating conditions for national minorities to receive education in both the Mongolian language and their mother tongue, and to inherit their culture and customs." In the Law on Pre-school and  eneral Education, Article 7.2 allows, "Where the majority of students are from ethnic minorities with a different language, kindergarten and primary education can be conducted in their native language." Furthermore, Article 11.9 requires, "Textbooks and learning materials for visually impaired students and ethnic minorities should be translated, including the creation of mother tongue textbooks for hearing-impaired children."
+The General Law on Education, in Article 30.1.4, states, "Organize the work of creating conditions for national minorities to receive education in both the Mongolian language and their mother tongue, and to inherit their culture and customs." In the Law on Pre-school and General Education, Article 7.2 allows, "Where the majority of students are from ethnic minorities with a different language, kindergarten and primary education can be conducted in their native language." Furthermore, Article 11.9 requires, "Textbooks and learning materials for visually impaired students and ethnic minorities should be translated, including the creation of mother tongue textbooks for hearing-impaired children."
 
 Article 13.1.4 of the Law on the Mongolian Language mandates, "For schools where the majority of students belong to national minorities with a different native language, a bilingual education program should be implemented, and the content of the program should be approved." Additionally, Article 13.1.5 emphasizes "creating conditions for ethnic minorities to inherit their language, culture, and customs, and to participate in scientific activities," outlining the responsibilities of the central state administration responsible for education and science.
 
@@ -551,13 +561,15 @@ No
 
 Indigenous people: [Policy measures aim to enhance the right to education of indigenous people]
 
-No Indigenous people: [Policy elaboration includes consultations with local communities]
+No
 
 page 11 / 34
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+Indigenous people: [Policy elaboration includes consultations with local communities]
 
 No
 
@@ -617,13 +629,15 @@ No
 
 People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Inclusion in mainstream schools is ensured]
 
-No People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Positive or affirmative action measures are provided for ]
+No
 
 page 12 / 34
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Positive or affirmative action measures are provided for ]
 
 No
 
@@ -665,13 +679,15 @@ No
 
 People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Non-formal and/or alternative education programmes are provided]
 
-No People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Language classes to newcomers are provided for]
+No
 
 page 13 / 34
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations[1]. [1] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2). [Language classes to newcomers are provided for]
 
 No
 
@@ -747,7 +763,7 @@ People with disabilities: [Other]
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-In accordance with the "Procedures for State Financial Support to Students of Higher Education Institutions," approved by overnment Resolution No. 102 of 2022, the Education Loan Fund awarded 308.5 million MNT in scholarships to 284 students studying to become occupational therapists at state-owned universities and colleges in 2022 and 2023.
+In accordance with the "Procedures for State Financial Support to Students of Higher Education Institutions," approved by Government Resolution No. 102 of 2022, the Education Loan Fund awarded 308.5 million MNT in scholarships to 284 students studying to become occupational therapists at state-owned universities and colleges in 2022 and 2023.
 
 Article 6 of the regulations outlines support for "Disabled Students." According to Article 6.1, students classified as "Disabled Persons" under Article 4.1.1 of the Law on the Rights of Persons with Disabilities are eligible for grants to study in associate, bachelor's, master's, or doctoral programs at domestic educational institutions. They can also receive grants for bachelor's, master's, and doctoral programs at foreign educational institutions. Additionally, Article 8.1 specifies that grants are available to "target group" students studying in bachelor's programs at domestic institutions. Article 8.2 defines the "target group" to include complete orphans, half-orphans, children of disabled parents, families with disabled members, one student from Tsaatan, Uriankhai, or Tuva families, winners of the "Mongolian Beautiful Writer" competition, and families with three or more children studying at the same time in bachelor's programs.
 
@@ -767,13 +783,13 @@ The Educational Loan Fund provides three types of tuition grants to students wit
 
 In total, 33,256 students received 58,850.4 million MNT in scholarships.
 
-According to  overnment Resolution No. 208 of 2020, teachers and assistant teachers working with children with disabilities in regular kindergartens and general education schools receive an additional 10% of their basic salary based on the child's developmental progress and the teacher's workload. This policy was implemented from 2021 to 2024.
+According to Government Resolution No. 208 of 2020, teachers and assistant teachers working with children with disabilities in regular kindergartens and general education schools receive an additional 10% of their basic salary based on the child's developmental progress and the teacher's workload. This policy was implemented from 2021 to 2024.
 
 By Order No. A/206 of 2022, the Ministry of Education approved a model "Individual Education Plan" for pre-school children with disabilities. This model enables teachers to develop learning plans tailored to the individual needs and abilities of children, creating a legal framework to support their development.
 
-In 2020, the Minister of Education, Culture, Science, and Sports issued Order A/296, approving "Instructions for the Payment of Additional Remuneration to Teachers and Assistant Teachers Working with Children with Disabilities in Kindergartens and eneral Education Schools." Article 2.1 specifies that these teachers will receive additional wages based on their monthly work results. These additional wages are calculated from the teacher's basic monthly salary and paid quarterly. The calculation includes the total hours worked and the training and activities conducted with children with disabilities.
+In 2020, the Minister of Education, Culture, Science, and Sports issued Order A/296, approving "Instructions for the Payment of Additional Remuneration to Teachers and Assistant Teachers Working with Children with Disabilities in Kindergartens and General Education Schools." Article 2.1 specifies that these teachers will receive additional wages based on their monthly work results. These additional wages are calculated from the teacher's basic monthly salary and paid quarterly. The calculation includes the total hours worked and the training and activities conducted with children with disabilities.
 
-Additionally, the following materials, designed to meet the needs of students with disabilities, were developed and made available on the websites of the  eneral Department of Education and the National Institute of Educational Research:
+Additionally, the following materials, designed to meet the needs of students with disabilities, were developed and made available on the websites of the General Department of Education and the National Institute of Educational Research:
 
 A set of tools, manuals, and explanatory videos to support Braille learning for visually impaired children.
 
@@ -799,13 +815,15 @@ No
 
 Students from poor households: [Teachers are trained to combat stigmatisation ]
 
-No Students from poor households: [Curricula are rid of all stereotypes and bias]
+No
 
 page 15 / 34
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+Students from poor households: [Curricula are rid of all stereotypes and bias]
 
 No
 
@@ -818,15 +836,15 @@ Students from poor households: [Other]
 ### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
-For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' ( eneral Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SD  target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre-primary education, ECCE services are free]
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre-primary education, ECCE services are free]
 
 Yes
 
-2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' ( eneral Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SD  target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre-primary education, ECCE services are affordable]
+2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [Prior to pre-primary education, ECCE services are affordable]
 
 No
 
-2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' ( eneral Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SD  target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [ECCE services are accessible on a non-discriminatory basis]
+2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [ECCE services are accessible on a non-discriminatory basis]
 
 Yes
 
@@ -836,7 +854,7 @@ page 16 / 34
 
 [[START OF PAGE 17]]
 
-2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' ( eneral Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SD  target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.]
+2.1 Early childhood care and education For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation[1] and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education[2]. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'. - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked): [1] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. [2] Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE' [ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.]
 
 Yes
 
@@ -863,7 +881,7 @@ page 17 / 34
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
-Article 4: Duration of Pre-School and  eneral Education and Age of Entry
+Article 4: Duration of Pre-School and General Education and Age of Entry
 
 - 4.1 Pre-school education will last for four years, primary education for five years, basic education for nine years, and secondary education for twelve years.
 
@@ -887,11 +905,11 @@ Article 6: Equal Inclusive Education
 
 - 6.3 Individual learning plans for students with varying needs will be developed by kindergartens and general education schools based on input and consent from parents, guardians, and supporters. These plans will be implemented with their participation and support.
 
-- 6.4 The procedure for organizing individual training and the methodology for developing training plans, as specified in Article 8.3 of the  eneral Law on Education, shall be approved by the government member responsible for education.
+- 6.4 The procedure for organizing individual training and the methodology for developing training plans, as specified in Article 8.3 of the General Law on Education, shall be approved by the government member responsible for education.
 
 - 6.5 The school administration may flexibly determine the duration of a student's classroom study period in consultation with the parents, guardians, and supporters of students with disabilities. This specified duration will not affect the timing of lessons in the general education curriculum.
 
-- 6.6  overnment members responsible for education, social security, and health will jointly approve the procedure for providing comprehensive development support to students with diverse needs in kindergartens and general education schools.
+- 6.6 Government members responsible for education, social security, and health will jointly approve the procedure for providing comprehensive development support to students with diverse needs in kindergartens and general education schools.
 
 - 6.7 Kindergartens and general education schools will employ special needs educators, teaching assistants, doctors, nurses, and professional staff to provide recovery and rehabilitation services tailored to the individual needs of students.
 
@@ -934,7 +952,7 @@ No
 - Please elaborate. Brief quantitative information may be added.
 
 #### 2.2 Primary and secondary education
-For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SD  target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education - of which at least nine years are compulsory.' Primary education - Please provide the age of enrolment and duration of primary education:
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education - of which at least nine years are compulsory.' Primary education - Please provide the age of enrolment and duration of primary education:
 
 Age of enrolment: 5 years old
 
@@ -1085,11 +1103,11 @@ No
 - Please elaborate. Brief quantitative information may be added.
 
 #### 2.3 Higher education
-For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is free of charge]
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is free of charge]
 
 No
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)]
 
 Yes
 
@@ -1099,19 +1117,19 @@ page 21 / 34
 
 [[START OF PAGE 22]]
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through financial incentives and scholarships ]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through financial incentives and scholarships ]
 
 Yes
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through positive or affirmative action measures ]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through positive or affirmative action measures ]
 
 No
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through credit transfer system between states]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education is accessible through credit transfer system between states]
 
 No
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).]
 
 No
 
@@ -1121,7 +1139,7 @@ page 22 / 34
 
 [[START OF PAGE 23]]
 
-2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SD 4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Other]
+2.3 Higher education For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3[1], and target 4.4[2]. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training. - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked): [1] Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'. [2] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'. [Other]
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, university supplies, transport, accommodation). Brief quantitative information may be added.
 
@@ -1156,7 +1174,7 @@ No
 #### 2.4 Adult education and alternative learning
 For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of education for persons who have not received or completed the whole period of their primary education]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of education for persons who have not received or completed the whole period of their primary education]
 
 No
 
@@ -1168,27 +1186,27 @@ page 23 / 34
 
 2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of literacy programmes]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of literacy programmes]
 
 No
 
 2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development) ]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development) ]
 
 No
 
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of free of charge learning opportunities ]
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of free of charge learning opportunities ]
 
 No
 
 2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of professional training including reskilling and upskilling programmes]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of professional training including reskilling and upskilling programmes]
 
 No
 
-2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Recognition, validation and certification of non-formal and informal learning ]
+2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Recognition, validation and certification of non-formal and informal learning ]
 
 No
 
@@ -1200,19 +1218,19 @@ page 24 / 34
 
 2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of free of charge career guidance and counselling ]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Provision of free of charge career guidance and counselling ]
 
 No
 
 2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Lifelong learning entitlements including learning accounts, vouchers, etc.]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Lifelong learning entitlements including learning accounts, vouchers, etc.]
 
 No
 
 2.4 Adult education and alternative learning For reference: Article/Paragraph 4(c) of the
 
-Convention/Recommendation provides for adult education and alternative learning. While SD 4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Other]
+Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.' - Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked): [Other]
 
 - Please elaborate further on the measures taken:
 
@@ -1224,7 +1242,9 @@ No
 
 No
 
-- What challenges were encountered in realizing adult learning and education? [Poor quality programmes ] No
+- What challenges were encountered in realizing adult learning and education? [Poor quality programmes ]
+
+No
 
 - What challenges were encountered in realizing adult learning and education? [Limited funding]
 
@@ -1250,36 +1270,36 @@ page 25 / 34
 
 ### 3. Quality education provision and learning environment
 
-#### 3.1  eneral measures
+#### 3.1 General measures
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [State monitoring and inspections]
 
 No
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Health and sanitation]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Health and sanitation]
 
 No
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Safety (children learn in a safe environment free from violence or harassment, including school-related genderbased violence (in and around schools))]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))]
 
 No
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Infrastructure ]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Infrastructure ]
 
 No
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Curriculum]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Curriculum]
 
 No
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Student-teacher ratio]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Student-teacher ratio]
 
 No
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [School fees (if relevant)]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [School fees (if relevant)]
 
 No
 
-- 3.1  eneral measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Other]
+- 3.1 General measures - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding: [Other]
 
 - Please elaborate on each of the measures taken:
 
@@ -1322,27 +1342,27 @@ No
 - Please elaborate. Brief quantitative information may be added.
 
 #### 3.2 Education personnel
-For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teacher training is provided without discrimination.]
+For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teacher training is provided without discrimination.]
 
 No
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Teachers’ average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).]
 
 No
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Initial training and continuous professional development are provided.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Initial training and continuous professional development are provided.]
 
 No
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Minimum standards and qualifications required for the teaching profession.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Minimum standards and qualifications required for the teaching profession.]
 
 No
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to strengthen the social status and attractiveness of the teaching profession.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to strengthen the social status and attractiveness of the teaching profession.]
 
 No
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.]
 
 No
 
@@ -1352,15 +1372,15 @@ page 27 / 34
 
 [[START OF PAGE 28]]
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Establishment of performance monitoring systems.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Establishment of performance monitoring systems.]
 
 No
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to increase women in leadership positions in education.]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Measures taken to increase women in leadership positions in education.]
 
 No
 
-3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SD  target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Other]
+3.2 Education personnel For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”. - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked): [Other]
 
 - Please elaborate on each of the measures taken:
 
@@ -1380,14 +1400,14 @@ No
 
 No
 
-- What challenges were encountered in the education personnel? [High student - teacher ratio]
+- What challenges were encountered in the education personnel? [High student – teacher ratio]
 
 No
 
 - Please elaborate. Brief quantitative information may be added.
 
 #### 3.3 Respect for human rights and fundamental freedoms
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SD  target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SD 4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Curriculum includes human rights education.]
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to “ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development”. [Curriculum includes human rights education.]
 
 No
 
@@ -1397,26 +1417,26 @@ page 28 / 34
 
 [[START OF PAGE 29]]
 
-3.3 Respect for human rights and fundamental freedoms For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SD  target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SD 4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Educational and/or extracurricular activities are organized on human rights education.]
+3.3 Respect for human rights and fundamental freedoms For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to “ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development”. [Educational and/or extracurricular activities are organized on human rights education.]
 
 No
 
-3.3 Respect for human rights and fundamental freedoms For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SD  target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SD 4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'. [Other]
+3.3 Respect for human rights and fundamental freedoms For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.[1] Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1. - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked): [1] Which calls on states to “ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development”. [Other]
 
 - Please elaborate on each of the measures taken:
 
 #### 3.4 Non-state actors in education
-For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation explicitly apply to non-state educational institutions. Please specify:]
+For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation explicitly apply to non-state educational institutions. Please specify:]
 
 No
 
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation explicitly apply to non-state educational institutions. Please specify:][Comment]
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation explicitly apply to non-state educational institutions. Please specify:][Comment]
 
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:]
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:]
 
 No
 
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:][Comment]
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Policies aim to guarantee that the development of non-state education does not generate discrimination and that non-state actors offer a relevant alternative (without supplanting public education). Please specify:][Comment]
 
 page 29 / 34
 
@@ -1426,19 +1446,19 @@ page 29 / 34
 
 3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the
 
-Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:]
+Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:]
 
 No
 
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:][Comment]
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:][Comment]
 
 3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the
 
-Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:]
+Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:]
 
 No
 
-3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, N Os, community actors. [Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:][Comment]
+3.4 Non-state actors in education For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision[1]. - Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked): [1]  Private, faith-based, NGOs, community actors. [Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:][Comment]
 
 Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [Registration]
 
@@ -1482,7 +1502,7 @@ page 30 / 34
 
 [[START OF PAGE 31]]
 
-- Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [School closures]
+Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered: [School closures]
 
 N/A
 
@@ -1494,11 +1514,13 @@ No
 
 No
 
-- What challenges were encountered in non-state education provision? [High student - teacher ratio]
+- What challenges were encountered in non-state education provision? [High student – teacher ratio]
 
 No
 
-- What challenges were encountered in non-state education provision? [Issues in terms of equity and inclusion] No
+- What challenges were encountered in non-state education provision? [Issues in terms of equity and inclusion]
+
+No
 
 - What challenges were encountered in non-state education provision? [Weak government regulatory and monitoring capacity ]
 
@@ -1509,19 +1531,19 @@ No
 - Please elaborate. Brief quantitative information may be added.
 
 #### 3.5 Digital education
-Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Digital technology use in education is provided for in the legal framework.]
+Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment. [Digital technology use in education is provided for in the legal framework.]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment. [Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment. [Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Measures to remove barriers to accessing digital content , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment. [Measures to remove barriers to accessing digital content , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.]
 
 No
 
@@ -1531,25 +1553,25 @@ page 31 / 34
 
 [[START OF PAGE 32]]
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment. [Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education ]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment. [Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education ]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment. [Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.]
 
 No
 
-3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see  eneral Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment. [A wellestablished, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.]
+3.5 Digital education Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion[1]. - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked): [1] Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment. [A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.]
 
 No
 
 - Please elaborate on each of the measures taken:
 
-- What challenges were encountered in digital education provision (check all that apply)? [Lack of quality, curriculumaligned digital teaching and learning content that supports flexible learning and teaching pathways]
+- What challenges were encountered in digital education provision (check all that apply)? [Lack of quality, curriculum-aligned digital teaching and learning content that supports flexible learning and teaching pathways]
 
 No
 
@@ -1621,7 +1643,7 @@ No
 
 No
 
-- Please indicate the measures taken in terms of governance (several items may be ticked): [Ensuring crisissensitive and disaster risk-informed planning and programming, including the provision of quality education in emergencies.]
+- Please indicate the measures taken in terms of governance (several items may be ticked): [Ensuring crisis-sensitive and disaster risk-informed planning and programming, including the provision of quality education in emergencies.]
 
 No
 
@@ -1639,9 +1661,9 @@ No
 
 No
 
-- What challenges were encountered in terms of governance? [Poor dialogue with teachers' trade unions]
+- What challenges were encountered in terms of governance? [Poor dialogue with teachers’ trade unions]
 
-No Powered by TCPDF (www.tcpdf.org)
+No
 
 page 33 / 34
 
@@ -1653,7 +1675,7 @@ page 33 / 34
 
 No
 
-- What challenges were encountered in terms of governance? [Lack or weakness of monitoring systems - including the lack of reliable data]
+- What challenges were encountered in terms of governance? [Lack or weakness of monitoring systems – including the lack of reliable data]
 
 No
 
