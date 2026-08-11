@@ -2,8 +2,6 @@
 
 TITLE    28
 
-TITLE    28
-
 Chapter 28:02                                                                    PREVIOUS  CHAPTER
 
 # MANPOWER PLANNING AND DEVELOPMENT ACT
@@ -20,184 +18,188 @@ S.I. 219/1997.
 
 Section
 
-- Short title.
+- 1. Short title.
 
-- Interpretation.
+- 2. Interpretation.
 
-- Application of Act.
+- 3. Application of Act.
 
 ### PART II
 
 #### TECHNICAL, VOCATIONAL AND UNIVERSITY EDUCATION
 
-- Promotion of technical and vocational education.
+- 4. Promotion of technical and vocational education.
 
-- Classification  of  technical  or  vocational  institutions  and  teachers colleges.
+- 5. Classification of technical or vocational institutions and teachers colleges.
 
-- Establishment of Government institutions, facilities, schemes, etc.
+- 6. Establishment of Government institutions, facilities, schemes, etc.
 
-- Fees payable at Government institutions.
+- 7. Fees payable at Government institutions.
 
-- Non-Government institutions to be registered.
+- 8. Non-Government institutions to be registered.
 
-- Registration of non-Government institutions.
+- 9. Registration of non-Government institutions.
 
-- Cancellation of registration of non-Government institutions.
+- 10. Cancellation of registration of non-Government institutions.
 
-- Appeals regarding registration.
+- 11. Appeals regarding registration.
 
-- Prohibition of further operations after cancellation of registration.
+- 12. Prohibition of further operations after cancellation of registration.
 
-- Refund for fees paid to institution whose registration is cancelled.
+- 13. Refund for fees paid to institution whose registration is cancelled.
 
-- Grants and loans to institutions, persons, etc.
+- 14. Grants and loans to institutions, persons, etc.
 
-- Duty  of  employers  in  relation  to  employment  of  certain  former students.
+- 15. Duty of employers in relation to employment of certain former students.
 
-- Amenities funds.
+- 16. Amenities funds.
 
-- Maintenance of records at institutions.
+- 17. Maintenance of records at institutions.
 
-- Restrictions on training in designated trades.
+- 18. Restrictions on training in designated trades.
 
 ### PART III
 
 #### NATIONAL MANPOWER ADVISORY COUNCIL
 
-- Establishment and functions of Council.
+- 19. Establishment and functions of Council.
 
-- Appointment of members of Council.
+- 20. Appointment of members of Council.
 
-- Disqualifications for appointment to Council.
+- 21. Disqualifications for appointment to Council.
 
-- Terms and conditions of office of members of Council.
+- 22. Terms and conditions of office of members of Council.
 
-- Vacation of office by members of Council.
+- 23. Vacation of office by members of Council.
 
-- Suspension of members of Council.
+- 24. Suspension of members of Council.
 
-- Filling of vacancies on Council.
+- 25. Filling of vacancies on Council.
 
-- Chairman and vice-chairman of Council.
+- 26. Chairman and vice-chairman of Council.
 
-- Meetings and procedure of Council.
+- 27. Meetings and procedure of Council.
 
-- Committees of Council.
+- 28. Committees of Council.
 
-- Minutes of proceedings of Council and committees.
+- 29. Minutes of proceedings of Council and committees.
 
-- Remuneration and allowances of members of Council and committees.
+- 30. Remuneration and allowances of members of Council and committees.
 
-- Guidance  of  professional  bodies  in  respect  of  national  manpower requirements.
+- 31. Guidance of professional bodies in respect of national manpower requirements.
 
 ### PART IV
 
 #### APPRENTICESHIP TRAINING AND SKILLED WORKER CERTIFICATION
 
-- Designation of trades and prescription of conditions of apprenticeship and skilled worker certification.
+- 32. Designation of trades and prescription of conditions of apprenticeship and skilled worker certification.
+
+TITLE 28
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-- Employment in designated trades.
+- 33. Employment in designated trades.
 
-- Registration of persons as candidates for apprenticeship.
+- 34. Registration of persons as candidates for apprenticeship.
 
-- Registration of employers.
+- 35. Registration of employers.
 
-- Recruitment of apprentices by employers.
+- 36. Recruitment of apprentices by employers.
 
-- Register of apprentices, employers and contracts of apprenticeship.
+- 37. Register of apprentices, employers and contracts of apprenticeship.
 
-- Contracts of apprenticeship.
+- 38. Contracts of apprenticeship.
 
-- Credit for previous training or experience.
+- 39. Credit for previous training or experience.
 
-- Contract of apprenticeship not affected by lawful strike or lockout.
+- 40. Contract of apprenticeship not affected by lawful strike or lockout.
 
-- Extension of period of apprenticeship.
+- 41. Extension of period of apprenticeship.
 
-- Transfer, modification and rescission of contacts of apprenticeship.
+- 42. Transfer, modification and rescission of contracts of apprenticeship.
 
-- Completion of contracts of apprenticeship.
+- 43. Completion of contracts of apprenticeship.
 
-- Certification of skilled workers.
+- 44. Certification of skilled workers.
 
-- Cancellation and suspension of certificates of skilled worker qualification.
+- 45. Cancellation and suspension of certificates of skilled worker qualification.
 
-- Appeals against decisions of Secretary.
+- 46. Appeals against decisions of Secretary.
 
 ### PART V
 
 #### ZIMBABWE MANPOWER DEVELOPMENT FUND
 
-- Zimbabwe Manpower Development Fund.
+- 47. Zimbabwe Manpower Development Fund.
 
-- Application of Fund.
+- 48. Application of Fund.
 
-- Advances to Fund.
+- 49. Advances to Fund.
 
-- Accounts and audit of Fund.
+- 50. Accounts and audit of Fund.
 
-- Financial year of Fund.
+- 51. Financial year of Fund.
 
-- Holding of Fund.
+- 52. Holding of Fund.
 
-- Imposition of levies.
+- 53. Imposition of levies.
 
-- Payment, collection and recovery of levies.
+- 54. Payment, collection and recovery of levies.
 
-- Amended levy assessments.
+- 55. Amended levy assessments.
 
 ### PART VI
 
 #### CHIEF EXECUTIVE OF FUND AND OTHER EMPLOYEES
 
-- Appointment and remuneration of Chief Executive of Fund.
+- 56. Appointment and remuneration of Chief Executive of Fund.
 
-- Functions of Chief Executive and other employees.
+- 57. Functions of Chief Executive and other employees.
 
 ### PART VII
 
 #### MANPOWER RESEARCH AND PLANNING
 
-- Manpower surveys and plans.
+- 58. Manpower surveys and plans.
 
-- Power to obtain information.
+- 59. Power to obtain information.
 
 ### PART VIII
 #### GENERAL
 
-- Powers to enter and inspect and obtain information.
+- 60. Powers to enter and inspect and obtain information.
 
-- Information to be kept confidential.
+- 61. Information to be kept confidential.
 
-- Delegation of functions by Secretary.
+- 62. Delegation of functions by Secretary.
 
-- Establishment and administration of Government scholarship schemes.
+- 63. Establishment and administration of Government scholarship schemes.
 
-- Sale of products of practical training.
+- 64. Sale of products of practical training.
 
-- Recognition of associations of lecturers.
+- 65. Recognition of associations of lecturers.
 
-- Offences and penalties.
+- 66. Offences and penalties.
 
-- Certificates as evidence.
+- 67. Certificates as evidence.
 
-- Presumption re conduct of institution.
+- 68. Presumption re conduct of institution.
 
-- Regulations.
+- 69. Regulations.
 
-- Savings and transitional provisions
+- 70. Savings and transitional provisions
 
-- Additional savings and recalculation of certain levies
+- 71. Additional savings and recalculation of certain levies
 
-AN ACT to provide for the establishment, maintenance and operation of technical or vocational institutions, universities, teachers colleges and vocational training schemes and  to  provide  for  and  promote  the  research,  planning  and  development  of  human resources;  to  provide  for  the  establishment  and  functions  of  a  National  Manpower Advisory Council; to provide for the training of apprentices and the certification of skilled workers; to provide for the continued existence of the Zimbabwe Manpower Development Fund and for the imposition of levies to finance manpower development and for  other  purposes;  and  to  provide  for  matters  connected  with  or incidental to the foregoing.
+AN ACT to provide for the establishment, maintenance and operation of technical or vocational institutions, universities, teachers colleges and vocational training schemes and to provide for and promote the research, planning and development of human resources; to provide for the establishment and functions of a National Manpower Advisory Council; to provide for the training of apprentices and the certification of skilled workers; to provide for the continued existence of the Zimbabwe Manpower Development Fund and for the imposition of levies to finance manpower
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+development and for other purposes; and to provide for matters connected with or incidental to the foregoing.
 
 [Date of commencement: 1st November, 1995.]
 
@@ -301,7 +303,7 @@ over a period specified in the plan;
 
 'teacher education' means the education or training of teachers, but does not include any training or instruction specified in terms of subsection (2);
 
-'technical  or  vocational  education'  means  any  form  of  training  or  instruction, whether  personal  by  correspondence,  which  is  given  to  a  person  over  the  age  of sixteen  years  and  which  is  intended  to  qualify  or  is  capable  of  qualifying  such  a person in whole or in part for any profession, calling or trade, but does not include any training or instruction specified in terms of subsection (2);
+'technical or vocational education' means any form of training or instruction, whether personal or by correspondence, which is given to a person over the age of sixteen years and which is intended to qualify or is capable of qualifying such a person in whole or in part for any profession, calling or trade, but does not include any training or instruction specified in terms of subsection (2);
 
 'technical or vocational institution' means any institution which provides technical or vocational education;
 
@@ -359,7 +361,7 @@ production of qualified professional manpower; and
 
 The Minister may-
 
-(a)         establish,  equip  and  maintain  such  technical  or  vocational  teachers colleges  and  hostels  therefor  as  he  may  consider  necessary  or  desirable  for  the instruction of persons in technical or vocational skills and teacher education; and
+(a) establish, equip and maintain such technical or vocational institutions, teachers colleges and hostels therefor as he may consider necessary or desirable for the instruction of persons in technical or vocational skills and teacher education; and
 
 (b) establish schemes for manpower development, including the establishment, equipment and maintenance of institutions for training and research in advanced technology; and
 
@@ -443,13 +445,35 @@ Provided that, if an appeal is noted in terms of section eleven against the canc
 
 [[START OF PAGE 7]]
 
-(b)         in  terms of subsection (2) of section ten to cancel the registration of this teachers college or technical or vocational institution; he  may,  within  thirty  days  after  being  notified  of  the  rejection  or  cancellation,  by notice in writing setting out his reasons, appeal to the Minister against the Secretary's decision. (2) On an appeal in terms of subsection (1), the Minister may confirm the Secretary's decision  or  make  such  other  decision  as,  in  his  opinion,  the  Secretary  should  have made, and shall cause the appellant to be notified of the decision and of the reasons for the decision. (3)  Any  person  who  is  dissatisfied  with  any  decision  of  the  Minister  in  terms  of subsection (2) may, within thirty days after being notified of it, appeal to the High Court. (4) On an appeal in terms of subsection (3), the High Court may confirm the decision of the Secretary which was the subject of the Minister's decision or may make such other  decision  as,  in  the  court's  opinion,  the  Secretary  should  have  made  in  the matter. (5)  The  noting  of  an  appeal  against  a  decision  referred  to  in  paragraph  (b)  of subsection (1) or subsection (3) shall suspend the effect of the decision against which the appeal is made until the appeal is finally determined.
+(b) in terms of subsection (2) of section ten to cancel the registration of his teachers college or technical or vocational institution;
+
+he may, within thirty days after being notified of the rejection or cancellation, by notice in writing setting out his reasons, appeal to the Minister against the Secretary's decision.
+
+(2) On an appeal in terms of subsection (1), the Minister may confirm the Secretary's decision or make such other decision as, in his opinion, the Secretary should have made, and shall cause the appellant to be notified of the decision and of the reasons for the decision.
+
+(3) Any person who is dissatisfied with any decision of the Minister in terms of subsection (2) may, within thirty days after being notified of it, appeal to the High Court.
+
+(4) On an appeal in terms of subsection (3), the High Court may confirm the decision of the Secretary which was the subject of the Minister's decision or may make such other decision as, in the court's opinion, the Secretary should have made in the matter.
+
+(5) The noting of an appeal against a decision referred to in paragraph (b) of subsection (1) or subsection (3) shall suspend the effect of the decision against which the appeal is made until the appeal is finally determined.
 #### 12        Prohibition of further operations after cancellation of registration
 Subject  to  subsection  (5)  of  section  eleven,  no  person  shall  continue  to  conduct, maintain  or  manage  a  non-Government  teachers  college  or  technical  or  vocational institution after the Secretary has, in terms of subsection (2) of section ten, notified the responsible authority thereof in writing that he has cancelled the registration of the college or institution.
 #### 13        Refund of fees paid to institution whose registration is cancelled
 Notwithstanding  any  law  or  agreement  to  the  contrary,  where  the  registration  of  a teachers  college  or  technical  or  vocational  institution  has  been  cancelled  or  the college or institution ceases to operate, any person who has paid a fee for education or training at the college or institution or for accommodation at any hostel or boarding facility  provided  by  the  college  or  institution  shall  be  entitled  to  recover  from  the responsible authority of the college or institution such part of the fee as was paid in respect of education, training or accommodation, as the case may be, which he has not  received  as  a  result  of  the  cancellation  of  registration  or  of  the  institution  or college's ceasing to operate, as the case may be: Provided that no amount shall be recoverable under this section by a person whose wrongful  act  or  omission  caused  or  contributed  towards  the  cancellation  of  the registration or the institution or college's ceasing to operate.
 #### 14        Grants and loans to institutions, persons, etc.
-(1) Subject  to this section, the  Minister,  after  consultation  with  the  Minister responsible  for  finance,  may  make  a  grant  or  loan  to  or  in  respect  of  any  teachers college, technical or vocational institution, university or university college, or to any other person or institution, for any one or more of the following purposes(a)         tuition  for  students  enrolled  at  the  college,  institution  or  university concerned; (b)         accommodation  for  students  enrolled  at  the  college,  institution  or university concerned; (c)         salaries  or  remuneration  of  lecturers  employed  at  the  college, institution or university concerned; (d)        any amenities fund established in terms of section sixteen; (e)         any  work  in  furtherance  of  technical  or  vocational  education  or training. (2) A grant or loan referred to in subsection (1)-
+(1) Subject to this section, the Minister, after consultation with the Minister responsible for finance, may make a grant or loan to or in respect of any teachers college, technical or vocational institution, university or university college, or to any other person or institution, for any one or more of the following purposes—
+
+(a) tuition for students enrolled at the college, institution or university concerned;
+
+(b) accommodation for students enrolled at the college, institution or university concerned;
+
+(c) salaries or remuneration of lecturers employed at the college, institution or university concerned;
+
+(d) any amenities fund established in terms of section sixteen;
+
+(e) any work in furtherance of technical or vocational education or training.
+
+(2) A grant or loan referred to in subsection (1)—
 
 (a)        shall be in such amount and made subject to such terms and conditions
 
@@ -521,7 +545,7 @@ The  responsible  authority  of  every  registered  teachers  college  and  tech
 
 #### 18        Restrictions on training in designated trades
 
-No person shall give or offer to give any training in a designated trade at any nonGovernment teachers college or non-Government technical or vocational institution unless the college or institution is licensed by the Secretary for the purpose in such form and subject to such conditions as may be prescribed.
+No person shall give or offer to give any training in a designated trade at any non-Government teachers college or non-Government technical or vocational institution unless the college or institution is licensed by the Secretary for the purpose in such form and subject to such conditions as may be prescribed.
 
 ## PART III
 
@@ -553,20 +577,71 @@ No person shall give or offer to give any training in a designated trade at any 
 
 (g)        standards for the certification of skilled worker qualifications and for the recognition of qualifications or levels of competence;
 
-(h)         the  standardization of training programmes and examinations for the purposes of any trade or industry; (i)         the selection of persons wishing to be trained at Government teachers colleges and technical or vocational institutions; ( j)        the imposition and collection of any levy; (k)         promoting  and  mobilizing  support  for  manpower  development  and training programmes of the Government, including the organization of congresses of representatives of such institutions and agencies as the Minister may approve. (4) The Council shall respond promptly to any request by the Minister for advice in terms of this Act.
-#### 20        Appointment of members of Council
-(1) Subject to section twenty-one, members of the Council shall be appointed by the Minister from persons nominated by such(a)        employer and employee organizations; and (b)        Government departments; and (c)        statutory bodies, including local authorities; and (d)        professional organizations; as the Minister may invite to submit nominations. (2) Before appointing a person to the Council in terms of subsection (1), the Minister shall  consult  the  President  and  shall  act  in  accordance  with  such  directions  as  the President may give him.
-#### 21        Disqualifications for appointment to Council
-The Minister shall not appoint a person as a member of the Council and no person shall be qualified to hold office as a member if(a)        he is not a citizen of Zimbabwe; or (b)         he  has been adjudged or otherwise declared insolvent or bankrupt in terms of a law in force in any country, and has not been rehabilitated or discharged; or (c)        he has made an assignment to or arrangement or composition with his creditors in terms of a law in force in any country, and the assignment, arrangement or composition has not been rescinded or set aside; or (d)         within  the  period  of  five  years  immediately  preceding  his  proposed appointment, he has been sentenced(i)         in Zimbabwe, in respect of an offence; or (ii)         outside  Zimbabwe,  in  respect  of  conduct  which,  if  committed  in Zimbabwe, would have constituted an offence; to a term of imprisonment of not less than six months imposed without the  option  of  a  fine,  whether  or  not  any  portion  has  been  suspended,  and  has  not received a free pardon. (2) A member of Parliament shall not be appointed as a member of the Council, nor shall he be qualified to hold office as a member of the council
-#### 22        Terms and conditions of office of members of Council
-(1) A member of the Council shall hold office for such period, not exceeding three years, as the Minister may fix at the time of his appointment. (2)  On  the  expiry  of  the  period  for  which  a  member  of  the  Council  has  been appointed,  he  shall  continue  to  hold  office  until  he  has  been  re-appointed  or  his successor has been appointed: Provided that a member shall not continue to hold office in terms of this subsection for more than six months. (3)  A  person  who  ceases  to  be  a  member  of  the  Council  shall  be  eligible  for  reappointment. (4) Members of the Council shall hold office on such conditions as the Minister may fix.
-#### 23        Vacation of office by members of Council
+(h) the standardization of training programmes and examinations for the purposes of any trade or industry;
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-(1)  A  member  of  the  Council  shall  vacate  and  his  office  his  office  shall  become vacant-
+(i) the selection of persons wishing to be trained at Government teachers colleges and technical or vocational institutions;
+
+(j) the imposition and collection of any levy;
+
+(k) promoting and mobilizing support for manpower development and training programmes of the Government, including the organization of congresses of representatives of such institutions and agencies as the Minister may approve.
+
+(4) The Council shall respond promptly to any request by the Minister for advice in terms of this Act.
+
+#### 20        Appointment of members of Council
+
+(1) Subject to section twenty-one, members of the Council shall be appointed by the Minister from persons nominated by such—
+
+(a) employer and employee organizations; and
+
+(b) Government departments; and
+
+(c) statutory bodies, including local authorities; and
+
+(d) professional organizations;
+
+as the Minister may invite to submit nominations.
+
+(2) Before appointing a person to the Council in terms of subsection (1), the Minister shall consult the President and shall act in accordance with such directions as the President may give him.
+
+#### 21        Disqualifications for appointment to Council
+
+(1) The Minister shall not appoint a person as a member of the Council and no person shall be qualified to hold office as a member if—
+
+(a) he is not a citizen of Zimbabwe; or
+
+(b) he has been adjudged or otherwise declared insolvent or bankrupt in terms of a law in force in any country, and has not been rehabilitated or discharged; or
+
+(c) he has made an assignment to or arrangement or composition with his creditors in terms of a law in force in any country, and the assignment, arrangement or composition has not been rescinded or set aside; or
+
+(d) within the period of five years immediately preceding his proposed appointment, he has been sentenced—
+
+(i) in Zimbabwe, in respect of an offence; or
+
+(ii) outside Zimbabwe, in respect of conduct which, if committed in Zimbabwe, would have constituted an offence;
+
+to a term of imprisonment of not less than six months imposed without the option of a fine, whether or not any portion has been suspended, and has not received a free pardon.
+
+(2) A member of Parliament shall not be appointed as a member of the Council, nor shall he be qualified to hold office as a member of the Council.
+
+#### 22        Terms and conditions of office of members of Council
+
+(1) A member of the Council shall hold office for such period, not exceeding three years, as the Minister may fix at the time of his appointment.
+
+(2) On the expiry of the period for which a member of the Council has been appointed, he shall continue to hold office until he has been re-appointed or his successor has been appointed:
+
+Provided that a member shall not continue to hold office in terms of this subsection for more than six months.
+
+(3) A person who ceases to be a member of the Council shall be eligible for re-appointment.
+
+(4) Members of the Council shall hold office on such conditions as the Minister may fix.
+
+#### 23        Vacation of office by members of Council
+
+(1) A member of the Council shall vacate his office and his office shall become vacant—
 
 [[END OF PAGE 10]]
 
@@ -596,7 +671,7 @@ or
 
 (d)        is mentally or physically incapable of efficiently performing his duties as a member.
 
-(3) The Minister, on the recommendation of the Council, may require a member of the Council to vacate his office if the Minister is satisfied that the member has been absent  without  the  consent  of  the  chairman  of  the  Council  from  three  consecutive meetings of the Council, of which he has been given at least seven days' notice, and that there was no just cause for the members absence.
+(3) The Minister, on the recommendation of the Council, may require a member of the Council to vacate his office if the Minister is satisfied that the member has been absent without the consent of the chairman of the Council from three consecutive meetings of the Council, of which he has been given at least seven days' notice, and that there was no just cause for the member's absence.
 
 #### 24        Suspension of members of Council
 
@@ -626,7 +701,7 @@ Provided  that,  if  the  membership  of  the  Council  has  fallen  below  the 
 
 [[START OF PAGE 12]]
 
-(3) Subject to subsection (4) the chairman of the Council or, in his absence the vicechairman,, shall preside at meetings of the Council.
+(3) Subject to subsection (4) the chairman of the Council or, in his absence the vice-chairman, shall preside at meetings of the Council.
 
 (4)  If  the  chairman  and  the  vice-chairman  are  both  absent  from  a  meeting  of  the Council,  the  members  present  may  elect  one  of  their  number  to  preside  at  that meeting as chairman.
 
@@ -733,7 +808,7 @@ Provided  that  the  date  of  commencement  of  the  conditions shall  not  be 
 
 #### 33        Employment in designated trades
 
-(1)  Subject  to  subsection  (2),  where  trade  has  been  designated  in  terms  of  section thirty-two as one that requires apprenticeship training or skilled worker certification, no employer shall employ a person in that designated trade, and no person shall work in that designated trade, unless that person-
+(1) Subject to subsection (2), where a trade has been designated in terms of section thirty-two as one that requires apprenticeship training or skilled worker certification, no employer shall employ a person in that designated trade, and no person shall work in that designated trade, unless that person—
 
 (a)        is the holder of a certificate of apprenticeship or a certificate of skilled worker qualification in the designated trade; or
 
@@ -787,7 +862,17 @@ may apply to the Secretary, in the prescribed form and manner, for registration 
 
 [[START OF PAGE 15]]
 
-- register the employer; or (b)        if he is not satisfied in regard to any matter specified in paragraph (a), refuse to register the employer: Provided  that  the  Secretary  may  register  an  employer  with limited training facilities who is able to assign the apprentice to another employer for supplementary training. (3)  If  the  Secretary  refuses  to  register  an  employer  in  terms  of  paragraph  (b)  of subsection (2), he shall cause the employer to be notified in writing of the refusal and of the reasons for the refusal. (4)  The  registration  of  an  employer  shall  remain  valid  for  such  period  as  may  be prescribed. (5) Subsection (1) shall apply, mutatis mutandis, to any application by an employer for the renewal of his registration.
+register the employer; or
+
+(b) if he is not satisfied in regard to any matter specified in paragraph (a), refuse to register the employer:
+
+Provided that the Secretary may register an employer with limited training facilities who is able to assign the apprentice to another employer for supplementary training.
+
+(3) If the Secretary refuses to register an employer in terms of paragraph (b) of subsection (2), he shall cause the employer to be notified in writing of the refusal and of the reasons for the refusal.
+
+(4) The registration of an employer shall remain valid for such period as may be prescribed.
+
+(5) Subsection (1) shall apply, mutatis mutandis, to any application by an employer for the renewal of his registration.
 #### 36        Recruitment of apprentices by employers
 (1) A registered employer may recruit as an apprentice any person who is registered as a candidate for apprenticeship. (2) A person who is registered as a candidate for apprenticeship may be indentured to the  Ministry  but  may  at  any  time,  subject  to  such  terms  and  conditions  as  may  be prescribed, be assigned to any registered employer for such practical training as the Secretary may consider appropriate. (3) With effect from the date on which the trade concerned was designated(a)         no  employer  shall  take  any  person  into  his  employment  as  an apprentice in a designated trade unless that person has been registered as a candidate for apprenticeship; (b)        no apprentice in a designated trade shall leave the employment of one registered employer for another except with the written consent of the Secretary.
 #### 37        Register of apprentices, employers and contracts of apprenticeship
@@ -797,7 +882,7 @@ The  Secretary  shall  keep  and  maintain  a  register  in  which  shall  be  r
 
 (4)  A  contract  of  apprenticeship  shall  not  be  registered  in  terms  of  subsection  (3) unless it complies with paragraphs (a) and (b) of subsection (1) and with such other requirements as may be prescribed.
 
-- The  Secretary  may  order  the  cancellation  of  the  registration  of  a  contract  of
+(5) The Secretary may order the cancellation of the registration of a contract of
 
 [[END OF PAGE 15]]
 
@@ -911,7 +996,27 @@ Provided that, when cancelling or suspending a certificate the Secretary may spe
 
 [[START OF PAGE 18]]
 
-(a)        refusing(i)          to  register  him  as  a  candidate  for  apprenticeship  in  terms  of  section thirty-four, or (ii)        to register him as an employer in terms of section thirty-five; or (iii)       to certify him as a skilled worker in terms of section forty-four; or (b)        cancelling the registration of a contract of apprenticeship ship in terms of subsection (5) of section thirty-eight; or (c)        cancelling or suspending his certificate of skilled worker qualification in terms of section forty-five; he may, within thirty days after being notified of the decision, by notice in writing setting out his reasons, appeal to the Minister against the decision. (2) On an appeal in terms of subsection (1), the Minister may confirm the Secretary's decision  or  make  such  other  decision  as,  in  his  opinion,  the  Secretary  should  have made, and shall cause the appellant to be notified his decision and of the reasons for his decision. (3)  Any  person  who  is  dissatisfied  with  any  decision  of  the  Minister  in  terms  of subsection (2) may, within thirty days after being notified of it, appeal to the High Court. (4) On an appeal in terms of subsection (3) the High Court may confirm the decision of the Secretary which was the subject of the appeal to the Minister or may make such other  decision  as,  in  the  Court's  opinion  the  Secretary  should  have  made  in  the matter.
+(a) refusing—
+
+(i) to register him as a candidate for apprenticeship in terms of section thirty-four, or
+
+(ii) to register him as an employer in terms of section thirty-five; or
+
+(iii) to certify him as a skilled worker in terms of section forty-four;
+
+or
+
+(b) cancelling the registration of a contract of apprenticeship in terms of subsection (5) of section thirty-eight; or
+
+(c) cancelling or suspending his certificate of skilled worker qualification in terms of section forty-five;
+
+he may, within thirty days after being notified of the decision, by notice in writing setting out his reasons, appeal to the Minister against the decision.
+
+(2) On an appeal in terms of subsection (1), the Minister may confirm the Secretary's decision or make such other decision as, in his opinion, the Secretary should have made, and shall cause the appellant to be notified of his decision and of the reasons for his decision.
+
+(3) Any person who is dissatisfied with any decision of the Minister in terms of subsection (2) may, within thirty days after being notified of it, appeal to the High Court.
+
+(4) On an appeal in terms of subsection (3) the High Court may confirm the decision of the Secretary which was the subject of the appeal to the Minister or may make such other decision as, in the Court's opinion, the Secretary should have made in the matter.
 
 (5) The noting of an appeal against a decision referred to in paragraph (a), (b) or (c) of subsection (1) shall suspend the effect of the decision against which the appeal is made until the appeal is finally determined.
 
@@ -955,7 +1060,45 @@ Provided that, when cancelling or suspending a certificate the Secretary may spe
 
 (a)        the preparation for(i)          an  annual  capital  budget  for  the  approval  of  the  Minister  after consultation with the Minister responsible for finance; and (ii)        an annual revenue and recurrent expenditure budget for the approval of the Minister; and (b)        the submission of annual reports on the Fund, copies of which shall be submitted to the Comptroller and Auditor-General.
 #### 48        Application of Fund
-(1) In this section'approved trainee' means a person undergoing such technical or vocational training as may be prescribed, and includes a student at university or university college. (2)  In  order  to  give  effect  to  the  object  of  the  Fund  described  in  subsection  (2)  of section forty-seven, the Minister may, in his capacity as trustee of the Fund, do any or all of the following(a)        employ such persons as may be necessary for the purposes of this Act; (b)        grant to his employees such leave or pay in lieu of leave as he thinks fit; (c)        suspend or dismiss his employees; (d)        pay to his employees such salary, wages or other remuneration as he may with the approval of the Minister responsible for finance; (e)        make his employees such gifts, bonuses or the like as he thinks fit; ( f )       provide for his employees or their dependants, by means of insurance with  an  insurance  company  or  pension  or  provident  fund  or  otherwise,  pecuniary benefits  upon  leave,  retirement,  death  or  termination  of  service  or  in  the  event  of sickness or injury; (g)        by grants of money, contribute towards the funds of any medical aid society,  sick  fund  or  similar  institution  for  the  benefit  of  his  employees  or  their dependants,  or  contribute  towards  the  establishment  or  maintenance  of  any  such medical aid society, sick fund or similar institution; (h)         purchase,  construct,  take  on  lease  or  in  exchange,  hire  or  otherwise acquire,  maintain,  alter  or  repair,  manage,  work  and  control  any  movable  or immovable property; (i)          sell,  exchange,  let,  mortgage,  dispose  of,  turn  to  account,  develop, manage or otherwise deal with any property or rights  acquired by him or  any  part thereof for such consideration as he thinks fit; ( j)        insure with any person against any losses, damage, risks or liabilities which he may incur; (k)         pay  bursaries,  loans  or  advances  to  apprentices  and  other  approved trainees for training purposes; (l)          pay  the  wages  and  allowances  of  apprentices  and  other  approved trainees; (m)       pay the costs and out-of-pocket expenses incurred by apprentices and other approved trainees in connection with courses and examinations in terms of this Act; (n)        award prizes for success by apprentices and other approved trainees in any courses and examinations in terms of this Act; (o)        pay the costs or expenses incurred in conducting which examinations as may be specified by the Minister; (p)         make  grants  and  rebates  to  such  registered  employers,  teachers colleges  and  technical  or  vocational  institutions,  and  for  the  promotion  of  such manpower development programmes, as the Minister may specify; (q)        meet the expenses of promoting and mobilizing support for manpower development  programmes  including  any  congress  referred  to  in  paragraph  (k)  of subsection (3) of section nineteen;
+(1) In this section—
+
+'approved trainee' means a person undergoing such technical or vocational training as may be prescribed, and includes a student at university or university college.
+
+(2) In order to give effect to the object of the Fund described in subsection (2) of section forty-seven, the Minister may, in his capacity as trustee of the Fund, do any or all of the following—
+
+(a) employ such persons as may be necessary for the purposes of this Act;
+
+(b) grant to his employees such leave or pay in lieu of leave as he thinks fit;
+
+(c) suspend or dismiss his employees;
+
+(d) pay to his employees such salary, wages or other remuneration as he may with the approval of the Minister responsible for finance;
+
+(e) make his employees such gifts, bonuses or the like as he thinks fit;
+
+(f) provide for his employees or their dependants, by means of insurance with an insurance company or pension or provident fund or otherwise, pecuniary benefits upon leave, retirement, death or termination of service or in the event of sickness or injury;
+
+(g) by grants of money, contribute towards the funds of any medical aid society, sick fund or similar institution for the benefit of his employees or their dependants, or contribute towards the establishment or maintenance of any such medical aid society, sick fund or similar institution;
+
+(h) purchase, construct, take on lease or in exchange, hire or otherwise acquire, maintain, alter or repair, manage, work and control any movable or immovable property;
+
+(i) sell, exchange, let, mortgage, dispose of, turn to account, develop, manage or otherwise deal with any property or rights acquired by him or any part thereof for such consideration as he thinks fit;
+
+(j) insure with any person against any losses, damage, risks or liabilities which he may incur;
+
+(k) pay bursaries, loans or advances to apprentices and other approved trainees for training purposes;
+
+(l) pay the wages and allowances of apprentices and other approved trainees;
+
+(m) pay the costs and out-of-pocket expenses incurred by apprentices and other approved trainees in connection with courses and examinations in terms of this Act;
+
+(n) award prizes for success by apprentices and other approved trainees in any courses and examinations in terms of this Act;
+
+(o) pay the costs or expenses incurred in conducting such examinations as may be specified by the Minister;
+
+(p) make grants and rebates to such registered employers, teachers colleges and technical or vocational institutions, and for the promotion of such manpower development programmes, as the Minister may specify;
+
+(q) meet the expenses of promoting and mobilizing support for manpower development programmes including any congress referred to in paragraph (k) of subsection (3) of section nineteen;
 
 (r)        pay any other costs, charges or expenses of whatever kind involved in
 
@@ -1041,7 +1184,7 @@ any employees, electricity, water and any other remuneration in kind; and
 
 (b)        a sum equal to such percentage of the total wage-bill or such portion of the total wage-bill of the employers concerned;
 
-as may he specified in the statutory instrument imposing the levy.
+as may be specified in the statutory instrument imposing the levy.
 
 (4)  A  statutory  instrument  imposing  a  levy  in  terms  of  subsection  (2)  may  provide for-
 
@@ -1109,20 +1252,20 @@ accordance  with  the  practice  generally  prevailing  at  the  time  it  was  
 
 #### 57        Functions of Chief Executive and other employees
 
-- Subject  to  this  Act  the  Chief  Executive  shall  perform  such  of  the  Minister's functions  specified  in  subsection  (2)  of  section  forty-eight  as  the  Minister  may delegate to him.
+(1) Subject to this Act the Chief Executive shall perform such of the Minister's functions specified in subsection (2) of section forty-eight as the Minister may delegate to him.
 
-(2) With the consent of the Minister, the Chief Executive may delegate any function which  is  vested  in  him  under  this  Act  to  any  other  person  employed  in  terms  of paragraph (a) of subsection (2) of section forty-eight and, subject to subsection (4), the employee concerned may perform the function as if he were the Chief Executive
+(2) With the consent of the Minister, the Chief Executive may delegate any function which is vested in him under this Act to any other person employed in terms of paragraph (a) of subsection (2) of section forty-eight and, subject to subsection (4), the employee concerned may perform the function as if he were the Chief Executive.
 
 (3) Nothing in subsection (2) shall prevent the Chief Executive from withdrawing any delegation  in  terms  of  that  subsection  or  from  amending  any  condition  thereof,  or from himself exercising any function so delegated.
 
-- The employees referred to in subsection (2) shall perform their functions under this Act in accordance with such directions as the Chief Executive may give them.
+(4) The employees referred to in subsection (2) shall perform their functions under this Act in accordance with such directions as the Chief Executive may give them.
 ## PART VII
 
 ### MANPOWER RESEARCH AND PLANNING
 
 #### 58        Manpower surveys and plans
 
-- The Minister may publish a notice in the Gazette directing that, subject to such conditions as may be specified in the notice or prescribed in regulations made under section sixty-nine-
+(1) The Minister may publish a notice in the Gazette directing that, subject to such conditions as may be specified in the notice or prescribed in regulations made under section sixty-nine—
 
 (a)        a manpower survey be conducted into such matters, and on such date or  during  such  period,  as  he  shall  specify  in  the  notice;  and  additionally,  or alternatively;
 
@@ -1170,7 +1313,7 @@ accordance  with  the  practice  generally  prevailing  at  the  time  it  was  
 
 (3) Any person who is required to provide information in terms of subsection (1) shall forthwith comply with the requirement.
 
-(4)  The  Secretary,  or  any  person  authorized  by  him  to  require  the  provision  of information under section (1), shall produce evidence of his identity if required to do so by any person whom he wishes to interview in terms of paragraph (a) of subsection (2).
+(4) The Secretary, or any person authorized by him to require the provision of information under subsection (1), shall produce evidence of his identity if required to do so by any person whom he wishes to interview in terms of paragraph (a) of subsection (2).
 
 ## PART VIII
 
@@ -1200,15 +1343,69 @@ accordance  with  the  practice  generally  prevailing  at  the  time  it  was  
 
 (ii)         to  produce any book, payroll, statement or record or copy thereof or extract therefrom;
 
-that  may  relate  in  any  way  to  the  employment,  remuneration  and conditions of employment of any such former student; (c)        make copies of or take extracts from any book, payroll, statement or record referred to in paragraph (b). (4)  Subject  to  subsection  (7),  the  Secretary,  or  any  person  authorized  by  him  in writing, may at all reasonable times(a)         enter  and  inspect  the  premises  of  any  registered  employer or  of  any person, other than a registered employer, who is believed on reasonable grounds to be employing  any  other  person  as  an  apprentice  or  to  be  providing  apprenticeship training to any other person; (b)         require  any  registered  employer  or  other  person  referred  to  in paragraph (a)(i)         to disclose all information at his disposal; and (ii)         to  produce any book, payroll, statement or record or copy thereof or extract therefrom; that  may  relate  in  any  way  to  the  remuneration  and  conditions  of employment of any apprentice or trainee skilled worker or approved trainee; (c)        make copies of or take extracts from any book, payroll, statement or record referred to in paragraph (b). (5)  Subject  to  subsection  (7),  the  Secretary,  or  any  person  authorized  by  him  in writing, may at all reasonable times(a)         require  an employer upon whom a levy has been imposed or who is believed on reasonable grounds to be liable to pay a levy(i)         to disclose all information at his disposal; and (ii)         to  produce  any  book,  payroll,  financial  statement,  balance  sheet  or record or copy thereof or extract therefrom; that may relate in any way to the payment of the levy or to his liability to pay the levy; (b)         make  copies  of  or  take  extracts  from  any  book,  payroll,  financial statement, balance sheet or record referred to in paragraph (a). (6)  Subject  to  subsection  (7),  the  Secretary,  or  any  person  authorized  by  him  in writing, may, at all reasonable times and for any purpose reasonably connected with any manpower survey or manpower plan referred to in section fifty-eight(a)        enter and inspect any premises; (b)        make any inquiries; (c)        require any person on any premises(i)         to disclose any information at his disposal; and (ii)         to  produce any book, payroll, statement or record or copy thereof or extract therefrom; (d)        make copies of or take extracts from any book, payroll, statement or record referred to in paragraph (c). (7)  The  powers  of  entry  and  inspection  conferred  by  this  section  shall  not  be exercised except with the consent of the owner or person in charge of the premises concerned, or where there are reasonable grounds for believing that it is necessary to exercise them(a)        for the prevention, investigation or detection of an offence, whether in terms of this Act or any other law, or for the obtaining of evidence relating to such an offence; or (b)        for the enforcement of any levy; or (c)         for  the  purpose  of  protecting  the  rights  of  any  person undergoing or entitled to any education or training to which this Act applies.
-#### 61        Information to be kept confidential
-The Secretary and any other person who obtains information in terms of section fiftynine or sixty shall take all steps necessary to ensure that it is kept confidential and is not disclosed to any other person except-
+that may relate in any way to the employment, remuneration and
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-(a)        for the purpose of enforcing this Act; or
+conditions of employment of any such former student;
+
+(c) make copies of or take extracts from any book, payroll, statement or record referred to in paragraph (b).
+
+(4) Subject to subsection (7), the Secretary, or any person authorized by him in writing, may at all reasonable times—
+
+(a) enter and inspect the premises of any registered employer or of any person, other than a registered employer, who is believed on reasonable grounds to be employing any other person as an apprentice or to be providing apprenticeship training to any other person;
+
+(b) require any registered employer or other person referred to in paragraph (a)—
+
+(i) to disclose all information at his disposal; and
+
+(ii) to produce any book, payroll, statement or record or copy thereof or extract therefrom;
+
+that may relate in any way to the remuneration and conditions of employment of any apprentice or trainee skilled worker or approved trainee;
+
+(c) make copies of or take extracts from any book, payroll, statement or record referred to in paragraph (b).
+
+(5) Subject to subsection (7), the Secretary, or any person authorized by him in writing, may at all reasonable times—
+
+(a) require an employer upon whom a levy has been imposed or who is believed on reasonable grounds to be liable to pay a levy—
+
+(i) to disclose all information at his disposal; and
+
+(ii) to produce any book, payroll, financial statement, balance sheet or record or copy thereof or extract therefrom;
+
+that may relate in any way to the payment of the levy or to his liability to pay the levy;
+
+(b) make copies of or take extracts from any book, payroll, financial statement, balance sheet or record referred to in paragraph (a).
+
+(6) Subject to subsection (7), the Secretary, or any person authorized by him in writing, may, at all reasonable times and for any purpose reasonably connected with any manpower survey or manpower plan referred to in section fifty-eight—
+
+(a) enter and inspect any premises;
+
+(b) make any inquiries;
+
+(c) require any person on any premises—
+
+(i) to disclose any information at his disposal; and
+
+(ii) to produce any book, payroll, statement or record or copy thereof or extract therefrom;
+
+(d) make copies of or take extracts from any book, payroll, statement or record referred to in paragraph (c).
+
+(7) The powers of entry and inspection conferred by this section shall not be exercised except with the consent of the owner or person in charge of the premises concerned, or where there are reasonable grounds for believing that it is necessary to exercise them—
+
+(a) for the prevention, investigation or detection of an offence, whether in terms of this Act or any other law, or for the obtaining of evidence relating to such an offence; or
+
+(b) for the enforcement of any levy; or
+
+(c) for the purpose of protecting the rights of any person undergoing or entitled to any education or training to which this Act applies.
+
+#### 61        Information to be kept confidential
+
+The Secretary and any other person who obtains information in terms of section fifty-nine or sixty shall take all steps necessary to ensure that it is kept confidential and is not disclosed to any other person except—
+
+(a) for the purpose of enforcing this Act; or
 
 [[END OF PAGE 24]]
 
@@ -1226,9 +1423,9 @@ The Secretary and any other person who obtains information in terms of section f
 
 (1) Subject to such conditions as he may fix, the Secretary may delegate any of his functions in terms of this Act to any person employed in the Ministry or in terms of paragraph  (a)  of  subsection  (2)  of  section  forty-eight,  and  any  person  to  whom  a function is so delegated may exercise the function, subject to any conditions so fixed, as if he were the Secretary.
 
-- Nothing  in subsection (1) shall prevent the Secretary at  any  time  from withdrawing  any  delegation  in  terms  of  subsection  (1)  or  from  amending  any condition thereof, or from himself exercising any function so delegated.
+(2) Nothing in subsection (1) shall prevent the Secretary at any time from withdrawing any delegation in terms of subsection (1) or from amending any condition thereof, or from himself exercising any function so delegated.
 
-- This section shall not be construed as limiting any power which the Secretary or any other person may have under any other law to delegate any function conferred or imposed upon him in terms of this Act.
+(3) This section shall not be construed as limiting any power which the Secretary or any other person may have under any other law to delegate any function conferred or imposed upon him in terms of this Act.
 
 #### 63        Establishment and administration of Government scholarship schemes
 
@@ -1248,9 +1445,9 @@ Upon the sale of any articles produced by persons, either in the course of atten
 
 #### 65        Recognition of associations of lecturers
 
-- The Minister may recognize one or more associations of lecturers as representing lecturers or any class of lecturers in Zimbabwe.
+(1) The Minister may recognize one or more associations of lecturers as representing lecturers or any class of lecturers in Zimbabwe.
 
-- An association of lecturers recognized by the Minister in terms of subsection (1) may advise and make representations to the Secretary and may be consulted by the Minister  on  any  matters  appertaining  to  manpower  development  in  Zimbabwe  to which this Act applies.
+(2) An association of lecturers recognized by the Minister in terms of subsection (1) may advise and make representations to the Secretary and may be consulted by the Minister on any matters appertaining to manpower development in Zimbabwe to which this Act applies.
 
 #### 66        Offences and penalties
 
@@ -1260,11 +1457,11 @@ Upon the sale of any articles produced by persons, either in the course of atten
 
 (b)         gives  any  training  in  a  designated  trade  in  contravention  of  section eighteen; or
 
-(c)         being  an  employer  who  has  engaged  a  former  student  referred  to  in subsection (1) of section fifteen-
+(c) being an employer who has engaged a former student referred to in subsection (1) of section fifteen—
 
-(a)         fails  to  notify  the  Secretary  of  the  engagement  in  terms  of  that subsection; or
+(i) fails to notify the Secretary of the engagement in terms of that subsection; or
 
-(b)        fails to comply with a direction under subsection (2) of that section to make a deduction from the remuneration of that person;
+(ii) fails to comply with a direction under subsection (2) of that section to make a deduction from the remuneration of that person;
 
 or
 
@@ -1306,17 +1503,19 @@ Any person who, in  any  premises  or  place,  provides  any  teacher  education
 
 (1) The Minister may make regulations prescribing anything which in terms of this Act is required or permitted to be prescribed or which, in his opinion, is necessary or convenient to be prescribed for giving effect to this Act.
 
-(2)  Regulations  in  terms  of  subsection  (1)  may  provide  for  any  of  the  following matters-
+(2)  Regulations  in  terms  of  subsection  (1)  may  provide  for  any  of  the  following matters—
 
-(a) in relation to Government  teachers  colleges and technical or vocational institutions-
+(a) in relation to Government  teachers  colleges and technical or vocational institutions—
 
 (i)          the  enrolment  of  students,  their  attendance  at  such  colleges  and institutions and their accommodation in hostels;
 
-(ii)        the discipline of students attending such colleges and institutions and the  punishments  that  may  be  imposed  for  infractions  of  discipline,  including  the imposition of monetary penalties;
+(ii)        the discipline of students attending such colleges and institutions and
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+the  punishments  that  may  be  imposed  for  infractions  of  discipline,  including  the imposition of monetary penalties;
 
 (iii)       the establishment, functions and procedures of advisory councils and the payment of allowances to members of such councils;
 
@@ -1324,7 +1523,7 @@ Any person who, in  any  premises  or  place,  provides  any  teacher  education
 
 (v)        the establishment and operation of staff development programmes;
 
-(b)         in  relation  to  non-Government  teachers  colleges  and  technical  or vocational institutions-
+(b)         in  relation  to  non-Government  teachers  colleges  and  technical  or vocational institutions—
 
 (i)          the  establishment,  staffing,  equipment  and  maintenance  of  such colleges and institutions;
 
@@ -1336,17 +1535,17 @@ Any person who, in  any  premises  or  place,  provides  any  teacher  education
 
 (c)         the  functions  of  responsible  authorities  of  teachers  colleges  and technical or vocational institutions;
 
-(d)         the  health  of  students  at  teachers  colleges,  technical  or  vocational institutions and hostels connected therewith, including-
+(d)         the  health  of  students  at  teachers  colleges,  technical  or  vocational institutions and hostels connected therewith, including—
 
 (i)          the  entry  and inspection of such colleges, institutions and hostels by Government  medical  officers  or  medical  practitioners  authorized  thereto  by  the Secretary;
 
 (ii)        the closing of any such college, institution or hostel on the grounds of health;
 
-(iii)        the  exclusion  from  any  such  college,  institution  or  hostel  of  any person who-
+(iii)        the  exclusion  from  any  such  college,  institution  or  hostel  of  any person who—
 
-- is suffering or has recently suffered from, or has been in contact with a person suffering from, any communicable disease; or
+A. is suffering or has recently suffered from, or has been in contact with a person suffering from, any communicable disease; or
 
-- is verminous;
+B. is verminous;
 
 (iv)        requiring  certificates  or  reports  to  be  furnished  as  to  whether  or  not any student is suffering from, or has been in contact with a person suffering from, any communicable or infectious disease;
 
@@ -1380,13 +1579,13 @@ Any person who, in  any  premises  or  place,  provides  any  teacher  education
 
 #### 70        Savings and transitional provisions
 
-(1) In this section-
+(1) In this section—
 
-'Education Act' means the Education Act [Chapter 25:04];
+“Education Act” means the Education Act [Chapter 25:04];
 
-'repealed Act' means the Manpower Planning and Development Act, 1984 (No. 36 of 1984).
+“repealed Act” means the Manpower Planning and Development Act, 1984 (No. 36 of 1984).
 
-(2) Notwithstanding sections seventy and seventy-one-
+(2) Notwithstanding sections seventy and seventy-one—
 
 (a)        any Government teachers colleges which, immediately before the 1st November, 1995, was established under the Education Act shall be deemed to have been established under this Act;
 
@@ -1408,15 +1607,17 @@ Any person who, in  any  premises  or  place,  provides  any  teacher  education
 
 ( j)         any  contract  of  apprenticeship  which,  immediately  before  the  1st November,  1995,  was  registered  or  deemed  to  have  been  registered  under  the repealed Act shall be deemed to have been registered under this Act;
 
-(k)         any  certificate  of  journeyman  status  which  was  issued  under  the Apprenticeship  Training  and  Skilled  Manpower  Development  Act  [Chapter  266  of 1974] shall be deemed to be a certificate of skilled worker qualification issued under this Act;
+(k)         any  certificate  of  journeyman  status  which  was  issued  under  the Apprenticeship  Training  and  Skilled  Manpower  Development  Act  [Chapter  266  of 1974] shall be deemed to be a certificate of skilled worker qualification issued under
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
+this Act;
+
 (l)         any certificate, licence or other document that was issued, or statutory instrument  that  was  made  or  any  other  thing  that  was  made,  done  or  commenced under the repealed Act and which, immediately before the 1st November, 1995, had or  was  capable  of  acquiring  force  or  effect  shall  be  deemed  to  have  been  issued, made, done or commenced, as the case may be, under the appropriate provision of this Act, and shall have or acquire force or effect accordingly.
 
-(3) The Minister shall endeavour to employ in terms of paragraph (a) of subsection (2) of section forty-eight as many of the members of the Public Service who, on the 1st November, 1995, are attached to-
+(3) The Minister shall endeavour to employ in terms of paragraph (a) of subsection (2) of section forty-eight as many of the members of the Public Service who, on the 1st November, 1995, are attached to—
 
 (a)        the Fund; and
 
@@ -1428,17 +1629,17 @@ as is possible without prejudicing the efficiency and economic viability of the 
 
 #### 71        Additional savings and recalculation of certain levies
 
-- In this section-
+(1) In this section—
 
-'omitted matter' means any item or matter that is included in the definition of 'wagebill' in subsection (1) of section fifty-three but which was omitted from the definition of  that  term  in  section  2  of  the  Vocational  Education  and  Training  (Levy)  Notice, 1982, published in Statutory Instrument 802 of 1982.
+“omitted matter” means any item or matter that is included in the definition of “wage-bill” in subsection (1) of section fifty-three but which was omitted from the definition of  that  term  in  section  2  of  the  Vocational  Education  and  Training  (Levy)  Notice, 1982, published in Statutory Instrument 802 of 1982.
 
 (2)  It  is  declared,  for  the  avoidance  of  doubt,  that  the  Vocational  Education  and Training  (Levy)  Notice,  1982,  published  in  Statutory  Instrument  802  of  1982,  was saved in force by paragraph (l) of subsection (1) of section seventy and accordingly, subject to subsection (4), the notice remained in operation from the 1st November, 1995, until its repeal on the 12th March, 1999.
 
 (3)  Any  employer  entitled  to  claim  a  refund  on  the  ground  that,  between  the  1st November,  1995,  and  the  12th  March,  1999,  the  levy  paid  by  such  employer  was assessed on the basis that any terminal benefit paid by him to an employee formed part of his wage-bill shall, in lieu of a refund, be entitled to set off the amount so paid in excess against any amount of levy due from him after the commencement of this Act.
 
-(4)  If any levy paid by any employer in respect of the period from the 1st November, 1995, to the 12th March, 1999, was less than the amount he would have been required to  pay  had  any  omitted  matter  been  included  in  the  definition  of  'wage-bill'  in section 2 of the Vocational Education and Training (Levy) Notice, 1982, published in Statutory Instrument 802 of 1982, the employer concerned shall pay the difference to the  Fund  within  six  months  after  the  date  of  commencement  of  the  Manpower Planning and Development Amendment Act, 2001.
+(4)  If any levy paid by any employer in respect of the period from the 1st November, 1995, to the 12th March, 1999, was less than the amount he would have been required to  pay  had  any  omitted  matter  been  included  in  the  definition  of  “wage-bill”  in section 2 of the Vocational Education and Training (Levy) Notice, 1982, published in Statutory Instrument 802 of 1982, the employer concerned shall pay the difference to the  Fund  within  six  months  after  the  date  of  commencement  of  the  Manpower Planning and Development Amendment Act, 2001.
 
-- Any amount payable in terms of subsection (4) shall be regarded as a levy and shall be collected and may be sued for and recovered accordingly.
+(5) Any amount payable in terms of subsection (4) shall be regarded as a levy and shall be collected and may be sued for and recovered accordingly.
 
 [new Section 71 inserted by Act 1/2001 with effect from the 13th April, 2001.]
 
