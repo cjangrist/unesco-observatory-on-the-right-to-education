@@ -9,7 +9,7 @@ EL CONGRESO DE LA NACIÓN PARAGUAYA SANCIONA CON FUERZA DE
 LEY:
 
 ## Artículo  1°.
-Créase  la  Agencia  Nacional  de  Evaluación  y  Acreditación  de  la  Educación  Superior, denominada en adelante 'Agencia', con la finalidad de evaluar y en su caso, acreditar la calidad académica de las instituciones de educación superior que se someten a su escrutinio y producir informes técnicos sobre los requerimientos académicos de las carreras y de las instituciones de educación superior.
+Créase  la  Agencia  Nacional  de  Evaluación  y  Acreditación  de  la  Educación  Superior, denominada en adelante “Agencia”, con la finalidad de evaluar y en su caso, acreditar la calidad académica de las instituciones de educación superior que se someten a su escrutinio y producir informes técnicos sobre los requerimientos académicos de las carreras y de las instituciones de educación superior.
 
 ## Artículo 2°.
 La  participación  en  procesos  de  evaluación  externa  y  acreditación  tendrá  carácter  voluntario salvo para las carreras de derecho, medicina, odontología, ingeniería, arquitectura e ingeniería agronómica, y para aquéllas que otorguen títulos que habiliten para el ejercicio de profesiones cuya práctica pueda significar daños a la integridad de las personas o a su patrimonio.
@@ -35,7 +35,7 @@ Serán funciones de la Agencia
 - vincularse a organismos nacionales o extranjeros en materia de cooperación financiera o técnica;
 
 ## Artículo 5°.
-Será órgano rector de la Agencia, el Consejo Directivo de la Agencia Nacional de Evaluación y Acreditación, en adelante 'Consejo Directivo', con los siguientes deberes y atribuciones:
+Será órgano rector de la Agencia, el Consejo Directivo de la Agencia Nacional de Evaluación y Acreditación, en adelante “Consejo Directivo”, con los siguientes deberes y atribuciones:
 
 - establecer los procedimientos para la evaluación y acreditación;
 
@@ -46,6 +46,8 @@ Será órgano rector de la Agencia, el Consejo Directivo de la Agencia Nacional 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+PODER LEGISLATIVO LEY N° 2072
 
 - recibir  los  resultados  de  las  autoevaluaciones  que  se  realicen  en  instituciones  de  educación superior y someterlas a análisis crítico;
 
@@ -72,8 +74,6 @@ Será órgano rector de la Agencia, el Consejo Directivo de la Agencia Nacional 
 - establecer  tarifas  para  la  realización  de  procesos  de  evaluación  externa,  de  acreditación  y  de elaboración  de informes técnicos en los casos en que fueran requeridos por personas físicas o jurídicas; y.
 
 - los demás establecidos en esta ley.
-
-PODER LEGISLATIVO LEY N° 2072
 
 ## Artículo 6°.
 El Consejo Directivo se integrará con cinco miembros a ser nombrados por Decreto del Poder Ejecutivo con nominaciones de las siguientes instancias:
@@ -194,11 +194,11 @@ Para ser miembro de los Comités de Pares Evaluadores se requerirá
 
 [[START OF PAGE 5]]
 
+PODER LEGISLATIVO LEY N° 2072
+
 - un grado de licenciatura en su área de conocimiento y una experiencia acumulada de quince años de labor académica o académico administrativa; o,
 
 - grado  académico  de  licenciatura  como  mínimo,  y  un  desarrollo  y  experiencia  profesional relevante de más de quince años en el área de su especialidad, estando activo en ella.
-
-PODER LEGISLATIVO LEY N° 2072
 
 El Consejo Directivo podrá agregar otras condiciones y requisitos para los miembros de los Comités de Pares Evaluadores.
 
@@ -273,11 +273,11 @@ Cumplidas las etapas previas referidas en el Artículo 22, el Consejo Directivo 
 
 [[START OF PAGE 7]]
 
+PODER LEGISLATIVO LEY N° 2072
+
 - De no acreditación; cuando determine en cada caso que no cumple con los niveles mínimos de calidad establecidos;
 
 - De postergación: posponiendo la acreditación.
-
-PODER LEGISLATIVO LEY N° 2072
 
 La información pública se referirá exclusivamente a carreras de grado y cursos de postgrado acreditados. Las instituciones y la Agencia establecerán acuerdos para la divulgación de la documentación producida en las etapas previas respecto de instituciones o carreras que resulten acreditadas.
 
@@ -323,7 +323,7 @@ PODER LEGISLATIVO LEY N° 2072
 ## Artículo 29.
 Durante el primer periodo de funcionamiento del Consejo Directivo de la Agencia Nacional de Evaluación y Acreditación de la Educación Superior, el organismo responsable de las nominaciones por las instituciones públicas y privadas de la Educación Superior será el Consejo de Universidades.
 
-Para  el  primer  periodo  de  funcionamiento  de  la  Agencia,  el  Consejo  de  Universidades  contemplará  en  la nominación  de  los  miembros  del  Consejo  Directivo,  un  miembro  titular  y  uno  suplente  originarios  de  la Universidad Nacional de Asunción y un miembro titular y uno suplente originarios de la Universidad Católica 'Nuestra Señora de la Asunción'.
+Para  el  primer  periodo  de  funcionamiento  de  la  Agencia,  el  Consejo  de  Universidades  contemplará  en  la nominación  de  los  miembros  del  Consejo  Directivo,  un  miembro  titular  y  uno  suplente  originarios  de  la Universidad Nacional de Asunción y un miembro titular y uno suplente originarios de la Universidad Católica “Nuestra Señora de la Asunción”.
 
 Los miembros  que deban ser propuestos por las federaciones de organizaciones de profesionales universitarios serán nominados por el Ministerio de Industria y Comercio. Para este efecto convocará a las organizaciones  de  aquellas  profesiones  cuyo  ejercicio  esté  reglamentado  por  ley.  La  convocatoria  estará dirigida aquellas organizaciones de alcance nacional y que por resolución ministerial o convenio, participan en los procesos de acreditación profesional.
 
