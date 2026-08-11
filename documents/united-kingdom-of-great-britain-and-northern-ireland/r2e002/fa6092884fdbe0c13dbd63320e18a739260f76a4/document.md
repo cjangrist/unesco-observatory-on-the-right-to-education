@@ -10,16 +10,18 @@ Childcare Act 2006(c. 21) - Explanatory Notes
 
 ### 2006 CHAPTER 21
 
-## I
+11 July 2006
+
+## INTRODUCTION
 
 - These explanatory notes relate to the Childcare Act 2006 which received Royal Assent on 11 July 2006. They have been prepared by the Department for Education and Skills in order to assist the reader in understanding the Act. They do not form part of the Act and have not been endorsed by Parliament.
 
 - The notes need to be read in conjunction with the Act. They are not, and are not meant to be, a comprehensive description of the Act. So where a section or subsection does not seem to require any explanation or comment, none is given.
 
-## B
+## BACKGROUND
 
 - In relation to England, the Act is intended to assist in the implementation of the aims set out in Choice for parents, the best start for children: a ten year strategy for childcare ,  published on 2 December 2004, which set out the Government's plans for the future of childcare. In relation to Wales, it will assist the implementation of Childcare is for Children , published on 29 November 2005.
-## O
+## OVERVIEW
 
 - The Act is divided into 4 Parts.
 
@@ -30,9 +32,9 @@ Childcare Act 2006(c. 21) - Explanatory Notes
 - Part 3 makes provision relating to the system of regulation and inspection of childcare in England.
 
 - Part 4 contains miscellaneous and general provisions.
-## S
+## SUMMARY
 
-### P 1: G F  L A: E
+### PART 1: GENERAL FUNCTIONS OF LOCAL AUTHORITY: ENGLAND
 
 - This Part sets out the duties placed upon local authorities in three main areas - improving the outcomes for young children, securing sufficient childcare and providing information to parents. These duties reflect the growing strategic role  that  local  authorities  have  in  planning,  commissioning  and  delivering  services  for  children  and  families.  The duties in this Part will allow local authorities the flexibility to implement delivery in ways that best suit their particular circumstances, and will allow future development without the need to alter the underpinning legislation.
 
@@ -42,11 +44,9 @@ Childcare Act 2006(c. 21) - Explanatory Notes
 
 - This Part also places a duty on local authorities to set up and run a service for parents and prospective parents, providing information on services, facilities and publications which may benefit them or children or young people and providing advice and assistance on childcare.
 
-### P 2: G F  L A: W
+### PART 2: GENERAL FUNCTIONS OF LOCAL AUTHORITY: WALES
 
-- Part  2  requires  local  authorities  in  Wales  to  secure  sufficient  childcare  for  working  parents  and  those  making  the transition to work. It enables regulations to be made requiring the local authority to regularly assess demand for, and
-
-11 July 2006
+- Part 2 requires local authorities in Wales to secure sufficient childcare for working parents and those making the transition to work. It enables regulations to be made requiring the local authority to regularly assess demand for, and
 
 https://www.legislation.gov.uk/ukpga/2006/21/notes/data.xht?view=snippet&wrap=true
 
@@ -64,7 +64,7 @@ availability of, local childcare provision.
 
 - This Part also places a duty on local authorities in Wales to set up and run a service for parents and prospective parents, providing information on services, facilities and publications which may benefit them or children or young people and providing advice and assistance on childcare.
 
-### P 3: R  P  C  E
+### PART 3: REGULATION OF PROVISION OF CHILDCARE IN ENGLAND
 
 - Part 3 of the Act puts in place legislative provisions to implement the proposals to reform regulation and inspection of childcare which were set out in the Ten Year Strategy. The Strategy set out the following proposals:
 
@@ -74,25 +74,25 @@ availability of, local childcare provision.
 
 - To review the scope of regulation to make sure that different types of settings are subject to appropriate standards.
 
-- Chapters 2 - 5 of Part 3 cover the registration, inspection and regulation of the provision of childcare as defined by section 18. Chapter 2 covers the registration of, and requirements to be met by, early years providers. Early years provision is defined in section 20 as provision of childcare for a young child. A child is regarded as a young child until 1 September following his 5 birthday. Chapter 2 sets out who will be required to be registered as an early years childminder (that is, someone who operates on domestic premises) or other early years provider. Chapter 2 goes on to put in place measures for the registration, inspection and regulation of early years providers. It makes provision for the establishment of the Early Years Foundation Stage (EYFS) for the purpose of promoting the well-being of young children who are receiving early years provision (section 39). st th
+- Chapters 2 - 5 of Part 3 cover the registration, inspection and regulation of the provision of childcare as defined by section 18. Chapter 2 covers the registration of, and requirements to be met by, early years providers. Early years provision is defined in section 20 as provision of childcare for a young child. A child is regarded as a young child until 1st September following his 5th birthday. Chapter 2 sets out who will be required to be registered as an early years childminder (that is, someone who operates on domestic premises) or other early years provider. Chapter 2 goes on to put in place measures for the registration, inspection and regulation of early years providers. It makes provision for the establishment of the Early Years Foundation Stage (EYFS) for the purpose of promoting the well-being of young children who are receiving early years provision (section 39).
 
-- Chapter 3  of  Part  3  covers  registration,  inspection  and  regulation  requirements  for  childcare  for  children  from  1 September following their 5 th  birthday up to the age of eight.
+- Chapter 3 of Part 3 covers registration, inspection and regulation requirements for childcare for children from 1st September following their 5th birthday up to the age of eight.
 
 - Chapter 4 of Part 3 covers the process of voluntary registration and the regulation of those persons who register voluntarily.  Voluntary registration is available to all those who are not required to be registered (other than certain providers based in schools) but who look after children below an age to be prescribed in regulations, providing that they meet the registration requirements. Providers who are exempted from compulsory registration by subordinate legislation are among those who may be able to register voluntarily.
 
 - Chapter 5 of Part 3 includes provisions which apply to all registered childcare providers. It includes provisions relating to cancellation and suspension of registration, disqualification from registration and removal from the registers. It also includes  provisions  dealing  with  inspectors'  rights  of  entry  and  powers  and  duties  in  relation  to  provision  of information  about  providers.  Provision  is  made  relating  to  offences  and  criminal  proceedings.  There  are  other miscellaneous provisions including provisions relating to fees for registration, co-operation between local authorities and the Chief Inspector, combining registration certificates,  communication of notices, the definition  of  school  and employees of childcare providers.
 
-### P 4: M  G
+### PART 4: MISCELLANEOUS AND GENERAL
 
 - Part 4 makes provision for the collection of information relating to certain children for whom childcare is provided. It also amends paragraph 4 of Schedule 9A to the Children Act 1989 which deals with disqualification for registration under that Act. It also makes general provision about subordinate legislation, interpretation and commencement.
 
-## T A
+## TERRITORIAL APPLICATION
 
 - The Act applies to England only apart from Part 2 which applies to Wales only and certain provisions of Part 4 which apply to both England and Wales.
 
-## C  S  S
+## COMMENTARY ON SECTIONS AND SCHEDULES
 
-### P 1:  G F  L A: E
+### PART 1: GENERAL FUNCTIONS OF LOCAL AUTHORITY: ENGLAND
 
 ##### Sections 1- 5: overview
 
@@ -118,7 +118,7 @@ local authorities must also seek to involve providers from the private and volun
 
 - Section 1 places a duty on local authorities to improve the well-being of all young children in their area and to reduce inequalities  between those achieving the poorest outcomes and the rest. This will mean that, when improving the outcomes for all children, local authorities will need to improve the outcomes of the most disadvantaged at a faster rate.
 
-- A child is regarded as a young child until 1 September following his fifth birthday (section 19). Well-being is defined in  a  way  which  is  related  to  the  five  'Every  Child  Matters'  outcomes  of  being  healthy,  staying  safe,  enjoying  and achieving,  making  a  positive  contribution  and  achieving  economic  well-being.  The  section  allows  the  Secretary  of State to set targets for local authorities to improve these outcomes and narrow the gaps in achievement, and requires local authorities to have regard to guidance issued by the Secretary of State. st
+- A child is regarded as a young child until 1st September following his fifth birthday (section 19). Well-being is defined in a way which is related to the five 'Every Child Matters' outcomes of being healthy, staying safe, enjoying and achieving, making a positive contribution and achieving economic well-being. The section allows the Secretary of State to set targets for local authorities to improve these outcomes and narrow the gaps in achievement, and requires local authorities to have regard to guidance issued by the Secretary of State.
 
 ##### Section 2:  Meaning of 'early childhood services' for purposes of section 3
 
@@ -130,7 +130,7 @@ local authorities must also seek to involve providers from the private and volun
 
 - health services relevant to young children and their parents, for example, health visitors, ante-natal and post-natal care;
 
-- services provided under section 2 of the Employment and Training Act 1973, assisting or encouraging parents (and prospective  parents)  to  obtain  or  retain  employment,  as  delivered  through  Jobcentre  Plus  (such  services  are included because providing support for parents entering work is a key way of enhancing children's economic wellbeing);
+- services provided under section 2 of the Employment and Training Act 1973, assisting or encouraging parents (and prospective parents) to obtain or retain employment, as delivered through Jobcentre Plus (such services are included because providing support for parents entering work is a key way of enhancing children's economic well-being);
 
 - information services for parents as described under section 12.
 
@@ -184,7 +184,7 @@ particular obligation to work together in improving outcomes for the youngest ch
 
 ##### Section 6: Duty to secure sufficient childcare for working parents
 
-- Section  6  places  a  duty  on  local  authorities  in  England  to  secure,  as  far  as  is  reasonably  practicable,  sufficient childcare to meet the requirements of parents in their area who require childcare in order to work or to undertake training or education to prepare for work. This applies to childcare for disabled children until they reach 18 and to childcare for other children until the 1 September after their 14 birthday. st th
+- Section 6 places a duty on local authorities in England to secure, as far as is reasonably practicable, sufficient childcare to meet the requirements of parents in their area who require childcare in order to work or to undertake training or education to prepare for work. This applies to childcare for disabled children until they reach 18 and to childcare for other children until the 1st September after their 14th birthday.
 
 - The  duty  applies  "so  far  as  is  reasonably  practicable".  This  recognises  that  it  may  not  be  practicable  for  a  local authority to secure childcare to meet the requirements of every parent in their area. In determining what is reasonably practicable, local authorities will need to take into account a number of factors, including the resources available to them. In discharging the duty, local authorities must have regard to guidance issued by the Secretary of State.
 
@@ -278,9 +278,9 @@ Childcare Act 2006(c. 21) - Explanatory Notes
 
 - Section  18  defines  childcare  as  any  form  of  care  for  a  child  including  education  and  any  supervised  activity  but excluding education (or any other supervised activity) provided in school hours for a registered pupil at a school who is  not  a  young child. The definition also excludes health care, care provided by certain individuals (for example, a parent or a relative of a child), care provided in a hospital, care home or family centre and care provided for children detained in young offender institutions or secure training centres.
 
-- Sections 19 and 20 define young child and early years provision. Early years provision is the provision of childcare for a young child and a child is regarded as a young child until the 1 September following the date on which he attains the age of 5. st
+- Sections 19 and 20 define young child and early years provision. Early years provision is the provision of childcare for a young child and a child is regarded as a young child until the 1st September following the date on which he attains the age of 5.
 
-### P 2 - G F  L A:  W
+### PART 2 - GENERAL FUNCTIONS OF LOCAL AUTHORITY: WALES
 
 ##### Section 22: Duty to secure sufficient childcare for working parents
 
@@ -340,13 +340,13 @@ Section 27 places a duty on Welsh local authorities to establish and maintain a 
 
 - Section 30 defines childcare for the purposes of Part 2 as being care which is required to be registered by the Welsh Assembly under Part 10A of the Children Act 1989 or care approved through a scheme made by the Welsh Assembly under section 12(5) of the Tax Credits Act 2002.
 
-### P 3 - R  P  C  E
+### PART 3 – REGULATION OF PROVISION OF CHILDCARE IN ENGLAND
 
-#### C 1: G F  C I
+#### CHAPTER 1: GENERAL FUNCTIONS OF CHIEF INSPECTOR
 
 ##### Section 31: General functions of the Chief Inspector
 
-- Section 31 sets out the general functions of the Her Majesty's Chief Inspector of Schools (subsequently referred to as the  Chief  Inspector)  which  include  keeping  the  Secretary  of  State  informed  about  the  quality  and  standards  of registered  early  years  provision  and  unregistered  early  years  provision  in  schools  and  its  contribution  to  the  wellbeing of children, and advising the Secretary of State on matters relating to early and later years provision.
+- Section 31 sets out the general functions of the Her Majesty's Chief Inspector of Schools (subsequently referred to as the Chief Inspector) which include keeping the Secretary of State informed about the quality and standards of registered early years provision and unregistered early years provision in schools and its contribution to the well-being of children, and advising the Secretary of State on matters relating to early and later years provision.
 
 ##### Section 32: Maintenance of the two childcare registers
 
@@ -360,7 +360,7 @@ Section 27 places a duty on Welsh local authorities to establish and maintain a 
 
 - Part B which lists all childcare providers who have been registered voluntarily.
 
-#### C 2: R  E Y P
+#### CHAPTER 2: REGULATION OF EARLY YEARS PROVISION
 
 ##### Section 33: Requirement to register: early years childminders
 
@@ -426,7 +426,7 @@ Childcare Act 2006(c. 21) - Explanatory Notes
 
 - This section sets out what may and may not be covered by a learning and development order made by the Secretary of State under section 39(1)(a). The 'learning and development requirements' must cover six areas of learning and development,  which  are  listed  in subsection  (2) .  In  relation  to  these  six  areas,  the  'learning  and  development requirements' may specify:
 
-- early learning goals, setting out what most young children are expected to achieve before 1 September following their 5 birthday; st th
+- early learning goals, setting out what most young children are expected to achieve before 1st September following their 5th birthday;
 
 - educational  programmes,  setting  out  what  should  be  taught  to  young  children  attending  early  years  provision, although the order may not require providers to allocate any particular periods of time to the delivery of such a programme;
 
@@ -518,7 +518,7 @@ of  State  to  provide  by  order  that  the  QCA  shall  have  functions  relat
 
 - This section defines the meanings of terms used in Chapter 2 of Part 3.
 
-#### C 3: R  L Y P    8
+#### CHAPTER 3: REGULATION OF LATER YEARS PROVISION FOR CHILDREN UNDER 8
 
 ##### Section 52: Requirement to register: later years childminders for children under eight
 
@@ -530,7 +530,7 @@ of  State  to  provide  by  order  that  the  QCA  shall  have  functions  relat
 
 - This  section  sets  out  the  requirement  for  registration  for  later  years  providers  (other  than  childminders)  providing childcare  for  children  up  to  the  age  of  8.  Such  later  years  providers  must  be  registered  in  respect  of  particular premises.
 
-- Subsection (2) specifically  exempts from this requirement later years provision made at a maintained school, nonmaintained special school or independent school where that provision is made by the school and one or more pupils attends  it. Subsection  (3) makes  provision  for  the  Secretary  of  State  to  exempt  providers  by  order  from  the requirement to be registered. It is an offence to provide non-exempted later years provision without registration.
+- Subsection (2) specifically exempts from this requirement later years provision made at a maintained school, non-maintained special school or independent school where that provision is made by the school and one or more pupils attends it. Subsection (3) makes provision for the Secretary of State to exempt providers by order from the requirement to be registered. It is an offence to provide non-exempted later years provision without registration.
 
 ##### Section 54: Applications for registration: later years childminders
 
@@ -580,7 +580,7 @@ Childcare Act 2006(c. 21) - Explanatory Notes
 
 - Section 60 provides that, after an inspection of compulsory registered later years provision, the Chief Inspector may if he  decides  that  it  is  appropriate  to  do  so  write  a  report.  The  report  may  cover  matters  such  as  the  quality  and standards  of  the  later  years  provision  and  its  contribution  to  the  well-being  of  the  children  being  looked  after. Subsections (2) and (3) deal with publication of the report.
 
-#### C 4 - V
+#### CHAPTER 4 – VOLUNTARY REGISTRATION
 
 ##### Section 62: Applications for registration on the general register: childminders
 
@@ -622,7 +622,7 @@ Childcare Act 2006(c. 21) - Explanatory Notes
 
 - It is not an offence to breach such regulations, but registration may be cancelled if requirements are not met.
 
-#### C 5 - C P
+#### CHAPTER 5 – COMMON PROVISIONS
 
 ##### Section 68: Cancellation of registration
 
@@ -800,7 +800,7 @@ Section  89  allows  the  Secretary  of  State  to  prescribe  in  regulations  
 
 ##### Section 96:  Meaning of early years and later years provision etc.
 
-- Section 96 defines certain terms used in Part 3. Early years provision means the provision of childcare for a young child (a young child being a child aged from birth up to the 1 September following his fifth birthday). Later years provision  means  the  provision  of  childcare  for  a  child  older  than  this.  An  early  years  provider  is  someone  who provides early years provision, and later years provider someone who provides later years provision. An early or later years childminder is someone who provides early or later years provision on domestic premises for reward with no more than two other people. st
+- Section 96 defines certain terms used in Part 3. Early years provision means the provision of childcare for a young child (a young child being a child aged from birth up to the 1st September following his fifth birthday). Later years provision means the provision of childcare for a child older than this. An early years provider is someone who provides early years provision, and later years provider someone who provides later years provision. An early or later years childminder is someone who provides early or later years provision on domestic premises for reward with no more than two other people.
 
 ##### Section 97: Employees not regarded as providing childcare
 
@@ -810,7 +810,7 @@ Section  89  allows  the  Secretary  of  State  to  prescribe  in  regulations  
 
 - Section 98 defines terms used in Part 3 (regulation and provision of childcare) such as the use of 'the Chief Inspector' to mean Her Majesty's Chief Inspector of Schools in England.
 
-### P 4 - M  G
+### PART 4 – MISCELLANEOUS AND GENERAL
 
 ##### Section 99:  Provision of information about young children: England
 
@@ -904,7 +904,7 @@ Sections 104 and 105 make general provisions in relation to subordinate legislat
 
 - Section 111 provides that the Act extends to England and Wales only, except that any amendment or repeal made by the Act has the same extent as the provision amended or repealed.
 
-## H R
+## HANSARD REFERENCES
 
 - The  following  table  sets  out  the  dates  and  Hansard  references  for  each  stage  of  this  Act's  passage  through Parliament.
 
@@ -919,8 +919,8 @@ House of Lords
 Introduction | 9 March 2006 | Vol. 679 Col. 969
 Second Reading | 21 March 2006 | Vol. 680 Cols. 152-97
 Grand Committee | 19 April 2006 | Vol. 680 Cols. 475-540GC
-26 April 2006 | Vol. 681 Cols. 101-58GC
-4 May 2006 | Vol. 681 Cols. 283-350GC
+ | 26 April 2006 | Vol. 681 Cols. 101-58GC
+ | 4 May 2006 | Vol. 681 Cols. 283-350GC
 Report | 12 June 2006 | Vol. 683 Cols. 14-86
 Third reading | 26 June 2006 | Vol. 683 Cols. 1010-34
 
