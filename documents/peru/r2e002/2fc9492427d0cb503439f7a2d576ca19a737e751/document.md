@@ -600,7 +600,7 @@ El  Estado  promueve  el  desarrollo  sostenible de  la Amazonía  con una legis
 ### CAPÍTULO III DE LA PROPIEDAD
 
 #### Artículo 70° .-
-El derecho de property es inviolable.  El  Estado lo garantiza.  Se ejerce  en  armonía  con  el  bien  común  y  dentro  de  los  límites  de  ley.    A  nadie puede  privarse  de  su  propiedad  sino,  exclusivamente,  por  causa  de  seguridad nacional  o  necesidad  pública,  declarada  por  ley,  y  previo  pago  en  efectivo  de indemnización justipreciada que incluya compensación por el eventual perjuicio. Hay acción ante el Poder Judicial para contestar el valor de la propiedad que el Estado haya señalado en el procedimiento expropiatorio.
+El derecho de propiedad es inviolable. El Estado lo garantiza. Se ejerce en armonía con el bien común y dentro de los límites de ley. A nadie puede privarse de su propiedad sino, exclusivamente, por causa de seguridad nacional o necesidad pública, declarada por ley, y previo pago en efectivo de indemnización justipreciada que incluya compensación por el eventual perjuicio. Hay acción ante el Poder Judicial para contestar el valor de la propiedad que el Estado haya señalado en el procedimiento expropiatorio.
 
 #### Artículo 71° .-
 En cuanto a la propiedad, los extranjeros,  sean personas naturales o  jurídicas,  están  en  la  misma  condición  que  los  peruanos,  sin  que,  en  caso alguno, puedan invocar excepción ni protección diplomática.
@@ -686,7 +686,7 @@ En  cualquier  otro  caso,  las  leyes  de  índole  tributaria  referidas  a  b
 Sólo  por  ley  expresa,  aprobada  por  dos  tercios  de  los  congresistas,  puede establecerse selectiva y temporalmente un tratamiento tributario especial para una determinada zona del país.
 
 #### Artículo  80°.
-El  Ministro  de  Economía  y  Finanzas  sustenta,  ante  el  Pleno  del Congreso  de  la  República,  el  pliego  de  ingresos.    Cada  ministro  sustenta  los pliegos de egresos de su sector; previamente sustentan los resultados y metas de la  ejecución  del  presupuesto  del  año anterior  y  los  avances  en  la  ejecución del presupuesto del año fiscal correspondiente.  El Presidente de la Corte Suprema, el  Fiscal  de  la  Nación  y  el  Presidente  del  Jurado  Nacional  de  Elecciones sustentan los pliegos correspondientes a cada institución.
+El Ministro de Economía y Finanzas sustenta, ante el Pleno del Congreso de la República, el pliego de ingresos. Cada ministro sustenta los pliegos de egresos de su sector; previamente sustentan los resultados y metas de
 
 (*) Artículo modificado por Ley Nº 26472, publicada el 13 de Junio de 1995.  Antes de la reforma, este artículo tuvo el siguiente texto:
 
@@ -704,7 +704,9 @@ El  Ministro  de  Economía  y  Finanzas  sustenta,  ante  el  Pleno  del Congre
 
 19
 
-Si la autógrafa de la Ley de Presupuesto no es remitida al Poder Ejecutivo  hasta el treinta de noviembre, entra en vigencia el proyecto de este, que es promulgado por decreto legislativo.
+la ejecución del presupuesto del año anterior y los avances en la ejecución del presupuesto del año fiscal correspondiente. El Presidente de la Corte Suprema, el Fiscal de la Nación y el Presidente del Jurado Nacional de Elecciones sustentan los pliegos correspondientes a cada institución.
+
+Si la autógrafa de la Ley de Presupuesto no es remitida al Poder Ejecutivo hasta el treinta de noviembre, entra en vigencia el proyecto de este, que es promulgado por decreto legislativo.
 
 Los  créditos suplementarios,  habilitaciones y transferencias de  partidas se tramitan  ante  el  Congreso  de  la  República  tal  como  la  Ley  de  Presupuesto. Durante el receso parlamentario, se tramitan ante la Comisión Permanente. Para aprobarlos,  se  requiere  los  votos  de  los  tres  quintos  del  número  legal  de  sus miembros. (*)
 
@@ -798,7 +800,7 @@ El  Estado  respeta  la  identidad  cultural  de  las  Comunidades  Campesinas  
 #### Artículo 90°.
 El Poder Legislativo reside en el Congreso de la República, el cual consta de cámara única.
 
-El número de congresistas es de ciento treinta. El Congreso de la República se elige  por  un  período  de  cinco  años  mediante  un  proceso  electoral  organizado conforme  a  ley.  Los  candidatos  a  la  Presidencia  de  la  República  no  pueden integrar las listas de candidatos a congresistas.  Los candidatos a vicepresidentes pueden ser simultáneamente candidatos a una representación en el Congreso.
+El número de congresistas es de ciento treinta. El Congreso de la República se elige por un período de cinco años mediante un proceso electoral organizado conforme a ley. Los candidatos a la Presidencia de la República no pueden
 
 (*) Artículo modificado por Ley Nº 28484, publicada el 5 de abril de 2005. Antes de la reforma, este artículo tuvo el siguiente texto:
 
@@ -816,7 +818,9 @@ El número de congresistas es de ciento treinta. El Congreso de la República se
 
 22
 
-Para  ser  elegido  congresista,  se  requiere  ser  peruano  de  nacimiento,  haber cumplido veinticinco años y gozar del derecho de sufragio. (*)
+integrar las listas de candidatos a congresistas. Los candidatos a vicepresidentes pueden ser simultáneamente candidatos a una representación en el Congreso.
+
+Para ser elegido congresista, se requiere ser peruano de nacimiento, haber cumplido veinticinco años y gozar del derecho de sufragio. (*)
 
 NOTA: En la Ley N° 29402, publicada el 8 de setiembre de 2009, que modifica este artículo, se incorporan las siguientes disposiciones transitorias:
 ##### DISPOSICIÓN TRANSITORIA ESPECIAL
@@ -865,9 +869,6 @@ No pueden ser elegidos miembros del Parlamento Nacional si no han renunciado al 
 '3. El Presidente del Banco Central de Reserva, el Superintendente de Banca y Seguros, el Superintendente de Administración Tributaria, el Superintendente Nacional de Aduanas y el Superintendente de Administradoras de Fondos Privados de Pensiones. Y'
 
 --------------------------------------------------------------------------------------------------------------
-#### Artículo 92°.
-La función de congresista es de tiempo completo; le está prohibido desempeñar  cualquier  cargo  o  ejercer  cualquier  profesión  u  oficio,  durante  las horas de funcionamiento del Congreso.
-
 > 4. Los miembros de las Fuerzas Armadas y de la Policía Nacional en actividad.'
 
 [[END OF PAGE 22]]
@@ -875,6 +876,9 @@ La función de congresista es de tiempo completo; le está prohibido desempeñar
 [[START OF PAGE 23]]
 
 23
+
+#### Artículo 92°.
+La función de congresista es de tiempo completo; le está prohibido desempeñar cualquier cargo o ejercer cualquier profesión u oficio, durante las horas de funcionamiento del Congreso.
 
 El  mandato  del  congresista  es  incompatible  con  el  ejercicio  de  cualquiera  otra función  pública,  excepto  la  de  Ministro  de  Estado,  y  el  desempeño,  previa autorización del Congreso, de comisiones extraordinarias de carácter internacional.
 
@@ -1109,7 +1113,7 @@ Cuando  el  Presidente  de  la  República  sale  del  territorio  nacional,  el
 El Presidente de la República presta juramento de ley y asume el cargo, ante el Congreso, el 28 de julio del año en que se realiza la elección.
 
 #### Artículo 117° .-
-El Presidente de la República sólo puede ser acusado, durante su período,  por  traición  a  la  patria;  por  impedir  las  elecciones  presidenciales, parlamentarias, regionales o municipales; por disolver el Congreso, salvo en los casos previstos en el artículo 134 de la Constitución, y por impedir su reunión o funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral.
+El Presidente de la República sólo puede ser acusado, durante su período, por traición a la patria; por impedir las elecciones presidenciales, parlamentarias, regionales o municipales; por disolver el Congreso, salvo en los casos previstos en el artículo 134 de la Constitución, y por impedir su reunión o
 
 (*) Artículo modificado por Ley Nº 27365, publicada el 5 de noviembre de 2000. Antes de la reforma, este artículo tuvo el siguiente texto:
 
@@ -1120,6 +1124,8 @@ El Presidente de la República sólo puede ser acusado, durante su período,  po
 [[START OF PAGE 29]]
 
 29
+
+funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral.
 
 #### Artículo 118° .-
 Corresponde al Presidente de la República:
@@ -1509,7 +1515,7 @@ Son miembros del Consejo Nacional de la Magistratura, conforme a la ley de la ma
 
 - Uno  elegido,  en  votación  secreta,  por  los  rectores  de  las  universidades particulares.
 
-El  número  de  miembros  del  Consejo  Nacional  de  la  Magistratura  puede  ser ampliado por éste a nueve, con dos miembros adicionales elegidos en votación secreta por el mismo Consejo, entre sendas listas propuestas por las instituciones representativas del sector laboral y del empresarial.
+El número de miembros del Consejo Nacional de la Magistratura puede ser ampliado por éste a nueve, con dos miembros adicionales elegidos en votación
 
 [[END OF PAGE 38]]
 
@@ -1517,7 +1523,9 @@ El  número  de  miembros  del  Consejo  Nacional  de  la  Magistratura  puede  
 
 39
 
-Los  miembros  titulares  del  Consejo  Nacional  de  la  Magistratura  son  elegidos, conjuntamente con los suplentes, por un período de cinco años.
+secreta por el mismo Consejo, entre sendas listas propuestas por las instituciones representativas del sector laboral y del empresarial.
+
+Los miembros titulares del Consejo Nacional de la Magistratura son elegidos, conjuntamente con los suplentes, por un período de cinco años.
 
 #### Artículo  156° .-
 Para  ser  miembro  del  Consejo  Nacional  de  la  Magistratura  se requieren los mismos requisitos que para ser Vocal de la Corte Suprema, salvo lo previsto en el inciso 4 del  artículo 147º. El miembro del Consejo Nacional de la Magistratura  goza  de  los  mismos  beneficios  y  derechos  y  está  sujeto  a  las mismas obligaciones e incompatibilidades.
@@ -1769,13 +1777,15 @@ Mientras dure el proceso de integración, dos o más gobiernos regionales podrá
 #### Artículo 191° .-
 Los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia. Coordinan con las municipalidades sin interferir sus funciones y atribuciones.
 
-La  estructura  orgánica  básica  de  estos  gobiernos  la  conforman  el  Consejo Regional  como  órgano  normativo  y  fiscalizador,  el  Presidente  como  órgano ejecutivo,  y  el  Consejo  de  Coordinación  Regional  integrado  por  los  alcaldes provinciales y por representantes de la sociedad civil, como órgano consultivo y de coordinación con las municipalidades, con las funciones y atribuciones que les señala la ley.
+La estructura orgánica básica de estos gobiernos la conforman el Consejo Regional como órgano normativo y fiscalizador, el Presidente como órgano ejecutivo, y el Consejo de Coordinación Regional integrado por los alcaldes provinciales y por representantes de la sociedad civil, como órgano consultivo y
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
 46
+
+de coordinación con las municipalidades, con las funciones y atribuciones que les señala la ley.
 
 El  Consejo  Regional  tendrá  un  mínimo  de  siete  (7)  miembros  y  un  máximo  de veinticinco (25), debiendo haber un mínimo de uno (1) por provincia y el resto, de acuerdo a ley, siguiendo un criterio de población electoral.
 
@@ -1926,9 +1936,9 @@ Son bienes y rentas de las municipalidades:
 Las  municipalidades  promueven,  apoyan  y  reglamentan  la participación vecinal en  el desarrollo local.  Asimismo  brindan  servicios  de seguridad  ciudadana,  con  la  cooperación  de  la  Policía  Nacional  del  Perú, conforme a ley.
 
 #### Artículo  198° .-
-La  Capital  de  la  República  no  integra  ninguna  región.  Tiene régimen  especial  en  las  leyes  de  descentralización  y  en  la  Ley  Orgánica  de Municipalidades. La Municipalidad Metropolitana de Lima ejerce sus competencias dentro del ámbito de la provincia de Lima. Las  municipalidades  de  frontera  tienen,  asimismo,  régimen  especial  en  la  Ley
+La Capital de la República no integra ninguna región. Tiene régimen especial en las leyes de descentralización y en la Ley Orgánica de Municipalidades. La Municipalidad Metropolitana de Lima ejerce sus competencias dentro del ámbito de la provincia de Lima.
 
-Orgánica de Municipalidades.
+Las municipalidades de frontera tienen, asimismo, régimen especial en la Ley Orgánica de Municipalidades.
 
 #### Artículo  199° .-
 Los  gobiernos  regionales  y  locales  son  fiscalizados  por  sus propios órganos de fiscalización  y  por  los  organismos  que  tengan  tal  atribución por mandato constitucional o legal, y están sujetos al control y supervisión de la Contraloría  General  de  la  República,  la  que  organiza  un  sistema  de  control descentralizado y permanente. Los mencionados gobiernos formulan sus presupuestos con la participación de la población y rinden cuenta de su ejecución, anualmente, bajo responsabilidad, conforme a ley. (*)
@@ -2046,11 +2056,11 @@ Cuando  se  interponen  acciones  de  esta  naturaleza  en  relación  con  dere
 
 (*) Inciso modificado por Ley Nº 26470, publicada el 12 de Junio de 1995. Antes de la reforma, este inciso tuvo el siguiente texto:
 
-'2. La Acción de Amparo, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los demás derechos reconocidos por la Constitución. No procede contra normas legales ni contra resoluciones judiciales emanadas de procedimiento regular.'
+“2. La Acción de Amparo, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los demás derechos reconocidos por la Constitución. No procede contra normas legales ni contra resoluciones judiciales emanadas de procedimiento regular.”
 
 (*) Inciso modificado por Ley Nº 26470, publicada el 12 de Junio de 1995. Antes de la reforma, este inciso tuvo el siguiente texto:
 
-'3. La Acción de Hábeas Data, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los derechos a que se refiere el artículo 2°, incisos 5,6 y 7 de la Constitución.'
+“3. La Acción de Hábeas Data, que procede contra el hecho u omisión, por parte de cualquier autoridad, funcionario o persona, que vulnera o amenaza los derechos a que se refiere el artículo 2°, incisos 5,6 y 7 de la Constitución.”
 
 [[END OF PAGE 51]]
 
@@ -2091,7 +2101,7 @@ Están facultados para interponer acción de inconstitucionalidad:
 
 - Los colegios profesionales, en materias de su especialidad.
 
-#### Artículo  204°.
+#### Artículo 204°.-
 La  sentencia  del  Tribunal  que  declara  la  inconstitucionalidad  de una norma se publica en el diario oficial.  Al día siguiente de la publicación, dicha norma queda sin efecto.
 
 [[END OF PAGE 52]]
@@ -2107,7 +2117,7 @@ Agotada la jurisdicción interna, quien se considere lesionado en los  derechos 
 
 ## TÍTULO VI DE LA REFORMA DE LA CONSTITUCIÓN
 
-#### Artículo 206°.
+#### Artículo 206°.-
 Toda reforma constitucional debe ser aprobada por el Congreso con mayoría absoluta del número legal de sus miembros, y ratificada mediante referéndum.  Puede  omitirse  el  referéndum  cuando  el  acuerdo  del  Congreso  se obtiene en dos legislaturas  ordinarias  sucesivas  con  una  votación  favorable,  en cada caso, superior a los dos tercios del número legal de congresistas.
 
 La ley de reforma constitucional no puede ser observada por el Presidente de la República.
@@ -2139,25 +2149,25 @@ Las modificaciones que se introduzcan en los regímenes pensionarios actuales, a
 
 Autorízase a la entidad competente del Gobierno Nacional a iniciar las acciones legales  correspondientes  para  que  se  declare  la  nulidad  de  las  pensiones obtenidas ilegalmente, salvo los casos definidos por sentencias con carácter de cosa juzgada que se hayan pronunciado expresamente sobre el fondo del asunto o que las respectivas acciones hubieran prescrito. (*)
 
-##### Segunda.
+##### Segunda.-
 El  Estado  garantiza  el  pago  oportuno  y  el  reajuste  periódico  de  las pensiones que administra, con arreglo a las previsiones  presupuestarias que éste destine para tales efectos, y a las posibilidades de la economía nacional.
 
-##### Tercera.
+##### Tercera.-
 En  tanto  subsistan  regímenes  diferenciados  de  trabajo  entre  la actividad  privada  y  la  pública,  en  ningún  caso  y  por  ningún  concepto  pueden acumularse  servicios  prestados  bajo  ambos  regímenes.  Es  nulo  todo  acto  o resolución en contrario.
 
 ##### Cuarta .-
 Las  normas  relativas a los derechos  y a las libertades que  la Constitución reconoce se interpretan de conformidad con la Declaración Universal de  Derechos  Humanos y  con  los  tratados  y  acuerdos  internacionales  sobre  las mismas materias ratificados por el Perú.
 
-##### Quinta.
+##### Quinta.-
 Las elecciones municipales se alternan con las generales de modo que aquéllas  se  realizan  a  mitad  del  período  presidencial,  conforme  a  ley.  Para  el efecto,  el  mandato  de  los  alcaldes  y  regidores  que  sean  elegidos  en  las  dos próximas elecciones municipales durará tres y cuatro años respectivamente.
 
-##### Sexta.
+##### Sexta.-
 Los alcaldes y regidores elegidos en el proceso electoral de 1993 y sus elecciones complementarias concluyen su mandato el 31 de diciembre de 1995.
 
-##### Sétima.
+##### Sétima.-
 El primer proceso de elecciones generales que se realice a partir  de la vigencia  de  la  presente  Constitución,  en  tanto  se  desarrolla  el  proceso  de descentralización, se efectúa por distrito único.
 
-##### Octava.
+##### Octava.-
 Las  disposiciones  de  la  Constitución  que  lo  requieran  son  materia  de leyes de desarrollo constitucional.
 
 Tienen prioridad :
@@ -2168,7 +2178,7 @@ Tienen prioridad :
 
 (*) Disposición    Final  y  Transitoria  Primera  sustituida  por  Ley  Nº  28389,  publicada  el  17  de  noviembre  de  2004. Antes de la reforma, esta disposición tuvo la siguiente redacción:
 
-'Los nuevos regímenes sociales obligatorios, que sobre materia de pensiones de los trabajadores públicos, se establezcan, no afectan los derechos legalmente obtenidos, en particular el correspondiente a los regímenes de los decretos leyes 19990 y 20530 y sus modificatorias.'
+“Los nuevos regímenes sociales obligatorios, que sobre materia de pensiones de los trabajadores públicos, se establezcan, no afectan los derechos legalmente obtenidos, en particular el correspondiente a los regímenes de los decretos leyes 19990 y 20530 y sus modificatorias.”
 
 [[END OF PAGE 54]]
 
@@ -2176,33 +2186,33 @@ Tienen prioridad :
 
 55
 
-##### Novena.
+##### Novena.-
 La  renovación  de  los  miembros  del  Jurado  Nacional  de  Elecciones, instalado conforme a esta Constitución, se inicia con los elegidos por el Colegio de  Abogados  de  Lima  y  por  las  Facultades  de  Derecho  de  las  universidades públicas.
 
-##### Décima.
+##### Décima.-
 La  ley establece  el  modo  como  las  oficinas,  los  funcionarios  y servidores del Registro Civil de los gobiernos locales y los del Registro Electoral se integran al Registro Nacional de Identificación y Estado Civil.
 
-##### Undécima.
+##### Undécima.-
 Las  disposiciones  de  la  Constitución  que  exijan  nuevos  o  mayores gastos públicos se aplican progresivamente.
 
-##### Duodécima.
+##### Duodécima.-
 La organización política departamental de la República comprende los departamentos siguientes: Amazonas, Ancash, Apurímac, Arequipa, Ayacucho,  Cajamarca,  Cusco,  Huancavelica,  Huánuco,  Ica,  Junín,  La  Libertad, Lambayeque, Lima, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martín, Tacna, Tumbes, Ucayali; y la Provincia Constitucional del Callao.
 
-##### Decimotercera.
+##### Decimotercera.-
 Mientras no se constituyan las Regiones y hasta que se elija a sus presidentes de acuerdo con esta Constitución, el Poder Ejecutivo determina la jurisdicción de los Consejos Transitorios de Administración Regional actualmente en funciones, según el área de cada uno de los departamentos establecidos en el país.
 
-##### Decimocuarta.
+##### Decimocuarta.-
 La  presente  Constitución,  una  vez  aprobada  por  el  Congreso Constituyente Democrático, entra en vigencia, conforme al resultado del referéndum regulado mediante ley constitucional.
 
-##### Decimoquinta.
+##### Decimoquinta.-
 Las disposiciones contenidas en la presente Constitución, referidas a número de congresistas, duración del mandato legislativo, y Comisión Permanente, no se aplican para el Congreso Constituyente Democrático.
 
-##### Decimosexta.
+##### Decimosexta.-
 Promulgada la presente Constitución, sustituye a la del año 1979.
 
 #### DISPOSICIONES TRANSITORIAS ESPECIALES *
 
-##### Primera.
+##### Primera.-
 El  Presidente  y  los  Vicepresidentes  de  la  República  elegidos  en  las Elecciones Generales de 2000, concluirán su mandato el 28 de julio de 2001. Los congresistas elegidos en el mismo proceso electoral culminarán su representación el 26 de julio de 2001. No son de aplicación para ellos, por excepción, los plazos establecidos en los artículos 90° y 112° de la Constitución Política.
 
 ##### Segunda .-
