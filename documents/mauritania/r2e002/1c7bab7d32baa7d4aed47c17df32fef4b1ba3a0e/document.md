@@ -1,2499 +1,1973 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+ONZIEME ANNEE. N° 260-261.                                      MERCREDI 27 AOUT 1969.
+
+JOURNAL OFFICIEL
+DE LA
+RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
+
+ABONNEMENTS ET RECUEILS ANNUELS
+
+Abonnements :
+Ordinaire ........................................ 3 000 fr CFA
+Par avion Mauritanie ............................. 4 000 fr CFA
+France ex-communauté ............................. 5 000 fr CFA
+autres pays ...................................... 6 000 fr CFA
+Le numéro. D'après le nombre de pages et les frais d'expédition.
+Recueils annuels de lois et règlements : 3 000 fr CFA (frais d'expédition en sus).
+
+BIMENSUEL
+PARAISSANT le 1er et 3e MERCREDI de CHAQUE MOIS
+
+POUR LES ABONNEMENTS ET LES ANNONCES
+S'adresser à la direction du Journal Officiel,
+B.P. 188, Nouakchott (Mauritanie).
+Les abonnements et les annonces
+sont payables d'avance.
+Compte Chèque Postal n° 391 Nouakchott.
+
+ANNONCES ET AVIS DIVERS
+La ligne (hauteur 8 points) ............ 100 fr CFA
+(Il n'est jamais compté moins de 500 fr CFA
+pour les annonces.)
+Les annonces doivent être remises au plus tard
+un mois avant la parution du journal.
+
+# SOMMAIRE
+
+# I. — LOIS ET ORDONNANCES.
+
+26 juillet 1969 ... Loi n° 69.265 fixant les règles de gestion des personnels de la Sûreté nationale. ........ 294
+26 juillet 1969 ... Loi n° 69.266 portant réforme du statut des cadis ....................................... 295
+26 juillet 1969 ... Loi n° 69.267 modifiant la loi n° 67.169 portant statut général de la Fonction publique ... 298
+1er août 1969 ..... Loi n° 69.269 portant réorganisation de l'enseignement du second degré .................. 299
+1er août 1969 ..... Loi n° 69.270 portant interdiction des jeux de hasard destinés à procurer un gain ....... 300
+1er août 1969 ..... Loi n° 69.271 modifiant l'article 19-6° du Code de procédure pénale ...................... 300
+
+# II. — DECRETS, ARRETES, DECISIONS, CIRCULAIRES.
+
+Présidence de la République :
+
+Actes divers :
+
+7 août 1969 ...... Décret n° 69.295 portant nomination d'un chef du service des Etudes et de la Législation par intérim .... 301
+
+Secrétariat général à l'Information.
+
+Actes réglementaires :
+
+1er août 1969 .... Décret n° 69.276 érigeant en direction le service de l'Information ........ 301
+
+6 août 1969 ...... Décret n° 69.279 portant création d'un Comité d'orientation de la politique financière .... 301
+
+Ministère des Affaires étrangères
+
+Actes réglementaires :
+
+30 juillet 1969 ... Décret n° 69.268 modifiant le décret 68.129 du 3 avril 1968 fixant les attributions du ministre des Affaires étrangères et l'organisation de l'administration centrale du ministère des Affaires étrangères ........ 301
+
+Actes divers :
+
+7 août 1969 ...... Décret n° 69.285 portant nomination d'un consul général à Bamako ........ 301
+
+Ministère de la Défense nationale :
+
+Actes réglementaires :
+
+24 juillet 1969 ... Décret n° 69.264 modifiant le décret n° 62.207 du 10 novembre 1962 fixant les conditions d'attributions des logements, de l'ameublement aux personnels militaires de l'armée et de la gendarmerie nationale ........ 301
+
+Actes divers :
+
+8 août 1969 ...... Décision n° 757 arrêtant la liste des officiers de l'armée nationale autorisés à se présenter à l'examen du brevet de capitaine, session de septembre 1969 ........ 302
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-(this page came through the extractor with no text)
+292
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+27 août 1969
+
+Ministère du Commerce, des Transports :
+
+Actes réglementaires :
+
+25 juillet 1969 ... Arrêté n° 501 fixant la composition de la commission de retrait des permis de conduire ........ 302
+30 juillet 1969 ... Arrêté n° 513 portant ouverture à la circulation aérienne publique de l'aérodrome de Chinguetti ........ 302
+6 août 1969 ...... Décret n° 69.280 modifiant le décret n° 65.048 du 25 février 1965 rendant exécutoires les décisions prises par le Comité de l'union douanière des états de l'Afrique de l'Ouest ........ 302
+
+Ministère de l'Equipement :
+
+Actes réglementaires :
+
+6 août 1969 ...... Décret n° 69.284 ratifiant le contrat de financement passé entre le gouvernement de la Mauritanie d'une part, et la Communauté économique européenne et la Banque européenne d'investissement d'autre part ........ 303
+7 août 1969 ...... Décret n° 69.287 portant nomination d'un chef de service ........ 303
+
+Ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique :
+
+Actes réglementaires :
+
+26 mai 1969 ...... Arrêté n° 328 portant ouverture d'un concours pour le recrutement de trois journalistes ........ 303
+22 juillet 1969 ... Arrêté n° 464 portant ouverture des concours d'entrée au cycle d'études « B » de l'Ecole nationale d'administration pour l'année 1969 ........ 304
+22 juillet 1969 ... Arrêté n° 465 portant ouverture des concours d'entrée au cycle d'études « A » de l'Ecole nationale d'administration pour l'année 1969 ........ 306
+23 juillet 1969 ... Arrêté n° 487 portant ouverture des concours d'entrée au cycle d'études « C » de l'Ecole nationale d'administration pour l'année 1969 ........ 308
+
+Actes divers :
+
+17 juillet 1969 ... Arrêté n° 453 portant titularisation de mouçaïds ........ 311
+17 juillet 1969 ... Arrêté n° 456 portant titularisation de trois moniteurs ........ 311
+17 juillet 1969 ... Arrêté n° 457 portant démission d'un fonctionnaire ........ 311
+22 juillet 1969 ... Arrêté n° 466 portant intégration d'un mouçaïd ........ 311
+22 juillet 1969 ... Arrêté n° 468 portant nomination d'un instituteur adjoint ........ 312
+22 juillet 1969 ... Arrêté n° 470 portant intégration d'un moniteur ........ 312
+22 juillet 1969 ... Arrêté n° 471 portant intégration d'un sous-intendant ........ 312
+22 juillet 1969 ... Arrêté n° 473 fixant la liste des candidats autorisés à subir les épreuves du concours direct des assistants d'élevage à l'école de Bamako ........ 312
+22 juillet 1969 ... Arrêté n° 475 portant exclusion définitive de l'E.N.A. de certains élèves, fonctionnaires et fonctionnaires élèves ........ 312
+22 juillet 1969 ... Arrêté n° 477 portant titularisation de quelques instituteurs et mouallims ........ 312
+22 juillet 1969 ... Arrêté n° 478 portant intégration d'un infirmier breveté ........ 313
+22 juillet 1969 ... Arrêté n° 479 fixant la liste des candidats autorisés à subir les épreuves du concours d'entrée à l'Ecole africaine de la météorologie et de l'aviation civile à Niamey ........ 313
+23 juillet 1969 ... Arrêté n° 489 portant titularisation d'un instituteur adjoint ........ 313
+23 juillet 1969 ... Arrêté n° 490 portant titularisation d'un fonctionnaire ........ 313
+23 juillet 1969 ... Arrêté n° 491 portant intégration d'un mouçaïd ........ 313
+23 juillet 1969 ... Arrêté n° 492 portant titularisation d'un mouçaïd ........ 313
+23 juillet 1969 ... Arrêté n° 493 autorisant M. Bâ Waly à se présenter au concours d'accès du cycle « C » du Centre de formation et de vulgarisation de Kaédi ........ 313
+23 juillet 1969 ... Arrêté n° 494 portant démission d'un fonctionnaire ........ 313
+23 juillet 1969 ... Arrêté n° 497 fixant la liste des candidats autorisés à subir les épreuves du concours direct des agents de police ........ 313
+24 juillet 1969 ... Arrêté n° 499 portant intégration d'un ingénieur des travaux des eaux et forêts ........ 314
+28 juillet 1969 ... Arrêté n° 506 portant classement général des élèves de deuxième année du cycle « C » de l'Ecole nationale d'administration pour l'année 1969 ........ 314
+28 juillet 1969 ... Arrêté n° 507 portant classement général des élèves de deuxième année du cycle d'études « B » de l'Ecole nationale d'administration pour l'année 1969 ........ 314
+29 juillet 1969 ... Arrêté n° 510 portant titularisation d'un moniteur ........ 314
+1er août 1969 .... Décret n° 69.273 portant nomination du directeur de la Fonction publique par intérim ........ 314
+1er août 1969 .... Décret n° 69.274 portant nomination d'un secrétaire général par intérim ........ 315
+1er août 1969 .... Décret n° 69.275 modifiant le décret n° 68.332 du 16 décembre 1968 relatif à l'organisation centrale du ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique ........ 315
+1er août 1969 .... Rectificatif n° 516 à l'arrêté n° 269 du 21 avril 1969 portant intégration de vingt-deux mouallims sortant de l'école normale ........ 315
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-27 aoû:t  1969
-
-JOIJRNALOFFICIELDELÀREPUBLIQUEISLAMIQUEDEI\'IAURI'TANIE
-
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 293
 
-321
+2 août 1969 ..... Arrêté n° 517 portant intégration d'un mouçaïd sortant de l'école normale ........ 315
+6 août 1969 ..... Arrêté n° 520 portant démission d'un moniteur ........ 315
+6 août 1969 ..... Rectificatif n° 522 aux arrêtés n° 006 du 3 janvier 1969, 183 du 15 mars 1969 portant intégration de mouçaïds dans le cadre de l'enseignement public ........ 315
+7 août 1969 ..... Arrêté n° 524 portant validation des services militaires des ouvriers de T.P. ........ 315
+8 août 1969 ..... Arrêté n° 525 portant intégration d'un élève fonctionnaire dans le cadre de l'administration générale ........ 315
+8 août 1969 ..... Arrêté n° 526 portant intégration d'un élève fonctionnaire dans le cadre de l'administration générale ........ 315
+9 août 1969 ..... Arrêté n° 528 portant intégration d'un élève fonctionnaire sortant de l'E.N. ........ 316
+11 août 1969 .... Rectificatif n° 530 à l'arrêté n° 575 du 8 novembre 1967 ........ 316
+11 août 1969 .... Arrêté n° 531 portant intégration de deux ingénieurs des travaux d'élevage ........ 316
+11 août 1969 .... Arrêté n° 533 portant titularisation d'un instituteur adjoint ........ 316
+11 août 1969 .... Rectificatif n° 534 à l'arrêté n° 42 du 10 janvier 1969 portant intégration de M. Mohamed ould Khoubah, professeur licencié ........ 316
+11 août 1969 .... Arrêté n° 535 portant titularisation de deux instituteurs ........ 316
+11 août 1969 .... Arrêté n° 536 accordant une disponibilité à un fonctionnaire ........ 316
+11 août 1969 .... Arrêté n° 538 portant titularisation de deux moniteurs ........ 316
+12 août 1969 .... Rectificatif n° 539 à l'arrêté n° 20 du 6 janvier 1969 portant intégration de M. Sid'Ahmed ould Deye, professeur certifié ........ 316
+14 août 1969 .... Arrêté n° 541 portant intégration de trois élèves fonctionnaires sortant de l'Ecole nationale d'administration ........ 317
+14 août 1969 .... Rectificatif n° 542 à l'arrêté n° 261 du 6 mai 1968 et au rectificatif n° 391 du 22 juillet 1968 ........ 317
+14 août 1969 .... Rectificatif n° 543 à l'arrêté n° 547 du 21 octobre 1967 ........ 317
+14 août 1969 .... Arrêté n° 544 portant intégration de deux élèves fonctionnaires sortant de l'Ecole nationale d'administration ........ 317
+18 août 1969 .... Arrêté n° 547 portant suspension de deux fonctionnaires ........ 317
+18 août 1969 .... Arrêté n° 548 portant intégration d'un élève fonctionnaire dans le cadre des secrétaires d'administration générale ........ 317
+19 août 1969 .... Arrêté n° 549 portant réintégration d'un mouallim ........ 317
+19 août 1969 .... Arrêté n° 553 portant intégration des élèves contrôleurs des douanes sortant de l'Ecole nationale d'administration ........ 318
+19 août 1969 .... Arrêté n° 554 portant réintégration d'un secrétaire d'administration générale ........ 318
+19 août 1969 .... Arrêté n° 555 portant nomination d'un élève infirmier d'Etat ........ 318
 
-322
+Ministère des Finances :
 
-322
+Actes réglementaires :
+
+1er août 1969 .... Décrets n° 69.272 modifiant l'article 2 du décret n° 68.092 du 16 mars 1968 relatif à l'organisation de l'administration centrale du ministère des Finances ........ 318
+7 août 1969 ..... Arrêté n° 523 portant modification de l'arrêté n° 10.427 du 23 juillet 1966 relatif au barème des conditions générales applicables par les banques installées sur le territoire de la République islamique de Mauritanie ........ 319
+19 août 1969 .... Arrêté n° 556 portant approbation du budget de la Chambre de commerce pour l'année 1969 ........ 319
+
+Actes divers :
+
+7 août 1969 ..... Décret n° 69.286 portant nomination d'un chef de division ........ 319
+15 août 1969 .... Décision n° 1.599 portant nomination d'un agent comptable à l'établissement maritime de Nouakchott ........ 319
+18 août 1969 .... Arrêté n° 546 approuvant divers actes de cession de terrains sis à Nouakchott ........ 319
+
+Ministère de l'Industrialisation et des Mines :
+
+Actes divers :
+
+23 juillet 1969 ... Arrêté n° 498 autorisant la Société communautaire de stockage de Nouadhibou (S.C.S.N.) à installer et exploiter à Nouadhibou un dépôt d'hydrocarbures liquides de première classe ........ 319
+8 août 1969 ..... Arrêté n° 527 portant abrogation d'un arrêté d'autorisation d'ouverture d'un établissement dangereux, insalubre ou incommode rangé dans la deuxième classe (n° 43) ........ 320
+13 août 1969 .... Arrêté n° 540 autorisant la société Shell-Sénégal à installer et exploiter à Kaédi, IVe région, un dépôt de liquides inflammables de première et de deuxième catégories rangé dans la deuxième classe des établissements dangereux, insalubres ou incommodes (n° 258) ........ 321
+
+Ministère de l'Intérieur :
+
+Actes réglementaires :
+
+6 août 1969 ..... Décret n° 69.278 portant modification des limites territoriales de départements de la IVe région et rattachant l'arrondissement de Jedr-El-Mohguen au département de Rosso ........ 321
+6 août 1969 ..... Décret n° 69.282 portant création d'un poste d'adjoint au préfet d'Akjoujt ........ 321
+19 août 1969 .... Décret n° 550 rattachant les collectivités au département d'Aoujeft ........ 322
+19 août 1969 .... Arrêté n° 551 rattachant des collectivités et des tribus du département de Beyla ........ 322
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 294
-
-UE DE MAURITANIE
-
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
-## LOI  n' 69.26-5  du 26  iuiltet  1969,  fixant  les règtes  de gestion des personnels  de la Sûreté  nationale.
+19 août 1969 .... Arrêté n° 552 rattachant des collectivités au département de Keur-Nacène ........ 322
 
-# I. -LOIS ET ORDONNANCES
+Actes divers :
 
-L'Assemblée  nationale  a déIibéré et adopté, Le Président  de Ia République  promulgu.'fu  loi dont Ia teneur suit :
+9 juin 1969 ..... Arrêté n° 376 portant autorisation d'ouverture d'un bar ........ 323
+25 juillet 1969 ... Arrêté n° 504 portant titularisation d'un élève garde ........ 323
+5 août 1969 ..... Décision n° 1.473 portant rectificatif à la décision 1.276 portant désignation de membres du jury ........ 323
+6 août 1969 ..... Décret n° 69.283 portant nomination d'un chef de subdivision ........ 323
+7 août 1969 ..... Décret n° 69.288 portant nomination des préfets ........ 323
+7 août 1969 ..... Décret n° 69.289 portant nomination de l'adjoint administratif au gouverneur de la IIIe région ........ 323
+7 août 1969 ..... Décret n° 69.290 portant nomination de l'adjoint administratif au gouverneur de la IVe région ........ 323
 
-Anrrcrn 'REMTER. Les personnels  de ra Sûreté  nationale sont soumis pour  toutes  les questions  intéressant  leur classement, Ieur recrutement,  leur rémunération,-leur  notation  et avan_
+Ministère de la Justice :
 
-cement,  et leurs oositions,  aux dispositions  de la Ioi  n. 67.169  du 18 juillet 1967,  iortanr_statur générat  àe-U  fonction publique. Cependant,  en iaison a,r. "uru"îer"-pà.îi*ri., du service  exiEé de ces personnels,  Ia présente  lri, d;;'l;, arricles qui  suiverit, fixe les règles partic{ier":  Àà"!rË^r".lrrt .orr_is  tes perscin_ nels de ta Sfireté  nationale  ;;;;;;r;;;au sratur  général  de la Fonction  publique.
+Actes divers :
 
-_^ 1*". 2. -La gesiion  des personnels  de la Sûreté  nationale pour ce qui concerne  notamment  le recrutÀent, Ies  nominations, les afectarions,  la notati"r,  f,uuurr""Àlît,  ia aisciplne,  Ia cessa_ tion  des fonction,  les posirions,  ,éd;';;ilivemenr de l,aurorité du ministre  de l,Intérieur.
+7 août 1969 ..... Décret n° 69.294 portant intégration de cadis stagiaires ........ 323
+23 août 1969 .... Décision n° 1.693 portant affectation d'un secrétaire de greffe de parquet ........ 323
+30 juillet 1969 ... Arrêté n° 514 portant affectation de certains magistrats ........ 323
 
-A,nr. 3. -En raison .de la nature de leurs obligations,  Ies personnels  de Ia Sûreté  nationale  ,r"  ;àÀ"rrt d,aucun  droit syn_ ;|ïiirilî:re cessation  concertée  ou individuelle  du service  lèur
+Ministère de la Planification et du Développement rural :
 
-En contrepartie  des.suiéti9ns  particulières  auxquelles  ils sont restreints,  les personnels  âe Ia Sil;-;tir"ale bénéficieront  de oertains  avantages  qui seront  Aet".Ài"À'iar décret.
+Actes divers :
 
-Anr. 4. -Une commission  administrative  dont Ia composition sera fixée par décret,sera  appelée  à donner  Ies avis prévus par Ies arrictes  46 et 56 au statui ge"eùf-à"-i" Foncrion  publiquè  à l'occasion  de l,établissement  dei âLur,""*.rrt.
+23 juillet 1969 ... Décision n° 1.352 infligeant une sanction à un fonctionnaire ........ 324
+1er août 1969 .... Décret n° 69.291 portant délégation de signature ........ 324
 
-"b;;; _*$: l:.l.L"r. personnels  de Ia Sûreté  nationaie qui  ont été gnevement  blessés  dans  l,exercice  de  f""r, f".r"tiorrrf  o,r'q.riî sont particulièrement  distingués.p",  ,";;; g" "ourug"  ""=;;iiî de leur  vie, peuvent  alors mêrne  q",if. "L .e"_ssent  pas,  Ies  conditions  exi!ées par  reur statut,  ctrJpromus-àJ gtuo"  ou à l,écheron supérieur,  par  arrêté du mi;istre-d;J;;;r;;"", après avis de Ia commission  prévue  à l,article  pré";d";;."-'^
+Ministère de la Santé et des Affaires sociales :
 
-Anr. 6. _ Les trois premièr,es  sanctions  du premier  deeré applicables  aux personn"l,  d" lu  st*â"îii.";Ë;;;;;.;; ffi:; gn€,  avec permanence,,au  poste  de police  de vingt_quatre  à soixant+douze  heures, l,averiisseme;;  ;r'l; carion  ae ces  ,;;;;,,r, le pluvoir  o,r",oill,tiilrtiij"iîr"r,jï commissaires  de  policq aux officiers  au iàti"",  aux inspecteurs et_ aux gradés  du conrs  des agents,  I"r;;;;;r.aires et les officiers de Police  pouvanr  inflig",  Ë, ,.âi,  ,"*ri.î, tet,rs tes  ,i""*  o.","teôr, r"r;;;;ffi;$:::*i:ïJ:tt*-
+Actes divers :
 
-"r ces sanctions  sont susceptibres  d'aggrauuiio.r  durant  leur transmission  au directeur de la -Streté
+7 août 1969 ..... Décret n° 69.291 portant délégation de signature ........ 325
 
-Anr. 7. -La cessation  définitve  des fonctions  entraînant  la perte  de la qualité  d,agent  d.u cadre  A"  i" St*te  nationale  résulte des faits suivants:
+IV. — ANNONCES.
 
-- l" Perte de la nationalité  mauritanienne ,
+Nos 139 à Nos 156 ........ 325
 
-- 3" Licenciement;
+# I. — LOIS ET ORDONNANCES
 
-- 2' Perte des droits civiques  ;
+## LOI n° 69.265 du 26 juillet 1969, fixant les règles de gestion des personnels de la Sûreté nationale.
 
-- 4' Révocation;
+L'Assemblée nationale a délibéré et adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
 
-- 5" Démission  régulièrement  acceptee;
+ARTICLE PREMIER. — Les personnels de la Sûreté nationale sont soumis pour toutes les questions intéressant leur classement, leur recrutement, leur rémunération, leur notation et avancement, et leurs positions, aux dispositions de la loi n° 67.169 du 18 juillet 1967, portant statut général de la Fonction publique.
+Cependant, en raison du caractère particulier du service exigé de ces personnels, la présente loi, dans les articles qui suivent, fixe les règles particulières auxquelles seront soumis les personnels de la Sûreté nationale en dérogation au statut général de la Fonction publique.
 
-- 6" Admission  à la retraite  ;
+ART. 2. — La gestion des personnels de la Sûreté nationale pour ce qui concerne notamment le recrutement, les nominations, les affectations, la notation, l'avancement, la discipline, la cessation des fonction, les positions, relève exclusivement de l'autorité du ministre de l'Intérieur.
 
-Anr. 8. -Les frais rfs.ulta"t- d_:: poursuites  judiciaires.engagées  avec l,accord  du ministre  d" I,i";é;;; pour  la défense des personners  de Ia sûreté  nationale  a t'occasion  de l,exercice  de leurs foactions  sont  à la charge  à"  i"og"ïae l,Etat.
+ART. 3. — En raison de la nature de leurs obligations, les personnels de la Sûreté nationale ne jouissent d'aucun droit syndical, et toute cessation concertée ou individuelle du service leur est interdite.
+En contrepartie des sujétions particulières auxquelles ils sont restreints, les personnels de la Sûreté nationale bénéficieront de certains avantages qui seront déterminés par décret.
 
-Anr. 9. -A titre'exceptionnel  il peut  être  décidé,  par  décret, sur proposition  du ministre  de t,IntÈrieu., à,,  ,u"lu..;;"il;;J un autre corps  de la, Fonction_  irublique  ces personnels  de la Sûreté  nationale  blessés  en servic'e  .i  âorrr.f,irr"ptitude  physique aura  été  médicalement  co'statée.  res moâarités  de ce recrassemenr seront précisées  par  voie de décret.
+ART. 4. — Une commission administrative dont la composition sera fixée par décret sera appelée à donner les avis prévus par les articles 46 et 56 du statut général de la Fonction publique à l'occasion de l'établissement des tableaux d'avancement.
 
-l
+ART. 5. — Les personnels de la Sûreté nationale qui ont été grièvement blessés dans l'exercice de leurs fonctions ou qui se sont particulièrement distingués par un acte de courage au péril de leur vie, peuvent alors même qu'ils ne réunissent pas les conditions exigées par leur statut, être promus au grade ou à l'échelon supérieur, par arrêté du ministre de l'Intérieur, après avis de la commission prévue à l'article précédent.
+
+ART. 6. — Les trois premières sanctions du premier degré applicables aux personnels de la Sûreté nationale sont : la consigne, avec permanence au poste de police de vingt-quatre à soixante-douze heures, l'avertissement et le blâme. Pour l'application de ces sanctions, le pouvoir disciplinaire est dévolu aux commissaires de Police, aux officiers de Police, aux inspecteurs et aux gradés du corps des agents, les commissaires et les officiers de Police pouvant infliger les trois sanctions précitées, les inspecteurs les deux premières, et les gradés la consigne au poste.
+Ces sanctions sont susceptibles d'aggravation durant leur transmission au directeur de la Sûreté.
+
+ART. 7. — La cessation définitive des fonctions entraînant la perte de la qualité d'agent du cadre de la Sûreté nationale résulte des faits suivants :
+1° Perte de la nationalité mauritanienne ;
+2° Perte des droits civiques ;
+3° Licenciement ;
+4° Révocation ;
+5° Démission régulièrement acceptée ;
+6° Admission à la retraite ;
+
+ART. 8. — Les frais résultant des poursuites judiciaires engagées avec l'accord du ministre de l'Intérieur pour la défense des personnels de la Sûreté nationale à l'occasion de l'exercice de leurs fonctions sont à la charge du budget de l'Etat.
+
+ART. 9. — A titre exceptionnel il peut être décidé, par décret, sur proposition du ministre de l'Intérieur, du reclassement dans un autre corps de la Fonction publique des personnels de la Sûreté nationale blessés en service et dont l'inaptitude physique aura été médicalement constatée. Les modalités de ce reclassement seront précisées par voie de décret.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-27 aotn 1969
-
-LA REPUBLIQUE  ISLAMIQUE DE MAURITANIE JOURNAL OFFICIEL  DE
-
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 295
 
-- enr]t0.-_Toutesdispositionsantérieurescontrairesà.celles U"'1u p."r"tte  loi, et niamment  la loi n" 65'036 du 1! février 1965,  sont  abrogées.
+ART. 10. — Toutes dispositions antérieures contraires à celles de la présente loi, et notamment la loi n° 65.036 du 11 février 1965, sont abrogées.
 
-Anr.  11. -La presente  loi sera  exécutée  cÔmme  loi del,Etat. Fait à Nouakchott'  le 2ô  juillet  1969'
+ART. 11. — La présente loi sera exécutée comme loi de l'Etat.
 
-Moktar ould Dellan'
+Fait à Nouakchott, le 26 juillet 1969.
 
-a
+Moktar ould DADDAH.
 
-## LOI n"  69.266 du 26  iuittet  1969' portant  réforme  du statut  des cadis.
+## LOI n° 69.266 du 26 juillet 1969, portant réforme du statut des cadis.
 
-L'Assemblée  nationale  a délibéré et adopté'
+L'Assemblée nationale a délibéré et adopté,
+Le Président de la République promulgue la loi dont la teneur suit :
 
-Le Président  de la République  promulgue  la loi dont la tenellr suit  :
+### Dispositions générales.
 
-### DisPositions  générales'
+ARTICLE PREMIER. — Les cadis assurent le service des tribunaux institués par le titre II de la loi n° 65.123 du 20 juillet 1965, portant réorganisation de la Justice.
 
-Anrrcr-e  PREMTER. -Les cadis  assurent  le service  des tribunaux institués par le titre ii de la loi n" 65'123  du 20 juillet 1965' p"J^"t rêorganisation  de la Justice'
+ART. 2. — La hiérarchie des cadis comprend trois grades :
+Le premier grade qui comporte deux échelons ;
+Le deuxième grade qui comporte quatre échelons ;
+Le troisième grade qui groupe les cadis suppléants et les cadis suppléants intérimaires, comporte six échelons.
 
-- Anr. 2. -La hiérarchie  des cadis  comprend  trois  grades:
+ART. 3. — Les nominations aux divers emplois de cadis sont faites par décret du Président de la République, sur proposition du ministre de la Justice après avis de la commission d'avancement et de discipline des cadis.
 
-l*  à""*iet""  grade qui comporte  quatre échelons;
+ART. 4. — Les cadis suppléants et les cadis suppléants intérimaires sont répartis selon les besoins du service entre les juridictions cadiales par arrêté du ministre de la Justice après avis du président de la Cour suprême et du procureur général près la Cour suprême.
+Les affectations de cadis titulaires sont prononcées par le décret qui les nomme. Les cadis titulaires peuvent être affectés à un autre poste sans avancement, à leur demande, par l'autorité de nomination.
 
-Le  premier  grade  qui comporte deux échelons;
+ART. 5. — Tous les cadis relèvent administrativement du ministre de la Justice.
 
--grade  ^qui
+ART. 6. — Les cadis ne sont soumis dans l'exercice de leurs fonctions juridictionnelles qu'à l'autorité de la loi. Toutefois, le président et le vice-président de la Cour suprême peuvent leur adresser, sans porter atteinte à leur liberté de décision, les observations et les recommandations qu'ils estiment utiles à une bonne administration de la Justice et à une correcte application de la loi. La même faculté appartient au vice-président du Tribunal de première instance et au juge de section de droit musulman à l'égard des cadis de leur ressort.
+Les cadis titulaires sont inamovibles. Sous réserve des dispositions relatives aux intérims, ils ne peuvent recevoir d'affectation nouvelle même en avancement, sans leur consentement.
 
-fr  i;.itfe*e groupe les cadis  suppléants et  les .nppfeants  lntérimaires,  comporte six échelons'
+ART. 7. — L'activité des juridictions de cadis fera l'objet de notices dont la périodicité et les modalités d'établissement et de contrôle seront définies par voie réglementaire.
 
-- Anr. 3. -Les nominations  aux divers emplois  de cadis sont f.i;;^;;; aecret  Su  Président de l-1 République' sur proposition âo *irri.t."  de la Justice  après avis de la cornmission  d'avance-
+ART. 8. — Tout cadi, lors de sa nomination à son premier poste et avant d'entrer en fonction, prête serment en ces termes :
+« Je jure par Dieu l'Unique de bien remplir mes fonctions, de garder le secret des délibérations et de me conduire en tout comme digne cadi. »
+Il ne peut en aucun cas être relevé de ce serment.
+Le serment est prêté devant les juges de première instance de droit musulman du ressort.
 
-"uai, ment et de disciPline  des cadis'
+ART. 9. — Les cadis sont installés dans leurs fonctions en audience solennelle du tribunal auquel ils sont nommés.
 
-- Anr. 4. -Les cadis suppléants et les cadis suppléants inté,inruir"r-sont  iepartis  selon-les  besoins du service  entre  les  juri;i;ti""t  cadiales  par'arrêté du ministre  de la Justice  après avis à" p.Itfi""t  de la Cour suprême  et du procureur  général  près
+ART. 10. — L'exercice des fonctions de cadi est incompatible avec l'exercice de toutes fonctions publiques et de toute autre activité professionnelle ou salariée.
+Des dérogations individuelles peuvent être accordées par décision du ministre de la Justice pour autoriser les cadis à donner des enseignement ressortissant à leur compétence ou à exercer des fonctions ou activités qui ne seraient pas de nature à porter atteinte à leur dignité ou leur indépendance.
+Les cadis peuvent sans autorisation préalable se livrer à des travaux scientifiques, littéraires ou artistiques.
 
-- la iour suprême.
+ART. 11. — L'exercice des fonctions de cadi est également incompatible avec l'exercice de toute fonction élective.
 
-,
+ART. 12. — Les parents et alliés jusqu'au degré d'oncle et neveu inclusivement, ne peuvent faire partie du personnel du même tribunal de cadi.
 
-Les affectations de cadis  titulaires,  sont  prononcées ptr  le décret qui les no'mme. Les cadis titulaires  peuvent  être affectés ;t;; aritre  poste sans avancement,  à leur  demande' par l'autorité  de norrlination.
+ART. 13. — Toute manifestation d'hostilité au principe et à la forme du gouvernement de la République est interdite aux cadis : de même que toute démonstration de nature politique incompatible avec la réserve que leur imposent leurs fonctions.
+Est également interdite aux cadis toute action de nature à arrêter ou entraver le fonctionnement des juridictions.
 
-'  . Anr. 5. -f,ous  les cadis relèvent administrativement  du ministre de la Justice.
+ART. 14. — Indépendamment des règles fixées par le Code pénal, les cadis sont protégés contre les menaces et attaques de quelque nature que ce soit, dont ils peuvent faire l'objet dans l'exercice ou à l'occasion de l'exercice de leurs fonctions. L'Etat doit réparer le préjudice direct qui en résulte, dans tous les cas non prévus par la législation des pensions.
+En cas de poursuite contre les cadis, il est instruit, conformément aux articles 588 et suivants du Code de procédure pénale.
 
-- Anr. 6, -Les cadisr  ne sont soumis  dans l'exercice  de leurs f"""tiàitt::"tidictionnelles qu'à l'autorité  de la loi' Toutefois'  le fresia"nt  Lt le vice-président  de la Cour suprême  peuvent  leur adresser,  sans porter  atteinte à leur liberté  de décision'  les oUtà**i""t  et les recommandations qu'ils estiment  utiles -à unebonneadministrationdelaJusticeetàuneco'rrecteappli"ution a" la loi. La même  faculté  appartient  au vice-président Ju itiUttut de première  instance et au  juge de section de droit à l'égard  des cadis de leur ressort'1
+ART. 15. — Les cadis ne peuvent, en dehors de leurs fonctions, être requis pour d'autres services publics que le service militaire ou tous autres services que la loi leur impose.
 
-.
+ART. 16. — Les cadis sont astreints à résider au siège de la juridiction à laquelle ils appartiennent.
+Ils ne peuvent s'absenter sans congé ou permission, si ce n'est pour cause de service.
 
--rrr,ti*t.t L,es  cadis titulaires  sont  inamovibles'  Sous réserve des disoositions relatives aux intérims, ils ne peuvent  recevoir d'affe9iu,ior, tro""elle  même  en avancement, sans leur  consentement'
+ART. 17. — Les cadis doivent porter aux audiences un costume défini par décret.
 
-- Anr. 7. -L'activité  des  juridictions  de cadis fera I'objet  de notices dont la périodicité  ei les modalités d'établissement  et de seront définies par voie réglementaire'
+ART. 18. — Les cadis perçoivent une rémunération qui comprend le traitement et ses accessoires tels qu'ils sont définis par le statut général de la Fonction publique.
+Les indices de traitement affectés à chacun des échelons des trois grades du corps des cadis sont fixés par décret.
+Les cadis bénéficient de la gratuité du logement. Au cas où l'Administration ne pourrait mettre un logement de fonction à leur disposition, une indemnité compensatrice fixée par décret leur serait versée.
 
-"ont.Ote Anr.8.-Toutcadi,lorsdesanominationàsonpremier poste.et avant d'entrer en fonction,  prête  serment en ces termes  :
-
-n Je  jure par Dieu I'Unique de bien remp lir mes fonctions'  de sarder î" ,".r"t  des déHbèrations et de me conduire  en tout comme drgne caqr.  >
-
-Le serment  est prêté devant les  juges de première instance de àroit  musulman  àu ressort'
-
-Il ne peut en aucun cas être  relevé  de ce serment'
-
-- Anr.  9. audience -Les cadis sont installés dans leurs fonctions  en solennelle  du tribunal  auquel ils sont nommés'
-
-ice des fonctions  de cadi , Anr.  10. -L'exerc avec l'exercice  de toutes fonctions  publiques . est inçomPatible et de tclute autre activité  professionnelle  ciu salariée'
-
-Les cadis  peuvent sans autorisation-préalable  se livrer à  des travaux scientifiques,  littéraires  ou artistiques'
-
-Des dérogations  individuelles  peuvent être  accordé:t.p":  dé:i: sion du min-istre de la Justice  pour  4utoriser  les' cadis à donner â"r-À"ig""ment  ressortissant  à leur compétence ou à exercer â",  ir""ri""s  ou activités qui ne seraient  pas de nature à porter àt,"int"  à leur dignité  ou leur  indépendance'
-
-- ice des fonctions  de cadi est également À,nr.  11. : L'exerc incompatible  avec ltexercice  de toute fonctio:n élective. -
-
-- Anr. 12' -Les parents et alliés  jusqu'au degré  d'oncle.et neveu inclusivement,  ne peuvent faire  partie du  personnel  du même
-
-- tribunal de cadi.
-
--"il
-
-' Anr. 13, -Toute  manifeitation  d'hostilité  au principe et à. la fo..rre  a.,  gouvernement  de la République  est interdite  ur1" "u-1T^t à;;ê*" lue  toute démonstration  de nature politique  incompatible avec la réserve que leur imposent  leurs fonctions'
-
-;;"Ièmànt  interdite  aux cadis toute u:.t:ol  d" nature à urretç. oiu entrarrer le fonctionnement  des  juridictions'
-
-- Anr.  14. -Indépendamment  des règles fixées  par le Code pénal' les cadis sont  protegés contre les menaces  e-t attaques  de quelque ;;;;til;^""-""r,,ïàIr, ils  peuvent  faire l'objer dans I'exercice. ôu à l'oËcasion de I'exercice  àe leurs fonctions' L'Etat doit répa;i;;téj"di." direct  qui en résulte'  dans tous les cas non prér,us -parta législation des pensions
-
-En cas de poursuite contie les cadis' il  est instruit'  conformément'  aux articles  588 et suivants  du Code de procédure pénale.
-
-- Anr.  15. -Les cadis ne peuvent,  en dehors de leurs fongliols' ett" î"q"it  porr.  a'autr"s  s6rvices  publics que  le service  militaire ou tous^arrties  services  que la loi leur ippose'
-
-- Anr, 16.  --  Les cadis sont astreints à résider au siège de la juridiction à laquelle ils appartiennent'
-
-Ils ne peuvènt s'absenier  sans congé ou permission'  si  ce
-
-n'est pour cause de service.
-
-- Anr. 17. -Les cadis doivent  porter  aux audiences un costume défini  par décret.
-
-- Anr. 18. -Les cadis perçoivent  une fémunération  qui. comprend  le traitement et ses'accessoires  tels  qu'ils sont  définis par ie statut  général  de la Fonction  publique'
-
-trois  grades  du corps  des cadis sont fixés  par décret"
-
-Les indices  de traitement  affectés  à chacun  des échelons des
-
--  -i"; cadis bénéficient  de la gratuité du logemenl"  fu ca-s  o1 l'AJministration  ne pourrait *éttt"  un logernent  de fonction  à leur disposition,  une indemnité  compensatrice  fixée  par décret leur  serait  versée.
-
-- Anr. 19. -Les règles du statut  général  de la Fonction  publique s'appliquent  aux cadis dans la mesure oir elles ne sont  pas cont.ai.", àux  dispositions  de la présente loi'
+ART. 19. — Les règles du statut général de la Fonction publique s'appliquent aux cadis dans la mesure où elles ne sont pas contraires aux dispositions de la présente loi.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 296
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+27 août 1969
 
-{OUSA4  OMCIEL  DN IA NEPUBTTOUE ISLAMIQUE  DE MAURITANIE
-
-27 aoùt 1969
-
-### Cnnprrne  II
+### CHAPITRE II
 
 #### Recrutement.
 
-Anr. 20, -Les candidats  aux fonction  de cadis  doivent rem_
+ART. 20. — Les candidats aux fonction de cadis doivent remplir les conditions suivantes :
+1° Etre de nationalité mauritanienne ;
+2° Jouir de leurs droits civiques et être de parfaite moralité ;
+3° Se trouver en position régulière au regard des lois sur le recrutement de l'armée ;
+4° Remplir les conditions d'aptitude physique nécessaire à l'exercice de leurs fonctions et être reconnus indemnes ou définitivement guéris de toute affection donnant droit à un congé de longue durée ;
+5° Etre âgé de vingt-trois ans au moins et de quarante ans au plus ;
+6° Etre titulaire de deux certificats en droit ou d'un diplôme équivalent ou avoir satisfait aux épreuves d'un concours dont les modalités sont fixées par décret.
 
-- l'  Etre de nationalité  mauritanienne:
+ART. 21. — Les candidats admis sont nommés cadis suppléants intérimaires par décret pris sur propositions du ministère de la Justice, après avis de la commission d'avancement et de discipline des cadis.
+Ils sont soumis à une période probatoire de trois ans, années pendant lesquelles ils doivent nécessairement exercer les fonctions auxquelles ils ont été affectés et suivent une formation théorique et pratique.
+Au terme de cette période, et compte tenu des notes qu'ils auront obtenues tant pour ce qui concerne leur activité professionnelle que la poursuite de la formation théorique et pratique qu'ils recevront selon les modalités fixées par décret, les cadis suppléants intérimaires seront, sur avis de la commission d'avancement et de discipline des cadis, soit nommés cadis suppléants soit autorisés à prolonger leur stage pendant une période ne dépassant pas trois années ou encore admis à cesser leurs fonctions.
 
-plir les conditions  .suivaùtes :
+ART. 22. — La période probatoire est ramenée à deux années au profit des cadis suppléants intérimaires titulaires de l'un des diplômes visés au 6° de l'article 20 ci-dessus.
 
-- 2" Jouir de leurs  droits  civiques et être  de parfaite  moralité;
+### CHAPITRE III
 
-_^-1-  -t" tr?ul/e1.en.pos.ition  régulière au regard des lois sur le recrutement  de l,armée:
+#### Notation et avancement.
 
-- 4" Remplir  les conditions  d,aptitude  physique  nécessaire  à l'exercice  de leurs  fsnctions  et être  ,".onrr'u.  indemnes  ou défini tivement guéris de toute  affection  aonrrurri droit à un cohgé  de longue durée;
+ART. 23. — L'activité du cadi donne lieu chaque année à l'établissement d'une notice contenant une note chiffrée sur 20, une appréciation générale et tous les renseignements sur sa valeur professionnelle et morale.
+Cette notice est établie par le président de la Cour suprême et comporte une appréciation du procureur général près la Cour suprême, après avis du procureur de la République, et au vu des notes attribuées par le vice-président du Tribunal de première instance ou le juge de section du ressort du cadi. Elle est adressée avant le 1er juillet au ministère de la Justice.
+Pour les cadis placés en position de détachement, cette notice est établie par le ministre dont ils relèvent.
 
-, 5" Etre âgé de vingt-trois ans au moins et de quarante  ans au plus ;
+ART. 24. — L'avancement d'échelon à l'intérieur des grades s'effectue à l'ancienneté. Il est constaté par un arrêté du ministre de la Justice.
+Le temps nécessaire pour accéder à l'échelon supérieur est de deux ans.
 
-- 6" Etre titulaire  de .d9ux certificats  en droit ou d,un  diplôme équivalent ou avoir satisfait ..r*'ept"rrr"r  J".r concours  dont les modalités sont fixées par décret.
+ART. 25. — L'avancement de grade s'effectue exclusivement aux choix.
+Les cadis doivent être inscrits au tableau d'avancement et réunir en outre les conditions suivantes pour être promus au grade supérieur :
+1° Pour les cadis suppléants avoir accédé au sixième échelon ;
+2° Pour les cadis de deuxième grade avoir accédé au quatrième échelon.
+Le temps passé en disponibilité n'est pas pris en considération pour le calcul de l'ancienneté.
 
-- Anr. 21. -Les candidat.s  admis sont nommés cadis suppléanrs intérimaires  par décret-p.i,  .r. qropositions  du ministère  de Ia J'stice,. après  4vis de là commiiri"" a;uïuncement  et de discipline,des  cadis.
+ART. 26. — Lors de l'envoi des notices prévues à l'article 23, le président de la Cour suprême adresse au ministre de la Justice des propositions en vue de l'avancement des cadis, la titularisation des cadis suppléants et éventuellement la prolongation de la durée de la période probatoire à laquelle sont soumis les cadis suppléants intérimaires ainsi que la cessation de leurs fonctions.
 
-Ils  font  soumis  à une.période probatoire  de trois ans, années pendant  lesquelles  ils doivent néceisairem"rrt "*"."", res  fônctions auxquelles  ils ont été  affectés  et suivent  une  formatio;,h;rrq;; et pratique.
+ART. 27. — Le ministre de la Justice arrête les listes des propositions et les adresse à la commission d'avancement et de discipline des cadis prévue à l'article 46.
 
-Au terme  de cette période,  et compte tenu des notes qu,ils
+ART. 28. — Les listes de propositions arrêtées par le ministre de la Justice sont portées à la connaissance des cadis entre le 1er août et le 1er septembre de chaque année.
 
-auront  obtenues  tant pour  ce qui "orrô"rn" leur  activité;#;r: sionnelle  que  Ia poursuite  de ta formatior,  lfreoriq.re  et pratique qu'ils .recevrqnt  selon.  les modalités  fixçes par décret, les cadis suppléants întérimaires  seront, sur avis a" râ "o**i-..L;,#;_ cement et de discipline des cadis, soit ";;;jr"';d;il##; soit autorisés  à prolonger  leur .r^g"  ;";à"nt  une période  ne dépassant pas  trois années  o., "n"orË aàmis  a cesser leurs fonctions.
+ART. 29. — Les cadis non proposés peuvent adresser au président de la commission d'avancement et de discipline jusqu'au 15 septembre une requête en vue de leur inscription au tableau.
 
-_ A*r,^.2i._-  La période  probatoire  est ramenée à deux années 1y plorit  des cadis suppréanrs  intérimaires  iir"i"ir"rïJËË;
+ART. 30. — La commission d'avancement et de discipline des cadis dresse le tableau d'avancement en raison du nombre de postes vacants signalés par le ministre de la Justice.
+Le tableau une fois arrêté est publié au Journal Officiel avant le 1er janvier de chaque année.
+Les cadis sont inscrits par ordre de mérite. Les promotions ont lieu dans l'ordre du tableau et dans la limite des vacances.
+Le tableau d'avancement cesse d'être valable à l'expiration de l'année pour laquelle il a été dressé.
 
-- diplômes  visés  au 6" de I'article 20 ci_aessus.
-
-### Cnnprrnr  III
-
-#### l{otation  et avancement.
-
-- Anr. 23. -L'activité  du cadi  donne lieu chaque  année  à l,éta_ blissement  d,une notice  contenant  ; ;;;"  .hlts;"'rîzi,'""i appréciation  générale  et tous les renseignements  sur sa valeur professionnelle  et morale.
-
-Cette notice est établie.par Ie président  de Ia Cour suprême et comporte  une appréciation  du procure'r  général  prè.  Ë-C;; suprême,  après  avis du procureur  de la RepJbUque,  ;; .";;;;; notes attribuées  par le vice_président  du Tribunai  a" p."_ierË instance  ou le juge  de section  du ressort du cadi.  EIIe  est adressée
-
-P9u1  les cadis  placés  en position  de détachement,  cette  notice
-
-avant  le 1"" jqillet  au ministère de la Justice
-
-est établie par:  le ministre dont ils relèvent.
-
-- Anr. 24. -L'avancement  d,échelon  à l,intérieur  des grades s'effectue  à  i'ancienneté.  II est constaté par un arrêté du ministre de la Justice
-
-- Le temps nécessaire pour accéder à l,échelon supérieur  est de deux ans.
-
-- Anr. 25. -L,avancement  de grade  s,effectue exclusivement
-
-aux choix.
-
-. Les cadis  doivent  être inscrits  au, tablear! d,avancement  et réunir  en outre les conditions  suivantes  ù. ê;;;;;;; grade  supérieur:
-
-- 1" Pour res cadis suppréants avoir accédé  au sixième  échelon;
-
-- 2'Pour les cadis de deuxièrrie grade  avoir accédé  au qua_ trième échelon.
-
-, Le temps  passé en disponibitité  n,est pas pris en considéra-
-
-tion pour le calcul  de I'ancienneté.
-
-- Anr. 26. -Lors de l,envoi des notices prévues  à.l,article 23, le président  d,e la Cour  .suprême.aOressà  au minirtr" de G Justice des propositions  en vue de f;uuu.r".*"rrt des cadis, la titularisation  des cadis suppléants  et éventuellement  la p.oio.r_ gation  de la durée de la période probatoire  à laquelle sont :.1_Tt: les.  cadis  suppléanrs  intérimaiies  ainsi  que  la cËssation  de
-
-- reurs ronctlons.
-
-- Anr. 27. -I e rninistre  de la Justice  arrête  les listes des pre positions  et les adresse  à ra commission d'avancement  ei ae discipline  des cadis prévue  à l,article 46.
-
-- Anr. 28. -Les listes.de  propositions  arrêtées par le minjstre de Ia Justice  sont portées  à ti  connaisràtr."  a". cadis entre re
-
-- 1,."  août  et le 1"" septembre  de chaque  un"e..
-
-- Anr. 29--Les cadis n-on proposés peuvent  adresser  au président de la commission  d'avàncËrri""t'J aè discipline  jusqu,au 15 septembre  une requête  en vue de leur inscription  au tableau.
-
-- Anr. 30. -La commis-sion  d,avancement  et de discipline des cadis dresse Ie tableau d,avancement  en-raison  du nombre de
-
-Le tableau  une fois_  arrêté est publié  au Journal Ofliciet avant le 1'" janvier  de chaque  année.  /
-
-- postes  vacants'signalés  par le ministre de la Justice.
-
-Les cadis sont inscrits par ordre de mérite. Les promotions ont lieu dans l,ordre  du tableau  et dans ta timite des vacances.
-
-de I'année  pour laquelle  il a été  dressé---
-
-Le tableau  d'avancement  cesse  d,être  valable  à l,expiraiion "
-
-### Cnlprrnp IV
+### CHAPITRE IV
 
 #### De la discipline.
 
-Anr. 3l' -Tout manquement  par un cadi aux convenances de son état,  à l,honneur,  à Ia délicaiesse  ou à la dignité  constitue une faute di.sciplùt"1."
+ART. 31. — Tout manquement par un cadi aux convenances de son état, à l'honneur, à la délicatesse ou à la dignité constitue une faute disciplinaire.
+Les habitudes notoires d'intempérance entraînent la révocation.
 
-. Les habitudes notoires  d,intempérance  entraînent  la révoca_
+ART. 32. — En dehors de toute action disciplinaire, le président de la Cour suprême ou à défaut le vice-président de la Cour suprême, le vice-président du Tribunal de première instance ou les juges de section de droit musulman, ont le pouvoir de donner un avertissement aux cadis de leur ressort.
 
-tion.
-
-- Anr. 32. -En dehors  de toute action disciplinaire,  le président de Ia Cour suprême  ou à défaut  te vice_presid""/  à;'i;";;;ï suprême,  Ie vice-président  du Tribunal  de première  i"rtu""" o" les juges  de section de droit musulman,  ;;ri"-;;;;il;;;;"*
-
-un avertisserneni-aux  cadis de leur ressort.
-
-- Anr' 33' -Les sanctions  disciplinaires  appricabres  aux cadis sont :
-
-> l'  La réprimande  avec  inscription  au dossier;
-
-> 3' La radiation  du tableau  d'avancement. 4" Le --'
-
-> 2' Le déplacement  d,office:
-
--retrait temporaire  de fonctions  f
-
-> 6' La rétrogradation;
-
-> 5'. L'abaissement  d,échelon  ;
+ART. 33. — Les sanctions disciplinaires applicables aux cadis sont :
+1° La réprimande avec inscription au dossier ;
+2° Le déplacement d'office ;
+3° La radiation du tableau d'avancement ;
+4° Le retrait temporaire de fonctions ;
+5° L'abaissement d'échelon ;
+6° La rétrogradation ;
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-27 aoîrt  1969
-
-JOURNAL  OFFICIEL  DE LA REPUBLIQUE ISLAMIQUE  DE MAUR.ITANIE
-
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 297
 
-- 7" La mise à Ia retraite d.'office  ou l'admission  à cesser définitivemeat ses fonctions  lorsque  le cadi n'a pas a.oit a "ne pension de retraite;
+7° La mise à la retraite d'office ou l'admission à cesser définitivement ses fonctions lorsque le cadi n'a pas droit à une pension de retraite ;
+8° La révocation avec ou sans suspension des droits à pension.
 
-8' La révocation avec ou sans suspension des droits à pension.
+ART. 34. — Si un cadi est poursuivi en même temps pour plusieurs faits, il ne peut être prononcé contre lui que l'une des sanctions prévues à l'article précédent.
+Une faute disciplinaire ne peut donner lieu qu'à une seule des dites peines. Toutefois, les sanctions prévues aux 3°, 4° et 5° de l'article précédent peuvent être assorties du déplacement d'office.
 
-- Anr. 34. -Si un cadi est poursuivi  en même  temps pour plusieurs  faits,  il ne peut être  prononcé  contre  rui que tLrre aes sanctions  prévues à ltarti'èle  précédent.
+ART. 35. — Le ministre de la Justice, saisi d'une plainte ou informé de faits paraissant de nature à entraîner des poursuites disciplinaires contre un cadi, peut, s'il y a urgence, et sur propositions des chefs hiérarchiques, interdire au cadi faisant l'objet d'une enquête l'exercice de ses fonctions jusqu'à décision définitive sur l'action disciplinaire. L'interdiction temporaire peut comporter privation du droit au traitement à l'exception des prestations familiales. Cette décision prise dans l'intérêt du service ne peut être rendue publique.
+En ce qui concerne les cadis titulaires, cette mesure ne peut intervenir qu'après avis de la commission d'avancement et de discipline des cadis.
 
-unè faute disciplinaire  ne peut donner lieu qu'à  une seure  des dites  peines;  Toutefois,  Ies sanctions prevu"s  ;;1",-;.;î";
+ART. 36. — Le pouvoir disciplinaire est exercé à l'égard des cadis par la commission d'avancement et de discipline des cadis.
 
-l'article précédent  peuvent être  asso'ties du créplacement  d,office.
+ART. 37. — Les faits pouvant motiver une poursuite disciplinaire contre les cadis sont dénoncés à la commission d'avancement et de discipline des cadis par le ministre de la Justice.
 
-- Anr. 35. -Le ministre de la Justice,  saisi d.,une  plainte ou informé de faits paraissant  de nature à entrainer J"r  i""rr"i,* disciplinaires  contre  un cadi, peut,  sIl y a urgence,  et i"r pryopo_ sitions  des chefs hiérarchiques,  interdire  auladi  faisant  i,"ulJ d'une enquête  l'exercice de ses fonctions jusqu'à  décision définitive sur l'action ilisciplinaire.  L'interdiction  temporai."  p",r, "oÀporter privation  du droit au traitement  à l'exception  dès prestations familiales. certe décision  prise  dans l'intérêt du serùce ne peut être  rendue  publique.
+ART. 38. — Le président de la commission d'avancement et de discipline des cadis désigne un rapporteur parmi les membres de la commission.
+Il le charge, s'il y a lieu, de procéder à une enquête. Il peut interdire au cadi incriminé l'exercice de ses fonctions jusqu'à décision définitive. Cette interdiction peut comporter privation du droit au traitement à l'exclusion des prestations familiales. Cette décision ne peut être rendue publique.
 
-En ce qui concerne  les cadis  titulaires,  cette meÈure  ne peut intervenir qu'après  avis de la comgrission  d,avancement  ei de discipline des cadis.
+ART. 39. — Au cours de l'enquête, le rapporteur entend ou fait entendre l'intéressé par un cadi d'un rang au moins égal à celui de ce dernier et, s'il y a lieu, le plaignant et les témoins. Il accomplit tous actes d'investigations utiles.
 
--fnr. 36. -Le pouvoir.disciplinaire est exercé  à l,égard  des cadis  par la commission d'avancement  et de discipline d-es cadis.
+ART. 40. — Lorsqu'une enquête n'a pas été jugée nécessaire ou lorsque l'enquête est complète, le cadi est cité à comparaître devant la commission d'avancement et de discipline des cadis.
 
-- Anr. 37. -Les faits pouvant motiver une poursuite  discipli_ naire  contre les cadis sont dénoncés  à la commission  d,avance-
+ART. 41. — Le cadi cité est tenu de comparaître en personne. Il peut se faire assister et, en cas de maladie ou d'empêchement reconnu justifié, se faire représenter par l'un de ses pairs ou par un avocat.
 
-- ment et de discipline des, cadis  par le ministre  de la Justice.
+ART. 42. — Le cadi a droit à la communication de son dossier de toutes les pièces de l'enquête et du rapport établi par le rapporteur. Son conseil a droit à la communication des mêmes documents.
 
-- Anr. 38. -Le président de la commission d'avancêment  et de discipline  des cadis désigne un rapporteur  parmi 1",  -"*ùr", de la commission.
+ART. 43. — Au jour fixé par la citation et après lecture du rapport le cadi différé est invité à fournir ses explications et moyens de défense sur les faits qui lui sont reprochés.
 
-_  Il le charge,  s'il y a lieu, de procéder  à une enquête.  Il peut interdire  au cadi incriminé  r'exercice  de ses fonciions jusqu'à décision. définitive-  cette interdiction peut _""-port"r  privation  du droit au traitement à l'exclusion  des presfations  familiales.  cette décision  ne peut  être  rendue  publique.
+ART. 44. — La commission d'avancement et de discipline des cadis statue à huit clos. Sa décision, qui doit être motivée, n'est susceptible d'aucun recours.
+Si le cadi cité, hors le cas de force majeure ne comparaît pas, il peut néanmoins être statué et la décision est réputée contradictoire.
 
-- Anr. 39. -Au cours de I'enquête,  le rapporteur entend  ou fait entendre l'intéressé  par un cadi  d,un rang au moins  égal  à celui de ce dernier et, s'il y a lieu, le plaignant  et les témoins.  it
+ART. 45. — La décision rendue est notifiée au cadi intéressé en la forme administrative. Elle prend effet du jour de cette notification. Toutefois, si cette décision entraîne l'application de l'une des sanctions 5, 6, 7 et 8 prévue à l'article 33 ci-dessus, elle prend effet à compter de la date de suspension.
 
-- accomplit  tous actes d'investigations  utiles.
+### CHAPITRE V
 
-- ART: 40. -Lorsqu'une. enquête  n'a pas été  jugée  nécessaire  ou lorsque I'enquête  est complète,  le  ,cadi  est cité  à comparaîtrr devant la cornmission  d'avancement  et de,discipline  d.;
+#### De la commission d'avancement et de discipline.
 
-";ir. Anr. 41. -Le cadi cité  est tenu de comparaître en personne. Il  peut se faire assister et, en cas de maladie ou d,empèchemént rêconnu  justifié,  se faire représenter  par l,un de ses pairs ou par un avocat.
+ART. 46. — La commission d'avancement et de discipline des cadis comprend :
+— Le contrôleur d'Etat, président ;
+— Le président ou le vice-président du Tribunal de première instance de Nouakchott ;
+— Le chef du service de l'administration judiciaire ;
+— Deux cadis, membres titulaires et deux cadis membres suppléants désignés par leurs collègues pour la durée de l'année judiciaire, parmi les cadis du premier et du deuxième grade (dont un au moins doit être du premier grade) ou, à défaut, parmi les cadis membres du troisième grade.
 
-- Anr. 42. -Le cadi  a droit à la communication  de son dossier de toutes  les pièces  de I'enquête "t a., ,upport ;r;;ii  ;;;'l; rapport€ur.  son conseil  a droit à la communicatiôn  des mêmes documents.
+ART. 47. — La commission d'avancement et de discipline des cadis se réunit sur la convocation de son président qui fixe les lieux des réunions.
+Pour délibérer valablement, elle doit comprendre au moins quatre membres.
+Les propositions et avis de la commission sont formulés à la majorité des voix. En cas de partage, la voix du président est prépondérante.
+Un fonctionnaire désigné par le ministre de la Justice assure le secrétariat de la commission.
 
-- Anr. 43. -Au jour fixé  par la citation et après lecture  du rapport  le cadi différé  est invité  à fournir  ses explications et ,moyenè  de défense sur les faits qui lui sont reprochés.
+### CHAPITRE VI
 
-- Anr. 44. -La commission  d'avancement et de discipline des cadis statue à huit clos. Sa décision, qui doit être  motii,ée,  n,est susceptible  d'aucun  recours.
+#### Intérim des fonctions des cadis.
 
-Si le cadi cité,  hors le cas de force  majeure  ne comparaît pas, i-l^  neyt  néanmoins être  statué et ra décision est répuiée "orrtrudictoire.
+ART. 48. — En cas de vacance d'un emploi de cadi ou lorsque le titulaire est en congé, tout cadi peut être délégué, à titre intérimaire pour une durée n'exédant pas six mois et non renouvelable, dans des fonctions autres que celles dont il est titulaire. Cette délégation intervient dans les formes prévues pour sa nomination.
 
-. Anr. 45. -La décision rendue  est notifiée au cadi intéressé en Ia forme administrative.  EIle prend  effet du jour  O" ""ite notification.  Toutefois,  si cette décision  entraîne  l,;p;ii.;;";;; l'une des sanctions  5, 6, 7 et  g  prévue  à l,article  ll  Ëia""."r, ".ff" prend effet à compter  de la daie de suspension.
-
-### Cqaprrnp  V
-
-#### De la commission d.,avancement  et de discipline.
-
-Anr. 46. * La commission  d,avancement  et de discipline dcs cadis comprend:
-
--Le contrôleur  d,Etat,  président;
-
--instance de Nouakchott,
-
-- Le président  ou Ie vice-président  du Tribunal  de premièré
-
--Le chef du service  de I'administration judiciaire;
-
--'_  Deux  cadis,  membres  titulaires et deux cadis membres suppléants  désignés  par, Ieurs  collègues  pour  la durée d.e  ld;; judiciaire,  parmi les cadis  du premiei  et du ae,rxie-"  graà" (dont. yr  a,.t -moins doit être  du premier grade)  ou, a ae-Àui. parmi les cadis mémbre5  du troisième grade.
-
-- Anr. 47. -La commission  d,avancement  et de discipline des cadis  se réunit  sur Ia convocation  de son président  q'i ir." r", lieux des réunions.
-
-Pour délibérer  valablement,  elle doit comprendre au moins quatre  membres.
-
-I-es propostions  et avis de la commission  sont formurés à la majorité des voix.  En cas de partage,  la voix du président  est prépondérante.
-
-un fonctionnaire désigné  par Ie ministre  de la Justice assure --  ------
-
-Ie secrétariat de la commissiàn.
-
-### Cnai"rrnn  VI
-
-#### Intérim  des  fonctions des cadis.
-
-- Anr. 48. -En cas de vacance d,un emploi de cadi ou lorsque le tittrlaire est en congé,  tout cadi peut être  délégué, à titre inié rimaire pour urre durée n'exédant  pas six mois èt ,ron renouve_ lable,  -dans  des fqnctions  autres que celles dont il est titulaire. cette délégation  intervient  dans les formes prévues  pour sa
-
-### Cnaprrnr  VII
+### CHAPITRE VII
 
 #### Des positions.
 
-- Anr. 49. -Tout cadi est placé dans.l,une des positions sui-
+ART. 49. — Tout cadi est placé dans l'une des positions suivantes :
+1° En activité ou en congé régulier ;
+2° En service détaché ;
+3° En disponibilité ;
+4° Sous les drapeaux.
 
-nomination.
+ART. 50. — Les règles du statut général de la Fonction publique concernant les positions ci-dessus énumérées s'appliquent aux cadis dans la mesure où elles ne sont pas contraires aux règles statutaires du corps des cadis et sous réserve des dérogations ci-après.
 
-vantes :
-
-- 1" En activité ou en congé régulier;
-
-- 3' En disponibilité;
-
-- 2" En seryice détaché  i
-
-- 4o Sous les drapeaux;
-
-Anr. 50. -Les règles du statut général  de la Fonction  publique concernant les positions  cidessus. énumérées s'appliquent aux cadis dans la mesure  où elles ne sont pu. "ont.àir", uar* règles statutaires du corps des cadis et sous réserve des dérogations  ci-après.
-
-- Anr. 51. -Les cadis en activité ont droit chaque  année à ùn
-
-congé avec traitement  d'une durée  de quarantecinq jours  consé_ cutifs.
+ART. 51. — Les cadis en activité ont droit chaque année à un congé avec traitement d'une durée de quarante-cinq jours consécutifs.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-JOURNAL OFFICIEL  DE LA REPUBLIQUE  !9I,I\I|{1IOUE  DP.MAURITANIE
+298
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+27 août 1969
 
-27 aotfi  1969
+Ils peuvent bénéficier également de congé de maladie, de congé de longue durée pour maladie et de congé pour concours ou examens dans les conditions prévues pour les autres fonctionnaires.
+En cas de promotion de grade d'un cadi en position de détachement, il est mis fin de droit à ce détachement.
+Cette règle ne peut être opposée aux cadis à la disposition d'un département ministériel ou de tout autre organisme pour exercer des fonctions juridiques. Les services assurés en cette qualité sont considérés comme des services effectifs accomplis dans le cadre d'origine.
 
-Ils  peuvent  bénéficier  également de congé de maladie' de congé de longue durée pour maladie et de congé pour concours ou examens àans les conditions  prévues  pour les autres fonctionnaires'
+ART. 52. — A l'expiration de la période de disponibilité et après avoir été, dans le cas de disponibilité d'office, reconnu apte à reprendre son service, le cadi est réintégré dans un emploi de son grade ; s'il n'est pas reconnu apte, il est admis à cesser ses fonctions et, s'il y a lieu, à faire valoir ses droits à la retraite.
+Le cadi qui refuse le poste offert dans les conditions précitées est admis à cesser ses fonctions et, s'il y a lieu, à faire valoir ses droits à la retraite.
 
-Cette  règle ne peut être  opposée aux cadis à la disposition d'undépart-ementministérieloudetoutautreorganismepour exercpr  des fonctions  juridiques' Les services  assurés en cette qualité  sont considérés  comme des services effectifs  accomplis dans le cadre d'origine'
+ART. 53. — La mise en position de détachement ou de disponibilité est prononcée, selon les cas, dans les formes prévues pour les nominations des cadis.
+La réintégration des cadis est également prononcée dans les formes de leur nomination.
 
-En cas de promotion de  grade â'un cadi en position de déta' chement,  il est mis fin de droit  à ce détachement'
+### CHAPITRE VIII
 
-,Anr.  52. -A l'expiration de Ia période  de disponibilité  et après avoir été,  dans le cus de disponibilité d'office, reconnu.  apte  à reprendre son service, le cadi est réintégré dans un emploi  de son grade  ;  s'il n'est pas reconnu apte,  il est admis à cesser ses f.oncIions et, s'il y a lieu, à faire valoir  ses droits à la retraite'
+#### Cessation des fonctions.
 
-Lecadiquirefuseleposteoffertdanslesconditionsprécitées est adinis à cesser ses fonctions  et, s'il y a lieu, à faire valoir ses. drcits à la retraite.
+ART. 54. — La cessation définitive des fonctions entraîne radiation des cadres et, sous réserve des dispositions de l'article 58, perte de la qualité de cadi. Elle résulte :
+1° De la démission régulièrement acceptée ;
+2° De l'admission à cesser ses fonctions lorsque le cadi n'a pas droit à la pension ;
+3° De la mise à la retraite ;
+4° De la révocation.
 
-- Anr. 53. -La mise en position de détachement ou de disponibilité est prononcée, selon les cas, dans les formes prévues pour: les nominations  des cadis.
+ART. 55. — La démission ne peut résulter que d'une demande expresse et écrite de l'intéressé marquant sa volonté non équivoque de quitter le corps des cadis. Elle ne vaut qu'autant qu'elle est acceptée par l'autorité investie du pouvoir de nomination et prend effet à la date fixée par cette autorité.
 
-La réintégration  des cadis  est également  prononcée dans  les forrnes de leur nomination.
+ART. 56. — L'acceptation de la démission la rend irrévocable. Elle ne fait pas obstacle, le cas échéant, à l'exercice de l'action disciplinaire en raison de faits qui n'auraient été révélés qu'après acceptation.
 
-### Cnaprrnu VIII
+ART. 57. — La limite d'âge des cadis est fixée à soixante-cinq ans.
 
-#### Cessation  des  fonctions'
+ART. 58. — Les cadis admis à faire valoir leurs droits à la retraite peuvent, s'ils ont exercé des fonctions judiciaires pendant au moins vingt années, se voir conférer, par l'autorité investie du pouvoir de nomination, l'honorariat.
 
-- Anr'54._Lacessationdéfinitivedesfonctionsentraîneradia. tion des cadres et, sous réserye des dispositions  de I'article 58, perte  de la qualité de cadi. Elle résulte:
+ART. 59. — Les cadis honoraires demeurent attachés en cette qualité à la juridiction à laquelle ils appartenaient.
+Ils continuent à jouir des honneurs et privilèges attachés à leur état, et peuvent assister en costume d'audience aux cérémonies solennelles de leur juridiction.
+Ils prennent rang à la suite des cadis de leur âge.
 
-- 1' De la démission régulièremeyrt  acceptée;
+ART. 60. — Le régime des pensions applicables aux cadis est le même que celui des autres fonctionnaires.
 
-- 3" De la mise à la retraite;
+### CHAPITRE IX.
 
-- 2" De l'admission à cesser ses fonctions lorsque le cadi n'a pas droit à la  Pension;
+#### Dispositions transitoires.
 
-- 4' De la révocation.
+ART. 61. — Les cadis actuellement en fonction auront leur carrière reconstituée selon les dispositions suivantes :
+a) Les greffiers en chef délégués dans les fonctions de cadi en vertu des dispositions de la loi n° 66.168 du 4 août 1966 et qui justifieront au moment de l'entrée en vigueur de la présente loi avoir exercé pendant deux années les fonctions de cadis, feront l'objet des propositions prévues à l'article 21.
+b) Les autres cadis qui justifieront avoir exercé pendant quatre années les fonctions de cadi feront l'objet de propositions dans les formes prévues à l'article 21. Ils seront soit nommés cadis suppléants, soit autorisés à prolonger leur stage pendant une période ne dépassant pas deux années ou encore admis à cesser leurs fonctions.
+Les cadis en fonction conserveront leurs avantages de solde acquis au jour de la promulgation de la présente loi.
 
-- Anr. 55. ..  La dérnission ne peut résulter  que d'une demande expiesse et écrite de I'intéressé  marquant  sa volonté ùon équivfrue de quitter le corps des cadis' Elle ne vaut qu'autant q,rËtt"  esi âcceptée par l'autorité  investie du pouvoir  de nomination et prenà effet à la date fixée  par cette autorité'
-
-- Anr.56._L,acceptationdeladémissionlarendirrévocable. Elle ne fait pas obstacle,  le cas échéant,  à  I'exercice de l'actron disciplinaire  èn rai.on de faits qui n'auraient  été  révélés qu'après acceptation.
-
-- Anr. 57. -La limite d'âge des cadis est flxée à soixanté-cinq ans.
-
-- Anr. 58. -Læs cadis admis à faire valoir leurs droits à la retraite  peuvent,  s'ils ont exercé des fonctions  judiciaires  Pin. dant au moins vingt années, se voir conférer, par I'autorité investie du pouvoir de nomination,  l'honorariat'
-
-- Anr. 59. --- Les cadis honoraires  demeurent  attachés  en cette qualité à la  juridiction à laquelle ils appartenaient' t
-
-Ils prennent rang à la suite des cadis de leur âge'
-
-Ils continuent  à  jouir des honnerrrs  et privilèges  attachés à letrr état, et peuvent  assister en costume d'audience aux cérémonies solennellès de leur  juridiction.
-
-Anr. 60. -Le régime  des pensiôns applicables  aux cadis est le même  que celui des autres  fonctionnaires' .
-
-### CHlprrnn  IX.
-
-#### Dis  Po sitions  transitoir es'
-
-Anr. 61. -Les cadis actuellement  en fonition auront leur carrière  reconstituée selon les dispositions suivantes:
-
-- Les greffiers en chef délégués  dans les fonctions de cadi en vertu des dispositions  de la loi n' 66.168  du 4- août L9,66 et qui justifieront  au moment  de l'entrée en vigueur  de ia présente tài  àvoii  exercé pendant  deux années les fonctions  de cadis, feront l'objet des propositions prévues à lârticle  21'
-
-- Les autres cadis qui justifieront avoir exercé  pendant quatre années les fonctions de cadi feront I'objet de propo iitiont  dans les formes  prévues  à l'article 21. Ils seront soit nommés cadis suppléants, soit autorisés à prolonger leur stage pendant une  période  ne dépassant  pas deux années ou encore admis à cesser  leurs fonctions.
-
-Les cadis en fonction  conseTl€ront  leurs avantages  de solde acquis  au jour cle la promulgation  de la présente loi'
-
-### CsaPrrnr X'
+### CHAPITRE X.
 
 #### Dispositions finales.
 
-- Anr. 62. -. Sont abrogées toutes dispositions  contraires  à la présent  ioi, notamment  la loi n" 63.1'42 du 19 juillet 1968 portant statut  des cadis et les lois n'  64:006 du 13 janvier 1964, n' 65.126 du 20 juillet  1965 et n' 66.168 du 4 août 1966.
+ART. 62. — Sont abrogées toutes dispositions contraires à la présente loi, notamment la loi n° 63.142 du 19 juillet 1968 portant statut des cadis et les lois n° 64.006 du 13 janvier 1964, n° 65.126 du 20 juillet 1965 et n° 66.168 du 4 août 1966.
 
-- Anr. 63. -La présente loi sera exécutée  comme loi cle I'Etat'
+ART. 63. — La présente loi sera exécutée comme loi de l'Etat.
 
-Fait à Nouakchott,  le 26 juillet 19p9.
+Fait à Nouakchott, le 26 juillet 1969.
 
-Moktar ould Dnluen.
+Moktar ould DADDAH.
 
-## LOI n" 69.267 du 26  iuittet  1969 modifiant la loi n'  67.169  portant statut général  de Ia Fonction publique
+## LOI n° 69.267 du 26 juillet 1969 modifiant la loi n° 67.169 portant statut général de la Fonction publique.
 
-L'Assemblée nationale  a délibéré et adopté ;
+L'Assemblée nationale a délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
 
-I,e Président de la République  promulgue  la loi dont la teneur suit:
+### ARTICLE PREMIER.
+Les dispositions de l'alinéa premier de l'article 52 de la loi n° 67.169 du 18 juillet 1967 sont abrogées.
 
-### Anrrcte IREMTER.
-Les dispositions de I'alinéa premier de I'article  52 de la loi n' 67.169  du 18 juillet 1967 sont abrogées'
+### ART. 2.
+Les dispositions de l'article 23 et du troisième alinéa de l'article 45 ainsi que celles de l'article 96 de ladite loi sont abrogées et remplacées par celles qui suivent :
 
-### Ant. 2.
-Les dispositions  de l'article 23 et du troisième alinéa de l'article  45 ainsi que celles  de I'article 96 de ladite loi sont abrogées et remplacées par celles  qui suivent:
+#### — Art. 23 :
 
-#### Art. 23:
-
-< L'accès aux établissements visés  à l'article 22 ci-dessus  a' lieu selon les modalités conjointes ci-après ou, lorsque cela est impossible,  selon les modalités ci-après:
-
-- u  l'  Concours ouverts aux candidats  justifiant  de certains diplômes.  Toutefois,  si le nombre de ces candidats  est inférieur à celui des places  offertes,  ils pourront être  admis sur titres'
-
-,2'  'Concours  professionnels  ouverts aux fonctionnaires  comptant à la. date d'ouverture des épreuves  au moins trois ans de services  effectifs  dans un corps rangé.
-
-, a) Soit dans la catégorie immédiatement inférieurè à celle du corps postulé.
+« L'accès aux établissements visés à l'article 22 ci-dessus a lieu selon les modalités conjointes ci-après ou, lorsque cela est impossible, selon les modalités ci-après :
+» 1° Concours ouverts aux candidats justifiant de certains diplômes. Toutefois, si le nombre de ces candidats est inférieur à celui des places offertes, ils pourront être admis sur titres.
+» 2° Concours professionnels ouverts aux fonctionnaires comptant à la date d'ouverture des épreuves au moins trois ans de services effectifs dans un corps rangé.
+» a) Soit dans la catégorie immédiatement inférieure à celle du corps postulé.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-27 aoùt 1969
-
-LA&IIQUE  DE À/LAURITANIE
-
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 299
 
-à
+» b) Soit dans la même catégorie et doté d'un échelonnement indiciaire inférieur à celui du corps postulé. Dans ce cas, les dispositions de l'alinéa 2 de l'article 32 ci-après ne sont pas opposables aux candidats.
+» Le nombre des places prévues au titre du concours professionnel ne peut être inférieur au tiers du nombre total des places offertes. Toutefois, les places non pourvues au titre de l'un des concours peuvent être reportées sur l'autre.
+» Nul ne peut se présenter plus de trois fois à un même concours. »
 
-no.ltttt"
+#### — Alinéa 3 de l'article 45 :
 
-\
+« Les services militaires obligatoires ainsi que le temps passé en congé de longue durée pour maladies sont, le cas échéant, pris en compte pour le calcul de l'ancienneté. »
 
-"b)  soit dans la même.catégorie et doté  d,un  échelonnement indiciaire  inférieur  à.celui  d;-;ô, p;;i,rra.  ou.,,  ce cas,  les dispositions  de I'alinéa  2 de l,artài"î-"iup.Cs  ne sont pas opposables  aux candidats.
+#### — Art. 96 :
 
-.O:r, concours peuvent  etre-reporteestrir  l,autre.
+« La mise en disponibilité de la femme fonctionnaire peut être prononcée d'office lorsque son mari, lui-même fonctionnaire, est appelé à exercer certaines fonctions, qui sont déterminées par décret. Cette disponibilité expire avec la cessation des fonctions du mari.
+» La mise en disponibilité peut être accordée sur sa demande à la femme fonctionnaire pour suivre son mari, si celui-ci, lui-même fonctionnaire, est affecté en un lieu où elle peut exercer ses fonctions. Cette disponibilité prend fin dès que l'intéressée est de nouveau en mesure d'exercer ses fonctions.
+» La mise en disponibilité est accordée de droit à la femme fonctionnaire et sur demande pour élever un enfant âgé de moins de cinq ans et atteint d'une infirmité exigeant des soins continus.
+» La femme fonctionnaire placée en position de disponibilité en application des dispositions du présent article conserve ses droits à l'avancement et à la retraite, sous réserve dans ce dernier cas de s'acquitter des retenues pour pensions civiles. »
 
-" Le nombre  des places  prévues  au titre du concours  pro_ fessionnel  ne peut  être  infér]eur  u,, iià..'au  nombre  total des places  offertes.  Toutefois,  f", pfuc",  ,rlï po,r*,res  au titre de ,'*
+### ART. 3.
+La présente loi sera exécutée comme loi de l'Etat.
 
-"Nut  ne peut  se présenrer  pi".,  à" *"i.-;;i;; un même COnCOUrS.  ))
+Fait à Nouakchott, le 26 juillet 1969.
 
-#### Alinéa 3 de l,article 45:
+Moktar ould DADDAH.
 
-<  Les services  militaires  obligatoires  ainsi que  le temps passé :*1^"TCé de longue .t'rée  poui mataaieu  lorrt, te cas échéant, pr:ls  en compte  pour  le calcul  de l,anciennete. >
+## LOI n° 69.269 du 1er août 1969 portant réorganisation de l'enseignement du second degré.
 
--
-
-#### Art. 96:
-
-^-u  La mise  en disponibilité  de Ia femm glT" o,ot9":é  d,onicà lo,:1"; ;  ;#'ilfJii:,":ï:îï"n:: est appelé  à exercer  *T3rî  fo";i;;;;ui sont déterminées i,:1..:îr;"ïtre disponibilite "rpir"-;; ; cessation  des fonc_
-
->  La mise en disponibilité  peut  être  accordée  sur sa demande à Ia femme fonctionnaire  po".  ."i".J-Jo., -uri,  si celui_ci, Iui-même  fonctionnaire,  est alfecté  en un lieu oir elle peut exercer  ses fonctions. .Cette disponibilitJ  prena  nn dès que l,inté_ ressée  est de nouveau  en mesure  d,exercer  ses fonctions.
-
-' La femme  fonctionnaire
-
-,  La mise en disponibilité  est ..""ra-gï'a"  droit  à Ia femme fonctionnaire  et sui demande  d;;î;;.; iîï":: "i"q à,,u-àt "*.i,,i â',ioïH,'"*  :irïli:"3-.".,Î:
-
-" .placée en position  de disponibi_ Iité  en application  des- disposiii-orisa"'oinr""t  articre  conserve ses droits  à l,avancement et à  !a retraiig sous réserve  dans ce
-
-### Anr.3.
-La présente  loi sera "*J."rj""."_me loi de l,Etat.
-
-dernier  cas  de s,acouitter  A"" ."tà""Ë"lo,r, p"rrriorrs  civiles.  ,
-
-Fait  à No'r.rakchott,  le 26  juiJlet 1969.
-
-Moktar ould Daooen.
-
-## IAI n"'69.269  du Ier  aott 1969 potrtant  réorganisation  de l,ensei. gnement  du second degré.
-
-
-L'Assemblée  nationale_  a délibéré
-
-,""1"  iïî1""'
-
-et adopté  ; d" Iu RJp;ùilË ;;ïgue ra roi dont ra
+L'Assemblée nationale a délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
 
 ### TITRE PREMIER
 
-#### Dispositions  générales.
+#### Dispositions générales.
 
-##### PREMTER'
-L',enseignement  du second degré  se pro-
+##### ARTICLE PREMIER.
+L'enseignement du second degré se propose :
+— de maintenir et développer la culture mauritanienne traditionnelle inspirée des valeurs spirituelles de l'Islam ;
+— de faire acquérir aux futurs cadres de la nation, en fonction de leurs aptitudes, l'ouverture d'esprit et les connaissances propres à accélérer la promotion technique, économique et sociale de la Mauritanie.
 
-- de maintenir  et développer  la culture  mauritanienne  tra_
+##### ART. 2.
+L'enseignement secondaire comporte deux cycles répartis sur sept années d'études :
+— les études du premier cycle dispensées, normalement, en quatre années ;
+— les études du second cycle dispensées, normalement, en trois années.
+Nul ne peut entreprendre les études du second cycle sans avoir suivi avec profit celles du premier cycle.
 
--de faire acq,uérir  atrx futuri "uarà. a" Ia nation, en fonction de leurs aptirudes,  I,ouverrur  JËrpir: "rl"rîàîri"ir:#:,-" prgpres  à  accéIérer  Ia promotiàn--;;;;;1q"", économique  er sociale  de la Mauritanie.
+##### ART. 3.
+L'enseignement secondaire est gratuit. Les manuels et fournitures scolaires individuelles sont à la charge des parents dans des conditions à déterminer par décret. Toutefois, ils seront fournis gratuitement aux élèves boursiers.
 
--ditionnelle  inspirée  aes vateurs  spi.tt"Jrr"î  de l,rslam;
+##### ART. 4.
+Tout châtiment corporel est strictement interdit.
 
-##### Aar. 2.
-L,enseiEnement  secondaire  comporte  deux cycles répartis  sur sept .rrrrê, dëtuAes:
+##### ART. 5.
+Le règlement intérieur des établissements secondaires sera établi par arrêté du ministre de l'Education nationale.
 
-.. quatre  années;
+##### ART. 6.
+Dans tous les exercices scolaires autorisés, la responsabilité civile de l'Etat se substitue à celle du personnel de l'Enseignement pour tout dommage causé aux élèves. Cette substitution n'exclut pas le recours de l'Etat contre le personnel en cause dans le cas où une faute professionnelle pourrait lui être imputée.
 
--;  1". études  du premier  cycle dispensées,  normalement,  en
+##### ART. 7.
+Seules les autorités scolaires et les autorités politiques et administratives dont la compétence est reconnue par le ministre de l'Education nationale ont droit d'accès dans les établissements scolaires du second degré.
 
-,.; lîUydes du second  cycle  dispensées,  normalement,  en
+### TITRE II
 
-avojr  suivi  avec profii celles  du pr"Ài".-"v"fu.
+#### Les établissements du second degré.
 
-Nul ne peut  entreprendre  les études  du second  cycle sans
+##### ART. 8.
+Les établissements de l'enseignement secondaire sont créés par décret.
+Des dispositions sont prises pour faciliter la fréquentation scolaire aux enfants dont la famille est éloignée d'un établissement scolaire.
 
-##### Anr. 3.
-L,enseignement  secondaire  est gratuit.  Les manuels et fourniture.  ,"oËir". inalviaueties-  ."", a la charge des parents  dans des """$-lt.11r1 à déterminer  far  décret. Toutefois, ils seront  fournis  lraturtement  aux érèves boursiers-
+##### ART. 9.
+Les établissements de l'enseignement secondaire comprennent :
+— les lycées dispensant les enseignements du premier cycle et du second cycle,
+— les collèges dispensant, uniquement, l'enseignement du premier cycle,
+— l'Institut national des hautes études islamiques dispensant les enseignements du premier cycle et du second cycle en langue arabe.
 
-##### Anr. 4.
-Tout châtiment  corporel  est strictement  interdit.
+##### ART. 10.
+L'enseignement secondaire est mixte lorsque le nombre d'élèves de chaque sexe est insuffisant pour justifier l'ouverture d'établissements spéciaux de garçons et de filles.
 
-##### ,.,1ï^l:,.
-Le,.règlement  intérieur  des établissements  secon_ r*" érabri par arrêté du ministre  â" r,ea";ri*
+##### ART. 11.
+La construction, l'équipement, l'entretien des bâtiments scolaires et des logements du personnel, la rémunération du personnel sont à la charge de l'Etat ou des collectivités publiques.
 
-##### Anr. 6. _
-Dans tous les exercices  scolaires  autorisés,  Ia res_
-
-- i:i::r "lîî
-
-- ponsabilité  civile de l,Etat  se ,"Urtii""-Jîeile  du personnel  de l'Enseignement  pour  tout dommâg" "urr.e aux élèves. Cette substitution  n,exclut pas.  le recours,;"  fE;;, contre  le personnel en cause dans  le cas où une faute prof".riorrrr"lle  pourrait  lui être  imputée.
-
-##### Anr. 7.
-Seules  les autorités  scolaires  et les autorités  poli tiques  et administratives  dont.lu "o_;;;;rrce est reconnue  par Ie ministre  de I'Education  nationale  âir-a'r"r,  d,accès  dans les établissements  scolaires  du seconJ  d"gre.*
-
-### TITRE  II
-
-#### Les établiseements  du second  degré.
-
-##### Anr' 8'
-Les établissements  de secondaire  sont
-
-Des dispositions  sont prises  pour  fac'iter  la fréquentation scolaire  aux enfants  dont Ia f._ifi"-"rt  efïgnée  d,un établisse_ ment scolaire.
-
-'enseignement créés  par décret.
-
-##### Anr. 9.
-Les établissements  de l,enseignement  secondaire comprennent:
-
--Ies lycées dispensant  les enseignements  du premier  cycle et du second  cycle,
-
-- dispensant,  uniquement,  l'enseignemenr  du pre-
-
--; $"rî'lèges
-
-,des hautes  études islamiques  dispen_ iffi:""",î;:lsnements du premier a,r  r""Ër'J-"r"rJ";
-
-.--  l'Institut national ";;;;
-
-##### Anr. 10.
-L,enseignement  secondaire  est mixte lorsque  le nombre  d'éIèves  de chaque  ,";;-;;"i;,rn r*, pour justifier
-
-##### Anr. lt.
-'La construction,  I,équipement,  I,entretien  des bâtiments  scolaires  er,des.I"c";";,.=;i"ii..o".r.t, Ia rémuné. ration  du personnel  sont  à là charge  J"-iBtut  ou des collec_ tivités  publiques.
-
-I'ouverture  d,établisse: ments  spéciaux  de garçons  et de fiIles.
-
-### TITRE  III
+### TITRE III
 
 #### Les élèves.
 
-##### Anr. 12.
-NuI ne peut .ï1rrT.  I:.  cours  de première  année  du premier  cycle  s'il n,a .été déclarà  ;;; à.. "o*orm d,entrée des établiss€ments  visés .à l,;;ù ;:i;;"". Des dispoçitions spéciales  peuvent  être  prises-e" "" q"i-"liîerne des éIèves  étrangers  ou venant  ae t,étranger.
-
-'admission
+##### ART. 12.
+Nul ne peut suivre les cours de première année du premier cycle s'il n'a été déclaré admis au concours d'entrée des établissements visés à l'article 9 ci-dessus. Des dispositions spéciales peuvent être prises en ce qui concerne l'admission des élèves étrangers ou venant de l'étranger.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 300
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+27 août 1969
 
-JOURNAL  OFFICIEL  DE I-À
-
-27 aaû;t 1969
-
-i
-
-\
-
-##### Anr,  13.
-'--.L'à5e  d'admission  en première  année du  premier cycle est ûxé  a treizJ  àns.  Des di-penses  d'âge  peuvent être accordées aux enfants tâgé' d" dix ans au moins et de seize ans ;;  ;l;; au'31 décembre  de I'année  en cours'
+##### ART. 13.
+L'âge d'admission en première année du premier cycle est fixé à treize ans. Des dispenses d'âge peuvent être accordées aux enfants âgés de dix ans au moins et de seize ans au plus au 31 décembre de l'année en cours.
 
 ### TITRE IV
 
 #### L'enseignement.
 
-##### Anr.  14.
-Dans les établissements  secondaires' il  est  donné un'enseignement  en ù;;" française  et un enseignement  en lan-gu_-" ;.uU""' Ces deux enieignements  sont,obligatoires  pour tous i*  eilt"t i"rcrltr.  Oe, àisp"ositions  spéciales  pourront  être  prises en ce qui concerne les élèves étrangers'
+##### ART. 14.
+Dans les établissements secondaires, il est donné un enseignement en langue française et un enseignement en langue arabe. Ces deux enseignements sont obligatoires pour tous les élèves inscrits. Des dispositions spéciales pourront être prises en ce qui concerne les élèves étrangers.
 
-- A l'issue du premier  cycle' les élèves sont orientés  en fonction de leurs aptitudes et dirigés:
+##### ART. 15.
+Les études du premier cycle sont sanctionnées par le brevet d'études du premier cycle (B.E.P.C.).
+A l'issue du premier cycle, les élèves sont orientés en fonction de leurs aptitudes et dirigés :
+— soit vers le second cycle secondaire ;
+— soit vers le second cycle technique ;
+— soit vers les écoles professionnelles spécialisées.
 
-##### Anr.  15.
-Les études du premier cycle-sont  sanctionnées  par f" ù-tàu"t  d'études  du premier  cycle  (B'E'P'C')' -
+##### ART. 16.
+Les études du second cycle secondaire sont sanctionnées par le baccalauréat.
 
-- toit  vers le second  cycle  secondaire;
-
--soif vers les écoles professionnelles  spécialisées'
-
--soit vers là second  cycle  technique;
-
-##### Anr. 16.
-Les études du second  cycle  secondaire sont sanctionnées  Par  Ie baccalauréat'
-
-##### Anr. 17.
-Un redoublement  peut être  autorisé  dans chaque cyçle. Toutefois,  dçs dJrogations  pourront être  prises' en faveur des élèves a"* "turrtt-i"Ëi"ales' par le ministre  de I'Education nationale.
-
--état  physique  ou mental incompatible  avec le travail scolaire  ;
-
-en cours  de scolarité'  être  exclus définitiLes élèves  Peuvent' vement  par décision  *i"i'te'i"ltê pour I'un des motifs suivants  :
-
-- l'établissement. -  t -"orrroortement compromettant  le bon fonctionnement  de
+##### ART. 17.
+Un redoublement peut être autorisé dans chaque cycle. Toutefois, des dérogations pourront être prises, en faveur des élèves des classes terminales, par le ministre de l'Education nationale.
+Les élèves peuvent, en cours de scolarité, être exclus définitivement par décision ministérielle pour l'un des motifs suivants :
+— état physique ou mental incompatible avec le travail scolaire ;
+— comportement compromettant le bon fonctionnement de l'établissement.
 
 ### TITRE V
 
-#### Le Personnel
+#### Le personnel.
 
-##### Anr.  18.
-Chaque établissement  d'enseignement  secondaire est dirigé  par un provis"ur ou un directeur  auquel est adjoint ; ;;;"";i adrninisl;atif  et enseignant  en nombre suffisant pour que l'enseigneme"ï't"it  dispensé  dans les meilleures  conditions,
+##### ART. 18.
+Chaque établissement d'enseignement secondaire est dirigé par un proviseur ou un directeur auquel est adjoint un personnel administratif et enseignant en nombre suffisant pour que l'enseignement soit dispensé dans les meilleures conditions.
 
-##### Anr.  19. _
-Un Conseil  national  de I'F,d.ucation  créé  par décret "rt "îï..tfte par le ministre  de l'Education  nationale  pour toutes questions  d'intérêt "";i;;i *"""Àu"t  I'enseignement  du second degré.
+##### ART. 19.
+Un Conseil national de l'Education créé par décret est consulté par le ministre de l'Education nationale pour toutes questions d'intérêt national concernant l'enseignement du second degré.
 
 ### TITRE VI
 
-#### Dispositions  linales.
+#### Dispositions finales.
 
-##### Anr.  20.
-Sont abrogées  toutes disposrtions  antérieures  conraires  à la présent" ;i?;-;"t"*ment-la  loi n' 65'026 du 30  jan' vier  1965  portant "ô;it;;; à"  ttttt"ignement  du second degré.
+##### ART. 20.
+Sont abrogées toutes dispositions antérieures contraires à la présente loi et notamment la loi n° 65.026 du 30 janvier 1965 portant organisation de l'enseignement du second degré.
 
-Faii à Nouakchott,  le 26 juillet  1969'
+Fait à Nouakchott, le 26 juillet 1969.
 
-## LOI n'  69.270 du  Le" aoùt  1969 portant interdiction  des  jeux de lnsard  desLinés à  procurer  un  gain'
+Moktar ould DADDAH.
 
-L'Assemblée nationale a délibéré et adopté;
+## LOI n° 69.270 du 1er août 1969 portant interdiction des jeux de hasard destinés à procurer un gain.
 
-Anrrcrn  pREMTER; -Est interdite la  pratique  a."t jt* ^1i hasard destinés à  procurer  un gain à liexception de c-eux  qut ,"r"iÀ, p."tiqués  ians des établissements  autorisés  dans  les conditions lixées  par voie réglementarre'
+L'Assemblée nationale a délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
 
-Le Président de la République  promulgue  la loi dopt la teneur  surt:
+ARTICLE PREMIER. — Est interdite la pratique des jeux de hasard destinés à procurer un gain à l'exception de ceux qui seraient pratiqués dans des établissements autorisés dans les conditions fixées par voie réglementaire.
 
-- Anr, 2. -Toute  personne surprise  en,train'de  prafiquer les j";à; lu.ard  destinés à procurer un gain' dans un local privé' ou public, ou sur ta voie publique'-  sera  punie d'un emprisonnement de deux mois ut'' *àitt'  ét  de six mois au plus' et d'une amende de 36000 a ZOOOOO ft"ncs'  Ceux qui-auront toléré  en leur domicile,  organisé "" rà"àtitJra  pratique de ces  jeux de hasard seront  Punis  de la même  Peine'
+ART. 2. — Toute personne surprise en train de pratiquer les jeux de hasard destinés à procurer un gain, dans un local privé, ou public, ou sur la voie publique, sera punie d'un emprisonnement de deux mois au moins et de six mois au plus, et d'une amende de 36 000 à 200 000 francs. Ceux qui auront toléré en leur domicile, organisé ou favorisé la pratique de ces jeux de hasard seront punis de la même peine.
 
--Anr. 3. -La preuve des:infractions  visées  aux articles  pre' mier  et 2 de lap,e'"tti"  loi  se fera  par.tous  les moyens  de droit prévus au titre U at' Coà" de prôcédure  pénale'  Les officiers de police  judiciaire  pourront  à tout moment  et en tout lieu constater lesdite, i,,ttu"tio"'  en vertu d'un mandat  délivré par' le jîeî  i;i".t""tion  ou le procureur  de la République'
+ART. 3. — La preuve des infractions visées aux articles premier et 2 de la présente loi se fera par tous les moyens de droit prévus au titre II du Code de procédure pénale. Les officiers de police judiciaire pourront à tout moment et en tout lieu constater lesdites infractions en vertu d'un mandat délivré par le juge d'instruction ou le procureur de la République.
 
-. ARr. 4. -Sont  abrogées toutes  dispositions  contraires- à  la présente loi'
+ART. 4. — Sont abrogées toutes dispositions contraires à la présente loi.
 
-- Anr- 5. -La présente loi sera exécutée  comme loi de l'Etat'
+ART. 5. — La présente loi sera exécutée comme loi de l'Etat.
 
-Fait à Nouakchott,  le l"' aoùt 1969'
+Fait à Nouakchott, le 1er août 1969.
 
-Moktar ould DPPen'
+Moktar ould DADDAH.
 
-## LOI n" 69.271 du ln' aottt  1969 modifiant l'article  19-6"  du Code de Procédure  Pénale'
+## LOI n° 69.271 du 1er août 1969 modifiant l'article 19-6° du Code de procédure pénale.
 
-L'Assemblée  nationale  a détibéré et adopté ;
+L'Assemblée nationale a délibéré et adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :
 
-IæPrésidentdelaRépubliquepromulguelaloidontla teneur suit:
+ARTICLE PREMIER. — L'article 19-6° du Code de procédure pénale, institué par la loi n° 61.141 du 12 juillet 1961, et révisé par la loi n° 67.170 du 18 juillet 1967, est modifié ainsi qu'il suit :
 
-<  Art. |9._  ont la qualité d,officier  dc  police judiciaire:  i
+« Art. 19. — Ont la qualité d'officier de police judiciaire :
+» — 6° L'inspecteur de la garde nationale, et les officiers de la garde nationale sous réserve, pour ces derniers, de recevoir l'agrément du ministre de la Justice. »
+— Le reste sans changement.
 
-, Anrrcrr  PREMTER. -L'article  19-6' du Code de  procédure pénale,  institué  par la f"i ":--ài'f+f du 12 iuillet  1961' et révisé "r"ïiî't"ïî"Zi.no a" ri-i"itrr"t  re67' est *ôaine  ainsi qu'il suit:
+Fait à Nouakchott, le 1er août 1969.
 
-, -6' I-'inspecteur  de la  garde nationale' et les tl]:Ï: a" tu guta" nat]onale  sous réserve'  pour ces derniers'  de recevorr iugteit""t  du ministre de la Justice'  >
+Moktar ould DADDAH.
 
--Le reste sans changement'
+# II. — DECRETS, ARRETES, DECISIONS, CIRCULAIRES.
 
-Fait à Nouakchott,  le 1"" août  1969'
+Présidence de la République :
 
-Moktar ould DnPPln
+Actes réglementaires :
 
-# II,  __  DECRETS'  ARRETES'  DECISIONS' CIRCULAIRES.
-
-Présidence  de la RéPublique  :
-
-Actes réglementaires  :
-
-DECRET n" 69.279 du 6 aoîtt  1969 portant création  d'un Comité "-âlàrrcntation de la politique financière'
-
-t
-
-Moktar  ould  Daooen'
+DECRET n° 69.279 du 6 août 1969 portant création d'un Comité d'orientation de la politique financière.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-27 aoùt 1969
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+301
 
-J OURNAL.  OIjl.'lC{ ËL D E,  LA  r{E P UtsLrQUh,,  l SLAÀ4  lQ U E Dg NIA U ti. t TAN t I:
+ARTICLE PREMIER. — Il est créé un Comité d'orientation de la politique financière présidé par le Président de la République et composé des membres suivants :
+— Le secrétaire permanent aux Affaires économiques et sociales du Bureau politique national du Parti du Peuple mauritanien ;
+— Le ministre chargé de la Planification ;
+— Le ministre des Finances.
 
-Anrrclp  pREMTER. ,-  Il  est créé  un Cornité  d'orientation,  de la politique financière  présidé  par.le Président de^ Ia République et cornposé des membres suivants:
+ART. 2. — Le secrétariat du Comité est assuré par le conseiller économique et financier du Président de la République assisté du directeur du plan et du directeur des finances.
 
--Le secrétaire  permanent  aux Affaires  économiques et sociaIes du Bureau  politique  national du Parti du Peuple mauri-
+ART. 3. — Le Comité examine le projet de budget, étudie et propose une répartition des masses budgétaires conforme aux options économiques de la nation préalablement à tout examen dudit projet par le Conseil des ministres.
+Il étudie les réformes fiscales qui lui paraissent les mieux adaptées à la politique économique générale.
 
-- Le ministre chargé de la
+ART. 4. — Le Comité se réunit sur convocation du Président de la République.
 
-- Anr. 2. -Le secrétariat,du Comité est aesuré par le conseil-
+ART. 5. — Le ministre de la Planification et du Développement rural et le ministre des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
 
---Le ministre des Finances.
+###### ACTES DIVERS :
 
-- ler économique et financier du Président de la République assisté du directeur du plan et du directeur des flnances.
+DECRET n° 69.295 du 7 août 1969 portant nomination d'un chef du service des études et de la législation par intérim.
 
-- Anr. 3. -Le Cornité exaririné le projet de budget,  étudie  et propose  une répartition des masses  budgétaires conforme aux options économiques de la nation préalablement à tout examen dudit  projet par le Conseil des ministres.
+ARTICLE PREMIER. — M. de Rivaz Jean, conseiller à la Cour suprême, est chargé de l'intérim du service des études et de la législation pendant le congé administratif de M. Maroille Joseph, à compter du 15 août 1969.
 
-- Il  étudie les réforrhes'fiscales qui lui paraissent  les mieux adaptées à la politique économique générale.
+ART. 2. — Le secrétaire général de la Présidence de la République est chargé de l'exécution du présent décret.
 
-- Anr, 4. * Le Comité se réunit sur convocation  du Président de Ia République.
+###### Secrétariat général à l'Information.
 
-- Anr. 5. -Le ministre de la Planifrcation  et du Développement rural et le ministre  des Finances sont chargés, chacun en ce qui le concerne,  de I'exécution du présent décret.
+###### ACTES REGLEMENTAIRES :
 
-###### AC;TES DIVERS:  .
+DECRET n° 69.276 du 1er août 1969 érigeant en direction le service de l'Information.
 
-DECRET n" 69.295  du 7 août 1969 portant nomination d'un chef du service des études et de la législation par intérim.
+ARTICLE PREMIER. — Le service de l'Information du secrétariat général à l'Information est érigé en direction.
 
-Anrrcrr rREMTER. -M. de Rivgz Jean, conseiller à la Cour suprême,  est chargé de I'intérim du service des études  et de la législation pendant le congé administratif 'de  M. Marollle Joseph, à cornpter du 15 août 1969.
+ART. 2. — Le secrétaire général de la Présidence de la République est chargé de l'exécution du présent décret qui prendra effet pour compter du 1er mai 1969.
 
-- Anr. 2. -Le secrétaire  général  de la Présidence de la République est chargé de l'exécution du présent  décret.
+###### Ministère des Affaires étrangères
 
-###### Secrétariat général  à l'Information.
+###### ACTES REGLEMENTAIRES :
 
-###### ACTES REÛLEMENTAIRES:
+DECRET n° 69.268 du 30 juillet 1969 modifiant le décret n° 68.129 du 3 avril 1968 fixant les attributions du ministre des Affaires étrangères et l'organisation de l'Administration centrale du ministère des Affaires étrangères.
 
-DECRET n" 69.276  du l.' août 1969 érigeant en direction  le ser' pice  de l'Information.
+ARTICLE PREMIER. — L'article 2 du décret n° 68.129 du 3 avril 1968, fixant les attributions du ministre et l'organisation de l'Administration centrale du ministère des Affaires étrangères est abrogé et remplacé par les dispositions suivantes :
 
-Anrrcm  pREMTER. -Le service  de l'Information du secrétariat général  à l'Information est érigé  en direction.
+ART. 2. — L'Administration centrale du ministère des Affaires étrangères comprend :
+— Le secrétariat général ;
+— Le chargé de mission ;
+— Le service du Protocole ;
+— La division Afrique-Moyen-Orient ;
+— La division Europe-Asie ;
+— La division Amérique-O.N.U. ;
+— La division de la Coopération internationale ;
+— La division des Affaires administratives et de chancelleries ;
+— La division de la Documentation et de la Presse.
 
-- Anr. 2. -Le secrétaire général  de la Présidence de la Répu$lique  est chargé de l'exécution du présent  décret  qui prendra effet pour compter du lrer mai 1969.
+###### ACTES DIVERS :
 
-###### Ministère  des Allaires  étrangères
+DECRET n° 69.285 du 7 août 1969 portant nomination d'un Consul général à Bamako.
 
-###### ACTES RECLEMENTAIRES:
+ARTICLE PREMIER. — M. Moulaye el Hassen, instituteur adjoint stagiaire de 1er échelon (ind. 400) précédemment chef de protocole au ministère des Affaires étrangères est nommé temporairement en qualité de faisant fonction de Consul général de la République islamique de Mauritanie à Bamako (République du Mali).
 
-- DECRET n" 69.268 du 30 juiltet 1969 modifiant le décret n" 68.129 du 3 avril'1968  fixant  les attributions du ministre des Affaires étrangères et I'organisation de l'Administration  centrale du mini3tère des Affaires  étrangères
+ART. 2. — Dans cette position et à compter de la date de sa prise de service, M. Moulaye el Hassen percevra la solde correspondant à l'indice I. 338 ainsi que les indemnités afférentes à ses fonctions prévues par le décret n° 64.024 du 22 janvier 1964.
 
-ARrrcLE  pREMTER. -L'article  2 drt décret  nq 68.129  du 3 avnl 1968, fixant les attributions  du ministre et l'organisation  de l'Ad.ministration  .centrale du ministère  .des  Affaires étrangères eSt abrogé el rernflacé pat les dispositions suivantes:
+ART. 3. — Le ministre des Finances, le ministre des Affaires étrangères et le ministre de l'Enseignement technique de la Formation des cadres et de la Fonction publique sont chargés chacun en ce qui le concerne, de l'exécution du présent décret.
 
-- Aru. 2. -L'Administration centrale  du ministère des Affaires ét1angères comp.rend
+###### Ministère de la Défense nationale :
 
--Le secrétariat général;
+###### ACTES REGLEMENTAIRES :
 
--Le service  du Protocole;
+DECRET n° 69.264 du 24 juillet 1969 modifiant le décret n° 62.207 du 10 novembre 1962 fixant les conditions d'attribution des logements, de l'ameublement aux personnels militaires de l'Armée et de la Gendarmerie nationale.
 
--Le chargé  de mission;
+ARTICLE PREMIER. — Le décret n° 62.207 du 10 novembre 1962 fixant les conditions d'attribution du logement et de l'ameublement aux personnels militaires de l'Armée et de la Gendarmerie nationale est modifié ainsi qu'il suit :
 
--La division  Afrique-Moyen-Orient;
+ART. 2. — Dernière ligne, après : aux personnels militaires de la Gendarmerie nationale, ajouter :
+« ... pour lesquels il est assorti de la gratuité d'eau sous forme de prestations mensuelles forfaitaires dont le taux sera fixé par le ministre de la Défense nationale. »
 
--La division  Amérique-O.N.U.;
-
--La division  Europe-Asie;
-
--La division de la Cogpération internationale;
-
--La division  des Affaires administratives  et de chancelleries :
-
--La division  de la Documentation  et de la Presse.
-
-,0
-
-###### ACTES  DIVERS
-
-DECRET n' 69.285  du 7 août 1969 portant  nomination d'un Consul général  à Barhako.
-
-Anrrcln  eREMIER. -M. Moulaye el Hassen, instituteur adjoint stagiaire  de 1o" échelon  (ind. 400) précédemment  chef de protocole au ministère des Affaires étrangères  est nommé temporairement  en qualité  de faisant  fonction de Consul général  de la Républigne islamique de Mauritanie  à Bamako (République du Mali). .l
-
-- Anr. 2. -Dans cette position  et à compter  de la date de sa prise  de service,  M. Moulaye el Hassen percevra la solde correspondant  à l'indice  I. 338 ainsi que les indemnités affé rentes à ses:fonctions  prévues  par Ie décret n" 64.024 du 22  janvier 1964.
-
-- Anr. 3. -Le ministre des Finances,  le ministre des Affaires étrangères et. le ministre de  l'Enseignement  technique  de la Formation  des cadres  et de la Fonction publique  sont chargés chacun en ce qui le concerne,  de I'exécution du présent décret.
-
-###### Ministère  de la Défense nationale  :
-
-.
-
-###### ACTES REOLEMENTAIRES:  r.
-
-- DECRET n" 69.264 du 24  iuillet  1969  wodiliant le décret n" 62.207 du l0 novembre 1962  fixant  les conditions d'attribution.  des logements,  de l'ameublement aux personnels militaires de llArmée et de la Gendarmerie  nationale.
-
-Anrrcle  pREMTER. -Le décret n" 62.207 du 10 novembrc 1962 fixant les conditions  d'attribution  du logement et de l'ameublement aux personnels militaires de l'Armée  et de la Gendar merie nationale est modifié ainsi qu'il suit :
-
-- Anr. 2. -Dernière ligne, après: aux personnels militaires de
-
-- la Gendarmerie nationale,  ajouter:
-
-( ... pour lesquels  il est assorti  de la gratuité d'eau sous forme de prestations  mensuelles  forfaitaires  dont le taux sera fixé  par le ministre de la Défense nationale.  >
-
-- ARr. 3. -Le ministre  de la Défense nationale est chargé de I'exécution du présent  décret.
+ART. 3. — Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 302
-
-JOURNAL  OFFICIEL DE LA REPUBLIQUE  ISLAMIQUE  DE MAURITANIE
-
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 23 juillet 1969
 
-###### ACTES DTVERS:
+###### ACTES DIVERS :
 
-DECISION n" 757 du 8 août 1969 arrêtant  la liste des officiers de t'Armée nationale  autoriséi  à se présenter à l'examen du brevet de capitaine,  seçsion de septembre 1969.
+DECISION n° 757 du 8 août 1969 arrêtant la liste des officiers de l'Armée nationale autorisés à se présenter à l'examen du brevet de capitaine, session de septembre 1969.
 
-Anrrcrs  uNreuE. -Sont admis à se présenter à l'examen du brevet de capitaine, session septembre  1969, les officiers dont les noms suivent  :
+ARTICLE UNIQUE. — Sont admis à se présenter à l'examen du brevet de capitaine, session septembre 1969, les officiers dont les noms suivent :
 
-###### Armée nationale:
+###### Armée nationale :
 
-- Lieutenant Souedatt  ould Ouedat;
+— Lieutenant Souedatt ould Ouedat ;
+— Lieutenant Thiam el Hadj ;
+— Lieutenant Niang Ibra Demba ;
+— Lieutenant Moulaye ould Boukreiss ;
+— Lieutenant Brahim ould Alioune ;
+— Lieutenant Bou ould Maloum ;
+— Lieutenant Yall Abdoulaye ;
+— Lieutenant Mohamed Khouma ould Haidalla ;
+— Lieutenant Traore Amadou ;
+— Lieutenant Anne Amadou Babaly.
 
--Lieutenant Niang  Ibra Demba;
+###### Gendarmerie nationale :
 
--Lieutenant  Thiam el Hadj;
+— Lieutenant Sao Samba.
 
--Lieutenant Moulaye ould Boukreiss;
+ART. 2. — Le chef d'Etat-major national et le chef de corps de la Gendarmerie nationale sont chargés chacun en ce qui le concerne, de l'exécution de la présente décision.
 
--Lieutenant Bou ould Maloum;
+ARRETE D'ADDITIF n° 0529 du 11 août 1969 à l'article premier de l'arrêté n° 321 du 16 mai 1969 portant admission dans la Gendarmerie nationale d'un officier de réserve.
 
--Lieutenant Brahim ould Alioune;
+ARTICLE PREMIER. — La liste des officiers de réserve déclarés admis à suivre les cours d'une école d'application de Gendarmerie par l'article premier de l'arrêté 321 du 16 mai 1969 est complétée comme suit : après le sous-lieutenant Ney ould Abdel Malek, ajouter : sous-lieutenant Mohamed Lémine ould Zein.
 
--Lieutenant Yall Abdoulaye;
+ART. 2. — Le chef d'Etat-major national et le chef de corps de la Gendarmerie nationale sont chargés, chacun en ce qui le concerne de l'exécution du présent additif.
 
--Lieutenant Traore Amadou;
+###### Ministère du Commerce et des Transports :
 
--Lieutenant  Mohamed Khouma  ould Haidalla;
+###### ACTES REGLEMENTAIRES :
 
---Lieutenant  Anne Amadou  Babaly.
+ARRETE n° 0501 du 25 juillet 1969 fixant la composition de la commission de retrait des permis de conduire.
 
-###### Gendarmerie nationale  :
+ARTICLE PREMIER. — La commission technique de retrait de permis de conduire prévue au chapitre II de l'annexe XIV de l'arrêté n° 6.138 du 24 juillet 1956, portant Code de la route est composée comme suit :
+— Le directeur des Transports ou son adjoint : président ;
+— Le directeur des Services techniques ou son adjoint ;
+— Le procureur de la République ou son substitut ;
+— Le directeur de la Sûreté nationale ou un commissaire de police ;
+— Le chef de corps de la Gendarmerie nationale ou son adjoint ;
+— Un médecin désigné par le ministre de la Santé ;
+— Le secrétaire général du syndicat des transporteurs ;
+— Le secrétaire général du syndicat des chauffeurs.
 
--Lieutenant Sao Samba.
+ART. 2. — La commission se réunira le premier jeudi de chaque mois à 9 heures à la direction des Transports.
 
-Anr. 2. -Le chef d'Etat-major  national et le chef de corps de.la Gendarmerie nationale sont chargés chacun en ce qui le concerne, de I'exécution  de la présente déèision.
+ART. 3. — Le directeur des Transports est chargé de l'exécution du présent arrêté qui, abrogeant les dispositions des arrêtés n° 10.457 du 18 octobre 1963 et 10.594 du 13 novembre 1964.
 
-ARRETE D'ADDITIF n' 0529 du ll  août 1969 à l'article premier de l'arrêté n' 321 du 16 mai 1969 portant admission  dans Ia Gendarmerie  natianale d'un officier de réserve,
+ARRETE n° 0513 du 30 juillet 1969 portant ouverture à la circulation aérienne publique de l'aérodrome de Chinguetti.
 
-AnrrcrB  pREMTER. -La liste des officiers de réserve déclarés admis à suivre les cours d'une école d'application  de Gendarmerie par l'article premier de I'arrêté 321 du 16 mai 1969 est complétée  comme suit : après le souslieutenant  Ney ould Abdel Malek,  ajouter:  sous-lieutenant Mohamed  Lémine ould Zein.
+ARTICLE PREMIER. — L'aérodrome de Chinguetti dont les coordinations sont :
+20°29 N
+12°23 W,
+est ouvert à la circulation aérienne publique.
 
-- Anr. 2. -Le chef d'Etat-major  national et le chef de corps de Ia Gendarmerie nationale  sont chargés, chacun en ce qui le concerne de I'exécution du présent additif.
+ART. 2. — Les bureaux d'informations aéronautiques (B.I.A.) des aérodromes principaux de la République islamique de Mauritanie sont chargés de renseigner les exploitants et les utilisateurs éventuels des caractéristiques et des conditions d'utilisation de cet aérodrome.
+Toutes les informations concernant les modifications aux caractéristiques et aux conditions d'utilisation de cet aérodrome seront diffusées par le Bureau Notam international de Dakar sur demande des responsables locaux.
 
-###### Ministère du Commerce  et des Transports  :
+ART. 3. — Le directeur des Transports (division de l'Aéronautique civile) est chargé de l'exécution du présent arrêté.
 
-###### ACTES RECLEMENTAIRES:
+###### PISTE D'AVION DE CHINGUETTI
 
-ARRETE  n" 0501 du 25  iuillet  1969  lixant  la composition  de la commisison  de retrait des permis de conduire
+Position de l'aérodrome : 6 km nord-est de Chinguetti.
 
-Anrrcrr rREMTER. -La commission  technique  de retrait de permis  de conduire prévue  au chapitre  II  de l'annexe  XIV de l'arrêté n'  6.138 du 24 juillet 1956, portant Code de la route est composée  comme suit:
+Caractéristiques techniques :
+— Orientation : 025/205° magnétique ;
+— Longueur : 1 260 mètres ;
+— Largeur : 30 mètres sans bande de sécurité ;
+— Balisage diurne : constitué par des marques blanches de 8 mètres de long et 1 mètre de large, espacées 183 mètres de chaque côté de la piste et des cornières d'extrémités de piste de mêmes dimensions.
+— Aire de stationnement des avions :
+Longueur : 80 mètres.
+Largeur : 51 mètres.
+— Bretelle de raccordement : perpendiculaire à la piste :
+Longueur : 60 mètres.
+Largeur : 20 mètres.
+— Nature de la piste : latérite compactée.
+— Balisage d'approche : dans les deux sens d'atterrissage marques blanches matérialisant l'axe de la piste.
+— Manche à air : située 510 m de l'entrée de piste 025 à 70 mètres du bord de piste ouest.
+— Dégagements : très satisfaisants. A 300 mètres à est-nord-est de l'extrémité de piste 025°. Dénivellation d'environ 12 mètres au-dessus de la piste.
+— Utilisation : accessible aux aéronefs du type DC 3.
 
-- Le directeur des Transports ou son adjoint :  président;
-
--Le procureur  de la République ou son substitut;
-
--Le directeur  des Services techniques  ou son adjoint;
-
---Le directeur de la Sûreté  nationale ou un commissaire de police;
-
--Le chef de corps de la Gendarmerie  nationale  ou son adjoint;
-
-- Un médecin désigné  par le ministre  de la Santé ;
-
---Le secrétaire  général  du syndicat  des chauffeurs.
-
--Le secrétaire général  du syndicat  des transporteurs;
-
-Anr. 2. -L,a com.frrission  se réunira le premier jeudi de chaque mois à t  heures à la direction  des Tànsports.
-
-- Anr. 3. -Le directeur des Transports est chargé de l'exécution du présent arrêté qui, abrogeant les dispositions  des arrêtes n" 10.457  du 18 octobre 1963 et 10.594 du 13 novembre 1964.
-
-ARRETE n" 0513 du 30 juillet 1969 portant ouverture  à la circ* lation al,rienne  publique  de l'aérodrome  de Chinguetti.
-
-Anrrcln  IREMTER. -L'aérodrome de Chinguetti  dont les coordinations sont :
-
-20.29  N
-
-12"23  W,
-
-est ouvert  à la circulation  aérienne publique.
-
-- Anr. 2. -Les bureaux d'informations  aéronautiques (B.I.A.) des aérodromes  principaux  de la République islamique de Mauritanie sont chargés de renseigner  les exploitants  et les utilisateurs  éventuels des caractéristiques  et des conditions d,utilisation de cet aérodrome.
-
-Toutes les informations  concernant  les modifications  aux caractéristiques et aux conditions d'utilisation  de cet aérodrome seront  diffusées par le Bureau  Notam interriational  de Dakar sur demande des responsables  locaux.
-
-Anr. 3. -Le directeur des Transports  (division  de l,Aéronautique civile) est chargé de I'exécution du présent arrêté.
-
-###### PISTE  D'AVION DE CHINGUETTI
-
-Position  de l'aérodrome:  6 km nord-est de Chinguetti.
-
-C aract éristiques t echniques  :
-
--Orientation  : 025/205" magnétique ;
-
--Largeur:  30 mètres sans bande de sécurité;
-
--Longueur  : 1260 mètres  ;
-
-^  -Baliyge diurne : constitué  par des marçlues blanches  de 8_  mètres de long et I  mètre  de large, espacées lg3 mètres de qh.qr_" côté  .de  la piste et des cornières d'extrémités  de piste de mêmes  dimensions.
-
--Aire de stationnement  des avions:
-
--Nature de la piste  : latérite  compactée.
-
--Balisage d'approche: dans les deux sens d'atterrissage marques  blanches matérialisant l'axe de la piste.
-
--Manche  à air : située 510 m de l'entrée de piste 025 à 70 mètres du bord de plste ouest.
-
--Utilisation:  accessible aux, aéronefs du type DC 3.
-
--Dégagements: très satisfaisants. A 300 mètres à est-nordest de l'extrémité  de piste 025". Dénivellation d'environ 12 mètres au-dessus de la piste.
-
-Longueur:  80 mètres.
-
-Largeur: 51 mètres.
-
-- Bretelle  de raccordement  : perpendiculaire  à Ia piste :
-
-Longueur:  60 mètres.
-
-Largeur: 20 mètres.
-
-DECRET n' 69.280 du 6 août 1969 modifiant le décret  n" 65.M8 du 25  féwier  1965 rendant exécutoires les décisions prises par le Comité de l'Union douanière  des Etats de l'Afrique de I'ouest.
+DECRET n° 69.280 du 6 août 1969 modifiant le décret n° 65.048 du 25 février 1965 rendant exécutoires les décisions prises par le Comité de l'Union douanière des Etats de l'Afrique de l'ouest.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-27 aoùt 1969
-
-JOURNAL OFFICIEL DE LA REPUBLIQUE  ISLAMIQUE DE MAURITANIE
-
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 303
 
-Anrrcts eREMTER. -L'article premier du décret  n' 65.048  du 25 février  1965 rendant  exécutoires les décisions prises par le Comité de l'Union douanière  des Etats de lâfrique  de l'ouest est modifié comme  suit:
+ARTICLE PREMIER. — L'article premier du décret n° 65.048 du 25 février 1965 rendant exécutoires les décisions prises par le Comité de l'Union douanière des Etats de l'Afrique de l'ouest est modifié comme suit :
+« Les décisions 17 à 25/UD/64 prises le 3 décembre 1964 à Cotonou par le Comité de l'Union douanière des Etats de l'Afrique de l'ouest sont rendues exécutoires. Toutefois, en ce qui concerne la décision n° 17/UD/64 du 3 décembre 1964, la restriction ou la prohibition pourra frapper toutes marchandises dont l'importation ou l'exportation porte préjudice aux intérêts de l'économie mauritanienne. »
 
-< Les décisions 17 à 25/UD/64 prises  le 3 décembre 1964 à Cotonou par lç Cornité de l'Union douanière  , des Etats de l'Afrique de I'ouest sont rendues  exécutoires. Toutefois, en ce qui concerne la décision n" l7/UD/64 du 3 décembie 1964, la restriction  ou la prohibition  pourra frapper toutes marchandises dont l'importation ou l'exportation porte préjudice aux intérêts de I'économie mauritanienne.  ))
+ART. 2. — Le ministre du Commerce et des Transports et le ministre des Finances sont chargés de l'exécution du présent décret.
 
-- Anr. 2. -Le ministre  du Commerce  et des Transports  et le ministre des Finances sont chargés  de I'exécution du présent décret.
+###### Ministère de l'Equipement :
 
-###### iÂinistère  de l'Equipernent  :
+###### ACTES REGLEMENTAIRES :
 
-###### ACTES REOLEMENTAIRES:
+DECRET n° 69.284 du 6 août 1969 ratifiant le contrat de financement passé entre le gouvernement de la Mauritanie d'une part, et la Communauté économique européenne et la Banque européenne d'investissement d'autre part.
 
-DECRET n" 69.284 du 6 aoîtt  1969 ratifiant  le contrat  de  financement p'assé  entre le gouvernemènt  de la Mauritanie d'une ' part,  et la Communauté  économique européenne et la Banque européenne  d'investissement  d'autre  part.
+ARTICLE PREMIER. — Est ratifié le contrat de financement et ses annexes signés à Luxembourg le 26 juin 1969 par le représentant du gouvernement de la Mauritanie d'une part, et les représentants de la Communauté économique européenne et de la Banque européenne d'investissement d'autre part, relatifs au financement de l'extension du wharf de Nouakchott.
 
-Anrrcrn  pREMTER. -Est ratifié le contrat de financement  et ses annexes  signés  à Luxembourg  le 26 juin 1969 par le représentant  du gouvernement  de la Mauritanie d'une part,  et les représentants de la Communauté économique européenne et de la Banque  européenne d'investissement  d'autre part, relatifs au financement  de I'extension  du wharf de Nouakchott.
+###### ACTES DIVERS :
 
-###### ACTES DIVERS:
+DECRET n° 69.287 du 7 août 1969 portant nomination d'un chef de service.
 
-DECRET n" 69.287  du 7 août 1969 portant nomination d'un chef de service.
+ARTICLE PREMIER. — M. Daffa Bakary, ingénieur de 3e classe, 5e échelon (ind. 740), est nommé chef du service de l'entretien et du fonctionnement au ministère de l'Equipement pour compter du 4 juillet 1969.
 
-Antrcre  rREMTER. -M. Daffa Bakary, ingénieur  de 3' classe, 5' échelon (ind. 740), est nommé  chef du service de I'entretien et du fonctionnement  au ministère de l'Equipement  pour comp ter du 4 juillet 1969.
+ART. 2. — Le ministre des Finances, le ministre de l'Equipement et le ministre de l'Enseignement technique sont chargés, chacun en ce qui le concerne de l'exécution du présent décret.
 
-Anr. 2. -Le ministre des Finances,  Ie ministre de l'Equipement et le ministre de l'Enseignement  technique  sont chargés, chacun en ce qui le concerne de l'exécution du présent  décret.
+Ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique :
 
-v-
+###### ACTES REGLEMENTAIRES :
 
-Minislère de l'Enseignement  technique,  dc la Formation dee cadres et de la Fonction publique: :
+ARRETE n° 328 du 26 mai 1969 portant ouverture d'un concours pour le recrutement de trois journalistes.
 
-###### ACTES RECLEMENTAIRES:
+ARTICLE PREMIER. — Un concours pour l'accès au cycle d'études pour la formation des journalistes de l'école supérieure de journalisme de Lille et du centre de formation de journalisme de Paris aura lieu les 28 et 29 mai 1969.
 
-ARR"ETE n" 328 du 26 mai 1969 portant  ouverture  d'un concours pou.r  Ie recrutement de trois  iournalistes.
+ART. 2. — Le nombre de places offertes est de trois (3).
 
-Anrrcm  piEMrER. -Un concours  pour I'accès au cycle  d'études pour la formation des journalistes , de l'école  supérieure de journalisme  de Lille et du centre de formation de  journalisme de Paris ailra lieu les 28 et 29 mai 1969.
+ART. 3. — Ce concours est ouvert exclusivement aux nationaux mauritaniens ayant le niveau équivalent à celui du baccalauréat.
 
-Anr. 2. -Le nombre de places offertes est de trois  (3).
+ART. 4. — Les dossiers des candidatures doivent comporter les pièces ci-après :
+— une demande manuscrite timbrée à 250 francs ;
+— un acte de naissance ou jugement supplétif ;
+— une extrait du casier judiciaire datant de moins de trois (3) mois,
+— une copie de diplôme ou une attestation de scolarité ;
+— un certificat de nationalité mauritanienne,
+— un certificat médical.
+Les dossiers doivent parvenir au ministère de l'Enseignement technique, de la Formation des Cadres et de la Fonction publique avant le 26 mai 1969 délai de rigueur.
 
-Durée
+ART. 5. — Les épreuves de concours se dérouleront comme suit :
 
---.t.--------=q-
+###### 1. Mercredi 28 mai 1969.
 
-Anr. 3. -Ce concours  est ouvert  exclusivement  aux nationaux mauritaniens  ayant le niveau équivalent à celui du baccalauréat.
-
-Anr. 4. -Les dossiers des candidatures  doivent comporter les pièces  ci-après :
-
-- une demande  manuscrite  timbrée à 250 francs ;
-
---une extrait du casier  judiciaire  datant  de moins de trois (3) mois, '-
-
--un acte de naissance  ou jugement supplétif ;
-
-- une copie de diplôme  ou une attestation de scolarité;
-
--un certificat  médical.
-
---  un certificat de nationalité mauritanienne,
-
-Les dossiers  do'ivent  parvenir au ministère de I'Enseignement technique, de la Formation des Cadres et de la Fonction  publique avant le 26 m'ai 1969 délai  de rigueur.
-
-Anr. 5. -Les épreuves de concours  se dérouleront comme suit:
-
-.
-
-###### 1. Mercredi 28 mai 7969.
-
-'
-
-'I
-
-Heurë
-
-Epieurte
-
-7h1/2à8h1/2  Dictée .
-
-t h à 10  h Exercice  de style
-
-10  h l/2 à 12ln l/2 Description
-
-15 h à 18 h Rédaction sûr dossier  ....
-
-t  h
-
-I  .h
-
-2 h
-
-3 h Coefficient
-
-I
-
-I
-
-2
-
-4
-
-###### 2: leudi 29 mai 1969.
-
-Epreuve Heure | Durée | Coeffinient
+Heure | Epreuve | Durée | Coefficient
 --- | --- | --- | ---
-7 h 1/2 à, t h | l/2 Questions d'actualité ... . | 2h | 4
-10 h à 12 h | Composition sur un sujet genéral... | 2h | 4
-14hà16h | Histoire .. | 2h | 2
-16 h l/2 à 18 h | 1/2 Géosraphie
+7 h 1/2 à 8 h 1/2 | Dictée | 1 h | 1
+9 h à 10 h | Exercice de style | 1 h | 1
+10 h 1/2 à 12 h 1/2 | Description | 2 h | 2
+15 h à 18 h | Rédaction sur dossier | 3 h | 4
 
-Anr. 6. -La commission  de surveillance  est composée ainsi qu'il suit  :
+###### 2. Jeudi 29 mai 1969.
 
-###### MM.:
+Heure | Epreuve | Durée | Coefficient
+--- | --- | --- | ---
+7 h 1/2 à 9 h 1/2 | Questions d'actualité | 2 h | 4
+10 h à 12 h | Composition sur un sujet général | 2 h | 4
+14 h à 16 h | Histoire | 2 h | 2
+16 h 1/2 à 18 h 1/2 | Géographie | 2 h | 2
 
--Marçais, directeur des études, représentant le ministère de l'Enseigne'ment  technique, de la Formation des cadres et de fa Fonction publique  ; ,
+ART. 6. — La commission de surveillance est composée ainsi qu'il suit :
 
--Khalihly ould Louly, chef des bourses et, examens,  membre ;
+###### MM. :
 
--Ebnou ould Ebnou Abden, directeur  de l'Information, membre.
+— Marçais, directeur des études, représentant le ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique ;
+— Khalihly ould Louly, chef des bourses et examens, membre ;
+— Ebnou ould Ebnou Abden, directeur de l'Information, membre.
 
-Anr. 7. --- Les candidats doivent  souscrire l'engagement de servir  l'Etat pendant au moins dix ans et de rembourser les dépenses r.ésultant de leur entretien  si, pour un motif autre qu'un cas de force majeure, ils ne respectaient  pas cet engagement.  Ils sont également tenus à ce remboursement  en cas de démission durant la scolarité ou d'exclusion de l'établissement pour des raisons autres que l'insuffisance des résultats ou I'inaptitude  physique
-
-''  --
+ART. 7. — Les candidats doivent souscrire l'engagement de servir l'Etat pendant au moins dix ans et de rembourser les dépenses résultant de leur entretien si, pour un motif autre qu'un cas de force majeure, ils ne respectaient pas cet engagement. Ils sont également tenus à ce remboursement en cas de démission durant la scolarité ou d'exclusion de l'établissement pour des raisons autres que l'insuffisance des résultats ou l'inaptitude physique.
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-3M
+304
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+27 août 1969
 
-JoURNAL oFFIcIEL  DE LA REPUBLIQUE  ISLAMIQUE DF, UAÛNTTRNTE
+ARRETE n° 464 du 22 juillet 1969 portant ouverture des concours d'entrée au cycle d'études « B » de l'école nationale d'administration pour l'année 1969.
 
-27 aoùt 1969
+###### I. — DES DISPOSITIONS GÉNÉRALES.
 
-t
+ARTICLE PREMIER. — Les concours directs et professionnels d'entrée au cycle d'études B de l'école nationale d'Administration, séries juridique et technique, sont ouverts pour l'année 1969 dans les conditions prévues aux dispositions générales du titre 3 du décret n° 68.271 du 2 septembre 1968 susvisé.
 
-)
+ART. 2. — Ces concours sont exclusivement ouverts aux nationaux mauritaniens. Ils auront lieu à l'E.N.A., à Nouakchott du 27 au 29 octobre 1969 inclus.
 
-:{.---;'''
+ART. 3. — Le nombre de places offertes par série et concours est de :
 
-ARRETE n" 464 du 22  iuillet  1969 portant  ouverture  des concours . d'entrée  au cycle d'études ,, B ,  de I'école nationale d'admi' n:istration  pour l'année  1969.
+###### Série juridique :
 
-###### I. -Dns DrsPosrrroNs  GÉNÉRALES.
+Quarante-cinq (45) places dont trente (30) pour le concours direct et quinze (15) pour le concours professionnel.
 
-Anrrclr IREMTER. -Les concours directs et professionnels d'entrée  au cycle d'études B de l'école  nationale d'Administration, séries  juridique et technique, sont ouverts pour l'année  1969 dans les conditions  prérrues aux dispositions  générales  du titre 3 du décret np 68.271  du 2 septembre 1968 susvisé.
+Série technique :
 
-- Anr. 2. -Ces concours sont exclusivement ouverts  aux nationaux mauritaniens.  Ils auront lieu à I'E.N.A.. à Nouakchott du 27 au 29 octobre 1969 inclus.
+Quatre (4) places dont deux (2) pour le concours direct et deux (2) pour le concours professionnel.
 
-- Anr. 3. -Le nombre  de places  offertes par série et concoui's est de:
+ART. 4. — A l'intention des candidats, seront ouvertes par série les sections suivantes :
+Série juridique : Administration générale, Comptabilité, Douanes, Impôts.
+Série technique : Postes et Télécommunications (service technique).
 
-###### Série juridique:
+ART. 5. — Au cas où le nombre de candidats ayant obtenu le total des points exigés pour être admis selon les dispositions de l'article 26 du décret 68.271 susvisé, est supérieur au nombre de places mises au concours, le jury établit une liste complémentaire.
+Les candidats figurant sur les listes complémentaires sont appelés dans l'ordre du classement à occuper les places qui deviendraient vacantes à la suite de démissions intervenues dans le mois suivant l'entrée à l'Ecole.
+Au cas où le nombre des candidats ayant obtenu le total des points exigés pour être admis selon les dispositions citées à l'alinéa précédent, serait inférieur au nombre de places mises à l'un des concours, les places non pourvues au titre de ce concours seront reportées sur l'autre dans la mesure où elles pourront être dévolues, dans l'ordre de classement, à des candidats figurant sur une liste complémentaire de report de places, établie par le jury.
 
-Quarante-cinq  (45) places  dont trente (30) pour le concours direct et quinze (15) pour le concours  professionnel.
+###### II. — LES DOSSIERS DE CANDIDATURES.
 
-Série  technique
+ART. 6. — Les dossiers de candidature constitués par les intéressés doivent parvenir à M. le Directeur de l'Ecole nationale d'Administration, boîte postale 252, à Nouakchott, avant le 30 septembre 1969 à 18 heures.
 
-Quatre  (4) places  dont deux (2) pour le concours  direct  et deux (2) pour le concours professionnel.
+ART. 7. — Pour les candidats n'ayant pas la qualité de fonctionnaire, ni celle d'agent non titulaire, ces dossiers doivent comporter les pièces suivantes :
+— Une demande d'inscription établie sur papier libre, datée et signée par le candidat, précisant son adresse et le choix de la section postulée. Cette demande doit être timbrée à 250 F CFA ;
+— Un extrait d'acte de naissance ou jugement supplétif en tenant lieu, transcrit sur le registre de l'état civil ;
+— Une copie certifiée conforme du B.E.P.C. ou d'un titre équivalent ;
+— Un certificat de nationalité mauritanienne ;
+— Un extrait de casier judiciaire bulletin n° 3 ayant moins de trois mois de date ;
+— Un certificat délivré par les autorités médicales agréées et attestant que le candidat est apte à un service actif et indemne ou définitivement guéri de toute affection cancéreuse, lépreuse, poliomyélitique ou tuberculeuse.
 
-- Anr. 4. -A l'intention  des candidats, seront  ouvertes par série les sections suivantes:
+ART. 8. — Pour les candidats ayant la qualité de fonctionnaire ou d'agent non titulaire, les dossiers doivent comporter les pièces suivantes :
+— Une demande d'inscription établie sur papier libre, datée et signée par le candidat précisant son adresse, le choix de la section postulée et son corps s'il a la qualité de fonctionnaire ou son emploi s'il a la qualité d'agent non titulaire. Cette demande doit faire l'objet d'une transmission favorable de la part du département d'origine du candidat ;
+— Une copie certifiée conforme du B.E.P.C. ou d'un titre équivalent au cas où l'intéressé serait candidat aux épreuves du concours direct.
 
-Série  iuridique:  Administration  générale,  Comptabilité, Douanes, Impôts.
+###### III. — DE L'ORGANISATION ET DE LA DISCIPLINE DES CONCOURS.
 
-Série  technique: Postes et Télécommunications  (sen'ice technique).
+ART. 9. — Les sujets des épreuves sont arrêtés par le président du jury et chacun d'eux est enfermé dans une enveloppe scellée. Ces enveloppes sont placées dans un pli cacheté à la cire, dont le président assure la garde.
 
-- Anr. 5. -Au cas oir le nombre  de candidats ayant  obtenu  le total des points exigés pour être.admis  selon les dispositions  de I'article  26 du décret  68.271 susvisé,  est supérieur au nombre de places  mises au concours, le jury établit une liste complé mentaire.
+ART. 10. — Les candidats composent, pour chaque concours, sous la surveillance d'une commission comprenant trois membres, dont l'un au moins fait partie du jury du concours considéré et remplit de ce fait les fonctions de président.
+Les membres de la commission ne peuvent qu'alternativement quitter la salle d'examen.
 
-I es candidats figurant  sur les listes complémentaires sont appelés dans l'ordre du classement  à occuper les places qui deviendraient vacantes  à la suite de démissions intervenues dans le mois suivant llentrée à I'Ecole.
+ART. 11. — Le président de la commission de surveillance procède, avant chaque épreuve, aux opérations suivantes :
+— Appel des candidats ;
+— Lecture des règles relatives à la discipline du concours ;
+— Ouverture après avoir fait constater aux candidats l'intégrité de la fermeture de l'enveloppe contenant le ou les sujets de l'épreuve considérée et communication aux candidats de la ou des questions à traiter ;
+— Annonce du temps accordé pour traiter l'épreuve ;
+— Annonce de la possibilité pour tout candidat de demander à consulter le texte écrit du ou des sujets, sauf la dictée.
+En outre, avant la première épreuve, le président fait constater aux candidats l'intégrité de la fermeture du pli scellé contenant les enveloppes qui renferment les sujets.
 
-Au cas où Ie nombre  des candidats ayant obtenu le total des points exigés  pour être  admis selon les dispositions citées à I'alinéa précédent,  serait inférieur  au nombre de places mises à I'un des concours,  les places non pourvues au titre de ce coûcours  seront reportées sur I'autre dans la mesure  otr elles poFrront  être  dévolues, dans l'ordre de classement; à des candiciats  figurant sur une liste complémentaire de report de places, établie  par le  jury.
-
-###### II. -Lrs  possrpns  DE cANDTDATUREs.
-
-- Anr. 6. -Les dossiers  de candidatu::e  constitués par les intéressés dojvent  parvenir à M. le Directeur  de I'Ecole nationale d'Administration, boîte postale  252, à  Nouakchott, avant le 30 septembre  1969 à 18 heures.
-
-- Anr. 7. -Pour les candidats  n'ayant pas la qualité de fonctionnaire, ni celle d'agent non titulaire, ces dossiers doivent comporter  les pièces suivantes:
-
--Une demande d'inscription  établie sur papier libre, datée et signée par le candidat,  précisant  son adresse  et le choix de la section  postulée. Cette demande doit être  timbrée à 250 F CFA ;
-
-;4'
-
--Un extrait d'acte dé  naissance  ou  jugement  supplétif  en tenant lieu, transcrit  sur le registre de l'état civil;
-
--Une copie certifiée conforme  du B.E.P.C. ou d'un titre équivalent;
-
--Un certificat de nationalité mauritanienne;
-
--Un extrait de casier judiciaire  bulletin nq 3 ayant moins de trois mois de date:
-
--Un certificat  délivré  par les autorités  médicales agréées et attestant  que le candidat est apte  à un service  actif et indemne ou définitivement  guéri  de toute affection cancéreuse, lépreuse, poliomyélitique ou tuberculeuse.
-
-- Anr. 8. -Pour les candidats  ayant la qualité  de fonctionnaire  ou d'agent non titulaire,  les. dossiers  doivent comporter les pièces  suivantes:
-
--Une demande d'inscription  établie sur papier  libre, datée et signée par le candidat précisant son adresse, le choix de la section  postulée  et son corps  s'il a la qualité  de fonctionnaire ou son emploi s'il a la qualité  d;agent non titulaire.  Cette demande doit faire l'objet d'une transmission favorable  de la part du département d'origine du candidat  ;
-
--Une copie certifiée conforme  du B.E.P.C. ou d'un titre équivalent au cas oir l'intéressé  serait  candidat  aux épreuves du concours  direct.
-
-###### III. -Dn r'onclxrsArroN  Eï  DE LA DrscrplrNE DEs coNcouRs.
-
-Anr. 9. -Les sujets des épreuves sont arrêtés par le président du jury et chaiun d'eux est enfermé dans une enveloppe scellée. Ces enveloppes sont placées dans un pli cacheté à la. cire, dont  le président,assure  la garde.
-
-- Anr. 10. -Les candidats  composent, pour chaque concours, sous la surveillance  d'une commission  comprenant trois membres, dont l'un au moins fait partie du jury  du concours considéré  et remplit de ce  fait  les fonctions  de président.
-
-Les membres de la commission ne peuvent  qu'alternativement quitt€r  la salle d'examen.
-
-- Anr. 11. -Le président de la commission de surveillance procède,  avant chaque  épreuve, aux opérations suivantes;
-
-- Appel des candidats;
-
---Ouverture après avoir fait constater aux candidats  I'intê grité  de la fermeture  de I'enveloppe contenant  le ou les sujets de l'épreuve considérée  et communication aux candidats  de Ia ou des questions à traiter  i
-
--Lecture des règles  relatives à la discipline  du concours;
-
-=_  Annonce  du temps accordé  pour traiter l'épreuve;.
-
--Annonce  de la possibilité  pour tout candidat de demander à consulter le texte écrit  du ou des sujets, sauf la dictée.
-
-En outre, avant la première  épreuve, le président fait constater aux candidats  l'intégrité  de la fermeture  du pli scellé contenant les enveloppes  qui renferment les sujets.
-
-- Anr. 12. -Sera exclu immédiatement du concours tout candidat  qui:.
-
--ne se présentera pas lors de l'appel des c4ndidats,
-
--sera trouvé  porteur  de notes ou documents  relatifs aux matières  du concours,
-
--aura été  surpris  pendant  la durée des épreuves à communiquer ou à se faire communiquer  des renseignements  quelconques ou des documents non prévus par les règlements,
-
--cadre de la souche  détachable,  ses nôm, prénoms, signature  ou tout autre signe distrnctif.
-
-- qui ferait figurer sur sa composition  et en dehors du
+ART. 12. — Sera exclu immédiatement du concours tout candidat qui :
+— ne se présentera pas lors de l'appel des candidats,
+— sera trouvé porteur de notes ou documents relatifs aux matières du concours,
+— aura été surpris pendant la durée des épreuves à communiquer ou à se faire communiquer des renseignements quelconques ou des documents non prévus par les règlements,
+— qui ferait figurer sur sa composition et en dehors du cadre de la souche détachable, ses nom, prénoms, signature ou tout autre signe distinctif.
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-27 aaùt 1969
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+305
 
-JOURNAL OFFICIEL  DE LA REPUBLIQUE  ISLAMIQUE DE MAURITANIE
+ART. 13. — Les compositions sont faites sur des feuilles de papier mises à la disposition des candidats. Les épreuves écrites sont anonymes. Chaque candidat fait figurer en tête de chacune de ses compositions, dans le cadre de la souche détachable réservée à cet effet, ses nom, prénoms, date et lieu de naissance et signature.
 
-Anr. 13. -Les compositions  sont faites sur des feuilles  cle papier mises à la disposition  des candidats. Les épreuves écrites sont anonymes.  Chaque  candidat  fait figurer en tête  de chacune de ses compositions, dans  le cadre de la souche détachable réservée  à cet effet, ses nom, prénoms,  date et lieu de naissance et signature.
+ART. 14. — Tout candidat ayant terminé sa composition avant les quinze dernières minutes du temps imparti peut la remettre à la commission de surveillance et être autorisé à quitter la salle.
+A la fin du temps imparti, et sans qu'aucune prolongation ne puisse être accordée, la commission de surveillance ramasse les compositions des candidats restés dans la salle.
 
-Anr. 14. Tout candidat ayant terminé  sa composition
+ART. 15. — A la fin de chaque épreuve, les membres de la commission de surveillance réunissent les compositions et les numérotent selon l'ordre de réception et de ramassage.
+Les membres de la commission de surveillance inscrivent à l'encre sur chaque composition un même numéro dans les deux cases réservées à cet effet : l'une dans le cadre de la souche détachable, l'autre dans la partie gauche supérieure de la première page de la composition.
 
--avant  les quinze dernières  minutes  du tpmps imparti peut la remettre à la commission de surveillance et  rêtre  autorisé  à quitter  la salle.
+ART. 16. — Après avoir numéroté toutes les compositions, les membres de la commission de surveillance détachent les souches des compositions. Les souches détachées sont réunies à part dans une seule enveloppe qui doit porter dans sa partie gauche l'indication « souche ».
+Les compositions sont réunies à part dans une ou plusieurs enveloppes.
 
-A la fin du temps  fmparti,  et sans qu'aucune  prolongation ne prrisse être accordée, la commission de surveillance ramasse
-
-les compositions  des candidats  restés dans la salle.
-
-- Anr. 15. A la fin de chaque épreuve, les membres  de la
-
--commission de surveillance  réunissent  les compositions et les numérotent selon l'ordre de réôeption et de ramassage.
-
-Les membres  de la commission  de surveillance  inscrivent  à I'encre sur chaque  composition  un même  numéro  dans les deux çases  réservées  à cet effet: I'une dans le cadre de Ia souche détachable, l'autre dans la partie gauche supérieure de la preqrière  page de la composition.
-
-- Anr. 16. -Après  avoir numéroté  tout€s les compositions, les membres de la commission de surveillance détachent les souches des compositions. Lcs souches détachées  sont réunies à pàrt dans une seule enveloppe qui doit porter dans sa partie gauche I'indication  r. souche '.
-
-. . Les compositions  sont réunies à part dans une ou plusieurs enveloppes.
-
-- Anr. 17. -Les enveloppes  des souches  et des compositions doivent être  fermées  et signées  par les membres de la commission de surveillance  et porter dans la partie centrale les mentions suivantes:
-
-Concourrs (direct  ou professionnel)  pour l'accès au cycle B de I'Ecole  nationale  d'Administration.
-
+ART. 17. — Les enveloppes des souches et des compositions doivent être fermées et signées par les membres de la commission de surveillance et porter dans la partie centrale les mentions suivantes :
+Concours (direct ou professionnel) pour l'accès au cycle B de l'Ecole nationale d'Administration.
 Série (juridique ou technique).
+Section ..............................
+Epreuve de ..........................
 
-Section
+ART. 18. — Un procès-verbal de chaque séance est établi et signé par les membres de la commission de surveillance.
 
-Epreuve de ....
+ART. 19. — Le procès-verbal, les enveloppes des souches et des compositions de chaque épreuve sont réunis dans une seule enveloppe qui, portant dans sa partie centrale les mentions ci-dessus relatives au concours considéré, est fermée et signée par les membres de la commission de surveillance puis transmise par le président de ladite commission au président du jury qui en assure la garde jusqu'au jour de la correction.
 
-........
+ART. 20. — La liste des admis et les éventuelles listes complémentaires sont souverainement établies par le jury. Ces listes sont transmises au ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique, qui fixe par arrêté la liste des candidats admis.
+Dans le cas où le jury aurait établi des listes complémentaires, l'arrêté fixe également la liste des candidats appelés à occuper les places qui deviendraient vacantes à la suite de démissions intervenues dans le mois suivant l'entrée à l'école.
 
--Ànr. lB. -Un procès-verbal de chaque séance est établi et signé  par les membres  de Ia commission  de surveillance.
+###### IV. — DES JURYS ET COMMISSIONS DE SURVEILLANCE.
 
-Anr. 19. -Le procès-verbal,  les enveloppes des souches  et des compositions de chaque épreuve sont réunis  dans une seule enveloppe qui, po,rtant  dans sa partie centrale  les mentions cidessus relatives  au concours considéré,  est fermée et signée par les membres  de la commission  de surveillance  puis transmise par le président  de ladite  commission  au présiden tdu jury qui
+ART. 21. — Les jurys et commissions de surveillance sont composés comme suit :
 
-en assure  la garde jusqu'au  jour de la correction
+1. SÉRIE JURIDIQUE.
 
-- Anr. 20. -La liste des admis et les éventuelles listes complémentaires sont souverainement  établies par le jury. Ces listes sont transmises  au ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique,  qui fixe par arr'êté la lis,te des candidats admis.
+A) Concours direct.
 
-Dans le cas or) le jury aurait établi des listes complémentaires, I'arrêté fixe également  la liste des candidats  appelés  à occuper les places  qui deviendraient  vacantes à la suite de démissions intervenues dans le mois suivant I'entrée à l'école.
-
-###### ru. -Dss runvs  ET coMMrssroNs  DE SURVETLLANcE.
-
-Anr. 21. -Les jurys et commissions  de surveillance composés comme suit: sont
-
-- AS Con"orrs direct.
-
-- Iury
-
-- Satigui,  président;
-
+1) Jury :
+M. Satigui, président ;
 MM. Cailleux, Chamberlin, Claude, Maurice, Moustapha Salek, membres.
 
-- Commission d.e surveillance:
+2) Commission de surveillance :
+M. Cailleux, président ;
+MM. Chamberlin, De Lahaye, membres.
 
-- Cailleux, président  t
+B) Concours professionnel.
 
-MM. Chamberlin,  De Lahaye, membres.
+1) Jury :
+M. Satigui, président ;
+MM. Ba Hamet, Claude, Le Carvèse, Martimor, Maurice, Pau, Soumare, membres.
 
-- Concours  professionnel.
+2) Commission de surveillance :
+M. Ba Hamet, président ;
+MM. Kernevez, Saumon, membres.
 
-- Jury:
+2. SÉRIE TECHNIQUE.
 
-- Satigui,  président;
+A) Concours direct.
 
-MM. Ba Hamet, Claude, Le Carvese,  Martimor,  Maurice,  Pau, Soumare,  membres.
+1) Jury :
+M. Ba Ahmed Samba, président ;
+MM. Ba Yahya Mamadou, De Lahaye, Gueye Moustapha, Picasso, membres.
 
-- 2\ Commission de surveillance:
+2) Commission de surveillance :
+M. De Lahaye, président ;
+MM. Ba Yahya, Saumon, membres.
 
-- Ba Hamet, président.;
+B) Concours professionnel.
 
-MM. Kernevez,  Saumon,  membres.
+1) Jury :
+M. Ba Hamet Samba, président ;
+MM. Claude, Gueye Moustapha, Kernevez, Saumon, membres.
 
-- SÉnrs  rBcHxrerrg.
+2) Commission de surveillance :
+M. Saumon, président ;
+MM. Gueye Moustapha, Kernevez, membres.
 
-- Concours  direct.
+ART. 22. — Les fonctions des membres de jury et de commission de surveillance sont gratuites.
 
-- lury
+###### V. — DU DÉROULEMENT DES ÉPREUVES.
 
-MM. Ba Yahya Mamadou, De Lahaye, Gueye Moustapha,
+ART. 23. — Les concours d'entrée en cycle B de l'école nationale d'Administration se dérouleront suivant les preuves, coefficients, dates et horaires ci-après.
 
-- Ba Ahmed Samba, président  ; Picasso, membres.
-
-- Commission de sunteillance:
-
-M. De Lahaye, président;
-
-MM. Ba Yahya, Saumon,  membres.
-
-- Concours  prof essionnel
-
-- Iury:
-
-M. Ba Hamet Samba, président;
-
-MM. Claude, Gueye Moustapha, Kernevez,  Saumon,  membres.
-
-- 2l Commission de surveillance:
-
-M. Saumon,  président:.
-
-MM. Gueye Moustapha, Kernevez,  membres.
-
-Avr. 22. -Lqs fonctions des membres de jury et de commis. sion de surveillance sont gratuites.
-
-###### V. -Du rÉnournunNr  DEs ÉPRErrvEs
-
-- Anr. 23. -Les concours  d'entrée en cycle B de l'école nationale d'Adminiètration se dérouleront  suivant les preuves,  coefficients, dates  et horaires  ci-après.
-
-I
-
-- SÉnIn  ruRroreur.
+I. — SÉRIE JURIDIQUE.
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-JOURNAL OFFICIEL DE LA REPUBLIQUE  ISLAMIQUE DE MAURITANIE
-
+306
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 27 août 1969
 
-###### L -Série  juridique.
+###### I. — Série juridique.
 
-Concours | Epçeuves | colf . | oy' | Horaires
+Concours | Epreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
-- | Ecrites d'admissibilité : Composition poÉant sur un sujet d'ordre général. | , | 27 oct.69 | I h à-11 h
-DrREcr | Epreuve de synthèse .... | 3 | 28 oct.69 | thà1lh
-Epreuve de maths . .. . . . | I | 29 oct.69 | thà10h
-Orale d'admission : Entretien avec le jurY .. | Fixée par jury | 15 mn par candidat
-Ecrites d'admissibilité : Composition portant suf uri sujet d'ordre général. | 27oct.69 | 8hà11h
-PRoFES- sroNNEL | Composition portant sur un sujet de géo. humai- ne et économique . .. . . . | 28oct.69 | thà1lh
-Epreuve pratique de ré- sumé ou de . rédaction d'une note à partir d'un dossier | 29oct.69 | 8hà1lh
-Orale | d'admission : Entretien avec le jury .. | Fixée par jury | 15 mn par candidat
+DIRECT | Ecrites d'admissibilité : Composition portant sur un sujet d'ordre général. | 4 | 27 oct. 69 | 8 h à 11 h
+DIRECT | Epreuve de synthèse | 3 | 28 oct. 69 | 9 h à 11 h
+DIRECT | Epreuve de maths | 1 | 29 oct. 69 | 9 h à 10 h
+DIRECT | Orale d'admission : Entretien avec le jury | 2 | Fixée par jury | 15 mn par candidat
+PROFESSIONNEL | Ecrites d'admissibilité : Composition portant sur un sujet d'ordre général. | 3 | 27 oct. 69 | 8 h à 11 h
+PROFESSIONNEL | Composition portant sur un sujet de géo. humaine et économique | 1 | 28 oct. 69 | 9 h à 11 h
+PROFESSIONNEL | Epreuve pratique de résumé ou de rédaction d'une note à partir d'un dossier | 4 | 29 oct. 69 | 8 h à 11 h
+PROFESSIONNEL | Orale d'admission : Entretien avec le jury | 2 | Fixée par jury | 15 mn par candidat
 
-###### II. -Série  technique.
+###### II. — Série technique.
 
-Concours | Epreuves | '"!r' | ,y' | Horaires
+Concours | Epreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
-Ec rites d' admis sibiilité : Epreuve de synthèse .... | 2 | 27 oct;69 | thà1lh
-DTRECT | Epreuve de science PhY- sique ou de maths .. | 2 | 28 oct.69 | thà11 h
-Epreuve de maths . .. . . . | 4 | 29 oct.69 | 8hà11 h
-Orate d'admission: Entretien avec le jury .. | Fixée par jury | 15 mn par candidat
-Ecrites d' admissibilit é : Composition Portant sur un sujet d'ordre général. | 3 | 27oct.69 | 8hà11h
-PRoFEs- SIONNEL | Epreuve de maths . '. . . ' | I | 28oct.69 | thà11h
-' ' . | Epreuve pratique de ré- sumé ou de rédaction d'une note à Partir d'un dossier ..... | 29oct.69 | 8hà11h
-Orale | d'admissîon: Entretien avec le jury .. | 2 | Fixée par jury | 15 mn par candidat
+DIRECT | Ecrites d'admissibilité : Epreuve de synthèse | 2 | 27 oct. 69 | 9 h à 11 h
+DIRECT | Epreuve de science physique ou de maths | 2 | 28 oct. 69 | 9 h à 11 h
+DIRECT | Epreuve de maths | 4 | 29 oct. 69 | 8 h à 11 h
+DIRECT | Orale d'admission : Entretien avec le jury | 2 | Fixée par jury | 15 mn par candidat
+PROFESSIONNEL | Ecrites d'admissibilité : Composition portant sur un sujet d'ordre général. | 3 | 27 oct. 69 | 8 h à 11 h
+PROFESSIONNEL | Epreuve de maths | 1 | 28 oct. 69 | 9 h à 11 h
+PROFESSIONNEL | Epreuve pratique de résumé ou de rédaction d'une note à partir d'un dossier | 4 | 29 oct. 69 | 8 h à 11 h
+PROFESSIONNEL | Orale d'admission : Entretien avec le jury | 2 | Fixée par jury | 15 mn par candidat
 
-Anr. 24. -Les dates des épreuves  orales sèront fixées ultérieurement par les présidents des  jurys.
+ART. 24. — Les dates des épreuves orales seront fixées ultérieurement par les présidents des jurys.
 
-Anr. 25. -L'indication des salles  dans lesquelles se dérouleront les épreuves ainsi que l'ordre de passage  pour I'entretien avec le jury  seront portés  à la connaissance  des.candidats  par voie d'afflchage  à  l'école nationale d'Administration.
+ART. 25. — L'indication des salles dans lesquelles se dérouleront les épreuves ainsi que l'ordre de passage pour l'entretien avec le jury seront portés à la connaissance des candidats par voie d'affichage à l'école nationale d'Administration.
 
-Anr. 26. -Les frais de déplacement sont à la charge  des candidats.
+ART. 26. — Les frais de déplacement sont à la charge des candidats.
 
-###### VI. -Dns PROGRAMMES.
+###### VI. — DES PROGRAMMES.
 
-Apr. 27. -Les programmes sur lesquels  portent les épreuves des concours sont ceux définis par le décret n" 6827I du 2.sep tembre 1968 susvisé.
+ART. 27. — Les programmes sur lesquels portent les épreuves des concours sont ceux définis par le décret n° 68.271 du 2 septembre 1968 susvisé.
 
-Anr. 28. -L'épreuve pratique  de résumé  de rédaction  d'une note à partir d'un dossier du concours professionnel  portera au choix du candidat  sur un sujet propre  à chacune des sections.
+ART. 28. — L'épreuve pratique de résumé de rédaction d'une note à partir d'un dossier du concours professionnel portera au choix du candidat sur un sujet propre à chacune des sections.
 
-Anr. 29. -L'entretien avec le jury portera  sur des questions d'ordre général  ou sur I'examen d'un texte (lecture, résumé  et discussion).
+ART. 29. — L'entretien avec le jury portera sur des questions d'ordre général ou sur l'examen d'un texte (lecture, résumé et discussion).
 
-ARRETE n" 465 du 22 iuillet  1969 portant oL )erture  des concours d'entrée. au cycle d'études A' de I'école  nationale d'Adminis' tration  pour I'année 1969.
+ARRETE n° 465 du 22 juillet 1969 portant ouverture des concours d'entrée au cycle d'études A' de l'école nationale d'Administration pour l'année 1969.
 
-###### I. -Dns DrsFOSrrroNS  cÉNIiRALES.
+###### I. — DES DISPOSITIONS GÉNÉRALES.
 
-Anrlcrn  rREMTER. -Les concours  direct et  professionnel d'entrée au cycle A' de I'E.N.A., série juridique  sont ouverts pour l'année  1969 dans les conditions prévues aux dispositions générales  du titre 3 du décret  68.271 du 2 septembre  1969.
+ARTICLE PREMIER. — Les concours direct et professionnel d'entrée au cycle A' de l'E.N.A., série juridique sont ouverts pour l'année 1969 dans les conditions prévues aux dispositions générales du titre 3 du décret 68.271 du 2 septembre 1969.
 
-Anr. 2. -Ces concours sont exclusivement ouverts  aux natio naux mauritaniens. Ils auront  lieu à I'E.N.A. Nouakchott,  du 3 au 6 novembre  1969 inclus.,
+ART. 2. — Ces concours sont exclusivement ouverts aux nationaux mauritaniens. Ils auront lieu à l'E.N.A. Nouakchott, du 3 au 6 novembre 1969 inclus.
 
-Anr. 3. -Le nombre de places offertes est de:
-
+ART. 3. — Le nombre de places offertes est de :
 10 dont 6 pour le concours direct et 4 pour le concours professionnel.
 
-Anr. 4. -A l'intention  des candidats sera ouvert  une section: u Affaires étrangères  >.
+ART. 4. — A l'intention des candidats sera ouvert une section : « Affaires étrangères ».
 
-Anr. 5. -Au cas où le nombre  de candidats ayant obtenu le total des points exigés pour être  admis  selon les dispositions de l'article 96 du décret  n" 68.27I susvisé, est supérieur au nombre de places  mises  au concours, le jury établit une liste complémentaire.
-
-Les candidats figurant sur la liste complémentaire sont appelés dans l'ordre du classement  à occuper les places qui deviendraient vacantes à  la suite de démissions  intervenues dans le mois suivant.
-
-Au cas oir le nombre  des candidats  ayant  obtenu  le total  de points  exigés pour être  admis selon les dispositions citées à I'alinéa  précédent,  serait inférieur au nombre  de places  mises à I'un des concours les places non pourrues au titre de ce concours  seront reportées sur l'autre dans la mesure  où elles pourront.être  dévolues dans l'ordre de classement,  à des candidats figurant  sur une liste complémentaire de report de places, établie par le jury.
-
-:.
+ART. 5. — Au cas où le nombre de candidats ayant obtenu le total des points exigés pour être admis selon les dispositions de l'article 26 du décret n° 68.271 susvisé, est supérieur au nombre de places mises au concours, le jury établit une liste complémentaire.
+Les candidats figurant sur la liste complémentaire sont appelés dans l'ordre du classement à occuper les places qui deviendraient vacantes à la suite de démissions intervenues dans le mois suivant.
+Au cas où le nombre des candidats ayant obtenu le total de points exigés pour être admis selon les dispositions citées à l'alinéa précédent, serait inférieur au nombre de places mises à l'un des concours les places non pourvues au titre de ce concours seront reportées sur l'autre dans la mesure où elles pourront être dévolues dans l'ordre de classement, à des candidats figurant sur une liste complémentaire de report de places, établie par le jury.
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-17 aoùt 1969
-
-JOURNAL  OFFICIEL  DE IÂ  REPUBLIQUE ISI.AMIQUE  DE INIAIJTg4XIT
-
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 307
 
--!t----
+### II. — LES DOSSIERS DE CANDIDATURES.
 
-### II. Lrs  DossrERs DE cANDTDATURES.
+ART. 6. — Les dossiers de candidatures constitués par les intéressés doivent parvenir à M. le Directeur de l'Ecole nationale d'Administration, B.P. 252, Nouakchott, avant le 15 septembre 1969 à 18 heures.
 
--
+ART. 7. — Pour les candidats n'ayant pas la qualité de fonctionnaire, ni celle d'agent non titulaire, ces dossiers doivent comporter les pièces suivantes :
+1° Une demande d'inscription établie sur papier libre, datée et signée par le candidat, précisant son adresse et le choix de la section postulée. Cette demande doit être timbrée à 250 francs.
+2° Un extrait d'acte de naissance ou jugement supplétif en tenant lieu, transcrit sur le registre de l'état civil ;
+3° Une copie certifiée conforme du baccalauréat ou d'un titre équivalent ;
+4° Un certificat de nationalité mauritanienne ;
+5° Un extrait de casier judiciaire, bulletin n° 3 ayant moins de trois mois de date ;
+6° Un certificat délivré par les autorités médicales agréées et attestant que le candidat est apte à un service actif et indemne ou définitivement guéri de toute affection cancéreuse, lépreuse, poliomyélitique ou tuberculeuse.
 
-- Anr. 6. -Les dossiers  de candidatures  constitués  par les intéressés  doivent  parvenir à M. le Directeur de l'Ecole nationale d'Administration,  B'P. 252, Nouakchott,  avant le 15 septembre
+ART. 8. — Pour les candidats ayant la qualité de fonctionnaire ou d'agent non titulaire, les dossiers doivent comporter les pièces suivantes :
+1° Une demande d'inscription établie sur papier libre, datée et signée par le candidat, précisant son adresse, le choix de la section postulée et son corps s'il a la qualité de fonctionnaire ou son emploi s'il a la qualité d'agent non titulaire. Cette demande doit faire l'objet d'une transmission favorable de la part du département d'origine du candidat.
+2° Une copie certifiée conforme du baccalauréat ou d'un titre équivalent, au cas où l'intéressé serait candidat aux épreuves du concours direct.
 
-- 1969 à 18 heures.
+III. — DE L'ORGANISATION ET DE LA DISCIPLINE DES CONCOURS.
 
-- Ant. 7. -Pour les candidats  n'ayant pas la qualité de fonctionnaire, ni celle d'agent non titulaire, ces dossiers doivent comporter les Pièces  suivantes:
+ART. 9. — Les sujets des épreuves sont arrêtés par le président du jury et chacun d'eux est enfermé dans une enveloppe scellée. Ces enveloppes sont placées dans un pli cacheté à la cire dont le président assure la garde.
 
-,  1" Une âemande d'inscription  établie sur papier libre, datée et signée par le candidat,  précisant  son adresse  et le choix  de la section  postulée, cette demande doit être  timbrée à 250 francs.
-
-- 2' Un extrait d'acte de naissance  ou  jugement supplétif  en tenant lieu, transcrit  su.r le registre  de 'l'état civil ;
-
-- 3' Une copie certif,ée  conforme du baccalauréat ou d'un titre  équivalent;
-
-- 4' Un certificat de nationalité mauritanienne ;
-
-- 5" Un extrait  de casier  judiciaire,  bulletin n" 3 ayant moins de trois mois de date ;
-
-- 6" Un certificat délivré  par les autorités  médicales agréées ei attestant  que le Candidat  est apte à un service actif et indemne ou définitivement  guéri  de toute affection concéreuse, lépreuse, poliomyélitique  ou tuberculeuse.
-
-- Anr. 8. -Pour les candidats ayant la qualité  de fonctionnaire ou d'agent  nôn titulaire,  les dossiers doivent cornporter les pièces suivantes:
-
-- 1o Une demande d'inscription  établie èur papier libre, datée et signée par le candidat,  précisant  son adresse, le choix de la sectiÀn  postulée et son corps s'il a la  qualité de fonctionnaire ou son emploi s'il a la qualité  d'agent non titulaire.  Cette demande doit faire l'objet d'une transmission favorable  de la part du département d'origine du candidat.
-
-- 2' lJne copie certifiée conforme  du baccalauréat  ou d'un titre équivalent, au cas où l'intéressé  serait candidat  aux épreuves drl concours d.irect.
-
-III.. -Dn l'onclNrsATroN Er DE LA DrscrPLrNE DES coNcouRs'
-
-- Anr. 9. -Les sujets des épreuves  sont arrêtés par le président'du  jury et chacun  d'eux est enfermé dans une  gnvelgpfe scellée. ies -enveloppes sont placées dans un pli cacheté à la
-
-- cire dent le président  assure'la  garde'
-
-- Anr. 10. -Les candidats  composent, pour chaque concours' sous la suryeillance  d'une commisison  cornprenant  trois rnem: bres, dont I'un au mo,ins fait partie du  jury dir concours considéré  et remplit, de ce fait, les fonctions  de président'
-
-.
-
+ART. 10. — Les candidats composent, pour chaque concours, sous la surveillance d'une commission comprenant trois membres, dont l'un au moins fait partie du jury du concours considéré et remplit, de ce fait, les fonctions de président.
 Les membres de la commission ne peuvent qu'alternativement quitter la salle d'examen.
 
-- Anr. ll. -Le président de la cÔmmissiott' de surveillance procèdq, avant chaque épreuve, aux opérations suivantes:
+ART. 11. — Le président de la commission de surveillance procède, avant chaque épreuve, aux opérations suivantes :
+— appel des candidats ;
+— lecture des règles relatives à la discipline du concours ;
+— ouverture, après avoir fait constater aux candidats l'intégrité de sa fermeture, de l'enveloppe contenant le ou les sujets de l'épreuve considérée et communication aux candidats de la ou des questions à traiter ;
+— annonce du temps accordé pour traiter l'épreuve ;
+— annonce de la possibilité pour tout candidat, de demander à consulter le texte écrit du ou des sujets, sauf pour la dictée.
+En outre, avant la première épreuve, le président fait constater aux candidats l'intégrité de la fermeture du pli scellé contenant les enveloppes qui renferment les sujets.
 
-'-appel des candidats  ;
+ART. 12. — Sera exclu immédiatement du concours tout candidat qui :
+— ne se présentera pas lors de l'appel des candidats ;
+— sera trouvé porteur de notes ou documents relatifs aux matières du concours ;
+— aura été surpris pendant la durée des épreuves à communiquer ou à se faire communiquer des renseignements quelconques ou des documents non prévus par les règlements ;
+— qui ferait figurer sur sa composition et en-dehors du cadre de la souche détachable, ses noms, prénoms, signature ou tout autre signe distinctif.
 
-. -'lecture des règles relatives  à la discipline  du concours.; ._ouverture,aprèsavoirfaitconstaterauxcandidatsl'inté. grité  de sa fermeture, de l'enveloppe co.ntenant  le. ou les sujets ie l,épreuve considérée  et communication aux candidats  de la
-
-- ou des questions à traiter  i
-
---annonce  de la possibilité  pour torrt candidat,  de demander à consulter le texte écrit du ou des sujets,  sauf pour la dictée.
-
-- annotrce  du temps accordé pour traiter l'épreuve;
-
-En outre, avant la première épreuve, le président fait constater . aux candidats  l;intégrité  de la fermeture du pli scellé contenant  les enveloppes  qui renferment les sujets'
-
-- Anr. 12. -Sera exclu immédiatement du concours tout candidat qui
-
-- ne se présentera pas lors de l'appel  des candidats;
-
-- matjères du concours ;
-
---sera trouvé  porteur  de notes ou documents  relatifs aux
-
--aura été  surpris  pendant  la durée des épreuves à oommuniquer ou à se faire communiquer  des renseignements  quelcon: q,tèt des documents non prévus par les règlements;
-
-"n
-
--qui ferait figurer  sur sa composition  et en-dehors  du cadre de h Àouche  détachable,  ses noms,  prénoms, signature ou tout autr'e  signe  distinctif.
-
-- Anr. 13. -Les compositions  sont faites sur des feuilles  de papier  mises  à la disposition  des candidats'
-
+ART. 13. — Les compositions sont faites sur des feuilles de papier mises à la disposition des candidats.
 Les épreuves écrites sont anonymes.
+Chaque candidat fait figurer, en tête de chacune de ses compositions dans le cadre de la souche détachable réservée à cet effet, ses noms, prénoms, date et lieu de naissance et signature.
 
-Chaque candidat  fait figurer,  en tête  de chacune  de ses compositions dans le cadre de la souche  détachable  réservée  à cet Ëff"t, ."t noms, prénôms, date et lieu de naissance et signature'
+ART. 14. — Tout candidat ayant terminé sa composition avant les quinze dernières minutes du temps imparti peut la remettre à la commission de surveillance et être autorisé à quitter la salle.
+A la fin du temps imparti, et sans qu'aucune prolongation ne puisse être accordée, la commission de surveillance ramasse les compositions des candidats restés dans la salle.
 
-- Anr. 14. -Tout candidat  ayant terminé sa composition  avant les quinie dernières minutes du temps imparti  peut la remettre à la commission  de surveillance  et être autorisé à  quitter  la salle.
+ART. 15. — A la fin de chaque épreuve, les membres de la commission de surveillance réunissent les compositions et les numérotent, selon l'ordre de réception et de ramassage.
+Les membres de la commission de surveillance inscrivent à l'encre sur chaque composition un même numéro dans les deux cases réservées à cet effet : l'une dans le cadre de la souche détachable, l'autre dans la partie gauche supérieure de la première page de la composition.
 
-A la fin du temps imparti, et sans qu'aucune  prolongation ne puisse être  accordée, la commission  de surweillance  ramasse  les compositions  des candidats  restés  dans la salle'
+ART. 16. — Après avoir numéroté toutes les compositions, les membres de la commission de surveillance détachent les souches des compositions, les souches détachées sont réunies à part dans une seule enveloppe qui portera dans sa partie gauche l'indication « souches ».
+Les compositions sont réunies à part dans une ou plusieurs enveloppes.
 
-- Ant, 15. -A la fin de chaque épreuve, les membres  de la commission  de surveillance  réunissent  les compositions et les numérotent,  selon I'ordre de réception  et de ramassage'
-
-Lesmembresdelacommissiondesurveillanceinscriventà I'encre  sur: chaque  compositon  un même  ùuméro  dans les deux ,  cases réservées  à cet effet : l'une dans  -le  cadre de la sorrche détachable, l'autre dans la partie  gauche supérieure de la  première page de la comPosition.
-
-- Anr.16.-Aprèsavoirnumérotétouteslescompositions'-les membres  de la ôommission  de surveillance détachent  les souches â"" "o*p"titions, les souches  détachées  sont réunies  à part dans ,rnu ...tË enveloppe  qdi portera  dans sa partie gauche  I'indrca-
-
-- tion  n souches  u.
-
-Les compositions  sont réunies à part dans une ou plusieurs enveloppes.
-
-- Anr. 17. -Les enveloppes des souches  et compositions doivent être  fermées et signées  far _les membres de la comrnission  de surveillance  et porter dans la partie .centrâle les mentions sui-
-
-vantes :
-
-Concours  (direct  ou professionnel)  pour I'accès au cycle A' de I'F.cole  national,e  d'Administration.
-
+ART. 17. — Les enveloppes des souches et compositions doivent être fermées et signées par les membres de la commission de surveillance et porter dans la partie centrale les mentions suivantes :
+Concours (direct ou professionnel) pour l'accès au cycle A' de l'Ecole nationale d'Administration.
 Série (juridique ou technique)
+Section ..............................
+Epreuve de ..........................
 
-Section.
+ART. 18. — Un procès-verbal de chaque séance est établi et signé par les membres de la commission de surveillance.
 
-Epreuve de ..........
-
-- Anr. 18. -Un procès-verbal de chaque séance est établi et signé  par les membres  de la commission de surveillance'
-
-- Anr. 1.9. -Le procès-verbal,  les enveloppes  des souches et des compositions de chaque épreuve sont réunis dans une seule enveloppl  qui, portant  dans la partie centrale  les mentions  ci-dessus relatives  au concours considéré,  est fermée et signée par les membres de la cornmission de surveillance puis transmise  par le ;;;;il;;; Je ladite commission  au président du jury qui en à.tnr" -la garde jusqu'au  jour de la correction'
+ART. 19. — Le procès-verbal, les enveloppes des souches et des compositions de chaque épreuve sont réunis dans une seule enveloppe qui, portant dans la partie centrale les mentions ci-dessus relatives au concours considéré, est fermée et signée par les membres de la commission de surveillance puis transmise par le président de ladite commission au président du jury qui en assure la garde jusqu'au jour de la correction.
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
 308
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+27 août 1969
 
-JOURNAL OFFICIEL DE LA RETUBLIQUE ISLAMIQUE DE MAURITANIE
+ART. 20. — La liste des admis et les éventuelles listes complémentaires sont souverainement établies par le jury. Ces listes sont transmises au ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique, qui fixe par arrêté, la liste des candidats admis.
+Dans le cas où le jury aurait établi des listes complémentaires, l'arrêté fixe également la liste des candidats, appelés à occuper les places qui deviendraient vacantes à la suite de démissions intervenues dans le mois suivant l'entrée à l'école.
 
-27 aofrt 1969
+###### IV. — DES JURYS ET COMMISSIONS DE SURVEILLANCE.
 
-Anr. 20. -La Iiste des admis et Ies éventuelles listes complé_ mentâires  sont souverainement  établies par.  le jury.  Ces liites sont transmises  au ministre  de l,Enseignement  technique,  de la Formation  des cadres  et de Ia Fonction publique,  q"i fi*" p", arrêté, la liste des candidats  admis.
+ART. 21. — Le jury et la commission de surveillance sont composés comme suit :
 
--. Dgns Ie cas oùr le jury  aurait établi  des listes complémentaires, l'arrêté fixe également  la liste des candidats,  appelès  à occupei lés  places  qui deviendraient  vacantes  à la suite de démissiàns intervenues dans Ie mois suivant  I'entrée  à l'école.
+A. — Concours direct.
 
-###### IV. -Dns runys  BT coMMrssroNs  DE suRvErLLANcE.
+1) Jury :
+M. Cayssalie, président ; MM. A. ould Abdallahi, Blachère, Le Carvèse, Maroille, Membres.
 
-Anr. 21. -Le jury  et la commission de surveillance sont composés  comme suit:
+2) Commission de surveillance :
+M. Le Carvèse, président, Mme Jegouzo, M. Maurice, membres.
 
--Concours  direct.
+B. — Concours professionnel.
 
-- Jury
+1) Jury :
+M. Cayssalie, président ; MM. A. ould Abdallahi, Blachère, M. Salek, Pau, membres.
 
-- Cayssalie, président; MM. A. ould Abdallahi,  Blachère. Le Carvèse,  Maroille, Membres.
+2) Commission de surveillance :
+M. M. Salek, président ; MM. Belahaye, Claude, membres.
 
-- Commission de surveillance  :
+ART. 22. — Les fonctions de membres de jury et de commission de surveillance sont gratuites.
 
-- Le Carvèse,  président, Mn"" Jegouzo,  M. Maurice, membres.
+###### V. — DU DÉROULEMENT DES ÉPREUVES.
 
--Concours professionnel
+ART. 23. — Les concours d'entrée au cycle A' de l'Ecole nationale d'Administration se dérouleront suivant les épreuves, coefficients, dates et horaires ci-après.
 
-- Jury
-
-- Cayssalie, président;  MM. A. ould Abdallahi, Blachère. M. Salek,  Pau, membres.
-
-- Commission de surveillance  :
-
-- M. Salek,  président;  MM. Belahaye, Claude,  membres.
-
-- Ant. 22. -I-es fonctions  de membres.de  jury  et de commission de surveillance  sont gratuites.
-
-.
-
-###### V. -Du lÉnoureuENT  DEs Épneuvrs.
-
-Concouts | Epreuves | Coeff . | Dates | Horaires
+Concours | Epreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
-- Composition portant sur un sujet de culture | générale ......... | 3 4 | nov. 1969 | 8 h à 12,h
-Drnrcr - Epreuve de.synthèse .. | .3 | 4nov.1969 | 8hà11h
-- Compositions portant sur un sujet d'ordre ju- - . " ridique ou économique. | 3 | 5 nov. | 1969 | 8hàltb
-Orale: conversation avec Ie jury | 6 nov. | 1969 | 20 pâr minutes candidat
+DIRECT | Composition portant sur un sujet de culture générale | 4 | 3 nov. 1969 | 8 h à 12 h
+DIRECT | Epreuve de synthèse | 3 | 4 nov. 1969 | 8 h à 11 h
+DIRECT | Compositions portant sur un sujet d'ordre juridique ou économique | 3 | 5 nov. 1969 | 8 h à 11 h
+DIRECT | Orale : conversation avec le jury | 3 | 6 nov. 1969 | 20 minutes par candidat
+PROFESSIONNEL | Composition sur un sujet de culture générale | 3 | 3 nov. 1969 | 8 h à 11 h
+PROFESSIONNEL | Composition sur un sujet d'ordre juridique ou économique | 2 | 4 nov. 1969 | 8 h à 11 h
+PROFESSIONNEL | Epreuve pratique de synthèse ou de rédaction d'un rapport à partir d'un dossier | 4 | 5 nov. 1969 | 8 h à 12 h
+PROFESSIONNEL | Orale : conversation avec le jury | 2 | 6 nov. 1969 | 20 minutes par candidat
 
-Anr. 23. -Les concours d,entrée au cycle A, de l,Ecote nationale d'Administration  se dérouleront suivant les épreuves, coefficients, dates  et horaires  ci-après.
+ART. 24. — L'indication des salles dans lesquelles se dérouleront les épreuves ainsi que l'ordre de passage pour l'entretien avec le jury seront portés à la connaissance des candidats par voie d'affichage à l'Ecole d'Administration.
 
-i
+ART. 25. — Les frais de déplacement sont à la charge des candidats.
 
-Cotzcours Epreuves | Coeff . | Dates | Horaires
---- | --- | --- | ---
-Composition sur un su_ jet de cutture générale. | 3 | 3nov.1969 | 8hàllh
-* Composition sur un su- jet d'ordre juridique ou ^ économique TROFES- | 2 | 4nov.1969 | 8hàllh
-sroNNEL - Epreuve pratique de synthèse ou de rédac- tion d'un rapport à par- tir d'un dossier Orale : conversation avec | 4 | 5 nov.1969 | 8hà12h
+###### VI. — LES PROGRAMMES.
 
-Ant. 24. -L'indication,  des salles dans lesquelles se dérouleront les épreuves  ainsi que  I'ordre de passage pour  I'entretien avgc 1,9 jury  seront portés  à la connaisiance-deÀ  candidats  par voie d'affichage  à l'Ecole dâdministration.
+ART. 26. — Au concours direct les programmes sur lesquels portent les épreuves d'ordre juridique ou économique sont pour la série juridique du cycle A', ceux des deux premières années de licence en droit ou ès-sciences économiques.
 
-Anr. 25. -Les frais de déplacement sont à la charee des candidats.
+ART. 27. — L'épreuve pratique de synthèse ou de rédaction d'un rapport à partir d'un dossier portera sur un sujet concernant les relations internationales en Afrique.
 
-###### VI. -LBs  pnocnnunrns.
+ART. 28. — L'entretien avec le jury portera sur des questions d'ordre général ou sur l'examen d'un texte (lecture, résumé et discussion).
 
-Anr. 26. -Au concours  direct les programmes  sur lesquels portent  les épreùves  d,ordre  juridique  ou  . économique Sont pour la série  juridique  du cycle A,, ceux des deux p:remières années de licence en droit ou ès-sciences  économiques.
+ARRETE n° 487 du 23 juillet 1969, portant ouverture des concours d'entrée au cycle d'études C de l'Ecole nationale d'Administration pour l'année 1969.
 
-Anr. 27. -L'épreuve pratique de synthèse ou de rédaction d'un rapport à partir d'un dossier portera  sur un sujet concernant les relations internationales  en Afrique.
+I. — DES DISPOSITIONS GÉNÉRALES.
 
-Anr. 28. -L'entretien avec  le jury portera  sur des questions d'ordre général  ou sur I'examen d,un texte (lectur€,  resumé et discussion).
+ARTICLE PREMIER. — Les concours directs et professionnels d'entrée au cycle d'études C de l'Ecole nationale d'Administration, séries juridique et technique sont ouverts pour l'année 1969 dans les conditions prévues aux dispositions générales du titre III du décret 68.271 du 2 septembre 1968 susvisé.
 
-ARRETE n' 487 du 23  iuillet  1969,  portant  ouverture  des concours . d'entrée au cycle d'études C de l,Ecole nntionale d,Adminis_ tration pour  t'année 1969.
+ART. 2. — Ces concours sont exclusivement ouverts aux nationaux Mauritaniens. Ils auront lieu à l'Ecole nationale d'Administration à Nouakchott, du 27 au 29 octobre 1969 inclus.
 
--I. -Dps DrsposrrroNs cÉNÉRALES.
-
-Anrrcrn eREMrER. -Les concours directs et professionnels d'entrée au cycle  d'études C de l,Ecole nationale d,Administration, séries  juridique  et technique sont ouverts pour l,année 1969 dans les conditions  prévues  aux dispositions  générales  du titre IIr du décret  68.271  du 2 septembre 1968 susvisé.
-
-Anr. 2. -Ces concours sont exclusivement ouverts  aux nationaux Mauritaniens. Ils , auront lieu à l'Ecole nationale d Administration à Nouakchott,  du 27 au 29 octobre  1969 inclus.
-
-Anr. 3. -Le nombre  de places offertes par série  et concours est de:
-
-Sërie  iuridique:  trente-cinq  (35) places  dont vingt-trois  (23) pour le concours  direct  et douze (12) pour  le concours  professionnel.
-
-Série technique: six (6) places dont quatre (4) pour le concours direct et deux (2)-pour  le concours professionnel.
+ART. 3. — Le nombre de places offertes par série et concours est de :
+Série juridique : trente-cinq (35) places dont vingt-trois (23) pour le concours direct et douze (12) pour le concours professionnel.
+Série technique : six (6) places dont quatre (4) pour le concours direct et deux (2) pour le concours professionnel.
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-27 aoùt 1969
-
-JOURNAL OFFICIEL  DE I.A REPUBLIQUE ISI.AMIQUE  DE MAURITANIE
-
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 309
 
-Anr. 4. -A l'intention  des candidats,  seront ouvertes  par série les sections suivantes  :
+ART. 4. — A l'intention des candidats, seront ouvertes par série les sections suivantes :
+Série juridique : Administration générale, Justice (tribunaux de cadi).
+Série technique : Postes et télécommunications (service technique).
 
-Série  juridique:  Administration  générale,  Justice (tribunaux
+ART. 5. — Au cas où le nombre des candidats ayant obtenu le total des points exigés pour être admis selon les dispositions de l'article 26 du décret 68.272 susvisé, est supérieur au nombre de places mises au concours le jury établit une liste complémentaire.
+Les candidats figurant sur les listes complémentaires sont appelés dans l'ordre du classement à occuper les places qui deviendraient vacantes à la suite de démissions intervenues dans le mois suivant l'entrée à l'école.
+Au cas où le nombre des candidats ayant obtenu le total des points exigés pour être admis selon les dispositions citées à l'alinéa précédent, serait inférieur au nombre de places mises à l'un des concours les places non pourvues au titre de ce concours seront rapportées sur l'autre dans la mesure où elles pourront être dévolues, dans l'ordre de classement, à des candidats figurant sur une liste complémentaire de report de places, établie par le jury.
 
-de cadi).
+###### II. — LES DOSSIERS DES CANDIDATURES.
 
-Série techniqae.'  Postes  et télécommunications  (service  technique).
+ART. 6. — Les dossiers de candidature constitués par les intéressés doivent parvenir à M. le Directeur de l'Ecole nationale d'Administration, B.P. 252, Nouakchott, avant le 15 septembre 1969 à 18 heures.
 
-:  Anr. 5. -Au cas où le nombre  des candidats ayant obtenu  le total des points exigés pour être  admis  selon les dispositions  de I'article  26 du décret  68.272 susvisé, est supérieur au nombre de placès misès au concours  le jury établit  une liste complémentaire.
+ART. 7. — Pour les candidats n'ayant pas la qualité de fonctionnaire, ni celle d'agent non titulaire, ces dossiers doivent comporter les pièces suivantes :
+— Une demande d'inscription établie sur papier libre, datée et signée par le candidat, précisant son adresse et le choix de la section postulée et un timbre à 250 francs ;
+— Un extrait de naissance ou jugement supplétif en tenant lieu, transcrit sur le registre de l'état civil ;
+— Une copie certifiée conforme du certificat d'études primaires ou d'un titre équivalent ;
+— Un certificat de nationalité mauritanienne ;
+— Un extrait de casier judiciaire, bulletin n° 3 ayant moins de trois mois de date ;
+— Un certificat délivré par les autorités médicales agrées et attestant que le candidat est apte à un service actif et indemne ou définitivement guéri de toute affection cancéreuse, lépreuse, poliomyélitique ou tuberculeuse.
 
-Les candidats figurant sur les listes complémentaires_ sont appelés dans I'ordre du classement à occuper les places qui deviendraient vacantes à la suite de démissions intervenues  dans le mois suivant l'entrée  à l'école.
+ART. 8. — Pour les candidats ayant la qualité de fonctionnaires ou d'agent non titulaire, les dossiers doivent comporter les pièces suivantes :
+— Une demande d'inscription établie sur papier libre, datée et signée par le candidat, précisant son adresse, le choix de la section postulée et son corps s'il à la qualité de fonctionnaire ou son emploi s'il à la qualité d'agent non titulaire. Cette demande doit faire l'objet d'une transmission favorable de la part du département d'origine du candidat ;
+— Une copie certifiée conforme du certificat d'études primaires ou d'un titre équivalent, au cas où l'intéressé serait candidat aux épreuves du concours direct.
 
-. Au cas oùr le nombre  des candidats ayant  obienu le total des points  exigés pour être  admis selon les dispositions citées à I'alinéa  précèdént,  serait inférieur au nombre  de places  mises à. l'un des concours les places non pourvues au titre'de ce concours  seront rapportées sur I'autfe dans la mesure où elles pourront être  dévolues, dans I'ordre de classement,  à des candidats figurant  sur une liste complémentaire de report de places, étaplie  par le  jury.
+III. — DE L'ORGANISATION ET DE LA DISCIPLINE DES CONCOURS.
 
-###### II. -Lns DossI:RS DES cANDTDATURES.
+ART. 9. — Les sujets des épreuves sont arrêtés par le président du jury et chacun d'eux est enfermé dans une enveloppe scellée. Ces enveloppes sont placées dans un pli cacheté à la cire, dont le président assure la garde.
 
-Anr. 6. -Les dossiers  de candidature  constitués  par les intéressés doivent  parvenir à M. le Directeur  de l'Ecole nationale d'Administration, B.P. 252, Nouakchott, avant le 15 septem-
-
-bre 1969  à  18 heures.
-
-- Anr. 7. -Pour les candidats n'ayant pas la qualité de fonctionnaire,  ni celle d'agent non titulaire,  ces dôssiers  doivent  comporter les pièces suivantes:
-
-- Une demande d'inscription établie sur papiBr  libie, datée et signée par le candiddt,  précisant  son adresse  et le choix  de  la
-
-- seètion  postulée et un timbre  à 250 francs;
-
--Un extrait de naissance  ou  jugement  supplétif en tenant lieu, transcrit sur le registre de l'état  civil;
-
--Une copie certifiée conforme  du certificat d'études  prirnaires  ou d'un titre équivalent;
-
-- Un certificat de nationalité mauritanienne;
-
-- de trois mois de date ;
-
---Un extrait de casier  judiciaire,  bulletin n" 3 ayant moins
-
--Un certificat délivré  par les autorités  médicales  agrées et attestànt  que le candidat  est apte à un service actif et indemne ou définitivement guéri  de toute affection cancér'euse, lépreuse, poliomyélitiqu,e ou tuberculeuse.
-
-- Anr. 8. -Pour les candidats ayant la qualité de fonctionnaires ou d'agent non titulaire,  les dossiers  doivent  cornporter  les pièces suivantes:
-
--Une demande d'inscription établie sur papier  libre, datée et signée par le candidat,  précisant  son adresse, le choix de la section postulée et son corps s'il à la qualité  de fonctionnaire  ou son emploi s'il à la qualité  d'agent non titulaire. Cette demande  doit faire l'objet dlune transmission  favorable  de la part du département d'origine du candidat;
-
--Une copie certifiée conforme  du certificat d'études  primaires ou d'un titre équivalent, au cas oir I'intéressé  serait candidat  aux épreuves du concours direct.
-
-III. -Dn r.'oncanrsATroN  ET DE LA DrscrplrNr  DES coNcouRs.
-
-Anr. 9. -Ires sujets des épreuves sont arrêtés par le président ctu jury et chacun d'eux est enfermé dans une enveloppe  scellée. Ces enveloppes  sont placées dans un pli cacheté à la cire, dont
-
-le président  assure la  garde.
-
-Anr. 10. -Les candidats  composent, pour chaque concours, sous la surveillance  d'une commission  comprenant trois membres, dont l'un au moins fait partie du jury du concours consi-
-
-déré  et remplit,  de ce fait les fonctions de président.
-
+ART. 10. — Les candidats composent, pour chaque concours, sous la surveillance d'une commission comprenant trois membres, dont l'un au moins fait partie du jury du concours considéré et remplit, de ce fait les fonctions de président.
 Les membres de la commission ne peuvent qu'alternativement quitter la salle d'examen.
 
-Anr. 11. -Le président de' la commission de surveillance procède avant chaque épreuve, aux opérations suivantes:
+ART. 11. — Le président de la commission de surveillance procède avant chaque épreuve, aux opérations suivantes :
+— Appel des candidats ;
+— Lecture des règles relatives à la discipline du concours ;
+— Ouverture, après avoir fait constater aux candidats l'intégrité de sa fermeture, de l'enveloppe contenant le ou les sujets de l'épreuve considérée et communication aux candidats de la ou des questions à traiter ;
+— Annonce du temps accordé pour traiter l'épreuve ;
+— Annonce de la possibilité pour tout candidat de demander à consulter le texte du ou des sujets sauf pour la dictée.
+En outre, avant la première épreuve, le président fait constater aux candidats l'intégrité de la fermeture du pli scellé contenant les enveloppes qui renferment les sujets.
 
-- Appel des candidats;
+ART. 12. — Sera exclu immédiatement du concours tout candidat qui :
+— ne se présentera pas lors de l'appel des candidats ;
+— sera trouvé porteur de notes ou documents relatifs aux matières du concours ;
+— aura été surpris pendant la durée des épreuves à communiquer des renseignements quelconques ou des documents non prévus par les règlements ;
+— qui ferait figurer sur sa composition et en dehors du cadre de la souche détachable, ses noms, prénoms, signature ou tout autre signe distinctif.
 
---Ouverture,  après avoir fait constater  aux candidats l'intégrité de sa fermeture, de .l'enveloppe contenant  le ou les sujets de l'épreuve considérée  et communication aux candidats  de lâ ou des questions à traiter i
+ART. 13. — Les compositions sont faites sur des feuilles de papier mises à la disposition des candidats. Les épreuves écrites sont anonymes. Chaque candidat fait figurer, en tête de chacune de ses compositions, dans le cadre de la souche détachable réservée à cet effet, ses noms, prénoms, date et lieu de naissance et signature.
 
--Lecture des règles  relatives à la discipline  du concoufs;
+ART. 14. — Tout candidat ayant terminé sa composition avant les quinze dernières minutes du temps imparti peut la remettre à la commission de surveillance et être autorisé à quitter la salle.
+A la fin du temps imparti, et sans qu'aucune prolongation ne puisse être accordée, la commission de surveillance ramasse les compositions des candidats restés dans la salle.
 
-.
+ART. 15. — A la fin de chaque épreuve, les membres de la commission de surveillance réunissent les compositions et les numérotent, selon l'ordre de réception et de ramassage.
+Les membres de la commission de surveillance inscrivent à l'encre sur chaque composition un même numéro dans les deux cases réservées à cet effet : l'une dans le cadre de la souche détachable, l'autre dans la partie gauche supérieure de la première page de la composition.
 
-- Annonce du temps  accordé pour traiter l'épreuve ;
-
-- à consulter  le texte du ou des sujets sauf pour la dictée.
-
---Annonce  de la possibilité  pour tout candidat  de demahder
-
-Eh outre, avant la première épreuve,  le président  fait constater aux candidats I'intégrité  de la fermeture  du pli scellé conte-
-
-nant les enveloppes  qui renferment les sujets
-
-Anr. 12. -Sera exclu immédiatement du concours tout candidat qui:
-
-- ne se présentera pas lo,rs de l'appel  des candidats  ;
-
---sêrâ  trouvé  porteur  de not€s  ou documents  relatifs aux matières  du concours ;
-
--aura été  surpris  pendant  la durée des épreuves à comrnuniquer des renseignements quelconques  ou des documents  non
-
-- prévus par les règlements  ;
-
--qui ferait figurer  sur sa'composition  et en dehors  du cadre de la souche  détachable,  ses norns, prénoms, signature  ou tout autre signe distinctif.
-
-- Anr. 13. -Les compositions  sont faites sur des feuilles  de papier  mises à la disposition  des candidats. I-es épreuvès écrites sont anon),.rnes. Chaque candidat  fait figurer,  en tête  de  .chacune de sès compositions, dans le cadre de la souche détachable réservée à cet effet, ses norns,  prénoms, date et lieu de naissance'et signature.
-
-Anr. 14. -Tout candidat  ayant  terminé  sa composition  avant les quinze dernières minutes du temps imparti  peut la remettre à la commission de surveillance et être  autorisé à quitter  la salle.
-
-A la fin du temps imparti, et sans qu'aucune  prolongation ne puisse être  accordée, la commission  de surveillance  ramasse  les
-
-compositions  des candidats restés dans la salle.
-
-Anr. 15. -A la fin de chaque épreuve, les membres de la  commission de surveillance réunissent les compositions  et les numérotent, selon I'ordre de réception et de ramassage.
-
-Les membres de la commission  de surveillance  inscrivent  à l'encre  sur chaque  composition  un même  numéro  dans les deux cases réservées  à cet effet: l'une dans le cadre de Ia souche détachable, I'autre dans la partie gauche supérieure de Ia  pre-
-
-mière page de la composition.
-
-Anr. 16. -Après avoir numéroté  toutes  les compositions,  les
-
-membres  de la iommission de surveillance détachent  les souches des compositions.  Les souches  détachées  sont réunies  à part dans une seule enveloppe  qui doit porter dans sa partie  gauche  l'indication  o souches  o.
+ART. 16. — Après avoir numéroté toutes les compositions, les membres de la commission de surveillance détachent les souches des compositions. Les souches détachées sont réunies à part dans une seule enveloppe qui doit porter dans sa partie gauche l'indication « souches ».
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-3r0
+310
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+27 août 1969
 
-JOURNAL OFFICIEL  EE LA REPUBLIQUE  ISLAMIQUE DE MAURITANIE
+Les compositions sont réunies à part dans une ou plusieurs enveloppes.
 
-27 aotû 1969
+ART. 17. — Les enveloppes des souches et des compositions doivent être fermées et signées par les membres de la commission de surveillance et porter dans sa partie centrale les mentions suivantes :
+Concours (direct ou professionnel) pour l'accès au cycle C de l'E.N.A., série (juridique ou technique).
+Section : ............................
+Epreuve de ..........................
 
-Les compositions  sont iéunies à part dans une ou plusieurs enveloppes.
+ART. 18. — Un procès-verbal de chaque séance est établi et signé par les membres de la commission de surveillance.
 
-Anr. 17. -Les enveloppes  des souches  et des compositions doivent être  fermées et signées-par les membres de la commission de surveillance  et porter  dans sa parlie centrale  les mentions suivantes  :
+ART. 19. — Le procès-verbal, les enveloppes des souches et des compositions de chaque épreuve sont réunis dans une seule enveloppe qui, portant dans sa partie centrale les mentions ci-dessus relatives au concours considéré, est fermée et signée par les membres de la commission de surveillance puis transmises par le président de ladite commission au président du jury qui en assure la garde jusqu'au jour de la correction.
 
-. Concours  (direct  ou professionnel)  pour l'accès  au cycle  C de I'E.N.A., série (juridique ou technique).
+ART. 20. — La liste des admis et les éventuelles listes complémentaires sont souverainement établies par le jury. Ces listes sont transmises au ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique, qui fixe par arrêté, la liste des candidats admis.
+Dans le cas où le jury aurait établi des listes complémentaires, l'arrêté fixe également la liste des candidats appelés à occuper les places qui deviendraient vacantes à la suite des démissions intervenues dans le mois suivant l'entrée à l'école.
 
-Section
+IV. — DES JURYS ET COMMISSIONS DE SURVEILLANCE.
 
-Epreuve de
+ART. 21. — Les jurys et commissions de surveillance sont composés comme suit :
 
-Anr. 18. -Un procès-verbal  de chaque séance est établi  et signé par les membres  de la commission  de surveillance.
+###### I. — Série juridique.
 
-- Anr. 19. -Le procès-verbal,  les enveloppes des sotrches  et des compositions de chaque épreuve sont réunis dans une seule enveloppe qui, portant  dans sa partie centrale  les mentions  ci-dessus relatives  au concours considéré,  est fermée et signée par les, membres de la commission  de surveillance  puis transmises par le président  de ladite commission  au président  du jury qui en assure  la garde jusqu'au  jour  de la correction.
+A. — Concours direct.
 
-- Anr. 20. -La liste des admis et les éventuelles. listes  complémentaires sont souverainement  établies  par le jury. Ces listes sont transmises  au ministre de l'Enseignement  technique, de la Formation  des cadres et de la Fonction publique, qui fixe par arrêté, la liste des candidats admis.
+1) Jury :
+M. Sidi Ahmed ould Deye, président ; MM. Abdallahi ould Boye, Cailleux, Claude, Salem ould Abdoud, Tourab, membres.
 
-Dans le cas où le jury aurait établi des listes complémentaires, I'arrêté fixe également la liste des candidats  appelés à occuper les places qui deviendraient vacantes à la suite des démissions intervenues dans le mois suivant l'entrée  à l'école.
+2) Commission de surveillance :
+M. Claude, président ; Mme Jegouzo, M. Maurice, membres.
 
-'  IV. -DBs runys ET coMMrssroNs  DE sURVETLLANcE.
+B. — Concours professionnel.
 
-Anr.21. -tes  jurys  et commissions  de surveillance sont composés  comme suit :
+1) Jury :
+M. Sid'Ahmed ould Deye, président ; MM. Abdallahi ould Boye, A. El Bechir, Claude, Jeradi, Pau, membres.
 
-###### I. -Série  iuridique.
+2) Commission de surveillance :
+M. Heradi, président ; MM. De Raymond, Le Carvèse, membres.
 
--Concours  direct.
+###### II. — Série technique.
 
-- Iury:
+A. — Concours direct.
 
-- Sidi Ahmed ould Deye, président; MM. Abdallahi  ould Boye,  Cailledx,  Claude,  Salem  ould Abdoud, Tourab, membres.
+1) Jury :
+M. Gueye Djibril, président ; MM. Claude, Diallo Assane, Habib ould Tangi, Mauger, Saumon, membres.
 
-- Commission de surveillance:
+2) Commission de surveillance.
+M. Saumon, président ; MM. De Lahaye, Habib ould Tangi, membres.
 
-- Claude, président  ' Mn,c  Jegouzo, M. Mauricer membres.
+B. — Concours professionnel.
 
-- B, -Concours  professionnel.
+1) Jury :
+M. Gueye Djibril, président ; MM. Claude, De Lahaye, Diallo Assane, Kernevez, Saumon, membres.
 
-- Iury:
+2) Commission de surveillance.
+M. de Lahaye, président ; MM. Diallo Assane, Kernevez, membres.
 
-- Sid'Ahmed  ould Deye, président; MM. Abdallahi  ould Boye, A. F.l Bechir, Claude,  Jeradi,  Pau, membres.
+ART. 22. — Les fonctions de membres de jury et de commission de surveillance sont gratuites.
 
-- Commission de surveillance:
+###### V. — DU DÉROULEMENT DES ÉPREUVES.
 
-- Heradi, président; MM. De Rayniond,  Le Carvèse, membres.
+ART. 23. — Ces concours d'entrée au cycle d'études « C » de l'Ecole nationale d'administration se dérouleront suivant les épreuves, coefficients, dates et horaires ci-après :
 
-###### lI. -Série technique.
+###### I. — Série juridique.
 
--Concours  direct.
-
-- lury:
-
-M. Gueye Djibril, président;  MM. Claude, Diallo  Assane,  Habib ould Tangi, Mauger, Saumon,'membres.
-
-- Commission de surveillance.
-
-- Saumon, président; MM. De Lahaye, Habib ould Tangi, membres.
-
--Concours  professionnel.
-
-- Jury
-
-M. Gueye Djibril,  président  ;  MM. Claude, De Lahaye,'Diallo Assane,  Kernevez,  Saumon,  membres.
-
-- Commission de surleillance.
-
-M. de Lahaye,  président; MM. Diallo Assane, Kernevez,  membres.
-
-Anr. 22. -Les fonctions de membres de jury et de commission de surveillance  sont gratuites.
-
-###### V. -Du  pÉnourntr,mnr DEs ÉpREUvEs.
-
-Anr. 23. -Ces concours d'entrée au cycle d'études . C u de I'Ecole nationale d'administration se dérouleront suivant  les épreuves, coefficients,  dates et horaires ci-après:
-
-###### L -Série  juridique.
-
-Concours | Epreuves | Coeff. Dates | Horaires
+Concours | Epreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
-E crit e d' admis s i b itit é. Etude d'un texte portant sur un sujet d'ordre général | 3 | 27 oct.1969 | 8 à 1l h
-Drnscr Résumé de texte | 3 | 28 oct.1969 | 9 à l1 h
-Epreuve de math | . .. .. . | | 29 oct. 1969 | 19 à 10 h
-Orale d'admission. Entretien avec jury | le .. I | fixé par jury | l0 mn par candidat
-Ecrit es d' admissibilité. Ëtude d'un texle portant sur' un sujet d'ordre ^ général PROFES- sroNNFt Composition portant sur un sujet de géographie de Ia R.I.M. et de l'Afri- | 2 | 27 çct.1969 | 9 à 11 h
-que Résumé d'un document administratif | 3 | 2 28 æt. 1969 | 9 à Ll ï1 8 à ll h
-Oraîes d'admission. Entretien avec Ie jury | I | 29 oct.1969 | l0 mn
-.. | fixé par jury | par candidat
+DIRECT | Ecrite d'admissibilité. Etude d'un texte portant sur un sujet d'ordre général | 3 | 27 oct. 1969 | 8 à 11 h
+DIRECT | Résumé de texte | 3 | 28 oct. 1969 | 9 à 11 h
+DIRECT | Epreuve de math | 1 | 29 oct. 1969 | 9 à 10 h
+DIRECT | Orale d'admission. Entretien avec le jury | 1 | fixé par jury | 10 mn par candidat
+PROFESSIONNEL | Ecrites d'admissibilité. Etude d'un texte portant sur un sujet d'ordre général | 2 | 27 oct. 1969 | 9 à 11 h
+PROFESSIONNEL | Composition portant sur un sujet de géographie de la R.I.M. et de l'Afrique | 2 | 28 oct. 1969 | 9 à 11 h
+PROFESSIONNEL | Résumé d'un document administratif | 3 | 29 oct. 1969 | 8 à 11 h
+PROFESSIONNEL | Orales d'admission. Entretien avec le jury | 1 | fixé par jury | 10 mn par candidat
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-27 aottrt 1969
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+311
 
-JOURNAL  OFFICIEL DE LA REPUBLIQUE  ISLAMIQUE  DE MAURITANIE
-
-3ll
-
-###### II. -Série technique.
+###### II. — Série technique.
 
 Concours | Epreuves | Coeff. | Dates | Horaires
 --- | --- | --- | --- | ---
-Ecrite d' admissibilité. Etude d'un texte portant . sur un sujet d'ordre général | 27 oct.1969 | 9 à | 11 h
-Drnnct Epreuve de géographie physique .... | 28 oct.1969 | 9 | à ll h
-. Epreuve de mathémati- ques | V9 oct. | 1969 8 | à 11 h
-Orale d'admission.
-Entretien avec le jury | .. | fixé par jury | l0 par | mn candidat
-Ecrit e d' admissibilitë. Etude d'un texte portant sur un sujet d'ordre général | 27 oct.1969 | 9 à | 11 h
-Pnoms- Epreuve de mathémati- sroNNEL ques | 28 oct. | 1969 9 | à ll h
-Résumé d'un document administratif à carac- tère technique . .... | ... . | 28 oct. | 1969 B à | 11 h
-Orale il'admission. : Entretien | avec le jury .. | fixé par | jury l0 par | mn candidat
+DIRECT | Ecrite d'admissibilité. Etude d'un texte portant sur un sujet d'ordre général | 2 | 27 oct. 1969 | 9 à 11 h
+DIRECT | Epreuve de géographie physique | 2 | 28 oct. 1969 | 9 à 11 h
+DIRECT | Epreuve de mathématiques | 3 | 29 oct. 1969 | 8 à 11 h
+DIRECT | Orale d'admission. Entretien avec le jury | 1 | fixé par jury | 10 mn par candidat
+PROFESSIONNEL | Ecrite d'admissibilité. Etude d'un texte portant sur un sujet d'ordre général | 2 | 27 oct. 1969 | 9 à 11 h
+PROFESSIONNEL | Epreuve de mathématiques | 2 | 28 oct. 1969 | 9 à 11 h
+PROFESSIONNEL | Résumé d'un document administratif à caractère technique | 3 | 28 oct. 1969 | 8 à 11 h
+PROFESSIONNEL | Orale d'admission. Entretien avec le jury | 1 | fixé par jury | 10 mn par candidat
 
-Anr. 24. -Les épreuves des concours  d'accès à la section < Justice n (tribunaux  de cadis) auront  lieu en langue arabe.
+ART. 24. — Les épreuves des concours d'accès à la section « Justice » (tribunaux de cadis) auront lieu en langue arabe.
+Les dates des épreuves orales seront fixées ultérieurement par les présidents des jurys.
 
-Les dates des épreuves orales seront fixées  ultérieurement par les présidents  des jurys.
+ART. 25. — L'indication des salles dans lesquelles se dérouleront les épreuves, ainsi que l'ordre de passage pour l'entretien avec le jury seront portés à la connaissance des candidats par voie d'affichage à l'Ecole nationale d'administration.
 
-Anr. 25. * L'indication des salles  dans lesquelles se dérouleront  les épreuves, ainsi que I'ordre de passage  pour I'entretien avec le jury seront portés à la connaissance  des candidats  par voie d'affichage à I'Ecole nationale d'administration.
+ART. 26. — Les frais de déplacement sont à la charge des candidats.
 
-Anr. 26. -Les frais de déplacement sont à la charge  des can' didats.
+###### VI. — DES PROGRAMMES.
 
-###### VI. -Drs PRocRAMMES.
+ART. 27. — Les programmes sur lesquels portent les épreuves des concours sont ceux définis par le décret n° 68.271 du 2 septembre 1968 susvisé.
 
-- Anr. 27. -I-es programmes  sur lesquels  portent  les épreuves des èoncours sont ceux définis par le décret  n" 68.271 du 2 septembre  1968 susvisé.
+ART. 28. — L'épreuve du résumé d'un document administratif du concours professionnel portera au choix du candidat sur un sujet propre à chacune des sections.
 
-- Anr. 28. -L'épreuve du résumé  d'un document administratif du concours professionnel  portera au choix du candidat sur un sujet propre à chacune  des sections.
+ART. 29. — L'entretien avec le jury portera sur des questions d'ordre général ou sur l'examen d'un texte (lecture, résumé et discussion).
 
-. Anr. 29. -L'entretien avec le jury portera  sur des questions d'ordre général  ou sur l'examen d'un texie  (lecture, résumé  et discussion).
+###### ACTES DIVERS :
 
-###### ACTES DIVERS:
+ARRETE n° 453 du 17 juillet 1969 portant titularisation de mouçaïds.
 
-ARRETE  n" 453 du 17  iuillet  1969  portant titularisation  de mouçaïds.
+ARTICLE PREMIER. — Les mouçaïds stagiaires ci-après qui ont satisfait aux épreuves pratiques et orales du C.A.E.A. sont titularisés et nommés mouçaïds de 1er échelon (indice 300) pour compter des dates ci-dessous :
+— M. Sidi Mohamed ould Bani pour compter du 8 février 1965, A.C. néant,
+Passe : mouçaïd de 2e échelon (indice 330) pour compter du 8 février 1967, A.C. néant.
+Mouçaïd de 3e échelon (indice 360) pour compter du 8 février 1969, A.C. néant.
+— M. Marouani ould Sidi Mohamed pour compter du 2 mars 1965, A.C. néant.
+Passe : mouçaïd de 2e échelon (indice 330) pour compter du 2 mars 1967, A.C. néant.
+Mouçaïd de 3e échelon (indice 360) pour compter du 2 mars 1969, A.C. néant.
 
--O'----1:AnrrcI-e eREMTER. -Les mouçaids  stagiaires  ci-après qui ont satisfait  aux épreuves pratiques et orales  du C.A.E.A. sont titularisés et nommés mouçaïds de lrer échelon (indice 300) pour compter  des dates ci-dessous  :  ,.
+ART. 2. — Le présent arrêté prend effet le 1er janvier 1969.
 
--M. Sidi Mohamed  ould Bani pour compter  du 8 février 1965, A.C. néant,
+ARRETE n° 456 du 17 juillet 1969 portant titularisation de trois moniteurs.
 
-Passe: mouçaid de Ï  échelon  (indice 330) pour compter du 8 février  1967, A.C. néant.
+ARTICLE PREMIER. — Les moniteurs stagiaires depuis le 1er octobre 1965 ci-après qui ont satisfait aux épreuves pratiques et orales du certificat d'aptitudes des moniteurs (C.A.M.) sont titularisés et nommés moniteurs de 1er échelon (indice 300) pour compter des dates ci-dessous :
 
-MouçaTd  de 3' échelon (indice  360) pour compter  du 8 février 1969, A.C. néant.
+###### MM. :
 
--M. Marouani  ould Sidi Mohamed pour compter  du 2 mars 1965, A.C. néant.
+— Diawara Dama, pour compter du 21 avril 1969, A.C. néant ;
+— Mohamed El Hacen ould Mohamedine, pour compter du 2 janvier 1966, A.C. néant.
+— Sy Samba, pour compter du 15 décembre 1965, A.C. néant.
 
-Passe.'  rnouçard de 2" échelon  (indice  330) pour compter  du 2 mars 1967, A.C. néant.
+ART. 2. — M. Mohamed El Hacen ould Mohamedine, moniteur de 1er échelon depuis le 2 janvier 1966, A.C. néant,
+Passe moniteur de 2e échelon (indice 330) pour compter du 2 janvier 1968, A.C. néant.
+M. Sy Samba, moniteur de 1er échelon depuis le 15 décembre 1965, A.C. néant.
+Passe moniteur de 2e échelon (indice 330) pour compter du 15 décembre 1967, A.C. néant.
+Moniteur de 3e échelon (indice 360) pour compter du 15 décembre 1969, A.C. néant.
 
-Mouçard de 3' échelon  (indice 360) pour compter du 2 mars 1969, A.C. néant.
+ART. 3. — Le présent arrêté prend effet le 1er janvier 1969.
 
-Anr.2. -Le présent  arrêté prend effet 1. 1'"" janvier  1969-
+ARRETE n° 457 du 17 juillet 1969 portant démission d'un fonctionnaire.
 
-a
+ARTICLE PREMIER. — Est acceptée, pour compter du 13 juin 1969, la démission de son emploi présentée par M. Mohamed El Hafed ould Ajioine, agent de police de 3e échelon (ind. 195).
 
-ARRETE  n'  456 du 17  iuiltet  1969 portant  titttla.risation de trois moniteurs:
+ARRETE n° 466 du 22 juillet 1969 portant intégration d'un mouçaïd.
 
-/
-
-AnrrcrB  pREMTER. iLes moniteurs stagiaires depuis le l"f octobre 1965 ci-après qui ont satisfait aux épreuves  pratiques  et orales du certificat  d'aptitudes  des moniteurs (C.A.M.)  sont titularisés et nommés moniteurs de 1"" échelon (indice  300)  pour compter des dates ci-dessous:
-
-###### MM.:
-
-i
-
-- Diawara  Dama, pour compter  du 2l avril 1969, A.C. néant;
-
--.- Mohamed  El Hacen  ould Mohamedine, pour cornpter du 2 janvier 1966, A.C. néant.
-
--Sy Samba, pour compter  du 15 décembre  1965, A'C. néant.
-
-Anr. 2. -M. Mohamed  El Hacen ould Mohamedine, moniteur de l'"' échelon depuis le 2 janvier 1966, A.C. néant,
-
-Passe moniteur de 2' échelon (indice  330) pour compter du 2 janvier  1968, A.C. néant.
-
-M. Sy Samba, moniteur de lrer échelon depuis le 15 clécembre 1965,  A.C. néant.
-
-Passe moniteur  de 2' échelon (indice  330) pour compter  du 15 décembre 1967,  A-C. néant.
-
-Moniteur de 3' échelon (indice 360) pour compter  du 15 décembre 1969, A.C. néant.
-
-Anr.3. -Le présent arrêté prend effet le l'"  janviet  L969.
-
-ARRETE  n" 457 du 17 juillet 7969 portant démission d'un  fonctionnaire.
-
-AnrrcLn  pnnuren.  =  Est acceptée, poLlr compter du 13 juin 1969,la démission de son emploi présentée  par M. Mohamed El Hafed ould Ajioine, agent de police de 3" échelon  (ind. 195).
-
-ARRETE n" 466 du 22 iuillet  1969 portant  intégration d'wn mou4aid.
-
-Anrrcr-e  pREMTER. -M. El Mounir ould Mohamed ould Tolba, titulaire du certificat  d'aptitude à  I'enseignement  de l'arabe (C.A.E.A.),  est intégré  dans le cadre de l'enseignement public. Il  est nommé  mouçaïd stagiaire (indice 300) pour compter  du 16 octobre 1968 conformément à l'article 25 du décret n" 62.027 du 17 janvier 1962 susvisé.
+ARTICLE PREMIER. — M. El Mounir ould Mohamed ould Tolba, titulaire du certificat d'aptitude à l'enseignement de l'arabe (C.A.E.A.), est intégré dans le cadre de l'enseignement public. Il est nommé mouçaïd stagiaire (indice 300) pour compter du 16 octobre 1968 conformément à l'article 25 du décret n° 62.027 du 17 janvier 1962 susvisé.
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-3t2
+312
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+27 août 1969
 
-JOURNAL  OFFICIEL  DE Iâ REPUBLIQUE ISLAMIQUE  DE MAURITANIE
+ARRETE n° 468 du 22 juillet 1969 portant nomination d'un instituteur adjoint.
 
-27 aoùt 1969
+ARTICLE PREMIER. — M. Sambou Ibrahim, moniteur de 2e échelon depuis le 1er octobre 1967, qui a satisfait aux épreuves écrites, pratiques et orales du C.E.A.P. est nommé et titularisé instituteur adjoint de 1er échelon (indice 400) pour compter du 1er octobre 1968, A.C. néant.
 
-ARRETE n" 468 du 22 juillet 7969 portant nomination d'un instituteur adjoint.
+ARRETE n° 470 du 22 juillet 1969 portant intégration d'un moniteur.
 
-Anrrcru rREMTER. ---  M. Sambou Ibrahim,  moniteur de 2' échelon depuis  le l,u" octobre  1967, qlui a satisfait aux épreuves écrites, pratiques  et orales du C.EA.P.  est nommé et titularisé insti"  tuteur adjoint  de 1'"" échelon  (indice  400) pour compter du l'"" octobre  1968,  A.C. néant.
+ARTICLE PREMIER. — M. Sidi ould Mohamed ould Ethmane, moniteur contractuel reçu à l'examen d'intégration des moniteurs, est intégré dans le cadre de l'enseignement public. Il est nommé moniteur de 3e échelon (indice 360) pour compter du 1er octobre 1966, AC. néant, conformément à l'article 78, 3e alinéa, du décret n° 62.027 du 17 janvier 1962 susvisé.
+Il passe moniteur de 4e échelon (indice 390) pour compter du 1er octobre 1968.
 
-ARRETE n" 470 du 22 juillet 1969 portant intégration  d'un moniteur.
+ART. 2. — Le présent arrêté prend effet au point de vue solde le 1er janvier 1969.
 
-Anrrcr.e  pREMTER. -M. Sidi ould Mohamed ould Ethmane, m.oniteur contractuel  reçu à I'examen  d'intégration des moniteurs, est intégré  dans le cadre de l'enseignement  public.  Il  est nommé moniteur de 3' échelon (indice 360) pour compter  du L'"" octobre 1966, AC. néant, conformément à l'article 78, 3" alinéa,
+ARRETE n° 471 du 22 juillet 1969 portant intégration d'un sous-intendant.
 
-du décret n" 62.027 du 17 janvier 1962 susvisé.
+ARTICLE PREMIER. — M. Wane Mamadou, titulaire du diplôme de fin de stage d'intendant, est intégré dans le cadre de l'enseignement public, conformément à l'article 41 du décret n° 62.027 du 17 janvier 1962 susvisé.
+Il est nommé sous-intendant de 1er échelon (ind. 560) stagiaire pour compter du 23 décembre 1968.
 
-'Anr.
+ARRETE n° 473 du 22 juillet 1969 fixant la liste des candidats autorisés à subir les épreuves du concours direct des assistants d'élevage à l'école de Bamako.
 
-Il  passe moniteur de 4' échelon (indice 390) pour compter du l"' octobre 1.968.
+ARTICLE PREMIER. — Les candidats dont les noms suivent sont autorisés à se présenter aux épreuves du concours pour le recrutement des assistants d'élevage organisé par l'arrêté n° 395 du 16 juin 1969 susvisé.
 
-2. -Le présent arrêté prend effet au point de vue solde 1" 1'er janvier  1969.
+###### MM. :
 
-o__
-
-ARRETE  n" 47L du 22 juittet 7969 portant intégration d'un sousintendant.
-
-Anrrcm  eREMr'ER. -M. Wane Mamadou, titulaire  du diplôme de fin de stage d'intendant,  est intégré  dans le cadre  de lensei. gnement public, conformément à l'article 41 du décret n" 62.027
-
-Il est nommé sous-intendant  de 1"' échelon (ind.  560) stagiaire pour compter du 23 décembre  1968.
-
-du 17 janvier  1962 susvisé.
-
-ARRETE  n' 473 du 22 juillet 1969  fixant  la liste'des candidats autorisés à subir les éprewves du concours  direct des assis-
-
-tants d'élevage à l'école  de Bamako.
-
-ARTTCLE  PREMTER. -Les candidats dont les noms suivent  sont autorisés à se présenter aux épreuves du concours  poui: le recrutement des assistants d'élevage organisé par I'arrêté n" 395 du
-
-16 juin 1969 susvisé.
-
-###### MM.:
-
-Hamady Demba N'Diaye ; Mohamed EI Moctar ould ltawal Oumrou; 'El Joud or:ld Saleck; Sy Dahirou Falil;
-
+Hamady Demba N'Diaye ;
+Mohamed El Moctar ould Itawal Oumrou ;
+El Joud ould Saleck ;
+Sy Dahirou Falil ;
 Bou Gueye.
 
-ARRETE n" 475 du 22 juillet 1969 portant exclusion  définitive de I'E.N,A, de certains  étèves,  fonctionnaires  et  lonctionnaires éIèves.
+ARRETE n° 475 du 22 juillet 1969 portant exclusion définitive de l'E.N.A. de certains élèves, fonctionnaires et fonctionnaires élèves.
 
-Anrrcre  pREMTER. -Les élèves-fonctionnaires et fonctionnairesélèves de l'Ecole nationale d'administration  ci-dessous  sont exclus  pour insuffisance de l'établissement à compter  4o 1e" juillet 1969 en application  de I'article 28 de la loi n" 67.769 du l8 juillet .1967 complétée  par la loi n' 69.064 du 25 janvier  1969 susVrsee. r
+ARTICLE PREMIER. — Les élèves-fonctionnaires et fonctionnaires-élèves de l'Ecole nationale d'administration ci-dessous sont exclus pour insuffisance de l'établissement à compter du 1er juillet 1969 en application de l'article 28 de la loi n° 67.169 du 18 juillet 1967 complétée par la loi n° 69.064 du 25 janvier 1969 susvisée.
 
-Fonctionnairesélèves
-
-Mohamed Fall ould Lemrabott;
-
+Fonctionnaires-élèves :
+Mohamed Fall ould Lemrabott ;
 Moustapha ould Khady.
 
-'
+Elèves-fonctionnaires :
+Mohamed ould Hamed ;
+Kane Abdine Baila ;
+Lo Souleymane ;
+Ibrahima Gueye.
 
-E I èv e s-f  onct  ionnair e  s :
+ART. 2. — MM. Mohamed Fall ould Lemrabott et Moustapha ould Khady seront remis à la disposition de leurs départements d'origine pour compter de la même date.
 
-Mohamed ould Hamed; Kane Abdine Baila' Ë s";i;t;;";; '-' Ibrahima Gueye.
+ARRETE n° 477 du 22 juillet 1969 portant titularisation de quelques instituteurs et mouallim.
 
-Anr. 2; -MM. Mohamed Fatl ould Lemrabott et Moustaphâ ould Khady seront remis à la disposition  de leurs départements d'origine pour  corqpter de la même  date.
+ARTICLE PREMIER. — Les élèves instituteurs ci-dessous qui ont satisfait aux épreuves pratiques du brevet supérieur de capacité option « français et arabe (B.S.C.) » sont titularisés et nommés instituteurs et mouallim de 1er échelon (indice 560) pour compter des dates ci-après :
 
-ARRETE n" 477 du 22 juillet L969 portant titularisation  dë  quel-
+###### MM. :
 
-ques instituteurs et mouallim.
-
-AnrrcrE rREMTER. -Les élèves instituteurs  ci-dessous qui ont satisfait  aux épreuves pratiques du brevet supérieur de capacité option " français  et arabe  (B.S.C.)  > sont titularisès  et nommés instituteurs  et mouallim  de 1,"'' échelon  (indice 560) pour compter des dates ci-après:
-
-###### MM.:
-
--Mohamed ould Brahim,  pour compter du 9 décembre  1968, A.C. néant;
-
--Sakho Mamadou Dickall, pour compter du 6 décembre 1968, A.C. néant.
-
--Mohamed Ghaly ould Ahmed, pour compter du 16 décembre 1968, A.C. néant.
-
--Kone Seydou  Fansory, pour compter du 3 decembre 1968,
-
--Lemrabott  ould Cheikh ould Bouh, pour compter  du 13 décembre 1968, A.C. néant;
-
-- A.C. Néant t
-
-- néant;
-
--Dicko Arouna, pour compter du 15 décembre 1968, A.C.
-
--Sidi ould Ghoulam,  pour compter  du 13 décembre 1968,
-
--Kane Amadou, pour compter du 3 décembre  1968, A.C. néant ;
-
-- A.C. néant ;
-
--Ba Oumar Samba, pour compter du 13 décembre  1968, A.C. néant;
-
--Mohamed ould Hamady, pour compter du 18 décembre 1968,  A.C. néant;
-
--Dia Amadou Oumar, pour compter'  du 2 décernbre 1968, A.C. néant.
-
--Mahmoud ould Nama, pour compter du 17 décembre 1968, A.C. néant  ;
-
--Abdei Jelil ould Hamma, pour compter  du 24 décembre 1968, A.C. néant;
-
-.  -Ahmed ould Beye, pour compter  du 20 décembre 196g, A.C. nean[ ;
-
--Demine ould Ney, pour compter du Z décembre 196g, A.C. néant ;
-
--Ly Djibril, pour compter du 4 décembre 1968, A.C. néant;
-
--Kane Abdoul Wahab, pour compter  du  .2  décembre 1968, A.C. néant ;
-
--Sangare Mamadou,  pour compter  du 8 décembre 196g, A.C. néant ;
-
-^.:. ?iugura Moussa,  pour compter du 22 décèmbre 1968, A.C.
-
--Houceine ould Hassen,  pour compter 1968,  A.C. néant  ; du 2l  décembre
-
--Sidi Mohamed ould Boukary, pour compter  du 29 avril 1969, A.C. néant.
-
--Ba Oumar Bornou, pour compter  du néant  ; 29 avnl 1969, A.C.
-
--Abderrahmane  ould Sidi Mahmoud,  pour compter du 18 avril 1969, A.C. néant;
-
--Kane Hamadi, pour compter  du 23 décembre 1968, A.C. néant;
-
--Mohamed ould Cheikh Abdallahi, pour compter  du 9 décembre 1968, A.C. néant.
-
-'
+— Mohamed ould Brahim, pour compter du 9 décembre 1968, A.C. néant ;
+— Sakho Mamadou Dickall, pour compter du 6 décembre 1968, A.C. néant.
+— Mohamed Ghaly ould Ahmed, pour compter du 16 décembre 1968, A.C. néant.
+— Lemrabott ould Cheikh ould Bouh, pour compter du 13 décembre 1968, A.C. néant ;
+— Kone Seydou Fansory, pour compter du 3 décembre 1968, A.C. Néant ;
+— Dicko Arouna, pour compter du 15 décembre 1968, A.C. néant ;
+— Sidi ould Ghoulam, pour compter du 13 décembre 1968, A.C. néant ;
+— Kane Amadou, pour compter du 3 décembre 1968, A.C. néant ;
+— Ba Oumar Samba, pour compter du 13 décembre 1968, A.C. néant ;
+— Mohamed ould Hamady, pour compter du 18 décembre 1968, A.C. néant ;
+— Dia Amadou Oumar, pour compter du 2 décembre 1968, A.C. néant.
+— Mahmoud ould Nama, pour compter du 17 décembre 1968, A.C. néant ;
+— Abdel Jelil ould Hamma, pour compter du 24 décembre 1968, A.C. néant ;
+— Ahmed ould Beye, pour compter du 20 décembre 1968, A.C. néant ;
+— Demine ould Ney, pour compter du 7 décembre 1968, A.C. néant ;
+— Kane Abdoul Wahab, pour compter du 2 décembre 1968, A.C. néant ;
+— Ly Djibril, pour compter du 4 décembre 1968, A.C. néant ;
+— Sangare Mamadou, pour compter du 8 décembre 1968, A.C. néant ;
+— Diagana Moussa, pour compter du 22 décembre 1968, A.C. néant ;
+— Houceine ould Hassen, pour compter du 21 décembre 1968, A.C. néant ;
+— Ba Oumar Bornou, pour compter du 29 avril 1969, A.C. néant ;
+— Sidi Mohamed ould Boukary, pour compter du 29 avril 1969, A.C. néant.
+— Abderrahmane ould Sidi Mahmoud, pour compter du 18 avril 1969, A.C. néant ;
+— Kane Hamadi, pour compter du 23 décembre 1968, A.C. néant ;
+— Mohamed ould Cheikh Abdallahi, pour compter du 9 décembre 1968, A.C. néant.
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-27 aoùT 1969
-
-JOURNAL  OFFICIEL  DE I.A REPUBLIQUE ISI.AMIQUE  DE MAURITANIE
-
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 313
 
-ARRETE n" 478 du 22  iuittet  L969 portant intégration d'un infir' ' mier breveté.
+ARRETE n° 478 du 22 juillet 1969 portant intégration d'un infirmier breveté.
 
-ARTTcLE rREMTER. -. M, Gueye  Mamadou, élève infirmier  ayant satisfait aux épreuves de l'examen de sortie de l'Ecole  lationale des agents sanitâires  est intégré  dans le cadre de la Santé publique. Il  est nommé infirmier breveté de ? classe, -l'" é9he' ion (indice 280) pour compter  du lu" juillet  1968, A'C. néant, conformément à l'article 31 de la loi n'  67-L69  du 18 juillet 1967 susvisée.
+ARTICLE PREMIER. — M. Gueye Mamadou, élève infirmier ayant satisfait aux épreuves de l'examen de sortie de l'Ecole nationale des agents sanitaires est intégré dans le cadre de la Santé publique. Il est nommé infirmier breveté de 2e classe, 1er échelon (indice 280) pour compter du 1er juillet 1968, A.C. néant, conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée.
 
-ARRETE n" 479 du 22 juitlet 1969  fixant  la îiste  des candidats autorisés à subir les épreuves du èoncours d'emtrée à l'école afri'caine de ta Météorologie  et de i'Aviation  civile à Niamey'
+ARRETE n° 479 du 22 juillet 1969 fixant la liste des candidats autorisés à subir les épreuves du concours d'entrée à l'école africaine de la Météorologie et de l'Aviation civile à Niamey.
 
-Anrrcre  eREMTER. -Les candidats ci-après  sont autorisés à subir les épreuves  du concoqrs  du stage préparatoire organisé par i'arrêté n" 367  IMETFCFP  du 6 .juin  1969 susvisé :
+ARTICLE PREMIER. — Les candidats ci-après sont autorisés à subir les épreuves du concours du stage préparatoire organisé par l'arrêté n° 367/METFCFP du 6 juin 1969 susvisé :
 
-N'Diaye Hamadi Semba;
+N'Diaye Hamadi Semba ;
+Sy Dahirou Falil ;
+Gueye Abou ;
+Ba Saidou Adama ;
+Dia Djibril ;
+Ali Bourou ould El Waer.
 
-Sy Dahirou Falil;
+ARRETE n° 489 du 23 juillet 1969 portant titularisation d'un instituteur adjoint.
 
-Guey,e  Abou;
+ARTICLE PREMIER. — M. Si Mohamed Lemine, instituteur adjoint stagiaire depuis le 1er octobre 1964, qui a satisfait aux épreuves pratiques et orales du C.E.A.P., est titularisé et nommé instituteur adjoint de 1er échelon (indice 400) pour compter du 1er octobre 1965, A.C. néant.
+Il passe instituteur adjoint de 2e échelon (indice 460) pour compter du 1er octobre 1967, A.C. néant.
+Instituteur adjoint de 3e échelon (indice 500) pour compter du 1er octobre 1969, A.C. néant.
 
-Ba Saidou Adama;
+ART. 2. — Le présent arrêté prend effet le 1er janvier 1969.
 
-Ali Bourou  ould El Waer.
+ARRETE n° 490 du 23 juillet 1969 portant titularisation d'un fonctionnaire.
 
-Dia Djibril;
+ARTICLE PREMIER. — M. Ahmed ould Sidi Brahim, agent des P.T.T. de 2e classe, 1er échelon stagiaire (indice 250) depuis le 1er janvier 1962 ayant accompli dix-huit ans d'âge, est titularisé et nommé agent d'exploitation de 2e classe, 1er échelon (indice 250) pour compter du 1er janvier 1965, A.C. néant.
+Il est reclassé agent d'exploitation de 2e classe, 2e échelon (indice 260) pour compter du 1er janvier 1967, A.C. néant.
+Agent de 2e classe, 3e échelon (indice 280) pour compter du 1er janvier 1969, A.C. néant.
 
-ARRETE r"' 489 du 23  iuillet  L969 portant titularisation  d'uti ins' tituteur adioint.
+ART. 2. — Le présent arrêté prend effet le 1er janvier 1969.
 
-' Anrrclp  eREMTER. -M. Si Mohamed Lemine, instituteur adjoint stagiaire depuis  le 1"" octobre-L964,,  !9i a.satisfait  aux épi"rlu". piatiques èt orales du C.E.A.P.,  est titularisé et nommé instituieui adjôint  de 1'n' échelon  (indice 400) pour compter du l"  .octobre 1965, A.C. néant.
+ARRETE n° 491 du 23 juillet 1969 portant intégration d'un mouçaïd.
 
-Instituteur  adjoint de 3' échelon (indice  500) pour compter du l"  octobre L969, A.C. néant.
+ARTICLE PREMIER. — M. Seydna Oumar ould Abdallahi Atigh El Hasen, titulaire du certificat d'aptitude à l'enseignement arabe (C.A.E.A.) est intégré dans le cadre de l'enseignement public. Il est nommé mouçaïd stagiaire (indice 300) pour compter du 16 octobre 1968, conformément à l'article 25 du décret n° 62.027 du 17 janvier 1962 susvisé.
 
-Il  passe instituteur  adjoint  de ?  échelon  (indice 460) pour comptèr du 1"'octobre  7967,  A.C. néant.
+ARRETE n° 492 du 23 juillet 1969 portant titularisation d'un mouçaïd.
 
-Anr.2. -Le présent arrêté prend effet 1" 1er janviet  1969'
+ARTICLE PREMIER. — M. Mohamed Abdellah ould El Moctar, mouçaïd stagiaire depuis le 5 janvier 1965, qui a satisfait aux épreuves pratiques du certificat d'aptitude à l'enseignement de l'arabe (C.A.E.A.), est titularisé et nommé mouçaïd de 1er échelon (indice 300) pour compter du 6 mars 1967, A.C. néant.
+Il passe : mouçaïd de 2e échelon (indice 330) pour compter du 6 mars 1969, A.C. néant.
 
-----o-
+ART. 2. — Le présent arrêté prend effet le 1er janvier 1969.
 
-{
+ARRETE n° 493 du 23 juillet 1969 autorisant M. Bâ Waly à se présenter au concours d'accès du cycle « C » du Centre de formation et de vulgarisation de Kaédi.
 
-ARRETE n" .490 du 23  iuillet  1969 portant titt'ûarisation,  d'un fonctionnaire.
+ARTICLE PREMIER. — M. Bâ Waly Aly est autorisé à se présenter aux épreuves du concours d'accès au cycle « C » du Centre de formation et de vulgarisation agricole de Kaédi.
 
-AntrclE PREMTER. -M. Ahmed  ould Sidi Brahim, agent. des P.T.T. de ? classe, 1'" échelon stagiaire  (indice  250) depuis le 1-"  lanvier  1962 ayant accompli  dix-huit  ans d'âge,  €st  titularisé Ët .ro--e agent â'exploitatiôn  de 2'-clas^se, 1*' échelon  (indice 250)  pour compter du 1'"r janvier 1965, ÀC'  néant'
+ARRETE n° 494 du 23 juillet 1969 portant démission d'un fonctionnaire.
 
-' Àeent  de 2' classe,-3' échelon  (indice  280) pour compter  du 1""  jànvier 1969, A{. néant'
+ARTICLE PREMIER. — Est acceptée, pour compter du 10 juin 1969, la démission de son emploi présentée par M. Abidine ould Beyrouk, moniteur stagiaire.
 
----il'.tt reclalssé  'agent  d'exploitation  de 2' cla:se,'2" échelon (indice 260) pour compter du 1"' janvier 19^67, A'C' néant'
+ARRETE n° 497 du 23 juillet 1969 fixant la liste des candidats autorisés à subir les épreuves du concours direct des agents de police.
 
-Aer. 2. -Le présent arrêté prend effet 1" 1e" janvier L969'
+ARTICLE PREMIER. — Les candidats dont les noms suivent sont autorisés à subir les épreuves du concours direct pour le recrutement des agents de police prévu par arrêté n° 405/METFCFP/DFP du 21 juin 1969.
 
-ARRETEn.4g|du23juiltet|g6gportantintégrationd,otnmou. çaid.
+###### MM. :
 
-Anrrcrs  pREMTER. -M. Seydna Oumar ould Abdallahi Atigh El -Fi;;;; -iirutuit du certificat d'aptitude à  I'enseignement arabe  (C.A.E.A.)  est intégré  dans le cadre de I'enseignement public.  Il est nommé mouçaïd stagiaire  (indice 300) pour comp ier'du 16 octobre  1968, conformément à I'article 25 du décret n' 62.027  du 17 janvier  1962 susvisé.
-
---a
-
-ARRETE n" 4:92 du 23'  iuitlet  1969 portant titularisation  d'u:n mouçaid.
-
-Anrrcrp  pREMTER. -M. Mohamed Abdellah ould El Moctar, mouçard  stagiaire depuïs le 5  janvier 1965, qui a satisfait aux épreuves  praliques  du certificat d'aptitude  à l'enseignement -de làrabe  (C.A.E.À.),  est titularisé  et nommé mouçaid  de 1" éche lon (indice  300) pour cornpter du 6 mars 1967, L.C. néant.
-
-trl  passe;  mouçaid de 2' échelon (in{ice 330) pour comptèr du 6 mars 1969, A.C. néant.
-
-Anr. 2. -Le présent arrêté prend effet le 1"" janvier  1969.
-
-ARRETE n" 493 du 23  iuittet  1969 autorisant M. BA Wa[y à se présenter  au concours  d'accès du cycle  < C,, du Centre de fôrmation  et de vulgarisation de Kaédi.
-
-Anrrcrr  PREMTER. -M. Bâ Waly Aly est autorlsé à se prégenter aux épreuvés  du concours  d'accès au cycle  .. C > du Centre de formaiion et de vulgarisation agricole  de Kaédi.
-
-ARRETE  n" 494 du 23  iuillet  1969 portant démission d'un fonc' tionnaire.
-
-Anrrcrr PREMTER. -Est acceptée, .pour  compter  du l0  juin 1969,  la démission de son emploi  présentée  par M. Abidine ould Beyrouk,  moniteur  stagiaire.
-
-a-
-
-ARRETE  n" 497 du 23  iuittet  L969  fixant.la  liste des candidats autorisés à subir les épreuves du concours direct des agënts de police.
-
-Anrtcr-e  PREMTER. -Les candidats dont les noms suiv-ent sont autorisés à subir les épreuves du concours direct  pour 19f99{9' téÀént des agents de police  prévu  par arrêté n' 4OSIMETFCFP/ DFP du 21 juin 1969.
-
-###### MM.:
-
-- Sidoumou  ould Kouma i
-
-- Diarra  Oumar;
-
-- M'Bow Samba Mamadou;
-
-- Mohamêd  Mahmoud  ould AleYatt;
-
-- Ba Abdoulaye  Tako;
-
-- Taer  ould Aboubekrine;
-
-- Dah ould EleYa;
-
-- Brahim ould Said;
-
-- Hacen ould M'Reizig;
-
-- t0. Sidi ould GaYa;
-
-- Amadou  Mamadou  Dioçl;
-
-- Sid'Ahmed  ould H'Jour i
-
-- Alioune FaYe;
-
-- Tounkara Bocar;
-
-- Mohamed ould Sidi;
-
-- Fall Assane;
-
-- Ba Boubacar;
+1. Sidoumou ould Kouma ;
+2. Diarra Oumar ;
+3. Mohamed Mahmoud ould Aleyatt ;
+4. M'Bow Samba Mamadou ;
+5. Ba Abdoulaye Tako ;
+6. Taer ould Aboubekrine ;
+7. Dah ould Eleya ;
+8. Hacen ould M'Reizig ;
+9. Brahim ould Saïd ;
+10. Sidi ould Gaya ;
+11. Amadou Mamadou Diop ;
+12. Sid'Ahmed ould H'Jour ;
+13. Alioune Faye ;
+14. Mohamed ould Sidi ;
+15. Tounkara Bocar ;
+16. Fall Assane ;
+17. Ba Boubacar ;
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-3t4
+314
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+27 août 1969
+
+18. El Housseine ould Mohamed Lemine ;
+19. Diop Aboubakrine ;
+20. Baba ould Cheikh Sidi El Moctar ;
+21. Mahmoud ould Bekaye ;
+22. Sidi El Moctar N'Diaye ;
+23. Oumar Abou Sy ;
+24. Ba Samba El Hadj ;
+25. Ahmed ould Mohamed Lemine ould N'Dabouzou ;
+26. Sy Mohamed ould Samba ;
+27. Athie Mohamed Lemine ;
+28. Sy Gallo ;
+29. Mahmoud ould Mahmoud ;
+30. El Mamy ould Dheowe ;
+31. Oumar ould Abdallahy ;
+32. Ahmed ould Saïdaf ;
+33. Diallo Sada ;
+34. Mohamed ould M'Boire ;
+35. Boubou Hamady ;
+36. Khalihli ould Hamoïty.
+
+ARRETE n° 499 du 24 juillet 1969 portant intégration d'un ingénieur des travaux des Eaux et Forêts.
+
+ARTICLE PREMIER. — M. Touré Abdourahmane, titulaire du diplôme de l'école nationale des cadres ruraux du Sénégal, est intégré dans le cadre des Eaux et Forêts. Il est nommé ingénieur stagiaire des travaux des Eaux et Forêts de 1er échelon (indice 560) pour compter du 15 mai 1969, conformément à l'article 30, alinéa premier et 31 du décret n° 62.028 du 17 janvier 1962 susvisé.
+
+ARRETE n° 0506 du 28 juillet 1969 portant classement général des élèves de la deuxième année du cycle d'études « C » de l'Ecole nationale d'administration pour l'année 1969.
+
+ARTICLE PREMIER. — A l'issue de leur scolarité à l'Ecole nationale d'administration, le classement général des élèves du cycle d'études « C » ayant obtenu une moyenne générale égale ou supérieure à dix sur vingt, est établi comme suit par série, section et ordre de mérite.
+Série juridique.
+
+A. — Section « Administration générale » :
+
+MM. :
+— Mohameden ould Abed ;
+— Ba Sidi Amadou ;
+— Diagne Marieme ;
+— Soumaré Diabé ;
+— Mohamed Abdallahi ould Sid'Ahmed ;
+— Mlle Diagana Marieme ;
+— Matallah ould Bilal.
+
+B. — Section « Postes et Télécommunications » :
+
+MM. :
+— Niengue Ahmed ;
+— Mohamed Abdallahi ould Haibilyty ;
+— Moctar ould Abdy ;
+— Diop Moussa Demba ;
+— Mohamed ould Brahim ;
+— Mohamed ould Boushab.
+
+ART. 2. — Les intéressés, déclarés certifiés de l'Ecole nationale d'administration, exerceront selon l'ordre du classement leur choix parmi les emplois offerts dans les différentes administrations.
+Ces emplois sont ceux fixés par l'article n° 428/MET.FC.FP/DFP du 4 juillet 1969 susvisé.
+
+ARRETE n° 0507 du 28 juillet 1969 portant classement général des élèves de deuxième année du cycle d'études « B » de l'Ecole nationale d'administration pour l'année 1969.
+
+ARTICLE PREMIER. — A l'issue de leur scolarité à l'Ecole nationale d'administration, le classement général des élèves du cycle d'études « B », ayant obtenu une moyenne générale égale ou supérieure à dix sur vingt est établi comme suit par série, section et ordre de mérite.
+
+Série juridique.
+
+A. — Section « Administration générale » :
+
+MM. :
+— Abdallahi ould Mohameden ;
+— Brahim ould Boddé ;
+— Brahim ould Ismaël ;
+— Cheikhna ould Sidi Ali.
+
+B. — Section « Douanes » :
+
+MM. :
+— Kane Yahya ;
+— Sidi Mohamed ould Ely ;
+— Ahmed ould Khlil ;
+— Dallahi ould Hadj Brahim ;
+— Moulaye Ely ould Nah ;
+— Mamadou Kamara ;
+— Sall Souleymane ;
+— Begnoug ould El Hady ;
+— Mohamed ould Ely Touezigui ;
+— Seydina Aly ould Sidi.
+
+C. — Section « Postes et Télécommunications », service général :
+
+— Mamadou Baïdy Sall ;
+— Abdourahmane Ba ;
+— Oumar Traoré ;
+— Deissé Diabira ;
+— Youba Fall ;
+— Mohamed Abdallah ould Meissa.
+
+ART. 2. — Les intéressés, déclarés brevetés de l'Ecole nationale d'administration, exerceront selon l'ordre du classement, leur choix dans les différentes administrations utilisatrices des corps auxquels donne vocation leur section.
+Ces emplois sont ceux fixés par l'arrêté n° 428/MET.FC.FP/DFP du 4 juillet susvisé.
+
+ARRETE n° 0510 du 29 juillet 1969 portant titularisation d'un moniteur.
+
+ARTICLE PREMIER. — M. Soumare Hademou, moniteur stagiaire depuis le 12 juin 1963, qui a satisfait aux épreuves pratiques et orales du certificat d'aptitude aux fonctions de moniteur (C.A.M.), est titularisé et nommé moniteur de 1er échelon (indice 300) pour compter du 24 janvier 1969, A.C. néant.
+
+DECRET n° 69.273 du 1er août 1969 portant nomination du directeur de la Fonction publique par intérim.
 
-JOURNAL OFFICIEL DE U, REPUBLIQUE  ISLAMIQUE DE MAURITANIE
-
-27 aotlt L969
-
-- El Housseine ould Mohamed Lemine  ;
-
-- Diop Aboubakrine ;
-
-- Baba ould Cheikh  Sidi El Moctar;
-
-- Mahmoud  ould Bekaye;
-
-- Sidi El Moctar  N'Diaye  ;
-
-- Ba Samba  El Hadj ;
-
-- Oumar  Abou Sy i
-
-- Ahmed ould Mohamed  Lemine ould N'Dabouzou;
-
-- Sy Mohamed  ould Samba;
-
-- Athie Mohamed  Lemine;
-
-- Sy Gallo;
-
-- Mahmoud outd Mahmoud;  .
-
-- 30, El Mamy ould Dheowe;
-
-- Oumar ould Abdallahy;
-
-- Ahmed  ould Saïdaf ;
-
-- Diallo Sada  :
-
-- Mohamed ould M'Boire:
-
-- Boubou  Hamady;
-
-- Khalihli  ould Hamoïty.
-
-1969  portant intégration d'un ingé-
-
-ARRETE  n" 499 du 24 juillet nieur  des travaùtc des Eaux et Forêts.
-
-Anrrcrs  eREMTER. -M. Touré Abdourahmane,  titulaire du diplôme  de l'école  nationale des cadres ruraux du Sénégal,  est intégré  dans le cadre des Eaux et Forêts.  Il  est nommé  ingénieur stagiaire des travaux  des Eaux et Forêts  de 1,"" échel6n (indice  560) pour compter du 15 mai 1969, conformément à l'article 30, alinéa premier  et 3l du décret  n" 62.028  du 17  janvier 1962 susvisé.
-
-ARRETE n" 0506 du 28 juillet t969 portait çlassement général des élèves de la deuxième année du cycle d'études ,, C ,  de
-
-l'Ecole nationale d'administration  pour l'année 1969.
-
-'  Anrrcm  pREMIER. -A l'issue de leur scolarité à l'Ecole nationale d'administration, le classement  général  des élèves du cycle d'études < C ", ayant obtenu une moyenne  générale  égale  ou supérieure à dix sur vingt,  est établi comme suit par série, section  et ordre de mérite. ieiù i",tâiiiî
-
-A. -Section n Administration  générale  > :
-
-MM.:
-
--
-
-- Mohameden ould Abed;
-
--Diagne  Marieme;
-
--Ba Sidi Amadotr i
-
--Soumaré Diabé;
-
--M"" Diagana  Marieme  ;
-
--Mohamed Abdallahi ould Sid'Ahmed;
-
---Matallah ould Bilal.
-
--Section <<  Postes et Télécommunicatiôns r,  :
-
-MM.:
-
-- Niengue  Ahmed;
-
--Moctar ould Abdy;
-
--Mohamed Abdallahi ould Haibilyty;
-
--Diop Moussa Demba;
-
-:-  Mohamed otrld Boushab.
-
---Mohamed ould Brahim;
-
-Anr. 2. -Les intéressés,  déclarés  certifiés de l'Ecole  natio nale d'administration.  exerceront selon l'ordre du classement Ieur choix parmi  les emplois offerts dans les différentes  administrations.
-
-Ces emplois sont ceux fixés  par l'article  n'  428IMET.FC.FP/ DFP du- 4 iuillet 1969 susvisé.
-
-.
-
-ARRETE n" 0507 du 28 juillet 1969 portant  classement général des éIèves de deuxième  année du cycle d,études n-B , de
-
-l'Ecole nationale  d'administration  pour  l,année 1969.
-
-Anrrcle  pREMTER. -A I'issue de leur scolarité à l,Ecole natio nale d'administration, le classement  général  des élèves au cycÈ d'études  ,, B- >,.  ayant obtenu une moyenne  générale  égale  ou supérieure à dix sur vingt est établi cornme suit par série,  sec_
-
-tion et ordre de mérite.
-
-Ô!: ôerte  lurutrque.
-
--Section u Ad.ministration  générale,  :
-
-MM.:
-
-- Abdallahi  ould Mohameden;
-
--Brahim ouid Ismaël  ;
-
--Brahim ould Boddé;
-
--: Cheikhna  ould Sidi AIi.
-
--Section  <<  Douanes  >r:
-
-MM.:
-
-- Kane Yahya;
-
-- Ahmed ould Khlil;
-
---Sidi Mohamed  ould EIy;
-
--Moulaye  Ely ould Nah;
-
--Dallahi ould Hadj Brahim;
-
--Mamadou Kamara;
-
---Begnoug ould El Hady;
-
--
-
-- Sall Souleymane ;
-
--Mohamed  ould Ely Touezigui;
-
--Seydina Aly ould Sidi.
-
--Section  <<  Postes et  Télécommunications >, seryice général  :
-
-- Mamadou  Bardy Sall;
-
--Oumar Traoré;
-
--Ahlourahmane Ba ;
-
--Deissé Diabira ;
-
---Mohamed. ÀUauUatr  ould Meissa.
-
--Youba Fall;
-
-. Anr. 2. -Les intéressés,  déclarés  brevetés de l,Ecole nationale d'administration,  exerôeront selon l,ordre du classement, leur choix  dans les différentes  administrations utilisatrices  des corps auxquels donne vocation leur section.
-
-Ces emplois sont ceux fixés  par I'arrêté n" 428/MET.FC.FP/ DFP du 4 juillet susvisé.
-
-ARRETE zr' 0510 du 29 juillet 1969  portant titularisation  d,un tnoniteur.
-
-ARrrcle  pREMIER. -M. Soumare Hademou, moniteur  sta. giaire  depuis  le 12 juin 1963, qui a satisfait- aux épreuves pratiques et orales  du certificat d'aptitude aux fonctions de moniteur (C.A.M.),  est titularisé €t  nommé moniteur  de 1". échelon (indice 300) pour compter du 24 janvier 1969, A.C. néant.
-
-DECRET n" 69.273  di 1*, août 1969 portant nomination  du directeur de la Fonction publique par intérim.
-
-Anrrct.e  pREMTER. -M. Baro Moctar, instituteur  de 4" échelon (indice 700), est nommé  directeur, par intérim, de la Fonction publique, pour compter  du l0 juillet 1969.
-
-i
+ARTICLE PREMIER. — M. Baro Moctar, instituteur de 4e échelon (indice 700), est nommé directeur, par intérim, de la Fonction publique, pour compter du 10 juillet 1969.
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-27 aoùt 1969
+27 août 1969
+JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+315
 
-JOURNAL OFFICIEL DE LA REPUBLIQUE  ISLAMIQUF  !E  T4gRIT4NI!
+ART. 2. — Le ministre des Finances et le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
 
-3t5
+DECRET n° 69.274 du 1er août 1969 portant nomination d'un secrétaire général par intérim.
 
-Anr. 2. -Le ministre  des Finarnces  et le ministre  de I'Enseignement technique,  de la Formation  des cadres et de la Fonciion  publique  sônt chargés, chacun en ce qui Ie concerne, de l'exécution du Présent  décret.
+ARTICLE PREMIER. — M. Diop Ousseynou, professeur de 8e échelon (ind. 1100), est nommé secrétaire général par intérim du ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique, pour la période du 15 juillet 1969 au 31 juillet 1969.
 
-DECNET n" 69.274  du I'er aaût L969 portant nomination  d'un
+ART. 2. — Le ministre des Finances et le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
 
-sec'rétaire général  Par  intérim.
+DECRET n° 69.275 du 1er août 1969 modifiant le décret n° 68.332 du 16 décembre 1968 relatif à l'organisation centrale du ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique.
 
-ARTIcLE  pREMTER. -M. Diop Ousseynou,  professeur cle 8" échelon (ind. 1100),  est nommé secrétaire  général  par int&im du miniÀtère  de 'l'Enseignement technique, de la Formation  des cadres et de la Fonction  publique,  pour la période du 15 juilleÈ t969 au 31 juillet 1969.
+ARTICLE PREMIER. — L'article 3 du décret n° 68.332 du 16 décembre 1968 fixant les attributions du ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique et l'organisation de l'administration centrale de son département est abrogé et remplacé par les dispositions suivantes :
 
-Anr. 2. Le ministre  des Finances  et le ministre  de l'Enseignement technique,  de la Formation  des cadres et de la Fonc' i"ion publiqu" tôtt  chargés,  chacun en ce qui le  .concerne,  de
+« Art. 3. — L'administration centrale du ministère de l'Enseignement technique, de la Formation des cadres et de la Fonction publique comprend :
+» — Le secrétariat général ;
+» — La direction de l'enseignement technique, de la Formation des cadres comprenant deux services :
+» 1. Le service de l'orientation et de la planification ;
+» 2. Le service des études.
+» — La direction de la Fonction publique, qui comprend deux services et quatre divisions :
+» 1. Le service des études, duquel dépendent :
+» — la division « organisation et méthodes »,
+» — la division de la législation, de la réglementation et du contentieux.
+» 2. Le service du personnel, duquel dépendent :
+» — la division de la coordination et des visas,
+» — la division du recrutement, de la formation et du perfectionnement. »
 
-j l'exécution  du Présent  décret.
+ART. 2. — Le ministre de l'Enseignement technique, de la Formation des cadres et de la Fonction publique est chargé de l'application du présent décret.
 
-DECRETn"69.275duL''"aoûtLg6gmodifiantledécret.n".68'332 --ài-to 'àécembre tg6g retatif  à l,organisation  centrale du miilrtir" de I'Enseiinemlent'techni{ue; de la Formation  des cadres  et de la Fonction Publique'
+RECTIFICATIF n° 0516 du 1er août 1969 à l'arrêté n° 269 du 21 avril 1969 portant intégration de vingt-deux mouallims sortant de l'Ecole normale.
 
-AnrrcrB  PREMTER. -L'article 3 du décret n' 68'332 du 16 décem' bre 1968 fixant  les attributions  du ministre de I'Enseignement i""tt"ià"",-â"  la Formation  des cadres et de la Fonction publià"" "t'f'oteanisation de l'administration  centrale de son dépari;";t est'abrogé er remplacé par les dispositions  suivantes:
-
-- u  Art.  3. -L'administration  centrale  du ministère de l'Enseig""-""i  fechnique,  de la Formation  des cadr:es et de la Fonction publique comprenct:
-
-, L€ secrétariat  général ;
-
--'  -La dirêction  dJ l'enseignement  technique,  de la Formation des cadres comprenant  deux services:
-
->  l. Le service de l'orientation  et de la planification;
-
-"  -la direction  de la Fonction  publique,  qui comprend  deux services et quatre divisions:
-
-,2.Le service des études.
-
-- o 1. Le service des études,  duquel dépendent:
-
-- v l4 division . organisation et méthodes  o,
-
--; -i;  àirririo"  de lâ  législation,  de la réglementation et du contentieux.
-
-,2. Le servioe du personnel, duquef dépendent:
-
->-  la division  de la coordination et des visas'
-
-;-l;  Ji"iti""  a" t"crut"*ént,'ile  la formation'et  clu perfectionnement.  )>
-
-- Anr. 2. -Le ministre  de l'Enseignement technique' d9 lu n"i*âii""  des cadres et de Ia Foncti[n  publique est chargé de I'application  du  Présent  décret'
-
-RECTIFICATIF  n" 05L6 tlu l'et août 2l avrit  1969  Portant  intégration L969 à  I',arrêté n" 269 du de vingt-deux  mouallims
-
-sortant  de l'Ecole normale'
-
-ARTI0LEPREMIER._L,articlepremierdel'arrêtén"269|MET
-
-FC;Ë)ôÈi âi-iit  avfitllgOs  esr rectiflé  en ce qui concerne  El MoustaPha ould Horma:
-
-'
-
-- Au lieu de.' El Moustaptg gdd  Horma'
-
--Le reste sans changement'
-
--iir";  El Mountaka  oulâ  Mohameden  ould Horma'
-
-ARRETE  n" 05L7 d.u 2 août L969 portant,intégration  d'un mouçdid  sortant de tl'Ecole normale.
-
-Anrrcrp  PREMTBR. -M. Mohamed  ould Yacoub, titulaire du certificat d'aptitude  à I'enseignement arabe (C.A'E.A'), est int6 gré  dans le ôadre de I'Enseignement public.  Il  est nommé moulard  stagiaire  (ind. 300) pour compter drr--16 octobre  1968,  conformémàt à ltarticle 25 -du décrei n" 62.027 du 17 janvier  1962
-
-susvisé.
-
-ARRETE  n' 0520 du 6 août 1969 portant démission d'un maniteur.
-
-Anrrcm PREMTER. -Est acceptée, pour compter du 13 juin 1969,la démission  de son emploi  présentée  par M' N'Diaye Abou Diagaraf,  moniteur  dè ? échelon  (indice 330).
-
-RECTIFICATIF  n" 0522 du 6 août 1969 aux anêtés n" 406 du --i ianvier  1969, 183 du L5 mars 1969 portant  intégration de mouçdid  dans le cadre de l'enseignement  Wblia
-
-La date d'effet des arrêtés o" ,S3I*"TFCFP/DFP  du 15 mars lg69 et 006/METFCFP/DFP du 3 janvier 1969 susvisés est rectifiée  comme  suit:
-
-Au lieu de ; respectivement du l0 décembre 1968 et 15 novembre 1968,
-
-Lire:  16 octobre 1968.
-
+ARTICLE PREMIER. — L'article premier de l'arrêté n° 269/METFCFP/DFP du 21 avril 1969 est rectifié en ce qui concerne El Moustapha ould Horma :
+— Au lieu de : El Moustapha ould Horma,
+— Lire : El Mountaka ould Mohameden ould Horma.
 Le reste sans changement.
 
-ARRETE  n" 0524 du 7 aottt 1969 portant  palidation  des services militaires  d'un ouvrier  des travaux  publics.
+ARRETE n° 0517 du 2 août 1969 portant intégration d'un mouçaïd sortant de l'Ecole normale.
 
-. ARrrcLE PREMTER.' -Il  est attribué à M. Sy Hamet, ouvrier spécialisé  de 5" echelon  (indice -360),  ^un rappel- pour^:frvices ,Àilituir",  effecrués du 10 décembre I94l au 22 jutn 1943 soit: un an six mois douze  jours.
+ARTICLE PREMIER. — M. Mohamed ould Yacoub, titulaire du certificat d'aptitude à l'enseignement arabe (C.A.E.A.), est intégré dans le cadre de l'Enseignement public. Il est nommé mouçaïd stagiaire (ind. 300) pour compter du 16 octobre 1968, conformément à l'article 25 du décret n° 62.027 du 17 janvier 1962 susvisé.
 
-Anr. 2. Il  est reclassé pour compter du l*"  janvier 1969:
+ARRETE n° 0520 du 6 août 1969 portant démission d'un moniteur.
 
--Ouvrier  spécialisé  de 6" échelon  (iridice 380), S'M' cinq mois douze  jours
+ARTICLE PREMIER. — Est acceptée, pour compter du 13 juin 1969, la démission de son emploi présentée par M. N'Diaye Abou Diagaraf, moniteur de 2e échelon (indice 330).
 
-ARRETEn"0525du'8août|g6gportantintégrationd,wtétève '-^-7oùi"i"aire dans le cadrè dà t'Administration  générale'
+RECTIFICATIF n° 0522 du 6 août 1969 aux arrêtés n° 006 du 3 janvier 1969, 183 du 15 mars 1969 portant intégration de mouçaïd dans le cadre de l'enseignement public.
 
-Anrrcle  PREMTER. -M. Ba Sidy Amadou, élève fonctionnaire de l,Ecole nationale d,administration,  est intégré  dans le caore de l'administration  générale.
+La date d'effet des arrêtés n° 183/METFCFP/DFP du 15 mars 1969 et 006/METFCFP/DFP du 3 janvier 1969 susvisés est rectifiée comme suit :
+Au lieu de : respectivement du 10 décembre 1968 et 15 novembre 1968,
+Lire : 16 octobre 1968.
+Le reste sans changement.
 
-Ilestnomméettitularisésecrétaired'administrationgénâ .ur"- à"-  3; classe,  1'" échelon  (indice-  250) pour -cgmptel  .qtl j;;-i"iù"i 1969, conformément à'l'article  3l de la loi n" 67'169 au i8 iuiltet  1967  susvisée.
+ARRETE n° 0524 du 7 août 1969 portant validation des services militaires d'un ouvrier des travaux publics.
 
-Anr.2.-L'intéresséresteàlachargeduministèredel'Equipement  jusqu'au 3l decembre 1969'
+ARTICLE PREMIER. — Il est attribué à M. Sy Hamet, ouvrier spécialisé de 5e échelon (indice 360), un rappel pour services militaires effectués du 10 décembre 1941 au 22 juin 1943 soit : un an six mois douze jours.
 
-ARRETE n. 0526 du 8 août |969  portant.intégration  d,un.élève *' t#"înï""ïui"ir-  ti- iadre  de t,adminisffation  générate.
+ART. 2. — Il est reclassé pour compter du 1er janvier 1969 :
+Ouvrier spécialisé de 6e échelon (indice 380), S.M. cinq mois douze jours.
 
-Anrtcrr  PREMTER. -M. Mohameden ould Abeid'  élève- fonc' tion"uitË a" l'Ecole nati'onale d'administration'  est intégré  dans i. "ua." de I'administration  générale'
+ARRETE n° 0525 du 8 août 1969 portant intégration d'un élève fonctionnaire dans le cadre de l'Administration générale.
+
+ARTICLE PREMIER. — M. Ba Sidy Amadou, élève fonctionnaire de l'Ecole nationale d'administration, est intégré dans le cadre de l'administration générale.
+Il est nommé et titularisé secrétaire d'administration générale de 3e classe, 1er échelon (indice 250) pour compter du 1er juillet 1969, conformément à l'article 31 de la loi n° 67.169 du 18 juillet 1967 susvisée.
+
+ART. 2. — L'intéressé reste à la charge du ministère de l'Equipement jusqu'au 31 décembre 1969.
+
+ARRETE n° 0526 du 8 août 1969 portant intégration d'un élève fonctionnaire dans le cadre de l'administration générale.
+
+ARTICLE PREMIER. — M. Mohameden ould Abeid, élève fonctionnaire de l'Ecole nationale d'administration, est intégré dans le cadre de l'administration générale.
 
 [[END OF PAGE 25]]
 
