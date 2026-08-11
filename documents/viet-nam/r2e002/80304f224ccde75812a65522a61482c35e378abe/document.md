@@ -126,7 +126,7 @@ This is an unofficial English translation by International IDEA's Constitution b
 
 [[START OF PAGE 6]]
 
-- The National Emblem is circular in shape; in the middle of a red background is a fivepointed gold star framed by rice ears below which is half a cog wheel and the inscription "Socialist Republic of Vietnam".
+- The National Emblem is circular in shape; in the middle of a red background is a five-pointed gold star framed by rice ears below which is half a cog wheel and the inscription "Socialist Republic of Vietnam".
 
 - The national anthem of the Socialist Republic of Vietnam is the music and words of the "March to the Front".
 
@@ -204,11 +204,13 @@ Every one has the right to live. Human life is protected by the law. No one shal
 
 - Everyone is entitled to the inviolability of his domicile. No one is allowed to
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org enter the domicile of another person without his consent.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+enter the domicile of another person without his consent.
 
 - Domiciliary searches shall be provided by the statute.
 
@@ -246,11 +248,13 @@ The citizen, shall, upon reaching the age of eighteen, have the right to vote, a
 
 - The State shall create conditions for the citizen to participate in the administration
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org of  the  State  and  management  of  society;  the  receipt  and  response  to  citizen's opinion and recommendation shall be public and transparent.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+of the State and management of society; the receipt and response to citizen's opinion and recommendation shall be public and transparent.
 
 ### Article 29
 
@@ -278,11 +282,13 @@ The citizen, shall, upon reaching the age of eighteen, have the right to vote wh
 
 - Any person who has been arrested, held in custody, prosecuted, brought to trial, and sent in jail in violation of the law shall be entitled to damages for any material harm suffered and his reputation shall be rehabilitated. Anybody who contravenes
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org the law in arresting, holding in custody, prosecuting, bringing to trial, and sending in  jail  another  person  thereby  causing  him  damage  shall  be  dealt  with  in accordance to the law.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+the law in arresting, holding in custody, prosecuting, bringing to trial, and sending in jail another person thereby causing him damage shall be dealt with in accordance to the law.
 
 ### Article 32.
 
@@ -362,11 +368,14 @@ To betray one's Fatherland is the most serious crime.
 
 ### Article 45.
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org It is the sacred duty and the noble right of the citizen to defend his Fatherland. The citizen must fulfil his military obligation and join in the all-people national defence.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+It is the sacred duty and the noble right of the citizen to defend his Fatherland.
+The citizen must fulfil his military obligation and join in the all-people national defence.
 
 ### Article 46.
 
@@ -392,17 +401,19 @@ The  Socialist  Republic  of  Vietnam  constructs  an  independent  and  soverei
 
 ### Article 51.
 
-- The  Vietnamese  economy  is  a  socialist-oriented  market  economy  with  multiforms of ownership and multi-sectors of economic structure; the state economic sector plays the leading role.
+- The Vietnamese economy is a socialist-oriented market economy with multi-forms of ownership and multi-sectors of economic structure; the state economic sector plays the leading role.
 
-- All economic sectors are important constituents of the national economy. Actors of  different  economic  sectors  are  equal,  cooperate,  and  compete  in  accordance
+- All economic sectors are important constituents of the national economy. Actors of different economic sectors are equal, cooperate, and compete in accordance
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org with the law.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- The State encourages, provide favorable conditions for entrepreneurs, enterprises and  individuals,  and  other  organizations  to  invest,  produce,  and  do  business, contributing  to  the  stable  development  of  the  economic  branches  and  national construction.  Private  possessions  of  individuals,  organizations  of  investment, production,  and  business  are  protected  by  the  law  and  are  not  subjected  to nationalization.
+with the law.
+
+- The State encourages, provide favorable conditions for entrepreneurs, enterprises and individuals, and other organizations to invest, produce, and do business, contributing to the stable development of the economic branches and national construction. Private possessions of individuals, organizations of investment, production, and business are protected by the law and are not subjected to nationalization.
 
 ### Article 52.
 
@@ -532,11 +543,13 @@ The State shall build a revolutionary people's police which shall be a well-trai
 
 The  State  shall  develop  to  the  full  the  people's  patriotism  and  revolutionary heroism, educate the entire people in matters of national defence and security, build up the  national-defence  industry  to  ensure  proper  equipment  for  the  armed  forces.  It  shall
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org harmonize  national  defence  with  the  economy  and  vice  versa,  enforce  an  appropriate policy with regard to soldiers' families, and seek to ensure proper material and spiritual living  conditions  for  officers  and  soldiers,  national-defence  workers  and  employees  in consistence  with  the  nature  of  military  and  policing  activities.  It  shall  build  powerful people's armed forces and unceasingly reinforce the country's national-defence potential.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+harmonize national defence with the economy and vice versa, enforce an appropriate policy with regard to soldiers' families, and seek to ensure proper material and spiritual living conditions for officers and soldiers, national-defence workers and employees in consistence with the nature of military and policing activities. It shall build powerful people's armed forces and unceasingly reinforce the country's national-defence potential.
 
 ## CHAPTER V. THE NATIONAL ASSEMBLY
 
@@ -554,7 +567,7 @@ The National Assembly has the following duties and powers:
 
 - To exercise supreme control over conformity to the Constitution, the law and the  resolutions  of  the  National  Assembly,  to  examine  the  reports  of  the  State President, the Standing Committee of the National Assembly, the Government, the  Supreme  People's  Court,  the  Supreme  People's  Procuracy,  the  National Commission  of  Election,  the  State  Audit,  and  other  organs  created  by  the National Assembly;
 
-- To decide on the objectives, targets, policies, and duties of the national socioeconomic development.
+- To decide on the objectives, targets, policies, and duties of the national socio-economic development.
 
 - To decide on the fundamental national financial and monetary policies; to set, change, or abolish taxes; to decide on the separation of items of incomes and expenditure  between  central  budget  and  local  budget;  to  decide  on  the  safety limit of national debt, public debt, and government debt; to decide on planning of  the  State  budget  and  allocation  of  the  central  State  budget,  to  approve  the accounts of the State budget.
 
@@ -562,13 +575,15 @@ The National Assembly has the following duties and powers:
 
 - To regulate the organization and activity of the National Assembly, the State President,  the  Government,  the  People's  Courts,  the  People's  Procuracy,  the National  Council  of  Election.,  the  State  Audit,  local  governments,  and  other organs created by the National Assembly.
 
-- To elect, release from duty, remove from office the State President and VicePresident,  the  Chairman  of  the  National  Assembly,  the  Vice-Chairmen  and
+- To elect, release from duty, remove from office the State President and Vice-President, the Chairman of the National Assembly, the Vice-Chairmen and
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org members  of  the  Standing  Committee  of  the  National  Assembly,  the  Prime Minister, the President of the Supreme People's Court, the Head of the Supreme People's Procuracy, the President of the National Council of Election, the Head of  the  State  Audit,  and  the  heads  of  other  organs  created  by  the  National Assembly; to sanction the proposals of appointment, release from duty, remove from  office  the  Vice-Prime  Minister,  Ministers  and  other  members  of  the Government,  judges  of  the  People's  Supreme  Court;    sanction  the  list  of members of the Defence and Security Council and of the National Council of Election.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+members of the Standing Committee of the National Assembly, the Prime Minister, the President of the Supreme People's Court, the Head of the Supreme People's Procuracy, the President of the National Council of Election, the Head of the State Audit, and the heads of other organs created by the National Assembly; to sanction the proposals of appointment, release from duty, remove from office the Vice-Prime Minister, Ministers and other members of the Government, judges of the People's Supreme Court; sanction the list of members of the Defence and Security Council and of the National Council of Election.
 
 Upon election, the State President, the Chairman of the National Assembly, the Prime Minister, and the President of the Supreme People's Court must declare oath of allegiance to the Fatherland, the People, and the Constitution.
 
@@ -628,13 +643,15 @@ The Standing Committee of the National Assembly has the following duties and pow
 
 - To supervise the implementation of the Constitution, the law, the resolutions of the National Assembly, decree-laws, the resolutions of the Standing Committee; to  supervise  the  activities  of  the  Government,  the  Supreme  People's  Court,  the
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org Supreme  People's  Procuracy,  State  Audit,  and  other  organs  created  by  the National Assembly.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-- To suspend the execution of the formal written orders of the Government, the Prime Minister, the Supreme People's Court, the Supreme People's Procuracy that contravene the Constitution, the law, the resolutions of the National Assembly; to report the matter to the National Assembly for it to decide the abrogation of such orders in its nearest session; to repeal the written orders of the Government, Prime Minister,  the  Supreme  People's  Court,  the  Supreme  People's  Procuracy  that contravene the decree-laws and resolutions of the Standing Committee;
+Supreme People's Procuracy, State Audit, and other organs created by the National Assembly.
+
+- To suspend the execution of the formal written orders of the Government, the Prime Minister, the Supreme People's Court, the Supreme People's Procuracy that contravene the Constitution, the law, the resolutions of the National Assembly; to report the matter to the National Assembly for it to decide the abrogation of such orders in its nearest session; to repeal the written orders of the Government, Prime Minister, the Supreme People's Court, the Supreme People's Procuracy that contravene the decree-laws and resolutions of the Standing Committee;
 
 - To direct, harmonize, and co-ordinate the activities of the Nationalities Council and the Committees of the National Assembly, to give guidance to, and to ensure good working conditions for the Assembly delegates.
 
@@ -666,7 +683,7 @@ This is an unofficial English translation by International IDEA's Constitution b
 
 - The Chairman of the Nationalities Council is elected by the National Assembly; Vice-Chairmen  and  the  members  of  Nationalities  Council  are  approved  by  the National Assembly's Standing Committee.
 
-- The Nationalities Council studies and makes proposals to the National Assembly on issues concerning the nationalities; supervises and controls the implementation of  policies  on  nationalities,  the  execution  of  programmes  and  plans  for  socioeconomic  development  of  the  highlands  and  regions  inhabited  by  national minorities.
+- The Nationalities Council studies and makes proposals to the National Assembly on issues concerning the nationalities; supervises and controls the implementation of policies on nationalities, the execution of programmes and plans for socio-economic development of the highlands and regions inhabited by national minorities.
 
 - The  Chairman  of  the  Nationalities  Council  shall  be  invited  to  sit  in  on  the Government's meetings at which are discussed ways of putting into effect policies on nationalities. In promulgation of decisions related to nationalities policies, the Government must consult the Nationalities Council.
 
@@ -674,7 +691,7 @@ This is an unofficial English translation by International IDEA's Constitution b
 
 ### Article 76.
 
-- A  Committee  of  the National  Assembly  comprises  a  Chairman,  vicechairmen, and members. The Chairman is elected by the National Assembly; The Vice-Chairmen and the members are approved by the National Assembly's Standing Committee.
+- A Committee of the National Assembly comprises a Chairman, vice-chairmen, and members. The Chairman is elected by the National Assembly; The Vice-Chairmen and the members are approved by the National Assembly's Standing Committee.
 
 - The Committees of the National Assembly check draft laws, make proposals concerning laws, draft decree-laws and other drafts, and reports entrusted to them by the National Assembly or its Standing Committee; supervise within the bounds determined by law; make proposals concerning issues within their fields of activity.
 
@@ -716,11 +733,13 @@ In case of need, the National Assembly creates provisional committees to examine
 
 A member of the National Assembly cannot be arrested or prosecuted without the
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org consent of the National Assembly and, in the intervals between its sessions, without the consent of its Standing Committee; in case of a flagrant offence and the deputy is taken into temporary custody, the organ effecting his arrest must immediately report the facts to the  National  Assembly  or  its  Standing  Committee  for  it  to  examine  them  and  take  a decision.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+consent of the National Assembly and, in the intervals between its sessions, without the consent of its Standing Committee; in case of a flagrant offence and the deputy is taken into temporary custody, the organ effecting his arrest must immediately report the facts to the National Assembly or its Standing Committee for it to examine them and take a decision.
 
 ### Article 82
 
@@ -780,17 +799,19 @@ The State President has the following duties and powers:
 
 2. To propose to the National Assembly to elect, release from duty, remove from office  the  Vice-President  of  the  State  and  the  Prime  Minister;  on  the  basis  of resolutions  of  the  National  Assembly,  to  appoint,  release  from  duty  or  dismiss
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org Deputy Prime Ministers, Ministers and other members of the Government;
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-- To propose to the National Assembly to elect, release from duty, remove from office, the President of the Supreme People's Court and the Head of the Supreme People's  Procuracy;  on  the  basis  of  resolutions  of  the  National  Assembly,  to appoint, to release from duty, and to remove from office, judges of the Supreme People's  Court;  to  appoint,  to  release  from  duty,  and  to  remove  from  office, judges  of  other  courts  and  Vice-Head  of  the  Supreme  People's  Procuracy,  and procurators of the Supreme People's Procuracy; to grant pardons; on the basis of resolutions of the National Assembly, proclaim to proclaim an amnesty;
+Deputy Prime Ministers, Ministers and other members of the Government;
+
+- To propose to the National Assembly to elect, release from duty, remove from office, the President of the Supreme People's Court and the Head of the Supreme People's Procuracy; on the basis of resolutions of the National Assembly, to appoint, to release from duty, and to remove from office, judges of the Supreme People's Court; to appoint, to release from duty, and to remove from office, judges of other courts and Vice-Head of the Supreme People's Procuracy, and procurators of the Supreme People's Procuracy; to grant pardons; on the basis of resolutions of the National Assembly, proclaim to proclaim an amnesty;
 
 - To decide on the award of medals, badges, State prizes and State honors and distinctions; to grant Vietnamese nationality, release from Vietnamese nationality, restore Vietnamese nationality, or deprive of Vietnamese nationality.
 
-- To have overall command of the armed forces and hold the office of Chairman of the National Defence  and  Security Council; to decide on conferment, promotion,  demotion,  and  deprivation  of  army  rank  of  general,  commander-inchief,  vice-  commander-in-chief,  and  naval  commander-in-chief;  to  appoint,  to release  from  duty,  and  to  remove  from  office,  chief  of  the  general  staff,  and Chairman of Political Head Office of Vietnamese People's Army; on the basis of resolutions  of  the  National  Assembly  or  of  the  National  Assembly's  Standing Committee, to proclaim or remove the decision on the state of war; on the basis of resolutions  of  the  National  Assembly's  Standing  Committee,  to  issue  order  on general  mobilization  or  limited  mobilization,  to  declare  or  remove  the  state  of emergency;  in  cases  where  the  National  Assembly  Standing  Committee  cannot meet, to declare the state of emergency nationwide or in a locality;
+- To have overall command of the armed forces and hold the office of Chairman of the National Defence and Security Council; to decide on conferment, promotion, demotion, and deprivation of army rank of general, commander-in-chief, vice- commander-in-chief, and naval commander-in-chief; to appoint, to release from duty, and to remove from office, chief of the general staff, and Chairman of Political Head Office of Vietnamese People's Army; on the basis of resolutions of the National Assembly or of the National Assembly's Standing Committee, to proclaim or remove the decision on the state of war; on the basis of resolutions of the National Assembly's Standing Committee, to issue order on general mobilization or limited mobilization, to declare or remove the state of emergency; in cases where the National Assembly Standing Committee cannot meet, to declare the state of emergency nationwide or in a locality;
 
 - To accept foreign ambassadors extraordinary and plenipotentiary; on the basis of  resolutions  of  the  National  Assembly's  Standing  Committee,  to  appoint  and recall    ambassadors  extraordinary  and  plenipotentiary  of  Socialist  Republic  of Vietnam;  to  decide  on  the  conferment  of  titles  and  ranks  on  the  ambassadorial title; to decide on negotiation and conclusion of international treaties in the name of the State; to submit to the National Assembly for ratification and termination of international  treaties  as  provided  by  clause  14  of  Article  70;  to  decide  on ratification, joining, or termination of other international treaties in the name of the State.
 
@@ -800,11 +821,13 @@ This is an unofficial English translation by International IDEA's Constitution b
 
 - The National Defence and Security Council shall operate as a collegium and
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org take its decisions by a vote of the majority.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+
+take its decisions by a vote of the majority.
 
 - The  National Defence  and  Security Council proposes to the National Assembly to decide on the state of war, and in case the National Assembly cannot meet, proposes to the National Assembly's Standing to decide on that; mobilizes  all  forces  and  potentialities  of  the  country  for  national  defence; exercises  special  duties  and  powers  entrusted  by  the  National  Assembly  in case  of  war;  decides  on  the  participation  of  the  armed  forces  in  activities contributing to the protections of peace in the region and in the world.
 
@@ -834,11 +857,13 @@ In  case  of  vacancy  of  the  State  Presidency,  the  Vice-President  shall  
 
 ### Article 94
 
-This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org The Government is the executive organ of the National Assembly, exercise the executive  power,  and  is  the  highest  organ  of  State  administration  of  the  Socialist Republic of Vietnam.
+This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+The Government is the executive organ of the National Assembly, exercise the executive  power,  and  is  the  highest  organ  of  State  administration  of  the  Socialist Republic of Vietnam.
 
 The  Government  is  accountable  to  the  National  Assembly  and  shall  make  its reports to the National Assembly, its Standing Committee, and the State President.
 
@@ -922,6 +947,8 @@ This is an unofficial English translation by International IDEA's Constitution b
 
 [[START OF PAGE 30]]
 
+the people on issues under their respective management.
+
 ### Article 100
 
 The Government, the Prime Minister, minsters and heads of organs of ministerial rank  shall  issue  legal  documents  to  exercise  their  duties  and  authorities,  review  the implementation of these documents, and handle illegal documents in concordance with the law.
@@ -953,8 +980,6 @@ The Chairman of the Central Committee of the Vietnamese Fatherland Front and the
 - The principle of institute legal proceeding against is guaranteed in trials.
 
 This is an unofficial English translation by International IDEA's Constitution building Programme. More information and documents on www.ConstitutionNet.org
-
-the people on issues under their respective management.
 
 [[END OF PAGE 30]]
 
@@ -1078,7 +1103,7 @@ his proposals.
 
 ### Article 116
 
-- The People's Council and the People's Committee shall make regular reports on the local situation in all fields to the Front and the mass organizations; shall listen  to  their  opinions  and  proposals  on  local  power  building  and  socioeconomic  development;  shall  cooperate  with  them  in  urging  the  people  to work  together  with  the  State  for  the  implementation  of  socio-economic, national-defence, and security tasks in the locality.
+- The People's Council and the People's Committee shall make regular reports on the local situation in all fields to the Front and the mass organizations; shall listen  to  their  opinions  and  proposals  on  local  power  building  and  socio-economic  development;  shall  cooperate  with  them  in  urging  the  people  to work  together  with  the  State  for  the  implementation  of  socio-economic, national-defence, and security tasks in the locality.
 
 - The Chairmen of the Vietnam Fatherland Front committee and the heads of mass  organizations  in  the  locality  shall  be  invited  to  attend  sessions  of  the People's  Council  and  to  attend  meetings  of  the  People's  Committee  at  the same level when relevant problems are discussed.
 
