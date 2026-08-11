@@ -52,19 +52,17 @@ La Catalogación del Magisterio Nacional, es la clasificación valorativa que el
 
 ### ARTICULO 3.
 
-El capítulo de Dignificación y catalogación del Magisterio Nacional crea un derecho tutelar que ampara y protege a todo docente
+El capítulo de Dignificación y catalogación del Magisterio Nacional crea un derecho tutelar que ampara y protege a todo docente catalogado, teniendo los siguientes fines generales:
 
-catalogado, teniendo los siguientes fines generales:
+a) Normar y mejorar la docencia nacional, y
 
-- Normar y mejorar la docencia nacional, y
+b) Propiciar la superación del magisterio guatemalteco, y fines especiales:
 
-- Propiciar la superación del magisterio guatemalteco, y fines especiales:
+a) El ordenamiento y estabilidad de sus miembros,
 
-- El ordenamiento y estabilidad de sus miembros,
+b) Su responsabilidad y tecnificación profesional, y
 
-- Su responsabilidad y tecnificación profesional, y
-
-- Su perfeccionamiento cultural y dignificación económico-social.
+c) Su perfeccionamiento cultural y dignificación económico-social.
 
 ### ARTICULO 4.*
 
@@ -100,29 +98,29 @@ De la clasificación del personal
 
 ### ARTICULO 5.
 
-El  capítulo  de  dignificación  y  catalogación  del  Magisterio  Nacional  abarca  y  protege  a  las  personas  que profesionalmente se dedican al magisterio, en los siguientes niveles o área de trabajo:
+El capítulo de dignificación y catalogación del Magisterio Nacional abarca y protege a las personas que profesionalmente se dedican al magisterio, en los siguientes niveles o área de trabajo:
 
-- Educación pre-primaria,
+a) Educación pre-primaria,
 
-- Educación primaria,
+b) Educación primaria,
 
-- Educación secundaria y normal,
+c) Educación secundaria y normal,
 
-- Educación vocacional y técnica,
+d) Educación vocacional y técnica,
 
-- Educación especial, y
+e) Educación especial, y
 
-- Técnicos o técnico-administrativo.
+f) Técnicos o técnico-administrativo.
 
 ### ARTICULO 6.
 
 El nivel de Educación pre-primaria comprende:
 
-- Centros de Bienestar Infantil,
+a) Centros de Bienestar Infantil,
 
-- Escuelas para párvulos y jardines infantiles, y
+b) Escuelas para párvulos y jardines infantiles, y
 
-- Las demás que se crearen dentro de este nivel.
+c) Las demás que se crearen dentro de este nivel.
 
 ### ARTICULO 7.
 
@@ -132,37 +130,37 @@ DECRETO DEL CONGRESO 1485
 
 #### ESCUELAS
 
-- Primarias rurales,
+a) Primarias rurales,
 
-- Primarias urbanas,
+b) Primarias urbanas,
 
-- De educación fundamental,
+c) De educación fundamental,
 
-- Nocturnas para adultos,, y
+d) Nocturnas para adultos, y
 
-- Las demás que se crearen dentro de este nivel.
+e) Las demás que se crearen dentro de este nivel.
 
 ### ARTICULO 8.
 
-El nivel de Educación secundaria y norma comprende:
+El nivel de Educación secundaria y normal comprende:
 
 #### INSTITUTOS O ESCUELAS
 
-- Prevocacionales,
+a) Prevocacionales,
 
-- De bachillerato
+b) De bachillerato,
 
-- Normales urbanas,
+c) Normales urbanas,
 
-- Normales de maestras para párvulos,
+d) Normales de maestras para párvulos,
 
-- Normal de educación física,
+e) Normal de educación física,
 
-- Normal de educación musical,
+f) Normal de educación musical,
 
-- Normales rurales, y
+g) Normales rurales, y
 
-- Las demás que se crearen dentro de este nivel.
+h) Las demás que se crearen dentro de este nivel.
 
 ### ARTICULO 9.
 
@@ -178,15 +176,15 @@ El nivel de Educación vocacional y técnica comprende:
 
 #### ESCUELAS DE
 
-- Ciencias comerciales,
+a) Ciencias comerciales,
 
-- Educación para el hogar,
+b) Educación para el hogar,
 
-- Educación artística: Artes plásticas, artes escénicas, música, danza,
+c) Educación artística: Artes plásticas, artes escénicas, música, danza,
 
-- Técnico-industriales, y
+d) Técnico-industriales, y
 
-- Las demás que se crearen dentro de este nivel.
+e) Las demás que se crearen dentro de este nivel.
 
 DECRETO DEL CONGRESO 1485
 ### ARTICULO 10.
@@ -195,33 +193,33 @@ El nivel de Educación especial comprende:
 
 #### ESCUELAS PARA
 
-- Niños de conducta irregular (Ciudad de los Niños), y
+a) Niños de conducta irregular (Ciudad de los Niños), y
 
-- Los demás que se crearen.
+b) Los demás que se crearen.
 
 ### ARTICULO 11.
 
 El área de trabajo técnico y técnico-administrativo comprende:
 
-- Consejo técnico de educación
+a) Consejo técnico de educación
 
-- Directores generales, directores de áreas o jefes de dependencias técnicas: o técnicas-administrativas,
+b) Directores generales, directores de áreas o jefes de dependencias técnicas o técnico-administrativas,
 
-- Jefes o encargados de sección.
+c) Jefes o encargados de sección.
 
-- Supervisores técnicos
+d) Supervisores técnicos
 
-- Directores o encargados de publicaciones de tipo docente del Ministerio del Ramo,
+e) Directores o encargados de publicaciones de tipo docente del Ministerio del Ramo,
 
-- Directores y subdirectores de establecimientos de enseñanza posprimaria,
+f) Directores y subdirectores de establecimientos de enseñanza posprimaria,
 
-- Directores de bibliotecas al servicio de la docencia o de la escuela,
+g) Directores de bibliotecas al servicio de la docencia o de la escuela,
 
-- Profesores auxiliares de establecimientos de posprimaria,
+h) Profesores auxiliares de establecimientos de posprimaria,
 
-- Secretarios de establecimientos de posprimaria, y
+i) Secretarios de establecimientos de posprimaria, y
 
-- Las demás dependencias que se crearen entro de este nivel.
+j) Las demás dependencias que se crearen dentro de este nivel.
 
 ## CAPITULO III
 
@@ -229,35 +227,31 @@ De las categorías titulares
 
 ### ARTICULO 12.
 
-La clasificación exigida para el ejercicio de la profesión en los distintos niveles o áreas de trabajo es, en orden de precedencia la que
+La clasificación exigida para el ejercicio de la profesión en los distintos niveles o áreas de trabajo es, en orden de precedencia la que sigue:
 
-sigue:
+I) En el nivel de educación pre-primaria: En escuelas para párvulos o jardines infantiles y demás centros de este nivel.
 
-- En el nivel de educación pre-primaria: En escuelas para párvulos o jardines infantiles y demás centros de este nivel.
+a) Maestras de educación primaria especializadas en Educación de párvulos,
 
-- Maestras de educación primaria especializadas en Educación de párvulos,
+b) Maestras tituladas en Educación de párvulos, y
 
-- Maestras tituladas en Educación de párvulos, y
+c) Maestras diplomadas en Educación de párvulos
 
-- Maestras diplomadas en Educación de párvulos
-
-- II) En el nivel de Educación primaria:
+II) En el nivel de Educación primaria:
 
 DECRETO DEL CONGRESO 1485
 
-- En  escuelas  rurales:  Maestros  de  Educación  primaria,  maestros  de  educación  primaria  rural,  maestro  titulado especializado en
+a) En escuelas rurales: Maestros de Educación primaria, maestros de educación primaria rural, maestro titulado especializado en Educación rural, maestro titulado rural, preceptor normal,
 
-- Educación rural, maestro titulado rural, preceptor normal,
+b) En escuelas urbanas: Maestro de Educación primaria urbana, y
 
-- En escuelas urbanas: Maestro de Educación primaria urbana, y
+c) En centros de Educación fundamental: Maestros de Educación primaria urbana o rural.
 
-- En centros de Educación fundamental: Maestros de Educación primaria urbana o rural.
+III) En el nivel de Educación secundaria y normal: Profesores titulados de segunda enseñanza o maestros de Educación primaria diplomados en segunda enseñanza.
 
-- III)  En  el  nivel  de  Educación  secundaria  y  normal:  Profesores  titulados  de  segunda  enseñanza  o  maestros  de Educación primaria diplomados en segunda enseñanza.
+IV) En el nivel de Educación vocacional y técnica:
 
-- IV) En el nivel de Educación vocacional y técnica:
-
-- Profesores de segunda enseñanza
+a) Profesores de segunda enseñanza
 
 3
 
@@ -267,41 +261,37 @@ DECRETO DEL CONGRESO 1485
 
 LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
 
-- Profesores o maestros con la especialidad respectiva, y
+b) Profesores o maestros con la especialidad respectiva, y
 
-- Maestros de Educación primaria con experiencia comprobada en este nivel.
+c) Maestros de Educación primaria con experiencia comprobada en este nivel.
 
-- En el nivel de educación especial: Profesores o maestros con la especialización respectiva.
+V) En el nivel de educación especial: Profesores o maestros con la especialización respectiva.
 
-- VI) En el área de trabajo técnico o técnico-administrativo:
+VI) En el área de trabajo técnico o técnico-administrativo:
 
-- Para asesores técnicos, directores generales, directores de nivel o jefes de departamentos técnicos: doctores o licenciados en
+a) Para asesores técnicos, directores generales, directores de nivel o jefes de departamentos técnicos: doctores o licenciados en pedagogía y ciencias de la Educación, así como también ser licenciado en filosofía, historia, letras o ser profesores de segunda enseñanza en ciencias de la Educación, con experiencia comprobada previamente, en un mínimo de experiencia en la enseñanza nacional de cinco o bien siete años de egresado de la Universidad, maestros de Educación primaria de la clase "E".
 
-pedagogía y ciencias de la Educación, así como también ser licenciado en filosofía, historia, letras o ser profesores de segunda enseñanza en ciencias de la Educación, con experiencia comprobada previamente, en un mínimo de experiencia  en  la  enseñanza  nacional  de  cinco  o  bien  siete  años  de  egresado  de  la  Universidad,  maestros  de Educación primaria de la clase "E". b) Para jefes de dependencias técnicas o técnico-administrativas, encargados de sección, jefes de sección o de zona: doctores o licenciados en pedagogía o en ciencias de la Educación, profesores de segunda enseñanza en ciencias de la Educación, o maestros de Educación primaria, especializados en segunda enseñanza, en ambos casos se requiere un mínimo de experiencia igual al exigido en el inciso anterior y además, especialización o capacitación en la técnica administrativa, maestros de Educación primaria de la Clase "D".
+b) Para jefes de dependencias técnicas o técnico-administrativas, encargados de sección, jefes de sección o de zona: doctores o licenciados en pedagogía o en ciencias de la Educación, profesores de segunda enseñanza en ciencias de la Educación, o maestros de Educación primaria, especializados en segunda enseñanza, en ambos casos se requiere un mínimo de experiencia igual al exigido en el inciso anterior y además, especialización o capacitación en la técnica administrativa, maestros de Educación primaria de la Clase "D".
 
-- Para supervisores en los distintos niveles educativos, doctores o licenciados en pedagogía o en ciencias de la Educación, profesores de segunda enseñanza en ciencias de la Educación graduados en supervisión escolar en el nivel educativo de que se trate, profesores o maestros con la especialización respectiva. En los tres últimos casos deberán pertenecer por lo menos a la Clase "C", maestros de Educación primaria de la Clase "C".
+c) Para supervisores en los distintos niveles educativos, doctores o licenciados en pedagogía o en ciencias de la Educación, profesores de segunda enseñanza en ciencias de la Educación graduados en supervisión escolar en el nivel educativo de que se trate, profesores o maestros con la especialización respectiva. En los tres últimos casos deberán pertenecer por lo menos a la Clase "C", maestros de Educación primaria de la Clase "C".
 
-- Para directores o subdirectores de los siguientes establecimientos de enseñanza:
+d) Para directores o subdirectores de los siguientes establecimientos de enseñanza:
 
-- De escuelas para párvulos o jardines infantiles: Maestras de Educación primaria especializadas en la Educación de párvulos, o maestras especializadas en párvulos, con un mínimo de experiencia docente en el país de cinco años.
+1) De escuelas para párvulos o jardines infantiles: Maestras de Educación primaria especializadas en la Educación de párvulos, o maestras especializadas en párvulos, con un mínimo de experiencia docente en el país de cinco años.
 
-- De escuelas primarias rurales: Maestros de Educación primaria rural, con un mínimo de experiencia docente en el país, de cinco años.
+2) De escuelas primarias rurales: Maestros de Educación primaria rural, con un mínimo de experiencia docente en el país, de cinco años.
 
-- De escuelas primarias urbanas: Maestros de Educación primaria, con un mínimo de experiencia docente en el país de cinco años.
+3) De escuelas primarias urbanas: Maestros de Educación primaria, con un mínimo de experiencia docente en el país de cinco años.
 
-- De  escuelas  normales  para  maestros  de  Educación  primaria  urbana,  institutos  y  demás  establecimientos  de posprimaria: Doctores
+4) De escuelas normales para maestros de Educación primaria urbana, institutos y demás establecimientos de posprimaria: Doctores o licenciados en pedagogía o ciencias de la Educación, profesores de segunda enseñanza en ciencias de la Educación, con un mínimo de experiencia en la docencia del país de cinco años, o maestros de educación primaria urbana diplomados en segunda enseñanza y que pertenezcan por lo menos a la Clase "C".
 
-- o  licenciados  en  pedagogía  o  ciencias  de  la  Educación,  profesores  de  segunda  enseñanza  en  ciencias  de  la Educación, con un mínimo de experiencia en la docencia del país de cinco años, o maestros de educación primaria urbana diplomados en segunda enseñanza y que pertenezcan por lo menos a la Clase "C".
+5) De las escuelas normales para maestros de Educación primaria rural: Doctores o licenciados en pedagogía o en ciencia de la Educación que pertenezcan por lo menos a la Clase "C", o maestros de Educación primaria rural, maestros de Educación primaria urbana, maestro especializado en Educación rural que comprueben tener un historial distinguido y que pertenezcan a la Clase "D".
 
-- De las escuelas normales para maestros de Educación primaria rural: Doctores o licenciados en pedagogía o en ciencia  de  la  Educación  que  pertenezcan  por  lo  menos  a  la  Clase  "C",  o  maestros  de  Educación  primaria  rural, maestros  de  Educación  primaria  urbana,  maestro  especializado  en  Educación  rural  que  comprueben  tener  un historial distinguido y que pertenezcan a la Clase "D".
-
-- De escuelas de ciencias comerciales: Doctores o licenciados en ciencias económicas o ciencias comerciales, o ambas  con  título  docente  en  segunda  enseñanza,  profesores  de  segunda  enseñanza  en  ciencias  económicas  y contables,  maestros  de  Educación  primaria  especializados  en  segunda  enseñanza  en  ciencias  económicas  y contables, peritos contadores que tengan titulo docente. En los dos primeros casos (doctores o licenciados), deben comprobar un mínimo de experiencia en la docencia del país, de cinco años, en los otros casos, deben pertenecer cuando menos a la Clase "C".
+6) De escuelas de ciencias comerciales: Doctores o licenciados en ciencias económicas o ciencias comerciales, o ambas con título docente en segunda enseñanza, profesores de segunda enseñanza en ciencias económicas y contables, maestros de Educación primaria especializados en segunda enseñanza en ciencias económicas y contables, peritos contadores que tengan título docente. En los dos primeros casos (doctores o licenciados), deben comprobar un mínimo de experiencia en la docencia del país, de cinco años, en los otros casos, deben pertenecer cuando menos a la Clase "C".
 
 DECRETO DEL CONGRESO 1485
 
-- De escuelas normales para maestros de Educación física: Doctores o licenciados en pedagogía o en ciencias de la  educación  física  o  simplemente  en  ciencias  d  la  Educación:  Profesores  de  segunda  enseñanza  en  Educación física con mínimo de experiencia en la docencia del país de cinco años: maestros de educación primaria urbana con título de maestro de Educación física, maestros
-
-titulados en Educación física. En los dos últimos casos, deberán pertenecer por lo menos a la Clase "C".
+7) De escuelas normales para maestros de Educación física: Doctores o licenciados en pedagogía o en ciencias de la educación física o simplemente en ciencias de la Educación: Profesores de segunda enseñanza en Educación física con mínimo de experiencia en la docencia del país de cinco años: maestros de educación primaria urbana con título de maestro de Educación física, maestros titulados en Educación física. En los dos últimos casos, deberán pertenecer por lo menos a la Clase "C".
 
 4
 
@@ -311,29 +301,25 @@ titulados en Educación física. En los dos últimos casos, deberán pertenecer 
 
 LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
 
-- De institutos o escuelas industriales: Ingenieros industriales especializados en segunda enseñanza, profesores de segunda enseñanza especializados en enseñanza industrial. En el segundo caso, deberán pertenecer por lo menos, a la Clase "C", en tercero
+8) De institutos o escuelas industriales: Ingenieros industriales especializados en segunda enseñanza, profesores de segunda enseñanza especializados en enseñanza industrial, maestros de Educación primaria especializados en artes industriales. En el segundo caso, deberán pertenecer por lo menos, a la Clase "C", en el tercero a la Clase "D".
 
-- a la Clase "D".
+9) De escuelas de artes y oficios femeniles o de Educación para el hogar: Profesores especializados en segunda enseñanza o maestros de Educación primaria, todos con experiencia comprobada en la disciplina correspondiente no menor de cinco años.
 
-- De escuelas de artes y oficios femeniles o de Educación para el hogar: Profesores especializados en segunda enseñanza o maestros de Educación primaria, todos con experiencia comprobada en la disciplina correspondiente no menor de cinco años.
+10) De escuelas de Educación artística: Profesores de segunda enseñanza con experiencia docente no menor de cinco años o maestros de Educación primaria con experiencia de diez años, por lo menos, en la especialidad respectiva.
 
-- De escuelas de Educación artística: Profesores de segunda enseñanza con experiencia docente no menor de cinco  años  o  maestros  de  Educación  primaria  con  experiencia  de  diez  años,  por  lo  menos,  en  la  especialidad respectiva.
+11) De escuelas normales de maestras para párvulos o de otros establecimientos de categoría similar: Doctores o licenciados graduados en la especialidad que se requiera o maestras especializadas en la Educación de párvulos que pertenezcan, por lo menos a la Clase "C",
 
-- De escuelas normales de maestras para párvulos o de otros establecimientos de categoría similar: Doctores o licenciados graduadas en la especialidad que se requiera o maestras especializadas en la Educación de párvulos que pertenezcan, por lo menos
+e) Para profesores auxiliares de establecimientos de enseñanza posprimaria: Doctores o licenciados en pedagogía o en ciencias de la educación, profesores de segunda enseñanza que pertenezcan, por lo menos, a la Clase "C", o maestros de Educación primaria urbana escalafonados en posprimaria y que pertenezcan, por lo menos, a la Clase "C".
 
-- a la Clase "C",
+f) Para directores o encargados específicos de publicaciones de tipo docente del Ministerio de Educación Pública: Doctores o licenciados en pedagogía o en ciencia de la Educación con experiencia no menor de cinco años en la especialidad, periodistas graduados en la Universidad de San Carlos, siempre que posean título docente, profesores de segunda enseñanza en ciencia de la Educación o maestros de Educación primaria, ambos con experiencia en la especialidad y que pertenezcan, por lo menos, a la Clase "C".
 
-- Para profesores auxiliares de establecimientos de enseñanza posprimaria: Doctore so licenciados en pedagogía o en ciencias de la educación, profesores de segunda enseñanza que pertenezcan, por lo menos, a la Clase "C", o maestros de Educación primaria urbana escalafonados en posprimaria y que pertenezcan, por lo menos, a la Clase "C".
+g) Para directores de bibliotecas al servicio de la Educación: Profesores de segunda enseñanza en ciencias de la Educación o maestros de Educación primaria, ambos con título de especialización en bibliotecología. La precedencia se determinará por el nivel respectivo en que trabajen y la relación de este nivel con el título docente que posean,
 
-- Para directores o encargados específicos de publicaciones de tipo docente del Ministerio de Educación Pública: Doctores o licenciados en pedagogía o en ciencia de la Educación con experiencia no menor de cinco años en la especialidad, periodistas graduados en la Universidad de San Carlos, siempre que posean título docente, profesores de segunda enseñanza en ciencia de la Educación o maestros de Educación primaria, ambos con experiencia en la especialidad y que pertenezcan, por lo menos, a la Clase "C".
+h) Para encargados de funciones técnicas en las que se requiera especialización: Doctores o licenciados en pedagogía o en ciencias de la Educación, licenciados en sicología: especializados en aplicación de técnicas sicológicas o especializados en otras técnicas que la Educación exija,
 
-- Para directores de bibliotecas al servicio de la Educación: Profesores de segunda enseñanza en ciencias de la Educación  o  maestros  de  Educación  primaria,  ambos  con  titulo  de  especialización  en  bibliotecología.  La precedencia se determinará por el nivel respectivo en que trabajen y la relación de este nivel con el título docente que posean,
+i) Para secretarios o contadores de establecimientos de enseñanza posprimaria: Profesores de segunda enseñanza en ciencias económico-contables, maestros de Educación primaria especializados en segunda enseñanza en ciencias económico-contables o personas graduadas en administración pública y que, además posean título docente, maestros de Educación primaria, con título de perito contador, y
 
-- Para  encargados  de  funciones  técnicas  en  las  que  se  requiera  especialización:  Doctores  o  licenciados  en pedagogía  o  en  ciencias  de  la  Educación,  licenciados  en  sicología:  especializados  en  aplicación  de  técnicas sicológicas o especializados en otras técnicas que la Educación exija,
-
-- Para secretarios o contadores de establecimientos de enseñanza posprimaria: Profesores de segunda enseñanza en ciencias económico-contables, maestros de Educación primaria especializados en segunda enseñanza en ciencias económico-contables  o  personas  graduadas  en  administración  pública  y  que,  además  posean  titulo  docente, maestros de Educación primaria, con titulo de perito contador, y
-
-- Para censores de espectáculos: Docentes titulados, con características idóneas que pertenezcan por lo menos, a la clase "C".
+j) Para censores de espectáculos: Docentes titulados, con características idóneas que pertenezcan por lo menos, a la clase "C".
 
 ## CAPÍTULO IV
 
@@ -341,15 +327,13 @@ De las categorías docentes transitorias
 
 ### ARTICULO 13.
 
-Los docentes en servicio, a la fecha de la promulgación de la presente ley, continuarán en sus cargos siempre que les  hayan  sido  adjudicados  legalmente.  Mientras  no  se  disponga  del  personal  titular  correspondiente  a  las categorías exigidas por el capítulo III, podrán ser nombrados, con
-
-carácter transitorio, los docentes mencionados, en el siguiente orden de precedencia:
+Los docentes en servicio, a la fecha de la promulgación de la presente ley, continuarán en sus cargos siempre que les hayan sido adjudicados legalmente. Mientras no se disponga del personal titular correspondiente a las categorías exigidas por el capítulo III, podrán ser nombrados, con carácter transitorio, los docentes mencionados, en el siguiente orden de precedencia:
 
 DECRETO DEL CONGRESO 1485
 
-- En el nivel de Educación preprimaria,
+I) En el nivel de Educación preprimaria,
 
-- maestros de Educación primaria.
+1) maestros de Educación primaria.
 
 5
 
@@ -359,63 +343,51 @@ DECRETO DEL CONGRESO 1485
 
 LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
 
-- Docentes que sin ser maestras de Educación primaria, tengan titulo o diploma que las habilite para la docencia parvularia.
+2) Docentes que sin ser maestras de Educación primaria, tengan título o diploma que las habilite para la docencia parvularia.
 
-- II) En el nivel de Educación primaria:
+II) En el nivel de Educación primaria:
 
 #### EN LAS ESCUELAS RURALES
 
-- maestros de séptimo año con diploma
+1) maestros de séptimo año con diploma
 
-- Maestros con certificado de aptitud urbano.
+2) Maestros con certificado de aptitud urbano.
 
-- Maestros con certificado de aptitud rural.
+3) Maestros con certificado de aptitud rural.
 
-- Maestros de sexto año.
+4) Maestros de sexto año.
 
 #### EN ESCUELAS URBANAS
 
-- 1 Docentes que sin ser maestros de Educación primaria tengan diploma expedido o reconocido por el Estado, que los habilite para la docencia primaria urbana.
+1) Docentes que sin ser maestros de Educación primaria tengan diploma expedido o reconocido por el Estado, que los habilite para la docencia primaria urbana.
 
-- 2 Docentes en servicio, con certificado de aptitud.
+2) Docentes en servicio, con certificado de aptitud.
 
-- III)  En  el  nivel  de  Educación  secundaria,  normal:  Maestros  de  Educación  primaria  con  mas  de  cinco  años  de experiencia docente que hayan aprobado en la Universidad de San Carlos de Guatemala, las materias que vayan a enseñar.
+III) En el nivel de Educación secundaria y normal: Maestros de Educación primaria con más de cinco años de experiencia docente que hayan aprobado en la Universidad de San Carlos de Guatemala, las materias que vayan a enseñar.
 
-- IV) En el nivel de Educación vocacional y técnica:
+IV) En el nivel de Educación vocacional y técnica:
 
-- maestros  de  Educación  primaria  con  más  de  cinco  años  de  experiencia  docente  o  que  hayan  aprobado  en  la Universidad de San
+1) maestros de Educación primaria con más de cinco años de experiencia docente o que hayan aprobado en la Universidad de San Carlos de Guatemala o centros de capacitación, las materias que vayan a enseñar.
 
-Carlos de Guatemala o centros de capacitación, las materias que vayan a enseñar.
+2) Personas con capacidad docente en las asignaturas que vayan a enseñar, comprobada conforme el Reglamento respectivo.
 
-- Personas con capacidad docente en las asignaturas que vayan a enseñar, comprobada conforme el Reglamento respectivo.
+3) En los establecimientos de educación artística: Artistas cuyo historial compruebe su calidad docente.
 
-- En los establecimientos de educación artística: Artistas cuyo historial compruebe su calidad docente.
+V) En el nivel de Educación especial: docentes titulados, siempre que comprueben calidades específicas, de acuerdo con el reglamento respectivo.
 
-- En  el  nivel  de  Educación  especial:  docentes  titulados,  siempre  que  comprueben  calidades  específicas,  de acuerdo con el
+VI) En el nivel de Trabajo técnico o técnico-administrativo:
 
-reglamento respectivo.
+a) Para asesores técnicos, directores generales, directores de nivel o jefes de departamentos técnicos: Profesores de segunda enseñanza que por su título, conocimientos y méritos, sean requeridos entre los que pertenezcan por lo menos, a la Clase "C", o maestros de Educación primaria, que por su experiencia, conocimiento y méritos sean requeridos, entre los que pertenezcan a la Clase "C".
 
-- VI) En el nivel de Trabajo técnico o técnico-administrativo:
+b) Para jefes de dependencias técnicas: Profesores de segunda enseñanza o maestros de Educación primaria que, por su experiencia, conocimientos y méritos, sean requeridos entre los que pertenezcan por lo menos, a la Clase "C",
 
-- Para asesores técnicos, directores generales, directores de nivel o jefes de departamentos técnicos: Profesores de segunda
+c) Para jefes de dependencias técnico-administrativas, encargados de sección, jefes de sección o de zona: Profesores de segunda enseñanza o maestros de Educación primaria que por sus conocimientos, méritos, experiencia en servicios administrativos, así como en la especialidad propia del cargo, sean requeridos entre los que pertenezcan, por lo menos a la Clase "C".
 
-enseñanza que por su título, conocimientos y méritos, sean requeridos entre los que pertenezcan por lo menos, a la Clase "C", o
+d) Para supervisores en los distintos niveles educativos: Profesores de segunda enseñanza o maestros de educación primaria, con experiencia en el nivel educativo de que se trate y que pertenezcan por lo menos, a la Clase "D".
 
-maestros de Educación primaria, que por su experiencia, conocimiento y  méritos sean requeridos, entre los que pertenezcan a la
+e) Para directores o subdirectores de los siguientes establecimientos de enseñanza:
 
-Clase "C".
-
-- Para jefes de dependencias técnicas: Profesores de segunda enseñanza o maestros de Educación primaria que, por su
-
-experiencia, conocimientos y méritos, sean requeridos entre los que pertenezcan por lo menos, a la Clase "C",
-
-- Para  jefes  de  dependencias  técnico-administrativas,  encargados  de  sección,  jefes  de  sección  o  de  zona: Profesores  de  segunda  enseñanza  o  maestros  de  Educación  primaria  que  por  sus  conocimientos,  méritos, experiencia en servicios administrativos, así como en la especialidad propia del cargo, sean requeridos entre los que pertenezcan, por lo menos a la Clase "C".
-
-- Para supervisores en los distintos niveles educativos: Profesores de segunda enseñanza o maestros de educación primaria, con experiencia en el nivel educativo de que se trate y que pertenezcan por lo menos, a la Clase "D".
-
-- Para directores o subdirectores de los siguientes establecimientos de enseñanza:
-
-- De  escuelas  para  párvulos  y  jardines  infantiles:  Maestras  tituladas  en  Educación  de  párvulos,  maestras  de Educación primaria con experiencia en Educación parvularia, entre las que pertenezcan por lo menos, a la Clase "C".
+1) De escuelas para párvulos y jardines infantiles: Maestras tituladas en Educación de párvulos, maestras de Educación primaria con experiencia en Educación parvularia, entre las que pertenezcan por lo menos, a la Clase "C".
 
 6
 
@@ -425,45 +397,39 @@ experiencia, conocimientos y méritos, sean requeridos entre los que pertenezcan
 
 LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
 
-- De  escuelas  primarias  rurales:  Maestros  de  educación  primaria  rural,  o  quienes  posean  titulo,  diploma  o certificado de aptitud
-
 DECRETO DEL CONGRESO 1485
 
-expedido o reconocido por el Estado, que los habilite para a la enseñanza primaria que pertenezcan por lo menos a la Clase "C".
+2) De escuelas primarias rurales: Maestros de educación primaria rural, o quienes posean título, diploma o certificado de aptitud expedido o reconocido por el Estado, que los habilite para la enseñanza primaria que pertenezcan por lo menos a la Clase "C".
 
-- De  escuelas  primarias  urbanas:  Maestros  de  Educación  primaria  o  los  que  sin  serlo,  posean  titulo  o  diploma reconocido por el estado, que los habilite para enseñar en la primaria y que pertenezcan por lo menos, a la Clase "C".
+3) De escuelas primarias urbanas: Maestros de Educación primaria o los que sin serlo, posean título o diploma reconocido por el Estado, que los habilite para enseñar en la primaria y que pertenezcan por lo menos, a la Clase "C".
 
-- En  escuelas  normales  para  maestros  de  Educación  primaria  urbana,  institutos  y  demás  establecimientos  de posprimaria: Maestros de Educación primaria urbana catalogados en posprimaria con un mínimo de experiencia en la docencia el país, de diez años.
+4) En escuelas normales para maestros de Educación primaria urbana, institutos y demás establecimientos de posprimaria: Maestros de Educación primaria urbana catalogados en posprimaria con un mínimo de experiencia en la docencia del país, de diez años.
 
-- De  escuelas  normales  para  maestros  de  educación  primaria  rural:  Maestros  de  Educación  primaria  rural  o maestros de Educación primaria urbana con experiencia en Educación rural. En ambos casos, deberán pertenecer por lo menos, a la Clase "B".
+5) De escuelas normales para maestros de educación primaria rural: Maestros de Educación primaria rural o maestros de Educación primaria urbana con experiencia en Educación rural. En ambos casos, deberán pertenecer por lo menos, a la Clase "B".
 
-- De  escuelas  de  ciencias  comerciales:  Doctores  o  licenciados  en  ciencias  económicas  que  hayan  ejercido  la docencia, maestros de
+6) De escuelas de ciencias comerciales: Doctores o licenciados en ciencias económicas que hayan ejercido la docencia, maestros de educación primaria urbana especializados en segunda enseñanza y con experiencia en contabilidad, peritos contadores con no menos de diez años de experiencia docente, profesores de segunda enseñanza con experiencia en contabilidad y un mínimo de diez años de servicio docente.
 
-educación  primaria  urbana  especializados  en  segunda  enseñanza  y  con  experiencia  en  contabilidad,  peritos contadores con no menos de diez años de experiencia docente, profesores de segunda enseñanza con experiencia en contabilidad y un mínimo de diez años de servicio docente.
+7) De escuelas normales de educación física: Maestros diplomados en Educación física, siempre que pertenezcan por lo menos, a la Clase "D".
 
-- De escuelas normales de educación física: Maestros diplomados en Educación física, siempre que pertenezcan por lo menos, a la Clase "D".
+8) De institutos industriales: profesores de segunda enseñanza con experiencia en la especialidad o maestros de Educación primaria especializados o con capacitación en artes industriales. En ambos casos, deberán pertenecer por lo menos a la Clase "D".
 
-- De institutos  industriales:  profesores de segunda enseñanza  con  experiencia en la especialidad o maestros de Educación primaria especializados o con capacitación en artes industriales. En ambos casos, deberán pertenecer por lo menos a la Clase "D".
+9) De escuelas de artes y oficios femeniles y de educación para el hogar: Maestras de educación primaria, con experiencia comprobada en la disciplina correspondiente,
 
-- De  escuelas  de  artes  y  oficios  femeniles  y  de  educación  para  el  hogar:  Maestras  de  educación  primaria,  con experiencia comprobada en la disciplina correspondiente,
+10) De escuelas de Educación artística: Artistas que acrediten méritos y capacidad docente en la especialidad.
 
-- De escuelas de Educación artística: Artistas que acrediten meritos y capacidad docente en la especialidad.
+11) De escuelas normales de maestras para párvulos: Docentes especializados en la Educación de párvulos y que pertenezcan por lo menos, a la Clase "D".
 
-- De escuelas normales de maestras para párvulos: Docentes especializados en la Educación de párvulos y que pertenezcan por lo menos, a la Clase "D".
+f) Para profesores auxiliares de establecimientos de enseñanza posprimaria: profesores de segunda enseñanza o maestros de Educación primaria que tengan un mínimo de experiencia docente de cinco años, para maestros auxiliares del nivel primario, maestros de educación primaria por lo menos de la Clase "C",
 
-- Para  profesores  auxiliares  de  establecimientos  de  enseñanza  posprimaria:  profesores  de  segunda  enseñanza  o maestros  de  Educación  primaria  que  tengan  un  mínimo  de  experiencia  docente  de  cinco  años,  para  maestros auxiliares del nivel primario, maestros de educación primaria por lo menos de la Clase "C",
+g) Para directores o encargados específicos de las publicaciones de tipo docente del Ministerio de Educación Pública: Docentes con experiencia y ejecutoria distinguidas en la especialidad,
 
-- Para  directores  o  encargados  específicos  de  las  publicaciones  de  tipo  docente  del  ministerio  de  Educación Pública: Docentes con
+h) Para directores de bibliotecas al servicio de la Educación: Maestros de Educación primaria con experiencia docente no menor de cinco años.
 
-- experiencia y ejecutoria distinguidas en la especialidad,
+i) Para encargados de funciones técnicas en las que se requiera especialización: Docentes de reconocidas ejecutorias en la especialidad de que se trate o que cursen los estudios relacionados con la misma,
 
-- Para directores de bibliotecas al servicio de la Educación: Maestros de Educación primaria como experiencia docente no menor de cinco años.
+j) Para secretarios de establecimientos de enseñanza posprimaria: Profesores de segunda enseñanza o maestros de Educación primaria, en ambos casos con experiencia no menor de cinco años y capacidad comprobada en la administración pública y en la especialidad contable, y
 
-- Para  encargados  de  funciones  técnicas  en  las  que  se  requiera  especialización:  Docentes  de  reconocidas ejecutorias en al especialidad de que se trate o que cursen los estudios relacionados con la misma,
-
-- Para secretarios de establecimientos de enseñanza posprimaria: Profesores de segunda enseñanza o maestros de Educación  primaria,  en  ambos  casos  con  experiencia  no  menor  de  cinco  años  y  capacidad  comprobada  en  la administración pública y en la especialidad contable, y
-
-- Para censores de espectáculos: Docentes titulados con un mínimo de experiencia educacional de cinco años.
+k) Para censores de espectáculos: Docentes titulados con un mínimo de experiencia educacional de cinco años.
 
 ## CAPITULO V
 De la oposición
@@ -500,7 +466,7 @@ La oposición contemplada en los artículos 14 y 15 versará sobre trabajos rela
 
 ### ARTICULO 19.
 
-Cuando se trate de vacantes en los departamentos d la República, las juntas auxiliares respectivas, de conformidad con el ARTICULO 40, recibirán los trabajos d los aspirantes y, con las seguridades del caso, los enviarán bajo su estricta responsabilidad al ministerio de Educación Pública, quien los cursará inmediatamente al jurado respectivo.
+Cuando se trate de vacantes en los departamentos de la República, las juntas auxiliares respectivas, de conformidad con el ARTICULO 40, recibirán los trabajos de los aspirantes y, con las seguridades del caso, los enviarán bajo su estricta responsabilidad al Ministerio de Educación Pública, quien los cursará inmediatamente al jurado respectivo.
 
 ## CAPITULO VI
 
@@ -524,13 +490,15 @@ establece, exclusivamente para estos docentes la categoría de estudiante de cur
 
 ### ARTICULO 23.
 
-El Ministerio de Educación Pública elaborará y pondrá en vigor los reglamentos en los cuales se consignen plazos de capacitación y nivelación para cada uno d los docentes obligados a efectuarla, a partir del momento en que el Estado tenga en función los centros en los  cuales debe hacerse dicha nivelación. Se considerará separadamente cada  grupo  que  así  lo  amerite  y  deberá  tomarse  especial  cuidado  en  la  disponibilidad  de  tiempo  por  parte  del personal docente.
+El Ministerio de Educación Pública elaborará y pondrá en vigor los reglamentos en los cuales se consignen plazos de capacitación y nivelación para cada uno de los docentes obligados a efectuarla, a partir del momento en que el Estado tenga en función los centros en los cuales debe hacerse dicha nivelación. Se considerará separadamente cada grupo que así lo amerite y deberá tomarse especial cuidado en la disponibilidad de tiempo por parte del personal docente.
 
 8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
 
 ### ARTICULO 24.
 
@@ -546,39 +514,37 @@ DECRETO DEL CONGRESO 1485
 
 La superación profesional, la calidad de los servicios y méritos obtenidos, serán evaluados por la Junta calificadora de personal y registrados detalladamente en las clases y niveles educativos que establecen los artículos 3 y 4 de esta ley, por la Dirección de estadística Escolar y Escalafón, como siguen:
 
-- Para el nivel de Educación pre-primaria:
+I) Para el nivel de Educación pre-primaria:
 
-- Registro de clases correspondientes a la Educación de párvulos
+1) Registro de clases correspondientes a la Educación de párvulos
 
-- Cualesquiera otras que se crearen dentro de este nivel.
+2) Cualesquiera otras que se crearen dentro de este nivel.
 
-- II) Para el nivel de Educación primaria:
+II) Para el nivel de Educación primaria:
 
-- Registro de clases correspondientes a la Educación primaria rural.
+1) Registro de clases correspondientes a la Educación primaria rural.
 
-- Registro de clases correspondientes a la Educación primaria urbana.
+2) Registro de clases correspondientes a la Educación primaria urbana.
 
-- Cualesquiera otras que se crearen dentro de este nivel.
+3) Cualesquiera otras que se crearen dentro de este nivel.
 
-- III) Para el nivel de Educación secundaria y normal:
+III) Para el nivel de Educación secundaria y normal:
 
-- Registro de clases correspondientes a la Educación  secundaria y normal, con especificación de las especialidades a que cada
+1) Registro de clases correspondientes a la Educación secundaria y normal, con especificación de las especialidades a que cada grupo de docentes se dedique, de acuerdo con los planes de estudio vigentes.
 
-- grupo de docentes se dedique, de acuerdo con los planes de estudio vigentes.
+2) Cualesquiera otras que se crearen dentro de este nivel.
 
-- Cualesquiera otras que se crearen dentro de este nivel.
+IV) Para el nivel de Educación vocacional y técnica:
 
-- IV) Para el nivel de Educación vocacional y técnica:
+1) Registro de clases correspondiente a la Educación vocacional y técnica, con especificación de las especialidades a que cada grupo de docentes se dediquen, de acuerdo con los planes de estudio vigentes.
 
-- Registro de clases correspondiente a la Educación vocacional y técnica, con especificación de las especialidades a que cada grupo de docentes se dediquen, de acuerdo con los planes de estudio vigentes.
+2) Cualesquiera otras que se crearen dentro de este nivel.
 
-- Cualesquiera otras que se crearen dentro de este nivel.
+V) Para el nivel de Educación especial:
 
-- Para el nivel de Educación especial:
+1) Registro de clases correspondientes a la Educación especial, con especificación de especialidades.
 
-- Registro de clases correspondientes a la Educación especial, con especificación de especialidades.
-
-- Cualesquiera otras que se crearen dentro de este nivel.
+2) Cualesquiera otras que se crearen dentro de este nivel.
 
 ### ARTICULO 26.*
 
@@ -588,9 +554,7 @@ A cada clase escalafonaria le corresponde un máximo de 80 puntos independientes
 
 ### ARTICULO 27.
 
-Para ingresar a la Clase "A" de la catalogación, será suficiente registrar en la Dirección de Estadística Escolar y Escalafón el título o
-
-títulos  docentes  y  demás  documentos  que  acrediten  la  capacidad  e  idoneidad  del  interesado,  en  el  nivel correspondiente, conforme
+Para ingresar a la Clase "A" de la catalogación, será suficiente registrar en la Dirección de Estadística Escolar y Escalafón el título o títulos docentes y demás documentos que acrediten la capacidad e idoneidad del interesado, en el nivel correspondiente, conforme el artículo 12 de la presente ley.
 
 DECRETO DEL CONGRESO 1485
 
@@ -604,8 +568,6 @@ por la Junta Calificadora de Personal.
 
 ### ARTICULO 29.
 
-LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
-
 9
 
 [[END OF PAGE 9]]
@@ -614,19 +576,17 @@ LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
 
 LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
 
-Para el traslado con carácter titular de un nivel educativo a otro, será indispensable presentar ante la Dirección de estadística Escolar y Escalafón solicitud escrita acompañada del título o títulos que en cada uno de los incisos del artículo 11 de esta ley se exige para el nivel de que se trate quedando obligada dicha dependencia a comprobar la autenticidad  de  los  documentos,  bajo  su  responsabilidad  legal,  y  a  realizar  sin  demora,  si  fuere  procedente,  la inscripción y registro respectivo, lo que deberá publicarse en el Diario Oficial.
+Para el traslado con carácter titular de un nivel educativo a otro, será indispensable presentar ante la Dirección de Estadística Escolar y Escalafón solicitud escrita acompañada del título o títulos que en cada uno de los incisos del artículo 11 de esta ley se exige para el nivel de que se trate quedando obligada dicha dependencia a comprobar la autenticidad de los documentos, bajo su responsabilidad legal, y a realizar sin demora, si fuere procedente, la inscripción y registro respectivo, lo que deberá publicarse en el Diario Oficial.
 
 ### ARTICULO 30.*
 
-El cambio de nivel no implica pérdida de clase escalafonaria, siempre que el maestro la haya conquistado con un mínimo de 60 puntos, o demuestre ante la Junta Calificadora de Personal, meritos suficientes para ello, conforme el reglamento específico.
+El cambio de nivel no implica pérdida de clase escalafonaria, siempre que el maestro la haya conquistado con un mínimo de 60 puntos, o demuestre ante la Junta Calificadora de Personal, méritos suficientes para ello, conforme el reglamento específico.
 
 *Reformado por el Artículo 4, del Decreto Número 87-2000 del Congreso de la República.
 
 ### ARTICULO 31.
 
-Los  profesores  y  maestros  que  presten  sus  servicios  en  clima  malsano  o  en  lugares  cuyas  condiciones  de  vida económica, social y
-
-cultural  sea  notoriamente  difíciles,  así  como  en  trabajo  nocturno,  gozarán  de  bonificaciones  adecuadas.  El Presupuesto General de Gastos de la Nación deberá consignar anualmente el monto de tales bonificaciones, previa determinación hecha por el Ministerio de Salud Pública y Asistencia Social y el de Educación Pública.
+Los profesores y maestros que presten sus servicios en clima malsano o en lugares cuyas condiciones de vida económica, social y cultural sean notoriamente difíciles, así como en trabajo nocturno, gozarán de bonificaciones adecuadas. El Presupuesto General de Gastos de la Nación deberá consignar anualmente el monto de tales bonificaciones, previa determinación hecha por el Ministerio de Salud Pública y Asistencia Social y el de Educación Pública.
 
 ### ARTICULO 32.
 
@@ -634,7 +594,7 @@ La  Dirección  de  Estadística  Escolar  y  Escalafón  con  base  en  el  inf
 
 ### ARTICULO 33.
 
-Los docentes que estén trabajando en nivel distinto al que les corresponde  gozarán de los porcentajes a que se refiere el ARTICULO 4. Siempre que los favorezca, al probar que cursan los estudios legalmente organizados o autorizados, de capacitación, nivelación o perfeccionamiento profesional, cesando tales beneficios al comprobase el  abandono  de  estos  estudios.  El  reglamento  de  esta  ley  normará  la  forma  de  comprobar  los  estudios  o  el abandono, así como los requisitos que exigirán las oficinas pagadoras.
+Los docentes que estén trabajando en nivel distinto al que les corresponde gozarán de los porcentajes a que se refiere el ARTICULO 4, siempre que los favorezca, al probar que cursan los estudios legalmente organizados o autorizados, de capacitación, nivelación o perfeccionamiento profesional, cesando tales beneficios al comprobarse el abandono de estos estudios. El reglamento de esta ley normará la forma de comprobar los estudios o el abandono, así como los requisitos que exigirán las oficinas pagadoras.
 
 DECRETO DEL CONGRESO 1485
 
@@ -644,25 +604,23 @@ De la Junta calificadora de personal y sus atribuciones
 
 ### ARTICULO 34.
 
-Para la clasificación de los docentes protegidos por esta ley, se crea la junta calificadora de personal, con sede en la capital d la
+Para la clasificación de los docentes protegidos por esta ley, se crea la junta calificadora de personal, con sede en la capital de la República, la cual estará integrada por maestros escalafonados así:
 
-República, la cual estará integrada por maestros escalafonados así:
+a) Por un presidente, un vicepresidente, dos vocales y un secretario,
 
-- Por un presidente, un vicepresidente, dos vocales y un secretario,
+b) Por un miembro del Consejo técnico de Educación,
 
-- Por un miembro del Consejo técnico de Educación,
+c) Por un director del nivel educativo correspondiente, y
 
-- Por un director del nivel educativo correspondiente, y
+d) Por un representante en cada nivel educativo que acreditarán las organizaciones magisteriales con personería jurídica.
 
-- Por  un  representante  en cada nivel educativo  que acreditarán las organizaciones magisteriales con personería jurídica.
+Los miembros de la Junta directiva a que alude el inciso a), serán nombrados por el Ministerio de Educación Pública a propuesta en terna de las organizaciones magisteriales con personería jurídica, actuarán con carácter permanente y devengarán el sueldo asignado a la respectiva clase escalafonaria y los comprendidos en los incisos b), c) y d) devengarán las dietas estipuladas conforme el Reglamento.
 
-Los  miembros  de  la  Junta  directiva  a  que  alude  el  inciso  a),  serán  nombrados  por  el  Ministerio  de  Educación Pública  a  propuesta  en  terna  de  las  organizaciones  magisteriales  con  personería  jurídica,  actuarán  con  carácter permanente y devengarán el sueldo asignado a la respectiva clase escalafonaria y los comprendidos en los incisos b), c) y d) devengarán las dietas estipuladas conforme el Reglamento.
-
-Para ser presidente o vicepresidente, se requiere pertenecer a la Clase "F" y para los demás cargos, por lo menos a la Clase "C",
+Para ser presidente o vicepresidente, se requiere pertenecer a la Clase "F" y para los demás cargos, por lo menos a la Clase "C".
 
 ### ARTICULO 35.
 
-Compete  a  la  Junta  calificadora  de  personal  la  evaluación  de  los  servicios  de  los  docentes  escalafonados,  de conformidad con lo estatuido en la presente ley el reglamento respectivo.
+Compete a la Junta calificadora de personal la evaluación de los servicios de los docentes escalafonados, de conformidad con lo estatuido en la presente ley y el reglamento respectivo.
 
 ### ARTICULO 36.
 
@@ -678,30 +636,28 @@ En los departamentos de la República se organizarán juntas auxiliares, que ten
 
 Estas juntas auxiliares se integran así:
 
-- Por un supervisor técnico de la zona respectiva, con carácter de presidente,
+a) Por un supervisor técnico de la zona respectiva, con carácter de presidente,
 
-- Por  un  director  de  establecimiento  nacional  electo  anualmente  por  el  personal  docente  de  las  escuelas  de  la cabecera departamental, y
+b) Por un director de establecimiento nacional electo anualmente por el personal docente de las escuelas de la cabecera departamental, y
 
-- Por  un  representante  de  cada  una  de  las  organizaciones  magisteriales  con  personería  jurídica,  cuando  los acrediten. En caso de que las organizaciones magisteriales con personería jurídica no acreditaren representantes, se convocará a una asamblea integrada por docentes que presten sus servicios en la circunscripción departamental, para designarlos de conformidad con el reglamento
+c) Por un representante de cada una de las organizaciones magisteriales con personería jurídica, cuando los acrediten. En caso de que las organizaciones magisteriales con personería jurídica no acreditaren representantes, se convocará a una asamblea integrada por docentes que presten sus servicios en la circunscripción departamental, para designarlos de conformidad con el reglamento.
 
 DECRETO DEL CONGRESO 1485
 ### ARTICULO 37.
 
 En caso de que el docente considere que la clasificación efectuada por la Junta calificadora de personal, es injusta en lo que a él se refiere, tiene derecho a pedir la revisión de su expediente, y la junta con audiencia del interesado, revisará lo actuado, y de ser procedente, rectificará su fallo, levantando acta circunstanciada del caso.
 
-Si el interesado considera que todavía no haya justicia, podrá apelar ante el Ministerio del Ramo, el cual fallará con asistencia  de  un  miembro  del  Consejo  técnico,  un  supervisor  técnico  y  un  representante  de  cada  una  de  las organizaciones magisteriales, con personería jurídica. Dicho fallo será definitivo y contra él no se podrá interponer otro recurso que el de aclaración o ampliación. Los miembros de las organizaciones magisteriales serán designados para sorteo de las listas propuestas por dichas entidades, y deberán pertenecer por lo menos al mismo nivel y clase que el apelante.
+Si el interesado considera que todavía no se ha hecho justicia, podrá apelar ante el Ministerio del Ramo, el cual fallará con asistencia de un miembro del Consejo técnico, un supervisor técnico y un representante de cada una de las organizaciones magisteriales, con personería jurídica. Dicho fallo será definitivo y contra él no se podrá interponer otro recurso que el de aclaración o ampliación. Los miembros de las organizaciones magisteriales serán designados por sorteo de las listas propuestas por dichas entidades, y deberán pertenecer por lo menos al mismo nivel y clase que el apelante.
 
 ### ARTICULO 38.
 
 La Junta calificadora de personal funcionará durante los doce meses del año, estando obligada a lo siguiente:
 
-- Clasificar los casos de ascenso en la primera quincena del mes de noviembre, b) Hacer constar en acta la nómina de los docentes que ascienden y remitir inmediatamente copia certificada de la misma al
+a) Clasificar los casos de ascenso en la primera quincena del mes de noviembre,
 
-Ministerio  del  Ramo,  a  la  Dirección  de  Estadística  Escolar  y  escalafón  ya  las  dependencias  encargadas  de  la autorización y pago de sueldos para los efectos consiguientes a más tardar el 30 de noviembre, y
+b) Hacer constar en acta la nómina de los docentes que ascienden y remitir inmediatamente copia certificada de la misma al Ministerio del Ramo, a la Dirección de Estadística Escolar y Escalafón y a las dependencias encargadas de la autorización y pago de sueldos para los efectos consiguientes a más tardar el 30 de noviembre, y
 
-- Notificar a todas las dependencias del Ramo y publicar los ascensos de los docentes en el Diario Oficial y otro de circulación,
-
-dentro del plazo fijado en el inciso b) de este ARTICULO.
+c) Notificar a todas las dependencias del Ramo y publicar los ascensos de los docentes en el Diario Oficial y otro de mayor circulación, dentro del plazo fijado en el inciso b) de este ARTICULO.
 
 ## CAPITULO IX
 
@@ -714,11 +670,13 @@ Podrán servir cargos docentes, técnicos o técnico-administrativos en el Ramo 
 
 El traslado o permuta de un docente procederá:
 
-- Cuando  haya  anuencia  o  solicitud  escrita  y  justificada  de  su  parte.  Las  permutas  se  tramitarán  únicamente cuando haya mutuo acuerdo de las partes,
+a) Cuando haya anuencia o solicitud escrita y justificada de su parte. Las permutas se tramitarán únicamente cuando haya mutuo acuerdo de las partes,
 
 DECRETO DEL CONGRESO 1485
 
-- Cuando se compruebe suficientemente que su permanencia en determinado lugar no conviene a la docencia, asimismo o a ambos, y c) Por alteración de la salud, debidamente comprobada.
+b) Cuando se compruebe suficientemente que su permanencia en determinado lugar no conviene a la docencia, a sí mismo o a ambos, y
+
+c) Por alteración de la salud, debidamente comprobada.
 
 11
 
@@ -752,21 +710,19 @@ Disposiciones generales
 
 ### ARTICULO 44.
 
-A  los  docentes  catalogados  conforme  esta  ley  que  desempeñen  puesto  de  enseñanza  en  los  establecimientos privados, se les conmutarán puntos en la forma establecida por la presente.
+A los docentes catalogados conforme esta ley que desempeñen puesto de enseñanza en los establecimientos privados, se les computarán puntos en la forma establecida por la presente.
 
 A los docentes no catalogados en el nivel en que trabajan se les computarán puntos siempre que inicien y prosigan su nivelación, capacitación y perfeccionamiento docente en la forma que lo determine el Reglamento respectivo y dentro del plazo que se fije.
 
 ### ARTICULO 45.
 
-Cuando un profesor o maestro goce de beca fuera del país con fines de superación en la docencia, se le computarán el tiempo de su permanencia, como tiempo de servicio, y se le abonarán los puntos según la calidad de sus estudios realizados,  quedando  el  becario  obligado  a  comprobar  la  eficiencia  de  los  mismos.  Igual  derecho  en  cuanto  al cómputo del tiempo asistirá a todo docente que goce
+Cuando un profesor o maestro goce de beca fuera del país con fines de superación en la docencia, se le computará el tiempo de su permanencia, como tiempo de servicio, y se le abonarán los puntos según la calidad de sus estudios realizados, quedando el becario obligado a comprobar la eficiencia de los mismos. Igual derecho en cuanto al cómputo del tiempo asistirá a todo docente que goce de licencia por motivo de enfermedad.
 
 DECRETO DEL CONGRESO 1485
 
-de licencia por motivo de enfermedad.
-
 ### ARTICULO 46.
 
-Para la catalogación inicial no se aceptarán mas títulos, diplomas y otros documentos de estudios que los otorgados o reconocidos con entera sujeción a la ley o a convenio internacional.
+Para la catalogación inicial no se aceptarán más títulos, diplomas y otros documentos de estudios que los otorgados o reconocidos con entera sujeción a la ley o a convenio internacional.
 
 ### ARTICULO 47.
 
@@ -778,11 +734,11 @@ La clase en que se encuentre catalogado cada docente en cualquiera de los nivele
 
 ### ARTICULO 49.
 
-Para  los  efectos  de  los  beneficios  económicos  contenidos  en  esta  ley,  la  expresión  posprimaria  se  refiere  a  los siguientes niveles,
+Para los efectos de los beneficios económicos contenidos en esta ley, la expresión posprimaria se refiere a los siguientes niveles,
 
-- De Educación secundaria y normal, y
+a) De Educación secundaria y normal, y
 
-- De Educación vocacional y técnica.
+b) De Educación vocacional y técnica.
 
 ### ARTICULO 50.
 
@@ -803,75 +759,67 @@ Disposiciones transitorias
 DECRETO DEL CONGRESO 1485
 ### ARTICULO 51.*
 
-Las acumulaciones de puntos se comprueban anualmente y se totalizarán cada cuatro años para cada docente, en los siguientes
-
-aspectos:
+Las acumulaciones de puntos se comprueban anualmente y se totalizarán cada cuatro años para cada docente, en los siguientes aspectos:
 
 #### MÁXIMO EN LOS CUATRO AÑOS 80 PUNTOS, EQUIVALENTE AL 100% DE CALIFICACIÓN EN LOS SIGUIENTES ASPECTOS
 
-##### TIEMPO DE SERVICIO
+##### 1. TIEMPO DE SERVICIO
 
-Por tiempo de servicio educacional remunerado Legalmente 32 puntos equivalente al 40% de calificación
+Por tiempo de servicio educacional remunerado legalmente 32 puntos equivalente al 40% de calificación
 
-##### CALIDAD:
+##### 2. CALIDAD:
 
 Por calidad satisfactoria de su labor en el cargo o cargos desempeñados:
 
-- Puntualidad;
+a) Puntualidad;
 
-- Asistencia;
+b) Asistencia;
 
-- Colaboración;
+c) Colaboración;
 
-- Cumplimiento de comisiones importantes;
+d) Cumplimiento de comisiones importantes;
 
-- Iniciativa
+e) Iniciativa
 
-- Excesos de tiempo brindado en su labor.
+f) Excesos de tiempo brindado en su labor.
 
-- Dedicación y esmero en la técnica de su función educacional;
+g) Dedicación y esmero en la técnica de su función educacional;
 
-- Actividades en organizaciones auxiliares o aliadas de la escuela (circumescolares);
+h) Actividades en organizaciones auxiliares o aliadas de la escuela (circumescolares);
 
-- Las demás que la Junta Calificadora de Personal acuerde: 16 puntos equivalentes Al 20% de calificación
+i) Las demás que la Junta Calificadora de Personal acuerde: 16 puntos equivalentes al 20% de calificación
 
-##### SUPERACIÓN:
+##### 3. SUPERACIÓN:
 
 Por capacitación, nivelación o perfeccionamiento profesional comprobado como sigue:
 
-- Obtención de grado académico o título profesional;
+a) Obtención de grado académico o título profesional;
 
-- Certificado de cursos universitarios o documento de estudios, que acrediten superación docente;
+b) Certificado de cursos universitarios o documento de estudios, que acrediten superación docente;
 
-- Investigación en función docente aprobada por el Consejo Técnico o la Universidad de San Carlos;
+c) Investigación en función docente aprobada por el Consejo Técnico o la Universidad de San Carlos;
 
-- Tesis de graduación relacionada con la docencia y que merezca ser divulgada con el fin de ayudar a la misma, previo dictamen
+d) Tesis de graduación relacionada con la docencia y que merezca ser divulgada con el fin de ayudar a la misma, previo dictamen del Consejo Técnico o la Universidad de San Carlos;
 
-- del Consejo Técnico o la Universidad de San Carlos;
+e) Obtención de títulos docentes;
 
-- Obtención de títulos docentes;
+f) Obtención de diploma docente;
 
-- Obtención de diploma docente;
+g) Certificado de aptitud, o de asistencia a programas, cursos, cursillos de capacitación, nivelación o perfeccionamiento profesional 16 puntos equivalentes al 20% de calificación
 
-- Certificado de aptitud, o de asistencia a programas, cursos, cursillos de capacitación, nivelación perfeccionamiento profesional 16
+##### 4. MÉRITOS ESPECIALES:
 
-puntos equivalenteal 20% de calificación
+Los obtenidos por servicios a la Educación y al Magisterio 4 puntos equivalentes al 5% de calificación
 
-##### MERITOS ESPECIALES:
-Los obtenidos por servicios a la Educación y alMagisterio 4 puntos equivalente al 5% de
+##### 5. SERVICIOS EXTRA-CARGO:
 
-calificación
+Servicios extraescolares o independientes de su cargo remunerado, prestados a la educación o al Magisterio:
 
-##### SERVICIOS EXTRA-CARGO:
-Servicios extraescolares o independiente de su cargo remunerados, prestados a la educación o al Magisterio:
-
-- Por  colaboraciones periódicas difundidas a través de los medios usuales, siempre que sean de tipo docente o directamente  relacionadas  con  la  educación  o  el  magisterio,  y  por  las  que  el  docente  no  reciba  remuneración alguna;
+a) Por colaboraciones periódicas difundidas a través de los medios usuales, siempre que sean de tipo docente o directamente relacionadas con la educación o el magisterio, y por las que el docente no reciba remuneración alguna;
 
 DECRETO DEL CONGRESO 1485
 
-- Por  iniciativa  o  planificación  aprobadas  por  el  Consejo  Técnico  de  Educación,  siempre  que  se  refieran  a  la educación o al
-
-Magisterio;
+b) Por iniciativa o planificación aprobadas por el Consejo Técnico de Educación, siempre que se refieran a la educación o al Magisterio;
 
 13
 
@@ -881,29 +829,23 @@ Magisterio;
 
 LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
 
-- Participación  importante,  debidamente  comprobada  en  eventos  o  trabajos  de  dignificación  en  beneficio  del Magisterio;
+c) Participación importante, debidamente comprobada en eventos o trabajos de dignificación en beneficio del Magisterio;
 
-- Asistencia  a  congresos  seminarios  y  otras  reuniones  educacionales  de  carácter  nacional  o  internacional debidamente
+d) Asistencia a congresos, seminarios y otras reuniones educacionales de carácter nacional o internacional debidamente comprobadas;
 
-comprobadas;
+e) Estudio y divulgación de temas relacionados con la educación sistemática o con problemas del Magisterio;
 
-- Estudio y divulgación de temas relacionados con la educación sistemática o con problemas del Magisterio;
+f) Fundación o cofundación de instituciones educacionales reconocidas por el Ministerio de Educación;
 
-- Fundación o cofundación de instituciones educacionales reconocidas por el Ministerio de Educación;
+g) Organización de eventos educacionales de importancia y significación;
 
-- Organización de eventos educacionales de importancia y significación;
+h) Participación en campañas, misiones o eventos importantes de educación fundamental, de culturización o de educación;
 
-- Participación  en  campañas,  misiones  o  eventos  importantes  de  educación  fundamental  de  culturización  o  de educación;
+i) Desempeño de cargos o comisiones en las organizaciones culturales o del Magisterio, a satisfacción de las mismas, debidamente comprobadas;
 
-- Desempeño  de  cargos  o  comisiones  en  las  organizaciones  culturales  o  del  Magisterio,  a  satisfacción  de  las mismas, debidamente
+j) Publicación de obras o trabajos didácticos o que tengan relación directa con la educación;
 
-comprobadas;
-
-- Publicación de obras o trabajos didácticos o que tengan relación directa con la educación;
-
-- Impartir cursillos autorizados por el Ministerio de Educación o la Universidad de San Carlos de Guatemala12 puntos equivalente al
-
-- 15% de calificación
+k) Impartir cursillos autorizados por el Ministerio de Educación o la Universidad de San Carlos de Guatemala 12 puntos equivalentes al 15% de calificación
 
 *Reformado por el Artículo 5, del Decreto Número 87-2000 del Congreso de la República.
 
@@ -911,19 +853,17 @@ comprobadas;
 
 ### ARTICULO 52.
 
-La  evaluación  que  la  Junta  calificadora  de  personal  haga  de  cada  uno  de  los  aspectos  a  que  se  refieren  los numerales del
+La evaluación que la Junta calificadora de personal haga de cada uno de los aspectos a que se refieren los numerales del ARTICULO precedente, queda sujeta a las siguientes regulaciones:
 
-ARTICULO precedente, queda sujeta a las siguientes regulaciones:
+a) La distribución analítica de los puntos de cada aspecto mencionado en el artículo inmediato anterior, será elaborada por la Junta calificadora de personal y fijada en su reglamento interno, atendiendo a la naturaleza, ambiente y circunstancias propias de cada uno de los niveles o áreas de trabajo o sus subdivisiones reconocidas por la ley y a lo que sea más adecuado, equitativo y justo al trabajo en cada una de ellas, según las oportunidades y limitaciones que ofrezcan para la obtención de puntos.
 
-- La  distribución  analítica  de  los  puntos  de  cada  aspecto  mencionado  en  el  artículo  inmediato  anterior,  será elaborado  por  la  Junta  calificadora  de  personal  y  fijada  en  su  reglamento  interno,  atendiendo  a  la  naturaleza ambiente y circunstancias propias de cada uno de los niveles o áreas de trabajo o sus subdivisiones reconocidas por la ley y a lo que sea más adecuado, equitativo y justo al trabajo en cada una de ellas, según las oportunidades y limitaciones que ofrezcan para la obtención de puntos.
+b) No podrán abonarse puntos propios de un aspecto a otro distinto.
 
-- No podrán abonarse puntos propios de un aspecto a otro distinto.
+c) La junta calificadora de personal podrá prescindir con el voto favorable de sus dos terceras partes de lo que haya reglamentado en cuanto a distribución analítica de punteo, en los casos imprevistos de evaluación que sean conocidos por la misma y hallados procedentes y justos.
 
-- La junta calificadora de personal podrá prescindir con el voto favorable de sus dos terceras partes de lo que haya reglamentado  en  cuanto  a  distribución  analítica  de  punteo,  en  los  casos  imprevistos  de  evaluación  que  sean conocidos por la misma y hallados procedentes y justos.
+d) No se repetirá la anotación de puntos en las clases "B", "C", "D", "E", o "F", por documentos que hayan sido calificados y computados en clase escalafonaria anterior, y
 
-- No  se  repetirá  la  anotación  de  puntos  en  las  clases  "B",  "C",  "D",  "E",  o  "F"  documentos  que  hayan  sido calificados y computados en clase escalafonaria anterior, y
-
-- Para los efectos de la oposición los puntos deberán computarse también por anualidades en la clase "F".
+e) Para los efectos de la oposición los puntos deberán computarse también por anualidades en la clase "F".
 
 ### ARTICULO 53.
 
@@ -947,7 +887,7 @@ de la República.
 
 LEGISLACION EDUCATIVA SEXTO MAGISTERIO AMREG
 
-La  Junta  calificadora  del  personal,  en  coordinación  con  el  Ministerio  de  Educación  Pública,  elaborará  la reglamentación que contemple faltas y deméritos de los maestros.
+La Junta calificadora de personal, en coordinación con el Ministerio de Educación Pública, elaborará la reglamentación que contemple faltas y deméritos de los maestros.
 
 ### ARTICULO 55.
 
@@ -969,7 +909,7 @@ Los  maestros  que  a  la  fecha  de  la  publicación  de  esta  ley  se  encue
 
 ### ARTICULO 59.
 
-En ningún caso la presente ley perjudicará a los docentes que esté en actual servicio en el Magisterio nacional, en lo que respecta a punteos, tiempo de servicio transcurrido, diplomas de incorporación a la enseñanza posprimaria obtenidos y por obtenerse conforme a la ley, y sueldos ya adquiridos.
+En ningún caso la presente ley perjudicará a los docentes que estén en actual servicio en el Magisterio nacional, en lo que respecta a punteos, tiempo de servicio transcurrido, diplomas de incorporación a la enseñanza posprimaria obtenidos y por obtenerse conforme a la ley, y sueldos ya adquiridos.
 
 DECRETO DEL CONGRESO 1485
 
@@ -979,17 +919,15 @@ El Ministerio de Educación Pública deberá elaborar y poner en vigor los regla
 
 ### ARTICULO 61.
 
-Los principios  contenidos  en  el  presente  decreto  servirán  de  base  para  que,  cuando  se  emita  el  Estatuto  de  los Trabajadores del estado, se fijen las normas a que se refiere el ARTICULO 119 de la Constitución de la República.
+Los principios contenidos en el presente decreto servirán de base para que, cuando se emita el Estatuto de los Trabajadores del Estado, se fijen las normas a que se refiere el ARTICULO 119 de la Constitución de la República.
 
 ### ARTICULO 62.
 
-Se derogan los Decretos números 469y 534 del Congreso de la República, así como el Decreto número 22 de fecha 16 de julio de 1954 de la Junta de Gobierno y 374 del Presidente de la República de fecha 11 de agosto de 1955, sin perjuicio del punteo que por tiempo y demás méritos haya sido acumulado por los docentes escalafonados, el cual computará oportunamente la Junta
-
-calificadora de personal para los efectos de ascensos correspondientes.
+Se derogan los Decretos números 469 y 534 del Congreso de la República, así como el Decreto número 22 de fecha 16 de julio de 1954 de la Junta de Gobierno y 374 del Presidente de la República de fecha 11 de agosto de 1955, sin perjuicio del punteo que por tiempo y demás méritos haya sido acumulado por los docentes escalafonados, el cual computará oportunamente la Junta calificadora de personal para los efectos de ascensos correspondientes.
 
 ### ARTICULO 63.
 
-La presente ley entrará, en vigor a los cinco días de su publicación en el Diario Oficial.
+La presente ley entrará en vigor a los cinco días de su publicación en el Diario Oficial.
 
 Pase al Organismo Ejecutivo para su publicación y cumplimiento.
 
