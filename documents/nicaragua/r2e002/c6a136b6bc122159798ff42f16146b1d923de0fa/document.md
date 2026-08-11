@@ -1,6 +1,8 @@
 [[START OF PAGE 1]]
 
-Gobierno de Reconciliaci Gobierno de Reconciliació ón y Unidad Nacional n y Unidad Nacional Ministerio de Educaci Ministerio de Educació ón n ' 'Un Ministerio en el Aula Un Ministerio en el Aula' '
+Gobierno de Reconciliación y Unidad Nacional
+Ministerio de Educación
+“Un Ministerio en el Aula”
 
 # POLITICAS EDUCATIVAS
 
@@ -10,7 +12,7 @@ Gobierno de Reconciliaci Gobierno de Reconciliació ón y Unidad Nacional n y Un
 
 [[START OF PAGE 2]]
 
-## Pol Polí íticas Educativas ticas Educativas
+## Políticas Educativas
 
 Más Educación… Erradicación del Analfabetismo; Todos los Niños, Niñas y Jóvenes en la Escuela
 
@@ -26,9 +28,9 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 3]]
 
-## 1. 1. M Má ás s Educaci Educació ón n… … Erradicaci Erradicació ón del n del Analfabetismo; Todos los Ni Analfabetismo; Todos los Niñ ños, Ni os, Niñ ñas y as y J Jó óvenes en la Escuela venes en la Escuela
+## 1. Más Educación… Erradicación del Analfabetismo; Todos los Niños, Niñas y Jóvenes en la Escuela
 
-### Lo que implica Lo que implica
+### Lo que implica
 
  Menos mujeres y varones mayores de 14 años analfabetas;
 
@@ -46,11 +48,9 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 4]]
 
- 
+## 2. Mejor Educación… Mejor Currículum, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas.
 
-## 2. Mejor 2. Mejor Educaci Educació ón n… … Mejor Curr Mejor Currí ículum, Mejores culum, Mejores Maestros, Mejores Estudiantes, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas. Escuelas.
-
-### Mejor curr Mejor currí ículum culum
+### Mejor currículum
 
  Sistémico, integral, coherente, actualizado y pertinente;
 
@@ -64,15 +64,15 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 5]]
 
-## 2. Mejor Educaci 2. Mejor Educació ón n … … Mejor Curr Mejor Currí ículum, Mejores culum, Mejores Maestros, Mejores Estudiantes, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas. Escuelas.
+## 2. Mejor Educación… Mejor Currículum, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas.
 
  Que forma en derechos; en la constitución política; en las leyes,
 
-- 9 En la historia de Nicaragua, en particular de aquella que reivindica  las luchas por la soberanía nacional;
+- En la historia de Nicaragua, en particular de aquella que reivindica las luchas por la soberanía nacional;
 
-- 9 En  Geografía  Nacional  para  la  promoción  y  defensa  del  ambiente  y  los recursos naturales;
+- En Geografía Nacional para la promoción y defensa del ambiente y los recursos naturales;
 
-- 9 En el modelo económico nacional, que reivindica las relaciones con todos los países, en especial con los de América Latina.
+- En el modelo económico nacional, que reivindica las relaciones con todos los países, en especial con los de América Latina.
 
  Que  a  la  vez  que  enseña  a  prepararse  para  el  mundo  del  trabajo; forma en valores como: solidaridad, servicio  a los demás, cultura de paz, equidad económica, de género y cultural.
 
@@ -82,9 +82,9 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 6]]
 
-## 2. Mejor Educaci 2. Mejor Educació ón n … … Mejor Curr Mejor Currí ículum, Mejores culum, Mejores Maestros, Mejores Estudiantes, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas. Escuelas.
+## 2. Mejor Educación… Mejor Currículum, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas.
 
-### Mejores Maestros Mejores Maestros
+### Mejores Maestros
 
  Formados profesionalmente en las áreas científicas y pedagógicas y  capacitados permanentemente.
 
@@ -96,9 +96,9 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 7]]
 
-## 2. Mejor Educaci 2. Mejor Educació ón n … … Mejor Curr Mejor Currí ículum, Mejores culum, Mejores Maestros, Mejores Estudiantes, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas. Escuelas.
+## 2. Mejor Educación… Mejor Currículum, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas.
 
-### Mejores Estudiantes Mejores Estudiantes
+### Mejores Estudiantes
 
  Dotados de los valores, conocimientos y habilidades suficientes  y  pertinentes  para  desempeñarse  exitosamente en su vida diaria.
 
@@ -112,13 +112,13 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 8]]
 
-## 2. Mejor Educaci 2. Mejor Educació ón n … … Mejor Curr Mejor Currí ículum, Mejores culum, Mejores Maestros, Mejores Estudiantes, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas. Escuelas.
+## 2. Mejor Educación… Mejor Currículum, Mejores Maestros, Mejores Estudiantes, Mejores Escuelas.
 
-### Mejores Escuelas Mejores Escuelas
+### Mejores Escuelas
 
  Escuelas en cantidad suficiente y localizadas  en  los  lugares apropiados  para  facilitar  su  acceso  a  los  niños,  niñas  y jóvenes.
 
- Escuelas debidamente acondicionadas y equipadas para que la  función  enseñanza  - aprendizaje  se  realice  con  la  mejor calidad posible.
+ Escuelas debidamente acondicionadas y equipadas para que la función enseñanza – aprendizaje se realice con la mejor calidad posible.
 
  Escuelas  diseñadas  y  dimensionadas  de  acuerdo  con  la demanda, la modalidad y el nivel de enseñanza así como la potencialidad de desarrollo de las zonas en que se ubiquen.
 
@@ -126,11 +126,9 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 9]]
 
- 
+## 3. Otra Educación… Moralización y rescate de la Escuela Pública.
 
-## 3. Otra Educaci 3. Otra Educació ón n … … Moralizaci Moralizació ón y rescate de n y rescate de la Escuela P la Escuela Pú ública. blica.
-
-### Una Escuela para: Una Escuela para:
+### Una Escuela para:
 
  Rescatar  la  Educación  Pública  Nicaragüense  de  las  manos del mercado;
 
@@ -146,9 +144,9 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 10]]
 
-## 4. Gesti 4. Gestió ón Educativa Participativa y n Educativa Participativa y Descentralizada Descentralizada… … La Educaci La Educació ón como tarea de n como tarea de todos y todas. todos y todas.
+## 4. Gestión Educativa Participativa y Descentralizada… La Educación como tarea de todos y todas.
 
-### Lo que significa: Lo que significa:
+### Lo que significa:
 
  La  participación  de  la  Sociedad  Civil  Organizada  en todos los procesos de Gestión de la Educación como una política  transversal  en  función  del  desarrollo  local  y nacional;
 
@@ -164,9 +162,9 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 11]]
 
-## 5. Todas las 5. Todas las Educaciones Educaciones… … Educaci Educació ón con n con Enfoque Sist Enfoque Sisté émico e Integral mico e Integral
+## 5. Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
-### Articulaci Articulació ón: n:
+### Articulación:
 
  De  la  educación  escolar  formal  con  la  educación extraescolar, no formal e informal;
 
@@ -180,7 +178,7 @@ Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
 [[START OF PAGE 12]]
 
-## 5. Todas las 5. Todas las Educaciones Educaciones… … Educaci Educació ón con n con Enfoque Sist Enfoque Sisté émico e Integral mico e Integral
+## 5. Todas las Educaciones… Educación con Enfoque Sistémico e Integral
 
  De  la  Campaña  Nacional  de  Alfabetización  con  la Educación Básica de Adultos para lograr que los alfabetizados alcancen la meta de aprobar el 6º;
 
