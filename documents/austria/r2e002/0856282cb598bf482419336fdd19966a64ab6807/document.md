@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# Staatsgrundgesetz  vom  21.  December  1867,  über  die  allgemeinen  Rechte der  Staatsbürger  für  die  im  Reichsrathe  vertretenen  Königreiche  und Länder - StGG
+# Staatsgrundgesetz  vom  21.  December  1867,  über  die  allgemeinen  Rechte der  Staatsbürger  für  die  im  Reichsrathe  vertretenen  Königreiche  und Länder – StGG
 
 StF: RGBl. Nr. 142/1867
 
@@ -63,7 +63,7 @@ Click here for checking the up-to-date list of amendments in the Austrian Legal 
 With the approval of both Houses of the Council of the Realm I deem proper to issue the following Basic Law on the general rights of nationals and to order:
 
 ## Art. 1.
-(abrogated, see Federal Constitutional Law - B-VG., Art. 6 in connection with Art. 149 para 1).
+(abrogated, see Federal Constitutional Law – B-VG., Art. 6 in connection with Art. 149 para 1).
 
 ## Art. 2.
 All nationals are equal before the law.
@@ -71,16 +71,16 @@ All nationals are equal before the law.
 ## Art. 3.
 Public functions are equally accessible to all nationals.
 
-- The admissibility to them of foreigners is made dependent on their acquisition of Austrian nationality.
+[2] The admissibility to them of foreigners is made dependent on their acquisition of Austrian nationality.
 
 ## Art. 4.
 [1] There is no restriction on freedom of movement by the individual and his possessions inside the boundaries of the state.
 
-(abrogated, see Federal Constitutional Law - B-VG., Art. 117 para 2 in connection with Art. 149 para 1).
+[2] (abrogated, see Federal Constitutional Law – B-VG., Art. 117 para 2 in connection with Art. 149 para 1).
 
-- Freedom of emigration is restricted by the state only in the way of military Service.
+[3] Freedom of emigration is restricted by the state only in the way of military Service.
 
-- Exodus tolls may be exacted only as a matter of reciprocity.
+[4] Exodus tolls may be exacted only as a matter of reciprocity.
 
 ## Art. 5.
 Property is inviolable. Expropriation against the will of the owner can only occur in cases and in the manner determined by law.
@@ -88,7 +88,7 @@ Property is inviolable. Expropriation against the will of the owner can only occ
 ## Art. 6.
 [1]  Every national can take up residence and domicile at any place inside the boundaries of the state, acquire every kind of real property and freely dispose of the same, as well as practice every kind of gainful activity subject to the conditions of the law.
 
-- Restrictions on the right of mortmain to acquire and dispose of real property are for reasons of public weal admissible by way of law.
+[2] Restrictions on the right of mortmain to acquire and dispose of real property are for reasons of public weal admissible by way of law.
 
 [[END OF PAGE 1]]
 
@@ -126,7 +126,7 @@ Die  österreichischen  Staatsbürger  haben  das  Recht,  sich  zu  versammeln 
 ## Artikel 13.
 [1]  Jedermann  hat  das  Recht,  durch  Wort,  Schrift,  Druck  oder  durch bildliche  Darstellung  seine  Meinung  innerhalb  der  gesetzlichen  Schranken  frei  zu  äußern.
 
-[2]  Die  Presse  darf  weder  unter  Censur  gestellt,  noch  durch  das  ConcessionsSystem beschränkt  werden.  Administrative Postverbote finden auf inländische Druckschriften keine Anwendung.
+[2]  Die  Presse  darf  weder  unter  Censur  gestellt,  noch  durch  das  Concessions-System beschränkt  werden.  Administrative Postverbote finden auf inländische Druckschriften keine Anwendung.
 
 ## Artikel 14.
 [1] Die volle Glaubens- und Gewissensfreiheit ist Jedermann gewährleistet.
@@ -228,7 +228,7 @@ The members of a legally not recognized confession may practice their religion a
 
 [4] The Church or religious society concerned shall see to religious instruction in schools.
 
-- The right to supreme direction and supervision over the whole instructional and educational system lies with the state.
+[5] The right to supreme direction and supervision over the whole instructional and educational system lies with the state.
 
 ## Art. 17a.
 Artistic  creativity  as  well  as  the  dissemination  of  art  and  its  teaching shall be free.
