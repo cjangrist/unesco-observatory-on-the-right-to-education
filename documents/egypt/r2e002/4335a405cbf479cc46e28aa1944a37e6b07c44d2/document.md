@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-Unofficial translation
-
 # Constitution of The Arab Republic of Egypt 2014
+
+Unofficial translation
 
 1
 
@@ -10,7 +10,18 @@ Unofficial translation
 
 [[START OF PAGE 2]]
 
-(this page came through the extractor with no text)
+# The Issuance of The Amended Constitution of The Arab Republic of Egypt
+
+The Head of the State
+
+Cognizant of the results of the referendum on the draft of the constitutional amendments into the suspended constitution of 2012 that was held on January 14-15,2014,
+
+And cognizant of Article 247 of the amended constitution of the Arab Republic of Egypt, the amended constitution of the Arab Republic of Egypt is issued with the attached text.
+
+Cairo on Rabei Awwal 17, 1435;
+January 18, 2014;
+
+Adly Mansour
 
 [[END OF PAGE 2]]
 
@@ -74,7 +85,7 @@ We are now drafting  a  Constitution  that  embodies  the  dream  of  generation
 
 We are now drafting a Constitution that seeks the completion of building a modern democratic State having a civil government.
 
-We are drafting a Constitution that prevents any corruption or tyranny and by which we heal the wounds of the past, from the days of the old Eloquent Peasant to the victims of negligence and the martyrs of the revolution in our present time, and relieve our people who have - for long been suffering injustice.
+We are drafting a Constitution that prevents any corruption or tyranny and by which we heal the wounds of the past, from the days of the old Eloquent Peasant to the victims of negligence and the martyrs of the revolution in our present time, and relieve our people who have – for long – been suffering injustice.
 
 We are drafting a Constitution that affirms that the principles of Islamic Sharia are the principal source of legislation, and that the reference for the interpretation of such principles lies in the body of the relevant Supreme Constitutional Court Rulings. 1
 
@@ -165,13 +176,15 @@ The family is the nucleus of society, and is founded on religion, morality, and 
 
 The State shall ensure the achievement of equality between women and men in all civil, political, economic, social, and cultural rights in accordance with the provisions of this Constitution.
 
-The State shall take the necessary measures to ensure the appropriate representation of women in the houses of representatives, as specified by Law. The State shall also guarantee women's right of holding public and senior management offices in the State and their appointment in judicial bodies and authorities without discrimination.
+The State shall take the necessary measures to ensure the appropriate representation of women in the houses of representatives, as specified by Law. The State shall also guarantee women's right
 
 7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+of holding public and senior management offices in the State and their appointment in judicial bodies and authorities without discrimination.
 
 The State shall protect women against all forms of violence and ensure enabling women to strike a balance between family duties and work requirements.
 
@@ -225,21 +238,23 @@ The State shall allocate a percentage of government spending to health equivalen
 
 The State shall establish a comprehensive health insurance system covering all diseases for all Egyptians; and the Law  shall regulate citizens' contribution to or exemption  from  its subscriptions based on their income rates.
 
-Refusing  to  provide  any  form  of  medical  treatment  to  any  human  in  emergency  or  lifethreatening situations is a crime.
+Refusing to provide any form of medical treatment to any human in emergency or life-threatening situations is a crime.
 
 The State shall improve the conditions of physicians, nursing staff, and health sector workers.
 
-All health facilities as well as health-related products, materials and means of advertisement shall be  subject  to  State  control.  The  State  shall  encourage  the  participation  of  private  and  nongovernmental sectors in providing health care services according to the Law.
+All health facilities as well as health-related products, materials and means of advertisement shall be subject to State control. The State shall encourage the participation of private and non-governmental sectors in providing health care services according to the Law.
 
 #### Article (19)
 
-Every  citizen  has  the  right  to  education.  The  goals  of  education  are  to  build  the  Egyptian character, preserve the national identity, root the scientific method of thinking, develop talents and  promote  innovation,  establish  cultural  and  spiritual  values,  and  found  the  concepts  of citizenship, tolerance and non-discrimination. The State shall observe the goals of education in the educational curricula and methods, and provide education in accordance with international quality standards.
+Every citizen has the right to education. The goals of education are to build the Egyptian character, preserve the national identity, root the scientific method of thinking, develop talents
 
 9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+and promote innovation, establish cultural and spiritual values, and found the concepts of citizenship, tolerance and non-discrimination. The State shall observe the goals of education in the educational curricula and methods, and provide education in accordance with international quality standards.
 
 Education is compulsory until the end of the secondary stage or its equivalent. The State shall provide free education in the various stages in the State's educational institutions according to the Law.
 
@@ -269,6 +284,22 @@ Teachers, and faculty members and their assistants, are the main pillars of educ
 
 [[START OF PAGE 11]]
 
+#### Article (23)
+
+The State shall ensure freedom of scientific research and encourage scientific research institutions as a mean to achieve national sovereignty and build a knowledge economy. The State shall sponsor researchers and inventors and allocate a percentage of government spending to scientific research equivalent to at least 1% of the Gross National Product (GNP), which shall gradually increase to comply with international standards.
+
+The State shall ensure effective means of contribution by private and non-governmental sectors and the participation of Egyptian expatriates in the progress of scientific research.
+
+#### Article (24)
+
+Arabic Language, Religious Education and National History, in all its stages, are core subjects in public and private pre-university education. Universities shall teach human rights and professional values and ethics of the various academic disciplines.
+
+#### Article (25)
+
+The State shall develop a comprehensive plan to eradicate alphabetical and digital illiteracy among citizens of all ages. The State shall develop its implementation mechanisms with the participation of civil society organizations within a definite timeline.
+
+#### Article (26)
+
 The creation of civil titles is prohibited.
 
 ## Chapter Two
@@ -277,27 +308,11 @@ The creation of civil titles is prohibited.
 
 #### Article (27)
 
-The economic system aims at achieving prosperity through sustainable development and social justice  so  as  to  raise  the  real  growth  rate  of  the  national  economy  and  the  standard  of  living, increase job opportunities, reduce unemployment rates and eliminate poverty.
+The economic system aims at achieving prosperity through sustainable development and social justice so as to raise the real growth rate of the national economy and the standard of living, increase job opportunities, reduce unemployment rates and eliminate poverty.
 
-The  economic  system  shall  adhere  to  transparency  and  good  governance  standards;  enhance pillars  of  competitiveness,  encourage  investment,  ensure  balanced  geographical,  sectorial,  and environmental growth, prohibit monopolistic practices, maintain financial and trade balances and a  fair  tax  system,  in  the  context  of  a  regulated  economy  guaranteeing  the  various  types  of ownership and striking  a  balance  between  the  interests  of  various  stakeholders  preserving  the rights of workers and protecting consumers.
+The economic system shall adhere to transparency and good governance standards; enhance pillars of competitiveness, encourage investment, ensure balanced geographical, sectorial, and environmental growth, prohibit monopolistic practices, maintain financial and trade balances and a fair tax system, in the context of a regulated economy guaranteeing the various types of ownership and striking a balance between the interests of various stakeholders preserving the rights of workers and protecting consumers.
 
-From  a  social  perspective,  the  economic  system  shall  ensure  equal  opportunities  and  fair distribution  of  development  returns,  reduce  the  differences  among  incomes  and  adhere  to  a
-
-#### Article (23)
-
-The  State shall ensure freedom  of  scientific research and  encourage  scientific research institutions as a mean to achieve national sovereignty and build a knowledge economy. The State shall  sponsor  researchers  and  inventors  and  allocate  a  percentage  of  government  spending  to scientific research equivalent to at least 1% of the Gross National Product (GNP), which shall gradually increase to comply with international standards.
-
-The State shall ensure effective means of contribution by private and non-governmental sectors and the participation of Egyptian expatriates in the progress of scientific research.
-
-#### Article (24)
-
-Arabic Language, Religious Education and National History, in all its stages, are core subjects in public and private pre-university education. Universities shall teach human  rights and professional values and ethics of the various academic disciplines.
-
-#### Article (25)
-
-The  State  shall  develop  a  comprehensive  plan  to  eradicate  alphabetical  and  digital  illiteracy among  citizens  of  all  ages.  The  State  shall  develop  its  implementation  mechanisms  with  the participation of civil society organizations within a definite timeline.
-
-#### Article (26)
+From a social perspective, the economic system shall ensure equal opportunities and fair distribution of development returns, reduce the differences among incomes and adhere to a
 
 11
 
@@ -445,13 +460,15 @@ The  State  shall  maintain  the  Egyptian  cultural  identity with  its  divers
 
 #### Article (48)
 
-Culture  is  a  right  to  every  citizen.  The  State  shall  secure  and  support  this  right  and  make available  all  types  of  cultural  materials  to  all  strata  of  the  people,  without  any  discrimination based on financial capability, geographic location or others. The State shall give special attention to remote areas and the neediest groups.
+Culture is a right to every citizen. The State shall secure and support this right and make available all types of cultural materials to all strata of the people, without any discrimination
 
 15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+based on financial capability, geographic location or others. The State shall give special attention to remote areas and the neediest groups.
 
 The State shall encourage translation from and into Arabic.
 
@@ -577,6 +594,8 @@ All forms and types of arbitrary forced displacement of citizens shall be prohib
 
 [[START OF PAGE 20]]
 
+#### Article (64)
+
 Freedom of belief is absolute.
 
 The freedom of practicing religious rituals and establishing worship places for the followers of Abrahamic religions is a right regulated by Law.
@@ -585,7 +604,7 @@ The freedom of practicing religious rituals and establishing worship places for 
 
 Freedom of thought and opinion is guaranteed.
 
-Every  person  shall  have  the  right  to  express  his/her  opinion  verbally,  in  writing,  through imagery, or by any other means of expression and publication.
+Every person shall have the right to express his/her opinion verbally, in writing, through imagery, or by any other means of expression and publication.
 
 #### Article (66)
 
@@ -593,17 +612,15 @@ Freedom of scientific research is guaranteed. The State is committed to sponsor 
 
 #### Article (67)
 
-Freedom  of  artistic  and  literary  creativity  is  guaranteed.  The  State  shall  encourage  arts  and literature,  sponsor  creative  artists  and  writers  and  protect  their  productions,  and  provide  the means necessary for achieving this end.
+Freedom of artistic and literary creativity is guaranteed. The State shall encourage arts and literature, sponsor creative artists and writers and protect their productions, and provide the means necessary for achieving this end.
 
-No lawsuit  may  be  initiated  or  filed  to  stop  or  confiscate  any  artistic,  literary,  or  intellectual works, or against their creators except by the Public Prosecutor. No freedom restricting sanction may be inflicted for crimes committed because of the publicity of artistic, literary or intellectual product. As for crimes related to the incitement of violence, discrimination between citizens, or impingement of individual honor, the Law shall specify the penalties therefore.
+No lawsuit may be initiated or filed to stop or confiscate any artistic, literary, or intellectual works, or against their creators except by the Public Prosecutor. No freedom restricting sanction may be inflicted for crimes committed because of the publicity of artistic, literary or intellectual product. As for crimes related to the incitement of violence, discrimination between citizens, or impingement of individual honor, the Law shall specify the penalties therefore.
 
 In such cases, the court may obligate the sentenced to pay punitive compensation to the victim of the crime, in addition to the original compensations due to the victim for the damages incurred. All the foregoing shall be in accordance with the Law.
 
 #### Article (68)
 
-Information,  data,  statistics  and  official  documents  are  the  property  of  the  People  and  the disclosure thereof from their various sources is a right guaranteed by the State for all citizens. The State is committed to provide and make them available to citizens in a transparent manner. The  Law  shall  regulate  the  rules  for  obtaining  them  and  terms  for  their  availability  and confidentiality;  the  rules  for  their  deposit  and  storage;  and  the  rules  for  and  filing  complaints against  the  refusal  to  provide  them.  The  Law  shall  also  impose  penalties  for  withholding information or deliberately providing wrong information.
-
-#### Article (64)
+Information, data, statistics and official documents are the property of the People and the disclosure thereof from their various sources is a right guaranteed by the State for all citizens. The State is committed to provide and make them available to citizens in a transparent manner. The Law shall regulate the rules for obtaining them and terms for their availability and confidentiality; the rules for their deposit and storage; and the rules for and filing complaints against the refusal to provide them. The Law shall also impose penalties for withholding information or deliberately providing wrong information.
 
 20
 
@@ -671,13 +688,15 @@ No syndicate or federation may be established in the military or police agencies
 
 The  Law  shall  regulate  the  establishment  of  professional  syndicates  and  the  administration thereof  on  a  democratic  basis,  shall  guarantee  their  independence  and  shall  specify  their resources and the manner of recording their members, and holding them accountable for their conduct  in practicing their professional activities according  to the codes  of ethics  and professional conduct.
 
-No profession may have more than one syndicate for the regulation of its affairs. Receivership may not be  imposed  on  any  syndicate.  Administrative  bodies  may  not  interfere  in  the  affairs thereof. The board of directors of any syndicate may not be dissolved save by a court judgment. The opinion of the syndicate shall be sought on draft legislations pertaining to it.
+No profession may have more than one syndicate for the regulation of its affairs. Receivership may not be imposed on any syndicate. Administrative bodies may not interfere in the affairs
 
 22
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+thereof. The board of directors of any syndicate may not be dissolved save by a court judgment. The opinion of the syndicate shall be sought on draft legislations pertaining to it.
 
 #### Article (78)
 
@@ -701,7 +720,7 @@ The  State  shall  provide  children  with  care  and  protection  from  all  fo
 
 Every child shall be entitled to acquire early education in a childhood center until the age of six. It is prohibited to employ children before the age of completing their preparatory education (six years of primary and three years of preparatory) or in jobs which subject them to danger.
 
-The  State  shall  also  develop  a  judicial  system  for  children  that  have  been  victims  and  or  are witnesses. Children may not be held criminally accountable or detained save as provided in the Law and for the period of time specified therein. In such a case, they shall be provided with legal assistance and detained in appropriate locations separate from those allocated for the detention of adults.
+The State shall also develop a judicial system for children that have been victims and or are witnesses. Children may not be held criminally accountable or detained save as provided in the
 
 23
 
@@ -709,7 +728,9 @@ The  State  shall  also  develop  a  judicial  system  for  children  that  have
 
 [[START OF PAGE 24]]
 
-The State shall endeavor to achieve the best interest of children in  all  measures taken  against them.
+Law and for the period of time specified therein. In such a case, they shall be provided with legal assistance and detained in appropriate locations separate from those allocated for the detention of adults.
+
+The State shall endeavor to achieve the best interest of children in all measures taken against them.
 
 #### Article (81)
 
@@ -875,13 +896,15 @@ A member of the House of Representatives shall devote him/herself on a full time
 
 #### Article (104)
 
-As a condition for undertaking his/her duties, a House of Representatives member shall take the following oath: 'I swear by The Almighty God to loyally uphold the republican system, respect the  Constitution  and  the  Law,  fully  uphold  the  interests  of  the  People,  and  to  safeguard  the independence of the nation and the integrity and safety of .'
+As a condition for undertaking his/her duties, a House of Representatives member shall take the following oath: 'I swear by The Almighty God to loyally uphold the republican system, respect
 
 29
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+the Constitution and the Law, fully uphold the interests of the People, and to safeguard the independence of the nation and the integrity and safety of its territories.'
 
 #### Article (105)
 
@@ -981,13 +1004,15 @@ The House of Representatives shall be competent to maintain order therein and th
 
 The sessions of the House of Representatives shall be held in public.
 
-The House may hold a secret session at the request of the President of the Republic, the Prime Minister, the Speaker of the House, or at least twenty of the House members. By the majority of its members, the House shall decide whether the discussion in question is to be conducted in a public or a secret session.
+The House may hold a secret session at the request of the President of the Republic, the Prime Minister, the Speaker of the House, or at least twenty of the House members. By the majority of
 
 32
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+its members, the House shall decide whether the discussion in question is to be conducted in a public or a secret session.
 
 #### Article (121)
 
@@ -1013,13 +1038,15 @@ Any  bill  or  proposed  law  rejected  by  the  House  may  not  be  re-present
 
 The President of the Republic has the right to issue laws or reject them.
 
-If the President of the Republic objects to a draft law approved by the House of Representatives, he/she shall refer it back to the House of Representatives within thirty (30) days as of the date when the House of Representatives notified the President of such approval. If the President does not refer the draft law back to the House of Representatives within this period, the draft law shall be deemed a Law and shall be issued.
+If the President of the Republic objects to a draft law approved by the House of Representatives, he/she shall refer it back to the House of Representatives within thirty (30) days as of the date when the House of Representatives notified the President of such approval. If the President does
 
 33
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+not refer the draft law back to the House of Representatives within this period, the draft law shall be deemed a Law and shall be issued.
 
 If  the  draft  law  is  referred  back  to  the  House  of  Representatives  within  the  aforementioned period and approved again by a majority of two-thirds of its members, it shall be deemed a Law and shall be issued.
 
@@ -1089,7 +1116,7 @@ In all cases, a no-confidence motion may not be filed in connection with an issu
 
 [[START OF PAGE 36]]
 
-If the House of Representatives decides to withdraw confidence from the Prime Minister, or one of  his/her  deputies,  or  a  minister  or  one  of  his/her  deputies,  with  whom  the  Government  has announced  its  solidarity  with  before  voting,  then  that  Government  must  resign.  If  the  noconfidence resolution concerns a certain member of the Government, that member must resign.
+If the House of Representatives decides to withdraw confidence from the Prime Minister, or one of his/her deputies, or a minister or one of his/her deputies, with whom the Government has announced its solidarity with before voting, then that Government must resign. If the no-confidence resolution concerns a certain member of the Government, that member must resign.
 
 #### Article (132)
 
@@ -1183,13 +1210,15 @@ In case of the absence of the House of Representatives, the oath shall be taken 
 
 #### Article (145)
 
-The salary of the President of the Republic shall be determined by Law. The President may not receive  any  other  salary  or  remuneration.  No  modification  to  the  salary  may  come  into  effect during the presidential term during which it is approved. Throughout his presidential term, the President  may  not,  whether  in  person  or  by  proxy,  be  self-employed,  engage  in  commercial, financial or industrial activity, buy, rent or lease any property owned by the state or by a publiclaw  legal  person,  or  a  public  enterprise  sector  company,  sell  or  barter  any  part  of  his  own property with the State, or conclude a contract with the State as a vendor, supplier, contractor or otherwise as set out by Law. Any of such acts shall be void.
+The salary of the President of the Republic shall be determined by Law. The President may not receive any other salary or remuneration. No modification to the salary may come into effect during the presidential term during which it is approved. Throughout his presidential term, the
 
 38
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+President may not, whether in person or by proxy, be self-employed, engage in commercial, financial or industrial activity, buy, rent or lease any property owned by the state or by a public-law legal person, or a public enterprise sector company, sell or barter any part of his own property with the State, or conclude a contract with the State as a vendor, supplier, contractor or otherwise as set out by Law. Any of such acts shall be void.
 
 The President must submit a financial estate disclosure upon taking office, upon leaving it, and at the end of each year of service. Such financial estate disclosure is to be published in the Official Gazette.
 
@@ -1245,13 +1274,15 @@ In all cases, no treaty may be concluded which is contrary to the provisions of 
 
 #### Article (152)
 
-The President of the Republic is the Supreme Commander of the Armed Forces. The President shall not declare war, or send the armed forces to a combat mission outside the State borders, except after consultation with the National Defense Council and obtaining the approval of the House of Representatives by a majority of two-thirds of the members.
+The President of the Republic is the Supreme Commander of the Armed Forces. The President shall not declare war, or send the armed forces to a combat mission outside the State borders,
 
 40
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+
+except after consultation with the National Defense Council and obtaining the approval of the House of Representatives by a majority of two-thirds of the members.
 
 In case the House of Representatives has not been elected, the Supreme Council of the Armed Forces (SCAF) must be consulted and the approval of both the Cabinet and National Defense Council must be obtained.
 
@@ -1277,13 +1308,15 @@ General amnesty may only be granted by virtue of a law, ratified by the majority
 
 #### Article (156)
 
-In case an event which requires taking urgent measures, which cannot be delayed, occurs while the House of Representatives is not in session, the President of the Republic shall call the House for an urgent meeting to present the matter thereto. If the House of Representatives has not been elected, the President of the Republic may issue decrees having the force of law, provided that they are then presented to, discussed and approved by the new House of Representatives within fifteen  days  from  the  commencement  of  its  session.  If  such  decrees  are  neither  presented  nor discussed by the House, or if they are presented but not ratified thereby, their force of law shall retroactively  be  revoked  without  need  for  issuing  a  decision  to  that  effect,  unless  the  House confirms  its  effectiveness  during    the  previous  period  or  decides  to  settle  the  consequences thereof.
+In case an event which requires taking urgent measures, which cannot be delayed, occurs while the House of Representatives is not in session, the President of the Republic shall call the House for an urgent meeting to present the matter thereto. If the House of Representatives has not been elected, the President of the Republic may issue decrees having the force of law, provided that
 
 41
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+they are then presented to, discussed and approved by the new House of Representatives within fifteen days from the commencement of its session. If such decrees are neither presented nor discussed by the House, or if they are presented but not ratified thereby, their force of law shall retroactively be revoked without need for issuing a decision to that effect, unless the House confirms its effectiveness during the previous period or decides to settle the consequences thereof.
 
 #### Article (157)
 
@@ -1325,7 +1358,7 @@ The interim President may not run for presidency or request any amendment to the
 
 #### Article (161)
 
-The House of Representatives may propose to withdraw confidence from the President of the Republic and hold early presidential elections upon filing a reasoned motion to be signed by at least the majority of the members of the House of Representatives and upon approval of twothirds  of  its  members.  The  motion  may  only  be  filed  once  for  the  same  reason  within  the presidential term.
+The House of Representatives may propose to withdraw confidence from the President of the Republic and hold early presidential elections upon filing a reasoned motion to be signed by at least the majority of the members of the House of Representatives and upon approval of two-thirds of its members. The motion may only be filed once for the same reason within the presidential term.
 
 Upon approval of the proposal to withdraw confidence, the matter of withdrawing confidence from the President of the Republic and holding early presidential elections shall be put to public referendum to be called by the Prime Minister. If the majority approves the decision to withdraw confidence,  the  President  of  the  Republic  shall  be  relieved  from  his  office,  the  office  of  the President of the Republic shall be deemed vacant, and early presidential elections shall be held within sixty (60) days as of the date of announcing the results of referendum. If the result of the referendum is in the negative, the House of Representatives shall be deemed dissolved, and the President of the Republic shall call for election of a new House of Representatives within thirty (30) days as of the date of dissolution.
 
@@ -1481,9 +1514,9 @@ The law shall regulate the manner in which governors and heads of other local ad
 
 #### Article (180)
 
-Every local unit shall elect a local council by direct and secret ballot for a term of four years. A candidate shall be at lease twenty one (21) Gregorian years of age. The law shall regulate the other conditions for candidacy and procedures of election, provided that one quarter of the seats shall be allocated to youth under thirty five (35) years of age and one quarter shall be allocated for women, and that workers and farmers shall be represented by no less than 50 percent of the total  number  of  seats,  and  these  percentages  shall  include  an  appropriate  representation  of Christians and people with disability.
+Every local unit shall elect a local council by direct and secret ballot for a term of four years. A candidate shall be at least twenty one (21) Gregorian years of age. The law shall regulate the other conditions for candidacy and procedures of election, provided that one quarter of the seats shall be allocated to youth under thirty five (35) years of age and one quarter shall be allocated for women, and that workers and farmers shall be represented by no less than 50 percent of the total number of seats, and these percentages shall include an appropriate representation of Christians and people with disability.
 
-Local councils shall be competent to follow up the implementation of the development plan, f monitor of the different activities, exercise of oversight over the executive authorities using tools such  as  providing  proposals,  and  submitting  questions,  briefing  motions,  interrogations  and others, and to withdraw confidence from the heads of local units, as regulated by Law.
+Local councils shall be competent to follow up the implementation of the development plan, monitor of the different activities, exercise of oversight over the executive authorities using tools such as providing proposals, and submitting questions, briefing motions, interrogations and others, and to withdraw confidence from the heads of local units, as regulated by Law.
 
 The law shall define the competences of other local councils, their financial sources, guarantees of their members, and the independence of such councils.
 
@@ -1539,13 +1572,15 @@ Court sessions shall be public, unless the court decides on its secrecy to safeg
 
 #### Article (188)
 
-The judiciary shall decide on all disputes and crimes, except those falling within the jurisdiction of other judicial bodies. It shall solely have the jurisdiction to settle disputes relating to its own members. The affairs of the judiciary shall be managed by a Supreme Council, the structure and jurisdiction of which shall be regulated by Law.
+The judiciary shall decide on all disputes and crimes, except those falling within the jurisdiction of other judicial bodies. It shall solely have the jurisdiction to settle disputes relating to its own
 
 49
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+members. The affairs of the judiciary shall be managed by a Supreme Council, the structure and jurisdiction of which shall be regulated by Law.
 
 #### Article (189)
 
@@ -1653,7 +1688,7 @@ Judicial  experts,  forensic  medicine  experts,  and  notary  public's  technic
 
 #### Article (200)
 
-The Armed Forces belong to the People, and their duty is to protect the country, and preserve its security and the integrity of its territories. Only the State shall be entitled to establish the Armed Forces. No individual, organization, entity, or group shall be allowed to create military or quasimilitary squadrons, groups or organizations.
+The Armed Forces belong to the People, and their duty is to protect the country, and preserve its security and the integrity of its territories. Only the State shall be entitled to establish the Armed Forces. No individual, organization, entity, or group shall be allowed to create military or quasi-military squadrons, groups or organizations.
 
 The Armed Forces shall have a supreme council, as regulated by Law.
 
@@ -1899,7 +1934,7 @@ The city of Cairo is the capital of the Arab Republic of Egypt.
 
 #### Article (223)
 
-The national flag of the Arab Republic of Egypt consists of three colors; black, white, and red with  an  eagle  taken  from  the  'Eagle  of  Salah  El  Din'  in  golden  yellow.  The  emblem, decorations, insignia, seal and the national anthem shall be determined by Law.
+The national flag of the Arab Republic of Egypt consists of three colors; black, white, and red with an eagle taken from the “Eagle of Salah El Din” in golden yellow. The emblem, decorations, insignia, seal and the national anthem shall be determined by Law.
 
 Desecration of the Egyptian flag shall be a crime punishable under the law.
 
