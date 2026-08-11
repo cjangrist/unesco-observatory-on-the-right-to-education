@@ -1,5 +1,8 @@
 [[START OF PAGE 1]]
 
+ROYAL NORWEGIAN MINISTRY OF
+EDUCATION AND RESEARCH
+
 # Tenth Consultation on the Implementation of the Convention and Recommendation against Discrimination in Education (1960)
 
 National report
@@ -16,11 +19,66 @@ Oslo, June 2020
 
 ## Table of content
 
+1 Introduction ............................................................................................................ 4
+1.1 Summary of main initiatives related to the Convention ........................... 4
+1.2 Revision of relevant legal instruments.......................................................... 4
+1.3 "Anti-discrimination legislation" - General .................................................. 5
+1.4 Equality and Anti-Discrimination Ombudsman and Anti-Discrimination Tribunal................................................................................................ 6
+2 Norway’s approach to the 10th periodical reporting ......................................... 7
+2.1 Definitions ............................................................................................................. 8
+3 Norwegian education and training in brief.......................................................... 9
+3.1 The system............................................................................................................ 9
+3.2 Pre-primary education (age 0 to 5) ................................................................. 9
+3.3 Primary and secondary education including vocational training (6 – 19 years)........................................................................................................................... 9
+3.4 Tertiary education (universities and university colleges)...................... 10
+3.5 Adult education.................................................................................................. 10
+3.6 Recognition of prior learning......................................................................... 10
+4 Major features of Norwegian education and training ...................................... 12
+4.1 Administration and delivery ........................................................................... 12
+5 Measures to Enhance Inclusive Education - Overview .................................... 14
+5.1 Inclusion in kindergartens and schools...................................................... 14
+5.2 Knowledge Promotion 2020 – New Curriculum Reform ......................... 17
+5.3 Inclusion in Higher Education ....................................................................... 18
+6 Pressing issues and targeted measures............................................................... 19
+6.1 Measures targeting persons with disabilities/impairments................... 19
+6.2 Initiative to reduce drop-out at upper secondary level........................... 19
+6.3 Fighting bullying and harassment in kindergartens and schools ....... 20
+6.4 Measures to fight racial discrimination....................................................... 22
+6.5 DEMBRA .............................................................................................................. 23
+6.6 Action plan against racism and discrimination based on ethnicity and religion............................................................................................................................ 23
+6.7 Action plan against discrimination of LGBTI............................................. 23
+6.8 Financial support of students with special needs ................................... 24
+6.9 Measures to encourage, facilitate and support Adult Learning ........... 24
+6.9.1 SkillsPlus...................................................................................................... 24
+6.9.2 On-the-job trade certificate ..................................................................... 24
+6.9.3 The Skills Programme .............................................................................. 25
+6.9.4 The sectorial programme......................................................................... 25
+6.9.5 Flexible further education........................................................................ 25
+6.9.6 COVID 19 relief package........................................................................... 25
+6.9.7 The Framework for Basic Skills ............................................................. 25
+
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+7 Challenges and targeted measures relating to specific groups........................ 26
+7.1 Sami indigenous people of Norway ............................................................. 26
+7.2 National minorities in Norway........................................................................ 26
+7.2.1 Action plan against antisemitism 2016–2020..................................... 26
+7.2.2 Tater/Romani minority.............................................................................. 27
+7.2.3 The Kven minority...................................................................................... 27
+8 Immigrants and refugees..................................................................................... 29
+8.1 Children and youth ........................................................................................... 29
+8.2 Higher education............................................................................................... 31
+8.3 Introductory programme for refugees......................................................... 32
+9 References............................................................................................................. 33
+9.1 Legislation and curricula ................................................................................ 33
+9.2 White Papers (st. meld.) and Green Papers (NoU) ................................... 33
+9.3 Government Strategies and Action Plans .................................................. 33
+9.4 Reports................................................................................................................. 34
+9.5 Other sources..................................................................................................... 34
 
 3
 
@@ -34,7 +92,7 @@ Norway is a State Party to the UNESCO 1960 Convention and Recommendations agains
 
 ### 1.1  Summary of main initiatives related to the Convention
 
-For the reporting period (2016 -2020) these main issues are highlighted in the report
+For the reporting period (2016 – 2020) these main issues are highlighted in the report
 
 - Incorporation of equality and non-discrimination in the Constitution of Norway
 
@@ -82,11 +140,11 @@ Convention for the Protection of Human Rights and Fundamental Freedoms, Protocol
 
 - Convention on the Rights of the Child (including Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict, Optional Protocol to the Convention on the Rights of the Child on the sale of children, child prostitution and child pornography)
 
-The Human rights Act and its conventions are given precedence over other national acts. Several of these conventions contain rights and obligations concerning equality and antidiscrimination. The provisions of the Conventions can be invoked before and given effect to by the courts of justice. The state authorities are often asked to interpret the conventions. As an example, the Ministry of Education and Research has received questions on whether it implies religious discrimination to forbid pupils to carry religious symbols in schools, and questions concerning the children of asylum seekers and their right to access to education in Norway.
+The Human rights Act and its conventions are given precedence over other national acts. Several of these conventions contain rights and obligations concerning equality and anti-discrimination. The provisions of the Conventions can be invoked before and given effect to by the courts of justice. The state authorities are often asked to interpret the conventions. As an example, the Ministry of Education and Research has received questions on whether it implies religious discrimination to forbid pupils to carry religious symbols in schools, and questions concerning the children of asylum seekers and their right to access to education in Norway.
 
 ### 1.3  "Anti-discrimination legislation" - General
 
-In 2013, the Norwegian Parliament (the Storting) adopted four new equality and antidiscrimination acts, which entered into force 1 January 2014. These were the Gender Equality Act (gender), the Anti-Discrimination and Accessibility Act (disability), the Ethnicity Anti-Discrimination Act (ethnicity, religion and belief) and the Sexual Orientation AntiDiscrimination Act (sexual orientation, gender identity and gender expression). The acts cover all spheres of society, including education. The Sexual Orientation Discrimination Act was firstly enacted in 2013, prohibiting discrimination and harassment in all areas of society based on gender identity and gender expression as well as on sexual orientation. Until 2013, discrimination and harassment on the basis of sexual orientation was prohibited only in the workplace through the Working Environment Act. The anti-discrimination acts on gender, disability and ethnicity are largely continuation of provisions laid down in the former acts on discrimination of 1978, 2005 and 2008. The changes are primarily technical or matters of wording. The aim was to harmonize and simplify the legislation.
+In 2013, the Norwegian Parliament (the Storting) adopted four new equality and antidiscrimination acts, which entered into force 1 January 2014. These were the Gender Equality Act (gender), the Anti-Discrimination and Accessibility Act (disability), the Ethnicity Anti-Discrimination Act (ethnicity, religion and belief) and the Sexual Orientation Anti-Discrimination Act (sexual orientation, gender identity and gender expression). The acts cover all spheres of society, including education. The Sexual Orientation Discrimination Act was firstly enacted in 2013, prohibiting discrimination and harassment in all areas of society based on gender identity and gender expression as well as on sexual orientation. Until 2013, discrimination and harassment on the basis of sexual orientation was prohibited only in the workplace through the Working Environment Act. The anti-discrimination acts on gender, disability and ethnicity are largely continuation of provisions laid down in the former acts on discrimination of 1978, 2005 and 2008. The changes are primarily technical or matters of wording. The aim was to harmonize and simplify the legislation.
 
 The Government aims to improve the protection against discrimination for everyone and intended therefore to propose a comprehensive equality and anti-discrimination act. The proposal called for replacing the four existing gender equality and anti-discrimination acts with a new consolidated act. The acts also provide different sorts of protection depending on the basis of the discrimination and its social context. The purpose of gathering the acts in one legal framework is to make the legal protection against discrimination more accessible and thus more efficient. The Act applies in all sectors of society, including family life and other personal relations.
 
@@ -102,9 +160,9 @@ The Act aims specifically at improving the position of women and minorities. It 
 
 According to the Equality and Anti-Discrimination Act children with disabilities shall have a right to suitable individual adoption in municipal day care facilities to ensure equal development and activity opportunities (art. 20). Pupils and students with disabilities who attend a school or educational institution shall have a right to suitable individual adoption of the place of learning, teaching, teaching aids and examinations to ensure equal training and education opportunities (art. 21.)
 
-### 1.4  Equality and Anti-Discrimination Ombudsman and AntiDiscrimination Tribunal
+### 1.4  Equality and Anti-Discrimination Ombudsman and Anti-Discrimination Tribunal
 
-The Equality and Anti-discrimination Ombud is an independent body that promotes equality and prevents discrimination in all areas of society. The Ombud provides guidance on the antidiscrimination legislation and ensures that Norwegian legislation and administrative practice are consistent with the Convention on the Elimination of All Forms of Discrimination against Women, the International Convention on the Elimination of All Forms of Racial Discrimination and the Convention of the Rights of Persons with Disabilities. Complaints concerning breaches of the legislation are dealt with by the Anti-Discrimination Tribunal.
+The Equality and Anti-discrimination Ombud is an independent body that promotes equality and prevents discrimination in all areas of society. The Ombud provides guidance on the anti-discrimination legislation and ensures that Norwegian legislation and administrative practice are consistent with the Convention on the Elimination of All Forms of Discrimination against Women, the International Convention on the Elimination of All Forms of Racial Discrimination and the Convention of the Rights of Persons with Disabilities. Complaints concerning breaches of the legislation are dealt with by the Anti-Discrimination Tribunal.
 
 The Norwegian enforcement system was changed in 2018. These changes strengthened the Ombudsman's role as a proactive agent for equal opportunities, and the Tribunal was given the authority to award redress in discrimination cases within working life and compensation in simple cases.  From January 2020, the Anti-Discrimination Tribunal's authority was extended, so that it also may handle sexual harassment cases.
 
@@ -122,17 +180,17 @@ Major principles and values reflected in the 1960 Convention are similar to fund
 
 While SDG 4 does not specifically mention discrimination, its targets emphasize equal access for girls and boys, inclusion of persons with disabilities, indigenous peoples and people in vulnerable situations, and safe non-violent, inclusive and effective learning environments for all.
 
-A well-educated population is the greatest asset of every nation. The education system lays the foundation for social integration and economic growth and is vital to the development of a democratic and unified society. Education is also the individual right of every human being and shall ensure personal growth and intellectual development. As stated by the World Bank: "By improving their skills, health, knowledge, and resilience -their human capital -people can be more productive, flexible and innovative." 1
+A well-educated population is the greatest asset of every nation. The education system lays the foundation for social integration and economic growth and is vital to the development of a democratic and unified society. Education is also the individual right of every human being and shall ensure personal growth and intellectual development. As stated by the World Bank: "By improving their skills, health, knowledge, and resilience – their human capital – people can be more productive, flexible and innovative."1
 
-It is a great challenge to any education and training system to facilitate learning and optimal realisation of both individual and social potentials. This is particularly so in a context of constant change and high levels of migration, where education and training needs are changing and become increasingly diversified. The Norwegian government has chosen to address this challenge by means of inclusive education. Equal opportunities and nondiscrimination are basic principles and aims in terms of access, stable attendance and learning. The education system is meant to give equal access to and accommodate optimal learning for all individuals and contribute to reduced social inequalities.
+It is a great challenge to any education and training system to facilitate learning and optimal realisation of both individual and social potentials. This is particularly so in a context of constant change and high levels of migration, where education and training needs are changing and become increasingly diversified. The Norwegian government has chosen to address this challenge by means of inclusive education. Equal opportunities and non-discrimination are basic principles and aims in terms of access, stable attendance and learning. The education system is meant to give equal access to and accommodate optimal learning for all individuals and contribute to reduced social inequalities.
 
 Many different measures have been implemented with the aim to promote equity and equality in result. They target specific vulnerable or under-privileged groups and individuals. Above compulsory education, merit is the only relevant factor to regulate progress to higher education levels and specialized studies.
 
-Norway has participated in earlier periodic consultations on the implementation of the 1960Convention and Recommendation. An updated version of the report of 2012 was submitted in the ninth consultation round, in 2016-2017. A comprehensive national system of legal and policy instruments was described in the report.
+Norway has participated in earlier periodic consultations on the implementation of the 1960-Convention and Recommendation. An updated version of the report of 2012 was submitted in the ninth consultation round, in 2016-2017. A comprehensive national system of legal and policy instruments was described in the report.
 
-The Reporting Guidelines state that: ' Member States that already reported on the 9th Consultation (2016-2017) are invited to refer to their reports when appropriate. (p. 2)
+The Reporting Guidelines state that: “Member States that already reported on the 9th Consultation (2016-2017) are invited to refer to their reports when appropriate. (p. 2)
 
-Accordingly, this 10 th  report will be an updated version of the last report on the 1960 Convention and Recommendations.
+Accordingly, this 10th report will be an updated version of the last report on the 1960 Convention and Recommendations.
 
 > 1 World Bank Group 2018 "The Human Capital Project" page 2: https://openknowledge.worldbank.org/bitstream/handle/10986/30498/33252.pdf
 
@@ -144,9 +202,9 @@ Accordingly, this 10 th  report will be an updated version of the last report on
 
 ### 2.1  Definitions
 
-This report applies the definitions of 'discrimination' and 'education' as outlined in the 1960 Recommendation against discrimination in education:
+This report applies the definitions of “discrimination” and “education” as outlined in the 1960 Recommendation against discrimination in education:
 
-' 1.  ... the term `discrimination' includes any distinction, exclusion, limitation or preference which, being based on race, colour, sex, language, religion, political or other opinion, national or social origin, economic condition or birth, has the purpose or effect of nullifying or impairing equality of treatment in education and in particular:
+“1. ... the term `discrimination' includes any distinction, exclusion, limitation or preference which, being based on race, colour, sex, language, religion, political or other opinion, national or social origin, economic condition or birth, has the purpose or effect of nullifying or impairing equality of treatment in education and in particular:
 
 (a) Of depriving any person or group of persons of access to Education of any type or at any level;
 
@@ -176,13 +234,13 @@ Early Childhood Education and Care (ECEC) is a non-obligatory part of the educat
 
 Nearly all children in Norway have been to Kindergarten before entering primary school. The participation rate for all four- and five-year olds is 97 %. A high proportion of children less than 3 years of age also have a place in a kindergarten. For minority language speaking children, the participation rate is a little lower than for the age cohort as a whole. This also holds true for the four- and five-year olds, but the gap is more evident for younger minority children. 93.3 % of minority languages speaking 5-year olds now attend kindergarten before entering school. However, participation rates for minority languages speaking children have increased also for the youngest children. Participation of minority language speaking children aged 1-2 years has risen from 25 % in 2005 to 83,9% in 2019.
 
-### 3.3  Primary and secondary education including vocational training (6 -19 years)
+### 3.3  Primary and secondary education including vocational training (6 – 19 years)
 
-Mainstream, basic education in Norway is 7 + 3 + 3 years -primary, lower secondary and upper secondary education and training -of which the first ten years are compulsory. It has a centralised framework with national curricula, financing and quality control. But the delivery of education and training is decentralised to a high number of providers. Most students are enrolled in public education institutions. Both public and private providers of national education and training receive financial support from the government. They are subjected to national quality control and are obliged to organize examination and assessment according to national guidelines.
+Mainstream, basic education in Norway is 7 + 3 + 3 years – primary, lower secondary and upper secondary education and training – of which the first ten years are compulsory. It has a centralised framework with national curricula, financing and quality control. But the delivery of education and training is decentralised to a high number of providers. Most students are enrolled in public education institutions. Both public and private providers of national education and training receive financial support from the government. They are subjected to national quality control and are obliged to organize examination and assessment according to national guidelines.
 
 Entrants to upper secondary level can choose between 12 alternative education programs. Three of them prepare primarily for further academic studies, whereas the other nine programs have a vocational orientation.
 
-Vocational Education and Training (VET), including apprenticeship, is a fully integrated part of upper secondary education and training. In general, upper secondary VET includes two years of school-based education with practical training in school workshops and short work placements in industry, followed by two years of formalised apprenticeship training and productive work in an enterprise or public institution. The training enterprises receive financial support throughout the apprenticeship period. National curricula in upper secondary VET cover the school based as well as the apprenticeship part of the training programs. The apprenticeship is finalised with a (mainly) practical examination for the Trade certificate.
+Vocational Education and Training (VET), including apprenticeship, is a fully integrated part of upper secondary education and training. In general, upper secondary VET includes two years
 
 > 2 The Kindergarten Act states that children, who reach the age of one no later than by the end of October in the year a kindergarten place has been sought, are upon application, entitled to a place in a kindergarten in accordance with this act with regulations.
 
@@ -191,10 +249,11 @@ Vocational Education and Training (VET), including apprenticeship, is a fully in
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+of school-based education with practical training in school workshops and short work placements in industry, followed by two years of formalised apprenticeship training and productive work in an enterprise or public institution. The training enterprises receive financial support throughout the apprenticeship period. National curricula in upper secondary VET cover the school based as well as the apprenticeship part of the training programs. The apprenticeship is finalised with a (mainly) practical examination for the Trade certificate.
 
 ### 3.4  Tertiary education (universities and university colleges)
 
-There are some study programmes that require specific subjects from upper secondary education and/or practice, and there are several ways to enter higher education. Acceptance to higher education requires a Diploma from upper secondary school with general admission requirements. This is awarded non-vocational students or vocational students who choose to not take their apprenticeship. Conversely, study competence can be achieved by the so-called 23/5 rule where applicants must be 23 years of age and have a total of five years of education and/or work experience, as well as passed courses in Norwegian, English, mathematics, science and social studies. To be qualified for certain study programmes (for instance engineering), the applicant must cover advanced courses in science, such as mathematics, physics and chemistry. Admittance to Bachelor level programs is coordinated through the Norwegian Universities and Colleges Admission Service based on grade point average from upper secondary education, with the highest-ranking students offered a place. Additional points are awarded students with science or language specialization from upper secondary education. The number of points awarded also depends on the students age, and whether the student have completed one year of higher education, military service, folk high school or vocational training. Secondary school grades can later be improved via the arrangement of resit exams, but half of the study places are only offered based on original transcripts without age or study points. A student at a university or a university college can get scholarships and/or loans from The State Educational Loan Fund. A student welfare organization shall, in cooperation with education institutions, offer student welfare, such as student housing.
+There are some study programmes that require specific subjects from upper secondary education and/or practice, and there are several ways to enter higher education. Acceptance to higher education requires a Diploma from upper secondary school with general admission requirements. This is awarded non-vocational students or vocational students who choose to not take their apprenticeship. Conversely, study competence can be achieved by the so-called 23/5 rule where applicants must be 23 years of age and have a total of five years of education and/or work experience, as well as passed courses in Norwegian, English, mathematics, science and social studies. To be qualified for certain study programmes (for instance engineering), the applicant must cover advanced courses in science, such as mathematics, physics and chemistry. Admittance to Bachelor level programs is coordinated through the Norwegian Universities and Colleges Admission Service based on grade point average from upper secondary education, with the highest-ranking students offered a place. Additional points are awarded students with science or language specialization from upper secondary education. The number of points awarded also depends on the students age, and whether the student have completed one year of higher education, military service, folk high school or vocational training. Secondary school grades can later be improved via the arrangement of re-sit exams, but half of the study places are only offered based on original transcripts without age or study points. A student at a university or a university college can get scholarships and/or loans from The State Educational Loan Fund. A student welfare organization shall, in cooperation with education institutions, offer student welfare, such as student housing.
 
 ### 3.5 Adult education
 
@@ -224,9 +283,9 @@ Provision of adult training often requires adaptation to the needs of the learne
 
 In Norway, education is rights-based from the age of one. Every person is entitled to get the opportunity and necessary support to identify and develop her/his talents to the full potential, including theoretical, practical, cultural and social aspects. It is furthermore the responsibility of the education system to provide the various sectors of society with qualified, critical and constructive individuals that will actively support and contribute to the maintenance and further development of the economy and democratic welfare society.
 
-The Kindergarten Act states that the institutions in their daily operation shall take account of children's age, level o f functioning, gender, and social, ethnic, and cultural background, including the language and culture of Sami children (Section 2 -4).
+The Kindergarten Act states that the institutions in their daily operation shall take account of children's age, level of functioning, gender, and social, ethnic, and cultural background, including the language and culture of Sami children (Section 2 – 4).
 
-The Education Act states that teaching shall be adapted to the abilities and aptitudes of the individual pupils and apprentices. Emphasis shall be placed on constructive cooperation between teachers and pupils, between the school and the home, between the school and the workplace, and between apprentices and companies. All persons associated with school or with training e stablishments: '. .. shall make efforts to ensure that pupils and apprentices are not injured or exposed to offensiv e words or deeds'.
+The Education Act states that teaching shall be adapted to the abilities and aptitudes of the individual pupils and apprentices. Emphasis shall be placed on constructive cooperation between teachers and pupils, between the school and the home, between the school and the workplace, and between apprentices and companies. All persons associated with school or with training establishments: “... shall make efforts to ensure that pupils and apprentices are not injured or exposed to offensive words or deeds”.
 
 Education is considered a national, public responsibility and the education and training policy is shaped in the interface between cultural, economic and social distribution policies. Vocational education and training (VET) are strongly emphasized in mainstream education, as well as in a broader 'Life -Long Learning' (LLL) perspective. Formulation of education and training policy, as well as the implementation of VET always include a wide variety of stakeholders in civil society, including enterprises.
 
@@ -238,7 +297,7 @@ All residents are to be ensured equal rights of access to quality education, irr
 
 - The supply of education and training should be of high quality and broad enough to allow for a range of choices irrespective of geographical location and social factors;
 
-Education is regarded a means for promoting equity and reduce inequalities in society. Thus: 'When social inequality increases, efforts to combat the differences must be intensified in the education system.' 4
+Education is regarded a means for promoting equity and reduce inequalities in society. Thus: “When social inequality increases, efforts to combat the differences must be intensified in the education system.”4
 
 ### 4.1  Administration and delivery
 
@@ -260,7 +319,7 @@ Public-private partnerships (PPPs) constitute the backbone of upper secondary VE
 
 Public higher education institutions are owned by and organised directly under MOER and financed over its budget, but they have a high degree of professional and economic autonomy.
 
-Some 12 -15 % of students in higher education attend private institutions. Most of these receive financial support from MOER provided they meet professional requirements and deliver study programs that comply with national requirements. Approval and quality control of public and private institutions, programs and achievements is conducted by the Norwegian Agency for Quality Assurance in Education).
+Some 12 – 15 % of students in higher education attend private institutions. Most of these receive financial support from MOER provided they meet professional requirements and deliver study programs that comply with national requirements. Approval and quality control of public and private institutions, programs and achievements is conducted by the Norwegian Agency for Quality Assurance in Education).
 
 > 5 Municipalities and counties receive a block grant from the government. Schools do not receive funding directly from the government.
 
@@ -274,9 +333,9 @@ Some 12 -15 % of students in higher education attend private institutions. Most 
 
 ### 5.1  Inclusion in kindergartens and schools
 
-Inclusive education has for decades been a central policy principle and goal. Inclusion is the basic p rinciple and goal of the government's educational policy and targets private and public kindergartens, public schools and private schools with state funded support. This means that children from different backgrounds and with different needs and abilities come together in the same kindergartens and common schools of high quality, and that each child should feel that they belong and are allowed to have a sense of achievement,  adapted to the circumstances and abilities of each child.
+Inclusive education has for decades been a central policy principle and goal. Inclusion is the basic principle and goal of the government's educational policy and targets private and public kindergartens, public schools and private schools with state funded support. This means that children from different backgrounds and with different needs and abilities come together in the same kindergartens and common schools of high quality, and that each child should feel that they belong and are allowed to have a sense of achievement, adapted to the circumstances and abilities of each child.
 
-Regulations such as the Kindergarten Act and the Framework Plan for the content and Tasks of Kindergartens apply to all kindergartens regardless of ownership. The Purpose clause in the Kindergarten Act states that "The kindergarten shall promote democracy and equality and counteract all forms of discrimination" (Section 1). Kindergartens shall "help to ensure social equality" and must strive to promote "gender equality in their educational practice. In their daily operation the institutions shall take account of children's a ge, level of functioning, gender, and social, ethnic, and cultural background, including the language and culture of Sami children (Section 2 -4).
+Regulations such as the Kindergarten Act and the Framework Plan for the content and Tasks of Kindergartens apply to all kindergartens regardless of ownership. The Purpose clause in the Kindergarten Act states that "The kindergarten shall promote democracy and equality and counteract all forms of discrimination" (Section 1). Kindergartens shall "help to ensure social equality" and must strive to promote "gender equality in their educational practice. In their daily operation the institutions shall take account of children's age, level of functioning, gender, and social, ethnic, and cultural background, including the language and culture of Sami children (Section 2 – 4).
 
 Children with disabilities are entitled to priority for admission to kindergarten. Children who are subject to an administrative decision of the Child Welfare Service Act, are also entitled to priority admission. 3,3 % of children in Kindergarten receives special pedagogical support in accordance with regulation in the Kindergarten Act.
 
@@ -300,7 +359,7 @@ Pupils who do not or cannot benefit sufficiently from mainstream education are e
 
 Primary and lower secondary school pupils have the right to attend the school that is closest to where they live, or the school designated for the catchment area where they live. (Education Act). The pupils may be divided into groups as necessary. The groups must not be larger than is need for social belonging. Pupils shall not normally be organised according to level of ability, gender or ethnic affiliation. (Education Act).
 
-The operational understanding of and approach to inclusive education is that every individual shall be provided optimal learning conditions in the regular learning context -as far as possible. Only in exceptional cases students should receive instruction outside the regular learning context. In April 2020 the Norwegian Parliament approved a Government white paper entitled Early intervention and inclusive education in kindergartens, schools and out-of-school-hours care -Meld. St. 6 (2019 -2020). The White Paper includes a range of measures to improve social inclusion in education.
+The operational understanding of and approach to inclusive education is that every individual shall be provided optimal learning conditions in the regular learning context – as far as possible. Only in exceptional cases students should receive instruction outside the regular learning context. In April 2020 the Norwegian Parliament approved a Government white paper entitled Early intervention and inclusive education in kindergartens, schools and out-of-school-hours care – Meld. St. 6 (2019 – 2020). The White Paper includes a range of measures to improve social inclusion in education.
 
 One overarching goal of the policies for inclusive education is to further improve quality in kindergartens and schools so that all children and pupils can learn, experience a sense of achievement and develop in an inclusive environment. Better quality mainstream provision could reduce the need for special arrangements for individual children. Improved special needs provision could also ensure that children and young people develop better and learn more. Culture, knowledge, skills and capacity are key factors in improving quality.
 
@@ -336,13 +395,13 @@ Experience shows that the national framework of Norwegian education and training
 
 The quality of Norwegian kindergartens is high and the ECEC attendance is far above most other OECD countries, especially for the younger age-groups 7 . The importance of early Norwegian language stimulation and social and emotional preparation for a satisfactory transition to compulsory education is well documented. Despite recent developments with an increase in the number and coverage of qualified kindergarten teachers and assistants with formal qualification in ECEC, in some regions there is still a shortage of qualified kindergarten teachers. There are still some children that are not enrolled in kindergarten and hence are excluded from this benefit. It is worrying that many children from immigrant families do not attend despite financial stimulation arrangements such as reduced parental fees (set to a maximum of 6 % of family income, capped at 3135 NOK/month) or free 20 hour core time/week for 2, 3, 4 and 5 year old children in families with low income.
 
-### 5.2  Knowledge Promotion 2020 -New Curriculum Reform
+### 5.2  Knowledge Promotion 2020 – New Curriculum Reform
 
 Norway has recently introduced a major curriculum reform for primary and secondary education. The new core curriculum was introduced in 2017 and the subject curriculum, called the Knowledge Promotion 2020 will be implemented from the next school year 2020/21.
 
 The aim is to facilitate better learning for all, but also to better integrate generic competencies such as critical thinking and democratic citizenship. Education is about learning and about changes and preparing for the future. A whole-school approach shall promote learning and promote common values that are the foundation of our society. These are pivotal to respond to the major challenges we are facing in Norway, but also internationally. Therefore, the new curriculum emphasizes both the importance of certain values as well as deep learning and the ability to develop key competencies in different subjects in a balanced way.
 
-The new core curriculum, Core curriculum -values and principles for primary and secondary education , was published in September 2017, and is a part of the framework for the renewal of the school subjects. Key elements in the core curriculum are e.g. human rights, democratic citizenship, inclusion and cultural awareness. Three new cross-curricular topics will be integrated in the subjects: Sustainable development, democracy and citizenship, and health and life skills. These topics are interdisciplinary-related and will be reflected in all subjects and in all grades where appropriate.
+The new core curriculum, Core curriculum – values and principles for primary and secondary education, was published in September 2017, and is a part of the framework for the renewal of the school subjects. Key elements in the core curriculum are e.g. human rights, democratic citizenship, inclusion and cultural awareness. Three new cross-curricular topics will be integrated in the subjects: Sustainable development, democracy and citizenship, and health and life skills. These topics are interdisciplinary-related and will be reflected in all subjects and in all grades where appropriate.
 
 The renewal of the subject curricula will focus on relevance (authenticity), better progression (coherence), less focus on details and fewer learning objectives (focus). Over time, new themes and new objectives for expected competence are implemented into the curriculum and nothing is taken out. This creates a curriculum overload in school, which is a challenge when school is to provide good learning processes and lasting understanding. Therefore, there is a need to decrease the number of disciplines in the subjects' curricula: the subjects are developed to help pupils to undertake more in-depth studies. In-depth learning in school will help the pupils to master key elements in the subjects better and make it easier to transfer learning from one subject to another, or from one situation to another (Choice). Five basic skills are still to be given priority in the curriculum, these are: Reading, writing, verbal skills, numeracy and digital skills. The rationales for giving priority to the basic skills are that these are necessary requirements for learning and development in school, society and in working life. They are decisive for the individual's ability to master working life and participate as a critical and reflected citizen.
 
@@ -380,7 +439,7 @@ The overall goal for the inclusion policies is that each person shall have equal
 
 In primary and lower secondary education and training, the proportion of pupils requiring special needs education has been fairly stable at around 8 percent. The extent is at its highest in the 10th grade with 10 percent, and lowest in the first grade with 3.8 percent. 2.7 % of children in kindergarten receives special pedagogical assistance in accordance with the Education Act. The gender distribution in special needs education has remained stable for a long time, with boys accounting for around 70 percent.
 
-Children with disabilities have the right to equal opportunities for education as other pupils and students. Since 2018 the regulations on universal design of ICT (information and communications technology) applies to the education sector. All new ICT in the education sector is to be universally designed as from 2018, and all existing ICT intended for the general public's u se is to be universally designed as from 2021. This applies to web- based solutions such as schools' websites, learning materials and learning platforms. Due to the curriculum reform The Learning Promotion 2020 most learning resources is undergoing major revisions. Therefore, most digital learning resources and content and will be accessible to all from fall 2020.
+Children with disabilities have the right to equal opportunities for education as other pupils and students. Since 2018 the regulations on universal design of ICT (information and communications technology) applies to the education sector. All new ICT in the education sector is to be universally designed as from 2018, and all existing ICT intended for the general public's use is to be universally designed as from 2021. This applies to web- based solutions such as schools' websites, learning materials and learning platforms. Due to the curriculum reform The Learning Promotion 2020 most learning resources is undergoing major revisions. Therefore, most digital learning resources and content and will be accessible to all from fall 2020.
 
 ### 6.2  Initiative to reduce drop-out at upper secondary level
 
@@ -414,7 +473,7 @@ The new law concerning school environment and bullying entered into force in Aug
 
 The school has a duty to act, which means that everyone who works at school must intervene and report to the school's leaders if they see / hear or are notified that some students do not feel safe and well at school. Students who feel that they have been offended, discriminated against or do not feel safe and well can also report this to their teacher or other adults at school. Then an action plan must be prepared and different actions that will be individually considered take place until the pupil feels safe.
 
-The schools' duty to act to ensure that all pupils have a safe and beneficial learning environment, also applies in cases where digital bullying takes place outside school hours and has an impact a pupil's well-being and security in school. Also, in these cases, a plan of action must be made and evaluated until the pupil experiences a safe and good learning environment at school. Incidents that occur among pupils after school can affect how a child feels at school. If something has happened online that makes a child feel uncomfortable at school, the school must address the problem -even if the underlying reason is something that has occurred outside school grounds. This means that the school may have a responsibility even for bullying that happens after school, e.g. online, on the way to school or at football practice. What matters is whether the pupil feels happy when at school. Whatever the underlying reasons, it shall not stop the school from addressing the problem.
+The schools' duty to act to ensure that all pupils have a safe and beneficial learning environment, also applies in cases where digital bullying takes place outside school hours and has an impact a pupil's well-being and security in school. Also, in these cases, a plan of action must be made and evaluated until the pupil experiences a safe and good learning environment at school. Incidents that occur among pupils after school can affect how a child feels at school. If something has happened online that makes a child feel uncomfortable at school, the school must address the problem – even if the underlying reason is something that has occurred outside school grounds. This means that the school may have a responsibility even for bullying that happens after school, e.g. online, on the way to school or at football practice. What matters is whether the pupil feels happy when at school. Whatever the underlying reasons, it shall not stop the school from addressing the problem.
 
 20
 
@@ -424,7 +483,7 @@ The schools' duty to act to ensure that all pupils have a safe and beneficial le
 
 According to the Education Act, the school may decide to move a pupil to another school, if the pupil's behaviour seriously affects the safety and learning of other pupils. However, the school cannot make the decision if less intervening measures can remedy the situation. To move a pupil to another school will only be done in extraordinary cases and has only rarely been used as an option.
 
-If the pupil (parents) feel that the school has not done enough to stop the bullying, they can report the matter directly to their County Governor who ensure that the school observe the laws and regulations concerning pupils' well -being. If the County Governor's office believes that the school has not fulfilled its obligations, it may instruct the local authority to act to ensure that the pupil in question can feel safe and happy at school. It may also stipulate concrete measures that the school must take. The best interests of the pupils are the primary consideration when the County Governor addresses the case.
+If the pupil (parents) feel that the school has not done enough to stop the bullying, they can report the matter directly to their County Governor who ensure that the school observe the laws and regulations concerning pupils' well-being. If the County Governor's office believes that the school has not fulfilled its obligations, it may instruct the local authority to act to ensure that the pupil in question can feel safe and happy at school. It may also stipulate concrete measures that the school must take. The best interests of the pupils are the primary consideration when the County Governor addresses the case.
 
 The Education Act clearly stipulates that the best interest of the pupils shall be a primary consideration no matter what the case may be, and every child is entitled to express their views and to be heard. This is a principle stated in the UN Convention on the Rights of the Child. Norway has ratified the agreement.
 
@@ -458,7 +517,7 @@ In 2016 the government presented future policies in the fight against bullying i
 
 The policies consist of measures within three areas. The areas are better knowledge in schools and kindergartens on how to prevent, uncover and stop bullying, better support and guidance, especially for children and their parents, and a better legal framework.
 
-The 'Partnership against bullying', covering the period 2016 2020, was signed by the Norwegian Prime Minister, the Minister of Education and several other partners. Within the framework of this binding partnership for good, inclusive childhood and learning environments from kindergarten through upper secondary school, the government has launched several measures to combat bullying at local and school levels.
+The “Partnership against bullying”, covering the period 2016 – 2020, was signed by the Norwegian Prime Minister, the Minister of Education and several other partners. Within the framework of this binding partnership for good, inclusive childhood and learning environments from kindergarten through upper secondary school, the government has launched several measures to combat bullying at local and school levels.
 
 ### 6.4  Measures to fight racial discrimination
 
@@ -480,7 +539,7 @@ Democratic Mobilisation against Racism and Anti-Semitism (DEMBRA) is a programme
 
 DEMBRA supports schools through teacher training and a process of school development. Guided by experts, schools engage in mapping, analysing and responding to local challenges related to group hostility and undemocratic attitudes. DEMBRA builds on the understanding that the role and strategies of schools in the broader societal task of enhancing cohesion and preventing group enmity should be grounded in pedagogy, the mandate of schools and the competence of teachers.
 
-Based on t he school's own circumstances, DEMBRA's pedagogical model of prevention recognizes that a democratic culture, based on participation and critical thinking, offers the best means of preventing and counteracting attitudes that threaten democracy. This is based on insights from research on prejudice and group enmity. Prejudice and hatred towards a defined 'other' provide us with a sense of identity and of belonging to a distinct 'us'. Prevention must therefore begin with opportunities for participation in inclusive communities that are not based on negative notions of 'the other.' Knowledge, critical thinking, and curiosity allow us to discover nuances that undermine stereotypes of 'the other' and are therefore also key components of preventive efforts.
+Based on the school's own circumstances, DEMBRA's pedagogical model of prevention recognizes that a democratic culture, based on participation and critical thinking, offers the best means of preventing and counteracting attitudes that threaten democracy. This is based on insights from research on prejudice and group enmity. Prejudice and hatred towards a defined 'other' provide us with a sense of identity and of belonging to a distinct 'us'. Prevention must therefore begin with opportunities for participation in inclusive communities that are not based on negative notions of 'the other.' Knowledge, critical thinking, and curiosity allow us to discover nuances that undermine stereotypes of 'the other' and are therefore also key components of preventive efforts.
 
 DEMBRA learning resources are available at dembra.no in all the Scandinavian languages and in English. The national DEMBRA Programme in Norway is coordinated by The Norwegian Centre for Holocaust and Minority Studies in Oslo.
 
@@ -510,13 +569,13 @@ Two large OECD surveys on basic skills in the adult population gave Norway a hig
 
 #### 6.9.1  SkillsPlus
 
-In response to these challenges, the Norwegian government established in 2006 a national programme called Basic Competence in Working Life, BCWL. The programme concentrates on reading, writing and numeracy, and digital and oral skills. Courses in Norwegian language and a scheme for the voluntary sector was added to the programme in 2015 -16, and the name has been changed into SkillsPlus (Kompetansepluss). Skills Norway has the responsibility for developing and running the programme. The essence of Skills plus is that the basic skills and Norwegian or Sami language training should be combined with practical work -or daily life activities. SkillsPlus is available for working life and for civil society.It is for the training of persons who need to boost their basic skills, and also for workers who need an apprenticeship certificate combined with basic skills, Norwegian or Sami language training. Any private or public enterprise in Norway, as well as voluntary organisations, can apply for funding from the programme.
+In response to these challenges, the Norwegian government established in 2006 a national programme called Basic Competence in Working Life, BCWL. The programme concentrates on reading, writing and numeracy, and digital and oral skills. Courses in Norwegian language and a scheme for the voluntary sector was added to the programme in 2015–16, and the name has been changed into SkillsPlus (Kompetansepluss). Skills Norway has the responsibility for developing and running the programme. The essence of Skills plus is that the basic skills and Norwegian or Sami language training should be combined with practical work – or daily life activities. SkillsPlus is available for working life and for civil society.It is for the training of persons who need to boost their basic skills, and also for workers who need an apprenticeship certificate combined with basic skills, Norwegian or Sami language training. Any private or public enterprise in Norway, as well as voluntary organisations, can apply for funding from the programme.
 
 #### 6.9.2  On-the-job trade certificate
 
 Employees without formal education relevant to their work, may since 2018 obtain a trade certificate while in paid employment (Fagbrev på jobb). To qualify for this training scheme, the participants must have a minimum of one year's relevant practical experience and be employed in at least a 50 per cent position throughout the entire course. Their non-formal learning will be validated. The participants are exempted from the common core subjects of the national curriculums, the training is individually adapted, and basic skills is an essential part of the training. The competence requirements in the apprentice subject and to pass the certificate are, however, the same as for other apprentices. Cooperation between participant, employer and county administration is a key factor in this model.
 
-> 8 https://www.regjeringen.no/en/dokumenter/action-plan-against-discrimination-based-on-sexual-orientation-gender-identity-and-genderexpression/id2505393/
+> 8 https://www.regjeringen.no/en/dokumenter/action-plan-against-discrimination-based-on-sexual-orientation-gender-identity-and-gender-expression/id2505393/
 
 24
 
@@ -530,7 +589,7 @@ The Skills Programme (Kompetanseprogrammet) is a part of the skills reform Learn
 
 #### 6.9.4  The sectorial programme
 
-The Norwegian government has established eight sectorial programmes for lifelong learning, in which the social partners -the Government, the Employers Federation and the Employee organizations -cooperate to enhance the participation in lifelong learning to strengthen different competencies in the chosen sectors. The partners combine their efforts to find what skills the sectors need and want to strengthen. The educational courses are open to both employed and laid-off/unemployed and can be combined with participation in the workforce as the instruction is based online.
+The Norwegian government has established eight sectorial programmes for lifelong learning, in which the social partners – the Government, the Employers Federation and the Employee organizations – cooperate to enhance the participation in lifelong learning to strengthen different competencies in the chosen sectors. The partners combine their efforts to find what skills the sectors need and want to strengthen. The educational courses are open to both employed and laid-off/unemployed and can be combined with participation in the workforce as the instruction is based online.
 
 #### 6.9.5  Flexible further education
 
@@ -568,9 +627,9 @@ The municipalities are responsible for ensuring that kindergartens for Sami chil
 
 Groups with a long-standing attachment to the country are defined as national minorities, in accordance with the Council of Europe's Framework Convention for the Protection of National Minorities. In Norway, these minorities are Kvens/Norwegian Finns (people of Finnish descent in Northern Norway), Jews, Forest Finns, Roma and Romani people/Tater (Travellers). The groups are quite varied in regards their interests, needs and access to the educational system.
 
-#### 7.2.1  Action plan against antisemitism 2016 -2020
+#### 7.2.1  Action plan against antisemitism 2016–2020
 
-Efforts to combat antisemitism are based on the government's general efforts to combat discrimination, racism and group-focused enmity. The action plan is dynamic, and the measures can be adapted and changed during the action plan period, as we gain new knowledge and experience. Schools are an important arena in preventive work because measures in schools can reach many. Preventin g antisemitic attitudes is already within schools' framework and mandate and is part of the comprehensive approach to strengthen pupils'
+Efforts to combat antisemitism are based on the government's general efforts to combat discrimination, racism and group-focused enmity. The action plan is dynamic, and the measures can be adapted and changed during the action plan period, as we gain new knowledge and experience. Schools are an important arena in preventive work because measures in schools can reach many. Preventing antisemitic attitudes is already within schools' framework and mandate and is part of the comprehensive approach to strengthen pupils'
 
 26
 
@@ -584,7 +643,7 @@ learning environment. One of the aims of this action plan is to contribute to in
 
 The Tater/Romani Committee submitted its report "Assimilation and Resistance" (NOU 2015:7) in June 2015. The report concludes that in the 1900's, Romani People/Tater were subject to harsh assimilation policies by Norwegian authorities. The policies were expressed through laws and legislative decrees that had partly discriminatory purposes and a clear discriminatory effect. These policies have created negative prejudices towards this minority group, and fear and distrust between the minority and mainstream society. The Committee also finds that there is very little dissemination of knowledge about the culture and history of the Romani People/Tater in kindergartens, schools and teacher training programs. The Committee's study of two generations of Romani People/Tater who were subject to assimilation measures show alarmingly high mortality rates and a significantly lower level of education than the population in general. The Government will follow up the Commission's report in the forthcoming White Paper to the Storting (Norwegian Parliament) on national minorities, which is planned presented in 2020.
 
-It is assumed that 500 -700 Norwegian Roma have their permanent residence in Norway. The vast majority live in the city of Oslo. Living conditions for Norwegian Roma are worse than in society at large. Several families have complex and difficult life situations and experience poverty. Roma report that they are subjected to discrimination in the housing market, and few seem to be employed. The level of education seems to be substantially lower than in society at large.
+It is assumed that 500–700 Norwegian Roma have their permanent residence in Norway. The vast majority live in the city of Oslo. Living conditions for Norwegian Roma are worse than in society at large. Several families have complex and difficult life situations and experience poverty. Roma report that they are subjected to discrimination in the housing market, and few seem to be employed. The level of education seems to be substantially lower than in society at large.
 
 An Action plan to improve living conditions for Roma in Oslo was launched in 2009. Its main objective was to combat discrimination against Roma and ensure the minority group better living conditions. The Government received an evaluation of the Action Plan in 2014. The evaluation highlighted the need for a revision of the Government's efforts to improve Roma's living conditions. The Ministry of Local Government and Modernisation funds the municipality of Oslo's programme "school guidance" for Roma pupils. The aim of the program is to strengthen learning outcomes, reduce absence and increase Roma pupil's chances to complete primary education.  Oslo municipality have reported an increase in the number of families who contact the school guides.
 
@@ -592,7 +651,7 @@ One of the recommendations in the evaluation is to prioritize children's educati
 
 #### 7.2.3  The Kven minority
 
-The Kven minority in Norway have the right to education in Finnish in Troms and Finnmark if there are at least three pupils within the municipality who ask for it. Finnish and Kven language have equal standing in the curriculum for Finnish education. The right to education in Kven language is however dependent on available teachers.
+The Kven minority in Norway have the right to education in Finnish in Troms and Finnmark if there are at least three pupils within the municipality who ask for it. Finnish and Kven language
 
 27
 
@@ -600,9 +659,11 @@ The Kven minority in Norway have the right to education in Finnish in Troms and 
 
 [[START OF PAGE 28]]
 
+have equal standing in the curriculum for Finnish education. The right to education in Kven language is however dependent on available teachers.
+
 The Ministry of Local Government and Modernisation invited Kven organisations and institutions and several government agencies to an input conference on Kven language in April 2016. The focus of the conference was how to make the measures for Kven language more targeted and effective.
 
-In 2014 the Norwegian Directorate for Education and Training developed information materials about Norway's national minorities for kindergarten and school staff. The publication contains information about Norway's five national minorities and will give a brief introduction to the history, languages and way of life of Jews, Kvens / Norwegian Finns, Forest Finns, Roma (Gypsies), and Romani people /Tater. The publication is aimed at staff in kindergartens and schools and may lead to a better understanding of the backgrounds of minority pupils. The material can also be used when teaching children or pupils about our national minorities. In the Chapter about the Roma the Genocide has been given a particular attention.
+In 2014 the Norwegian Directorate for Education and Training developed information materials about Norway's national minorities – for kindergarten and school staff. The publication contains information about Norway's five national minorities and will give a brief introduction to the history, languages and way of life of Jews, Kvens / Norwegian Finns, Forest Finns, Roma (Gypsies), and Romani people /Tater. The publication is aimed at staff in kindergartens and schools and may lead to a better understanding of the backgrounds of minority pupils. The material can also be used when teaching children or pupils about our national minorities. In the Chapter about the Roma the Genocide has been given a particular attention.
 
 The introduction includes a brief section on issues the staff may wish to reflect on if they have children or pupils from national minorities in their kindergarten or school, and it contains extracts from relevant legislation, the Framework Plan and the national curriculum. It also includes extracts from the Framework Plan and national curriculum describing how all children and pupils should learn about our national minorities.
 
@@ -624,13 +685,13 @@ The Government aims to ensure greater participation in working life and in socie
 
 ### 8.1  Children and youth
 
-Norwegian kindergartens shall be inclusive settings that provide children and families with the possibility to participate and be part of the community and fellowship. Many children do not have Norwegian as their mother tongue and learn Norwegian as a second language in kindergartens. Kindergartens must support them in their use of their mother tongue, whilst working actively to promote Norwegian language skills. The government aims to ensure that all children are proficient in Norwegian before starting school. This is fundamental in order to succeed in their continued learning and development, and to their active participation in society. Measures to increase participation of minority languages speaking children in kindergartens have therefore been put in place, such as reduced parental fees and free core time in kindergarten for low income-families and economic support to municipalities in developing reach-out measures. In addition to the latter, the Government made changes in 2020 in the process for applying for a place in kindergartens with the goal of making it easier for lowincome families to document their income, thus ensuring these families reduced parental fees and free core hours.
+Norwegian kindergartens shall be inclusive settings that provide children and families with the possibility to participate and be part of the community and fellowship. Many children do not have Norwegian as their mother tongue and learn Norwegian as a second language in kindergartens. Kindergartens must support them in their use of their mother tongue, whilst working actively to promote Norwegian language skills. The government aims to ensure that all children are proficient in Norwegian before starting school. This is fundamental in order to succeed in their continued learning and development, and to their active participation in society. Measures to increase participation of minority languages speaking children in kindergartens have therefore been put in place, such as reduced parental fees and free core time in kindergarten for low income-families and economic support to municipalities in developing reach-out measures. In addition to the latter, the Government made changes in 2020 in the process for applying for a place in kindergartens with the goal of making it easier for low-income families to document their income, thus ensuring these families reduced parental fees and free core hours.
 
 A pilot of universal free core time in kindergartens in municipalities, with a high proportion of migrants, showed good results for later schooling compared to areas without free core time 10 . As indicated above, free core time has therefore been made available for children aged 2-5 from low income families.
 
-Norwegian language development and instruction is a prerequisite for the full integration and inclusion of minority language children and pupils in Norway. In order to enhance integration and language development, the Government grants special economic support to the municipalities through the block grants transferred to municipalities for extra measures in kindergartens and provision of extra mother-tongue and Norwegian language lessons to this group in schools A special earmarked funding is provided to municipalities in order to support the kindergartens in minority children's Norwegian  language development and is used in different ways; bilingual assistants, pedagogical material or Norwegian language activities. In 2019 this funding included 153 municipalities and 88% of all minority language children in kindergartens. Out of a total of 636 250 pupils at Norwegian primary and lower secondary level in the school year 2019-2020, 41 003 pupils received special instruction in Norwegian.
+Norwegian language development and instruction is a prerequisite for the full integration and
 
-> 9 Integration through knowledge -The Government`s integration strategy for 2019-2022
+> 9 Integration through knowledge – The Government`s integration strategy for 2019-2022
 
 > 10 Bråten, B., Drange, N., Haakestad, H. og Telle. K. (2014): Gratis kjernetid i barnehager. Sluttrapport. Fafo-rapport 2014:44
 
@@ -640,15 +701,17 @@ Norwegian language development and instruction is a prerequisite for the full in
 
 [[START OF PAGE 30]]
 
+inclusion of minority language children and pupils in Norway. In order to enhance integration and language development, the Government grants special economic support to the municipalities through the block grants transferred to municipalities for extra measures in kindergartens and provision of extra mother-tongue and Norwegian language lessons to this group in schools A special earmarked funding is provided to municipalities in order to support the kindergartens in minority children's Norwegian language development and is used in different ways; bilingual assistants, pedagogical material or Norwegian language activities. In 2019 this funding included 153 municipalities and 88% of all minority language children in kindergartens. Out of a total of 636 250 pupils at Norwegian primary and lower secondary level in the school year 2019-2020, 41 003 pupils received special instruction in Norwegian.
+
 The high rise in immigration in 2015 called for immediate action to assist the school owners. One of the measures was the "school box": the website skolekassa.no with learning tools in several languages to support children living in reception centres learning Norwegian and other subjects. The Directorate for Education and training have created a website with guidance to kindergartens and schools on refugees. This includes four articles providing guidance on the reception, on post-traumatic stress etc. 11
 
 There are also available online bilingual resources like LEXIN (a dictionary) and Bildetema (dictionary with pictures). Since 2009 we the Directorate of Education and Training and the National Centre of Multicultural Education (NAFO) have developed Tema Morsmål (morsmal.no) which is a webpage with multilingual resources for kindergartens and schools. The project Flexible education is organized by NAFO. Flexible education offers bilingual teaching online within mathematics and science for the Arabic, Somali and Tigrinja languages. The project started in January 2017 and has been evaluated and shows good results both when it comes to learning subjects and learning Norwegian. From August 2020 the project will be a permanent offer and is now being further developed.
 
-There have been several measures over the last years to strengthen the competence on multicultural perspectives and second language acquisition, among those the revised teacher education programme, and the "Competence and diversity strategy" (2013-2017) for kindergartens and schools. The integration strategy from 2019 Integration through knowledge , cf. chapter 9.2, includes several measures to improve education for language minority children. The measures are within two effort areas:
+There have been several measures over the last years to strengthen the competence on multicultural perspectives and second language acquisition, among those the revised teacher education programme, and the "Competence and diversity strategy" (2013-2017) for kindergartens and schools. The integration strategy from 2019 Integration through knowledge, cf. chapter 9.2, includes several measures to improve education for language minority children. The measures are within two effort areas:
 
 - strengthening early efforts to develop skills in Norwegian language, basic skills and subject competences
 
-- increasing the competences among employees in kindergartens, primary school, lowerand upper secondary school, in order for them to be able to support migrant children and youth throughout the whole education system the measures will be implemented between 2019 and 2022.
+- increasing the competences among employees in kindergartens, primary school, lower- and upper secondary school, in order for them to be able to support migrant children and youth throughout the whole education system the measures will be implemented between 2019 and 2022.
 
 One of the measures in this chapter is to implement a project of recruiting Specialist Teachers in different subjects and areas of specialisation in schools. From the autumn of 2019, we included specialists in teaching language minority students. These teachers are also to be responsible for contributing to improving the competence of their colleagues.
 
@@ -670,7 +733,7 @@ Since the establishment of the minority counsellor service, it has been expanded
 
 ### 8.2  Higher education
 
-In 2019, 36 % of all Norwegian residents in the age group 19-24 attended higher education. The percentage was 45 for descendants of immigrants (persons born in Norway of two foreignborn parents). 21 % of immigrants, born outside Norway, in the same age group were enrolled in higher education. Also, in the age group 25-29, the share of Norwegian born people with two foreign- born parents was higher than the for the total age cohort; 20 % compared to 16. In this age group, the share of immigrants was only 10 %. One reason for the lower attendance is that fewer attend upper secondary education, and the drop-out rate is high for this group. Many immigrants arrive late in the school age, and therefore have less time to learn sufficient Norwegian to have a high learning outcome and to be able to complete upper secondary school. In addition, many immigrants arrive primarily to work, and are therefore not enrolled in higher education. In the age group 19-34, more women attend higher education than men in the general population: 24 % of the women and 16 % of the men, respectively (2019). Among the Norwegian born women with foreign-born parents, 35 % of the women were in higher education while 27 % of the men in the same category. Among the immigrants, the rates were 12 and 8 % for women and men, respectively.
+In 2019, 36 % of all Norwegian residents in the age group 19-24 attended higher education. The percentage was 45 for descendants of immigrants (persons born in Norway of two foreign-born parents). 21 % of immigrants, born outside Norway, in the same age group were enrolled in higher education. Also, in the age group 25-29, the share of Norwegian born people with two foreign- born parents was higher than the for the total age cohort; 20 % compared to 16. In this age group, the share of immigrants was only 10 %. One reason for the lower attendance is that fewer attend upper secondary education, and the drop-out rate is high for this group. Many immigrants arrive late in the school age, and therefore have less time to learn sufficient Norwegian to have a high learning outcome and to be able to complete upper secondary school. In addition, many immigrants arrive primarily to work, and are therefore not enrolled in higher education. In the age group 19-34, more women attend higher education than men in the general population: 24 % of the women and 16 % of the men, respectively (2019). Among the Norwegian born women with foreign-born parents, 35 % of the women were in higher education while 27 % of the men in the same category. Among the immigrants, the rates were 12 and 8 % for women and men, respectively.
 
 Norwegian born people with two foreign-born parents tend to attend prestigious study programs like medicine, dentistry, business, law and engineering. Their entry qualifications are above average.
 
@@ -734,19 +797,19 @@ The Constitution of the Kingdom of Norway (1814): source
 
 ### 9.2  White Papers (st. meld.) and Green Papers (NoU)
 
-Meld. St. 14 (2019 -2020) Kompetansereformen -Lære hele livet (Comptence Reform) source
+Meld. St. 14 (2019–2020) Kompetansereformen – Lære hele livet (Comptence Reform) source
 
-Meld. St. 6 (2019 -2020) Tett på -tidlig innsats og inkluderende fellesskap i barnehage, skole og SFO source
+Meld. St. 6 (2019 –2020) Tett på – tidlig innsats og inkluderende fellesskap i barnehage, skole og SFO source
 
-NOU 2019: 25 Med rett til å mestre -Struktur og innhold i videregående opplæring (New Core Curriculum 2017) source
+NOU 2019: 25 Med rett til å mestre — Struktur og innhold i videregående opplæring (New Core Curriculum 2017) source
 
 Verdier og prinsipper for grunnopplæringen - overordnet del av læreplanverket 2017 (New Core Curriculum) source
 
-Meld. St. 28 (2015 -2016) Fag -Fordypning -Forståelse -En fornyelse av Kunnskapsløftet (Knowledge Promotion 2020) source
+Meld. St. 28 (2015–2016) Fag – Fordypning – Forståelse — En fornyelse av Kunnskapsløftet (Knowledge Promotion 2020) source
 
 ### 9.3  Government Strategies and Action Plans
 
-Integration through knowledge -The Government`s integration strategy for 2019-2022: source
+Integration through knowledge – The Government`s integration strategy for 2019-2022: source
 
 The Norwegian Government`s action plan against racism and discrimination based on ethnicity and religion 2020-2023:
 
@@ -754,13 +817,21 @@ source
 
 The Norwegian Government`s action plan for improvement of living conditions for Roma individuals in Oslo 2009: source
 
-The Norwegian Government`s action plan against antisemitism 2016-2020: source The Norwegian Government`s action plan against discrimination based on sexual orientation, gender identity and gender expression 2017-2020: source Partnership against bullying 2016-2020: source Kompetanse for fremtidens barnehage (Competence Strategy for Kindergartens) source Nasjonal kompetansepolitisk strategi source
+The Norwegian Government`s action plan against antisemitism 2016-2020: source
 
 33
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+The Norwegian Government`s action plan against discrimination based on sexual orientation, gender identity and gender expression 2017-2020: source
+
+Partnership against bullying 2016-2020: source
+
+Kompetanse for fremtidens barnehage (Competence Strategy for Kindergartens) source
+
+Nasjonal kompetansepolitisk strategi source
 
 ### 9.4  Reports
 
