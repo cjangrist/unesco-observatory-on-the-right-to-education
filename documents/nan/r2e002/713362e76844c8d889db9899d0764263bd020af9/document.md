@@ -43,7 +43,7 @@ Political parties and other public associations acting within the framework of t
 
 Political parties and other public associations shall have the right to use state mass media under the procedure determined by the legislation.
 
-The creation and activities of political parties and other public associations that aim to change the constitutional system by force, or conduct a propaganda of war, social, ethnic, religious and racial hatred, shall be prohibited.
+The creation and activities of political parties and other public associations that aim to change the
 
 1 of 25
 
@@ -56,6 +56,8 @@ The creation and activities of political parties and other public associations t
 Constitutional Court of the Republic of Belarus
 
 http://www.kc.gov.by/en/print.aspx?guid=5283
+
+constitutional system by force, or conduct a propaganda of war, social, ethnic, religious and racial hatred, shall be prohibited.
 
 #### Article 6.
 State power in the Republic of Belarus is exercised on the principle of division of powers between the legislature, executive and judiciary. State bodies within the confines of their powers, shall be independent: they shall co-operate among themselves acting on the principle of checks and balances.
@@ -156,9 +158,9 @@ The symbols of the Republic of Belarus as a sovereign state shall be its nationa
 #### Article 20.
 The capital of the Republic of Belarus is the city of Minsk. The status of the city of Minsk shall be determined by the law.
 
-3 of 25
-
 ## Section 2. The Individual, Society and the State
+
+3 of 25
 
 04/08/2011 11:07
 
@@ -299,7 +301,7 @@ The State shall create conditions necessary for full employment of the populatio
 
 Citizens shall have the right to protection of their economic and social interests, including the right to form trade unions and conclude collective contracts (agreements), and the right to strike.
 
-Forced labour shall be prohibited, other than work or service specified in the 80 verdict of a court of law or in accordance with the law on the state of emergency or martial law.
+Forced labour shall be prohibited, other than work or service specified in the verdict of a court of law or in accordance with the law on the state of emergency or martial law.
 
 #### Article 42.
 Employees shall be guaranteed a just share of remuneration for the economic results of their labour in accordance with the quantity, quality and social significance of such work, but it shall not be less than the level which shall ensure them and their families a life of independence and dignity.
@@ -451,7 +453,7 @@ Constitutional Court of the Republic of Belarus
 
 http://www.kc.gov.by/en/print.aspx?guid=5283
 
-Citizens who are deemed incapable by a court of law or held in places of confinement in accordance with the verdict of a court shall not take part in elections. Persons in respect of whom preventive punishmentdetention is selected under the procedure specified in the law on criminal proceedings shall not take part in voting. Any direct or indirect restrictions on citizens' voting rights in other instances shall be impermissible and punishable by law.
+Citizens who are deemed incapable by a court of law or held in places of confinement in accordance with the verdict of a court shall not take part in elections. Persons in respect of whom preventive punishment-detention is selected under the procedure specified in the law on criminal proceedings shall not take part in voting. Any direct or indirect restrictions on citizens' voting rights in other instances shall be impermissible and punishable by law.
 
 The age qualification of deputies and other persons elected to state positions shall be determined by corresponding laws, unless otherwise provided by the Constitution.
 
@@ -548,7 +550,7 @@ Presidential candidates shall be nominated by citizens of the Republic of Belaru
 
 Presidential elections shall be called by the House of Representatives no later than five months and shall be conducted no later than two months prior to the expire of the term of office of the previous President.
 
-Where the office of the President becomes vacant, elections shall be held no sooner than 30 days and no later than 70 days, from the day on which the office fell vacant.
+Where the office of the President becomes vacant, elections shall be held no sooner than 30 days and no
 
 10 of 25
 
@@ -561,6 +563,8 @@ Where the office of the President becomes vacant, elections shall be held no soo
 Constitutional Court of the Republic of Belarus
 
 http://www.kc.gov.by/en/print.aspx?guid=5283
+
+later than 70 days, from the day on which the office fell vacant.
 
 #### Article 82.
 The elections shall be deemed to have taken place where over half the citizens of the Republic of Belarus on the electoral roll have taken part in the poll.
@@ -581,23 +585,23 @@ The Oath shall be administered in a ceremonial setting attended by members of th
 #### Article 84.
 The President of the Republic of Belarus shall:
 
-- call national referenda;
+1) call national referenda;
 
-- call regular and extraordinary elections to the House of Representatives, the Council of the Republic and local representative bodies;
+2) call regular and extraordinary elections to the House of Representatives, the Council of the Republic and local representative bodies;
 
-- dissolve the chambers of the Parliament to the order and instances determined by the Constitution;
+3) dissolve the chambers of the Parliament to the order and instances determined by the Constitution;
 
-- appoint six members of the Central Commission of the Republic of Belarus on Elections and National Referenda;
+4) appoint six members of the Central Commission of the Republic of Belarus on Elections and National Referenda;
 
-- form, dissolve and reorganize the Administration of the President of the Republic of Belarus, other bodies of state administration, as well as consultative advisory councils, other bodies attached to the Presidency;
+5) form, dissolve and reorganize the Administration of the President of the Republic of Belarus, other bodies of state administration, as well as consultative advisory councils, other bodies attached to the Presidency;
 
-- appoint the Prime minister of the Republic of Belarus with the consent of the House of Representatives;
+6) appoint the Prime minister of the Republic of Belarus with the consent of the House of Representatives;
 
-- determine the structure of the Government of the Republic of Belarus, appoint and dismiss the deputy Prime ministers, ministers and other members of the Government, take the decision on the resignation of the Government, or any of its members;
+7) determine the structure of the Government of the Republic of Belarus, appoint and dismiss the deputy Prime ministers, ministers and other members of the Government, take the decision on the resignation of the Government, or any of its members;
 
-- appoint with the consent of the Council of the Republic the Chairperson of the Constitutional, Supreme and Economic Courts from among the judges of these courts;
+8) appoint with the consent of the Council of the Republic the Chairperson of the Constitutional, Supreme and Economic Courts from among the judges of these courts;
 
-- appoint with the consent of the Council of the Republic the judges of the Supreme and Economic Courts, Chairperson of the Central Commission of the Republic of Belarus on Elections and National Referenda, the Procurator-General, the Chairperson and members of the Governing Board of the National
+9) appoint with the consent of the Council of the Republic the judges of the Supreme and Economic Courts, Chairperson of the Central Commission of the Republic of Belarus on Elections and National Referenda, the Procurator-General, the Chairperson and members of the Governing Board of the National
 
 11 of 25
 
@@ -613,41 +617,41 @@ http://www.kc.gov.by/en/print.aspx?guid=5283
 
 Bank;
 
-- appoint six members of the Constitutional Court, and other judges of the Republic of Belarus;
+10) appoint six members of the Constitutional Court, and other judges of the Republic of Belarus;
 
-- dismiss the Chairperson and judges of the Constitutional, Supreme and Economic Courts, the Chairperson of the Central Commission of the Republic of Belarus on Elections and National Referenda, the Procurator-General, the Chair-person and members of the Board of the National Bank to the order and instances determined by the law and to the notification of the Council of the Republic;
+11) dismiss the Chairperson and judges of the Constitutional, Supreme and Economic Courts, the Chairperson of the Central Commission of the Republic of Belarus on Elections and National Referenda, the Procurator-General, the Chair-person and members of the Board of the National Bank to the order and instances determined by the law and to the notification of the Council of the Republic;
 
-- appoint and dismiss the Chairperson of the State Supervisory Committee;
+12) appoint and dismiss the Chairperson of the State Supervisory Committee;
 
-- deliver messages to the people of the Republic of Belarus on the state of the nation and on the guidelines of the domestic and foreign policy;
+13) deliver messages to the people of the Republic of Belarus on the state of the nation and on the guidelines of the domestic and foreign policy;
 
 14) deliver annual messages to the Parliament which are not open to discussion at the sittings of the House of Representatives and Council of the Republic; have the right to participate in the sessions of Parliament and its bodies; deliver speeches and addresses to Parliament at any requested time;
 
-- have the right to chair the meetings of the Government of the Republic of Belarus;
+15) have the right to chair the meetings of the Government of the Republic of Belarus;
 
 16) appoint leading officials of bodies of state administration and determine their status; appoint official representatives of the President in the Parliament and other officials whose offices are determined by the law, unless otherwise specified in the Constitution;
 
-- resolve issues regarding the granting of citizenship of the Republic of Belarus, the termination thereof and the granting of asylum;
+17) resolve issues regarding the granting of citizenship of the Republic of Belarus, the termination thereof and the granting of asylum;
 
-- institute state holidays and red-letter days, bestow state awards, ranks and titles;
+18) institute state holidays and red-letter days, bestow state awards, ranks and titles;
 
-- grant pardons to convicted citizens;
+19) grant pardons to convicted citizens;
 
-- conduct negotiations and sign international treaties, appoint and recall diplomatic representatives of the Republic of Belarus in foreign countries and at international organizations;
+20) conduct negotiations and sign international treaties, appoint and recall diplomatic representatives of the Republic of Belarus in foreign countries and at international organizations;
 
-- receive the credentials and letters of recall of the accredited diplomatic representatives of foreign countries;
+21) receive the credentials and letters of recall of the accredited diplomatic representatives of foreign countries;
 
-- in the event of a natural disaster, a catastrophe, or unrest involving violence or the threat of violence on the part of a group of persons or organizations that endangers peoples lives and health or jeopardizes the territorial integrity and existence of the State, declare a state of emergency in the territory of the Republic of Belarus or in specific areas thereof and submit the decision to the Council of the Republic for approval within three days;
+22) in the event of a natural disaster, a catastrophe, or unrest involving violence or the threat of violence on the part of a group of persons or organizations that endangers peoples lives and health or jeopardizes the territorial integrity and existence of the State, declare a state of emergency in the territory of the Republic of Belarus or in specific areas thereof and submit the decision to the Council of the Republic for approval within three days;
 
-- have the right, in instances specified in the law, to defer a strike or suspend it for a period not exceeding three months;
+23) have the right, in instances specified in the law, to defer a strike or suspend it for a period not exceeding three months;
 
-- sign bills and have the right to the order determined by the Constitution to return it or some of its provisions with the objections to the House of Representatives;
+24) sign bills and have the right to the order determined by the Constitution to return it or some of its provisions with the objections to the House of Representatives;
 
-- have the right to abolish acts of the Government;
+25) have the right to abolish acts of the Government;
 
 26) exercise supervision directly or through specially formed bodies of observance of laws by local organs of administration or self-government and have the right to suspend decisions of local councils of deputies, or abolish decisions of local executive and administrative bodies where they do not conform to the requirements of the law;
 
-- form and head the Security Council of the Republic of Belarus, and appoint and dismiss the State
+27) form and head the Security Council of the Republic of Belarus, and appoint and dismiss the State
 
 12 of 25
 
@@ -697,7 +701,7 @@ Whether the office of President falls vacant or the President is unable to disch
 ### Chapter 4. The Parliament - The National Assembly
 
 #### Article 90.
-The Parliament - the National Assembly is a representative and legislative body of the Republic of Belarus.
+The Parliament - the National Assembly is a representative and legislative body of the
 
 13 of 25
 
@@ -710,6 +714,8 @@ The Parliament - the National Assembly is a representative and legislative body 
 Constitutional Court of the Republic of Belarus
 
 http://www.kc.gov.by/en/print.aspx?guid=5283
+
+Republic of Belarus.
 
 The Parliament shall consist of two chambers - the House of Representatives and the Council of the Republic.
 
@@ -782,9 +788,9 @@ The House of Representatives and the Council of the Republic shall elect from th
 #### Article 97.
 The House of Representatives shall:
 
-- consider draft laws put forward by the President or submitted by no less than 150 thousand citizens of the Republic of Belarus, who are eligible to vote, to make amendments and alterations in the Constitution and give its interpretation;
+1) consider draft laws put forward by the President or submitted by no less than 150 thousand citizens of the Republic of Belarus, who are eligible to vote, to make amendments and alterations in the Constitution and give its interpretation;
 
-- consider draft laws, including the guidelines of the domestic and foreign policy of the Republic of Belarus; the military doctrine; ratification and denunciation of international treaties; the fundamental concept and principles of execution of rights, liberties and duties of its citizens; citizenship issues, the status of foreigners and persons without citizenship; the rights of ethnic minorities: the approval of the budget of the republic and the account on its implementation; the introduction of national taxes and dues; the principles of ownership; the basics of social security; the principles regulating labour and employment, marriage, the family, childhood, maternity, paternity, education, upbringing, culture and public health; environmental protection and the rational utilisation of natural resources; determination of the procedure
+2) consider draft laws, including the guidelines of the domestic and foreign policy of the Republic of Belarus; the military doctrine; ratification and denunciation of international treaties; the fundamental concept and principles of execution of rights, liberties and duties of its citizens; citizenship issues, the status of foreigners and persons without citizenship; the rights of ethnic minorities: the approval of the budget of the republic and the account on its implementation; the introduction of national taxes and dues; the principles of ownership; the basics of social security; the principles regulating labour and employment, marriage, the family, childhood, maternity, paternity, education, upbringing, culture and public health; environmental protection and the rational utilisation of natural resources; determination of the procedure
 
 15 of 25
 
@@ -800,40 +806,40 @@ http://www.kc.gov.by/en/print.aspx?guid=5283
 
 for resolving issues relating to the administrative-territorial structure of the State; local self-government; the administration of justice and the status of judges; issues of criminal responsibility and amnesty; declaration of war and conclusion of peace; martial law and a state of emergency; institution of state awards; interpretation of laws;
 
-- call elections for the Presidency;
+3) call elections for the Presidency;
 
-- grant consent to the President concerning the appointment of the Prime minister;
+4) grant consent to the President concerning the appointment of the Prime minister;
 
-- consider the report of the Prime minister on the policy of the Government and approve or reject it; a second rejection by the House of the policy of the Government shall be deemed as an expression of non-confidence to the Government;
+5) consider the report of the Prime minister on the policy of the Government and approve or reject it; a second rejection by the House of the policy of the Government shall be deemed as an expression of non-confidence to the Government;
 
-- consider on the initiative of the Prime minister a call for a vote of confidence;
+6) consider on the initiative of the Prime minister a call for a vote of confidence;
 
-- on the initiative of no less than one-third of the full composition of the House of Representatives express a non-confidence vote to the Government; the issue of liability of the Government may not be discussed in the course of the year after the approval of the Programme of government policy;
+7) on the initiative of no less than one-third of the full composition of the House of Representatives express a non-confidence vote to the Government; the issue of liability of the Government may not be discussed in the course of the year after the approval of the Programme of government policy;
 
-- accept the resignation of the President;
+8) accept the resignation of the President;
 
-- be entitled with a majority of the full composition of the House of Representatives to forward charges of treason or of some other grave crime against the President; on the basis of the decision of the Council of the Republic and with no less than a two-thirds majority of the full composition of the House take the decision to remove the President from office;
+9) be entitled with a majority of the full composition of the House of Representatives to forward charges of treason or of some other grave crime against the President; on the basis of the decision of the Council of the Republic and with no less than a two-thirds majority of the full composition of the House take the decision to remove the President from office;
 
-- cancel the order of the Chairperson of the House of Representatives. The House of Representatives may take decisions on other issues which are determined by the Constitution.
+10) cancel the order of the Chairperson of the House of Representatives. The House of Representatives may take decisions on other issues which are determined by the Constitution.
 
 #### Article 98.
 The Council of the Republic shall:
 
-- approve or reject draft laws adopted by the House of Representatives with regard to alterations and addenda to the Constitution; and on the interpretation of the Constitution, as well as other draft laws;
+1) approve or reject draft laws adopted by the House of Representatives with regard to alterations and addenda to the Constitution; and on the interpretation of the Constitution, as well as other draft laws;
 
-- give its consent for the appointment by the President of the Chairperson of the Constitutional Court, Chairperson and judges of the Supreme Court, the Chairperson and judges of the Supreme Economic Court, the Chairperson of the Central Commission on Elections and National Referenda, the ProcuratorGeneral, the Chairperson and members of the National Bank;
+2) give its consent for the appointment by the President of the Chairperson of the Constitutional Court, Chairperson and judges of the Supreme Court, the Chairperson and judges of the Supreme Economic Court, the Chairperson of the Central Commission on Elections and National Referenda, the Procurator-General, the Chairperson and members of the National Bank;
 
-- elect six judges of the Constitutional Court;
+3) elect six judges of the Constitutional Court;
 
-- elect six members of the Central Commission on Elections and National Referenda;
+4) elect six members of the Central Commission on Elections and National Referenda;
 
-- reverse decisions of local Councils of deputies which do not conform to legislation;
+5) reverse decisions of local Councils of deputies which do not conform to legislation;
 
-- adopt resolution on the dissolution of local Council of deputies where it systematically and flagrantly violates the requirements of the law and other instances determined by the law;
+6) adopt resolution on the dissolution of local Council of deputies where it systematically and flagrantly violates the requirements of the law and other instances determined by the law;
 
-- consider charges of treason or of some other grave crime forwarded by the House of Representatives against the President and take decision on its investigation. Given the presence of substantial evidence take the decision to remove the President from office with no less than two-thirds of the full composition of the House;
+7) consider charges of treason or of some other grave crime forwarded by the House of Representatives against the President and take decision on its investigation. Given the presence of substantial evidence take the decision to remove the President from office with no less than two-thirds of the full composition of the House;
 
-- consider Presidential decrees on the introduction of a state of emergency, martial law, general or partial mobilisation no later than three days after their submission and take the appropriate decision.
+8) consider Presidential decrees on the introduction of a state of emergency, martial law, general or partial mobilisation no later than three days after their submission and take the appropriate decision.
 
 The Council of the Republic may take decisions on other issues determined by the Constitution.
 
@@ -957,13 +963,13 @@ The Prime minister shall be appointed by the President of the Republic of Belaru
 
 The Prime minister shall manage the activities of the Government. The Prime minister shall:
 
-- manage directly the activities of the Government and hold personal responsibility for its activities;
+1) manage directly the activities of the Government and hold personal responsibility for its activities;
 
-- sign the acts of the Government;
+2) sign the acts of the Government;
 
-- submit to Parliament a report on the Programme of the Government within two months after his appointment, and in the instance of its rejection submit the second report on the Programme of the Government within two months;
+3) submit to Parliament a report on the Programme of the Government within two months after his appointment, and in the instance of its rejection submit the second report on the Programme of the Government within two months;
 
-- inform the President on the basic guidelines of the activities of the Government, and on all the most important decisions;
+4) inform the President on the basic guidelines of the activities of the Government, and on all the most important decisions;
 
 19 of 25
 
@@ -1069,7 +1075,7 @@ the conformity of instruments of interstate formations of which the Republic of 
 
 the conformity of the decisions of the Council of Ministers and orders of the Supreme Court, the Supreme Economic Court, Procurator-General to the Constitution, laws and instruments of international law ratified by the Republic of Belarus, laws, decrees and edicts;
 
-the conformity of enactments of any other state body to the Constitution, laws and decrees as well as to the laws and instruments of international law ratified by the Republic of Belarus.
+the conformity of enactments of any other state body to the Constitution, laws and decrees as well as to
 
 21 of 25
 
@@ -1083,6 +1089,8 @@ Constitutional Court of the Republic of Belarus
 
 http://www.kc.gov.by/en/print.aspx?guid=5283
 
+the laws and instruments of international law ratified by the Republic of Belarus.
+
 Enforceable enactments or their particular provisions which are considered unconstitutional shall be deemed invalid to the order determined by the law.
 
 In instances specified by the Constitution, the Constitutional Court with regard to the proposal of the President shall give its conclusion on the presence of instances of systematic or flagrant violation of the Constitution of the Republic of Belarus by the chambers of Parliament.
@@ -1095,7 +1103,7 @@ The competence, organization and procedure governing the activities of the Const
 Citizens shall exercise local government and self-government through local councils of deputies, executive and administrative bodies, bodies of public territorial self-government, local referenda, assemblies and other forms of direct participation in state and public affairs.
 
 #### Article 118.
-Local councils of deputies shall be elected by the citizens of the relevant administrativeterritorial units for a four-year term.
+Local councils of deputies shall be elected by the citizens of the relevant administrative-territorial units for a four-year term.
 
 #### Article 119.
 The heads of local executive and administrative bodies shall be appointed and dismissed by the President of the Republic of Belarus or to the order determined by the latter, and their appointment shall be subject to the approval of the local councils of deputies.
@@ -1124,7 +1132,7 @@ Decisions of local executive and administrative authorities that are contrary to
 Decisions of local councils of deputies and their executive and administrative bodies that restrict or violate civil rights and liberties and the legitimate interests of citizens, and in other instances specified in law, may be challenged in a court of law.
 
 #### Article 123.
-Where a local council of deputies systematically or flagrantly violates the requirements of the law, it may be dissolved by the Council of the Republic. Other grounds for the premature termination of the powers of local councils of deputies shall be determined by the law.
+Where a local council of deputies systematically or flagrantly violates the requirements of
 
 22 of 25
 
@@ -1137,6 +1145,8 @@ Where a local council of deputies systematically or flagrantly violates the requ
 Constitutional Court of the Republic of Belarus
 
 http://www.kc.gov.by/en/print.aspx?guid=5283
+
+the law, it may be dissolved by the Council of the Republic. Other grounds for the premature termination of the powers of local councils of deputies shall be determined by the law.
 
 #### Article 124.
 The competence and the procedure governing the establishment and activities of bodies of local government and self-government shall be determined by the law.
