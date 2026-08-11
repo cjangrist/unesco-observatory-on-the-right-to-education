@@ -6,39 +6,39 @@
 
 ### Artículo 1º.- De la Modificatoria
 
-Modificanse los artículos 6º, 7º, 8º, 10º, 25º, 26º, 30º, 33º y 36º de la Ley Nº 27050 -Ley General de la Persona con Discapacidad, bajo los siguientes términos:
+Modifícanse los artículos 6º, 7º, 8º, 10º, 25º, 26º, 30º, 33º y 36º de la Ley Nº 27050 -Ley General de la Persona con Discapacidad, bajo los siguientes términos:
 
-#### Artículo 6º.- Conformación del CONADIS
+#### «Artículo 6º.- Conformación del CONADIS
 
 El CONADIS está constituido por los siguientes miembros:
 
-- Un  representante  del  Presidente  de  la  República  designado  por  Resolución Suprema, refrendada por el Presidente del Consejo de Ministros y el titular del Despacho  Ministerial  del  Ministerio  de  la  Mujer  y  Desarrollo  Social,  con potestad de asistir a las sesiones del Consejo de Ministros con voz, pero sin voto;  quien  lo  presidirá.  El  Presidente  del  CONADIS  es  titular  del  pliego presupuestal y ejerce la representación legal.
+- a) Un representante del Presidente de la República designado por Resolución Suprema, refrendada por el Presidente del Consejo de Ministros y el titular del Despacho Ministerial del Ministerio de la Mujer y Desarrollo Social, con potestad de asistir a las sesiones del Consejo de Ministros con voz, pero sin voto; quien lo presidirá. El Presidente del CONADIS es titular del pliego presupuestal y ejerce la representación legal.
 
-- El Secretario General de la Presidencia del Consejo de Ministros
+- b) El Secretario General de la Presidencia del Consejo de Ministros
 
-- El  Viceministro  de  Desarrollo  Social  del  Ministerio  de  la  Mujer  y  Desarrollo Social
+- c) El Viceministro de Desarrollo Social del Ministerio de la Mujer y Desarrollo Social
 
-- El Viceministro de Gestión institucional del Ministerio de Educación.
+- d) El Viceministro de Gestión institucional del Ministerio de Educación.
 
-- El Viceministro de Salud del Ministerio de Salud.
+- e) El Viceministro de Salud del Ministerio de Salud.
 
-- EI Viceministro de Promoción del Empleo y la Micro y Pequeña Empresa del Ministerio de Trabajo y Promoción del Empleo.
+- f) El Viceministro de Promoción del Empleo y la Micro y Pequeña Empresa del Ministerio de Trabajo y Promoción del Empleo.
 
-- El Viceministro de Asuntos Logísticos y de Personal del Ministerio de Defensa.
+- g) El Viceministro de Asuntos Logísticos y de Personal del Ministerio de Defensa.
 
-- El Viceministro del Ministerio del Interior.
+- h) El Viceministro del Ministerio del Interior.
 
-- El Gerente General del Seguro Social de Salud- ESSALUD.
+- i) El Gerente General del Seguro Social de Salud- ESSALUD.
 
-- Tres  representantes,  elegidos  entre  los  miembros  de  las  asociaciones  de Personas  con  Discapacidad  Física,  Discapacidad  Auditiva  y  de  Lenguaje,  y discapacidad  visual, legalmente  constituidas e inscritas en el Registro Nacional de las Personas con Discapacidad.
+- j) Tres representantes, elegidos entre los miembros de las asociaciones de Personas con Discapacidad Física, Discapacidad Auditiva y de Lenguaje, y discapacidad visual, legalmente constituidas e inscritas en el Registro Nacional de las Personas con Discapacidad.
 
-- Un representante elegido entre los miembros de las asociaciones de Familiares de Personas con Discapacidad Intelectual, legalmente constituidas e inscritas en el Registro Nacional de las Personas con Discapacidad.
+- k) Un representante elegido entre los miembros de las asociaciones de Familiares de Personas con Discapacidad Intelectual, legalmente constituidas e inscritas en el Registro Nacional de las Personas con Discapacidad.
 
-- Un representante elegido entre los miembros de las asociaciones de Familiares de  Personas  con  Discapacidad  de  Conducta,  legalmente  constituidas e inscritas en el Registro Nacional de las Personas con Discapacidad.
+- l) Un representante elegido entre los miembros de las asociaciones de Familiares de Personas con Discapacidad de Conducta, legalmente constituidas e inscritas en el Registro Nacional de las Personas con Discapacidad.
 
-- Un representante de la Federación Deportiva Especial.
+- m) Un representante de la Federación Deportiva Especial.
 
-El CONADIS formulará, implementará y ejecutará programas específicos con cada uno de. los sectores no comprendidos en la conformación del Consejo Nacional.
+El CONADIS formulará, implementará y ejecutará programas específicos con cada uno de los sectores no comprendidos en la conformación del Consejo Nacional.
 
 #### Artículo 7º.-  De la Secretaría Ejecutiva del CONADIS
 
@@ -52,35 +52,35 @@ La secretaría Ejecutiva del CONADIS estará a cargo del Ministerio de la Mujer 
 
 El CONADIS tiene las siguientes funciones:
 
-- Formular  y  aprobar  las  políticas  para  la  prevención,  atención  ó  integración social de las personas con discapacidad;
+- a) Formular y aprobar las políticas para la prevención, atención e integración social de las personas con discapacidad;
 
-- Aprobar  el  Plan  Operativo  Anual,  supervisando  y  vigilando  su  ejecución  y estableciendo  la  coordinación  necesaria  con  las instituciones públicas y privadas  en relación con la materia de su competencia;
+- b) Aprobar el Plan Operativo Anual, supervisando y vigilando su ejecución y estableciendo la coordinación necesaria con las instituciones públicas y privadas en relación con la materia de su competencia;
 
-- Elaborar  el Reglamento de Organizaciones y Funciones;
+- c) Elaborar el Reglamento de Organización y Funciones;
 
-- Recomendar a las  diferentes  entidades  de  los  sectores  público  y  privado,  la ejecución de prestaciones en materia de atención integral, sistemas previsionales e integración social de las personas con discapacidad, así como promover  las prestaciones económicas, sociales, orientación y asesoría jurídica;
+- d) Recomendar a las diferentes entidades de los sectores público y privado, la ejecución de prestaciones en materia de atención integral, sistemas previsionales e integración social de las personas con discapacidad, así como promover las prestaciones económicas, sociales, orientación y asesoría jurídica;
 
-- Elaborar proyectos de corto, mediano y largo plazo, para el desarrollo social y económico del sector poblacional con discapacidad;
+- e) Elaborar proyectos de corto, mediano y largo plazo, para el desarrollo social y económico del sector poblacional con discapacidad;
 
-- Apoyar  y    promover  el  financiamiento  de  los  proyectos  que  desarrollen  las organizaciones de las personas con discapacidad;
+- f) Apoyar y promover el financiamiento de los proyectos que desarrollen las organizaciones de las personas con discapacidad;
 
-- Difundir, fomentar y apoyar la formulación e implementación de programas de prevención,  educación, rehabilitación e integración social de las personas con discapacidad;
+- g) Difundir, fomentar y apoyar la formulación e implementación de programas de prevención, educación, rehabilitación e integración social de las personas con discapacidad;
 
-- Supervisar  el funcionamiento de todos los organismos que tienen que ver con las personas con discapacidad;
+- h) Supervisar el funcionamiento de todos los organismos que tienen que ver con las personas con discapacidad;
 
-- Demandar acciones de cumplimiento;
+- i) Demandar acciones de cumplimiento;
 
-- Fomentar  y  organizar  eventos  científicos,  técnicos  y  de  investigación  que tengan relación directa con los discapacitados;
+- j) Fomentar y organizar eventos científicos, técnicos y de investigación que tengan relación directa con los discapacitados;
 
-- Dirigir el Registro Nacional de la Persona con Discapacidad;
+- k) Dirigir el Registro Nacional de la Persona con Discapacidad;
 
-- Imponer  y  administrar  multas  ante  el  incumplimiento  de  lo  dispuesto  en  la presente Ley y su Reglamen to, salvó disposición distinta establecida por Ley;
+- l) Imponer y administrar multas ante el incumplimiento de lo dispuesto en la presente Ley y su Reglamento, salvo disposición distinta establecida por Ley;
 
-- Concertar  con  el  sector  privado  el  otorgamiento  de  beneficios  para  las personas con discapacidad;
+- m) Concertar con el sector privado el otorgamiento de beneficios para las personas con discapacidad;
 
-- Ejercer las funciones específicas que le asigne el Reglamento de la Presente Ley; y
+- n) Ejercer las funciones específicas que le asigne el Reglamento de la Presente Ley; y
 
-- Promover la creación de guarderías y albergues temporales descentralizados para  personas  con  discapacidad,  apoyados  por  programas  de  voluntariado, para  personas  cuya  atención  no  sea  posible  a  través  del  grupo  familiar, controlando y supervisando su funcionamiento.
+- o) Promover la creación de guarderías y albergues temporales descentralizados para personas con discapacidad, apoyados por programas de voluntariado, para personas cuya atención no sea posible a través del grupo familiar, controlando y supervisando su funcionamiento.
 
 #### Artículo 10º.- De la contribución de los gobiernos regionales y  locales
 
@@ -110,13 +110,15 @@ Toda  persona  que  disponga  de  la  constancia  de  inscripción  en  el  Regi
 
 #### Artículo 33º.-  Fomento del empleo
 
-El  Ministerio  de  Trabajo  y  Promoción  del  Empleo,  en  coordinación  con  el CONADIS,  apoya    las  medidas  de  fomento  laboral  y  los  programas  especiales para  personas  con  discapacidad,  dentro  del  marco  legal  vigente,  para  tal  fin  se crea la Oficina Nacional de Promoción Laboral para Personas con Discapacidad, como órgano dependiente de dicho Ministerio, encargada de promover el ejercicio de los derechos de los trabajadores con discapacidad, brindándoles servicios de asesoría,  defensa  legal,  mediación  y  conciliación  gratuitos,  en  un  marco  de  no discriminación e igualdad y equidad de oportunidades.
+El Ministerio de Trabajo y Promoción del Empleo, en coordinación con el CONADIS, apoya las medidas de fomento laboral y los programas especiales para personas con discapacidad, dentro del marco legal vigente, para tal fin se crea la Oficina Nacional de Promoción Laboral para Personas con Discapacidad, como órgano dependiente de dicho Ministerio, encargada de promover el ejercicio de los derechos de los trabajadores con discapacidad, brindándoles servicios de
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-El Poder Ejecutivo, sus órganos desconcentrados y descentralizados, las instituciones constitucionalmente autónomas, las empresas del Estado, los gobiernos regionales  y las  municipalidades, están obligados a contratar personas con  discapacidad  que  reúnan  condiciones  de  idoneidad  para  el  cargo,  en  una proporción no inferior al tres por ciento (3%) de la totalidad de su personal.
+asesoría, defensa legal, mediación y conciliación gratuitos, en un marco de no discriminación e igualdad y equidad de oportunidades.
+
+El Poder Ejecutivo, sus órganos desconcentrados y descentralizados, las instituciones constitucionalmente autónomas, las empresas del Estado, los gobiernos regionales y las municipalidades, están obligados a contratar personas con discapacidad que reúnan condiciones de idoneidad para el cargo, en una proporción no inferior al tres por ciento (3%) de la totalidad de su personal.
 
 #### Artículo 36º .- Bonificación en el Concurso de mérito para cubrir vacantes
 
@@ -150,12 +152,18 @@ POR TANTO:
 
 Mando se publique y cumpla.
 
-Dado en la Casa de Gobierno, en Lima, a los nueve días del mes de enero del año dos mil cuatro ALEJANDRO TOLEDO Presidente Constitucional de la República CARLOS FERRERO Presidente del Consejo de Ministros
+Dado en la Casa de Gobierno, en Lima, a los nueve días del mes de enero del año dos mil cuatro
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-(this page came through the extractor with no text)
+ALEJANDRO TOLEDO
+
+Presidente Constitucional de la República
+
+CARLOS FERRERO
+
+Presidente del Consejo de Ministros
 
 [[END OF PAGE 5]]
