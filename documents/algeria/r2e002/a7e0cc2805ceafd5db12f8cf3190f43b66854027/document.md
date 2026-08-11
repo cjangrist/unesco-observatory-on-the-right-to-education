@@ -1,14 +1,16 @@
 [[START OF PAGE 1]]
 
+# Loi n° 08-04 du 15 Moharram 1429 correspondant au 23 janvier 2008 portant loi d'orientation sur l'éducation nationale 1
+
 ....
 
 Le Président de la République,
 
-Vu la Constitution, notamment ses articles 53, 65, 119, 120 (alinéas 1 et 2), 122-16, et 126 ; Vu l'ordonnance n° 66-156 du 8 juin 1966, modifiée et completée, portant code pénal ;
+Vu la Constitution, notamment ses articles 53, 65, 119, 120 (alinéas 1 et 2), 122-16, et 126 ; Vu l'ordonnance n° 66-156 du 8 juin 1966, modifiée et complétée, portant code pénal ;
 
-Vu l'ordonnance n° 75-58 du 26 septembre 1975, modifiée et completée, portant code civil ;
+Vu l'ordonnance n° 75-58 du 26 septembre 1975, modifiée et complétée, portant code civil ;
 
-Vu l'ordonnance n° 76-35 du 16 avril 1976, modifiée et completée, portant organisation de l'éducation et de la formation ;
+Vu l'ordonnance n° 76-35 du 16 avril 1976, modifiée et complétée, portant organisation de l'éducation et de la formation ;
 
 Vu la loi n° 85-05 du 16 février 1985, modifiée et complétée, relative à la protection et à la promotion de la santé ;
 
@@ -37,8 +39,6 @@ Après avis du Conseil d'Etat
 Après adoption par le Parlement,
 
 > 1 Source : http://www.joradp.dz/JO2000/2008/004/F_Pag.htm
-
-# Loi n ° 08-04 du 15 Moharram 1429 correspondant au 23 janvier 2008 portant loi d'orientation sur l'éducation nationale 1
 
 [[END OF PAGE 1]]
 
@@ -134,7 +134,7 @@ En  matière  de  qualification,  l'école  a  pour  mission  de  répondre  aux
 
 * de réinvestir et d'opérationnaliser les savoirs et savoir-faire acquis ;
 
-- d'accéder à une formation supérieure ou professionnelle ou à un emploi conformes à leurs aptitudes et à leur aspirations ;
+- d'accéder à une formation supérieure ou professionnelle ou à un emploi conformes à leurs aptitudes et à leurs aspirations ;
 
 - de  s'adapter  de  façon  permanente  à  l'évolution  des  métiers  et  professions  et  aux changements économiques, scientifiques et technologiques,
 
@@ -217,7 +217,7 @@ L'éducation nationale repose sur le secteur public, mais la possibilité de cr�
 ## DE LA COMMUNAUTE EDUCATIVE
 
 #### Art. 19. .
-La communauté éducative regroupe les élèves et toutes les personnes qui participent directement ou indirctement à l'éducation et à la formation des élèves, à la vie scolaire et à la gestion des établissements scolaires.
+La communauté éducative regroupe les élèves et toutes les personnes qui participent directement ou indirectement à l'éducation et à la formation des élèves, à la vie scolaire et à la gestion des établissements scolaires.
 
 Les modalités d'organisation et de fonctionnement de la communauté éducative sont fixées par le ministre chargé de l'éducation nationale.
 
@@ -230,7 +230,7 @@ Les élèves sont tenus de se conformer au règlement intérieur de l'établisse
 
 [[START OF PAGE 7]]
 
-Les orientations générales concernant l'élaboration du règlement intérieur visé à l'alinéa cidessus sont fixées par le ministre chargé de l'éducation nationale.
+Les orientations générales concernant l'élaboration du règlement intérieur visé à l'alinéa ci-dessus sont fixées par le ministre chargé de l'éducation nationale.
 
 La levée de l'emblème national est effectuée dans tous les établissements scolaires, publics et privés, accompagnée de l'hymne national.
 
@@ -410,7 +410,7 @@ Dans  le  cadre  de  sa  mission  fixée  à  l'article  44  ci-dessus,  l'ensei
 
 .  de  développer  leur  sensibilité  et  d'aiguiser  leur  sens  esthétique,  leur  curiosité,  leur imagination, leur créativité et leur esprit critique ;
 
-.  de  s'initier  aux  nouvelles  technologies  de l'information et de la communication et à leurs application élémentaires ;
+.  de  s'initier  aux  nouvelles  technologies  de l'information et de la communication et à leurs applications élémentaires ;
 
 .  de  favoriser  l'épanouissement  harmonieux  de  leur  corps  et  de  développer  leurs  capacités physiques et manuelles ;
 
@@ -687,7 +687,7 @@ La formation continue vise essentiellement l'actualisation des connaissances, le
 
 [[START OF PAGE 17]]
 
-Les actions de formation continue se déroulent dans les établissements scolaires et dans les établissements de formation relevant du ministère chargé de l'éducation nationale et/ou des établissement spécialisés du secteur de l'enseignement supérieur.
+Les actions de formation continue se déroulent dans les établissements scolaires et dans les établissements de formation relevant du ministère chargé de l'éducation nationale et/ou des établissements spécialisés du secteur de l'enseignement supérieur.
 
 Les modalités d'organisation de la formation continue sont fixées par le ministre chargé de l'éducation nationale.
 
@@ -774,7 +774,7 @@ Le  secteur  de  l'éducation  dispose  de  structures  de  soutien  ayant  nota
 
 * l'acquisition, la distribution et la maintenance des matériels didactiques.
 
-D'autred structures  dictées  par  l'évolution  du  système  éducatif  peuvent  être  créées,  en  tant que de besoin, par décret.
+D'autres structures dictées par l'évolution du système éducatif peuvent être créées, en tant que de besoin, par décret.
 
 #### Art. 88. .
 Les dispositions relatives aux missions, à l'organisation et au fonctionnement de ces structures sont déterminées par voie réglementaire.
