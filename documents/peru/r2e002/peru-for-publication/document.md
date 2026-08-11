@@ -6,19 +6,19 @@
 
 ### A. Sobre la Recomendación de 1974
 
-- La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades  Fundamentales 1   (la  'Recomendación  de  1974')  tiene  por  objetivo  promover  la educación  internacional  y  la  paz  mundial  mediante  la  comprensión,  la  solidaridad  y  la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
+1. La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades  Fundamentales 1   (la  'Recomendación  de  1974')  tiene  por  objetivo  promover  la educación  internacional  y  la  paz  mundial  mediante  la  comprensión,  la  solidaridad  y  la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
 
-- La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos los niveles, desde la educación preescolar hasta la terciaria y a la educación de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 'adoptando las medidas legislativas o  de  otra  índole'  que  proporcionen  apoyo  institucional  (por  ejemplo,  políticas  y  marcos jurídicos)  y  pedagógico  (por  ejemplo,  planes  de  estudios,  formación  docente,  materiales educativos, equipo y evaluación del estudiantado) para su implementación, basándose en los 'objetivos'  mencionados  en  el  párrafo  4  de  la  Recomendación  y  considerados  como  'los principios  rectores  de  la  política  educacional',  a  saber:  una  dimensión  internacional  y  una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
+2. La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos los niveles, desde la educación preescolar hasta la terciaria y a la educación de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 'adoptando las medidas legislativas o  de  otra  índole'  que  proporcionen  apoyo  institucional  (por  ejemplo,  políticas  y  marcos jurídicos)  y  pedagógico  (por  ejemplo,  planes  de  estudios,  formación  docente,  materiales educativos, equipo y evaluación del estudiantado) para su implementación, basándose en los 'objetivos'  mencionados  en  el  párrafo  4  de  la  Recomendación  y  considerados  como  'los principios  rectores  de  la  política  educacional',  a  saber:  una  dimensión  internacional  y  una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
 
-- Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
+3. Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
 
-- La  Conferencia  General,  en  su  39ª  reunión,  recomendó  utilizar  el  proceso  de presentación  de  informes  en  el  marco  de  la  Recomendación  de  1974  para  apoyar  la implementación y el seguimiento de la meta 4.7 del ODS 4 (Resolución 39 C/79). [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los principios rectores vigentes tanto para el seguimiento de la Recomendación de 1974 como para la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
+4. La  Conferencia  General,  en  su  39ª  reunión,  recomendó  utilizar  el  proceso  de presentación  de  informes  en  el  marco  de  la  Recomendación  de  1974  para  apoyar  la implementación y el seguimiento de la meta 4.7 del ODS 4 (Resolución 39 C/79). [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los principios rectores vigentes tanto para el seguimiento de la Recomendación de 1974 como para la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
 
 4.7.1, 12.8.1 y 13.3.1: Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en: a) las políticas nacionales de educación, b) los planes de estudios, c) la formación de docentes y d) la evaluación de los educandos.
 
-- Las  preguntas  marcadas  con  un  asterisco  (*)  se  emplearán  en  el  cálculo  de  los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
+5. Las  preguntas  marcadas  con  un  asterisco  (*)  se  emplearán  en  el  cálculo  de  los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
 
-> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_ SECTION=201.html.
+> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html.
 
 [[END OF PAGE 1]]
 
@@ -34,17 +34,19 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Obligaciones en materia de presentación de informes
 
-6. La  Conferencia  General,  en  su  18ª  reunión,  al  aprobar  la  Recomendación  de  1974 recomendó a 'los Estados Miembros que presenten [...] informes relativos al accionar llevado adelante para la aplicación de la presente Recomendación'. Además, de conformidad con el artículo VIII de la Constitución de la UNESCO, '[cada] Estado Miembro someterá [...] informes sobre [...] el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV'.7. Así, se  espera  que  todos  los  Estados  Miembros  de  la  UNESCO presenten informes sobre las medidas que han adoptado para aplicar la Recomendación de 1974, de preferencia completando el siguiente cuestionario. Los informes deberán presentarse cada cuatro años.
+6. La Conferencia General, en su 18ª reunión, al aprobar la Recomendación de 1974 recomendó a “los Estados Miembros que presenten [...] informes relativos al accionar llevado adelante para la aplicación de la presente Recomendación”. Además, de conformidad con el artículo VIII de la Constitución de la UNESCO, “[cada] Estado Miembro someterá [...] informes sobre [...] el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV”.
+
+7. Así, se espera que todos los Estados Miembros de la UNESCO presenten informes sobre las medidas que han adoptado para aplicar la Recomendación de 1974, de preferencia completando el siguiente cuestionario. Los informes deberán presentarse cada cuatro años.
 
 ## II. Orientaciones para completar el cuestionario
 
-- El presente cuestionario y las orientaciones que lo acompañan se dirigen a los Ministros encargados de las relaciones con la UNESCO. Por lo general, los Ministerios de Educación y otras autoridades públicas encargadas de la educación son quienes completan el cuestionario. En la medida de lo posible, las respuestas deberán abarcar la educación en todos los niveles de gobierno, incluidos los niveles subnacionales cuando corresponda, así como la educación privada.
+8. El presente cuestionario y las orientaciones que lo acompañan se dirigen a los Ministros encargados de las relaciones con la UNESCO. Por lo general, los Ministerios de Educación y otras autoridades públicas encargadas de la educación son quienes completan el cuestionario. En la medida de lo posible, las respuestas deberán abarcar la educación en todos los niveles de gobierno, incluidos los niveles subnacionales cuando corresponda, así como la educación privada.
 
-- Se alienta a quienes respondan al cuestionario en cada país a que celebren amplias consultas dentro y fuera del gobierno, así como de manera transversal, en particular con los ministerios de Medio Ambiente, instituciones nacionales de derechos humanos, el sector de la educación, los asociados de la sociedad civil y otras instancias, según sea necesario, a fin de reunir la información necesaria.
+9. Se alienta a quienes respondan al cuestionario en cada país a que celebren amplias consultas dentro y fuera del gobierno, así como de manera transversal, en particular con los ministerios de Medio Ambiente, instituciones nacionales de derechos humanos, el sector de la educación, los asociados de la sociedad civil y otras instancias, según sea necesario, a fin de reunir la información necesaria.
 
-- Las respuestas a la séptima consulta deberían abarcar:
+10. Las respuestas a la séptima consulta deberían abarcar:
 
-- el período 2017-2020;
+i) el período 2017-2020;
 
 - ii) la  educación  en  todos  los  niveles  de  la  educación  formal,  desde  la  preescolar hasta la terciaria, así como la educación no formal;
 
@@ -52,7 +54,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - iv) cuando sea posible, la educación privada.
 
-- Para  ayudar  a  los  países  a  responder  el  cuestionario,  la  UNESCO  ha  elaborado  el siguiente conjunto de temas relacionados con la ECM y la EDS. La lista se basa en un examen de  las  prácticas  comunes  utilizadas  en  muchos  países,  así  como  en  un  análisis  de  las publicaciones pertinentes. Aunque los conceptos de EDS y ECM pueden utilizarse de manera diferente  en  algunos  países,  la  lista  de  temas  recoge  por  lo  general  los  elementos considerados fundamentales de la meta 4.7. Sírvase consultar las definiciones de los términos principales en la sección III antes de completar el cuestionario.
+11. Para  ayudar  a  los  países  a  responder  el  cuestionario,  la  UNESCO  ha  elaborado  el siguiente conjunto de temas relacionados con la ECM y la EDS. La lista se basa en un examen de  las  prácticas  comunes  utilizadas  en  muchos  países,  así  como  en  un  análisis  de  las publicaciones pertinentes. Aunque los conceptos de EDS y ECM pueden utilizarse de manera diferente  en  algunos  países,  la  lista  de  temas  recoge  por  lo  general  los  elementos considerados fundamentales de la meta 4.7. Sírvase consultar las definiciones de los términos principales en la sección III antes de completar el cuestionario.
 
 [[END OF PAGE 2]]
 
@@ -60,7 +62,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Educación para la ciudadanía mundial y educación para el desarrollo sostenible
 
-- Diversidad cultural y tolerancia
+1. Diversidad cultural y tolerancia
 
 - 1.1 Entendimiento internacional o intercultural, solidaridad y cooperación.
 
@@ -68,7 +70,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 1.3 Ciudadanía local, nacional o mundial
 
-- Educación para la igualdad de género
+2. Educación para la igualdad de género
 
 - 2.1 Igualdad de oportunidades basadas en el género
 
@@ -76,7 +78,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 2.3 Roles, identidad y estereotipos de género
 
-- Educación en derechos humanos
+3. Educación en derechos humanos
 
 - 3.1 Igualdad  y  no  discriminación  por  motivos  de  raza,  color,  idioma,  religión, discapacidad,  opinión  política  o  de  otra  índole,  origen  nacional  o  social, nacimiento o cualquier otra condición
 
@@ -84,7 +86,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 3.3 Respeto de los derechos humanos y las libertades fundamentales (tal como son definidos en las convenciones y declaraciones internacionales)
 
-- Paz y no violencia
+4. Paz y no violencia
 
 - 4.1 Relaciones amistosas entre los pueblos y las naciones
 
@@ -92,7 +94,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 4.3 Prevención de todas las formas de violencia, como el acoso, la agresión verbal y la violencia de género
 
-- Educación sobre el cambio climático
+5. Educación sobre el cambio climático
 
 - 5.1 Mitigación
 
@@ -102,7 +104,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 5.4 Alerta temprana
 
-- Sostenibilidad ambiental
+6. Sostenibilidad ambiental
 
 - 6.1 Cuidado del planeta y protección de la naturaleza
 
@@ -110,7 +112,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 6.3 Biodiversidad, agua
 
-- Supervivencia y bienestar humanos
+7. Supervivencia y bienestar humanos
 
 - 7.1 Salud ambiental en la medida en la medida en que se relaciona con el al bienestar humano y la reducción del riesgo de desastres
 
@@ -118,7 +120,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 7.3 Ciudades y comunidades sostenibles
 
-- Consumo y producción sostenibles
+8. Consumo y producción sostenibles
 
 - 8.1 Estilos de vida responsables y sostenibles
 
@@ -197,7 +199,8 @@ Organización:
 
 MINISTERIO DE EDUCACIÓN
 
-Viceministerio de Gestión Pedagógica Dirección General de Educación Básica Regular
+Viceministerio de Gestión Pedagógica
+Dirección General de Educación Básica Regular
 
 -Dirección de Educación Inicial
 
@@ -205,7 +208,9 @@ Viceministerio de Gestión Pedagógica Dirección General de Educación Básica 
 
 -Dirección de Educación Secundaria
 
-Direccion General de Desarrollo Docente - Dirección de Formación Docente en Servicio Dirección General de Educación Técnico-Productiva y Superior Tecnológica y Artística Dirección General  de  Educación  Básica  Alternativa,  Intercultural  Bilingüe  y  de  Servicios Educativos en el Ámbito Rural - Dirección de Educación Básica Alternativa
+Dirección General de Desarrollo Docente - Dirección de Formación Docente en Servicio
+Dirección General de Educación Técnico-Productiva y Superior Tecnológica y Artística
+Dirección General de Educación Básica Alternativa, Intercultural Bilingüe y de Servicios Educativos en el Ámbito Rural – Dirección de Educación Básica Alternativa
 
 Fecha de presentación:
 
@@ -265,13 +270,15 @@ Para efectos de responder el presente cuestionario, nos referiremos al marco jur
 
 - La creatividad y la innovación, que promueven la producción de nuevos conocimientos en todos los campos del saber, el arte y la cultura
 
-El  Artículo 9.-  fines de  la  educación peruana señala: Son fines de la educación peruana: a) Formar personas capaces de lograr su realización ética, intelectual, artística, cultural, afectiva, física,  espiritual  y  religiosa,  promoviendo  la  formación  y  consolidación  de  su  identidad  y autoestima y su integración adecuada y crítica a la sociedad para el ejercicio de su ciudadanía en  armonía  con  su  entorno,  así  como  el  desarrollo  de  sus  capacidades  y  habilidades  para vincular su vida con el mundo del trabajo y para afrontar los incesantes cambios en la sociedad y el conocimiento. b) Contribuir a formar una sociedad democrática, solidaria, justa, inclusiva, próspera, tolerante y forjadora de una cultura de paz que afirme la identidad nacional sustentada en la diversidad cultural, étnica y lingüística, supere la pobreza e impulse el desarrollo sostenible del país y fomente la integración latinoamericana teniendo en cuenta los retos de un mundo globalizado.
+El  Artículo 9.-  fines de  la  educación peruana señala: Son fines de la educación peruana: a) Formar personas capaces de lograr su realización ética, intelectual, artística, cultural, afectiva, física,  espiritual  y  religiosa,  promoviendo  la  formación  y  consolidación  de  su  identidad  y autoestima y su integración adecuada y crítica a la sociedad para el ejercicio de su ciudadanía
 
 > 2 Véase el esquema que figura en el párrafo 11 de la sección II de estas orientaciones.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+en armonía con su entorno, así como el desarrollo de sus capacidades y habilidades para vincular su vida con el mundo del trabajo y para afrontar los incesantes cambios en la sociedad y el conocimiento. b) Contribuir a formar una sociedad democrática, solidaria, justa, inclusiva, próspera, tolerante y forjadora de una cultura de paz que afirme la identidad nacional sustentada en la diversidad cultural, étnica y lingüística, supere la pobreza e impulse el desarrollo sostenible del país y fomente la integración latinoamericana teniendo en cuenta los retos de un mundo globalizado.
 
 - Ley de fomento de la educación de las niñas y adolescentes rurales, que establece como uno de los objetivos para alcanzar una situación de equidad en el aspecto de calidad educativa el contar con programas de educación bilingüe intercultural de calidad que ofrezcan la oportunidad de comunicarse en dos lenguas, apropiarse de los aspectos más valiosos de cada cultura y enriquecer la identidad personal, prestando atención a los factores que discriminan a las niñas y adolescentes rurales.
 
@@ -339,7 +346,7 @@ El  Artículo 9.-  fines de  la  educación peruana señala: Son fines de la edu
 
 - Ley N° 30754, ley Marco sobre cambio climático
 
-- Decreto Supremo N° 006-2018-MIDIS, que modifica el Decreto Supremo Nº 008-2012- MIDIS, que crea el Programa Nacional de Alimentación Escolar Qali Warma para precisar su público objetivo e incorporar dentro de su ámbito de cobertura la prestación del servicio alimentario a las/los escolares de las instituciones educativas bajo las Formas de Atención Diversificada FAD y/o Modelos de Servicios Educativos
+- Decreto Supremo N° 006-2018-MIDIS, que modifica el Decreto Supremo Nº 008-2012- MIDIS, que crea el Programa Nacional de Alimentación Escolar Qali Warma para precisar su público objetivo e incorporar dentro de su ámbito de cobertura la prestación del servicio alimentario a las/los escolares de las instituciones educativas bajo las Formas de Atención Diversificada - FAD y/o Modelos de Servicios Educativos
 
 - Decreto Supremo N° 013-2018-MINEDU, que aprueba la Política de Atención Educativa para la Población de Ámbitos Rurales
 
@@ -375,7 +382,7 @@ El  Artículo 9.-  fines de  la  educación peruana señala: Son fines de la edu
 
 gestión privada de Educación Básica se encuentra suspendido mientras esté vigente el estado de emergencia nacional y la emergencia sanitaria para la prevención y control del COVID-19.
 
-- Resolución  Ministerial  N°  274-2020-MINEDU,  que  aprueba  la  actualización  del  'Anexo  03: Protocolos para la atención de la violencia contra niñas, niños y adolescentes', del apartado XI de los Lineamientos para la Gestión de la Convivencia Escolar, la Prevención y la Atención de la Violencia Contra Niñas, Niños y Adolescentes, aprobados por Decreto Supremo N° 004-2018MINEDU.
+- Resolución  Ministerial  N°  274-2020-MINEDU,  que  aprueba  la  actualización  del  'Anexo  03: Protocolos para la atención de la violencia contra niñas, niños y adolescentes', del apartado XI de los Lineamientos para la Gestión de la Convivencia Escolar, la Prevención y la Atención de la Violencia Contra Niñas, Niños y Adolescentes, aprobados por Decreto Supremo N° 004-2018-MINEDU.
 
 - Resolución Ministerial N° 334-2020-MINEDU, que aprueba el documento normativo denominado 'Orientaciones pedagógicas sobre el uso y aprovechamiento de las tabletas en las instituciones  educativas  públicas de  Educación Básica Regular de los niveles de educación primaria y secundaria, para la prestación del servicio educativo en el marco de la emergencia sanitaria generada por el COVID-19'
 
@@ -423,17 +430,17 @@ gestión privada de Educación Básica se encuentra suspendido mientras esté vi
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica (por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
 
-Nacional | Subnacional
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Preescolar | Primaria | secundaria | Terciaria | No formal | Preescolar | Primaria | secundaria | Terciaria | No formal
-1. | Diversidad cultural y tolerancia | 1 | 1 | 1 | 1 | 1 | 1
-2. | Igualdad de género | 1 | 1 | 1 | 1 | 1 | 1
-3. | Derechos humanos | 1 | 1 | 1 | 1 | 1 | 1
-4. | Paz y no violencia | 1 | 1 | 1 | 1 | 1 | 1
-5. | Cambio climático | 0 | 1 | 1 | 0 | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1 | 99 | 1 | 1 | 1
-7. | Supervivencia y bienestar humanos | 0 | 1 | 99 | 0 | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1 | 1 | 1 | 1 | 1
+| | Nacional | | | | | Subnacional | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | Preescolar | Primaria | secundaria | Terciaria | No formal | Preescolar | Primaria | secundaria | Terciaria | No formal |
+| 1. Diversidad cultural y tolerancia | 1 | 1 | 1 | | | 1 | 1 | 1 | | |
+| 2. Igualdad de género | 1 | 1 | 1 | | | 1 | 1 | 1 | | |
+| 3. Derechos humanos | 1 | 1 | 1 | | | 1 | 1 | 1 | | |
+| 4. Paz y no violencia | 1 | 1 | 1 | | | 1 | 1 | 1 | | |
+| 5. Cambio climático | 0 | 1 | 1 | | | 0 | 1 | 1 | | |
+| 6. Sostenibilidad ambiental | 1 | 1 | 99 | | | 1 | 1 | 1 | | |
+| 7. Supervivencia y bienestar humanos | 0 | 1 | 99 | | | 0 | 1 | 1 | | |
+| 8. Consumo y producción sostenibles | 1 | 1 | 1 | | | 1 | 1 | 1 | | |
 
 15
 
@@ -495,9 +502,9 @@ fundamentales de la persona. Asimismo, entre sus lineamientos destaca Incluir en
 
 https://www.cne.gob.pe/uploads/publicaciones/2020/proyecto-educativonacional-al-2036.pdf.
 
-- Decreto Supremo N° 013-2018-MINEDU, Política de Atención Educativa para la Población de Ámbitos Rurales. https://busquedas.elperuano.pe/normaslegales/decreto-supremoqueaprueba-la-politica-de-atencion-educativ-decreto-supremo-n-013-2018minedu-17233111/.
+- Decreto Supremo N° 013-2018-MINEDU, Política de Atención Educativa para la Población de Ámbitos Rurales. https://busquedas.elperuano.pe/normaslegales/decreto-supremo-queaprueba-la-politica-de-atencion-educativ-decreto-supremo-n-013-2018-minedu-1723311-1/.
 
-- Decreto  Supremo  N°  006-2016-MINEDU,  Política  Sectorial  de  Educación  Intercultural  y Educación Intercultural Bilingüe. http://www.minedu.gob.pe/comunicado/pdf/normativa2018/ds-006-2016- minedu-aprueba-politica-de-educacion-intercultural-bilingue.pdf.
+- Decreto  Supremo  N°  006-2016-MINEDU,  Política  Sectorial  de  Educación  Intercultural  y Educación Intercultural Bilingüe. http://www.minedu.gob.pe/comunicado/pdf/normativa-2018/ds-006-2016-minedu-aprueba-politica-de-educacion-intercultural-bilingue.pdf.
 
 - Resolución  Ministerial  N°  629-2016-MINEDU,  que  aprueba  el  'Plan  Nacional  de  Educación Intercultural Bilingüe al 2021'
 
@@ -509,7 +516,7 @@ https://www.cne.gob.pe/uploads/publicaciones/2020/proyecto-educativonacional-al-
 
 - Decreto  Supremo  N°  012-2009-MINAM,  que  aprueba  la  Política  Nacional  del  Ambiente. https://www.minam.gob.pe/wp-content/uploads/2013/08/Pol%C3%ADticaNacional-delAmbiente.pdf.
 
-- Resolución Ministerial N° 281-2016-MINEDU, que aprueba el Currículo Nacional de Educación Básica. Modificado mediante RM Nro. 159-2017MINEDU. http://www.minedu.gob.pe/curriculo/pdf/curriculo-nacional-de-la-educacionbasica.pdf.
+- Resolución Ministerial N° 281-2016-MINEDU, que aprueba el Currículo Nacional de Educación Básica. Modificado mediante RM Nro. 159-2017-MINEDU. http://www.minedu.gob.pe/curriculo/pdf/curriculo-nacional-de-la-educacionbasica.pdf.
 
 17
 
@@ -523,16 +530,16 @@ https://www.cne.gob.pe/uploads/publicaciones/2020/proyecto-educativonacional-al-
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria | secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-1. Diversidad cultural y tolerancia | 1 | 1 | 1
-2. Igualdad de género | 1 | 1 | 1
-3. Derechos humanos | 1 | 1 | 1
-4. Paz y no violencia | 0 | 1 | 1
-5. Cambio climático | 0 | 1 | 1
-6. Sostenibilidad ambiental | 1 | 1 | 1
-7. Supervivencia y bienestar humanos | 0 | 1 | 1
-8. Consumo y producción sostenibles | 0 | 1 | 1
+| | Preescolar | Primaria | secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|---|
+| 1. Diversidad cultural y tolerancia | 1 | 1 | 1 | | |
+| 2. Igualdad de género | 1 | 1 | 1 | | |
+| 3. Derechos humanos | 1 | 1 | 1 | | |
+| 4. Paz y no violencia | 0 | 1 | 1 | | |
+| 5. Cambio climático | 0 | 1 | 1 | | |
+| 6. Sostenibilidad ambiental | 1 | 1 | 1 | | |
+| 7. Supervivencia y bienestar humanos | 0 | 1 | 1 | | |
+| 8. Consumo y producción sostenibles | 0 | 1 | 1 | | |
 
 [[END OF PAGE 18]]
 
@@ -542,22 +549,22 @@ Preescolar | Primaria | secundaria | Terciaria | Educación no formal
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica ( por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
 
-Preescolar | Primaria | secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-Nacional
-Elaboración o revisión de los planes de estudios | 1 | 1 | 1
-Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1
-Elaboración de libros de texto | 1 | 1 | 1
-Educación y formación docente | 9 | 1 | 1
-Evaluación de los resultados del aprendizaje de las y los estudiantes | 99 | 1 | 1
-Subnacional
-Elaboración o revisión de los planes de estudios | 1 | 1 | 1
-Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1
-Elaboración de libros de texto | 1 | 1 | 1
-Educación y formación docente | 9 | 1 | 1
-Evaluación de los resultados del aprendizaje de las y los estudiantes | 99 | 1 | 1
+| | Preescolar | Primaria | secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|---|
+| Nacional | | | | | |
+| Elaboración o revisión de los planes de estudios | 1 | 1 | 1 | | |
+| Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1 | | |
+| Elaboración de libros de texto | 1 | 1 | 1 | | |
+| Educación y formación docente | 9 | 1 | 1 | | |
+| Evaluación de los resultados del aprendizaje de las y los estudiantes | 99 | 1 | 1 | | |
+| Subnacional | | | | | |
+| Elaboración o revisión de los planes de estudios | 1 | 1 | 1 | | |
+| Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1 | | |
+| Elaboración de libros de texto | | 1 | 1 | | |
+| Educación y formación docente | 9 | 1 | 1 | | |
+| Evaluación de los resultados del aprendizaje de las y los estudiantes | 99 | 1 | 1 | | |
 
-### Plan de estudios (párrafos 4 y 10 a 19 de la Recomendación de 1974)
+### B. Plan de estudios (párrafos 4 y 10 a 19 de la Recomendación de 1974)
 
 #### B1a.  Por  favor  describa  de  qué  manera  se  transversalizan  en  los  planes  de  estudios escolares la ECM y la EDS. Indique si se enseñan como asignaturas independientes o se integran en los planes de estudios de otras asignaturas. Explique si los temas de la ECM y la EDS 4  se mencionan de manera explícita o implícita y qué tipos o niveles de educación abarcan.
 
@@ -565,7 +572,7 @@ Evaluación de los resultados del aprendizaje de las y los estudiantes | 99 | 1 
 
 Los enfoques transversales se abordan desde situaciones no planificadas o emergentes, planificadas y  desde  la  organización  de  los  espacios  educativos.  En  estas  situaciones  se  movilizan  algunas competencias  y  valores  de  los  niños  y  niñas  para  atender  problemas,  necesidades  o  intereses. (Programa Curricular de Educación Inicial - 2016)
 
-En el área de Personal Social se promueve el establecimiento de relaciones seguras, la integración de valores, límites y normas que les permitan aprender a cuidarse, y cuidar los espacios y recursos comunes; a convivir con otros, respetar diferencias tanto culturales, de creencias y costumbres, como conocer  y  ejercer  sus  derechos,  y  asumir  responsabilidades  acordes  a  su  nivel  de  desarrollo  y madurez. (Programa Curricular de Educación Inicial - 2016)
+En el área de Personal Social se promueve el establecimiento de relaciones seguras, la integración de valores, límites y normas que les permitan aprender a cuidarse, y cuidar los espacios y recursos comunes; a convivir con otros, respetar diferencias tanto culturales, de creencias y costumbres, como
 
 > 4 Véase el esquema que figura en el párrafo 11 de la sección II de estas orientaciones
 
@@ -574,6 +581,8 @@ En el área de Personal Social se promueve el establecimiento de relaciones segu
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+conocer y ejercer sus derechos, y asumir responsabilidades acordes a su nivel de desarrollo y madurez. (Programa Curricular de Educación Inicial – 2016)
 
 ##### En el nivel de educación primaria y secundaria
 
@@ -599,22 +608,39 @@ Tabla Plan de Estudios de la Educación Básica Regular
 
 [[START OF PAGE 21]]
 
+NIVEL | EDUCACIÓN INICIAL | EDUCACIÓN PRIMARIA | EDUCACIÓN SECUNDARIA
+CICLOS | I | II | III | IV | V | VI | VII
+GRADOS/EDADES | 0-2 | 3-5 | 1.° | 2.° | 3.° | 4.° | 5.° | 6.° | 1.° | 2.° | 3.° | 4.° | 5.°
+ÁREAS CURRICULARES
+Comunicación | Comunicación* | Comunicación | Comunicación
+| Castellano como segunda lengua** | Castellano como segunda lengua** | Castellano como segunda lengua**
+| | Inglés | Inglés
+| | Arte y cultura | Arte y cultura
+Personal social | Personal social | Personal social | Desarrollo personal, ciudadanía y cívica
+| | | Ciencias sociales
+| | Educación religiosa*** | Educación religiosa***
+Psicomotriz | Psicomotriz | Educación física | Educación física
+Descubrimiento del mundo | Ciencia y tecnología | Ciencia y tecnología | Ciencia y tecnología
+| | | Educación para el trabajo
+| Matemática | Matemática | Matemática
+Tutoría y orientación educativa
+
 #### *B2.  Por favor indique qué temas de la ECM y la EDS se enseñan como parte del plan de estudios en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE:
 
 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria | secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1 | 1
-2. | Igualdad de género | 1 | 1 | 1
-3. | Derechos humanos | 1 | 1 | 1
-4. | Paz y no violencia | 1 | 1 | 1
-5. | Cambio climático | 0 | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1 | 1
-7. | Supervivencia y bienestar humanos | 0 | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1 | 1
+| | Preescolar | Primaria | secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|---|
+| 1. Diversidad cultural y tolerancia | 1 | 1 | 1 | | |
+| 2. Igualdad de género | 1 | 1 | 1 | | |
+| 3. Derechos humanos | 1 | 1 | 1 | | |
+| 4. Paz y no violencia | 1 | 1 | 1 | | |
+| 5. Cambio climático | 0 | 1 | 1 | | |
+| 6. Sostenibilidad ambiental | 1 | 1 | 1 | | |
+| 7. Supervivencia y bienestar humanos | 0 | 1 | 1 | | |
+| 8. Consumo y producción sostenibles | 1 | 1 | 1 | | |
 
 21
 
@@ -624,34 +650,34 @@ Preescolar | Primaria | secundaria | Terciaria | Educación no formal
 
 #### *B3.  Por favor indique en qué asignaturas o campos de estudio se imparten la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
 
-#### *B4.  Por favor indique los enfoques utilizados para la enseñanza de la ECM y la EDS en la enseñanza primaria y secundaria,  introduciendo  el  número  correspondiente  en  cada casilla blanca.
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Diversidad cultural y tolerancia | Igualdad de género | Derechos humanos | Paz y no violencia | Cambio climático | Sostenibilidad ambiental | Supervivencia y bienestar humanos | Consumo y producción sostenibles
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Artes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Educación cívica, civil o para la ciudadanía | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Ética/estudios de moral
-Geografía | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Salud, educación física y deportes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Historia | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Idiomas | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Matemáticas | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Educación religiosa | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Ciencia | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Estudios sociales
-Estudios integrados
-Otros (indique cuáles)
+| | Diversidad cultural y tolerancia | Igualdad de género | Derechos humanos | Paz y no violencia | Cambio climático | Sostenibilidad ambiental | Supervivencia y bienestar humanos | Consumo y producción sostenibles |
+|---|---|---|---|---|---|---|---|---|
+| Artes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Educación cívica, civil o para la ciudadanía | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Ética/estudios de moral | | | | | | | | |
+| Geografía | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Salud, educación física y deportes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Historia | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Idiomas | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Matemáticas | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Educación religiosa | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Ciencia | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Estudios sociales | | | | | | | | |
+| Estudios integrados | | | | | | | | |
+| Otros (indique cuáles) | | | | | | | | |
+
+#### *B4.  Por favor indique los enfoques utilizados para la enseñanza de la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Educación para la ciudadanía mundial y educación para el desarrollo sostenible
---- | ---
-La ECM y la EDS se enseñan como asignaturas separadas | 0
-Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 1
-Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 0
-Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela) | 1
-
-CLAVE: 0 = no, 1 = sí, 9 = no sabe
+| | Educación para la ciudadanía mundial y educación para el desarrollo sostenible |
+|---|---|
+| La ECM y la EDS se enseñan como asignaturas separadas | 0 |
+| Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 1 |
+| Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 0 |
+| Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela) | 1 |
 
 [[END OF PAGE 22]]
 
@@ -668,7 +694,7 @@ Preescolar | Primaria | secundaria | Terciaria | Educación no formal
 3.2 | Valores de derechos humanos, dignidad humana, justicia, inclusión y participación | 1 | 1 | 1 | 1 | 1
 3.3 | Respeto de los derechos humanos y las libertades fundamentales (definidos en las convenciones y declaraciones internacionales) | 1 | 1 | 1 | 1 | 1
 
-### Formación docente (incluida la formación de formadores y educadores) (párrafos 4 y 33 a 37 de la Recomendación de 1974)
+### C. Formación docente (incluida la formación de formadores y educadores) (párrafos 4 y 33 a 37 de la Recomendación de 1974)
 
 #### C1a.  Por favor describa de qué manera se transversalizan la ECM y la EDS en la formación inicial  y  en  el  desarrollo  profesional  continuo  de  las  y  los  docentes,  formadores  y educadores. Indique si todos los docentes, formadores y educadores o solo algunos deben recibir formación para enseñar la ECM y la EDS.
 
@@ -698,31 +724,31 @@ Por  otro  lado  a  nivel  de  programas,  también  se  trabaja  la  competenci
 
 #### *C2.  Por favor indique si las y los docentes, formadores y educadores reciben formación para la enseñanza de la ECM y la EDS durante la formación inicial o previa al ejercicio de la docencia o mediante el desarrollo profesional continuo. Introduzca el número apropiado en cada casilla blanca.
 
-#### *C3.  Por  favor  indique  sobre  qué  temas  de  la  ECM  y  la  EDS  existe  formación  inicial  o formación  continua  dirigida  a  docentes,  formadores  y  educadores  en  cada  nivel  de educación, introduciendo el número correspondiente en cada casilla blanca.
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
+
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| Formación inicial o previa al ejercicio de la docencia | | | | |
+| Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 0 | 0 | 0 | 0 |
+| Para docentes de otras asignaturas | 0 | 0 | 0 | 0 |
+| Desarrollo profesional continuo | | | | |
+| Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 0 | 0 | 0 | 0 |
+| Para docentes de otras asignaturas | 0 | 0 | 0 | 0 |
+
+#### *C3.  Por favor indique sobre qué temas de la ECM y la EDS existe formación inicial o formación continua dirigida a docentes, formadores y educadores en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-Formación inicial o previa al ejercicio de la docencia
-Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 0 | 0 | 0 | 0
-Para docentes de otras asignaturas | 0 | 0 | 0 | 0
-Desarrollo profesional continuo
-Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 0 | 0 | 0 | 0
-Para docentes de otras asignaturas | 0 | 0 | 0 | 0
-
-CLAVE: 0 = no, 1 = sí, 9 = no sabe
-
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 0 | 0 | 0 | 0
-2. | Igualdad de género | 0 | 0 | 0 | 0
-3. | Derechos humanos | 0 | 0 | 0 | 0
-4. | Paz y no violencia | 0 | 0 | 0 | 0
-5. | Cambio climático | 0 | 0 | 0 | 0
-6. | Sostenibilidad ambiental | 0 | 0 | 0 | 0
-7. | Supervivencia y bienestar humanos | 0 | 0 | 0 | 0
-8. | Consumo y producción sostenibles | 0 | 0 | 0 | 0
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| 1. Diversidad cultural y tolerancia | 0 | 0 | 0 | 0 |
+| 2. Igualdad de género | 0 | 0 | 0 | 0 |
+| 3. Derechos humanos | 0 | 0 | 0 | 0 |
+| 4. Paz y no violencia | 0 | 0 | 0 | 0 |
+| 5. Cambio climático | 0 | 0 | 0 | 0 |
+| 6. Sostenibilidad ambiental | 0 | 0 | 0 | 0 |
+| 7. Supervivencia y bienestar humanos | 0 | 0 | 0 | 0 |
+| 8. Consumo y producción sostenibles | 0 | 0 | 0 | 0 |
 
 25
 
@@ -732,29 +758,29 @@ Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 
 #### *C4.  Por favor indique si las y los docentes, formadores y educadores reciben formación para enseñar las siguientes dimensiones del aprendizaje de la ECM y la EDS. Introduzca el número apropiado en cada casilla blanca.
 
-#### *C5.  Por  favor  indique  si  los  docentes,  formadores  y  educadores  reciben  formación  para utilizar los siguientes enfoques para la enseñanza de la ECM y la EDS en los niveles primario y secundario, introduciendo el número correspondiente en cada casilla blanca.
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-### Evaluación de las y los estudiantes (párrafos 4 y 5 de la Recomendación de 1974)
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| Conocimientos | 0 | 0 | 0 | 0 |
+| Habilidades | 0 | 0 | 0 | 0 |
+| Valores | 0 | 0 | 0 | 0 |
+| Actitudes y comportamientos | 0 | 0 | 0 | 0 |
 
-#### D1a.  Por  favor  describa  de  qué  manera  la  ECM  y  la  EDS  se  tienen  en  cuenta  en  las evaluaciones y exámenes de las y los estudiantes. Indique si se evalúa a los educandos únicamente por sus conocimientos y habilidades relacionados con los temas del examen o también por sus valores, actitudes o comportamientos.
+#### *C5.  Por favor indique si los docentes, formadores y educadores reciben formación para utilizar los siguientes enfoques para la enseñanza de la ECM y la EDS en los niveles primario y secundario, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-Conocimientos | 0 | 0 | 0 | 0
-Habilidades | 0 | 0 | 0 | 0
-Valores | 0 | 0 | 0 | 0
-Actitudes y comportamientos | 0 | 0 | 0 | 0
+| | Educación para la ciudadanía mundial y educación para el desarrollo sostenible |
+|---|---|
+| La ECM y la EDS se enseñan como asignaturas separadas | 0 |
+| Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 0 |
+| Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 0 |
+| Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela) | 0 |
 
-CLAVE: 0 = no, 1 = sí, 9 = no sabe
+### D. Evaluación de las y los estudiantes (párrafos 4 y 5 de la Recomendación de 1974)
 
-Educación para la ciudadanía mundial y educación para el desarrollo sostenible
---- | ---
-La ECM y la EDS se enseñan como asignaturas separadas | 0
-Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 0
-Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 0
-Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela) | 0
+#### D1a.  Por favor describa de qué manera la ECM y la EDS se tienen en cuenta en las evaluaciones y exámenes de las y los estudiantes. Indique si se evalúa a los educandos únicamente por sus conocimientos y habilidades relacionados con los temas del examen o también por sus valores, actitudes o comportamientos.
 
 ##### En el nivel de educación inicial
 
@@ -764,14 +790,15 @@ Son considerados dentro de una evaluación formativa cotidiana, orientada a la r
 
 Sin embargo, dentro de las calificaciones, los enfoques transversales no son considerados como contenidos específicos.
 
-En el marco de la evaluación formativa, se incluyen dentro de la competencia 'convive y participa democráticamente en la búsqueda del bien común'.
+En el marco de la evaluación formativa, se incluyen dentro de la competencia “convive y participa democráticamente en la búsqueda del bien común”.
 
 ##### En el nivel de educación primaria y secundaria
-En el Currículo Nacional de la Educación Básica se plantea para la evaluación de los aprendizajes el enfoque formativo, el cual es un proceso sistemático en el que se recoge y valora información relevante  acerca  del  nivel  de  desarrollo  de  las  competencias  en  cada  estudiante,  con  el  fin  de contribuir oportunamente a mejorar su aprendizaje.
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+En el Currículo Nacional de la Educación Básica se plantea para la evaluación de los aprendizajes el enfoque formativo, el cual es un proceso sistemático en el que se recoge y valora información relevante acerca del nivel de desarrollo de las competencias en cada estudiante, con el fin de contribuir oportunamente a mejorar su aprendizaje.
 
 Una evaluación formativa enfocada en competencias busca, en diversos tramos del proceso:
 
@@ -793,20 +820,18 @@ Cabe  agregar  que,  al  ser  nuestra  evaluación  formativa,  no  se  evalúan
 
 #### *D2.  Por favor indique si los temas de la ECM y la EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
-CLAVE:
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-0 = no, 1 = sí, 9 = no sabe
-
-Preescolar | Primaria | secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-1. Diversidad cultural y tolerancia | 0 | 1 | 1
-2. Igualdad de género | 0 | 1 | 1
-3. Derechos humanos | 0 | 1 | 1
-4. Paz y no violencia | 0 | 1 | 1
-5. Cambio climático | 0 | 1 | 1
-6. Sostenibilidad ambiental | 0 | 1 | 1
-7. Supervivencia y bienestar humanos | 0 | 1 | 1
-8. Consumo y producción sostenibles | 0 | 1 | 1
+| | Preescolar | Primaria | secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|---|
+| 1. Diversidad cultural y tolerancia | 0 | 1 | 1 | | |
+| 2. Igualdad de género | 0 | 1 | 1 | | |
+| 3. Derechos humanos | 0 | 1 | 1 | | |
+| 4. Paz y no violencia | 0 | 1 | 1 | | |
+| 5. Cambio climático | 0 | 1 | 1 | | |
+| 6. Sostenibilidad ambiental | 0 | 1 | 1 | | |
+| 7. Supervivencia y bienestar humanos | 0 | 1 | 1 | | |
+| 8. Consumo y producción sostenibles | 0 | 1 | 1 | | |
 
 27
 
@@ -818,20 +843,20 @@ Preescolar | Primaria | secundaria | Terciaria | Educación no formal
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria | secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-Conocimientos | 0 | 1 | 1
-Habilidades | 0 | 1 | 1
-Valores | 0 | 1 | 1
-Actitudes y comportamientos | 0 | 1 | 1
+| | Preescolar | Primaria | secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|---|
+| Conocimientos | 0 | 1 | 1 | | |
+| Habilidades | 0 | 1 | 1 | | |
+| Valores | 0 | 1 | 1 | | |
+| Actitudes y comportamientos | 0 | 1 | 1 | | |
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-### Transversalización de la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a 5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
+### E. Transversalización de la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a 5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
 
-#### *E1.  Sobre la base de sus respuestas a las preguntas de las cuatro secciones anteriores (leyes y políticas, planes de estudios, formación de docentes y evaluación de las y los estudiantes), indique por favor en qué medida la ECM y la EDS se transversalizan 5  en: a) las leyes y políticas de educación, b) los planes de estudios, c) la formación docente (incluida  la  formación  de  formadores  y  educadores)  y  d)  la  evaluación  de  las  y  los estudiantes en su país. Introduzca el número apropiado en cada casilla blanca.
+#### *E1.  Sobre la base de sus respuestas a las preguntas de las cuatro secciones anteriores (leyes y políticas, planes de estudios, formación de docentes y evaluación de las y los estudiantes), indique por favor en qué medida la ECM y la EDS se transversalizan⁵ en: a) las leyes y políticas de educación, b) los planes de estudios, c) la formación docente (incluida la formación de formadores y educadores) y d) la evaluación de las y los estudiantes en su país. Introduzca el número apropiado en cada casilla blanca.
 
 CLAVE:
 
@@ -841,28 +866,35 @@ La ECM y la EDS no están transversalizadas
 
 1 Parcialmente
 
-Algunos  temas  de  la  ECM  y  la  EDS 6   están  transversalizados . Seleccione esta opción si la ECM está transversalizada, pero no lo está la EDS (o viceversa).
+Algunos temas de la ECM y la EDS⁶ están transversalizados.
+Seleccione esta opción si la ECM está transversalizada, pero no lo está la EDS (o viceversa).
 
-2 Ampliamente 9 No sabe 99 No se aplica
+2 Ampliamente
 
-La mayoría de los temas de la ECM y la EDS están transversalizados. No sabe si la ECM y la EDS están o no transversalizadas.
+La mayoría de los temas de la ECM y la EDS están transversalizados.
 
-El nivel de gobierno que se indica no se encarga del componente en cuestión (políticas, planes de estudios, formación docente o evaluación de los educandos) o no se encarga del nivel o el tipo de educación  en  cuestión. Esto  puede  ocurrir  a  nivel  nacional  en  los países federales donde la educación es competencia de los diferentes estados o a nivel subnacional en los países pequeños donde hay un solo nivel de gobierno.
+9 No sabe
 
-Preescolar | Primaria | secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-Nacional
-a) | Leyes y políticas educativas | 2 | 2 | 2
-b) | Planes de estudios | 2 | 2 | 1
-c) | Formación docente | 9 | 2 | 1
-d) | Evaluación de las y los estudiantes | 1 | 2 | 1
-Subnacional
-a) | Leyes y políticas educativas | 2 | 2 | 2
-b) | Planes de estudios | 2 | 2 | 1
-c) | Formación docente | 9 | 2 | 1
-d) | Evaluación de educandos | 1 | 2 | 1
+No sabe si la ECM y la EDS están o no transversalizadas.
 
-> 5 Se  considera  que  la  ECM  y  la  EDS  están  transversalizadas  si  sus  temas  se  mencionan  de manera explícita en los documentos pertinentes y se espera que sean implementadas por las autoridades competentes (por ejemplo, ministerios, autoridades educativas regionales o locales), las instituciones educativas (por ejemplo, escuelas, institutos de formación y universidades) o los profesionales de la educación (por ejemplo, docentes, conferencistas, formadores y educadores), según proceda.
+99 No se aplica
+
+El nivel de gobierno que se indica no se encarga del componente en cuestión (políticas, planes de estudios, formación docente o evaluación de los educandos) o no se encarga del nivel o el tipo de educación en cuestión. Esto puede ocurrir a nivel nacional en los países federales donde la educación es competencia de los diferentes estados o a nivel subnacional en los países pequeños donde hay un solo nivel de gobierno.
+
+| | Preescolar | Primaria | secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|---|
+| Nacional | | | | | |
+| a) Leyes y políticas educativas | 2 | 2 | 2 | | |
+| b) Planes de estudios | 2 | 2 | 1 | | |
+| c) Formación docente | 9 | 2 | 1 | | |
+| d) Evaluación de las y los estudiantes | 1 | 2 | 1 | | |
+| Subnacional | | | | | |
+| a) Leyes y políticas educativas | 2 | 2 | 2 | | |
+| b) Planes de estudios | 2 | 2 | 1 | | |
+| c) Formación docente | 9 | 2 | 1 | | |
+| d) Evaluación de educandos | 1 | 2 | 1 | | |
+
+> 5 Se considera que la ECM y la EDS están transversalizadas si sus temas se mencionan de manera explícita en los documentos pertinentes y se espera que sean implementadas por las autoridades competentes (por ejemplo, ministerios, autoridades educativas regionales o locales), las instituciones educativas (por ejemplo, escuelas, institutos de formación y universidades) o los profesionales de la educación (por ejemplo, docentes, conferencistas, formadores y educadores), según proceda.
 
 > 6 Véase el esquema que figura en el párrafo 11 de la sección II de estas orientaciones.
 
@@ -876,7 +908,7 @@ d) | Evaluación de educandos | 1 | 2 | 1
 
 La Educación Superior Tecnológica (EST) comprende a los institutos de Educación Superior (IES) y a las Escuelas de Educación Superior Tecnológica (EEST), instituciones que enfatizan la formación aplicada de carácter técnico y de perfeccionamiento profesional y que constituyen la segunda  etapa  del  sistema  educativo  nacional.  Además,  las  EEST  orientan  su  formación especializada a los campos de la ciencia y la tecnología.
 
-El  Censo  Educativo  20191  revela  que  en  nuestro  país  se  cuenta  con  862  institutos  a  nivel nacional, de los cuales 3772 son de gestión pública y 485 son de gestión privada. Actualmente los institutos de gestión pública atienden a 135,541 estudiantes.
+El Censo Educativo 2019¹ revela que en nuestro país se cuenta con 862 institutos a nivel nacional, de los cuales 377² son de gestión pública y 485 son de gestión privada. Actualmente los institutos de gestión pública atienden a 135,541 estudiantes.
 
 Asimismo, para el caso de la Educación Técnico-Productiva (ETP) se cuenta con 1947 Centros de Educación Técnico-Productiva (CETPRO) a nivel nacional, de los cuales 812 son de gestión pública y 1134 son de gestión privada. Actualmente los CETPRO de gestión pública atienden a 151,024 estudiantes. Los CETPRO tienen su marco legal en la Ley General de Educación (LGE) y  su  Reglamento.  No  cuentan  con  ley  propia,  no  obstante,  se  ha  realizado  modificaciones normativas recientes que le asignan un rol articulador a esta modalidad.
 
@@ -890,11 +922,13 @@ El 31 de agosto de 2020 se aprobó por Decreto Supremo N° 012-2020-MINEDU la Po
 
 ECM y EDS:
 
-OP1. Incrementar el acceso equitativo de la población a la Educación Superior y TécnicoProductiva. OP2.  Fortalecer  la  formación  integral  de  los  estudiantes  de  la  Educación  Superior  y  TécnicoProductiva, que responda a los contextos sociales, culturales y productivos.
+OP1. Incrementar el acceso equitativo de la población a la Educación Superior y Técnico-Productiva.
 
-OP3.  Mejorar  la  calidad  del  desempeño  de  los  docentes  de  la  Educación  Superior  y  TécnicoProductiva.
+OP2. Fortalecer la formación integral de los estudiantes de la Educación Superior y Técnico-Productiva, que responda a los contextos sociales, culturales y productivos.
 
-OP4. Fortalecer la calidad de las instituciones de la Educación Superior y TécnicoProductiva, en el ejercicio de su autonomía.
+OP3. Mejorar la calidad del desempeño de los docentes de la Educación Superior y Técnico-Productiva.
+
+OP4. Fortalecer la calidad de las instituciones de la Educación Superior y Técnico-Productiva, en el ejercicio de su autonomía.
 
 [[END OF PAGE 30]]
 
@@ -906,19 +940,19 @@ OP6. Movilizar recursos a las instituciones de la Educación Superior y Técnico
 
 Link de descarga de la PNESTP:
 
-https://cdn.www.gob.pe/uploads/document/file/1481464/Pol%C3%ADtica%20Nacional%20 de%20Educaci%C3%B3n%20Superior%20y%20T%C3%A9cnico-Productiva.pdf
+https://cdn.www.gob.pe/uploads/document/file/1481464/Pol%C3%ADtica%20Nacional%20de%20Educaci%C3%B3n%20Superior%20y%20T%C3%A9cnico-Productiva.pdf
 
 La EST cuenta con un marco legal propio a partir de la aprobación de la Ley N° 30512, Ley de Institutos y Escuelas de Educación Superior y de la Carrera Pública de sus Docentes (2016), y su Reglamento  aprobado  mediante  el  Decreto  Supremo  N°  010-2017-MINEDU  y  su  modificatoria aprobada con el Decreto Supremo N° 011-2019-MINEDU, cuyo objeto es regular las disposiciones contenidas en la citada Ley.
 
 Con la Ley N° 30512, se busca regular la creación, licenciamiento, régimen académico, gestión, supervisión y fiscalización de los Institutos de Educación Superior y Escuelas de Educación Superior públicos y privados, así también regula el desarrollo de la carrera pública docente de los IES y EES públicos. Con ello se sientan bases para que las instituciones brinden una formación de calidad para el desarrollo integral de las personas, que responda a las necesidades del país, del mercado laboral y del sistema educativo y su articulación con los sectores productivos, que permita el desarrollo de la ciencia y la tecnología.
 
-En  el  marco  de  la  Ley  N°  30512  se  elaboran  los  siguientes  documentos  técnico  normativos:  el Catálogo  Nacional  de  la  Oferta  Formativa  de  la  Educación  Superior  Tecnológica  y  TécnicoProductiva,  aprobado  con  la  Resolución  Viceministerial  N°  178-2018-MINEDU3;  el  cual  es  el instrumento que organiza los programas de estudios otorgados en la Educación Superior y Técnico Productiva, que tienen reconocimiento oficial y responden a las demandas actuales y futuras del sector productivo. A partir del análisis de las actividades económicas y los referentes productivos, se establecen las competencias específicas asociadas a una determinada actividad, lo que permite construir la estructura de los programas de estudio.
+En el marco de la Ley N° 30512 se elaboran los siguientes documentos técnico normativos: el Catálogo Nacional de la Oferta Formativa de la Educación Superior Tecnológica y Técnico-Productiva, aprobado con la Resolución Viceministerial N° 178-2018-MINEDU³; el cual es el instrumento que organiza los programas de estudios otorgados en la Educación Superior y Técnico Productiva, que tienen reconocimiento oficial y responden a las demandas actuales y futuras del sector productivo. A partir del análisis de las actividades económicas y los referentes productivos, se establecen las competencias específicas asociadas a una determinada actividad, lo que permite construir la estructura de los programas de estudio.
 
-Los Lineamientos Académicos Generales para los Institutos de Educación Superior y las Escuelas de Educación Superior Tecnológica aprobados con Resolución Viceministerial N° 178-2018-MINEDU y  su  modificatoria  aprobada  mediante  Resolución  Viceministerial  N°  277-2019-MINEDU,  cuya finalidad es garantizar que los Institutos de Educación Superior y Escuelas de Educación Superior Tecnológica gestionen el servicio educativo para la formación de las personas de forma integral, especializada, intercultural, inclusiva y en igualdad de oportunidades, que permita a los egresados tener un adecuado desenvolvimiento en el mundo laboral, actuando de manera ética, eficiente y eficaz,  mediante  el  desarrollo  de  competencias  con  énfasis  en  la  práctica,  la  investigación,  la innovación, el emprendimiento y la participación de la comunidad educativa y su entorno.
+Los Lineamientos Académicos Generales para los Institutos de Educación Superior y las Escuelas de Educación Superior Tecnológica aprobados con Resolución Viceministerial N° 178-2018-MINEDU y su modificatoria aprobada mediante Resolución Viceministerial N° 277-2019-MINEDU, cuya finalidad es garantizar que los Institutos de Educación Superior y Escuelas de Educación Superior Tecnológica gestionen el servicio educativo para la formación de las personas de forma integral, especializada, intercultural, inclusiva y en igualdad de oportunidades, que permita a los egresados tener un adecuado desenvolvimiento en el mundo laboral, actuando de manera ética, eficiente y eficaz, mediante el desarrollo de competencias con énfasis en la práctica, la investigación, la innovación, el emprendimiento y la participación de la comunidad educativa y su entorno.
 
-La Norma Técnica 'Condiciones Básicas de Calidad para el Procedimiento de Licenciamiento de los Institutos de Educación Superior y las Escuelas de Educación Superior Tecnológica' aprobada con Resolución Viceministerial  N° 276-2019-MINEDU, cuya finalidad es garantizar la provisión de un servicio  educativo  de  calidad,  a  través  del  estableciendo  de  las  condiciones  de  cumplimiento obligatorio para la obtención del licenciamiento de los Institutos y Escuelas de la EST, y autorizarlas para proveer el servicio educativo por un periodo de cinco años que son renovables.
+La Norma Técnica “Condiciones Básicas de Calidad para el Procedimiento de Licenciamiento de los Institutos de Educación Superior y las Escuelas de Educación Superior Tecnológica” aprobada con Resolución Viceministerial N° 276-2019-MINEDU, cuya finalidad es garantizar la provisión de un servicio educativo de calidad, a través del estableciendo de las condiciones de cumplimiento obligatorio para la obtención del licenciamiento de los Institutos y Escuelas de la EST, y autorizarlas para proveer el servicio educativo por un periodo de cinco años que son renovables.
 
-En la misma línea, se cuenta con otros instrumentos relevantes para guiar la implementación del enfoque  de  género  y  las  acciones  de  prevención  del  hostigamiento  sexual  en  las  instituciones educativas. Es así que a través de la Norma Técnica aprobada con la Resolución Viceministerial N° 428-2018- MINEDU4 se busca garantizar que las instituciones de educación TécnicoProductiva e institutos y escuelas  de  educación  superior  públicas  y privadas, sean  entornos  libres  de hostigamiento sexual, contribuyendo en la promoción del ejercicio de derechos de hombres y mujeres en  condiciones  de  igualdad,  la  construcción  de  ciudadanía  y  la  convivencia  saludable  en  la comunidad educativa.
+En la misma línea, se cuenta con otros instrumentos relevantes para guiar la implementación del enfoque de género y las acciones de prevención del hostigamiento sexual en las instituciones educativas. Es así que a través de la Norma Técnica aprobada con la Resolución Viceministerial N° 428-2018- MINEDU⁴ se busca garantizar que las instituciones de educación Técnico-Productiva e institutos y escuelas de educación superior públicas y privadas, sean entornos libres de hostigamiento sexual, contribuyendo en la promoción del ejercicio de derechos de hombres y mujeres en condiciones de igualdad, la construcción de ciudadanía y la convivencia saludable en la comunidad educativa.
 
 El presente año se aprobaron además los Lineamientos para la aplicación del enfoque de género en Centros de Educación Técnico-Productiva, Institutos y Escuelas de Educación Superior mediante la Resolución Viceministerial N° 044-2020-MNEDU, cuyo objetivo es establecer las disposiciones que orienten la institucionalización y transversalización del enfoque de género, que auspicie una cultura y formación para la igualdad de derechos de hombres y mujeres, libre de discriminación y violencia de género en favor del bienestar personal y profesional de los estudiantes y el desarrollo del país.
 
@@ -942,13 +976,13 @@ Asimismo, desde la Digesutpa se ha brindado asistencia técnica para la actualiz
 
 A causa de la presencia del coronavirus y la emergencia sanitaria dispuesta por el gobierno, durante el  2020  se  viene  brindado  asistencia  técnica  a  través  de  plataformas  virtuales,  mediante videoconferencias  todas  ellas  dirigidas  a  orientar  la  implementación  del  servicio  educativo  en  la modalidad no presencial, abordando aspectos normativos y el uso de herramientas pedagógicas en entornos virtuales. En ese sentido se convocó a diferentes actores involucrados en la gestión del servicio  educativo  como  especialistas  de  Educación  Superior  y  Técnico-Productiva,  personal directivo y docentes de los institutos y CETPRO alcanzando un promedio de participación del 84% enn el caso de institutos y del 82% en el caso de CETPRO.
 
-Finalmente es oportuno señalar que el 31 de agosto del 2020, el Ministerio de Educación, en ejercicio de su rectoría de la Política Educativa Nacional, ha elaborado la Política Nacional de Educación Superior y TécnicoProductiva al 2030 (PNESTP), aprobada mediante el Decreto Supremo N° 0122020-Minedu, la que espera atender el problema público: 'Población con inadecuadas competencias para  ejercer  su  profesión  y  desarrollar  investigación  e  innovación'.  En  esa  línea,  la  PNESTP  se enmarca en la Política General de Gobierno, respecto al Eje 4 'Desarrollo social y bienestar de la población' y el Lineamiento 4.3 'Mejorar los niveles de logros de aprendizaje de los estudiantes, con énfasis en los grupos con mayores brechas'5.
+Finalmente es oportuno señalar que el 31 de agosto del 2020, el Ministerio de Educación, en ejercicio de su rectoría de la Política Educativa Nacional, ha elaborado la Política Nacional de Educación Superior y Técnico-Productiva al 2030 (PNESTP), aprobada mediante el Decreto Supremo N° 012-2020-Minedu, la que espera atender el problema público: “Población con inadecuadas competencias para ejercer su profesión y desarrollar investigación e innovación”. En esa línea, la PNESTP se enmarca en la Política General de Gobierno, respecto al Eje 4 “Desarrollo social y bienestar de la población” y el Lineamiento 4.3 “Mejorar los niveles de logros de aprendizaje de los estudiantes, con énfasis en los grupos con mayores brechas”⁵.
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-A partir de la promulgación de la PNESTP se establece una perspectiva conjunta de la educación superior  y  técnico  productiva,  con  la  finalidad  de  construir  de  manera  integral  las  trayectorias educativas durante y luego de la educación básica6. En ese sentido la PNESTP tiene alcance entre otras,  en  las  instituciones  de  la  ETP  y  la  EST  sean  públicas  o  privadas,  y  es  de  cumplimiento obligatorio  para  el  MINEDU,  las  Direcciones  Regionales  de  Educación  (DRE),  las  Unidades  de Gestión Educativa Local (UGEL) y otras entidades del Estado, privadas, de la sociedad civil, en lo que resulte aplicable.
+A partir de la promulgación de la PNESTP se establece una perspectiva conjunta de la educación superior y técnico productiva, con la finalidad de construir de manera integral las trayectorias educativas durante y luego de la educación básica⁶. En ese sentido la PNESTP tiene alcance entre otras, en las instituciones de la ETP y la EST sean públicas o privadas, y es de cumplimiento obligatorio para el MINEDU, las Direcciones Regionales de Educación (DRE), las Unidades de Gestión Educativa Local (UGEL) y otras entidades del Estado, privadas, de la sociedad civil, en lo que resulte aplicable.
 
 A través de la PNESTP se marca la ruta que dirigirá el proceso de reforma de la Educación Superior y Técnico-Productiva, su mejora continua y consolidación; reafirmando el compromiso del Estado de fomentar,  de  manera  intensiva,  la  equidad,  calidad  y  pertinencia  del  sistema  educativo,  con oportunidades de aprendizaje a lo largo de la vida para la población. Asimismo, la PNESTP incluye en su concepción y la de todos sus objetivos y acciones los enfoques de educación inclusiva, enfoque de género, enfoque intercultural, enfoque territorial, enfoque ambiental, enroque intergeneracional, enfoque de discapacidad, enfoque diferencial y enfoque basado en Derechos Humanos.
 
@@ -978,7 +1012,7 @@ En este marco la PNESTP define seis objetivos prioritarios a partir de los cuale
 
 - La Dirección de Educación Básica Alternativa (DEBA), cuenta con Programas Curriculares para  los  ciclos  inicial  e  intermedio  y  avanzado  en  el  marco  del  Currículo  Nacional  de  la Educación Básica.
 
-- Se  aprobó  con  RM  N°  451-2020-MINEDU,  El  Modelo  Educativo  para  personas  adultas mayores (MSE-PAM), que brindará el servicio educativo a personas mayores de 65 años en
+- Se aprobó con RM N° 451-2020-MINEDU, El Modelo Educativo para personas adultas mayores (MSE-PAM), que brindará el servicio educativo a personas mayores de 65 años en
 
 33
 
@@ -986,7 +1020,7 @@ En este marco la PNESTP define seis objetivos prioritarios a partir de los cuale
 
 [[START OF PAGE 34]]
 
-- sus tres ciclos inicial e intermedio y avanzado, con una propuesta pedagógica pertinente y de calidad.
+sus tres ciclos inicial e intermedio y avanzado, con una propuesta pedagógica pertinente y de calidad.
 
 - Se cuenta con convenios interinstitucionales para brindar el servicio educativo a segmentos poblacionales, con el Ministerio de la Producción para atender a las personas dedicadas a la pesca artesanal. La EBA brinda el servicio de educación básica y el Ministerio de  la  Producción  brinda  una  formación  técnica  a  los  pescadores  artesanales, extendiéndose el servicio educativo a sus familiares. Se tiene una meta de 15,000 pescadores artesanales.
 
@@ -998,7 +1032,7 @@ En este marco la PNESTP define seis objetivos prioritarios a partir de los cuale
 
 - Se desarrollaron asistencias técnicas a especialistas de EBA de las DRE/UGEL, directores y docentes de CEBA para implementar la estrategia Aprendo en Casa con la  Básica  Alternativa,  con  las  normas  técnicas  emitidas  por  el  Ministerio  de Educación, garantizando el servicio educativo a los jóvenes y adultos.
 
-### Investigación y cooperación internacional (párrafos 41 a 45 de la Recomendación de 1974)
+### H. Investigación y cooperación internacional (párrafos 41 a 45 de la Recomendación de 1974)
 
 #### H1. Por favor describa qué tipo de investigación o experimentación se ha llevado a cabo para mejorar la implementación de la ECM y la EDS. Describa brevemente la forma en que  los  resultados  de  esas  actividades  han  influido  en  las  políticas  educativas,  los planes de estudios y las prácticas de enseñanza.
 
@@ -1010,14 +1044,15 @@ En este marco la PNESTP define seis objetivos prioritarios a partir de los cuale
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Organización de reuniones internacionales sobre la ECM y la EDS
-Participación en reuniones internacionales en el extranjero sobre la ECM y la EDS
-Apoyo a los programas que acogen a estudiantes, investigadores o docentes extranjeros
-Composición de las redes internacionales, como la redPEA
-Proyectos conjuntos de investigación sobre la ECM y la EDS con instituciones extranjeras
-Otras actividades (especifique cuáles):
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| Organización de reuniones internacionales sobre la ECM y la EDS | | | | |
+| Participación en reuniones internacionales en el extranjero sobre la ECM y la EDS | | | | |
+| Apoyo a los programas que acogen a estudiantes, investigadores o docentes extranjeros | | | | |
+| Composición de las redes internacionales, como la redPEA | | | | |
+| Proyectos conjuntos de investigación sobre la ECM y la EDS con instituciones extranjeras | | | | |
+| Otras actividades (especifique cuáles): | | | | |
+| | | | | |
 
 35
 
@@ -1029,7 +1064,7 @@ Otras actividades (especifique cuáles):
 
 #### I.1     Por favor indique si su país ha enfrentado alguna limitación en la implementación de la Recomendación de 1974, relacionada particularmente con crisis globales o nacionales, incluyendo desastres naturales.
 
-En la actualidad, no ha habido, más allá de la emergencia sanitaria ocasionada por la COVID - 19, otra limitación vinculada a una crisis nacional o un desastre natural. Con respecto a la emergencia sanitaria ocasionada por el Coronavirus, se interrumpió, brevemente la implementación del servicio educativo, dando paso a un servicio educativo remoto, que tuvo como principal limitación la falta de conectividad de un porcentaje de estudiantes y de docentes. En el Perú, se viene implementando políticas, planes y normas para fortalecer la igualdad de género y el enfoque de derechos, sin embargo, hubo un sector de la  población  se  organizó  para  cuestionar  a  nivel  judicial  el  enfoque  Igualdad  de  género  en  el  sector educación, el cual fue declarado infundado.
+En la actualidad, no ha habido, más allá de la emergencia sanitaria ocasionada por la COVID – 19, otra limitación vinculada a una crisis nacional o un desastre natural. Con respecto a la emergencia sanitaria ocasionada por el Coronavirus, se interrumpió, brevemente la implementación del servicio educativo, dando paso a un servicio educativo remoto, que tuvo como principal limitación la falta de conectividad de un porcentaje de estudiantes y de docentes. En el Perú, se viene implementando políticas, planes y normas para fortalecer la igualdad de género y el enfoque de derechos, sin embargo, hubo un sector de la población se organizó para cuestionar a nivel judicial el enfoque Igualdad de género en el sector educación, el cual fue declarado infundado.
 
 En  lo  que  refiere  a  educación  superior  universitaria,  no  se  han  presentado  limitaciones  en  la implementación de la Recomendación de 1974. Sin embargo, cabe precisar que desde el año 2016 hasta el presente año, la Superintendencia Nacional de Educación Superior Universitaria (Sunedu) ha venido otorgando la licencia institucional de funcionamiento a las universidades (o en su defecto, denegatoria) en relación a la evaluación de un conjunto de Condiciones Básicas de Calidad (CBC) exigidas en la Ley Universitaria (Ley N° 30220), lo cual ha generado cambios importantes en la oferta y demanda de la educación  superior  universitaria  para  la  mejora  de  las  condiciones  académicas  de  formación  e investigación universitarias. Link de presentación de las CBC que evalúa Sunedu desde el año 2016: https://www.sunedu.gob.pe/8-condiciones-basicas-de-calidad/
 
@@ -1047,9 +1082,9 @@ Este nuevo contexto para la EST y la ETP, ha expuesto las brechas en cuanto al a
 
 Para  lograr  la  transversalización  integral  de  ECM  y  la  EDS  en  el  sistema  educativo  peruano, específicamente en las áreas curriculares requiere visibilizar la importancia de la ECM y la EDS para el logro de un desarrollo humano y calidad educativa.
 
-El cumplimiento de la temática de ECM y EDS tiene por actores a la sociedad civil en formación, por lo  que  la  PNESTP  se  relaciona,  a  nivel  horizontal,  con  las  siguientes  políticas  (pág.  108  de  la PNESTP): la Política Nacional de Competitividad y Productividad, la Política Nacional de Juventud, la  Política  Nacional  de  Igualdad de Género, Política  de Atención Educativa para la Población de Ámbitos Rurales, Política Nacional de Cultura al 2030, Política Nacional para el Desarrollo de la Ciencia, Tecnología e Innovación Tecnológica - CTI y, la Política Nacional Multisectorial de Salud al 2030 'Perú, país saludable'. Link de descarga de la PNESTP:
+El cumplimiento de la temática de ECM y EDS tiene por actores a la sociedad civil en formación, por lo que la PNESTP se relaciona, a nivel horizontal, con las siguientes políticas (pág. 108 de la PNESTP): la Política Nacional de Competitividad y Productividad, la Política Nacional de Juventud, la Política Nacional de Igualdad de Género, Política de Atención Educativa para la Población de Ámbitos Rurales, Política Nacional de Cultura al 2030, Política Nacional para el Desarrollo de la Ciencia, Tecnología e Innovación Tecnológica – CTI y, la Política Nacional Multisectorial de Salud al 2030 “Perú, país saludable”. Link de descarga de la PNESTP:
 
-https://cdn.www.gob.pe/uploads/document/file/1481464/Pol%C3%ADtica%20Nacional%20 de%20Educaci%C3%B3n%20Superior%20y%20T%C3%A9cnico-Productiva.pdf
+https://cdn.www.gob.pe/uploads/document/file/1481464/Pol%C3%ADtica%20Nacional%20de%20Educaci%C3%B3n%20Superior%20y%20T%C3%A9cnico-Productiva.pdf
 
 37
 
