@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' )  aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+- 1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+- 2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+- 3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+- 4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global  citizenship  education  and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+- 4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+- 5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -32,17 +32,17 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+- 6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+- 7. Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+- 8. This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+- 9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+- 10. Responses to the seventh consultation should cover:
 
 (i)      the time period 2017-2020;
 
@@ -52,11 +52,11 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist  countries  in  responding  to  this  questionnaire,  UNESCO  has  developed  the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+- 11. To assist  countries  in  responding  to  this  questionnaire,  UNESCO  has  developed  the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+- 1. cultural diversity and tolerance
 
 - 1.1 international or intercultural understanding, solidarity and cooperation
 
@@ -64,7 +64,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 1.3 local, national and/or global citizenship
 
-- gender equality education
+- 2. gender equality education
 
 - 2.1 gender-based equal opportunities
 
@@ -76,7 +76,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 [[START OF PAGE 3]]
 
-- human rights education
+- 3. human rights education
 
 - 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
 
@@ -84,15 +84,15 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
 
-- peace and non-violence
+- 4. peace and non-violence
 
 - 4.1 friendly relations among peoples and nations
 
 - 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+- 4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+- 5. climate change education
 
 - 5.1 mitigation
 
@@ -102,7 +102,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 5.4 early warning
 
-- environmental sustainability
+- 6. environmental sustainability
 
 - 6.1 caring for the planet, protecting nature
 
@@ -110,7 +110,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 6.3 biodiversity, water
 
-- human survival and well-being
+- 7. human survival and well-being
 
 - 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
 
@@ -118,7 +118,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 7.3 sustainable cities and communities
 
-- sustainable consumption and production
+- 8. sustainable consumption and production
 
 - 8.1 responsible and sustainable lifestyles
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -219,15 +219,15 @@ Others (please specify) :
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
 
 - A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
-- Constitutions of the Kyrgyz Republic 2. The Law of the Kyrgyz Republic on Education 3. The Code of Children 4. Regulation of general educational organisation
+- 1. Constitutions of the Kyrgyz Republic 2. The Law of the Kyrgyz Republic on Education 3. The Code of Children 4. Regulation of general educational organisation
 
 - A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
-- Constitutions of the Kyrgyz Republic 2. The Law of the Kyrgyz Republic on Education 3. The Code of Children 4. Regulation of general educational organisation
+- 1. Constitutions of the Kyrgyz Republic 2. The Law of the Kyrgyz Republic on Education 3. The Code of Children 4. Regulation of general educational organisation
 
 *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
@@ -235,11 +235,11 @@ KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given lev
 
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 1 | 1 | 9 | 9 | 9 | 9 | 9 | 9
 2. | Gender equality | 1 | 1 | 9 | 9 | 9 | 9 | 9 | 9
 3. | Human rights | 1 | 1 | 9 | 9 | 9 | 9 | 9 | 9
-4. | Peace and non- violence | 1 | 1 | 9 | 9 | 9 | 9 | 9 | 9
+4. | Peace and non-violence | 1 | 1 | 9 | 9 | 9 | 9 | 9 | 9
 5. | Climate change | 1 | 1 | 9 | 9 | 9 | 9 | 9 | 9
 6. | Environmental sustainability | 1 | 1 | 9 | 9 | 9 | 9 | 9 | 9
 7. | Human survival and well-being | 1 | 1 | 9 | 9 | 9 | 9 | 9 | 9
@@ -299,15 +299,15 @@ Textbook development | 9 | 9 | 9 | 9
 Teacher education and training | 9 | 9 | 9 | 9
 Assessment of student outcomes | 9 | 9 | 9 | 9
 
-### Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
+### B. Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
 
 - B1a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate  whether  topics  are  taught  as  standalone  subjects  or  are  integrated  into  the curricula of other subjects. Explain whether GCED and/or ESD themes 4  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
-- Human and society 2. Homeland Studies 3. History 4. Literature 5. Art
+- 1. Human and society 2. Homeland Studies 3. History 4. Literature 5. Art
 
 - B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
-These topics are taught both as standalone subjects or are integrated into the curricula of other subjects: 1. Human and society - standalone subjects 2. Homeland Studies - standalone subjects; 3.  History  -  integrated  into  the  curricula;  4.  Literature  -  integrated  into  the  curricula;  5.  Artintegrated into the curricula.
+These topics are taught both as standalone subjects or are integrated into the curricula of other subjects: 1. Human and society - standalone subjects 2. Homeland Studies - standalone subjects; 3.  History  -  integrated  into  the  curricula;  4.  Literature  -  integrated  into  the  curricula;  5.  Art-integrated into the curricula.
 
 > 4 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -316,6 +316,8 @@ These topics are taught both as standalone subjects or are integrated into the c
 [[START OF PAGE 12]]
 
 *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -328,11 +330,11 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 9 | 9
 8. | Sustainable consumption and production | 1 | 1 | 9 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Civics, civil or citizenship education | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
@@ -347,8 +349,6 @@ Science | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Other (please specify)
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 12]]
 
@@ -372,7 +372,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 3. | Human rights education
-3.1 | equality and non- discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 9 | 9
+3.1 | equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 9 | 9
 3.2 | human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 9 | 9
 3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 9 | 9
 
@@ -380,7 +380,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 14]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
 
 - C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -392,6 +392,8 @@ Through upgrading their qualification every 5 years
 
 *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Initial or pre-service training
@@ -401,17 +403,11 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 9 | 9
 For teachers of other subjects | 1 | 1 | 9 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
 *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
-
-*C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
-
-*C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -426,6 +422,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 9 | 9
 8. | Sustainable consumption and production | 1 | 1 | 9 | 9
 
+*C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -434,6 +432,8 @@ Knowledge | 1 | 1 | 9 | 9
 Skills | 1 | 1 | 9 | 9
 Values | 1 | 1 | 9 | 9
 Attitudes and behaviours | 1 | 1 | 9 | 9
+
+*C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -448,15 +448,13 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 
 [[START OF PAGE 16]]
 
-### Student assessment (paras 4 and 5 of the 1974 Recommendation )
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation )
 
 - D1a.  Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills  related  to  the  topics  being  tested  or  also  on  their  values,  attitudes  and/or behaviours.
 
 Students are assessed both on their knowledge of and skills related to the topics being tested and also on their values, attitudes and behaviours.
 
 *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
-
-*D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -470,6 +468,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 1 | 1 | 9 | 9
 7. | Human survival and well-being | 1 | 1 | 9 | 9
 8. | Sustainable consumption and production | 1 | 1 | 9 | 9
+
+*D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -531,7 +531,7 @@ Sub-national
 
 [[START OF PAGE 18]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
 
 - F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -547,13 +547,13 @@ At present a new Сoncept of education of children and youth of the Kyrgyz Repub
 
 - H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
-Сonducted researches: "Violence -Free School," and "Safe Educational Environment"
+Сonducted researches: "Violence-Free School," and "Safe Educational Environment"
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-- H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+- H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -570,9 +570,9 @@ Other activities (please specify):
 
 - I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
 
-- I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
-
 No
+
+- I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
 
 We will continue to work to incorporate GCED and ESD into subject standards and curricula, and in extracurricular activities
 
