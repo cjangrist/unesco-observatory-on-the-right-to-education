@@ -4,15 +4,18 @@
 
 Lei nº 11.096
 
-Mensagem de veto
-
-Regulamento Conversão da MPv nº 213, de 2004 Vide Lei nº 12.868, de 2013
-
-Presidência da República Casa Civil
+Presidência da República
+Casa Civil
 
 Subchefia para Assuntos Jurídicos
 
 # LEI Nº 11.096, DE 13 DE JANEIRO DE 2005.
+
+Mensagem de veto
+
+Regulamento
+Conversão da MPv nº 213, de 2004
+Vide Lei nº 12.868, de 2013
 
 Institui o Programa Universidade para Todos - PROUNI, regula a atuação de entidades beneficentes de assistência social  no  ensino  superior;  altera  a  Lei  nº  10.891,  de  9  de julho de 2004, e dá outras providências.
 
@@ -25,7 +28,7 @@ Fica  instituído,  sob  a  gestão  do  Ministério  da  Educação,  o  Progra
 A bolsa de estudo integral será concedida a brasileiros não portadores de diploma de curso superior, cuja renda familiar mensal per capita não exceda o valor de até 1 (um) salário-mínimo e 1/2 (meio).
 
 ### § 2º
-As bolsas de estudo parciais de 50% (cinqüenta por cento) ou de 25% (vinte e cinco por cento), cujos critérios de  distribuição  serão  definidos  em  regulamento  pelo  Ministério  da  Educação,  serão  concedidas  a  brasileiros  nãoportadores  de  diploma  de  curso  superior,  cuja  renda  familiar  mensal  per  capita  não  exceda  o  valor  de  até  3  (três) salários-mínimos, mediante critérios definidos pelo Ministério da Educação.
+As bolsas de estudo parciais de 50% (cinqüenta por cento) ou de 25% (vinte e cinco por cento), cujos critérios de  distribuição  serão  definidos  em  regulamento  pelo  Ministério  da  Educação,  serão  concedidas  a  brasileiros  não-portadores  de  diploma  de  curso  superior,  cuja  renda  familiar  mensal  per  capita  não  exceda  o  valor  de  até  3  (três) salários-mínimos, mediante critérios definidos pelo Ministério da Educação.
 
 ### § 3º
 Para os efeitos desta Lei, bolsa de estudo refere-se às semestralidades ou anuidades escolares fixadas com base na Lei nº 9.870, de 23 de novembro de 1999.
@@ -327,13 +330,15 @@ Esta Lei entra em vigor na data de sua publicação.
 
 Brasília, 13 de janeiro de 2005; 184º da Independência e 117º da República.
 
-LUIZ INÁCIO LULA DA SILVA Antonio Palocci Filho Tarso Genro
+LUIZ INÁCIO LULA DA SILVA
+Antonio Palocci Filho
+Tarso Genro
 
 Este texto não substitui o publicado no D.O.U. de 14 .1.2005
 
 ## ANEXO I
 
-### Bolsa-Atleta - Categoria Atleta Estudantil
+### Bolsa-Atleta – Categoria Atleta Estudantil
 
 Atletas Eventualmente Beneficiados | Valor Mensal
 --- | ---
