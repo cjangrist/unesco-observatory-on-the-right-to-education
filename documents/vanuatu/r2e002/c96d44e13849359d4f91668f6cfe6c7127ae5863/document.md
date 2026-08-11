@@ -1,74 +1,74 @@
 [[START OF PAGE 1]]
 
-CONSTITUTION OF THE REPUBLIC OF VANUATU
-
 LAWS OF THE REPUBLIC OF VANUATU Consolidated Edition 2006
+
+CONSTITUTION OF THE REPUBLIC OF VANUATU
 
 # LAWS OF THE REPUBLIC OF VANUATU CONSOLIDATED EDITION 2006
 
 Commencement: 30 July 1980 except Articles 87 and 93 which commenced 23 October 1979
 
-CONSTITUTION OF THE
+CONSTITUTION OF THE REPUBLIC OF VANUATU
 
-Act 10 of 1980 Act 15 of 1981
+Act 10 of 1980
+
+Act 15 of 1981
 
 Act 20 of 1983
 
 ## ARRANGEMENT OF ARTICLES
 
-### CHAPTER 1 - THE STATE AND SOVEREIGNTY
+### CHAPTER 1 – THE STATE AND SOVEREIGNTY
 
-- Republic of Vanuatu
+1. Republic of Vanuatu
 
-- Constitution supreme law
+2. Constitution supreme law
 
-- National and official languages
+3. National and official languages
 
-- National sovereignty, the electoral franchise and political parties
+4. National sovereignty, the electoral franchise and political parties
 
-### CHAPTER 2 - FUNDAMENTAL RIGHTS AND DUTIES
+### CHAPTER 2 – FUNDAMENTAL RIGHTS AND DUTIES
 
-#### Part I - Fundamental rights
+#### Part I – Fundamental rights
 
-- Fundamental rights and freedoms of the individual
+5. Fundamental rights and freedoms of the individual
 
-- Enforcement of fundamental rights
+6. Enforcement of fundamental rights
 
-#### Part II - Fundamental duties
+#### Part II – Fundamental duties
 
-REPUBLIC OF VANUATU
+7. Fundamental duties
 
-- Fundamental duties
+8. Fundamental duties non-justiciable but public authorities to encourage compliance
 
-- Fundamental duties non-justiciable but public authorities to encourage compliance
+### CHAPTER 3 – CITIZENSHIP
 
-### CHAPTER 3 - CITIZENSHIP
+9. Automatic citizens
 
-- Automatic citizens
+10. Entitlement to citizenship
 
-- Entitlement to citizenship
+11. Persons born after Day of Independence
 
-- Persons born after Day of Independence
+12. Naturalisation
 
-- Naturalisation
+13. Avoidance of dual nationality
 
-- Avoidance of dual nationality
+14. Further provision for citizenship
 
-- Further provision for citizenship
+### CHAPTER 4 – PARLIAMENT
 
-### CHAPTER 4 - PARLIAMENT
+15. Parliament
 
-- Parliament
+16. Power to make laws
 
-- Power to make laws
+17. Election of members of Parliament
 
-- Election of members of Parliament
+18. Electoral Commission
 
-- Electoral Commission
+19. Principal Electoral Officer
 
-- Principal Electoral Officer
-
-- Functions of Electoral Commission and Principal Electoral Officer
+20. Functions of Electoral Commission and Principal Electoral Officer
 
 1
 
@@ -76,91 +76,91 @@ REPUBLIC OF VANUATU
 
 [[START OF PAGE 2]]
 
-- Executive power
-
-- Council of Ministers
-
-- Election of Prime Minister
-
-- Appointment and removal of other Ministers
-
-- Collective responsibility of Ministers and votes of no confidence
-
-- Termination of office of Ministers
-
-- Other times when a Minister ceases to hold office
-
-- Ministers to remain members of Parliament
-
-### CHAPTER 8 - JUSTICE
-
-- The Judiciary
-
-- The Judicial Service Commission
-
-- The Supreme Court, the Chief Justice and other judges
-
-- Appeals from Supreme Court to Court of Appeal
-
-- Ascertainment of rules of custom
-
-- Village and island courts
-
-- Application to Supreme Court regarding infringements of Constitution
-
-- Election disputes
-
-- Public Prosecutor
-
-- Public Solicitor
-
 LAWS OF THE REPUBLIC OF VANUATU Consolidated Edition 2006
 
 CONSTITUTION OF THE REPUBLIC OF VANUATU
 
-- Procedure of Parliament
+21. Procedure of Parliament
 
-- Speaker and Deputy Speakers
+22. Speaker and Deputy Speakers
 
-- Committees
+23. Committees
 
-- Proceedings to be public
+24. Proceedings to be public
 
-- Public finance
+25. Public finance
 
-- Ratification of treaties
+26. Ratification of treaties
 
-- Privileges of members
+27. Privileges of members
 
-- Life of Parliament
+28. Life of Parliament
 
-### CHAPTER 5 - NATIONAL COUNCIL OF CHIEFS
+### CHAPTER 5 – NATIONAL COUNCIL OF CHIEFS
 
-- National Council of Chiefs
+29. National Council of Chiefs
 
-- Functions of Council
+30. Functions of Council
 
-- Organisation of Council and role of chiefs
+31. Organisation of Council and role of chiefs
 
-- Privileges of members of Council
+32. Privileges of members of Council
 
-### CHAPTER 6 - HEAD OF STATE
+### CHAPTER 6 – HEAD OF STATE
 
-- President of the Republic
+33. President of the Republic
 
-- Election of President
+34. Election of President
 
-- Qualifications for election as President
+35. Qualifications for election as President
 
-- Term of office and removal of President
+36. Term of office and removal of President
 
-- Speaker to act as President
+37. Speaker to act as President
 
-- Presidential powers of pardon, commutation and reduction of sentences
+38. Presidential powers of pardon, commutation and reduction of sentences
 
-### CHAPTER 7 - THE EXECUTIVE
+### CHAPTER 7 – THE EXECUTIVE
 
-### CHAPTER 9 - ADMINISTRATION
+39. Executive power
+
+40. Council of Ministers
+
+41. Election of Prime Minister
+
+42. Appointment and removal of other Ministers
+
+43. Collective responsibility of Ministers and votes of no confidence
+
+44. Termination of office of Ministers
+
+45. Other times when a Minister ceases to hold office
+
+46. Ministers to remain members of Parliament
+
+### CHAPTER 8 – JUSTICE
+
+47. The Judiciary
+
+48. The Judicial Service Commission
+
+49. The Supreme Court, the Chief Justice and other judges
+
+50. Appeals from Supreme Court to Court of Appeal
+
+51. Ascertainment of rules of custom
+
+52. Village and island courts
+
+53. Application to Supreme Court regarding infringements of Constitution
+
+54. Election disputes
+
+55. Public Prosecutor
+
+56. Public Solicitor
+
+### CHAPTER 9 – ADMINISTRATION
 
 2
 
@@ -168,83 +168,83 @@ CONSTITUTION OF THE REPUBLIC OF VANUATU
 
 [[START OF PAGE 3]]
 
-- Public servants
-
-- Exclusion of security of tenure in relation to political advisers and transfer of public servants
-
-- Membership of Public Service Commission
-
-- Functions of Public Service Commission
-
-#### Part II - The Ombudsman
-
-- Ombudsman
-
-- Enquiries by Ombudsman
-
-- Findings of Ombudsman and reports
-
-- Right of a citizen to services in own language
-
-- Ombudsman not subject to direction or control
-
-### CHAPTER 10 - LEADERSHIP CODE
-
-- Conduct of leaders
-
-- Definition of a leader
-
-- Parliament to give effect to this Chapter
-
-### CHAPTER 11 - EMERGENCY POWERS
-
-- Emergency regulations
-
-- Period of and renewals of state of emergency
-
-- Effect of emergency regulations
-
-- Complaints to Supreme Court concerning emergency regulations
-
-### CHAPTER 12 - LAND
-
-- Land belongs to custom owners
-
-- Basis of ownership and use
-
-- Perpetual ownership
-
-- National land law
-
-- Compensation
-
-- Disputes
-
-- Land transactions
-
-- Government may own land
-
-- Redistribution of land
-
-### CHAPTER 13 - DECENTRALISATION
-
-- Legislation for decentralisation
-
-- Local Government Councils
-
-### CHAPTER 14 - AMENDMENT OF THE CONSTITUTION
-
-- Bills for amendment of Constitution
-
-- Procedure for passing Constitutional amendments
-
-- Amendments requiring support of referendums
-
 LAWS OF THE REPUBLIC OF VANUATU Consolidated Edition 2006
 
 CONSTITUTION OF THE REPUBLIC OF VANUATU
 
-#### Part I - The Public Service
+#### Part I – The Public Service
+
+57. Public servants
+
+58. Exclusion of security of tenure in relation to political advisers and transfer of public servants
+
+59. Membership of Public Service Commission
+
+60. Functions of Public Service Commission
+
+#### Part II – The Ombudsman
+
+61. Ombudsman
+
+62. Enquiries by Ombudsman
+
+63. Findings of Ombudsman and reports
+
+64. Right of a citizen to services in own language
+
+65. Ombudsman not subject to direction or control
+
+### CHAPTER 10 – LEADERSHIP CODE
+
+66. Conduct of leaders
+
+67. Definition of a leader
+
+68. Parliament to give effect to this Chapter
+
+### CHAPTER 11 – EMERGENCY POWERS
+
+69. Emergency regulations
+
+70. Period of and renewals of state of emergency
+
+71. Effect of emergency regulations
+
+72. Complaints to Supreme Court concerning emergency regulations
+
+### CHAPTER 12 – LAND
+
+73. Land belongs to custom owners
+
+74. Basis of ownership and use
+
+75. Perpetual ownership
+
+76. National land law
+
+77. Compensation
+
+78. Disputes
+
+79. Land transactions
+
+80. Government may own land
+
+81. Redistribution of land
+
+### CHAPTER 13 – DECENTRALISATION
+
+82. Legislation for decentralisation
+
+83. Local Government Councils
+
+### CHAPTER 14 – AMENDMENT OF THE CONSTITUTION
+
+84. Bills for amendment of Constitution
+
+85. Procedure for passing Constitutional amendments
+
+86. Amendments requiring support of referendums
 
 3
 
@@ -256,27 +256,29 @@ LAWS OF THE REPUBLIC OF VANUATU Consolidated Edition 2006
 
 CONSTITUTION OF THE REPUBLIC OF VANUATU
 
-### CHAPTER 15 - TRANSITIONAL PROVISIONS
+### CHAPTER 15 – TRANSITIONAL PROVISIONS
 
-- First President of the Republic
+87. First President of the Republic
 
-- First Prime Minister and other Ministers
+88. First Prime Minister and other Ministers
 
-- First Parliament
+89. First Parliament
 
-- Existing offices
+90. Existing offices
 
-- Judges of the Supreme Court
+91. Judges of the Supreme Court
 
-- Rights, liabilities and obligations
+92. Rights, liabilities and obligations
 
-- Electoral system
+93. Electoral system
 
-- Legal proceedings
+94. Legal proceedings
 
-- Existing law
+95. Existing law
 
-SCHEDULE 1 - Election of the President of the Republic SCHEDULE 2 - Election of the Prime Minister
+SCHEDULE 1 – Election of the President of the Republic
+
+SCHEDULE 2 – Election of the Prime Minister
 
 ___________________
 
@@ -296,7 +298,7 @@ HEREBY proclaim the establishment of the united and free Republic of Vanuatu fou
 
 AND for this purpose give ourselves this Constitution.
 
-## CHAPTER 1 - THE STATE AND SOVEREIGNTY
+## CHAPTER 1 – THE STATE AND SOVEREIGNTY
 
 #### 1. Republic of Vanuatu
 
@@ -310,7 +312,7 @@ The Constitution is the supreme law of the Republic of Vanuatu.
 
 (1) The national language of the Republic of Vanuatu is Bislama. The official languages are Bislama, English and French. The principal languages of education are English and French.
 
-- The Republic of Vanuatu shall protect the different local languages which are part of the
+(2) The Republic of Vanuatu shall protect the different local languages which are part of the
 
 4
 
@@ -770,7 +772,7 @@ The Prime Minister shall be elected by Parliament from among its members by secr
 
 (1) The Council of Ministers shall be collectively responsible to Parliament.
 
-- Parliament may pass a motion of no confidence in the Prime Minister. At least 1 week's notice of such a motion shall be given to the Speaker and the motion must be signed by one-sixth of the members of Parliament. If it is supported by an absolute majority of the members of Parliament, the Prime Minister and other Ministers shall cease to hold office forthwith but shall continue to exercise their functions until a new Prime Minister is elected.
+(2) Parliament may pass a motion of no confidence in the Prime Minister. At least 1 week's notice of such a motion shall be given to the Speaker and the motion must be signed by one-sixth of the members of Parliament. If it is supported by an absolute majority of the members of Parliament, the Prime Minister and other Ministers shall cease to hold office forthwith but shall continue to exercise their functions until a new Prime Minister is elected.
 
 #### 44. Termination of office of Ministers
 
@@ -876,28 +878,6 @@ The jurisdiction to hear and determine any question as to whether a person has b
 
 [[START OF PAGE 17]]
 
-#### 57. Public servants
-
-(1) Public servants owe their allegiance to the Constitution and to the people of Vanuatu.
-
-(2) Only citizens of Vanuatu shall be appointed to public office. The Public Service Commission shall determine other qualifications for appointment to the public service.
-
-- No appointment shall be made to a post that has not been created in accordance with a law.
-
-- The Prime Minister or the chairman of a Local Government Council may, exceptionally, make provision for the recruitment of staff for a specified period to meet unforeseen needs.
-
-In urgent cases, the Public Service Commission may, after consulting the Ministers responsible for finance and public administration, make such a decision instead of the Prime Minister.
-
-- For as long as their posts exist, public servants shall not be removed from their posts except in accordance with the Constitution.
-
-- Public servants shall be given increments in their salary in accordance with the law.
-
-- Public servants shall leave the public service upon reaching retirement age or upon being dismissed by the Public Service Commission. They shall not be demoted without consultation with the Public Service Commission.
-
-- The security of tenure of public servants provided for in subarticle (5) shall not prevent such compulsory early retirement as may be decided by law in order to ensure the renewal of holders of public offices.
-
-#### 58. Exclusion of security of tenure in relation to political advisers and transfer of public servants
-
 LAWS OF THE REPUBLIC OF VANUATU Consolidated Edition 2006
 
 CONSTITUTION OF THE REPUBLIC OF VANUATU
@@ -912,9 +892,31 @@ The function of prosecution shall vest in the Public Prosecutor, who shall be ap
 
 Parliament shall provide for the office of the Public Solicitor, appointed by the President of the Republic on the advice of the Judicial Service Commission, whose function shall be to provide legal assistance to needy persons.
 
-## CHAPTER 9 - ADMINISTRATION
+## CHAPTER 9 – ADMINISTRATION
 
-### Part I - The Public Service
+### Part I – The Public Service
+
+#### 57. Public servants
+
+(1) Public servants owe their allegiance to the Constitution and to the people of Vanuatu.
+
+(2) Only citizens of Vanuatu shall be appointed to public office. The Public Service Commission shall determine other qualifications for appointment to the public service.
+
+(3) No appointment shall be made to a post that has not been created in accordance with a law.
+
+(4) The Prime Minister or the chairman of a Local Government Council may, exceptionally, make provision for the recruitment of staff for a specified period to meet unforeseen needs.
+
+In urgent cases, the Public Service Commission may, after consulting the Ministers responsible for finance and public administration, make such a decision instead of the Prime Minister.
+
+(5) For as long as their posts exist, public servants shall not be removed from their posts except in accordance with the Constitution.
+
+(6) Public servants shall be given increments in their salary in accordance with the law.
+
+(7) Public servants shall leave the public service upon reaching retirement age or upon being dismissed by the Public Service Commission. They shall not be demoted without consultation with the Public Service Commission.
+
+(8) The security of tenure of public servants provided for in subarticle (5) shall not prevent such compulsory early retirement as may be decided by law in order to ensure the renewal of holders of public offices.
+
+#### 58. Exclusion of security of tenure in relation to political advisers and transfer of public servants
 
 17
 
@@ -1038,7 +1040,7 @@ The Ombudsman shall not be subject to the direction or control of any other pers
 
 (d) endanger or diminish respect for and confidence in the integrity of the Government of the Republic of Vanuatu.
 
-- In particular, a leader shall not use his office for personal gain or enter into any transaction or engage in any enterprise or activity that might be expected to give rise to doubt in the public mind as to whether he is carrying out or has carried out the duty imposed by subarticle (1).
+(2) In particular, a leader shall not use his office for personal gain or enter into any transaction or engage in any enterprise or activity that might be expected to give rise to doubt in the public mind as to whether he is carrying out or has carried out the duty imposed by subarticle (1).
 
 #### 67. Definition of a leader
 
@@ -1260,7 +1262,7 @@ Notwithstanding Chapter 8, any person who immediately before the Day of Independ
 
 After the general elections next following the Exchange of Notes providing for the entry into force of this Article, the Representative Assembly shall set up a Committee with equal representation of all political groups to make recommendations on an electoral system based on Article 17(1).
 
-The recommendations of the Committee shall be included in a law enacted by Parliament by a two-thirds majority of its members at a special sitting of Parliament when at least threefourths of the members are present. If there is no such quorum at the first sitting, Parliament may meet and make a decision by the same majority a week later even if only two-thirds of the members are present.
+The recommendations of the Committee shall be included in a law enacted by Parliament by a two-thirds majority of its members at a special sitting of Parliament when at least three-fourths of the members are present. If there is no such quorum at the first sitting, Parliament may meet and make a decision by the same majority a week later even if only two-thirds of the members are present.
 
 #### 94. Legal proceedings
 
