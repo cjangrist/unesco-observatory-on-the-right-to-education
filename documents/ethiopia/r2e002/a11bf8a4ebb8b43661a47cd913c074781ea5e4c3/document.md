@@ -1,15 +1,6 @@
 [[START OF PAGE 1]]
 
-አገር አቀፍ
-የቴክኒክና ሙያ ትምህርትና ሥልጠና
-ስትራቴጂ
-
-engineering capacity
-building program
-ecbp
-
-ትምህርት ሚኒስቴር
-ነሐሴ 2000
+(this page came through the extractor with no text)
 
 [[END OF PAGE 1]]
 
