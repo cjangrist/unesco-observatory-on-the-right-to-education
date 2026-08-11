@@ -14,21 +14,21 @@ of the Republic of Cameroon
 
 We, the people of Cameroon,
 
-Proud of our linguistic and cultural diversity, an enriching feature of our national identity, but profoundly aware of the imperative need to further consolidate our unity, solemnly declare that we constitute one and the same Nation, bound by the, same destiny, and assert our firm, determination to build the Cameroonian Fatherland on the basis of the ideals of fraternity, justice and progress;
+Proud of our linguistic and cultural diversity, an enriching feature of our national identity, but profoundly aware of the imperative need to further consolidate our unity, solemnly declare that we constitute one and the same Nation, bound by the same destiny, and assert our firm determination to build the Cameroonian Fatherland on the basis of the ideals of fraternity, justice and progress;
 
 Jealous of our hard-won independence and resolved to preserve same; convinced that the salvation of Africa lies in forging ever-growing bonds of solidarity among African Peoples, affirm our desire to contribute to the advent of a united and free Africa, while maintaining peaceful and brotherly relations with the other nations of the World, in accordance with the principles enshrined in the Charter of the United Nations;
 
 Resolved to harness our natural resources in order to ensure the well-being of every citizen without discrimination, by raising living standards, proclaim our right to development as well as our determination to devote all our efforts to that end and declare our readiness to co-operate with all States desirous of participating in this national endeavour with due respect for our sovereignty and the independence of the Cameroonian State.
 
-We, people of Cameroon ,
+We, the people of Cameroon,
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-- Declare that the human person, without distinction as to race, religion, sex or belief, possesses inalienable and sacred rights;
+Declare that the human person, without distinction as to race, religion, sex or belief, possesses inalienable and sacred rights;
 
-Affirm our attachment to the fundamental freedoms enshrined in the Universal Declaration of Human Rights, the Charter of the United Nations and The African Charter on Human and Peoples' Rights, and all duly ratified international conventions relating thereto, in particular, to the following principles:
+Affirm our attachment to the fundamental freedoms enshrined in the Universal Declaration of Human Rights, the Charter of the United Nations and the African Charter on Human and Peoples' Rights, and all duly ratified international conventions relating thereto, in particular, to the following principles:
 
 - all persons shall have equal rights and obligations. The State shall provide all its citizens with the conditions necessary for their development;
 
@@ -86,7 +86,7 @@ prejudicial to the security, freedom, existence or property of other persons;
 
 - every person shall share in the burden of public expenditure according to his financial resources;
 
-- all citizens shall contribute to the defence of the Fatherland:
+- all citizens shall contribute to the defence of the Fatherland;
 
 - the State shall guarantee all citizens of either sex the rights and freedoms set forth in the Preamble of the Constitution.
 
@@ -96,9 +96,9 @@ The State and Sovereignty
 
 #### Article one
 
-- The United Republic of Cameroon shall, with effect from the date of entry into force of this law, be known as Republic of Cameroon (Law No 84-1 of 4 February 1984).
+(1) The United Republic of Cameroon shall, with effect from the date of entry into force of this law, be known as Republic of Cameroon (Law No 84-1 of 4 February 1984).
 
-- The Republic of Cameroon shall be a decentralized unitary State.
+(2) The Republic of Cameroon shall be a decentralized unitary State.
 
 It shall be one and indivisible, secular, democratic and dedicated to social service.
 
@@ -110,25 +110,25 @@ It shall ensure the equality of all citizens before the law.
 
 [[START OF PAGE 5]]
 
-- The official languages of the, Republic of Cameroon shall be English and French, both languages having the same status. The State shall guarantee the promotion of bilingualism throughout the country. It shall endeavour to protect and promote national languages.
+(3) The official languages of the Republic of Cameroon shall be English and French, both languages having the same status. The State shall guarantee the promotion of bilingualism throughout the country. It shall endeavour to protect and promote national languages.
 
-- Its motto shall be " Peace-Work-Fatherland".
+(4) Its motto shall be " Peace-Work-Fatherland".
 
-- Its flag shall be three equal vertical stripes of green, red and yellow charged with one gold star in the centre of the red stripe.
+(5) Its flag shall be three equal vertical stripes of green, red and yellow charged with one gold star in the centre of the red stripe.
 
-- Its national anthem shall be "O Cameroon, Cradle of our Forefathers".
+(6) Its national anthem shall be "O Cameroon, Cradle of our Forefathers".
 
-- The seal of the Republic of Cameroon shall be a circular medallion in bas-relief, 46 millimetres in diameter, bearing on the obverse and in the centre the head of girl in profile turned to the dexter towards a coffee branch with two leaves and flanked on the sinister by five cocoa pods, with the French words R? publique du Cameroun" inscribed below the upper edge and the national motto "Paix-Travail-Patrie" inscribed above the lower edge; on the reverse and in the centre the coat of arms of the Republic of Cameroon, with the English words " Republic of Cameroon " inscribed beneath the upper edge and the national motto " Peace-Work-Fatherland " inscribed above the lower edge.
+(7) The seal of the Republic of Cameroon shall be a circular medallion in bas-relief, 46 millimetres in diameter, bearing on the obverse and in the centre the head of a girl in profile turned to the dexter towards a coffee branch with two leaves and flanked on the sinister by five cocoa pods, with the French words "République du Cameroun" inscribed below the upper edge and the national motto "Paix-Travail-Patrie" inscribed above the lower edge; on the reverse and in the centre the coat of arms of the Republic of Cameroon, with the English words " Republic of Cameroon " inscribed beneath the upper edge and the national motto " Peace-Work-Fatherland " inscribed above the lower edge.
 
 The coat of arms of the Republic of Cameroon shall be an escutcheon surmounted chief by the legend "Republic of Cameroon" and supported by two crossed fasces with the motto " Peace-Work-Fatherland " base.
 
-The escutcheon shall be composed of a star on a field vent and triangle gules, charged with the geographical outline of Cameroon azure, and surcharged with the sword and scales of justice sable.
+The escutcheon shall be composed of a star on a field vert and triangle gules, charged with the geographical outline of Cameroon azure, and surcharged with the sword and scales of justice sable.
 
-- The Capital of the Republic of Cameroon shall be Yaounde.
+(8) The Capital of the Republic of Cameroon shall be Yaounde.
 
 #### Article 2
 
-- National sovereignty shall be vested in the people of Cameroon w ho shall exercise same either
+(1) National sovereignty shall be vested in the people of Cameroon who shall exercise same either
 
 [[END OF PAGE 5]]
 
@@ -136,15 +136,21 @@ The escutcheon shall be composed of a star on a field vent and triangle gules, c
 
 through the President of the Republic and Members of Parliament or by way of referendum. No section of the people or any individual shall arrogate to itself or to himself the exercise thereof.
 
-- The authorities responsible for the management of the State shall derive their powers from the people through election by direct or indirect universal suffrage, unless otherwise provided for in this Constitution.
+(2) The authorities responsible for the management of the State shall derive their powers from the people through election by direct or indirect universal suffrage, unless otherwise provided for in this Constitution.
 
-- The vote shall be equal and secret, and every citizen aged twenty years and above shall be entitled to vote
+(3) The vote shall be equal and secret, and every citizen aged twenty years and above shall be entitled to vote
 
 #### Article 3
 
-Political parties and groups shall help the electorate in the making of voting decisions. They shall be bound to respect the principles of democracy, national sovereignty and unity. They shall be formed and shall exercise their, activities in accordance with the law.
+Political parties and groups shall help the electorate in the making of voting decisions. They shall be bound to respect the principles of democracy, national sovereignty and unity. They shall be formed and shall exercise their activities in accordance with the law.
 
 #### Article 4
+
+State power shall be exercised by:
+
+- The President of the Republic;
+
+- Parliament.
 
 ## PART II
 
@@ -155,19 +161,13 @@ Executive Power
 The President of the Republic
 #### Article 5
 
-State power shall be exercised by:
-
-- The President of the Republic;
-
-- Parliament.
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- The President of the Republic shall be the Head Of State.
+(1) The President of the Republic shall be the Head of State.
 
-- Elected by the whole Nation, he shall be the symbol of national unity.
+(2) Elected by the whole Nation, he shall be the symbol of national unity.
 
 He shall define the policy of the nation.
 
@@ -179,25 +179,25 @@ He shall be the guarantor of the independence of the Nation and of its territori
 
 #### Article 6
 
-- The President of the Republic shall be elected by a majority of the votes cast through direct, equal and secret universal suffrage.
+(1) The President of the Republic shall be elected by a majority of the votes cast through direct, equal and secret universal suffrage.
 
-- The President of the Republic shall be elected for a term of office of 7 (seven) years. He shall be eligible for re-election once.
+(2) The President of the Republic shall be elected for a term of office of 7 (seven) years. He shall be eligible for re-election once.
 
-- The election shall be held not less than 20 (twenty) days and not more than 50, (fifty) days before the expiry of the term of the President of the Republic in office.
+(3) The election shall be held not less than 20 (twenty) days and not more than 50 (fifty) days before the expiry of the term of the President of the Republic in office.
 
-- Where the office of President of the Republic becomes vacant as a result of death, resignation or permanent incapacity duly ascertained by the Constitutional Council, the polls for the election of the new President of the Republic must be held not less than 20 (twenty) days and not, more than 40 (forty) days after the office becomes vacant.
+(4) Where the office of President of the Republic becomes vacant as a result of death, resignation or permanent incapacity duly ascertained by the Constitutional Council, the polls for the election of the new President of the Republic must be held not less than 20 (twenty) days and not more than 40 (forty) days after the office becomes vacant.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-(a) The President of the Senate shall as of fight. act as interim President of the Republic until the new President of the Republic is elected. Where the President of the Senate is unable to exercise these powers, the shall be exercised by his Vice, following the order of precedence.
+(a) The President of the Senate shall as of right, act as interim President of the Republic until the new President of the Republic is elected. Where the President of the Senate is unable to exercise these powers, they shall be exercised by his Vice, following the order of precedence.
 
-(b) The interim President of the Republic - the President of the senate or his Vice - may neither amend the Constitution nor the composition of the Government. He may not organize a referendum or run for the office of President of the Republic.
+(b) The interim President of the Republic - the President of the Senate or his Vice - may neither amend the Constitution nor the composition of the Government. He may not organize a referendum or run for the office of President of the Republic.
 
 (5) Candidates for the office of President of the Republic must be Cameroonian by birth, enjoy their civic and political rights and must have attained the age of 35 (thirty-five) by the date of the election.
 
-(6) the conditions for electing the President of the Republic shall be laid down by law.
+(6) The conditions for electing the President of the Republic shall be laid down by law.
 
 #### Article 7
 
@@ -219,27 +219,27 @@ He shall be sworn in by the President of the National Assembly.
 
 [[START OF PAGE 9]]
 
-- He shall be Head of the Armed Forces.
+(2) He shall be Head of the Armed Forces.
 
-- He shall ensure the internal and external security of the Republic.
+(3) He shall ensure the internal and external security of the Republic.
 
-- He shall accredit ambassadors and envoys extraordinary to foreign powers. The ambassadors and envoys extraordinary of foreign powers shall be accredited to him.
+(4) He shall accredit ambassadors and envoys extraordinary to foreign powers. The ambassadors and envoys extraordinary of foreign powers shall be accredited to him.
 
-- The President of the Republic shall enact laws as provided for in Article 31 below.
+(5) The President of the Republic shall enact laws as provided for in Article 31 below.
 
-- The President of the Republic shall refer matters to the Constitutional Council under the conditions laid down by the Constitution.
+(6) The President of the Republic shall refer matters to the Constitutional Council under the conditions laid down by the Constitution.
 
-- He shall exercise the right of clemency after consultation with the Higher Judicial Council.
+(7) He shall exercise the right of clemency after consultation with the Higher Judicial Council.
 
-- He shall exercise statutory authority.
+(8) He shall exercise statutory authority.
 
-- He shall set up and organize the administrative services of the State.
+(9) He shall set up and organize the administrative services of the State.
 
-- He shall appoint to civil and military posts of the State.
+(10) He shall appoint to civil and military posts of the State.
 
-- He shall confer the decorations and honorary distinctions of the Republic.
+(11) He shall confer the decorations and honorary distinctions of the Republic.
 
-- The President of the Republic may, if necessary and after consultation with the Government, the Bureaux of the National Assembly and the Senate, dissolve the National Assembly. The election of a new Assembly shall take place in accordance with the provisions of Article 15 (4)
+(12) The President of the Republic may, if necessary and after consultation with the Government, the Bureaux of the National Assembly and the Senate, dissolve the National Assembly. The election of a new Assembly shall take place in accordance with the provisions of Article 15 (4)
 
 #### Article 9
 
@@ -247,9 +247,9 @@ He shall be sworn in by the President of the National Assembly.
 
 [[START OF PAGE 10]]
 
-'The President of the Republic may, where circumstances so warrant, declare by decree a state of emergency which shall confer upon him such special powers as may be provided for by law.
+(1) The President of the Republic may, where circumstances so warrant, declare by decree a state of emergency which shall confer upon him such special powers as may be provided for by law.
 
-- In the event of a serious threat to the nation's territorial integrity or to its existence, its independence or institutions, the President of the Republic may declare a state of siege by decree and take any measures as he may deem necessary. He shall inform the Nation of his decision by message.
+(2) In the event of a serious threat to the nation's territorial integrity or to its existence, its independence or institutions, the President of the Republic may declare a state of siege by decree and take any measures as he may deem necessary. He shall inform the Nation of his decision by message.
 
 #### Article 10
 
@@ -261,9 +261,9 @@ He shall terminate their appointment.
 
 He shall preside over the Council of Ministers.
 
-- The President of the Republic may delegate some of his powers to the Prime Minister, other members of Government and any other senior administrative officials of the State, within the framework of their respective duties.
+(2) The President of the Republic may delegate some of his powers to the Prime Minister, other members of Government and any other senior administrative officials of the State, within the framework of their respective duties.
 
-- Where the President of the Republic is temporarily unable to, perform his duties, he shall delegate the Prime Minister and, should the latter also be unavailable, any other member of Government to discharge his duties within the framework of an express delegation of some of his powers.
+(3) Where the President of the Republic is temporarily unable to perform his duties, he shall delegate the Prime Minister and, should the latter also be unavailable, any other member of Government to discharge his duties within the framework of an express delegation of some of his powers.
 
 ### CHAPTER II
 
@@ -281,15 +281,15 @@ It shall be responsible to the National Assembly under the conditions and proced
 
 #### Article 12
 
-- The Prime Minister shall be the Head of Government and shall direct its action.
+(1) The Prime Minister shall be the Head of Government and shall direct its action.
 
-- He shall be responsible for the enforcement of the laws.
+(2) He shall be responsible for the enforcement of the laws.
 
-- He shall exercise statutory authority and appoint to civil posts, subject to the prerogatives of the President of the Republic in such areas.
+(3) He shall exercise statutory authority and appoint to civil posts, subject to the prerogatives of the President of the Republic in such areas.
 
-- He shall direct all the government services required for the accomplishment of his duties.
+(4) He shall direct all the government services required for the accomplishment of his duties.
 
-- He may delegate some of his powers to members of Government and to senior State officials.
+(5) He may delegate some of his powers to members of Government and to senior State officials.
 
 #### Article 13
 
@@ -305,23 +305,23 @@ Legislative Power
 
 [[START OF PAGE 12]]
 
-- Legislative power shall be exercised by the Parliament which shall comprise 2 (two) Houses:
+(1) Legislative power shall be exercised by the Parliament which shall comprise 2 (two) Houses:
 
 (a) The National Assembly;
 
 (b) The Senate.
 
-- Parliament shall legislate and control Government action.
+(2) Parliament shall legislate and control Government action.
 
-- Both Houses of Parliament shall meet on the same dates:
+(3) Both Houses of Parliament shall meet on the same dates:
 
 (a) in ordinary session during the months of June, November and March each year, when convened by the Bureaux of the National Assembly and the Senate after consultation with the President of the Republic;
 
 (b) in extraordinary session, at the request of the President of the Republic or of one-third of the members of both Houses.
 
-- However, the two Houses shall be convened simultaneously only if the business of the day concerns both of them.
+However, the two Houses shall be convened simultaneously only if the business of the day concerns both of them.
 
-- The two Houses of Parliament shall meet in congress at the request of the President of the Republic in order to:
+(4) The two Houses of Parliament shall meet in congress at the request of the President of the Republic in order to:
 
 - be addressed by or receive a message from the President of the Republic ;
 
@@ -329,7 +329,7 @@ Legislative Power
 
 - take a decision on a draft or proposed constitutional amendment.
 
-- When Parliament meets in congress, the Bureau of the National Assembly shall preside over the
+When Parliament meets in congress, the Bureau of the National Assembly shall preside over the
 
 [[END OF PAGE 12]]
 
@@ -337,9 +337,9 @@ Legislative Power
 
 proceedings.
 
-(5) No person, shall be member of both the National Assembly and the Senate.
+(5) No person shall be a member of both the National Assembly and the Senate.
 
-- The conditions for the election of members of the National Assembly and of the Senate, as well as the immunities, ineligibilities, incompatibilities, allowances and privileges of the members of Parliament shall be determined by law.
+(6) The conditions for the election of members of the National Assembly and of the Senate, as well as the immunities, ineligibilities, incompatibilities, allowances and privileges of the members of Parliament shall be determined by law.
 
 ### CHAPTER I
 
@@ -347,37 +347,37 @@ The National Assembly
 
 #### Article 15
 
-- The National Assembly shall comprise 180 (one hundred and eighty) members elected by direct and secret universal suffrage for a five-year term of office.
+(1) The National Assembly shall comprise 180 (one hundred and eighty) members elected by direct and secret universal suffrage for a five-year term of office.
 
 The number of members of the National Assembly may be modified by law.
 
-- Each member of the National Assembly shall represent the entire Nation.
+(2) Each member of the National Assembly shall represent the entire Nation.
 
-- Any imposed mandate shall be null and void.
+(3) Any imposed mandate shall be null and void.
 
-- In case of serious crisis, the President of the Republic may, after consultation with the President of the Constitutional Council and Bureaux of the National Assembly to decide, by a law, to extend or abridge its term of office. In this case, the election of a new Assembly shall take place not less than 40 (forty) days and not more than 60 (sixty) days following the expiry of the extension or abridgement period.
+(4) In case of serious crisis, the President of the Republic may, after consultation with the President of the Constitutional Council and Bureaux of the National Assembly to decide, by a law, to extend or abridge its term of office. In this case, the election of a new Assembly shall take place not less than 40 (forty) days and not more than 60 (sixty) days following the expiry of the extension or abridgement period.
 
 #### Article 16
 
-- At the beginning of each legislative year, the National Assembly shall meet as of right in ordinary session under the conditions laid down by law.
+(1) At the beginning of each legislative year, the National Assembly shall meet as of right in ordinary session under the conditions laid down by law.
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-- Each year, the National Assembly shall hold 3 (three) ordinary sessions, each lasting not more than 30 (thirty) days.
+(2) Each year, the National Assembly shall hold 3 (three) ordinary sessions, each lasting not more than 30 (thirty) days.
 
 (a) At the opening of its first ordinary session, the National Assembly shall elect its President and Bureau members.
 
 (b) The National Assembly shall, during one of its sessions, adopt the State budget. Where such budget is not adopted before the end of the current financial year, the President of the Republic shall be empowered to extend the previous budget by one-twelfth until a new one is passed.
 
-- The National Assembly shall meet in extraordinary session for not more than 15 (fifteen) days on a specific agenda and at the request of the President of the Republic or of one-third of its members.
+(3) The National Assembly shall meet in extraordinary session for not more than 15 (fifteen) days on a specific agenda and at the request of the President of the Republic or of one-third of its members.
 
 The extraordinary session shall wind up as soon as the agenda for which it was convened is exhausted.
 
 #### Article 17
 
-- Sittings of the National Assembly shall be public. Exceptionally, the National Assembly may hold sittings in camera at the request of the President of the Republic or of an absolute majority of its members.
+(1) Sittings of the National Assembly shall be public. Exceptionally, the National Assembly may hold sittings in camera at the request of the President of the Republic or of an absolute majority of its members.
 
 (2) The National Assembly shall, in a law, draw up its standing orders.
 
@@ -385,31 +385,31 @@ The extraordinary session shall wind up as soon as the agenda for which it was c
 
 (1) The agenda of the National Assembly shall be drawn up by the Chairmen's conference.
 
-- The Chairmen's conference shall be composed of Presidents of Parliamentary Groups, Chairmen of Committees and members of the Bureau of the National Assembly. A member of Government shall participate in the conference meeting.
+(2) The Chairmen's conference shall be composed of Presidents of Parliamentary Groups, Chairmen of Committees and members of the Bureau of the National Assembly. A member of Government shall participate in the conference meeting.
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-- Only bills falling within its area of jurisdiction by virtue of Article 26 below may be included in the agenda of the National Assembly.
+(3) Only bills falling within its area of jurisdiction by virtue of Article 26 below may be included in the agenda of the National Assembly.
 
 (a) All private members' bills and amendments which, if passed, would result in the reduction of public funds or in an increase of public charges without a corresponding reduction in other expenditure or the grant of equivalent new supply of funds, shall be inadmissible.
 
 (b) Any doubt or dispute on the admissibility of a bill shall be referred by the President of the Republic, the President of the National Assembly or by one-third of the members of the National Assembly to the Constitutional Council for a ruling.
 
-- The agenda shall give priority, and in the order decided by the Government, to the consideration of the government bills and private members' bills accepted by it. The other private members' bills admitted by the Chairmen's Conference shall be considered subsequently.
+(4) The agenda shall give priority, and in the order decided by the Government, to the consideration of the government bills and private members' bills accepted by it. The other private members' bills admitted by the Chairmen's Conference shall be considered subsequently.
 
-- Where a private members' bill has not been considered during two successive ordinary sessions, it shall automatically be considered at the very next ordinary session.
+Where a private members' bill has not been considered during two successive ordinary sessions, it shall automatically be considered at the very next ordinary session.
 
-- Any item on the agenda shall, at the request of the Government, be treated as a matter of urgency.
+(5) Any item on the agenda shall, at the request of the Government, be treated as a matter of urgency.
 
 #### Article 19
 
-- Laws shall be passed by a simple majority of the members of the National Assembly.
+(1) Laws shall be passed by a simple majority of the members of the National Assembly.
 
-- Bills submitted to the National Assembly for reconsideration by the Senate shall either be passed or, rejected in accordance with Article 30 below.
+(2) Bills submitted to the National Assembly for reconsideration by the Senate shall either be passed or rejected in accordance with Article 30 below.
 
-- The President of the Republic may, before enacting any law, ask for a second reading. In such case, bills shall be passed by an absolute majority of the members of the National Assembly.
+(3) The President of the Republic may, before enacting any law, ask for a second reading. In such case, bills shall be passed by an absolute majority of the members of the National Assembly.
 
 [[END OF PAGE 15]]
 
@@ -421,25 +421,25 @@ The Senate
 
 #### Article 20
 
-- The Senate shall represent the regional and local authorities.
+(1) The Senate shall represent the regional and local authorities.
 
-- Each region shall be represented in the Senate by 10 (ten) Senators of whom 7 (seven) shall be elected by indirect universal suffrage on a regional basis and 3 (three) appointed by the President of the Republic.
+(2) Each region shall be represented in the Senate by 10 (ten) Senators of whom 7 (seven) shall be elected by indirect universal suffrage on a regional basis and 3 (three) appointed by the President of the Republic.
 
-- Candidates for the post of Senator and personalities appointed to the post of Senator by the President of the Republic must have attained the age of 40 (forty) by the date of the election or appointment.
+(3) Candidates for the post of Senator and personalities appointed to the post of Senator by the President of the Republic must have attained the age of 40 (forty) by the date of the election or appointment.
 
-- Senators shall serve a term of 5 (five) years.
+(4) Senators shall serve a term of 5 (five) years.
 
 #### Article 21
 
-- At the beginning of each legislative year, the Senate shall meet as of right in ordinary session under the conditions laid down by law.
+(1) At the beginning of each legislative year, the Senate shall meet as of right in ordinary session under the conditions laid down by law.
 
-- Each year, the Senate shall hold 3 (three) ordinary sessions, each lasting not more than 30 (thirty) days.
+(2) Each year, the Senate shall hold 3 (three) ordinary sessions, each lasting not more than 30 (thirty) days.
 
-- At the opening of its first ordinary session, the Senate shall elect its President and Bureau members.
+At the opening of its first ordinary session, the Senate shall elect its President and Bureau members.
 
-- The Senate shall meet in extraordinary session for not more than 15 (fifteen) days on a specific agenda and at the request of the President of the Republic or of one-third of its members.
+(3) The Senate shall meet in extraordinary session for not more than 15 (fifteen) days on a specific agenda and at the request of the President of the Republic or of one-third of its members.
 
-- The extraordinary session shall wind up as soon as the agenda for which it was convened is exhausted.
+The extraordinary session shall wind up as soon as the agenda for which it was convened is exhausted.
 
 [[END OF PAGE 16]]
 
@@ -447,39 +447,39 @@ The Senate
 
 #### Article 22
 
-- Sittings of the Senate shall be public. Exceptionally, the Senate may hold sittings in camera at the request of the President of the Republic or of an absolute majority of its members.
+(1) Sittings of the Senate shall be public. Exceptionally, the Senate may hold sittings in camera at the request of the President of the Republic or of an absolute majority of its members.
 
-- The Senate shall, in a law, draw up its standing orders.
+(2) The Senate shall, in a law, draw up its standing orders.
 
 #### Article 23
 
-- The agenda of the Senate shall be drawn up by the Chairmen's conference.
+(1) The agenda of the Senate shall be drawn up by the Chairmen's conference.
 
-- The Chairmen's conference shall be composed of Presidents of Parliamentary Groups, Chairmen of Committees and members of the Bureau of the Senate. A member of Government shall participate in the conference meeting.
+(2) The Chairmen's conference shall be composed of Presidents of Parliamentary Groups, Chairmen of Committees and members of the Bureau of the Senate. A member of Government shall participate in the conference meeting.
 
-- Only bills falling with in its area of jurisdiction by virtue of Article 26 below may be included in the agenda of the Senate.
+(3) Only bills falling within its area of jurisdiction by virtue of Article 26 below may be included in the agenda of the Senate.
 
 (a) All private members' bills and amendments which, if passed, would result in the reduction of public funds or in an increase of public charges without a corresponding reduction in other expenditure or the grant of equivalent new supply of funds, shall be inadmissible.
 
 (b) Any doubt or dispute on the admissibility of a bill shall be referred by the President of the Republic, the President of the Senate or one-third of the Senators to the Constitutional Council for a ruling.
 
-- The agenda shall give priority, and in the order decided by the Government, to the consideration of the government bills and private members' bills accepted by it. The other private members' bills admitted by the Chairmen's Conference shall be considered subsequently.
+(4) The agenda shall give priority, and in the order decided by the Government, to the consideration of the government bills and private members' bills accepted by it. The other private members' bills admitted by the Chairmen's Conference shall be considered subsequently.
 
-- Where a private members' bill has not been considered during two successive ordinary sessions, it shall automatically be considered at the very next ordinary session.
+Where a private members' bill has not been considered during two successive ordinary sessions, it shall automatically be considered at the very next ordinary session.
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-- Any item on the agenda shall, at the request of the Government, be treated as a matter of urgency.
+(5) Any item on the agenda shall, at the request of the Government, be treated as a matter of urgency.
 
 #### Article 24
 
-- Laws shall be passed by a simple majority of the Senators.
+(1) Laws shall be passed by a simple majority of the Senators.
 
-- The Senate may amend or reject all or part of a bill submitted to it for consideration, in accordance with Article 30 below.
+(2) The Senate may amend or reject all or part of a bill submitted to it for consideration, in accordance with Article 30 below.
 
-- The President of the Republic may, before enacting a law, ask for a second reading
+(3) The President of the Republic may, before enacting a law, ask for a second reading
 
 In such case, bills shall be passed by an absolute majority of the Senators.
 
@@ -493,9 +493,9 @@ Bills may be tabled either by the President of the Republic or by members of par
 
 #### Article 26
 
-- Bills shall be passed by Parliament.
+(1) Bills shall be passed by Parliament.
 
-- The following shall be reserved to the Legislative Power:
+(2) The following shall be reserved to the Legislative Power:
 
 (a) The fundamental rights, guarantees and obligations of the citizen:
 
@@ -503,51 +503,51 @@ Bills may be tabled either by the President of the Republic or by members of par
 
 [[START OF PAGE 19]]
 
-- safeguarding individual freedom and security;
+1. safeguarding individual freedom and security;
 
-- the rules governing public freedoms;
+2. the rules governing public freedoms;
 
-- labour legislation, trade union legislation, rules governing social security and insurance;
+3. labour legislation, trade union legislation, rules governing social security and insurance;
 
-- the duties and obligations of the citizen in respect of national defence requirement&.
+4. the duties and obligations of the citizen in respect of national defence requirements.
 
 (b) The status of persons and property ownership system:
 
-- nationality, status of persons, matrimonial system, succession and gifts;
+1. nationality, status of persons, matrimonial system, succession and gifts;
 
-- rules governing civil and commercial obligations;
+2. rules governing civil and commercial obligations;
 
-- movable and immovable property ownership system.
+3. movable and immovable property ownership system.
 
 (c) The political, administrative and judicial organization:
 
-- rules governing election of the President of the Republic and elections into the National Assembly, the Senate, Regional and Local Bodies and referendum operations;
+1. rules governing election of the President of the Republic and elections into the National Assembly, the Senate, Regional and Local Bodies and referendum operations;
 
-- rules governing associations and political parties;
+2. rules governing associations and political parties;
 
-- the organization, functioning, powers and resources of regional and local authorities;
+3. the organization, functioning, powers and resources of regional and local authorities;
 
-- general rules governing the organization of national defence;
+4. general rules governing the organization of national defence;
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-- judicial organization and the creation of various types of courts;
+5. judicial organization and the creation of various types of courts;
 
-- the definition of felonies and misdemeanours and the institution of penalties of all kinds, criminal procedure, civil procedure, measures of execution, amnesty.
+6. the definition of felonies and misdemeanours and the institution of penalties of all kinds, criminal procedure, civil procedure, measures of execution, amnesty.
 
 (d) The following financial and patrimonial matters:
 
-- rules governing the issue of currency;
+1. rules governing the issue of currency;
 
-- the budget;
+2. the budget;
 
-- the creation of duties and the determination of their basis of assessment, rates and methods of collection;
+3. the creation of duties and the determination of their basis of assessment, rates and methods of collection;
 
-- land tenure, State lands and mining;
+4. land tenure, State lands and mining;
 
-- natural resources.
+5. natural resources.
 
 (e) Programming the objectives of economic and social action.
 
@@ -563,27 +563,27 @@ Matters not reserved to the legislative power shall come under the jurisdiction 
 
 [[START OF PAGE 21]]
 
-- However, with regard to the subjects listed in Article 26 (2) above, Parliament may empower the President of the Republic to legislate by way of ordinance for a limited period and for given purposes.
+(1) However, with regard to the subjects listed in Article 26 (2) above, Parliament may empower the President of the Republic to legislate by way of ordinance for a limited period and for given purposes.
 
-- Such ordinances shall enter into force on the date of their publication. They shall be tabled before the bureaux of the National Assembly and the Senate for purposes of ratification within the time-limit laid down by the enabling law. They shall be of a statutory nature as long as they have not been ratified.
+(2) Such ordinances shall enter into force on the date of their publication. They shall be tabled before the bureaux of the National Assembly and the Senate for purposes of ratification within the time-limit laid down by the enabling law. They shall be of a statutory nature as long as they have not been ratified.
 
-- They shall remain in force as long as Parliament has not refused to ratify them.
+(3) They shall remain in force as long as Parliament has not refused to ratify them.
 
 #### Article 29
 
-- Government bills and private members' bills shall be tabled at the same toe before the bureaux of the National Assembly and the Senate. They shall be studied by the appropriate committees prior to their being debated in plenary session.
+(1) Government bills and private members' bills shall be tabled at the same time before the bureaux of the National Assembly and the Senate. They shall be studied by the appropriate committees prior to their being debated in plenary session.
 
-- The bill debated in plenary session shall be that tabled by the President of the Republic. The private members bill debated in plenary session shall be the next tabled by its author or authors.
+(2) The bill debated in plenary session shall be that tabled by the President of the Republic. The private members' bill debated in plenary session shall be the text tabled by its author or authors.
 
-- Such bills may be amended in the course of the debate.
+(3) Such bills may be amended in the course of the debate.
 
 #### Article 30
 
-- A bill passed by the National Assembly shall be immediately forwarded to the President of the Senate by the President of the National Assembly.
+(1) A bill passed by the National Assembly shall be immediately forwarded to the President of the Senate by the President of the National Assembly.
 
-- The President of the Senate shall, upon receiving the bill forwarded by the President of National Assembly, submit it to the Senate for consideration.
+(2) The President of the Senate shall, upon receiving the bill forwarded by the President of the National Assembly, submit it to the Senate for consideration.
 
-- Within 10 (ton) days, with effect from the date of receipt of the bill or 5(five) days for a bill declared urgent by the Government, the Senate may:
+(3) Within 10 (ten) days, with effect from the date of receipt of the bill or 5 (five) days for a bill declared urgent by the Government, the Senate may:
 
 [[END OF PAGE 21]]
 
@@ -617,13 +617,13 @@ The final bill adopted by the National Assembly shall be forwarded to the Presid
 
 [[START OF PAGE 23]]
 
-- Where an absolute majority cannot be reached, the President of the Republic may convene a meeting of a joint commission comprising equal representation of both houses to propose a common formulation of the provisions rejected by the Senate.
+2. Where an absolute majority cannot be reached, the President of the Republic may convene a meeting of a joint commission comprising equal representation of both houses to propose a common formulation of the provisions rejected by the Senate.
 
 The text prepared by the joint commission shall be submitted to both Houses by the President of the Republic for approval.
 
 No amendment shall be admissible, except with the approval of the President of the Republic.
 
-Where the joint commission falls to agree on a common text, or where such text is not adopted by both Houses, the President of the Republic may:
+Where the joint commission fails to agree on a common text, or where such text is not adopted by both Houses, the President of the Republic may:
 
 - either request the National Assembly to take a final decision thereon; or
 
@@ -631,15 +631,15 @@ Where the joint commission falls to agree on a common text, or where such text i
 
 #### Article 31
 
-- The President of the Republic shall enact laws passed by Parliament within 15 (fifteen) days of their being forwarded to him unless he requests a second reading or refers the matter to the Constitutional Council.
+(1) The President of the Republic shall enact laws passed by Parliament within 15 (fifteen) days of their being forwarded to him unless he requests a second reading or refers the matter to the Constitutional Council.
 
-- Upon the expiry of this deadline, and after establishing the failure of the President of the Republic to act, the President of the National Assembly may himself enact the law.
+(2) Upon the expiry of this deadline, and after establishing the failure of the President of the Republic to act, the President of the National Assembly may himself enact the law.
 
-- Laws shall be published in the Official Gazette of the Republic in English and French.
+(3) Laws shall be published in the Official Gazette of the Republic in English and French.
 
 #### Article 32
 
-The President of Republic may, at his request, address the National Assembly, the Senate or the two
+The President of the Republic may, at his request, address the National Assembly, the Senate or the two
 
 [[END OF PAGE 23]]
 
@@ -663,7 +663,7 @@ A vote of no confidence shall be passed by an absolute majority of the members o
 
 Only votes against a vote of confidence shall be counted.
 
-- The National Assembly may question the responsibility of the Government through a motion of censure. Such motion may be admissible only when it is signed by at last one-third of the members of the National Assembly. Voting shall take place not less than 48 (forty-eight) hours after the motion has been tabled. A motion of censure shall be passed by a two third majority of the members of the National Assembly. Only votes in favour of a motion of censure shall be counted.
+(3) The National Assembly may question the responsibility of the Government through a motion of censure. Such motion may be admissible only when it is signed by at least one-third of the members of the National Assembly. Voting shall take place not less than 48 (forty-eight) hours after the motion has been tabled. A motion of censure shall be passed by a two third majority of the members of the National Assembly. Only votes in favour of a motion of censure shall be counted.
 
 Where a motion of censure is rejected, its signatories may not propose a new motion before a period of one year except as provided for in paragraph (4) below.
 
@@ -671,23 +671,23 @@ Where a motion of censure is rejected, its signatories may not propose a new mot
 
 [[START OF PAGE 25]]
 
-- The Prime Minister may, after the deliberations of the Council of Ministers, commit the responsibility of the Government before the National Assembly on the adoption of a bill. In such case, the bill may be considered adopted, except where a motion of censure tabled within the next 24 (twentyfour) hours is passed under the conditions provided for in the preceding paragraph.
+(4) The Prime Minister may, after the deliberations of the Council of Ministers, commit the responsibility of the Government before the National Assembly on the adoption of a bill. In such case, the bill may be considered adopted, except where a motion of censure tabled within the next 24 (twenty-four) hours is passed under the conditions provided for in the preceding paragraph.
 
-- Where the National Assembly adopts a motion of censure or passes a vote of no confidence, the Prime Minister shall tender the resignation of the Government to the President of the Republic.
+(5) Where the National Assembly adopts a motion of censure or passes a vote of no confidence, the Prime Minister shall tender the resignation of the Government to the President of the Republic.
 
-- The President of the Republic may re-appoint the Prime Minister and ask him to form a new Government.
+(6) The President of the Republic may re-appoint the Prime Minister and ask him to form a new Government.
 
 #### Article 35
 
-- The Parliament shall control Government action through oral or written questions and by setting up committees of inquiry with specific terms of reference.
+(1) The Parliament shall control Government action through oral or written questions and by setting up committees of inquiry with specific terms of reference.
 
-- The Government shall, subject to the imperatives of national defence, the security of the State or the secrecy of criminal investigation, furnish any explanations and information to Parliament.
+(2) The Government shall, subject to the imperatives of national defence, the security of the State or the secrecy of criminal investigation, furnish any explanations and information to Parliament.
 
-- During each ordinary session, a special sitting shall be set aside each week for question time.
+(3) During each ordinary session, a special sitting shall be set aside each week for question time.
 
 #### Article 36
 
-- The President of the Republic may, after consulting with the President of the Constitutional Council, the President of the National Assembly and the President of the Senate, submit to a referendum any reform bill which, although normally reserved to the Legislative Power, could have profound repercussions on the future of the Nation and national. institutions.
+(1) The President of the Republic may, after consulting with the President of the Constitutional Council, the President of the National Assembly and the President of the Senate, submit to a referendum any reform bill which, although normally reserved to the Legislative Power, could have profound repercussions on the future of the Nation and national institutions.
 
 This shall apply in particular to:
 
@@ -701,9 +701,9 @@ This shall apply in particular to:
 
 (c) certain reform bills relating to the law on persons and property.
 
-- Such bills shall be adopted by a majority of votes cast.
+(2) Such bills shall be adopted by a majority of votes cast.
 
-- The referendum procedure shall be laid down by law.
+(3) The referendum procedure shall be laid down by law.
 
 ## PART V
 
@@ -711,11 +711,11 @@ Judicial Power
 
 #### Article 37
 
-- Justice shall be administered In the territory of the Republic in the name of the people of Cameroon.
+(1) Justice shall be administered In the territory of the Republic in the name of the people of Cameroon.
 
-- Judicial power shall be exercised by the Supreme Court, Courts of Appeal and Tribunals. The Judicial Power shall be independent of the executive and legislative powers. Magistrates of the bench shall, in the discharge of their duties, be governed only by the law and their conscience:
+(2) Judicial power shall be exercised by the Supreme Court, Courts of Appeal and Tribunals. The Judicial Power shall be independent of the executive and legislative powers. Magistrates of the bench shall, in the discharge of their duties, be governed only by the law and their conscience:
 
-- The President of the Republic shall guarantee the independence of judicial power. He shall appoint members of the bench and for the legal department.
+(3) The President of the Republic shall guarantee the independence of judicial power. He shall appoint members of the bench and for the legal department.
 
 He shall be assisted in this task by the Higher Judicial Council which shall give him its opinion on all nominations for the bench and on disciplinary action against judicial and legal officers. The organization and functioning of the Higher Judicial Council shall be defined by law.
 
@@ -725,9 +725,9 @@ He shall be assisted in this task by the Higher Judicial Council which shall giv
 
 [[START OF PAGE 27]]
 
-- The Supreme Court shall be the highest court of the State in legal and administrative matters as Well as in the appraisal of accounts.
+(1) The Supreme Court shall be the highest court of the State in legal and administrative matters as Well as in the appraisal of accounts.
 
-- It shall comprise:
+(2) It shall comprise:
 
 - a judicial bench;
 
@@ -771,9 +771,9 @@ It shall:
 
 #### Article 42
 
-- The organization, functioning, composition and duties of the Supreme Court and the benches it comprises, the conditions for referring matters to them as well as the procedure applicable before them shall be laid down by law.
+(1) The organization, functioning, composition and duties of the Supreme Court and the benches it comprises, the conditions for referring matters to them as well as the procedure applicable before them shall be laid down by law.
 
-- The organization, functioning, composition and duties of the Courts of Appeal and judicial, administrative and lower audit benches as well as the conditions for referring matters to them and the procedure applicable before them shall be laid down by law.
+(2) The organization, functioning, composition and duties of the Courts of Appeal and judicial, administrative and lower audit benches as well as the conditions for referring matters to them and the procedure applicable before them shall be laid down by law.
 
 ## PART VI
 
@@ -805,7 +805,7 @@ The Constitutional Council shall have jurisdiction in matters pertaining to the 
 
 #### Article 47
 
-- The Constitutional Council shall give a final ruling on:
+(1) The Constitutional Council shall give a final ruling on:
 
 - the constitutionality of laws, treaties and international agreements;
 
@@ -817,21 +817,21 @@ The Constitutional Council shall have jurisdiction in matters pertaining to the 
 
 - conflict of powers between State institutions; between the State and the Regions, and between the Regions.
 
-- Matters may be referred to the Constitutional Council by the President of the Republic, the President of the National Assembly, the President of the Senate, one-third of the members of the National Assembly or one-third of the Senators.
+(2) Matters may be referred to the Constitutional Council by the President of the Republic, the President of the National Assembly, the President of the Senate, one-third of the members of the National Assembly or one-third of the Senators.
 
 Presidents of regional executives may refer matters to the Constitutional Council whenever the interests of their Regions are at stake.
 
-- Laws as well as treaties and international agreements may, prior to their enactment, be referred to the Constitutional Council by the President of the Republic, the President of the National Assembly, the President of the Senate, one-third of. the members of the National Assembly, one-third of the Senators, or the Presidents of regional executives pursuant to the provisions of paragraph (2) above.
+(3) Laws as well as treaties and international agreements may, prior to their enactment, be referred to the Constitutional Council by the President of the Republic, the President of the National Assembly, the President of the Senate, one-third of. the members of the National Assembly, one-third of the Senators, or the Presidents of regional executives pursuant to the provisions of paragraph (2) above.
 
-- Enactment deadlines shall cease to lapse once an instrument has been referred to the Constitutional Council.
+Enactment deadlines shall cease to lapse once an instrument has been referred to the Constitutional Council.
 
-- The Constitutional Council shall advice in matters falling under its jurisdiction.
+(4) The Constitutional Council shall advice in matters falling under its jurisdiction.
 
 #### Article 48
 
-- The Constitutional Council shall ensure the regularity of presidential elections, parliamentary elections and referendum operations. It shall proclaim the results thereof.
+(1) The Constitutional Council shall ensure the regularity of presidential elections, parliamentary elections and referendum operations. It shall proclaim the results thereof.
 
-- Any challenges in respect of the regularity of one of the elections provided for in the preceding paragraph may be brought before the Constitutional Council by any candidate, political party that participated in the election in the constituency concerned or any person acting as Government agent at the election.
+(2) Any challenges in respect of the regularity of one of the elections provided for in the preceding paragraph may be brought before the Constitutional Council by any candidate, political party that participated in the election in the constituency concerned or any person acting as Government agent at the election.
 
 [[END OF PAGE 30]]
 
@@ -847,25 +847,25 @@ However, at the request of the President of the Republic, such time-limit may be
 
 #### Article 50
 
-- Rulings of the Constitutional Council shall not be subject to appeal. They shall be binding on all public, administrative, military and judicial authorities, as well as, on all natural persons- and corporate bodies.
+(1) Rulings of the Constitutional Council shall not be subject to appeal. They shall be binding on all public, administrative, military and judicial authorities, as well as, on all natural persons- and corporate bodies.
 
 (2) A provision that has been declared unconstitutional may not be enacted or implemented.
 
 #### Article 51
 
-- The Constitutional Council shall comprise 11 (eleven) members designated for a non-renewable term of office of 9 (nine) years.
+(1) The Constitutional Council shall comprise 11 (eleven) members designated for a non-renewable term of office of 9 (nine) years.
 
 These members shall be chosen from among personalities of established professional renown.
 
 They must be of high moral integrity and proven competence.
 
-- Members of the Constitutional Council shall be appointed by the President of the Republic. They
+(2) Members of the Constitutional Council shall be appointed by the President of the Republic. They
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
-- shall be designated as follows:
+shall be designated as follows:
 
 - three, including the President of the Council, by the President of the Republic;
 
@@ -879,11 +879,11 @@ Besides the eleven members provided for above, former Presidents of the Republic
 
 In case of a tie, the President of the Constitutional Council shall have the casting vote.
 
-- In the event of the death or resignation of a member or any other cause of incapacity or inability duly established by the competent bodies provided for by law, a replacement shall be designated by the competent authority or body concerned and appointed. to complete the term of office.
+(3) In the event of the death or resignation of a member or any other cause of incapacity or inability duly established by the competent bodies provided for by law, a replacement shall be designated by the competent authority or body concerned and appointed. to complete the term of office.
 
-- Members of the Constitutional Council shall take the oath of office as laid down by law before Parliament meeting in congress.
+(4) Members of the Constitutional Council shall take the oath of office as laid down by law before Parliament meeting in congress.
 
-- The duties of member of the Constitutional Council shall be incompatible with those of member of Government, of member of Parliament or of the Supreme Court. Other incompatibilities and matters relating to the status of members, namely obligations, immunities and privileges shall be laid down by law.
+(5) The duties of member of the Constitutional Council shall be incompatible with those of member of Government, of member of Parliament or of the Supreme Court. Other incompatibilities and matters relating to the status of members, namely obligations, immunities and privileges shall be laid down by law.
 
 #### Article 52
 
@@ -925,29 +925,29 @@ Any other such authority shall be created by law.
 
 [[START OF PAGE 34]]
 
-- Regional and local authorities shall be public law corporate bodies. They shall have administrative and financial autonomy in the management of regional and local interests. They shall be freely administered by councils elected under conditions laid down by law.
+(2) Regional and local authorities shall be public law corporate bodies. They shall have administrative and financial autonomy in the management of regional and local interests. They shall be freely administered by councils elected under conditions laid down by law.
 
-- The duty of the councils of regional and local authorities shall be to promote the economic, social, health, educational, cultural and sports development of the said authorities.
+The duty of the councils of regional and local authorities shall be to promote the economic, social, health, educational, cultural and sports development of the said authorities.
 
-- The State shall exercise supervisory powers over regional and local authorities, under conditions laid down by law.
+(3) The State shall exercise supervisory powers over regional and local authorities, under conditions laid down by law.
 
-- The State shall ensure the harmonious development of all the regional and local authorities on the basis of national solidarity, regional potentials and inter-regional balance.
+(4) The State shall ensure the harmonious development of all the regional and local authorities on the basis of national solidarity, regional potentials and inter-regional balance.
 
-- The organization, functioning and financial regulations of regional and local authorities shall be defined by law.
+(5) The organization, functioning and financial regulations of regional and local authorities shall be defined by law.
 
-- The rules and regulations governing councils shall be defined by law.
+(6) The rules and regulations governing councils shall be defined by law.
 
 #### Article 56
 
-- The State shall transfer to Regions, under conditions laid down by law, jurisdiction in areas necessary for their economic, social, health, educational, cultural and sports development.
+(1) The State shall transfer to Regions, under conditions laid down by law, jurisdiction in areas necessary for their economic, social, health, educational, cultural and sports development.
 
-- The law shall define:
+(2) The law shall define:
 
 - the sharing of powers between the State and Regions in the areas of competence so transferred.
 
-- The resources of the Regions.
+(3) The resources of the Regions.
 
-- The land and property of each region.
+(4) The land and property of each region.
 
 [[END OF PAGE 34]]
 
@@ -955,11 +955,11 @@ Any other such authority shall be created by law.
 
 #### Article 57
 
-- The organs of the Region shall be the Regional Council and the President of the Regional Council.
+(1) The organs of the Region shall be the Regional Council and the President of the Regional Council.
 
 The Regional Council and the President of the Regional Council shall function within the framework of powers transferred to the Region by the State.
 
-- The Regional Council shall be the deliberative organ of the Region. Regional Councillors whose term of office shall be 5 (five) years shall comprise :
+(2) The Regional Council shall be the deliberative organ of the Region. Regional Councillors whose term of office shall be 5 (five) years shall comprise :
 
 - divisional delegates elected by indirect universal suffrage;
 
@@ -969,11 +969,11 @@ The Regional Council shall reflect the various sociological components of the Re
 
 The system of election, number, proportion by category, rules governing ineligibility, incompatibilities and emoluments of Regional Councillors shall be laid down by law.
 
-- The Regional Council shall be headed by an indigene of the Region elected from among its members for the life of the Council.
+(3) The Regional Council shall be headed by an indigene of the Region elected from among its members for the life of the Council.
 
-- The President of the Regional Council shall be the executive organ of the Region. In this capacity, he shall be the interlocutor of the State representative. He shall be assisted by a Regional Bureau elected at the same time as himself from among the members of the Council. The Regional Bureau shall reflect the sociological components of the Region.
+The President of the Regional Council shall be the executive organ of the Region. In this capacity, he shall be the interlocutor of the State representative. He shall be assisted by a Regional Bureau elected at the same time as himself from among the members of the Council. The Regional Bureau shall reflect the sociological components of the Region.
 
-- Members of Parliament of the Region shall sit in the Regional Council in an advisory capacity.
+(4) Members of Parliament of the Region shall sit in the Regional Council in an advisory capacity.
 
 #### Article 58
 
@@ -981,13 +981,13 @@ The system of election, number, proportion by category, rules governing ineligib
 
 [[START OF PAGE 36]]
 
-- A delegate, appointed by the President of the Republic shall represent the State in the Region. In this capacity, he shall be responsible for national interests, administrative control, ensuring compliance with laws and regulations, as well as maintaining law and order. He shall, under the authority of the Government, supervise and co-ordinate civil State services in the Region.
+(1) A delegate, appointed by the President of the Republic shall represent the State in the Region. In this capacity, he shall be responsible for national interests, administrative control, ensuring compliance with laws and regulations, as well as maintaining law and order. He shall, under the authority of the Government, supervise and co-ordinate civil State services in the Region.
 
-- He shall exercise the supervisory authority of the State over the Region.
+(2) He shall exercise the supervisory authority of the State over the Region.
 
 #### Article 59
 
-- The Regional Council may be suspended by the President of the Republic where such organ:
+(1) The Regional Council may be suspended by the President of the Republic where such organ:
 
 - carries out activities contrary to the constitution;
 
@@ -995,15 +995,15 @@ The system of election, number, proportion by category, rules governing ineligib
 
 - endangers the State's territorial integrity.
 
-- The other cases of suspension shall be laid down by law.
+The other cases of suspension shall be laid down by law.
 
-- The Regional Council may be dissolved by the President of the Republic, after consultation with the Constitutional Council in all the cases provided for under paragraph (1) above.
+(2) The Regional Council may be dissolved by the President of the Republic, after consultation with the Constitutional Council in all the cases provided for under paragraph (1) above.
 
-- The other cases of dissolution shall be laid down by law.
+The other cases of dissolution shall be laid down by law.
 
-- The automatic replacement of the said organ by the State in the cases provided for under paragraphs (1) and (2) above shall be decided by the President of the Republic.
+(3) The automatic replacement of the said organ by the State in the cases provided for under paragraphs (1) and (2) above shall be decided by the President of the Republic.
 
-- The conditions of implementation of this article shall be determined by law.
+(4) The conditions of implementation of this article shall be determined by law.
 
 [[END OF PAGE 36]]
 
@@ -1011,7 +1011,7 @@ The system of election, number, proportion by category, rules governing ineligib
 
 #### Article 60
 
-- The President and the Bureau of the Regional Council may be suspended by the President of the Republic where such organs:
+(1) The President and the Bureau of the Regional Council may be suspended by the President of the Republic where such organs:
 
 - carry out activities contrary to the Constitution;
 
@@ -1021,19 +1021,17 @@ The system of election, number, proportion by category, rules governing ineligib
 
 The other cases of suspension shall be laid down by law.
 
-- The President and the Bureau of the Regional Council may be dismissed by the President of the Republic, after consultation with the Constitutional Council in all the cases provided for under paragraph (1) above.
+(2) The President and the Bureau of the Regional Council may be dismissed by the President of the Republic, after consultation with the Constitutional Council in all the cases provided for under paragraph (1) above.
 
-- The other cases of dismissal shall be laid down by law.
+The other cases of dismissal shall be laid down by law.
 
-- The automatic replacement of the said organ by the State in the cases provided for under paragraphs
+(3) The automatic replacement of the said organ by the State in the cases provided for under paragraphs (1) and (2) above shall be decided by the President of the Republic.
 
-- and (2) above shall be decided by the President of the Republic.
-
-- The conditions of implementation of this article shall be determined by law.
+(4) The conditions of implementation of this article shall be determined by law.
 
 #### Article 61
 
-- The following provinces shall become Regions:
+(1) The following provinces shall become Regions:
 
 - Adamaoua;
 
@@ -1059,11 +1057,11 @@ The other cases of suspension shall be laid down by law.
 
 - South-West.
 
-- The President of the Republic may, as and when necessary:
+(2) The President of the Republic may, as and when necessary:
 
-- change the names and modify the geographical boundaries of the Regions listed in paragraph (1) above;
+a) change the names and modify the geographical boundaries of the Regions listed in paragraph (1) above;
 
-- create other Regions. In this case, he shall give them names and fix their geographical boundaries.
+b) create other Regions. In this case, he shall give them names and fix their geographical boundaries.
 
 #### Article 62
 
@@ -1071,9 +1069,9 @@ The other cases of suspension shall be laid down by law.
 
 [[START OF PAGE 39]]
 
-- The aforementioned rules and regulations shall apply to all regions.
+(1) The aforementioned rules and regulations shall apply to all regions.
 
-- Without prejudice to the provisions of this Part, the law may take into consideration the specificities of certain Regions with regard to their organization and functioning.
+(2) Without prejudice to the provisions of this Part, the law may take into consideration the specificities of certain Regions with regard to their organization and functioning.
 
 ## PART XI
 
@@ -1081,13 +1079,13 @@ Amendment of the Constitution
 
 #### Article 63
 
-- Amendments to the Constitution may be proposed either by the President of the Republic or by Parliament.
+(1) Amendments to the Constitution may be proposed either by the President of the Republic or by Parliament.
 
-- Any proposed amendment made by a member of Parliament shall be signed by at least one-third of the members of either House.
+(2) Any proposed amendment made by a member of Parliament shall be signed by at least one-third of the members of either House.
 
-- Parliament shall meet in congress when called upon to examine a draft or proposed amendment. The amendment shall be adopted by an absolute majority of the members of Parliament. The President of the Republic may request a second reading; in which case the amendment shall be adopted by a two-third Majority of the members of Parliament.
+(3) Parliament shall meet in congress when called upon to examine a draft or proposed amendment. The amendment shall be adopted by an absolute majority of the members of Parliament. The President of the Republic may request a second reading; in which case the amendment shall be adopted by a two-third Majority of the members of Parliament.
 
-- The President of the Republic may decide to submit any bill to amend the Constitution to -a referendum; in which case the amendment shall be adopted by a simple majority of the votes cast.
+(4) The President of the Republic may decide to submit any bill to amend the Constitution to -a referendum; in which case the amendment shall be adopted by a simple majority of the votes cast.
 
 #### Article 64
 
@@ -1107,7 +1105,7 @@ The preamble shall be part and parcel of this Constitution.
 
 #### Article 66
 
-The President of the Republic, the Prime Minister, Members of Government and persons ranking as such, the President and Members of the Bureau of the National Assembly, the President and Members of the bureau of the Senate, Members of Parliament, Senators, all holders of an elective office, SecretariesGeneral of Ministries and persons ranking as such, Directors of the Central Administration, General Managers of public and semi-public enterprises, Judicial and Legal Officers, administrative personnel in -charge of the tax. base, collection and handling of public funds, all managers of public votes and property, shall declare their assets and property at the beginning and at the end of their tenure of office.
+The President of the Republic, the Prime Minister, Members of Government and persons ranking as such, the President and Members of the Bureau of the National Assembly, the President and Members of the bureau of the Senate, Members of Parliament, Senators, all holders of an elective office, Secretaries-General of Ministries and persons ranking as such, Directors of the Central Administration, General Managers of public and semi-public enterprises, Judicial and Legal Officers, administrative personnel in -charge of the tax. base, collection and handling of public funds, all managers of public votes and property, shall declare their assets and property at the beginning and at the end of their tenure of office.
 
 The other categories of persons to whom the provisions of this article shall apply and the conditions of implementation thereof shall be determined by law.
 
@@ -1117,23 +1115,23 @@ Transitional and Final Provisions
 
 #### Article 67
 
-- The new institutions of the Republic provided for under this Constitution shall be set up progressively.
+(1) The new institutions of the Republic provided for under this Constitution shall be set up progressively.
 
-- While the institutions are being set up and until such time that they are set up, the existing institutions of the Republic shall remain in place and shall continue to function:
+(2) While the institutions are being set up and until such time that they are set up, the existing institutions of the Republic shall remain in place and shall continue to function:
 
-- The incumbent President of the Republic shall remain in office until the end of his current term, subject to the implementation of the provisions of Article 6 (4) of this Constitution;
+a) The incumbent President of the Republic shall remain in office until the end of his current term, subject to the implementation of the provisions of Article 6 (4) of this Constitution;
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
 
-- The Members of Parliament of the National Assembly shall remain in office until the end of their current term, subject to the implementation of the provisions of Article 8 (12) above.
+b) The Members of Parliament of the National Assembly shall remain in office until the end of their current term, subject to the implementation of the provisions of Article 8 (12) above.
 
-- The National Assembly shall exercise full legislative power and enjoy all Parliamentary prerogatives until the Senate is set up.
+(3) The National Assembly shall exercise full legislative power and enjoy all Parliamentary prerogatives until the Senate is set up.
 
-- The Supreme Court shall perform the duties of the Constitutional Council until the latter is set up.
+(4) The Supreme Court shall perform the duties of the Constitutional Council until the latter is set up.
 
-- The territorial organization of the State shall remain unchanged until the Regions are set up.
+(5) The territorial organization of the State shall remain unchanged until the Regions are set up.
 
 #### Article 68
 
@@ -1181,11 +1179,13 @@ proclaims
 
 This Universal Declaration
 
-of Human Rights As a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to propose respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.
+of Human Rights
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
+
+As a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to propose respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.
 
 #### Article 1
 
@@ -1239,9 +1239,9 @@ Everyone is entitled in full equality to a fair and public hearing by an indepen
 
 [[START OF PAGE 45]]
 
-- Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.
+(1) Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.
 
-- No one shall be held guilty of any penal offence on account of any act omission which did not constitute a penal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.
+(2) No one shall be held guilty of any penal offence on account of any act omission which did not constitute a penal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.
 
 #### Article 12
 
@@ -1249,39 +1249,39 @@ No one shall be subjected to arbitrary interference with his privacy, family, ho
 
 #### Article 13
 
-- Everyone has the right to freedom of movement and residence within the borders of each State.
+(1) Everyone has the right to freedom of movement and residence within the borders of each State.
 
-- Everyone has the right to leave any country, including his own, and to return to his country.
+(2) Everyone has the right to leave any country, including his own, and to return to his country.
 
 #### Article 14
 
-- Everyone has the right to seek and to enjoy in other countries asylum from persecution.
+(1) Everyone has the right to seek and to enjoy in other countries asylum from persecution.
 
-- This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.
+(2) This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.
 
 #### Article 15
 
-- Everyone has the right to a nationality.
+(1) Everyone has the right to a nationality.
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-- No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.
+(2) No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.
 
 #### Article 16
 
-- Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.
+(1) Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.
 
-- Marriage shall be entered into only with the free and full consent of the intending spouses.
+(2) Marriage shall be entered into only with the free and full consent of the intending spouses.
 
-- The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.
+(3) The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.
 
 #### Article 17
 
-- Everyone has the right to own property alone as well as in association with others.
+(1) Everyone has the right to own property alone as well as in association with others.
 
-- No one shall be arbitrarily deprived of his property.
+(2) No one shall be arbitrarily deprived of his property.
 
 #### Article 18
 
@@ -1297,17 +1297,17 @@ Everyone has the right to freedom of opinion and expression; this right includes
 
 #### Article 20
 
-- Everyone has the right to freedom of peaceful assembly and association.
+(1) Everyone has the right to freedom of peaceful assembly and association.
 
-- No one may be compelled to belong to an association.
+(2) No one may be compelled to belong to an association.
 
 #### Article 21
 
-- Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.
+(1) Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.
 
-- Everyone has the right of equal access to public service in his country.
+(2) Everyone has the right of equal access to public service in his country.
 
-- The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage. and shall, be held by secret vote or by equivalent free voting procedures.
+(3) The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage. and shall, be held by secret vote or by equivalent free voting procedures.
 
 #### Article 22
 
@@ -1315,17 +1315,17 @@ Everyone, as a member of society, has the right to social security and is entitl
 
 #### Article 23
 
-- Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.
+(1) Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-- Everyone, without any discrimination, has the right to equal pay for equal work.
+(2) Everyone, without any discrimination, has the right to equal pay for equal work.
 
-- Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.
+(3) Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.
 
-- Everyone has the right to form and to join trade unions for the protection of his interests.
+(4) Everyone has the right to form and to join trade unions for the protection of his interests.
 
 #### Article 24
 
@@ -1333,29 +1333,29 @@ Everyone has the right to rest and leisure, including reasonable limitation of w
 
 #### Article 25
 
-- Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstance beyond his control.
+(1) Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstance beyond his control.
 
-- Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social protection.
+(2) Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social protection.
 
 #### Article 26
 
-- Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.
+(1) Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.
 
-- Education shall be directed to the full development of the human personality and to the strengthening
+(2) Education shall be directed to the full development of the human personality and to the strengthening
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
-- of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.
+of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.
 
 (3) Parents have a prior right to choose the kind of education that shall be given to their children.
 
 #### Article 27
 
-- Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.
+(1) Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.
 
-- Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
+(2) Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
 
 #### Article 28
 
@@ -1363,11 +1363,11 @@ Everyone is entitled to a social and international order in which the rights and
 
 #### Article 29
 
-- Everyone has duties to the community in which alone the free and full development of his personality is possible.
+(1) Everyone has duties to the community in which alone the free and full development of his personality is possible.
 
-- In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.
+(2) In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.
 
-- These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.
+(3) These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.
 
 [[END OF PAGE 49]]
 
@@ -1435,9 +1435,9 @@ Every individual shall be entitled to the enjoyment of the rights and freedoms r
 
 #### Article 3
 
-- 1 . Every individual shall be equal before the law.
+1 . Every individual shall be equal before the law.
 
-- Every individual shall be entitled to equal protection of the law.
+2. Every individual shall be entitled to equal protection of the law.
 
 #### Article 4
 
@@ -1457,7 +1457,7 @@ Every individual shall have the right to liberty to the security of this person.
 
 #### Article 7
 
-- Every individual shall have the right to have his cause heard. This comprises:
+1. Every individual shall have the right to have his cause heard. This comprises:
 
 (a) the right to an appeal to competent national organs against acts violating his fundamental rights as recognized and guaranteed by conventions, laws, regulations and customs in force;
 
@@ -1467,7 +1467,7 @@ Every individual shall have the right to liberty to the security of this person.
 
 (d) the right to be tried within a reasonable time by an impartial court or tribunal.
 
-- No one may be condemned for an act or omission which did not constitute a legally punishable offence a the time it was committed. No penalty may be inflicted for an offence for which no provision was made at the time it was committed. Punishment is personal and can be imposed only on the offender.
+2. No one may be condemned for an act or omission which did not constitute a legally punishable offence a the time it was committed. No penalty may be inflicted for an offence for which no provision was made at the time it was committed. Punishment is personal and can be imposed only on the offender.
 
 #### Article 8
 
@@ -1475,9 +1475,9 @@ Freedom of conscience, the profession and free practice of religion shall be gua
 
 #### Article 9
 
-- Every individual shall have the right to receive information.
+1. Every individual shall have the right to receive information.
 
-- Every individual shall have the right to express and disseminate his opinions within the law.
+2. Every individual shall have the right to express and disseminate his opinions within the law.
 
 [[END OF PAGE 53]]
 
@@ -1485,9 +1485,9 @@ Freedom of conscience, the profession and free practice of religion shall be gua
 
 #### Article 10
 
-- Every individual shall have the right to free association provided that he abides by the law.
+1. Every individual shall have the right to free association provided that he abides by the law.
 
-- Subject to the obligation of solidarity provided for in Article 29 no one may be compelled to join an association.
+2. Subject to the obligation of solidarity provided for in Article 29 no one may be compelled to join an association.
 
 #### Article 11
 
@@ -1495,15 +1495,15 @@ Every individual shall have the right to assemble freely with others. The exerci
 
 #### Article 12
 
-- Every individual shall have the right to freedom of movement and residence within the border of a State provided he abides by the law.
+1. Every individual shall have the right to freedom of movement and residence within the border of a State provided he abides by the law.
 
-- Every individual shall have the right to leave any country including his own, and to return to his country. This right may only be subject to restrictions, provided for by law for the protection of national security, law and public order, public health or morality.
+2. Every individual shall have the right to leave any country including his own, and to return to his country. This right may only be subject to restrictions, provided for by law for the protection of national security, law and public order, public health or morality.
 
-- Every individual shall have the right, when persecuted, to seek and obtain asylum in other countries in accordance with the laws of those countries and international conventions.
+3. Every individual shall have the right, when persecuted, to seek and obtain asylum in other countries in accordance with the laws of those countries and international conventions.
 
-- A non-national legally admitted in a territory of a State party to the present Charter, may only be expelled from it by virtue of a decision taken in accordance with the law.
+4. A non-national legally admitted in a territory of a State party to the present Charter, may only be expelled from it by virtue of a decision taken in accordance with the law.
 
-- The mass expulsion of non-nationals shall be prohibited. Mass expulsion shall be that which is aimed at national, racial, ethnic or religious groups.
+5. The mass expulsion of non-nationals shall be prohibited. Mass expulsion shall be that which is aimed at national, racial, ethnic or religious groups.
 
 [[END OF PAGE 54]]
 
@@ -1511,11 +1511,11 @@ Every individual shall have the right to assemble freely with others. The exerci
 
 #### Article 13
 
-- Every citizen shall have the right to participate freely in the government of his country either directly or through freely chosen representatives in accordance with the provisions of the law.
+1. Every citizen shall have the right to participate freely in the government of his country either directly or through freely chosen representatives in accordance with the provisions of the law.
 
-- Every citizen shall have the right of equal access to the public service of his country;
+2. Every citizen shall have the right of equal access to the public service of his country;
 
-- Every individual shall have the right of access to public property and services in strict equality of all persons before the law.
+3. Every individual shall have the right of access to public property and services in strict equality of all persons before the law.
 
 #### Article 14
 
@@ -1527,31 +1527,31 @@ Every individual shall have the right to work under equitable and satisfactory c
 
 #### Article 16
 
-- Every individual shall have the right to enjoy the best attainable state of physical and mental health.
+1. Every individual shall have the right to enjoy the best attainable state of physical and mental health.
 
-- State parties to the present Charter shall take the necessary measures to protect the health of their people and to ensure that they receive medical attention when they are sick.
+2. State parties to the present Charter shall take the necessary measures to protect the health of their people and to ensure that they receive medical attention when they are sick.
 
 #### Article 17
 
-- Every individual shall have the right to education.
+1. Every individual shall have the right to education.
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
 
-- Every individual may freely take part in the cultural life of his community.
+2. Every individual may freely take part in the cultural life of his community.
 
-- The promotion and protection of morals and traditional values recognized by the community shall be the duty of the State.
+3. The promotion and protection of morals and traditional values recognized by the community shall be the duty of the State.
 
 #### Article 18
 
 The family shall be the natural unit and basis of society. It shall be protected by the State which shall take care of its physical and moral health.
 
-- The State shall have the duty to assist the family which is the custodian of morals and traditional values recognized by the community.
+2. The State shall have the duty to assist the family which is the custodian of morals and traditional values recognized by the community.
 
-- The State shall ensure the elimination of every discrimination against women and also ensure the protection of the right of the women and the child as stipulated in international declaration and conventions.
+3. The State shall ensure the elimination of every discrimination against women and also ensure the protection of the right of the women and the child as stipulated in international declaration and conventions.
 
-- The aged and the disabled shall also have the right to special measures of protection in keeping with their physical and moral needs.
+4. The aged and the disabled shall also have the right to special measures of protection in keeping with their physical and moral needs.
 
 #### Article 19
 
@@ -1559,33 +1559,33 @@ All peoples shall be equal; they shall enjoy the same respect and shall have the
 
 #### Article 20
 
-- All peoples shall have right to existence. They shall have the unquestionable and inalienable right to self-determination. They shall freely determine their political status and shall pursue their economic and social development according to the policy they have freely chosen.
+1. All peoples shall have right to existence. They shall have the unquestionable and inalienable right to self-determination. They shall freely determine their political status and shall pursue their economic and social development according to the policy they have freely chosen.
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
 
-- Colonized or oppressed peoples shall have the right to free themselves from the bonds of domination by resorting to any means recognized by the international community.
+2. Colonized or oppressed peoples shall have the right to free themselves from the bonds of domination by resorting to any means recognized by the international community.
 
-- All peoples shall have the right to the assistance of the States parties to the present Charter in their liberation struggle against foreign domination, be it political, economic or cultural.
+3. All peoples shall have the right to the assistance of the States parties to the present Charter in their liberation struggle against foreign domination, be it political, economic or cultural.
 
 #### Article 21
 
-- All peoples shall freely dispose of their wealth and natural resources. This right shall be exercised in the exclusive interest of the people. In no case shall a people be deprived of it.
+1. All peoples shall freely dispose of their wealth and natural resources. This right shall be exercised in the exclusive interest of the people. In no case shall a people be deprived of it.
 
-- in case of spoliation the dispossessed people shall have the right to the lawful recovery of its property as well as to an adequate compensation.
+2. in case of spoliation the dispossessed people shall have the right to the lawful recovery of its property as well as to an adequate compensation.
 
-- The free disposal of wealth and natural resources shall be exercised without prejudice to the obligation of promoting international economic co-operation based on mutual respect, equitable exchange and the principles of international law.
+3. The free disposal of wealth and natural resources shall be exercised without prejudice to the obligation of promoting international economic co-operation based on mutual respect, equitable exchange and the principles of international law.
 
-- States parties to the present Charter shall individually and collectively exercise the right to free disposal of their wealth and natural resources with a view strengthening African unity and solidarity.
+4. States parties to the present Charter shall individually and collectively exercise the right to free disposal of their wealth and natural resources with a view strengthening African unity and solidarity.
 
-- States parties to the present Charter shall undertake to eliminate all forms of foreign economic exploitation particularly that practised by international monopolies so as to enable their peoples to fully benefit from the advantages derived from their national resources.
+5. States parties to the present Charter shall undertake to eliminate all forms of foreign economic exploitation particularly that practised by international monopolies so as to enable their peoples to fully benefit from the advantages derived from their national resources.
 
 #### Article 22
 
-- All peoples shall have the right to their economic, social and cultural development with due regard to their freedom and identity and in the equal enjoyment of the common heritage of mankind.
+1. All peoples shall have the right to their economic, social and cultural development with due regard to their freedom and identity and in the equal enjoyment of the common heritage of mankind.
 
-- States shall have the duty, individually or collectively, to ensure the exercise of the right to
+2. States shall have the duty, individually or collectively, to ensure the exercise of the right to
 
 [[END OF PAGE 57]]
 
@@ -1595,9 +1595,9 @@ development.
 
 #### Article 23
 
-- All peoples shall have the right to national and international peace and security. The principles of solidarity and friendly relations implicitly affirmed by the Charter of the United Nations and reaffirmed by that of the Organization of African Unity shall govern relations between States.
+1. All peoples shall have the right to national and international peace and security. The principles of solidarity and friendly relations implicitly affirmed by the Charter of the United Nations and reaffirmed by that of the Organization of African Unity shall govern relations between States.
 
-- For the purpose of the straightening peace, solidarity and friendly relations, State parties to the present Charter shall ensure that
+2. For the purpose of the straightening peace, solidarity and friendly relations, State parties to the present Charter shall ensure that
 
 (a) any individual enjoying the right of asylum under Article 12 of the present Charter shall not engage in subversive activities against his country of origin or any other State party to the present Charter;
 
@@ -1619,25 +1619,15 @@ States parties to the present Charter shall have the duty to guarantee the indep
 
 [[START OF PAGE 59]]
 
-The individual shall also have the duty:
-
-- to preserve the harmonious development of the family and to work for the cohesion and respect of the family; to respect his parents at all times, to maintain them in case of need : -
-
-- to serve his national community by placing his physical and intellectual abilities at its service;
-
-- not to compromise the security of the State whose national or resident he is;
-
-- to preserve and strengthen the national solidarity, particularly when the latter is threatened;
-
 ### Chapter II
 
 Duties
 
 #### Article 27
 
-- Every individual shall have duties towards his family and society, the State and other legally recognized communities and the international community.
+1. Every individual shall have duties towards his family and society, the State and other legally recognized communities and the international community.
 
-- The rights and freedoms of each individual shall be exercised with due regard to the rights of others, collective security, morality and common interest.
+2. The rights and freedoms of each individual shall be exercised with due regard to the rights of others, collective security, morality and common interest.
 
 #### Article 28
 
@@ -1645,17 +1635,27 @@ Every individual shall have the duty to respect and consider his fellow beings w
 
 #### Article 29
 
+The individual shall also have the duty:
+
+1. to preserve the harmonious development of the family and to work for the cohesion and respect of the family; to respect his parents at all times, to maintain them in case of need : -
+
+2. to serve his national community by placing his physical and intellectual abilities at its service;
+
+3. not to compromise the security of the State whose national or resident he is;
+
+4. to preserve and strengthen the national solidarity, particularly when the latter is threatened;
+
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
-- to preserve and strengthen the national independence and the territorial integrity of his country an to contribute to its defence in accordance with the law;
+5. to preserve and strengthen the national independence and the territorial integrity of his country an to contribute to its defence in accordance with the law;
 
-- to work to the best of his abilities and competence, and to pay taxes imposed by law in the interest of the society;
+6. to work to the best of his abilities and competence, and to pay taxes imposed by law in the interest of the society;
 
-- to preserve and strengthen positive African cultural values in his relation with other members of the society, in the spirit of tolerance, dialogue and consultation and, in general, the contribute to the promotion of the moral well-being of society;
+7. to preserve and strengthen positive African cultural values in his relation with other members of the society, in the spirit of tolerance, dialogue and consultation and, in general, the contribute to the promotion of the moral well-being of society;
 
-- to contribute to the best of his abilities, at all times and at all levels, to the promotion "and 'achievement of African unity.
+8. to contribute to the best of his abilities, at all times and at all levels, to the promotion "and 'achievement of African unity.
 
 ## PART II
 
@@ -1671,9 +1671,9 @@ An African Commission on Human and Peoples' Rights, hereinafter called "Commissi
 
 #### Article 31
 
-- The Commission shall consist of eleven members chosen from amongst African personalities of the high morality, integrity, impartiality and competence in matters of human and peoples' rights; particular consideration in being given to persons having legal experience.
+1. The Commission shall consist of eleven members chosen from amongst African personalities of the high morality, integrity, impartiality and competence in matters of human and peoples' rights; particular consideration in being given to persons having legal experience.
 
-- The members of the Commission shall serve their personal capacity.
+2. The members of the Commission shall serve their personal capacity.
 
 [[END OF PAGE 60]]
 
@@ -1697,7 +1697,7 @@ Each State party to the present Charter may not nominate more than two candidate
 
 #### Article 36
 
-The members of the Commission shall be elected for a six year period and shall be eligible for reelection. However, the term of office of four of the members elected at the first election shall terminate after two years and the term of office of three others, at the end of four years.
+The members of the Commission shall be elected for a six year period and shall be eligible for re-election. However, the term of office of four of the members elected at the first election shall terminate after two years and the term of office of three others, at the end of four years.
 
 #### Article 37
 
@@ -1713,11 +1713,11 @@ After the election, the member of the Commission shall make a solemn declaration
 
 #### Article 39
 
-- In case of death or resignation of the member of the Commission, the Chairman of the Commission shall immediately inform the Secretary-General of the Organization of African Unity, who shall declare the seat vacant from the date of death or from the date on which the resignation takes effect.
+1. In case of death or resignation of the member of the Commission, the Chairman of the Commission shall immediately inform the Secretary-General of the Organization of African Unity, who shall declare the seat vacant from the date of death or from the date on which the resignation takes effect.
 
-- If, in the unanimous opinion of other members of the commission, a member has stopped discharging his duties for any reason other than a temporary absence, the Chairman of the Commission shall inform the Secretary-General of the Organization of African Unity, who shall then declare the seat vacant.
+2. If, in the unanimous opinion of other members of the commission, a member has stopped discharging his duties for any reason other than a temporary absence, the Chairman of the Commission shall inform the Secretary-General of the Organization of African Unity, who shall then declare the seat vacant.
 
-- In each of the cases anticipated above, the Assembly of Heads of State and Government shall replace the member whose seat became vacant for the remaining, period of his term unless the period is less than six months.
+3. In each of the cases anticipated above, the Assembly of Heads of State and Government shall replace the member whose seat became vacant for the remaining, period of his term unless the period is less than six months.
 
 #### Article 40
 
@@ -1735,15 +1735,15 @@ services.
 
 #### Article 42
 
-- The Commission shall elect its Chairman and Vice-Chairman for a. two-year period. They shall be eligible for re-election.
+1. The Commission shall elect its Chairman and Vice-Chairman for a. two-year period. They shall be eligible for re-election.
 
-- The Commission shall lay down its rules of procedure.
+2. The Commission shall lay down its rules of procedure.
 
-- Seven members shall form the quorum.
+3. Seven members shall form the quorum.
 
-- In case of an equality of votes, the Chairman shall have a casting vote.
+4. In case of an equality of votes, the Chairman shall have a casting vote.
 
-- The Secretary-General may attend the meetings of the Commission. He shall neither participate in deliberations nor shall be entitled to vote. The Chairman of the Commission may, however, invite him to speak.
+5. The Secretary-General may attend the meetings of the Commission. He shall neither participate in deliberations nor shall be entitled to vote. The Chairman of the Commission may, however, invite him to speak.
 
 #### Article 43
 
@@ -1765,7 +1765,7 @@ MANDATE OF THE COMMISSION
 
 The functions of the Commission shall be:
 
-- to promote Human and Peoples' Rights and in particular;
+1. to promote Human and Peoples' Rights and in particular;
 
 (a) to collect documents, undertake studies and research on African problems in the field of human and peoples' rights, organize seminars, symposia and conferences, disseminate information, encourage national and local institutions concerned with human and peoples' rights and, should the case arise, give its views or make recommendations to Governments;
 
@@ -1773,11 +1773,11 @@ The functions of the Commission shall be:
 
 (c) co-operate with other African and international institutions concerned with the promotion and protection of human and peoples' rights.
 
-- Ensure the protection of human and peoples' rights under conditions laid down by the present Charter.
+2. Ensure the protection of human and peoples' rights under conditions laid down by the present Charter.
 
-- Interpret all the provisions of the present Charter at the request of a State party, an institution of the Organization of African Unity or an African Organization recognized by the Organization of African Unity.
+3. Interpret all the provisions of the present Charter at the request of a State party, an institution of the Organization of African Unity or an African Organization recognized by the Organization of African Unity.
 
-- Perform any other tasks which may be entrusted to it by the Assembly of Heads of State and Government.
+4. Perform any other tasks which may be entrusted to it by the Assembly of Heads of State and Government.
 
 ### CHAPTER III
 
@@ -1817,9 +1817,9 @@ The Commission can only deal with a matter submitted to it after making sure tha
 
 #### Article 51
 
-- The Commission may ask the States concerned to provide it with all relevant information.
+1. The Commission may ask the States concerned to provide it with all relevant information.
 
-- When the Commission is considering the matter, States concerned may be represented before it and submit, written or, oral representations.
+2. When the Commission is considering the matter, States concerned may be represented before it and submit, written or, oral representations.
 
 #### Article 52
 
@@ -1841,27 +1841,27 @@ The Commission shall submit to each ordinary Session of the Assembly of Heads of
 
 [[START OF PAGE 67]]
 
-- Before each session, the Secretary of the Commission shall make a list of the communications other than those of States parties to the present Charter and transmit them to the members of the Commission, who shall indicate which communications should be considered by the Commission.
+1. Before each session, the Secretary of the Commission shall make a list of the communications other than those of States parties to the present Charter and transmit them to the members of the Commission, who shall indicate which communications should be considered by the Commission.
 
-- A communication shall be considered by the Commission if a simply majority of its members so decide.
+2. A communication shall be considered by the Commission if a simply majority of its members so decide.
 
 #### Article 56
 
 Communications relating to human and peoples' rights referred to in Article 55 received by the Commission, shall be considered if they:
 
-- indicate their authors even if the latter request anonymity;
+1. indicate their authors even if the latter request anonymity;
 
-- are compatible with the Charter of the Organization of African Unity or with the present Charter,
+2. are compatible with the Charter of the Organization of African Unity or with the present Charter,
 
-- are not written in disparaging or insulting language directed against the State concerned and its institutions or to the Organization of African Unity;
+3. are not written in disparaging or insulting language directed against the State concerned and its institutions or to the Organization of African Unity;
 
-- are not based exclusively, on news disseminated through the mass media;
+4. are not based exclusively, on news disseminated through the mass media;
 
-- are sent after exhausting local remedies, if any, unless it is obvious that this procedure is unduly prolonged;
+5. are sent after exhausting local remedies, if any, unless it is obvious that this procedure is unduly prolonged;
 
-- are submitted within a reasonable period from the time local remedies &re exhausted or from the date the Commission is seized of the matter, and
+6. are submitted within a reasonable period from the time local remedies &re exhausted or from the date the Commission is seized of the matter, and
 
-- do not deal with cases which have been settled by these States involved in accordance with the principles of the charter of the United Nations, or the Charter of the Organization of African Unity or the
+7. do not deal with cases which have been settled by these States involved in accordance with the principles of the charter of the United Nations, or the Charter of the Organization of African Unity or the
 
 [[END OF PAGE 67]]
 
@@ -1875,15 +1875,15 @@ Prior to any substantive consideration, all communications shall be brought to t
 
 #### Article 58
 
-- When it appears after deliberations of the Commission that one or more communications apparently relate to special cases which reveal the existence of a series of serious or massive violations of human and peoples' rights, the Commission shall draw the attention of the Assembly of Heads of State and Government who may request an in-depth study.
+1. When it appears after deliberations of the Commission that one or more communications apparently relate to special cases which reveal the existence of a series of serious or massive violations of human and peoples' rights, the Commission shall draw the attention of the Assembly of Heads of State and Government who may request an in-depth study.
 
 #### Article 59
 
-- All measures taken within the provisions of the present Charter shall remain confidential until such a time as the Assembly of Heads of State and Government shall otherwise decide.
+1. All measures taken within the provisions of the present Charter shall remain confidential until such a time as the Assembly of Heads of State and Government shall otherwise decide.
 
-- However, the report shall be published by the Chairman of the Commission upon the decision of the Assembly of Heads of State and Government.
+2. However, the report shall be published by the Chairman of the Commission upon the decision of the Assembly of Heads of State and Government.
 
-- The report on the activities of the Commission shall be published by its Chairman after it has been considered by the Assembly of Heads of State and Government.
+3. The report on the activities of the Commission shall be published by its Chairman after it has been considered by the Assembly of Heads of State and Government.
 
 ### CHAPTER IV
 
@@ -1907,11 +1907,11 @@ Each State party shall undertake to submit every two years, from the date the pr
 
 #### Article 63
 
-- The present: Charter shall be open to signature, ratification or adherence of the Member States of the Organization of African Unity.
+1. The present: Charter shall be open to signature, ratification or adherence of the Member States of the Organization of African Unity.
 
-- The instruments of ratification or adherence to the present charter shall be deposited with the Secretary-General of the Organization of African Unity.
+2. The instruments of ratification or adherence to the present charter shall be deposited with the Secretary-General of the Organization of African Unity.
 
-- The present Charter shall come into force three months after the reception by the Secretary-General of the instruments of ratification or adherence of a simple majority of the Member States of the Organization of African Unity.
+3. The present Charter shall come into force three months after the reception by the Secretary-General of the instruments of ratification or adherence of a simple majority of the Member States of the Organization of African Unity.
 
 [[END OF PAGE 69]]
 
@@ -1923,9 +1923,9 @@ GENERAL PROVISIONS
 
 #### Article 64
 
-- After the coming into force of the present Charter, members of the Commission shall be elected In accordance with the relevant Article of the present Charter.
+1. After the coming into force of the present Charter, members of the Commission shall be elected In accordance with the relevant Article of the present Charter.
 
-- The Secretary-General of the Organization of African Unity shall convene the first meeting of Commission at the headquarters of the Organization within three months of the constitution of the Commission. Thereafter, the Commission shall be convened by its Chairman whenever necessary but at least once a year.
+2. The Secretary-General of the Organization of African Unity shall convene the first meeting of Commission at the headquarters of the Organization within three months of the constitution of the Commission. Thereafter, the Commission shall be convened by its Chairman whenever necessary but at least once a year.
 
 #### Article 65
 
