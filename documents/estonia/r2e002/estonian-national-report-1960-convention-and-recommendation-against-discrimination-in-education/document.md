@@ -126,29 +126,29 @@ Name of contact person: Renate Gross, Hanna-Liis Kaarlõp
 
 Email and telephone number of contact person: renate.gross@hm.ee, +3727350676; hanna-liis.kaarlop@kul.ee, +37255620921
 
-# Ratification and applicability of the Convention against Discrimination in Education 10
+# I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
-Yes
+☐ Yes
 
-No: Does your country plan to ratify this instrument?
+☐ No: Does your country plan to ratify this instrument?
 
-Yes: Please indicate the stage of ratification process reached by your country and whether assistance is needed:
+☑ Yes: Please indicate the stage of ratification process reached by your country and whether assistance is needed:
 
-There is interest but no concrete action has been taken
+☑ There is interest but no concrete action has been taken
 
-The ratification process has been initiated
+☐ The ratification process has been initiated
 
-The ratification process is close to completion
+☐ The ratification process is close to completion
 
-Please briefly explain the steps that have been taken and timeline when relevant,  any  difficulties  encountered  (legal,  institutional,  political  or practical)  in completing the ratification process. And how UNESCO can assist:
+☐ Please briefly explain the steps that have been taken and timeline when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
 
-Estonia fully complies with the Charter of Fundamental Rights of the European Union. According to Article 21 of the Charter, 'Non-discrimination - forbids discrimination on grounds of sex, race, colour,  ethnic  or  social  origin,  genetic  features,  language,  religion  or other  belief,  political  opinion,  membership  of  a  national  minority, property, birth, disability, age or sexual orientation.'
+Estonia fully complies with the Charter of Fundamental Rights of the European Union. According to Article 21 of the Charter, “Non-discrimination – forbids discrimination on grounds of sex, race, colour, ethnic or social origin, genetic features, language, religion or other belief, political opinion, membership of a national minority, property, birth, disability, age or sexual orientation.”
 
 Moreover, the ratification process has been stopped at the Parliament of Estonia twice: in 2012 and 2015 - both times due to lack of consensus.
 
-No, not considering ratification. Please explain why:
+☐ No, not considering ratification. Please explain why:
 
 10
 
@@ -160,21 +160,21 @@ https://www.unesco.org/en/legal-affairs/convention-against-discrimination-educat
 
 - Is the Convention directly applicable in your country's domestic law?
 
-Yes
+☐ Yes
 
-No
+☑ No
 
 - Have courts, tribunals and/or administrative authorities adjudicated on issues or violations regarding the right to education? 11
 
-Yes
+☐ Yes
 
-No
+☑ No
 
-□ Yes: Have the provisions of the Convention been invoked?
+☐ Yes: Have the provisions of the Convention been invoked?
 
-Yes
+☐ Yes
 
-No
+☑ No
 
 - Please cite the case law and jurisprudence.
 
@@ -186,7 +186,7 @@ https://www.riigiteataja.ee/en/eli/ee/530122020003/consolide
 
 # II. Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the context of Sustainable Development Goal 4 (SDG4)
 
-## Towards an inclusive non-discriminatory education system
+## 1. Towards an inclusive non-discriminatory education system
 
 > 11 Judicial mechanisms play an important role in enforcing the right to education by ensuring legal accountability and therefore contributing to the practical realization of the right to education.
 
@@ -198,9 +198,9 @@ For reference: This section relates to the main purpose of the Convention/Recomm
 
 It  further  corresponds  to  the  overall  aspiration  of  SDG4  which  aims  to 'ensure  inclusive  and equitable quality education and promote lifelong learning opportunities for all' by 2030. While it covers all the SDG4 targets, it also specifically covers SDG target 4.5. 12
 
--Please indicate whether the rights and principles laid out in the Convention/Recommendation  informed the elaboration of the education legal and/or policy framework:
+- Please indicate whether the rights and principles laid out in the Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
 
-Yes □ No
+☑ Yes ☐ No
 
 - If yes, please provide reference:
 
@@ -216,19 +216,19 @@ https://www.riigiteataja.ee/en/eli/524042014002/consolide
 
 For reference: This notably is covered under SDG target 4.1 and partly target 4.b 14
 
-□  Legal texts 15 prohibit discrimination and guarantee equal access to education:
+☐ Legal texts 15 prohibit discrimination and guarantee equal access to education:
 
-- In pre-primary education (including early learning and care)
+☑ In pre-primary education (including early learning and care)
 
-- In primary education
+☑ In primary education
 
-- In secondary education
+☑ In secondary education
 
-- In technical and vocational education and training
+☑ In technical and vocational education and training
 
-- In higher education
+☑ In higher education
 
-- In adult education and alternative learning
+☑ In adult education and alternative learning
 
 > 12 Which  calls  on  states  to  'eliminate  gender  disparities  in  education  and  ensure  equal  access  to  all  levels  of education  and  vocational  training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
 
@@ -244,10 +244,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 - Please indicate the relevant legal provisions:
 
-- Please list the prohibited grounds of discrimination in education as laid out in legal texts:
-
 Republic of Estonia Education Act:
----
 https://www.riigiteataja.ee/en/eli/524042014002/consolide/current
 Preschool Child Care Institutions Act
 https://www.riigiteataja.ee/akt/126042024003
@@ -258,35 +255,37 @@ https://www.riigiteataja.ee/en/eli/514092023001/consolide
 Adult Education Act
 https://www.riigiteataja.ee/en/eli/ee/529062015007/consolide/current
 
-According to subsection 9 (1) of the Constitution of the Republic of Estonia, all  persons  staying  in Estonia are equal before the law, and Article 12 of the Constitution  provides  for  prohibition  on  discrimination.  With  the  Equal Treatment Act (2008) Estonia has transposed into national law EU Directives 2000/78/EC  and  2000/43/EC,  establishing  a  general  framework  of  equal treatment.  The  objective  of  the  Act  is  to  ensure  the  protection  of  persons against discrimination on grounds of nationality (ethnic origin), race, colour, religion or other beliefs, age, disability or sexual orientation. The Act does not concern  racial  discrimination,  which lies within the scope of application of the Gender Equality Act. Prohibitions on discrimination and duty to promote equal treatment are included in the Employment Contracts Act (§ 3) and in the  Public  Service  Act  (§  13).  Also  the  Penal  Code  enshrines  provisions related  to  discrimination,  setting  out  criminal  liability  for  certain  violations. The most important relevant provisions of the Code deal with the prohibition on incitement of hatred and on violation of equality.
+- Please list the prohibited grounds of discrimination in education as laid out in legal texts:
+
+According to subsection 9 (1) of the Constitution of the Republic of Estonia, all persons staying in Estonia are equal before the law, and Article 12 of the Constitution provides for prohibition on discrimination. With the Equal Treatment Act (2008) Estonia has transposed into national law EU Directives 2000/78/EC and 2000/43/EC, establishing a general framework of equal treatment. The objective of the Act is to ensure the protection of persons against discrimination on grounds of nationality (ethnic origin), race, colour, religion or other beliefs, age, disability or sexual orientation. The Act does not concern racial discrimination, which lies within the scope of application of the Gender Equality Act. Prohibitions on discrimination and duty to promote equal treatment are included in the Employment Contracts Act (§ 3) and in the Public Service Act (§ 13). Also the Penal Code enshrines provisions related to discrimination, setting out criminal liability for certain violations. The most important relevant provisions of the Code deal with the prohibition on incitement of hatred and on violation of equality.
 
 Additionally, according to the Education Act subsection 2, the fundamental principles of education are based on the recognition of universal and civic values, freedom of the individual, religion and conscience. The objectives of education are to:
 
-1) create favourable conditions for the development of the individual, the family and the Estonian nation, also for ethnic minorities, and economic, political and cultural life in Estonian society and also nature conservation, within the context of the global economy and global culture;
+1) create favourable conditions for the development of the individual, the family and the Estonian nation, also for ethnic minorities, and economic,
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-- shape individuals who respect and abide by the law;
-
-- create opportunities for everyone to engage in lifelong learning.
+political and cultural life in Estonian society and also nature conservation, within the context of the global economy and global culture;
+2) shape individuals who respect and abide by the law;
+3) create opportunities for everyone to engage in lifelong learning.
 
 The Adult Education Act regulates the learner's equal right to study leave.
 
-□   Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
+☐ Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
-- In pre-primary education (including early learning and care)
+☑ In pre-primary education (including early learning and care)
 
-- In primary education
+☑ In primary education
 
-- In secondary education
+☑ In secondary education
 
-- In technical and vocational education and training
+☑ In technical and vocational education and training
 
-- In higher education
+☑ In higher education
 
-- In adult education and alternative learning
+☑ In adult education and alternative learning
 
 - Please provide details:
 
@@ -294,27 +293,29 @@ Civil society organisations also play an important role in preventing discrimina
 
 In adult education, the focus of activities is on adults with lower competitiveness: with a low level of education, without professional education, equally men and women. We also pay attention to the elderly, e.g. the development of their digital skills.
 
-□ Combatting discrimination in terms of curriculum:
+☐ Combatting discrimination in terms of curriculum:
 
-- In pre-primary education (including early learning and care)
+☑ In pre-primary education (including early learning and care)
 
-- In primary education
+☑ In primary education
 
-- In secondary education
+☑ In secondary education
 
-- In technical and vocational education and training
+☑ In technical and vocational education and training
 
-- In higher education
+☑ In higher education
 
-- In adult education and alternative learning
+☑ In adult education and alternative learning
 
 - Please provide details:
 
-According  to  the  Basic  Schools  and  Upper  Secondary  Schools  Act,  the fundamental  values  of  general  education  schools  consist  of  'The  values arising from the ethical principles specified in the Constitution of the Republic of Estonia, the Universal Declaration of Human Rights, the Convention on the Rights of the Child and the fundamental documents of the European Union are considered important,' (§ 3,, point 2). 'Upon organisation of studies, the state, owners of schools and schools adhere to the following principles: 1) general education of good quality adheres to the principles of inclusive education and is  equally  available  to  all  persons  regardless  of  their  social  and  economic background,  nationality,  gender,  place  of  residence  or  special  educational needs;  2)  there  are  no  curricula-based  impediments  to  the  movement  of students  from  one  stage  of  study,  form  of  study  or  level  of  education  to another,' (§ 6, point 1 and 2).
+According to the Basic Schools and Upper Secondary Schools Act, the fundamental values of general education schools consist of “The values arising from the ethical principles specified in the Constitution of the Republic of Estonia, the Universal Declaration of Human Rights, the Convention on the
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+Rights of the Child and the fundamental documents of the European Union are considered important,” (§ 3,, point 2). “Upon organisation of studies, the state, owners of schools and schools adhere to the following principles: 1) general education of good quality adheres to the principles of inclusive education and is equally available to all persons regardless of their social and economic background, nationality, gender, place of residence or special educational needs; 2) there are no curricula-based impediments to the movement of students from one stage of study, form of study or level of education to another,” (§ 6, point 1 and 2).
 
 https://www.riigiteataja.ee/akt/126042024009
 
@@ -330,7 +331,7 @@ The  common  general  studies  of  all  national  curricula  of  vocational  sec
 
 According to the Equal Treatment Act, § 2: (1) 'Discrimination of persons on grounds of nationality (ethnic origin), race or colour is prohibited upon:
 
-- access  to  vocational  guidance,  vocational  training,  advanced  vocational training and retraining, practical work experience;
+3) access to vocational guidance, vocational training, advanced vocational training and retraining, practical work experience;
 
 6) education;'
 
@@ -338,13 +339,18 @@ whereas   § 2: (2) determines that 'Discrimination of persons on grounds of rel
 
 3)  access  to  vocational  guidance,  vocational  training,  advanced  vocational training and retraining, practical work experience;'
 
-§13 of the  Equal  Treatment  Act  states  that  'Educational  and  research institutions  and  other  entities  and  persons  organising  training  shall,  upon determination  of  the  content  of  studies  and  organisation  of  studies,  take account of the need to promote the principle of equal treatment.' https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/507032022003/consolide The  following  paragraph  is  valid  for  all  levels  of  education,  including: pre-primary education (including early learning and care); primary education; secondary education; technical and vocational education and training; higher education; adult education and alternative learning.
+§13 of the Equal Treatment Act states that “Educational and research institutions and other entities and persons organising training shall, upon determination of the content of studies and organisation of studies, take
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-According  to  the  Gender  Equality  Act  §  10. 'Educational  and  research institutions  and  institutions  engaged  in  the  organisation  of  training  shall ensure equal treatment of men and women in vocational guidance, acquisition of  education,  professional  and  vocational  development  and re-training. The curricula, study materials used and research conducted shall facilitate abolishment  of  the  unequal  treatment  of  men  and  women  and  promote equality.'
+account of the need to promote the principle of equal treatment.”
+https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/507032022003/consolide
+
+The following paragraph is valid for all levels of education, including: pre-primary education (including early learning and care); primary education; secondary education; technical and vocational education and training; higher education; adult education and alternative learning.
+
+According to the Gender Equality Act § 10. “Educational and research institutions and institutions engaged in the organisation of training shall ensure equal treatment of men and women in vocational guidance, acquisition of education, professional and vocational development and re-training. The curricula, study materials used and research conducted shall facilitate abolishment of the unequal treatment of men and women and promote equality.”
 
 https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/505012024003/consolide
 
@@ -358,9 +364,9 @@ According  to  the  Regulation  of  the  Government  of  the  Republic  'Conditi
 
 #### § 3. Establishment of language and culture teaching
 
-- The  school organises at least two lessons of language and cultural education per week as an elective subject for pupils acquiring basic education if at least  10  parents  (guardians)  of  pupils  with  the  same  native  language  have submitted a written application for this to the head of the school.
+(1) The school organises at least two lessons of language and cultural education per week as an elective subject for pupils acquiring basic education if at least 10 parents (guardians) of pupils with the same native language have submitted a written application for this to the head of the school.
 
-- If fewer than 10 applications have been submitted for the organisation of teaching of the same language and culture, the school decides on the provision of language  and culture teaching in cooperation with the rural municipality or city government.
+(2) If fewer than 10 applications have been submitted for the organisation of teaching of the same language and culture, the school decides on the provision of language and culture teaching in cooperation with the rural municipality or city government.
 
 https://www.riigiteataja.ee/akt/111092012007?leiaKehtiv
 
@@ -374,27 +380,27 @@ https://www.riigiteataja.ee/akt/111092012007?leiaKehtiv
 
 #### General measures:
 
-- Legislation provides for inclusive education for all
+☑ Legislation provides for inclusive education for all
 
-- Policy measures aim to enhance inclusion in education for all
+☑ Policy measures aim to enhance inclusion in education for all
 
-- Teachers are trained on inclusive education 16 and to value diversity
+☑ Teachers are trained on inclusive education 16 and to value diversity
 
-- Initiatives to address discrimination and promote cultural diversity and mutual acceptance
+☑ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
-Other:
+☐ Other:
 
-- Multiple and flexible learning pathways 17 are provided for
+☑ Multiple and flexible learning pathways 17 are provided for
 
-- Curricula and teaching methods are inclusive in design 18
+☑ Curricula and teaching methods are inclusive in design 18
 
-- Multilingual and intercultural education is supported
+☑ Multilingual and intercultural education is supported
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 According to the Constitution of the Republic of Estonia Article 37 everyone has the right  to  education.  Education  for  school-age  children  is  compulsory  to  the  extent specified  by  the  law  and  is  free  of  charge  in  general  schools  established  by  the national government and by local authorities. In order to make education accessible, the  national  government  and  local  authorities  maintain  a  requisite  number  of educational  institutions.  Other  educational  institutions,  including  private  schools, may  also  be  established  and  maintained  pursuant  to  the  law.  Parents  have  the deciding say in the choice of education for their children. Everyone has the right to be  taught  in  Estonian.  The  language  of  teaching  in  national  minority  educational institutions is chosen by the educational institution. Article 12 provides that everyone is  equal  before  the  law.  No  one  may  be  discriminated  against  on  the  basis  of nationality,  race,  colour,  sex,  language,  origin,  religion,  political  or  other  views, property or social status, or on other grounds.  Incitement to ethnic, racial, religious or  political  hatred,  violence  or  discrimination  is  prohibited  and  punishable  by  law. Incitement to hatred and violence between social classes or to discrimination against a social class is also prohibited and punishable by law.
 
-https://www.riigiteataja.ee/en/eli/ee/530122020003/consolide Education Strategy 2021-2035 adopted in 2021 guides the most important developments in the area of education https://www.hm.ee/sites/default/files/documents/2022-10/haridusvaldkonna_arenguk ava_2035_kinnittaud_vv_eng_0.pdf Its  overall objective is to equip the population of Estonia with the knowledge, skills and attitudes that prepare people to fulfil their potential in personal, occupational and social life and contribute to promoting the quality of life in Estonia as well as global sustainable  development.  Among  basic  values  of  the  strategy  are  gender equality, openness, tolerance and sustainable development.
+https://www.riigiteataja.ee/en/eli/ee/530122020003/consolide
 
 > 16 Teachers  are  prepared  to  teach  all  student  (beyond  just  students  with  disabilities),  equipping  them  with knowledge,  values  and  attitudes  that  permit  every  student  to  succeed.  See:  UNESCO  policy  paper:  Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
@@ -406,13 +412,18 @@ https://www.riigiteataja.ee/en/eli/ee/530122020003/consolide Education Strategy 
 
 [[START OF PAGE 14]]
 
-Education Strategy is the basis on which the government will make its decisions for educational  funding  and  for  supporting  the  achievement  of  necessary changes. Its strategic  goals  are:  1.  Learning  opportunities  are  diverse  and  accessible  and  the education system enables smooth transitions between levels and types of education; 2.  Estonia  has  competent  and  motivated  teachers  and  heads  of  schools,  a  diverse learning  environment  and  a  learner  centred  approach  to  learning  and  teaching;  3. Learning options are responsive to the development needs of society and the labour market.
+Education Strategy 2021-2035 adopted in 2021 guides the most important developments in the area of education
+https://www.hm.ee/sites/default/files/documents/2022-10/haridusvaldkonna_arengukava_2035_kinnittaud_vv_eng_0.pdf
+
+Its overall objective is to equip the population of Estonia with the knowledge, skills and attitudes that prepare people to fulfil their potential in personal, occupational and social life and contribute to promoting the quality of life in Estonia as well as global sustainable development. Among basic values of the strategy are gender equality, openness, tolerance and sustainable development.
+
+Education Strategy is the basis on which the government will make its decisions for educational funding and for supporting the achievement of necessary changes. Its strategic goals are: 1. Learning opportunities are diverse and accessible and the education system enables smooth transitions between levels and types of education; 2. Estonia has competent and motivated teachers and heads of schools, a diverse learning environment and a learner centred approach to learning and teaching; 3. Learning options are responsive to the development needs of society and the labour market.
 
 Other initiatives to put the principles in practice are following:
 
 ##### Cohesive Estonia Strategy 2030
 
-https://www.kul.ee/sites/default/files/documents/2022-02/cohesive_estonia_strategy.p df
+https://www.kul.ee/sites/default/files/documents/2022-02/cohesive_estonia_strategy.pdf
 
 Its  general  objective  is  to  assure  that  Estonia  is  a  cohesive  and  inclusive  society, among  its  strategic  goals  is  stressed  that  Estonian  society  is  cohesive  and  stable where people from different linguistic and cultural backgrounds carry the Estonian identity,  participate  actively  in  social  life,  share  democratic  values  and  a  common cultural,  information  and  communication space, and feel a sense of unity. Everyone has  equal  opportunities  for  successful  independent  coping  and  well-being  for  all people living in Estonia.
 
@@ -424,33 +435,33 @@ Its  general  objective  is  to  assure  that  Estonia  is  a  cohesive  and  in
 
 #### Other relevant general measures, including gender equality
 
-Legislation provides for gender equality in education
+☑ Legislation provides for gender equality in education
 
-Policy measures aim to enhance gender equality
+☑ Policy measures aim to enhance gender equality
 
-Gender-responsive education sector planning is undertaken
+☐ Gender-responsive education sector planning is undertaken
 
-Providing positive or affirmative action measures
+☐ Providing positive or affirmative action measures
 
-Providing financial incentives and fellowships
+☐ Providing financial incentives and fellowships
 
-Teachers are trained (initial and in-service) on gender equality
+☑ Teachers are trained (initial and in-service) on gender equality
 
-Teachers are trained to combat stigmatisation 19
+☑ Teachers are trained to combat stigmatisation 19
 
-□ Other:
+☐ Other:
 
-All  barriers  for  pregnant  girls  and young mothers in education are eliminated to ensure the continuity of their education
+☑ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
-Re-entry programmes for young mothers are provided for
+☐ Re-entry programmes for young mothers are provided for
 
-Ensuring safe and adequate gender-sensitive sanitation facilities 20
+☐ Ensuring safe and adequate gender-sensitive sanitation facilities 20
 
-Curricula are rid of all stereotypes 21 and bias
+☑ Curricula are rid of all stereotypes 21 and bias
 
-Ensuring gender parity in science, technology, engineering and mathematics (STEM)
+☑ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
-Ensuring gender parity in technical and vocational training education and training (TVET)
+☐ Ensuring gender parity in technical and vocational training education and training (TVET)
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -478,15 +489,15 @@ Boys  and  men  are  overrepresented  among  those  with  lower  educational  ac
 
 Please  note  that  child  marriage is  a  discriminatory  practice  as  often  girls  can  marry  at  a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-Yes
+☑ Yes
 
-No
+☐ No
 
 - Please  provide  reference  to  the  relevant  laws  and  provisions  and  indicate  the exceptions to the legal age of marriage as well as the absolute minimum age:
 
 According to Estonian Family Law Act:
 
-- Only adults may get married.
+(2) Only adults may get married.
 
 https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/515092023004/consolide
 
@@ -498,21 +509,21 @@ https://www.riigiteataja.ee/akt/122032024002
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
-Legislation provides for the right to education of national minorities
+☑ Legislation provides for the right to education of national minorities
 
-Policy measures aim to enhance the right to education of national minorities
+☑ Policy measures aim to enhance the right to education of national minorities
 
-Policy elaboration includes consultations with local communities
+☑ Policy elaboration includes consultations with local communities
 
-The right to carry out their own educational activities is legally guaranteed for national minorities
+☑ The right to carry out their own educational activities is legally guaranteed for national minorities
 
-Teachers are trained on intercultural education
+☑ Teachers are trained on intercultural education
 
-- Teachers are trained to combat stigmatisation 24
+☑ Teachers are trained to combat stigmatisation 24
 
-Multilingual and intercultural education are supported
+☑ Multilingual and intercultural education are supported
 
-Native language instruction is ensured for national minorities
+☐ Native language instruction is ensured for national minorities
 
 > 22 Please  note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances,  provided  that the child is at least 16 years of age and that such decisions are made by a judge based  on  legitimate  exceptional  grounds  defined  by  law  and  on the evidence of maturity, without deference to culture and tradition.'
 
@@ -522,17 +533,17 @@ Native language instruction is ensured for national minorities
 
 [[START OF PAGE 17]]
 
-- Educational standards are established for educational institutions run by national minorities
+☑ Educational standards are established for educational institutions run by national minorities
 
-- Positive or affirmative action measures are provided for national minorities
+☑ Positive or affirmative action measures are provided for national minorities
 
-- Financial incentives and fellowships are provided for national minorities
+☑ Financial incentives and fellowships are provided for national minorities
 
-Other 23 :
+☐ Other 23:
 
-- Adapting curricula and teaching and learning methods to their needs for national minorities
+☑ Adapting curricula and teaching and learning methods to their needs for national minorities
 
-- Curricula are rid of all stereotypes 25 and bias
+☑ Curricula are rid of all stereotypes 25 and bias
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -544,9 +555,7 @@ In  addition,  the  general  competencies  of  the  state  curricula  for  prima
 
 > 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
-25
-
-> Supra note 16.
+> 25 Supra note 16.
 
 [[END OF PAGE 17]]
 
@@ -562,13 +571,15 @@ sense;  to  value  universal  and  societal  values,  to  value  human,  cultura
 
 Since  the  Second  World  War,  the  Estonian  school  system  has  been  divided  into schools with Estonian as the main language of instruction and schools with Russian as  the  main  language of instruction. It  has  been  observed  that  students  in  schools with Russian as the main language of instruction underperform Estonian students in both national exams and international tests, such as PISA, TIMSS, and ICCS.  To tackle  long-standing  educational  inequality  and  gap  in  academic  achievement compared  to  Estonian-language  schools,  the government has decided to unify the Estonian  education  system  by  2030.  The  reform  aims  to  provide  high-quality education  in  Estonian  to  all  students,  from  primary  to  higher  education. The transition to official-language education supports the formation of the Estonian state identity, increases  the  cohesion  of  society  and  reduces  both  educational  and socio-economic isolation.
 
-The  current  transition  to  Estonian-language  education  is  set  to  begin  in  the kindergartens and in grade 1 and grade 4 from the 2024/2025 school year, with the aim of completing the process by 2030. The latest reforms constitute a final step in a long and gradual process that was set in motion in 1991 and shall be completed by 2030. After regaining independence on 20 August 1991, Estonia initiated transition from  a  totalitarian  regime  to  a  democratic  system  based  on  the  rule  of  law  and respect for human rights. According to the article 6 of the Constitution, the official language of Estonia is Estonian. Article 36 paragraph 4 of the Constitution stipulates that  everyone  has the right to be taught in Estonian. It further underlines that the language of instruction in national minority educational institutions shall be chosen by  the  educational  institution.  The  Education  Act  adopted  in  1992  introduced  the principles for organising the education system. Under section 4 (2) of the act, the state  and  local  government  were  entrusted  with  the  obligation  to  ensure  that opportunities  exist  for  the  acquisition  of  education  in  Estonian  at  all  levels  of education in public  educational institutions and universities. The actual transition to Estonian language instruction in Russian language schools of the public education system  was  envisaged  as  a  gradual  process.  In  the  Basic  and  Upper  Secondary School Act of 1993 it was decided that the transition in public (state and municipal) upper secondary school was to take place from 1993 to 2000. In 1997 that act was amended  and  the  transition  was  to begin no later than 2007-2008 academic year. Starting from 1997 every year one additional subject was to be taught in Estonian so that  by  the  2011-2012  academic year all public Russian medium upper secondary schools were to have at least 60% of studies in Estonian. By 1 September 2013 the transition  to  the  Estonian  language  of  instruction  was  completed,  and  all  public upper  secondary  level  Russian  language schools, which had not yet done so, had introduced Estonian as the language of instruction in at least 60% of the studies. The transition  has  been a step-by-step gradual and longitudinal transition process in the public education system. All interested minority groups and individuals have been able  to  participate  in  the  process  over  the  years.  The  cultural  and  language-based needs arising from the ethnic origin of the school's student body  are regulated by the Regulation of the Government 'Conditions and procedure for creating opportunities for language and cultural studies', according to it all students whose mother tongue is different from the language of instruction have the right to receive 2  lessons  a  week  of  learning their mother tongue and culture.  As an alternative to language  study  groups,  national  minorities  also  organise  language  and  cultural studies  at  hobby  schools  which  receive  systematic  support  from  the  Ministry  of Education and Research.
+The current transition to Estonian-language education is set to begin in the kindergartens and in grade 1 and grade 4 from the 2024/2025 school year, with the aim of completing the process by 2030. The latest reforms constitute a final step in a long and gradual process that was set in motion in 1991 and shall be completed by 2030. After regaining independence on 20 August 1991, Estonia initiated transition from a totalitarian regime to a democratic system based on the rule of law and respect for human rights. According to the article 6 of the Constitution, the official language of Estonia is Estonian. Article 36 paragraph 4 of the Constitution stipulates that everyone has the right to be taught in Estonian. It further underlines that the language of instruction in national minority educational institutions shall be chosen by the educational institution. The Education Act adopted in 1992 introduced the principles for organising the education system. Under section 4 (2) of the act, the
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-The primary objective of the transition to official-language education is to provide all  children  living  in  Estonia  with  high-quality  education  in  the  official  language, regardless of their native language.  An  entirely  official-language  educational environment also ensures better opportunities for further education, success in the labour market, and people's participation in the common Estonian information and value space.
+state and local government were entrusted with the obligation to ensure that opportunities exist for the acquisition of education in Estonian at all levels of education in public educational institutions and universities. The actual transition to Estonian language instruction in Russian language schools of the public education system was envisaged as a gradual process. In the Basic and Upper Secondary School Act of 1993 it was decided that the transition in public (state and municipal) upper secondary school was to take place from 1993 to 2000. In 1997 that act was amended and the transition was to begin no later than 2007-2008 academic year. Starting from 1997 every year one additional subject was to be taught in Estonian so that by the 2011-2012 academic year all public Russian medium upper secondary schools were to have at least 60% of studies in Estonian. By 1 September 2013 the transition to the Estonian language of instruction was completed, and all public upper secondary level Russian language schools, which had not yet done so, had introduced Estonian as the language of instruction in at least 60% of the studies. The transition has been a step-by-step gradual and longitudinal transition process in the public education system. All interested minority groups and individuals have been able to participate in the process over the years. The cultural and language-based needs arising from the ethnic origin of the school's student body are regulated by the Regulation of the Government “Conditions and procedure for creating opportunities for language and cultural studies”, according to it all students whose mother tongue is different from the language of instruction have the right to receive 2 lessons a week of learning their mother tongue and culture. As an alternative to language study groups, national minorities also organise language and cultural studies at hobby schools which receive systematic support from the Ministry of Education and Research.
+
+The primary objective of the transition to official-language education is to provide all children living in Estonia with high-quality education in the official language, regardless of their native language. An entirely official-language educational environment also ensures better opportunities for further education, success in the labour market, and people's participation in the common Estonian information and value space.
 
 The  current changes are therefore based on long-term experience and constitute a part  of  the  gradual  transition  process  of  the  national  education  system.  Over  the years, all interested minority groups and individuals have been able to participate in various stages of this process, from the level of policy making and implementation to  specific  decisions  at  the  level  of  government  and  municipalities,  including  in challenging  individual  acts  of  national  authorities  in  national  and  international courts.  Therefore,  over  the  decades,  the  education  reform  has  provided  minorities with ample  opportunity to engage  in  dialogue  with  municipalities  and  state authorities and to express their viewpoints and concerns as well as to challenge the policies and measures of the state and municipalities.
 
@@ -630,17 +641,17 @@ N/A
 
 #### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 28 :
 
-Legislation provides for their right to education
+☑ Legislation provides for their right to education
 
-Policy measures aim to enhance their right to education
+☑ Policy measures aim to enhance their right to education
 
-Inclusion in mainstream schools is ensured
+☑ Inclusion in mainstream schools is ensured
 
-Financial incentives and fellowships are provided for
+☑ Financial incentives and fellowships are provided for
 
-Auxiliary assistance is provided
+☑ Auxiliary assistance is provided
 
-Multiple and flexible learning pathways 31 are provided
+☑ Multiple and flexible learning pathways 31 are provided
 
 > 26 Supra note 15.
 
@@ -654,27 +665,27 @@ Multiple and flexible learning pathways 31 are provided
 
 [[START OF PAGE 22]]
 
-Positive or affirmative action measures are provided for
+☑ Positive or affirmative action measures are provided for
 
-All administrative barriers to access education are removed
+☑ All administrative barriers to access education are removed
 
-Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29 are provided for
+☑ Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29 are provided for
 
-- Teachers are specifically trained to ensure their inclusion
+☑ Teachers are specifically trained to ensure their inclusion
 
-Teachers are trained to combat stigmatisation 30
+☑ Teachers are trained to combat stigmatisation 30
 
-□ Other:
+☐ Other:
 
-- Curricula are rid of all stereotypes 32 and bias
+☑ Curricula are rid of all stereotypes 32 and bias
 
-- Accelerated learning programmes are provided
+☑ Accelerated learning programmes are provided
 
-- Non-formal and/or alternative education programmes are provided
+☑ Non-formal and/or alternative education programmes are provided
 
-- Language classes to newcomers are provided for
+☑ Language classes to newcomers are provided for
 
-- Multilingualism and intercultural education are encouraged
+☑ Multilingualism and intercultural education are encouraged
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -684,7 +695,7 @@ Following the Ukrainian war, approximately 4% of all students in the school syst
 
 In  collaboration  with  the  Government of Ukraine and the Ukrainian community in Estonia, schools have been able to utilize free digital teaching materials in Ukrainian and  have  provided  support  for  distance  learning,  using  the  Ukrainian  national curricula. Kindergartens, general education schools, and vocational training institutions have hired Ukrainian teachers and  support  specialists  as  teaching assistants.
 
-There  is  no  national  requirement  to  hold  an  open  competition  for  the  position  of teaching assistant, nor are there centrally established qualification requirements. This flexibility  facilitates  the  recruitment  of  Ukrainian  specialists  and  allows  for  the possibility of concluding an open-ended employment contract if desired. Furthermore, all unaccompanied children have received the necessary care, supervision, and access to formal education.
+There is no national requirement to hold an open competition for the position of teaching assistant, nor are there centrally established qualification requirements. This
 
 > 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle  to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
@@ -696,11 +707,13 @@ There  is  no  national  requirement  to  hold  an  open  competition  for  the 
 
 [[START OF PAGE 23]]
 
+flexibility facilitates the recruitment of Ukrainian specialists and allows for the possibility of concluding an open-ended employment contract if desired. Furthermore, all unaccompanied children have received the necessary care, supervision, and access to formal education.
+
 - Have specific measures been adopted for climate displaced persons?
 
-Yes
+☐ Yes
 
-No
+☑ No
 
 - Please elaborate:
 
@@ -712,35 +725,35 @@ Convincing the refugee families to enrol the school-aged children into the local
 
 #### People with disabilities:
 
-Legislation provides for their right to education
+☑ Legislation provides for their right to education
 
-Policy measures aim to enhance their right to education
+☑ Policy measures aim to enhance their right to education
 
-Inclusion in mainstream schools is ensured
+☑ Inclusion in mainstream schools is ensured
 
-Special schools are used as resource centers to inclusive schools
+☐ Special schools are used as resource centers to inclusive schools
 
-Positive or affirmative action measures are provided
+☑ Positive or affirmative action measures are provided
 
-Financial incentives and fellowships are provided
+☑ Financial incentives and fellowships are provided
 
-Other
+☑ Other
 
-Mainstream teachers are specifically trained on disabilities
+☑ Mainstream teachers are specifically trained on disabilities
 
-Teachers are trained to combat stigmatisation 33
+☑ Teachers are trained to combat stigmatisation 33
 
-- Auxiliary assistance is provided
+☑ Auxiliary assistance is provided
 
-Curricula and teaching and learning methods are adapted
+☑ Curricula and teaching and learning methods are adapted
 
-Curricula are rid of all stereotypes 34 and bias
+☑ Curricula are rid of all stereotypes 34 and bias
 
-Education infrastructure and learning materials are adapted
+☑ Education infrastructure and learning materials are adapted
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-For the implementation of the Estonian Education Strategy and its strategic goal Estonia has  competent  and  motivated  teachers  and  heads  of  schools,  a  diverse  learning environment and a learner centred approach to learning and teaching an intervention for  the  educational  support  services  has  been  adopted  (see  'Hariduse  tugiteenused'  https://rajaleidja.ee/wp-content/uploads/2024/01/Lisa_Sekkumise-%E2%80%9EHaridus e-tugiteenused-elluviimiseks-toetuse-andmise-tingimused_0.pdf). As children and youth have different abilities, needs and interests, many of them need counselling and support at different stages of their lives in order to unlock their potential and, in many instances, overcome challenges in their education path. There is also a growing number of children in kindergartens and schools who need help from support specialists to a various extent in order to achieve the goals of the curriculum. The goal of study counselling is to better understand  everyone's  individual  needs  and  provide  support  to  students  with  special needs for participating in learning that corresponds to their abilities.
+For the implementation of the Estonian Education Strategy and its strategic goal Estonia has competent and motivated teachers and heads of schools, a diverse learning environment and a learner centred approach to learning and teaching an intervention
 
 > 33 Supra note 15.
 
@@ -750,7 +763,9 @@ For the implementation of the Estonian Education Strategy and its strategic goal
 
 [[START OF PAGE 24]]
 
-Counselling and support of students carried out in a timely manner decreases the number of  people  who cut their education path short and the number of school drop-outs and creates conditions for an increased share of students at higher levels of education.
+for the educational support services has been adopted (see “Hariduse tugiteenused” - https://rajaleidja.ee/wp-content/uploads/2024/01/Lisa_Sekkumise-%E2%80%9EHariduse-tugiteenused-elluviimiseks-toetuse-andmise-tingimused_0.pdf). As children and youth have different abilities, needs and interests, many of them need counselling and support at different stages of their lives in order to unlock their potential and, in many instances, overcome challenges in their education path. There is also a growing number of children in kindergartens and schools who need help from support specialists to a various extent in order to achieve the goals of the curriculum. The goal of study counselling is to better understand everyone's individual needs and provide support to students with special needs for participating in learning that corresponds to their abilities.
+
+Counselling and support of students carried out in a timely manner decreases the number of people who cut their education path short and the number of school drop-outs and creates conditions for an increased share of students at higher levels of education.
 
 The goal of the intervention is to ensure the uniform availability of education support services throughout the country so that all learners can maximise their full potential and participate in the learning that corresponds to their abilities and allows them to maximise their  full  potential,  regardless  of  their  social  or  economic  background,  nationality, gender or special needs ect;
 
@@ -792,7 +807,7 @@ To ensure the quality of educational counselling services:
 
 2.5.  Network seminars, training sessions, peer reviews, and supervisions are conducted and organised for educational counselling specialists.
 
-###### Empowerment  of  Local  Governments  for  Organizing  Educational  Support Services
+###### 3) Empowerment of Local Governments for Organizing Educational Support Services
 
 In  cooperation with local governments and associations of local authorities, conditions are  created  to  enhance  the  capacity  of  educational  institution  organisers  to  advise educational  institutions  on  implementing  inclusive  school  culture  and  learner-centred education. To ensure the development support of local governments:
 
@@ -818,17 +833,17 @@ The main challenges in the national inclusive education policy are clarifying th
 
 It  is  a  challenge  to  prepare  teachers  to  use  inclusive  classroom  strategies  and  work  to principles of inclusive pedagogy.
 
-https://www.european-agency.org/sites/default/files/CSM%20Country%20Report%20Esto nia.pdf
+https://www.european-agency.org/sites/default/files/CSM%20Country%20Report%20Estonia.pdf
 
 #### Students from poor households:
 
-- Financial incentives and fellowships for school enrolment are provided
+☑ Financial incentives and fellowships for school enrolment are provided
 
-- Transport, meals and education material are subsidised or provided free  of  charge  beyond compulsory education
+☑ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
-- Teachers are trained to combat stigmatisation
+☑ Teachers are trained to combat stigmatisation
 
-- Curricula are rid of all stereotypes and bias
+☑ Curricula are rid of all stereotypes and bias
 
 [[END OF PAGE 26]]
 
@@ -846,7 +861,7 @@ In  general  education,  free  school  meals  are  provided  in  both  primary  
 
 - What challenges were encountered in realizing the right to education of students from poor households? If needed, brief quantitative information may be added.
 
-## Progress  made  with  respect  to  implementing the right to education across all levels and forms of education
+## 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 ### 2.1 Early childhood care and education
 
@@ -926,19 +941,19 @@ Enrolment is at 7 years-of-age; compulsory  until the completion of primary and 
 
 - Is primary education compulsory and free of charge?
 
-Primary education is compulsory
+☑ Primary education is compulsory
 
-Primary education is not compulsory.
+□ Primary education is not compulsory.
 
-Primary education is free of charge.
+☑ Primary education is free of charge.
 
-Primary education is not free.
+□ Primary education is not free.
 
 - Please  list  the  relevant  laws  and  policies.  Where  applicable,  provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory  levies on parents). Brief quantitative information may be added.
 
 All  persons  residing  in  Estonia  have  the  right  and  obligation  to  acquire  primary education  (grades  1-9).  Primary  education  is  free  of  charge  at  municipal  and  state owned schools. A child is at the age of compulsory school attendance if he or she is seven  years  old  by  the  1st  of  October  of  the  current  year.  The  obligation  to  attend schools lasts until primary education is acquired or until a student attains 17 years of age.
 
-https://www.hm.ee/en/education-research-and-youth-affairs/general-education/general -education-estonia
+https://www.hm.ee/en/education-research-and-youth-affairs/general-education/general-education-estonia
 
 Basic Schools and Upper Secondary Schools Act:
 
@@ -950,29 +965,29 @@ https://www.riigiteataja.ee/en/eli/ee/521062016007/consolide/current
 
 - What challenges were encountered in realizing primary education?
 
-Limited access
+□ Limited access
 
-Issues of equity and inclusion
+□ Issues of equity and inclusion
 
-High dropout rates
+□ High dropout rates
 
-Poor quality programmes
+□ Poor quality programmes
 
-Other:
+☑ Other:
 
-Poor learning outcomes in:
+□ Poor learning outcomes in:
 
-Foundation literacy
+□ Foundation literacy
 
-Numeracy
+□ Numeracy
 
-Social and emotional learning
+□ Social and emotional learning
 
-Others
+□ Others
 
-Disparity in learning outcomes
+□ Disparity in learning outcomes
 
-Low number of professionally trained teachers
+□ Low number of professionally trained teachers
 
 Consolidation of school network due to demographic changes.
 
@@ -994,25 +1009,25 @@ Upper  secondary  vocational  education  is not compulsory, and follows the comp
 
 - Is lower and upper secondary education compulsory and free of charge?
 
-Lower secondary education is compulsory.
+☑ Lower secondary education is compulsory.
 
-Lower secondary education is not compulsory.
+□ Lower secondary education is not compulsory.
 
-Lower secondary education is free of charge.
+☑ Lower secondary education is free of charge.
 
-Lower secondary education is not free of charge.
+□ Lower secondary education is not free of charge.
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-- Upper secondary education is compulsory.
+□ Upper secondary education is compulsory.
 
-- Upper secondary education is not compulsory.
+☑ Upper secondary education is not compulsory.
 
-- Upper secondary education is free of charge
+☑ Upper secondary education is free of charge
 
-- Upper secondary education is not free of charge.
+□ Upper secondary education is not free of charge.
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct  costs  (e.g.,  enrolment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
@@ -1034,7 +1049,7 @@ To this aim, infrastructure will be brought into line with the contemporary appr
 
 [[START OF PAGE 32]]
 
-- Ensuring flexible learning opportunities, accessibility of high-quality education and supported learning
+2) Ensuring flexible learning opportunities, accessibility of high-quality education and supported learning
 
 To this aim, the development of a common standard for secondary education in order to integrate general and vocational upper secondary education will be undertaken, greater recognition of non-formal and informal learning in formal education will be supported; the inclusion of opportunities to pursue education in smaller modules (micro-credentials, learning bites)  will  be  supported  and developing  a  holistic approach to support learners with special educational needs will be supported.
 
@@ -1044,26 +1059,26 @@ Vocational Educational Institutions Act: https://www.riigiteataja.ee/en/eli/5100
 
 For reference:  The  employment  laws  and  those  related  to  compulsory  education  are interdependent and mutually reinforce each other. If the minimum age of employment is below that  of  compulsory  education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and therefore not completing compulsory education. On the other hand, if compulsory education is  lower  than  the  minimum  age  of  employment,  once  the  child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yes
+□ Yes
 
-No
+☑ No
 
 - Please  provide  reference  to  the  relevant  laws  and  provisions  and  indicate  how  the provision is enforced:
 
 According to the Employment Contracts Act
 ##### § 7.   Entry into employment contract with minor:
 
-- An employer must not enter into an employment contract with a minor under 15 years  of  age  or  a  minor  subject  to  the  obligation  to  attend  school,  or  allow  such  a minor to work, except in the cases provided in subsection 4 of this section.
+(1) An employer must not enter into an employment contract with a minor under 15 years of age or a minor subject to the obligation to attend school, or allow such a minor to work, except in the cases provided in subsection 4 of this section.
 
-- An employer must not enter into an employment contract with a minor or allow a minor to work if the work:
+(2) An employer must not enter into an employment contract with a minor or allow a minor to work if the work:
 
-- is beyond the minor's physical or psychological capacity;
+1) is beyond the minor's physical or psychological capacity;
 
-- is likely to harm the moral development of the minor;
+2) is likely to harm the moral development of the minor;
 
-- involves  risks  which  the  minor  cannot  recognise  or  avoid  owing  to  lack  of experience or training;
+3) involves risks which the minor cannot recognise or avoid owing to lack of experience or training;
 
-- is  likely  to  hinder  the  minor's  social  development  or  the  acquisition  of  their education;
+4) is likely to hinder the minor's social development or the acquisition of their education;
 
 [[END OF PAGE 32]]
 
@@ -1101,39 +1116,39 @@ According to the Employment Contracts Act
 
 [[START OF PAGE 34]]
 
-- The labour inspector's consent for allowing a minor of 7-12 years of age to work is  presumed if the term provided in subsection 3 of this section has passed and the labour inspector has not refused to grant consent.
+(6) The labour inspector's consent for allowing a minor of 7-12 years of age to work is presumed if the term provided in subsection 3 of this section has passed and the labour inspector has not refused to grant consent.
 
-- If, in ascertaining the will of a minor of 7-12 years of age, the labour inspector has reasonable doubt that the minor is not expressing their true will in the presence of the  legal  representative,  the  labour  inspector must ascertain the will of the minor in the presence of the minor and a local child protection official.
+(7) If, in ascertaining the will of a minor of 7-12 years of age, the labour inspector has reasonable doubt that the minor is not expressing their true will in the presence of the legal representative, the labour inspector must ascertain the will of the minor in the presence of the minor and a local child protection official.
 
-- An employment contract which has been entered into with a minor of 7-12 years of age is void if as a result of verifying the circumstances provided in subsection 4 of this section the labour inspector refuses to grant consent.
+(8) An employment contract which has been entered into with a minor of 7-12 years of age is void if as a result of verifying the circumstances provided in subsection 4 of this section the labour inspector refuses to grant consent.
 
-- An employer is prohibited from allowing a minor to work without the consent or approval of a legal representative.
+(9) An employer is prohibited from allowing a minor to work without the consent or approval of a legal representative.
 
 ##### § 43.  Working time
 
 (4¹)  If  a  minor  who  is  14  years  of  age  and  studying  in  a  vocational  educational institution is completing work practice for the purposes of the Vocational Educational Institutions Act, their working time may be 7 hours a day and 35 hours over a period of seven days. Under the same conditions, the working time of a minor who is at least 15 years of age may be 8 hours a day and 40 hours over a period of seven days.
 
-- If a minor who is subject to the obligation to attend school performs light work in the field of culture, art, sports or advertising, their working time during a quarter of an academic year outside of school hours may be 3 hours a day and 12 hours over a period of seven days.
+(4²) If a minor who is subject to the obligation to attend school performs light work in the field of culture, art, sports or advertising, their working time during a quarter of an academic year outside of school hours may be 3 hours a day and 12 hours over a period of seven days.
 
 https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/523052024002/consolide
 
 - What challenges were encountered in realizing secondary education?
 
-Limited access
+□ Limited access
 
-Issues of equity and inclusion
+□ Issues of equity and inclusion
 
-High dropout rates
+□ High dropout rates
 
-Poor quality programmes
+□ Poor quality programmes
 
-Other:
+□ Other:
 
-Poor learning outcomes
+□ Poor learning outcomes
 
-Low readiness of primary graduates
+□ Low readiness of primary graduates
 
-Low number of professionally trained teachers
+□ Low number of professionally trained teachers
 
 Consolidation of school network due to demographic changes.
 
@@ -1147,23 +1162,23 @@ Consolidation of school network due to demographic changes.
 
 For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 37 , and target 4.4 38 . Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular  by  the  progressive  introduction  of  free education'. Higher education includes technical and vocational education and training.
 
-- Please  indicate  efforts  made  to  ensure  that  higher  education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
+- Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
-- Please  list  the  relevant  laws  and  policies.  Where  applicable,  provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, university supplies, transport, accommodation). Brief quantitative information may be added.
+☑ Higher education is free of charge
 
-Higher education is free of charge
+☑ Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
 
-- Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
+☑ Higher education is accessible through financial incentives and scholarships
 
-- Higher education is accessible through financial incentives and scholarships
+☑ Higher education is accessible through positive or affirmative action measures
 
-Higher education is accessible through positive or affirmative action measures
+☑ Higher education is accessible through credit transfer system between states
 
-Higher education is accessible through credit transfer system between states
+☑ Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
-- Higher  education  allows  for  multiple  and  flexible  learning  pathways  (flexible  entry  and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
+□ Other:
 
-Other:
+- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, university supplies, transport, accommodation). Brief quantitative information may be added.
 
 In Estonia the admission to universities are mostly merit based. A higher education institution may introduce further admission requirements, which may differ between universities. Those can be minimum scores of national exams, entrance examination or secondary education final grades, etc.
 
@@ -1179,7 +1194,7 @@ The access requirement on the first cycle of higher education is secondary educa
 
 Since the 2012/2013 academic year, higher education is free of charge in Estonia for those studying full-time and in Estonian language.
 
-https://www.hm.ee/en/education-research-and-youth-affairs/general-education/highe r-education
+https://www.hm.ee/en/education-research-and-youth-affairs/general-education/higher-education
 
 Estonia has implemented measures to simplify access to higher education to ensure that every capable person enroll for a higher education institution. Those students who are acquiring higher education can apply for a student loan, need-based study allowance, or need-based special allowance to fund their studies or apply for various different scholarships. The purpose of the study allowances is to support students in covering the additional expenses which arise from acquiring their higher education. Students are not entitled to the study allowance during academic leave or during a period of receiving a study allowance from the government of a foreign country, an international or intergovernmental organisation, or from the representation of a cooperation programme.
 
@@ -1189,31 +1204,33 @@ Need-based study allowance (150€-440€ per month) can be applied by full-time
 
 The amount of the stipend supporting the acquisition of higher education for students who have been in foster care or lived in a guardian's family is 160 euros per month. https://www.riigiteataja.ee/akt/115092023002
 
-Additionally, grants for students with special needs (disability) are implemented. The amount of the scholarship for students with special needs is
+Additionally, grants for students with special needs (disability) are implemented.
 
-The amount of the grant (60€-510€ per month) depends on the type of the disability. 1) 510 euros per month for a student with a hearing loss that corresponds to a
+The amount of the grant (60€-510€ per month) depends on the type of the disability.
 
-profound or severe disability;
+The amount of the scholarship for students with special needs is
+
+1) 510 euros per month for a student with a hearing loss that corresponds to a profound or severe disability;
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-- 148 euros per month for a student with a mobility or visual impairment which corresponds to a profound or severe disability;
+2) 148 euros per month for a student with a mobility or visual impairment which corresponds to a profound or severe disability;
 
-- 80 euros per month for a student with a profound or severe disability other than those mentioned in clauses 1) and 2);
+3) 80 euros per month for a student with a profound or severe disability other than those mentioned in clauses 1) and 2);
 
-- 325 euros per month for a student with a hearing disability which corresponds to a moderate disability;
+4) 325 euros per month for a student with a hearing disability which corresponds to a moderate disability;
 
-- 68 euros per month for a student with a mobility or visual impairment which corresponds to a moderate disability;
+5) 68 euros per month for a student with a mobility or visual impairment which corresponds to a moderate disability;
 
-- 60 euros per month for a student with a moderate disability other than those mentioned in clauses 4) and 5).
+6) 60 euros per month for a student with a moderate disability other than those mentioned in clauses 4) and 5).
 
 Also some special cases are introduced like students with moderate, severe or profound disability, are entitled to complete the curriculum during the period of academic leave. https://www.harno.ee/erivajadusega-uliopilaste-stipendium In addition students can apply for a professional scholarship. The purpose of the professional scholarship is to motivate students to study full-time in priority areas. The amount of the professional scholarship is 160 euros per month. The size of the professional scholarship for priority informatics and information technology study programs is 160-300 euros per month. https://www.riigiteataja.ee/akt/115092023002
 
 Doctoral students are guaranteed the position of junior researchers, which would ensure them the income and social guarantees related to the employment contract. The state finances the jobs of junior researchers to the extent of the Estonian average salary.
 
-https://www.hm.ee/sites/default/files/documents/2024-03/Teaduss%C3%BCsteemi% 20programm%202024-2027.pdf
+https://www.hm.ee/sites/default/files/documents/2024-03/Teaduss%C3%BCsteemi%20programm%202024-2027.pdf
 
 Students are also able to apply for a study loan. A study loan is a state-guaranteed long-term loan to students who are Estonian citizens or are staying in Estonia on the basis of a long-term residence permit or permanent right of residence. The maximum rate for study loan secured by the state per applicant per academic year will be established by the Government of the Republic of Estonia annually by 1 July. A loan may be applied for at any time during the academic year, from mid-September to 1st of June and it is available from all major commercial banks. In 2024, the maximum amount of the student loan is 3,000 euros. The eligibility criteria and conditions are regulated by the Study Allowances and Study Loans Act: https://www.riigiteataja.ee/en/eli/ee/515112013011/consolide/current
 
@@ -1247,33 +1264,35 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please  indicate  the  measures  taken  to  establish  a  system  of  continuing  education  and equitable access to learning and training opportunities (several items may be ticked):
 
-Provision of education for persons who have not received or completed the whole period of their primary education
+☑ Provision of education for persons who have not received or completed the whole period of their primary education
 
-Provision  of  literacy  programmes  not  applicable,  the  literacy  rate  in  Estonia  is  nearly 100%.
+□ Provision of literacy programmes - not applicable, the literacy rate in Estonia is nearly 100%.
 
-Provision  of  continuous  learning  (such  as  learning  programmes  to  develop  knowledge, skills, abilities, or competencies for personal and professional development)
+☑ Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
 
-Provision of free of charge learning opportunities
+☑ Provision of free of charge learning opportunities
 
-Provision of professional training including reskilling and upskilling programmes
+☑ Provision of professional training including reskilling and upskilling programmes
 
-Recognition, validation and certification of non-formal and informal learning
+☑ Recognition, validation and certification of non-formal and informal learning
 
-Provision of free of charge career guidance and counselling
+☑ Provision of free of charge career guidance and counselling
 
-Lifelong learning entitlements including learning accounts, vouchers, etc.
+☑ Lifelong learning entitlements including learning accounts, vouchers, etc.
 
-Other:
+□ Other:
 
 - Please elaborate further on the measures taken:
 
 Adult education is divided into formal education, non-formal work-related training and retraining, and informal education
 
-https://www.hm.ee/en/education-research-and-youth-affairs/general-education/adult -education#legislation Flexible study opportunities have been created for adult learners: distance learning and evening courses, external study and part-time study, as well as participation in various courses.
+https://www.hm.ee/en/education-research-and-youth-affairs/general-education/adult-education#legislation
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+Flexible study opportunities have been created for adult learners: distance learning and evening courses, external study and part-time study, as well as participation in various courses.
 
 Formal education acquired within the adult education system allows adults to acquire basic and general secondary education at adult upper secondary schools through distance learning, evening courses or external study. Adult upper secondary schools are flexible in preparing individual curricula and adapt the study process to the needs of the students, allowing them to study single subjects, for example.
 
@@ -1281,7 +1300,7 @@ Education is free of charge from basic to higher education. Until now, vocationa
 
 In addition to formal education, institutions of vocational education and higher education are providing increasingly more continuing education courses and retraining courses. These courses allow adults to acquire and improve their professional, occupational and speciality knowledge, skills and experience as well as to retrain themselves. Some training is linked to people's interests and hobbies.
 
-There are about 400 000 learners taking part in trainings (courses) every year. https://www.haridussilm.ee/ee/taiskasvanuharidus/taiskasvanuharidus/taienduskooli tus
+There are about 400 000 learners taking part in trainings (courses) every year. https://www.haridussilm.ee/ee/taiskasvanuharidus/taiskasvanuharidus/taienduskoolitus
 
 There are officially provided about 85 000 different courses per year. Training courses allow students to develop their creativity, talents and social skills also. Such training is usually linked to people's interests and hobbies. Although this training is mainly provided by informal education centres, it is also available at many other training institutions.
 
@@ -1305,7 +1324,7 @@ Official trainings end with the assessment of the learning outcomes and, upon th
 
 Priority target groups in Estonia:
 
-- Adults with lower levels of education, early school leavers https://www.haridussilm.ee/ee/taiskasvanuharidus/taiskasvanuharidus/harid ustase-ja-osalus-oppes;
+- Adults with lower levels of education, early school leavers https://www.haridussilm.ee/ee/taiskasvanuharidus/taiskasvanuharidus/haridustase-ja-osalus-oppes;
 
 - Adults without professional qualification;
 
@@ -1315,7 +1334,7 @@ Priority target groups in Estonia:
 
 #### Support systems:
 
-- Recognition of prior learning and work experience https://www.hm.ee/en/education-research-and-youth-affairs/recognition-pri or-learning-and-work-experience.
+- Recognition of prior learning and work experience https://www.hm.ee/en/education-research-and-youth-affairs/recognition-prior-learning-and-work-experience.
 
 - Career counselling offered by the Unemployment Office for unemployed and employed adults and is free for everyone. https://www.tootukassa.ee/en/karjaarikujundajale/karjaarikujundamine
 
@@ -1329,7 +1348,7 @@ Priority target groups in Estonia:
 
 - a private school which has got in the framework of the study programme an activity licence or a registration entry in the Estonian Education Information System (EHIS) or the right to provide a higher education or
 
-- a foreign educational establishment of equal status with the aforementioned, or for studying on fee-charging courses organised by such educational establishments. https://www.emta.ee/en/private-client/taxes-and-payment/tax-incenti ves/training-expenses
+- a foreign educational establishment of equal status with the aforementioned, or for studying on fee-charging courses organised by such educational establishments. https://www.emta.ee/en/private-client/taxes-and-payment/tax-incentives/training-expenses
 
 - The state supports the professional training of adult educators and the development of the quality of educational institutions.
 
@@ -1337,13 +1356,13 @@ Priority target groups in Estonia:
 
 [[START OF PAGE 41]]
 
-https://eurydice.eacea.ec.europa.eu/national-education-systems/estonia/adult -education-and-training-funding
+https://eurydice.eacea.ec.europa.eu/national-education-systems/estonia/adult-education-and-training-funding
 
 The acquisition of basic and general secondary education through evening courses, distance learning and external study is free for the adult learner.
 
 In the field of vocational education, many flexible forms of vocational training and forms of study have been implemented for adult learners, with part-time study provided for the learners free of charge.
 
-https://www.hm.ee/en/education-research-and-youth-affairs/general-education/adult -education
+https://www.hm.ee/en/education-research-and-youth-affairs/general-education/adult-education
 
 Part-time study is usually not free for students in the field of higher education. In order to be able to obtain a state-funded study place, the learner must apply for a full-time study programme. Free part-time higher education is provided in nationally prioritised fields, e.g. for teachers without a higher education.
 
@@ -1385,21 +1404,21 @@ For  reference:  Articles/Paragraphs  2,  4(b)  and  5(b)  of  the  Convention/R
 
 - Please  indicate  whether  the  legal  or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
-State monitoring and inspections
+□ State monitoring and inspections
 
-Health and sanitation
+☑ Health and sanitation
 
-- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
+☑ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
-- Infrastructure
+☑ Infrastructure
 
-- Curriculum
+☑ Curriculum
 
-Student-teacher ratio
+☑ Student-teacher ratio
 
-School fees (if relevant)
+□ School fees (if relevant)
 
-Other
+□ Other
 
 - Please elaborate on each of the measures taken:
 
@@ -1425,21 +1444,21 @@ https://www.riigiteataja.ee/en/eli/ee/VV/reg/524092014013/consolide
 
 - What challenges were encountered in realizing quality education?
 
-Non-supportive or inadequate learning environments
+□ Non-supportive or inadequate learning environments
 
-Violence in schools
+□ Violence in schools
 
-Cost of education
+□ Cost of education
 
-Conflicts or crises
+□ Conflicts or crises
 
-Other:
+☑ Other:
 
-Low quality educational infrastructure and materials
+□ Low quality educational infrastructure and materials
 
-Inadequate parental support to education
+□ Inadequate parental support to education
 
-Long distances to schools
+□ Long distances to schools
 
 Demographic changes and the need to consolidate the school network.
 
@@ -1483,11 +1502,11 @@ The planned cost of the programme for 2021-2024 is aprrox. 2,2 billion Euro. The
 
 #### Actions:
 
-- The  principles  of  contemporary  approach  to  learning  and  teaching  are implemented at all levels and in all type of education in order to ensure that the process and content of learning support the development of self-directed learners,  empowering  both  learners  and  teachers,  including  vocational teachers, university teachers and trainers
+1) The principles of contemporary approach to learning and teaching are implemented at all levels and in all type of education in order to ensure that the process and content of learning support the development of self-directed learners, empowering both learners and teachers, including vocational teachers, university teachers and trainers
 
 For this end ….
 
-- Ensuring that the next generation of  qualified  school  and  university teachers,  educators,  and  support  specialists  have  flexible  opportunities  to
+2) Ensuring that the next generation of qualified school and university teachers, educators, and support specialists have flexible opportunities to
 
 [[END OF PAGE 44]]
 
@@ -1497,7 +1516,7 @@ enter  the  profession,  as  well  as  providing  support  for  new  teachers  a
 
 For this end
 
-- Ensuring a new generation of heads of schools, supporting their professional development, and developing and implementing an assessment system for heads  of  schools  in  order  to  promote  educational  innovation  and  create  a safe  learning  environment that supports the physical and mental health and wellbeing of all.
+3) Ensuring a new generation of heads of schools, supporting their professional development, and developing and implementing an assessment system for heads of schools in order to promote educational innovation and create a safe learning environment that supports the physical and mental health and wellbeing of all.
 
 Additionally, a teacher action plan was adopted in 2022 and is being implemented to improve the working conditions, training and career progression of teachers; it also covers support specialists, school leaders and school managers. It focuses on developing leadership quality and organisational culture as key to improving the reputation of the teaching profession, bringing new teachers into schools and giving them job security.
 
@@ -1509,7 +1528,7 @@ Additionally, a teacher action plan was adopted in 2022 and is being implemented
 
 - A new career model for teachers is also being developed.
 
-https://op.europa.eu/webpub/eac/education-and-training-monitor-2023/en/country-r eports/estonia.html
+https://op.europa.eu/webpub/eac/education-and-training-monitor-2023/en/country-reports/estonia.html
 
 The Development Plan for the Education Sector 2021-2035 has set the goal that the average salary of general education and vocational education teachers must be 120 percent of the Estonian average salary, and the salary of kindergarten teachers must be 100 percent of the Estonian average salary.
 
@@ -1521,27 +1540,27 @@ In 2024, the calculated average salary of teachers increased by 6.6% to 2184 eur
 
 Students studying to become  teachers can apply for the teacher training scholarship.  The  aim  of  the  scholarship  is  to  value  learning  as  a  teacher,  to recognise the teacher's profession in Estonian society, and thereby to increase the number  of  candidates  for  teacher  training  and  those  who  acquire  the  teacher's profession.
 
-Scholarship is funded by the Estonian government. Each year the scholarship will be paid to hundred students. Scholarship is 160 euros per month and is allocated twice a year for 5 months at a time: for autumn semester and spring semester.https://harno.ee/en/scholarships-and-grants/scholarships-studying-and-wor king-estonia/teacher-training-programme
+Scholarship is funded by the Estonian government. Each year the scholarship will be paid to hundred students. Scholarship is 160 euros per month and is allocated twice a year for 5 months at a time: for autumn semester and spring semester.https://harno.ee/en/scholarships-and-grants/scholarships-studying-and-working-estonia/teacher-training-programme
 
 For those students who started their studies in teacher training or support specialist training curricula from the 2023/2024 academic year, the amount of the scholarship
 
-is 400 euros when studying full-time. https://www.hm.ee/uudised/opetajaks-oppijad-hakkavad-saama-suuremat-stipendiu mi
+is 400 euros when studying full-time. https://www.hm.ee/uudised/opetajaks-oppijad-hakkavad-saama-suuremat-stipendiumi
 
 Training and development activities: https://www.hm.ee/en/education-research-and-youth-affairs/teacher-policy
 
 - What challenges were encountered in the education personnel?
 
-Shortages of teaching staff
+□ Shortages of teaching staff
 
-Lack of qualified, trained and motivated teaching staff
+□ Lack of qualified, trained and motivated teaching staff
 
-Lack of training centres
+□ Lack of training centres
 
-Other:
+☑ Other:
 
-Low quality educational infrastructure and materials
+□ Low quality educational infrastructure and materials
 
-High student - teacher ratio
+□ High student - teacher ratio
 
 Retaining the personnel.
 
@@ -1559,15 +1578,15 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 -  Please  indicate  the  national  efforts  taken  in  directing education to the full development of the  human  personality  and  the  strengthening  of  respect  for  human rights and fundamental freedoms (several items may be ticked):
 
-- Curriculum includes human rights education.
+☑ Curriculum includes human rights education.
 
-- Educational and/or extracurricular activities are organized on human rights education.
+☑ Educational and/or extracurricular activities are organized on human rights education.
 
-- Other:
+□ Other:
 
 - Please elaborate on each of the measures taken:
 
-In  2022,  adjustments  were  made to the national curriculum for primary and upper secondary  education,  with  a  focus  on  fostering  skills  development  and  striving  to improve students' overall contentment with their educational experience. The updated curriculum  that  was  put  in  force  in  2023  March  provides  teachers  with  increased flexibility  in  how  they  approach  learning  content  and  conceptualise  assessment, incorporates additional optional courses in upper secondary education to better align teaching  with  the  diverse  needs  and  interests  of  students.  These  modifications  are intended to enhance subject learning and foster general competencies, including the ability to learn, digital literacy, 21 st Century skills and communication skills, cultural awareness, and SEL skills and values. To facilitate the integration of students with diverse cultural backgrounds, mandatory lessons for Estonian as a second language have  been  expanded  on  a  weekly  basis.  Furthermore,  adult learners now have the choice to either resume their unfinished studies up to the basic education level or opt for a simplified course of study.
+In 2022, adjustments were made to the national curriculum for primary and upper secondary education, with a focus on fostering skills development and striving to improve students' overall contentment with their educational experience. The updated curriculum that was put in force in 2023 March provides teachers with increased flexibility in how they approach learning content and conceptualise assessment, incorporates additional optional courses in upper secondary education to better align teaching with the diverse needs and interests of students. These modifications are intended to enhance subject learning and foster general competencies, including the ability to learn, digital literacy, 21st Century skills and communication skills, cultural awareness, and SEL skills and values. To facilitate the integration of students with diverse cultural backgrounds, mandatory lessons for Estonian as a second language have been expanded on a weekly basis. Furthermore, adult learners now have the choice to either resume their unfinished studies up to the basic education level or opt for a simplified course of study.
 
 As  an  accompanying  material  for  the  implementation  of  the  national  curricula, descriptions of the study process have been worked out in Estonia. These descriptions are there for every subject and the aim of these is to show how to integrate and teach about  cross-curricular  topics,  develop  core  competencies  and  integrate  different subjects.  The  descriptions  of  the  study  process  are  currently  being  complemented with the topics of human rights and gender equality.
 
@@ -1589,7 +1608,7 @@ For  reference:  Articles/Paragraphs  2(c)  and  5(1)(b)  of  the  Convention/Re
 
 □ Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 41  explicitly apply to non-state educational institutions. Please specify:
 
-The curriculum of a private school must comply with the national curriculum for pre -school child care institutions, which state that:
+The curriculum of a private school must comply with the national curriculum for pre-school child care institutions, which state that:
 
 Based on the overall goal, learning and educational activities support the child's physical, mental,  social  and  emotional  development,  as  a  result  of  which  the  child  develops  a complete  and  positive  self-image,  understanding of the surrounding environment, ethical behaviour  and  initiative,  primary  work habits, physical activity and understanding of the importance of maintaining health, and develops play, learning, social and personal skills.
 
@@ -1597,7 +1616,7 @@ Principles of conducting learning and educational activities must include: valui
 
 When  planning  and  carrying  out  educational  and  educational  activities,  the  specific characteristics of children are taken into account: abilities, linguistic and cultural background, age, gender,  health  status,  etc.  Educators  are  the  leaders  of  children's development and the creators of an environment that supports development.
 
-A  child  with  special  needs  within  the  meaning  of  the  regulation  is  a  child  whose developmental needs due to his abilities, state of health, linguistic and cultural background and  personality  characteristics  require  changes  or  adaptations  to  be  made  in  the  child's growing  environment  (play  and  learning  equipment,  rooms,  teaching  and  upbringing methods, etc.) or in the group's action plan.
+A child with special needs within the meaning of the regulation is a child whose developmental needs due to his abilities, state of health, linguistic and cultural background and personality characteristics require changes or adaptations to be made in the child's
 
 > 40 Private, faith-based, NGOs, community actors.
 
@@ -1607,9 +1626,11 @@ A  child  with  special  needs  within  the  meaning  of  the  regulation  is  a
 
 [[START OF PAGE 49]]
 
-The children's institution supports families with different linguistic and cultural backgrounds  in  introducing  the  child  to  their  own  language and culture and valuing the Estonian language and culture. A child whose home language is not Estonian is guaranteed Estonian language learning.
+growing environment (play and learning equipment, rooms, teaching and upbringing methods, etc.) or in the group's action plan.
 
-As a result of educational and educational activities, a 6-7-year-old child:
+The children's institution supports families with different linguistic and cultural backgrounds in introducing the child to their own language and culture and valuing the Estonian language and culture. A child whose home language is not Estonian is guaranteed Estonian language learning.
+
+As a result of educational and educational activities, a 6–7-year-old child:
 
 tries  to  understand  other  people's  feelings  and  consider  them  in  his  behaviour  and conversation;  wants  and  dares  to  communicate  -  is  interested  in  relationships  and  is interested  in  others;  cares  about  other  people,  provides  help  and  asks  for  it  himself  if necessary;  participates  in  the  formation  of  group  rules;  can  consider  and  cooperate  with others; creates friendships; distinguishes between good and bad behaviour; understands that people  can  be  different;  follows  the  agreed  rules  and  generally  accepted  norms  of behaviour.
 
@@ -1651,17 +1672,18 @@ According to the Private Schools Act (pre-school, basic or secondary education),
 
 The curriculum of a private school must comply:
 
-1)  in  the  event  of  a  pre-school  child  care  institution,  with  the  national  curriculum  for pre -school child care institutions;
+1) in the event of a pre-school child care institution, with the national curriculum for pre-school child care institutions;
 
 2) in the event of a nursery school and a basic school operating as one institution, with the national curriculum for pre-school child care institutions on the part of the nursery school and  with  the  competencies  acquired  in  stages  of  study  and  the  learning  outcomes  of subjects established in the national curriculum on the basis of the Basic Schools and Upper Secondary Schools Act on the part of the basic school;
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+subjects established in the national curriculum on the basis of the Basic Schools and Upper Secondary Schools Act on the part of the basic school;
 
-- in the event of a basic school and an upper secondary school, with the competencies of the  level  of  education  and  the  learning  outcomes  of  subjects  established  in  the  national curriculum based on the Basic Schools and Upper Secondary Schools Act;
+3) in the event of a basic school and an upper secondary school, with the competencies of the level of education and the learning outcomes of subjects established in the national curriculum based on the Basic Schools and Upper Secondary Schools Act;
 
-- in  the  event  of  a  vocational  educational  institution,  with  the  vocational  education standard and the national curriculum for the vocation or profession or, in the event of a joint curriculum, also with the requirements of § 33 of the Vocational Educational Institutions Act.
+4) in the event of a vocational educational institution, with the vocational education standard and the national curriculum for the vocation or profession or, in the event of a joint curriculum, also with the requirements of § 33 of the Vocational Educational Institutions Act.
 
 https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/503062019009/consolide
 
@@ -1671,37 +1693,37 @@ https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/517072020007/consolide
 
 □  Legal  provisions  provide  for  the  rights  of  the  parents  /legal  guardians  for  providing religious and moral education for their children. Please specify:
 
-According to the Private School Act, 'Confessional religious education may be provided in a private school on the conditions and in accordance with the procedure established by the school board. Attending confessional religious studies is voluntary.'
+According to the Private School Act, “Confessional religious education may be provided in a private school on the conditions and in accordance with the procedure established by the school board. Attending confessional religious studies is voluntary.”
 
 https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/503062019009/consolide
 
 □ Legal or regulatory framework lays out the conditions and minimum education standards for  the  establishment  and  functioning  of  non-state  educational  institutions.  Please  specify what is covered:
 
-- Registration
+☑ Registration
 
-- State monitoring and inspections
+☑ State monitoring and inspections
 
-- Qualifications of teachers
+☑ Qualifications of teachers
 
-- Health and sanitation
+☑ Health and sanitation
 
-- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+☑ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
 
-- Infrastructure
+☑ Infrastructure
 
-- Curriculum
+☑ Curriculum
 
-- Student-teacher ratio
+☑ Student-teacher ratio
 
-- School fees
+☑ School fees
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
-School closures
+☑ School closures
 
-Other
+□ Other
 
 - Please elaborate:
 
@@ -1713,7 +1735,7 @@ https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/503062019009/consolide
 
 □ Low number of professionally trained teachers
 
-□ High student - teacher ratio
+□ High student – teacher ratio
 
 □ Other:
 
@@ -1725,7 +1747,7 @@ https://www.riigiteataja.ee/en/eli/ee/Riigikogu/act/503062019009/consolide
 
 ### 3.5 Digital education
 
-Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 42 .
+Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion42.
 
 - Please  indicate  the  measures  taken  to  ensure  the  provision  of  quality  digital  education (several items may be ticked):
 
@@ -1735,29 +1757,29 @@ Please indicate the relevant text and provisions:
 
 In  Estonia,  the  legal  framework  provides  for  the  use  of  digital  technology  in education through several key measures. In the National Curriculum, digital competence  is  listed  as  one  of  the  eight  key  competencies  that  schools  in  Estonia focus on. Estonia's Education Strategy 2021-2035 prioritises digital inclusion, digital literacy,  and  the  integration  of digital skills across all education levels. The strategy also emphasises the adoption of digital pedagogy and promotes innovation driven by digital technologies.
 
-> 42 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
+> 42 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children’s right to education in relation to the digital environment.
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
 
-https://www.hm.ee/sites/default/files/documents/2022-10/haridusvaldkonna_arenguk ava_2035_kinnittaud_vv_eng_0.pdf
+https://www.hm.ee/sites/default/files/documents/2022-10/haridusvaldkonna_arengukava_2035_kinnittaud_vv_eng_0.pdf
 
 Digital  Agenda  2030  outlines  the  country's  vision  and  action  plans  for  harnessing digital  technologies  to  drive  future  development.  It  underscores  the  integration  of digital  skills  as  a  natural  component of the curriculum across all educational levels. https://www.mkm.ee/digiriik-ja-uhenduvus/digiuhiskonna-arengukava-2030
 
-- Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
+☑ Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
-- Regulatory  framework  establishes  minimum  education  standards  for  digital  education  to which all actors in education must comply.
+☑ Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
-- Measures  to  remove  barriers  to  accessing  digital  content 43 ,  including  ensuring  access  to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+☑ Measures to remove barriers to accessing digital content43, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
-- Digital  skills incorporated into pre- and in-service teacher and leadership training curricula to  create  a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that enables ongoing professional development for existing and emerging staff.
+☑ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
-- Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
+☑ Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
 
-- Measures  address  the  digital  divide,  including  ensuring  access  to  reliable  electricity, meaningful  internet  connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
+☑ Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
 
-□ A well-established, sustainable, and cost-effective budget secured from a range of funding sources  and  intersectoral  cooperation,  supported  by  impact  focused  reporting  linked  to regional strategic goals.
+□ □ A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.
 
 - Please elaborate on each of the measures taken:
 
@@ -1771,27 +1793,27 @@ To  ensure  that  schools  can  administer  electronic  tests  in  basic  subjec
 
 [[START OF PAGE 54]]
 
-Lack of quality, curriculum-aligned digital teaching and learning content that supports flexible learning and teaching pathways
+□ Lack of quality, curriculum-aligned digital teaching and learning content that supports flexible learning and teaching pathways
 
-Lack of equity and inclusion in digital learning solutions
+□ Lack of equity and inclusion in digital learning solutions
 
-inadequate safety measures and IT
+□ inadequate safety measures and IT
 
-support  to  respond  to  issues  of  child online  safety  or  reduce  cyber  security risks
+□ support to respond to issues of child online safety or reduce cyber security risks
 
-Other:
+☑ Other:
 
-Limited access to internet and/or electricity
+□ Limited access to internet and/or electricity
 
-Limited access to hardware (devices, chargers, etc.)
+□ Limited access to hardware (devices, chargers, etc.)
 
-Difficulty in regulating the use of digital education solutions
+□ Difficulty in regulating the use of digital education solutions
 
-Difficulty in sustainably financing digital education solutions at national scale
+□ Difficulty in sustainably financing digital education solutions at national scale
 
-Lack of digital skills development for meaningful use of digital technology in teaching practice
+□ Lack of digital skills development for meaningful use of digital technology in teaching practice
 
-Disjointed or fragmented solutions that are not centrally systematized or regulated
+□ Disjointed or fragmented solutions that are not centrally systematized or regulated
 
 Keeping up to date with rapid technological developments, including AI.
 
@@ -1799,31 +1821,31 @@ Keeping up to date with rapid technological developments, including AI.
 
 ## 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting  and  improving  appropriate,  effective  and  inclusive  governance  and  accountability mechanisms;  quality  assurance;  management  information  systems;  transparent  and  effective financing  procedures  and  mechanisms;  and  institutional  management  arrangements,  as  well  as ensure that robust, timely and accessible data are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
-Monitoring  mechanisms  to  assess  compliance  with  the  right  to  education  obligations, including through management information systems.
+☑ Monitoring mechanisms to assess compliance with the right to education obligations, including through management information systems.
 
-- Monitoring results are made public. Please provide the link:
+☑ Monitoring results are made public. Please provide the link:
 
 The annual report of the Ministry of Education and Research is made public on the website of the Ministry, both in Estonian and English. https://www.hm.ee/en/ministry/statistics-and-analysis#annual-analyses
 
-Monitoring processes are participatory, inclusive and regular.
+☑ Monitoring processes are participatory, inclusive and regular.
 
-Sector-wide and multisector approach is adopted to education governance.
+☑ Sector-wide and multisector approach is adopted to education governance.
 
-Financial resources are effectively allocated to prioritise the provision of free, quality, public education and are adequately budgeted for in government plans.
+☑ Financial resources are effectively allocated to prioritise the provision of free, quality, public education and are adequately budgeted for in government plans.
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
 
-- The decision-making process for the allocation of resources to education is transparent.
+☑ The decision-making process for the allocation of resources to education is transparent.
 
-- Ensuring  crisis-sensitive  and  disaster  risk-informed  planning  and  programming, including the provision of quality education in emergencies.
+☑ Ensuring crisis-sensitive and disaster risk-informed planning and programming, including the provision of quality education in emergencies.
 
-- There  is  a  certain  degree  of  decentralization  in  favour  of  local  public  authorities  and autonomy for schools to ensure context relevance of their teaching.
+☑ There is a certain degree of decentralization in favour of local public authorities and autonomy for schools to ensure context relevance of their teaching.
 
 - Please elaborate on each of the measures taken:
 
@@ -1841,35 +1863,35 @@ The  Estonian  Education  Quality  Agency  (HAKA,  https://haka.ee/en/organizati
 
 - What challenges were encountered in terms of governance?
 
-Budgetary constraints
+☑ Budgetary constraints
 
-Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
+□ Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
-Poor dialogue with teachers' trade unions
+□ Poor dialogue with teachers’ trade unions
 
-Other:
+□ Other:
 
-Absence of supportive/ inconsistent/obsolete legal and policy environment
+□ Absence of supportive/ inconsistent/obsolete legal and policy environment
 
-Lack or weakness of monitoring systems - including the lack of reliable data
+□ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
-With several educational reforms planned and underway,  and with budgetary constraints, pressure  is  put  on  effective  and  efficient  use  of  resources.  Estonia's government's budgetary allocation to education is around 6% (and 4.8% according to OECD; this excludes investment to ECE), but the funds are held up by investments to the infrastructure.
+With several educational reforms planned and underway, and with budgetary constraints, pressure is put on effective and efficient use of resources. Estonia’s government’s budgetary allocation to education is around 6% (and 4.8% according to OECD; this excludes investment to ECE), but the funds are held up by investments to the infrastructure.
 
-# Methods  used  to  draw  the  attention  of  the  various  authorities  in  the  country  to  the instruments
+# III. Methods used to draw the attention of the various authorities in the country to the instruments
 
 For reference: UNESCO governing bodies have underlined the need for awareness raising. Given  the  importance  of  normative  action  at  the  national  level,  wide  dissemination  of  the Convention must be ensured, with the support of National Commissions for UNESCO.
 
 - Have  activities  been  carried  out  to  draw  the  attention  of  the  various  authorities  of  the country to the Convention/Recommendation and their provisions about the right to education and  to  raise  awareness  of  the  principles  of  non-discrimination  and  equality  of  educational opportunities? (Several items may be ticked)
 
-Translation of the Convention/Recommendation  into  the  national  and  possibly  local languages
+☑ Translation of the Convention/Recommendation into the national and possibly local languages
 
-Dissemination and advocacy of the core content of the Convention/Recommendation or the core  principles  of  the  right  to  education  including  through  appropriate  materials  and resources
+□ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education including through appropriate materials and resources
 
-Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
+□ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
-Other:
+☑ Other:
 
 The institution of the Gender Equality and Equal Treatment Commissioner has been created in Estonia  in  order  to  help  people  protect  their  rights  and  to  avoid  any  form  of discrimination. The Commissioner stands up for women and men having equal rights and opportunities in all aspects of public life. The Commissioner also endeavours to ensure that people in various minority groups are not treated unequally. The task of the Commissioner
 
