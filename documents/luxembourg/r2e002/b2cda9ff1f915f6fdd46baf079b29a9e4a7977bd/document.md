@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# Loi du 12 mai 2009 portant création d'une École de la 2 e Chance.
+# Loi du 12 mai 2009 portant création d'une École de la 2e Chance.
 
 Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau;
 
@@ -12,10 +12,10 @@ Vu la décision de la Chambre des Députés du 30 avril 2009 et celle du Conseil
 
 Avons ordonné et ordonnons:
 
-## Chapitre I. Statut et missions
+## Chapitre I. – Statut et missions
 
-### Art. 1 er .
-Il est créé dans le cadre de l'enseignement postprimaire une École de la 2 e chance, dénommée ci-après « École », à l'intention des apprenants âgés de 16 à 24 ans compris. Peuvent intégrer ce dispositif les apprenants:
+### Art. 1er.
+Il est créé dans le cadre de l'enseignement postprimaire une École de la 2e chance, dénommée ci-après « École », à l'intention des apprenants âgés de 16 à 24 ans compris. Peuvent intégrer ce dispositif les apprenants:
 
 -qui ne peuvent plus progresser dans l'enseignement secondaire ou secondaire technique organisé dans les lycées;
 
@@ -42,7 +42,7 @@ L'École poursuit les objectifs suivants:
 
 -l'insertion professionnelle des apprenants.
 
-## Chapitre II. - Ad mission des apprenants
+## Chapitre II. – Admission des apprenants
 
 ### Art. 3.
 L'admission de l'apprenant qui souhaite s'inscrire à l'École est faite par le directeur de l'École en concertation avec le service de l'Action locale pour jeunes et le directeur du lycée auquel l'apprenant a été inscrit ou, le cas échéant, le Centre national de la formation professionnelle continue. Le dossier de l'apprenant est transmis au directeur de l'École. Les admissions ont lieu au moins deux fois par année. Un règlement grand-ducal fixe les dates, les délais et les modalités.
@@ -74,7 +74,7 @@ Le parcours de formation d'un apprenant à l'École a une durée de deux ans. Ce
 
 Le ministre peut prolonger cette durée à six mois au maximum en cas de demande écrite dûment motivée, à autoriser par le ministre.
 
-## Chapitre III. La formation des apprenants
+## Chapitre III. – La formation des apprenants
 
 ### Art. 7.
 La formation des apprenants comprend :
@@ -94,29 +94,29 @@ Dans ce cadre, un règlement grand-ducal précise les contenus des modules d'ens
 ### Art. 8.
 L'enseignement général et pratique, y inclus les activités complémentaires, peut être offert dans les domaines suivants :
 
-- le domaine général, qui comprend :
+1. le domaine général, qui comprend :
 
-- la communication orale et écrite dans les langues française, allemande, luxembourgeoise et anglaise ;
+a) la communication orale et écrite dans les langues française, allemande, luxembourgeoise et anglaise ;
 
-- les mathématiques et le calcul ;
+b) les mathématiques et le calcul ;
 
-- l'éducation à la culture ;
+c) l'éducation à la culture ;
 
-- l'éducation à la citoyenneté ;
+d) l'éducation à la citoyenneté ;
 
-- les technologies de l'information ;
+e) les technologies de l'information ;
 
-- l'éducation sportive et l'éducation à la santé.
+f) l'éducation sportive et l'éducation à la santé.
 
-- le domaine pratique, qui comprend :
+2. le domaine pratique, qui comprend :
 
-- l'apprentissage pratique à l'atelier scolaire ;
+a) l'apprentissage pratique à l'atelier scolaire ;
 
-- les stages en milieu professionnel.
+b) les stages en milieu professionnel.
 
 Le domaine pratique peut être organisé dans les différents secteurs professionnels.
 
-## Chapitre IV. La prise en charge éducative des apprenants
+## Chapitre IV. – La prise en charge éducative des apprenants
 
 ### Art. 9.
 Le directeur place plusieurs classes sous la responsabilité d'une équipe pédagogique chargée de la formation des apprenants. L'équipe est composée d'un régent, d'enseignants, de formateurs et de personnel éducatif. Si la formation l'exige, des intervenants ne faisant pas partie de l'équipe pédagogique peuvent enseigner une matière déterminée ou encadrer les apprenants nécessitant une intervention spécifique.
@@ -125,8 +125,6 @@ L'équipe pédagogique organise la formation, surveille la progression des appre
 
 ### Art.  10.
 Pour  émettre  un  avis  d'orientation  ou  pour  prendre  une  décision  d'orientation l'équipe pédagogique, ensemble avec le directeur ou son délégué, fait fonction de conseil de classe tel que défini à l'article 20 de la loi modifiée du 25 juin 2004 portant organisation des
-
-2.
 
 2
 
@@ -156,13 +154,13 @@ Les apprenants âgés de 18 ans au moins à la sortie de l'École, peuvent s'ins
 ### Art.  14.
 Les  apprenants  sortis  de  l'École  sont  suivis  pendant  deux  années  par  l'équipe pédagogique en collaboration avec l'Action locale pour jeunes.
 
-## Chapitre V. Les stages de formation en milieu professionnel
+## Chapitre V. – Les stages de formation en milieu professionnel
 
 ### Art.  15.
 Le directeur veille  à  ce  que  chaque  apprenant  suive  des  stages  de  formation  en milieu professionnel. Les stages font partie intégrante de la formation.
 
 ### Art. 16.
-Pendant la durée du stage le statut de l'apprenant est celui d'apprenant stagiaire. L'apprenant stagiaire n'est pas lié à l'entreprise par un contrat de travail et ne peut prétendre à aucune rémunération. Il bénéficie de la couverture contre les accidents, telle que définie par la loi modifiée du 1 er septembre 1988 relative à la responsabilité civile de l'État et des collectivités publiques, ainsi que par le règlement grand-ducal du 23 février 2001 concernant l'assurance  accident  dans  le  cadre  de  l'enseignement  précoce,  préscolaire,  scolaire  et universitaire.
+Pendant la durée du stage le statut de l'apprenant est celui d'apprenant stagiaire. L'apprenant stagiaire n'est pas lié à l'entreprise par un contrat de travail et ne peut prétendre à aucune rémunération. Il bénéficie de la couverture contre les accidents, telle que définie par la loi modifiée du 1er septembre 1988 relative à la responsabilité civile de l'État et des collectivités publiques, ainsi que par le règlement grand-ducal du 23 février 2001 concernant l'assurance accident dans le cadre de l'enseignement précoce, préscolaire, scolaire et universitaire.
 
 ### Art. 17.
 Les stages de formation en milieu professionnel sont régis par un contrat de stage de  formation,  conclu  entre  l'École,  l'apprenant  et  le  représentant  légal  pour  l'apprenant mineur ainsi que le représentant de l'entreprise formatrice.
@@ -190,7 +188,7 @@ Les dispositions légales et réglementaires relatives à la protection des jeun
 ### Art.  18.
 Les  stages  sont  gérés  par  les  membres  de  l'équipe  pédagogique  ainsi  que  par l'expert du monde économique tel que prévu à l'article 20.
 
-## Chapitre VI. Aides
+## Chapitre VI. – Aides
 
 ### Art. 19.
 (1) Les apprenants inscrits à l'École peuvent bénéficier de l'aide à la formation, de la prime de formation ainsi que de l'indemnité de formation telles qu'elles sont prévues dans la loi du 16 mars 2007 portant :
@@ -201,7 +199,7 @@ Les  stages  sont  gérés  par  les  membres  de  l'équipe  pédagogique  ains
 
 (2)  Pour  les  apprenants  qui  se  trouvent  dans  une  situation  sociale  précaire  avérée,  des places  d'hébergement  peuvent  être  offertes  suivant  convention  avec  un  ou  plusieurs organismes agréés conformément aux dispositions de la loi du 8 septembre 1998 réglant les relations  entre  l'État  et  les  organismes  œuvrant  dans  les  domaines  social,  familial  et thérapeutique.
 
-## Chapitre VII. Relations de l'École
+## Chapitre VII. – Relations de l'École
 
 ### Art. 20.
 (1) Pour maintenir l'adéquation entre les domaines  professionnels et les configurations  des  postes  de  travail  dans  les  entreprises,  l'École  se  fait  conseiller  pour chaque secteur professionnel par un expert du monde économique. La mission de l'expert consiste à :
@@ -256,7 +254,7 @@ L'École  est  autorisée  à  mettre  en  œuvre  un  projet  de  coopération 
 ### Art. 24.
 L'accompagnement méthodologique, l'évaluation de la qualité de la formation ainsi que la formation continue du personnel enseignant et éducatif de l'École sont assurées par le Service de Coordination de la Recherche et de l'Innovation pédagogiques et technologiques (SCRIPT).
 
-## Chapitre VIII. Organisation de l'École
+## Chapitre VIII. – Organisation de l'École
 
 ### Art.  25.
 Les  dates  des  vacances  scolaires  sont  fixées  par  règlement  grand-ducal.  En période  scolaire  l'École  est  ouverte  au  moins  dix  heures  par  jour  pendant  cinq  jours  par semaine.  Les  horaires  sont  fixés  par  le  directeur  de  l'École,  sous  réserve  de  l'accord  du ministre.
@@ -274,7 +272,7 @@ L'École est constituée en service de l'État à gestion séparée par la loi b
 ### Art. 28.
 Les dispositions concernant le projet d'établissement, l'ordre intérieur, la discipline et le conseil de discipline, la restauration scolaire et le rattachement d'un internat ainsi que celles concernant les structures de représentation des enseignants, des apprenants et des parents d'apprenants sont les mêmes que celles des lycées.
 
-## Chapitre IX. Personnel
+## Chapitre IX. – Personnel
 
 ### Art.  29.
 Le  directeur  est  responsable  du  bon  fonctionnement  de  l'École.  Il  est  le  chef hiérarchique du personnel nommé ou affecté à l'École et organise les travaux de la direction. Il exerce la surveillance générale sur l'organisation de la formation des apprenants, sur leur prise en charge éducative et sur les stages de formation en milieu professionnel.
@@ -296,9 +294,9 @@ Le  directeur  peut  se  faire  assister  par  des  attachés  à  la  direction
 
 [[START OF PAGE 6]]
 
-- En  dehors  du  directeur  et  du  directeur  adjoint,  le  cadre  du  personnel  de  l'École  peut comprendre :
+2. En dehors du directeur et du directeur adjoint, le cadre du personnel de l'École peut comprendre :
 
-- dans la carrière supérieure de l'enseignement :
+I. dans la carrière supérieure de l'enseignement :
 
 -des professeurs de lettres ;
 
@@ -330,7 +328,7 @@ III. dans la carrière moyenne de l'enseignement :
 
 -des formateurs d'adultes en enseignement pratique.
 
-- dans la carrière moyenne de l'administration :
+IV. dans la carrière moyenne de l'administration :
 
 -des assistants sociaux ;
 
@@ -340,7 +338,7 @@ III. dans la carrière moyenne de l'enseignement :
 
 -des informaticiens.
 
-- dans la carrière inférieure de l'administration :
+V. dans la carrière inférieure de l'administration :
 
 -des éducateurs ;
 
@@ -348,9 +346,9 @@ III. dans la carrière moyenne de l'enseignement :
 
 -des artisans.
 
-- Le cadre du personnel de l'École peut comprendre des stagiaires.
+3. Le cadre du personnel de l'École peut comprendre des stagiaires.
 
-- L'École  peut  avoir  recours,  suivant  les  besoins  du  service  et  dans  la  limite  des  crédits budgétaires, à :
+4. L'École peut avoir recours, suivant les besoins du service et dans la limite des crédits budgétaires, à :
 
 -des chargés d'éducation et des chargés de cours engagés à tâche complète ou partielle et à durée indéterminée ou déterminée ;
 
@@ -358,13 +356,13 @@ III. dans la carrière moyenne de l'enseignement :
 
 -des  ouvriers  engagés  à  tâche  complète  ou  partielle  et  à  durée  indéterminée  ou déterminée.
 
-- Des agents d'autres administrations et services de l'Etat peuvent être détachés à l'École.
+5. Des agents d'autres administrations et services de l'État peuvent être détachés à l'École.
 
-- L'École peut également avoir recours, dans la limite des crédits budgétaires, à des agents externes  dont  les  modalités  d'engagement  et  d'indemnisation  sont  fixées  par  règlement grand- ducal.
+6. L'École peut également avoir recours, dans la limite des crédits budgétaires, à des agents externes dont les modalités d'engagement et d'indemnisation sont fixées par règlement grand-ducal.
 
-- Les  dispositions  de  la  loi  modifiée  du  10  juin  1980  portant  planification  des  besoins  en personnel enseignant de l'enseignement postprimaire sont d'application.
+7. Les dispositions de la loi modifiée du 10 juin 1980 portant planification des besoins en personnel enseignant de l'enseignement postprimaire sont d'application.
 
-- Les  conditions  d'admission  au  stage  et  de  nomination  des  membres  du  personnel enseignant et éducatif de l'École sont celles fixées pour les fonctions correspondantes par :
+8. Les conditions d'admission au stage et de nomination des membres du personnel enseignant et éducatif de l'École sont celles fixées pour les fonctions correspondantes par :
 
 -la  loi  modifiée  du  29  juin  2005  fixant  les  cadres  du  personnel  des  établissements d'enseignement secondaire et secondaire technique ;
 
@@ -380,7 +378,7 @@ III. dans la carrière moyenne de l'enseignement :
 
 -la loi du 19 décembre 2008 portant réforme de la formation professionnelle.
 
-En  dehors  des  fonctions  énumérées  ci-dessus,  le  cadre  du  personnel  de  l'École  peut également comprendre des candidats des carrières mentionnées au paragraphe 2 sous I cidessus, 1 er , 2 e , 3 e , 4 e et 5 e tirets et sous III ci-dessus, 1 er et 2 e tirets.
+En dehors des fonctions énumérées ci-dessus, le cadre du personnel de l'École peut également comprendre des candidats des carrières mentionnées au paragraphe 2 sous I ci-dessus, 1er, 2e, 3e, 4e et 5e tirets et sous III ci-dessus, 1er et 2e tirets.
 
 ### Art. 31.
 Le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants :
@@ -454,7 +452,7 @@ Les engagements définitifs au service de l'État résultant des dispositions du
 
 [[START OF PAGE 8]]
 
-- La tâche hebdomadaire du personnel éducatif comprend :
+2. La tâche hebdomadaire du personnel éducatif comprend :
 
 -une tâche d'organisation et d'éducation dans le cadre des activités complémentaires ;
 
