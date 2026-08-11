@@ -162,37 +162,47 @@ Source: TIMSS 2007
 
 2008-2007
 
+60%
+
+45%
+
+40%
+
+24%
+
+Elementary Level
+
+Intermediate level
+
 ### Over-age student rates 2008-2007
 
-Elementary
+40%
 
-Level
+13%
+
+44%
+
+20%
+
+60%
+
+23%
+
+Elementary Level
+
+Intermediate level
+
+Secondary level
 
 Private schools
 
 Public schools
 
-Secondary
-
-level
-
-Intermediate
-
-level
-
-Elementary
-
-Level
-
-Intermediate
-
-level
+### Results
 
 High repetition and drop out rates result in:
 
  Over spending on an education system that scores low on academic indicators.
-
-### Results
 
  A negative impact on economic growth which results from the lack of use of students' potential and from students leaving school without qualifications.
 
@@ -208,53 +218,51 @@ Executive Summary - v05.ppt
 
 ### Number of Students in Schools 2004-2009
 
-rivate Subsidized
-
-Public
-
 Private
-
-465130
-
-471409
-
-467093
-
-480440
 
 488039
 
-337622
+480440
 
-324651
+467093
 
-326503
+471409
 
-301370
+465130
+
+Public
 
 285574
 
-114194
+301370
 
-115254
+326503
 
-124281
+324651
 
-126391
+337622
+
+Private Subsidized
 
 122478
 
-2005-2004
+126391
 
-2006-2005
+124281
 
-2007-2006
+115254
 
-2008-2007
+114194
 
 2009-2008
 
-#### Results
+2008-2007
+
+2007-2006
+
+2006-2005
+
+2005-2004
 
 #### Comments
 
@@ -265,6 +273,8 @@ Private
 -A relative weakness in foreign languages
 
 -The absence of extracurricular activities
+
+#### Results
 
  An increase in the number of students in the private and private subsidized sectors, compared to a decrease in the number of students in the public sector
 
@@ -292,27 +302,17 @@ Executive Summary - v05.ppt
 
 ### Annual cost/student in the public sector
 
-LBP
+LBP 1,930,761
 
-1,930,7
+Elementary
 
-61
+LBP 2,593,465
 
-LBP
+Intermediate
 
-2,593,4
+LBP 3,069,795
 
-65
-
-LBP
-
-3,069,7
-
-95
-
-Elementary Intermediate Secondary
-
-المرحلة الثانوية المرحلة المتوسطةالمرحلة الإبتدائية
+Secondary
 
 ### Excess in the quantity of under qualified teachers
 
@@ -352,9 +352,7 @@ Executive Summary - v05.ppt
 
 ### An Increase in the percentage of contracting teachers
 
-27,114
-
-(71%)
+contractors
 
 11,192
 
@@ -362,17 +360,11 @@ Executive Summary - v05.ppt
 
 On tenure
 
-contractors
+27,114
 
-
+(71%)
 
-The average age
-
-of teachers on
-
-tenure is 58
-
-years
+ The average age of teachers on tenure is 58 years
 
 #### Reasons:
 
@@ -384,39 +376,15 @@ years
 
 54.5%
 
+Do not hold a university degree
+
 41.3%
+
+Hold a university degree
 
 4.2%
 
-لا يحملون شهادة
-
-جامعية
-
-يحملون شهادة
-
-جامعية
-
-يحملون شهادة
-
-تعليمية متخصصة
-
-Hold
-
-a specialized
-
-degree
-
-Do not hold
-
-a university
-
-degree
-
-Hold
-
-a university
-
-degree
+Hold a specialized degree
 
  School principals do not have specialized degrees (32.5% have been recently trained)
 
@@ -452,29 +420,37 @@ Executive Summary - v05.ppt
 
  There is a remarkable discrepancy among school buildings
 
- There is an unequal
-
-- distribution of students:
+ There is an unequal distribution of students:
 
  153 schools of a total of 1107 schools contain less than 50 students
 
 ### The percentage of schools connected to the internet
 
+Approximately 600 out of 1,385 schools have computer labs
+
+Bekaa’
+
+4%
+
 Nabtieh
 
-Bekaa'
+7%
 
-South Beirut North
+South
 
-Mount
+9%
 
-Lebanon
+Beirut
 
-Approximately 600 out of
+15%
 
-1,385 schools have
+North
 
-computer labs
+26%
+
+Mount Lebanon
+
+39%
 
 Executive Summary - v05.ppt
 
