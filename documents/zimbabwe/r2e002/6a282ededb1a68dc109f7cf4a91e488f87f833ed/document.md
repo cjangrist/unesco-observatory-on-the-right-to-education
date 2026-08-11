@@ -10,11 +10,52 @@ MINISTRY OF YOUTH DEVELOPMENT, INDIGENISATION AND EMPOWERMENT
 
 ## Contents
 
+Acknowledgements...........................................................................................iii
+Preface ..............................................................................................................iv
+Introductory Statement....................................................................................vi
+1. Executive Summary............................................................................... 1
+2.Introduction ................................................................................................... 4
+2.1Background .................................................................................................. 4
+2.2Major Continental and International Developments .................................. 5
+2.3The National Youth Policy Review Process.................................................. 5
+2.4Definition of Youth....................................................................................... 5
+2.5Guiding Principles of the National Youth Policy .......................................... 6
+2.6Rights and Responsibilities of Young People ............................................... 7
+3. Policy Goals and Objectives.................................................................. 9
+4. Priority Target Groups......................................................................... 12
+4.1Young Women............................................................................................ 12
+4.2Youth with Disabilities ............................................................................... 12
+4.3Pupils and Students.................................................................................... 12
+4.4Unemployed Youth .................................................................................... 13
+4.5Out-of-School Youth .................................................................................. 13
+4.6Youth Living With HIV ................................................................................ 13
+4.7Youth in the Diaspora ................................................................................ 13
+5. Strategic Priority Areas ....................................................................... 15
+5.1Education and Skills Development............................................................. 15
+5.2Youth Empowerment and Participation .................................................... 16
+5.3Youth Employment and Sustainable Livelihoods....................................... 17
+
 i
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+5.4Youth Health .............................................................................................. 19
+5.5Gender Equity and Equality ....................................................................... 20
+5.6National Youth Service............................................................................... 21
+5.7Culture, Art, Sport and Recreation ............................................................ 22
+5.8Information and Communication Technology ........................................... 24
+5.9Youth and Protection of the Environment................................................. 25
+5.10Youth Migration....................................................................................... 25
+5.11Data and Research ................................................................................... 26
+5.12Youth Coordination and Mainstreaming ................................................. 27
+6. Implementation and Coordination Mechanisms................................ 28
+6.1Ministry Responsible for Youth Development........................................... 28
+6.2The Zimbabwe Youth Council .................................................................... 29
+6.3Mobilization of Resources.......................................................................... 30
+6.4Monitoring and Evaluation ........................................................................ 30
+6.5Policy Review Clause.................................................................................. 30
 
 ii
 
@@ -40,7 +81,7 @@ The  Policy  seeks  to  ensure  that  all  young  women  and  men  are  given me
 
 Young women and men are not only a major national resource and inheritors of  Zimbabwe's  future  society,  but  they  are  also  active  contributors  to  the nature of society today. The National Youth Policy thus provides a foundation and  mechanism  for  youth  participation  in  socio-economic  development whilst  recognising  that  young  people  should  be  protagonists  of  their  own development  and  not  mere  recipients  of  state  support.  It  enables  the Government to give priority to youth development and display its commitment  to national youth development  through the creation of appropriate policy implementation mechanisms and the allocation of sufficient  resources.  The  Policy  serves  to  sensitise  Government  institutions and civil society toward youth development and acknowledge the initiatives of young men and women.
 
-At  provincial  and  local  levels,  the  National  Youth  Policy  will  ensure  that government authorities work in a cooperative and harmonious manner when designing  and  delivering  programmes  and  services  which  address  youth development needs and opportunities. Furthermore, the Policy is intended to encourage  an  understanding  amongst  young  men  and  women  of  the processes of governance and provides opportunities for their participation in provincial  and  local  programmes,  thus  enabling  young  women  and  men  to play a positive role in development.
+At provincial and local levels, the National Youth Policy will ensure that government authorities work in a cooperative and harmonious manner when designing and delivering programmes and services which address youth
 
 iv
 
@@ -48,7 +89,9 @@ iv
 
 [[START OF PAGE 6]]
 
-Furthermore, the National Youth Policy provides a foundation and direction for  a  National  Youth  Action  Plan.  This  Plan  complements  the  Policy  and describes  the  role  of  all  agencies  engaged  in  youth  development  and  the programmes, services, facilities and activities they undertake to achieve the goals and objectives of the Policy.
+development needs and opportunities. Furthermore, the Policy is intended to encourage an understanding amongst young men and women of the processes of governance and provides opportunities for their participation in provincial and local programmes, thus enabling young women and men to play a positive role in development.
+
+Furthermore, the National Youth Policy provides a foundation and direction for a National Youth Action Plan. This Plan complements the Policy and describes the role of all agencies engaged in youth development and the programmes, services, facilities and activities they undertake to achieve the goals and objectives of the Policy.
 
 It  is  my  pleasure therefore to present this Revised National Youth Policy to the nation.
 
@@ -86,19 +129,21 @@ vii
 
 ## 1. Executive Summary
 
-The  National  Youth  Policy  was  developed  in  2000  to  provide  an  enabling framework for the development and empowerment of youth in a comprehensive, coordinated and multi-sectoral manner. The policy seeks to 'empower the youth by creating an enabling environment and marshaling the resources necessary  for  undertaking  programmes  and  projects  to  fully develop  the  youths'  mental,  moral,  social,  economic,  political,  cultural, spiritual and physical potential in order to improve their quality of life' .
+The National Youth Policy was developed in 2000 to provide an enabling framework for the development and empowerment of youth in a comprehensive, coordinated and multi-sectoral manner. The policy seeks to ‘empower the youth by creating an enabling environment and marshaling the resources necessary for undertaking programmes and projects to fully develop the youths’ mental, moral, social, economic, political, cultural, spiritual and physical potential in order to improve their quality of life’.
 
 However,  since  it  was  developed  in  2000,  some  important  developments have  occurred  at  the  national,  regional  and  international  levels  that  have necessitated the Government of Zimbabwe to review the Policy to determine that it becomes consistent with these developments and the current youth situation.  In  reviewing  the  policy,  extensive  consultations  were  held  with youth organisations, sectoral groups as well as the young women and men themselves.  In  addition,  the  Zimbabwe  Youth  Council  embarked  on  an extensive youth  awareness  and  consultative  process  involving  provincial  as well as sectoral consultative meetings as well as launching electronic media programmes.  Through  these  programmes  and  the  participation  of  these groups in the policy formulation process, the revised National Youth Policy has been designed to address the major needs, challenges and opportunities of young men and women, accommodating provincial variations and specific sectoral issues.  The Policy has also received contributions from a number of guiding frameworks that include the African Youth Charter (AYC), the United Nations  World  Programme  of  Action  for  Youth  (WPAY)  and  the  Global Political Agreement (GPA). It also incorporates aspects from the Nziramasanga Education and Training Commission Report.
 
 The  policy  is  consistent  with  the  Constitution  of  Zimbabwe  and  major regional and international Conventions and Agreements that the Government of Zimbabwe is Party to.  It is based on a set of eleven guiding principles  and  values  that  have  influenced  its  design  and  direction.  These principles and values lay the foundation on which the goals, objectives and strategies of the policy have been formulated.
 
-By placing young people as central to all development initiatives, the revised National Youth Policy recognises and values young women and men as a key resource and national asset and highlights the importance of youth development to nation building and the creation of a democratic, productive and equitable society. At provincial and local levels, the National Youth Policy will ensure that government authorities work in a cooperative and harmonious manner when designing and delivering programmes and services that  address  youth  development  needs  and  opportunities.  In  addition,  the Policy is intended to encourage an understanding amongst the youth of the processes of governance and provide opportunities for their participation in provincial  and  local  programmes,  thus  enabling  young  women  and  men  to play a positive role in national development.
+By placing young people as central to all development initiatives, the revised National Youth Policy recognises and values young women and men as a key resource and national asset and highlights the importance of youth
 
 1
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+development to nation building and the creation of a democratic, productive and equitable society. At provincial and local levels, the National Youth Policy will ensure that government authorities work in a cooperative and harmonious manner when designing and delivering programmes and services that address youth development needs and opportunities. In addition, the Policy is intended to encourage an understanding amongst the youth of the processes of governance and provide opportunities for their participation in provincial and local programmes, thus enabling young women and men to play a positive role in national development.
 
 The National Youth Policy seeks to achieve the following goals:
 
@@ -142,7 +187,7 @@ A  number  of  strategies  are  outlined  which  comply  with  the  multi-sector
 
 [[START OF PAGE 11]]
 
-The implementation of this policy depends on a sound institutional framework and active political, administrative and technical support for the translation  of  goals,  objectives  and  strategies  outlined  in  the  policy  into actual  programmes  at  all  levels  of  society.  A  concerted  and  coordinated effort is required by Government, non-government and private institutions, churches, youth groups and community organisations to address youth issues in  a  comprehensive  way.  This  requires  an  identification  and  elaboration  of the  mechanisms  for  collaboration  and  coordination  to  implement  a  wellresourced and funded youth development agenda.
+The implementation of this policy depends on a sound institutional framework and active political, administrative and technical support for the translation of goals, objectives and strategies outlined in the policy into actual programmes at all levels of society. A concerted and coordinated effort is required by Government, non-government and private institutions, churches, youth groups and community organisations to address youth issues in a comprehensive way. This requires an identification and elaboration of the mechanisms for collaboration and coordination to implement a well-resourced and funded youth development agenda.
 
 Immediately  after  the  approval  of  the  Policy,  a  comprehensive  National Action Plan for its implementation will be developed with the involvement of key stakeholders. Deliberate efforts will be made to utilize existing structures of  Government  and  civil  society  to  implement  the  Policy  in  order  to  avoid creating  additional  institutional  frameworks,  unless  they  are  absolutely necessary.
 
@@ -158,7 +203,7 @@ Immediately  after  the  approval  of  the  Policy,  a  comprehensive  National 
 
 Young  people  have  long  been  a  priority  of  the  Government  of  Zimbabwe since the attainment  of  independence  in  1980.  Recognizing  the  large numbers of  youth  who  were  denied  opportunities  for  education  and  basic human  rights,  as  well  as  their  vast  potential  to  collectively  contribute  to national  development,  the  Government  of  Zimbabwe,  at  independence, created the Ministry of Youth, Sport and Recreation which was charged to address youth development issues. Thus, the Government introduced various programmes  to  advance  the  interests  and  welfare  of  youth  in  social  and economic spheres.
 
-In recognition of the demographic, socio-economic and political significance of  the  youth  and  to  demonstrate  its  commitment  to  addressing  their development  and  empowerment  needs,  the  Government  of  Zimbabwe  in 2000 developed the National Youth Policy. The policy seeks to  empower the youth in a comprehensive, coordinated multi-sectoral manner, by ' creating an enabling environment and marshaling the resources necessary for undertaking programmes to fully develop the youths' mental, moral, social, economic, political, cultural and physical potential in order to improve their quality of life', (National Youth Policy, 2000).
+In recognition of the demographic, socio-economic and political significance of the youth and to demonstrate its commitment to addressing their development and empowerment needs, the Government of Zimbabwe in 2000 developed the National Youth Policy. The policy seeks to empower the youth in a comprehensive, coordinated multi-sectoral manner, by ‘creating an enabling environment and marshaling the resources necessary for undertaking programmes to fully develop the youths’ mental, moral, social, economic, political, cultural and physical potential in order to improve their quality of life’, (National Youth Policy, 2000).
 
 The National Youth Policy represents a declaration of the priority areas for addressing youth issues and outlines strategic interventions that the government intends to provide for the development of young women and men. Furthermore, the policy provides a framework for the involvement of different organizations and sectors in supporting the development of young people in Zimbabwe.
 
@@ -172,7 +217,7 @@ In general, the youth policy priorities are based on an analysis of the situatio
 
 ### 2.2 Major Continental and International Developments
 
-As countries worldwide recognized the increasing high numbers of youth as victims of poverty, unemployment and disease the issues were prioritised on the  agenda  of  regional,  continental  and  international  bodies  for  discussion and  action.  According  to  the  United  Nations  observation,  ' young  people represent agents, beneficiaries and victims of major societal changes and are generally confronted by a paradox: to seek to be integrated into an existing order  or  to  serve  as  a  force  to  transform  that  order.' In  this  regard, Zimbabwe's  National  Youth  Policy  has  received  contributions  from  three processes - the African Youth Charter (AYC) which was developed under the auspices of the African Union, , The World Programme of Action for Youth (WPAY) developed by the United Nations, and the Global Political Agreement (GPA) in Zimbabwe.
+As countries worldwide recognized the increasing high numbers of youth as victims of poverty, unemployment and disease the issues were prioritised on the agenda of regional, continental and international bodies for discussion and action. According to the United Nations observation, ‘young people represent agents, beneficiaries and victims of major societal changes and are generally confronted by a paradox: to seek to be integrated into an existing order or to serve as a force to transform that order.’ In this regard, Zimbabwe’s National Youth Policy has received contributions from three processes - the African Youth Charter (AYC) which was developed under the auspices of the African Union, , The World Programme of Action for Youth (WPAY) developed by the United Nations, and the Global Political Agreement (GPA) in Zimbabwe.
 
 ### 2.3 The National Youth Policy Review Process
 
@@ -206,9 +251,9 @@ The  National  Youth  Policy  is  based  on  a  series  of  essential  principle
 
 - vii) Youth-driven: Youth  development  services  and  programmes  should  be youth-driven and youth-centred;
 
-- viii) Youth  service:  Y outh should be given opportunity to serve their communities  whilst  developing  their  own  skills;  this  is  essential  to developing patriotism and a sense of civic duty
+- viii) Youth service: Youth should be given opportunity to serve their communities whilst developing their own skills; this is essential to developing patriotism and a sense of civic duty
 
-- ix) Mainstreaming  youth  issues: Whilst  recognising  the  need  for  youthdriven  and  youth-centred  development  programmes  and  services,  the needs, opportunities and challenges facing young women  and men are the  concerns  of  the  whole  society.  Youth  development  should  be recognized as an important mandate for all government agencies, nongovernment organisations and development institutions;
+- ix) Mainstreaming youth issues: Whilst recognising the need for youth-driven and youth-centred development programmes and services, the needs, opportunities and challenges facing young women and men are the concerns of the whole society. Youth development should be recognized as an important mandate for all government agencies, non-government organisations and development institutions;
 
 6
 
@@ -264,9 +309,7 @@ association; good parental care; protection from all forms of exploitation, disc
 
 The National Youth Policy seeks to achieve the following goals and objectives:
 
-To  empower  youth  to  participate  and  contribute  to  the
-
-### Goal 1: socio-economic development of the nation.
+### Goal 1: To empower youth to participate and contribute to the socio-economic development of the nation.
 
 #### Objectives
 
@@ -280,7 +323,7 @@ To  empower  youth  to  participate  and  contribute  to  the
 
 - To promote gender equality and equity among the youth, in particular, in education  and  training,  socio-cultural, political,  economic  and  legal spheres.
 
-### Goal 2:
+### Goal 2: To develop a coordinated response and participation by all stakeholders in the development and empowerment of the youth.
 
 #### Objectives
 
@@ -288,9 +331,7 @@ To  empower  youth  to  participate  and  contribute  to  the
 
 - To facilitate access to resources for development projects and activities by youth and youth development organisations;
 
-- To  make  available  reliable  and  up-to-date  information  on  the  youth development situation  in  the  country  in  order  to  inform  policy  making and programme design, implementation, monitoring and evaluation at all levels and in all sectors;
-
-To develop a coordinated response and participation by all stakeholders in the development and empowerment of the youth.
+- To make available reliable and up-to-date information on the youth development situation in the country in order to inform policy making and programme design, implementation, monitoring and evaluation at all levels and in all sectors;
 
 9
 
@@ -308,7 +349,7 @@ To develop a coordinated response and participation by all stakeholders in the d
 
 - To promote the harmonization of other policies, research, programmes and strategies oriented toward young men and women.
 
-### Goal 3:
+### Goal 3: To instill in youth a clear sense of national identity and respect for national principles and values.
 
 #### Objectives
 
@@ -322,9 +363,7 @@ To develop a coordinated response and participation by all stakeholders in the d
 
 - To  design  and  implement  programmes  and  services  which  promote opportunities  for  voluntarism  amongst  young  men  and  women  whilst promoting development of practical leadership and life skills;
 
-- To  promote  participation  of  youth  in  culture,  sport  and  recreation activities.
-
-To  instill  in  youth  a  clear  sense  of  national  identity  and respect for national principles and values.
+- To promote participation of youth in culture, sport and recreation activities.
 
 10
 
@@ -332,7 +371,7 @@ To  instill  in  youth  a  clear  sense  of  national  identity  and respect for
 
 [[START OF PAGE 19]]
 
-### Goal 4:
+### Goal 4: To promote the health of young people and develop youth oriented healthcare.
 
 #### Objectives
 
@@ -345,8 +384,6 @@ To  instill  in  youth  a  clear  sense  of  national  identity  and respect for
 - To reduce the incidence of teenage and unwanted pregnancies, and the sequel of unsafe abortion;
 
 - To promote environmental education and active participation in environmental conservation among the youth.
-
-To promote the health of young people and develop youth oriented healthcare.
 
 11
 
@@ -404,13 +441,15 @@ Although  HIV  prevalence  rates  in  the  country  are  on  the  decline,  HIV 
 
 ### 4.7 Youth in the Diaspora
 
-A  sizeable  number  of  Zimbabwean  youth  are  living  in  the  Diaspora,  some irregularly.  The  youth  policy  provides  measures  to  protect  the  rights  of  all young people living  in  the  Diaspora  and  encourages  them  to  participate  in national, political, cultural, social and development programmes, and provides measures for their return and full reintegration into society.
+A sizeable number of Zimbabwean youth are living in the Diaspora, some irregularly. The youth policy provides measures to protect the rights of all young people living in the Diaspora and encourages them to participate in
 
 13
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+national, political, cultural, social and development programmes, and provides measures for their return and full reintegration into society.
 
 14
 
@@ -472,7 +511,7 @@ The  National Youth  Policy affirms the right of youth  to involve  and meaningf
 
 - Ensure meaningful youth participation during the planning, implementation,  monitoring  and  evaluation  of  youth  programmes  and projects;
 
-- Facilitate  establishment  and  funding  of  youth  groups  and  youth  NonGovernmental  Organisations  (NGOs),  led  and  headed  by  the  youth themselves and ensure their participation in decision-making processes at all levels;
+- Facilitate establishment and funding of youth groups and youth Non-Governmental Organisations (NGOs), led and headed by the youth themselves and ensure their participation in decision-making processes at all levels;
 
 - Promote the creation of a National Youth Forum for all youth and youth organizations;
 
@@ -496,7 +535,7 @@ The  National Youth  Policy affirms the right of youth  to involve  and meaningf
 
 - Include youth representatives as part of delegations to national, regional and international youth development meetings and sessions;
 
-- Give priority to policies and programmes including youth advocacy and peer-to-peer programmes for marginalized young people, such as out-ofschool and out-of-work young people, young women, young people living with  disabilities,  to  offer  them  the  opportunity  to  re-integrate  into  the mainstream society.;
+- Give priority to policies and programmes including youth advocacy and peer-to-peer programmes for marginalized young people, such as out-of-school and out-of-work young people, young women, young people living with disabilities, to offer them the opportunity to re-integrate into the mainstream society.;
 
 - Take appropriate  measures  to promote  physical and  psychological recovery and social reintegration of victims and perpetrators of violence and  former  prisoners by providing access to education and  skills development, and access to economic and social opportunities.
 
@@ -524,7 +563,7 @@ The National Youth Policy recognizes that decent employment and participation in
 
 - Encourage  enterprises to play an active role in the provision of continuous training  to  young  employees.  Institute  an  incentive  scheme for employers to invest in skills development for young people;
 
-- Establish/encourage training programmes for promoting selfemployment activities;
+- Establish/encourage training programmes for promoting self-employment activities;
 
 - Advocate for  representation  of  youth  in  tripartite  bodies  and  tripartite consultations;
 
@@ -680,7 +719,7 @@ The  National  Youth  Policy  affirms  the  fundamental  importance  of  culture
 
 #### 5.7.1 Strategies Culture, Art, Sport and Recreation
 
-- Inculcate among the youth cultural values of 'ubuntu/unhu hwedu';
+- Inculcate among the youth cultural values of “ubuntu/unhu hwedu”;
 
 - Promote cultural values which are helpful for development and discourage those that hinder progress;
 
@@ -766,7 +805,7 @@ The  National  Youth  Policy  affirms  that  the  deterioration  of  the  natura
 
 - Integrate  environmental  education  and  training  into  education  and training  programmes.  Emphasis  should  be  given  in  school  curricula  to environmental education;
 
-- Encourage and assist youth organizations to initiate and develop youthto-youth  contacts  through  town-twinning  and  similar  programmes  in order to share the experience gained in different countries;
+- Encourage and assist youth organizations to initiate and develop youth-to-youth  contacts  through  town-twinning  and  similar  programmes  in order to share the experience gained in different countries;
 
 - Strengthen  participation  of  youth  in  the  protection,  preservation  and improvement of the environment;
 
@@ -796,7 +835,7 @@ The  National  Youth  Policy  recognizes  that  youth  migration  is  a  complex
 
 - Promote an environment for decent work for all especially young people;
 
-- Take  measures  to  promote  and  protect  the  rights  of  migrant  workers including  right  to  equal  treatment,  equality  of  opportunity  and  non  discrimination;
+- Take  measures  to  promote  and  protect  the  rights  of  migrant  workers including  right  to  equal  treatment,  equality  of  opportunity  and  non -discrimination;
 
 - Negotiate  bilateral  agreements  with  sending  and  destination  countries spelling  out  shared  responsibilities  and  obligations  with  regards  to migration;
 
@@ -816,7 +855,7 @@ The  National  Youth  Policy  recognizes  the  primacy  of  research,  data  and
 
 #### 5.11.1 Strategies for Data and Research
 
-- Promote  the collection, analysis, dissemination and use of socioeconomic  and  demographic  data  on  youth  development,  in  particular data pertinent to the implementation of this Policy;
+- Promote  the collection, analysis, dissemination and use of socio-economic  and  demographic  data  on  youth  development,  in  particular data pertinent to the implementation of this Policy;
 
 - Ensure that data collected and analyzed on youth issues are disaggregated by age, sex, geographical area and other attributes;
 
@@ -856,7 +895,7 @@ The National Youth Policy recognizes the demographic significance of youth and t
 
 ## 6. Implementation and Coordination Mechanisms
 
-The  effective  implementation  of  the  National  Youth  Policy  depends  on  a sound institutional framework and active political, administrative and technical support for the translation of goals, objectives and strategies into actual programmes at all levels of society and taking into consideration that addressing youth concerns requires a multi-sectoral approach. Therefore, a concerted and coordinated effort is required by government, nongovernment, and private institutions, churches, youth groups and community organizations to address youth issues in a comprehensive way. As the basic unit of society, the family will have an important role to play in implementing the policy.
+The  effective  implementation  of  the  National  Youth  Policy  depends  on  a sound institutional framework and active political, administrative and technical support for the translation of goals, objectives and strategies into actual programmes at all levels of society and taking into consideration that addressing youth concerns requires a multi-sectoral approach. Therefore, a concerted and coordinated effort is required by government, non-government, and private institutions, churches, youth groups and community organizations to address youth issues in a comprehensive way. As the basic unit of society, the family will have an important role to play in implementing the policy.
 
 After the approval of the Youth Policy, a comprehensive Action Plan for the implementation  of  the  National  Youth  Policy  will  be  prepared  with  the involvement  of  key  stakeholders.  The  Action  Plan  will  provide  details  on implementation  and  coordination  mechanisms.  Deliberate  efforts  will  be made  to  utilize  existing  structures  of  government  and  civil  society  to implement  the  policy  in  order  to  avoid  creating  additional  institutional frameworks,  unless  they  are  absolutely  necessary.  Some  reorientation  of functions and the establishment and/or strengthening of operational linkages will, however, be necessary.  In brief, the following key institutions could be mentioned.
 
