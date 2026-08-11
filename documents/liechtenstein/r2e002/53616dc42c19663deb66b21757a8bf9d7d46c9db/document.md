@@ -24,9 +24,9 @@ Dem  nachstehenden  vom  Landtag  gefassten  Beschluss  erteile  Ich Meine Zusti
 
 #### Rechtsform, Sitz und anwendbares Recht
 
-- Die  Stiftung  "Erwachsenenbildung  Liechtenstein"  ist  eine  selbständige  Stiftung  des  öffentlichen  Rechts.  Der  Sitz  der  Stiftung  wird  in den Statuten festgelegt.
+1) Die Stiftung "Erwachsenenbildung Liechtenstein" ist eine selbständige Stiftung des öffentlichen Rechts. Der Sitz der Stiftung wird in den Statuten festgelegt.
 
-- Sofern  dieses  Gesetz  nichts  anderes  bestimmt,  findet  das  Gesetz über die Steuerung und Überwachung öffentlicher Unternehmen ergänzend Anwendung.
+2) Sofern dieses Gesetz nichts anderes bestimmt, findet das Gesetz über die Steuerung und Überwachung öffentlicher Unternehmen ergänzend Anwendung.
 
 ### Art. 2
 
@@ -46,15 +46,19 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten die darin verwendete
 
 Erwachsenenbildung
 
-- Zweck der Stiftung ist:
+### Art. 3 1
 
-- die Koordination, Planung und Förderung im Bereich der Erwachsenenbildung;
+#### Zweck
 
-- die  Vergabe  von  Förderungsmitteln  im  Sinne  des  Gesetzes über die Förderung der Erwachsenenbildung;
+1) Zweck der Stiftung ist:
 
-- die Durchführung von eigenen Programmen und Kursen im Bereich der Erwachsenenbildung, soweit sie nicht von anderen Veranstaltern durchgeführt werden oder durchgeführt werden können.
+a) die Koordination, Planung und Förderung im Bereich der Erwachsenenbildung;
 
-- Die  Stiftung  kann  alle  mit  diesem  Zweck  in  Zusammenhang  stehenden Tätigkeiten ausüben.
+b) die Vergabe von Förderungsmitteln im Sinne des Gesetzes über die Förderung der Erwachsenenbildung;
+
+c) die Durchführung von eigenen Programmen und Kursen im Bereich der Erwachsenenbildung, soweit sie nicht von anderen Veranstaltern durchgeführt werden oder durchgeführt werden können.
+
+2) Die Stiftung kann alle mit diesem Zweck in Zusammenhang stehenden Tätigkeiten ausüben.
 
 ### Art. 4 2
 
@@ -68,19 +72,15 @@ Das Stiftungskapital beträgt 100 000 Franken.
 
 Die Einkünfte der Stiftung sind:
 
-- der gemäss Landesvoranschlag jährlich vorgesehene Landesbeitrag;
+a) der gemäss Landesvoranschlag jährlich vorgesehene Landesbeitrag;
 
-- sonstige Einkünfte.
+b) sonstige Einkünfte.
 
 > 1 Art. 3 abgeändert durch LGBl. 2009 Nr. 361.
 
 > 2 Art. 4 abgeändert durch LGBl. 2009 Nr. 361.
 
 3 Art. 5 abgeändert durch LGBl. 2009 Nr. 361.
-
-### Art. 3 1
-
-#### Zweck
 
 2
 
@@ -98,11 +98,11 @@ Erwachsenenbildung
 
 Die Organe der Stiftung sind:
 
-- der Stiftungsrat;
+a) der Stiftungsrat;
 
-- die Geschäftsleitung; 1
+b) die Geschäftsleitung; 1
 
-- die Revisionsstelle. 2
+c) die Revisionsstelle. 2
 
 ## II. Der Stiftungsrat
 
@@ -116,23 +116,23 @@ Der Stiftungsrat besteht aus fünf bis sieben Mitgliedern.
 
 #### Anforderungen und Unvereinbarkeit
 
-- Im  Stiftungsrat  sind,  soweit  möglich,  Fachkompetenzen  aus  folgenden Bereichen vertreten:
+1) Im Stiftungsrat sind, soweit möglich, Fachkompetenzen aus folgenden Bereichen vertreten:
 
-- Bildungswesen;
+a) Bildungswesen;
 
-- Finanz- und Rechnungswesen;
+b) Finanz- und Rechnungswesen;
 
-- Recht.
+c) Recht.
 
-- Die Regierung erarbeitet ein ausführliches Anforderungsprofil über die fachlichen und personellen Anforderungen für:
+2) Die Regierung erarbeitet ein ausführliches Anforderungsprofil über die fachlichen und personellen Anforderungen für:
 
-- den Stiftungsrat als Gremium;
+a) den Stiftungsrat als Gremium;
 
-- jedes Mitglied des Stiftungsrates;
+b) jedes Mitglied des Stiftungsrates;
 
-- den Präsidenten im Besonderen.
+c) den Präsidenten im Besonderen.
 
-- Die Mitglieder des Stiftungsrates dürfen keine engeren Verbindungen zu Veranstaltern der Erwachsenenbildung aufweisen.
+3) Die Mitglieder des Stiftungsrates dürfen keine engeren Verbindungen zu Veranstaltern der Erwachsenenbildung aufweisen.
 
 > 1 Art. 6 Bst. b abgeändert durch LGBl. 2009 Nr. 361.
 
@@ -160,23 +160,23 @@ Erwachsenenbildung
 
 2) Dem Stiftungsrat kommen folgende unentziehbare und nicht delegierbare Aufgaben zu:
 
-- die Oberleitung der Stiftung;
+a) die Oberleitung der Stiftung;
 
-- der Erlass und die Änderung der Statuten;
+b) der Erlass und die Änderung der Statuten;
 
-- die Festlegung der Organisation;
+c) die Festlegung der Organisation;
 
-- die Finanzplanung und die Finanzkontrolle, soweit dies für die Führung des Unternehmens erforderlich ist;
+d) die Finanzplanung und die Finanzkontrolle, soweit dies für die Führung des Unternehmens erforderlich ist;
 
-- die  Wahl,  Überwachung  und  Abberufung  der  Mitglieder  der  Geschäftsleitung;
+e) die Wahl, Überwachung und Abberufung der Mitglieder der Geschäftsleitung;
 
-- die Umsetzung der von der Regierung beschlossenen Eignerstrategie;
+f) die Umsetzung der von der Regierung beschlossenen Eignerstrategie;
 
-- die  Erstellung  des  jährlichen  Voranschlags,  der  Jahresrechnung  und des Jahresberichts zu Handen der Regierung;
+g) die Erstellung des jährlichen Voranschlags, der Jahresrechnung und des Jahresberichts zu Handen der Regierung;
 
-- der  Erlass  von  Reglementen  über  die  Förderung  und  Finanzierung der Veranstalter von Angeboten der Erwachsenenbildung im Rahmen des Gesetzes über die Förderung der Erwachsenenbildung;
+h) der Erlass von Reglementen über die Förderung und Finanzierung der Veranstalter von Angeboten der Erwachsenenbildung im Rahmen des Gesetzes über die Förderung der Erwachsenenbildung;
 
-- die  Beschlussfassung  über  und die Ausrichtung von Förderungsbeiträgen  an  Veranstalter  von  Erwachsenenbildungskursen  im  Rahmen des Gesetzes über die Förderung der Erwachsenenbildung, des Landesvoranschlages und der von der Regierung genehmigten Reglemente.
+i) die Beschlussfassung über und die Ausrichtung von Förderungsbeiträgen an Veranstalter von Erwachsenenbildungskursen im Rahmen des Gesetzes über die Förderung der Erwachsenenbildung, des Landesvoranschlages und der von der Regierung genehmigten Reglemente.
 
 3) In den Statuten können die Aufgaben des Stiftungsrates näher umschrieben und erweitert werden.
 
@@ -200,9 +200,9 @@ Erwachsenenbildung
 
 #### Wahl und Aufgaben
 
-- Die Mitglieder der Geschäftsleitung werden vom Stiftungsrat nach öffentlicher Ausschreibung gewählt.
+1) Die Mitglieder der Geschäftsleitung werden vom Stiftungsrat nach öffentlicher Ausschreibung gewählt.
 
-- Die Geschäftsleitung ist für die operative Führung der Stiftung verantwortlich. Zusammensetzung, Aufgaben und Befugnisse der Geschäftsleitung werden in den Statuten und im Organisationsreglement bestimmt.
+2) Die Geschäftsleitung ist für die operative Führung der Stiftung verantwortlich. Zusammensetzung, Aufgaben und Befugnisse der Geschäftsleitung werden in den Statuten und im Organisationsreglement bestimmt.
 
 ## IIIa. Die Revisionsstelle 3
 
@@ -210,13 +210,13 @@ Erwachsenenbildung
 
 #### Wahl und Aufgaben
 
-- Die Regierung wählt eine anerkannte Revisionsgesellschaft im Sinne des Gesetzes über die Wirtschaftsprüfer und Revisionsgesellschaften als Revisionsstelle.
+1) Die Regierung wählt eine anerkannte Revisionsgesellschaft im Sinne des Gesetzes über die Wirtschaftsprüfer und Revisionsgesellschaften als Revisionsstelle.
 
-- Die  Aufgaben  der Revisionsstelle richten sich grundsätzlich nach den  entsprechenden  Bestimmungen  des  Personen-  und  Gesellschaftsrechts.
+2) Die Aufgaben der Revisionsstelle richten sich grundsätzlich nach den entsprechenden Bestimmungen des Personen- und Gesellschaftsrechts.
 
-- In  den Statuten können der Revisionsstelle weitere Aufgaben zugewiesen werden, sofern die Unabhängigkeit der Revisionsstelle dadurch nicht beeinträchtigt wird.
+3) In den Statuten können der Revisionsstelle weitere Aufgaben zugewiesen werden, sofern die Unabhängigkeit der Revisionsstelle dadurch nicht beeinträchtigt wird.
 
-- In Abweichung von Abs. 1 bis 3 kann die Regierung der staatlichen Finanzkontrolle die Funktion der Revisionsstelle übertragen. In diesem Fall richten sich die Aufgaben der Revisionsstelle grundsätzlich nach den spezifischen gesetzlichen Bestimmungen über die Finanzkontrolle.
+4) In Abweichung von Abs. 1 bis 3 kann die Regierung der staatlichen Finanzkontrolle die Funktion der Revisionsstelle übertragen. In diesem Fall richten sich die Aufgaben der Revisionsstelle grundsätzlich nach den spezifischen gesetzlichen Bestimmungen über die Finanzkontrolle.
 
 > 1 Überschrift vor Art. 9 abgeändert durch LGBl. 2009 Nr. 361.
 
@@ -242,25 +242,25 @@ Erwachsenenbildung
 
 #### Aufsichtsbehörde
 
-- Die Stiftung untersteht der Oberaufsicht der Regierung.
+1) Die Stiftung untersteht der Oberaufsicht der Regierung.
 
-- Die Regierung hat insbesondere folgende Aufgaben:
+2) Die Regierung hat insbesondere folgende Aufgaben:
 
-- die Wahl des Präsidenten und der weiteren Mitglieder des Stiftungsrates;
+a) die Wahl des Präsidenten und der weiteren Mitglieder des Stiftungsrates;
 
-- die Genehmigung der Statuten;
+b) die Genehmigung der Statuten;
 
-- die Festlegung der Entschädigung der Stiftungsratsmitglieder;
+c) die Festlegung der Entschädigung der Stiftungsratsmitglieder;
 
-- die Genehmigung des jährlichen Voranschlages;
+d) die Genehmigung des jährlichen Voranschlages;
 
-- die Genehmigung der Jahresrechnung und des Jahresberichtes sowie die Entlastung des Stiftungsrates;
+e) die Genehmigung der Jahresrechnung und des Jahresberichtes sowie die Entlastung des Stiftungsrates;
 
-- die Wahl der Revisionsstelle;
+f) die Wahl der Revisionsstelle;
 
-- die Festlegung und Änderung der Eignerstrategie.
+g) die Festlegung und Änderung der Eignerstrategie.
 
-- Die  Regierung  nimmt  Reglemente,  welche  der  Stiftungsrat  aufgrund von gesetzlichen Bestimmungen zu erlassen hat, zur Kenntnis.
+3) Die Regierung nimmt Reglemente, welche der Stiftungsrat aufgrund von gesetzlichen Bestimmungen zu erlassen hat, zur Kenntnis.
 
 ## V. Schlussbestimmungen
 
@@ -288,7 +288,9 @@ Erwachsenenbildung
 
 Dieses Gesetz tritt am 1. Januar 1999 in Kraft.
 
-gez. Hans-Adam gez. Dr. Mario Frick Fürstlicher Regierungschef
+gez. Hans-Adam
+gez. Dr. Mario Frick
+Fürstlicher Regierungschef
 
 7
 
