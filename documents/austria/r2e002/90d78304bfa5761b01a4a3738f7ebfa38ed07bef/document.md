@@ -94,13 +94,13 @@ Bundesrecht konsolidiert
 
 (2) Inhaber eines Gewerbes dürfen Lehrlinge in einem in der Lehrberufsliste angeführten Lehrberuf nur ausbilden, wenn
 
-- sie  nach  den  Bestimmungen  der  Gewerbeordnung 1994,  BGBl.  Nr. 50/1974  (Anm.:  richtig: 194/1994), zur Ausübung der Tätigkeit befugt sind, in der der Lehrling ausgebildet werden soll,
+a) sie nach den Bestimmungen der Gewerbeordnung 1994, BGBl. Nr. 50/1974 (Anm.: richtig: 194/1994), zur Ausübung der Tätigkeit befugt sind, in der der Lehrling ausgebildet werden soll,
 
-- sie nicht nach den Bestimmungen des § 4 dieses Bundesgesetzes vom Recht zur Ausbildung von Lehrlingen ausgeschlossen sind,
+b) sie nicht nach den Bestimmungen des § 4 dieses Bundesgesetzes vom Recht zur Ausbildung von Lehrlingen ausgeschlossen sind,
 
-- sie,  oder  in  den  Fällen  des  § 3  der  Ausbilder,  die  erforderlichen  Fachkenntnisse  besitzen  und, sofern  Abs. 8  und  9  nicht  anders  bestimmen,  die  Ausbilderprüfung  erfolgreich  abgelegt  oder einen Ausbilderkurs erfolgreich absolviert haben und
+c) sie, oder in den Fällen des § 3 der Ausbilder, die erforderlichen Fachkenntnisse besitzen und, sofern Abs. 8 und 9 nicht anders bestimmen, die Ausbilderprüfung erfolgreich abgelegt oder einen Ausbilderkurs erfolgreich absolviert haben und
 
-- die im Abs. 6 festgelegten Voraussetzungen gegeben sind.
+d) die im Abs. 6 festgelegten Voraussetzungen gegeben sind.
 
 (3) Inhaber eines Gewerbes, dessen Ausübung  die Erbringung des Befähigungsnachweises voraussetzt (§ 16 Abs. 1 der Gewerbeordnung 1994), dürfen Lehrlinge in den ihrem Gewerbe entsprechenden  Lehrberufen  nur  ausbilden,  wenn  sie  -  ausgenommen  die  Fälle  des  § 17  Abs. 1  der Gewerbeordnung 1994 - die erforderlichen  Fachkenntnisse durch die Erfüllung der im  § 16 Abs. 2 der Gewerbeordnung 1994 angeführten Voraussetzungen nachweisen. Dieser Nachweis ist nicht erforderlich, wenn ein Ausbilder (§ 3) mit der Ausbildung von Lehrlingen betraut ist.
 
@@ -108,19 +108,19 @@ Bundesrecht konsolidiert
 
 (5) Das Ausbilden von Lehrlingen in einem in der Lehrberufsliste angeführten Lehrberuf ist ferner zulässig
 
-- durch  die  Inhaber  von  Betrieben,  die  nicht  den  Bestimmungen  der  Gewerbeordnung 1994 unterliegen, deren Inhaber aber Mitglied einer Landeskammer der gewerblichen Wirtschaft sind,
+a) durch die Inhaber von Betrieben, die nicht den Bestimmungen der Gewerbeordnung 1994 unterliegen, deren Inhaber aber Mitglied einer Landeskammer der gewerblichen Wirtschaft sind,
 
-- in  von  land-  und  forstwirtschaftlichen  Erwerbs-  und  Wirtschaftsgenossenschaften  betriebenen Sägen,  Harzverarbeitungsstätten,  Mühlen  und  Molkereien,  sofern  in  diesen  Betrieben  dauernd eine größere Anzahl von Dienstnehmern beschäftigt wird, als gemäß § 2 des Landarbeitsgesetzes, BGBl.  Nr. 140/1948, in der jeweils geltenden Fassung, bestimmt ist, auch wenn  diese Genossenschaft nicht Mitglied einer Landeskammer der gewerblichen Wirtschaft ist,
+b) in von land- und forstwirtschaftlichen Erwerbs- und Wirtschaftsgenossenschaften betriebenen Sägen, Harzverarbeitungsstätten, Mühlen und Molkereien, sofern in diesen Betrieben dauernd eine größere Anzahl von Dienstnehmern beschäftigt wird, als gemäß § 2 des Landarbeitsgesetzes, BGBl. Nr. 140/1948, in der jeweils geltenden Fassung, bestimmt ist, auch wenn diese Genossenschaft nicht Mitglied einer Landeskammer der gewerblichen Wirtschaft ist,
 
-- durch die Elektrizitätsversorgungsunternehmen, die gemeinnützigen Wohnungsunternehmen, die Sozialversicherungsträger, die Bauarbeiter-Urlaubs- und Abfertigungskasse und die gesetzlichen beruflichen Interessenvertretungen von Arbeitgebern und Arbeitnehmern,
+c) durch die Elektrizitätsversorgungsunternehmen, die gemeinnützigen Wohnungsunternehmen, die Sozialversicherungsträger, die Bauarbeiter-Urlaubs- und Abfertigungskasse und die gesetzlichen beruflichen Interessenvertretungen von Arbeitgebern und Arbeitnehmern,
 
-- durch  die  Inhaber  von  Betrieben,  die  der  Herausgabe  periodischer  Druckschriften  durch  deren Herausgeber dienen,
+d) durch die Inhaber von Betrieben, die der Herausgabe periodischer Druckschriften durch deren Herausgeber dienen,
 
-- durch Gebietskörperschaften, Universitäten, Hochschulen und die Österreichische Akademie der Wissenschaften,
+e) durch Gebietskörperschaften, Universitäten, Hochschulen und die Österreichische Akademie der Wissenschaften,
 
-- durch Ausübende der freien Berufe,
+f) durch Ausübende der freien Berufe,
 
-- durch  Vereine  und  sonstige  juristische  Personen,  die  nicht  unter  Abs. 2  fallen,  sofern  die Ausbildung von Lehrlingen im Rahmen ihres Wirkungsbereiches nicht den Hauptzweck bildet,
+g) durch Vereine und sonstige juristische Personen, die nicht unter Abs. 2 fallen, sofern die Ausbildung von Lehrlingen im Rahmen ihres Wirkungsbereiches nicht den Hauptzweck bildet,
 
 wenn für die erforderliche Anzahl von Personen, die die persönlichen Voraussetzungen für das Ausbilden von Lehrlingen besitzen (Abs. 2 lit. b und c) vorgesorgt ist und die Voraussetzungen des Abs. 6 gegeben sind.
 
@@ -128,7 +128,7 @@ wenn für die erforderliche Anzahl von Personen, die die persönlichen Vorausset
 
 (7) In Teilgewerben (§ 31 GewO 1994) ist die Ausbildung von Lehrlingen bei Vorliegen der sonst nach diesem Bundesgesetz bestimmten Voraussetzungen zulässig.
 
-(8) Lehrberechtigte, die erstmals Lehrlinge aufnehmen  und  die  die  Fachkenntnisse  für die Ausbildung von Lehrlingen gemäß Abs. 2 lit. c noch nicht nachweisen können, dürfen selbst oder durch eine sonst geeignete und im Betrieb tätige Person, die zumindest die beruflichen Qualifikationen gemäß § 29c  Abs. 1  besitzt,  Lehrlinge  ausbilden,  müssen  jedoch  spätestens  18  Monate  nach  bescheidmäßiger Feststellung,  daß  die  im  § 3a  Abs. 1  festgelegten  Voraussetzungen  vorliegen,  den  Nachweis  der Fachkenntnisse  für  die  Ausbildung  von  Lehrlingen  gemäß  Abs. 2  lit. c  erbringen  oder  die  Bestellung eines Ausbilders anzeigen. Wird innerhalb dieser Frist der Nachweis nicht erbracht oder die Bestellung eines Ausbilders nicht angezeigt, dürfen die bereits aufgenommenen Lehrlinge zwar weiter ausgebildet, neue  Lehrlinge  jedoch  nicht  aufgenommen  werden.  Dies gilt  sinngemäß  auch  in  Fällen,  in  denen  vom Lehrberechtigten gemäß § 3 Abs. 1 ein Ausbilder bestellt werden muß.
+(8) Lehrberechtigte, die erstmals Lehrlinge aufnehmen und die die Fachkenntnisse für die Ausbildung von Lehrlingen gemäß Abs. 2 lit. c noch nicht nachweisen können, dürfen selbst oder durch eine sonst geeignete und im Betrieb tätige Person, die zumindest die beruflichen Qualifikationen gemäß § 29c Abs. 1 besitzt, Lehrlinge ausbilden, müssen jedoch spätestens 18 Monate nach bescheidmäßiger Feststellung, daß die im § 3a Abs. 1 festgelegten Voraussetzungen vorliegen, den Nachweis der Fachkenntnisse für die Ausbildung von Lehrlingen gemäß Abs. 2 lit. c erbringen oder die Bestellung eines Ausbilders anzeigen. Wird innerhalb dieser Frist der Nachweis nicht erbracht oder die Bestellung eines Ausbilders nicht angezeigt, dürfen die bereits aufgenommenen Lehrlinge zwar weiter ausgebildet,
 
 www.ris.bka.gv.at
 
@@ -140,33 +140,35 @@ Seite 2 von 53
 
 Bundesrecht konsolidiert
 
+neue Lehrlinge jedoch nicht aufgenommen werden. Dies gilt sinngemäß auch in Fällen, in denen vom Lehrberechtigten gemäß § 3 Abs. 1 ein Ausbilder bestellt werden muß.
+
 (9) Scheidet während des Ausbildens von Lehrlingen ein Ausbilder unvorhergesehen aus und hat der Lehrberechtigte  gemäß  § 3  Abs. 1  unverzüglich  einen  anderen  Ausbilder  zu  bestellen,  so  darf  der Lehrberechtigte auch eine sonst  geeignete  und  im  Betrieb  tätige  Person,  die  zumindest  die  beruflichen Qualifikationen gemäß  § 29c  Abs. 1  besitzt, jedoch  die Fachkenntnisse  für  die  Ausbildung  von Lehrlingen gemäß Abs. 2 lit. c noch nicht nachweisen kann, mit der weiteren Ausbildung von Lehrlingen betrauen. Innerhalb von 18 Monaten nach dem unvorhergesehenen Ausscheiden eines Ausbilders hat der Lehrberechtigte die Bestellung eines Ausbilders anzuzeigen. Ist dies nicht der Fall, so dürfen die bereits aufgenommenen Lehrlinge zwar weiter ausgebildet, neue Lehrlinge jedoch nicht aufgenommen werden.
 
 ### Ausbildungsverbund
 
 § 2a. (1) Wenn in einem Lehrbetrieb (einer Ausbildungsstätte) die nach den Ausbildungsvorschriften festgelegten  Fertigkeiten  und  Kenntnisse  nicht  in  vollem  Umfang  vermittelt  werden  können,  so  ist  die Ausbildung von Lehrlingen dann zulässig, wenn eine ergänzende Ausbildung durch Ausbildungsmaßnahmen in einem anderen hiefür geeigneten Betrieb oder einer anderen hiefür geeigneten Einrichtung erfolgt. Eine solche ergänzende Ausbildung ist nur dann zulässig, wenn im Lehrbetrieb die für  den  Lehrberuf  wesentlichen  Fertigkeiten  und  Kenntnisse  überwiegend  selbst  ausgebildet  werden können.
 
-- Die  ergänzende  Ausbildung  ist  im  Bescheid  nach  § 3a  bezogen  auf  die  Fertigkeiten  und Kenntnisse  gemäß  dem  Berufsbild  sowie  bezogen  auf  das  Lehrjahr  festzulegen.  Eine  die  ergänzende Ausbildung betreffende Vereinbarung ist Bestandteil des Lehrvertrages gemäß § 12 Abs. 3 und 4; sie ist entweder im Lehrvertrag zu treffen oder dem Lehrvertrag als Anhang anzuschließen und bei Anmeldung des Lehrvertrages zur Eintragung vorzulegen.
+(2) Die ergänzende Ausbildung ist im Bescheid nach § 3a bezogen auf die Fertigkeiten und Kenntnisse gemäß dem Berufsbild sowie bezogen auf das Lehrjahr festzulegen. Eine die ergänzende Ausbildung betreffende Vereinbarung ist Bestandteil des Lehrvertrages gemäß § 12 Abs. 3 und 4; sie ist entweder im Lehrvertrag zu treffen oder dem Lehrvertrag als Anhang anzuschließen und bei Anmeldung des Lehrvertrages zur Eintragung vorzulegen.
 
-- Wurde in einem Verfahren gemäß § 3a festgestellt, daß die Ausbildung von Lehrlingen nur dann zulässig ist,  wenn eine ergänzende Ausbildung durch Ausbildungsmaßnahmen in einem anderen hiefür geeigneten Betrieb oder einer anderen hiefür geeigneten Einrichtung erfolgt, und wird ein Lehrvertrag bei der Lehrlingsstelle angemeldet, der keine solche ergänzende Ausbildung vorsieht, so hat die Lehrlingsstelle, wenn der Lehrvertrag nicht innerhalb angemessener Frist ergänzt wird, unter Anwendung des  § 3a  Abs. 3  mit  Bescheid  festzustellen,  ob  und  inwieweit  diese  ergänzende  Ausbildung  noch erforderlich ist.
+(3) Wurde in einem Verfahren gemäß § 3a festgestellt, daß die Ausbildung von Lehrlingen nur dann zulässig ist, wenn eine ergänzende Ausbildung durch Ausbildungsmaßnahmen in einem anderen hiefür geeigneten Betrieb oder einer anderen hiefür geeigneten Einrichtung erfolgt, und wird ein Lehrvertrag bei der Lehrlingsstelle angemeldet, der keine solche ergänzende Ausbildung vorsieht, so hat die Lehrlingsstelle, wenn der Lehrvertrag nicht innerhalb angemessener Frist ergänzt wird, unter Anwendung des § 3a Abs. 3 mit Bescheid festzustellen, ob und inwieweit diese ergänzende Ausbildung noch erforderlich ist.
 
 ### Der Ausbilder
 
 § 3. (1) Der Lehrberechtigte hat mit der Ausbildung von Lehrlingen andere Personen (Ausbilder) zu betrauen,  die  die  Anforderungen  des  § 2  Abs. 2  lit. b  und  c  erfüllen  und  in  der  Lage  sind,  sich  im Lehrbetrieb (in der Ausbildungsstätte) entsprechend zu betätigen, sofern
 
-- der Lehrberechtigte eine juristische Person, eine offene Gesellschaft, eine Kommanditgesellschaft oder eine natürliche Person, die zur Gewerbeausübung einen Geschäftsführer zu bestellen hat (§ 16 GewO 1994) und selbst nicht die Fachkenntnisse für die Ausbildung von Lehrlingen gemäß § 2 Abs. 2 lit. c nachweisen kann, ist,
+1. der Lehrberechtigte eine juristische Person, eine offene Gesellschaft, eine Kommanditgesellschaft oder eine natürliche Person, die zur Gewerbeausübung einen Geschäftsführer zu bestellen hat (§ 16 GewO 1994) und selbst nicht die Fachkenntnisse für die Ausbildung von Lehrlingen gemäß § 2 Abs. 2 lit. c nachweisen kann, ist,
 
-- die  Art  oder  der  Umfang  des  Unternehmens  die  fachliche  Ausbildung  des  Lehrlings  in  dem betreffenden Lehrberuf unter der alleinigen Aufsicht der Lehrberechtigten nicht zuläßt oder
+2. die Art oder der Umfang des Unternehmens die fachliche Ausbildung des Lehrlings in dem betreffenden Lehrberuf unter der alleinigen Aufsicht der Lehrberechtigten nicht zuläßt oder
 
-- der Lehrberechtigte ein Fortbetriebsberechtigter im Sinne des § 41 der Gewerbeordnung 1994 ist.
+3. der Lehrberechtigte ein Fortbetriebsberechtigter im Sinne des § 41 der Gewerbeordnung 1994 ist.
 
-- Ein Lehrberechtigter, der gemäß Abs. 1 nicht verpflichtet ist, einen Ausbilder mit der Ausbildung von Lehrlingen zu betrauen, ist dazu berechtigt; dies gilt insbesondere, wenn es sich um ein durch Abs. 1 Z 2 nicht erfaßtes, in der Form eines Industriebetriebes ausgeübtes Gewerbe oder um die Ausübung von Rechten  handelt,  die  dem  Gewerbeinhaber  im  Rahmen  seiner  Gewerbeberechtigung  zustehen,  wie  die Durchführung von Instandsetzungs- und Vollendungsarbeiten oder die Führung eines Nebenbetriebes.
+(2) Ein Lehrberechtigter, der gemäß Abs. 1 nicht verpflichtet ist, einen Ausbilder mit der Ausbildung von Lehrlingen zu betrauen, ist dazu berechtigt; dies gilt insbesondere, wenn es sich um ein durch Abs. 1 Z 2 nicht erfaßtes, in der Form eines Industriebetriebes ausgeübtes Gewerbe oder um die Ausübung von Rechten handelt, die dem Gewerbeinhaber im Rahmen seiner Gewerbeberechtigung zustehen, wie die Durchführung von Instandsetzungs- und Vollendungsarbeiten oder die Führung eines Nebenbetriebes.
 
-- Ein gewerberechtlicher Geschäftsführer oder ein Filialgeschäftsführer darf als  Ausbilder herangezogen werden, wenn er den Anforderungen des Abs. 1 entspricht.
+(3) Ein gewerberechtlicher Geschäftsführer oder ein Filialgeschäftsführer darf als Ausbilder herangezogen werden, wenn er den Anforderungen des Abs. 1 entspricht.
 
-- Der Ausbilder hat sich im Betrieb entsprechend zu betätigen.
+(4) Der Ausbilder hat sich im Betrieb entsprechend zu betätigen.
 
-- Sofern  in  einem  Unternehmen  mehrere  Ausbilder  mit  der  Ausbildung  von  Lehrlingen  betraut wurden, hat der Lehrberechtigte eine Person mit der Koordination der gesamten Ausbildung zu betrauen (Ausbildungsleiter), wenn es zur sachgemäßen Ausbildung der Lehrlinge erforderlich ist.
+(5) Sofern in einem Unternehmen mehrere Ausbilder mit der Ausbildung von Lehrlingen betraut wurden, hat der Lehrberechtigte eine Person mit der Koordination der gesamten Ausbildung zu betrauen (Ausbildungsleiter), wenn es zur sachgemäßen Ausbildung der Lehrlinge erforderlich ist.
 
 ### Erstmaliges Ausbilden von Lehrlingen
 
@@ -190,21 +192,21 @@ diesen Lehrberuf, allenfalls nach Maßgabe des § 2a, vorliegen. Diese Feststell
 
 ### Verbot des Ausbildens von Lehrlingen
 
-§ 4. (1)  Lehrberechtigte,  die  wegen  einer  vorsätzlichen,  mit  mehr  als  einjähriger  Freiheitsstrafe bedrohten Handlung, wegen einer mit Bereicherungsvorsatz begangenen oder einer strafbaren Handlung gegen die Sittlichkeit oder wegen der Finanzvergehen des Schmuggels, der Hinterziehung von Eingangsoder Ausgangsabgaben oder der Abgabenhehlerei nach § 37 Abs. 1 lit. a des Finanzstrafgesetzes, BGBl. Nr. 129/1958,  rechtskräftig  von  einem  Gericht  verurteilt  worden  sind,  ohne  daß  die  Strafe  bedingt nachgesehen worden ist, dürfen Lehrlinge weder aufnehmen noch die bereits aufgenommenen Lehrlinge weiter ausbilden.
+§ 4. (1) Lehrberechtigte, die wegen einer vorsätzlichen, mit mehr als einjähriger Freiheitsstrafe bedrohten Handlung, wegen einer mit Bereicherungsvorsatz begangenen oder einer strafbaren Handlung gegen die Sittlichkeit oder wegen der Finanzvergehen des Schmuggels, der Hinterziehung von Eingangs- oder Ausgangsabgaben oder der Abgabenhehlerei nach § 37 Abs. 1 lit. a des Finanzstrafgesetzes, BGBl. Nr. 129/1958, rechtskräftig von einem Gericht verurteilt worden sind, ohne daß die Strafe bedingt nachgesehen worden ist, dürfen Lehrlinge weder aufnehmen noch die bereits aufgenommenen Lehrlinge weiter ausbilden.
 
 (2) Lehrberechtigte, die wegen  einer der im Abs. 1 angeführten strafbaren Handlungen  in gerichtlicher Untersuchung stehen, dürfen Lehrlinge nicht aufnehmen.
 
-(3)  Die  Bezirksverwaltungsbehörde  hat  auf  Antrag  des  Lehrberechtigten  oder  des  Lehrlings,  für minderjährige Lehrlinge auf Antrag des gesetzlichen Vertreters, nach Anhörung der für den Lehrberechtigten  zuständigen  Fachgruppe  (Fachvertretung,  Kammer  der  gewerblichen  Wirtschaft  Sektion Handel) und der Kammer für Arbeiter und Angestellte Ausnahmen von den Bestimmungen des Abs. 1 und 2 zu bewilligen, wenn kein Nachteil für die Lehrlinge zu befürchten ist.
+(3) Die Bezirksverwaltungsbehörde hat auf Antrag des Lehrberechtigten oder des Lehrlings, für minderjährige Lehrlinge auf Antrag des gesetzlichen Vertreters, nach Anhörung der für den Lehrberechtigten zuständigen Fachgruppe (Fachvertretung, Kammer der gewerblichen Wirtschaft - Sektion Handel) und der Kammer für Arbeiter und Angestellte Ausnahmen von den Bestimmungen des Abs. 1 und 2 zu bewilligen, wenn kein Nachteil für die Lehrlinge zu befürchten ist.
 
 (4)  Die  Bezirksverwaltungsbehörde  hat  einem  Lehrberechtigten  nach  Anhörung  der  für  ihn zuständigen  Fachgruppe  (Fachvertretung,  Kammer  der  gewerblichen  Wirtschaft  -  Sektion  Handel)  und der Kammer für Arbeiter und Angestellte die Ausbildung von Lehrlingen zu untersagen,
 
-- wenn der Lehrberechtigte oder der Ausbilder wegen einer der im Abs. 1 angeführten strafbaren Handlungen in gerichtlicher Untersuchung steht, sofern durch diesen Umstand ein Nachteil für die Lehrlinge zu befürchten ist,
+a) wenn der Lehrberechtigte oder der Ausbilder wegen einer der im Abs. 1 angeführten strafbaren Handlungen in gerichtlicher Untersuchung steht, sofern durch diesen Umstand ein Nachteil für die Lehrlinge zu befürchten ist,
 
-- wenn der Ausbilder wegen einer der im Abs. 1 angeführten strafbaren Handlungen vom Gericht rechtskräftig verurteilt worden ist, ohne daß die Strafe bedingt nachgesehen worden ist,
+b) wenn der Ausbilder wegen einer der im Abs. 1 angeführten strafbaren Handlungen vom Gericht rechtskräftig verurteilt worden ist, ohne daß die Strafe bedingt nachgesehen worden ist,
 
-- wenn der Lehrberechtigte oder der Ausbilder einer Sucht, insbesondere der Trunksucht, verfallen ist,
+c) wenn der Lehrberechtigte oder der Ausbilder einer Sucht, insbesondere der Trunksucht, verfallen ist,
 
-- wenn der Lehrberechtigte oder der Ausbilder die Pflichten gegenüber seinem Lehrling gröblich verletzt,  insbesondere  wenn  eine  dieser  Personen  an  dem  nicht  entsprechenden  Ergebnis  einer Lehrabschlußprüfung Schuld trägt, Vereinbarungen betreffend eine Ausbildung im Rahmen eines Ausbildungsverbundes  nicht  einhält  oder  diese  Personen  bzw.  die  verwaltungsstrafrechtlich
+d) wenn der Lehrberechtigte oder der Ausbilder die Pflichten gegenüber seinem Lehrling gröblich verletzt, insbesondere wenn eine dieser Personen an dem nicht entsprechenden Ergebnis einer Lehrabschlußprüfung Schuld trägt, Vereinbarungen betreffend eine Ausbildung im Rahmen eines Ausbildungsverbundes nicht einhält oder diese Personen bzw. die verwaltungsstrafrechtlich
 
 www.ris.bka.gv.at
 
@@ -218,13 +220,13 @@ Bundesrecht konsolidiert
 
 verantwortlichen  Personen  wiederholt  gemäß  § 32  Abs. 1  bestraft  wurden  und  dennoch  diesen Pflichten nicht nachgekommen sind, oder
 
-- wenn  der  Betrieb  oder  die  Werkstätte  nicht  den  Anforderungen  des  § 2  Abs. 6  entspricht;  in entsprechend  begründeten  Fällen  kann  die  Untersagung  auch  nur  für  einzelne  Lehrberufe ausgesprochen werden.
+e) wenn der Betrieb oder die Werkstätte nicht den Anforderungen des § 2 Abs. 6 entspricht; in entsprechend begründeten Fällen kann die Untersagung auch nur für einzelne Lehrberufe ausgesprochen werden.
 
 (5) Die Ausbildung von Lehrlingen kann für immer oder auch, je nach der Art des Grundes, aus dem die Nichteignung des Lehrberechtigten oder des Ausbilders anzunehmen ist, für eine angemessene Zeit untersagt werden. Ist eine gerichtliche Untersuchung der Grund der Maßnahme, so ist auszusprechen, daß das  Verbot  mit  der  Einstellung  des  Strafverfahrens  oder  dem  rechtskräftigen  Freispruch  endet.  Ist  die Nichteignung des Ausbilders (Abs. 4 lit. a bis d) oder des Betriebes oder der Werkstätte (Abs. 4 lit. e) der Grund der Maßnahme, so hat die Bezirksverwaltungsbehörde von dem Verbot abzusehen oder ein bereits erlassenes Verbot aufzuheben, wenn ein geeigneter Ausbilder mit der Ausbildung betraut wurde oder der Lehrberechtigte selbst die Ausbildung übernimmt, bzw. wenn der Betrieb oder die Werkstätte nunmehr den Anforderungen des § 2 Abs. 6 entspricht.
 
 (6)  Bescheide  gemäß  Abs. 4  und  5,  die  ohne  Anhörung  der  Landeskammer  der  gewerblichen Wirtschaft und der Kammer für Arbeiter und Angestellte erlassen worden sind, sind mit Nichtigkeit (§ 68 Abs. 4 lit. d AVG) bedroht. Wenn die Entscheidung der Bezirksverwaltungsbehörde einem Antrag gemäß Abs. 10 oder der fristgerecht abgegebenen Stellungnahme der Landeskammer  der gewerblichen Wirtschaft  oder  der  Kammer  für  Arbeiter  und  Angestellte  widerspricht,  steht  der  Landeskammer  der gewerblichen Wirtschaft oder der Kammer für Arbeiter und Angestellte gegen diesen Bescheid das Recht der Beschwerde gemäß Art. 130 B-VG und gegen das Erkenntnis des Verwaltungsgerichtes die Revision gemäß Art. 133 B-VG wegen Rechtswidrigkeit zu.
 
-(7)  Offene  Gesellschaften  und  Kommanditgesellschaften  dürfen  nicht  ihre  persönlich  haftenden Gesellschafter,  Gesellschaften  mit  beschränkter  Haftung  ihre  Gesellschafter  und  Geschäftsführer  sowie Erwerbsund Wirtschaftsgenossenschaften und Aktiengesellschaften ihre Vorstandsmitglieder als Lehrling ausbilden.
+(7) Offene Gesellschaften und Kommanditgesellschaften dürfen nicht ihre persönlich haftenden Gesellschafter, Gesellschaften mit beschränkter Haftung ihre Gesellschafter und Geschäftsführer sowie Erwerbs- und Wirtschaftsgenossenschaften und Aktiengesellschaften ihre Vorstandsmitglieder als Lehrling ausbilden.
 
 (8) Die  Bezirksverwaltungsbehörden  haben  die Lehrlingsstellen und die örtlich zuständigen Kammern für Arbeiter und Angestellte von rechtskräftigen Bescheiden, mit denen die Ausbildung von Lehrlingen untersagt wird, zu verständigen.
 
@@ -236,17 +238,17 @@ verantwortlichen  Personen  wiederholt  gemäß  § 32  Abs. 1  bestraft  wurden
 
 § 5. (1) Lehrberufe sind Tätigkeiten,
 
-- die alle oder einzelne Teile einer den Bestimmungen der Gewerbeordnung 1994 unterliegenden Beschäftigung oder mehrere solcher Beschäftigungen zum Gegenstand haben,
+a) die alle oder einzelne Teile einer den Bestimmungen der Gewerbeordnung 1994 unterliegenden Beschäftigung oder mehrere solcher Beschäftigungen zum Gegenstand haben,
 
-- die geeignet sind, im Wirtschaftsleben den Gegenstand eines Berufes zu bilden, und
+b) die geeignet sind, im Wirtschaftsleben den Gegenstand eines Berufes zu bilden, und
 
-- deren sachgemäße Erlernung mindestens zwei Jahre erfordert.
+c) deren sachgemäße Erlernung mindestens zwei Jahre erfordert.
 
 (2)  Die  in  § 94  der  Gewerbeordnung 1994  angeführten  Handwerke  sind  nach  Maßgabe  des Berufsausbildungsgesetzes  Lehrberufe.  Lehrberufe  sind  für  solche  Handwerke  einzurichten,  für  welche die  fachliche  Ausbildung  nicht  bereits  durch  einen  bestehenden  Lehrberuf  in  einem  auf  Grund  der Gewerbeordnung 1994 verwandten Handwerk oder verwandten gebundenen Gewerbe sichergestellt ist.
 
 (3) Lehrberufe sind ferner Tätigkeiten,
 
-- die hinsichtlich der Berufsausbildung der Gesetzgebung und der Vollziehung des Bundes, nicht jedoch der Gewerbeordnung 1994 unterliegende Beschäftigungen zum Gegenstand haben,
+a) die hinsichtlich der Berufsausbildung der Gesetzgebung und der Vollziehung des Bundes, nicht jedoch der Gewerbeordnung 1994 unterliegende Beschäftigungen zum Gegenstand haben,
 
 www.ris.bka.gv.at
 
@@ -258,9 +260,9 @@ Seite 5 von 53
 
 Bundesrecht konsolidiert
 
-- bei denen die Ausbildung in dieser Beschäftigung als Lehrling im Sinne dieses Bundesgesetzes im Hinblick auf die für diese Tätigkeiten erforderlichen Fertigkeiten und Kenntnisse zweckmäßig ist, und
+b) bei denen die Ausbildung in dieser Beschäftigung als Lehrling im Sinne dieses Bundesgesetzes im Hinblick auf die für diese Tätigkeiten erforderlichen Fertigkeiten und Kenntnisse zweckmäßig ist, und
 
-- bei denen die Voraussetzungen des Abs. 1 lit. b und c vorliegen.
+c) bei denen die Voraussetzungen des Abs. 1 lit. b und c vorliegen.
 
 (3a)  Lehrberufe  gemäß  Abs. 1  bis  3,  die  als  modulare  Lehrberufe  gemäß  § 8  Abs. 4  eingerichtet werden,  müssen  aus  einem  Grundmodul  und  zumindest  einem  Hauptmodul  sowie  zumindest  einem Spezialmodul bestehen.
 
@@ -272,11 +274,11 @@ Bundesrecht konsolidiert
 
 (7) Die gleichzeitige Ausbildung ist nicht zulässig:
 
-- bei verschiedenen Lehrberechtigten,
+a) bei verschiedenen Lehrberechtigten,
 
-- in  Lehrberufen, die  verwandt sind  und deren  Lehrzeit gegenseitig ohnedies in  vollem  Ausmaß anzurechnen ist (§ 6 Abs. 3), oder
+b) in Lehrberufen, die verwandt sind und deren Lehrzeit gegenseitig ohnedies in vollem Ausmaß anzurechnen ist (§ 6 Abs. 3), oder
 
-- in mehr als zwei Lehrberufen überhaupt.
+c) in mehr als zwei Lehrberufen überhaupt.
 
 (8) Die Ausbildung eines Lehrlings durch einen Lehrberechtigten, dessen Betrieb nur saisonmäßig geführt wird, ist nur dann zulässig, wenn für die Erfüllung der Berufsschulpflicht und für die Erreichung des Ausbildungsziels, beispielsweise im Rahmen eines Ausbildungsverbundes, vorgesorgt ist. Dies ist im Lehrvertrag unter sinngemäßer Anwendung des § 12 Abs. 4 darzulegen.
 
@@ -310,15 +312,15 @@ Bundesrecht konsolidiert
 
 § 7. (1)  Der  Bundesminister  für  Wirtschaft,  Familie  und  Jugend  hat  mit  Verordnung  in  einer Lehrberufsliste festzusetzen:
 
-- die Lehrberufe im Sinne des § 5 Abs. 1 und des § 5 Abs. 3,
+a) die Lehrberufe im Sinne des § 5 Abs. 1 und des § 5 Abs. 3,
 
-- die Dauer der Lehrzeit im Sinne des § 6 Abs. 1,
+b) die Dauer der Lehrzeit im Sinne des § 6 Abs. 1,
 
-- die verwandten Lehrberufe im Sinne des § 5 Abs. 4,
+c) die verwandten Lehrberufe im Sinne des § 5 Abs. 4,
 
-- das Ausmaß der Anrechnung von Lehrzeiten verwandter Lehrberufe im Sinne des § 6 Abs. 4 und
+d) das Ausmaß der Anrechnung von Lehrzeiten verwandter Lehrberufe im Sinne des § 6 Abs. 4 und
 
-- den  Ersatz  der  Lehrabschlußprüfung  durch  erfolgreiche  Ablegung  der  Lehrabschlußprüfung  in einem anderen Lehrberuf.
+e) den Ersatz der Lehrabschlußprüfung durch erfolgreiche Ablegung der Lehrabschlußprüfung in einem anderen Lehrberuf.
 
 (2)  Durch  Änderungen  der  Lehrberufsliste  darf  in  bestehende  Lehrverhältnisse  nicht  eingegriffen werden.
 
@@ -332,7 +334,7 @@ Bundesrecht konsolidiert
 
 (3) Die Ausbildungsvorschriften können für bestimmte Lehrberufe auch zusätzlich schwerpunktmäßig auszubildende Kenntnisse und Fertigkeiten beinhalten, die entsprechend der Ausbildungsberechtigung  im  Bescheid  gemäß  § 3a  durch  den  Lehrbetrieb  auszubilden  sind.  Die Lehrzeitdauer in der Ausbildung in  unterschiedlichen Schwerpunkten eines  Lehrberufes ist  gleich. Die schwerpunktmäßige Ausbildung ist in die Bescheide gemäß § 3a und in die Lehrverträge aufzunehmen. Die  Aufnahme  der  Bezeichnung  des  Schwerpunktes  in  die  Lehrabschlussprüfungszeugnisse  ist  nur zulässig, wenn dies in der Ausbildungsordnung vorgesehen ist.
 
-(4) Der Bundesminister für Wirtschaft, Familie und Jugend kann in den Ausbildungsvorschriften für einen  Lehrberuf auch eine  modulare Ausbildung festlegen. Ein modularer Lehrberuf besteht aus einem Grundmodul und zumindest einem Hauptmodul sowie zumindest einem Spezialmodul. Das Grundmodul hat die Fertigkeiten und Kenntnisse zu enthalten, die den grundlegenden Tätigkeiten eines oder mehrerer Lehrberufe entsprechen. Das Hauptmodul hat jene Fertigkeiten und Kenntnisse zu enthalten, die den dem Lehrberuf eigentümlichen Tätigkeiten und Arbeiten entsprechen. Die Mindestdauer eines Grundmoduls beträgt  zwei  Jahre,  die  Mindestdauer  eines  Hauptmoduls  beträgt  ein  Jahr.  Wenn  dies  auf  Grund  der besonderen Anforderungen des Lehrberufes für eine sachgemäße Ausbildung zweckmäßig ist, kann das Grundmodul mit einer Dauer von zumindest einem Jahr festgelegt werden; auch in diesem Fall ist in der Ausbildungsordnung die Gesamtdauer  eines modularen Lehrberufes als Summe  der  Dauer  von Grundmodul  und  Hauptmodul  zumindest  mit  drei  Jahren  festzulegen.  Die  Ausbildungsinhalte  des Grundmoduls und des Hauptmoduls  haben zusammen die Beruflichkeit im Sinne des § 5 Abs. 1 bis 3 sicher  zu  stellen.  Das  Spezialmodul  enthält  weitere  Fertigkeiten  und  Kenntnisse  eines  Lehrberufes  im Sinne  des  § 5  Abs. 1  bis  3,  die  dem  Qualifikationsbedarf  eines  Berufszweiges  im  Rahmen  der Erstausbildung im Hinblick auf seine speziellen Produktionsweisen und Dienstleistungen entsprechen und die  der  Ausschöpfung  der  in  § 6  Abs. 1  eingeräumten  Möglichkeit  zur  Festlegung  einer  gesamten Lehrzeitdauer von höchstens vier Jahren dienen. Die Dauer eines Spezialmoduls beträgt ein halbes Jahr oder  ein  Jahr.  In  der  Ausbildungsordnung  ist  auch  festzulegen,  inwiefern  ein  Grundmodul  eines Lehrberufes  mit  einem  Hauptmodul  oder  Spezialmodul  eines  anderen  Lehrberufes  kombiniert  werden kann.
+(4) Der Bundesminister für Wirtschaft, Familie und Jugend kann in den Ausbildungsvorschriften für einen Lehrberuf auch eine modulare Ausbildung festlegen. Ein modularer Lehrberuf besteht aus einem Grundmodul und zumindest einem Hauptmodul sowie zumindest einem Spezialmodul. Das Grundmodul hat die Fertigkeiten und Kenntnisse zu enthalten, die den grundlegenden Tätigkeiten eines oder mehrerer Lehrberufe entsprechen. Das Hauptmodul hat jene Fertigkeiten und Kenntnisse zu enthalten, die den dem Lehrberuf eigentümlichen Tätigkeiten und Arbeiten entsprechen. Die Mindestdauer eines Grundmoduls beträgt zwei Jahre, die Mindestdauer eines Hauptmoduls beträgt ein Jahr. Wenn dies auf Grund der besonderen Anforderungen des Lehrberufes für eine sachgemäße Ausbildung zweckmäßig ist, kann das Grundmodul mit einer Dauer von zumindest einem Jahr festgelegt werden; auch in diesem Fall ist in der Ausbildungsordnung die Gesamtdauer eines modularen Lehrberufes als Summe der Dauer von Grundmodul und Hauptmodul zumindest mit drei Jahren festzulegen. Die Ausbildungsinhalte des Grundmoduls und des Hauptmoduls haben zusammen die Beruflichkeit im Sinne des § 5 Abs. 1 bis 3 sicher zu stellen. Das Spezialmodul enthält weitere Fertigkeiten und Kenntnisse eines Lehrberufes im Sinne des § 5 Abs. 1 bis 3, die dem Qualifikationsbedarf eines Berufszweiges im Rahmen der Erstausbildung im Hinblick auf seine speziellen Produktionsweisen und Dienstleistungen entsprechen und die der Ausschöpfung der in § 6 Abs. 1 eingeräumten Möglichkeit zur Festlegung einer gesamten
 
 www.ris.bka.gv.at
 
@@ -344,35 +346,37 @@ Seite 7 von 53
 
 Bundesrecht konsolidiert
 
-- Zur  Sicherung  einer  sachgemäßen  Ausbildung  sind  folgende  Verhältniszahlen  betreffend  das Verhältnis  der  Anzahl  der  Lehrlinge  zur  Anzahl  der  im  Betrieb  beschäftigten,  fachlich  einschlägig ausgebildeten Personen einzuhalten:
+Lehrzeitdauer von höchstens vier Jahren dienen. Die Dauer eines Spezialmoduls beträgt ein halbes Jahr oder ein Jahr. In der Ausbildungsordnung ist auch festzulegen, inwiefern ein Grundmodul eines Lehrberufes mit einem Hauptmodul oder Spezialmodul eines anderen Lehrberufes kombiniert werden kann.
 
-- eine fachlich einschlägig ausgebildete Person ………………………………. zwei Lehrlinge,
+(5) Zur Sicherung einer sachgemäßen Ausbildung sind folgende Verhältniszahlen betreffend das Verhältnis der Anzahl der Lehrlinge zur Anzahl der im Betrieb beschäftigten, fachlich einschlägig ausgebildeten Personen einzuhalten:
 
-- für jede weitere fachlich einschlägig ausgebildete Person ……….... je ein weiterer Lehrling.
+1. eine fachlich einschlägig ausgebildete Person ………………………………. zwei Lehrlinge,
 
-- Auf die Verhältniszahlen von zweijährigen und dreijährigen Lehrberufen sind Lehrlinge in den letzten  vier  Monaten  ihrer  Lehrzeit  nicht  anzurechnen.  Bei  Lehrberufen  mit  einer  Lehrzeitdauer  von zweieinhalb und dreieinhalb Jahren sind Lehrlinge in den letzten sieben Monaten ihrer Lehrzeit nicht auf die  Verhältniszahlen  anzurechnen.  Bei  vierjährigen  Lehrberufen  sind  Lehrlinge  im  letzten  Jahr  ihrer Lehrzeit nicht auf die Verhältniszahlen anzurechnen.
+2. für jede weitere fachlich einschlägig ausgebildete Person ……….... je ein weiterer Lehrling.
 
-- Lehrlinge,  denen  mindestens  zwei  Lehrjahre ersetzt wurden,  sowie  fachlich  einschlägig ausgebildete  Personen,  die  nur  vorübergehend  oder  aushilfsweise  im  Betrieb  beschäftigt  werden,  sind nicht auf die Verhältniszahlen anzurechnen.
+(6) Auf die Verhältniszahlen von zweijährigen und dreijährigen Lehrberufen sind Lehrlinge in den letzten vier Monaten ihrer Lehrzeit nicht anzurechnen. Bei Lehrberufen mit einer Lehrzeitdauer von zweieinhalb und dreieinhalb Jahren sind Lehrlinge in den letzten sieben Monaten ihrer Lehrzeit nicht auf die Verhältniszahlen anzurechnen. Bei vierjährigen Lehrberufen sind Lehrlinge im letzten Jahr ihrer Lehrzeit nicht auf die Verhältniszahlen anzurechnen.
 
-- Werden  in  einem  Betrieb  in  mehr  als  einem  Lehrberuf  Lehrlinge  ausgebildet,  dann  sind Personen,  die  für  mehr  als  einen  dieser  Lehrberufe  fachlich  einschlägig  ausgebildet  sind,  nur  auf  die Verhältniszahl eines dieser Lehrberufe anzurechnen.
+(7) Lehrlinge, denen mindestens zwei Lehrjahre ersetzt wurden, sowie fachlich einschlägig ausgebildete Personen, die nur vorübergehend oder aushilfsweise im Betrieb beschäftigt werden, sind nicht auf die Verhältniszahlen anzurechnen.
 
-- Ein  Ausbilder  ist  bei  der  Ermittlung  der  Verhältniszahl  gemäß  Abs. 5  als  eine  fachlich einschlägig ausgebildete Person zu zählen. Wenn er jedoch mit Ausbildungsaufgaben in mehr als einem Lehrberuf  betraut  ist,  ist  er  als  eine  fachlich  einschlägig  ausgebildete  Person  bei  den  Verhältniszahlen aller Lehrberufe zu zählen, in denen er Lehrlinge ausbildet.
+(8) Werden in einem Betrieb in mehr als einem Lehrberuf Lehrlinge ausgebildet, dann sind Personen, die für mehr als einen dieser Lehrberufe fachlich einschlägig ausgebildet sind, nur auf die Verhältniszahl eines dieser Lehrberufe anzurechnen.
 
-- Zur  Sicherung  einer  sachgemäßen  Ausbildung  sind  folgende  Verhältniszahlen  betreffend  das Verhältnis der Anzahl der Lehrlinge zur Anzahl der im Betrieb beschäftigten Ausbilder einzuhalten:
+(9) Ein Ausbilder ist bei der Ermittlung der Verhältniszahl gemäß Abs. 5 als eine fachlich einschlägig ausgebildete Person zu zählen. Wenn er jedoch mit Ausbildungsaufgaben in mehr als einem Lehrberuf betraut ist, ist er als eine fachlich einschlägig ausgebildete Person bei den Verhältniszahlen aller Lehrberufe zu zählen, in denen er Lehrlinge ausbildet.
 
-- auf je fünf Lehrlinge zumindest ein Ausbilder, der nicht ausschließlich mit Ausbildungsaufgaben betraut ist,
+(10) Zur Sicherung einer sachgemäßen Ausbildung sind folgende Verhältniszahlen betreffend das Verhältnis der Anzahl der Lehrlinge zur Anzahl der im Betrieb beschäftigten Ausbilder einzuhalten:
 
-- auf je 15 Lehrlinge zumindest ein Ausbilder, der ausschließlich mit Ausbildungsaufgaben betraut ist.
+1. auf je fünf Lehrlinge zumindest ein Ausbilder, der nicht ausschließlich mit Ausbildungsaufgaben betraut ist,
+
+2. auf je 15 Lehrlinge zumindest ein Ausbilder, der ausschließlich mit Ausbildungsaufgaben betraut ist.
 
 Die Verhältniszahl gemäß Abs. 5 darf jedoch nicht überschritten werden.
 
-- Ein  Ausbilder,  der  mit  Ausbildungsaufgaben  in  mehr  als  einem  Lehrberuf  betraut  ist,  darf  unter Beachtung der Verhältniszahlen gemäß Abs. 5 oder der entsprechenden durch Verordnung gemäß Abs. 12  festgelegten  Verhältniszahlen  -  insgesamt  höchstens  so  viele  Lehrlinge  ausbilden,  wie  es  den Verhältniszahlen gemäß Abs. 10 oder den entsprechenden durch Verordnung gemäß Abs. 12 festgelegten höchsten Verhältniszahlen der in Betracht kommenden Lehrberufe entspricht.
+(11) Ein Ausbilder, der mit Ausbildungsaufgaben in mehr als einem Lehrberuf betraut ist, darf - unter Beachtung der Verhältniszahlen gemäß Abs. 5 oder der entsprechenden durch Verordnung gemäß Abs. 12 festgelegten Verhältniszahlen - insgesamt höchstens so viele Lehrlinge ausbilden, wie es den Verhältniszahlen gemäß Abs. 10 oder den entsprechenden durch Verordnung gemäß Abs. 12 festgelegten höchsten Verhältniszahlen der in Betracht kommenden Lehrberufe entspricht.
 
-- Der Bundesminister für Wirtschaft, Familie und Jugend hat in den Ausbildungsvorschriften von den  Absätzen  5  bis  11  abweichende  Regelungen  über  die  Verhältniszahlen  festzulegen,  wenn  dies  auf Grund der besonderen Anforderungen des Lehrberufes für eine sachgemäße Ausbildung zweckmäßig ist.
+(12) Der Bundesminister für Wirtschaft, Familie und Jugend hat in den Ausbildungsvorschriften von den Absätzen 5 bis 11 abweichende Regelungen über die Verhältniszahlen festzulegen, wenn dies auf Grund der besonderen Anforderungen des Lehrberufes für eine sachgemäße Ausbildung zweckmäßig ist.
 
-- Die Lehrlingsstelle hat auf Antrag des Lehrberechtigten die Lehrlingshöchstzahl gemäß Abs. 5 oder die entsprechende gemäß Abs. 12 in einer Ausbildungsordnung festgesetzte Lehrlingshöchstzahl bis zu  30  Prozent,  mindestens  jedoch  um  einen  Lehrling  durch  Bescheid  zu  erhöhen,  wenn  nach  den gegebenen  Verhältnissen  des  betreffenden  Einzelfalles  eine  sachgemäße  Ausbildung  bei  der  erhöhten Lehrlingszahl zu erwarten  ist, dies in  einer  Stellungnahme  des  Landes-Berufsausbildungsbeirates festgestellt wird und ansonsten die Ausbildung von Lehrstellenbewerbern in dem betreffenden Lehrberuf nicht gewährleistet ist. Die Lehrlingsstelle hat unverzüglich eine Stellungnahme des LandesBerufsausbildungsbeirates  einzuholen;  dieser  hat  die  Stellungnahme  innerhalb  von  drei  Wochen  zu erstatten. Die Lehrlingsstelle hat innerhalb von vier Wochen nach Einlangen des Antrages zu entscheiden. Der Antrag ist jedenfalls abzuweisen, wenn unter Nichtbeachtung der Verhältniszahl gemäß Abs. 5 oder der  gemäß  Abs. 12  festgesetzten  Lehrlingshöchstzahl  ein  Lehrling  bereits  aufgenommen  wurde.  Bei Wegfall einer der im ersten Satz angeführten Voraussetzungen ist die Erhöhung der Lehrlingshöchstzahl zu widerrufen.
+(13) Die Lehrlingsstelle hat auf Antrag des Lehrberechtigten die Lehrlingshöchstzahl gemäß Abs. 5 oder die entsprechende gemäß Abs. 12 in einer Ausbildungsordnung festgesetzte Lehrlingshöchstzahl bis zu 30 Prozent, mindestens jedoch um einen Lehrling durch Bescheid zu erhöhen, wenn nach den gegebenen Verhältnissen des betreffenden Einzelfalles eine sachgemäße Ausbildung bei der erhöhten Lehrlingszahl zu erwarten ist, dies in einer Stellungnahme des Landes-Berufsausbildungsbeirates festgestellt wird und ansonsten die Ausbildung von Lehrstellenbewerbern in dem betreffenden Lehrberuf nicht gewährleistet ist. Die Lehrlingsstelle hat unverzüglich eine Stellungnahme des Landes-Berufsausbildungsbeirates einzuholen; dieser hat die Stellungnahme innerhalb von drei Wochen zu erstatten. Die Lehrlingsstelle hat innerhalb von vier Wochen nach Einlangen des Antrages zu entscheiden. Der Antrag ist jedenfalls abzuweisen, wenn unter Nichtbeachtung der Verhältniszahl gemäß Abs. 5 oder der gemäß Abs. 12 festgesetzten Lehrlingshöchstzahl ein Lehrling bereits aufgenommen wurde. Bei Wegfall einer der im ersten Satz angeführten Voraussetzungen ist die Erhöhung der Lehrlingshöchstzahl zu widerrufen.
 
-- Wenn der Lehrlingsstelle Umstände bekannt werden, die die sachgemäße Ausbildung bei einem Lehrberechtigten  in  Frage  stellen,  hat  sie  eine  entsprechende  Überprüfung  einzuleiten,  ob  durch  eine Herabsetzung der  gemäß  Abs. 5 oder der entsprechenden  gemäß  Abs. 12 in einer  Ausbildungsordnung festgesetzten  Lehrlingshöchstzahl  eine  sachgemäße  Ausbildung  aufrechterhalten  werden  kann.  Die
+(14) Wenn der Lehrlingsstelle Umstände bekannt werden, die die sachgemäße Ausbildung bei einem Lehrberechtigten in Frage stellen, hat sie eine entsprechende Überprüfung einzuleiten, ob durch eine Herabsetzung der gemäß Abs. 5 oder der entsprechenden gemäß Abs. 12 in einer Ausbildungsordnung festgesetzten Lehrlingshöchstzahl eine sachgemäße Ausbildung aufrechterhalten werden kann. Die
 
 www.ris.bka.gv.at
 
@@ -428,17 +432,17 @@ Bundesrecht konsolidiert
 
 (4) Für die Ausbildung in einer integrativen Berufsausbildung kommen Personen in Betracht, die das Arbeitsmarktservice nicht in ein Lehrverhältnis als Lehrling gemäß § 1 vermitteln konnte und auf die eine der folgenden Voraussetzungen zutrifft:
 
-- Personen, die am  Ende der Pflichtschule sonderpädagogischen Förderbedarf hatten und zumindest teilweise nach dem Lehrplan einer Sonderschule unterrichtet wurden, oder
+1. Personen, die am Ende der Pflichtschule sonderpädagogischen Förderbedarf hatten und zumindest teilweise nach dem Lehrplan einer Sonderschule unterrichtet wurden, oder
 
-- Personen ohne Hauptschulabschluss bzw. mit negativem Hauptschulabschluss, oder
+2. Personen ohne Hauptschulabschluss bzw. mit negativem Hauptschulabschluss, oder
 
-- Behinderte im Sinne des Behinderteneinstellungsgesetzes bzw. des jeweiligen Landesbehindertengesetzes, oder
+3. Behinderte im Sinne des Behinderteneinstellungsgesetzes bzw. des jeweiligen Landesbehindertengesetzes, oder
 
-- Personen, von denen im Rahmen einer Berufsorientierungsmaßnahme oder auf Grund einer nicht erfolgreichen  Vermittlung  in  ein  Lehrverhältnis  als  Lehrling  gemäß  § 1  angenommen  werden muss, dass für sie aus ausschließlich in der Person gelegenen Gründen in absehbarer Zeit keine Lehrstelle im Sinne des § 1 gefunden werden kann.
+4. Personen, von denen im Rahmen einer Berufsorientierungsmaßnahme oder auf Grund einer nicht erfolgreichen Vermittlung in ein Lehrverhältnis als Lehrling gemäß § 1 angenommen werden muss, dass für sie aus ausschließlich in der Person gelegenen Gründen in absehbarer Zeit keine Lehrstelle im Sinne des § 1 gefunden werden kann.
 
 (5) Die Lehrlingsstelle darf einen Lehrvertrag gemäß Abs. 1 oder einen Ausbildungsvertrag gemäß Abs. 2 nur eintragen, wenn auf die betreffende Person eine der Voraussetzungen gemäß Abs. 4 Z 1 bis 4 zutrifft und wenn das Arbeitsmarktservice diese Person nicht in ein Lehrverhältnis als Lehrling gemäß § 1 vermitteln  konnte.  Bei  einem  Wechsel  in  eine  andere  Ausbildungsform  gemäß  Abs. 11  ist  kein Vermittlungsversuch durch das Arbeitsmarktservice erforderlich.
 
-(6)  Das  Ausbildungsverhältnis  im  Rahmen  einer  integrativen  Berufsausbildung  ist  durch  die Berufsausbildungsassistenz zu begleiten und zu unterstützen. Die Berufsausbildungsassistenz hat im Zuge ihrer Unterstützungstätigkeit sozialpädagogische, psychologische und didaktische Probleme von Personen,  die  ihnen  im  Rahmen  der  integrativen  Berufsausbildung  anvertraut  sind,  mit  Vertretern  von Lehrbetrieben,  besonderen  selbständigen  Ausbildungseinrichtungen  und  Berufsschulen  zu  erörtern,  um zur Lösung dieser Probleme beizutragen. Die Berufsausbildungsassistenz hat zu Beginn der integrativen Berufsausbildung gemeinsam mit den dafür in Frage kommenden Personen bzw. den Erziehungsberechtigten und den Lehrberechtigten bzw. Ausbildungsverantwortlichen oder den Ausbildungseinrichtungen und unter Einbeziehung der Schulbehörde erster Instanz und des Schulerhalters  die  Ziele  der  integrativen  Berufsausbildung  festzulegen  und  bei  der  Abschlussprüfung gemäß Abs. 10 mitzuwirken. Sie hat zusammen mit einem Experten des betreffenden Berufsbereiches die Abschlussprüfung zum Abschluss der Ausbildung gemäß Abs. 2 durchzuführen. Die Berufsausbildungsassistenz hat bei einem Ausbildungswechsel das Einvernehmen mit den genannten, an der  integrativen  Berufsausbildung  Beteiligten  herzustellen  und  diesbezüglich  besondere  Beratungen durchzuführen.
+(6) Das Ausbildungsverhältnis im Rahmen einer integrativen Berufsausbildung ist durch die Berufsausbildungsassistenz zu begleiten und zu unterstützen. Die Berufsausbildungsassistenz hat im Zuge ihrer Unterstützungstätigkeit sozialpädagogische, psychologische und didaktische Probleme von Personen, die ihnen im Rahmen der integrativen Berufsausbildung anvertraut sind, mit Vertretern von Lehrbetrieben, besonderen selbständigen Ausbildungseinrichtungen und Berufsschulen zu erörtern, um zur Lösung dieser Probleme beizutragen. Die Berufsausbildungsassistenz hat zu Beginn der integrativen Berufsausbildung gemeinsam mit den dafür in Frage kommenden Personen bzw. den Erziehungsberechtigten und den Lehrberechtigten bzw. Ausbildungsverantwortlichen oder den Ausbildungseinrichtungen und unter Einbeziehung der Schulbehörde erster Instanz und des
 
 www.ris.bka.gv.at
 
@@ -450,15 +454,17 @@ Seite 10 von 53
 
 Bundesrecht konsolidiert
 
+Schulerhalters die Ziele der integrativen Berufsausbildung festzulegen und bei der Abschlussprüfung gemäß Abs. 10 mitzuwirken. Sie hat zusammen mit einem Experten des betreffenden Berufsbereiches die Abschlussprüfung zum Abschluss der Ausbildung gemäß Abs. 2 durchzuführen. Die Berufsausbildungsassistenz hat bei einem Ausbildungswechsel das Einvernehmen mit den genannten, an der integrativen Berufsausbildung Beteiligten herzustellen und diesbezüglich besondere Beratungen durchzuführen.
+
 (7) Die Lehrlingsstelle darf einen Lehrvertrag gemäß Abs. 1 oder einen Ausbildungsvertrag gemäß Abs. 2 nur eintragen, wenn eine verbindliche Erklärung des Arbeitsmarktservice, des Sozialministeriumservice oder einer Gebietskörperschaft bzw. einer Einrichtung einer Gebietskörperschaft über die Durchführung der Berufsausbildungsassistenz vorliegt. Diese können eine bewährte  Einrichtung  auf  dem  Gebiet  der  sozialpädagogischen  Betreuung  und  Begleitung  mit  der Durchführung der Berufsausbildungsassistenz betrauen.
 
 (8) Die Festlegung der Ausbildungsinhalte, des Ausbildungszieles und der Zeitdauer im Rahmen der integrativen  Ausbildung  hat  durch  die  Vertragsparteien  gemeinsam  mit  der  Berufsausbildungsassistenz unter Einbeziehung der Schulbehörde erster Instanz und des Schulerhalters zu erfolgen. Dabei sind auch pädagogische  Begleitmaßnahmen  bzw.  die  Form  der  Einbindung  in  den  Berufsschulunterricht  unter Berücksichtigung  der  persönlichen  Fähigkeiten  und  Bedürfnisse  der  die  integrative  Berufsausbildung anstrebenden Person  festzulegen.  Bei  Personen  gemäß  Abs. 4  Z 3  kann  bei  Vorliegen  gesundheitlicher Gründe  sowohl  in  Lehrverträgen  gemäß  Abs. 1  als  auch  in  Ausbildungsverträgen  gemäß  Abs. 2  eine Reduktion  der  regulären  täglichen  oder  wöchentlichen  fiktiven  Normalarbeitszeit  vereinbart  werden, wobei Lehrverhältnisse gemäß Abs.1 jedenfalls im Ausmaß der Reduktion der fiktiven Normalarbeitszeit verlängert werden müssen. Die Gesamtdauer der verlängerten Lehrzeit darf die gemäß Abs. 1 zulässige Dauer  nicht  übersteigen.  Bei  Ausbildungsverhältnissen  gemäß  Abs. 2  ist  eine  Reduktion  um  bis  zur Hälfte der fiktiven Normalarbeitszeit zulässig, wobei sich die Mindestdauer der Ausbildungszeit gemäß Abs. 2 (ein Jahr) im Ausmaß der Reduktion der fiktiven Normalarbeitszeit verlängert. Die Gesamtdauer der  Ausbildungszeit  darf  drei  Jahre  nicht  übersteigen.  Die  Lehrlingsstelle  hat  vor  Eintragung  des Lehrvertrages  bzw.  Ausbildungsvertrages  eine  Stellungnahme  des  Landes-Berufsausbildungsbeirates einzuholen. Dieser hat bei der Stellungnahme ärztliche Gutachten oder sonstige ärztliche Unterlagen zu berücksichtigen.
 
 (9) Vor Beginn einer integrativen Berufsausbildung kann vom Arbeitsmarktservice der Besuch einer beruflichen Orientierungsmaßnahme empfohlen werden. Die berufliche Orientierungsmaßnahme gründet weder auf einem Ausbildungsvertrag noch auf einem Lehrvertrag.
 
-(10)  Die  Feststellung  der  in  einer  Ausbildung  gemäß  Abs. 2  erworbenen  Qualifikationen  erfolgt durch eine Abschlussprüfung am Ende der Ausbildungszeit, frühestens zwölf Wochen vor dem regulären Ende  der  Ausbildung.  Die  Abschlussprüfung  findet  im  Lehrbetrieb  oder  in  einer  sonst  geeigneten Einrichtung  statt  und  ist  durch  einen  von  der  Lehrlingsstelle  im  Einvernehmen  mit  dem  LandesBerufsausbildungsbeirat zu nominierenden Experten des betreffenden Berufsbereiches und ein Mitglied der Berufsausbildungsassistenz durchzuführen. Dabei ist anhand der vereinbarten Ausbildungsinhalte und Ausbildungsziele festzustellen, welcher Ausbildungsstand erreicht und welche Fertigkeiten und Kenntnisse erworben wurden. Die Lehrlingsstelle hat im Einvernehmen mit dem LandesBerufsausbildungsbeirat den Ablauf der Abschlussprüfungen und die Gestaltung der jeweiligen Abschlusszeugnisse  entsprechend  den  Erfordernissen  des  jeweiligen  Berufsbereiches  festzulegen.  Im Abschlusszeugnis  sind  die  festgestellten  Fertigkeiten  und  Kenntnisse  zu  dokumentieren.  Die  für  die Lehrabschlussprüfung  geltenden  Bestimmungen  betreffend  Prüfungstaxe  und  Prüferentschädigung  sind anzuwenden.
+(10) Die Feststellung der in einer Ausbildung gemäß Abs. 2 erworbenen Qualifikationen erfolgt durch eine Abschlussprüfung am Ende der Ausbildungszeit, frühestens zwölf Wochen vor dem regulären Ende der Ausbildung. Die Abschlussprüfung findet im Lehrbetrieb oder in einer sonst geeigneten Einrichtung statt und ist durch einen von der Lehrlingsstelle im Einvernehmen mit dem Landes-Berufsausbildungsbeirat zu nominierenden Experten des betreffenden Berufsbereiches und ein Mitglied der Berufsausbildungsassistenz durchzuführen. Dabei ist anhand der vereinbarten Ausbildungsinhalte und Ausbildungsziele festzustellen, welcher Ausbildungsstand erreicht und welche Fertigkeiten und Kenntnisse erworben wurden. Die Lehrlingsstelle hat im Einvernehmen mit dem Landes-Berufsausbildungsbeirat den Ablauf der Abschlussprüfungen und die Gestaltung der jeweiligen Abschlusszeugnisse entsprechend den Erfordernissen des jeweiligen Berufsbereiches festzulegen. Im Abschlusszeugnis sind die festgestellten Fertigkeiten und Kenntnisse zu dokumentieren. Die für die Lehrabschlussprüfung geltenden Bestimmungen betreffend Prüfungstaxe und Prüferentschädigung sind anzuwenden.
 
-(11) Bei einer Ausbildung in einem Lehrberuf gemäß § 1, bei einer Ausbildung in einem Lehrberuf gemäß  Abs. 1  oder  bei  einer  Ausbildung  gemäß  Abs. 2  ist  ein  Wechsel  in  eine  jeweils  andere  dieser Ausbildungen  im  Zusammenhang  mit  einer  Vereinbarung  zwischen  dem  Lehrberechtigten  und  dem Lehrling  und  im  Einvernehmen  mit  der  Berufsausbildungsassistenz  sowie  unter  Einbeziehung  der Schulbehörde erster Instanz möglich. Der Wechsel der Ausbildung hat durch den Abschluss eines neuen Lehrvertrages bzw. eines neuen Ausbildungsvertrages zu erfolgen. Der Wechsel von einer Ausbildung in einem Lehrberuf gemäß § 1 zu einer Ausbildung in einem Lehrberuf gemäß Abs. 1 und umgekehrt kann auch  durch  Änderung  des  Lehrvertrages  erfolgen.  Bei  einem  Wechsel  der  Ausbildung  sind  im Einvernehmen mit der Berufsausbildungsassistenz die in der Folge noch erforderlichen Ausbildungsinhalte und die noch erforderliche Ausbildungsdauer festzulegen. Die Probezeit beginnt bei einem  Wechsel  der  Ausbildung  im  selben  Ausbildungsbetrieb  bzw.  derselben  Ausbildungseinrichtung nicht von neuem zu laufen. Bei einem Wechsel von einer Ausbildung in einem Lehrberuf gemäß § 1 in eine  Ausbildung  in  einem  Lehrberuf  gemäß  Abs. 1  oder  in  eine  Ausbildung  gemäß  Abs. 2  wird  das Zutreffen der Voraussetzung gemäß Abs. 4 Z 4 durch die Berufsausbildungsassistenz mit der Maßgabe, dass  die  von  der  betreffenden  Person  begonnene  Lehre  in  der  regulären  Form  voraussichtlich  nicht erfolgreich abgeschlossen werden kann, bestätigt.
+(11) Bei einer Ausbildung in einem Lehrberuf gemäß § 1, bei einer Ausbildung in einem Lehrberuf gemäß Abs. 1 oder bei einer Ausbildung gemäß Abs. 2 ist ein Wechsel in eine jeweils andere dieser Ausbildungen im Zusammenhang mit einer Vereinbarung zwischen dem Lehrberechtigten und dem Lehrling und im Einvernehmen mit der Berufsausbildungsassistenz sowie unter Einbeziehung der Schulbehörde erster Instanz möglich. Der Wechsel der Ausbildung hat durch den Abschluss eines neuen Lehrvertrages bzw. eines neuen Ausbildungsvertrages zu erfolgen. Der Wechsel von einer Ausbildung in einem Lehrberuf gemäß § 1 zu einer Ausbildung in einem Lehrberuf gemäß Abs. 1 und umgekehrt kann auch durch Änderung des Lehrvertrages erfolgen. Bei einem Wechsel der Ausbildung sind im Einvernehmen mit der Berufsausbildungsassistenz die in der Folge noch erforderlichen Ausbildungsinhalte und die noch erforderliche Ausbildungsdauer festzulegen. Die Probezeit beginnt bei einem Wechsel der Ausbildung im selben Ausbildungsbetrieb bzw. derselben Ausbildungseinrichtung nicht von neuem zu laufen. Bei einem Wechsel von einer Ausbildung in einem Lehrberuf gemäß § 1 in eine Ausbildung in einem Lehrberuf gemäß Abs. 1 oder in eine Ausbildung gemäß Abs. 2 wird das Zutreffen der Voraussetzung gemäß Abs. 4 Z 4 durch die Berufsausbildungsassistenz mit der Maßgabe,
 
 www.ris.bka.gv.at
 
@@ -469,6 +475,8 @@ Seite 11 von 53
 [[START OF PAGE 12]]
 
 Bundesrecht konsolidiert
+
+dass die von der betreffenden Person begonnene Lehre in der regulären Form voraussichtlich nicht erfolgreich abgeschlossen werden kann, bestätigt.
 
 (12) Wurde im Rahmen einer Ausbildung gemäß Abs. 2 sowohl das Ausbildungsziel des Abs. 10 im Sinne einer erfolgreichen Ablegung der Abschlussprüfung als auch das berufsfachliche Bildungsziel der ersten  Schulstufe  der  Berufsschule  erreicht,  so  ist  bei  einer  anschließenden  Ausbildung  in  einem Lehrberuf gemäß § 1 oder in einem Lehrberuf gemäß Abs. 1 zumindest das erste Lehrjahr auf die Dauer der  Lehrzeit  des  betreffenden  Lehrberufes  anzurechnen,  sofern  nicht  eine  Vereinbarung  zwischen  dem Lehrberechtigten und dem Lehrling über eine weitergehende Anrechnung vorliegt.
 
@@ -482,23 +490,23 @@ Bundesrecht konsolidiert
 
 (2) Die Bewilligung ist zu erteilen, wenn
 
-- die  Organisation  und  Ausstattung  der  Ausbildungseinrichtung  unter  Berücksichtigung  einer allfälligen ergänzenden Ausbildung im Falle einer Ausbildung gemäß § 8b Abs. 1 die Vermittlung aller für die praktische Erlernung des betreffenden Lehrberufes nötigen Fertigkeiten und  Kenntnisse  und  im  Falle  einer  Ausbildung  gemäß  § 8b  Abs. 2  die  Vermittlung  der betreffenden Teilqualifikationen ermöglichen,
+1. die Organisation und Ausstattung der Ausbildungseinrichtung unter Berücksichtigung einer allfälligen ergänzenden Ausbildung im Falle einer Ausbildung gemäß § 8b Abs. 1 die Vermittlung aller für die praktische Erlernung des betreffenden Lehrberufes nötigen Fertigkeiten und Kenntnisse und im Falle einer Ausbildung gemäß § 8b Abs. 2 die Vermittlung der betreffenden Teilqualifikationen ermöglichen,
 
-- für  die  erforderliche  Anzahl  von  Personen,  die  die  persönlichen  Voraussetzungen  für  das Ausbilden von Lehrlingen besitzen, vorgesorgt ist,
+2. für die erforderliche Anzahl von Personen, die die persönlichen Voraussetzungen für das Ausbilden von Lehrlingen besitzen, vorgesorgt ist,
 
-- die  Gestaltung  der  Ausbildung  im  Falle  des  § 8b  Abs. 1  im  Wesentlichen  dem  Berufsbild  des betreffenden Lehrberufes und das Ausbildungsziel den in der Prüfungsordnung dieses Lehrberufes gestellten Anforderungen entspricht und mit der Ablegung der Lehrabschlussprüfung abgeschlossen  wird sowie im  Falle des § 8b Abs. 2 der Vermittlung der betreffenden Teilqualifikationen entspricht und
+3. die Gestaltung der Ausbildung im Falle des § 8b Abs. 1 im Wesentlichen dem Berufsbild des betreffenden Lehrberufes und das Ausbildungsziel den in der Prüfungsordnung dieses Lehrberufes gestellten Anforderungen entspricht und mit der Ablegung der Lehrabschlussprüfung abgeschlossen wird sowie im Falle des § 8b Abs. 2 der Vermittlung der betreffenden Teilqualifikationen entspricht und
 
-- glaubhaft  gemacht  wird,  dass  die  Führung  der  Ausbildungseinrichtung  für  die  erforderliche Ausbildungsdauer mit einem hohen Grad der Wahrscheinlichkeit sichergestellt ist.
+4. glaubhaft gemacht wird, dass die Führung der Ausbildungseinrichtung für die erforderliche Ausbildungsdauer mit einem hohen Grad der Wahrscheinlichkeit sichergestellt ist.
 
-- Die Bewilligung kann mit Auflagen erteilt werden, insbesondere über
+(3) Die Bewilligung kann mit Auflagen erteilt werden, insbesondere über
 
-- das Mindestausmaß der praktischen Ausbildung,
+1. das Mindestausmaß der praktischen Ausbildung,
 
-- das Mindest- oder Höchstausmaß ergänzender Ausbildungen,
+2. das Mindest- oder Höchstausmaß ergänzender Ausbildungen,
 
-- das Höchstausmaß betrieblicher Praktika,
+3. das Höchstausmaß betrieblicher Praktika,
 
-- die  Vermittlung  von  Fertigkeiten  und  Kenntnissen  zur  Bewerbung  und  die  Verpflichtung  zur Setzung gezielter Bemühungen zur Übernahme der auszubildenden Personen in ein betriebliches Lehrverhältnis gemäß den §§ 1 und 2 sowie § 8b Abs. 1 und Abs. 2.
+4. die Vermittlung von Fertigkeiten und Kenntnissen zur Bewerbung und die Verpflichtung zur Setzung gezielter Bemühungen zur Übernahme der auszubildenden Personen in ein betriebliches Lehrverhältnis gemäß den §§ 1 und 2 sowie § 8b Abs. 1 und Abs. 2.
 
 (4) Die erstmalige Bewilligung ist hinsichtlich einer Ausbildung  gemäß  § 8b  Abs. 1  unter Bedachtnahme auf die Lehrzeit der beantragten Lehrberufe und unter Zugrundelegung der Verlängerung der Lehrzeitdauer auf die Dauer des längsten der beantragten Lehrberufe  samt Lehrzeitverlängerung zu erteilen. Hinsichtlich einer Ausbildung  gemäß  § 8b  Abs. 2  ist die erstmalige  Bewilligung unter Bedachtnahme auf die Lehrzeit der beantragten Lehrberufe, von welchen Teilqualifikationen vermittelt werden, auf die Dauer des längsten der betreffenden Lehrberufe zu erteilen. Sodann ist die Bewilligung unbefristet zu erteilen.
 
@@ -528,7 +536,7 @@ Bundesrecht konsolidiert
 
 (2)  Der  Lehrberechtigte  hat  den  Lehrling  nur  zu  solchen  Tätigkeiten  heranzuziehen,  die  mit  dem Wesen  der  Ausbildung  vereinbar  sind.  Dem  Lehrling  dürfen  keine  Aufgaben  zugewiesen  werden,  die seine Kräfte übersteigen.
 
-(3) Der Lehrberechtigte hat den Lehrling zur ordnungsgemäßen Erfüllung seiner Aufgaben und zu verantwortungsbewußtem  Verhalten  anzuleiten  und  ihm  diesbezüglich  ein  gutes  Beispiel  zu  geben;  er darf  den  Lehrling  weder  mißhandeln  noch  körperlich  züchtigen  und  hat  ihn  vor  Mißhandlungen  oder körperlichen Züchtigungen durch andere Personen, insbesondere durch Betriebsund Haushaltsangehörige, zu schützen.
+(3) Der Lehrberechtigte hat den Lehrling zur ordnungsgemäßen Erfüllung seiner Aufgaben und zu verantwortungsbewußtem Verhalten anzuleiten und ihm diesbezüglich ein gutes Beispiel zu geben; er darf den Lehrling weder mißhandeln noch körperlich züchtigen und hat ihn vor Mißhandlungen oder körperlichen Züchtigungen durch andere Personen, insbesondere durch Betriebs- und Haushaltsangehörige, zu schützen.
 
 (4)  Der  Lehrberechtigte  hat  die  Eltern  oder  sonstige  Erziehungsberechtigte  des  Lehrlings  von wichtigen Vorkommnissen, die die Ausbildung eines minderjährigen Lehrlings betreffen, und, sofern ein minderjähriger Lehrling in die Hausgemeinschaft des Lehrberechtigten aufgenommen wurde, auch von einer Erkrankung des Lehrlings ehestens zu verständigen. Die Verständigung vom Eintritt der Endigung des Lehrverhältnisses gemäß § 14 Abs. 2 lit. b und d hat schriftlich und auch an den Lehrling zu erfolgen.
 
@@ -538,7 +546,7 @@ Bundesrecht konsolidiert
 
 (7) Der Lehrberechtigte hat dem Lehrling die zur Ablegung der Lehrabschlußprüfung und der in den Ausbildungsvorschriften vorgesehenen Teilprüfungen erforderliche Zeit freizugeben. Wenn der Lehrling während der Lehrzeit oder während der Zeit seiner Weiterverwendung gemäß § 18 dieses Bundesgesetzes erstmals zur Lehrabschlußprüfung  antritt, hat der Lehrberechtigte dem  Lehrling  die Kosten  der Prüfungstaxe zu ersetzen.
 
-(8)  Die  Abs. 2  bis  7  gelten  für  den  Ausbilder  sinngemäß.  Der  Lehrberechtigte  hat  dafür  Sorge  zu tragen, daß dem Ausbilder die zur Erfüllung seiner Ausbildungsaufgaben erforderliche Zeit sowie eine angemessene  Zeit  zur  beruflichen  Weiterbildung  im  Interesse  der  Verbesserung  der  Ausbildung  von Lehrlingen zur Verfügung steht.
+(8) Die Abs. 2 bis 7 gelten für den Ausbilder sinngemäß. Der Lehrberechtigte hat dafür Sorge zu tragen, daß dem Ausbilder die zur Erfüllung seiner Ausbildungsaufgaben erforderliche Zeit sowie eine
 
 www.ris.bka.gv.at
 
@@ -550,17 +558,19 @@ Seite 13 von 53
 
 Bundesrecht konsolidiert
 
+angemessene Zeit zur beruflichen Weiterbildung im Interesse der Verbesserung der Ausbildung von Lehrlingen zur Verfügung steht.
+
 (9) Der Lehrberechtigte hat der Lehrlingsstelle ohne unnötigen Aufschub, spätestens jedoch binnen vier Wochen anzuzeigen:
 
-- die Dauer des Lehrverhältnisses gemäß § 13 Abs. 3 berührende Umstände,
+a) die Dauer des Lehrverhältnisses gemäß § 13 Abs. 3 berührende Umstände,
 
-- eine Endigung des Lehrverhältnisses gemäß § 14 Abs. 2 lit. a, b oder d,
+b) eine Endigung des Lehrverhältnisses gemäß § 14 Abs. 2 lit. a, b oder d,
 
-- eine Fortsetzung des Lehrverhältnisses gemäß § 14 Abs. 3,
+c) eine Fortsetzung des Lehrverhältnisses gemäß § 14 Abs. 3,
 
-- eine vorzeitige Auflösung des Lehrverhältnisses (§ 15) und
+d) eine vorzeitige Auflösung des Lehrverhältnisses (§ 15) und
 
-- die  Betrauung  und  den  Wechsel  des  Ausbilders,  sofern  jedoch  ein  Ausbildungsleiter  betraut wurde (§ 3 Abs. 5), dessen Betrauung und Wechsel.
+e) die Betrauung und den Wechsel des Ausbilders, sofern jedoch ein Ausbildungsleiter betraut wurde (§ 3 Abs. 5), dessen Betrauung und Wechsel.
 
 (10) Die Lehrlingsstellen haben die zuständige Kammer für Arbeiter und Angestellte vom Inhalt der auf Grund des Abs. 9 erstatteten Anzeigen in Kenntnis zu setzen.
 
@@ -584,15 +594,12 @@ Bundesrecht konsolidiert
 
 (3) Der Lehrvertrag hat zu enthalten:
 
-- Bei physischen Personen den Vornamen, den Familiennamen und den Wohnort des Lehrberechtigten, bei juristischen Personen oder Personengesellschaften des Handelsrechtes oder eingetragenen Erwerbsgesellschaften die Firma und den Sitz des Lehrberechtigten; weiters den Gegenstand  des  Betriebes  und  den  Standort  der  festen  Betriebsstätten,  in  denen  der  Lehrling ausgebildet  werden  soll,  gegebenenfalls  den  Vornamen,  den  Familiennamen  und  den  Wohnort des  gewerberechtlichen  Geschäftsführers  oder  den  Vornamen  und  den  Familiennamen  des Ausbilders;  sofern  jedoch  ein  Ausbildungsleiter  (§ 3  Abs. 5)  betraut  wurde,  dessen  Vornamen und Familiennamen;
+1. Bei physischen Personen den Vornamen, den Familiennamen und den Wohnort des Lehrberechtigten, bei juristischen Personen oder Personengesellschaften des Handelsrechtes oder eingetragenen Erwerbsgesellschaften die Firma und den Sitz des Lehrberechtigten; weiters den Gegenstand des Betriebes und den Standort der festen Betriebsstätten, in denen der Lehrling ausgebildet werden soll, gegebenenfalls den Vornamen, den Familiennamen und den Wohnort des gewerberechtlichen Geschäftsführers oder den Vornamen und den Familiennamen des Ausbilders; sofern jedoch ein Ausbildungsleiter (§ 3 Abs. 5) betraut wurde, dessen Vornamen und Familiennamen;
 
-- den Vornamen und den Familiennamen des Lehrlings, sein Geburtsdatum und seinen Geburtsort, seine Sozialversicherungsnummer, seinen Wohnort, bei minderjährigen Lehrlingen den Vornamen, Familiennamen und den Wohnort der gesetzlichen Vertreter;
+2. den Vornamen und den Familiennamen des Lehrlings, sein Geburtsdatum und seinen Geburtsort, seine Sozialversicherungsnummer, seinen Wohnort, bei minderjährigen Lehrlingen den Vornamen, Familiennamen und den Wohnort der gesetzlichen Vertreter;
 
-- die  Bezeichnung  des  Lehrberufes,  den  der  Lehrling  erlernen  soll  und  die  für  diesen  Lehrberuf
-
-- festgesetzte Dauer der Lehrzeit;
-
-im  Falle  eines  Lehrberufes,  der  gemäß  § 5  Abs. 3a  und  § 8  Abs. 4  als  modularer  Lehrberuf eingerichtet  ist,  die  Bezeichnung  des  Grundmoduls,  des  Hauptmoduls  (der  Hauptmodule)  und gegebenenfalls  des  Spezialmoduls  (der  Spezialmodule),  die  der  Lehrling  erlernen  soll  und  die dafür festgesetzte Dauer der Lehrzeit;
+3. die Bezeichnung des Lehrberufes, den der Lehrling erlernen soll und die für diesen Lehrberuf festgesetzte Dauer der Lehrzeit;
+im Falle eines Lehrberufes, der gemäß § 5 Abs. 3a und § 8 Abs. 4 als modularer Lehrberuf eingerichtet ist, die Bezeichnung des Grundmoduls, des Hauptmoduls (der Hauptmodule) und gegebenenfalls des Spezialmoduls (der Spezialmodule), die der Lehrling erlernen soll und die dafür festgesetzte Dauer der Lehrzeit;
 
 www.ris.bka.gv.at
 
@@ -604,31 +611,31 @@ Seite 14 von 53
 
 Bundesrecht konsolidiert
 
-- das Eintrittsdatum als den kalendermäßigen Beginn und das kalendermäßige Ende des Lehrverhältnisses;
+4. das Eintrittsdatum als den kalendermäßigen Beginn und das kalendermäßige Ende des Lehrverhältnisses;
 
-- die Erklärung des Lehrlings, für den minderjährigen Lehrling die des gesetzlichen Vertreters, mit der Aufnahme in ein für die Schüler der Berufsschule bestimmtes Schülerheim einverstanden zu sein, wenn der Lehrling die Berufsschulpflicht nur auf diese Weise erfüllen kann;
+5. die Erklärung des Lehrlings, für den minderjährigen Lehrling die des gesetzlichen Vertreters, mit der Aufnahme in ein für die Schüler der Berufsschule bestimmtes Schülerheim einverstanden zu sein, wenn der Lehrling die Berufsschulpflicht nur auf diese Weise erfüllen kann;
 
-- den Hinweis
+6. den Hinweis
 
-- auf die Pflicht zum Besuch der Berufsschule,
+a) auf die Pflicht zum Besuch der Berufsschule,
 
-- auf  die  allenfalls  bestehende  kollektivvertragliche  Verpflichtung  zur  Ausbildung  in  einem Ausbildungsverbund,
+b) auf die allenfalls bestehende kollektivvertragliche Verpflichtung zur Ausbildung in einem Ausbildungsverbund,
 
-- auf die Bestimmungen über die Endigung und Auflösung des Lehrverhältnisses,
+c) auf die Bestimmungen über die Endigung und Auflösung des Lehrverhältnisses,
 
-- auf die Höhe der Lehrlingsentschädigung (§ 17);
+d) auf die Höhe der Lehrlingsentschädigung (§ 17);
 
-- den Tag des Vertragsabschlusses.
+7. den Tag des Vertragsabschlusses.
 
-(4) Sofern die Ausbildung auch im Rahmen  eines Ausbildungsverbundes erfolgt, ist eine Vereinbarung  (§ 2a  Abs. 2  zweiter  Satz)  abzuschließen,  die  eine  Zusammenstellung  jener  Fertigkeiten und  Kenntnisse  enthält,  die  von  einem  anderen  hiefür  geeigneten  und  entsprechend  Abs. 3  Z 1  näher bezeichneten Betrieb oder von einer anderen hiefür geeigneten Einrichtung vermittelt werden. Hiebei ist auch -zumindest nach Lehrjahren -anzugeben, wann diese Ausbildung im Rahmen des Ausbildungsverbundes durchgeführt wird und weiters deren voraussehbare Dauer. Wenn hiebei nicht auf öffentlich ausgeschriebene und regelmäßig angebotene Kursmaßnahmen geeigneter Einrichtungen Bezug genommen wird, ist diese Vereinbarung zusätzlich von dem zu unterfertigen, der die Verpflichtung zur Durchführung der Ausbildungsmaßnahme übernimmt; diese Vereinbarung ist dem Lehrvertrag anzuschließen.
+(4) Sofern die Ausbildung auch im Rahmen eines Ausbildungsverbundes erfolgt, ist eine Vereinbarung (§ 2a Abs. 2 zweiter Satz) abzuschließen, die eine Zusammenstellung jener Fertigkeiten und Kenntnisse enthält, die von einem anderen hiefür geeigneten und entsprechend Abs. 3 Z 1 näher bezeichneten Betrieb oder von einer anderen hiefür geeigneten Einrichtung vermittelt werden. Hiebei ist auch - zumindest nach Lehrjahren - anzugeben, wann diese Ausbildung im Rahmen des Ausbildungsverbundes durchgeführt wird und weiters deren voraussehbare Dauer. Wenn hiebei nicht auf öffentlich ausgeschriebene und regelmäßig angebotene Kursmaßnahmen geeigneter Einrichtungen Bezug genommen wird, ist diese Vereinbarung zusätzlich von dem zu unterfertigen, der die Verpflichtung zur Durchführung der Ausbildungsmaßnahme übernimmt; diese Vereinbarung ist dem Lehrvertrag anzuschließen.
 
-- In die Lehrverträge können weitere Vereinbarungen aufgenommen werden, insbesondere
+(5) In die Lehrverträge können weitere Vereinbarungen aufgenommen werden, insbesondere
 
-- über die Bedingungen, unter denen der Lehrberechtigte dem Lehrling Verköstigung, Bekleidung und Wohnung gewährt;
+1. über die Bedingungen, unter denen der Lehrberechtigte dem Lehrling Verköstigung, Bekleidung und Wohnung gewährt;
 
-- über eine besondere Gestaltung der Ausbildung;
+2. über eine besondere Gestaltung der Ausbildung;
 
-- über die Tragung der Kosten für das Berufsschulinternat durch den Lehrberechtigten.
+3. über die Tragung der Kosten für das Berufsschulinternat durch den Lehrberechtigten.
 
 (6) Der Lehrvertrag unterliegt keiner Gebührenpflicht im Sinne des Gebührengesetzes 1957, BGBl. Nr. 267.
 
@@ -638,17 +645,17 @@ Bundesrecht konsolidiert
 
 § 13. (1)  Der  Lehrvertrag ist für die für den Lehrberuf festgesetzte Dauer der Lehrzeit (§ 7 Abs. 1 lit. b),  bei  gleichzeitiger  Ausbildung  in  zwei  Lehrberufen  für  die  sich  aus  § 6  Abs. 2  ergebende  Zeit, abzuschließen. Eine kürzere als diese Zeit darf nur vereinbart werden, wenn
 
-- der Lehrling bereits eine gemäß Abs. 2 für den Lehrberuf anrechenbare Lehrzeit oder sonstige berufsorientierte  Ausbildungszeiten  in  einem  Lehrgang  gemäß  § 3  des  JugendausbildungsSicherungsgesetzes  oder  in  einer  Integrativen  Berufsausbildung  oder  eine  gemäß  § 28  dieses Bundesgesetzes anrechenbare schulmäßige Ausbildung oder eine gemäß § 29 dieses Bundesgesetzes anrechenbare Zeit zurückgelegt hat, jedoch höchstens für die auf die festgesetzte Lehrzeitdauer fehlende Zeit,
+a) der Lehrling bereits eine gemäß Abs. 2 für den Lehrberuf anrechenbare Lehrzeit oder sonstige berufsorientierte Ausbildungszeiten in einem Lehrgang gemäß § 3 des Jugendausbildungs-Sicherungsgesetzes oder in einer Integrativen Berufsausbildung oder eine gemäß § 28 dieses Bundesgesetzes anrechenbare schulmäßige Ausbildung oder eine gemäß § 29 dieses Bundesgesetzes anrechenbare Zeit zurückgelegt hat, jedoch höchstens für die auf die festgesetzte Lehrzeitdauer fehlende Zeit,
 
-(Anm.: aufgehoben durch BGBl. Nr. 23/1993)
+b) (Anm.: aufgehoben durch BGBl. Nr. 23/1993)
 
-- die  Ausbildung  in  mehreren  Betrieben  in  dem  betreffenden  Lehrberuf  zur  Erreichung  des Ausbildungszieles zweckmäßig und sichergestellt ist, oder
+c) die Ausbildung in mehreren Betrieben in dem betreffenden Lehrberuf zur Erreichung des Ausbildungszieles zweckmäßig und sichergestellt ist, oder
 
-- der Lehrling die Lehrabschlußprüfung nicht bestanden hat, jedoch höchstens für die Dauer von sechs Monaten.
+d) der Lehrling die Lehrabschlußprüfung nicht bestanden hat, jedoch höchstens für die Dauer von sechs Monaten.
 
-(1a) Wird ein Lehrberuf in Zusammenhang mit einer anderen Ausbildung, deren gleichzeitige oder dazwischen erfolgende Absolvierung mit der Erreichung des Lehrzieles vereinbar ist, erlernt, so kann auf Antrag, der in Verbindung mit der Anmeldung oder der Abänderung des Lehrvertrages zu stellen ist, und nach Einholung einer binnen vier Wochen zu erstattenden Stellungnahme des LandesBerufsausbildungsbeirates im Lehrvertrag eine gegenüber der für den Lehrberuf festgesetzten Dauer der Lehrzeit (§ 7 Abs. 1 lit. b) jeweils um bis zu 18 Monate längere Dauer des Lehrverhältnisses vereinbart werden.
+(1a) Wird ein Lehrberuf in Zusammenhang mit einer anderen Ausbildung, deren gleichzeitige oder dazwischen erfolgende Absolvierung mit der Erreichung des Lehrzieles vereinbar ist, erlernt, so kann auf Antrag, der in Verbindung mit der Anmeldung oder der Abänderung des Lehrvertrages zu stellen ist, und nach Einholung einer binnen vier Wochen zu erstattenden Stellungnahme des Landes-Berufsausbildungsbeirates im Lehrvertrag eine gegenüber der für den Lehrberuf festgesetzten Dauer der Lehrzeit (§ 7 Abs. 1 lit. b) jeweils um bis zu 18 Monate längere Dauer des Lehrverhältnisses vereinbart werden.
 
-(2) Auf Grund einer im Zusammenhang mit der Eintragung eines späteren Lehrvertrages gemachten Mitteilung des Lehrberechtigten oder des Lehrlings, für minderjährige Lehrlinge auch dessen gesetzlichen Vertreters,  sind  von  der  Lehrlingsstelle  auf  die  für  den  Lehrberuf  festgesetzte  Dauer  der  Lehrzeit anzurechnen:
+(2) Auf Grund einer im Zusammenhang mit der Eintragung eines späteren Lehrvertrages gemachten Mitteilung des Lehrberechtigten oder des Lehrlings, für minderjährige Lehrlinge auch dessen gesetzlichen
 
 www.ris.bka.gv.at
 
@@ -660,27 +667,29 @@ Seite 15 von 53
 
 Bundesrecht konsolidiert
 
-- die Teile der Lehrzeit, die in demselben Lehrberuf bereits zurückgelegt worden sind, in vollem Ausmaß,
+Vertreters, sind von der Lehrlingsstelle auf die für den Lehrberuf festgesetzte Dauer der Lehrzeit anzurechnen:
 
-- die in einem verwandten Lehrberuf zurückgelegte, in der Lehrberufsliste festgesetzte Lehrzeit, in dem gemäß § 7 Abs. 1 lit. d bezeichneten Ausmaß,
+a) die Teile der Lehrzeit, die in demselben Lehrberuf bereits zurückgelegt worden sind, in vollem Ausmaß,
 
-- die in einem verwandten Lehrberuf zurückgelegten Teile einer Lehrzeit - sofern sie nicht ohnehin im vollen Ausmaß anzurechnen sind - im Verhältnis des Anteiles der zurückgelegten Lehrzeit zu dem  in  der  Lehrberufsliste  gemäß  § 7  Abs. 1  lit. d  bezeichneten  Ausmaß  der  Anrechnung; gegebenenfalls  jedoch  eine  weitergehende  Anrechnung  entsprechend  einer  Vereinbarung  des Lehrberechtigten  und  des  Lehrlings,  für  minderjährige  Lehrlinge  auch  dessen  gesetzlichen Vertreters,  über  die  in  einem  verwandten  Lehrberuf  zurückgelegten  Teile  der  Lehrzeit,  bis  zu einem Höchstausmaß der tatsächlich zurückgelegten Lehrzeit,
+b) die in einem verwandten Lehrberuf zurückgelegte, in der Lehrberufsliste festgesetzte Lehrzeit, in dem gemäß § 7 Abs. 1 lit. d bezeichneten Ausmaß,
 
-- die  in  einem  Ausbildungszweig  der  Land-  und  Forstwirtschaft  zurückgelegte  Lehrzeit  unter Bedachtnahme  auf  das  in  einer  fachlich  nahestehenden  Beschäftigung  Gelernte  und  dessen Verwertbarkeit  für  den  Lehrberuf  im  Höchstausmaß  von  zwei  Dritteln  der  für  den  Lehrberuf festgesetzten Dauer der Lehrzeit, es sei denn, daß für diesen Ausbildungszweig eine Verwandtschaftsregelung in der Lehrberufsliste festgelegt ist,
+c) die in einem verwandten Lehrberuf zurückgelegten Teile einer Lehrzeit - sofern sie nicht ohnehin im vollen Ausmaß anzurechnen sind - im Verhältnis des Anteiles der zurückgelegten Lehrzeit zu dem in der Lehrberufsliste gemäß § 7 Abs. 1 lit. d bezeichneten Ausmaß der Anrechnung; gegebenenfalls jedoch eine weitergehende Anrechnung entsprechend einer Vereinbarung des Lehrberechtigten und des Lehrlings, für minderjährige Lehrlinge auch dessen gesetzlichen Vertreters, über die in einem verwandten Lehrberuf zurückgelegten Teile der Lehrzeit, bis zu einem Höchstausmaß der tatsächlich zurückgelegten Lehrzeit,
 
-- nach Einholung einer binnen vier Wochen  zu  erstattenden Stellungnahme des LandesBerufsausbildungsbeirates im Ausland zurückgelegte Lehrzeiten oder vergleichbare berufsorientierte  Ausbildungszeiten,  wenn  ein  Vergleich  der  ausländischen  Rechtsvorschriften mit  den  Bestimmungen  des  österreichischen  Rechtes,  insbesondere  auch  mit  den  gemäß  § 8 erlassenen Ausbildungsvorschriften und den schulrechtlichen Vorschriften betreffend die Berufsschule  ergibt,  daß  die  im  Ausland  zurückgelegte  Ausbildung  mit  einer  in  Österreich zurückgelegten Lehrzeit in dem in Betracht kommenden Lehrberuf gleichgesetzt werden kann,
+d) die in einem Ausbildungszweig der Land- und Forstwirtschaft zurückgelegte Lehrzeit unter Bedachtnahme auf das in einer fachlich nahestehenden Beschäftigung Gelernte und dessen Verwertbarkeit für den Lehrberuf im Höchstausmaß von zwei Dritteln der für den Lehrberuf festgesetzten Dauer der Lehrzeit, es sei denn, daß für diesen Ausbildungszweig eine Verwandtschaftsregelung in der Lehrberufsliste festgelegt ist,
 
-- die  Zeiten  des  Weiterbesuches  der  Berufsschule  gemäß  § 21  Abs. 2  des  Schulpflichtgesetzes, BGBl. Nr. 241/1962,
+e) nach Einholung einer binnen vier Wochen zu erstattenden Stellungnahme des Landes-Berufsausbildungsbeirates im Ausland zurückgelegte Lehrzeiten oder vergleichbare berufsorientierte Ausbildungszeiten, wenn ein Vergleich der ausländischen Rechtsvorschriften mit den Bestimmungen des österreichischen Rechtes, insbesondere auch mit den gemäß § 8 erlassenen Ausbildungsvorschriften und den schulrechtlichen Vorschriften betreffend die Berufsschule ergibt, daß die im Ausland zurückgelegte Ausbildung mit einer in Österreich zurückgelegten Lehrzeit in dem in Betracht kommenden Lehrberuf gleichgesetzt werden kann,
 
-- im Ausland zurückgelegte Ausbildungszeiten, wenn sie gemäß § 27b gleichgehalten sind,
+f) die Zeiten des Weiterbesuches der Berufsschule gemäß § 21 Abs. 2 des Schulpflichtgesetzes, BGBl. Nr. 241/1962,
 
-- sofern  keine  Vereinbarung  gemäß  lit. i  über  eine  weitergehende  Anrechnung  vorliegt,  die  in einem  Lehrgang  gemäß  § 3  des  Jugendausbildungs-Sicherungsgesetzes  in  dem  sich  aus  § 3 Abs. 6 dieses Gesetzes ergebenden Ausmaß oder die in einer Integrativen Berufsausbildung für diesen  Lehrberuf  oder  für  einen  mit  diesem  Lehrberuf  verwandten  Lehrberuf  zurückgelegte Ausbildungszeit in dem sich aus § 8b ergebenden Ausmaß,
+g) im Ausland zurückgelegte Ausbildungszeiten, wenn sie gemäß § 27b gleichgehalten sind,
 
-- entsprechend  einer  Vereinbarung  des  Lehrberechtigten  und  des  Lehrlings,  für  minderjährige Lehrlinge auch dessen gesetzlichen Vertreters, die in einem Lehrgang gemäß  § 3 des Jugendausbildungs-Sicherungsgesetzes oder die in einer Integrativen Berufsausbildung zurückgelegten Ausbildungszeiten,
+h) sofern keine Vereinbarung gemäß lit. i über eine weitergehende Anrechnung vorliegt, die in einem Lehrgang gemäß § 3 des Jugendausbildungs-Sicherungsgesetzes in dem sich aus § 3 Abs. 6 dieses Gesetzes ergebenden Ausmaß oder die in einer Integrativen Berufsausbildung für diesen Lehrberuf oder für einen mit diesem Lehrberuf verwandten Lehrberuf zurückgelegte Ausbildungszeit in dem sich aus § 8b ergebenden Ausmaß,
 
-- die  Zeit  der  Teilnahme  an  einem  Lehrgang,  der  zur  Verbesserung  der  Eingliederung  von benachteiligten  Jugendlichen  mit  persönlichen  Vermittlungshindernissen  in  das  Berufsleben eingerichtet wurde, um den Bildungsinhalt des ersten Lehrjahres eines Lehrberufes zu vermitteln, entsprechend  einer  Vereinbarung  des  Lehrberechtigten  und  des  Lehrlings,  für  minderjährige Lehrlinge auch dessen gesetzlichen Vertreters, in dem vereinbarten Ausmaß, höchstens jedoch im Ausmaß der tatsächlich absolvierten Zeit,
+i) entsprechend einer Vereinbarung des Lehrberechtigten und des Lehrlings, für minderjährige Lehrlinge auch dessen gesetzlichen Vertreters, die in einem Lehrgang gemäß § 3 des Jugendausbildungs-Sicherungsgesetzes oder die in einer Integrativen Berufsausbildung zurückgelegten Ausbildungszeiten,
 
-- entsprechend  einer  Vereinbarung  des  Lehrberechtigten  und  des  Lehrlings  und  nach  Einholung einer Stellungnahme des Landes-Berufsausbildungsbeirates im Inland oder im Ausland zurückgelegte  Zeiten  beruflicher  Praxis,  von  Anlerntätigkeiten,  von  Kursbesuch  oder  sonstige Zeiten des Erwerbs von beruflichen Fertigkeiten und Kenntnissen unter Bedachtnahme auf das in einer fachlich  nahestehenden  Beschäftigung  Gelernte  und  dessen  Verwertbarkeit  für  den Lehrberuf  im  Höchstausmaß  von  zwei  Dritteln  der  für  den  Lehrberuf  festgesetzten  Dauer  der Lehrzeit.
+j) die Zeit der Teilnahme an einem Lehrgang, der zur Verbesserung der Eingliederung von benachteiligten Jugendlichen mit persönlichen Vermittlungshindernissen in das Berufsleben eingerichtet wurde, um den Bildungsinhalt des ersten Lehrjahres eines Lehrberufes zu vermitteln, entsprechend einer Vereinbarung des Lehrberechtigten und des Lehrlings, für minderjährige Lehrlinge auch dessen gesetzlichen Vertreters, in dem vereinbarten Ausmaß, höchstens jedoch im Ausmaß der tatsächlich absolvierten Zeit,
+
+k) entsprechend einer Vereinbarung des Lehrberechtigten und des Lehrlings und nach Einholung einer Stellungnahme des Landes-Berufsausbildungsbeirates im Inland oder im Ausland zurückgelegte Zeiten beruflicher Praxis, von Anlerntätigkeiten, von Kursbesuch oder sonstige Zeiten des Erwerbs von beruflichen Fertigkeiten und Kenntnissen unter Bedachtnahme auf das in einer fachlich nahestehenden Beschäftigung Gelernte und dessen Verwertbarkeit für den Lehrberuf im Höchstausmaß von zwei Dritteln der für den Lehrberuf festgesetzten Dauer der Lehrzeit.
 
 (3) Wenn der Lehrling in einem zusammenhängenden Zeitraum von über vier Monaten aus in seiner Person gelegenen Gründen verhindert ist, den Lehrberuf zu erlernen, so ist die vier  Monate überschreitende Zeit nicht auf die für den Lehrberuf festgesetzte Lehrzeit anzurechnen. Das gleiche gilt, wenn die Dauer mehrerer solcher Verhinderungen in einem Lehrjahr insgesamt vier Monate übersteigt.
 
@@ -696,7 +705,7 @@ Seite 16 von 53
 
 Bundesrecht konsolidiert
 
-(5)  Aus  sachlich  gerechtfertigten  Gründen  kann  im  Einzelfall  durch  Vereinbarung  zwischen  dem Lehrberechtigten und dem Lehrling, bei minderjährigen Lehrlingen auch dessen gesetzlichen Vertreter, die  bei  der  Anmeldung  des  Lehrvertrages  der  Lehrlingsstelle  vorzulegen  ist,  der  gemäß  § 28  Abs. 2 festgelegte Lehrzeitersatz um nicht mehr als ein Jahr vermindert werden. Die Lehrlingsstelle hat vor der Eintragung  eines  derartigen  Lehrvertrages  eine  binnen  vier  Wochen  zu  erstattende  Stellungnahme  des Landes-Berufsausbildungsbeirates einzuholen. In dieser Stellungnahme hat der LandesBerufsausbildungsbeirat die Interessen des Lehrlings, insbesondere im Hinblick auf die Erreichung des Lehrzieles, zu berücksichtigen. Eine Eintragung des Lehrvertrages unter Bedachtnahme auf eine derartige Vereinbarung kann nur dann erfolgen, wenn die Stellungnahme des Landes-Berufsausbildungsbeirates die sachliche Rechtfertigung der Vereinbarung sowie das Ausmaß der Lehrzeitverkürzung feststellt.
+(5) Aus sachlich gerechtfertigten Gründen kann im Einzelfall durch Vereinbarung zwischen dem Lehrberechtigten und dem Lehrling, bei minderjährigen Lehrlingen auch dessen gesetzlichen Vertreter, die bei der Anmeldung des Lehrvertrages der Lehrlingsstelle vorzulegen ist, der gemäß § 28 Abs. 2 festgelegte Lehrzeitersatz um nicht mehr als ein Jahr vermindert werden. Die Lehrlingsstelle hat vor der Eintragung eines derartigen Lehrvertrages eine binnen vier Wochen zu erstattende Stellungnahme des Landes-Berufsausbildungsbeirates einzuholen. In dieser Stellungnahme hat der Landes-Berufsausbildungsbeirat die Interessen des Lehrlings, insbesondere im Hinblick auf die Erreichung des Lehrzieles, zu berücksichtigen. Eine Eintragung des Lehrvertrages unter Bedachtnahme auf eine derartige Vereinbarung kann nur dann erfolgen, wenn die Stellungnahme des Landes-Berufsausbildungsbeirates die sachliche Rechtfertigung der Vereinbarung sowie das Ausmaß der Lehrzeitverkürzung feststellt.
 
 (6) Teilnehmer an einem Lehrgang gemäß Abs. 2 lit. j sind hinsichtlich der Berufsschulpflicht und der sozialrechtlichen Bestimmungen, insbesondere hinsichtlich § 4 Abs. 2 Z 2 ASVG  und  des Familienlastenausgleichsgesetzes, BGBl. Nr. 376/1967, Lehrlingen gleichgestellt.
 
@@ -706,15 +715,15 @@ Bundesrecht konsolidiert
 
 (2) Vor Ablauf der vereinbarten Lehrzeit endet das Lehrverhältnis, wenn
 
-- der Lehrling stirbt;
+a) der Lehrling stirbt;
 
-- der Lehrberechtigte stirbt und kein Ausbilder vorhanden ist, es sei denn, daß er ohne unnötigen Aufschub bestellt wird;
+b) der Lehrberechtigte stirbt und kein Ausbilder vorhanden ist, es sei denn, daß er ohne unnötigen Aufschub bestellt wird;
 
-- die Eintragung des Lehrvertrages rechtskräftig verweigert oder die Löschung der Eintragung des Lehrvertrages rechtskräftig verfügt wurde;
+c) die Eintragung des Lehrvertrages rechtskräftig verweigert oder die Löschung der Eintragung des Lehrvertrages rechtskräftig verfügt wurde;
 
-- der  Lehrberechtigte  nicht  mehr  zur  Ausübung  der  Tätigkeit  befugt  ist,  in  deren  Rahmen  der Lehrling ausgebildet wird oder der Lehrberechtigte auf Grund des § 4 von der Ausbildung von Lehrlingen ausgeschlossen ist,
+d) der Lehrberechtigte nicht mehr zur Ausübung der Tätigkeit befugt ist, in deren Rahmen der Lehrling ausgebildet wird oder der Lehrberechtigte auf Grund des § 4 von der Ausbildung von Lehrlingen ausgeschlossen ist,
 
-- der Lehrling die Lehrabschlußprüfung erfolgreich ablegt, wobei die Endigung des Lehrverhältnisses mit Ablauf der Woche in der die Prüfung abgelegt wird, eintritt.
+e) der Lehrling die Lehrabschlußprüfung erfolgreich ablegt, wobei die Endigung des Lehrverhältnisses mit Ablauf der Woche in der die Prüfung abgelegt wird, eintritt.
 
 (3) Wenn ein Lehrverhältnis gemäß Abs. 2 lit. d endet und der Lehrberechtigte innerhalb von sechs Monaten nach Endigung des Lehrverhältnisses seine Tätigkeit  wieder aufnimmt, ist das Lehrverhältnis fortzusetzen, wenn der Lehrling innerhalb von zwei Wochen nach Verständigung von der Wiederaufnahme der Tätigkeit durch den Lehrberechtigten oder sonst innerhalb von zwei Monaten nach Wiederaufnahme  der  Tätigkeit  eine  diesbezügliche  schriftliche  Erklärung  abgibt.  Die  vier  Monate übersteigende Zeit zwischen der Endigung des Lehrverhältnisses und seiner Fortsetzung ist auf die für den Lehrberuf festgesetzte Lehrzeit nicht anzurechnen.
 
@@ -726,9 +735,9 @@ Bundesrecht konsolidiert
 
 (3) Gründe, die den Lehrberechtigten zur vorzeitigen Auflösung des Lehrverhältnisses berechtigen, liegen vor, wenn
 
-- der Lehrling sich eines Diebstahls, einer Veruntreuung oder einer sonstigen strafbaren Handlung schuldig macht, die ihn des Vertrauens des Lehrberechtigten unwürdig macht oder der Lehrling länger als einen Monat in Haft, ausgenommen Untersuchungshaft, gehalten wird;
+a) der Lehrling sich eines Diebstahls, einer Veruntreuung oder einer sonstigen strafbaren Handlung schuldig macht, die ihn des Vertrauens des Lehrberechtigten unwürdig macht oder der Lehrling länger als einen Monat in Haft, ausgenommen Untersuchungshaft, gehalten wird;
 
-- der  Lehrling  den  Lehrberechtigten,  dessen  Betriebs-  oder  Haushaltsangehörige  tätlich  oder erheblich wörtlich beleidigt oder gefährlich bedroht hat oder der Lehrling die Betriebsangehörigen  zur  Nichtbefolgung  von  betrieblichen  Anordnungen,  zu  unordentlichem Lebenswandel oder zu unsittlichen oder gesetzwidrigen Handlungen zu verleiten sucht;
+b) der Lehrling den Lehrberechtigten, dessen Betriebs- oder Haushaltsangehörige tätlich oder erheblich wörtlich beleidigt oder gefährlich bedroht hat oder der Lehrling die Betriebsangehörigen zur Nichtbefolgung von betrieblichen Anordnungen, zu unordentlichem Lebenswandel oder zu unsittlichen oder gesetzwidrigen Handlungen zu verleiten sucht;
 
 www.ris.bka.gv.at
 
@@ -740,33 +749,33 @@ Seite 17 von 53
 
 Bundesrecht konsolidiert
 
-- der  Lehrling  trotz  wiederholter  Ermahnungen  die  ihm  auf  Grund  dieses  Bundesgesetzes,  des Schulpflichtgesetzes, BGBl. Nr. 242/1962, oder des Lehrvertrages obliegenden Pflichten verletzt oder vernachlässigt;
+c) der Lehrling trotz wiederholter Ermahnungen die ihm auf Grund dieses Bundesgesetzes, des Schulpflichtgesetzes, BGBl. Nr. 242/1962, oder des Lehrvertrages obliegenden Pflichten verletzt oder vernachlässigt;
 
-- der  Lehrling  ein  Geschäfts-  oder  Betriebsgeheimnis  anderen  Personen  verrät  oder  es  ohne Zustimmung des Lehrberechtigten verwertet oder einen seiner Ausbildung abträglichen Nebenerwerb betreibt oder ohne Einwilligung des Lehrberechtigten Arbeiten seines Lehrberufes für Dritte verrichtet und dafür ein Entgelt verlangt;
+d) der Lehrling ein Geschäfts- oder Betriebsgeheimnis anderen Personen verrät oder es ohne Zustimmung des Lehrberechtigten verwertet oder einen seiner Ausbildung abträglichen Nebenerwerb betreibt oder ohne Einwilligung des Lehrberechtigten Arbeiten seines Lehrberufes für Dritte verrichtet und dafür ein Entgelt verlangt;
 
-- der Lehrling seinen Lehrplatz unbefugt verläßt;
+e) der Lehrling seinen Lehrplatz unbefugt verläßt;
 
-- der Lehrling unfähig wird, den Lehrberuf zu erlernen, sofern innerhalb der vereinbarten Lehrzeit die Wiedererlangung dieser Fähigkeit nicht zu erwarten ist; oder
+f) der Lehrling unfähig wird, den Lehrberuf zu erlernen, sofern innerhalb der vereinbarten Lehrzeit die Wiedererlangung dieser Fähigkeit nicht zu erwarten ist; oder
 
-- der  Lehrling  einer  vereinbarten  Ausbildung  im  Rahmen  eines  Ausbildungsverbundes  infolge erheblicher Pflichtverletzung nicht nachkommt.
+g) der Lehrling einer vereinbarten Ausbildung im Rahmen eines Ausbildungsverbundes infolge erheblicher Pflichtverletzung nicht nachkommt.
 
 (4)  Gründe,  die  den  Lehrling  zur  vorzeitigen  Auflösung  des  Lehrverhältnisses  berechtigen,  liegen vor, wenn
 
-- der Lehrling ohne Schaden für seine Gesundheit das Lehrverhältnis nicht fortsetzen kann;
+a) der Lehrling ohne Schaden für seine Gesundheit das Lehrverhältnis nicht fortsetzen kann;
 
-- der  Lehrberechtigte  oder  der  Ausbilder  die  ihm  obliegenden  Pflichten  gröblich  vernachlässigt, den Lehrling zu unsittlichen oder gesetzwidrigen Handlungen zu verleiten sucht, ihn mißhandelt, körperlich  züchtigt  oder  erheblich  wörtlich  beleidigt  oder  den  Lehrling  gegen  Mißhandlungen, körperliche Züchtigungen oder unsittliche Handlungen von seiten der Betriebsangehörigen und der Haushaltsangehörigen des Lehrberechtigten zu schützen unterläßt;
+b) der Lehrberechtigte oder der Ausbilder die ihm obliegenden Pflichten gröblich vernachlässigt, den Lehrling zu unsittlichen oder gesetzwidrigen Handlungen zu verleiten sucht, ihn mißhandelt, körperlich züchtigt oder erheblich wörtlich beleidigt oder den Lehrling gegen Mißhandlungen, körperliche Züchtigungen oder unsittliche Handlungen von seiten der Betriebsangehörigen und der Haushaltsangehörigen des Lehrberechtigten zu schützen unterläßt;
 
-- der  Lehrberechtigte  länger  als  einen  Monat  in  Haft  gehalten  wird,  es  sei  denn,  daß  ein gewerberechtlicher Stellvertreter (Geschäftsführer) oder ein Ausbilder bestellt ist;
+c) der Lehrberechtigte länger als einen Monat in Haft gehalten wird, es sei denn, daß ein gewerberechtlicher Stellvertreter (Geschäftsführer) oder ein Ausbilder bestellt ist;
 
-- der  Lehrberechtigte  unfähig  wird,  seine  Verpflichtungen  auf  Grund  der  Bestimmungen  dieses Bundesgesetzes oder des Lehrvertrages zu erfüllen;
+d) der Lehrberechtigte unfähig wird, seine Verpflichtungen auf Grund der Bestimmungen dieses Bundesgesetzes oder des Lehrvertrages zu erfüllen;
 
-- der  Betrieb  oder  die  Werkstätte  auf  Dauer  in  eine  andere  Gemeinde  verlegt  wird  und  dem Lehrling die Zurücklegung eines längeren Weges zur Ausbildungsstätte nicht zugemutet werden kann, während  der  ersten  zwei  Monate  nach  der  Verlegung;  das  gleiche  gilt  bei  einer Übersiedlung des Lehrlings in eine andere Gemeinde;
+e) der Betrieb oder die Werkstätte auf Dauer in eine andere Gemeinde verlegt wird und dem Lehrling die Zurücklegung eines längeren Weges zur Ausbildungsstätte nicht zugemutet werden kann, während der ersten zwei Monate nach der Verlegung; das gleiche gilt bei einer Übersiedlung des Lehrlings in eine andere Gemeinde;
 
-- der  Lehrling  von  seinen  Eltern  oder  sonstigen  Erziehungsberechtigten  wegen  wesentlicher Änderung  ihrer  Verhältnisse  zu  ihrer  Unterstützung  oder  zur  vorwiegenden  Verwendung  in ihrem Betrieb benötigt wird;
+f) der Lehrling von seinen Eltern oder sonstigen Erziehungsberechtigten wegen wesentlicher Änderung ihrer Verhältnisse zu ihrer Unterstützung oder zur vorwiegenden Verwendung in ihrem Betrieb benötigt wird;
 
-- der Lehrling seinen Lehrberuf aufgibt; oder
+g) der Lehrling seinen Lehrberuf aufgibt; oder
 
-- dem  Lehrling  eine  vereinbarte  Ausbildung  im  Rahmen  eines  Ausbildungsverbundes  ohne gerechtfertigte Gründe nicht im hiefür vorgesehenen Lehrjahr vermittelt wird.
+h) dem Lehrling eine vereinbarte Ausbildung im Rahmen eines Ausbildungsverbundes ohne gerechtfertigte Gründe nicht im hiefür vorgesehenen Lehrjahr vermittelt wird.
 
 (5) Bei einvernehmlicher Auflösung des Lehrverhältnisses nach Ablauf der gemäß  Abs. 1 zutreffenden Frist muß eine Amtsbestätigung eines Gerichts (§ 92 ASGG) oder eine Bescheinigung einer Kammer  für  Arbeiter  und  Angestellte  vorliegen,  aus  der  hervorgeht,  daß  der  Lehrling  über  die Bestimmungen  betreffend  die  Endigung  und  die  vorzeitige  Auflösung  des  Lehrverhältnisses  belehrt wurde.
 
@@ -774,7 +783,7 @@ Bundesrecht konsolidiert
 
 § 15a. (1) Sowohl der Lehrberechtigte als auch der Lehrling können das Lehrverhältnis zum Ablauf des letzten Tages des zwölften Monats der Lehrzeit und bei Lehrberufen mit einer festgelegten Dauer der Lehrzeit von drei, dreieinhalb oder vier Jahren überdies zum Ablauf des letzten Tages des 24. Monats der Lehrzeit unter Einhaltung einer Frist von einem Monat einseitig außerordentlich auflösen.
 
-- Abs. 1 ist auf Ausbildungsverträge gemäß § 8b Abs. 2 nicht anwendbar.
+(2) Abs. 1 ist auf Ausbildungsverträge gemäß § 8b Abs. 2 nicht anwendbar.
 
 (3) Die außerordentliche Auflösung des Lehrverhältnisses durch den Lehrberechtigten ist nur dann wirksam,  wenn  der  Lehrberechtigte  die  beabsichtigte  außerordentliche  Auflösung  und  die  geplante Aufnahme eines Mediationsverfahrens spätestens am Ende des neunten bzw.
 
@@ -812,7 +821,7 @@ Bundesrecht konsolidiert
 
 (2)  Das  Lehrzeugnis  unterliegt  nicht  der  Gebührenpflicht  im  Sinne  des  Gebührengesetzes 1957, BGBl. Nr. 267.
 
-(3)  Die  Lehrlingsstelle  hat  die  Richtigkeit  der  Angaben  über  den  Lehrberuf  und  die  Dauer  des Lehrverhältnisses in  Lehrzeugnissen auf Antrag des Zeugnisinhabers zu bestätigen, wenn und insoweit der  dem  Antrag  zu  Grunde  liegende  Lehrvertrag  bei  der  Lehrlingsstelle  eingetragen  ist.  Bestätigte Lehrzeugnisse  begründen  für  die  Zulassung  zur  Lehrabschlußprüfung,  zu  einer  Zusatzprüfung  und  für einen Befähigungsnachweis im Sinne der Gewerbeordnung 1994 vollen Beweis über die so beurkundete Lehrzeit.
+(3) Die Lehrlingsstelle hat die Richtigkeit der Angaben über den Lehrberuf und die Dauer des Lehrverhältnisses in Lehrzeugnissen auf Antrag des Zeugnisinhabers zu bestätigen, wenn und insoweit der dem Antrag zu Grunde liegende Lehrvertrag bei der Lehrlingsstelle eingetragen ist. Bestätigte Lehrzeugnisse begründen für die Zulassung zur Lehrabschlußprüfung, zu einer Zusatzprüfung und für
 
 www.ris.bka.gv.at
 
@@ -823,6 +832,8 @@ Seite 19 von 53
 [[START OF PAGE 20]]
 
 Bundesrecht konsolidiert
+
+einen Befähigungsnachweis im Sinne der Gewerbeordnung 1994 vollen Beweis über die so beurkundete Lehrzeit.
 
 ### Lehrlingsentschädigung
 
@@ -900,7 +911,7 @@ Bundesrecht konsolidiert
 
 (7) Jede Lehrlingsstelle hat den bei ihr errichteten Landes-Berufsausbildungsbeirat über die Situation der Berufsausbildung im Sinne dieses Bundesgesetzes sowie über die durchgeführten Maßnahmen durch einen Jahresbericht in Kenntnis zu setzen, der in der ersten Hälfte des dem Berichtsjahr folgenden Jahres zu  erstatten  ist;  weiters  hat  sie  den  Landes-Berufsausbildungsbeirat  auf  dessen  Verlangen  von  den  im Bundesland festgesetzten Terminen für Lehrabschlußprüfungen und allfällige Teilprüfungen zu verständigen.
 
-(8)  Sachlich  in  Betracht  kommende  Oberbehörden  sind  die  Landeshauptleute  und  über  diesen  der Bundesminister  für  Wirtschaft,  Familie  und  Jugend.  Die  Landeskammern  der  gewerblichen  Wirtschaft und die Lehrlingsstellen sind bei Besorgung der diesen obliegenden Aufgaben gemäß Art. 120b Abs. 2 BVG an Weisungen des Bundesministers für Wirtschaft, Familie und Jugend gebunden.
+(8) Sachlich in Betracht kommende Oberbehörden sind die Landeshauptleute und über diesen der Bundesminister für Wirtschaft, Familie und Jugend. Die Landeskammern der gewerblichen Wirtschaft und die Lehrlingsstellen sind bei Besorgung der diesen obliegenden Aufgaben gemäß Art. 120b Abs. 2 B-VG an Weisungen des Bundesministers für Wirtschaft, Familie und Jugend gebunden.
 
 (9)  Schriften  und  Amtshandlungen  im  Verfahren  vor  den  Lehrlingsstellen  unterliegen  nicht  der Gebührenpflicht im Sinne des Gebührengesetzes 1957, BGBl. Nr. 267.
 
@@ -922,21 +933,21 @@ Verfassungsbestimmung
 
 § 19c. (1)  Zur  Förderung  der  betrieblichen  Ausbildung  von  Lehrlingen  können  Beihilfen  an Lehrberechtigte gemäß § 2 und an Lehrberechtigte gemäß § 2 Abs. 1 des Land- und forstwirtschaftlichen Berufsausbildungsgesetzes,  BGBl.  Nr. 298/1990,  gewährt  sowie  ergänzende  Unterstützungsstrukturen, auch  unter  Einbeziehung  von  dazu  geeigneten  Einrichtungen,  zur  Verfügung  gestellt  werden.  Die Beihilfen und ergänzenden Unterstützungsstrukturen dienen insbesondere folgenden Zwecken:
 
-- Förderung  des  Anreizes  zur  Ausbildung  von  Lehrlingen,  insbesondere  durch  Abgeltung  eines Teiles der Lehrlingsentschädigung,
+1. Förderung des Anreizes zur Ausbildung von Lehrlingen, insbesondere durch Abgeltung eines Teiles der Lehrlingsentschädigung,
 
-- Steigerung der Qualität in der Lehrlingsausbildung,
+2. Steigerung der Qualität in der Lehrlingsausbildung,
 
-- Förderung von Ausbildungsverbünden,
+3. Förderung von Ausbildungsverbünden,
 
-- Aus- und Weiterbildung von Ausbilder/innen,
+4. Aus- und Weiterbildung von Ausbilder/innen,
 
-- Zusatzausbildungen von Lehrlingen,
+5. Zusatzausbildungen von Lehrlingen,
 
-- Förderung der Ausbildung in Lehrberufen entsprechend dem regionalen Fachkräftebedarf,
+6. Förderung der Ausbildung in Lehrberufen entsprechend dem regionalen Fachkräftebedarf,
 
-- Förderung  des  gleichmäßigen  Zugangs  von  jungen  Frauen  und  jungen  Männern  zu  den verschiedenen Lehrberufen,
+7. Förderung des gleichmäßigen Zugangs von jungen Frauen und jungen Männern zu den verschiedenen Lehrberufen,
 
-- Förderung von Beratungs-, Betreuungs- und Unterstützungsleistungen zur Erhöhung der Chancen auf  eine  erfolgreiche  Berufsausbildung  und  auch  zur  Anhebung  der  Ausbildungsbeteiligung insbesondere in Bereichen mit wenigen Ausbildungsbetrieben oder Lehrlingen.
+8. Förderung von Beratungs-, Betreuungs- und Unterstützungsleistungen zur Erhöhung der Chancen auf eine erfolgreiche Berufsausbildung und auch zur Anhebung der Ausbildungsbeteiligung insbesondere in Bereichen mit wenigen Ausbildungsbetrieben oder Lehrlingen.
 
 (2)  Die  näheren  Bestimmungen  über  Art,  Höhe,  Dauer,  Gewährung  und  Rückforderbarkeit  der Beihilfen gemäß  Abs. 1, ausgenommen  für Zwecke  gemäß  Z 8, werden durch Richtlinien des Förderausschusses (§ 31b), die der Bestätigung des Bundesministers für Wirtschaft, Familie und Jugend bedürfen, festgelegt. Die näheren Bestimmungen über Art, Höhe, Dauer, Gewährung und Rückforderbarkeit der Beihilfen sowie für die ergänzenden Unterstützungsstrukturen für Zwecke gemäß Abs. 1  Z 8  werden  durch  Richtlinien  des  Bundesministers  für  Wirtschaft,  Familie  und  Jugend  im Einvernehmen mit dem Bundesminister für Arbeit, Soziales und Konsumentenschutz (§ 31c) festgelegt.
 
@@ -956,7 +967,7 @@ Bundesrecht konsolidiert
 
 (5) Die Lehrlingsstellen haben der jeweils zuständigen Arbeiterkammer vor der Gewährung von in den Richtlinien bestimmten Beihilfen, bei denen ein Ermessensspielraum zur Beurteilung des Vorliegens der  Voraussetzungen  besteht,  Gelegenheit  zur  Stellungnahme  zu  geben.  Zu  diesem  Zweck  hat  die Lehrlingsstelle  der  Arbeiterkammer  die  für  die  Entscheidung  maßgeblichen  Angaben  zu  übermitteln. Spricht sich die Arbeiterkammer binnen vierzehn Tagen gegen die Gewährung der Beihilfe aus, ist der Landes-Berufsausbildungsbeirat  anzuhören.  Der  Landes-Berufsausbildungsbeirat  entscheidet  über  seine Stellungnahme mit einfacher Mehrheit.
 
-(6)  Die  Lehrlingsstellen  haben  die  Vergabe  der  Beihilfen  zu  dokumentieren  und  den  LandesBerufsausbildungsbeiräten  mindestens  halbjährlich  über  die  wichtigsten  Umstände  zu  berichten.  Den Kammern für Arbeiter und Angestellte sowie dem Bundesminister für Wirtschaft, Familie und Jugend ist die  stichprobenartige  und  anlassfallbezogene  Einsichtnahme  in  die  Dokumentation  zum  Zwecke  der Kontrolle der rechtmäßigen und zweckmäßigen Mittelverwendung bzw. der Wahrnehmung der Aufsicht nach § 19d zu gewähren. Die Dokumentation hat die für jeden Beihilfenfall maßgeblichen Sachverhaltsangaben samt den zugehörigen Nachweisen zu enthalten.
+(6) Die Lehrlingsstellen haben die Vergabe der Beihilfen zu dokumentieren und den Landes-Berufsausbildungsbeiräten mindestens halbjährlich über die wichtigsten Umstände zu berichten. Den Kammern für Arbeiter und Angestellte sowie dem Bundesminister für Wirtschaft, Familie und Jugend ist die stichprobenartige und anlassfallbezogene Einsichtnahme in die Dokumentation zum Zwecke der Kontrolle der rechtmäßigen und zweckmäßigen Mittelverwendung bzw. der Wahrnehmung der Aufsicht nach § 19d zu gewähren. Die Dokumentation hat die für jeden Beihilfenfall maßgeblichen Sachverhaltsangaben samt den zugehörigen Nachweisen zu enthalten.
 
 (7) Die Wirtschaftskammern können sich zur Vorbereitung und Durchführung der Entscheidungen der Lehrlingsstellen einer eigenen Gesellschaft oder sonstiger geeigneter Einrichtungen als Dienstleister bedienen,  soweit  dem  die  Grundsätze  der  Sparsamkeit,  Wirtschaftlichkeit  und  Zweckmäßigkeit  nicht entgegenstehen. Dadurch  dürfen schutzwürdige Interessen Dritter im Sinne des § 1 Abs. 1 des Datenschutzgesetzes 2000 (DSG 2000), BGBl. I Nr. 165/1999, nicht verletzt werden.
 
@@ -996,67 +1007,67 @@ Bundesrecht konsolidiert
 
 § 19g. (1) Die Lehrlingsstellen und das Bundesministerium für Wirtschaft, Familie und Jugend sind zur  Verarbeitung  nachstehender  Daten  ermächtigt,  soweit  deren  Verwendung  für  die  Erfüllung  der Aufgaben eine wesentliche Voraussetzung ist. Die in Frage kommenden Datenarten sind:
 
-- Daten der Lehrlinge:
+1. Daten der Lehrlinge:
 
-- Namen (Vornamen, Familiennamen),
+a) Namen (Vornamen, Familiennamen),
 
-- Sozialversicherungsnummer und Geburtsdatum,
+b) Sozialversicherungsnummer und Geburtsdatum,
 
-- Geschlecht,
+c) Geschlecht,
 
-- Staatsangehörigkeit, Aufenthalts- und Arbeitsberechtigungen,
+d) Staatsangehörigkeit, Aufenthalts- und Arbeitsberechtigungen,
 
-- Adresse des Wohnsitzes oder Aufenthaltsortes,
+e) Adresse des Wohnsitzes oder Aufenthaltsortes,
 
-- gesetzliche Vertreter minderjähriger Lehrlinge,
+f) gesetzliche Vertreter minderjähriger Lehrlinge,
 
-- Telefonnummer,
+g) Telefonnummer,
 
-- E-Mail-Adresse,
+h) E-Mail-Adresse,
 
-- Lehrberuf,
+i) Lehrberuf,
 
-- Beginn, Ende und Dauer des Lehrverhältnisses,
+j) Beginn, Ende und Dauer des Lehrverhältnisses,
 
-- Ergebnis der Lehrabschlussprüfung und allfälliger Teilprüfungen,
+k) Ergebnis der Lehrabschlussprüfung und allfälliger Teilprüfungen,
 
-- Vorbildung und Zusatzausbildungen,
+l) Vorbildung und Zusatzausbildungen,
 
-- anzuwendender Kollektivvertrag oder sonstige anzuwendende Rechtsquelle (Satzung, Mindestlohntarif, festgesetzte Lehrlingsentschädigung),
+m) anzuwendender Kollektivvertrag oder sonstige anzuwendende Rechtsquelle (Satzung, Mindestlohntarif, festgesetzte Lehrlingsentschädigung),
 
-- Höhe der Lehrlingsentschädigung.
+n) Höhe der Lehrlingsentschädigung.
 
-- Daten der Lehrberechtigten:
+2. Daten der Lehrberechtigten:
 
-- Firmennamen und Betriebsnamen,
+a) Firmennamen und Betriebsnamen,
 
-- Firmensitz und Betriebssitz,
+b) Firmensitz und Betriebssitz,
 
-- Struktur des Betriebes (zB Konzern-, Stamm-, Filialbetrieb),
+c) Struktur des Betriebes (zB Konzern-, Stamm-, Filialbetrieb),
 
-- Betriebsgröße,
+d) Betriebsgröße,
 
-- Betriebsgegenstand,
+e) Betriebsgegenstand,
 
-- Branchenzugehörigkeit,
+f) Branchenzugehörigkeit,
 
-- Kollektivvertragszugehörigkeit,
+g) Kollektivvertragszugehörigkeit,
 
-- Zahl und Struktur der Beschäftigten,
+h) Zahl und Struktur der Beschäftigten,
 
-- Betriebsinhaber und verantwortliche Mitglieder der Geschäftsführung,
+i) Betriebsinhaber und verantwortliche Mitglieder der Geschäftsführung,
 
-- Ansprechpartner,
+j) Ansprechpartner,
 
-- Ausbilder/innen,
+k) Ausbilder/innen,
 
-- Aus- und Weiterbildung von Ausbilder/innen,
+l) Aus- und Weiterbildung von Ausbilder/innen,
 
-- Lehrberufe,
+m) Lehrberufe,
 
-- Ergebnisse von Qualitätsüberprüfungen,
+n) Ergebnisse von Qualitätsüberprüfungen,
 
-- Auszeichnungen gemäß § 30a,
+o) Auszeichnungen gemäß § 30a,
 
 www.ris.bka.gv.at
 
@@ -1068,25 +1079,25 @@ Seite 24 von 53
 
 Bundesrecht konsolidiert
 
-- Ausbildungsverbünde und die daran beteiligten Unternehmen und Einrichtungen,
+p) Ausbildungsverbünde und die daran beteiligten Unternehmen und Einrichtungen,
 
-- Dienstgeberkontonummer und Unternehmenskennzahl,
+q) Dienstgeberkontonummer und Unternehmenskennzahl,
 
-- Telefonnummer,
+r) Telefonnummer,
 
-- E-Mail-Adresse,
+s) E-Mail-Adresse,
 
-- sonstige Kontaktmöglichkeiten,
+t) sonstige Kontaktmöglichkeiten,
 
-- Bankverbindung und Kontonummer.
+u) Bankverbindung und Kontonummer.
 
-- Daten über Beihilfen an Lehrberechtigte:
+3. Daten über Beihilfen an Lehrberechtigte:
 
-- Art und Zweck der Beihilfe,
+a) Art und Zweck der Beihilfe,
 
-- Höhe der Beihilfe,
+b) Höhe der Beihilfe,
 
-- Beihilfenzeitraum (Beginn und Ende).
+c) Beihilfenzeitraum (Beginn und Ende).
 
 (2) Die von den Lehrlingsstellen oder vom Bundesministerium für Wirtschaft, Familie und Jugend verarbeiteten  Daten  gemäß  Abs. 1  dürfen  an  Behörden,  Gerichte,  Träger  der  Sozialversicherung,  die Arbeiterkammern,  die  Wirtschaftskammern,  das  Arbeitsmarktservice  und  die  Bundesanstalt  Statistik Österreich  im  Wege  der  automationsunterstützten  Datenverarbeitung  übermittelt  werden,  soweit  die entsprechenden  Daten  für  die  Vollziehung  der  jeweiligen  gesetzlich  übertragenen  Aufgaben  eine wesentliche Voraussetzung bilden. Die Behörden, Gerichte, Träger der Sozialversicherung, die Arbeiterkammern, die  Wirtschaftskammern  und  das  Arbeitsmarktservice  dürfen  von  ihnen  verarbeitete Daten gemäß Abs. 1 an die Lehrlingsstellen und an das Bundesministerium für Wirtschaft, Familie und Jugend im Wege der automationsunterstützten Datenverarbeitung übermitteln, soweit diese Daten für die Vollziehung  der  den  Lehrlingsstellen  und  dem  Bundesministerium  für  Wirtschaft,  Familie  und  Jugend gesetzlich übertragenen Aufgaben eine wesentliche Voraussetzung bilden.
 
@@ -1102,9 +1113,9 @@ Bundesrecht konsolidiert
 
 (3) Die Lehrlingsstelle hat die Eintragung mit Bescheid zu verweigern,
 
-- wenn der Aufnahme  des Lehrlings ein in diesem Bundesgesetz begründetes Hindernis entgegensteht,
+a) wenn der Aufnahme des Lehrlings ein in diesem Bundesgesetz begründetes Hindernis entgegensteht,
 
-- wenn es sich um ein Scheinlehrverhältnis handelt,
+b) wenn es sich um ein Scheinlehrverhältnis handelt,
 
 www.ris.bka.gv.at
 
@@ -1116,19 +1127,19 @@ Seite 25 von 53
 
 Bundesrecht konsolidiert
 
-- wenn  der  Lehrling  im  Zeitpunkt  des  Beginnes  des  Lehrverhältnisses  nicht  die  allgemeine Schulpflicht erfüllt hat,
+c) wenn der Lehrling im Zeitpunkt des Beginnes des Lehrverhältnisses nicht die allgemeine Schulpflicht erfüllt hat,
 
-- wenn es sich im Falle eines jugendlichen Lehrlings um einen verbotenen Betrieb im Sinne des Kinderund Jugendbeschäftigungsgesetzes, BGBl. Nr. 146/1948, handelt, oder dem Lehrberechtigten die Beschäftigung Jugendlicher rechtskräftig untersagt ist,
+d) wenn es sich im Falle eines jugendlichen Lehrlings um einen verbotenen Betrieb im Sinne des Kinder- und Jugendbeschäftigungsgesetzes, BGBl. Nr. 146/1948, handelt, oder dem Lehrberechtigten die Beschäftigung Jugendlicher rechtskräftig untersagt ist,
 
-- wenn der Aufnahme des Lehrlings ein sonstiges gesetzliches Hindernis entgegensteht,
+e) wenn der Aufnahme des Lehrlings ein sonstiges gesetzliches Hindernis entgegensteht,
 
-- solange  in  den  Fällen  des  § 3a  Abs. 1  nicht  ein  rechtskräftiger  Feststellungsbescheid  über  das Vorliegen der dort festgelegten Voraussetzungen  für den  betreffenden  Lehrberuf innerhalb der letzten 15 Monate vor der Anmeldung des Lehrvertrages erlassen wurde,
+f) solange in den Fällen des § 3a Abs. 1 nicht ein rechtskräftiger Feststellungsbescheid über das Vorliegen der dort festgelegten Voraussetzungen für den betreffenden Lehrberuf innerhalb der letzten 15 Monate vor der Anmeldung des Lehrvertrages erlassen wurde,
 
-- wenn  der  Lehrvertrag  nicht  innerhalb  der  gemäß  Abs. 2  gesetzten  Frist  der  Lehrlingsstelle wiederum vorgelegt wird,
+g) wenn der Lehrvertrag nicht innerhalb der gemäß Abs. 2 gesetzten Frist der Lehrlingsstelle wiederum vorgelegt wird,
 
-- wenn  der  Lehrvertrag  erst  nach  Ablauf  der  für  den  Lehrberuf  festgesetzten  Lehrzeit  zur Eintragung angemeldet wird, oder
+h) wenn der Lehrvertrag erst nach Ablauf der für den Lehrberuf festgesetzten Lehrzeit zur Eintragung angemeldet wird, oder
 
-- wenn die Bestimmungen betreffend den Ausbildungsverbund nicht eingehalten werden.
+i) wenn die Bestimmungen betreffend den Ausbildungsverbund nicht eingehalten werden.
 
 (4)  Der  Landeshauptmann  hat  im  Falle  der  Ausübung  des  Aufsichtsrechtes  die  Löschung  der Eintragung  zu  verfügen,  wenn  diese  aus  einem  der  im  Abs. 3  angegebenen  Gründe  zu  verweigern gewesen  wäre.  Eine  solche  Verfügung  ist  nicht  mehr  zulässig,  wenn  der  Lehrling  inzwischen  die Lehrabschlußprüfung erfolgreich abgelegt hat.
 
@@ -1160,9 +1171,9 @@ Bundesrecht konsolidiert
 
 (3)  Personen,  die  eine  Lehrabschlußprüfung  erfolgreich  abgelegt  haben,  sind  berechtigt  sich  zu bezeichnen:
 
-- bei  Lehrberufen,  die  einem  Handelsgewerbe  entsprechen,  als  Kaufmannsgehilfen  oder  mit  der Berufsbezeichnung des Lehrberufes,
+a) bei Lehrberufen, die einem Handelsgewerbe entsprechen, als Kaufmannsgehilfen oder mit der Berufsbezeichnung des Lehrberufes,
 
-- bei den übrigen Lehrberufen als Facharbeiter oder als Gesellen oder mit der Berufsbezeichnung des Lehrberufes.
+b) bei den übrigen Lehrberufen als Facharbeiter oder als Gesellen oder mit der Berufsbezeichnung des Lehrberufes.
 
 (4)  Für  die  Ablegung  der  Lehrabschlußprüfung  sind  Prüfungstaxen  zu  entrichten.  Die  Höhe  der Prüfungstaxe  ist  in  der  Prüfungsordnung  (§ 24)  so  zu  bestimmen,  dass  zur  Tragung  des  durch  die Abhaltung der Prüfungen entstehenden besonderen Verwaltungsaufwandes einschließlich einer angemessenen Entschädigung der Mitglieder der Prüfungskommission und sonstiger Hilfspersonen, die durch die Lehrlingsstelle bestellt werden, beigetragen wird. Die Prüfungstaxen fließen der Landeskammer der gewerblichen Wirtschaft zu, in deren Bereich die Prüfungskommission errichtet wurde, und sind für den Verwaltungsaufwand der Lehrlingsstellen zu verwenden.
 
@@ -1176,7 +1187,7 @@ Bundesrecht konsolidiert
 
 (4)  Personen,  die  wegen  einer  vorsätzlichen,  mit  mehr  als  einjähriger  Freiheitsstrafe  bedrohten Handlung, wegen einer mit Bereicherungsvorsatz begangenen oder einer strafbaren Handlung gegen die Sittlichkeit  oder  wegen  der  Finanzvergehen  des  Schmuggels,  der  Hinterziehung  von  Eingangs-  oder Ausgangsabgaben  oder  der  Abgabenhehlerei  nach  § 37  Abs. 1  lit. a  des  Finanzstrafgesetzes,  BGBl. Nr. 129/1958,  rechtskräftig  von  einem  Gericht  verurteilt  worden  sind,  dürfen  nicht  zu  Mitgliedern  der Prüfungskommission bestellt werden.
 
-(5)  Die  Vorsitzenden  der  Prüfungskommissionen  sind  vom  Leiter  der  Lehrlingsstelle  auf  Grund eines vom Landes-Berufsausbildungsbeirat einzuholenden Vorschlages auf die Dauer von fünf Jahren zu bestellen. Der Leiter der Lehrlingsstelle ist an einstimmige Vorschläge des LandesBerufsausbildungsbeirates gebunden. Wenn  innerhalb von zwei Monaten nach Einholung eines Vorschlages durch die Lehrlingsstelle seitens des Landes-Berufsausbildungsbeirates kein solcher Vorschlag  erstattet  wird,  hat  der  Leiter  der  Lehrlingsstelle  die  Bestellung  der  Vorsitzenden  nach Anhörung der Kammer für Arbeiter und Angestellte und der Landeskammer der gewerblichen Wirtschaft vorzunehmen. Die Beisitzer sind von der Lehrlingsstelle für jeden Prüfungstermin gesondert auf Grund von  Listen  zu  bestimmen,  die  für  die  einzelnen  Lehrberufe  hinsichtlich  des  im  Abs. 2  vorgesehenen Beisitzers von der Lehrlingsstelle nach Anhörung der fachlich zuständigen Fachgruppe (Fachvertretung, Kammer der gewerblichen  Wirtschaft  -  Sektion  Handel)  und  hinsichtlich  des  im  Abs. 3  vorgesehenen Beisitzers von der Kammer für Arbeiter und Angestellte auf die Dauer von fünf Jahren aufzustellen sind. Liegt  der  Lehrlingsstelle  keine  für  die  ordnungsgemäße  Heranziehung  der  erforderlichen  Beisitzer ausreichende Liste vor, so hat die Lehrlingsstelle die Beisitzer unter Bedachtnahme auf die Abs. 2 und 3 heranzuziehen. Die Lehrlingsstelle hat Beisitzer, die die Voraussetzungen für ihre Bestellung nicht oder nicht mehr erfüllen oder durch deren wiederholte unentschuldigte Abwesenheit die Prüfungskommission nicht beschlußfähig war, der Stelle, die die Liste erstellt hat oder bei Erstellung der Liste angehört wurde, bekanntzugeben. Diese Stelle hat die Beisitzer aus der Liste zu streichen und ohne unnötigen Aufschub eine Ergänzung der Liste vorzunehmen.
+(5) Die Vorsitzenden der Prüfungskommissionen sind vom Leiter der Lehrlingsstelle auf Grund eines vom Landes-Berufsausbildungsbeirat einzuholenden Vorschlages auf die Dauer von fünf Jahren zu bestellen. Der Leiter der Lehrlingsstelle ist an einstimmige Vorschläge des Landes-Berufsausbildungsbeirates gebunden. Wenn innerhalb von zwei Monaten nach Einholung eines Vorschlages durch die Lehrlingsstelle seitens des Landes-Berufsausbildungsbeirates kein solcher Vorschlag erstattet wird, hat der Leiter der Lehrlingsstelle die Bestellung der Vorsitzenden nach Anhörung der Kammer für Arbeiter und Angestellte und der Landeskammer der gewerblichen Wirtschaft vorzunehmen. Die Beisitzer sind von der Lehrlingsstelle für jeden Prüfungstermin gesondert auf Grund von Listen zu bestimmen, die für die einzelnen Lehrberufe hinsichtlich des im Abs. 2 vorgesehenen Beisitzers von der Lehrlingsstelle nach Anhörung der fachlich zuständigen Fachgruppe (Fachvertretung, Kammer der gewerblichen Wirtschaft - Sektion Handel) und hinsichtlich des im Abs. 3 vorgesehenen Beisitzers von der Kammer für Arbeiter und Angestellte auf die Dauer von fünf Jahren aufzustellen sind. Liegt der Lehrlingsstelle keine für die ordnungsgemäße Heranziehung der erforderlichen Beisitzer ausreichende Liste vor, so hat die Lehrlingsstelle die Beisitzer unter Bedachtnahme auf die Abs. 2 und 3 heranzuziehen. Die Lehrlingsstelle hat Beisitzer, die die Voraussetzungen für ihre Bestellung nicht oder nicht mehr erfüllen oder durch deren wiederholte unentschuldigte Abwesenheit die Prüfungskommission nicht beschlußfähig war, der Stelle, die die Liste erstellt hat oder bei Erstellung der Liste angehört wurde, bekanntzugeben. Diese Stelle hat die Beisitzer aus der Liste zu streichen und ohne unnötigen Aufschub eine Ergänzung der Liste vorzunehmen.
 
 (6) Der Leiter der Lehrlingsstelle hat einen Vorsitzenden der Prüfungskommission vor Ablauf seiner Amtsdauer  zu  entheben,  wenn  er  seine  Pflichten  wiederholt  vernachlässigt  hat  oder  andere  wichtige Gründe für seine Abberufung sprechen.
 
@@ -1208,15 +1219,15 @@ Bundesrecht konsolidiert
 
 § 23. (1) Zur Lehrabschlußprüfung im erlernten oder in einem verwandten Lehrberuf sind unter der Voraussetzung, daß die im Abs. 3 geforderten Nachweise erbracht werden, zuzulassen:
 
-- Lehrlinge;
+a) Lehrlinge;
 
-- Personen, die die festgesetzte Lehrzeit allenfalls unter Anrechnung einer schulmäßigen Ausbildung gemäß § 28 dieses Bundesgesetzes oder von Zeiten gemäß § 29 dieses Bundesgesetzes beendet haben; und
+b) Personen, die die festgesetzte Lehrzeit allenfalls unter Anrechnung einer schulmäßigen Ausbildung gemäß § 28 dieses Bundesgesetzes oder von Zeiten gemäß § 29 dieses Bundesgesetzes beendet haben; und
 
-- Personen, die auf Grund einer schulmäßigen Ausbildung keine Lehrzeit zurücklegen müssen.
+c) Personen, die auf Grund einer schulmäßigen Ausbildung keine Lehrzeit zurücklegen müssen.
 
 (2) Die Zulassung zur Lehrabschlußprüfung ist im Fall des Abs. 1 lit. a bei der für den Lehrbetrieb (die  Ausbildungsstätte)  des  Lehrlings  örtlich  zuständigen  Lehrlingsstelle  frühestens  sechs  Monate  vor Beendigung der festgesetzten Lehrzeit, sonst nach Wahl des Prüfungswerbers entweder bei der nach dem Arbeitsort  oder  bei  der  nach  dem  Wohnort  des  Prüfungswerbers  örtlich  zuständigen  Lehrlingsstelle  zu beantragen. Diese Lehrlingsstelle hat über den Antrag zu entscheiden und den Prüfungstermin festzusetzen, der bei Lehrlingen auch in den letzten zehn Wochen der festgesetzten Lehrzeit, jedoch bei ganzjährigen  oder  saisonmäßigen  Berufsschulen  nicht  früher  als  sechs  Wochen  vor  dem  Ende  des Unterrichtsjahres,  bei  Lehrberufen  mit  zweieinhalb-  oder  dreieinhalbjähriger  Dauer  der  Lehrzeit  sechs Wochen vor Beendigung der Berufsschulpflicht und bei lehrgangsmäßigen Berufsschulen nicht vor dem Ende des letzten Lehrgangs liegen darf. Wenn der Prüfungswerber eine Berufsschule in einem anderen Bundesland  besucht,  dort  am  Ende  dieses  Berufsschulbesuches  die  Möglichkeit  der  Ablegung  der Lehrabschlußprüfung hat, von dieser Möglichkeit Gebrauch machen will und dies der nach dem ersten Satz zuständigen Lehrlingsstelle bekanntgibt, hat diese Lehrlingsstelle die andere Lehrlingsstelle davon zu  verständigen, daß der Lehrling die Prüfung im anderen Bundesland ablegen darf. Will ein Lehrling auch  die  Wiederholungsprüfung  bei  der  Lehrlingsstelle,  in  dessen  Wirkungsbereich  sich  die  von  ihm besuchte lehrgangsmäßige Berufsschule befindet, ablegen, so kann er seinen Antrag auf Zulassung zur Wiederholungsprüfung direkt an diese Lehrlingsstelle richten. Wenn das Zusammentreten der Prüfungskommission  nicht  rechtzeitig möglich  ist, so hat die nach  dem  ersten Satz zuständige Lehrlingsstelle  auf  Antrag  des  Prüfungswerbers  eine  andere  Lehrlingsstelle,  bei  der  die  Ablegung  der Lehrabschlußprüfung rechtzeitig möglich ist, darum zu ersuchen, daß die Prüfung von der Prüfungskommission  dieser  Lehrlingsstelle  abgelegt  werden  kann.  Die  ersuchte  Lehrlingsstelle  hat diesem Ersuchen zu entsprechen.
 
-(2a)  Lehrlinge,  die  die  Berufsschule  erfolgreich  abgeschlossen  haben,  können  bereits  ab  Beginn ihres letzten Lehrjahres die Zulassung zur Lehrabschlußprüfung beantragen und zur Lehrabschlußprüfung antreten, wenn  der  Lehrberechtigte in dem  Antrag  auf Zulassung  zur Lehrabschlußprüfung  der vorzeitigen Ablegung der Lehrabschlußprüfung zugestimmt hat oder das Lehrverhältnis einvernehmlich oder ohne Verschulden des Lehrlings vorzeitig aufgelöst wurde oder vor Ablauf der vereinbarten Lehrzeit geendet hat.
+(2a) Lehrlinge, die die Berufsschule erfolgreich abgeschlossen haben, können bereits ab Beginn ihres letzten Lehrjahres die Zulassung zur Lehrabschlußprüfung beantragen und zur Lehrabschlußprüfung antreten, wenn der Lehrberechtigte in dem Antrag auf Zulassung zur Lehrabschlußprüfung der vorzeitigen Ablegung der Lehrabschlußprüfung zugestimmt hat oder das Lehrverhältnis einvernehmlich
 
 www.ris.bka.gv.at
 
@@ -1228,13 +1239,15 @@ Seite 28 von 53
 
 Bundesrecht konsolidiert
 
-(3)  Dem  Antrag  des  Prüfungswerbers  um  Zulassung  zur  Lehrabschlussprüfung  sind  grundsätzlich anzuschließen:
+oder ohne Verschulden des Lehrlings vorzeitig aufgelöst wurde oder vor Ablauf der vereinbarten Lehrzeit geendet hat.
 
-- Nachweise über die Dauer der zurückgelegten Lehrzeit oder der gemäß § 13 Abs. 2 anzurechnenden Lehrzeit oder das Zeugnis einer Schule, deren erfolgreicher Besuch die Lehrzeit ganz oder teilweise ersetzt;
+(3) Dem Antrag des Prüfungswerbers um Zulassung zur Lehrabschlussprüfung sind grundsätzlich anzuschließen:
 
-- der Nachweis über den Besuch der Berufsschule oder über die Befreiung von der Berufsschulpflicht und
+a) Nachweise über die Dauer der zurückgelegten Lehrzeit oder der gemäß § 13 Abs. 2 anzurechnenden Lehrzeit oder das Zeugnis einer Schule, deren erfolgreicher Besuch die Lehrzeit ganz oder teilweise ersetzt;
 
-- der Nachweis über die Entrichtung der Prüfungstaxe.
+b) der Nachweis über den Besuch der Berufsschule oder über die Befreiung von der Berufsschulpflicht und
+
+c) der Nachweis über die Entrichtung der Prüfungstaxe.
 
 Die Lehrlingsstelle kann aus organisatorischen Gründen auf die Vorlage dieser Beilagen verzichten bzw. festlegen, dass die Prüfungstaxe zu einem späteren Zeitpunkt eingehoben wird.
 
@@ -1242,11 +1255,11 @@ Die Lehrlingsstelle kann aus organisatorischen Gründen auf die Vorlage dieser B
 
 (5) Nach Wahl des Antragstellers hat die nach dem Arbeitsort oder dem Wohnort örtlich zuständige Lehrlingsstelle ausnahmsweise einen Prüfungswerber auch ohne Nachweis der Voraussetzungen gemäß Abs. 1 und Abs. 3 lit. a und b zur Lehrabschlussprüfung zuzulassen,
 
-- wenn dieser das 18. Lebensjahr vollendet hat und glaubhaft macht, dass er auf eine andere Weise die im betreffenden Lehrberuf erforderlichen Fertigkeiten und Kenntnisse, beispielsweise durch eine entsprechend lange und einschlägige Anlerntätigkeit oder sonstige praktische Tätigkeit oder durch den Besuch entsprechender Kursveranstaltungen erworben hat; oder
+a) wenn dieser das 18. Lebensjahr vollendet hat und glaubhaft macht, dass er auf eine andere Weise die im betreffenden Lehrberuf erforderlichen Fertigkeiten und Kenntnisse, beispielsweise durch eine entsprechend lange und einschlägige Anlerntätigkeit oder sonstige praktische Tätigkeit oder durch den Besuch entsprechender Kursveranstaltungen erworben hat; oder
 
-- wenn  dieser  die  Zurücklegung  von  mindestens  der  Hälfte  der  für  den  Lehrberuf  festgesetzten Lehrzeit,  allenfalls  unter  Berücksichtigung  eines  Lehrzeitersatzes,  nachweist  und  für  ihn  keine Möglichkeit  besteht,  einen  Lehrvertrag  für  die  auf  die  im  Lehrberuf  festgesetzte  Dauer  der Lehrzeit fehlende Zeit abzuschließen.
+b) wenn dieser die Zurücklegung von mindestens der Hälfte der für den Lehrberuf festgesetzten Lehrzeit, allenfalls unter Berücksichtigung eines Lehrzeitersatzes, nachweist und für ihn keine Möglichkeit besteht, einen Lehrvertrag für die auf die im Lehrberuf festgesetzte Dauer der Lehrzeit fehlende Zeit abzuschließen.
 
-Der von der Lehrlingsstelle festzusetzende Prüfungstermin darf nicht vor dem Zeitpunkt liegen, zu dem der Prüfungswerber unter der Annahme eines mit 1. Juli des Jahres, in dem er die Schulpflicht beendet hat, begonnenen Lehrverhältnisses frühestens die Prüfung hätte ablegen dürfen. Sofern die Lehrlingsstelle eine dem Antrag des Prüfungswerbers nicht stattgebende Entscheidung beabsichtigt, ist die Kammer für Arbeiter und Angestellte anzuhören. Der Kammer für Arbeiter und Angestellte ist eine Ausfertigung des Bescheides zu übermitteln. Gegen diesen Bescheid steht ihr das Recht der Beschwerde gemäß Art. 130 BVG  und  gegen  das  Erkenntnis  des  Verwaltungsgerichtes  die  Revision  gemäß  Art. 133  B-VG  wegen Rechtswidrigkeit zu.
+Der von der Lehrlingsstelle festzusetzende Prüfungstermin darf nicht vor dem Zeitpunkt liegen, zu dem der Prüfungswerber unter der Annahme eines mit 1. Juli des Jahres, in dem er die Schulpflicht beendet hat, begonnenen Lehrverhältnisses frühestens die Prüfung hätte ablegen dürfen. Sofern die Lehrlingsstelle eine dem Antrag des Prüfungswerbers nicht stattgebende Entscheidung beabsichtigt, ist die Kammer für Arbeiter und Angestellte anzuhören. Der Kammer für Arbeiter und Angestellte ist eine Ausfertigung des Bescheides zu übermitteln. Gegen diesen Bescheid steht ihr das Recht der Beschwerde gemäß Art. 130 B-VG und gegen das Erkenntnis des Verwaltungsgerichtes die Revision gemäß Art. 133 B-VG wegen Rechtswidrigkeit zu.
 
 (6)  Personen,  die  die  im  betreffenden  Lehrberuf  erforderlichen  Fertigkeiten  und  Kenntnisse  oder einen Teil davon im Wege von Maßnahmen zu ihrer Rehabilitation erworben haben, sind ohne Rücksicht auf das im Abs. 5 lit. a verlangte Mindestalter bei Vorliegen der in dieser Bestimmung sonst geforderten Voraussetzung zur Lehrabschlußprüfung zuzulassen.
 
@@ -1270,7 +1283,7 @@ Bundesrecht konsolidiert
 
 (10)  Hinsichtlich  Prüfungswerbern  gemäß  Abs. 5  und  6  kann  die  Lehrlingsstelle  auf  Antrag festlegen, dass bei der Lehrabschlussprüfung die theoretische Prüfung teilweise oder zur Gänze entfällt, wenn dies aufgrund des vom Prüfungswerber glaubhaft gemachten Qualifikationserwerbs - allenfalls auch im Zusammenhang mit der erfolgreichen Absolvierung eines Vorbereitungskurses gemäß § 23 Abs. 7 und im Hinblick auf den im § 21 Abs. 1 festgelegten Zweck der Lehrabschlussprüfung sachlich vertretbar ist.
 
-(11) Bei Absolvierung von Bildungsmaßnamen im Rahmen von Projekten zur Höherqualifizierung, die vom Landes-Berufsausbildungsbeirat hinsichtlich ihrer Eignung zur Heranführung der Teilnehmerinnen  und  Teilnehmer  an  die  Lehrabschlussprüfung  positiv  beschlossen  wurden,  kann  die Lehrlingsstelle  festlegen,  dass  die  praktische  Prüfung  der  Lehrabschlussprüfung  gemäß  Abs. 5  lit. a  in zwei  Teilen  abgelegt  werden  kann.  In  diesem  Fall  besteht  der  erste  Teil  aus  einer  Feststellung  der erworbenen  Qualifikationen  durch  die  Lehrlingsstelle  unter  Beiziehung  eines  gemäß  § 22  nominierten Kommissionsmitglieds. Im zweiten Teil hat der Prüfungskandidat vor der Prüfungskommission die noch fehlenden Qualifikationen nachzuweisen. Insgesamt sind alle Teile der praktischen Prüfung abzudecken. Für  den  Antritt  zur  praktischen  Prüfung  in  dieser  Form  ist  die  Vollendung  des  22.  Lebensjahres  des Prüfungskandidaten Voraussetzung.
+(11) Bei Absolvierung von Bildungsmaßnahmen im Rahmen von Projekten zur Höherqualifizierung, die vom Landes-Berufsausbildungsbeirat hinsichtlich ihrer Eignung zur Heranführung der Teilnehmerinnen und Teilnehmer an die Lehrabschlussprüfung positiv beschlossen wurden, kann die Lehrlingsstelle festlegen, dass die praktische Prüfung der Lehrabschlussprüfung gemäß Abs. 5 lit. a in zwei Teilen abgelegt werden kann. In diesem Fall besteht der erste Teil aus einer Feststellung der erworbenen Qualifikationen durch die Lehrlingsstelle unter Beiziehung eines gemäß § 22 nominierten Kommissionsmitglieds. Im zweiten Teil hat der Prüfungskandidat vor der Prüfungskommission die noch fehlenden Qualifikationen nachzuweisen. Insgesamt sind alle Teile der praktischen Prüfung abzudecken. Für den Antritt zur praktischen Prüfung in dieser Form ist die Vollendung des 22. Lebensjahres des Prüfungskandidaten Voraussetzung.
 
 ### Prüfungsordnungen
 
@@ -1306,29 +1319,29 @@ Bundesrecht konsolidiert
 
 (4) Die Prüfungskommission hat die Leistungen des Prüflings in den einzelnen Prüfungsgegenständen mit folgenden Noten zu bewerten:
 
-'sehr gut' (1), wenn die Leistungen erheblich über dem Durchschnitt liegen und alle gestellten Aufgaben einwandfrei gelöst wurden;
+a) “sehr gut” (1), wenn die Leistungen erheblich über dem Durchschnitt liegen und alle gestellten Aufgaben einwandfrei gelöst wurden;
 
-'gut' (2), wenn die Leistungen über dem Durchschnitt liegen und die gestellten Aufgaben in den wichtigeren Punkten gelöst wurden;
+b) “gut” (2), wenn die Leistungen über dem Durchschnitt liegen und die gestellten Aufgaben in den wichtigeren Punkten gelöst wurden;
 
-'befriedigend'  (3),  wenn  die  Leistungen  dem  Durchschnitt  entsprechen  und  die  gestellten Aufgaben im wesentlichen gelöst wurden;
+c) “befriedigend” (3), wenn die Leistungen dem Durchschnitt entsprechen und die gestellten Aufgaben im wesentlichen gelöst wurden;
 
-'genügend'  (4),  wenn  die  Leistungen  unter  dem  Durchschnitt  liegen,  die  gestellten  Aufgaben aber  wenigstens  teilweise  gelöst  wurden  und  erwartet  werden  kann,  daß  der  Prüfling  trotz  der aufgetretenen Mängel den im erlernten Beruf gestellten Anforderungen entsprechen wird;
+d) “genügend” (4), wenn die Leistungen unter dem Durchschnitt liegen, die gestellten Aufgaben aber wenigstens teilweise gelöst wurden und erwartet werden kann, daß der Prüfling trotz der aufgetretenen Mängel den im erlernten Beruf gestellten Anforderungen entsprechen wird;
 
-'nichtgenügend'  (5),  wenn  die  gestellten  Aufgaben  nicht  gelöst  wurden  und  nicht  erwartet werden  kann,  daß  der  Prüfling  den  im  erlernten  Beruf  gestellten  Anforderungen  entsprechen wird.
+e) “nichtgenügend” (5), wenn die gestellten Aufgaben nicht gelöst wurden und nicht erwartet werden kann, daß der Prüfling den im erlernten Beruf gestellten Anforderungen entsprechen wird.
 
 Wenn in einem Prüfungsgegenstand die Prüfung aus einem schriftlichen und einem mündlichen Teil besteht, so hat die Prüfungskommission die Leistungen in beiden Teilen mit einer gemeinsamen Note zu bewerten.
 
-(5) Auf Grund der gemäß Abs. 4 ermittelten Noten hat die Prüfungskommission festzustellen, ob die Lehrabschlussprüfung  mit  Auszeichnung  bestanden,  mit  gutem  Erfolg  bestanden,  bestanden  oder  nicht bestanden wurde. Die Lehrabschlußprüfung ist
+(5) Auf Grund der gemäß Abs. 4 ermittelten Noten hat die Prüfungskommission festzustellen, ob die Lehrabschlussprüfung mit Auszeichnung bestanden, mit gutem Erfolg bestanden, bestanden oder nicht bestanden wurde. Die Lehrabschlußprüfung ist
 
-- mit  Auszeichnung  bestanden,  wenn  wenigstens  die  Hälfte  der  Prüfungsgegenstände,  worunter auch die der praktischen Prüfung zu  fallen haben,  mit  'sehr  gut'  bewertet  wurden  und  in  den übrigen Prüfungsgegenständen keine schlechtere Bewertung als 'gut' erfolgte;
+a) mit Auszeichnung bestanden, wenn wenigstens die Hälfte der Prüfungsgegenstände, worunter auch die der praktischen Prüfung zu fallen haben, mit “sehr gut” bewertet wurden und in den übrigen Prüfungsgegenständen keine schlechtere Bewertung als “gut” erfolgte;
 
-- mit  gutem  Erfolg  bestanden,  wenn  wenigstens  die  Hälfte  der  Prüfungsgegenstände,  worunter auch die Gegenstände der praktischen Prüfung zu fallen haben, mit gut oder sehr gut bewertet wurden und in den übrigen Prüfungsgegenständen keine schlechtere Bewertung als befriedigend erfolgte;
+b) mit gutem Erfolg bestanden, wenn wenigstens die Hälfte der Prüfungsgegenstände, worunter auch die Gegenstände der praktischen Prüfung zu fallen haben, mit gut oder sehr gut bewertet wurden und in den übrigen Prüfungsgegenständen keine schlechtere Bewertung als befriedigend erfolgte;
 
-- bestanden, wenn kein Prüfungsgegenstand mit 'nichtgenügend' bewertet wurde;
+c) bestanden, wenn kein Prüfungsgegenstand mit “nichtgenügend” bewertet wurde;
 
-- nicht  bestanden,  wenn  ein  oder  mehrere  Prüfungsgegenstände  mit  'nichtgenügend'  bewertet wurden.
+d) nicht bestanden, wenn ein oder mehrere Prüfungsgegenstände mit “nichtgenügend” bewertet wurden.
 
-- Die Lehrabschlussprüfung kann wiederholt werden.
+(6) Die Lehrabschlussprüfung kann wiederholt werden.
 
 (7) Für die  Beschlüsse der Prüfungskommission  ist Stimmenmehrheit  erforderlich. Bei der Abstimmung hat der Vorsitzende sein Stimmrecht zuletzt auszuüben. Der Beschluß der Prüfungskommission gemäß Abs. 5 und 6 ist dem Prüfling vom Vorsitzenden nach Abschluß der Prüfung mündlich zu verkünden.
 
@@ -1340,7 +1353,7 @@ Wenn in einem Prüfungsgegenstand die Prüfung aus einem schriftlichen und einem
 
 (2) Das Prüfungszeugnis ist zumindest vom Vorsitzenden der Prüfungskommission zu unterzeichnen und mit dem Siegel der Lehrlingsstelle zu versehen.
 
-(3) Im Falle des § 8 Abs. 16 hat die Lehrlingsstelle dem Prüfling, der ihr nach Zurücklegung der für den Lehrberuf festgesetzten Lehrzeit die Zeugnisse über die erfolgreiche Ablegung der für den Lehrberuf festgelegten  Teilprüfungen  und  über  den  erfolgreichen  Besuch  der  Berufsschule  vorgelegt  hat,  ein Zeugnis  auszustellen,  das  die  Feststellung  über  den  Ersatz  der  Lehrabschlußprüfung  im  Sinne  des  § 8 Abs. 16 enthält. Dieses Zeugnis gilt als Prüfungszeugnis über die Lehrabschlußprüfung.
+(3) Im Falle des § 8 Abs. 16 hat die Lehrlingsstelle dem Prüfling, der ihr nach Zurücklegung der für den Lehrberuf festgesetzten Lehrzeit die Zeugnisse über die erfolgreiche Ablegung der für den Lehrberuf festgelegten Teilprüfungen und über den erfolgreichen Besuch der Berufsschule vorgelegt hat, ein
 
 www.ris.bka.gv.at
 
@@ -1352,13 +1365,15 @@ Seite 31 von 53
 
 Bundesrecht konsolidiert
 
+Zeugnis auszustellen, das die Feststellung über den Ersatz der Lehrabschlußprüfung im Sinne des § 8 Abs. 16 enthält. Dieses Zeugnis gilt als Prüfungszeugnis über die Lehrabschlußprüfung.
+
 (4)  Das Prüfungszeugnis und das Zeugnis gemäß Abs. 3 unterliegen nicht der Gebührenpflicht im Sinne des Gebührengesetzes 1957, BGBl. Nr. 267.
 
 (5)  Auf  Antrag  des  Prüflings  hat  die  Lehrlingsstelle  einen  Lehrbrief  in  Form  einer  entsprechend gestalteten Urkunde auszustellen. Darin sind die Beendigung des Lehrverhältnisses und die erfolgreiche Ablegung der Lehrabschlussprüfung in dem betreffenden Lehrberuf, im Falle der Bewertung der Prüfung mit Auszeichnung oder mit gutem Erfolg, auch dies zu beurkunden.
 
 ### Zusatzprüfung
 
-§ 27. (1)  Personen,  die  eine  Lehrabschlussprüfung  in  einem  diesem  Bundesgesetz  unterliegenden Lehrberuf, eine Facharbeiterprüfung in einem landund forstwirtschaftlichen Lehrberuf, eine Reifeprüfung an einer allgemein bildenden höheren Schule mit einschlägigen berufsbildenden Inhalten, eine Reife- und Diplomprüfung an einer berufsbildenden höheren Schule einschließlich der höheren landund  forstwirtschaftlichen  Lehranstalten  gemäß  dem  land-  und  forstwirtschaftlichen  Bundesschulgesetz oder  deren  Sonderformen  erfolgreich  abgelegt  haben  oder  eine  mindestens  zweijährige  berufsbildende mittlere Schule einschließlich einer land- und forstwirtschaftlichen Fachschule oder deren Sonderformen erfolgreich abgeschlossen haben, können eine Zusatzprüfung in Lehrberufen aus dem Berufsbereich ihrer Ausbildung oder  aus  einem  ihrer  Ausbildung  fachlich  nahe  stehenden  Berufsbereich  -  insbesondere  in verwandten  Lehrberufen  -  ablegen.  Bei  modularen  Lehrberufen  bezieht  sich  die  Möglichkeit  zur Ablegung  einer  Zusatzprüfung  auf  die  jeweiligen  Hauptmodule  bzw.  Spezialmodule.  Der  von  der Lehrlingsstelle für die Zusatzprüfung festzusetzende Prüfungstermin darf nicht vor dem Zeitpunkt liegen, zu  dem  der  Prüfungswerber  unter  der  Annahme  eines  mit  1. Juli  des  Jahres  der  Beendigung  seiner Schulpflicht in dem betreffenden Lehrberuf begonnenen Lehrverhältnisses frühestens die Lehrabschlussprüfung  hätte  ablegen  dürfen.  Die  Zusatzprüfung  erstreckt  sich  auf  die  Gegenstände  der praktischen Prüfung.
+§ 27. (1) Personen, die eine Lehrabschlussprüfung in einem diesem Bundesgesetz unterliegenden Lehrberuf, eine Facharbeiterprüfung in einem land- und forstwirtschaftlichen Lehrberuf, eine Reifeprüfung an einer allgemein bildenden höheren Schule mit einschlägigen berufsbildenden Inhalten, eine Reife- und Diplomprüfung an einer berufsbildenden höheren Schule einschließlich der höheren land- und forstwirtschaftlichen Lehranstalten gemäß dem land- und forstwirtschaftlichen Bundesschulgesetz oder deren Sonderformen erfolgreich abgelegt haben oder eine mindestens zweijährige berufsbildende mittlere Schule einschließlich einer land- und forstwirtschaftlichen Fachschule oder deren Sonderformen erfolgreich abgeschlossen haben, können eine Zusatzprüfung in Lehrberufen aus dem Berufsbereich ihrer Ausbildung oder aus einem ihrer Ausbildung fachlich nahe stehenden Berufsbereich - insbesondere in verwandten Lehrberufen - ablegen. Bei modularen Lehrberufen bezieht sich die Möglichkeit zur Ablegung einer Zusatzprüfung auf die jeweiligen Hauptmodule bzw. Spezialmodule. Der von der Lehrlingsstelle für die Zusatzprüfung festzusetzende Prüfungstermin darf nicht vor dem Zeitpunkt liegen, zu dem der Prüfungswerber unter der Annahme eines mit 1. Juli des Jahres der Beendigung seiner Schulpflicht in dem betreffenden Lehrberuf begonnenen Lehrverhältnisses frühestens die Lehrabschlussprüfung hätte ablegen dürfen. Die Zusatzprüfung erstreckt sich auf die Gegenstände der praktischen Prüfung.
 
 (2) Für Personen, die eine diesem Bundesgesetz unterliegende Lehrabschlussprüfung im Sinne des Abs. 1  erfolgreich  abgelegt  haben,  kann  der  Bundesminister  für  Wirtschaft,  Familie  und  Jugend  in  der Prüfungsordnung  des  betreffenden  Lehrberufes  festlegen,  dass  Teile  der  praktischen  Prüfung  nicht  zu prüfen sind, wenn dies auf Grund der fachlich nahe stehenden Ausbildungsinhalte im Hinblick auf den im § 21 Abs. 1 festgelegten Zweck sachlich vertretbar ist.
 
@@ -1372,7 +1387,7 @@ Bundesrecht konsolidiert
 
 § 27a. (1) Ausländische Prüfungszeugnisse sind den entsprechenden österreichischen Prüfungszeugnissen, die von diesem Bundesgesetz erfaßt sind, gleichgehalten, wenn dies in Staatsverträgen oder durch Verordnung des Bundesministers für Wirtschaft, Familie und Jugend, mit der die  Gleichwertigkeit  im  Sinne  des  Abs. 2  festgestellt  wurde,  festgelegt  worden  ist.  Hierüber  ist  über Antrag eine Bestätigung durch die Lehrlingsstelle auszustellen.
 
-(2) Eine im Ausland erfolgreich abgelegte Prüfung, die durch Abs. 1 nicht erfasst ist, ist auf Antrag desjenigen, der diese Prüfung abgelegt hat, vom Bundesminister für Wirtschaft, Familie und Jugend der entsprechenden  Prüfung,  die  von  diesem  Bundesgesetz  erfasst  ist,  gleichzuhalten,  wenn  nachgewiesen wird, dass die Berufsausbildung und die in der Prüfung nachgewiesenen Fertigkeiten und Kenntnisse in Zusammenhalt  mit  allenfalls  bereits  zurückgelegten  facheinschlägigen  Tätigkeiten  in  der  Hinsicht gleichwertig sind, dass der Antragsteller in der Lage ist, die dem entsprechenden Lehrberuf eigentümlichen Tätigkeiten selbst fachgerecht auszuführen (Gleichwertigkeit).
+(2) Eine im Ausland erfolgreich abgelegte Prüfung, die durch Abs. 1 nicht erfasst ist, ist auf Antrag desjenigen, der diese Prüfung abgelegt hat, vom Bundesminister für Wirtschaft, Familie und Jugend der entsprechenden Prüfung, die von diesem Bundesgesetz erfasst ist, gleichzuhalten, wenn nachgewiesen wird, dass die Berufsausbildung und die in der Prüfung nachgewiesenen Fertigkeiten und Kenntnisse in Zusammenhalt mit allenfalls bereits zurückgelegten facheinschlägigen Tätigkeiten in der Hinsicht
 
 www.ris.bka.gv.at
 
@@ -1383,6 +1398,8 @@ Seite 32 von 53
 [[START OF PAGE 33]]
 
 Bundesrecht konsolidiert
+
+gleichwertig sind, dass der Antragsteller in der Lage ist, die dem entsprechenden Lehrberuf eigentümlichen Tätigkeiten selbst fachgerecht auszuführen (Gleichwertigkeit).
 
 (3)  Wenn  die  Gleichwertigkeit  nicht  nachgewiesen  werden  kann,  jedoch  glaubhaft  gemacht  wird, daß  die  im  Ausland  zurückgelegte  Berufsausbildung  in  weiten  Bereichen  einer  Ausbildung  in  einem Lehrverhältnis  und  die  bei  der  Prüfung  im  Ausland  nachgewiesenen  Fertigkeiten  und  Kenntnisse  in weiten Bereichen dem im § 21 Abs. 1 festgelegten Zweck einer Lehrabschlußprüfung nahekommen, ist vom  Bundesminister  für  Wirtschaft,  Familie  und  Jugend  statt  der  Gleichhaltung  die  Zulassung  zur Lehrabschlußprüfung  auszusprechen  und  unter  Bedachtnahme  auf  die  berufspraktischen  Erfordernisse gleichzeitig festzulegen, welche Gegenstände des praktischen Teils der Lehrabschlußprüfung abzulegen sind.
 
@@ -1400,7 +1417,7 @@ Bundesrecht konsolidiert
 
 (3) Der Lehrberechtigte hat der Lehrlingsstelle ohne unnötigen Aufschub, spätestens jedoch binnen vier Wochen nach dem Abschluss die Teilnahme an einem internationalen Ausbildungsprogramm gemäß Abs. 1 oder 2 anzuzeigen.
 
-- Teilnehmer  an  internationalen  Ausbildungsprogrammen  gemäß  Abs. 1  oder  2  gelten  als Lehrlinge im Sinne des Allgemeinen Sozialversicherungsgesetzes, im Sinne des Familienlastenausgleichsgesetzes, BGBl. Nr. 376/1967, im Sinne des Arbeitslosenversicherungsgesetzes 1977, im Sinne des Insolvenz-Entgeltsicherungsgesetzes (IESG), BGBl. Nr. 324/1977 und im Sinne des Einkommensteuergesetzes.
+(4) Teilnehmer an internationalen Ausbildungsprogrammen gemäß Abs. 1 oder 2 gelten als Lehrlinge im Sinne des Allgemeinen Sozialversicherungsgesetzes, im Sinne des Familienlastenausgleichsgesetzes, BGBl. Nr. 376/1967, im Sinne des Arbeitslosenversicherungsgesetzes 1977, im Sinne des Insolvenz-Entgeltsicherungsgesetzes (IESG), BGBl. Nr. 324/1977 und im Sinne des Einkommensteuergesetzes.
 
 ### Ersatz von Lehrzeiten auf Grund schulmäßiger Berufsausbildung
 
@@ -1420,13 +1437,13 @@ Bundesrecht konsolidiert
 
 Lehrplanänderungen, die zu einer Veränderung der schwerpunktmäßigen berufsbildenden Ausbildung der Schultype führen, sind bei der Regelung des Lehrzeitersatzes zu berücksichtigen. Lehrzeitersätze dürfen nur für Klassen festgelegt werden, die mindestens der zehnten Schulstufe entsprechen. Bei der Festlegung von Lehrzeitersätzen haben jene Gegenstände, deren Kenntnis für die Ausübung des Lehrberufes nicht erforderlich ist, außer Betracht zu bleiben.
 
-- Einer Person, die das 16. Lebensjahr vollendet hat und
+(3) Einer Person, die das 16. Lebensjahr vollendet hat und
 
-- die  eine  von  einer  Verordnung  gemäß  Abs. 2  nicht  oder  hinsichtlich  des  Lehrberufes  nicht erfaßte Schule besucht hat oder
+a) die eine von einer Verordnung gemäß Abs. 2 nicht oder hinsichtlich des Lehrberufes nicht erfaßte Schule besucht hat oder
 
-- auf die wegen des Schulerfolges die Bestimmungen einer solchen Verordnung nicht Anwendung finden,
+b) auf die wegen des Schulerfolges die Bestimmungen einer solchen Verordnung nicht Anwendung finden,
 
-ist  auf  Antrag,  der  in  Verbindung  mit  der  Anmeldung  des  Lehrvertrages  oder  einer  Abänderung desselben  zu  stellen  ist,  die  schulmäßige  berufsorientierte  Ausbildung  auf  die  festgesetzte  Lehrzeit anzurechnen.  Im  Falle  der  lit. a  ist  die  Schulzeit  auf  die  festgesetzte  Lehrzeit  eines  facheinschlägigen Lehrberufes mit bis zu drei Jahren Lehrzeit im Ausmaß bis zu eineinhalb Jahren, mit über drei Jahren Lehrzeit im Ausmaß bis zu zwei Jahren von der Lehrlingsstelle anzurechnen, wenn das Erlernte für die Anrechnung dieser Zeit ausreicht. Bei der Festlegung des Ausmaßes der Anrechnung ist das Berufsbild des Lehrberufes und die Verwertbarkeit des Erlernten für die weitere Ausbildung zu berücksichtigen und auf eine zweckentsprechende Eingliederung zum Berufsschulbesuch Bedacht zu nehmen. Es darf gemäß lit. b  keine  Anrechnung  vorgenommen  werden,  die  über  die  in  einer  Verordnung  gemäß  Abs. 2 festgelegte Anrechnung hinausgeht. Es darf auch keine Anrechnung für Klassen vorgenommen werden, die nicht mindestens der zehnten Schulstufe entsprechen. Weiters hat die Lehrlingsstelle vor Eintragung des Lehrvertrages eine binnen vier Wochen abzugebende Stellungnahme des LandesBerufsausbildungsbeirates zur sachlichen Rechtfertigung und zum Ausmaß der Anrechnung einzuholen und zu berücksichtigen.
+ist auf Antrag, der in Verbindung mit der Anmeldung des Lehrvertrages oder einer Abänderung desselben zu stellen ist, die schulmäßige berufsorientierte Ausbildung auf die festgesetzte Lehrzeit anzurechnen. Im Falle der lit. a ist die Schulzeit auf die festgesetzte Lehrzeit eines facheinschlägigen Lehrberufes mit bis zu drei Jahren Lehrzeit im Ausmaß bis zu eineinhalb Jahren, mit über drei Jahren Lehrzeit im Ausmaß bis zu zwei Jahren von der Lehrlingsstelle anzurechnen, wenn das Erlernte für die Anrechnung dieser Zeit ausreicht. Bei der Festlegung des Ausmaßes der Anrechnung ist das Berufsbild des Lehrberufes und die Verwertbarkeit des Erlernten für die weitere Ausbildung zu berücksichtigen und auf eine zweckentsprechende Eingliederung zum Berufsschulbesuch Bedacht zu nehmen. Es darf gemäß lit. b keine Anrechnung vorgenommen werden, die über die in einer Verordnung gemäß Abs. 2 festgelegte Anrechnung hinausgeht. Es darf auch keine Anrechnung für Klassen vorgenommen werden, die nicht mindestens der zehnten Schulstufe entsprechen. Weiters hat die Lehrlingsstelle vor Eintragung des Lehrvertrages eine binnen vier Wochen abzugebende Stellungnahme des Landes-Berufsausbildungsbeirates zur sachlichen Rechtfertigung und zum Ausmaß der Anrechnung einzuholen und zu berücksichtigen.
 
 ### Dauer der Lehrzeit im Falle der Ausbildung oder Beschäftigung in Anstalten für Erziehungsbedürftige, in Justizanstalten, in denen der Strafvollzug nach den Bestimmungen des IX. Hauptstückes des Jugendgerichtsgesetzes 1961 erfolgt, oder in Anstalten für Körperbehinderte
 
@@ -1456,15 +1473,15 @@ Bundesrecht konsolidiert
 
 (2) Die Ausbilderprüfung ist mündlich anhand von Beispielen aus der Ausbildungspraxis nach einer dem Prüfling eingeräumten angemessenen Vorbereitungszeit durchzuführen, wobei sämtliche nachstehend angeführten Aufgabenbereiche zu berücksichtigen sind:
 
-- Festlegen von Ausbildungszielen auf Grund des Berufsbildes,
+a) Festlegen von Ausbildungszielen auf Grund des Berufsbildes,
 
-- Ausbildungsplanung im Betrieb,
+b) Ausbildungsplanung im Betrieb,
 
-- Vorbereitung, Durchführung und Kontrolle der Ausbildung,
+c) Vorbereitung, Durchführung und Kontrolle der Ausbildung,
 
-- Verhaltensweisen des Ausbilders gegenüber dem Lehrling,
+d) Verhaltensweisen des Ausbilders gegenüber dem Lehrling,
 
-- Fragen  betreffend  das  Berufsausbildungsgesetz,  das  Kinder-  und  Jugendbeschäftigungsgesetz, BGBl.  Nr. 146/1948, den Arbeitnehmerschutz sowie betreffend die Stellung des dualen Berufsausbildungssystems im österreichischen Bildungssystem.
+e) Fragen betreffend das Berufsausbildungsgesetz, das Kinder- und Jugendbeschäftigungsgesetz, BGBl. Nr. 146/1948, den Arbeitnehmerschutz sowie betreffend die Stellung des dualen Berufsausbildungssystems im österreichischen Bildungssystem.
 
 (3)  Die  Meisterprüfungsstelle  hat  in  jedem  Jahr  mindestens  einen  Termin  für  die  Abhaltung  der Ausbilderprüfung  festzulegen  und  zu  veranlassen,  dass  diese  Termine  rechtzeitig  vor  Beginn  der Ausbilderprüfung in geeigneter Weise verlautbart werden. Gleichzeitig hat die Meisterprüfungsstelle die Lehrlingsstelle und die Kammer für Arbeiter und Angestellte von diesen Terminen in Kenntnis zu setzen.
 
@@ -1478,13 +1495,13 @@ Bundesrecht konsolidiert
 
 (2) Die Mitglieder der Prüfungskommission müssen die für die Lehrlingsausbildung erforderlichen Kenntnisse sowie entweder
 
-- eine mindestens dreijährige Ausbildungspraxis besitzen und die Lehrabschlußprüfung erfolgreich abgelegt haben bzw. eine diese Prüfung gemäß § 8 Abs. 7 oder § 28 ersetzende Ausbildung oder
+a) eine mindestens dreijährige Ausbildungspraxis besitzen und die Lehrabschlußprüfung erfolgreich abgelegt haben bzw. eine diese Prüfung gemäß § 8 Abs. 7 oder § 28 ersetzende Ausbildung oder
 
 b) eine mindestens sechsjährige Ausbildungspraxis
 
 aufweisen.
 
-(3)  Die  Vorsitzenden  der  Prüfungskommissionen  sind  vom  Leiter  der  Meisterprüfungsstelle  auf Grund  eines  beim  Landes-Berufsausbildungsbeirat  einzuholenden  Vorschlages  auf  die  Dauer  von  fünf Jahren zu bestellen. Der Leiter der Meisterprüfungsstelle ist an den Vorschlag des LandesBerufsausbildungsbeirates gebunden. Wird ein solcher Vorschlag nicht  fristgerecht erstattet,  so  hat  der Leiter  der  Meisterprüfungsstelle  die  Bestellung  der  Vorsitzenden  nach  Anhörung  der  Kammer  für Arbeiter  und  Angestellte  und  der  Landeskammer  der  gewerblichen  Wirtschaft  vorzunehmen.  Die Beisitzer sind vom Leiter der Meisterprüfungsstelle für jeden Prüfungstermin gesondert auf Grund von Listen  zu  bestimmen,  die  hinsichtlich  des  einen  Beisitzers  von  der  Landeskammer  der  gewerblichen Wirtschaft und hinsichtlich des anderen Beisitzers von der Kammer für Arbeiter und Angestellte auf die Dauer von  fünf  Jahren  aufzustellen  sind.  Bei  der  Zusammensetzung  der  Prüfungskommission  ist  nach Möglichkeit auf das berufliche Herkommen des Prüfungswerbers Bedacht zu nehmen.
+(3) Die Vorsitzenden der Prüfungskommissionen sind vom Leiter der Meisterprüfungsstelle auf Grund eines beim Landes-Berufsausbildungsbeirat einzuholenden Vorschlages auf die Dauer von fünf Jahren zu bestellen. Der Leiter der Meisterprüfungsstelle ist an den Vorschlag des Landes-Berufsausbildungsbeirates gebunden. Wird ein solcher Vorschlag nicht fristgerecht erstattet, so hat der Leiter der Meisterprüfungsstelle die Bestellung der Vorsitzenden nach Anhörung der Kammer für Arbeiter und Angestellte und der Landeskammer der gewerblichen Wirtschaft vorzunehmen. Die Beisitzer sind vom Leiter der Meisterprüfungsstelle für jeden Prüfungstermin gesondert auf Grund von Listen zu bestimmen, die hinsichtlich des einen Beisitzers von der Landeskammer der gewerblichen Wirtschaft und hinsichtlich des anderen Beisitzers von der Kammer für Arbeiter und Angestellte auf die Dauer von fünf Jahren aufzustellen sind. Bei der Zusammensetzung der Prüfungskommission ist nach Möglichkeit auf das berufliche Herkommen des Prüfungswerbers Bedacht zu nehmen.
 
 (4)  Die  Bestimmungen  des  § 22  Abs. 4,  5  dritter  bis  fünfter  Satz,  6,  7  und  9  gelten  für  die Ausbilderprüfung sinngemäß.
 
@@ -1564,27 +1581,27 @@ Bundesrecht konsolidiert
 
 (2) Die Bewilligung ist zu erteilen, wenn
 
-- die  Organisation  und  Ausstattung  der  Ausbildungseinrichtung  unter  Berücksichtigung  einer allfälligen  ergänzenden  Ausbildung  die  Vermittlung  aller  für  die  praktische  Erlernung  des betreffenden Lehrberufes nötigen Fertigkeiten und Kenntnisse ermöglicht,
+1. die Organisation und Ausstattung der Ausbildungseinrichtung unter Berücksichtigung einer allfälligen ergänzenden Ausbildung die Vermittlung aller für die praktische Erlernung des betreffenden Lehrberufes nötigen Fertigkeiten und Kenntnisse ermöglicht,
 
-- für  die  erforderliche  Anzahl  von  Personen,  die  die  persönlichen  Voraussetzungen  für  das Ausbilden von Lehrlingen besitzen, vorgesorgt ist,
+2. für die erforderliche Anzahl von Personen, die die persönlichen Voraussetzungen für das Ausbilden von Lehrlingen besitzen, vorgesorgt ist,
 
-- die  Gestaltung  der  Ausbildung  im  Wesentlichen  dem  Berufsbild  des  betreffenden  Lehrberufes und das Ausbildungsziel den in der Prüfungsordnung dieses Lehrberufes gestellten Anforderungen  entspricht  und  die  Ausbildung  mit  der  Ablegung  der  Lehrabschlussprüfung abgeschlossen wird,
+3. die Gestaltung der Ausbildung im Wesentlichen dem Berufsbild des betreffenden Lehrberufes und das Ausbildungsziel den in der Prüfungsordnung dieses Lehrberufes gestellten Anforderungen entspricht und die Ausbildung mit der Ablegung der Lehrabschlussprüfung abgeschlossen wird,
 
-- glaubhaft  gemacht  wird,  dass  die  Führung  der  Ausbildungseinrichtung  für  die  erforderliche Ausbildungsdauer mit einem hohen Grad der Wahrscheinlichkeit sichergestellt ist, und
+4. glaubhaft gemacht wird, dass die Führung der Ausbildungseinrichtung für die erforderliche Ausbildungsdauer mit einem hohen Grad der Wahrscheinlichkeit sichergestellt ist, und
 
-- für  die  Wirtschaft  oder  die  Lehrstellenbewerber  ein  Bedarf  nach  einer  Ausbildungseinrichtung besteht und die Ausbildung von Lehrstellenbewerbern im betreffenden Lehrberuf in betrieblichen Lehrverhältnissen nicht gewährleistet ist.
+5. für die Wirtschaft oder die Lehrstellenbewerber ein Bedarf nach einer Ausbildungseinrichtung besteht und die Ausbildung von Lehrstellenbewerbern im betreffenden Lehrberuf in betrieblichen Lehrverhältnissen nicht gewährleistet ist.
 
-- Die Bewilligung kann mit Auflagen erteilt werden, insbesondere über
+(3) Die Bewilligung kann mit Auflagen erteilt werden, insbesondere über
 
-- das Mindestausmaß der praktischen Ausbildung,
+1. das Mindestausmaß der praktischen Ausbildung,
 
-- das Mindest- oder Höchstausmaß ergänzender Ausbildungen,
+2. das Mindest- oder Höchstausmaß ergänzender Ausbildungen,
 
-- das Höchstausmaß betrieblicher Praktika,
+3. das Höchstausmaß betrieblicher Praktika,
 
-- die Vermittlung von Fertigkeiten und Kenntnissen zur Bewerbung und
+4. die Vermittlung von Fertigkeiten und Kenntnissen zur Bewerbung und
 
-- die  Verpflichtung  zur  Setzung  gezielter  Bemühungen  zur  Übernahme  der  auszubildenden Personen in ein betriebliches Lehrverhältnis gemäß den §§ 1 und 2.
+5. die Verpflichtung zur Setzung gezielter Bemühungen zur Übernahme der auszubildenden Personen in ein betriebliches Lehrverhältnis gemäß den §§ 1 und 2.
 
 www.ris.bka.gv.at
 
@@ -1604,11 +1621,11 @@ Bundesrecht konsolidiert
 
 (7) Auf die Inhaber einer Bewilligung gemäß Abs. 1, auf die dort in Ausbildung Stehenden und die Ausbildungsverhältnisse finden die Bestimmungen dieses Bundesgesetzes mit Ausnahme der §§ 15a, 17, 17a und 18 mit der Maßgabe sinngemäß Anwendung, dass
 
-- kein  Lehrvertrag  abzuschließen  ist  und  die  Ausbildungsverhältnisse  bei  der  Lehrlingsstelle  in Form einer Liste, die sämtliche im § 12 Abs. 3 geforderten Angaben enthalten muss, anzumelden sind und
+1. kein Lehrvertrag abzuschließen ist und die Ausbildungsverhältnisse bei der Lehrlingsstelle in Form einer Liste, die sämtliche im § 12 Abs. 3 geforderten Angaben enthalten muss, anzumelden sind und
 
-- die in einer Ausbildungseinrichtung  zurückgelegte  Zeit der Ausbildung  der  Lehrzeit  im betreffenden Lehrberuf gleichgestellt ist.
+2. die in einer Ausbildungseinrichtung zurückgelegte Zeit der Ausbildung der Lehrzeit im betreffenden Lehrberuf gleichgestellt ist.
 
-(8) Personen, die in einer Ausbildungseinrichtung gemäß Abs. 1 ausgebildet werden, sind in einem Lehrverhältnis stehenden Personen (Lehrlingen) im Sinne des § 4 Abs. 1 Z 2 des  Allgemeinen Sozialversicherungsgesetzes  sowie  hinsichtlich  der  Berufsschulpflicht  gleichgestellt.  Sie  gelten  als Lehrlinge im Sinne des Arbeitslosenversicherungsgesetzes 1977, des InsolvenzEntgeltsicherungsgesetzes  sowie  des  Familienlastenausgleichsgesetzes  und  haben  Anspruch  auf  eine Ausbildungsbeihilfe, die die Beitragsgrundlage für die Bemessung der Sozialversicherungsbeiträge bildet.
+(8) Personen, die in einer Ausbildungseinrichtung gemäß Abs. 1 ausgebildet werden, sind in einem Lehrverhältnis stehenden Personen (Lehrlingen) im Sinne des § 4 Abs. 1 Z 2 des Allgemeinen Sozialversicherungsgesetzes sowie hinsichtlich der Berufsschulpflicht gleichgestellt. Sie gelten als Lehrlinge im Sinne des Arbeitslosenversicherungsgesetzes 1977, des Insolvenz-Entgeltsicherungsgesetzes sowie des Familienlastenausgleichsgesetzes und haben Anspruch auf eine Ausbildungsbeihilfe, die die Beitragsgrundlage für die Bemessung der Sozialversicherungsbeiträge bildet.
 
 ### Auszeichnung
 
@@ -1652,7 +1669,7 @@ Bundesrecht konsolidiert
 
 ### Bundes-Berufsausbildungsbeirat
 
-§ 31. (1) Bei der Bundeskammer der gewerblichen Wirtschaft ist ein BundesBerufsausbildungsbeirat zu errichten, der aus zwölf Mitgliedern mit beschließender Stimme und aus zwei Mitgliedern mit beratender Stimme besteht. Niemand kann gleichzeitig dem BundesBerufsausbildungsbeirat  und  einem  Landes-Berufsausbildungsbeirat  als  Mitglied  oder  Ersatzmitglied angehören.
+§ 31. (1) Bei der Bundeskammer der gewerblichen Wirtschaft ist ein Bundes-Berufsausbildungsbeirat zu errichten, der aus zwölf Mitgliedern mit beschließender Stimme und aus zwei Mitgliedern mit beratender Stimme besteht. Niemand kann gleichzeitig dem Bundes-Berufsausbildungsbeirat und einem Landes-Berufsausbildungsbeirat als Mitglied oder Ersatzmitglied angehören.
 
 www.ris.bka.gv.at
 
@@ -1666,13 +1683,13 @@ Bundesrecht konsolidiert
 
 (2) Der Beirat hat folgende Aufgaben:
 
-- die Erstattung von begründeten Vorschlägen zur Erlassung oder Abänderung von Verordnungen auf Grund dieses Bundesgesetzes an den Bundesminister für Wirtschaft, Familie und Jugend,
+1. die Erstattung von begründeten Vorschlägen zur Erlassung oder Abänderung von Verordnungen auf Grund dieses Bundesgesetzes an den Bundesminister für Wirtschaft, Familie und Jugend,
 
-- die Erstattung von begründeten Vorschlägen zu Fragen der durch dieses Bundesgesetz geregelten Berufsausbildung an den Bundesminister für Wirtschaft, Familie und Jugend,
+2. die Erstattung von begründeten Vorschlägen zu Fragen der durch dieses Bundesgesetz geregelten Berufsausbildung an den Bundesminister für Wirtschaft, Familie und Jugend,
 
-- die Erstattung von Vorschlägen zu Fragen der durch dieses Bundesgesetz geregelten Berufsausbildung an die Bundesschulbehörden und
+3. die Erstattung von Vorschlägen zu Fragen der durch dieses Bundesgesetz geregelten Berufsausbildung an die Bundesschulbehörden und
 
-- die  Abgabe  von  Stellungnahmen  in  Verfahren  über  die  Gleichhaltung  von  ausländischen Prüfungszeugnissen gemäß § 27a und von in- und ausländischen Prüfungen und Ausbildungen mit  der  Ausbilderprüfung  bzw.  dem  Ausbilderkurs  gemäß  § 29h  Abs. 2  und  4  sowie  zur Erteilung und Entziehung einer Bewilligung zur Ausbildung von Personen in Ausbildungseinrichtungen gemäß § 30.
+4. die Abgabe von Stellungnahmen in Verfahren über die Gleichhaltung von ausländischen Prüfungszeugnissen gemäß § 27a und von in- und ausländischen Prüfungen und Ausbildungen mit der Ausbilderprüfung bzw. dem Ausbilderkurs gemäß § 29h Abs. 2 und 4 sowie zur Erteilung und Entziehung einer Bewilligung zur Ausbildung von Personen in Ausbildungseinrichtungen gemäß § 30.
 
 Bei  der  Erstattung  von  Vorschlägen  und  der  Abgabe  von  Stellungnahmen  hat  der  Beirat  auf  die Ergebnisse der Berufsbildungsforschung Bedacht zu nehmen.
 
@@ -1708,43 +1725,43 @@ Bundesrecht konsolidiert
 
 § 31a. (1) Bei jeder Lehrlingsstelle ist ein Landes-Berufsausbildungsbeirat zu errichten, der aus vier Mitgliedern mit beschließender Stimme besteht.
 
-- Dem Beirat obliegt
+(2) Dem Beirat obliegt
 
-- Die Erstattung von Stellungnahmen, Vorschlägen und Anregungen
+1. Die Erstattung von Stellungnahmen, Vorschlägen und Anregungen
 
-- über die Vorgangsweise  bei der Durchführung  der den Lehrlingsstellen übertragenen Aufgaben,
+a) über die Vorgangsweise bei der Durchführung der den Lehrlingsstellen übertragenen Aufgaben,
 
-- zur Durchführung der Lehrabschlußprüfungen, allfälliger Teilprüfungen und der Ausbilderprüfungen sowie Ausbilderkurse,
+b) zur Durchführung der Lehrabschlußprüfungen, allfälliger Teilprüfungen und der Ausbilderprüfungen sowie Ausbilderkurse,
 
-- im  Zusammenhang  mit  den  unterstützenden  Maßnahmen  der  Lehrlingsstelle  gemäß  § 22 Abs. 9,
+c) im Zusammenhang mit den unterstützenden Maßnahmen der Lehrlingsstelle gemäß § 22 Abs. 9,
 
-- zu Ausbildungsmaßnahmen im Rahmen eines Ausbildungsverbundes, insbesondere zu dessen Förderung auf Landesebene,
+d) zu Ausbildungsmaßnahmen im Rahmen eines Ausbildungsverbundes, insbesondere zu dessen Förderung auf Landesebene,
 
-- über finanzielle Förderungsmaßnahmen in Ausbildungsangelegenheiten,
+e) über finanzielle Förderungsmaßnahmen in Ausbildungsangelegenheiten,
 
-- über die Durchführung von Ausbildungsversuchen im Bundesland;
+f) über die Durchführung von Ausbildungsversuchen im Bundesland;
 
-- die  Übermittlung  von  Anträgen  und  die  Erstattung  von  Stellungnahmen  an  den  BundesBerufsausbildungsbeirat in Angelegenheiten, für die dieser Beirat zuständig ist, insbesondere in Verfahren gemäß § 30 und in Fragen der Durchführung eines Ausbildungsversuches;
+2. die Übermittlung von Anträgen und die Erstattung von Stellungnahmen an den Bundes-Berufsausbildungsbeirat in Angelegenheiten, für die dieser Beirat zuständig ist, insbesondere in Verfahren gemäß § 30 und in Fragen der Durchführung eines Ausbildungsversuches;
 
-- die Erstattung eines Vorschlages für die Bestellung der Vorsitzenden der Prüfungskommissionen für die Lehrabschlußprüfung und für die Ausbilderprüfung;
+3. die Erstattung eines Vorschlages für die Bestellung der Vorsitzenden der Prüfungskommissionen für die Lehrabschlußprüfung und für die Ausbilderprüfung;
 
-- die Erstattung von Vorschlägen und Anregungen an die Landesschulbehörden in Berufsausbildungsangelegenheiten;
+4. die Erstattung von Vorschlägen und Anregungen an die Landesschulbehörden in Berufsausbildungsangelegenheiten;
 
-- die  Erstattung  von  Stellungnahmen  gemäß § 8 Abs. 13 und 14, § 13 Abs. 1a, § 13 Abs. 2 lit. e und j, § 13 Abs. 5 und § 28 Abs. 3, die Einholung von Auskünften gemäß § 8a Abs. 5 sowie in begründeten  Fällen  die  Einholung  von  Auskünften  über  den  Stand  des  Eintragungsverfahrens gemäß § 20 Abs. 2 betreffend bestimmte Lehrverträge und die Erstattung von Vorschlägen zur Erledigung;
+5. die Erstattung von Stellungnahmen gemäß § 8 Abs. 13 und 14, § 13 Abs. 1a, § 13 Abs. 2 lit. e und j, § 13 Abs. 5 und § 28 Abs. 3, die Einholung von Auskünften gemäß § 8a Abs. 5 sowie in begründeten Fällen die Einholung von Auskünften über den Stand des Eintragungsverfahrens gemäß § 20 Abs. 2 betreffend bestimmte Lehrverträge und die Erstattung von Vorschlägen zur Erledigung;
 
-- die Erstattung von Stellungnahmen, Vorschlägen und Anregungen in sonstigen Berufsausbildungsangelegenheiten im Bundesland;
+6. die Erstattung von Stellungnahmen, Vorschlägen und Anregungen in sonstigen Berufsausbildungsangelegenheiten im Bundesland;
 
-- die Erstattung von Vorschlägen und Anregungen im Zusammenhang mit Beschwerden bezüglich der dem Lehrberechtigten im § 9 Abs. 8 auferlegten Pflichten;
+7. die Erstattung von Vorschlägen und Anregungen im Zusammenhang mit Beschwerden bezüglich der dem Lehrberechtigten im § 9 Abs. 8 auferlegten Pflichten;
 
-- die  Erstattung  von  Stellungnahmen  an  die  Lehrlingsstelle  über  die  Erteilung  und  Entziehung einer Berechtigung, Ausbilderkurse zu führen;
+8. die Erstattung von Stellungnahmen an die Lehrlingsstelle über die Erteilung und Entziehung einer Berechtigung, Ausbilderkurse zu führen;
 
-- Anregung und Förderung der Zusammenarbeit zwischen den kollektivvertragsfähigen Körperschaften der Arbeitgeber und der Arbeitnehmer sowie den Vertretern der Lehrbetriebe, der zuständigen Schulbehörde, des Bundeslandes, der  Lehrlingsstellen der Wirtschaftskammer und des Arbeitsmarktservice für die Förderung der betrieblichen Ausbildung und für die Einrichtung von Ausbildungsverbundmaßnahmen (§ 2a) im Sinne des § 19a;
+9. Anregung und Förderung der Zusammenarbeit zwischen den kollektivvertragsfähigen Körperschaften der Arbeitgeber und der Arbeitnehmer sowie den Vertretern der Lehrbetriebe, der zuständigen Schulbehörde, des Bundeslandes, der Lehrlingsstellen der Wirtschaftskammer und des Arbeitsmarktservice für die Förderung der betrieblichen Ausbildung und für die Einrichtung von Ausbildungsverbundmaßnahmen (§ 2a) im Sinne des § 19a;
 
-- das  Stellen  von  Anträgen,  mit  denen  die  Verleihung  einer  öffentlichen  Auszeichnung  an Ausbildungsbetriebe mit außergewöhnlichen Leistungen in der Ausbildung von Lehrlingen und im Lehrlingswesen empfohlen wird.
+10. das Stellen von Anträgen, mit denen die Verleihung einer öffentlichen Auszeichnung an Ausbildungsbetriebe mit außergewöhnlichen Leistungen in der Ausbildung von Lehrlingen und im Lehrlingswesen empfohlen wird.
 
-- Bei  Einholung  einer  Stellungnahme  oder  Vorschlages  ist  dem  Beirat,  soweit  in  diesem Bundesgesetz  nicht  anderes  bestimmt  ist,  eine  angemessene,  mindestens  zweimonatige  Frist  zu  setzen und auf fristgerecht erstattete Stellungnahmen und Vorschläge des Beirates bei der Entscheidung Bedacht zu nehmen.
+(3) Bei Einholung einer Stellungnahme oder Vorschlages ist dem Beirat, soweit in diesem Bundesgesetz nicht anderes bestimmt ist, eine angemessene, mindestens zweimonatige Frist zu setzen und auf fristgerecht erstattete Stellungnahmen und Vorschläge des Beirates bei der Entscheidung Bedacht zu nehmen.
 
-(4) Der Landeshauptmann hat die Mitglieder des Landes-Berufsausbildungsbeirates sowie für jedes Mitglied  ein  Ersatzmitglied  auf  Grund  von  Vorschlägen  zu  bestellen,  welche  die  Landeskammer  der gewerblichen  Wirtschaft  und  die  Kammer  für  Arbeiter  und  Angestellte  für  je  zwei  Mitglieder  und Ersatzmitglieder zu erstatten haben. Ferner hat der Landeshauptmann aus dem Kreis der Mitglieder auf Vorschlag der Landeskammer der gewerblichen Wirtschaft nach Anhörung der Kammer für Arbeiter und Angestellte  einen  Vorsitzenden  und  auf  Vorschlag  der  Kammer  für  Arbeiter  und  Angestellte  nach Anhörung der Landeskammer der gewerblichen Wirtschaft einen weiteren Vorsitzenden zu bestellen. Die Vorsitzenden haben einander in der Vorsitzführung zu Beginn jeder Sitzung abzuwechseln.
+(4) Der Landeshauptmann hat die Mitglieder des Landes-Berufsausbildungsbeirates sowie für jedes Mitglied ein Ersatzmitglied auf Grund von Vorschlägen zu bestellen, welche die Landeskammer der gewerblichen Wirtschaft und die Kammer für Arbeiter und Angestellte für je zwei Mitglieder und Ersatzmitglieder zu erstatten haben. Ferner hat der Landeshauptmann aus dem Kreis der Mitglieder auf Vorschlag der Landeskammer der gewerblichen Wirtschaft nach Anhörung der Kammer für Arbeiter und Angestellte einen Vorsitzenden und auf Vorschlag der Kammer für Arbeiter und Angestellte nach
 
 www.ris.bka.gv.at
 
@@ -1755,6 +1772,8 @@ Seite 41 von 53
 [[START OF PAGE 42]]
 
 Bundesrecht konsolidiert
+
+Anhörung der Landeskammer der gewerblichen Wirtschaft einen weiteren Vorsitzenden zu bestellen. Die Vorsitzenden haben einander in der Vorsitzführung zu Beginn jeder Sitzung abzuwechseln.
 
 (5)  Der  Landeshauptmann  hat  ein  Mitglied  (Ersatzmitglied)  abzuberufen,  wenn  das  Mitglied (Ersatzmitglied) selbst oder die Stelle, welche es vorgeschlagen hat, dies beantragt, wenn es zum Mitglied (Ersatzmitglied)  des  Bundes-Berufsausbildungsbeirates  bestellt  wird  oder  wenn  es  nicht  die  Gewähr bietet, daß es seine Aufgaben zu erfüllen vermag; gleichzeitig ist ein anderes Mitglied (Ersatzmitglied) zu bestellen.
 
@@ -1798,35 +1817,35 @@ Bundesrecht konsolidiert
 
 ### Richtlinien des Bundesministers für Wirtschaft, Familie und Jugend
 
-§ 31c. (1)  Der  Bundesminister  für  Wirtschaft,  Familie  und  Jugend  hat  im  Einvernehmen  mit  dem Bundesminister  für  Arbeit,  Soziales  und  Konsumentenschutz  Richtlinien  für  Beihilfen  und  ergänzende Unterstützungsstrukturen zum Zweck der Förderung von Beratungs,Betreuungsund Unterstützungsleistungen zur Erhöhung der Chancen auf eine erfolgreiche Berufsausbildung und auch zur Anhebung  der  Ausbildungsbeteiligung  insbesondere  in  Bereichen  mit  wenigen  Ausbildungsbetrieben oder Lehrlingen (§ 19c Abs. 1 Z 8) zu erlassen. Der Förderausschuss gemäß  § 31b sowie die Wirtschaftskammer Österreich und die Bundesarbeitskammer sind berechtigt, Vorschläge für entsprechende Richtlinien zu erstatten.
+§ 31c. (1) Der Bundesminister für Wirtschaft, Familie und Jugend hat im Einvernehmen mit dem Bundesminister für Arbeit, Soziales und Konsumentenschutz Richtlinien für Beihilfen und ergänzende Unterstützungsstrukturen zum Zweck der Förderung von Beratungs,- Betreuungs- und Unterstützungsleistungen zur Erhöhung der Chancen auf eine erfolgreiche Berufsausbildung und auch zur Anhebung der Ausbildungsbeteiligung insbesondere in Bereichen mit wenigen Ausbildungsbetrieben oder Lehrlingen (§ 19c Abs. 1 Z 8) zu erlassen. Der Förderausschuss gemäß § 31b sowie die Wirtschaftskammer Österreich und die Bundesarbeitskammer sind berechtigt, Vorschläge für entsprechende Richtlinien zu erstatten.
 
 (2)  Die  Richtlinien  gemäß  Abs. 1 sollen insbesondere auch die Bereitstellung  von Mitteln  für den Auf-  und  Ausbau  geeigneter  Beratungs,-  Betreuungs-  und  Unterstützungsstrukturen  vorsehen.  Die Richtlinien können auch die unmittelbare Vergabe von Aufträgen an geeignete Einrichtungen vorsehen, soweit  diese  zur  Zielerreichung  zweckmäßiger  ist.  Die  Richtlinien  haben  darauf  zu  achten,  dass  eine entsprechende  Bedeckung  aus  den  vom  Insolvenz-Entgelt-Fonds  gemäß  § 13e  IESG  zur  Verfügung gestellten Mitteln gegeben ist.
 
 ### Strafbestimmungen
 
-§ 32. (1)  Wer  zwar  befugt  ist,  einen  Lehrling  im  Sinne  dieses  Bundesgesetzes  auszubilden,  aber seiner Verpflichtung nicht nachgekommen ist,
+§ 32. (1) Wer zwar befugt ist, einen Lehrling im Sinne dieses Bundesgesetzes auszubilden, aber seiner Verpflichtung nicht nachgekommen ist,
 
-- einen Lehrvertrag rechtzeitig zur Eintragung anzumelden, oder
+a) einen Lehrvertrag rechtzeitig zur Eintragung anzumelden, oder
 
-- dem Lehrling die zum Besuch der Berufsschule erforderliche Zeit freizugeben, oder
+b) dem Lehrling die zum Besuch der Berufsschule erforderliche Zeit freizugeben, oder
 
-- den Lehrling zum regelmäßigen Schulbesuch anzuhalten, oder
+c) den Lehrling zum regelmäßigen Schulbesuch anzuhalten, oder
 
-- den Lehrling nicht zu berufsfremden Tätigkeiten zu verwenden, oder
+d) den Lehrling nicht zu berufsfremden Tätigkeiten zu verwenden, oder
 
-- bei  der  Aufnahme  von  Lehrlingen  die  auf  Grund  des  § 8  Abs. 3,  4  und  5  festgesetzte Verhältniszahl zu beachten,
+e) bei der Aufnahme von Lehrlingen die auf Grund des § 8 Abs. 3, 4 und 5 festgesetzte Verhältniszahl zu beachten,
 
-- für einen geeigneten Ausbilder mit der Ausbildung zu betrauen, oder
+f) für einen geeigneten Ausbilder mit der Ausbildung zu betrauen, oder
 
-- eine Anzeige gemäß § 9 Abs. 9 rechtzeitig zu erstatten oder
+g) eine Anzeige gemäß § 9 Abs. 9 rechtzeitig zu erstatten oder
 
-- die  in  einem  Bescheid  gemäß  § 3a  vorgeschriebenen  ergänzenden  Ausbildungsmaßnahmen  im Rahmen  eines  Ausbildungsverbundes  in  erheblichem  Ausmaß  zu  vermitteln  oder  die  zur ordnungsgemäßen  Durchführung  der  ergänzenden  Ausbildung  erforderlichen  Maßnahmen  zu treffen,
+h) die in einem Bescheid gemäß § 3a vorgeschriebenen ergänzenden Ausbildungsmaßnahmen im Rahmen eines Ausbildungsverbundes in erheblichem Ausmaß zu vermitteln oder die zur ordnungsgemäßen Durchführung der ergänzenden Ausbildung erforderlichen Maßnahmen zu treffen,
 
 begeht eine Verwaltungsübertretung und ist von der Bezirksverwaltungsbehörde mit einer Geldstrafe bis zu 1 090 €, in den Fällen der lit. b, d und f jedoch mit einer Geldstrafe von mindestens 145 €, und nach wiederholter Bestrafung mit einer Geldstrafe von mindestens 327 € bis 2 180 € zu bestrafen.
 
 (2) a) Wer unter Vortäuschung, Lehrberechtigter zu sein, eine Person in einem Lehrberuf ausbildet, sofern nicht der Tatbestand der lit. c vorliegt, oder
 
-- wer einen Lehrling im Sinne dieses Bundesgesetzes ausbildet, obwohl dies gemäß § 3a Abs. 1 unzulässig ist, im Falle der Unterlassung der Antragstellung zur Feststellung der Ausbildungseignung  in  weiteren  Lehrberufen  gemäß  § 3a  Abs. 1  jedoch  nur  dann,  wenn  der Antrag  gemäß  § 3a  trotz  Aufforderung  durch  die  Lehrlingsstelle  nicht  binnen  drei  Wochen gestellt wird oder der Lehrvertrag durch die Lehrlingsstelle nicht für aufrecht erklärt wird oder
+b) wer einen Lehrling im Sinne dieses Bundesgesetzes ausbildet, obwohl dies gemäß § 3a Abs. 1 unzulässig ist, im Falle der Unterlassung der Antragstellung zur Feststellung der Ausbildungseignung in weiteren Lehrberufen gemäß § 3a Abs. 1 jedoch nur dann, wenn der Antrag gemäß § 3a trotz Aufforderung durch die Lehrlingsstelle nicht binnen drei Wochen gestellt wird oder der Lehrvertrag durch die Lehrlingsstelle nicht für aufrecht erklärt wird oder
 
 www.ris.bka.gv.at
 
@@ -1838,27 +1857,27 @@ Seite 43 von 53
 
 Bundesrecht konsolidiert
 
-- wer einen Lehrling im Sinne dieses Bundesgesetzes ausbildet, obwohl ihm die Ausbildung von Lehrlingen gemäß § 4 verboten ist, oder
+c) wer einen Lehrling im Sinne dieses Bundesgesetzes ausbildet, obwohl ihm die Ausbildung von Lehrlingen gemäß § 4 verboten ist, oder
 
-- wer  die  Ausbildung  im  Sinne  dieses  Bundesgesetzes  fortsetzt,  obwohl  die  Eintragung  des Lehrvertrages gemäß § 20 rechtskräftig verweigert oder gelöscht wurde,
+d) wer die Ausbildung im Sinne dieses Bundesgesetzes fortsetzt, obwohl die Eintragung des Lehrvertrages gemäß § 20 rechtskräftig verweigert oder gelöscht wurde,
 
-- wer einen Ausbilderkurs führt, ohne im Besitz einer Berechtigung gemäß § 29g zu sein, oder
+e) wer einen Ausbilderkurs führt, ohne im Besitz einer Berechtigung gemäß § 29g zu sein, oder
 
-- wer  Personen  in  einem  Lehrberuf  in  einer  besonderen  selbständigen  Ausbildungseinrichtung ausbildet, ohne im Besitz einer Bewilligung gemäß § 30 Abs. 1 zu sein, oder
+f) wer Personen in einem Lehrberuf in einer besonderen selbständigen Ausbildungseinrichtung ausbildet, ohne im Besitz einer Bewilligung gemäß § 30 Abs. 1 zu sein, oder
 
-- wer als Lehrberechtigter entgegen einer Verpflichtung gemäß § 2a eine Ausbildung im Rahmen eines Ausbildungsverbundes nicht durchführt,
+g) wer als Lehrberechtigter entgegen einer Verpflichtung gemäß § 2a eine Ausbildung im Rahmen eines Ausbildungsverbundes nicht durchführt,
 
 begeht eine Verwaltungsübertretung und ist von der Bezirksverwaltungsbehörde mit einer Geldstrafe bis zu 3 270 € zu bestrafen.
 
-(3)  Eine  Verwaltungsübertretung,  die  von  der  Bezirksverwaltungsbehörde  mit  Geldstrafe  bis  zu  2 180 € zu bestrafen ist, begeht, wer die Bestimmungen des § 30a über die Führung der Auszeichnung nicht einhält.
+(3) Eine Verwaltungsübertretung, die von der Bezirksverwaltungsbehörde mit Geldstrafe bis zu 2 180 € zu bestrafen ist, begeht, wer die Bestimmungen des § 30a über die Führung der Auszeichnung nicht einhält.
 
-- Wenn
+(4) Wenn
 
-- die Bestellung eines gewerberechtlichen Geschäftsführers angezeigt oder genehmigt wurde,
+a) die Bestellung eines gewerberechtlichen Geschäftsführers angezeigt oder genehmigt wurde,
 
-- die  Übertragung  der  Ausübung  des  Gewerbes  an  einen  gewerberechtlichen  Pächter  angezeigt oder genehmigt wurde oder
+b) die Übertragung der Ausübung des Gewerbes an einen gewerberechtlichen Pächter angezeigt oder genehmigt wurde oder
 
-- die  Bestellung  eines  Filialgeschäftsführers  für  eine  bestimmt  Betriebsstätte  angezeigt  oder genehmigt wurde,
+c) die Bestellung eines Filialgeschäftsführers für eine bestimmt Betriebsstätte angezeigt oder genehmigt wurde,
 
 sind  Geld-  und  Ersatzfreiheitsstrafen  gegen  diese  Personen  zu  verhängen.  Der  Gewerbetreibende  ist neben dem gewerberechtlichen Geschäftsführer oder Filialgeschäftsführer strafbar, wenn er die Verwaltungsübertretung  wissentlich  duldet  oder  wenn  er  bei  der  Auswahl  des  gewerberechtlichen Geschäftsführers oder Filialgeschäftsführers es an der erforderlichen Sorgfalt hat fehlen lassen.
 
@@ -1868,11 +1887,11 @@ sind  Geld-  und  Ersatzfreiheitsstrafen  gegen  diese  Personen  zu  verhängen
 
 (1a)  Die  Bestimmungen  über  den  Ersatz  von  Lehrabschlußprüfungen  auf  Grund  schulmäßiger Ausbildung  bleiben  für  Schüler  aufrecht,  die  spätestens  im  Schuljahr  1992/93  mit  dem  Besuch  einer Schule begonnen haben, deren erfolgreicher Abschluß auf Grund der im Abs. 1 angeführten Verordnungen die Lehrabschlußprüfung ersetzt.
 
-- Die Bestimmungen des § 2 Abs. 3 dieses Bundesgesetzes finden keine Anwendung
+(2) Die Bestimmungen des § 2 Abs. 3 dieses Bundesgesetzes finden keine Anwendung
 
-- auf  Personen,  die  im  Zeitpunkt  des  Inkrafttretens  dieses  Bundesgesetzes  auf  Grund  ihrer Gewerbeberechtigung zur Ausbildung von Lehrlingen berechtigt waren, ohne die im § 2 Abs. 3 angeführten Voraussetzungen nachgewiesen zu haben,
+a) auf Personen, die im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes auf Grund ihrer Gewerbeberechtigung zur Ausbildung von Lehrlingen berechtigt waren, ohne die im § 2 Abs. 3 angeführten Voraussetzungen nachgewiesen zu haben,
 
-- auf  Personen,  die  auf  Grund  ihrer  Gewerbeberechtigung  zur  Ausbildung  von  Lehrlingen berechtigt  sind,  wenn  dieses  Gewerbe  später  unter  die  handwerksmäßigen  Gewerbe  eingereiht oder  bei  konzessionierten  Gewerben  die  Erbringung  eines  Befähigungsnachweises  eingeführt wird.
+b) auf Personen, die auf Grund ihrer Gewerbeberechtigung zur Ausbildung von Lehrlingen berechtigt sind, wenn dieses Gewerbe später unter die handwerksmäßigen Gewerbe eingereiht oder bei konzessionierten Gewerben die Erbringung eines Befähigungsnachweises eingeführt wird.
 
 (3)  Vor  dem  Inkrafttreten  dieses  Bundesgesetzes  erfolgreich  abgelegte  Facharbeiterprüfungen werden hinsichtlich ihrer Rechtswirkungen den vor dem Inkrafttreten dieses Bundesgesetzes erfolgreich abgelegten  Gesellenprüfungen  gleichgestellt.  Vor  dem  Inkrafttreten  dieses  Bundesgesetzes  erfolgreich abgelegte Gesellenprüfungen, Facharbeiterprüfungen, Gehilfenprüfungen, Lehrlingsprüfungen und Kaufmannsgehilfenprüfungen  gelten  als  erfolgreich  abgelegte  Lehrabschlußprüfungen  im  Sinne  dieses Bundesgesetzes.
 
@@ -1898,47 +1917,47 @@ Bundesrecht konsolidiert
 
 (3) Durch dieses Bundesgesetz bleiben insbesondere unberührt:
 
-- Das Arbeitsinspektionsgesetz, 1993, BGBl. Nr. 27/1993, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 35/2012,
+1. Das Arbeitsinspektionsgesetz, 1993, BGBl. Nr. 27/1993, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 35/2012,
 
-(Anm.: aufgehoben durch BGBl. I Nr. 35/2012)
+2. (Anm.: aufgehoben durch BGBl. I Nr. 35/2012)
 
-§§ 10,  19,  31  und  43  des  Wirtschaftskammergesetzes,  BGBl. I  Nr. 103/1998,  zuletzt  geändert durch das Bundesgesetz BGBl. I Nr. 2/2008,
+3. §§ 10, 19, 31 und 43 des Wirtschaftskammergesetzes, BGBl. I Nr. 103/1998, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 2/2008,
 
-§§ 4,  5,  9  und  93  Abs. 2  des  Arbeiterkammergesetzes 1993,  BGBl.  Nr. 626/1991,  zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 147/2009.
+4. §§ 4, 5, 9 und 93 Abs. 2 des Arbeiterkammergesetzes 1993, BGBl. Nr. 626/1991, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 147/2009.
 
 (4) Mit Inkrafttreten dieses Bundesgesetzes verlieren die Wirksamkeit:
 
-- a) § 14 vierter und fünfter Absatz der Gewerbeordnung, letzterer jedoch nur insoweit, als er sich nicht auf die Zulassung zur Meisterprüfung bezieht,
+1. a) § 14 vierter und fünfter Absatz der Gewerbeordnung, letzterer jedoch nur insoweit, als er sich nicht auf die Zulassung zur Meisterprüfung bezieht,
 
 b) § 13a Abs. 6 und 14a der Gewerbeordnung, soweit sie
 
 den Ersatz der ordnungsmäßigen Beendigung des Lehrverhältnisses durch Schulbesuch vorsehen und
 
-§ 14b Abs. 2 bis 6, Abs. 2 jedoch nur insoweit, als er
+c) § 14b Abs. 2 bis 6, Abs. 2 jedoch nur insoweit, als er
 
-sich  auf  die  Gleichhaltung  der  Verwendung  als  Lehrling  bezieht,  §§ 97  bis  105a,  § 132  lit. f, soweit er sich auf Lehrlinge bezieht, und § 133a lit. d der Gewerbeordnung;
+sich auf die Gleichhaltung der Verwendung als Lehrling bezieht, §§ 97 bis 105a, § 132 lit. f, soweit er sich auf Lehrlinge bezieht, und § 133a lit. d der Gewerbeordnung;
 
-- das  Gesetz  GBl.  f.  d.  L.  Ö.  Nr. 302/1939,  mit  dem  einige  das  Lehrlingswesen  betreffende gewerberechtliche Vorschriften abgeändert und ergänzt werden;
+2. das Gesetz GBl. f. d. L. Ö. Nr. 302/1939, mit dem einige das Lehrlingswesen betreffende gewerberechtliche Vorschriften abgeändert und ergänzt werden;
 
-- Art. XXXIII der Gewerberechtsnovelle 1952, BGBl. Nr. 179;
+3. Art. XXXIII der Gewerberechtsnovelle 1952, BGBl. Nr. 179;
 
-- die ehemals deutschen Vorschriften, soweit sie Angelegenheiten
+4. die ehemals deutschen Vorschriften, soweit sie Angelegenheiten
 
-- regeln, die Gegenstand dieses Bundesgesetzes sind, insbesondere
+regeln, die Gegenstand dieses Bundesgesetzes sind, insbesondere
 
-- der  Erlaß  des  Reichswirtschaftsministers  vom  2. Dezember  1938,  Zl.  III/SW  18585,  zum Aufbau des industriellen und kaufmännischen Ausbildungs- und Prüfungswesens;
+a) der Erlaß des Reichswirtschaftsministers vom 2. Dezember 1938, Zl. III/SW 18585, zum Aufbau des industriellen und kaufmännischen Ausbildungs- und Prüfungswesens;
 
-- die  Verordnung  vom  15. Dezember  1939,  Deutsches  RGBl.  I S.  2425,  über  die  Ausbildung von Fachkräften;
+b) die Verordnung vom 15. Dezember 1939, Deutsches RGBl. I S. 2425, über die Ausbildung von Fachkräften;
 
-- die  Verordnung  vom  6. Jänner  1940,  Deutsches  RGBl.  I S.  32,  über  Maßnahmen  auf  dem Gebiete der Berufsausbildung im Handwerk;
+c) die Verordnung vom 6. Jänner 1940, Deutsches RGBl. I S. 32, über Maßnahmen auf dem Gebiete der Berufsausbildung im Handwerk;
 
-- die Satzungen der Prüfungsämter für die Industrie-, Facharbeiter- und Gehilfenprüfungen der Industrie- und Handelskammer;
+d) die Satzungen der Prüfungsämter für die Industrie-, Facharbeiter- und Gehilfenprüfungen der Industrie- und Handelskammer;
 
-- für den Geltungsbereich dieses Bundesgesetzes Art. II und III des Bundesgesetzes vom 9. Juli 1953, BGBl. Nr. 141.
+5. für den Geltungsbereich dieses Bundesgesetzes Art. II und III des Bundesgesetzes vom 9. Juli 1953, BGBl. Nr. 141.
 
-- Die  Bestimmungen  des  § 8b  betreffend  integrative  Berufsausbildung  in  der  Fassung  des Bundesgesetzes BGBl. I Nr. 79/2003 treten mit 1. September 2003 in Kraft.
+(5) Die Bestimmungen des § 8b betreffend integrative Berufsausbildung in der Fassung des Bundesgesetzes BGBl. I Nr. 79/2003 treten mit 1. September 2003 in Kraft.
 
-- Beihilfen gemäß § 19c Abs. 1 Z 1 können nur auf Grund von Lehrverhältnissen gewährt werden, die  nach  dem  27. Juni  2008  beginnen.  Die  übrigen  Beihilfen  gemäß  § 19c  können  auf  Grund  von Lehrverhältnissen gewährt werden, die nach dem 27. Juni 2008 bestehen.
+(6) Beihilfen gemäß § 19c Abs. 1 Z 1 können nur auf Grund von Lehrverhältnissen gewährt werden, die nach dem 27. Juni 2008 beginnen. Die übrigen Beihilfen gemäß § 19c können auf Grund von Lehrverhältnissen gewährt werden, die nach dem 27. Juni 2008 bestehen.
 
 § 34a. Für  den  Bereich  der  beruflichen  Qualifikationen,  des  Arbeitsrechtes  einschließlich  der Kollektivverträge sowie des Sozialversicherungsrechtes gilt das Prüfungszeugnis, mit dem der erfolgreiche Abschluß einer mindestens dreijährigen berufsbildenden mittleren Schule, einer mindestens dreijährigen land- und forstwirtschaftlichen Fachschule, einer berufsbildenden höheren Schule oder deren Sonderformen einschließlich  der  Schulversuche  nachgewiesen  wird,  zumindest  als  Nachweis  einer  mit einer facheinschlägigen Lehrabschlußprüfung abgeschlossenen beruflichen Ausbildung.
 
@@ -1960,19 +1979,19 @@ Bundesrecht konsolidiert
 
 § 35a. (1) Hinsichtlich eines Lehrberufs in der Zahnärztlichen Fachassistenz sind
 
-- die  Verordnungen  gemäß  § 6  Abs. 6  und  §§ 7,  8,  8a,  24  und  27b  im  Einvernehmen  mit  dem Bundesminister für Gesundheit zu erlassen und
+1. die Verordnungen gemäß § 6 Abs. 6 und §§ 7, 8, 8a, 24 und 27b im Einvernehmen mit dem Bundesminister für Gesundheit zu erlassen und
 
-- die §§ 8b, 8c, 27, 27a, 28, 29, 30 und 30b nicht anzuwenden.
+2. die §§ 8b, 8c, 27, 27a, 28, 29, 30 und 30b nicht anzuwenden.
 
-- Für einen Lehrberuf gemäß Abs. 1 gelten folgende Sonderbestimmungen:
+(2) Für einen Lehrberuf gemäß Abs. 1 gelten folgende Sonderbestimmungen:
 
-- Die Lehrlingsstelle hat die Eintragung des Lehrvertrags gemäß § 20 Abs. 3 auch zu verweigern, wenn  der  Lehrling  nicht  die  Voraussetzungen  der  für  die  Berufsausübung  erforderlichen gesundheitlichen Eignung und Vertrauenswürdigkeit erfüllt.
+1. Die Lehrlingsstelle hat die Eintragung des Lehrvertrags gemäß § 20 Abs. 3 auch zu verweigern, wenn der Lehrling nicht die Voraussetzungen der für die Berufsausübung erforderlichen gesundheitlichen Eignung und Vertrauenswürdigkeit erfüllt.
 
-- Der Vorsitzende der Prüfungskommission für die Lehrabschlussprüfung gemäß § 22 ist ein vom Landeshauptmann entsandter Angehöriger des zahnärztlichen Berufs.
+2. Der Vorsitzende der Prüfungskommission für die Lehrabschlussprüfung gemäß § 22 ist ein vom Landeshauptmann entsandter Angehöriger des zahnärztlichen Berufs.
 
-- Voraussetzung für die Zulassung zur Lehrabschlussprüfung gemäß § 23 Abs. 5 ist der Nachweis der für die Ausübung der Zahnärztlichen Assistenz erforderlichen Qualifikation; § 23 Abs. 7 und 9 ist nicht anzuwenden.
+3. Voraussetzung für die Zulassung zur Lehrabschlussprüfung gemäß § 23 Abs. 5 ist der Nachweis der für die Ausübung der Zahnärztlichen Assistenz erforderlichen Qualifikation; § 23 Abs. 7 und 9 ist nicht anzuwenden.
 
-- Dem  Bundes-Berufsausbildungsbeirat  gemäß  § 31  gehören  zwei vom  Bundesminister  für Gesundheit zu bestellende Mitglieder mit beratender Stimme an.
+4. Dem Bundes-Berufsausbildungsbeirat gemäß § 31 gehören zwei vom Bundesminister für Gesundheit zu bestellende Mitglieder mit beratender Stimme an.
 
 ### Inkrafttreten
 
@@ -1980,11 +1999,11 @@ Bundesrecht konsolidiert
 
 (2) § 2 Abs. 6, § 8 Abs. 1, 2a und 3 bis 13, § 12 Abs. 3 Z 2, § 13 Abs. 1a, Abs. 2 lit. c und lit. k, § 17 Abs. 4,  § 19  Abs. 4  und  4a,  § 19a,  § 20  Abs. 1,  2,  3  lit. f  und  7,  § 21  Abs. 4,  § 22  Abs. 5  und  6,  § 23 Abs. 2a und 3, § 24 Abs. 5, § 27 c, § 29a Abs. 3 und 5, § 29b Abs. 1 und 3, § 29c, § 29e Abs. 1 und 5, § 29f, § 30a Abs. 1 und 3, § 31 Abs. 2, § 31a Abs. 2 Z 5, 9 und 10, § 33 Abs. 11 und 13 sowie § 34a in der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 79/2003  treten  mit  dem  der  Kundmachung  dieses Bundesgesetzes folgenden Tag in Kraft.
 
-§ 23  Abs. 5,  6  und  9,  § 25  Abs. 5  lit. b  und  Abs. 6  sowie  § 33  Abs. 12  in  der  Fassung  des Bundesgesetzes BGBl. I Nr. 79/2003 treten mit 1. Jänner 2004 in Kraft.
+(3) § 23 Abs. 5, 6 und 9, § 25 Abs. 5 lit. b und Abs. 6 sowie § 33 Abs. 12 in der Fassung des Bundesgesetzes BGBl. I Nr. 79/2003 treten mit 1. Jänner 2004 in Kraft.
 
 (4) § 5 Abs. 3a, § 6 Abs. 2a, § 8, § 12 Abs. 3 Z 3, § 13 Abs. 6, § 22a samt Überschrift, § 23 Abs. 10, § 24  Abs. 6,  § 26  Abs. 1  sowie  § 27  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 5/2006  treten  mit dem auf die Kundmachung dieses Gesetzes folgenden Monatsersten in Kraft.
 
-§ 19c  Abs. 2  und  § 31b  in  der  Fassung  des  BGBl. I  Nr. 82/2008  treten  mit  dem  auf  die Kundmachung dieses Bundesgesetzes folgenden Tag in Kraft.
+(5) § 19c Abs. 2 und § 31b in der Fassung des BGBl. I Nr. 82/2008 treten mit dem auf die Kundmachung dieses Bundesgesetzes folgenden Tag in Kraft.
 
 (6) § 8b Abs. 14 und 22, § 15 Abs. 1 und 2, § 15a, § 15b, § 19c Abs. 1 und 3 bis 8, § 19d, § 19e, § 19f,  § 19g,  § 30,  § 30b,  § 31  Abs. 2  lit. d  und  Abs. 4  sowie  § 31a  Abs. 2  Z 5  in  der  Fassung  des Bundesgesetzes BGBl. I Nr. 82/2008 treten mit 28. Juni 2008 in Kraft.
 
@@ -2002,15 +2021,17 @@ Seite 46 von 53
 
 Bundesrecht konsolidiert
 
-§ 34  Abs. 3  Z 1  in  der  Fassung  des  2. Stabilitätsgesetzes  2012,  BGBl. I  Nr. 35/2012,  tritt  mit 1. Juli 2012 in Kraft; gleichzeitig tritt § 34 Abs. 3 Z 2 außer Kraft.
+(9) § 34 Abs. 3 Z 1 in der Fassung des 2. Stabilitätsgesetzes 2012, BGBl. I Nr. 35/2012, tritt mit 1. Juli 2012 in Kraft; gleichzeitig tritt § 34 Abs. 3 Z 2 außer Kraft.
 
-§ 3 Abs. 3 (Anm.: richtig: § 3a Abs. 3) ,  § 4 Abs. 6, § 8 Abs. 13 und 14, § 19 Abs. 6, 8 und 10, § 20  Abs. 6,  § 23  Abs. 5  sowie  § 29  Abs. 5  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 129/2013 treten mit 1. Jänner 2014 in Kraft.
+(9) § 3 Abs. 3 (Anm.: richtig: § 3a Abs. 3), § 4 Abs. 6, § 8 Abs. 13 und 14, § 19 Abs. 6, 8 und 10, § 20 Abs. 6, § 23 Abs. 5 sowie § 29 Abs. 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 129/2013 treten mit 1. Jänner 2014 in Kraft.
 
-§ 30b Abs. 5 in der Fassung des Bundesgesetzes BGBl. I Nr.  74/2013 tritt mit 1. September 2013 in Kraft.
+(10) § 30b Abs. 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 74/2013 tritt mit 1. September 2013 in Kraft.
 
 ## Anlage A
 
 Zu § 33 Abs. 2
+
+### Lehrlingshöchstzahlen
 
 #### Elektroinstallationsgewerbe
 
@@ -2061,8 +2082,8 @@ Meister und mehr als 25 Gehilfen (Monteure)……………………………….
 ##### Bundesland Burgenland
 Meister allein oder mit 1 Gehilfen…………………………………………… | 1 Lehrling
 --- | ---
-
-### Lehrlingshöchstzahlen
+Meister mit 2 Gehilfen……………………………………………………….. | 2 Lehrlinge
+je weitere 3 Gehilfen…………………………………………………………. | 1 weiterer Lehrling
 
 www.ris.bka.gv.at
 
@@ -2086,7 +2107,7 @@ Meister mit 1 oder 2 Gehilfen……………………………………………
 
 2 Lehrlinge
 
-Meiter mit 3 Gehilfen…………………………………………………………
+Meister mit 3 Gehilfen…………………………………………………………
 
 3 Lehrlinge
 
@@ -2251,6 +2272,7 @@ Meister und 11 bis 15 Gehilfen (Monteure) | 7 Lehrlinge
 Meister und 16 bis 20 Gehilfen (Monteure) | 8 Lehrlinge
 Meister und 21 bis 25 Gehilfen (Monteure) | 9 Lehrlinge
 Meister und 26 bis 30 Gehilfen (Monteure) | 10 Lehrlinge
+auf je weitere 10 Gehilfen (Monteure) je ein weiterer Lehrling.
 
 #### Hühneraugenschneider- und Fußpflegergewerbe
 
@@ -2516,11 +2538,11 @@ Beschluß der Landesinnung der Elektrotechniker und Radiomechaniker für Wien vo
 
 #### Gas- und Wasserleitungsinstallationsgewerbe
 
-Beschluß  der  Fachvertretung  der  Gas-,  Wasser-  und  Zentralheizungsinstallateure  für  Burgenland vom 12. Juni 1957 betreffend die Lehrlingsprüfungsordnung für das Gasund Wasserleitungsinstallationsgewerbe in der Fassung des Beschlusses vom 4. Oktober 1960.Beschluß der Landesinnung  der  Gas-,  Wasser-  und  Zentralheizungsinstallateure  für  Kärnten  vom  22.  August  1957 betreffend  die  Lehrlingsprüfungsordnung  für  das  Gas-  und  Wasserleitungsinstallationsgewerbe  in  der Fassung des Beschlusses vom 19. Juni 1960.
+Beschluß der Fachvertretung der Gas-, Wasser- und Zentralheizungsinstallateure für Burgenland vom 12. Juni 1957 betreffend die Lehrlingsprüfungsordnung für das Gas- und Wasserleitungsinstallationsgewerbe in der Fassung des Beschlusses vom 4. Oktober 1960. Beschluß der Landesinnung der Gas-, Wasser- und Zentralheizungsinstallateure für Kärnten vom 22. August 1957 betreffend die Lehrlingsprüfungsordnung für das Gas- und Wasserleitungsinstallationsgewerbe in der Fassung des Beschlusses vom 19. Juni 1960.
 
-Beschluß der Landesinnung der Gas-, Wasser- und Zentralheizungsinstallateure für Niederösterreich vom 1. September 1957 betreffend die Lehrlingsprüfungsordnung für das Gasund Wasserleitungsinstallationsgewerbe in der Fassung des Beschlusses vom 14. September 1960.
+Beschluß der Landesinnung der Gas-, Wasser- und Zentralheizungsinstallateure für Niederösterreich vom 1. September 1957 betreffend die Lehrlingsprüfungsordnung für das Gas- und Wasserleitungsinstallationsgewerbe in der Fassung des Beschlusses vom 14. September 1960.
 
-Beschluß der Landesinnung der Gas-, Wasser- und Zentralheizungsinstallateure für Steiermark vom 23. August 1961 betreffend die Lehrlingsprüfungsordnung für das Gasund Wasserleitungsinstallationsgewerbe in der Fassung des Beschlusses vom 27. Juni 1962.
+Beschluß der Landesinnung der Gas-, Wasser- und Zentralheizungsinstallateure für Steiermark vom 23. August 1961 betreffend die Lehrlingsprüfungsordnung für das Gas- und Wasserleitungsinstallationsgewerbe in der Fassung des Beschlusses vom 27. Juni 1962.
 
 www.ris.bka.gv.at
 
@@ -2532,7 +2554,7 @@ Seite 51 von 53
 
 Bundesrecht konsolidiert
 
-Beschluß  der  Landesinnung  Wien  der  Gas-,  Wasser-  und  Zentralheizungsinstallateure  vom  13. Oktober 1958 betreffend die Lehrlingsprüfungsordnung für das Gasund Wasserleitungsinstallationsgewerbe in der Fassung des Beschlusses vom 19. Jänner 1961.
+Beschluß der Landesinnung Wien der Gas-, Wasser- und Zentralheizungsinstallateure vom 13. Oktober 1958 betreffend die Lehrlingsprüfungsordnung für das Gas- und Wasserleitungsinstallationsgewerbe in der Fassung des Beschlusses vom 19. Jänner 1961.
 
 #### Gewerbe der Erzeugung von Waren nach Gablonzer Art
 
@@ -2586,31 +2608,31 @@ Bundesrecht konsolidiert
 
 (Anm.: zum BG Berufsausbildungsgesetz, BGBl. Nr. 142/1969)
 
-- Durch  das  Inkrafttreten  dieses  Bundesgesetzes  bleiben  insbesondere  folgende  Vorschriften unberührt:
+1. Durch das Inkrafttreten dieses Bundesgesetzes bleiben insbesondere folgende Vorschriften unberührt:
 
-- Das Arbeitsinspektionsgesetz 1974, BGBl. Nr. 143,
+a) Das Arbeitsinspektionsgesetz 1974, BGBl. Nr. 143,
 
-- das Verkehrs-Arbeitsinspektionsgesetz, BGBl. Nr. 99/1952, in der Fassung der Bundesgesetze BGBl. Nr. 80/1957, 234/1972 und 422/1974,
+b) das Verkehrs-Arbeitsinspektionsgesetz, BGBl. Nr. 99/1952, in der Fassung der Bundesgesetze BGBl. Nr. 80/1957, 234/1972 und 422/1974,
 
-§§ 4,  6  und  29  des  Handelskammergesetzes,  BGBl.  Nr. 182/1946  in  der  Fassung  der Bundesgesetze BGBl. Nr. 76/1950 und 208/1969,
+c) §§ 4, 6 und 29 des Handelskammergesetzes, BGBl. Nr. 182/1946 in der Fassung der Bundesgesetze BGBl. Nr. 76/1950 und 208/1969,
 
-§§ 2 und 31 Abs. 2 des Arbeiterkammergesetzes, BGBl. Nr. 105/1954.
+d) §§ 2 und 31 Abs. 2 des Arbeiterkammergesetzes, BGBl. Nr. 105/1954.
 
-- Mit dem in Z 3 lit. d angeführten Zeitpunkt verlieren
+2. Mit dem in Z 3 lit. d angeführten Zeitpunkt verlieren
 
-§ 14 Abs. 1 des Arbeitsplatz-Sicherungsgesetzes, BGBl. Nr. 154/1956,
+a) § 14 Abs. 1 des Arbeitsplatz-Sicherungsgesetzes, BGBl. Nr. 154/1956,
 
-§ 15 Abs. 2 letzter Satz des Mutterschutzgesetzes, BGBl. Nr. 76/1957,
+b) § 15 Abs. 2 letzter Satz des Mutterschutzgesetzes, BGBl. Nr. 76/1957,
 
-- in der zu diesem Zeitpunkt geltenden Fassung ihre Kraft.
+in der zu diesem Zeitpunkt geltenden Fassung ihre Kraft.
 
-(Anm.: Inkrafttretensbestimmungen des BG BGBl. Nr. 232/1978)
+3. (Anm.: Inkrafttretensbestimmungen des BG BGBl. Nr. 232/1978)
 
-- Verordnungen auf Grund dieses Bundesgesetzes können bereits
+4. Verordnungen auf Grund dieses Bundesgesetzes können bereits
 
 von dem seiner Kundmachung folgenden Tag an erlassen werden. Diese Verordnungen dürfen frühestens mit dem Zeitpunkt in Kraft gesetzt werden, in dem gemäß Z 3 die die betreffende Verordnungsermächtigung enthaltende Bestimmung in Kraft tritt.
 
-(Anm.: Vollzugsklausel des BG BGBl. Nr. 232/1978)
+5. (Anm.: Vollzugsklausel des BG BGBl. Nr. 232/1978)
 
 www.ris.bka.gv.at
 
