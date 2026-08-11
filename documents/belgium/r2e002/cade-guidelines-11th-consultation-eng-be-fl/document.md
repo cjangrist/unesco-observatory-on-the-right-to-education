@@ -24,7 +24,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education (“the Convention”) and the Recommendation against Discrimination in Education (“the Recommendation”), adopted by UNESCO’s General Conference in 1960, are aligned with UNESCO’s constitutional mandate to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -38,13 +38,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to ‘include everyone, regardless of circumstance, context or background’. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -54,7 +56,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -80,11 +82,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls’ and women’s right to education. Information and data regarding countries’ education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -108,9 +110,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 6]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 6]]
 
@@ -128,7 +130,7 @@ Name of contact person: Marie-Anne Persoons
 
 Email and telephone number of contact person: marie-anne.persoons@ond.vlaanderen.be, +32 2 553 95 89
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -207,7 +209,7 @@ First of all we can refer to art. 24 of the Belgian Constitution that establishe
 [[START OF PAGE 9]]
 
 education. Important is also the right to free school choice of parents and students, preventing refusal of access by educational institutions.
----
+
 Link: belgian_constitution.pdf
 In Belgium compulsory education starts in the last year of pre-primary (age 5) until the end of upper secondary education (age 18).
 Flemish Community
@@ -229,7 +231,7 @@ First of all we can refer to art. 24 of the Belgian Constitution that establishe
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to ‘substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes’.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -238,7 +240,7 @@ First of all we can refer to art. 24 of the Belgian Constitution that establishe
 [[START OF PAGE 10]]
 
 compulsory education. Important is also the right to free school choice of parents and students, preventing refusal of access by educational institutions.
----
+
 Link: belgian_constitution.pdf
 
 -  Please list the prohibited grounds of discrimination in education as laid out in legal texts:
@@ -265,9 +267,9 @@ with even lesser costs or wavers of tuition depending on the socio-economic stat
 
 For measures targeted at supporting specific vulnerable groups: see answers below.
 
-Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal
+ Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
- access to education x In pre-primary education (including early learning and care) x In primary education x In secondary education x In technical and vocational education and training x In higher education x In adult education and alternative learning
+x In pre-primary education (including early learning and care) x In primary education x In secondary education x In technical and vocational education and training x In higher education x In adult education and alternative learning
 
 - Please provide details:
 
@@ -300,7 +302,8 @@ status  combined  with  grants  for  students  from  families  with
 [[START OF PAGE 11]]
 
 lower income (offered to 25 % of the students) and specific measures for students in refugee or refugee-like status.
----
+
+- Affordable adult education with lower tuition and wavers for specific categories: lower family income, unemployment, newly arrived migrants and refugees, people with disabilities…
 
  Combatting discrimination in terms of curriculum: X In pre-primary education (including early learning and care) X In primary education X In secondary education X In technical and vocational education and training X In higher education X In adult education and alternative learning
 
@@ -338,8 +341,7 @@ other legislation.
 
  Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
-Flemish Parliamentary Act of 2008 on Funding of school education that provides monitoring of social- economic background of all learners throughout their educational career, extra funding to schools with a disadvantaged public and obligation to all schools (pertaining to public law as well as private law) to grant equal access to all applicants without possibility of refusal of the free choice of students/parents. Remark: in the Flemish Community of Belgium, less than 0.5 % of schools are privately funded private institutions. Private institutions are mainstream (e.g. 74 % of students study in private secondary education) but they are publicly funded and put under the same legislation as
----
+Flemish Parliamentary Act of 2008 on Funding of school education that provides monitoring of social-economic background of all learners throughout their educational career, extra funding to schools with a disadvantaged public and obligation to all schools (pertaining to public law as well as private law) to grant equal access to all applicants without possibility of refusal of the free choice of students/parents. Remark: in the Flemish Community of Belgium, less than 0.5 % of schools are privately funded private institutions. Private institutions are mainstream (e.g. 74 % of students study in private secondary education) but they are publicly funded and put under the same legislation as
 
 [[END OF PAGE 11]]
 
@@ -363,47 +365,33 @@ public  institutions  and  thus  due  to  perform  their  public  responsibility
 
  Other:
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-See replies to Q 1.1.
-
-Moreover, learning outcomes of school curriculum are valuing cultural diversity and mutual dialogue.
-
-Flexible  learning  paths  are  provided  for  i.a.  adults  wishing  to  obtain  upper  secondary qualifications, students on sick leave, in higher and adult education for students combining studies with work or other duties.
-
-- In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
-
-> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
-
-17
-
-Multiple and flexible learning pathways are 'entry points and re
-
--entry points at all ages and all educational levels,
-
-strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the
-
-knowledge,  skills  and  co mpetencies  acquired  through  nonformal  and  informal  education'  (
-
-Education  2030
-
-Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse
-
-learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
-
-> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
  Multiple and flexible learning pathways 17 are provided for
 
  Curricula and teaching methods are inclusive in design 18
 
  Multilingual and intercultural education is supported
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+See replies to Q 1.1.
+
+Moreover, learning outcomes of school curriculum are valuing cultural diversity and mutual dialogue.
+
+Flexible learning paths are provided for i.a. adults wishing to obtain upper secondary qualifications, students on sick leave, in higher and adult education for students combining studies with work or other duties.
+
+- In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
+
+> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+
+> 17 Multiple and flexible learning pathways are ‘entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education’ (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+
+> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
+
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-Although equal access is strictly regulated and schools obliged and funded to cater for vulnerable groups, international (PISA, TIMSS, PIRLS and PIAAC) and national assessments ( 'Flemish tests' established since 2024)  point  at  lower  academic  performance  for  students  from  disadvantaged background.  There  is  also  more  risk  to  reach  the  end  of  compulsory  education  without  upper secondary qualification and less smooth transition to higher education. In addition, newly arrived immigrants are often hampered by insufficient knowledge of the instruction language. Hence the strong  emphasis  with  targeted  programmes  and  financial  support  to  linguistic  integration  of newcomers  (both  students  and  their  parents)  and  monitoring  of  the  knowledge  of  Dutch (instruction language) from pre-primary age onwards.
+Although equal access is strictly regulated and schools obliged and funded to cater for vulnerable groups, international (PISA, TIMSS, PIRLS and PIAAC) and national assessments (“Flemish tests” established since 2024) point at lower academic performance for students from disadvantaged background. There is also more risk to reach the end of compulsory education without upper secondary qualification and less smooth transition to higher education. In addition, newly arrived immigrants are often hampered by insufficient knowledge of the instruction language. Hence the strong emphasis with targeted programmes and financial support to linguistic integration of newcomers (both students and their parents) and monitoring of the knowledge of Dutch (instruction language) from pre-primary age onwards.
 
 ##### Other relevant general measures, including gender equality
 
@@ -457,9 +445,9 @@ See measures mentioned under the section of challenges below: STEM Action Plan a
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ‘Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal’ (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
+> 21 ‘Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong’ (Cambridge Dictionary).
 
 [[END OF PAGE 13]]
 
@@ -553,31 +541,33 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Financial incentives and fellowships are provided for national minorities
 
- Other 23 : see explanation below under legislation
-
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-(1) Linguistic minorities
-
-As  a  multilingual  country,  there  are  strict  regulations  regarding  the  main  instruction language  in  the  different  parts  of  the  country.  At  the  linguistic  borders,  there  can  be 'language  facilities'  In  the  periphery  of  Brussels,  which  is  in  the  Flemish  Regio n,  such minorities are French-speaking and receive the opportunity to have school programmes in French but funded by the Flemish Community of Belgium.
-
-Article 6 of the Education Language Law regulates the situation in the municipalities with language facilities that provide education in the other official language of Belgium, which is however not the official language of that region. These schools were intended only for those
-
-> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the
-
-> 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. 24 Supra note 15. 25 Supra note 16.
+ Other 23: see explanation below under legislation
 
  Teachers are trained on intercultural education
 
  Teachers are trained to combat stigmatisation 24
 
-- o Multilingual and intercultural education are supported
+o Multilingual and intercultural education are supported
 
-- X Native language instruction is ensured for national minorities
+X Native language instruction is ensured for national minorities
 
-- o Adapting curricula and teaching and learning methods to their needs for national minorities
+o Adapting curricula and teaching and learning methods to their needs for national minorities
 
  Curricula are rid of all stereotypes 25 and bias
+
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+(1) Linguistic minorities
+
+As a multilingual country, there are strict regulations regarding the main instruction language in the different parts of the country. At the linguistic borders, there can be “language facilities” In the periphery of Brussels, which is in the Flemish Region, such minorities are French-speaking and receive the opportunity to have school programmes in French but funded by the Flemish Community of Belgium.
+
+Article 6 of the Education Language Law regulates the situation in the municipalities with language facilities that provide education in the other official language of Belgium, which is however not the official language of that region. These schools were intended only for those
+
+> 23 Please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+
+> 24 Supra note 15.
+
+> 25 Supra note 16.
 
 [[END OF PAGE 15]]
 
@@ -697,8 +687,6 @@ fairground and circus operators and circus performers.
 
 [[START OF PAGE 17]]
 
-##### Indigenous people:
-
 (3) Groups with priority in case of limited school capacity
 
 Base: general legislation on school education
@@ -707,13 +695,15 @@ The following sub-groups right to education is guaranteed: foster children, boar
 
 (4) Religious minorities
 
-In  schools  pertaining  to  public  law,  students  have  the  right  to  receive  education  in  a philosophy of life  courses of  their  (parents')  choice .  The  following  options  are  provided: Roman-Catholic,  Orthodox,  Protestant,  Judaism,  Islam,  Buddhism  or  non-confessional ethics.
+In schools pertaining to public law, students have the right to receive education in a philosophy of life courses of their (parents’) choice. The following options are provided: Roman-Catholic, Orthodox, Protestant, Judaism, Islam, Buddhism or non-confessional ethics.
 
-For migrants and refugees - see answers under people on the move
+For migrants and refugees – see answers under people on the move
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
 Similar challenges as observed for socio-economically vulnerable groups in general.
+
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -815,9 +805,11 @@ Schooling is optional for children between 3 and 5 years old, and mandatory for 
 
 [[START OF PAGE 19]]
 
-In primary schools (6-12 years old), children of asylum seekers mostly join the general classes of local schools with, however, specific (mostly linguistic) support. In secondary schools, classes with adapted course packages and teaching methods- the so- called 'reception classes' (OKAN ) in mainstream schools, are organised for children of newly arrived migrants and asylum seekers. Those children are later integrated in regular classes once they are considered ready for it.
----
-In higher education refugee students and students in refugee-like status get certain facilities for access to higher education, as well as financial support (wavers of tuition fees, grants…) Similar measures in adult education (lower tuition)
+In primary schools (6-12 years old), children of asylum seekers mostly join the general classes of local schools with, however, specific (mostly linguistic) support. In secondary schools, classes with adapted course packages and teaching methods- the so-called “reception classes” (OKAN) in mainstream schools, are organised for children of newly arrived migrants and asylum seekers. Those children are later integrated in regular classes once they are considered ready for it.
+
+In higher education refugee students and students in refugee-like status get certain facilities for access to higher education, as well as financial support (wavers of tuition fees, grants…)
+
+Similar measures in adult education (lower tuition)
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -881,21 +873,11 @@ Utilisation of the European Qualifications Passport for Refugees
 
 [[START OF PAGE 20]]
 
-33
-
-34
-
-
-
-Yes
-
-
-
-No
+ Yes  No
 
 - Please elaborate:
 
-Measures  are  for  all  refugees  or  people  in  refugee-like  status.  For  the  time  being  our education system is not confronted with displaced people for climate reasons only (always combined with other challenges, e.g. violent conflicto, which can i.a. impact the environment, cause famine etc.)
+Measures are for all refugees or people in refugee-like status. For the time being our education system is not confronted with displaced people for climate reasons only (always combined with other challenges, e.g. violent conflicto, which can i.a. impact the environment, cause famine etc.)
 
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
@@ -903,117 +885,45 @@ Flemish Community applies to rule that within 60 days upon arrival learners of p
 
 ##### People with disabilities:
 
-
+ Legislation provides for their right to education
 
-Legislation provides for their right to
+ Policy measures aim to enhance their right to education
 
-education
+ Inclusion in mainstream schools is ensured
 
-
+ Special schools are used as resource centers to inclusive schools
 
-Policy measures aim to enhance their right to
+ Positive or affirmative action measures are provided
 
-education
+ Financial incentives and fellowships are provided
 
-
+ Other
 
-Inclusion in mainstream schools is ensured
+ Mainstream teachers are specifically trained on disabilities
 
-
+ Teachers are trained to combat stigmatisation 33
 
-Special schools are used as resource centers
+ Auxiliary assistance is provided
 
-to inclusive schools
+ Curricula and teaching and learning methods are adapted
 
-
+ Curricula are rid of all stereotypes 34 and bias
 
-Positive or affirmative action measures are
-
-provided
-
-
-
-Financial incentives and fellowships are
-
-provided
-
-
-
-Other
-
-
-
-Mainstream teachers are specifically trained
-
-on disabilities
-
-
-
-Teachers are trained to combat
-
-stigmatisation
-
-33
-
-
-
-Auxiliary assistance is provided
-
-
-
-Curricula and teaching and learning
-
-methods are adapted
-
-
-
-Curricula are rid of all stereotypes
-
-34
-
-and bias
-
-
-
-Education infrastructure and learning
-
-materials are adapted
+ Education infrastructure and learning materials are adapted
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 Since many decades there was a large separate provision of for students with SEN.
 
-Supra note 15.
+> 33 Supra note 15.
 
-Supra note 16.
+> 34 Supra note 16.
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-35
-
-36
-
-Although  the  funding  was  significantly  higher  than  for  regular  education  and  the  teacher
-
-possessing of higher or more specialised qualifications, the system was reformed through the
-
-so-
-
-called 'M
-
--
-
-decree' in 2015 that encouraged integration of students with SEN
-
-into mainstream
-
-schools, while facilitating transfer of expertise from special schools and teachers to mainstream
-
-schools  and  thus  realising  more  inclusion.  As  a  result,  the  number  of  students  with  SEN  in
-
-mainstream schools increased.
+Although the funding was significantly higher than for regular education and the teacher possessing of higher or more specialised qualifications, the system was reformed through the so-called “M-decree” in 2015 that encouraged integration of students with SEN into mainstream schools, while facilitating transfer of expertise from special schools and teachers to mainstream schools and thus realising more inclusion. As a result, the number of students with SEN in mainstream schools increased.
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
@@ -1047,57 +957,21 @@ school is fully respected.
 
 ##### Students from poor households:
 
-
+ Financial incentives and fellowships for school enrolment are provided
 
-Financial incentives and fellowships for
+ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
-school enrolment are provided
+ Positive or affirmative action measures are provided
 
-
+ Other: top-up financing of schools with children from families with weak financial background based on monitoring social-economic situation on the basis of indicators of disadvantage
 
-Transport, meals and education material are
+ Teachers are trained to combat stigmatisation 35
 
-subsidised  or  provided  free  of  charge  beyond
+ Curricula are rid of all stereotypes 36 and bias
 
-compulsory education
+> 35 Supra note 15.
 
-
-
-Positive or affirmative action measures are
-
-provided
-
-
-
-Other: top-up financing of schools with
-
-children from families with weak financial
-
-background based on monitoring social-
-
-economic situation on the basis of indicators
-
-of disadvantage
-
-
-
-Teachers are trained to combat
-
-stigmatisation
-
-35
-
-
-
-Curricula are rid of all stereotypes
-
-36
-
-and bias
-
-Supra note 15.
-
-Supra note 16.
+> 36 Supra note 16.
 
 [[END OF PAGE 21]]
 
@@ -1119,7 +993,7 @@ The right as such is not problematic but rather the inequality of outcomes: less
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized ‘the right to education during early childhood as beginning at birth’ (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to ‘the provision of at least one year of free and compulsory pre-primary education’.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -1127,9 +1001,9 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+ ECCE services are accessible on a non-discriminatory basis
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services respect a child’s need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -1142,7 +1016,6 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 [[START OF PAGE 23]]
 
 - See general rules on open and tuition-free access starting from age 2.5 and maximum charge for extra costs (max. 55 EUR/schoolyear)
----
 - Compulsory pre-primary from age 5.
 - Specific language support (and testing) for those speaking another language at home than the language of instruction
 - Definition of developmental and learning goals for curriculum in pre-primary
@@ -1150,7 +1023,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 - Is compulsory and free of charge pre-primary education available?
 
-- X Pre-primary education is compulsory. Please provide the age of enrolment and duration:
+X Pre-primary education is compulsory. Please provide the age of enrolment and duration:
 
 From age 5 (last year of pre-primary education)
 
@@ -1158,7 +1031,9 @@ From age 5 (last year of pre-primary education)
 
 X Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
-- All pre-primary education (private and public) is tuition-free (from age 2.5 y onwards). Extra costs are not allowed to exceed 55 EUR/schoolyear.
+All pre-primary education (private and public) is tuition-free (from age 2.5 y onwards).
+
+Extra costs are not allowed to exceed 55 EUR/schoolyear.
 
  Pre-primary education is not free.
 
@@ -1190,7 +1065,7 @@ Growing number of newly arrived immigrants without knowledge of the instruction 
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide ‘12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.’
 
 ##### Primary education
 
@@ -1287,7 +1162,7 @@ X     Lower secondary education is compulsory.
 uniforms,  transport  and  compulsory  levies  on  parents).  Brief  quantitative  information  may  be added.
 
 Belgian Constitution art 24 for free compulsory education.
----
+
 Flemish Parliamentary act on the funding of school education (2008) providing for public funding for all school, public and private, funding for schools with disadvantaged public, monitoring of social and economic background of pupils (in view of differentiated funding) and establishes the obligation for schools to limit the extra, smaller costs.
 
 - Please indicate whether the legal minimum age for employment is aligned with the end of compulsory education:
@@ -1298,9 +1173,10 @@ Yes o No o
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
-Federal law on employment of children. travail-des-enfants
----
-https://emploi.belgique.be/fr/themes/reglementation-du-travail/la-reglementation-du-
+Federal law on employment of children.
+
+https://emploi.belgique.be/fr/themes/reglementation-du-travail/la-reglementation-du-travail-des-enfants
+
 In principle minors are not allowed to work until the end of full-time compulsory education (age 18).
 There are, however, exceptions for
 - Students from 15 y onwards if enrolled in dual vocational education (part-time study, part-time work). The employment is then seen as part of a learning trajectory
@@ -1390,7 +1266,7 @@ https://data-onderwijs.vlaanderen.be/edulex/document.aspx?docid=14650
 
  Insufficient  mechanisms  to  ensure  smooth transition from secondary to tertiary
 
-As the Flemish authorities monitors the socio-economic background of all learners from pre- primary  to  higher  education,  there  is  solid  evidence  that  those  students  complying  with indicators  of  disadvantage  run  the  risk  to  leave  secondary  education  (at  age  18)  without obtaining the secondary qualification. Hence there is no direct access to higher education.
+As the Flemish authorities monitors the socio-economic background of all learners from pre-primary to higher education, there is solid evidence that those students complying with indicators of disadvantage run the risk to leave secondary education (at age 18) without obtaining the secondary qualification. Hence there is no direct access to higher education.
 
 Despite the open access policies that grant access to any secondary education graduate, there is a higher risk to drop-out after entering higher education and eventually not complete the programme enrolled for.
 
@@ -1409,8 +1285,6 @@ Recently  the  Flemish  Community  has  added  programmes  in  short  profession
 For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy'. Furthermore, under target 4.4, states are called 'to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.'
 
 - Please  indicate  the  measures  taken  to  establish  a  system  of  continuing  education  and  equitable access to learning and training opportunities (several items may be ticked):
-
-- Please elaborate. Brief quantitative information may be added.
 
  Provision of education for persons who have not received or completed the whole period of their primary education
 
@@ -1450,12 +1324,14 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 Low participation in lifelong learning despite the wide offer of publicly funded courses.
 
+- Please elaborate. Brief quantitative information may be added.
+
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
 As Belgium as a whole, the Flemish Community struggles with low participation rate in lifelong learning, notwithstanding the wide offer of affordable, publicly funded courses.
----
+
 It is also striking that the uptake of LLL opportunities by low-skilled learners is even lower than those that are medium- and high skilled.
 Flanders plans to introduce an individual learning and career account for citizen with the aim to increase adult participation in life-long learning.
 This will enable citizens to access information on their learning rights and the related support measures available to them in one place, thus improving transparency and inclusion. In preparation for the development of this account, in 2022, the Flemish government and social partners published a vision paper.
@@ -1463,7 +1339,7 @@ More information can be found on the project webpage here or in the vision paper
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1474,25 +1350,20 @@ X State monitoring and inspections
 X Health and sanitation
 
 X Safety (children learn in a safe environment free from violence or harassment,
-
 including school-related gender-based violence (in and around schools))
 
-- X Infrastructure
+X Infrastructure
 
 X Curriculum
 
-
-
-Student-teacher ratio
+ Student-teacher ratio
 
  School fees (if relevant)
 
-
-
-Other
+ Other
 
 All aspects are integrated in school evaluations carried out by the Inspectorate.
---- | ---
+
 Since 2018 the framework received an update (Inspectorate 2.0) that is more holistic and focusses attention to the interlinkages between the different aspects of school performance : ABC van Inspectie 2.0 | Onderwijsinspectie
 
 [[END OF PAGE 30]]
@@ -1567,15 +1438,15 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
  Other:
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-- o High student - teacher ratio
+o High student – teacher ratio
 
 Attrition of new teachers.
 
 - Please elaborate. Brief quantitative information may be added.
 
-Young teachers often start in more 'difficult' school s.
+Young teachers often start in more 'difficult' schools.
 
 Mentoring trajectories are set up in cooperation with the school networks to counter their attrition and to enhance their resilience.
 
@@ -1600,7 +1471,7 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 - Please elaborate on each of the measures taken:
 
 - See answers above (learning outcomes for civic education legally defined)
----
+
 - Subsidies to organisations providing educational activities for schools (students and teachers).
 
 #### 3.4 Non-state actors in education
@@ -1612,17 +1483,14 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
  Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43  explicitly apply to non-state educational institutions. Please specify:
 
 See answers above. Flemish legislation applies to all schools, regardless of their legal status (public or private). Since 2008 (Parliamentary Act on the Funding of School Education) they are funded (and quality assured) on equal footing and all have to perform their public responsibility and apply open, non-discriminatory access (no refusal of students is allowed).
----
 
  Policies  aim  to  guarantee  that  the  development  of  non-state  education  does  not  generate discrimination  and  that  non-state  actors  offer  a  relevant  alternative  (without  supplanting  public education). Please specify:
 
 See answer to previous question.
----
 
  Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
-In schools pertaining to public law, students have the right to receive education in a philosophy of life courses of their (parents') choice . The following options are provided: Roman-Catholic, Orthodox, Protestant, Judaism, Islam, Buddhism or non-confessional ethics.
----
+In schools pertaining to public law, students have the right to receive education in a philosophy of life courses of their (parents') choice. The following options are provided: Roman-Catholic, Orthodox, Protestant, Judaism, Islam, Buddhism or non-confessional ethics.
 
  Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
@@ -1704,7 +1572,7 @@ https://education-profiles.org/fr/europe-et-amerique-du-nord/belgique/~technolog
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1750,7 +1618,9 @@ support to respond to issues of child online safety or reduce cyber security ris
 
 Impact on human rights of learners and teachers (privacy, autonomy..)
 
-Necessity of media literacy and digital citizenship education, resilience toward disinformation etc Challenges of AI
+Necessity of media literacy and digital citizenship education, resilience toward disinformation etc
+
+Challenges of AI
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1760,7 +1630,7 @@ Necessity of media literacy and digital citizenship education, resilience toward
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1773,42 +1643,40 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 [[START OF PAGE 37]]
 
 Statistics and other data on system/local and school level are presented in a comprehensive and searchable way on the Dataloep ('data loupe') platform:
----
+
 Dataloep: aan de slag met cijfers over onderwijs
 
- Monitoring processes are participatory, inclusive and regular.  Sector-wide and multisector approach is adopted to education governance.  Financial  resources  are  effectively  allocated  to  prioritise  the  provision  of  free,  quality,  public education and are adequately budgeted for in government plans.  The decision-making process for the allocation of resources to education is transparent.  Ensuring  crisis-sensitive  and  disaster  risk-informed  planning  and  programming,  including  the provision of quality education in emergencies.  There is a certain degree of decentralization in favour of local public authorities and autonomy for schools to ensure context relevance of their teaching.
+ Monitoring processes are participatory, inclusive and regular.
+
+ Sector-wide and multisector approach is adopted to education governance.
+
+ Financial resources are effectively allocated to prioritise the provision of free, quality, public education and are adequately budgeted for in government plans.
+
+ The decision-making process for the allocation of resources to education is transparent.
+
+ Ensuring crisis-sensitive and disaster risk-informed planning and programming, including the provision of quality education in emergencies.
+
+ There is a certain degree of decentralization in favour of local public authorities and autonomy for schools to ensure context relevance of their teaching.
 
 - Please elaborate on each of the measures taken:
 
--  Funding  system  applies  to  all  schools  and  gives  them  extra  funding  or  teaching  hours according to number of disadvantaged students (coupling with student tracking system on socio-economic background from pre-primary to higher education). Link between funding, data collection and ex-post evaluations by the Inspectorate (see answers under questions above) -  Crisis: there are provisions in case of refugee crisis. Were refined for the 2015 crisis and update due to the Ukraine crisis.
+- Funding system applies to all schools and gives them extra funding or teaching hours according to number of disadvantaged students (coupling with student tracking system on socio-economic background from pre-primary to higher education). Link between funding, data collection and ex-post evaluations by the Inspectorate (see answers under questions above)
+
+- Crisis: there are provisions in case of refugee crisis. Were refined for the 2015 crisis and update due to the Ukraine crisis.
 
 - What challenges were encountered in terms of governance?
 
-
-
-Budgetary constraints
+ Budgetary constraints
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
-
+ Poor dialogue with teachers' trade unions
 
-P
+ Other: school capacity problems in times of crisis
 
-oor dialogue with teachers' trade unions
+ Absence of supportive/ inconsistent/obsolete legal and policy environment
 
-
-
-Other: school capacity problems in times of
-
-crisis
-
-
-
-Absence of supportive/ inconsistent/obsolete
-
-legal and policy environment
-
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1816,7 +1684,7 @@ legal and policy environment
 
 [[START OF PAGE 38]]
 
-See above -temporary capacity problem for integration Ukrainian refugees in mainstream schools in the beginning of the crisis (solved meanwhile)
+See above – temporary capacity problem for integration Ukrainian refugees in mainstream schools in the beginning of the crisis (solved meanwhile)
 
 ## III. Methods used to draw the attention of the various authorities in the country to the instruments
 
