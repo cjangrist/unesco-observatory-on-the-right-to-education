@@ -18,6 +18,46 @@ JUNE 2008
 
 ## CONTENTS
 
+TABLE OF CONTENTS ……………………………………………………………………… i
+LIST OF ABBREVIATIONS …………………………………………………………………. ii
+THE EDUCATION SECTOR’S………………………………………………………………. iii
+VISION………………………………………………………………………………………….. iii
+MISSION………………………………………………………………………………………... iii
+MANDATE………………………………………………………………………………………. iii
+CORE VALUES………………………………………………………………………………… iii
+ACKNOWLEDGEMENTS…………………………………………………………………….. iv
+FOREWORD……………………………………………………………………………………. v
+PREFACE……………………………………………………………………………………….. vi
+1.0 PREAMBLE………………………………………………………………………………… 1
+2.0 BACKGROUND…………………………………………………………………………… 2
+2.1 NATIONAL EDUCATION SECTOR PLAN (2008 -2017)…………………………….. 3
+3.0 RATIONALE FOR DEVELOPING THE NATIONAL EDUCATION SECTOR PLAN 4
+4.0 EDUCATION SECTOR PRIORITIES BY SUB-SECTOR…………………………….. 5
+4.1 BASIC EDUCATION………………………………………………………………………. 5
+4.1.1 EARLY CHILDHOOD DEVELOPMENT………………………………………………. 5
+4.1.2 NON-FORMAL EDUCATION…………………………………………………………… 7
+4.1.3 PRIMARY EDUCATION………………………………………………………………… 10
+4.2 SECONDARY EDUCATION……………………………………………………………… 15
+4.3 TEACHER EDUCATION (PRIMARY AND SECONDARY)………………………….. 18
+4.4 TECHNICAL AND VOCATIONAL TRAINING…………………………………………. 21
+4.5 HIGHER EDUCATION…………………………………………………………………….. 23
+5.0 KEY NESP INDICATORS…………………………………………………………………. 26
+5.1 BASIC EDUCATION (PRIMARY)………………………………………………………… 26
+5.2 SECONDARY EDUCATION………………………………………………………………. 27
+5.3 TEACHER EDUCATION (PRIMARY AND SECONDARY)……………………………. 27
+5.4 TECHNICAL AND VOCATIONAL TRAINING…………………………………………... 27
+5.5 HIGHER EDUCATION……………………………………………………………………… 28
+6.0 IMPLEMENTATION………………………………………………………………………… 28
+7.0 FINANCIAL IMPLICATIONS……………………………………………………………… 31
+APPENDIX………………………………………………………………………………………. 38
+
+### LIST OF TABLES
+Table 1: Summary for basic Education Development Plan (Primary)……………….. …… 38
+Table 2: Summary for Secondary Education Development Plan…………………….. …… 41
+Table 3: Summary for Teacher Education (Primary and Secondary)……………………… 43
+Table 4: Summary for Technical and Vocational Training Development Plan…………… 44
+Table 5: Summary for Higher Education and Administration Programmes………………. 45
+
 i
 
 [[END OF PAGE 2]]
@@ -180,6 +220,8 @@ ii
 
 [[START OF PAGE 4]]
 
+THE EDUCATION SECTOR’S
+
 ## VISION
 
 TO BE A CATALYST FOR SOCIO-ECONOMIC DEVELOPMENT AND INDUSTRIAL GROWTH
@@ -194,13 +236,11 @@ TO PROMOTE EDUCATION IN MALAWI IRRESPECTIVE OF RACE, GENDER, ETHNICITY, RELIGION
 
 ## CORE VALUES
 
--PROFESSIONAL
+- PROFESSIONAL
 
--MORAL
+- MORAL
 
--TRANSPARENT AND ACCOUNTABLE
-
-THE EDUCATION SECTOR'S
+- TRANSPARENT AND ACCOUNTABLE
 
 iii
 
@@ -242,7 +282,7 @@ v
 
 ## PREFACE
 
-The National Education Sector Plan (2008 - 2017), reflects effort by the educationists and those with vested interest to improve the access, equity, quality, relevance, governance and management of education in Malawi, however, it represents only the first stage in a process. Substantial work remains to be done in translating the strategy into an Operational Plan (Action Plan) in line with Annual Implementation Plans and Medium Term Expenditure Framework and then executing the lines of action as implementation programmes. Coordination of this plan will rest with the Ministry of Education, Science and Technology Education Planning Directorate although the respective ministries administering education issues will continue doing so. It is important to mention that the Ministry of Finance and Department of Human Resource Management and Development under OPC will continue playing their crucial role in the area of finances in relation to Sector Wide Approaches and human resources respectively. Indeed the Ministry of Economic Planning and Development will have an overall responsibility because the programmes in this plan are largely developmental by nature. The Ministry of Education, Science and Technology and the other ministries (Women and Child Development and Youth Development and Sports) have the burden of ensuring that adequate funding, personnel and working modalities are in place to ensure prioritization and implementation.
+The National Education Sector Plan (2008 - 2017), reflects effort by the educationists and those with vested interest to improve the access, equity, quality, relevance, governance and management of education in Malawi, however, it represents only the first stage in a process. Substantial work remains to be done in translating the strategy into an Operational Plan (Action Plan) in line with Annual Implementation Plans and Medium Term Expenditure Framework and then executing the lines of action as implementation programmes. Coordination of this plan will rest with the Ministry of Education, Science and Technology – Education Planning Directorate although the respective ministries administering education issues will continue doing so. It is important to mention that the Ministry of Finance and Department of Human Resource Management and Development under OPC will continue playing their crucial role in the area of finances in relation to Sector Wide Approaches and human resources respectively. Indeed the Ministry of Economic Planning and Development will have an overall responsibility because the programmes in this plan are largely developmental by nature. The Ministry of Education, Science and Technology and the other ministries (Women and Child Development and Youth Development and Sports) have the burden of ensuring that adequate funding, personnel and working modalities are in place to ensure prioritization and implementation.
 
 The plan as a Statement does not attempt to present a detailed and full blown quantified blueprint for action. But it does represent an attempt to lay a distinct path (goals and activities with financial implications) for the five sub-sectors (primary, secondary, technical and vocational training, teacher education and higher education). Although the three other areas, namely Early Childhood Development, Out-of-School Youth and Adult Literacy, have their precise statements (goals, activities and detailed financial implications) in the strategic plans, this sector plan provides a distinct overview of such planning and its financial implication. It will be important, that both the content of this Statement is respected in the action taken by all agencies of Government, cooperating partners and any other stakeholder, and that the NESP is subject to regular and comprehensive review and revision. The NESP will be subject to review on an annual basis through the Joint Sector Review.
 
@@ -292,7 +332,7 @@ Implementation of the NESP will be supported by capacity and systems development
 
 The beginning of education planning in Malawi dates back to 1964, at independence, when the Government of Malawi contacted the American Council of Education to conduct a survey and thereafter advance approaches (plans) for attaining certain targets besides stating financial commitments and new projects. The survey's main objective was to determine Malawi's education needs for social and economic progress. The survey, which assessed all levels of formal education, influenced the development of Malawi from 1964 until 1972 and subsequent planning exercises up to 1994.
 
-The first formal education plan (1973 - 1980) was intended to provide guidelines for education development on primary, secondary and teacher education although an addendum on technical and vocational training came forth in 1976. Despite not incorporating all sub sectors of the formal education system it provided the first real attempt at planning for the evolution of education system since the introduction of formal education in Malawi during the last quarter of the 19 th Century. Among other objectives, this plan aimed at:
+The first formal education plan (1973 - 1980) was intended to provide guidelines for education development on primary, secondary and teacher education although an addendum on technical and vocational training came forth in 1976. Despite not incorporating all sub sectors of the formal education system it provided the first real attempt at planning for the evolution of education system since the introduction of formal education in Malawi during the last quarter of the 19th Century. Among other objectives, this plan aimed at:
 
 - Basing educational development, in particular post - primary education, on the needs of labour market,
 
@@ -388,11 +428,11 @@ It is important to note that implementation will be determined by inter-linkages
 
 Not withstanding the current understanding of basic education to imply only primary education within MoEST and Malawi, globally basic education is for the age range 0 to 16 year olds and it includes pre-school (Early Childhood Development), adult literacy as well as out-of-school youth. Pre-School is for five (5) year olds and below. Primary education is for six (6) to thirteen (13) year olds and it has eight standards. Out-of-school youth education and adult literacy is for those aged fifteen (15) years and above; however, in practice out-of-school youth includes children who could be under primary school. In essence basic education should include the lower level of secondary education in terms of inclusion of 15 and 16 year olds although in this document such an age grouping is under secondary education (Section 4.2).
 
-Pre-school and adult literacy falls under the responsibility of the Ministry of Women and Child Development. Primary education is under the Ministry of Education, Science and Technology. Outof-school youth education falls under the Ministry of Youth Development and Sports.
+Pre-school and adult literacy falls under the responsibility of the Ministry of Women and Child Development. Primary education is under the Ministry of Education, Science and Technology. Out-of-school youth education falls under the Ministry of Youth Development and Sports.
 
 #### 4.1.1 EARLY CHILDHOOD DEVELOPMENT
 
-The provision of Early Childhood Development (ECD) is an important pillar to Education for All. There are 6,277 Early Childhood Development (ECD) centres as pre-schools. Only 30 percent of targeted pre-school children attend ECD centres. The majority of these centres are concentrated in urban and semi-urban areas. The major challenges facing the Early Childhood Development subsector include:
+The provision of Early Childhood Development (ECD) is an important pillar to Education for All. There are 6,277 Early Childhood Development (ECD) centres as pre-schools. Only 30 percent of targeted pre-school children attend ECD centres. The majority of these centres are concentrated in urban and semi-urban areas. The major challenges facing the Early Childhood Development sub-sector include:
 
 - Lack of systematic monitoring and evaluation including Information Management System (IMS) and standard monitoring and evaluation tools,
 
@@ -732,7 +772,7 @@ In addition to the fast-track programme, the following guiding principles are cr
 
 - Grants to schools for the support of orphans. Starting with the support of 20% of schools in 2009/10 to 100% of schools by 2013/14
 
-- Support to girls in isolated areas for Standards 6, 7 and 8 in term s of monetary incentives starting in 2009/10
+- Support to girls in isolated areas for Standards 6, 7 and 8 in terms of monetary incentives starting in 2009/10
 
 - Establishment of mother groups in all schools to support girl education in primary schools by 2017/18.
 
@@ -756,11 +796,13 @@ In addition to the fast-track programme, the following guiding principles are cr
 
 Table 1 below shows the changes projected in Primary Education, including enrolment projections, projections of numbers of qualified teachers who will be available, and targets for enrolment, repetition and promotion rates. It is asssumed that the enrolment projects will improve hand in hand with literacy and numeracy rates. Furthermore the end of cycle pass rate will at least be above 80 percent by 2017.
 
+Table 1: Primary Education: Enrolment, Targets, Teachers, Classrooms
+
 All Primary Schools | 2006 | 2007 | 2008 | 2012 | 2017
 --- | --- | --- | --- | --- | ---
 Enrolment, Total | 3,280,714 | 3,306,926 | 3,396,373 | 3,738,709 | 3,744,402
 GER | 117.2 | 115.0 | 115.1 | 115.9 | 106.1
-Female Enrolment, %of Total | 50.0% | 50.0% | 50.0% | 50.0% | 50.0%
+Female Enrolment, % of Total | 50.0% | 50.0% | 50.0% | 50.0% | 50.0%
 Female Enrolment, %, Standards 1-4 | 50.6% | 50.6% | 50.5% | 50.2% | 50.0%
 Female Enrolment, %, Standards 5-8 | 48.6% | 48.6% | 48.7% | 49.5% | 50.0%
 Enrolment Standard 1 | 886,512 | 846,934 | 804,995 | 629,553 | 531,879
@@ -769,24 +811,22 @@ Enrolment Standard 5 | 315,596 | 329,438 | 349,421 | 464,061 | 454,811
 GER Standard 5 | 91.7 | 93.2 | 96.2 | 116.9 | 104.8
 Enrolment Standard 8 | 158,192 | 166,170 | 180,223 | 284,559 | 399,562
 GER Standard 8 | 51.4 | 52.6 | 55.5 | 80.2 | 103.0
-Promotion Standard 1 | 51.9 | 80.0 | 90.0
-Repetition Standard 1 | 23.4 | 15.0 | 5.0
-Promotion Standard 5 | 68.6 | 80.0 | 90.0
-Repetition Standard 5 | 16.8 | 15.0 | 5.0
-Private School %of Enrolment | 1.2% | 1.3% | 1.4% | 2.0% | 5.0%
-
-Table 1: Primary Education: Enrolment, Targets, Teachers, Classrooms
+Promotion Standard 1 | 51.9 |  |  | 80.0 | 90.0
+Repetition Standard 1 | 23.4 |  |  | 15.0 | 5.0
+Promotion Standard 5 | 68.6 |  |  | 80.0 | 90.0
+Repetition Standard 5 | 16.8 |  |  | 15.0 | 5.0
+Private School % of Enrolment | 1.2% | 1.3% | 1.4% | 2.0% | 5.0%
 
 Government-Supported Schools | 2006 | 2007 | 2008 | 2012 | 2017
 --- | --- | --- | --- | --- | ---
 Qualified Teachers | 38,463 | 37,120 | 37,500 | 48,870 | 61,990
-Distance Education Trainee | 4,000 | 9,000 | -
+Distance Education Trainee |  |  | 4,000 | 9,000 | -
 Other Teachers | 3,894 | 3,492 | 3,500 | 880 | -
 Total Teachers | 42,357 | 40,612 | 45,000 | 58,750 | 61,990
 Pupil-Teacher Ratio | 76.6 | 80.4 | 74.4 | 62.4 | 57.4
 Number Classrooms | 35,729 | 36,959 | 39,889 | 46,096 | 62,667
 Pupil-Classroom Ratio | 91 | 88 | 88 | 79 | 57
-Proportion Classes Double Shift | 15% | 16% | 20% | 15%
+Proportion Classes Double Shift |  | 15% | 16% | 20% | 15%
 
 Source: Ministry Education Projections
 
@@ -924,6 +964,8 @@ Table 2 below shows the changes projected in Secondary Education, including enro
 
 [[START OF PAGE 25]]
 
+Table 2. Secondary Education: Enrolment, Targets, Teachers, Classrooms
+
 All Secondary (Public, Private, Open) | 2006 | 2007 | 2008 | 2012 | 2017
 --- | --- | --- | --- | --- | ---
 Total Enrolment | 218,310 | 210,325 | 215,613 | 316,019 | 486,706
@@ -932,15 +974,13 @@ Enrolment Government-Supported Secondary Schools (excluding Open) | 161,874 | 15
 Enrolment Open Secondary Schools | 4,433 | 6,939 | 7,546 | 18,961 | 34,069
 Enrolment Government-Supported Secondary Schools (including Open) | 166,307 | 161,575 | 163,314 | 221,214 | 326,093
 Enrolment Private Secondary Schools | 52,003 | 48,750 | 52,299 | 94,806 | 160,613
-Government-Supported Secondary Schools (excluding Open)
+Government-Supported Secondary Schools (excluding Open) |  |  |  |  | 
 Total Teachers Required | 7,633 | 7,475 | 6,615 | 5,779 | 8,344
 Qualified Teachers | 2,655 | 2,872 | 3,050 | 5,056 | 8,344
-Unqualified Teachers | 4,978 | 4,835 | 3,565 | 723
+Unqualified Teachers | 4,978 | 4,835 | 3,565 | 723 |
 Teachers Open Secondary Schools | 348 | 551 | 539 | 1,053 | 1,703
 Total Classrooms Gov't-Supported | 3,664 | 3,754 | 3,818 | 4,597 | 6,348
 Classrooms Using Double-Shift | 1% | 1% | 2% | 10% | 15%
-
-Table 2. Secondary Education: Enrolment, Targets, Teachers, Classrooms
 
 Source: Ministry Education Projections
 
@@ -1458,13 +1498,14 @@ Programme Objectives: The expected outcome of producing each programme's outputs
 Outputs: The direct measurable results (goods and services) of the programme which are largely under programme management's control. | Measures of the quantity and quality of outputs and the timing of their delivery. Used during monitoring and review. | Sources of information and methods used to collect and report it. | Assumptions concerning the output/ programme objective linkage.
 Activities: The tasks carried out to implement the project and deliver the identified outputs. | Implementation/work programme targets. Used during monitoring. | Sources of information and methods used to collect and report it. | Assumptions concerning the activity/ output linkage.
 
-To strengthen implementation, monitoring and evaluation, beneficiary communities will have to be involved in most if not all activities of realising the NESP. Education districts and the Civil Society Organizations shall, therefore, mount capacity building exercises for communities to get involved in input, processes, output, outcomes and impact of NESP at both the local and national level. Further, the existing education sub sectors implantation and monitoring and evaluation systems will be enhanced to allow for efficient, effective, consistent and quality tracking of expenditures.
+To strengthen implementation, monitoring and evaluation, beneficiary communities will have to be involved in most if not all activities of realising the NESP. Education districts and the Civil Society Organizations shall, therefore, mount capacity building exercises for communities to get involved in
 
 30
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+input, processes, output, outcomes and impact of NESP at both the local and national level. Further, the existing education sub sectors implantation and monitoring and evaluation systems will be enhanced to allow for efficient, effective, consistent and quality tracking of expenditures.
 
 ## 7.0 FINANCIAL IMPLICATIONS
 
@@ -1478,7 +1519,7 @@ The projected increase in primary education spending reflects the costs of the f
 
 - Salaries and allowances of increasing numbers of qualified teachers as the graduates of teacher training institutions are recruited,
 
-- Salaries and allowances of unqualified trainee teachers (volunteer teachers) who will be studying through distance education. Distance education trainee teachers will fill the gap remaining between the numbers of teachers needed and the numbers of qualified teachers available, after replacing attrition among existing teachers, allowing for increased doubleshift and multi-shift working, and a progressive reduction in the pupil-teacher ratio to reach 60:1 by 2013,
+- Salaries and allowances of unqualified trainee teachers (volunteer teachers) who will be studying through distance education. Distance education trainee teachers will fill the gap remaining between the numbers of teachers needed and the numbers of qualified teachers available, after replacing attrition among existing teachers, allowing for increased double-shift and multi-shift working, and a progressive reduction in the pupil-teacher ratio to reach 60:1 by 2013,
 
 - Books, and teaching-learning materials (especially exercise books),
 
@@ -1527,6 +1568,7 @@ Administration and other costs (for example, costs of subvented organisations su
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
+Table 3: Recurrent Costs of Education Programmes, Million MK, Constant 2007 Prices
 
 RECURRENT COSTS | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -1537,8 +1579,8 @@ of which, Teacher PE | 6,909.37 | 7,207.53 | 7,651.95 | 8,070.06 | 8,659.21 | 9,
 Books and Materials | 3,920.32 | 4,168.34 | 4,354.10 | 4,432.99 | 3,829.11 | 4,554.01 | 4,763.54 | 4,013.66 | 4,650.55 | 4,749.70 | 3,997.58
 School Feeding & Nutrition | 2,460.24 | 2,590.20 | 2,717.60 | 2,845.00 | 2,945.77 | 2,974.19 | 2,993.06 | 3,002.48 | 3,001.52 | 2,991.80 | 2,976.47
 Secondary | 3,289.26 | 4,308.57 | 4,361.89 | 4,605.69 | 6,290.85 | 5,713.44 | 6,243.62 | 8,507.08 | 7,776.45 | 8,227.31 | 10,655.54
-of which, Teacher PE 2,557.70 | 2,258.58 | 2,154.35 | 2,113.80 | 2,134.31 | 2,166.29 | 2,363.40 | 2,565.83 | 2,777.61 | 2,962.94 | 3,097.40
-Books and Materials - | 1,148.79 | 1,170.29 | 987.29 | 2,471.71 | 1,587.33 | 1,478.28 | 3,395.87 | 2,159.71 | 1,991.60 | 4,170.09
+of which, Teacher PE | 2,557.70 | 2,258.58 | 2,154.35 | 2,113.80 | 2,134.31 | 2,166.29 | 2,363.40 | 2,565.83 | 2,777.61 | 2,962.94 | 3,097.40
+Books and Materials | - | 1,148.79 | 1,170.29 | 987.29 | 2,471.71 | 1,587.33 | 1,478.28 | 3,395.87 | 2,159.71 | 1,991.60 | 4,170.09
 Primary Teacher Education | 1,040.59 | 1,397.30 | 1,612.09 | 1,643.81 | 1,653.44 | 1,756.47 | 1,894.02 | 1,931.58 | 1,878.05 | 1,838.84 | 1,842.11
 Secondary Teacher Educ. | 176.55 | 225.53 | 285.50 | 294.96 | 279.41 | 295.87 | 288.82 | 304.78 | 321.23 | 337.69 | 354.14
 TVT | 175.35 | 241.50 | 240.20 | 329.85 | 343.99 | 835.31 | 1,083.37 | 1,966.63 | 2,003.96 | 2,046.21 | 2,072.93
@@ -1556,14 +1598,12 @@ TVT | 0.6% | 0.7% | 0.8% | 1.0% | 1.0% | 2.2% | 2.6% | 4.4% | 4.4% | 4.3% | 4.2%
 Universities, Student Loans | 20.8% | 14.7% | 13.9% | 13.1% | 12.2% | 11.9% | 11.5% | 10.9% | 11.0% | 10.9% | 10.7%
 Administration | 7.5% | 7.2% | 7.5% | 7.9% | 7.6% | 7.4% | 7.6% | 7.2% | 7.7% | 7.8% | 7.6%
 Total | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
-
-Table 3: Recurrent Costs of Education Programmes, Million MK, Constant 2007 Prices
-
 33
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+Table 4: Investment Costs of Education Programmes, Million MK, Constant 2007 Prices
 
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -1574,9 +1614,6 @@ TVT | - | 35.23 | 142.80 | 136.15 | 430.50 | 124.50 | 148.55 | 130.49 | 144.66 |
 Universities, Student Loans | - | 944.96 | 1,425.87 | 1,425.87 | 1,425.87 | 1,214.63 | 1,238.92 | 1,263.70 | 1,288.98 | 1,314.75 | 1,341.05
 Administration | - | 715.20 | 430.20 | 106.70 | 77.70 | 77.20 | 57.90 | 57.90 | 57.90 | - | -
 TOTAL DEVELOPMENT | 4,842.39 | 16,480.42 | 16,911.84 | 18,218.05 | 18,746.91 | 17,706.67 | 18,276.62 | 17,392.61 | 17,051.79 | 16,443.90 | 15,737.46
-
-Table 4: Investment Costs of Education Programmes, Million MK, Constant 2007 Prices
-
 Notes:
 
 > 1. University investment costs included in grant funding under recurrent expenditure.
@@ -1610,8 +1647,8 @@ Source for Tables 7.1 to 7.3: Ministry of Education projections
 
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Recurrent Cost Education as %GDP | 6.2% | 5.6% | 5.6% | 5.7% | 5.7% | 5.7% | 5.9% | 5.6% | 5.5% | 5.4% | 6.2%
-Total Cost Education as% GDP | 9.3% | 8.6% | 8.6% | 8.6% | 8.4% | 8.3% | 8.1% | 7.7% | 7.4% | 7.2% | 9.3%
+Recurrent Cost Education as % GDP | 6.2% | 5.6% | 5.6% | 5.7% | 5.7% | 5.7% | 5.9% | 5.6% | 5.5% | 5.4% | 6.2%
+Total Cost Education as % GDP | 9.3% | 8.6% | 8.6% | 8.6% | 8.4% | 8.3% | 8.1% | 7.7% | 7.4% | 7.2% | 9.3%
 
 Source: GDP - Ministry of Finance/IMF Report, Ministry of Education projections
 
@@ -1621,26 +1658,38 @@ Source: GDP - Ministry of Finance/IMF Report, Ministry of Education projections
 
 [[START OF PAGE 42]]
 
-Table 6: Projected Financing Projections: Fiscal Years | 2006/07 491,058.3 | 2007/08 526,250.0 | 2008/09 560,982.5 | 2009/10 | 2010/11 598,568.3 636,876.7 | 2011/12 676,363.1 | 2012/13 718,297.6 | 2013/14 762,832.0 | 2014/15 810,127.6 | 2015/16 860,355.5 | 2016/17 913,697.6 | 2017/18 970,346.8
+Table 6: Projected Financing for Education Spending
+
+Projections: Fiscal Years | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-GDP, 2007/08 Prices
+GDP, 2007/08 Prices | 491,058.3 | 526,250.0 | 560,982.5 | 598,568.3 | 636,876.7 | 676,363.1 | 718,297.6 | 762,832.0 | 810,127.6 | 860,355.5 | 913,697.6 | 970,346.8
 Growth in GDP, constant prices | 7.6% | 7.3% | 6.6% | 6.7% | 6.4% | 6.2% | 6.2% | 6.2% | 6.2% | 6.2% | 6.2% | 6.2%
-Government current expenditure net of interest repayment, %of GDP (IMF to 2009/10) | 17.9% | 18.9% | 21.6% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4%
+Government current expenditure net of interest repayment, % of GDP (IMF to 2009/10) | 17.9% | 18.9% | 21.6% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4% | 18.4%
 Government current expenditure net of interest repayment, MK million, 2007/08 prices | 87,899.4 | 99,461.3 | 121,172.2 | 110,136.6 | 117,185.3 | 124,450.8 | 132,166.8 | 140,361.1 | 149,063.5 | 158,305.4 | 168,120.3 | 178,543.8
-Government recurrent education expenditure, own resources, %of disposable recurrent spending | 20.0% | 20.8% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0%
+Government recurrent education expenditure, own resources, % of disposable recurrent spending | 20.0% | 20.8% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0% | 20.0%
 Government recurrent expenditure on education, MK million | 17,549.4 | 20,680.9 | 24,234.4 | 22,027.3 | 23,437.1 | 24,890.2 | 26,433.4 | 28,072.2 | 29,812.7 | 31,661.1 | 33,624.1 | 35,708.8
 Government capital expenditure on education, own resources | 485.0 | 302.0 | 321.9 | 343.5 | 365.5 | 388.1 | 412.2 | 437.8 | 464.9 | 493.7 | 524.3 | 556.9
+
 Sources: Ministry of Finance/IMF data, projected growth rates, proportions of expenditure; Ministry of Education projections.
+
 Calendar Years | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
-Government recurrent education expenditure, MKmillion | 19,115.2 | 22,457.7 | 23,130.9 | 22,732.2 | 24,163.6 | 25,661.8 | 27,252.8 | 28,942.5 | 30,736.9 | 32,642.6 | 34,666.4
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Government recurrent education expenditure, MK million | 19,115.2 | 22,457.7 | 23,130.9 | 22,732.2 | 24,163.6 | 25,661.8 | 27,252.8 | 28,942.5 | 30,736.9 | 32,642.6 | 34,666.4
 Government education capital expenditure, own resources | 393.5 | 312.0 | 332.7 | 354.5 | 376.8 | 400.2 | 425.0 | 451.3 | 479.3 | 509.0 | 540.6
-Donor estimated disbursements | 8,302.7 | 10,174.8
+Donor estimated disbursements | 8,302.7 | 10,174.8 |  |  |  |  |  |  |  |  | 
 Estimated Funding Available | 27,811.4 | 32,944.5 | 23,463.6 | 23,086.7 | 24,540.4 | 26,061.9 | 27,677.8 | 29,393.8 | 31,216.2 | 33,151.6 | 35,207.0
+
 Projected Expenditure
 Recurrent Programmes | 27,324.9 | 32,853.9 | 31,711.4 | 33,553.5 | 36,149.1 | 38,847.0 | 41,350.4 | 44,741.3 | 45,673.0 | 47,375.2 | 49,691.7
 Capital Cost | 4,842.4 | 16,480.4 | 16,911.8 | 18,218.1 | 18,746.9 | 17,706.7 | 18,276.6 | 17,392.6 | 17,051.8 | 16,443.9 | 15,737.5
-Total Programme Cost | 32,167.3 | 49,334.4 16,389.9 | 48,623.2 25,159.6 | 51,771.6 28,684.9 | 54,896.0 30,355.6 | 56,553.7 30,491.7 | 59,627.0 31,949.2 220.3 | 62,134.0 32,740.2 | 62,724.7 31,508.5 217.3 | 63,819.1 30,667.5 | 65,429.2 30,222.2 208.4
-Funding Gap, MKMillion Funding Gap, US$ Million 113.0 173.5 197.8 209.3 210.3 225.8 211.5 "Additional" Funding Gap MKMns 16,389.9 14,984.84 18,510.11 20,180.75 20,316.94 21,774.45 22,565.36 21,333.74 20,492.72 20,047.37 "Additional" Funding Gap US$ Mns 113.0 103.3 127.7 139.2 140.1 150.2 155.6 147.1 141.3 138.3 Notes: Calendar year projections of fiscal data are two-year averages of fiscal year projections.
+Total Programme Cost | 32,167.3 | 49,334.4 | 48,623.2 | 51,771.6 | 54,896.0 | 56,553.7 | 59,627.0 | 62,134.0 | 62,724.7 | 63,819.1 | 65,429.2
+Funding Gap, MK Million |  | 16,389.9 | 25,159.6 | 28,684.9 | 30,355.6 | 30,491.7 | 31,949.2 | 32,740.2 | 31,508.5 | 30,667.5 | 30,222.2
+Funding Gap, US$ Million |  | 113.0 | 173.5 | 197.8 | 209.3 | 210.3 | 220.3 | 225.8 | 217.3 | 211.5 | 208.4
+"Additional" Funding Gap MK Mns |  | 16,389.9 | 14,984.84 | 18,510.11 | 20,180.75 | 20,316.94 | 21,774.45 | 22,565.36 | 21,333.74 | 20,492.72 | 20,047.37
+"Additional" Funding Gap US$ Mns |  | 113.0 | 103.3 | 127.7 | 139.2 | 140.1 | 150.2 | 155.6 | 147.1 | 141.3 | 138.3
+
+Notes: Calendar year projections of fiscal data are two-year averages of fiscal year projections.
+"Additional Funding Gap" assumes donor contributions remain at 2008 level, MK8,300 million (US$57.0 mn) each year.
 
 35
 
@@ -1696,28 +1745,29 @@ If on the other hand greater proportions of GDP or government domestic resource 
 
 [[START OF PAGE 45]]
 
+## Appendix 1: Summary for Basic Education Development Plan (Primary)
+
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 EARLY CHILDHOOD DEVELOPMENT
-Early Childhood Development 1153.7 | 1313.4 | 1613.2 | 1838.1 | 2187.3 | 2517.9 | 2762.8 | 2964.9 | 3262.0 | 3497.7 | 3831.2
-Complementary Basic Education Programme | 53.3 | 156.0 | 293.1 | 361.7 | 449.3 | 472.2 | 495.0 | 495.0 | 495.0 | 495.0
+Early Childhood Development | 1153.7 | 1313.4 | 1613.2 | 1838.1 | 2187.3 | 2517.9 | 2762.8 | 2964.9 | 3262.0 | 3497.7 | 3831.2
+NON-FORMAL BASIC
+Complementary Basic Education Programme | - | 53.3 | 156.0 | 293.1 | 361.7 | 449.3 | 472.2 | 495.0 | 495.0 | 495.0 | 495.0
 PRIMARY EDUCATION
 Primary Teachers total Remuneration | 6,909.37 | 7,207.53 | 7,651.95 | 8,070.06 | 8,659.21 | 9,286.94 | 9,862.59 | 10,124.12 | 10,441.76 | 10,721.33 | 10,817.51
-Of which - Qualified | 6,909.37 | 6,967.53 | 7,171.95 | 7,364.11 | 8,028.35 | 8,741.96 | 9,413.47 | 9,846.10 | 10,304.82 | 10,705.12 | 10,788.87
-- Distance Education Trainees - | 240.00 | 480.00 | 705.95 | 630.86 | 544.98 | 449.12 | 278.01 | 136.94 | 16.21 | 28.64
-Hardship Fund for Primary | - | 184.56 | 459.20 | 555.51 | 680.15 | 821.18 | 899.16 | 1,093.56 | 1,135.47 | 1,172.28 | 1,183.75
-Teachers in Rural Areas Nutrition for HIV+ive Teachers | 90.00 | 120.00 | 153.05 | 186.09 | 219.14 | 252.18 | 285.23 | 315.23 | 367.37 | 375.23 | 405.23
+Of which - Qualified Teachers | 6,909.37 | 6,967.53 | 7,171.95 | 7,364.11 | 8,028.35 | 8,741.96 | 9,413.47 | 9,846.10 | 10,304.82 | 10,705.12 | 10,788.87
+- Distance Education Trainees | - | 240.00 | 480.00 | 705.95 | 630.86 | 544.98 | 449.12 | 278.01 | 136.94 | 16.21 | 28.64
+Hardship Fund for Primary Teachers in Rural Areas | - | 184.56 | 459.20 | 555.51 | 680.15 | 821.18 | 899.16 | 1,093.56 | 1,135.47 | 1,172.28 | 1,183.75
+Nutrition for HIV+ive Teachers | 90.00 | 120.00 | 153.05 | 186.09 | 219.14 | 252.18 | 285.23 | 315.23 | 367.37 | 375.23 | 405.23
 Books (see Note) | 1,719.87 | 1,915.83 | 2,064.40 | 2,104.08 | 1,467.00 | 2,164.28 | 2,347.90 | 1,585.42 | 2,226.59 | 2,345.27 | 1,621.99
 Teaching & Learning Materials | 2,200.45 | 2,230.38 | 2,267.56 | 2,306.77 | 2,339.97 | 2,367.59 | 2,393.50 | 2,406.10 | 2,401.82 | 2,382.29 | 2,353.45
 School Feeding | 1,137.47 | 1,227.31 | 1,317.14 | 1,406.98 | 1,474.36 | 1,474.36 | 1,474.36 | 1,474.36 | 1,474.36 | 1,474.36 | 1,474.36
 Disease Prevention; Micronutrient Supplements | 1,322.77 | 1,362.90 | 1,400.46 | 1,438.02 | 1,471.41 | 1,499.83 | 1,518.70 | 1,528.12 | 1,527.16 | 1,517.44 | 1,502.11
-Set up and support 'Mother Groups' for Girls' Enrolment | - | 29.58 | 59.74 | 90.48 | 121.80 | 153.70 | 155.15 | 156.60 | 158.05 | 158.05 | 158.05
+Set up and support ‘Mother Groups’ for Girls' Enrolment | - | 29.58 | 59.74 | 90.48 | 121.80 | 153.70 | 155.15 | 156.60 | 158.05 | 158.05 | 158.05
 Grants to support Girls in Isolated Areas, Standards 5-8 | - | 48.00 | 97.50 | 147.00 | 330.00 | 360.00 | 390.00 | 397.50 | 450.00 | 457.50 | 465.00
 Orphan Support - Grants to Schools | - | 29.58 | 59.74 | 90.48 | 121.80 | 153.70 | 155.15 | 156.60 | 158.05 | 158.05 | 158.05
 Grants to Schools: Direct Support | - | 153.00 | 154.50 | 156.00 | 157.50 | 159.00 | 160.50 | 162.00 | 163.50 | 163.50 | 163.50
 Grants to Schools: Routine Maintenance | - | 342.72 | 346.08 | 349.44 | 352.80 | 356.16 | 359.52 | 362.88 | 366.24 | 366.24 | 366.24
-
-## Appendix 1: Summary for Basic Education Development Plan (Primary)
 
 38
 
@@ -1725,11 +1775,10 @@ Grants to Schools: Routine Maintenance | - | 342.72 | 346.08 | 349.44 | 352.80 |
 
 [[START OF PAGE 46]]
 
-Interactive Radio Instructions (IRI) programme Interactive Video (EuroTalk | 59.00 | 12.00 | 18.00 | 26.00 | 34.00 | 43.00 | 53.00 | 63.00 | 66.00 | 69.00 | 73.00
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Ltd) | - | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13
-Inspectors, Teacher Support | 17.67 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58
-Staff: Training + Travel costs Assessment: SACMEQ | 29.00 | 21.00 | - | - | 25.00 | 25.00 | - | - | 25.00 | 25.00 | -
+Interactive Radio Instructions (IRI) programme | 59.00 | 12.00 | 18.00 | 26.00 | 34.00 | 43.00 | 53.00 | 63.00 | 66.00 | 69.00 | 73.00
+Interactive Video (EuroTalk Ltd) | - | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13 | 28.13
+Inspectors, Teacher Support Staff: Training + Travel costs | 17.67 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58 | 51.58
+Assessment: SACMEQ | 29.00 | 21.00 | - | - | 25.00 | 25.00 | - | - | 25.00 | 25.00 | -
 Special Needs Issues | - | 128.06 | 124.87 | 85.79 | 85.79 | 85.79 | 85.79 | 85.79 | 80.29 | 80.29 | 80.29
 
 39
@@ -1738,24 +1787,28 @@ Special Needs Issues | - | 128.06 | 124.87 | 85.79 | 85.79 | 85.79 | 85.79 | 85.
 
 [[START OF PAGE 47]]
 
-2007 | 2008 | 2009 | 2010 | 2011 | 2012 2013 | 2014 | 2015 | 2016 | 2017
+2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Construction Programmes
-Rehabilitate Schools 600.00 | 1,125.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00
-Expand Existing Schools and Build New 2,385.10 | 3,450.00 | 4,600.00 | 5,060.00 | 5,520.00 | 5,520.00 | 5,520.00 | 5,060.00 | 4,600.00 | 4,600.00 | 4,600.00
-Grant to Communities for Shelters for Primary Classes 870.89 | 1,478.18 | 355.30 | 241.87 | 128.97 | - | - | - | - | - | -
-Other Construction in Existing Schools (inc. Water, Latrines) - | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00
-Supply Classroom Furniture to Existing and New Schools 311.10 | 1,392.45 | 1,542.45 | 1,602.45 | 1,662.45 | 1,662.45 | 1,662.45 | 1,602.45 | 1,542.45 | 1,542.45 | 1,542.45
-Construct Teachers' Houses - | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00
-Construct Teachers' Houses (Grants to Communities) - | 75.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00
-Early Childhood Development structures (Classrooms and ECD Resource Centres) - | - | 296.20 | 153.14 | 319.79 | 178.62 | 347.31 | 208.35 | 379.42 | 243.02 | 262.46
-Special Needs Buildings - | 185 | 175 | 175 | 175 | 175 | 175 | 175 | 175 | 175 | 175
-Total Primary Construction, Furniture, Equipment 4,167.09 | 10,765.63 | 11,392.75 | 11,799.32 | 12,206.42 | 12,077.45 | 12,077.45 | 11,557.45 | 11,037.45 | 11,037.45 | 11,037.45
+Rehabilitate Schools | 600.00 | 1,125.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00 | 1,500.00
+Expand Existing Schools and Build New | 2,385.10 | 3,450.00 | 4,600.00 | 5,060.00 | 5,520.00 | 5,520.00 | 5,520.00 | 5,060.00 | 4,600.00 | 4,600.00 | 4,600.00
+Grant to Communities for Shelters for Primary Classes | 870.89 | 1,478.18 | 355.30 | 241.87 | 128.97 | - | - | - | - | - | -
+Other Construction in Existing Schools (inc. Water, Latrines) | - | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00 | 245.00
+Supply Classroom Furniture to Existing and New Schools | 311.10 | 1,392.45 | 1,542.45 | 1,602.45 | 1,662.45 | 1,662.45 | 1,662.45 | 1,602.45 | 1,542.45 | 1,542.45 | 1,542.45
+Construct Teachers' Houses | - | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00 | 3,000.00
+Construct Teachers' Houses (Grants to Communities) | - | 75.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00
+Early Childhood Development structures (Classrooms and ECD Resource Centres) | - | - | 296.20 | 153.14 | 319.79 | 178.62 | 347.31 | 208.35 | 379.42 | 243.02 | 262.46
+Special Needs Buildings | - | 185 | 175 | 175 | 175 | 175 | 175 | 175 | 175 | 175 | 175
+Total Primary Construction, Furniture, Equipment | 4,167.09 | 10,765.63 | 11,392.75 | 11,799.32 | 12,206.42 | 12,077.45 | 12,077.45 | 11,557.45 | 11,037.45 | 11,037.45 | 11,037.45
 
 ### Other Programmes - Cost included in Overall Administration and Other Costs:
 
-Research reasons for internal inefficiency in primary Research & develop new teaching & assessment methods & policies Coordinate literacy & education activities for adults Promote private sponsorship of schools; twinning and linking of schools Mobilise communities to participate in 'Whole-School Development' and management Monitoring, evaluation and EMIS, including introducing District EMIS
-
+Research reasons for internal inefficiency in primary
+Research & develop new teaching & assessment methods & policies
+Coordinate literacy & education activities for adults
+Promote private sponsorship of schools; twinning and linking of schools
+Mobilise communities to participate in “Whole-School Development” and management
+Monitoring, evaluation and EMIS, including introducing District EMIS
 Coordinate & enforce implementation of official education policies
 
 ### Notes to Table
@@ -1774,29 +1827,27 @@ Training and introduction of new programmes (such as HIV awareness education, gu
 
 [[START OF PAGE 48]]
 
-ARV drugs for HIV-positive teachers provided under national programme - costs not specific to education sector School administration block construction included in school expansion and rehabilitation
+ARV drugs for HIV-positive teachers provided under national programme - costs not specific to education sector
+School administration block construction included in school expansion and rehabilitation
+
+## Appendix 2: Summary for Secondary Education Development Plan
 
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Total Teacher | 2,557.70 | 2,258.58 | 2,154.35 | 2,113.80 | 2,134.31 | 2,166.29 | 2,363.40 | 2,565.83 | 2,777.61 | 2,962.94 | 3,097.40
-Remuneration
-Of which - Qualified | 1,148.80 | 1,206.60 | 1,307.65 | 1,447.76 | 1,639.88 | 1,858.70 | 2,066.45 | 2,288.44 | 2,523.24 | 2,744.06 | 2,927.05
-Teachers, Teachers with Degrees Unqualified | Teachers, 1,353.80 | 998.09 | 780.02 | 589.79 | 405.97 | 202.25 | 182.26 | 153.09 | 113.62 | 62.24 | -
-Open School Teachers55.10 | 53.90 | 66.68 | 76.26 | 88.46 | 105.34 | 114.69 | 124.30 | 140.75 | 156.63 | 170.35
+Total Teacher Remuneration | 2,557.70 | 2,258.58 | 2,154.35 | 2,113.80 | 2,134.31 | 2,166.29 | 2,363.40 | 2,565.83 | 2,777.61 | 2,962.94 | 3,097.40
+Of which - Qualified Teachers, Teachers with Degrees | 1,148.80 | 1,206.60 | 1,307.65 | 1,447.76 | 1,639.88 | 1,858.70 | 2,066.45 | 2,288.44 | 2,523.24 | 2,744.06 | 2,927.05
+Unqualified Teachers, Primary Teachers in Secondary | 1,353.80 | 998.09 | 780.02 | 589.79 | 405.97 | 202.25 | 182.26 | 153.09 | 113.62 | 62.24 | -
+Open School Teachers | 55.10 | 53.90 | 66.68 | 76.26 | 88.46 | 105.34 | 114.69 | 124.30 | 140.75 | 156.63 | 170.35
 ORT Secondary Schools | 522.34 | 526.16 | 548.38 | 583.26 | 633.20 | 683.18 | 750.31 | 818.75 | 887.50 | 946.13 | 986.42
-Books and Teaching
-Materials | - | 1,148.79 | 1,170.29 | 987.29 | 2,471.71 | 1,587.33 | 1,478.28 | 3,395.87 | 2,159.71 | 1,991.60 | 4,170.09
+Books and Teaching Materials | - | 1,148.79 | 1,170.29 | 987.29 | 2,471.71 | 1,587.33 | 1,478.28 | 3,395.87 | 2,159.71 | 1,991.60 | 4,170.09
 Bursary for Gifted Students at Kamuzu Academy | 185.22 | 246.96 | 308.70 | 370.43 | 370.43 | 370.43 | 370.43 | 370.43 | 370.43 | 370.43 | 370.43
 Bursary for Needy Girl Students | - | 55.30 | 110.60 | 165.90 | 221.20 | 221.20 | 221.20 | 221.20 | 221.20 | 221.20 | 221.20
 Maintenance of Secondary Schools | 24.00 | 24.00 | 24.00 | 300.00 | 300.00 | 450.00 | 750.00 | 750.00 | 900.00 | 1,200.00 | 1,200.00
 Register, monitor and support Private and Open Distance Schools | - | - | - | 75.00 | 150.00 | 225.00 | 300.00 | 375.00 | 450.00 | 525.00 | 600.00
 Special Needs Issues | - | 48.78 | 45.59 | 10.00 | 10.00 | 10.00 | 10.00 | 10.00 | 10.00 | 10.00 | 10.00
 Total Construction, Equipment | 364.00 | 2,997.70 | 1,707.72 | 2,285.72 | 3,091.62 | 3,286.26 | 3,945.48 | 3,974.72 | 3,943.39 | 3,545.41 | 2,796.10
-Of which - Upgrade, | 174.0 | 645.5 | 913.5 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0
-Rehab. CDSS & other Gov't Supported Schools Construct Additional | - | 360.64 | 520.22 | 765.86 | 1,518.48 | 1,700.24 | 2,315.88 | 2,344.57 | 2,315.31 | 1,946.41 | 1,246.64
-Classrooms, Other School Buildings
-
-## Appendix 2: Summary for Secondary Education Development Plan
+Of which - Upgrade, Rehab. CDSS & other Gov't Supported Schools | 174.0 | 645.5 | 913.5 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0 | 1,227.0
+Construct Additional Classrooms, Other School Buildings | - | 360.64 | 520.22 | 765.86 | 1,518.48 | 1,700.24 | 2,315.88 | 2,344.57 | 2,315.31 | 1,946.41 | 1,246.64
 
 41
 
@@ -1804,12 +1855,10 @@ Classrooms, Other School Buildings
 
 [[START OF PAGE 49]]
 
-Construct Girls' Hostels in Secondary Schools 40.00 | 266.77 | - | - | - | - | - | - | - | - | -
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Supply Classroom Furniture - | 115.63 | 123.97 | 142.84 | 196.12 | 208.99 | 252.57 | 253.12 | 251.05 | 221.98 | 172.43
-Teacher Housing - 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00
-Rehabilitate and Build New
-Special Needs Buildings - | 12.00 | 12.00 | 12.00 | 12.00 | - | - | - | - | - | -
+Construct Girls' Hostels in Secondary Schools | 40.00 | 266.77 | - | - | - | - | - | - | - | - | -
+Supply Classroom Furniture | - | 115.63 | 123.97 | 142.84 | 196.12 | 208.99 | 252.57 | 253.12 | 251.05 | 221.98 | 172.43
+Teacher Housing - Rehabilitate and Build New | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00 | 150.00
+Special Needs Buildings | - | 12.00 | 12.00 | 12.00 | 12.00 | - | - | - | - | - | -
 
 ### Other Programmes - Cost included in Overall Administration and Other Costs:
 
@@ -1835,6 +1884,8 @@ Special Needs Buildings - | 12.00 | 12.00 | 12.00 | 12.00 | - | - | - | - | - | 
 
 [[START OF PAGE 50]]
 
+## Appendix 3: Summary for Teacher Education (Primary and Secondary)
+
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Distance Education for Primary Trainee Teachers | - | 31.60 | 191.50 | 286.48 | 208.07 | 184.46 | 155.30 | 68.80 | 36.06 | 4.27 | 7.54
@@ -1852,8 +1903,6 @@ Build New Primary TTCs | 136.30 | 343.70 | 748.30 | 999.15 | 683.00 | 348.00 | 2
 Other Construction in TTCs | 150.00 | 250.00 | 250.00 | 100.00 | - | - | - | - | - | - | -
 Rehabilitate TTCs | 25.00 | 25.00 | 25.00 | 25.00 | 25.00 | 25.00 | 25.00 | 25.00 | 25.00 | 25.00 | 25.00
 Special Needs Buildings | - | 206.00 | 306.00 | 1,000.00 | 300.00 | 200.00 | - | - | - | - | -
-
-## Appendix 3: Summary for Teacher Education (Primary and Secondary)
 
 ### Other Programmes - Cost included in Overall Administration and Other Costs
 
@@ -1881,8 +1930,8 @@ Special Needs Buildings | - | 206.00 | 306.00 | 1,000.00 | 300.00 | 200.00 | - |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Operations, Staff Remuneration Technical Colleges | 174.36 | 191.53 | 193.07 | 247.94 | 261.74 | 357.16 | 394.82 | 437.69 | 474.64 | 516.52 | 543.25
 Train TVT Teachers/Instructors, Technicians | 0.99 | 1.20 | 1.55 | 1.91 | 2.25 | 2.65 | 3.05 | 3.44 | 3.82 | 4.19 | 4.18
-Maintenance of Technical Colleges Upgrading of TEVETA equipment to | - | - | - | 70.00 | 70.00 | 70.00 | 80.00 | 80.00 | 80.00 | 80.00 | 80.00
-international standard | - | - | - | - | - | - | - | 840.00 | 840.00 | 840.00 | 840.00
+Maintenance of Technical Colleges | - | - | - | 70.00 | 70.00 | 70.00 | 80.00 | 80.00 | 80.00 | 80.00 | 80.00
+Upgrading of TEVETA equipment to international standard | - | - | - | - | - | - | - | 840.00 | 840.00 | 840.00 | 840.00
 Maintenance costs for running equipment at international standards | - | - | - | - | - | 395.50 | 395.50 | 395.50 | 395.50 | 395.50 | 395.50
 Grants to TEVETA Private Providers | - | - | - | - | - | - | 200.00 | 200.00 | 200.00 | 200.00 | 200.00
 Special Needs Issues | - | 48.8 | 45.6 | 10. 0 | 10.0 | 10.0 | 10.0 | 10.0 | 10.0 | 10.0 | 10.0
@@ -1914,11 +1963,15 @@ Special Needs Building | - | 6 | 6 | - | - | - | - | - | - | - | -
 
 [[START OF PAGE 52]]
 
+## Appendix 5: Summary for Higher Education and Administration Programmes
+
 Universities | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Subventions to Public Universities Of which Net Spending on Student Loans | 5,672.8 391.8 | 5,787.4 406.4 | 5,830.4 549.4 | 5,825.1 544.1 | 5,818.1 537.1 | 5,840.0 559.0 | 5,997.6 610.9 | 6,157.4 663.0 | 6,319.4 715.1 | 6,483.5 767.2 | 6,650.0 819.3
+Subventions to Public Universities | 5,672.8 | 5,787.4 | 5,830.4 | 5,825.1 | 5,818.1 | 5,840.0 | 5,997.6 | 6,157.4 | 6,319.4 | 6,483.5 | 6,650.0
+Of which Net Spending on Student Loans | 391.8 | 406.4 | 549.4 | 544.1 | 537.1 | 559.0 | 610.9 | 663.0 | 715.1 | 767.2 | 819.3
 Administration and Other
-Administration Recurrent Costs Administration Development Costs | 2,043.88 - | 2,373.70 715.20 | 2,383.17 430.20 | 2,641.72 106.70 | 2,731.56 77.70 | 2,885.71 77.20 | 3,157.53 57.90 | 3,223.57 57.90 | 3,495.53 57.90 | 3,705.35 - | 3,770.23 -
+Administration Recurrent Costs | 2,043.88 | 2,373.70 | 2,383.17 | 2,641.72 | 2,731.56 | 2,885.71 | 3,157.53 | 3,223.57 | 3,495.53 | 3,705.35 | 3,770.23
+Administration Development Costs | - | 715.20 | 430.20 | 106.70 | 77.70 | 77.20 | 57.90 | 57.90 | 57.90 | - | -
 Annex in Central Ministry | - | 500.0 | - | - | - | - | - | - | - | - | -
 Rehabilitation of Printing Press (MANEB) | - | - | 3.0 | 1.5 | 0.5 | - | - | - | - | - | -
 Extension of UNESCO Commission | - | 18.0 | - | - | - | - | - | - | - | - | -
@@ -1927,8 +1980,6 @@ Construction of Divisional Offices | - | 19.3 | 19.3 | 19.3 | 19.3 | 19.3 | - | 
 Construction of District Offices | - | 57.9 | 57.9 | 57.9 | 57.9 | 57.9 | 57.9 | 57.9 | 57.9 | - | -
 Construction of MANEB Offices | - | 100.0 | 100.0 | - | - | - | - | - | - | - | -
 Administration as % of Recurrent Education Costs | 7.5% | 8.0% | 7.5% | 7.9% | 7.6% | 7.4% | 7.6% | 7.2% | 7.7% | 7.8% | 7.6%
-
-## Appendix 5: Summary for Higher Education and Administration Programmes
 
 ### Notes
 
