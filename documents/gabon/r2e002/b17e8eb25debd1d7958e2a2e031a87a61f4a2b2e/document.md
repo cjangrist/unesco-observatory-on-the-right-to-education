@@ -1,8 +1,6 @@
 [[START OF PAGE 1]]
 
-1
-
-er FEVRIER 2011
+1er FEVRIER 2011
 
 CINQUANTE DEUXIEME     ANNEE - N°34                  PRIX: 2.000 Francs                                                              Dépôt légal 777
 
@@ -27,9 +25,7 @@ ____________________________ _____________________________
 
 [[START OF PAGE 2]]
 
-er FEVRIER 2011 - N°34
-
-86                                  JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE               1
+86                                  JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE               1er FEVRIER 2011 - N°34
 
 # ACTES DE LA REPUBLIQUE GABONAISE
 
@@ -43,7 +39,7 @@ _______
 
 LE PARLEMENT A DELIBERE ET ADOPTE ; LE PRESIDENT DE LA REPUBLIQUE, CHEF DE L'ETAT PROMULGUE LA LOI DONT LA TENEUR SUIT :
 
-#### Article 1 er :
+#### Article 1er :
 La présente loi, prise en application des dispositions de l'article 116 de la Constitution, porte modification des dispositions suivantes de la Constitution :
 
 - Paragraphe 3 du préambule ;
@@ -172,9 +168,7 @@ Si avant le scrutin, la Cour Constitutionnelle saisie dans les conditions prévu
 
 [[START OF PAGE 3]]
 
-1 er
-
-FEVRIER 2011 - N°34                    JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE                             87
+1er FEVRIER 2011 - N°34                    JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE                             87
 
 La Cour Constitutionnelle  peut  proroger  les  délais prévus,  conformément  à  l'article  11  ci-après,  sans  que  le scrutin  puisse  avoir  lieu  plus  de  trente  cinq  jours  après  la date de la décision de la Cour Constitutionnelle. Si l'application des dispositions du présent alinéa a pour effet de reporter l'élection à une date postérieure à l'expiration du mandat  du Président en exercice, celui-ci demeure  en fonction jusqu'à l'élection de son successeur.
 
@@ -212,7 +206,7 @@ L'article 13 est modifié et se lit désormais comme suit :
 ##### Article 13 (nouveau) :
 « En cas de vacance de la Présidence de la République  pour  quelque cause que ce soit ou d'empêchement  définitif  de  son  titulaire,  constaté  par  la Cour Constitutionnelle saisie par le Gouvernement statuant à la  majorité  absolue  de  ses  membres,  ou  à  défaut  par  les bureaux des deux chambres du Parlement statuant ensemble à la majorité de leurs membres, le Président du Sénat exerce provisoirement les fonctions du Président de la République, ou en cas d'empêchement de celui-ci dûment constaté par la Cour Constitutionnelle saisie dans les mêmes conditions, le Premier Vice-Président du Sénat.
 
-L'autorité  qui  assure  l'intérim  du  Président  de  la République  est  investie,  à  titre  temporaire,  de  la  plénitude des fonctions du Président de la République, à l'exception de celle  prévues  aux  articles  18,  19  et  116,  alinéa  1 er .  Elle  ne peut se porter candidat à l'élection présidentielle ».
+L'autorité qui assure l'intérim du Président de la République est investie, à titre temporaire, de la plénitude des fonctions du Président de la République, à l'exception de celle prévues aux articles 18, 19 et 116, alinéa 1er. Elle ne peut se porter candidat à l'élection présidentielle ».
 
 ##### Alinéa 3 (nouveau) :
 « Avant son entrée en fonction, l'autorité concernée prête serment dans les conditions prévues à l'article 12 ci-dessus ».
@@ -240,9 +234,7 @@ Les  Ministres  en  charge  de  la  Défense  et  de  la Sécurité assurent la 
 
 [[START OF PAGE 4]]
 
-er FEVRIER 2011 - N°34
-
-88                                  JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE               1
+88                                  JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE               1er FEVRIER 2011 - N°34
 
 Une  loi  fixe  les  modalités  d'application  du  présent article.
 
@@ -288,12 +280,12 @@ L'article 35  alinéa 4 est modifié et se lit désormais comme suit :
 L'article 40 est modifié et se lit désormais comme suit :
 
 ##### Article 40 alinéa 2 (nouveau) :
-« Les Présidents et les autres members des Bureaux de l'Assemblée Nationale et du Sénat sont  élus  par  leurs  pairs  pour  la  durée  de  la  législature,  au scrutin secret, conformément aux dispositions du règlement de la chambre concernée ».
+« Les Présidents et les autres membres des Bureaux de l'Assemblée Nationale et du Sénat sont élus par leurs pairs pour la durée de la législature, au scrutin secret, conformément aux dispositions du règlement de la chambre concernée ».
 
 #### Article 18 :
-L'article 47 (le 7 ème et le 8 ème tiret sont modifiés et le 16 ème tiret est supprimé) se lit désormais comme suit :
+L'article 47 (le 7ème et le 8ème tiret sont modifiés et le 16ème tiret est supprimé) se lit désormais comme suit :
 
-##### Article 47 alinéa 7 ème et 8 ème (nouveau) :
+##### Article 47 alinéa 7ème et 8ème (nouveau) :
 
 - le  régime électoral de l'Assemblée Nationale, du Sénat et des Conseils locaux ;
 
@@ -337,9 +329,7 @@ L'article 70 est modifié et se lit désormais comme suit :
 
 [[START OF PAGE 5]]
 
-1 er
-
-FEVRIER 2011 - N°34                    JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE                             89
+1er FEVRIER 2011 - N°34                    JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE                             89
 
 La Première Vice-présidence du Conseil Supérieur de la Magistrature est assurée par le Ministre de la Justice, Garde des Sceaux ».
 
@@ -437,9 +427,7 @@ La Cour Constitutionnelle statue dans le délai d'un mois. Si elle déclare la l
 
 [[START OF PAGE 6]]
 
-er FEVRIER 2011 - N°34
-
-90                                  JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE               1
+90                                  JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE               1er FEVRIER 2011 - N°34
 
 contraire à la Constitution, cette loi ou cet acte réglementaire cesse de produire ses effets à compter de la décision.
 
@@ -467,7 +455,11 @@ Chacune  des  autorités  visées  à  l'alinéa  précédent désigne obligatoi
 
 Les Juges Constitutionnels sont choisis à titre principal parmi les professeurs de droits, les avocats et les magistrats ayant  au  moins  quarante  (40)  ans  d'âge  et  quinze  (15)  ans d'expérience  professionnelle,  ainsi  que  les  personnalités qualifiées  ayant  honoré  le  service  de  l'Etat  et  âgée  d'au moins quarante (40) ans ».
 
-Le  Président  de  la  Cour  Constitutionnelle  est  nommé pour la durée du mandat.
+#### Article 34 :
+L'article 91 est modifié et se lit désormais comme suit :
+
+##### Article 91 (nouveau) :
+« Le Président de la Cour Constitutionnelle est nommé pour la durée du mandat.
 
 En cas d'empêchement temporaire, l'intérim du Président est assuré par le doyen des Juges Constitutionnels.
 
@@ -539,9 +531,7 @@ L'article  108  est  modifié  et  se  lit  désormais comme suit :
 
 [[START OF PAGE 7]]
 
-1 er
-
-FEVRIER 2011 - N°34                    JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE                             91
+1er FEVRIER 2011 - N°34                    JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE                             91
 
 L'ouverture de chaque  session est reportée au lendemain si le jour prévu est non ouvrable.
 
@@ -592,11 +582,11 @@ LE PRESIDENT DE LA REPUBLIQUE,
 
 CHEF DE L'ETAT ;
 
-Vu  la  Constitution,  notamment  en  son  article  17, alinéa 1 er ;
+Vu la Constitution, notamment en son article 17, alinéa 1er ;
 
 D E C R ET E :
 
-#### Article 1 er :
+#### Article 1er :
 Est promulguée la loi n°047/2010 portant révision de la Constitution.
 
 #### Article  2 :
