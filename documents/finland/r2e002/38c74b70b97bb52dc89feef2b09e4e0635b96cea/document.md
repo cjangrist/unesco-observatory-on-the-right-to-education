@@ -29,7 +29,7 @@ Tätä lakia ei sovelleta:
 
 - lukiolain 20 §:n 3 momentissa tarkoitettuun opiskelijaan eikä opiskelijaan, joka suorittaa lukio-opintoja aikuisten lukiokoulutuksen opetussuunnitelman mukaisesti. (14.12.2017/886)
 
-- 4-5 kohdat on kumottu L:lla 14.12.2017/886.
+- 4–5 kohdat on kumottu L:lla 14.12.2017/886.
 
 Mitä tässä laissa säädetään opiskelijasta, koulutuksen järjestäjästä ja oppilaitoksesta, koskee myös perusopetuslaissa tarkoitettua oppilasta, opetuksen järjestäjää ja koulua.
 
@@ -157,7 +157,7 @@ Lastensuojelulain (417/2007) 12 §:ssä tarkoitettuun lasten ja nuorten hyvinvoi
 
 ### Opiskeluhuoltosuunnitelma
 
-Koulutuksen järjestäjä vastaa siitä, että opiskeluhuollon toteuttamista, arviointia ja kehittämistä varten laaditaan oppilaitoskohtainen opiskeluhuoltosuunnitelma . Suunnitelma on laadittava yhteistyössä oppilaitoksen henkilöstön, opiskelijoiden ja heidän huoltajiensa kanssa. Opiskeluhuoltosuunnitelma voi olla myös kahden tai useamman oppilaitoksen yhteinen. (29.12.2016/1501)
+Koulutuksen järjestäjä vastaa siitä, että opiskeluhuollon toteuttamista, arviointia ja kehittämistä varten laaditaan oppilaitoskohtainen opiskeluhuoltosuunnitelma. Suunnitelma on laadittava yhteistyössä oppilaitoksen henkilöstön, opiskelijoiden ja heidän huoltajiensa kanssa. Opiskeluhuoltosuunnitelma voi olla myös kahden tai useamman oppilaitoksen yhteinen. (29.12.2016/1501)
 
 Opiskeluhuoltosuunnitelmaan on kirjattava:
 
@@ -173,7 +173,7 @@ Opiskeluhuoltosuunnitelmaan on kirjattava:
 
 - suunnitelma opiskelijoiden suojaamiseksi väkivallalta, kiusaamiselta ja häirinnältä;
 
-- toimenpiteet opiskeluhuoltosuunnitelman toteuttamiseksi ja seuraamiseksi ( omavalvonta ).
+- toimenpiteet opiskeluhuoltosuunnitelman toteuttamiseksi ja seuraamiseksi (omavalvonta).
 
 Opetushallitus antaa opetussuunnitelman perusteissa tai muussa määräyksessä määräykset opiskeluhuoltosuunnitelman laatimisesta. (3.10.2014/791)
 
@@ -275,7 +275,7 @@ Jos sivulliselle annetaan opiskeluhuoltokertomukseen sisältyviä tietoja, asiak
 
 ### 21 § Opiskeluhuollon rekisterit
 
-Koulutuksen järjestäjä ylläpitää rekisterinpitäjänä monialaisen yksilökohtaisen opiskeluhuollon rekisteriä ( opiskeluhuoltorekisteri ). Rekisteriin tallennetaan oppilaitoksen toteuttamassa monialaisessa yksilökohtaisessa opiskeluhuollossa laadittavat opiskeluhuoltokertomukset sekä muut siihen liittyvissä tehtävissä laaditut tai saadut yksittäistä opiskelijaa koskevat asiakirjat. Rekisterinpitäjän on nimettävä rekisterille vastuuhenkilö. Vastuuhenkilö määrittelee tapauskohtaisesti käyttöoikeudet sanottuun rekisteriin tallennettaviin tietoihin.
+Koulutuksen järjestäjä ylläpitää rekisterinpitäjänä monialaisen yksilökohtaisen opiskeluhuollon rekisteriä (opiskeluhuoltorekisteri). Rekisteriin tallennetaan oppilaitoksen toteuttamassa monialaisessa yksilökohtaisessa opiskeluhuollossa laadittavat opiskeluhuoltokertomukset sekä muut siihen liittyvissä tehtävissä laaditut tai saadut yksittäistä opiskelijaa koskevat asiakirjat. Rekisterinpitäjän on nimettävä rekisterille vastuuhenkilö. Vastuuhenkilö määrittelee tapauskohtaisesti käyttöoikeudet sanottuun rekisteriin tallennettaviin tietoihin.
 
 [[END OF PAGE 7]]
 
@@ -301,7 +301,7 @@ Oppilaitoksen henkilöstö, opiskeluhuoltopalveluja toteuttavat sosiaali- ja ter
 
 Sivullisella tarkoitetaan henkilöä, joka ei osallistu asianomaisen opiskelijan yksilökohtaisen opiskeluhuollon tarpeen selvittämiseen tai sen toteutukseen taikka niihin liittyviin tehtäviin.
 
-Edellä 2 momentissa tarkoitettujen henkilöiden salassapitovelvoitteista säädetään viranomaisten toiminnan julkisuudesta annetun lain 22 §:ssä ( asiakirjasalaisuus ) ja 23 §:ssä ( vaitiolovelvollisuus ja hyväksikäyttökielto ).
+Edellä 2 momentissa tarkoitettujen henkilöiden salassapitovelvoitteista säädetään viranomaisten toiminnan julkisuudesta annetun lain 22 §:ssä (asiakirjasalaisuus) ja 23 §:ssä (vaitiolovelvollisuus ja hyväksikäyttökielto).
 
 ### 23 § Oikeus poiketa salassapitovelvoitteista
 
@@ -405,6 +405,6 @@ Finlex › Lainsäädäntö › Ajantasainen lainsäädäntö › Vuosi 2013 ›
 
 Finlex ® on oikeusministeriön omistama oikeudellisen aineiston julkinen ja maksuton Internet-palvelu.
 
-Finlexin  sisällön  tuottaa  ja  sitä  ylläpitää  Edita  Publishing  Oy.  Oikeusministeriö  tai  Edita  eivät  vastaa  tietokantojen  sisällössä  mahdollisesti  esiintyvistä  virheistä,  niiden  käytöstä  käyttäjälle  aiheutuvista  välittömistä  tai  välillisistä  vahingoista  tai  Internet-tietoverkossa  esiintyvistä käyttökatkoista tai muista häiriöistä.
+Finlexin sisällön tuottaa ja sitä ylläpitää Edita Publishing Oy. Oikeusministeriö tai Edita eivät vastaa tietokantojen sisällössä mahdollisesti esiintyvistä virheistä, niiden käytöstä käyttäjälle aiheutuvista välittömistä tai välillisistä vahingoista tai Internet-tietoverkossa esiintyvistä käyttökatkoista tai muista häiriöistä.
 
 [[END OF PAGE 11]]
