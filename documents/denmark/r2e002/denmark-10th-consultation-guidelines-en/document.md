@@ -6,7 +6,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 ## GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ### 1. Introduction
 
@@ -16,7 +16,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ### 2. Reporting obligations
 
@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -238,49 +238,49 @@ This notably is covered under SDG target 4.1 and partly target 4.b 6
 
 The Danish Constitution, Bekendtgørelse af lov om folkeskolen, Bekendtgørelse af lov om dag-, fritids- og klubtilbud m.v. til børn og unge, '1.000 dages programmet - en bedre start på livet', 'Aftale om stærke dagtilbud - alle børn skal med i fællesskabet'…
 
-- 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities (in terms of access, participation and completion), equal treatment and to support the  inclusion  of  all  learners  (including  girls  and  women,  the  economically  and  socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
+- 1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
--Single parent aid subsidy for their child/children to attend ECEC
-
-- Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
-
-- In 2018, a new strengthened pedagogical curriculum was enforced, amongst many other things focusing on how ECEC can contribute to the realization of children's full potential, no matter  their  gender,  culture  or  ethnicity.  An  inspiration  catalogue  focusing  on  'culture, aesthetics and communities' in ECEC provides pedagogical staff with a number of examples on how to promote equality between the sexes already in ECEC. Furthermore, efforts have been made in order to promote the new elements of the pedagogical curriculum through CPD and in the pedagogical bachelor programme.
-
-- In  July  2019,  an  amendment  to  the  Act  on  ECEC  made  it  mandatory  for  children  in vulnerable  housing  areas  to  participate  in  a  mandatory  learning  program  if  they  are  not already participating in ECEC. The mandatory learning program of 25 hours per week shall help children develop their language skills and learning abilities as well as introduce them to
-
-- x Providing financial incentives and fellowships
+x Providing financial incentives and fellowships
 
 o Providing positive or affirmative action measures
 
-- x Ensuring inclusion in mainstream schools for all learners
+x Ensuring inclusion in mainstream schools for all learners
 
-- x Training teachers on inclusive education
+x Training teachers on inclusive education
 
-- x Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
+x Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
-o Providing  re-entry  programmes  for  young mothers
+o Providing re-entry programmes for young mothers
 
 o Eliminating all barriers for pregnant girls or young mothers in education
 
 o Other:
 
-- x Providing auxiliary assistance
+x Providing auxiliary assistance
 
-- x Adapting education infrastructure
+x Adapting education infrastructure
 
-- o Adapting curricula and methods
+o Adapting curricula and methods
 
-- x Providing language classes to newcomers (e.g. refugees)
+x Providing language classes to newcomers (e.g. refugees)
 
 o Eliminating administrative barriers to education 7
 
-- x Providing flexible learning pathways
+x Providing flexible learning pathways
 
-- x Valuing diversity in schools
+x Valuing diversity in schools
 
-- x Combatting stereotyping and stigmatisation
+x Combatting stereotyping and stigmatisation
 
-> 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
+- Single parent aid subsidy for their child/children to attend ECEC
+
+- Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
+
+• In 2018, a new strengthened pedagogical curriculum was enforced, amongst many other things focusing on how ECEC can contribute to the realization of children’s full potential, no matter their gender, culture or ethnicity. An inspiration catalogue focusing on “culture, aesthetics and communities” in ECEC provides pedagogical staff with a number of examples on how to promote equality between the sexes already in ECEC. Furthermore, efforts have been made in order to promote the new elements of the pedagogical curriculum through CPD and in the pedagogical bachelor programme.
+
+• In July 2019, an amendment to the Act on ECEC made it mandatory for children in vulnerable housing areas to participate in a mandatory learning program if they are not already participating in ECEC. The mandatory learning program of 25 hours per week shall help children develop their language skills and learning abilities as well as introduce them to
+
+> 6 Which calls on states to “substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes”.
 
 > 7 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
 
@@ -289,18 +289,22 @@ o Eliminating administrative barriers to education 7
 [[START OF PAGE 9]]
 
 values such as democracy and equality between the sexes. A pamphlet was produced that amongst other things inspires pedagogical staff on how to promote gender equality through their pedagogical methods. The mandatory learning programme obliges municipalities to work with the parents in order for them to help introduce their children to amongst other things values such as democracy and equality between the sexes.
----
-• There is a direct challenge relating to attracting more men to the ECEC specialization of the Danish pedagogical bachelor programme. The government plans to launch a plan education of pedagogical staff in ECEC that amongst other things shall focus on the quality of the pedagogical bachelor programme.
-• Education is free of charge in Denmark and is therefore accessible to all walks of life. All genders are encouraged equally to pursue education.
-• The Government's ambition is that every child should have equal opportunities in life - including children with disabilities. In primary school, the Government will thus seek to ensure that the rules regarding exemption from physical education in primary and lower secondary school does not disadvantage children with disabilities with regard to their ability to pass an examination and thus their opportunity to obtain legal requirements for admission to an upper secondary education.
-• In 2019, the Ministry has launched a study of educational outcomes and patterns for children and young people with disabilities without intellectual difficulties. The survey's purpose is to uncover, how children and young people with different disabilities manage compared with children and young people without disabilities in the education system. The survey examines what characteristics the good teaching and training process has, including what conditions inhibit and promote the educational outcomes of children and young people with disabilities and the transition to upper secondary schools. • In 2020, the Ministry of Children and Education will carry out an analysis of the academic gap between boys and girls in primary and lower secondary education, as well as the transition to upper secondary education and the vocational gap in upper secondary upper
-secondary education. The background for the analysis is that the girls get a higher grade point average than boys in all bound tests except written mathematics in primary school. The project will contribute with more knowledge about when the academic gap arises and
-how it develops in different student groups, and contribute as a basis for possible efforts.
-• Denmark is concerned with the issue of gender-based educational choices made by young women and men, especially when it comes to women in STEM. Therefore, several initiatives, some of them in cooperation with the private sector, have been launched. For following a three-year trial with a one-year optional subject in understanding comprehension in the Danish public school. • The yearly national campaign day "Girls' Day in Science" is an example of a initiative in the collaboration between the Government and the private sector to women's access to STEM educations (cf. para. 29). The purpose is to inspire girls in and upper secondary school to a future with science, technology, IT or crafts. organizations and educational institutions organize the day for girls only. Here they female role models to whom they have the opportunity to ask questions and thus
-example, technology specific promote lower Companies, meet become wiser on their choice of education and jobs. They also gain an insight into everyday life in a
-workplace when they have to work on practical and company-related tasks.
 
--  Please indicate whether your country has adopted and reviewed legislation related to the minimum age for marriage so that it conforms to international standards (18 years):
+• There is a direct challenge relating to attracting more men to the ECEC specialization of the Danish pedagogical bachelor programme. The government plans to launch a plan education of pedagogical staff in ECEC that amongst other things shall focus on the quality of the pedagogical bachelor programme.
+
+• Education is free of charge in Denmark and is therefore accessible to all walks of life. All genders are encouraged equally to pursue education.
+
+• The Government's ambition is that every child should have equal opportunities in life – including children with disabilities. In primary school, the Government will thus seek to ensure that the rules regarding exemption from physical education in primary and lower secondary school does not disadvantage children with disabilities with regard to their ability to pass an examination and thus their opportunity to obtain legal requirements for admission to an upper secondary education.
+
+• In 2019, the Ministry has launched a study of educational outcomes and patterns for children and young people with disabilities without intellectual difficulties. The survey's purpose is to uncover, how children and young people with different disabilities manage compared with children and young people without disabilities in the education system. The survey examines what characteristics the good teaching and training process has, including what conditions inhibit and promote the educational outcomes of children and young people with disabilities and the transition to upper secondary schools.
+
+• In 2020, the Ministry of Children and Education will carry out an analysis of the academic gap between boys and girls in primary and lower secondary education, as well as the transition to upper secondary education and the vocational gap in upper secondary upper secondary education. The background for the analysis is that the girls get a higher grade point average than boys in all bound tests except written mathematics in primary school. The project will contribute with more knowledge about when the academic gap arises and how it develops in different student groups, and contribute as a basis for possible efforts.
+
+• Denmark is concerned with the issue of gender-based educational choices made by young women and men, especially when it comes to women in STEM. Therefore, several initiatives, some of them in cooperation with the private sector, have been launched. For example, following a three-year trial with a one-year optional subject in understanding technology comprehension in the Danish public school.
+
+• The yearly national campaign day "Girls’ Day in Science" is an example of a specific initiative in the collaboration between the Government and the private sector to promote women's access to STEM educations (cf. para. 29). The purpose is to inspire girls in lower and upper secondary school to a future with science, technology, IT or crafts. Companies, organizations and educational institutions organize the day for girls only. Here they meet female role models to whom they have the opportunity to ask questions and thus become wiser on their choice of education and jobs. They also gain an insight into everyday life in a workplace when they have to work on practical and company-related tasks.
+
+- Please indicate whether your country has adopted and reviewed legislation related to the minimum age for marriage so that it conforms to international standards (18 years):
 
 [[END OF PAGE 9]]
 
@@ -322,7 +326,7 @@ Bekendtgørelse af lov om ægteskabs indgåelse og opløsning
 
 ##### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -416,11 +420,9 @@ In  this  part,  you  may  also  provide  information  on  the  difficulties  ex
 
 [[START OF PAGE 13]]
 
-##### 2.3 Higher education
-
 - Indicate whether your country has adopted and reviewed legislation related to the minimum age of entry into employment so that it is aligned with the end of compulsory education:
 
-Please  note  that  minimum  age  labour  laws  and  those  related  to  compulsory  education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
+Please note that minimum age labour laws and those related to compulsory education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
 x Yes
 
@@ -434,7 +436,9 @@ EU-direktiv 94/33/EF
 
 Bekendtgørelse om unges arbejde
 
-Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher  education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 9 , and target 4.4 10 .
+##### 2.3 Higher education
+
+Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 9, and target 4.4 10.
 
 - Please  indicate  the  measures  adopted  to  ensure  that  there  is  no  discrimination  on  the grounds  prohibited  by  the  Convention/Recommendation 11 to  enter  and  complete  higher education, including technical and vocational education and training (several items could be ticked/mentioned):
 
@@ -596,7 +600,7 @@ The subjects 'Special needs and remedial training' and 'Danish as a second langu
 
 This part of the teacher education programme is mandatory for all students of the teacher education programme.
 
-Teacher  qualification  for  upper-secondary  level  teaching  is  achieved  through  university education MA) in one or more subjects. This formal education is complemented by a oneyear teacher-training programme which consists of both practical didactical and pedagogical training and theoretical courses. This one-year teacher-training (60 ECTS) must be passed through exams.
+Teacher qualification for upper-secondary level teaching is achieved through university education MA) in one or more subjects. This formal education is complemented by a one-year teacher-training programme which consists of both practical didactical and pedagogical training and theoretical courses. This one-year teacher-training (60 ECTS) must be passed through exams.
 
 ###### Quality assurance
 
@@ -730,7 +734,7 @@ Denmark has ratified the European Charter for Regional or Minority Languages, in
 
 The members of the German minority in Denmark are Danish citizens with a German identity and strong ties to the region of North Schleswig. At the same time, the minority considers itself as a bridge between Danish and German culture. The Bund Deutscher Nordschleswiger is the German minority's umbrella organization. It aims to represent the interests of the minority and promote German language and culture in Nordschleswig. The head office of the BDN is the general secretariat in Aabenraa/Apenrade. The minority is in close  contact  with  the  Danish  parliament  and  government  through  its  secretariat  in Copenhagen.
 
-The minority kindergartens and schools are key institutions for the dissemination of German culture and language. 22 kindergartens, 15 primary schools, one boarding school and a gymnasium are available to children belonging to the German minority. Deutscher Schulund Sprachverein (www.dssv.dk) is the umbrella organization of these German institutions. 27
+The minority kindergartens and schools are key institutions for the dissemination of German culture and language. 22 kindergartens, 15 primary schools, one boarding school and a gymnasium are available to children belonging to the German minority. Deutscher Schul-und Sprachverein (www.dssv.dk) is the umbrella organization of these German institutions. 27
 
 Danish is part of the curriculum and the students can use the final exams to study in both Germany and Denmark. The central library in Aabenraa/ Apenrade and four branches and two mobile libraries provide books, magazines, games, recordings, and DVDs. Volunteer work is essential for the German minority and a wide range of organizations offer sports and recreational activities.
 
@@ -790,7 +794,7 @@ Please briefly elaborate further on the measures taken:
 
 - x Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
 
-Unfortunately socio-economic factors is still one of the main challenges related to ensure equal inclusion in the Danish primary and lower secondary school. Pupils with a weak socioeconomic background still obtain poorer results than pupils with stronger socio-economic background. Thus this is an ongoing focus to ensure that socio-economic factors do not have to be decisive for the academic results you get in school.
+Unfortunately socio-economic factors is still one of the main challenges related to ensure equal inclusion in the Danish primary and lower secondary school. Pupils with a weak socio-economic background still obtain poorer results than pupils with stronger socio-economic background. Thus this is an ongoing focus to ensure that socio-economic factors do not have to be decisive for the academic results you get in school.
 
 o Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
@@ -816,7 +820,7 @@ manage com-pared with children  and  young  people  without  disabilities  in  t
 
 · An investigation by the Ministry of Education in 2018 shows that the education in residential institutions does not live up to the standards of the education, that all children in Denmark are entitled to according to The Act on the Public Primary and Lower Secondary School. Thus the Minis-try  has  set  up  a  task  force  who  will  look  into  how  the  education  on  the residential institutions can be improved and propose different models for how the teaching can be organized and organized in order to support that the children and young people have a better basis for completing further education and have an independent adult life.
 
-·  The Government's ambition is that every child should have equal opportunities in life including  children  with  disabilities.  In  primary  school,  the  Government  will  thus  seek  to ensure that the rules regarding exemption from physical education in primary and lower secondary school does not disadvantage children with disabilities with regard to their ability to pass an examination and thus their opportunity to obtain legal requirements for admission to an upper secondary education.
+· The Government's ambition is that every child should have equal opportunities in life – including children with disabilities. In primary school, the Government will thus seek to ensure that the rules regarding exemption from physical education in primary and lower secondary school does not disadvantage children with disabilities with regard to their ability to pass an examination and thus their opportunity to obtain legal requirements for admission to an upper secondary education.
 
 ·  In  2019,  the  Ministry  has  launched  a  study  of  educational  outcomes  and  patterns  for children  and  young  people  with  disabilities  without  intellectual  difficulties.  The  survey's purpose is to uncover, how children and young people with different disabilities manage compared with children and young people without disabilities in the education system. The survey examines what characteristics the good teaching and training process has, including what conditions inhibit and promote the educational outcomes of children and young people with disabilities and the transition to upper secondary schools.
 
@@ -840,7 +844,7 @@ o Dissemination and advocacy of the core content of the Convention/Recommendatio
 
 o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-o Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+o Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
