@@ -45,7 +45,7 @@ Esta  Ley ampara a los profesiones de la educación que ejercen  la docencia, fu
 
 Nota: Artículo  reformado  por  Decreto Ley de Emergencia No. 3, publicado  en  Registro Oficial 298 de 18 de Octubre de 1993.
 
-## DE LOS DEBERES Y DERECHOS
+## TITULO II DE LOS DEBERES Y DERECHOS
 ### CAPITULO I DE LOS DEBERES
 
 #### Art. 4.
@@ -95,7 +95,7 @@ Los docentes tienen derecho:
 
 - la libertad de asociación para el estudio, la participación en  la planificación y ejecución de la política educativa y la defensa de los intereses profesionales;
 
-- l  ascenso de categoría escalafonaria cada cuatro años, en el caso  de  los  docentes que  laboran en el sector urbano, y cada tres años,  en el caso de quienes trabajan en los sectores rurales y en las provincias fronterizas e insular de Galápagos;
+- Al  ascenso de categoría escalafonaria cada cuatro años, en el caso  de  los  docentes que  laboran en el sector urbano, y cada tres años,  en el caso de quienes trabajan en los sectores rurales y en las provincias fronterizas e insular de Galápagos;
 
 - A   comisión  de  servicios  con  sueldo  completo  para  su perfeccionamiento docente;
 
@@ -365,9 +365,9 @@ El  Ministerio  de  Educación  y  Cultura  otorgará estímulos:
 
 - 2.-   A  los  docentes  que  se  acojan  a  los  beneficios  de la jubilación; y,
 
-- 3.-   A    los    docentes  que,  en  las  diferentes  provincias  del  país,  produzcan    la  mejor  obra pedagógica, científica o técnica en beneficio de la educación. Los  estímulos  se  otorgarán  con  sujeción a lo dispuesto en el Reglamento  de  esta
+- 3.-   A    los    docentes  que,  en  las  diferentes  provincias  del  país,  produzcan    la  mejor  obra pedagógica, científica o técnica en beneficio de la educación.
 
-- Ley.
+Los  estímulos  se  otorgarán  con  sujeción a lo dispuesto en el Reglamento  de  esta Ley.
 
 #### Art. 32.
 El docente será sancionado por las siguientes causas:
@@ -423,7 +423,7 @@ La suspensión coloca al docente temporalmente fuera del cargo,  sin remuneraci�
 #### Art. 34-A.
 El Ministro  de  Educación  y  Cultura  mediante  Acuerdo  podrá    suspender temporalmente  en  el  ejercicio  de  sus  funciones  a  las  autoridades    de  los  planteles educativos  oficiales,  a  los  supervisores  y    profesores    cuando    la    gravedad    de    los problemas  internos  del establecimiento así lo ameriten.
 
-Esta  suspensión  temporal que no será considerada  como sanción, sino  como una acción administrativa para precautelar los intereses de los educandos y el normal funcionamiento de las actividades docentes y administrativas  de  los  planteles  educativos,  no  podrá exceder de sesenta  días.  Transcurrido  este plazo, y de no haberse resuelto por parte de la  respectiva  Comisión  de  Defensa  Profesional  la  causa  que  la  motivo,    dará    lugar    al inmediato    reintegro    a  sus  funciones  de  las  autoridades,  supervisores  y  profesores suspendidos.
+Esta  suspensión  temporal que no será considerada  como sanción, sino  como una acción administrativa para precautelar los intereses de los educandos y el normal funcionamiento de las actividades docentes y administrativas  de  los  planteles  educativos,  no  podrá exceder de sesenta  días.  Transcurrido  este plazo, y de no haberse resuelto por parte de la  respectiva  Comisión  de  Defensa  Profesional  la  causa  que  la  motivó,    dará    lugar    al inmediato    reintegro    a  sus  funciones  de  las  autoridades,  supervisores  y  profesores suspendidos.
 
 Nota: Artículo  agregado  por  Decreto  Ley de Emergencia No. 3, publicado en Registro Oficial 298 de 18 de Octubre de 1993.
 
@@ -502,6 +502,8 @@ Las  resoluciones  se  adoptarán  con  el  voto  favorable  de  la  mayoría  s
 Nota: Artículo sustituido  por Decreto Ley de Emergencia No. 3, publicado en Registro Oficial 298 de 18 de Octubre de 1993.
 
 Nota:  Artículo  sustituido  por  Ley  No.  47,  publicada  en  Registro  Oficial    331    de    7    de Diciembre  de 1993.
+
+### CAPITULO VII DE LA CESACION DE FUNCIONES
 
 #### Art. 38.
 El docente cesará en sus funciones, previo el trámite administrativo legal correspondiente, por las siguientes causas:
