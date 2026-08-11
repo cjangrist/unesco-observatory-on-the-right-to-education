@@ -1,8 +1,14 @@
 [[START OF PAGE 1]]
 
-BURKINA FASO **********
+BURKINA FASO
+**********
 
-MINISTERE DES ENSEIGNEMENTS            MINISTERE DE L'ENSEIGNEMENT SECONDAIRES, SUPERIEUR                                     DE BASE ET DE ET DE LA RECHERCHE                                   L'ALPHABETISATION SCIENTIFIQUE                                                           (MEBA) (MESSRS)                                                                 ****** ********
+MINISTERE DES ENSEIGNEMENTS                         MINISTERE DE L'ENSEIGNEMENT
+SECONDAIRES, SUPERIEUR                              DE BASE ET DE
+ET DE LA RECHERCHE                                  L'ALPHABETISATION
+SCIENTIFIQUE                                        (MEBA)
+(MESSRS)                                            ******
+********
 
 # LOI D'ORIENTATION DE L'EDUCATION
 
@@ -12,12 +18,12 @@ Décembre 1996
 
 [[START OF PAGE 2]]
 
-BURKINA FASO                                                          Ive REPUBLIQUE *******                                                                        PREMIERE La Patrie ou la Mort, Nous Vaincrons ! LEGISLATURE
-
-******                                                                           *****
-
-ASSEMBLEE DES DEPUTES DU PEUPLE
-
+BURKINA FASO                                        IVe REPUBLIQUE
+*******                                             PREMIERE
+La Patrie ou la Mort, Nous Vaincrons !              LEGISLATURE
+******                                              *****
+ASSEMBLEE DES DEPUTES
+DU PEUPLE
 *****
 
 # LOI N°013/96/ADP PORTANT LOI D'ORIENTATION DE L'EDUCATION ADOPTEE PAR L'ADP LE 9 MAI 1996
@@ -30,15 +36,43 @@ ASSEMBLEE DES DEPUTES DU PEUPLE
 
 # SOMMAIRE
 
+Décret portant promulgation de la loi………………………………………………………P.4
+La loi n°013/96/ADP/ Portant loi d'orientation de l'éducation…………………………….P.5
+Titre I : Des dispositions générales ……………………………………………………….P.6
+Titre II : Des finalités, buts et objectifs…………………………………………………...P.7
+Titre III : Des structures de l'éducation…………………………………………………..P.9
+• Chapitre 1er : L'éducation formelle…………………………………………………..P.9
+• Chapitre 2 : L'éducation non formelle……………………………………………...P.12
+• Chapitre 3 : L'éducation informelle………………………………………………...P.13
+• Chapitre 4 : L'éducation et les formations spécifiques…………………………….P.15
+• Chapitre 5 : La classification des établissements…………………………………...P.15
+Titre IV : De l'organisation de l'enseignement et de la formation…………………….P.18
+• Chapitre 1er : De l'organisation de la scolarité…………………………………….P.18
+• Chapitre 2 : Le calendrier scolaire…………………………………………………P.19
+• Chapitre 3 : Le système de contrôle des connaissances……………………………P.20
+• Chapitre 4 : Les activités préscolaires et parascolaires…………………………….P.21
+Titre V : Des droits de devoirs dans le système éducatif……………………………….P.22
+Titre VI : Du financement et de la gestion de l'enseignement et de la formation…….P.24
+Titre VII : Des personnels de l'éducation…………………………………………….. P.25
+• Chapitre 1er : Le personnel enseignant …………………………………………...P.25
+• Chapitre 2 : Le personnel d'encadrement pédagogique…………………………P.26
+• Chapitre 3 : Le personnel d'administration et de gestion………………………..P.27
+• Chapitre 4 : Le personnel de soutien…………………………………………….P.28
+• Chapitre 5 : Le recrutement et la formation des personnels…………………….P.28
+Titre VIII : Des structures consultatives en matière éducative et de formation……..P.28
+Titre IX : De l'évaluation du système éducatif…………………………………………P.30
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-BURKINA FASO ******* La Patrie ou la Mort, Nous Vaincrons |
-# DECRET N ° 96 - 207/PRES portant promulgation de la loi n°13/96/ADP du 9 mai 1996
---- | ---
+BURKINA FASO
+*******
+La Patrie ou la Mort,
+Nous Vaincrons
+******
+# DECRET N° 96 - 207/PRES portant promulgation de la loi n°13/96/ADP du 9 mai 1996
 
 ## LE PRESIDENT DU FASO,
 
@@ -60,20 +94,18 @@ Ouagadougou, le 24 Juin 1996
 
 Blaise COMPAORE
 
-******
-
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-La patrie ou la Mort Nous Vaincrons
-
-BURKINA FASO                                                                    Ive REPUBLIQUE ********                                                                                    PREMIERE LEGISLATURE
-
-ASSEMBLEE DES                                                                                ***** DEPUTES DU PEUPLE
-
+BURKINA FASO                                        IVe REPUBLIQUE
+********                                            PREMIERE
+La patrie ou la Mort Nous Vaincrons                 LEGISLATURE
+ASSEMBLEE DES                                       *****
+DEPUTES
+DU PEUPLE
 ******
 
 # LOI 013/96/ADP PORTANT LOI D'ORIENTATION DE L'EDUCATION
@@ -88,7 +120,7 @@ ASSEMBLEE DES                                                                   
 
 VU la constitution ;
 
-VU la réalisation n°01/92/ADP  du 17 Juin 1992, portant validation du mandat des Députés ;
+VU la résolution n°01/92/ADP du 17 Juin 1992, portant validation du mandat des Députés ;
 
 A délibéré en sa séance du 09 mai 1996 et adopté la loi dont la teneur suit :
 
@@ -244,12 +276,12 @@ Elle est dispensée dans des centres spécialisées et dans des établissements 
 -d'enseignements supérieur techniques ou professionnels.
 
 ### Article  16 :
-Les  établissements,  centres  ou  institutions  chargés  de  la  formation professionnelle sont placés sous la tutelle du Ministre chargé de l'enseignement ou du secteur correspondant à leur niveau ou là leur type de formation.
+Les établissements, centres ou institutions chargés de la formation professionnelle sont placés sous la tutelle du Ministre chargé de l'enseignement ou du secteur correspondant à leur niveau ou à leur type de formation.
 
 ### Article  17 :
-Quelque  soit  l'ordre  d'enseignement,  chaque  cycle  est  terminal  à l'exception des spécialités où à un diplôme unique sanctionne la formation.
+Quelque soit l'ordre d'enseignement, chaque cycle est terminal à l'exception des spécialités où à un diplôme unique sanctionne la formation.
 
-Les  conditions  d'accès  aux  différents  niveaux  d'enregistrement,  leur  organisation  et leur fonctionnement sont fixés par voie réglementaire/
+Les conditions d'accès aux différents niveaux d'enseignement, leur organisation et leur fonctionnement sont fixés par voie réglementaire.
 
 ## CHAPITRE 2 : L'EDUCATION NON FORMELLE
 
@@ -259,7 +291,7 @@ L'éducation non formelle concerne toutes les activités d'éducation et de form
 ### Article 19 :
 L'éducation non formelle est dispensée dans :
 
--les Centres Permanents s'Alphabétisation et de Formation (CPAF) ;
+-les Centres Permanents d'Alphabétisation et de Formation (CPAF) ;
 
 -Les centres d'Education de Base Non Formelle (CEBNF) ;
 
@@ -270,7 +302,7 @@ Les contenus des enseignements dispensés dans ces différents centres sont dét
 ## CHAPITRE 3 : L'EDUCATION INFORMELLE
 
 ### Article 20 :
-L'éducation informelle se fait de façon forfuite et diffuse.
+L'éducation informelle se fait de façon fortuite et diffuse.
 
 L'éducation informelle a pour principaux véhicules les canaux suivants :
 
@@ -354,7 +386,7 @@ Selon que l'Etat y envoie ou non des   élèves, ils se répartissent en:
 ## CHAPITRE 1 ER  : DE L'ORGANISATION DE LA SCOLARITE
 
 ### Article 28:
-La scolarité est organisée en cycles pour lesquels sont définis des objectifs et des programmes officiels de formation comportant une progression annuelle ainsi que des formes et    d es critères d'évaluation.
+La scolarité est organisée en cycles pour lesquels sont définis des objectifs et des programmes officiels de formation comportant une progression annuelle ainsi que des formes et des critères d'évaluation.
 
 ### Article  29:
 Les  programmes  définissent,  pour  chaque  cycle,  les  connaissances essentielles qui doivent être assimilées  , les attitudes à développer et les aptitudes à acquérir. Ils constituent le cadre officiel au sein duquel les enseignants organisent leurs enseignements.
@@ -365,7 +397,7 @@ Des structures nationales des programmes, définies par voie réglementaire, don
 ## CHAPITRE 2: LE CALENDRIER SCOLAIRE
 
 ### Article 31:
-L'armée académique a une durée de trente six semaines. Elle est répartie en trois trimestres de douze semaines chacun. Des congés de deux semaines sont accordés à l'issue  du  premier  trimestre  et  à  l'issue  du  deuxième  trimestre.  Les  vacances  scolaires interviennent à la fin du troisième trimestre et durent deux mois.
+L'année académique a une durée de trente six semaines. Elle est répartie en trois trimestres de douze semaines chacun. Des congés de deux semaines sont accordés à l'issue du premier trimestre et à l'issue du deuxième trimestre. Les vacances scolaires interviennent à la fin du troisième trimestre et durent deux mois.
 
 Les fêtes légales sont observées dans tous les établissements d'enseignement.
 
@@ -389,7 +421,10 @@ Les Ministres chargés des différents niveaux ou ordres d'enseignement détermi
 [[START OF PAGE 12]]
 
 ### Article 35 :
-A l'exception  de  l'éducation  préscolaire, le passage d'un niveau d'enseignement à l'autre est subordonné à au moins la détention du diplôme terminal de l'ordre inférieur. Les modalités et conditions d'accès à n'importe quel ordre d'enseignement sont fixés par les Ministres concernés.
+A l'exception de l'éducation préscolaire, le passage d'un niveau d'enseignement à l'autre est subordonné à au moins la détention du diplôme terminal de l'ordre inférieur.
+
+### Article 36 :
+Les modalités et conditions d'accès à n'importe quel ordre d'enseignement sont fixés par les Ministres concernés.
 
 ## CHAPITRE 4 : LES ACTIVITES PERISCOLAIRES ET PARASCOLAIRES
 
@@ -447,7 +482,7 @@ Le financement de l'enseignement et de la formation est assurée par l'Etat, les
 ### Article 46 :
 Il est créé un fonds destiné à appuyer l'effort public et privé d'éducation et de formation.
 
-Outre  les  subventions  de  l'Etat,    c  e  fonds  est  alimenté  par  la  taxe  patronale d'apprentissage et par toutes autres sources de financement.
+Outre les subventions de l'Etat, ce fonds est alimenté par la taxe patronale d'apprentissage et par toutes autres sources de financement.
 
 ### Article  47  :
 Les  établissements  publics  et  privés  sont  gérés  par  des  structures d'administration et de gestion.
@@ -572,13 +607,13 @@ Larba Prosper YAMEOGO                                                         Dr
 
 [[START OF PAGE 17]]
 
+Décembre 1996
+
 Composition - Impression
 
 Direction Générale de l'Institut National d'Alphabétisation / MEBA
 
-01 B.P 1179 Ouagadougou O1 Tél. 36 - 32 - 37
-
-Décembre 1996
+01 B.P 1179 Ouagadougou 01 Tél. 36 - 32 - 37
 
 17
 
