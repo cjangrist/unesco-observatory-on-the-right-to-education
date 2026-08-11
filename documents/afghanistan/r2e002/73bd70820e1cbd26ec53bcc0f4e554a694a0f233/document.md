@@ -1,12 +1,42 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+Islamic Republic of Afghanistan
+Ministry of Education
+
+National Education Strategic Plan
+(2015-2020)
+(Draft)
+
+“By 2020 all children in Afghanistan, boys and girls
+alike, will be able to complete primary education.”
+Afghanistan’s MDG for Education
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+بسم الله الرحمن الرحيم
 
 # Table of Content
+
+TABLE OF CONTENT | 2
+ABBREVIATIONS | 3
+MESSAGE FROM THE MINISTER | 5
+INTRODUCTION | 5
+CHAPTER ONE: BRIEF SITUATION ANALYSIS | 7
+CHAPTER TWO: STRATEGIC FRAMEWORK | 16
+CHAPTER THREE: PRIORITY PROGRAMS | 20
+PROGRAM 1) GENERAL AND ISLAMIC EDUCATION | 24
+Sub-program 1-1) General Education | 24
+Sub-program 1-2) Islamic Education | 32
+PROGRAM 2) CURRICULUM DEVELOPMENT AND TEACHER EDUCATION | 37
+Sub-program 2-1) Curriculum Development | 37
+Sub-program 2-2) Teacher Education | 40
+PROGRAM 3) TECHNICAL AND VOCATIONAL EDUCATION AND TRAININGS (TVET) | 44
+PROGRAM 4) LITERACY | 48
+PROGRAM 5) EDUCATION ADMINISTRATION DEVELOPMENT | 53
+CHAPTER FOUR: BUDGET | 57
+CHAPTER FIVE: IMPLEMENTATION, MONITORING, AND EVALUATION FRAMEWORK | 60
+REFERENCES | 63
 
 2
 
@@ -59,37 +89,15 @@ NGO | Non-governmental organization
 
 [[START OF PAGE 4]]
 
-NRVA
-
-PED
-
-PTR
-
-TTC
-
-TVET
-
-UNESCO
-
-UNICEF
-
-UNPD
-
-National Risk and Vulnerability Assessment
-
-Provincial Education Department
-
-Pupil-Teacher Ratio
-
-Teacher Training College
-
-Technical and Vocational Education and Training
-
-United Nations Educational, Scientific and Cultural Organization
-
-United Nations Children's Fund
-
-United Nation Population Division
+NRVA | National Risk and Vulnerability Assessment
+--- | ---
+PED | Provincial Education Department
+PTR | Pupil-Teacher Ratio
+TTC | Teacher Training College
+TVET | Technical and Vocational Education and Training
+UNESCO | United Nations Educational, Scientific and Cultural Organization
+UNICEF | United Nations Children’s Fund
+UNPD | United Nation Population Division
 
 4
 
@@ -111,14 +119,14 @@ There  are  still  many  challenges  in  front  of  Afghanistan  education  syst
 
 This  plan  like  previous  NESPs  is  an  efficient  mechanism  for  coordination  of  the  MoE  and  its partners'  endeavors,  priorities  and  programs.  The  NESPs  so  far  have  been  able  to  coordinate priorities and objectives of the MoE and its partners programs. This will allow the MoE and the education partners to pursue shared goals and effectively implement the programs and plans and prevent in-effective use of the available resources.
 
-Further development of education and provision of educational services require a huge amount of human  and  financial  recourses.  So  far,  the  Afghanistan  government  and  its  partners  have contributed to the development of education through provision of technical services and financial resources.  The  Ministry  of  Education,  on  behalf  of  the  Afghanistan  people,  is  grateful  for  their generosity in provision of human and financial resources for implementation of the NESPs. The Ministry once again welcomes national and international partners' contribution to the education of Afghanistan to implement the plan priority programs and activities even though the Ministry expects  the  government  and  people  of  Afghanistan  to  have  an  active  role  in  provision  the required recourses.
+Further development of education and provision of educational services require a huge amount of human and financial recourses. So far, the Afghanistan government and its partners have contributed to the development of education through provision of technical services and financial
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
+resources. The Ministry of Education, on behalf of the Afghanistan people, is grateful for their generosity in provision of human and financial resources for implementation of the NESPs. The Ministry once again welcomes national and international partners’ contribution to the education of Afghanistan to implement the plan priority programs and activities even though the Ministry expects the government and people of Afghanistan to have an active role in provision the required recourses.
 Private  sector  has  had  a  valuable  role  in  provision  of  educational  services  to  the  children  of Afghanistan.  The  Ministry  encourages  the  private  sector  to  take  part  in  the  development  of education and has facilitated their participation in this sacred mission through development of clear legislative rules, regulations and procedures for registration of the private schools and their contribution.
 
 Afghanistan has successfully passed  the transition phase and  is prepared  to enter the transformation  era.  The  people  of  Afghanistan  hope  to  reach  to  the  peaks  of  knowledge  and sciences,  sustainable  peace  and  prosperity  and  to  achieve  technological  developments  and economical  growth.  We  have  reached  to  great  achievements  and  prominent  successes  in education through facilitating access to educational services, but this is not the final goal for the ministry. We would like to see the bright future to be able to open the doors of all schools to all children and adults and no child would stay behind the closed doors of the schools.
@@ -152,14 +160,14 @@ This brief situation analysis is based on Afghanistan Education Management Infor
 ### Population :
 A comprehensive census has not been taken in Afghanistan yet. All population data are  only  estimates.  Afghanistan  Central  Statistics  Office  (CSO)  estimates  that  Afghanistan's population was 28 million in 2013. However, United Nation Statistics Division (UNSD)'s estimate of  the  population  in  2013  is  34.4  million.  The  MoE  use  UNPD's  estimates  of  population  for planning  purposes.  Population  growth  according  UNPD  is  3%,  and  if  population  continues  to grow with this rate, it reaches 42.6 million in 2020. Fifty percent of the population is made up of children under 15 years old, and 36% of the population are at school-age (about 12.4 million in 2013). Table 1 shows Afghanistan's population estimates by gender and school-age children for 2008-2020.
 
-2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
+Table 1- Afghanistan population by gender and school-age children population estimates for 2012-2020
+
+ | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Female population | 14.6 | 14.9 | 15.3 | 15.8 | 16.3 | 16.8 | 17.3 | 17.8 | 18.4 | 19.0 | 19.6 | 20.2 | 20.8
 Male population | 15.3 | 15.7 | 16.1 | 16.6 | 17.1 | 17.6 | 18.2 | 18.7 | 19.3 | 19.9 | 20.5 | 21.2 | 21.8
 Total population | 29.8 | 30.6 | 31.4 | 32.4 | 33.4 | 34.4 | 35.5 | 36.6 | 37.7 | 38.9 | 40.1 | 41.3 | 42.6
 School-age population | 10.7 | 11.0 | 11.3 | 11.7 | 12.0 | 12.4 | 12.8 | 13.2 | 13.6 | 14.0 | 14.4 | 14.9 | 15.3
-
-Table 1- Afghanistan population by gender and school-age children population estimates for 2012-2020
 
 7
 
@@ -185,20 +193,20 @@ insecurity is a key barrier to education development. According to 2012 Global P
 ## General Education
 
 ### Overall enrollment:
-S tudent enrollment has increased rapidly during the last decade. While only one million children (almost all boys) were enrolled in schools in 2001, over 8.6 million children i were enrolled in 2013 of whom 39% were girls.
+Student enrollment has increased rapidly during the last decade. While only one million children (almost all boys) were enrolled in schools in 2001, over 8.6 million childrenⁱ were enrolled in 2013 of whom 39% were girls.
 
-Students | Teachers | Schools
+Table 2- Number of students, teachers, and schools per type of education in 2012
+
+ | Students |  |  | Teachers |  |  | Schools
+ | Female | Male | Total | Female | Male | Total | Total
 --- | --- | --- | --- | --- | --- | --- | ---
-Female | Male | Total | Female | Male | Total | Total
-General Education | 3376886 | 5219511 | 8596397 | 61320 | 122858 | 1 184178 | 14599
+General Education | 3376886 | 5219511 | 8596397 | 61320 | 122858 | 184178¹ | 14599
 Islamic Education | 53048 | 207469 | 260517 | 502 | 6311 | 6813 | 1001
 TVET | 8147 | 52857 | 61004 | 524 | 1757 | 2281 | 244
 Literacy | 207857 | 254047 | 461904 | 7227 | 6944 | 14171 | 19787 course
 Teacher Education | 35584 | 41166 | 76750 | 489 | 1977 | 2466 | 42 TTCs and 210 District centers and 57 satellite
 
-Table 2- Number of students, teachers, and schools per type of education in 2012
-
-> 1 The number of students in General Education includes CBE students, but the number of teachers does not include CBE teachers.
+> ¹The number of students in General Education includes CBE students, but the number of teachers does not include CBE teachers.
 
 8
 
@@ -207,7 +215,6 @@ Table 2- Number of students, teachers, and schools per type of education in 2012
 [[START OF PAGE 9]]
 
 schools
----
 
 Enrollment in general education reached 8.6 million students in 2013, of which around 208000 students  study  in  5922  community-based  classes  and  about  185000  students  in  cross-border schools.
 
@@ -216,14 +223,14 @@ The MoE estimates that gross enrollment ratio  (GER)  for  all  levels  and  all
 
 The overall Gender Parity Index (GPI) was 0.65 in 2013 which means there is an extreme gender disparity in Afghan education.
 
-Primary | Lower Secondary | Upper Secondary | Total
+Table 3- GER and GPI per level of education in 2013
+
+ | Primary | Lower Secondary | Upper Secondary | Total
 --- | --- | --- | --- | ---
 Female | 71% | 40% | 28% | 56%
 Male | 99% | 68% | 49% | 82%
 Total | 86% | 54% | 39% | 69%
 GPI | 0.69 | 0.57 | .0.54 | 0.65
-
-Table 3- GER and GPI per level of education in 2013
 
 GER  and  GPI  vary  considerably  among  provinces  and  between  rural  and  urban  areas.  For example, in 2012 while GPI in Hirat and Badakhshan was 0.9 (9 girls to 10 boys), GPI in Zabul and Uruzgan was 0.1 (1 girl to 10 boys).
 
@@ -248,13 +255,13 @@ The MoE has not collected data on internal efficiency indicators such as dropout
 ### Graduates :
 The  number of  grade  12 th   graduates  in  2013  reached  291033 and it will increase rapidly during the coming years and number of general education graduates will reach 511,000 in 2020. However, the number of seats available in higher education institutes is low. In 2013, only 45000  students  were  admitted  and  it  is  estimated  that  in  2020,  Afghan  higher  education institutes will admit about 200 thousand students. Therefore, the MoE  has planned to increase enrollment in TVET program to develop students' work skills to help them find jobs in market after graduation.
 
-2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
+Table 4- Estimate of general education graduates in 2013
+
+ | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Girls | 104,419 | 118573 | 132728 | 146882 | 161037 | 175191 | 189346 | 203,500
 Boys | 186,613 | 203883 | 221152 | 238422 | 255691 | 272961 | 290230 | 307,500
 Total | 291,033 | 322456 | 353880 | 385304 | 416728 | 448152 | 479576 | 511,500
-
-Table 4- Estimate of general education graduates in 2013
 
 ### Learning  achievement  assessment :
 The  MoE  has  begun  to  develop  a  standard  system  for assessing students' learning achievement. A national assessment of educational achievements of grade  six  was  carried  out  in  two  languages  of  Pashto  and  Dari  in  November  2013.  The  results envisaged  to  contribute  in  improving  the  overall  education  system  with  policy  implications  for curriculum reform, enhancement of teaching practices, and allocation of resources.
@@ -290,23 +297,23 @@ However, some challenges still exist with regard  to the quality of teacher trai
 
 The MoE has developed three training packages for teachers (Inset I, II, & III) and three packages for  school  administrators  (SMT  I,  II,  &  III).  Evaluation  of  these  two-week  training  workshops indicates  that  teachers  and  administrators  are  happy  with  these  trainings,  but  they  requested more  content  knowledge  training  to  help  them  teach  the  new  curriculum,  and  in  some  cases, complained  about  the  quality  of  training  delivery.  Table  3  shows  the  number  of  teachers  and administrators that have received each package by gender:
 
-Inset I | Inset II | Inset III | SMT I | SMT II | SMT III
+Table 4- Number of teachers trained in short-term courses thus far.
+
+ | Inset I | Inset II | Inset III | SMT I | SMT II | SMT III
 --- | --- | --- | --- | --- | --- | ---
 Female | 48121 | 63101 | 32630 | 395 | 455 | 5,728
 Male | 112281 | 77124 | 58009 | 6,664 | 6,601 | 15,845
 Total | 160402 | 140225 | 90639 | 7,059 | 7,056 | 21,573
 
-Table 4- Number of teachers trained in short-term courses thus far.
-
 ### School  Construction  and  Rehabilitation :
-Over  seven  thousand  schools  out  of  14599  schools (49%) do not have usable buildings. The MoE's capacity of outsourcing construction projects is low and considering the fact that more schools are established each year than constructed, the percentage of schools with buildings is getting lower each year. Schools with buildings often do not have enough classrooms; therefore, some classes are held under tents, in open space, or in rented  buildings.  Repairing  school  buildings  is  another  challenge.  Schools  do  not  have  enough budgets for repairing their buildings. Moreover, many of the existing school buildings lack proper sanitation, drinking water, or surrounding walls. Meanwhile, in 2013 there is a specific budget for the O&M.
+Over seven thousand schools out of 14599 schools (49%) do not have usable buildings. The MoE’s capacity of outsourcing construction projects is low and considering the fact that more schools are established each year than constructed, the percentage of schools with buildings is getting lower each year. Schools with buildings often do not have enough classrooms; therefore, some classes are held under tents, in open space, or in rented buildings. Repairing school buildings is another challenge. Schools do not have enough budgets for repairing their buildings. Moreover, many of the existing school buildings lack proper
 
 11
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
-
+sanitation, drinking water, or surrounding walls. Meanwhile, in 2013 there is a specific budget for the O&M.
 ### Academic Supervision :
 Although the MoE has increased the number of academic supervisors to 4600, there are several challenges limiting the impact of supervision: (1) unqualified persons are hired  as  supervisors,  (2)  a  functional  reporting  and  follow-up  system  is  not  in  place,  (3) transportation facilities are not available, (4) district supervisors' reports need to be approved by district education managers, which often leads to removing negative reports, (5) the number of female supervisors is very low, and (6) supervisors mostly focus on inspection function rather than providing academic support. The MoE has recently started reforming the supervision system to make it more academic and support-oriented.
 
@@ -332,14 +339,14 @@ In 2013, about 65% of Islamic Education centers did not have usable buildings, a
 Enrollment in TVET centers has increased significantly during the last three years, from 18,361 (11% female) in 2009 to 61000 (13% female) in 2013. However, interest in TVET is low compared to general education because of the lower status of TVET in Afghan society and also  because  graduating  from  TVET  often  does  not  lead  to  a  secure  employment  (External efficiency of TVET has not studied yet).
 
 ### TVET teachers :
-Total number of TVET teachers was 2281 (524 female) in 2013, student-teacher ratio was 27, which was higher than the MoE's norm for TVET (20 students per teacher). 20% of TVET teachers do not have the minimum required degree, which is BA for Kabul City, and 14 th grade  degree  for  other  provinces.  TVET  teachers  often  do  not  have  the  required  professional knowledge and skills. Therefore, providing professional development support to TVET teachers is a necessity.
+Total number of TVET teachers was 2281 (524 female) in 2013, student-teacher ratio was 27, which was higher than the MoE’s norm for TVET (20 students per teacher). 20% of TVET teachers do not have the minimum required degree, which is BA for Kabul City, and 14th grade degree for other provinces. TVET teachers often do not have the required professional
 
 12
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
-
+knowledge and skills. Therefore, providing professional development support to TVET teachers is a necessity.
 ### TVET Centers :
 The number of TVET centers increased to 244 in 2013 that included 89 institutes (grades 13-14) and 155 high schools (grades 10-12). Almost half of TVET students are enrolled in the  high  schools,  the  other  half  in  the  institutes.  These  centers  provide  technical  education  in more than fifty fields, such as agriculture, veterinary, accounting and administration, electricity, auto repair, machinery, art, and music. Many of TVET centers are not equipped with workshops and  other  required  equipments,  which  leads  to  theoretical  teaching  rather  than  practical  skill development.
 
@@ -367,14 +374,14 @@ The  number  of  literacy  trainers  reached  14,171  (51%  female)  in  2012,  
 ## Education Administration
 
 ### Strategic  management  development :
-The  MoE  has  developed  two  strategic  plans  and  one interim plan so far, and develops annual operational plans and annual reports. The first education joint  sector  review  (EJSR)  was  held  in  2012  and  will  be  held  each  year  to  review  the  MoE's progress and challenges, and to provide recommendation for improving the implementation of the MoE strategic plan.
+The MoE has developed two strategic plans and one interim plan so far, and develops annual operational plans and annual reports. The first education
 
 13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
-
+joint sector review (EJSR) was held in 2012 and will be held each year to review the MoE’s progress and challenges, and to provide recommendation for improving the implementation of the MoE strategic plan.
 In  late  2012,  the  MoE  established  a  two-year  program  for  developing  the  capacity  of  its employees in planning, M&E, and reporting. 196 employees are enrolled in this program so far.
 
 Despite improvements in planning, M&E, and reporting-which led to Afghanistan's participation in  the  Global  Partnership  for  Education (GPE) - the MoE's capacity in these areas is still low. Planning  is  centralized,  employees  at  district  level  often  do  not  know  about  the  MoE  plans, accurate and updated data and information are not available for planning, and there is a huge gap between plans and implementations.
@@ -382,7 +389,7 @@ Despite improvements in planning, M&E, and reporting-which led to Afghanistan's 
 In spite of the fact that MoE has tried to implement result-based management approach, still the focus remains  on  budget  spending  and  achievement  of  the  outcomes  is  a  challenge.  Therefore,  reports concentrate more on accomplishment of activities rather than achievement of expected outcomes and performance.
 
 ### Education  Management  Information  System  (EMIS):
-In  2012,  MoE  deployed  EMIS  to  the provincial level. The data of this year were collected and entered by provincial staff (supervision, plan and EMIS staff). Central EMIS Directorate, with the cooperation of Academic Supervision Department team are responsible for verification of the data at different levels. MoE data and information are webenable to stakeholders through MoE and EMIS websites.
+In 2012, MoE deployed EMIS to the provincial level. The data of this year were collected and entered by provincial staff (supervision, plan and EMIS staff). Central EMIS Directorate, with the cooperation of Academic Supervision Department team are responsible for verification of the data at different levels. MoE data and information are web-enable to stakeholders through MoE and EMIS websites.
 
 Despite  the  progress in  the  EMIS  during  the  past  years,  still  the  system  some  of  the  data  are  not sufficiently  reliable  and on  time,  and  there is lack  data  for  some  key  educational  indicators  (i.e.  net enrolment rate, dropout rate, net intake rate and children with various disabilities).
 
@@ -391,26 +398,26 @@ In  addition  to  the  EMIS,  there  are  some  independent  information  system
 ### Finance and procurement :
 Finance and procurement systems of the MoE are centralized, which limits the MoE's capacity in budget execution. As shown in table 4, the MoE could only spend 32% of its developmental budget in 2012, and 62% in 2011.
 
-2008 | 2009 | 2010 | 2011 | 2012 | 2013
+Table 5- MoE budget in USD and budget execution during last six years
+
+ | 2008 | 2009 | 2010 | 2011 | 2012 | 2013
 --- | --- | --- | --- | --- | --- | ---
 Ordinary budget | 265,937,267 | 265,937,268 | 265,937,269 | 265,937,270 | 391549166 | 512723423
 Development budget | 140,653,896 | 198,577,339 | 162,904,423 | 153,641,422 | 169250000 | 186130000
 Total budget | 406,591,163 | 464,514,606 | 428,841,691 | 419,578,691 | 560799166 | 698853423
 Development budget Execution percentage | 37% | 23% | 54% | 62% | 32% | %37
 
-Table 5- MoE budget in USD and budget execution during last six years
-
 Although  all  teachers  have  bank  account  to  receive  their  salaries,  still  many  teachers  do  not receive their salaries on time. There are usually delays in transferring budget to provinces, which affect the implementation of activities.
 
 ### Human Resource  Development :
-Total  number  of  positions  allocated  to  the  MoE  has  reached 258,996 that is 31% of total positions (over 70% of civil servants) within the government. During the last few years, the government increased the MoE positions by 11,000 annually, which was less than the MoE's need (25,000 annually). So far,  235153 employees have passed the priority reform and restructuring (PRR) process, and receive their salaries based on PRR system.
+Total number of positions allocated to the MoE has reached 258,996 that is 31% of total positions (over 70% of civil servants) within the government. During
 
 14
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
-
+the last few years, the government increased the MoE positions by 11,000 annually, which was less than the MoE’s need (25,000 annually). So far, 235153 employees have passed the priority reform and restructuring (PRR) process, and receive their salaries based on PRR system.
 The MoE has started computerizing the employees' records to ensure those who left their jobs, retired, or passed away are out of payroll, and that those who should retire do so.
 
 Capacity  development  has  been  a  priority  for  the  Ministry,  but  still  the  MoE  does  not  have  a comprehensive  capacity  development  strategy.  Many  of  the  MoE  officials  have  participated  in English and computer trainings, and over 1650 technical assistants are currently hired to build the capacity of civil servants. However, the fact that the MoE's demand for TAs has not reduced implies that the capacity of civil servants has not  been built yet. Many TAs are reported to be leading the MoE's activities themselves instead of developing the capacity of the civil servants to do the activities.
@@ -523,14 +530,14 @@ The MoE encourages and supports private sector and NGOs to contribute in the imp
 The  MoE  will  strengthen  Schools  Management  Shuras  to  increase parents', local elders', and influential persons' engagement in school affairs, especially in insecure provinces. The MoE will increase the use of local communities' capacities for protecting schools. In addition, the MoE will support establishment of  Community - Based Schools (CBS) in remote rural  areas  as  well  as  insecure  parts  of  the  country.    Community  participation  and  public awareness will be linked on national, provincial, district and school levels.
 
 #### Increase coordination with stakeholders :
-The MoE will enhance and strengthen coordination with  the  stakeholders  particularly,  the  line  ministries,  the  NGOs,  the  private  sector  and  the international donors in policy formulation, planning, decision making process and implementation  phases.  At  the  same  time,  the  MoE  will  promote  its  ownership  on  policy formulation  and  development  programs  as  well.  It  will  also  strengthen  coordination  with  the other development programs like the 'National Solidarity Program' to use their capacities and resources for funding the priority education programs.
+The MoE will enhance and strengthen coordination with the stakeholders particularly, the line ministries, the NGOs, the private sector and the international donors in policy formulation, planning, decision making process and implementation phases. At the same time, the MoE will promote its ownership on policy formulation and development programs as well. It will also strengthen coordination with the
 
 18
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
-
+other development programs like the “National Solidarity Program” to use their capacities and resources for funding the priority education programs.
 #### Preparation  for  transformation  phase:
 Considering  the  political  changes  which  will  happen after  1393  (2014),  and  based  on  the  commitments  in  the  international  conferences  like Bonn/2010  and  Tokyo/2012,  the  MoE  intends  to  provide  its  services  more  effectively  and efficiently by enhancing the level of local community participation in the management of schools. It  also  urges  international  donors  to  work  through  close  coordination  with  the  MoE  and  in accordance with the strategic plans in order to enhance the effectiveness of international aids and to spend at least 50% of their funding through national budget of Afghanistan' government.
 
@@ -584,11 +591,11 @@ High | 440 | 560 | 690 | 840 | 1,010 | 1,210 | 1,440
 No. of employees | Low | 8,400 | 8,600 | 8,800 | 9,000 | 9,200 | 9,500 | 9,900 | 10,300
 High | 8,000 | 8,500 | 9,000 | 9,500 | 10,300 | 11,300 | 13,100
 Curriculum Development | Scenario | 1392 | 1393 | 1394 | 1395 | 1396 | 1397 | 1398 | 1399
-Percentage of students who receive full | Low | 85% | 90% | 95% | 100% | 100% | 100% | 100% | 100%
-sets of textbooks | High | 95% | 100% | 100% | 100% | 100% | 100% | 100%
+Percentage of students who receive full sets of textbooks | Low | 85% | 90% | 95% | 100% | 100% | 100% | 100% | 100%
+ | High |  | 95% | 100% | 100% | 100% | 100% | 100% | 100%
 Teacher Education | Scenario | 1392 | 1393 | 1394 | 1395 | 1396 | 1397 | 1398 | 1399
-Percentage of Teachers with Minimum | Low | 47% | 52% | 56% | 61% | 66% | 71% | 75% | 80%
-Qualification | High | 55% | 64% | 71% | 78% | 86% | 93% | 100%
+Percentage of Teachers with Minimum Qualification | Low | 47% | 52% | 56% | 61% | 66% | 71% | 75% | 80%
+ | High |  | 55% | 64% | 71% | 78% | 86% | 93% | 100%
 No of TTC students | Low | 66,400 | 68,400 | 70,300 | 72,200 | 74,200 | 76,100 | 78,100 | 80,000
 High | 78,400 | 85,300 | 92,200 | 99,200 | 106,100 | 113,100 | 120,000
 No of district TE centers | Low | 187 | 220 | 254 | 287 | 320 | 353 | 387 | 420
@@ -631,7 +638,7 @@ High | 923,000 | 1,102,000 | 1,282,000 | 1,461,000 | 1,641,000 | 1,820,000 | 2,0
 No. of Literacy Courses | Low | 19,787 | 24,460 | 29,134 | 33,807 | 38,480 | 43,153 | 47,827 | 52,500
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 High | 46,100 | 55,100 | 64,100 | 73,100 | 82,000 | 91,000 | 100,000
-No. of Community Literacy Centers Constructed | Low | 16 | 18 | 20 | 22 | 24 | 26 | 28 | 30
+No. of Community Literacy Centers Constructed per year | Low | 16 | 18 | 20 | 22 | 24 | 26 | 28 | 30
 High | 20 | 25 | 30 | 35 | 40 | 45 | 50
 No. of Literacy Full-time Teachers | Low | 4,667 | 4,857 | 5,048 | 5,238 | 5,429 | 5,619 | 5,810 | 6,000
 High | 5,250 | 5,550 | 5,850 | 6,150 | 6,400 | 6,700 | 7,000
@@ -686,10 +693,10 @@ To provide equitable access to quality education for all school-age children wit
 
 The  MoE  will  implement  the  following  strategies  to  achieve  the  above  mentioned  goal  and objectives of General Education sub-program:
 
-##### Establish  Community-based  education (CBE) and outreach  classes  in  remote rural areas:
+##### 1. Establish Community-based education (CBE) and outreach classes in remote rural areas:
 Establishing CBE and outreach classes in the remote rural areas is a main strategy of the MoE  for increasing access to education. The Ministry of Education encourages implementing  partners  to  participate  in implementing this strategy, and will gradually  enter these  CBE and  outreach classes to the official education system.
 
-##### School  mapping:
+##### 2. School mapping:
 The  MoE  will  map existing  schools  and  resident  areas  to identify  where  new  schools  or  CBE classes  need  to  be  established.  School mapping  will include intensive field researches and local people will be involved  in  planned  future  educational centers.  If  necessary,  two  schools  that are established very close to one another will be combined together.
 
 24
@@ -698,36 +705,36 @@ The  MoE  will  map existing  schools  and  resident  areas  to identify  where 
 
 [[START OF PAGE 25]]
 
-##### Increase girls' enrolment:
+##### 3. Increase girls’ enrolment:
 The Ministry's strategy for increasing girl's enrolment includes the following key  elements:  (1)  conduct  public  awareness  programs  through  engaging  local  and  religious  influential persons  and  raising  awareness  on  the  importance  of  girls'  education  in  Islam,  (2)  recruit  more  female teachers  and  administrative  staff  particularly  in  rural  areas,  (3)  relocate  qualified  female  teachers  from urban to  rural  areas,  and  (4)  equip  female  schools  with  boundary  walls,  drinking  water,  and  sanitation facilities.
 
-##### Distribution of food and  stationery:
+##### 4. Distribution of food and stationery:_
 The Ministry  of Education in close cooperation with international organizations  such  as  World  Food  Program  (WFP)  will  distribute  food  and  stationery  to  students  who belong to poor families in order to encourage poor families to enroll their children in schools and to avoid poverty-related drop-outs. The implementation of this strategy depends on the availability of budget.
 
-##### Standard student learning achievement tests :
+##### 5. Standard student learning achievement tests:
 The General Education Deputy Ministry in collaboration with  Curriculum  Development  Department  will  develop  standard  tests  for  assessing  student  learning achievement  at  grades  3,  6,  and  9,  and  will  administer  the  tests  regularly  to  find  out  the  quality  of education at schools.
 
-##### Promote  Sciences  and  mathematics  Education:
+##### 6. Promote Sciences and mathematics Education:
 The  MoE  Science  Center  will  improve  the  quality  of science and mathematics education in schools by training science teachers on the utilization of laboratories for implementing scientific experiments, distributing teacher guides for scientific experiments, equipping schools with laboratories, and distributing mathematics kits and other learning materials.
 
-##### Strengthen  Academic  Supervision:
+##### 7. Strengthen Academic Supervision:
 The  MoE  will  evaluate  the  impact  of  academic  supervision  in improving the  quality  of  education,  and  will  take  measures  for  improving  the  supervision  system.  The MoE will also provide capacity development opportunities for the MoE's academic supervisors.
 
-##### Early Childhood Education:
-The MoE in coordination with MoLSAMD will develop Afghanistan's early childhood education policy based on the specific situation of the country in order to facilitate achieving the first objective of  -Education  for  All‖.  The  Curriculum  Department  will  develop  early  childhood curriculum and Teacher Education Department prepare teachers for early childhood education. The MoE encourages  development  partners  and  private  sector  to  participate  in  implementing  early  childhood education.
+##### 8. Early Childhood Education:
+The MoE in coordination with MoLSAMD will develop Afghanistan’s early childhood education policy based on the specific situation of the country in order to facilitate achieving the first objective of “Education for All”. The Curriculum Department will develop early childhood curriculum and Teacher Education Department prepare teachers for early childhood education. The MoE encourages development partners and private sector to participate in implementing early childhood education.
 
-##### Strengthen School Management Councils (Shuras):
+##### 9. Strengthen School Management Councils (Shuras):
 The MoE plans to increase local elders', influential individuals',  and  parents'  participation  in  school  affairs  through  establishing  and  strengthening  School Management Shuras. School shuras will contribute in managing, supervising, and protecting schools. The MoE will also provide school shuras with grants to use for improving schools, and will empower them to accept more responsibilities for school supervision.
 
-##### Encourage  communities  to  contribute in school construction:
+##### 10. Encourage communities to contribute in school construction:
 The MoE encourages communities, especially benevolent businessmen, to contribute more  in  donating  lands  for  schools  and constructing schools. The MoE will prioritize construction of those schools, in which, the  community  provides  more contribution.
 
-##### Increase teaching hours of primary education:
+##### 11. Increase teaching hours of primary education:
 The  MoE  will  increase  the
 
 annual  teaching  hours  of  the  primary  education,  and  will  supervise  schools  to  make  sure  of  its  exact implementation. In addition, the MoE will change schools with three shifts into Double-Shift Schools by increasing the number of schools in populated urban areas in order to make it possible for those schools to increase their teaching hours.
 
-##### Education for children with disabilities:
+##### 12. Education for children with disabilities:
 The MoE intends to provide access to children with disabilities and to provide them with necessary  facilities. For this, the MoE will construct school buildings that are
 
 25
@@ -751,19 +758,19 @@ The following five key projects are designed to achieve the General Education ob
 Results /Projects | Indicators | Baseline | Annual Targets
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
-Increase access to quality education for all | Gross Enrollme | Female | 71% | 77% | 82% | 88% | 93% | 99% | 104% | 110%
+Increase access to quality education for all | Gross Enrollment Ratio-Primary | Female | 71% | 77% | 82% | 88% | 93% | 99% | 104% | 110%
 Male | 99% | 101% | 102% | 104% | 105% | 107% | 108% | 110%
-nt Ratio- Primary | Total | 86% | 89% | 93% | 96% | 100% | 103% | 107% | 110%
-Gross Enrollme nt Ratio- | Female | 40% | 44% | 48% | 52% | 56% | 60% | 64% | 68%
+Total | 86% | 89% | 93% | 96% | 100% | 103% | 107% | 110%
+Gross Enrollment Ratio-Lower Secondary | Female | 40% | 44% | 48% | 52% | 56% | 60% | 64% | 68%
 Male | 68% | 71% | 74% | 77% | 81% | 84% | 87% | 90%
-Secondar y | Total | 54% | 58% | 61% | 65% | 69% | 73% | 76% | 80%
-Gross Enrollme nt Ratio- Upper | Female | 28% | 31% | 34% | 37% | 39% | 42% | 45% | 48%
+Total | 54% | 58% | 61% | 65% | 69% | 73% | 76% | 80%
+Gross Enrollment Ratio-Upper Secondary | Female | 28% | 31% | 34% | 37% | 39% | 42% | 45% | 48%
 Male | 49% | 52% | 54% | 57% | 60% | 63% | 65% | 68%
-Secondar | Total | 39% | 42% | 45% | 48% | 51% | 54% | 57% | 60%
-Percentage of grade 3-6-9 passed standard tests | 80% | 82% | 84% | 86% | 88% | 90% | 90 %
+Total | 39% | 42% | 45% | 48% | 51% | 54% | 57% | 60%
+Percentage of grade 3-6-9 passed standard tests | 80% | 82% | 84% | 86% | 88% | 90% | 90%
 Project 1) Increase enrollment in General Education | No. of Students- Primary | Female | 2490746 | 2863497 | 3236247 | 3608998 | 3981748 | 4354499 | 4727249 | 5,100,000
 Male | 3621604 | 3861375 | 4101146 | 4340917 | 4580687 | 4820458 | 5060229 | 5,300,000
-Total | 6112350 | 6724872 | 7337393 | 7949915 | 8562435 | 9174957 | 9787478 | 10,400,00 0
+Total | 6112350 | 6724872 | 7337393 | 7949915 | 8562435 | 9174957 | 9787478 | 10,400,000
 No. of | Female | 561942 | 654522 | 747101 | 839681 | 932261 | 1024841 | 1117420 | 1,210,000
 
 27
@@ -772,17 +779,17 @@ No. of | Female | 561942 | 654522 | 747101 | 839681 | 932261 | 1024841 | 1117420
 
 [[START OF PAGE 28]]
 
-Students- Lower Secondar | Male | 994534 | 1083886 | 1173239 | 1262591 | 1351943 | 1441295 | 1530648 | 1,620,000
+Students-Lower Secondary | Male | 994534 | 1083886 | 1173239 | 1262591 | 1351943 | 1441295 | 1530648 | 1,620,000
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-y | Total | 1556476 | 1738408 | 1920340 | 2102272 | 2284204 | 2466136 | 2648068 | 2,830,000
-No. of Students- Upper Secondar y | Female | 324198 | 382170 | 440141 | 498113 | 556085 | 614057 | 672028 | 730,000
+Total | 1556476 | 1738408 | 1920340 | 2102272 | 2284204 | 2466136 | 2648068 | 2,830,000
+No. of Students-Upper Secondary | Female | 324198 | 382170 | 440141 | 498113 | 556085 | 614057 | 672028 | 730,000
 Male | 603373 | 672891 | 742409 | 811927 | 881446 | 950964 | 1020482 | 1,090,000
 Total | 927571 | 1055061 | 1182551 | 1310041 | 1437530 | 1565020 | 1692510 | 1,820,000
 No. of GE students | Female | 3376886 | 3900188 | 4423490 | 4946792 | 5470094 | 5993396 | 6516698 | 7,000,000
 Male | 5219511 | 5618152 | 6016794 | 6415435 | 6814076 | 7212717 | 7611359 | 8,000,000
-Total | 8596397 | 9518340 | 10440284 | 11362227 | 12284170 | 13206113 | 14128057 | 15,000,00 0
-No. of public awareness | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-implemented No. of districts in which school mapping has been conducted | 100 | 100 | 100 | 112 | 135 | 135 | 142
+Total | 8596397 | 9518340 | 10440284 | 11362227 | 12284170 | 13206113 | 14128057 | 15,000,000
+No. of public awareness implemented | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+No. of districts in which school mapping has been conducted | 100 | 100 | 100 | 112 | 135 | 135 | 142
 No. of community based and accelerated learning classes | 8,000 | 9000 | 10000 | 11000 | 12000 | 13000 | 14000 | 15000
 No. of GE schools | 14599 | 15371 | 16142 | 16914 | 17685 | 18457 | 19228 | 20000
 No. of pre-primary classes | 3 | 10 | 15 | 20 | 20 | 20 | 20 | 20
@@ -799,7 +806,7 @@ No. of GE | Female | 61320 | 70231 | 79143 | 88054 | 96966 | 105877 | 114789 | 1
 teachers | Male | 122858 | 126921 | 130984 | 135047 | 139111 | 143174 | 147237 | 151,300
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Total | 184178 | 197153 | 210127 | 223102 | 236076 | 249051 | 262025 | 275,000
-No. of GE employee s | Female | 65818 | 76044 | 86270 | 96496 | 106722 | 116948 | 127174 | 137,400
+No. of GE employees | Female | 65818 | 76044 | 86270 | 96496 | 106722 | 116948 | 127174 | 137,400
 Male | 159424 | 163221 | 167017 | 170814 | 174610 | 178407 | 182203 | 186,000
 Total | 225242 | 239207 | 253173 | 267138 | 281104 | 295069 | 309035 | 323,000
 No. of students receiving food per year | 100,000 | 100,000 | 100,000 | 100,000 | 100,000 | 100,000 | 100,000
@@ -820,7 +827,7 @@ Standard tests | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 
 implemented
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Project 3) Constructio n and rehabilitatio n of schools | Standard Examination Implemented | 51% | 53% | 55% | 57% | 59% | 61% | 63% | 65%
+Project 3) Construction and rehabilitation of schools | Standard Examination Implemented | 51% | 53% | 55% | 57% | 59% | 61% | 63% | 65%
 No. of schools constructed per year | 625 | 675 | 725 | 775 | 825 | 875 | 925 | 975
 No. of schools repaired per year | 300 | 300 | 300 | 300 | 300 | 300 | 300 | 300
 No. of surrounding walls constructed per year | 200 | 200 | 200 | 200 | 200 | 200 | 200 | 200
@@ -839,9 +846,9 @@ No. of schools equipped with library per year | 300 | 300 | 300 | 300 | 300 | 30
 
 [[START OF PAGE 31]]
 
-Project 5) Improve the quality of school | No. of school shuras trained | 1000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000
+Project 5) Improve the quality of school management | No. of school shuras trained | 1000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-managemen t | No. of schools receiving grants per year | 2000 | 2,000 | 2,000 | 2,000 | 2,000 | 2,000 | 2,000 | 2,000
+No. of schools receiving grants per year | 2000 | 2,000 | 2,000 | 2,000 | 2,000 | 2,000 | 2,000 | 2,000
 
 31
 
@@ -872,23 +879,23 @@ Develop  human  resources  with  competencies  needed  for  religious  preaching
 
 The  MoE  will  implement  the  following  strategies  to  achieve  the  above  mentioned  goal  and objectives of Islamic education program:
 
-##### Consultation with the Islamic Ulamas and education experts to improve Islamic education:
+##### 1. Consultation with the Islamic Ulamas and education experts to improve Islamic education:
 Improving the  quality  of  Islamic  education  is  a  key  priority  for  the  Islamic  education  program.  This  program  will regularly assess and improve the policies of Islamic education through extensive consultation with Islamic Ulamas and education experts.
 
-##### Train teachers of Islamic schools in new teaching methods:
+##### 2. Train teachers of Islamic schools in new teaching methods:
 The Islamic Education Deputy Ministry is determined to promote active learning and new teaching methods, such as group work in Islamic schools.
 
 Therefore, this  program in close collaboration with  the  Teacher  Education  Department  will train Islamic education teachers in active learning, and will ask district teacher education centers to observe the teaching of Islamic education  teachers  and  to  provide  guidance  on their teaching practices.
 
-##### Revise  the  curriculum  of  Darululums 4 :
+##### 3. Revise the curriculum of Darululums⁴:
 The Islamic  Education  Program  will  develop  the expected  competencies  of  Islamic education teachers  in  collaboration  with  the  TED,  and
 
 will revise the curriculum of Darululums accordingly in order to ensure that the graduates of Darululums acquire both Islamic knowledge and teaching skills.
 
-##### Increase  girls'  enrollment  in  Islamic  education:
+##### 4. Increase girls’ enrollment in Islamic education:
 Increasing  girls'  enrollment  in  the  Islamic  education centers is another policy of the MoE. The following strategies will be used for increasing girls' enrollment in Islamic Education: conducting public awareness programs, increasing the number of qualified female teachers  for  Islamic  education  centers,  recruiting  female  TTC  lecturers  and  female  teachers  of  general schools  to  teach  in  Darululums  and  Madrasas  through  overtime  payment,  and  equip  Madrasas  and Darululums with boundary walls, healthy drinking water, and sanitation facilities.
 
-##### Utilize General Education Schools and Teacher Training Colleges for Islamic Education:
+##### 5. Utilize General Education Schools and Teacher Training Colleges for Islamic Education:
 The Deputy Ministry for Islamic education in coordination with the Deputy Ministry for Curriculum Development and Teacher Education will use the buildings of TTCs as needed in the second shift for Darululums especially
 
 > 4 - Darululums are those Islamic Education centers that offer education up to grade 14. A purpose of Darululums is to train teachers for Islamic Education subjects.
@@ -899,12 +906,12 @@ The Deputy Ministry for Islamic education in coordination with the Deputy Minist
 
 [[START OF PAGE 33]]
 
-- for females. This Deputy Ministry also in coordination with the Deputy Ministry for General Education will  use  the  buildings  of  General  Education  Schools  for  Islamic  schools  (Madrasas),  and  again  with particular  focus  on  females.  In  addition,  the  Islamic  Education  Deputy  Ministry  will  recruit  female teachers of TTCs and High schools as needed to teach some same subjects on overtime basis.
+for females. This Deputy Ministry also in coordination with the Deputy Ministry for General Education will use the buildings of General Education Schools for Islamic schools (Madrasas), and again with particular focus on females. In addition, the Islamic Education Deputy Ministry will recruit female teachers of TTCs and High schools as needed to teach some same subjects on overtime basis.
 
-##### Encourage private sector to participate in Islamic education:
+##### 6. Encourage private sector to participate in Islamic education:
 The MoE will encourage private sector to participate actively in providing Islamic education according to the MoE rules and regulations. Also, the MoE encourage existing unregistered Islamic private schools to get registered and to implement the MoE's official curriculum. Then the MoE will approve their students' certifications.
 
-##### Attract  Islamic  countries'  financial  support:
+##### 7. Attract Islamic countries’ financial support:
 The Islamic  Education  Deputy  Ministry  will  ask  Islamic countries  to  participate  in  funding  Afghanistan  Islamic  education  program  according  to  the  National Education  Strategic  Plan. For  this  purpose,  the  Deputy  Ministry  for  Islamic  Education  will  establish  a development  board  for  Islamic  Education,  in  which  the  representatives  of  Islamic  countries  and  other relevant stakeholders attend regular meetings to raise funds and discuss Islamic education policies.
 
 33
@@ -917,18 +924,18 @@ The Islamic  Education  Deputy  Ministry  will  ask  Islamic countries  to  part
 
 The following five key projects are designed to achieve the Islamic Education objectives and apply this program's strategies: (1) Increase enrollment in Islamic Education, (2) Improve the quality of Islamic education, (3) Construction and rehabilitation of Islamic centers, (4) Equip Islamic centers, and (5) Improve  the  quality  of  Islamic  education  management.  The  following  table  includes  this  program's  results,  key  projects,  and  their  indicators  with baselines and annual targets:
 
-Results /Projects | Baseline | Annual Targets
+Results /Projects | Indicators | Baseline | Annual Targets
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Indicators | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
+2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 Increase access to quality Islamic Education | No. of Islamic Education Students | 280,000 | 290,000 | 300,000 | 310,000 | 320,000 | 330,000 | 340,000 | 350,000
-No. of Islamic Education Students | Female | 50146 | 57268 | 64390 | 71512 | 78634 | 85756 | 92878 | 100,000
+Project 1) Increase enrollment in Islamic Education | No. of Islamic Education Students | Female | 50146 | 57268 | 64390 | 71512 | 78634 | 85756 | 92878 | 100,000
 Male | 204170 | 210717 | 217264 | 223811 | 230359 | 236906 | 243453 | 250,000
 Total | 254316 | 267985 | 281654 | 295323 | 308993 | 322662 | 336331 | 350,000
 No. of Islamic Education Students in grades 13-14 | Female | 2902 | 2773 | 2644 | 2515 | 2387 | 2258 | 2129 | 2,000
 Male | 3299 | 3971 | 4642 | 5314 | 5985 | 6657 | 7328 | 8,000
-Project 1) Increase | Total | 6201 | 6744 | 7286 | 7829 | 8372 | 8915 | 9457 | 10,000
-enrollment in Islamic | No. of IE centers | Madrasa | 707 | 772 | 838 | 903 | 969 | 1034 | 1100 | 1,165
-Education | Darululum | 61 | 72 | 84 | 95 | 106 | 117 | 129 | 140
+Total | 6201 | 6744 | 7286 | 7829 | 8372 | 8915 | 9457 | 10,000
+No. of IE centers | Madrasa | 707 | 772 | 838 | 903 | 969 | 1034 | 1100 | 1,165
+Darululum | 61 | 72 | 84 | 95 | 106 | 117 | 129 | 140
 Darulhuffaz | 144 | 146 | 149 | 151 | 153 | 155 | 158 | 160
 Outreaches | 89 | 81 | 74 | 66 | 58 | 50 | 43 | 35
 Total | 1001 | 1072 | 1144 | 1215 | 1286 | 1357 | 1429 | 1,500
@@ -943,20 +950,20 @@ No. of IE | Female | 502 | 673 | 844 | 1015 | 1187 | 1358 | 1529 | 1,700
 teachers | Male | 6311 | 6424 | 6536 | 6649 | 6762 | 6875 | 6987 | 7,100
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Total | 6813 | 7097 | 7381 | 7665 | 7948 | 8232 | 8516 | 8800
-Female | 562 | 753 | 944 | 1135 | 1327 | 1518 | 1709 | 1,900
-No. of IE employees | Male | 8581 | 8555 | 8529 | 8503 | 8478 | 8452 | 8426 | 8,400
+No. of IE employees | Female | 562 | 753 | 944 | 1135 | 1327 | 1518 | 1709 | 1,900
+Male | 8581 | 8555 | 8529 | 8503 | 8478 | 8452 | 8426 | 8,400
 Total | 9143 | 9308 | 9474 | 9639 | 9804 | 9969 | 10135 | 10,300
 No. of public awareness implemented | 59 | 70 | 60 | 70 | 80 | 80 | 90 | 90
-No. of IE centers | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+No. of IE centers established per year | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Project 2) Improve the quality of Islamic Education | No. of IE teachers trained | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000
 Percentage of IE students receiving full set of textbooks | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 No. of IE administrators trained | 200 | 200 | 200 | 200 | 200 | 200 | 200 | 200
-Percentage of Islamic Centers with usable building | 36% | 37% | 39% | 41% | 43% | 46% | 48% | 50%
+Project 3) Construction and rehabilitation of Islamic centers | Percentage of Islamic Centers with usable building | 36% | 37% | 39% | 41% | 43% | 46% | 48% | 50%
 No. of Islamic centers constructed per year | 35 | 30 | 50 | 50 | 60 | 60 | 70 | 80
 No. of surrounding walls constructed per year | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20
 No. of sanitation facilities constructed per year | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20
 No. of Islamic centers equipped with drinking water facilities | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20
-No. of Islamic Education centers equipped with computer labs | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50
+Project 4) Equip Islamic Centers | No. of Islamic Education centers equipped with computer labs | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50
 No. of supervisors trained | 50 | 50 | 50 | 60 | 70 | 80 | 90 | 100
 
 35
@@ -995,22 +1002,22 @@ To  provide  quality  textbooks  and teacher guides  according to the new curric
 
 The  MoE  will  implement  the  following  strategies  to  achieve  the  above  mentioned  goal  and objectives curriculum development program:
 
-##### Revise  curriculum  and  textbooks:
+##### 1. Revise curriculum and textbooks:
 The  Curriculum  Development  Program  will  regularly  evaluate  the curriculum implementation  in  schools  all  over the  country  and  the  results  will  be  used  for revising  the  existing  curriculum  and  textbooks. This program will  also assign  textbook authors to  teach  the  textbooks  in  schools  in  order  to become aware of the shortcomings of the textbooks and to enable them to correct them. In addition,  this  program  will  invite  qualified  and experienced teachers to assist and advise textbook  authors  in  the  revision  of  textbooks. This  program  will  consult  with  civil  society, students,  parents and  other  stakeholders  for improving the curriculum and also will use experiences of other countries in curriculum development.
 
-##### Add competencies into the curriculum:
+##### 2. Add competencies into the curriculum:
 The Curriculum Development Department will develop expected competencies for each grade to be used for improving textbooks, assessing students' learning outcomes, and designing standard tests.
 
-##### Develop  a  curriculum  for  early  childhood  education:
+##### 3. Develop a curriculum for early childhood education:
 The  Curriculum  Development  Department  will develop curriculum and learning materials for early childhood education.
 
-##### Develop  textbooks  for  third  languages,  Braille  and  sign  languages:
+##### 4. Develop textbooks for third languages, Braille and sign languages:
 This  program  will  continue developing  textbooks  in  official  third-languages  and  will  make  necessary  corrections  in  the  already developed textbooks. This program will also develop textbooks in Braille language for children with visual impairment and in sign language for children with hearing impairment.
 
-##### Focus on reading comprehension in grades 1 to 3:
+##### 5. Focus on reading comprehension in grades 1 to 3:
 The Curriculum Development Department will revise the curriculum of grades 1 to 3 in order to make sure enough emphasis is put on acquiring reading with comprehension skills. It is crucial for students to learn to read with comprehension at the end of grade 3, otherwise  they  will  struggle  in  higher  grades.  The  Curriculum  Development  Program  will  reduce  the number of textbook titles at grades 1-3 and reduce teaching hours of those subjects that are less important in order to increase time for developing students' reading skills.
 
-##### Improve the effectiveness of printing and distributing textbooks:
+##### 6. Improve the effectiveness of printing and distributing textbooks:
 The MoE will alter textbook printing and distributing system to ensure that students receive full sets of textbooks  on time. In this regard, the MoE will develop comprehensive plans for printing and distributing textbooks based on accurate data and information, and will evaluate the process regularly.
 
 37
@@ -1019,7 +1026,7 @@ The MoE will alter textbook printing and distributing system to ensure that stud
 
 [[START OF PAGE 38]]
 
-##### Capacity development:
+##### 7. Capacity development:
 Capacity development of the curriculum development department is a priority of the MoE, and the MoE will provide training programs on textbook writing and competency assessment. The  MoE  will  provide  scholarships  for  the  academic  members  of  the  department  to  study  abroad.  In addition,  the  MoE  in  coordination  with  MoHE  will  put  aside  a  number  of  scholarships  in  the  field  of curriculum development, thus, more experts will be trained in this field.
 
 38
@@ -1072,26 +1079,26 @@ To provide professional cadre (male and female) for general and Islamic schools,
 
 The  MoE  will  implement  the  following  strategies  to  achieve  the  above  mentioned  goal  and objectives of teacher education program:
 
-##### Competency-  based  teacher  education :
+##### 1. Competency- based teacher education:
 The  teacher  Education  program  will  use  Afghanistan  teacher competency framework -which have already been developed- to improve TTC curriculums and training materials, to evaluate and promote teachers, and to develop certification and accreditation system.
 
-##### Conduct teacher competency tests:
+##### 2. Conduct teacher competency tests:
 The Teacher Education Program will develop and implement standard teacher competency tests in order to evaluate current teachers as well as the graduates of TTC programs.
 
 The  results  of  the  tests  will  be  used  for developing teacher training packages, improving teacher education programs, and teacher certification. The tests will not only evaluate teachers' knowledge, but also their practical skills.
 
-##### Focus  on  TTC  in-Services  program:
-The MoE  will  enroll  all  existing  teachers  who have  only  grade  12  degree  in  TTC  inservice  two-year  program  to  obtain  their teacher  education  degree.  The  MoE  will supervise TTC  in-service programs in districts  closely  to  ensure  students  attend
+##### 3. Focus on TTC in-Services program:
+The MoE will enroll all existing teachers who have only grade 12 degree in TTC in-service two-year program to obtain their teacher education degree. The MoE will supervise TTC in-service programs in districts closely to ensure students attend
 
 classes  regularly  and  receive  quality  teacher  education.  In  remote  rural  areas  where  there  is  a  severe shortage of qualified teachers, the MoE will hire graduates of grade 12 as teachers and at the same time enroll them in TTC in-service programs.
 
-##### Female teacher  education:
+##### 4. Female teacher education:
 One of  the  main  strategies  of  the  MoE  for  increasing  girls'  enrollment  in schools is to increase the number of qualified female teachers. Therefore, this program puts recruiting and training female teachers as its priority, and provides incentives for girls to enroll in TTCs and will provide necessary facilities for them such as dormitories.
 
-##### Revise TTC pre-service admission system:
+##### 5. Revise TTC pre-service admission system:
 The MoE in cooperation in cooperation with the MoHE will revise TTC pre-service admission system in order to be able to enroll those who have interest in teaching profession and have minimum qualifications for studying at TTCs. Moreover, the Ministry will obligate pre-service students to serve as teachers for at least 2 years after graduation.
 
-##### Tailor teacher education programs to specific needs of schools and teachers:
+##### 6. Tailor teacher education programs to specific needs of schools and teachers:
 The MoE will identify each district's  shortage  of  qualified  teachers  for  each  subject,  and  will  enroll  TTC  students  accordingly.  The
 
 40
@@ -1102,40 +1109,40 @@ The MoE will identify each district's  shortage  of  qualified  teachers  for  e
 
 MoE also design and implement short-term training workshops based on specific needs of teachers at each district.
 
-##### Train Community-Based school teachers:
+##### 7. Train Community-Based school teachers:
 The Teacher Education Program will develop standard training packages  for  community  based  school  teachers,  and  in  cooperation  with  implementing  partners,  will conduct training for the teachers in order to improve the quality of community-based education.
 
-##### Train early childhood teachers:
+##### 8. Train early childhood teachers:
 Considering the importance of early childhood education, the MoE will train early childhood teachers in TTCs and will provide support to the teachers in district teacher education centers.
 
-##### Strengthen  TTC  practicum:
-The  Teacher  Education  program  will  increase  the  duration  of  TTC  perservice  students' practical training in schools, and will assign experienced TTC lecturers to observe the teacher-students' teaching performance and to provide advices and necessary guidance to them.
+##### 9. Strengthen TTC practicum:
+The Teacher Education program will increase the duration of TTC per-service students’ practical training in schools, and will assign experienced TTC lecturers to observe the teacher-students’ teaching performance and to provide advices and necessary guidance to them.
 
-##### Prepare  teachers  for  inclusive  education:
+##### 10. Prepare teachers for inclusive education:
 The  MoE  will incorporate  inclusive  education  concepts  and strategies in TTC curriculum. In addition, the MoE will improve teacher education centers according to the inclusive education principles in order to make these centers responsive to the needs of different groups of teacher-students.
 
-##### Improve the quality of TTCs:
+##### 11. Improve the quality of TTCs:
 The Teacher Education Program will revise the recently developed TTC curriculum to improve its quality. This program will also develop and implement training workshops for TTC lecturers to improve the quality of teacher education in TTCs. For instance, the MoE will provide scholarships for TTC lecturers to study at master's programs.
 
-##### Expand district  teacher  education  centers:
+##### 12. Expand district teacher education centers:
 The  MoE  will  establish  a  teacher  education  center  at  each district.  These  centers  will  provide  in-service  teacher  education  and  learning  materials  for  teachers. Teacher educators at these centers will visit schools regularly to follow up trainings and provide coaching to teachers.
 
-##### Provide Accelerated  Learning  for  teachers  with  education  less  than  12  -  grade :
-Since  about  10%  of teachers  do not have even grade 12 th degree, the  MoE  will  enroll these  teachers  in  accelerated  learning programs  to  finish  their  education,  and  to  acquire  necessary  qualifications  for  entering  TTC  in-service program.
+##### 13. Provide Accelerated Learning for teachers with education less than 12 – grade:
+Since about 10% of teachers do not have even grade 12th degree, the MoE will enroll these teachers in accelerated learning programs to finish their education, and to acquire necessary qualifications for entering TTC in-service program.
 
-##### Teachers learning circles:
+##### 14. Teachers learning circles:
 The MoE will support teacher to form learning circles within schools, observe each other classes, provide advices to one another, exchange experiences, and learn from each other in an informal setting. In addition, the MoE will train teachers in action research to enable them as a group to conduct small researches in order to solve their problems and to improve their performance.
 
-##### Administrators' training:
+##### 15. Administrators’ training:
 The  Teacher  Education  program will  continue  conducting  training  for  school administrators, and develop and implement new training packages for them based on Afghanistan school administrators' competency framework.
 
-##### Teacher  certification:
+##### 16. Teacher certification:
 The  Ministry  of  Education  will  develop  teachers'  certification  system  based  on criteria  such as  teacher  competency  test  result,  qualification,  and  teaching  experience.  This  system  will have both horizontal dimension (teachers in the same level but in different professional fields) and vertical dimension (higher positions for more qualified teachers). This system  will  determine how teachers will promote professionally.
 
-##### Accreditation  of  teacher  education  institutes:
+##### 17. Accreditation of teacher education institutes:
 The  MoE  will  develop  accreditation  system  for  teacher education institutes, evaluate governmental and private teacher education institutes according to the criteria defined in the system, and certify them in the case of meeting the standards. The accreditation system will also be used for the purpose of organizational development of teacher education institutes.
 
-##### Enhance coordination with the MoHE:
+##### 18. Enhance coordination with the MoHE:
 Teacher education is the responsibility of both the MoE and the MoHE,  therefore  the  MoE  will  develop  its  teacher  education  policies,  strategies,  and  programs  in coordination with the MoHE.
 
 41
@@ -1148,16 +1155,16 @@ Teacher education is the responsibility of both the MoE and the MoHE,  therefore
 
 The following five key projects are designed to achieve the Teacher Education program objectives and apply this program's strategies: (1) Increase enrollment  in  TTCs,  (2)  Provide  short-term  trainings  for  teachers  and  school  administrators,  (3)  Improve  the  quality  of  teacher  education,  (4) Construction and rehabilitation of TE centers, and (5) Improve the quality of TE management. The following table includes this program's results, key projects, and their indicators with baselines and annual targets:
 
-Results /Projects | Baseline | Annual targets
+Results /Projects | Indicators | Baseline | Annual targets
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020
 Improve quality of Instruction in General and Islamic Schools | Percentage of teachers with minimum required qualifications | 47% | 52% | 56% | 61% | 66% | 71% | 75% | 80%
 Percentage of teachers passed competency tests | 75% | 78% | 80% | 82% | 84% | 86% | 88% | 90%
 Percentage of administrators passed competency tests | 75% | 78% | 80% | 82% | 84% | 86% | 88% | 90%
-Project 1) Increase enrollment in TTCs | No. of TTC in- service students | Female | 10,000 | 11,500 | 13,000 | 14,500 | 16,500 | 18,000 | 20,000 | 22,000
+Project 1) Increase enrollment in TTCs | No. of TTC in-service students | Female | 10,000 | 11,500 | 13,000 | 14,500 | 16,500 | 18,000 | 20,000 | 22,000
 Male | 22,500 | 21,500 | 20,500 | 19,000 | 17,500 | 16,000 | 14,500 | 13,000
 Total | 32,500 | 33,000 | 33,000 | 33,500 | 34,000 | 34,500 | 34,500 | 35,000
-No. of TTC in- service students | female | 19,500 | 20,500 | 21,500 | 22,500 | 23,500 | 24,000 | 25,000 | 26,000
+No. of TTC in-service students | female | 19,500 | 20,500 | 21,500 | 22,500 | 23,500 | 24,000 | 25,000 | 26,000
 Male | 14,500 | 15,000 | 15,500 | 16,500 | 17,000 | 17,500 | 18,500 | 19,000
 Total | 34,000 | 35,500 | 37,000 | 38,500 | 40,000 | 42,000 | 43,500 | 45,000
 No. of TTC teachers | female | 489 | 556 | 624 | 691 | 758 | 825 | 893 | 960
@@ -1222,21 +1229,21 @@ To provide relevant and quality technical and vocational education to both males
 
 The  MoE  will  implement  the  following  strategies  to  achieve  the  above  mentioned  goal  and objectives of TVET program:
 
-##### Market-driven TVET:
+##### 1. Market-driven TVET:
 The TVET Deputy Ministry of the MoE with the cooperation of the Ministry of
 
-- Labor,  Social  Affairs,  Martyrs  and  Disables (MoLSAMD)  will  identify  the  needs  of  the labor  market  in  all  areas  of  the  country  to adapt TVET programs accordingly. The TVET Deputy Ministry jointly with the representatives  of  private  sector  will  evaluate the TVET curriculums in order to ensure their relevance to the labor market. In addition, the TVET Deputy Ministry will  keep  track  of  the graduates'  employment  rate  in  relevant  fields to assess the relevance of the TVET programs to the market's needs. Adapting TVET programs to the needs of the labor market will increase the demand for TVET in the future.
+Labor, Social Affairs, Martyrs and Disables (MoLSAMD) will identify the needs of the labor market in all areas of the country to adapt TVET programs accordingly. The TVET Deputy Ministry jointly with the representatives of private sector will evaluate the TVET curriculums in order to ensure their relevance to the labor market. In addition, the TVET Deputy Ministry will keep track of the graduates’ employment rate in relevant fields to assess the relevance of the TVET programs to the market’s needs. Adapting TVET programs to the needs of the labor market will increase the demand for TVET in the future.
 
-##### Establish TVET research center :
+##### 2. Establish TVET research center:
 The TVET Deputy Ministry will establish the National TVET Research Centre for conducting research on the labor market needs, and on how to develop TVET in Afghanistan.
 
-##### Competency-based curriculum and assessment:
+##### 3. Competency-based curriculum and assessment:
 The TVET Deputy Ministry with the assistance of private sector will develop the expected competencies for each field of TVET and the criteria for assessing the achievement of the competencies. The developed competencies for each field of TVET will be used for developing  quality  curriculum  for  the  field.  The  curriculum  will  include  generic  work  skills  such  as discipline,  team  work,  and  creativity  as  well  as  technical  skills.  The  TVET  DM  will  use  these competencies for assessing TVET graduates to make sure they have received quality education.
 
-##### Private sector's involvement in TVET:
+##### 4. Private sector’s involvement in TVET:
 A key strategy of TVET program is to increase the involvement of private  sector  in  implementing  TVET  program.  The  TVET  Deputy  Ministry  encourages  and  supports private sector to establish TVET centers and will provide opportunities for private sector to participate in developing  expected  competencies,  assessment  criteria,  and  curriculum  for  TVET  fields  of  study.  The Deputy  Ministry  with the  support  of  private  sector  will  provide  apprenticeship  opportunities  for  TVET students to receive practical experience.
 
-##### Short-term vocational training:
+##### 5. Short-term vocational training:
 Considering the growing number of General Education graduates and the limited  capacity  of  higher  education,  the  TVET  Deputy  Ministry  will  provide  short-term  vocational
 
 44
@@ -1247,25 +1254,25 @@ Considering the growing number of General Education graduates and the limited  c
 
 training (six-month courses) for those graduates who are not admitted in higher education. This deputy ministry will utilize its existing resources at TVET schools to provide vocational trainings in the second shift  in  150  fields  whose  standards  are  developed  by  MoLSAMD.  The  purpose  of  this  short-term vocational training is to increase the trainees' chances of employment in the labor market. The main part of this vocational training is apprenticeship in private sector.
 
-##### Agriculture  and  food processing  as  priority  fields  of  study:
+##### 6. Agriculture and food processing as priority fields of study:
 As  agriculture  continues  to  be  the  largest sector  in  the  country,  the  TVET  Deputy  Ministry  will  increase  the  number  of  agriculture  and  food processing programs. The MoE will also improve the quality  of agriculture programs to make sure the programs are effective.
 
-##### Revise TVET enrollment system :
+##### 7. Revise TVET enrollment system:
 The TVET Deputy Ministry will revise students' enrollment system in TVET schools and institutes, so that every student can be enrolled in a field of study that matches his or her personal interests, needs, and abilities.
 
-##### Increase female TVET students:
+##### 8. Increase female TVET students:
 The TVET Deputy Ministry will implementing the following activities for increasing girls' enrollment: (1) conduct public awareness programs for girls, (2) develop those fields of TVET that are more relevant and interesting for girls, (3) recruit more female teachers, and (4)provide dormitory facilities for female students from rural areas.
 
-##### Develop and extend TVET teacher education and scholarship programs:
-one of the major challenges of the TVET education is the lack of qualified teachers in market-relevant fields. To address this challenge, The TVET Deputy Ministry in collaboration with Germany will establish two academies for TVET teacher education and will establish an In- Service Teacher Training Academy with the support of the World Bank. In addition, this Deputy Ministry will provide opportunities for TVET teachers to pursue their education up to Bachelors, Masters and PhD levels.
+##### 9. Develop and extend TVET teacher education and scholarship programs:
+One of the major challenges of the TVET education is the lack of qualified teachers in market-relevant fields. To address this challenge, The TVET Deputy Ministry in collaboration with Germany will establish two academies for TVET teacher education and will establish an In- Service Teacher Training Academy with the support of the World Bank. In addition, this Deputy Ministry will provide opportunities for TVET teachers to pursue their education up to Bachelors, Masters and PhD levels.
 
-##### Establish  at  least  one  TVET  school  in  each  District:
+##### 10. Establish at least one TVET school in each District:
 The  MoE  will  establish  a  TVET  school  in  each district to increase access to TVET for all boys and girls throughout the country.
 
-##### Use buildings of General Education schools :
+##### 11. Use buildings of General Education schools:
 The TVET Deputy Ministry will use buildings of general education  schools  in  the  second  shift  as  TVET  schools,  if  possible  and  necessary.  This  strategy  will expedite the development of TVET schools at a low cost.
 
-##### Coordination with TVET stakeholders:
+##### 12. Coordination with TVET stakeholders:
 The MoE will play an active role in increasing coordination with all  TVET stakeholders, especially  with  the  MoHE and the  MoLSAMD  who also provide technical and vocational education and training.
 
 45
@@ -1343,16 +1350,16 @@ To increase literacy rate for Afghan women and men aged 15 and above to acquire 
 
 The MoE will implement the following strategies to achieve the above mentioned goal and objectives of literacy program:
 
-##### Conduct National literacy Campaigns :
+##### 1. Conduct National literacy Campaigns:
 The Literacy Deputy Ministry under the Presidential Office and the  High  Commission  of  Literacy  supervision  will  conduct  National  Literacy  Campaigns  to  strengthen political  and  national  will  for  elimination  of  illiteracy  in  the  country.  The  Literacy  Deputy  Ministry through Media such as Education Radio and TV, Mosques and schools of general education will encourage illiterate groups of the population to participate in literacy courses; it will also invite national merchants and volunteers to support the literacy program implementation. In addition, the Literacy Deputy Ministry encourages  governmental  and  non-governmental  organizations  and  private  sector  to  conduct  literacy courses  for  their  illiterate  staff.  The  Literacy  Deputy  Ministry  will  provide  textbooks  and  train  literacy teachers if needed. The MoE will support particularly the MoI (Ministry of Interior Affairs) and the MoND (Ministry of National Defense) in implementing literacy courses for Afghan National Police and Afghan National Army.
 
-##### Assign teachers of general education and Mullah Imams of Mosques for teaching in literacy courses:
+##### 2. Assign teachers of general education and Mullah Imams of Mosques for teaching in literacy courses:
 To enroll more students in the literacy courses; and to improve the quality of literacy services at the lower cost, the Literacy Deputy Ministry in close coordination with the Academic deputy ministry will assign teachers of general education on an overtime basis to conduct literacy courses, it will assign Mullah Imams as literacy teachers as well. In addition, the Literacy Deputy Ministry in collaboration with the TED will train literacy teachers and Mullah Imams in the principles of adults' education and in the specific methods of literacy training.
 
-##### Utilize  general  education  schools  and  Mosques  as  centers  for  conducting  the  literacy  courses:
+##### 3. Utilize general education schools and Mosques as centers for conducting the literacy courses:
 The Literacy Deputy Ministry utilizes the capacity of schools and mosques to encourage the communities to participate in literacy courses, to coordinate literacy activities at  the villages and districts, and to collect information about literacy students. The literacy courses will be conducted in the buildings of schools and mosques, if possible.
 
-##### Establish  Community  Literacy  Centers:
+##### 4. Establish Community Literacy Centers:
 The  Literacy  Deputy  Ministry  will  establish  and  construct  8 Community Literacy Centers at the zones of the country in order to coordinate and supervise the literacy activities. This Deputy Ministry will design and implement capacity development programs for the literacy teachers and supervisors. In the following phases, Community Literacy Centers will be established firstly
 
 48
@@ -1361,21 +1368,21 @@ The  Literacy  Deputy  Ministry  will  establish  and  construct  8 Community Li
 
 [[START OF PAGE 49]]
 
-- at the center of provinces and then at the centre of districts. These supportive centers will be managed by the local communities and necessary preparedness will be taken for their financial self-reliance.
+at the center of provinces and then at the centre of districts. These supportive centers will be managed by the local communities and necessary preparedness will be taken for their financial self-reliance.
 
-##### Focus on Youths (15-24 yrs.) as the priority target group :
+##### 5. Focus on Youths (15-24 yrs.) as the priority target group:
 Considering the importance of youths' roles in development of a nation, the MoE will focus on this group as its priority target population and will prepare them for continuing their education in adults' schools. However, the MoE intends to provide access to literacy courses for all learners regardless of their ages.
 
-##### Special focus on female and disadvantaged groups :
+##### 6. Special focus on female and disadvantaged groups:
 The MoE will increase women' access to literacy programs through coordination and collaboration with the Ministry of Women' Affairs (MoWA) and other national and international partners in order to empower women. Following the inclusive education policy, this program will also focus on the literacy of disadvantaged groups (such as nomads and people in remote rural areas).
 
-##### Assist adult literacy graduates to pursue their education:
-A number of literacy graduates will be eligible to  be  enrolled  in  4 th grade  of  general  schools  according  to  the  school  age  criteria.  But,  those  literacy students  who  are  older  than  the  school  age  need  alternative  solutions  in  order  to  let  them  pursue  their education.  The  Literacy  Deputy  Ministry  through  consultation  and  coordination  with  the  General Education Program will develop adults' education program to enable literacy graduates to be enrolled in adult  special  literacy  courses.  The  literacy  Deputy  Ministry  will  also  develop  a  compact  and  more consolidated  curriculum  for  adults'  education  in  close  collaboration  with  the  curriculum  development department.  Adult  literacy  students  will  have  to  pass  the  competency  assessment  tests  as  like  as  other students. The Literacy Deputy Ministry will also consider using the Open Education System and distance learning in literacy schools.
+##### 7. Assist adult literacy graduates to pursue their education:
+A number of literacy graduates will be eligible to be enrolled in 4th grade of general schools according to the school age criteria. But, those literacy students who are older than the school age need alternative solutions in order to let them pursue their education. The Literacy Deputy Ministry through consultation and coordination with the General Education Program will develop adults’ education program to enable literacy graduates to be enrolled in adult special literacy courses. The literacy Deputy Ministry will also develop a compact and more consolidated curriculum for adults’ education in close collaboration with the curriculum development department. Adult literacy students will have to pass the competency assessment tests as like as other students. The Literacy Deputy Ministry will also consider using the Open Education System and distance learning in literacy schools.
 
-##### Utilize  ICT  technology :
+##### 8. Utilize ICT technology:
 The  Literacy  Program  will  benefit  from  the  capacity  of  information  and communication  technologies  like  Radio,  TV,  Telephones,  Mobiles,  Computers,  Tablets  and  Internet  in order to increase access to literacy courses; to encourage illiterates to participate in literacy courses and to improve  the  quality  of  literacy  courses.  This  Deputy  Ministry  will  provide  and  distribute  CDs  of Computerized Learning Materials. It will also use Short Message System (SMS) to  send short learning materials by mobile phones to literacy students.
 
-##### Develop a standard system for literacy assessment:
+##### 9. Develop a standard system for literacy assessment:
 The Literacy Deputy Ministry will develop and put in place  a  standard  system  for  assessing  literacy  students'  learning  achievements  to  ensure  that  literacy courses  are  effective  and  learners  have  acquired  basic  literacy  skills.  The  literacy  learners  must  pass  a standard test before obtaining the literacy certificate.
 
 49
@@ -1384,16 +1391,16 @@ The Literacy Deputy Ministry will develop and put in place  a  standard  system 
 
 [[START OF PAGE 50]]
 
-##### Develop Literacy for labor :
+##### 10. Develop Literacy for labor:
 The Literacy Deputy Ministry will revise the current literacy curriculum to increase its relevance to the literacy learners' life and occupations. It will increase the demand for and the effectiveness of the courses. It therefore will develop separate literacy textbooks for different occupations.
 
-##### Strengthen  Literacy  M&E  and  Information  System :
+##### 11. Strengthen Literacy M&E and Information System:
 The  Literacy  Program  with  supports  from  the Planning Department will strengthen its monitoring and evaluation system to ensure that the programs are implemented correctly and effectively. It will also strengthen the literacy information system and improve the utilization of data and information in the decision making process. The Literacy Information System will  include  information  about  literacy  learners,  courses,  and  teachers  of  the  MoE  and  the  partners' programs.
 
-##### Improve  coordination  with  partners:
+##### 12. Improve coordination with partners:
 The  Literacy  Deputy  Ministry  will  support  its  implementing partners,  coordinate  their  activities,  and  ensure  that  the literacy  projects  are  aligned  with  the  Ministry's strategic plan and that the activities are cost-effective.
 
-##### Sustainable capacity development program:
+##### 13. Sustainable capacity development program:
 The Literacy Deputy Ministry will design and implement a variety  of  sustainable  programs  to  develop  the  organizational  and  individual  capacity  of  the  Literacy Deputy  Ministry  continuously.  In  this  regard,  it  will  also  revise  policies  and  execution  mechanisms, conduct short term training courses and implement long term training courses to develop the capacity of literacy administrations at the center, provinces and districts.
 
 50
@@ -1425,7 +1432,7 @@ No. of literacy employees | Female | 1,590 | 1,740 | 1,890 | 2,040 | 2,190 | 2,3
 Male | 3,880 | 3,850 | 3,820 | 3,790 | 3,760 | 3,740 | 3,710 | 3,680
 Total | 5,440 | 5,570 | 5,700 | 5,830 | 5,950 | 6,080 | 6,200 | 6,320
 No. literacy courses | 19787 | 24460 | 29134 | 33807 | 38480 | 43153 | 47827 | 52,500
-No. of awareness campaigns conducted | 1 | 1 | 1 | 1 | 1 | 1 | 1
+No. of awareness campaigns conducted |  | 1 | 1 | 1 | 1 | 1 | 1 | 1
 
 51
 
@@ -1433,12 +1440,12 @@ No. of awareness campaigns conducted | 1 | 1 | 1 | 1 | 1 | 1 | 1
 
 [[START OF PAGE 52]]
 
-Project 2) Provide vocational literacy | No. of vocational literacy | Female | 17,100 | 17,300 | 17,400 | 17,500 | 17,600 | 17,800 | 17,900 | 18,000
+Project 2) Provide vocational literacy | No. of vocational literacy learners | Female | 17,100 | 17,300 | 17,400 | 17,500 | 17,600 | 17,800 | 17,900 | 18,000
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Male | 11,300 | 11,300 | 11,300 | 11,300 | 11,300 | 11,300 | 11,300 | 12,000
-learners | Total | 28,400 | 28,600 | 28,700 | 28,800 | 28,900 | 29,100 | 29,200 | 30,000
+Total | 28,400 | 28,600 | 28,700 | 28,800 | 28,900 | 29,100 | 29,200 | 30,000
 No. of vocational literacy courses | 1,893 | 1,907 | 1,913 | 1,920 | 1,927 | 1,940 | 1,947 | 2,000
-Project 3) Improve the quality of literacy program | Percentage of literacy learners pass final tests | 50% | 55% | 60% | 65% | 70% | 75% | 80%
+Project 3) Improve the quality of literacy program | Percentage of literacy learners pass final tests |  | 50% | 55% | 60% | 65% | 70% | 75% | 80%
 No. of literacy teachers trained | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 10,000
 Percentage of literacy learners receive literacy materials | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 No. of literacy textbooks revised | 28 | 28 | 28 | 28 | 28 | 28 | 28 | 28
@@ -1481,16 +1488,16 @@ To  provide  effective,  efficient,  and  transparent  support  services  and  f
 
 The  MoE  will  implement  the  following  strategies  to  achieve  the  above  mentioned  goal  and objectives of education administration development program:
 
-##### Decentralize  education  administration :
+##### 1. Decentralize education administration:
 Decentralization,  which  means  devolving  responsibilities  and decision making authorities to the provincial and district levels, is one of the major policies of the MoE. Teacher  recruitment  and  transfer, managing  all student affairs including issuing and  distributing educational  certificates  will  gradually  be  taken  over  by  the  provinces  and  districts.  The  planning, monitoring and evaluation, EMIS, procurement, and financial processes will gradually be decentralized to the provincial and district levels, and at the same time the MoE strengthen its supervision system in order to ensure that the education policies and plans are implemented properly.
 
-##### Streamline  the  administrative  procedures :
+##### 2. Streamline the administrative procedures:
 The  current  procedures  of  the  MoE  are  generally  rather cumbersome  and  tedious.  In  order  to  develop  and  reform  the  education  administration  and  reduce  the possibilities  of  corruption,  the  MoE  will  streamline  and  shorten  administrative  and  financial  procedures and will disseminate the MoE rules and regulations. In addition, the Ministry will pay specific attention to beneficiaries' satisfaction of services and will be more responsive to the clients' demands
 
-##### Utilize ICT infrastructure :
-The MoE will utilize information and communication technologies extensively to  increase  the  effectiveness  of  education  administration.  In  this  regard,  the  Ministry  will  computerize administrative  systems  in  the  centre  and  in  the  provinces  to  the  extent  possible  and  will  facilitate communication between different departments through internet and telephone technologi e s.
+##### 3. Utilize ICT infrastructure:
+The MoE will utilize information and communication technologies extensively to increase the effectiveness of education administration. In this regard, the Ministry will computerize administrative systems in the centre and in the provinces to the extent possible and will facilitate communication between different departments through internet and telephone technologies.
 
-##### Strengthen the EMIS and information based-decision making process :
+##### 4. Strengthen the EMIS and information based-decision making process:
 The MoE will collect education data  (such  as  data  on  students,  staff,  and  schools)  through  computerizing  the  administrative  procedures such as student registration and teacher recruitment at provincial, then district and school levels in order to improve the credibility of data. In addition, all MoE databases and information systems will be integrated through the EMIS to enable different departments to have access to necessary information for effective coordination and better decision making. All MoE decisions and plans will be made based on data and analysis.  The  MoE  will  collect  data  on  the  MoE  key  indicators  disaggregated  by  disadvantaged  groups (e.g. children with disabilities, Kuchis, linguistic and ethnic minority groups and etc.). Finally, The MoE is committed to provide public access to educational data and reports.
 
 53
@@ -1499,26 +1506,22 @@ The MoE will collect education data  (such  as  data  on  students,  staff,  and
 
 [[START OF PAGE 54]]
 
-##### Strengthen  the  audit  system :
+##### 5. Strengthen the audit system:
 To  eliminate  the  corruption,  MoE  will  establish  a  standardized  audit system; develop programs for awareness raising and provide necessary guidance to the PED, DEO  and schools;  establish  internal  audit  committee  and  develop  capacity    provincial  education  departments' auditors.
 
-##### Standard school construction:
-The  MoE will construct all  educational  centers according to  the  defined
+##### 6. Standard school construction:
+The MoE will construct all educational centers according to the defined criteria and standards. All new school buildings will be accessible for students with disabilities, and will include necessary facilities such as boundary walls, drinking water, and sanitation facilities. The MoE will supervise school construction projects to ensure they meet the MoE's standards.
 
-- criteria  and  standards.  All  new  school buildings will be accessible for students with disabilities, and will include necessary facilities such as boundary walls, drinking water, and sanitation facilities. The MoE will supervise school construction projects  to  ensure  they  meet the MoE's standards.
+##### 7. Transfer salaries to hard-to-reach areas through different methods:
+The MoE will utilize different strategies to ensure that the employees receive their salaries on time, even in remote and hard-to-reach areas. The strategies include transferring salaries through mobile networks and helicopter.
 
-##### Transfer salaries to hard-to-reach areas  through  different  methods :
-The MoE  will  utilize  different  strategies  to ensure  that  the  employees  receive  their
-
-- salaries  on  time,  even  in  remote  and  hard-to-reach  areas.  The  strategies  include  transferring  salaries through mobile networks and helicopter.
-
-##### Channel  financial  aid  through  national  budget:
+##### 8. Channel financial aid through national budget:
 Following  the  Tokyo Declaration  (2012)  the  MoE encourages  donors  to  channel  at  least  50%  of  their  financial  aids  through  the  government  core development  budget  rather  than  external  budget.  This  will  enable  the  MoE  to  spend  financial  aid  in accordance with its priorities as well and in order to make development programs more effective.
 
-##### Develop employees' capacity:
+##### 9. Develop employees' capacity:
 The MoE will develop the capacities of its employees, particularly in the provincial and district levels in order to improve the quality of education and increase the effectiveness of support services. The capacity of the MoE's Administration and Accounting Institute will be used for the employees' capacity development. The MoE will review the current strategies for capacity development, especially  the  impact  of  hiring  technical  assistants.  The  MoE  will  also  develop  and  implement  a comprehensive staff performance appraisal system.
 
-##### Increase  coordination  between  the  MoE's  different  departments :
+##### 10. Increase coordination between the MoE's different departments:
 To  facilitate  the  execution  of activities and to enhance the effectiveness of the MoE's programs, the MoE will increase coordination and collaboration between its different departments. In this regard, coordination and consultative meetings will be conducted with and within the various departments in the MoE.
 
 54
@@ -1543,8 +1546,8 @@ No. of district operational plans | 412 | 412 | 412 | 412 | 412 | 412 | 412 | 41
 No. of MoE projects evaluated | 5 | 5 | 6 | 7 | 8 | 9 | 10 | 12
 No. of progress reports developed | 36 | 36 | 36 | 36 | 36 | 36 | 36 | 36
 No. of employees trained in planning institute | 242 | 240 | 240 | 240 | 240 | 240 | 240 | 240
-No. of EMIS modules developed | 2 | 2 | 2 | 2 | 2 | 2 | 2
-No. of provincial education offices provided access to EMIS | 35 | 35 | 35 | 35 | 35 | 35 | 35
+No. of EMIS modules developed |  | 2 | 2 | 2 | 2 | 2 | 2 | 2
+No. of provincial education offices provided access to EMIS |  | 35 | 35 | 35 | 35 | 35 | 35 | 35
 
 55
 
@@ -1552,22 +1555,22 @@ No. of provincial education offices provided access to EMIS | 35 | 35 | 35 | 35 
 
 [[START OF PAGE 56]]
 
-No. of district education offices provided access to EMIS | 50 | 110 | 180 | 240 | 300 | 360 | 412
+No. of district education offices provided access to EMIS |  | 50 | 110 | 180 | 240 | 300 | 360 | 412
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Project 3) Supervise construction of educational centers | engineers | 232 | 232 | 232 | 232 | 232 | 232 | 232 | 232
-Project 4) Construct a central building complex for the MoE | construction | 33% | 67% | 100%
+Project 3) Supervise construction of educational centers | No. of construction engineers | 232 | 232 | 232 | 232 | 232 | 232 | 232 | 232
+Project 4) Construct a central building complex for the MoE | % of progress in construction |  |  | 33% | 67% | 100% |  |  |
 Project 5) Equip educational centers and offices with ICT | No. of provincial offices equipped with ICT | 30 | 35 | 35 | 35 | 35 | 35 | 35 | 35
 No. of district offices equipped with ICT | 0 | 0 | 30 | 60 | 90 | 120 | 150 | 180
 No. of laptops distributed to students by one Laptop per Child | 800 | 1,000 | 1,200 | 1,400 | 1,600 | 1,800 | 2,000 | 2,200
 No. of employees trained in IT | 200 | 250 | 300 | 350 | 400 | 450 | 500 | 550
-No. of administrative system computerized | 3 | 3 | 3 | 3 | 3 | 3 | 3
-Project 6) strengthen and decentralize finance and procurement | No. of provinces with functional AFMIS | 35 | 35 | 35 | 35 | 35 | 35 | 35
-No. of provinces with functional BPET | 35 | 35 | 35 | 35 | 35 | 35 | 35
-project 7) Administration reform and human resource development | female | 69473 | 81120 | 92766 | 104413 | 116060 | 127707 | 139353 | 151,000
+No. of administrative system computerized |  | 3 | 3 | 3 | 3 | 3 | 3 | 3
+Project 6) strengthen and decentralize finance and procurement | No. of provinces with functional AFMIS |  | 35 | 35 | 35 | 35 | 35 | 35 | 35
+No. of provinces with functional BPET |  | 35 | 35 | 35 | 35 | 35 | 35 | 35
+project 7) Administration reform and human resource development | No. of MoE employees | female | 69473 | 81120 | 92766 | 104413 | 116060 | 127707 | 139353 | 151,000
 male | 188334 | 192501 | 196667 | 200834 | 205000 | 209167 | 213333 | 217,500
 total | 257807 | 273620 | 289434 | 305247 | 321060 | 336873 | 352687 | 368,500
-No. of employees passed reform | 240,000 | 271,000 | 284,000 | 296,000 | 309,000 | 321,000 | 334,000 | 345,000
-No. of employees trained in job- related skills | 2,300 | 2,300 | 2,400 | 2,400 | 2,400 | 2,400 | 2,500 | 2,500
+No. of employees passed reform process | 240,000 | 271,000 | 284,000 | 296,000 | 309,000 | 321,000 | 334,000 | 345,000
+No. of employees trained in job-related skills | 2,300 | 2,300 | 2,400 | 2,400 | 2,400 | 2,400 | 2,500 | 2,500
 
 56
 
@@ -1579,30 +1582,30 @@ No. of employees trained in job- related skills | 2,300 | 2,300 | 2,400 | 2,400 
 
 The following table includes required development budget for each MoE program and subprogram in USD based on the low-case scenario.
 
-Programs/Projects | (figures in million) | 1393 | 1394 | 1395 1396 | 1397 | 1398 | 1399
+Programs/Projects | (figures in million) | 1393 | 1394 | 1395 | 1396 | 1397 | 1398 | 1399
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 1 | General and Islamic Education Program
 1.1 General Education Su-program
-1 | Project 1) Increase enrollment in General Education | 41.74 | 47.84 | 54.32 61.18 | 68.40 | 76.01 | 83.98
-2 | Project 2) Improve the quality of General Education | 6.96 | 7.87 | 8.38 9.61 | 10.17 | 12.04 | 12.67
-3 | Project 3) Construction and rehabilitation of schools | 212.12 | 235.97 | 261.07 287.42 | 315.02 | 343.87 | 373.97
-4 | Project 4) Equip schools | 18.38 | 19.25 | 20.13 21.00 | 21.88 | 22.75 | 23.63
-5 | Project 5) Improve the quality of school management | 9.19 | 9.63 | 10.06 10.50 | 10.94 | 11.38 | 11.81
-GE Total Development Budget | 288.39 | 320.56 | 353.96 389.71 | 426.41 | 466.05 | 506.07
-GE Total Operating Budget | 472.80 | 495.56 | 524.01 553.09 | 584.06 | 620.72 | 659.28
-GE Total Budget | 761.19 | 816.13 | 877.97 942.80 | 1,010.47 | 1,086.77 | 1,165.35
+1 | Project 1) Increase enrollment in General Education | 41.74 | 47.84 | 54.32 | 61.18 | 68.40 | 76.01 | 83.98
+2 | Project 2) Improve the quality of General Education | 6.96 | 7.87 | 8.38 | 9.61 | 10.17 | 12.04 | 12.67
+3 | Project 3) Construction and rehabilitation of schools | 212.12 | 235.97 | 261.07 | 287.42 | 315.02 | 343.87 | 373.97
+4 | Project 4) Equip schools | 18.38 | 19.25 | 20.13 | 21.00 | 21.88 | 22.75 | 23.63
+5 | Project 5) Improve the quality of school management | 9.19 | 9.63 | 10.06 | 10.50 | 10.94 | 11.38 | 11.81
+GE Total Development Budget | 288.39 | 320.56 | 353.96 | 389.71 | 426.41 | 466.05 | 506.07
+GE Total Operating Budget | 472.80 | 495.56 | 524.01 | 553.09 | 584.06 | 620.72 | 659.28
+GE Total Budget | 761.19 | 816.13 | 877.97 | 942.80 | 1,010.47 | 1,086.77 | 1,165.35
 1.2 Islamic Education Sub-program
-1 | Project 1) Increase enrollment in Islamic Education | 0.08 | 0.08 | 0.08 0.09 | 0.09 | 0.10 | 0.10
-2 | Project 2) Improve the quality of Islamic Education | 0.24 | 0.25 | 0.26 0.27 | 0.29 | 0.30 | 0.31
-3 | Project 3) Construction and rehabilitation of Islamic | centers | 9.67 | 10.13 | 13.47 14.05 | 17.76 | 18.47 | 19.19
-4 | Project 4) Equip Islamic Centers | 1.31 | 1.38 | 1.44 1.50 | 1.56 | 1.63 | 1.69
-5 | Project 5) Improve the quality of Islamic Education | management | 2.39 | 2.50 | 2.62 2.73 | 2.85 | 2.97 | 3.08
-IE Total Development Budget | 13.69 | 14.34 | 17.87 18.65 | 22.55 | 23.46 | 24.36
-IE Total Operating Budget | 19.54 | 20.34 | 21.15 21.81 | 22.66 | 23.70 | 24.74
-IE Total Budget | 33.23 | 34.69 | 39.02 40.46 | 45.21 | 47.16 | 49.10
-GE & IE Development Budget | 302.08 | 334.91 | 371.83 408.36 | 448.97 | 489.51 | 530.43
-GE & IE Operating Budget | 492.34 | 515.91 | 545.16 574.89 | 606.72 | 644.42 | 684.02
-GE & IE Total Budget | 794.42 | 850.81 | 916.99 983.26 | 1,055.68 | 1,133.93 | 1,214.45
+1 | Project 1) Increase enrollment in Islamic Education | 0.08 | 0.08 | 0.08 | 0.09 | 0.09 | 0.10 | 0.10
+2 | Project 2) Improve the quality of Islamic Education | 0.24 | 0.25 | 0.26 | 0.27 | 0.29 | 0.30 | 0.31
+3 | Project 3) Construction and rehabilitation of Islamic centers | 9.67 | 10.13 | 13.47 | 14.05 | 17.76 | 18.47 | 19.19
+4 | Project 4) Equip Islamic Centers | 1.31 | 1.38 | 1.44 | 1.50 | 1.56 | 1.63 | 1.69
+5 | Project 5) Improve the quality of Islamic Education management | 2.39 | 2.50 | 2.62 | 2.73 | 2.85 | 2.97 | 3.08
+IE Total Development Budget | 13.69 | 14.34 | 17.87 | 18.65 | 22.55 | 23.46 | 24.36
+IE Total Operating Budget | 19.54 | 20.34 | 21.15 | 21.81 | 22.66 | 23.70 | 24.74
+IE Total Budget | 33.23 | 34.69 | 39.02 | 40.46 | 45.21 | 47.16 | 49.10
+GE & IE Development Budget | 302.08 | 334.91 | 371.83 | 408.36 | 448.97 | 489.51 | 530.43
+GE & IE Operating Budget | 492.34 | 515.91 | 545.16 | 574.89 | 606.72 | 644.42 | 684.02
+GE & IE Total Budget | 794.42 | 850.81 | 916.99 | 983.26 | 1,055.68 | 1,133.93 | 1,214.45
 
 > 5 Figures in the table are based on US Dollars.
 
@@ -1663,7 +1666,7 @@ Literacy Total Budget | 89.63 | 119.30 | 132.19 | 145.68 | 159.96 | 174.79 | 190
 1 | Project 1) Revise MoE legislative documents | 1.88 | 2.01 | 2.14 | 2.27 | 2.41 | 2.55 | 2.70
 2 | Project 2) Strengthen and decentralize planning, M&E, and reporting | 10.01 | 11.80 | 13.95 | 16.00 | 18.16 | 20.45 | 22.64
 3 | Project 3) Supervise construction of educational centers | 6.15 | 6.45 | 6.74 | 7.03 | 7.33 | 7.62 | 7.91
-4 | Project 4) Construct a central building complex for the MoE | 3 | 3 | 4
+4 | Project 4) Construct a central building complex for the MoE |  | 3 | 3 | 4 |  |  |
 5 | Project 5) Equip educational centers and offices with ICT | 1.92 | 2.22 | 2.53 | 2.86 | 3.22 | 3.59 | 3.97
 6 | Project 6) strengthen and decentralize finance and procurement | 1.10 | 1.16 | 1.21 | 1.26 | 1.31 | 1.37 | 1.42
 7 | project 7) Administration reform and human resource development | 2.41 | 2.52 | 2.58 | 2.64 | 2.70 | 2.83 | 2.89
@@ -1712,13 +1715,15 @@ The  private  sector  will  also  participate  in  provision  of  educational  s
 
 ##### 6) Strengthen the MoE's supervision system
 
-One of the most important strategies of the MoE is to strengthen the supervision system to ensure effective implementation of the NESP III. In this regard, members of the academic supervision will be  trained  and  supervision  system  will  be  reformed.  Also,  district,  provincial  and  central departments  prepare  quarterly  and  annual  progress  reports  and  submit  them  to  the  ministry's leadership  body.  Various  supervision  mechanism  and  system  will  be  reviewed  and  made complementary.
+One of the most important strategies of the MoE is to strengthen the supervision system to ensure effective implementation of the NESP III. In this regard, members of the academic supervision will
 
 60
 
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
+
+be trained and supervision system will be reformed. Also, district, provincial and central departments prepare quarterly and annual progress reports and submit them to the ministry's leadership body. Various supervision mechanism and system will be reviewed and made complementary.
 
 61
 
