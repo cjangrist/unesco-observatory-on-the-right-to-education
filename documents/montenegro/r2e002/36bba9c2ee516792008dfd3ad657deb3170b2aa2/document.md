@@ -349,7 +349,7 @@ An  institution  cannot  start  enrolling,  teaching  and  examining  students  
 
 #### Reaccrediation Article 28
 
-Institution, i.e. study programmes is subject to reaccreditation procedure within maximum fiveyear interval.
+Institution, i.e. study programmes is subject to reaccreditation procedure within maximum five-year interval.
 
 Reaccreditation  is  based  on  the  report  of  the  quality  assessment  of  an  institution  and  study programme, in accordance with the standards and procedure stipulated by the Council.
 
@@ -373,7 +373,7 @@ Self-evaluation methods are determined depending on curricula, teaching equipmen
 
 #### External quality assessment Article 31
 
-The Council for each program performs assessment of curricula quality during a maximum fiveyear period, by appointing expert bodies for particular curricula.
+The Council for each program performs assessment of curricula quality during a maximum five-year period, by appointing expert bodies for particular curricula.
 
 [[END OF PAGE 9]]
 
@@ -421,7 +421,7 @@ Scientific-research and artistic activities are performed and organized in accor
 
 #### Protection of the name 'University' Article 37
 
-An  institution  may  have  the  status  of  a  university,  i.e.  use  in  its  name  the  term  'university' provided it realizes at least five different courses of studies in at least three of the following seven areas:  social  sciences,  humanities,  engineering,  natural  sciences,  arts,  medicine  and  legaleconomic sciences.
+An institution may have the status of a university, i.e. use in its name the term 'university' provided it realizes at least five different courses of studies in at least three of the following seven areas: social sciences, humanities, engineering, natural sciences, arts, medicine and legal-economic sciences.
 
 #### Organization of the University Article 38
 
@@ -449,7 +449,7 @@ The university founded by the Government may, with the consent of the Government
 
 In  organizing  studies  as  of  paragraph  1  herein,  a  public  university  has  the  right  to  provide  a programme of double or joint diplomas.
 
-### Private institutions
+### 2. Private institutions
 
 #### Foundation Article 41
 
@@ -534,7 +534,7 @@ The professional body of the University is the Senate.
 
 The Senate includes the Rector, Vice-rectors, representatives of academic staff, and representatives of non-academic staff and students' representatives in accordance with the statute of the university.
 
-The statute of the University more closely stipulates authority, number, composition, duration of mandate, manners of election and dismissal,  as  well  as  the  manners  of  working  and  decisionmaking.
+The statute of the University more closely stipulates authority, number, composition, duration of mandate, manners of election and dismissal, as well as the manners of working and decision-making.
 
 #### Professional body of a public institution Article 52
 
@@ -748,6 +748,18 @@ The agreement on concession shall determine in particular:
 
 [[START OF PAGE 20]]
 
+#### Article 73
+
+Provisions regulating public institution work shall duly apply to the work of the concessionaire.
+
+## VI ACADEMIC STAFF AND ACADEMIC TITLES
+
+#### Academic staff Article 74
+
+Academic staff, according to this law, are persons carrying out the study programme at an institution or otherwise engaged in carrying out the study programme.
+
+#### Academic titles Article 75
+
 Academic titles are:
 
 -full professor
@@ -758,11 +770,11 @@ Academic titles are:
 
 -professor and lecturer at college of applied studies
 
-Academic staff as of paragraph 1 herein are appointed by the Senate on the basis of a public competition,  for  a  period  of  five  years,  except  for  full  professors  who  are  appointed  for  an indefinite time period.
+Academic staff as of paragraph 1 herein are appointed by the Senate on the basis of a public competition, for a period of five years, except for full professors who are appointed for an indefinite time period.
 
 #### Conditions for appointment of academic staff Article 76
 
-Anyone holding a doctoral degree and possessing a good pedagogical record may be appointed a full  professor,  associate  professor,  assistant  professor  or  professor  or  lecturer  at  a  vocational college.
+Anyone holding a doctoral degree and possessing a good pedagogical record may be appointed a full professor, associate professor, assistant professor or professor or lecturer at a vocational college.
 
 Anyone holding a higher education degree, having produced recognized art works and possessing verified artistic abilities may be appointed to academic titles for artistic disciplines.
 
@@ -771,18 +783,6 @@ Anyone holding higher education degree may be appointed as academic staff, in ac
 Apart from conditions as of Article 74 of this law, and conditions of paragraph 1, 2, 3 of this article, academic staff must meet conditions defined in accordance with criteria for appointment to particular titles.
 
 Criteria as of paragraph 4 herein adopted by the Senate after obtaining the opinion of the Council must be internationally comparable and shall be published.
-
-#### Article 73
-
-Provisions regulating public institution work shall duly apply to the work of the concessionaire.
-
-## VI ACADEMIC STAFF AND ACADEMIC TITLES
-
-#### Academic staff Article 74
-
-Academic  staff,  according  to  this  law,  are  persons  carrying  out  the  study  programme  at  an institution or otherwise engaged in carrying out the study programme.
-
-#### Academic titles Article 75
 
 [[END OF PAGE 20]]
 
@@ -892,29 +892,13 @@ In case the number of qualified candidates for admission is larger than the numb
 
 [[START OF PAGE 24]]
 
-A public institution  may  prescribe  circumstances  in  which  students  paying  fees  and  achieving excellent results may be awarded a publicly funded place at the second or at the subsequent year of studies.
+A public institution may prescribe circumstances in which students paying fees and achieving excellent results may be awarded a publicly funded place at the second or at the subsequent year of studies.
 
 #### Admission of foreign students Article 89
 
-Foreign  citizens  have  the  right  to  be  admitted  to  higher  education  institutions  in  Montenegro under the same conditions as the citizens of Montenegro, in accordance with this law and statute of the institution.
+Foreign citizens have the right to be admitted to higher education institutions in Montenegro under the same conditions as the citizens of Montenegro, in accordance with this law and statute of the institution.
 
 ## VIII STUDENTS
-
-Student has the following rights:
-
-- to  attend  lectures,  seminars  and  other  forms  of  teaching  organized  in  accordance  with  their status;
-
-- to use libraries, computer rooms and other services provided for the students by the institution; and
-
-- to appoint others and be appointed into the bodies of the institution, in accordance with this law and statute;
-
-- in the area of student standard, as well as
-
-- other rights in accordance with this law and statute of the institution.
-
-The way in which rights as of paragraph 1 herein are exercised is more closely regulated by the statute of the institution.
-
-#### Students' special rights Article 93
 
 #### Student status Article 90
 
@@ -928,6 +912,22 @@ The Ministry shall prescribe the content of agreement as of paragraph 1 herein.
 
 #### The rights of students Article 92
 
+Student has the following rights:
+
+- to attend lectures, seminars and other forms of teaching organized in accordance with their status;
+
+- to use libraries, computer rooms and other services provided for the students by the institution; and
+
+- to appoint others and be appointed into the bodies of the institution, in accordance with this law and statute;
+
+- in the area of student standard, as well as
+
+- other rights in accordance with this law and statute of the institution.
+
+The way in which rights as of paragraph 1 herein are exercised is more closely regulated by the statute of the institution.
+
+#### Students' special rights Article 93
+
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
@@ -936,9 +936,11 @@ Students have the right to express their opinion on the quality of teaching and 
 
 #### Students' obligations Article 94
 
-- be  committed to the studies with due diligence and full attention and participate in academic
+Students are obliged to:
 
-Students are obliged to: activities; - respect rules adopted by the institution, and
+- be committed to the studies with due diligence and full attention and participate in academic activities;
+
+- respect rules adopted by the institution, and
 
 - respect rights of staff and other students.
 
@@ -1002,9 +1004,9 @@ A student from a public institution has the right to:
 
 - accommodation and food in a hostel,
 
-- scholarships for talented students,
-
 - students' loan,
+
+- scholarships for talented students,
 
 - participation  for  public  transport  expenses  for  students  publicly  funded,  who  live  in    other cities or at the outskirts of city,
 
@@ -1124,33 +1126,33 @@ The Ministry shall supervise the enforcement of provisions of this law.
 
 Pecuniary  penalty  to  the  amount  of  twenty  or  three-hundred  minimum  wages  in  the  Republic shall be imposed on an institution if:
 
-- it begins operating contrary to provisions of Articles 25 and 42 of this law;
+1) it begins operating contrary to provisions of Articles 25 and 42 of this law;
 
-- stops work contrary to provision of Articles 33, 34 and 35 of this law;
+2) stops work contrary to provision of Articles 33, 34 and 35 of this law;
 
-- applies the statute, which did not obtain a consent in accordance with Article 53 of this law;
+3) applies the statute, which did not obtain a consent in accordance with Article 53 of this law;
 
-- invests resources contrary to provision as of Article 57 of this law;
+4) invests resources contrary to provision as of Article 57 of this law;
 
-- gains profit to its own benefit contrary to provision of Article 67 paragraph 2 of this law;
+5) gains profit to its own benefit contrary to provision of Article 67 paragraph 2 of this law;
 
-- admits students contrary to provision as of Article 19 paragraph two of this law;
+6) admits students contrary to provision as of Article 19 paragraph two of this law;
 
-- issues degrees and diplomas contrary to provision of Article 79 of this law;
+7) issues degrees and diplomas contrary to provision of Article 79 of this law;
 
-- enrolls students contrary to articles 84, 85, 86 and 89 of this law;
+8) enrolls students contrary to articles 84, 85, 86 and 89 of this law;
 
-- enrolls students above the number of students stipulated by article 88 of this law;
+9) enrolls students above the number of students stipulated by article 88 of this law;
 
-- does not conclude a contract with a student on studying in accordance with Article 91 of this law.
+10) does not conclude a contract with a student on studying in accordance with Article 91 of this law.
 
-- it charges a student with a tuition fee, which is higher than stipulated by Article 100 of this law;
+11) it charges a student with a tuition fee, which is higher than stipulated by Article 100 of this law;
 
-- it charges the fees contrary to Article 101 of this law;
+12) it charges the fees contrary to Article 101 of this law;
 
-- does the recognition or equivalence of foreign diploma contrary to Article 111 of this law;
+13) does the recognition or equivalence of foreign diploma contrary to Article 111 of this law;
 
-- does not keep the records properly and adequately and issues the public document contrary to the provisions as of Articles 117 and 118 of this law.
+14) does not keep the records properly and adequately and issues the public document contrary to the provisions as of Articles 117 and 118 of this law.
 
 In  accordance  with  the  paragraph  1  of  this  article,  the  amount  of  twenty  or  three-  hundred minimum  wages  in  the  Republic  shall  be  imposed  on  the  Managing  body,  as  well  as  the responsible person in the institution
 
@@ -1220,7 +1222,7 @@ After the deadline, as of Article 123 and 124 of this law, expires, the existing
 
 #### Status of existing management and governing bodies Article 130
 
-Persons appointed through a valid procedure (rector, vice-rector, secretary general, dean, vicedean or director of an institution within the University of Montenegro) shall continue performing their  functions  as  of  the  day  when  this  law  is  adopted  until  the  mandate  for  which  they  are appointed i.e. elected expires.
+Persons appointed through a valid procedure (rector, vice-rector, secretary general, dean, vice-dean or director of an institution within the University of Montenegro) shall continue performing their functions as of the day when this law is adopted until the mandate for which they are appointed i.e. elected expires.
 
 Procedure for election i.e. appointment of persons as of paragraph 1 herein, initiated before this law enactment, shall be completed according to the regulations which were valid before this law enactment.
 
@@ -1246,7 +1248,7 @@ Students and associates elected before this law enactment shall continue their w
 
 #### Article 135
 
-Postgraduate  studies  and  procedures  for  obtaining  a  doctoral  degree,  initiated  before  this lawenactment, shall be completed according to provisions under which they were initiated.
+Postgraduate studies and procedures for obtaining a doctoral degree, initiated before this law enactment, shall be completed according to provisions under which they were initiated.
 
 #### Initiated procedures of recognition and equivalence Article 136
 
