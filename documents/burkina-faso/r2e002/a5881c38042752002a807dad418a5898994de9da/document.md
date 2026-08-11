@@ -22,17 +22,91 @@ Décembre 2009
 
 # Table des matières
 
+ACRONYMES ....................................................................................................................................... i
+Liste des tableaux.............................................................................................................................. iv
+Liste des graphiques........................................................................................................................... v
+Préface .............................................................................................................................................. 1
+Introduction....................................................................................................................................... 2
+I. Contexte et diagnostic du système éducatif et de recherche ............................................................. 5
+I.1 Contexte ....................................................................................................................................... 5
+I.1.1 Contexte démographique............................................................................................................ 5
+I.1.2 Contexte socioculturel................................................................................................................. 6
+I.1.3 Contexte macro-économique et budgétaire................................................................................. 7
+I.1.4 Contexte politique et institutionnel............................................................................................. 7
+I.1.4.1 Contexte politique..................................................................................................................... 7
+I.1.4.2 Le contexte institutionnel........................................................................................................... 8
+I.1.4.3 Le processus de décentralisation ............................................................................................... 9
+I.2 Diagnostic du système éducatif et de recherche ........................................................................... 10
+I.2.1. Présentation générale du système éducatif et de la recherche scientifique............................... 10
+I.2.1.1 L’éducation.............................................................................................................................. 10
+I.2.1.2 La recherche ............................................................................................................................ 12
+I.2.2 Diagnostic des enseignements post-primaire, secondaire, supérieur et de recherche scientifique ...................................................................................................................................... 12
+I.2.2.1 Faiblesse de l’offre et forte pression de la demande................................................................ 12
+I.2.2.2 Analyse de l’efficacité interne.................................................................................................. 15
+I.2.2.3 Analyse de l’efficacité externe ................................................................................................ 19
+I.2.2.4 Analyse de qualité ................................................................................................................... 22
+I.2.2.4.a) Enseignement post-primaire et secondaire.......................................................................... 23
+I.2.2.4.b) Le supérieur ........................................................................................................................ 26
+I.2.2.5 Analyse de l’équité .................................................................................................................. 27
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+I.2.2.5.a) L’équité filles/garçons......................................................................................................... 27
+I.2.2.5.b) Les disparités régionales..................................................................................................... 28
+I.2.2.5.c) Les disparités financières .................................................................................................... 29
+I.2.2.5.d) Analyse de la prise en charge des problèmes de santé dans le système ............................... 29
+I.2.2.6 Mobilisation des ressources et gouvernance............................................................................. 32
+I.2.2.6.a) La mobilisation des ressources ............................................................................................ 32
+I.2.2.6.b) La gouvernance ................................................................................................................... 33
+I.2.2.7 La recherche scientifique ......................................................................................................... 35
+I.2.2.7.a) L’insuffisance du personnel................................................................................................. 36
+I.2.2.7.b) La gestion de la recherche ................................................................................................... 37
+I.2.2.7.c) Les résultats de la recherche................................................................................................. 37
+I.2.2.7.d) Le financement de la recherche............................................................................................ 38
+II- Eléments de la politique sous-sectorielle des enseignement secondaire, supérieur et de la recherche scientifique ....................................................................................................................... 39
+II.1 Les enjeux et les défis................................................................................................................. 39
+II.2 La vision, les missions et les attributions ..................................................................................... 41
+II.2.1 La vision................................................................................................................................... 41
+II.2.2 Les missions et les attributions ................................................................................................. 42
+II.3 Les objectifs de la politique sous – sectorielle.............................................................................. 43
+II.3.1 L’objectif général...................................................................................................................... 43
+II.3.2 Les objectifs spécifiques........................................................................................................... 43
+II.4 Les principes – directeurs............................................................................................................ 46
+II.5 Les orientations stratégiques ...................................................................................................... 47
+II.6 Dispositif institutionnel, mécanismes, procédures et outils de mise en œuvre............................. 50
+II.6.1 Les instances de gouvernance.................................................................................................... 50
+II.6.1.1 Le Conseil national de l’éducation .......................................................................................... 51
+II.6.1.2 Les conseils régionaux de l’éducation..................................................................................... 51
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+II.6.1.3 Le Conseil d’administration du secteur ministériel (CASEM).................................................. 52
+II.6.1.4 La Conférence annuelle de l’enseignement secondaire (CAES).............................................. 54
+II.6.1.5 Le comité technique paritaire ................................................................................................. 54
+II.6.1.6 Le conseil de discipline .......................................................................................................... 55
+II.6.1.7 Le cadre de concertation entre le ministère des Enseignements secondaire, supérieur et de la Recherche scientifique et les coordonnateurs et gestionnaires des projets et programmes du ministère.............................................................................................................................................. 55
+II.6.1.8 La fédération des associations des parents d’élèves................................................................ 55
+II.6.1.9 Le ministère............................................................................................................................. 55
+II.6.2 Modalités de mise en œuvre de la politique............................................................................... 56
+II.7 La mobilisation des ressources.................................................................................................... 56
+II.7.1 L’Etat......................................................................................................................................... 56
+II.7.2 Les partenaires techniques et financiers.................................................................................... 57
+II.7.3 Les organisations non gouvernementales et la société civile .................................................... 57
+II.7.4 Les collectivités territoriales..................................................................................................... 57
+II.7.5 Le secteur privé ......................................................................................................................... 57
+II.7.6 Les parents d’élèves................................................................................................................... 57
+II.8 Les risques.................................................................................................................................. 58
+II.8.1 Le financement de la politique................................................................................................... 58
+II.8.2 Les crises externes..................................................................................................................... 58
+II.8.3 Les faibles capacités de l’économie à générer des emplois....................................................... 58
+II.8.4 La pauvreté................................................................................................................................ 59
+II.8.5 La faible adhésion de l’ensemble des acteurs............................................................................ 59
+Conclusion ....................................................................................................................................... 59
+BIBLIOGRAPHIE .............................................................................................................................. 61
 
 [[END OF PAGE 4]]
 
@@ -158,7 +232,41 @@ Page ii
 
 [[START OF PAGE 7]]
 
-SAOI : Services académiques de l'orientation et de l'information SIGASPE : Système intégré de gestion administrative et salariale du personnel de l'Etat TAMA : Taux d'accroissement moyen annuel TBA: Taux brut d'admission TBS : Taux brut de scolarisation TIC : Technologie de l'information et de la communication UCAO: Université catholique d'Afrique de l'ouest UK: Université de Koudougou UNESCO: Organisation des Nations Unies pour l'éducation, la science et la culture UO2 : Université Ouaga 2 USTA: Université Saint Thomas d'Aquin UVA : Université Virtuelle Africaine VIH/SIDA : Virus de l'immunodéficience humaine / Syndrome d'immunodéficience acquise CIRAD : Centre de coopération internationale en recherche agronomique pour le développement CEAS :   Centre Albert Schweitzer, CIRDES : Centre International de Recherche-Développement sur l'Elevage en zone Subhumide IRD : L'Institut de recherche pour le développement 2IE : Institut International d'Ingénierie de l'Eau et de l'Environnement
+- SAOI : Services académiques de l’orientation et de l’information
+
+- SIGASPE : Système intégré de gestion administrative et salariale du personnel de l'Etat
+
+- TAMA : Taux d’accroissement moyen annuel
+
+- TBA: Taux brut d’admission
+
+- TBS : Taux brut de scolarisation
+
+- TIC : Technologie de l’information et de la communication
+
+- UCAO: Université catholique d’Afrique de l’ouest
+
+- UK: Université de Koudougou
+
+- UNESCO: Organisation des Nations Unies pour l’éducation, la science et la culture
+
+- UO2 : Université Ouaga 2
+
+- USTA: Université Saint Thomas d’Aquin
+
+- UVA : Université Virtuelle Africaine
+
+- VIH/SIDA : Virus de l’immunodéficience humaine / Syndrome d’immunodéficience acquise
+
+- CIRAD : Centre de coopération internationale en recherche agronomique pour le développement
+
+- CEAS : Centre Albert Schweitzer,
+
+- CIRDES : Centre International de Recherche-Développement sur l’Elevage en zone Subhumide
+
+- IRD : L'Institut de recherche pour le développement
+
+- 2IE : Institut International d'Ingénierie de l'Eau et de l'Environnement
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -169,6 +277,23 @@ Page iii
 [[START OF PAGE 8]]
 
 # Liste des tableaux
+
+Tableau 1 : Evolution du nombre d’étudiants pour 100 000 habitants, de 2005 à 2008 ........................... 14
+Tableau 2 : Evolution des effectifs des étudiants par statut....................................................................... 15
+Tableau 3 : Taux de flux moyens de l'Enseignement secondaire général, de 2004/2005 à 2007/2008....... 16
+Tableau 4 : Taux de flux sur les années académiques 2006/2007-2007/2008 .......................................... 17
+Tableau 5 : Répartition (en %) des étudiants par domaine d’études en 2007 et 2008 .............................. 21
+Tableau 6 : Taux de chômage chez les 25-34 ans par niveau d’éducation, année 2007 ............................ 22
+Tableau 7. Score moyen des élèves en 5ème et en 1ère D dans les quatre disciplines cibles ................... 25
+Tableau 8 : Volume horaire assuré selon la discipline et par niveau .......................................................... 26
+Tableau 9 : Effectif des enseignants par grade et genre (public)................................................................ 26
+Tableau 10 : Locaux et capacités d’accueil du public en 2007-2008........................................................... 27
+Tableau 11 : Volume horaire assuré (en %) par région en 2006/2007 ....................................................... 28
+Tableau 12 : Répartition des orphelins dans l’enseignement secondaire par sexe en 2007/2008 .............. 31
+Tableau 13: Évolution des dépenses courantes exécutées du MESSRS et de l'État de 2003 à 2007 (en millions de FCFA)......................................................................................................................................... 32
+Tableau 14 : Résumé des déboursements de l'aide extérieure au profit du secteur de l'éducation (en millions de FCFA en 2007).......................................................................................................................... 33
+Tableau 15 : Situation du personnel technique de la recherche en janvier 2009....................................... 36
+Tableau 16: Evolution des dotations budgétaires du CNRST .................................................................... 38
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -236,7 +361,7 @@ Le taux de croissance de la population selon le recensement de 2006, est estimé
 
 Avec déjà les effectifs actuels, le système a du mal à être performant, il le sera moins si l'on ne trouve pas les moyens d'absorber une part importante de cette masse de jeunes scolarisables.
 
-Le Burkina Faso connaît une faiblesse des ressources financières ; les recettes propres de l'Etat ne couvrent pas en général les dépenses, d'où le recours régulier à des donateurs ou à des prêts. Le budget consacré à l'éducation est en constante hausse, mais reste en-deçà des 20% au moins prescrit  dans  le  cadre  indicatif  de  l'Initiative  Fast  track  (FTI)  suggérée  aux  Etats  africains  qui connaissent un retard de développement de leur système éducatif. En 2008, la dotation budgétaire de l'éducation, dans toutes ses composantes, représentait 18,3% du budget total de l'Etat.
+Le Burkina Faso connaît une faiblesse des ressources financières ; les recettes propres de l'Etat ne couvrent pas en général les dépenses, d'où le recours régulier à des donateurs ou à des prêts. Le budget consacré à l'éducation est en constante hausse, mais reste en-deçà des 20% au moins prescrit dans le cadre indicatif de l'Initiative Fast track (FTI) suggérée aux Etats africains qui
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -246,7 +371,9 @@ Page 2
 
 [[START OF PAGE 12]]
 
-Entre 2003 et 2008, le budget consacré au ministère des Enseignements secondaire, supérieur et de  la  Recherche  scientifique,  est  passé  de  24,3  à  40,4  milliards  de  francs  CFA,  soit  un  taux d'accroissement de 65,87%. Ce budget reste néanmoins insuffisant pour faire face aux besoins en éducation qui  se posent au pays.
+connaissent un retard de développement de leur système éducatif. En 2008, la dotation budgétaire de l'éducation, dans toutes ses composantes, représentait 18,3% du budget total de l'Etat.
+
+Entre 2003 et 2008, le budget consacré au ministère des Enseignements secondaire, supérieur et de la Recherche scientifique, est passé de 24,3 à 40,4 milliards de francs CFA, soit un taux d'accroissement de 65,87%. Ce budget reste néanmoins insuffisant pour faire face aux besoins en éducation qui se posent au pays.
 
 C'est dans ce contexte marqué par de forts déficits de l'offre éducative, un taux de croissance élevé de la population des jeunes admissibles à l'enseignement post-primaire et la faiblesse des ressources de l'Etat, que le gouvernement a décidé de se doter d'une politique sous-sectorielle des enseignements secondaire, supérieur et de la recherche scientifique.
 
@@ -286,7 +413,7 @@ Page 4
 
 ## I.1 Contexte
 
-Le  Burkina  Faso  est  un  pays  enclavé,  situé  en  Afrique  de  l'Ouest,  dans  la  zone  soudanosahélienne et couvrant une superficie de 274 200 km². C'est un pays essentiellement agricole et tributaire d'une pluviométrie capricieuse qui compromet gravement la situation économique des populations qui sont plus de 80% à dépendre de l'agriculture.
+Le Burkina Faso est un pays enclavé, situé en Afrique de l'Ouest, dans la zone soudano-sahélienne et couvrant une superficie de 274 200 km². C'est un pays essentiellement agricole et tributaire d'une pluviométrie capricieuse qui compromet gravement la situation économique des populations qui sont plus de 80% à dépendre de l'agriculture.
 
 C'est dans ce contexte de sous-développement que la réalisation des objectifs du système éducatif en  cours  de  réforme  depuis  2007,  ne  peut  dépendre  uniquement  de  la  seule  dynamique  et organisation interne du secteur de l'éducation. Elle dépend également de nombreuses contraintes ou facteurs parmi lesquels les facteurs politiques, socioculturels,  démographiques, sanitaires et économiques. En effet, tout système éducatif évolue dans un contexte particulier qu'il convient d'examiner,  afin  d'en  dégager  les  forces  et  les  faiblesses  en  vue  d'assurer  une  meilleure planification des besoins en adéquation avec les ressources.
 
@@ -326,7 +453,7 @@ Le Burkina Faso dispose d'un fond socioculturel riche du fait de la coexistence 
 
 Suivant les résultats du Recensement général de la population et de l'habitation, RGPH 2006, la religion  musulmane  occupe  la  première  place  avec  60,5%  de  la  population  résidente.  Ensuite vient  le  catholicisme  avec  19,0%  de  la  population,  l'animisme  occupe  la  troisième  place  avec 15,3% de la population et la religion protestante 4,2%. Les autres religions représentent 0,6%.
 
-Les langues nationales, elles sont les principaux vecteurs de communication au Burkina Faso. En effet,  elles  sont  utilisées  par la quasi-totalité de  la population résidente (96,8%). Selon le sexe, 96,6% des hommes et 97,1% des femmes utilisent les langues nationales. Les langues étrangères africaines sont utilisées seulement par 0,2% et celles non africaines par 1,4% des résidents (dont 97,5% pour la langue française).
+Les langues nationales, elles sont les principaux vecteurs de communication au Burkina Faso. En effet, elles sont utilisées par la quasi-totalité de la population résidente (96,8%). Selon le sexe, 96,6% des hommes et 97,1% des femmes utilisent les langues nationales. Les langues étrangères
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -335,6 +462,8 @@ Page 6
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+africaines sont utilisées seulement par 0,2% et celles non africaines par 1,4% des résidents (dont 97,5% pour la langue française).
 
 Le taux d'analphabétisme global qui est de l'ordre de 72% est plus important en milieu rural. Selon les cultures, la perception que l'on a de l'école varie en fonction d'un ensemble d'éléments d'ordre sociologique. Il existe encore des poches de résistance où le droit à la scolarisation n'est pas pleinement reconnu. Cela est plus préjudiciable à la jeune fille qu'au jeune garçon.
 
@@ -356,7 +485,7 @@ Ces taux restent  en-deçà  des  proportions  (9  %  du  PIB) 2 à  consacrer  
 
 #### I.1.4.1 Contexte politique
 
-Le Burkina Faso s'est résolument engagé dans le processus démocratique depuis l'adoption de la Constitution du 02 juin 1991. La vision est de créer les conditions d'un pays émergent et ce, dans le cadre d'un Etat unitaire et décentralisé. Au plan administratif, le pays est divisé en 13 régions, 45 provinces, 351 communes dont 49 communes urbaines et plus de 8000 villages.
+Le Burkina Faso s'est résolument engagé dans le processus démocratique depuis l'adoption de la Constitution du 02 juin 1991. La vision est de créer les conditions d'un pays émergent et ce, dans
 
 > 1 Programme d'actions prioritaires du CSLP : Perspectives 2010-2012, Ministère de l'Economie et des Finances.
 
@@ -370,7 +499,9 @@ Page 7
 
 [[START OF PAGE 17]]
 
-Le pays, à travers le Programme quinquennal de Son Excellence Monsieur le Président du Faso « Le progrès continu pour une société d'espérance » dont l'échéance est de 2005 à 2010, a opté pour  « la  valorisation  du  capital  humain »  comme  moyen  d'impulsion  de  son  développement. L'opérationnalisation de cet objectif passe par la mise en place d'un système éducatif performant, à  travers  l'adoption  et  la  mise  en  œuvre  d'instruments  juridiques  et/ou  politiques,  aussi  bien nationaux qu'internationaux.
+le cadre d'un Etat unitaire et décentralisé. Au plan administratif, le pays est divisé en 13 régions, 45 provinces, 351 communes dont 49 communes urbaines et plus de 8000 villages.
+
+Le pays, à travers le Programme quinquennal de Son Excellence Monsieur le Président du Faso « Le progrès continu pour une société d'espérance » dont l'échéance est de 2005 à 2010, a opté pour « la valorisation du capital humain » comme moyen d'impulsion de son développement. L'opérationnalisation de cet objectif passe par la mise en place d'un système éducatif performant, à travers l'adoption et la mise en œuvre d'instruments juridiques et/ou politiques, aussi bien nationaux qu'internationaux.
 
 Au  plan  national,  les  principaux  engagements  du  gouvernement  qui  ont  une  incidence  sur l'éducation sont exprimés dans des documents de référence et par des actions stratégiques que sont  notamment,  la  Constitution  (Son  article  18  reconnaît  l'éducation  comme  un  des  droits sociaux  et  culturels),  le  Cadre  stratégique  de  lutte  contre  la  pauvreté  (CSLP),  le  programme quinquennal, la loi d'orientation de l'éducation, la Lettre de politique éducative, etc.
 
@@ -432,6 +563,61 @@ Page 9
 
 Le système éducatif burkinabè a été hérité de la colonisation, ce qui fait que sa structuration est pratiquement calquée sur celle de  la France. Dans le cadre de la réforme du système éducatif, l'adoption  de  la  loi  d'orientation  de  l'éducation  en  juillet  2007    a  consacré    sa  structuration actuelle  qui  comprend :  l'éducation  de  base,  l'enseignement  secondaire  et  l'enseignement supérieur comme le montre la figure suivante :
 
+STRUCTURATION DU SYSTEME EDUCATIF REFORME
+
+Formation professionnelle et technique
+
+Cycles des métiers, CEBNF/
+Écoles métiers, CFP/CA/CEFP, CEFJ/CPR, CPAF
+
+Ecole Nationale de la Formation Professionnelle (ENFP) –
+Cycle C: ENEP / ENSP / ENAREF / ENESA / ETC...
+
+ENFP
+Cycle B
+Cycle A
+
+AGE D'ACCES | CYCLE | DUREE (Années) | DIPLÔME (FIN DE CYCLE)
+12 | POST-PRIMAIRE (CEG, CET, CFTP) | 1
+ |  | 2
+ |  | 3
+ |  | 4 | BEPC/CAP
+6 | PRIMAIRE (Ecoles) | 1
+ |  | 2
+ |  | 3
+ |  | 4
+ |  | 5
+ |  | 6 | CEP
+3 | PRESCOLAIRE - Jardins - Garderies | 1
+ |  | 2
+ |  | 3
+
+CYCLE | DUREE (Années) | DIPLÔME (FIN DE CYCLE)
+ENS. GENERAL (Lycées-EG) | 1
+ | 2
+ | 3 | BAC GEN
+TECHNIQUE (lycées tech.) | 1
+ | 2
+ | 3 | BAC TECH
+Lycée Professionnel | 1
+ | 2 | BEP
+ | 3 | BAC PRO
+
+CYCLE | DUREE (Années) | DIPLÔME (FIN DE CYCLE)
+1er cycle ou Licence | L1
+ | L2 | DUT/BTS
+ | L3 | Licence
+2nd cycle ou Master | M1
+ | M2 | Master/Ingeniorat
+3ème cycle | 1
+ | 2
+ | 3 | Doctorat
+
+Education de base formelle
+3 à 16 ans
+Enseignement secondaire
+Enseignement supérieur
+
 - L'éducation de base comprend : l'éducation de base formelle et l'éducation de base non formelle.
 
 - L'éducation de base formelle comprend le préscolaire, le primaire et le post-primaire.
@@ -462,7 +648,7 @@ L'enseignement supérieur est le dernier niveau du système éducatif formel. Il
 
 Une des missions essentielles de l'enseignement supérieur est de mettre à la disposition du pays des  cadres  de  conception  de  haut  niveau,  en  vue  d'assurer  efficacement  le  pilotage  du développement économique et social du Burkina Faso.
 
-A côté du système éducatif formel et non formel, il existe plusieurs grandes écoles et/ou instituts publics et privés en charge de la formation professionnelle. A titre d'exemple, l'on peut citer les ENEP, l'ENS/UK, l'IDS, l'ENAM, l'ENAREF, les écoles de la santé, de la police, de la douane, de  la  gendarmerie,  de  l'action  sociale,  des  techniciens    d'agriculture,  des  Eaux  et  forêts,  des travaux publics, de la chambre de commerce, etc.
+A côté du système éducatif formel et non formel, il existe plusieurs grandes écoles et/ou instituts publics et privés en charge de la formation professionnelle. A titre d'exemple, l'on peut citer les ENEP, l'ENS/UK, l'IDS, l'ENAM, l'ENAREF, les écoles de la santé, de la police, de la douane,
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -471,6 +657,8 @@ Page 11
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+de la gendarmerie, de l’action sociale, des techniciens d’agriculture, des Eaux et forêts, des travaux publics, de la chambre de commerce, etc.
 
 #### I.2.1.2 La recherche
 
@@ -542,7 +730,7 @@ Graphique 1 : Evolution des taux bruts de scolarisation au post-primaire et au s
 
 2007/2008
 
-Tuax bruts de scolarisation
+Taux bruts de scolarisation
 
 Années scolaires
 
@@ -556,7 +744,7 @@ Au post-primaire, le TBS est passé de 18,87% en (2003/2004) à 27,4% (en 2007/2
 
 Il y a une différence de taux selon le genre : les données statistiques indiquent que pour l'année 2007-2008, les filles sont scolarisées à 24% contre 30,7% pour les garçons à la même période au post-primaire.
 
-Au secondaire, le TBS est faible comparé à celui du post-primaire. De 7,15% en 2003/2004, le TBS n'était que de 10,1 % en 2007/2008, soit un gain de 2,95 points contre 8,5 points au postprimaire pour la même période.
+Au secondaire, le TBS est faible comparé à celui du post-primaire. De 7,15% en 2003/2004, le TBS n'était que de 10,1 % en 2007/2008, soit un gain de 2,95 points contre 8,5 points au post-primaire pour la même période.
 
 Au niveau de l'enseignement supérieur, le taux de fréquentation  est encore plus faible comme le montre le tableau 1, malgré une légère augmentation du taux.
 
@@ -568,13 +756,13 @@ Page 13
 
 [[START OF PAGE 23]]
 
+Tableau 1 : Evolution du nombre d'étudiants pour 100 000 habitants, de 2005 à 2008
+
 Années | 2004/2005 | 2005/2006 | 2006/2007 | 2007/2008
 --- | --- | --- | --- | ---
 Nombre d'étudiants | 27 942 | 30 472 | 33 515 | 41 779
 Population totale du Burkina Faso | 12 495 643 | 12 802 282 | 14 017 262 | 14 252 012
 Nombre d'étudiants pour 100 000 habitants | 224 | 238 | 239 | 293
-
-Tableau 1 : Evolution du nombre d'étudiants pour 100 000 habitants, de 2005 à 2008
 
 Source
 
@@ -656,7 +844,7 @@ Source
 
 Le nombre d'établissements du supérieur est passé de 497 (dont 209 pour le privé) en 2003/2004 à 904 (dont 503 pour le privé) en 2007/2008, soit un accroissement de 81% (dont 140% pour le privé).
 
-Au niveau de l'enseignement technique, l'offre au public est très limitée par rapport au privé. En 2003/2004, on comptait 67 établissements techniques dont 57 pour le privé ; en 2007/2008, on dénombrait 114 établissements dont 103 pour le privé. La situation du public est restée plus que constante.  Le  privé  occupe  de  ce  fait,  90,35%  des  établissements  techniques  et  professionnels. Plus de la moitié de ces établissements sont concentrés dans les régions du Centre et des Hauts- Bassins qui enregistrent respectivement  62  et 23 établissements techniques sur les  114 établissements.  Les  régions  du  Plateau  central  et  du  Sahel  ne  disposent  d'aucun  établissement d'enseignement  technique.  Il  faut  toutefois  noter  que  le  Privé  est  surtout  dans  le  domaine tertiaire.
+Au niveau de l'enseignement technique, l'offre au public est très limitée par rapport au privé. En 2003/2004, on comptait 67 établissements techniques dont 57 pour le privé ; en 2007/2008, on dénombrait 114 établissements dont 103 pour le privé. La situation du public est restée plus que constante. Le privé occupe de ce fait, 90,35% des établissements techniques et professionnels. Plus de la moitié de ces établissements sont concentrés dans les régions du Centre et des Hauts-
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -666,16 +854,18 @@ Page 14
 
 [[START OF PAGE 24]]
 
-Au niveau du supérieur technique, on comptait 49 établissements d'enseignement supérieur en 2007/2008, dont 29 privés. Le public accueille environ 85%  des étudiants. Tous ces établissements  d'enseignement  supérieur  sont  situés  dans  les  villes  de  Ouagadougou,  BoboDioulasso, Koudougou, Ouahigouya et Kaya.
+Bassins qui enregistrent respectivement 62 et 23 établissements techniques sur les 114 établissements. Les régions du Plateau central et du Sahel ne disposent d’aucun établissement d’enseignement technique. Il faut toutefois noter que le Privé est surtout dans le domaine tertiaire.
 
-Statut | 2004/2005 | 2005/2006 | 2006/2007 | 2007/2008 | TAMA 5
---- | --- | --- | --- | --- | ---
-Public | 23363 | 25 982 | 27 935 | 34 586 | 14,0%
-Privé | 4 579 | 4 490 | 5 580 | 7 193 | 16,2%
-Total | 27 942 | 30 472 | 33 515 | 41 779 | 14,3%
-% Privé | 16,4% | 14,7% | 16,6% | 17,2%
+Au niveau du supérieur technique, on comptait 49 établissements d'enseignement supérieur en 2007/2008, dont 29 privés. Le public accueille environ 85% des étudiants. Tous ces établissements d'enseignement supérieur sont situés dans les villes de Ouagadougou, Bobo-Dioulasso, Koudougou, Ouahigouya et Kaya.
 
 Tableau 2 : Evolution des effectifs des étudiants de l'enseignement supérieur par statut
+
+Statut | 2004/2005 | 2005/2006 | 2006/2007 | 2007/2008 | TAMA⁵
+--- | --- | --- | --- | --- | ---
+Public | 23 363 | 25 982 | 27 935 | 34 586 | 14,0%
+Privé | 4 579 | 4 490 | 5 580 | 7 193 | 16,2%
+Total | 27 942 | 30 472 | 33 515 | 41 779 | 14,3%
+% Privé | 16,4% | 14,7% | 16,6% | 17,2% |
 
 Source : Annuaires statistiques, DEP/MESSRS
 
@@ -711,27 +901,27 @@ Les taux de promotion varient entre 58,5 et 72%, les taux de redoublement de 19 
 
 Le coefficient d'efficacité interne global est de l'ordre de 0,23 pour le post-primaire et 0,27 pour le  secondaire,  ce  qui  fait  apparaître  des  degrés  de  gaspillage  respectifs  des  ressources  de  77% pour le post-primaire et 73% pour le secondaire.
 
+Tableau 3 : Taux de flux moyens de l'Enseignement secondaire général, de 2004/2005 à 2007/2008
+
 Années d'étude | Taux de promotion | Taux de redoublement | Taux d'abandon
 --- | --- | --- | ---
-58,5 | 26,0 | 15,5 | SIXIEME
-65,4 | 24,5 | 10,1 | CINQUIEME
-70,4 | 27,0 | 2,6 | QUATRIEME
-(38,3)* 6 | _ | _ | TROISIEME
-64,3 | 20,9 | 14,8 | SECONDE
-72,7 | 19,9 | 7,4 | PREMIERE
-(32,4)* | _ | _ | TERMINALE
-
-Tableau 3 : Taux de flux moyens de l'Enseignement secondaire général, de 2004/2005 à 2007/2008
+SIXIEME | 58,5 | 26,0 | 15,5
+CINQUIEME | 65,4 | 24,5 | 10,1
+QUATRIEME | 70,4 | 27,0 | 2,6
+TROISIEME | (38,3)*⁶ | _ | _
+SECONDE | 64,3 | 20,9 | 14,8
+PREMIERE | 72,7 | 19,9 | 7,4
+TERMINALE | (32,4)* | _ | _
 
 Source : Politique sous-sectorielle des ESSRS: Document de diagnostic, 2009
 
 ##### Le supérieur
 
-Au niveau national, on note que le taux de promotion varie entre 26% pour l'année de maîtrise à 57% pour la première année. Le taux de promotion le plus élevé (65%) est enregistré en 3 e année. Le plus faible taux de promotion est enregistré au niveau de la quatrième année et peut  être lié au faible nombre d'étudiants qui effectuent leur soutenance.
+Au niveau national, on note que le taux de promotion varie entre 26% pour l'année de maîtrise à 57% pour la première année. Le taux de promotion le plus élevé (65%) est enregistré en 3e année. Le plus faible taux de promotion est enregistré au niveau de la quatrième année et peut être lié au faible nombre d'étudiants qui effectuent leur soutenance.
 
-On note que le taux de redoublement est très élevé au premier cycle, plus de 20%, puis baisse progressivement dans les niveaux suivants pour atteindre 12 % en 4ème année. L'importance des abandons est notable en première année (22%). Les abandons sont également importants entre la 2 ème et la 3 ème année ; ils varient entre  29% et 20%.
+On note que le taux de redoublement est très élevé au premier cycle, plus de 20%, puis baisse progressivement dans les niveaux suivants pour atteindre 12 % en 4ème année. L'importance des abandons est notable en première année (22%). Les abandons sont également importants entre la 2ème et la 3ème année ; ils varient entre 29% et 20%.
 
-> 6 (*) Pour ce qui est des classes d'examen, il s'agit des taux moyens de réussite aux BEPC et au Bac sur la période cidessus, citée et non des taux de promotion.
+> 6 (*) Pour ce qui est des classes d'examen, il s'agit des taux moyens de réussite aux BEPC et au Bac sur la période ci-dessus, citée et non des taux de promotion.
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -741,7 +931,9 @@ Page 16
 
 [[START OF PAGE 26]]
 
-1ère année | 2ème année | 3ème année | 4ème année
+Tableau 4 : Taux de flux sur les années académiques 2006/2007-2007/2008
+
+ | 1ère année | 2ème année | 3ème année | 4ème année
 --- | --- | --- | --- | ---
 Taux de promotion | 57% | 54% | 65% | 26%
 Taux de promotion (filles) | 59% | 46% | 73% | 21%
@@ -749,13 +941,11 @@ Taux de promotion (garçons) | 56% | 58% | 62% | 29%
 Taux de redoublement | 21% | 17% | 15% | 12%
 Taux de redoublement (filles) | 20% | 15% | 17% | 17%
 Taux de redoublement (garçons) | 21% | 18% | 14% | 10%
-Taux d'abandon | 22% | 29% | 20%
-Taux d'abandon (filles) | 20% | 39% | 10%
-Taux d'abandon (garçons) | 23% | 24% | 23%
+Taux d'abandon | 22% | 29% | 20% |
+Taux d'abandon (filles) | 20% | 39% | 10% |
+Taux d'abandon (garçons) | 23% | 24% | 23% |
 
-Tableau 4 : Taux de flux sur les années académiques  2006/2007-2007/2008
-
-Source :  DEP/MESSRS  Tableau  de  bord  des  Enseignements  secondaire  et  supérieur,  année scolaire 2007/2008.
+Source : DEP/MESSRS Tableau de bord des Enseignements secondaire et supérieur, année scolaire 2007/2008.
 
 Les  profils  de  rétention  traduisent  aussi  une  baisse  progressive  des  taux  de  rétention  avec l'augmentation du niveau d'études. Sur 100 étudiants en première année, 32 atteindront la 4 ème année et seulement 4 la 7 ème année d'études.
 
@@ -869,7 +1059,7 @@ L'analyse de l'efficacité externe d'un système éducatif vise à traiter de l'
 
 Plusieurs études ont montré l'importance de l'éducation dans l'acquisition de certains comportements  socialement  indiqués.  Au  Burkina,  l'étude  sur  le  Rapport  d'état  du  Système Educatif National (RESEN) a montré que plus le niveau scolaire croît plus les individus adoptent des comportements respectueux de leur santé et de celle des autres et du niveau de vie de leur famille.
 
-Les  statistiques  indiquent  que  les  niveaux  de  revenus  sont  fortement  corrélés  au  niveau d'éducation, quel que soit le domaine dans lequel l'individu exerce (informel ou formel) : plus le niveau d'instruction augmente plus le revenu de l'individu augmente. L'atteinte du niveau postprimaire permet dans le secteur informel d'augmenter son salaire de près de 10% pour quelqu'un issu  de  l'enseignement  général  et  de  17%  pour  quelqu'un  issu  du  post-primaire  technique.  On note par ailleurs, que le niveau d'instruction supérieur permet d'atteindre un revenu moyen plus élevé dans l'informel bien que globalement, les revenus du formel soient plus élevés que ceux de l'informel.  Cela  suggère  que  l'auto-emploi  des  formés  du  supérieur  entraînerait  une  forte productivité dans le secteur informel.
+Les statistiques indiquent que les niveaux de revenus sont fortement corrélés au niveau d'éducation, quel que soit le domaine dans lequel l'individu exerce (informel ou formel) : plus le niveau d'instruction augmente plus le revenu de l'individu augmente. L'atteinte du niveau post-primaire permet dans le secteur informel d'augmenter son salaire de près de 10% pour quelqu'un issu de l'enseignement général et de 17% pour quelqu'un issu du post-primaire technique. On note par ailleurs, que le niveau d'instruction supérieur permet d'atteindre un revenu moyen plus élevé dans l'informel bien que globalement, les revenus du formel soient plus élevés que ceux de l'informel. Cela suggère que l'auto-emploi des formés du supérieur entraînerait une forte productivité dans le secteur informel.
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -949,6 +1139,8 @@ Page 20
 
 [[START OF PAGE 30]]
 
+Tableau 5 : Répartition (en %) des étudiants par domaine d'études en 2007 et 2008
+
 DOMAINES | 2006/2007 | 2007/2008
 --- | --- | ---
 Education | 3,6 | 5,1
@@ -960,11 +1152,9 @@ Agriculture | 0,7 | 0,6
 Santé et protection sociale | 8,3 | 6,5
 Service | 0,8 | 0,5
 
-Tableau 5 : Répartition (en %) des étudiants par domaine d'études en 2007 et 2008
+Source : DEP/MESSRS, tableau de bord 2008
 
-Source
-
-: DEP/MESSRS, tableau de bord 2008
+Tableau 5 (bis) : Répartition des travailleurs par branches d'activités en 2003, 2005 et 2007 (en %)
 
 Domaines | 2003 | 2005 | 2007
 --- | --- | --- | ---
@@ -980,9 +1170,7 @@ Activités financières | 0,2 | 0,4 | 0,6
 Immobilier, location, services aux entreprises | 0,2 | 0,3 | 0,7
 Administration publique, éducation, social et santé | 2,9 | 3,5 | 2,6
 
-Tableau 5 (bis) : Répartition des travailleurs par branches d'activités en 2003, 2005 et 2007 (en %)
-
-Source : INSD, Enquête burkinabé sur les conditions de vie des ménages 2003 et enquête annuelle sur les conditions de vie des ménages (EA - QUIBB) 2005 et 2007, regroupement  des auteurs La  structure  des  emplois  en  2007  (cf.  tab.5  bis)  montre  que  les  travailleurs  se  répartissent principalement dans les  domaines suivant : Agriculture, chasse, sylviculture et pêche (67,4%) ; commerce, réparations, activités domestiques (17,1%) ; activités extractives (4,8%) ; activités de fabrication (3,2) ; administration publique, éducation, social et santé (2,6%) ; construction (1,9%).
+Source : INSD, Enquête burkinabé sur les conditions de vie des ménages 2003 et enquête annuelle sur les conditions de vie des ménages (EA – QUIBB) 2005 et 2007, regroupement des auteurs
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -992,9 +1180,13 @@ Page 21
 
 [[START OF PAGE 31]]
 
-On note donc une quasi-opposition entre la répartition des étudiants dans les filières et celle des travailleurs dans les différentes branches d'activités .
+La structure des emplois en 2007 (cf. tab.5 bis) montre que les travailleurs se répartissent principalement dans les domaines suivant : Agriculture, chasse, sylviculture et pêche (67,4%) ; commerce, réparations, activités domestiques (17,1%) ; activités extractives (4,8%) ; activités de fabrication (3,2) ; administration publique, éducation, social et santé (2,6%) ; construction (1,9%).
+
+On note donc une quasi-opposition entre la répartition des étudiants dans les filières et celle des travailleurs dans les différentes branches d'activités.
 
 Cette  structuration  de    la  formation  n'est  en  harmonie  ni  avec  la  structure  de  l'économie burkinabè ni avec la structure des emplois disponibles (cf. tableau 5 bis). Cette situation explique en  partie,  le  taux  de  chômage  important  chez  les  détenteurs  de  diplômes  de  l'enseignement supérieur. Le tableau 6 indique que ce taux est de 21,3% pour les diplômés du supérieur contre une moyenne nationale de 10,5%.
+
+Tableau 6 : Taux de chômage chez les 25-34 ans par niveau d'éducation, année 2007
 
 Niveau d'éducation | Occupés | chômeurs | Total
 --- | --- | --- | ---
@@ -1006,11 +1198,7 @@ Post-primaire technique | 92,4 | 7,6 | 100
 Secondaire technique | 92,3 | 7,7 | 100
 Total | 89,5 | 10,5 | 100
 
-Tableau 6 : Taux de chômage chez les 25-34 ans par niveau d'éducation, année 2007
-
-Source
-
-: Calcul de l'INSD à partir du QUIBB 2007
+Source : Calcul de l'INSD à partir du QUIBB 2007
 
 Toutefois, il apparaît de manière évidente, qu'il y a un déséquilibre quantitatif et qualitatif entre les  profils  de  sortants  du  système  éducatif  et  la  structure  des  emplois  disponibles.  Le  nombre d'emplois  de  cadres  supérieurs  et  moyens  (900  environ  par  an)  représente  moins  du  tiers  du nombre de diplômés que produit l'enseignement supérieur par an.
 
@@ -1114,12 +1302,12 @@ Page 24
 
 [[START OF PAGE 34]]
 
-Français | Mathématiques | Sciences de la vie et de la terre (SVT) | Histoire- géographie
+Tableau 7. Score moyen des élèves en 5ème et en 1ère D dans les quatre disciplines cibles
+
+ | Français | Mathématiques | Sciences de la vie et de la terre (SVT) | Histoire-géographie
 --- | --- | --- | --- | ---
 Moyenne (5ème) | 10,4 /20 | 8,1 /20 | 9,1 /20 | 6,6 /20
-Moyenne (1 ère D) | 10,0 /20 | 9,3 /20 | 9,7 /20 | 8,3 /20
-
-Tableau 7. Score moyen des élèves en 5ème et en 1ère D dans les quatre disciplines cibles
+Moyenne (1ère D) | 10,0 /20 | 9,3 /20 | 9,7 /20 | 8,3 /20
 
 Source : Effectivité de l'année scolaire 2006-2007 : suivi du calendrier scolaire. Etude OCECOS décembre 2008
 
@@ -1177,14 +1365,14 @@ Page 25
 
 [[START OF PAGE 35]]
 
-Niveau | Volume horaire assuré en %
---- | --- | --- | --- | ---
-Fr | Math | SVT | HG
-6 ème | 52,0 | 63,3 | 58,2 | 58,3
-5 ème | 51,4 | 58,6 | 57,9 | 60,5
-4 ème | 56,8 | 61,9 | 56,3 | 57,8
-
 Tableau 8 : Volume horaire assuré selon la discipline et par niveau
+
+Niveau | Volume horaire assuré en %
+ | Fr | Math | SVT | HG
+--- | --- | --- | --- | ---
+6ème | 52,0 | 63,3 | 58,2 | 58,3
+5ème | 51,4 | 58,6 | 57,9 | 60,5
+4ème | 56,8 | 61,9 | 56,3 | 57,8
 
 Source : Effectivité de l'année scolaire 2006-2007: suivi du calendrier scolaire. Etude OCECOS décembre 2008
 
@@ -1192,22 +1380,20 @@ Source : Effectivité de l'année scolaire 2006-2007: suivi du calendrier scolai
 
 L'université publique qui fait l'essentiel de l'enseignement supérieur souffre d'une insuffisance d'enseignants.  Pour  2006/2007  et  2007/2008,  la  situation  se  présente  comme  suit  (tableau  9). Entre  2007  et  2008,  le  rythme  d'augmentation  des  étudiants  est  presque  deux  fois  supérieur  à celui des enseignants (4,4% contre 8,4%). Cette situation pose des problèmes sérieux au niveau des  enseignements  et  de  l'encadrement.  C'est  cette  situation  qui  explique  le  faible  taux  de rendement interne en 4 ème année, puisque un grand nombre d'étudiants n'arrivent pas à soutenir leur mémoire de fin de cycle du fait du nombre insuffisant d'enseignants de rang magistral. Par ailleurs, il y a très peu d'enseignants de rang A (Professeur et Maître de conférences) par rapport à  l'ensemble,  ce  qui  n'est  pas  sans  poser  problème  au  niveau  de  l'encadrement  des  études doctorales indispensables pour assurer la relève.
 
-2006-2007 | 2007-2008
+Tableau 9 : Effectif des enseignants par grade et genre (public)
+
+ | 2006-2007 |  |  |  | 2007-2008 |  |  | 
+ | F | M | TOTAL | % femmes | F | M | TOTAL | % femmes
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-F | M | TOTAL | % femmes | F | M | TOTAL | % femmes
 Enseignant à temps plein | 45 | 321 | 366 | 12,30% | 22 | 141 | 163 | 13,50%
 Assistant | 9 | 124 | 133 | 6,77% | 20 | 135 | 155 | 12,90%
 Maître-assistant | 19 | 210 | 229 | 8,30% | 25 | 227 | 252 | 9,92%
 Maître de conférence | 10 | 126 | 136 | 7,35% | 9 | 118 | 127 | 7,09%
 Professeur | 5 | 55 | 60 | 8,33% | 1 | 44 | 45 | 2,22%
-Indéterminé | 0 | 0,00% | 21 | 192 | 213 | 9,86%
+Indéterminé |  |  | 0 | 0,00% | 21 | 192 | 213 | 9,86%
 Total | 78 | 836 | 914 | 8,53% | 98 | 857 | 955 | 10,26%
 
-Tableau 9 : Effectif des enseignants par grade et genre (public)
-
-Source
-
-: Tableau de bord du MESSRS 2008
+Source : Tableau de bord du MESSRS 2008
 
 Les capacités d'accueil des infrastructures sont en-deçà des besoins. L'ensemble des établissements d'enseignement  supérieur  publics  présentent  un  total brut de 250 salles pédagogiques, toutes catégories confondues (voir tableau  10), ce qui représente en 2007-2008, une capacité théorique estimée à environ 20 000 places pour une présence effective de 34 586 étudiants. Ces capacités restent toutefois en-deçà des besoins réels.
 
@@ -1218,6 +1404,8 @@ Page 26
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
+Tableau 10 : Locaux et capacités d'accueil du public en 2007-2008
 
 Type de salle | Nombre
 --- | ---
@@ -1230,11 +1418,7 @@ Salle de classe | 174
 Salle informatique | 15
 Total général | 250
 
-Tableau 10 : Locaux et capacités d'accueil du public en 2007-2008
-
-Source
-
-: TB MESSRS 2008
+Source : TB MESSRS 2008
 
 Si  la  prolifération  du  nombre  d'établissements  supérieurs  privés  présente  des  effets  positifs  à travers  sa  contribution  à  la  baisse  de  la  pression  sur  les  universités  publiques,  elle  a  aussi  des effets pervers, à travers la qualité des enseignements et même des enseignants.
 
@@ -1268,27 +1452,25 @@ Le système éducatif burkinabè se caractérise aussi par des disparités régi
 
 Au niveau de la couverture du volume horaire, les statistiques révèlent que plus l'école est en ville, mieux le volume horaire est assuré, ce qui fait que les régions fortement urbanisées ont des pourcentages de volumes horaires assurés élevés comme l'indique le tableau 11 .
 
-niveau | Fr | Math | SVT | HG
+Tableau 11 : Volume horaire assuré (en %) par région en 2006/2007
+
+ | niveau | Fr | Math | SVT | HG
 --- | --- | --- | --- | --- | ---
 Boucle du Mouhoun | 4è | 56,3 | 66,3 | 67,0 | 60,1
 Cascades | 4è | 51,6 | 66,2 | 53,9 | 40,2
 Centre | 4è | 67,5 | 70,2 | 69,6 | 62,8
-Centre - Est | 4è | 54,4 | 60,8 | 55,3 | 49,0
-Centre - Nord | 4è | 58,4 | 67,5 | 63,4 | 67,6
-Centre -Ouest | 4è | 64,0 | 60,3 | 67,8 | 56,0
-Centre - Sud | 4è | 59,1 | 57,2 | 50,4 | 71,0
+Centre – Est | 4è | 54,4 | 60,8 | 55,3 | 49,0
+Centre – Nord | 4è | 58,4 | 67,5 | 63,4 | 67,6
+Centre –Ouest | 4è | 64,0 | 60,3 | 67,8 | 56,0
+Centre – Sud | 4è | 59,1 | 57,2 | 50,4 | 71,0
 Est | 4è | 55,2 | 53,6 | 46,5 | 51,2
 Hauts-Bassins | 4è | 71,1 | 67,9 | 62,3 | 62,2
 Nord | 4è | 57,0 | 62,6 | 55,2 | 58,4
 Plateau central | 4è | 52,0 | 61,1 | 53,6 | 57,4
 Sahel | 4è | 43,4 | 56,0 | 37,0 | 59,90
-Sud - Ouest | 4è | 48,9 | 55,2 | 50,2 | 55,5
+Sud – Ouest | 4è | 48,9 | 55,2 | 50,2 | 55,5
 
-Tableau 11 : Volume horaire assuré (en %) par région en 2006/2007
-
-Source
-
-: OCECOS
+Source : OCECOS
 
 Certaines provinces ont des établissements qui ne disposent pas de second cycle. Par exemple, en 2007/2008, les provinces du Ziro et de la Komandjoari, respectivement dans le Centre-Ouest et de  l'Est  ne  disposaient  toujours  pas  d'un  établissement  doté  de  second  cycle.  Ce  déséquilibre structurel  réduit  les  chances  de  scolarisation  dans  les  niveaux  élevés  du  système  éducatif.  11 régions sur 13 ont des TBA en-dessous de la moyenne nationale (9,1%).
 
@@ -1334,7 +1516,7 @@ Page 29
 
 - les infections intestinales, la méningite, la fièvre typhoïde.
 
-Des actions entreprises par le secteur de l'éducation en réponse aux problèmes de santé, ISTVIH/ Sida et de nutrition sont très peu nombreuses mais on peut tout de même noter quelques points forts à côté des faiblesses.
+Des actions entreprises par le secteur de l'éducation en réponse aux problèmes de santé, IST-VIH/ Sida et de nutrition sont très peu nombreuses mais on peut tout de même noter quelques points forts à côté des faiblesses.
 
 ###### Les forces
 
@@ -1386,7 +1568,9 @@ Le tableau n°12 ci - dessous indique un nombre assez élevé d'orphelins de tou
 
 La  proportion  élevée  d'orphelins  et  d'enfants  vulnérables  dans  le  système  sans  mesures d'accompagnement  pose  des  problèmes  de  maintien,  de  survie  même  de  ces  derniers  dans  le système et en définitive un problème d'équité.
 
-Orphelins, toutes formes | Total élèves par région | % orphelins par région
+Tableau 12 : Répartition des orphelins dans l'enseignement secondaire par sexe en 2007/2008
+
+ | Orphelins, toutes formes | Total élèves par région | % orphelins par région
 --- | --- | --- | ---
 Boucle du Mouhoun | 5 508 | 32 641 | 16,9
 Cascades | 3 299 | 16 771 | 19,7
@@ -1403,11 +1587,7 @@ Sahel | 1 133 | 7 395 | 15,3
 Sud-Ouest | 4 119 | 15 913 | 25,9
 Burkina Faso | 71 525 | 423 520 | 16,9
 
-Tableau  12 : Répartition  des    orphelins  dans  l'enseignement  secondaire  par  sexe  en 2007/2008
-
-Source
-
-: Enquête statistique 2007/2008  DEP/MESSRS
+Source : Enquête statistique 2007/2008 DEP/MESSRS
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -1425,16 +1605,16 @@ Le système d'éducation secondaire et supérieur fonctionne grâce au financeme
 
 Cependant, il faut noter que la plus grande partie des dépenses de fonctionnement se fait dans le cadre  du    budget  de  l'Etat.  Le  tableau  13  donne  l'évolution  et  l'importance  des  dépenses courantes du MESSRS dans le budget de dépenses courantes de l'Etat. La part du MESSRS dans le  total  se  stabilise  autour  de  8%,  ce  qui  représente  environ  40%  du  budget  de  l'éducation nationale, c'est-à-dire MESSRS et MEBA.
 
+Tableau 13: Évolution des dépenses courantes exécutées du MESSRS et de l'État de 2003 à 2007 (en millions de FCFA)
+
 Années | 2003 | 2004 | 2005 | 2006 | 2007 | TAMA entre 2003 et 2007
 --- | --- | --- | --- | --- | --- | ---
 Etat | 245 483 | 290 672 | 328 631 | 384 480 | 456 870 | 16,8
 MESSRS | 24 360 | 25 744 | 29 052 | 33 383 | 38 738 | 12,3
-Part % MESSRS/ (MESSRS+MEBA) | 41 | 38,9 | 41 | 39,4 | 41,3
-Proportions MESSRS/Etat (en %) | 9,9 | 8,9 | 8,8 | 8,7 | 8,5
-Accroissement du budget de l'Etat (en %) | 18,4 | 13,1 | 17 | 18,8
-Accroissement du budget du MESSRS (en %) | 5,7 | 12,9 | 14,9 | 16,
-
-Tableau 13: Évolution des dépenses courantes exécutées du MESSRS et de l'État de 2003 à 2007 (en millions de FCFA)
+Part % MESSRS/ (MESSRS+MEBA) | 41 | 38,9 | 41 | 39,4 | 41,3 |
+Proportions MESSRS/Etat (en %) | 9,9 | 8,9 | 8,8 | 8,7 | 8,5 |
+Accroissement du budget de l'Etat (en %) |  | 18,4 | 13,1 | 17 | 18,8 |
+Accroissement du budget du MESSRS (en %) |  | 5,7 | 12,9 | 14,9 | 16, |
 
 L'éducation nationale (enseignement secondaire supérieur et la recherche scientifique + MEBA) est beaucoup supportée par les PTF. Entre 2003 et 2006, c'est environ 56 milliards qui ont été mobilisés et se répartissent comme indiqué dans le tableau 14. Cependant, la plus grande partie du  financement  va  dans  l'éducation  de  base  avec  plus  de  88%  des  déboursements.  Les enseignements secondaire et supérieur n'engrangent que seulement 7,2% des financements. Ces chiffres indiquent clairement les priorités des donateurs qui sont essentiellement orientées vers l'enseignement de base. L'élargissement de l'éducation de base à l'enseignement post-primaire devrait permettre d'améliorer le financement de cet ordre d'enseignement.
 
@@ -1447,6 +1627,8 @@ Page 32
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+Tableau 14 : Résumé des déboursements de l'aide extérieure au profit du secteur de l'éducation (en millions de FCFA en 2007)
 
 Sous-secteurs | Montant | %
 --- | --- | ---
@@ -1462,11 +1644,7 @@ Recherche en éducation | 172 | 0,3%
 Équipement scolaire et formation | 19 | 0,0%
 TOTAL | 56880 | 100,0%
 
-Tableau  14  :  Résumé  des  déboursements  de  l'aide  extérieure  au  profit  du  secteur  de l'éducation (en millions de FCFA en 2007)
-
-Source
-
-: Rapport 2007 sur la coopération pour le développement, pages 109, 110
+Source : Rapport 2007 sur la coopération pour le développement, pages 109, 110
 
 ##### 1.2.2.6.b) La gouvernance
 
@@ -1510,7 +1688,7 @@ Au titre des atouts, on peut citer :
 
  l'existence de plusieurs cadres de concertation.
 
-Il s'agit de la Conférence des proviseurs et directeurs des lycées et collèges (CPDLC), de la  Conférence  annuelle  des  conseillers  pédagogiques  de  l'enseignement  secondaire (CACPES) et  de  la  Conférence  annuelle  des  inspecteurs  de  l'enseignement  secondaire (CAIES) qui regroupent les encadreurs autour d'un thème de réflexion dont les objectifs visent l'amélioration des méthodes d'encadrement pour un enseignement de qualité. Dans le souci de rendre plus bénéfiques les cadres de concertation, à travers une unité d'action et de réflexion, le ministère a pris l'initiative d'organiser pour compter de 2009, un cadre de concertation plus large qui prend en compte les acteurs des conférences des encadreurs pédagogiques  et  des  chefs  d'établissements.  Il  s'agit  de  la  Conférence  annuelle  de l'enseignement secondaire (CAES).
+Il s'agit de la Conférence des proviseurs et directeurs des lycées et collèges (CPDLC), de la Conférence annuelle des conseillers pédagogiques de l'enseignement secondaire (CACPES) et de la Conférence annuelle des inspecteurs de l'enseignement secondaire (CAIES) qui regroupent les encadreurs autour d'un thème de réflexion dont les objectifs
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -1520,7 +1698,9 @@ Page 34
 
 [[START OF PAGE 44]]
 
-Il  y  a  aussi  l'implication  des  associations  des  parents  d'élèves  dans  la  gestion  et  le fonctionnement  des  établissements  d'enseignement  secondaire   général  et  technique  et également les relations avec les partenaires techniques et financiers, les  organisations non gouvernementales et le secteur privé. A cet effet, des conventions sont signées entre l'Etat et les promoteurs privés. Les Partenaires techniques et financiers (PTF) et les Organisations  non  gouvernementales  (ONG)  comme  Plan-Burkina,  ASAO,  appuient  le ministère  dans  ses  efforts  d'accroissement  des  capacités  d'accueil,  d'équipement,  de formation et de recherche. Mais faute de  cadre de concertation, leurs actions ne sont pas toujours coordonnées. Signalons enfin les concertations avec les partenaires sociaux que sont les syndicats d'étudiants et d'enseignants.
+visent l'amélioration des méthodes d'encadrement pour un enseignement de qualité. Dans le souci de rendre plus bénéfiques les cadres de concertation, à travers une unité d'action et de réflexion, le ministère a pris l'initiative d'organiser pour compter de 2009, un cadre de concertation plus large qui prend en compte les acteurs des conférences des encadreurs pédagogiques et des chefs d'établissements. Il s'agit de la Conférence annuelle de l'enseignement secondaire (CAES).
+
+Il y a aussi l'implication des associations des parents d'élèves dans la gestion et le fonctionnement des établissements d'enseignement secondaire général et technique et également les relations avec les partenaires techniques et financiers, les organisations non gouvernementales et le secteur privé. A cet effet, des conventions sont signées entre l'Etat et les promoteurs privés. Les Partenaires techniques et financiers (PTF) et les Organisations non gouvernementales (ONG) comme Plan-Burkina, ASAO, appuient le ministère dans ses efforts d'accroissement des capacités d'accueil, d'équipement, de formation et de recherche. Mais faute de cadre de concertation, leurs actions ne sont pas toujours coordonnées. Signalons enfin les concertations avec les partenaires sociaux que sont les syndicats d'étudiants et d'enseignants.
 
 Au titre des contraintes, on peut citer :
 
@@ -1534,7 +1714,7 @@ Dans  une  allocation  idéale  des  enseignants  au  secondaire,  le  volume  h
 
 #### I.2.2.7 La recherche scientifique
 
-Au Burkina Faso, la Recherche est essentiellement assurée par le Centre national de recherche scientifique  et  technologique  (CNRST),  le  système  universitaire  (Université  de  Ouagadougou, Université  polytechnique  de  Bobo-Dioulasso,  Université  de  Koudougou,  Université  Ouaga  II), les structures de recherche des différents ministères (santé, ressources animales, environnement..), les centres de recherche africains ou internationaux (CIRAD, CIRDES, IRD, 2IE…) et les centres privés de recherche (Centre Albert Schweitzer, CEAS).
+Au Burkina Faso, la Recherche est essentiellement assurée par le Centre national de recherche scientifique et technologique (CNRST), le système universitaire (Université de Ouagadougou, Université polytechnique de Bobo-Dioulasso, Université de Koudougou, Université Ouaga II), les structures de recherche des différents ministères (santé, ressources animales,
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -1544,7 +1724,9 @@ Page 35
 
 [[START OF PAGE 45]]
 
-Cependant, le CNRST est le plus grand centre de recherche qui  a une vocation exclusivement orientée vers la recherche. Les missions suivantes lui sont assignées :
+environnement..), les centres de recherche africains ou internationaux (CIRAD, CIRDES, IRD, 2IE…) et les centres privés de recherche (Centre Albert Schweitzer, CEAS).
+
+Cependant, le CNRST est le plus grand centre de recherche qui a une vocation exclusivement orientée vers la recherche. Les missions suivantes lui sont assignées :
 
  assurer  la  coordination  de  l'ensemble  des  activités  et  des  structures  relevant  de  son ressort administratif en matière de recherche scientifique et technologique ;
 
@@ -1568,19 +1750,17 @@ Malgré une bonne structuration qui est citée en exemple dans la sous-région, 
 
 L'insuffisance  du  personnel  qualifié  en  matière  de  recherche  est  l'un  des  plus  importants problèmes. Le tableau 15 donne la répartition du personnel du CNRST.
 
-EMPLOIS | NOMBRE
+Tableau 15 : Situation du personnel technique de la recherche en janvier 2009
+
+EMPLOIS | NOMBRE |  | 
+ | Hommes | Femmes | Total
 --- | --- | --- | ---
-Hommes | Femmes | Total
-Chercheurs 7 | 146 | 20 | 166
+Chercheurs⁷ | 146 | 20 | 166
 Ingénieurs de recherche | 120 | 21 | 141
 Techniciens | 195 | 20 | 215
 Total | 461 | 61 | 522
 
-Tableau 15 : Situation du personnel technique de la recherche en janvier 2009
-
-Source
-
-: DRH/CNRST
+Source : DRH/CNRST
 
 > 7 On dénombre 7 Directeurs de recherche, 28 Maîtres de recherche, 106 Chargés de recherche et 25 Attachés de recherche.
 
@@ -1620,7 +1800,7 @@ Au cours de ces cinq dernières années,  les  acteurs  de  la  recherche  ont  
 
 Dans le domaine des sciences sociales et humaines, il existe de nombreuses publications : l'Atlas linguistique  du  Burkina  Faso,  les  enjeux  des  extensions  urbaines,  l'artisanat  féminin  et  les activités  rémunératrices  des  femmes,  la  place  et  le  rôle  du  secteur  informel  dans  l'économie nationale, les obstacles à la scolarisation, les alliances et les parentés à plaisanterie, l'histoire de Ouagadougou, les  royaumes et les chefferies au Burkina Faso…
 
-En dépit de ces performances, il convient de souligner que d'une part, les résultats de recherche ne  sont  pas  optimisés  au  profit  du  développement  du  développement  socio  -  économique  du Burkina Faso et que d'autre part  la plupart des  résultats  sont  méconnus  du grand public  voire sous-estimés.
+En dépit de ces performances, il convient de souligner que d'une part, les résultats de recherche ne sont pas optimisés au profit du développement du développement socio - économique du
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -1630,7 +1810,9 @@ Page 37
 
 [[START OF PAGE 47]]
 
-C'est  une  situation  qu'il  faudrait  travailler  à  corriger  dans  la  mise  en  œuvre  du  prochain  plan national de la recherche.
+Burkina Faso et que d'autre part la plupart des résultats sont méconnus du grand public voire sous-estimés.
+
+C'est une situation qu'il faudrait travailler à corriger dans la mise en œuvre du prochain plan national de la recherche.
 
 ##### 1.2.2.7.d) Le financement de la recherche
 
@@ -1640,21 +1822,19 @@ Tout  comme  les  autres  services  du  MESSRS,  le  CNRST  bénéficie  d'une  
 
 En règle générale, les ressources octroyées par le MESSRS sont en-deçà des besoins exprimés par  le  CNRST.  Le  tableau  16  fait  ressortir  l'évolution  des  budgets  de  l'Etat  consacrés  à  la recherche sur les 5 dernières années.
 
+Tableau 16: Evolution des dotations budgétaires du CNRST
+
 Rubriques | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | ---
 Salaires | 1 694 377 000 | 1 739 085 000 | 1 739 085 000 | 1 831 085 000 | 1 258 572 000
 Matériel | 232 110 300 | 400 895 000 | 400 895 000 | 400 780 250 | 162 947 500
-Autres dépenses de personnel 8 | 161 212 000 | 161 212 000 | 161 212 000 | 161 212 000
+Autres dépenses de personnel⁸ |  | 161 212 000 | 161 212 000 | 161 212 000 | 161 212 000
 Activités de recherche | 45 000 000 | 407 261 000 | 357 261 000 | 225 327 000 | 150 218 000
 Totaux | 1 971 487 300 | 2 708 453 000 | 2 658 453 000 | 2 618 404 250 | 1 732 949 500
 
-Tableau 16: Evolution des dotations budgétaires du CNRST
+Source : DAF MESSRS
 
-Source
-
-: DAF MESSRS
-
-A partir de ce tableau, on constate une baisse régulière de la ligne « Activités de recherche » qui compromet la réalisation des activités de recherche. Avec la fin du PNDSA en 2003-2004, les départements  scientifiques  éprouvent  de  sérieuses  difficultés  dans  la  mise  en  œuvre  de  leurs activités de recherche.
+A partir de ce tableau, on constate une baisse régulière de la ligne « Activités de recherche » qui compromet la réalisation des activités de recherche. Avec la fin du PNDSA en 2003-2004, les départements scientifiques éprouvent de sérieuses difficultés dans la mise en œuvre de leurs activités de recherche.
 
 > 8 Charges récurrentes du PNDSA (Programme national du développement des services agricoles).
 
@@ -1666,7 +1846,7 @@ Page 38
 
 [[START OF PAGE 48]]
 
-# IIEléments  de  la politique sous-sectorielle  des  enseignements secondaire, supérieur et de la recherche scientifique
+# II- Eléments de la politique sous-sectorielle des enseignements secondaire, supérieur et de la recherche scientifique
 
 ## II.1 Les enjeux et les défis
 
@@ -1722,7 +1902,7 @@ Le  relèvement  de  ce  défi  devrait  permettre  d'avoir  un  système  éduc
 
 ### 11) Le renforcement de la fourniture de services sociaux aux élèves et étudiants
 
-Plusieurs  facteurs  fragilisent  les  élèves  et  étudiants  dans  leur  processus  d'apprentissage  et d'insertion  sociale.  Il  s'agit  aussi    bien  de  facteurs  sanitaires  et  nutritionnels  que  de  certains problèmes sociaux comme la délinquance, la toxicomanie... En effet, des enfants mal nourris, en santé précaire, avec des problèmes sociaux, infectés ou affectés par le VIH ne seront pas dans les bonnes  conditions  pour  réussir  à  l'école  et  être  de  bons  citoyens.    Par  conséquent,  un  enjeu important  du  développement  du  système  est  de  trouver  les  synergies  nécessaires  avec  les ministères et les structures associatives qui sont en charge de ces questions pour leur prise  en charge  de  façon  concertée.  Ceci  nécessite  une  bonne  organisation,  un  bon  partenariat  avec  les associations d'élèves, les  parents, certains ministères, les collectivités décentralisées et les PTF. Un décret portant adoption du document d'orientations stratégiques en matière d'IST/VIH/SIDA, de nutrition et des autres problèmes de santé dans le secteur de l'éducation a été pris dans ce sens au cours du conseil des ministres du 6 janvier 2010 .
+Plusieurs facteurs fragilisent les élèves et étudiants dans leur processus d'apprentissage et d'insertion sociale. Il s'agit aussi bien de facteurs sanitaires et nutritionnels que de certains problèmes sociaux comme la délinquance, la toxicomanie... En effet, des enfants mal nourris, en
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -1731,6 +1911,8 @@ Page 40
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+santé précaire, avec des problèmes sociaux, infectés ou affectés par le VIH ne seront pas dans les bonnes conditions pour réussir à l'école et être de bons citoyens. Par conséquent, un enjeu important du développement du système est de trouver les synergies nécessaires avec les ministères et les structures associatives qui sont en charge de ces questions pour leur prise en charge de façon concertée. Ceci nécessite une bonne organisation, un bon partenariat avec les associations d'élèves, les parents, certains ministères, les collectivités décentralisées et les PTF. Un décret portant adoption du document d'orientations stratégiques en matière d'IST/VIH/SIDA, de nutrition et des autres problèmes de santé dans le secteur de l'éducation a été pris dans ce sens au cours du conseil des ministres du 6 janvier 2010 .
 
 ### 12) Garantir et renforcer le financement de la recherche
 
@@ -1836,7 +2018,7 @@ L'objectif général de la politique est d'une part, de mettre en place un syst�
 
 #### 1. Augmenter l'offre éducative en fonction de la demande
 
-Plus précisément, il s'agira au niveau du post-primaire et du secondaire: (i) de faire passer le taux brut d'admission (TBA) en 6 ème de 28,4% en 2008 à 100% en 2025 9 et celui de la seconde (2 nde ) de  9,1%  en  2008  à  40%  en  2025.  ii)  en  ce  qui  concerne  le  TBS,  il  devrait  passer  au  post  primaire de 27,4% en 2008 à 87% en 2025 (avec un accent particulier sur les zones rurales et sur les filles) et pour le niveau secondaire, de 10,1% en 2008 à 60% en 2025.
+Plus précisément, il s'agira au niveau du post-primaire et du secondaire: (i) de faire passer le taux brut d'admission (TBA) en 6 ème de 28,4% en 2008 à 100% en 2025 9 et celui de la seconde (2 nde ) de  9,1%  en  2008  à  40%  en  2025.  ii)  en  ce  qui  concerne  le  TBS,  il  devrait  passer  au  post - primaire de 27,4% en 2008 à 87% en 2025 (avec un accent particulier sur les zones rurales et sur les filles) et pour le niveau secondaire, de 10,1% en 2008 à 60% en 2025.
 
 > 9 Les 100% en 2025, tiennent compte du principe de l'obligation scolaire.
 
@@ -1852,7 +2034,7 @@ Au niveau du supérieur, il s'agira (i) d'améliorer l'indicateur d'accès à l'
 
 #### 2. Accroître  la qualité de l'éducation de façon durable
 
-Au  niveau  du  post-primaire  et  secondaire, il  s'agit  :  (i)  d'améliorer  le  ratio  enseignants/ encadreurs  pédagogiques,  (ii)  de  faire  qualifier  tous  les  enseignants  n'ayant  pas  un  diplôme professionnel, (iii) de réduire le ratio élèves par classe en faisant passer de 70 ou 80 élèves par classe  en  2008  à  45  ou  50  élèves  par  classe  en  2025,  (iv)  de  couvrir  au  moins  100%  des programmes  scolaires  par  classe  et  par  année,  (v)  de  doter  tous  les  établissements  du  post  primaire  et  du  secondaire  d'une  bibliothèque,  d'un  centre  informatique  et  d'électricité,  (vi)  de doter au moins 90% des établissements de commodités de base (infirmerie, cantine, latrines, eau potable etc.), (vii) de résoudre de manière durable, le déficit en personnel enseignant et assurer la formation continue, (ix) de réduire le taux de redoublement en le faisant passer de 26% en 2009 dans les classes intermédiaires du post primaire à 10% en 2025 et celui des abandons de manière considérable par rapport aux taux de 2008-2009, (x) de relever le niveau des acquis scolaires.
+Au  niveau  du  post-primaire  et  secondaire, il  s'agit  :  (i)  d'améliorer  le  ratio  enseignants/ encadreurs  pédagogiques,  (ii)  de  faire  qualifier  tous  les  enseignants  n'ayant  pas  un  diplôme professionnel, (iii) de réduire le ratio élèves par classe en faisant passer de 70 ou 80 élèves par classe  en  2008  à  45  ou  50  élèves  par  classe  en  2025,  (iv)  de  couvrir  au  moins  100%  des programmes  scolaires  par  classe  et  par  année,  (v)  de  doter  tous  les  établissements  du  post - primaire  et  du  secondaire  d'une  bibliothèque,  d'un  centre  informatique  et  d'électricité,  (vi)  de doter au moins 90% des établissements de commodités de base (infirmerie, cantine, latrines, eau potable etc.), (vii) de résoudre de manière durable, le déficit en personnel enseignant et assurer la formation continue, (ix) de réduire le taux de redoublement en le faisant passer de 26% en 2009 dans les classes intermédiaires du post primaire à 10% en 2025 et celui des abandons de manière considérable par rapport aux taux de 2008-2009, (x) de relever le niveau des acquis scolaires.
 
 Au niveau du supérieur : (i) améliorer le ratio étudiants / enseignant, (ii) augmenter le nombre d'amphithéâtres et de salles de cours de 60% en 2025, (iii) équiper tous les laboratoires existants, (iv) doter toutes les UFR d'une capacité informatique permettant à tous les étudiants de niveau DEUG d'avoir une formation en informatique, (v) doter les bibliothèques de salle informatique ayant une capacité à satisfaire le maximum de ses visiteurs, (vi) augmenter les taux de promotion de 50% entre la 1 ère et la 3 ème année, (vii) atteindre 90% de taux de réussite pour la 4 ème et la 5 ème années ou le Master, (viii) réduire le taux de redoublement 70% et celui d'abandon de 80% par rapport au taux de 2008-2009 d'ici à 2025.
 
@@ -1888,7 +2070,7 @@ L'objectif  poursuivi  pour  dans  la  fourniture  des  services  sociaux  est  
 
 #### 8. Promouvoir la bonne gouvernance dans le système éducatif
 
-Le  gouvernement  mettra  en  place  les  mesures  nécessaires  pour  améliorer    l'efficacité,  la transparence  des  dépenses.  Elles  se  feront  à  travers:  (i)  l'introduction  de  l'approche  budgetprogramme  sur  la  base  d'un  cadre  de  dépenses  à  moyen  terme,  (ii)  la  décentralisation  et  la déconcentration  financière,  (iii)  le  renforcement  du  partenariat  public/privé  ou  public/  société civile  pour  la  réalisation  d'infrastructures  scolaires.par  la  maitrise  d'ouvrage  délégué  et  les facilitations d'investissements éducatifs.
+Le  gouvernement  mettra  en  place  les  mesures  nécessaires  pour  améliorer    l'efficacité,  la transparence  des  dépenses.  Elles  se  feront  à  travers:  (i)  l'introduction  de  l'approche  budget-programme  sur  la  base  d'un  cadre  de  dépenses  à  moyen  terme,  (ii)  la  décentralisation  et  la déconcentration  financière,  (iii)  le  renforcement  du  partenariat  public/privé  ou  public/  société civile  pour  la  réalisation  d'infrastructures  scolaires.par  la  maitrise  d'ouvrage  délégué  et  les facilitations d'investissements éducatifs.
 
 Politique sous - sectorielle des ESSRS déc_2009
 
@@ -2068,7 +2250,7 @@ Dans  le  cadre  du  fonctionnement  des  services  et  de  la  gouvernance  du 
 
 #### II.6.1.1 Le Conseil national de l'éducation
 
-La  composition,  l'organisation  et  le  fonctionnement  du  Conseil  national  de  l'éducation  et  des conseils régionaux de l'éducation sont régis par les dispositions du décret n° 2007770/PRES/PM/MESSRS/MEBA/MASSN  du  19  novembre  2007.  Le  Conseil  national  de l'éducation a pour mission d'assister de ses avis le gouvernement dans l'élaboration et la mise en œuvre de la politique nationale de l'éducation. A cet effet :
+La  composition,  l'organisation  et  le  fonctionnement  du  Conseil  national  de  l'éducation  et  des conseils régionaux de l'éducation sont régis par les dispositions du décret n° 2007-770/PRES/PM/MESSRS/MEBA/MASSN  du  19  novembre  2007.  Le  Conseil  national  de l'éducation a pour mission d'assister de ses avis le gouvernement dans l'élaboration et la mise en œuvre de la politique nationale de l'éducation. A cet effet :
 
 -Il est saisi de tout projet de politique nationale en matière d'éducation et de formation ;
 
@@ -2132,7 +2314,7 @@ Page 52
 
 [[START OF PAGE 62]]
 
-Les  attributions,  la  composition,  et  le  fonctionnement  du  Conseil  d'administration  du  secteur ministériel  sont  régis  par  les  dispositions  de  l'arrêté  n°  2008-0OO269  MESSRS/SG  du  2 décembre 2008.
+Les  attributions,  la  composition,  et  le  fonctionnement  du  Conseil  d'administration  du  secteur ministériel  sont  régis  par  les  dispositions  de  l'arrêté  n°  2008-000269  MESSRS/SG  du  2 décembre 2008.
 
 Le CASEM a essentiellement pour attributions :
 
@@ -2202,7 +2384,7 @@ Page 54
 
 #### II.6.1.6 Le conseil de discipline
 
-Le conseil de discipline à l'instar du comité technique paritaire, est institué par le décret n° 98 375/PRES/PM/MFPDI/MEF  du  15  septembre 1998, portant attributions, composition et fonctionnement des organes consultatifs de la fonction publique.
+Le conseil de discipline à l'instar du comité technique paritaire, est institué par le décret n° 98 - 375/PRES/PM/MFPDI/MEF  du  15  septembre 1998, portant attributions, composition et fonctionnement des organes consultatifs de la fonction publique.
 
 Il a compétence essentiellement en matière de sanctions disciplinaires pour fautes professionnelles  graves,  commises  par  les  fonctionnaires  en  activité,  en  disponibilité  ou  ceux ayant définitivement cessé leurs fonctions.
 
@@ -2366,17 +2548,17 @@ Page 59
 
 Pour relever ces défis, la politique sous-sectorielle des ESSRS s'est fixé six objectifs précis dans un  délai  suffisamment  long  de  15  ans  allant  de  2010  à  2025  pour  permettre  la  réalisation  des changements souhaités. Il s'agit notamment d'/ de :
 
-- Augmenter l'offre éducative en fonction de la demande ;
+1. Augmenter l'offre éducative en fonction de la demande ;
 
-- Accroître  la qualité de l'éducation de façon durable ;
+2. Accroître  la qualité de l'éducation de façon durable ;
 
-- Améliorer l'efficacité externe de l'éducation ;
+3. Améliorer l'efficacité externe de l'éducation ;
 
-- Renforcer l'équité du système ;
+4. Renforcer l'équité du système ;
 
-- Promouvoir la recherche pour le développement ;
+5. Promouvoir la recherche pour le développement ;
 
-- Promouvoir la bonne gouvernance du système éducatif.
+6. Promouvoir la bonne gouvernance du système éducatif.
 
 L'atteinte  de  ces  objectifs  devrait  permettre  de  placer  le  système  éducatif  du  Burkina  Faso  au terme de cette période à un niveau beaucoup plus appréciable parmi les pays au sud du Sahara.
 
@@ -2389,6 +2571,8 @@ Page 60
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
+
+# BIBLIOGRAPHIE
 
 ## Ouvrages spéciaux
 
@@ -2427,8 +2611,6 @@ Page 60
  KABORE, I. 2005. Etude sur l'évolution de l'emploi au Burkina Faso. Observatoire National de l'Emploi et de la Formation professionnelle . Burkina Faso ;
 
  MEBA, MESSRS, MASSN, MJE, Réforme du système éducatif du Burkina Faso, cadrage général 2007-2015 ;
-
-# BIBLIOGRAPHIE
 
 Politique sous - sectorielle des ESSRS déc_2009
 
