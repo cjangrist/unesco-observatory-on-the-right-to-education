@@ -20,21 +20,21 @@ This  Law  shall  regulate  the  autonomy  of  University  and  its  academic fr
 
 Specific terminology used in this Law shall have the following meaning:
 
-' Autonomy of University '  shall  refer  to  academic  freedom,  independent reasoning and governance and inviolableness of university space;
+1. ' Autonomy of University '  shall  refer  to  academic  freedom,  independent reasoning and governance and inviolableness of university space;
 
-' Evaluation  Agency '  shall  be  the  body  performing  external  evaluation  of the quality of the higher education facility and its performance;
+2. ' Evaluation  Agency '  shall  be  the  body  performing  external  evaluation  of the quality of the higher education facility and its performance;
 
-' Accreditation  of  Higher  Education  Foundation  Project '  shall  be  the adoption  of  a  Decision  by  the  Accreditation  Board  according  to  which  the project shall be endorsed or commented  as regards to the specific requirements  of  the  forming  of  higher  education  facility  explicated  and contained herein;
+3. ' Accreditation  of  Higher  Education  Foundation  Project '  shall  be  the adoption  of  a  Decision  by  the  Accreditation  Board  according  to  which  the project shall be endorsed or commented  as regards to the specific requirements  of  the  forming  of  higher  education  facility  explicated  and contained herein;
 
-' Higher Education ' shall refer to the study program education provided at universities and independent higher education facilities;
+4. ' Higher Education ' shall refer to the study program education provided at universities and independent higher education facilities;
 
-' Higher  Education  Qualification ' shall refer to the professional or scientific  degree  for  completed  program  of  first,  second  or  third  cycle  of higher  education,  acquired  at  the  higher  education  facility  in  Republic  of Macedonia  or  elsewhere,  which  is  accredited  and  has  the  authorization  to provide higher education;
+5. ' Higher  Education  Qualification ' shall refer to the professional or scientific  degree  for  completed  program  of  first,  second  or  third  cycle  of higher  education,  acquired  at  the  higher  education  facility  in  Republic  of Macedonia  or  elsewhere,  which  is  accredited  and  has  the  authorization  to provide higher education;
 
-' Document for a Partially Completed Study Program '  shall  refer  to  a certificate  or  other  record  for  acquired  study  credits,  completed  academic years, semesters, exams, modules, segments of study programs, or finalized obligations  of  study  programs for  acquiring higher education, issued by the higher  education  facility  according  to  the  regulations  of  the  respective country;
+6. ' Document for a Partially Completed Study Program '  shall  refer  to  a certificate  or  other  record  for  acquired  study  credits,  completed  academic years, semesters, exams, modules, segments of study programs, or finalized obligations  of  study  programs for  acquiring higher education, issued by the higher  education  facility  according  to  the  regulations  of  the  respective country;
 
-' Diploma ' shall act as the public document issued by the higher education facility according to which the acquired higher education of first, second and third  cycle  necessary  for  the  continuation  of  the  education  process  or engagement in an adequate profession or job, shall be acclaimed;
+7. ' Diploma ' shall act as the public document issued by the higher education facility according to which the acquired higher education of first, second and third  cycle  necessary  for  the  continuation  of  the  education  process  or engagement in an adequate profession or job, shall be acclaimed;
 
-' Diploma Supplement ' shall be the integral part of the Diploma introducing data  on  the  holder  of  the  Diploma,  information  closely  identifying  the qualification, the level of qualification (the technical or scientific degree), the system  and  content  of  studies  and  achieved  outcomes  as  well  as  data referring  to  the  academic  and  professional  opportunities  presented  by  the
+8. ' Diploma Supplement ' shall be the integral part of the Diploma introducing data  on  the  holder  of  the  Diploma,  information  closely  identifying  the qualification, the level of qualification (the technical or scientific degree), the system  and  content  of  studies  and  achieved  outcomes  as  well  as  data referring  to  the  academic  and  professional  opportunities  presented  by  the
 
 1 of 71
 
@@ -46,23 +46,23 @@ Specific terminology used in this Law shall have the following meaning:
 
 qualification for further studies and professional status, additional information as to the nature of the study program and its source, date and signature as well as information about the national higher education system;
 
-' Lifelong  Learning '  shall  refer  to  a  form  of  continuous  learning  during one's  entire  life  for  the  purposes  of  professional  improvement,  further upgrade, profound expertise and advancement of knowledge;
+9. ' Lifelong  Learning '  shall  refer  to  a  form  of  continuous  learning  during one's  entire  life  for  the  purposes  of  professional  improvement,  further upgrade, profound expertise and advancement of knowledge;
 
-' Quality  Assurance '  shall  refer  to  the  evaluation  of  higher  education encompassing numerous explicit  procedures  for  the  assurance  of  quality  in higher education facilities, of academic  staff  and  the  study  programs according  to  acclaimed  procedures  and  standards  and  guides  for  quality assurance  adopted  by  the  European  institutions  for  quality  assurance  of higher education and other organizations and associations having the role of establishing and applying European standards and Quality Assurance Guides for higher education;
+10. ' Quality  Assurance '  shall  refer  to  the  evaluation  of  higher  education encompassing numerous explicit  procedures  for  the  assurance  of  quality  in higher education facilities, of academic  staff  and  the  study  programs according  to  acclaimed  procedures  and  standards  and  guides  for  quality assurance  adopted  by  the  European  institutions  for  quality  assurance  of higher education and other organizations and associations having the role of establishing and applying European standards and Quality Assurance Guides for higher education;
 
-' University Unit ' shall refer to a faculty, art academy or higher vocational school  as  higher  education  facility  enclosed  within  a  University,  with  rights and responsibilities determined by this Law and the Statute of the University. University units shall also refer to scientific institutes exercising the rights and responsibilities stipulated in the Law on Scientific and Research Activities, this Law and the Statute of the University;
+11. ' University Unit ' shall refer to a faculty, art academy or higher vocational school  as  higher  education  facility  enclosed  within  a  University,  with  rights and responsibilities determined by this Law and the Statute of the University. University units shall also refer to scientific institutes exercising the rights and responsibilities stipulated in the Law on Scientific and Research Activities, this Law and the Statute of the University;
 
-' Joint Degrees ' shall refer to a diploma acquired by completion of the study program  jointly  accepted  or  provided  by  two  or  more  universities  in  the country  or  a  university  in  the  country  and  an  accredited  higher  education facility  from  abroad,  or  its  unit  accredited  and  registered  in  the  Republic  of Macedonia according to the requirements stipulated in this Law;
+12. ' Joint Degrees ' shall refer to a diploma acquired by completion of the study program  jointly  accepted  or  provided  by  two  or  more  universities  in  the country  or  a  university  in  the  country  and  an  accredited  higher  education facility  from  abroad,  or  its  unit  accredited  and  registered  in  the  Republic  of Macedonia according to the requirements stipulated in this Law;
 
-' Co-financing  of  Studies '  shall  refer  to  the  funds  reimbursed  to  the national  higher  education  facility  for  studying  expenses  of  students  whose education is not funded by the Budget of Republic of Macedonia;
+13. ' Co-financing  of  Studies '  shall  refer  to  the  funds  reimbursed  to  the national  higher  education  facility  for  studying  expenses  of  students  whose education is not funded by the Budget of Republic of Macedonia;
 
-' Credit  Transfer  System '  shall  refer  to  a  joint  procedure  established according  to  the  European  Credit  Transfer  System  (ECTS),  enabling  the following: description of work load/ scope of activities for the student or the volume  of  work  required  to  complete  the  studies;  valorization of the completed work load and evaluation and comparison of study achievements and their transfer from one to another higher education facility, where, the credit shall exhibit the work volume required by the study program in relation to the total work quantity required to complete the academic study year;
+14. ' Credit  Transfer  System '  shall  refer  to  a  joint  procedure  established according  to  the  European  Credit  Transfer  System  (ECTS),  enabling  the following: description of work load/ scope of activities for the student or the volume  of  work  required  to  complete  the  studies;  valorization of the completed work load and evaluation and comparison of study achievements and their transfer from one to another higher education facility, where, the credit shall exhibit the work volume required by the study program in relation to the total work quantity required to complete the academic study year;
 
-' Credit ' shall refer to a measurement unit for evaluating the average work performed  by  the  student,  or  the  work  load  of  the  student  including  the lectures, the seminars, the tutorials and other forms of organized study work. The credits shall be appointed to the students and shall be recorded in the student's file upon completion of assigned task;
+15. ' Credit ' shall refer to a measurement unit for evaluating the average work performed  by  the  student,  or  the  work  load  of  the  student  including  the lectures, the seminars, the tutorials and other forms of organized study work. The credits shall be appointed to the students and shall be recorded in the student's file upon completion of assigned task;
 
-' Non-formal Learning ' shall refer to courses, spring and winter universities,  training  courses  and  other  forms  of  learning,  which  are  not  a part  of  the  study  programs  for  higher  education  and  for  which  a  Diploma shall not be granted;
+16. ' Non-formal Learning ' shall refer to courses, spring and winter universities,  training  courses  and  other  forms  of  learning,  which  are  not  a part  of  the  study  programs  for  higher  education  and  for  which  a  Diploma shall not be granted;
 
-' Organizational Unit Under the University '  shall  refer  to  a  university's internal  form  of  an  organization  formed  according  to  the  Statute  of  the University or according to a Declaration or a general act adopted according to the  Statute  of  the  University  for  whose  operation  the  respective  university establishing the unit shall have indefinite accountability.
+17. ' Organizational Unit Under the University '  shall  refer  to  a  university's internal  form  of  an  organization  formed  according  to  the  Statute  of  the University or according to a Declaration or a general act adopted according to the  Statute  of  the  University  for  whose  operation  the  respective  university establishing the unit shall have indefinite accountability.
 
 2 of 71
 
@@ -72,23 +72,23 @@ qualification for further studies and professional status, additional informatio
 
 'Official Gazette of R.M.', No. 35, dated 14.03.2008
 
-' Co-payment ' shall refer to a fee defined by the Government of Republic of Macedonia charged to the students enrolled in the national higher education facility, whose education is financed by the Budged of Republic of Macedonia;
+18. ' Co-payment ' shall refer to a fee defined by the Government of Republic of Macedonia charged to the students enrolled in the national higher education facility, whose education is financed by the Budged of Republic of Macedonia;
 
-' Accompanying Member of the University '  shall  refer  to  an  institution whose basic scope of activities is functionally related to the higher education activities;
+19. ' Accompanying Member of the University '  shall  refer  to  an  institution whose basic scope of activities is functionally related to the higher education activities;
 
-' Applied Scope of Activities '  shall  refer  to  the  enforcement  of  scientific outcome, the expert knowledge and execution of other high-skilled professional assignments of teachers, scientific workers and supporting staff in the scientific and professional area for which the higher education facility has gained accreditation;
+20. ' Applied Scope of Activities '  shall  refer  to  the  enforcement  of  scientific outcome, the expert knowledge and execution of other high-skilled professional assignments of teachers, scientific workers and supporting staff in the scientific and professional area for which the higher education facility has gained accreditation;
 
-' Framework  of  Qualifications '  shall  refer  to  the  aims  and  the  starting points for designing the study programs and the learning outcomes, student's understanding, or the potential for learning outcomes in the learning process of each cycle of higher education, the accepted national structure of higher education framework of qualifications, including the recognition of the nonformal and formal learning acquired in the process of lifelong learning;
+21. ' Framework  of  Qualifications '  shall  refer  to  the  aims  and  the  starting points for designing the study programs and the learning outcomes, student's understanding, or the potential for learning outcomes in the learning process of each cycle of higher education, the accepted national structure of higher education framework of qualifications, including the recognition of the non-formal and formal learning acquired in the process of lifelong learning;
 
-' Independent Higher Education Facility ' shall refer to a higher education  facility  not  enclosed  within  the  University,  founded  as  an  art academy or as higher vocational school, higher education facility of religious communities, or other higher education facility founded according to the Law on Specific Higher Education (Military Academy or other);
+22. ' Independent Higher Education Facility ' shall refer to a higher education  facility  not  enclosed  within  the  University,  founded  as  an  art academy or as higher vocational school, higher education facility of religious communities, or other higher education facility founded according to the Law on Specific Higher Education (Military Academy or other);
 
-' Study Program ' shall refer to a set of relatively related teaching subjects or other teaching units (modules or other teaching substance) of one study field  which  result  in  student's  acquired  qualification  and  thus  enable  the student to perform professional activities or to continue studies;
+23. ' Study Program ' shall refer to a set of relatively related teaching subjects or other teaching units (modules or other teaching substance) of one study field  which  result  in  student's  acquired  qualification  and  thus  enable  the student to perform professional activities or to continue studies;
 
-' Fields  of  Education '  shall  refer  to  one  of  the  22  fields,  defined  in  the ISCED's qualification of fields of education under the UNESCO;
+24. ' Fields  of  Education '  shall  refer  to  one  of  the  22  fields,  defined  in  the ISCED's qualification of fields of education under the UNESCO;
 
-' Higher  Education  Cycles '  shall  refer  to  the  three  consecutive  cycle structure of higher education identified by the Bologna process (the first, the second and third cycle) in which all higher education qualifications acquired under a universal European space of higher education are redistributed, and
+25. ' Higher  Education  Cycles '  shall  refer  to  the  three  consecutive  cycle structure of higher education identified by the Bologna process (the first, the second and third cycle) in which all higher education qualifications acquired under a universal European space of higher education are redistributed, and
 
-' Private- Public Non-profit Higher Education Facility '  shall  refer  to  a higher  education  facility  founded  by  a  non-profitable  organization  utilizing public  resources  of  foreign  and  domestic  donors  creating  and  generating meritocratic public goods and promoting public interest. The income of such a facility  shall  be  only  used  and  exclusively  intended  for  provision  of  higher education as such a facility shall not generate or top-up profit.
+26. ' Private- Public Non-profit Higher Education Facility '  shall  refer  to  a higher  education  facility  founded  by  a  non-profitable  organization  utilizing public  resources  of  foreign  and  domestic  donors  creating  and  generating meritocratic public goods and promoting public interest. The income of such a facility  shall  be  only  used  and  exclusively  intended  for  provision  of  higher education as such a facility shall not generate or top-up profit.
 
 #### Higher Education Facilities Roles and Responsibilities
 
@@ -180,7 +180,7 @@ The  organizational  units  within  the  university  can  have  certain  rights 
 
 The  founding  act  of  the  university  or  the  independent  higher  education facility shall be the Statute.
 
-The Statute shall closely regulate the internal organization, the operation of higher education work, the competencies and work method as well as decisionmaking and all other issues of importance for conducting higher education work.
+The Statute shall closely regulate the internal organization, the operation of higher education work, the competencies and work method as well as decision-making and all other issues of importance for conducting higher education work.
 
 The organizational unit shall have a Rulebook, which in accordance with the Statute  shall  regulate  the  internal  relations  and  the  operation  of  the  unit (hereinafter: Unit Rulebook).
 
@@ -462,7 +462,7 @@ Public higher education facility as university and as unit of the university or 
 
 ##### Article 26
 
-Private- public non-profit higher education facility can be founded by a nonprofit foundation established by a foreign legal entity or natural person by public means procured by foreign and domestic sources stipulated in this Law, on the basis of previous approval by the Government of Republic of Macedonia.
+Private- public non-profit higher education facility can be founded by a non-profit foundation established by a foreign legal entity or natural person by public means procured by foreign and domestic sources stipulated in this Law, on the basis of previous approval by the Government of Republic of Macedonia.
 
 Private (profit and non-profit) higher education facility can be founded by a domestic  and  foreign  legal  and  natural  person,  according  to  the  requirements stipulated in this Law. Foreign legal entity and natural person can found a private (profit  and  non-profit)  higher  education  facility,  according  to  the  requirements determined in this Law, and on the basis of previously obtained approval by the Government of Republic of Macedonia.
 
@@ -812,9 +812,9 @@ The  Rector  Conference  of  paragraphs  1  and  2  of  this  Article  shall  ad
 
 ##### Article 49
 
-For the purposes of review and alignment of issues of common interest, the Universities  shall  form  an  Inter-  University  Conference  acting  as  public  legal  entity with  rights  and  responsibilities  set  forth  in  this  Law  and  the  Statute  of  the  InterUniversity Conference.
+For the purposes of review and alignment of issues of common interest, the Universities  shall  form  an  Inter-University  Conference  acting  as  public  legal  entity with  rights  and  responsibilities  set  forth  in  this  Law  and  the  Statute  of  the  Inter-University Conference.
 
-The  Inter-  University  Conference  shall  consist  of  rectors  of  universities, chairpersons of student parliaments of universities, 20 members of the educational scientific staff elected by the senates of the universities, in corresponding percentage compared to their participation in the total number of regular students enrolled for the  first  time  in  a  study  year  and  one  member  elected  from  the  directors  of  the independent higher education facilities.
+The  Inter-  University  Conference  shall  consist  of  rectors  of  universities, chairpersons of student parliaments of universities, 20 members of the educational - scientific staff elected by the senates of the universities, in corresponding percentage compared to their participation in the total number of regular students enrolled for the  first  time  in  a  study  year  and  one  member  elected  from  the  directors  of  the independent higher education facilities.
 
 The minister in charge of the higher education affairs without the right to make decision shall participate in the work of the Inter - Universal Conference.
 
@@ -1112,7 +1112,7 @@ The body of the founder shall not have rights and responsibilities limiting or v
 
 ##### Article 61
 
-The bodies of the faculty, as units of the university shall be the EducationalScientific Council, the Dean and the Dean's Office.
+The bodies of the faculty, as units of the university shall be the Educational-Scientific Council, the Dean and the Dean's Office.
 
 The bodies of the higher vocational school, as units of the university shall be the Teachers Council, the Director and the Administration of the Higher Vocational School.
 
@@ -1172,7 +1172,7 @@ The Educational- Scientific Council, or the Teachers Council shall have the foll
 
 -Proposal on number of students to be enrolled in the first year of studies;
 
--Proposal of measures to the Deanery, for development and advancement of educationalscientific youth and work with particularly talented and successful students;
+-Proposal of measures to the Deanery, for development and advancement of educational- scientific youth and work with particularly talented and successful students;
 
 -Proposal of measures to the Deanery, and making decisions for advancement in  educational,  scientific  and  research  work  as  well  as  applied  work  and computer network;
 
@@ -1222,9 +1222,9 @@ The  Dean,  or  Director  at  their  management  roles  shall  perform  the foll
 
 -Propose and suggest acts and materials for issues decided by the Deanery;
 
--Submittal  of  proposals  to  decisions  and  conclusions  of  the  EducationalScientific Council, or the Teachers Council, for issues in his/her jurisdiction;
+-Submittal  of  proposals  to  decisions  and  conclusions  of  the  Educational-Scientific Council, or the Teachers Council, for issues in his/her jurisdiction;
 
--Petition  an  advertisement  for  nomination  of  participants  in  the  educationalscientific,  educational-  artistic,  scientific,  educational  and  supporting  staff positions, six months prior to the start of job;
+-Petition  an  advertisement  for  nomination  of  participants  in  the  educational-scientific,  educational-  artistic,  scientific,  educational  and  supporting  staff positions, six months prior to the start of job;
 
 -Promote the graduate students and present awards;
 
@@ -1244,7 +1244,7 @@ For the implementation of certain rights and responsibilities, the Dean can auth
 
 The Dean, or Director shall be elected out of the pool of full and associate professors of the unit of the university, or the independent higher education facility, and in cases of lack of presence of full and associate professors- the pool of docents, for  a  mandate  of  four  years,  and  the  right  to  one  re-election,  according  to  the Statute of the University or of the independent higher education facility.
 
-The  faculty,  or  the  higher  vocational  school  can  have  one  or  more  ProDeans, or Deputy Directors, nominated by the Dean, or the Director.
+The  faculty,  or  the  higher  vocational  school  can  have  one  or  more  Pro-Deans, or Deputy Directors, nominated by the Dean, or the Director.
 
 28 of 71
 
@@ -1278,7 +1278,7 @@ The Deanery, or Office of Higher Vocational School shall have the following comp
 
 -Propose  to  the  university,  or  in  stipulated  provisions  of  this  Law,  to  the founder, changes or expansion of operations in accordance with this Law;
 
--Draft and propose acts and materials for issues decided by the EducationalScientific or Teachers Council and the Dean, or the Director; and
+-Draft and propose acts and materials for issues decided by the Educational-Scientific or Teachers Council and the Dean, or the Director; and
 
 -Perform  other  activities  stipulated  in  the  Rulebook  of  the  Faculty,  or  the Higher Vocational School.
 
@@ -1426,7 +1426,7 @@ The Evaluation Agency shall act as an independent body.
 
 The  Evaluation  Agency  shall  have  a  seal  of  the  following  inscription: Republic  of  Macedonia-  Evaluation  Agency  -  Skopje.  In  the  centre  of  the  seal  the Coat of Arms of Republic of Macedonia is displayed.
 
-The  Evaluation  Agency  shall  comprise  of  11  members  of  which  five professors  nominated  by  the  Inter-  University  Conference  appropriately  to  the representation of universities according to their participation in the total number of enrolled students for the first time in a study year, four members appointed by the Government of Republic of Macedonia, one member shall be nominated by the most representative employers agency and one member  of the InterUniversity Parliament of students.
+The  Evaluation  Agency  shall  comprise  of  11  members  of  which  five professors  nominated  by  the  Inter-  University  Conference  appropriately  to  the representation of universities according to their participation in the total number of enrolled students for the first time in a study year, four members appointed by the Government of Republic of Macedonia, one member shall be nominated by the most representative employers agency and one member  of the Inter- University Parliament of students.
 
 32 of 71
 
@@ -1486,7 +1486,7 @@ The technical and administrative affairs for the Evaluation Agency shall be cond
 
 The  self-  evaluation  of  a  university,  the  units  of  the  university  or  the independent  higher  education  facility  shall  be  carried  out  by  a  Self-evaluation Commission  of  the  University,  or  an  Organizational  Unit  for  Evaluation  of  the University,  Self-Evaluation  Commission  of  the  Unit,  or  the  Independent  Higher Education Facility according to the provisions in the Statute of the University and the Statute of the Independent Higher Education Facility.
 
-The  members  of  the  Commissions  of  paragraph  1  of  this  Article  shall  be elected  by  secret  voting  by  the  Senate  of  the  University,  or  the  EducationalScientific  Council,  the  Teachers  Council  or  the  Scientific  Council,  out  of  the teachers for a four- year mandate and out of the students for duration of two years.
+The  members  of  the  Commissions  of  paragraph  1  of  this  Article  shall  be elected  by  secret  voting  by  the  Senate  of  the  University,  or  the  Educational-Scientific  Council,  the  Teachers  Council  or  the  Scientific  Council,  out  of  the teachers for a four- year mandate and out of the students for duration of two years.
 
 Commissions  of  paragraph  1  of  this  Article  shall  carry  out  self-evaluation according  to  the  Guide  for  Provision  and  Assessment  of  Quality  of  Higher Education Facilities adopted by the Senate of the University, or the body of the independent higher education facility.
 
@@ -1546,7 +1546,7 @@ The  starting  point  of  funding  of  higher  education  facilities  shall  be 
 
 ##### Article 82
 
-The Council shall comprise of 15 members recruited from the educational scientific,  artistic  and  scientific  workers  of  the  public  universities,  representative  of the organization of employers of Republic of Macedonia and representative of areas other than economy and students.
+The Council shall comprise of 15 members recruited from the educational - scientific,  artistic  and  scientific  workers  of  the  public  universities,  representative  of the organization of employers of Republic of Macedonia and representative of areas other than economy and students.
 
 The  Government  of  Republic  of  Macedonia  acting  on  proposal  by  the minister in charge of higher education affairs shall appoint and dismiss chairperson and five members of the Council, and the Rectors Conference of public universities appropriately to the representation of the universities and their participation in the total  number  of  enrolled  students  for  the  first  time  shall  elect  members  from  the educational- scientific, artistic and scientific workers.
 
@@ -1636,7 +1636,7 @@ The higher education facility shall manage the funds from legates, the gifts, in
 
 ##### Article 87
 
-Public university, on proposal by the unit of the university can introduce copayment for studying costs for the number of students whose education is financed by the Budget of Republic of Macedonia according to the measures and criteria for funding of Article 83, paragraph 1 indent 3 of this Law and the defined co-payment amount, following a prior consent by the Government of Republic of Macedonia.
+Public university, on proposal by the unit of the university can introduce co-payment for studying costs for the number of students whose education is financed by the Budget of Republic of Macedonia according to the measures and criteria for funding of Article 83, paragraph 1 indent 3 of this Law and the defined co-payment amount, following a prior consent by the Government of Republic of Macedonia.
 
 The  students  shall  pay  the  co-payment  in  equal  instalments  prior  to  the start of each semester.
 
@@ -2060,7 +2060,7 @@ In cases of paragraph 1 of this Article, the study programs of the first cycle s
 
 Upon  exception,  if  the  study  program  contains  practical  training,  a  total scope should not exceed 40 lessons weekly and 45 weeks annually.
 
-Teaching  load  of  paragraph  1  of  this  Article  shall  encompass  lectures, tutorials,  seminars  and  other  types  of  studies  adequate  to  the  particularity  of  the educationalscientific area (practical teaching, attendance at observation/ demonstration classes, performances, terrain work etc.) consultative - instructional teaching,  types  of  continuous  assessment  of  knowledge  and  exams  considered  as consultation, as well as individual study work (sports exercises, literature research, seminar  papers,  project  work),  individual  learning,  as  well  as  preparation  of  a masters or PhD assignment.
+Teaching  load  of  paragraph  1  of  this  Article  shall  encompass  lectures, tutorials,  seminars  and  other  types  of  studies  adequate  to  the  particularity  of  the educational- scientific area (practical teaching, attendance at observation/ demonstration classes, performances, terrain work etc.) consultative - instructional teaching,  types  of  continuous  assessment  of  knowledge  and  exams  considered  as consultation, as well as individual study work (sports exercises, literature research, seminar  papers,  project  work),  individual  learning,  as  well  as  preparation  of  a masters or PhD assignment.
 
 Pursuant  to  a  procedure  and  method  stipulated  in  the  Statute  of  the University, or of the Independent Higher Education Facility, the organization and the temporal distribution of the lectures, the seminars and tutorials can be adjusted to the particularity of the study program (art study programs etc.)
 
@@ -2088,7 +2088,7 @@ The  study  program  shall  state  if  the  doctors'  art  studies  might  end  
 
 'Official Gazette of R.M.', No. 35, dated 14.03.2008
 
-The procedure for application, assessment and successful public presentation and appraisal (defence) of the PhD dissertation or the preparation and performance of an artistic act shall be stipulated in the Statute of the University. The successful public presentation and appraisal (defence) of the PhD dissertation shall be  carried  out  before  a  commission  composed  of  five  members  of  educationalscientific  and  scientific  positions  of  at  least  three  being  from  the  relevant  scientific area encompassing the doctors' dissertation.
+The procedure for application, assessment and successful public presentation and appraisal (defence) of the PhD dissertation or the preparation and performance of an artistic act shall be stipulated in the Statute of the University. The successful public presentation and appraisal (defence) of the PhD dissertation shall be  carried  out  before  a  commission  composed  of  five  members  of  educational-scientific  and  scientific  positions  of  at  least  three  being  from  the  relevant  scientific area encompassing the doctors' dissertation.
 
 The specialist vocational studies shall be considered completed by passing all exams, preparation of a professional thesis and/ or by passing an appropriate final exam in accordance with the study program.
 
@@ -2176,13 +2176,13 @@ Promotion of alumni of doctors' studies of third cycle that have attained the sc
 
 Higher education facilities shall keep the following student's personal data records:
 
-- records of applied for enrolment and enrolled students;
+1. records of applied for enrolment and enrolled students;
 
-- personal file for each student since the beginning of the studies until the end of the studies or the day of renouncement;
+2. personal file for each student since the beginning of the studies until the end of the studies or the day of renouncement;
 
-- minutes of the exam recording the application form of the exam, the course of the exam and the allotted grade; and
+3. minutes of the exam recording the application form of the exam, the course of the exam and the allotted grade; and
 
-- records for issued credentials for completed studies;
+4. records for issued credentials for completed studies;
 
 Records of paragraph 1 indents 1, 2 and 4 of this Article shall include: the first and last name of the student (for female students their maiden name as well), gender,  date,  place  and  date  of  birth,  state  of  birth,  place  of  residence,  unique identification number of the citizen, citizenship, prior acquired education, method of studying  as  well  as  other  data  in  separate  regulations.  The  record  keeping  of paragraph 1 indent 2 of this Article shall encompass data on passed exams, data on progress and finalization of studies.
 
@@ -2216,7 +2216,7 @@ Register of Enrolled Students and Main Register of Graduated Students shall be t
 
 The educational- scientific positions of the faculty shall be the docent, the associate professor and the full professor.
 
-In the faculties addressing the area of philology and other higher education facilities  delivering  language courses, the educational- scientific positions shall be lector and senior lector.
+In the faculties addressing the area of philology and other higher education facilities delivering language courses, the educational- scientific positions shall be - lector and senior lector.
 
 In  the  higher  vocational  schools,  the  teaching  positions  shall  be  lecturer, senior lecturer and professor in higher vocational school.
 
@@ -2290,7 +2290,7 @@ A  docent,  associate  professor  and  full  professor  in  a  vocational  -  ar
 
 A  lecturer  in  higher  vocational  school  shall  be  an  elected  person  having completed the second cycle of academic studies and has displayed competencies for educational  and  high  vocational  work,  has  published  professional  opus  and  has several years of experience of working in his/her vocation.
 
-Senior lecturer of higher vocational school shall be a selected person having completed  the  second  cycle  of  academic  studies,  has  published  multiple  scientific works and has displayed the competency to deliver educational and high vocational work.
+Senior lecturer of higher vocational school shall be a selected person having completed the second cycle of academic studies, has published multiple scientific
 
 52 of 71
 
@@ -2299,6 +2299,8 @@ Senior lecturer of higher vocational school shall be a selected person having co
 [[START OF PAGE 53]]
 
 'Official Gazette of R.M.', No. 35, dated 14.03.2008
+
+works and has displayed the competency to deliver educational and high vocational work.
 
 #### Criteria for Election of Junior Assistant, Junior Lector, or Junior Artistic Associate
 
@@ -2354,7 +2356,7 @@ The procedure of the advertisement shall last six months the most. If the proced
 
 ##### Article 132
 
-Election of the candidates in the educational-scientific, scientific, educational  or  supporting  staff  positions  shall  be  carried  out  by  the  EducationalScientific  or  Teachers  Council  on  the  basis  of  the  assessment  in  the  report  of  the Reviewers Commission established upon completion of the deadline for application of candidates.
+Election of the candidates in the educational-scientific, scientific, educational or supporting staff positions shall be carried out by the Educational-Scientific or Teachers Council on the basis of the assessment in the report of the Reviewers Commission established upon completion of the deadline for application of candidates.
 
 The Reviewers Commission shall be formed by the Educational- Scientific or Teachers Council and shall consist of at least three members. The members of the Reviewers  Commission  can  come  from  the  higher  education  facility  in  which  the recruitment  is  performed  or  from  other  higher  education  and  scientific  facilities performing higher education work in accordance with this Law.
 
@@ -2370,7 +2372,7 @@ If  the  Educational-Scientific  Council  or  the  Educational-  Artistic  Counc
 
 The appointment to a position shall provide the basis for signing a contract for a definite or indefinite period of time.
 
-The procedure for election in the educational-scientific, scientific, educational or supporting staff positions shall be closely regulated by a Rulebook of the  Faculty  and  the  Higher  Vocational  School  in  accordance  with  the  Rulebook  on Criteria and Procedure for election in the educational-scientific, scientific, educational or supporting staff positions, adopted by the university.
+The procedure for election in the educational-scientific, scientific, educational or supporting staff positions shall be closely regulated by a Rulebook of the Faculty and the Higher Vocational School in accordance with the Rulebook on
 
 54 of 71
 
@@ -2379,6 +2381,8 @@ The procedure for election in the educational-scientific, scientific, educationa
 [[START OF PAGE 55]]
 
 'Official Gazette of R.M.', No. 35, dated 14.03.2008
+
+Criteria and Procedure for election in the educational-scientific, scientific, educational or supporting staff positions, adopted by the university.
 
 #### Contracting
 
@@ -2530,7 +2534,7 @@ For the purposes of higher education work, according to provisions set forth in 
 
 To a distinguished professor of a university in Republic of Macedonia and abroad, providing significant contribution to the development of the higher education work, following a proposal by the unit, the university can award the honourable title of professor honoris causa.
 
-To  distinguished  scientific,  cultural,  business  and  other  persons  from  the country  and  abroad,  providing  significant  contribution  to  the  development  of  the scientific thinking, culture or in some other way have contributed to the development of higher education, upon proposal of the higher education facility, or the accredited scientific  facility,  the  university  can  allocate  a  honourable  title  of  doctor  honoris causa.
+To distinguished scientific, cultural, business and other persons from the country and abroad, providing significant contribution to the development of the scientific thinking, culture or in some other way have contributed to the development
 
 58 of 71
 
@@ -2540,7 +2544,9 @@ To  distinguished  scientific,  cultural,  business  and  other  persons  from  
 
 'Official Gazette of R.M.', No. 35, dated 14.03.2008
 
-Further  detailed  provisions  on  allocation  of  the  titles:  professor  honoris causa  and  doctor  honoris  causa  as  well  as  rights  thereof  shall  be  defined  in  the Statute of the University.
+of higher education, upon proposal of the higher education facility, or the accredited scientific facility, the university can allocate a honourable title of doctor honoris causa.
+
+Further detailed provisions on allocation of the titles: professor honoris causa and doctor honoris causa as well as rights thereof shall be defined in the Statute of the University.
 
 #### Profesor Emeritus
 
@@ -2802,7 +2808,7 @@ Participation  of  the  students  in  the  bodies  of  the  university,  or  of 
 
 'Official Gazette of R.M.', No. 35, dated 14.03.2008
 
-Participation of the students in the Inter-University Parliament, the issues of equal  decision  making,  the  number,  the  method  of  selection  and  other  significant issues for exercising their rights shall be further regulated in the Statute of the InterUniversity Parliament.
+Participation of the students in the Inter-University Parliament, the issues of equal decision making, the number, the method of selection and other significant issues for exercising their rights shall be further regulated in the Statute of the Inter-University Parliament.
 
 ## Chapter twelve
 
@@ -3034,11 +3040,11 @@ The existing faculties and higher vocational schools within the University of 'S
 
 On  the  day  of  entry  into  force  of  this  Law  the  foundation  acts  for  the faculties  as  well  as  higher  vocational  school  within  the  University  of  'St.  Cyril  and Methodius' in Skopje and within the University of 'Ss Kliment Ohridski' in Bitola, the Parliament of Republic of Macedonia shall become the founder of the University of 'St. Cyril and Methodius' in Skopje, the University of 'Ss Kliment Ohridski' in Bitola, and the units thereof.
 
-OOZT  Institutes  -  University  of  'St.  Cyril  and  Methodius'  in  Skopje,  RO Medical Faculty (hereinafter: Institutes) shall be erased from the Court Register and shall resume operation within the University of 'St. Cyril and Methodius' in Skopje as internal organization unit of the Medical Faculty. The employees in the Institute shall continue to work as employees in the Medical Faculty in Skopje. The property used by  the  Institutes  is  a  property  of  the  University  of  'St.  Cyril  and  Methodius'  in Skopje.  The  healthcare  services  of  the  University  of  'St.  Cyril  and  Methodius'  Medical Faculty shall be provided in accordance with the Law on Healthcare and Law on Health Insurance.
+OOZT Institutes - University of 'St. Cyril and Methodius' in Skopje, RO Medical Faculty (hereinafter: Institutes) shall be erased from the Court Register and shall resume operation within the University of 'St. Cyril and Methodius' in Skopje as internal organization unit of the Medical Faculty. The employees in the Institute shall continue to work as employees in the Medical Faculty in Skopje. The property used by the Institutes is a property of the University of 'St. Cyril and Methodius' in Skopje. The healthcare services of the University of 'St. Cyril and Methodius' – Medical Faculty shall be provided in accordance with the Law on Healthcare and Law on Health Insurance.
 
 The University of 'St. Cyril and Methodius' in Skopje- Medical Faculty and the  public  healthcare  facilities,  the  university  clinics  and  institutes,  shall  sign  an agreement for  defining  mutual  roles  in  provision  of  educational,  scientific-research and healthcare work, as a functional unity, in accordance with the needs of the study programs  delivery  as  well  as  for  regulating  the  labour  relations,  latest  of  three months following the day of entry into force of this Law.
 
-The University of 'St. Cyril and Methodius' in Skopje- Faculty of Dentistry and  the  public  healthcare  facilities,  the  University  Dental  Clinical  Centre,  or  the University Clinic for Maxillofacial Surgery, shall sign an agreement for defining mutual roles  in  provision  of  educational,  scientific-research  and  healthcare  work  as  a functional unity in accordance with the needs of the study program delivery, as well as for regulation of labour relations, latest of three months following the day of entry into force of this Law.
+The University of 'St. Cyril and Methodius' in Skopje- Faculty of Dentistry and the public healthcare facilities, the University Dental Clinical Centre, or the University Clinic for Maxillofacial Surgery, shall sign an agreement for defining mutual roles in provision of educational, scientific-research and healthcare work as a functional unity in accordance with the needs of the study program delivery, as well
 
 69 of 71
 
@@ -3047,6 +3053,8 @@ The University of 'St. Cyril and Methodius' in Skopje- Faculty of Dentistry and 
 [[START OF PAGE 70]]
 
 'Official Gazette of R.M.', No. 35, dated 14.03.2008
+
+as for regulation of labour relations, latest of three months following the day of entry into force of this Law.
 
 ##### Article 180
 
@@ -3070,7 +3078,7 @@ To the students having graduated according to the study programs prior to the da
 
 ##### Article 182
 
-To  persons  having  attained  a  diploma  or  other  credentials  for  higher education,  postgraduate  studies  or  doctorates  of  sciences  by  the  latest  of  31 st December 1996, obtained in the territory of former Socialist Federative Republic of Yugoslavia, the following shall be recognized: tertiary education, vocational position specialist,  academic  degree  master,  or  scientific  degree  doctor  of  sciences  in accordance with the provisions of this Law.
+To persons having attained a diploma or other credentials for higher education, postgraduate studies or doctorates of sciences by the latest of 31st December 1996, obtained in the territory of former Socialist Federative Republic of Yugoslavia, the following shall be recognized: tertiary education, vocational position specialist, academic degree master, or scientific degree doctor of sciences in accordance with the provisions of this Law.
 
 ##### Article 183
 
@@ -3082,7 +3090,7 @@ To  persons  having  attained  a  diploma  or  other  credentials  for  higher e
 
 'Official Gazette of R.M.', No. 35, dated 14.03.2008
 
-The  persons  in  line  with  this  Law  have  fulfilled  all  requirements  for enrolment in studies, and have attended teaching prior to the entry into force of this Law, but outside the public higher education facilities, in various forms of civil society initiatives in Republic of Macedonia, organized by 15 th August 2000 inclusive, can in line with the provisions of this Law and the Statute of the corresponding facility to do the following:
+The persons in line with this Law have fulfilled all requirements for enrolment in studies, and have attended teaching prior to the entry into force of this Law, but outside the public higher education facilities, in various forms of civil society initiatives in Republic of Macedonia, organized by 15th August 2000 inclusive, can in line with the provisions of this Law and the Statute of the corresponding facility to do the following:
 
 -Continue the studies in first year of the studies in the corresponding higher education facilities
 
@@ -3094,7 +3102,7 @@ Rights of paragraph 1 of this Article shall be enforced in the corresponding hig
 
 ##### Article 184
 
-Teachers  nominated  for  the  position  of  lector  of  completed  appropriate higher  education,  as  well  as  teachers  of  the  university  sports  centre,  can  be  reelected  according  to  the  requirements  stipulated  in  the  Law  on  Higher  Education (Official  Gazette  of  Republic  of  Macedonia'  No.  64/2000,  49/2003,  113/2005  and 51/2007).
+Teachers nominated for the position of lector of completed appropriate higher education, as well as teachers of the university sports centre, can be re-elected according to the requirements stipulated in the Law on Higher Education (Official Gazette of Republic of Macedonia' No. 64/2000, 49/2003, 113/2005 and 51/2007).
 
 ##### Article 185
 
