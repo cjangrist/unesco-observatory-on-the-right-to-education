@@ -1,10 +1,12 @@
 [[START OF PAGE 1]]
 
-OCTOBER 2o14
+OCTOBER 2014
 
 # RESPECT FOR ALL FRAMEWORK
 
 Version 1: 10/14
+
+MINISTRY FOR EDUCATION AND EMPLOYMENT
 
 1
 
@@ -44,13 +46,26 @@ Version 1: 10/14
 
 ## CONTENT
 
+Minister’s Foreword 3
+Message from the Permanent Secretary 4
+Message from the Director General, Directorate for Educational Services
+and from the Director General, Directorate for Quality and Standards in Education 5
+Terminology 6
+01 Philosophy and Aims of the Framework 7
+02 Background 9
+03 Values-Based Education 11
+04 Other Resources 13
+05 Owners 14
+06 Review Date 15
+07 References 16
+
 2
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-## MINISTER''S FOREWORD
+## MINISTER’S FOREWORD
 
 The Ministry affirms its belief that education has a fundamental role to play in the personal and social development of each citizen.  The value of respect is an underpinning value in creating a fair and just society.
 
@@ -140,7 +155,7 @@ refers to a statement encapsulating a fundamental concept for action that guides
 
 refers to an ideal that gives significance to our lives, that is reflected through the priorities that we choose, and that we act on consistently and repeatedly.
 
-For ease of reference the use of 'he', him' and 'his' shall be used for all genders.
+For ease of reference the use of 'he', 'him' and 'his' shall be used for all genders.
 
 6
 
@@ -148,7 +163,7 @@ For ease of reference the use of 'he', him' and 'his' shall be used for all gend
 
 [[START OF PAGE 10]]
 
-o1
+01
 
 ## PHILOSOPHY and AIMS OF THE FRAMEWORK
 
@@ -180,7 +195,7 @@ Version 1: 10/14
 
 [[START OF PAGE 12]]
 
-o2
+02
 
 ## BACKGROUND
 
@@ -196,9 +211,13 @@ RESPECT FOR ALL FRAMEWORK
 
 Version 1: 10/14
 
+Education, therefore, is as much about building character as it is about equipping students with specific skills (Framework for the Education Strategy 2014 - 2024). The way forward for the implementation of the Framework is through Values-based education. Values-based education refers to any explicit and/or implicit school-based activity which promotes student understanding and knowledge of values, and which develops the skills and dispositions of students so they can enact particular values as individuals and as members of the wider community. It ensures that those leaving school should have qualities of self confidence, high self esteem, optimism and commitment to personal fulfillment as a foundation for their potential life roles as family, community and employees. Furthermore they should have the capacity to exercise judgement and responsibility in matters of ethical and social judgements.
+
+Whilst the Respect for All Framework acknowledges that schools are placed within different cultural environments, it assumes that certain values form part of the basic foundations of our society. Both culture and climate require particular attention in policy development and even more so in its implementation. The climate which is required within schools for these policies to be fruitful, is one that is physically, emotionally, intellectually safe for all school community members. School culture refers to the set of norms, values and beliefs, rituals and ceremonies, symbols and stories that make up the 'persona' of the school.
+
 ### LEARNING TO KNOW
 
-refers to the mastery of  learning tools (numerecy, literacy and life skills). Mastery of these learning tools is both a means and an end. These are means for the students to understand the world around them. Learning to know implies learning how to learn (concentration, memory skills, thinking skills).
+refers to the mastery of learning tools (numeracy, literacy and life skills). Mastery of these learning tools is both a means and an end. These are means for the students to understand the world around them. Learning to know implies learning how to learn (concentration, memory skills, thinking skills).
 
 ### LEARNING TO DO
 
@@ -210,19 +229,15 @@ refers to the enabling of each student to discover, expose and enrich his creati
 
 ### LEARNING TO LIVE TOGETHER
 
-refers to students being educated about human diversity whilst making them aware of the similarities and interdependence of people. Students learn to understand other people's reactions by looking at things from the other person's perspective and they learn to empathise.  This type of learning promotes social awareness, acceptance and respect towards others.
+refers to students being educated about human diversity whilst making them aware of the similarities and interdependence of people. Students learn to understand other people's reactions by looking at things from the other person's perspective and they learn to empathise. This type of learning promotes social awareness, acceptance and respect towards others.
 
-Education, therefore, is as much about building character as it is about equipping students with specific skills (Framework for the Education Strategy 2014 - 2024). The way forward for the implementation of the Framework is through Values-based education. Values-based education refers to any explicit and/or implicit school-based activity which promotes student understanding and knowledge of values, and which develops the skills and dispositions of students so they can enact particular values as individuals and as members of the wider community.  It ensures that those leaving school should have qualities of self confidence, high self esteem, optimism  and commitment to personal fulfillment as a foundation for their potential life roles as family, community and employees. Furthermore they should have the capacity to exercise judgement and responsibility in matters of ethical and social judgements.
-
-Whilst the Respect for All Framework acknowledges that schools are placed within different cultural environments,  it assumes that certain values form part of the basic foundations of our society.  Both culture and climate require particular attention in policy development and even more so in its implementation.  The climate which is required within schools for these policies to be fruitful, is one that is physically, emotionally, intellectually safe for all school community members.  School culture refers to the set of norms, values and beliefs, rituals and ceremonies, symbols and stories that make up the 'persona' of the school.
-
-1o
+10
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-o3
+03
 
 ## VALUES-BASED EDUCATION
 
@@ -230,7 +245,7 @@ The purpose of values-based education is to help the school community think abou
 
 The Framework for the Education Strategy 2014 - 2024 (2014), based on the 4 principles of equity, social justice, diversity and inclusivity addresses the learning to know and the learning to do through the Curriculum whilst placing emphasis on  students learning to live together and students learning to be.
 
-For these principles to be achieved the values of co-operation, responsibility, unity, tolerance, honesty, peace, happiness, love, freedom, humility, simplicity, courage, friendship and respect form the general values to sbehaviour in schools. The value of respect is considered as a prerequisite.
+For these principles to be achieved the values of co-operation, responsibility, unity, tolerance, honesty, peace, happiness, love, freedom, humility, simplicity, courage, friendship and respect form the general values to shape behaviour in schools. The value of respect is considered as a prerequisite.
 
 11
 
@@ -288,7 +303,7 @@ The whole school community is to adopt these values as the core of the school et
 
 [[START OF PAGE 16]]
 
-o4
+04
 
 ## OTHER DOCUMENTS
 
@@ -310,13 +325,14 @@ RESPECT FOR ALL FRAMEWORK
 
 Version 1: 10/14
 
-o5
+05
 
 ## OWNERS
 
 ### OWNERS
 
-Director General - Directorate for Educational Services Director General - Directorate for Quality and Standards in Education o6
+Director General – Directorate for Educational Services
+Director General – Directorate for Quality and Standards in Education
 
 14
 
@@ -324,13 +340,15 @@ Director General - Directorate for Educational Services Director General - Direc
 
 [[START OF PAGE 18]]
 
+06
+
 ## REVIEW DATE
 
 This document will be reviewed during August 2015.
 
 You are encouraged to submit your feedback by the 30th April 2015,
 
-via email on r4af.mede@gov.mt o7
+via email on r4af.mede@gov.mt
 
 15
 
@@ -341,6 +359,8 @@ via email on r4af.mede@gov.mt o7
 RESPECT FOR ALL FRAMEWORK
 
 Version 1: 10/14
+
+07
 
 ## REFERENCES
 
@@ -373,5 +393,7 @@ Version 1: 10/14
 20
 
 www.education.gov.mt
+
+MINISTRY FOR EDUCATION AND EMPLOYMENT
 
 [[END OF PAGE 22]]
