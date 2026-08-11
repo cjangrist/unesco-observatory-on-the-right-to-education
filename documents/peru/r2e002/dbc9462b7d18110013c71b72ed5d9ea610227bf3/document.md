@@ -28,11 +28,13 @@ La  educación  es  un  derecho  fundamental  de  la  persona  y  de  la  socied
 
 ### Artículo 4° .- Gratuidad de la educación
 
-La educación es un servicio público; cuando lo provee el Estado es gratuita en todos sus niveles y modalidades, de acuerdo con lo establecido en la Constitución Política y en la presente ley. En la Educación Inicial y Primaria se complementa obligatoriamente  con  programas  de  alimentación,  salud  y  entrega  de  materiales educativos.
+La educación es un servicio público; cuando lo provee el Estado es gratuita en todos sus niveles y modalidades, de acuerdo con lo establecido en la Constitución Política y en la presente ley. En la Educación Inicial y Primaria se complementa
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+obligatoriamente con programas de alimentación, salud y entrega de materiales educativos.
 
 ### Artículo 5º.- Libertad de enseñanza
 
@@ -64,9 +66,11 @@ La educación peruana tiene a la persona como centro y agente fundamental del pr
 
 - La democracia, que promueve el respeto irrestricto a los derechos humanos, la libertad de conciencia, pensamiento y opinión, el ejercicio pleno de la ciudadanía y el reconocimiento de la voluntad popular; y que contribuye a la tolerancia mutua en las  relaciones  entre  las  personas  y  entre  mayorías  y  minorías  así  como  al fortalecimiento del Estado de Derecho.
 
-- La  interculturalidad,  que  asume  como  riqueza  la  diversidad  cultural,  étnica  y lingüística del país, y encuentra en el reconocimiento y respeto a las diferencias, así como en el mutuo conocimiento y actitud de aprendizaje del otro, sustento para la  convivencia  armónica  y  el  intercambio  entre  las  diversas  culturas  del  mundo. g)  La  conciencia  ambiental,  que  motiva  el  respeto,  cuidado  y  conservación  del entorno natural como garantía para el desenvolvimiento de la vida. h)  La  creatividad  y  la  innovación,  que  promueven  la  producción  de  nuevos
+- La interculturalidad, que asume como riqueza la diversidad cultural, étnica y lingüística del país, y encuentra en el reconocimiento y respeto a las diferencias, así como en el mutuo conocimiento y actitud de aprendizaje del otro, sustento para la convivencia armónica y el intercambio entre las diversas culturas del mundo.
 
-- conocimientos en todos los campos del saber, el arte y la cultura.
+- La conciencia ambiental, que motiva el respeto, cuidado y conservación del entorno natural como garantía para el desenvolvimiento de la vida.
+
+- La creatividad y la innovación, que promueven la producción de nuevos conocimientos en todos los campos del saber, el arte y la cultura.
 
 ### Artículo 9º.- Fines de la educación peruana
 
@@ -133,11 +137,13 @@ Corresponde al  Estado  garantizar  los  factores  de  la  calidad  en  las  ins
 
 ### Artículo  14° .-  Sistema  Nacional  de  Evaluación,  Acreditación  y  Certificación de la Calidad Educativa
 
-El  Estado  garantiza  el  funcionamiento  de  un  Sistema  Nacional  de  Evaluación, Acreditación y Certificación de la Calidad Educativa, que abarca todo el territorio nacional y responde con flexibilidad a las características y especificidades de cada región del país.
+El Estado garantiza el funcionamiento de un Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educativa, que abarca todo el territorio
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+nacional y responde con flexibilidad a las características y especificidades de cada región del país.
 
 El Sistema opera a través de organismos autónomos, dotados de un régimen legal y administrativo que garantiza su independencia.
 
@@ -215,7 +221,9 @@ De  conformidad  con  lo  establecido  en  los  tratados  internacionales  sobre
 
 ### Artículo 20° .- Educación Bilingüe Intercultural
 
-La  Educación  Bilingüe  intercultural  se  ofrece  en  todo  el  sistema  educativo: a) Promueve la valoración y enriquecimiento de la propia cultura, el respeto a la diversidad cultural, el diálogo intercultural y la toma de conciencia de los derechos de  los  pueblos  indígenas,  y  de  otras  comunidades  nacionales  y  extranjeras. Incorpora la historia de los pueblos, sus conocimientos y tecnologías, sistemas de valores y aspiraciones sociales y económicas.
+La Educación Bilingüe intercultural se ofrece en todo el sistema educativo:
+
+- Promueve la valoración y enriquecimiento de la propia cultura, el respeto a la diversidad cultural, el diálogo intercultural y la toma de conciencia de los derechos de los pueblos indígenas, y de otras comunidades nacionales y extranjeras. Incorpora la historia de los pueblos, sus conocimientos y tecnologías, sistemas de valores y aspiraciones sociales y económicas.
 
 - Garantiza  el  aprendizaje  en  la  lengua  materna  de  los  educandos  y  del castellano  como  segunda  lengua,  así  como  el  posterior  aprendizaje  de  lenguas extranjeras.
 
@@ -243,7 +251,9 @@ El  Estado promueve la universalización, calidad y equidad de la educación. Su
 
 - Reconocer e incentivar la innovación e investigación que realizan las instituciones públicas y privadas.
 
-- Garantizar  iguales  oportunidades  de  acceso  y  permanencia  en  el  sistema educativo que favorezcan el aprendizaje oportuno, efectivo y pertinente. f) Orientar y articular los aprendizajes generados dentro y fuera de las instituciones educativas, incluyendo la recreación, la educación física, el deporte y la prevención de situaciones de riesgo de los estudiantes.
+- Garantizar iguales oportunidades de acceso y permanencia en el sistema educativo que favorezcan el aprendizaje oportuno, efectivo y pertinente.
+
+- Orientar y articular los aprendizajes generados dentro y fuera de las instituciones educativas, incluyendo la recreación, la educación física, el deporte y la prevención de situaciones de riesgo de los estudiantes.
 
 - Valorar el aporte de las instituciones privadas que brindan servicios educativos de calidad.
 
@@ -253,9 +263,11 @@ El  Estado promueve la universalización, calidad y equidad de la educación. Su
 
 - Ejercer y promover un proceso permanente de supervisión y evaluación de la calidad y equidad en la educación.
 
-- Informar  y  rendir  cuentas,  ante  los  usuarios  y  la  población,  respecto  a  la situación y el cumplimiento de los objetivos y metas de la educación. j)  Supervisar  y  evaluar  las  acciones  de  educación,  cultura  y  recreación,  a  nivel nacional, regional y local.
+- Informar y rendir cuentas, ante los usuarios y la población, respecto a la situación y el cumplimiento de los objetivos y metas de la educación.
 
-## CAPÍTULO EL ROL DE LA SOCIEDAD
+- Supervisar y evaluar las acciones de educación, cultura y recreación, a nivel nacional, regional y local.
+
+## CAPÍTULO VI EL ROL DE LA SOCIEDAD
 
 ### Artículo 22° .- Función de la sociedad
 
@@ -276,8 +288,6 @@ Los medios de comunicación social deben contribuir a la formación ética, cív
 Las entidades del Estado auspician programas o espacios en cualquier medio de comunicación,  siempre  que  contribuyan  a  elevar  el  nivel  educativo,  cultural, artístico y científico de las personas.
 
 ### Artículo 24° .- Empresas
-
-VI
 
 [[END OF PAGE 10]]
 
@@ -344,11 +354,15 @@ El Sistema Educativo comprende las siguientes etapas:
 
 #### a) Educación Básica
 
-La  Educación  Básica  está  destinada  a  favorecer  el  desarrollo integral del estudiante, el despliegue de sus potencialidades y el desarrollo de capacidades, conocimientos,  actitudes  y  valores  fundamentales  que  la  persona  debe  poseer para  actuar  adecuada  y  eficazmente  en  los  diversos  ámbitos  de  la  sociedad. Con  un  carácter  inclusivo  atiende  las  demandas  de  personas  con  necesidades educativas especiales o con dificultades de aprendizaje.
+La Educación Básica está destinada a favorecer el desarrollo integral del estudiante, el despliegue de sus potencialidades y el desarrollo de capacidades, conocimientos, actitudes y valores fundamentales que la persona debe poseer
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+para actuar adecuada y eficazmente en los diversos ámbitos de la sociedad.
+
+Con un carácter inclusivo atiende las demandas de personas con necesidades educativas especiales o con dificultades de aprendizaje.
 
 #### b) Educación Superior
 
@@ -432,7 +446,9 @@ La Educación Básica Alternativa es una modalidad que tiene los mismos objetivo
 
 La Alfabetización está comprendida en la Educación Básica Alternativa.
 
-- La Educación Básica Alternativa responde a las necesidades de: a) Jóvenes y adultos que no tuvieron acceso a la educación regular o no pudieron culminarla.
+La Educación Básica Alternativa responde a las necesidades de:
+
+- Jóvenes y adultos que no tuvieron acceso a la educación regular o no pudieron culminarla.
 
 - Niños  y  adolescentes  que  no  se  insertaron  oportunamente  en  la  Educación Básica  Regular  o  que  abandonaron  el  Sistema  Educativo  y  su  edad  les  impide continuar los estudios regulares.
 
@@ -448,9 +464,15 @@ Los programas de alfabetización tienen como fin el autodesarrollo y el desplieg
 
 ### Artículo 39º.- Educación Básica Especial
 
-La Educación Básica Especial tiene un enfoque inclusivo y atiende a personas con necesidades educativas especiales, con el fin de conseguir su integración en la vida comunitaria y su participación en la sociedad. Se dirige a: a)  Personas  que  tienen  un  tipo  de  discapacidad  que  dificulte  un  aprendizaje regular.
+La Educación Básica Especial tiene un enfoque inclusivo y atiende a personas con necesidades educativas especiales, con el fin de conseguir su integración en la vida comunitaria y su participación en la sociedad. Se dirige a:
 
-- Niños y adolescentes superdotados o con talentos específicos. En  ambos  casos  se  imparte  con  miras  a  su  inclusión  en  aulas  regulares,  sin perjuicio de la atención complementaria y personalizada que requieran. El tránsito de un grado a otro estará en función de las competencias que hayan logrado y la edad cronológica, respetando el principio de integración educativa y social.
+- Personas que tienen un tipo de discapacidad que dificulte un aprendizaje regular.
+
+- Niños y adolescentes superdotados o con talentos específicos.
+
+En ambos casos se imparte con miras a su inclusión en aulas regulares, sin perjuicio de la atención complementaria y personalizada que requieran.
+
+El tránsito de un grado a otro estará en función de las competencias que hayan logrado y la edad cronológica, respetando el principio de integración educativa y social.
 
 ## CAPÍTULO III
 
@@ -532,7 +554,7 @@ Los  aprendizajes que  se  logren a través  de  programas  desarrollados  por o
 
 El Estado promueve, valora y reconoce, en los ámbitos nacional, regional y local, iniciativas  de  Educación  Comunitaria  con  niveles  adecuados  de  calidad.  La optimización de los recursos existentes en las comunidades contribuye a este fin.
 
-## CAPÍTULOV LA EDUCACIÓN SUPERIOR
+## CAPÍTULO V LA EDUCACIÓN SUPERIOR
 
 ### Artículo 49° .- Definición y finalidad
 
@@ -562,7 +584,9 @@ La  comunidad  educativa  está  conformada  por  estudiantes,  padres  de  fami
 
 ### Artículo 53° .- El estudiante
 
-- El  estudiante  es el  centro  del  proceso  y  del  sistema  educativo.  Le  corresponde: a)  Contar  con  un  sistema  educativo  eficiente,  con  instituciones  y  profesores responsables  de  su  aprendizaje  y  desarrollo  integral;  recibir  un  buen  trato  y adecuada  orientación e ingresar oportunamente  al sistema o disponer de alternativas para culminar su educación.
+El estudiante es el centro del proceso y del sistema educativo. Le corresponde:
+
+- Contar con un sistema educativo eficiente, con instituciones y profesores responsables de su aprendizaje y desarrollo integral; recibir un buen trato y adecuada orientación e ingresar oportunamente al sistema o disponer de alternativas para culminar su educación.
 
 - Asumir  con  responsabilidad  su proceso de aprendizaje, así como practicar la tolerancia, la solidaridad, el diálogo y la convivencia armónica en la relación con sus compañeros, profesores y comunidad.
 
@@ -624,7 +648,9 @@ El  profesor  es  agente  fundamental  del  proceso  educativo  y  tiene  como  
 
 - Recibir  incentivos  y  honores,  registrados  en  el  escalafón  magisterial,  por  su buen  desempeño  profesional  y  por  sus  aportes  a  la  innovación  educativa.
 
-f)  Integrar  libremente  sindicatos  y  asociaciones  de  naturaleza  profesional;  y g) Los demás derechos y deberes establecidos por ley específica.
+- Integrar libremente sindicatos y asociaciones de naturaleza profesional; y
+
+- Los demás derechos y deberes establecidos por ley específica.
 
 ### Artículo 57° .- La carrera pública magisterial
 
@@ -642,7 +668,7 @@ Las áreas de desempeño laboral del profesor son la docencia, la administració
 
 El Estado garantiza, el funcionamiento de un Programa  de Formación y Capacitación Permanente  que  vincule la formación inicial del docente, su capacitación y su actualización en el servicio. Este Programa se articula con las instituciones de educación superior. Es obligación del Estado procurar los medios adecuados para asegurar la efectiva participación de los docentes.
 
-### Artículo 61° .Régimen  laboral del Profesor en la  Educación  Privada
+### Artículo 61°.- Régimen laboral del Profesor en la Educación Privada
 
 El  profesor  que  trabaja  en  instituciones  educativas  privadas  se  rige  por  lo establecido en el régimen laboral de la actividad privada. Puede incorporarse en la carrera pública magisterial si ingresa al servicio del Estado, previo cumplimiento de los requisitos de ley.
 
@@ -757,7 +783,9 @@ Son funciones de las Instituciones Educativas:
 
 - Rendir  cuentas  anualmente  de  su  gestión  pedagógica,  administrativa  y económica, ante la comunidad educativa.
 
-- Actuar  como  instancia  administrativa  en  los  asuntos  de  su  competencia. En centros educativos unidocentes y multigrados, estas atribuciones son ejercidas a través de redes.
+- Actuar como instancia administrativa en los asuntos de su competencia.
+
+En centros educativos unidocentes y multigrados, estas atribuciones son ejercidas a través de redes.
 
 [[END OF PAGE 25]]
 
@@ -1066,7 +1094,7 @@ El  Poder  Ejecutivo  presentará  el  proyecto  de  ley  de  creación  del Ins
 Créase  el  Fondo  Nacional  de  Desarrollo  de  la  Educación  Peruana (FONDEP)  como  Programa  Presupuestal  del  Ministerio  de  Educación.  Está constituido  por  los  recursos  que  le  asigne  el  Tesoro  Público,  ingresos  propios, donaciones, transferencias y reembolsos que dicho fondo genere . El FONDEP es intangible.
 
 ## Novena.
-En tanto se dé la ley a que se refiere el artículo 81° , seguirá vigente el actual Consejo Nacional de Educación tal como está normado en el D.S 007-2002ED,  modificado  por  el  D.S.  010-2002-ED.  En  lo  que  corresponda,  adecuará  su funcionamiento a lo establecido en la presente ley.
+En tanto se dé la ley a que se refiere el artículo 81° , seguirá vigente el actual Consejo Nacional de Educación tal como está normado en el D.S 007-2002-ED,  modificado  por  el  D.S.  010-2002-ED.  En  lo  que  corresponda,  adecuará  su funcionamiento a lo establecido en la presente ley.
 
 ## Décima.
 La conformación y funcionamiento de las redes educativas en escuelas unidocentes y multigrados ubicadas en las áreas rurales y zonas de frontera, será materia de una  normatividad específica que  garantice la eficiencia de su funcionamiento.
