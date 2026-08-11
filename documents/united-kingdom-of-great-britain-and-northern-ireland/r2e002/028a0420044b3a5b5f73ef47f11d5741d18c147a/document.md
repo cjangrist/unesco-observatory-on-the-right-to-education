@@ -26,11 +26,11 @@ In exercise of the powers conferred on the Secretary of State by sections 157(1)
 
 ## Citation, commencement and application
 
-- These Regulations may be cited as the Education (Independent School Standards) (England) Regulations 2003 and shall come into force on 1st September 2003.
+1. These Regulations may be cited as the Education (Independent School Standards) (England) Regulations 2003 and shall come into force on 1st September 2003.
 
-- These Regulations shall apply only in relation to England.
+2. These Regulations shall apply only in relation to England.
 
-- These Regulations shall apply to any independent school, except that-
+3. These Regulations shall apply to any independent school, except that—
 
 (a) paragraphs 1, 3(2)(d), 6(2)(f),(g),(i) and (k) and 6(7) of the Schedule shall not apply to an Academy; and
 
@@ -38,7 +38,7 @@ In exercise of the powers conferred on the Secretary of State by sections 157(1)
 
 ## Interpretation
 
-- In these Regulations-
+4. In these Regulations—
 
 'the 1996 Act' means the Education Act 1996( 2 );
 
@@ -70,15 +70,14 @@ Status: This is the original version (as it was originally made). This item of l
 
 25th July 2003
 
-( 3 ) Section 482 was substituted by section 65 of the 2002 Act.
+David Miliband
+Minister of State,
+Department for Education and Skills
 
-( 4 ) 1947 c. 41
-
-( 5 ) 1999 c. 29
-
-( 6 ) 1985 c. 51
-
-David Miliband Minister of State, Department for Education and Skills
+(3) Section 482 was substituted by section 65 of the 2002 Act.
+(4) 1947 c. 41
+(5) 1999 c. 29
+(6) 1985 c. 51
 
 2
 
@@ -91,6 +90,7 @@ Document Generated: 2017-10-10
 Status: This is the original version (as it was originally made). This item of legislation is currently only available in its original format.
 
 ## SCHEDULE
+Regulation 5
 
 ### THE INDEPENDENT SCHOOLS STANDARDS
 
@@ -141,8 +141,6 @@ Status: This is the original version (as it was originally made). This item of l
 (4)    The  school  shall  have  in  place  a  framework  for  pupil  performance  to  be  evaluated,  by reference either to the school's own aims as provided to parents or national norms, or to both.
 
 (5)  The school shall provide an education which enables all pupils within a class to make progress, including pupils with statements and those for whom English is an additional language.
-
-Regulation 5
 
 3
 
@@ -226,7 +224,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 #### Suitability of proprietors and staff
 
-- The suitability of the proprietor and staff at the school meets the standard if-
+4. The suitability of the proprietor and staff at the school meets the standard if—
 
 (a) the  proprietor  is  subject  to  a  check  with  the  Criminal  Records  Bureau  made  by  the Secretary of State to confirm his suitability to work with children, that check to be at an enhanced level if his duties involve regularly caring for, training, supervising or being in sole charge of persons aged under 18;
 
@@ -300,7 +298,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 #### Provision of information
 
-6. -(1)  The provision of information by the school meets the standard if the requirements in subparagraphs (2) to (9) are met.
+6.—(1)  The provision of information by the school meets the standard if the requirements in sub-paragraphs (2) to (9) are met.
 
 (2)  Subject to sub-paragraph (10), the school shall provide to parents of pupils and of prospective pupils  and  on  request  to  the  Chief  Inspector,  the  Secretary  of  State  or  a  body  approved  for  the purposes of section 163(1)(b) of the 2002 Act-
 
@@ -341,8 +339,7 @@ Status: This is the original version (as it was originally made). This item of l
 (k) the  number  of  staff  at  the  school,  including  temporary  staff,  and  a  summary  of  their qualifications.
 
 (3)  Following an inspection under section 163(1) of the 2002 Act, the school shall send to the parents of every registered pupil, by a date to be specified by the body who conducted the inspection
-
--
+—
 
 (a) a summary report; or
 
