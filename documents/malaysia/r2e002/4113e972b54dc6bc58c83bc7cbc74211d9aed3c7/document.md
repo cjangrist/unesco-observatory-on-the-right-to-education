@@ -1,55 +1,53 @@
 [[START OF PAGE 1]]
+# PRIVATE HIGHER EDUCATIONAL INSTITUTIONS BILL 1996
+
+## ARRANGEMENT OF CLAUSES
+
+### PART I
+
+#### PRELIMINARY
 
 Clause
 
-- Short  title  and  commencement.
+1. Short title and commencement.
 
-- Interpretation.
+2. Interpretation.
 
 ### PART II
 
 #### ADMINISTRATION
 
-- Appointment of Registrar General, Deputy Registrar General, etc.  and  their  duties.
+3. Appointment of Registrar General, Deputy Registrar General, etc. and their duties.
 
-- Power  of  Minister  to  issue  general  directions.
+4. Power of Minister to issue general directions.
 
-- Power  of  Minister  to  issue  special  directions.
+5. Power of Minister to issue special directions.
 
 ### PART III
 
-#### ESTABLISHMENT  OF PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
+#### ESTABLISHMENT OF PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-- Application  for  approval.
+6. Application for approval.
 
-- Other  interest  to  be  disclosed  by  applicant.
+7. Other interest to be disclosed by applicant.
 
-- Registrar  General  to  make  recommendation  to  Minister.
+8. Registrar General to make recommendation to Minister.
 
-- Registrar  General  may  refuse  to  proceed  with  application,
+9. Registrar General may refuse to proceed with application.
 
-- Grant or  refusal  of  application  by  Minister.
+10. Grant or refusal of application by Minister.
 
-- Approval  shall  not  be  granted  unless  Minister  is  satisfied.
+11. Approval shall not be granted unless Minister is satisfied.
 
-- Applicant  to  incorporate  company  locally.
+12. Applicant to incorporate company locally.
 
-- Similar  conditions  to  be  imposed  on  company.
+13. Similar conditions to be imposed on company.
 
-- Reference  to  company.
+14. Reference to company.
 
-- Approval  for  change  or  alteration  in  respect  of  company.
+15. Approval for change or alteration in respect of company.
 
-- Notification  of  change  in  address.
-
-# PRIVATE HIGHER EDUCATIONAL INSTITUTIONS  BILL  1996
-
-## ARRANGEMENT OF CLAUSES
-
-### PART  I
-
-#### PRELIMINARY
-
+16. Notification of change in address.
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -60,49 +58,49 @@ BILL
 
 Clause
 
-- Information  requested  by  Registrar  General.
+17. Information requested by Registrar General.
 
-- Establishment  of branch  of,  or  affiliation, etc. with  other, private  higher  educational  institutions.
+18. Establishment of branch of, or affiliation, etc. with other, private higher educational institutions.
 
-- Prior  approval  of  Minister  on  arrangement  or  agreement.
+19. Prior approval of Minister on arrangement or agreement.
 
-- Minister  may  vary  conditions.
+20. Minister may vary conditions.
 
 ### PART IV
 
-#### ESTABLISHMENT  OF  A  PRIVATE  HIGHER  EDUCATIONAL INSTITUTION  WITH  THE  STATUS  OF  A  UNIVERSITY, UNIVERSITY  COLLEGE  AND  BRANCH  CAMPUS
+#### ESTABLISHMENT OF A PRIVATE HIGHER EDUCATIONAL INSTITUTION WITH THE STATUS OF A UNIVERSITY, UNIVERSITY COLLEGE AND BRANCH CAMPUS
 
-- Establishment of University, University College and branch campus.
+21. Establishment of University, University College and branch campus.
 
-- Application  for  establishment  on  invitation.
+22. Application for establishment on invitation.
 
-- This  Act  shall  apply  in  relation  to  University,  University College  or  branch  campus.
+23. This Act shall apply in relation to University, University College or branch campus.
 
-### PART  V
+### PART V
 
-#### REGISTRATION OF  PRIVATE  HIGHER EDUCATIONAL  INSTITUTIONS
+#### REGISTRATION OF PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-- All  private  higher educational  institutions  to  be  registered.
+24. All private higher educational institutions to be registered.
 
-- Register  of  private  higher  educational  institutions.
+25. Register of private higher educational institutions.
 
-- Certificate  of  registration  to  be  exhibited.
+26. Certificate of registration to be exhibited.
 
-- Refusal  of  registration.
+27. Refusal of registration.
 
-- Change  of  premise.
+28. Change of premise.
 
-- Power  of  Registrar  General  to  add,  vary,  cancel  or  alter conditions.
+29. Power of Registrar General to add, vary, cancel or alter conditions.
 
 ### PART VI
 
-#### MANAGEMENT  OF  PRIVATE  HIGHER EDUCATIONAL INSTITUTIONS
+#### MANAGEMENT OF PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-- Constitution.
+30. Constitution.
 
-- Appointment  and  registration  of  chief  executive.
+31. Appointment and registration of chief executive.
 
-- Regulations  on  registration  of  chief  executive.
+32. Regulations on registration of chief executive.
 
 [[END OF PAGE 2]]
 
@@ -114,49 +112,49 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 Clause
 
-- Duty  of  chief  executive.
+33. Duty of chief executive.
 
-- Application  under  Act  to  be  made  by  chief  executive.
+34. Application under Act to be made by chief executive.
 
-- Notice, requirement for information and other communication to  be  addressed  to  chief  executive.
+35. Notice, requirement for information and other communication to be addressed to chief executive.
 
-- Person  not  eligible  to  take  part  in  the  management  of  a private  higher  educational  institution.
+36. Person not eligible to take part in the management of a private higher educational institution.
 
-- Power  of  Registrar  General  to  deal  with  chief  executive.
+37. Power of Registrar General to deal with chief executive.
 
 ### PART VII
 
-#### CONDUCT  OF  COURSES  OF  STUDY  AT PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
+#### CONDUCT OF COURSES OF STUDY AT PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-- Prior approval of Minister on course of study and affiliation, etc.
+38. Prior approval of Minister on course of study and affiliation, etc.
 
-- Authority  to  determine  adequacy  of  educational  facilities and  quality  assurance  of  course  of  study.
+39. Authority to determine adequacy of educational facilities and quality assurance of course of study.
 
-- Grant  of  approval  subject  to  conditions.
+40. Grant of approval subject to conditions.
 
-- Medium  of  instruction.
+41. Medium of instruction.
 
-- Power of Minister to direct that national language be used.
+42. Power of Minister to direct that national language be used.
 
-- Compulsory  subjects.
+43. Compulsory subjects.
 
-- Minimum  standard  to  be  met  before  certificates,  diplomas or  degrees  can  be  awarded.
+44. Minimum standard to be met before certificates, diplomas or degrees can be awarded.
 
-- Power of Minister  to  make  regulations  for  supervision  and control  of  standard  of  education.
+45. Power of Minister to make regulations for supervision and control of standard of education.
 
-### PART  VIII
+### PART VIII
 
-#### DISCIPLINE  AND  CONDUCT  OF  STUDENTS
+#### DISCIPLINE AND CONDUCT OF STUDENTS
 
-- Disciplinary  authority  in  respect  of  students.
+46. Disciplinary authority in respect of students.
 
-- Prohibition on student, students' organisation, body or group associating  with  societies, etc.
+47. Prohibition on student, students' organisation, body or group associating with societies, etc.
 
-- Criminal liability of  office-bearers, etc., of  students' organisation,  body  or  group.
+48. Criminal liability of office-bearers, etc., of students' organisation, body or group.
 
-- Power  of  Registrar  General  to, issue  direction  to  suspend or  dissolve  any  organisation,  body  or  group  of  students.
+49. Power of Registrar General to, issue direction to suspend or dissolve any organisation, body or group of students.
 
-- Regulations  on  expulsion  of  students.
+50. Regulations on expulsion of students.
 
 [[END OF PAGE 3]]
 
@@ -166,51 +164,51 @@ Clause
 
 BILL
 
+### PART IX
+
+#### PERMITS TO TEACH
+
 Clause
 
-- Issuance  of  permit  to  teach.
+51. Issuance of permit to teach.
 
-- Power of Registrar General  to  refuse  and revoke permit  to teach.
+52. Power of Registrar General to refuse and revoke permit to teach.
 
-- Right  to  make  representations  to  be  given  and  additional ground  for  revocation.
+53. Right to make representations to be given and additional ground for revocation.
 
-### PART  X
+### PART X
 
-#### REVOCATION  OF  APPROVAL  AND  CANCELLATION  OF REGISTRATION
+#### REVOCATION OF APPROVAL AND CANCELLATION OF REGISTRATION
 
-- Grounds  for  revocation  of  approval,
+54. Grounds for revocation of approval,
 
-- Grounds  for  cancellation  of  registration.
+55. Grounds for cancellation of registration.
 
-- Notice  to  revoke  approval  and  to  cancel  registration.
+56. Notice to revoke approval and to cancel registration.
 
-- Decision  to  be  based  on  documents  and  no  oral  hearing allowed.
+57. Decision to be based on documents and no oral hearing allowed.
 
 ### PART XI
 
-#### CLOSING  DOWN  OF  PRIVATE HIGHER  EDUCATIONAL  INSTITUTIONS
+#### CLOSING DOWN OF PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-- Power  of  Minister  to  give  directions  to  safeguard  interest of  students.
+58. Power of Minister to give directions to safeguard interest of students.
 
-- Cessation  of  operation.
+59. Cessation of operation.
 
-- Notice  of intention  to  close  down.
+60. Notice of intention to close down.
 
-- Arrangements for the continuation of education of students.
+61. Arrangements for the continuation of education of students.
 
-- Surrender  of  certificates.
+62. Surrender of certificates.
 
 ### PART XII
 
-#### INSPECTION  OF  PRIVATE  HIGHER  EDUCATIONAL INSTITUTIONS
+#### INSPECTION OF PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-- Inspection  to  be  made  from  time  to  time.
+63. Inspection to be made from time to time.
 
-- Power of  Registrar General when inspecting private higher educational  institutions.
-
-### PART IX
-
-#### PERMITS  TO  TEACH
+64. Power of Registrar General when inspecting private higher educational institutions.
 
 [[END OF PAGE 4]]
 
@@ -220,61 +218,61 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 5
 
-Clause
-
-- Interpretation  of  investigating  officer.
-
-- Power  of  investigating  officer.
-
-- Power to  search  and  seize.
-
-- Search  and  seize  without  warrant.
-
-- Power  to  seal.
-
-- Power  to  call  for  examination.
-
-- No entitlement as to costs on proceedings, damages or other relief, etc.
-
-### PART XIV
-
-#### OFFENCES  AND  PENALTIES
-
-- Prohibition  on  advertisement,  etc.
-
-- Control  of advertisement.
-
-- Interpretation  of  advertisement.
-
-- Offence and penalty relating to false or misleading statement.
-
-- Establishment of private higher educational institutions, etc., prohibited  unless  in  accordance  with  Act.
-
-- Offence and penalty relating to award of certificate, diploma and  degree.
-
-- Penalty  for  contravening  conditions.
-
-- Offence  and  penalty  relating  to applications  made  under Act.
-
-- Offence  and  penalty  relating  to  unlawful  activity.
-
-- Offences and penalties relating to certificates of registration and  the  act  of  teaching in  private higher  educational institutions.
-
-- General  penalty.
-
-- Penalty  in  the  case  of  a  continuing  offence.
-
-- Offences  by  bodies  corporate.
-
-- Liability  of director, etc. for offences committed by private higher  educational  institution  established  by  it.
-
-- Power  to  compound.
-
-- Institution  and  conduct  of  prosecution.
-
 ### PART XIII
 
 #### ENFORCEMENT AND INVESTIGATION
+
+Clause
+
+65. Interpretation of investigating officer.
+
+66. Power of investigating officer.
+
+67. Power to search and seize.
+
+68. Search and seize without warrant.
+
+69. Power to seal.
+
+70. Power to call for examination.
+
+71. No entitlement as to costs on proceedings, damages or other relief, etc.
+
+### PART XIV
+
+#### OFFENCES AND PENALTIES
+
+72. Prohibition on advertisement, etc.
+
+73. Control of advertisement.
+
+74. Interpretation of advertisement.
+
+75. Offence and penalty relating to false or misleading statement.
+
+76. Establishment of private higher educational institutions, etc., prohibited unless in accordance with Act.
+
+77. Offence and penalty relating to award of certificate, diploma and degree.
+
+78. Penalty for contravening conditions.
+
+79. Offence and penalty relating to applications made under Act.
+
+80. Offence and penalty relating to unlawful activity.
+
+81. Offences and penalties relating to certificates of registration and the act of teaching in private higher educational institutions.
+
+82. General penalty.
+
+83. Penalty in the case of a continuing offence.
+
+84. Offences by bodies corporate.
+
+85. Liability of director, etc. for offences committed by private higher educational institution established by it.
+
+86. Power to compound.
+
+87. Institution and conduct of prosecution.
 
 [[END OF PAGE 5]]
 
@@ -284,75 +282,73 @@ Clause
 
 BILL
 
+### PART XV
+
+#### REGULATIONS
+
 Clause
 
-- Power  of  Minister  to  make  regulations.
+88. Power of Minister to make regulations.
 
 ### PART XVI
 
 #### GENERAL
 
-- Distinction  of  race  and  creed  prohibited.
+89. Distinction of race and creed prohibited.
 
-- Indemnity and protection against suit and legal proceedings.
+90. Indemnity and protection against suit and legal proceedings.
 
-- Officers  deemed  to  be  public  servants.
+91. Officers deemed to be public servants.
 
-- Minister's  power  to  exempt.
+92. Minister's power to exempt.
 
-- Requirement  as  to  premises.
+93. Requirement as to premises.
 
-- Service.
+94. Service.
 
-- Non-application.
+95. Non-application.
 
-### PART  XVII
+### PART XVII
 
-#### SAVING  AND  TRANSITIONAL  PROVISIONS
+#### SAVING AND TRANSITIONAL PROVISIONS
 
-- Saving  and transitional provisions relating to existing private higher  educational  institutions.
+96. Saving and transitional provisions relating to existing private higher educational institutions.
 
-- Conversion  of  provisional  certificates  of  registration.
+97. Conversion of provisional certificates of registration.
 
-- Power of Minister to make additional transitional provisions.
+98. Power of Minister to make additional transitional provisions.
 
-- Transitional  provision  relating  to  teachers.
-
-### PART  XV
-
-#### REGULATIONS
+99. Transitional provision relating to teachers.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-## A  BILL
-
 7
+
+## A BILL
 
 intituled
 
-- An  Act  to  provide  for  the  establishment,  registration, management and supervision of, and the control of the quality of education provided by, private higher educational  institutions  and  for  matters  connected therewith.
+An Act to provide for the establishment, registration, management and supervision of, and the control of the quality of education provided by, private higher educational institutions and for matters connected therewith.
 
-[
+[ ]
 
-]
+WHEREAS higher education plays an important role in realizing the vision towards academic excellence and professional and technical enhancement whilst meeting the manpower needs of the nation:
 
-WHEREAS higher education plays an important role in realizing  the  vision  towards  academic  excellence  and professional  and technical enhancement whilst meeting the  manpower  needs  of the  nation:
-
-AND  WHEREAS  recognising  the  role  of private  higher educational institutions in providing sufficient educational infrastructure as well as increasing the capacity to meet the  demand  for  higher  education:
+AND WHEREAS recognising the role of private higher educational institutions in providing sufficient educational infrastructure as well as increasing the capacity to meet the demand for higher education:
 
 AND WHEREAS it is imperative to facilitate and regulate private higher educational institutions so as to ensure its healthy development and the provision of quality education:
 
-Now,  THEREFORE,  BE  IT  ENACTED  by  the  Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as  follows:
+Now, THEREFORE, BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-### PART  I
+### PART I
 
 #### PRELIMINARY
 
-- 1 . This Act may be cited as the Private Higher Educational Institutions Act 1996 and shall come into force on a date to  be  appointed  by  the  Minister  by  notification  in  the Gazette, and the Minister may appoint different dates for different  provisions  of  this  Act.
+##### Short title and commencement.
 
-##### Short  title and commencement.
+1. This Act may be cited as the Private Higher Educational Institutions Act 1996 and shall come into force on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for different provisions of this Act.
 
 [[END OF PAGE 7]]
 
@@ -363,27 +359,28 @@ Now,  THEREFORE,  BE  IT  ENACTED  by  the  Seri Paduka Baginda Yang di-Pertuan 
 BILL
 
 ##### Interpretation.
-2 . In  this  Act,  unless  the  context  otherwise  requires
 
-"affiliation" includes the conduct of  twinning programmes;
+2. In this Act, unless the context otherwise requires—
 
-"applicant"  means  an  applicant  for the  establishment of  a  private  higher  educational  institution  and  includes a person, or a group of persons, corporate or unincorporate, and either or otherwise established through a constituent document;
+"affiliation" includes the conduct of twinning programmes;
 
-"approval"  means  approval  in  writing;
+"applicant" means an applicant for the establishment of a private higher educational institution and includes a person, or a group of persons, corporate or unincorporate, and either or otherwise established through a constituent document;
 
-"Assistant Registrar" means  an Assistant Registrar of Private  Higher Educational  Institutions  appointed under subsection  3(2);
+"approval" means approval in writing;
 
-"board  of directors"  means  a  board  of  directors  of  a company  establishing a private higher educational institution;
+"Assistant Registrar" means an Assistant Registrar of Private Higher Educational Institutions appointed under subsection 3(2);
 
-"book" includes a record of information and an account or  accounting  record,  however  compiled,  recorded  or stored;
+"board of directors" means a board of directors of a company establishing a private higher educational institution;
 
-"branch  campus"  means  a branch  of a  private  higher educational  institution  with  the  status  of a  University  or a University  College  and includes  a branch  of a foreign University  or  University  College,  that  is established  ' under  this  Act;
+"book" includes a record of information and an account or accounting record, however compiled, recorded or stored;
 
-"chief executive" means  a chief executive of a private higher  educational  institution;
+"branch campus" means a branch of a private higher educational institution with the status of a University or a University College and includes a branch of a foreign University or University College, that is established under this Act;
 
-"company"  means  a  company  incorporated  under the Companies  Act 1965 establishing a  private higher educational  institution  under  this  Act;
+"chief executive" means a chief executive of a private higher educational institution;
 
-"constituent  documents"  means  the  statute,  charter, memorandum  and  articles  of  association,  rules  and  bylaws,  partnership  agreement  or  other  instruments  under or  by  which  an  applicant,  for  the  establishment  of  a private higher educational institution, is established and wherein  its  governing  and  administrative  structure,  the scope  of  its  functions,  business,  powers  and  duties  are set  out,  whether  in  one  or  more  documents;
+"company" means a company incorporated under the Companies Act 1965 establishing a private higher educational institution under this Act;
+
+"constituent documents" means the statute, charter, memorandum and articles of association, rules and by-laws, partnership agreement or other instruments under or by which an applicant, for the establishment of a private higher educational institution, is established and
 
 [[END OF PAGE 8]]
 
@@ -393,27 +390,29 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 9
 
-"constitution"  in  any  context  relating  to a  private higher  educational  institution  means  the  constitution  of the  private  higher  educational  institution;
+wherein its governing and administrative structure, the scope of its functions, business, powers and duties are set out, whether in one or more documents;
 
-"correspondence" means correspondence delivered by hand  or  by  post;
+"constitution" in any context relating to a private higher educational institution means the constitution of the private higher educational institution;
 
-"course  of  study"  includes  a  training  programme;
+"correspondence" means correspondence delivered by hand or by post;
 
-"degree"  means  the  degree  awarded  on  a person  at a Bachelor  level  or  a  Masters  level  or  a  Doctorate  level by a private higher educational institution with the status of  a  University  or  a  University  College,  or  a  branch campus,  after successful  completion  of a course  of study which  is  designed  to  lead  to  the  award  of  such  degree or  the  equivalent  thereof;
+"course of study" includes a training programme;
 
-"Deputy  Registrar"  means  the  Deputy  Registrar  of Private Higher Educational Institutions appointed under subsection  3(2);
+"degree" means the degree awarded on a person at a Bachelor level or a Masters level or a Doctorate level by a private higher educational institution with the status of a University or a University College, or a branch campus, after successful completion of a course of study which is designed to lead to the award of such degree or the equivalent thereof;
 
-"Deputy Registrar General" means the Deputy Registrar General of  Private Higher Educational Institutions appointed under  subsection  3(2);
+"Deputy Registrar" means the Deputy Registrar of Private Higher Educational Institutions appointed under subsection 3(2);
 
-"diploma" means the diploma awarded on a person by a private higher educational  institution,  after  successful completion of a course of study which is designed to lead to  the  award  of such  diploma  or the  equivalent  thereof;
+"Deputy Registrar General" means the Deputy Registrar General of Private Higher Educational Institutions appointed under subsection 3(2);
 
-"distance education" means instruction or training on or  teaching  of  higher  education-
+"diploma" means the diploma awarded on a person by a private higher educational institution, after successful completion of a course of study which is designed to lead to the award of such diploma or the equivalent thereof;
+
+"distance education" means instruction or training on or teaching of higher education—
 
 (a) exclusively through the medium of electronics;
 
-(b) exclusively  through  correspondence;
+(b) exclusively through correspondence;
 
-(c) partly  through  the  medium  of  electronics  and partly through correspondence and other methods of  instruction,  training  or  teaching;  or
+(c) partly through the medium of electronics and partly through correspondence and other methods of instruction, training or teaching; or
 
 [[END OF PAGE 9]]
 
@@ -423,33 +422,33 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-(d) partly  through  the  medium  of  electronics  and partly through correspondence or other methods of  instruction,  training  or  teaching;
+(d) partly through the medium of electronics and partly through correspondence or other methods of instruction, training or teaching;
 
-"Education  Service"  means  a  public  service  under paragraph (1 )(h) of Article 132 of the Federal Constitution;
+"Education Service" means a public service under paragraph (1)(h) of Article 132 of the Federal Constitution;
 
-"higher education" means instruction or training on or teaching  of  a  course  of  study  leading  to  the  award  of a certificate, diploma  or  degree  upon  the successful completion  thereof;
+"higher education" means instruction or training on or teaching of a course of study leading to the award of a certificate, diploma or degree upon the successful completion thereof;
 
-"national  language"  means  the  Malay  language  as stipulated  in  Article  152  of  the  Federal  Constitution;
+"national language" means the Malay language as stipulated in Article 152 of the Federal Constitution;
 
-"premises" means  a building used as a private higher educational  institution  and  includes  a  building  for  the purpose of providing accommodation and other facilities for  students  and  staff  of  such  institution;
+"premises" means a building used as a private higher educational institution and includes a building for the purpose of providing accommodation and other facilities for students and staff of such institution;
 
-"prescribed"  means  prescribed  by  regulations  made under  this  Act;
+"prescribed" means prescribed by regulations made under this Act;
 
-"prescribed fee" means the fee required to be prescribed under  this  Act;
+"prescribed fee" means the fee required to be prescribed under this Act;
 
-"private  higher  educational  institution"  means  an educational institution, including a University or  a University  College  or  a  branch  campus,  approved  and registered  under  this  Act  and  which  is  not  established or  maintained  by  the  Government-
+"private higher educational institution" means an educational institution, including a University or a University College or a branch campus, approved and registered under this Act and which is not established or maintained by the Government—
 
-(a) providing  higher  education;
+(a) providing higher education;
 
-(b) providing  distance  education;  or
+(b) providing distance education; or
 
-(c) providing higher education or distance education in affiliation, association or collaboration with-
+(c) providing higher education or distance education in affiliation, association or collaboration with—
 
-(i)  a  private  higher  educational  institution approved  and  registered  under  this  Act;
+(i) a private higher educational institution approved and registered under this Act;
 
-(ii)  other  higher  educational  institutions-
+(ii) other higher educational institutions—
 
-(aa) whether  or  not  established  under other  written  laws;  or
+(aa) whether or not established under other written laws; or
 
 (bb) whether within or outside Malaysia;
 
@@ -461,29 +460,31 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 11
 
-(iii) a University or University College established  under  this  Act;
+(iii) a University or University College established under this Act;
 
-(iv)  a University or University College established  under  the  Universities  and Act 30. University  Colleges  Act  1971;
+(iv) a University or University College established under the Universities and University Colleges Act 1971;
 
-(v)  other Universities or University Colleges-
+Act 30.
 
-(aa) whether  or  not  established  under other  written  laws;  or
+(v) other Universities or University Colleges—
+
+(aa) whether or not established under other written laws; or
 
 (bb) whether within or outside Malaysia;
 
-(vi)  a  branch  campus;  or
+(vi) a branch campus; or
 
-(vii)  a  professional  body  whether  within  or outside Malaysia leading to the award of professional membership of such professional  body;
+(vii) a professional body whether within or outside Malaysia leading to the award of professional membership of such professional body;
 
-"Registrar"  means  the  Registrar  of  Private  Higher Educational Institutions appointed under subsection 3(2);
+"Registrar" means the Registrar of Private Higher Educational Institutions appointed under subsection 3(2);
 
-"Registrar  General"  means  the  Registrar  General  of Private  Higher Educational Institutions  appointed under subsection  3(1);
+"Registrar General" means the Registrar General of Private Higher Educational Institutions appointed under subsection 3(1);
 
 "student" means a person receiving education, instruction, training or teaching from or in a private higher educational institution;
 
-"teacher"  means  a  person  employed  by  a  private higher educational institution to be a teacher and includes a  senior  professor,  professor,  assistant  professor,  senior lecturer,  lecturer,  assistant  lecturer  and  tutor;
+"teacher" means a person employed by a private higher educational institution to be a teacher and includes a senior professor, professor, assistant professor, senior lecturer, lecturer, assistant lecturer and tutor;
 
-"University" and "University College" mean a private higher  educational  institution  conferred  with  the  status of  a  University  or  University  College  under  section  21, and  include  such  private  higher  educational  institution which is  affiliated to  a  University  or  University  College whether  within  or  outside  Malaysia,  conferred  with  the status  of  a  University  or  a  University  College.
+"University" and "University College" mean a private higher educational institution conferred with the status of a University or University College under section 21, and include such private higher educational institution which is affiliated to a University or University College whether within or outside Malaysia, conferred with the status of a University or a University College.
 
 [[END OF PAGE 11]]
 
@@ -493,27 +494,27 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-##### Appointment of  Registrar General, Deputy Registrar General, etc, and  their duties.
-
-##### Power  of Minister  to issue  general directions.
-
 ### PART II
 
 #### ADMINISTRATION
 
-3. (1) There  shall  be  a  Registrar  General  of  Private Higher Educational Institutions  who  shall  be  appointed by the Minister from amongst the officers in the Education Service.
+##### Appointment of Registrar General, Deputy Registrar General, etc, and their duties.
 
-(2) The Minister shall also appoint a Deputy Registrar General and such number of Registrars, Deputy Registrars and  Assistant  Registrars  of  Private  Higher  Educational Institutions,  as  may  be  considered  necessary  for  the purpose  of  this  Act.
+3. (1) There shall be a Registrar General of Private Higher Educational Institutions who shall be appointed by the Minister from amongst the officers in the Education Service.
 
-(3) The Registrar General shall have the powers and exercise the functions conferred on him by this Act, and in  his  absence  such  powers  and  functions  may  be  had or  exercised  by  the  Deputy  Registrar  General.
+(2) The Minister shall also appoint a Deputy Registrar General and such number of Registrars, Deputy Registrars and Assistant Registrars of Private Higher Educational Institutions, as may be considered necessary for the purpose of this Act.
 
-(4) The Deputy Registrar General, Registrars, Deputy Registrars  and  Assistant  Registrars  shall  be  under  the direction  and  control  of  the  Registrar  General.
+(3) The Registrar General shall have the powers and exercise the functions conferred on him by this Act, and in his absence such powers and functions may be had or exercised by the Deputy Registrar General.
 
-(5) The Deputy Registrar General, Registrars, Deputy Registars  and  Assistant  Registrars  may  exercise  all  the powers and functions conferred on the Registrar General by or under this  Act,  subject  to  any  restriction  that  may be  imposed  by  the  Registrar  General.
+(4) The Deputy Registrar General, Registrars, Deputy Registrars and Assistant Registrars shall be under the direction and control of the Registrar General.
 
-4. (1) The  Minister  may,  from  time  to  time,  give  an officer appointed under this Part directions of a general character,  not  inconsistent  with  the  provisions  of  this Act,  as  to  the  exercise  of  the  powers  and  discretion conferred on and the duties required to be discharged by, the  officer  under  this  Act.
+(5) The Deputy Registrar General, Registrars, Deputy Registrars and Assistant Registrars may exercise all the powers and functions conferred on the Registrar General by or under this Act, subject to any restriction that may be imposed by the Registrar General.
 
-(2) The directions given under subsection (1) may be in  relation  to  a  matter  which  appears  to  the  Minister  to affect  the  national  policies,  strategies  and  guidelines  on higher education formulated and determined by the National Council on Higher Education established under the National Council  on  Higher  Education  Act  1996.
+##### Power of Minister to issue general directions.
+
+4. (1) The Minister may, from time to time, give an officer appointed under this Part directions of a general character, not inconsistent with the provisions of this Act, as to the exercise of the powers and discretion conferred on and the duties required to be discharged by, the officer under this Act.
+
+(2) The directions given under subsection (1) may be in relation to a matter which appears to the Minister to affect the national policies, strategies and guidelines on higher education formulated and determined by the National Council on Higher Education established under the National Council on Higher Education Act 1996.
 
 [[END OF PAGE 12]]
 
@@ -523,35 +524,35 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 13
 
-(3) An  officer  to  whom  directions  have  been  given under this section shall give effect to every such direction.
+(3) An officer to whom directions have been given under this section shall give effect to every such direction.
 
-5. The  Minister  may,  from  time  to  time,  give  a  board of  directors, a  chief  executive  or  an  employee  of  a private higher  educational institution directions, not inconsistent  with  the  provisions  of  this  Act,  in  relation to  a matter in respect of which regulations may be made under this Act, and such board of directors, chief executive or  employee  shall  give  effect  to  every  such  direction.
+##### Power of Minister to issue special directions.
+
+5. The Minister may, from time to time, give a board of directors, a chief executive or an employee of a private higher educational institution directions, not inconsistent with the provisions of this Act, in relation to a matter in respect of which regulations may be made under this Act, and such board of directors, chief executive or employee shall give effect to every such direction.
 
 ### PART III
 
-#### ESTABLISHMENT  OF PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
+#### ESTABLISHMENT OF PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-6. (1) The  prior approval of  the Minister shall  be obtained  before  a  private  higher  educational  institution may be  established  or  maintained.
+##### Application for approval.
 
-(2) An  application  for  an  approval  under  this  Part shall  be  made  to  the  Registrar  General-
+6. (1) The prior approval of the Minister shall be obtained before a private higher educational institution may be established or maintained.
 
-(a) on  the  prescribed  form  and  in  the  prescribed manner;
+(2) An application for an approval under this Part shall be made to the Registrar General—
 
-(b) accompanied  by  a  prescribed  fee;
+(a) on the prescribed form and in the prescribed manner;
 
-(c) by  submitting  together  with  the  application-
+(b) accompanied by a prescribed fee;
 
-(i) a comprehensive plan for the proper establishment  and  maintenance of  the proposed private higher educational institution;
+(c) by submitting together with the application—
 
-(ii)  a  copy  of the  draft  of the  constitution  of the  proposed  private  higher  educational institution;  and
+(i) a comprehensive plan for the proper establishment and maintenance of the proposed private higher educational institution;
 
-(iii)  if  the  applicant-
+(ii) a copy of the draft of the constitution of the proposed private higher educational institution; and
 
-(aa) is  a natural person,  a report of his financial  standing  by  his  bankers; or
+(iii) if the applicant—
 
-##### Power  of Minister  to issue  special directions.
-
-##### Application for  approval.
+(aa) is a natural person, a report of his financial standing by his bankers; or
 
 [[END OF PAGE 13]]
 
@@ -561,27 +562,27 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-(bb) is  not  a  natural  person-
+(bb) is not a natural person—
 
-(A) a  copy  of the  memorandum and articles of association or other constituent documents under which the  applicant  is established,  duly verified by a statutory declaration made by  an  authorised  officer  of the  applicant;  and
+(A) a copy of the memorandum and articles of association or other constituent documents under which the applicant is established, duly verified by a statutory declaration made by an authorised officer of the applicant; and
 
-(B) a  copy  of  the  latest  audited balance sheet, profit and loss account  and  the  reports,  if any,  of the  auditors  and  the directors of the  applicant,  if applicable;  and
+(B) a copy of the latest audited balance sheet, profit and loss account and the reports, if any, of the auditors and the directors of the applicant, if applicable; and
 
-(d) such other information, particulars or documents as  may  be  requested  by  the  Registrar  General for  the  purpose  of determining  the  application and  the  suitability  of  the  applicant.
+(d) such other information, particulars or documents as may be requested by the Registrar General for the purpose of determining the application and the suitability of the applicant.
 
-(3) At  any  time  after  receiving  the  application  and before  it  is  determined  by  the  Minister,  the  Registrar General  may  by  written  notice  require  the  applicant  to provide additional information, particulars or documents.
+(3) At any time after receiving the application and before it is determined by the Minister, the Registrar General may by written notice require the applicant to provide additional information, particulars or documents.
 
-(4) The  matters  specified  under  subsection  (2)  and the requirement under subsection (3) may differ as between different applicants, classes, categories or descriptions  of  applicants.
+(4) The matters specified under subsection (2) and the requirement under subsection (3) may differ as between different applicants, classes, categories or descriptions of applicants.
 
-(5) An application under this section may be withdrawn at  any  time  before  it  is  granted  or  refused.
+(5) An application under this section may be withdrawn at any time before it is granted or refused.
 
-(6) Where additional information, particulars or documents  required under paragraph (2) (d) or  subsection (3)  is  not  provided  by  the  applicant  within  the  time specified in the requirement  or an extension  thereof,  the application-
+(6) Where additional information, particulars or documents required under paragraph (2)(d) or subsection (3) is not provided by the applicant within the time specified in the requirement or an extension thereof, the application—
 
-(a) shall  be  deemed  to  have  been  withdrawn;  and
+(a) shall be deemed to have been withdrawn; and
 
-(b) shall  not  be  further  proceeded  with,
+(b) shall not be further proceeded with,
 
-without  prejudice  to  a  fresh  application  being  made  by the  applicant.
+without prejudice to a fresh application being made by the applicant.
 
 [[END OF PAGE 14]]
 
@@ -591,35 +592,35 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 15
 
-7. Without  prejudice  to  section  6,  an  applicant  shall disclose  or  furnish  in  his  or  its  application  information in respect of-
+##### Other interest to be disclosed by applicant.
 
-(a) any other approval that has been granted to him or  it  under  this  Act;
+7. Without prejudice to section 6, an applicant shall disclose or furnish in his or its application information in respect of—
 
-(b) any  financial  interest  whatsoever  which  he  or it  has  in  the  business  of  any  other  person  or company  which  provides  or  manages  a  higher educational institution whether within or outside Malaysia;
+(a) any other approval that has been granted to him or it under this Act;
 
-(c) any interest or right which any other person has in  his  or  its  business  and  in  the  case  of  an applicant being a company, any right which any other person has to nominate any director of the company;
+(b) any financial interest whatsoever which he or it has in the business of any other person or company which provides or manages a higher educational institution whether within or outside Malaysia;
 
-(d) his  or  its  other  business  concerns;  and
+(c) any interest or right which any other person has in his or its business and in the case of an applicant being a company, any right which any other person has to nominate any director of the company;
 
-(e) any financial interest whatsoever or right which any  other  person  or  company  has  in  his  or  its other  business  concerns.
+(d) his or its other business concerns; and
 
-8. The Registrar General shall, on an application having been duly made in accordance with sections 6 and 7, and after being provided with all such information, particulars and documents as he may require under those sections-
+(e) any financial interest whatsoever or right which any other person or company has in his or its other business concerns.
+
+##### Registrar General to make recommendation to Minister.
+
+8. The Registrar General shall, on an application having been duly made in accordance with sections 6 and 7, and after being provided with all such information, particulars and documents as he may require under those sections—
 
 (a) take the necessary action to vet the application;
 
-(b) approve  the  constitution;  and
+(b) approve the constitution; and
 
-(c) make  a  recommendation  to  the  Minister  on whether  the  approval  should  be  granted  or refused and the conditions, if any, to be imposed by  the  Minister.
+(c) make a recommendation to the Minister on whether the approval should be granted or refused and the conditions, if any, to be imposed by the Minister.
 
-9. The Registrar General may refuse to proceed with an application,  and  may  require  that  the  application  be appropriately  amended  or completed  and resubmitted  or that  a  fresh  application  be  submitted  in  its  place  if-
+##### Registrar General may refuse to proceed with application.
 
-(a) the  application  form  as  prescribed  is  not  duly completed  by  reason of  any omission or misdescription:
+9. The Registrar General may refuse to proceed with an application, and may require that the application be appropriately amended or completed and resubmitted or that a fresh application be submitted in its place if—
 
-##### Other interest  to be  disclosed by  applicant.
-
-##### Registrar General  to make recommendation  to Minister.
-
-##### Registrar General may refuse to proceed  with application.
+(a) the application form as prescribed is not duly completed by reason of any omission or misdescription:
 
 [[END OF PAGE 15]]
 
@@ -629,32 +630,33 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-##### Approval shall  not  be granted unless Minister  is satisfied.
+(b) the application form contains any error or alteration; or
 
-(b) the application form contains any error or alteration;  or
+(c) the application does not comply with any other prescribed requirement.
 
-(c) the application does not comply with any other prescribed  requirement.
+##### Grant or refusal of application by Minister.
 
-##### Grant  or refusal of application by  Minister.
-10. (1) Upon  receiving and  having considered the recommendation  of the Registrar General  under  section 8,  the  Minister
+10. (1) Upon receiving and having considered the recommendation of the Registrar General under section 8, the Minister—
 
-(a) may  grant  the  approval  for  the  establishment of a private higher educational institution, with or  without  conditions;  or
+(a) may grant the approval for the establishment of a private higher educational institution, with or without conditions; or
 
-(b) may  refuse  the  application  without  assigning any  reason  for  such  refusal.
+(b) may refuse the application without assigning any reason for such refusal.
 
-(2) Where  the  Minister  refuses  an  application  the Registrar General  shall notify the applicant in writing of the refusal.
+(2) Where the Minister refuses an application the Registrar General shall notify the applicant in writing of the refusal.
 
 (3) The Minister may, in granting an approval under subsection (1), require the applicant to pay the prescribed fee.
 
-(4) The  decision  of  the  Minister  under  this  section shall  be  final.
+(4) The decision of the Minister under this section shall be final.
 
-11. An  approval  for  the establishment  of  a  private higher  educational  institution  shall  not  be  given  unless the  Minister  is  satisfied  that-
+##### Approval shall not be granted unless Minister is satisfied.
 
-(a) the  applicant  is  capable  of providing  adequate educational  facilities  for  the  establishment  of the  private  higher  educational  institution;
+11. An approval for the establishment of a private higher educational institution shall not be given unless the Minister is satisfied that—
 
-(b) the  applicant  is  capable  of providing  adequate and  efficient  management  and  administration for  the  proper  conduct  of  the  private  higher educational  institution;
+(a) the applicant is capable of providing adequate educational facilities for the establishment of the private higher educational institution;
 
-(c) adequate measures have been taken to determine and maintain the standards of education provided by  the  private  higher  educational  institution;
+(b) the applicant is capable of providing adequate and efficient management and administration for the proper conduct of the private higher educational institution;
+
+(c) adequate measures have been taken to determine and maintain the standards of education provided by the private higher educational institution;
 
 [[END OF PAGE 16]]
 
@@ -664,27 +666,27 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 17
 
-(d) there is established a proper system of governance of  the private higher  educational institution with  a  constitution  that  shall  be  approved  by the  Registrar  General;
+(d) there is established a proper system of governance of the private higher educational institution with a constitution that shall be approved by the Registrar General;
 
-(e) unless  the  applicant  is  not  himself  nor  is  any member  or  partner  thereof  a  person  convicted of  an  offence  involving  fraud  or  dishonesty  or an undischarged bankrupt,  if the application is made  respectively  by  a  person  or  a  body  of persons  or  a  firm;  and
+(e) unless the applicant is not himself nor is any member or partner thereof a person convicted of an offence involving fraud or dishonesty or an undischarged bankrupt, if the application is made respectively by a person or a body of persons or a firm; and
 
-(f) unless  no  one  who  has  been  convicted  of  an offence  involving  fraud  or  dishonesty  or  who is  an  undischarged  bankrupt-
+(f) unless no one who has been convicted of an offence involving fraud or dishonesty or who is an undischarged bankrupt—
 
-(i)  is  holding  office  as  director,  manager  or secretary or other similar office or position, if the application is made by a company; or
+(i) is holding office as director, manager or secretary or other similar office or position, if the application is made by a company; or
 
-(ii)  is  holding  office  as  president,  secretary or treasurer or other similar office or position,  if the  application  is  made  by  a society.
+(ii) is holding office as president, secretary or treasurer or other similar office or position, if the application is made by a society.
 
-12. (1) Upon approval  being  granted,  if the  successful applicant  is  not  a  locally  incorporated  company,  the applicant  shall,  within  one  year  from  being  notified  of the  approval,  incorporate  a  company  locally-
+##### Applicant to incorporate company locally.
 
-(a) having issued and paid up capital of an amount, as  may  be  determined  by  the  Minister;
+12. (1) Upon approval being granted, if the successful applicant is not a locally incorporated company, the applicant shall, within one year from being notified of the approval, incorporate a company locally—
 
-(b) subject to such terms and conditions with respect to  equity  participation  and  composition  of the board of directors, as may be determined by the Minister;  and
+(a) having issued and paid up capital of an amount, as may be determined by the Minister;
 
-(c) with the sole object of establishing and managing private higher educational institutions stated in the  memorandum  and  articles  of association.
+(b) subject to such terms and conditions with respect to equity participation and composition of the board of directors, as may be determined by the Minister; and
 
-(2) The prior approval of the Registrar General on the proposed memorandum and articles of association of the company shall be obtained before an application is made for  the  incorporation  of  the  company.
+(c) with the sole object of establishing and managing private higher educational institutions stated in the memorandum and articles of association.
 
-##### Applicant  to incorporate company locally.
+(2) The prior approval of the Registrar General on the proposed memorandum and articles of association of the company shall be obtained before an application is made for the incorporation of the company.
 
 [[END OF PAGE 17]]
 
@@ -694,45 +696,45 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-##### Similar conditions  to be  imposed on  company.
+(3) If the applicant fails to incorporate locally a company within the time specified in subsection (1), the approval granted for the establishment of a private higher educational institution shall be deemed to have been withdrawn unless an extension of time is granted by the Registrar General.
 
-##### Reference  to company.
-
-##### Approval  for change  or alteration  in respect  of company.
-
-##### Notification of  change  in address.
-
-##### Information requested  by Registrar General.
-
-(3) If  the applicant fails to incorporate locally a company within the time  specified in  subsection  (1), the approval  granted for the establishment  of  a  private higher  educational  institution  shall  be  deemed  to  have been  withdrawn  unless  an  extension  of time  is  granted by  the  Registrar  General.
-
-- Notwithstanding paragraph (l) (b), if the  applicant is  a  natural  person,  he  shall  at  all  times-
+(4) Notwithstanding paragraph (1)(b), if the applicant is a natural person, he shall at all times—
 
 (a) have a controlling interest in the company; and
 
 (b) hold such percentage of the voting shares in the company as may be determined by the Minister.
 
-13. Similar conditions as in paragraphs I2(l) (a), (b) and (c) may be  imposed on  a company to which an approval under  this  Part  is  granted.
+##### Similar conditions to be imposed on company.
 
-14. For  the  purposes of  sections 15, 16  and 17,  a reference to a company shall be a reference to a company to  which  an  approval  under  this  Part  is  granted  and  a company  established  under  section  12.
+13. Similar conditions as in paragraphs 12(1)(a), (b) and (c) may be imposed on a company to which an approval under this Part is granted.
 
-15. Unless  prior  approval  from  the  Registrar  General has been obtained, a company shall not change or alter-
+##### Reference to company.
 
-(a) its  name;
+14. For the purposes of sections 15, 16 and 17, a reference to a company shall be a reference to a company to which an approval under this Part is granted and a company established under section 12.
 
-(b) its  issued  and  paid  up  capital;
+##### Approval for change or alteration in respect of company.
 
-(c) its  equity  participation;
+15. Unless prior approval from the Registrar General has been obtained, a company shall not change or alter—
 
-(d) the  composition  of its  board  of  directors;  and
+(a) its name;
 
-(e) its  memorandum  and  articles  of  association.
+(b) its issued and paid up capital;
 
-16. A company shall notify the Registrar General of any change  in  its  business  address,  within  fourteen  days  of the  change.
+(c) its equity participation;
 
-17. It  shall  be  the  duty  of  every  company  to  supply when  so  requested  by  the  Registrar  General,  within  a period  as  may  be  determined  by  him,  particulars-
+(d) the composition of its board of directors; and
 
-(a) of any  financial  interest whatsoever which any other person has in the business of the company or  the  right  which  any  other  person  has  tonominate  any  director  of  the  company;  and
+(e) its memorandum and articles of association.
+
+##### Notification of change in address.
+
+16. A company shall notify the Registrar General of any change in its business address, within fourteen days of the change.
+
+##### Information requested by Registrar General.
+
+17. It shall be the duty of every company to supply when so requested by the Registrar General, within a period as may be determined by him, particulars—
+
+(a) of any financial interest whatsoever which any other person has in the business of the company or the right which any other person has to nominate any director of the company; and
 
 [[END OF PAGE 18]]
 
@@ -742,33 +744,33 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 19
 
-(b) of any interest or right which the  company has in  the  business  of  any  other  person  whether relating  to  education  or  otherwise.
+(b) of any interest or right which the company has in the business of any other person whether relating to education or otherwise.
 
-18. (1) The  prior  approval  of  the  Minister  shall  be obtained  before  a  private  higher  educational  institution establishes a branch or affiliates, associates or collaborates with other higher educational institutions, whether private or  public.
+##### Establishment of branch of, or affiliation, etc. with other, private higher educational institutions.
 
-(2) An  application  for  an  approval  under  subsection (1)  shall  be  made  to  the  Registrar  General-
+18. (1) The prior approval of the Minister shall be obtained before a private higher educational institution establishes a branch or affiliates, associates or collaborates with other higher educational institutions, whether private or public.
 
-(a) on  the  prescribed  form  and  in  the  prescribed manner;  and
+(2) An application for an approval under subsection (1) shall be made to the Registrar General—
 
-(b) accompanied  by  the  prescribed  fee.
+(a) on the prescribed form and in the prescribed manner; and
 
-(3) At  any  time  after  receiving  the  application  and before  it  is  determined  by  the  Minister,  the  Registrar General may  by written notice require additional information,  particulars  or  documents.
+(b) accompanied by the prescribed fee.
 
-(4) Where  the  additional  information,  particulars  or documents  required  under  subsection  (3)  is  or  are  not provided within the time specified in the requirement or any  extension  thereof,  the  application-
+(3) At any time after receiving the application and before it is determined by the Minister, the Registrar General may by written notice require additional information, particulars or documents.
 
-(a) shall  be  deemed to have been  withdrawn;  and
+(4) Where the additional information, particulars or documents required under subsection (3) is or are not provided within the time specified in the requirement or any extension thereof, the application—
 
-(b) shall  not  be  proceeded  with,
+(a) shall be deemed to have been withdrawn; and
 
-without  prejudice  to  a  fresh  application  being  made  by the  applicant.
+(b) shall not be proceeded with,
 
-(5) The  Registrar General  shall,  upon  an  application having been duly made under this section and after being provided with all the information, particulars and documents he  may  require  under  subsection  (4)-
+without prejudice to a fresh application being made by the applicant.
 
-(a) take the  necessary action to consider  the application;  and
+(5) The Registrar General shall, upon an application having been duly made under this section and after being provided with all the information, particulars and documents he may require under subsection (4)—
 
-(b) make a recommendation to the Minister whether the  application  should  be  granted  or  refused and the conditions, if any, to be imposed by the Minister.
+(a) take the necessary action to consider the application; and
 
-##### Establishment of  branch  of, or affiliation, etc. with other,  private higher educational institutions.
+(b) make a recommendation to the Minister whether the application should be granted or refused and the conditions, if any, to be imposed by the Minister.
 
 [[END OF PAGE 19]]
 
@@ -778,39 +780,39 @@ without  prejudice  to  a  fresh  application  being  made  by the  applicant.
 
 BILL
 
-##### Prior approval  of Minister  on arrangement or  agreement.
+(6) Upon receiving and having considered the recommendation of the Registrar General, the Minister—
 
-(6) Upon  receiving and having considered the recommendation of the Registrar General, the Minister-
+(a) may grant the approval under subsection (1), with or without conditions; or
 
-(a) may  grant  the  approval  under  subsection  (1), with  or  without  conditions;  or
+(b) may refuse the application without assigning any reason for such refusal.
 
-(b) may  refuse  the  application  without  assigning any  reason  for  such  refusal.
+(7) Where the Minister refuses the application, the Registrar General shall notify the applicant in writing of the refusal.
 
-(7) Where  the  Minister  refuses  the  application,  the Registrar General shall notify the applicant in writing of the  refusal.
+(8) The Minister may, in granting an approval under paragraph (6)(a), require the private higher educational institution to pay such amount of fees as may be prescribed.
 
-(8) The Minister may, in granting  an  approval under paragraph  (6) (a), require  the  private  higher  educational institution to pay such amount of fees as may be prescribed.
+(9) The decision of the Minister under this section shall be final.
 
-(9) The  decision  of  the  Minister  under  this  section shall  be  final.
+##### Prior approval of Minister on arrangement or agreement.
 
-19. (1) A  private  higher  educational  institution  shall not  enter  into  an  arrangement  or  agreement-
+19. (1) A private higher educational institution shall not enter into an arrangement or agreement—
 
-(a) to  sell,  dispose  of  or  to  reconstruct;  or
+(a) to sell, dispose of or to reconstruct; or
 
-(b) to  take  any  action  which  will  affect  in  any material  respect,
+(b) to take any action which will affect in any material respect,
 
-its business relating to education either by amalgamation or  otherwise,  unless  approved  by  the  Minister.
+its business relating to education either by amalgamation or otherwise, unless approved by the Minister.
 
-(2) An  application  for  an  approval  under  subsection (1)  shall  be  made  to  the  Registrar  General-
+(2) An application for an approval under subsection (1) shall be made to the Registrar General—
 
-(a) on  the  prescribed  form  and  in  the  prescribed manner;
+(a) on the prescribed form and in the prescribed manner;
 
-(b) accompanied  by  the  prescribed  fee;  and
+(b) accompanied by the prescribed fee; and
 
-(c) by  submitting  together  with  the  application-
+(c) by submitting together with the application—
 
-(i)  a  copy  of  the  proposed  agreement  or arrangement;  and
+(i) a copy of the proposed agreement or arrangement; and
 
-(ii)  all other information, particulars  and documents  as  may be  related  directly  or indirectly to the agreement or arrangement or  relevant  to  its  consideration.
+(ii) all other information, particulars and documents as may be related directly or indirectly to the agreement or arrangement or relevant to its consideration.
 
 [[END OF PAGE 20]]
 
@@ -820,34 +822,33 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 21
 
-(3) At  any  time  after  receiving  an  application  and before  it  is  determined  by  the  Minister,  the  Registrar General may by written notice, require additional information,  particulars  or  documents.
+(3) At any time after receiving an application and before it is determined by the Minister, the Registrar General may by written notice, require additional information, particulars or documents.
 
-(4) Where  any  additional  information,  particulars  or documents  required  under  subsection  (3)  is  or  are  not provided within the time  specified in the requirement or any  extension  thereof,  the  application-
+(4) Where any additional information, particulars or documents required under subsection (3) is or are not provided within the time specified in the requirement or any extension thereof, the application—
 
-(a) shall  be  deemed  to  have  been  withdrawn;  and
+(a) shall be deemed to have been withdrawn; and
 
-(b) shall  not  be  further  proceeded  with,
+(b) shall not be further proceeded with,
 
-without  prejudice  to  a  fresh  application  being  made  by the  applicant.
+without prejudice to a fresh application being made by the applicant.
 
-(5) The  Registrar  General  shall,  on  an  application having been duly made under this section and after being provided with all such information, particulars and documents  as  he  may  require  under  subsection  (3)-
+(5) The Registrar General shall, on an application having been duly made under this section and after being provided with all such information, particulars and documents as he may require under subsection (3)—
 
-(a) take the necessary action to consider the application;  and
+(a) take the necessary action to consider the application; and
 
-(b) make recommendations to the Minister whether the  application-
+(b) make recommendations to the Minister whether the application—
 
-(i)  may  be  approved  or  refused;  and
+(i) may be approved or refused; and
 
-(ii)  as to the modifications, variations or conditions, if any, subject to which it may be  approved,
+(ii) as to the modifications, variations or conditions, if any, subject to which it may be approved,
 
-(6) Upon receiving and having considered the recommendations of the Registrar General, the Minister-
+(6) Upon receiving and having considered the recommendations of the Registrar General, the Minister—
 
-(a) may  approve  the  application  with  or  without any  modification,  variation  or  condition;  or
+(a) may approve the application with or without any modification, variation or condition; or
 
-(b) refuse  the  application  without  assigning  any reason  for  such  refusal.
+(b) refuse the application without assigning any reason for such refusal.
 
-(7) Where  the  Minister  refuses  the  application,  the Registrar General  shall  notify  the  applicant in  writing  of
-##### Minister  may vary conditions.
+(7) Where the Minister refuses the application, the Registrar General shall notify the applicant in writing of the refusal.
 
 [[END OF PAGE 21]]
 
@@ -857,37 +858,39 @@ without  prejudice  to  a  fresh  application  being  made  by the  applicant.
 
 BILL
 
-##### Establishment of University, University College  and branch campus.
+(8) The Minister may, in granting an approval under paragraph (6)(a), require the private higher educational institution to pay such amount of fees as may be prescribed.
 
-##### Application for establishment on  invitation.
+(9) The decision of the Minister under this section shall be final.
 
-(8) The Minister may,  in  granting  an  approval  under paragraph  (6X0),  require  the  private  higher  educational institution to pay such amount of fees as may be prescribed.
+##### Minister may vary conditions.
 
-(9) The  decision  of  the  Minister  under  this  section shall  be  final.
+20. The Minister may at any time—
 
-20. The  Minister  may  at  any  time(a)
+(a) vary, cancel, alter or add to any of the conditions under—
 
-- vary, cancel, alter or add to any of the conditions under-
+(i) paragraph 10(1)(a);
 
-(i)  paragraph  10(1)( a );
+(ii) paragraphs 12(1)(a), (b) and (4)(b);
 
-(ii) paragraphs 12(l) (a), (b) and  (4) (b);
+(iii) subsection 18(6); and
 
-(iii)  subsection  18(6);  and
+(iv) subsection 19(6); or
 
-(iv)  subsection  19(6);  or
-
-(b) impose  any  new  or  additional  condition  under the  provisions  set  out  in  paragraph (a), as  the Minister  may  deem  fit  for  carrying  out  the provisions  of this  Act.
+(b) impose any new or additional condition under the provisions set out in paragraph (a), as the Minister may deem fit for carrying out the provisions of this Act.
 
 ### PART IV
 
-#### ESTABLISHMENT  OF  A  PRIVATE  HIGHER AND  BRANCH  CAMPUS
+#### ESTABLISHMENT OF A PRIVATE HIGHER EDUCATIONAL INSTITUTION WITH THE STATUS OF A UNIVERSITY, UNIVERSITY COLLEGE AND BRANCH CAMPUS
 
-21. The prior approval  of the  Minister shall be  obtained for  the  establishment  of  a  private  higher  educational institution  with  the  status  of  a  University  or  University College  or  a  branch  campus  thereof or  a  branch  campus of  a  foreign  University  or  University  College.
+##### Establishment of University, University College and branch campus.
 
-22. (1)  An  application  for  an  approval  under  section  21 may be  made  to  the  Minister  on  his  invitation  to  do  so.
+21. The prior approval of the Minister shall be obtained for the establishment of a private higher educational institution with the status of a University or University College or a branch campus thereof or a branch campus of a foreign University or University College.
 
-(2) An  invitation  under  subsection  (1)  may  be  made to the proposed applicant, including to foreign Universities and  University  Colleges  and  foreign  branch  campuses, directly or through announcements in the media or otherwise.
+##### Application for establishment on invitation.
+
+22. (1) An application for an approval under section 21 may be made to the Minister on his invitation to do so.
+
+(2) An invitation under subsection (1) may be made to the proposed applicant, including to foreign Universities and University Colleges and foreign branch campuses, directly or through announcements in the media or otherwise.
 
 [[END OF PAGE 22]]
 
@@ -897,67 +900,67 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 23
 
-23. Except  as  is  expressly  provided  under  sections  21 and 22 all provisions  of this Act shall apply to a private higher educational institution with the status of a University or  University  College  or  a  branch  campus  thereof  or  a branch  campus  of  a  foreign  University  or  University College  established  under  this  Part.
+##### This Act shall apply in relation to University, University College or branch campus.
 
-### PART  V
+23. Except as is expressly provided under sections 21 and 22 all provisions of this Act shall apply to a private higher educational institution with the status of a University or University College or a branch campus thereof or a branch campus of a foreign University or University College established under this Part.
 
-#### REGISTRATION  OF  PRIVATE  HIGHER EDUCATIONAL  INSTITUTIONS
+### PART V
 
-24. (1) Every private higher educational institution shall be  registered  under  this  Part.
+#### REGISTRATION OF PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-(2) An  application  for  registration  shall  be  made  to the  Registrar  General-
+##### All private higher educational institutions to be registered.
 
-(a) within  five  years  from  the  date  of the  approval for the establishment  of  the  private  higher educational  institution  granted  under  Part  III;
+24. (1) Every private higher educational institution shall be registered under this Part.
 
-(b) on  the  prescribed  form  and  in  the  prescribed manner;
+(2) An application for registration shall be made to the Registrar General—
 
-(c) accompanied  by  the  prescribed  fee;  and
+(a) within five years from the date of the approval for the establishment of the private higher educational institution granted under Part III;
 
-(d) together with  a  comprehensive fee  structure to be  imposed  on  students  with  respect  to  each course  of  study.
+(b) on the prescribed form and in the prescribed manner;
 
-(3) If the private higher educational  institution is  not registered  within  the  time  specified  in  paragraph  (2) (a), the  approval  granted  for its  establishment under Part III shall  be  deemed  to  have  been  withdrawn  unless  an extension  of  time  is  granted  by  the  Minister.
+(c) accompanied by the prescribed fee; and
 
-(4) At  any  time  after  receiving  the  application  for registration  and  before  it  is  determined,  the  Registrar General may by written notice require the private higher educational institution to provide additional information, particulars  or  documents.
+(d) together with a comprehensive fee structure to be imposed on students with respect to each course of study.
 
-(5) The  requirement under  subsection  (4)  may  differ as between different descriptions of private higher educational  institutions.
+(3) If the private higher educational institution is not registered within the time specified in paragraph (2)(a), the approval granted for its establishment under Part III shall be deemed to have been withdrawn unless an extension of time is granted by the Minister.
 
-##### This  Act shall  apply in  relation  to University, University College  or branch campus.
+(4) At any time after receiving the application for registration and before it is determined, the Registrar General may by written notice require the private higher educational institution to provide additional information, particulars or documents.
 
-##### All  private higher educational institutions  to be  registered.
+(5) The requirement under subsection (4) may differ as between different descriptions of private higher educational institutions.
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-BILL
-
 24
 
-(6) An application for registration may be withdrawn at  any  time  before  it  is  granted  or  refused.
+BILL
 
-(7) Subject to subsection (3), where additional information,  particulars  or  documents  required  under subsection  (4)  is  or  are  not  provided  within  the  time specified in the requirement or an extension  thereof,  the application-
+(6) An application for registration may be withdrawn at any time before it is granted or refused.
 
-(a) shall  be  deemed to have  been  withdrawn;  and
+(7) Subject to subsection (3), where additional information, particulars or documents required under subsection (4) is or are not provided within the time specified in the requirement or an extension thereof, the application—
 
-(b) shall  not  be  further  proceeded  with,
+(a) shall be deemed to have been withdrawn; and
 
-without  prejudice  to  a  fresh  application  being  made  by the  private  higher  educational  institution.
+(b) shall not be further proceeded with,
 
-(8) The Registrar General may refuse to proceed with an  application,  and  may  require  that  the  application  be appropriately amended or completed and resubmitted or that  a  fresh  application  be  submitted  in  its  place  if-
+without prejudice to a fresh application being made by the private higher educational institution.
 
-(a) the  application  form  as  prescribed  is  not  duly completed  by reason of any omission or misdescription;
+(8) The Registrar General may refuse to proceed with an application, and may require that the application be appropriately amended or completed and resubmitted or that a fresh application be submitted in its place if—
 
-(b) the application form contains an error or alteration;  or
+(a) the application form as prescribed is not duly completed by reason of any omission or misdescription;
 
-(c) the application does not comply with any other prescribed  requirement.
+(b) the application form contains an error or alteration; or
 
-(9) The Registrar General may,  upon an application for  registration  having  been  duly  made  and  after  such investigation  as  he  may  think  necessary-
+(c) the application does not comply with any other prescribed requirement.
 
-(a) register and issue a certificate of registration to the  private  higher  educational  institution  upon payment  of  the  prescribed  fee;  or
+(9) The Registrar General may, upon an application for registration having been duly made and after such investigation as he may think necessary—
 
-(b) refuse  the  application.
+(a) register and issue a certificate of registration to the private higher educational institution upon payment of the prescribed fee; or
 
-(10) The Registrar General may impose any condition as  he  may  deem  necessary  upon  registration.
+(b) refuse the application.
+
+(10) The Registrar General may impose any condition as he may deem necessary upon registration.
 
 [[END OF PAGE 24]]
 
@@ -967,39 +970,39 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 25
 
-(11) A private higher educational institution aggrieved by  the  decision  of  the  Registrar  General-
+(11) A private higher educational institution aggrieved by the decision of the Registrar General—
 
-(a) refusing  the  application  for  registration;  or
+(a) refusing the application for registration; or
 
-(b) imposing  any condition under subsection  (10),
+(b) imposing any condition under subsection (10),
 
-may appeal to the Minister, within twenty-one days from being  notified  of  the  decision  appealed  against.
+may appeal to the Minister, within twenty-one days from being notified of the decision appealed against.
 
-(12) Where there is an appeal made under subsection (11),  the  Registrar  General  shall  prepare  and  submit  to the  Minister  the  grounds  of  his  decision.
+(12) Where there is an appeal made under subsection (11), the Registrar General shall prepare and submit to the Minister the grounds of his decision.
 
-25. (1) The  Registrar  General  shall  keep  or  cause  to be kept a register of private higher educational institutions in  such  form  and  manner  as  may  be  prescribed.
+##### Register of private higher educational institutions.
 
-- The  public  may  make  a  search  on  the  register upon  payment  of  a  prescribed  fee.
+25. (1) The Registrar General shall keep or cause to be kept a register of private higher educational institutions in such form and manner as may be prescribed.
 
-26. (1) For the  purposes  of this  Part,  a  private  higher educational institution shall be identified by the premises used  for  its  purpose.
+(2) The public may make a search on the register upon payment of a prescribed fee.
 
-(2) A  copy  of  the  certificate  of  registration  issued under  paragraph  24(9) (a) shall  be  kept  exhibited  in  a conspicuous  part  of  the  premises  of  the  private  higher educational  institution.
+##### Certificate of registration to be exhibited.
 
-27. The  Registrar  General  may  refuse  to  register  a private higher educational institution if he  is  satisfied-
+26. (1) For the purposes of this Part, a private higher educational institution shall be identified by the premises used for its purpose.
 
-(a) that the private higher educational institution or any  part  thereof, for  reasons of  safety  and health-
+(2) A copy of the certificate of registration issued under paragraph 24(9)(a) shall be kept exhibited in a conspicuous part of the premises of the private higher educational institution.
 
-(i)  is  unsuitable  for  use  as  an  educational institution;
+##### Refusal of registration.
 
-(ii)  has no adequate and satisfactory  area for the  recreation  of  the  students;
+27. The Registrar General may refuse to register a private higher educational institution if he is satisfied—
 
-(iii)  is  unsuitably  sited;
+(a) that the private higher educational institution or any part thereof, for reasons of safety and health—
 
-##### Register  of private higher educational institutions.
+(i) is unsuitable for use as an educational institution;
 
-##### Certificate  of registration to  be exhibited.
+(ii) has no adequate and satisfactory area for the recreation of the students;
 
-##### Refusal  of registration.
+(iii) is unsuitably sited;
 
 [[END OF PAGE 25]]
 
@@ -1009,31 +1012,31 @@ may appeal to the Minister, within twenty-one days from being  notified  of  the
 
 BILL
 
-##### Change  of premise.
+(iv) is unsuitable by reason of danger from fire; or
 
-##### Power  of Registrar General  to add,  vary, cancel  or alter conditions.
+(v) is otherwise a dangerous building;
 
-(iv)  is  unsuitable  by  reason  of  danger  from fire;  or
+(b) that the private higher educational institution is likely to be used for a purpose of providing education, instruction or training that the Registrar General, for any reason, deems detrimental to the interest of Malaysia, the public or the students;
 
-(v)  is  otherwise  a  dangerous  building;
+(c) that the name under which the private higher educational institution is to be registered is, in his opinion, undesirable; or
 
-(b) that the private higher educational institution is likely  to  be  used  for  a  purpose  of  providing education, instruction or training that the Registrar General,  for any  reason,  deems  detrimental  to the interest  of  Malaysia, the public or  the students;
+(d) that the fee structure proposed for the students is unreasonable.
 
-(c) that  the  name  under  which  the  private  higher educational institution is to be registered  is, in his  opinion,  undesirable;  or
+##### Change of premise.
 
-(d) that the  fee  structure proposed for the  students is  unreasonable.
+28. (1) A private higher educational institution shall not move premises without the prior approval of the Registrar General.
 
-28. (1) A  private  higher  educational  institution  shall not  move  premises  without  the  prior  approval  of  the Registrar  General.
+(2) An application for the registration of the new premises of a private higher educational institution shall be made to the Registrar General on the prescribed form, in the prescribed manner and upon payment of the prescribed fee.
 
-(2) An  application  for  the  registration  of  the  new premises of a private higher educational institution shall be made to the Registrar General on the prescribed form, in the  prescribed  manner  and  upon  payment  of  the prescribed  fee.
+(3) A private higher educational institution contravening subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-(3) A private higher educational institution contravening subsection  (1)  shall  be  guilty  of  an  offence  and  shall, on  corviction,  be  liable  to  a  fine  not  exceeding  fifty thousand  ringgit or to imprisonment  for  a  term  not exceeding  six  months  or  to  both.
+##### Power of Registrar General to add, vary, cancel or alter conditions.
 
-29. The Registrar General may, at any time, exercise his discretion  -
+29. The Registrar General may, at any time, exercise his discretion—
 
-(a) to add, vary, cancel or alter any of the conditions of  the  registration;  or
+(a) to add, vary, cancel or alter any of the conditions of the registration; or
 
-(b) to  impose  new  or additional  conditions  on  the registration.
+(b) to impose new or additional conditions on the registration.
 
 [[END OF PAGE 26]]
 
@@ -1048,33 +1051,34 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 #### MANAGEMENT  OF PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 ##### Constitution.
-(1) Subject  to  the  provisions  of  this  Act,  every private  higher  educational  institution  shall  be  managed in  strict  accordance  with  its  constitution.
 
-- The constitution shall not be amended without the prior  approval  of  the  Registrar  General.
+30. (1) Subject to the provisions of this Act, every private higher educational institution shall be managed in strict accordance with its constitution.
 
-(1) Every private higher educational institution shall appoint  a  chief  executive.
+(2) The constitution shall not be amended without the prior approval of the Registrar General.
 
-- A person  appointed  as  a chief executive  shall be registered  under  this  Part.
+##### Appointment and registration of chief executive.
 
-- The  Registrar  General  may  refuse  to  register  or cancel  the  registration  of  a  chief  executive-
+31. (1) Every private higher educational institution shall appoint a chief executive.
 
-(a) if there has been proved against him, or he has been  convicted  on,  a  charge  in  respect  of-
+(2) A person appointed as a chief executive shall be registered under this Part.
 
-(i)  an  offence  involving fraud,  dishonesty or moral  turpitude;
+(3) The Registrar General may refuse to register or cancel the registration of a chief executive—
 
-(ii)  an offence under a law relating to corruption;  or
+(a) if there has been proved against him, or he has been convicted on, a charge in respect of—
 
-(iii)  any other offence punishable with imprisonment (in itself only or in addition to  or  in  lieu  of a  fine)  for more  than  two years;
+(i) an offence involving fraud, dishonesty or moral turpitude;
 
-(b) if  he  is  or  he  becomes  a  bankrupt;
+(ii) an offence under a law relating to corruption; or
 
-(c) if he is of unsound mind or is otherwise incapable of  discharging  his  duties;
+(iii) any other offence punishable with imprisonment (in itself only or in addition to or in lieu of a fine) for more than two years;
 
-(d) if  he  acts  in  a  manner  which  is  detrimental  to the interest of  Malaysia, the public or  the students;  or
+(b) if he is or he becomes a bankrupt;
 
-(e) if  his appointment under subsection (1) is revoked, as  the  case  may  be.
+(c) if he is of unsound mind or is otherwise incapable of discharging his duties;
 
-##### Appointment and registration of  chief executive.
+(d) if he acts in a manner which is detrimental to the interest of Malaysia, the public or the students; or
+
+(e) if his appointment under subsection (1) is revoked, as the case may be.
 
 [[END OF PAGE 27]]
 
@@ -1084,41 +1088,41 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-##### Regulations on registration of  chief executive.
+##### Regulations on registration of chief executive.
 
-##### Duty  of  chief executive.
+32. Without prejudice to the generality of the powers of the Minister to make regulations, the Minister may make regulations as to the procedure on the registration of the chief executive and may prescribe the fee to be imposed for such registration.
 
-##### Application under  Act  to be  made  by chief executive.
+##### Duty of chief executive.
 
-##### Notice, requirement for information and  other communication to  be addressed  to chief executive.
+33. The chief executive shall, subject to the provisions of this Act and the constitution of the private higher educational institution, exercise general supervision over the arrangements for instruction, administration, day to day affairs, welfare and discipline in the private higher educational institution.
 
-##### Person  not eligible  to take  part  in the management of  private higher educational institution.
+##### Application under Act to be made by chief executive.
 
-32. Without  prejudice  to  the  generality  of  the  powers of  the  Minister  to  make  regulations,  the  Minister  may make regulations as to the procedure on the registration of  the  chief  executive  and  may  prescribe  the  fee  to  be imposed  for  such  registration.
+34. An application relating to and for the purposes of a private higher educational institution shall be made by the chief executive, unless otherwise provided.
 
-33. The  chief executive  shall,  subject  to  the  provisions of  this  Act  and  the  constitution  of  the  private  higher educational institution, exercise general supervision over the  arrangements  for  instruction,  administration,  day  to day  affairs,  welfare  and  discipline  in  the  private  higher educational  institution.
+##### Notice, requirement for information and other communication to be addressed to chief executive.
 
-34. An  application  relating  to  and  for  the  purposes  of a private higher educational institution shall be made by the  chief  executive,  unless  otherwise  provided.
+35. Where—
 
-35. Where-
+(a) a notice is required to be served on a private higher educational institution under this Act;
 
-(a) a  notice  is  required  to  be  served  on  a  private higher  educational  institution  under  this  Act;
+(b) any information is required to be furnished by a private higher educational institution under this Act; or
 
-(b) any  information  is  required  to  be  furnished  by a  private  higher  educational  institution  under this  Act;  or
+(c) any other communication is necessary between the Registrar General and the private higher educational institution,
 
-(c) any other communication is necessary between the  Registrar  General  and  the  private  higher educational  institution,
+it shall be addressed to the chief executive, unless otherwise provided.
 
-it shall be addressed  to the chief  executive, unless otherwise  provided.
+##### Person not eligible to take part in the management of private higher educational institution.
 
-36. No  person  who  has  been-
+36. No person who has been—
 
 (a) a member of the board of directors of a company establishing;
 
-(b) chief  executive  of;  or
+(b) chief executive of; or
 
-(c) directly  concerned  with  the  management  or business  of,
+(c) directly concerned with the management or business of,
 
-a  private  higher  educational  institution  which  has  been closed  down  shall  act  in  such  similar  capacity  with respect to another private higher educational institution, without  the  approval  of  the  Minister.
+a private higher educational institution which has been closed down shall act in such similar capacity with respect to another private higher educational institution, without the approval of the Minister.
 
 [[END OF PAGE 28]]
 
@@ -1128,29 +1132,29 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 29
 
-37. (1) In  addition  to  the  Registrar  General's  power under  subsection  31(3),  where  a  chief  executive-
+##### Power of Registrar General to deal with chief executive.
 
-(a) has been acting or is proposing to act unreasonably with respect to the exercise of the power  conferred  or  the  discharge  of  the  duty imposed  under  this  Act;  or
+37. (1) In addition to the Registrar General's power under subsection 31(3), where a chief executive—
 
-(b) has  failed  to  discharge  the  duty  imposed  upon him  under  this  Act,
+(a) has been acting or is proposing to act unreasonably with respect to the exercise of the power conferred or the discharge of the duty imposed under this Act; or
 
-the Registrar General may after giving the chief executive an  opportunity  to  make  representations-
+(b) has failed to discharge the duty imposed upon him under this Act,
 
-(aa) give  the  chief  executive  directions  in  writing as to the exercise of his power or the discharge of his  duty  as  appear  to  the  Registrar  General to  be  expedient;  or
+the Registrar General may after giving the chief executive an opportunity to make representations—
 
-(bb) cancel  the  registration  of  the  chief  executive.
+(aa) give the chief executive directions in writing as to the exercise of his power or the discharge of his duty as appear to the Registrar General to be expedient; or
 
-(2) The Registrar General shall give the chief executive written  notice  of his  decision  to  cancel  the  registration of  the  chief  executive  under  subparagraph  (l) (bb) and the  decision  shall  take  effect  from  the  date  on  which the written  notice  is  served  on  the  chief  executive.
+(bb) cancel the registration of the chief executive.
 
-(3) Where  a  chief  executive  is aggrieved  by  the decision  of  the  Registrar  General  under  subparagraph (l) (bb) he  may,  within twenty-one  days  from the  service of  such  decision,  appeal  to  the  Minister.
+(2) The Registrar General shall give the chief executive written notice of his decision to cancel the registration of the chief executive under subparagraph (1)(bb) and the decision shall take effect from the date on which the written notice is served on the chief executive.
 
-(4) If  at  any  time,  for  a  private  higher  educational institution,  there  is  no  chief executive  appointed  under this  Act  the  Registrar  General  may  for  a  temporary period appoint any person to be the chief executive until the  private  higher  educational  institution  appoints  its own  chief  executive.
+(3) Where a chief executive is aggrieved by the decision of the Registrar General under subparagraph (1)(bb) he may, within twenty-one days from the service of such decision, appeal to the Minister.
 
-(5) The  temporary  period  under  subsection  (4)  shall not be more  than three  months  and  the  person so appointed-
+(4) If at any time, for a private higher educational institution, there is no chief executive appointed under this Act the Registrar General may for a temporary period appoint any person to be the chief executive until the private higher educational institution appoints its own chief executive.
 
-(a) need  not  be  registered;  and
+(5) The temporary period under subsection (4) shall not be more than three months and the person so appointed—
 
-##### Power  of Registrar General  to deal  with chief executive.
+(a) need not be registered; and
 
 [[END OF PAGE 29]]
 
@@ -1160,31 +1164,31 @@ the Registrar General may after giving the chief executive an  opportunity  to  
 
 BILL
 
-##### Prior approval  of Minister  on course  of study  and affiliation, etc.
+(b) shall have his salaries and remuneration paid by the private higher educational institution, in an amount as may be determined by the Registrar General.
 
-##### Authority  to determine adequacy  of educational facilities  and quality assurance  of course  of study.
-
-(b) shall  have  his  salaries  and  remuneration  paid by the private higher educational institution, in an amount as may be determined by the Registrar General.
-
-(6) Where  after  the  temporary  period  in  subsection (4)  expires,  the  private  higher  educational  institution fails  to  appoint  a chief executive, the registration of the private  higher  educational  institution  may  be  cancelled by  the  Registrar  General.
+(6) Where after the temporary period in subsection (4) expires, the private higher educational institution fails to appoint a chief executive, the registration of the private higher educational institution may be cancelled by the Registrar General.
 
 ### PART VII
 
-#### CONDUCT  OF  COURSES  OF  STUDY  AT  PRIVATE HIGHER  EDUCATIONAL  INSTITUTIONS
+#### CONDUCT OF COURSES OF STUDY AT PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-38. (1) The  prior  approval  of  the  Minister  shall  be obtained before a private higher educational institution-
+##### Prior approval of Minister on course of study and affiliation, etc.
 
-(a) may  conduct  a  course  of  study or  training programme;
+38. (1) The prior approval of the Minister shall be obtained before a private higher educational institution—
 
-(b) may  conduct  a  course  of  study  or  training programme jointly  or in affiliation,  association or collaboration with any University, University College, higher educational institution, whether public  or  private,  or professional  body,  within or  outside  Malaysia.
+(a) may conduct a course of study or training programme;
 
-(2) A  private  higher  educational  institution  which contravenes the provision of this  section  shall  be  guilty of an offence and shall, on conviction, be liable to a fine not  exceeding  two  hundred  thousand  ringgit or to imprisonment for a  term  not  exceeding  two  years  or  to both.
+(b) may conduct a course of study or training programme jointly or in affiliation, association or collaboration with any University, University College, higher educational institution, whether public or private, or professional body, within or outside Malaysia.
 
-39. The  Minister  shall  not  grant  his  approval  under section  38  unless  he  is  satisfied-
+(2) A private higher educational institution which contravenes the provision of this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-(a) with  the  suitability  of arrangements  relating  to the  educational  facilities;  and
+##### Authority to determine adequacy of educational facilities and quality assurance of course of study.
 
-(b) with  the  quality  assurance  of  the  courses  of study  or  training  programmes,
+39. The Minister shall not grant his approval under section 38 unless he is satisfied—
+
+(a) with the suitability of arrangements relating to the educational facilities; and
+
+(b) with the quality assurance of the courses of study or training programmes,
 
 [[END OF PAGE 30]]
 
@@ -1196,30 +1200,31 @@ PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
 based upon the recommendation of an authority established under  a  written  law  for  such  purpose.
 
-40. (1) When  granting  approval  under  this  Part,  the Minister  may  impose-
+##### Grant of approval subject to conditions.
 
-(a) conditions  as  he  deems  fit;  and
+40. (1) When granting approval under this Part, the Minister may impose—
 
-(b) a fee  as  may be  prescribed.
+(a) conditions as he deems fit; and
 
-(2) Where  a  private  higher  educational  institution contravenes conditions imposed under subsection (1), it shall  be  guilty  of  an  offence  and  shall,  on  conviction, be  liable  to  a  fine  not  exceeding  fifty  thousand  ringgit or to imprisonment for a term not exceeding six months or  to  both.
+(b) a fee as may be prescribed.
 
-41. (1) All private higher educational institutions shall conduct  its  courses  of  study  in  the  national  language.
-
-(2) Courses of study under subsection (1) shall include the  subjects  required  to  be  taught  under  section  43.
-
-(3) Notwithstanding subsection (1), the private higher educational  institution  may,  with  the  approval  of  the Minister-
-
-(a) conduct a course  of study  or a  substantial  part of  a  course  of  study  in  the  English  language; or
-
-(b) conduct  the  teaching  of  Islamic  religion  in Arabic.
-
-(4) If any course of study or a substantial part of any course of study in any private higher educational institution is  conducted  in  the  English  language  or  Arabic,  the national language shall be taught as a compulsory subject for the students following such course of study in such language.
-
-(5) In  the  case  of  students  referred  to  in  subsection (4)  who  are citizens  of Malaysia,  an  achievement in the national language, at a level determined by the authority
-##### Grant  of approval subject  to conditions.
+(2) Where a private higher educational institution contravenes conditions imposed under subsection (1), it shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
 ##### Medium of instruction.
+
+41. (1) All private higher educational institutions shall conduct its courses of study in the national language.
+
+(2) Courses of study under subsection (1) shall include the subjects required to be taught under section 43.
+
+(3) Notwithstanding subsection (1), the private higher educational institution may, with the approval of the Minister—
+
+(a) conduct a course of study or a substantial part of a course of study in the English language; or
+
+(b) conduct the teaching of Islamic religion in Arabic.
+
+(4) If any course of study or a substantial part of any course of study in any private higher educational institution is conducted in the English language or Arabic, the national language shall be taught as a compulsory subject for the students following such course of study in such language.
+
+(5) In the case of students referred to in subsection (4) who are citizens of Malaysia, an achievement in the national language, at a level determined by the authority
 
 [[END OF PAGE 31]]
 
@@ -1229,33 +1234,33 @@ based upon the recommendation of an authority established under  a  written  law
 
 BILL
 
-##### Power  of Minister  to direct  that national language  be used.
+referred to in section 39, shall be a prerequisite to the award of a certificate, diploma or degree of the private higher educational institution.
 
-##### subjects.
+##### Power of Minister to direct that national language be used.
 
-referred  to  in  section  39,  shall  be  a  prerequisite  to  the award of a certificate, diploma or degree of the private higher  educational  institution.
+42. (1) In respect of an approval granted by the Minister under subsection 38(1) the Minister may at any time thereafter direct that the national language be used to conduct such course of study.
 
-42. (1) In respect of an approval granted by the Minister under  subsection  38(1)  the  Minister  may  at  any  time thereafter  direct  that  the  national  language  be  used  to conduct  such  course  of  study,
+(2) The direction of the Minister under subsection (1)—
 
-(2)  The  direction  of  the  Minister  under  subsection (1)-
+(a) shall only apply to students who are citizens of Malaysia for the new intake of the private higher educational institution who have yet to follow such course of study; and
 
-(a) shall  only  apply  to  students  who  are  citizens of  Malaysia  for  the  new  intake  of  the  private higher  educational  institution  who  have  yet  to follow  such  course  of  study;  and
+(b) shall not apply to the other students following such course of study unless the Minister is satisfied that they will not be adversely affected.
 
-(b) shall  not  apply  to  the  other  students  following such  course  of  study  unless  the  Minister  is satisfied that they  will not be adversely affected.
+(3) The Minister may impose conditions on a private higher educational institution for the purpose of giving effect to his direction under subsection (1).
 
-(3)  The Minister may impose conditions on a private higher educational  institution  for  the  purpose  of giving effect  to  his  direction  under  subsection  (1).
+##### Compulsory subjects.
 
-43 . (1) All private higher educational institutions shall teach  the  following  subjects:
+43. (1) All private higher educational institutions shall teach the following subjects:
 
-(a) Malaysian  studies;
+(a) Malaysian studies;
 
-(b) studies relating to the teaching of Islamic religion for  students  professing  the  Islamic  religion; and
+(b) studies relating to the teaching of Islamic religion for students professing the Islamic religion; and
 
-(c) moral  education  for  non-Muslim  students.
+(c) moral education for non-Muslim students.
 
-(2) The  subjects  mentioned  in  paragraphs  (1) (a) to (c) shall be taught in addition to other subjects or courses of study taught in the private higher educational institutions.
+(2) The subjects mentioned in paragraphs (1)(a) to (c) shall be taught in addition to other subjects or courses of study taught in the private higher educational institutions.
 
-(3)  In the case of students who are citizens of  Malaysia, a  pass  in  the  subjects  specified  in  paragraphs (1) (a) to (c), at  a  level  determined  by  the  authority  referred  to in  section  39,  shall be a prerequisite to the  award of a certificate, diploma  or  degree of  the private  higher educational  institution.
+(3) In the case of students who are citizens of Malaysia, a pass in the subjects specified in paragraphs (1)(a) to (c), at a level determined by the authority referred to in section 39, shall be a prerequisite to the award of a certificate, diploma or degree of the private higher educational institution.
 
 [[END OF PAGE 32]]
 
@@ -1265,37 +1270,37 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 33
 
-44. (1) All certificates, diplomas  and  degrees of  a private higher educational institution shall only be awarded upon satisfying the minimum standards as determined by the  authority  referred  to  in  section  39.
+##### Minimum standard to be met before certificates, diplomas or degrees can be awarded.
 
-(2)  Notwithstanding any other provisions of this Act, only  a  private  higher  educational  institution  with  the status of a University or a University College or a branch campus  may  award  degrees.
+44. (1) All certificates, diplomas and degrees of a private higher educational institution shall only be awarded upon satisfying the minimum standards as determined by the authority referred to in section 39.
 
-45. The Minister may make regulations for the supervision, regulation  and  control  of  the  standard  of  education  in private  higher  educational  institutions  in  accordance with the minimum standards determined by the authority referred  to  in  section  39.
+(2) Notwithstanding any other provisions of this Act, only a private higher educational institution with the status of a University or a University College or a branch campus may award degrees.
 
-### PART  VIII
+##### Power of Minister to make regulations for supervision and control of standard of education.
 
-#### DISCIPLINE  AND  CONDUCT  OF  STUDENTS
+45. The Minister may make regulations for the supervision, regulation and control of the standard of education in private higher educational institutions in accordance with the minimum standards determined by the authority referred to in section 39.
 
-46. (1) The chief executive shall be responsible for the discipline and conduct of students  in the private higher educational  institution.
+### PART VIII
 
-(2) In  the  discharge  of  his  duties  under  subsection (1), the chief executive shall comply with and give effect to  directions  issued  by  the  Registrar General  from  time to  time  in  respect  of  the  discipline  and  conduct  of  the students  of  the  private  higher  educational  institution.
+#### DISCIPLINE AND CONDUCT OF STUDENTS
 
-47. (1) The  constitution  shall  contain  prohibitions-
+##### Disciplinary authority in respect of students.
 
-(a) on a person, while he is a student of the private higher  educational institution,  becoming  a member of, or in  any manner associating  with, a -society,  political  party,  trade  union  or  any other organisation, body or group of persons-
+46. (1) The chief executive shall be responsible for the discipline and conduct of students in the private higher educational institution.
 
-(i)  whether or not it is established under any law;
+(2) In the discharge of his duties under subsection (1), the chief executive shall comply with and give effect to directions issued by the Registrar General from time to time in respect of the discipline and conduct of the students of the private higher educational institution.
 
-(ii)  whether it is within or outside the private higher  educational  institution;  and
+##### Prohibition on student, students' organisation, body or group associating with societies, etc.
 
-(iii)  whether it is within or outside Malaysia;
+47. (1) The constitution shall contain prohibitions—
 
-##### Minimum standard  to be  met before certificates, diplomas  or degrees  can be  awarded.
+(a) on a person, while he is a student of the private higher educational institution, becoming a member of, or in any manner associating with, a society, political party, trade union or any other organisation, body or group of persons—
 
-##### Power  of Minister  to make regulations for supervision and  control of  standard of  education.
+(i) whether or not it is established under any law;
 
-##### Disciplinary authority  in respect  of students.
+(ii) whether it is within or outside the private higher educational institution; and
 
-##### Prohibition on  student, students' organisation, body  or group associating with societies, etc.
+(iii) whether it is within or outside Malaysia;
 
 [[END OF PAGE 33]]
 
@@ -1305,25 +1310,25 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-(b) on  an  organisation,  body  or  group  of  students of  the  private  higher  educational  institution, having any affiliation, association or other dealing whatsoever  with  any  society,  political  party, trade  union  or any  other organisation, body  or group  of  persons-
+(b) on an organisation, body or group of students of the private higher educational institution, having any affiliation, association or other dealing whatsoever with any society, political party, trade union or any other organisation, body or group of persons—
 
-(i)  whether or not it is established under any law;
+(i) whether or not it is established under any law;
 
-(ii)  whether it is within or outside the private higher  educational  institution;  and
+(ii) whether it is within or outside the private higher educational institution; and
 
-(iii)  whether it  is  within  or outside  Malaysia; and
+(iii) whether it is within or outside Malaysia; and
 
-(c) on  a person,  while he  is  a  student of a private higher educational institution, and an organisation,  body  or  group  of  students  of  a private higher educational institution expressing or doing anything which may be construed as-
+(c) on a person, while he is a student of a private higher educational institution, and an organisation, body or group of students of a private higher educational institution expressing or doing anything which may be construed as—
 
-(i)  expressing support, sympathy or opposition to  any  political party  or trade  union;  or
+(i) expressing support, sympathy or opposition to any political party or trade union; or
 
-(ii)  expressing support or sympathy with any unlawful  organisation,  body  or  group  of persons.
+(ii) expressing support or sympathy with any unlawful organisation, body or group of persons.
 
-(2) Where  at  any  time  the  constitution  does  not contain the provisions under subsection (1), the Registrar General may order the private higher educational institution to  include  such  provision  in  the  constitution.
+(2) Where at any time the constitution does not contain the provisions under subsection (1), the Registrar General may order the private higher educational institution to include such provision in the constitution.
 
-(3) Where  the  private  higher  educational  institution fails  to  comply  with  the  order  issued  by  the  Registrar General under subsection (2), the Registrar General may cancel  its  registration.
+(3) Where the private higher educational institution fails to comply with the order issued by the Registrar General under subsection (2), the Registrar General may cancel its registration.
 
-(4) A  student  who  contravenes  or  fails  to  comply with  the  provisions  of  the  constitution  required  to  be provided  for  in  the  constitution  under  subsection  (1), shall  be  guilty  of  an  offence  and  shall,  on  conviction, be  liable  to  a  fine  not  exceeding  one  thousand  ringgit.
+(4) A student who contravenes or fails to comply with the provisions of the constitution required to be provided for in the constitution under subsection (1), shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one thousand ringgit.
 
 [[END OF PAGE 34]]
 
@@ -1333,73 +1338,71 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 35
 
-(5) A private higher educational institution shall also be  liable  for  an  offence  under  subsection  (4)-
+(5) A private higher educational institution shall also be liable for an offence under subsection (4)—
 
-(a) for  not  observing  its  constitution;  and
+(a) for not observing its constitution; and
 
-(b) shall on  conviction  be  liable  to a  fine  not exceeding  ten  thousand  ringgit,
+(b) shall on conviction be liable to a fine not exceeding ten thousand ringgit,
 
-unless the private higher educational institution satisfies the  court-
+unless the private higher educational institution satisfies the court—
 
-(aa) that  the  offence  was  committed  without  its knowledge  or  connivance;  and
+(aa) that the offence was committed without its knowledge or connivance; and
 
-(bb) that it had exercised all due diligence to prevent the  commission  of  the  offence.
+(bb) that it had exercised all due diligence to prevent the commission of the offence.
 
-- The  conviction  of  a  private  higher  educational
+(6) The conviction of a private higher educational institution under subsection (5) shall be a ground for revoking the approval for its establishment.
 
-revoking  the  approval  for  its  establishment.
+##### Criminal liability of office-bearers, etc., of students' organisation, body or group.
 
-48. (1) Subsection (2) shall apply where an offence has been  committed  under  any  written  law-
+48. (1) Subsection (2) shall apply where an offence has been committed under any written law—
 
-(a) whether or not  any  person  has  been  convicted in  respect  thereof;  or
+(a) whether or not any person has been convicted in respect thereof; or
 
-(b) including where such offence has been committed or purports to have been committed in the name or on behalf of, any organisation, body or group of  students of a private higher  educational institution.
+(b) including where such offence has been committed or purports to have been committed in the name or on behalf of, any organisation, body or group of students of a private higher educational institution.
 
-(2) Every office-bearer of such organisation, body or group  and  every  person  managing  or  assisting  in  the management of such organisation, body or group  at the time  of  the  commission  of  such  offence-
+(2) Every office-bearer of such organisation, body or group and every person managing or assisting in the management of such organisation, body or group at the time of the commission of such offence—
 
-(a) shall  be  deemed  to  be  guilty  of  such  offence; and
+(a) shall be deemed to be guilty of such offence; and
 
 (b) shall be liable to the punishment prescribed by law,
 
-unless he satisfies the court that the offence was committed without his knowledge and that he had exercised all due diligence  to  prevent  the  commission  of  the  offence.
-
-##### Criminal liability  of office-bearers, etc., of  students' organisation, body  or group.
+unless he satisfies the court that the offence was committed without his knowledge and that he had exercised all due diligence to prevent the commission of the offence.
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
-BILL
-
-##### Power  of Registrar General  to issue direction  to suspend  or dissolve  any organisation, body  or group of students.
-
 36
 
-(3) An  office-bearer  of,  or  a  person  managing  or assisting  in  the  management  of,  an  organisation,  body or  group  referred  to  in  subsection  (2)  shall  be  liable  to be prosecuted under this section, notwithstanding that he may  not  have  taken  part  in the  commission  of  the offence.
+BILL
 
-(4) In any prosecution under this section, a document found  in  the  possession  of-
+(3) An office-bearer of, or a person managing or assisting in the management of, an organisation, body or group referred to in subsection (2) shall be liable to be prosecuted under this section, notwithstanding that he may not have taken part in the commission of the offence.
 
-(a) an  office-bearer;
+(4) In any prosecution under this section, a document found in the possession of—
 
-(b) a person managing or assisting in the management;  or
+(a) an office-bearer;
 
-(c) a  member,
+(b) a person managing or assisting in the management; or
 
-of such organisation, body or group shall be prima facie evidence  of  the contents thereof  for  the  purpose of proving that anything has been done or purports to have been  done  by  or  on  behalf  of  such  organisation,  body or  group.
+(c) a member,
 
-49. (1) The  Registrar  General  may  direct  the  chief executive to suspend or dissolve an organisation, a body or  a  group  of  students-
+of such organisation, body or group shall be prima facie evidence of the contents thereof for the purpose of proving that anything has been done or purports to have been done by or on behalf of such organisation, body or group.
 
-(a) if  such  organisation,  body  or  group  conduct itself in  a  manner  which  the  Registrar  General considers  detrimental  or  prejudicial  to-
+##### Power of Registrar General to issue direction to suspend or dissolve any organisation, body or group of students.
 
-(i)  safety  and  security  of  Malaysia;
+49. (1) The Registrar General may direct the chief executive to suspend or dissolve an organisation, a body or a group of students—
 
-(ii)  public, order;  or
+(a) if such organisation, body or group conduct itself in a manner which the Registrar General considers detrimental or prejudicial to—
 
-(iii)  the  student;  or
+(i) safety and security of Malaysia;
 
-(b) if such organisation, body or group violates any provision  of  any  written  law.
+(ii) public order; or
 
-(2) The  Registrar  General  may  not  give  a  direction under subsection (1) until he has considered representations made by  the  organisation,  body  or group  of students  of the  private  higher  educational  institution.
+(iii) the student; or
+
+(b) if such organisation, body or group violates any provision of any written law.
+
+(2) The Registrar General may not give a direction under subsection (1) until he has considered representations made by the organisation, body or group of students of the private higher educational institution.
 
 [[END OF PAGE 36]]
 
@@ -1409,29 +1412,29 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 37
 
-(3) The  chief executive  shall  take  immediate  action to  give  effect  to  the  direction  of  the  Registrar  General and  shall  within  twenty-one  days  inform  the  Registrar General of any action taken by the chief executive under subsection  (1).
+(3) The chief executive shall take immediate action to give effect to the direction of the Registrar General and shall within twenty-one days inform the Registrar General of any action taken by the chief executive under subsection (1).
 
-(4) Where a direction of the Registrar General under this  section  is  not  complied  with,  the  Registrar General may cancel the registration of the chief executive  or the registration of the private higher educational  institution.
+(4) Where a direction of the Registrar General under this section is not complied with, the Registrar General may cancel the registration of the chief executive or the registration of the private higher educational institution.
 
-50. The Registrar General may prescribe, after consultation with the Minister, regulations for the expulsion of students in  certain  cases.
+##### Regulations on expulsion of students.
+
+50. The Registrar General may prescribe, after consultation with the Minister, regulations for the expulsion of students in certain cases.
 
 ### PART IX
 
-#### PERMITS  TO  TEACH
+#### PERMITS TO TEACH
 
-51. (1) A  person  shall  obtain  a  permit  to  teach  issued by  the  Registrar  General  before  he  may  be  allowed  to teach  in  any  private  higher  educational  institution.
+##### Issuance of permit to teach.
 
-(2) An  application  for  a  permit  to  teach  under  this Act  shall  be  made  to  the  Registrar  General  on  the prescribed  form  and  in  the  prescribed  manner  and  upon payment  of  the  prescribed  fee.
+51. (1) A person shall obtain a permit to teach issued by the Registrar General before he may be allowed to teach in any private higher educational institution.
 
-(3) At  any  time  after  receiving  the  application  for  a permit to teach and before it is determined, the Registrar General  may  by  written  notice  require  the  applicant  to provide additional information, particulars or documents, differing  as  between  the  subjects  to  be  taught  by  the applicants.
+(2) An application for a permit to teach under this Act shall be made to the Registrar General on the prescribed form and in the prescribed manner and upon payment of the prescribed fee.
 
-(4) The Registrar General may, after such investigation as he may think necessary on the application for a permit to  teach-
+(3) At any time after receiving the application for a permit to teach and before it is determined, the Registrar General may by written notice require the applicant to provide additional information, particulars or documents, differing as between the subjects to be taught by the applicants.
 
-(a) issue  a  permit  to  teach  in  such  form  as  may  be prescribed  and  subject  to  such  conditions  as may  be  specified  to  the  person  applying  for such  permit,  upon  payment  by  such  person  of the  prescribed  fee;  or
+(4) The Registrar General may, after such investigation as he may think necessary on the application for a permit to teach—
 
-##### Regulations on expulsion  of students.
-
-##### Issuance  of permit  to teach.
+(a) issue a permit to teach in such form as may be prescribed and subject to such conditions as may be specified to the person applying for such permit, upon payment by such person of the prescribed fee; or
 
 [[END OF PAGE 37]]
 
@@ -1441,35 +1444,35 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-##### Power  of Registrar General  to refuse  and revoke permit  to teach.
+(b) refuse the application.
 
-(b) refuse  the  application.
+(5) A permit to teach shall specify the subject or subjects which may be taught by the person to whom it is issued.
 
-(5) A  permit  to  teach  shall  specify  the  subject  or subjects  which  may  be  taught  by  the  person  to  whom it  is  issued.
+(6) A person aggrieved by the decision of the Registrar General—
 
-(6) A person aggrieved by the decision of the Registrar General-
+(a) refusing the application; or
 
-(a) refusing  the  application;  or
+(b) imposing conditions on the permit,
 
-(b) imposing  conditions  on  the  permit,
+may appeal to the Minister within twenty-one days from being notified of the decision appealed against.
 
-may appeal to the Minister within twenty-one days from being  notified  of  the  decision  appealed  against.
+##### Power of Registrar General to refuse and revoke permit to teach.
 
-52. (1) The  Registrar  General  may  refuse  to  issue  a permit  to  teach  or  revoke  a  permit  to  teach  if  he  is satisfied  that  the  person  applying  for  such  permit  or  to whom  such  permit  has  been  issued-
+52. (1) The Registrar General may refuse to issue a permit to teach or revoke a permit to teach if he is satisfied that the person applying for such permit or to whom such permit has been issued—
 
-(a) has no qualification to teach, or has qualifications which  in  the  opinion  of the  Registrar  General are  inadequate  for  the  purpose;
+(a) has no qualification to teach, or has qualifications which in the opinion of the Registrar General are inadequate for the purpose;
 
-(b) has  made  a  false  or  misleading  statement  in connection  with his application for a permit to teach or has intentionally suppressed a material fact;
+(b) has made a false or misleading statement in connection with his application for a permit to teach or has intentionally suppressed a material fact;
 
-(c) suffers  from  some  physical  or mental  defect  or disease  rendering  him  unsuitable  to  teach;
+(c) suffers from some physical or mental defect or disease rendering him unsuitable to teach;
 
-(d) if there has been proved against him, or he has been  convicted  on,  a  charge  in  respect  of-
+(d) if there has been proved against him, or he has been convicted on, a charge in respect of—
 
-(i) an  offence  involving  fraud,  dishonesty or moral  turpitude;
+(i) an offence involving fraud, dishonesty or moral turpitude;
 
-(ii)  an offence under any law relating to corruption;  or
+(ii) an offence under any law relating to corruption; or
 
-(iii)  any other offence punishable with imprisonment (in itself only or in addition to  or  in  lieu  of a  fine)  for  more  than  two years;  or
+(iii) any other offence punishable with imprisonment (in itself only or in addition to or in lieu of a fine) for more than two years; or
 
 [[END OF PAGE 38]]
 
@@ -1479,31 +1482,33 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 39
 
-(e) is  for  any  reason  not  a  fit  and  proper  person to  be  teaching,
+(e) is for any reason not a fit and proper person to be teaching,
 
-as  the  case  may  be.
+as the case may be.
 
-(2) Where  the  Registrar  General  refuses  to  issue  a permit  to  teach  or revokes  the permit to  teach,  he  shall by notice in writing inform the person applying for such permit  and  the  person  whose  permit  is  revoked  of  the refusal or  revocation, specifying the grounds of  the refusal  or  revocation.
+(2) Where the Registrar General refuses to issue a permit to teach or revokes the permit to teach, he shall by notice in writing inform the person applying for such permit and the person whose permit is revoked of the refusal or revocation, specifying the grounds of the refusal or revocation.
 
-(3) A person aggrieved by a decision of the Registrar General under this  section may, within twenty-one days of being notified of such decision, appeal to the Minister.
+(3) A person aggrieved by a decision of the Registrar General under this section may, within twenty-one days of being notified of such decision, appeal to the Minister.
 
-53. (1) A  permit  may  be  revoked  by  the  Registrar General,  after  giving  the  person  to  whom  it  was  issued the  right  to  make  representations.
+##### Right to make representations to be given and additional ground for revocation.
 
-(2) In addition to the grounds specified under paragraphs 52(l) (a) to (e), a permit to teach may be revoked on the following  grounds:
+53. (1) A permit may be revoked by the Registrar General, after giving the person to whom it was issued the right to make representations.
 
-(a) that  the  holder  of  the  permit  is  acting  in  a manner prejudicial or detrimental to the interest of  Malaysia,  the  public  or  the  student;  or
+(2) In addition to the grounds specified under paragraphs 52(1)(a) to (e), a permit to teach may be revoked on the following grounds:
 
-(b) any  other  grounds  as  the  Registrar  General deems  appropriate.
+(a) that the holder of the permit is acting in a manner prejudicial or detrimental to the interest of Malaysia, the public or the student; or
 
-### PART  X
+(b) any other grounds as the Registrar General deems appropriate.
 
-#### REVOCATION  OF  APPROVAL  AND  CANCELLATION  OF REGISTRATION
+### PART X
 
-54. (1) The Registrar General may, under the direction of  the  Minister,  serve  on  a  private  higher  educational institution  a  notice  of intention  to  revoke  the  approval of  such  private higher  educational institution if  the Minister is  satisfied that it  is  expedient  so  to  do  on  any of  the  following  grounds:
+#### REVOCATION OF APPROVAL AND CANCELLATION OF REGISTRATION
 
-(a) that the approval  of  such  private  higher educational  institution  was  obtained  by  any false  or  misleading  statement;
+##### Grounds for revocation of approval.
 
-##### Right  to make representations to  be  given and additional ground  for revocation.
+54. (1) The Registrar General may, under the direction of the Minister, serve on a private higher educational institution a notice of intention to revoke the approval of such private higher educational institution if the Minister is satisfied that it is expedient so to do on any of the following grounds:
+
+(a) that the approval of such private higher educational institution was obtained by any false or misleading statement;
 
 [[END OF PAGE 39]]
 
@@ -1513,33 +1518,33 @@ as  the  case  may  be.
 
 BILL
 
-##### Grounds  for cancellation of registration.
+(b) that there has been a breach of any condition imposed by the Minister;
 
-(b) that  there  has  been  a  breach  of  any  condition imposed  by  the  Minister;
+(c) that the standard of education in such private higher educational institution is not adequately maintained;
 
-(c) that  the  standard  of  education  in  such  private higher educational institution is not adequately maintained;
+(d) that the private higher educational institution has been convicted for an offence under this Act or any other written law;
 
-(d) that  the  private  higher  educational  institution has  been  convicted  for  an  offence  under  this Act  or  any  other  written  law;
+(e) that an offence has been committed under this Act; or
 
-(e) that  an  offence  has  been  committed  under this Act;  or
+(f) any other reason that the Minister deems proper in the interest of Malaysia, the public or the students.
 
-(f) any other reason that the Minister deems proper in  the  interest  of  Malaysia,  the  public  or  the students.
+(2) The grounds under paragraphs (1)(a) to (f) shall be in addition to any other ground as may be provided for under any other provision of this Act.
 
-(2) The grounds under paragraphs (1) (a) to (f) shall be  in  addition  to  any  other  ground  as  may  be  provided for  under  any  other  provision  of  this  Act.
+##### Grounds for cancellation of registration.
 
-55. (1) The Registrar General  may  serve  on  a private higher  educational  institution  a  notice  of  intention  to cancel the registration of such private higher educational institution  if he  is  satisfied  that  it  is  expedient  so  to  do on  any  of  the  following  grounds:
+55. (1) The Registrar General may serve on a private higher educational institution a notice of intention to cancel the registration of such private higher educational institution if he is satisfied that it is expedient so to do on any of the following grounds:
 
-(a) that the registration of  such private higher educational  institution  was  obtained  by  any false  or  misleading  statement;
+(a) that the registration of such private higher educational institution was obtained by any false or misleading statement;
 
-(b) that  there  has  been  a  breach  of  any  condition imposed  by  the  Registrar  General;
+(b) that there has been a breach of any condition imposed by the Registrar General;
 
 (c) that an offence under this Act has been committed;
 
-(d) that  the  private  higher  educational  institution has  been  convicted  for  an  offence  under  this Act  or  any  other  written  law;
+(d) that the private higher educational institution has been convicted for an offence under this Act or any other written law;
 
-(e) that discipline in such private higher educational institution  is  not being  adequately  maintained;
+(e) that discipline in such private higher educational institution is not being adequately maintained;
 
-(f) that the terms  of the  constitution of the private higher educational institution are being wilfully disregarded;  or
+(f) that the terms of the constitution of the private higher educational institution are being wilfully disregarded; or
 
 [[END OF PAGE 40]]
 
@@ -1549,35 +1554,35 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 41
 
-(g) that  the  private  higher  educational  institution has  been  used  contrary  to  the  purpose  of  its establishment.
+(g) that the private higher educational institution has been used contrary to the purpose of its establishment.
 
-(2) The  grounds  under  paragraphs  (l) ( a ) to (g) shall be  in  addition  to  any  other ground  as  may  be  provided for  under  any  other  provision  of  this  Act.
+(2) The grounds under paragraphs (1)(a) to (g) shall be in addition to any other ground as may be provided for under any other provision of this Act.
 
-56. (1) A  notice  of  intention  to  revoke  the  approval under  section  54  or  to  cancel  the  registration  under section 55 shall specify the  grounds  on  which  it  is proposed to revoke the approval or to cancel the registration.
+##### Notice to revoke approval and to cancel registration.
 
-(2) The private higher educational institution shall be given  an  opportunity  to  make  written  representations thereon  within twenty-one days from the  date  of service of  the  notice  in  subsection  (1).
+56. (1) A notice of intention to revoke the approval under section 54 or to cancel the registration under section 55 shall specify the grounds on which it is proposed to revoke the approval or to cancel the registration.
 
-(3) After the  expiry  of the  period  of twenty-one  days mentioned  in  subsection  (2)  and  after  considering  any representation made under that subsection, the Registrar General  shall-
+(2) The private higher educational institution shall be given an opportunity to make written representations thereon within twenty-one days from the date of service of the notice in subsection (1).
 
-(a) with respect to the cancellation of registration, decide  whether  or  not-
+(3) After the expiry of the period of twenty-one days mentioned in subsection (2) and after considering any representation made under that subsection, the Registrar General shall—
 
-(i)  to  proceed  with  the  proposed  action;
+(a) with respect to the cancellation of registration, decide whether or not—
 
-(ii)  to  take  no  further  action;
+(i) to proceed with the proposed action;
 
-(iii)  to  add, alter or vary the conditions of the registration;  or
+(ii) to take no further action;
 
-(iv)  to  issue  a  warning;  or
+(iii) to add, alter or vary the conditions of the registration; or
 
-(b) with respect to the revocation of  approval, make  such  recommendations  to  the  Minister.
+(iv) to issue a warning; or
 
-(4) The  decision of  the  Registrar  General  under paragraph  (3)(a) to  cancel  the registration of the private higher educational institution shall be with the concurrence of  the  Minister.
+(b) with respect to the revocation of approval, make such recommendations to the Minister.
 
-57. The  decision of  the Minister  and  the Registrar General  in  this  Part  shall  be  arrived  at  on  the  basis  of the  documents  relating  to  the  matter  before  them,  and there  shall  be  no  oral  hearing  therefor.
+(4) The decision of the Registrar General under paragraph (3)(a) to cancel the registration of the private higher educational institution shall be with the concurrence of the Minister.
 
-##### Notice  to revoke approval and  to cancel registration.
+##### Decision to be based on documents and no oral hearing allowed.
 
-##### Decision  to be  based  on documents and  no  oral hearing allowed.
+57. The decision of the Minister and the Registrar General in this Part shall be arrived at on the basis of the documents relating to the matter before them, and there shall be no oral hearing therefor.
 
 [[END OF PAGE 41]]
 
@@ -1587,29 +1592,29 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-##### Power  of Minister  to give directions  to safeguard interest  of students.
-
 ### PART XI
 
-#### CLOSING  DOWN  OF  PRIVATE  HIGHER  EDUCATIONAL INSTITUTIONS
+#### CLOSING DOWN OF PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-58. (1) Where  on  his  own  volition  a  chief  executive informs the Minister or where as a result of an inspection made under Part XII or for any other reason the Minister is of  the opinion that a  private higher  educational institution-
+##### Power of Minister to give directions to safeguard interest of students.
+
+58. (1) Where on his own volition a chief executive informs the Minister or where as a result of an inspection made under Part XII or for any other reason the Minister is of the opinion that a private higher educational institution—
 
 (a) is unable to meet its obligations to its students;
 
-(b) is  about  to  suspend  its  operations;  or
+(b) is about to suspend its operations; or
 
-(c) is carrying on its activities in a manner detrimental to  the  interest  of  Malaysia,  the  public  or  the students,
+(c) is carrying on its activities in a manner detrimental to the interest of Malaysia, the public or the students,
 
-the Minister may, without prejudice to the generality of the  powers  of  the  Minister  to  give  directions  under section  5,  for  the  purpose  of  safeguarding  the  interest of  Malaysia,  the  public  and  the  students  of the  private higher  educational  institution-
+the Minister may, without prejudice to the generality of the powers of the Minister to give directions under section 5, for the purpose of safeguarding the interest of Malaysia, the public and the students of the private higher educational institution—
 
-(aa) direct the private higher  educational institution in question to take such steps as  the  Minister  considers  necessary  to rectify  any  matter  or  circumstances;
+(aa) direct the private higher educational institution in question to take such steps as the Minister considers necessary to rectify any matter or circumstances;
 
-(bb) direct  that  a  person  or  a  committee  to be appointed or himself appoint a person or a  committee  to advise the chief executive in the management of the private higher  educational  institution;  or
+(bb) direct that a person or a committee to be appointed or himself appoint a person or a committee to advise the chief executive in the management of the private higher educational institution; or
 
-(cc) take such action as the Minister considers necessary  in  the  circumstances  of  the case  to  bring  the  affairs  of  the  private higher educational institution into accord with  the  provisions  of  this  Act.
+(cc) take such action as the Minister considers necessary in the circumstances of the case to bring the affairs of the private higher educational institution into accord with the provisions of this Act.
 
-(2) Every direction of the Minister  made under subsection (1) or advice or instruction of a person or a committee  appointed  under  paragraph  (1) (bb) shall  be binding  on  the  private  higher  educational  institution.
+(2) Every direction of the Minister made under subsection (1) or advice or instruction of a person or a committee appointed under paragraph (1)(bb) shall be binding on the private higher educational institution.
 
 [[END OF PAGE 42]]
 
@@ -1619,36 +1624,37 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 43
 
-(3) All expenses incurred by the person or the committee appointed  under  paragraph  (1) (bb) shall  be  paid  by  the private  higher  educational  institution.
+(3) All expenses incurred by the person or the committee appointed under paragraph (1)(bb) shall be paid by the private higher educational institution.
 
-(4) Where  a  private  higher  educational  institution fails  to  comply  with  any  advice  or  instruction  given  to it by the person or committee appointed under paragraph (l)(bb), such  non-compliance  may  be  a  ground  for revoking  its  approval.
+(4) Where a private higher educational institution fails to comply with any advice or instruction given to it by the person or committee appointed under paragraph (1)(bb), such non-compliance may be a ground for revoking its approval.
 
-59. A private higher educational  institution must cease its  operation  and  terminate  its  courses  of  study  if
-##### Cessation  of operations.
+##### Cessation of operations.
 
-(a) the  approval  for  its  establishment  has  been revoked  by  the  Minister;
+59. A private higher educational institution must cease its operation and terminate its courses of study if—
+
+(a) the approval for its establishment has been revoked by the Minister;
 
 (b) its registration has been cancelled by the Registrar General;
 
-(c) the  board  of  directors  so  decides;
+(c) the board of directors so decides;
 
-(d) the  company  under  which  the  private  higher educational  institution  is  established  is  wound up-
+(d) the company under which the private higher educational institution is established is wound up—
 
-(i)  by  the  company's  board  of directors;  or
+(i) by the company's board of directors; or
 
-(ii)  by  an  order  of  the  court;  or
+(ii) by an order of the court; or
 
-(e) the private higher educational institution needs to  be  closed  down  for  any  other  reason.
+(e) the private higher educational institution needs to be closed down for any other reason.
 
-60. (1) A private  higher educational  institution  which is  about  to  cease  its  operations  except  for  the  reasons specified in paragraphs  59 (a) and (b) and  subparagraph 59 (d) (ii) , shall  give  a  notice  of its  intention  to  do  so  at least for a period of one calendar year before its closing down.
+##### Notice of intention to close down.
 
-- The  notice  under  subsection  (1)  shall  be-
+60. (1) A private higher educational institution which is about to cease its operations except for the reasons specified in paragraphs 59(a) and (b) and subparagraph 59(d)(ii), shall give a notice of its intention to do so at least for a period of one calendar year before its closing down.
 
-(a) made  to  the  Registrar  General  by  the  chief executive of  the private  higher  educational institution;
+(2) The notice under subsection (1) shall be—
+
+(a) made to the Registrar General by the chief executive of the private higher educational institution;
 
 (b) served by A.R. registered mail on the students of the private higher educational institution; and
-
-##### Notice  of intention  to close  down.
 
 [[END OF PAGE 43]]
 
@@ -1658,25 +1664,25 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-##### Arrangements for  the continuation of  education of  students.
-
 (c) published in the newspapers, at least one in the national language and one in any other language.
 
-(3) Where  the  closing  down  of  the  private  higher educational  institution  is  by  reason  of paragraphs  59 (a) and (b) and  subparagraph  59(d) (ii), the  private  higher educational institution shall within twenty-one days after being  notified  of the  decision  of the  Minister  to  revoke its  approval,  the  decision  of  the  Registrar  General  to cancel its registration or order of  the court for  the company  to  wind  up,  as  the  case  may  be-
+(3) Where the closing down of the private higher educational institution is by reason of paragraphs 59(a) and (b) and subparagraph 59(d)(ii), the private higher educational institution shall within twenty-one days after being notified of the decision of the Minister to revoke its approval, the decision of the Registrar General to cancel its registration or order of the court for the company to wind up, as the case may be—
 
-(a) serve a notice of its closing down to its students by  A.R.  registered  mail;  and
+(a) serve a notice of its closing down to its students by A.R. registered mail; and
 
-(b) publish  a  notice of  its  closing  down  in  the newspapers, at least one in the national language and  one  in  any  other  language.
+(b) publish a notice of its closing down in the newspapers, at least one in the national language and one in any other language.
 
-(4) Where  the  closing  down  of  the  private  higher educational  institution  is  by  reason  of paragraph 56(e), the chief executive shall  request for instructions from the Registrar  General  with  respect  to  the  notification  of the closing  down.
+(4) Where the closing down of the private higher educational institution is by reason of paragraph 59(e), the chief executive shall request for instructions from the Registrar General with respect to the notification of the closing down.
 
-(5) A.  private  higher  educational  institution  which contravenes this  section shall be guilty of an offence and shall,  on  conviction,  be  liable  to  a  fine  not  exceeding one  hundred  thousand  ringgit  or  to  imprisonment  for  a term  not  exceeding  one  year  or  to  both.
+(5) A private higher educational institution which contravenes this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-61. Upon the closing down of a private higher educational institution,  the  board  of  directors  shall-
+##### Arrangements for the continuation of education of students.
 
-(a) make  such  arrangements  not  detrimental  or prejudicial to the  interest,  well being or wishes of  the  students,  as  may  be  necessary,  for  the continuation of the education of the students of the  private  higher  educational  institution;
+61. Upon the closing down of a private higher educational institution, the board of directors shall—
 
-(b) inform the Registrar General of the arrangements made  under  paragraph (a);
+(a) make such arrangements not detrimental or prejudicial to the interest, well being or wishes of the students, as may be necessary, for the continuation of the education of the students of the private higher educational institution;
+
+(b) inform the Registrar General of the arrangements made under paragraph (a);
 
 [[END OF PAGE 44]]
 
@@ -1686,37 +1692,37 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 45
 
-(c) obtain  the  approval  of  the  Registrar  General before  putting  into  effect  such  arrangements; and
+(c) obtain the approval of the Registrar General before putting into effect such arrangements; and
 
-(d) inform the Registrar General  of the  conclusion of  the  arrangements  after  such  arrangements have  been  finalised.
+(d) inform the Registrar General of the conclusion of the arrangements after such arrangements have been finalised.
 
-62. Upon the closing down of a private higher educational institution,  the  chief  executive  shall surrender  to  the Registrar  General  his  certificate  of  registration  and  the certificate of registration of the private higher educational institution.
+##### Surrender of certificates.
+
+62. Upon the closing down of a private higher educational institution, the chief executive shall surrender to the Registrar General his certificate of registration and the certificate of registration of the private higher educational institution.
 
 ### PART XII
 
-#### INSPECTION  OF  PRIVATE  HIGHER  EDUCATIONAL INSTITUTIONS
+#### INSPECTION OF PRIVATE HIGHER EDUCATIONAL INSTITUTIONS
 
-63. The  Registrar  General shall, from  time  to  time, inspect or cause to be inspected a private higher educational institution  registered  under  this  Act  for  the  purpose  of ascertaining that this Act and the regulations made under this  Act  have  been  and  are  being  complied  with,
+##### Inspection to be made from time to time.
 
-64. In  carrying  out  an  inspection  under  section  63,  the Registrar  General  may-
+63. The Registrar General shall, from time to time, inspect or cause to be inspected a private higher educational institution registered under this Act for the purpose of ascertaining that this Act and the regulations made under this Act have been and are being complied with.
 
-(a) enter-
+##### Power of Registrar General when inspecting private higher educational institutions.
 
-(i)  any area including the building or structure thereon  which  belongs  to  or  are  used, whether  permanently or otherwise, or whether  or  not  registered  for  use,  by  a private  higher  educational  institution;  or
+64. In carrying out an inspection under section 63, the Registrar General may—
 
-(ii)  any  premises;
+(a) enter—
 
-(b) examine such book, register, document, material or  other  article  as  he  may  consider  necessary;
+(i) any area including the building or structure thereon which belongs to or are used, whether permanently or otherwise, or whether or not registered for use, by a private higher educational institution; or
 
-(c) remove and detain any book, register, document, material  or  other  article-
+(ii) any premises;
 
-(i)  which  appears  to  him  to  be  detrimental to  the  interest  of Malaysia,  the public  or the  students;  or
+(b) examine such book, register, document, material or other article as he may consider necessary;
 
-##### Surrender  of certificates.
+(c) remove and detain any book, register, document, material or other article—
 
-##### Inspection  to be  made from  time  to time.
-
-##### Power  of Registrar General when inspecting private higher educational institutions.
+(i) which appears to him to be detrimental to the interest of Malaysia, the public or the students; or
 
 [[END OF PAGE 45]]
 
@@ -1726,33 +1732,33 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-##### Interpretation of investigating officer.
+(ii) which, in his opinion, may furnish evidence of the commission of an offence under this Act; and
 
-##### Power  of investigating officer.
+(d) require any person, being a member of the board of directors, a chief executive, an employee, or a student of such private higher educational institution, to produce for his inspection any book, register, document, material or other article which is in that person's possession or custody or under his control or within his power to furnish—
 
-(ii)  which, in his opinion, may furnish evidence of  the  commission  of  an  offence  under this  Act;  and
+(i) relating to the management of the private higher educational institution; or
 
-(d) require  any  person,  being  a  member  of  the board of directors, a chief executive, an employee, or a  student  of such  private  higher educational institution,  to  produce  for  his  inspection  any book,  register,  document,  material  or  other article  which  is  in  that  person's  possession  or custody or under  his control or within  his power  to  furnish-
-
-(i)  relating to the management of the private higher  educational  institution;  or
-
-(ii)  relating to the teaching, carried on in the private  higher  educational  institution.
+(ii) relating to the teaching, carried on in the private higher educational institution.
 
 ### PART XIII
 
 #### ENFORCEMENT AND INVESTIGATION
 
-65. In  this  Part,  "investigating  officer"  means-
+##### Interpretation of investigating officer.
 
-(a) the Registrar General, Deputy Registrar General, Registrar, Deputy  Registrar  and Assistant Registrar;
+65. In this Part, "investigating officer" means—
 
-(b) a police officer  not  below  the rank  of  an Inspector;  and
+(a) the Registrar General, Deputy Registrar General, Registrar, Deputy Registrar and Assistant Registrar;
 
-(c) any  other  public  officer  authorised  in  writing by the Registrar General to perform such duties relating to enforcement and investigation under this Part as may be specified in the authorisation.
+(b) a police officer not below the rank of an Inspector; and
 
-66. (1) An investigating officer shall have all the powers necessary  to  carry  out investigation  of an  offence  under this Act.
+(c) any other public officer authorised in writing by the Registrar General to perform such duties relating to enforcement and investigation under this Part as may be specified in the authorisation.
 
-(2) An investigating officer carrying out an investigation under this Act may enter any place or building and may inspect, make copies of, take extracts from, remove and detain any book, minute book, register, document, material or  article.
+##### Power of investigating officer.
+
+66. (1) An investigating officer shall have all the powers necessary to carry out investigation of an offence under this Act.
+
+(2) An investigating officer carrying out an investigation under this Act may enter any place or building and may inspect, make copies of, take extracts from, remove and detain any book, minute book, register, document, material or article.
 
 [[END OF PAGE 46]]
 
@@ -1762,67 +1768,67 @@ PRIVATE HIGHER  EDUCATIONAL  INSTITUTIONS
 
 47
 
-(3) An investigating officer may by notice in writing require any person to produce to him such books, minute books,  registers,  documents,  materials  or  articles  as  are in  the  possession  or  custody  of  or  under  the  control  of that person or within the power of that person to furnish.
+(3) An investigating officer may by notice in writing require any person to produce to him such books, minute books, registers, documents, materials or articles as are in the possession or custody of or under the control of that person or within the power of that person to furnish.
 
-(4) A  person  who-
+(4) A person who—
 
-(a) fails to produce any book, minute book, register, document,  material  or  article  as  is  required  by an  investigating  officer;  or
+(a) fails to produce any book, minute book, register, document, material or article as is required by an investigating officer; or
 
-(b) obstructs or  hinders an investigating officer while exercising any of his powers  under this section,
+(b) obstructs or hinders an investigating officer while exercising any of his powers under this section,
 
-shall  be  guilty  of  an  offence  and  shall,  on  conviction, be  liable  to  a  fine  not  exceeding  one  hundred  thousand ringgit  or  to  imprisonment  for  a  term  not  exceeding  one year  or  to  both.
+shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
-(5) An investigating  officer may  grant permission  to any person to inspect the books, minute books,  registers, documents, materials or articles detained and taken possession of by the investigating officer under subsection (2)  if  such  person  is  entitled  to  inspect  such  books, minute  books,  registers,  documents,  materials  or  articles under  this  Act.
+(5) An investigating officer may grant permission to any person to inspect the books, minute books, registers, documents, materials or articles detained and taken possession of by the investigating officer under subsection (2) if such person is entitled to inspect such books, minute books, registers, documents, materials or articles under this Act.
 
-(6) This  section  shall  not  be  construed  as  limiting  or affecting  any  similar  powers  conferred  on  any  person under  any  other  written  law.
+(6) This section shall not be construed as limiting or affecting any similar powers conferred on any person under any other written law.
 
-67. (1) If it appears to a Magistrate upon written information on oath and after such enquiry as he considers necessary  that there  is  reasonable  cause  to  believe  that-
+##### Power to search and seize.
 
-(a) any  premises  have  been  used  or  are  about  to be  used  for;  or
+67. (1) If it appears to a Magistrate upon written information on oath and after such enquiry as he considers necessary that there is reasonable cause to believe that—
+
+(a) any premises have been used or are about to be used for; or
 
 (b) there is in any premises evidence necessary to establish,
-
-##### Power  to search  and seize.
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-BILL
-
-##### Search and seize  are without warrant.
-
 48
 
-the commission of an offence under this Act, the Magistrate may issue a warrant authorising an investigating officer, at  any  reasonable  time  by  day  or  by  night  and  with  or without  assistance-
+BILL
 
-(aa) to  enter  the  premises,  if need  be  by  force;  and
+the commission of an offence under this Act, the Magistrate may issue a warrant authorising an investigating officer, at any reasonable time by day or by night and with or without assistance—
 
-(bb) there  to  search  for  and  seize,  and  therefrom remove any book, minute book, register, material, document,  article  or  any  other  thing-
+(aa) to enter the premises, if need be by force; and
 
-(i)  in  respect  of  which  an  offence  has  been committed;
+(bb) there to search for and seize, and therefrom remove any book, minute book, register, material, document, article or any other thing—
 
-(ii)  in respect of which an offence is suspected to  have  been  committed;  or
+(i) in respect of which an offence has been committed;
 
-(iii)  that is reasonably believed to furnish evidence of the commission of the offence.
+(ii) in respect of which an offence is suspected to have been committed; or
 
-- An  investigating  officer  may-
+(iii) that is reasonably believed to furnish evidence of the commission of the offence.
 
-(a) break open any outer or inner  door of  the premises or any fence, enclosure, gate or other obstruction  to  the  premises,  in  order  to  effect entry  thereinto;
+(2) An investigating officer may—
 
-(b) remove by force any obstruction to entry, search, seizure or removal as he is empowered to effect under  subsection  (1);  and
+(a) break open any outer or inner door of the premises or any fence, enclosure, gate or other obstruction to the premises, in order to effect entry thereinto;
 
-(c) detain every person found in the premises until it  has  been  searched.
+(b) remove by force any obstruction to entry, search, seizure or removal as he is empowered to effect under subsection (1); and
 
-68. If  an  irwestigating  officer  has  reasonable  cause  to believe  that  by  reason  of  delay  in  obtaining  a  search warrant  under  section  67-
+(c) detain every person found in the premises until it has been searched.
 
-(a) the  investigation  would be  adversely  affected;
+##### Search and seizure without warrant.
+
+68. If an investigating officer has reasonable cause to believe that by reason of delay in obtaining a search warrant under section 67—
+
+(a) the investigation would be adversely affected;
 
 (b) the object of the entry is likely to be frustrated;
 
-(c) the  book,  minute  book,  register,  document, material, or  any  other  thing  sought  may  be removed  or  interfered  with; or
+(c) the book, minute book, register, document, material, or any other thing sought may be removed or interfered with; or
 
-(d) the  evidence  sought  may  be  tampered  with  or destroyed,
+(d) the evidence sought may be tampered with or destroyed,
 
 [[END OF PAGE 48]]
 
@@ -1832,33 +1838,33 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 49
 
-he may exercise in,  and in respect of, the premises all the  powers referred to in section 67  in as  full  and ample a manner as if he  were  authorised to do so by a warrant issued  under  that  section.
+he may exercise in, and in respect of, the premises all the powers referred to in section 67 in as full and ample a manner as if he were authorised to do so by a warrant issued under that section.
 
-69. (1) Where the investigating officer has reasonable cause  to  believe  that  any  house,  building,  premise  or other place  is being used as  a private higher educational institution-
+##### Power to seal.
 
-(a) without  being  approved  and  registered  under this  Act;  and
+69. (1) Where the investigating officer has reasonable cause to believe that any house, building, premise or other place is being used as a private higher educational institution—
 
-(b) in contravention of any of the conditions imposed by  the  Minister  or  the  Registrar  General,
+(a) without being approved and registered under this Act; and
 
-the  investigating  officer  may  forthwith  take  such  steps as  he  may  deem  necessary  or by  any  means  seal  such private  higher  educational  institutioh.
+(b) in contravention of any of the conditions imposed by the Minister or the Registrar General,
 
-(2) The  person  using  the  house,  building,  premise  or place  as  a  private  higher  educational  institution  which has  been  sealed  shall-
+the investigating officer may forthwith take such steps as he may deem necessary or by any means seal such private higher educational institution.
 
-(a) within twenty-one days of such seal produce to the Registrar General the certificate of registration of  the  private  higher  educational  institution; and
+(2) The person using the house, building, premise or place as a private higher educational institution which has been sealed shall—
 
-(b) bear  any cost incurred arising out of  such action.
+(a) within twenty-one days of such seal produce to the Registrar General the certificate of registration of the private higher educational institution; and
 
-- The  seal  shall  be  removed  if-
+(b) bear any cost incurred arising out of such action.
 
-(a) such  person  complies  with  the  requirement  of subsection  (2);  or
+(3) The seal shall be removed if—
 
-(b) an order of the court is obtained for such person to  cease  using  the  house,  building,  premise  or place as a private higher educational institution,
+(a) such person complies with the requirement of subsection (2); or
 
-whichever  is  the  earlier.
+(b) an order of the court is obtained for such person to cease using the house, building, premise or place as a private higher educational institution,
 
-(4) The investigating officer acting under this section shall  not be  liable  for any  cost arising  out of such  action or  damages  to  the  house,  building,  premise  or  place sealed under this section unless such damage was wilfully done.
+whichever is the earlier.
 
-##### Power  to seal.
+(4) The investigating officer acting under this section shall not be liable for any cost arising out of such action or damages to the house, building, premise or place sealed under this section unless such damage was wilfully done.
 
 [[END OF PAGE 49]]
 
@@ -1868,27 +1874,27 @@ whichever  is  the  earlier.
 
 BILL
 
-##### Power  to call for examination.
+(5) Any action taken under this section in respect of any house, building, premise or other place shall not prohibit the prosecution of any person using such house, building, premise or place as a private higher educational institution in contravention of this Act.
 
-(5) Any action taken under this  section in respect of any  house,  building,  premise  or  other  place  shall  not prohibit the prosecution of any person using such house, building, premise or place as a private higher educational institution  in  contravention  of  this  Act.
+##### Power to call for examination.
 
-70. (1) An investigating officer may by notice in writing require any person acquainted with the Facts and circumstances  of a  case  to  appear before  him  and  to  be examined orally and shall reduce into writing any statement made  by  the  person  so  examined.
+70. (1) An investigating officer may by notice in writing require any person acquainted with the facts and circumstances of a case to appear before him and to be examined orally and shall reduce into writing any statement made by the person so examined.
 
-(2) Such person shall be legally bound to answer the questions relating to such case put to him  by the investigating  officer  and  to  state  the  truth,  whether  or not  the  statement  is  made  wholly  or partly  in  answer to questions,  and  shall  not  refuse  to  answer  any  question on  the  ground  that  it  tends  to  incriminate  him.
+(2) Such person shall be legally bound to answer the questions relating to such case put to him by the investigating officer and to state the truth, whether or not the statement is made wholly or partly in answer to questions, and shall not refuse to answer any question on the ground that it tends to incriminate him.
 
-(3) A statement made by any person under this section shall be taken down in writing and signed by the person making  it  or  affixed  with  his  thumb  print,  as  the  case may  be-
+(3) A statement made by any person under this section shall be taken down in writing and signed by the person making it or affixed with his thumb print, as the case may be—
 
-(a) after  it  has  been  read  to  him;  and
+(a) after it has been read to him; and
 
-(b) after he has been given an opportunity to make any  correction  he  may  wish.
+(b) after he has been given an opportunity to make any correction he may wish.
 
-(4) Where  the  person  examined  under  this  section refuses  to  sign  or  affix  his  thumb print on  the  statement, the  investigating  officer  shall  endorse  thereon under his hand  the  fact  of  such  refusal  and  the  reason  therefor,  if any,  stated  by  the  person  so  examined.
+(4) Where the person examined under this section refuses to sign or affix his thumb print on the statement, the investigating officer shall endorse thereon under his hand the fact of such refusal and the reason therefor, if any, stated by the person so examined.
 
-(5) Any  statement  made  and  recorded  under  this section shall be admissible as evidence in any proceeding in  any  court.
+(5) Any statement made and recorded under this section shall be admissible as evidence in any proceeding in any court.
 
-- Any  person  who-
+(6) Any person who—
 
-(a) fails  to  appear  before  an  investigating  officer as  required  under  subsection  (1);
+(a) fails to appear before an investigating officer as required under subsection (1);
 
 [[END OF PAGE 50]]
 
@@ -1904,21 +1910,23 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 shall  be  guilty  of  an  offence  and  shall,  on  conviction, be  liable  to  a  fine  not  exceeding  one  hundred  thousand ringgit or to imprisonment for a term not exceeding one year  or  to  both.
 
-71. No  person  shall,  in  any  proceedings  before  any court  in  respect  of  the  seizure  of  anything  seized  or detained in the exercise or the purported exercise of any power conferred under this Part, be entitled to the costs of such proceedings or any damages or other relief, other than  an  order  for  the  return  of  such  thing  seized  or detained, or the payment of its value unless such seizure or  detention  was  made  without  reasonable  or  probable cause.
+##### No entitlement as to costs on proceedings, damages or other relief, etc.
+
+71. No person shall, in any proceedings before any court in respect of the seizure of anything seized or detained in the exercise or the purported exercise of any power conferred under this Part, be entitled to the costs of such proceedings or any damages or other relief, other than an order for the return of such thing seized or detained, or the payment of its value unless such seizure or detention was made without reasonable or probable cause.
 
 ### PART XIV
 
-#### OFFENCES  AND PENALTIES
+#### OFFENCES AND PENALTIES
 
-72. (1) No  person shall  promote  a  private  higher educational institution, whether  by  advertisement, prospectus, brochure or otherwise, unless the establishment of  the  private  higher  educational  institution  has  been approved  under  this  Act.
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand  ringgit or to imprisonment for a term not exceeding six months or to both.
-
-73. (1) If  the  Registrar  General  is  of the  opinion  that any  statement  made  in  any  advertisement  in  relation  to a private higher educational institution is false, deceptive, offensive  or  misleading  the  Registrar  General  may  by
-##### No entitlement as  to  costs on proceedings, damages  or other  relief, etc,
 ##### Prohibition on advertisement, etc.
 
-##### Control  of advertisement.
+72. (1) No person shall promote a private higher educational institution, whether by advertisement, prospectus, brochure or otherwise, unless the establishment of the private higher educational institution has been approved under this Act.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
+
+##### Control of advertisement.
+
+73. (1) If the Registrar General is of the opinion that any statement made in any advertisement in relation to a private higher educational institution is false, deceptive, offensive or misleading the Registrar General may by
 
 [[END OF PAGE 51]]
 
@@ -1928,29 +1936,27 @@ shall  be  guilty  of  an  offence  and  shall,  on  conviction, be  liable  to 
 
 BILL
 
-Act 87.
-
-notice  in  writing  direct  such  private  higher  educational institution  to  do  all  or  any  of  the  following:
+notice in writing direct such private higher educational institution to do all or any of the following:
 
 (a) cease the continued issue of the advertisement;
 
-(b) modify  the  advertisement  in  such  manner  as may  be  specified  by  the  Registrar  General;
+(b) modify the advertisement in such manner as may be specified by the Registrar General;
 
-(c) cease  the  issue  of any  advertisement which  is wholly  or  substantially,  a  repetition  of  such advertisement;
+(c) cease the issue of any advertisement which is wholly or substantially, a repetition of such advertisement;
 
-(d) take all practical steps to  withdraw  the advertisement from every and all publication or display  of  it;  or
+(d) take all practical steps to withdraw the advertisement from every and all publication or display of it; or
 
-(e) publish a statement  in like manner  as  the advertisement issued earlier to retract or modify such  advertisement.
+(e) publish a statement in like manner as the advertisement issued earlier to retract or modify such advertisement.
 
-(2) The  Registrar  General  may  vary,  add  to,  alter, revoke  or  otherwise  amend  any  direction  issued  under subsection (1) by a notice in writing to the private higher educational  institution  concerned.
+(2) The Registrar General may vary, add to, alter, revoke or otherwise amend any direction issued under subsection (1) by a notice in writing to the private higher educational institution concerned.
 
-(3) Upon registration of a private higher educational institution  under  Part  V,  any  advertisement  in  relation to the private higher educational institution shall bear the registration  number  of  the  private  higher  educational institution.
+(3) Upon registration of a private higher educational institution under Part V, any advertisement in relation to the private higher educational institution shall bear the registration number of the private higher educational institution.
 
-(4) Any  person  who  or  private  higher  educational institution which contravenes the directions of the Registrar General under subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty  thousand  ringgit  or  to  imprisonment  for  a  term  not exceeding  six  months  or  to  both.
+(4) Any person who or private higher educational institution which contravenes the directions of the Registrar General under subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-(5) Any action that is taken by the Registrar General under  this  section  shall  not  prejudice  the  power  of  the Controller,  Deputy Controller or Assistant Controller of
+(5) Any action that is taken by the Registrar General under this section shall not prejudice the power of the Controller, Deputy Controller or Assistant Controller of Trade Descriptions under the Trade Descriptions Act 1972.
 
-Trade  Descriptions  under  the  Trade  Descriptions  Act 1972.
+Act 87.
 
 [[END OF PAGE 52]]
 
@@ -1960,37 +1966,37 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 53
 
-74. For the purposes of sections 72 and 73, "advertisement" means any notification or information of the establishment of  a  private  higher  educational  institution-
-
-(a) published in any newspaper, journal or magazine or  any  other  form;
-
-(b) displayed on any hoarding, boarding, roof, wall, paling,  fence,  frame,  signboard,  plate,  cloth, bar, pillar, post, wire-casting or other erection, structure  or  contrivance;
-
-(c) conveyed by means of film within the meaning of  the  Cinematograph  Films  (Censorship)  Act 1952 or by means of broadcast sound receivers
-
 ##### Interpretation of advertisement.
+
+74. For the purposes of sections 72 and 73, “advertisement” means any notification or information of the establishment of a private higher educational institution—
+
+(a) published in any newspaper, journal or magazine or any other form;
+
+(b) displayed on any hoarding, boarding, roof, wall, paling, fence, frame, signboard, plate, cloth, bar, pillar, post, wire-casting or other erection, structure or contrivance;
+
+(c) conveyed by means of film within the meaning of the Cinematograph Films (Censorship) Act 1952 or by means of broadcast sound receivers or television receivers within the meaning of the Telecommunications (Television Receivers) Regulations 1964; or
 
 Act 35.
 
-- or  television  receivers  within  the  meaning  of the Telecommunications (Television Receivers) Regulations  1964;  or L.N. 69/64.
+L.N. 69/64.
 
-(d) conveyed by  other means,  oral  or  written  and whether  of  the  same  kind  or  not  as  set  out  in paragraphs (a) to (c).
+(d) conveyed by other means, oral or written and whether of the same kind or not as set out in paragraphs (a) to (c).
 
-75. Any person who makes a false or misleading statement in  promoting  a  private  higher  educational  institution shall  be  guilty  of  an  offence  and  shall,  on  conviction, be  liable  to  a  fine  not  exceeding  fifty  thousand  ringgit or to imprisonment for a term not exceeding six months or  to  both.
+##### Offence and penalty relating to false or misleading statement.
 
-76. (1)  No person  shall-
+75. Any person who makes a false or misleading statement in promoting a private higher educational institution shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-(a) establish, form, promote or carry on any activity for  the  purpose  of  establishing,  forming,  or promoting or towards the establishment, formation  or  promotion  of  a  private  higher educational  institution;
+##### Establishment of private higher educational institutions, etc., prohibited unless in accordance with Act.
 
-(b) operate,  manage  or maintain  any  class  for the teaching  and learning  of higher education  in  a private  higher  educational  institution;  or
+76. (1) No person shall—
 
-(c) establish,  form,  promote,  operate,  manage  or maintain a private higher educational institution by the use of the word "University", "University College"  or  "branch  campus",
+(a) establish, form, promote or carry on any activity for the purpose of establishing, forming, or promoting or towards the establishment, formation or promotion of a private higher educational institution;
 
-except  in  accordance  with  the  provisions  of  this  Act.
+(b) operate, manage or maintain any class for the teaching and learning of higher education in a private higher educational institution; or
 
-##### Offence  and penalty relating  to false  or misleading statement.
+(c) establish, form, promote, operate, manage or maintain a private higher educational institution by the use of the word “University”, “University College” or “branch campus”,
 
-##### Establishment of  private higher educational institutions, etc., prohibited unless  in accordance with  Act.
+except in accordance with the provisions of this Act.
 
 [[END OF PAGE 53]]
 
@@ -2000,31 +2006,31 @@ except  in  accordance  with  the  provisions  of  this  Act.
 
 BILL
 
-##### Offence  and penalty relating  to award  of certificate, diploma  and degree.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousnad ringgit or to imprisonment for a term not exceeding two years or to both.
 
-##### Penalty  for contravening condition
+##### Offence and penalty relating to award of certificate, diploma and degree.
 
-##### penalty relating  to applications made  under Act.
+77. A private higher educational institution which issues to or awards on any person any certificate, diploma or degree contrary to the provisions of section 44, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-##### Offence  and penalty relating  to unlawful activity.
+##### Penalty for contravening condition.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to  a fine  not exceeding two hundred thousnad ringgit  or to  imprisonment  for  a  term  not  exceeding  two  years  or to  both.
+78. Any private higher educational institution contravening any condition imposed on the approval for its establishment and its registration, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding six months or to both.
 
-77. A private higher educational institution which issues to  or  awards  on  any  person  any  certificate,  diploma  or degree contrary to the provisions of section 44,  shall be guilty  of  an  offence  and  shall,  on  conviction,  be  liable to  a  fine  not  exceeding  two hundred thousand ringgit  or to  imprisonment for a term not exceeding two years or to  both.
+##### Penalty relating to applications made under Act.
 
-78. Any private higher educational institution contravening any condition imposed on the approval for its establishment and  its  registration, shall  be  guilty  of  an  offence  and shall,  on  conviction,  be  liable  to  a  fine  not  exceeding fifty  thousand ringgit or to  imprisonment  for a term  not exceeding  six  months  or  to  both.
+79. Any—
 
-79. Any-
+(a) applicant who, on making an application for the approval for the establishment of a private higher educational institution; or
 
-(a) applicant who, on making an application for the approval  for  the establishment  of  a  private higher  educational  institution;  or
+(b) private higher educational institution which, on making any application,
 
-(b) private higher educational institution which, on making  any  application,
+under this Act, makes any statement which he or it knows to be false, or does not believe to be true, or intentionally suppresses any material fact, or furnishes any information which is misleading shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousand ringgit or to an imprisonment for a term not exceeding two years or to both.
 
-under  this  Act,  makes  any  statement  which  he  or  it knows  to  be  false,  or  does  not  believe  to  be  true,  or intentionally  suppresses  any  material  fact,  or  furnishes any  information  which  is  misleading  shall  be  guilty  of an  offence  and  shall,  on  conviction,  be  liable  to  a  fine not  exceeding  two  hundred  thousand  ringgit  or  to  an imprisonment for a term not exceeding two years  or to both.
+##### Offence and penalty relating to unlawful activity.
 
-80. Any-
+80. Any—
 
-(a) person, who being the owner or occupier of any house, building, premise or place, has failed to take  all  reasonable  steps  to  prevent  the  same to be  used  as a  private  higher  educational institution  in  contravention  of this  Act;  or
+(a) person, who being the owner or occupier of any house, building, premise or place, has failed to take all reasonable steps to prevent the same to be used as a private higher educational institution in contravention of this Act; or
 
 [[END OF PAGE 54]]
 
@@ -2034,31 +2040,31 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 55
 
-(b) private  higher  educational  institution  which  is used-
+(b) private higher educational institution which is used—
 
-(i)  for  any  unlawful  activity  or  purpose;  or
+(i) for any unlawful activity or purpose; or
 
-(ii)  for any activity or purpose of an unlawful organisation,  society  or  other  body  of persons,
+(ii) for any activity or purpose of an unlawful organisation, society or other body of persons,
 
-shall  be  guilty  of  an  offence  and  shall,  on  conviction, be liable  to  a fine  not exceeding  two  hundred thousand ringgit or to imprisonment for a term not exceeding two years  or  to  both.
+shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding two hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.
 
-81. (1)  Where-
+##### Offences and penalties relating to certificates of registration and the act of teaching in private higher educational institutions.
 
-(a) a private higher educational institution fails to cause  a  copy  of  the  certificate  of  registration of such private higher educational institution to be  exhibited in  accordance  with the provisions of  subsection  26(2);
+81. (1) Where—
 
-(b) upon  the  closing  down  of  a  private  higher educational institution, the chief executive fails to surrender to the Registrar General his certificate of registration and the certificate of registration of  the  private  higher  educational  institution;
+(a) a private higher educational institution fails to cause a copy of the certificate of registration of such private higher educational institution to be exhibited in accordance with the provisions of subsection 26(2);
 
-(c) any  person  is  working  or  is  a  teacher  in  a private  higher  educational  institution  which  is not  approved  and  registered  under  this  Act;
+(b) upon the closing down of a private higher educational institution, the chief executive fails to surrender to the Registrar General his certificate of registration and the certificate of registration of the private higher educational institution;
 
-(d) the chief executive of a private higher educational institution  is  not  registered  under  this  Act;
+(c) any person is working or is a teacher in a private higher educational institution which is not approved and registered under this Act;
 
-(e) a person teaches in a private higher educational institution  without  a  permit  to  teach;  or
+(d) the chief executive of a private higher educational institution is not registered under this Act;
 
-(f) a private higher educational institution employs a  chief  executive  who  is  not  registered  under this Act or a teacher to whom a teaching permit is  not  issued,
+(e) a person teaches in a private higher educational institution without a permit to teach; or
 
-such private higher educational institution or chief executive or  person  shall  be  guilty  of  an  offence  and  shall,  on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one month  or  to  both.
+(f) a private higher educational institution employs a chief executive who is not registered under this Act or a teacher to whom a teaching permit is not issued,
 
-##### Offences  and penalties relating  to certificates  of registration and  the  act of  teaching in  private higher educational institutions.
+such private higher educational institution or chief executive or person shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one month or to both.
 
 [[END OF PAGE 55]]
 
@@ -2068,31 +2074,33 @@ such private higher educational institution or chief executive or  person  shall
 
 BILL
 
+(2) In the case of an offence under paragraphs (1)(c) to (f), it shall be a defence for a person or a chief executive or a private higher educational institution if he or it proves that having taken all reasonable precautions against committing such an offence, he or it did not know or have any reasonable ground to suspect that—
+
+(a) such private higher educational institution was not approved or registered;
+
+(b) such chief executive was not so registered; or
+
+(c) such person does not have a permit to teach,
+
+as the case may be.
+
 ##### General penalty.
 
-##### Penalty  in the  case  of a  continuing offence.
+82. A person who is guilty of an offence under this Act in respect of which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding five thousand ringgit.
 
-##### Offences  by bodies corporate.
+##### Penalty in the case of a continuing offence.
 
-(2) In  the  case  of an  offence  under paragraphs  (l) (c) to (f), it  shall  be  a  defence  for  a  person  or  a  chief executive  or  a  private  higher  educational  institution  if he or it proves that having taken all reasonable precautions against committing such an offence, he or it did not know or  have  any  reasonable  ground  to  suspect  that-
+83. A person who is guilty of an offence under this Act shall, in the case of a continuing offence, be liable, in addition to any other penalty to which he is liable under this Act in respect of such offence, to a daily fine not exceeding five hundred ringgit for each day the offence continues after conviction.
 
-(a) such private higher educational institution was not  approved  or  registered;
+##### Offences by bodies corporate.
 
-(b) such  chief executive  was  not  so  registered;  or
+84. Where a body corporate is guilty of an offence under this Act—
 
-(c) such  person  does  not  have  a  permit  to  teach, as  the  case  may  be.
+(a) any person who, at the time of the commission of such offence, is a director, manager, secretary, or other similar officer of such body corporate, may be charged severally or jointly in the same proceedings with the body corporate; and
 
-82. A person who is guilty of an offence under this Act in  respect  of  which  no  penalty  is  expressly  provided shall,  on  conviction,  be  liable  to  a  fine  not  exceeding five  thousand  ringgit.
+(b) every such director, manager, secretary or other similar officer of such body corporate who was, in any way, by act or omission directly or indirectly, concerned in, or party to, the commission of the offence shall be deemed to be guilty of that offence,
 
-83. A person who  is guilty of an offence under this Act shall,  in  the  case  of  a  continuing  offence,  be  liable,  in addition to any other penalty to which he is liable under this  Act  in  respect  of  such  offence,  to  a  daily  fine  not exceeding  five  hundred  ringgit  for  each  day  the  offence continues  after  conviction.
-
-84. Where  a  body  corporate  is  guilty  of  an  offence under  this  Act-
-
-(a) any person who, at the time of the commission of such offence, is a director, manager, secretary, or other similar officer of such body corporate, may be charged severally or jointly in the same proceedings  with  the  body  corporate;  and
-
-(b) every such director, manager, secretary or other similar officer of such body corporate who was, in  any  way,  by  act  or  omission  directly  or indirectly, concerned in, or  party to, the commission  of the  offence  shall  be  deemed  to be  guilty  of  that  offence,
-
-unless he proves that the offence was committed without his knowledge or connivance or that he took all reasonable precautions  or  that  he  had  exercised  due  diligence  to prevent  the  commission  of  the  offence.
+unless he proves that the offence was committed without his knowledge or connivance or that he took all reasonable precautions or that he had exercised due diligence to prevent the commission of the offence.
 
 [[END OF PAGE 56]]
 
@@ -2102,47 +2110,47 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 57
 
-85. (1) Where an offence against any provision of this Act has been committed by a private higher educational institution or any person who at the time of the commission of  the  offence  was-
+##### Liability of director, etc. for offences committed by private higher educational institution established by it.
 
-(a) a  member  of  the  board  of  directors;
+85. (1) Where an offence against any provision of this Act has been committed by a private higher educational institution or any person who at the time of the commission of the offence was—
 
-(b) a  manager;
+(a) a member of the board of directors;
 
-(c) a  secretary;
+(b) a manager;
 
-(d) holding  an  office  or position  similar  to  that  of a manager or secretary of  the  company establishing  such  private  higher  educational institution;
+(c) a secretary;
 
-(e) a  chief  executive;
+(d) holding an office or position similar to that of a manager or secretary of the company establishing such private higher educational institution;
 
-(f) a  clerk;
+(e) a chief executive;
 
-(g) a  servant;  or
+(f) a clerk;
 
-(h) an  agent,
+(g) a servant; or
 
-of  the  private  higher  educational  institution  shall  be deemed  to  be  guilty  of  that  offence.
+(h) an agent,
 
-(2) It  shall  be  a  defence  for  any  person  prosecuted pursuant  to  subsection  (1)  if  he  proves-
+of the private higher educational institution shall be deemed to be guilty of that offence.
 
-(a) that  the  offence  was  committed  without  his knowledge  or  connivance;  or
+(2) It shall be a defence for any person prosecuted pursuant to subsection (1) if he proves—
 
-(b) that  he-
+(a) that the offence was committed without his knowledge or connivance; or
 
-(i)  took  all  reasonable  precaution;  and
+(b) that he—
 
-(ii)  exercised  all  due  diligence,
+(i) took all reasonable precaution; and
 
-to  prevent the  commission  of the  offence  as he ought  to  have  taken  and  exercised,
+(ii) exercised all due diligence,
 
-having  regard  to  the  nature  of  his functions  in  that capacity  and  to  all  the  circumstances.
+to prevent the commission of the offence as he ought to have taken and exercised,
 
-(3) A  private  higher  educational  institution  liable under this Act to any punishment or penalty for any act or  omission  shall  be  liable  to  the  same  punishment  or penalty  for  any  such  act  or  omission  by-
+having regard to the nature of his functions in that capacity and to all the circumstances.
 
-(a) an  agent  acting  on  its  behalf;  or
+(3) A private higher educational institution liable under this Act to any punishment or penalty for any act or omission shall be liable to the same punishment or penalty for any such act or omission by—
 
-(b) a  clerk  or  servant  acting  in  the  course  of  its employment.
+(a) an agent acting on its behalf; or
 
-##### Liability  of director, etc. for  offences committed by  private higher educational institution established by  it.
+(b) a clerk or servant acting in the course of its employment.
 
 [[END OF PAGE 57]]
 
@@ -2152,25 +2160,25 @@ having  regard  to  the  nature  of  his functions  in  that capacity  and  to  
 
 BILL
 
-##### Power  to compound.
+(4) A partner, agent, clerk or servant or the clerk or servant of that partner or agent shall not be relieved from liability to prosecution under this section.
 
-(4) A partner,  agent,  clerk  or  servant  or the  clerk  or servant of that partner or agent shall not be relieved from liability  to  prosecution  under  this  section.
+##### Power to compound.
 
-86. (1) The  Registrar  General  may,  with  the  consent in  writing  of  the  Public  Prosecutor,  compound  any offence  committed  by  any  private  higher  educational institution  or  person  under  this  Act  or  the  regulations made  under  this Act, which  is prescribed  to be  a compoundable  offence.
+86. (1) The Registrar General may, with the consent in writing of the Public Prosecutor, compound any offence committed by any private higher educational institution or person under this Act or the regulations made under this Act, which is prescribed to be a compoundable offence.
 
-(2) A  written  offer  shall  be  made  to  the  person  to compound  the  offence  upon  payment  to  the  Registrar General  of such  sum  of money  as  may  be  so  specified, which  shall  not  be  more  than  fifty  per  centum  of  the maximum  fine  to  which  the  person  would  have  been liable  if  he  had  been  convicted  of  the  offence,  within such  time  as  may  be  specified  in  the  offer.
+(2) A written offer shall be made to the person to compound the offence upon payment to the Registrar General of such sum of money as may be so specified, which shall not be more than fifty per centum of the maximum fine to which the person would have been liable if he had been convicted of the offence, within such time as may be specified in the offer.
 
-(3) An offer under subsection (2) may be made at any time  after  the  offence  has  been  committed,  but  before any  prosecution  for  it  has  been  instituted.
+(3) An offer under subsection (2) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted.
 
-- Where  an  offence  has  been  compounded-
+(4) Where an offence has been compounded—
 
-(a) no  further  proceeding  shall  be  taken  and  no prosecution shall be instituted against  such person  to  whom  the  offer  to  compound  was made;  and
+(a) no further proceeding shall be taken and no prosecution shall be instituted against such person to whom the offer to compound was made; and
 
-(b) any  goods, books,  minute  books, registers, documents, materials or other articles seized in connection  with  the  offence,  may  be  released subject to  such  conditions  as  may  be  imposed in accordance with the condition of the compound.
+(b) any goods, books, minute books, registers, documents, materials or other articles seized in connection with the offence, may be released subject to such conditions as may be imposed in accordance with the condition of the compound.
 
-(5) Any  money  received  by  the  Registrar  General under  this  section  shall  be  paid  into  and  form  part  of the  Federal  Consolidated  Fund.
+(5) Any money received by the Registrar General under this section shall be paid into and form part of the Federal Consolidated Fund.
 
-(6) Where the amount specified in the offer to compound  is  not  paid  within  the  time  specified  in  the offer,  or  within  such  extended  period  as  the  Registrar General  may  grant,  prosecution  for  the  offence  may  be instituted  at  any  time  thereafter  against  the  person  to whom  the  offer  was  made.
+(6) Where the amount specified in the offer to compound is not paid within the time specified in the offer, or within such extended period as the Registrar General may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made.
 
 [[END OF PAGE 58]]
 
@@ -2180,27 +2188,29 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 59
 
-87. (1) Subject to subsection (3), the Registrar General, Deputy  Registrar  General,  Registrar,  Deputy  Registrar, Assistant Registrar or a police officer not below the rank of Inspector shall have the authority to appear in court-
+##### Institution and conduct of prosecution.
 
-(a) for  the  conduct  of  any  prosecution  in  respect of  an  offence  under  this  Act;  or
+87. (1) Subject to subsection (3), the Registrar General, Deputy Registrar General, Registrar, Deputy Registrar, Assistant Registrar or a police officer not below the rank of Inspector shall have the authority to appear in court—
 
-(b) for the purposes of any other legal proceeding under  this  Act.
+(a) for the conduct of any prosecution in respect of an offence under this Act; or
 
-(2) In  the  case  of  a  Deputy  Registrar  General,  a Registrar,  a  Deputy Registrar or  an  Assistant Registrar, such  authority  shall  be  subject  to  the  approval  of  the Registrar  General.
+(b) for the purposes of any other legal proceeding under this Act.
 
-(3) Prosecution  in  respect  of any  offence  under  this Act  shall  not  be  instituted  or  conducted  without  the written  consent  of  the  Public  Prosecutor.
+(2) In the case of a Deputy Registrar General, a Registrar, a Deputy Registrar or an Assistant Registrar, such authority shall be subject to the approval of the Registrar General.
 
-### PART  XV
+(3) Prosecution in respect of any offence under this Act shall not be instituted or conducted without the written consent of the Public Prosecutor.
+
+### PART XV
 
 #### REGULATIONS
 
-88. (1) Without prejudice to his power  to  make regulations  under  any  other  provision  of  this  Act,  the Minister may make regulations for the purpose of carrying into  effect  the  provisions  of  this  Act.
+##### Power of Minister to make regulations.
 
-(2) Without prejudice  to the generality  of the  power conferred  in  subsection  (1),  the  Minister  may  make regulations for or in respect of all or any of the following matters:
+88. (1) Without prejudice to his power to make regulations under any other provision of this Act, the Minister may make regulations for the purpose of carrying into effect the provisions of this Act.
 
-(a) the  forms  to  be  used  and  the  information  to  be furnished in any application or for other purposes under  this  Act;
+(2) Without prejudice to the generality of the power conferred in subsection (1), the Minister may make regulations for or in respect of all or any of the following matters:
 
-##### Power of Minister  to make regulations.
+(a) the forms to be used and the information to be furnished in any application or for other purposes under this Act;
 
 [[END OF PAGE 59]]
 
@@ -2256,11 +2266,11 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 #### GENERAL
 
-89. (1) Subject  to  the  provision  of Article  153  of the Federal  Constitution,  membership  of  a  private  higher educational institution, whether as an officer, teacher or student,  shall be open to all persons irrespective of sex, race,  religion,  nationality  or  class.
+##### Distinction of race and creed prohibited.
 
-(2) No test of religious belief or profession  shall be adopted or imposed in order to entitle any person to be admitted  to  such  membership  or  to  be  awarded  any degree, diploma or certificate nor shall any fellowship, scholarship, exhibition, bursary, medal,  prize, other distinction or award be limited to persons of any particular race,  religion,  nationality  or  class.
+89. (1) Subject to the provision of Article 153 of the Federal Constitution, membership of a private higher educational institution, whether as an officer, teacher or student, shall be open to all persons irrespective of sex, race, religion, nationality or class.
 
-##### Distinction of race  and creed prohibited.
+(2) No test of religious belief or profession shall be adopted or imposed in order to entitle any person to be admitted to such membership or to be awarded any degree, diploma or certificate nor shall any fellowship, scholarship, exhibition, bursary, medal, prize, other distinction or award be limited to persons of any particular race, religion, nationality or class.
 
 [[END OF PAGE 61]]
 
@@ -2270,31 +2280,31 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-##### Indemnity and protection against  suit and  legal proceedings.
+##### Indemnity and protection against suit and legal proceedings.
 
-##### Officers deemed  to be public servants.
+90. No action shall lie or prosecution shall be brought, instituted or maintained against the Government, Minister, Registrar General, Deputy Registrar General, Registrar, Deputy Registrar or Assistant Registrar or against any officer of the Government or any person acting under the direction of the Minister or the Registrar General, in any court for any thing done or omitted to be done under this Act—
 
-FM.S.Cap.45.
+(a) in good faith;
 
-##### Minister's power  to exempt.
+(b) in the reasonable belief that it was necessary for the purpose intended to be served thereby; or
 
-90. No action  shall lie or prosecution  shall be brought, instituted or maintained against the Government,  Minister, Registrar General,  Deputy Registrar General,  Registrar, Deputy  Registrar  or  Assistant  Registrar  or  against  any officer  of  the  Government  or  any  person  acting  under the  direction  of  the  Minister  or  the  Registrar  General, in  any  court  for  any  thing  done  or  omitted  to  be  done under  this  Act-
+(c) for carrying into effect the provisions of this Act.
 
-(a) in  good  faith;
+##### Officers deemed to be public servants.
 
-(b) in  the  reasonable  belief  that  it  was  necessary for  the  purpose  intended  to  be  served  thereby; or
+91. Every person appointed, or lawfully exercising the powers of a person appointed under this Act, shall be deemed to be public servants within the meaning of the Penal Code.
 
-(c) for  carrying  into  effect  the  provisions  of  this Act.
+F.M.S. Cap. 45.
 
-91. Every  person  appointed,  or  lawfully  exercising  the powers  of  a  person  appointed  under  this  Act,  shall  be deemed  to  be  public  servants  within  the  meaning  of the Penal  Code.
+##### Minister's power to exempt.
 
-92. (1) The  Minister may,  if he  considers  it  desirable and in the interest of a private higher educational institution or in the  interest  of the  students  or the public,  by  order published  in  the Gazette, exempt  the  private  higher educational  institution  from  any  provision  of  this  Act.
+92. (1) The Minister may, if he considers it desirable and in the interest of a private higher educational institution or in the interest of the students or the public, by order published in the Gazette, exempt the private higher educational institution from any provision of this Act.
 
-(2) The exemption  granted  under  subsection  (1)  shall be  subject to  such conditions  as the  Minister may  specify in  the  order.
+(2) The exemption granted under subsection (1) shall be subject to such conditions as the Minister may specify in the order.
 
-(3) The  power  of  exemption  under subsection (1) shall  not  include  the  provisions  as  to  the  approval  for the establishment of a private higher educational institution and the registration thereof, and the provisions of sections 38  and  39.
+(3) The power of exemption under subsection (1) shall not include the provisions as to the approval for the establishment of a private higher educational institution and the registration thereof, and the provisions of sections 38 and 39.
 
-(4)  The  Minister may,  at any time,  use his discretion to revoke an exemption under this section or alter or add to  conditions  attached  to  the  exemption.
+(4) The Minister may, at any time, use his discretion to revoke an exemption under this section or alter or add to conditions attached to the exemption.
 
 [[END OF PAGE 62]]
 
@@ -2304,27 +2314,27 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 63
 
-93. (1) The  member  of  the  board  of  directors,  chief executive or any person responsible for the management of  a  private  higher  educational  institution  shall  ensure that at all times, the premises of a private higher educational institution conform to such standards as may be prescribed under  this  Act.
+##### Requirement as to premises.
 
-(2) Notwithstanding subsection (1), if the Minister is satisfied  with  respect  to  any  private  higher  educational institution  that  having  regard  to-
+93. (1) The member of the board of directors, chief executive or any person responsible for the management of a private higher educational institution shall ensure that at all times, the premises of a private higher educational institution conform to such standards as may be prescribed under this Act.
 
-(a) the  nature  of  its  site;
+(2) Notwithstanding subsection (1), if the Minister is satisfied with respect to any private higher educational institution that having regard to—
 
-(b) any  existing  buildings  thereon;  or
+(a) the nature of its site;
+
+(b) any existing buildings thereon; or
 
 (c) other special circumstances affecting its premises,
 
-it would be unreasonable in that case to require conformity with the requirements of the regulations in any particular respect, he may direct that the premises shall be deemed to  conform  to  the  prescribed standards  if  instead  of conforming to the requirements of the regulations in that respect the premises conform to such other requirements as  may  be  specified  in  the  direction.
-
-94. (1) Any notice, order, document or other communication required to be given or served under this Act  on  a  private  higher  educational  institution  may, unless  some other form of service  is  prescribed,  be  sent by  registered  post.
-
-(2) It  shall  then  be  deemed  that  the  notice,  order, document or such communication has been served on the day  succeeding  the  day  on  which  it  would  have  been received  in  the  ordinary  course  of  such  posting.
-
-(3) Where the person to whom there has been addressed a  registered  letter  under  subsection  (1)  is  informed  of the  fact  that  there  is  a  registered  letter  awaiting  him  at a  post  office  and  he  refuses  or  neglects  to  take  delivery of the  registered  letter,  such  notice,  order,  document  or communication  shall  be  deemed  to  have  been  served upon  him  on  the  date  upon  which  he  was  informed.
-
-##### Requirement as to premises.
+it would be unreasonable in that case to require conformity with the requirements of the regulations in any particular respect, he may direct that the premises shall be deemed to conform to the prescribed standards if instead of conforming to the requirements of the regulations in that respect the premises conform to such other requirements as may be specified in the direction.
 
 ##### Service.
+
+94. (1) Any notice, order, document or other communication required to be given or served under this Act on a private higher educational institution may, unless some other form of service is prescribed, be sent by registered post.
+
+(2) It shall then be deemed that the notice, order, document or such communication has been served on the day succeeding the day on which it would have been received in the ordinary course of such posting.
+
+(3) Where the person to whom there has been addressed a registered letter under subsection (1) is informed of the fact that there is a registered letter awaiting him at a post office and he refuses or neglects to take delivery of the registered letter, such notice, order, document or communication shall be deemed to have been served upon him on the date upon which he was informed.
 
 [[END OF PAGE 63]]
 
@@ -2334,46 +2344,47 @@ it would be unreasonable in that case to require conformity with the requirement
 
 BILL
 
-95. This  Act  shall  not  apply  to
 ##### Non-application.
 
-Act
+95. This Act shall not apply to—
+
+(a) an educational institution established by the Minister under or deemed to have been established under the Education Act 1996;
+
+Act 550.
+
+(b) an institution established under the Institut Teknologi MARA Act 1976;
 
 Act 173.
 
-Act  30.
+(c) a University or University College established under the Universities and University Colleges Act 1971; or
 
-##### Saving  and transitional provisions relating  to existing private higher educational institutions.
+Act 30.
+
+(d) an educational institution established under any other written law.
+
+### PART XVII
+
+#### SAVING AND TRANSITIONAL PROVISIONS
+
+##### Saving and transitional provisions relating to existing private higher educational institutions.
+
+96. (1) The Essential (Higher Educational Institutions) Regulations 1969 is repealed.
 
 P.U. (A) 234/69.
 
-Act
+(2) Notwithstanding subsection (1), all private higher educational institutions—
 
-(a) an  educational  institution  established  by  the Minister under or deemed to have been established under  the  Education  Act  1996;
+(a) established under the Essential (Higher Educational Institutions) Regulations 1969; or
 
-(b) an  institution  established  under  the  Institute Technology  MARA  Act  1976;
+(b) registered or deemed to have been registered under the Education Act 1996,
 
-(c) a University  or University  College  established under the Universities and University Colleges Act 1971; or
+Act 550.
 
-(d) an educational institution established under any other  written  law.
+shall, on the date of coming into force of this Act, be deemed to have been approved, established and registered under this Act.
 
-### PART  XVII
+(3) The conditions imposed on the private higher educational institutions referred to in paragraphs (2)(a) and (b), prior to the coming into force of this Act, shall continue to remain in force until varied or revoked by the Minister.
 
-#### SAVING  AND  TRANSITIONAL  PROVISIONS
-
-96. (1) The Essential (Higher Educational Institutions) Regulations  1969  is  repealed.
-
-(2) Notwithstanding subsection (1), all private higher educational  institutions-
-
-(a) established under the Essential (Higher Educational Institutions)  Regulations  1969;  or
-
-(b) registered  or  deemed  to  have  been  registered under  the  Education  Act  1996,
-
-shall,  on  the  date  of  coming  into  force  of  this  Act,  be deemed to have been approved, established and registered under  this  Act.
-
-(3) The  conditions  imposed  on  the  private  higher educational  institutions  referred  to  in  paragraphs  (2) (a) and (b), prior to  the coming  into  force of this Act,  shall continue  to  remain  in  force  until  varied  or  revoked  by the  Minister.
-
-(4) The  provisions  of  this  Act  shall  apply  to  such private  higher  educational  institution  as  if  such  private higher educational institution was approved, established and  registered  under  this  Act.
+(4) The provisions of this Act shall apply to such private higher educational institution as if such private higher educational institution was approved, established and registered under this Act.
 
 [[END OF PAGE 64]]
 
@@ -2383,40 +2394,41 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 65
 
-97. (1) A  provisional  certificate  of registration  issued or  deemed  to  have  been  issued  to  a  private  higher educational  institution  under  the  Education  Act  1996, shall  be  converted to and deemed to be a certificate of registration  issued  under  this  Act.
-
-(2) In  addition  to  a  condition  that  may  be  imposed under  any  provision  of  this Act,  the  private  higher educational institution  shall also comply  with any  other condition  as  the  Registrar  General  may,  from  time  to time,  impose.
-
-98. (1) The Minister may, by rules, make such provision as  he  considers  necessary  or  expedient  for  the  purpose of removing any difficulties occasioned by the application of this  Act  on  private  higher  educational  institutions-
-
-(a) established  under the Essential (Higher Educational  Institutions)  Regulations  1969;
-
-(b) registered  or  deemed  to  have  been  registered under  the  Education  Act  1996;  and
-
-(c) to  which provisional certificates  of registration have been issued or  are  deemed to have been issued  under  the  Education  Act  1996.
-
-(2) The  power  of  the  Minister  under  subsection  (1) shall  include  power  to  make  such  modifications  so  as to  give  effect  to  the  provisions  of  this  Act.
-
-99. (1) A person who, on the date of coming into force of  this  Act,  is  in  the  employment  of  a  private  higher educational institution as a teacher whether on a full time or  part  time  basis-
-
-(a) who  has  been  registered  as  a  teacher  or  is deemed  to have  been registered under the Education  Act  1996  shall,  within  one  month from  the  date  of coming  into  force  of this  Act; or
-
-(b) who has been issued or is deemed to have been issued with a permit to teach under the Education Act  1996  shall-
-
-(i)  within  one  month  before  the  expiry  of such  permit;  or
-
 ##### Conversion of provisional certificates of registration.
-Act
 
-##### Power  of Minister  to make additional transitional provisions.
+97. (1) A provisional certificate of registration issued or deemed to have been issued to a private higher educational institution under the Education Act 1996, shall be converted to and deemed to be a certificate of registration issued under this Act.
+
+Act 550.
+
+(2) In addition to a condition that may be imposed under any provision of this Act, the private higher educational institution shall also comply with any other condition as the Registrar General may, from time to time, impose.
+
+##### Power of Minister to make additional transitional provisions.
+
+98. (1) The Minister may, by rules, make such provision as he considers necessary or expedient for the purpose of removing any difficulties occasioned by the application of this Act on private higher educational institutions—
+
+(a) established under the Essential (Higher Educational Institutions) Regulations 1969;
 
 P.U. (A) 234/69.
 
-Act
+(b) registered or deemed to have been registered under the Education Act 1996; and
 
-Act
+(c) to which provisional certificates of registration have been issued or are deemed to have been issued under the Education Act 1996.
 
-##### Transitional provision relating  to teachers.
+Act 550.
+
+(2) The power of the Minister under subsection (1) shall include power to make such modifications so as to give effect to the provisions of this Act.
+
+##### Transitional provision relating to teachers.
+
+99. (1) A person who, on the date of coming into force of this Act, is in the employment of a private higher educational institution as a teacher whether on a full time or part time basis—
+
+(a) who has been registered as a teacher or is deemed to have been registered under the Education Act 1996 shall, within one month from the date of coming into force of this Act; or
+
+(b) who has been issued or is deemed to have been issued with a permit to teach under the Education Act 1996 shall—
+
+Act 550.
+
+(i) within one month before the expiry of such permit; or
 
 [[END OF PAGE 65]]
 
@@ -2426,31 +2438,31 @@ Act
 
 BILL
 
-(ii)  within one month from the date of coming into  force  of  this  Act,
+(ii) within one month from the date of coming into force of this Act,
 
-whichever  is  the  later,
+whichever is the later,
 
-apply  for  a  permit  to  teach  under  Part  IX  of  this  Act.
+apply for a permit to teach under Part IX of this Act.
 
-(2) Pending  the  determination  of the  application  for a permit  to  teach  referred  to  under  subsection  (1),  such person  may  continue  to  teach  in  the  private  higher educational institution  and  shall  in those  circumstances be  deemed  to  be  lawfully  teaching.
+(2) Pending the determination of the application for a permit to teach referred to under subsection (1), such person may continue to teach in the private higher educational institution and shall in those circumstances be deemed to be lawfully teaching.
 
-(3) The acknowledgement letter, issued by the Registrar General in respect of an application for a permit to teach under this section, shall be sufficient proof of the making of  such  application.
+(3) The acknowledgement letter, issued by the Registrar General in respect of an application for a permit to teach under this section, shall be sufficient proof of the making of such application.
 
-## EXPLANATORY  STATEMENT
+## EXPLANATORY STATEMENT
 
-The proposed Private Higher Educational Institutions Act 1996 ("the Act") is introduced  to regulate the establishment,  registration, management and supervision of, and control of quality of education provided  by,  private  higher  educational  institutions.
+The proposed Private Higher Educational Institutions Act 1996 (“the Act”) is introduced to regulate the establishment, registration, management and supervision of, and control of quality of education provided by, private higher educational institutions.
 
-### PART  I
+### PART I
 
-- Part I contains the provisions on commencement and interpretation.
+2. Part I contains the provisions on commencement and interpretation.
 
 ### PART II
 
-- Part II seeks to provide for the administration and implementation of the  Act.
+3. Part II seeks to provide for the administration and implementation of the Act.
 
-4. Clause  3 is  in  respect  of  the  appointment  of  the  Registrar General,  Deputy  Registrar  General,  Registrars,  Deputy  Registrars and Assistant Registrars of Private Higher Educational Institutions.
+4. Clause 3 is in respect of the appointment of the Registrar General, Deputy Registrar General, Registrars, Deputy Registrars and Assistant Registrars of Private Higher Educational Institutions.
 
-5. Clauses 4 and 5  deal  with  the  power of the  Minister to  issue general  and  special  directions  on  matters  relating to private higher educational institutions. Such directions shall be in accordance with the national policies, strategies and guidelines on higher education formulated  and  determined  by  the  National  Council  on  Higher Education.
+5. Clauses 4 and 5 deal with the power of the Minister to issue general and special directions on matters relating to private higher educational institutions. Such directions shall be in accordance with the national policies, strategies and guidelines on higher education formulated and determined by the National Council on Higher Education.
 
 [[END OF PAGE 66]]
 
@@ -2462,29 +2474,29 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 ### PART III
 
-- Part  III  seeks  to  regulate  the  establishment  of  private  higher educational  institutions.
+6. Part III seeks to regulate the establishment of private higher educational institutions.
 
-- Clauses  6 and 7 relate  to  the  submission  of  application  to establish  private  higher educational  institutions  and  the  disclosure of  other  interests  by  the  applicants  in  their  applications.
+7. Clauses 6 and 7 relate to the submission of application to establish private higher educational institutions and the disclosure of other interests by the applicants in their applications.
 
-- Clause 8 requires the Registrar General to approve the proposed constitution  of the  private  higher  educational  institution  and  make recommendations to the Minister on the application for its establishment.
+8. Clause 8 requires the Registrar General to approve the proposed constitution of the private higher educational institution and make recommendations to the Minister on the application for its establishment.
 
-- Clause  9 seeks  to  confer  power  on  the  Registrar  General  to refuse  to  further  consider  an  application  in  certain  circumstances.
+9. Clause 9 seeks to confer power on the Registrar General to refuse to further consider an application in certain circumstances.
 
-- Clause  10 relates  to  the  power  of  the  Minister  to  grant  or refuse  an  application  for  an  approval  for  the  establishment  of  a private  higher  educational  institution.
+10. Clause 10 relates to the power of the Minister to grant or refuse an application for an approval for the establishment of a private higher educational institution.
 
-- Clause  11 specifies  the  situations  wherein  the  Minister  may not  grant  an  approval  for  the  establishment  of  a  private  higher educational  institution.
+11. Clause 11 specifies the situations wherein the Minister may not grant an approval for the establishment of a private higher educational institution.
 
-- Clause 12 seeks to require a successful applicant to incorporate locally a company for the purpose of the private higher educational institution,  if  he  or  it  is  not  already  a  company. Clauses  13,  14, 15 and 16 set  out  the  minimum  requirements  of the  company  and other  matters  related  to  it.
+12. Clause 12 seeks to require a successful applicant to incorporate locally a company for the purpose of the private higher educational institution, if he or it is not already a company. Clauses 13, 14, 15 and 16 set out the minimum requirements of the company and other matters related to it.
 
-- Clause  17 allows  the  Registrar  General  to  request for further information.
+13. Clause 17 allows the Registrar General to request for further information.
 
-- Clauses  18 and 19 prohibit  a  private  higher  educational institution from  establishing  a  branch,  affiliating,  associating  or collaborating with another higher educational institution and entering into  any  arrangement  affecting  the  business  of  the  private  higher educational  institution,  without the  prior  approval  of the  Minister.
+14. Clauses 18 and 19 prohibit a private higher educational institution from establishing a branch, affiliating, associating or collaborating with another higher educational institution and entering into any arrangement affecting the business of the private higher educational institution, without the prior approval of the Minister.
 
-- Clause 20 empowers the Minister to vary conditions or impose new  conditions  relating  to  the  granting  of  an  approval  for  the establishment  of  the  private  higher  educational  institution.
+15. Clause 20 empowers the Minister to vary conditions or impose new conditions relating to the granting of an approval for the establishment of the private higher educational institution.
 
 ### PART IV
 
-- Part IV  contains  provisions  for the  establishment of a private higher  educational  institution  with  the  status  of  a  University  or University  College,  or  a  branch  thereof,  or  a  branch  campus  of  a foreign  University  or  University  College.
+16. Part IV contains provisions for the establishment of a private higher educational institution with the status of a University or University College, or a branch thereof, or a branch campus of a foreign University or University College.
 
 [[END OF PAGE 67]]
 
@@ -2494,33 +2506,33 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-- Clause  21 seeks  to  set  out  that  the  prior  approval  of  the Minister  shall  be  obtained  before  the  institutions  referred  to  in paragraph  16  may  be  established  and clause  22 specifies  that  an application  for  such  approval  may  be  made  only  on  the  invitation of  the Minister, Only  these institutions are allowed  to  award degrees.
+17. Clause 21 seeks to set out that the prior approval of the Minister shall be obtained before the institutions referred to in paragraph 16 may be established and clause 22 specifies that an application for such approval may be made only on the invitation of the Minister, Only these institutions are allowed to award degrees.
 
-### PART  V
+### PART V
 
-- Part  V  seeks  to  provide  for  the  registration  of private  higher educational  institutions.
+18. Part V seeks to provide for the registration of private higher educational institutions.
 
-- Clause 24 seeks  to regulate the procedure for the registration of  private  higher  educational  institutions  by  the  Registrar  General while clause  25 introduces  a  register  of private  higher  educational institutions. The requirement to exhibit the certificate of registration is  stated  in clause 26. The Registrar General  may refuse  to register the  private  higher  educational  institution  on  grounds  dealt  with  in clause  27.
+19. Clause 24 seeks to regulate the procedure for the registration of private higher educational institutions by the Registrar General while clause 25 introduces a register of private higher educational institutions. The requirement to exhibit the certificate of registration is stated in clause 26. The Registrar General may refuse to register the private higher educational institution on grounds dealt with in clause 27.
 
-- A  duty  is  imposed  on  a private  higher  educational  institution under clause 28 to seek the approval of the Registrar General before moving  premises.
+20. A duty is imposed on a private higher educational institution under clause 28 to seek the approval of the Registrar General before moving premises.
 
-- Clause  29 confers  powers  on  the  Registrar  General  to  vary conditions  or impose new  conditions  relating to the registration of a  private  higher  educational  institution.
+21. Clause 29 confers powers on the Registrar General to vary conditions or impose new conditions relating to the registration of a private higher educational institution.
 
 ### PART VI
 
-- Part VI deals with the management of private higher educational institutions.
+22. Part VI deals with the management of private higher educational institutions.
 
-- Clause  30 seeks  to  impose  a  responsibility  on  every  private higher  educational  institution  to  be  managed  in  strict  accordance with  its  constitution.
+23. Clause 30 seeks to impose a responsibility on every private higher educational institution to be managed in strict accordance with its constitution.
 
-- Clauses  31,  32,  33,  34 and  35  contain  provisions  on  the appointment, registration, duty and responsibilities of a chief executive of  a  private  higher  educational  institution.
+24. Clauses 31, 32, 33, 34 and 35 contain provisions on the appointment, registration, duty and responsibilities of a chief executive of a private higher educational institution.
 
-- Clause  36 seeks  to  list  out  persons  not  eligible  to  take  part in  the  management  of  a  private  higher  educational  institution.
+25. Clause 36 seeks to list out persons not eligible to take part in the management of a private higher educational institution.
 
-- Clause 37 empowers  the  Registrar General to give directions for  the  proper  conduct  of  a  chief  executive.
+26. Clause 37 empowers the Registrar General to give directions for the proper conduct of a chief executive.
 
 ### PART VII
 
-- Part  VII  is  concerned  with  the  conduct  of  courses  of  study at  private  higher  educational  institutions.
+27. Part VII is concerned with the conduct of courses of study at private higher educational institutions.
 
 [[END OF PAGE 68]]
 
@@ -2530,27 +2542,27 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 69
 
-- The  approval  of the  Minister  shall  be  obtained  under clause 38 before  any  course  of  study  or  training  programme  can  be conducted in a private higher educational institution,  including  the conduct of which  is  carried  out jointly  or in  affiliation,  association or  collaboration  with  other  private  higher  educational  institutions,
+28. The approval of the Minister shall be obtained under clause 38 before any course of study or training programme can be conducted in a private higher educational institution, including the conduct of which is carried out jointly or in affiliation, association or collaboration with other private higher educational institutions,
 
-- Clause 39 contains  reference  to  an  authority  responsible  for the quality assurance of courses of study conducted at private higher educational  institutions.
+29. Clause 39 contains reference to an authority responsible for the quality assurance of courses of study conducted at private higher educational institutions.
 
-- Clause  40 seeks  to  enable  the  Minister  to  impose  conditions when  granting  approval  for  the  conduct  of  a  course  of  study.
+30. Clause 40 seeks to enable the Minister to impose conditions when granting approval for the conduct of a course of study.
 
-- Clauses  41 and 42 deal  with  the  medium  of  instruction  for the conduct  of  courses of  study at private higher educational institutions  which  shall  be  the  national  language  unless  approved by  the  Minister,  on  application,  to  be  conducted  in  the  English language  subject  to  the  power  of  the  Minister  to  thereafter  direct such  course  of  study  to  be  conducted  in  the  national  language.
+31. Clauses 41 and 42 deal with the medium of instruction for the conduct of courses of study at private higher educational institutions which shall be the national language unless approved by the Minister, on application, to be conducted in the English language subject to the power of the Minister to thereafter direct such course of study to be conducted in the national language.
 
-- Clause  43 sets  out  the  compulsory  subjects  to  be  taught  in private  higher  educational  institutions.
+32. Clause 43 sets out the compulsory subjects to be taught in private higher educational institutions.
 
-- Clause  44 prohibits  the  award  of  a  certificate,  diploma  or degree by a private higher educational institution unless the certificate, diploma or  degree  meets  the  minimum  standard  as  determined  by an  authority  established  under  any  written  law  for  the  purpose  of prescribing  such  minimum  standard.  This  is  to  ensure  the  quality and credibility  of the  certificates,  diplomas  and degrees  issued by the  private  higher  educational  institutions.
+33. Clause 44 prohibits the award of a certificate, diploma or degree by a private higher educational institution unless the certificate, diploma or degree meets the minimum standard as determined by an authority established under any written law for the purpose of prescribing such minimum standard. This is to ensure the quality and credibility of the certificates, diplomas and degrees issued by the private higher educational institutions.
 
-- Clause  45 seeks  to  provide  power  for  the  Minister  to  make regulations for the supervision, regulation and control of the standard of  education.
+34. Clause 45 seeks to provide power for the Minister to make regulations for the supervision, regulation and control of the standard of education.
 
-### PART  VIII
+### PART VIII
 
-- Part Vlll  regulates  the  discipline  and  conduct of students  in private  higher  educational  institutions.
+35. Part VIII regulates the discipline and conduct of students in private higher educational institutions.
 
-- Clause 46 states that the disciplinary authority for the students of  the  private  higher  educational institution shall  be  the chief executive.
+36. Clause 46 states that the disciplinary authority for the students of the private higher educational institution shall be the chief executive.
 
-- Clauses 47,  48 and 49 prohibit  certain  student  activities  and confer power on  the  Registrar  General  to  suspend  or  dissolve  any organisation, body or group of students of a private higher educational institution. Meanwhile clause 50 seeks  to empower the Registrar General to make regulations on expulsion of student in certain cases, after  consultation  with  the  Minister.
+37. Clauses 47, 48 and 49 prohibit certain student activities and confer power on the Registrar General to suspend or dissolve any organisation, body or group of students of a private higher educational institution. Meanwhile clause 50 seeks to empower the Registrar General to make regulations on expulsion of student in certain cases, after consultation with the Minister.
 
 [[END OF PAGE 69]]
 
@@ -2562,33 +2574,33 @@ BILL
 
 ### PART IX
 
-- Clauses  51,  52 and 53 relate  to  the  issuance  and  revocation of  permits  to  teach.
+38. Clauses 51, 52 and 53 relate to the issuance and revocation of permits to teach.
 
-### PART  X
+### PART X
 
-- Clauses 54, 55, 56 and 57 describe the grounds for revocation of approval  and  cancellation  of registration,  its  procedure  and  that the  decision  on  the  revocation  or  cancellation  shall  be  based  on documents  alone.
+39. Clauses 54, 55, 56 and 57 describe the grounds for revocation of approval and cancellation of registration, its procedure and that the decision on the revocation or cancellation shall be based on documents alone.
 
 ### PART XI
 
-- Part  XI  seeks  to  introduce  provisions  relating  to  the  closing down  of  a  private  higher  educational  institution.
+40. Part XI seeks to introduce provisions relating to the closing down of a private higher educational institution.
 
-- Clause  58 deals  with  the  Minister's  power  to  give  direction to  safeguard  interest  of  students.
+41. Clause 58 deals with the Minister's power to give direction to safeguard interest of students.
 
-- Clause 59 determines the grounds for the cessation of operations and  closing  down  of a  private  higher  educational  institution  while clause  60 deals  with  the  mode  of service  of the  notice  of intention to  close  down  a  private  higher  educational  institution.
+42. Clause 59 determines the grounds for the cessation of operations and closing down of a private higher educational institution while clause 60 deals with the mode of service of the notice of intention to close down a private higher educational institution.
 
-- Clause  61 imposes  a  duty  on  the  board  of  directors  of  the company  establishing  the  private  higher  educational  institution  to make  arrangements  for  the  continuation  of  the  education  of  its students  upon  the  closing  down  of  the  private  higher  educational institution.
+43. Clause 61 imposes a duty on the board of directors of the company establishing the private higher educational institution to make arrangements for the continuation of the education of its students upon the closing down of the private higher educational institution.
 
-- Clause  62 seeks to  make  provision  for  the surrender  of certificates  upon  the  closing  down  of a  private  higher  educational institution.
+44. Clause 62 seeks to make provision for the surrender of certificates upon the closing down of a private higher educational institution.
 
 ### PART XII
 
-- Part  XII  provides  for  the  power  of  the  Registrar  General  to inspect all private higher educational institutions  in clauses  63 and 64.
+45. Part XII provides for the power of the Registrar General to inspect all private higher educational institutions in clauses 63 and 64.
 
-### PART  XIII
+### PART XIII
 
-- Part XIII  deals  with  enforcement  and  investigation  of private higher  educational  institutions.
+46. Part XIII deals with enforcement and investigation of private higher educational institutions.
 
-- Powers  of  the  investigating  officer  including  the  power  to search  and  seize,  with  or  without  warrant,  as  well  as  the  power  to seal a private higher educational institution and call for examination are  specified  in clauses  66,  67,  68,  69 and 70.
+47. Powers of the investigating officer including the power to search and seize, with or without warrant, as well as the power to seal a private higher educational institution and call for examination are specified in clauses 66, 67, 68, 69 and 70.
 
 [[END OF PAGE 70]]
 
@@ -2598,37 +2610,37 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 71
 
-### PART XI V
+### PART XIV
 
-- Part  XIV  creates  offences  and  penalties.
+48. Part XIV creates offences and penalties.
 
-- Clauses  72, 73,  74 and  75  contain  provisions  relating  to advertisements  and  misleading  statements.
+49. Clauses 72, 73, 74 and 75 contain provisions relating to advertisements and misleading statements.
 
-- Clauses 76, 77, 78, 79, 80 and 81  describe offences under this Act  and  provide  for  penalties  ranging  from  a  fine  of  ten  thousand ringgit to two  hundred  thousand  ringgit and  terms  of imprisonment ranging  from  one  month  to  two  years.
+50. Clauses 76, 77, 78, 79, 80 and 81 describe offences under this Act and provide for penalties ranging from a fine of ten thousand ringgit to two hundred thousand ringgit and terms of imprisonment ranging from one month to two years.
 
-- The provision  on  general  penalty  and penalty  in  the  case  of a  continuing  offence  are  set  out  in clauses  82 and 83.
+51. The provision on general penalty and penalty in the case of a continuing offence are set out in clauses 82 and 83.
 
-- Clause  84 deals  with  offences  by  bodies  corporate.
+52. Clause 84 deals with offences by bodies corporate.
 
-- Clause  85 deals with  the  liability  of  directors  and  other officials  of  private  higher  educational  institutions.
+53. Clause 85 deals with the liability of directors and other officials of private higher educational institutions.
 
-- Power  to  compound  offences  is  conferred  on  the  Registrar General in clause 86, subject to the consent of the Public Prosecutor.
+54. Power to compound offences is conferred on the Registrar General in clause 86, subject to the consent of the Public Prosecutor.
 
-- The  institution  and  conduct  of  prosecution  is  dealt  with  in clause  87.
+55. The institution and conduct of prosecution is dealt with in clause 87.
 
 ### PART XV
 
-- The power of the  Minister to  make  regulations  is  contained in clause  88 which  is  the  only  provision  in  Part  XV.
+56. The power of the Minister to make regulations is contained in clause 88 which is the only provision in Part XV.
 
 ### PART XVI
 
-- Part  XVI  contains  general  provisions.
+57. Part XVI contains general provisions.
 
-- Clause  89 prohibits  any  distinction  in  respect  of  sex,  race, religion,  nationality or class for membership and award of a private higher  educational  institution.
+58. Clause 89 prohibits any distinction in respect of sex, race, religion, nationality or class for membership and award of a private higher educational institution.
 
-- Clause 90 seeks  to  indemnify the Government,  the Minister, the  Registrar  General,  other  officers  appointed  under  the  Act  and any  government officer,  against  any  action  or  prosecution  in  any court for anything done or omitted to be done under the Act in good faith.
+59. Clause 90 seeks to indemnify the Government, the Minister, the Registrar General, other officers appointed under the Act and any government officer, against any action or prosecution in any court for anything done or omitted to be done under the Act in good faith.
 
-- Under clause  91 every  person  appointed  under  the  Act  or lawfully  exercising  the  power under the  Act  shall  be  deemed  to  be public  servants.
+60. Under clause 91 every person appointed under the Act or lawfully exercising the power under the Act shall be deemed to be public servants.
 
 [[END OF PAGE 71]]
 
@@ -2638,30 +2650,30 @@ PRIVATE  HIGHER  EDUCATIONAL  INSTITUTIONS
 
 BILL
 
-- Clause 92 provides the Minister with the power to exempt any private  higher  educational  institution  from  certain  provisions  of the Act  except  the  requirement  on  approval  for  its  establishment  and registration  and  quality  control  of  education.
+61. Clause 92 provides the Minister with the power to exempt any private higher educational institution from certain provisions of the Act except the requirement on approval for its establishment and registration and quality control of education.
 
-- Requirements  as  to  premises  are  laid  down  in clause  93.
+62. Requirements as to premises are laid down in clause 93.
 
-- Clause  94 regulates  service  of  notice, etc. under  the  Act.
+63. Clause 94 regulates service of notice, etc. under the Act.
 
-- Clause  95 exempts  all  educational  institutions  established under the Education  Act  1996,  the MARA Institute  of Technology, the  Universities and  University  Colleges  established  under  the Universities and University Colleges Act  1971  and any educational institution established under any other written law, from the application of the Act.
+64. Clause 95 exempts all educational institutions established under the Education Act 1996, the MARA Institute of Technology, the Universities and University Colleges established under the Universities and University Colleges Act 1971 and any educational institution established under any other written law, from the application of the Act.
 
-### PART  XVII
+### PART XVII
 
-- Part XVII seeks to provide for savings and transitional provisions.
+65. Part XVII seeks to provide for savings and transitional provisions.
 
-- Clause 96 contains savings and transitional provisions relating to  existing  private  higher  educational  institutions.
+66. Clause 96 contains savings and transitional provisions relating to existing private higher educational institutions.
 
-- Clause 97 allows for conversion of provisional certificates of registration  issued  under  or  deemed  to  have  been  issued  under  the Education  Act  1996  to  certificates  of registration  issued  under  the Act.
+67. Clause 97 allows for conversion of provisional certificates of registration issued under or deemed to have been issued under the Education Act 1996 to certificates of registration issued under the Act.
 
-- Clause  98 seeks  to  confer  power  on  the  Minister  to  make additional  transitional  provisions.
+68. Clause 98 seeks to confer power on the Minister to make additional transitional provisions.
 
-- Clause 99 contains transitional provisions relating to teachers.
+69. Clause 99 contains transitional provisions relating to teachers.
 
 ### FINANCIAL IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure the  amount  of  which  cannot  at  present  be  ascertained.
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
 
-[PN.(U 2 )  1808.]
+[PN. (U2) 1808.]
 
 [[END OF PAGE 72]]
