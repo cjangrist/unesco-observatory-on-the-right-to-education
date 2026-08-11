@@ -44,19 +44,19 @@ II},:}\,'A',<' /...Y../..I\t,r ,li,tI"i,/../'t..('(P. I.T,nt\.h J11 1/II'}"II:'i
 
 ,<'.U },t":f "\,'}')",I(::" II.'Y:'}"'} },IIP/..Clj },{t".,v,.\'.C t\l''/m(j\u: \'W(" (tI'/"""""",<') },(I':l>: 'I:'I'C ~{(t~./:wt~W' "',lIfI." fI.,m"'{t ,f':'}"I\A::
 
-,l'V;. 'I':' 2.30 Unit Pricc
+,l'V;. 'I':' 2.30 Unit Price
 
 6th Year No. 47
 
-ADDIS ABABA - 6"1July, 2000
+ADDIS ABABA - 6th July, 2000
 
 # CONTENTS
 
 Proclamation No.
 
-21712000
+217/2000
 
-Strengthening of the Management and Adminis- tration of Schools (Amendment)
+Strengthening of the Management and Administration of Schools (Amendment)
 
 Proclamation
 
@@ -64,23 +64,23 @@ Page 1388
 
 # PROCLAMATION NO. 217/2000
 
-## A PROCLAMATION TO AMEND THE STRENGTHENING OF MANAGEMENT AND ADMINISTRA TION OF SCHOOLS PROCLAMATION
+## A PROCLAMATION TO AMEND THE STRENGTHENING OF MANAGEMENT AND ADMINISTRATION OF SCHOOLS PROCLAMATION
 
 WHEREAS, it has become necessary to provide nationalized public schools with the management and administration of appropriate organs established under the Federal Democratic Republic of Ethiopia;
 
 WHEREAS, it has become necessary to re-organize the administration of public schools so that the provision of education in public schools follow the curriculum adopted by the respective region or city administration in which they are situated, and to make the quality of education they provide meet the national standard as well;
 
-WHEREAS, it has become necessary to provide puhlic schools with a new structural organization with a view of improving the level of education they provide, to guarantee the rights and benefits of teachers thereof, and designed to render a better service to the society;
+WHEREAS, it has become necessary to provide public schools with a new structural organization with a view of improving the level of education they provide, to guarantee the rights and benefits of teachers thereof, and designed to render a better service to the society;
 
 WHEREAS, it has become necessary to amend the strengthening of the Management and Administration of Schools Proclamation;
 
-NOW, THEREFORE, in accordance with Article 55( I) of the Constitution of the Federal Democratic Repuhlic of Ethiopia, it is hereby Proclaimed as follows:
+NOW, THEREFORE, in accordance with Article 55(1) of the Constitution of the Federal Democratic Republic of Ethiopia, it is hereby Proclaimed as follows:
 
-## I. Short Title
+## 1. Short Title
 
-This Proclamation may be cited as the' 'Strengthening of the Management and Administration of Schools (Amendment) Proclamation No. 217/2000."
+This Proclamation may be cited as the “Strengthening of the Management and Administration of Schools (Amendment) Proclamation No. 217/2000.”
 
-'1:J/.'):JILI" 7',"'.'1:. ,,,'if.?! Negarit G.P.O.Box SO,OO I
+'1:J/.'):JILI" 7',"'.'1:. ,,,'if.?! Negarit G.P.O.Box 80,001
 
 [[END OF PAGE 1]]
 
@@ -128,33 +128,33 @@ M,IP:(>; 'f:"'C ~v~'/nn~(~'?; aD 11'1.:" "'~N:£ID(lJ' f'1(l';,.1' \' a,'I,.,1 '
 
 ## 2. Amendment
 
-- The Strengtheming of the Management and Administration of Schools Proclamation No. 260/1984 is hereby amended as follows:
+1) The Strengthening of the Management and Administration of Schools Proclamation No. 260/1984 is hereby amended as follows:
 
-(a) the powers and duties given to the Ministry and Minister of Education respectively with respect to the Management and Administration of Publi<; Schools is transferred to the Organs referred to in Article 3 of this Proclamation;
+(a) the powers and duties given to the Ministry and Minister of Education respectively with respect to the Management and Administration of Public Schools is transferred to the Organs referred to in Article 3 of this Proclamation;
 
 (b) Articles 14-25,28,29 and 30 are repealed.
 
-- the Public Schools Employment Regulations (Legal Notice No. 85/1984) issued pursuant to the Strengthening of the Management and Administration of Schools proclamation No. 260/1984 is repealed.
+2) the Public Schools Employment Regulations (Legal Notice No. 85/1984) issued pursuant to the Strengthening of the Management and Administration of Schools proclamation No. 260/1984 is repealed.
 
-## Power to Issue Regulations
+## 3. Power to Issue Regulations
 
 Councils of National/Regional governments and Councils of City Administrations accountable to the Federal government may issue regulations with respect to the administration and management, the educational curriculum, the employment and administration of teachers in public schools situated in their respective region; and supervise the implementation of same.
 
-## Power to Issue Directives
+## 4. Power to Issue Directives
 
 Education Bearaux of National/Regional Governments and City Administrations may issue directives to implement regulations issued by their respective Councils of National/Regional Governments and City Administrations.
 
-## Accountability
+## 5. Accountability
 
 Public Schools shall be accountable to the appropriate education bearaux of the respective National/Regional governments and City Administrations in which they are situated.
 
-## Transfer of Rights and Obligations
+## 6. Transfer of Rights and Obligations
 
-The rights and obligations of Public Schools Committees established under Proclamation No. 26011984 are, pursuant to directives to be issued, transferred to the appropriate organs referred to in Article 3 of this Proclamation.
+The rights and obligations of Public Schools Committees established under Proclamation No. 260/1984 are, pursuant to directives to be issued, transferred to the appropriate organs referred to in Article 3 of this Proclamation.
 
-## Transitional Provisions
+## 7. Transitional Provisions
 
-The Public Schools Committees established under Proclamation No. 26011984 to administer Public Schools shall continue to serve in accordance with the prevailing practice until the Organs which administer Public schools pursuant to Article 3 of this Proclamation are established.
+The Public Schools Committees established under Proclamation No. 260/1984 to administer Public Schools shall continue to serve in accordance with the prevailing practice until the Organs which administer Public schools pursuant to Article 3 of this Proclamation are established.
 
 [[END OF PAGE 2]]
 
@@ -175,13 +175,11 @@ i',,1t{1 1',nlJ M. ?;'j! 'I"} n!tB{ '~-9U
 
 p. C ":J (\ 't?'p' \,1',.:/"\'-A-,<' t ,l'..t.l'\'e P'.'I"ht.(}.J'1£ /.T,nh.h T/..'LP,')'}
 
-## Inapplicalhe Laws
+## 8. Inapplicable Laws
 
-Any law or practice inconsistent with respect to suhject matters covered under this proclamation shall be of no
+Any law or practice inconsistent with respect to subject matters covered under this proclamation shall be of no effect.
 
-- effect.
-
-## Effective Date
+## 9. Effective Date
 
 This Proclamation shall enter into force as of the 6th day of July, 2000.
 
