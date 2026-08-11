@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# Canada's Response to the 7 th  Consultation on the Implementation of the UNESCO Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms (1974 Recommendation)
+# Canada's Response to the 7th Consultation on the Implementation of the UNESCO Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms (1974 Recommendation)
 
 December 2020
 
@@ -16,27 +16,25 @@ Prepared by the Council of Ministers of Education, Canada in collaboration with 
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human  Rights and Fundamental Freedoms 1 (the ' 1974 Recommendation' )  aims  to  promote  international  education  and  world  peace  through  understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO's 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms 1 (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula,  teacher  training,  educational  materials,  equipment,  and  student  assessment)  support  for  its implementation,  based  on  the  ' objectives ',  referred  to  in  paragraph  4  of  the 1974  Recommendation , ' regarded as major guiding principles of education policy ' including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974  Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global citizenship  education  and  (ii)  education  for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators ( Table 1 ). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
+
+Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
 Policies | Curricula | Teacher education | Student assessment
 --- | --- | --- | ---
 A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
-Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
-
-1
-
-http://portal.unesco.org/en/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
+1 http://portal.unesco.org/en/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
 [[END OF PAGE 2]]
 
@@ -44,45 +42,45 @@ http://portal.unesco.org/en/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that  Member  States  submit  […]  reports  concerning  the  action  taken  by  them  in  pursuance  of  this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall  submit  to  the  Organization  […]  reports  […]  on  the  action  taken  upon  the  recommendations  and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO's Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers  responsible  for relations  with  UNESCO.  The  questionnaire  is  typically  completed  by  Ministries  of  Education  and  other government authorities responsible for education. Responses should cover, as far as possible, education at all  levels  of  government,  including  sub-national  levels  where  applicable as well as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
-(i)      the time period 2017-2020;
+(i) the time period 2017-2020;
 
-(ii) education at all levels of formal education from pre-primary to tertiary education as well as nonformal education;
+(ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
 
 (iii) all levels of government that have responsibility for education within the country; and
 
 (iv) where possible, education outside the government sector.
 
-- To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
 2
 
@@ -90,55 +88,55 @@ http://portal.unesco.org/en/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 4]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on  race,  colour,  language,  religion,  disability, political or other opinion, national or social origin, birth or other status
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect  for  human  rights  and  fundamental  freedoms  (as  outlined  in  international conventions and declarations)
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations
+4.1 friendly relations among peoples and nations
 
-- 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing  all  forms  of  violence  including  bullying,  verbal  abuse  and  gender-based violence
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
-- 5.1 mitigation
+5.1 mitigation
 
-- 5.2 adaptation
+5.2 adaptation
 
-- 5.3 impact reduction
+5.3 impact reduction
 
-- 5.4 early warning
+5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
-- 6.1 caring for the planet, protecting nature
+6.1 caring for the planet, protecting nature
 
-- 6.2 environmental justice
+6.2 environmental justice
 
-- 6.3 biodiversity, water
+6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to human well-being, disaster risk reduction
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.2 health of the planet for future generations
+7.2 health of the planet for future generations
 
-- 7.3 sustainable cities and communities
+7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
-- 8.1 responsible and sustainable lifestyles
+8.1 responsible and sustainable lifestyles
 
-- 8.2 green economy, green jobs
+8.2 green economy, green jobs
 
-- 8.3 sustainable energy
+8.3 sustainable energy
 
 3
 
@@ -189,7 +187,7 @@ Non-formal education | Education that is an addition, alternative and/or a compl
 
 includes programmes on life skills including literacy and numeracy, work skills, and social or cultural development. Most types of adult education are also included.
 --- | ---
-Vocational education | Education that is designed for learners to acquire the knowledge, skills and competencies specific to a particular occupation or trade or class of occupations or trades. Vocational education may have work-based components (e.g. apprenticeships). Successful completion of such programmes leads to labour- market relevant vocational qualifications acknowledged as occupationally- oriented by the relevant national authorities and/or the labour market. Vocational education can be offered at secondary and post-secondary or tertiary levels of education.
+Vocational education | Education that is designed for learners to acquire the knowledge, skills and competencies specific to a particular occupation or trade or class of occupations or trades. Vocational education may have work-based components (e.g. apprenticeships). Successful completion of such programmes leads to labour-market relevant vocational qualifications acknowledged as occupationally-oriented by the relevant national authorities and/or the labour market. Vocational education can be offered at secondary and post-secondary or tertiary levels of education.
 
 6
 
@@ -245,7 +243,7 @@ Others (please specify) :
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation)
 
 #### A1a. Please describe any specific national or sub-national laws, legislation or legal framework(s) in your country  that  govern  the  promotion  of  global  citizenship  education  (GCED)  and/or  education  for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -263,13 +261,11 @@ Examples from provinces and territories:
 
 - New Brunswick Early Childhood Development: The Education Act and its associated Regulations: http://laws.gnb.ca/fr/BrowseTitle?letter=E
 
-- Saskatchewan: The Education Act, 1995: https://publications.saskatchewan.ca/#/products/487 Canadian Charter of Rights and Freedoms: https://laws-lois.justice.gc.ca/eng/const/page15.html; The Saskatchewan Human Rights Code, 2018:
+- Saskatchewan: The Education Act, 1995: https://publications.saskatchewan.ca/#/products/487; Canadian Charter of Rights and Freedoms: https://laws-lois.justice.gc.ca/eng/const/page-15.html; The Saskatchewan Human Rights Code, 2018: https://saskatchewanhumanrights.ca/wp-content/uploads/2020/03/Code2018.pdf
 
-- https://saskatchewanhumanrights.ca/wp-content/uploads/2020/03/Code2018.pdf
+- Alberta: Ministerial Order on Student Learning: https://open.alberta.ca/dataset/270e1a34-3338-461d-b761-c761f943fa2d/resource/5a510797-645e-419f-acbd-6a9dfdb41cd0/download/edc-mo-28-2020-student-learning.pdf
 
-- Alberta: Ministerial Order on Student Learning: https://open.alberta.ca/dataset/270e1a34-3338461d-b761-c761f943fa2d/resource/5a510797-645e-419f-acbd-6a9dfdb41cd0/download/edcmo-28-2020-student-learning.pdf
-
-- Quebec Education Act : http://www.legisquebec.gouv.qc.ca/en/ShowDoc/cs/I-13.3 Quebec Education Program: http://www.education.gouv.qc.ca/en/teachers/quebec-educationprogram/
+- Quebec Education Act: http://www.legisquebec.gouv.qc.ca/en/ShowDoc/cs/I-13.3; Quebec Education Program: http://www.education.gouv.qc.ca/en/teachers/quebec-education-program/
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -315,7 +311,7 @@ Examples from provinces and territories:
 
 [[START OF PAGE 12]]
 
-- governments, organizations, communities and partners to be an international leader in Indigenous education.
+governments, organizations, communities and partners to be an international leader in Indigenous education.
 
 #### A3b. Please provide the full names of any education policies, frameworks or strategic objectives referred to in A3a and, where possible, web links to relevant documents.
 
@@ -323,13 +319,13 @@ Examples from provinces and territories:
 
 - Ontario: The Citizenship Education Framework is found in the following curricula: Social Studies Grades 1-8; History and Geography, Grades 7 and 8 (2018); and Canadian and World Studies, Grades 9 and 10 (2018) and Grades 11 and 12 (2015).
 
-- Saskatchewan: Student Alliances for Gender and Sexual Diversity in Saskatchewan Schools https://pubsaskdev.blob.core.windows.net/pubsask-prod/106357/106357-Alliances_for_Gender_and_Sexual_Diversity_Policy_GSD_2015.pdf; Deepening the Discussion: Gender and Sexual Diversity https://pubsaskdev.blob.core.windows.net/pubsaskprod/84995/84995-Deepening_the_Discussion_Saskatchewan_Ministry_of_Education_Oct_2015_FINAL.pdf; Deepening the Discussion: Gender and Sexual Diversity Toolkit https://www.edonline.sk.ca/webapps/blackboard/content/listContent.jsp?course_id=_4640_1&co ntent_id=_2488
+- Saskatchewan: Student Alliances for Gender and Sexual Diversity in Saskatchewan Schools https://pubsaskdev.blob.core.windows.net/pubsask-prod/106357/106357-Alliances_for_Gender_and_Sexual_Diversity_Policy_GSD_2015.pdf; Deepening the Discussion: Gender and Sexual Diversity https://pubsaskdev.blob.core.windows.net/pubsask-prod/84995/84995-Deepening_the_Discussion_Saskatchewan_Ministry_of_Education_Oct_2015_FINAL.pdf; Deepening the Discussion: Gender and Sexual Diversity Toolkit https://www.edonline.sk.ca/webapps/blackboard/content/listContent.jsp?course_id=_4640_1&content_id=_2488
 
-- Alberta: Alberta Education's Ministry Business Plan 2020-2023 https://open.alberta.ca/dataset/cea65c12-a239-4bd9-8275-3ab54d84f5b3/resource/5793ca56f46d-4d37-98d5-9dc19c95b2d3/download/education-business-plan-2020-23-english.pdf
+- Alberta: Alberta Education's Ministry Business Plan 2020-2023 https://open.alberta.ca/dataset/cea65c12-a239-4bd9-8275-3ab54d84f5b3/resource/5793ca56-f46d-4d37-98d5-9dc19c95b2d3/download/education-business-plan-2020-23-english.pdf
 
-#### *A4. Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks  or  strategic  objectives  affecting  each  level  of  education  by  entering  the  appropriate number in each white cell.
+#### *A4. Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
 
-#### *A5 Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -342,13 +338,15 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 9 | 1 | 9 | 9
 8. | Sustainable consumption and production | 1 | 1 | 9 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+#### *A5 Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
 
 11
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -364,8 +362,6 @@ Setting of programme learning objectives | 9 | 1 | 9 | 9
 Textbook development | 9 | 1 | 9 | 9
 Teacher education and training | 9 | 1 | 9 | 9
 Assessment of student outcomes | 9 | 1 | 9 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 ### B. Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
 
@@ -391,13 +387,13 @@ Examples from provinces and territories:
 
 - Ontario: Both GCED and ESD are integrated explicitly throughout Ontario's Kindergarten to Grade 12 curriculum. Stand-alone courses focused on GCED (e.g., Equity courses in Social Sciences and Humanities curriculum) and ESD (e.g., Environmental Science courses in Science curriculum) are also available in secondary school. By the time a student finishes Grade 12, all of the GCED and ESD themes would have been addressed through the curriculum.
 
-- Saskatchewan: These topics are integrated into Kindergarten to Grade 12 curricula. Themes are mentioned explicitly in outcomes and indicators. Outcomes define what students are expected to know, understand, and be able to do by the end of a grade or secondary level course in a particular area of study. Indicators are representative of what students need to know and/or be able to do to achieve an outcome. GCED and ESD are inferred in descriptions of relevant Broad Areas of Learning and Cross-curricular Competencies. The three Broad Areas of Learning are: Sense of Self, Community and Place; Lifelong Learners; and Engaged Citizens. The Crosscurricular Competencies are four interrelated areas containing understanding, values, skills, and processes, which are considered important for learning in all areas of study and are intended to be addressed in each area of study at each grade. An ESD Framework is used by curriculum writers to guide the infusion of ESD in all renewed curricula.
+- Saskatchewan: These topics are integrated into Kindergarten to Grade 12 curricula. Themes are mentioned explicitly in outcomes and indicators. Outcomes define what students are expected to know, understand, and be able to do by the end of a grade or secondary level course in a particular area of study. Indicators are representative of what students need to know and/or be able to do to achieve an outcome. GCED and ESD are inferred in descriptions of relevant Broad Areas of Learning and Cross-curricular Competencies. The three Broad Areas of Learning are: Sense of Self, Community and Place; Lifelong Learners; and Engaged Citizens. The Cross-curricular Competencies are four interrelated areas containing understanding, values, skills, and processes, which are considered important for learning in all areas of study and are intended to be addressed in each area of study at each grade. An ESD Framework is used by curriculum writers to guide the infusion of ESD in all renewed curricula.
 
 - Alberta: Aspects of ESD are addressed in Grades 10-12 science curricula directly, through a unit of study in Grade 10 and also throughout Grades 10-12. Concepts relating to the environment and sustainability are integrated in the science curricula through critical consideration of societal, economic, ethical, and environmental perspectives. ESD is explicitly included where students consider the role of science in supporting a sustainable society, economy, and environment.
 
 - Quebec: GCED and ESD are an integral part of the Quebec Education Program, which addresses the major contemporary issues facing young people individually and collectively in different aspects of their lives, under what it calls 'broad areas of learning.' These areas identify the learning required to clearly assess key elements, such as 'Environmental Awareness and Consumer Rights and Responsibilities' and 'Citizenship and Community Life,' which enable students to take part in the democratic life of the class or the school and develop an attitude of openness to the world and respect for diversity.
 
-- Quebec: At their own initiative, Quebec educational institutions set up extra-curricular activities that can expose students to democratic citizenship education and inclusive social development, for example, school or class council, student newspaper or radio, and student parl iament.
+- Quebec: At their own initiative, Quebec educational institutions set up extra-curricular activities that can expose students to democratic citizenship education and inclusive social development, for example, school or class council, student newspaper or radio, and student parliament.
 
 - Quebec: To apply the concept of sustainable development, the Government of Quebec focuses on activities within the school system, mainstreamed into the Quebec Education Program, and works closely with partners in the field. Quebec's sustainable development approach aims to support educational institutions. Eco-responsible practices have been adopted and tools have been created to support them in their efforts. The development of pedagogical activities, starting with youth literacy in preschools and elementary schools on the themes and values of ESD, is also encouraged in schools. In addition, interdisciplinary learning situations on the themes of river and land protection and food, for example, have been created to promote understanding among elementary and secondary school students and to encourage the integration of sustainable development concepts both at school and at home .
 
@@ -421,7 +417,7 @@ Examples from provinces and territories:
 
 - Ontario: GCED is embedded throughout all grades and disciplines, specifically Health and Physical Education, Social Studies, History and Geography, Canadian and World Studies, Social Sciences and Humanities, and First Nations, Métis, and Inuit Studies. Mandatory learning about ESD is found throughout all grades and disciplines, particularly Social Studies, History and Geography, Social Sciences and Humanities, Science, and Technological Education.
 
-- Saskatchewan: Environmental Studies 20 https://www.edonline.sk.ca/webapps/moecurriculum-BB5f208b6da4613/CurriculumHome?id=73; Social Studies 20 https://www.edonline.sk.ca/webapps/moe-curriculumBB5f208b6da4613/CurriculumHome?id=174; Social Studies 6 https://www.edonline.sk.ca/webapps/moe-curriculumBB5f208b6da4613/CurriculumHome?id=169; Social Studies 7 https://www.edonline.sk.ca/webapps/moe-curriculumBB5f208b6da4613/CurriculumHome?id=170.
+- Saskatchewan: Environmental Studies 20 https://www.edonline.sk.ca/webapps/moe-curriculum-BB5f208b6da4613/CurriculumHome?id=73; Social Studies 20 https://www.edonline.sk.ca/webapps/moe-curriculum-BB5f208b6da4613/CurriculumHome?id=174; Social Studies 6 https://www.edonline.sk.ca/webapps/moe-curriculum-BB5f208b6da4613/CurriculumHome?id=169; Social Studies 7 https://www.edonline.sk.ca/webapps/moe-curriculum-BB5f208b6da4613/CurriculumHome?id=170.
 
 - Alberta: In the Grade 10 Social Studies curriculum, students explore the effects of globalization on lands, cultures, human rights, and quality of life. This includes citizenship and identity, environmental sustainability and prosperity, issues facing women, children and youth, democratization and human rights, as well as civic responsibilities that individuals, governments, organizations, and businesses may have in addressing opportunities and challenges presented by globalization.
 
@@ -481,7 +477,7 @@ Science | 1 | 9 | 9 | 9 | 1 | 1 | 1 | 1
 Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Other (please specify)
-Alberta: Sociology and Anthropology | Alberta: Sociology | Alberta: International Politics 30 | • New Brunswick: Applied Technology (Skilled Trades and Technology Education) • Saskatchewan: integrates civics, civil and citizenship education, as well as geography in Grades 1 to 9; also taught within the social studies and history curricula; do not comprise stand-alone curricula.
+ | Alberta: Sociology and Anthropology |  | Alberta: Sociology | Alberta: International Politics 30 |  |  |  | • New Brunswick: Applied Technology (Skilled Trades and Technology Education) • Saskatchewan: integrates civics, civil and citizenship education, as well as geography in Grades 1 to 9; also taught within the social studies and history curricula; do not comprise stand-alone curricula.
 
 #### *B4 Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -511,7 +507,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 3.2 | human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 9 | 9
 3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 9 | 9
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in continuing professional development of teachers, trainers and educators. Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -551,15 +547,7 @@ Other examples:
 
 Examples from provinces and territories (ministries):
 
-- British Columbia: An entire Bachelor of Education cohort at The University of British Columbia focuses on ESD; the cohort is called Education for Sustainability:
-
-https://teach.educ.ubc.ca/bachelor-of-education-program/elementary-middle-
-
-years/#education-for-sustainability-2. Individual courses within programs are related to the areas of GCED and ESD, for example: Sustainability & Teacher Identity
-
-(https://www.viu.ca/courses/education#EDUC203), and Global Education, Citizenship, and CrossCultural Conceptions of Teaching and Learning
-
-(http://www.calendar.ubc.ca/okanagan/courses.cfm?code=EDUC).
+- British Columbia: An entire Bachelor of Education cohort at The University of British Columbia focuses on ESD; the cohort is called Education for Sustainability: https://teach.educ.ubc.ca/bachelor-of-education-program/elementary-middle-years/#education-for-sustainability-2. Individual courses within programs are related to the areas of GCED and ESD, for example: Sustainability & Teacher Identity (https://www.viu.ca/courses/education#EDUC203), and Global Education, Citizenship, and Cross-Cultural Conceptions of Teaching and Learning (http://www.calendar.ubc.ca/okanagan/courses.cfm?code=EDUC).
 
 - New Brunswick: The school improvement process features 31 Indicators which are used by schools for self-assessment and to guide planning. Examples:
 
@@ -567,9 +555,9 @@ years/#education-for-sustainability-2. Individual courses within programs are re
 
 - o NB global competencies include sustainability and global citizenship.
 
-- o New Brunswick Community College https://nbcc.ca/programs-courses/full-timeprograms
+- o New Brunswick Community College https://nbcc.ca/programs-courses/full-time-programs
 
-- o Department of Education and Early Childhood Development https://www2.gnb.ca/content/gnb/en/departments/education/elcc/content/curriculum. html
+- o Department of Education and Early Childhood Development https://www2.gnb.ca/content/gnb/en/departments/education/elcc/content/curriculum.html
 
 - o Éducation à l'enfance du Collège communautaire du Nouveau-Brunswick https://ccnb.ca/programme-detudes/nos-
 
@@ -579,15 +567,15 @@ years/#education-for-sustainability-2. Individual courses within programs are re
 
 [[START OF PAGE 20]]
 
-- programmes.aspx?SectorId=&ObjectType=1&Id=e2bbc00d-2f41-4b35-a2fb712c4fb88ca2
+programmes.aspx?SectorId=&ObjectType=1&Id=e2bbc00d-2f41-4b35-a2fb-712c4fb88ca2
 
 - o New Brunswick Early Learning and Child Care Curriculum
 
 - Newfoundland and Labrador: Optional professional learning opportunities for practicing teachers (e.g., Learning for Sustainable Futures http://lsf-lst.ca/)
 
-- Ontario: The OCT's Accreditation Resource Guide is a companion to requirements set out in Regulation 347/02, Accreditation of Teacher Education Programs, the purpose of which is to clarify the intent, through additional information and examples, of the core content that should be included in Ontario teacher education programs. GCED and ESD are woven throughout several sections (e.g., Child and Adolescent Development and Student Transitions, Indigenous Perspectives, Cultures, Histories and Ways of Knowing, Mental Health, Addictions and WellBeing, Creation of a Positive School Climate). The guide be accessed at: https://www.oct.ca//media/PDF/Accreditation%20Resource%20Guide/Accreditation_Resource_Guide_EN_WEB.pdf
+- Ontario: The OCT's Accreditation Resource Guide is a companion to requirements set out in Regulation 347/02, Accreditation of Teacher Education Programs, the purpose of which is to clarify the intent, through additional information and examples, of the core content that should be included in Ontario teacher education programs. GCED and ESD are woven throughout several sections (e.g., Child and Adolescent Development and Student Transitions, Indigenous Perspectives, Cultures, Histories and Ways of Knowing, Mental Health, Addictions and Well-Being, Creation of a Positive School Climate). The guide be accessed at: https://www.oct.ca/-/media/PDF/Accreditation%20Resource%20Guide/Accreditation_Resource_Guide_EN_WEB.pdf
 
-- Quebec: Advisory support plan for sustainable development in the school system and L'éducation au développement durable (ESD) handbook (volumes 1, 2 and 3; French only): http://www.education.gouv.qc.ca/references/tx-solrtyperecherchepublicationtxsolrpublicationnouveaute/resultats-de-la-recherche/detail/article/plan-daccompagnement-dureseau-scolaire-en-matiere-de-developpement-durable/
+- Quebec: Advisory support plan for sustainable development in the school system and L'éducation au développement durable (ESD) handbook (volumes 1, 2 and 3; French only): http://www.education.gouv.qc.ca/references/tx-solrtyperecherchepublicationtx-solrpublicationnouveaute/resultats-de-la-recherche/detail/article/plan-daccompagnement-du-reseau-scolaire-en-matiere-de-developpement-durable/
 
 Other examples:
 
@@ -595,9 +583,11 @@ Other examples:
 
 - PressBooks tool box on SDGs: https://sdgcicanguide.pressbooks.com/front-matter/introduction/
 
-- Aga Khan Foundation Canada: https://www.akfc.ca/resources/educators/professionaldevelopment-for-educators/
+- Aga Khan Foundation Canada: https://www.akfc.ca/resources/educators/professional-development-for-educators/
 
 #### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -607,8 +597,6 @@ For teachers of other subjects | 1 | 1 | 9 | 9
 Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 9 | 9
 For teachers of other subjects | 1 | 1 | 9 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 19
 
@@ -659,7 +647,7 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 
 [[START OF PAGE 22]]
 
-### Student assessment (paras 4 and 5 of the 1974 Recommendation )
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation)
 
 #### D1a.   Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills related to the topics being tested or also on their values, attitudes and/or behaviours.
 
@@ -675,7 +663,9 @@ Examples from provinces and territories (ministries):
 
 - Alberta: Social Studies examples: Students taking the Grade 6 Social Studies Provincial Assessment Tests (PAT) are explicitly tested on their knowledge of the Canadian Charter of Rights and Freedoms, as well as active citizenship in relation to provincial and municipal contexts. Knowledge of principles of democracy is also a significant portion of the Grade 6 Social Studies PAT.
 
-#### *D2 Please  indicate  whether  the  GCED  and  ESD  themes  below  are  generally  included  in  student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -685,8 +675,6 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 4. | Peace and non-violence | 9 | 1 | 9 | 9
 5. | Climate change | 9 | 1 | 9 | 9
 6. | Environmental sustainability | 9 | 1 | 9 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 21
 
@@ -721,25 +709,15 @@ Attitudes and behaviours | 9 | 1 | 9 | 9
 
 KEY:
 
-- 0 Not at all
+0 Not at all | GCED and ESD are not mainstreamed.
 
-- 1 Partially
+1 Partially | Some GCED and/or ESD themes 6 are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 
-- 2 Extensively
+2 Extensively | Most GCED and ESD themes are mainstreamed.
 
-- 9 Not known
+9 Not known | It is not known whether GCED and ESD are mainstreamed or not.
 
-- 99 Not applicable
-
-GCED and ESD are not mainstreamed.
-
-Some GCED and/or ESD themes 6  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
-
-Most GCED and ESD themes are mainstreamed.
-
-It is not known whether GCED and ESD are mainstreamed or not.
-
-The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
+99 Not applicable | The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -772,9 +750,9 @@ Examples from provinces and territories:
 
 - Alberta: Advanced Education has a longstanding initiative to maintain the currency of apprenticeship programs, including content related to sustainable development. This content fits into two categories:
 
-- Remediation/Prevention of Environmental Damage - e.g., water conservation - Plumber and Landscape Horticulturist.
+1. Remediation/Prevention of Environmental Damage - e.g., water conservation - Plumber and Landscape Horticulturist.
 
-- More Resource-Efficient (or less polluting) Products, Processes, or Services - e.g., Energy alternatives - Electrician, Boilermaker, Industrial Mechanic, and Welder. Renewable energy - Electrician, Autoservice Tech., Heavy Equipment Tech., Plumber, Powerline Tech., Power System Electrician, Water Well Driller (Earthloop Technician).
+2. More Resource-Efficient (or less polluting) Products, Processes, or Services - e.g., Energy alternatives - Electrician, Boilermaker, Industrial Mechanic, and Welder. Renewable energy - Electrician, Autoservice Tech., Heavy Equipment Tech., Plumber, Powerline Tech., Power System Electrician, Water Well Driller (Earthloop Technician).
 
 - New Brunswick: Global competencies are embedded in technology and vocational education. Although gender equity is considered a challenge in these areas, there are ongoing efforts to actively promote the trades as a career for everyone. The ministry works closely with Skills Canada NB and industry partners to support and promote interest in the sectors.
 
@@ -782,7 +760,7 @@ Examples from provinces and territories:
 
 - Quebec: As of 2019, as part of the occupational analysis carried out during a vocational curriculum review, information is systematically collected from workers on the principles of sustainable development that are most relevant to the trades targeted by the program under review.
 
-### Adult education (para 30 of the 1974 Recommendation )
+### G. Adult education (para 30 of the 1974 Recommendation)
 
 #### G1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD in adult education  and  other  forms  of  non-formal  education  including  youth  education,  out-of-school education, etc. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -798,9 +776,9 @@ Examples from provinces and territories (ministries):
 
 [[START OF PAGE 26]]
 
-- secondary curriculum includes a Citizenship Education Framework, that includes learning about Active Participation, Identity, Attributes and Structures.
+secondary curriculum includes a Citizenship Education Framework, that includes learning about Active Participation, Identity, Attributes and Structures.
 
-- Quebec: Quebec's educational mission includes three components: instruct, socialize, and qualify. In keeping with the second component, adult education promotes the development of the civic and cultural dimension of the adult's social and personal life and their auton omy. More specifically, with regard to democratic citizenship education and inclusive social development, the new curriculum for general adult basic education, in addition to preparing adults for employment, focuses on the development of citizenship and cultural skills throughout their lives. To that end, the curricula for common and diversified adult basic education include, with a few slight variations, four general areas of training: health and wellness; environmental awareness and consumer rights and responsibilities; job market; and citizenship (cooperation and civic responsibility; citizens' rights and responsibilities; living together in a pluralistic and democratic society) . Through the different curricula, adults are called upon to develop a better understanding of the world and to participate in it.
+- Quebec: Quebec's educational mission includes three components: instruct, socialize, and qualify. In keeping with the second component, adult education promotes the development of the civic and cultural dimension of the adult's social and personal life and their autonomy. More specifically, with regard to democratic citizenship education and inclusive social development, the new curriculum for general adult basic education, in addition to preparing adults for employment, focuses on the development of citizenship and cultural skills throughout their lives. To that end, the curricula for common and diversified adult basic education include, with a few slight variations, four general areas of training: health and wellness; environmental awareness and consumer rights and responsibilities; job market; and citizenship (cooperation and civic responsibility; citizens' rights and responsibilities; living together in a pluralistic and democratic society). Through the different curricula, adults are called upon to develop a better understanding of the world and to participate in it.
 
 Other examples:
 
@@ -812,7 +790,7 @@ Other examples:
 
 - Aga Khan Foundation Canada has done GECD work with youth service groups (including Girl Guides Canada) and educational groups (including Historica Encounters) and presentations to adult service clubs (including Rotary).
 
-### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
+### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation)
 
 #### H1 Please  describe  what  kinds  of  research  or  experimentation  have  been  carried  out  to  improve  the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
@@ -824,7 +802,7 @@ Examples from provinces and territories (ministries):
 
 Other examples:
 
-- LSF and Lakehead University undertook a survey of over 3,200 Canadian general public, parents (K-12), teachers (K-12) and student (grades 7-12) entitled 'Canada, Climate Change and Education'. LSF hosted Knowledge Mobilization sessions across Canada to influence education policy, curricula and teaching practice.
+- LSF and Lakehead University undertook a survey of over 3,200 Canadian general public, parents (K-12), teachers (K-12) and student (grades 7-12) entitled “Canada, Climate Change and Education”. LSF hosted Knowledge Mobilization sessions across Canada to influence education policy, curricula and teaching practice.
 
 25
 
@@ -857,13 +835,13 @@ The COVID-19 pandemic has affected everyone in 2020.
 
 - In New Brunswick, there has been a constant shift to improving French second language programming which impacts the work of learning specialists at the ministry and the capacity for the system to manage change. For example, updates to science education, the implementation of new curricula, and the focus on climate education has been delayed and curriculum development paused twice from 2010-2017.
 
-- Alberta - Education Act: The themes that are explicit or inferred throughout are cultural diversity and tolerance, peace and non-violence, gender equality education, and human rights education, covering primary and secondary levels in formal education.
+- Alberta – Education Act: The themes that are explicit or inferred throughout are cultural diversity and tolerance, peace and non-violence, gender equality education, and human rights education, covering primary and secondary levels in formal education.
 
 - Comments from CCUNESCO:
 
-- o Many institutions have international students from different countries, and their role is to prepare these students to transition and integrate into Canadian culture, to educate them to be not only Canadian citizens, but also global citizens.
+  - Many institutions have international students from different countries, and their role is to prepare these students to transition and integrate into Canadian culture, to educate them to be not only Canadian citizens, but also global citizens.
 
-- o The absence of any reference to freedom of expression as a basic human right, including the diversity of opinions, is noteworthy. Freedom of expression is essential and should be included in the recommendation somewhere.
+  - The absence of any reference to freedom of expression as a basic human right, including the diversity of opinions, is noteworthy. Freedom of expression is essential and should be included in the recommendation somewhere.
 
 26
 
