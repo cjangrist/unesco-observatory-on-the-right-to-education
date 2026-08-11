@@ -51,7 +51,7 @@ Son  funciones docentes la labor de la enseñanza  en aulas de centros, establec
 Son  funciones  técnico  -pedagógicas  las  tareas  de  apoyo  y  asesoramiento pedagógico, investigación educativa, procesamiento curricular, capacitación de recursos humanos  y  acompañamiento  a  planes  y  programas  orientados  a  mejorar  la  calidad  de  la educación. Para el ejercicio de esas funciones se requiere el segundo grado de la carrera de educador y formación superior.
 
 ### Artículo 11:
-A todos los efectos de la aplicación de ésta ley se considerará que continúa en la carrera el educador profesional que ejerza, ya sea simultáneamente con las funciones definidas en  los  Artículos  9  y  10  o  independientemente  de  ellas,  funcione  técnico-  administrativas, entendiendo  por  tales  los  cargos  directivos  o  de  superior  relacionados  con  la  planificación, organización,  administración  y  evaluación  de  los  diversos  niveles  y  modalidades  del  sistema educativo.
+A todos los efectos de la aplicación de ésta ley se considerará que continúa en la carrera el educador profesional que ejerza, ya sea simultáneamente con las funciones definidas en los Artículos 9 y 10 o independientemente de ellas, funciones técnico-administrativas, entendiendo por tales los cargos directivos o de supervisión relacionados con la planificación, organización, administración y evaluación de los diversos niveles y modalidades del sistema educativo.
 
 [[END OF PAGE 1]]
 
@@ -64,7 +64,7 @@ www.mec.gov.py
 CNT
 
 ### Artículo  12:
-Las  funciones  específicas  de  educador  profesional  del  sector  público,  ya  sean docentes o técnicopedagógicas, ejercidas en los cargos creados por la legislación correspondiente,  serán  especificadas  en  el  manual  de  funciones  a  ser  reglamentado  por  el Ministerio de Educación y Cultura, con arreglo a la Ley General de Educación, esta ley y a las demás disposiciones legales.
+Las funciones específicas de educador profesional del sector público, ya sean docentes o técnico-pedagógicas, ejercidas en los cargos creados por la legislación correspondiente, serán especificadas en el manual de funciones a ser reglamentado por el Ministerio de Educación y Cultura, con arreglo a la Ley General de Educación, esta ley y a las demás disposiciones legales.
 
 ## CAPITULO IV DEL INGRESO, ASCENSO, DURACION Y PERMANENCIA EN LA CARRERA DE EDUCADOR
 
@@ -76,13 +76,11 @@ En el ámbito de la educación del sector público, el acceso a la carrera de ed
 ### Artículo 14:
 En el sector público, la carrera de educador profesional se regirá por un escalafón compuesto de cinco grados académicos. Para ascender de un grado al inmediatamente superior se requieren:
 
-- Cinco años en el grado inmediato anterior;
+a) Cinco años en el grado inmediato anterior;
 
-- Haber satisfecho las exigencias básicas de perfeccionamiento establecidas en el reglamento
+b) Haber satisfecho las exigencias básicas de perfeccionamiento establecidas en el reglamento de Promoción de la Carrera del Personal Profesional de la Educación; y
 
-- de Promoción de la Carrera del Personal Profesional de la Educación; y
-
-- Haber realizado una investigación educativa, según el área de sus funciones.
+c) Haber realizado una investigación educativa, según el área de sus funciones.
 
 ### Artículo 15:
 Para el ascenso del cuarto al quinto grado de la carrera de educador, a más de los requisitos  indicados  en  el  artículo  anterior,  el  educador  deberá  acreditar  su  formación pedagógica universitaria.
@@ -103,10 +101,10 @@ b)  Interinos: Son aquellos que acceden al cargo temporalmente en reemplazo de l
 La  duración  del  interinazgo  no  podrá  exceder  al  tiempo  contemplado  en  sus  contratos.  Los interinos deberán tener el mismo escalafón o grado académico que el titular.
 
 ### Artículo 19:
-En el Ministerio de Educación y Cultura podrá contratar educadores interinos en casos especiales, ya sea para cubrir vacaciones o la recreación de nuevos cargos, entretanto se realiza el proceso de selección por concurso. Estos contratos no podrán exceder del plazo de un año, y no podrán renovarse o prorrogarse.
+El Ministerio de Educación y Cultura podrá contratar educadores interinos en casos especiales, ya sea para cubrir vacancias o la creación de nuevos cargos, entretanto se realiza el proceso de selección por concurso. Estos contratos no podrán exceder del plazo de un año, y no podrán renovarse o prorrogarse.
 
 ### Artículo 20:
-Las relaciones de trabajo entre empleadores y educadores sean éstos de gestión pública o de gestión privada se regirán por ésta ley. En los casos no consagrados en la Ley General de Educación, la Ley del Funcionamiento Público y el Código Laboral, según el ámbito.
+Las relaciones de trabajo entre empleadores y educadores sean éstos de gestión pública o de gestión privada se regirán por ésta ley. En los casos no consagrados en ella, por la Ley General de Educación, la Ley del Funcionario Público y el Código Laboral, según el ámbito.
 
 ### Artículo  21:
 Los  derechos  y  beneficios  establecidos  a  favor  de  los  educadores  en  sus respectivos  contratos  no  podrán  ser  inferiores  a  los  contemplados  en  la  presente  ley.  Las cláusulas que se le opongan serán nulas y de ningún valor.
@@ -134,7 +132,9 @@ Se considera Salario Básico Profesional, tanto para el sector público como par
 ### Artículo  24:
 El  Ministerio  de  Educación  y  Cultura  establecerá  un  mecanismo  de  valoración entre las funciones indicadas en el artículo anterior y las clasificará por cargo, de acuerdo con los siguientes principios:
 
-a)  La  funciones  docentes,  técnicas  y  administrativas  de  todos  los  niveles  o  modalidades tendrán  como  límite  máximo  de  jornada  laboral  dos  turnos,  una  jornada  completa  o  su equivalente en horas cátedra; y, el máximo salario que pudiera corresponder a los educadores profesionales que ejerzan la función docente por las horas de trabajo establecidas en el inciso a), en ningún caso será igual o mayor al Salario estipulado para el personal jerárquico superior que ejerza funciones técnicas o administrativas.
+a) Las funciones docentes, técnicas y administrativas de todos los niveles o modalidades tendrán como límite máximo de jornada laboral dos turnos, una jornada completa o su equivalente en horas cátedra; y,
+
+b) El máximo salario que pudiera corresponder a los educadores profesionales que ejerzan la función docente por las horas de trabajo establecidas en el inciso a), en ningún caso será igual o mayor al salario estipulado para el personal jerárquico superior que ejerza funciones técnicas o administrativas.
 
 ### Artículo 25:
 Las instituciones educativas privadas tomarán como base de la remuneración el Salario Básico Profesional del educador y fijarán su escala de salario de acuerdo a su propio escalafón.
@@ -204,9 +204,27 @@ Los proyectos de capacitación y actualización podrán ser ejecutados también 
 ## CAPITULO VIII DE LOS DERECHOS Y DEBERES
 
 ### Artículo 36:
-El educador profesional del sector público goza de los siguientes derechos: a) Lo establecido en el Artículo 135 de la Ley General de Educación; b) A percibir sus haberes en los días de receso establecidos en el calendario escolar, asuetos y suspensión  de  clases  por  causas  ajenas  a  la  voluntad  del  educador,  en  los  términos establecidos en el Artículo 24; c) A  permiso  con  goce  de  sueldo,  por  maternidad,  en  todos  los  niveles  y  modalidades educativas, seis semanas antes y seis semanas después del parto: d) A permisos por enfermedad debidamente comprobada hasta treinta días con goce de sueldo y hasta un año sin goce de sueldo teniendo derecho a su reingreso: e) Por  una  sola  vez  durante  la  totalidad  de  la  carrera,  a  obtener  permiso  por  motivos particulares de hasta tres meses, sin goce de sueldo; f) A  permisos  especiales,  para  el  usufructo  de  becas,  programas  de  intercambio  cultural  o funciones educativas específicas, a ser reglamentado por el Ministerio de Educación y Cultura; g) A asociarse y participar en organizaciones gremiales y sindicales; h) A licencia por función sindical, de acuerdo con el Artículo 38; i) A permiso para lactancia; A  acceder  a  programas  de  capacitación,  profesionalización  y  especialización  docente,
+El educador profesional del sector público goza de los siguientes derechos:
 
-- garantizados por el Ministerio de Educación y Cultura; y,
+a) Lo establecido en el Artículo 135 de la Ley General de Educación;
+
+b) A percibir sus haberes en los días de receso establecidos en el calendario escolar, asuetos y suspensión de clases por causas ajenas a la voluntad del educador, en los términos establecidos en el Artículo 24;
+
+c) A permiso con goce de sueldo, por maternidad, en todos los niveles y modalidades educativas, seis semanas antes y seis semanas después del parto:
+
+d) A permisos por enfermedad debidamente comprobada hasta treinta días con goce de sueldo y hasta un año sin goce de sueldo teniendo derecho a su reingreso:
+
+e) Por una sola vez durante la totalidad de la carrera, a obtener permiso por motivos particulares de hasta tres meses, sin goce de sueldo;
+
+f) A permisos especiales, para el usufructo de becas, programas de intercambio cultural o funciones educativas específicas, a ser reglamentado por el Ministerio de Educación y Cultura;
+
+g) A asociarse y participar en organizaciones gremiales y sindicales;
+
+h) A licencia por función sindical, de acuerdo con el Artículo 38;
+
+i) A permiso para lactancia;
+
+j) A acceder a programas de capacitación, profesionalización y especialización docente, garantizados por el Ministerio de Educación y Cultura; y,
 
 k) A bonificación familiar en un cinco por ciento por cada hijo nacido durante el ejercicio de la docencia hasta un máximo de cinco hijos.
 
@@ -222,20 +240,18 @@ lo menos cinco años de antigüedad en la matrícula de educador profesional.
 Las  organizaciones  gremiales  del  sector  educativo  se  regirán  en  cuanto  a  su competencia, organización, funcionamiento y gestión sindical conforme a las reglas contenidas en el Código del Trabajo, con las modificaciones establecidas en la presente ley.
 
 ### Artículo 40:
-Los establecimientos educativos podrán habilitar guarderías para niños menores de  tres  años,  hijos  de  educadores  que  presten  servicio  en  los  mismos.  Estas  guarderías deberán regirse por los criterios establecidos en la Ley General de Educación para la educación inicial, y serán implementadas en forma gradual una vez aprobados los rubros correspondientes en el Presupuestos General de la Nación.
+Los establecimientos educativos podrán habilitar guarderías para niños menores de tres años, hijos de educadores que presten servicio en los mismos. Estas guarderías deberán regirse por los criterios establecidos en la Ley General de Educación para la educación inicial, y serán implementadas en forma gradual una vez aprobados los rubros correspondientes en el Presupuesto General de la Nación.
 
 ### Artículo 41:
 Son deberes de los educadores profesionales:
 
-- Los establecidos en el Artículo 136 de la Ley General de Educación;
+a) Los establecidos en el Artículo 136 de la Ley General de Educación;
 
-- Asistir puntualmente a los lugares de trabajo, respetando la hora de entrada y salida que se les asigna en base a sus funciones;
+b) Asistir puntualmente a los lugares de trabajo, respetando la hora de entrada y salida que se les asigna en base a sus funciones;
 
-- Cumplir con eficiencia y eficacia las funciones que les otorga el cargo;
+c) Cumplir con eficiencia y eficacia las funciones que les otorga el cargo;
 
-- Respetar las normas internas institucionales en particular aquellas emanadas del Ministerio
-
-- de Educación y Cultura;
+d) Respetar las normas internas institucionales en particular aquellas emanadas del Ministerio de Educación y Cultura;
 
 [[END OF PAGE 4]]
 
@@ -245,13 +261,13 @@ www.mec.gov.py
 
 5 CNT
 
-- Acatar  las  directrices  de  los  superiores  jerárquicos,  relativas  a  servicios  que  no  sean expresamente contrarios a las leyes y reglamentos;
+e) Acatar las directrices de los superiores jerárquicos, relativas a servicios que no sean expresamente contrarios a las leyes y reglamentos;
 
-- Observar, dentro y fuera de la institución, una conducta ética y democrática;
+f) Observar, dentro y fuera de la institución, una conducta ética y democrática;
 
-- Guardar  el  secreto  profesional  en  todo  lo  que  concierne  a  hechos  e  informaciones  de carácter reservado, que pudiera conocer en el ejercicio de sus funciones; y
+g) Guardar el secreto profesional en todo lo que concierne a hechos e informaciones de carácter reservado, que pudiera conocer en el ejercicio de sus funciones; y
 
-- Contribuir en su ámbito al mejoramiento de la calidad de la educación
+h) Contribuir en su ámbito al mejoramiento de la calidad de la educación
 
 ## CAPITULO IX DE LOS CONTRATOS Y CONDICIONES LABORALES
 
@@ -261,19 +277,19 @@ En  los  contratos  de  trabajo  con  organismos  municipales,  departamentales 
 ### Artículo 43:
 Los contratos de trabajo de los educadores profesionales deberán contener:
 
-- Nombre y apellido, lugar y fecha de nacimiento, edad, sexo, estado civil, número de hijos, nacionalidad, domicilio, nivel de formación académica y documento de identidad;
+a) Nombre y apellido, lugar y fecha de nacimiento, edad, sexo, estado civil, número de hijos, nacionalidad, domicilio, nivel de formación académica y documento de identidad;
 
-- Lugar y fecha de celebración;
+b) Lugar y fecha de celebración;
 
-- Descripción de las funciones que deba prestarse; lugar y turno de su prestación;
+c) Descripción de las funciones que deba prestarse; lugar y turno de su prestación;
 
-- Duración y división de la jornada de trabajo, especificada según la función y el turno;
+d) Duración y división de la jornada de trabajo, especificada según la función y el turno;
 
-- Descripción entre actividades de aula y otras funciones;
+e) Descripción entre actividades de aula y otras funciones;
 
-- Monto, forma y periodo de pagos de las remuneraciones convenidas; y
+f) Monto, forma y periodo de pagos de las remuneraciones convenidas; y
 
-- Estipulaciones que convengan las partes firma de los contratantes.
+g) Estipulaciones que convengan las partes y firma de los contratantes.
 
 ## CAPITULO X DE LA MATRICULA Y SU REGISTRO
 
@@ -289,7 +305,7 @@ c) Manifestación  bajo  juramento  de  que  no  le  afectan  inhabilitaciones  
 La  solicitud  podrá  ser  presentada  y  gestionada  por  el  propio  interesado,  por  un  gestor debidamente autorizado o por el establecimiento, centro o institución educativa en la que se desempeñe o pretenda desempeñarse el interesado, conforme lo establezca la reglamentación respectiva. El diligenciamiento y otorgamiento de la matrícula serán gratuitos.
 
 ### Artículo  45:
-Cumplidos  los  requisitos  enunciados,  el  Ministerio  de  Educación  y  Cultura procederá a la inscripción y otorgamiento de la matrícula, o los denegará, dentro de los treinta días de presentada la solicitud. Transcurrido este plazo sin que el Ministerio se Pronuncie, se repuntará inscripto en la matrícula profesional. La resolución denegatoria deberá ser fundada y notificada por escrito al solicitante y contra la misma corresponderá el recurso de reconsideración. La inscripción de la matrícula tendrá duración permanente.
+Cumplidos los requisitos enunciados, el Ministerio de Educación y Cultura procederá a la inscripción y otorgamiento de la matrícula, o los denegará, dentro de los treinta días de presentada la solicitud. Transcurrido este plazo sin que el Ministerio se pronuncie, se reputará inscripto en la matrícula profesional. La resolución denegatoria deberá ser fundada y notificada por escrito al solicitante y contra la misma corresponderá el recurso de reconsideración. La inscripción de la matrícula tendrá duración permanente.
 
 ### Artículo  46:
 Quedan  exceptuados  de  cumplir  con  los  requisitos  indicados,  los  profesionales nacionales o extranjeros contratados por el Ministerio de Educación y Cultura, para desarrollar proyectos, asesorías, consultorías u otras tareas específicas por producto.
@@ -302,20 +318,20 @@ En el sector público de la educación, las medidas disciplinarias serán de pri
 ### Artículo 48:
 Son medidas disciplinarias de primer orden:
 
-- Amonestación por escrito;
+a) Amonestación por escrito;
 
-- Multa por un importe de cinco a quince días de salarios diarios; y
+b) Multa por un importe de cinco a quince días de salarios diarios; y
 
-- Suspensión sin goce de sueldo hasta treinta días
+c) Suspensión sin goce de sueldo hasta treinta días
 
 ### Artículo 49:
 Son medidas disciplinarias de segundo orden:
 
-- Suspensión sin goce de sueldo hasta ciento ochenta días;
+a) Suspensión sin goce de sueldo hasta ciento ochenta días;
 
-- Separación del  cargo  y  traslado.  El  traslado  se  hará  a  otro  cargo  de  rango  inferior,  si  lo hubiese; y,
+b) Separación del cargo y traslado. El traslado se hará a otro cargo de rango inferior, si lo hubiese; y,
 
-- Destitución.
+c) Destitución.
 
 [[END OF PAGE 5]]
 
@@ -328,37 +344,37 @@ www.mec.gov.py
 CNT
 
 ### Artículo 50:
-La medida disciplinaria de tercer orden consiste en la casación de la matrícula del educador profesional y conlleva su destitución
+La medida disciplinaria de tercer orden consiste en la cancelación de la matrícula del educador profesional y conlleva su destitución
 
 ### Artículo  51:
 Serán  pasibles  de  medidas  disciplinarias  de  primer  orden  los  educadores  que incurran en una o varias de las siguientes faltas:
 
-- Asistencia tardía;
+a) Asistencia tardía;
 
-- Negligencia;
+b) Negligencia;
 
-c) Ausencia  injustificada  que  no  exceda  de  dos  días  consecutivos  o  tres  alternados  en  el transcurso de un mes; y,
+c) Ausencia injustificada que no exceda de dos días consecutivos o tres alternados en el transcurso de un mes; y,
 
 d) Falta de compostura debida en la institución o fuera de ella.
 
 ### Artículo  52:
 Serán  pasibles  de  medidas  disciplinarias  de  segundo  orden  los  educadores hallados culpables por la comisión de una o varias de las siguientes faltas:
 
-a) Ausencia  injustificada  por  más  de  dos  días  en  forma  consecutiva  o  tres  alternada  en  el transcurso de un mes;
+a) Ausencia injustificada por más de dos días en forma consecutiva o tres alternados en el transcurso de un mes;
 
-- Abandono del cargo;
+b) Abandono del cargo;
 
-- Incumplimiento de las disposiciones emanadas de la superioridad;
+c) Incumplimiento de las disposiciones emanadas de la superioridad;
 
-- Violación del secreto profesional; y,
+d) Violación del secreto profesional; y,
 
-- Reiteración o reincidencia en las causales pasibles de penas de primer grado.
+e) Reiteración o reincidencia en las causales pasibles de penas de primer grado.
 
 ### Artículo 53:
 Es obligación de las autoridades competentes de las instituciones educativas y del Ministerio  de  Educación  y  Cultura  realizar  las  investigaciones  y  comprobaciones  tendientes  a determinar  la  existencia  de  hechos  que  merezcan  medidas  disciplinarias  y,  en  su  caso,  de aplicar las sanciones que correspondan. El incumplimiento de esa obligación los hará pasibles de medidas disciplinarias de segundo orden, sin perjuicio de las sanciones de orden penal.
 
 ### Artículo 54:
-En  el  sector  público,  la  investigación  administrativa  estará  a  cargo  de  un  fiscal designado  por  el  Director  de  la  Asesoría  Jurídica  del  Ministerio  de  Educación  y  Cultura,  y quedará  terminado  dentro  de  los  cuarenta  y  cinco  días  de  su  iniciación.  La  resolución  será dictada dentro de los quince días de hallarse la causa en estado de resolución.
+En el sector público, la investigación administrativa estará a cargo de un fiscal designado por el Director de la Asesoría Jurídica del Ministerio de Educación y Cultura, y quedará terminada dentro de los cuarenta y cinco días de su iniciación. La resolución será dictada dentro de los quince días de hallarse la causa en estado de resolución.
 
 ### Artículo 55:
 Cuando fueren aplicables, en la investigación se observarán las disposiciones del Código  Procesal  Penal.  Podrán  ser  iniciadas  de  oficio  o  por  denuncia  de  parte,  y  se  dará intervención  al  afectado  para  ejercer  libremente  su  defensa,  por  sí  o  por  apoderado.  La resolución será fundada y podrá ser recurrida.
@@ -401,17 +417,17 @@ Los educadores profesionales que ejerzan su actividad desde un año calendario a
 Desde  la  promulgación  de  la  presente  ley,  los  docentes  deberán  cumplir  con  los  requisitos exigidos en la misma para su promoción de un grado a otro.
 
 ### Artículo 63:
-La aplicación de la presente ley en materia de remuneraciones se iniciará a partir del 1 de enero del siguiente año de su promulgación, y se efectuará en forma progresiva por quinquenios, comenzando por los docentes de mayo antigüedad en la siguiente forma:
+La aplicación de la presente ley en materia de remuneraciones se iniciará a partir del 1 de enero del siguiente año de su promulgación, y se efectuará en forma progresiva por quinquenios, comenzando por los docentes de mayor antigüedad en la siguiente forma:
 
 a) En el año inicial de aprobación de la ley, a los que tuvieren veinticinco años de servicios o más;
 
-- Al año siguiente, a los que tuvieren entre veinte veinticinco años de servicio;
+b) Al año siguiente, a los que tuvieren entre veinte y veinticinco años de servicio;
 
-- Al año siguiente, a los que tuvieren entre quince y veinte años de servicio;
+c) Al año siguiente, a los que tuvieren entre quince y veinte años de servicio;
 
-- Al año siguiente, a los que tuvieren entre diez y quince años de servicio; y
+d) Al año siguiente, a los que tuvieren entre diez y quince años de servicio; y
 
-- Al año siguiente, a los que tuvieren entre cinco y diez años de servicio.
+e) Al año siguiente, a los que tuvieren entre cinco y diez años de servicio.
 
 ### Artículo 64:
 Deróganse el Decreto Ley Nº 6.436 de fecha 25 de abril 1.941, y la Ley Nº 416 de fecha 2 de noviembre de 1.973.
