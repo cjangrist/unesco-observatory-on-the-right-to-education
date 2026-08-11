@@ -8,33 +8,34 @@ The National Assembly of the Republic of Serbia at its first special session in 
 
 ## CALLING A REPUBLIC REFERENDUM TO ENDORSE THE NEW CONSTITUTION OF THE REPUBLIC OF SERBIA
 
-- Republic referendum is hereby called to endorse the new Constitution of the Republic of Serbia adopted by the National Assembly of the Republic of Serbia at its first special session in 2006 held on 30 September 2006.
+1. Republic referendum is hereby called to endorse the new Constitution of the Republic of Serbia adopted by the National Assembly of the Republic of Serbia at its first special session in 2006 held on 30 September 2006.
 
-- Republic referendum shall be conducted between 7.00 and 20.00 on 28 th and 29 th October 2006.
+2. Republic referendum shall be conducted between 7.00 and 20.00 on 28th and 29th October 2006.
 
-- The  citizens shall vote on the following question on the republic referendum:
+3. The citizens shall vote on the following question on the republic referendum:
 
 'Do you endorse the new Constitution of the Republic of Serbia?'
 
-- The citizens shall decide by circling the  word  'yes'  or  'no'  on  the  voting slip.
+4. The citizens shall decide by circling the word 'yes' or 'no' on the voting slip.
 
-- The  Republic  Electoral  Commission  shall  be  in  charge  of  referendum implementation.
+5. The Republic Electoral Commission shall be in charge of referendum implementation.
 
-The  Republic  Electoral  Commission  shall  form  municipal  commissions  and voting committees.
+The Republic Electoral Commission shall form municipal commissions and voting committees.
 
-- The Republic Electoral Commission shall establish and announce the final result of the republic referendum and submit the report on the conducted referendum to the National Assembly of the Republic of Serbia.
+6. The Republic Electoral Commission shall establish and announce the final result of the republic referendum and submit the report on the conducted referendum to the National Assembly of the Republic of Serbia.
 
-- In order to inform the citizens about the content of the Constitution of the Republic of Serbia which is put to republic referendum for endorsement, Constitution of the Republic of Serbia shall be published in the 'Official Gazette of the Republic of Serbia'  as  an  integral  part  of  this  decision,  in  the  media  and  in  any  other  form determined by the Republic Electoral Commission.
+7. In order to inform the citizens about the content of the Constitution of the Republic of Serbia which is put to republic referendum for endorsement, Constitution of the Republic of Serbia shall be published in the 'Official Gazette of the Republic of Serbia' as an integral part of this decision, in the media and in any other form determined by the Republic Electoral Commission.
 
-- This decision shall be published in the 'Official Gazette of the Republic of Serbia'.
+8. This decision shall be published in the 'Official Gazette of the Republic of Serbia'.
 
-RS no. 35 Belgrade, 30 th September 2006
+RS no. 35
+Belgrade, 30th September 2006
 
 NATIONAL ASSEMBLY OF THE REPUBLIC OF SERBIA
 
 CHAIRMAN
 
-Predrag Markovi ć
+Predrag Marković
 
 [[END OF PAGE 1]]
 
@@ -762,11 +763,9 @@ Establishment of schools and universities shall be regulated by the law.
 ##### Autonomy of university
 ###### Article 72
 
-Autonomy  of  universities,  faculties  and  scientific  institutions  shall  be Universities, faculties and scientific institutions shall decide freely on their
+Autonomy of universities, faculties and scientific institutions shall be guaranteed.
 
-guaranteed.
-
-organization and work in accordance with the law.
+Universities, faculties and scientific institutions shall decide freely on their organization and work in accordance with the law.
 
 ##### Freedom of scientific and artistic creativity
 ###### Article 73
@@ -955,7 +954,7 @@ The Republic of Serbia shall protect consumers.
 
 Activities directed against health, security and privacy of consumers, as well as all other dishonest activities on the market, shall be strictly prohibited.
 
-#### Public finances
+#### 2. Public finances
 
 ##### Taxes and other revenues
 
@@ -1019,13 +1018,15 @@ The Law on the State Audit Institution shall be enacted.
 
 ##### Competences of the Republic of Serbia
 
+###### Article 97
+
 The Republic of Serbia shall organise and provide for:
 
 - sovereignty, independence, territorial integrity and security of the Republic of Serbia, its international status and relations with other countries and international organisations;
 
 - exercise  and  protection  of  freedoms  and  rights  of  citizens;  constitutionality and legality; proceedings before courts and other state bodies; liabilities and sanctions  for  violation  of  freedoms  and  rights  of  citizens  stipulated  by  the Constitution  and  for  violation  of  laws,  other  regulations  and  general  acts; amnesty and pardon for criminal offences;
 
-- territorial organisation  of the Republic  of  Serbia;  system  of  local  selfgovernment;
+- territorial organisation  of the Republic  of  Serbia;  system  of  local  self-government;
 
 - defence and security of the Republic of Serbia and its citizens; measures in case of the state of emergency;
 
@@ -1199,7 +1200,7 @@ By means of majority vote of all deputies the National Assembly shall:
 
 - order measures of departure from human and minority rights in the state of war and emergency,
 
-- enact  the  Law  by  which  the  Republic  of  Serbia  delegates  particular  issues falling within its  competence  to  autonomous  provinces  and  local  selfgovernment units,
+- enact  the  Law  by  which  the  Republic  of  Serbia  delegates  particular  issues falling within its  competence  to  autonomous  provinces  and  local  self-government units,
 
 - give previous approval for the Statute of the autonomous province,
 
@@ -1428,7 +1429,7 @@ The  Chairman  of  the  National  Assembly  shall  be  obliged  to  schedule ele
 
 The Law on the President of the Republic shall be enacted.
 
-#### Government
+#### 3. Government
 
 ##### Status of the Government
 ###### Article 122
@@ -1477,7 +1478,7 @@ Ministers shall account for their work and situation within the competence of th
 
 ###### Article 126
 
-Member of the Government may not be a deputy in the National Assembly, deputy  in  the  Assembly  of  the  autonomous  province  and  representative  in  the Assembly of the local self-government units, nor may he or she be a member of the executive  council  of  the  autonomous  province  or  executive  body  of  the  local  selfgovernment unit.
+Member of the Government may not be a deputy in the National Assembly, deputy  in  the  Assembly  of  the  autonomous  province  and  representative  in  the Assembly of the local self-government units, nor may he or she be a member of the executive  council  of  the  autonomous  province  or  executive  body  of  the  local  self-government unit.
 
 Other  functions,  actions  or  private  interests  which  are  incompatible  with  the position of a member of the Government shall be stipulated by the Law.
 
@@ -1562,6 +1563,8 @@ The proposal for the vote of confidence in the Government or the member of the G
 If the National Assembly  fails to pass  a  vote  of confidence  in the Government,  the  term  of  office  of  the  Government  ends  and  the  President  of  the Republic shall be obliged to initiate proceedings for election of the new Government. If  the National Assembly fails to elect the new Government within 30 days from the day  of  passing  of  vote  of  no  confidence,  the  President  of  the  Republic  shall  be obliged to dissolve the National Assembly and schedule elections.
 
 ##### Resignation of the Prime Minister
+
+###### Article 132
 
 The Prime Minister may  tender his/her resignation to the National Assembly.
 
@@ -1683,6 +1686,8 @@ The Law on the Army of Serbia shall be enacted.
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+
+###### Article 142
 
 Judicial power shall be unique on the territory of the Republic of Serbia.
 
@@ -2103,7 +2108,7 @@ Organisation  of  the  Constitutional  Court  and  the  proceedings  before  the
 ##### Concept
 ###### Article 176
 
-Citizens  shall  have  the  right  to  the  provincial  autonomy  and  local  selfgovernment, which they shall exercise directly or through their freely elected representatives.
+Citizens  shall  have  the  right  to  the  provincial  autonomy  and  local  self-government, which they shall exercise directly or through their freely elected representatives.
 
 Autonomous  provinces  and  local  self-government  units  shall  have  the status of legal entities.
 
@@ -2121,7 +2126,7 @@ What  matters  shall  be  of  republic,  provincial  or  local  interest  shall 
 ##### Delegation of competences
 ###### Article 178
 
-The  Republic  of  Serbia  may,  in  accordance  with  the  law,  delegate particular  matters  within  its  competence  to  autonomous  provinces  and  local  selfgovernment units.
+The  Republic  of  Serbia  may,  in  accordance  with  the  law,  delegate particular  matters  within  its  competence  to  autonomous  provinces  and  local  self-government units.
 
 According to its decision, an autonomous province may delegate particular matters within its competence to local self-government units.
 
@@ -2201,7 +2206,7 @@ A kind and amount of direct revenues shall be stipulated by the Law.
 
 The Law shall specify the share of autonomous provinces in the part of revenue of the Republic of Serbia.
 
-The budget of the Autonomous Province of Vojvodina shall amount to at least 7% in relation to the budget of the Republic of Serbia, bearing in mind that threesevenths  of  the  budget  of  the  Autonomous  Province  of  Vojvodina  shall  be  used  for financing the capital expenditures.
+The budget of the Autonomous Province of Vojvodina shall amount to at least 7% in relation to the budget of the Republic of Serbia, bearing in mind that three-sevenths  of  the  budget  of  the  Autonomous  Province  of  Vojvodina  shall  be  used  for financing the capital expenditures.
 
 ##### Legal acts of autonomous province
 ###### Article 185
@@ -2236,7 +2241,7 @@ Local self-government units shall be municipalities, towns and the City of Belgr
 
 The territory and seat of a local self-government unit shall be specified by the Law.
 
-Establishment,  revocation  or  alteration  of  the  territory  of  a  local  selfgovernment  unit  shall  be  preceded  by  a  referendum  on  the  territory  of  that  local  selfgovernment unit.
+Establishment,  revocation  or  alteration  of  the  territory  of  a  local  self-government  unit  shall  be  preceded  by  a  referendum  on  the  territory  of  that  local  self-government unit.
 
 Affairs  of  a  local  self-government  unit  shall  be  financed  form  the  direct revenues  of  the  local  self-government  unit,  the  budget  of  the  Republic  of  Serbia,  in accordance with the Law, and the budget of the Autonomous Province of Vojvodina, in cases  when  the  autonomous  province  delegated  the  performing  of  affairs  within  its competences,  in  accordance  with  the  decision  of  the  Assembly  of  the  Autonomous Province.
 
@@ -2251,11 +2256,13 @@ A  town  shall  have  competences  delegated  to  the  municipality  by  the Con
 
 It  may be envisaged in the Statute of the town to establish two or more town municipalities on the territory of the town. The Statute of the town shall regulate the affairs falling within the town competence performed by town municipalities.
 
-The status of the City of Belgrade, the capital of the Republic of Serbia, shall be regulated by the Law on the Capital and the Statute of the City of Belgrade. The City  of  Belgrade  shall  have  competences  delegated  to  the  municipality  and  city  by  the Constitution and the Law, and other competences may be delegated to it in accordance with the Law on the Capital.
+The status of the City of Belgrade, the capital of the Republic of Serbia, shall be regulated by the Law on the Capital and the Statute of the City of Belgrade. The
 
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
+
+City of Belgrade shall have competences delegated to the municipality and city by the Constitution and the Law, and other competences may be delegated to it in accordance with the Law on the Capital.
 
 ##### Competence of municipality
 ###### Article 190
@@ -2317,7 +2324,7 @@ Simultaneously with the dismissal of the Municipal Assembly, the Government  sha
 
 The body designated by the Statute of the municipality shall have the right to lodge an appeal with the Constitutional Court if an individual legal act or action by a state body or body of local self-government unit obstructs performing the competences of the municipality.
 
-The body designated by the Statute of the municipality may institute the proceedings of assessing the constitutionality or legality of the Law or other legal act of the Republic  of  Serbia  or  autonomous  province  which  violates  the  right  to  local  selfgovernment.
+The body designated by the Statute of the municipality may institute the proceedings of assessing the constitutionality or legality of the Law or other legal act of the Republic  of  Serbia  or  autonomous  province  which  violates  the  right  to  local  self-government.
 
 ## PART EIGHT
 
@@ -2404,11 +2411,13 @@ When the National Assembly is not in a position to convene, the measures which p
 
 Measures  providing  for derogation from human  and  minority  rights prescribed by the National Assembly or Government shall be effective 90 days at the most, and upon expiry of that period may be extended under the same terms.
 
-When the decision on the state of emergency has not been passed by the National Assembly, the National Assembly shall verify it within 48 hours from its passing, that is, as soon as it is in a position to convene. If the National Assembly does not verify this decision, it shall cease to be effective upon the end of the first session of the National Assembly held after the proclamation of the state of emergency.
+When the decision on the state of emergency has not been passed by the National Assembly, the National Assembly shall verify it within 48 hours from its passing,
 
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
+
+that is, as soon as it is in a position to convene. If the National Assembly does not verify this decision, it shall cease to be effective upon the end of the first session of the National Assembly held after the proclamation of the state of emergency.
 
 In  cases  when  the  measures  providing  for  derogation  from  human  and minority rights have not been prescribed by the National Assembly, the Government shall be obliged to submit the decree on measures providing for derogation from human and minority rights to be verified by the National Assembly within 48 hours from its passing, that is,  as soon as the National Assembly is in a position to convene. In other respects, the measures  providing  for  derogation  shall  cease  to  be  effective  24  hours  prior  to  the beginning of the first session of the National Assembly held after the proclamation of the state of emergency.
 
@@ -2480,9 +2489,9 @@ The Constitution shall not be amended in the time of the state of war or emergen
 ##### Constitutional law
 ###### Article 205
 
-A  constitutional  law  shall  be  enacted  for  the  enforcement  of  the amendments to the Constitution. A constitutional law shall be adopted by a two-third majority of the total
+A  constitutional  law  shall  be  enacted  for  the  enforcement  of  the amendments to the Constitution.
 
-number of deputies.
+A constitutional law shall be adopted by a two-third majority of the total number of deputies.
 
 ## PART TEN
 
