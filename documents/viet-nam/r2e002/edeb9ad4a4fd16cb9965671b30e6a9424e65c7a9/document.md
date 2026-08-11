@@ -8,6 +8,12 @@ THE NATIONAL ASSEMBLY
 
 No: 44/2009/QH12
 
+SOCIALIST REPUBLIC OF VIET NAM
+
+Independence - Freedom - Happiness
+
+Ha Noi, day 25 month 11 year 2009
+
 # LAW
 
 ## AMENDING AND SUPPLEMENTING A NUMBER OF ARTICLES OF THE EDUCATION LAW
@@ -20,7 +26,7 @@ The  National  Assembly  promulgates  the  Law  Amending  and  Supplementing  a 
 
 #### 1. To amend and supplement Clause 2, Article 6 as follows:
 
-"2.  Educational programs must ensure modernity, stability, consistency, practicality, reasonability and inheritability among different educational  grades  and  different  training  levels:  facilitate  the  streaming,  transferability  and  conversion  between  training  levels, disciplines and educational forms in the national education system; provide a basis to ensure comprehensive education quality; and meet international integration requirements."
+"2.  Educational programs must ensure modernity, stability, consistency, practicality, reasonability and inheritability among different educational  grades  and  different  training  levels;  facilitate  the  streaming,  transferability  and  conversion  between  training  levels, disciplines and educational forms in the national education system; provide a basis to ensure comprehensive education quality; and meet international integration requirements."
 
 #### 2. To amend and supplement Clause 1, Article 11 as follows:
 
@@ -34,11 +40,11 @@ Investment  in  education  is  development  investment.  Investment  in  educati
 
 The State prioritizes investment in education, encourages domestic organizations and individuals, overseas Vietnamese and foreign organizations and individuals to invest in education and protects their legitimate rights and interests.
 
-The Stale budget must play the key role in the total resources invested in education."
+The State budget must play the key role in the total resources invested in education."
 
 #### 4. To amend and supplement Clause 3, Article 29 as follows:
 
-"3. The Minister of Education and Training shall, based on appraisals made by the National Council for Appraising General Education Programs and Textbooks, promulgate general education programs; approve and select textbooks for official, stable and uniform use in teaching and learning at general education institutions, including textbooks in Braille and ethnic minority languages and textbooks for students  of  specialized  schools;  provide  standards  of.  and  processes  to  develop  and  modify,  general  education  programs  and textbooks; and define the tasks, powers, operation mode, criteria, number and composition of members of the National Council for Appraising General Education Programs and Textbooks.
+"3. The Minister of Education and Training shall, based on appraisals made by the National Council for Appraising General Education Programs and Textbooks, promulgate general education programs; approve and select textbooks for official, stable and uniform use in teaching and learning at general education institutions, including textbooks in Braille and ethnic minority languages and textbooks for students  of  specialized  schools;  provide  standards  of,  and  processes  to  develop  and  modify,  general  education  programs  and textbooks; and define the tasks, powers, operation mode, criteria, number and composition of members of the National Council for Appraising General Education Programs and Textbooks.
 
 The Minister of Education and Training shall take responsibility for the quality of general education programs and textbooks."
 
@@ -62,13 +68,7 @@ Postgraduates who are unable to attend continuous training and permitted by educ
 
 #### 8. To amend Clause 2, Article 41 as follows:
 
-"2.Tcxtbooks  of  university  education  must  concretize  requirements  on  knowledge  and  skills  defined  in  the  educational  program  for each subject, discipline and training level of university education, meeting the requirements on university education methods.
-
-SOCIALIST REPUBLIC OF VIET NAM
-
-Independence - Freedom - Happiness
-
-Ha Noi, day 25 month 11 year 2009
+"2.Textbooks  of  university  education  must  concretize  requirements  on  knowledge  and  skills  defined  in  the  educational  program  for each subject, discipline and training level of university education, meeting the requirements on university education methods.
 
 http://www.moj.gov.vn/vbpq/en/_layouts/printeng.aspx?id=10475
 
@@ -98,11 +98,11 @@ Scientific  research  institutes,  which  provide  doctoral  training  and  coop
 
 "2. Universities and scientific research institutes may provide doctoral training when meeting the following conditions:
 
-a/  Having  sufficient  professors,  associate  professors  and  doctors  capable  of  formulating  and  implementing  training  programs  and organizing thesis evaluation councils:
+a/  Having  sufficient  professors,  associate  professors  and  doctors  capable  of  formulating  and  implementing  training  programs  and organizing thesis evaluation councils;
 
-b/ Having physical foundations and equipment to meet doctoral training requirements:
+b/ Having physical foundations and equipment to meet doctoral training requirements;
 
-- c/  Having  experience  in  scientific  research:  having  conducted  researches  related  to  scientific  subjects  under  state-level  scientific programs or quality scientific researches which have been announced domestically and overseas: having experience in training and retraining scientific researchers."
+c/  Having  experience  in  scientific  research;  having  conducted  researches  related  to  scientific  subjects  under  state-level  scientific programs or quality scientific researches which have been announced domestically and overseas; having experience in training and retraining scientific researchers."
 
 #### 11. To amend and supplement Clause 6, Article 43 as follows:
 
@@ -114,33 +114,33 @@ b/ Having physical foundations and equipment to meet doctoral training requireme
 
 #### 13. To amend and supplement Clause 3, Article 46 as follows:
 
-"3. Continuing education centers shall implement continuing education programs specified in Clause 1. Article 45 of this Law and may not  implement  educational  programs  to  grant  diplomas  of  professional  education  and  tertiary  education.  Community-based  learning centers shall  implement educational programs specified at Points a and b. Clause 1. Article 45 of this Law. Foreign language and computer  skill-training  centers  shall  implement  educational  programs  on  foreign  languages  and  computer  skill-training  specified  at Point c. Clause I. Article 45 of this Law."
+"3. Continuing education centers shall implement continuing education programs specified in Clause 1, Article 45 of this Law and may not  implement  educational  programs  to  grant  diplomas  of  professional  education  and  tertiary  education.  Community-based  learning centers shall  implement educational programs specified at Points a and b, Clause 1, Article 45 of this Law. Foreign language and computer  skill-training  centers  shall  implement  educational  programs  on  foreign  languages  and  computer  skill-training  specified  at Point c, Clause 1, Article 45 of this Law."
 
 #### 14. To amend and supplement Clause 2, Article 48 as follows:
 
 "2.  Schools  of  all  types  in  the  national  education  system  are  established  under  the  State's  master  plans  and  plans  to  develop education. The State shall create conditions for public schools to play the leading role in the national education system.
 
-The conditions, procedures and competence to establish or permit the establishment of schools and permit or terminate educational activities; merger, division, separation and dissolution of schools arc provided in Articles 50. 5()a. 50b and 51 of this Law."
+The conditions, procedures and competence to establish or permit the establishment of schools and permit or terminate educational activities; merger, division, separation and dissolution of schools are provided in Articles 50, 50a, 50b and 51 of this Law."
 
 #### 15. To amend and supplement Article 49 as follows:
 
 ##### "Article 49. Schools of state agencies, political organizations, socio-political organizations and people's armed forces
 
-- Schools of state agencies, political organizations and socio-political organizations shall train and retrain cadres and civil servants. Schools of people's armed forces shall train and retrain officers, non-commissioned officers, professional army personnel and defense workers; and retrain leaders and state administrators in defense and security tasks and knowledge.
+1. Schools of state agencies, political organizations and socio-political organizations shall train and retrain cadres and civil servants. Schools of people's armed forces shall train and retrain officers, non-commissioned officers, professional army personnel and defense workers; and retrain leaders and state administrators in defense and security tasks and knowledge.
 
-- Schools  of  state  agencies,  political  organizations,  socio-political  organizations  and  people's  armed  forces  are  educational institutions  of  the  national  education  system  under  Articles  36  and  42  of  this  Law  if  they  meet  socio-economic  development requirements,  arc  organized  and  operate  under  the  Education  Law  and  charters  of  schools  at  each  educational  grade  and  training level, are licensed for educational activities by competent state agencies, and implement educational programs to award diplomas and certificates of the national education system.
+2. Schools  of  state  agencies,  political  organizations,  socio-political  organizations  and  people's  armed  forces  are  educational institutions  of  the  national  education  system  under  Articles  36  and  42  of  this  Law  if  they  meet  socio-economic  development requirements,  are  organized  and  operate  under  the  Education  Law  and  charters  of  schools  at  each  educational  grade  and  training level, are licensed for educational activities by competent state agencies, and implement educational programs to award diplomas and certificates of the national education system.
 
-- The Government shall provide in detail schools of state agencies, political organizations, socio-political organizations and people's armed forces."
+3. The Government shall provide in detail schools of state agencies, political organizations, socio-political organizations and people's armed forces."
 
 #### 16. To amend and supplement Article 50 as follows:
 
 ##### "Article 50. Conditions on establishment of schools and licensing of educational activities
 
-- A school is established when the following conditions are fully met:
+1. A school is established when the following conditions are fully met:
 
-a/  Having  a  school  establishment  plan  in  conformity  with  the  master  plans  on  socio economic  development  and  the  network  of educational institutions already approved by competent state agencies:
+a/  Having  a  school  establishment  plan  in  conformity  with  the  master  plans  on  socioeconomic  development  and  the  network  of educational institutions already approved by competent state agencies;
 
-- b/ The school establishment plan clearly identifies educational objectives, tasks, programs and contents: land, physical foundations, equipment, location planned for school building, organizational apparatus, resources and finance: and orientations and strategies for school building and development.
+b/ The school establishment plan clearly identifies educational objectives, tasks, programs and contents; land, physical foundations, equipment, location planned for school building, organizational apparatus, resources and finance; and orientations and strategies for school building and development.
 
 http://www.moj.gov.vn/vbpq/en/_layouts/printeng.aspx?id=10475
 
@@ -158,15 +158,15 @@ school building and development.
 
 2. A school may operate when it fully meets the following conditions:
 
-a/ Having a decision to establish the school or permit its school establishment:
+a/ Having a decision to establish the school or permit its school establishment;
 
-b/ Having land, buildings, physical foundations and equipment meeting requirement on educational activities:
+b/ Having land, buildings, physical foundations and equipment meeting requirement on educational activities;
 
 c/ Its building location ensuring an educational environment and safety for its learners, trainers and employees;
 
-d/  1  laving  educational  programs  and  teaching  and  learning  materials  relevant  to  each  educational  grade  and  training  level  under regulations;
+d/  Having  educational  programs  and  teaching  and  learning  materials  relevant  to  each  educational  grade  and  training  level  under regulations;
 
-e/  Having  qualified  teachers  and  administrators  sufficient  in  number  and  structure,  ensuring  the  implementation  of  educational programs and organization of educational activities:
+e/  Having  qualified  teachers  and  administrators  sufficient  in  number  and  structure,  ensuring  the  implementation  of  educational programs and organization of educational activities;
 
 f/ Having sufficient financial resources under regulations to maintain and develop educational activities;
 
@@ -180,21 +180,21 @@ g/ Having a charter on organization and operation of the school.
 
 ##### "Article 50a. Suspension of educational activities
 
-1. A school shall he suspended from educational activities when:
+1. A school shall be suspended from educational activities when:
 
-a/ It commits frauds in order to be licensed for educational activities:
+a/ It commits frauds in order to be licensed for educational activities;
 
-b/ It fails to meet one of the conditions under Clause 2. Article 50 of this Law;
+b/ It fails to meet one of the conditions under Clause 2, Article 50 of this Law;
 
-c/ It is licensed for educational activities ultra vire;
+c/ It is licensed for educational activities ultra vires;
 
-d/ It fails to carry out educational activities within the prescribed lime limit after being licensed:
+d/ It fails to carry out educational activities within the prescribed time limit after being licensed;
 
 e/ It violates the education law and is administratively sanctioned at the level of operation suspension;
 
-f/ In other cases under law,
+f/ In other cases under law.
 
-2. A decision to suspend educational activities of a school must clearly stale the reason for and duration of suspension and measures to guarantee the interests of its teachers, learners and employees. This decision shall be announced in the mass media.
+2. A decision to suspend educational activities of a school must clearly state the reason for and duration of suspension and measures to guarantee the interests of its teachers, learners and employees. This decision shall be announced in the mass media.
 
 3. After the suspension duration, if the causes of such suspension are remedied, the person competent to decide on the suspension shall issue a decision to permit the school to resume its educational activities.
 
@@ -202,29 +202,29 @@ f/ In other cases under law,
 
 1. A school is dissolved when:
 
-a/ It seriously violates regulations on the management, organization and operation of the school:
+a/ It seriously violates regulations on the management, organization and operation of the school;
 
-b/ It tails to remedy causes of its operation suspension after the suspension duration:
+b/ It fails to remedy causes of its operation suspension after the suspension duration;
 
-c/ The operation objectives and contents stated the decision to establish the school or permit its establishment no longer meet socio -economic development requirements:
+c/ The operation objectives and contents stated in the decision to establish the school or permit its establishment no longer meet socio-economic development requirements;
 
 d/ Such dissolution is requested by the organization or individual establishing the school.
 
-2.  A  decision  to  dissolve  a  school  must  clearly  state  the  reason  for  dissolution  and  measures  to  guarantee  the  interests  of  its teachers, learners and employees. This decision shall be announced in the mass media.'"
+2.  A  decision  to  dissolve  a  school  must  clearly  state  the  reason  for  dissolution  and  measures  to  guarantee  the  interests  of  its teachers, learners and employees. This decision shall be announced in the mass media."
 
 #### 18. To amend and supplement Article 51 as follows:
 
-##### "Article 51. Competence and procedures to establish schools or permit the establishment, permit and suspend educational activities: and merger, division, separation and dissolution of schools
+##### "Article 51. Competence and procedures to establish schools or permit the establishment, permit and suspend educational activities; and merger, division, separation and dissolution of schools
 
 1. The competence to establish public schools and permit the establishment of people-founded and private schools is provided for as follows:
 
-a/  Chairpersons  of  district-level  People's  Committees  shall  make  decisions  for  crèches,  kindergartens,  primary  schools,  lower secondary schools, and semi-boarding general education schools for ethnic children:
+a/  Chairpersons  of  district-level  People's  Committees  shall  make  decisions  for  crèches,  kindergartens,  primary  schools,  lower secondary schools, and semi-boarding general education schools for ethnic children;
 
-b/ Chairpersons of provincial-level People's Committees shall make decisions for upper secondary schools, boarding general education schools for ethnic children and vocational intermediate schools of provinces:
+b/ Chairpersons of provincial-level People's Committees shall make decisions for upper secondary schools, boarding general education schools for ethnic children and vocational intermediate schools of provinces;
 
-c/ Ministers and heads of ministerial-level agencies shall make decisions for their attached vocational intermediate schools:
+c/ Ministers and heads of ministerial-level agencies shall make decisions for their attached vocational intermediate schools;
 
-d/  The  Minister  of  Education  and  Training  shall  make  decisions  for  colleges  and  pre-university  schools:  the  head  of  the  vocational training slate management agency shall make decisions for vocational colleges:
+d/  The  Minister  of  Education  and  Training  shall  make  decisions  for  colleges  and  pre-university  schools;  the  head  of  the  vocational training state management agency shall make decisions for vocational colleges;
 
 e/ The Prime Minister shall make decisions for universities.
 
@@ -244,19 +244,19 @@ Văn bản pháp quy
 
 The Minister of Education and Training, the head of the vocational training state management agency shall provide the competence to license educational activities for schools at other educational grades and training levels.
 
-3.  Those  having  the  competence  to  establish  schools  or  permit  the  establishment  of  schools  have  the  competence  to  withdraw decisions to establish, or permit the establishment of. merge, divide, separate or dissolve, these schools.
+3.  Those  having  the  competence  to  establish  schools  or  permit  the  establishment  of  schools  have  the  competence  to  withdraw decisions to establish, or permit the establishment of, merge, divide, separate or dissolve, these schools.
 
-- The  Prime  Minister  shall  provide  in  detail  procedures  to  establish,  or  permit  the  establishment,  permit  or  suspend  educational activities, permit the merger, division, separation and dissolution of, universities. The Minister of Education and Training, the head of the  vocational  training  state  management  agency  shall,  based  on  their  competence,  specify  procedures  to  establish,  or  permit  the establishment,  permit  or  suspend  educational  activities,  and  permit  the  merger,  division,  separation  and  dissolution  of,  schools  of other educational grades and training levels."
+4.  The  Prime  Minister  shall  provide  in  detail  procedures  to  establish,  or  permit  the  establishment,  permit  or  suspend  educational activities, permit the merger, division, separation and dissolution of, universities. The Minister of Education and Training, the head of the  vocational  training  state  management  agency  shall,  based  on  their  competence,  specify  procedures  to  establish,  or  permit  the establishment,  permit  or  suspend  educational  activities,  and  permit  the  merger,  division,  separation  and  dissolution  of,  schools  of other educational grades and training levels."
 
 #### 19. To amend and supplement Clause 1, Article 58 as follows:
 
 "1. To publicize educational objectives and programs, resources and finance, education quality evaluation results and the system of diplomas and certificates of the school.
 
-To organize teaching, learning and other educational activities according to educational objectives and programs: to certify or award diplomas and certificates according to its competence."'
+To organize teaching, learning and other educational activities according to educational objectives and programs; to certify or award diplomas and certificates according to its competence."
 
 #### 20. To amend and supplement Point b, Clause 1, Article 69 as follows:
 
-"b/  Centers  for  general  technical  education  and  vocational  orientation:  vocational  training  centers:  continuing  education  centers; community-based learning centers: foreign language and computer skill-training centers."
+"b/  Centers  for  general  technical  education  and  vocational  orientation;  vocational  training  centers;  continuing  education  centers; community-based learning centers; foreign language and computer skill-training centers."
 
 #### 21. To amend and supplement Point c, Clause 1, Article 69 as follows:
 
@@ -274,23 +274,23 @@ To organize teaching, learning and other educational activities according to edu
 
 ##### "Article 74. Visiting lecturing
 
-- Visiting lecturing is the lecturing at an educational institution by a person fully meeting the criteria under Clause 2. Article 70 of this Law at the invitation  of  that  educational  institution.  The  person  invited  to  give  lectures  at  an  educational  institution  is  called  visiting teacher or lecturer.
+1. Visiting lecturing is the lecturing at an educational institution by a person fully meeting the criteria under Clause 2, Article 70 of this Law at the invitation  of  that  educational  institution.  The  person  invited  to  give  lectures  at  an  educational  institution  is  called  visiting teacher or lecturer.
 
-- A visiting teacher or lecturer shall perform the duties defined in Article 72 of this Law. A visiting teacher or lecturer being a cadre or civil servant shall assure the fulfillment of his/her tasks at the agency where he/she works.
+2. A visiting teacher or lecturer shall perform the duties defined in Article 72 of this Law. A visiting teacher or lecturer being a cadre or civil servant shall assure the fulfillment of his/her tasks at the agency where he/she works.
 
-- Invitation of Vietnamese teachers and scientists, overseas Vietnamese scientists and foreigners to teach at educational institutions as visiting teachers or lecturers is encouraged."
+3. Invitation of Vietnamese teachers and scientists, overseas Vietnamese scientists and foreigners to teach at educational institutions as visiting teachers or lecturers is encouraged."
 
 #### 25. To amend and supplement Article 78 as follows:
 
 ##### "Article 78. Educational institutions providing training and refresher training for teachers and educational administrators
 
-- Educational institutions providing training and refresher training for teachers include pedagogical institutions, educational institutions with a pedagogical faculty and educational institutions licensed to provide training and refresher training for teachers.
+1. Educational institutions providing training and refresher training for teachers include pedagogical institutions, educational institutions with a pedagogical faculty and educational institutions licensed to provide training and refresher training for teachers.
 
-Pedagogical  institutions  are  established  by  the  State  to  provide  training  and  refresh  (raining  for  teachers  and  educational administrators. Pedagogical institutions are given priority in recruitment of teachers, allocation of administrators, investment in building physical  foundations  and  dormitories,  and  assurance  of  training  funds.  Pedagogical  institutions  have  schools  or  establishments  for practice.
+2. Pedagogical  institutions  are  established  by  the  State  to  provide  training  and  refresher  training  for  teachers  and  educational administrators. Pedagogical institutions are given priority in recruitment of teachers, allocation of administrators, investment in building physical  foundations  and  dormitories,  and  assurance  of  training  funds.  Pedagogical  institutions  have  schools  or  establishments  for practice.
 
-- Educational institutions providing training and refresher training for educational administrators include tertiary education institutions with an education administration faculty and educational institutions licensed to provide training and refresher training for educational administrators.
+3. Educational institutions providing training and refresher training for educational administrators include tertiary education institutions with an education administration faculty and educational institutions licensed to provide training and refresher training for educational administrators.
 
-- The Minister of Education and Training shall license educational institutions to provide training and refresher training for teachers and educational administrators."
+4. The Minister of Education and Training shall license educational institutions to provide training and refresher training for teachers and educational administrators."
 
 #### 26. To amend and supplement Article 81 as follows:
 
@@ -320,33 +320,33 @@ under their management; and develop types of schools and socialize educational a
 
 #### 28. To amend and supplement Clause 2, Article 101 as follows:
 
-"  2.  School  fees,  enrolment  fees:  revenues  from  counseling,  technology  transfer,  production,  business  and  service  activities  of educational  institutions;  investments  of  domestic  and  foreign  organizations  and  individuals  for  educational  development:  and  other funds from domestic and foreign organizations and individuals under law.
+"2.  School  fees,  enrolment  fees;  revenues  from  counseling,  technology  transfer,  production,  business  and  service  activities  of educational  institutions;  investments  of  domestic  and  foreign  organizations  and  individuals  for  educational  development;  and  other funds from domestic and foreign organizations and individuals under law.
 
 The State encourages organizations and individuals to give donations and supports for educational development. Abuse of donation and support for education to force contributions in cash or in kind is prohibited."
 
 #### 29. To add the following Clause 4 to Article 108:
 
-"4.  The  Prime  Minister  shall  provide  in  detail  overseas  teaching,  study,  scientific  research  and  academic  exchange  by  Vietnamese citizens: and educational cooperation with foreign organizations and individuals and overseas Vietnamese."
+"4.  The  Prime  Minister  shall  provide  in  detail  overseas  teaching,  study,  scientific  research  and  academic  exchange  by  Vietnamese citizens; and educational cooperation with foreign organizations and individuals and overseas Vietnamese."
 
 #### 30. To amend and supplement Article 109 as follows:
 
 ##### "Article 109. Encouragement of educational cooperation with Vietnam
 
-- The Vietnamese State shall encourage and create conditions for foreign organizations and individuals, international organizations and  overseas  Vietnamese  to  teach,  study,  invest  in.  fund,  cooperate  on.  apply  sciences  and  transfer  technology  to.  education  in Vietnam:  and  protect  their  legitimate  rights  and  interests  in  accordance  with  Vietnamese  law  and  treaties  to  which  the  Socialist Republic of Vietnam is a contracting party.
+1. The Vietnamese State shall encourage and create conditions for foreign organizations and individuals, international organizations and  overseas  Vietnamese  to  teach,  study,  invest  in,  fund,  cooperate  on,  apply  sciences  and  transfer  technology  to,  education  in Vietnam;  and  protect  their  legitimate  rights  and  interests  in  accordance  with  Vietnamese  law  and  treaties  to  which  the  Socialist Republic of Vietnam is a contracting party.
 
-- Educational cooperation with Vietnam must ensure education of learners in personality, qualification and civic capacity; respect the identity of national culture; fulfill educational objectives and meet requirements on educational contents and methods suitable to each educational  grade  and  training  level  in  the  national  education  system;  and  carry  out  educational  activities  in  accordance  with Vietnamese law.
+2. Educational cooperation with Vietnam must ensure education of learners in personality, qualification and civic capacity; respect the identity of national culture; fulfill educational objectives and meet requirements on educational contents and methods suitable to each educational  grade  and  training  level  in  the  national  education  system;  and  carry  out  educational  activities  in  accordance  with Vietnamese law.
 
-- Foreign cooperation on and investment in education in Vietnam include:
+3. Foreign cooperation on and investment in education in Vietnam include:
 
-- a/ Establishment of educational institutions;
+a/ Establishment of educational institutions;
 
-- b/ Training partnership:
+b/ Training partnership;
 
-- c/ Establishment of representative offices;
+c/ Establishment of representative offices;
 
-- d/ Other forms of cooperation.
+d/ Other forms of cooperation.
 
-- The Government shall provide in detail foreign cooperation on and investment in education."
+4. The Government shall provide in detail foreign cooperation on and investment in education."
 
 #### 31. To add the following Section 3a to Chapter VII:
 
@@ -356,41 +356,41 @@ EDUCATION QUALITY ASSESSMENT
 
 ###### Article 110a. State management of education quality assessment
 
-- To  promulgate regulations on criteria for evaluating education quality: processes and periods of education quality assessment at each  educational  grade  and  training  level;  and  operation  principles  of  and  conditions  and  criteria  for  organizations  and  individuals conducting  education  quality  assessment;  to  license  education  quality  assessment:  and  to  grant  and  withdraw  certificates  of education quality assessment.
+1. To  promulgate regulations on criteria for evaluating education quality; processes and periods of education quality assessment at each  educational  grade  and  training  level;  and  operation  principles  of  and  conditions  and  criteria  for  organizations  and  individuals conducting  education  quality  assessment;  to  license  education  quality  assessment;  and  to  grant  and  withdraw  certificates  of education quality assessment.
 
-- To manage the assessment of educational programs and educational institutions.
+2. To manage the assessment of educational programs and educational institutions.
 
-- To guide organizations, individuals and educational institutions in appraising and assessing education quality.
+3. To guide organizations, individuals and educational institutions in appraising and assessing education quality.
 
-- To examine and evaluate the observance of regulations on education quality assessment.
+4. To examine and evaluate the observance of regulations on education quality assessment.
 
 ###### Article 110b. Principles of education quality assessment
 
 Education quality assessment must adhere to the following principles:
 
-- Independence, objectiveness and lawfulness.
+1. Independence, objectiveness and lawfulness.
 
-- Honesty, publicity and transparency.
+2. Honesty, publicity and transparency.
 
 ###### Article 110c. Education quality assessment organizations
 
-- Education quality assessment organizations include:
+1. Education quality assessment organizations include:
 
-- a/ Education quality assessment organizations established by the State:
+a/ Education quality assessment organizations established by the State;
 
 b/ Education quality assessment organizations established by organizations or individuals.
 
-- The Minister of Education and Training shall decide on or permit the establishment of education quality assessment organizations; and provide conditions to establish and dissolve, and tasks and powers of. education quality assessment organizations."
+2. The Minister of Education and Training shall decide on or permit the establishment of education quality assessment organizations; and provide conditions to establish and dissolve, and tasks and powers of, education quality assessment organizations."
 
 ### Article 2.
 
-- This Law takes effect on July 1. 2010.
+1. This Law takes effect on July 1, 2010.
 
 This Law was passed on November 25, 2009, by the 12th National Assembly of the Socialist Republic of Vietnam at its 6th session.
 
-http://www.moj.gov.vn/vbpq/en/_layouts/printeng.aspx?id=10475
-
 THE NATIONAL ASSEMBLY
+
+http://www.moj.gov.vn/vbpq/en/_layouts/printeng.aspx?id=10475
 
 5/6
 
@@ -402,7 +402,8 @@ THE NATIONAL ASSEMBLY
 
 Văn bản pháp quy
 
-THE NATIONAL ASSEMBLY CHAIRMAN
+THE NATIONAL ASSEMBLY
+CHAIRMAN
 
 (Đã ký)
 
