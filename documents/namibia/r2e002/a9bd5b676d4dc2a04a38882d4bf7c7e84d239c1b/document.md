@@ -1,26 +1,33 @@
 [[START OF PAGE 1]]
-
-No. 286
-
 GOVERNMENT GAZETTE
 
 OF THE
 
 REPUBLIC OF NAMIBIA
 
-N$ 3.60
+N$3.60
+
+WINDHOEK - 28 December 2004
+
+No.3360
+
+# CONTENTS
+
+Page
 
 ## GOVERNMENT NOTICE
 
 No. 286 Promulgation of National Disability Council Act, 2004 (Act No. 26 of 2004),
 
-of the Parliament .................................................................................................
+of the Parliament ................................................................................................. 1
 
 _______________
 
 # Government Notice
 
 ## OFFICE OF THE PRIME MINISTER
+
+No. 286 2004
 
 ### PROMULGATION OF ACT OF PARLIAMENT
 
@@ -29,19 +36,6 @@ The following Act which has been passed by the Parliament and signed by the Pres
 No. 26 of 2004: National Disability Council Act, 2004.
 
 _______________
-
-WINDHOEK  - 28 December 2004
-
-# CONTENTS
-
-No.3360
-
-Page
-
-1
-
-2004
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -54,76 +48,6 @@ No.3360
 
 Act No. 26, 2004
 
-Section
-
-- Definitions
-
-- Establishment of Council
-
-- Functions of Council
-
-- Powers of Council
-
-- Composition of Council
-
-- Disqualification for appointment as member of Council
-
-- Tenure of office of members
-
-- Vacation of office and filling of vacancies
-
-- Meetings of Council
-
-- Remuneration and allowances
-
-- Rules
-
-- Committees
-
-- Director and other staff
-
-- Delegation of powers and assignment of functions
-
-- Council may gather information
-
-- Provision of information and raising of awareness
-
-- Annual report of Government ministries
-
-- Funds of Council
-
-- Financial year
-
-- Accounting and auditing
-
-- Annual report of Council
-
-- Offences and penalties
-
-- Regulations
-
-- Short title and commencement
-
-SCHEDULE
-
-BE IT ENACTED by the Parliament of the Republic of Namibia as, follows: -
-
-# Definitions
-
-- In this Act, unless the context indicates otherwise -
-
-'chairperson' means the chairperson of the Council;
-
-'committee' means a committee of the Council, established under section 12;
-
-'Council' means the National Disability Council of Namibia established by section 2;
-
-'disability' means a  physical, mental or sensory impairment that alone,  or in combination with social or environmental barriers, affects the ability of the person concerned to take part in educational, vocational, or recreational activities;
-
-'Minister' means the Minister responsible for rehabilitation;
-
-'National Policy on Disability' means the National Policy on Disability adopted by the National Assembly in July, 1997 and set out in the Schedule;
-
 NATIONAL DISABILITY COUNCIL ACT, 2004
 
 # ACT
@@ -133,6 +57,76 @@ To establish a National Disability Council; to provide for the functions, powers
 (Signed by the President on 19 December 2004)
 
 ## ARRANGEMENT OF SECTIONS
+
+Section
+
+1. Definitions
+
+2. Establishment of Council
+
+3. Functions of Council
+
+4. Powers of Council
+
+5. Composition of Council
+
+6. Disqualification for appointment as member of Council
+
+7. Tenure of office of members
+
+8. Vacation of office and filling of vacancies
+
+9. Meetings of Council
+
+10. Remuneration and allowances
+
+11. Rules
+
+12. Committees
+
+13. Director and other staff
+
+14. Delegation of powers and assignment of functions
+
+15. Council may gather information
+
+16. Provision of information and raising of awareness
+
+17. Annual report of Government ministries
+
+18. Funds of Council
+
+19. Financial year
+
+20. Accounting and auditing
+
+21. Annual report of Council
+
+22. Offences and penalties
+
+23. Regulations
+
+24. Short title and commencement
+
+SCHEDULE
+
+BE IT ENACTED by the Parliament of the Republic of Namibia as, follows: -
+
+# Definitions
+
+1. In this Act, unless the context indicates otherwise -
+
+“chairperson” means the chairperson of the Council;
+
+“committee” means a committee of the Council, established under section 12;
+
+“Council” means the National Disability Council of Namibia established by section 2;
+
+“disability” means a physical, mental or sensory impairment that alone, or in combination with social or environmental barriers, affects the ability of the person concerned to take part in educational, vocational, or recreational activities;
+
+“Minister” means the Minister responsible for rehabilitation;
+
+“National Policy on Disability” means the National Policy on Disability adopted by the National Assembly in July, 1997 and set out in the Schedule;
 
 [[END OF PAGE 2]]
 
@@ -154,11 +148,11 @@ NATIONAL DISABILITY COUNCIL ACT, 2004
 
 # Establishment of Council
 
-- A juristic person  to be known as the National Disability Council is hereby established.
+2. A juristic person to be known as the National Disability Council is hereby established.
 
 # Functions of Council
 
-(1) The functions of the Council are to -
+3. (1) The functions of the Council are to -
 
 (a) monitor the implementation of the National Policy on Disability in the manner provided in this Act ;
 
@@ -174,15 +168,15 @@ NATIONAL DISABILITY COUNCIL ACT, 2004
 
 (g) in general take all necessary steps in order to improve the situation of persons with disabilities in Namibia.
 
-- If  the  Council  considers  it  desirable  to  amend  the  National  Policy  on Disability, it may make a recommendation to Cabinet for the amendment thereof.
+(2) If the Council considers it desirable to amend the National Policy on Disability, it may make a recommendation to Cabinet for the amendment thereof.
 
-- Cabinet may accept or reject any recommendation made under subsection (2), or may refer it back to the Council for reformulation.
+(3) Cabinet may accept or reject any recommendation made under subsection (2), or may refer it back to the Council for reformulation.
 
-- If  Cabinet  accepts  a  recommendation to amend the National Policy on Disability, such amendment must be made by the Minister by notice in the Gazette .
+(4) If Cabinet accepts a recommendation to amend the National Policy on Disability, such amendment must be made by the Minister by notice in the Gazette.
 
 # Powers of Council
 
-(1) In order to perform its functions, the Council has, in addition to any power granted to it elsewhere in this Act, the following powers:
+4. (1) In order to perform its functions, the Council has, in addition to any power granted to it elsewhere in this Act, the following powers:
 
 (a) To institute and defend legal proceedings in its own name;
 
@@ -212,11 +206,11 @@ with disabilities, if the matter in question relates to the rights of, or the in
 
 (f) where any Government ministry fails to submit an annual report to it in terms of section 17(1), to demand the submission of that report to it within a period specified in that demand.
 
-- Cabinet  must,  within  six  months  from  the  date  of  receipt  of  the recommendation referred to in subsection (1)(d), inform the Council whether or not it accepts the recommendation.
+(2) Cabinet must, within six months from the date of receipt of the recommendation referred to in subsection (1)(d), inform the Council whether or not it accepts the recommendation.
 
 # Composition of Council
 
-(1) The Council is composed of the following members appointed by the Minister:
+5. (1) The Council is composed of the following members appointed by the Minister:
 
 (a) Seven members nominated by organisations of persons with disabilities which is in the opinion of the Minister representative of as many kinds of disabilities as possible;
 
@@ -228,11 +222,11 @@ with disabilities, if the matter in question relates to the rights of, or the in
 
 (e) one member who has special knowledge of, or interest in, disability or any issue relating to disability.
 
-- A majority of the members of the Council must be persons with disabilities.
+(2) A majority of the members of the Council must be persons with disabilities.
 
-- Whenever  an appointment under subsection (1)(a) is required to be made, the Minister must request organisations of persons with disabilities to nominate within a specified period, being at least 60 days, suitable persons to be appointed as members of the Council.
+(3) Whenever an appointment under subsection (1)(a) is required to be made, the Minister must request organisations of persons with disabilities to nominate within a specified period, being at least 60 days, suitable persons to be appointed as members of the Council.
 
-- The Minister must cause the invitation referred to in subsection (3) to be -
+(4) The Minister must cause the invitation referred to in subsection (3) to be -
 
 (a) published in at least two newspapers circulating in Namibia;
 
@@ -240,9 +234,9 @@ with disabilities, if the matter in question relates to the rights of, or the in
 
 (c) sent by way of written notice to such organisations of persons with disabilities as he or she is aware of.
 
-- If the Minister does not receive a nomination within the period requested, the Minister may appoint any suitable person to be a member of the Council, and any person appointed under this subsection holds office as if nominated in accordance with subsection (3).
+(5) If the Minister does not receive a nomination within the period requested, the Minister may appoint any suitable person to be a member of the Council, and any person appointed under this subsection holds office as if nominated in accordance with subsection (3).
 
-- The Minister must, as soon as possible after the appointment of members of the Council, give notice in the Gazette of  the  names and date of appointment of the
+(6) The Minister must, as soon as possible after the appointment of members of the Council, give notice in the Gazette of the names and date of appointment of the
 
 [[END OF PAGE 4]]
 
@@ -262,7 +256,7 @@ members and, in the case of a member appointed to fill a casual vacancy, the per
 
 # Disqualification for appointment as member of Council
 
-- A person does  not qualify for appointment as a member of the Council if he or she -
+6. A person does not qualify for appointment as a member of the Council if he or she -
 
 (a) is an unrehabilitated insolvent;
 
@@ -274,13 +268,13 @@ members and, in the case of a member appointed to fill a casual vacancy, the per
 
 # Tenure of office of members
 
-(1) Subject to subsection (2) and section 8, a member of the Council holds office for a period of three years and is, at the expiry of that period, eligible for re- appointment.
+7. (1) Subject to subsection (2) and section 8, a member of the Council holds office for a period of three years and is, at the expiry of that period, eligible for re-appointment.
 
-- A member of the Council who is appointed to fill a casual vacancy, is appointed for the unexpired portion of the term of office of the member in whose place he or she is appointed.
+(2) A member of the Council who is appointed to fill a casual vacancy, is appointed for the unexpired portion of the term of office of the member in whose place he or she is appointed.
 
 # Vacation of office and filling of vacancies
 
-(1) Notwithstanding section 7, a member of the Council vacates his or her office if he or she -
+8. (1) Notwithstanding section 7, a member of the Council vacates his or her office if he or she -
 
 (a) becomes subject to a disqualification referred to in section 6;
 
@@ -290,13 +284,13 @@ members and, in the case of a member appointed to fill a casual vacancy, the per
 
 (d) is removed from office by the Minister under subsection (2).
 
-- The Minister may, by notice in writing, remove a member of the Council from office if the Minister, after giving the member concerned a reasonable opportunity to  be  heard,  is  satisfied  that  such  member  is  for  any  good  reason  unable  or  unfit  to discharge the functions of a member or to represent the interests which he or she is required to represent.
+(2) The Minister may, by notice in writing, remove a member of the Council from office if the Minister, after giving the member concerned a reasonable opportunity to be heard, is satisfied that such member is for any good reason unable or unfit to discharge the functions of a member or to represent the interests which he or she is required to represent.
 
-- If a member of the Council dies, or his or her office becomes vacant in terms of subsection (1), the Minister must, with due regard to section 5(1), and in the case of a member referred to in section 5(1)(a), with due regard to section 5(3) as well, appoint a person to fill the vacancy for the unexpired portion of the term of office of the member in whose stead he or she is appointed.
+(3) If a member of the Council dies, or his or her office becomes vacant in terms of subsection (1), the Minister must, with due regard to section 5(1), and in the case of a member referred to in section 5(1)(a), with due regard to section 5(3) as well, appoint a person to fill the vacancy for the unexpired portion of the term of office of the member in whose stead he or she is appointed.
 
 # Meetings of Council
 
-(1) The Council must hold its first meeting within one month from the date of appointment of the members of the Council, on such date and at such time and
+9. (1) The Council must hold its first meeting within one month from the date of appointment of the members of the Council, on such date and at such time and
 
 [[END OF PAGE 5]]
 
@@ -314,37 +308,37 @@ NATIONAL DISABILITY COUNCIL ACT, 2004
 
 place as the Minister may determine, and thereafter, the Council shall hold its meetings on such date and at such times and places as the Council may determine, but the Council shall hold at least two meetings every year.
 
-- If the Council does not determine the date, time and place for its next meeting, the chairperson must determine the date, time and place.
+(2) If the Council does not determine the date, time and place for its next meeting, the chairperson must determine the date, time and place.
 
-- The Council must, at its first meeting, elect from amongst its members a chairperson and a vice-chairperson, who shall hold office for one year.
+(3) The Council must, at its first meeting, elect from amongst its members a chairperson and a vice-chairperson, who shall hold office for one year.
 
-- Either  the  chairperson  or  the  vice-chairperson  must  be  a  person  with  a disability.
+(4) Either the chairperson or the vice-chairperson must be a person with a disability.
 
-- The chairperson must convene a special meeting of the Council -
+(5) The chairperson must convene a special meeting of the Council -
 
 (a) when the Minister in writing requests him or her to do so; or
 
-(b) when at least six members, in writing, request him or her  to do so.
+(b) when at least six members, in writing, request him or her to do so.
 
-- If the chairperson receives a request referred to in subsection (5), he or she must convene such meeting to be held within 14 days after the date on which he or she has received  the request.
+(6) If the chairperson receives a request referred to in subsection (5), he or she must convene such meeting to be held within 14 days after the date on which he or she has received the request.
 
-- The chairperson, or in his or her absence, the vice-chairperson, or in the absence of both the chairperson and the vice-chairperson, such member of the Council as the members present may elect, must preside at a meeting of the Council.
+(7) The chairperson, or in his or her absence, the vice-chairperson, or in the absence of both the chairperson and the vice-chairperson, such member of the Council as the members present may elect, must preside at a meeting of the Council.
 
-- A majority of the members of the Council constitutes a quorum at a meeting of the Council.
+(8) A majority of the members of the Council constitutes a quorum at a meeting of the Council.
 
-- A decision of a majority of the members of the Council present at a meeting of the Council is the decision of the Council and, in the event of an equality of votes, the person presiding at that meeting has a casting vote in addition to his or her deliberative vote.
+(9) A decision of a majority of the members of the Council present at a meeting of the Council is the decision of the Council and, in the event of an equality of votes, the person presiding at that meeting has a casting vote in addition to his or her deliberative vote.
 
-- The Council may invite any person to attend its meetings and to take part in the deliberations of the Council, but that person has no vote.
+(10) The Council may invite any person to attend its meetings and to take part in the deliberations of the Council, but that person has no vote.
 
-- A decision of the Council is not rendered invalid by reason only of a vacancy on the Council or of the fact that a person who is not entitled to sit as a member of the Council sits as such a member when the decision is taken, if the decision is taken by the requisite majority of the members present at the time and entitled to vote.
+(11) A decision of the Council is not rendered invalid by reason only of a vacancy on the Council or of the fact that a person who is not entitled to sit as a member of the Council sits as such a member when the decision is taken, if the decision is taken by the requisite majority of the members present at the time and entitled to vote.
 
-- The person presiding at a meeting of the Council or a committee must cause a record to be kept of the proceedings of its meetings, and must cause that record to be submitted to the Minister as soon as possible after a meeting of the Council.
+(12) The person presiding at a meeting of the Council or a committee must cause a record to be kept of the proceedings of its meetings, and must cause that record to be submitted to the Minister as soon as possible after a meeting of the Council.
 
 # Remuneration and allowances
 
 10. (1) There must be paid to a member of the Council or of a committee, who is not in the full-time employ of the State, in respect of his or her services as a member of the Council or of any such committee, out of the funds of the Council, such remuneration or allowances as the Council, with the approval of the Minister and the Minister responsible for  finance, may determine.
 
-- Different allowances may be determined under subsection (1) according to the different offices held by the persons concerned or the work performed by them.
+(2) Different allowances may be determined under subsection (1) according to the different offices held by the persons concerned or the work performed by them.
 
 [[END OF PAGE 6]]
 
@@ -360,11 +354,11 @@ Act No. 26, 2004
 
 NATIONAL DISABILITY COUNCIL ACT, 2004
 
-- The Council may, with the approval of the Minister, reimburse a member of the Council and of a committee for expenses reasonably incurred by him or her while travelling to, or attending, a meeting of the Council or of a committee, or while performing any work of the Council or of a committee and allowed by the Council.
+(3) The Council may, with the approval of the Minister, reimburse a member of the Council and of a committee for expenses reasonably incurred by him or her while travelling to, or attending, a meeting of the Council or of a committee, or while performing any work of the Council or of a committee and allowed by the Council.
 
 # Rules
 
-- The Council may, with the approval of the Minister, make rules relating to -
+11. The Council may, with the approval of the Minister, make rules relating to -
 
 (a) the  good  administration  of  the  affairs  of  the  Council  and  the  effective execution of its functions;
 
@@ -376,21 +370,21 @@ NATIONAL DISABILITY COUNCIL ACT, 2004
 
 # Committees
 
-(1) The Council may establish such committees as it may consider necessary to assist the Council in the exercise of such of its powers or the performance of such of its functions under this Act as the Council may delegate or assign to it under section 14.
+12. (1) The Council may establish such committees as it may consider necessary to assist the Council in the exercise of such of its powers or the performance of such of its functions under this Act as the Council may delegate or assign to it under section 14.
 
-- The Council may appoint as a member of a committee any person who is not a member of the Council, but at least one member of the committee must be a member of the Council.
+(2) The Council may appoint as a member of a committee any person who is not a member of the Council, but at least one member of the committee must be a member of the Council.
 
-- The Council may appoint one member of a committee as the chairperson of that committee.
+(3) The Council may appoint one member of a committee as the chairperson of that committee.
 
-- The chairperson of a committee or, in his or her absence, such member of the  committee as the members present may elect must preside at a meeting of the committee.
+(4) The chairperson of a committee or, in his or her absence, such member of the committee as the members present may elect must preside at a meeting of the committee.
 
-- A majority of the members of a committee constitutes a quorum at a meeting of a committee.
+(5) A majority of the members of a committee constitutes a quorum at a meeting of a committee.
 
-- A decision of a majority of the members of a committee present at a meeting of a committee is the decision of the committee and, in the event of an equality of votes, the person presiding at that meeting has a casting vote in addition to his or her deliberative vote.
+(6) A decision of a majority of the members of a committee present at a meeting of a committee is the decision of the committee and, in the event of an equality of votes, the person presiding at that meeting has a casting vote in addition to his or her deliberative vote.
 
-- Subject to subsection (5), a decision of a committee is not  rendered invalid by reason only of a vacancy on the committee or of the fact that a person who is not entitled to sit as a member of the committee sits as such a member when the decision is taken, if such decision is taken by the requisite majority of the members present at the time and entitled to vote.
+(7) Subject to subsection (5), a decision of a committee is not rendered invalid by reason only of a vacancy on the committee or of the fact that a person who is not entitled to sit as a member of the committee sits as such a member when the decision is taken, if such decision is taken by the requisite majority of the members present at the time and entitled to vote.
 
-- The person presiding at a meeting of a committee must cause a record to be kept of the proceedings of its meetings, and must cause that record to be submitted to the Council as soon as possible after a meeting of the committee.
+(8) The person presiding at a meeting of a committee must cause a record to be kept of the proceedings of its meetings, and must cause that record to be submitted to the Council as soon as possible after a meeting of the committee.
 
 [[END OF PAGE 7]]
 
@@ -404,47 +398,47 @@ No.3360
 
 Act No. 26, 2004
 
+NATIONAL DISABILITY COUNCIL ACT, 2004
+
 # Director and other staff
 
-(1) The Council must, with the approval of the Minister, appoint on such terms and conditions as it, with the approval of the Minister and the Minister responsible for finance, may determine.
+13. (1) The Council must, with the approval of the Minister, appoint on such terms and conditions as it, with the approval of the Minister and the Minister responsible for finance, may determine.
 
-- The director is the chief executive officer of the Council and -
+(2) The director is the chief executive officer of the Council and -
 
 (a) is responsible for the day-to-day administration of the affairs of the Council, subject to the directions of, and in accordance with the rules and procedures determined by the Council;
 
-(b) must supervise the staff of the Council, and exercise disciplinary power over such staff in accordance with the  rules made by the Council;
+(b) must supervise the staff of the Council, and exercise disciplinary power over such staff in accordance with the rules made by the Council;
 
 (c) is the accounting officer of the Council charged with accounting of moneys received and payments made by the Council;
 
 (d) must exercise such powers and perform such other duties and functions as the Council may delegate or assign to him or her.
 
-- The Council may, on the recommendation of the director and subject to the rules made by the Council with the approval of the Minister, appoint such other staff as it may consider  necessary to assist the Council in the performance of its functions.
+(3) The Council may, on the recommendation of the director and subject to the rules made by the Council with the approval of the Minister, appoint such other staff as it may consider necessary to assist the Council in the performance of its functions.
 
 # Delegation of powers and assignment of functions
 
-(1) The Council may, in writing -
+14. (1) The Council may, in writing -
 
 (a) delegate a power conferred upon it by or under this Act to the director, a committee or a member of staff of the Council; or
 
 (b) assign the performance of a function entrusted to it by or under this Act to the director, a committee or a member of staff of the Council.
 
-- The director may, in writing -
+(2) The director may, in writing -
 
-(a) delegate a power conferred upon him or her by or under this Act to a member of  staff of the Council; or
+(a) delegate a power conferred upon him or her by or under this Act to a member of staff of the Council; or
 
 (b) assign the performance of a function entrusted to him or her by or under this Act to a member of staff of the Council.
 
-- The Council or the director may make the delegation or the assignment under subsection (1) or (2) subject to such conditions and restrictions as the Council or the director may determine, and the Council or the director may withdraw or amend  the delegation or the assignment.
+(3) The Council or the director may make the delegation or the assignment under subsection (1) or (2) subject to such conditions and restrictions as the Council or the director may determine, and the Council or the director may withdraw or amend the delegation or the assignment.
 
-- The Council or the director is not divested of a power or a function  delegated or assigned by the Council or the director under subsection (1) or (2), and may amend or withdraw a decision made in the exercise of the delegated powers or in the performance of the assigned functions.
+(4) The Council or the director is not divested of a power or a function delegated or assigned by the Council or the director under subsection (1) or (2), and may amend or withdraw a decision made in the exercise of the delegated powers or in the performance of the assigned functions.
 
 # Council may gather information
 
-(1) In  order  to  better  perform  its  functions,  the  Council  may  gather information regarding -
+15. (1) In order to better perform its functions, the Council may gather information regarding -
 
 (a) persons with disabilities in Namibia, the type and severity of their disability, their needs, the extent to which they are integrated into society and methods by which they can be better integrated into society;
-
-NATIONAL DISABILITY COUNCIL ACT, 2004
 
 [[END OF PAGE 8]]
 
@@ -472,27 +466,27 @@ NATIONAL DISABILITY COUNCIL ACT, 2004
 
 (g) any information that the Council may require in order to perform any function or exercise any power under this Act.
 
-- In order to obtain the information referred to in subsection (1), the Council may hold hearings that may be open to the public, which may be held on such date and at such times and places as the Council may determine.
+(2) In order to obtain the information referred to in subsection (1), the Council may hold hearings that may be open to the public, which may be held on such date and at such times and places as the Council may determine.
 
-- The Council must give at least 14 days' written notice of a hearing referred to in subsection (2) to the members of the public.
+(3) The Council must give at least 14 days’ written notice of a hearing referred to in subsection (2) to the members of the public.
 
-- For the purposes of subsection (2), the Council may, in writing, summon any person who, in the opinion of the Council, is able to furnish information material to the hearing referred to in subsection (2), or who the Council has reason to believe has in his or her possession or custody or under his or her control any book, document or record relating  to  the  subject  of  the  hearing,  to  appear  on  the  date  and  at  a  time  and  place specified in the summons to be examined or to produce that book, document or record, and may retain for examination any book, document or record produced.
+(4) For the purposes of subsection (2), the Council may, in writing, summon any person who, in the opinion of the Council, is able to furnish information material to the hearing referred to in subsection (2), or who the Council has reason to believe has in his or her possession or custody or under his or her control any book, document or record relating to the subject of the hearing, to appear on the date and at a time and place specified in the summons to be examined or to produce that book, document or record, and may retain for examination any book, document or record produced.
 
-- A summons referred to in subsection (4) must -
+(5) A summons referred to in subsection (4) must -
 
 (a) be issued under the hand of the chairperson;
 
 (b) state the name of the person required to appear before the Council, the date on which, and the time and place at which, he or she is required to appear and also state the description of the book, document or record, if any, which that person is required to produce at the hearing referred to in subsection (1).
 
-- The chairperson must cause the summons referred to in subsection (4), to be served by a person authorised by the Council, by delivering a copy of the summons -
+(6) The chairperson must cause the summons referred to in subsection (4), to be served by a person authorised by the Council, by delivering a copy of the summons -
 
 (a) to the person summoned in person; or
 
 (b) at his or her usual or last known place of residence or place of employment to a person apparently over the age of 16 years and apparently residing or employed there.
 
-- A return by the person who served the summons that service of the summons has been effected in terms of subsection (6) is prima facie proof of the service.
+(7) A return by the person who served the summons that service of the summons has been effected in terms of subsection (6) is prima facie proof of the service.
 
-- The Council may, through its chairperson, administer an oath to, or accept a solemn affirmation from, any person at the hearing, and examine him or her, or instruct him or her to produce any book, document or record in his or her possession or custody or under his or her control.
+(8) The Council may, through its chairperson, administer an oath to, or accept a solemn affirmation from, any person at the hearing, and examine him or her, or instruct him or her to produce any book, document or record in his or her possession or custody or under his or her control.
 
 [[END OF PAGE 9]]
 
@@ -508,7 +502,7 @@ Act No. 26, 2004
 
 NATIONAL DISABILITY COUNCIL ACT, 2004
 
-- In conducting a hearing, the Council -
+(9) In conducting a hearing, the Council -
 
 (a) is not bound by the strict rules of the law of evidence and it may ascertain, subject to the principles of natural justice and fairness, a relevant fact in such manner as it may consider fit; and
 
@@ -542,7 +536,7 @@ commits an offence and is, on conviction, liable to a fine not exceeding N$8 000
 
 (c) the information is of statistical or general nature.
 
-- Nothing contained in subsection (1) is construed as permitting any action that might infringe upon the right of privacy of a person contemplated in Article 13(1) of the Namibian Constitution.
+(2) Nothing contained in subsection (1) is construed as permitting any action that might infringe upon the right of privacy of a person contemplated in Article 13(1) of the Namibian Constitution.
 
 (3) The Council may run programmes or conduct campaigns to inform the public to raise the awareness of the public concerning an issue relating to disability.
 
@@ -562,13 +556,13 @@ NATIONAL DISABILITY COUNCIL ACT, 2004
 
 # Annual report of Government ministries
 
-(1) Every Permanent Secretary of a Government ministry must, within 90 days after the end of each financial year, submit or cause to be submitted to the Council a report on the implementation of the National Policy on Disability in the ministry of which he or she is Permanent Secretary.
+17. (1) Every Permanent Secretary of a Government ministry must, within 90 days after the end of each financial year, submit or cause to be submitted to the Council a report on the implementation of the National Policy on Disability in the ministry of which he or she is Permanent Secretary.
 
-- The Council must keep at its head office a copy of every report of a Government ministry on the implementation of the National Policy on Disability open for public inspection at the Council's head office.
+(2) The Council must keep at its head office a copy of every report of a Government ministry on the implementation of the National Policy on Disability open for public inspection at the Council’s head office.
 
 # Funds of Council
 
-- The funds of the Council consist of -
+18. The funds of the Council consist of -
 
 (a) such moneys as may be appropriated by Parliament for the purpose;
 
@@ -582,19 +576,19 @@ NATIONAL DISABILITY COUNCIL ACT, 2004
 
 # Financial year
 
-- The financial year of the Council commences on 1 April and ends on 31 March of the ensuing year.
+19. The financial year of the Council commences on 1 April and ends on 31 March of the ensuing year.
 
 # Accounting and auditing
 
-(1) The Council must keep proper accounts and records of all moneys received or expended by it  and of all its activities during the preceding financial year.
+20. (1) The Council must keep proper accounts and records of all moneys received or expended by it and of all its activities during the preceding financial year.
 
-- The Council must prepare a statement of accounts in respect of each financial year.
+(2) The Council must prepare a statement of accounts in respect of each financial year.
 
-- A person registered as an auditor in terms of the Public Accountants' and Auditors' Act, 1951 (Act No. 51 of 1951) and appointed by the Council with the prior written consent of the Auditor-General must annually audit the accounts and records of the Council.
+(3) A person registered as an auditor in terms of the Public Accountants’ and Auditors’ Act, 1951 (Act No. 51 of 1951) and appointed by the Council with the prior written consent of the Auditor-General must annually audit the accounts and records of the Council.
 
 # Annual report of Council
 
-(1) The Council must, as soon as possible, but not later than three months after the end of each financial year, prepare or cause to be prepared and submitted  to the Minister -
+21. (1) The Council must, as soon as possible, but not later than three months after the end of each financial year, prepare or cause to be prepared and submitted to the Minister -
 
 (a) audited financial statements of the Council and a report of the auditor on those statements;
 
@@ -620,17 +614,17 @@ NATIONAL DISABILITY COUNCIL ACT, 2004
 
 (iii) contains a report on any matter relating to persons with disabilities in Namibia.
 
-- The audited financial statements referred to in  subsection  (1)(a)  must contain -
+(2) The audited financial statements referred to in subsection (1)(a) must contain -
 
 (a) detailed particulars of moneys received by the Council and expenditure incurred by the Council during, and assets and liabilities at the end of, the financial year in question; and
 
 (b) such additional particulars as the Minister may determine.
 
-- The Minister must lay the report referred to in subsection (1) upon the Table in  the  National Assembly within 28 days after receipt of the report, if the National Assembly is then in ordinary session or, if the National Assembly is not in ordinary session, within 28 days after the commencement of its next ordinary session.
+(3) The Minister must lay the report referred to in subsection (1) upon the Table in the National Assembly within 28 days after receipt of the report, if the National Assembly is then in ordinary session or, if the National Assembly is not in ordinary session, within 28 days after the commencement of its next ordinary session.
 
 # Offences and penalties
 
-- A person who -
+22. A person who -
 
 (a) in  any  manner  discriminates  against  a  person  who  testifies,  assists,  or participates in a hearing under section 15(1);
 
@@ -642,7 +636,7 @@ commits an offence and is, on conviction, liable to a fine not exceeding N$16 00
 
 # Regulations
 
-- The Minister may, on the recommendation of the Council, make regulations -
+23. The Minister may, on the recommendation of the Council, make regulations -
 
 (a) prescribing the  procedure to  be followed at meetings of the Council;
 
@@ -672,7 +666,7 @@ NATIONAL DISABILITY COUNCIL ACT, 2004
 
 # Short title and commencement
 
-- This Act is called the National Disability Council Act, 2004, and comes into operation on a date to be determined by the Minister by notice in the Gazette .
+24. This Act is called the National Disability Council Act, 2004, and comes into operation on a date to be determined by the Minister by notice in the Gazette.
 
 # SCHEDULE
 ## NATIONAL POLICY ON DISABILITY
@@ -729,7 +723,7 @@ The concept of a society for all, encompassing human diversity and the developme
 
 In a society for all, the needs of all its citizens constitute the basis for planning and policy making.  The general systems and institutions of society should be made accessible to all its citizens.  By accommodating the needs of all its citizens in its structures and functions , a society mobilises all their potential into strengthening its development .
 
-The ultimate goal in development is an inclusive Society For All which recognises and values individual difference s and acknowledges common humanity and equality. The low level of understanding of disability issues,  and  the  exclusion  of  persons  with disabilities from the development process, necessitates the need to develop programmes focusing specifically on disability. These programmes would help to raise awareness, change attitudes, promote equal opportunities, and find creative and practical means of adapting society to meet the needs of all its citizens including those who are disabled. Moreover people with disabilities are a natural and integral part of society and in the interest  of  society  as  a  whole,  should  have  equal  opportunities  to  contribute  their experience, talents and capabilities to national and international development.
+The ultimate goal in development is an inclusive Society For All which recognises and values individual differences and acknowledges common humanity and equality. The low level of understanding of disability issues, and the exclusion of persons with disabilities from the development process, necessitates the need to develop programmes focusing specifically on disability. These programmes would help to raise awareness, change attitudes, promote equal opportunities, and find creative and practical means of adapting society to meet the needs of all its citizens including those who are disabled. Moreover people with disabilities are a natural and integral part of society and in the interest of society as a whole, should have equal opportunities to contribute their experience, talents and capabilities to national and international development.
 
 Nation-building towards a Society For All where all citizens can participate in a single economy can only take place if persons with disabilities are included in the development process.
 
@@ -747,9 +741,11 @@ Government Gazette 28 December 2004
 
 Act No. 26, 2004
 
+NATIONAL DISABILITY COUNCIL ACT, 2004
+
 #### 2.2 The Mission
 
-The mission is to improve the quality of life through enhancing the dignity, wellbeing and empowerment of persons with disabilities . This shall be done by enabling them to achieve the essentials of life that is, equality, full participation, independence and self-determination through ensuring the following prerequisites:  recognition of rights, prevention of causes, rehabilitation, support and universal accessibility.
+The mission is to improve the quality of life through enhancing the dignity, well-being and empowerment of persons with disabilities. This shall be done by enabling them to achieve the essentials of life that is, equality, full participation, independence and self-determination through ensuring the following prerequisites: recognition of rights, prevention of causes, rehabilitation, support and universal accessibility.
 
 #### 2.3 Development Objective
 
@@ -757,23 +753,21 @@ The objective is to achieve a full social integration of disabled people in soci
 
 #### 2.4 General Principles
 
-The Government will give priority to enable disabled people to take charge of their lives by removing barriers to full participation in all areas thus enabling them to reach a quality of life equal to that of their fellow citizens. This will be achieved by the ' equalisation of opportunities' through which the various systems of society and the environment, such as, services, activities, information and documentation are made accessible to all, and in particular to persons with disabilities. Furthermore, there should be direct participation by disabled people in the planning, implementation and evaluation of activities affecting them.
+The Government will give priority to enable disabled people to take charge of their lives by removing barriers to full participation in all areas thus enabling them to reach a quality of life equal to that of their fellow citizens. This will be achieved by the “equalisation of opportunities” through which the various systems of society and the environment, such as, services, activities, information and documentation are made accessible to all, and in particular to persons with disabilities. Furthermore, there should be direct participation by disabled people in the planning, implementation and evaluation of activities affecting them.
 
-To reach a society for all an ongoing and dynamic process of mutual adaptation will be necessary. It involves on the one hand persons with disabilities living according to their own wishes, choice s and abilities and on the other hand, society demonstrating its support by taking specific and appropriate steps to ensure equalisation of opportunities.
+To reach a society for all an ongoing and dynamic process of mutual adaptation will be necessary. It involves on the one hand persons with disabilities living according to their own wishes, choices and abilities and on the other hand, society demonstrating its support by taking specific and appropriate steps to ensure equalisation of opportunities.
 
 Moreover, persons with disabilities do not form a uniform group of people all needing the same assistance. Therefore, definitions and classifications should not have the effect of separating or excluding them from society, but point to their individual needs and to ways in which they can gain access to, for example, services to enable them to fully participate in society.
 
-When implementing the disability policy the Government will follow the basic guiding principle of integration . All services and programmes shall aim at integrating disabled persons into existing social and economic structures rather than segregating them into parallel environments.
+When implementing the disability policy the Government will follow the basic guiding principle of integration. All services and programmes shall aim at integrating disabled persons into existing social and economic structures rather than segregating them into parallel environments.
 
 Therefore, a coherent and comprehensive policy on disability should aim at the following:
 
--to prevent or reduce the occurrence of physical, intellectual , psychical or sensory impairments and permanent functional limitation or disability;
+- to prevent or reduce the occurrence of physical, intellectual, psychical or sensory impairments and permanent functional limitation or disability;
 
--to assist and support persons with disabilities to reach and maintain their optimal human potential;
+- to assist and support persons with disabilities to reach and maintain their optimal human potential;
 
--to make the various systems of society and the environment, such as services, activities, information and documentation available and accessible to all citizens in formats they can understand, for example, Braille for blind people and sign language for deaf people who use this form of communication.
-
-NATIONAL DISABILITY COUNCIL ACT, 2004
+- to make the various systems of society and the environment, such as services, activities, information and documentation available and accessible to all citizens in formats they can understand, for example, Braille for blind people and sign language for deaf people who use this form of communication.
 
 [[END OF PAGE 15]]
 
@@ -897,7 +891,7 @@ The particular needs of elderly people with disabilities shall be taken into acc
 
 #### 3.6 Vocational Guidance and Training
 
-The state shall ensure through the National V ocational Training  Act 1994 that all vocational training programmes and facilities are integrated and made accessible to all persons with disabilities.
+The state shall ensure through the National Vocational Training Act 1994 that all vocational training programmes and facilities are integrated and made accessible to all persons with disabilities.
 
 ##### 3.6.1 Guidance
 
@@ -1039,7 +1033,7 @@ To be able to ensure a successful prevention of disabilities, in depth studies s
 
 The state shall promote the full participation of persons with disabilities in family life. It shall promote their right to personal integrity and ensure that the laws do not discriminate against them with respect to their sexuality, marriage, and parenthood.
 
-Persons with disabilities are particularly vulnerable to abuse and violence within the family, community and in institutions. The state shall ensure that measures will be taken to prevent abuse and violence against them . Adequate counselling and support services shall be provided for those who become victim s of violence or abuse.
+Persons with disabilities are particularly vulnerable to abuse and violence within the family, community and in institutions. The state shall ensure that measures will be taken to prevent abuse and violence against them. Adequate counselling and support services shall be provided for those who become victims of violence or abuse.
 
 #### 3.13 Organisations of and for Persons with Disabilities
 
@@ -1089,7 +1083,7 @@ The Government shall ensure that a sufficient budget is allocated for all disabi
 
 #### 4.3 Policy-Making and Planning
 
-The Government shall ensure that disability aspects are included in all relevant policymaking and national planning activities. The leading principle is that persons with disabilities and their needs shall be incorporated into the general development plans and not be treated separately.
+The Government shall ensure that disability aspects are included in all relevant policy-making and national planning activities. The leading principle is that persons with disabilities and their needs shall be incorporated into the general development plans and not be treated separately.
 
 The various ministries listed below have been assigned designated areas and given the responsibility  of  implementing  this  policy.  However,  all  government  ministries  and agencies should take immediate steps in including disability issues into their overall development plans. The co-ordinating ministry shall ensure that the implementation of such plans is effected.
 
@@ -1141,7 +1135,7 @@ At post basic level the Ministry's intention is 'to strive for a balance between
 
 ##### 4.3.6 Ministry of Youth and Sports (MYS)
 
-In fulfilling the ministry's objectives of providing and facilitating 'the process of youth employment'...'skills training..' and ...'enterprise activities..' the ministry should make Act No. 26, 2004
+In fulfilling the ministry’s objectives of providing and facilitating “the process of youth employment”...”skills training..” and ...”enterprise activities..” the ministry should make
 
 [[END OF PAGE 23]]
 
@@ -1152,6 +1146,8 @@ In fulfilling the ministry's objectives of providing and facilitating 'the proce
 Government Gazette 28 December 2004
 
 No.3360
+
+Act No. 26, 2004
 
 NATIONAL DISABILITY COUNCIL ACT, 2004
 
@@ -1165,15 +1161,15 @@ One of the objectives states that, '..establish a system of Regional Planning Ad
 
 ###### Local Authorities
 
-One of the objectives states that, Ò... develop new, and upgrade existing service extensions in Towns, Villages and Settlement Areas, based on a comprehensive needs survey..' This survey should include the different needs of disabled people and their families.
+One of the objectives states that, “... develop new, and upgrade existing service extensions in Towns, Villages and Settlement Areas, based on a comprehensive needs survey..” This survey should include the different needs of disabled people and their families.
 
 ##### 4.3.8 Ministry of Labour (ML)
 
-Labour and employment sector objectives are multi-faceted.  Two of  the objectives include
+Labour and employment sector objectives are multi-faceted. Two of the objectives include
 
-'.. employment promotion both in formal and informal sectors..'
+a) “.. employment promotion both in formal and informal sectors..”
 
-'..establishment of a comprehensive and up-to-date labour market information system..' Both objectives should include disabled people. Objective (b) should also monitor the number of disabled people in the labour force and the type of occupations they are involved in. As part of the human resources development programmes provision should be made to include sheltered employment for those disabled people who qualify for it.
+b) “..establishment of a comprehensive and up-to-date labour market information system..” Both objectives should include disabled people. Objective (b) should also monitor the number of disabled people in the labour force and the type of occupations they are involved in. As part of the human resources development programmes provision should be made to include sheltered employment for those disabled people who qualify for it.
 
 ##### 4.3.9 Ministry of Works, Transport and Communication (MWTC)
 
@@ -1189,7 +1185,7 @@ This ministry's main objective is '.. to maintain a vigorous mass media system w
 
 ##### 4.3.11  Ministry of Justice (MJ)
 
-The development objective of this ministry is 'to ensure the existence of legal justice throughout  the  country  and  which  would  benefit  all  Namibians..'  Therefore  in implementing this policy, the ministry has a vital role of ensuring that disabled people are given advise about the Namibian legal system generally and information on how to seek and qualify for legal aid. This information should also be readily available to people Act No. 26, 2004
+The development objective of this ministry is “to ensure the existence of legal justice throughout the country and which would benefit all Namibians..” Therefore in implementing this policy, the ministry has a vital role of ensuring that disabled people are given advise about the Namibian legal system generally and information on how to seek and qualify for legal aid. This information should also be readily available to people
 
 [[END OF PAGE 24]]
 
@@ -1200,6 +1196,8 @@ No.3360
 Government Gazette 28 December 2004
 
 25
+
+Act No. 26, 2004
 
 NATIONAL DISABILITY COUNCIL ACT, 2004
 
@@ -1219,7 +1217,7 @@ The Government shall strengthen the co-ordination, co-operation and communicatio
 
 The Government acknowledges the advisory role of the representatives of organisations of and for people with disabilities as invaluable in the planning, implementation and evaluation of services; and in the programmes and strategies relevant to the needs and lives of disabled people.
 
-The Government shall ensure that different national policies related to disability are taken cognisance of by the responsible ministries and that their implementation is coordinated.
+The Government shall ensure that different national policies related to disability are taken cognisance of by the responsible ministries and that their implementation is co-ordinated.
 
 #### 4.5 Community-Based Rehabilitation
 
