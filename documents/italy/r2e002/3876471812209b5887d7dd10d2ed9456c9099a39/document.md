@@ -20,31 +20,39 @@ Direzione Generale per lo Studente, l'Integrazione, la Partecipazione e la Comun
 
 ## SOMMARIO
 
-4
+1. Introduzione 4
+Finalità 4
+Obiettivi generali 5
+Prodotto finale 5
+Destinatari 5
+Enti attuatori e strumentali 5
+Tempi 6
+Gestione del Progetto 6
 
-4
+2. Scenario 7
+Il modello inclusivo e nuovi strumenti di interpretazione 7
+ICF e centralità del contesto 8
+Struttura dell'ICF 9
+L'ICF e la scuola 10
 
-5
+3. Struttura del progetto 11
 
-5
+4. Analisi esperienze pregresse e criteri per la sperimentazione 12
+Costituzione del Gruppo Tecnico Nazionale 12
+Analisi delle esperienze pregresse 12
+Finalità della sperimentazione 13
+Definizione requisiti per la sperimentazione 13
+Definizione criteri e modalità 13
 
-5
+5. Selezione delle scuole per la sperimentazione 14
+Il bando di partecipazione 14
+La scheda di partecipazione 14
+Il progetto 15
+La rete 15
+Modalità di finanziamento 15
 
-5
-
-6
-
-6
-
-7
-
-7
-
-8
-
-9
-
-17
+6. Documenti conclusivi 17
+Raccolta delle documentazioni finali 17
 
 2
 
@@ -55,6 +63,13 @@ Direzione Generale per lo Studente, l'Integrazione, la Partecipazione e la Comun
 Ministero dell'Istruzione, dell'Università e della Ricerca Dipartimento per l'Istruzione
 
 Direzione Generale per lo Studente, l'Integrazione, la Partecipazione e la Comunicazione
+
+Documento conclusivo 17
+Stesura di Linee guida 18
+
+7. Monitoraggio 19
+
+8. Diagramma di GANNT 20
 
 3
 
@@ -130,7 +145,7 @@ La realizzazione del progetto inizierà nel gennaio del 2011 e terminerà con la
 
 ### Gestione del progetto
 
-Un Gruppo Tecnico Nazionale verrà costituito, presso la Direzione per lo Studente,  l'Integrazione,  la  Partecipazione  e  la  Comunicazione,  con  il compito di specificare, nel rispetto di quanto previsto da questo documento, le modalità di sperimentazione nelle singole scuole, nonché le modalità per il controllo e la validazione della stessa. Il Gruppo in questione si occuperà, inoltre, di selezionare  le  istituzioni  scolastiche  che  parteciperanno,  a seguito di bando, alla sperimentazione, nonché di r edigere la documentazione finale prevista.
+Un Gruppo Tecnico Nazionale verrà costituito, presso la Direzione per lo Studente, l'Integrazione, la Partecipazione e la Comunicazione, con il compito di specificare, nel rispetto di quanto previsto da questo documento, le modalità di sperimentazione nelle singole scuole, nonché le modalità per il controllo e la validazione della stessa. Il Gruppo in questione si occuperà, inoltre, di selezionare le istituzioni scolastiche che parteciperanno, a seguito di bando, alla sperimentazione, nonché di redigere la documentazione finale prevista.
 
 6
 
@@ -144,7 +159,7 @@ Direzione Generale per lo Studente, l'Integrazione, la Partecipazione e la Comun
 
 ## 2. SCENARIO
 
-Il  capitolo  considera  l'ICF  un  modello  culturale  concettuale  utile  a migliorare il processo di integrazione e a migliorare la qualità dell'integrazione medesima. Il capitolo è costituit o dei seguenti temi:
+Il capitolo considera l'ICF un modello culturale concettuale utile a migliorare il processo di integrazione e a migliorare la qualità dell'integrazione medesima. Il capitolo è costituito dei seguenti temi:
 
 - Modello inclusivo e nuovi strumenti di interpretazione
 
@@ -176,9 +191,9 @@ Il Progetto è pertanto orientato a utilizzare l'ICF  come strumento culturale e
 
 Siamo ormai consapevoli dell'incidenza del contesto nella costruzione dei livelli di partecipazione sociale. Ad un bambino con disabilità, infatti, nel  momento  della  certificazione  viene  conclamata  una  discrepanza  di funzionamento rispetto ad una norma; soggettivamente, però, il percorso di vita successivo è fondamentalmente condizionato dal  contesto che incontra vivendo.  In  questo  senso,  l'attenzione  del  modello  ICF  verso  il  contesto assume una particolare rilevanza.
 
-Messo a punto dall'Organizzazione Mondiale della Sanità nel  2001, l'ICF  ( International  Classificaion  of  Functioning,  Health  and  Desease ) concretizza  infatti  un  nuovo  approccio  alla  disabilità,  molto  significativo anche  per  l'integrazione  scolastica.  Dissociando  lo  stretto  legame  fra menomazione  e  funzionamento,  l'ICF  fa  rientrare  nell'analisi  anche  i contesti,  che  nel  livello  del  funzionamento  e  della  partecipazione  sono positivamente  o  negativamente  determinanti.  La  cifra  caratterizzante  il modello ICF è il riferimento alla realtà concreta i n cui è inserita la persona con disabilità, realtà interpretata come attività e  partecipazione sociale.
+Messo a punto dall'Organizzazione Mondiale della Sanità nel 2001, l'ICF (International Classificaion of Functioning, Health and Desease) concretizza infatti un nuovo approccio alla disabilità, molto significativo anche per l'integrazione scolastica. Dissociando lo stretto legame fra menomazione e funzionamento, l'ICF fa rientrare nell'analisi anche i contesti, che nel livello del funzionamento e della partecipazione sono positivamente o negativamente determinanti. La cifra caratterizzante il modello ICF è il riferimento alla realtà concreta in cui è inserita la persona con disabilità, realtà interpretata come attività e partecipazione sociale.
 
-L'ICF, per le sue caratteristiche, si presenta dunque come un modello capace  di  dare  risposte  più  precise  e  coerenti  ai  bisogni  delle  persone, esprimendo in primo luogo un modo diverso di concepire l'essere umano in difficoltà.  La  disabilità  è una condizione determin ata da molteplici fattori che  coinvolgono  non  soltanto  il  soggetto  con  disabilità,  ma  anche  il contesto  in  cui  esso  vive.  La  formalizzazione  di  tale  dimensione  poteva essere codificata solamente attraverso nuovi linguaggi e una nuova impostazione  concettuale  che  hanno  trovato  compiutezza  nel  documento dell'OMS.
+L'ICF, per le sue caratteristiche, si presenta dunque come un modello capace di dare risposte più precise e coerenti ai bisogni delle persone, esprimendo in primo luogo un modo diverso di concepire l'essere umano in difficoltà. La disabilità è una condizione determinata da molteplici fattori che coinvolgono non soltanto il soggetto con disabilità, ma anche il contesto in cui esso vive. La formalizzazione di tale dimensione poteva essere codificata solamente attraverso nuovi linguaggi e una nuova impostazione concettuale che hanno trovato compiutezza nel documento dell'OMS.
 
 Il  portato  innovativo  dell'ICF  risiede  nell'approccio  globale  alla persona. La valutazione della funzionalità di una persona con disabilità non può quindi essere limitata agli aspetti funzionali, ma dovrà tener presente
 
@@ -196,9 +211,9 @@ anche degli aspetti contestuali, determinanti in merito ai livelli di partecipaz
 
 ### Struttura dell'ICF
 
-L'elemento  discriminatore  nella  valutazione  del  funzionamento  è l'attività, che nasce dall'interazione fra le funzioni e le strutture corporee e consiste  nella  capacità  di  eseguire  compiti  o  azioni  (performance).  Tale capacità  determina  il  livello  di  partecipazione  e  di  coinvolgimento  del soggetto alla vita sociale. L'attività non è determ inata esclusivamente dalle funzioni  e  strutture  corporee,  ma  anche  dall'interazione  di  queste  con fattori ambientali (fisici, sociali e culturali) e con fattori personali (portati psicologici) che mediano fra il soggetto con le sue capacità funzionali e il contesto in cui avviene la partecipazione.
+L'elemento discriminatore nella valutazione del funzionamento è l'attività, che nasce dall'interazione fra le funzioni e le strutture corporee e consiste nella capacità di eseguire compiti o azioni (performance). Tale capacità determina il livello di partecipazione e di coinvolgimento del soggetto alla vita sociale. L'attività non è determinata esclusivamente dalle funzioni e strutture corporee, ma anche dall'interazione di queste con fattori ambientali (fisici, sociali e culturali) e con fattori personali (portati psicologici) che mediano fra il soggetto con le sue capacità funzionali e il contesto in cui avviene la partecipazione.
 
-La  centralità  dell'ICF  assegnata  ai  fattori  ambientali  e  ai  fattori personali ha determinato la necessità di distinguere fra capacità e performance. La capacità è la possibilità del sogge tto di svolgere determinati  compiti  in  un  ambiente  neutro,  mentre  la  performance  è  la capacità del soggetto di svolgere quei compiti in un contesto concreto che lo può aiutare (mediante facilitatori) o ostacolare (opponendo barriere). In altre  parole,  la  capacità,  inserendosi  in  un  contesto  specifico,  diviene performance, una performance che può essere costituita da un comportamento maggiormente funzionale, se sostenuta da facilitatori, o in un comportamento meno funzionale, se ostacolato da barriere.
+La centralità dell'ICF assegnata ai fattori ambientali e ai fattori personali ha determinato la necessità di distinguere fra capacità e performance. La capacità è la possibilità del soggetto di svolgere determinati compiti in un ambiente neutro, mentre la performance è la capacità del soggetto di svolgere quei compiti in un contesto concreto che lo può aiutare (mediante facilitatori) o ostacolare (opponendo barriere). In altre parole, la capacità, inserendosi in un contesto specifico, diviene performance, una performance che può essere costituita da un comportamento maggiormente funzionale, se sostenuta da facilitatori, o in un comportamento meno funzionale, se ostacolato da barriere.
 
 I  concetti  di  facilitatori  e  di  barriere  costituiscono  un  importante momento descrittivo della relazione fra persona con disabilità e ambiente, e nella fattispecie fra alunno con disabilità e scuola.
 
@@ -268,13 +283,13 @@ Questo capitolo presenta la prima fase del progetto. E' costituito dai seguenti 
 
 ### Costituzione del Gruppo Tecnico Nazionale
 
-Presso  la  Direzione  Generale  per  lo  Studente,  l'Integrazione,  la Partecipazione  e  la  Comunicazione  del  MIUR  è  costit uito  un  Gruppo Tecnico Nazionale con compiti di indirizzo e di valutazione relativamente allo svolgimento della sperimentazione.
+Presso la Direzione Generale per lo Studente, l'Integrazione, la Partecipazione e la Comunicazione del MIUR è costituito un Gruppo Tecnico Nazionale con compiti di indirizzo e di valutazione relativamente allo svolgimento della sperimentazione.
 
 ### Analisi delle esperienze pregresse
 
 L'impiego del modello ICF per l'integrazione scolastica è stato a vario titolo e in altre occasioni affrontato. Alcune  regioni hanno  avviato importanti sperimentazioni in questo senso supportate da una  legge regionale. Il  Piano  di  formazione  I  CARE ha finanziato vari progetti che mirano ad una applicazione del modello ICF nella scuola.
 
-La raccolta di tali esperienze è una premessa irrin unciabile al progetto in questione, in quanto consente di individuare preziosi contributi in questo ambito.
+La raccolta di tali esperienze è una premessa irrinunciabile al progetto in questione, in quanto consente di individuare preziosi contributi in questo ambito.
 
 12
 
@@ -296,11 +311,11 @@ La finalità della sperimentazione consiste nell'elaborare una documentazione  f
 
 Al fine di rendere quanto più possibile significativi i dati sperimentali, sulla base delle finalità generali del Progetto, Il Gruppo tecnico definirà i requisiti  in  questione.  Si  indicano  alcuni  criteri  che  potranno  orientare  il Gruppo Tecnico Nazionale nella scelta delle scuole per la sperimentazione:
 
-- una  diversificata collocazione territoriale delle  scuole coinvolte (anche nell'ambito della stessa regione)
-
-- Pregresse attività svolte in questo ambito, attraverso la partecipazione,  per  esempio,  al  Piano  nazionale  di  formazione  I CARE
+- una diversificata collocazione territoriale delle scuole coinvolte (anche nell'ambito della stessa regione)
 
 - una diversificata appartenenza agli ordini e ai gradi di scuola
+
+- Pregresse attività svolte in questo ambito, attraverso la partecipazione, per esempio, al Piano nazionale di formazione I CARE
 
 - Specifiche caratteristiche ambientali ai fini della validità ed esaustività della sperimentazione
 
@@ -452,7 +467,7 @@ Direzione Generale per lo Studente, l'Integrazione, la Partecipazione e la Comun
 
 ## 7. MONITORAGGIO
 
-Il  monitoraggio  del  Progetto  è  predisposto  nel  dett aglio  dal  Gruppo tecnico nazionale e mira a verificare la validità del percorso sperimentale svolto dalle scuole.
+Il monitoraggio del Progetto è predisposto nel dettaglio dal Gruppo tecnico nazionale e mira a verificare la validità del percorso sperimentale svolto dalle scuole.
 
 Fermo  restando  la  possibilità  di  verifiche  e  controlli  a  seguito  di particolari  situazioni  verificatesi  nell'iter  della  sperimentazione,  l'analisi dell'avanzamento dei progetti delle singole scuole, avverrà in due fasi: a sei mesi dall'inizio della sperimentazione e a conclusione della stessa.
 
@@ -468,7 +483,7 @@ Direzione Generale per lo Studente, l'Integrazione, la Partecipazione e la Comun
 
 ## 8. DIAGRAMMA DI GANNT
 
-Qui di seguito è presentato il diagramma di GANNT c he specifica le fasi di realizzazione del progetto.
+Qui di seguito è presentato il diagramma di GANNT che specifica le fasi di realizzazione del progetto.
 
 Nov- Dic. 2010 | Invito alle scuole per la sperimentazione
 --- | ---
@@ -489,7 +504,7 @@ Ministero dell'Istruzione, dell'Università e della Ricerca Dipartimento per l'I
 
 Direzione Generale per lo Studente, l'Integrazione, la Partecipazione e la Comunicazione
 
-Il presente Progetto è stato realizzato dalla Direz ione Generale per lo Studente,  l'Integrazione,  la  Partecipazione  e  la  Comunicazione,  con  la partecipazione di Pasquale Pardi e Giovanni Simoneschi.
+Il presente Progetto è stato realizzato dalla Direzione Generale per lo Studente, l'Integrazione, la Partecipazione e la Comunicazione, con la partecipazione di Pasquale Pardi e Giovanni Simoneschi.
 
 Roma, 2 settembre 2010
 
