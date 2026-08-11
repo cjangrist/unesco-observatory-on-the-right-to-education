@@ -36,6 +36,45 @@ National Strategy for Education Development of the Republic of Tajikistan
 
 # Content
 
+Preface ...........................................................................................................................2
+Acronyms.......................................................................................................................4
+Brief information on Tajikistan ..................................................................................5
+Brief overview of the education sector ……………………………………………....6-7
+Part - I. Analysis and development trends of the education system
+1.1. Situation in the country ..........................................................................................8-10
+1.2 Problem analysis......................................................................................................10
+1.2.1. Management of the education system .............................................10-11
+1.2.2. Access and equality in the education system ……………………….11
+1.2.3. Quality and relevance of education …………………………………13
+1.2.4. Situation with human resources ...................................................... 15
+1.2.5. Situation with financial resources…………………………….......16
+1.3. Actions taken for change /reforms of the education system ………....................…18
+1.3.1. Legislative reforms ............................................................................. 18
+1.3.2. Policy reforms..................................................................................... 18
+1.3.3 Restructuring of the management system ............................................ 18
+1.3.4. Introduction of the national plans, special projects and
+program.....……………………………………………………………….…19
+1.3.5. Initiatives for Financial Reforming………………………………18-19
+1.3.6. Resource mobilization ....................................................................….19
+Part -II. Strategic Plan for Education System Development (2006-2015) ……..1-17
+Part-III. Mid-Term Plan of Action for Education System Development
+(2006-2010)…………………………………………………………………………………..1-34
+Part -IV. Financial Resource Framework…………………………………………1-9
+Annexes
+Annex №1 Brief statistical data on the education system.
+Annex №2 Number of students in full time general schools (academic years 2004-2005).
+Annex №3 Forecast for number of school age population
+Annex №4 Consolidated public budget expenditures for education and professional training.
+Annex № 5. Number of female students in higher education institutions
+Annex № 6 Number of students in the higher education institutions in CIS countries and some countries in the world.
+Annex №7. Number of teachers in general secondary schools.
+Annex 8. Education Sector Financial Resources 2000-2005.
+Annex №9. Per Capita Allocation (Recurrent) by Category
+Annex №10. Education Sector Spending by Category
+Annex №11. List of main Laws and Resolutions of the Government of the Republic of Tajikistan (1993-2005)
+Annex №12. The List of main Concepts, Program, Action Plans in education system.
+Annex №13. Education Category as % of GDP.
+
 3
 
 [[END OF PAGE 3]]
@@ -52,6 +91,33 @@ Annex № 14. Additions and amendments to the legislation of the Republic of Taj
 
 # ACRONYMS
 
+ADB – Asian Development Bank.
+EFA – Education For All
+GBAO- Gorno-Badakhshan Autonomous Oblast
+GDP – Gross Domestic Product
+GTZ – German Technical Cooperation
+ICT– Information and communication technologies
+IOM – International Organization for Migration
+MDG – Millennium Development Goals
+MO – Ministry of Education
+NGO – Non-governmental organizations
+OECD – Organization for Economic Cooperation and Development
+PPE - Primary Professional Education
+PPEE – Primary Professional Education Establihsments
+PRSP– Poverty Reduction Strategy Paper
+UN – United Nations
+RRS- Regions of Republican Subordination
+RT – Republic of Tajikistan
+SPE – Secondary Professional Education
+SPEE – Secondary Professional Education Establishments
+WB – World Bank
+SST– Standard State Test
+TJS- Tajik somoni (national currency)
+TLSS – Tajikistan Living Standard Survey
+UNICEF –United Nations Child Emergency Fund
+USAID – United States Agency for International Development
+WB - World Bank
+
 5
 
 [[END OF PAGE 5]]
@@ -60,7 +126,35 @@ Annex № 14. Additions and amendments to the legislation of the Republic of Taj
 
 # Brief information on Tajikistan
 
-Territory of Tajikistan 143,1 thousand km 2 Population (2003) 6640 thousand people Urban 1757, 8 thousand people Rural  -                                                              4882, 2 thousand people Ethnic composition: Tajiks 80% Uzbeks 15,3% Russians 1.1% Other nationalities 3.6 % Capital Dushanbe Independence Day 9 September 1991 Administrative division GBAO, Sughd and Khatlon Oblasts, Dushanbe,  RRS Average population density -                            46.4 people per 1 km 2 Life expectancy68.4 years Growth of population per 1000 (2003) 22.0 Access to safe water 51.2% GDP Per capita (2003) 724  TJS GDP growth rate (%) to 2002 10.2 Poor population (2004) 63.7 % Average salary 44.61 TJS Average salary in the education system (2003) -                            33.21 TJS Public budget expenditures for education (2003) -                                        16.2% Children (under 18 years) 2.8 million Number of students 1 - 11 grades (2004) -                                        1660 thousand of which girls   -                                                46.4 % Increase of number of students 1-11 grades (2003-2004) 1.4% Primary school students Reaching grade 5  -                                           94% Number of teachers (grade 1-11) 2003 - 2004 -                              103, 174 Ratio of women teachers-                                48.6 %
+Territory of Tajikistan 143,1 thousand km2
+Population (2003) 6640 thousand people
+Urban – 1757, 8 thousand people
+Rural – 4882, 2 thousand people
+Ethnic composition:
+Tajiks 80%
+Uzbeks 15,3%
+Russians 1.1%
+Other nationalities 3.6 %
+Capital Dushanbe
+Independence Day – 9 September 1991
+Administrative division – GBAO, Sughd and Khatlon Oblasts, Dushanbe, RRS
+Average population density – 46.4 people per 1 km2
+Life expectancy- 68.4 years
+Growth of population per 1000 (2003) – 22.0
+Access to safe water – 51.2%
+GDP Per capita (2003) – 724 TJS
+GDP growth rate (%) to 2002 – 10.2
+Poor population (2004) – 63.7 %
+Average salary – 44.61 TJS
+Average salary in the education system (2003) – 33.21 TJS
+Public budget expenditures for education (2003) – 16.2%
+Children (under 18 years) – 2.8 million
+Number of students 1 – 11 grades (2004) – 1660 thousand
+of which girls – 46.4 %
+Increase of number of students 1-11 grades (2003-2004) – 1.4%
+Primary school students Reaching grade 5 – 94%
+Number of teachers (grade 1-11) 2003 – 2004 - 103, 174
+Ratio of women teachers- 48.6 %
 
 6
 
@@ -92,11 +186,11 @@ Pre-school training and education General education: • primary • general bas
 
 ## Relevant Legislation in the field of education
 
-- Law of the Republic of Tajikistan 'On education'  (adopted on  27 December  1993, partially amended in 1994, 1995, 1996, 1997, 2003,) currently effective version was adopted on 17 May 2004.
+1. Law of the Republic of Tajikistan “On education” (adopted on 27 December 1993, partially amended in 1994, 1995, 1996, 1997, 2003,) currently effective version was adopted on 17 May 2004.
 
-- Law of the Republic of Tajikistan 'On Primary vocational education' (2003).
+2. Law of the Republic of Tajikistan “On Primary vocational education” (2003).
 
-- Law of the Republic of Tajikistan 'On Higher and Postgraduate professional education' (June 2003).
+3. Law of the Republic of Tajikistan “On Higher and Postgraduate professional education” (June 2003).
 
 7
 
@@ -106,29 +200,30 @@ Pre-school training and education General education: • primary • general bas
 
 # Comparative background of education in the Region
 
-- The number of students in the CIS countries in the 2004-05 academic years has reduced by 2-7 %. In Tajikistan it has grown by 13 thousands students , or by 1%. 1 (See Annex # 3)
+1. The number of students in the CIS countries in the 2004-05 academic years has reduced by 2-7 %. In Tajikistan it has grown by 13 thousands students, or by 1%. 1 (See Annex # 3)
 
-- The number of students in grades 10-11 (12) has decreased in Russia almost by 190,000, in Kazakhstan - by 33, 000, Kyrgyzstan - almost by 9,000, in Azerbaidjan - by 7.000, in Moldova - by 2, 500. In Tajikistan the growth of the number of high school graduates made 14,000, or 10 %, in Belorussia and Georgia -3,000 and 4, 000 respectively (4%). 2
+2. The number of students in grades 10-11 (12) has decreased in Russia almost by 190,000, in Kazakhstan – by 33, 000, Kyrgyzstan - almost by 9,000, in Azerbaidjan – by 7.000, in Moldova – by 2, 500. In Tajikistan the growth of the number of high school graduates made 14,000, or 10 %, in Belorussia and Georgia –3,000 and 4, 000 respectively (4%). 2
 
-- The share of full time general school students, studying in the second and third shifts, remains high. Thus, in Kazakhstan, Kyrgyzstan and Tajikistan it composed 36%-43% of the total number of students. 3
+3. The share of full time general school students, studying in the second and third shifts, remains high. Thus, in Kazakhstan, Kyrgyzstan and Tajikistan it composed 36%-43% of the total number of students. 3
 
-- The share  of teachers with  higher education in Azerbaijan, Armenia, Belorussia, Moldova, Russia, and the Ukraine made 80-87% of the total number of teachers, with 71-75% in Georgia, Kazakhstan, Kyrgyzstan and 59% in Tajikistan . 4
+4. The share of teachers with higher education in Azerbaijan, Armenia, Belorussia, Moldova, Russia, and the Ukraine made 80-87% of the total number of teachers, with 71-75% in Georgia, Kazakhstan, Kyrgyzstan and 59% in Tajikistan. 4
 
 > 1 Education in CIS countries, June 2005, CIS Statistical Committee, p.2
 
 > 2 Op.cit, p.3
 
-3
+> 3 Education in CIS countries, June 2005, CIS Statistical Committee, p.6
 
-4
-
-> Education in CIS countries, June 2005, CIS Statistical Committee, p.6 Op.cit, p.8.
+> 4 Op.cit, p.8.
 
 8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+National Strategy for Education Development
+Republic of Tajikistan
 
 # PART  -I.
 
@@ -146,10 +241,6 @@ There are a number of factors in the Republic that   negatively affects educatio
 
 > 5 State Statistical Committee, RT  б .2001, p.65-66
 
-National Strategy for Education Development
-
-Republic of Tajikistan
-
 9
 
 [[END OF PAGE 9]]
@@ -160,19 +251,11 @@ the  educational demands of increasing young population of the country have to b
 
 such  as  preserving  the  ethnic  and  cultural  identity  of  the  population,  promoting  a
 
-6
+> 6 Labour migration from Tajikistan, July, 2003. IOM in cooperation with the Research Centre «Shark», p.30
 
-Labour migration from Tajikistan, July, 2003. IOM in cooperation with the Research Centre «Shark»,
+> 7 Op. cit., p. 101
 
-p.30
-
-7
-
-Op. cit., p. 101
-
-8
-
-Op.cit, p.108
+> 8 Op.cit, p.108
 
 10
 
@@ -184,21 +267,21 @@ democratic society, developing human resources to cope with a competitive market
 
 The  report  on  the  assessment  of  MDG  in  Tajikistan  identifies  accomplishment  of  the following objectives in the sphere of general secondary education:
 
-- rehabilitation of school infrastructure, including access to clean drinking water, central heating and separate restrooms for boys and girls:
+1) rehabilitation of school infrastructure, including access to clean drinking water, central heating and separate restrooms for boys and girls:
 
-- provision of school students with textbooks;
+2) provision of school students with textbooks;
 
-- provision  of  students  as  well  as  children  from  needy  families  with  meals  at school;
+3) provision of students as well as children from needy families with meals at school;
 
-- construction of new schools all over the country;
+4) construction of new schools all over the country;
 
-- training and re-training of secondary school teachers;
+5) training and re-training of secondary school teachers;
 
-- measures for elaboration and development of syllabus and curricula;
+6) measures for elaboration and development of syllabus and curricula;
 
-- 7)increase of teachers salaries;
+7)increase of teachers salaries;
 
-- 8)introduction of normative (per capita) funding of schools. 9
+8)introduction of normative (per capita) funding of schools. 9
 
 The Government of Tajikistan and the UN Country Group on the assessment of MDG needs have approved the following criteria for achieving universal secondary education and  economic  growth  of  the  country  till  2015.  An  annual  minimum  GDP  growth  of minimum 5% per annum by 2015. Under the scenario of average growth rate at the level of  5% per annum , actual per capita GDP by 2015 will be $361. In order to speed up poverty  reduction,  rates  for  economic  growth  of  the  country  must  be  higher.  Under  a scenario of high growth rates with an average annual GDP growth at the level of 7%, real GDP per capita by 2015 will reach $442. 10 It is noted in the MDG report that Tajikistan needs to considerably increase expenditures for education in the future also. The MDG needs      document  gives  four  alternative  scenarios  for  achieving  the  MDG  in  general secondary education. . 11
 
@@ -318,7 +401,7 @@ Unfortunately, there is a lack of comprehensive data on the exact situation of t
 
 [[START OF PAGE 17]]
 
-Analysis  of  state  statistics  shows  that  in  the  academic  year  of  2003-2004,  in  general education  schools  103,174  teachers  worked,  63,963  (61,9%)  of  them  had    higher education, 4,801 (4.6%) worked with incomplete higher education, 22,897 (22.1%) had secondary special  and 9,843 (9.5%) had general secondary education. (See Annex 7) In general,  over  30%  of  teachers  in  primary  schools  had  either  only  secondary  special  or general secondary education. 18 . In the system of general secondary education (grades 111), according to data of ME, there is a shortfall of 10,700 teachers as per 1.5 average teaching load, arrived at through the new regulation. 19
+Analysis of state statistics shows that in the academic year of 2003-2004, in general education schools 103,174 teachers worked, 63,963 (61,9%) of them had higher education, 4,801 (4.6%) worked with incomplete higher education, 22,897 (22.1%) had secondary special and 9,843 (9.5%) had general secondary education. (See Annex 7) In general, over 30% of teachers in primary schools had either only secondary special or general secondary education. 18 . In the system of general secondary education (grades 1-11), according to data of ME, there is a shortfall of 10,700 teachers as per 1.5 average teaching load, arrived at through the new regulation. 19
 
 In addition to the above quantitative dimensions of the problem of human resources, there are also several issues related to the capacity of the personnel currently employed by the education  system.  The  managerial  capacity  to  efficiently  manage  the  entire  education system  is  still  limited  within  the  MOE.  School  directors  or  principals  is  another  level where the capacity needs to be enhanced, if schools are to be seen as independent and autonomous institutions. There is no tradition of community and parental participation in school  education  and  both  awareness  and  capacity  of  schools  and  parents  to  work  in partnership with schools through parent-teacher associations need to be promoted. There are  also  a  number  of      other  problems  regarding  human  resource  deployment,  such  as constant  rotation  of  managerial  personnel,  skewed  regional  distribution  of  qualified education personnel, lack of quality in-service training of teachers etc.
 
@@ -370,7 +453,7 @@ During the last five years (2000 up to 2005) several incremental efforts have be
 
 Based on the above mentioned Laws and Regulations of the Republic of Tajikistan, the public policy for overall education system has been  defined.  Several important strategy and policy  documents such as the National Report on EFA-Assessment 2000, Poverty Reduction  Strategy  Paper  (2002);  the  Government  approved  'National  Concept  for Education in the Republic of Tajikistan' (2002) have been prepared and approved by the government . In 2004 a new Law of RT 'On education' was adopted. In 2005 the MDG Needs Assessment Report was prepared for various sectors, including education. In 2004 the Government of RT also adopted a Plan for the implementation of education system reforming for 2004-2009, under which concrete actions were planned to be undertaken for improving of education system.
 
-#### 1 . 3.3. Restructuring of the Education System.
+#### 1.3.3. Restructuring of the Education System.
 
 A certain amount of re-structuring of the Ministry of Education has also been initiated over the last five years. Under the Strategy of Public Sector Reforms, the Government envisages reorganization of key ministries, including the Ministry of Education, and at the  first  stage  of  institutional  reforms  certain  changes  have  been  made  with  regard  to functions and   activities being undertaken by the Ministry of Education.
 
@@ -866,7 +949,6 @@ To ensure Quality of the educational services delivered at all levels in accorda
 
 - Establish special grants for support of the gifted youth
 
-Strategies for Objective 3.4
 ##### Objective 3.4 Monitoring and Evaluation of educational quality and learning achievements
 
 - Draft  regulatory  document  on  identifying  criteria  of  quality  and  evaluation  of  learning achievements at all levels of education.
@@ -959,7 +1041,7 @@ Create conditions for ensuring equal access to education in rural areas
 
 ###### Strategies for objective 4.5
 
-- Develop  indicators  for qualitative and  quantitative evaluation of equal access to education  and  the  efficient  and  effective  use  of  financial  and  other  resources.  Tie education  category  objectives  to  costs  and  identify  indicators  to  measure  performance and results to insure resources are effectively targeted and managers/teachers are resultsoriented.
+- Develop indicators for qualitative and quantitative evaluation of equal access to education and the efficient and effective use of financial and other resources. Tie education category objectives to costs and identify indicators to measure performance and results to insure resources are effectively targeted and managers/teachers are results-oriented.
 
 - Develop  system  of  monitoring  of  access  to  education  and  approach  to  disseminating information to system participants, parents and communities.
 
@@ -1037,18 +1119,18 @@ To improve the physical infrastructure and material and technical basis of educa
 
 ### Brief statistic data on Education System
 
-Academic years 1991/92 | 2003/04
+ | Academic years 1991/92 | | | | 2003/04 | | |
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Levels | Amount of establishments | Pupils/ students (thous.) | Teachers | Teacher: student | Amount of establishments | Pupils/ students (thous.) | Teachers | Teacher: student
 Preschool | 822 | 145,1 | 10687 | 1:13,5 | 424 | 56,4 | 3751 | 1:15
 General (grades 1-11) | 3179 | 1310,2 | 9500 | 1:13,8 | 3745 | 1659,9 | 103174 | 1:16
-including primary (grades 1-4) | 614 | 24,2 | - | 667 | 32,2 | -
-general (basic) ( grades 1-9) | 634 | 99,5 | - | 841 | 179,3 | -
-Gymnasiums, lyceums (private) | - | - | 120 | 47,3 | -
-initial vocational | 81 | 41,8 | 72 | 25,0 | 3120 | 1:8
+including primary (grades 1-4) | 614 | 24,2 | – | | 667 | 32,2 | – |
+general (basic) ( grades 1-9) | 634 | 99,5 | – | | 841 | 179,3 | – |
+Gymnasiums, lyceums (private) | | – | – | | 120 | 47,3 | – |
+initial vocational | 81 | 41,8 | | | 72 | 25,0 | 3120 | 1:8
 secondary special | 43 | 40,7 | 3956 | 1:10,3 | 50 | 29,2 | 2660 | 1:10,9
 Higher | 13 | 69,3 | 5400 | 1:12,8 | 38 | 108,0 | 6056 | 1:17,8
-Total: | 4138 | 1607,1 | 4329 | 1878,5
+Total: | 4138 | 1607,1 | | | 4329 | 1878,5 | |
 
 ## Annex #2  Forecast for number of school age population
 
@@ -1063,9 +1145,9 @@ Source: Population of the Republic of Tajikistan, WB document.
 
 ### Number of general secondary schools and their students  (academic years 2005-2006)
 
-Number of school (thous) | Students who study in the schools
+ | Number of school (thous) | Students who study in the schools | |
 --- | --- | --- | --- | ---
-Total | First grade (including preschool groups) | 10-11 (12) Grades
+ | | Total | First grade (including preschool groups) | 10-11 (12) Grades
 Azerbaijan | 4,5 | 1632 | 134 | 251
 Armenia | 1,5 | 496 | 42 | 48
 Byelorussia | 4,2 | 1284 | 88 | 96
@@ -1082,9 +1164,13 @@ CIS Statistical Committee
 
 [[START OF PAGE 42]]
 
+## Annex #4
+
 ### Expenditures of a consolidated budget for education and vocational training
 
-1995 | 2000 | 2002 | 2003 | 2004
+(Percentage to GDP)
+
+ | 1995 | 2000 | 2002 | 2003 | 2004
 --- | --- | --- | --- | --- | ---
 Azerbaijan | 3,5 | 3,9 | 3,2 | 3,3 | 3,5
 Armenia | 2,6 | 2,6 | 1,9 | 1,7 | 2,3 1)
@@ -1097,13 +1183,15 @@ Russia | 4,0 | 2,9 | 3,8 | 3,6 | 3,5
 Tajikistan | 2,2 | 2,3 | 2,6 | 2,4 | 2,7
 Ukraine | 5,8 | 4,2 | 5,4 | 5,6 | 5,3
 
-## Annex #4 (Percentage to GDP)
+## Annex #5
 
 ### Number of females students in higher education institutions
 
-Number of females students in higher education institutions (thous.) | Share of females out of total number of students, %
+(as of beginning of the academic year)
+
+ | Number of females students in higher education institutions (thous.) | | | Share of females out of total number of students, % | |
 --- | --- | --- | --- | --- | --- | ---
-2000/01 | 2003/04 | 2004/05 | 2000/01 | 2003/04 | 2004/05
+ | 2000/01 | 2003/04 | 2004/05 | 2000/01 | 2003/04 | 2004/05
 Azerbaijan | 49,9 | 56,1 | 59,8 | 42 | 46 | 47
 Armenia | 33,3 | 43,5 | 46,5 | 55 | 56 | 55
 Byelorussia | 159,0 | 195,4 | 209,8 | 56 | 58 | 58
@@ -1115,9 +1203,7 @@ Russia | 2686 | 3745 | 4001 | 57 | 58 | 58
 Tajikistan | 18,4 | 26,6 | 30,6 | 24 | 25 | 26
 Ukraine | 738 | 1004 | 1101 | 53 | 54 | 54
 
-## Annex #5 (as of beginning of the academic year)
-
-> CIS Statistical Committee
+CIS Statistical Committee
 
 [[END OF PAGE 42]]
 
@@ -1129,13 +1215,31 @@ Ukraine | 738 | 1004 | 1101 | 53 | 54 | 54
 
 (Per 10000 people)
 
+ | 2000/01 | 2003/04 | 2004/05 | | Under the latest published data (2000-2002)
+--- | --- | --- | --- | --- | ---
+Azerbaijan | 150 | 149 | 155 | Austria | 327
+Armenia | 115 | 174 | 243 | hungary | 330
+Byelorussia | 282 | 343 | 370 | Germany | 262
+Georgia | 302 | 355 | 384 | Italy | 314
+Kazakhstan | 297 | 440 | 497 | Canada | 394
+Kyrgyzstan | 384 | 401 | 426 | Norveigh | 423
+Moldova | 217 | 288 | 338 | Poland | 466
+Russia | 327 | 448 | 480 | USA | 494
+Tajikistan Таджикистан | 124 | 162 | 175 | Finland | 540
+Ukraine | 285 | 387 | 429 | Sweden | 404
+ | | | | Japan | 313
+
+CIS Statistics Committee
+
+## Annex #7
+
 ### Number of teachers in general secondary schools
 
-(for the beginning of a school  year; thou.  of people)
+(for the beginning of a school year; thou. of people)
 
-Number of full time teachers | Including teachers with a higher education, % of total
+ | Number of full time teachers | | | Including teachers with a higher education, % of total | |
 --- | --- | --- | --- | --- | --- | ---
-2000/01 | 2003/04 | 2004/05 | 2000/01 | 2003/04 | 2004/05
+ | 2000/01 | 2003/04 | 2004/05 | 2000/01 | 2003/04 | 2004/05
 Azerbaijan | 160 | 169 | 170 | 80 | 80 | 80
 Armenia | 56 | 47 | 47 | 87 | 81 | 81
 Byelorussia | 134 | 127 | 124 | 83 | 86 | 87
@@ -1152,31 +1256,15 @@ CIS Statistics Committee
 
 ______________________________________________________
 
-2000/01 | 2003/04 | 2004/05 | Under the latest published data (2000-2002)
---- | --- | --- | --- | --- | ---
-Azerbaijan | 150 | 149 | 155 | Austria | 327
-Armenia | 115 | 174 | 243 | hungary | 330
-Byelorussia | 282 | 343 | 370 | Germany | 262
-Georgia | 302 | 355 | 384 | Italy | 314
-Kazakhstan | 297 | 440 | 497 | Canada | 394
-Kyrgyzstan | 384 | 401 | 426 | Norveigh | 423
-Moldova | 217 | 288 | 338 | Poland | 466
-Russia | 327 | 448 | 480 | USA | 494
-Tajikistan Таджикистан | 124 | 162 | 175 | Finland | 540
-Ukraine | 285 | 387 | 429 | Sweden | 404
-Japan | 313
-
-CIS Statistics Committee
-
-## Annex #7
-
 1) 2001/02
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
 
-2000 | 2001 | 2002 | 2003 | 2004 | 2005
+## Annex #8: Education and Financial Resources 2000-2005
+
+ | 2000 | 2001 | 2002 | 2003 | 2004 | 2005
 --- | --- | --- | --- | --- | --- | ---
 Real GDP (TJS million) | 1787 | 2564 | 3375 | 4758 | 6158 | 7249
 GDP(official rate US$ millions) | 980 | 1104 | 1220 | 1555 | 2073 | 2387
@@ -1184,35 +1272,35 @@ GDP Per Capita (TJS) | 289 | 406 | 524 | 724 | 918 | 1060
 GDP Per Capita (US$) | 158 | 175 | 189 | 158 | 309 | 349
 Total Budget Expenditure (TJS million) | 261.8 | 366.4 | 524.4 | 727.9 | 1028.2 | 1291
 Total Budget Expenditure (US$ million) | 110 | 132 | 171 | 238 | 347 | 425
-Budget Expenditure Grow th (%) | 0.0% | 40.0% | 43.1% | 38.8% | 41.3% | 25.6%
-Governm ent Expenditure as GDP% | 14.7% | 14.3% | 15.5% | 15.3% | 16.7% | 17.8%
+Budget Expenditure Growth (%) | 0.0% | 40.0% | 43.1% | 38.8% | 41.3% | 25.6%
+Government Expenditure as GDP% | 14.7% | 14.3% | 15.5% | 15.3% | 16.7% | 17.8%
 Education Budget as GDP Share (%) | 2.3% | 2.4% | 2.6% | 2.4% | 2.8% | 3.4%
 Education Share of Budget (%) | 15.9% | 16.6% | 16.6% | 15.4% | 16.9% | 19.4%
 Education Sector Funding (TJS million) | 41.61 | 60.93 | 86.87 | 112.08 | 173.75 | 250.07
 Recurrent | 40.33 | 59.03 | 85.54 | 108.37 | 151.31 | 227.06
-Capital & Reform /Developm ent Funds | 1.28 | 1.91 | 1.33 | 3.71 | 22.44 | 23.01
+Capital & Reform/Development Funds | 1.28 | 1.91 | 1.33 | 3.71 | 22.44 | 23.01
 Education Sector Funding (US$ millions) | 17.48 | 22.00 | 28.39 | 36.63 | 58.70 | 82.26
 Recurrent | 16.94 | 21.31 | 27.95 | 35.42 | 51.12 | 74.69
-Capital & Reform /Developm ent Funds | 0.54 | 0.69 | 0.43 | 1.21 | 7.58 | 7.57
-Percent Change in Allocation | 32% | 30% | 22% | 35% | 31%
-External Financing (com mitted $US millions) | 8.87 | 15.90 | 17.60
+Capital & Reform/Development Funds | 0.54 | 0.69 | 0.43 | 1.21 | 7.58 | 7.57
+Percent Change in Allocation | | 32% | 30% | 22% | 35% | 31%
+External Financing (committed $US millions) | | | | 8.87 | 15.90 | 17.60
 General Education (1-11) Share of Total Education Recurrent Spending | 79% | 78% | 78% | 81% | 82% | 77%
-Recurrent GenEd Inputs Share Less Teacher Salaries | 11% | 20% | 26%
+Recurrent GenEd Inputs Share Less Teacher Salaries | | | | 11% | 20% | 26%
 Average Annual Wage Bill Per Teacher (US$)
-Teachers more than 3 years in service, Somoni | 255,97 | 358,36 | 429,93 | 671,53 | 989,04
-Teachers less than 3 years in service, Somoni | 203,67 | 285,07 | 342,02 | 534,21 | 786,76
+Teachers more than 3 years in service, Somoni | 255,97 | 358,36 | 429,93 | 671,53 | 989,04 |
+Teachers less than 3 years in service, Somoni | 203,67 | 285,07 | 342,02 | 534,21 | 786,76 |
 
 ## Annex # 9
 
 ### Per capita Allocation (Recurrent) by Category (US$s)
 
-2000 | 2001 | 2002 | 2003 | 2004 | 2005
+ | 2000 | 2001 | 2002 | 2003 | 2004 | 2005
 --- | --- | --- | --- | --- | --- | ---
 Preschool Education | 64 | 75 | 80.6 | 94.5 | 108.1 | 143.32
 General Education | 22 | 30 | 38.08 | 49.9 | 71 | 109.5
 Vocational/Special Education | 59 | 83 | 101 | 126.7 | 140.7 | NA
 Higher Education | 49 | 59 | 97.3 | 119.6 | 153.8 | NA
-Source: Estim ates based on MoE and MoF data
+Source: Estimates based on MoE and MoF data
 
 [[END OF PAGE 44]]
 
@@ -1222,7 +1310,7 @@ Source: Estim ates based on MoE and MoF data
 
 ### Education Sector Spending by Category (U.S. millions)
 
-2000 | 2001 | 2002 | 2003 | 2004 | 2005
+ | 2000 | 2001 | 2002 | 2003 | 2004 | 2005
 --- | --- | --- | --- | --- | --- | ---
 Preschool | 1.0 | 1.1 | 1.3 | 1.6 | 2.3 | 3.2
 General Education (1-11) | 13.4 | 16.7 | 21.8 | 28.8 | 42.2 | 57.2
@@ -1240,75 +1328,75 @@ Source: Ministry of Finance & Education Finance Working Group; not inclusive of 
 
 ## Annex # 11
 
-### List of main Laws and Decrees of the Government of the Republic of Tajikistan. (1993- 2005 г . г .)
+### List of main Laws and Decrees of the Government of the Republic of Tajikistan. (1993- 2005г.г.)
 
-- Ratification of the UN Convention 'On the rights of the child (1993).
+1. Ratification of the UN Convention “On the rights of the child (1993).
 
-- Decree of the Ministers council of the Republic of Tajikistan of November 13, # 9. 'Concept of national school.'
+2. Decree of the Ministers council of the Republic of Tajikistan of November 13, # 9. “Concept of national school.”
 
-- 3 .Decree of the Government of the Republic of Tajikistan of February 23, 1996, #    93 'On State  Program  of  ecological  upbringing  and  education  of  the  Population  of  the  republic  of Tajikistan up to 2000 and for the prospective up to 2010 года '.
+3 .Decree of the Government of the Republic of Tajikistan of February 23, 1996, # 93 “On State Program of ecological upbringing and education of the Population of the republic of Tajikistan up to 2000 and for the prospective up to 2010 года”.
 
-- Decree  of  the  Government  of  the  republic  of  Tajikistan  of  February  23,  1996,  #  96  'On approval of a State standard of higher vocational education'.
+4. Decree of the Government of the republic of Tajikistan of February 23, 1996, # 96 “On approval of a State standard of higher vocational education”.
 
-- Decree of the Government of the Republic of Tajikistan of June 4, 1997, #266'On approval of State standards for education'.
+5. Decree of the Government of the Republic of Tajikistan of June 4, 1997, #266“On approval of State standards for education”.
 
-- Decree  of  the  Government  of  the  Republic  of  Tajikistan  of  September  10,  1998,  #  363, «National action Plan for improving situation of women in the republic of Tajikistan, upgrading women's status and role for 1998-2005».
+6. Decree of the Government of the Republic of Tajikistan of September 10, 1998, # 363, «National action Plan for improving situation of women in the republic of Tajikistan, upgrading women’s status and role for 1998-2005».
 
-- Decree  of  the  Government  of  the  Republic  of  Tajikistan  of  August  5,  1999,  #  353  'On approval  of  educational  standard  for  secondary  vocational  education  of  the  Republic  of Tajikistan'.
+7. Decree of the Government of the Republic of Tajikistan of August 5, 1999, # 353 “On approval of educational standard for secondary vocational education of the Republic of Tajikistan”.
 
-- Decree  of  the  President  of  the  Republic  of  Tajikistan  of  December  3,  1999,  # № 5  «On enhancing role of women in the society».
+8. Decree of the President of the Republic of Tajikistan of December 3, 1999, #№5 «On enhancing role of women in the society».
 
-- Decree  of  the  Government  of  the  Republic  of  Tajikistan  of  December30,  2000,  #  516 'National  program  of  prevention  and  combat  against  HIV/AIDS  and  sexually  transmitted diseases in the Republic of Tajikistan for the period until 2007'.
+9. Decree of the Government of the Republic of Tajikistan of December30, 2000, # 516 “National program of prevention and combat against HIV/AIDS and sexually transmitted diseases in the Republic of Tajikistan for the period until 2007”.
 
-- Decree of the Government of the Republic of Tajikistan of December 30, 2001, # 585 «On payments of monetary allowances to needy families with children studying in general secondary schools of the Republic of Tajikistan».
+10. Decree of the Government of the Republic of Tajikistan of December 30, 2001, # 585 «On payments of monetary allowances to needy families with children studying in general secondary schools of the Republic of Tajikistan».
 
-- Decree  of  the  Government  of  April  19,  2001  #199  «On  order  of  enrollment  of  girls  into higher educational institutions under the Presidential quarter for 2001-2005'
+11. Decree of the Government of April 19, 2001 #199 «On order of enrollment of girls into higher educational institutions under the Presidential quarter for 2001-2005”
 
-- 12 Decree of the Government of the Republic of Tajikistan of June 12, 2001 № 272 'On approval of  Program  of  public  education  system  in  the  sphere  of  human  rights  in  the  Republic  of Tajikistan'.
+12 Decree of the Government of the Republic of Tajikistan of June 12, 2001 №272 “On approval of Program of public education system in the sphere of human rights in the Republic of Tajikistan”.
 
-- Decree of the Government of the Republic of Tajikistan of August 8, 2001, # 391, a state program «Main directions of state policy  for  ensuring  equal  rights  of  men  and  women  in  the Republic of Tajikistan for 2001-2010 годы »
+13. Decree of the Government of the Republic of Tajikistan of August 8, 2001, # 391, a state program «Main directions of state policy for ensuring equal rights of men and women in the Republic of Tajikistan for 2001-2010 годы»
 
-- 14 Decree of the Government of the Republic of Tajikistan of May 3, 2002, # 200 'National education concept'.
+14 Decree of the Government of the Republic of Tajikistan of May 3, 2002, # 200 “National education concept”.
 
-- 15 Decree of Madjlicy Namoyandagon of Madjlicy Oli of the Republic of Tajikistan of June 19, 2002, # 666 'Poverty Reduction Strategy Paper in the Republic of Tajikistan'.
+15 Decree of Madjlicy Namoyandagon of Madjlicy Oli of the Republic of Tajikistan of June 19, 2002, # 666 “Poverty Reduction Strategy Paper in the Republic of Tajikistan”.
 
-- Decree of the Government of the republic of Tajikistan of November 4, 2002,  # 419 «A State learning standard for primary vocational education of the Republic of Tajikistan», «List of professions and specialties of primary vocational education'.
+16. Decree of the Government of the republic of Tajikistan of November 4, 2002, # 419 «A State learning standard for primary vocational education of the Republic of Tajikistan», «List of professions and specialties of primary vocational education”.
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
 
-17Decree  of the government  of  the  RT  of  December  31,  2002,  #  502  'Program  for computerization of basic and secondary general education schools of the Republic of Tajikistan for 2003-2007'.
+17Decree of the government of the RT of December 31, 2002, # 502 “Program for computerization of basic and secondary general education schools of the Republic of Tajikistan for 2003-2007”.
 
-- Decree of the Government of the republic of Tajikistan of December 31, 2002, # 501 «On Program for realization of the Concept of State demographic policy of the republic of Tajikistan for 2003-2015'.
+18. Decree of the Government of the republic of Tajikistan of December 31, 2002, # 501 «On Program for realization of the Concept of State demographic policy of the republic of Tajikistan for 2003-2015”.
 
-- Constitution of the Republic of Tajikistan (2003 г .).
+19. Constitution of the Republic of Tajikistan (2003г.).
 
-- Decree of Madjlicy Namoyandagon Madjlicy Oli of the republic of Tajikistan of March 5, 2003, # 810, Law of the Republic of Tajikistan 'On primary vocational education».
+20. Decree of Madjlicy Namoyandagon Madjlicy Oli of the republic of Tajikistan of March 5, 2003, # 810, Law of the Republic of Tajikistan “On primary vocational education».
 
-- Law of the Republic of Tajikistan of June 30, 2003, # 902 «On higher and post graduate vocational education».
+21. Law of the Republic of Tajikistan of June 30, 2003, # 902 «On higher and post graduate vocational education».
 
-- 22  Decree  of  the  Government  of  the  Republic  of  Tajikistan  of  August  4,  2003,#  344  «On changes and amendments into indicators of Presidential quarter for enrollment of girls (without exams) to Higher educational institutions of the Republic of Tajikistan for 2001-2005'.
+22 Decree of the Government of the Republic of Tajikistan of August 4, 2003,# 344 «On changes and amendments into indicators of Presidential quarter for enrollment of girls (without exams) to Higher educational institutions of the Republic of Tajikistan for 2001-2005”.
 
-- Decree  of  the  President  of  the  Republic  of  Tajikistan  of  November  2003,  #1174,  a  State strategy «Information and communication technologies for the development of the Republic of Tajikistan».
+23. Decree of the President of the Republic of Tajikistan of November 2003, #1174, a State strategy «Information and communication technologies for the development of the Republic of Tajikistan».
 
-- Decree  of  the  Government  of  the  republic  of  Tajikistan  of  December  2,  2003,  #508  «On approval of state Program for teaching and learning of the Russian and English languages in the Republic of Tajikistan».
+24. Decree of the Government of the republic of Tajikistan of December 2, 2003, #508 «On approval of state Program for teaching and learning of the Russian and English languages in the Republic of Tajikistan».
 
-- Law of the Republic of Tajikistan 'On education' (2004).
+25. Law of the Republic of Tajikistan “On education” (2004).
 
-- Decree of the Government of the Republic of March 1, 2004, # 86 'Program of economic development of the Republic of Tajikistan for the period until 2015 года '.
+26. Decree of the Government of the Republic of March 1, 2004, # 86 “Program of economic development of the Republic of Tajikistan for the period until 2015года”.
 
-- Decree of the Government of the Republic of Tajikistan of June 30, # 291 «On the Plan of realization of education system reform for 2004-2009 ».
+27. Decree of the Government of the Republic of Tajikistan of June 30, # 291 «On the Plan of realization of education system reform for 2004-2009 ».
 
-- Decree of the Government of the Republic of Tajikistan of October 1, 2004, # #387 'State concept  of  reforming  of  primary  vocational  education  and  education  in  the  Republic  of Tajikistan'.
+28. Decree of the Government of the Republic of Tajikistan of October 1, 2004, # #387 “State concept of reforming of primary vocational education and education in the Republic of Tajikistan”.
 
-- Decree of the Government of the Republic of Tajikistan of November 1, 2004, #25 «On state Program of training of pedagogical cadres for 2005-2010 годы ».
+29. Decree of the Government of the Republic of Tajikistan of November 1, 2004, #25 «On state Program of training of pedagogical cadres for 2005-2010 годы».
 
-- Decree of the Government of the Republic of Tajikistan of November 1, 2004, # 441  «On transfer  of  educational  institutions  of  Kulyb  town,  Iavansky  rayon  of  Khatlon  province, Khudjand city of Sogd province, Khorog town of Gorno-Badakhshan autonomous province and Vakhdat town to new forms of management and funding'».
+30. Decree of the Government of the Republic of Tajikistan of November 1, 2004, # 441 «On transfer of educational institutions of Kulyb town, Iavansky rayon of Khatlon province, Khudjand city of Sogd province, Khorog town of Gorno-Badakhshan autonomous province and Vakhdat town to new forms of management and funding”».
 
-- Decree of the Government of the Republic of Tajikistan of December 3, 2004, # 468 'On approval of the state program of training of pedagogical cadres for2005-2010 годы '
+31. Decree of the Government of the Republic of Tajikistan of December 3, 2004, # 468 “On approval of the state program of training of pedagogical cadres for2005-2010 годы”
 
-- Law of the Republic of Tajikistan of March 1, 2005, # 389 'On State guarantees of equality between men and women and equal opportunities for their realization'.
+32. Law of the Republic of Tajikistan of March 1, 2005, # 389 “On State guarantees of equality between men and women and equal opportunities for their realization”.
 
 [[END OF PAGE 47]]
 
@@ -1318,35 +1406,35 @@ Source: Ministry of Finance & Education Finance Working Group; not inclusive of 
 
 ### List of main Concepts, Programs and Action Plans of Education system.
 
-- Concept of national school (1994 г .)
+1. Concept of national school (1994г.)
 
-- State Program of ecological upbringing and education of the population of the republic of Tajikistan up to 2000 and for the prospective till 2010 года (1996 г .)
+2. State Program of ecological upbringing and education of the population of the republic of Tajikistan up to 2000 and for the prospective till 2010 года (1996г.)
 
-- National  Action  Plan  for  improving  the  situation  with  women  in  the  Republic  of Tajikistan for 998-2005 годы . (1998 г .)
+3. National Action Plan for improving the situation with women in the Republic of Tajikistan for 998-2005годы. (1998г.)
 
-- National  Program  for  prevention  and  combat  against  HIV/AIDS  and  sexually transmitted diseases in the Republic of Tajikistan for the period until 2007 года . (2000 г .)
+4. National Program for prevention and combat against HIV/AIDS and sexually transmitted diseases in the Republic of Tajikistan for the period until 2007 года. (2000г.)
 
-- State  Program  'Main  directions  of  state  policy  for  ensuring  equal  rights  and opportunities for men and women in the Republic of Tajikistan for 2001-2010' 2001).
+5. State Program “Main directions of state policy for ensuring equal rights and opportunities for men and women in the Republic of Tajikistan for 2001-2010” 2001).
 
-- Programs of public education system in the sphere of human rights in the Republic of Tajikistan (2001).
+6. Programs of public education system in the sphere of human rights in the Republic of Tajikistan (2001).
 
-- National Concept of education (2002 г .)
+7. National Concept of education (2002г.)
 
-- Poverty Reduction strategy in the Republic of Tajikistan Paper (2002 г .)
+8. Poverty Reduction strategy in the Republic of Tajikistan Paper (2002г.)
 
-- Program of computerization of basic and secondary general education schools of the Republic of Tajikistan for 2003-2007 годы . (2002 г .)
+9. Program of computerization of basic and secondary general education schools of the Republic of Tajikistan for 2003-2007годы. (2002г.)
 
-- Program of realization of the concept of State demographic policy in the Republic of Tajikistan for 2003-2015 годы . (2002)
+10. Program of realization of the concept of State demographic policy in the Republic of Tajikistan for 2003-2015 годы. (2002)
 
-- State Program of improvement of teaching and learning of the Russian and English languages in the republic of Tajikistan. (2003 г .)
+11. State Program of improvement of teaching and learning of the Russian and English languages in the republic of Tajikistan. (2003г.)
 
-- Program of economic development of the Republic of Tajikistan up to 2015 (2004 г .)
+12. Program of economic development of the Republic of Tajikistan up to 2015 (2004 г.)
 
-- Plan of implementation of education system reform for 2004-2009 (2004 г .)
+13. Plan of implementation of education system reform for 2004-2009 (2004г.)
 
-- State Concept of reforming of the primary vocational education and learning in the republic of Tajikistan. (2004 г .)
+14. State Concept of reforming of the primary vocational education and learning in the republic of Tajikistan. (2004г.)
 
-- State Program of training pedagogical cadres for 2005-2010. (2004)
+15. State Program of training pedagogical cadres for 2005-2010. (2004)
 
 [[END OF PAGE 48]]
 
@@ -1356,33 +1444,35 @@ Source: Ministry of Finance & Education Finance Working Group; not inclusive of 
 
 ### Amendments and Changes in the Legislation of the Republic of Tajikistan  recommended in the  National Strategy of Education Development (2006-2015).
 
-- To incorporate into the Law of the Republic of Tajikistan on awards': honorable title 'Deserved teacher of the republic of Tajikistan', 'A folk teacher'».
+1. To incorporate into the Law of the Republic of Tajikistan on awards”: honorable title “Deserved teacher of the republic of Tajikistan”, “A folk teacher”».
 
-- To  elaborate  and  adopt  the  Law  of  the  Republic  of  Tajikistan  'On  status  of  the teacher'.
+2. To elaborate and adopt the Law of the Republic of Tajikistan “On status of the teacher”.
 
-- To  incorporate  amendments  into  the  Civil  and  Criminal  Codes  about  enhancing parents`  responsibility  for  violation  of  the  Law  of  the  Republic  of  Tajikistan  'On  education' with regard to the Article on compulsory school education.
+3. To incorporate amendments into the Civil and Criminal Codes about enhancing parents` responsibility for violation of the Law of the Republic of Tajikistan “On education” with regard to the Article on compulsory school education.
 
-- To elaborate amendments into the Law of the Republic of Tajikistan 'On education' with regard to introduction of a basic secondary education.
+4. To elaborate amendments into the Law of the Republic of Tajikistan “On education” with regard to introduction of a basic secondary education.
 
-- To adopt the Law of the Republic of Tajikistan 'On guarantees of the rights of the child'.
+5. To adopt the Law of the Republic of Tajikistan “On guarantees of the rights of the child”.
 
-- To incorporate based on the Concept for primary vocational education amendments and changes into the Law of the Republic of Tajikistan 'On vocational primary education'».
+8. To incorporate based on the Concept for primary vocational education amendments and changes into the Law of the Republic of Tajikistan “On vocational primary education”».
 
-- To  make  changes  into  the  Law  of  the  Republic  of  Tajikistan  'On  compulsory military  service  with  regard  to  exemption  from  military  service  for  students  of  primary vocational education for the period of their studies and receiving specialties until the age of 21.
+6. To make changes into the Law of the Republic of Tajikistan “On compulsory military service with regard to exemption from military service for students of primary vocational education for the period of their studies and receiving specialties until the age of 21.
 
-- To  complement  the  Laws  of  the  Republic  of  Tajikistan  'On  education'  and  'On Higher  and  postgraduate  vocational  education  with  the  article  about  the  opportunity  of  using advanced information technologies (electronic document turn over and raising responsibility for electronically rendered electronic information).
+7. To complement the Laws of the Republic of Tajikistan “On education” and “On Higher and postgraduate vocational education with the article about the opportunity of using advanced information technologies (electronic document turn over and raising responsibility for electronically rendered electronic information).
 
-- To  complement  the  Law  of  the  Republic  of  Tajikistan  'On  education'  and  other legislative  acts  with  a  separate  article  about  the  autonomy  and  financial  independence  of educational establishments.
+8. To complement the Law of the Republic of Tajikistan “On education” and other legislative acts with a separate article about the autonomy and financial independence of educational establishments.
 
-- To  incorporate  amendment  into  the  'Family  Code  of  the  Republic  of  Tajikistan' about parents` responsibility for preparing children for school.
+9. To incorporate amendment into the “Family Code of the Republic of Tajikistan” about parents` responsibility for preparing children for school.
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
+## Annex#14
+
 ### Education Category as % of GDP
 
-2000 | 2001 | 2002 | 2003 | 2004 | 2005
+ | 2000 | 2001 | 2002 | 2003 | 2004 | 2005
 --- | --- | --- | --- | --- | --- | ---
 Preschool | 0.13% | 0.12% | 0.12% | 0.10% | 0.11% | 0.13%
 General Education (1-11) | 1.78% | 1.81% | 1.97% | 1.85% | 2.03% | 2.40%
@@ -1394,8 +1484,6 @@ Total | 2.33% | 2.38% | 2.57% | 2.36% | 2.82% | 3.45%
 
 Source: Education Finance Working Group estimates based on IMF/Worldl Bank, MoF data
 
-## Annex#14
-
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
@@ -1404,23 +1492,23 @@ Source: Education Finance Working Group estimates based on IMF/Worldl Bank, MoF 
 
 ### New Education Centers(Institutions) recommended and  their proposed mandate
 
-- Information and analytical Center under the Ministry of education of the RT (collection and processing of information).
+1. Information and analytical Center under the Ministry of education of the RT (collection and processing of information).
 
-- Center  for  retraining  and  qualification  upgrading  for  managerial  and leadership cadres of education system.
+2. Center for retraining and qualification upgrading for managerial and leadership cadres of education system.
 
-- Scientific and methodological center (introduction of new technologies into  educational  process,  development  of  methodological  aids  and  rendering methodological assistance to educational establishments;
+3. Scientific and methodological center (introduction of new technologies into educational process, development of methodological aids and rendering methodological assistance to educational establishments;
 
-- Republican  scientific and practical center 'Pre-school childhood' (conducting  scientific  and  pedagogical  research,  rendering  consulting  services  to teachers and parents);
+4. Republican scientific and practical center “Pre-school childhood” (conducting scientific and pedagogical research, rendering consulting services to teachers and parents);
 
-- Republican methodological Center for co-ordination of the work of all methodological rooms and services (organizational and methodological assistance by the methodological room to educational department management.
+5. Republican methodological Center for co-ordination of the work of all methodological rooms and services (organizational and methodological assistance by the methodological room to educational department management.
 
-- National  Center  for  the  assessment  of  education  quality  (conducting regular monitoring and assessment of education at all levels, timely and effective solution of learning problems, conducting a single state exam).
+6. National Center for the assessment of education quality (conducting regular monitoring and assessment of education at all levels, timely and effective solution of learning problems, conducting a single state exam).
 
-- Information and resource Center) collection of information on educational establishments and co-ordination of their work).
+7. Information and resource Center) collection of information on educational establishments and co-ordination of their work).
 
-- Scientific and methodological center for development and publication of textbooks (development and publication of textbooks).
+8. Scientific and methodological center for development and publication of textbooks (development and publication of textbooks).
 
-- Centers  for  studying  and  introduction  of  distant  learning  (rendering educational services).
+9. Centers for studying and introduction of distant learning (rendering educational services).
 
 [[END OF PAGE 51]]
 
@@ -1434,7 +1522,7 @@ Source: Education Finance Working Group estimates based on IMF/Worldl Bank, MoF 
 --- | ---
 Objectives | Indicators
 Objective 1.1. To improve organizational structure and decision-making processes in the Ministry of Education and regional management bodies aiming to avoid reduplication. | -number of reformed structures; -availability of documents on changing functional responsibilities of Ministry of Education staff and regional management bodies; - results of evaluation of educational facilities' management staff; -number of evaluated staff of education management bodies; -number of prepared new normative and legal documents for autonomy of educational institutions and their financial all-sufficiency; -qualitative analysis of normative and legal documents adopted by education management bodies.
-Objective 1.2. To improve management of resource and especially financial capacity . | -perce п tage of GDP execution in the budget of the country; -share of non budget funding in general expenditures; -outreach with per capita funding; -percentage of increasing salary for the personnel of the education system; -transparency in making estimates for incomings and disbursement of educational institutions; -availability of normative-legal basis for crediting to receive higher education; -number of students who received credit for receiving higher education; -percentage of private investments in education.
+Objective 1.2. To improve management of resource and especially financial capacity . | -percentage of GDP execution in the budget of the country; -share of non budget funding in general expenditures; -outreach with per capita funding; -percentage of increasing salary for the personnel of the education system; -transparency in making estimates for incomings and disbursement of educational institutions; -availability of normative-legal basis for crediting to receive higher education; -number of students who received credit for receiving higher education; -percentage of private investments in education.
 Objective 1.3. To create a financial information management system | -Percentage of coverage of educational establishments with information management systems finances; -quantitative indicators of budget execution.
 Objective 1.4. To focus on equitable distribution of financial resources among various groups of the population, educational institutions and districts. | - Percentage of financial provision and implementation of strategic programs; - level of non-budget funding of strategic programs out of total flow.
 Objective 1.5 . To mobilize resources and investment funds into strategic programs aiming to improve the quality of education at | -Availability of strategic programs and their financial provision; -percentage of provision with financial and
@@ -1447,8 +1535,8 @@ all levels and preparing individuals to modern labor market and to bringing own 
 --- | ---
 Objective 1.6. To set up Information system in the Ministry of Education | -availability of normative and legal documents on for Information system; -availability of portal in the Ministry of Education; - level of using information systems; -qualitative and quantitative assessment of public awareness; -outreach of Higher schools with EMIS; -quantitative indicators on the use of computer programs in educational process
 #### Strategic goal 2. To improve efficiency of the education system management through broader decentralization and building of institutional and human resource capabilities.
-Objective 2.1. To initiate Program of qualification upgrading of cadres` capacity in the Ministry of education and regional management bodies. | -availability of plan on development of human resources of management bodies; -availability of in-services training for management cadres; -number of personnel of management bodies who upgraded their qualification in In-service Institution in the country; -number of personnel of management bodies who upgraded their qualification abroad;
-Objective 2.2. To initiate Program on capacity building of school principles and identify their roles and functions of autonomous schools. | -number of in-service centers. - availability of plan on qualification upgrading of school principles and their deputies in each region; - number of school principles and their deputies who upgraded their qualification in financial recourse management in autonomous schools;
+Objective 2.1. To initiate Program of qualification upgrading of cadres` capacity in the Ministry of education and regional management bodies. | -availability of plan on development of human resources of management bodies; -availability of in-services training for management cadres; -number of personnel of management bodies who upgraded their qualification in In-service Institution in the country; -number of personnel of management bodies who upgraded their qualification abroad; -number of in-service centers.
+Objective 2.2. To initiate Program on capacity building of school principles and identify their roles and functions of autonomous schools. | - availability of plan on qualification upgrading of school principles and their deputies in each region; - number of school principles and their deputies who upgraded their qualification in financial recourse management in autonomous schools;
 Objective 2.3. To set up the system to monitor the quality of work in schools and learning achievements by involving communities. | -availability of regulations on conducting independent monitoring of education management system; -number of conducted monitoring; - availability of indicators for conducting monitoring of quality of work and achievements; -availability of information in the portal of the Ministry on improving quality and achievements of the education system; -number of NGOs and other public
 
 [[END OF PAGE 53]]
@@ -1513,25 +1601,25 @@ Objective 5.3. To create friendly, healthy and safe education environment for ch
 
 ## NSED Costing Breakdown By Education Category
 Education Category/Activity | 2006 | 2007 | 2008 | 2009 | 2010 | Total
---- | --- | --- | --- | --- | --- | --- | ---
-Education Management | 132,236 $ | 65,776 $ | 66,988 $ | $ | 66,512 | 69,659 | 389,638 $
-Create a Step-by-Step Assessment of a Financial Management Information System (FMIS) | 4569 | $ | 4,569
+--- | --- | --- | --- | --- | --- | ---
+Education Management | 132,236 $ | 65,776 $ | 66,988 $ | 66,512 $ | 69,659 $ | 389,638 $
+Create a Step-by-Step Assessment of a Financial Management Information System (FMIS) | 4569 |  |  |  |  | 4,569 $
 Establish an Information Portal at the MoE for FMIS and other information resource needs; operation and maintenance of system | 29361 | 5994 | 6114 | 6228 | 6364 | 54,061 $
-Organize training and refresher courses of education managers | 28179 | $ | 28,179
+Organize training and refresher courses of education managers | 28179 |  |  |  |  | 28,179 $
 Upgrade the Equipment and Supplies of the Teacher Training Institute | 58594 | 59783 | 60873 | 60284 | 63295 | 302,830 $
-Elaborate the normative and legal base for creating a National Center for Evaluating the Quality of Education | 11534
-Preschool Education | 560,288 $ | $ | 5,548,199 $ | 5,603,554 $ | 5,732,895 | 3,578,977 | 21,023,913 $
-Elaborate training, methodologies and facilities for the community and parents to participate in the upbringing and teaching of preschool age children sanitation and life skills | 69489 | $ | 69,489
-Provide preschool manager refresher courses | 186901 | 186,901 $
+Elaborate the normative and legal base for creating a National Center for Evaluating the Quality of Education | 11534 |  |  |  |  |
+Preschool Education | 560,288 $ | 5,548,199 $ | 5,603,554 $ | 5,732,895 $ | 3,578,977 $ | 21,023,913 $
+Elaborate training, methodologies and facilities for the community and parents to participate in the upbringing and teaching of preschool age children sanitation and life skills | 69489 |  |  |  |  | 69,489 $
+Provide preschool manager refresher courses | 186901 |  |  |  |  | 186,901 $
 Provide initial refresher courses of preschool teachers (670 teachers annually) | 164601 | 168012 | 171114 | 174415 | 177926 | 856,069 $
 Provide further refresher courses on an ongoing basis from previous activity (125 teachers annually) | 13419 | 13696 | 13946 | 14211 | 14489 | 69,759 $
-Elaborate and implement preschool methods for teachers and parents | 17081 | 15060 | 32,141 $
-Elaborate the curriculum and computer training methodologies for the children 5-6 years old | 36550 | $ | 36,550
+Elaborate and implement preschool methods for teachers and parents |  | 17081 | 15060 |  |  | 32,141 $
+Elaborate the curriculum and computer training methodologies for the children 5-6 years old |  |  |  | 36550 |  | 36,550 $
 Organize preschool training of children in preschool classes in primary schools (500 students annually) | 22236 | 22702 | 23133 | 23567 | 24034 | 115,672 $
 Organize preschool training of children in preschool classes in preschools (240 students annually) | 7796 | 7950 | 8102 | 8246 | 8409 | 40,503 $
-Develop the educational program for the parents on the care, upbringing and education in early childhood development, preschool age | 43478 | 43,478 $
+Develop the educational program for the parents on the care, upbringing and education in early childhood development, preschool age |  | 43478 |  |  |  | 43,478 $
 Reequip the medical facilities at preschools (20 annually) | 95847 | 199379 | 203042 | 206959 | 211136 | 916,363 $
-Construction of preschool facilities (9 annually to 2007- 9 and completion costs 2010) | 4213292 | 4290693 | 4373509 | 2230852 | 15,108,346 $
+Construction of preschool facilities (9 annually to 2007- 9 and completion costs 2010) |  | 4213292 | 4290693 | 4373509 | 2230852 | 15,108,346 $
 
 [[END OF PAGE 58]]
 
@@ -1539,9 +1627,9 @@ Construction of preschool facilities (9 annually to 2007- 9 and completion costs
 
 Education Category/Activity | 2006 | 2007 | 2008 | 2009 | 2010 | Total
 --- | --- | --- | --- | --- | --- | ---
-Rehabilitation and restoration of preschool establishments (19 annually 2007-9; 15 2010) | 826087 | 841265 | 857515 | 874801 | 3,399,668 $
-Equipment, furniture and supplies for preschool classrooms in primary schools (25 classrooms annually) | 27019 | 27530 | 28070 | 27273 | 109,892 $
-Equipment, furniture and supplies for preschool classrooms in preschools (15 classrooms annually) | 9503 | 9669 | 9854 | 10057 | 39,082 $
+Rehabilitation and restoration of preschool establishments (19 annually 2007-9; 15 2010) |  | 826087 | 841265 | 857515 | 874801 | 3,399,668 $
+Equipment, furniture and supplies for preschool classrooms in primary schools (25 classrooms annually) |  | 27019 | 27530 | 28070 | 27273 | 109,892 $
+Equipment, furniture and supplies for preschool classrooms in preschools (15 classrooms annually) |  | 9503 | 9669 | 9854 | 10057 | 39,082 $
 General Education (estimates are included in the MDG assessment model for recurrent and capital cost breakdown) | 100,449,083 | 112,858,796 | 119,329,018 | 126,001,872 | 157,194,440 | 615,833,209
 Total Recurrent | 78,432,380 | 87,152,051 | 95,629,523 | 102,207,623 | 111,575,066 | 474,996,643
 Teachers | 27018313 | 32394647 | 37677502 | 42951936 | 48889126 | 188,931,523 $
@@ -1565,9 +1653,9 @@ Equipment | 1022150 | 1053450 | 1041550 | 1048550 | 1331750 | 5,497,450 $
 Heaters | 189936 | 216088 | 201342 | 201586 | 370240 | 1,179,191 $
 Latrines | 1212358 | 1293616 | 1243730 | 1242187 | 1734358 | 6,726,249 $
 Water connections and handpumps | 208080 | 227790 | 216570 | 219300 | 326040 | 1,197,780 $
-Vocational and Special Technical Education | 1,500,671 $ | 4,494,876 | 4,780,512 | 4,873,187 | 4,687,841 | 20,337,087 $
+Vocational and Special Technical Education | 1,500,671 $ | 4,494,876 $ | 4,780,512 $ | 4,873,187 $ | 4,687,841 $ | 20,337,087 $
 Provide Primary Technical Education teachers and managers with refresher courses and foreign training | 76677 | 78261 | 79699 | 81228 | 82869 | 398,734 $
-Establish a Training Industrial Center on the repairing, rehabilitation and technical maintenance of the training technical appliances and equipment | 67981 | 67,981 $
+Establish a Training Industrial Center on the repairing, rehabilitation and technical maintenance of the training technical appliances and equipment |  | 67981 |  |  |  | 67,981 $
 
 [[END OF PAGE 59]]
 
@@ -1577,20 +1665,19 @@ Education Category/Activity | 2006 | 2007 | 2008 | 2009 | 2010 | Total
 --- | --- | --- | --- | --- | --- | ---
 Editing of textbooks and the provision of visual aids for learning specialties | 12843 | 13106 | 13343 | 13596 | 13864 | 66,753 $
 Refresher courses for Engineer-teachers (not less than 150 teachers annually) | 737061 | 752298 | 766114 | 780906 | 796648 | 3,833,027 $
-To publish Primary Technical Education text books and educational methodological manuals on agriculture, non-ferrous metallurgy, radio electronics and communications, construction works, energy, mineral resources, woodworking, transport, clothing manufact | 3075 | 3102 | 3129 | 3153 | 12,459 $
+To publish Primary Technical Education text books and educational methodological manuals on agriculture, non-ferrous metallurgy, radio electronics and communications, construction works, energy, mineral resources, woodworking, transport, clothing manufact |  | 3075 | 3102 | 3129 | 3153 | 12,459 $
 To introduce targeted assistance for orphan student and low income students | 140863 | 143758 | 146386 | 149211 | 152216 | 732,432 $
 Repair and restoration of selected Primary Technical Education facilities | 187093 | 196957 | 200572 | 204444 | 208580 | 997,645 $
 Add 10-15 computers annually in at least 10 Primary Technical Education institutions | 122684 | 125217 | 127530 | 130409 | 132614 | 638,454 $
-Equip 10 Primary Technical Education institutions with modern education equipment and technical means of education | 2886149 | 2939187 | 2995906 | 3056335 | 11,877,577 $
-Build 1 boarding lyceum for disabled children in the Khatlon province (150 places) | 272289 | 277573 | 549,862 $
+Equip 10 Primary Technical Education institutions with modern education equipment and technical means of education |  | 2886149 | 2939187 | 2995906 | 3056335 | 11,877,577 $
+Build 1 boarding lyceum for disabled children in the Khatlon province (150 places) |  |  | 272289 | 277573 |  | 549,862 $
 Teacher Training and Refresher Courses for secondary professional education institutions (150 annually) | 36869 | 37640 | 38343 | 39094 | 39886 | 191,832 $
 Strengthen the material technical base of secondary professional education institutions including major repairs (10 facilities by 2010) | 63898 | 65217 | 66416 | 67690 | 69063 | 332,283 $
 Equip secondary professional education institution computer classes and offices (100 computers annually) | 122684 | 125217 | 127530 | 130000 | 132614 | 638,045 $
-Higher Education | 1,014,281 $ | 2,030,342 | 4,290,452 $ | 3,091,023 | 4,576,307 | 15,002,405 $
-Creating of local information management system with Internet access | 152640 | 155452 | 158450 | 161648 | 628,190 $
-Implementing of student loan finance system in Dushanbe, Khujand, GBAO and Kurgantube | 1947681 | 479795 | 1701648 | 4,129,124 $
-All forms of teacher refresher courses for teachers of
-higher education | 46390 | 4193 | 37500 | 38216 | 39006 | 165,304 $
+Higher Education | 1,014,281 $ | 2,030,342 $ | 4,290,452 $ | 3,091,023 $ | 4,576,307 $ | 15,002,405 $
+Creating of local information management system with Internet access |  | 152640 | 155452 | 158450 | 161648 | 628,190 $
+Implementing of student loan finance system in Dushanbe, Khujand, GBAO and Kurgantube |  |  | 1947681 | 479795 | 1701648 | 4,129,124 $
+All forms of teacher refresher courses for teachers of higher education | 46390 | 4193 | 37500 | 38216 | 39006 | 165,304 $
 Teacher training Courses for the provision of distance learning | 3578 | 6957 | 10120 | 9825 | 9545 | 40,025 $
 
 [[END OF PAGE 60]]
@@ -1599,13 +1686,13 @@ Teacher training Courses for the provision of distance learning | 3578 | 6957 | 
 
 Education Category/Activity | 2006 | 2007 | 2008 | 2009 | 2010 | Total
 --- | --- | --- | --- | --- | --- | ---
-The arrangement of the permanently functioning courses at the universities for the teachers aimed at learning and implementing the information - communication technologies in the education process, develop the state program, and provide 1 computer for ever | 274876 | 279940 | 285351 | 291108 | 1,131,274 $
+The arrangement of the permanently functioning courses at the universities for the teachers aimed at learning and implementing the information - communication technologies in the education process, develop the state program, and provide 1 computer for ever |  | 274876 | 279940 | 285351 | 291108 | 1,131,274 $
 Post graduate student grants for post graduate studies (3-5 students annually) | 20447 | 20870 | 21265 | 20643 | 21051 | 104,276 $
-Overseas education scholarships for university students (15 annually) | 447205 | 455422 | 464211 | 473580 | 1,840,417 $
+Overseas education scholarships for university students (15 annually) |  | 447205 | 455422 | 464211 | 473580 | 1,840,417 $
 Distance Learning program development and implementation | 267923 | 526957 | 775482 | 1015205 | 1246875 | 3,832,441 $
 Equip Higher Education institutions with modern training-laboratory equipment and visual aids | 185208 | 189037 | 192500 | 196228 | 200199 | 963,172 $
-Gradual renewal of equipment in Higher Education Institutions (10 percent annually) | 18913 | 19247 | 19620 | 20028 | 77,808 $
-Gradual replenishment of library funds (10 percent annually) | 13043 | 13283 | 13538 | 13807 | 53,671 $
+Gradual renewal of equipment in Higher Education Institutions (10 percent annually) |  | 18913 | 19247 | 19620 | 20028 | 77,808 $
+Gradual replenishment of library funds (10 percent annually) |  | 13043 | 13283 | 13538 | 13807 | 53,671 $
 Equip specific universities with up to 20 percent of required computers (400 computers for language and pedagogical universities and 300 for medical and agricultural universities) | 490735 | 375652 | 382560 | 389942 | 397813 | 2,036,701 $
 Total (US$ thousands) | $ 103,656,559 | $ 124,997,989 | $ 134,070,524 | $ 139,765,489 | $ 170,107,224 | $ 672,586,251
 
@@ -1638,251 +1725,30 @@ Open Society Institute | Secondary Education Program | Grant | Y | ongoing | 137
 
 [[START OF PAGE 63]]
 
-Funding Source/
-
-Executing Agency
-
-Open Society Institute
-
-Open Society Institute
-
-Open Society Institute
-
-Save the Children, UK
-
-U.S. Department of
-
-Agriculture
-
-EA: CARE International
-
-U.S.AID
-
-EA: Agha Khan
-
-Foundation
-
-U.S.AID
-
-EA: Various
-
-U.S.AID
-
-EA: CARE International
-
-USAID
-
-EA: Open Society
-
-Institute
-
-2003
-
-100,724
-
-137,783
-
-30,000
-
-533,333
-
-249,937
-
-718,956
-
-224,567
-
-2004
-
-105,903
-
-114,627
-
-30,000
-
-47,595
-
-533,333
-
-249,937
-
-1,294,926
-
-246,674
-
-2005
-
-104,000
-
-67,800
-
-30,000
-
-109,227
-
-533,333
-
-249,937
-
-1,361,892
-
-105,500
-
-177,858
-
-Total
-
-$         580,627
-
-$         364,210
-
-$         120,000
-
-$         302,500
-
-$      1,600,000
-
-$         999,748
-
-$      4,480,515
-
-$         211,000
-
-$         649,099
-
-Project Title
-
-Higher Education Program
-
-English Language Program
-
-Debate Program
-
-Quality, Relevance and Accesible Primary
-
-Education for the Children of Tajikistan
-
-Supporting Partnerships for Education in
-
-Tajikistan
-
-Improving Basic Education in Tajikistan
-
-Participatory Education and Knowledge
-
-Strengthening (PEAKS Project)
-
-Development Assistance Program
-
-(Education)
-
-Step by Step Funding Type Grant Grant Grant Grant Grant plus
-
-2000 MT of
-
-food; Divided
-
-over 4-year
-
-period
-
-Grant
-
-Divided over
-
-4-year period
-
-Grant
-
-Grant
-
-Divided over
-
-2-year period
-
-Grant Status DO
-
-IP
-
-Y
-
-Y
-
-Y
-
-Y
-
-Y
-
-Y
-
-Y
-
-Y
-
-Y
-
-ongoing
-
-ongoing
-
-ongoing
-
-ongoing
-
-ongoing
-
-ongoing
-
-ongoing
-
-ongoing
-
-complete
-
-UN World Food Programme | Protracted Relief and Recovery Operation- Food Assistance for Insecure Households; Recovery Operations in Tajikistan- Food for Education (school feeding and provision of take home rations) | Grant/Food Assistance=4 3,667mt in 2003-06 | Y | ongoing, estimates for 2007&08 | 7,438,724 | 6,579,528 | 6,483,620 | 6,626,808 | 27,128,680 $
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-UNDP | Education Sector Project | Grant | Y | complete | 71,191 | 71,191 $
-UNESCO | Enhancement of Involvement of Civil Society and NGO's in EFA Promotion | Grant | Y | complete | 2,000 | 2,000 $
-UNESCO | Inclusive Education for Street Children | Grant | Y | ongoing | 9,500 | 9,500 | 19,000 $
-UNESCO | Advocacy for Girls' Education in Rural Areas | Grant | Y | ongoing | 5,000 | 5,000 | 10,000 $
-UNESCO | Status on the Pre-School Education in the Republic of Tajiksitan | Grant | Y | complete | 10,000 | 10,000 $
-UNICEF | Various Education Sector Projects | Grant | Y | complete | 1,246,666 | 1,168,732 | 463,200 | 2,878,598 $
-World Bank | Education Modernization Program | Credit $13m Grant $7m GOT $3m | Y | ongoing | 2,000,000 | 2,000,000 | 7,000,000 | 7,000,000 | 23,000,000 $
-
-2006
-
-95,000
-
-44,000
-
-30,000
-
-95,423
-
-249,937
-
-792,124
-
-105,500
-
-2007
-
-90,000
-
-50,255
-
-312,617
-
-2008
-
-85,000
-
+Funding Source/ Executing Agency | Project Title | Funding Type | DO | IP Status | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | Total
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Open Society Institute | Higher Education Program | Grant | Y | ongoing | 100,724 | 105,903 | 104,000 | 95,000 | 90,000 | 85,000 | 580,627 $
+Open Society Institute | English Language Program | Grant | Y | ongoing | 137,783 | 114,627 | 67,800 | 44,000 |  |  | 364,210 $
+Open Society Institute | Debate Program | Grant | Y | ongoing | 30,000 | 30,000 | 30,000 | 30,000 |  |  | 120,000 $
+Save the Children, UK | Quality, Relevance and Accesible Primary Education for the Children of Tajikistan | Grant | Y | ongoing |  | 47,595 | 109,227 | 95,423 | 50,255 |  | 302,500 $
+U.S. Department of Agriculture EA: CARE International | Supporting Partnerships for Education in Tajikistan | Grant plus 2000 MT of food; Divided over 4-year period | Y | ongoing | 533,333 | 533,333 | 533,333 |  |  |  | 1,600,000 $
+U.S.AID EA: Agha Khan Foundation | Improving Basic Education in Tajikistan | Grant Divided over 4-year period | Y | ongoing | 249,937 | 249,937 | 249,937 | 249,937 |  |  | 999,748 $
+U.S.AID EA: Various | Participatory Education and Knowledge Strengthening (PEAKS Project) | Grant | Y | ongoing | 718,956 | 1,294,926 | 1,361,892 | 792,124 | 312,617 |  | 4,480,515 $
+U.S.AID EA: CARE International | Development Assistance Program (Education) | Grant Divided over 2-year period | Y | ongoing |  |  | 105,500 | 105,500 |  |  | 211,000 $
+USAID EA: Open Society Institute | Step by Step | Grant | Y | complete | 224,567 | 246,674 | 177,858 |  |  |  | 649,099 $
+UN World Food Programme | Protracted Relief and Recovery Operation- Food Assistance for Insecure Households; Recovery Operations in Tajikistan- Food for Education (school feeding and provision of take home rations) | Grant/Food Assistance=43,667mt in 2003-06 | Y | ongoing, estimates for 2007&08 | 7,438,724 | 6,579,528 | 6,483,620 | 6,626,808 |  |  | 27,128,680 $
+UNDP | Education Sector Project | Grant | Y | complete | 71,191 |  |  |  |  |  | 71,191 $
+UNESCO | Enhancement of Involvement of Civil Society and NGO's in EFA Promotion | Grant | Y | complete | 2,000 |  |  |  |  |  | 2,000 $
+UNESCO | Inclusive Education for Street Children | Grant | Y | ongoing |  |  | 9,500 | 9,500 |  |  | 19,000 $
+UNESCO | Advocacy for Girls' Education in Rural Areas | Grant | Y | ongoing |  |  | 5,000 | 5,000 |  |  | 10,000 $
+UNESCO | Status on the Pre-School Education in the Republic of Tajiksitan | Grant | Y | complete |  | 10,000 |  |  |  |  | 10,000 $
+UNICEF | Various Education Sector Projects | Grant | Y | complete | 1,246,666 | 1,168,732 | 463,200 |  |  |  | 2,878,598 $
+World Bank | Education Modernization Program | Credit $13m Grant $7m GOT $3m | Y | ongoing |  | 2,000,000 | 2,000,000 | 7,000,000 | 7,000,000 | 5,000,000 | 23,000,000 $
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
 
-Funding Source/ Executing Agency | Project Title | Funding Type | DO Status | IP | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | Total
+Funding Source/ Executing Agency | Project Title | Funding Type | DO | IP Status | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 World Bank/German KfW, British DFID | Second Poverty Alleviation Project (Education portion) | Credit $1.2m GOT $.03m KfW $2m DFID $.5m | Y | ongoing | 100,000 | 900,000 | 900,000 | 1,300,000 | 800,000 | 4,000,000 $
 World Bank | Social Protection Reform Grant | Grant IDA/JSDF | Y | complete | 575,000 | 575,000 $
