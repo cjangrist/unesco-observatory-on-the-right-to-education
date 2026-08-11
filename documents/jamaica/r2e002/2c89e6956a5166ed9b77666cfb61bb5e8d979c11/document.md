@@ -24,6 +24,26 @@ HIVNationalPolicyBook.qxd  4/28/2004  9:34 AM  Page iii
 
 ## CONTENTS
 
+SITUATIONAL ANALYSIS 1
+Understanding HIV/AIDS 1
+THE LEGAL FRAMEWORK 4
+POLICY FRAMEWORK 7
+Rationale 8
+Goal 9
+Objectives 9
+Statements of Intent 9
+1. Non-discrimination and Equality 9
+2. HIV Testing, Admission and Appointment 10
+3. Attendance at an Institution by a Student
+with HIV/AIDS 11
+4. Disclosure and Confidentiality 11
+5. Education and HIV/AIDS 12
+6. A Safe Institutional Environment 14
+7. Prevention Measures Related to Play
+and Sports 16
+8. Refusal to Study or Work with a Student or
+Educator with HIV/AIDS 17
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -33,6 +53,13 @@ HIVNationalPolicyBook.qxd  4/28/2004  9:34 AM  Page iv
 iv Contents
 
 ..............................................................................................................................................
+
+IMPLEMENTATION 18
+CONCLUSION 20
+APPENDIX 1: Universal Precautions 21
+APPENDIX 2: Recommended Content and
+Associated Costing for the
+First Aid Kit 24
 
 [[END OF PAGE 4]]
 
@@ -46,7 +73,7 @@ Acquired Immune Deficiency Syndrome (AIDS) is a communicable disease that is cau
 
 ### Understanding HIV/AIDS
 
-I nternationally,  the  first  case  of  AIDS  was  diagnosed more than 20 years ago. In spite of extensive research, the origin of HIV has not been discovered.
+Internationally, the first case of AIDS was diagnosed more than 20 years ago. In spite of extensive research, the origin of HIV has not been discovered.
 
 The spread of HIV in Jamaica is mainly through sexual contact  between  men  and  women.  Additionally,  about one-third  of  all  babies  born  to  HIV-infected  women  are infected  during  pregnancy,  at  birth  or  through  breast feeding unless anti-retroviral medication is given to prevent HIV transmission from mother to child.
 
@@ -74,7 +101,7 @@ The  social  concerns  for  children  with  HIV/AIDS requires timely and focused
 
 The following important factors must guide the development of policies:
 
-- There being no cure for AIDS, the focus must be on prevention, via information, education and efforts at behaviour change.
+1) There being no cure for AIDS, the focus must be on prevention, via information, education and efforts at behaviour change.
 
 [[END OF PAGE 6]]
 
@@ -88,11 +115,11 @@ Situational Analysis
 
 ..............................................................................................................................................
 
-- Children infected with HIV may lead long and healthy lives. Like all children, they have a right to education.
+2) Children infected with HIV may lead long and healthy lives. Like all children, they have a right to education.
 
-- Children  living  with  HIV/AIDS  do  not  pose  a  health risk to others.
+3) Children living with HIV/AIDS do not pose a health risk to others.
 
-- HIV/AIDS is transmitted sexually and this is how most persons living with HIV/AIDS in Jamaica became HIV infected.  Children  may  also  become  HIV  infected through vertical transmission - from an HIV infected mother  during  pregnancy,  childbirth  or  breast  feeding.  HIV/AIDS  is  not  transmitted  by  casual  contact such as touching or hugging.
+4) HIV/AIDS is transmitted sexually and this is how most persons living with HIV/AIDS in Jamaica became HIV infected. Children may also become HIV infected through vertical transmission – from an HIV infected mother during pregnancy, childbirth or breast feeding. HIV/AIDS is not transmitted by casual contact such as touching or hugging.
 
 The social concerns for children with HIV/AIDS require timely and focused responses from educational institutions. Appropriate responses, including prevention and intervention strategies might necessitate policies to guide the management of the incidents of HIV/AIDS among students and others in the education sector.
 
@@ -104,13 +131,13 @@ HIVNationalPolicyBook.qxd  4/28/2004  9:34 AM  Page 4
 
 ## THE LEGAL FRAMEWORK
 
-T he Attorney General has provided a review of existing laws and made recommendations regarding the development of new legislation to address issues raised by the AIDS epidemic in Jamaica. These recommendations also serve  as  the  framework  for  developing  a  policy  for  the management of HIV/AIDS in schools.
+The Attorney General has provided a review of existing laws and made recommendations regarding the development of new legislation to address issues raised by the AIDS epidemic in Jamaica. These recommendations also serve as the framework for developing a policy for the management of HIV/AIDS in schools.
 
 The Attorney General's Department urges:
 
-- Care must be taken to balance the rights of the individuals with those of society, as well as the rights of the infected with those of the uninfected;
+1) Care must be taken to balance the rights of the individuals with those of society, as well as the rights of the infected with those of the uninfected;
 
-- Maximum  confidentiality,  protection  of  information related to the HIV/AIDS status of an individual is an essential public health measure. The issue of clear and specific  guidelines  with  respect  to  confidentiality, notification,  discrimination  and  laboratory  testing  is
+2) Maximum confidentiality, protection of information related to the HIV/AIDS status of an individual is an essential public health measure. The issue of clear and specific guidelines with respect to confidentiality, notification, discrimination and laboratory testing is
 
 4
 
@@ -126,15 +153,15 @@ The Legal Framework
 
 ..............................................................................................................................................
 
-- necessary  and  the  responsibility  of  the  relevant agency;
+necessary and the responsibility of the relevant agency;
 
-- Students infected by HIV/AIDS  should not  be excluded from institutions of learning on the basis of their  HIV/AIDS  status.  Nor  should  persons  be  suspended,  expelled  or  dismissed  on  account  of  their HIV/AIDS status or that of a relative;
+3) Students infected by HIV/AIDS should not be excluded from institutions of learning on the basis of their HIV/AIDS status. Nor should persons be suspended, expelled or dismissed on account of their HIV/AIDS status or that of a relative;
 
-- The term 'communicable' connotes the ability to be transmitted to others. HIV/AIDS is a communicable disease meaning that it is due to a specific infection agent (i.e. the Human Immunodefiency Virus) that is transmitted from an infected person to a susceptible person  by  way  of  sexual  intercourse,  exposure  to infected blood or blood products or from mother to child during pregnancy, childbirth or breast-feeding. There  is  no  evidence  that  HIV  can  be  transmitted through  casual  contact.  Therefore,  there  are  no grounds for exclusion of a child or an adult living with HIV/AIDS from attending school;
+4) The term ‘communicable’ connotes the ability to be transmitted to others. HIV/AIDS is a communicable disease meaning that it is due to a specific infection agent (i.e. the Human Immunodefiency Virus) that is transmitted from an infected person to a susceptible person by way of sexual intercourse, exposure to infected blood or blood products or from mother to child during pregnancy, childbirth or breast-feeding. There is no evidence that HIV can be transmitted through casual contact. Therefore, there are no grounds for exclusion of a child or an adult living with HIV/AIDS from attending school;
 
-- The  Public  Health  Act  speaks  of  communicable  diseases  as  being  infectious  by  nature.  The  Education Regulations, '1980' regulation 31(1) which stipulates that 'students shall be excluded from attending a public educational institution during any period in which he is known to be suffering from a communicable disease or infestation' , must be interpreted in light of the definition of the Public Health Act and the scientific evidence concerning the specific ways in which HIV is transmitted;
+5) The Public Health Act speaks of communicable diseases as being infectious by nature. The Education Regulations, “1980” regulation 31(1) which stipulates that “students shall be excluded from attending a public educational institution during any period in which he is known to be suffering from a communicable disease or infestation”, must be interpreted in light of the definition of the Public Health Act and the scientific evidence concerning the specific ways in which HIV is transmitted;
 
-- The  spirit  of  the  Education  Act  seeks  to  ensure  that students benefit from their educational experience to
+6) The spirit of the Education Act seeks to ensure that students benefit from their educational experience to
 
 [[END OF PAGE 9]]
 
@@ -150,11 +177,11 @@ National Policy for HIV/AIDS Management in Schools
 
 their  full  capacity.  The  Minister  of  Education, Youth and  Culture  is  empowered  to  ensure  that  students derive  that  benefit  by  sections  4(1)(g)  and  4(2)  and section 24 which allow the Minister to determine the need for special educational treatment on behalf of a student and to determine if a medical examination is necessary to verify the health status of a student;
 
-- Research has revealed no known case of transmission of the HIV virus through casual contact in the school setting.  Accordingly,  a  policy  should  discourage  all actions  to  segregate,  persecute  or  exclude  persons from educational institutions. Such policy should also preclude  inappropriate  disclosure  of  information which reveals the identity of infected persons;
+7) Research has revealed no known case of transmission of the HIV virus through casual contact in the school setting. Accordingly, a policy should discourage all actions to segregate, persecute or exclude persons from educational institutions. Such policy should also preclude inappropriate disclosure of information which reveals the identity of infected persons;
 
-- Parents, guardians or other relatives cannot be compelled to disclose information regarding the HIV/AIDS status of an individual. Where the status is known, the institution  is  obliged  to  protect  that  information. However, where it becomes necessary to ascertain the status  of  an  individual  to  secure  treatment,  application may be made to the Ministry of Education, Youth and Culture under Section 24 of the Education Act;
+8) Parents, guardians or other relatives cannot be compelled to disclose information regarding the HIV/AIDS status of an individual. Where the status is known, the institution is obliged to protect that information. However, where it becomes necessary to ascertain the status of an individual to secure treatment, application may be made to the Ministry of Education, Youth and Culture under Section 24 of the Education Act;
 
-- Exclusion  of,  or  imposition  of  restriction  on  an infected individual is justified only where that person poses a significant health risk.
+9) Exclusion of, or imposition of restriction on an infected individual is justified only where that person poses a significant health risk.
 
 Care must be taken to balance the rights of the individuals with those of society, as well as the rights of the infected with those of the uninfected.
 
@@ -166,7 +193,7 @@ HIVNationalPolicyBook.qxd  4/28/2004  9:34 AM  Page 7
 
 ## POLICY FRAMEWORK
 
-T he Ministry of Education, Youth and Culture acknowledges the seriousness of the HIV/AIDS epidemic and, recognising that international and local evidence suggests that there is a great deal that can be done to influence the course of the epidemic, is committed to minimising the social,  economic  and  developmental  consequences  of HIV/AIDS to the education system, and to providing leadership to implement an HIV/AIDS policy.
+The Ministry of Education, Youth and Culture acknowledges the seriousness of the HIV/AIDS epidemic and, recognising that international and local evidence suggests that there is a great deal that can be done to influence the course of the epidemic, is committed to minimising the social, economic and developmental consequences of HIV/AIDS to the education system, and to providing leadership to implement an HIV/AIDS policy.
 
 This policy applies to all educational institutions that enroll students in one or more grades and at all levels. It will  be  reviewed  within  a  five-year  period  to  take  into account any new developments in the methods of infection and treatment of persons with HIV/AIDS.
 
@@ -188,7 +215,7 @@ National Policy for HIV/AIDS Management in Schools
 
 ### RATIONALE
 
-Although there is no known case of the transmission of HIV  within  educational  institutions,  there  are  students with HIV/AIDS in schools. Children who acquire HIV prenatally  will,  with  adequate  medical  care,  reach  schoolgoing  age  and  with  HIV/AIDS  infected  educators,  form part of the population of educational institutions.
+Although there is no known case of the transmission of HIV within educational institutions, there are students with HIV/AIDS in schools. Children who acquire HIV prenatally will, with adequate medical care, reach school-going age and with HIV/AIDS infected educators, form part of the population of educational institutions.
 
 Within the context of early sexual activities, the risk of young  students  contracting  the  virus  is  increased. Similarly, the increased sexual activities among older students  and  the  evidence  of  unprotected  sexual  relations expose  older  students  and  members  of  the  educational community to the risk of infection through sexual transmission.
 
@@ -220,17 +247,17 @@ The goal of this policy is to promote effective prevention and care within the c
 
 The objectives of the policy are to:
 
-- l highlight  the  existence  of  the  HIV/AIDS  epidemic  in Jamaica and in particular the education system;
+- highlight the existence of the HIV/AIDS epidemic in Jamaica and in particular the education system;
 
-- l provide guidelines for institutions on the treatment of students and school personnel infected with HIV/AIDS;
+- provide guidelines for institutions on the treatment of students and school personnel infected with HIV/AIDS;
 
-- l promote the use of universal precautions in all potentially infectious situations;
+- promote the use of universal precautions in all potentially infectious situations;
 
-- l ensure the provision of systematic and consistent information and educational material on HIV/AIDS to students and school personnel throughout the system;
+- ensure the provision of systematic and consistent information and educational material on HIV/AIDS to students and school personnel throughout the system;
 
-- l reduce the spread of HIV infection;
+- reduce the spread of HIV infection;
 
-- l instill  non-discriminatory  attitudes  towards  persons with HIV/AIDS.
+- instill non-discriminatory attitudes towards persons with HIV/AIDS.
 
 ### STATEMENTS OF INTENT
 
@@ -254,9 +281,7 @@ National Policy for HIV/AIDS Management in Schools
 
 - 1.3  Any special measure in respect of a student or staff member  with  HIV  should  be  fair  and  justifiable  in light  of  medical  facts;  established  legal  procedures and principles; ethical guidelines; the best interest of persons with HIV/AIDS; institutional conditions; and the best interest of other students and school personnel.
 
-- 1.4  To  prevent  discrimination,  all  students  and  school personnel  should  be  educated  about  fundamental human  rights  as  contained  in  the  Constitution  of Jamaica and the UN Convention on the Rights of the Child to which Jamaica is a signatory.
-
-]
+- 1.4 To prevent discrimination, all students and school personnel should be educated about fundamental human rights as contained in the Constitution of Jamaica and the UN Convention on the Rights of the Child to which Jamaica is a signatory.
 
 #### 2. HIV/AIDS Testing, Admission and Appointment
 
@@ -332,13 +357,13 @@ HIVNationalPolicyBook.qxd  4/28/2004  9:34 AM  Page 13
 
 mented at all schools and institutions for all students and school personnel. Age-appropriate education on HIV/AIDS  must  form  part  of  the  curriculum  for  all students, and should be integrated in the HFLE programme  for  pre-primary,  primary  and  secondary school students. A holistic programme for Health and Family  Life  Education  and  HIV/AIDS  education should encourage disclosure. This should include the following:
 
-- providing information on HIV/AIDS and developing the life skills necessary for the prevention of HIV transmission;
+i. providing information on HIV/AIDS and developing the life skills necessary for the prevention of HIV transmission;
 
-- emphazing  information  on  appropriate  prevention  and  avoidance  measures,  including  abstinence  from  sexual  intercourse,  the  use  of  condoms,  faithfulness  to  one's  partner,  obtaining prompt medical treatment for sexually transmitted  diseases,  avoiding  traumatic  contact  with blood,  and  the  application  of  universal  precautions with respect to first aid;
+ii. emphazing information on appropriate prevention and avoidance measures, including abstinence from sexual intercourse, the use of condoms, faithfulness to one’s partner, obtaining prompt medical treatment for sexually transmitted diseases, avoiding traumatic contact with blood, and the application of universal precautions with respect to first aid;
 
-- providing information on the role of drugs, sexual abuse  and  violence,  and  sexually  transmitted infections (STIs) in the transmission of HIV, and empowering students to deal with these issues;
+iii. providing information on the role of drugs, sexual abuse and violence, and sexually transmitted infections (STIs) in the transmission of HIV, and empowering students to deal with these issues;
 
-- encouraging students to make use of health care, counselling and support services (including services  related  to  reproductive  health  care  and  the prevention and treatment of sexually transmitted infections) offered by community service organisations and other disciplines;
+iv. encouraging students to make use of health care, counselling and support services (including services related to reproductive health care and the prevention and treatment of sexually transmitted infections) offered by community service organisations and other disciplines;
 
 [[END OF PAGE 17]]
 
@@ -352,11 +377,11 @@ National Policy for HIV/AIDS Management in Schools
 
 ..............................................................................................................................................
 
-- teaching students how to behave towards persons with  HIV/AIDS,  raising  awareness  of  prejudice and stereotypes relating to HIV/AIDS;
+v. teaching students how to behave towards persons with HIV/AIDS, raising awareness of prejudice and stereotypes relating to HIV/AIDS;
 
-- cultivating  an  enabling  environment  and  a  culture of non-discrimination towards persons with HIV/AIDS; and
+vi. cultivating an enabling environment and a culture of non-discrimination towards persons with HIV/AIDS; and
 
-- inculcating from an early age, basic first aid principles  including  how  to  deal  with  bleeding  with the necessary safety precautions.
+vii. inculcating from an early age, basic first aid principles including how to deal with bleeding with the necessary safety precautions.
 
 - 5.2  Education and information regarding HIV/AIDS must be given in an accurate and scientific manner and in language and terms that are understandable. Participatory  methods  of  learning  including  games,  role play and drama are more effective. Children should be encouraged to ask questions and to expect reasonable, comprehensible and appropriate answers.
 
@@ -366,7 +391,7 @@ National Policy for HIV/AIDS Management in Schools
 
 - 6.2 All  schools  and  institutions  will  provide  training  in first  aid  for  students,  teachers  and  staff  and  require the availability and maintenance of at least two first aid kits, each of which should contain at least the following:
 
-- two  large  and  two  medium  pairs  of  serviceable disposable latex gloves;
+a. two large and two medium pairs of serviceable disposable latex gloves;
 
 [[END OF PAGE 18]]
 
@@ -378,15 +403,15 @@ HIVNationalPolicyBook.qxd  4/28/2004  9:34 AM  Page 15
 
 ..............................................................................................................................................
 
-- two  large  and  two  medium  pairs  of  serviceable household  rubber  gloves  for  handling  bloodsoaked  material  in  specific  instances  (for  example,  when  broken  glass  makes  the  use  of  latex gloves inappropriate);
+b. two large and two medium pairs of serviceable household rubber gloves for handling blood-soaked material in specific instances (for example, when broken glass makes the use of latex gloves inappropriate);
 
-- absorbent material, waterproof plasters, disinfectant, pairs of scissors, cotton wool, gauze tape, tissues,  containers  for  water  and  a  resuscitation mouth piece or similar device with which mouthto-mouth  resuscitation  can  be  applied  without any contact being made with blood or other body fluids.
+c. absorbent material, waterproof plasters, disinfectant, pairs of scissors, cotton wool, gauze tape, tissues, containers for water and a resuscitation mouth piece or similar device with which mouth-to-mouth resuscitation can be applied without any contact being made with blood or other body fluids.
 
-Adequate  barriers  can  also  be  established  by  using  less sophisticated devices such as:
+Adequate barriers can also be established by using less sophisticated devices such as:
 
-- unbroken  plastic  bags  on  hands  where  latex  or rubber gloves are not available;
+a. unbroken plastic bags on hands where latex or rubber gloves are not available;
 
-- common  household  bleach  for  use  as  disinfectant,  diluted  one  part  bleach  to  10  parts  water (1:10 solution) made up as needed.
+b. common household bleach for use as disinfectant, diluted one part bleach to 10 parts water (1:10 solution) made up as needed.
 
 - 6.4 Where  the  first  aid  kit  is  not  readily  accessible  the teaching area will be equipped with a pair of latex or household rubber gloves.
 
@@ -418,9 +443,9 @@ National Policy for HIV/AIDS Management in Schools
 
 - 7.2  Adequate wound management, that is, the application of universal precautions, will be practised to contain the risk of HIV transmission during contact play and contact sport.
 
-- Students and teachers with open wounds, sores, lesions,  grazes  of  the  skin  will  not  be  allowed  to participate in contact sports.
+i. Students and teachers with open wounds, sores, lesions, grazes of the skin will not be allowed to participate in contact sports.
 
-- If bleeding occurs during contact play or contact sport,  the  injured  player  must  be  removed  from
+ii. If bleeding occurs during contact play or contact sport, the injured player must be removed from
 
 [[END OF PAGE 20]]
 
@@ -452,7 +477,7 @@ HIVNationalPolicyBook.qxd  4/28/2004  9:34 AM  Page 18
 
 ## IMPLEMENTATION
 
-W hile  overall  responsibility  for  implementation  of this  policy  rests  with  the  Ministry  of  Education, Youth  and  Culture,  all  educational  institutions  should develop and implement their HIV/AIDS action plans consistent with the Education Act to give operational effect to this policy.
+While overall responsibility for implementation of this policy rests with the Ministry of Education, Youth and Culture, all educational institutions should develop and implement their HIV/AIDS action plans consistent with the Education Act to give operational effect to this policy.
 
 Major role-players in the wider community (for example,  religious  and  community leaders, representatives of the medical or health care professions) should be involved in development and implementation of this plan.
 
@@ -486,7 +511,7 @@ HIVNationalPolicyBook.qxd  4/28/2004  9:34 AM  Page 20
 
 ## CONCLUSION
 
-T he spread of the HIV/AIDS epidemic in Jamaica can only  be  controlled  through  interventions  which address the behaviour of the populace.
+The spread of the HIV/AIDS epidemic in Jamaica can only be controlled through interventions which address the behaviour of the populace.
 
 Special attention must be paid to children and young people  as  they  are  not  only  at  particular  risk,  but  their responsible  sexual  behaviour  is  essential  in  advancing HIV/AIDS prevention and containment.
 
@@ -508,11 +533,11 @@ HIVNationalPolicyBook.qxd  4/28/2004  9:34 AM  Page 21
 
 ### UNIVERSAL PRECAUTIONS
 
-- 1.1  The basis for advocating the consistent application of universal precautions lies in the assumption that in situations of potential exposure to blood or body fluids,  all  persons  are  potentially  HIV-infected  and  all blood  should  be  treated  as  such.  All  blood,  open wounds,  sores,  breaks  in  the  skin,  grazes  and  open skin lesions, as well as all body fluids and excretions which could be stained or contaminated with blood (for  example,  tears,  saliva,  mucus,  phlegm,  urine, vomit, faeces and pus) should, therefore, be treated as potentially infectious.
+1.1 The basis for advocating the consistent application of universal precautions lies in the assumption that in situations of potential exposure to blood or body fluids, all persons are potentially HIV-infected and all blood should be treated as such. All blood, open wounds, sores, breaks in the skin, grazes and open skin lesions, as well as all body fluids and excretions which could be stained or contaminated with blood (for example, tears, saliva, mucus, phlegm, urine, vomit, faeces and pus) should, therefore, be treated as potentially infectious.
 
-- Blood, especially in large spills such as from nosebleeds, and old blood or blood stains, should be handled with extreme caution.
+a. Blood, especially in large spills such as from nosebleeds, and old blood or blood stains, should be handled with extreme caution.
 
-- Skin  exposed  accidentally  to  blood  should  be washed  immediately  with  soap  and  running water.
+b. Skin exposed accidentally to blood should be washed immediately with soap and running water.
 
 21
 
@@ -528,17 +553,17 @@ National Policy for HIV/AIDS Management in Schools
 
 ..............................................................................................................................................
 
-- All  bleeding  wounds,  sores,  breaks  in  the  skin, grazes  and  open  skin  lesions  should  ideally  be cleaned immediately with running water and/or other antiseptics.
+c. All bleeding wounds, sores, breaks in the skin, grazes and open skin lesions should ideally be cleaned immediately with running water and/or other antiseptics.
 
-- If there is a biting or scratching incident where the skin is broken, the wound should be washed and cleansed under running water, dried, treated with antiseptic  and  covered  with  a  waterproof  dressing.
+d. If there is a biting or scratching incident where the skin is broken, the wound should be washed and cleansed under running water, dried, treated with antiseptic and covered with a waterproof dressing.
 
-- Blood splashes to the face (mucous membranes of eyes, nose or mouth) should be flushed with running water for at least three minutes. Proper facilities should be made available for the disposal of infectious waste.
+e. Blood splashes to the face (mucous membranes of eyes, nose or mouth) should be flushed with running water for at least three minutes. Proper facilities should be made available for the disposal of infectious waste.
 
-- 1.2  All open wounds, sores, breaks in the skin, grazes and open skin lesions should at all times be covered completely and securely with a non-porous or waterproof dressing or plaster so that there is no risk of exposure to blood.
+1.2 All open wounds, sores, breaks in the skin, grazes and open skin lesions should at all times be covered completely and securely with a non-porous or waterproof dressing or plaster so that there is no risk of exposure to blood.
 
-- 1.3  Cleansing and washing should always be done with running water and not in containers of water. Where running tap water is not available, containers should be used to pour water over the area to be cleansed. Schools without running water should keep a supply, e.g., in a 25-litre drum, on hand specifically for use in emergencies. This water can be kept fresh for a long period of time by adding bleach.
+1.3 Cleansing and washing should always be done with running water and not in containers of water. Where running tap water is not available, containers should be used to pour water over the area to be cleansed. Schools without running water should keep a supply, e.g., in a 25-litre drum, on hand specifically for use in emergencies. This water can be kept fresh for a long period of time by adding bleach.
 
-- 1.4  All  persons  attending  to  blood  spills,  open  wounds, sores,  breaks  in  the  skin,  grazes,  open  skin  lesions, body  fluids  and  excretions  should  wear  protective
+1.4 All persons attending to blood spills, open wounds, sores, breaks in the skin, grazes, open skin lesions, body fluids and excretions should wear protective
 
 [[END OF PAGE 26]]
 
@@ -554,15 +579,15 @@ Universal Precautions
 
 latex gloves or plastic bags over their hands to effectively eliminate the risk of HIV transmission. Bleeding can be managed by compression with material that will absorb the blood, e.g. a towel.
 
-- 1.5  If a surface has been contaminated with body fluids and  excretions  which  could  be  stained  or  contaminated with blood (for instance, tears, saliva, mucus, phlegm,  urine,  vomit,  faeces  and  pus),  that  surface should  be  cleaned  with  running  water  and  fresh, clean household bleach (1:10 solution), and paper or disposable  cloths.  The  person  doing  the  cleaning must wear protective gloves or plastic bags.
+1.5 If a surface has been contaminated with body fluids and excretions which could be stained or contaminated with blood (for instance, tears, saliva, mucus, phlegm, urine, vomit, faeces and pus), that surface should be cleaned with running water and fresh, clean household bleach (1:10 solution), and paper or disposable cloths. The person doing the cleaning must wear protective gloves or plastic bags.
 
-- 1.6  Blood-contaminated material should be sealed in a plastic bag and incinerated.
+1.6 Blood-contaminated material should be sealed in a plastic bag and incinerated.
 
-- 1.7 Tissues and toilet paper can readily be flushed down a toilet.
+1.7 Tissues and toilet paper can readily be flushed down a toilet.
 
-- 1.8 If  instruments  (for  instance  scissors)  become  contaminated  with  blood  or  other  body  fluids,  they should be washed and placed in a strong household bleach  solution  for  at  least  one  hour  before  drying and re-using.
+1.8 If instruments (for instance scissors) become contaminated with blood or other body fluids, they should be washed and placed in a strong household bleach solution for at least one hour before drying and re-using.
 
-- 1.9 Needles  and  syringes  should  not  be  re-used,  but should be safely discarded.
+1.9 Needles and syringes should not be re-used, but should be safely discarded.
 
 The basis for advocating the consistent application of universal precautions lies in the assumption that in situations of potential exposure to blood or body fluids, all persons are potentially HIV infected and all blood should be treated as such.
 
