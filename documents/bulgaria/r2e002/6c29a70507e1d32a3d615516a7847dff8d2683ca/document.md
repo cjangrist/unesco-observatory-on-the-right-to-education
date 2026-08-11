@@ -14,6 +14,35 @@ STRATEGY FOR DEVELOPMENT OF HIGHER EDUCATION IN THE REPUBLIC OF BULGARIA FOR THE
 
 ## TABLE OF CONTENTS
 
+I. INTRODUCTION ....................................................................................................................................5
+1.1 MOTIVATION ...................................................................................................ERROR! BOOKMARK NOT DEFINED.
+1.2 STRATEGY OBJECTIVES .................................................................................................................................... 6
+II. ANALYSIS OF THE HIGHER EDUCATION SYSTEM STATE..........................................................6
+2.1 DIFFICULT ACCESS TO HE FOR SOME SOCIAL GROUPS AND LOW SHARE OF HIGHER EDUCATION GRADUATES AMONG PEOPLE AT WORKING AGE ...................................................................................................................................... 11
+2.2 DIFFICULTIES FOR THE QUALITY AND COMPATIBILITY OF THE HIGHER EDUCATION WITH THE EUROPEAN HE SYSTEMS ..... 11
+2.3 WEAK LINKS BETWEEN THE HIGHER EDUCATION AND THE NEEDS OF BUSINESSES AND PUBLIC INSTITUTIONS ................ 13
+2.4 INSUFFICIENT LINK BETWEEN TRAINING AND RESEARCH ...................................................................................... 14
+2.5 IMPROVEMENT OF THE MANAGEMENT SYSTEM OF HIGHER EDUCATION INSTITUTIONS AND THE HEIS NETWORK. CLARIFICATION OF THE HEIS TYPES AND THE EDUCATIONAL AND QUALIFICATION DEGREES ................................................... 15
+2.6 DISATVANTAGES OF THE CURRENT FUNDING MODEL .......................................................................................... 16
+2.7 PROBLEMS ASSOCIATED WITH ATTRACTING AND CAREER ADVANCEMENT OF LECTURERS ........................................... 17
+2.8 INADEQUATE OPPORTUNITIES FOR LIFELONG LEARNING ...................................................................................... 18
+2.9 CHANGES IN THE HIGHER EDUCATION SYSTEM .................................................................................................. 18
+2.10 RISKS AND BARRIERS TO THE STRATEGIC REFORMS ........................................................................................ 20
+2.11 SWOT ANALYSIS OF THE STATE OF THE HIGHER EDUCATION SYSTEM................................................................ 23
+III. VISION FOR THE DEVELOPMENT OF HIGHER EDUCATION...................................................25
+IV. GUIDING PRINCIPLES IN THE STARTEGY IMPLEMENTATION..............................................25
+V. STRATEGY OBJECTIVES..................................................................................................................26
+VI. ACTIVITIES AND MEASURES FOR ACHIEVING THE SPECIFIC OBJECTIVES ......................27
+6.1 Improving Access and Increasing the Share of Graduates......................................................................... 27
+6.2 Significantly Improving the Quality of Higher Education and the Compatibility with the European HE Systems in Order to Occupy a Dignified Place in EHEA................................................................................ 27
+6.3 Building a Sustainable and Effective Link between Higher Education and the Labour Market, and Achieving Dynamic Compliance of Demand and Supply of Specialists with Higher Education. .................. 28
+6.4 Promoting the Research Activities in HEIs and the Development of Innovations Oriented towards the Market Economy.......................................................................................................................................... 29
+6.5 Upgrading the Higher Education Institutions Management System and Clear Definition of the HEIs Types and the Educational and Qualification Degrees................................................................................ 30
+6.6 Increasing the Funds for Higher Education and Science and the Efficiency of Their Use by Implementing an Advanced Model of Funding............................................................................................ 31
+6.7 Overcoming the Negative Trends in Career Advancement of Lecturers in HEIs, and Promoting the Best Ones..................................................................................................................................................... 31
+6.8 Expanding and Strengthening the Lifelong Learning Network; Broad Application of the Various Electronic Forms forDistance Learning ........................................................................................................ 32
+VII. EXPECTED RESULTS FROM THE STRATEGY IMPLEMENTATION .......................................33
+
 2
 
 [[END OF PAGE 2]]
@@ -196,7 +225,7 @@ This Strategy was developed following a detailed study of the Bulgarian and Euro
 
  Bucharest Communiqué ( 2012): "Making the Most of Our Potential: Consolidating the European Higher Education Area";
 
- Communication from the European Commission to  the  European  Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on " European higher education in the world ' (July, 2013);
+ Communication from the European Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on "European higher education in the world” (July, 2013);
 
  Materials from the regular meeting of the Education Committee, held on 3 and 4 October 2013.
 
@@ -208,7 +237,7 @@ This Strategy was developed following a detailed study of the Bulgarian and Euro
 
  National Scientific Research Strategy - 2020;
 
- Innovation Strategy for Smart Specialisation a precondition for the programming period 2014-2020 under operational programs "Science and Education for Smart Growth" and "Innovation and Competitiveness".
+ Innovation Strategy for Smart Specialisation – a precondition for the programming period 2014-2020 under operational programs "Science and Education for Smart Growth" and "Innovation and Competitiveness".
 
 Documents  of  the  Bologna  Process  and  World  Bank  developments  of  independent analytical and information centres regarding the status and prospects of higher education (HE) in Bulgaria have also been used. A comprehensive review has been made of the changes in the  structure  of  students  enrolled,  studying  at  and  graduating  Bulgarian  higher  education institutions  (HEI)  for  the  2009  -  2013  period,  and  SWOT  analysis  of  the  situation  at  the moment.
 
@@ -216,7 +245,7 @@ Priority guidelines and urgent measures for accelerated modernization and intern
 
 A detailed Action  Plan for  2014-2020  is  enclosed  to  the  Strategy,  which  proposes specific measures for the implementation of the reforms planned.
 
-The Strategy for Higher Education Development is  coordinated with the project of Operational  Programme "Science  and  Education  for  Smart  Growth  -  2020" ,  and  with Partnership Agreement between the Republic of Bulgaria and EC for the new programming period 2014-2020.
+The Strategy for Higher Education Development is coordinated with the project of Operational Programme "Science and Education for Smart Growth – 2020", and with Partnership Agreement between the Republic of Bulgaria and EC for the new programming period 2014-2020.
 
 5
 
@@ -240,7 +269,7 @@ b/ as an engine for dynamic development of the economy and building a society ba
 
 As a result of the analysis of the current situation, the challenges and needs of higher education, the Strategy outlines the key priorities, which will be linked to the specific policies and management measures in the field of higher education in the 2014-2020period .
 
-The Strategy describes  the  medium-  and  long-term  goals  to  achieve  effective  longterm results. The objective assessment of the current situation of the higher education system in Bulgaria shows that only consistent application of the elected model for modernization and management  is  a  guarantee  for  success.  It  is  particularly  important  that  decisions  about changes are taken without interruption and delay, in line with the European development and taking into account the global trends.
+The Strategy describes the medium- and long-term goals to achieve effective long-term results. The objective assessment of the current situation of the higher education system in Bulgaria shows that only consistent application of the elected model for modernization and management is a guarantee for success. It is particularly important that decisions about changes are taken without interruption and delay, in line with the European development and taking into account the global trends.
 
 ## 1.3 II. ANALYSIS OF THE HIGHER EDUCATION SYSTEM STATE
 
@@ -260,9 +289,11 @@ IN THE REPUBLIC OF BULGARIA FOR THE 2014 - 2020 PERIOD
 
 These and other trends in the global and European development affected Bulgaria after 1990 and especially after its accession to the EU in 2007. In addition, the higher education in Bulgaria also faces some country-specific problems.
 
-The higher education system in Bulgaria comprises 51 higher education institutions (37  state  and  14  private),  including  44  universities  and  specialized  higher  schools  and  7 independent  colleges. This  network  significantly  exceeds  the  average  indicators  of  a number of EU member states comparable in population and territory (Figure 1) .
+The higher education system in Bulgaria comprises 51 higher education institutions (37 state and 14 private), including 44 universities and specialized higher schools and 7 independent colleges. This network significantly exceeds the average indicators of a number of EU member states comparable in population and territory (Figure 1).
 
-STATE | NUMBER OF HIGHER EDUCATION INSTITUTIONS (Source: International Association of Universities - IAU, 2014) | NUMBER OF POPULATION (in thous.) (Source: Eurostat, 2014)
+Figure 1: Number of universities and number of population in the EU member states
+
+STATE | NUMBER OF HIGHER EDUCATION INSTITUTIONS (Source: International Association of Universities – IAU, 2014) | NUMBER OF POPULATION (in thous.) (Source: Eurostat, 2014)
 --- | --- | ---
 Austria | 53 | 8,507.786
 Belgium | 68 | 11,203.992
@@ -294,9 +325,7 @@ Czech Republic | 47 | 10,512.419
 Sweden | 40 | 9,644.864
 Total for EU-28 | 2,482 | 507,416.607
 
-Figure 1: Number of universities and number of population in the EU member states
-
-The  expansion  of  the  higher  educational  institutions,  however,  has  not  influenced favourably the quality and  efficiency of education; the system  slowly  reacts to the dynamically  changing  requirements  for  qualification,  motivation  and  professional  career  of higher education specialists. The educational infrastructure of the HEI - buildings, specialized rooms and labs, centers for practical training, etc. - is developing with a comparatively slow pace.
+The expansion of the higher educational institutions, however, has not influenced favourably the quality and efficiency of education; the system slowly reacts to the dynamically changing requirements for qualification, motivation and professional career of higher education specialists. The educational infrastructure of the HEI – buildings, specialized rooms and labs, centers for practical training, etc. – is developing with a comparatively slow pace.
 
 7
 
@@ -354,48 +383,49 @@ Eurostat, 2012)
 
 [[START OF PAGE 10]]
 
-1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 2011 | 2012
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-EU (28 countries) | : | : | : | : | : | : | : | : | : | 1.83 | 1.85 | 1.86 | 1.87 | 1.86 | 1.82 | 1.82 | 1.84 | 1.91 | 2.01 | 1.84 | 2 | 2.04 | 2.06
-EU (27 countries) | : | : | : | : | : | 1.79 | 1.78 | 1.77 | 1.78 | 1.84 | 1.85 | 1.87 | 1.87 | 1.86 | 1.83 | 1.82 | 1.84 | 1.84 | 1.91 | 2.01 | 2.05 | 2.06 | 2.01
-Euro area (17 countries) | : | : | : | : | : | 1.77 | 1.76 | 1.76 | 1.77 | 1.82 | 1.84 | 1.86 | 1.88 | 1.87 | 1.85 | 1.84 | 1.87 | 1.88 | 1.96 | 2.07 | 2.12 | 2.14
-Belgium | : | 1.62 | : | 1.7 | 1.69 | 1.67 | 1.76 | 1.83 | 1.86 | 1.93 | 1.97 | 2.07 | 1.94 | 1.87 | 1.86 | 1.83 | 1.86 | 1.89 | 1.97 | 2.06 2.03 | 2.21 | 2.24
-Bulgaria | 2.39 | 1.53 | 1.64 | 1.18 | 0.88 | 0.62 | 0.58 | 0.52 | 0.56 | 0.55 | 0.51 | 0.46 | 0.48 | 0.48 | 0.49 | 0.46 | 0.46 | 0.45 | 0.47 | 2.1 0.6 | 0.57 | 0.64 | 0.53
-Czech Republic | : | : | : | 1.08 | 0.98 | 0.91 | 0.92 | 1.03 | 1.11 | 1.1 | 1.17 | 1.16 | 1.15 | 1.2 | 1.2 | 1.22 | 1.29 | 1.37 | 1.3 | 1.35 | 1.64 | 1.88 | 1.4
+Figure 3: Expenditures on research and development for the period 1990-2012 in percentage GDP (Source: Eurostat, 2013)
+
+ | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+EU (28 countries) | : | : | : | : | : | : | : | : | : | 1.83 | 1.85 | 1.86 | 1.87 | 1.86 | 1.82 | 1.82 | 1.84 | 1.84 | 1.91 | 2.01 | 2 | 2.04 | 2.06
+EU (27 countries) | : | : | : | : | : | 1.79 | 1.78 | 1.77 | 1.78 | 1.84 | 1.85 | 1.87 | 1.87 | 1.86 | 1.83 | 1.82 | 1.84 | 1.84 | 1.91 | 2.01 | 2.01 | 2.05 | 2.06
+Euro area (17 countries) | : | : | : | : | : | 1.77 | 1.76 | 1.76 | 1.77 | 1.82 | 1.84 | 1.86 | 1.88 | 1.87 | 1.85 | 1.84 | 1.87 | 1.88 | 1.96 | 2.06 | 2.07 | 2.12 | 2.14
+Belgium | : | 1.62 | : | 1.7 | 1.69 | 1.67 | 1.76 | 1.83 | 1.86 | 1.93 | 1.97 | 2.07 | 1.94 | 1.87 | 1.86 | 1.83 | 1.86 | 1.89 | 1.97 | 2.03 | 2.1 | 2.21 | 2.24
+Bulgaria | 2.39 | 1.53 | 1.64 | 1.18 | 0.88 | 0.62 | 0.58 | 0.52 | 0.56 | 0.55 | 0.51 | 0.46 | 0.48 | 0.48 | 0.49 | 0.46 | 0.46 | 0.45 | 0.47 | 0.53 | 0.6 | 0.57 | 0.64
+Czech Republic | : | : | : | 1.08 | 0.98 | 0.91 | 0.92 | 1.03 | 1.11 | 1.1 | 1.17 | 1.16 | 1.15 | 1.2 | 1.2 | 1.22 | 1.29 | 1.37 | 1.3 | 1.35 | 1.4 | 1.64 | 1.88
 Denmark | 1.55 | 1.61 | 1.64 | 1.72 | : | 1.82 | 1.84 | 1.92 | 2.04 | 2.18 | 2.24 | 2.39 | 2.51 | 2.58 | 2.48 | 2.46 | 2.48 | 2.58 | 2.85 | 3.16 | 3 | 2.98 | 2.99
-Germany | : | 2.47 | 2.35 | 2.28 | 2.18 | 2.19 | 2.2 | 2.24 | 2.28 | 2.41 | 2.47 | 2.47 | 2.5 | 2.54 | 2.5 | 2.51 | 2.54 | 2.53 | 2.69 | 2.82 | 2.89 | 2.92 | 2.8
-Estonia | : | : | : | : | : | : | : | : | 0.57 | 0.68 | 0.6 | 0.7 | 0.72 | 0.77 | 0.85 | 0.93 | 1.08 | 1.28 | 1.41 | 1.62 | 2.37 | 2.18 | 1.13
+Germany | : | 2.47 | 2.35 | 2.28 | 2.18 | 2.19 | 2.2 | 2.24 | 2.28 | 2.41 | 2.47 | 2.47 | 2.5 | 2.54 | 2.5 | 2.51 | 2.54 | 2.53 | 2.69 | 2.82 | 2.8 | 2.89 | 2.92
+Estonia | : | : | : | : | : | : | : | : | 0.57 | 0.68 | 0.6 | 0.7 | 0.72 | 0.77 | 0.85 | 0.93 | 1.13 | 1.08 | 1.28 | 1.41 | 1.62 | 2.37 | 2.18
 Ireland | : | : | : | : | : | 1.25 | 1.3 | 1.27 | 1.24 | 1.18 | 1.11 | 1.09 | 1.1 | 1.16 | 1.23 | 1.25 | 1.25 | 1.28 | 1.45 | 1.69 | 1.69 | 1.66 | 1.72
-Greece | : | : | : | : | : | 0.49 | : | 0.51 | : | 0.67 | : | 0.58 | : | 0.57 | 0.55 | 0.6 | 0.59 | : | : | 0.67 | 0.69 | 0.6 | :
-Spain | 0.82 | 0.84 | 0.88 | 0.88 | 0.81 | 0.79 | 0.81 | 0.8 | 0.87 | 0.86 | 0.91 | 0.92 | 0.99 | 1.05 | 1.06 | 1.12 | 1.2 | 1.27 | 1.35 | 1.39 | 1.36 | 1.3 | 1.4
+Greece | : | : | : | : | : | 0.49 | : | 0.51 | : | 0.67 | : | 0.58 | : | 0.57 | 0.55 | 0.6 | 0.59 | 0.6 | : | : | : | 0.67 | 0.69
+Spain | 0.82 | 0.84 | 0.88 | 0.88 | 0.81 | 0.79 | 0.81 | 0.8 | 0.87 | 0.86 | 0.91 | 0.92 | 0.99 | 1.05 | 1.06 | 1.12 | 1.2 | 1.27 | 1.35 | 1.39 | 1.4 | 1.36 | 1.3
 France | 2.32 | 2.32 | 2.33 | 2.37 | 2.31 | 2.28 | 2.27 | 2.19 | 2.14 | 2.16 | 2.15 | 2.2 | 2.24 | 2.18 | 2.16 | 2.11 | 2.11 | 2.08 | 2.12 | 2.27 | 2.24 | 2.25 | 2.26
-Croatia | : | : | : | : | : | : | : | : | : | : | : | : | 0.96 | 0.96 | 1.05 | 0.87 | 0.75 | 0.9 | 0.85 | 0.75 | 0.76 | 0.75 | 0.8
-Italy | 1.25 | 1.19 | 1.15 | 1.09 | 1.02 | 0.97 | 0.98 | 1.02 | 1.04 | 1.02 | 1.04 | 1.08 | 1.12 | 1.1 | 1.09 | 1.09 | 1.17 | 1.21 | 1.26 | 1.26 | 1.25 | 1.27 | 1.13
-Cyprus | : | : | : | : | : | : | : | : | 0.22 | 0.24 | 0.25 | 0.26 | 0.3 | 0.35 | 0.37 | 0.41 | 0.43 | 0.44 | 0.49 | 0.5 | 0.47 | 0.43 | 0.5
+Croatia | : | : | : | : | : | : | : | : | : | : | : | : | 0.96 | 0.96 | 1.05 | 0.87 | 0.75 | 0.8 | 0.9 | 0.85 | 0.75 | 0.76 | 0.75
+Italy | 1.25 | 1.19 | 1.15 | 1.09 | 1.02 | 0.97 | 0.98 | 1.02 | 1.04 | 1.02 | 1.04 | 1.08 | 1.12 | 1.1 | 1.09 | 1.09 | 1.13 | 1.17 | 1.21 | 1.26 | 1.26 | 1.25 | 1.27
+Cyprus | : | : | : | : | : | : | : | : | 0.22 | 0.24 | 0.25 | 0.26 | 0.3 | 0.35 | 0.37 | 0.41 | 0.43 | 0.44 | 0.43 | 0.49 | 0.5 | 0.5 | 0.47
 Latvia | : | : | : | 0.44 | 0.38 | 0.47 | 0.42 | 0.38 | 0.39 | 0.36 | 0.45 | 0.41 | 0.42 | 0.38 | 0.42 | 0.56 | 0.7 | 0.6 | 0.62 | 0.46 | 0.6 | 0.7 | 0.66
-Lithuania | : | : | : | : | 0.52 | 0.43 | 0.49 | 0.54 | 0.54 | 0.5 | 0.59 | 0.67 | 0.66 | 0.67 | 0.75 | 0.75 | 0.79 | 0.81 | 0.84 | 0.79 | 0.9 | 0.8 | 0.91
+Lithuania | : | : | : | : | 0.52 | 0.43 | 0.49 | 0.54 | 0.54 | 0.5 | 0.59 | 0.67 | 0.66 | 0.67 | 0.75 | 0.75 | 0.79 | 0.81 | 0.8 | 0.84 | 0.79 | 0.91 | 0.9
 Luxembourg | : | : | : | : | : | : | : | : | : | : | 1.65 | : | : | 1.65 | 1.63 | 1.56 | 1.66 | 1.58 | 1.66 | 1.74 | 1.51 | : | :
-Hungary | : | 1.07 | 1.05 | 0.98 | 0.89 | 0.72 | 0.64 | 0.71 | 0.67 | 0.68 | 0.81 | 0.93 | 1 | 0.94 | 0.88 | 0.94 | 1.01 | 1 | 0.98 1.17 | 1.17 | 1.22 | 1.3
+Hungary | : | 1.07 | 1.05 | 0.98 | 0.89 | 0.72 | 0.64 | 0.71 | 0.67 | 0.68 | 0.81 | 0.93 | 1 | 0.94 | 0.88 | 0.94 | 1.01 | 0.98 | 1 | 1.17 | 1.17 | 1.22 | 1.3
 Malta | : | : | : | : | : | : | : | : | : | : | : | : | 0.25 | 0.25 | 0.51 | 0.55 | 0.6 | 0.57 | 0.55 | 0.53 | 0.66 | 0.72 | 0.84
 Netherlands | 2.07 | 1.96 | 1.89 | 1.91 | 1.95 | 1.97 | 1.98 | 1.99 | 1.9 | 1.98 | 1.94 | 1.93 | 1.88 | 1.92 | 1.93 | 1.9 | 1.88 | 1.81 | 1.77 | 1.82 | 1.86 | 2.03 | 2.16
 Austria | 1.36 | 1.44 | 1.43 | 1.45 | 1.53 | 1.55 | 1.6 | 1.69 | 1.77 | 1.89 | 1.93 | 2.05 | 2.12 | 2.24 | 2.24 | 2.46 | 2.44 | 2.51 | 2.67 | 2.71 | 2.8 | 2.77 | 2.84
 Poland | : | : | : | : | : | 0.63 | 0.65 | 0.65 | 0.67 | 0.69 | 0.64 | 0.62 | 0.56 | 0.54 | 0.56 | 0.57 | 0.56 | 0.57 | 0.6 | 0.67 | 0.74 | 0.76 | 0.9
 Portugal | : | : | : | : | : | 0.52 | 0.56 | 0.57 | 0.63 | 0.69 | 0.73 | 0.77 | 0.73 | 0.71 | 0.74 | 0.78 | 0.99 | 1.17 | 1.5 | 1.64 | 1.59 | 1.52 | 1.5
-Romania | : | : | : | : | : | 0.75 | 0.68 | 0.57 | 0.49 | 0.4 | 0.37 | 0.39 | 0.38 | 0.39 | 0.41 | 0.45 | 0.39 0.52 | 0.58 | 0.47 | 0.5 | 0.42
-Slovenia | : | : | : | 1.6 | 1.76 | 1.52 | 1.29 | 1.27 | 1.33 | 1.36 | 1.38 | 1.49 | 1.47 | 1.27 | 1.39 | 1.44 | 1.56 | 1.45 | 1.66 | 1.85 | 0.46 2.1 | 2.47 2.8
-Slovakia | : | : | : | 1.38 | 0.9 0.92 | 0.91 | 1.08 | 0.78 | 0.66 | 0.65 | 0.63 | 0.57 | 0.57 | 0.51 | 0.51 | 0.49 | 0.47 | 0.48 | 0.46 | 0.68 | 0.82 | 0.63
-Finland | 1.85 | 2.01 | 2.1 | 2.14 | 2.27 | 2.26 | 2.53 | 2.71 | 2.88 | 3.17 | 3.35 | 3.32 | 3.36 | 3.44 | 3.45 | 3.48 | 3.47 | 3.7 | 3.94 | 3.9 | 3.55 | 3.8
-Sweden | : | 2.65 | : | 3.12 | : | 3.26 | : | 3.47 | : | 3.58 | : | 4.13 | : | 3.8 | 3.58 | 3.56 | 3.48 3.68 | 3.43 | 3.62 | 3.39 | 3.39 | 3.7
-United Kingdom | 2.09 | 2.01 | 1.96 | 1.98 | 1.94 | 1.88 | 1.8 | 1.73 | 1.73 | 1.8 | 1.79 | 1.77 | 1.78 | 1.73 | 1.67 | 1.7 | 1.75 | 1.75 | 1.82 | 1.77 | 1.78 | 3.41 1.72 1.72
-Iceland | 0.97 | 1.15 | 1.32 | 1.33 | 1.37 | 1.53 | : | 1.83 | 2 | 2.3 | 2.67 | 2.95 | 2.95 | 2.82 | 2.77 | 2.99 | 2.68 | : 2.65 | 3.11 | 2.4 | :
-Norway | : | 1.62 | : | 1.7 | : | 1.69 | : | 1.63 | : 1.64 | : 1.59 | 1.66 | 1.71 | 1.48 | 1.57 | 1.51 | 1.59 | 1.58 | 1.76 | : 1.68 | 1.65 | 1.66
-Switzerland | : | : | 2.52 | : | : | : | 2.59 | : | : | : | : | : | : | 2.82 | : | : | 2.87 | : | : | : | :
-Serbia | : | : | : | : | : | : | : | : | : | : | 2.47 : | : | : | : | : | : | : : | : | : | 0.79 | 0.92 | 0.77 | 0.47 | 0.96
-Turkey United States | 0.33 2.55 | 0.52 2.61 | 0.49 2.54 | 0.44 | 0.36 | 0.38 2.4 | 0.45 2.44 | 0.49 2.47 | 0.37 2.5 | 0.48 | 0.54 | 2.54 | 2.61 | 0.53 | 0.48 0.72 2.62 | 2.62 | 2.52 | 0.58 2.52 | 0.52 2.45 | 0.73 0.85 2.49 2.76 | 2.55 | 0.59 2.81 | 0.86 2.67 | 0.84 2.73 | : :
-Japan | 2.95 | 2.89 | 2.83 | 2.42 | 2.32 2.74 | 2.87 | 2.77 | 2.83 | 2.96 | 2.98 3 | 3.07 2.47 | 3.12 | 3.14 | 3.13 | 3.46 | 3.47 | 3.36 | 3.25 | : | 3.41 | 3.31 :
-South Korea | : | 2.93 : | : | : | : | : | : | 2.26 | 2.17 | 2.3 | : | 2.4 | 2.49 | 3.01 3.21 | 3.36 | 3.56 | 3.74 | 2.68 2.79 | : | :
-
-Figure 3: Expenditures on research and development for the period 1990-2012 in percentage GDP (Source: Eurostat, 2013)
+Romania | : | : | : | : | : | 0.75 | 0.68 | 0.57 | 0.49 | 0.4 | 0.37 | 0.39 | 0.38 | 0.39 | 0.39 | 0.41 | 0.45 | 0.52 | 0.58 | 0.47 | 0.46 | 0.5 | 0.42
+Slovenia | : | : | : | 1.6 | 1.76 | 1.52 | 1.29 | 1.27 | 1.33 | 1.36 | 1.38 | 1.49 | 1.47 | 1.27 | 1.39 | 1.44 | 1.56 | 1.45 | 1.66 | 1.85 | 2.1 | 2.47 | 2.8
+Slovakia | : | : | : | 1.38 | 0.9 | 0.92 | 0.91 | 1.08 | 0.78 | 0.66 | 0.65 | 0.63 | 0.57 | 0.57 | 0.51 | 0.51 | 0.49 | 0.46 | 0.47 | 0.48 | 0.63 | 0.68 | 0.82
+Finland | 1.85 | 2.01 | 2.1 | 2.14 | 2.27 | 2.26 | 2.53 | 2.71 | 2.88 | 3.17 | 3.35 | 3.32 | 3.36 | 3.44 | 3.45 | 3.48 | 3.48 | 3.47 | 3.7 | 3.94 | 3.9 | 3.8 | 3.55
+Sweden | : | 2.65 | : | 3.12 | : | 3.26 | : | 3.47 | : | 3.58 | : | 4.13 | : | 3.8 | 3.58 | 3.56 | 3.68 | 3.43 | 3.7 | 3.62 | 3.39 | 3.39 | 3.41
+United Kingdom | 2.09 | 2.01 | 1.96 | 1.98 | 1.94 | 1.88 | 1.8 | 1.73 | 1.73 | 1.8 | 1.79 | 1.77 | 1.78 | 1.73 | 1.67 | 1.7 | 1.72 | 1.75 | 1.75 | 1.82 | 1.77 | 1.78 | 1.72
+Iceland | 0.97 | 1.15 | 1.32 | 1.33 | 1.37 | 1.53 | : | 1.83 | 2 | 2.3 | 2.67 | 2.95 | 2.95 | 2.82 | : | 2.77 | 2.99 | 2.68 | 2.65 | 3.11 | : | 2.4 | :
+Norway | : | 1.62 | : | 1.7 | : | 1.69 | : | 1.63 | : | 1.64 | : | 1.59 | 1.66 | 1.71 | 1.57 | 1.51 | 1.48 | 1.59 | 1.58 | 1.76 | 1.68 | 1.65 | 1.66
+Switzerland | : | : | 2.52 | : | : | : | 2.59 | : | : | : | 2.47 | : | : | : | 2.82 | : | : | : | 2.87 | : | : | : | :
+Serbia | : | : | : | : | : | : | : | : | : | : | : | : | : | : | : | : | : | : | : | 0.92 | 0.79 | 0.77 | 0.96
+Turkey | 0.33 | 0.52 | 0.49 | 0.44 | 0.36 | 0.38 | 0.45 | 0.49 | 0.37 | 0.47 | 0.48 | 0.54 | 0.53 | 0.48 | 0.52 | 0.59 | 0.58 | 0.72 | 0.73 | 0.85 | 0.84 | 0.86 | :
+United States | 2.55 | 2.61 | 2.54 | 2.42 | 2.32 | 2.4 | 2.44 | 2.47 | 2.5 | 2.54 | 2.61 | 2.62 | 2.52 | 2.52 | 2.45 | 2.49 | 2.55 | 2.62 | 2.76 | 2.81 | 2.73 | 2.67 | :
+Japan | 2.95 | 2.93 | 2.89 | 2.83 | 2.74 | 2.87 | 2.77 | 2.83 | 2.96 | 2.98 | 3 | 3.07 | 3.12 | 3.14 | 3.13 | 3.31 | 3.41 | 3.46 | 3.47 | 3.36 | 3.25 | : | :
+South Korea | : | : | : | : | : | : | : | : | 2.26 | 2.17 | 2.3 | 2.47 | 2.4 | 2.49 | 2.68 | 2.79 | 3.01 | 3.21 | 3.36 | 3.56 | 3.74 | : | :
 
 10
 
@@ -411,7 +441,7 @@ Despite the increase in the access to higher education after 1990, there are soc
 
 The  increase  in  the  share  of  graduates  makes  it  necessary  to  overcome  two  major challenges.
 
-The  first  challenge  is  the  systematic  reduction  in  the  number  of  young  people completing their secondary education who apply for Bulgarian higher education institutions. This leads to a situation without precedent in the history of the higher education: insufficient number of  students  enrolled  compared  to  the  announced  positions  (for  example,  for  20132014 academic year, the actual admission was 63,045 people - by 8,000 less than the planned number).  The  reasons  for  the  dramatic  decline  are  complex  -  along  with  the  deteriorated demographic  situation,  supplemented  with  the  increasing  educational  emigration  among young people, difficult access to Bulgarian higher education institutions due to geographical and social barriers, impaired social prestige of higher education.
+The first challenge is the systematic reduction in the number of young people completing their secondary education who apply for Bulgarian higher education institutions. This leads to a situation without precedent in the history of the higher education: insufficient number of students enrolled compared to the announced positions (for example, for 2013-2014 academic year, the actual admission was 63,045 people – by 8,000 less than the planned number). The reasons for the dramatic decline are complex – along with the deteriorated demographic situation, supplemented with the increasing educational emigration among young people, difficult access to Bulgarian higher education institutions due to geographical and social barriers, impaired social prestige of higher education.
 
 The  second  challenge  is  of  demographic  character.  Bulgaria  is  one  step  away  of  a demographic catastrophe due to unprecedented population ageing, low birth rates, etc.
 
@@ -521,7 +551,7 @@ Higher educational institutions are called to be the main science development ce
 
 In recent years, the link between studies and research - activities that traditionally are institutionally  separated  in  Bulgaria  has  not  been  transformed  and  modernized.  Thus  the action  of  the  key  knowledge  triangle:  education  -  research  -  innovation,  was  in  practice hindered.
 
-The contribution of innovations in the creation of added value is low (in this respect, Bulgaria lags seriously:  the  level  achieved  is  26%  compared  to  45%  average  for  the  EU  according  to  data  from  the  Ministry  of  Economy  and  Energy  and  Eurostat).  The  public prestige of scientists is low.
+The contribution of innovations in the creation of added value is low (in this respect, Bulgaria lags seriously: the level achieved is 26% compared to 45% average for the EU – according to data from the Ministry of Economy and Energy and Eurostat). The public prestige of scientists is low.
 
 The  fundamental  and  applied  research  and  experimental  development  have  their specific role in the knowledge society and their insufficient funding leads to delays and has a negative effect on the development of society and economy.
 
@@ -529,7 +559,7 @@ There is a reduction in the Bulgarian publications in scientific journals includ
 
 In all scientific fields the publications in scientific journals included in the global system of referencing, indexing and evaluation are  insufficient.  These  publications  make research and researchers recognized, leading both to the verifiability of the achievements and to  the  enhancement  of  the  prestige  of  the  HEIs  with  larger  number  of  publications,  higher impact factor and impact rank and larger number of quotes.
 
-The  HE  system  consists  of  HEIs  with  rich  research  activity  and  other  HEIs  with modest scientific results, but the funds intended for science are distributed among all. Eligible for funding the scientific research from the national budget should only be HEIs with strong scientific  results  and  the  amount  of  funds  for  science  should  depend  on  these  results.  The HEIs should report to the state and society on the effectiveness of the funds spent on science and will have an obligation to ensure the participation of students and postgraduate students in research.
+The HE system consists of HEIs with rich research activity and other HEIs with modest scientific results, but the funds intended for science are distributed among all. Eligible
 
 14
 
@@ -538,6 +568,8 @@ The  HE  system  consists  of  HEIs  with  rich  research  activity  and  other 
 [[START OF PAGE 15]]
 
 STRATEGY FOR HIGHER EDUCATION DEVELOPMENT IN THE REPUBLIC OF BULGARIA FOR THE PERIOD 2014 TO 2020
+
+for funding the scientific research from the national budget should only be HEIs with strong scientific results and the amount of funds for science should depend on these results. The HEIs should report to the state and society on the effectiveness of the funds spent on science and will have an obligation to ensure the participation of students and postgraduate students in research.
 
 #### The main challenges related to the link between studies and research are:
 
@@ -553,7 +585,7 @@ STRATEGY FOR HIGHER EDUCATION DEVELOPMENT IN THE REPUBLIC OF BULGARIA FOR THE PE
 
 - 2.4.6 Insufficient commercialization of research results.
 
-- 2.4.7 Challenges to the project activity -financing, information provision, complicated accounting rules.
+- 2.4.7 Challenges to the project activity – financing, information provision, complicated accounting rules.
 
 - 2.4.8 Insufficient research mobility.
 
@@ -565,7 +597,7 @@ It  is  important  to  choose  an  effective  option  for  monitoring  and  cont
 
 An important task is to  optimize the higher education institutions network -  not through  administrative  pressure,  but  through  well  considered  financial  mechanisms  and through  transfer  of  European  best  practices  to  promote  the  integration  and  unification  of higher education institutions on a regional and subjective basis.
 
-There  is  duplication  and  fragmentation  of  professional  fields  in  the  different  higher education institutions. In the last 10 years, the changes in HEA have gradually closed the gap between  universities  and  specialized  higher  educational  institutions,  where  the  latter  were entitled  to  call  themselves  universities  in  a  given  area.  There  is  lack  of  clear  distinction between universities  and  specialized  higher  schools that  only  train  students  in  one  or several related professional fields (e.g. technical, medical, arts, etc.).
+There is duplication and fragmentation of professional fields in the different higher education institutions. In the last 10 years, the changes in HEA have gradually closed the gap between universities and specialized higher educational institutions, where the latter were
 
 15
 
@@ -574,6 +606,8 @@ There  is  duplication  and  fragmentation  of  professional  fields  in  the  d
 [[START OF PAGE 16]]
 
 STRATEGY FOR HIGHER EDUCATION DEVELOPMENT IN THE REPUBLIC OF BULGARIA FOR THE PERIOD 2014 TO 2020
+
+entitled to call themselves universities in a given area. There is lack of clear distinction between universities and specialized higher schools that only train students in one or several related professional fields (e.g. technical, medical, arts, etc.).
 
 At the  same  time,  the  HE  system  consists  of  higher  education  institutions  with  rich research  activity  and  higher  education  institutions  with  no  research  at  all.  Therefore,  two types  of  HEI  should  be  introduced  distinguished  according  to  their  research  activity.  The research HEIs will be entitled to funding for research from the national budget, but they also will be required to report to the state and society on the effectiveness of the funds spent on science (e.g. this will be part of their accreditation assessment). The research universities will be allowed to train doctoral students. On the other hand, the other universities will not be able to  train  doctoral  students  and  will  have  no  obligations  to  conduct  research,  whereas  this requirement will not prevent their academic staff from conducting research or participating in research teams.
 
@@ -599,7 +633,7 @@ Now the current model of funding is the weak point of the whole higher education
 
 Along with the inefficient use of the available resources, the insufficient transparency and public control over the method of use of the material (including financial) resources is a problem as well. There are no options and targeted efforts to provide a variety of  extra-budgetary  sources  of  financing,  including  from  business  and  commercialization  of the research results.
 
-Until  recently,  the  state  subsidy  was  distributed  based  on  the  number  of  students enrolled only and although for the last three years statutory requirements have been observed stating that funding should take into account the quality of education, over 90% of the amount of the subsidy continues to depend on the number of students. This generally leads to equality and the  method  of  distribution  of  funding  does  not  encourage  the  achievement  of  a higher quality of the education offered.
+Until recently, the state subsidy was distributed based on the number of students enrolled only and although for the last three years statutory requirements have been observed stating that funding should take into account the quality of education, over 90% of the amount
 
 16
 
@@ -608,6 +642,8 @@ Until  recently,  the  state  subsidy  was  distributed  based  on  the  number 
 [[START OF PAGE 17]]
 
 STRATEGY FOR HIGHER EDUCATION DEVELOPMENT IN THE REPUBLIC OF BULGARIA FOR THE PERIOD 2014 TO 2020
+
+of the subsidy continues to depend on the number of students. This generally leads to equality and the method of distribution of funding does not encourage the achievement of a higher quality of the education offered.
 
 The  development  of  strategically  important  for  the  country  professional  fields  and specialties is not stimulated. Such are both the professional fields that are of high priority for the  needs  of  the  economy  and  the  labour  market,  and  the  specialties,  which  should  be protected  because  they  are  not  attractive  for  candidate  students,  but  are  necessary  for  the country.
 
@@ -779,7 +815,7 @@ STRATEGY FOR HIGHER EDUCATION DEVELOPMENT IN THE REPUBLIC OF BULGARIA FOR THE PE
 
  Chronic financial deficits of higher educational institutions and research organizations  kept the  salary  to  academic  staff for  more  than  a  decade at  a level,  which  goes  beyond  international  standards,  and  competitive  practices. Bulgarian scientists, de facto, are placed in a disadvantaged position compared to  their  European  counterparts,  they  are  not  motivated  and  became  low-paid assistants in the implementation of promising international projects. Paradoxically, Bulgaria is competing with countries, which hold strongly the last positions  in  the  European  charts  by  payment  of  academic  personnel,  i.e.  it participates in the so-called Racing to the bottom.
 
-Arguments  in  favour  of  the  financial  savings  are  in  one  direction:  The  quality  and contribution of higher education and scientific research are not yet at a high European level hence the sector does not deserve priority funding. Meanwhile it is apparent that upon final low resource provision with chronically underfunding and depreciation of intellectual work high quality and contribution could not be expected.
+Arguments in favour of the financial savings are in one direction: The quality and contribution of higher education and scientific research are not yet at a high European level - hence the sector does not deserve priority funding. Meanwhile it is apparent that upon final low resource provision with chronically underfunding and depreciation of intellectual work high quality and contribution could not be expected.
 
 An explicit revaluation of the idea of idle savings should be made. The Strategy for Higher  Education  Development can  be  successfully  implemented  only  if  it's  resource provided. Objectives set out in the European Strategy for Smart, Sustainable and Inclusive growth 'Europe 2020' won't be fulfilled in Bulgaria if the policy on reducing or keeping the same level of HEI's and research units' budgets maintains in the next period.
 
@@ -1062,7 +1098,7 @@ STRATEGY FOR HIGHER EDUCATION DEVELOPMENT IN THE REPUBLIC OF BULGARIA FOR THE PE
 
 - Promoting the integration (including. establishment of joint teams) in the training in directions, which coincide within the same region.
 
-- Applying financial tools and mechanism for determining the admission in order to clos е extrinsic professional fields and specializations.
+- Applying financial tools and mechanism for determining the admission in order to close extrinsic professional fields and specializations.
 
 ### 6.6 Increasing the Funds for Higher Education and Science and the Efficiency of Their Use by Implementing an Advanced Model of Funding
 
