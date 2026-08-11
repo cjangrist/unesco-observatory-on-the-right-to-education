@@ -92,7 +92,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+- 4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
 - climate change education
 
@@ -143,7 +143,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -257,27 +257,27 @@ Link: https://rgd.legalaffairs.gov.tt/Laws2/Constitution.pdf
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
-- Education Policy Paper 2017-2022 seeks to lay out how the Ministry of Education is committed to achieving its mandate of building the human resource capacity of Trinidad and Tobago, in pursuit of sustainable national development. ESD is included explicitly through the three areas of focus for Trinidad and Tobago: (1) Effective Governance and Administration, (2) Access to Educational Opportunities, and (3) Quality Education. As such, this Education Policy Paper is intended to guide the actions of the Ministry of Education through the next five (5) years in order to advance educational development in Trinidad and Tobago and treat with current challenges within the education system. The Policy is intended to provide the Ministry of Education with the strategic direction to guide its programmes, projects and action plans for the Early Childhoold Care and Education (ECCE), Primary, Secondary, Technical/Vocational and Tertiary subSectors for the period 2017-2022.
-
-- It can be inferred that the social programmes offered by MIC Institute of Technology (MIC-IT) (i.e. MuST and HYPE) affords vulnerable groups access to education and training towards social mobility.
-
-- The University of Trinidad and Tobago's (UTT) Strategic Plan 2019-2024 implies sustainable development thorough its alignment with the principles of the 2030 National
-
-National | Sub-national
+ |  | National |  |  |  | Sub-national |  |  | 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+ |  | Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 0 | 0 | 0 | 0 | 99 | 99 | 99 | 99
 2. | Gender equality | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 3. | Human rights | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
-4. | Peace and non- violence | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
+4. | Peace and non-violence | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 5. | Climate change | 0 | 0 | 1 | 0 | 99 | 99 | 99 | 99
 6. | Environmental sustainability | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 7. | Human survival and well-being | 0 | 0 | 0 | 0 | 99 | 99 | 99 | 99
 8. | Sustainable consumption and production | 0 | 0 | 1 | 0 | 99 | 99 | 99 | 99
 
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 2 are mentioned explicitly or are inferred and what types or levels of education are covered.
+
+- Education Policy Paper 2017-2022 seeks to lay out how the Ministry of Education is committed to achieving its mandate of building the human resource capacity of Trinidad and Tobago, in pursuit of sustainable national development. ESD is included explicitly through the three areas of focus for Trinidad and Tobago: (1) Effective Governance and Administration, (2) Access to Educational Opportunities, and (3) Quality Education. As such, this Education Policy Paper is intended to guide the actions of the Ministry of Education through the next five (5) years in order to advance educational development in Trinidad and Tobago and treat with current challenges within the education system. The Policy is intended to provide the Ministry of Education with the strategic direction to guide its programmes, projects and action plans for the Early Childhood Care and Education (ECCE), Primary, Secondary, Technical/Vocational and Tertiary subSectors for the period 2017-2022.
+
+- It can be inferred that the social programmes offered by MIC Institute of Technology (MIC-IT) (i.e. MuST and HYPE) affords vulnerable groups access to education and training towards social mobility.
+
+- The University of Trinidad and Tobago's (UTT) Strategic Plan 2019-2024 implies sustainable development thorough its alignment with the principles of the 2030 National
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -345,7 +345,7 @@ B. gender equality education - YTEPP Limited does not have a specific gender str
 
 #### A3b. Please  provide  the  full  names  of  any education  policies,  frameworks  or  strategic objectives referred to in A3a and, where possible, web links to relevant documents .
 
-- Draft Education Policy Paper 2017- 2022: https://www.moe.gov.tt/education-policy-paper-20172022/
+- Draft Education Policy Paper 2017- 2022: https://www.moe.gov.tt/education-policy-paper-2017-2022/
 
 [[END OF PAGE 13]]
 
@@ -357,9 +357,7 @@ B. gender equality education - YTEPP Limited does not have a specific gender str
 
 - Republic of Trinidad and Tobago: Act No 77 of 2000: http://www.ttparliament.org/legislations/a2000-77.pdf
 
-.
-
-- COSTAATT Graduate Attributes: see attachment
+- COSTAATT Graduate Attributes: see attachment.
 
 - NTA Criteria for Operating a Workforce Assessment Centre
 
@@ -369,7 +367,7 @@ B. gender equality education - YTEPP Limited does not have a specific gender str
 
 - NIHERST Internal and External Communication - treats theme 4: peace and non-violence
 
-- NIHERST  has  Several  HSE  Policies  namely  Disaster  Management  Policy  for  ICT,  Disaster Management/Response and Recovery Policy (General) treat theme 7: human survival and wellbeing.
+- NIHERST  has  Several  HSE  Policies  namely  Disaster  Management  Policy  for  ICT,  Disaster Management/Response and Recovery Policy (General) treat theme 7: human survival and well-being.
 
 - YTEPP Limited's approved Equal Opportunity Policy which speaks to 3 of the outlined themes of global citizenship and education for sustainable development - namely:
 
@@ -407,9 +405,7 @@ YTEPP Limited recognizes the rights of individuals and groups to be free from di
 
 - Marital Status'
 
-The full policy can be found at https://yteppedu-
-
-my.sharepoint.com/:w:/g/personal/avabj_ytepp_edu_tt/EVhsFLaz1b1PmdUIwRAueIYB0iIIZfuleC5d9yJtM4cIA?e=bOIhd8
+The full policy can be found at https://yteppedu-my.sharepoint.com/:w:/g/personal/avabj_ytepp_edu_tt/EVhsFLaz1b1PmdUIwRAueIYB0iIIZfuleC5d9yJ-tM4cIA?e=bOIhd8
 
 [[END OF PAGE 14]]
 
@@ -423,7 +419,7 @@ These  issues  are  also  touched  on  in  the  institution's  Life  Skills  and
 
 - UWI - The UWI has started reviewing its strategic priorities to ensure that they enhance their global  reach,  and  Education  for  sustainable  development  is  achieved.  The  creation  of  the Research, Evaluation and Outreach Unit and UWI  Psychoeducational Diagnostic and Intervention Clinic are timely to facilitate the realisation of strategic objectives. https://youtu.be/Nu1vKPmiU3Y
 
-- There is no specific policy that outlines a thematic approach to existing curricula or institutional practice at UWI. However, many of the themes within the GCED are both implicitly and explicitly explored across various faculties, departments and within specific courses. Many of these courses and the relevant descriptions are available within the undergraduate (https://sta.uwi.edu/resources/documents/facultybooklets/SocsciUndergrad.pdf ) and post graduate (https://sta.uwi.edu/resources/documents/facultybooklets/2020/PG-FSS-20202021.pdf ) handbook for the Faculty of Social Sciences.
+- There is no specific policy that outlines a thematic approach to existing curricula or institutional practice at UWI. However, many of the themes within the GCED are both implicitly and explicitly explored across various faculties, departments and within specific courses. Many of these courses and the relevant descriptions are available within the undergraduate (https://sta.uwi.edu/resources/documents/facultybooklets/SocsciUndergrad.pdf ) and post graduate (https://sta.uwi.edu/resources/documents/facultybooklets/2020/PG-FSS-2020-2021.pdf ) handbook for the Faculty of Social Sciences.
 
 #### *A4.  Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
 
@@ -448,22 +444,22 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | ---
-National
-Design or revision of the curricula | 0 | 0
-Setting of programme learning objectives | 1 | 0
-Textbook development | 0 | 0
-Teacher education and training | 1 | 0
-Assessment of student outcomes | 0 | 0
-Sub-national
-Design or revision of the curricula | 1 | 1
-Setting of programme learning objectives | 1 | 1
-Textbook development | 99 | 0
-Teacher education and training | 1 | 9
-Assessment of student outcomes | 1 | 1
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
+--- | --- | --- | --- | ---
+National |  |  |  | 
+Design or revision of the curricula |  |  | 0 | 0
+Setting of programme learning objectives |  |  | 1 | 0
+Textbook development |  |  | 0 | 0
+Teacher education and training |  |  | 1 | 0
+Assessment of student outcomes |  |  | 0 | 0
+Sub-national |  |  |  | 
+Design or revision of the curricula |  |  | 1 | 1
+Setting of programme learning objectives |  |  | 1 | 1
+Textbook development |  |  | 99 | 0
+Teacher education and training |  |  | 1 | 9
+Assessment of student outcomes |  |  | 1 | 1
 
-### Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
+### B. Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
 
 #### B1a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate  whether  topics  are  taught  as  standalone  subjects  or  are  integrated  into  the curricula of other subjects. Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -481,7 +477,7 @@ Assessment of student outcomes | 1 | 1
 
 - Citizenship
 
-The curriculum is integrated so that children's learning in all areas occurs primarily through the indepth explorations of themes and projects, which are organized in such a way that they cut across subject  matter  lines,  bringing  together  various  aspects  of  the  curriculum  into  meaningful association.
+The curriculum is integrated so that children's learning in all areas occurs primarily through the in-depth explorations of themes and projects, which are organized in such a way that they cut across subject  matter  lines,  bringing  together  various  aspects  of  the  curriculum  into  meaningful association.
 
 ##### Primary and Secondary
 
@@ -495,7 +491,16 @@ Integrated into the curricula of other subjects.
 
 Some of the themes are explicitly stated at the Primary and secondary levels
 ##### Post-Secondary Non-Tertiary and Tertiary
-1. At MIC-IT, a Lifeskills component is integrated into the main programme delivery. The
+1. At MIC-IT, a Lifeskills component is integrated into the main programme delivery. The topics covered include overall themes such as personal development, mature relationships, citizenship, community involvement, etc.
+
+2. These themes are integrated in UTT’s preparation for teachers at the Pre-school and Primary school level.
+
+3. Specific programmes of study at UTT are designed for Tertiary students with specific courses for areas of Environmental Sustainability. The Global Citizens education themes are integrated in several courses for the preparation of teachers – Survey of exceptionalities, HFLE Education, Social Studies, Contemporary Issues
+
+4. GCED and ESD objectives may be taught in standalone courses in specific discipline areas or integrated in the curricula of other subjects across COSTAATT.
+
+5. Generally the identified GCED and ESD themes are infused in the curricula of particular courses but are not mentioned explicitly as GCED and ESD initiatives. The details for the various themes are listed below:
+
 --- | ---
 1. cultural diversity and tolerance | YTEPP Limited, in collaboration with corporate partners has, for the past six years, conducted computer literacy training that is dedicated to the needs of the differently abled through one of its mobile computer training units; teaching and learning activities are managed by an instructor who is certified to manage learning for special education groups. Additionally, the general idea of diversity and tolerance is engaged in the design of curricula that takes into consideration and includes the needs of persons with diverse characteristics. To this end, the institution encourages and has enrolled, trained and certified persons with varying levels of disability.
 2. gender equality education | YTEPP Limited participated in the Caribbean Education for Employment Project (CEfE) from 2014 to 2018 and was able to establish its Institute of Cosmetology (IOC) as a centre of excellence for that occupational area in the region. One of the underlying themes in that project was gender mainstreaming. As a result of our participation in that project, YTEPP Limited conducted a gender sensitivity assessment and instituted policies and practices to effect equality attitudes and practices institution wide but in particular in our operations at the IOC. Our intention is to facilitate transformation of gender perspectives in the cosmetology sector. Also coming out of that project, YTEPP Limited reviewed its Life Skills and Career Enhancement curricula to more comprehensively address gender-related issues in the work place in particular and in interpersonal relations in general.
@@ -539,7 +544,7 @@ SOWK 6017-Conflict Resolution: Theory and Approaches
 
 ##### Early Childhood Care and Education
 
-https://web.oas.org/childhood/EN/Lists/Recursos%20%20Planes%20Nacionales/Attachme nts/141/6.%20National%20Early%20Childhood%20Care%20and%20Education%20Curric ulum%20Guide.pdf
+https://web.oas.org/childhood/EN/Lists/Recursos%20%20Planes%20Nacionales/Attachments/141/6.%20National%20Early%20Childhood%20Care%20and%20Education%20Curriculum%20Guide.pdf
 
 [[END OF PAGE 18]]
 
@@ -660,26 +665,24 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-0 = no, 1 = yes, 9 = unknown
+KEY: 0 = no, 1 = yes, 9 = unknown
 
-KEY:
-
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+ | Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Arts
-Civics, civil or citizenship education | 1 | 1 | 1
-Ethics/moral studies
-Geography | 1 | 1 | 1
-Health, physical education and sports
-History | 1 | 1
+Arts |  |  |  |  |  |  |  | 
+Civics, civil or citizenship education | 1 |  | 1 | 1 |  |  |  | 
+Ethics/moral studies |  |  |  |  |  |  |  | 
+Geography |  |  |  |  | 1 | 1 |  | 1
+Health, physical education and sports |  |  |  |  |  |  |  | 
+History | 1 |  | 1 |  |  |  |  | 
 Languages | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Mathematics
-Religious education | 1 | 1 | 1
-Science | 1
-Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Integrated studies
-HFLE
-Agricultural Science | 1
+Mathematics |  |  |  |  |  |  |  | 
+Religious education | 1 |  | 1 | 1 |  |  |  | 
+Science |  |  |  |  |  |  |  | 1
+Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 
+Integrated studies |  |  |  |  |  |  |  | 
+HFLE |  |  |  |  |  |  |  | 
+Agricultural Science |  |  |  |  |  |  |  | 1
 
 [[END OF PAGE 21]]
 
@@ -700,18 +703,18 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | --- | ---
-3. | Human rights education | 1
-3.1 | equality and non- discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
-3.2 | human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 1 | 1
-3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 1 | 1
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
+--- | --- | --- | --- | ---
+3. Human rights education | 1 |  |  | 
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 1
+3.2 human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 1 | 1
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 1 | 1
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -723,7 +726,7 @@ The ECCE Division conducts continuous professional development throughout the ye
 
 ##### Primary and Secondary :
 
-In alignment with the overarching goal of education: 'Ensuring inclusive and quality education for all  and  promote  lifelong  learning'.  The  Teacher  Education,  Performance  and  Professional Development Division of the MOE, ensures that all educators entering into the education system are equipped with training which informs them of their role and responsibility as an educator, as well  as,  respective  methodologies  and  pedagogies  for  inclusive  and  effective  education  for effective student achievement. All educators are required to undergo a two (2) year induction inservice programme where these topics are highlighted with regard to the role of the educator.
+In alignment with the overarching goal of education: 'Ensuring inclusive and quality education for all  and  promote  lifelong  learning'.  The  Teacher  Education,  Performance  and  Professional Development Division of the MOE, ensures that all educators entering into the education system are equipped with training which informs them of their role and responsibility as an educator, as well  as,  respective  methodologies  and  pedagogies  for  inclusive  and  effective  education  for effective student achievement. All educators are required to undergo a two (2) year induction in-service programme where these topics are highlighted with regard to the role of the educator.
 
 ##### Post-Secondary, Non-Tertiary and Tertiary
 
@@ -795,59 +798,59 @@ See:
 
 [[START OF PAGE 26]]
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+| --- | --- | --- | --- | --- |
+| Initial or pre-service training |  |  |  |  |
+| For teachers of selected subjects only (in which GCED or ESD are typically taught) | 9 | 1 | 1 | 1 |
+| For teachers of other subjects | 9 | 1 | 1 | 1 |
+| Continuing professional development |  |  |  |  |
+| For teachers of selected subjects only (in which GCED or ESD are typically taught) | 9 | 1 | 1 | 1 |
+| For teachers of other subjects | 9 | 1 | 9 | 1 |
 
 #### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | ---
-Initial or pre-service training
-For teachers of selected subjects only (in which GCED or ESD are typically taught) | 9 | 1 | 1 | 1
-For teachers of other subjects | 9 | 1 | 1 | 1
-Continuing professional development
-For teachers of selected subjects only (in which GCED or ESD are typically taught) | 9 | 1 | 1 | 1
-For teachers of other subjects | 9 | 1 | 9 | 1
-
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | --- | ---
-1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1
-2. | Gender equality | 1 | 1 | 1 | 1
-3. | Human rights | 1 | 1 | 1 | 1
-4. | Peace and non-violence | 1 | 9 | 1 | 1
-5. | Climate change | 1 | 1 | 1 | 0
-6. | Environmental sustainability | 1 | 1 | 1 | 0
-7. | Human survival and well-being | 1 | 1 | 1 | 0
-8. | Sustainable consumption and production | 1 | 9 | 1 | 0
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+| --- | --- | --- | --- | --- |
+| 1. Cultural diversity and tolerance | 1 | 1 | 1 | 1 |
+| 2. Gender equality | 1 | 1 | 1 | 1 |
+| 3. Human rights | 1 | 1 | 1 | 1 |
+| 4. Peace and non-violence | 1 | 9 | 1 | 1 |
+| 5. Climate change | 1 | 1 | 1 | 0 |
+| 6. Environmental sustainability | 1 | 1 | 1 | 0 |
+| 7. Human survival and well-being | 1 | 1 | 1 | 0 |
+| 8. Sustainable consumption and production | 1 | 9 | 1 | 0 |
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+| --- | --- | --- | --- | --- |
+| Knowledge | 1 | 1 | 1 | 1 |
+| Skills | 1 | 1 | 1 | 1 |
+| Values | 1 | 1 | 1 | 1 |
+| Attitudes and behaviours | 1 | 1 | 1 | 1 |
 
 #### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | ---
-Knowledge | 1 | 1 | 1 | 1
-Skills | 1 | 1 | 1 | 1
-Values | 1 | 1 | 1 | 1
-Attitudes and behaviours | 1 | 1 | 1 | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
-
-Global citizenship and education for sustainable development
---- | ---
-GCED/ESD are taught as separate subject(s) | 0
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 1
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 1
+|  | Global citizenship and education for sustainable development |
+| --- | --- |
+| GCED/ESD are taught as separate subject(s) | 0 |
+| Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1 |
+| Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 1 |
+| Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 1 |
 
 ### D. Student assessment (paras 4 and 5 of the 1974 Recommendation )
 
@@ -863,17 +866,17 @@ Knowledge, values, attitudes/behaviours are assessed
 
 ##### Post-Secondary, Non-Tertiary and Tertiary
 
-- Examinations, Agricultural Science Projects, Projects in the communities, Practicum in the schools (UTT)
+1. Examinations, Agricultural Science Projects, Projects in the communities, Practicum in the schools (UTT)
 
-- For all programmes offered at COSTAATT, students learning outcomes are developed based on Bloom's domains of educational objectives. Consequently, achievement of
+2. For all programmes offered at COSTAATT, students learning outcomes are developed based on Bloom's domains of educational objectives. Consequently, achievement of
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-- student learning outcomes is determined by assessing knowledge and skills in the discipline area, as well as values, attitudes and/or behaviours.
+student learning outcomes is determined by assessing knowledge and skills in the discipline area, as well as values, attitudes and/or behaviours.
 
-- The Revised Life Skills Course addresses select GCED and ESD issues.  The course is implemented online through the YTEPP Moodle learning management platform. Assessments are conducted in the online environment utilizing ICT to assess learning particularly in the cognitive and affective domains.  In some cases, beneficiaries are also required to conduct practical exercises and submit reports, thus targeting the psychomotor domain as well.  The assessments for the related modules in the curriculum are detailed below:
+3. The Revised Life Skills Course addresses select GCED and ESD issues. The course is implemented online through the YTEPP Moodle learning management platform. Assessments are conducted in the online environment utilizing ICT to assess learning particularly in the cognitive and affective domains. In some cases, beneficiaries are also required to conduct practical exercises and submit reports, thus targeting the psychomotor domain as well. The assessments for the related modules in the curriculum are detailed below:
 
 ###### Gender Roles & Parenting Strategies
 
@@ -925,37 +928,37 @@ Candidates must complete the following:
 
 - ePortfolio: Complete the food journal or PDF copy of Health and Fitness apps (Lose It! or Samsung Health) activity, tracking your meal and snack intake for seven (7) days
 
-- At UWI this varies by courses. In some courses, lecturers test across cognitive, affective and behavioural domains. The type of assessment is also tied to the specific objectives of the course. Increasingly student assessments at UWI are including reflective papers which assess synthesis of knowledge offered in relation to GCED and applicability to their lives and decision-making processes. In addition, the focus on access and appraising real life primary data is driving greater fine appreciation of ethical, judicial and inclusionary imperatives
+4. At UWI this varies by courses. In some courses, lecturers test across cognitive, affective and behavioural domains. The type of assessment is also tied to the specific objectives of the course. Increasingly student assessments at UWI are including reflective papers which assess synthesis of knowledge offered in relation to GCED and applicability to their lives and decision-making processes. In addition, the focus on access and appraising real life primary data is driving greater fine appreciation of ethical, judicial and inclusionary imperatives
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+| --- | --- | --- | --- | --- |
+| 1. Cultural diversity and tolerance | 1 | 1 | 1 | 1 |
+| 2. Gender equality | 1 | 1 | 1 | 1 |
+| 3. Human rights | 1 | 1 | 1 | 1 |
+| 4. Peace and non-violence | 1 | 1 | 1 | 1 |
+| 5. Climate change | 1 | 1 | 1 | 1 |
+| 6. Environmental sustainability | 1 | 1 | 1 | 1 |
+| 7. Human survival and well-being | 1 | 1 | 1 | 1 |
+| 8. Sustainable consumption and production | 1 | 1 | 1 | 9 |
 
 #### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | --- | ---
-1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1
-2. | Gender equality | 1 | 1 | 1 | 1
-3. | Human rights | 1 | 1 | 1 | 1
-4. | Peace and non-violence | 1 | 1 | 1 | 1
-5. | Climate change | 1 | 1 | 1 | 1
-6. | Environmental sustainability | 1 | 1 | 1 | 1
-7. | Human survival and well-being | 1 | 1 | 1 | 1
-8. | Sustainable consumption and production | 1 | 1 | 1 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
-
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | ---
-Knowledge | 1 | 1 | 1 | 1
-Skills | 1 | 1 | 1 | 1
-Values | 1 | 1 | 1 | 1
-Attitudes and behaviours | 1 | 1 | 1 | 1
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+| --- | --- | --- | --- | --- |
+| Knowledge | 1 | 1 | 1 | 1 |
+| Skills | 1 | 1 | 1 | 1 |
+| Values | 1 | 1 | 1 | 1 |
+| Attitudes and behaviours | 1 | 1 | 1 | 1 |
 
 [[END OF PAGE 29]]
 
@@ -987,18 +990,18 @@ It is not known whether GCED and ESD are mainstreamed or not.
 
 The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | ---
-National
-(a) | Education laws and policies | 2 | 1 | 1
-(b) | Curricula | 2 | 1 | 2
-(c) | Teacher education | 2 | 1 | 9
-(d) | Student assessment | 2 | 1 | 9
-Sub-national
-(a) | Education laws and policies | 1 | 1
-(b) | Curricula | 2 | 1
-(c) | Teacher education | 2 | 9
-(d) | Student assessment | 1 | 1
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+| --- | --- | --- | --- | --- |
+| National |  |  |  |  |
+| (a) Education laws and policies | 2 |  | 1 | 1 |
+| (b) Curricula | 2 |  | 1 | 2 |
+| (c) Teacher education | 2 |  | 1 | 9 |
+| (d) Student assessment | 2 |  | 1 | 9 |
+| Sub-national |  |  |  |  |
+| (a) Education laws and policies |  |  | 1 | 1 |
+| (b) Curricula |  |  | 2 | 1 |
+| (c) Teacher education |  |  | 2 | 9 |
+| (d) Student assessment |  |  | 1 | 1 |
 
 > 4 GCED and ESD are mainstreamed if their themes are mentioned explicitly in relevant documents and are expected  to  be  implemented  by  the  relevant  authorities  (e.g.  Ministries,  regional  or  local  education authorities), educational institutions (e.g. schools, colleges and universities) and/or education professionals (e.g. teachers, lecturers, trainers and educators) as appropriate.
 
@@ -1008,13 +1011,13 @@ Sub-national
 
 [[START OF PAGE 31]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical and vocational education and training (paras 25-29 of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
-- There has been no specific initiative to promote GCED and/or ESD in TVET at MIC-IT except for the general mandate of the programme.
+1. There has been no specific initiative to promote GCED and/or ESD in TVET at MIC-IT except for the general mandate of the programme.
 
-- The NTA hosted a TVET Webinar titled 'Sustainable Development in TVET' on Wednesday 21st November, 2018.  This webinar exposed viewers to ways to:
+2. The NTA hosted a TVET Webinar titled 'Sustainable Development in TVET' on Wednesday 21st November, 2018. This webinar exposed viewers to ways to:
 
 - Integrate sustainable development concepts into TVET courses and programmes;
 
@@ -1030,7 +1033,7 @@ How access can be gained by women for programmes in TVET
 
 Insights from successful women in TVET entrepreneurship
 
-- YTEPP Limited's participation in the CEfE project was a major driver for the infusion of diversity and environmental sustainability perspectives into the operations of the institution.  The intended outcomes of this project included:
+3. YTEPP Limited's participation in the CEfE project was a major driver for the infusion of diversity and environmental sustainability perspectives into the operations of the institution. The intended outcomes of this project included:
 
 - Output  # 8 - Strategies developed and implemented for gender mainstreaming in the program and in graduate employment.
 
@@ -1042,7 +1045,7 @@ In the project evaluation, all of these objectives were met, and have been maint
 
 Our IOC has had at least 2 (out of 32) male applicants of our hairdressing and esthetics programmes since inception (2016), and in our general cosmetology programmes, our barbering programmes have included female trainees at least 30% enrolment.
 
-- The UWI's School of Education has two TVET programmes to date. The MA in Leadership in TVET and Workforce Development and the Post Graduate Diploma in Competency-Based Education for TVET instructors. Both programmes promote GCED and ESD. The SDCs are central cogs in both programmes. The students have presented
+1. The UWI's School of Education has two TVET programmes to date. The MA in Leadership in TVET and Workforce Development and the Post Graduate Diploma in Competency-Based Education for TVET instructors. Both programmes promote GCED and ESD. The SDCs are central cogs in both programmes. The students have presented
 
 [[END OF PAGE 31]]
 
@@ -1054,9 +1057,9 @@ at conferences on the importance of the SDGs in TVET. During the internship, the
 
 #### G1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school  education,  etc.  Describe  briefly  the  outcomes and  impact  of such initiatives and provide examples of good practices.
 
-- There has been no specific initiative to promote GCED and/or ESD in TVET at MIC-IT except for the general mandate of the programme.
+1. There has been no specific initiative to promote GCED and/or ESD in TVET at MIC-IT except for the general mandate of the programme.
 
-- Since  opening  its  doors  in  1998,  the  NIHERST  National  Science  Centre  (NSC)  has supported the following themes under education for sustainable development (ESD): (i) Gender  equality  (ii)  Climate  change  education,  (iii)  environmental  sustainability,  (iv) human survival and well-being and (v) sustainable consumption and production, via the following avenues:
+2.Since opening its doors in 1998, the NIHERST National Science Centre (NSC) has supported the following themes under education for sustainable development (ESD): (i) Gender equality (ii) Climate change education, (iii) environmental sustainability, (iv) human survival and well-being and (v) sustainable consumption and production, via the following avenues:
 
 ##### A.  Year-round learning opportunities via its Visitor and Outreach Programme
 
@@ -1064,13 +1067,13 @@ Annually, over 20,000 visitors and outreach participants interact with thematic 
 
 ##### B.  Out-of-school Youth Programmes
 
-- iSTEM Club: Formerly  known  as  Science  Club,  the  iSTEM  Club  was  rebranded  and launched in 2018 not only to provide Since then, for one term out of each academic year focusses on a theme under ESD.
+(1) iSTEM Club: Formerly known as Science Club, the iSTEM Club was rebranded and launched in 2018 not only to provide Since then, for one term out of each academic year focusses on a theme under ESD.
 
-- During the 2018/2019 academic year: Term 2: Water-Food-Energy Nexus 63  members  explored  the  connections  between  water,  food  and  energy  and investigated  applications  and  opportunities  for  sustaining  and  enhancing  the nexus, within the context of the Caribbean.
+a. During the 2018/2019 academic year: Term 2: Water-Food-Energy Nexus 63 members explored the connections between water, food and energy and investigated applications and opportunities for sustaining and enhancing the nexus, within the context of the Caribbean.
 
-- During the 2019/2020 academic year: Term 2: Engineering Our Existence 77  members  explored  a  variety  of  STEM  topics  such  as  civil  engineering, manufacturing, energy, sustainability and materials science, within the context of the Caribbean. The term was cut short by the the GORTT's instruction to close schools as part of T&T's COVID-19 risk mitigation strategy.
+b. During the 2019/2020 academic year: Term 2: Engineering Our Existence 77 members explored a variety of STEM topics such as civil engineering, manufacturing, energy, sustainability and materials science, within the context of the Caribbean. The term was cut short by the the GORTT's instruction to close schools as part of T&T's COVID-19 risk mitigation strategy.
 
-- Caribbean Youth Science Forum (CYSF): This forum is aimed at developing the next generation of S&T professionals from the region whose knowledge and skills contribute to the improvement of society. Participants leave with greater capacity for problem-solving using scientific methodologies and have greater knowledge of the diverse careers in STI. The  programme  contributes  to  a  knowledge-driven  economy  through  provision  of academic and social activities that facilitate the development of 21 st century skills.
+(2) Caribbean Youth Science Forum (CYSF): This forum is aimed at developing the next generation of S&T professionals from the region whose knowledge and skills contribute to the improvement of society. Participants leave with greater capacity for problem-solving using scientific methodologies and have greater knowledge of the diverse careers in STI. The programme contributes to a knowledge-driven economy through provision of academic and social activities that facilitate the development of 21st century skills.
 
 [[END OF PAGE 32]]
 
@@ -1084,7 +1087,7 @@ CYSF provided its alumni of over 2,300 Caribbean STEM students with the opportun
 
 Science Weeks aimed to present informal science education provided visitors with a better grasp of science concepts, processes and issues through simulation, experimentation, demonstrations, workshops and exhibits. More recently, displays and age-appropriate activities were developed to highlight and celebrate the universality of the aforementioned ESD themes during the following events:
 
-- Held from 3 rd -8 th  June 2019, the Environment and Oceans Science Week commemorated the observance of United Nations' (UN) World Environment Day and UN World  Oceans  Day.  Visitors  explored  both  themes  and  relevance  of  protecting  the environment and preservation of oceanic ecosystems to local and regional practice and sustainability.  149  tours  (117  families,  7  preschools,  17  primary  schools,  8  secondary schools) were conducted for the 1,715 persons who visited the Centre to participate in the activities. Visitors' feedback reported that the objectives were achieved, and that exposure gained was meaningful.  The responses indicated as follows:
+(1) Held from 3rd – 8th June 2019, the Environment and Oceans Science Week commemorated the observance of United Nations' (UN) World Environment Day and UN World Oceans Day. Visitors explored both themes and relevance of protecting the environment and preservation of oceanic ecosystems to local and regional practice and sustainability. 149 tours (117 families, 7 preschools, 17 primary schools, 8 secondary schools) were conducted for the 1,715 persons who visited the Centre to participate in the activities. Visitors' feedback reported that the objectives were achieved, and that exposure gained was meaningful. The responses indicated as follows:
 
 - Of  the  student  population, 88.0%  indicated  that  they  were  more  interested  in science  with 82.0%  indicating  increased  confidence  towards  studying  science; 91.6% desire for science in school to be as fun and interactive as delivered during the tour
 
@@ -1092,9 +1095,9 @@ Science Weeks aimed to present informal science education provided visitors with
 
 - 88.8% of visitors (both children and adults) agreed that the tour brought to their attention  the  relevance  of  science  in  everyday  life  with  95.3%  indicating  their learned something new; 95.3% would recommend the experience to others with 94.2% desiring to visit the NSC in the future
 
-- Regarding the development of 21 st  century learning and innovation skills, visitors 13  years  and  older  agreed  that  they  were  given  opportunities  to  practise  their skills: oral  and  written  communication  (74.4%),  teamwork  and  collaboration (82.9%),  problem  solving  (82.9%),  critical  thinking  (82.3%),  and  creativity  and innovation (89.0%)
+- Regarding the development of 21st century learning and innovation skills, visitors 13 years and older agreed that they were given opportunities to practise their skills: oral and written communication (74.4%), teamwork and collaboration (82.9%), problem solving (82.9%), critical thinking (82.3%), and creativity and innovation (89.0%)
 
-- UN  World Water Day was observed  between 2 nd  -7 th  March 2020  via  the  Water  and Climate  Change  Action  Science  Week which highlighted  the  importance  of conserving water and adjusting human habits to ensure that climate change goals are met. The event attracted  a  total  of  1,837  visitors  including  13  families,  6  preschools, 20  primary schools, 15 secondary schools. Visitor feedback demonstrated that the event successfully met its intended objectives:
+(2) UN World Water Day was observed between 2nd -7th March 2020 via the Water and Climate Change Action Science Week which highlighted the importance of conserving water and adjusting human habits to ensure that climate change goals are met. The event attracted a total of 1,837 visitors including 13 families, 6 preschools, 20 primary schools, 15 secondary schools. Visitor feedback demonstrated that the event successfully met its intended objectives:
 
 - 95.8% of adults, including teachers and heads of households, were satisfied with their tours with 70.8% indicating increased interest in science, while 91.7% of them
 
@@ -1110,7 +1113,7 @@ expressed  increased  confidence  towards  science  and  81.3%  desiring  to  le
 
 - Regarding  the  development  of  21st century  learning  and  innovation  skills, surveyed visitors agreed that they were given opportunities to practise their skills via exhibit areas and activities:  Oral & written communication: 75.8%; Teamwork and  collaboration: 82.1%;  Problem  solving: 75.8%;  Critical thinking:  80%; Creativity and innovation: 82.1%
 
-- International Girls in ICT: In honour of International Girls in ICT Day, NIHERST hosts over 100  female  students  for  a  series  of  information  and  communication  technology  (ICT) workshops and a hackathon. These events takes place in May at the NIHERST National Science Centre. Focus is on topics as Robotics, 3D Printing, Mobile App Development and  Computer  Construction,  the  sessions  exposed  the  students  to  concepts  such  as coding and programming, and their practical applications in a range of fields. The girls learned skills such as writing code for robots and circuit boards, controlling and giving functionality to these devices. They were also challenged to create a mobile application that solves a real world problem.
+(3) International Girls in ICT: In honour of International Girls in ICT Day, NIHERST hosts over 100 female students for a series of information and communication technology (ICT) workshops and a hackathon. These events takes place in May at the NIHERST National Science Centre. Focus is on topics as Robotics, 3D Printing, Mobile App Development and Computer Construction, the sessions exposed the students to concepts such as coding and programming, and their practical applications in a range of fields. The girls learned skills such as writing code for robots and circuit boards, controlling and giving functionality to these devices. They were also challenged to create a mobile application that solves a real world problem.
 
 Events were supported by a variety of public and private sector stakeholders that undertake work in areas of relevance to the themes.
 
@@ -1129,13 +1132,13 @@ Training  including  discussions  and  questions  to  probe  livelihood  opportu
 
  Plumbers and Construction personnel trained expressed additional skills learnt in their field that will be utilised to assist residents in their and neighbouring communities.
 
-##### Caribbean  Women  in  Science  and  their  Careers:
+##### E. Caribbean Women in Science and their Careers:
 In  2011,  NIHERST  launched  the Caribbean Women in Science and their Careers, booklet and website.  It documents and promotes public awareness of the contribution, and often pioneering efforts, of Caribbean women in  various  science-based  and  technological  disciplines  and  professions,  including medicine, engineering, and the natural sciences.
 
-##### NIHERST/NASA  International  Internship  (NASA  I 2 ):
+##### F. NIHERST/NASA International Internship (NASA I²):
 NASA  continues  its internship education  exchange  programme  with  NIHERST  and  provides  national  students  with  the opportunity to conduct research work under mentorship of a member of NASA's science and engineering  workforce.  Tertiary  level  students  at  the  undergraduate  and  graduate  level experienced cutting-edge research in a world-renowned environment and gained preparatory experience for STEM careers in their areas of study. Interns worked alongside international peers  at  the  NASA  Ames  Research  Centre  in  California.  This  project  has  influenced participants  to  pursue  further  research  work  at  local  institutions  related  to  research  areas pursued  at  NASA.  To  date  14  nationals  have  increased  knowledge  gains  in  research methodologies  in  novel  areas  of  STEM  and  increased  hands-on  experience  in  unique scientific research fields
 
-##### FIRST® LEGO® LEAGUE (FLL) TRINIDAD AND TOBAGO:
+##### G. FIRST® LEGO® LEAGUE (FLL) TRINIDAD AND TOBAGO:
 NIHERST's partnership with FIRST LEGO® League (FLL) attracts over eighteen (18) teams representing a total of one hundred and thirty-eight (138) students. This is a global programme with a presence in 80 countries. Geared toward participants of 9 to 16 years (ages vary by country of participation), the  programme  utilises  theme-based  challenges  to  engage  children  in  research,  problem solving,  and  engineering.  The cornerstones  of  the  programme  are  its  Core  Values,  which emphasize contributions of others, friendly competition, learning, and community involvement. Theme based challenges are based on a real-world scientific topic, this includes, water and climate change.
 
 The feedback of coaches, participants and parents on FLL was recorded as follows:
@@ -1150,38 +1153,38 @@ The feedback of coaches, participants and parents on FLL was recorded as follows
 
 [[START OF PAGE 36]]
 
-- YTEPP Limited  has  conducted  training  in  ICT  for  approximately  800  differently  abled persons over the past 5 years on our mobile computer training unit that has been specially outfitted to service the needs of the differently abled.
+3. YTEPP Limited has conducted training in ICT for approximately 800 differently abled persons over the past 5 years on our mobile computer training unit that has been specially outfitted to service the needs of the differently abled.
 
-- The  Research  Evaluation  and  Outreach  unit  at  UWI  undertake  many  adult  education programmes.  These  programmes  are  geared  towards  building  individuals'  capacity  in various educational disciplines. For example, The Certificate in Leadership of TVET was delivered to the staff of National Training Authority and TVET leaders in Belize (EU funded in  collaboration  with  the  German  Chamber  of  Commerce  and  GFA  Consulting  Group GmbH). Also, a Certificate in Sign Language was delivered to individuals who wished to become competent in Sign Language basics.
+4. The Research Evaluation and Outreach unit at UWI undertake many adult education programmes. These programmes are geared towards building individuals' capacity in various educational disciplines. For example, The Certificate in Leadership of TVET was delivered to the staff of National Training Authority and TVET leaders in Belize (EU funded in collaboration with the German Chamber of Commerce and GFA Consulting Group GmbH). Also, a Certificate in Sign Language was delivered to individuals who wished to become competent in Sign Language basics.
 
 ### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
 
 #### H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
-- YTEPP Limited has not conducted a comprehensive evaluation of its initiatives that can be related to GCED and ESD.
+1. YTEPP Limited has not conducted a comprehensive evaluation of its initiatives that can be related to GCED and ESD.
 
-- In 2018, COSTAATT undertook the exercise to review its degree programmes, core curriculum (general education) and graduate attributes. Stakeholder feedback (students, graduates, faculty, and employers) informed the revision of the College's curriculum to better align to the need of these constituents. Elements of the GCED and/or ESD global objectives would have been considered during these review exercises and integrated in the curricula as necessary.
+2. In 2018, COSTAATT undertook the exercise to review its degree programmes, core curriculum (general education) and graduate attributes. Stakeholder feedback (students, graduates, faculty, and employers) informed the revision of the College's curriculum to better align to the need of these constituents. Elements of the GCED and/or ESD global objectives would have been considered during these review exercises and integrated in the curricula as necessary.
 
-- Research in these areas is conducted by Faculty at UTT. The findings are reflected upon and may be incorporated to update curricula.
+3. Research in these areas is conducted by Faculty at UTT. The findings are reflected upon and may be incorporated to update curricula.
 
-- The School of Education at UWI has a long tradition on Research. Evidence-based decision making is one of the mantras of the institution. The staff conduct research on many disciplines and have presented in many international conferences and published widely. More recently, there is evidence to show the GCED and ESD are considered in their research activities. One example is the series of webinars conducted by the School of Education on various topics. It was clear that the School of Education is a trailblazer in implementing GCED and ESD in the region.
+4. The School of Education at UWI has a long tradition on Research. Evidence-based decision making is one of the mantras of the institution. The staff conduct research on many disciplines and have presented in many international conferences and published widely. More recently, there is evidence to show the GCED and ESD are considered in their research activities. One example is the series of webinars conducted by the School of Education on various topics. It was clear that the School of Education is a trailblazer in implementing GCED and ESD in the region.
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | ---
-Hosting of international meetings on GCED and/or ESD | 0 | 1 | 9
-Participation in international meetings abroad on GCED and/or ESD | 1 | 1 | 1
-Support for programmes hosting foreign students, researchers and/or teachers | 0 | 1 | 1
-Membership of international networks including ASPnet | 1 | 1 | 9
-Joint research projects on GCED and/or ESD with foreign institutions | 0 | 1 | 9
-Other activities (please specify): | 9 | 9
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+| --- | --- | --- | --- | --- |
+| Hosting of international meetings on GCED and/or ESD | 0 |  | 1 | 9 |
+| Participation in international meetings abroad on GCED and/or ESD | 1 |  | 1 | 1 |
+| Support for programmes hosting foreign students, researchers and/or teachers | 0 |  | 1 | 1 |
+| Membership of international networks including ASPnet | 1 |  | 1 | 9 |
+| Joint research projects on GCED and/or ESD with foreign institutions | 0 |  | 1 | 9 |
+| Other activities (please specify): |  |  | 9 | 9 |
 
 [[END OF PAGE 37]]
 
@@ -1191,11 +1194,11 @@ Other activities (please specify): | 9 | 9
 
 #### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
 
-- The global reduction in resource prices had restricted funding for some specialisations and projects. The Bachelor of Education secondary specialisations in History, Sociology and Geography were discontinued. These would have prepared students in tertiary level studies, projects and research in GCED and/or ESD. However, the effort continues with the Pre-primary, Primary and Special Needs specialisations. (UTT)
+1. The global reduction in resource prices had restricted funding for some specialisations and projects. The Bachelor of Education secondary specialisations in History, Sociology and Geography were discontinued. These would have prepared students in tertiary level studies, projects and research in GCED and/or ESD. However, the effort continues with the Pre-primary, Primary and Special Needs specialisations. (UTT)
 
-- The Pandemic which began in 2020 has restricted research and outreach to communities. (UTT)
+2. The Pandemic which began in 2020 has restricted research and outreach to communities. (UTT)
 
-- The School of Education at UWI has not experienced any major crisis before the pandemic. What the pandemic has done is to reorient the School of Education towards GCED to ensure that it maintains the completive advantage in Global Citizen Education.
+3. The School of Education at UWI has not experienced any major crisis before the pandemic. What the pandemic has done is to reorient the School of Education towards GCED to ensure that it maintains the completive advantage in Global Citizen Education.
 
 #### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
 
