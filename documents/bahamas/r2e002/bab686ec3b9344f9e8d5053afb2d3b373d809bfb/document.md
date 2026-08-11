@@ -2,51 +2,7 @@
 
 EDUCATION
 
-[ CH.46 1
-
-SECTION
-
-- Short title and commencement.
-
-- Interpretation.
-
-### PART I
-#### CENTRAL ADMINISTRATION
-
-- Duties and responsibilities of the Minister.
-
-- Powers of the Minister.
-
-- Establishment of Department of Education.
-
-- Duties of Director.
-
-- Establishment of National Advisory Council.
-
-- Duties of Council.
-
-- Meetings of Council.
-
-- Annual Report.
-
-### PART II
-#### THE STATUTORY SYSTEM OF EDUCATION
-
-##### The Three Stages of the System
-
-- Stages and purpose of statutory system of education.
-
-##### Provision and Maintenance of Primary and Secondary Schools
-
-- Duty of Minister to secure provision of primary and secondary schools.
-
-- Powers of Minister to establish, maintain or assist primary and secondary schools.
-
-##### Management of Primary Schools and Secondary Schools
-
-- School Boards.
-
--------------------------------------------------------------------------------
+[CH.46 – 1
 
 EDUCATION
 
@@ -58,6 +14,48 @@ EDUCATION
 
 ### PRELIMINARY
 
+SECTION
+
+1. Short title and commencement.
+
+2. Interpretation.
+
+### PART I
+#### CENTRAL ADMINISTRATION
+
+3. Duties and responsibilities of the Minister.
+
+4. Powers of the Minister.
+
+5. Establishment of Department of Education.
+
+6. Duties of Director.
+
+7. Establishment of National Advisory Council.
+
+8. Duties of Council.
+
+9. Meetings of Council.
+
+10. Annual Report.
+
+### PART II
+#### THE STATUTORY SYSTEM OF EDUCATION
+
+##### The Three Stages of the System
+
+11. Stages and purpose of statutory system of education.
+
+##### Provision and Maintenance of Primary and Secondary Schools
+
+12. Duty of Minister to secure provision of primary and secondary schools.
+
+13. Powers of Minister to establish, maintain or assist primary and secondary schools.
+
+##### Management of Primary Schools and Secondary Schools
+
+14. School Boards.
+
 [Original Service 2001]
 
 STATUTE LAW OF THE BAHAMAS
@@ -66,9 +64,65 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 2]]
 
-CH.46 2]
+CH.46 – 2]
 
 EDUCATION
+
+##### Secular Instruction and Appointment and Dismissal of Teachers in Maintained or Assisted Schools
+
+15. Secular instruction in maintained and assisted schools.
+
+16. Contracts, etc., of Board of Education.
+
+##### Religious Education in Maintained Schools
+
+17. General provisions for religious education in maintained schools.
+
+18. Special provisions as to religious education in maintained schools.
+
+19. Religious education in schools other than maintained schools.
+
+##### Primary and Secondary Education of Pupils Requiring Special Educational Treatment
+
+20. Education of pupils requiring special educational treatment.
+
+21. Minister to ascertain what children require special educational treatment.
+
+##### Compulsory Attendance at Primary and Secondary Schools
+
+22. Compulsory school age.
+
+23. Duty of parents to secure the education of their children.
+
+24. School attendance orders.
+
+25. Duty of parents to secure regular attendance of registered pupils.
+
+26. Penalties for offences under sections 24 and 25.
+
+##### Further Education
+
+27. General duties of Minister in respect of further education.
+
+28. Power of Minister to establish centres for further education.
+
+29. Control of other institutions for further education.
+
+30. Use of word “university”, etc.
+
+##### Supplementary Provisions as to Primary, Secondary and Further Education
+
+31. Medical inspection and treatment of pupils.
+
+32. Provision of facilities for recreation and social and physical training.
+
+33. Power to ensure cleanliness.
+
+34. Provision of transport.
+
+35. Power to provide primary and secondary education otherwise than at school.
+
+36. Duty of Minister in respect of pupils incapable of receiving education at school.
 
 STATUTE LAW OF THE BAHAMAS
 
@@ -80,63 +134,61 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 3
-
-- Inspection.
-
-- Provision of certain medical services for pupils not in attendance at schools maintained by the Minister.
-
-- Registration of pupils at schools.
-
-- Power of Minister to give assistance by means of scholarships or otherwise.
-
-- Power of Minister to give assistance to schools not maintained by him.
-
-- Notices.
-
-- Saving as to persons of unsound mind and persons detained by order of a court.
-
-- Power of Minister to make regulations.
-
-- Power to amend First and Third Schedules.
-
--------------------------------------------------------------------------------
+[CH.46 – 3
 
 ##### Employment of Children
 
-- Power of Minister to prohibit or restrict employment of children.
+37. Power of Minister to prohibit or restrict employment of children.
 
 ##### Miscellaneous Provisions
 
-- Prohibition of fees in schools maintained by the Minister.
+38. Prohibition of fees in schools maintained by the Minister.
 
-- Duties of Minister as to the training of teachers.
+39. Duties of Minister as to the training of teachers.
 
 ### PART III
 #### INDEPENDENT SCHOOLS
 
-- Registration of independent schools.
+40. Registration of independent schools.
 
-- Complaint.
+41. Complaint.
 
-- Determination of complaints.
+42. Determination of complaints.
 
-- Enforcement.
+43. Enforcement.
 
-- Removal of disqualifications.
+44. Removal of disqualifications.
 
-- Rights of registered independent schools.
+45. Rights of registered independent schools.
 
-- Returns.
+46. Returns.
 
 ### PART IV
 #### GENERAL
 
 ##### General Principle to be Observed by the Minister
 
-- Pupils to be educated in accordance with the wishes of their parents.
+47. Pupils to be educated in accordance with the wishes of their parents.
 
 ##### Miscellaneous Provisions
+
+48. Inspection.
+
+49. Provision of certain medical services for pupils not in attendance at schools maintained by the Minister.
+
+50. Registration of pupils at schools.
+
+51. Power of Minister to give assistance by means of scholarships or otherwise.
+
+52. Power of Minister to give assistance to schools not maintained by him.
+
+53. Notices.
+
+54. Saving as to persons of unsound mind and persons detained by order of a court.
+
+55. Power of Minister to make regulations.
+
+56. Power to amend First and Third Schedules.
 
 [Original Service 2001]
 
@@ -146,25 +198,27 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 4]]
 
-CH.46 4]
+CH.46 – 4]
 
 EDUCATION
 
-- Expenses.
+57. Expenses.
 
-- Method of supply and withdrawal of funds.
+58. Method of supply and withdrawal of funds.
 
-- Minister may order production of books of account.
+59. Minister may order production of books of account.
 
-- Appointment of auditors.
+60. Appointment of auditors.
 
-- Additional auditing responsibilities.
+61. Additional auditing responsibilities.
 
-- Regulations by Minister of Finance.
+62. Regulations by Minister of Finance.
 
-FIRST SCHEDULE. - Management of Maintained Schools.
+FIRST SCHEDULE. — Management of Maintained Schools.
 
-SECOND SCHEDULE. - Exempt Schools. THIRD SCHEDULE.
+SECOND SCHEDULE. — Exempt Schools.
+
+THIRD SCHEDULE.
 
 STATUTE LAW OF THE BAHAMAS
 
@@ -176,7 +230,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 5
+[CH.46 – 5
 
 # CHAPTER 46
 
@@ -186,7 +240,7 @@ An Act to consolidate and amend the law relating to education within the Bahama 
 
 [Assent 23rd May, 1962] [Commencement 1st September, 1962]
 
-- This Act may be cited as the Education Act.
+1. This Act may be cited as the Education Act.
 
 2. (1) In this Act, unless the context otherwise requires, the following expressions have the  meanings hereby respectively assigned to them, that is to say -
 
@@ -216,7 +270,7 @@ An Act to consolidate and amend the law relating to education within the Bahama 
 
 21 of 1996, s. 2.
 
-21 of 1996, s 2.
+21 of 1996, s. 2.
 
 [Original Service 2001]
 
@@ -226,17 +280,41 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 6]]
 
-CH.46 6]
+CH.46 – 6]
 
 EDUCATION
 
-'exempt school' means a school referred to in the Second Schedule to this Act;
---- | ---
-15 of 1970, s. 2. | 'institution for the provision of further education' has the meaning assigned to it by section 29 of this Act;
-57 of 1963, s. 17. | 'medical inspection' means inspection by or under the direction of a medical officer employed or engaged, whether regularly or for the purpose of a particular case, by the Minister or the Minister of Health; 'medical officer' means a duly qualified medical
-21 of 1996, s. 2. | 'medical treatment' includes assessment, examina- tion and treatment by any duly qualified medical practitioner;
-E.L.A.O., 1974. | 'Minister' means the Minister responsible for Edu- cation;
-includes a guardian and every person who has the actual custody of a child or young person; 'premises', in relation to any school, includes any detached playing fields, but, except where otherwise expressly provided, does not include a teacher's dwelling house; 'primary education' has the meaning assigned to it
+“exempt school” means a school referred to in the Second Schedule to this Act;
+
+“further education” has the meaning assigned to it by section 27 of this Act;
+
+“independent school” means any school at which full-time education is provided for five or more pupils of compulsory school age (whether or not such education is also provided for pupils under or over that age), not being a school maintained by the Minister;
+
+“institution for the provision of further education” has the meaning assigned to it by section 29 of this Act;
+
+15 of 1970, s. 2.
+
+“maintain” in relation to any school or other educational establishment has the meaning assigned to it by subsection (2) of this section;
+
+“medical inspection” means inspection by or under the direction of a medical officer employed or engaged, whether regularly or for the purpose of a particular case, by the Minister or the Minister of Health;
+
+“medical officer” means a duly qualified medical practitioner employed or engaged, whether regularly or for the purposes of any particular case, by the Minister or the Minister of Health;
+
+57 of 1963, s. 17.
+
+“medical treatment” includes assessment, examination and treatment by any duly qualified medical practitioner;
+
+21 of 1996, s. 2.
+
+“Minister” means the Minister responsible for Education;
+
+E.L.A.O., 1974.
+
+“parent”, in relation to any child or young person, includes a guardian and every person who has the actual custody of a child or young person;
+
+“premises”, in relation to any school, includes any detached playing fields, but, except where otherwise expressly provided, does not include a teacher’s dwelling house;
+
+“primary education” has the meaning assigned to it by section 12 of this Act;
 
 STATUTE LAW OF THE BAHAMAS
 
@@ -248,16 +326,37 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 7
+[CH.46 – 7
 
-'primary pupil' means a child who has not attained the age of twelve years; | 21 of 1996, s. 2.
---- | ---
-'primary school' means, subject to the provisions of subsection (3) of this section, a school for providing primary education; 'proprietor', in relation to any institution for the provision of further education or school, means | 15 of 1970, s. 2.
-'pupil', where used without qualification, means a person of any age for whom education is required to be provided under this Act;
-'registered pupil' means, in relation to any school, a pupil registered as such in the register kept in accordance with the requirements of this Act, but does not include any child who has been withdrawn from school in the prescribed manner;
-'registered school' means an independent school registered in the register of independent schools, whereof the registration is final; 'regulations' means regulations made by the Minis- ter under the provisions of this Act; | 57 of 1963, s. 17.
-'school' means an institution for providing primary or secondary education or both primary and secondary education being a school maintained by the Minister or an independent school, and the expression 'school' where used without qualification shall include any such school or all such schools as the context may require; 'school year' shall have the meaning assigned to it in section 10 of this Act;
-'secondary education' has the meaning assigned to it by section 12 of this Act; 'secondary pupil' means a person who has attained the age of twelve years but has not attained the age of nineteen years; | 21 of 1990, s. 2.
+“primary pupil” means a child who has not attained the age of twelve years;
+
+21 of 1996, s. 2.
+
+“primary school” means, subject to the provisions of subsection (3) of this section, a school for providing primary education;
+
+“proprietor”, in relation to any institution for the provision of further education or school, means the person or body of persons responsible for the management of the institution for the provision of further education or school, and for the purposes of the provisions of this Act relating to applications for the registration of independent schools, includes any person or body of persons proposing to be so responsible;
+
+15 of 1970, s. 2.
+
+“pupil”, where used without qualification, means a person of any age for whom education is required to be provided under this Act;
+
+“registered pupil” means, in relation to any school, a pupil registered as such in the register kept in accordance with the requirements of this Act, but does not include any child who has been withdrawn from school in the prescribed manner;
+
+“registered school” means an independent school registered in the register of independent schools, whereof the registration is final;
+
+“regulations” means regulations made by the Minister under the provisions of this Act;
+
+57 of 1963, s. 17.
+
+“school” means an institution for providing primary or secondary education or both primary and secondary education being a school maintained by the Minister or an independent school, and the expression “school” where used without qualification shall include any such school or all such schools as the context may require;
+
+“school year” shall have the meaning assigned to it in section 10 of this Act;
+
+“secondary education” has the meaning assigned to it by section 12 of this Act;
+
+“secondary pupil” means a person who has attained the age of twelve years but has not attained the age of nineteen years;
+
+21 of 1990, s. 2.
 
 -------------------------------------------------------------------------------
 
@@ -269,7 +368,7 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 8]]
 
-CH.46 8]
+CH.46 – 8]
 
 EDUCATION
 
@@ -287,7 +386,7 @@ EDUCATION
 
 'young  person'  means  a  person  over  compulsory school  age  who  has  not  attained  the  age  of nineteen years.
 
-- For the purposes of this Act -
+(2) For the purposes of this Act —
 
 (a) the duty of the Minister to maintain a school or other  educational  establishment  shall  include the duty of defraying all the expenses of maintaining  the  school  or  other  educational establishment;
 
@@ -305,7 +404,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 9
+[CH.46 – 9
 
 Provided that where the primary education provided in any such school is provided in a separate department, the Minister may direct that for purposes of this Act the school shall  be  deemed  to  be  a  secondary  school,  and  such references as aforesaid shall be construed accordingly.
 
@@ -315,7 +414,7 @@ Provided that where the primary education provided in any such school is provide
 
 #### CENTRAL ADMINISTRATION
 
-3. (1) The duties of the Minister shall be to promote the education of the. people of The  Bahamas  by  the progressive  development,  in  so  far  as  the  resources  of  the Minister  permit,  of  schools  and  other  educational  establishments devoted to that end.
+3. (1) The duties of the Minister shall be to promote the education of the people of The Bahamas by the progressive development, in so far as the resources of the Minister permit, of schools and other educational establishments devoted to that end.
 
 (2) The  purpose  of  such  development  shall  be  to enable  the  children  of  The  Bahamas  to  understand  their privileges and responsibilities as members of the community,  to  contribute  to  the  progress  and  well-being  of  The Bahamas by the full development of their natural abilities, and to earn an adequate livelihood as adults.
 
@@ -340,7 +439,7 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 10]]
 
-CH.46 10]
+CH.46 – 10]
 
 EDUCATION
 
@@ -397,7 +496,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 11
+[CH.46 – 11
 
 9. The Minister may by rules make provision for the term of office and conditions of retirement of members of the Council, but subject to the provisions of any  such  rules,  the  meetings  and  procedure  of  the Council  shall  be  such  as  may  be  determined  by  that Council.
 
@@ -441,7 +540,7 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 12]]
 
-CH.46 12]
+CH.46 – 12]
 
 EDUCATION
 
@@ -485,7 +584,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 13
+[CH.46 – 13
 
 (b) maintain such schools whether originally established by the Minister, or not; and
 
@@ -522,7 +621,7 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 14]]
 
-CH.46 14]
+CH.46 – 14]
 
 EDUCATION
 
@@ -563,7 +662,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 15
+[CH.46 – 15
 
 ##### Religious Education in Maintained Schools
 
@@ -590,7 +689,6 @@ Provided that excuse from such attendance shall not alter  the  pupil's  liabili
 ###### Religious education in schools other than maintained schools.
 
 -------------------------------------------------------------------------------
-###### Education of pupils requiring special educational treatment.
 
 [Original Service 2001]
 
@@ -600,15 +698,17 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 16]]
 
-CH.46 16]
+CH.46 – 16]
 
 EDUCATION
 
-###### Minister to ascertain what children require special educational treatment
-
-21 of 1996, s, 14.
-
 ##### Primary and Secondary Education of Pupils Requiring Special Education Treatment
+
+###### Education of pupils requiring special educational treatment.
+
+###### Minister to ascertain what children require special educational treatment.
+
+21 of 1996, s. 14.
 
 20. (1) Regulations shall be made defining the several  categories  of  pupils  requiring  special  educational treatment  and  making  provision  as  to  the  special  methods appropriate for the education of pupils of each category.
 
@@ -630,7 +730,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 17
+[CH.46 – 17
 
 (2) If  the  parent  of  any  child  who  has  attained  the age of five years requests the Minister to cause the child to be so medically examined as aforesaid, the Minister shall comply  with  the  request  unless  in  the  opinion  of  the Minister the request is unreasonable.
 
@@ -673,7 +773,7 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 18]]
 
-CH.46 18]
+CH.46 – 18]
 
 EDUCATION
 
@@ -681,7 +781,7 @@ EDUCATION
 
 ###### School attendance orders.
 
-- Any person who -
+(5) Any person who —
 
 (a) obstructs  or  resists  any  such  officer  in  the performance of his duties; or
 
@@ -707,7 +807,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 19
+[CH.46 – 19
 
 (4) If  any  person  upon  whom  a  school  attendance order is served fails to comply with the requirements of the order, he shall be guilty of an offence against this section, unless he proves to the satisfaction of the Minister that he is causing the child to receive efficient full-time education suitable  to  his  age,  ability  and  aptitude  otherwise  than  at school.
 
@@ -740,7 +840,7 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 20]]
 
-CH.46 20]
+CH.46 – 20]
 
 EDUCATION
 
@@ -748,11 +848,11 @@ EDUCATION
 
 Ch. 97.
 
-Provided that, in the case of a child who has attained the age of six years, the parent shall not be entitled to be acquitted  under  this  subsection  unless  he  proves  that  the child had made at least 200 attendances during the period of  12  months  ending  with  the  date  of  which  proceedings were instituted.
+Provided that, in the case of a child who has attained the age of six years, the parent shall not be entitled to be acquitted under this subsection unless he proves that the child had made at least 200 attendances during the period of 12 months ending with the date on which proceedings were instituted.
 
 (4) In this section, the expression 'leave' in relation to any school means leave granted by any person authorised in that behalf by the managing authority of the school,  and  the  expression  'walking  distance'  means,  in relation  to  a  child  who  has  not  attained  the  age  of  eight years  two  miles,  and  in  the  case  of  any  other  child  three miles, measured by the nearest available route.
 
-26. (1) Subject to the provisions of this section, any person guilty of an offence against section 24 or section 25 of this Act shall be liable on summary conviction to a fine not exceeding fiftydollars, in the case of a second offence against  such  section  to  a  fine  not  exceeding  seventy-five dollars,  and  in  the  case  of  a  third  or  subsequent  offence against  such  section  to  a  fine  not  exceeding  one  hundred dollars,  or  to  imprisonment  for  a  term  not  exceeding  one month, or to both such fine and such imprisonment.
+26. (1) Subject to the provisions of this section, any person guilty of an offence against section 24 or section 25 of this Act shall be liable on summary conviction to a fine not exceeding fifty dollars, in the case of a second offence against such section to a fine not exceeding seventy-five dollars, and in the case of a third or subsequent offence against such section to a fine not exceeding one hundred dollars, or to imprisonment for a term not exceeding one month, or to both such fine and such imprisonment.
 
 (2) It  shall  be  the  duty  of  the  Minister  to  institute proceedings for such offences as aforesaid whenever, in his opinion, the institution of such proceedings is necessary for the  purpose  of  enforcing  the  duty  imposed  upon  a  parent by this Act to cause his child to receive efficient full-time education suitable to his age, ability and aptitude, and no such proceedings shall be instituted except by or on behalf of the Minister.
 
@@ -768,7 +868,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 21
+[CH.46 – 21
 
 (4) Where  proceedings  have  been  instituted  for  an offence against section 25 alleged to have been committed in  respect  of  any  child,  and  it  appears  to  the  officer  by whom  proceedings were instituted on behalf of the Minister that there is  reasonable  cause  to  believe  that  the punishment of the parent would not be sufficient to secure the regular attendance of the child at school, it shall be his duty to apply to the court for a direction under subsection (3) of this section; and where such an application is made, such a direction shall be given unless the court is satisfied that no such direction is necessary for the purpose aforesaid.
 
@@ -786,12 +886,11 @@ EDUCATION
 
 ###### General duties of Minister in respect of further education.
 
-###### Power of Minis ter to establish centres for further education.
+###### Power of Minister to establish centres for further education.
 
 (2) Nothing in subsection (1) of this section contained shall  preclude  the  Minister  from  providing,  outside  of  such institutions  or  in  association  with  existing  schools  or  other educational establishments, such special classes or courses for persons over compulsory school age as he  may  deem necessary  from  time  to  time  with  the  purpose  of  providing such  physical,  practical,  vocational  or  academic  training  as
 
 -------------------------------------------------------------------------------
-###### Control of other institutions for further education.
 
 [Original Service 2001]
 
@@ -801,17 +900,19 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 22]]
 
-CH.46 22]
+CH.46 – 22]
 
 EDUCATION
+
+will enable them to develop their various aptitudes and capabilities and will prepare them for the responsibilities of citizenship.
+
+###### Control of other institutions for further education.
 
 8 of 1968, s. 2.
 
 15 of 1970, s. 4.
 
-will  enable  them  to  develop  their  various  aptitudes  and capabilities and will prepare them for the responsibilities of citizenship.
-
-29. (1) No  person  shall  without  the  consent  of  the Minister establish or conduct or continue to conduct within The  Bahamas  any  institution  for  the  provision  of  further education and the Minister may refuse his consent thereto in any case unless he is satisfied that -
+29. (1) No person shall without the consent of the Minister establish or conduct or continue to conduct within The Bahamas any institution for the provision of further education and the Minister may refuse his consent thereto in any case unless he is satisfied that —
 
 (a) the courses of further education to be provided at such  institution  will  be  of  educational,  cultural, economic or other benefit to The Bahamas;
 
@@ -837,7 +938,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 23
+[CH.46 – 23
 
 (a) that the courses of further education being provided at such institution are not of educational, cultural, economic or other benefit to The Bahamas;
 
@@ -864,8 +965,6 @@ Ch. 53.
 15 of 1970, s. 4.
 
 -------------------------------------------------------------------------------
-###### Use of word 'university', etc.
-30 of 1968, s. 2.
 
 [Original Service 2001]
 
@@ -875,13 +974,17 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 24]]
 
-CH.46 24]
+CH.46 – 24]
 
 EDUCATION
 
 in  which  the  Minister  may  revoke  his  consent  to  the conduct within The Bahamas of any such institution in the event  of  the  Director  being  unable  to  obtain  sufficient particulars thereof.
 
-(8) For  the  purpose  of  this  section  the  expression 'institution  for  the  provision  of  further  education'  means any university, college, school or other organised institution in or by which courses in further education are conducted.
+(8) For the purpose of this section the expression “institution for the provision of further education” means any university, college, school or other organised institution in or by which courses in further education are conducted.
+
+###### Use of word “university”, etc.
+
+30 of 1968, s. 2.
 
 30. (1) No person shall -
 
@@ -905,7 +1008,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 25
+[CH.46 – 25
 
 ##### Supplementary Provisions as to Primary, Secondary and Further Education
 
@@ -929,7 +1032,6 @@ Provided that if the parent of any pupil gives to the Minister notice that he ob
 ###### Provision of facilities for recreation and social and physical training.
 
 -------------------------------------------------------------------------------
-###### Power to ensure cleanliness.
 
 [Original Service 2001]
 
@@ -939,23 +1041,25 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 26]]
 
-CH.46 26]
+CH.46 – 26]
 
 EDUCATION
-
-21 of 1996, s. 20.
 
 whether  appropriate  to  any  school  or  other  educational establishment or not at which facilities for recreation and for such training as aforesaid are available for persons for whom primary, secondary or further education is provided by the Minister, and may organize games, expeditions and other activities for such  persons,  and  may  defray  or contribute towards the expenses thereof.
 
 (2) The  Minister,  in  making  arrangements  for  the provision  of  facilities,  or  the  organization  of  activities under  the  powers  conferred  on  him  by  subsection  (1)  of this section shall, in particular, have regard to the expediency of co-operating with any voluntary societies or bodies whose objects include the provision of facilities for or the organization of activities of a similar character.
 
-33. (1) The  Minister  may,  by  directions  in  writing issued  with  respect  to  all  schools  maintained  by  him  or with respect to any of such schools named in the directions, authorise a Government medical officer to cause examinations  of  the  persons  and  clothing  or  pupils  in attendance  at  such  schools  to  be  made  whenever  in  the Minister's opinion such examinations are necessary in the interests of cleanliness.
+33. (1) The  Minister  may,  by  directions  in  writing issued  with  respect  to  all  schools  maintained  by  him  or with respect to any of such schools named in the directions, authorise a Government medical officer to cause examinations  of  the  persons  and  clothing  of  pupils  in attendance  at  such  schools  to  be  made  whenever  in  the Minister's opinion such examinations are necessary in the interests of cleanliness.
 
 (2) If  the  person  or  clothing  of  any  pupil  is  found upon such examination to be infested with vermin or in a foul condition, any officer of the Minister may serve upon the parent of the pupil a notice requiring him to cause the person  and  clothing  of  the  pupil  to  be  cleansed  within twenty-four hours.
 
 (3) If the parent fails to comply with a notice served under subsection (2) he shall be guilty  of  an  offence  and shall  be  liable  on  summary  conviction  to  a  fine  not exceeding fifty dollars.
 
 (4) Where  an  officer  of  the  Minister  suspects  that the  person  or  clothing  of  any  pupil  in  attendance  at  a school maintained by the Minister is infested with vermin or  in  a  foul  condition,  but  action  for  the  examination thereof  cannot  immediately  be  taken,  he  may,  in  the interests of the pupil or of other pupils in attendance at the school,  direct  that  the  pupil  be  excluded  from  the  school until such action is taken.
+
+###### Power to ensure cleanliness.
+
+21 of 1996, s. 20.
 
 STATUTE LAW OF THE BAHAMAS
 
@@ -967,7 +1071,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 27
+[CH.46 – 27
 
 (5) No  girl  shall  be  examined  under  the  powers conferred by this section save by a duly qualified medical practitioner or by a woman authorised for that purpose by the Minister.
 
@@ -1000,13 +1104,9 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 28]]
 
-CH.46 28]
+CH.46 – 28]
 
 EDUCATION
-
-###### Power of Minister to prohibit or restrict employment of children.
-
-21 of 1996, s. 22.
 
 or  body of such a nature or to such an extent as to make him incapable of receiving education at school, it shall be the duty of the Minister to issue to the parents a report that the child has been found incapable of receiving education at school.
 
@@ -1018,7 +1118,11 @@ or  body of such a nature or to such an extent as to make him incapable of recei
 
 37. (1) If  it  appears  to  the  Minister  that  any  child under the age of sixteen years who is a registered pupil at a school  maintained  by  him  is  being  employed  in  such  a manner as to be prejudicial to his health or otherwise as to render him unfit to obtain the full benefit of the education provided  for  him,  the  Minister  may,  by  notice  in  writing served  upon  the  employer,  prohibit  him  from  employing the child, or impose such restrictions upon his employment of the child as appear to the Minister to be expedient in the interests of the child.
 
-(2) The  Minister  may,  by  notice  in  writing  served upon  the  parent  or  employer  of  any  child  who  is  a registered pupil at a school maintained by him, require the parent  or  employer  to  provide  the  Minister,  within  such period as may  be  specified  in  the notice,  with  such information  as  appears  to  the  Minister  to  be  necessary for the purpose of enabling him to decide whether the child is being employed in such a manner as to render him unfit to obtain the full benefit of the education provided for him.
+(2) The  Minister  may,  by  notice  in  writing  served upon  the  parent  or  employer  of  any  child  who  is  a registered pupil at a school maintained by him, require the parent  or  employer  to  provide  the  Minister,  within  such period as may  be  specified  in  the notice,  with  such information  as  appears  to  the  Minister  to  be  necessary
+
+###### Power of Minister to prohibit or restrict employment of children.
+
+21 of 1996, s. 22.
 
 STATUTE LAW OF THE BAHAMAS
 
@@ -1030,9 +1134,11 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 29
+[CH.46 – 29
 
-(3) Any person who employs a child in contravention of any prohibition or restriction imposed under subsection (1) of this section, or who fails to comply with the requirements of a notice served under subsection (2) of this section, shall be guilty of an offence  against  this  section,  and  shall  be  liable  on  summary conviction, in the case of a first offence to a fine not exceeding fifty dollars, in the caseof a second offence to a fine not exceeding seventy-five  dollars,  and  in  the  case  of  a  third  or  subsequent offence  to  a  fine  not  exceeding  one  hundred  dollars  or  to imprisonment for a term not exceeding one month or to both such fine and such imprisonment.
+for the purpose of enabling him to decide whether the child is being employed in such a manner as to render him unfit to obtain the full benefit of the education provided for him.
+
+(3) Any person who employs a child in contravention of any prohibition or restriction imposed under subsection (1) of this section, or who fails to comply with the requirements of a notice served under subsection (2) of this section, shall be guilty of an offence  against  this  section,  and  shall  be  liable  on  summary conviction, in the case of a first offence to a fine not exceeding fifty dollars, in the case of a second offence to a fine not exceeding seventy-five  dollars,  and  in  the  case  of  a  third  or  subsequent offence  to  a  fine  not  exceeding  one  hundred  dollars  or  to imprisonment for a term not exceeding one month or to both such fine and such imprisonment.
 
 ##### Miscellaneous Provisions
 
@@ -1049,7 +1155,6 @@ Provided  that  in  the  case  of  any  part-time  class  or course provided by 
 21 of 1996, s. 23.
 
 -------------------------------------------------------------------------------
-###### Duties of Minister as to the training of teachers.
 
 [Original Service 2001]
 
@@ -1059,21 +1164,15 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 30]]
 
-CH.46 30]
+CH.46 – 30]
 
 EDUCATION
-
-21 of 1996, s. 24.
-
-21 of 1996, s. 24.
-
-###### Registration of independent schools.
 
 39. (1) In execution of the duties imposed on him by this Act, the Minister  shall,  in  particular,  make  such arrangements as he considers expedient and as his resources permit for securing that there shall be sufficient facilities for the training of teachers for service in schools and other establishments maintained by the Minister.
 
 (2) Regulations may be made under this section with regard  to  the  emoluments,  allowances  and  conditions  of service  of  students  in  training  as  teachers,  their  selection, training and retraining as teachers.
 
-- In this section, 'teachers' includes -
+(3) In this section, “teachers” includes —
 
 (a) senior teacher,  master  teacher,  senior  master  or senior mistress; and
 
@@ -1082,13 +1181,21 @@ EDUCATION
 ### PART III
 #### INDEPENDENT SCHOOLS
 
-40. (1) The Director shall be the Registrar of Independent  Schools,  and  it  shall  be  his  duty  to  keep  a register  of  all  independent  schools  (other  than  exempt .schools), which register shall be open to public inspection at all reasonable times and, subject as hereinafter provided, to enter therein in the manner and form prescribed particulars of all independent schools registered under the provisions of this Act.
+40. (1) The Director shall be the Registrar of Independent  Schools,  and  it  shall  be  his  duty  to  keep  a register  of  all  independent  schools  (other  than  exempt schools), which register shall be open to public inspection at all reasonable times and, subject as hereinafter provided, to enter therein in the manner and form prescribed particulars of all independent schools registered under the provisions of this Act.
 
 (2) No  independent  school,  (other  than  an  exempt school) which is not in existence at the date of the coming into  operation of this Act, shall be opened, maintained or conducted  unless  and  until it is registered under  the provisions  of  this  Act,  and  pending  compliance  with  the provisions  of  subsection  (3)  of  this  section,  the  Minister may  grant  provisional  registration  for  such  period  as  he may think fit to any such school.
 
 (3) Any independent school the proprietor of which makes application to the Minister for registration under the provisions  of  this  Act,  shall  be  so  registered  unless  it  is objectionable on any of the following grounds -
 
 (a) that the school premises or any part thereof are unsuitable for a school;
+
+###### Duties of Minister as to the training of teachers.
+
+21 of 1996, s. 24.
+
+21 of 1996, s. 24.
+
+###### Registration of independent schools.
 
 STATUTE LAW OF THE BAHAMAS
 
@@ -1100,7 +1207,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 31
+[CH.46 – 31
 
 (b) that  the  accommodation  provided  at  the  school premises is unsuitable or inadequate having regard to the number, ages and sex of the pupils attending the school;
 
@@ -1112,14 +1219,13 @@ EDUCATION
 
 (5) If  after  the  expiration of three months from the date of coming into force of this Act any person conducts or  takes  part  in  the  conduct  of  an  independent  school (whether established before, or after the date of the coming into  force  of  this  Act  and  not  being  an  exempt  school), which is  not  a  registered  school,  he  shall  be  guilty  of  an offence and shall be liable on summary conviction to fine not exceeding eighty dollars or in the case of a second or subsequent conviction, to a fine not exceeding two hundred dollars or to imprisonment for a term not exceeding three months, or to both such imprisonment and such fine.
 
+(6) Regulations may be made prescribing the particulars  to  be  furnished  to  the  Registrar  of  Independent Schools and such regulations may provide for the notification to the Registrar of any changes in the particulars  so  furnished,  and  as  to  the  circumstances  in which the Minister may order the name of any school to be deleted from the register in the event of the Registrar being unable to obtain sufficient particulars thereof. Such regulations may  also prescribe the procedure for the hearing by the Minister of an application for registration.
+
 Ch. 53.
 
 5 of 1987, s. 2.
 
-(6) Regulations may be made prescribing the particulars  to  be  furnished  to  the  Registrar  of  Independent Schools and such regulations may provide for the notification to the Registrar of any changes in the particulars  so  furnished,  and  as  to  the  circumstances  in which the Minister may order the name of any school to be deleted from the register in the event of the Registrar being unable to obtain sufficient particulars thereof. Such regulations may  also prescribe the procedure for the hearing by the Minister of an application for registration.
-
 -------------------------------------------------------------------------------
-###### Complaints.
 
 [Original Service 2001]
 
@@ -1129,7 +1235,7 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 32]]
 
-CH.46 32]
+CH.46 – 32]
 
 EDUCATION
 
@@ -1149,6 +1255,8 @@ the Minister shall serve upon the proprietor of the school a notice of complaint
 
 (3) Every  notice  of  complaint  served  under  this section  and  every  copy  of  such  a  notice  so  served  shall limit  the  time,  not  being  less  than  one  month  after  the service  of  the  notice  or  copy  within  which  the  complaint may be referred to the Supreme Court under the provisions hereinafter contained.
 
+###### Complaints.
+
 STATUTE LAW OF THE BAHAMAS
 
 [Original Service 2001]
@@ -1159,9 +1267,9 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 33
+[CH.46 – 33
 
-42. (1) Any person upon whom a notice or complaint or  a  copy  of  such  notice  is  served  under  section  41  may, within the time limited by the notice, appeal therefrom in such  manner  as  may  be  provided  by  rules  made  under section  76  of  the  Supreme  Court  Act  to  the  Supreme Court.
+42. (1) Any person upon whom a notice of complaint or  a  copy  of  such  notice  is  served  under  section  41  may, within the time limited by the notice, appeal therefrom in such  manner  as  may  be  provided  by  rules  made  under section  76  of  the  Supreme  Court  Act  to  the  Supreme Court.
 
 (2) Upon  such  a  complaint  being  submitted  to  the Supreme Court, the Supreme Court may, after due investigation -
 
@@ -1171,7 +1279,7 @@ EDUCATION
 
 (c) order that the school be so struck off unless the requirements of the notice subject to such modifications, if any, as may be specified in the order are complied with to the satisfaction of the Minister  before  the  expiration  of  such  time  as may be specified in the order;
 
-(d) if  satisfied  that  the  premises  alleged  by  the notice of complaint to be unsuitable for use in a school  or  any  part  of  such  premises  are  in  fact unsuitable for such use, by order disqualify the premises of part from being so used, if satisfied that  the  accommodation  provided  at  the  school premises is inadequate or unsuitable having regard to the number, ages and sex of the pupils attending  the  school,  by  order  disqualify  the premises from being used as a school for pupils exceeding such number or of such age or sex as may be specified in the order;
+(d) if  satisfied  that  the  premises  alleged  by  the notice of complaint to be unsuitable for use in a school  or  any  part  of  such  premises  are  in  fact unsuitable for such use, by order disqualify the premises or part from being so used, if satisfied that  the  accommodation  provided  at  the  school premises is inadequate or unsuitable having regard to the number, ages and sex of the pupils attending  the  school,  by  order  disqualify  the premises from being used as a school for pupils exceeding such number or of such age or sex as may be specified in the order;
 
 (e) if satisfied that any person alleged by the notice of complaint to be a person who is not a proper person  to  be  the  proprietor  of  an  independent school, or to be a teacher in any school is in fact such  a  person,  by  order  disqualify  that  person from  being  the  proprietor  of  any  independent school or from being a teacher in any school, as the case may be.
 
@@ -1191,15 +1299,9 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 34]]
 
-CH.46 34]
+CH.46 – 34]
 
 EDUCATION
-
-###### Enforcement.
-
-5 of 1987, s. 2.
-
-5 of 1987, s. 2.
 
 have power to make any order which the Supreme Court would have had power to make had the complaint been so referred:
 
@@ -1213,6 +1315,12 @@ Provided  that,  if  it  was  alleged  by  the  notice  of complaint  that  any 
 
 (3) If any person acts as the proprietor of an independent  school,  or  accepts  or  endeavours  to  obtain employment  as  a  teacher  in  any  school,  while  he  is disqualified from so acting or from being so employed by virtue  of  any  order  as  aforesaid,  he  shall  be  guilty  of  an offence and shall be liable on summary conviction to a fine not exceeding eighty dollars or in the case of a second or subsequent conviction to a fine not exceeding two hundred dollars, or to imprisonment for a term not exceeding three months, or to both such imprisonment and such fine.
 
+###### Enforcement.
+
+5 of 1987, s. 2.
+
+5 of 1987, s. 2.
+
 STATUTE LAW OF THE BAHAMAS
 
 [Original Service 2001]
@@ -1223,7 +1331,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 35
+[CH.46 – 35
 
 (4) No proceedings shall be instituted for an offence against this Part of this Act except by or on behalf of the Attorney-General or the Minister.
 
@@ -1256,7 +1364,6 @@ Ch. 53.
 ###### Returns.
 
 -------------------------------------------------------------------------------
-###### Pupils to be educated in accordance with the wishes of their parents.
 
 [Original Service 2001]
 
@@ -1266,17 +1373,9 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 36]]
 
-CH.46 36]
+CH.46 – 36]
 
 EDUCATION
-
-###### Inspection.
-
-57 of 1963, s. 16.
-
-- 15 of 1970, s. 5. 21 of 1996, s. 25.
-
-21 of 1996, s. 25.
 
 ### PART IV
 #### GENERAL
@@ -1287,11 +1386,23 @@ EDUCATION
 
 ##### Miscellaneous Provisions
 
-48. (1) It  shall  be  the  duty  of  the  Minister  to  cause inspections to be made of all schools maintained by him. Such inspections shall be carried out in such manner and at such intervals at the Minister may decide.
+48. (1) It  shall  be  the  duty  of  the  Minister  to  cause inspections to be made of all schools maintained by him. Such inspections shall be carried out in such manner and at such intervals as the Minister may decide.
 
 (2) The Minister may cause inspections to be made of  schools  assisted  by  the  Minister  and  of  schools  not assisted by the Minister but registered under the provisions of this Act. The Minister may also cause inspections to be made of institutions for the provision of further education established or conducted under the provisions of this Act. Inspection of such schools and institutions shall be carried out  not  more  frequently  than  once  every  six  months  and due  notice  thereof  shall  be  given  to  such  schools  or institutions.  Such  inspection  shall  not  exceed  ten  days duration, save with the agreement of the school or institution  authorities,  and  a  copy  of  any  report  to  the Minister  thereon  shall  be  supplied  to  the  said  school  or institution authorities.
 
 (3) Any  person  who  obstructs  any  inspector,  the Director  or  any  person  authorised  by  him  to  make  an inspection in pursuance of the provisions of this section in the execution of his duty, shall be guilty of an offence and shall  be  liable  on  summary  conviction  to  a  fine  not exceeding fifty dollars, in the case of a second or subsequent conviction, to a fine not exceeding one hundred dollars.
+
+###### Pupils to be educated in accordance with the wishes of their parents.
+
+###### Inspection.
+
+57 of 1963, s. 16.
+
+15 of 1970, s. 5.
+
+21 of 1996, s. 25.
+
+21 of 1996, s. 25.
 
 STATUTE LAW OF THE BAHAMAS
 
@@ -1303,7 +1414,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 37
+[CH.46 – 37
 
 (4) The  religious  instruction  given  in  any  school maintained  by  any  religious  organization  shall  not  be subject to inspection as aforesaid.
 
@@ -1325,7 +1436,6 @@ EDUCATION
 ###### Power of Minister to give assistance by means of scholarships or otherwise.
 
 -------------------------------------------------------------------------------
-###### Power of Minister to give assistance to schools not maintained by him.
 
 [Original Service 2001]
 
@@ -1335,11 +1445,9 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 38]]
 
-CH.46 38]
+CH.46 – 38]
 
 EDUCATION
-
-26 of 1963, s. 2.
 
 (a) to  defray  such  expenses  of  children  attending schools as may be necessary to enable them to take part in school activities;
 
@@ -1365,6 +1473,10 @@ Provided that no such assistance shall be granted to any such school unless -
 
 Provided  further  that  such  assistance  shall  not  be withheld or reduced solely on the ground that the qualifications of any teacher at such school have not been obtained at a British University or Institution.
 
+###### Power of Minister to give assistance to schools not maintained by him.
+
+26 of 1963, s. 2.
+
 STATUTE LAW OF THE BAHAMAS
 
 [Original Service 2001]
@@ -1375,7 +1487,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 39
+[CH.46 – 39
 
 53. Any notice required or authorised by this Act to be served upon any person may be served by delivering it to  that  person  or  by  leaving  it  at  his  usual  or  last  known place  of  residence,  or  by  sending  it  in  a  prepaid  letter addressed to him at that place.
 
@@ -1401,7 +1513,7 @@ EDUCATION
 
 ###### Saving as persons of unsound mind and persons detained by order of a court.
 
-###### Power of Minis ter to make regulations.
+###### Power of Minister to make regulations.
 
 21 of 1996 s. 27.
 
@@ -1415,13 +1527,9 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 40]]
 
-CH.46 40]
+CH.46 – 40]
 
 EDUCATION
-
-57 of 1963, s. 19.
-
-56 of 1965, s. 3. 21 of 1996, s. 27.
 
 (g) the  health,  cleanliness,  medical  examination  or treatment of children attending schools, and the necessary  exclusion  of  any  such  children  from school;
 
@@ -1451,6 +1559,12 @@ EDUCATION
 
 (t) the organization, discipline, routine and management  of  a  Teachers'  Training  College,  and  the terms  of  service  and  discipline  of  students  in training;
 
+57 of 1963, s. 19.
+
+56 of 1965, s. 3.
+
+21 of 1996, s. 27.
+
 STATUTE LAW OF THE BAHAMAS
 
 [Original Service 2001]
@@ -1461,7 +1575,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 41
+[CH.46 – 41
 
 (u) the information to be furnished to the Minister by institutions for the provision of further education, schools  and  teachers,  and  the  form  and  time  in which such information shall be furnished;
 
@@ -1469,7 +1583,7 @@ EDUCATION
 
 56. The Minister may, from time to time, by regulations  made  under  the  powers  conferred  by  this section, amend or revoke and replace any of the provisions of the First and Third Schedules to this Act.
 
-57. The expenses incurred in carrying out the provisions  of  this  Act  shall  be  paid  out  of  such  sums  as Parliament may from time appropriate for the purpose.
+57. The expenses incurred in carrying out the provisions  of  this  Act  shall  be  paid  out  of  such  sums  as Parliament may from time to time appropriate for the purpose.
 
 58. (1) Moneys provided for Boards shall be allocated to  each  Board  and  made  available  to  the  Board  by  the Minister of Finance.
 
@@ -1501,7 +1615,7 @@ Provided that withdrawals from the account shall be signed by the Chairman and t
 
 Ch. 359.
 
-###### Minister may order production of books of ac count.
+###### Minister may order production of books of account.
 
 21 of 1996, s. 29.
 
@@ -1512,8 +1626,6 @@ Ch. 359.
 Ch. 364.
 
 -------------------------------------------------------------------------------
-###### Additional auditing responsibilities.
-21 of 1996, s. 29.
 
 [Original Service 2001]
 
@@ -1523,20 +1635,9 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 42]]
 
-CH.46 42]
+CH.46 – 42]
 
 EDUCATION
-
-###### Regulations by Minister of Finance.
-21 of 1996, s. 29.
-
-Sub. Leg. Vol. VI, Page 3605
-
-57 of 1963, s. 21; E.L.A.O., 1974; 21 of 1996, s. 30.
-
-###### Interpretation.
-
-###### Members of the Board not to be financially interested in the school.
 
 (4) In  the  exercise  of  their  duties,  auditors  shall  have access  to  all  books,  records,  returns  and  other  documents relating to the accounts of Boards and may require any person holding  or  accountable  for  any  such  books  or  documents  to appear before them at the audit.
 
@@ -1566,6 +1667,22 @@ Sub. Leg. Vol. VI, Page 3605
 
 2. Save with the  approval  of  the  Minister,  no  member  of the Board shall hold any financial interest in the school, or receive any remuneration for his services, or be financially interested in the supply of work or goods to or for the purpose of the school.
 
+###### Additional auditing responsibilities.
+
+21 of 1996, s. 29.
+
+###### Regulations by Minister of Finance.
+
+21 of 1996, s. 29.
+
+Sub. Leg. Vol. VI, Page 3605
+
+57 of 1963, s. 21; E.L.A.O., 1974; 21 of 1996, s. 30.
+
+###### Interpretation.
+
+###### Members of the Board not to be financially interested in the school.
+
 STATUTE LAW OF THE BAHAMAS
 
 [Original Service 2001]
@@ -1576,7 +1693,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 43
+[CH.46 – 43
 
 3. Any  member  of  the  Board  who  is  absent  from  all meetings of the Board during a period of three consecutive monthly meetings or who communicates in writing to the Secretary to the Board a wish to resign, shall thereupon cease to be a member.
 
@@ -1627,7 +1744,6 @@ EDUCATION
 ###### Proceedings and documents of the Board.
 
 -------------------------------------------------------------------------------
-###### Conduct of school.
 
 [Original Service 2001]
 
@@ -1637,9 +1753,42 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 44]]
 
-CH.46 44]
+CH.46 – 44]
 
 EDUCATION
+
+##### PART II
+###### ARTICLES OF MANAGEMENT
+
+1. The school shall be conducted in accordance with the provisions of the Education Act for the time being of The Bahamas, the Regulations of the Minister, the Instrument of Management set forth in Part I of this Schedule, and these Articles.
+
+2. The Board shall in each financial year, at such time as the Minister shall determine, submit an estimate of its requirements for the ensuing school year in respect of the following matters —
+
+(a) repair and maintenance of school premises;
+
+(b) school furniture and equipment;
+
+(c) school books and materials;
+
+(d) improvements or extension to school premises.
+
+3. The Minister shall consider such estimates and make such variations as may be required by the educational policy of the Minister.
+
+4. The  Board  shall,  in  consultation  with  the  Principal and subject to any regulation of the Minister regarding the use of school  accommodation,  determine  the  use  to  which  the  school premises or any part thereof shall be put out of school hours.
+
+5. The Principal shall be a teacher in the public service and his appointment and conditions of service shall be governed by the Regulations in force in that behalf.
+
+6. The  appointment  of  the  Principal  shall  conform  to the following procedure —
+
+(a) the  vacant  post  shall  be  filled  by  transfer  or  promotion within  the  service,  or  by  appointment  from  outside  the service:
+
+Provided that the Board shall have prior notification of the  appointment  and  shall  be  given  the  opportunity,  if  it considers  that  the  person  to  be  appointed  is  not  a  fit  and proper person to be Principal of that school, of stating its reasons therefor, for the consideration of the Department;
+
+(b) the Principal shall on appointment be posted to the school. He shall be liable to transfer according to the exigencies of the service;
+
+(c) any  decision  of  the  Board  to  submit  to  the  Department  an adverse report on the Principal shall be taken by a majority of the whole Board at a special meeting of the Board for that purpose and any such decision shall require confirmation by a  resolution  similarly  passed  at  a  special  meeting  held  not less than fourteen clear days after the date of the meeting at which the original resolution was passed;
+
+###### Conduct of school.
 
 ###### Estimates.
 
@@ -1651,37 +1800,6 @@ EDUCATION
 
 ###### Procedure for appointment of Principal.
 
-##### PART II
-###### ARTICLES OF MANAGEMENT
-
-- The school shall be conducted in accordance with the provisions of the Education Act for the time being of The Bahamas, the Regulations of the Minister, the Instrument of Management set forth in Part I of this Schedule, and these Articles.
-
-- The Board shall in each financial year, at such time as the Minister shall determine, submit an estimate of its requirements for the ensuing school year in respect of the following matters -
-
-(a) repair and maintenance of school premises;
-
-(b) school furniture and equipment;
-
-(c) school books and materials;
-
-(d) improvements or extension to school premises.
-
-- The Minister shall consider such estimates and make such variations as may be required by the educational policy of the Minister.
-
-- The  Board  shall,  in  consultation  with  the  Principal and subject to any regulation of the Minister regarding the use of school  accommodation,  determine  the  use  to  which  the  school premises or any part thereof shall be put out of school hours.
-
-- The Principal shall be a teacher in the public service and his appointment and conditions of service shall be governed by the Regulations in force in that behalf.
-
-- The  appointment  of  the  Principal  shall  conform  to the following procedure -
-
-(a) the  vacant  post  shall  be  filled  by  transfer  or  promotion within  the  service,  or  by  appointment  from  outside  the service:
-
-Provided that the Board shall have prior notification of the  appointment  and  shall  be  given  the  opportunity,  if  it considers  that  the  person  to  be  appointed  is  not  a  fit  and proper person to be Principal of that school, of stating its reasons therefor, for the consideration of the Department;
-
-(b) the Principal shall on appointment be posted to the school. He shall be liable to transfer according to the exigencies of the service;
-
-(c) any  decision  of  the  Board  to  submit  to  the  Department  an adverse report on the Principal shall be taken by a majority of the whole Board at a special meeting of the Board for that purpose and any such decision shall require confirmation by a  resolution  similarly  passed  at  a  special  meeting  held  not less than fourteen clear days after the date of the meeting at which the original resolution was passed;
-
 STATUTE LAW OF THE BAHAMAS
 
 [Original Service 2001]
@@ -1692,7 +1810,7 @@ STATUTE LAW OF THE BAHAMAS
 
 EDUCATION
 
-[ CH.46 45
+[CH.46 – 45
 
 (d) the  Principal  shall  be  entitled  to  appear  with  a  friend  or  a counsel and attorney at any meeting of the Board at which a question which may involve an adverse report upon him is to be considered,  and  shall  be  given  at  least  fourteen  clear  days' notice of such meeting.
 
@@ -1734,15 +1852,9 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 46]]
 
-CH.46 46]
+CH.46 – 46]
 
 EDUCATION
-
-###### School holidays, etc.
-
-###### Admission of pupils.
-
-###### School Standing Orders.
 
 (4) All  major  proposals  affecting  the  conduct  of  the school shall be submitted formally by the Principal to the Board, and all major proposals by the Principal affecting the curriculum of the school shall be submitted formally by the Principal to the Board for consideration before transmission to the Minister for his consideration.
 
@@ -1774,6 +1886,12 @@ Provided that the Board may for sufficient reason recommend variations to suit t
 
 (2) The School Standing Orders made under this Article shall be subject to the approval of the Minister, and copies shall be exhibited in a conspicuous place in the school premises for the information of all teachers and pupils at the school.
 
+###### School holidays, etc.
+
+###### Admission of pupils.
+
+###### School Standing Orders.
+
 STATUTE LAW OF THE BAHAMAS
 
 [Original Service 2001]
@@ -1782,13 +1900,13 @@ STATUTE LAW OF THE BAHAMAS
 
 [[START OF PAGE 47]]
 
-[ CH.46 47
-
 EDUCATION
 
-- The Board shall furnish to the Minister such returns and reports as he may require.
+[CH.46 – 47
 
-- A copy of these Articles shall be given to every Member, the Principal, and every teacher on entry into office.
+15. The Board shall furnish to the Minister such returns and reports as he may require.
+
+16. A copy of these Articles shall be given to every Member, the Principal, and every teacher on entry into office.
 
 ### SECOND SCHEDULE (Section 2(1))
 #### EXEMPT SCHOOLS
@@ -1803,29 +1921,18 @@ The Seventh Day Adventist Schools.
 
 ### THIRD SCHEDULE (Section 14)
 
-- C.H. Reeves Secondary School
-
-- C.I. Gibson Secondary School
-
-- D.W. Davis Secondary School
-
-- H.O. Nash Secondary School
-
-- S.C. McPherson Secondary School
-
-- L.W. Young Secondary School
-
-- A.F. Adderley Secondary School
-
-- C.C. Sweeting Junior High School
-
+C.H. Reeves Secondary School
+C.I. Gibson Secondary School
+D.W. Davis Secondary School
+H.O. Nash Secondary School
+S.C. McPherson Secondary School
+L.W. Young Secondary School
+A.F. Adderley Secondary School
+C.C. Sweeting Junior High School
 C.C. Sweeting Secondary School
-
 Government High School
-
 R.M. Bailey Secondary School
-
-- C.R. Walker Secondary School
+C.R. Walker Secondary School
 
 -------------------------------------------------------------------------------
 
