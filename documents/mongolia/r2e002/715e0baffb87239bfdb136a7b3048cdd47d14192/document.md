@@ -16,15 +16,15 @@ Ulaanbaatar City
 
 The State Great Hural (Parliament) of Mongolia RESOLVES hereby:
 
-- To  endorse  the  Millennium  Development  Goals  (MDGs)-based  Comprehensive National Development Strategy of Mongolia as set in the Annex.
+1. To endorse the Millennium Development Goals (MDGs)-based Comprehensive National Development Strategy of Mongolia as set in the Annex.
 
-- To entrust the Government of Mongolia (Prime Minister S.Bayar):
+2. To entrust the Government of Mongolia (Prime Minister S.Bayar):
 
-- 1/  To  take  actions  with  regard  to  organizing  the  implementation  of  strategic  objectives  set  forth  in  the Millennium  Development  Goals-based  Comprehensive  National  Development  Strategy  of  Mongolia,  reflecting  the  in  the Government  Programme  of  Action,  annual  State  budget  and  annual  Main  Guidelines  of  Socio-Economic  Development,  and implementing them;
+1/ To take actions with regard to organizing the implementation of strategic objectives set forth in the Millennium Development Goals-based Comprehensive National Development Strategy of Mongolia, reflecting the in the Government Programme of Action, annual State budget and annual Main Guidelines of Socio-Economic Development, and implementing them;
 
-- 2/  To  elaborate  anew or renew National Programmes in line with the Millennium Development Goals-based Comprehensive National Development Strategy of Mongolia, and organize the work on their implementation.
+2/ To elaborate anew or renew National Programmes in line with the Millennium Development Goals-based Comprehensive National Development Strategy of Mongolia, and organize the work on their implementation.
 
-- To  recommend  respective  Governments  in  future  to  take  actions  with  regard  to  elaborating  mid-term  policy documents,  targeted  programmes  and  projects  aimed  at  implementing  the  strategic  objectives  set  forth  in  the  Millennium Development Goals-based Comprehensive National Development Strategy of Mongolia, submitting to the State Great Hural for endorsement, reflecting them in the Government Programmes of Action and organizing their implementation.
+3. To recommend respective Governments in future to take actions with regard to elaborating mid-term policy documents, targeted programmes and projects aimed at implementing the strategic objectives set forth in the Millennium Development Goals-based Comprehensive National Development Strategy of Mongolia, submitting to the State Great Hural for endorsement, reflecting them in the Government Programmes of Action and organizing their implementation.
 
 (signed)
 
@@ -44,7 +44,7 @@ Annex to State Great Hural Resolution No …., 2008
 
 1. The  Millennium  Development  Goals  (MDGs)-based  Comprehensive  National  Development  Strategy  of  Mongolia defines in a comprehensive manner its policy for the next fourteen years aimed at promoting human development in Mongolia, in a humane, civil, and democratic society, and developing intensively the country's economy, society, science, technology, culture and civilization in strict compliance with global and regional development trends.
 
-- The  objective  of  the  MDG-based  Comprehensive  National  Development  Strategy  of  Mongolia  is  to  protect  and strengthen Mongolia's sovereignty, and develop it into a middle income country through achieving its Millennium Development Goals  attaching  high  priority  to  promoting  private  sector-led  dynamic  economic  growth,  human  development  in  Mongolia including  education,  healthcare,  as  well  as  sustainable  development  of  science,  technology  and  environment,  strengthening intellectual development and human capacity; creating a knowledge-based economy sustained by high technology, which respects environmentally friendly production and services; fostering a democratic system of governance, which serves its citizens, protects human rights and freedoms, and is free from corruption and red tape.
+2. The objective of the MDG-based Comprehensive National Development Strategy of Mongolia is to protect and strengthen Mongolia's sovereignty, and develop it into a middle income country through achieving its Millennium Development Goals attaching high priority to promoting private sector-led dynamic economic growth, human development in Mongolia including education, healthcare, as well as sustainable development of science, technology and environment, strengthening intellectual development and human capacity; creating a knowledge-based economy sustained by high technology, which respects environmentally friendly production and services; fostering a democratic system of governance, which serves its citizens, protects human rights and freedoms, and is free from corruption and red tape.
 
 3. The  long-term  development  policy  of  Mongolia,  its  priorities,  and  strategies  for  their  implementation  and  expected outcomes are defined in the MDG-based Comprehensive National Development Strategy of Mongolia in two phases: first, to achieve  the  Millennium  Development  Goals  and  intensive  development  of  its  economy  in  2007-2015,  and  second,  to  make  a transition to knowledge-based economy in 2016-2021.
 
@@ -96,57 +96,57 @@ Strengths and weaknesses of the country's development as commonly viewed in the 
 
 - Good enrollment in primary education and high literacy rate,
 
-- Relatively high number of medical doctors per 1000 people,
-
 - High immunization coverage,
+
+- Relatively high number of medical doctors per 1000 people,
 
 - Proper age structure of the population,
 
-- Proximity to huge markets of Russia and China,
-
 - Macroeconomic indicators are improving,
+
+- Proximity to huge markets of Russia and China,
 
 - Abundant mineral resources,
 
-- Unique natural ecosystems inherited in their virgin nature, rare species of fauna and flora, rich and vast lands, and unique nomadic lifestyle adapted to them.
-
 - Rich historical heritage and traditions,
+
+- Unique natural ecosystems inherited in their virgin nature, rare species of fauna and flora, rich and vast lands, and unique nomadic lifestyle adapted to them.
 
 #### Development weaknesses:
 
 - Slow population growth and comparatively short life expectancy,
 
-- Small population scattered throughout vast territory, limited labor forces, particularly shortage of highly qualified engineers, technical workers, specialists with appropriate knowledge of market economy,
-
 - High rate of infant and maternal mortality,
+
+- Small population scattered throughout vast territory, limited labor forces, particularly shortage of highly qualified engineers, technical workers, specialists with appropriate knowledge of market economy,
 
 - Insufficient quality of education, low level of scientific and technological development, poor capacity of goods and services to compete at world markets their quality,
 
-- Extreme  climate  conditions,  high  dependency  of  livestock  and  agricultural  production  on  changes  in  weather conditions,
+- Extreme climate conditions, high dependency of livestock and agricultural production on changes in weather conditions,
 
-- Small  percentage  of  forests,  intensively  growing  desertification,  highly  vulnerable  ecosystems,  poor  recreation capacity of nature,
+- Small percentage of forests, intensively growing desertification, highly vulnerable ecosystems, poor recreation capacity of nature,
 
 - Limited and unreliable energy supply, poor development of infrastructure,
 
-- Remoteness  from  major  continental  and  regional  international  roads  and  communication  centers,  landlocked location,
+- Remoteness from major continental and regional international roads and communication centers, landlocked location,
 
 - Shortage of adequate housing,
 
-- Narrow-based economic structure,
-
 - High level of unemployment and poverty,
+
+- Narrow-based economic structure,
 
 - Excessive Government expenditures,
 
-- Narrow-based structure of foreign trade, including exports structure,
-
 - Lengthy procedures of issuing special permits, widespread corruption and red tape, weak capacity of civil service,
+
+- Narrow-based structure of foreign trade, including exports structure,
 
 - Small domestic market,
 
-- Insufficient budget funding for healthcare, education and science sectors, and inefficient spending patterns in these areas,
+- Limited financial resources and foreign currency reserves, dependency of the economy on small number of products,
 
-- Limited financial resources and foreign currency reserves, dependency of the economy on small number of products
+- Insufficient budget funding for healthcare, education and science sectors, and inefficient spending patterns in these areas,
 
 - Poor protection of intellectual rights.
 
@@ -166,17 +166,17 @@ The MDG-based Comprehensive National Development Strategy of Mongolia shall be b
 
 - Create conditions for every citizen to participate, contribute and lead the country's development,
 
-- Ensure dynamic and sustainable development based on principles of market economy,
-
 - Build capacity and structure for the implementation of development policies and strategies,
+
+- Ensure dynamic and sustainable development based on principles of market economy,
 
 - Allocate funds in accordance with policy priorities and needs, ensure transparency, monitor their spending, evaluate outcomes and make plans for future,
 
 - Promote partnerships of all stakeholders,
 
-- Promote accountability at all levels, ensure transparency and respect the law.
-
 - Develop the capacity to adapt to changing conditions,
+
+- Promote accountability at all levels, ensure transparency and respect the law.
 
 ### 3.2. Values of Mongolians
 
@@ -184,9 +184,9 @@ The following values shall be embraced in the MDG-based Comprehensive National D
 
 - Comply with the Constitution of Mongolia,
 
-- Promote individual and social progress with own hands in cooperation with others,
-
 - Live and work in justice, keep the society in harmony and peace,
+
+- Promote individual and social progress with own hands in cooperation with others,
 
 - Encourage patriotism that is based on the principle of protecting and strengthening independence and sovereignty through promoting the country's development.
 
@@ -208,15 +208,15 @@ Partnerships among stakeholders: citizens, economic entities and organizations, 
 
 - Take care of their families, live healthy lives, provide proper upbringing and education for their children,
 
-- Refrain from and avoid developing bad habits,
-
 - Be economic and spend their incomes wisely,
+
+- Refrain from and avoid developing bad habits,
 
 - Be highly educated and have the capacity to continuously improve their knowledge,
 
-- Actively participate in the life of society, express their views and opinions,
-
 - Meet their commitments while enjoying their rights and freedoms, respect the rights and freedoms of others,
+
+- Actively participate in the life of society, express their views and opinions,
 
 - Enjoy their legal right to monitor the activities of state organizations.
 
@@ -224,15 +224,15 @@ Partnerships among stakeholders: citizens, economic entities and organizations, 
 
 - Strive to create new jobs,
 
-- Improve professional skills of their employees and provide support in their social welfare,
-
 - Provide for healthy environment, safe working conditions,
+
+- Improve professional skills of their employees and provide support in their social welfare,
 
 - Carry out their obligations under national legislation,
 
-- Compete fairly at the market,
-
 - Protect environment and introduce environmentally-friendly technologies,
+
+- Compete fairly at the market,
 
 - Ensure transparency of their activities and reporting.
 
@@ -310,9 +310,9 @@ Strategic objective 2. Create a regulatory mechanism to ensure full participatio
 
 - Enhance mechanism for coordination of intersectoral activities aimed at poverty reduction.
 
-- Develop and implement poverty reduction policy and programme based on citizens' needs and capacity.
-
 - Create a fund for poverty reduction measures and provide it with financial sources.
+
+- Develop and implement poverty reduction policy and programme based on citizens' needs and capacity.
 
 ### 4.2. Policy on gender equality
 
@@ -324,9 +324,9 @@ Strategic objective 1 .  Nurture a concept of gender equality in combination wit
 
 - Reflect the issue of ensuring gender equality in the state policy and legislation, and enforce a law on gender equality.
 
-- Cultivate the culture of equal participation of men and women in property and labour relations.
-
 - Promote gender sensitivity through education curricula at all levels.
+
+- Cultivate the culture of equal participation of men and women in property and labour relations.
 
 - Create conditions for ensuring gender equality at decision-making level.
 
@@ -374,7 +374,7 @@ Strategic objective 3. The state shall support building favourable family condit
 
 - Implement a policy of providing subsidized housing to families with four and more children aged 0-18 years.
 
-Strategic objective 4. The State is to draw exceptional attention to ensure that children from the moment of birth to the age of six are brought up in a family or in family-like environment, given proper rearing and morale, and provided with preschool education:
+Strategic objective 4. The State is to draw exceptional attention to ensure that children from the moment of birth to the age of six are brought up in a family or in family-like environment, given proper rearing and morale, and provided with pre-school education:
 
 - Create conditions for breastfeeding, and special medical monitoring of children till the age of six.
 
@@ -384,7 +384,7 @@ Strategic objective 4. The State is to draw exceptional attention to ensure that
 
 ### 4.4. Education development policy
 
-A policy shall be pursued to develop education and make it a social commitment, lift up the national education system to international  standards  and  continuously  increase  intellectual,  creative  and  capable  human  resources.  A  national  'Education' programme shall be implemented. Introduce 12-year general education system from 2008 and enrol by 2015 all girls and boys in primary education, alleviating gender inequality at all levels of education. Pursue a policy to bring the professional vocational and higher  educational  systems  to  international  standards.  Make  a  transfer  by  2021  to  educational  system  meeting  international standards.  Promote  nation-wide  an  environment  to  live  with  high  respect  for  intellectuality,  adjust  training  programmes  at  all levels of education to match the new intellectual approaches of the 21 st century.
+A policy shall be pursued to develop education and make it a social commitment, lift up the national education system to international standards and continuously increase intellectual, creative and capable human resources. A national 'Education' programme shall be implemented. Introduce 12-year general education system from 2008 and enrol by 2015 all girls and boys in primary education, alleviating gender inequality at all levels of education. Pursue a policy to bring the professional vocational and higher educational systems to international standards. Make a transfer by 2021 to educational system meeting international standards. Promote nation-wide an environment to live with high respect for intellectuality, adjust training programmes at all levels of education to match the new intellectual approaches of the 21st century.
 
 #### Phase one (2007-2015)
 
@@ -392,17 +392,17 @@ Strategic objective 1. Provide  students  with  equal  opportunities  for  acces
 
 - Create conditions to enrol all toddlers in preschool education.
 
-- Provide support for re-education.
-
 - Achieve gender balance among students and teachers of educational establishments of all levels.
+
+- Provide support for re-education.
 
 - Organize preschool education for herders' children aged 0-6 years in forms meeting conditions of their nomadic lifestyle.
 
 - Enrol fully six year-old children in schools.
 
-- Increase the number of children to reside in dormitories by 2.1 times.
-
 - Implement a programme to increase educational level of boys.
+
+- Increase the number of children to reside in dormitories by 2.1 times.
 
 - Continue 'Lunch' programme at general education schools.
 
@@ -478,9 +478,9 @@ Strategic objective 1 . Strengthen, in a comprehensive manner, capacity of soum 
 
 - Enhance the system of maternity and child protection.
 
-- Develop capacities to combat STIs, HIV/AIDS and tuberculosis.
-
 - Introduce diagnostic and therapeutic methodologies and technologies for dental and systemic disease at soum level.
+
+- Develop capacities to combat STIs, HIV/AIDS and tuberculosis.
 
 - Create a system of mobile family doctors for herders.
 
@@ -508,27 +508,27 @@ Strategic objective 3 . Provide medical organizations with highly professional a
 
 - Instil patient-centred approach at health organizations.
 
-- Improve system of wages, incentives and allowances for doctors and specialists.
-
 - Bring human resources and professional training to international standards.
+
+- Improve system of wages, incentives and allowances for doctors and specialists.
 
 Strategic objective 4 . Decrease incidence of diseases and premature mortality, increase life expectancy. Cultivate proper habits of healthy lifestyle and health care:
 
 - Create conditions for the population to lead healthy lifestyle and physical development.
 
-- Broaden  advertisement  and  training  on  healthy  lifestyle  and  protection  of  health  from  climatic  hardships  and hereditary disorders.
+- Broaden advertisement and training on healthy lifestyle and protection of health from climatic hardships and hereditary disorders.
 
 - Develop multiple forms of rehabilitation and nursing services.
 
-- Introduce up-to-date production technologies for pharmaceuticals, medical tools, supplies and equipment.
-
 - Introduce selected methods of traditional medicine in healthcare services.
+
+- Introduce up-to-date production technologies for pharmaceuticals, medical tools, supplies and equipment.
 
 - Enhance private sector activities in health sector.
 
-- Provide support to individual and collective efforts and initiatives aimed at protecting health by facilitating mass participation and improving intersectoral cooperation.
-
 - Develop risk management capacity to cope with natural calamities, mass diseases and ad hoc accidents.
+
+- Provide support to individual and collective efforts and initiatives aimed at protecting health by facilitating mass participation and improving intersectoral cooperation.
 
 - Create conditions to support health-supporting environment in soums, districts and settlements as well as in families and working place.
 
@@ -554,9 +554,9 @@ Strategic  objective  2. Provide  the  population  with  safe  and  quality-test
 
 - Cultivate appropriate medicine in-take among population and medical organizations.
 
-- Create  a  system  of  uninterrupted  supply  of  medical  and  laboratory  equipment  and  maintenance,  and  develop diagnostic capacity.
-
 - Develop up-to-date production technologies of medicament, medical tools and equipments.
+
+- Create a system of uninterrupted supply of medical and laboratory equipment and maintenance, and develop diagnostic capacity.
 
 ### 4.6. Culture and art development policy
 
@@ -596,31 +596,31 @@ A policy shall be pursued to develop scientific and technological capacities, es
 
 Strategic objective 1. Establish and develop research and development (R&D) competitive firms that meet market needs and requirements:
 
-- Develop  and  implement  a  'Targeted  programme  to  support  young  researchers,'  develop  a  human  resource  and financing policy in the science and technology sector, and renovate its implementation.
+- Develop and implement a 'Targeted programme to support young researchers,' develop a human resource and financing policy in the science and technology sector, and renovate its implementation.
 
 - Conduct and refine structural changes in the science and technology sector.
 
-- Improve management, action and financing mechanism in science and technology sector, and continuously increase DGP percentage of expenditures for research and processing work.
-
 - Newly establish no less then 5 national research centres.
 
-- Identify principal priorities of Mongolia's science and technology sector,  core technology, prioritise research and development and increase their effectiveness.
+- Improve management, action and financing mechanism in science and technology sector, and continuously increase DGP percentage of expenditures for research and processing work.
+
+- Identify principal priorities of Mongolia's science and technology sector, core technology, prioritise research and development and increase their effectiveness.
 
 Strategic objective 2. Establish  effective  national  system  of  innovation  and  productivity;  increase  its  contribution  to economic and social reform:
 
-- Create  a  system  to  identify  development  course  of  Mongolia's  production  and  technological  development  and elaborate medium- and long-term forecasts.
+- Create a system to identify development course of Mongolia's production and technological development and elaborate medium- and long-term forecasts.
 
 - Significantly increase involvement of the private sector in ordering and implementing scientific, technological and innovation programmes and projects.
 
 - Establish legal and organizational basis for national innovation structure.
 
-- Pursue a policy to support effective innovatory actions by financial and economic means.
-
 - Establish and develop elements of innovation in infrastructure of production, services and technology.
+
+- Pursue a policy to support effective innovatory actions by financial and economic means.
 
 - Introduce and cultivate the innovatory culture in scientific, technological and production spheres.
 
-- Ensure continuous support to a nation-scale innovation project by co-financing it from  Mongolia's Development Fund, Small and Medium Enterprises Support Fund and Science and Technology Fund.
+- Ensure continuous support to a nation-scale innovation project by co-financing it from Mongolia's Development Fund, Small and Medium Enterprises Support Fund and Science and Technology Fund.
 
 Strategic objective 3. Enhance legal environment and institutional system to protect and utilize the outcomes of research and development R&D work:
 
@@ -664,7 +664,7 @@ Strategic  objective  2. Securing  citizens'  labour  rights  and  developing  p
 
 - Develop  appropriate  legal  environment  by  improving  safety  and  hygiene  of  labour  environment  bringing  it  to international norms.
 
-- Within the policy and actions of implementing the Law on small and medium enterprises, increase employment by creating and maintaining specialized business incubators and broadening small-scale loan, on-the-job and studentcentred training.
+- Within the policy and actions of implementing the Law on small and medium enterprises, increase employment by creating and maintaining specialized business incubators and broadening small-scale loan, on-the-job and student-centred training.
 
 - Formulate a state policy of vocational education and training, and enhance the capacity of personnel trained with the support of private sector adjusting to meet the needs and demands of the labour market.
 
@@ -704,7 +704,7 @@ To promote its economic growth and development Mongolia chooses a strategy focus
 
 The main goal of its economic policy is to achieve, in 2007-2015, the Millennium Development Goals, reach an average annual economic growth of  14 percent, increase GDP per capita to at least 5,000 USD, and establish the basis for intensive economic development; to maintain an average annual economic growth at no less than 12 percent in 2016-2021, consolidate and develop  a  knowledge-based  economy,  increase  GDP  per  capita  to  a  minimum  of  12,000  USD,  create  economic  capacity  and resources to reach the level of the world's middle income countries.
 
-Intensive economic growth will be achieved continuously increasing labor productivity and investment efficiency.  At first,  the  mineral  extraction  industry  will  be  developed  more  progressively,  followed  by  intensive  development  of  processing industry. The country will make its economy multi-faceted developing further private sector-led, high-technology based, exportoriented, dynamic processing industry, and become relatively low dependent on mineral resources.
+Intensive economic growth will be achieved continuously increasing labor productivity and investment efficiency. At first, the mineral extraction industry will be developed more progressively, followed by intensive development of processing industry. The country will make its economy multi-faceted developing further private sector-led, high-technology based, export-oriented, dynamic processing industry, and become relatively low dependent on mineral resources.
 
 Development disparities in urban and rural areas will be eliminated through dynamic development of its regions and infrastructure, and favorable business environment and conditions will be established, that would lead to the balanced economic development of the country.
 
@@ -720,7 +720,7 @@ The  State  budgetary  policy  shall  be  aimed  at  enhancing  macroeconomic  g
 
 Strategic objective 1. The budget planning shall be accordingly enhanced to implement the MDG-based Comprehensive National Development Strategy of Mongolia:
 
-- Create and introduce a legal coordination for preparing and implementing the State budget in line with the MDGbased Comprehensive National Development Strategy of Mongolia.
+- Create and introduce a legal coordination for preparing and implementing the State budget in line with the MDG-based Comprehensive National Development Strategy of Mongolia.
 
 - Enhance  budget  management  and  financial  power  of  local  authorities,  improve  the  accountability  system,  and achieve better coherence between national and local budget planning.
 
@@ -738,11 +738,11 @@ Strategic objective 2. Budget investments shall be accurately coordinated and in
 
 - Allocate budget investments based on targeted programmes, socio-economic development master plans and projects.
 
-- Increase on a regular basis budget investments in education and health sectors, especially in the country's regions and rural areas, in line with the Millennium Development Goals.
-
 - Increase investment in infrastructure development.
 
-- Provide  support  through  budget  investments  for  the  introduction  of  modern  information  and  communication technologies, the improvement of technical education system.
+- Increase on a regular basis budget investments in education and health sectors, especially in the country's regions and rural areas, in line with the Millennium Development Goals.
+
+- Provide support through budget investments for the introduction of modern information and communication technologies, the improvement of technical education system.
 
 Strategic objective 3. The budget expenditure policy shall be focused to a greater extent on groups of population with low and medium incomes:
 
@@ -764,15 +764,15 @@ The taxation policy will be aimed at creating favourable conditions for private 
 
 Strategic objective 1. Export-oriented production and services, as well as some import-substituting production shall be supported through adequate taxation policy:
 
-- Support  the  introduction  of  advanced  technologies  in  the  minerals,  wool,  cashmere,  meat,  milk  and  leather processing industries, as well as the production of some import-substituting foodstuff.
+- Support the introduction of advanced technologies in the minerals, wool, cashmere, meat, milk and leather processing industries, as well as the production of some import-substituting foodstuff.
 
 - Support the production of electronics and knowledge-intensive, small-size products.
 
-- Provide support for export-oriented services, tourism sector, and production of brand products.
-
 - Attract investments from domestic and renowned multinational corporations.
 
-- Aim  the  customs  duty  policy  at  supporting  the  establishment  of  optimal  correlation  between  production  and consumption, relevant structure, the growth of competitive domestic production, the import of advanced equipment and technologies, and the export of processed end products.
+- Provide support for export-oriented services, tourism sector, and production of brand products.
+
+- Aim the customs duty policy at supporting the establishment of optimal correlation between production and consumption, relevant structure, the growth of competitive domestic production, the import of advanced equipment and technologies, and the export of processed end products.
 
 Strategic objective 2. Increase the State budget revenues through the introduction of ecological taxation, expanding the taxation base and improving the tax collection:
 
@@ -780,15 +780,15 @@ Strategic objective 2. Increase the State budget revenues through the introducti
 
 - Increase the number of countries with whom Mongolia concluded agreements on avoidance of double taxation on income and assets, and promote mutual exchange of information.
 
-- Keep the income tax rate  at  appropriate  level,  increase  the  role  of  assets  and  consumption  taxes,  taxes  and  fees accumulated from the use of land, air spaces, and natural reserves in forming the budget.
+- Keep the income tax rate at appropriate level, increase the role of assets and consumption taxes, taxes and fees accumulated from the use of land, air spaces, and natural reserves in forming the budget.
 
 - Limit improper consumption by increasing the variety of special taxes, introduce ecological taxes on production and services which have negative effects on nature and environment.
 
 - Introduce a system of reimbursement on tax overpayment.
 
-- Use adequately tax amnesties and other methods of tax coordination to reveal the shadow economy.
-
 - Introduce taxes on accumulated taxes and loans.
+
+- Use adequately tax amnesties and other methods of tax coordination to reveal the shadow economy.
 
 Strategic objective 3. Prudent taxation policy shall be implemented to promote the country's regional development:
 
@@ -800,9 +800,9 @@ Strategic objective 3. Prudent taxation policy shall be implemented to promote t
 
 - Support small and medium size enterprises and services in remote and poorly developed areas.
 
-- Establish industrial technological parks.
-
 - Promote the development of major regional centers.
+
+- Establish industrial technological parks.
 
 - Support the establishment of free economic and trade zones.
 
@@ -816,11 +816,11 @@ Strategic objective 1. Rationally manage inflation and keep exchange rate of nat
 
 - Maintain annual inflation rate lower than 3 percent and eliminate the burden of inflation on economy.
 
-- Create favorable legal environment for savings insurance.
-
 - Make a transfer from a reserves-based to an inflation-focused form of monetary policy.
 
-- Implement  an  effective  and  sound  policy  on  foreign  currency  management;  maintain  the  stability  of  national currency exchange rate.
+- Create favorable legal environment for savings insurance.
+
+- Implement an effective and sound policy on foreign currency management; maintain the stability of national currency exchange rate.
 
 Strategic objective 2. Enhance banking and financial system and services:
 
@@ -828,15 +828,15 @@ Strategic objective 2. Enhance banking and financial system and services:
 
 - Establish and operate a state-owned 'Development Bank'.
 
-- Develop stock market, sell stocks capable to compete on foreign stock markets thus strengthening oversees financial sources, expand the trade of Government bonds, especially aiming at investment promotion.
-
 - Improve bank solvency and ensure fair competition at banking and financial markets.
+
+- Develop stock market, sell stocks capable to compete on foreign stock markets thus strengthening oversees financial sources, expand the trade of Government bonds, especially aiming at investment promotion.
 
 - Stabilize mortgage cooperatives.
 
-- Strive to transform Ulaanbaatar city into a major banking and financial center in the Northeast Asian and Central Asian regions.
-
 - Improve market-based, risk control management of banking and financial organizations.
+
+- Strive to transform Ulaanbaatar city into a major banking and financial center in the Northeast Asian and Central Asian regions.
 
 - Support the establishment and operation of specialized organizations, i.e. cooperatives, unions, export-import banks - that support export production.
 
@@ -976,15 +976,15 @@ Strategic objective 1. Mineral deposits of strategic importance shall be exploit
 
 - Increase the capacity of Erdenet Ore-dressing Corporation, and enhance the product processing.
 
-- Start processing coking coal.
-
 - Significantly increase the production of cathode copper and steel.
+
+- Start processing coking coal.
 
 - Master technologies for extracting fuel and petroleum from coal.
 
-- Improve the level of mineral raw material processing, and increase the production of end products.
-
 - Increase the volume of oil extraction.
+
+- Improve the level of mineral raw material processing, and increase the production of end products.
 
 - Expand geological exploration and mineral surveys.
 
@@ -1000,19 +1000,17 @@ Strategic objective 2. Protect nature and environment in mining sector and maint
 
 [[START OF PAGE 17]]
 
-:
-
 - Improve the rehabilitation of mined areas.
-
-- Undertake ecological and economic assessment of land in use; improve the mechanism for estimating, imposing and making payable penalties for ecological damages, compensation payments and fees.
 
 - Introduce unified standards for exploitation technologies.
 
+- Undertake ecological and economic assessment of land in use; improve the mechanism for estimating, imposing and making payable penalties for ecological damages, compensation payments and fees.
+
 - Improve safety and health conditions of mining, encourage and expand underground exploitation of minerals and processing of minerals deep underground.
 
-- Create  and  introduce  incentives  for  mines  that  produce  minimum  waste  and  introduce  advanced  machinery  and technologies.
+- Create and introduce incentives for mines that produce minimum waste and introduce advanced machinery and technologies.
 
-- Halt issuing special licenses for minerals exploitation in river outfalls, basins, forest zones, Gobi oasis, lakes and ponds, memorable historic places in order to secure the ecological balance paying particular attention to reducing negative  effects  including  deterioration  of  surface  and  underground  ecosystems,  pasture  deficiency  caused  by climate  change,  mining  production;  take  step  by  step  measures  to  partially  limit  them  in  future;  improve  legal environment for developing responsible mining industry.
+- Halt issuing special licenses for minerals exploitation in river outfalls, basins, forest zones, Gobi oasis, lakes and ponds, memorable historic places in order to secure the ecological balance paying particular attention to reducing negative effects including deterioration of surface and underground ecosystems, pasture deficiency caused by climate change, mining production; take step by step measures to partially limit them in future; improve legal environment for developing responsible mining industry.
 
 ###### Phase two (2016 -2021):
 
@@ -1038,23 +1036,23 @@ Strategic objective 1. Expand production of end products capable of compete at i
 
 - Develop production of export-oriented, knowledge-intensive, small-size products capable to compete.
 
-- Produce diagnostic materials and medicines by bio-technological and genetic engineering methods, encourage the use of nanotechnology.
-
 - Produce ecologically clean products and compete at international markets.
+
+- Produce diagnostic materials and medicines by bio-technological and genetic engineering methods, encourage the use of nanotechnology.
 
 - Develop the processing of textile, sewn and woven products, wool and cashmere, raise their ability to compete.
 
-- Develop production of foodstuff and consumer products that can be manufactured domestically and decrease high level dependency on their import.
-
 - Create centers for mastering and localization of advanced technologies.
 
-- Process  domestically  construction  raw  materials  widely  found  in  the  country  using  advanced  technology, manufacture flat glass, mineral paints and other products.
+- Develop production of foodstuff and consumer products that can be manufactured domestically and decrease high level dependency on their import.
+
+- Process domestically construction raw materials widely found in the country using advanced technology, manufacture flat glass, mineral paints and other products.
 
 - Extract oil products from peat and coal.
 
-- Process rolls at ferrous metal mills and promote the manufacturing of common purpose construction parts, smallsize  machinery,  equipment  and  their  parts  widely  used  in  animal  husbandry,  crop  farming,  construction,  light industry, food production and energy sectors.
-
 - Increase oil extraction and processing.
+
+- Process rolls at ferrous metal mills and promote the manufacturing of common purpose construction parts, small-size machinery, equipment and their parts widely used in animal husbandry, crop farming, construction, light industry, food production and energy sectors.
 
 - Smelt copper, manufacture and export communication cables, coil wires, spare parts of machinery and equipment.
 
@@ -1062,9 +1060,9 @@ Strategic  objective  2. Industrial  technological  parks  shall  be  establishe
 
 - Create legal framework for establishing industrial technological parks.
 
-- Implement programmes targeted at regional development such as 'Processing of cashmere, camel and sheep wool', 'Development of leather production' using environmentally friendly and advanced machinery and technology.
-
 - Establish and operate industrial technological parks in some major regional centers and cities.
+
+- Implement programmes targeted at regional development such as 'Processing of cashmere, camel and sheep wool', 'Development of leather production' using environmentally friendly and advanced machinery and technology.
 
 17
 
@@ -1096,9 +1094,9 @@ Strategic objective 1. Favorable legal environment shall be created to support t
 
 - Support export-oriented small and medium-size enterprises through customs duties and VAT policies.
 
-- Create legal environment to protect rights of small stakeholders.
-
 - Enroll small and medium-size entrepreneurs in credit insurance services.
+
+- Create legal environment to protect rights of small stakeholders.
 
 - Expand the provision of small-size equipment leasing services to support small and medium-size entrepreneurs.
 
@@ -1118,9 +1116,9 @@ Strategic objective 1. Development of some service sectors shall be accelerated 
 
 - Increase production of information and communication technologies including software applications.
 
-- Develop inter-sectoral services such as transit transportation and financial intermediations.
-
 - Specialize in manufacturing some products of world known large producers.
+
+- Develop inter-sectoral services such as transit transportation and financial intermediations.
 
 ##### 5.2.1.4. Development policy for agriculture and food industry
 
@@ -1164,9 +1162,9 @@ Strategic  objective  2 .  Crop-farming  production  shall  be  increased  by  i
 
 - Create areas for planting fruits and fruit trees, and expand the plantation of fruits and berries.
 
-- Elaborate and implement a policy on developing seeds hardy to drought and localized seeds.
-
 - Fight plant diseases and pests, improve the quality of breeds, and develop greenhouse farming.
+
+- Elaborate and implement a policy on developing seeds hardy to drought and localized seeds.
 
 Strategic objective 3. Advanced technology will be introduced in food processing and competitiveness of products shall be improved:
 
@@ -1188,9 +1186,9 @@ Strategic objective 5. Complex measures shall be undertaken to revive and develo
 
 - Implement 'Fodder' programme and improve fodder and water supply.
 
-- Create a system to plant and localize new types of fodder seeds of good quality and nourishment, which would give rich harvest, to support seeds production, and provide private economic entities, farmers with fodder seeds supply.
-
 - Create favorable legal environment for fodder production, its supply and use, and support it through state policy.
+
+- Create a system to plant and localize new types of fodder seeds of good quality and nourishment, which would give rich harvest, to support seeds production, and provide private economic entities, farmers with fodder seeds supply.
 
 - In order to raise the risk meeting capacity of nomadic animal husbandry, provide support and develop further the best experiences and methods of herders to feed their cattle during selected periods of the year.
 
@@ -1204,9 +1202,9 @@ Strategic objective 6. Advanced technology aimed at protecting soil from erosion
 
 - Increase the volume of fallow land to be cultivated by chemical methods.
 
-- Provide  economic  entities  and  farmers  with  state  assistance  in  purchasing  agricultural  machinery  and  equipment needed for introducing advanced technology.
-
 - Introduce methods to prepare fallow land using green fertilizer and handy technology.
+
+- Provide economic entities and farmers with state assistance in purchasing agricultural machinery and equipment needed for introducing advanced technology.
 
 - Provide the fields under crops with straw covers, and protect them with fences.
 
@@ -1216,13 +1214,13 @@ Strategic objective 6. Advanced technology aimed at protecting soil from erosion
 
 Strategic objective 1 . Introduce biotechnology, improve livestock breeds, and raise the volume of crop yield:
 
-- Develop  the  production  of  animal  vaccines,  sanitizers  and  disinfectants  using  biotechnology,  promote  livestock health, and implement the programme 'Livestock quality'.
+- Develop the production of animal vaccines, sanitizers and disinfectants using biotechnology, promote livestock health, and implement the programme 'Livestock quality'.
 
 - Increase crop capacity of each hectare by promoting wide-scale introduction of modern irrigation technologies.
 
-- Provide assistance in improving fuel and energy supply for cattle-breeders.
-
 - Transform and develop agriculture as agro-industrial complex mutually assisting each other.
+
+- Provide assistance in improving fuel and energy supply for cattle-breeders.
 
 Strategic objective 2. Proper sanitary and hygienic standards shall be set for food production and services, as well as at all levels of food consumption; the population will be supplied with safe and sufficient amount of foodstuffs:
 
@@ -1246,9 +1244,9 @@ Strategic objective 2. Construct large tourist complexes; develop new types of t
 
 - Reduce dependence on seasonal change and increase the number and variety of products and services.
 
-- Bring the number of tourists visiting Mongolia to one million.
-
 - Establish and operate a structure in charge of implementing tourism policy.
+
+- Bring the number of tourists visiting Mongolia to one million.
 
 ###### Phase two (2016-2021):
 
@@ -1288,9 +1286,9 @@ Strategic objective 2. Road network shall be expanded and developed:
 
 - Give priority to construction of roads, which run along the routes linked to the international road network.
 
-- Complete the construction of paved roads along some vertical lines of the country's infrastructure network.
-
 - Complete the construction of horizontal and vertical lines of the Millennium Road.
+
+- Complete the construction of paved roads along some vertical lines of the country's infrastructure network.
 
 - Build paved roads to connect regional and provincial centres to the capital city, followed by interlinking regional and provincial centres.
 
@@ -1304,9 +1302,9 @@ Strategic objective 4. The capacity of railways to compete shall be raised and t
 
 - Construct the second railway line linking two neighbouring countries.
 
-- Study the possibility of constructing a new railway exit to the country's western region and start its construction work.
-
 - Supply the main railway line with electricity.
+
+- Study the possibility of constructing a new railway exit to the country's western region and start its construction work.
 
 - Expand railway network in Gobi and Eastern regions.
 
@@ -1318,9 +1316,9 @@ Strategic objective 5. Actions shall be taken to deepen further air transport re
 
 - Increase private sector participation in air transport.
 
-- Increase the number of international destinations and flights.
-
 - Improve the safety of international transit flights over the territory of Mongolia, and increase their numbers.
+
+- Increase the number of international destinations and flights.
 
 Strategic objective 6 . Favourable legal environment shall be created for private sector participation and investment in the sea and water transport, and areas of its operation will be expanded:
 
@@ -1354,9 +1352,9 @@ Strategic objective 1. Actions shall be taken to expand road and railway network
 
 - Complete the construction of paved roads along the vertical line of infrastructure network.
 
-- Complete the construction of railway network which encompasses the whole territory of Mongolia.
-
 - Create and operate a new, effective system of road exploitation.
+
+- Complete the construction of railway network which encompasses the whole territory of Mongolia.
 
 #### 5.3.2. Energy sector development policy
 
@@ -1376,9 +1374,9 @@ Strategic objective 1. Favourable conditions shall be created for development es
 
 - Build hydro power plants on big rivers.
 
-- Start exporting energy.
-
 - Ensure intraregional energy connections.
+
+- Start exporting energy.
 
 - Implement step-by-step a policy on using nuclear energy, set forth and start implementing the objective to build a nuclear power plant.
 
@@ -1426,13 +1424,13 @@ Strategic objective 1 . A large capacity power plant using clean coal technology
 
 - Build a fuel, energy and coal chemistry complex at Choir-Nyalga coal deposit.
 
-- Reach full capacity in coke-chemistry production and export not less than 5 million tonnes of coke annually.
-
 - Obtain new kinds of fuel from coal such as hydrogen, methanol, DME and others.
+
+- Reach full capacity in coke-chemistry production and export not less than 5 million tonnes of coke annually.
 
 #### 5.3.4. Information and communication technology development policy
 
-Information  and  communication  technology  is  viewed  as  the  main  accelerator  of  Mongolia's  economic  and  social development in the 21 st century.
+Information and communication technology is viewed as the main accelerator of Mongolia's economic and social development in the 21st century.
 
 ##### Phase one (2007-2015):
 
@@ -1458,9 +1456,9 @@ Strategic objective 1. Information and communication technology sector shall be 
 
 - Increase the speed and rate of information transmission, and switch to 5G spectrum.
 
-- Increase the number of security servers.
-
 - Provide for a total of 4 international Internet gateways.
+
+- Increase the number of security servers.
 
 - Connect all soums and settlements by fibber optic cable and small capacity digital radio relay systems by the year 2021, and provide up to 70 percent of rural population with an opportunity to receive online public and commercial services.
 
@@ -1518,9 +1516,9 @@ Strategic  objective  3. The  quantity  of  housing  shall  be  significantly  i
 
 - Provide housing subsidies and discounts for low income citizens and vulnerable groups of the society.
 
-- Provide the majority of households with housing by the year 2021.
-
 - Support private sector participation in building infrastructure for new residential areas and districts.
+
+- Provide the majority of households with housing by the year 2021.
 
 Strategic  objective  4. Land  use  in  cities  and  other  settled  areas  shall  be  improved,  and  the  system  of  property registration and its overall performance will be enhanced:
 
@@ -1630,7 +1628,7 @@ Strategic objective 2. Implement an integrated policy aimed at proper use of lan
 
 - Expand the network of specially protected natural areas, create a sound structure of its administration, and introduce a modern-day security management.
 
-Strategic objective 3. Necessary conditions for protecting and ensuring proper use of water resources, preventing their shortage,  and  providing  the  population  with  water,  which  meets  health  requirements,  will  be  created.  A  national  programme 'Water' shall be implemented:
+Strategic objective 3. Necessary conditions for protecting and ensuring proper use of water resources, preventing their shortage, and providing the population with water, which meets health requirements, will be created. A national programme “Water” shall be implemented:
 
 - Enhance  the  legal  environment  for  protecting  and  proper  use  of  water  resources;  improve  water  resource management to save water, its structure and organization.
 
@@ -1666,7 +1664,7 @@ Strategic objective 6. Promote capacity to adapt to climate change and desertifi
 
 - Assess areas affected or are at the risk of being affected by drought and erosion due to environmental degradation and climate change, define their prospects, and enhance the capacity to adapt to the peculiarities of those areas.
 
-- Choose and cultivate those sorts of grain, potato and vegetables, fodder plants which are hardy and capable to adapt to environmental and climate change, develop new sorts, and introduce advanced methods and technology in cropfarming.
+- Choose and cultivate those sorts of grain, potato and vegetables, fodder plants which are hardy and capable to adapt to environmental and climate change, develop new sorts, and introduce advanced methods and technology in crop-farming.
 
 - Develop and implement a policy with regard to regulating the population and structure of livestock in accordance with pastures' capacity.
 
@@ -1702,9 +1700,9 @@ Strategic objective 2. Guarantee protection of human rights:
 
 - Create legal environment for compensation of damages incurred by illegal actions of other people.
 
-- Provide for special protection of the rights of disabled citizens.
-
 - Ensure the right to a healthy and safe environment for people.
+
+- Provide for special protection of the rights of disabled citizens.
 
 - Improve legal environment for protecting the rights of children.
 
@@ -1744,9 +1742,9 @@ Strategic  objective  2. Ensure  transparency  and  citizens  participation  in 
 
 - Ensure transparency of the law-making process in the Parliament and increase public participation.
 
-- Reinforce the Anti-Corruption Agency and support its activities.
-
 - Strengthen the law-enforcement function of the Government.
+
+- Reinforce the Anti-Corruption Agency and support its activities.
 
 - Improve the system of holding high-ranking public officials accountable to the public for their actions.
 
@@ -1756,9 +1754,9 @@ Strategic objective 3. Create necessary conditions for ensuring independent and 
 
 - Improve management and human resource supply.
 
-- Prepare and consistently implement a programme to ensure economic independence of the judiciary.
-
 - Implement basic UN principles pertaining to independence of the judiciary.
+
+- Prepare and consistently implement a programme to ensure economic independence of the judiciary.
 
 - Establish personal and institutional independence of the general judicial council and judges, and improve the legal regulation on its protection.
 
@@ -1770,9 +1768,9 @@ Strategic objective 4. Enlarge administrations and territories based on the econ
 
 - Merge neighbouring soums in terms of administration and territory to make larger soums.
 
-- Strengthen the capacity of baghs and khoroos as primary administrative units that provide public services to citizens.
-
 - Create a system of settlements and increase their economic capacity.
+
+- Strengthen the capacity of baghs and khoroos as primary administrative units that provide public services to citizens.
 
 - Reinforce and develop institutions of local governance to enable them to independently deal with issues of local development.
 
@@ -1782,7 +1780,7 @@ Strategic objective 5. Reform state registration and information system, and est
 
 - Convert civil registration documents to electronic form.
 
-- Renew address registration in the capital city, aimag centres and large settlements, introduce an integrated, nationwide system of address codes, and create a comprehensive registry of addresses, geographical names of places and water bodies in line with international standards.
+- Renew address registration in the capital city, aimag centres and large settlements, introduce an integrated, nation-wide system of address codes, and create a comprehensive registry of addresses, geographical names of places and water bodies in line with international standards.
 
 - Provide for a swift improvement of the whole registration and information system.
 
@@ -1856,7 +1854,7 @@ Strategic  objective  1. Develop  cooperation  with  foreign  countries  to  saf
 
 Strategic objective 2. Implement a national security policy aimed at ensuring a robust economic development, stable political and social situation, and environmental protection:
 
-- Create conditions wherein the police, intelligence services, courts, and prosecutors fight crimes without violating basic  human  rights  and  ensure  social  order;  citizens  respect  law  and  social  order,  understand  the  work  of  lawenforcement organizations, as well as support and cooperate with them.
+- Create conditions wherein the police, intelligence services, courts, and prosecutors fight crimes without violating basic human rights and ensure social order; citizens respect law and social order, understand the work of law-enforcement organizations, as well as support and cooperate with them.
 
 - Establish an integrated mechanism of preventing natural disasters and providing assistance to their victims.
 
@@ -1890,9 +1888,9 @@ Strategic objective 1. Implement a peace-loving and active foreign policy:
 
 - Stimulate and expand traditionally friendly relations and cooperation with the countries of Eastern Europe.
 
-- Expand  relations  with  the  specialized  agencies  of  the  United  Nations  and  other  organizations,  and  utilize  their assistance  and  experience  in  implementing  the  MDGs-based  Comprehensive  National  Development  Strategy  of Mongolia.
-
 - Actively develop further the relations established with Turkey, Kazakhstan and some Arab countries.
+
+- Expand relations with the specialized agencies of the United Nations and other organizations, and utilize their assistance and experience in implementing the MDGs-based Comprehensive National Development Strategy of Mongolia.
 
 - Seek constructive participation in regional political and economic integration schemes and gain membership in the Asia-Pacific Economic Cooperation (APEC).
 
@@ -1942,15 +1940,15 @@ Strategic objective 2. Improve general management and civilian control of the ar
 
 - Gradually  transfer  General  troops  into  professional  military  units  and  detachments  with  permanent  staff,  bring military structure, organization, military training, armaments and technical equipment of Border troops and Internal troops closer to international standards.
 
-- Enhance  capacity  and  training  of  armed  forces  to  participate  in  the  UN  peacekeeping  and  other  international operations, strengthen structure and organization of military units and detachments, specially designated for antiterrorist activities and elimination of consequences thereof, improve their mobility and ensure permanent stand-by readiness.
+- Enhance capacity and training of armed forces to participate in the UN peacekeeping and other international operations, strengthen structure and organization of military units and detachments, specially designated for anti-terrorist activities and elimination of consequences thereof, improve their mobility and ensure permanent stand-by readiness.
 
 - Consolidate the system of civilian control of armed forces.
 
 Strategic objective 3 .  Implement step-by-step renovation of armaments and equipment.
 
-- Within the framework of improving management of defense resources set up 'Armed Forces Development Fund' with a purpose of facilitating phased renovation of armaments and equipment of the armed forces and supported by aid, donation and budget funds.
+- Within the framework of improving management of defense resources set up “Armed Forces Development Fund” with a purpose of facilitating phased renovation of armaments and equipment of the armed forces and supported by aid, donation and budget funds.
 
-- Improve and upgrade battalions capable of performing peacekeeping operations, military units designated for antiterrorist activities, anti-aircraft defense forces, military command communication, information system, weapons and equipment using budget investments, international assistance and aforementioned fund.
+- Improve and upgrade battalions capable of performing peacekeeping operations, military units designated for anti-terrorist activities, anti-aircraft defense forces, military command communication, information system, weapons and equipment using budget investments, international assistance and aforementioned fund.
 
 ## EIGHT. MAIN OUTCOMES OF POLICY IMPLEMENTATION, MECHANISMS FOR THEIR ACHIEVEMENT
 
@@ -1970,15 +1968,15 @@ By  implementing  the  MDGs-based  Comprehensive  National  Development  Strateg
 
 - As a result of active and rapid economic growth many new jobs will be created, poverty halved.
 
-- In comparison to the year 2000, under-five mortality rate down by two-thirds, maternal mortality by three-forth and the spread of the HIV/AIDS consistently reduced.
-
 - Human development index to be 0.83.
+
+- In comparison to the year 2000, under-five mortality rate down by two-thirds, maternal mortality by three-forth and the spread of the HIV/AIDS consistently reduced.
 
 - A notable progress achieved in fostering gender equality in all areas.
 
-- General education schools transferred to 12-year system, multi-alternative curricula and programmes elaborated and implemented.
-
 - All children of school age fully enrolled in primary education, gender gap eliminated.
+
+- General education schools transferred to 12-year system, multi-alternative curricula and programmes elaborated and implemented.
 
 - Average annual economic growth no less than 14 percent, GDP per capita no less than 5000 USD.
 
@@ -1992,9 +1990,9 @@ By  implementing  the  MDGs-based  Comprehensive  National  Development  Strateg
 
 - A favorable environment for the development of SME achieved.
 
-- Opportunities for software production and export created, consumption increased.
-
 - Unemployment noticeably decreased.
+
+- Opportunities for software production and export created, consumption increased.
 
 - 20-30 thousand households in ger districts of the capital city connected to the central public utility  systems; nationwide average of 10 thousand households improved their housing conditions annually.
 
@@ -2018,15 +2016,15 @@ By  implementing  the  MDGs-based  Comprehensive  National  Development  Strateg
 
 - Have more than two universities, nearing the international standards.
 
-- 60 percent of soum and aimag hospitals and 100 percent of the district hospitals equipped with treatment and diagnostics equipment.
-
 - Family doctor system fully taken root.
+
+- 60 percent of soum and aimag hospitals and 100 percent of the district hospitals equipped with treatment and diagnostics equipment.
 
 - Medical case records 100 percent transferred to electronic files.
 
-- A  treatment  and  diagnostics  center  that  meets  international  standards  established,  number  of  patients  going oversees for treatment and diagnostics noticeably decreased.
-
 - Number of patients from rural areas arriving for diagnostics decreased by more than 50 percent.
+
+- A treatment and diagnostics center that meets international standards established, number of patients going oversees for treatment and diagnostics noticeably decreased.
 
 - Accessibility and quality of medical services reached 75 percent.
 
@@ -2050,21 +2048,21 @@ By  implementing  the  MDGs-based  Comprehensive  National  Development  Strateg
 
 - Shift from extraction of mineral resources to production of end products accelerated.
 
-- Middle-income citizens constituted 60 percent of the total population.
-
 - Average of no less than 15 thousand households improved their housing conditions nationwide annually.
+
+- Middle-income citizens constituted 60 percent of the total population.
 
 - Enrollment at all school levels reached 100 percent.
 
-- Financing of research work reached 2 percent of GDP in 2015 and 3 percent of GDP in 2021.  One-third of these expenses shouldered by the private sector.
-
 - Number of schools and universities with curriculum fully corresponding to international standards increased.
+
+- Financing of research work reached 2 percent of GDP in 2015 and 3 percent of GDP in 2021. One-third of these expenses shouldered by the private sector.
 
 - Mongolia became a country that adopted and mastered modern technology.
 
-- Intensive  farming  developed,  food  needs  of  the  population  satisfied  mainly  by  domestic  ecologically  clean products, export of food products increased.
-
 - Tourism developed, number of tourists visiting Mongolia a year equaled the country's population.
+
+- Intensive farming developed, food needs of the population satisfied mainly by domestic ecologically clean products, export of food products increased.
 
 - Consumption of oil products fully supplied by domestic production.
 
@@ -2076,9 +2074,9 @@ By  implementing  the  MDGs-based  Comprehensive  National  Development  Strateg
 
 - Average life expectancy reached 72.
 
-- Number of patients arriving for diagnostics and treatment from rural areas to the city decreased by 95 percent.
-
 - Needs of soum and aimag hospitals fully satisfied.
+
+- Number of patients arriving for diagnostics and treatment from rural areas to the city decreased by 95 percent.
 
 - Accessibility and quality of medical services reached 95 percent.
 
@@ -2088,47 +2086,47 @@ By  implementing  the  MDGs-based  Comprehensive  National  Development  Strateg
 
 The  following  national  programmes  will  be  developed  and  implemented  within  the  framework  of  the  MDGs-based Comprehensive National Development Strategy:
 
-'Mineral resources'
+“Mineral resources”
 
-'Infrastructure'
+“Technology”
 
-'Technology'
+“Infrastructure”
 
-'Water'
+“Water”
 
-'Tourism'
+“Rural development”
 
-'Rural development'
+“Tourism”
 
-'Housing'
+“Housing”
 
-'Education'
+“Cities”
 
-'Cities'
+“Education”
 
-'Health'
+“Health”
 
-'Food security'
+“Food security”
 
 The  following  regional  programmes  will  be  implemented,  industrial  and  technological  parks  and  complexes  will  be established:
 
 - Western, Eastern, Central and Hangai Regional Development Programmes,
 
-- Industrial,  technological  and  business  incubator  parks  in  Nalaikh,  Bagahangai  and  Baganuur  districts  of  the Ulaanbaatar city, 'Airservice International' park,
+- Industrial, technological and business incubator parks in Nalaikh, Bagahangai and Baganuur districts of the Ulaanbaatar city, “Airservice International” park,
 
-'Darkhan' industrial technological park,
+“Darkhan” industrial technological park,
 
-'Altangobi' industrial technological park in Choir city,
+“Selenge” industrial technological park in Sukhbaatar city,
 
-'Selenge' industrial technological park in Sukhbaatar city,
+“Altangobi” industrial technological park in Choir city,
 
-'Dornod' industrial technological park,
+“Dornod” industrial technological park,
 
-'Kharkhurem (Kharkhorin)' training, scientific, technological park,
+“Erdenet” industrial technological park,
 
-'Erdenet' industrial technological park,
+“Kharkhurem (Kharkhorin)” training, scientific, technological park,
 
-'Khovd', 'Uliastai', 'Undurkhaan' industrial technological parks will be established.
+“Khovd”, “Uliastai”, “Undurkhaan” industrial technological parks will be established.
 
 - Zamyn-Uud, Altanbulag, Tsagaannuur free economic and trade zones established.
 
@@ -2182,9 +2180,9 @@ The following possible risks will be taken into account while implementing the M
 
 - Sharp drop in prices of gold, copper and coal on world markets
 
-- Major regional banking or financial crisis
-
 - Discriminatory trade restriction and tariff policy by neighboring countries
+
+- Major regional banking or financial crisis
 
 - Decline or halt in foreign investment
 
@@ -2204,35 +2202,37 @@ The following possible risks will be taken into account while implementing the M
 
 - Drought, dzud occurrence over several years
 
-- Other disasters
-
 - Excessive impact of desertification
+
+- Other disasters
 
 ##### Risks to population health:
 
-- Major outbreak of contagious livestock disease of category 'A'
-
-- Major outbreak of HIV/AIDS
+- Major outbreak of contagious livestock disease of category “A”
 
 - Major outbreak of highly contagious diseases such as bird flu and plague
 
+- Major outbreak of HIV/AIDS
+
 ##### Industrial and business risks:
 
-Large-scale, long-term energy black-out Industrial or technical disaster Breakdown of road, transportation and communication networks
+Large-scale, long-term energy black-out
+Industrial or technical disaster
+Breakdown of road, transportation and communication networks
 
 ##### State administration risks:
 
 - Poor implementation of legal acts and regulations
 
-- Weak  system  of  reciprocal  oversight  among  State  institutions,  unclear  power  distribution  and  absence  of accountability
-
 - Absence of visible positive results of the State and government activities
+
+- Weak system of reciprocal oversight among State institutions, unclear power distribution and absence of accountability
 
 - Inability to hold just, transparent elections
 
-- Protracted social crisis
-
 - Spread of corruption
+
+- Protracted social crisis
 
 Risk  management  mechanism  for  above-mentioned  risks  will  be  constantly  improved  and  implemented  within intermediate and short-term planning.
 
