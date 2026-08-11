@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -26,13 +26,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -42,7 +44,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -68,11 +70,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -116,7 +118,7 @@ Guðni Olgeirsson
 
 Email and telephone number of contact person: gudni.olgeirsson@mrn.is. +354 8617354
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -212,7 +214,7 @@ The rights and principles have been laid out in the following legislation:
 
 - The Icelandic Government incorporated the United Nations (UN) Convention on the Rights of the Child (1992) into Icelandic law in 2013 and adopted the Salamanca Statement (1994) and the Dakar Declaration on Education for All (2000).
 
-- Implementation of the UN Convention on the Rights of the Child adopted by the Parliament, Child friendly Iceland (Barnvænt Ísland) .
+- Implementation of the UN Convention on the Rights of the Child adopted by the Parliament, Child friendly Iceland (Barnvænt Ísland).
 
 #### 1.1 Non-discrimination and equality in education
 
@@ -239,12 +241,10 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 - Please indicate the relevant legal provisions:
 
 - Act No. 90/2008 on Pre-schools
----
 - Act No. 91/2008 on Compulsory Schools
 - Act No. 92/2008 on Upper Secondary Education
 - Act No. 63/2006 on Higher Education
-- Act No 85/ 2018 on Equal Treatment irrespective of Race and Ethnic Origin (Equal
-Treatment Outside the Labour Market)
+- Act No 85/ 2018 on Equal Treatment irrespective of Race and Ethnic Origin (Equal Treatment Outside the Labour Market)
 - Act no. 62/1994 on The European Convention on Human Rights
 - Iceland has ratified the UN Convention on the Rights of Persons with Disabilities (UNCRPD).
 
@@ -254,7 +254,7 @@ Treatment Outside the Labour Market)
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -262,9 +262,19 @@ Treatment Outside the Labour Market)
 
 [[START OF PAGE 8]]
 
-- Act No. 90/2008 on Pre-schools; Article 2: Preschools should operate in a manner characterised by tolerance and charity, equality, democratic cooperation, responsibility, consideration, forgiveness and respect for human worth, - Act No. 91/2008 on Compulsory Schools; Article 13 states: All pupils in compulsory schools shall be entitled to receive suitable instruction within an encouraging study environment and in appropriate premises adapted to their needs and general well- being. Each compulsory school shall in all respects organise its work so as to allow pupils to feel safe and develop their abilities. Pupils have the right to enjoy the benefit of their childhood in all school work. - Act No. 92/2008 on Upper Secondary Schools, Article 2: The role of upper secondary schools is to promote the all-round development of all students and their active participation in democratic society by offering studies suiting the needs of each student. - Act No. 63/2006 on Higher Education; Article 19: Higher education institutions make provisions to ensure that teaching and special pedagogic support is to students who have a disability and to students with emotional or social The institutions shall provide expert assistance and make appropriate available as needed. Wherever possible, students with disabilities shall pursue studies in the same venues as other students. Moreover, higher institutions shall strive to provide special support to students with specific difficulties or suffering from an illness. - Act No 85/ 2018 on Equal Treatment irrespective of Race and Ethnic Origin Treatment Outside the Labour Market); Article 10: Prohibition against in schools and pedagogical establishments . □ In schools and other educational and pedagogical establishments any kind discrimination based on race or ethnic origin is prohibited. This prohibition must observed in teaching and studies, in working methods and in day-to-day dealings pupils. □ Educational and teaching material shall not contribute to discrimination based race or ethnic origin and shall not display persons of a particular race or ethnic in a disrespectful or belittling manner.
----
-shall available difficulties. facilities their education learning (Equal discrimination of be with on origin
+- Act No. 90/2008 on Pre-schools; Article 2: Preschools should operate in a manner characterised by tolerance and charity, equality, democratic cooperation, responsibility, consideration, forgiveness and respect for human worth,
+
+- Act No. 91/2008 on Compulsory Schools; Article 13 states: All pupils in compulsory schools shall be entitled to receive suitable instruction within an encouraging study environment and in appropriate premises adapted to their needs and general well-being. Each compulsory school shall in all respects organise its work so as to allow pupils to feel safe and develop their abilities. Pupils have the right to enjoy the benefit of their childhood in all school work.
+
+- Act No. 92/2008 on Upper Secondary Schools, Article 2: The role of upper secondary schools is to promote the all-round development of all students and their active participation in democratic society by offering studies suiting the needs of each student.
+
+- Act No. 63/2006 on Higher Education; Article 19: Higher education institutions shall make provisions to ensure that teaching and special pedagogic support is available to students who have a disability and to students with emotional or social difficulties. The institutions shall provide expert assistance and make appropriate facilities available as needed. Wherever possible, students with disabilities shall pursue their studies in the same venues as other students. Moreover, higher education institutions shall strive to provide special support to students with specific learning difficulties or suffering from an illness.
+
+- Act No 85/ 2018 on Equal Treatment irrespective of Race and Ethnic Origin (Equal Treatment Outside the Labour Market); Article 10: Prohibition against discrimination in schools and pedagogical establishments.
+
+□ In schools and other educational and pedagogical establishments any kind of discrimination based on race or ethnic origin is prohibited. This prohibition must be observed in teaching and studies, in working methods and in day-to-day dealings with pupils.
+
+□ Educational and teaching material shall not contribute to discrimination based on race or ethnic origin and shall not display persons of a particular race or ethnic origin in a disrespectful or belittling manner.
 
  Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
@@ -302,7 +312,7 @@ Action plan on the implementation of the UN Convention on the Rights of the Chil
 
 The National Curriculum Guide contains the framework and conditions for learning and teaching, based on the principles of existing laws, regulations and international conventions. Six fundamental pillars have been developed within this framework and they form the essence of the educational policy. They include the working methods, content and learning environment at each school level and form important continuity in the Icelandic education system. These pillars are literacy, sustainability, equality, creativity, health and welfare, and democracy and human rights.
 
-The Education for All policy is emphasised in the National Curriculum Guides for PreSchool,  Compulsory  School  and  Upper-Secondary  School.  The  Curriculum  Guides ensure conformity of objectives across all three levels of schooling. In developing the National Curriculum Guides, in the organisation of study lines and the production and selection of study  materials,  special  efforts  were  made  to  ensure  that  the opportunities for study available to all learners were as equal as possible.
+The Education for All policy is emphasised in the National Curriculum Guides for Pre-School, Compulsory School and Upper-Secondary School. The Curriculum Guides ensure conformity of objectives across all three levels of schooling. In developing the National Curriculum Guides, in the organisation of study lines and the production and selection of study materials, special efforts were made to ensure that the opportunities for study available to all learners were as equal as possible.
 
 The objectives of teaching and learning and the working practices of pre-primary, compulsory  and  upper-secondary  schools  are  to  prevent  discrimination  based  on origin, gender, residence, class, religion or disability. All school activities are to take into account learners' varied personalities, talents, abilities, interests and levels of maturity.
 
@@ -342,7 +352,7 @@ In Iceland there is an active sphere of organised leisure, sport and youth activ
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -352,18 +362,23 @@ In Iceland there is an active sphere of organised leisure, sport and youth activ
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-The legal framework pertaining to education at the compulsory (primary and lower- secondary education) and upper secondary levels in Iceland defines 'education for all' as a fundamental principle. The Education Policy 2030, which was adopted in 2021, also explicitly stipulates 'equal opportunities for all' as one of its five pillars and focuses on actions to serve multicultural school populations and to foster diversity and inclusion. Human rights are taught in a cross- curricular manner and feature mostly in 'social studies'. As an educational outcome of this subject, it is expected that 'the pupils are able to discuss the values of equality and human rights in all areas of society as well as the influence of stereotypes and know general provisions on human rights.
----
-In the year 2017 the Ministry of Education started cooperation with the European Agency for Special Needs and Inclusive Education to analyse the status of inclusive education in Iceland and to recommend reforms. The Agency performed an external audit of the Icelandic system for inclusive education and made recommendations for reforms. See: (https://www.stjornarradid.is/media/menntamalaraduneyti- media/media/frettatengt2016/Final-report_External-Audit-of-the-Icelandic-System-for- Inclusive-Education.pdf. Since then the Government has worked on the implementation of reform based on the audit, f.ex. working with the municipalities to revise their budgeting system for schools to take into account diverse needs and inclusion. The Minister of Education and Children has introduced a law proposal on inclusive education before the Parliament that details the services schools and municipalities are to provide for students. In this law proposals legal rights for services supporting inclusion are also extended to the upper-secondary level. A newly established Directorate for Education and School Services is to play an important role in providing and coordinating these services.
+The legal framework pertaining to education at the compulsory (primary and lower-secondary education) and upper secondary levels in Iceland defines ‘education for all’ as a fundamental principle. The Education Policy 2030, which was adopted in 2021, also explicitly stipulates ‘equal opportunities for all’ as one of its five pillars and focuses on actions to serve multicultural school populations and to foster diversity and inclusion.
+
+Human rights are taught in a cross-curricular manner and feature mostly in “social studies”. As an educational outcome of this subject, it is expected that “the pupils are able to discuss the values of equality and human rights in all areas of society as well as the influence of stereotypes and know general provisions on human rights.
+
+In the year 2017 the Ministry of Education started cooperation with the European Agency for Special Needs and Inclusive Education to analyse the status of inclusive education in Iceland and to recommend reforms. The Agency performed an external audit of the Icelandic system for inclusive education and made recommendations for reforms. See: (https://www.stjornarradid.is/media/menntamalaraduneyti-media/media/frettatengt2016/Final-report_External-Audit-of-the-Icelandic-System-for-Inclusive-Education.pdf.
+
+Since then the Government has worked on the implementation of reform based on the audit, f.ex. working with the municipalities to revise their budgeting system for schools to take into account diverse needs and inclusion.
+
+The Minister of Education and Children has introduced a law proposal on inclusive education before the Parliament that details the services schools and municipalities are to provide for students. In this law proposals legal rights for services supporting inclusion are also extended to the upper-secondary level. A newly established Directorate for Education and School Services is to play an important role in providing and coordinating these services.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
 In few years the percentage of students of foreign origin has more than doubled. Between 2013 and 2023 the percentage of students in compulsory schools with a mother tongue other than Icelandic increased from 6,5% to 15,5%. This has put a lot of stress on the education system to ensure non-discrimination and equal opportunities to these children many of whom are recent immigrants and refugees.
----
-Adjusting teacher initial education and their continuing professional development to the needs of inclusive education is a continuing challenge. A shortage of teachers has been a persistent problem. The percentage of licenced teachers has declined in recent years and is now around 25% at pre-primary level, 85% at the compulsory level and 88% at the upper-secondary level. Due to
-the a successful initiative by the government the number teacher graduates, however, increased by 175% between the years 2019 and 2022.
-Providing adequate school services to support inclusion has also been a challenge. In particular smaller municipalities have had problems providing adequate services. Following a recent
 
+Adjusting teacher initial education and their continuing professional development to the needs of inclusive education is a continuing challenge. A shortage of teachers has been a persistent problem. The percentage of licenced teachers has declined in recent years and is now around 25% at the pre-primary level, 85% at the compulsory level and 88% at the upper-secondary level. Due to a successful initiative by the government the number teacher graduates, however, increased by 175% between the years 2019 and 2022.
+
+Providing adequate school services to support inclusion has also been a challenge. In particular smaller municipalities have had problems providing adequate services. Following a recent
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
@@ -410,7 +425,7 @@ Every four years, the Minister for gender equality must submit a motion for a pa
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -480,13 +495,13 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 In 2018, the Icelandic Parliament enacted Act No. 86/2018 on Equal Treatment in the Labour Market and Act No. 85/2018 on Equal Treatment irrespective of Racial and Ethnic Origin (Equal  Treatment  Outside  the  Labour  Market).  The  law  was  later  extended  to  include discrimination grounds, such as religion or belief, sexual orientation, gender identity, gender expression and sex characteristics. This Act applies to education.
 
-Iceland has ratified the Council of Europe 's Framework Convention for the Protection of National Minorities. Also Iceland has also ratified the original European Social Charter.
+Iceland has ratified the Council of Europe’s Framework Convention for the Protection of National Minorities. Also Iceland has also ratified the original European Social Charter.
 
 Iceland introduced in 2023 an update of the National Curriculum Guide for pre-primary schools with regulation 897/2023. The overarching purpose of the changes were to increase the focus on the role of play in early childhood education but amongst guidelines to teachers in ECEC settings. There are also clearer guidelines toward the professional duty of the pre-primary teacher in promoting multilingualism. They are to put focus on respecting diverse languages and look for ways to support mother tongue and active multilingualism in play and daily work.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
-Historically Iceland has had a homogeneous population with hardly any minorities and no ethnic minorities. This may be changing in recent years due to increasing immigration and number of people  of  different  origin  living  in  the  country  with  diverse  language  and  cultural  background. Awareness of the rights and equal treatment of minorities is limited as this has not been much part of public debate.  In recent years there has been an increase in numbers of asylum seekers that has put pressure on the system, including the educational system.
+Historically Iceland has had a homogeneous population with hardly any minorities and no ethnic minorities. This may be changing in recent years due to increasing immigration and number of people of different origin living in the country with diverse language and cultural background. Awareness of the rights and equal treatment of minorities is limited as this has not been much part
 
 > 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
@@ -497,6 +512,8 @@ Historically Iceland has had a homogeneous population with hardly any minorities
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+of public debate. In recent years there has been an increase in numbers of asylum seekers that has put pressure on the system, including the educational system.
 
 ##### Indigenous people:
 
@@ -550,7 +567,7 @@ There are no defined indigenous people in Iceland.
 
 > 27 Supra note 16.
 
-> 28 ' Trapped  populations  are  those  who  are  unable  to  migrate  to  safe  locations  and  remain  trapped  in  locations vulnerable to the impacts of climate hazards' ( UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
+> 28 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards' (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
 
 [[END OF PAGE 15]]
 
@@ -676,15 +693,13 @@ According  to  reports  on  the  policy  of  inclusive  education  there  is  a 
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-There are no pupils defined as pupils from disadvantaged backgrounds in the legislation on preprimary schools, compulsory schools, nor the upper secondary schools. Decisions for special measures concerning pupils from disadvantaged background are taken at municipal level by local family services and school officials jointly.
+There are no pupils defined as pupils from disadvantaged backgrounds in the legislation on pre-primary schools, compulsory schools, nor the upper secondary schools. Decisions for special measures concerning pupils from disadvantaged background are taken at municipal level by local family services and school officials jointly.
 
 The  Act  on  the  education,  competency  and  recruitment  of  teachers  and  school  leaders  of preschools, compulsory schools and upper secondary schools no.  95/2019 introduces competency framework which entails criteria for teachers and school leaders. A regulation on the competency framework explicitly mentions that teachers are to support the prosperity of children, inclusion and combat stigmatization.
 
-35
+> 35 Supra note 15.
 
 > 36 Supra note 16.
-
-Supra note 15.
 
 [[END OF PAGE 18]]
 
@@ -698,7 +713,7 @@ The Welfare Watch (Velferðarvaktin) is an independent analytical body and an ob
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -706,13 +721,13 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+ ECCE services are accessible on a non-discriminatory basis
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
-Municipalities  offer  ECCE  services  for  children  from  age  2  or  younger.  The  services  are subsidised, but most municipalities charge a fee per child. The National Curriculum Guide for  Pre-Schools  specifies  education  at  this  school  level  with  an  emphasis on  play  and  a supportive environment for child's cognitive , social development. Per-primary schools are in  co-operation with national health services and the social services of municipalities to care for nutrition, health and safety of children.
+Municipalities offer ECCE services for children from age 2 or younger. The services are subsidised, but most municipalities charge a fee per child. The National Curriculum Guide for Pre-Schools specifies education at this school level with an emphasis on play and a supportive environment for child's cognitive, social development. Per-primary schools are
 
 > 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -721,6 +736,8 @@ Municipalities  offer  ECCE  services  for  children  from  age  2  or  younger.
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+in co-operation with national health services and the social services of municipalities to care for nutrition, health and safety of children.
 
 - Is compulsory and free of charge pre-primary education available?
 
@@ -758,11 +775,13 @@ There  is  a  shortage  of  professionally  trained  educators  at  the  pre-pri
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -851,7 +870,6 @@ Upper-secondary education starts at age 16. It is not compulsory, but the state 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms,  transport  and  compulsory  levies  on  parents).  Brief  quantitative  information  may  be added.
 
 Compulsory School Act no. 91/2008.
----
 Upper-Secondary Education Act no. 92/2008.
 - National Curriculum Guide for Compulsory and Upper-Secondary Schools, see: adalnamskra.is, namskra.is.
 Students at the upper-secondary level pay a registration fee and are responsible for the cost of textbooks and other learning materials such as laptops.
@@ -872,7 +890,8 @@ For reference: The employment laws and those related to compulsory education are
 
 The legal age in Iceland is 18. According to employment legislation and regulation on child labour the minimum age for employment is mostly aligned with compulsory education, see:
 
-Act on Working Terms and Pension Rights Insurance, No 55/1980 Regulation on the work of children and young people, No 46/1999
+Act on Working Terms and Pension Rights Insurance, No 55/1980
+Regulation on the work of children and young people, No 46/1999
 
 - What challenges were encountered in realizing secondary education?
 
@@ -906,7 +925,7 @@ Iceland has a high percentage of youths, age 18-24, that have not finished upper
 
 #### 2.3 Higher education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39 , and target 4.4 40 . Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39, and target 4.4 40. Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural
 
 > 39 Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'.
 
@@ -915,6 +934,8 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
 
 - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
@@ -1026,15 +1047,17 @@ Iceland is above the EU's benchmark for the proportion of adults (25 -64) partic
 
 - Please elaborate. Brief quantitative information may be added.
 
-The legal framework for adults who have not finished studies at the upper-secondary level nor have other kind of formal qualifications can be found in the Act on Adult Education from 2010. That act is seen as the 5 th pillar of the educational system and is characterised by more informal approach to education and training. The main services according to the Act are accredited courses, of various length, to enhance basic skills, employability and career development of the target group. That Act also stipulates the recognition of prior learning process (RPL) and educational and vocational guidance for adults all over the country. The services are mostly run by Lifelong learning Centres and private educational providers. Therefore, the course fees are higher than in public schools but in many cases individuals get supported or refunded by various Continious Vocational Training funds. Because of rapid societal, technological and demographic changes the Act needs updating. The main challenges are to simplify the system and make it more transparent regarding funding, accreditation and quality measures. New target groups need to be addressed in a legal framework like immigrants and adults with disabilities or in rehabilitation. The overall participation in courses also need to increase by offering relevant vocational courses, e.g. to meet the demands of the labour market, and in order to increase the nation's educational levels and enrich peoples lives with with opportunities to reskill, upskill and build up lifelong and general competences.
+The legal framework for adults who have not finished studies at the upper-secondary level nor have other kind of formal qualifications can be found in the Act on Adult Education from 2010. That act is seen as the 5th pillar of the educational system and is characterised by more informal approach to education and training. The main services according to the Act are accredited courses, of various length, to enhance basic skills, employability and career development of the target group. That Act also stipulates the recognition of prior learning process (RPL) and educational and vocational guidance for adults all over the country. The services are mostly run by Lifelong learning Centres and private educational providers. Therefore, the course fees are higher than in public schools but in many cases individuals get supported or refunded by various Continious Vocational Training funds. Because of rapid societal, technological and demographic changes the Act needs updating. The main challenges are to simplify the system and make it more
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
+transparent regarding funding, accreditation and quality measures. New target groups need to be addressed in a legal framework like immigrants and adults with disabilities or in rehabilitation. The overall participation in courses also need to increase by offering relevant vocational courses, e.g. to meet the demands of the labour market, and in order to increase the nation's educational levels and enrich peoples lives with with opportunities to reskill, upskill and build up lifelong and general competences.
+
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1068,8 +1091,6 @@ Laws on pre-primary, compulsory and upper secondary education stipulate that the
 
 At  pre-primary  and  compulsory  school  levels,  the  municipalities  are,  by  law  since  2008, responsible for their own evaluation of schools and school activities.
 
-#### 3.2 Education personnel
-
 - What challenges were encountered in realizing quality education?
 
  Non-supportive or inadequate learning environments
@@ -1091,6 +1112,8 @@ At  pre-primary  and  compulsory  school  levels,  the  municipalities  are,  by
 - Please elaborate. Brief quantitative information may be added.
 
 None of the above applies directly to the quality issues in Iceland.
+
+#### 3.2 Education personnel
 
 For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'.
 
@@ -1122,7 +1145,7 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 ##### Recruitment of teachers
 
-In Spring 2019, the Icelandic government launched a 5-year recruitment campaign to tackle the growing shortage of teachers. The initiative was formed in wide collaboration with the main stakeholders; The Icelandic Teacher´s Union, the municipalities, the U niversities that offer teacher training and other stakeholders.
+In Spring 2019, the Icelandic government launched a 5-year recruitment campaign to tackle the growing shortage of teachers. The initiative was formed in wide collaboration with the main stakeholders; The Icelandic Teacher´s Union, the municipalities, the Universities that offer teacher training and other stakeholders.
 
 The goal of the initiative is to:
 
@@ -1150,9 +1173,9 @@ According to recent statistics the salaries of teachers have somewhat fallen beh
 
  Other:
 
-- o Low quality educational infrastructure and materials
+ Low quality educational infrastructure and materials
 
-- o High student - teacher ratio
+ High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1180,13 +1203,13 @@ The National Curriculum Guide for pre-primary, compulsory and upper-secondary ed
 
 In 2013, the Convention on the Rights of the Child was incorporated directly into Icelandic legislation, along with the first two Optional Protocols.
 
-In order to take a more systematic approach to the implementation of the Convention, a policy and an action plan - Child-Friendly Iceland -was adopted by Parliament in June 2021. (https://www.althingi.is/altext/151/s/1702.html)
+In order to take a more systematic approach to the implementation of the Convention, a policy and an action plan - Child-Friendly Iceland – was adopted by Parliament in June 2021. (https://www.althingi.is/altext/151/s/1702.html)
 
 The Action Plan includes diverse, scheduled and financed actions, that among others aim at increasing child participation, the development and implementation of a child rights impact assessment for the government, and education on children's rights.
 
 One of the many projects that fall under the action plan is Child Friendly Municipalities in Iceland - a project that aids municipalities in systematic implementation of the Convention. The Ministry of Education and Children and UNICEF Iceland are partners in the project that already reaches 55% of all children in the country.
 
-Office of the Ombudman for Children is also involved in monitoring the implementation of the Convention on the Rights of the Child (see https://www.barn.is/netid-samfelagsmidlarog-born/stafraent-umhverfi/vernd-barna-i-stafraenu-umhverfi)
+Office of the Ombudman for Children is also involved in monitoring the implementation of the Convention on the Rights of the Child (see https://www.barn.is/netid-samfelagsmidlar-og-born/stafraent-umhverfi/vernd-barna-i-stafraenu-umhverfi)
 
 #### 3.4 Non-state actors in education
 
@@ -1240,8 +1263,6 @@ Freedom of religion clause in the Icelandic Constitution.
 
 [[START OF PAGE 32]]
 
-#### 3.5 Digital education
-
  School closures
 
  Other
@@ -1270,6 +1291,8 @@ Freedom of religion clause in the Icelandic Constitution.
 
 Approximately 20% of upper-secondary level students attend private schools.
 
+#### 3.5 Digital education
+
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 44 .
 
 - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked):
@@ -1290,7 +1313,7 @@ The Acts on Compulsory Schools and Upper-Secondary schools explicitly state the 
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1344,7 +1367,7 @@ The Icelandic school system is decentralized where different municipalities make
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available" (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
