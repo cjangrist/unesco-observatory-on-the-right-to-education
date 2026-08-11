@@ -1,24 +1,24 @@
 [[START OF PAGE 1]]
 
-# LASORIENTACIONESPARA LA PREPARACIÓN DE LOS INFORMES DE LOS ESTADOS MIEMBROS SOBRE LA APLICACIÓN DE LA RECOMENDACIÓN DE 1974 SOBRE LA EDUCACIÓN PARA LA COMPRENSIÓN, LA COOPERACIÓN Y LA PAZ INTERNACIONALES  Y  LA  EDUCACIÓN  RELATIVA  A  LOS  DERECHOS  HUMANOS Y LAS LIBERTADES FUNDAMENTALES
+# LAS ORIENTACIONES PARA LA PREPARACIÓN DE LOS INFORMES DE LOS ESTADOS MIEMBROS SOBRE LA APLICACIÓN DE LA RECOMENDACIÓN DE 1974 SOBRE LA EDUCACIÓN PARA LA COMPRENSIÓN, LA COOPERACIÓN Y LA PAZ INTERNACIONALES Y LA EDUCACIÓN RELATIVA A LOS DERECHOS HUMANOS Y LAS LIBERTADES FUNDAMENTALES
 
 ## I. Introducción
 
 ### A. Sobre la Recomendación de 1974
 
-- La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades  Fundamentales 1   (la  'Recomendación  de  1974')tiene  por  objetivo  promover  la educación  internacional  y  la  paz  mundial  mediante  la  comprensión,  la  solidaridad  y  la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
+1. La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades Fundamentales1 (la “Recomendación de 1974”) tiene por objetivo promover la educación internacional y la paz mundial mediante la comprensión, la solidaridad y la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
 
-- La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos los niveles, desde la educación preescolar hasta la terciaria y a la educación de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 'adoptando las medidas legislativas o  de  otra  índole'  que  proporcionen  apoyo  institucional  (por  ejemplo,  políticas  y  marcos jurídicos)  y  pedagógico  (por  ejemplo,  planes  de  estudios,  formación  docente,  materiales educativos, equipo y evaluación del estudiantado) para su implementación, basándose en los 'objetivos'  mencionados  en  el  párrafo  4  de  la  Recomendación  y  considerados  como  'los principios  rectores  de  la  política  educacional',  a  saber:  una  dimensión  internacional  y  una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
+2. La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos los niveles, desde la educación preescolar hasta la terciaria y a la educación de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 “adoptando las medidas legislativas o de otra índole” que proporcionen apoyo institucional (por ejemplo, políticas y marcos jurídicos) y pedagógico (por ejemplo, planes de estudios, formación docente, materiales educativos, equipo y evaluación del estudiantado) para su implementación, basándose en los “objetivos” mencionados en el párrafo 4 de la Recomendación y considerados como “los principios rectores de la política educacional”, a saber: una dimensión internacional y una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
 
-- Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
+3. Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
 
-- La  Conferencia  General,  en  su  39ª  reunión,  recomendó  utilizar  el  proceso  de presentación  de  informes  en  el  marco  de  la  Recomendación  de  1974  para  apoyar  la implementación y el seguimiento de la meta 4.7 del ODS 4 (Resolución 39 C/79). [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los vigentes tanto para el seguimiento de la Recomendación de 1974 como para la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
+4. La Conferencia General, en su 39ª reunión, recomendó utilizar el proceso de presentación de informes en el marco de la Recomendación de 1974 para apoyar la implementación y el seguimiento de la meta 4.7 del ODS 4 (Resolución 39 C/79). [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los principios rectores vigentes tanto para el seguimiento de la Recomendación de 1974 como para la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
 
 4.7.1, 12.8.1 y 13.3.1: Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en: a) las políticas nacionales de educación, b) los planes de estudios, c) la formación de docentes y d) la evaluación de los educandos.
 
-- Las  preguntas  marcadas  con  un  asterisco  (*)  se  emplearán  en  el  cálculo  de  los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
+5. Las preguntas marcadas con un asterisco (*) se emplearán en el cálculo de los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
 
-> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_ SECTION=201.html.
+> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html.
 
 [[END OF PAGE 1]]
 
@@ -34,23 +34,25 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Obligaciones en materia de presentación de informes
 
-6. La  Conferencia  General,  en  su  18ª  reunión,  al  aprobar  la  Recomendación  de  1974 recomendó a 'los Estados Miembros que presenten [...] informes relativos al accionar llevado adelante para la aplicación dela presente Recomendación'. Además, de conformidad con el artículo VIII de la Constitución de la UNESCO, '[cada] Estado Miembro someterá [...] informes sobre [...] el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV'.7. Así, se  espera  que  todos  los  Estados  Miembros  de  la  UNESCO presenten informes sobre las medidas que han adoptado para aplicar la Recomendación de 1974, de preferencia completando el siguiente cuestionario. Los informes deberán presentarse cada cuatro años.
+6. La Conferencia General, en su 18ª reunión, al aprobar la Recomendación de 1974 recomendó a “los Estados Miembros que presenten [...] informes relativos al accionar llevado adelante para la aplicación dela presente Recomendación”. Además, de conformidad con el artículo VIII de la Constitución de la UNESCO, “[cada] Estado Miembro someterá [...] informes sobre [...] el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV”.
+
+7. Así, se espera que todos los Estados Miembros de la UNESCO presenten informes sobre las medidas que han adoptado para aplicar la Recomendación de 1974, de preferencia completando el siguiente cuestionario. Los informes deberán presentarse cada cuatro años.
 
 ## II. Orientaciones para completar el cuestionario
 
-- El presente cuestionario y las orientaciones que lo acompañan se dirigen a los Ministros encargados de las relaciones con la UNESCO. Por lo general, los Ministerios de Educación y otras autoridades públicas encargadas de la educación son quienes completan el cuestionario. En la medida de lo posible, las respuestas deberán abarcar la educación en todos los niveles de gobierno, incluidos los niveles subnacionales cuando corresponda, así como la educación privada.
+8. El presente cuestionario y las orientaciones que lo acompañan se dirigen a los Ministros encargados de las relaciones con la UNESCO. Por lo general, los Ministerios de Educación y otras autoridades públicas encargadas de la educación son quienes completan el cuestionario. En la medida de lo posible, las respuestas deberán abarcar la educación en todos los niveles de gobierno, incluidos los niveles subnacionales cuando corresponda, así como la educación privada.
 
-- Se alienta a quienes respondan al cuestionario en cada país a que celebren amplias consultas dentro y fuera del gobierno, así como de manera transversal, en particular con los ministerios de Medio Ambiente, instituciones nacionales de derechos humanos, el sector de la educación, los asociados de la sociedad civil y otras instancias, según sea necesario, a fin de reunir la información necesaria.
+9. Se alienta a quienes respondan al cuestionario en cada país a que celebren amplias consultas dentro y fuera del gobierno, así como de manera transversal, en particular con los ministerios de Medio Ambiente, instituciones nacionales de derechos humanos, el sector de la educación, los asociados de la sociedad civil y otras instancias, según sea necesario, a fin de reunir la información necesaria.
 
-- Las respuestas a la séptima consulta deberían abarcar:
+10. Las respuestas a la séptima consulta deberían abarcar:
 
-- el período 2017-2020;
+i) el período 2017-2020;
 
-- ii) la  educación  en  todos  los  niveles  de  la  educación  formal,  desde  la  preescolar hasta la terciaria, así como la educación no formal;
+ii) la educación en todos los niveles de la educación formal, desde la preescolar hasta la terciaria, así como la educación no formal;
 
-- iii) todos los niveles de gobierno encargados de la educación en el país;
+iii) todos los niveles de gobierno encargados de la educación en el país;
 
-- iv) cuando sea posible, la educación privada.
+iv) cuando sea posible, la educación privada.
 
 11. Para  ayudar  a  los  países  a  responder  el  cuestionario,  la  UNESCO  ha  elaborado  el siguiente conjunto de temas relacionados con la ECM y la EDS. La lista se basa en un examen de  las  prácticas  comunes  utilizadas  en  muchos  países,  así  como  en  un  análisis  de  las publicaciones pertinentes. Aunque los conceptos de EDS y ECM pueden utilizarse de manera diferente  en  algunos  países,  la  lista  de  temas  recoge  por  lo  general  los  elementos considerados fundamentales de la meta 4.7. Sírvase consultar las definiciones de los términos principales en la sección III antes de completar el cuestionario.
 
@@ -60,71 +62,71 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Educación para la ciudadanía mundial y educación para el desarrollo sostenible
 
-- Diversidad cultural y tolerancia
+1. Diversidad cultural y tolerancia
 
-- 1.1 Entendimiento internacional o intercultural, solidaridad y cooperación.
+1.1 Entendimiento internacional o intercultural, solidaridad y cooperación.
 
-- 1.2 Diálogo intercultural e interreligioso
+1.2 Diálogo intercultural e interreligioso
 
-- 1.3 Ciudadanía local, nacional o mundial
+1.3 Ciudadanía local, nacional o mundial
 
-- Educación para la igualdad de género
+2. Educación para la igualdad de género
 
-- 2.1 Igualdad de oportunidades basadas en el género
+2.1 Igualdad de oportunidades basadas en el género
 
-- 2.2 Igualdad de género y justicia
+2.2 Igualdad de género y justicia
 
-- 2.3 Roles, identidad y estereotipos de género
+2.3 Roles, identidad y estereotipos de género
 
-- Educación en derechos humanos
+3. Educación en derechos humanos
 
-- 3.1 Igualdad  y  no  discriminación  por  motivos  de  raza,  color,  idioma,  religión, discapacidad,  opinión  política  o  de  otra  índole,  origen  nacional  o  social, nacimiento o cualquier otra condición
+3.1 Igualdad y no discriminación por motivos de raza, color, idioma, religión, discapacidad, opinión política o de otra índole, origen nacional o social, nacimiento o cualquier otra condición
 
-- 3.2 Valores  de  derechos  humanos,  dignidad  humana,  justicia,  inclusión  y participación
+3.2 Valores de derechos humanos, dignidad humana, justicia, inclusión y participación
 
-- 3.3 Respeto de los derechos humanos y las libertades fundamentales (tal como son definidos en las convenciones y declaraciones internacionales)
+3.3 Respeto de los derechos humanos y las libertades fundamentales (tal como son definidos en las convenciones y declaraciones internacionales)
 
-- Paz y no violencia
+4. Paz y no violencia
 
-- 4.1 Relaciones amistosas entre los pueblos y las naciones
+4.1 Relaciones amistosas entre los pueblos y las naciones
 
-- 4.2 Cuestionamiento  a  los  estereotipos  negativos,  promoción  de  soluciones pacíficas,  aprendizaje  para  la  convivencia,  inclusión  y  prevención  del extremismo violento
+4.2 Cuestionamiento a los estereotipos negativos, promoción de soluciones pacíficas, aprendizaje para la convivencia, inclusión y prevención del extremismo violento
 
-- 4.3 Prevención de todas las formas de violencia, como el acoso, la agresión verbal y la violencia de género
+4.3 Prevención de todas las formas de violencia, como el acoso, la agresión verbal y la violencia de género
 
-- Educación sobre el cambio climático
+5. Educación sobre el cambio climático
 
-- 5.1 Mitigación
+5.1 Mitigación
 
-- 5.2 Adaptación
+5.2 Adaptación
 
-- 5.3 Reducción del impacto
+5.3 Reducción del impacto
 
-- 5.4 Alerta temprana
+5.4 Alerta temprana
 
-- Sostenibilidad ambiental
+6. Sostenibilidad ambiental
 
-- 6.1 Cuidado del planeta y protección de la naturaleza
+6.1 Cuidado del planeta y protección de la naturaleza
 
-- 6.2 Justicia ambiental
+6.2 Justicia ambiental
 
-- 6.3 Biodiversidad, agua
+6.3 Biodiversidad, agua
 
-- Supervivencia y bienestar humanos
+7. Supervivencia y bienestar humanos
 
-- 7.1 Salud ambiental en la medida en la medida en que se relaciona con el al bienestar humano yla reducción del riesgo de desastres
+7.1 Salud ambiental en la medida en la medida en que se relaciona con el al bienestar humano yla reducción del riesgo de desastres
 
-- 7.2 Salud del planeta para las generaciones venideras
+7.2 Salud del planeta para las generaciones venideras
 
-- 7.3 Ciudades y comunidades sostenibles
+7.3 Ciudades y comunidades sostenibles
 
-- Consumo y producción sostenibles
+8. Consumo y producción sostenibles
 
-- 8.1 Estilos de vida responsables y sostenibles
+8.1 Estilos de vida responsables y sostenibles
 
-- 8.2 Economía verde y empleos verdes
+8.2 Economía verde y empleos verdes
 
-- 8.3 Energía sostenible
+8.3 Energía sostenible
 
 [[END OF PAGE 3]]
 
@@ -225,19 +227,19 @@ Otros (indique cuáles):
 
 ## VI. Cuestionario
 
-### Leyes y políticas (preámbulo y párrafos 4 y 7 de la Recomendación de 1974)
+### A. Leyes y políticas (preámbulo y párrafos 4 y 7 de la Recomendación de 1974)
 
 - A1a.  Por favor describa las leyes, legislación o marcos jurídicos nacionales o subnacionales específicos  de  su  país  que  rigen  la  promoción  de  la  educación  para  la  ciudadanía mundial (ECM) y la educación para el desarrollo sostenible (EDS). Explique si los temas de la ECM y la EDS 2  se mencionan de manera explícita o implícita y qué tipos o niveles de educación abarcan.
 
-- Constitución Política de la República de Nicaragua ,  que  establece  la  función indeclinable  del  Estado  de  garantizar  el  derecho  humano  fundamental  a  la educación, con el objetivo de la formación plena e integral del nicaragüense; dotarlo de una conciencia crítica, científica y humanista; desarrollar su personalidad y el sentido de su dignidad y capacitarlo para asumir las tareas de interés común que demanda  el  progreso  de  la  nación;  que  se  fundamenta  en  nuestros  valores nacionales,  en  el  conocimiento  de  nuestra  historia,  de  la  realidad,  de  la  cultura nacional y universal y en el desarrollo constante de la ciencia y de la técnica; cultiva los  valores  propios  del  nuevo  nicaragüense,  promoviendo  la  participación  de  la familia, de la comunidad y del pueblo en la educación y garantiza el apoyo de los medios de comunicación social a la misma.
+1. Constitución Política de la República de Nicaragua, que establece la función indeclinable del Estado de garantizar el derecho humano fundamental a la educación, con el objetivo de la formación plena e integral del nicaragüense; dotarlo de una conciencia crítica, científica y humanista; desarrollar su personalidad y el sentido de su dignidad y capacitarlo para asumir las tareas de interés común que demanda el progreso de la nación; que se fundamenta en nuestros valores nacionales, en el conocimiento de nuestra historia, de la realidad, de la cultura nacional y universal y en el desarrollo constante de la ciencia y de la técnica; cultiva los valores propios del nuevo nicaragüense, promoviendo la participación de la familia, de la comunidad y del pueblo en la educación y garantiza el apoyo de los medios de comunicación social a la misma.
 
-Establece  que  el  acceso  a  la  educación  es  libre  e  igual  para  todas  y  todos  los nicaragüenses. La enseñanza primaria es gratuita y obligatoria en los centros del Estado. La enseñanza secundaria es gratuita en los centros del Estado, sin perjuicio de las contribuciones voluntarias que puedan hacer los padres de familia. Nadie podrá ser excluido en ninguna forma de un centro estatal por razones económicas. Los  pueblos  indígenas  y  las  comunidades  étnicas  de  la  Costa  Atlántica  tienen derecho en su región a la educación intercultural en su lengua materna y el estudio del español como idioma nacional.
+Establece que el acceso a la educación es libre e igual para todas y todos los nicaragüenses. La enseñanza primaria es gratuita y obligatoria en los centros del Estado. La enseñanza secundaria es gratuita en los centros del Estado, sin perjuicio de las contribuciones voluntarias que puedan hacer los padres de familia. Nadie podrá ser excluido en ninguna forma de un centro estatal por razones económicas. Los pueblos indígenas y las comunidades étnicas de la Costa Atlántica tienen derecho en su región a la educación intercultural en su lengua materna y el estudio del español como idioma nacional.
 
-- Ley  No.  582  Ley  General  de  Educación, que  tiene  por  objeto  establecer  los Lineamientos Generales de la Educación y del Sistema Educativo Nacional, las atribuciones  y  obligaciones  del  Estado,  los  derechos  y  responsabilidades  de  las Personas  y  la  Sociedad  en  su  función  educadora.  Establece  la  estructura  del Sistema  Educativo  Nacional  en  los  diferentes  Subsistemas  Educativos  Básico, Medio  y Formación  Docente, Educación Técnica y Formación  Profesional, Educación Superior, Sistema Educativo Autonómico Regional (SEAR) y Educación Extraescolar.
+2. Ley No. 582 Ley General de Educación, que tiene por objeto establecer los Lineamientos Generales de la Educación y del Sistema Educativo Nacional, las atribuciones y obligaciones del Estado, los derechos y responsabilidades de las Personas y la Sociedad en su función educadora. Establece la estructura del Sistema Educativo Nacional en los diferentes Subsistemas Educativos Básico, Medio y Formación Docente, Educación Técnica y Formación Profesional, Educación Superior, Sistema Educativo Autonómico Regional (SEAR) y Educación Extraescolar.
 
-- Ley No.  648 Ley de Igualdad de Derechos y Oportunidades, que establece la obligación  de  garantizar  la  incorporación  del  enfoque  de  género  que  asegure  la participación  de  mujeres  y  hombres  en  las  políticas  públicas  por  parte  de  los Poderes del Estado, sus órganos de administración a nivel nacional, Gobiernos de las Regiones Autónomas de la Costa Atlántica, municipalidades y las instituciones, como estrategia integral para garantizar la igualdad y la eliminación de todas las formas de discriminación.
+3. Ley No. 648 Ley de Igualdad de Derechos y Oportunidades, que establece la obligación de garantizar la incorporación del enfoque de género que asegure la participación de mujeres y hombres en las políticas públicas por parte de los Poderes del Estado, sus órganos de administración a nivel nacional, Gobiernos de las Regiones Autónomas de la Costa Atlántica, municipalidades y las instituciones, como estrategia integral para garantizar la igualdad y la eliminación de todas las formas de discriminación.
 
-- Ley sobre Educación en Lenguas en la Costa Atlántica, que reconoce y autoriza la enseñanza en la preprimaria y en los primeros cuatro grados de primaria en las lenguas  Miskita  e  Inglesa  en  las  escuelas  de  las  zonas  que  ocupan  dichas comunidades indígenas y criollas de la Costa Atlántica de Nicaragua
+4. Ley sobre Educación en Lenguas en la Costa Atlántica, que reconoce y autoriza la enseñanza en la preprimaria y en los primeros cuatro grados de primaria en las lenguas Miskita e Inglesa en las escuelas de las zonas que ocupan dichas comunidades indígenas y criollas de la Costa Atlántica de Nicaragua
 
 > 2 Véase el esquema que figura en el párrafo 11 de la sección II de estas orientaciones.
 
@@ -245,57 +247,57 @@ Establece  que  el  acceso  a  la  educación  es  libre  e  igual  para  todas 
 
 [[START OF PAGE 11]]
 
-respectivamente,  al  mismo tiempo  la  enseñanza  en  el  idioma  español  de  forma gradual.
+respectivamente, al mismo tiempo la enseñanza en el idioma español de forma gradual.
 
-- Ley No. 162 Ley de Uso Oficial de las Lenguas de las Comunidades de la Costa Atlántica de Nicaragua , que establece el derecho de las comunidades de la Costa Caribe  a  la  preservación  de  sus  lenguas.  El  Estado  establecerá  Programas especiales para el ejercicio de este Derecho proporcionará los recursos necesarios para el buen funcionamiento de los mismos, y dictará leyes destinadas a promover acciones que aseguren que ningún nicaragüense sea objeto de discriminación por razón de su lengua.
+5. Ley No. 162 Ley de Uso Oficial de las Lenguas de las Comunidades de la Costa Atlántica de Nicaragua, que establece el derecho de las comunidades de la Costa Caribe a la preservación de sus lenguas. El Estado establecerá Programas especiales para el ejercicio de este Derecho proporcionará los recursos necesarios para el buen funcionamiento de los mismos, y dictará leyes destinadas a promover acciones que aseguren que ningún nicaragüense sea objeto de discriminación por razón de su lengua.
 
-- Ley No. 201, Ley de Promoción de los Derechos Humanos y de la Enseñanza de  la  Constitución  Política ,  que  establece  la  enseñanza  obligatoria  de  la Constitución Política y los Derechos Humanos en la educación preescolar, primaria, educación  media  y  técnico  vocacional,  así  como  los  instrumentos  jurídicos internacionales de Derechos Humanos ratificados por nuestro país.
+6. Ley No. 201, Ley de Promoción de los Derechos Humanos y de la Enseñanza de la Constitución Política, que establece la enseñanza obligatoria de la Constitución Política y los Derechos Humanos en la educación preescolar, primaria, educación media y técnico vocacional, así como los instrumentos jurídicos internacionales de Derechos Humanos ratificados por nuestro país.
 
-- Ley No. 342 Ley Creadora de la Asignatura del Medio Ambiente y los Recursos Naturales , mediante la cual se creó la asignatura 'Medio Ambiente y los Recursos Naturales'  que  se  impartirá  en  todos  los  centros  de  estudios  de  primaria  y secundaria, sean estos públicos o privados y constará de enseñanza teórica en las aulas y prácticas ecológicas fuera de las mismas.
+7. Ley No. 342 Ley Creadora de la Asignatura del Medio Ambiente y los Recursos Naturales, mediante la cual se creó la asignatura “Medio Ambiente y los Recursos Naturales” que se impartirá en todos los centros de estudios de primaria y secundaria, sean estos públicos o privados y constará de enseñanza teórica en las aulas y prácticas ecológicas fuera de las mismas.
 
-- Ley  No.  985  Ley  para  una  Cultura  de  Diálogo,  Reconciliación,  Seguridad, Trabajo  y  Paz, tiene  por  objeto  garantizar  el  derecho  de  todas  y  todos  los nicaragüenses de contar con los alimentos suficientes, inocuos y nutritivos acordes a sus necesidades vitales; que estos sean accesibles física, económica, social y culturalmente  de  forma  oportuna  y  permanente  asegurando  la  disponibilidad, estabilidad y suficiencia de los mismos a través del desarrollo y rectoría por parte del Estado, de políticas públicas vinculadas a la soberanía y seguridad alimentaria y nutricional, para su implementación.
+8. Ley No. 985 Ley para una Cultura de Diálogo, Reconciliación, Seguridad, Trabajo y Paz, tiene por objeto garantizar el derecho de todas y todos los nicaragüenses de contar con los alimentos suficientes, inocuos y nutritivos acordes a sus necesidades vitales; que estos sean accesibles física, económica, social y culturalmente de forma oportuna y permanente asegurando la disponibilidad, estabilidad y suficiencia de los mismos a través del desarrollo y rectoría por parte del Estado, de políticas públicas vinculadas a la soberanía y seguridad alimentaria y nutricional, para su implementación.
 
-- Ley  No.  985  Ley  para  una  Cultura  de  Diálogo,  Reconciliación,  Seguridad, Trabajo y Paz, que garantiza una Cultura de Diálogo, Reconciliación, Seguridad, Trabajo  y  Paz  y  regula  la  Política  de  Estado  para  una  Cultura  de  Diálogo, Reconciliación, Seguridad, Trabajo y Paz de aplicación en todas las instituciones y sectores del país.
+9. Ley No. 985 Ley para una Cultura de Diálogo, Reconciliación, Seguridad, Trabajo y Paz, que garantiza una Cultura de Diálogo, Reconciliación, Seguridad, Trabajo y Paz y regula la Política de Estado para una Cultura de Diálogo, Reconciliación, Seguridad, Trabajo y Paz de aplicación en todas las instituciones y sectores del país.
 
-- A1b.  Por favor proporcione los nombres completos de las leyes, legislación o marcos jurídicos a que se hace referencia en el apartado A1a y, de ser posible, los enlaces de Internet a los documentos pertinentes.
+A1b. Por favor proporcione los nombres completos de las leyes, legislación o marcos jurídicos a que se hace referencia en el apartado A1a y, de ser posible, los enlaces de Internet a los documentos pertinentes.
 
-- Constitución  Política  de  la  República  de  Nicaragua,  texto  con  sus  reformas incorporadas publicado en La Gaceta, Diario Oficial, No. 32 del 18 de febrero de 2014.
+1. Constitución Política de la República de Nicaragua, texto con sus reformas incorporadas publicado en La Gaceta, Diario Oficial, No. 32 del 18 de febrero de 2014.
 
-- Ley No. 582 Ley General de Educación, publicada en La Gaceta, Diario Oficial No. 150 del 03 de Agosto del 2006.
+2. Ley No. 582 Ley General de Educación, publicada en La Gaceta, Diario Oficial No. 150 del 03 de Agosto del 2006.
 
-- Ley  No.    648  Ley  de  Igualdad  de  Derechos  y  Oportunidades,  publicada  en  La Gaceta, Diario Oficial No. 51 de 12 de Marzo de 2008.
+3. Ley No. 648 Ley de Igualdad de Derechos y Oportunidades, publicada en La Gaceta, Diario Oficial No. 51 de 12 de Marzo de 2008.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- Decreto  Ley  No.  571.  Ley  sobre  Educación  en  Lenguas  en  la  Costa  Atlántica, publicado en La Gaceta, Diario Oficial No.  279 de 3 de diciembre de 1980.
+4. Decreto Ley No. 571. Ley sobre Educación en Lenguas en la Costa Atlántica, publicado en La Gaceta, Diario Oficial No. 279 de 3 de diciembre de 1980.
 
-- Ley No. 162 Ley de Uso Oficial de las Lenguas de las Comunidades de la Costa Atlántica de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 132 de 15 de Julio de 1996.
+5. Ley No. 162 Ley de Uso Oficial de las Lenguas de las Comunidades de la Costa Atlántica de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 132 de 15 de Julio de 1996.
 
-- Ley No. 201. Ley de Promoción de los Derechos Humanos y de la Enseñanza de la Constitución  Política,  publicada  en  La  Gaceta,  Diario  Oficial  N°.  179  del  26  de Septiembre de 1995.
+6. Ley No. 201. Ley de Promoción de los Derechos Humanos y de la Enseñanza de la Constitución Política, publicada en La Gaceta, Diario Oficial N°. 179 del 26 de Septiembre de 1995.
 
-- Ley  No. 342. Ley Creadora de la Asignatura del Medio Ambiente y los Recursos Naturales, publicada en La Gaceta No. 102 del 31 de Mayo del 2000.
+7. Ley No. 342. Ley Creadora de la Asignatura del Medio Ambiente y los Recursos Naturales, publicada en La Gaceta No. 102 del 31 de Mayo del 2000.
 
-- Ley No. 693. Ley De Soberanía Y Seguridad Alimentaria Y Nutricional, publicada en La Gaceta, Diario Oficial N°. 133 del 16 de Julio del 2009.
+8. Ley No. 693. Ley De Soberanía Y Seguridad Alimentaria Y Nutricional, publicada en La Gaceta, Diario Oficial N°. 133 del 16 de Julio del 2009.
 
-- Ley No. 985 Ley para una Cultura de Diálogo, Reconciliación, Seguridad, Trabajo y Paz, publicada en La Gaceta, Diario Oficial N°. 17 del 28 de Enero de 2019.
+9. Ley No. 985 Ley para una Cultura de Diálogo, Reconciliación, Seguridad, Trabajo y Paz, publicada en La Gaceta, Diario Oficial N°. 17 del 28 de Enero de 2019.
 
 *A2.  Por favor indique qué temas de la ECM y la EDS están contemplados en las leyes, legislación  o  marcos  jurídicos  nacionales  o  subnacionales  relativos  a  la  educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica (por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
 
-Nacional | Subnacional
---- | --- | --- | --- | --- | --- | --- | ---
-Preescolar | Primaria/ secundaria | Terciaria | No formal | Preescolar | Primaria/ secundaria | Terciaria | No formal
-1. | Diversidad cultural y tolerancia | 1 | 1
-2. | Igualdad de género | 1 | 1
-3. | Derechos humanos | 1 | 1
-4. | Paz y no violencia | 1 | 1
-5. | Cambio climático | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1
+| | Nacional | | | | Subnacional | | | |
+|---|---|---|---|---|---|---|---|---|
+| | Preescolar | Primaria/secundaria | Terciaria | No formal | Preescolar | Primaria/secundaria | Terciaria | No formal |
+| 1. Diversidad cultural y tolerancia | 1 | 1 | | | | | | |
+| 2. Igualdad de género | 1 | 1 | | | | | | |
+| 3. Derechos humanos | 1 | 1 | | | | | | |
+| 4. Paz y no violencia | 1 | 1 | | | | | | |
+| 5. Cambio climático | 1 | 1 | | | | | | |
+| 6. Sostenibilidad ambiental | 1 | 1 | | | | | |
+| 7. Supervivencia y bienestar humanos | 1 | 1 | | | | | | |
+| 8. Consumo y producción sostenibles | 1 | 1 | | | | | | |
 
 [[END OF PAGE 12]]
 
@@ -317,16 +319,16 @@ Plan de Educación 2017-2021, Ministerio de Educación. Acuerdo ministerial No. 
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1
-2. | Igualdad de género | 1 | 1
-3. | Derechos humanos | 1 | 1
-4. | Paz y no violencia | 1 | 1
-5. | Cambio climático | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| 1. Diversidad cultural y tolerancia | 1 | 1 | | |
+| 2. Igualdad de género | 1 | 1 | | |
+| 3. Derechos humanos | 1 | 1 | | |
+| 4. Paz y no violencia | 1 | 1 | | |
+| 5. Cambio climático | 1 | 1 | | |
+| 6. Sostenibilidad ambiental | 1 | 1 | | |
+| 7. Supervivencia y bienestar humanos | 1 | 1 | | |
+| 8. Consumo y producción sostenibles | 1 | 1 | | |
 
 > 3 Véase el esquema que figura en el párrafo 11 de la sección II de estas orientaciones.
 
@@ -338,28 +340,28 @@ Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica ( por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Nacional
-Elaboración o revisión de los planes de estudios | 1 | 1 | 1
-Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1
-Elaboración de libros de texto | 1 | 1 | 1
-Educación y formación docente | 1 | 1 | 1
-Evaluación de los resultados del aprendizaje de las ylos estudiantes | 1 | 1 | 1
-Subnacional
-Elaboración o revisión de los planes de estudios | 1 | 1 | 1
-Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1
-Elaboración de libros de texto | 1 | 1 | 1
-Educación y formación docente | 1 | 1 | 1
-Evaluación de los resultados del aprendizaje delas y los estudiantes | 1 | 1 | 1
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| Nacional | | | | |
+| Elaboración o revisión de los planes de estudios | 1 | 1 | 1 | |
+| Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1 | |
+| Elaboración de libros de texto | 1 | 1 | 1 | |
+| Educación y formación docente | 1 | 1 | 1 | |
+| Evaluación de los resultados del aprendizaje de las ylos estudiantes | 1 | 1 | 1 | |
+| Subnacional | | | | |
+| Elaboración o revisión de los planes de estudios | 1 | 1 | 1 | |
+| Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1 | |
+| Elaboración de libros de texto | 1 | 1 | 1 | |
+| Educación y formación docente | 1 | 1 | 1 | |
+| Evaluación de los resultados del aprendizaje delas y los estudiantes | 1 | 1 | 1 | |
 
-### Plan de estudios (párrafos 4 y 10 a 19 de la Recomendación de 1974)
+### B. Plan de estudios (párrafos 4 y 10 a 19 de la Recomendación de 1974)
 
 - B1a.  Por  favor  describa  de  qué  manera  se  transversalizan  en  los  planes  de  estudios escolares la ECM y la EDS. Indique si se enseñan como asignaturas independientes o se integran en los planes de estudios de otras asignaturas. Explique si los temas de la ECM y la EDS 4  se mencionan de manera explícita o implícita y qué tipos o niveles de educación abarcan.
 
 El enfoque curricular de los planes y programas educativos, se centran en el ser humano con  énfasis  en  el  aprendizaje  con  formación  integral,  en  el  que  se  promueve  que  el estudiante sea artífice y gestor de sus aprendizajes, y que sean capaces de desarrollar pensamientos críticos, reflexivos, comunicativos, que contribuyan a su formación integral y al alcance de sus metas. Los docentes cumplen el rol de mediador de estos procesos para que los aprendizajes sean útiles, auténticos y duraderos.
 
-La Educación para la Ciudadanía y Educación de Desarrollo Sostenible, se integra como eje  transversal,  cuyo  énfasis  desde  la  escuela,  es  desarrollar  en  las  y  los  estudiantes, actitudes y comportamientos basados en valores mediante las diferentes asignaturas, que se derivan del conocimiento, la comprensión, la elaboración de juicios críticos y de valor sobre los problemas y las realidades que el estudiantado experimenta en su vida cotidiana, además es un tema esencial en la asignatura de  Creciendo en Valores cuya intención es fortalecer  la  autoestima,  el  amor  y  el  respeto  a  la  familia,  la  práctica  de  valores  en  la formación  ciudadana,  en  un  ambiente  de  paz,  este  se  desarrolla  en  todos  los  niveles educativos:
+La Educación para la Ciudadanía y Educación de Desarrollo Sostenible, se integra como eje transversal, cuyo énfasis desde la escuela, es desarrollar en las y los estudiantes, actitudes y comportamientos basados en valores mediante las diferentes asignaturas, que se derivan del conocimiento, la comprensión, la elaboración de juicios críticos y de valor sobre los problemas y las realidades que el estudiantado experimenta en su vida cotidiana,
 
 > 4 Véase el esquema que figura en el párrafo 11 de la sección II de estas orientaciones
 
@@ -367,7 +369,9 @@ La Educación para la Ciudadanía y Educación de Desarrollo Sostenible, se inte
 
 [[START OF PAGE 15]]
 
-En  Educación  inicial,  el  programa  es  integral,  comprende  lectoescritura,  matemáticas, ciencias naturales, geografía, formación en valores, comprensión del mundo, entre otros, no está segmentado por asignaturas, se llevan a la práctica mediante actividades lúdicas como acción rectora,  el  juego  y  estrategias  didácticas  que  generen  esas  competencias potenciando sus dimensiones de desarrollo.
+además es un tema esencial en la asignatura de Creciendo en Valores cuya intención es fortalecer la autoestima, el amor y el respeto a la familia, la práctica de valores en la formación ciudadana, en un ambiente de paz, este se desarrolla en todos los niveles educativos:
+
+En Educación inicial, el programa es integral, comprende lectoescritura, matemáticas, ciencias naturales, geografía, formación en valores, comprensión del mundo, entre otros, no está segmentado por asignaturas, se llevan a la práctica mediante actividades lúdicas como acción rectora, el juego y estrategias didácticas que generen esas competencias potenciando sus dimensiones de desarrollo.
 
 En  Educación  Primaria  se  desarrolla  a  través  de  ejes  transversales  presentes  en  la Currícula, constituidos por componentes y competencias. Los ejes transversales de nuestro currículo relacionados a la ECM y EDS están nombrados así: convivencia y ciudadanía, educación para la equidad de género y la diversidad, la convivencia con respeto e igualdad desde  la  escuela  familia  y  comunidad,  cultura  ambiental  y  cultura  emprendedora.  Los contenidos en algunas asignaturas dan alcance directo a los ECM y EDC, se evidencian a través de estrategias y actividades creadas por los docentes a partir de su programación y acción didáctica en el aula de clase para fortalecer la formación integral de estudiantes, vinculando estos temas con el cotidiano y con las competencias de nivel, área y grado escolar, de tal forma que sean interiorizados a partir de situaciones concretas.
 
@@ -407,9 +411,9 @@ Propone alternativas de mejora en su localidad, identificando los polos de desig
 
 ###### RESULTADOS DE APRENDIZAJE
 
-- Realiza diagnóstico para reconocer fortalezas, oportunidades, debilidades y amenazas del entorno comunitario, identificando los polos de desigualdad y crecimiento económico local, con miras a incrementar el bienestar social, la calidad de vida y el desarrollo humano sostenible, con énfasis en la juventud y la mujer.
+1. Realiza diagnóstico para reconocer fortalezas, oportunidades, debilidades y amenazas del entorno comunitario, identificando los polos de desigualdad y crecimiento económico local, con miras a incrementar el bienestar social, la calidad de vida y el desarrollo humano sostenible, con énfasis en la juventud y la mujer.
 
-- Elabora un plan de acción de su localidad proponiendo mejoras de igualdad social y crecimiento económico para el desarrollo humano sostenible en su localidad, promoviendo la inclusión ciudadana y la participación de la juventud y de las mujeres.
+2. Elabora un plan de acción de su localidad proponiendo mejoras de igualdad social y crecimiento económico para el desarrollo humano sostenible en su localidad, promoviendo la inclusión ciudadana y la participación de la juventud y de las mujeres.
 
 ##### CICLO III (SECUNDARIA DE JOVENES Y ADULTOS)
 
@@ -426,11 +430,11 @@ Explica  las  formas  de  organización  social  y  política  a  nivel internac
 
 ###### RESULTADOS DE APRENDIZAJE
 
-- Analiza las características del sistema de deberes y derechos a través de las principales etapas históricas mundiales para incrementar la conciencia ciudadana a nivel internacional.
+1. Analiza las características del sistema de deberes y derechos a través de las principales etapas históricas mundiales para incrementar la conciencia ciudadana a nivel internacional.
 
-- Identifica ventajas y desventajas de los distintos modelos sociales y políticos del mundo para contrastarlo con la realidad nicaragüense.
+2. Identifica ventajas y desventajas de los distintos modelos sociales y políticos del mundo para contrastarlo con la realidad nicaragüense.
 
-- Propone alternativas de mejoramiento de la ciudadanía mundial con énfasis en la equidad de género, la participación ciudadana, la restitución de derechos y la toma de decisiones.
+3. Propone alternativas de mejoramiento de la ciudadanía mundial con énfasis en la equidad de género, la participación ciudadana, la restitución de derechos y la toma de decisiones.
 
 *B2.  Por favor indique qué temas de la ECM y la EDS se enseñan como parte del plan de estudios en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
@@ -438,70 +442,69 @@ CLAVE:
 
 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1
-2. | Igualdad de género | 1 | 1
-3. | Derechos humanos | 1 | 1
-4. | Paz y no violencia | 1 | 1
-5. | Cambio climático | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| 1. Diversidad cultural y tolerancia | 1 | 1 | | |
+| 2. Igualdad de género | 1 | 1 | | |
+| 3. Derechos humanos | 1 | 1 | | |
+| 4. Paz y no violencia | 1 | 1 | | |
+| 5. Cambio climático | 1 | 1 | | |
+| 6. Sostenibilidad ambiental | 1 | 1 | | |
+| 7. Supervivencia y bienestar humanos | 1 | 1 | | |
+| 8. Consumo y producción sostenibles | 1 | 1 | | |
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-*B3.  Por favor indique en qué asignaturas o campos de estudio se imparten la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
-
-*B4.  Por favor indique los enfoques utilizados para la enseñanza de la ECM y laEDS en la enseñanza primaria y secundaria,  introduciendo  el  número  correspondiente  en  cada casilla blanca.
+*B3. Por favor indique en qué asignaturas o campos de estudio se imparten la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Diversidad cultural y tolerancia | Igualdad de género | Derechos humanos | Paz y no violencia | Cambio climático | Sostenibilidad ambiental | Supervivencia y bienestar humanos | Consumo y producción sostenibles
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Artes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Educación cívica, civil o para la ciudadanía | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Ética/estudios de moral
-Geografía | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Salud, educación física y deportes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Historia | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Idiomas
-Matemáticas | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Educación religiosa
-Ciencia | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Estudios sociales | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Estudios integrados
-Otros (indique cuáles)
-Área de Formación para el Trabajo (Orientación al trabajo y la Productivida | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+| | Diversidad cultural y tolerancia | Igualdad de género | Derechos humanos | Paz y no violencia | Cambio climático | Sostenibilidad ambiental | Supervivencia y bienestar humanos | Consumo y producción sostenibles |
+|---|---|---|---|---|---|---|---|---|
+| Artes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Educación cívica, civil o para la ciudadanía | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Ética/estudios de moral | | | | | | | | |
+| Geografía | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Salud, educación física y deportes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Historia | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Idiomas | | | | | | | | |
+| Matemáticas | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Educación religiosa | | | | | | | | |
+| Ciencia | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Estudios sociales | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Estudios integrados | | | | | | | | |
+| Otros (indique cuáles) | | | | | | | | |
+| Área de Formación para el Trabajo (Orientación al trabajo y la Productividad) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+*B4. Por favor indique los enfoques utilizados para la enseñanza de la ECM y laEDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Educación para la ciudadanía mundial y educación para el desarrollo sostenible
---- | ---
-La ECM y la EDS se enseñan como asignaturas separadas | 0
-Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 0
-Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 1
-Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de | 1
+| | Educación para la ciudadanía mundial y educación para el desarrollo sostenible |
+|---|---|
+| La ECM y la EDS se enseñan como asignaturas separadas | 0 |
+| Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 0 |
+| Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 1 |
+| Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de | 1 |
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-- B5. Por favor indique qué temas de la educación en derechos humanos se enseñan como parte  del  plan  de  estudios  en  cada  nivel  de  educación,  introduciendo  el  número correspondiente en cada casilla blanca.
+aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela)
 
-aprendizaje de la escuela, así como en las experiencias de comunidad y la vida fuera de la escuela) | aprendizaje en la
---- | ---
+B5. Por favor indique qué temas de la educación en derechos humanos se enseñan como parte del plan de estudios en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-3. | Educación en derechos humanos | 1 | 1
-3.1 | Igualdad y no discriminación por motivos de raza, color, idioma, religión, discapacidad, opinión política o de otra índole, origen nacional o social, nacimiento o cualquier otra condición | 1 | 1
-3.2 | Valores de derechos humanos, dignidad humana, justicia, inclusión y participación | 1 | 1
-3.3 | Respeto de los derechos humanos y las libertades fundamentales (definidos en las convenciones y declaraciones internacionales) | 1 | 1
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| 3. Educación en derechos humanos | 1 | 1 | | |
+| 3.1 Igualdad y no discriminación por motivos de raza, color, idioma, religión, discapacidad, opinión política o de otra índole, origen nacional o social, nacimiento o cualquier otra condición | 1 | 1 | | |
+| 3.2 Valores de derechos humanos, dignidad humana, justicia, inclusión y participación | 1 | 1 | | |
+| 3.3 Respeto de los derechos humanos y las libertades fundamentales (definidos en las convenciones y declaraciones internacionales) | 1 | 1 | | |
 
 ### Formación docente (incluida la formación de formadores y educadores) (párrafos 4 y 33 a 37 de la Recomendación de 1974)
 
@@ -523,55 +526,55 @@ En los planes y programas de la formación inicial docente y formación continua
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-Formación inicial o previa al ejercicio de la docencia | 1 | 1 | 1 | 1
-Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 1 | 1 | 1 | 1
-Para docentes de otras asignaturas | 1 | 1 | 1 | 1
-Desarrollo profesional continuo
-Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 1 | 1 | 1 | 1
-Para docentes de otras asignaturas | 0 | 0 | 0 | 0
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| Formación inicial o previa al ejercicio de la docencia | 1 | 1 | 1 | 1 |
+| Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 1 | 1 | 1 | 1 |
+| Para docentes de otras asignaturas | 1 | 1 | 1 | 1 |
+| Desarrollo profesional continuo | | | | |
+| Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 1 | 1 | 1 | 1 |
+| Para docentes de otras asignaturas | 0 | 0 | 0 | 0 |
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-*C3.  Por  favor  indique  sobre  qué  temas  de  la  ECM  y  la  EDS  existe  formación  inicial  o formación  continua  dirigida  a  docentes,  formadores  y  educadores  en  cada  nivel  de educación, introduciendo el número correspondiente en cada casilla blanca.
-
-*C4.  Por favor indique si las y los docentes, formadores y educadores reciben formación para enseñar las siguientes dimensiones del aprendizaje de la ECM y la EDS. Introduzca el número apropiado en cada casilla blanca.
-
-*C5.  Por  favor  indique  si  los  docentes,  formadores  y  educadores  reciben  formación  para utilizar los siguientes enfoques para la enseñanza de la ECM y la EDS en los niveles primario y secundario, introduciendo el número correspondiente en cada casilla blanca.
+*C3. Por favor indique sobre qué temas de la ECM y la EDS existe formación inicial o formación continua dirigida a docentes, formadores y educadores en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1 | 1 | 1
-2. | Igualdad de género | 1 | 1 | 1 | 1
-3. | Derechos humanos | 1 | 1 | 1 | 1
-4. | Paz y no violencia | 1 | 1 | 1 | 1
-5. | Cambio climático | 1 | 1 | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1 | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1 | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1 | 1 | 1
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| 1. Diversidad cultural y tolerancia | 1 | 1 | 1 | 1 |
+| 2. Igualdad de género | 1 | 1 | 1 | 1 |
+| 3. Derechos humanos | 1 | 1 | 1 | 1 |
+| 4. Paz y no violencia | 1 | 1 | 1 | 1 |
+| 5. Cambio climático | 1 | 1 | 1 | 1 |
+| 6. Sostenibilidad ambiental | 1 | 1 | 1 | 1 |
+| 7. Supervivencia y bienestar humanos | 1 | 1 | 1 | 1 |
+| 8. Consumo y producción sostenibles | 1 | 1 | 1 | 1 |
+
+*C4. Por favor indique si las y los docentes, formadores y educadores reciben formación para enseñar las siguientes dimensiones del aprendizaje de la ECM y la EDS. Introduzca el número apropiado en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-Conocimientos | 1 | 1 | 1 | 1
-Habilidades | 1 | 1 | 1 | 1
-Valores | 1 | 1 | 1 | 1
-Actitudes y comportamientos | 1 | 1 | 1 | 1
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| Conocimientos | 1 | 1 | 1 | 1 |
+| Habilidades | 1 | 1 | 1 | 1 |
+| Valores | 1 | 1 | 1 | 1 |
+| Actitudes y comportamientos | 1 | 1 | 1 | 1 |
+
+*C5. Por favor indique si los docentes, formadores y educadores reciben formación para utilizar los siguientes enfoques para la enseñanza de la ECM y la EDS en los niveles primario y secundario, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Educación para la ciudadanía mundial y educación para el desarrollo sostenible
---- | ---
-La ECM y la EDS se enseñan como asignaturas separadas | 0
-Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 1
-Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 1
-Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela) | 1
+| | Educación para la ciudadanía mundial y educación para el desarrollo sostenible |
+|---|---|
+| La ECM y la EDS se enseñan como asignaturas separadas | 0 |
+| Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 1 |
+| Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 1 |
+| Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela) | 1 |
 
 [[END OF PAGE 21]]
 
@@ -595,37 +598,37 @@ La Evaluación de los aprendizajes de los protagonistas de Educación de Jóvene
 
 [[START OF PAGE 23]]
 
-*D2.  Por favor indique si los temas de la ECM y la EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
-
-*D3.  Por favor indique qué dimensiones del aprendizaje de la ECM y EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
+*D2. Por favor indique si los temas de la ECM y la EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1
-2. | Igualdad de género | 1 | 1
-3. | Derechos humanos | 1 | 1
-4. | Paz y no violencia | 1 | 1
-5. | Cambio climático | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| 1. Diversidad cultural y tolerancia | 1 | 1 | | |
+| 2. Igualdad de género | 1 | 1 | | |
+| 3. Derechos humanos | 1 | 1 | | |
+| 4. Paz y no violencia | 1 | 1 | | |
+| 5. Cambio climático | 1 | 1 | | |
+| 6. Sostenibilidad ambiental | 1 | 1 | | |
+| 7. Supervivencia y bienestar humanos | 1 | 1 | | |
+| 8. Consumo y producción sostenibles | 1 | 1 | | |
+
+*D3. Por favor indique qué dimensiones del aprendizaje de la ECM y EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Conocimientos | 1 | 1
-Habilidades | 1 | 1
-Valores | 1 | 1
-Actitudes y comportamientos | 1 | 1
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| Conocimientos | 1 | 1 | | |
+| Habilidades | 1 | 1 | | |
+| Valores | 1 | 1 | | |
+| Actitudes y comportamientos | 1 | 1 | | |
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-### Transversalizaciónde la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
+### E. Transversalizaciónde la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
 
 *E1.  Sobre la base de sus respuestas a las preguntas de las cuatro secciones anteriores (leyes y políticas, planes de estudios, formación de docentes y evaluación de las y los estudiantes), indique por favor en qué medida la ECM y la EDS setransversalizan 5  en: a) las leyes y políticas de educación, b) los planes de estudios, c) la formación docente (incluida  la  formación  de  formadores  y  educadores)  y  d)  la  evaluación  de  las  y  los estudiantes en su país. Introduzca el número apropiado en cada casilla blanca.
 
@@ -653,18 +656,18 @@ El nivel de gobierno que se indica no se encarga del componente en cuestión
 
 (políticas, planes de estudios, formación docente o evaluación de los educandos) o no se encarga del nivel o el tipo de educación en cuestión. Esto puede ocurrir a nivel nacional en los países federales donde la educación es competencia de los diferentes estados o a nivel subnacional en los países pequeños donde hay un solo nivel de gobierno.
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Nacional
-a) | Leyes y políticas educativas | 2 | 2
-b) | Planes de estudios | 2 | 2
-c) | Formación docente | 2 | 2
-d) | Evaluación de las y los estudiantes | 2 | 2
-Subnacional
-a) | Leyes y políticas educativas | 2 | 2
-b) | Planes de estudios | 2 | 2
-c) | Formación docente | 2 | 2
-d) | Evaluación de educandos | 2 | 2
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| Nacional | | | | |
+| a) Leyes y políticas educativas | 2 | 2 | | |
+| b) Planes de estudios | 2 | 2 | | |
+| c) Formación docente | 2 | 2 | | |
+| d) Evaluación de las y los estudiantes | 2 | 2 | | |
+| Subnacional | | | | |
+| a) Leyes y políticas educativas | 2 | 2 | | |
+| b) Planes de estudios | 2 | 2 | | |
+| c) Formación docente | 2 | 2 | | |
+| d) Evaluación de educandos | 2 | 2 | | |
 
 > 5 Se  considera  que  la  ECM  y  la  EDS  están  transversalizadas  si  sus  temas  se  mencionan  de manera explícita en los documentos pertinentes y se espera que sean implementadas por las autoridades competentes (por ejemplo, ministerios, autoridades educativas regionales o locales), las instituciones educativas (por ejemplo, escuelas, institutos de formación y universidades) o los profesionales de la educación (por ejemplo, docentes, conferencistas, formadores y educadores), según proceda.
 
@@ -674,13 +677,13 @@ d) | Evaluación de educandos | 2 | 2
 
 [[START OF PAGE 25]]
 
-### Enseñanza y formación técnica y profesional (párrafos 25 a 29 de la Recomendación de 1974)
+### F. Enseñanza y formación técnica y profesional (párrafos 25 a 29 de la Recomendación de 1974)
 
-- F1. Por favor describa las principales iniciativas que se hayan emprendido para promover la ECM y la EDS en la enseñanza y formación técnica y profesional. Describa brevemente los  resultados  y  el  impacto  de  esas  iniciativas  y  proporcione  ejemplos  de  buenas prácticas.
+- F1. Por favor describa las principales iniciativas que se hayan emprendido para promover la ECM y la EDS en la enseñanza y formación técnica y profesional. Describa brevemente los resultados y el impacto de esas iniciativas y proporcione ejemplos de buenas prácticas.
 
-### Educación de adultos (párrafo 30 de la Recomendación de 1974)
+### G. Educación de adultos (párrafo 30 de la Recomendación de 1974)
 
-- G1. Por favor describa las principales iniciativas que se hayan emprendido para promover la ECM y la EDS en la educación para adultos y en otras formas de educación no formal, como la educación de los jóvenes, la enseñanza extraescolar, etc. Describa brevemente los  resultados  y  el  impacto  de  esas  iniciativas  y  proporcione  ejemplos  de  buenas prácticas.
+- G1. Por favor describa las principales iniciativas que se hayan emprendido para promover la ECM y la EDS en la educación para adultos y en otras formas de educación no formal, como la educación de los jóvenes, la enseñanza extraescolar, etc. Describa brevemente los resultados y el impacto de esas iniciativas y proporcione ejemplos de buenas prácticas.
 
 En el Currículum de la Educación para Jóvenes y Adultos, la naturaleza de cada área ha sido planteada con la finalidad de orientar su tratamiento hacia el desarrollo de la ciudadanía y su proyección hacia los sectores productivos, para brindar una educación integral a las y los nicaragüenses.
 
@@ -730,14 +733,14 @@ CLAVE:
 
 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Organización de reuniones internacionales sobre la ECM y la EDS | 1 | 1
-Participación en reuniones internacionales en el extranjero sobre la ECM y la EDS | 1 | 1
-Apoyo a los programas que acogen a estudiantes, investigadores o docentes extranjeros | 0 | 0
-Composición de las redes internacionales, como la redPEA | 0 | 0
-Proyectos conjuntos de investigación sobre la ECM y la EDS con instituciones extranjeras | 1 | 1
-Otras actividades (especifique cuáles): | 9 | 9
+|  | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+| --- | --- | --- | --- | --- |
+| Organización de reuniones internacionales sobre la ECM y la EDS | 1 | 1 |  |  |
+| Participación en reuniones internacionales en el extranjero sobre la ECM y la EDS | 1 | 1 |  |  |
+| Apoyo a los programas que acogen a estudiantes, investigadores o docentes extranjeros | 0 | 0 |  |  |
+| Composición de las redes internacionales, como la redPEA | 0 | 0 |  |  |
+| Proyectos conjuntos de investigación sobre la ECM y la EDS con instituciones extranjeras | 1 | 1 |  |  |
+| Otras actividades (especifique cuáles): | 9 | 9 |  |  |
 
 ### I. Cualquier otra observación
 
