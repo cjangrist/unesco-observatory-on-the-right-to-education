@@ -8,19 +8,15 @@ Nom du pays : République Démocratique du Congo
 
 Organisation(s) ou entité(s) chargée(s) de l'établissement du rapport : Commission Nationale pour l'UNESCO
 
-# RENSEIGNEMENTS SUR LES MESURES LÉGISLATIVES, JUDICIAIRES, ADMINISTRATIVES OU AUTRES PRISES PAR L'ÉTAT AU NIVEAU NATIONAL
+# I. RENSEIGNEMENTS SUR LES MESURES LÉGISLATIVES, JUDICIAIRES, ADMINISTRATIVES OU AUTRES PRISES PAR L'ÉTAT AU NIVEAU NATIONAL
 
-## Ratification de la Convention 2
+## 1. Ratification de la Convention 2
 
 Votre pays est-il un État partie à la Convention ?
 
 ❏ Oui
 
-❏ x
-
-Non :
-
-votre pays prévoit-il de ratifier cet instrument ?
+❏ Non : votre pays prévoit-il de ratifier cet instrument ? x
 
 ❏ Oui : veuillez indiquer à quel stade du processus de ratification se trouve votre pays : x
 
@@ -46,7 +42,7 @@ Nous rencontrons des difficultés d'ordre politique par rapport à l'indisponibi
 
 > 2   http://portal.unesco.org/fr/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.html.
 
-## Ratification du Protocole 1 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
+## 2. Ratification du Protocole 1 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
 
 > 1 http://portal.unesco.org/fr/ev.php-
 
@@ -62,15 +58,11 @@ Votre pays a-t-il ratifié le Protocole ?
 
 ❏ Oui
 
-❏
-
-Non :
-
-veuillez exposer succinctement les difficultés rencontrées :
+❏ Non : veuillez exposer succinctement les difficultés rencontrées : x
 
 LES DIFFICULTES D'ORDRE POLITIQUE DUES AU CHANGEMENT DE GOUVERNEMENT DE LA REPUBLIQUE.
 
-## Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
+## 3. Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
 
 Si votre pays est un État partie à la Convention :
 
@@ -104,8 +96,6 @@ Les principaux textes juridiques qui déterminent les dispositions de la Convent
 
 - Article 33 : La lutte contre la discrimination et les inégalités en matière d'éducation scolaire vise à ouvrir l'accès à l'éducation aux groupes vulnérables et défavorisés. Il
 
-x
-
 2
 
 [[END OF PAGE 2]]
@@ -130,9 +120,9 @@ Si votre pays n'est pas un État partie à la Convention :
 
 - Des mesures législatives ont-elles été prises en application de la Recommandation ?
 
-❏➤ Non
-
 ❏➤ Oui x
+
+❏➤ Non
 
 Dans l'affirmative, le rapport pourrait énumérer les principaux textes qui ont été adoptés pour garantir le droit de tous à l'éducation et pour offrir des chances égales en matière d'enseignement, éventuellement assortis de leurs références, dates et objectifs.
 
@@ -168,23 +158,13 @@ articles :
 
 # II. RENSEIGNEMENTS CONCERNANT L'APPLICATION DE LA CONVENTION OU DE LA RECOMMANDATION
 
-## Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD 4)
+## 1. Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD 4)
 
 Les articles / paragraphes 1(1), 2 et 3 de la Convention / Recommandation prévoient la non-discrimination et l'égalité des chances en matière d'éducation. Cette partie porte sur l'objet principal de la Convention/Recommandation, c'est-à-dire souligner l'obligation qui incombe aux États de proscrire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances en matière d'éducation.
 
 Cette obligation correspond à l'ambition globale énoncée dans l'ODD 4, à savoir « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités d'apprentissage tout au long de la vie » d'ici à 2030. Elle couvre donc l'ensemble des cibles de l'ODD 4, mais aussi, plus particulièrement, la cible 4.5. 2
 
 ### 1.1    Veuillez  indiquer  les  mesures  adoptées  par  votre  Gouvernement  pour  éliminer  et  prévenir  la discrimination dans le domaine de l'enseignement au sens de la Convention/Recommandation (veuillez  cocher  toutes  les  cases  pertinentes) 3 (il  est  possible  de  cocher/mentionner  plusieurs catégories de mesures) :
-
--Loi-cadre n° 14/004 du 14 février 2014 de l'enseignement national, article 33 qui stipule que :
-
-- Article 33 : La lutte contre la discrimination et les inégalités en matière d'éducation scolaire vise à ouvrir l'accès à l'éducation aux groupes vulnérables et défavorisés. Il s'agit notamment des filles et femmes, orphelins, déplacés, pygmées, enfants dont l'âge est supérieur à la norme fixée par la règlementation scolaire, indigents, personnes vivant avec handicaps.
-
-- Veuillez décrire brièvement les textes juridiques, réglementaires ou politiques pertinents qui contiennent des mesures concernant :
-
-➤➤ La  non-discrimination  en  ce  qui  concerne  l'admission  des  élèves  dans  les  établissements d'enseignement
-
-➤➤ L'égalité de traitement, notamment pour les ressortissants étrangers résidant dans votre pays
 
 ❏ Dispositions  inscrites  dans  la  constitution  et/ou  lois  interdisant  la discrimination dans le domaine de l'enseignement x
 
@@ -197,6 +177,16 @@ Cette obligation correspond à l'ambition globale énoncée dans l'ODD 4, à sav
 ❏ Lutte contre la discrimination dans les programmes d'enseignement x
 
 ❏ Autres :
+
+-Loi-cadre n° 14/004 du 14 février 2014 de l'enseignement national, article 33 qui stipule que :
+
+- Article 33 : La lutte contre la discrimination et les inégalités en matière d'éducation scolaire vise à ouvrir l'accès à l'éducation aux groupes vulnérables et défavorisés. Il s'agit notamment des filles et femmes, orphelins, déplacés, pygmées, enfants dont l'âge est supérieur à la norme fixée par la règlementation scolaire, indigents, personnes vivant avec handicaps.
+
+- Veuillez décrire brièvement les textes juridiques, réglementaires ou politiques pertinents qui contiennent des mesures concernant :
+
+➤➤ La  non-discrimination  en  ce  qui  concerne  l'admission  des  élèves  dans  les  établissements d'enseignement
+
+➤➤ L'égalité de traitement, notamment pour les ressortissants étrangers résidant dans votre pays
 
 > 2 Qui appelle les États à « éliminer les inégalités entre les sexes dans le domaine de l'éducation et assurer l'égalité d'accès des personnes vulnérables, y compris les personnes handicapées, les autochtones et les enfants en situation vulnérable, à tous les niveaux d'enseignement et de formation professionnelle.
 
@@ -236,7 +226,9 @@ Les textes juridiques concernant la non discrimination et l'égalité de traitem
 
 ❏ Règlements assurant l'égalité d'accès à tous les degrés et types d'enseignement x
 
-❏ Politiques et programmes assurant l'égalité d'accès à tous les degrés et types d'enseignement ❏ Autres : x
+❏ Politiques et programmes assurant l'égalité d'accès à tous les degrés et types d'enseignement x
+
+❏ Autres :
 
 5
 
@@ -266,7 +258,7 @@ Ces mesures répondent notamment à la cible 4.1 et, pour partie, à la cible 4.
 
 ❏ Programmes de rescolarisation des jeunes mères x
 
-❏ Élimination de tous les obstacles empêchant l 'accès à l'enseignement des filles enceintes et des jeunes mères x
+❏ Élimination de tous les obstacles empêchant l'accès à l'enseignement des filles enceintes et des jeunes mères x
 
 ❏ Recrutement d'auxiliaires
 
@@ -290,7 +282,7 @@ Ces mesures répondent notamment à la cible 4.1 et, pour partie, à la cible 4.
 
 > 4 Qui  appelle  les  États  à  «  augmenter  nettement  à  l'échelle  mondiale  le  nombre  de  bourses d'études  offertes  […]  pour  financer  le  suivi  d'études  supérieures,  y  compris  la  formation professionnelle, les cursus informatiques, techniques et scientifiques et les études d'ingénieur ».
 
-> 5 Parmi  les  obstacles  administratifs  à  l'accès  à  l'enseignement  figurent,  notamment,  la  nonpossession des documents d'identité ou certificats de naissance exigés lors de l'inscription.
+> 5 Parmi  les  obstacles  administratifs  à  l'accès  à  l'enseignement  figurent,  notamment,  la  non-possession des documents d'identité ou certificats de naissance exigés lors de l'inscription.
 
 6
 
@@ -316,9 +308,9 @@ Il est à noter que le mariage d'enfants est une pratique discriminatoire car le
 
 Les mesures prises pour assurer l'égalité des genres et l'autonomisation des filles et des femmes sont contenues dans :
 
-- La loi modifiant et complétant la loi n°87-010 du 1 er août 1987 portant code de la famille :
+- La loi modifiant et complétant la loi n°87-010 du 1er août 1987 portant code de la famille :
 
-## Progrès accomplis dans la mise en œuvre du droit à l'éducation dans le cadre de l'ODD 4
+## 2. Progrès accomplis dans la mise en œuvre du droit à l'éducation dans le cadre de l'ODD 4
 
 ### 2.1  Enseignement préprimaire
 
@@ -329,6 +321,8 @@ Une éducation préprimaire obligatoire et gratuite est-elle offerte dans votre 
 ❏ L'éducation préprimaire est obligatoire : veuillez indiquer l'âge d'inscription et la durée de cette éducation : x
 
 La classe préprimaire est de 5 ans et sa durée d'une année.
+
+❏ L'éducation préprimaire est gratuite pour tous veuillez en indiquer la durée x
 
 La durée est d'une année
 
@@ -357,8 +351,6 @@ L'enseignement primaire est-il obligatoire dans votre pays ?
 - Veuillez indiquer la durée actuelle de l'enseignement obligatoire et l'âge d'inscription :
 
 Vous  pouvez  aussi  donner  ci-dessous  des  informations  sur  les  difficultés  rencontrées  par  votre Gouvernement dans la mise en œuvre de l'accès à l'enseignement primaire, éventuellement assorties de données quantitatives.
-
-L'éducation préprimaire est gratuite pour tous veuillez en indiquer la durée x
 
 8
 
@@ -390,9 +382,7 @@ L'enseignement primaire est-il gratuit pour tous ?
 
 -Loi-cadre n° 14/004 du 14 février 2014 de l'enseignement national, dans ses articles 12, 33 et 34 qui stipulent que :
 
-- Article 12 : Pour atteindre l'éducation de base pour tous, tout au long de la vie, l'Etat garantit la scolarisation primaire obligatoire et gratuite pour tous dans les
-
-- établissements publics.
+- Article 12 : Pour atteindre l'éducation de base pour tous, tout au long de la vie, l'Etat garantit la scolarisation primaire obligatoire et gratuite pour tous dans les établissements publics.
 
 - Article 33 : La lutte contre la discrimination et les inégalités en matière d'éducation scolaire vise à ouvrir l'accès à l'éducation aux groupes vulnérables et défavorisés. Il s'agit notamment des filles et femmes, orphelins, déplacés, pygmées, enfants dont l'âge est supérieur à la norme fixée par la règlementation scolaire, indigents, personnes vivant avec handicaps.
 
@@ -416,25 +406,25 @@ Loi-cadre sur l'enseignement national : Options fondamentales de l'enseignement 
 
 Article 9 : Les options fondamentales de l'enseignement national sont :
 
-- L'éducation de base pour tous
+1. L'éducation de base pour tous
 
-- L'éducation aux valeurs
+2. L'éducation aux valeurs
 
-- L'éducation physique et sportive
+3. L'éducation physique et sportive
 
-- L'éducation environnementale, la formation au développement durable et aux changements climatiques
+4. L'éducation environnementale, la formation au développement durable et aux changements climatiques
 
-- L'éducation aux technologies de l'information et de la communication
+5. L'éducation aux technologies de l'information et de la communication
 
-- L'éducation non formelle
+6. L'éducation non formelle
 
-- Le partenariat en matière d'éducation
+7. Le partenariat en matière d'éducation
 
-- La professionnalisation de l'enseignement et la promotion des établissements techniques, professionnels, artistiques, d'arts et métiers
+8. La professionnalisation de l'enseignement et la promotion des établissements techniques, professionnels, artistiques, d'arts et métiers
 
-- La revalorisation des activités manuelles.
+9. La revalorisation des activités manuelles.
 
-- La revalorisation de la fonction enseignante.
+10. La revalorisation de la fonction enseignante.
 
 #### Enseignement secondaire
 
@@ -566,8 +556,6 @@ L'article  /  paragraphe  4(c)  de la  Convention  /  Recommandation  prévoit  
 
 [[START OF PAGE 13]]
 
-13
-
 ❏ Programmes d'alphabétisation x
 
 ❏ Programmes appropriés d'apprentissage et de formation aux compétences nécessaires dans la vie courante x
@@ -579,6 +567,8 @@ L'article  /  paragraphe  4(c)  de la  Convention  /  Recommandation  prévoit  
 ❏ Formations permettant d'acquérir des qualifications professionnelles x
 
 ❏ Autres :
+
+- Veuillez décrire plus en détail les mesures prises :
 
 - Gratuité de l'enseignement de base
 
@@ -608,8 +598,7 @@ L'article / paragraphe 4(d) de la Convention / Recommandation prévoit le person
 
 - Veuillez indiquer les mesures prises pour améliorer les pratiques pédagogiques et les conditions de travail du personnel éducatif, en particulier le personnel enseignant de tous niveaux, ainsi que la formation à la profession d'enseignant, dans votre pays, (il est possible de cocher/mentionner plusieurs catégories de mesures) :
 
-- Veuillez décrire plus en détail les mesures prises :
-
+13
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
@@ -625,6 +614,10 @@ L'article / paragraphe 4(d) de la Convention / Recommandation prévoit le person
 ❏ Systèmes de suivi des performances
 
 ❏ Mesures  visant  à  accroître  le  nombre  de  femmes  occupant  des  postes  de  responsabilité  dans l'enseignement x
+
+❏ Autres :
+
+- Veuillez décrire succinctement les mesures prises :
 
 - Evaluation à travers les fiches de signalisation des enseignants et chefs d'établissement.
 
@@ -650,9 +643,9 @@ Oui
 
 L'article / paragraphe 5(1)(a) de la Convention / Recommandation prévoit le respect des droits de l'homme et des libertés fondamentales. Cette rubrique correspond à la cible 4.7 12 . Veuillez noter que cette section contribue au suivi général de l'article/paragraphe 5(1)(a) de la Convention/Recommandation tandis que la consultation portant  sur  la  Recommandation  de  1974  sur  l'éducation  pour  la  compréhension,  la  coopération  et  la  paix internationales  et  l'éducation  relative  aux  droits  de  l'homme  et  aux  libertés  fondamentales  servira  tout particulièrement à assurer le suivi de l'indicateur 4.7.1 relatif à l'ODD 4.
 
-- Veuillez indiquer les efforts engagés au niveau national pour mettre l'éducation au service du plein épanouissement  de  la personne humaine et du plein respect des droits de l'homme et des libertés fondamentales (il est possible de cocher/ mentionner plusieurs catégories de mesures)
+- Veuillez indiquer les efforts engagés au niveau national pour mettre l'éducation au service du plein épanouissement  de  la personne humaine et du plein respect des droits de l'homme et des libertés fondamentales (il est possible de cocher/ mentionner plusieurs catégories de mesures) :
 
-: x
+❏ x
 
 ❏ Inclusion dans les programmes d'enseignement de l'éducation aux droits de l'homme
 
@@ -662,11 +655,7 @@ L'article / paragraphe 5(1)(a) de la Convention / Recommandation prévoit le res
 
 - Participation de la société civile dans les campagnes de sensibilisation dans les écoles.
 
-❏ Autres :
-
-- Veuillez décrire succinctement les mesures prises :
-
--Instauration du gouvernement scolaire à tous les niveaux
+- Instauration du gouvernement scolaire à tous les niveaux
 
 > 12  Qui  appelle  les  États  à  «  faire  en  sorte  que  tous  les  élèves  acquièrent  les  connaissances  et  compétences  nécessaires  pour  promouvoir  le développement durable, notamment par l'éducation en faveur du développement durable et de modes de vie durables, des droits de l'homme, de l'égalité des sexes, de la promotion d'une culture de paix et de nonviolence, de la citoyenneté mondiale et de l'appréciation de la diversité culturelle et de la contribution de la culture au développement durable ».
 
@@ -768,7 +757,7 @@ Les droits des réfugiés et des migrants (déplacés) à une éducation de qual
 
 s'agit notamment des filles et femmes, orphelins, déplacés, pygmées, enfants dont l'âge est supérieur à la norme fixée par la règlementation scolaire, indigents, personnes vivant avec handicaps.
 
-- Stratégie sectorielle de l'éducation et de formation 2016 - 2025 (pages 92 - 93) : Mettre en place une politique nationale de l'éducation en situation d'urgence, de post- conflits et de post-catastrophes. Les ministères en charge de l'éducation et de la formation vont intégrer systématiquement dans leurs plans d'action annuels les mesures nécessaires pour adapter l'offre éducative aux besoins nouveaux induits par la survenue d'une crise ou d'une catastrophe naturelle. Il s'agit :
+- Stratégie sectorielle de l'éducation et de formation 2016 - 2025 (pages 92 - 93) : Mettre en place une politique nationale de l'éducation en situation d'urgence, de post-conflits et de post-catastrophes. Les ministères en charge de l'éducation et de la formation vont intégrer systématiquement dans leurs plans d'action annuels les mesures nécessaires pour adapter l'offre éducative aux besoins nouveaux induits par la survenue d'une crise ou d'une catastrophe naturelle. Il s'agit :
 
 - D'appuyer psychologiquement les enfants traumatisés ;
 
@@ -794,17 +783,18 @@ s'agit notamment des filles et femmes, orphelins, déplacés, pygmées, enfants 
 
 ❏ Autres mesures innovantes :
 
+- Veuillez préciser brièvement les mesures prises :
+
 ## III. MOYENS MIS EN PLACE POUR SENSIBILISER LES DIFFÉRENTES AUTORITÉS DU PAYS À CES INSTRUMENTS ET POUR LEVER LES OBSTACLES RENCONTRÉS
 
-## Difficultés et obstacles
+## 1. Difficultés et obstacles
 
 ### 1.1  Veuillez indiquer les difficultés rencontrées dans la mise en œuvre des principales dispositions de la Convention/Recommandation et fournir toute information utile à ce sujet (y compris en ce qui concerne les obstacles d'ordre juridique et pratique), ainsi que sur les principales questions qui devront être résolues pour promouvoir plus avant le droit à l'éducation dans votre pays (il est possible de cocher/mentionner plusieurs catégories de mesures) :
 
 ❏ Difficultés concernant l'égalité d'accès à l'éducation et l'inclusion dans l'enseignement (telles que la pauvreté et les facteurs socioéconomiques, les attitudes culturelles et traditionnelles, l'éloignement géographique, la migration et les déplacements de population, etc.) x
 
-- 1 Pauvreté, 2. Facteurs socioéconomiques, 3. Attitudes culturelles et traditionnelles,
-
-- Eloignement géographique
+1 Pauvreté, 2. Facteurs socioéconomiques, 3. Attitudes culturelles et traditionnelles,
+4. Eloignement géographique
 
 - Veuillez préciser brièvement les mesures prises :
 
@@ -818,9 +808,8 @@ x
 
 ❏ Difficultés concernant la qualité de l'éducation (telles que pénurie d'enseignants qualifiés, formés et motivés, méthodes d'enseignement et d'apprentissage et environnement scolaire peu stimulants ou inadéquats, etc.)
 
-- 1 Pénurie d'enseignants qualifiés à l'intérieur du pays,
-
-- Surpeuplement des élèves dans les salles de classe
+1 Pénurie d'enseignants qualifiés à l'intérieur du pays,
+2. Surpeuplement des élèves dans les salles de classe
 
 ❏ Difficultés concernant le système de gouvernance (telles que contraintes budgétaires, systèmes de suivi inexistants ou défaillants, y compris manque de données fiables, environnement juridique et politique inexistant, peu porteur, incompatible ou obsolète, absence de coopération des parties concernées et absence de coopération et de coordination à différents niveaux, etc.) x
 
