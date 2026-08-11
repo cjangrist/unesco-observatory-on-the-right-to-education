@@ -2,6 +2,50 @@
 
 # Table of Contents
 
+FOREWORD FROM THE MINISTER FOR EDUCATION......................................................................................2
+STATEMENT FROM THE PERMANENT SECRETARY FOR EDUCATION......................................................3
+ABBREVIATIONS AND ACRONYMS ........................................................................................................................4
+THE EDUCATION SECTOR STRATEGIC PLAN 2009-2011 ..................................................................................5
+INTRODUCTION...............................................................................................................................................................5
+OVERVIEW .....................................................................................................................................................................5
+EDUCATION CONTEXT....................................................................................................................................................5
+CHALLENGES AND ISSUES...............................................................................................................................................5
+EDUCATION OUTCOMES 2009 – 2011.............................................................................................................................5
+MONITORING AND EVALUATION ....................................................................................................................................6
+FINANCING FRAMEWORK ...............................................................................................................................................6
+THE EDUCATION SECTOR: OVERVIEW................................................................................................................7
+THE FIJI EDUCATION SECTOR.........................................................................................................................................7
+OUR VISION....................................................................................................................................................................7
+OUR MISSION .................................................................................................................................................................7
+GUIDING PRINCIPLES......................................................................................................................................................8
+PURPOSE AND ROLES .....................................................................................................................................................8
+THE EDUCATION SECTOR: CONTEXT...................................................................................................................9
+SCHOOL INFORMATION: .................................................................................................................................................9
+STUDENT PROFILE........................................................................................................................................................12
+HUMAN RESOURCE ......................................................................................................................................................13
+PROFESSIONAL DEVELOPMENT ....................................................................................................................................13
+SUPPORT SERVICES ......................................................................................................................................................13
+COMMUNITY PARTICIPATION .......................................................................................................................................13
+COMMUNITY AWARENESS PROGRAMME (CAPS).........................................................................................................13
+ROLE OF DONORS.........................................................................................................................................................14
+ACHIEVEMENTS, ISSUES AND CHALLENGES ...................................................................................................15
+STRATEGIC PLAN 2006 – 2008 ACHIEVEMENTS ...........................................................................................................15
+ISSUES AND CHALLENGES ............................................................................................................................................15
+THE EDUCATION SECTOR: OUTCOMES 2009 – 2011 ........................................................................................18
+STRATEGIC FRAMEWORKS 2009 – 2011...............................................................................................................20
+STRATEGIES AND PERFORMANCE INDICATORS AND MEASURES...................................................................................21
+MONITORING AND EVALUATION OF EDUCATION SECTOR PERFORMANCE .......................................35
+INTRODUCTION.............................................................................................................................................................35
+MONITORING AND EVALUATION APPROACH................................................................................................................35
+MONITORING STRATEGIES ...........................................................................................................................................36
+USE OF DATA IN REPORTING ........................................................................................................................................38
+FINANCING FRAMEWORK 2009 – 2011 .................................................................................................................39
+INTRODUCTION.............................................................................................................................................................39
+FINANCIAL PROJECTION BY SUB SECTOR / KEY OUTPUT AREAS ...................................................................................39
+CAPITAL FINANCIAL PROJECTIONS...............................................................................................................................41
+ESSDP 2009 – 2011 FINANCIAL GAP...........................................................................................................................41
+APPENDIX 1: STRATEGIC PLAN 2006 -2008 ACHIEVEMENTS........................................................................42
+
 1
 
 [[END OF PAGE 1]]
@@ -38,7 +82,7 @@ Minister for Education, National Heritage, Culture, Arts Youth and Sport
 
 # STATEMENT FROM THE PERMANENT SECRETARY FOR EDUCATION
 
-The development of the first 'Education Sector Strategic Development Plan 2009-2011 '  is  a significant development in education planning for Fiji. The plan reflects the strategic direction in education for Fiji as articulated in the Peoples Charter, the goals of the Suva Declaration and the commitment  to  regional  and  international  initiatives  in  the  achievement  of  the  EFA  and  MDG goals, through harmonization of all donor support. This is significant as it enables Fiji to be on par with other developing countries in their global pursuit for quality education. The new Vision and Mission as expressed in this plan embodies the aspirations and goals of education in Fiji for the next three years.
+The development of the first “Education Sector Strategic Development Plan 2009–2011” is a significant development in education planning for Fiji. The plan reflects the strategic direction in education for Fiji as articulated in the Peoples Charter, the goals of the Suva Declaration and the commitment to regional and international initiatives in the achievement of the EFA and MDG goals, through harmonization of all donor support. This is significant as it enables Fiji to be on par with other developing countries in their global pursuit for quality education. The new Vision and Mission as expressed in this plan embodies the aspirations and goals of education in Fiji for the next three years.
 
 The plan identifies seven major goals in education that aim at enhancing and consolidating efforts in the continual pursuit to improve access, equity and the quality of education for improved student outcomes.  The  plan  in  turn  provides  the  basis  for  annual  planning  through  specific  activities, costing and performance measures targeted in the planned period. Monitoring and evaluation and the financial framework are new features in this plan, and will be prominent in the implementation process through the detailed reporting requirements at different levels of implementation.
 
@@ -196,13 +240,15 @@ Fiji has made significant progress in education in the past and this journey tow
 
 ## Education Outcomes 2009 - 2011
 
-The Education Sector Strategic Development Plan 2009-2011 takes 2008 as its baseline guided by various  documents  and  commitments  that  the  Fiji  Government  and  Ministry  of  Education subscribes to. The plan highlights seven broad outcomes encompassing all major areas in education which will be the main focus of support in education for the next three years. These goals have incorporated the goals and objectives of the Education for All initiative of UNESCO and the United Nations Millennium Development Goals which are part of the international protocols on education which  Fiji  subscribes  to.  The  harmony  of  these  goals  and  initiatives  with  the  Forum  Basic Education Action Plan (FBEAP) means that this plan reflects all national, regional and international commitments. The Ministry of Education continues to liaise closely with international partners to harmonise developments in education along these international benchmarks and goals. It provides a plan with strategies, key activities and related indicators that have been costed and which are based upon the goals identified.
+The Education Sector Strategic Development Plan 2009-2011 takes 2008 as its baseline guided by various documents and commitments that the Fiji Government and Ministry of Education subscribes to. The plan highlights seven broad outcomes encompassing all major areas in education which will be the main focus of support in education for the next three years. These goals have incorporated the goals and objectives of the Education for All initiative of UNESCO and the United Nations Millennium Development Goals which are part of the international protocols on education which Fiji subscribes to. The harmony of these goals and initiatives with the Forum Basic Education Action Plan (FBEAP) means that this plan reflects all national, regional and international commitments. The Ministry of Education continues to liaise closely with international partners to
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+harmonise developments in education along these international benchmarks and goals. It provides a plan with strategies, key activities and related indicators that have been costed and which are based upon the goals identified.
 
 ## Monitoring and Evaluation
 
@@ -244,11 +290,11 @@ In  terms of education delivery, the Ministry of Education [MoE] leads policy fo
 
 Education for change, peace and progress
 
-The vision for education and various visions and statements of intent as expressed by the various documents  such  as  the  People's  Charter,  the  Education  for  All  (EFA)  of  UNESCO  and  the Millennium  Development  Goals  (MDG)  reflects  on  this  vision  in  their  own  ways.  The  drive  to eradicate poverty by 2015, with education as the central strategy, threads in all these documents and commitments. In today's competitive environment at the global front, an educated population is a prerequisite  for  a  country  to  take  on  the  demands  of  technological  challenges  and  development. This is underpinned by Pillar 9 of the People's Charter, 'Making Fiji knowledge based society'.
+The vision for education and various visions and statements of intent as expressed by the various documents such as the People’s Charter, the Education for All (EFA) of UNESCO and the Millennium Development Goals (MDG) reflects on this vision in their own ways. The drive to eradicate poverty by 2015, with education as the central strategy, threads in all these documents and commitments. In today’s competitive environment at the global front, an educated population is a prerequisite for a country to take on the demands of technological challenges and development. This is underpinned by Pillar 9 of the People’s Charter, “Making Fiji knowledge based society”.
 
 ## Our Mission
 
-'To provide a holistic, inclusive, responsive and empowering education system that enables all children to realise their full potential, appreciate fully their inheritance, take pride in their national and cultural identity and contribute fully to sustainable national development'
+“To provide a holistic, inclusive, responsive and empowering education system that enables all children to realise their full potential, appreciate fully their inheritance, take pride in their national and cultural identity and contribute fully to sustainable national development”
 
 7
 
@@ -256,7 +302,7 @@ The vision for education and various visions and statements of intent as express
 
 [[START OF PAGE 8]]
 
-The above mission statement aligns well with the People's Charter for Change and Progress.  Pillar 9, 'Making Fiji knowledge based society' is specifically designed to drive Fiji into the future. This same goal and its subsequent components are expressed in different ways in the Education for All initiative, the Millennium Development Goals, PRIDE and the Suva Declaration. They all embody the aspirations of the stakeholders in education.  The Mission also expresses the expected outcomes of  education  on  all  children  in  Fiji  and  the  role  of  the  education  system  to  ensure  that  these outcomes are realised.
+The above mission statement aligns well with the People’s Charter for Change and Progress. Pillar 9, “Making Fiji knowledge based society” is specifically designed to drive Fiji into the future. This same goal and its subsequent components are expressed in different ways in the Education for All initiative, the Millennium Development Goals, PRIDE and the Suva Declaration. They all embody the aspirations of the stakeholders in education. The Mission also expresses the expected outcomes of education on all children in Fiji and the role of the education system to ensure that these outcomes are realised.
 
 ## Guiding Principles
 
@@ -310,6 +356,47 @@ Education and training continues to be a priority for government and the commitm
 
 Figure 1: Classification of education structure by Division and District
 
+177°E
+180°
+16°30'S
+18°S
+Inset Rotuma
+Yasawa Islands
+NORTHERN
+Labasa
+Vanua Levu
+Savusavu
+Taveuni
+WESTERN
+BLIGH WATER
+Rakiraki
+Ba
+Lautoka
+Nadi
+Viti Levu
+Sigatoka
+CENTRAL
+Nausori
+SUVA
+Beqa
+Vatulele
+Kadavu
+Koro
+Ovalau
+Levuka
+KORO SEA
+Gau
+EASTERN
+Vanuabalavu
+Mago
+Cicia
+Lakeba
+Moala
+Matuku
+Totoya
+Kabara
+Fulaga
+
 Shown are boundaries of the four Education Divisions. The nine District Education Offices are indicated with the blue boxes. The Suva and Eastern Offices are both located in Suva.
 
 ## School Information
@@ -324,16 +411,16 @@ The population shift from rural to urban areas puts a lot of pressure on schools
 
 [[START OF PAGE 10]]
 
-Divisions | Number of Schools | Number of Teachers | Enrolment
+Table: 1: School Types and Enrolment by Divisions
+
+Divisions | Number of Schools |  |  | Number of Teachers |  | Enrolment | 
+ | ECCE | Primary | Secondary | Primary | Secondary | Primary | Secondary
 --- | --- | --- | --- | --- | --- | --- | ---
-ECCE | Primary | Secondary | Primary | Secondary | Primary | Secondary
 Eastern | 43 | 115 | 14 | 442 | 246 | 8,237 | 2,569
 Northern | 83 | 162 | 35 | 1042 | 755 | 23,782 | 11,653
 Western | 222 | 254 | 60 | 1964 | 1424 | 47,497 | 24,975
 Central | 282 | 204 | 65 | 1719 | 1840 | 53,206 | 30,520
 Total | 630 | 735* | 174 | 5167* | 4265 | 132,722* | 69,717
-
-Table: 1: School Types and Enrolment by Divisions
 
 *Includes Special Education
 
@@ -399,6 +486,8 @@ Form 6
 
 Form 7
 
+Vocational Education
+
 Higher Education
 
 Certificate Level [FIT, CCTC, USP, FSM, TPAF, Private Institutions]
@@ -415,10 +504,6 @@ Continuing Education -
 
 World of work
 
-Vocational
-
-Education
-
 Figure  2 provides  a  snapshot  of  the  layout  of  the  Education  Sector  in  Fiji.  At  the  end  of  the diagram is the world of work where all learning and learners coverage towards.
 
 Within the breadth of the scope lies also the diversity in the programmes offered at all levels. The increasing importance of TVET and the need to align with the diverse job market has expanded the curriculum offered in schools. The aim for TVET is to provide exposure to students as early as possible in the hope of developing interest in the subjects which hopefully will create the desire for work in technical fields.
@@ -433,6 +518,8 @@ Within the breadth of the scope lies also the diversity in the programmes offere
 
 The population of school age children has been quite consistent over the years. Although the table below shows significant variance, the fluctuations are probably due to incomplete data received and entered.
 
+Table 2: Primary and Secondary enrolment 2005-08.
+
 Year | Primary* | Secondary | Total
 --- | --- | --- | ---
 2005 | 135667 | 59128 | 194795
@@ -440,22 +527,20 @@ Year | Primary* | Secondary | Total
 2007 | 133276 | 68814 | 202090
 2008 | 132722 | 69,717 | 202,439
 
-Table 2: Primary and Secondary enrolment 2005-08.
-
 *Includes Special Education
 
 ### Enrolment
 
 Fiji has achieved almost universal primary education. As access to education is almost 100% the focus is now shifting to improving the quality of access. There is considerable effort required in trying to retain students once enrolled in schools and to push them into higher education.
 
-Primary | Secondary
+Table 3: Gross and Net enrolment and progression rates in primary and secondary
+
+ | Primary |  |  | Secondary |  | 
+ | Male | Female | Total | Male | Female | Total
 --- | --- | --- | --- | --- | --- | ---
-Male | Female | Total | Male | Female | Total
 Progression rate | 95.7 | 97.4 | 96.6 | 87.4 | 90.5 | 89.0
 Gross enrollment | 104.3 | 102.5 | 103.4 | 85.2 | 98.4 | 91.8
 Net Enrolment | 97.0 | 96.4 | 96.7 | 73.4 | 83.7 | 78.6
-
-Table 3:  Gross and Net enrolment and progression rates in primary and secondary
 
 Source: 2008 SIMS Data
 
@@ -473,7 +558,7 @@ In a cohort of Form 3 in 2005, in the secondary schools, a 85.1% (14,089/16,556)
 
 ### Dropouts
 
-The  dropout  rate  has  decreased  a  lot  in  recent  years.  The  effort  to  reduce  dropout  rates  has accompanied  the  drive  to  make  the  curriculum  more  responsive  to  the  needs  of  students.  The curriculum is designed not only to make learning meaningful but also interesting. This, it is hoped will lead to a reduction in dropouts.
+The dropout rate has decreased a lot in recent years. The effort to reduce dropout rates has accompanied the drive to make the curriculum more responsive to the needs of students. The
 
 12
 
@@ -481,12 +566,14 @@ The  dropout  rate  has  decreased  a  lot  in  recent  years.  The  effort  to 
 
 [[START OF PAGE 13]]
 
+curriculum is designed not only to make learning meaningful but also interesting. This, it is hoped will lead to a reduction in dropouts.
+
+Table 4: Dropout rates in primary and secondary by gender
+
 Level | M | F | T
 --- | --- | --- | ---
 Primary | 0.8 | 1.8 | 1.3
 Secondary | 6.6 | 3.4 | 5.0
-
-Table 4: Dropout rates in primary and secondary by gender
 
 ### Examinations Performance
 
@@ -564,7 +651,7 @@ More details on the evaluation report of the Strategic Plan 2006 - 2008 against 
 
 The education sector will continue to focus on existing issues and a number of emerging ones over the  next  three  years.  Current  issues  include  student  retention  in  schools,  dropout  rates,  student performance, education quality and public and private costs of education. Emerging issues include student behaviour, drug abuse in schools, and assessment of student learning, nation building and curriculum relevance. These emerging issues pose a lot of challenges on the education sector and bring greater competition for scarce resources available for the development of the sector. A major feature  of  the  sector  over  the  plan  period  is  strengthening  partnerships  between  its  main stakeholders both within government and non-government organizations.
 
-Education has a major role to play in shaping the future of the country, particularly its people and governance. The future of any country rests on its future citizens and how they are developed and nurtured through the education system. Opportunities will be created through the curriculum and programmes  in schools that will compel students to work  together and develop greater understanding of one another. At the end of the plan period, it is intended that students will leave the school system with more understanding and tolerance of one another and an affinity to move forward together in a spirit of one people and one nation.
+Education has a major role to play in shaping the future of the country, particularly its people and governance. The future of any country rests on its future citizens and how they are developed and
 
 15
 
@@ -572,7 +659,9 @@ Education has a major role to play in shaping the future of the country, particu
 
 [[START OF PAGE 16]]
 
-A major issue in the  education  sector  relates  to  the  relevance  and  attractiveness  of  schooling  to students.  There  is  a  big  competition  between  the  developments  and  attractiveness  of  the  outside world and the school programmes. The rising unemployment rate compounds the problem creating a sense of hopelessness amongst students and posing the question of the relevance of schooling. If the  education  sector  is  not  careful,  then  the  attractiveness  of  the  outside  environment  will  far surpass that of the schools creating greater chances for dropouts from the system.
+nurtured through the education system. Opportunities will be created through the curriculum and programmes in schools that will compel students to work together and develop greater understanding of one another. At the end of the plan period, it is intended that students will leave the school system with more understanding and tolerance of one another and an affinity to move forward together in a spirit of one people and one nation.
+
+A major issue in the education sector relates to the relevance and attractiveness of schooling to students. There is a big competition between the developments and attractiveness of the outside world and the school programmes. The rising unemployment rate compounds the problem creating a sense of hopelessness amongst students and posing the question of the relevance of schooling. If the education sector is not careful, then the attractiveness of the outside environment will far surpass that of the schools creating greater chances for dropouts from the system.
 
 The  issue  of  student  and  school  assessment  and  monitoring  will  be  developed  and  strengthened through structures put in place for greater accountability to student achievement. Prominent among these  structures  would  be  the  establishment  of  the  Standards  Monitoring  Unit  to  monitor  school performance and the greater use of FILNA in primary schools as a diagnostic tool to assess student levels of learning.
 
@@ -680,163 +769,63 @@ Outcome 1
 
 All children including kindergarten, disadvantaged students and those with special needs will have access to an expanding improving and inclusive quality education and care
 
-Outcome 6
-
-Communities,
-
-stakeholders and
-
-donors are
-
-responsive to the
-
-education and
-
-development
-
-needs of students
-
-Outcome 7
-
-Improved
-
-management
-
-through
-
-accountability,
-
-transparency and
-
-good governance
-
-process
-
 Outcome 2
 
-All children
-
-kindergarten,
-
-disadvantaged
-
-students and those
-
-with special needs
-
-will have access
-
-to a relevant,
-
-flexible and
-
-innovative
-
-curriculum that
-
-promote
-
-development of
+All children kindergarten, disadvantaged students and those with special needs will have access to a relevant, flexible and innovative curriculum that promote development of
 
 Outcome 3
 
-All schools are
-
-well resourced to
-
-offer learning
-
-programmes that
-
-are responsive to
-
-the needs of
-
-students and
-
-stakeholders
+All schools are well resourced to offer learning programmes that are responsive to the needs of students and stakeholders
 
 Outcome 4
 
-A workforce that
-
-is appropriate
-
-qualified,
-
-competent,
-
-committed and
-
-motivated to
-
-deliver quality
-
-education services
-
-with integrity
-
-and transparency
+A workforce that is appropriate qualified, competent, committed and motivated to deliver quality education services with integrity and transparency
 
 Outcome 5
 
-The increased
+The increased prominence of TVET in education and the strengthening and consolidation of its role in developing a competent, skilled and productive workforce for sustainable development in Fiji
 
-prominence of
+Outcome 6
 
-TVET in education
+Communities, stakeholders and donors are responsive to the education and development needs of students
 
-and the
+Outcome 7
 
-strengthening and
+Improved management through accountability, transparency and good governance process
 
-consolidation of its
-
-role in developing a
-
-competent, skilled
-
-and productive
-
-workforce for
-
-sustainable
-
-development in Fiji
-
-Sub-Output
-
-3.1- 3.2
-
-Sub-Output
-
-1.1-1.3
-
-Sub-Output
-
-2.1- 2.2
-
-Sub-Output
-
-6.1- 6.3
-
-Sub-Output
-
-5.1- 5.4
-
-Sub-Output
-
-4.1- 4.2
-
-Sub-Output
-
-7.1- 7.4
+Suva Declaration; Peoples Charter; EFA, MDG, PRIDE Goals
 
 PERFORMANCE PORTFOLIO STATEMENTS [PPS] OUTPUTS 1 - 7
 
-ACTIVITIES
+Sub–Output
 
-Suva Declaration; Peoples Charter; EFA, MDG, PRIDE Goals
+1.1-1.3
+
+Sub–Output
+
+2.1- 2.2
+
+Sub–Output
+
+3.1- 3.2
+
+Sub–Output
+
+4.1- 4.2
+
+Sub–Output
+
+5.1- 5.4
+
+Sub–Output
+
+6.1- 6.3
+
+Sub–Output
+
+7.1- 7.4
+
+ACTIVITIES
 
 20
 
@@ -901,7 +890,7 @@ Improving education opportunities for students and youth | 900,000 | 900,000 | 9
 1.2 School capacity to meet special needs of students strengthened | Support development and implementation of programme and materials for students with special needs | 10,000 | 10,000 | 10,000 | • Special Education Action Plan for Social Justice programme implemented by December 2009 • Inclusive Education policy developed in 2009 • Curriculum material brailed by 2011
 --- | --- | --- | --- | --- | ---
 Strengthen school capacity to support for students with special needs in mainstream schools and Kindergarten | 215,000 | 215,000 | 215,000 | • Increase in support staff in regular schools enrolling students with special needs • Increase enrolment of students with special needs in mainstream schools.
-1.3 Safety and care of students in schools improved | Strengthen awareness on OHS at all levels | 27,000 | 27,000 | 27,000 | • A reduction in the number of complaints on OHS related issues. • Increase in the number of OHS accredited trainers. • 50 % of schools are OHS
+1.3 Safety and care of students in schools improved | Strengthen awareness on OHS at all levels | 27,000 | 27,000 | 27,000 | • A reduction in the number of complaints on OHS related issues. • Increase in the number of OHS accredited trainers. • 50 % of schools are OHS compliant by 2011.
 Strengthen DISMAC policy and procedures implementation at all levels | 5,000 | 5,000 | 5,000 | • A school DISMAC policy implemented by 2011 • All schools develop and implement an emergency evacuation plan by 2011 . • A new SOP developed and approved.
 Introduction of pastoral care and safety programme in all schools | 400,000 | 450,000 | 450,000** | • Increase community awareness on HIV/AIDS and Substance abuse by 2011. • Decrease in the number of substance abuse cases reported • HIV/AIDS policy implemented by 2010. • Research on safety and care programmes in school commenced by December 2009.
 
@@ -957,7 +946,7 @@ Introduce citizenship education in schools | 932,231 | 932,231 | 932,231 | • C
 Introduce revised Family Life Education in schools | 80,000 ($US) | 80,000 ($US) | 80,000 ($US) | • Revised Family Life Education Curriculum implemented in all schools at form 3 level by 2010
 Develop a curriculum with support materials for students with special needs to be used in the special schools and mainstream | 10,000 | 10,000 | 10,000 | • Development of the special curriculum commence in 2009 • Curriculum trialed in selected schools in 2010 -2011
 Promote and introduce modular approach to secondary curriculum development | 6,500 | 6,500 | 6,500 | • Scoping study on modular approach to secondary curriculum commenced in 2009 • A framework on modular curriculum developed and trialed in 2010
-Develop and broaden the teaching of culture, traditions heritage and arts and the core subjects in schools | 534,000 | 300,000 | 300,000 | • National Language Policy nationally implemented in schools in 2009 • Improved and broaden level of celebrations of cultural event in schools • Students have enhanced understanding of and value of
+Develop and broaden the teaching of culture, traditions heritage and arts and the core subjects in schools | 534,000 | 300,000 | 300,000 | • National Language Policy nationally implemented in schools in 2009 • Improved and broaden level of celebrations of cultural event in schools • Students have enhanced understanding of and value of culture and traditions
 
 25
 
@@ -968,7 +957,7 @@ Develop and broaden the teaching of culture, traditions heritage and arts and th
 2.2 Strengthening of assessment for learning and of learning approaches to improve students performance | Improve quality of students performance in external assessment and examinations | 100,000 | 100,000 | 100,000 | • 2% increase every year in the number of quality passes • 2% increase every year in the performance of students from disadvantage backgrounds • IPSP schools demonstrate improved performance in external examination annually
 --- | --- | --- | --- | --- | ---
 Improve quality of external examinations /assessment processes | 50,000 | 50,000 | 50,000 | • Improve quality and timeliness of examination processes and systems • Increased awareness and training on assessment with teachers
-Provision of appropriate technology and equipment to cater for effective delivery of examination/asses sment for students with special needs | 50,000 | 50,000 | 50,000 | • Upgrading of examination/ assessment system for students with special needs commenced in 2009
+Provision of appropriate technology and equipment to cater for effective delivery of examination/assessment for students with special needs | 50,000 | 50,000 | 50,000 | • Upgrading of examination/ assessment system for students with special needs commenced in 2009
 Develop a systematic approach to assessment through further development of FILNA to improve literacy and numeracy | 300,000 | 300,000 | 300,000 | • 70% of primary schools effectively use FILNA for diagnostic purposes by 2011 • All schools implement FILNA in classes 4,6, and 8 by 2011
 Provision of reading resources to complement teaching and learning in schools | 50,000 | 50,000 | 50,000 | • 100 schools receive library resources every year for the next 3 years • Improved management of library services • Research conducted on the effectiveness of library resources
 
@@ -995,8 +984,8 @@ Aligned to the Suva Declaration Goal 4; Peoples Charter Pillar 9.1 - 9.4
 Sub Output | Strategies | Strategy Costing($) | Performance Indicators
 --- | --- | --- | --- | --- | ---
 2009 | 2010 | 2011
-3.1 Responsivenes s of schools to meet students needs improved | Implement school improvement and schools inspectorate system in all schools | 186,000 | 186,000 | 186,000 | • 230 schools undergo external validation visits every year for the next 3 years • 90% of schools effectively implement SMiS by 2011 • All schools demonstrate compliance with standards monitoring /inspectorate policy requirements by 2011 • School inspection visits commenced in 2009 • 100 school libraries implement standardized library management practices and procedures by 2011. • Model school libraries established in each education district (9), and 2 public libraries by 2011
-3.2 Administratio n and management of grants improved | Improve quality of school resourcing through tuition grants, equipment and facility support | 550,000 | 550,000 | 550,000 | • Policy on management of school resources developed by 2010 • 50 libraries to be remodeled and improved by 2011 • Timely disbursement of all grants to recipient schools by the due date • Library assets and resources management policy developed by 2010 • Differential Resourcing Model policy approved in 2009 and implemented in 2010
+3.1 Responsiveness of schools to meet students needs improved | Implement school improvement and schools inspectorate system in all schools | 186,000 | 186,000 | 186,000 | • 230 schools undergo external validation visits every year for the next 3 years • 90% of schools effectively implement SMiS by 2011 • All schools demonstrate compliance with standards monitoring /inspectorate policy requirements by 2011 • School inspection visits commenced in 2009 • 100 school libraries implement standardized library management practices and procedures by 2011. • Model school libraries established in each education district (9), and 2 public libraries by 2011
+3.2 Administration and management of grants improved | Improve quality of school resourcing through tuition grants, equipment and facility support | 550,000 | 550,000 | 550,000 | • Policy on management of school resources developed by 2010 • 50 libraries to be remodeled and improved by 2011 • Timely disbursement of all grants to recipient schools by the due date • Library assets and resources management policy developed by 2010 • Differential Resourcing Model policy approved in 2009 and implemented in 2010
 
 27
 
@@ -1024,8 +1013,6 @@ Aligned to the Suva Declaration Goal 6; Peoples Charter Pillar 2, 4, 9
 
 - Strengthen strategic direction of Kindergarten and Special Education
 
-4.1 4.1
-
 Sub -Output | Strategies | Strategy Costing ($) | Performance Indicators
 --- | --- | --- | --- | --- | ---
 2009 | 2010 | 2011
@@ -1045,7 +1032,7 @@ Sub -Output | Strategies | Strategy Costing ($) | Performance Indicators
 2009 | 2010 | 2011
 Officers | • Increase in the number of professional development programmes in the areas of need
 4.2 Workforce management and administration improved | Recognise, utilize and reward demonstrated competence and contribution | 10,000 | 10,000 | 10,000 | • Service excellence framework implemented
-Enhance primary and secondary pre-service teacher training services | 5,000 | 5,000 | 5,000 | • Review of the secondary pre- service teacher training programme commence in 2011 • Scoping study completed in 2009 on the upgrading of the FCAE programme in 2009 • Increase utilization of LTC resources such as workforce
+Enhance primary and secondary pre-service teacher training services | 5,000 | 5,000 | 5,000 | • Review of the secondary pre- service teacher training programme commence in 2011 • Scoping study completed in 2009 on the upgrading of the FCAE programme in 2009 • Increase utilization of LTC resources such as workforce capability and facilities
 Strengthen strategic direction in Kindergarten | 300,000 | 300,000 | 300,000 | • Increase in the number of Kindergarten teachers paid from the Kindergarten salary grant • Kindergarten unit strengthened by 2010
 Strengthen strategic direction in Special Education | 200,000 | 200,000 | 200,000 | • Special Education unit strengthened by 2010 • Improved teacher-pupil ratio in accordance with requirement of the severity of student disability established by 2011
 Strengthen Workforce planning at all levels | 10,000 | 10,000 | 10,000 | • Workforce plan implemented by 2010 • Training Plan for Administrative and Professional staff developed by December 09
@@ -1173,7 +1160,7 @@ Sub Output | Strategies | Strategy Costing ($) | Performance Indicators
 --- | --- | --- | --- | --- | ---
 2009 | 2010 | 2011
 7.2 Accountability and compliance to Government procedures and regulations improved | Strengthen financial management at all levels | 10,000 | 15,000 | 20,000 | • Reduction in the number of audit queries • Improved quality and timeliness of financial reporting on accountabilities at all levels
-Improve quality of service delivery at all levels | 15,000 | .15,000 | 15,000 | • Efficient, effective and timely delivery of service at all levels
+Improve quality of service delivery at all levels | 15,000 | 15,000 | 15,000 | • Efficient, effective and timely delivery of service at all levels
 7.3 Efficiency of coordination and communication at all levels improved | Improve access to the media to better inform the community about education and training and related issues | 5,000 | 10,000 | 10,000 | • Improved coordination and partnership with the media, both internal and external media outlets • Enhanced public's image of the Ministry through the use of the media
 Improve efficiency and effectiveness of coordination and communication at all levels | 5,000 | 5,000 | 5,000 | • Responses to all communications delivered in a timely manner • Increase and improve relationship with the public, stakeholders through various communications strategy
 7.4 Effectiveness of Quality Assurance and reporting process improved | Improve quality of data management at all levels | 280,000 | 308,000 | 338,000 | • Improved quality and efficiency of data management • IT capacity improved and sustainable
@@ -1233,9 +1220,10 @@ There will be three levels of monitoring of the Ministry's Plans and sample temp
 
 - o The overall achievement will be transferred to the Corporate Plan.
 
-Sub- Output | Performance Indicator /Annual target | Activity | Activity Costs ($) | M&E strategy | Achievement to date against annual target/ (Proportion) | Proportion of budget expended to date (%) | Issues and constrain ts
+Sub- Output | Performance Indicator /Annual target | Activity | Activity Costs ($) | M&E strategy | Achievement to date against annual target/ (Proportion) | Proportion of budget expended to date (%) | Issues and constraints
 --- | --- | --- | --- | --- | --- | --- | ---
 1.1 Effectiveness of policies, plans and legislations facilitated | Established and fully functional policies and legislation | Review of the Education Act
+Establish the National Research Council[NRC]
 Teachers register with TRB
 
 ### [b] Monitoring of the Corporate Plan
@@ -1252,13 +1240,13 @@ Teachers register with TRB
 
 #### Sample Reporting Template
 
+Output 1: Portfolio Leadership, Policy Advice & Secretariat Support
+
 Sub- Output | Performance Indicator | Performance Indicator Annual target | Activity | Data Source and M&E Strategy | Achievement to date against annual target/ Proportion against annual target | Issues and constraints
 --- | --- | --- | --- | --- | --- | ---
-1.1 Effectiveness of policies, plans and legislations facilitated | Established and fully functional policies and legislation | square4 Education Act Reviewed by December 2009 | Review of the Education Act
+1.1 Effectiveness of policies, plans and legislations facilitated | Established and fully functional policies and legislation | • Education Act Reviewed by December 2009 | Review of the Education Act
 Establish the National Research Council [NRC]
 Teachers register with TRB
-
-Output 1: Portfolio Leadership, Policy Advice & Secretariat Support
 
 ### [c] Monitoring of Education Sector Strategic Development Plan 2009 - 2011
 
@@ -1272,11 +1260,11 @@ Output 1: Portfolio Leadership, Policy Advice & Secretariat Support
 
 - o Sample reporting template
 
+OUTCOME 2: All children will have access to a relevant, flexible and innovative Curriculum that promote development of lifelong skills and good citizenship
+
 PPS Sub- Output | Performance Indicator | Strategy | 2009 Costs | M&E Strategy | Achievement for the year/ Proportion of achievement against annual target | Issues and constraints
 --- | --- | --- | --- | --- | --- | ---
 2.1 Quality curriculum implemented | Review of existing curriculum Review of Classes 5&6 curriculum and development of support materials completed in 2009 | Review of curriculum and development of teachers support materials
-
-OUTCOME 2: All children will have access to a relevant, flexible and innovative Curriculum that promote development of lifelong skills and good citizenship
 
 37
 
@@ -1288,15 +1276,9 @@ OUTCOME 2: All children will have access to a relevant, flexible and innovative 
 
 When reporting on achievements, it is very important that Directors provide some form of data as measures of achievement. This will only be possible if data sets are formulated for all performance indicators for each activity and strategies that targets the achievement of the outputs. Two categories of data commonly used are:
 
-- o
+- o Qualitative this defines the quality of something which is usually descriptive in nature.
 
-- Qualitative this  defines  the  quality  of  something  which  is  usually  descriptive  in
-
-nature.
-
-- o
-
-Quantitative quantitative data can be measured and represented by numbers.
+- o Quantitative quantitative data can be measured and represented by numbers.
 
 When reporting on achievements, it is important to report on both quality and quantity of the achievements.
 
@@ -1315,6 +1297,8 @@ A Financing Framework is a requirement in a Sector Plan and for the Ministry of 
 ## Financial Projection by Sub sector / key Output areas
 
 The following gives a summary of the recurrent expenditure projections in each of the major output areas or sub sectors from 2009 -2011
+
+Table 5: Summary of Recurrent Financial Projections by Sub-Sector
 
 2008 Baseline | 2009 | 2010 | 2011
 --- | --- | --- | --- | ---
@@ -1338,8 +1322,6 @@ o Personnel emoluments | 1,314,500 | 1,314,500 | 1,314,500 | 1,314,500
 o Operating Expenses | 20,100 | 20,100 | 20,100 | 20,100
 • Government secondary schools
 o Personnel emoluments | 13,067,400 | 13,067,400 | 13,067,400 | 13,067,400
-
-Table 5: Summary of Recurrent Financial Projections by Sub-Sector
 
 39
 
@@ -1398,7 +1380,9 @@ TOTAL | 230,627,600 | 230,627,600 | 230,627,600 | 230,627,600
 
 Table 6 provides the education financial projections for capital constructions under each of the output areas or sub sector for the term of this strategic plan.
 
-2008 | 2009 | 2010 | 2011
+Table 6: Summary of Capital Financial Projections by Sub-Sector
+
+ | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | ---
 Kindergarten | 100,000 | 200,000 | 200,000 | 200,000
 Primary Education | 500,000 | 500,000 | 500,000 | 500,000
@@ -1416,25 +1400,23 @@ Pre - Service Teacher Training
 • FCAE - institutional upgrading | 200,000 | 200,000 | 200,000 | 200,000
 TOTAL | 5,200,000 | 4,950,000 | 4,950,000 | 4,950,000
 
-Table 6: Summary of Capital Financial Projections by Sub-Sector
-
 ## ESSDP 2009 - 2011 Financial Gap
 
 Table 7 gives a summary of the financing gap on all projections costing for the programs and activities in all major output areas. This has taken into considerations the cost projections for all the priority area in the Strategic Framework for the medium term 2009 - 2011.
 
-2008 | 2009 | 2010 | 2011
+Table 7: Financing Gap
+
+ | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | ---
 Planned expenditure
-Recurrent | 240246600 | 252,258,930 | 264,871,876
-Development budget (capital construction) | 6,700,500 | 7,035,525 | 7,387,301
+Recurrent |  | 240246600 | 252,258,930 | 264,871,876
+Development budget (capital construction) |  | 6,700,500 | 7,035,525 | 7,387,301
 Resources
 Recurrent | 230,627,600 | 230,627,600 | 230,627,600 | 230,627,600
 Development budget (capital construction) | 5,200,000 | 4,950,000 | 4,950,000 | 4,950,000
 Financing gap (Planned Expenditure- Resources)
-recurrent financing gap | 9,619,000 | 21,631,330 | 34,244,276
-capital (construction) financing gap | 1,750,500 | 2,085,525 | 2,437,301
-
-Table 7: Financing Gap
+recurrent financing gap |  | 9,619,000 | 21,631,330 | 34,244,276
+capital (construction) financing gap |  | 1,750,500 | 2,085,525 | 2,437,301
 
 41
 
@@ -1462,119 +1444,44 @@ Performance Measures |
 
 [[START OF PAGE 43]]
 
-- 1.7 Performance of Fijian students is improved
-
-- 1.8 FJC,FSLC and FSFE examination passes improve therefore meeting criteria for advancing higher education
-
-- 1.9 All children have access to 12 years of education
-
-Primary net enrolment reaches the National and MDG target of 100% up to 2008
-
-- 1.10 School review framework is refined and expanded
-
-- 1.11 Special Education policy formulated for the disabled by 2006
-
-Performance of Fijian students in External
-
-Examination 2006 - 2007
-
+1.7 Performance of Fijian students is improved | Performance of Fijian students in External Examination 2006 - 2007
 0
-
 20
-
 40
-
 60
-
 80
-
 100
-
 120
-
-FIE
-
-FEYE
-
-FJC(N)
-
-FJC (P)
-
-FSLC
-
-FSFE
-
+FIE | FEYE | FJC(N) | FJC (P) | FSLC | FSFE
 Type of examination
-
 2006
-
 2007
-
-Students performance in the secondary
-
-public exams 2006 - 2007
-
-84
-
-80
-
-55
-
-28
-
-74
-
-34
-
-87
-
-80
-
-56
-
-28
-
-68
-
-34
-
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-90
-
-100
-
-Type of examination
-
-2006
-
-2007
-
 The overall results of Fijian Students showed a drop in 5/6 external examinations except for a slight increase in FSLC in 2007
 
-The above graph shows improvement in the overall performance (OP) of students in the external examination . Also noted the % of students scoring above 250 marks in both FSLC and FSFE who meet the criteria for advancing to higher education
+1.8 FJC,FSLC and FSFE examination passes improve therefore meeting criteria for advancing higher education | Students performance in the secondary public exams 2006 - 2007
+84 | 80 | 55 | 28 | 74 | 34
+87 | 80 | 56 | 28 | 68 | 34
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Type of examination
+2006
+2007
+The above graph shows improvement in the overall performance (OP) of students in the external examination. Also noted the % of students scoring above 250 marks in both FSLC and FSFE who meet the criteria for advancing to higher education
 
-According to the Fiji EFA MDA report, Fiji is on target with MDG 2 to achieve universal primary education, with primary school net enrolment rates increasing from 95.98% in 2005 to 96.01% in 2006. However the enrolment trend also shows an increase trend of drop-outs from primary school which can reach an alarming level if not carefully monitored
+1.9 All children have access to 12 years of education Primary net enrolment reaches the National and MDG target of 100% up to 2008 | According to the Fiji EFA MDA report, Fiji is on target with MDG 2 to achieve universal primary education, with primary school net enrolment rates increasing from 95.98% in 2005 to 96.01% in 2006. However the enrolment trend also shows an increase trend of drop-outs from primary school which can reach an alarming level if not carefully monitored
 
-The School Review policy was reviewed and refined. A total of 30 Education Officers from the Central and District Offices have been trained as External Reviewers. Awareness workshop conducted at the Central office and District level for a better understanding and streamlined school review functions. School review process was trialed in selected schools.  Findings show that the reviewers are ready to undertake external review visits in 2009. Further support is required in data analysis, report writing and questioning/observational skills
+1.10 School review framework is refined and expanded | The School Review policy was reviewed and refined. A total of 30 Education Officers from the Central and District Offices have been trained as External Reviewers. Awareness workshop conducted at the Central office and District level for a better understanding and streamlined school review functions. School review process was trialed in selected schools. Findings show that the reviewers are ready to undertake external review visits in 2009. Further support is required in data analysis, report writing and questioning/observational skills
 
-The Policy on Special Education has been developed with wide consultation through JICA support. The policy is referred to as the Inclusive Education Policy as part of the Ministry's commitment to the UNESCO Regional Initiative on Inclusive Education held in Samoa held in 2005. The policy completed in 2008 and ready for implementation in 2009
+1.11 Special Education policy formulated for the disabled by 2006 | The Policy on Special Education has been developed with wide consultation through JICA support. The policy is referred to as the Inclusive Education Policy as part of the Ministry's commitment to the UNESCO Regional Initiative on Inclusive Education held in Samoa held in 2005. The policy completed in 2008 and ready for implementation in 2009
 
 43
 
@@ -1582,16 +1489,17 @@ The Policy on Special Education has been developed with wide consultation throug
 
 [[START OF PAGE 44]]
 
-1.12 Rural schools and facilities upgraded | Improving schools' infrastructure and facilities continue to be a priority for the MoE despite the limited capital budgetary provision annually. The Ministry acknowledges the support from our developmental partners such as the FESP- EU and AusAID, JICA and other donor, private and Non- government agencies. A School Disadvantaged Index formula was developed and used to provide a more equitable approach in the selection of schools for assistance in this area. A total of 319 schools received assistance from the European Union rural infrastructure upgrading project implemented in 2005. 24 schools have been completed, 18 schools have now works under construction, 25 schools are awaiting the award of contracts to identified contractors, 34 schools have been identified and surveyed to receive solar power during 2008, 27 schools have been identified to receive grants through the Non State Actor (NSA) component and 54 schools have been awarded grants through the MoE's Building Grant system. 74 Schools in the Improving School Performance Project had been assisted through the EU support and MoE building grant allocation. 137 schools will be put out to tender for new timber structures. A $1 million grant has been awarded to the reconstruction of the burnt RKS double storey hostel. The Ministry however continues with its infrastructure upgrading in schools. The type of capital
+1.12 Rural schools and facilities upgraded | Improving schools' infrastructure and facilities continue to be a priority for the MoE despite the limited capital budgetary provision annually. The Ministry acknowledges the support from our developmental partners such as the FESP- EU and AusAID, JICA and other donor, private and Non-government agencies. A School Disadvantaged Index formula was developed and used to provide a more equitable approach in the selection of schools for assistance in this area. A total of 319 schools received assistance from the European Union rural infrastructure upgrading project implemented in 2005. 24 schools have been completed, 18 schools have now works under construction, 25 schools are awaiting the award of contracts to identified contractors, 34 schools have been identified and surveyed to receive solar power during 2008, 27 schools have been identified to receive grants through the Non State Actor (NSA) component and 54 schools have been awarded grants through the MoE's Building Grant system. 74 Schools in the Improving School Performance Project had been assisted through the EU support and MoE building grant allocation. 137 schools will be put out to tender for new timber structures. A $1 million grant has been awarded to the reconstruction of the burnt RKS double storey hostel. The Ministry however continues with its infrastructure upgrading in schools. The type of capital constructions includes new capital construction and upgrading of schools and boarding facilities.
 --- | --- | ---
 1.13 Students with special needs are integrated into the main stream | 200 students with special needs had been integrated into the mainstream from 2006 - 2008. These included 45 with hearing impairment, 27 with physical impairment, 19 with visual impairment and 112 with academic impairment.
 1.14 Pre-service and existing teacher education and training is strengthened in special education | In-service training and capacity building of teachers teaching in special schools continued through Donor support. The overseas short courses had been supported through JICA. Local training of teachers in the new curriculum framework was through the support of FESP AusAID and FESP - EU.
 1.15Benchmarks for minimum standards of buildings provided by 2006 | A review of the current building plans was carried by Public Works department and FESP- EU in 2006. This has guided the assessment of all building plans submitted for assistance.
 1.16Pre-school enrolment reaches the national target of 10% increase in rural areas by 2007 | In 2006, the available data shows a total of 8, 628 kindergarten enrolment. This gives a 47.23% GER with the projection of 5year olds of 18,267. This result shows that less than fifty percentages of 5 years olds are able to access pre-school. 2007 figures is not available
 1.17 Secondary net enrolment reaches that National target of 80% up to 2008 | In measuring access to education at the secondary level as shown in the table shows that the GER is 85.17%(2006) and NER, 72.87%(2006), the remaining 27.13% of secondary school age students are not in the school system and the NER for males is higher than girls.
-Male | Female Total
-80.04 | 90.68 85.17 | GER
-68.61 | 77.43 72.87 | NER
+ | Male | Female | Total
+--- | --- | --- | ---
+GER | 80.04 | 90.68 | 85.17
+NER | 68.61 | 77.43 | 72.87
 EFA MDA report 2007
 
 44
@@ -1617,72 +1525,45 @@ HQ 1 1
 Total 46 42
 2.6 Excellence in performance is rewarded | Merit pay is being implemented
 2.7 Teacher recruitment process is improved | One of the most significant of FES-AusAID support to the Ministry of Education was the enhancement of the business processes. These include the development of the staffing establishment, leaves and records management system (FESA). In 2007 and 2008, the software was deployed to all central and district offices followed by specialist SQL database training for the IT Unit staff to enable them to maintain FESA independently and basic IT training for all officers at the Central and District levels. As a result of this support, inefficiencies in staffing processes such as long queues of teachers seeking employment or transfers, schools without teachers on the day school starts and complaints of frustration with the delay of teacher appointments had been reduced dramatically. Teacher appointments and transfers can now be done at the district level. In 2008, the Public Service Commission (PSC) has undertaken a project to place all civil servants onto FESA.Closer scrutiny of teacher trainee recruitment process in place with more thorough character vetting
-
+2.8 A new staffing formula is applied to schools in Fiji | A development of a new secondary staffing formula is in process. Consultations continuing with the Teacher Unions, members of the Principals Association and key stakeholders.
+2.9 Human Resources | The HRM unit is part of a number of new units established with the support of FESP-
 45
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-Management Unit is established and workforce plan is completed
+Management Unit is established and workforce plan is completed | AusAID in 2006. The support also included building the capacity of the unit to effectively develop the unit business plans, training of unit staff in contemporary human resource management and workforce planning. Succession plan, Human Resources Development plan, Training Needs Analysis and Training Plan submitted.
 
-- 2.10 Appropriately trained GIA teachers progressively absorbed into the civil service.
+2.10 Appropriately trained GIA teachers progressively absorbed into the civil service. | All of the 1351 GIA's were absorbed into civil service. This was done through a selection process or checking system to see that they meet the requirements for permanent or temporary positions.
 
 Performance measures
 
-- 3.1 Financial accounts from school management committees are audited and submitted
-
-- 3.2 Number of schools that pilot Standards Monitoring process
-
-- 3.3 Consultation has increased with key education stakeholders
-
-AusAID in 2006. The support also included building the capacity of the unit to effectively develop the unit business plans, training of unit staff in contemporary human resource management and workforce planning.  Succession plan, Human Resources Development plan, Training Needs Analysis and Training Plan submitted.
-
-All of the 1351 GIA's were absorbed into civil service. This was done through a selection process or checking system to see that they meet the requirements for permanent or temporary positions.
-
 ## Outcome 3 : Community will have greater participation in education
 
-SMC Audited Reports
-
+3.1 Financial accounts from school management committees are audited and submitted | SMC Audited Reports
 0
-
 100
-
 200
-
 300
-
 400
-
 500
-
 600
-
 700
-
 800
-
 900
-
 2002
-
 2003
-
 2004
-
 2005
-
 2006
-
 2007
-
 2008
-
-The submission rate of financial accounts from school management committee had improved significantly over the period 2002 to 2008.  The trends from 2002 to 2007, data obtained from SIMS, shows a steady progress of improved numbers of submitted audited reports.  District Office data indicated that the 'real' numbers of returns over the last two years is a great deal higher than the SIMS data indicates.
+The submission rate of financial accounts from school management committee had improved significantly over the period 2002 to 2008. The trends from 2002 to 2007, data obtained from SIMS, shows a steady progress of improved numbers of submitted audited reports. District Office data indicated that the 'real' numbers of returns over the last two years is a great deal higher than the SIMS data indicates.
 
 The 2008 data was obtained direct from the District Education Offices, (as SIMS data will only be available for 2008 well into 2009). This data shows that 819 schools (i.e. 93%) have provided audited financial records in 2008
 
-The External Review Team [ERT] carried out 85 pilot external school visits in all four divisions. The review visits assessed the extent of standards and monitoring policy implementation at the school level and the type of policy and  planning support the school still require for the trial external review processes.43/85 visits were carried in the Western Division. The findings of the external review visits show that all of the 43 schools have undertaken self assessment, 42 have commenced the preparation of plans, 25 have completed plans and 40(93%) have undertaken a review of their performance. The findings of surveys of the District confirm the high percentage of schools that have completed a school review.
+3.2 Number of schools that pilot Standards Monitoring process | The External Review Team [ERT] carried out 85 pilot external school visits in all four divisions. The review visits assessed the extent of standards and monitoring policy implementation at the school level and the type of policy and planning support the school still require for the trial external review processes.43/85 visits were carried in the Western Division. The findings of the external review visits show that all of the 43 schools have undertaken self assessment, 42 have commenced the preparation of plans, 25 have completed plans and 40(93%) have undertaken a review of their performance. The findings of surveys of the District confirm the high percentage of schools that have completed a school review.
 
 Central | Eastern | Northern | Western | Total
 --- | --- | --- | --- | --- | ---
@@ -1690,7 +1571,7 @@ Annual Plan 2008 | 25 | 42 | 95 | 99 | 26
 Annual Plan 2009 | 82 | 32 | 141 | 119 | 274
 Strategic Plan | 118 | 81 | 225 | 259 | 683
 
-Consultation has become an important part of the administration and management process in education delivery. This is carried out through various educational boards such as DSMB,
+3.3 Consultation has increased with key education stakeholders | Consultation has become an important part of the administration and management process in education delivery. This is carried out through various educational boards such as DSMB,
 
 46
 
@@ -1698,31 +1579,13 @@ Consultation has become an important part of the administration and management p
 
 [[START OF PAGE 47]]
 
-3.4 Parents/Guardians are involved in ECD awareness programs
+Education Forum. Consultation is part of the planning and implementation of new development in policy and planning and other education initiatives.
 
-3.5 Increase in the numbers of school management and schools leaders have access to joint management training
+3.4 Parents/Guardians are involved in ECD awareness programs | There has been extensive consultation and awareness conducted with parents, communities and other key stakeholder in the development of a new Kindergarten curriculum guidelines. A total of awareness 60 awareness workshops and professional development program across the four divisions in the last 3 years. As an outcome of the consultation, the new Kindergarten curriculum guidelines was developed and approved in 2007. The guidelines were trialed in the western division in 2008 and revised. The revised guidelines will be expanded to all four divisions in 2009.
 
-3.6 Community/private sector resources are used to promote life-long learning
+3.5 Increase in the numbers of school management and schools leaders have access to joint management training | Classification of participants in the joint school leadership and management training
 
-Performance measures
-
-4.1 A new screening and recruitment process for teachers and non-teaching staff is developed and implemented by 2007
-
-4.2 Protective behavior curriculum programme is developed and implemented by 2008
-
-4.3 Pastoral care system is developed and implemented
-
-4.4 School counselors are appointed
-
-4.5 Ministry of Education OHS trainers are accredited and number of school staff are trained
-
-Education  Forum.  Consultation  is  part  of  the  planning  and  implementation  of  new development in policy and planning and other education initiatives.
-
-There has been extensive consultation and awareness conducted with parents, communities and other key stakeholder in the development of a new Kindergarten curriculum guidelines. A total of awareness 60 awareness workshops and professional development program across the four divisions in the last 3 years. As an outcome of the consultation, the new Kindergarten curriculum guidelines was developed and approved in 2007. The guidelines were trialed in the western division in 2008 and revised. The revised guidelines will be expanded to all four divisions in 2009.
-
-Classification of participants in the joint school leadership and management training
-
-Participants | Schools | School Heads % | Management %
+ | Participants | Schools | School Heads % | Management %
 --- | --- | --- | --- | ---
 Western | 872 | 321 | 93 | 67
 Eastern | 359 | 103 | 96 | 96
@@ -1732,23 +1595,25 @@ TOTAL | 2176 | 905
 
 In 2006 -2008, all schools and school management committee were given the opportunity to attend the joint management training. In 2008 alone, in the 69 workshops conducted, 2176 school leaders from 905 schools, District Office staff and trainers participated. The table also shows the % of school management committee attendance.
 
-Community and private sectors support is valuable to the education of children in Fiji. This is evident from the number of schools that is owned by school management who own and provide most of resources for the schools. Community support is prominent in the area of Kindergarten, Special Education and TVET.
+3.6 Community/private sector resources are used to promote life-long learning | Community and private sectors support is valuable to the education of children in Fiji. This is evident from the number of schools that is owned by school management who own and provide most of resources for the schools. Community support is prominent in the area of Kindergarten, Special Education and TVET.
+
+Performance measures
 
 ## Outcome 4: Children will be Safe and Cared for.
 
-Non teaching staff appointment has been withdrawn to PSC after the withdrawal of delegated powers.
+4.1 A new screening and recruitment process for teachers and non-teaching staff is developed and implemented by 2007 | Non teaching staff appointment has been withdrawn to PSC after the withdrawal of delegated powers.
 
 The screening process for teaching staff has been upgraded. The efficiencies and effectiveness of the system will require that there is commitment from all relevant sections in the cleaning of the data.
 
-Family Life Education (FLE) under the MoE is designed to assist young people to develop and cope with the many transitions they will face on their journey from childhood to adulthood. The focus is on life skills learning that will that will assist them understand changes and the need to change in order to build their character .
+4.2 Protective behavior curriculum programme is developed and implemented by 2008 | Family Life Education (FLE) under the MoE is designed to assist young people to develop and cope with the many transitions they will face on their journey from childhood to adulthood. The focus is on life skills learning that will that will assist them understand changes and the need to change in order to build their character.
 
 The FLE programme has been delivered by MoE in partnership with UNFPA, UNICEF and SPC. A review of the curriculum and the development of the support materials and relevant teacher training done through the support from the regional Adolescent Reproductive Health (ARH) programme. Currently a Family Life Draft syllabus for F1-F7 has been developed. The revised curriculum was introduced in classes 3 and 4 and Form3 syllabus trialed in 10 schools.
 
-There is no specific pastoral care programme for schools; however church schools have their own pastoral programs mainly in the area of religious education and many schools also offer other programme that will help children in their growth and development.
+4.3 Pastoral care system is developed and implemented | There is no specific pastoral care programme for schools; however church schools have their own pastoral programs mainly in the area of religious education and many schools also offer other programme that will help children in their growth and development.
 
-There are only 29 established counselor positions in schools therefore not all schools in Fiji have access to qualified counselors.
+4.4 School counselors are appointed | There are only 29 established counselor positions in schools therefore not all schools in Fiji have access to qualified counselors.
 
-The Ministry has conducted OHS awareness to all Principals and Head Teachers with the exception of those taking up leadership positions in schools in 2008.  This is an area that will require more support. There is still a need for MoE to have accredited trainers for the sustainability of OHS implementation in schools.
+4.5 Ministry of Education OHS trainers are accredited and number of school staff are trained | The Ministry has conducted OHS awareness to all Principals and Head Teachers with the exception of those taking up leadership positions in schools in 2008. This is an area that will require more support. There is still a need for MoE to have accredited trainers for the sustainability of OHS implementation in schools.
 
 47
 
@@ -1756,23 +1621,13 @@ The Ministry has conducted OHS awareness to all Principals and Head Teachers wit
 
 [[START OF PAGE 48]]
 
-4.6 A Policy on Excursions developed and implemented by 2007
-
-- 4.7 Scholastic crime stopper centers are established
-
-Performance measures
-
-5.1Language policy is developed and implemented by 2008
-
-- 5.2 Improvement in the number of Fijian and disadvantaged students achieve high quality passes in the FJC, FSLC and FSFE Examination
-
 The assessment of schools for supports through the EU project shows many substandard buildings and many lack standard plans. Through DISMAC, Disaster preparedness manual have been developed and are now available to incorporate in the school curriculum. This will assist schools to put in safety measures for the safety of students, teachers and the community with the school premises.
 
-A policy on excursions developed in 2006 approved and has been distributed to all schools in Fiji through CD's. Printed copy distributed to all school in 2008.
+4.6 A Policy on Excursions developed and implemented by 2007 | A policy on excursions developed in 2006 approved and has been distributed to all schools in Fiji through CD's. Printed copy distributed to all school in 2008.
 
-NSAAC has conducted extensive awareness workshop on Drug awareness and HHIV/AIDS. A total of 48 workshops conducted for Community/ School Leaders. [2006 23, 2007 - 5, 2008 - 20]. There were other activities running concurrently focusing on the same theme through radio broadcast, TV advertisement and through public awareness. [ 20 Radio Broadcast/Interview ; 1 TV Advertisement - campaign towards IDADAIT; 25 Quick Response Presentation to schools, church, youth groups etc. and 5 Public Awareness  e.g. Children's Day, World Tobacco Day, IDADAIT, World AIDS Day, Stop Stigma - Mental Health Week.]
+NSAAC has conducted extensive awareness workshop on Drug awareness and HHIV/AIDS. A total of 48 workshops conducted for Community/ School Leaders. [2006 - 23, 2007 - 5, 2008 - 20]. There were other activities running concurrently focusing on the same theme through radio broadcast, TV advertisement and through public awareness. [20 Radio Broadcast/Interview ; 1 TV Advertisement - campaign towards IDADAIT; 25 Quick Response Presentation to schools, church, youth groups etc. and 5 Public Awareness e.g. Children's Day, World Tobacco Day, IDADAIT, World AIDS Day, Stop Stigma - Mental Health Week.]
 
-The Crime Stoppers in Schools programme has continued to gain recognition across the schools in Fiji. The programme has supported the schools in their awareness aimed at reducing incidences of criminal activity in schools by the students. Currently there are 166 Secondary School in Fiji implementing this programme and is continued to be coordinated and supported by the police department
+4.7 Scholastic crime stopper centers are established | The Crime Stoppers in Schools programme has continued to gain recognition across the schools in Fiji. The programme has supported the schools in their awareness aimed at reducing incidences of criminal activity in schools by the students. Currently there are 166 Secondary School in Fiji implementing this programme and is continued to be coordinated and supported by the police department
 
 Distribution of school crime stoppers centre by Education Districts
 
@@ -1791,58 +1646,25 @@ Total | 70
 
 Source: Ministry of Education / Police Department of Fiji
 
+Performance measures
+
 ## Outcome 5: Students will have increased awareness of Nation Building, Culture and values
 
-Language policy developed in 2007. The conversational Fijian and Hindi programme had been reviewed. Training and awareness programme conducted and resources [CDs, audio tapes and books] developed as part of the language policy pilot in the Central Division in 2008.  National implementation planned to commence in  2009
+5.1Language policy is developed and implemented by 2008 | Language policy developed in 2007. The conversational Fijian and Hindi programme had been reviewed. Training and awareness programme conducted and resources [CDs, audio tapes and books] developed as part of the language policy pilot in the Central Division in 2008. National implementation planned to commence in 2009
 
-Performance of Fijian Students in the Secondary public examination
-
+5.2 Improvement in the number of Fijian and disadvantaged students achieve high quality passes in the FJC, FSLC and FSFE Examination | Performance of Fijian Students in the Secondary public examination
 0
-
 20
-
 40
-
 60
-
 80
-
 100
-
+2006
+2007
+FJC(N) | FJC (P) | FSLC | FSFE
+2006 | 82 | 86 | 55 | 74
+2007 | 79 | 76 | 56 | 68
 Examination
-
-2006
-
-2007
-
-2006
-
-82
-
-86
-
-55
-
-74
-
-2007
-
-79
-
-76
-
-56
-
-68
-
-FJC(N)
-
-FJC (P)
-
-FSLC
-
-FSFE
-
 Results for Fijian and disadvantaged students need to be closely monitored for quality marks.
 
 48
@@ -1895,7 +1717,7 @@ Performance measures |
 
 [[START OF PAGE 51]]
 
-7.15 Career expositions are conducted annually | A key role of the careers unit is to coordinate the careers expositions in all schools in Fiji. This provided the students with information on scholarship and details information on career options that may be relevant to their focus of study. In 2007, a total of 68 schools participated in the 7 Expos conducted with about 22 exhibitors. In 2008, 9 expos were conducted with about 23 exhibitors in total and were attended by 90 schools. The TVET section also conducted expos for the Enterprise Education [EE] activity n 2005 - 2006. In 2007, the EE expo was combined with TVET in the 3 main divisions. In 2008 a 3 day TVET expo coincided with the TVET Week from the 4 - 8 August 2008 and a 2 day symposium in 3 Education Divisions. The Expo was organized by the MoE in partnership
+7.15 Career expositions are conducted annually | A key role of the careers unit is to coordinate the careers expositions in all schools in Fiji. This provided the students with information on scholarship and details information on career options that may be relevant to their focus of study. In 2007, a total of 68 schools participated in the 7 Expos conducted with about 22 exhibitors. In 2008, 9 expos were conducted with about 23 exhibitors in total and were attended by 90 schools. The TVET section also conducted expos for the Enterprise Education [EE] activity n 2005 - 2006. In 2007, the EE expo was combined with TVET in the 3 main divisions. In 2008 a 3 day TVET expo coincided with the TVET Week from the 4 - 8 August 2008 and a 2 day symposium in 3 Education Divisions. The Expo was organized by the MoE in partnership with donor agencies with a totaled budget of $39,500.00.
 --- | ---
 Performance measures |
 ## Outcome 8 : Increase participation in education for children and adults
@@ -1907,8 +1729,8 @@ Performance measures |
 ## Outcome 9 : Improved management through accountability, policies and programs
 9.1 Five new policies are developed each year for the next three years | A total of fifteen policies developed, 5 in 2006, 5 in 2007 and 5 in 2008.
 9.2 Training in monitoring and evaluation is conducted in 2006 | M&E training conducted for MoE Senior Management in 2006 focused on Action Research model. The skills learnt were useful in the preparation of monthly section reports on progress of activity implementation. Local counterparts also trained in applying M&E learning to their work. There has been evidence of the use of data being presented for evidence based decision making. More training conducted in 2007 and 2008 for senior executive, districts SEO's and data entry clerks in M&E.
-9.3 A process for reviewing school performance is developed by 2007 | Standards Monitoring in Schools Policy Framework developed in 2006. This includes schools self assessment, planning, external review and reporting. Training on the policy and implementation details conducted in 2007 - 8. An implementation process was scoped in consultation with the relevant senior management and the external school reviews was trialed during in 2008. This included the identification of schools, coordination of visits with District Offices, training of external reviewers, preparation of report templates and data management tools. A total of 30 MoE Officers based in Districts and Sections were identified and undertook training as reviewers. The training included two one-day workshops, four trial school review visits each and preparation of external school review reports. Of the 30 participants, 18 successfully completed all aspects of the training and demonstrated an acceptable level of competency in readiness for 2009. The workshop evaluation data indicated that reviewers were more confident and able to undertake the role of external reviewer. Further training is required in data analysis, report writing and questioning/observational skills.
-9.4 Education Act is reviewed by 2008 | School Review process will be fully implemented in 2009. The scoping work for the review of the Education Act conducted in 2005. The process of review commenced in 2007 and a draft of the reviewed Education Act completed in 2008.
+9.3 A process for reviewing school performance is developed by 2007 | Standards Monitoring in Schools Policy Framework developed in 2006. This includes schools self assessment, planning, external review and reporting. Training on the policy and implementation details conducted in 2007 - 8. An implementation process was scoped in consultation with the relevant senior management and the external school reviews was trialed during in 2008. This included the identification of schools, coordination of visits with District Offices, training of external reviewers, preparation of report templates and data management tools. A total of 30 MoE Officers based in Districts and Sections were identified and undertook training as reviewers. The training included two one-day workshops, four trial school review visits each and preparation of external school review reports. Of the 30 participants, 18 successfully completed all aspects of the training and demonstrated an acceptable level of competency in readiness for 2009. The workshop evaluation data indicated that reviewers were more confident and able to undertake the role of external reviewer. Further training is required in data analysis, report writing and questioning/observational skills. School Review process will be fully implemented in 2009.
+9.4 Education Act is reviewed by 2008 | The scoping work for the review of the Education Act conducted in 2005. The process of review commenced in 2007 and a draft of the reviewed Education Act completed in 2008.
 9.5 PMS is implemented | PMS was suspended in 2004 as a result of an agreement between the Government , PSC and the Public Service Unions. (Ref. PSC Circular 21/06).However, prior to shelving, training was conducted for all the teachers and staff of MoE, likewise Training of Trainers.
 
 51
