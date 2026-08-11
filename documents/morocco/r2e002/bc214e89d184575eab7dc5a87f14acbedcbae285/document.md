@@ -12,17 +12,17 @@ BULLETIN OFFICIEL
 
 LOUANGE A DIEU SEUL !
 
-Attendu que la traduction des principes, orientations et objectifs de la réforme du système dans une loi-cadre est à même de garantir une application optimale de ses dispositions, d'assurer sa continuité en tant que référence législative contraignante pour la mise en place du dispositif législatif et réglementaire nécessaire à la réalisation des objectifs et la mise en œuvre des orientations et des principes qu'elle énonce ;
-
 (Grand Sceau de Sa Majesté Mohammed VI)
 
 Que l'on sache par les présentes - puisse Dieu en élever et en fortifier la teneur !
 
 Que Notre Majesté Chérifienne,
 
-Vu la Constitution, notamment ses articles 42 et 50, A DÉCIDÉ CE QUI SUIT :
+Vu la Constitution, notamment ses articles 42 et 50,
 
-Est promulguée et sera publiée au Bulletin officiel , à la suite du présent dahir, la loi-cadre n° 51-17 relative au système d'éducation, de formation et de recherche scientifique, telle qu'adoptée par la Chambre des représentants et la Chambre des conseillers.
+A DÉCIDÉ CE QUI SUIT :
+
+Est promulguée et sera publiée au Bulletin officiel, à la suite du présent dahir, la loi-cadre n° 51-17 relative au système d'éducation, de formation et de recherche scientifique, telle qu'adoptée par la Chambre des représentants et la Chambre des conseillers.
 
 Fait à Tétouan, le 7 hija 1440 (9 août 2019).
 
@@ -40,11 +40,13 @@ SAAD DINE EL OTMANI.
 
 ### Préambule
 
-Conformément  aux  dispositions  de  la  Constitution du  Royaume  et  aux  conventions  internationales  relatives aux droits de l'Homme dûment ratifiées par le Royaume du Maroc ou auxquelles il adhère, et en vue de mettre en œuvre la recommandation de la vision stratégique de la réforme 20152030 approuvée par Sa Majesté le Roi Mohammed VI, que Dieu l'assiste, appelant à traduire ses grands choix en une loi-cadre, incarnant un pacte national qui engage toutes les parties et que tous s'engagent à mettre en œuvre ;
+Conformément  aux  dispositions  de  la  Constitution du  Royaume  et  aux  conventions  internationales  relatives aux droits de l'Homme dûment ratifiées par le Royaume du Maroc ou auxquelles il adhère, et en vue de mettre en œuvre la recommandation de la vision stratégique de la réforme 2015-2030 approuvée par Sa Majesté le Roi Mohammed VI, que Dieu l'assiste, appelant à traduire ses grands choix en une loi-cadre, incarnant un pacte national qui engage toutes les parties et que tous s'engagent à mettre en œuvre ;
 
 Considérant  l'importance  et  la  place  du  système d'éducation, de formation et de recherche scientifique dans la réalisation du projet sociétal de Notre pays, ses rôles dans la formation des citoyennes et des citoyens de demain, ainsi que dans la réalisation des objectifs du développement humain et durable et la garantie du droit à l'éducation pour tous, ce qui le met au-devant des priorités nationales ;
 
 Compte  tenu  de  la  convergence  des  volontés  des différentes composantes de la Nation, Etat et société, pour permettre au système national d'éducation, de formation et de recherche scientifique de capitaliser ses acquis, résoudre ses dysfonctionnements et garantir sa réforme globale afin de lui permettre d'assurer pleinement ses fonctions ;
+
+Attendu que la traduction des principes, orientations et objectifs de la réforme du système dans une loi-cadre est à même de garantir une application optimale de ses dispositions, d'assurer sa continuité en tant que référence législative contraignante pour la mise en place du dispositif législatif et réglementaire nécessaire à la réalisation des objectifs et la mise en œuvre des orientations et des principes qu'elle énonce ;
 
 Considérant que la mobilisation sociétale, globale et continue en vue de la mise en œuvre, le suivi et l'évaluation régulière  de  la  réforme  du  système  constitue,  dans  sa complémentarité, un gage supplémentaire pour sa réussite et la réalisation de ses objectifs ;
 
@@ -202,7 +204,7 @@ Nº 6944 - 2 joumada I 1442 (17-12-2020)
 
 #### Article 5
 
-Afin de réaliser les  objectifs  prévus  à  l'article  3  cidessus , dans un cadre de complémentarité, de cohérence et de convergence entre ses composantes et ses niveaux, le système d'éducation, de formation et de recherche scientifique assure les fonctions suivantes :
+Afin de réaliser les  objectifs  prévus  à  l'article  3  ci-dessus , dans un cadre de complémentarité, de cohérence et de convergence entre ses composantes et ses niveaux, le système d'éducation, de formation et de recherche scientifique assure les fonctions suivantes :
 
 - la socialisation et l'éducation aux valeurs de citoyenneté, d'ouverture, de communication et de comportement civique ;
 
@@ -306,11 +308,11 @@ Sont  fixés,  par  voie  réglementaire,  les  conditions et le taux de contrib
 
 #### Article 14
 
-Pour  permettre  aux  établissements  d'éducation, d'enseignement et de formation relevant du secteur privé de respecter leurs engagements prévus dans la présente loi-cadre, notamment ceux relatifs à la contribution du secteur privé à la réalisation des objectifs du système visés à l'article 3 cidessus, et de mettre en œuvre les engagements issus du cadre contractuel stratégique global entre l'Etat et ledit secteur, prévu à l'article 44 de la présente loi-cadre, le gouvernement doit, notamment prendre les mesures suivantes :
+Pour  permettre  aux  établissements  d'éducation, d'enseignement et de formation relevant du secteur privé de respecter leurs engagements prévus dans la présente loi-cadre, notamment ceux relatifs à la contribution du secteur privé à la réalisation des objectifs du système visés à l'article 3 ci-dessus, et de mettre en œuvre les engagements issus du cadre contractuel stratégique global entre l'Etat et ledit secteur, prévu à l'article 44 de la présente loi-cadre, le gouvernement doit, notamment prendre les mesures suivantes :
 
 - réviser le régime d'autorisation, d'accréditation et de reconnaissance des diplômes et le système de contrôle et d'évaluation appliqués auxdits établissements et ce, afin de garantir le respect par ceux-ci des textes législatifs et réglementaires en vigueur et des guides référentiels des normes de qualité prévus à l'article 53 de la présente loi-cadre ;
 
-- mettre en place un régime incitatif afin de permettre auxdits établissements de participer en particulier à l'effort de généralisation de l'enseignement obligatoire et  à  la  réalisation  des  objectifs  de  l'éducation  nonformelle et de contribuer aux programmes de lutte contre l'analphabétisme, notamment dans les milieux ruraux, périurbains et les zones déficitaires ;
+- mettre en place un régime incitatif afin de permettre auxdits établissements de participer en particulier à l'effort de généralisation de l'enseignement obligatoire et  à  la  réalisation  des  objectifs  de  l'éducation  non-formelle et de contribuer aux programmes de lutte contre l'analphabétisme, notamment dans les milieux ruraux, périurbains et les zones déficitaires ;
 
 - fixer  et  réviser,  selon  des  critères  fixés  par  décret, les  frais  d'inscription,  d'études,  d'assurance  et  des services rendus par les établissements d'éducation, d'enseignement et de formation privés.
 
@@ -342,7 +344,7 @@ L'Etat poursuit également ses efforts en vue d'augmenter le  budget  général 
 
 #### Article 17
 
-Conformément aux dispositions de la Constitution, notamment le 1 er  alinéa de son article 71, et en application des dispositions de la présente loi-cadre, les orientations de la politique publique relative à chaque composante du système d'éducation, de formation et de recherche scientifique et son organisation générale sont fixées par des législations particulières, notamment les règles relatives à la structuration et la gouvernance du système, les mécanismes de coordination et d'instauration de passerelles entre ses composantes, les règles générales relatives à son ingénierie pédagogique et linguistique, ainsi que ses sources de financement et son système d'évaluation.
+Conformément aux dispositions de la Constitution, notamment le 1er alinéa de son article 71, et en application des dispositions de la présente loi-cadre, les orientations de la politique publique relative à chaque composante du système d'éducation, de formation et de recherche scientifique et son organisation générale sont fixées par des législations particulières, notamment les règles relatives à la structuration et la gouvernance du système, les mécanismes de coordination et d'instauration de passerelles entre ses composantes, les règles générales relatives à son ingénierie pédagogique et linguistique, ainsi que ses sources de financement et son système d'évaluation.
 
 #### Article 18
 
@@ -536,7 +538,7 @@ La composition et les modalités de fonctionnement de la commission permanente e
 
 #### Article 30
 
-Le cadre et les guides référentiels visés à l'article 28 cidessus sont soumis, avant leur mise en application, à l' avis du Conseil supérieur de l'éducation, de la formation et de la recherche scientifique et à l'approbation de la commission nationale pour le suivi et l'accompagnement de la réforme du système d'éducation, de formation et de recherche scientifique visée à l'article 57 de la présente loi-cadre et ce, dans un délai maximum de 3 ans à compter de la date d'entrée en fonction de la commission.
+Le cadre et les guides référentiels visés à l'article 28 ci-dessus sont soumis, avant leur mise en application, à l' avis du Conseil supérieur de l'éducation, de la formation et de la recherche scientifique et à l'approbation de la commission nationale pour le suivi et l'accompagnement de la réforme du système d'éducation, de formation et de recherche scientifique visée à l'article 57 de la présente loi-cadre et ce, dans un délai maximum de 3 ans à compter de la date d'entrée en fonction de la commission.
 
 #### Article 31
 
@@ -598,7 +600,7 @@ Le  gouvernement  doit  prendre  toutes  les  mesures nécessaires et adéquates
 
 - le développement et l'amélioration de l'enseignement à distance comme complément à l'apprentissage en présentiel ;
 
-- la diversification des modes de formation, de.soutien et d'aide parascolaires ;
+- la diversification des modes de formation, de soutien et d'aide parascolaires ;
 
 - l'intégration progressive de l'enseignement électronique dans la perspective de sa généralisation.
 
@@ -722,7 +724,7 @@ En  outre,  l'Etat  peut,  dans  un  cadre  contractuel stratégique, confier à
 
 #### Article 44
 
-Afin de réaliser les objectifs prévus par la présente loicadre, l'Etat œuvre à la mise en place d'un cadre contractuel stratégique global qui détermine la contribution du secteur privé au développement du système d'éducation, de formation et de recherche scientifique, à l'amélioration de son rendement, de son financement et de sa qualité, ainsi qu'à la diversification de  l'offre  en  matière  d'éducation,  d'enseignement  et  de formation, sous réserve des principes d'équilibre spatial au niveau territorial, en donnant la priorité aux zones déficitaires en structures scolaires. Ledit cadre contractuel détermine également les mesures incitatives dont le secteur privé peut bénéficier dans le cadre de l'exécution de ses obligations contractuelles avec l'Etat.
+Afin de réaliser les objectifs prévus par la présente loi-cadre, l'Etat œuvre à la mise en place d'un cadre contractuel stratégique global qui détermine la contribution du secteur privé au développement du système d'éducation, de formation et de recherche scientifique, à l'amélioration de son rendement, de son financement et de sa qualité, ainsi qu'à la diversification de  l'offre  en  matière  d'éducation,  d'enseignement  et  de formation, sous réserve des principes d'équilibre spatial au niveau territorial, en donnant la priorité aux zones déficitaires en structures scolaires. Ledit cadre contractuel détermine également les mesures incitatives dont le secteur privé peut bénéficier dans le cadre de l'exécution de ses obligations contractuelles avec l'Etat.
 
 Le cadre contractuel visé à l'alinéa précédent doit tenir compte, notamment des normes de gouvernance, de qualité, de concentration géographique, du coût de scolarisation et du rendement.
 
