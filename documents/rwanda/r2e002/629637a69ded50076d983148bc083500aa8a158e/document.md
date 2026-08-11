@@ -26,7 +26,7 @@ OG N°14  OF 06 04 2009
 
 Ingingo ya 8 : Ikiruhuko cy'ububyeyi | Article 8: Maternity leave | Article 8 : Congé de maternité
 --- | --- | ---
-Ingingo ya 9 : Uburenganzira bw'umugore utwite cyangwa wabyaye | Article 9: Rights of a pregnant woman or of a woman who delivers | Article 9 : Droits d' une femme enceinte ou qui a accouché
+Ingingo ya 9 : Uburenganzira bw'umugore utwite cyangwa wabyaye | Article 9: Rights of a pregnant woman or of a woman who delivers | Article 9 : Droits d'une femme enceinte ou qui a accouché
 Ingingo ya 10: Kurinda ihohoterwa, gutabara no kwita ku bahohotewe | Article 10: Preventing violence and catering for the victims of violence | Article 10 : Prévention et d'assistance de la violence et assistance aux victimes de la violence
 Ingingo ya 11: Gukumira ibikorwa by'urukozasoni | Article 11: Prevention of indecent acts | Article 11 : Prévention contre actes d'outrage aux bonnes mœurs
 UMUTWE WA III : IMANZA N'IBIHANO BY'IHOHOTERWA RISHINGIYE KU GITSINA | CHAPTER III: CASES AND PENALTIES FOR GENDER BASED VIOLENCE | CHAPITRE III : PROCES ET PEINES CONTRE LA VIOLENCE BASEE SUR LE GENRE
@@ -34,7 +34,7 @@ Icyiciro cya mbere : Imanza z'ihohoterwa rishingiye ku gitsina | Section One: Ca
 Ingingo ya 12: Aho urubanza ruburanishirizwa | Article 12: Place of hearing | Article 12 : Lieu de jugement du procès
 Ingingo ya 13 : Itangwa ry'ubuhamya n'ibimenyetso | Article 13: Production of evidences and testimonies | Article 13 : Administration du témoignage et de la preuve
 Icyiciro cya 2 : Ibihano by'ibyaha by'ihohoterwa rishingiye ku gitsina | Section 2: Penalties for gender based violence offences | Section 2 : Peines pour infractions de violence basée sur le genre
-Ingingo ya 1 4: Igihano cy'icyaha cy' ubusambanyi | Article 14: Penalty for adultery | Article 14 : Peine pour cause d'adultère
+Ingingo ya 14: Igihano cy'icyaha cy' ubusambanyi | Article 14: Penalty for adultery | Article 14 : Peine pour cause d'adultère
 Ingingo ya 15: Gukurikirana icyaha cy'ubusambanyi | Article 15: Prosecution for adultery | Article 15 : Poursuites de l'infraction d'adultère
 
 82
@@ -54,7 +54,7 @@ Ingingo ya 20: Igihano cy'uhoza ku nkeke uwo bashyingiranywe | Article 20 : Pena
 Ingingo ya 21 : Igihano cy'uwagaragaweho igikorwa cy'ubushoreke | Article 21: Penalty for concubinage | Article 21 : Peine pour concubinage
 Ingingo ya 22: Igihano cy'ubuharike | Article 22: Penalty for polygamy | Article 22 : Peine pour polygamie
 Ingingo ya 23 : Igihano cy'uwigarurira umuntu hagamijwe kwishimisha | Article 23 Penalty for sexual slavery | Article 23 : Peine pour harcèlement sexuel
-Ingingo ya 24 : Igihano cy'uhoza uwo ak uriye mu kazi ku nkeke bishingiye ku gitsina | Article 24: Penalty for sexual harassment of one's subordinate | Article 24: Peine pour harcèlement sexuel envers son subalterne
+Ingingo ya 24 : Igihano cy'uhoza uwo akuriye mu kazi ku nkeke bishingiye ku gitsina | Article 24: Penalty for sexual harassment of one's subordinate | Article 24: Peine pour harcèlement sexuel envers son subalterne
 Ingingo ya 25 : Igihano cy'uwishe uwo bashyingiranywe | Article 25: Penalty for someone who kills his/her spouse | Article 25 : Peine pour meurtre du conjoint
 Ingingo ya 26: Igihano cy'ubuza umudendezo uwo bashyingiranywe ashingiye ku gitsina | Article 26: Penalty for distorting tranquility of one's spouse on sexual grounds | Article 26: Peine pour atteinte à la tranquilité de son conjoint pour des raisons sexuelles
 Ingingo ya 27 : Igihano cy'uwangiza imyanya | Article 27: Penalty for sexual torture | Article 27 : Peine pour torture sexuelle
@@ -76,7 +76,7 @@ Ingingo ya 30 : Igihano cy'ihohoterwa rikoresheje imiti, ibiyobyabwenge, amashus
 Ingingo ya 31 : Igihano cy'ibikorwa by'urukozasoni bishingiye ku gitsina | Article 31: Penalty for committing sexually indecent acts | Article 31: Peine pour outrage aux bonnes moeurs basées sur le genre
 Ingingo ya 32 : Igihano cy'ihohoterwa rikorewe ugeze mu za bukuru | Article 32: Penalty for violence against an eldery person | Article 32: Peine pour violence contre les personnes âgées
 Ingingo ya 33 : Igihano cy'ihohoterwa rikorewe ufite ubumuga | Article 33: Penalty for violence against a handicapped person | Article 33: Peine pour violence contre les personnes handicapées
-Ingingo ya 34 : Igihano cy'ihohoterwa rigamije gutesha umuntu agaciro cyangwa kugatesha umurimo we | Article 34: Penalty for defaming a person or his/her job | Article 34: Peine pour violence visant la diffamation d' une personne ou de son travail
+Ingingo ya 34 : Igihano cy'ihohoterwa rigamije gutesha umuntu agaciro cyangwa kugatesha umurimo we | Article 34: Penalty for defaming a person or his/her job | Article 34: Peine pour violence visant la diffamation d'une personne ou de son travail
 Ingingo ya 35 : Igihano cy'ihohoterwa rikoresheje ibikangisho byo gutakaza ibyo ufiteho uburenganzira | Article 35: Penalty for violence on the grounds of depriving someone of his/her rights | Article 35: Peine pour violence basée sur les menaces de perte de ses droits
 Ingingo ya 36 : Igihano cy'uwanga gutabara uwahohotewe cyangwa uwanga gutanga ubuhamya ku ihohoterwa | Article 36: Penalty for a person refusing to assist the victim of violence or to testify over the violence | Article 36: Peine pour non assistance à la victime de la violence ou refus de témoigner sur la violence
 Ingingo ya 37 : Igihano cy'uwabeshyeye undi | Article 37: Penalty for lying against | Article 37: Peine pour fausse accusation de
@@ -105,7 +105,7 @@ Ingingo ya 41: Igihe iri tegeko ritangira gukurikizwa | Article 41: Commencement
 
 OG N°14  OF 06 04 2009
 
-# ITEGEKO N°59/2008 RYO KUWA 10/09/2008  RIKUMIRA  KANDI  RIHANA IHOHOTERWA  IRYO  ARI  RYO  RYOSE RISHINGIYE KU GITSINA LAW  N°59/2008 OF 10/09/2008 ON PREVENTION  AND  PUNISHMENT  OF GENDER- BASED VIOLENCE
+# ITEGEKO N°59/2008 RYO KUWA 10/09/2008 RIKUMIRA KANDI RIHANA IHOHOTERWA IRYO ARI RYO RYOSE RISHINGIYE KU GITSINA
 
 Twebwe, KAGAME Paul, Perezida wa Repubulika;
 
@@ -118,6 +118,8 @@ Umutwe w'Abadepite, mu nama yawo yo ku wa 23 Nyakanga  2008;
 Umutwe wa Sena, mu nama yawo yo ku wa 15 Nyakanga  2008 ;
 
 Ishingiye  ku  Itegeko  Nshinga  rya  Repubulika y'u Rwanda ryo ku wa 04 Kamena 2003 nk'uko ryavuguruye kugeza ubu, cyane cyane mu ngingo zaryo, iya 9, iya 10, iya 11, iya 15, iya 16, iya 17, iya 22,    iya 26, iya 27, iya 28, iya 62, iya 66, iya 67, iya 88, iya 89, iya 90, iya 92, iya 93, iya 95, iya 108, iya 118 n'iya 201;
+
+# LAW N°59/2008 OF 10/09/2008 ON PREVENTION AND PUNISHMENT OF GENDER- BASED VIOLENCE
 
 We, KAGAME Paul, President of the Republic;
 
@@ -137,7 +139,7 @@ Nous, KAGAME Paul,
 
 Président de la République ;
 
-LE  PARLEMENT  A  ADOPTE  ET  NOUS SANCTIONNONS, PROMULGUONS LA LOI DONT LA TENEUR SUIT ET ORDONNONS  QU' ELLE  SOIT  PUBLIEE AU JOURNAL OFFICIEL DE LA REPUBLIQUE DU RWANDA
+LE PARLEMENT A ADOPTE ET NOUS SANCTIONNONS, PROMULGUONS LA LOI DONT LA TENEUR SUIT ET ORDONNONS QU'ELLE SOIT PUBLIEE AU JOURNAL OFFICIEL DE LA REPUBLIQUE DU RWANDA
 
 ## LE PARLEMENT:
 
@@ -155,19 +157,21 @@ Vu  la  Constitution  de  la  République  du  Rwanda du  04  juin  2003  telle 
 
 OG N°14  OF 06 04 2009
 
-Ishingiye ku Masezerano Mpuzamahanga yerekeye uburenganzira mu by'imbonezamubano  na  politiki  yo  ku  wa  19 Ukuboza 1966 yemejwe n'Itek a rya Perezida n° 8/75 ryo ku wa 12/02/1975;
+Ishingiye ku Masezerano Mpuzamahanga yerekeye uburenganzira mu by'imbonezamubano na politiki yo ku wa 19 Ukuboza 1966 yemejwe n'Iteka rya Perezida n° 8/75 ryo ku wa 12/02/1975;
 
 Ishingiye ku Masezerano Mpuzamahanga yerekeye uburenganzira mu by'ubukungu, imibereho myiza n'umuco yo ku wa 19 Ukuboza 1966 yemejwe n'Iteka rya Perezida  n° 8/75 ryo ku wa 12/02/1975;
 
 Ishingiye ku Masezerano Mpuzamahanga yerekeye  guca  burundu  ivangura  iryo  ari  ryo ryose rikorerwa abagore yo ku ya mbere Gicurasi 1980 yemejwe n'Iteka rya Perezida n° 431/16 ryo ku wa 10/11/1981;
 
-Ishingiye  ku  Masezerano  Nyafurika  yerekeye uburenganzira  bwa  muntu  n'ubw'abaturage  y o 27 Kamena 1981 yemejwe n'Iteka rya Perezida n° 10/1983 ryo ku wa 17/05/1985;
+Ishingiye ku Masezerano Nyafurika yerekeye uburenganzira bwa muntu n'ubw'abaturage yo 27 Kamena 1981 yemejwe n'Iteka rya Perezida n° 10/1983 ryo ku wa 17/05/1985;
 
 Ishingiye ku Masezerano Mpuzamahanga yerekeye  uburenganzira  bw'umwana  yo  ku  wa ku  wa  20  Ugushyingo  1989 yemejwe  n'Iteka rya Perezida n° 773/16 ryo ku wa 19/09/1990;
 
 Ishingiye  ku  Itegeko-teka  n°  21/77  ryo  ku  wa 18/08/1977 rishyiraho Igitabo  cy'Amategeko Ahana;
 
-Ishingiye  ku  Itegeko  n°  42/1988  ryo  ku  wa 27/10/1988 rishyiraho Interuro y'Ibanze n'Igitabo cya Mbere cy'Urwunge Pursuant  to  the  International  Covenant  on Civil  and  Political  Rights  of  19  December 1966 ratified by the Presidential Order n° 8/75 of 12/02/1975;
+Ishingiye ku Itegeko n° 42/1988 ryo ku wa 27/10/1988 rishyiraho Interuro y'Ibanze n'Igitabo cya Mbere cy'Urwunge
+
+Pursuant to the International Covenant on Civil and Political Rights of 19 December 1966 ratified by the Presidential Order n° 8/75 of 12/02/1975;
 
 Pursuant  to  the  International  Covenant  on Economic, Social and Cultural Rights  of    19 December  1966  ratified  by  the  Presidential Order n° 8/75 of 12/02/1975;
 
@@ -185,7 +189,7 @@ Vu le Pacte international relatif aux droits civils et politiques du 19 décembr
 
 Vu le Pacte international relatif aux droits économiques, sociaux et culturels du 19 décembre 1966  ratifié  par  Arrêté  Présidentiel  n°  8/75  du 12/02/1975;
 
-Vu la Convention Internat ionale sur l'Elimination de  toutes  les  formes  de  Discrimination  à  l'égard des  Femmes  du  1 er mai  1980  ratifiée  par  Arrêté Présidentiel n° 431/16 du 10/11/1981 ;
+Vu la Convention Internationale sur l'Elimination de toutes les formes de Discrimination à l'égard des Femmes du 1er mai 1980 ratifiée par Arrêté Présidentiel n° 431/16 du 10/11/1981 ;
 
 Vu la Charte africaine de droits de l'homme et des peuples du  27 juin 1981 ratifiée par Arrêté Présidentiel n° 10/1983 du 17/05/1985;
 
@@ -265,21 +269,19 @@ Iri tegeko rigamije gukumira no guhana ihohoterwa  iryo  ari  ryo  ryose  rishin
 
 Muri  iri  tegeko,    amagambo  akurikira  afite ibisobanuro bikurikira:
 
-- 1° ihohoterwa rishingiye ku gitsina: igikorwa icyo ari cyo cyose gikorerwa umuntu  haba  ku  mubiri,  mu  mitekerereze, ku  myanya  ndangagitsina  no  ku  mutungo, kubera ko ari uw'igitsinagore cyan gwa uw'igitsinagabo.  Icyo  gikorwa  kimuvutsa uburenganzira bwe kandi kikamugiraho ingaruka mbi. Iryo hohoterwa  rishobora gukorerwa mu ngo cyangwa hanze yazo;
+- 1° ihohoterwa rishingiye ku gitsina: igikorwa icyo ari cyo cyose gikorerwa umuntu haba ku mubiri, mu mitekerereze, ku myanya ndangagitsina no ku mutungo, kubera ko ari uw'igitsinagore cyangwa uw'igitsinagabo. Icyo gikorwa kimuvutsa uburenganzira bwe kandi kikamugiraho ingaruka mbi. Iryo hohoterwa rishobora gukorerwa mu ngo cyangwa hanze yazo;
 
-- 2° Ubushyingiranwe: amasezerano yo kubana hagati y'umugore n'umugabo akozwe mu buryo bwemewe n'ama tegeko;
+- 2° Ubushyingiranwe: amasezerano yo kubana hagati y'umugore n'umugabo akozwe mu buryo bwemewe n'amategeko;
 
 - 3° ubuharike: ukugira amasezerano ya kabiri (2)  y'ubushyingiranwe  aya  mbere  agifite agaciro;
 
 - 4° ubushoreke : imibanire nk'umugabo n'umugore  ku  buryo  buhoraho,  ku  bantu batashyingiranywe, umwe  muri  bo  afite
 
-## CHAPTER ONE: PROVISIONS
-
-GENERAL
+## CHAPTER ONE: GENERAL PROVISIONS
 
 #### Article One: Purpose of the Law
 
-This Law is aimed at preventing suppressing the gender- based violence and
+This Law is aimed at preventing and suppressing the gender- based violence
 
 #### Article 2: Definitions of terms
 
@@ -309,9 +311,7 @@ Au sens de la présente loi, les termes ci-après ont les significations suivant
 
 - 3° polygamie : le fait de contracter un deuxième  mariage  pendant  que  le  premier mariage est encore valide ;
 
-4°
-
-- concubinage : union de fait entre un homme et une femme alors qu'ils ne sont pas mariés, l'un d'eux  étant légalement marié.
+- 4° concubinage : union de fait entre un homme et une femme alors qu'ils ne sont pas mariés, l'un d'eux étant légalement marié.
 
 89
 
@@ -333,31 +333,27 @@ uwo bashyingiranywe;
 
 - 9° kwigarurira umuntu hagamijwe kwishimisha : ibikorwa umuntu  akorera undi  agamije  kwishimisha  bishingiye  ku gitsina, yitwaje igitsure, ububasha, umutungo cyangwa ubundi buryo ubwo ari bwo  bwose.  Ibyo  bikorwa  bishobora  kuba bigamije  gukora  imibonano  mpuzabitsina, gukorakora, kwambika ubusa, gufata amafoto, kwerekana umuntu yambaye ubusa cyangwa kumukinisha imibonano mpuzabitsina,  gukoresha  igitsina  ku  yindi myanya y'umubiri n'ibindi;
 
-- them is legally married.
+them is legally married.
 
 - 5° adultery: the fact  of  having sex  with a person who is maried to someone else;
 
 - 6° rape: the  fact  that  a  person  is  envolved into  sexual  intercourse  without  consent, by force, intimidation, trices and others;
 
-- 7° conjugal  rape: coercing  a  spouse  into se xual relations without that spouse's consent,  by  way  of  force,  intimidation, trices and others;
+- 7° conjugal rape: coercing a spouse into sexual relations without that spouse's consent, by way of force, intimidation, trices and others;
 
 - 8° forcible abduction: abduction of someone by force or fraud for the purpose of marital union;
 
-- 9° sexual slavery aimed at achieving selfsatisfaction: using  influencial  authority, economic  power  or  any  other  ways  of achieving self sexual satisfaction. It may be  aimed  at  sexual  intercourse,  physical touching, undress and photographing, exposing him/her, nakednesss and eroticism  exhibition,  making  one's  sex touch other parts of the body and others;
+- 9° sexual slavery aimed at achieving self-satisfaction: using influencial authority, economic power or any other ways of achieving self sexual satisfaction. It may be aimed at sexual intercourse, physical touching, undress and photographing, exposing him/her, nakednesss and eroticism exhibition, making one's sex touch other parts of the body and others;
 
-5°
-
-- adultère : les  relations  sexuelles  entre  une personne  légalement  mariée  avec  une  autre personne qui n'est pas son conjoint ;
+- 5° adultère : les relations sexuelles entre une personne légalement mariée avec une autre personne qui n'est pas son conjoint ;
 
 - 6° viol :  rapport  sexuel  imposé  à  une  personne sans  son  consentement,  à  l'aide  de  la  force, menace, ruse et autres ;
 
 - 7° viol  conjugal :  tout  acte  visant  les  rapports sexuels avec son conjoint en l' absence de son consentement,  par  recours  à  la  violence,  la menace, la ruse et autres ;
 
-8°
+- 8° rapt : enlèvement d'une personne par force ou par ruse en vue d'une union conjugale ;
 
-- rapt : enlèvement  d'une  personne  par  force ou par ruse en vue d'une union conjugale ;
-
-- 9° esclavage sexuel : le fait d'abuser de l'autorité,  des  avoirs  ou  toute  a utre  situation dans le but du plaisir basé sur le sexe. Il peut viser  les  relations  sexuelles,  les  caresses,  le déshabillement, la pornographie, l'exhibition de nudité ou d'érotisme, l'application du sexe sur les autres parties du corps et autres ;
+- 9° esclavage sexuel : le fait d'abuser de l'autorité, des avoirs ou toute autre situation dans le but du plaisir basé sur le sexe. Il peut viser les relations sexuelles, les caresses, le déshabillement, la pornographie, l'exhibition de nudité ou d'érotisme, l'application du sexe sur les autres parties du corps et autres ;
 
 90
 
@@ -367,11 +363,11 @@ uwo bashyingiranywe;
 
 OG N°14  OF 06 04 2009
 
-- 10° ibikorwa by'urukozas oni : ibikorwa bibangamira  umuco  bishingiye  ku  gitsina, bikorewe umuntu uwo ari we wese;
+- 10° ibikorwa by'urukozasoni: ibikorwa bibangamira umuco bishingiye ku gitsina, bikorewe umuntu uwo ari we wese;
 
 - 11° umuntu  ugeze  mu  zabukuru : umuntu wese  urengeje  imyaka  mirongo  itandatu n'itanu (65) y'amavuko;
 
-- 12° guhoza umuntu ku nkeke : guhora ukorera umuntu ibikorwa bimubuza amahoro nko kumutoteza , kumucyurira, kumucunaguza, kumugaya, kumutuka n'ibindi.
+- 12° guhoza umuntu ku nkeke : guhora ukorera umuntu ibikorwa bimubuza amahoro nko kumutoteza, kumucyurira, kumucunaguza, kumugaya, kumutuka n'ibindi.
 
 ## UMUTWE WA II: GUKUMIRA NO KURINDA  IHOHOTERWA  RISHINGIYE KU GITSINA
 
@@ -389,11 +385,9 @@ Birabujijwe kubuza umudendezo  umwe  mu bashyingiranywe, hakorwa ubuharike, ubus
 
 - 12° harassment: putting  someone  in  unrest condition by persecuting, nagging, scorning or insulting  him/her and others;
 
-## CHAPTER II: PREVENTION AND PROTECTION AGAINST GENDERBASED VIOLENCE
+## CHAPTER II: PREVENTION AND PROTECTION AGAINST GENDER-BASED VIOLENCE
 
-#### Article 3: Threatening by way deprivation of certain rights
-
-of
+#### Article 3: Threatening by way of deprivation of certain rights
 
 It  is  forbidden  to  use  threat  of  depriving someone  of  certain  rights  for  the  purpose  of having  them  induldge  in  any  gender  based violence act.
 
@@ -445,52 +439,56 @@ Igihe  cy'ubutane,  inyungu  z'abana  bakomoka ku bashyingiranywe zitabwaho haku
 
 #### Ingingo  ya  7:  Kurinda  umwana  ihohoterwa rishingiye ku gitsina
 
-Umubyeyi,  umwishingizi  w'umwana  cyangwa undi  muntu  wese  ushinzwe  umwana  agomba kumurinda  impamvu  iyo  ari  yo  yose  yatuma akorerwa ihohoterwa rishingiye ku gitsina.
+Umubyeyi, umwishingizi w'umwana cyangwa undi muntu wese ushinzwe umwana agomba kumurinda impamvu iyo ari yo yose yatuma akorerwa ihohoterwa rishingiye ku gitsina.
 
-It  is  forbidden  to  harass  to  deprive  one's spouse of the right to property and to employment.
+Birabujijwe kutita ku mwana ushinzwe kurera,
+
+It is forbidden to harass to deprive one's spouse of the right to property and to employment.
 
 #### Article 5: Conjugal rape
 
-Both  spouses  have  equal  rights  as  to  sexual intercourse,  reproductive  health  and  family planning.
+Both spouses have equal rights as to sexual intercourse, reproductive health and family planning.
 
 It is forbidden to make sex with one's spouse without one's consent.
 
 #### Article 6: Violence as the cause of divorce
 
-Gender  based  violence  shall  be  one  of  the causes of divorce.
+Gender based violence shall be one of the causes of divorce.
 
-At  the  time  divorce  is  being  decided,  the rights  of  children  from  the  spouses  shall  be taken into account in accordance with the law.
+At the time divorce is being decided, the rights of children from the spouses shall be taken into account in accordance with the law.
 
 #### Article 7: Protecting a child against gender based violence
 
-The parent, trustee or any other person responsible  for a child shall protect the latter against any gender based violence.
+The parent, trustee or any other person responsible for a child shall protect the latter against any gender based violence.
 
-Birabujijwe  kutita  ku  mwana  ushinzwe  kurera, It  shall  be  forbbiden  not  to  cater  for  child Il  est  interdit  de  porter  atteinte  à  la  tranquilité, aux  droits  au  patrimoine  et  à  l'emploi  de  son conjoint.
+It shall be forbbiden not to cater for child
+
+Il est interdit de porter atteinte à la tranquilité, aux droits au patrimoine et à l'emploi de son conjoint.
 
 #### Article 5 : Viol conjugal
 
-Les conjoints jouissent des droits égaux en matière  de  relations  sexuelles,  de  la  santé  de reproduction et de planning familial.
+Les conjoints jouissent des droits égaux en matière de relations sexuelles, de la santé de reproduction et de planning familial.
 
-Il  est  interdit de  faire  des relations sexuelles sans consentement de son conjoint.
+Il est interdit de faire des relations sexuelles sans consentement de son conjoint.
 
 #### Article 6: Sévices comme cause de divorce
 
-La violence basée sur le genre est l'un des causes de  demande de divorce.
+La violence basée sur le genre est l'un des causes de demande de divorce.
 
-Pendant  l' instance  du  divorce,  les  intérêts  des enfants issus du mariage sont pris en considération conformément à la loi.
+Pendant l'instance du divorce, les intérêts des enfants issus du mariage sont pris en considération conformément à la loi.
 
-#### Article 7 : Protection  de l'enfant  contre  la violence basée sur le genre
+#### Article 7 : Protection de l'enfant contre la violence basée sur le genre
 
-Le  parent,  le  tuteur  de  l'enfant  ou  toute  autre personne  en  charge  d e  l'enfant  est    tenu  de  le protéger contre toute situation susceptible de l'exposer à la violence basée sur le genre.
+Le parent, le tuteur de l'enfant ou toute autre personne en charge de l'enfant est tenu de le protéger contre toute situation susceptible de l'exposer à la violence basée sur le genre.
 
-Il  est  interdit  à  une  personne  de  ne  pas  prendre OG N°14  OF 06 04 2009
+Il est interdit à une personne de ne pas prendre
 
 92
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
-
+OG N°14  OF 06 04 2009
 kumukoresha icyamutesha agaciro cyangwa kumuhoza ku nkeke hashingiwe ku gitsina.
 
 #### Ingingo ya 8 : Ikiruhuko cy'ububyeyi
@@ -507,41 +505,43 @@ Gutwita no kubyara ku munyeshuri ntibigomba kuba impamvu yo kuvutswa uburenganzi
 
 #### Ingingo ya 10: Kurinda ihohoterwa, gutabara no kwita ku bahohotewe
 
-Birabujijwe gukoresha ibiyobyabwenge, amashusho, ibimenyetso, imvugo n'ibindi byaba under one's trusteeship just because whether the child is male or female.
+Birabujijwe gukoresha ibiyobyabwenge, amashusho, ibimenyetso, imvugo n'ibindi byaba
 
-of
+under one's trusteeship just because of whether the child is male or female.
 
-#### Article  8: Maternity leave
+#### Article 8: Maternity leave
 
-Upon delivery, a  woman shall  have the right to  a  maternity  leave  of  three  (3)  months  and one  hour  per  working  day,  agreed  with  the employer, to breast feed for a period of twelve (12) months after  maternity leave.
+Upon delivery, a woman shall have the right to a maternity leave of three (3) months and one hour per working day, agreed with the employer, to breast feed for a period of twelve (12) months after maternity leave.
 
-Without  prejudice  to  other  legal  provisions with  regard  to  leaves,  a  woman  who  gives birth  to  a  child  and  consequently  the  child dies before one month shall be entitled to four (4) weeks of leave after delivery.
+Without prejudice to other legal provisions with regard to leaves, a woman who gives birth to a child and consequently the child dies before one month shall be entitled to four (4) weeks of leave after delivery.
 
-#### Article  9: Rights of a pregnant woman or of a woman who delivers
+#### Article 9: Rights of a pregnant woman or of a woman who delivers
 
-It  is  forbidden  to  fire  a  woman  just  because she is pregnant or in maternity leave.
+It is forbidden to fire a woman just because she is pregnant or in maternity leave.
 
-Pregnancy  and  delivery    shall  not  constitute cause  for  depriving  a  student  of  her  right  to education.
+Pregnancy and delivery shall not constitute cause for depriving a student of her right to education.
 
 #### Article 10: Preventing violence and catering for the victims of violence
 
-It  is    forbidden  to  use  drugs,  films,  signs, language, and other  means with the  intention soins  de  l'enfant  sous  sa  tutelle  pour  des  raisons basées sur le genre.
+It is forbidden to use drugs, films, signs, language, and other means with the intention
+
+soins de l'enfant sous sa tutelle pour des raisons basées sur le genre.
 
 #### Article 8 : Congé de maternité
 
-Une femme qui a accouché bénéficie d'un congé de  maternité  de  trois  (3)  mois  et  d'une  heure d'allaitement  par  jour  de  travail,  convenue  entre elle  et  son  employeur,  et  ce    pendant  douze  (12) mois à compter de la fin du congé de maternité.
+Une femme qui a accouché bénéficie d'un congé de maternité de trois (3) mois et d'une heure d'allaitement par jour de travail, convenue entre elle et son employeur, et ce pendant douze (12) mois à compter de la fin du congé de maternité.
 
-Sans  préjudice des  autres dispositions  légales relatives au congé de circonstance, une femme qui accouche  d'un  enfant  qui  meurt  avant  d'avoir atteint un mois bénéficie d'un congé de quatre (4) semaines après l'accouchement.
+Sans préjudice des autres dispositions légales relatives au congé de circonstance, une femme qui accouche d'un enfant qui meurt avant d'avoir atteint un mois bénéficie d'un congé de quatre (4) semaines après l'accouchement.
 
-#### Article 9 : Droits d'une fe mme enceinte ou qui a accouché
+#### Article 9 : Droits d'une femme enceinte ou qui a accouché
 
 Il est interdit de licencier une femme sous pretexte qu'elle est enceinte ou en congé de maternité.
 
 La grossesse et l'accouchement pour une étudiante ne doivent pas être la cause de privation de son droit à l'éducation.
 
-#### Article  10 :  Prévention  et  d'assistance  de  la violence et assistance aux victimes de la violence
+#### Article 10 : Prévention et d'assistance de la violence et assistance aux victimes de la violence
 
-Il  est  interdit  d'user  des  stupéfiants,  des  images, des signes, des langages et d'autres moyens visant bigamije ihohoterwa rishingiye ku gitsina.
+Il est interdit d'user des stupéfiants, des images, des signes, des langages et d'autres moyens visant
 
 93
 
@@ -550,6 +550,8 @@ Il  est  interdit  d'user  des  stupéfiants,  des  images, des signes, des lang
 [[START OF PAGE 14]]
 
 OG N°14  OF 06 04 2009
+
+bigamije ihohoterwa rishingiye ku gitsina.
 
 Buri  muntu  wese  agomba  kurinda  ihohoterwa rishingiye  ku  gitsina,  gutabara  no  gutabariza uwarikorewe.
 
@@ -587,9 +589,9 @@ Where it is convenient for the victim, gender based  violence  related  cases  s
 
 la violence basée sur le genre.
 
-Toute personne a l'obli gation de prévention contre la  violence basée sur le  genre, d'assitance et  d'appel  à  l'assistance  en  faveur  de    la  victime de la violence.
+Toute personne a l'obligation de prévention contre la violence basée sur le genre, d'assitance et d'appel à l'assistance en faveur de la victime de la violence.
 
-Un arêté du Premier Ministre détermine les modalités de prévention contre la violence par les Organes  de  l' Etat.  Il  détermine  également  les mécanismes d'accueil, de soulagement, de défense,  de  soins  et  d'assistance  à  la  victime  en vue de la réhabilitation de sa santé.
+Un arêté du Premier Ministre détermine les modalités de prévention contre la violence par les Organes de l'Etat. Il détermine également les mécanismes d'accueil, de soulagement, de défense, de soins et d'assistance à la victime en vue de la réhabilitation de sa santé.
 
 #### Article  11 :  Prévention  contre  actes  d'outrage aux bonnes mœurs
 
@@ -613,14 +615,14 @@ OG N°14  OF 06 04 2009
 
 #### Ingingo ya 13 : Itangwa ry'ubuhamya n'ibimenyetso | Article 13: Production of evidences and testimonies | Article 13 : Administration du témoignage et de la preuve
 --- | --- | ---
-Ha seguriwe ibiteganywa n'andi mategeko, ibimenyetso cyangwa ubuhamya byerekeranye n'ihohoterwa rishingiye ku gitsina bitangwa mu nkiko na buri wese ubifitiye amakuru. | Notwithstanding other legal provisions, evidences or testimonies related to gender based violence shall be produced in the courts by any person holding them. | Sous réserve des dispositions d'autres lois, la preuve ou le témoignage relatif à la violence basée sur le genre est fourni devant les juridictions par tout intéressé qui en détient l'information.
+Haseguriwe ibiteganywa n'andi mategeko, ibimenyetso cyangwa ubuhamya byerekeranye n'ihohoterwa rishingiye ku gitsina bitangwa mu nkiko na buri wese ubifitiye amakuru. | Notwithstanding other legal provisions, evidences or testimonies related to gender based violence shall be produced in the courts by any person holding them. | Sous réserve des dispositions d'autres lois, la preuve ou le témoignage relatif à la violence basée sur le genre est fourni devant les juridictions par tout intéressé qui en détient l'information.
 Ubuhamya butanzwe n'abana, abandi bantu baba mu rugo n'abaturanyi bwitabwaho. | Testimonies given by children and other people living in the household as well as those produced by neighbours shall be taken into account. | Le témoignage présenté par les enfants, les autres personnes vivant en famille et par les voisins sont pris en considération.
 ### Icyiciro cya 2 : Ibihano by'ibyaha by'ihohoterwa rishingiye ku gitsina | Section 2: Penalties for gender based violence offences | Section 2 : Peines pour infractions de violence basée sur le genre
-#### Ingingo ya 1 4: Igihano cy'icyaha cy' ubusambanyi | Article 14: Penalty for adultery | Article 14 : Peine pour cause d'adultère
+#### Ingingo ya 14: Igihano cy'icyaha cy' ubusambanyi | Article 14: Penalty for adultery | Article 14 : Peine pour cause d'adultère
 Umuntu wese uhamwe n'icyaha cy'ubusambanyi ahanishwa igifungo kuva ku mezi atandatu (6) kugeza ku myaka ibiri (2). | Any person convicted with adultery shall be liable to imprisonment sentence of between six (6) months and two (2) years. | Toute personne reconnue coupable d'adultère est passible d'une peine d'emprisonnement de six (6) mois à deux (2) ans.
 Ibihano biteganyijwe mu gika kibanziriza iki ni byo bihanishwa uwo basambanye. | Penalties provided for in the preceding paragraph shall apply to the co-offender envolved in adultery. | Le coauteur d'adultère est puni des mêmes peines prévues à l'alinéa précédent.
 #### Ingingo ya 15: Gukurikirana icyaha cy'ubusambanyi | Article 15: Prosecution for adultery | Article 15 : Poursuites de l'infraction d'adultère
-Gukurikirana icyaha cy'ubusambanyi ntibishobora kuba hatareze uwahemukiwe mu bashyingiranywe. | Prosecution for adultery shall not be started unless the offender's spouse so claims. | Les poursuites de l'infraction d'adultè re ne peuvent être exercées que sur plainte du conjoint offensé.
+Gukurikirana icyaha cy'ubusambanyi ntibishobora kuba hatareze uwahemukiwe mu bashyingiranywe. | Prosecution for adultery shall not be started unless the offender's spouse so claims. | Les poursuites de l'infraction d'adultère ne peuvent être exercées que sur plainte du conjoint offensé.
 Uwahemukiwe ashobora guhagarika ikurikirana | The offender's spouse may, at any step of | Le conjoint victime peut faire mettre fin aux
 
 95
@@ -665,7 +667,7 @@ Abduction shall be  liable to  imprisonment  of five  (5)  years  to  eight  (8)
 
 poursuites,  à  tous  les  degrés  de  la  procédure,  en cas de rétractation. Il peut également faire arrêter l'exécution du jugement.
 
-Cet  arrêt  des  p oursuites et de  l'exécution  du jugement concerne les co-auteurs de cette infraction.
+Cet arrêt des poursuites et de l'exécution du jugement concerne les co-auteurs de cette infraction.
 
 #### Article 16 : Peine pour  viol
 
@@ -753,7 +755,7 @@ Ahanishwa ibihano bivugwa mu gika cya mbere cy'iyi ngingo umuntu wese wemeye kub
 
 Ahanishwa igifungo cy'imyaka itatu (3) kugeza ku  myaka  itanu  (5) n'ihazabu  y'amafaranga kuva  ku  bihumbi  magana  atatu  (300.000  Frw) kugeza ku  bihumbi magana  atanu (500.000 Frw) , umuntu wese washyingiranwe n'undi amasezerano y'ubushyingiranywe ya mbere agifite agaciro.
 
-Ahanishwa ibihano bivugwa mu gika cya mbere cy'iyi ngingo, umuntu wese wemeye gush yingiranwa n'undi azi ko uwo wundi asanganywe isezerano ry'ubushyingiranwe.
+Ahanishwa ibihano bivugwa mu gika cya mbere cy'iyi ngingo, umuntu wese wemeye gushyingiranwa n'undi azi ko uwo wundi asanganywe isezerano ry'ubushyingiranwe.
 
 Umuntu wese ugize uruhare mu gikorwa cy'ubuharike abigambiriye atanga ibyangombwa cyangwa yakira amasezerano y'ubushyingiranwe,  ahanishwa  igifungo  kuva ku myaka itanu (5) kugeza ku myaka umunani (8).
 
@@ -783,7 +785,7 @@ Est punie d'une peine d'emprisonnement de trois (3)  à  cinq  (5)  ans  et  d'u
 
 Est punie  des peines  visées à l'alinéa premier  du présent  article,  toute  personne  qui  consent  au mariage  sachant  que  son  partenaire  est  encore engagé dans un autre mariage.
 
-Toute  personne  ayant  contribué  de  bonne  foi  à l'acte de polygamie en délivrant des documents ou en  validant le contrat de  mariage  est punie  d'une peine d'emprisonnement de c inq (5) à huit (8) ans.
+Toute personne ayant contribué de bonne foi à l'acte de polygamie en délivrant des documents ou en validant le contrat de mariage est punie d'une peine d'emprisonnement de cinq (5) à huit (8) ans.
 
 98
 
@@ -799,7 +801,7 @@ Ahanishwa igifungo kuva ku myaka icumi (10) kugeza  ku  myaka  cumi  n'itanu  (1
 
 #### Ingingo ya 24 : Igihano cy'uhoza uwo akuriye mu kazi  ku nkeke bishingiye ku gitsina
 
-Ahanishwa  igifungo  kuva  ku  myaka  ibiri  (2) kugeza k u myaka itanu (5) n'ihazabu y'amafaranga  kuva  ku  bihumbi  ijana  (100.000 Frw) kugeza ku bihumbi magana abiri (200.000 Frw), umukoresha cyangwa undi wese witwaza imirimo ashinzwe agahoza uwo akuriye mu kazi ku  nkeke  akoresheje  amabwiriza,  ibikangisho n'itera bwoba  agamije  kwishimisha  bishingiye ku gitsina.
+Ahanishwa igifungo kuva ku myaka ibiri (2) kugeza ku myaka itanu (5) n'ihazabu y'amafaranga kuva ku bihumbi ijana (100.000 Frw) kugeza ku bihumbi magana abiri (200.000 Frw), umukoresha cyangwa undi wese witwaza imirimo ashinzwe agahoza uwo akuriye mu kazi ku nkeke akoresheje amabwiriza, ibikangisho n'iterabwoba agamije kwishimisha bishingiye ku gitsina.
 
 #### Ingingo ya 25 : Igihano cy'uwishe uwo bashyingiranywe
 
@@ -809,7 +811,7 @@ Bitabangamiye ibiteganywa n'Igitabo cy'Amategeko Ahana ibyaha, ahanishwa igifung
 
 Any person guilty of  sexual slavery shall be liable  to  imprisonment    of  ten  (10)  years  to fifteen  (15)  years  and  a  fine  between  five hundred  thousand  (500,000  Rwf)  Rwandan francs and one million (1,000,000 Rwf) Rwandan francs.
 
-#### Article    24:  Penalty  for sexual  harassment of one' s subordinate
+#### Article 24: Penalty for sexual harassment of one's subordinate
 
 Any  employer  or  any  other  person  guilty  of exercising sexual harassment by way of orders,  intimidation  and  terror  over  a  person he/she leads shall be liable to imprisonment of two  (2)  years  to  five  (5)  years  and  a  fine between one  hundred  thousand  (100,000 Rwf) Rwandan francs and two hundred thousand (200,000 Rwf) Rwandan francs.
 
@@ -839,19 +841,19 @@ OG N°14  OF 06 04 2009
 
 #### Ingingo ya 26: Igihano cy'ubuza umudendezo uwo bashyingiranywe ashingiye ku gitsina
 
-#### Article 26: Penalty for distorting tranquility of one's spouse on sexual grounds
-
-Umuntu wese uhamwe n'icyaha cy'ihohoterwa kivugwa mu gika cya 2 n'icya 3 cy'ingingo ya 4 y'iri  tegeko  ahanishwa  igifungo  kuva  ku  mezi atandatu (6) kugeza ku myaka ibiri (2) n'ihazabu y'amafaranga kuva ku bihumbi mirongo itanu (50.000 Frw) kugeza ku bihumbi magana abiri (200.000 Frw).
+Umuntu wese uhamwe n'icyaha cy'ihohoterwa kivugwa mu gika cya 2 n'icya 3 cy'ingingo ya 4 y'iri tegeko ahanishwa igifungo kuva ku mezi atandatu (6) kugeza ku myaka ibiri (2) n'ihazabu y'amafaranga kuva ku bihumbi mirongo itanu (50.000 Frw) kugeza ku bihumbi magana abiri (200.000 Frw).
 
 #### Ingingo ya 27 : Igihano cy'uwangiza imyanya ndangagitsina
 
-Uwakoze ihohoterwa, yangiza cyangwa agamije kwangiza imyanya ndangagitsina ahanishwa igifun go cya burundu cy'umwihariko.
+Uwakoze ihohoterwa, yangiza cyangwa agamije kwangiza imyanya ndangagitsina ahanishwa igifungo cya burundu cy'umwihariko.
 
-#### Ingingo  ya  28 :  Igihano  cy'ucuruza  abantu bishingiye ku gitsina
+#### Ingingo ya 28 : Igihano cy'ucuruza abantu bishingiye ku gitsina
 
-Umuntu wese uhamwe n'igikorwa cyo gucuruza abantu bishingiye ku gitsina, ahanishwa igifungo kuva  ku  myaka  cumi  n'itanu  (15) kugeza  kuri  makumyabiri  (20)  n' ihazabu  yo kuva  ku mafaranga  ibihumbi magana  atanu (500.000 Frw) kugeza kuri miliyoni ebyiri (2.000.000 Frw).
+Umuntu wese uhamwe n'igikorwa cyo gucuruza abantu bishingiye ku gitsina, ahanishwa igifungo kuva ku myaka cumi n'itanu (15) kugeza kuri makumyabiri (20) n'ihazabu yo kuva ku mafaranga ibihumbi magana atanu (500.000 Frw) kugeza kuri miliyoni ebyiri (2.000.000 Frw).
 
-Any person guilty of the offence referred to in paragraph  2  and  3  of  Article  4  of  this  Law shall  be  liable  to  imprisonment  of  six  (6) months  to  two  (2)  years  and  a  fine  between fifty  thousand  (50,000  Rwf)  Rwandan  francs and  two  hundred  thousand  (200,000  Rwf) Rwandan francs.
+#### Article 26: Penalty for distorting tranquility of one's spouse on sexual grounds
+
+Any person guilty of the offence referred to in paragraph 2 and 3 of Article 4 of this Law shall be liable to imprisonment of six (6) months to two (2) years and a fine between fifty thousand (50,000 Rwf) Rwandan francs and two hundred thousand (200,000 Rwf) Rwandan francs.
 
 #### Article 27: Penalty for sexual torture
 
@@ -887,11 +889,11 @@ Umuntu wese ukoresheje undi imibonano mpuzabitsina agambiriye kumwanduza indwara
 
 #### Ingingo ya 30 : Igihano cy'ihohoterwa rikoresheje imiti, ibiyobyabwenge, amashusho, ibimenyetso,  imvugo  cyangwa inyandiko
 
-Umuntu wese ukoresheje imiti, ibiyobyabwenge, amashusho, ibimenyetso, imvugo cyangwa inyandiko, agamije ko hakorwa ihohoterwa rishingiye ku gitsina, ahanishwa  igifungo  kuva  ku  myaka  itanu  (5) kugeza ku myaka umunani (8) n'ihazabu y'amafaranga kuva  ku bihumbi ijan a  (100.000 Frw) kugeza ku bihumbi magana abiri (200.000 Frw).
+Umuntu wese ukoresheje imiti, ibiyobyabwenge, amashusho, ibimenyetso, imvugo cyangwa inyandiko, agamije ko hakorwa ihohoterwa rishingiye ku gitsina, ahanishwa igifungo kuva ku myaka itanu (5) kugeza ku myaka umunani (8) n'ihazabu y'amafaranga kuva ku bihumbi ijana (100.000 Frw) kugeza ku bihumbi magana abiri (200.000 Frw).
 
 #### Ingingo ya 31 : Igihano cy'ibikorwa by'urukozasoni bishingiye ku gitsina
 
-Umuntu wese wakoreye undi ibikorwa by'urukozasoni bishingiye ku gitsina, ahanishwa  igifungo  kuva  ku  myaka  ibiri  (2) kug eza  ku  myaka  itanu  (5)  n'ihazabu  kuva  ku mafaranga ibihumbi ijana (100.000 Frw) kugeza ku bihumbi magana abiri (200.000 Frw).
+Umuntu wese wakoreye undi ibikorwa by'urukozasoni bishingiye ku gitsina, ahanishwa igifungo kuva ku myaka ibiri (2) kugeza ku myaka itanu (5) n'ihazabu kuva ku mafaranga ibihumbi ijana (100.000 Frw) kugeza ku bihumbi magana abiri (200.000 Frw).
 
 #### Article 29: Penalty for intentionally transmitting a terminal disease
 
@@ -959,7 +961,7 @@ Est  punie  d'une  peine  d'emprisonnement  de  dix (10)  à  quinze  (15)  ans 
 
 #### Article 34: Peine pour violence visant la diffamation d'une personne ou de son travail
 
-Est punie d'une peine d'em prisonnement de deux (2)  à  cinq  (5)  ans  et  d'une  amende  de  cent  mille (100.000  Frw)  à  trois  cent  mille  (300.000  Frw) francs rwandais, toute personne coupable de diffamation  ou  de  harcèlement  à  l'égard  d'une personne sous pretexte  qu'elle  est une femme  ou un  homme,  dans  le  but  de  porter  atteinte  à  son estime ou à celui de son  travail.
+Est punie d'une peine d'emprisonnement de deux (2) à cinq (5) ans et d'une amende de cent mille (100.000 Frw) à trois cent mille (300.000 Frw) francs rwandais, toute personne coupable de diffamation ou de harcèlement à l'égard d'une personne sous pretexte qu'elle est une femme ou un homme, dans le but de porter atteinte à son estime ou à celui de son travail.
 
 102
 
@@ -971,15 +973,15 @@ OG N°14  OF 06 04 2009
 
 #### Ingingo ya 35 : Igihano cy'ihohoterwa rikoresheje  ibikangisho  byo  gutakaza  ibyo ufiteho uburenganzira
 
-Umuntu  wese uhohoteye undi amukangisha gutakaza  ibyo  afiteho  uburenganzira,  agamije kumukoraho  cyangwa  akamukoraho  igikorwa icyo ari cyo cyose gishingiye ku gitsina, ahanishwa  igifungo  kuva  ku  mezi  atandatu  (6) kugeza ku myaka ibiri (2) n'ihazabu y 'amafaranga  kuva  ku  bihumbi  ijana  (100.000 Frw) kugeza ku bihumbi magana atanu (500.000 Frw).
+Umuntu wese uhohoteye undi amukangisha gutakaza ibyo afiteho uburenganzira, agamije kumukoraho cyangwa akamukoraho igikorwa icyo ari cyo cyose gishingiye ku gitsina, ahanishwa igifungo kuva ku mezi atandatu (6) kugeza ku myaka ibiri (2) n'ihazabu y'amafaranga kuva ku bihumbi ijana (100.000 Frw) kugeza ku bihumbi magana atanu (500.000 Frw).
 
 #### Ingingo  ya  36 :  Igihano  cy'uwanga  gutabara uwahohotewe cyangwa uwanga gutanga ubuhamya ku ihohoterwa
 
-Umuntu wese wanze gutabara cyangwa gutabariza uwakorewe ihohoterwa rishingiye ku gitsina, uwanze gutanga ubuhamya ku ihohoterwa  ryamukorewe  cyangwa  ryakorewe undi, ahanishwa igifungo kuva ku mezi atandatu (6) kugeza ku myaka ibiri (2 ) n'ihazabu y' amafaranga  kuva  ku  bihumbi  mirongo  itanu (50.000  frw)  kugeza  ku  bihumbi  magana  abiri (200.000 frw), cyangwa kimwe muri ibyo bihano.
+Umuntu wese wanze gutabara cyangwa gutabariza uwakorewe ihohoterwa rishingiye ku gitsina, uwanze gutanga ubuhamya ku ihohoterwa ryamukorewe cyangwa ryakorewe undi, ahanishwa igifungo kuva ku mezi atandatu (6) kugeza ku myaka ibiri (2) n'ihazabu y'amafaranga kuva ku bihumbi mirongo itanu (50.000 frw) kugeza ku bihumbi magana abiri (200.000 frw), cyangwa kimwe muri ibyo bihano.
 
 #### Ingingo ya 37 :  Igihano cy'uwabeshyeye undi icyaha cy'ihohoterwa rishingiye ku gitsina
 
-Umuntu wese uhamwe n'icyaha cyo kub eshyera undi ko yakoze icyaha cy'ihohoterwa rishingiye
+Umuntu wese uhamwe n'icyaha cyo kubeshyera undi ko yakoze icyaha cy'ihohoterwa rishingiye ku gitsina giteganywa n'iri tegeko ahanishwa ibihano biteganywa n'amategeko mpanabyaha.
 
 #### Article 35: Penalty for violence on  the grounds  of  depriving  someone  of  his/her rights
 
@@ -999,11 +1001,11 @@ Toute personne menaçant une autre personne de la privation  de  ses  droits  da
 
 #### Article  36:  Peine  pour  non  assistance  à  la victime de la violence ou refus de témoigner sur la violence
 
-Toute personne  qui  ne  porte  pas    assistance  à  la victime  de  violence  basée  sur  le  genre  ou  refuse de témoigner sur la violence commise contre ellemême ou contre une tierce  personne  est  passible d'une  peine  d'emprisonnement  de  six  (6)  mois  à deux (2) ans et d'une amende de cinquante  mille (50.000  Frw)  à  deux  cent    mille  (200.000  Frw) francs rwandais ou l'une de ces peines.
+Toute personne qui ne porte pas assistance à la victime de violence basée sur le genre ou refuse de témoigner sur la violence commise contre elle-même ou contre une tierce personne est passible d'une peine d'emprisonnement de six (6) mois à deux (2) ans et d'une amende de cinquante mille (50.000 Frw) à deux cent mille (200.000 Frw) francs rwandais ou l'une de ces peines.
 
 #### Article  37:  Peine  pour    fausse  accusation  de violence basée sur le genre
 
-Toute personne reconnue coupable d'avoir faussement  accusé  une  autre  personne  d'avoir ku  gitsina  giteganywa  n'iri  tegeko  ahanishwa ibihano biteganywa n'amategeko mpanabyaha.
+Toute personne reconnue coupable d'avoir faussement accusé une autre personne d'avoir
 
 103
 
@@ -1021,7 +1023,7 @@ Ukorewe  icyaha  cy'ihohoterwa  rishingiye ku gitsina  n'undi  wese  cyagizeho  
 
 #### Ingingo ya 39: Ishyingiranwa n'igabana ry'umutungo w'ababanaga ku buryo butemwe n'amategeko
 
-Ababanaga nk'umugore n'umugabo batashyingiranywe mu buryo buteganywa n'amateg eko, bashyingirwa hakurikije ihame ry'ubushyingiranywe bw'umugabo umwe n'umugore umwe.
+Ababanaga nk'umugore n'umugabo batashyingiranywe mu buryo buteganywa n'amategeko, bashyingirwa hakurikije ihame ry'ubushyingiranywe bw'umugabo umwe n'umugore umwe.
 
 Mu  gihe  umwe  mu  barebwa  n'ibivugwa  mu gika kibanziriza iki, yabanaga n'abagore cyangwa n'abagabo benshi , abanza kugabana ku buryo  bungana  na  buri  wese  mu  bo  babanaga, umutungo  bari  bafitanye  cyangwa  bahahanye mbere y'uko ashyingirwa.
 
@@ -1067,7 +1069,7 @@ Le partage des biens visés à l'alinéa 2 du présent article ne prive pas les 
 
 OG N°14  OF 06 04 2009
 
-Ibikurikizwa muri  iryo gabana bigenwa  n' Iteka rya  Minisitiri  ufite  ubutegetsi  bw'Igihugu  mu nshingano ze.
+Ibikurikizwa muri iryo gabana bigenwa n'Iteka rya Minisitiri ufite ubutegetsi bw'Igihugu mu nshingano ze.
 
 #### Ingingo ya 40 : Ivanwaho ry'ingingo z'amategeko zinyuranyije n'iri tegeko
 
