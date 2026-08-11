@@ -12,13 +12,36 @@ Mars 2010
 
 # Table des matières
 
+Préambule 4
+Une démarche participative et une gestion de projet 6
+Planning des étapes de la réforme des classes supérieures 7
+Structure du document d’orientation 7
+Communication 8
+Partie I ) La réforme des classes supérieures dans le cadre du système éducatif 9
+1. L'école fondamentale, les classes inférieures de l'enseignement post-primaire et la formation professionnelle : des changements conséquents et durables 9
+2. Historique des réformes depuis les années 60 12
+3. Chiffres et statistiques 15
+Partie II ) Atouts et déficits du système actuel : synthèse et analyse des avis 17
+1. Démarche 17
+2. Synthèse 18
+3. Perspectives 21
+Partie III) Les points clés de la réforme : les compétences transversales 22
+1. Préparation au métier d’étudiant et à la vie professionnelle 22
+Illustration de la mise en oeuvre des compétences transversales : le travail d'envergure individuel 24
+2. Culture générale 26
+Les points clés de la réforme : l'organisation 28
+1. Parcours de spécialisation 28
+2. Langues 34
+3. Mathématiques 36
+4. Le nouvel examen de fin d'études 38
+
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-Le présent document a été élaboré par un groupe de travail sous la direction de Madame Mady Delvaux - Stehres, ministre de l'Éducation nationale et de la Formation professionnelle.
+Le présent document a été élaboré par un groupe de travail sous la direction de Madame Mady Delvaux-Stehres, ministre de l'Éducation nationale et de la Formation professionnelle.
 
 Composition du groupe de travail :
 
@@ -34,11 +57,11 @@ Caroline Lentz, Jos Bertemes, Myriam Bamberg, Marc Barthelemy, Robert Bohnert, J
 
 L'évolution accélérée et la complexité croissante du monde actuel, de nouvelles conditions d'accès aux études supérieures, un marché du travail soumis aux fluctuations économiques et sociales ont considérablement changé les attentes face à nos bacheliers.
 
-Voilà pourquoi le programme gouvernemental de la période de législature 2009 -2014 prévoit de réorganiser les classes supérieures de l'enseignement post -primaire, dans le respect de leur double ambition: préparer les jeunes aux études supérieures et à la vie professionnelle, et leur transmettre une large culture générale.
+Voilà pourquoi le programme gouvernemental de la période de législature 2009-2014 prévoit de réorganiser les classes supérieures de l'enseignement post-primaire, dans le respect de leur double ambition: préparer les jeunes aux études supérieures et à la vie professionnelle, et leur transmettre une large culture générale.
 
 En effet, chaque société doit se demander régulièrement si sa conception de la culture générale correspond encore aux principes qui l'ont fondée. Elle doit décider quel est l'héritage culturel, philosophique et scientifique qu'il s'agit de transmettre à la génération suivante. Elle doit également s'interroger sur les connaissances et compétences nouvelles dont auront besoin demain les jeunes pour débattre en citoyens éclairés des enjeux de société et pour assumer en connaissance de cause leurs responsabilités.
 
-La dernière révision en profondeur des matières de culture générale a eu lieu à la fin des années 60. Aujourd'hui nous devons préciser les contenus qui devraient être adaptés et ceux qui, en raison de leur universalité et de leur pérennité, devraient être maintenus et établir -pour reprendre la terminologie allemande -un nouveau « Maturitätskatalog ».
+La dernière révision en profondeur des matières de culture générale a eu lieu à la fin des années 60. Aujourd'hui nous devons préciser les contenus qui devraient être adaptés et ceux qui, en raison de leur universalité et de leur pérennité, devraient être maintenus et établir – pour reprendre la terminologie allemande – un nouveau « Maturitätskatalog ».
 
 Au cours des dernières décennies, notre manière de penser est devenue moins eurocentrée, les grands dogmes se sont effondrés, les exigences du développement durable nous interpellent, Internet met à disposition des quantités inimaginables d'information difficilement vérifiables, des phénomènes d'addiction mentale et physique se répandent ; le développement transdisciplinaire de la pensée scientifique, de la pensée philosophique, sociologique et littéraire s'avère de plus en plus être un moyen indispensable pour se prémunir des erreurs et des illusions.
 
@@ -50,13 +73,23 @@ Cette exigence ne vaut pas uniquement pour les futurs étudiants ; une vaste cul
 
 L'obsolescence des savoirs et le développement technologique ont des répercussions importantes sur les processus de travail et les besoins en qualifications professionnelles. L'école doit développer chez le jeune adulte les compétences de base qui lui permettront d'approfondir en continu ses propres connaissances et de s'adapter aux développements futurs. En effet, la formation initiale dispensée à l'école ne constitue que le point de départ d'un apprentissage qui doit se poursuivre tout au long de la vie.
 
-Les curricula des classes supérieures s'orienteront selon des programmes exigeants ; l'approche par compétences tant à l'école fondamentale qu'aux classes inférieures aura préparé les élèves à maîtriser des matières complexes. Il faudra documenter dans les diplômes et les suppléments aux diplômes les matières traitées et les compétences acquises, étant donné que les universités étrangères, à défaut de soumettre nos étudiants à des concours d'entrée, exigeront des descriptifs plus détaillés de leurs compétences que le seul nombre d'heures de cours suivis par discipline. Veiller à ce que les élèves continuent à développer des compétences dans le cadre d'un travail transdisciplinaire complexe portant sur un sujet qui les intéresse au cours de leur apprentissage dans les classes supérieures, ne vise pas seulement à établir la cohérence dans l'ensemble de notre système éducatif. Cette approche permet de s'assurer que les élèves qui s'apprêtent à devenir des étudiants ont compris les matières qu'on leur a enseignées. Ce faisant -à l'heure où l'intérêt d'un grand nombre d'entre eux est plus centré sur les notes que sur les acquis -elle peut créer les conditions d'un élan vers une attitude plus positive à l'égard des études, de l'acquisition de savoirs et de compétences. C'est dire aussi qu'il faudra travailler autrement et plus. Finalement, l'école luxembourgeoise doit apporter des réponses à une situation démographique en pleine mutation et à ses répercussions sur la composition du public scolaire de plus en plus hétérogène. La mixité sociale et culturelle marque le paysage scolaire luxembourgeois et, avec désormais 60% d'enfants allophones fréquentant le 1 er cycle de l'école fondamentale, elle est devenue partie intégrante de notre système scolaire ; elle en constitue la richesse, mais elle pose également le défi de qualifier au plus haut niveau des élèves issus de familles d'origines linguistique, culturelle et sociale de plus en plus diversifiées. Se pose donc aussi la question du poids des langues : de quelles compétences langagières, à quel niveau et dans combien de langues, doit disposer un futur étudiant ? Ces compétences devront -elles être identiques pour tous, quel que soit le domaine dans lequel chacun voudra travailler un jour ? Autant de questions sur lesquelles tous les acteurs sont appelés à réfléchir et à se prononcer afin de décider quelle éducation la société souhaite donner à ses jeunes, conformément à la mission de l'école publique luxembourgeoise : socialiser, instruire et qualifier. L'école doit poser les jalons dès à présent pour répondre aux défis que posera la société de demain.
+Les curricula des classes supérieures s'orienteront selon des programmes exigeants ; l'approche par compétences tant à l'école fondamentale qu'aux classes inférieures aura préparé les élèves à maîtriser des matières complexes.
 
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Il faudra documenter dans les diplômes et les suppléments aux diplômes les matières traitées et les compétences acquises, étant donné que les universités étrangères, à défaut de soumettre nos étudiants à des concours d'entrée, exigeront des descriptifs plus détaillés de leurs compétences que le seul nombre d'heures de cours suivis par discipline.
+
+Veiller à ce que les élèves continuent à développer des compétences dans le cadre d'un travail transdisciplinaire complexe portant sur un sujet qui les intéresse au cours de leur apprentissage dans les classes supérieures, ne vise pas seulement à établir la cohérence dans l'ensemble de notre système éducatif.
+
+Cette approche permet de s'assurer que les élèves qui s'apprêtent à devenir des étudiants ont compris les matières qu'on leur a enseignées. Ce faisant – à l'heure où l'intérêt d'un grand nombre d'entre eux est plus centré sur les notes que sur les acquis – elle peut créer les conditions d'un élan vers une attitude plus positive à l'égard des études, de l'acquisition de savoirs et de compétences. C'est dire aussi qu'il faudra travailler autrement et plus.
+
+Finalement, l'école luxembourgeoise doit apporter des réponses à une situation démographique en pleine mutation et à ses répercussions sur la composition du public scolaire de plus en plus hétérogène. La mixité sociale et culturelle marque le paysage scolaire luxembourgeois et, avec désormais 60% d'enfants allophones fréquentant le 1er cycle de l'école fondamentale, elle est devenue partie intégrante de notre système scolaire ; elle en constitue la richesse, mais elle pose également le défi de qualifier au plus haut niveau des élèves issus de familles d'origines linguistique, culturelle et sociale de plus en plus diversifiées. Se pose donc aussi la question du poids des langues : de quelles compétences langagières, à quel niveau et dans combien de langues, doit disposer un futur étudiant ? Ces compétences devront-elles être identiques pour tous, quel que soit le domaine dans lequel chacun voudra travailler un jour ?
+
+Autant de questions sur lesquelles tous les acteurs sont appelés à réfléchir et à se prononcer afin de décider quelle éducation la société souhaite donner à ses jeunes, conformément à la mission de l'école publique luxembourgeoise : socialiser, instruire et qualifier. L'école doit poser les jalons dès à présent pour répondre aux défis que posera la société de demain.
 
 5
 
@@ -69,13 +102,9 @@ Les curricula des classes supérieures s'orienteront selon des programmes exigea
 Le processus de réforme adopté par le ministère repose sur les principes d'une démarche participative et de la gestion de projet :
 
  nommer des responsables du projet :
-
-- o un chef de projet ;
-
-- o un comité de pilotage ;
-
+  o un chef de projet ;
+  o un comité de pilotage ;
  déterminer un calendrier fixant les différents étapes et livrables ;
-
  informer, consulter et impliquer le plus d'acteurs possibles.
 
 Le ministère aborde la préparation de la réforme des classes supérieures en 4 étapes successives.
@@ -84,13 +113,13 @@ Le ministère aborde la préparation de la réforme des classes supérieures en 
 
 Pour informer enseignants et parents sur les défis de la préparation des élèves aux études universitaires, le ministère a organisé un cycle de conférences publiques.
 
-En septembre et en octobre 2009, deux experts étrangers, le Prof. Dr. Olaf Köller de la Humboldt -Universität Berlin et le Dr. Christoph Wittmer, recteur de la Kantonsschule Enge Zürich, ont chacun présenté les expériences de leurs pays, engagés dans une réforme similaire.
+En septembre et en octobre 2009, deux experts étrangers, le Prof. Dr. Olaf Köller de la Humboldt-Universität Berlin et le Dr. Christoph Wittmer, recteur de la Kantonsschule Enge Zürich, ont chacun présenté les expériences de leurs pays, engagés dans une réforme similaire.
 
 En janvier 2010, le Prof. Dr. Rolf Tarrach, recteur de l'Université de Luxembourg, a présenté une analyse des capacités indispensables à la réussite des études supérieures.
 
 ## La consultation des partenaires
 
-Sur le modèle du Plan d'action pour le réajustement de l'enseignement des langues, une large procédure de consultation a commencé à l'automne 2009. Les collèges des directeurs de l'enseignement secondaire et de l'enseignement secondaire technique ont exprimé leurs avis respectifs et formulé des propositions quant à une réorganisation des classes supérieures. Ces avis donnent une vue nuancée des atouts et défis spécifiques aux deux ordres d'enseignement. Entre mi -novembre et début décembre, la ministre a rencontré, lors de 5 réunions régionales, plus de 250 enseignants délégués par leurs établissements. Ces concertations ont permis d'analyser ensemble les forces et les faiblesses du système actuel et d'identifier les attentes des acteurs.
+Sur le modèle du Plan d'action pour le réajustement de l'enseignement des langues, une large procédure de consultation a commencé à l'automne 2009. Les collèges des directeurs de l'enseignement secondaire et de l'enseignement secondaire technique ont exprimé leurs avis respectifs et formulé des propositions quant à une réorganisation des classes supérieures. Ces avis donnent une vue nuancée des atouts et défis spécifiques aux deux ordres d'enseignement. Entre mi-novembre et début décembre, la ministre a rencontré, lors de 5 réunions régionales, plus de 250 enseignants délégués par leurs établissements. Ces concertations ont permis d'analyser ensemble les forces et les faiblesses du système actuel et d'identifier les attentes des acteurs.
 
 En novembre, les responsables du projet ont également discuté avec les associations d'étudiants. Leurs points de vue sur l'efficacité avec laquelle l'école luxembourgeoise les a préparés aux études supérieures alimenteront les réflexions autour des compétences à développer chez les futurs bacheliers.
 
@@ -100,12 +129,10 @@ Le présent document d'orientation, rédigé à la lumière de ces concertations
 
 ## Les groupes de travail
 
-Les travaux de préparation proprement dits se concrétiseront dès 2010 -2011 avec la mise en place de groupes de travail. Ceux -ci se consacreront aux différents champs d'action retenus dans le document d'orientation. Le travail de préparation pour la mise en œuvre de la réforme sera regroupé selon les trois axes suivants :
+Les travaux de préparation proprement dits se concrétiseront dès 2010-2011 avec la mise en place de groupes de travail. Ceux-ci se consacreront aux différents champs d'action retenus dans le document d'orientation. Le travail de préparation pour la mise en œuvre de la réforme sera regroupé selon les trois axes suivants :
 
  les aspects formels de la réforme (cadre législatif, cadre organisationnel, les besoins en personnel …) ;
-
  les contenus (compétences, programmes, cohérence disciplinaire…) ;
-
  la méthodologie (approches transdisciplinaires, etc.).
 
 6
@@ -118,18 +145,18 @@ Le dépôt du projet de loi est prévu pour début 2012. La mise en œuvre de la
 
 # PLANNING DES ÉTAPES DE LA RÉFORME DES CLASSES SUPÉRIEURES
 
-Démarche | Calendrier | Livrable
---- | --- | --- | ---
-Analyse et diagnostic | Information /Consultation | Oct - nov 2009 | Conférences / réunions
-Analyse et constats | Déc 2009 - Jan 2010 | Document de synthèse
-Proposition | Mars 2010 | Document de synthèse
-Discussion | Mars - Avril 2010 | réunions
-Décision | Elaboration d'un projet de réforme | Mai 2010 | Document de référence
-Mise en oeuvre | Au niveau des contenus | Juin 2012 | Socles et programmes
-Au niveau des méthodes | Juin 2012
-Au niveau de l'organisation | Grille horaires / organisation scolaire / format du bac
-Au niveau législatif | 2012 - 2013 | Dépôt du projet de loi janvier 2012
-Au niveau des établissements scolaires | 2012 - 2013 | Préparatifs dans les établissements
+| | Démarche | Calendrier | Livrable |
+| --- | --- | --- | --- |
+| Analyse et diagnostic | Information /Consultation | Oct-nov 2009 | Conférences / réunions |
+| | Analyse et constats | Déc 2009 - Jan 2010 | Document de synthèse |
+| | Proposition | Mars 2010 | Document de synthèse |
+| | Discussion | Mars - Avril 2010 | réunions |
+| Décision | Elaboration d'un projet de réforme | Mai 2010 | Document de référence |
+| Mise en oeuvre | Au niveau des contenus | Juin 2012 | Socles et programmes |
+| | Au niveau des méthodes | Juin 2012 | |
+| | Au niveau de l'organisation | | Grille horaires / organisation scolaire / format du bac |
+| | Au niveau législatif | 2012-2013 | Dépôt du projet de loi janvier 2012 |
+| | Au niveau des établissements scolaires | 2012-2013 | Préparatifs dans les établissements |
 
 # STRUCTURE DU DOCUMENT D'ORIENTATION
 
@@ -137,9 +164,9 @@ Le présent document constitue un moment charnière dans le processus de réform
 
 ## PARTIE I
 
-La première partie précise le contexte dans lequel s'inscrit le projet de réforme des classes supérieures en donnant un aperçu des réformes et nouvelles orientations à l'enseignement fondamental et dans les classes inférieures de l'enseignement post -primaire.
+La première partie précise le contexte dans lequel s'inscrit le projet de réforme des classes supérieures en donnant un aperçu des réformes et nouvelles orientations à l'enseignement fondamental et dans les classes inférieures de l'enseignement post-primaire.
 
-Un historique des réformes de l'enseignement secondaire et secondaire technique fournit un aperçu sur l'évolution des classes supérieures depuis les années 1960 -1970.
+Un historique des réformes de l'enseignement secondaire et secondaire technique fournit un aperçu sur l'évolution des classes supérieures depuis les années 1960-1970.
 
 Des données statistiques sur la population estudiantine permettent enfin de tirer des conclusions quant au devenir de nos jeunes après avoir obtenu un diplôme de fin d'études. Elles constituent un indicateur concernant les atouts et défis de notre système.
 
@@ -175,11 +202,11 @@ http://www.men.public.lu/priorites/reforme_classes_superieures/090723_bibliotheq
 
 # PARTIE I ) LA REFORME DES CLASSES SUPERIEURES DANS LE CADRE DU SYSTEME EDUCATIF
 
-## 1. L'ÉCOLE FONDAMENTALE, LES CLASSES INFÉRIEURES DE L'ENSEIGNEMENT POST -PRIMAIRE ET LA FORMATION PROFESSIONNELLE : DES CHANGEMENTS CONSÉQUENTS ET DURABLES
+## 1. L'ÉCOLE FONDAMENTALE, LES CLASSES INFÉRIEURES DE L'ENSEIGNEMENT POST-PRIMAIRE ET LA FORMATION PROFESSIONNELLE : DES CHANGEMENTS CONSÉQUENTS ET DURABLES
 
 Le système scolaire luxembourgeois a vécu de profondes modifications ces dernières années afin de répondre au mieux aux besoins et attentes du public d'aujourd'hui, d'élever le niveau de qualification des élèves et de tenir compte des évolutions et recherches en matière d'éducation.
 
-Ainsi, la loi de 1912 portant organisation de l'école primaire a été remplacée par la loi du 6 février 2009 régissant l'organisation de l'école fondamentale. Cette réforme porte autant sur l'organisation scolaire que sur l'enseignement lui -même.
+Ainsi, la loi de 1912 portant organisation de l'école primaire a été remplacée par la loi du 6 février 2009 régissant l'organisation de l'école fondamentale. Cette réforme porte autant sur l'organisation scolaire que sur l'enseignement lui-même.
 
 Si les classes inférieures de l'enseignement secondaire et secondaire technique n'ont pas connu de réforme au niveau structurel, des changements quant à la didactique et à la pédagogie ont été amorcés depuis la mise en œuvre de l'approche par compétences dans certaines matières. Il ne s'agit plus d'assimiler uniquement des savoirs, mais d'être en mesure de les utiliser à bon escient dans des situations complexes et variées. Le savoir en tant que tel ne suffit plus, mais il est et demeure à la base de l'apprentissage.
 
@@ -187,9 +214,9 @@ Quant à la loi portant réforme de la formation professionnelle du 19 décembre
 
 ### 1.1. LA RÉFORME DE L'ÉCOLE FONDAMENTALE
 
-La nouvelle loi sur l'école primaire, désormais appelée école fondamentale, est entrée en vigueur à la rentrée 2009 -2010. Les changements entraînés par cette réforme concernent principalement l'organisation scolaire, la pédagogie, l'évaluation et le travail des enseignants.
+La nouvelle loi sur l'école primaire, désormais appelée école fondamentale, est entrée en vigueur à la rentrée 2009-2010. Les changements entraînés par cette réforme concernent principalement l'organisation scolaire, la pédagogie, l'évaluation et le travail des enseignants.
 
-Concernant l'organisation scolaire , des cycles d'apprentissages, au nombre de quatre et d'une durée moyenne de 2 années, remplacent les années d'études. Les enfants disposent ainsi de deux années pour atteindre les objectifs fixés par des socles de compétences se rapportant à la fin de chaque cycle.
+Concernant l'organisation scolaire, des cycles d'apprentissages, au nombre de quatre et d'une durée moyenne de 2 années, remplacent les années d'études. Les enfants disposent ainsi de deux années pour atteindre les objectifs fixés par des socles de compétences se rapportant à la fin de chaque cycle.
 
 L'introduction de l'approche par compétences entraîne une réorganisation des pratiques et de l'évaluation :
 
@@ -217,17 +244,27 @@ Sur le site internet du ministère, des informations concernant la réforme de l
 
 ### 1.2. LA RÉORGANISATION DES CLASSES INFÉRIEURES DE L'ENSEIGNEMENT SECONDAIRE ET SECONDAIRE TECHNIQUE
 
-Un des changements majeurs des dernières années dans les classes inférieures des deux ordres d'enseignement a été l'introduction et la mise en œuvre de l'approche par compétences. Le programme gouvernemental pour la période de législature 2009 -2014 prévoit la poursuite de la réorganisation des classes
+Un des changements majeurs des dernières années dans les classes inférieures des deux ordres d'enseignement a été l'introduction et la mise en œuvre de l'approche par compétences. Le programme gouvernemental pour la période de législature 2009-2014 prévoit la poursuite de la réorganisation des classes inférieures.
 
-inférieures. L'année scolaire 2009 -2010 se caractérise ainsi par la consolidation de cette approche qui sera généralisée dans toutes les branches des classes inférieures de l'enseignement secondaire et secondaire technique. Les 13 lycées -pilotes 1 qui avaient initié l'approche par compétences dans les classes de 7e en 2007 -2008, entrent désormais dans leur 3e année avec les classes de 5e et de 9e. Tous les autres établissements entament leur deuxième année. Dans une perspective de continuité avec l'école fondamentale, l'enseignement des classes inférieures vise ainsi à la consolidation et l'approfondissement des compétences acquises précédemment, tout en élargissant le spectre. La finalité de l'approche par compétences étant de développer les compétences définies dans chacun des domaines identifiés dans les différentes matières, l'évaluation doit rendre compte des acquis et de la progression dans ces domaines. Au bulletin traditionnel des notes s'ajoute ainsi un complément au bulletin qui fournit des informations plus détaillées et nuancées sur les acquis et la progression de l'élève. Une évaluation identifiant plus précisément les forces et faiblesses des élèves permet d'établir pour chacun un profil qui doit améliorer les procédures d'orientation.
+L'année scolaire 2009-2010 se caractérise ainsi par la consolidation de cette approche qui sera généralisée dans toutes les branches des classes inférieures de l'enseignement secondaire et secondaire technique.
 
-> 1 Lycée classique Echternach, Lycée Aline Mayrisch, Lycée du Nord, Lycée technique de Bonnevoie, Lycée Josy Barthel à Mamer, Lycée technique des Arts et Métiers, Lycée technique à Ettelbrück, Lycée technique agricole, Nordstadlycée, Lycée technique Joseph Bech, Lycée technique d'Esch -sur -Alzette, Lycée technique Lallange, Lycée technique Nic Biever
+Les 13 lycées-pilotes¹ qui avaient initié l'approche par compétences dans les classes de 7e en 2007-2008, entrent désormais dans leur 3e année avec les classes de 5e et de 9e. Tous les autres établissements entament leur deuxième année.
+
+Dans une perspective de continuité avec l'école fondamentale, l'enseignement des classes inférieures vise ainsi à la consolidation et l'approfondissement des compétences acquises précédemment, tout en élargissant le spectre.
+
+La finalité de l'approche par compétences étant de développer les compétences définies dans chacun des domaines identifiés dans les différentes matières, l'évaluation doit rendre compte des acquis et de la progression dans ces domaines.
+
+Au bulletin traditionnel des notes s'ajoute ainsi un complément au bulletin qui fournit des informations plus détaillées et nuancées sur les acquis et la progression de l'élève. Une évaluation identifiant plus précisément
+
+> 1 Lycée classique Echternach, Lycée Aline Mayrisch, Lycée du Nord, Lycée technique de Bonnevoie, Lycée Josy Barthel à Mamer, Lycée technique des Arts et Métiers, Lycée technique à Ettelbrück, Lycée technique agricole, Nordstadlycée, Lycée technique Joseph Bech, Lycée technique d'Esch-sur-Alzette, Lycée technique Lallange, Lycée technique Nic Biever
 
 10
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+les forces et faiblesses des élèves permet d'établir pour chacun un profil qui doit améliorer les procédures d'orientation.
 
 Un document cadre destiné à la réorganisation des classes inférieures offre une vue plus détaillée sur les changements entamés.
 
@@ -239,13 +276,13 @@ http://www.men.public.lu/priorites/competences/070920_competences_postprimaire/i
 
 La loi de 2008 réorganise le régime professionnel et le régime de la formation de technicien. Elle porte sur un total de 118 formations, qui mènent :
 
-- dans le régime de la formation professionnelle
+1) dans le régime de la formation professionnelle
 
  au certificat de capacité professionnelle (CCP) : c'est une formation professionnelle qui vise à faire acquérir aux jeunes les compétences indispensables pour une première insertion dans la vie professionnelle ;
 
  au diplôme d'aptitude professionnelle (DAP) qui remplace l'actuel CATP ;
 
-- dans le régime de la formation de technicien
+2) dans le régime de la formation de technicien
 
  au diplôme de technicien.
 
@@ -267,7 +304,7 @@ http://www.men.public.lu/priorites/formation_professionnelle/index.html
 
 Penser une réforme des classes supérieures amène à situer ce projet dans un contexte et à l'éclairer de différentes façons. Il s'agit d'un côté d'analyser l'existant, d'en dégager les atouts et les défis. Mais il est indispensable d'un autre côté de comprendre l'existant comme un aboutissement de réflexions et décisions politiques et sociétales reflétant les réalités et préoccupations d'une époque donnée. C'est grâce à cette double perspective que l'existant n'apparaît plus comme une donnée immuable, mais comme un ensemble d'innovations devenues des traditions et pratiques courantes.
 
-L'historique des réformes à l'enseignement secondaire et à l'enseignement secondaire technique n'est pas le même. La division actuelle en deux ordres d'enseignement remonte à 1979, époque à laquelle a été créé le lycée 'classique' et le lycée 'technique'. Si la terminologie a évolué entre -temps, la distinction entre un enseignement secondaire préparant "sur la base d'une formation générale approfondie, essentiellement aux études supérieures de niveau univrsitaire" (article 44 de la loi modifée du 10 mai 1968 portant réforme de l'enseignement secondaire) et un enseignement secondaire technique préparant "en collaboration avec le monde économique et social, à la vie professionnelle en assurant aux élèves une formation générale, sociale, technique et professionnelle" et permettant aussi "d'accéder à l'enseignement supérieur" (article 1er de la loi modifiée du 4 septembre 1990 portant réforme de l'enseignemetn secondaire technique et de la formation professionnelle continue) est demeurée une réalité de notre paysage scolaire. Aussi convient -il de dresser l'historique des deux ordres d'enseignement séparément.
+L'historique des réformes à l'enseignement secondaire et à l'enseignement secondaire technique n'est pas le même. La division actuelle en deux ordres d'enseignement remonte à 1979, époque à laquelle a été créé le lycée “classique” et le lycée “technique”. Si la terminologie a évolué entre-temps, la distinction entre un enseignement secondaire préparant "sur la base d'une formation générale approfondie, essentiellement aux études supérieures de niveau universitaire" (article 44 de la loi modifiée du 10 mai 1968 portant réforme de l'enseignement secondaire) et un enseignement secondaire technique préparant "en collaboration avec le monde économique et social, à la vie professionnelle en assurant aux élèves une formation générale, sociale, technique et professionnelle" et permettant aussi "d'accéder à l'enseignement supérieur" (article 1er de la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue) est demeurée une réalité de notre paysage scolaire. Aussi convient-il de dresser l'historique des deux ordres d'enseignement séparément.
 
 12
 
@@ -287,13 +324,13 @@ L'impossibilité pour les élèves de changer de section si leur choix initial s
 
 La loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 a ainsi donné lieu à une restructuration de l'enseignement secondaire avec une subdivision de la division supérieure en deux cycles:
 
- un cycle polyvalent (4e -3e );
+ un cycle polyvalent (4e – 3e) ;
 
- un cycle de spécialisation (2e -1re ).
+ un cycle de spécialisation (2e – 1re).
 
 Cette nouvelle structure devait garantir une meilleure formation générale et empêcher une spécialisation aux choix précoces souvent aléatoires et irréversibles.
 
-Or, afin de faciliter le choix de la spécialisation à la fin de la classe de 3e et d'offrir aux élèves la possibilité d'une première orientation en fonction de leurs goûts et intérêts, la loi du 22 juin 1989 prévoyait au cycle polyvant les mesures suivantes :
+Or, afin de faciliter le choix de la spécialisation à la fin de la classe de 3e et d'offrir aux élèves la possibilité d'une première orientation en fonction de leurs goûts et intérêts, la loi du 22 juin 1989 prévoyait au cycle polyvalent les mesures suivantes :
 
  la subdivision en une orientation littéraire et une orientation scientifique se distinguant essentiellement par des cours de mathématiques différents ;
 
@@ -306,28 +343,15 @@ Les passerelles entre les deux orientations étaient plus aisées que ne l'étai
 Cette première subdivision s'est poursuivie au cycle supérieur avec les spécialisations suivantes :
 
  orientation littéraire
+  o A1 : langues
+  o A2 : sciences humaines et sociales
+  o E : arts plastiques
+  o F : musique
 
  orientation scientifique
-
-- o mathématiques -sciences physiques
-
-- o mathématiques -sciences naturelles
-
-- o mathématiques -sciences économiques
-
-- o A1 : langues
-
-- o A2 :
-
-sciences humaines et sociales
-
-- o E
-
-:
-
-arts plastiques
-
-- o F : musique
+  o mathématiques – sciences physiques
+  o mathématiques – sciences naturelles
+  o mathématiques – sciences économiques
 
 Avec la loi du 12 juillet 2002 le cycle de spécialisation est passé à 3 années et les sections A1 et A2 ont été remplacées par les sections A et G.
 
@@ -341,7 +365,7 @@ Avec la loi du 12 juillet 2002 le cycle de spécialisation est passé à 3 anné
 
 #### Les bases légales et réglementaires
 
-C'est en 1965 qu'est créé un nouvel ordre d'études, dénommé « moyen », conçu comme un enseignement post -primaire allégé et écourté par rapport au secondaire.
+C'est en 1965 qu'est créé un nouvel ordre d'études, dénommé « moyen », conçu comme un enseignement post-primaire allégé et écourté par rapport au secondaire.
 
 La durée des études moyennes est fixée à cinq ans ; ces études ne qualifient pas aux études supérieures, mais doivent préparer à l'entrée directe dans une activité professionnelle.
 
@@ -367,13 +391,13 @@ La loi du 19 décembre 2008 a réorganisé le régime professionnel et le régim
 
 ## 3. CHIFFRES ET STATISTIQUES
 
-### 3.1. LA PROPORTION DES ÉLÈVES DIPLÔMÉS DE L'ENSEIGNEMENT SECONDAIRE ET SECONDAIRE TECHNQIUE QUI ENTAMENT DES ÉTUDES SUPÉRIEURES
+### 3.1. LA PROPORTION DES ÉLÈVES DIPLÔMÉS DE L'ENSEIGNEMENT SECONDAIRE ET SECONDAIRE TECHNIQUE QUI ENTAMENT DES ÉTUDES SUPÉRIEURES
 
 D'après les données du ministère de l'Enseignement supérieur et de la Recherche, 71% des diplômés de l'enseignement secondaire et secondaire technique entament des études supérieures. L'enseignement secondaire préparant surtout aux études supérieures, ce taux y est plus élevé : 87% . Dans le régime technique de l'enseignement secondaire, dont la finalité est double (accès à la vie professionnelle et aux études supérieures), ce taux se situe à 60%, alors que pour le régime du technicien, dont la finalité est principalement l'accès à la vie active, il se situe à 43%.
 
 ### 3.2. LE LIEU DE LA FORMATION SUPÉRIEURE
 
-La plupart des étudiants se dirigent vers le Luxembourg ou vers les pays limitrophes pour faire leurs études. En effet, environ 25% des étudiants font leurs études au Luxembourg, 25% en Belgique, 20% en Allemagne, 15% en France. D'autres pays ne jouent qu'un rôle secondaire : Autriche 4%, Royaume -Uni 3%, Suisse 3%. On trouve également quelques étudiants luxembourgeois au Portugal, aux Pays -Bas, aux Etats -Unis, en Espagne et en Italie (au total 5%).
+La plupart des étudiants se dirigent vers le Luxembourg ou vers les pays limitrophes pour faire leurs études. En effet, environ 25% des étudiants font leurs études au Luxembourg, 25% en Belgique, 20% en Allemagne, 15% en France. D'autres pays ne jouent qu'un rôle secondaire : Autriche 4%, Royaume-Uni 3%, Suisse 3%. On trouve également quelques étudiants luxembourgeois au Portugal, aux Pays-Bas, aux Etats-Unis, en Espagne et en Italie (au total 5%).
 
 ### 3.3. DOMAINE DE FORMATION SUPÉRIEURE EN FONCTION DE L'ORDRE D'ENSEIGNEMENT ET DU RÉGIME D'ENSEIGNEMENT
 
@@ -393,7 +417,7 @@ Sciences naturelles | 8% | 4% | 5%
 Sports | 2% | 0% | 1%
 Inconnu | 2% | 3% | 1%
 
-Les sciences humaines et sociales qui comptent le nombre le plus élevé de diplômés de l'enseignement secondaire regroupent les matières suivantes : 'pédagogie', 'psychologie', 'communication', 'histoire', 'géographie humaine' et 'philosophie'.
+Les sciences humaines et sociales qui comptent le nombre le plus élevé de diplômés de l'enseignement secondaire regroupent les matières suivantes : “pédagogie”, “psychologie”, “communication”, “histoire”, “géographie humaine” et “philosophie”.
 
 15
 
@@ -403,7 +427,7 @@ Les sciences humaines et sociales qui comptent le nombre le plus élevé de dipl
 
 ### 3.4. EVOLUTION DES ÉTUDES
 
-Les données quantitatives du ministère de l'Enseignement supérieur et de la Recherche ne permettent pas d'établir une évaluation qualitative précise des cursus universitaires. Néanmoins, on peut constater qu'un tiers environ des étudiants -tous ordres, régimes et sections confondus -abandonne les études après la première ou la deuxième année, un autre tiers change d'orientation concernant ses études supérieures après une ou deux années, l'autre tiers continue les études dans la même voie de formation jusqu'à l'obtention du diplôme visé.
+Les données quantitatives du ministère de l'Enseignement supérieur et de la Recherche ne permettent pas d'établir une évaluation qualitative précise des cursus universitaires. Néanmoins, on peut constater qu'un tiers environ des étudiants – tous ordres, régimes et sections confondus – abandonne les études après la première ou la deuxième année, un autre tiers change d'orientation concernant ses études supérieures après une ou deux années, l'autre tiers continue les études dans la même voie de formation jusqu'à l'obtention du diplôme visé.
 
 16
 
@@ -467,7 +491,7 @@ A partir des prises de positions des acteurs interrogés, 9 thèmes prioritaires
 
 Les prises de positions sur les atouts et déficits du système actuel ont été synthétisées en fonction des 9 thèmes prioritaires et récurrents.
 
-Si la majorité des aspects mentionnés ci -dessous sont communs aux prises de position des deux ordres d'enseignement, un certain nombre d'entre eux concernent ou bien l'ES ou bien l'EST.
+Si la majorité des aspects mentionnés ci-dessous sont communs aux prises de position des deux ordres d'enseignement, un certain nombre d'entre eux concernent ou bien l'ES ou bien l'EST.
 
 À noter que certains thèmes ont été identifiés à la fois comme des atouts et des déficits, ou du moins des problèmes.
 
@@ -475,24 +499,17 @@ Si la majorité des aspects mentionnés ci -dessous sont communs aux prises de p
 #### ATOUTS
 
  Organisation (ES)
+  o 4e : année de consolidation
+  o 3e : spécialisation
 
  Approfondissement des matières
 
  Niveau de qualification élevé pour études (EST : études spécialisées) et accès à la vie professionnelle (EST)
 
-- o 4e : année de consolidation
-
-- o 3e : spécialisation
-
 #### DÉFICITS
 
  Organisation (EST)
-
-- o
-
-- 10e :
-
-immaturité des élèves
+  o 10e : immaturité des élèves
 
  Déséquilibre entre les sections (trop ou pas assez spécialisées)
 
@@ -502,21 +519,16 @@ immaturité des élèves
 
  ES : trop de sections
 
- EST :
-
-pas assez de sections (manque d'une formation générale)
+ EST : pas assez de sections (manque d'une formation générale)
 
 ### 2. MULTILINGUISME
 
 #### ATOUTS
 
  Multilinguisme (3 langues) = bonne base pour :
-
-- o études supérieures
-
-- o monde professionnel
-
-- o ouverture aux autres / citoyenneté
+  o études supérieures
+  o monde professionnel
+  o ouverture aux autres / citoyenneté
 
  Enseignement des langues vise un niveau élevé
 
@@ -529,10 +541,8 @@ pas assez de sections (manque d'une formation générale)
 #### DÉFICITS
 
  Multilinguisme
-
-- o échecs
-
-- o risque de « clivage social »
+  o échecs
+  o risque de « clivage social »
 
  Langues véhiculaires dans les disciplines non linguistiques (surtout le français) : problèmes de compréhension
 
@@ -625,10 +635,8 @@ pas assez de sections (manque d'une formation générale)
  Préparation insuffisante à la situation d'examen (volume du travail à réviser)
 
  Rigidité de l'examen :
-
-- o nombre de matières à l'examen trop élevé
-
-- o d'autres compétences des élèves ne sont pas valorisées
+  o nombre de matières à l'examen trop élevé
+  o d'autres compétences des élèves ne sont pas valorisées
 
  Notation sévère
 
@@ -645,15 +653,11 @@ pas assez de sections (manque d'une formation générale)
 
  Critères d'admissibilité pour certaines sections seulement (ES)
 
- Exigences en 10 e en décalage avec exigences en 9e
+ Exigences en 10e en décalage avec exigences en 9e
 
  Incohérences entre l'ES et l'EST et rigidité des sections :
-
-e
-
-- o choix de la spécialisation : 4 e / 9
-
-- o risque de perte de temps si réorientation à l'EST (il faut reprendre en 10e)
+  o choix de la spécialisation : 4e / 9e
+  o risque de perte de temps si réorientation à l'EST (il faut reprendre en 10e)
 
 ### 8. FONCTIONNEMENT / ORGANISATION SCOLAIRE
 #### ATOUTS
@@ -700,7 +704,7 @@ e
 
 ## 3. PERSPECTIVES
 
-Les avis reflètent toujours la perspective de ceux qui en sont les auteurs. Ils peuvent ainsi diverger ou même se contredire en fonction par exemple des ordres d'enseignement, des spécialisations proposées dans les établissements, des expériences faites lors des études supérieures... Or, si le contenu des prises de position n'est pas le même, on peut néanmoins dégager quelques grandes lignes quant à la vision de l'enseignement post -primaire.
+Les avis reflètent toujours la perspective de ceux qui en sont les auteurs. Ils peuvent ainsi diverger ou même se contredire en fonction par exemple des ordres d'enseignement, des spécialisations proposées dans les établissements, des expériences faites lors des études supérieures... Or, si le contenu des prises de position n'est pas le même, on peut néanmoins dégager quelques grandes lignes quant à la vision de l'enseignement post-primaire.
 
 Tout d'abord, les avis témoignent tous d'une vision nuancée de certaines réalités complexes de notre système en en dégageant à la fois les atouts et les dysfonctionnements.
 
@@ -784,9 +788,9 @@ Concernant l'attitude par rapport au travail, il est amené à :
 
  s'appuyer sur des méthodes de travail telles que la prise de notes, la définition d'une problématique, la construction d'un plan…
 
-Concernant l'attitude par rapport à soi -même, il est amené à :
+Concernant l'attitude par rapport à soi-même, il est amené à :
 
- savoir s'auto -évaluer, connaître et reconnaître ses forces et ses limites et entreprendre des actions en conséquence ;
+ savoir s'auto-évaluer, connaître et reconnaître ses forces et ses limites et entreprendre des actions en conséquence ;
 
  savoir choisir un parcours de formation et un projet professionnel correspondant à ses intérêts, ses capacités et ses désirs ;
 
@@ -820,7 +824,7 @@ Il est à relever que ces approches sont considérées comme complémentaires au
 
 Ces produits sont consignés dans le « portfolio » de l'élève et constituent une preuve de son engagement scolaire (pour plus de détails, cf. « culture générale »).
 
-A la fin de la classe de 2e et de 12e, l'élève est amené à réaliser un travail d'envergure individuel .
+A la fin de la classe de 2e et de 12e, l'élève est amené à réaliser un travail d'envergure individuel.
 
 ### ILLUSTRATION DE LA MISE EN OEUVRE DES COMPÉTENCES TRANSVERSALES : LE TRAVAIL D'ENVERGURE INDIVIDUEL
 
@@ -838,11 +842,11 @@ Le travail d'envergure vise à montrer que les compétences transversales suivan
 
  l'élève a exploré, d'un point de vue pluridisciplinaire, les différents aspects d'un problème, entre autre au moyen d'un travail de recherche et de documentation ;
 
- l'élève s'est investi de manière approfondie et au -delà des contenus enseignés dans une ou plusieurs matières ;
+ l'élève s'est investi de manière approfondie et au-delà des contenus enseignés dans une ou plusieurs matières ;
 
  l'élève est capable de synthétiser les informations des sources diverses pour réaliser une production personnelle ;
 
- l'élève a développé un sens critique vis -à -vis de son travail, est capable de reconnaître une erreur et de la redresser ;
+ l'élève a développé un sens critique vis-à-vis de son travail, est capable de reconnaître une erreur et de la redresser ;
 
  l'élève a assimilé les savoirs liés à la problématique de manière à présenter et défendre son travail devant un jury lors d'une présentation orale.
 
@@ -854,11 +858,11 @@ Le travail d'envergure vise à montrer que les compétences transversales suivan
 
 #### MISE EN ŒUVRE
 
-Pour garantir le caractère pluridisciplinaire du travail d'envergure, il faut que la production finale soit en relation avec plusieurs matières de spécialisation choisies par l'élève. Afin d'assurer que le projet soit réalisable à la fois au niveau de la complexité et au niveau de l'envergure du travail à réaliser, le sujet choisi par l'élève doit être examiné, discuté et validé par un enseignant -tuteur qui accompagne l'élève tout au long du projet. Le travail d'envergure débouche certes sur une production individuelle, mais les étapes intermédiaires peuvent être réalisées individuellement ou en groupe.
+Pour garantir le caractère pluridisciplinaire du travail d'envergure, il faut que la production finale soit en relation avec plusieurs matières de spécialisation choisies par l'élève. Afin d'assurer que le projet soit réalisable à la fois au niveau de la complexité et au niveau de l'envergure du travail à réaliser, le sujet choisi par l'élève doit être examiné, discuté et validé par un enseignant-tuteur qui accompagne l'élève tout au long du projet. Le travail d'envergure débouche certes sur une production individuelle, mais les étapes intermédiaires peuvent être réalisées individuellement ou en groupe.
 
 Pour pouvoir suivre la progression du travail et afin de s'assurer que le travail soit le fruit de réflexions personnelles, l'élève doit documenter l'évolution de son projet et rendre compte à intervalles réguliers des démarches entreprises.
 
-Partant du principe que l'élève a certes acquis au cours des années précédentes les savoirs, les stratégies et les méthodes de travail qui lui permettent de réaliser un tel projet, il reste cependant à assurer un appui, un support en cas de difficulté. Voilà pourquoi l'élève est accompagné pendant l'année scolaire par une personne -ressource (enseignant -tuteur ou autre enseignant) vers laquelle il peut se tourner en cas de problème, qui assure un suivi régulier et qui est à disposition de l'élève.
+Partant du principe que l'élève a certes acquis au cours des années précédentes les savoirs, les stratégies et les méthodes de travail qui lui permettent de réaliser un tel projet, il reste cependant à assurer un appui, un support en cas de difficulté. Voilà pourquoi l'élève est accompagné pendant l'année scolaire par une personne-ressource (enseignant-tuteur ou autre enseignant) vers laquelle il peut se tourner en cas de problème, qui assure un suivi régulier et qui est à disposition de l'élève.
 
 Afin d'assurer une certaine équité au niveau de la réalisation du travail d'envergure, un encadrement des élèves peut être prévu dans la grille horaire pour son élaboration.
 
@@ -908,7 +912,7 @@ Elle est comprise comme un ensemble de connaissances dans les domaines des diff�
 
 Il est essentiel que les élèves s'intéressent aux enjeux et défis auxquels ils seront confrontés et puissent participer aux grandes discussions de société. Il s'agit d'éveiller leur curiosité et de favoriser une attitude ouverte et nuancée face à ce qui est inconnu en les amenant à :
 
- développer une ouverture d'esprit au -delà de leurs centres d'intérêts immédiats ;
+ développer une ouverture d'esprit au-delà de leurs centres d'intérêts immédiats ;
 
  former leur jugement critique.
 
@@ -936,7 +940,11 @@ L'objectif de la transmission d'une culture générale étant non seulement de f
 
  une approche transdisciplinaire.
 
-Relevons que les projets et productions collectifs et individuels ainsi que le travail d'envergure individuel participent de cette démarche. Il est évident que lorsqu'on veut favoriser un enseignement décloisonné, les enseignants doivent pouvoir disposer d'outils et d'objectifs leur permettant de le réaliser concrètement. C'est pourquoi il est nécessaire que les différentes commissions nationales se concertent en amont de l'élaboration des programmes pour leur matière afin d'en garantir la cohérence et l'harmonisation. Les futurs programmes ne sont donc plus conçus "individuellement" par chaque commission, mais ils sont mis en place après la définition d'un cadre global et d'objectifs communs. Mais la culture générale ne s'acquiert pas seulement à l'école, son acquisition dépasse même largement le cadre de celle -ci. On veille ainsi à ne pas seulement valoriser le travail scolaire, mais aussi les engagements de l'élève en -dehors de l'école grâce à la constitution d'un portfolio regroupant divers produits qu'il a réalisés.
+Relevons que les projets et productions collectifs et individuels ainsi que le travail d'envergure individuel participent de cette démarche.
+
+Il est évident que lorsqu'on veut favoriser un enseignement décloisonné, les enseignants doivent pouvoir disposer d'outils et d'objectifs leur permettant de le réaliser concrètement. C'est pourquoi il est nécessaire que les différentes commissions nationales se concertent en amont de l'élaboration des programmes pour leur matière afin d'en garantir la cohérence et l'harmonisation. Les futurs programmes ne sont donc plus conçus "individuellement" par chaque commission, mais ils sont mis en place après la définition d'un cadre global et d'objectifs communs.
+
+Mais la culture générale ne s'acquiert pas seulement à l'école, son acquisition dépasse même largement le cadre de celle-ci. On veille ainsi à ne pas seulement valoriser le travail scolaire, mais aussi les engagements de l'élève en-dehors de l'école grâce à la constitution d'un portfolio regroupant divers produits qu'il a réalisés.
 
 Ce portfolio est constitué des éléments suivants :
 
@@ -984,13 +992,15 @@ L'enseignement secondaire technique doit garder ses spécificités par rapport �
 
 ### PRINCIPES
 
-La spécialisation se fait de façon progressive et cohérente , en fonction des spécificités de chaque ordre d'enseignement et en fonction de la voie de formation choisie. En proposant des enseignements cohérents qui conduisent l'élève à choisir progressivement sa spécialité, on évite l'écueil d'une spécialisation précoce et l'amoncellement de matières disparates menant à un enseignement "à la carte" morcelé et peu propice à l'acquisition d'une culture générale élargie et d'une spécialisation pertinente.
+La spécialisation se fait de façon progressive et cohérente, en fonction des spécificités de chaque ordre d'enseignement et en fonction de la voie de formation choisie. En proposant des enseignements cohérents qui conduisent l'élève à choisir progressivement sa spécialité, on évite l'écueil d'une spécialisation précoce et
 
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+l'amoncellement de matières disparates menant à un enseignement "à la carte" morcelé et peu propice à l'acquisition d'une culture générale élargie et d'une spécialisation pertinente.
 
 Comme l'examen de fin d'études certifie l'acquisition d'une certaine culture générale, les matières suivantes doivent figurer dans le curriculum :
 
@@ -1034,6 +1044,14 @@ Les élèves se destinant à une carrière à dominante scientifique bénéficie
 
 [[START OF PAGE 30]]
 
+Classe de 4e
+
+| | Cours de français | Cours de mathématiques |
+| --- | --- | --- |
+| L'élève veut s'orienter vers la dominante langues et sciences humaines | cours d'excellence | |
+| L'élève veut s'orienter vers la dominante sciences naturelles et mathématiques | | cours d'excellence |
+| L'élève ambitionne une formation approfondie et s'ouvre un éventail de choix plus large | cours d'excellence | cours d'excellence |
+
 Le choix de l'un ou de l'autre cours d'excellence ne repose pas sur un choix par élimination, car les deux matières continuent d'être enseignées. La différenciation entre les deux cours porte sur les finalités et les contenus : on privilégie une approche plus analytique pour l'enseignement du cours d'excellence et une approche plus descriptive pour l'autre cours.
 
 Les finalités et contenus sont définis ultérieurement par les commissions nationales pour les programmes.
@@ -1042,11 +1060,15 @@ Relevons que les élèves peuvent choisir les deux cours d'excellence.
 
 #### CLASSE DE 3E
 
-En classe de 3e, les élèves font le choix entre les deux dominantes. En principe, les élèves ayant choisi les mathématiques à un niveau d'excellence s'orientent vers la dominante sciences et mathématiques , et y bénéficient d'un enseignement plus approfondi en sciences de la nature. Les autres matières font partie d'un tronc commun.
+En classe de 3e, les élèves font le choix entre les deux dominantes. En principe, les élèves ayant choisi les mathématiques à un niveau d'excellence s'orientent vers la dominante sciences et mathématiques, et y bénéficient d'un enseignement plus approfondi en sciences de la nature. Les autres matières font partie d'un tronc commun.
 
-Les élèves ayant opté pour le cours d'excellence en français choisissent en principe la dominante sciences humaines
+Les élèves ayant opté pour le cours d'excellence en français choisissent en principe la dominante sciences humaines et langues, et y voient leur cursus s'élargir d'une 4e langue vivante. Notons toutefois qu'à l'entrée en classe de 3e, l'élève peut décider de poursuivre son parcours de spécialisation dans l'autre dominante selon des modalités à déterminer.
 
-et langues , et y voient leur cursus s'élargir d'une 4e langue vivante. Notons toutefois qu'à l'entrée en classe de 3e, l'élève peut décider de poursuivre son parcours de spécialisation dans l'autre dominante selon des modalités à déterminer.
+3e dominante langues et sciences humaines
+
+3e dominante sciences et mathématiques
+
+classe de 4e : choix de cours d'excellence français et/ou mathématiques
 
 30
 
@@ -1070,9 +1092,15 @@ Dans le volet spécialisation au moins trois matières sont à choisir à un niv
 
 Dans le volet formation générale figurent les matières faisant partie de la culture générale et ne faisant pas partie du volet spécialisation. L'approche interdisciplinaire peut constituer une alternative aux cours traditionnels pour les matières faisant partie du volet culture générale.
 
-Relevons que les matières actuellement au programme des différentes sections se retrouvent ou dans le volet spécialisation ou dans le volet formation générale . Les commissions nationales pour les programmes décideront de la répartition de ces matières dans les différents volets.
+Relevons que les matières actuellement au programme des différentes sections se retrouvent ou dans le volet spécialisation ou dans le volet formation générale. Les commissions nationales pour les programmes décideront de la répartition de ces matières dans les différents volets.
 
 Une des conséquences de cette forme d'organisation est, à partir de la 2e, la disparition de la « classe » au profit d'auditoires, ainsi que de la fonction de régent. Ce dernier pourrait être remplacé par un « tuteur » qui suit un groupe d'élèves. Il pourrait également les conseiller plus particulièrement dans l'élaboration du travail d'envergure.
+
+| | langues et sciences humaines | sciences et mathématiques |
+| --- | --- | --- |
+| Langues | Choix obligatoire 1ère : 3 langues dont anglais | Choix obligatoire en 1ère : anglais, mathématiques et 2e langue |
+| Spécialisation | Sélection d'une combinaison de cours parmi des matières se rapportant à la dominante | Sélection d'une combinaison de cours parmi des matières se rapportant à la dominante |
+| Formation générale | cours obligatoires visant à compléter une formation générale | cours obligatoires visant à compléter une formation générale |
 
 31
 
@@ -1130,7 +1158,33 @@ L'élève se spécialise à l'intérieur d'une des trois dominantes :
 
 Le futur éducateur peut être recruté à partir des trois voies de formation.
 
-C'est à partir de la dominante sciences et technologie que l'élève accédera à la formation de l'infirmier qui sera dorénavant organisée sur quatre ans et sanctionnée par un brevet de technicien supérieur, mention infirmier responsable de soins généraux. Les deux premières années, 12 e et 13 e , seront organisées sous l'égide du ministère de l'Éducation nationale et de la Formation professionnelle et se solderont par un bac. Les deux dernières années seront organisées sous l'égide du ministère de l'Enseignement supérieur et de la Recherche.
+C'est à partir de la dominante sciences et technologie que l'élève accédera à la formation de l'infirmier qui sera dorénavant organisée sur quatre ans et sanctionnée par un brevet de technicien supérieur, mention infirmier responsable de soins généraux. Les deux premières années, 12e et 13e, seront organisées sous l'égide du ministère de l'Éducation nationale et de la Formation professionnelle et se solderont par un bac. Les deux dernières années seront organisées sous l'égide du ministère de l'Enseignement supérieur et de la Recherche.
+
+12e / 13e artistique
+
+12e / 13e communication
+
+12e / 13e commerce
+
+12e / 13e sciences appliquées
+
+12e / 13e informatique
+
+12e / 13e sciences ingénieur
+
+Éducateur
+
+Éducateur
+
+Éducateur
+
+Infirmier
+
+10e / 11e artistique
+
+10e / 11e commerce communication
+
+10e / 11e sciences et technologies
 
 33
 
@@ -1146,11 +1200,11 @@ Afin de garantir une intégration sociale, scolaire, universitaire et profession
 
 Le multilinguisme est un des atouts de notre système scolaire et l'enseignement des langues doit continuer à y jouer un rôle primordial. Le défi auquel est confronté notre système réside dans la spécificité de la situation linguistique luxembourgeoise marquée par un plurilinguisme officiel et sociétal.
 
-Si le Luxembourg est loin d'être le seul pays à connaître le phénomène de l'hétérogénéité linguistique dans les classes, il faut souligner que ce qui rend pour notre pays la situation plus complexe, c'est que dans les autres pays, la langue nationale est en règle générale également langue officielle et langue d'enseignement . Elle est présente partout dans la société et à l'école où elle est la langue d'enseignement de toutes les matières. Or, au Luxembourg, l'apprentissage des langues et des matières dans une autre langue que celle qui est parlée à la maison n'est pas un choix, mais une nécessité.
+Si le Luxembourg est loin d'être le seul pays à connaître le phénomène de l'hétérogénéité linguistique dans les classes, il faut souligner que ce qui rend pour notre pays la situation plus complexe, c'est que dans les autres pays, la langue nationale est en règle générale également langue officielle et langue d'enseignement. Elle est présente partout dans la société et à l'école où elle est la langue d'enseignement de toutes les matières. Or, au Luxembourg, l'apprentissage des langues et des matières dans une autre langue que celle qui est parlée à la maison n'est pas un choix, mais une nécessité.
 
 Il faut donc enseigner les langues "officielles" du Luxembourg, l'allemand et le français, qui sont en même temps langues d'enseignement, à un niveau élevé pour garantir aux jeunes une intégration réussie, tout en veillant à ne pas en faire un facteur d'exclusion et d'échec. En outre, l'importance de l'anglais est devenue telle pour la grande majorité des domaines académiques et professionnels qu'il faut munir les élèves de solides capacités dans cette langue.
 
-Les exigences que l'on formule pour l'ES d'un côté et l'EST de l'autre doivent tenir compte de la réalité et des besoins des élèves fréquentant les deux ordres d'enseignement. Aussi le présent document propose -t -il des principes différents pour l'ES et l'EST.
+Les exigences que l'on formule pour l'ES d'un côté et l'EST de l'autre doivent tenir compte de la réalité et des besoins des élèves fréquentant les deux ordres d'enseignement. Aussi le présent document propose-t-il des principes différents pour l'ES et l'EST.
 
 ### PRINCIPES
 
@@ -1180,9 +1234,14 @@ Les exigences que l'on formule pour l'ES d'un côté et l'EST de l'autre doivent
 
 [[START OF PAGE 35]]
 
+| | Langues et sciences humaines | Sciences et mathématiques |
+| --- | --- | --- |
+| 1re | Anglais (obl.) Allemand (choix) Français (choix) 4e langue vivante : choix de spécialisation | Anglais (obl.) 2e langue 3e langue : facultative |
+| 2e | Anglais Allemand Français 4e langue vivante : choix de spécialisation | Anglais Allemand Français |
+
 Niveaux :
 
- un niveau très élevé 2 est visé pour l'enseignement de deux langues (examen de fin d'études inclus) ;
+ un niveau très élevé² est visé pour l'enseignement de deux langues (examen de fin d'études inclus) ;
 
  un niveau élevé est visé pour l'enseignement d'une langue (certification : fin 2e).
 
@@ -1194,7 +1253,7 @@ L'anglais est obligatoire jusqu'en classe de 1re incluse.
 
  L'importance des langues dépend de la voie de formation choisie : le français et l'allemand sont primordiaux pour la dominante commerce/administration et communication, l'anglais pour la dominante sciences et technologie.
 
- Dans la dominante sciences et technologie , l'enseignement des langues est organisé de la façon suivante :
+ Dans la dominante sciences et technologie, l'enseignement des langues est organisé de la façon suivante :
 
 - o les connaissances en langue allemande ou française sont certifiées à la fin de la classe de 11e;
 
@@ -1204,16 +1263,17 @@ L'anglais est obligatoire jusqu'en classe de 1re incluse.
 
 > 2 Ces niveaux seront explicités à l'aide de descripteurs par les groupes de travail langues élaborant les socles et programmes, en collaboration avec les commissions nationales pour les programmes. Ils ne constituent pas une fin en soi et ne s'appliquent pas forcément à tous les domaines de compétences.
 
-Langues et sciences humaines | Sciences et mathématiques
---- | --- | ---
-1re | Anglais (obl.) Allemand (choix) Français (choix) 4e langue vivante : choix de spécialisation | Anglais (obl.) 2e langue 3e langue : facultative
-2e | Anglais Allemand Français 4e langue vivante : choix de spécialisation | Anglais Allemand Français
-
 35
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
+| | Commerce et communication | Sciences et technologies |
+| --- | --- | --- |
+| 13e | Anglais Allemand Français | Anglais |
+| 12e | Anglais Allemand Français | Anglais 2e langue (travail d'envergure) |
+| 11e | Anglais Allemand Français | Anglais Allemand Français |
 
 Niveaux :
 
@@ -1235,19 +1295,15 @@ Les mathématiques, en tant que langage universel, sont en relation étroite ave
 
 L'enseignement de cette matière doit permettre à l'élève de bien saisir le rôle que jouent les connaissances et le raisonnement propres aux mathématiques dans les autres matières.
 
-Les cours de mathématiques, indépendamment de la dominante choisie, doivent avant tout susciter l'intérêt de tous les élèves pour cette matière et leur donner les outils nécessaires pour réussir dans une société où elles sont omniprésentes. En stimulant l'intérêt des élèves pour les applications concrètes et abstraites des mathématiques, on les amène à persévérer dans l'étude de la matière et on leur donne ainsi accès à de nombreuses formations postsecondaires.
-
-Commerce et communication | Sciences et technologies
---- | --- | ---
-13e | Anglais Allemand Français | Anglais
-12e | Anglais Allemand Français | Anglais 2e langue (travail d'envergure)
-11e | Anglais Allemand Français | Anglais Allemand Français
+Les cours de mathématiques, indépendamment de la dominante choisie, doivent avant tout susciter l'intérêt de tous les élèves pour cette matière et leur donner les outils nécessaires pour réussir dans une société où elles sont omniprésentes. En stimulant l'intérêt des élèves pour les applications concrètes et abstraites des
 
 36
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+mathématiques, on les amène à persévérer dans l'étude de la matière et on leur donne ainsi accès à de nombreuses formations postsecondaires.
 
 ### PRINCIPES
 
@@ -1257,7 +1313,7 @@ Pour les élèves s'orientant vers la dominante sciences humaines et langues à 
 
 L'objectif de cet enseignement est de permettre à l'élève d'acquérir des connaissances nécessaires dans sa vie de citoyen et de disposer des outils nécessaires pour prendre certaines décisions dans la vie courante. Cet objectif s'impose par le fait que nous sommes en permanence aux prises avec de multiples données qualitatives et quantitatives. De nos jours, une personne doit savoir traiter des données et prendre des décisions pertinentes tant dans sa vie professionnelle que dans sa vie citoyenne. Il est donc nécessaire de faire prendre conscience à l'élève de l'importance de la statistique et de la probabilité dans la vie de tous les jours.
 
-Quant à l'enseignement en lui -même, il faut veiller à ce que chaque sujet soit introduit de façon très concrète et à ce que le niveau de formalisme soit adapté à la finalité de l'enseignement. Des mises en situation permettent aux élèves d'apprendre par des essais et des expérimentations.
+Quant à l'enseignement en lui-même, il faut veiller à ce que chaque sujet soit introduit de façon très concrète et à ce que le niveau de formalisme soit adapté à la finalité de l'enseignement. Des mises en situation permettent aux élèves d'apprendre par des essais et des expérimentations.
 
 En ce qui concerne la dominante sciences naturelles et mathématiques à l'ES et la dominante sciences et technologie à l'EST, une approche plus théorique et approfondie de l'étude des concepts clés des mathématiques s'impose. Cette approche doit mettre l'accent sur la théorie et les problèmes abstraits qui portent sur les concepts essentiels des mathématiques. Une recherche systématique d'applications pratiques doit compléter cette approche plus théorique lorsque cela est approprié. Des mises en situation en relation avec d'autres matières servent à illustrer les concepts et les théories de façon à donner aux élèves la possibilité d'apprendre par des essais et des expérimentations.
 
@@ -1281,7 +1337,7 @@ Le nouvel examen de fin d'études se caractérisera par une plus grande flexibil
 
 Le nombre d'épreuves est réduit pour tous les ordres d'enseignement et dominantes.
 
-L'élève a la possibilité de choisir les matières dans lesquelles il veut passer l'examen en respectant toutefois les contraintes exposées ci -après.
+L'élève a la possibilité de choisir les matières dans lesquelles il veut passer l'examen en respectant toutefois les contraintes exposées ci-après.
 
 Les épreuves écrites sont au nombre de six pour les deux ordres d'enseignement et forment un ensemble cohérent en fonction de la dominante choisie. L'élève choisit les matières sur lesquelles portent les épreuves à l'intérieur des 3 volets.
 
@@ -1338,6 +1394,14 @@ Parmi les six épreuves, l'élève est obligé de choisir :
 Les épreuves orales sont au nombre de deux et portent sur une matière de spécialisation et une langue.
 
 Toutes les matières qui comptent pour le bilan de l'année ne font pas l'objet d'une épreuve à l'examen de fin d'études, mais les notes de ces matières sont prises en compte dans le calcul de la note finale.
+
+Enseignement secondaire | Enseignement secondaire technique
+
+| | langues et sciences humaines | sciences et mathématiques | commerce et communication | sciences et technologie |
+| --- | --- | --- | --- | --- |
+| Langues | 2 langues dont l'anglais | 2 langues dont l'anglais | anglais et français | anglais 2e langue sera certifié dans le travail d'envergure |
+| Spécialisation | 3 épreuves dont 3e langue | 3 épreuves dont mathématiques | 3 épreuves | 3 épreuves et mathématiques |
+| Formation générale | 1 épreuve | 1 épreuve | 1 épreuve | 1 épreuve |
 
 39
 
