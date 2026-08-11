@@ -1,144 +1,152 @@
 [[START OF PAGE 1]]
 
-Education
-
-2009
-
-1.
-
-No.9
-
+2009 Education No.9
 SAMOA
-
 # Arrangement of Provisions
-
 # PART I PRELIMINARY
-
-Short title and
-
-commencement
-
-- Interpretation
-
-- Act to bind State
-
+1. Short title and commencement
+2. Interpretation
+3. Act to bind State
 # PART II ATTENDANCE AT SCHOOL
-
 ## Division 1 Enrollment and attendance requirements
-
-4. Enrollment 5. Exemption from enrollment 6. Attendance 7. Exemption from attendance without application 8. Application for exemption from attendance 9. Certificate of exemption 10.  Withdrawal from school
+4. Enrollment
+5. Exemption from enrollment
+6. Attendance
+7. Exemption from attendance without application
+8. Application for exemption from attendance
+9. Certificate of exemption
+10. Withdrawal from school
 ## Division 2 Monitoring and ensuring enrollment and attendance of compulsory school-aged children
-11.  Schools to keep rolls
-
-12.  Schools to keep attendance registers 13.  Principal's responsibility when a compulsory school-aged child is withdrawn from a school 14.  Principal's responsibility when a compulsory school-aged child fails to attend school regularly 15.  Attendance Officers 16.  Attendance officers' powers and responsibilities 17.  Removal of attendance officers 18.  Additional responsibilities of Sui o le Nuu for enrollment and school attendance
-
+11. Schools to keep rolls
+12. Schools to keep attendance registers
+13. Principal’s responsibility when a compulsory school-aged child is withdrawn from a school
+14. Principal’s responsibility when a compulsory school-aged child fails to attend school regularly
+15. Attendance Officers
+16. Attendance officers’ powers and responsibilities
+17. Removal of attendance officers
+18. Additional responsibilities of Sui o le Nuu for enrollment and school attendance
 ## Division 3 Children with special needs
-
-19.  Establishing the suitability of
-
-education
-
+19. Establishing the suitability of education
 ## Division 4 Employment of compulsory school-aged children
-
-20.  Employment of compulsory
-
-school-aged child
-
-21.  Carers not to permit
-
-employment of compulsory
-
-school-aged child
+20. Employment of compulsory school-aged child
+21. Carers not to permit employment of compulsory school-aged child
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Education
-
-2009, No.9
-
-2
+2 Education 2009, No.9
+# PART III STUDENT AND STAFF WELFARE IN SCHOOLS AND EARLY CHILDHOOD EDUCATION CENTRES
+22. Behaviour management
+23. Discipline
+24. Intoxication of teachers
+25. Behaviour of members of the public
+26. Exclusion of students with diseases or infestations
+# PART IV REGISTRATION OF MISSION SCHOOLS AND PRIVATE SCHOOLS
+27. Requirement for registration
+28. Approved organisation for mission schools and private schools
+29. Cancelling approval
+30. Application for registration
+31. Criteria for registering a school
+32. Probationary registration
+33. Register of private schools and mission schools
+34. Returns by proprietors of registered schools
+35. Restriction or cancellation of registration by the Minister
+36. Restriction or cancellation of registration by an approved organisation for mission schools and private schools
+# PART V VILLAGE SCHOOLS
+37. Reservation of the right to establish a registered school
+38. Establishment of village schools
+39. Responsibility for management of a village school
+40. Power to set and collect school fees
+41. Payments to school committee members
+42. Provision of staff for village schools
+43. Responsibility for management of staff
+44. Closure of village schools
+# PART VI MINISTRY SCHOOLS
+45. Establishment of Ministry schools
+46. Responsibility for management of a Ministry school
+47. Capacity to set and collect fees
+48. Provision of staff for Ministry schools
+49. Responsibility for management of staff
+50. Amalgamation and closure of Ministry schools
+# PART VII GOOD ORDER AND MANAGEMENT OF MINISTRY AND VILLAGE SCHOOLS
+51. School calendar
+52. Maximum and minimum number of students
+53. Waiver of school fees
+54. Temporary closure of school
+55. School records and reports
+56. School discipline policy
+57. Suspension and expulsion
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-2009, No.9
-
-Education
-
+2009, No.9 Education 3
 # PART VIII CURRICULUM AND CERTIFICATES OF STUDY
-
-58.  Minimum curriculum 59.  Delivery of curriculum in schools and early childhood education centres 60.  Chief Executive Officer's powers and functions
-
+58. Minimum curriculum
+59. Delivery of curriculum in schools and early childhood education centres
+60. Chief Executive Officer’s powers and functions
 # PART IX STUDENTS WITH SPECIAL NEEDS
-
-61.  Chief Executive Officer to establish guidelines
-
+61. Chief Executive Officer to establish guidelines
 # PART X TEACHING STANDARDS
-
-62.  Minister's power to specify an accreditation system for teachers 63.  Certification of Teachers 64.  Regulations to register teachers
-
+62. Minister’s power to specify an accreditation system for teachers
+63. Certification of Teachers
+64. Regulations to register teachers
 # PART XI REGISTRATION OF EARLY CHILDHOOD EDUCATION CENTRES
-
-3
-
-67.  Cancelling approval 68.  Criteria for registering an early childhood education centre 69.  Approved organisation's power to withdraw registration 70.  Right of appeal to the Minister 71.  Minister's power to cancel registration
-
+65. Requirement for registration
+66. Approved organisation for early childhood education centres
+67. Cancelling approval
+68. Criteria for registering an early childhood education centre
+69. Approved organisation’s power to withdraw registration
+70. Right of appeal to the Minister
+71. Minister’s power to cancel registration
 # PART XII INSPECTION OF SCHOOLS AND EARLY CHILDHOOD EDUCATION CENTRES
-
-72.  Inspection of schools and early childhood education centres 73.  Powers and responsibilities of inspectors
-
+72. Inspection of schools and early childhood education centres
+73. Powers and responsibilities of inspectors
 # PART XIII MISCELLANEOUS
-
-74.  Regulations 75.  Repeals 76.  Savings and transitional provisions
-
-65.  Requirement for registration 66.  Approved organisation for early childhood education centres
-
+74. Regulations
+75. Repeals
+76. Savings and transitional provisions
 _________
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-Education
-
-2009, No.9
-
-4
+4 Education 2009, No.9
 
 2009, No. 9
 
-- AN  ACT  to regulate and make  provision for school education and early childhood education in Samoa and to repeal the Education Ordinance 1959.
+AN ACT to regulate and make provision for school education and early childhood education in Samoa and to repeal the Education Ordinance 1959.
 
-[26 th June 2009]
+[26th June 2009]
 
-BE IT ENACTED by  the  Legislative  Assembly  of  Samoa  in Parliament assembled as follows:
+BE IT ENACTED by the Legislative Assembly of Samoa in Parliament assembled as follows:
 
 # PART I PRELIMINARY
 
-### Short  title  and  commencement
--(1)  This  Act  may  be cited as the Education Act 2009.
+### 1. Short title and commencement
+(1) This Act may be cited as the Education Act 2009.
 
-- This  Act  shall  commence  on  a  date  nominated  by  the Minister, save for sections 27 and 65 which shall commence 12 months later.
+(2) This Act shall commence on a date nominated by the Minister, save for sections 27 and 65 which shall commence 12 months later.
 
-### Interpretation
--In this Act, unless the context otherwise requires:
+### 2. Interpretation
+In this Act, unless the context otherwise requires:
 
-'approved  fee'  means  a  fee  approved  by  the  Minister  by way of notice issued to that effect;
+“approved fee” means a fee approved by the Minister by way of notice issued to that effect;
 
-'approved organisation' means an organisation approved by the Minister under sections 28 and 66;
+“approved organisation” means an organisation approved by the Minister under sections 28 and 66;
 
-'attendance  officer'  means  any  person  deemed  to  be  or appointed to be an attendance officer under section 15;
+“attendance officer” means any person deemed to be or appointed to be an attendance officer under section 15;
 
-'carer' means a parent, guardian or other person having the care or control of a child;
+“carer” means a parent, guardian or other person having the care or control of a child;
 
-'Chief Executive Officer' means the Chief Executive Officer of the Ministry;
+“Chief Executive Officer” means the Chief Executive Officer of the Ministry;
 
-'compulsory  school-aged  child'  means  a  child  who  is between five (5) years of age and 14 years of age who has not completed the work of Year 8 of school;
+“compulsory school-aged child” means a child who is between five (5) years of age and 14 years of age who has not completed the work of Year 8 of school;
 
-'corporal  punishment'  means  the  application  of  physical force in order to punish or correct the recipient, but does
+“corporal punishment” means the application of physical force in order to punish or correct the recipient, but does
 
 [[END OF PAGE 4]]
 
@@ -150,71 +158,67 @@ Education
 
 5
 
-not  include  the  application  of  force  only  to  prevent personal  injury  to,  or  damage  to  or  the  destruction  of property of, any person (including the recipient);
+not include the application of force only to prevent personal injury to, or damage to or the destruction of property of, any person (including the recipient);
 
-'curriculum'  means  courses  taught  in  schools  including content,  support  materials  and  other  learning  resources in accordance with course accreditation;
+“curriculum” means courses taught in schools including content, support materials and other learning resources in accordance with course accreditation;
 
-'discipline policy' means a policy that outlines the expected standard  of  behaviour  of  students  at  school  or  whilst engaged  in  any  activity  connected  with  the  school  and outlines sanctions that will be applied for failure to meet the  expected  standard  of  behaviour,  and  includes  any code of discipline;
+“discipline policy” means a policy that outlines the expected standard of behaviour of students at school or whilst engaged in any activity connected with the school and outlines sanctions that will be applied for failure to meet the expected standard of behaviour, and includes any code of discipline;
 
-'Government'  means  the  Government  of  the  Independent State of Samoa;
+“Government” means the Government of the Independent State of Samoa;
 
-'inspector' means a person or class of persons authorised by the Minister to carry out inspections of schools and early childhood education centres under section 72;
+“inspector” means a person or class of persons authorised by the Minister to carry out inspections of schools and early childhood education centres under section 72;
 
-'management  authority'  of  a  school  means  the  person  or organisation  responsible  for  the  management  of  the school;
+“management authority” of a school means the person or organisation responsible for the management of the school;
 
-'Minister' means the Minister responsible for the Ministry from time to time;
+“Minister” means the Minister responsible for the Ministry from time to time;
 
-'Ministry' means the Ministry responsible for Education;
+“Ministry” means the Ministry responsible for Education;
 
-'Ministry school' means a school that is directly managed by the Ministry;
+“Ministry school” means a school that is directly managed by the Ministry;
 
-'mission  school'  means  a  school  operated  by  a  church  or religious organisation;
+“mission school” means a school operated by a church or religious organisation;
 
-'post-secondary education' means education of people:
+“post-secondary education” means education of people:
 
-(a)  who  are  beyond  the  age  of  compulsory  school attendance; and
+(a) who are beyond the age of compulsory school attendance; and
 
-(b)  who  are  not  undergoing  a  course  of  secondary education in a school;
+(b) who are not undergoing a course of secondary education in a school;
 
-'post-secondary institution' means an institution that delivers post secondary education;
+“post-secondary institution” means an institution that delivers post secondary education;
 
-'private school' means a school, other than a village school or  mission  school,  that  is  not  directly  managed  by  the Ministry;
+“private school” means a school, other than a village school or mission school, that is not directly managed by the Ministry;
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-Education
+6 Education 2009, No.9
 
-2009, No.9
+“registered school” means a school listed in the register of private schools and mission schools established by the Chief Executive Officer under section 30 of this Act;
 
-6
+“Samoa” means the Independent State of Samoa;
 
-'registered school' means a school listed in the register of private  schools  and  mission  schools  established  by  the Chief Executive Officer under section 30 of this Act;
+“school” means an organisation for the provision of education from the first level of primary education for any of the years up to the final year of secondary education but does not include:
 
-'Samoa' means the Independent State of Samoa;
-
-'school' means an organisation for the provision of education  from  the  first  level  of  primary  education  for any  of  the  years  up  to  the  final  year  of  secondary education but does not include:
-
-(a) an organisation providing educational or other activities  to  compulsory  school  aged  students outside school hours; or
+(a) an organisation providing educational or other activities to compulsory school aged students outside school hours; or
 
 (b) an organisation providing vocational training or other activities for students who are 14 years of age or more or who have completed the work of year 8 of school;
 
-'school  committee'  means  the  management  authority  for each village school;
+“school committee” means the management authority for each village school;
 
-'school  day'  means  a  weekday  falling  between  the  term dates set by the Minister, other than a prescribed public holiday;
+“school day” means a weekday falling between the term dates set by the Minister, other than a prescribed public holiday;
 
-'school hours' means the hours for which Ministry schools and  village  school  must  be  open  on  any  school  day  as determined by the Minister under section 51 of this Act;
+“school hours” means the hours for which Ministry schools and village school must be open on any school day as determined by the Minister under section 51 of this Act;
 
-'street  trading'  means  selling or  offering  anything  for  sale in  a  public  place  but  does  not  include  occasionally selling  things  on  behalf  of  a  church  or  school  or  for  a cultural or charitable purpose;
+“street trading” means selling or offering anything for sale in a public place but does not include occasionally selling things on behalf of a church or school or for a cultural or charitable purpose;
 
-'Sui o le Nuu' means a person appointed as Pulenuu under section 14 of the Internal Affairs Act 1995;
+“Sui o le Nuu” means a person appointed as Pulenuu under section 14 of the Internal Affairs Act 1995;
 
-'Village Fono' in relation to any village means the assembly of the Alii and Faipule of that village meeting in accordance with the custom and usage of such village and includes the plural;
+“Village Fono” in relation to any village means the assembly of the Alii and Faipule of that village meeting in accordance with the custom and usage of such village and includes the plural;
 
-'Village  of  Sui  o  le  Nuu'  means  a  village  for  which  a specific Sui o le Nuu has responsibility;
+“Village of Sui o le Nuu” means a village for which a specific Sui o le Nuu has responsibility;
 
-'village school' includes village primary schools and district secondary schools and colleges.
+“village school” includes village primary schools and district secondary schools and colleges.
 
 [[END OF PAGE 6]]
 
@@ -238,9 +242,9 @@ Education
 
 (2)  In  any  legal  proceeding  the  carer  bears  the  onus  of proving that the child is enrolled at a school in accordance with this Act.
 
-(3) If a child's 5 th birthday falls prior to or on the 1 st day of June  in  a  given  school  year,  the  child  must  be  enrolled  to commence school at the start of that school year.
+(3) If a child’s 5th birthday falls prior to or on the 1st day of June in a given school year, the child must be enrolled to commence school at the start of that school year.
 
-(4)  If a child's 5 th birthday falls after the 1 st day of June in a given  school  year,  the  child  must  be  enrolled  to  commence school at the start of the following school year.
+(4) If a child’s 5th birthday falls after the 1st day of June in a given school year, the child must be enrolled to commence school at the start of the following school year.
 
 (5)  Subject  to  section  5,  a  child  must  remain  enrolled  at  a school until the child completes the work of Year 8 of school or attains the age of 14 years, whichever occurs sooner.
 
@@ -264,11 +268,7 @@ Education
 
 [[START OF PAGE 8]]
 
-Education
-
-2009, No.9
-
-8
+8 Education 2009, No.9
 
 (9) Any carer unable to afford to enrol their child in a village school or Ministry school because of financial constraints shall apply to waive the child's school fees pursuant to section 53.
 
@@ -288,7 +288,7 @@ Education
 ### 6.  Attendance
 -(1)    A  compulsory  school-aged  child  must attend the school during the whole of each school day, except as otherwise provided by this Act.
 
-(2) Any person being the carer of a compulsory         schoolaged child who fails to ensure that the child  attends  school  in accordance with this Act commits an offence and shall be liable to a fine not exceeding 10 penalty units and one (1) penalty unit for each day that the offence continues.
+(2) Any person being the carer of a compulsory school-aged child who fails to ensure that the child attends school in accordance with this Act commits an offence and shall be liable to a fine not exceeding 10 penalty units and one (1) penalty unit for each day that the offence continues.
 
 (3)  In  any  legal  proceeding  the  carer  bears  the  onus  of proving that the child is attending school in accordance with this Act.
 
@@ -334,11 +334,7 @@ Education
 
 [[START OF PAGE 10]]
 
-Education
-
-2009, No.9
-
-10
+10 Education 2009, No.9
 
 ### 9.  Certificate  of  exemption
 (1)    If  the  Chief  Executive Officer exempts a compulsory school-aged child under sections 5  or  7,  the  Chief  Executive  Officer  must  issue  a  certificate  of exemption.
@@ -378,7 +374,7 @@ Education
 
 11
 
-### 13. Principal's responsibility when a compulsory  schoolaged  child  is  withdrawn  from  a  school
+### 13. Principal’s responsibility when a compulsory school-aged child is withdrawn from a school
 (1) If a carer withdraws  a  compulsory  school-aged  child  from  a school without  satisfying  the  principal  of  the  school  that  appropriate arrangements  are  being  made  for  the  child's  future  education, the principal must inform the appropriate person or persons.
 
 (2) For the purpose of this section:
@@ -414,11 +410,7 @@ Education
 
 [[START OF PAGE 12]]
 
-Education
-
-2009, No.9
-
-12
+12 Education 2009, No.9
 
 (3) If the carer  satisfies the principal  that there  is  an appropriate reason for the pattern of non-attendance, the principal must keep a record of the reasons given by the carer and must continue to monitor the child's attendance at school.
 
@@ -490,11 +482,7 @@ Education
 
 [[START OF PAGE 14]]
 
-Education
-
-2009, No.9
-
-14
+14 Education 2009, No.9
 
 ### 17. Removal of attendance officers
 (1) The Chief Executive  Officer  may  revoke  at  will  the  appointment  of  any persons or class of persons appointed as attendance officers.
@@ -554,11 +542,7 @@ the  Sui  o  le  Nuu  must  inform  the  Village  Council  of  this situation  a
 
 [[START OF PAGE 16]]
 
-Education
-
-2009, No.9
-
-16
+16 Education 2009, No.9
 
 (b)  at  any  other  time  if  the  work  would  prevent  or interfere  with  the  child's  attendance  at  school, active  participation  in  school  activities  or  the child's educational development.
 
@@ -630,20 +614,16 @@ while on duty, including while attending any school-organised activity that invo
 
 [[START OF PAGE 18]]
 
-Education
+18 Education 2009, No.9
 
-2009, No.9
-
-18
-
-### Behaviour  of  members  of  the  public
+### 25. Behaviour of members of the public
 -(1)  It  is  an offence for any person to:
 
 (a) wilfully disturb a school or any activity organised by a school; or
 
 (b) insult or abuse any student or teacher in the presence or hearing of the children who are on the school premises  or  who  are  participating  in  an  activity organised by a school;
 
-- It is an offence for any person to:
+(2) It is an offence for any person to:
 
 (a)  wilfully  disturb  an  early  childhood  education  centre or any activity organised by the early childhood education centre; or
 
@@ -656,7 +636,7 @@ A principal may require a student not to attend a school while the student has a
 
 # PART IV REGISTRATION OF MISSION SCHOOLS AND PRIVATE SCHOOLS
 
-### Requirement for registration
+### 27. Requirement for registration
 -(1) A person or organisation must not operate a private school or mission school unless  the  Chief  Executive  Officer  has  registered  the  school under this Part.
 
 [[END OF PAGE 18]]
@@ -705,11 +685,7 @@ Education
 
 [[START OF PAGE 20]]
 
-Education
-
-2009, No.9
-
-20
+20 Education 2009, No.9
 
 (2) Before the Minister withdraws an organisation's approval under this section, the Minister must give the organisation a reasonable opportunity to be heard.
 
@@ -783,11 +759,7 @@ Education
 
 [[START OF PAGE 22]]
 
-Education
-
-2009, No.9
-
-22
+22 Education 2009, No.9
 
 ### 34. Returns by proprietors of registered schools
 -(1) The proprietor or principal of every registered school must provide the  Minister  or  the  approved  organisation  that  approved  the school's registration with a return in the form approved by the Minister on or before 31 March in each year.
@@ -862,11 +834,7 @@ Nothing in this Part shall prevent members of a village community  from  establi
 
 [[START OF PAGE 24]]
 
-Education
-
-2009, No.9
-
-24
+24 Education 2009, No.9
 
 (2) If a Village Fono or two (2) or more Village Fono wish to  establish  a  new  village  school,  they  must  apply  to  the Minister to seek Cabinet's approval for the establishment of the school.
 
@@ -904,7 +872,7 @@ Education
 
 25
 
-### Payments  to  school  committee  members
+### 41. Payments to school committee members
 A  school committee  member  must  not  receive  any  payment  from  funds held by the committee on behalf of the village school, unless the payment is for expenses that:
 
 (a) are reasonable;
@@ -913,17 +881,17 @@ A  school committee  member  must  not  receive  any  payment  from  funds held 
 
 (c) were incurred with the consent of the school committee.
 
-### Provision  of  staff  for  village  schools
+### 42. Provision of staff for village schools
 Subject  to  the provisions of the Public Service Act 2004:
 
 (a)  the  Ministry  shall  supply  to  a  village  school  a principal  and  such  staff  as  the  Chief  Executive Officer  considers  reasonably  appropriate  for  the school's requirements; and
 
 (b)  the  Chief  Executive  Officer  may  from  time  to  time vary  the  number  of  staff  supplied  to  a  village school,  after  taking  into  account  the  number  of students  enrolled  or  likely  to  be  enrolled  at  the school and the type of school.
 
-### Responsibility for management  of staff
--(1) The principal and staff of village schools are employed subject to the direction of the Chief Executive Officer.
+### 43. Responsibility for management of staff
+(1) The principal and staff of village schools are employed subject to the direction of the Chief Executive Officer.
 
-- The principal of a village school must:
+(2) The principal of a village school must:
 
 (a) allocate and supervise the work of each staff member;
 
@@ -931,8 +899,8 @@ Subject  to  the provisions of the Public Service Act 2004:
 
 (c)  promptly  report  to  the  Chief  Executive  Officer  in writing about insubordination or suspected misconduct by a staff member.
 
-### Closure of village schools
--(1) Cabinet, upon the recommendation  of  the  Minister,  may  direct  the  closure  of  a village school if:
+### 44. Closure of village schools
+(1) Cabinet, upon the recommendation of the Minister, may direct the closure of a village school if:
 
 [[END OF PAGE 25]]
 
@@ -1230,7 +1198,7 @@ Education
 
 # PART IX STUDENTS WITH SPECIAL NEEDS
 
-### Chief Executive Officer to establish guidelines
+### 61. Chief Executive Officer to establish guidelines
 The Chief Executive Officer must establish a policy or guidelines for schools and early childhood education centres in respect of:
 
 (a)  the  identification  and  assessment  of  students  with special needs;
