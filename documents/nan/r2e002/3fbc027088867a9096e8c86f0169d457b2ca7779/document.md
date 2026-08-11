@@ -12,9 +12,9 @@
 #### Article 2 :
 (1) L'éducation est une grande priorité nationale.
 
-- Elle est assurée par l'Etat.
+(2) Elle est assurée par l'Etat.
 
-- Des partenaires privés concourent à l'offre d'éducation.
+(3) Des partenaires privés concourent à l'offre d'éducation.
 
 #### Article 3 :
 L'Etat consacre le bilinguisme à tous les niveaux d'enseignement comme facteur d'unité et d'intégration nationales.
@@ -25,23 +25,23 @@ L'éducation  a  pour  mission  générale  la  formation  de  l'enfant  en  vue
 #### Article 5 :
 Au  titre  de  la  mission  générale  définie  à  l'article  4  ci-dessus,  l'éducation  a  pour objectifs :
 
-- la formation de citoyens enracinés dans leur culture, mais ouverts au monde et respectueux de l'intérêt général et du bien commun;
+1. la formation de citoyens enracinés dans leur culture, mais ouverts au monde et respectueux de l'intérêt général et du bien commun;
 
-- la  formation  aux  grandes  valeurs  éthiques  universelles  que  sont  la  dignité  et l'honneur, l'honnêteté et l'intégrité ainsi que le sens de la discipline;
+2. la formation aux grandes valeurs éthiques universelles que sont la dignité et l'honneur, l'honnêteté et l'intégrité ainsi que le sens de la discipline;
 
-- l'éducation à la vie familiale;
+3. l'éducation à la vie familiale;
 
-- la promotion des langues nationales;
+4. la promotion des langues nationales;
 
-- l'initiation à la culture et à la pratique de la démocratie, au respect des droits de l'homme et des libertés, de la justice et de la tolérance, au combat contre toutes formes de discrimination, à l'amour de la paix et du dialogue, à la responsabilité  civique  et  à  la  promotion  de  l'intégration  régionale  et  sousrégionale;
+5. l'initiation à la culture et à la pratique de la démocratie, au respect des droits de l'homme et des libertés, de la justice et de la tolérance, au combat contre toutes formes de discrimination, à l'amour de la paix et du dialogue, à la responsabilité civique et à la promotion de l'intégration régionale et sous-régionale;
 
-- la  culture  de  l'amour  de  l'effort  et  du  travail  bien  fait,  de  la  quête  de l'excellence et de l'esprit de partenariat;
+6. la culture de l'amour de l'effort et du travail bien fait, de la quête de l'excellence et de l'esprit de partenariat;
 
-- le développement  de  la  créativité, du  sens de l'initiative et de l'esprit d'entreprise;
+7. le développement de la créativité, du sens de l'initiative et de l'esprit d'entreprise;
 
-- la formation physique, sportive, artistique et culturelle de l'enfant;
+8. la formation physique, sportive, artistique et culturelle de l'enfant;
 
-- la promotion de l'hygiène et de l'éducation à la santé.
+9. la promotion de l'hygiène et de l'éducation à la santé.
 
 #### Article 6 :
 L'Etat assure à l'enfant le droit à l'éducation.
@@ -104,16 +104,16 @@ L'organisation et le contrôle de l'enseignement à tous les degrés sont des de
 (2)  Les  sous-systèmes  éducatifs  sus-évoqués  coexistent  en  conservant  chacun  sa  spécificité dans les méthodes d'évaluation et les certifications.
 
 #### Article 16 :
-(1) Le sous-système anglophone est organisé en cycles et filières ainsi qu'il suit : l'enseignement maternel d'une durée de deux (2) ans; l'enseignement primaire d'une durée de six  (6)  ans;  l'enseignement  secondaire  d'une  durée  de  sept  (7)  ans;  l'enseignement  postprimaire d'une durée de deux (2) ans; l'enseignement normal d'une durée de deux (2) à trois (3) ans.
+(1) Le sous-système anglophone est organisé en cycles et filières ainsi qu'il suit : l'enseignement maternel d'une durée de deux (2) ans; l'enseignement primaire d'une durée de six (6) ans; l'enseignement secondaire d'une durée de sept (7) ans; l'enseignement post-primaire d'une durée de deux (2) ans; l'enseignement normal d'une durée de deux (2) à trois (3) ans.
 
-(2) L'enseignement secondaire comprend : un premier cycle de cinq (5) ans ayant un souscycle d'observation en tronc commun de deux (2) ans et un sous-cycle d'orientation de trois (3) ans d'enseignement général et technique; un second cycle de deux (2) ans d'enseignement général ou d'enseignement technique.
+(2) L'enseignement secondaire comprend : un premier cycle de cinq (5) ans ayant un sous-cycle d'observation en tronc commun de deux (2) ans et un sous-cycle d'orientation de trois (3) ans d'enseignement général et technique; un second cycle de deux (2) ans d'enseignement général ou d'enseignement technique.
 
 (3) En plus de l'enseignement général, une formation pratique est offerte aux élèves dans les collèges et lycées professionnels, selon leur orientation.
 
 #### Article 17 :
-(1) Le sous-système francophone est organisé en cycles et filières ainsi qu'il suit : l'enseignement maternel d'une durée de deux (2) ans; l'enseignement primaire d'une durée de six  (6)  ans;  l'enseignement  secondaire  d'une  durée  de  sept  (7)  ans;  l'enseignement  postprimaire d'une durée de deux (2) ans; l'enseignement normal d'une durée de deux (2) à trois (3) ans.
+(1) Le sous-système francophone est organisé en cycles et filières ainsi qu'il suit : l'enseignement maternel d'une durée de deux (2) ans; l'enseignement primaire d'une durée de six (6) ans; l'enseignement secondaire d'une durée de sept (7) ans; l'enseignement post-primaire d'une durée de deux (2) ans; l'enseignement normal d'une durée de deux (2) à trois (3) ans.
 
-(2) L'enseignement secondaire comprend : un premier cycle de cinq (5) ans ayant un souscycle d'observation en tronc commun de deux (2) ans et un sous-cycle d'orientation de trois (3) ans d'enseignement général ou d'enseignement technique.
+(2) L'enseignement secondaire comprend : un premier cycle de cinq (5) ans ayant un sous-cycle d'observation en tronc commun de deux (2) ans et un sous-cycle d'orientation de trois (3) ans d'enseignement général ou d'enseignement technique.
 
 (3) En plus de l'enseignement général, une formation pratique est offerte aux élèves dans les collèges et lycées professionnels, selon leur orientation.
 
@@ -148,9 +148,9 @@ Les objectifs et les orientations générales des programmes nationaux d'enseign
 #### Article  24 :
 (1)  Les  établissements  privés  d'enseignement  concourent  aux  missions  de l'éducation.
 
-- Ils peuvent être libres ou sous contrat.
+(2) Ils peuvent être libres ou sous contrat.
 
-- Le régime de l'enseignement privé est fixé par une loi particulière.
+(3) Le régime de l'enseignement privé est fixé par une loi particulière.
 
 #### Article 25 :
 L'enseignement dans les établissements scolaires prend en compte l'évolution des sciences et des technologies et, dans ses contenus et ses méthodes, est adapté aux évolutions économiques, scientifiques, technologiques, sociales et culturelles du pays et de l'environnement international.
@@ -161,11 +161,11 @@ Toute implantation d'un établissement public et privé sur le territoire nation
 #### Article 27 :
 (1) L'enceinte d'un établissement d'enseignement est inviolable.
 
-- Les  chefs  d'établissement  scolaire  sont  responsables  du  maintien  de  l'ordre  dans  leur établissement.
+(2) Les chefs d'établissement scolaire sont responsables du maintien de l'ordre dans leur établissement.
 
-- L'intervention  des  forces  de  l'ordre  ne  peut  y  avoir  lieu  que  sur  réquisition  expresse  du chef d'établissement.
+(3) L'intervention des forces de l'ordre ne peut y avoir lieu que sur réquisition expresse du chef d'établissement.
 
-- En cas de défaillance dans l'accomplissement de leur mission de maintien de l'ordre, les chefs d'établissement sont suppléés de plein droit par les autorités hiérarchiques ou de tutelle.
+(4) En cas de défaillance dans l'accomplissement de leur mission de maintien de l'ordre, les chefs d'établissement sont suppléés de plein droit par les autorités hiérarchiques ou de tutelle.
 
 #### Article  28 :
 (1)  Toute  implantation  de  salles  de  jeux,  de  débits  de  boissons,  de  salles  de cinéma,  de  commerce  de  tabac  et  toute  autre  nuisance  est  interdite  sans  l'enceinte  ou  la périphérie des établissements scolaires.
@@ -209,16 +209,16 @@ L'intégrité physique et morale des élèves est garantie dans le système édu
 #### Article  36 :
 (1)  Les  obligations  des  élèves  consistent  en  l'accomplissement  des  tâches inhérentes à leurs études.
 
-- Elles  incluent  le  respect  des  textes  en  vigueur,  y  compris  le  règlement  intérieur  de l'établissement scolaire fréquenté.
+(2) Elles incluent le respect des textes en vigueur, y compris le règlement intérieur de l'établissement scolaire fréquenté.
 
 ### Chapitre III : Des enseignants
 
 #### Article 37 :
 (1) L'enseignant est le principal garant de la qualité de l'éducation. A ce titre, il a droit, dans la limite des moyens disponibles, à des conditions de vie convenables, ainsi qu'à une formation initiale et continue appropriée.
 
-- L'Etat  assure  la  protection  de  l'enseignant  et  garantit  sa  dignité  dans  l'exercice  de  ses fonctions.
+(2) L'Etat assure la protection de l'enseignant et garantit sa dignité dans l'exercice de ses fonctions.
 
-- Un décret du Président de la République fixe le statut particulier du personnel des corps de l'éducation.
+(3) Un décret du Président de la République fixe le statut particulier du personnel des corps de l'éducation.
 
 #### Article 38 :
 L'enseignant jouit, dans le cadre des franchises académiques et dans l'exercice de ses fonctions, d'une entière liberté de pensée et d'expression, dans le strict respect de la liberté de conscience et d'opinion des élèves.
