@@ -22,13 +22,15 @@ Compte tenu de l ' agenda Éducation 2030, le suivi de la Convention et de la Re
 
 Étant donné que la portée et la teneur des obligations juridiques en vertu du droit à l ' éducation concordent avec les 10 cibles de l ' ODD 4, des efforts ont été engagés pour que le contenu des cibles  soit  inclus  dans  les  présents  Principes  directeurs  et  que  ces  principes  constituent  un instrument  précieux  pour  mesurer  les  progrès  accomplis  en  vue  de  la  réalisation  des  cibles  de l ' ODD 4.
 
-La  Convention  est  en  étroite  concordance  non  seulement  avec  l ' ODD 4  mais  aussi  avec  le Pacte international relatif aux droits économiques, sociaux et culturels (1966), la Convention sur l ' élimination de toutes les formes de discrimination à l ' égard des femmes (1979), la Convention relative aux droits de l ' enfant (1989) et la Convention relative aux droits des personnes handicapées (2006).
+La Convention est en étroite concordance non seulement avec l’ODD 4 mais aussi avec le Pacte international relatif aux droits économiques, sociaux et culturels (1966), la Convention sur l’élimination de toutes les formes de discrimination à l’égard des femmes (1979), la
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Cette consultation est en outre l ' occasion de contribuer à l ' Initiative en cours de l ' UNESCO sur l ' évolution du droit à l ' éducation dans la perspective de l ' apprentissage tout au long de la vie 1 (lancée  en  décembre  2021).  Cette  Initiative  cherche  des  solutions  pour  renforcer  le  droit  à l ' éducation, qu ' elle  replace dans le contexte de l ' apprentissage tout au long de la vie, en tenant compte des nouvelles exigences imposées à l ' éducation. Elle s ' appuie sur le rapport préparé par la Commission internationale sur Les futurs de l ' éducation 2 , qui propose d ' élargir explicitement notre conception du droit à l ' éducation à tous les âges, à tous les temps et à tous les espaces. L ' Initiative est également conforme à l ' Énoncé de vision du Secrétaire général des Nations Unies sur la transformation de l ' éducation 3 ainsi qu ' au Rapport du Sommet sur la transformation de l ' éducation (2022) 4 , selon lequel la transformation des systèmes éducatifs doit tendre à « l ' inclusion de tous, indépendamment des circonstances, du contexte et des origines ». L ' Initiative sur l ' évolution du droit à l ' éducation a pour objet d ' engager une réflexion collaborative et participative sur le cadre international afin de garantir l ' application effective du droit à l ' éducation à l ' apprentissage pour tous et tout au long de la vie. L ' Initiative  s ' appuie également sur les dialogues intergouvernementaux entamés  récemment,  en  particulier  le  Cadre  d ' action  de  Marrakech -Exploiter  le  pouvoir  de transformation de l ' apprentissage et de l ' éducation des adultes 5  et la Déclaration de Tachkent et engagements à l ' action pour la transformation de l ' éducation et la protection de la petite enfance 6 .
+Convention relative aux droits de l’enfant (1989) et la Convention relative aux droits des personnes handicapées (2006).
+
+Cette consultation est en outre l’occasion de contribuer à l’Initiative en cours de l’UNESCO sur l’évolution du droit à l’éducation dans la perspective de l’apprentissage tout au long de la vie1 (lancée en décembre 2021). Cette Initiative cherche des solutions pour renforcer le droit à l’éducation, qu’elle replace dans le contexte de l’apprentissage tout au long de la vie, en tenant compte des nouvelles exigences imposées à l’éducation. Elle s’appuie sur le rapport préparé par la Commission internationale sur Les futurs de l’éducation2, qui propose d’élargir explicitement notre conception du droit à l’éducation à tous les âges, à tous les temps et à tous les espaces. L’Initiative est également conforme à l’Énoncé de vision du Secrétaire général des Nations Unies sur la transformation de l’éducation3 ainsi qu’au Rapport du Sommet sur la transformation de l’éducation (2022)4, selon lequel la transformation des systèmes éducatifs doit tendre à « l’inclusion de tous, indépendamment des circonstances, du contexte et des origines ». L’Initiative sur l’évolution du droit à l’éducation a pour objet d’engager une réflexion collaborative et participative sur le cadre international afin de garantir l’application effective du droit à l’éducation à l’apprentissage pour tous et tout au long de la vie. L’Initiative s’appuie également sur les dialogues intergouvernementaux entamés récemment, en particulier le Cadre d’action de Marrakech – Exploiter le pouvoir de transformation de l’apprentissage et de l’éducation des adultes5 et la Déclaration de Tachkent et engagements à l’action pour la transformation de l’éducation et la protection de la petite enfance6.
 
 Il  convient  également  de  noter  que,  comme  le  révèlent  les  consultations  précédentes  sur  la Convention et la Recommandation, les pays partagent désormais une conception plus large du droit à l ' éducation. Fondée sur les conclusions des rapports nationaux précédents, la 11 e  consultation porte notamment sur des thèmes ayant une incidence directe sur le droit à l ' éducation, par exemple, l ' apprentissage numérique, la question du climat, le droit à l ' apprentissage tout au long de la vie et le rôle des acteurs non étatiques dans l ' éducation.
 
@@ -40,17 +42,15 @@ Compte tenu des différences de portée juridique dues à la nature même de ces
 
 Les dispositions relatives à l ' obligation de soumettre des rapports de l ' article VII de la Convention et de l ' article correspondant de la Recommandation sont les mêmes. L ' article VIII de l ' Acte constitutif de l ' UNESCO dispose que « Chaque État membre adresse à l ' Organisation, aux dates et sous la forme  que  déterminera  la  Conférence  générale,  des  rapports  sur  les  lois,  les  règlements  et statistiques relatifs à ses institutions et à son activité dans l ' ordre de l ' éducation, de la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l ' article IV, paragraphe 4 ». Par conséquent, même si un État n ' est pas partie à la Convention, il doit soumettre un rapport sur l ' application de la Recommandation, ce qui signifie que tous les États membres de l ' UNESCO sont censés soumettre un rapport national sur l ' application de l ' un ou l ' autre de ces instruments dans le cadre des consultations de suivi.
 
-> 1 Comment les droits s'adaptent à l'évolution de l'éducation | UNESCO .
+> 1 Comment les droits s’adaptent à l’évolution de l’éducation | UNESCO.
 
-> 2 Repenser nos futurs ensemble : un nouveau contrat social pour l'éducation -UNESCO Digital Library.
+> 2 Repenser nos futurs ensemble : un nouveau contrat social pour l'éducation – UNESCO Digital Library.
 
-> https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_
-
-> 3 education.pdf.
+> 3 https://www.un.org/sites/un2.un.org/files/2022/09/sg_vision_statement_on_transforming_education.pdf.
 
 > 4 https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transforming_education_summit.pdf.
 
-> 5 Cadre d'action de Marrakech | Institut pour l'apprentissage tout au long de la vie (unesco.org) .
+> 5 Cadre d'action de Marrakech | Institut pour l’apprentissage tout au long de la vie (unesco.org).
 
 > 6 Tashkent-declaration-ecce-2022.pdf (unesco.org).
 
@@ -104,7 +104,7 @@ Afin  de  simplifier  les  Principes  directeurs  tout  en  apportant  aux  Éta
 
 [[START OF PAGE 5]]
 
-- La Convention est-elle directement applicable en droit national? Question sans objet
+
 
 ## INFORMATIONS D ' ORDRE GÉNÉRAL :
 
@@ -116,7 +116,7 @@ Nom de la personne à contacter : Frédéric Berthoud
 
 Adresse électronique et numéro de téléphone de la personne à contacter : Frederic.Berthoud@sbfi.admin.ch
 
-## Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l ' enseignement  10
+## I. Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l’enseignement 10
 
 - Votre pays est-il Partie à la Convention ?
 
@@ -138,7 +138,9 @@ Non: votre pays prévoit-il de ratifier cet instrument?
 
  Non, pas de ratification envisagée dans un avenir proche. Veuillez expliquer pourquoi:
 
-La Suisse n'entend pas ratifier cette convention car son contenu recoupe d'autres actes ratifiés par la Suisse (essentiellement la Convention des Nations Unies sur les droits de l'enfant et la Convention des Nations Unies sur les droits des personnes handicapées). Dans  ce  contexte,  la  ratification  n'apporterait  pas  de  valeur  ajoutée  à  la  Suisse  en termes de lutte contre la discrimination.
+La Suisse n'entend pas ratifier cette convention car son contenu recoupe d'autres actes ratifiés par la Suisse (essentiellement la Convention des Nations Unies sur les droits de l'enfant et la Convention des Nations Unies sur les droits des personnes handicapées). Dans ce contexte, la ratification n'apporterait pas de valeur ajoutée à la Suisse en termes de lutte contre la discrimination.
+
+- La Convention est-elle directement applicable en droit national? Question sans objet
 
 10
 
@@ -166,9 +168,9 @@ Convention concernant la lutte contre la discrimination dans le domaine de l'ens
 
 Il est également possible de donner des informations sur les autorités (judiciaires, administratives, etc.) compétentes en ce qui concerne le droit à l ' éducation.
 
-## Renseignements  concernant  l ' application  de  la  Convention  ou  de  la  Recommandation  dans  le contexte de l ' Objectif de développement durable 4 (ODD 4)
+## II. Renseignements concernant l’application de la Convention ou de la Recommandation dans le contexte de l’Objectif de développement durable 4 (ODD 4)
 
-### Vers un système éducatif et non discriminatoire
+### 1. Vers un système éducatif et non discriminatoire
 
 Pour mémoire : cette partie porte sur l ' objet  principal  de  la  Convention/Recommandation, qui consiste à souligner l ' obligation qui incombe aux États d ' interdire toute forme de discrimination dans le domaine de l ' enseignement  tout  en  promouvant  l ' égalité  des  chances  dans  l ' éducation  comme  le  précisent  les articles/paragraphes 1(1), 2 et 3 de la Convention/Recommandation.
 
@@ -194,7 +196,7 @@ On peut en outre rappeler que l'art. 8 de la Constitution fédérale de la Conf�
 
 [[START OF PAGE 7]]
 
-La loi fédérale sur l'élimination de la discrimination à l'égard des personnes handicapées (loi sur la discrimination à l'égard des personnes handicapées, https://www.admin.ch/opc/en/classifiedcompilation/20002658/index.html, art. 3 let. f) s'applique explicitement à l'éducation.
+La loi fédérale sur l'élimination de la discrimination à l'égard des personnes handicapées (loi sur la discrimination à l'égard des personnes handicapées, https://www.admin.ch/opc/en/classified-compilation/20002658/index.html, art. 3 let. f) s'applique explicitement à l'éducation.
 
 Outre le mandat constitutionnel général prévu par les art. 2 et 8 de la Constitution fédérale de la Confédération  suisse  (voir  ci-dessus),  les  articles  sur  l'éducation  de  la  Constitution  fédérale fournissent  la  base  constitutionnelle  de  l'égalité  formelle  des  chances  au  niveau  du  système éducatif :
 
@@ -204,7 +206,7 @@ Outre le mandat constitutionnel général prévu par les art. 2 et 8 de la Const
 
 La Confédération s'efforce de réduire les discriminations dans tous les domaines relevant de la compétence fédérale.
 
-Le Secrétariat d'Etat à la formation, à la recherche et à l'innovation SEFRI a aussi réalisé une vue d'ensemble  des  activités  centrées  sur  l'égalité  des  chances ;  Cette  vue  d'ensemble  montre l'ensemble des lois, des plans d'actions et des initiatives mises en place pour l'égalité des chances dans le domaine des hautes écoles, la formation professionnelle, la formation continue et la coopération  en  matière  de  formation :  https://www.sbfi.admin.ch/sbfi/fr/home/politiquefri/fri-2021-2024/themes-transversaux/egalite-des-chances-fri.html
+Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation SEFRI a aussi réalisé une vue d’ensemble des activités centrées sur l’égalité des chances ; Cette vue d’ensemble montre l’ensemble des lois, des plans d’actions et des initiatives mises en place pour l’égalité des chances dans le domaine des hautes écoles, la formation professionnelle, la formation continue et la coopération en matière de formation : https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themes-transversaux/egalite-des-chances-fri.html
 
 #### 1.1 Non-discrimination et égalité dans le domaine de l ' enseignement
 
@@ -302,17 +304,17 @@ Les mesures sont mises en œuvre par tous les acteurs dans le cadre de leur miss
 
  Autres:
 
- D es parcours d ' apprentissage variés et flexibles 17 sont proposés
+ Des parcours d’apprentissage variés et flexibles 17 sont proposés
 
  Les programmes et les méthodes d ' enseignement sont conçus selon une approche inclusive 18
 
  L ' éducation multilingue et interculturelle est favorisée
 
-Voir :https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themes- transversaux/egalite-des-chances-fri.html
+Voir :https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themes-transversaux/egalite-des-chances-fri.html
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 
-> 16 Les enseignants sont dûment formés pour enseigner à tous les élèves (et pas uniquement aux élèves handicapés) afin qu'ils aient les connaissances, les valeurs et les comportements qui leur permettront de réussir. Voir: Enseignement inclusif : préparer tous les enseignants à enseigner à tous les élèves UNESCO Digital Library Enseignement inclusif : préparer tous les enseignants à enseigner à tous les élèves, 2020, p.14.
+> 16 Les enseignants sont dûment formés pour enseigner à tous les élèves (et pas uniquement aux élèves handicapés) afin qu'ils aient les connaissances, les valeurs et les comportements qui leur permettront de réussir. Voir: Enseignement inclusif : préparer tous les enseignants à enseigner à tous les élèves - UNESCO Digital Library Enseignement inclusif : préparer tous les enseignants à enseigner à tous les élèves, 2020, p.14.
 
 > 17 « Il convient pour cela de proposer des parcours d'apprentissage variés et flexibles, ainsi que des points d'entrée et de réintégration à tous les âges et à tous les niveaux d'études, de renforcer les liens entre les structures formelles et non formelles de garantir la reconnaissance, la validation et l'accréditation des  connaissances,  aptitudes  et  compétences  acquises  dans  le  cadre  de  l'éducation  formelle  et informelle » (Education 2030 Framework for Action, par. 33). Ces parcours comprennent le transfert des  élèves  dans  une  autre  classe  ou  un  autre  établissement  ou  encore  dans  d'autres  contextes d'apprentissage  (en  ligne,  en  présentiel,  à  plein  temps,  à  temps  partiel,  etc.)  afin  de  répondre  aux besoins de l 'individu et à ses souhaits.
 
@@ -324,11 +326,11 @@ Voir :https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themes-
 
 Les acteurs de l'éducation, notamment les cantons, prennent les mesures utiles dans le cadre de leur autonomie.
 
-- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de nondiscrimination et  d ' égalité des chances  dans  le  domaine  de  l ' enseignement ?  Des  données quantitatives succinctes pourront être ajoutées si nécessaire.
+- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de non-discrimination et d’égalité des chances dans le domaine de l’enseignement ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
--voir « Égalité des chances dans l'éducation: bilan et perspectives » sous https://www.edk.ch/fr/lacdip/blog/120423?set_language=fr
+- voir « Égalité des chances dans l'éducation: bilan et perspectives » sous https://www.edk.ch/fr/la-cdip/blog/120423?set_language=fr
 
-##### Autres mesures générales pertinentes, y compris en matière d'é galité des genres
+##### Autres mesures générales pertinentes, y compris en matière d’égalité des genres
 
  La législation garantit l ' égalité des genres dans l ' éducation
 
@@ -336,7 +338,7 @@ Les acteurs de l'éducation, notamment les cantons, prennent les mesures utiles 
 
  La  planification  du  secteur  éducatif  tient compte du genre
 
- M esures positives ou affirmatives
+ Mesures positives ou affirmatives
 
  Incitations financières et bourses d ' études
 
@@ -346,7 +348,7 @@ Les acteurs de l'éducation, notamment les cantons, prennent les mesures utiles 
 
  Autres:
 
- L es obstacles qui entravent l ' accès à l ' éducation des filles enceintes et des jeunes mères ont tous été éliminés pour garantir la continuité de l ' enseignement
+ Les obstacles qui entravent l’accès à l’éducation des filles enceintes et des jeunes mères ont tous été éliminés pour garantir la continuité de l’enseignement
 
  Des programmes de réintégration des jeunes mères sont prévus
 
@@ -376,7 +378,7 @@ Mesure politique :
 
 En 2020 , la CDIP a décidé explicitement vouloir améliorer l'égalité des chances dans le système éducatif et a donc mis en place la Commission permanente pour l'égalité dans la formation (KoBiGe) - un organe consultatif interne de la CDIP ayant pour but d'améliorer l'égalité des chances dans le système éducatif.
 
-La tâche de cet organe est de conseiller techniquement les organes politiques de la CDIP sur les questions relatives à l'égalité des chances (« second opinion »). Pour ce faire, la commission s'appuie sur le R apport sur l'éducation . - Les plans d'études des régions linguistiques (Piano di studio) incluent des questions d'égalité et de genre en tant que thèmes transversaux.
+La tâche de cet organe est de conseiller techniquement les organes politiques de la CDIP sur les questions relatives à l'égalité des chances (« second opinion »). Pour ce faire, la commission s'appuie sur le Rapport sur l'éducation. - Les plans d'études des régions linguistiques (Piano di studio) incluent des questions d'égalité et de genre en tant que thèmes transversaux.
 
 - Depuis juin 2023, une disposition dans les bases légales concernant la maturité gymnasiale engage les  cantons  à  promouvoir  l'équité  dans  le  parcours  gymnasial,  avec  un  accent  particulier  sur  les groupes  potentiellement  sous-représentés,  comme  les  filles  et  les  femmes  (Ordonnance  sur  la reconnaissance des certificats de maturité gymnasiale, RS 413.11).
 
@@ -386,7 +388,7 @@ La tâche de cet organe est de conseiller techniquement les organes politiques d
 
 - Soutien aux Académies des sciences : Pendant la période 2021-2024, les Académies suisses des sciences ont soutenu 29 projets MINT, dont certains spécifiquement pour encourager les filles à s'engager dans ces domaines (ex. : Swiss TecLadies). Il existe également des projets MINT dans différentes cantons.
 
--Programme "viamia" : Lancé en 2022 et disponible dans tous les cantons pendant la période 20212024,  ce  programme  gratuit  s'adresse  aux  adultes  de  40  ans  et  plus,  en  particulier  ceux  qui reprennent le travail après une interruption.
+- Programme "viamia" : Lancé en 2022 et disponible dans tous les cantons pendant la période 2021-2024, ce programme gratuit s'adresse aux adultes de 40 ans et plus, en particulier ceux qui reprennent le travail après une interruption.
 
 -Le  Plan  d'action  de  la Stratégie  Égalité  2030  vise  à  augmenter  la  part  des  femmes  dans l'enseignement et la recherche, à promouvoir les femmes dans les filières MINT, à garantir l'égalité des chances dans la formation professionnelle et à encourager l'accès équitable à la formation.
 
@@ -454,19 +456,19 @@ Pour mémoire : l ' article/paragraphe 5(1)(c) a de la Convention/Recommandation
 
 [[START OF PAGE 13]]
 
-##### Peuples autochtones:
-
-En  Suisse,  cette  thématique  importante  est  traitée  dans  d'autres  cadres  et  dans  d'autres conventions. La Suisse renonce à prendre position sur ce chapitre.
+En Suisse, cette thématique importante est traitée dans d'autres cadres et dans d'autres conventions. La Suisse renonce à prendre position sur ce chapitre.
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 
-- Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l ' éducation des minorités? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
+- Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l’éducation des minorités? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
+
+##### Peuples autochtones:
 
  La législation garantit le droit à l ' éducation des peuples autochtones
 
  Des mesures politiques visent à la promotion du droit à l ' éducation des peuples autochtones
 
- L ' élaboration des politiques prévoit des consultations avec les communités locales
+ L’élaboration des politiques prévoit des consultations avec les communautés locales
 
  Le droit des peuples autochtones d ' exercer des activités éducatives qui leur soient propres est garanti par la législation
 
@@ -492,13 +494,9 @@ En  Suisse,  cette  thématique  importante  est  traitée  dans  d'autres  cadr
 
 En  Suisse,  cette  thématique  importante  est  traitée  dans  d'autres  cadres  et  dans  d'autres conventions. La Suisse renonce à prendre position sur ce chapitre.
 
-26
+> 26 Supra note 15.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 13]]
 
@@ -564,11 +562,11 @@ Depuis la mise en œuvre de l'Agenda intégration Suisse (AIS), et dans le cadre
 
 Il convient de noter que les besoins et le potentiel des AP/R varient fortement d'une personne à l'autre. L'encouragement de l'intégration doit dès lors être conçu de manière souple, tant du côté des  structures  ordinaires  qu'en  ce  qui  concerne  les  offres  spécifiques de  l'encouragement  de l'intégration destinées à ces personnes.
 
-Aujourd'hui,  p armi  ces  individus  en  quête  de  protection  en  Suisse,  on  trouve  notamment beaucoup d'étudiants qui ont dû quitter leur université ou n'ont pas pu commencer leurs études. Ceux-ci souhaitent à présent poursuivre leur parcours académique en Suisse et cherchent donc à intégrer les hautes écoles. En collaboration avec la faîtière des hautes écoles suisse (Swissuniversities), un programme formel sera mis en œuvre dès 2025 en vue de faciliter l'accès aux hautes études des personnes ayant un potentiel qui ont dû fuir leur pays. L'appel aux projets lancé en juillet 2024 par Swissuniversities à l'attention des hautes écoles en Suisse , devrait pouvoir permettre de préparer les réfugiés aux exigences des études supérieures en Suisse sur les plans linguistique, technique et organisationnel. Les projets susceptibles d'être soutenus doivent avoir en amont, un soutien formel des services cantonaux de l'intégration, c'est -à-dire être compatibles aux dispositifs cantonaux de l'intégration. Dans cette optique, plusieurs cantons ont commencé à adapter  leur  dispositif  légal,  notam ment  les  lois  sur  les  bourses  et  prêt  d'études.  Ainsi,  les personnes admises à titre provisoire ainsi que celles bénéficiant du statut de protection S feront bientôt partie du cercle des bénéficiaires des bourses d'études dans différents cantons.
+Aujourd’hui, parmi ces individus en quête de protection en Suisse, on trouve notamment beaucoup d’étudiants qui ont dû quitter leur université ou n’ont pas pu commencer leurs études. Ceux-ci souhaitent à présent poursuivre leur parcours académique en Suisse et cherchent donc à intégrer les hautes écoles. En collaboration avec la faîtière des hautes écoles suisse (Swissuniversities), un programme formel sera mis en œuvre dès 2025 en vue de faciliter l’accès aux hautes études des personnes ayant un potentiel qui ont dû fuir leur pays. L’appel aux projets lancé en juillet 2024 par Swissuniversities à l’attention des hautes écoles en Suisse, devrait pouvoir permettre de préparer les réfugiés aux exigences des études supérieures en Suisse sur les plans linguistique, technique et organisationnel. Les projets susceptibles d’être soutenus doivent avoir en amont, un soutien formel des services cantonaux de l’intégration, c’est-à-dire être compatibles aux dispositifs cantonaux de l’intégration. Dans cette optique, plusieurs cantons ont commencé à adapter leur dispositif légal, notamment les lois sur les bourses et prêt d’études. Ainsi, les personnes admises à titre provisoire ainsi que celles bénéficiant du statut de protection S feront bientôt partie du cercle des bénéficiaires des bourses d’études dans différents cantons.
 
 - Des  mesures  spécifiques  ont-elles  été  adoptées  pour  les  personnes  déplacées  en  raison  du changement climatique?
 
-Oui
+ Oui
 
  Non
 
@@ -576,11 +574,13 @@ Oui
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l ' éducation des migrants, des réfugiés, des demandeurs d ' asile, des personnes apatrides et des personnes déplacées à  l ' intérieur  de  leur  propre  pays ?  Des  données  quantitatives  succinctes  pourront  être  ajoutées  si nécessaire.
 
-En matière d' aptitude à la formation des migrants, la Suisse a œuvré activement sur deux aspects en vue d'éradiquer les obstacles à la formation. Il a été question d'améliorer l'information et la sensibilisation, afin de créer les conditions cadres favorables. En ce sens, l' Agenda Intégration Suisse (AIS) permet aux cantons d' informer et d' accompagner les réfugiés de manière ciblée. Pour ce faire, une gestion au cas par cas sur l'ensemble du processus a été mise en place dans tous les cantons. Ces  derniers  assument  cette  tâche  eux-mêmes ou  délèguent  la  mise  en  œuvre  à  des  services sociaux communaux ou à des ONG. Par ailleurs, dès 2024, la Confédération et les cantons ont accentué la collaboration institutionnelle dans le cadre du PIC 3 (2024-2027) avec les hautes écoles avec un objectif visant à encourager l'accès aux hautes écoles (formation tertiaire).  Les services chargés de la gestion des cas dans les cantons poursuivent ce but de manière conséquente dans leur pratique. A ce jour, l'évaluation de l'AIS ne permet pas encore d'avoir les données quantitatives probantes.
+En matière d’aptitude à la formation des migrants, la Suisse a œuvré activement sur deux aspects en vue d’éradiquer les obstacles à la formation. Il a été question d’améliorer l’information et la sensibilisation, afin de créer les conditions cadres favorables. En ce sens, l’Agenda Intégration Suisse (AIS) permet aux cantons d’informer et d’accompagner les réfugiés de manière ciblée. Pour ce faire, une gestion au cas par cas sur l’ensemble du processus a été mise en place dans tous les cantons. Ces derniers assument cette tâche eux-mêmes ou délèguent la mise en œuvre à des services sociaux communaux ou à des ONG. Par ailleurs, dès 2024, la Confédération et les cantons ont
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+accentué la collaboration institutionnelle dans le cadre du PIC 3 (2024-2027) avec les hautes écoles avec un objectif visant à encourager l’accès aux hautes écoles (formation tertiaire). Les services chargés de la gestion des cas dans les cantons poursuivent ce but de manière conséquente dans leur pratique. A ce jour, l’évaluation de l’AIS ne permet pas encore d’avoir les données quantitatives probantes.
 
 ##### Personnes handicapées:
 
@@ -590,7 +590,7 @@ En matière d' aptitude à la formation des migrants, la Suisse a œuvré active
 
  Leur inclusion dans les écoles ordinaires est garantie
 
- L es écoles spéciales font office de centres de ressources pour les écoles inclusives
+ Les écoles spéciales font office de centres de ressources pour les écoles inclusives
 
  Mesures d ' action positive ou affirmative
 
@@ -626,9 +626,7 @@ Mesure d'action positive ou affirmative : Dans le sens de quotas -> non Dans le 
 
 > 33 Supra note 15.
 
-34
-
-Supra note 16.
+> 34 Supra note 16.
 
 > 35 Supra note 15.
 
@@ -650,7 +648,7 @@ Allocations familiales (prestations de la sécurité sociale versées aux salari
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l ' éducation des étudiants issus de familles pauvres? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
-### Progrès accomplis dans la mise en œuvre du droit à l' éducation à tous les degrés et dans tous les types d ' enseignement
+### 2. Progrès accomplis dans la mise en œuvre du droit à l’éducation à tous les degrés et dans tous les types d’enseignement
 
 #### 2.1 Éducation et protection de la petite enfance
 
@@ -674,9 +672,9 @@ Pour  mémoire:  l ' éducation  et  la  protection  de  la  petite  enfance  (E
 
 [[START OF PAGE 18]]
 
- L ' accès aux services d ' EPPE est exempt de toute discrimination
+sécurité, la protection et le jeu sont une nécessité pour l’enfant.
 
-sécurité, la protection et le jeu sont une nécessité pour l ' enfant.
+ L’accès aux services d’EPPE est exempt de toute discrimination
 
 - Veuillez apporter des précisions sur les mesures prises:
 
@@ -686,7 +684,7 @@ En  Suisse,  l'encadrement  de  la  petite  enfance  (de  0  à  4  ans)  relèv
 
  L ' enseignement préprimaire est obligatoire. Veuillez indiquer l ' âge de la scolarisation et la durée de l ' enseignement à ce niveau:
 
-L'enseignement  dès  4  ans  est  obligatoire  (jardin  d'enfant).  De  0 - 4  ans,  il  n'existe  aucun enseignement obligatoire.
+L’enseignement dès 4 ans est obligatoire (jardin d’enfant). De 0-4 ans, il n’existe aucun enseignement obligatoire.
 
  L ' enseignement préprimaire n ' est pas obligatoire.
 
@@ -816,7 +814,7 @@ Le  degré  secondaire  II  dure  entre  3  et  4  ans  en  fonction  de  la  vo
 
 Pour mémoire: la législation du travail et les lois relatives à la scolarité obligatoire sont interdépendantes et se renforcent mutuellement. Si l ' âge minimum d ' admission à l ' emploi est inférieur à l ' âge de fin de la scolarité obligatoire, il y a un risque que l ' enfant abandonne l ' école pour travailler et, de ce fait, ne parvienne pas au terme de la scolarité obligatoire. À l ' inverse, si l ' âge de fin de la scolarité est inférieur à l ' âge minimum d ' admission à l ' emploi, une fois que l ' enfant a terminé la scolarité obligatoire, il est exposé à l ' exploitation des enfants et à des violations de la législation du travail.
 
- Oui o Non o
+ Oui  Non
 
 - Veuillez donner les références des lois et dispositions pertinentes et expliquer comment ces dispositions sont appliquées:
 
@@ -868,7 +866,7 @@ Pour mémoire: l ' article/paragraphe 4(a) de la Convention/Recommandation prév
 
 - Veuillez donner la liste des lois et politiques pertinentes. Le cas échéant, veuillez fournir des renseignements  sur  les  coûts  directs  (tels  que  les  frais  d ' inscription  et  de  scolarisation)  et indirects  (frais  d ' examen,  matériel  universitaire,  transports,  hébergement).  Des  données quantitatives succinctes pourront être ajoutées si nécessaire.
 
- Lire :  https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themes- transversaux/egalite-des-chances-fri.html
+ Lire : https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themes-transversaux/egalite-des-chances-fri.html
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation de l ' enseignement supérieur?
 
@@ -926,7 +924,7 @@ Pour mémoire : l ' article/paragraphe 4(c) de la Convention/Recommandation pré
 
 - Veuillez apporter des précisions sur les mesures prises:
 
-Lire: https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themes- transversaux/egalite-des-chances-fri.html
+Lire: https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themes-transversaux/egalite-des-chances-fri.html
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation de l ' apprentissage et de l ' éducation des adultes ?
 
@@ -1040,7 +1038,7 @@ Pour mémoire: l ' article/paragraphe 4(d) de la Convention/Recommandation s ' a
 
 o Mauvaise qualité des infrastructures éducatives et du matériel pédagogique
 
-- o Rapport élèves/enseignant élevé.
+o Rapport élèves/enseignant élevé.
 
 - Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
@@ -1052,7 +1050,7 @@ Pour mémoire: l ' article/paragraphe 5(1)(a) de la Convention/Recommandation pr
 
  L ' éducation aux droits de l ' homme est intégrée dans les programmes d ' enseignement.
 
-> 41 Qui appelle les États à « faire en sorte que tous les élèves acquièrent les connaissances et compétences nécessaires  pour  promouvoir  le  développement  durable,  notamment  par  l'éducation  en  faveur  du développement durable et de modes de vie durables, des dr oits de l'homme, de l'égalité des sexes, de la promotion d'une culture de paix et de non -violence, de la citoyenneté mondiale et de l'appréciation de la diversité culturelle et de la contribution de la culture au développement durable ».
+> 41 Qui appelle les États à « faire en sorte que tous les élèves acquièrent les connaissances et compétences nécessaires  pour  promouvoir  le  développement  durable,  notamment  par  l'éducation  en  faveur  du développement durable et de modes de vie durables, des droits de l'homme, de l'égalité des sexes, de la promotion d'une culture de paix et de non-violence, de la citoyenneté mondiale et de l'appréciation de la diversité culturelle et de la contribution de la culture au développement durable ».
 
 [[END OF PAGE 26]]
 
@@ -1128,7 +1126,7 @@ Oui, en vertu des dispositions constitutionnelles citées en début de rapport.
 
 - Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
-Remarque générale : l'enseignement non étatique existe en Suisse mais est peu développé. Il  ne  fait  généralement pas l'objet de surveillance et émarge pour ainsi dire totalement à l'économie privée. Grâce à une saine concurrence entre établissements de for mation privés, la qualité y est généralement excellente.
+Remarque générale : l'enseignement non étatique existe en Suisse mais est peu développé. Il  ne  fait  généralement pas l'objet de surveillance et émarge pour ainsi dire totalement à l'économie privée. Grâce à une saine concurrence entre établissements de formation privés, la qualité y est généralement excellente.
 
 #### 3.5 Éducation numérique
 
@@ -1148,7 +1146,7 @@ Veuillez indiquer les textes et dispositions pertinents:
 
 Le contenu des formations scolaires est décrit dans les trois plans d'études suisses (un par langue nationale). Voir ici : https://www.cdip.ch/fr/themes/scolarite-obligatoire
 
-Lire aussi: https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themestransversaux/numerisation-fri.html
+Lire aussi: https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/themes-transversaux/numerisation-fri.html
 
  Les dispositions de la législation, des politiques, des stratégies ou des plans de base concernant la gestion, la confidentialité, la sécurité, le stockage, le transfert, l ' utilisation et le partage interne et externe des données relatives à l ' éducation ont pour objet de garantir le droit à la vie privée des apprenants et des parties prenantes de l ' éducation (consentement éclairé, politiques d ' utilisation transparentes, etc.)
 
@@ -1198,7 +1196,7 @@ Lire aussi: https://www.sbfi.admin.ch/sbfi/fr/home/politique-fri/fri-2021-2024/t
 
 ### 4 Le renforcement des systèmes de gouvernance
 
-Pour mémoire: le Cadre d ' action Éducation 2030 énonce « pour garantir la qualité de l ' éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs ; des systèmes d ' assurance qualité ; des systèmes d ' information pour a gestion de l ' éducation ; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
+Pour mémoire: le Cadre d ' action Éducation 2030 énonce « pour garantir la qualité de l ' éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs ; des systèmes d ' assurance qualité ; des systèmes d ' information pour la gestion de l ' éducation ; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
 
 - Veuillez indiquer les mesures prises en ce qui concerne la gouvernance (plusieurs réponses possibles):
 
