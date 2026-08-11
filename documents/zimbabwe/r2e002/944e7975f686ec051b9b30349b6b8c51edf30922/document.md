@@ -17,11 +17,79 @@ Date: 1 March 2013
 
 ## Table of Contents
 
+PRELIMINARY MATERIAL ................................................................................................................................... I
+TABLE OF CONTENTS .................................................................................................................................................. I
+TABLES .................................................................................................................................................................... III
+FIGURES ................................................................................................................................................................... III
+ACRONYMS ............................................................................................................................................................... V
+1 INTRODUCTION .............................................................................................................................................. 1
+1.1 BACKGROUND ............................................................................................................................................... 1
+1.2 EDUCATION SECTOR PLAN VS. EMTP OPERATIONAL PLAN ......................................................................... 2
+2 UPDATED SITUATION ANALYSIS ............................................................................................................... 4
+2.1 CURRENT MACROECONOMIC SITUATION ...................................................................................................... 4
+2.2 EDUCATION COST AND FINANCING ANALYSIS .............................................................................................. 6
+2.2.1 Public expenditure on education sector (domestic and external sources) ................................................ 6
+2.2.2 MOESAC expenditure on school education, sport, arts and culture ........................................................ 9
+2.2.3 School-level income and expenditure .................................................................................................... 10
+2.3 DEMOGRAPHIC, POPULATION AND POVERTY DATA ..................................................................................... 11
+2.3.1 Demographic and Population ................................................................................................................. 11
+2.3.2 Poverty ................................................................................................................................................... 12
+2.3.3 Social, ethnic and linguistic context ...................................................................................................... 12
+2.4 SYSTEM STATUS AND PERFORMANCE ......................................................................................................... 12
+2.4.1 School Facilities ..................................................................................................................................... 12
+2.4.2 Classrooms and Classes ......................................................................................................................... 13
+2.4.3 WASH Facilities .................................................................................................................................... 13
+2.4.4 Textbooks .............................................................................................................................................. 14
+2.4.5 Computers, ICT and E-Learning ............................................................................................................ 14
+2.5 ACCESS ....................................................................................................................................................... 15
+2.5.1 Primary Participation Rate ..................................................................................................................... 15
+2.5.2 Secondary Participation Rate ................................................................................................................. 16
+2.6 EQUITY ....................................................................................................................................................... 17
+2.6.1 Orphaned and Vulnerable Children ....................................................................................................... 17
+2.7 GENDER EQUITY ......................................................................................................................................... 18
+2.8 INTERNAL EFFICIENCY ................................................................................................................................ 20
+2.8.1 Pupil Flow Rates .................................................................................................................................... 20
+2.8.2 Primary Survival Rates .......................................................................................................................... 21
+2.8.3 Secondary Survival Rates ...................................................................................................................... 22
+2.9 LEARNING OUTCOMES ................................................................................................................................ 23
+2.10 TEACHING CADRE ....................................................................................................................................... 24
+2.11 CURRICULUM .............................................................................................................................................. 27
+2.12 MANAGEMENT ............................................................................................................................................ 29
+2.12.1 Management of the broader system ................................................................................................... 29
+2.12.2 Management of Schools .................................................................................................................... 29
+2.13 INFORMATION SYSTEMS ............................................................................................................................. 29
+
 i
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+2.14 FINANCIAL MANAGEMENT ......................................................................................................................... 30
+3 OPERATIONAL PLAN: STRATEGIC CHOICES AND SHORT TERM PRIORITIES ....................... 32
+3.1 POLICY ORIENTATION AND GOALS ............................................................................................................. 32
+3.2 THE PROCESS OF DEVELOPING THE OPERATIONAL PLAN ........................................................................... 32
+3.3 EXISTING COMMITMENTS TO SUPPORT OPERATIONALIZING THE EMTP ...................................................... 33
+3.3.1 Operational Objective 1: Strengthen teacher development and management ....................................... 34
+3.3.2 Operational Objective 2: Improve learning quality and relevance ........................................................ 34
+3.3.3 Operational Objective 3: Improve conditions of learning in schools ..................................................... 34
+3.3.4 Operational Objective 4: Improve education service quality through improved supervision .............. 35
+3.3.5 Operational Objective 5: Strengthen school/system governance, monitoring and management ........... 35
+3.3.6 Operational Objective 6: Strengthen support to those learners with greatest need ................................ 35
+3.3.7 Operational Objective 7: Strengthen Sport, Arts and Culture ............................................................... 36
+3.4 PROGRAM PROPOSALS: GAPS AND NEXT TIER OF PRIORITIES .................................................................... 36
+3.4.1 Information gaps and proposed analysis ................................................................................................ 36
+3.4.2 Unfunded priorities – next tier ............................................................................................................... 37
+3.5 COST AND FINANCING OF THE EMTP OPERATIONAL PLAN ......................................................................... 38
+3.5.1 Estimated costs ...................................................................................................................................... 38
+3.5.2 Estimated resources ............................................................................................................................... 40
+3.5.3 Key risks to the implementation of the planned EMTP OP ................................................................... 41
+3.5.4 Financial simulation model .................................................................................................................... 42
+3.6 IMPLEMENTATION AND COORDINATION ..................................................................................................... 43
+3.6.1 EMTP Operational Plan Steering Committee ........................................................................................ 43
+3.6.2 Joint Annual Review .............................................................................................................................. 45
+3.7 RISKS .......................................................................................................................................................... 46
+4 RESULTS FRAMEWORK .............................................................................................................................. 48
 
 ii
 
@@ -31,11 +99,60 @@ ii
 
 ## Tables
 
+Table 1: Education in the macro-fiscal framework ................................................................................. 5
+Table 2: Classrooms and Classes .......................................................................................................... 13
+Table 3: Primary Gross Enrolment Rate .............................................................................................. 15
+Table 4: GER Secondary by year .......................................................................................................... 16
+Table 5: Flow rates, Repetition and Dropout , ...................................................................................... 20
+Table 6: 2011 to 2012 Transition Rates Grade 7 and Form 4 .............................................................. 20
+Table 7: 6 years of exam pass rates for Grade 7, O level and A level exams ...................................... 23
+Table 8: Percentage of learners performing below or at/above their grade/form .................................. 23
+Table 9: Performance Lag in Mathematics and English ....................................................................... 24
+Table 10: Stages of the Curriculum Review Process .............................................................................. 28
+Table 11: EMTP OP estimated expenditure in US$ m, current prices .................................................... 38
+Table 12: Per student EMTP OP estimated expenditure in US$, current prices ..................................... 39
+Table 13: Estimated resources to fund the EMTP OP Objectives (excluding personnel) ...................... 40
+Table 14: MOESAC budget execution rates (%) .................................................................................... 41
+Table 15: Risk Assessment Framework .................................................................................................. 46
+
+## Figures
+
+Figure 1: Macroeconomic and fiscal trends and projections .................................................................... 4
+Figure 2: Public expenditure on education by major subsector in US$m ................................................ 6
+Figure 3: Share of public expenditure on education by subsector (%), 2011 ........................................... 7
+Figure 4: Composition of public expenditure on school education, sports, arts and culture .................... 8
+Figure 5: Per student public spending on school education in US$ ......................................................... 8
+Figure 6: MOESAC budget and actual expenditure by economic item in US$m .................................... 9
+Figure 7: Primary school income per pupil by sources and school type 2011¹ ...................................... 10
+Figure 8: Secondary school income per pupil by source and school type 2011¹ .................................... 11
+Figure 9: Pupil to Toilet ratio by Gender and Grant Classification ........................................................ 14
+Figure 10: Primary Gross Enrolment Rate (GER) .................................................................................. 15
+Figure 11: Primary Apparent Intake Rate (AIR) ..................................................................................... 15
+Figure 12: Primary Net Intake Rate (NIR) .............................................................................................. 15
+Figure 13: Secondary Gross Enrolment Rate (GER) .............................................................................. 16
+
 iii
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Figure 14: Secondary Apparent Intake Rate (AIR) ................................................................................. 17
+Figure 15: Secondary Net Intake Rate (NIR) ....................................................................................... 17
+Figure 16: Orphaned and Vulnerable Children (OVC) coverage under BEAM .................................. 18
+Figure 17: Primary Enrolment GPI by District ..................................................................................... 19
+Figure 18: Secondary Enrolment GPI by District ................................................................................. 19
+Figure 19: Promotion Rate by Grade .................................................................................................... 21
+Figure 20: Dropout Rate by Grade ....................................................................................................... 21
+Figure 21: Primary survival rates by grade ........................................................................................... 21
+Figure 22: Secondary survival rates by grade ....................................................................................... 22
+Figure 23: Primary Pupil to Teacher Ratio ........................................................................................... 25
+Figure 24: Primary Pupil to Qualified Teacher Ratio ........................................................................... 25
+Figure 25: Secondary Pupil to Teacher Ratio ....................................................................................... 25
+Figure 26: Secondary Pupil to Qualified Teacher Ratio ....................................................................... 25
+Figure 27: MOESAC Priorities for the Curriculum Review ................................................................ 28
+Figure 28: Proportion of EMTP OP estimated expenditure 2013-2015 by Operational Objective (excluding personnel costs) (%) .................................................................................................................. 39
+Figure 29: Proportion of resources committed to fund the EMTP OP Objectives (excluding personnel) 2013-15 by source (%) ................................................................................................................................ 40
 
 iv
 
@@ -84,6 +201,7 @@ OVC | Orphans and Vulnerable Children
 PCR | Pupil to Classroom Ratio
 PClR | Pupil per Classroom
 PDL | Poverty Datum Line
+PFMS | Public Financial Management System
 PLAP | Performance Lag Address Programme
 
 v
@@ -92,69 +210,22 @@ v
 
 [[START OF PAGE 7]]
 
-PSC
-
-Public Service Commission
-
-PSIP
-
-Public Sector Investment Programme
-
-PTR
-
-Pupil Teacher Ratio
-
-QA
-
-Quality Assurance
-
-SAC
-
-Sport, Arts and Culture
-
-SACMEQ
-
-SDA
-
-SDC
-
-Southern and Eastern Africa Council for Measuring Education Quality
-
-School Development Association
-
-School Development Committee
-
-TDIS
-
-TIC
-
-TMS
-
-TVET
-
-Teacher Development Information System
-
-Teacher in Charge
-
-Teacher Minimum Standards
-
-Technical Vocational Education and Training
-
-WASH
-
-ZELA
-
-ZimSEC
-
-ZIMSTAT
-
-Water and School Hygiene
-
-Zimbabwe Early Learning Assessment
-
-Zimbabwe School Examination Council
-
-Zimbabwe National Statistics Agency
+PSC | Public Service Commission
+PSIP | Public Sector Investment Programme
+PTR | Pupil Teacher Ratio
+QA | Quality Assurance
+SAC | Sport, Arts and Culture
+SACMEQ | Southern and Eastern Africa Council for Measuring Education Quality
+SDA | School Development Association
+SDC | School Development Committee
+TDIS | Teacher Development Information System
+TIC | Teacher in Charge
+TMS | Teacher Minimum Standards
+TVET | Technical Vocational Education and Training
+WASH | Water and School Hygiene
+ZELA | Zimbabwe Early Learning Assessment
+ZimSEC | Zimbabwe School Examination Council
+ZIMSTAT | Zimbabwe National Statistics Agency
 
 vi
 
@@ -168,7 +239,7 @@ vi
 
 Zimbabwe's education sector is slowly emerging from the setback of the near collapse of basic social service delivery systems at the peak of the economic crisis in 2008-2009. The crisis had considerable impact on several aspects of the education system, particularly related to financing, the teacher force, participation, equity and learning outcomes. There was a brisk economic and fiscal recovery from 2009 through 2011, but investment in basic services - particularly education and health remains low and socioeconomic recovery is lagging.
 
-Supported by Education Development Partners, (EDP) beginning in 2010, the Ministry of Education, Sport, Arts and Culture (MOESAC) began the process of developing a plan for the school education sector, i.e.: Early Childhood Education (ECD) through Form 6. After years of underinvestment, accurate information on teachers, financing, facilities, enrolments, learning outcomes and availability of key inputs was scarce. The MOESAC and partners decided to focus on a one-year Annual Work Plan and Budget which was submitted to the Ministry of Finance in July 2010 and resulted in a sizeable increase in nonsalary budget allocations for the next financial year. It further provided the basis for additional work on an Interim Education Financing Plan, and led to the development of a full Education Medium Term Plan (EMTP) 2011-2015.  The EMTP was formally endorsed by the Cabinet in May 2012.
+Supported by Education Development Partners, (EDP) beginning in 2010, the Ministry of Education, Sport, Arts and Culture (MOESAC) began the process of developing a plan for the school education sector, i.e.: Early Childhood Education (ECD) through Form 6. After years of underinvestment, accurate information on teachers, financing, facilities, enrolments, learning outcomes and availability of key inputs was scarce. The MOESAC and partners decided to focus on a one-year Annual Work Plan and Budget which was submitted to the Ministry of Finance in July 2010 and resulted in a sizeable increase in non-salary budget allocations for the next financial year. It further provided the basis for additional work on an Interim Education Financing Plan, and led to the development of a full Education Medium Term Plan (EMTP) 2011-2015. The EMTP was formally endorsed by the Cabinet in May 2012.
 
 The EMTP utilised information available at the time of its formulation for Grades 1 through Form 6. Recent circumstances have changed significantly in both positive and challenging ways. On the positive side, the budget has increased significantly since 2009; the strengthening of the Education Management Information System (EMIS) now allows for time series analysis of school level factors; more indepth research and analysis provides insights to learning outcomes; and many teachers who had fled at the peak of the crisis returned to Zimbabwe under an amnesty programme.
 
@@ -210,41 +281,41 @@ Going forward,  the  Global  Partnership  would  encourage  Zimbabwe to decide w
 
 [[START OF PAGE 10]]
 
+the education sector forward towards the objectives set by the Medium Term Plan.
+
+– GPE Aide Memoire to MOESAC November 2011
+
+The MOESAC and Education Coordination Group (ECG) have chosen the latter, and decided to develop this Operational Plan to support implementation of the EMTP. It identifies key activities and interventions to accelerate the gains made since 2009 and to facilitate system recovery based on the current, updated context.
+
+### EMTP 2011 – 2015 Vision and Strategic Priorities
+
 #### Vision
 
-The vision of the Ministry of Education, Sport, Arts and Culture is of holistically well-educated Zimbabweans with unhu/ubuntu (emphasizing human values and interconnectedness) who are patriotic, balanced, competitive and selfreliant.
+The vision of the Ministry of Education, Sport, Arts and Culture is of holistically well-educated Zimbabweans with unhu/ubuntu (emphasizing human values and interconnectedness) who are patriotic, balanced, competitive and self-reliant.
 
 #### MOESAC Mission Statement
 
-To promote and facilitate the provision of high quality, inclusive and relevant Early Childhood Development (ECD), Primary and Secondary Education, Live0long Learning and Continuing Education, and to enhance Sports, Arts and Culture in education.
+To promote and facilitate the provision of high quality, inclusive and relevant Early Childhood Development (ECD), Primary and Secondary Education, Life-long Learning and Continuing Education, and to enhance Sports, Arts and Culture in education.
 
 #### Goal of the EMTP
 
-To  revitalize  the  provision  of  relevant,  quality,  inclusive  and  holistic  education,  sport,  arts  and  culture  for  all Zimbabweans in line with the MDG targets by 2015.
+To revitalize the provision of relevant, quality, inclusive and holistic education, sport, arts and culture for all Zimbabweans in line with the MDG targets by 2015.
 
 #### Strategic Priorities
 
 - Strategic Objective 1: Restore the professional status of teachers
 
-- Strategic Objective 2:  Revitalize learning quality and relevance
+- Strategic Objective 2: Revitalize learning quality and relevance
 
-- Strategic Objective3:  Restore and improve conditions of learning
+- Strategic Objective3: Restore and improve conditions of learning
 
-- Strategic Objective 4:  Quality assurance and staff  development
+- Strategic Objective 4: Quality assurance and staff development
 
-- Strategic Objective 5:  Reinvigorate school and system governance and management
+- Strategic Objective 5: Reinvigorate school and system governance and management
 
-- Strategic Objective 6:  Focus resources on those with greatest need
+- Strategic Objective 6: Focus resources on those with greatest need
 
-- Strategic Objective 7:  Revitalize Sport, Arts and Culture
-
-the education sector forward towards the objectives set by the Medium Term Plan.
-
-- GPE Aide Memoire to MOESAC November 2011
-
-The MOESAC and Education Coordination Group (ECG) have chosen the latter, and decided to develop this Operational Plan to support implementation of the EMTP. It identifies key activities and interventions to accelerate the gains made since 2009 and to facilitate system recovery based on the current, updated context.
-
-### EMTP 2011 - 2015 Vision and Strategic Priorities
+- Strategic Objective 7: Revitalize Sport, Arts and Culture
 
 3
 
@@ -320,7 +391,7 @@ Real GDP growth (%)
 
 Govt expenditure share of GDP (%)
 
-Source: Ministry of Finance: Budget Statement 2013. Notes: (1) Govt. expenditure figures are actuals for 2009, 2010 and 2011, a revised estimate for 2012, and projections for 2013-2015. (2) The deflator used to compute real government expenditure was the projected GDP deflator Public expenditure on education (domestic and external funds) as a share of GDP is high by international standards, but government funding for non-salary costs is very limited . Table 1 presents the weight of the education sector in the macroeconomic and fiscal context. Although public spending accounted for about 10% of GDP in 2012, government spending on school operational and capital costs was very minimal. The vast majority of school-level non-salary costs are paid by households through school fees and levies, estimated at over 90% in 2012 (EMIS), and these amounted to US$376 million in 2011 representing an additional 4% of GDP.
+Source: Ministry of Finance: Budget Statement 2013. Notes: (1) Govt. expenditure figures are actuals for 2009, 2010 and 2011, a revised estimate for 2012, and projections for 2013-2015. (2) The deflator used to compute real government expenditure was the projected GDP deflator
 
 4
 
@@ -328,18 +399,20 @@ Source: Ministry of Finance: Budget Statement 2013. Notes: (1) Govt. expenditure
 
 [[START OF PAGE 12]]
 
-2009 Actual | 2010 Actual | 2011 Actual | 2012 Revised | 2013 Budget
+Public expenditure on education (domestic and external funds) as a share of GDP is high by international standards, but government funding for non-salary costs is very limited. Table 1 presents the weight of the education sector in the macroeconomic and fiscal context. Although public spending accounted for about 10% of GDP in 2012, government spending on school operational and capital costs was very minimal. The vast majority of school-level non-salary costs are paid by households through school fees and levies, estimated at over 90% in 2012 (EMIS), and these amounted to US$376 million in 2011 representing an additional 4% of GDP.
+
+Table 1: Education in the macro-fiscal framework
+
+ | 2009 Actual | 2010 Actual | 2011 Actual | 2012 Revised | 2013 Budget
 --- | --- | --- | --- | --- | ---
 Education public expenditure as % of GDP | 3.5% | 6.9% | 8.7% | 10.0% | n/a
-Education private (school level) expenditure as % of GDP | n/a | 4.3% | n/a | n/a
+Education private (school level) expenditure as % of GDP | n/a | 4.3% | n/a | n/a |
 Education as % of total govt expenditure | 24% | 23% | 25% | 28% | 27%
 Education as % of total govt current expenditure | 26% | 26% | 28% | 30% | 30%
 Education as % of total govt capital expenditure | 3% | 11% | 6% | 8% | 10%
 School education & SAC share of govt expenditure (%) | 21% | 15% | 18% | 20% | 20%
 School education & SAC share of discretionary govt expenditure (%) | 25% | 17% | 20% | 23% | 23%
 External funds as % of school education & SAC expenditure | 2% | 11% | 5% | 7% | n/a
-
-Table 1: Education in the macro-fiscal framework
 
 Sources: MoESAC, MoHTE, MoLSS (domestic sources of public expenditure); Education Transition Fund (external sources of public expenditure); EMIS (private expenditure). Note: (1) School education and sports, arts and culture (SAC), include the subsectors which the MoESAC is responsible for. (2) Discretionary govt expenditure is voted expenditure (i.e. excluding statutory and constitutional expenditure). (3) n/a means not available.
 
@@ -419,7 +492,7 @@ Sports, arts and culture
 
 Sources: MOESAC, MOHTE, MOLSS (domestic sources); Education Transition Fund (external sources)
 
-In 2011, primary education accounted for nearly half of public spending on education, secondary education just under one-quarter, and higher education just over 20%, leaving about 7% for teacher education, technical and vocational, and administration combined (see Figure 3 ). The shares of resources taken by the three largest subsectors has not changed much since 2010, but teacher education, covered under the MOHTE budget, is notable for having increased its share from 1.6% in 2010 to an expected 3.4% in 2012. The proportion spent on administration has dropped dramatically over the period.
+In 2011, primary education accounted for nearly half of public spending on education, secondary education just under one-quarter, and higher education just over 20%, leaving about 7% for teacher education, technical and vocational, and administration combined (see Figure 3 ). The shares of resources taken by the three largest subsectors has not changed much since 2010, but teacher education, covered
 
 > 3 An application for US $23.6 million to the GPE is being submitted in Spring 2013 for funding from 2014-2016. Other donors provide funding to NGOs working in the sector including DFID and the EU Delegation.
 
@@ -428,6 +501,8 @@ In 2011, primary education accounted for nearly half of public spending on educa
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+under the MOHTE budget, is notable for having increased its share from 1.6% in 2010 to an expected 3.4% in 2012. The proportion spent on administration has dropped dramatically over the period.
 
 Figure 3: Share of public expenditure on education by subsector (%), 2011
 
@@ -695,7 +770,7 @@ Sources: MOESAC appropriation accounts. MOF Blue Books 2010, 2011, 2012 and 2013
 
 Schools are not provided with sufficient public funds to meet their running costs or purchase teaching and learning materials, so parents are making large contributions to schools . According to school records of income for 2011, captured by the EMIS 2012, private sources account for about 91% of both primary and secondary school income on average (excluding public funding for regular teachers' salaries). Figure 7 and Figure 8 display per student income for primary and secondary schools respectively. On average parents are paying US$54 and US$236 for primary and secondary pupils respectively, but this amount varies widely according to school type. For the P1 registered schools (urban low density), parents are paying US$472 on average, while at the other extreme, parents of pupils in P3 satellite schools (rural) pay US$19 on average. The variation in average private contributions for secondary schooling is also large, ranging from US$868 in S1 registered schools to US$64 in S3 satellite schools.  The ability to pay varies widely by community, and this is resulting in very inequitable levels of school financing.
 
-Figure 7: Primary school income per pupil by sources and school type in US$, 2011 1
+Figure 7: Primary school income per pupil by sources and school type in US$, 2011¹
 
 0%
 
@@ -781,7 +856,7 @@ Source: EMIS 2012 (response rate was 98% for primary schools and 97% for seconda
 
 [[START OF PAGE 18]]
 
-Figure 8: Secondary school income per pupil by source and school type in US$, 2011 1
+Figure 8: Secondary school income per pupil by source and school type in US$, 2011¹
 
 0%
 
@@ -905,14 +980,14 @@ All information on school facilities comes from the EMIS 2012 which provides fai
 
 ### 2.4.2 Classrooms and Classes
 
-Pupil to | Pupil to Class Ratio | Class to Classroom ratio | Number of Classrooms
+Table 2: Classrooms and Classes⁵
+
+Level | Pupil to Classroom Ratio | Pupil to Class Ratio | Class to Classroom ratio | Number of Classrooms
+ |  |  |  | Total Classrooms | Classrooms not in Use | Classrooms in Use
 --- | --- | --- | --- | --- | --- | ---
-Level | Classroom Ratio | Total Classrooms | Classrooms not in Use | Classrooms in Use
 ECD | 85.8 | 21.7 | 3.5 | 4,613 | 0 | 4,613
 Primary | 41.6 | 27.9 | 1.5 | 57,051 | 16,832 | 40,219
 Secondary | 37.0 | 22.0 | 1.7 | 23,662 | 4,619 | 19,043
-
-Table 2: Classrooms and Classes 5
 
 The table above shows the pupil to classroom ratio from a subset of 99.7% of schools reporting on classrooms.  The calculations take into account the proportion of those children studying in two shift (or session) schools, which in Zimbabwe less than 8% of all pupils. Since this proportion is so small, ratios are based upon those pupils studying in the first shift (session).
 
@@ -1054,6 +1129,8 @@ Female
 
 Male
 
+Table 3: Primary Gross Enrolment Rate (GER)
+
 year | Female | Male | Total | GPI GER
 --- | --- | --- | --- | ---
 2000 | 112.3 | 117.2 | 114.7 | 0.96
@@ -1065,8 +1142,6 @@ year | Female | Male | Total | GPI GER
 2006 | 110.1 | 112.7 | 111.4 | 0.98
 2009 | 110.0 | 111.7 | 110.9 | 0.98
 2012 | 114.0 | 117.0 | 115.5 | 0.97
-
-Table 3: Primary Gross Enrolment Rate (GER)
 
 The 12 year trend for GER 6 primary education is shown in the table above.  Data is not available for the years 2007, 2008, 2010, 2011. The data indicate a consistently high GER over the 12 years of more than 110%.  This suggests that there are a significant number of children enrolled in primary education who are above or below the target age group of 6-12 years.  The primary repetition rate for 2012 is about 2% so repetition is only part of the explanation.  It is also possible that the size of school-age population is underestimated because these figures are based on projections from the census which took place in 2002. Another possibility is that pupils are leaving the school system and then re-entering the system at a later date, but are not being recorded as new entrants.  Further research is required to understand the data.
 
@@ -1122,10 +1197,6 @@ Female
 
 Male
 
-Sources: EMIS 2009, EMIS 2012
-
-> 6 The Gross Enrolment Ratio in primary education corresponds to total enrolment in primary education, regardless of age, expressed as a percentage of the population in the relevant primary school-age group. This indicator is widely used to show the general level of participation in and capacity of primary education. The Net Enrolment Ratio gives a more precise measurement of the extent of participation in primary education, as it refers only to those children belonging to the official primary school age-group. It can also be used together with the gross enrolment ratio to measure the extent of over-aged and under-aged enrolment. In most cases, a large difference between gross and net enrolment ratios suggests the presence of over-aged pupils, resulting from late entrance and frequent grade repetitions.
-
 Figure 12: Primary Net Intake Rate (NIR)
 
 49.00
@@ -1169,6 +1240,10 @@ Figure 12: Primary Net Intake Rate (NIR)
 Female
 
 Male
+
+Sources: EMIS 2009, EMIS 2012
+
+> 6 The Gross Enrolment Ratio in primary education corresponds to total enrolment in primary education, regardless of age, expressed as a percentage of the population in the relevant primary school-age group. This indicator is widely used to show the general level of participation in and capacity of primary education. The Net Enrolment Ratio gives a more precise measurement of the extent of participation in primary education, as it refers only to those children belonging to the official primary school age-group. It can also be used together with the gross enrolment ratio to measure the extent of over-aged and under-aged enrolment. In most cases, a large difference between gross and net enrolment ratios suggests the presence of over-aged pupils, resulting from late entrance and frequent grade repetitions.
 
 15
 
@@ -1232,6 +1307,8 @@ Gross Enrolment Rate (GER) for Secondary education is shown in the figure to the
 
 Table 4 below gives the breakdown of GER by secondary sub-sector for the past 12 years.  GER shows a sharp drop in participation from 66.94% in Form 4 to just 9.85% in Form 5 which has been consistent historically.  The number of children going on from Form 4 to participate in vocational or skills training is presently unknown.
 
+Table 4: GER Secondary by year
+
 Form 1 to 4 GER | Form 5 to 6 GER | Form 1 to 6
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Year | Fem | Male | Total | GPI | Fem | Male | Total | GPI | Fem | Male | Total | GPI
@@ -1245,9 +1322,7 @@ Year | Fem | Male | Total | GPI | Fem | Male | Total | GPI | Fem | Male | Total 
 2009 | 57.54 | 58.07 | 57.81 | 0.99 | 6.05 | 8.73 | 7.36 | 0.69 | 39.93 | 41.61 | 40.77 | 0.96
 2012 | 66.44 | 67.43 | 66.94 | 0.99 | 8.52 | 11.24 | 9.85 | 0.76 | 46.81 | 48.90 | 47.85 | 0.96
 
-Table 4: GER Secondary by year
-
-> 7 The Primary Apparent Intake Rate (AIR) shown above refers to the number of new entrants in the first grade of primary education, regardless of age, expressed as a percentage of the population at the official primary schoolentrance age. The AIR reflects the general level of access to primary education. It also indicates the capacity of the education system to provide access to Grade 1 for the official school-entrance age population. The Net Intake Rate (NIR), also shown above, gives a more precise measurement of access to primary education, as it takes into account only the new entrants in the first grade of primary education who are of the official primary school-entrance age.
+> 7 The Primary Apparent Intake Rate (AIR) shown above refers to the number of new entrants in the first grade of primary education, regardless of age, expressed as a percentage of the population at the official primary school-entrance age. The AIR reflects the general level of access to primary education. It also indicates the capacity of the education system to provide access to Grade 1 for the official school-entrance age population. The Net Intake Rate (NIR), also shown above, gives a more precise measurement of access to primary education, as it takes into account only the new entrants in the first grade of primary education who are of the official primary school-entrance age.
 
 16
 
@@ -1309,18 +1384,6 @@ Female
 
 Male
 
-Sources: EMIS 2009, EMIS 2012
-
-The figures above show the AIR and NIR for secondary education.  The data suggests an increase in participation of pupils in Form 1 as a percentage of the population including a proportional increase in the percentage of correctly aged children.  This indicates that there are a greater number of pupils transitioning from Grade 7 through to Form 1 than in previous years dating back to 2005.  It also indicates that more pupils of the correct age are now enrolled in Secondary education than in the past dating back to 2006.  Of note is the gender gap in correctly aged children participating in Form 1.  There are significantly more girls of the correct age studying in Form 1 than boys (6%).  When the information for primary and secondary enrolment rates are considered together they indicate a decrease in participation and intake for primary level of education- which needs to be further analysed when the 2012 National Census data is released.  There has been a significant increase in participation for secondary level.
-
-## 2.6 Equity
-
-### 2.6.1 Orphaned and Vulnerable Children
-
-The Basic Education Assistance Module (BEAM) of the Enhanced Social Protection Programme provides financial support to vulnerable children through a basic education package that covers levies, tuition and examination fees for indigent children. Between 2009 and 2012 BEAM has been jointly financed by government, the National AIDS Council and donors. BEAM is a joint programme between MOESAC and Ministry of Labour and Social Services (MOLSS) and managed by MOLSS through a Programme Management Unit (PMU). MOESAC provides the information on the schools through the EMIS, monitoring of disbursements of the funds and access to school.
-
-The target population of the fund is the in and out of school OVC population.  According to the 2012 school census there are 1.14 million children out of 3.95 million in total enrolments throughout Zimbabwe classified as OVC and participating in the formal education system.  Of these 530,701 (46.5%) are covered under BEAM, while the remaining 53.5% of children presently receive no direct support from the government.
-
 Figure 15: Secondary Net Intake Rate (NIR)
 
 17.0
@@ -1365,6 +1428,18 @@ Female
 
 Male
 
+Sources: EMIS 2009, EMIS 2012
+
+The figures above show the AIR and NIR for secondary education. The data suggests an increase in participation of pupils in Form 1 as a percentage of the population including a proportional increase in the percentage of correctly aged children. This indicates that there are a greater number of pupils transitioning from Grade 7 through to Form 1 than in previous years dating back to 2005. It also indicates that more pupils of the correct age are now enrolled in Secondary education than in the past dating back to 2006. Of note is the gender gap in correctly aged children participating in Form 1. There are significantly more girls of the correct age studying in Form 1 than boys (6%). When the information for primary and secondary enrolment rates are considered together they indicate a decrease in participation and intake for primary level of education- which needs to be further analysed when the 2012 National Census data is released. There has been a significant increase in participation for secondary level.
+
+## 2.6 Equity
+
+### 2.6.1 Orphaned and Vulnerable Children
+
+The Basic Education Assistance Module (BEAM) of the Enhanced Social Protection Programme provides financial support to vulnerable children through a basic education package that covers levies, tuition and examination fees for indigent children. Between 2009 and 2012 BEAM has been jointly financed by government, the National AIDS Council and donors. BEAM is a joint programme between MOESAC and Ministry of Labour and Social Services (MOLSS) and managed by MOLSS through a Programme Management Unit (PMU). MOESAC provides the information on the schools through the EMIS, monitoring of disbursements of the funds and access to school.
+
+The target population of the fund is the in and out of school OVC population. According to the 2012 school census there are 1.14 million children out of 3.95 million in total enrolments throughout Zimbabwe classified as OVC and participating in the formal education system. Of these 530,701 (46.5%) are covered under BEAM, while the remaining 53.5% of children presently receive no direct support from the government.
+
 17
 
 [[END OF PAGE 24]]
@@ -1393,27 +1468,17 @@ Harare
 
 Manicaland
 
-Mashonalan
+Mashonaland Central
 
-d Central
+Mashonaland East
 
-Mashonalan
-
-d East
-
-Mashonalan
-
-d West
+Mashonaland West
 
 Masvingo
 
-Matabelelan
+Matabeleland North
 
-d North
-
-Matabelelan
-
-d South
+Matabeleland South
 
 Midlands
 
@@ -1483,6 +1548,8 @@ In rural areas cultural attitudes towards women and girls can have a profoundly 
 
 ### 2.8.1 Pupil Flow Rates
 
+Table 5: Flow rates, Repetition and Dropout (Source: EMIS 2012) 8, 9
+
 Flow Rates
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Promotion | Repetition | Dropout
@@ -1501,18 +1568,19 @@ Form 4 | 17.7% | 20.2% | 19.0% | 4.3% | 4.8% | 4.5% | 78.1% | 75.0% | 76.4%
 Lower 6 | 98.4% | 98.5% | 98.5% | 0.4% | 0.9% | 0.7% | 1.1% | 0.6% | 0.8%
 Upper 6
 
-Table 5: Flow rates, Repetition and Dropout (Source: EMIS 2012) 8 , 9
-
 The 2012 school census records previous year's enrolment for the academic year 2011.  As indicated by the table dropouts are highest when transitioning from Grade 7 to Form 1 and Form 4 to Lower 6 (highlighted in red).  The number of children passing to vocational or colleges after Form 4 is not presently known.
-
-Transition Rates
---- | --- | --- | --- | ---
-From Grade 7 to Form 1 | 78.4% | 75.4% | 76.9% | 0.96
-From Form 4 to Form 6 (lower) | 17.7% | 20.2% | 19.0% | 1.14
 
 Table 6: 2011 to 2012 Transition Rates Grade 7 and Form 4 (Source: EMIS 2012)
 
-> 8 2012 school census data also recorded 2011 primary enrolments.  The analysis is based upon 7944 schools which recorded 2011 enrolment figures (98.5%).  Repetition and enrolment for these schools were selected for 2012 to calculate the promotion and real dropout rates shown in table 26 and figure 43 and 44 above. 9 Calculated using cohort analysis
+Transition Rates
+--- | --- | --- | --- | ---
+ | Male | Female | Total | GPI
+From Grade 7 to Form 1 | 78.4% | 75.4% | 76.9% | 0.96
+From Form 4 to Form 6 (lower) | 17.7% | 20.2% | 19.0% | 1.14
+
+> 8 2012 school census data also recorded 2011 primary enrolments. The analysis is based upon 7944 schools which recorded 2011 enrolment figures (98.5%). Repetition and enrolment for these schools were selected for 2012 to calculate the promotion and real dropout rates shown in table 26 and figure 43 and 44 above.
+
+> 9 Calculated using cohort analysis
 
 20
 
@@ -1535,6 +1603,50 @@ Figure 19: Promotion Rate by Grade 10
 100.0%
 
 120.0%
+
+Grade 1
+
+Grade 2
+
+Grade 3
+
+Grade 4
+
+Grade 5
+
+Grade 6
+
+Grade 7
+
+Form 1
+
+Form 2
+
+Form 3
+
+Form 4
+
+Lower 6
+
+Female
+
+Male
+
+Figure 20: Dropout Rate by Grade
+
+-20.0%
+
+0.0%
+
+20.0%
+
+40.0%
+
+60.0%
+
+80.0%
+
+100.0%
 
 Grade 1
 
@@ -1611,59 +1723,13 @@ To Grade 5 | 76.6%
 To Grade 6 | 75.1%
 To Grade 7 | 69.6%
 
-As indicated by the figure to the left, loss of pupils owing to dropout is gradual from Grades 1 through Grade 7.  The average pupil takes 7.12 years to
-
-Complete Grade 7.  If dropouts and graduates are taken together, the average pupil participates in primary education for only 4.78 years of the full 7 year cycle.
+As indicated by the figure to the left, loss of pupils owing to dropout is gradual from Grades 1 through Grade 7. The average pupil takes 7.12 years to Complete Grade 7. If dropouts and graduates are taken together, the average pupil participates in primary education for only 4.78 years of the full 7 year cycle.
 
 > 10 5670 schools (98.6% of schools) from the school census for 2012 for enrolments in years 2011 and 2012 and repeaters in year 2012.
 
 > 11 At present it is not possible to calculate completion rates at the primary or secondary levels
 
 > 12 Calculated using the apparent cohort method
-
-Figure 20: Dropout Rate by Grade
-
--20.0%
-
-0.0%
-
-20.0%
-
-40.0%
-
-60.0%
-
-80.0%
-
-100.0%
-
-Grade 1
-
-Grade 2
-
-Grade 3
-
-Grade 4
-
-Grade 5
-
-Grade 6
-
-Grade 7
-
-Form 1
-
-Form 2
-
-Form 3
-
-Form 4
-
-Lower 6
-
-Female
-
-Male
 
 21
 
@@ -1725,30 +1791,30 @@ As indicated above, Form 4 for many is the completion of the basic education cyc
 
 At the time the EMTP was developed, the only measures of learning were the Grade 7, O Level and A Level examination pass rates which had shown unstable patterns over the years.  Primary results have generally decreased since 2007, however since the end of the crisis in 2009 there has been a marked and gradual improvement in results.  O level pass rates improved 2009 - 2011, particularly for boys, although there was a slight dip in pass rates in 2012 14 .  A level pass rates have improved significantly since 2008.
 
-Grade 7 | O Level | A Level
+Table 7: 6 years of exam pass rates for Grade 7, O level and A level exams (Source: MOESAC Primary and Secondary Education Departments) 15
+
+ | Grade 7 |  |  |  | O Level |  |  |  | A Level |  |  | 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Year | Male | Female | GPI Results | Total | Male | Female | GPI Results | Total | Male | Female | GPI Results | Total
-2007 | 70.5 | 16.9 | 19.6 | 1.16 | 11.9 | 83.2 | 80.7 | 0.97 | 83.3
-2008 | 51.5 | 11.0 | 14.1 | 1.29 | 12.6 | 72.1 | 74.6 | 1.03 | 73.1
-2009 | 39.7 | 21.9 | 17.4 | 0.80 | 19.7 | 78.3 | 83.5 | 1.07 | 80.9
-2010 | 42.0 | 16.7 | 21.1 | 1.27 | 19.0 | 79.9 | 83.8 | 1.05 | 81.9
+2007 |  |  |  | 70.5 | 16.9 | 19.6 | 1.16 | 11.9 | 83.2 | 80.7 | 0.97 | 83.3
+2008 |  |  |  | 51.5 | 11.0 | 14.1 | 1.29 | 12.6 | 72.1 | 74.6 | 1.03 | 73.1
+2009 |  |  |  | 39.7 | 21.9 | 17.4 | 0.80 | 19.7 | 78.3 | 83.5 | 1.07 | 80.9
+2010 |  |  |  | 42.0 | 16.7 | 21.1 | 1.27 | 19.0 | 79.9 | 83.8 | 1.05 | 81.9
 2011 | 42.3 | 49.2 | 1.16 | 45.7 | 23.9 | 20.3 | 0.85 | 22.1 | 89.3 | 90.7 | 1.02 | 89.9
-2012 | 46.7 | 56.4 | 1.21 | 49.6
-
-Table 7: 6 years of exam pass rates for Grade 7, O level and A level exams (Source: MOESAC Primary and Secondary Education Departments) 15
+2012 | 46.7 | 56.4 | 1.21 | 49.6 |  |  |  |  |  |  |  | 
 
 Girls consistently perform significantly better on Grade 7 exams and marginally better on A level exams, but significantly worse on O level exams.  The reasons for this are not clear.
 
 Since the EMTP was published, two new studies regarding learning outcomes have been released: the 2012 Zimbabwe Early Learning Assessment (ZELA) funded by the ETF and a Learning Achievement Tracking Study (LAT) conducted in Manicaland in 2010.  ZELA revealed that Grade 3 students, on average, have absorbed only 30% of the curriculum; and the LAT Study found significant lags in learning Math and English in Grades 4 through 6, the gap which then widens in Forms 1 through 3 (see Tables 8 and 9 below).  Both studies also indicated that pupils in rural schools performed significantly below those in urban schools and those in satellite schools preformed below those in registered schools.
 
-Primary | Secondary
+Table 8: Percentage of learners performing below or at/above their grade/form (SOURCE: LATS)
+
+ | Primary |  |  | Secondary | 
 --- | --- | --- | --- | --- | ---
-Below grade/form | At or above grade/form | Below grade/form | At or above grade/form
+ | Below grade/form | At or above grade/form |  | Below grade/form | At or above grade/form
 Mathematics | 76% | 24% | Mathematics | 85% | 15%
 English | 95% | 5% | English | 100% | 0%
 Average | 85% | 15% | Average | 92% | 8%
-
-Table 8: Percentage of learners performing below or at/above their grade/form (SOURCE: LATS)
 
 > 14 The 1.5 % drop in the pass rate was due to an increase of over 1100 candidates having sat the examination. There was a nominal increase of 240 students passing over 2011.
 
@@ -1766,7 +1832,9 @@ Table 8: Percentage of learners performing below or at/above their grade/form (S
 
 [[START OF PAGE 31]]
 
-Mathematics | English
+Table 9: Performance Lag in Mathematics and English
+
+ | Mathematics |  | English | 
 --- | --- | --- | --- | ---
 Expected Performance | Actual Performance | Performance Lag | Actual Performance | Performance Lag
 Grade 4 | 3B | 1 year | 1M | 2 years, 2 terms
@@ -1775,8 +1843,6 @@ Grade 6 | 4E | 1 year, 1 term | 2M | 3 years, 2 terms
 Form 1 | 6B | 2 years | 2M | 5 years, 2 terms
 Form 2 | 6E | 2 years, 1 term | 2E | 6 years, 1 term
 Form 3 | 6E | 3 years, 1 term | 3E | 6 years, 1 term
-
-Table 9: Performance Lag in Mathematics and English
 
 The tables reflect the long term effect of poor education in early years, which is consistent with international research on the subject: if the base for math and language is weak, it is not possible for a student to build the necessary knowledge and skills contained in the curriculum.  The results are possibly the impact on learning outcomes due to the lack of books, 'brain drain,' and deterioration of the capacity to deliver education over the last several years, but could also be demand-side issues such as low attendance or other interruptions to participation.
 
@@ -2052,7 +2118,7 @@ The shortage of qualified teachers is particularly acute in science and maths . 
 
 Qualifications upgrading for under and un-qualified teachers has been limited since 2005, but there are plans and resources for a substantial investment under ETF II. There are a few efforts to upgrade the qualifications of those teachers needing credentials, but the numbers of unqualified teachers passing through these programs has been minimal.  There are plans for intensifying these programs to upgrade the qualifications of 7500 teachers during the EMTP-OP period.
 
-There has been limited investment in in-service continuous professional development (CPD) since 2005 due to lack of funds. At the national level, the paucity of non-salary budget has severely limited financing for provision and coordination of essential in-service training.  District, cluster and schoolbased CPD  has been largely financed from the Better Schools Programme Zimbabwe (BSPZ), a district and cluster-based program which was first funded in the mid-1990s by the Royal Government of the Netherlands, and subsequently by the Government of Zimbabwe.  It now receives no public funding and raises funds from a pupil levy (between US $1 to US$3 per pupil per year).  Many schools and clusters in poorer communities have fallen into arrears for BSPZ levies, and no longer receive support for school and cluster based CPD. BSPZ activities are not captured in EMIS and there is no national BSPZ secretariat so national data on CPD is not available. Anecdotal evidence suggests that the situation is very varied across districts and school types, depending on the energy, commitment and resources available to individual district offices.
+There has been limited investment in in-service continuous professional development (CPD) since 2005 due to lack of funds. At the national level, the paucity of non-salary budget has severely limited
 
 25
 
@@ -2060,11 +2126,13 @@ There has been limited investment in in-service continuous professional developm
 
 [[START OF PAGE 33]]
 
-Pre-service teacher education is the responsibility of the Ministry of Higher and Tertiary Education, an arrangement that brings the advantages of association with Zimbabwe's tertiary sector, but which presents challenges of coordination and alignment.  The two education ministries continue to work through a coordinating committee, an institutional arrangement that helps to promote alignment of pre-service and in-service training in Zimbabwe, but coordination challenges remain.
+financing for provision and coordination of essential in-service training. District, cluster and school-based CPD has been largely financed from the Better Schools Programme Zimbabwe (BSPZ), a district and cluster-based program which was first funded in the mid-1990s by the Royal Government of the Netherlands, and subsequently by the Government of Zimbabwe. It now receives no public funding and raises funds from a pupil levy (between US $1 to US$3 per pupil per year). Many schools and clusters in poorer communities have fallen into arrears for BSPZ levies, and no longer receive support for school and cluster based CPD. BSPZ activities are not captured in EMIS and there is no national BSPZ secretariat so national data on CPD is not available. Anecdotal evidence suggests that the situation is very varied across districts and school types, depending on the energy, commitment and resources available to individual district offices.
 
-After Independence in 1980, Zimbabwe pioneered 'sandwich' course approaches to teacher training which involve students in initial academic training at the colleges, followed by a period of supervised teaching practice in the schools, and ending with a period of full time study in the Colleges or Universities. There are potential benefits in terms of both efficiency (students can rotate through the Colleges so that 30% or more students can be enrolled than there are spaces in the Colleges) and effectiveness, where students get to practice their skills in the classroom and to reflect on their practice in the College. There have been several different combinations of approaches to sandwich courses, with the most popular formulae being '2-5-2' (two terms in College, five in the schools, and two more in the College) used for training of Primary and (soon) ECD teachers, and 3-3-3 used to train Secondary teachers who enter with O level, or 3-1-2 for students entering with A level. There has been some research on teacher education in Zimbabwe, but a clear picture has not yet emerged of the costeffectiveness of the sandwich course approach and of the teacher education curriculum in general.
+Pre-service teacher education is the responsibility of the Ministry of Higher and Tertiary Education, an arrangement that brings the advantages of association with Zimbabwe's tertiary sector, but which presents challenges of coordination and alignment. The two education ministries continue to work through a coordinating committee, an institutional arrangement that helps to promote alignment of pre-service and in-service training in Zimbabwe, but coordination challenges remain.
 
-Aligning teacher supply and demand presents particular challenges in Zimbabwe. The 15 teachertraining colleges in Zimbabwe (11 for primary education and four for secondary) produce 5,000 graduates annually.  Since 2009 there has been a freeze on public service establishments, including teacher positions. This limits the number of teachers that can be appointed to substantive posts to meet the 'demand' suggested by the staffing formulae, which currently identify some 26,000 'vacant' teaching posts. Some vacant posts are filled by temporary and unqualified teachers, while others are filled by teachers who are privately employed by school authorities, and financed from school levies.  Distribution of teachers across urban and rural areas, as well as across provinces is extremely uneven and has been exacerbated by the 'teacher incentives' policy, which permits communities to supplement the salaries of teachers from fee and levy income. Accurate teacher supply and demand data in a format that permits analysis for policy and strategy is difficult to obtain, and this places significant constraints on the capacity of the MOESAC to deploy teachers in the most cost-effective manner.
+After Independence in 1980, Zimbabwe pioneered 'sandwich' course approaches to teacher training which involve students in initial academic training at the colleges, followed by a period of supervised teaching practice in the schools, and ending with a period of full time study in the Colleges or Universities. There are potential benefits in terms of both efficiency (students can rotate through the Colleges so that 30% or more students can be enrolled than there are spaces in the Colleges) and effectiveness, where students get to practice their skills in the classroom and to reflect on their practice in the College. There have been several different combinations of approaches to sandwich courses, with the most popular formulae being '2-5-2' (two terms in College, five in the schools, and two more in the College) used for training of Primary and (soon) ECD teachers, and 3-3-3 used to train Secondary teachers who enter with O level, or 3-1-2 for students entering with A level. There has been some research on teacher education in Zimbabwe, but a clear picture has not yet emerged of the cost-effectiveness of the sandwich course approach and of the teacher education curriculum in general.
+
+Aligning teacher supply and demand presents particular challenges in Zimbabwe. The 15 teacher-training colleges in Zimbabwe (11 for primary education and four for secondary) produce 5,000 graduates annually. Since 2009 there has been a freeze on public service establishments, including teacher positions. This limits the number of teachers that can be appointed to substantive posts to meet the 'demand' suggested by the staffing formulae, which currently identify some 26,000 'vacant' teaching posts. Some vacant posts are filled by temporary and unqualified teachers, while others are filled by teachers who are privately employed by school authorities, and financed from school levies. Distribution of teachers across urban and rural areas, as well as across provinces is extremely uneven and has been exacerbated by the 'teacher incentives' policy, which permits communities to supplement the salaries of teachers from fee and levy income. Accurate teacher supply and demand data in a format that permits analysis for policy and strategy is difficult to obtain, and this places significant constraints on the capacity of the MOESAC to deploy teachers in the most cost-effective manner.
 
 The challenges confronting the teaching profession in Zimbabwe are wide ranging. The principal challenge is lack of public resources allocated to the sector to permit payment of teacher salaries at a level that will attract and retain candidates of the calibre required to maintain the level of education previously attained.  This is not a problem that is amenable to solutions by the sector ministries which continue to lobby for the optimum share of limited public funds.  Teacher salaries and conditions of service, and the size of the teaching establishment is controlled by the Public Service Commission, placing further constraints on the policy discretion of the MOESAC on teacher employment issues.  Limited public finances also leave very limited funds in the education budget for non-salary expenditure which could improve the efficiency and effectiveness of teachers.  The network of teacher training institutions in public and private colleges and universities presents a substantial asset that could be better utilized and aligned to teacher demand.  While considerable research exists in Zimbabwe on the status of teachers, there remain significant gaps in knowledge and a great need to bring the existing knowledge and data within a simple clear framework that can be used to influence policy.
 
@@ -2122,9 +2190,11 @@ Currently, MOESAC emphasises the principle of Ubuntu/unhu and values of commitme
 
 CURRICULUM FRAMEWORK (Preliminary)
 
-The Working Group has agreed on a Curriculum Review process that will take place over the period of There has been some discussion on the need for a Curriculum Framework for Zimbabwe, and it is recommended that its development commences as a priority before the completion of the Review itself. Some parts of the Curriculum Framework (such as the Vision, Values, Principles, Competences and Learning areas) could be developed by the WG during the Preparatory Stage of the Review.
+There has been some discussion on the need for a Curriculum Framework for Zimbabwe, and it is recommended that its development commences as a priority before the completion of the Review itself. Some parts of the Curriculum Framework (such as the Vision, Values, Principles, Competences and Learning areas) could be developed by the WG during the Preparatory Stage of the Review.
 
-the OP, estimated as follows:
+The Working Group has agreed on a Curriculum Review process that will take place over the period of the OP, estimated as follows:
+
+Table 10: Stages of the Curriculum Review Process
 
 No. | Title | Completed by
 --- | --- | ---
@@ -2134,8 +2204,6 @@ No. | Title | Completed by
 4 | Information and Data Analysis | June 2014
 5 | Reporting | Dec 2014
 6 | Syllabus development/review/revision | Dec2015
-
-Table 10: Stages of the Curriculum Review Process
 
 28
 
@@ -2411,25 +2479,26 @@ This section presents expected expenditure and resources from public sources (do
 
 The  estimated  costs  of  the  activities  in  the  OP  which  have  committed  financing,  either  through  the MOESAC and MOLSS (BEAM) budgets for 2013, or external  financing  plans  (ETF  II,  GPE,  DFID, WASH fund and others), are set out in Table 10 below.
 
-2012 Revised Budget 1 | 2013 Estimate | 2014 Estimate | 2015 Estimate | 2013-2015 Estimate
+Table 11: EMTP OP estimated expenditure in US$ m, current prices
+
+ | 2012 | 2013 | 2014 | 2015 | 2013-2015
 --- | --- | --- | --- | --- | ---
+ | Revised Budget 1 | Estimate | Estimate | Estimate | Estimate
 Personnel | 686 | 733 | 787 | 850 | 2371
 Other current | 75 | 101 | 117 | 146 | 363
-Operational Objective 1 | 4 | 7 | 10 | 21
-Operational Objective 2 | 8 | 3 | 2 | 14
-Operational Objective 3 | 17 | 42 | 63 | 123
-Operational Objective 4 | 3 | 3 | 4 | 11
-Operational Objective 5 | 11 | 11 | 12 | 34
-Operational Objective 6 | 52 | 44 | 49 | 146
-Operational Objective 7 | 4 | 5 | 6 | 15
+Operational Objective 1 |  | 4 | 7 | 10 | 21
+Operational Objective 2 |  | 8 | 3 | 2 | 14
+Operational Objective 3 |  | 17 | 42 | 63 | 123
+Operational Objective 4 |  | 3 | 3 | 4 | 11
+Operational Objective 5 |  | 11 | 11 | 12 | 34
+Operational Objective 6 |  | 52 | 44 | 49 | 146
+Operational Objective 7 |  | 4 | 5 | 6 | 15
 Capital | 3 | 28 | 59 | 73 | 161
-Operational Objective 3 | 27 | 58 | 71 | 156
-Operational Objective 5 | 1 | 1 | 1 | 3
-Operational Objective 7 | 0 | 1 | 1 | 2
+Operational Objective 3 |  | 27 | 58 | 71 | 156
+Operational Objective 5 |  | 1 | 1 | 1 | 3
+Operational Objective 7 |  | 0 | 1 | 1 | 2
 Total | 764 | 862 | 963 | 1069 | 2895
 Total Operational Objectives | 78 | 129 | 176 | 219 | 523.7
-
-Table 11: EMTP OP estimated expenditure in US$ m, current prices
 
 Notes: (1) Where possible actual expenditure or release figures have been used instead of revised estimates. When a comprehensive set of expenditure figures for 2012 are available, it is likely that the $75m estimated for other current costs will fall by at least $10m.
 
@@ -2445,24 +2514,25 @@ Looking  at  the  balance  of  spending  across  Operational  Objectives,  it  i
 
 [[START OF PAGE 46]]
 
-2012 Revised Budget | 2013 Estimate | 2014 Estimate | 2015 Estimate
+Table 12: Per student EMTP OP estimated expenditure in US$, current prices
+
+ | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | ---
+ | Revised Budget | Estimate | Estimate | Estimate
 Personnel | 173 | 183 | 194 | 205
 Other current | 19 | 25 | 29 | 35
-Operational Objective 1 | 1 | 2 | 2
-Operational Objective 2 | 2 | 1 | 1
-Operational Objective 3 | 4 | 10 | 15
-Operational Objective 4 | 1 | 1 | 1
-Operational Objective 5 | 3 | 3 | 3
-Operational Objective 6 | 13 | 11 | 12
-Operational Objective 7 | 1 | 1 | 1
+Operational Objective 1 |  | 1 | 2 | 2
+Operational Objective 2 |  | 2 | 1 | 1
+Operational Objective 3 |  | 4 | 10 | 15
+Operational Objective 4 |  | 1 | 1 | 1
+Operational Objective 5 |  | 3 | 3 | 3
+Operational Objective 6 |  | 13 | 11 | 12
+Operational Objective 7 |  | 1 | 1 | 1
 Capital | 1 | 7 | 15 | 18
-Operational Objective 3 | 7 | 14 | 17
-Operational Objective 5 | 0 | 0 | 0
+Operational Objective 3 |  | 7 | 14 | 17
+Operational Objective 5 |  | 0 | 0 | 0
 Total | 193 | 215 | 237 | 258
 Total Operational Objectives | 20 | 32 | 43 | 53
-
-Table 12: Per student EMTP OP estimated expenditure in US$, current prices
 
 Notes: (1) Where possible actual expenditure or release figures have been used instead of revised estimates. When a comprehensive set of expenditure figures for 2012 are available, it is likely that the $75m estimated for other current costs will fall by at least $10m.
 
@@ -2506,6 +2576,8 @@ Op Objective 7
 
 More than half of the estimated resources currently committed to fund the EMTP OP Objectives will come from the government budget (MOESAC, and MOLSS to fund BEAM) over the three years (see Table 12 and Figure 28).  ETF II is the next largest contributor accounting for about one-quarter of the resource envelope. Other external financing will come from GPE, DFID (outside the ETF II contribution which provides funds for NGOs to deliver education programmes, and also contributes to BEAM), WASH fund, and other external sources.
 
+Table 13: Estimated resources to fund the EMTP OP Objectives (excluding personnel) based on current commitments in US$ m, current prices
+
 Source | 2012 Revised Budget 1 | 2013 Estimate | 2014 Estimate | 2015 Estimate | 2013-2015 Estimate
 --- | --- | --- | --- | --- | ---
 MOESAC | 27 | 45 | 81 | 102 | 228
@@ -2516,8 +2588,6 @@ DFID | 16 | 31 | 19 | 19 | 70
 WASH fund | n.a. | 10 | 10 | 10 | 30
 Other | 1 | 0.3 | 0.0 | 0.0 | 0.3
 Total | 78 | 129 | 176 | 219 | 523
-
-Table 13: Estimated  resources  to  fund  the  EMTP  OP  Objectives  (excluding  personnel)  based  on current commitments in US$ m, current prices
 
 Note: (1) Where possible actual expenditure or release figures have been used instead of revised estimates. When a comprehensive set of expenditure figures for 2012 are available, it is likely that the $75m estimated for other current costs will fall by at least $10m. (2) The GPE grant is US$23.6m in total over 3 years 2014 to 2016. Only the 2014 and 2015 estimates are shown here.
 
@@ -2561,13 +2631,13 @@ As set out above, the GPE is expected to contribute funds to the EMTP-OP in 2014
 
 and to strengthening system and school governance, monitoring and management (operational objective 5). GPE support will continue into 2016, beyond the period of the EMTP.  Table X sets out projected GPE funding for the three years 2014-2016.
 
+Table X: Projected GPE funding 2014 to 2016 in US$m
+
 EMTP_OP Objective | 2014 | 2015 | 2016 | 2014-2016
 --- | --- | --- | --- | ---
 Op Objective 1 | 4.0 | 6.1 | 7.7 | 17.8
 Op Objective 5 | 2.1 | 1.6 | 1.1 | 4.8
 Total | 6.0 | 7.7 | 8.8 | 22.6
-
-Table X: Projected GPE funding 2014 to 2016 in US$m
 
 Note: These estimates exclude the overhead costs of the supervising entity.
 
@@ -2579,12 +2649,13 @@ The estimated EMTP OP expenditure and resources tables above are based on planne
 
 MOESAC budget execution rates for the non-personnel budget (other current and capital costs) have worsened in recent years, as Table 13 shows. This poses a particular large risk for the planned capital spending under Operational Objective 3 (improving learning conditions in schools) which amounts to $125m over 3 years (one-quarter of the total estimated costs for the OP Objectives). On the basis of average capital budget performance in the past 2 years, only 16% or $20 million would be spent, and new construction and rehabilitation activities vastly scaled back.
 
-2010 Actual/budget | 2011 Actual/budget | 2012 Revised/budget 1
+Table 14: MOESAC budget execution rates (%)
+
+ | 2010 | 2011 | 2012
 --- | --- | --- | ---
+ | Actual/budget | Actual/budget | Revised/budget 1
 Other current costs | 80% | 48% | 52%
 Capital costs | 54% | 13% | 19%
-
-Table 14: MOESAC budget execution rates (%)
 
 Note: (1) These execution rates are based on the revised budget estimates. The actual budget execution rates will be much lower. The  revised  capital  budget  was  $6m  in  2012,  but  a  maximum  of  3.1m  was  actually  released  to  the  MOESAC  by  the  end  of December 2012. This gives an actual capital budget execution rate of 10%.
 
@@ -2647,6 +2718,7 @@ The EMTP-OP implementation and monitoring should be guided by a dedicated EMTP-O
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+implementation of the EMTP-OP. One meeting would include a proposed Joint Annual Review (JAR) described below.
 
 A Results Framework for the EMTP-OP is presented in Section X, which articulates the expected outcome, intermediate and programme (output) indicators and targets for each year.  The indicator system should assist in providing clear and unambiguous feedback to stakeholders through periodic reporting.
 
@@ -2688,7 +2760,7 @@ The reviews should be conducted by MOESAC and by its internal and external devel
 
 The JAR will be scheduled to complement the budgetary cycle so that informed decisions can be taken prior to budget preparation including all government and external resources.  This will inform an aggregated Annual Work Plan and Budget to be done each year during the national budget preparation process.  It is expected that the JAR will reduce the need for individual development partners to request separate reviews.  The review will cover whole EMTP-OP and partners should therefore be prepared to present required information on the progress of each programme.  Using correct methodology, continuous internal monitoring and evaluation should take place throughout all programmes.
 
-The JAR will cover all aspects of the sector investments and achievements, including the EMTP, the EMTP-OP and annual educational development planning and planning of other partner projects and subprogrammes.
+The JAR will cover all aspects of the sector investments and achievements, including the EMTP, the EMTP-OP and annual educational development planning and planning of other partner projects and sub-programmes.
 
 The JAR will develop an annual monitoring and evaluation report concerning the EMTP-OP and its progress towards targets, challenges and recommendations for change.  The report should contain recommendations based upon analysis of the data, the present political and funding situation, interviews with stakeholders involved with the project at all levels of government and other criteria relevant to the implementation of each component and activity.  The report should be presented before the EMTP OPSC which should in turn report findings to the ESG task force comprised of representatives from the donor community, the Permanent Secretary, Minister of Education and senior Principal Directors (PD) and Directors from each department.
 
@@ -2704,12 +2776,13 @@ Overall the risks to implementing this Operational Plan are substantial.  As des
 
 A summary of the risks is in the table below.
 
+Table 15: Risk Assessment Framework
+
 Risk Category | Risk Rating | Risk Description | Proposed Mitigation Measures
 --- | --- | --- | ---
-Economic and Financial Risk | Substantial | Continued slow growth Budget execution Absorptive capacity | The primary mitigation measure has been including education releases and expenditure in the IMF Staff Monitoring Program, which obligates the MOF to ensure education expenditure remains at appropriate levels to help improve sector implementation and outcomes. Capacity building efforts are emphasised in the ETF and GPE Funding is committed through the
-Political Risks | Medium Substantial | Availability of donor funding Uncertainty of election outcomes Tensions around curriculum development | period of the OP The Cabinet under the Global Political Agreement has demonstrated commitment to education through the approval of the EMTP and other consensus building agreements. Furthermore, the GOZ has committed to improving education expenditure by making education a key indicator in the IMF SMP (above). The benefits of a positive outcome will be significant: the IMF and World Bank would move to clear arrears, other donors might be able to engage more fully. The work for the review remains highly technical and focused on competencies. The Working Group is deemed to be balanced. Considerable Technical Assistance and support by international experts is expected to reduce tensions
-
-Table 15: Risk Assessment Framework
+Economic and Financial Risk | Substantial | Continued slow growth Budget execution Absorptive capacity Availability of donor funding | The primary mitigation measure has been including education releases and expenditure in the IMF Staff Monitoring Program, which obligates the MOF to ensure education expenditure remains at appropriate levels to help improve sector implementation and outcomes. Capacity building efforts are emphasised in the ETF and GPE Funding is committed through the period of the OP
+Political Risks | Medium | Uncertainty of election outcomes | The Cabinet under the Global Political Agreement has demonstrated commitment to education through the approval of the EMTP and other consensus building agreements. Furthermore, the GOZ has committed to improving education expenditure by making education a key indicator in the IMF SMP (above). The benefits of a positive outcome will be significant: the IMF and World Bank would move to clear arrears, other donors might be able to engage more fully.
+ | Substantial | Tensions around curriculum development | The work for the review remains highly technical and focused on competencies. The Working Group is deemed to be balanced. Considerable Technical Assistance and support by international experts is expected to reduce tensions
 
 46
 
@@ -2717,10 +2790,9 @@ Table 15: Risk Assessment Framework
 
 [[START OF PAGE 54]]
 
-surrounding content.
---- | --- | --- | ---
-Implementati on Risk | Substantial | Capacity for implementation of larger programmes has been eroded over the last several years | The highest risk remains in the hiring freeze imposed on the civil service at the national level. For the MOESAC, there are strong structures in place for most of the activities under the OP. The MOESAC is in the process of reinvigorating these structures and filling a percentage of the existing vacancies. Monitoring and increased use of data have improved over the last three years and will continue to be strengthened.
-Overall Risk | Substantial
+ |  |  | surrounding content.
+Implementation Risk | Substantial | Capacity for implementation of larger programmes has been eroded over the last several years | The highest risk remains in the hiring freeze imposed on the civil service at the national level. For the MOESAC, there are strong structures in place for most of the activities under the OP. The MOESAC is in the process of reinvigorating these structures and filling a percentage of the existing vacancies. Monitoring and increased use of data have improved over the last three years and will continue to be strengthened.
+Overall Risk | Substantial |  |
 
 Great progress has been made in the last three years in the education system in Zimbabwe since the peak of the economic crisis.  Relationships with funding partners are stronger; the investments appear to be having a significant impact on bringing schools back to life.  Successful elections in 2013 could bring about changes with respect to how donors and development partners interact with Zimbabwe and MOESAC, and there could be a significant shift towards working from within the Government's systems. All of this would serve the education system and children of Zimbabwe well, to regain its position as a strong, vibrant and forward-looking system.
 
@@ -2730,7 +2802,7 @@ Great progress has been made in the last three years in the education system in 
 
 [[START OF PAGE 55]]
 
-# 4 Results Framework (Outcome and Intermediate indicators only - see Annex 4 for Programme Output Indicators )
+# 4 Results Framework (Outcome and Intermediate indicators only – see Annex 4 for Programme Output Indicators)
 
 Overall Objective:  To revitalize the provision of relevant, quality, inclusive and holistic education, sport, arts and culture for all Zimbabwean children to foster Ubuntu, competitiveness, productivity and self-reliance
 
@@ -2749,7 +2821,7 @@ Examination pass rates at Grade 7 (i) and O Level (ii) by gender | (i) 2012 Grad
 
 Indicator | Baseline | December 2013 (end of year 1) | December 2014 (end of year 2) | December 2015 (end of year 3) | Data source, periodicity, & data collection agency | Indicator description/definition
 --- | --- | --- | --- | --- | --- | ---
-The percentage of students achieving at or above the appropriate band for the age of a typical Grade 3 pupil in Zimbabwe | 2012: Establishing baseline % of students achieving at or above the appropriate band | 2 % increase from baseline of students achieving at or above the appropriate band for the age of a typical Grade 3 pupil in Zimbabwe | 5 % increase from baseline of students achieving at or above the appropriate band for the age of a typical Grade 3 pupil in Zimbabwe | 15 % increase from baseline of students achieving at or above the appropriate band for the age of a typical Grade 3 pupil in Zimbabwe | ZELA Annually, collected in March. Data available by October each year. | The appropriate band will include a set of descriptions of what students located at various points along the literacy scale would typically be able to do. 'Being at a level" means a student would be expected to get at least half of the items correct in a hypothetical test composed of questions spread uniformly across that level.
+The percentage of students achieving at or above the appropriate band for the age of a typical Grade 3 pupil in Zimbabwe | 2012: Establishing baseline % of students achieving at or above the appropriate band | 2 % increase from baseline of students achieving at or above the appropriate band for the age of a typical Grade 3 pupil in Zimbabwe | 5 % increase from baseline of students achieving at or above the appropriate band for the age of a typical Grade 3 pupil in Zimbabwe | 15 % increase from baseline of students achieving at or above the appropriate band for the age of a typical Grade 3 pupil in Zimbabwe | ZELA Annually, collected in March. Data available by October each year. | The appropriate band will include a set of descriptions of what students located at various points along the literacy scale would typically be able to do. “Being at a level" means a student would be expected to get at least half of the items correct in a hypothetical test composed of questions spread uniformly across that level.
 Transition rates 1) primary to secondary 2) Form 4 to 5 | 2012: 1) 76.9% (Female 78.4%, Male 75.4%), 2) 19.0% (Female 17.7%, Male 20.2%) | 1) 78.6% 2) 20.0% | 1) 80.6% 2) 21.0% | 1) 83.6% 2) 23.0% | MOESAC Planning Department MOESAC EMIS Annual | The number of pupils (or students) admitted to the first grade of a higher level of education in a given year, expressed as a percentage of the number of pupils (or students) enrolled in the final grade of the lower level of education in the previous year
 Average GPI for secondary enrolment in the 20 worst districts 24 | 2012 0.86 | 0.87 | 0.88 | 0.90 | MOESAC Planning Department MOESAC EMIS Annual | Gender Parity Index (GPI) is calculated as the quotient of the number of females enrolled in secondary education by the number of males enrolled in secondary education.
 
@@ -2779,7 +2851,7 @@ Operational Objective 3: Improve conditions of learning in schools | % schools m
 
 Operational Objective | Indicator | December 2012 (Baseline) | December 2013 (end of year 1) | December 2014 (end of year 2) | December 2015 (end of year 3) | Data source, periodicity, & data collection agency | Indicator description/definition
 --- | --- | --- | --- | --- | --- | --- | ---
-Number of schools receiving school grant in accordance with their School Development Plans | 0 | 132 | 3470 | 6940 | Ministry Financial Systems (enhanced under grants) continuous | The number of schools having received a school grant which reflects their school development plans in a given year.
+ | Number of schools receiving school grant in accordance with their School Development Plans | 0 | 132 | 3470 | 6940 | Ministry Financial Systems (enhanced under grants) continuous | The number of schools having received a school grant which reflects their school development plans in a given year.
 Operational Objective 4: Improve Education Service Quality through improved supervision | % of teachers who have been supervised annually | 2012 11.25% | 15% | 30% | 50% | MOESAC HR Department TDIS (active in 2014) | The percentage of teachers who have been supervised as evidenced by a supervision report as a proportion of the total number of teachers.
 Operational Objective 5: Strengthen school and system governance and management | Number of provinces having operational plans linked to the EMTP and using EMIS and TDIS data | 0 of 10 | TDIS, EMIS established at provincial level | 3 of 10 provinces | 10 of 10 provinces | Provincial DEO Provincial Planning Department MOESAC Planning Department Annual | The number of provinces generating an operational plan which links to the EMTP and uses empirical data derived from systems such as EMIS and TDIS to justify planning decisions, programmes and policies.
 
@@ -2791,7 +2863,7 @@ Operational Objective 5: Strengthen school and system governance and management 
 
 Operational Objective | Indicator | December 2012 (Baseline) | December 2013 (end of year 1) | December 2014 (end of year 2) | December 2015 (end of year 3) | Data source, periodicity, & data collection agency | Indicator description/definition
 --- | --- | --- | --- | --- | --- | --- | ---
-Number of schools having a valid School Development Plan | 0 | 132 | 3470 | 6940 | MOESAC Financial Department MOESAC Planning Department Provincial Financial Department Provincial Planning Department | The number of schools having a valid school development plan as assessed by the district and provincial planning departments as a percentage of the total number of schools in Zimbabwe
+ | Number of schools having a valid School Development Plan | 0 | 132 | 3470 | 6940 | MOESAC Financial Department MOESAC Planning Department Provincial Financial Department Provincial Planning Department | The number of schools having a valid school development plan as assessed by the district and provincial planning departments as a percentage of the total number of schools in Zimbabwe
 Operational Objective 6: Strengthen support to those learners with greatest need | Number of disadvantaged pupils supported with access to education (and gender parity) | BEAM and CAMFED 2011: Female: 410,434 Male: 383,112 GPI: 1.07 | Male 530,000, Female 550,000 GPI 1.03 | Male 540,000, Female 564,000 GPI 1.04 | Male 556,000, Female 580,000 GPI 1.04 | MOESAC School census MoLSS (BEAM) records CAMFED MOESAC Financial Department Annual | The number of disadvantaged pupils studying at any level of the education system given funds either directly or via the institution to assist with their study.
 
 52
