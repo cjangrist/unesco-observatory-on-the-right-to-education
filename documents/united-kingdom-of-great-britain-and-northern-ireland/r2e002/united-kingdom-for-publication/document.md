@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' )  aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global  citizenship  education  and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -32,19 +32,19 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO’s Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
-(i)      the time period 2017-2020;
+(i) the time period 2017-2020;
 
 (ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
 
@@ -52,79 +52,79 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist  countries  in  responding  to  this  questionnaire,  UNESCO  has  developed  the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations
+4.1 friendly relations among peoples and nations
 
-- 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
-- 5.1 mitigation
+5.1 mitigation
 
-- 5.2 adaptation
+5.2 adaptation
 
-- 5.3 impact reduction
+5.3 impact reduction
 
-- 5.4 early warning
+5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
-- 6.1 caring for the planet, protecting nature
+6.1 caring for the planet, protecting nature
 
-- 6.2 environmental justice
+6.2 environmental justice
 
-- 6.3 biodiversity, water
+6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.2 health of the planet for future generations
+7.2 health of the planet for future generations
 
-- 7.3 sustainable cities and communities
+7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
-- 8.1 responsible and sustainable lifestyles
+8.1 responsible and sustainable lifestyles
 
-- 8.2 green economy, green jobs
+8.2 green economy, green jobs
 
-- 8.3 sustainable energy
+8.3 sustainable energy
 
 [[END OF PAGE 3]]
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -227,7 +227,7 @@ Student Loans Company, Deloitte,
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation)
 
 #### A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -245,9 +245,9 @@ Wales : Education for Sustainable Development and Global Citizenship provides le
 
 Northern Ireland https://www.legislation.gov.uk/nisr/2007/46/introduction/made
 
-Scotland https://education.gov.scot/education-scotland/scottish-education-system/policy-forscottish-education/policy-drivers/learning-for-sustainability
+Scotland https://education.gov.scot/education-scotland/scottish-education-system/policy-for-scottish-education/policy-drivers/learning-for-sustainability
 
-Wales https://hwb.gov.wales/storage/eaf467e6-30fe-45c9-93ef-cb30f31f1c90/commonunderstanding-for-school.pdf
+Wales https://hwb.gov.wales/storage/eaf467e6-30fe-45c9-93ef-cb30f31f1c90/common-understanding-for-school.pdf
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -257,23 +257,23 @@ Wales https://hwb.gov.wales/storage/eaf467e6-30fe-45c9-93ef-cb30f31f1c90/commonu
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 2. | Gender equality | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 3. | Human rights | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-4. | Peace and non- violence | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+4. | Peace and non-violence | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 5. | Climate change | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 6. | Environmental sustainability | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 7. | Human survival and well-being | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 8. | Sustainable consumption and production | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+#### A3a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 3 are mentioned explicitly or are inferred and what types or levels of education are covered.
 
-##### Relevant UK policies on Global Citizenship Education and Sustainable Development Nonstatistical indicator
+##### Relevant UK policies on Global Citizenship Education and Sustainable Development Non-statistical indicator
 
 Education in the United Kingdom is devolved, and so there is some variance in the approach to Education for Sustainable Development. We have identified relevant links to official curriculums:
 
@@ -309,13 +309,15 @@ Children in schools across Scotland are entitled to study Learning for Sustainab
 
 The UN Regional Centre of Expertise (RCE) Cymru is part of an international UN-led network, facilitates collaboration across Welsh Universities to research, develop and promote a greater understanding of sustainability and well-being of current and future generations. It is central to co-developing the sustainable 'Wales we want'.  RCE Cymru is a community guided in part by the Welsh Universities' Future Generations Group (HEFGG).
 
-Global Education (4.7) Education for Sustainable Development and Global Citizenship (ESDGC) is delivered throughout compulsory education in Wales. A 2014 review discovered that pupils' understanding of the key concepts of sustainable development and global citizenship develops appropriately as they progress through school and is secure for each of the seven themes for ESDGC.
+Global Education (4.7) Education for Sustainable Development and Global Citizenship (ESDGC) is delivered throughout compulsory education in Wales. A 2014 review discovered that pupils’ understanding of the key concepts of sustainable development and global citizenship develops
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-Wales's new curriculum takes a transformational approach that embeds ESDGC throughout the curriculum through an international dimension, aiming to develop pupils to be ethical, informed citizens.
+appropriately as they progress through school and is secure for each of the seven themes for ESDGC.
+
+Wales’s new curriculum takes a transformational approach that embeds ESDGC throughout the curriculum through an international dimension, aiming to develop pupils to be ethical, informed citizens.
 
 Wales's International Education Programme provides individuals with the knowledge and skills necessary to contribute in a global community, with elements of the project relevant to ESDGC, ESDGC teacher training and Wales-Lesotho teacher placements.
 
@@ -329,7 +331,7 @@ Keep Northern Ireland Beautiful has every school in Northern Ireland committed t
 
 The UK's Chevening programme offers scholarships as an opportunity for future leaders and decision-makers around the world to develop professionally and academically. In 2018, the UK welcomed 1,750 scholars from 160 countries and territories and provided 100 additional places for scholars across Sub-Saharan Africa. The scheme promotes values such as human rights and sustainable development.
 
-https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/ file/818212/UKVNR-web-accessible1.pdf
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/818212/UKVNR-web-accessible1.pdf
 
 ##### Wales - more detailed response from the Welsh Centre for International Affairs (WCIA) :
 
@@ -405,17 +407,13 @@ In all of these projects, respect for the United Nations Convention of the Right
 
 https://sdgdata.gov.uk/4-7-1/
 
-Citizenship curriculum https://www.gov.uk/government/publications/national-curriculum-in-england-citizenshipprogrammes-of-study/national-curriculum-in-england-citizenship-programmes-of-study-for-key-stages-3-and4#:~:text=The%20national%20curriculum%20for%20citizenship,its%20democratic%20systems%20
+Citizenship curriculum https://www.gov.uk/government/publications/national-curriculum-in-england-citizenship-programmes-of-study/national-curriculum-in-england-citizenship-programmes-of-study-for-key-stages-3-and-4#:~:text=The%20national%20curriculum%20for%20citizenship,its%20democratic%20systems%20of%20government
 
-of%20government
+British Council Active Citizens programme: https://www.britishcouncil.org/society/governance-civil-society/active-citizens#:~:text=Active%20Citizens%20is%20a%20global,society%20partners%20in%20participating%20countries.
 
-British Council Active Citizens programme:  https://www.britishcouncil.org/society/governance-civil-society/activecitizens#:~:text=Active%20Citizens%20is%20a%20global,society%20partners%20in%20participating%20countries.
+Scotland's curriculum for excellence (includes citizenship education) https://education.gov.scot/education-scotland/scottish-education-system/policy-for-scottish-education/policy-drivers/cfe-building-from-the-statement-appendix-incl-btc1-5/what-is-curriculum-for-excellence
 
-Scotland's curriculum for excellence (includes citizenship education) https://education.gov.scot/educationscotland/scottish-education-system/policy-for-scottish-education/policy-drivers/cfe-building-from-the-statementappendix-incl-btc1-5/what-is-curriculum-for-excellence
-
-Learning for Sustainability  https://education.gov.scot/improvement/learning-
-
-resources/A%20summary%20of%20learning%20for%20sustainability%20resources
+Learning for Sustainability https://education.gov.scot/improvement/learning-resources/A%20summary%20of%20learning%20for%20sustainability%20resources
 
 Wales's International Education Programme
 
@@ -473,7 +471,7 @@ In England, the national curriculum provides teachers with the opportunity to te
 
 In Scotland, through the Curriculum for Excellence, children and young people in Scotland are supported to become successful learners, confident individuals, responsible citizens and effective contributors to society.
 
-Education for Sustainable Development and Global Citizenship (ESDGC) is delivered throughout compulsory education in Wales. A 2014 review discovered that pupils' understanding of the key concepts  of  sustainable  development  and  global  citizenship  develops  appropriately  as  they progress through school and is secure for each of the seven themes for ESDGC.  Wales's new curriculum takes a transformational approach that embeds ESDGC throughout the curriculum through an international dimension, aiming to develop pupils to be ethical, informed citizens.
+Education for Sustainable Development and Global Citizenship (ESDGC) is delivered throughout compulsory education in Wales. A 2014 review discovered that pupils’ understanding of the key concepts of sustainable development and global citizenship develops appropriately as they progress through school and is secure for each of the seven themes for ESDGC. Wales’s new
 
 > 4 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -481,7 +479,9 @@ Education for Sustainable Development and Global Citizenship (ESDGC) is delivere
 
 [[START OF PAGE 18]]
 
-Wales's International Education Programme provides individuals with the knowledge and skills necessary to contribute in a global community, with elements of the project relevant to ESDGC,
+curriculum takes a transformational approach that embeds ESDGC throughout the curriculum through an international dimension, aiming to develop pupils to be ethical, informed citizens.
+
+Wales’s International Education Programme provides individuals with the knowledge and skills necessary to contribute in a global community, with elements of the project relevant to ESDGC,
 
 ESDGC teacher training and Wales-Lesotho teacher placements.   'Education in Wales: Our national  mission'  pulls  together  the  educational  reforms  needed  to  secure  the  effective implementation  of  Wales's  new  curriculum.  It  calls  upon  international  best  practice  and  the education  performance  expertise  of  the  global  Organisation  for  Economic  Co-operation  and Development (OECD).
 
@@ -499,7 +499,7 @@ Keep Northern Ireland Beautiful has every school in Northern Ireland committed t
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
-The UK's Voluntary National Review of progress towards the SDGs. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/ file/818212/UKVNR-web-accessible1.pdf
+The UK's Voluntary National Review of progress towards the SDGs. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/818212/UKVNR-web-accessible1.pdf
 
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
@@ -522,7 +522,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Civics, civil or citizenship education | 9 | 1 | 1 | 9 | 1 | 1 | 9 | 9
@@ -537,8 +539,6 @@ Science | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1
 Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
 Other (please specify)
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *B4 Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -570,13 +570,13 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 21]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
 England: There  is  no  statutory  requirement  for  Sustainable  Development  Education  in  the National  Curriculum  in  England  (and  therefore  training  on  it  is  not  compulsory).    However, elements  of  Sustainable  Development  topics  are  embedded  in  a  range  of  subjects  in  the curriculum. In England, the national curriculum provides teachers with the opportunity to teach pupils about Global Goal topics which teachers are free to expand on if they choose. There are also  a  number  of  government-funded  programmes  that  schools  and  pupils  can  choose  to participate in to enhance their learning of sustainable development.
 
-Aspects  of  GCED  and  ESD  are  embedded  and  taught  across  the  science,  geography  and citizenship programmes of study.  National curriculum in England: science programmes of study -  GOV.UK  (www.gov.uk)  National  curriculum  in  England:  geography  programmes  of  study  GOV.UK  (www.gov.uk)  Citizenship  programmes  of  study  for  key  stages  1  and  2  -  GOV.UK (www.gov.uk) National curriculum in England: citizenship programmes of study for key stages 3 and 4 - GOV.UK (www.gov.uk)
+Aspects of GCED and ESD are embedded and taught across the science, geography and citizenship programmes of study. National curriculum in England: science programmes of study - GOV.UK (www.gov.uk) National curriculum in England: geography programmes of study - GOV.UK (www.gov.uk) Citizenship programmes of study for key stages 1 and 2 - GOV.UK (www.gov.uk) National curriculum in England: citizenship programmes of study for key stages 3 and 4 - GOV.UK (www.gov.uk)
 
 Northern  Ireland :  Education  For  Sustainable  Development  is  part  of  the  required  minimum content for Key Stage 3. https://www.legislation.gov.uk/nisr/2007/46/introduction/made
 
@@ -588,19 +588,23 @@ Scotland: Learning  for  Sustainability  is  a  cross-curricular  approach  to  
 
 Learning for Sustainability is an important component of Curriculum for Excellence, an entitlement for learners, and a core part of teachers' professional standards. It supports the development of knowledge,  skills  and  values  at  the  heart  of  the  curriculum's  four  capacities  and  provides  a mechanism for promoting and working towards the UN's Sustainable Development Goals - all in a wide range of education settings.
 
-Learning for Sustainability has been developed and informed by work of the 'One Planet Schools Working  Group'  and  the  'Learning  for  Sustainability  National  Implementation  Group'.  This culminated in a 'Vision 2030+' report in 2016, which recommended that:   All learners should have an entitlement to Learning for Sustainability.  In line with the new GTCS Professional Standards, every practitioner, school and education  leader should demonstrate Learning for Sustainability in their practice.  Every school should have a 'whole-school' approach to Learning for Sustainability that  is  robust,  demonstrable,  evaluated  and  supported  by  leadership  at  all  levels.    All  school buildings, grounds and policies should support Learning for Sustainability.  A strategic national approach to support for Learning for Sustainability should be established. Scottish Ministers have accepted all five of the above strategic objectives as well as the other recommendations outlined by both groups.  A new (June 2019) Learning for Sustainability Action Plan sets out how the Scottish  Government  will,  with  others,  implement  the  recommendations  of  the  Vision  2030+ report.
+Learning for Sustainability has been developed and informed by work of the ‘One Planet Schools Working Group’ and the ‘Learning for Sustainability National Implementation Group’. This culminated in a ‘Vision 2030+’ report in 2016, which recommended that: All learners should have an entitlement to Learning for Sustainability. In line with the new GTCS Professional Standards, every practitioner, school and education leader should demonstrate Learning for Sustainability in their practice. Every school should have a ‘whole-school’ approach to Learning for Sustainability
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-#### C1b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If  possible, include examples related to initial training and to continuing professional development.
+that is robust, demonstrable, evaluated and supported by leadership at all levels. All school buildings, grounds and policies should support Learning for Sustainability. A strategic national approach to support for Learning for Sustainability should be established. Scottish Ministers have accepted all five of the above strategic objectives as well as the other recommendations outlined by both groups. A new (June 2019) Learning for Sustainability Action Plan sets out how the Scottish Government will, with others, implement the recommendations of the Vision 2030+ report.
 
-The British Council provides Teacher training on ESDGC https://connectingclassrooms.britishcouncil.org/courses/local-and-global-citizenship
+#### C1b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If possible, include examples related to initial training and to continuing professional development.
 
-Secondary Geography trainee teachers at the University of Worcester are introduced to the Goals early in their course with a taught session exploring the World's Largest Lesson. They choose a Goal to focus on in their inaugural lesson and deliver an 'Environment Day' at a local secondary school. Trainees plan lessons introducing pupils to the Goals in their entirety and a closer look at eight  specific  Goals.  https://www.worcester.ac.uk/courses/pgce-secondary-geography#coursecontent
+The British Council provides Teacher training on ESDGC https://connecting-classrooms.britishcouncil.org/courses/local-and-global-citizenship
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
+Secondary Geography trainee teachers at the University of Worcester are introduced to the Goals early in their course with a taught session exploring the World’s Largest Lesson. They choose a Goal to focus on in their inaugural lesson and deliver an ‘Environment Day’ at a local secondary school. Trainees plan lessons introducing pupils to the Goals in their entirety and a closer look at eight specific Goals. https://www.worcester.ac.uk/courses/pgce-secondary-geography#course-content
+
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -611,17 +615,11 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 9 | 1
 For teachers of other subjects | 9 | 9 | 9 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
 #### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
-
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
-
-#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -636,6 +634,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 9 | 9 | 9 | 9
 8. | Sustainable consumption and production | 9 | 9 | 9 | 9
 
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -645,14 +645,16 @@ Skills | 0 | 0 | 9 | 0
 Values | 1 | 1 | 9 | 1
 Attitudes and behaviours | 1 | 1 | 9 | 1
 
+#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 0
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 0
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 1
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 0
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 1
 
 [[END OF PAGE 23]]
 
@@ -664,29 +666,23 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 
 England Aspects of ESD and GCED are taught across and within a number of curriculum subjects, eg science, geography, citizenship and therefore would be examined as part of the arrangements for the examination of these subjects at GCSE and A level (secondary).  There are no national testing arrangements in these subjects in primary.   Tertiary education is the responsibility of individual Higher Education Institutions (HEIs)
 
-- TIMSS 2019 grade 4 (year 5 in England): https://timssandpirls.bc.edu/timss2019/frameworks/framework-chapters/scienceframework/science-content-domains-fourth-grade/  - see in particular Earth's physical characteristics, resources, and history and Earth's weather and climates towards the end of the page.
+- TIMSS 2019 grade 4 (year 5 in England): https://timssandpirls.bc.edu/timss2019/frameworks/framework-chapters/science-framework/science-content-domains-fourth-grade/ - see in particular Earth’s physical characteristics, resources, and history and Earth’s weather and climates towards the end of the page.
 
-- TIMSS 2019 grade 8 (year 9 in England):
+- TIMSS 2019 grade 8 (year 9 in England): https://timssandpirls.bc.edu/timss2019/frameworks/framework-chapters/science-framework/science-content-domains-eighth-grade/ - see Earth’s processes, cycles, and history, and Earth’s resources, their use, and conservation towards the bottom of the page
 
-https://timssandpirls.bc.edu/timss2019/frameworks/framework-chapters/science-
-
-framework/science-content-domains-eighth-grade/  - see Earth's processes, cycles, and history,
-
-and Earth's resources, their use, and conservation towards the bottom of the page
-
-- PISA 2018 (15 year olds): https://www.oecd-ilibrary.org/education/pisa-2018assessment-and-analytical-framework_f30da688-en  see Table 4.2 (p103) for contexts in which PISA questions are set, many of which relate to ESD, and Table 4.6 (p106) for the specific topics covered
+- PISA 2018 (15 year olds): https://www.oecd-ilibrary.org/education/pisa-2018-assessment-and-analytical-framework_f30da688-en see Table 4.2 (p103) for contexts in which PISA questions are set, many of which relate to ESD, and Table 4.6 (p106) for the specific topics covered
 
 Cross- UK: Sustainability Literacy Test The 'sustainability literacy test' is an international online multiple choice questionnaire of online questions evaluating basic knowledge and understanding of sustainable development issues. Designed for any student enrolled in a higher or further education institution, the test is designed to be used at any level regardless of the type of study pursued and is free to use.  The EAUC is part of the Regional / National Expert Committee (RNEC) and have been working with universities from across the UK and Ireland alongside colleagues from Business Schools who are members of the UK and Ireland PRME (Principles for Responsible Management Education) Chapter to provide the UK and Ireland specific questions. The test is also supported by a number of United Nations institutions and international academic networks.  It is a useful tool for any university or college that wants to embrace the sustainable development journey.  More information on the test can be found here: www.sustainabilitytest.org.
 
-Imperial College developed an assessment framework for educational institutions to evaluate the contribution of their educational programmes to sustainability by reviewing the alignment of their intended learning outcomes to the enabling conditions for a vision of sustainability based on the Sustainable Development Goals (SDGs). The tool is based on a systemic grouping of the SDGs into eight sustainability attributes, namely, Safe Operating Space, Just Operating Space, Resilient Sustainable Behaviours, Alternative Economic Models, Health and Wellbeing, Collaboration, Diversity and Inclusion, and Transparency and Governance, and uses a word code developed specifically for each sustainability attribute to assess the coverage of the SDGs in master's programmes' learning outcomes. The tool uses multi-criteria analysis to compare and rank programmes according to the alignment of their learning outcomes to the sustainability attributes and their contribution to sustainability. It was first tested using data from a University's eighteen master's programmes on a range of subjects and subsequently applied to compare forty UK and European master's programmes focusing on environment and sustainability. Findings demonstrate that even environmental programmes face some important gaps related to health, wellbeing, diversity, inclusion, and collaboration, amongst others, and reinforce the need for all universities to understand the contribution of their programmes to sustainability. The application of the tool can generate empirical evidence on the effectiveness of university programmes and establish a strong argument regarding the potential of education as a tool for achieving the SDGs.
+Imperial College developed an assessment framework for educational institutions to evaluate the contribution of their educational programmes to sustainability by reviewing the alignment of their intended learning outcomes to the enabling conditions for a vision of sustainability based on the Sustainable Development Goals (SDGs). The tool is based on a systemic grouping of the SDGs into eight sustainability attributes, namely, Safe Operating Space, Just Operating Space, Resilient Sustainable Behaviours, Alternative Economic Models, Health and Wellbeing, Collaboration, Diversity and Inclusion, and Transparency and Governance, and uses a word code developed specifically for each sustainability attribute to assess the coverage of the SDGs in master’s programmes’ learning outcomes. The tool uses multi-criteria analysis to compare and rank programmes according to the alignment of their learning outcomes to the sustainability
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
+attributes and their contribution to sustainability. It was first tested using data from a University’s eighteen master’s programmes on a range of subjects and subsequently applied to compare forty UK and European master’s programmes focusing on environment and sustainability. Findings demonstrate that even environmental programmes face some important gaps related to health, wellbeing, diversity, inclusion, and collaboration, amongst others, and reinforce the need for all universities to understand the contribution of their programmes to sustainability. The application of the tool can generate empirical evidence on the effectiveness of university programmes and establish a strong argument regarding the potential of education as a tool for achieving the SDGs.
 
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -700,6 +696,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 0 | 1 | 9 | 1
 7. | Human survival and well-being | 0 | 1 | 9 | 1
 8. | Sustainable consumption and production | 0 | 1 | 9 | 1
+
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -720,23 +718,11 @@ Attitudes and behaviours | 1 | 1 | 9 | 1
 
 KEY:
 
-0 Not at all
-
-- 1 Partially
-
-- 2 Extensively
-
-- 9 Not known
-
-99 Not applicable GCED and ESD are not mainstreamed.
-
-Some GCED and/or ESD themes 6  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
-
-Most GCED and ESD themes are mainstreamed.
-
-It is not known whether GCED and ESD are mainstreamed or not.
-
-The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
+0 Not at all GCED and ESD are not mainstreamed.
+1 Partially Some GCED and/or ESD themes 6 are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
+2 Extensively Most GCED and ESD themes are mainstreamed.
+9 Not known It is not known whether GCED and ESD are mainstreamed or not.
+99 Not applicable The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -759,23 +745,23 @@ Sub-national
 
 [[START OF PAGE 27]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
 No information yet.
 
-### Adult education (para 30 of the 1974 Recommendation )
+### G. Adult education (para 30 of the 1974 Recommendation )
 
 #### G1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school  education,  etc.  Describe  briefly  the  outcomes and  impact  of such initiatives and provide examples of good practices.
 
 ##### Sustainability Literacy Test
 
-The 'sustainability literacy test' is an international online multiple choice questionnaire of online questions evaluating basic knowledge and understanding of sustainable development issues. Designed for any student enrolled in a higher or further education institution, the test is designed to be used at any level regardless of the type of study pursued and is free to use.  The EAUC is part of the Regional / National Expert Commitee (RNEC) and have been working with universities from across the UK and Ireland alongside colleagues from Business Schools who are members of the UK and Ireland PRME (Principles for Responsible Management Education) Chapter to provide the UK and Ireland specific questions. The test is also supported by a number of United Nations institutions and international academic networks.  It is a useful tool for any university or college that wants to embrace the sustainable development journey.  More information on the test can be found here: www.sustainabilitytest.org.
+The “sustainability literacy test” is an international online multiple choice questionnaire of online questions evaluating basic knowledge and understanding of sustainable development issues. Designed for any student enrolled in a higher or further education institution, the test is designed to be used at any level regardless of the type of study pursued and is free to use.  The EAUC is part of the Regional / National Expert Commitee (RNEC) and have been working with universities from across the UK and Ireland alongside colleagues from Business Schools who are members of the UK and Ireland PRME (Principles for Responsible Management Education) Chapter to provide the UK and Ireland specific questions. The test is also supported by a number of United Nations institutions and international academic networks.  It is a useful tool for any university or college that wants to embrace the sustainable development journey.  More information on the test can be found here: www.sustainabilitytest.org.
 
 WCIA also leads the Wales Alliance for Global Learning (WAGL) which has over 70 members NGOs, local authority representatives and education practitioners. WAGL aims to ensure global learning (including global citizenship education, peace education, environmental education and rights based education) is prominent in the curriculum and throughout lifelong learning.
 
-### Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
+### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
 
 #### H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
@@ -785,19 +771,21 @@ No direct research or experimentation, however, the UK participates in OECD PISA
 
 https://timssandpirls.bc.edu/timss2019/frameworks/framework-chapters/science-
 
-framework/science-content-domains-fourth-grade/  - see in particular Earth's physical characteristics, resources, and history and Earth's weather and climates towards the end of the page.
+framework/science-content-domains-fourth-grade/  - see in particular Earth’s physical characteristics, resources, and history and Earth’s weather and climates towards the end of the page.
 
 - TIMSS 2019 grade 8 (year 9 in England):
 
-https://timssandpirls.bc.edu/timss2019/frameworks/framework-chapters/scienceframework/science-content-domains-eighth-grade/  - see Earth's processes, cycles, and history, and Earth's resources, their use, and conservation towards the bottom of the page
+https://timssandpirls.bc.edu/timss2019/frameworks/framework-chapters/science-
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-- PISA 2018 (15 year olds): https://www.oecd-ilibrary.org/education/pisa-2018assessment-and-analytical-framework_f30da688-en  see Table 4.2 (p103) for contexts in which PISA questions are set, many of which relate to ESD, and Table 4.6 (p106) for the specific topics covered
+framework/science-content-domains-eighth-grade/  - see Earth’s processes, cycles, and history, and Earth’s resources, their use, and conservation towards the bottom of the page
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+- PISA 2018 (15 year olds): https://www.oecd-ilibrary.org/education/pisa-2018-assessment-and-analytical-framework_f30da688-en  see Table 4.2 (p103) for contexts in which PISA questions are set, many of which relate to ESD, and Table 4.6 (p106) for the specific topics covered
+
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -814,8 +802,8 @@ Other activities (please specify): | 1 | 1 | 1 | 1
 
 #### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
 
-The impact of the pandemic on children's education generally is likely to have had consequences for the teaching of GCED and ESD but it is not possible to quantify this.
+The impact of the pandemic on children’s education generally is likely to have had consequences for the teaching of GCED and ESD but it is not possible to quantify this.
 
-#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
+#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country’s education system.
 
 [[END OF PAGE 28]]
