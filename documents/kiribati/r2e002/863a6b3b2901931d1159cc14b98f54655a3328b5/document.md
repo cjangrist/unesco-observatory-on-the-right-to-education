@@ -16,29 +16,29 @@ LAWS OF THE GILBERT ISLANDS REVISED EDITION 1977
 
 ### ARRANGEMENT OF SECTIONS
 
+Section
+
 #### PART I
 
 ##### PRELIMINARY
+
+- 1. Short title
+
+- 2. Interpretation
 
 #### PART II
 
 ##### GENERAL POWERS OF MINISTER
 
-Section
+- 3. Promotion of education
 
-- Short title
+- 4. Minister may establish, conduct and discontinue Government schools and institutions
 
-- Interpretation
+- 5. Grants in aid of education
 
-- Promotion of education
+- 6. Scholarships
 
-- Minister may establish, conduct and discontinue Government schools and institutions
-
-- Grants in aid of education
-
-- Scholarships
-
-- Establishment of boards of governors and school committees
+- 7. Establishment of boards of governors and school committees
 
 #### PART III
 
@@ -48,93 +48,111 @@ Section
 
 [[START OF PAGE 2]]
 
-- Educational Advisory Committee
+- 8. Educational Advisory Committee
 
-- Functions of the Committee
+- 9. Functions of the Committee
 
-- Procedure and meetings
+- 10. Procedure and meetings
 
-- Quorum
+- 11. Quorum
 
-- Report
+- 12. Report
 
 #### PART IV
 
 ##### CONTROL OF NON-GOVERNMENT SCHOOLS
 
-- All non-Government schools to be registered
+- 13. All non-Government schools to be registered
 
-- Registration of non-Government schools
+- 14. Registration of non-Government schools
 
-- Register of non-Government schools
+- 15. Register of non-Government schools
 
-- Cancellation of registration
+- 16. Cancellation of registration
 
-- Offences
+- 17. Offences
 
 #### PART V
 
 ##### FURTHER POWERS OF MINISTER IN RESPECT OF ALL SCHOOLS
 
-- Curricula and examinations
+- 18. Curricula and examinations
 
-- Religious instructions in schools
+- 19. Religious instructions in schools
 
-- Inspection of schools
-
-- Teachers to be registered or approved
-
-- Register of teachers
-
-- Registered teachers
-
-- Approved teachers
-
-- Cancellation of registration or approval
-
-- Appeals
-
-- Offences
-
-- Corporal punishment
-
-- Compulsory education
+- 20. Inspection of schools
 
 #### PART VI
 
 ##### TEACHERS
 
+- 21. Teachers to be registered or approved
+
+- 22. Register of teachers
+
+- 23. Registered teachers
+
+- 24. Approved teachers
+
+- 25. Cancellation of registration or approval
+
+- 26. Appeals
+
+- 27. Offences
+
+- 28. Corporal punishment
+
 #### PART VII
 
 ##### COMPULSORY EDUCATION
+
+- 29. Compulsory education
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- Misrepresentations
+#### PART VIII
 
-- Disturbing school
+##### MISCELLANEOUS AND REGULATIONS
 
-- Fees
+- 30. Misrepresentations
 
-- Unsuitable publications
+- 31. Disturbing school
 
-- Regulations
+- 32. Fees
 
-- Forms
+- 33. Unsuitable publications
+
+- 34. Regulations
+
+- 35. Forms
+
+________
+
+An Ordinance to reform the law relating to education
+
+9 of 1976
+
+Commencement. 10th September 1976.
+
+L.N. 60/78
+
+### PART I
+
+#### PRELIMINARY
 
 ##### Short title
 
-- 1 . This Ordinance may be cited as the
+- 1. This Ordinance may be cited as the Education Ordinance.
 
 ##### Interpretation
 
-- 2 . In this Ordinance, unless the context otherwise requires -
+- 2. In this Ordinance, unless the context otherwise requires -
 
 "authorised officer" means any public officer authorised to act by the Secretary either generally or for a purpose specified in this Ordinance;
 
-"controlling authority" means the person or persons responsible for the establishment and maintenance or for the maintenance of any non-Government school, or in the case of application for registration of any nonGovernment school, the person or persons proposing to be responsible;
+"controlling authority" means the person or persons responsible for the establishment and maintenance or for the maintenance of any non-Government school, or in the case of application for registration of any non-Government school, the person or persons proposing to be responsible;
 
 "Government school" means a school established or conducted under section 4 or established or maintained by a local government council;
 
@@ -143,24 +161,6 @@ Section
 "non-Government school" means any school other than a Government school;
 
 "parent" in relation to any pupil or child includes a guardian and any person who has the actual custody of the pupil or child;
-
-#### PART VIII
-
-##### MISCELLANEOUS AND REGULATIONS
-
-________
-
-An Ordinance to reform the law relating to education
-
-### PART I
-
-#### PRELIMINARY
-
-Education Ordinance.
-
-9 of 1976 Commencement. 10th September 1976.
-
-L.N. 60178
 
 [[END OF PAGE 3]]
 
@@ -208,11 +208,11 @@ L.N. 60178
 
 as the Committee) which shall consist of 10 members.
 
-- The Chairman and other members of the Committee shall be appointed by the Minister from among persons of experience in education .
+- (2) The Chairman and other members of the Committee shall be appointed by the Minister from among persons of experience in education .
 
-- Members of the Committee shall hold office for 3 years (or, if appointed to fill any vacancy, the remainder of the 3-year term for which the original member was appointed) but shall be eligible for re-appointment.
+- (3) Members of the Committee shall hold office for 3 years (or, if appointed to fill any vacancy, the remainder of the 3-year term for which the original member was appointed) but shall be eligible for re-appointment.
 
-- The Secretary to the Committee shall be an officer of the Ministry appointed by the Secretary.
+- (4) The Secretary to the Committee shall be an officer of the Ministry appointed by the Secretary.
 
 ##### Functions of the committee
 
@@ -232,7 +232,7 @@ as the Committee) which shall consist of 10 members.
 
 (c) at the discretion of the Chairman, invite any person to attend and take part in any meetings of the Committee or its sub-committees, provided that such person or persons shall not be entitled to vote thereat.
 
-- The Committee shall meet at such times as the Secretary may decide:
+- (2) The Committee shall meet at such times as the Secretary may decide:
 
 Provided that if he receives a written request signed by 4 members of the Committee, he shall summon a meeting of the Committee to take place within a period of 3 weeks from the date of receipt of the said request.
 
@@ -260,7 +260,7 @@ Provided that if he receives a written request signed by 4 members of the Commit
 
 - 14 . (1) Any controlling authority intending to establish a non-Government school shall apply to the Secretary in the prescribed form for the school to be registered.
 
-- The Secretary may register the school and issue the controlling authority with a certificate of registration or he may refuse the application if he is satisfied that -
+- (2) The Secretary may register the school and issue the controlling authority with a certificate of registration or he may refuse the application if he is satisfied that -
 
 (a) the number of potential pupils in the area capable of benefiting from the facilities offered by the proposed school is too small to warrant the establishment of such a school; or
 
@@ -272,15 +272,15 @@ Provided that if he receives a written request signed by 4 members of the Commit
 
 (e) the controlling authority or manager of the school is not a suitable or appropriate person or the controlling authority includes any person not a suitable or appropriate person to be the controlling authority of a school.
 
-- If the Secretary refuses an application for a certificate or registration under subsection (2) the applicant may, within 30 days of the date of such refusal, appeal to the Minister and the Minister shall thereupon refer the matter to the Educational Advisory Committee for its opinion and on receipt of the opinion of the Committee shall decide the appeal on its merits, and his decision shall be final.
+- (3) If the Secretary refuses an application for a certificate or registration under subsection (2) the applicant may, within 30 days of the date of such refusal, appeal to the Minister and the Minister shall thereupon refer the matter to the Educational Advisory Committee for its opinion and on receipt of the opinion of the Committee shall decide the appeal on its merits, and his decision shall be final.
 
-- A certificate of registration issued under subsection (2) may classify the school in a category which specifies the highest form or type of education which may be provided therein and may also specify any other condition which the Secretary sees fit to impose.
+- (4) A certificate of registration issued under subsection (2) may classify the school in a category which specifies the highest form or type of education which may be provided therein and may also specify any other condition which the Secretary sees fit to impose.
 
 ##### Register of non-Government schools
 
 - 15 . (1) The Secretary shall keep a register of non-Government schools in respect of which a certificate of registration has been issued and shall include therein the name and place of each school, the classification of the school, the name of the controlling authority, the name of the manager, if any, the conditions on which the certificate of registration has been granted and such other particulars as the Minister may prescribe by Regulations.
 
-- The Secretary shall publish from time to time a list of schools for the time being registered or deemed to
+- (2) The Secretary shall publish from time to time a list of schools for the time being registered or deemed to
 
 [[END OF PAGE 6]]
 
@@ -306,11 +306,11 @@ be registered under the provisions of this Ordinance and of any schools the regi
 
 (f) a person who has not been registered or approved as a teacher in accordance with the provisions of Part VI is employed to teach at the school or any person is managing or assisting in the management of the school after having been convicted of any offence involving fraud, dishonesty, violence or immorality.
 
-- Where the registration of a school has been cancelled under subsection (1) the controlling authority may, within 30 days of the date of such cancellation, appeal against the cancellation to the Minister and pending the disposal of the appeal the Minister may in his discretion permit the school to remain open.
+- (2) Where the registration of a school has been cancelled under subsection (1) the controlling authority may, within 30 days of the date of such cancellation, appeal against the cancellation to the Minister and pending the disposal of the appeal the Minister may in his discretion permit the school to remain open.
 
-- The Minister shall before deciding such appeal refer the matter to the Educational Advisory Committee for its opinion and on receipt of the opinion of the Committee shall decide the appeal on its merits.
+- (3) The Minister shall before deciding such appeal refer the matter to the Educational Advisory Committee for its opinion and on receipt of the opinion of the Committee shall decide the appeal on its merits.
 
-- The decision of the Minister on an appeal under subsection (3) shall be final.
+- (4) The decision of the Minister on an appeal under subsection (3) shall be final.
 
 ##### Offences
 
@@ -322,7 +322,7 @@ be registered under the provisions of this Ordinance and of any schools the regi
 
 2 of 1955
 
-- A non-Government school registered under the corresponding provisions of the Education Ordinance 1955, now repealed, shall be deemed to have been registered under this Part and to have a certificate of registration in force containing such particulars and conditions as are contained in the register of non-Government schools kept under section 29 of that Ordinance in respect of that school and section 15 (3) of this Ordinance shall apply to such school accordingly.
+- (2) A non-Government school registered under the corresponding provisions of the Education Ordinance 1955, now repealed, shall be deemed to have been registered under this Part and to have a certificate of registration in force containing such particulars and conditions as are contained in the register of non-Government schools kept under section 29 of that Ordinance in respect of that school and section 15 (3) of this Ordinance shall apply to such school accordingly.
 
 ### PART V
 
@@ -332,23 +332,23 @@ be registered under the provisions of this Ordinance and of any schools the regi
 
 - 18 . (1) The Minister may from time to time lay down or approve the basic curricula to be followed in all schools.
 
-- The Minister may from time to time institute or approve such examinations as he shall deem necessary for such schools and make rules concerning the content and conduct of such examinations.
+- (2) The Minister may from time to time institute or approve such examinations as he shall deem necessary for such schools and make rules concerning the content and conduct of such examinations.
 
 ##### Religious instructions in schools
 
 - 19 . (1) All schools shall include religious instruction in their curricula.
 
-- A teacher shall not be compelled to give or be present at religious instruction or any act of religious worship if to do so would be against the dictates of his conscience.
+- (2) A teacher shall not be compelled to give or be present at religious instruction or any act of religious worship if to do so would be against the dictates of his conscience.
 
-- If a parent of any pupil requests that such pupil be wholly or partly excused from attending religious instruction or any act of religious worship in a school the pupil shall be excused such attendance wholly or partly as the case may be.
+- (3) If a parent of any pupil requests that such pupil be wholly or partly excused from attending religious instruction or any act of religious worship in a school the pupil shall be excused such attendance wholly or partly as the case may be.
 
 ##### Inspection of schools
 
 - 20 . (1) The Minister shall cause inspections to be made of every school at such intervals as may appear to him to be appropriate.
 
-- The Minister or any authorised officer may enter and inspect any place in which there is reason to believe that a school is being conducted.
+- (2) The Minister or any authorised officer may enter and inspect any place in which there is reason to believe that a school is being conducted.
 
-- Any person who wilfully obstructs the Minister or any authorised officer making an inspection under this section shall be liable to a fine of $100.
+- (3) Any person who wilfully obstructs the Minister or any authorised officer making an inspection under this section shall be liable to a fine of $100.
 
 ### PART VI
 
@@ -388,7 +388,7 @@ Provided further that any person whose application for registration has been ref
 
 - 25 . (1) If at any time it shall appear to the Secretary that all or any of the grounds mentioned in the next succeeding subsection exist in relation to a registered or approved teacher, he shall give full particulars thereof in writing to the teacher and require him within a specified time not exceeding 1 month from the date of the notice to show cause in writing to the satisfaction of the Secretary why his certificate of registration or approval as the case may be shall not be cancelled.
 
-- The grounds upon which a registered or approved teacher may be required to show cause under this section are that he -
+- (2) The grounds upon which a registered or approved teacher may be required to show cause under this section are that he -
 
 [[END OF PAGE 9]]
 
@@ -404,17 +404,17 @@ Provided further that any person whose application for registration has been ref
 
 (e) has failed to comply with the provisions of this Ordinance or regulations made hereunder or with declarations or directions made by the Minister under those provisions and applicable to him.
 
-- After expiration of the time specified in a notice under this section the Secretary shall cancel the registration or approval as the case maybe of the teacher to whom the notice relates unless the teacher has shown cause against such cancellation to the satisfaction of the Secretary.
+- (3) After expiration of the time specified in a notice under this section the Secretary shall cancel the registration or approval as the case maybe of the teacher to whom the notice relates unless the teacher has shown cause against such cancellation to the satisfaction of the Secretary.
 
-- The Secretary shall give to the teacher concerned notice in writing of his decision under subsection (3) and, where appropriate, to the controlling authority of the school in which the teacher concerned is employed.
+- (4) The Secretary shall give to the teacher concerned notice in writing of his decision under subsection (3) and, where appropriate, to the controlling authority of the school in which the teacher concerned is employed.
 
 ##### Appeals
 
 - 26 . (1) Any teacher whose registration or approval has been cancelled by the Secretary may within 30 days appeal to the Minister who shall before deciding such appeal refer it to the Educational Advisory Committee for its opinion.
 
-- On receipt of the opinion of the Committee the Minister shall decide the appeal on its merits and his decision shall be final.
+- (2) On receipt of the opinion of the Committee the Minister shall decide the appeal on its merits and his decision shall be final.
 
-- Any person whose registration or approval as a teacher has been cancelled and who has not appealed under subsection (1) or whose appeal has been dismissed may, at any time after the expiration of 12 months from the date of such cancellation, and from time to time at intervals of not less than 6 months thereafter, apply to the Secretary for the restoration of such registration or approval and the Secretary may, having regard to the character of such person, his conduct subsequent to such cancellation and any other circumstances which the Secretary may consider relevant, restore such registration or approval or may refuse the application.
+- (3) Any person whose registration or approval as a teacher has been cancelled and who has not appealed under subsection (1) or whose appeal has been dismissed may, at any time after the expiration of 12 months from the date of such cancellation, and from time to time at intervals of not less than 6 months thereafter, apply to the Secretary for the restoration of such registration or approval and the Secretary may, having regard to the character of such person, his conduct subsequent to such cancellation and any other circumstances which the Secretary may consider relevant, restore such registration or approval or may refuse the application.
 
 ##### Offences
 
@@ -482,7 +482,7 @@ Provided that the Minister may, in his discretion, pay or remit in whole or in p
 
 ##### Regulations
 
-34 . (1) The Minister may make regulations for carrying out the purposes of this Ordinance. (2) In particular and without limiting the generality of the foregoing power such regulations may provide for or relate to the following matters (a) the fees to be charged for tuition and board and lodging at a school; (b) the application for registration of a non-Government school; (c) the conditions under which and the purposes for which grants may be made to non-Government schools; (d) the application by teachers for registration of approval; (e) the minimum standards required for recognising a teaching qualification and the gradings of teachers; (f) the basic curricula for schools and the standards of accommodation for non-Government schools; (g) the securing of school attendance when an Order has been made under section 29 and the temporary exclusion from schools of disruptive pupils; (h) the ratio to registered teachers in which approved teachers may be employed in any school; (i) the terms and conditions governing the granting of scholarships; (j) the manner of any appeal brought under the provisions of this Ordinance; (k) the classification of schools; and
+34 . (1) The Minister may make regulations for carrying out the purposes of this Ordinance. (2) In particular and without limiting the generality of the foregoing power such regulations may provide for or relate to the following matters - (a) the fees to be charged for tuition and board and lodging at a school; (b) the application for registration of a non-Government school; (c) the conditions under which and the purposes for which grants may be made to non-Government schools; (d) the application by teachers for registration of approval; (e) the minimum standards required for recognising a teaching qualification and the gradings of teachers; (f) the basic curricula for schools and the standards of accommodation for non-Government schools; (g) the securing of school attendance when an Order has been made under section 29 and the temporary exclusion from schools of disruptive pupils; (h) the ratio to registered teachers in which approved teachers may be employed in any school; (i) the terms and conditions governing the granting of scholarships; (j) the manner of any appeal brought under the provisions of this Ordinance; (k) the classification of schools; and
 
 (l) any other matter or thing which by this Ordinance may be prescribed or which is incidental or ancillary to any of the foregoing.
 
