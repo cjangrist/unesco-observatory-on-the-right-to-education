@@ -42,9 +42,67 @@ First Edition :
 
 ## Table of Contents
 
-4
+Acronyms ..................................................................................................... 4
 
-5
+Foreword ...................................................................................................... 5
+
+1. Introduction ............................................................................................ 7
+
+2. Rationale .................................................................................................. 8
+
+3. Definition of youth and priority target groups .................................... 9
+
+4. Guiding Principles ................................................................................. 11
+
+5. Vision ..................................................................................................... 13
+
+6. Goals of the National Youth Policy ...................................................... 13
+
+7. Key Sectors of Policy concern .............................................................. 15
+
+8. Critical Issues and Policy Statements for each Key Sector ............... 16
+
+8.1 Socio-Economic Sectors and Youth .................................................... 16
+
+8.1.1 Education .................................................................................... 16
+
+8.1.2 Health and Well Being ............................................................... 18
+
+8.1.3 Employment and Training ......................................................... 19
+
+8.2 The Environment and Youth ............................................................... 21
+
+8.2.1 Environmental education, awareness and action ..................... 21
+
+8.3 Culture and Youth ............................................................................... 22
+
+8.3.1 Culture and Identity ................................................................... 22
+
+8.3.2 Social environment .................................................................... 22
+
+8.3.3 Recreation and sports ................................................................ 23
+
+8.4 Governance and Youth ....................................................................... 24
+
+8.4.1 Youth civic participation and empowerment ............................ 24
+
+9. Youth Rights and Responsibilities ........................................................ 25
+
+10. Implementation .................................................................................... 27
+
+10.1 Policy Coordination and implementation ........................................ 27
+
+10.2 National Youth Action Plan ............................................................... 29
+
+10.3 Monitoring and Review .................................................................... 29
+
+10.3.1 Monitoring and Evaluation ...................................................... 29
+
+10.3.2 Review of the Policy and Youth Action plan .......................... 30
+
+Appendix 1 - Acknowledgements ............................................................... 32
+
+Appendix 2 - List of stakeholders .............................................................. 33
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -54,7 +112,7 @@ NATIONAL YOUTH POLICY - 2011
 
 [[START OF PAGE 4]]
 
-## A cronyms
+## Acronyms
 
 AIDS
 
@@ -148,11 +206,14 @@ NATIONAL YOUTH POLICY - 2011
 
 [[START OF PAGE 5]]
 
-MINISTER
-
 ROYAL GOVERNMENT OF BHUTAN
 
-MINISTRY OF EDUCATION THIMPHU : BHUTAN ཤེས་རིག་ལྷན་ཁག།
+ཤེས་རིག་ལྷན་ཁག།
+
+MINISTRY OF EDUCATION
+THIMPHU : BHUTAN
+
+MINISTER
 
 Cultivating the Grace of Our Mind
 
@@ -160,13 +221,13 @@ Cultivating the Grace of Our Mind
 
 I have counted my years following the benign intensities that define the lives of  youth.  As  the  days  go  by,  each  moment  becomes  ever  more  precious  as it records the progress of our life. When the day draws to a close, it is time to count the jewels that are our deeds. Next morning, we are off on a new journey. I often wonder what joy of a good turn, what reason for calm, what hope for tomorrow accompany Sonam, or Divya or Wangmo as they call it a day and put their head on the pillow.
 
-Within the limits of a developing economy and constrained by the inexorable logic of a difficult terrain, the Royal Government has always known one thing that our people are our greatest wealth. It is, therefore, crucial to empower and engage the genius, the imagination and the resourcefulness of our people to take our country to her rightful destiny. The positive values of our traditional family structure have had their own share of creative influence on the integrity of our social life.
+Within the limits of a developing economy and constrained by the inexorable logic of a difficult terrain, the Royal Government has always known one thing - that our people are our greatest wealth. It is, therefore, crucial to empower and engage the genius, the imagination and the resourcefulness of our people to take our country to her rightful destiny. The positive values of our traditional family structure have had their own share of creative influence on the integrity of our social life.
 
 As an educator, my principal concern has been with protecting the integrity of the child, my pupil. It is not always easy to balance the austerity of love with the need to ensure the sanctity of the learner in front of you. It is much the same thing when governments formulate development plans - balancing the possible and the desirable.
 
 Over the years, however, the advent of modernization and exposure of our sheltered society to an array of aggressive influences have been taking a toll on the innocence and goodness of our people. Our precious youth are particularly vulnerable to a range of media influences that often do untold damage to the integrity of the life of our young people.
 
-It has become necessary, therefore, to formulate a broad policy guideline to support our youth as they attempt to realize their many promises and dreams that they all carry as our future leaders. The National Youth Policy , developed by  all  relevant  stakeholders  and  professionals,  is  expected  to  provide  the required direction to the different agencies to mount youth-related services in the country.
+It has become necessary, therefore, to formulate a broad policy guideline to support our youth as they attempt to realize their many promises and dreams that they all carry as our future leaders. The National Youth Policy, developed by all relevant stakeholders and professionals, is expected to provide the
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -175,12 +236,13 @@ NATIONAL YOUTH POLICY - 2011
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+required direction to the different agencies to mount youth-related services in the country.
 
 I would like to commend the excellent work done by the members of the Task Force and my colleagues in the Department of Youth and Sports to develop this fine document. It is my hope that this instrument will help all of us who care for our youth and, therefore, for the future of our country to do what we can as parents, teachers and citizens to support the most precious part of our society - our youth.
 
 Tashi Delek!
 
-Thakur S Powdyel
+Thâkur S Powdyel
 
 6
 
@@ -192,19 +254,15 @@ NATIONAL YOUTH POLICY - 2011
 
 ## 1. Introduction
 
-'I have always believed that a nation's future is mirrored in the quality of her youth and that it is the government's sacred duty to provide a good education and a conducive environment for young people to become strong, capable leaders for the future'
+“I have always believed that a nation's future is mirrored in the quality of her youth and that it is the government's sacred duty to provide a good education and a conducive environment for young people to become strong, capable leaders for the future”
 
-His Majesty, the King, Jigme Khesar Namgyel Wangchuck; Royal Address to
-
-the Nation, National Day, 17 th   December 2007
+His Majesty, the King, Jigme Khesar Namgyel Wangchuck; Royal Address to the Nation, National Day, 17th December 2007
 
 Young  people  in  every  country  are  viewed  as  major  human  resources  for development and are recognized as key agents for social change, economic development and technological innovation. They are the greatest source of hope for a nation's future. It is thus imperative to prepare young people as future guardians and custodians of the country by addressing their current and future needs. In recognizing this, Bhutan, like many other members of the global community has invested immense resources to ensure that all young people are provided with opportunities to grow, develop and prosper as fully engaged, responsive and productive citizens. For generations they have been accorded priority and commitment through concerted efforts as envisioned by Their Majesties, the kings of Bhutan. His Majesty the Fourth Druk Gyalpo, ushered in an era of unprecedented change and development that the youth of his generation can today, not only reap the benefits but also shoulder their responsibility for ensuring the continued well being and security of the nation.
 
-In  this  new  age  of  globalization  and  constitutional  democracy,  Bhutan continues to receive the same attention and focus for its youth through the leadership of His Majesty the King, who asserted that the 'the future lies in the hands of our children' , His Majesty has repeatedly emphasized the role of the youth and the government in his royal addresses. In his coronation address in  2008,  he  highlighted  youth  as  the  most  important  citizens  and  pledged to  give  them inspiration, knowledge and skills so that they would take the future of the nation based on their worth and capabilities. Accentuating the importance of youth, he reminded the nation again in 2009, that a strong, motivated youth would guarantee a secure and bright future for Bhutan and nation cannot fool herself into thinking of a bright future when she has
+In this new age of globalization and constitutional democracy, Bhutan continues to receive the same attention and focus for its youth through the leadership of His Majesty the King, who asserted that the “the future lies in the hands of our children”, His Majesty has repeatedly emphasized the role of the youth and the government in his royal addresses. In his coronation address in 2008, he highlighted youth as the most important citizens and pledged to give them inspiration, knowledge and skills so that they would take the future of the nation based on their worth and capabilities. Accentuating the importance of youth, he reminded the nation again in 2009, that a strong, motivated youth would guarantee a secure and bright future for Bhutan and that “a nation cannot fool herself into thinking of a bright future when she has not invested wisely in her children”.
 
-that 'a not invested wisely in her children ' .
-
-It is within this context that Bhutan's social development approach to public Policy  must  adopt  and  create  an  enabling  environment  in  which  the  lives, work and success of our young people are placed at the center of growth and development. This National Youth Policy seeks to respond to those needs by providing a broad framework within which all stakeholders can contribute comprehensively  and  in  a  coordinated  manner  to  youth  development.  It builds on the foundations and programmatic interventions implemented by all existing agencies since the inception of development in Bhutan. In keeping with  our  developmental  philosophy  of  Gross  National  Happiness  (GNH), this Policy is aligned towards the four pillars of GNH and has identified key areas  for  youth  development  around  them.  It  has  been  written  within  the context of all existing sectoral policies, national development plans as well as international policies and charters to which Bhutan is a signatory.
+It is within this context that Bhutan's social development approach to public
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -213,12 +271,13 @@ NATIONAL YOUTH POLICY - 2011
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+Policy must adopt and create an enabling environment in which the lives, work and success of our young people are placed at the center of growth and development. This National Youth Policy seeks to respond to those needs by providing a broad framework within which all stakeholders can contribute comprehensively and in a coordinated manner to youth development. It builds on the foundations and programmatic interventions implemented by all existing agencies since the inception of development in Bhutan. In keeping with our developmental philosophy of Gross National Happiness (GNH), this Policy is aligned towards the four pillars of GNH and has identified key areas for youth development around them. It has been written within the context of all existing sectoral policies, national development plans as well as international policies and charters to which Bhutan is a signatory.
 
 ## 2. Rationale
 
 Youth constitute a unique group within our society who represent a positive force with enormous potential to contribute to development. However, as they transit through the major stage of moving from the dependency of childhood to the autonomy and responsibility of adulthood, they are faced with many aspects of vulnerability. In contrast to their parents, young people in Bhutan, today  grow  up  in  a  different  and  complex  world  because  of  globalization and the rapid spread of mass communication, multimedia, changing global economy, political crisis, global violence and increasing access to drugs and alcohol. In addition, with limited life experience, inadequate resources and decision making skills, they are exposed to the risks of neglect, abuse and exploitation. Recent statistics indicate that they are most at risk from major socio-economic challenges  including  unemployment,  low  income,  physical and sexual abuse, substance abuse, crime and violence and a wide range of health  issues,  significantly  HIV/AIDS  and  reproductive  health  with  young women being most disadvantaged. The rising trend in these areas reported every year, necessitates greater and renewed impetus for synergized efforts in the planning, implementation and evaluation of youth programmes.
 
-These  youth  related  issues  also  impinge  upon  GNH,  our  philosophy  of 'development  with  values'  and  place  pressure  on  our  traditional  culture and way of life. Rather than viewing these rapidly changing youth lifestyle and  culture  as  threats  or  youth  deficiencies,  the  concept  of  GNH  must  be harnessed  and  employed  to  build  a  strong  culture  incorporating  both  the traditional and modern views. A GNH guided youth Policy will enable the drawing together of our unique heritage and identity within the context of change and will empower young people to prepare themselves for the future and provide direction and inspiration for the society as a whole.
+These youth related issues also impinge upon GNH, our philosophy of “development with values” and place pressure on our traditional culture and way of life. Rather than viewing these rapidly changing youth lifestyle and culture as threats or youth deficiencies, the concept of GNH must be harnessed and employed to build a strong culture incorporating both the traditional and modern views. A GNH guided youth Policy will enable the
 
 8
 
@@ -227,6 +286,7 @@ NATIONAL YOUTH POLICY - 2011
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+drawing together of our unique heritage and identity within the context of change and will empower young people to prepare themselves for the future and provide direction and inspiration for the society as a whole.
 
 Recognizing the significance of youth in the development of the nation, the Royal  Government  of  Bhutan  has  made  substantial  investments  in  youth development.  Significant  among  them  have  been  the  establishment  of  the Department  of  Youth  and  Sports  (DYS)  under  the  Ministry  of  Education, the  provision  of  free  education  and  health  care  and  a  myriad  of  other programmes implemented through various national agencies in partnership with international organizations. While these initiatives have resulted in far reaching  transformation  and  in  achieving  many  of  the  set  objectives,  the process has also revealed Policy gaps and challenges. Resource constraints, unclear and uncoordinated youth programmes, expanding youth population and absence of a national coordinating body have all limited the progress of these investments. The National Youth Policy will specifically aim at closing these gaps by addressing the challenges and recommending measures so that all  Bhutanese  youth  can  assume  their  rightful  place  in  building  a  happier, prosperous nation and are fully prepared to lead the country into the future.
 
@@ -234,7 +294,7 @@ The  rationale  of  the  development  of  the  National  Youth  Policy  is  thus
 
 ## 3. Definition of youth and priority target groups
 
-This National Youth Policy is directed towards young people in the age group of  13-24  years  of  age,  which  could  be  accepted  as  the  official  definition  of Bhutanese youth. This age group has been carefully chosen after considering a  number  of  national  legislations,  international  mandates  and  respective sectoral policies. The Penal Code of Bhutan, 2004 has set the age of criminal responsibility at 10 years and the Judiciary is currently considering raising it to 13 years to decriminalize those in the age group of 11-12 years. The Labour Act of Bhutan, 2007 allows young people from the age of 13 years to undertake work in certain categories and in specified work places. Consideration has also been made on the definitions of the United Nations and the Convention on the Rights of the Child (CRC) that sets 12 years and below as the primary school  age  group.  Therefore,  the  lower  age  limit  has  been  set  inclusive  of 13  years  while  the  upper  limit  of  24  years  is  in  keeping  with  the  standard definitions set by the UN and World Health Organization (WHO).
+This National Youth Policy is directed towards young people in the age group of 13-24 years of age, which could be accepted as the official definition of
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -243,6 +303,7 @@ NATIONAL YOUTH POLICY - 2011
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+Bhutanese youth. This age group has been carefully chosen after considering a number of national legislations, international mandates and respective sectoral policies. The Penal Code of Bhutan, 2004 has set the age of criminal responsibility at 10 years and the Judiciary is currently considering raising it to 13 years to decriminalize those in the age group of 11-12 years. The Labour Act of Bhutan, 2007 allows young people from the age of 13 years to undertake work in certain categories and in specified work places. Consideration has also been made on the definitions of the United Nations and the Convention on the Rights of the Child (CRC) that sets 12 years and below as the primary school age group. Therefore, the lower age limit has been set inclusive of 13 years while the upper limit of 24 years is in keeping with the standard definitions set by the UN and World Health Organization (WHO).
 
 This age group encompasses that period of life when the greatest change takes place and young people are confronted with innumerable challenges as they move from dependence to independence. It is also a period characterized by youthful  vigour,  enthusiasm,  ambitions  and  building  relationships.  While acknowledging the general experiences of Bhutanese youth, this Policy also recognizes  that  they  are  by  no  means  a  homogenous  group.  Like  any  age group  within  the  society,  this  wide  age  group  of  13-24  years  also  consists of  subgroups  with  diverse  experiences,  needs  and  risks  depending  on  age, gender,  geographical  location,  region,  culture,  marital  status,  education, socio-economic background and work status. Situational analysis and youth assessments carried out in 2005 and 2009 have confirmed the existence of these  subgroups  and  have  identified  priority  target  youth  groups  whose experiences are unique, multifaceted and require specifically targeted Policy interventions.  This  Policy  thus  adopts  a  differentiated  approach  and  while addressing  the  needs  of  youth  in  general,  it  also  recommends  unique  and diverse interventions to be instituted for prioritized target groups.
 
@@ -284,9 +345,11 @@ Given the diversity of youth and the various challenges, needs and interventions
 
 The National Youth Policy is guided by the national development philosophy of Gross National happiness and the principles and values associated with the Policy blend along with the four pillars of GNH as depicted in the table below:
 
+Sustainable and equitable socio-economic development
+
 Equity and accessibility
 
-The Policy promotes principles of equal opportunity and equitable  distribution of programmes, services and resources
+The Policy promotes principles of equal opportunity and equitable distribution of programmes, services and resources
 
 Human and Civic Rights
 
@@ -296,13 +359,11 @@ Integration and holistic development
 
 Focus on the integrated, cross sectoral; and interdisciplinary approach to the issues of young people's development and the mainstreaming of youth issues within national goals and programmes
 
+Conservation of Environment
+
 Environmentally sustainable development
 
 The value of environmental sustainability is promoted to ensure that the needs of the present are met without compromising the ability of future generations to meet their own needs
-
-Sustainable and equitable socioeconomic development
-
-Conservation of Environment
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -314,11 +375,11 @@ NATIONAL YOUTH POLICY - 2011
 
 Preservation and promotion of culture
 
-Promotion of Good Governance
-
 Respect for Culture, Belief systems and Ethical Values
 
 The Policy promotes respect for culture & traditions, religious and ethnic backgrounds of the people and conforms to universally recognised human rights without discrimination based on gender, race/origin, age, ethnicity, creed, sexual identity, political affiliation or social status
+
+Promotion of Good Governance
 
 Youth participation
 
@@ -350,7 +411,7 @@ Generations of Bhutanese young men and women, boys and girls, sons and daughters
 
 ## 6. Goals of the National Youth Policy
 
-- To instill in young Bhutanese an abiding awareness of, and adherence to, the principles and values enshrined in the Constitution of Bhutan, with  unswerving  commitment  to  the Tsa  Wa  Sum ,  patriotism, national security, and to uphold our traditional values of Driglam Namsha, Tha Damtshi & Ley Jumdrey
+- To instill in young Bhutanese an abiding awareness of, and adherence to, the principles and values enshrined in the Constitution of Bhutan, with unswerving commitment to the Tsa Wa Sum, patriotism, national security, and to uphold our traditional values of Driglam Namsha, Tha Damtshi & Ley Jumdrey
 
 - To develop qualities of citizenship, pride in our national identity, foster unity, practice a culture of non violence, build a strong sense of social justice and dedication to national and community service amongst all sections of the youth;
 
@@ -398,25 +459,25 @@ The critical issues affecting youth within the eight key sectors of the policy w
 
 Sustainable and equitable socio-economic development
 
-Conservation of Environment
-
-Preservation and Promotion of Culture
-
-Promotion of Good Governance
-
 - Education
 
 - Health and well being
 
 - Employment and training
 
+Conservation of Environment
+
 - Environmental education, awareness and action
+
+Preservation and Promotion of Culture
 
 - Social environment
 
 - Culture and identity
 
 - Recreation and sports
+
+Promotion of Good Governance
 
 - Youth civic participation and empowerment
 
@@ -484,17 +545,17 @@ NATIONAL YOUTH POLICY - 2011
 
 ##### Policy Statements
 
-- To  prepare  young  people  for  the  world  of  work  throughout  the education process
+1. To prepare young people for the world of work throughout the education process
 
-- To develop the skills and capabilities of young people including young monks/nuns to effectively negotiate a globalised world and participate in society
+2. To develop the skills and capabilities of young people including young monks/nuns to effectively negotiate a globalised world and participate in society
 
-- To provide equal access and support to complete education up to Class X for all young people
+3. To provide equal access and support to complete education up to Class X for all young people
 
-- To increase the access of all young people not in formal schooling to further education (NFE) and continuing education (CE)
+4. To increase the access of all young people not in formal schooling to further education (NFE) and continuing education (CE)
 
-- To  improve  the  quality  and  relevance  of  the  educational experience
+5. To improve the quality and relevance of the educational experience
 
-- To review the curriculum to ensure that the educational outcomes are relevant
+6. To review the curriculum to ensure that the educational outcomes are relevant
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -506,7 +567,7 @@ NATIONAL YOUTH POLICY - 2011
 
 #### 8.1.2 Health and Well Being
 
-The strong family system that exists in Bhutan normally affords young people  protection  in  regard  to  their  health  and  well  being.  Y oung people in general report a satisfaction with both their physical and mental health. 1 Of particular concern though in regard to health issues are young people who lack a permanent, stable home, live in poverty and  are  not  engaged  in  education,  training  or  employment . These young people are more likely to engage in risky behaviors including the use of drugs and alcohol. They are also at greater risk of mental health issues and involvement in violent behaviour.
+The strong family system that exists in Bhutan normally affords young people protection in regard to their health and well being. Young people in general report a satisfaction with both their physical and mental health.¹ Of particular concern though in regard to health issues are young people who lack a permanent, stable home, live in poverty and are not engaged in education, training or employment. These young people are more likely to engage in risky behaviors including the use of drugs and alcohol. They are also at greater risk of mental health issues and involvement in violent behaviour.
 
 In  comparison  to  other  Asian  countries,  the  Bhutanese  society  has a  relatively  open  approach  to  sex  and  sexuality  with  less  stringent practices  and  views  about  sexuality  for  both  men  and  women. Premarital sex is not taboo in many rural communities 2 with an early onset of sexual activity (especially in rural areas) occurring for some boys and girls increasing their risk of sexually transmitted diseases.
 
@@ -554,17 +615,17 @@ NATIONAL YOUTH POLICY - 2011
 
 ##### Policy Statements
 
-- To  inform  and  educate  young  people,  through  school  and other sources, on a range of health and well being related issues affecting young people
+7. To inform and educate young people, through school and other sources, on a range of health and well being related issues affecting young people
 
-- To shift  from  a  disease  to  patient  centered  approach  for  the well-being of all young people
+8. To shift from a disease to patient centered approach for the well-being of all young people
 
-- To provide access for all young people to health and information services that are youth friendly
+9. To provide access for all young people to health and information services that are youth friendly
 
-- To further understand the situation of disabled young people throughout the country
+10. To further understand the situation of disabled young people throughout the country
 
 #### 8.1.3 Employment and Training
 
-Young  people  in  Bhutan  are  committed  to  take  up  acceptable employment so that they can serve the country and honour the sacrifice that their parents have made to ensure their education. Despite this, the opportunity of gainful employment for young people presents one of the key challenges in Bhutan today. Factors affecting youth employment, unemployment and under- employment can be attributed to demand and supply and include: rapid population growth (youth demographic profile),  significant  growth  of  school  enrolment,  limited  employment absorption capacity in the public sector, underdevelopment of the private sector,  rising  trend  of  rural-urban  migration,  limited  employmentrelevant  education  and  training  that  results  in  young  people  leaving school without the skills needed for employment and the expectations of high salary on the part of the educated youth entering the economy.
+Young people in Bhutan are committed to take up acceptable employment so that they can serve the country and honour the sacrifice that their parents have made to ensure their education. Despite this, the
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -573,6 +634,7 @@ NATIONAL YOUTH POLICY - 2011
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+opportunity of gainful employment for young people presents one of the key challenges in Bhutan today. Factors affecting youth employment, unemployment and under- employment can be attributed to demand and supply and include: rapid population growth (youth demographic profile), significant growth of school enrolment, limited employment absorption capacity in the public sector, underdevelopment of the private sector, rising trend of rural-urban migration, limited employment-relevant education and training that results in young people leaving school without the skills needed for employment and the expectations of high salary on the part of the educated youth entering the economy.
 
 Unemployment  in  Bhutan  disproportionately  affects  young  people. The highest rates of unemployment are in the ages between 15-19 and 20-24. The youth unemployment rate has increased from 9.9% in 2007 to 12.9% in 2009. Although youth unemployment has been increasing, there  has  been  strong  demand  for  skilled  workers  and  those  with market-relevant  education.  In  contrast,  many  early  school-leavers who enter the labour market are regarded as unemployable since they lack necessary skills and functional literacy.
 
@@ -594,9 +656,9 @@ Unemployment  in  Bhutan  disproportionately  affects  young  people. The highes
 
 ##### Policy Statements
 
-- To enable all young people to actively participate in the world of work
+11. To enable all young people to actively participate in the world of work
 
-- To enable young people to attain vocational skills commensurate
+12. To enable young people to attain vocational skills commensurate
 
 20
 
@@ -608,11 +670,11 @@ NATIONAL YOUTH POLICY - 2011
 
 with their abilities and aptitudes
 
-- To  promote  entrepreneurship  capacity  in  all  young  people (both in and out of school)
+13. To promote entrepreneurship capacity in all young people (both in and out of school)
 
-- To support and assist employable youth for a certain period of time before they are gainfully employed
+14. To support and assist employable youth for a certain period of time before they are gainfully employed
 
-- To encourage young people to take up farming as an acceptable form of self-employment
+15. To encourage young people to take up farming as an acceptable form of self-employment
 
 ### 8. 2 The Environment and Youth
 
@@ -626,11 +688,11 @@ Bhutan  has  always  given  high  priority  to  the  preservation  of  its envir
 
 ##### Policy Statements
 
-- To educate young people on local and global environmental issues, create awareness and develop action oriented plans to tackle national environmental concerns.
+16. To educate young people on local and global environmental issues, create awareness and develop action oriented plans to tackle national environmental concerns.
 
-- To promote  environmental  national  service  programmes throughout Bhutan for young people.
+17. To promote environmental national service programmes throughout Bhutan for young people.
 
-- To raise awareness on the national natural resources and ways to conserve these resources e.g. water, forest etc.
+18. To raise awareness on the national natural resources and ways to conserve these resources e.g. water, forest etc.
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -662,11 +724,11 @@ Youth  culture  is  evolving  and  undergoing  constant  change.  It  is importa
 
 ##### Policy Statements
 
-- To inform, impart and educate young people on the values and importance of maintaining culture and traditions of Bhutan
+19. To inform, impart and educate young people on the values and importance of maintaining culture and traditions of Bhutan
 
 #### 8.3.2 Social environment
 
-As a consequence of globalization, one of the biggest challenges facing our society today is the connection between two generations of parents with strong traditional values and communal ties and their children with diminished interest to their families, community and society at large. This has fuelled rural urban migration, with many youth settling in  cities  for  better  economic  opportunities,  lifestyle,  comradeship and independence. This has also given rise to the increasing trends of crime and other psycho-social problems involving youth.
+As a consequence of globalization, one of the biggest challenges facing our society today is the connection between two generations of parents with strong traditional values and communal ties and their children
 
 22
 
@@ -675,6 +737,7 @@ NATIONAL YOUTH POLICY - 2011
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+with diminished interest to their families, community and society at large. This has fuelled rural urban migration, with many youth settling in cities for better economic opportunities, lifestyle, comradeship and independence. This has also given rise to the increasing trends of crime and other psycho-social problems involving youth.
 
 ##### Critical issues
 
@@ -690,17 +753,17 @@ NATIONAL YOUTH POLICY - 2011
 
 ##### Policy Statements
 
-- To promote a family value system that nurtures a closer bond between men and women, and ensures equality, mutual respect and sharing of responsibility between the sexes.
+20. To promote a family value system that nurtures a closer bond between men and women, and ensures equality, mutual respect and sharing of responsibility between the sexes.
 
-- To develop understanding between parents and children about the changing global world and implications for young people
+21. To develop understanding between parents and children about the changing global world and implications for young people
 
-- To promote media literacy among the youth to minimize the negative effects of both global and local media
+22. To promote media literacy among the youth to minimize the negative effects of both global and local media
 
-- To support young people who come into contact with the law
+23. To support young people who come into contact with the law
 
 #### 8.3.3 Recreation and sports
 
-Sports and recreation is a valuable means for personal development of young people. Besides promoting health, it enriches social relations, builds team work and leadership qualities, teaches personal discipline and develops fair play which are essential for life in society. In Bhutan, sports  have  been  encouraged  by  the  government  and  a  number  of agencies have been established, however limited financial support and great variations in the adequacy and standards of sporting facilities has inhibited its growth. This Policy therefore promotes the participation of young women and men in healthy recreation, responsible leisure and sporting activities through better coordination and provision of accessible facilities and services.
+Sports and recreation is a valuable means for personal development of young people. Besides promoting health, it enriches social relations, builds team work and leadership qualities, teaches personal discipline and develops fair play which are essential for life in society. In Bhutan, sports have been encouraged by the government and a number of agencies have been established, however limited financial support and great variations in the adequacy and standards of sporting facilities has
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -709,6 +772,7 @@ NATIONAL YOUTH POLICY - 2011
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+inhibited its growth. This Policy therefore promotes the participation of young women and men in healthy recreation, responsible leisure and sporting activities through better coordination and provision of accessible facilities and services.
 
 ##### Critical issues
 
@@ -722,9 +786,9 @@ NATIONAL YOUTH POLICY - 2011
 
 ##### Policy Statements
 
-- Encouragement  of  young  people  to  participate  in  sports, cultural (the arts, both traditional and modern) and recreational activities
+24. Encouragement of young people to participate in sports, cultural (the arts, both traditional and modern) and recreational activities
 
-- To provide adequate facilities for sports, cultural and recreational activities.
+25. To provide adequate facilities for sports, cultural and recreational activities.
 
 ### 8. 4 Governance and Youth
 
@@ -750,13 +814,13 @@ NATIONAL YOUTH POLICY - 2011
 
 ##### Policy Statements
 
-- To  promote  an  environment  that  encourages  young  people's participation in decision making
+26. To promote an environment that encourages young people's participation in decision making
 
-- To provide a platform for young people of all ages to contribute their views through the development of youth leadership and civic  duties  and  involvement  in  programmes  and  activities pertaining to national development
+27. To provide a platform for young people of all ages to contribute their views through the development of youth leadership and civic duties and involvement in programmes and activities pertaining to national development
 
-- To eliminate all forms of gender discrimination in every sphere
+28. To eliminate all forms of gender discrimination in every sphere
 
-- To facilitate young women's access to decision-making processes, professional positions and economic opportunities
+29. To facilitate young women's access to decision-making processes, professional positions and economic opportunities
 
 ## 9. Youth Rights and Responsibilities
 
@@ -842,7 +906,7 @@ NATIONAL YOUTH POLICY - 2011
 
 The Policy  recognizes  that  an  inter-sectoral  approach  is  a  pre-requisite  for dealing with youth- related issues. An issue that is manifesting in one area (e.g.  drug use as a health and legal problem, or mental health as a specific health issue) may be most powerfully addressed by investing energy in other areas (eg. at the level of education, employment, spirituality and meaningful role  for  young  people  in  communities).  Although  a  number  of  existing agencies have programmes targeted at youth, they are often duplicated, work in isolation and become unsustainable. Therefore while the involvement of all agencies/organizations concerned with youth matters is necessary, they must complement each other and be responsive to the needs and opportunities of young people. Given the existing strong political commitment for youth by the government, the agencies within it will act as the main agents, however the  role  and  contributions  of  the  non-governmental  organizations,  youth groups and the private sector is equally essential. A strong sense of ownership for the Policy must be generated by all parties through intense advocacy and establishment of appropriate collaborative mechanisms. Towards this end the Policy makes the following recommendations:
 
-- An  integrated,  cross-sectoral  and  interdisciplinary  approach  to  the issues of young people's development and the mainstreaming of youth
+1. An integrated, cross-sectoral and interdisciplinary approach to the issues of young people's development and the mainstreaming of youth
 
 NATIONAL YOUTH POLICY - 2011
 
@@ -852,29 +916,29 @@ NATIONAL YOUTH POLICY - 2011
 
 [[START OF PAGE 28]]
 
-- issues  within  national  goals  and  programmes  including,  but  not limited to programmes in education, training, health and employment
+issues within national goals and programmes including, but not limited to programmes in education, training, health and employment
 
-- The Department of Youth and Sports, MoE, to be the lead agency for facilitating convergence in youth related schemes. It must be provided with adequate government authority, strong financial backing, appropriate human resource support and be positioned strategically to fulfill its mandate for developing youth as outlined in this Policy. It should therefore undertake the following activities:
+2. The Department of Youth and Sports, MoE, to be the lead agency for facilitating convergence in youth related schemes. It must be provided with adequate government authority, strong financial backing, appropriate human resource support and be positioned strategically to fulfill its mandate for developing youth as outlined in this Policy. It should therefore undertake the following activities:
 
-- Promote and popularize the Policy to reach all major stakeholders, create  awareness  among  a  mass  audience  and  use  innovative means to mobilize and garner support from young people.
+    a. Promote and popularize the Policy to reach all major stakeholders, create awareness among a mass audience and use innovative means to mobilize and garner support from young people.
 
-- Create and establish appropriate mechanisms and structures for coordination  and  implementation  of  the  Policy  including  units for monitoring and evaluation, research and information.
+    b. Create and establish appropriate mechanisms and structures for coordination and implementation of the Policy including units for monitoring and evaluation, research and information.
 
-- Formulate  a  national  youth  action  plan  and  develop  specific projects in partnership with all stakeholders and define respective spheres of work that complement and enhance each other.
+    c. Formulate a national youth action plan and develop specific projects in partnership with all stakeholders and define respective spheres of work that complement and enhance each other.
 
-- Advise other agencies and organization on timelines and indicators for meeting commitments as outlined in the national youth action plan.
+    d. Advise other agencies and organization on timelines and indicators for meeting commitments as outlined in the national youth action plan.
 
-- Collaborate with other relevant agencies to evaluate  youth programmes and projects, prepare regular reports on programme performance and disseminate findings among stakeholders.
+    e. Collaborate with other relevant agencies to evaluate youth programmes and projects, prepare regular reports on programme performance and disseminate findings among stakeholders.
 
-- Ensure youth participation in the planning and implementation of the projects
+    f. Ensure youth participation in the planning and implementation of the projects
 
-- Advocate  for  and  mobilize  resources  in  partnership  with  other relevant  agencies  to  support  and  fund  youth  programmes  and activities
+    g. Advocate for and mobilize resources in partnership with other relevant agencies to support and fund youth programmes and activities
 
-- Act as the voice and bridge between the government and other decision  makers  such  that  the  former  is  kept  informed  of  the views and aspirations of youth who in turn are made aware about programmes and initiatives that affect their lives.
+    h. Act as the voice and bridge between the government and other decision makers such that the former is kept informed of the views and aspirations of youth who in turn are made aware about programmes and initiatives that affect their lives.
 
-- Set  standards  and  quality  assurance  for  services  and  personnel that work with young people
+    i. Set standards and quality assurance for services and personnel that work with young people
 
-- Establish a networking  group  of  crucial  stakeholders in  youth development  including  government  ministries,  departments,  non
+3. Establish a networking group of crucial stakeholders in youth development including government ministries, departments, non
 
 28
 
@@ -886,7 +950,7 @@ NATIONAL YOUTH POLICY - 2011
 
 government organizations, the private sector and young people that will provide the necessary cooperation, coordination and collaboration that  is  critical  for  effective  youth  development.  This  group  will  also monitor  and  review  the  implementation  of  the  youth  activities periodically.
 
-- Institute  a  Y outh  Advisory  Committee  that  includes  all  sectors  of young people to provide Department of Youth and Sports with 'Youth Voice' feedback on the implementation of the National Youth Policy.
+4. Institute a Youth Advisory Committee that includes all sectors of young people to provide Department of Youth and Sports with 'Youth Voice' feedback on the implementation of the National Youth Policy.
 
 ### 10.2 National Youth Action Plan
 
@@ -960,6 +1024,8 @@ NATIONAL YOUTH POLICY - 2011
 
 [[START OF PAGE 32]]
 
+## Appendix 1
+
 ### Acknowledgements
 
 The Department of Youth and Sports, Ministry of Education is indebted to many organizations and people who have contributed to the development of this Policy. We would like to thank all those involved for giving us their time and sharing their knowledge.
@@ -973,8 +1039,6 @@ In particular, we wish to thank:
 - All	the	Stakeholders	both	governmental	and	non	governmental	and
 
 - All	young	people	involved	in	the	discussions/interviews
-
-## Appendix 1
 
 32
 
@@ -1004,33 +1068,33 @@ NATIONAL YOUTH POLICY - 2011
 
 - Jigme Dorji Wangchuck National Referral Hospital
 
-#### Ministry of Labour and Human Resources
+#### 3. Ministry of Labour and Human Resources
 
 - Department of Labour
 
 - Department of Employment
 
-#### Ministry of Agriculture
+#### 4. Ministry of Agriculture
 
 - Department of Agriculture
 
-#### Royal University of Bhutan
+#### 5. Royal University of Bhutan
 
-#### Royal Court of Justice, High Court, Thimphu
+#### 6. Royal Court of Justice, High Court, Thimphu
 
-#### Royal Bhutan Police
+#### 7. Royal Bhutan Police
 
 - Women and Child Protection Unit
 
 - Thimphu Division
 
-#### National Commission on Women and Children
+#### 8. National Commission on Women and Children
 
-#### Bhutan Narcotic Control Agency
+#### 9. Bhutan Narcotic Control Agency
 
-#### National Statistical Bureau
+#### 10. National Statistical Bureau
 
-#### Dratshang Lhentshog
+#### 11. Dratshang Lhentshog
 
 NATIONAL YOUTH POLICY - 2011
 
