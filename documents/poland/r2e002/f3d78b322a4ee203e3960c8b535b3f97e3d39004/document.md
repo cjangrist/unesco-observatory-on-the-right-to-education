@@ -120,7 +120,7 @@ The Republic of Poland shall ensure freedom of the press and other means of soci
 
 #### Article 16
 
-- The inhabitants of the units of basic territorial division shall form a selfgoverning community in accordance with law.
+- The inhabitants of the units of basic territorial division shall form a self-governing community in accordance with law.
 
 - Local government shall participate in the exercise of public power. The substantial part of public duties which local government is empowered to discharge by statute shall be done in its own name and under its own responsibility.
 
@@ -196,7 +196,7 @@ Polish shall be the official language in the Republic of Poland. This provision 
 
 - White and red shall be the colours of the Republic of Poland.
 
-"D ą browski's Mazurka" shall be the national anthem of the Republic of Poland.
+"Dąbrowski's Mazurka" shall be the national anthem of the Republic of Poland.
 
 - The coat-of-arms, colours and national anthem of the Republic of Poland shall be subject to legal protection.
 
@@ -298,7 +298,7 @@ No one may be subjected to torture or cruel, inhuman, or degrading treatment or 
 
 - Only a person who has committed an act prohibited by a statute in force at the moment of commission thereof, and which is subject to a penalty, shall be held criminally responsible. This principle shall not prevent punishment of any act which, at the moment of its commission, constituted an offence within the meaning of international law.
 
-- Anyone against whom criminal proceedings have been brought shall have the right to defence at all stages of such proceedings. He may, in particular, choose counsel or avail himself - in accordance with principles specified by statute of counsel appointed by the court.
+- Anyone against whom criminal proceedings have been brought shall have the right to defence at all stages of such proceedings. He may, in particular, choose counsel or avail himself - in accordance with principles specified by statute - of counsel appointed by the court.
 
 - Everyone shall be presumed innocent of a charge until his guilt is determined by the final judgment of a court.
 
@@ -534,7 +534,7 @@ Public authorities shall provide, in accordance with statute, aid to disabled pe
 
 - Education in public schools shall be without payment. Statutes may allow for payments for certain services provided by public institutions of higher education.
 
-- Parents shall have the right to choose schools other than public for their children. Citizens and institutions shall have the right to establish primary and secondary schools and institutions of higher education and educational development institutions. The conditions for establishing and operating nonpublic schools, the participation of public authorities in their financing, as well as the principles of educational supervision of such schools and educational development institutions, shall be specified by statute.
+- Parents shall have the right to choose schools other than public for their children. Citizens and institutions shall have the right to establish primary and secondary schools and institutions of higher education and educational development institutions. The conditions for establishing and operating non-public schools, the participation of public authorities in their financing, as well as the principles of educational supervision of such schools and educational development institutions, shall be specified by statute.
 
 - Public authorities shall ensure universal and equal access to education for citizens. To this end, they shall establish and support systems for individual financial and organizational assistance to pupils and students. The conditions for providing of such assistance shall be specified by statute.
 
@@ -1474,7 +1474,7 @@ Members of a self-governing community may decide, by means of a referendum, matt
 
 [[START OF PAGE 39]]
 
-- The organs exercising review over the activity of units of local government shall be: the Prime Minister and voivods and regarding financial matters regional audit chambers.
+- The organs exercising review over the activity of units of local government shall be: the Prime Minister and voivods and regarding financial matters - regional audit chambers.
 
 - On a motion of the Prime Minister, the Sejm may dissolve a constitutive organ of local government if it has flagrantly violated the Constitution or a statute.
 
@@ -1630,7 +1630,7 @@ The Constitutional Tribunal shall settle disputes over authority between central
 
 [[START OF PAGE 43]]
 
-- manner and on principles specified in provisions applicable to the given proceedings.
+manner and on principles specified in provisions applicable to the given proceedings.
 
 - Judgments of the Constitutional Tribunal shall be made by a majority of votes.
 
@@ -1704,7 +1704,7 @@ The organization of the Constitutional Tribunal, as well as the mode of proceedi
 
 [[START OF PAGE 45]]
 
-- of the Sejm from amongst those who are not Deputies or Senators. The deputy chairpersons of the Tribunal and at least one half of the members of the Tribunal shall possess the qualifications required to hold the office of judge.
+of the Sejm from amongst those who are not Deputies or Senators. The deputy chairpersons of the Tribunal and at least one half of the members of the Tribunal shall possess the qualifications required to hold the office of judge.
 
 - The First President of the Supreme Court shall be chairperson of the Tribunal of State.
 
@@ -1848,7 +1848,7 @@ The organization of the State Treasury and the manner of management of the asset
 
 #### Article 219
 
-- The Sejm shall adopt the State budget for a fiscal year by means of a Budget [ ustawa bud ż etowa - budgetary statute].
+- The Sejm shall adopt the State budget for a fiscal year by means of a Budget [ustawa budżetowa - budgetary statute].
 
 - The principles of and procedure for preparation of a draft State Budget, the level of its detail and the requirements for a draft State Budget, as well as the principles of and procedure for implementation of the Budget, shall be specified by statute.
 
@@ -1858,9 +1858,9 @@ The organization of the State Treasury and the manner of management of the asset
 
 [[START OF PAGE 49]]
 
-- relating to a draft State Budget shall apply, as appropriate, to a draft interim budget.
+relating to a draft State Budget shall apply, as appropriate, to a draft interim budget.
 
-- 4. If a State Budget or an interim budget have not come into force on the day of commencement of a fiscal year, the Council of Ministers shall manage State finances pursuant to the draft Budget.
+- If a State Budget or an interim budget have not come into force on the day of commencement of a fiscal year, the Council of Ministers shall manage State finances pursuant to the draft Budget.
 
 #### Article 220
 
@@ -1950,11 +1950,13 @@ In the case of external threats to the State, acts of armed aggression against t
 
 #### Article 231
 
-The President of the Republic shall submit the regulation on the introduction of martial law or a state of emergency to the Sejm within 48 hours of signing such regulation. The Sejm shall immediately consider the regulation of the President. The Sejm, by an absolute majority of votes taken in the presence of at least half the statutory number of Deputies, may annul the regulation of the President.
+The President of the Republic shall submit the regulation on the introduction of martial law or a state of emergency to the Sejm within 48 hours of signing such regulation. The Sejm shall immediately consider the regulation of the President. The Sejm, by an absolute majority of
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+votes taken in the presence of at least half the statutory number of Deputies, may annul the regulation of the President.
 
 #### Article 232
 
