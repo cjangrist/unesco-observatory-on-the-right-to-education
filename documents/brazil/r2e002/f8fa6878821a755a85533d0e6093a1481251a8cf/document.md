@@ -177,7 +177,7 @@ A oferta de programas de pós-graduação strictosensuna modalidade a distância
 Capes, observadas as diretrizes e os pareceres do Conselho Nacionalde Educação.
 
 #### Art.  19.
-A  oferta  de  cursos  superiores  na  modalidade  a  distânciaadmitirá  regime  de  parceria entre a instituição de ensino credenciadapara  educação  a  distância e outras pessoas  jurídicas, preferencialmenteem instalações da instituição de ensino, exclusivamentepara fins de funcionamento de polo  de  educação  a  distância,  naforma  a  ser  estabelecida  em  regulamento  e  respeitado  o  limite dacapacidade de atendimento de estudantes.
+A  oferta  de  cursos  superiores  na  modalidade  a  distânciaadmitirá  regime  de  parceria entre a instituição de ensino credenciadapara  educação  a  distância e outras pessoas  jurídicas, preferencialmenteem instalações da instituição de ensino, exclusivamentepara fins de funcionamento de
 
 https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/20238603/do1-2017-05-26-decreto-n-9-057-de-25-de-maio-de-2017-20238503
 
@@ -190,6 +190,8 @@ https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/20238603
 26/03/2021
 
 DECRETO Nº 9.057, DE 25 DE MAIO DE 2017 - Imprensa Nacional
+
+polo de educação a distância, naforma a ser estabelecida em regulamento e respeitado o limite dacapacidade de atendimento de estudantes.
 
 ##### §  1º
 A  parceria  de  que  trata  o  caputdeverá  ser  formalizadaem  documento  próprio,  o  qual conterá as obrigações das entidadesparceiras e estabelecerá a responsabilidade exclusiva da instituição deensino credenciada para educação a distância ofertante do curso quantoa:
@@ -244,7 +246,7 @@ As  instituições  de  ensino  poderão  optar  pelo  não  arquivamentodos  en
 #### Art. 24.
 Ficam revogados:
 
-I - o Decreto nº 5.622, de 19 de dezembro de 2005; e II - o art. 1º do Decreto nº 6.303, de 12 de dezembro de 2007.
+I - o Decreto nº 5.622, de 19 de dezembro de 2005; e
 
 https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/20238603/do1-2017-05-26-decreto-n-9-057-de-25-de-maio-de-2017-20238503
 
@@ -258,6 +260,8 @@ https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/20238603
 
 DECRETO Nº 9.057, DE 25 DE MAIO DE 2017 - Imprensa Nacional
 
+II - o art. 1º do Decreto nº 6.303, de 12 de dezembro de 2007.
+
 #### Art. 25.
 Este Decreto entra em vigor na data de sua publicação.
 
@@ -265,11 +269,12 @@ Brasília, 25 de maio de 2017; 196º da Independência e 129ºda República.
 
 MICHEL TEMER
 
-Este conteúdo não substitui o publicado na versão certificada.
+JOSÉ MENDONÇA
+BEZERRA FILHO
 
 MICHEL TEMER
 
-JOSÉ MENDONÇA BEZERRA FILHO
+Este conteúdo não substitui o publicado na versão certificada.
 
 https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/20238603/do1-2017-05-26-decreto-n-9-057-de-25-de-maio-de-2017-20238503
 
