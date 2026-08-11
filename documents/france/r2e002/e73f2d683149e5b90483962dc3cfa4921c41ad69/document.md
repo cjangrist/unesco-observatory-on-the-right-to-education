@@ -1,12 +1,18 @@
 [[START OF PAGE 1]]
 
+Liberté • Égalité • Fraternité
+RÉPUBLIQUE FRANÇAISE
+
 PREMIER MINISTRE
+
+# LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 # PLAN NATIONAL 2015-2017
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 ## INTRODUCTION
 
@@ -19,8 +25,6 @@ La République ne peut tolérer aucune zone de non-droit. Elle ne peut pas davan
 En matière de racisme, aucun acte n'est anodin. Chacun affaiblit la République, et l'affaiblit d'autant plus qu'il est laissé sans réponse. Or, il y a eu des dérives. Elles ne sont pas seulement une menace pour ceux qui en sont les victimes, citoyens français de confession juive, de confession musulmane, et plus largement tous ceux qui sont victimes de racisme et de discrimination en raison de leur couleur de peau, de leurs origines ou de leurs croyances : ces dérives portent atteinte au pacte républicain. Elles fragilisent jusqu'à la possibilité pour la communauté nationale de continuer à vivre ensemble, dans le respect des lois de la République et dans l'amour partagé de ses valeurs.
 
 En cohérence avec les priorités fixées par le Président de la République et le Gouvernement pour prolonger et amplifier le sursaut citoyen qui a fait suite aux attentats de janvier, le plan de lutte contre le racisme et l'antisémitisme développe quatre priorités :
-
-.notdef
 
 ◗ Mobiliser la Nation
 
@@ -35,6 +39,7 @@ En cohérence avec les priorités fixées par le Président de la République et
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 Ce plan s'appuie sur des mesures fortes, notamment :
 
@@ -63,6 +68,7 @@ Le DILCRA rendra compte annuellement de la mise en œuvre du plan à la représe
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 ## 1. CONTRE LE RACISME ET L'ANTISÉMITISME, UNE MOBILISATION NATIONALE
 
@@ -99,6 +105,7 @@ Afin de mobiliser plus largement encore, il faut aller au-delà :
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 ◗ Identifier des grands parrains par corps de métiers afin de mettre en avant, dans les milieux les plus divers, la question du vivre-ensemble, les phénomènes de discrimination, mais aussi les figures positives de l'intégration qui n'accèdent pas forcément au vedettariat : enseignants, policiers, militaires, métiers de la restauration et de l'hôtellerie, journalistes, professions médicales, professions du secours, artisans …
 
@@ -126,13 +133,14 @@ Ce plan territorial devra dorénavant figurer obligatoirement dans les futurs co
 
 Défini au plus près des réalités et des spécificités propres à chaque territoire, ce volet local permettra de mettre en avant le rôle central des maires dans la promotion de la citoyenneté, la lutte contre les discriminations et contre le racisme et l'antisémitisme , y compris en matière de pédagogie de la sanction.
 
-I l est proposé d'abonder de 5 M€ de mesures nouvelles les plans territoriaux de lutte contre le racisme et l'antisémitisme , insérés principalement dans les contrats de ville, pour financer de nouvelles actions. Au total, l'enveloppe financière déconcentrée pour la lutte contre le racisme et l'antisémitisme sera, compte tenu des mesures nouvelles et des regroupements de crédits existants, de 25 M€ par an .
+Il est proposé d'abonder de 5 M€ de mesures nouvelles les plans territoriaux de lutte contre le racisme et l'antisémitisme, insérés principalement dans les contrats de ville, pour financer de nouvelles actions. Au total, l'enveloppe financière déconcentrée pour la lutte contre le racisme et l'antisémitisme sera, compte tenu des mesures nouvelles et des regroupements de crédits existants, de 25 M€ par an.
 
 - 6 -
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 Le volet citoyenneté doit aussi gagner en lisibilité : il faut donc l'identifier en tant que tel, et regrouper notamment sous cette dénomination les actions en faveur de la promotion de la citoyenneté et de la laïcité, de la lutte contre les discriminations, du soutien à la parentalité, de la formation à l'usage d'internet et des médias, du dialogue inter-culturel, de l'amélioration de la relation police-population, de l'accès à la culture et à la connaissance de l'histoire.
 
@@ -165,6 +173,7 @@ Comme en matière de délinquance générale, la connaissance des actes et des p
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 #### Action 10 . Publier chaque année le bilan des condamnations prononcées par les juridictions pour les différentes incriminations relevant du racisme, de l'antisémitisme, de la discrimination raciale ou de la négation/apologie de crimes contre l'humanité
 
@@ -186,13 +195,16 @@ Plusieurs affaires récentes l'ont illustré : des actes de délinquance ordinai
 
 La peine de travail d'intérêt général a pour objet de faire travailler une personne condamnée qui en a accepté le principe auprès d'une structure publique ou associative. Elle permet souvent une prise de conscience de la  gravité  des  faits  tout  en  évitant  la  désocialisation  du  condamné.  Il  convient  donc  que,  dans  un  but pédagogique, les procureurs de la République et les services pénitentiaires d'insertion et de probation se mobilisent afin de développer les postes de travail d'intérêt général auprès d'associations promouvant le travail de mémoire, la remise en état d'édifices cultuels ou culturels endommagés, etc.
 
-Une autre peine mérite d'être davantage utilisée : les stages de citoyenneté . Ces stages doivent rappeler de manière générale au condamné les valeurs républicaines de tolérance et de respect de la dignité humaine sur lesquelles est fondée la société et lui faire prendre conscience de sa responsabilité pénale et civile ainsi que des devoirs qu'implique la vie en société. De plus, le code prévoit que « lorsque [le stage de citoyenneté] concerne une personne condamnée pour une infraction commise avec la circonstance aggravante prévue par l'article 132-76, il rappelle en outre à l'intéressé l'existence des crimes contre l'humanité, notamment ceux commis pendant la seconde guerre mondiale ». Les stages de citoyenneté devront désormais comporter un module spécifique relatif à la lutte contre le racisme et l'antisémitisme. En outre, dans les plus gros bassins de population ou ceux dans lesquels les infractions racistes et antisémites sont les plus fréquentes, il est nécessaire que des stages de citoyenneté spécifiques à ces infractions soient mis en place en lien avec les structures associatives.
+Une autre peine mérite d'être davantage utilisée : les stages de citoyenneté. Ces stages doivent rappeler de manière générale au condamné les valeurs républicaines de tolérance et de respect de la dignité humaine sur lesquelles est fondée la société et lui faire prendre conscience de sa responsabilité pénale et civile ainsi que des devoirs qu'implique la vie en société. De plus, le code prévoit que « lorsque [le stage de citoyenneté] concerne une personne condamnée pour une infraction commise avec la circonstance aggravante prévue par l'article 132-76, il rappelle en outre à l'intéressé l'existence des crimes contre l'humanité, notamment
 
 - 8 -
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
+
+ceux commis pendant la seconde guerre mondiale ». Les stages de citoyenneté devront désormais comporter un module spécifique relatif à la lutte contre le racisme et l'antisémitisme. En outre, dans les plus gros bassins de population ou ceux dans lesquels les infractions racistes et antisémites sont les plus fréquentes, il est nécessaire que des stages de citoyenneté spécifiques à ces infractions soient mis en place en lien avec les structures associatives.
 
 ### Axe 3 : Protéger et soutenir les victimes
 
@@ -227,10 +239,11 @@ En revanche, face à la propagation de la haine, des théories complotistes et n
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 ### Axe 1 : Renforcer la responsabilité des plates-formes du numérique
 
-#### Action 17 . Faire obligation aux hébergeurs de contenus destinés au public français 1 de disposer d'une représentation juridique en France
+#### Action 17. Faire obligation aux hébergeurs de contenus destinés au public français¹ de disposer d'une représentation juridique en France
 
 Le droit communautaire protège la liberté d'installation des entreprises. Cette liberté peut cependant admettre des restrictions proportionnées à un but d'intérêt général. En l'espèce, l'objectif de protéger les utilisateurs finaux  d'internet,  notamment  les  plus  jeunes,  justifie  l'instauration  publique  d'une  obligation,  pour  les hébergeurs exerçant une activité à destination du public français, d'être juridiquement représenté en France.
 
@@ -250,7 +263,7 @@ Cette instance aurait pour objet de coordonner les acteurs institutionnels charg
 
 ◗ L'animation des « cyberpatrouilles » destinées à traquer les contenus illicites, à rechercher sur Internet les propos racistes et antisémites les plus emblématiques, les plus repris, les plus partagés, et à réaliser des enquêtes permettant l'identification de leurs auteurs afin qu'ils soient présentés à la Justice ;
 
-◗ L'élaboration et la mise en application d'un cahier des charges contraignant pour les platesformes : mentions obligatoires et explicites dans les conditions générales d'utilisation, avertissements de modération visibles sur les pages d'accueil, mise en place de moyens humains suffisants pour modérer, procédure de déréférencement, obligation de signalement sans délai d'un contenu illicite à l'Agence, désactivation du profil après mise en demeure, etc. ;
+◗ L'élaboration et la mise en application d'un cahier des charges contraignant pour les plates-formes : mentions obligatoires et explicites dans les conditions générales d'utilisation, avertissements de modération visibles sur les pages d'accueil, mise en place de moyens humains suffisants pour modérer, procédure de déréférencement, obligation de signalement sans délai d'un contenu illicite à l'Agence, désactivation du profil après mise en demeure, etc. ;
 
 ◗ L'édiction de recommandations, d'avertissements et, en cas de non-respect, de sanctions financières à l'encontre des plates-formes ;
 
@@ -263,6 +276,7 @@ Cette instance aurait pour objet de coordonner les acteurs institutionnels charg
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 #### Action 19 . Rendre possible le recours à l'ordonnance pénale en matière d'injures racistes
 
@@ -278,7 +292,7 @@ Un premier niveau de réponse, préalable à une éventuelle sanction et à l'ac
 
 #### Action 21 . Outiller les associations pour promouvoir un contre-discours efficace
 
-Dès le printemps, un groupe de travail rassemblera quelques associations pilotes, les acteurs du net (platesformes grand public, mais aussi des influenceurs, des community managers , des acteurs de la e-réputation), des chercheurs, psychologues et sociologues, afin de prototyper une boîte à outils de riposte en ligne : outils d'analyse automatique des conversations et des audiences, générateurs de « mèmes », de GIF animés … Cette démarche pourrait être généralisée fin 2015.
+Dès le printemps, un groupe de travail rassemblera quelques associations pilotes, les acteurs du net (plates-formes grand public, mais aussi des influenceurs, des community managers, des acteurs de la e-réputation), des chercheurs, psychologues et sociologues, afin de prototyper une boîte à outils de riposte en ligne : outils d'analyse automatique des conversations et des audiences, générateurs de « mèmes », de GIF animés … Cette démarche pourrait être généralisée fin 2015.
 
 #### Action 22 . Mettre à contribution les Espaces publics numériques
 
@@ -297,6 +311,7 @@ Mieux lutter contre le racisme et l'antisémitisme implique au préalable de mie
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 #### Action 23 . Créer un Conseil scientifique auprès du DILCRA
 
@@ -333,6 +348,7 @@ Dans le cadre du travail d'appropriation par la communauté éducative de la Cha
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 #### Action 26 . Accompagner les équipes éducatives confrontées à des incidents
 
@@ -369,6 +385,7 @@ La France dispose de grandes institutions, telles que le Musée pour l'histoire 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 Les ressources extrêmement riches que ces institutions mettent à disposition du public rendent compte de l'histoire et des mémoires des Français, notamment issus des immigrations successives qui composent la France d'aujourd'hui. Elles peuvent être complétées, au niveau local par la découverte d'innombrables lieux de mémoires, de collections muséales, de centres d'archives (nationales, départementales, collections privées).
 
@@ -401,6 +418,7 @@ Les conseillers sectoriels (musées, architecture et patrimoine, ...) et transve
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 ◗ Engager à cet effet, avec l'INA, un programme de formation à la lecture et à l'usage de l'image et des réseaux sociaux, à destination des éducateurs et des cadres associatifs engagés dans la lutte contre le racisme et l'antisémitisme.
 
@@ -412,7 +430,7 @@ Les conseillers sectoriels (musées, architecture et patrimoine, ...) et transve
 
 Comment mieux répondre au défi d'intégrer les jeunes, notamment ceux des quartiers populaires, dans toutes les dimensions de la vie collective : formation, emploi, culture, participation politique et associative ? Comment aller à la rencontre de ceux qui ont envie, qui veulent s'engager, qui fournissent les efforts, mais qui butent contre un plafond de verre ?
 
-Il sera proposé à ces jeunes de bénéficier d'un parrainage citoyen, c'est-à-dire un suivi personnalisé, durant deux ans, par un adulte volontaire issu de la réserve citoyenne .  Il  s'agit  d'offrir ainsi aux jeunes la possibilité d' approfondir leur appropriation des valeurs républicaines, de s'impliquer dans la vie de la collectivité sous diverses formes (service civique, participation aux conseils citoyens, bénévolat…), de bénéficier à cette fin des formations nécessaires, et plus largement d'avoir un accès facilité à un certain nombre de ressources publiques (par exemple la visite accompagnée d'une institution officielle, d'un stage d'immersion dans un service de police ou auprès des armées…). Le parrain facilitera en outre ses démarches de formation et d'insertion professionnelle.
+Il sera proposé à ces jeunes de bénéficier d'un parrainage citoyen, c'est-à-dire un suivi personnalisé, durant deux ans, par un adulte volontaire issu de la réserve citoyenne. Il s'agit d'offrir ainsi aux jeunes la possibilité d'approfondir leur appropriation des valeurs républicaines, de s'impliquer dans la vie de la collectivité sous diverses formes (service civique, participation aux conseils citoyens, bénévolat…), de bénéficier à cette fin des formations nécessaires, et plus largement d'avoir un accès facilité à un certain nombre de ressources publiques (par exemple la visite accompagnée d'une institution officielle, d'un stage d'immersion dans un service de police ou auprès des armées…). Le parrain facilitera en outre ses démarches de formation et d'insertion professionnelle.
 
 Le jeune s'engagera dans la réalisation d'un projet personnel , susceptible de prendre diverses formes : service civique de façon privilégiée, mais aussi action bénévole, engagement associatif, stage dans un service public ou projet artistique.
 
@@ -441,6 +459,7 @@ La semaine d'éducation contre le racisme et l'antisémitisme a vocation à deve
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+LA RÉPUBLIQUE MOBILISÉE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 Localement, elle pourra prendre la forme d'une organisation annuelle d'« Assises de la Fraternité » organisées par les préfets dans tous les départements, qui seront l'occasion de faire se rencontrer tous les acteurs publics, privés et associatifs qui œuvrent pour promouvoir le vivre ensemble.
 
@@ -483,6 +502,9 @@ Ce numéro permettra de répondre à leurs interrogations face aux gestes et par
 Contact presse : 01 42 75 50 78/79 - communication@pm.gouv.fr
 
 Contact DILCRA : 01 40 15 71 29
+
+DILCRA
+DÉLÉGATION INTERMINISTÉRIELLE À LA LUTTE CONTRE LE RACISME ET L'ANTISÉMITISME
 
 PLAN NATIONAL 2015 - 2017
 
