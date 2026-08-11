@@ -290,7 +290,7 @@ The King can prescribe supplementary regulations regarding requirements for acco
 
 ### Section 15. Parents' fees
 
-The King may prescribe regulations containing further provisions regarding parents' fees at kindergartens, including a discount for siblings, incomebased differentiation of payment and maximum payments.
+The King may prescribe regulations containing further provisions regarding parents' fees at kindergartens, including a discount for siblings, income-based differentiation of payment and maximum payments.
 
 ### Section 16. Supervision
 
@@ -428,11 +428,11 @@ Insofar as possible, the offer of special educational assistance must be drawn u
 
 Once per year, a written overview must be prepared regarding the special educational assistance the child has received, as well as an assessment of the child's development. The parents and the municipality must receive this overview and the assessment.
 
-If the child welfare service has assumed care pursuant to Sections 4-8 or 4-12 of the Child Welfare Act, the child welfare services are entitled to make decisions pursuant to this chapter, on behalf of the child. This applies correspondingly for decisions regarding a ban on moving the child pursuant to Section 48 of the Child Welfare Act and placement decisions pursuant to Section 4-6 (2) of the Child Welfare Act.
+If the child welfare service has assumed care pursuant to Sections 4-8 or 4-12 of the Child Welfare Act, the child welfare services are entitled to make decisions pursuant to this chapter, on behalf of the child. This applies correspondingly for decisions regarding a ban on moving the child pursuant to Section 4-8 of the Child Welfare Act and placement decisions pursuant to Section 4-6 (2) of the Child Welfare Act.
 
 ### Section 19 c. Pedagogical-psychological service
 
-The municipality's pedagogical-psychological service is the expert authority in cases relating to special educational assistance. The pedagogicalpsychological service must ensure that the mandatory assessments are undertaken.
+The municipality's pedagogical-psychological service is the expert authority in cases relating to special educational assistance. The pedagogical-psychological service must ensure that the mandatory assessments are undertaken.
 
 The pedagogical-psychological service must assist the kindergarten in the work on competence and organisational development so as to tailor the kindergarten programme offered to children with special needs.
 
@@ -558,7 +558,7 @@ Notwithstanding the duty of confidentiality, public authorities can obtain infor
 
 ### Section 23. Health check-ups for children and staff
 
-Before a child starts to attend a kindergarten, a statement concerning the child's health must be presented. If the child has attended the local mother-andchild clinic for regular check-ups, such statement may be provided by the child's parents/guardians.
+Before a child starts to attend a kindergarten, a statement concerning the child's health must be presented. If the child has attended the local mother-and-child clinic for regular check-ups, such statement may be provided by the child's parents/guardians.
 
 The kindergarten staff are obliged to undergo check-ups for tuberculosis pursuant to current rules.
 
