@@ -2,13 +2,45 @@
 
 www.lawcommission.gov.np
 
-## Amending Acts:
-
 # Education Act, 2028 (1971)
 
 ## Date of Authentication and Publication
 
 2028/5/24 (9 Aug. 1971)
+
+## Amending Acts:
+
+1. Education (First Amendment) Act, 2033 (1976) 2033/7/4
+
+(20 Oct. 1976)
+
+2. Education (Second Amendment) Act, 2036 (1979) 2036/8/5
+
+(21 Nov. 1979)
+
+3. Education (Third Amendment) Act, 2037 (1980) 2037/5/26
+
+(11 Sept. 1980)
+
+4. Some Nepal Act Amendments Act, 2041 (1984) 2041/7/27
+
+(12 Nov. 1984)
+
+5. Judicial Administration Reform
+
+(Fourth Amendment) Act, 2043 (1986) 2043/7/24
+
+(10 Nov. 1986)
+
+6. Education (Fourth Amendment) Act, 2045 (1988) 2045/7/10
+
+(26 Oct. 1988)
+
+7. Education (Fifth Amendment) Act, 2049 (1992) 2049/7/13
+
+(29 Oct. 1992)
+
+8. Education (Sixth Amendment) Act, 2055 (1998) 2055/10/1
 
 1
 
@@ -20,45 +52,39 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- Education (Seventh Amendment) Act, 2058 (2001)
+(15 Jan. 1999)
 
-- Education and Sports Related some Nepal Acts
+9. Education (Seventh Amendment) Act, 2058 (2001) 2058-10-25
 
-Amendment Act, 2063 (2006)
+(7 Feb. 2002)
 
-- Republic Strengthening and Some Nepal Law
+10. Education and Sports Related some Nepal Acts
 
-Amendment Act, 2066
+Amendment Act, 2063 (2006) 2063-9-14
+
+(29 Dec. 2006)
+
+11. Republic Strengthening and Some Nepal Law
+
+Amendment Act, 2066 2066.10.7
+
+(21 Jan. 2010)
 
 Act No. 8 of the Year 2028 (1971)
 
 ## An Act Made to Provide for Education to be Given in the Schools According to the National Education System Plan
 
-## 1 Preamble :
-Whereas,  it  is  expedient  to  promote  quality  education  through improvements in the management of existing and future schools all over Nepal in  order to prepare human resource for national development and to maintain good  conduct,  decency  and  morality  of  the  people in general in consonance with multi-party democratic system,.
+## 1Preamble:
+Whereas, it is expedient to promote quality education through improvements in the management of existing and future schools all over Nepal in order to prepare human resource for national development and to maintain good conduct, decency and morality of the people in general in consonance with multi-party democratic system,.
 
-Now,  therefore,  be  it  enacted  by  His  Majesty  King  Mahendra  Bir Bikram Shah Dev upon the advice and consent of the Rastriya Panchayat .
+Now, therefore, be it enacted by His Majesty King Mahendra Bir Bikram Shah Dev upon the advice and consent of the Rastriya Panchayat.
 
-## Short title, extent and commencement :
+## 1. Short title, extent and commencement:
 (1) This Act may be called "Education Act, 2028 (1971).
 
-- This Act shall come into force throughout Nepal.
+(2) This Act shall come into force throughout Nepal.
 
 > 1 Amended by the Fifth Amendment.
-
-(15 Jan. 1999)
-
-2058-10-25
-
-(7 Feb. 2002)
-
-2063-9-14
-
-(29 Dec. 2006)
-
-2066.10.7
-
-(21 Jan. 2010)
 
 2
 
@@ -70,42 +96,40 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- This Act shall come into force at such area and on such date as  appointed  by  Government  of  Nepal  may,  by  a  Notification  in  the Nepal Gazette. Φ
+(3) This Act shall come into force at such area and on such date as appointed by Government of Nepal may, by a Notification in the Nepal Gazette. Φ
 
-## Definition :
-Unless  the  subject  or  context  otherwise  requires,  in  this Act, -
+## 2. Definition:
+Unless the subject or context otherwise requires, in this Act, -
 
-- 2 (a) "Pre-Primary  School"  means  those  schools  that  provide    One year's pre-primary education to those children that have completed Four years of their age.
+2(a) "Pre-Primary School" means those schools that provide One year's pre-primary education to those children that have completed Four years of their age.
 
-- 3 (b) "Primary  Education"  means  education  given  from  class  One  to class Five.
+3(b) "Primary Education" means education given from class One to class Five.
 
-- 4 (b1) "Lower Secondary Education" means education to be given from class Six to class Eight.
+4(b1) "Lower Secondary Education" means education to be given from class Six to class Eight.
 
-- 5 (c) .....…
+5(c) ........
 
-> Φ Government of Nepal has implemented this Act to the following district on the following dates: Dates Enacted districts:
+> Φ Government of Nepal has implemented this Act to the following district on the following dates:
 
-2028/7/15 (1 Nov. 1971) 2029/6/15 (1 Oct. 1972)
+Dates — Enacted districts:
 
-2030/7/1 (17 Oct. 1973)
+2028/7/15 (1 Nov. 1971) — Chitwan, Kaski
 
-2031/6/21 (7 Oct. 1974)
+2029/6/15 (1 Oct. 1972) — Dang, Banke, Baglung, Rupandehi, Dhanusha, Kavrepalanchok, Saptari, Dhankuta, Morang, Jhapa, Jumla, Kailali, Kanchanpur.
 
-Kapalbastu. 2032/6/20 (6 Oct. 1975)
+2030/7/1 (17 Oct. 1973) — Ilam, Panchthar, Terathum, Sankhuwasabha, Sunsari, Sindhupalchowk, Kathmandu, Bhaktapur, Lalitpur, Gorkha, Manang, Lamjung, Tanahu, Syangja, Surkhet.
 
-- 2 Amended by the Seventh Amendment.
+2031/6/21 (7 Oct. 1974) — Solukhumbu, Okhaldhunga, Khotang, Bhojpur, Udayapur, Siraha, Dolkha, Ramechap, Sindhuli, Sarlahi, Mahottari, Nuwakot, Mustang, Myagdi, Parbat, Gulmi, Arghakanchi, Palpa, Nawalparasi, Kapalbastu.
 
-- 3 Amended by the Fourth Amendment.
+2032/6/20 (6 Oct. 1975) — Darchula, Baitadi, Daduldhara, Bajhang, Bajura, Achham, Bara, Parsa, Rautahat, Makwanpur, Rasuwa, Dhading, Dolpa, Pyuthan, Salyan, Rukum, Rolpa, Tibrikot, Mugu, Humla, Bardiya, Dailakh, Jajarkot, Doti.
 
-- 4 Inserted by the Fifth Amendment.
+> 2 Amended by the Seventh Amendment.
 
-- 5 Deleted by the Fourth Amendment.
+> 3 Amended by the Fourth Amendment.
 
-Chitwan, Kaski
+> 4 Inserted by the Fifth Amendment.
 
-Dang,  Banke,  Baglung,  Rupandehi,  Dhanusha, Kavrepalanchok, Saptari, Dhankuta, Morang, Jhapa, Jumla, Kailali, Kanchanpur. Ilam, Panchthar, Terathum, Sankhuwasabha, Sunsari, Sindhupalchowk, Kathmandu, Bhaktapur, Lalitpur, Gorkha, Manang, Lamjung, Tanahu, Syangja, Surkhet. Solukhumbu,  Okhaldhunga,  Khotang,  Bhojpur, Udayapur,  Siraha,  Dolkha,  Ramechap,  Sindhuli, Sarlahi,  Mahottari,  Nuwakot,  Mustang,  Myagdi, Parbat, Gulmi, Arghakanchi, Palpa,  Nawalparasi,
-
-Darchula,  Baitadi,  Daduldhara,  Bajhang,  Bajura, Achham, Bara, Parsa, Rautahat, Makwanpur, Rasuwa, Dhading, Dolpa, Pyuthan, Salyan, Rukum, Rolpa, Tibrikot, Mugu, Humla, Bardiya, Dailakh, Jajarkot, Doti.
+> 5 Deleted by the Fourth Amendment.
 
 3
 
@@ -177,7 +201,7 @@ www.lawcommission.gov.np
 
 - 21 (f5)   "Guardians (Parents)" means those persons who are mentioned as the guardians of the children at school records.
 
-- 22 (f6)   ''Employee ''  means any employee working in c ommunity school except the teacher.
+- 22 (f6) ''Employee '' means any employee working in community school except the teacher.
 
 (g) "School Leaving Certificate Examination" means the examination to be held at the end of secondary education.
 
@@ -224,7 +248,7 @@ www.lawcommission.gov.np
 ## 29 3. Permission  should  be  obtained  to  open  the  school :
 (1)  If  anyone, except  Government  of  Nepal,  intends  to  open  a  school,  he/she  shall submit an application to Government of Nepal or the prescribed official with  prescribed  details  and  a  recommendation  letter  of  the concerned District  Education Office. While submitting an application he/she shall mention  whether  the  school  is  to  be  operated  as  a  Company  or  an Educational Trust.
 
-- If  an  application  is  received  pursuant  to  Sub-clause  (1), Government  of  Nepal  or  prescribed  official shall  make  necessary
+(2) If an application is received pursuant to Sub-clause (1), Government of Nepal or prescribed official shall make necessary
 
 > 24    Inserted by the Second Amendment
 
@@ -250,7 +274,7 @@ www.lawcommission.gov.np
 
 investigation,  and  if  it  is  found  reasonable,  permission  to  open  the school shall be provided with conditions as prescribed to be fulfilled .
 
-(3)  If,  it  is  found  that  the  School  has  fulfilled  the conditions as prescribed,  Government  of  Nepal  or  prescribed  official  shall  provide approval to the school who had obtained permission pursuant to Subclause (2).
+(3) If, it is found that the School has fulfilled the conditions as prescribed, Government of Nepal or prescribed official shall provide approval to the school who had obtained permission pursuant to Sub-clause (2).
 
 30 (4)  A  school,  running  as  an  institutional  school  before  2058 Magha 25 if not registered as a company or an educational trust or not submitted an application for such registration, shall submit an application before the prescribed authority upon mentioning the particulars  as  prescribed  within a period of One year from the date of commencement  of  this  Sub-section  stating  whether  the  school  to  be conducted as a company or an educational trust.
 
@@ -318,7 +342,7 @@ Provided  that,  while  specifying  a  successor in the case of a public educati
 
 (8)  Notwithstanding anything contained in Sub-sections (1), (2), and  (3),  permission  shall  not  be  provided  to  anyone  to  establish  a school affiliated to any foreign educational institution.
 
-Provided that, if an agreement has been concluded with Government  of  Nepal  to  open  a  school  in  affiliation  with  a  foreign educational institution or diplomatic agency has made recommendation thereof,  Government  of  Nepal  shall provide permission or approval to run school upon specifying the conditions. An application may directly be submitted to Government of Nepal to open such school.
+Provided that, if an agreement has been concluded with Government of Nepal to open a school in affiliation with a foreign
 
 > 34 Inserted by the Education and Sports Related some Nepal Acts Amendment Act, 2063
 
@@ -334,26 +358,28 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- If,  the  school  received  permission  or  approval  pursuant  to Sub-section  (8)  is  not  operated  as  per  the  condition,  Government  of Nepal may close down such school.
+educational institution or diplomatic agency has made recommendation thereof, Government of Nepal shall provide permission or approval to run school upon specifying the conditions. An application may directly be submitted to Government of Nepal to open such school.
 
-- Other  provisions  of this Act shall not be applicable to the school received permission or approval pursuant to Sub-section (8).
+(9) If, the school received permission or approval pursuant to Sub-section (8) is not operated as per the condition, Government of Nepal may close down such school.
 
-## Operation  of  the  School :
-The  operation  of  a  School  shall  be  as prescribed.
+(10) Other provisions of this Act shall not be applicable to the school received permission or approval pursuant to Sub-section (8).
 
-## 36 5. Conduction  and  Control  of  Examination:
-The  conduction  and control  of  Primary  School  Leaving  Examination,  37 Lower  Secondary Leaving Examination and School Leaving Certificate Examination shall be as prescribed.
+## 4. Operation of the School:
+The operation of a School shall be as prescribed.
 
-## Types of Secondary Education:
+## 36 5. Conduction and Control of Examination:
+The conduction and control of Primary School Leaving Examination, 37 Lower Secondary Leaving Examination and School Leaving Certificate Examination shall be as prescribed.
+
+## 6. Types of Secondary Education:
 Types of Secondary education shall be as follows:
 
 (a) General Secondary Education
 
-- 38 (b) .......
+38(b) .......
 
 (c) Sanskrit Secondary Education.
 
-## 39 6A . Operation of Special Education, Informal Education, and Distance  Education  and  other  provisions :
+## 39 6A. Operation of Special Education, Informal Education, and Distance Education and other provisions:
 (1)  The  operation  of Special Education shall be as good as General Education.
 
 > 36    Amended by the Fourth Amendment.
@@ -389,7 +415,7 @@ www.lawcommission.gov.np
 
 (d)      While  teaching  a  compulsory  subject  of  English language, the medium of education shall be English.
 
-## Curriculum  and  Textbook  of  the  School :
+## 8. Curriculum and Textbook of the School:
 The  School  shall  be required  to  implement  the  curriculum  and  text-book  as  approved  by Government of Nepal.
 
 > 39    Inserted by the Seventh Amendment
@@ -411,23 +437,23 @@ www.lawcommission.gov.np
 ## 42 8A.  Department of  Education :
 (1) There shall be Department of Education under the Ministry of Education and Sports.
 
-- There shall be Director General as the chief in the Department of Education pursuant to Sub-section (1).
+(2) There shall be Director General as the chief in the Department of Education pursuant to Sub-section (1).
 
-- The functions, duties, and rights of the Director General shall be as prescribed.
+(3) The functions, duties, and rights of the Director General shall be as prescribed.
 
-## 43 9. Regional  Education  Directorate :
-(1)  Government  of  Nepal  may establish Regional Education Directorate in each development region.
+## 43 9. Regional Education Directorate:
+(1) Government of Nepal may establish Regional Education Directorate in each development region.
 
-- A  Regional  Education  Director  shall  be  the  Chief  of  the 44 directorate to be established pursuant to Sub-section (1).
+(2) A Regional Education Director shall be the Chief of the 44 directorate to be established pursuant to Sub-section (1).
 
-- The functions, duties and powers of the Regional Education Director shall be as prescribed.
+(3) The functions, duties and powers of the Regional Education Director shall be as prescribed.
 
-## 45 10.  District  Education  Office :
-(1)  Government of Nepal may establish District Education Office in each district.
+## 45 10. District Education Office:
+(1) Government of Nepal may establish District Education Office in each district.
 
-- District Education Officer shall be the Chief of the Office to be established pursuant to Sub-section (1).
+(2) District Education Officer shall be the Chief of the Office to be established pursuant to Sub-section (1).
 
-- The  functions,  duties  and  powers  of  the  District  Education Officer shall be as prescribed.
+(3) The functions, duties and powers of the District Education Officer shall be as prescribed.
 
 ## 46 11.  The  formation  of  District  Education  Committee :
 (1)  The  District Education  Committee  shall be constituted in each district to supervise and manage the schools within the district.
@@ -496,31 +522,25 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-(f) One person from amongst the Chairpersons of the Institutional School  Management  Committee  of the district nominated by District education Officer
+(f) One person from amongst the Chairpersons of the Institutional School Management Committee of the district nominated by District education Officer - Member
 
 (g) One person from amongst the Chairpersons of Village Education Committee nominated by District Education Committee
 
-(h) President of the District Level Teachers' Union
+(h) President of the District Level Teachers' Union - Member
 
-- Member
+(i) District Education Officer -Member Secretary
 
-- Member
+(3) The tenure of office of the Members nominated pursuant to Sub-section (2) shall be Two years. If the nominated member did not fulfill the conduct as required by the post, the nominating official may remove him/her from the post, at any time.
 
-(i) District Education Officer
+Provided that, one shall be given a reasonable opportunity to defend before removing from the post.
 
--Member Secretary
+(4) 50....................
 
-- The tenure of office of the Members nominated pursuant to Sub-section  (2)  shall  be  Two years. If the nominated member did not fulfill  the  conduct as required by the post, the nominating official may remove him/her from the post, at any time.
-
-Provided  that,  one  shall  be  given  a  reasonable  opportunity  to defend before removing from the post.
-
-- 50 ....................
-
-- The  functions,  duties  and  powers  of  the  District  Education Committee will be as follow:
+(5) The functions, duties and powers of the District Education Committee will be as follow:
 
 (a) To formulate district level education plans,
 
-- 51 (a1) To  recommend  to  Higher  Secondary  Education Board to provide affiliation to run a Higher Secondary School,
+51(a1) To recommend to Higher Secondary Education Board to provide affiliation to run a Higher Secondary School,
 
 14
 
@@ -540,11 +560,11 @@ www.lawcommission.gov.np
 
 (e) To  fix  the  remuneration  for  the  auditor  of  the Community School,
 
-(f) To  distribute  and  adjust  the  teachers'  position s available  among  the  Community  Schools  of  the district,  on  the basis of the number of the students of  the  Primary  School;  and  on  the  basis  of  the number  of  the  students  and  subject  load  of  the Lower Secondary and Secondary Schools in accordance of the policy of Government of Nepal,
+(f) To distribute and adjust the teachers' positions available among the Community Schools of the district, on the basis of the number of the students of the Primary School; and on the basis of the number of the students and subject load of the Lower Secondary and Secondary Schools in accordance of the policy of Government of Nepal,
 
 (g) To provide instructions to the School Management Committee as required.
 
-- Other functions, duties, powers and procedures of meetings of the District Education Committee shall be as prescribed.
+(6) Other functions, duties, powers and procedures of meetings of the District Education Committee shall be as prescribed.
 
 ## 52 11A.  District Education Committee May be Dissolved :
 (1) In case, the District Education Committee of any district fails to fulfill the responsibilities  as  prescribed,  such  District  Education  Committee  may be dissolved by Government of Nepal.
@@ -596,15 +616,15 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- The  tenure  of  Office  of  members  appointed 58 ............... pursuant  to Sub-section (2) shall be Five years and he/she may be reappointed.
+(4) The tenure of Office of members appointed 58............... pursuant to Sub-section (2) shall be Five years and he/she may be re-appointed.
 
-59 (4a) The senior official of the Commission shall function as the secretary of the Commission .
+59(4a) The senior official of the Commission shall function as the secretary of the Commission.
 
-- The functions, duties, powers and proceedings of the commission shall be as prescribed.
+(5) The functions, duties, powers and proceedings of the commission shall be as prescribed.
 
-- Other conditions of service of members shall be as prescribed.
+(6) Other conditions of service of members shall be as prescribed.
 
-- Remuneration  and  facilities  of  the  members  shall  be  as prescribed  by  Government  of  Nepal,  by  a  Notification  in  the  Nepal Gazette.
+(7) Remuneration and facilities of the members shall be as prescribed by Government of Nepal, by a Notification in the Nepal Gazette.
 
 ## 60 11C. Qualification for Member :
 (1) The following qualifications shall be required to be appointed as a member:
@@ -675,16 +695,16 @@ www.lawcommission.gov.np
 
 (3) Other necessary employees of the Secretariat shall be arranged by the Ministry of Education.
 
-## 64 11F . Procedures to be Followed for Recommendation :
-(1) The procedures  to  be  followed  for  the  recommendation  to  permanent appointment of teachers by the Commission shall be as follows:
+## 64 11F.Procedures to be Followed for Recommendation:
+(1) The procedures to be followed for the recommendation to permanent appointment of teachers by the Commission shall be as follows:
 
-(a) To  collect  the  details  of  number  of  teachers  to  be fulfilled  according to the level of School from the concerned District Education Office while fulfilling the vacant post of teachers permanently as per the approved position in the Schools of the district,
+(a) To collect the details of number of teachers to be fulfilled according to the level of School from the concerned District Education Office while fulfilling the vacant post of teachers permanently as per the approved position in the Schools of the district,
 
-(b) To  publish  advertisement  for  recruitment  through open  competition  upon  mentioning  the number of posts,  and  receive  application  from the candidates who  deserve  the  prescribed  qualifications  for  the given post,
+(b) To publish advertisement for recruitment through open competition upon mentioning the number of posts, and receive application from the candidates who deserve the prescribed qualifications for the given post,
 
-65 Provided that, while determining the number  of  post  for  such  open  competition  the commission  may  make  necessary  arrangements    in such  a  manner  that  Fifty  percent  posts,  only  the following person, in maximum, shall be eligible to be  a  candidate  in  the  first  vacancy  announcement (advertisement)  made  by  the  commission  after  21 Shrawan 2061 B.S.:
+65 Provided that, while determining the number of post for such open competition the commission may make necessary arrangements in such a manner that Fifty percent posts, only the following person, in maximum, shall be eligible to be a candidate in the first vacancy announcement (advertisement) made by the commission after 21 Shrawan 2061 B.S.:
 
-- A person who has served for at least One year in the capacity of a temporary teacher among the
+(1) A person who has served for at least One year in the capacity of a temporary teacher among the
 
 > 64    Inserted by the Sixth Amendment.
 
@@ -700,23 +720,23 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-persons who have been removed from the  post  of  temporary  teacher  after the appointment of permanent teacher in  such  post  as per the advertisement published in the year of 2052 B. S.
+persons who have been removed from the post of temporary teacher after the appointment of permanent teacher in such post as per the advertisement published in the year of 2052 B. S.
 
-- A  person  who  has  been  appointed  in the post of teacher at community school  before  25 Magha 2058  B.S. and serving continuously since then.
+(2) A person who has been appointed in the post of teacher at community school before 25 Magha 2058 B.S. and serving continuously since then.
 
-(c) To select suitable candidate as follows upon making  an  inquiry of  the  applications  received pursuant to Clause (b):
+(c) To select suitable candidate as follows upon making an inquiry of the applications received pursuant to Clause (b):
 
-- Open competitive written examination,
+(1) Open competitive written examination,
 
-- Interview,
+(2) Interview,
 
-- Practical examination.
+(3) Practical examination.
 
-Provided  that,  practical  examination shall  be  taken  only  in  such  situation  as deemed  appropriate  and  necessary  by  the Commission.
+Provided that, practical examination shall be taken only in such situation as deemed appropriate and necessary by the Commission.
 
-- 66 (d) To publish advertisement every year for the vacant post and to recommend for appointment or promotion  within  a  period  of  Six  months  of  such advertisement.
+66(d) To publish advertisement every year for the vacant post and to recommend for appointment or promotion within a period of Six months of such advertisement.
 
-- 67 (1a)  Notwithstanding anything contained in Clause (b) of Subsection (1), the commission shall make arrangement of open competition
+67(1a) Notwithstanding anything contained in Clause (b) of Sub-section (1), the commission shall make arrangement of open competition
 
 > 66    Amended by the Education and Sports Related some Nepal Acts Amendment Act, 2063.
 
@@ -730,7 +750,7 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-as  prescribed in such a  manner that even the temporary teachers, who have  been  serving  continuously  on  the  commencement  of  this  Subsection  and  who  have  been  appointed  till  10 Baisakh 2063 B.S. in a seat  approved  by  the  Government  of  Nepal  for  community  school  or appointed  as  a  temporary  teacher  on  the  lean  post  of  the  approved ceiling  may  be  eligible  to  be  a  candidate  in  the  first    advertisement (vacancy  announcement)  to  be  published  after  the  commencement  of this  Sub-section. In the case of temporary teachers no age bar shall be applied for the first time.
+as prescribed in such a manner that even the temporary teachers, who have been serving continuously on the commencement of this Sub-section and who have been appointed till 10 Baisakh 2063 B.S. in a seat approved by the Government of Nepal for community school or appointed as a temporary teacher on the lean post of the approved ceiling may be eligible to be a candidate in the first advertisement (vacancy announcement) to be published after the commencement of this Sub-section. In the case of temporary teachers no age bar shall be applied for the first time.
 
 68 (1b)  Notwithstanding  anything  contained  in  the  Clause  (b) of Sub-section (1), the commission, except as provided in Sub-section (1a), may provide the arrangement for an open competition as prescribed in such a manner that on the commencement of this Sub-section who has been working as a temporary teacher under basic and primary education project and also the person who has been removed from the post of a teacher while fulfilling the vacant post of a permanent teacher as per the advertisement  of  the  years  of  2052  B.S.  and  2061/062  B.S.,  may  be eligible  to  be  a  candidate  in  such  a  competition.  In  the  case  of  a temporary teacher no age bar shall be applied for the first time.
 
@@ -757,7 +777,7 @@ www.lawcommission.gov.np
 ## 70 11G. Committee may be Constituted :
 (1) The Commission may constitute Committees in central and regional level as per necessity for the smooth operation  of  functions  and  proceedings  to  be  carried  out  by  it.  The members  of  such  Committees  shall  be  from  amongst  the  educationist and  the  persons  actively involved in the education sector who are not members  of  any  political  party  from  at  least  One  year  before  the appointment.
 
-- The functions, duties, powers and proceedings of the Committees constituted pursuant to Sub-section (1) shall be as prescribed by the Commission.
+(2) The functions, duties, powers and proceedings of the Committees constituted pursuant to Sub-section (1) shall be as prescribed by the Commission.
 
 ## 71 11H.  Delegation  of  Powers :
 The  Commission  may,  as  per  necessity, delegate any of the powers  conferred  on  it by this Act  to the Chairperson, member, the Committee pursuant to Section 11G. or  72 any officer employee.
@@ -801,9 +821,7 @@ supervise and manage the school to be run and to establish coordination  among  
 
 (c ) Two  persons,  including  One  woman, from  amongst  the  social workers  or educationists nominated by Village Education Committee -Member
 
-(d) area
-
-- School  supervisor  from  the  concerned -Member
+(d) School supervisor from the concerned area -Member
 
 (e) The member of the District Development  Committee  of  the  area where the school is located -Member
 
@@ -819,7 +837,7 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-(2)  The  tenure  of  the  Members  nominated  pursuant  to  Subsection (1) shall be Two years. If it is found that the nominated member did not maintained the conduct required to his/her post, the nominating official may remove him/her from his/her post at any time.
+(2) The tenure of the Members nominated pursuant to Sub-section (1) shall be Two years. If it is found that the nominated member did not maintained the conduct required to his/her post, the nominating official may remove him/her from his/her post at any time.
 
 Provided  that,  one  shall  be  given  a  reasonable  opportunity  to defend before removing from the post.
 
@@ -835,7 +853,7 @@ Government of Nepal may operate Mobile  Schools  in  the  remote  mountainous  (
 
 (3)  The  Commission  shall  provide  Teaching  License  to  those candidates  who  have  passed  the  examination  conducted  pursuant  to Sub-section (2).
 
-- The Commission shall provide temporary Teaching License to the  working  teachers  within  Six  months  of  the  commencement of this Act.
+(4) The Commission shall provide temporary Teaching License to the working teachers within Six months of the commencement of this Act.
 
 (5) The teachers who have obtained temporary Teaching License pursuant to Sub-section (4) shall have to obtain permanent license from the Commission within Five years.
 
@@ -853,9 +871,9 @@ www.lawcommission.gov.np
 
 (6) The temporary teachers who  fail to obtain permanent Teaching  License  within  the  period  as  referred  to  in  Sub-section  (5) shall  automatically  be terminated and the permanent teachers shall be terminated as prescribed.
 
-78 (6a)  Notwithstanding anything contained  elsewhere  in this Section,  in  a  condition  where  teaching  license  holder  persons  are not available in the subject of Science, Mathematics and English and due to this reason if teaching activities have not been conducted in the schools of  remote  areas,  or  temporary  teachers  who  have  not  taken  teaching license, the commission may conduct separate examination for them as prescribed  for  the  purpose  of  giving  a  chance  of  participation  in  a competition  to be held as per the first advertisement after the commencement  of  this  Sub-section;  and  provide  temporary  teaching license.
+78 (6a) Notwithstanding anything contained elsewhere in this Section, in a condition where teaching license holder persons are not available in the subject of Science, Mathematics and English and due to this reason if teaching activities have not been conducted in the schools of remote areas, or temporary teachers who have not taken teaching license, the commission may conduct separate examination for them as prescribed for the purpose of giving a chance of participation in a competition to be held as per the first advertisement after the commencement of this Sub-section; and provide temporary teaching license.
 
-79 (6b)  Among  temporary  teaching  licenses  pursuant  to  Subsection (6a), the duration of teaching license which is issued to teach in remote  areas  shall  be  for  Two  years  and  the  duration  of  a  teaching license which is issued to participate in the competition shall be for One year.
+79 (6b) Among temporary teaching licenses pursuant to Sub-section (6a), the duration of teaching license which is issued to teach in remote areas shall be for Two years and the duration of a teaching license which is issued to participate in the competition shall be for One year.
 
 (7)  Other  provisions  regarding the Teaching License shall be as prescribed.
 
@@ -880,7 +898,7 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- 81 Provided that, the amount of grant being provided to a school may be reduced as prescribed if the school has been unable to maintain academic standards as prescribed.
+81 Provided that, the amount of grant being provided to a school may be reduced as prescribed if the school has been unable to maintain academic standards as prescribed.
 
 ## 82 11O. Provisions for scholarship may be made :
 Government of Nepal may arrange  scholarship  as  prescribed  to  the  students  enrolled  at  Lower Secondary Education and Secondary Education.
@@ -891,9 +909,9 @@ Government  of  Nepal  may  provide  grants  as  prescribed  to  the  Child Deve
 ## 84 11Q. Management of a school may be handled :
 (1)  If  a  local  body  or management committee intends to handle the management of a community school, it shall produce an application before the prescribed authority upon mentioning the matters as prescribed.
 
-- While  making  an  inquiry  in  to  the  application  received pursuant  to  Sub-section  (1),  if  it  is  found  that  such  local  body  or management  committee  has  fulfilled  the  prescribed  conditions,  the prescribed authority may handover the management of such community school to the applicant.
+(2) While making an inquiry in to the application received pursuant to Sub-section (1), if it is found that such local body or management committee has fulfilled the prescribed conditions, the prescribed authority may handover the management of such community school to the applicant.
 
-- The  terms  and  conditions  of  service  and  facilities  of  the teachers, who  have  been  appointed  in  the  post  approved  by  the Government  of  Nepal  and  have  been  working  in  a  school  whose management  is  handled  by  local  body  or  management  committee pursuant  to  Sub-section  (2),  shall  be  as  good as the teachers of other community schools and the Government of Nepal shall provide amount
+(3) The terms and conditions of service and facilities of the teachers, who have been appointed in the post approved by the Government of Nepal and have been working in a school whose management is handled by local body or management committee pursuant to Sub-section (2), shall be as good as the teachers of other community schools and the Government of Nepal shall provide amount
 
 > 81    Inserted by the Education and Sports Related some Nepal Acts Amendment Act, 2063.
 
@@ -915,22 +933,18 @@ www.lawcommission.gov.np
 
 for  salary    and  allowances  of  such  teachers  and  the  amount  which  is equal  to the amount to be added by a school for provident fund, to a school in a single installment.
 
-- The  local  body  or  management  committee  may  appoint additional teacher in a school which is handled by it pursuant to Subsection (2) to be paid by such school.
+(4) The local body or management committee may appoint additional teacher in a school which is handled by it pursuant to Sub-section (2) to be paid by such school.
 
-- A  teacher  appointed  pursuant  to  Sub-section  (4)  shall  be entitled  to  obtain  remuneration  and  facilities  as  good  as  the  other teachers of such school.
+(5) A teacher appointed pursuant to Sub-section (4) shall be entitled to obtain remuneration and facilities as good as the other teachers of such school.
 
-- The  Government  of  Nepal  may  provide  additional seat to a school  whose  management  is  handled  by  local  body  or  management committee pursuant to Sub-section (2) on the basis of necessity of such school.
+(6) The Government of Nepal may provide additional seat to a school whose management is handled by local body or management committee pursuant to Sub-section (2) on the basis of necessity of such school.
 
 ## 85 12. School  Management  Committee :
 (1)  To  operate,  supervise  and manage every community school; there shall be a School Management Committee consisting of the following members:
 
-- A  person selected by the parents
+(a) A person selected by the parents from among themselves -Chairperson
 
-(a) from among themselves
-
--Chairperson
-
-(b) Three persons, including One woman,  selected  by  the  parents among themselves -Member
+(b) Three persons, including One woman, selected by the parents among themselves -Member
 
 (c) The Ward President of the concerned  Ward  of  the  Village Development Committee or Municipality  where  the school is - Member
 
@@ -948,25 +962,19 @@ www.lawcommission.gov.np
 
 located
 
-(d) One person nominated by School Management Committee from among local intellectuals or educationists
+(d) One person nominated by School Management Committee from among local intellectuals or educationists - Member
 
-- Member
+(e) One person nominated by School Management Committee from 86 amongst the founders of the school - Member
 
-(e) One person nominated by School Management Committee from 86 amongst the founders of the school
+87 (e1) One person nominated by School Management Committee from amongst the donors who have provided amount, building or land to the school as prescribed - Member
 
-- Member
+(f) One person selected by the concerned school teachers from amongst themselves -Member
 
-- 87 (e1) One person nominated by School Management Committee from amongst the donors who  have provided amount, building or land to the school as prescribed - Member
+(g) Headmaster of the school Member-secretary
 
-(f) One person selected by the concerned  school  teachers  from amongst themselves -Member
+(2) Two members shall be represented from the District Level Federation of Industry and Commerce in the School Management Committees of such Secondary schools where study or training on Technical or vocational Subjects are conducted.
 
-(g) Headmaster of the school
-
-Member-secretary
-
-- Two  members  shall  be  represented  from  the  District  Level Federation  of  Industry  and  Commerce  in  the  School  Management Committees  of  such  Secondary  schools  where  study  or  training  on Technical or vocational Subjects are conducted.
-
-- The School Supervisors and the Resource Persons related to the concerned school shall be invited to attend the School Management Committee Meetings as observers.
+(3) The School Supervisors and the Resource Persons related to the concerned school shall be invited to attend the School Management Committee Meetings as observers.
 
 > 86    Amended by the Education and Sports Related some Nepal Acts Amendment Act, 2063.
 
@@ -982,27 +990,19 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- There shall be School Management Committee for operation, supervision and management in every Institutional School consisting the following members: -
+(4) There shall be School Management Committee for operation, supervision and management in every Institutional School consisting the following members: -
 
-(a) One person nominated by the District  Education  Officer  on  the recommendation of concerned school  from  amongst  the  Founder or the Investor of the school.
+(a) One person nominated by the District Education Officer on the recommendation of concerned school from amongst the Founder or the Investor of the school. -Chairperson
 
-(b) Two  persons  including  a  woman nominated by School Management Committee from amongst the parents.
+(b) Two persons including a woman nominated by School Management Committee from amongst the parents. - Member
 
--Chairperson
-
-- Member
-
-(c) One person from amongst the local intellectuals or educationists nominated by the Village Development Community or Municipality
-
-- Member
+(c) One person from amongst the local intellectuals or educationists nominated by the Village Development Community or Municipality - Member
 
 (d) School supervisor of the concerned area - Member
 
-(e) One person selected by concerned school teachers amongst themselves
+(e) One person selected by the concerned school teachers from amongst themselves - Member
 
-- the from - Member
-
-(f) The Headmaster of the school - MemberSecretary
+(f) The Headmaster of the school - Member-Secretary
 
 29
 
@@ -1054,7 +1054,7 @@ www.lawcommission.gov.np
 
 (i) To  abide  by  the  orders  and  instructions issued by the District Education Committee and District Education Office,
 
-- 90 (j) To arrange for the remuneration and facilities of the teachers who have been appointed or promoted by the committee itself,
+90 (j) To arrange for the remuneration and facilities of the teachers who have been appointed or promoted by the committee itself,
 
 (k) To constitute Teacher-Parent Association as specified in order to enhance the academic standards.
 
@@ -1084,7 +1084,7 @@ www.lawcommission.gov.np
 
 (f) To  appoint  those  candidates  to  the  post  of  the teacher who have obtained License from the Commission and who are eligible for the post as per the prevailing law to the post of a teacher,
 
-- 91 (f1)  To  start  with  the  process  relating  to  permanent fulfillment within a period of Six months from the date  of  the  commencement  of  this  Clause  for  the purpose  of  providing  chance  to  be  a  permanent teacher to those teachers who have been appointed as temporary teachers before the commencement of this Clause and to start with such process for those teachers  within  a  period  of  Six  months  from  the
+91 (f1) To start with the process relating to permanent fulfillment within a period of Six months from the date of the commencement of this Clause for the purpose of providing chance to be a permanent teacher to those teachers who have been appointed as temporary teachers before the commencement of this Clause and to start with such process for those teachers within a period of Six months from the
 
 > 91    Inserted by the Education and Sports Related some Nepal Acts Amendment Act, 2063.
 
@@ -1110,14 +1110,14 @@ date of being appointed as a temporary teacher after the commencement of this Cl
 
 93 (7b) The functions, duties and powers of a School Management Committee formed pursuant to Sub-section (7a) shall be as prescribed.
 
-- Other  functions,  powers,  and  duties  and  the  procedures  of meetings of a School Management Committee shall be as prescribed.
+(8) Other functions, powers, and duties and the procedures of meetings of a School Management Committee shall be as prescribed.
 
 ## 94 12A.School  Management  Committee  may  be  dissolved :
 (1) In a condition  where  the  School  Management  Committee  of  any  school becomes  unable  to  fulfill its  prescribed  responsibility  the  District Education  Office  may,  upon  mentioning  the  reasons  thereof,  dissolve such school management committee.
 
 Provided that,  the School Management Committee shall be given a reasonable opportunity to defend prior to its dissolution.
 
-(2)  After  the  dissolution  of  the  School  Management Committee pursuant to Sub-section (1), the District Education Committee may form a  temporary  School  Management  Committee  until  a  next  School Management Committee is formed or owning to any other reason until a School Management Committee in constituted.
+(2) After the dissolution of the School Management Committee pursuant to Sub-section (1), the District Education Committee may form
 
 > 92    Inserted by the Education and Sports Related some Nepal Acts Amendment Act, 2063.
 
@@ -1135,10 +1135,12 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
+a temporary School Management Committee until a next School Management Committee is formed or owning to any other reason until a School Management Committee in constituted.
+
 ## 95 12B  Rural  Education  Development  Fund :
 (1)  There  shall  be  a  Rural Education  development  Fund  in  the  central  level  to  assist  in  the development of the Community Schools run in the rural areas and also to enhance their academic standards.
 
-- The fund as of Sub-section (1) shall consist of the following amounts:
+(2) The fund as of Sub-section (1) shall consist of the following amounts:
 
 (a) The  amounts  received  as  grants  from  Government of Nepal,
 
@@ -1183,9 +1185,9 @@ www.lawcommission.gov.np
 
 (h) Head of the School Administration Section of the Ministry of Education and Sports - Member-Secretary
 
-- Other functions, duties,  powers  and  procedures  of  the meetings  of  the  Fund  Management  Committee  instituted  pursuant  to Sub-section (1) shall be prescribed.
+(2) Other functions, duties, powers and procedures of the meetings of the Fund Management Committee instituted pursuant to Sub-section (1) shall be prescribed.
 
-## District  Education  Fund :
+## 13. District Education Fund :
 (1)  There  shall  be  a  District  Education Fund in each district, which shall consist of the following amount:
 
 (a) The grants received from Government of Nepal,
@@ -1200,7 +1202,7 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- 98 (a1)  The  amount received as donation from the District Development Committee,
+98 (a1) The amount received as donation from the District Development Committee,
 
 (b) 99  .....................
 
@@ -1210,20 +1212,20 @@ www.lawcommission.gov.np
 
 (e) The amount received from other sources.
 
-- The  Fund  established  pursuant  to  Sub-section  (1)  shall  be operated as prescribed.
+(2) The Fund established pursuant to Sub-section (1) shall be operated as prescribed.
 
 100 .........................
 
-- 101 (3)  The  Fund  pursuant to Sub-section (1) shall be audited by the Department of Auditor General.
+101 (3) The Fund pursuant to Sub-section (1) shall be audited by the Department of Auditor General.
 
 ## 102 13A.Fund of the School :
 (1) There shall be a School Fund in each School, which shall consist of the following amounts:
 
 (a) The grants received from Government of Nepal,
 
-- 103 (a1) The grants received from District Education Fund,
+103 (a1) The grants received from District Education Fund,
 
-- 104 (a2)    The  grants  received  from  Village  Development Committee or Municipality,
+104 (a2) The grants received from Village Development Committee or Municipality,
 
 (b) The amount to be collected from fees,
 
@@ -1253,14 +1255,14 @@ www.lawcommission.gov.np
 
 (d) The amount received from other sources.
 
-- The  Fund  established  pursuant  to  Sub-section  (1)  shall  be operated and audited as prescribed.
+(2) The Fund established pursuant to Sub-section (1) shall be operated and audited as prescribed.
 
 ## 105 14. Government  of  Nepal  May  Give  Directives :
 (1)  Government  of Nepal  may,  as  per  necessity,  give  directives  to  the  District  Education Committee  106  ………… and School Management Committee.
 
-- It shall be the duty of each District Education Committee and 107 … … … School  Management  Committee  to  abide  by  the directives pursuant to Sub-section (1).
+(2) It shall be the duty of each District Education Committee and 107 … … … School Management Committee to abide by the directives pursuant to Sub-section (1).
 
-## Power  of  Government  of  Nepal  to  Shift,  Merge,  Re-name  or Close  any  School :
+## 15. Power of Government of Nepal to Shift, Merge, Re-name or Close any School :
 108   .........Government  of  Nepal  or  the  prescribed official may, upon recommendation of the District Education Committee,  shift  any  existing  School  from  one  place  to  another  or merge  two  or  more Schools into one School or rename the School or close such School,  109 or open a new School at the prescribed place or area or give permission or approval to operate the School with addition of classes.
 
 ## 110 16. Property  of  the  School :
@@ -1324,14 +1326,14 @@ www.lawcommission.gov.np
 
 Provided  that,  for  receiving  any  kind  of  movable  or immovable property  from  a  foreign  person  or  organization  a  prior  approval  of Government of Nepal shall be obtained.
 
-- The  property received pursuant to Sub-section (4) shall not sold (transacted) without the approval of Government of Nepal.
+(5) The property received pursuant to Sub-section (4) shall not sold (transacted) without the approval of Government of Nepal.
 
 ## 115 16A.Exemption and facility to the school :
 (1) Notwithstanding anything contained in prevailing law, no registration fees shall be exacted on the registration  of  any  kind  of  deeds  written  in  the  names  of  Community School, and Institutional Schools operated as an Educational Trust.
 
-- Except as provided in Sub-section (1), Government of Nepal may  provide  exemption  in  the  registration  of  deeds  as  prescribed  to other schools.
+(2) Except as provided in Sub-section (1), Government of Nepal may provide exemption in the registration of deeds as prescribed to other schools.
 
-- The  other  exemption  and  facilities  to  be  provided  to  the Community Schools and the Institutional Schools operated as Education Trust shall be as prescribed.
+(3) The other exemption and facilities to be provided to the Community Schools and the Institutional Schools operated as Education Trust shall be as prescribed.
 
 ## 116 16B Cancellation of permission or approval :
 If, any Institutional School fails to provide the report pursuant to Sub-sections (4) of Section 3, or conducts  against  this  Act  or  Rules  made  thereunder,  the  prescribed official shall cancel the permission or approval of such school.
@@ -1358,15 +1360,15 @@ The  classification  of  school  shall  be  as prescribed.
 ## 118 16D. Provision relating to fee :
 (1)  The  education  of the Primary level of Community  Schools  shall  be  free  and  Government  of  Nepal  shall provide textbook free of cost to the students enrolled in such schools.
 
-- The  fees  to  be  charged  on  the  students  studying  in  Lower Secondary  and  Secondary  level  at  Community  Schools  shall  be  as prescribed.
+(2) The fees to be charged on the students studying in Lower Secondary and Secondary level at Community Schools shall be as prescribed.
 
-Provided  that,  a  provision  of  free  education  in  the  Community School shall be provided to Dalits , Janjati and girl children and other students who are below the poverty line.
+Provided that, a provision of free education in the Community School shall be provided to Dalits, Janjati and girl children and other students who are below the poverty line.
 
-- Once the school charges admission fees to the students while getting admission in a particular class, the same school shall not collect any  kind  of  fees  from  the  same  student  while  getting  readmission  to another class.
+(3) Once the school charges admission fees to the students while getting admission in a particular class, the same school shall not collect any kind of fees from the same student while getting readmission to another class.
 
-- The  school  shall  not  collect  any  kind  of  fees  from  the students to build the physical infrastructure of the school.
+(4) The school shall not collect any kind of fees from the students to build the physical infrastructure of the school.
 
-- 119 (5)  A  institutional  school  shall  determine  the  fees,  that  is permitted  to  be  collected  from  its  students,  only  after  the  approval  of the prescribed authority. In the course of giving an approval in respect of  the  determination  of  the  fees,  the  prescribed  authority  shall  give
+119 (5) A institutional school shall determine the fees, that is permitted to be collected from its students, only after the approval of the prescribed authority. In the course of giving an approval in respect of the determination of the fees, the prescribed authority shall give
 
 > 117    Inserted by the Seventh Amendment.
 
@@ -1386,20 +1388,20 @@ www.lawcommission.gov.np
 
 approval  on  the  basis  of  the  facilities  provided  by  such  school  to  the students.
 
-- If, any school collects fees from the students against this Act, the prescribed official shall make arrangement to return such fee to the student from the school.
+(6) If, any school collects fees from the students against this Act, the prescribed official shall make arrangement to return such fee to the student from the school.
 
-- The prescribed official may fine upto Twenty Five Thousand Rupees to such school which collects fees against this Act.
+(7) The prescribed official may fine upto Twenty Five Thousand Rupees to such school which collects fees against this Act.
 
-## 120 16E.  Teachers'  Union,  teachers'  conduct  and  other  provisions :
+## 120 16E. Teachers' Union, teachers' conduct and other provisions :
 (1) There shall be a Teachers' Union to promote the professional rights and welfares of the teachers.
 
-- The  Teachers'  Union  may  be  formed  in  central  an d  district levels.
+(2) The Teachers' Union may be formed in central and district levels.
 
-- The election of the Teachers' Union shall be as  prescribed.
+(3) The election of the Teachers' Union shall be as prescribed.
 
-- 121 .............
+(4) 121 .............
 
-- The  teacher  shall  be  removed  from  his/her  post  in  the following conditions: -
+(5) The teacher shall be removed from his/her post in the following conditions: -
 
 (a) 122 .................................,
 
@@ -1407,7 +1409,7 @@ approval  on  the  basis  of  the  facilities  provided  by  such  school  to  t
 
 (c) If he/she remains continuously absent in the school for more than Fifteen days without any information,
 
-(d) If  it  is  proved  that  he/she  attends  school  when drunk,
+(d) If it is proved that he/she attends school when drunk,
 
 > 120    Inserted by the Seventh Amendment.
 
@@ -1433,16 +1435,16 @@ The qualifications for a school teacher shall be as prescribed.
 ## 124 16G.May  Rejoin  by  the  order  of  the  Court :
 (1)  The  teacher  once dismissed  or  discharged  from  the  job  followed  by  the  departmental action may rejoin the job only by an order or decision of the Court.
 
-- The teacher rejoined pursuant to Sub-section (1) shall receive full  salary,  allowance,  increased salary (grade) if any, from the date of dismissal and rejoining.
+(2) The teacher rejoined pursuant to Sub-section (1) shall receive full salary, allowance, increased salary (grade) if any, from the date of dismissal and rejoining.
 
 ## 125 16H. Transfer of Teacher :
 (1) The teacher who desires a transfer shall fill up  a  prescribed  form  and file an application to the concerned District Education Office.
 
-- If, an application is received pursuant to Sub-section (1), the 126 District  Education  Officer  may  transfer  such  teacher  if  the  vacant position and subject matches.
+(2) If, an application is received pursuant to Sub-section (1), the 126 District Education Officer may transfer such teacher if the vacant position and subject matches.
 
-- 127 Provided that, while so transferring the approval of the District Education Officer of the place where the applicant is working shall be taken.
+127 Provided that, while so transferring the approval of the District Education Officer of the place where the applicant is working shall be taken.
 
-- Not  withstanding  anything  contained  in  Sub-section  (2),  if such conditions prevail under which the transfer of any teacher becomes unavoidable,  the  District  Education  Officer  may  transfer  within  the
+(3) Not withstanding anything contained in Sub-section (2), if such conditions prevail under which the transfer of any teacher becomes unavoidable, the District Education Officer may transfer within the
 
 > 123    Inserted by the Seventh Amendment.
 
@@ -1466,16 +1468,16 @@ www.lawcommission.gov.np
 
 district, the Regional Education Director may transfer within the region and the Department of Education may transfer within Nepal.
 
-- While  transferring  the  teacher  pursuant  to  Sub-section  (3), the  District  Education  Officer  shall  obtain  prior  approval  from  the Regional Education Director; the Regional Education Director from the Department  of  Education  and  the  Department  of  Education  from  the Ministry  of  Education  and  Sports,  and  the  recommendation  of  the concerned school.
+(4) While transferring the teacher pursuant to Sub-section (3), the District Education Officer shall obtain prior approval from the Regional Education Director; the Regional Education Director from the Department of Education and the Department of Education from the Ministry of Education and Sports, and the recommendation of the concerned school.
 
 ## 128 16I. Not to be applicable to the Institutional Schools :
 Except otherwise provided  in this Act, the provisions as referred to in Sections 11J, 15, 129 Sub-section  (5)  of  Section  16E, 16G, 16H and Sub-section (1) and Clauses  (a),  (d)  and  (e)  of  Sub-section  (2)  of  Section  17  shall  not  be applicable to the Institutional Schools .
 
 130 Provided that,
 
-- The  provisions  relating  to  the  shifting  of  a  school from one place to another pursuant to Section 15, shall  be  applicable  in  the  case  of  the  institutional school also.
+(1) The provisions relating to the shifting of a school from one place to another pursuant to Section 15, shall be applicable in the case of the institutional school also.
 
-- The  provisions  relating  to  the  change of the name of an institutional school shall be as prescribed.
+(2) The provisions relating to the change of the name of an institutional school shall be as prescribed.
 
 ## 131 16J  Institutional  school  shall provide scholarship :
 (1)  An  institutional school  shall  provide  free  scholarship  student  who  are  poor,  disabled, woman, dalits or indigenous tribes in such a way that such scholarship
@@ -1502,7 +1504,7 @@ shall  not  be  less  than  Ten  percent  of  the  total  number  of  the enroll
 
 (2)  In  order  to  select  the  students  for  the  purpose  of  providing scholarship pursuant to Sub-section (1), a scholarship selection committee shall be formed in every school consisting of its head master, the  representative  of  the  concerned  District  Education  Office  and  the representative  of  the  guardian  involved  in  the  school  management committee.
 
-(3) The student's selection criteria for the schola rship pursuant to Sub-section (1) shall be as prescribed.
+(3) The student's selection criteria for the scholarship pursuant to Sub-section (1) shall be as prescribed.
 
 ## 132 16K.  Salary  and  allowance  shall not be received and the tenure of service shall not be counted:
 Except in the condition referred to in Section 16g or in case of being absent from the duty upon sanctioning leave as per the Rules, the teacher, who has been absent in the school shall  not  obtain  the  salary  and  allowances  for  the  absent  period  and such absent period shall not be counted in his/her tenure of office.
@@ -1567,23 +1569,23 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- 141 Notwithstanding  anything  contained  in  Sub-sections  (1) and (1a.), the prescribed official may punish a person who contravenes the provision of this Act or the Rules made thereunder as following:
+(2) 141 Notwithstanding anything contained in Sub-sections (1) and (1a.), the prescribed official may punish a person who contravenes the provision of this Act or the Rules made thereunder as following:
 
 (a) To carry out disciplinary actions against the teachers and employees of the Schools,
 
 (b) To expel a student from School, hostel or examination,
 
-- 142  (c)  To  impose  a  fine  of  One  Thousand  Rupees  to Twenty Five Thousand Rupees based on the gravity of offence,
+142 (c) To impose a fine of One Thousand Rupees to Twenty Five Thousand Rupees based on the gravity of offence,
 
 (d) To  reduce,  suspend  or  cancel  the  governmental assistance to the school,
 
 (e) To  cancel  the  permission  or  approval  so provided to the School.
 
-## 143 17A . Investigation  and prosecution of a Case Relating to Property :
+## 143 17A. Investigation and prosecution of a Case Relating to Property :
 
-- Notwithstanding  anything  contained  in  the  144 Government  Cases Act, 2049 (1993), a case relating to the offence punishable pursuant to Sub-section  (1)  of  Section  17  shall  be  investigated  by  the  prescribed official, and such case shall be filed to the Adjudicating Authority in the name of the concerned School after the investigation.
+(1) Notwithstanding anything contained in the 144 Government Cases Act, 2049 (1993), a case relating to the offence punishable pursuant to Sub-section (1) of Section 17 shall be investigated by the prescribed official, and such case shall be filed to the Adjudicating Authority in the name of the concerned School after the investigation.
 
-- During  the  process  of  investigation  and  filing  of  the  case pursuant  to  Sub-section  (1),  the  prescribed  official  may  take  legal opinion of the Government Attorney.
+(2) During the process of investigation and filing of the case pursuant to Sub-section (1), the prescribed official may take legal opinion of the Government Attorney.
 
 > 141    Amended by the Seventh Amendment.
 
@@ -1609,21 +1611,21 @@ The cases relating to the offence punishable pursuant to Sub-section (1) of Sect
 ## 146 17C. Government of Nepal shall be plaintiff :
 (1) Government of Nepal shall be the plaintiff in a case as referred to in Sub-sections (1) and (1a) of Section 17.
 
-- The  case  to  be  filed  pursuant  to  Sub-sections  (1a) shall  be deemed to have been included in the Schedule-1 of Government Cases Act, 2049.
+(2) The case to be filed pursuant to Sub-sections (1a) shall be deemed to have been included in the Schedule-1 of Government Cases Act, 2049.
 
 ## 147 18.  Appeal :
 (1)  An  appeal,  against  the  penalty  imposed  by  the  Chief District  Officer  pursuant to Section 17B, may be filed before Court of Appeal within Thirty Five days.
 
-- 148 (2)  An  appeal,  against  the  penalty  imposed  by  the prescribed authority pursuant to Sub-section (2) of Section 17, may be filed before the prescribed authority.
+148 (2) An appeal, against the penalty imposed by the prescribed authority pursuant to Sub-section (2) of Section 17, may be filed before the prescribed authority.
 
-## Power to frame Rules :
+## 19. Power to frame Rules :
 (1) Government of Nepal may frame Rules in order to execute the objectives of this Act.
 
-- Without prejudice to the generality of powers vested by Subsection  (1),  such  Rules  may  in  particular  make  provisions  on  the following:
+(2) Without prejudice to the generality of powers vested by Sub-section (1), such Rules may in particular make provisions on the following:
 
 (a) Flag, emblem and prayers of the Schools,
 
-- 149 (b) Fee to be chargeable on students and its realization,
+149 (b) Fee to be chargeable on students and its realization,
 
 > 145    Inserted by the First Amendment.
 
@@ -1645,21 +1647,21 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- 150 (c) Grants to be given to the Schools,
+150 (c) Grants to be given to the Schools,
 
 (d) Examination of Schools,
 
-- 151 (d1) Relating to determination of equivalency of School Leaving Certificate Examination,
+151 (d1) Relating to determination of equivalency of School Leaving Certificate Examination,
 
-- 152 (d2) Relating to National Teachers Service Commission,
+152 (d2) Relating to National Teachers Service Commission,
 
-- 153 (d3) Relating  to  Teachers  Registration  Office  of  the Schools,
+153 (d3) Relating to Teachers Registration Office of the Schools,
 
 (e) Determination of extra-curricular activities and programmes of the School,
 
-- 154  (f) Relating  to  oath of the teachers and employees of the school,
+154 (f) Relating to oath of the teachers and employees of the school,
 
-(g) Methods  of  admission  of  students  in  Schools  and the number of students,
+(g) Methods of admission of students in Schools and the number of students,
 
 (h) Protection of properties of Schools,
 
@@ -1667,9 +1669,9 @@ www.lawcommission.gov.np
 
 (j) Checking of income and expenditure of Schools,
 
-(k) Methods  of preparing and  keeping  of records, ledgers and other documents of Schools,
+(k) Methods of preparing and keeping of records, ledgers and other documents of Schools,
 
-- 155 (l) Curriculum,  textbook  and  reference  materials  of Schools,
+155 (l) Curriculum, textbook and reference materials of Schools,
 
 > 150    Amended by the Fourth Amendment.
 
@@ -1697,29 +1699,29 @@ www.lawcommission.gov.np
 
 (o) Co-education,
 
-- 156 (p) Training on Teaching and School Management,
+156 (p) Training on Teaching and School Management,
 
 (q) Powers and duties of a Headmaster,
 
-- 157  (r) Conditions of service of the teachers of Schools,
+157 (r) Conditions of service of the teachers of Schools,
 
-- 158 (s) Teaching  159 License, identity card and pass (logo) of the teachers of Schools,
+158 (s) Teaching 159 License, identity card and pass (logo) of the teachers of Schools,
 
-- 160 (t) Special education,
+160 (t) Special education,
 
-- 161 (u) Informal Education,
+161 (u) Informal Education,
 
-- 162 (u1)   Distance Education
+162 (u1) Distance Education
 
 (v) Constitution of Teacher's Service,
 
 (w) District Education Fund,
 
-(x) Student counseling and guidance service  163 ………
+(x) Student counseling and guidance service 163 ………
 
 (y) Other necessary matters,
 
-- 164 (z) Operation of Residential Schools,
+164 (z) Operation of Residential Schools,
 
 > 155    Amended by the Fourth Amendment.
 
@@ -1751,19 +1753,19 @@ www.lawcommission.gov.np
 
 www.lawcommission.gov.np
 
-- 165 (z1) Relating to  166 Institutional Schools,
+165 (z1) Relating to 166 Institutional Schools,
 
-- 167 (z2) Relating to coaching class, language teaching class and teachers training class operated  in private sector,
+167 (z2) Relating to coaching class, language teaching class and teachers training class operated in private sector,
 
-## Powers  to  Remove  Difficulties :
-If  any  difficulty  or  hindrance  is encountered in executing the purposes of this Act, Government of Nepal may, in order to remove such difficulty or hindrance, issue an order by a Notification in the Nepal Gazette, and such order shall be considered as incorporated in this Act.
+## 20. Powers to Remove Difficulties :
+If any difficulty or hindrance is encountered in executing the purposes of this Act, Government of Nepal may, in order to remove such difficulty or hindrance, issue an order by a Notification in the Nepal Gazette, and such order shall be considered as incorporated in this Act.
 
-## Savings and Exemption :
-(1) The provision of  168 this Act or, the Rules made  thereunder  shall  prevail  on  matters  provided  herein  and  in  all other matters the prevailing laws of Nepal shall apply.
+## 21. Savings and Exemption :
+(1) The provision of 168 this Act or, the Rules made thereunder shall prevail on matters provided herein and in all other matters the prevailing laws of Nepal shall apply.
 
-- 169 (1a)  Notwithstanding  anything  contained  in  this  Act,  it  shall prevent Government of Nepal to take action pursuant to Prevention of Corruption Act, 2059 (2002).
+169 (1a) Notwithstanding anything contained in this Act, it shall prevent Government of Nepal to take action pursuant to Prevention of Corruption Act, 2059 (2002).
 
-- Education  Act,  2025  (1968)  and  Education  Rules,  2027 (1972) shall not apply in the areas where this Act has come into force.
+(2) Education Act, 2025 (1968) and Education Rules, 2027 (1972) shall not apply in the areas where this Act has come into force.
 
 > 165    Inserted by the Second Amendment.
 
