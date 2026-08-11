@@ -28,27 +28,27 @@ La Siguiente:
 El español es el idioma oficial del Estado. Las lenguas de las comunidades de la Costa Atlántica de Nicaragua serán de uso oficial en las Regiones Autónomas, en los casos que establezca la presente Ley.
 
 #### Artículo 2.
-Las comunidades de la Costa Atlántica tienen derecho a la preservación de sus lenguas. El Estado establecerá Programas especiales para el ejercicio de este Derecho proporcionará los recursos necesarios para el buen funcionamiento de los mismos, y dictará leyes destinadas a promover acciones que aseguren que ningún nicaraguense sea objeto de discriminación por razón de su lengua.
+Las comunidades de la Costa Atlántica tienen derecho a la preservación de sus lenguas. El Estado establecerá Programas especiales para el ejercicio de este Derecho proporcionará los recursos necesarios para el buen funcionamiento de los mismos, y dictará leyes destinadas a promover acciones que aseguren que ningún nicaragüense sea objeto de discriminación por razón de su lengua.
 
 #### Artículo 3.
 Los órganos administrativos de las Regiones Autónomas tienen entre sus atribuciones el estudio, fomento y desarrollo, preservación y difusión del Patrimonio Lingüístico de las comunidades de la Costa Atlántica, en cumplimiento del Artículo 8 Numeral 5 del Estatuto de Autonomía.
 
 #### Artículo 4.
-Las Lenguas mískitu, creole, sumu, garifona y rama son lenguas de uso oficial en las Regiones Autónomas de la Costa Atlántica.
+Las Lenguas mískitu, creole, sumu, garífona y rama son lenguas de uso oficial en las Regiones Autónomas de la Costa Atlántica.
 
 #### Artículo 5.
 Las Comunidades Mískitu y sumo que históricamente han vivido en los Departamentos de Jinotega y Nueva Segovia también gozarán de los Derechos establecidos en la presente Ley
 
 1
 
-> http://legislacion.asamblea.gob.ni/normaweb.nsf/($All)/DAEC2F3B5D27E15B06257116005A5DBB?OpenDoc ument
+> http://legislacion.asamblea.gob.ni/normaweb.nsf/($All)/DAEC2F3B5D27E15B06257116005A5DBB?OpenDocument
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
 #### Artículo 6.
-El Estado establecerá Programas para preservar, rescatar y promover las culturas mískitu, surnu, rama, creole, garífona. Así como cualquier otra cultura indígena que aún exista, en el país, estudiando la factibilidad futura de la educación en las lenguas maternas respectivas.
+El Estado establecerá Programas para preservar, rescatar y promover las culturas mískitu, sumu, rama, creole, garífona. Así como cualquier otra cultura indígena que aún exista, en el país, estudiando la factibilidad futura de la educación en las lenguas maternas respectivas.
 
 ## Capítulo II
 ### Educación y Comunicación
@@ -56,31 +56,31 @@ El Estado establecerá Programas para preservar, rescatar y promover las cultura
 #### Artículo 7.
 La Constitución Política de la República de Nicaragua reconoce que las comunidades de la Costa Atlántica tienen derecho en su región a la educación en su lengua materna, por lo que:
 
-La educación preescolar contribuirá a desarrollar en los niños las siguientes capacidades:
+- 1.- La educación preescolar contribuirá a desarrollar en los niños las siguientes capacidades:
 
 - a.- El desarrollo de su propia identidad cultural.
 
 - b.- El desarrollo del sistema de valores de su etnia y el respeto de su medio ambiente.
 
-- c- El desarrollo psicomotor y afectivo con las características propias de su comunidad.
+- c.- El desarrollo psicomotor y afectivo con las características propias de su comunidad.
 
 - 2.- La educación primaria inculcará en los niños, entre otras cosas:
 
-- a -Comprensión, tolerancia, igualdad de sexos, amistad, fraternidad y creatividad.
+- a.- Comprensión, tolerancia, igualdad de sexos, amistad, fraternidad y creatividad.
 
 - b.- El respeto a la diversidad étnica, lingüística y cultural y la conciencia de la naturaleza multiétnica de la Nación Nicaragüense.
 
-- c -A utilizar de manera apropiada el idioma español y la lengua oficial propia de su comunidad. Por lo tanto se ampliará el Programa Educativo bilingue intercultural hasta completar la Primaria.
+- c.- A utilizar de manera apropiada el idioma español y la lengua oficial propia de su comunidad. Por lo tanto se ampliará el Programa Educativo bilingüe intercultural hasta completar la Primaria.
 
 - 3.-En la educación media, introducir como asignatura, las lenguas oficiales propias de las comunidades de la Costa Atlántica de manera que se contribuya a desarrollar en los alumnos, las siguientes capacidades.
 
-En el ciclo básico comprender y expresarse correctamente en idioma español y en la lengua oficial propia de su comunidad, textos y mensajes complejos, orales y escritos.
+- a.- En el ciclo básico comprender y expresarse correctamente en idioma español y en la lengua oficial propia de su comunidad, textos y mensajes complejos, orales y escritos.
 
 - b.- Al concluir el ciclo diversificado, dominar el idioma español y la lengua oficial propia de su comunidad.
 
 - 4.- Los estudiantes, en las escuelas normales en las Regiones Autónomas recibirán una formación bilingüe intercultural.
 
-- 5- Los programas de educación bilingue intercultural se ampliarán hacia los Programas de educación de adultos en las Regiones. Autónomas.
+- 5.- Los programas de educación bilingüe intercultural se ampliarán hacia los Programas de educación de adultos en las Regiones Autónomas.
 
 [[END OF PAGE 2]]
 
@@ -118,11 +118,13 @@ El Registro del Estado Civil de las personas y de la propiedad, serán inscritos
 ### Administración de Justicia
 
 #### Artículo 16
-De conformidad con el Artículo 18 del Estatuto de Autonomía, la Administración de Justicia de las Regiones Autónomas se regirá por regulaciones especiales que reflejen sus particularidades culturales propias.
+De conformidad con el Artículo 18 del Estatuto de Autonomía, la
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+Administración de Justicia de las Regiones Autónomas se regirá por regulaciones especiales que reflejen sus particularidades culturales propias.
 
 #### Artículo 17
 Los Jueces, Magistrados, Procuradores, Secretarios y demás funcionarios de Juzgados y Tribunales, además del español, usarán también las lenguas oficiales propias de las partes. Si el caso lo requiere el Poder Judicial nombrará intérpretes y traductores en sus distintas instancias para cumplir con este acto.
@@ -131,7 +133,7 @@ Los Jueces, Magistrados, Procuradores, Secretarios y demás funcionarios de Juzg
 Las partes, sus representantes, así como los testigos y peritos podrán utilizar la lengua también oficial de ellos, tanto en manifestaciones orales como escritas.
 
 #### Artículo 19
-Las actuaciones judiciales, realizadas y los documentos presentados en el idioma oficial de una comunidad de la Costa Atlántica tendrán, sin necesidad de traducción al español plena validéz y eficacia. De oficio, se procederá a su traducción cuando deban surtir efectos fuera de la jurisdicción de los órganos judiciales establecidos en la Región Autónoma, salvo, si se trata de la otra Región Autónoma salvo, si se trata de la otra Región Autónoma con lenguas oficiales propias coincidentes.
+Las actuaciones judiciales, realizadas y los documentos presentados en el idioma oficial de una comunidad de la Costa Atlántica tendrán, sin necesidad de traducción al español plena validez y eficacia. De oficio, se procederá a su traducción cuando deban surtir efectos fuera de la jurisdicción de los órganos judiciales establecidos en la Región Autónoma, salvo, si se trata de la otra Región Autónoma con lenguas oficiales propias coincidentes.
 
 #### Artículo 20
 En todas las fases del proceso policial la persona afectada tiene pleno derecho a expresarse en su lengua materna. Si el caso lo requiere, la policía, nombrará intérpretes y traductores a fin de cumplir con esta, disposición.
@@ -140,7 +142,7 @@ En todas las fases del proceso policial la persona afectada tiene pleno derecho 
 ### De la Administración Pública
 
 #### Artículo 21
-La denominación de las Regiones Autónomas, de sus municipios, ciudades, comarcas, aldeas y otros sitios geográficos, podrá ser, a todos los efectos, en, español, o en cualquier otra lengua oficial en la respeptiva Región Autónoma o en ambas.
+La denominación de las Regiones Autónomas, de sus municipios, ciudades, comarcas, aldeas y otros sitios geográficos, podrá ser, a todos los efectos, en, español, o en cualquier otra lengua oficial en la respectiva Región Autónoma o en ambas.
 
 #### Artículo 22
 Las Lenguas oficiales de las comunidades de la Costa Atlántica lo son también de sus órganos de administración regional municipal y comunal. Toda la documentación derivada de las actuaciones, deberá ser redactada en las lenguas de las comunidades de la Costa Atlántica y tienen validez oficial.
@@ -164,7 +166,7 @@ La presente Ley deroga todas las Disposiciones y Decretos que se le opongan.
 #### Artículo 27
 La presente Ley entrará en vigencia desde la fecha de su publicación en La Gaceta, Diario Oficial.
 
-Dado en la ciudad de Managua en la Sala de Sesiones de la Asamblea Nacional, a los veintidós días del mes de Junio de mil novecientos noventa y tres. GUSTAVO TABLADA ZELAYA , Presidente de la Asamblea Nacional, FRANCISCO DUARTE DUARTE TAPIA, Secretario de la Asamblea Nacional.
+Dado en la ciudad de Managua en la Sala de Sesiones de la Asamblea Nacional, a los veintidós días del mes de Junio de mil novecientos noventa y tres. GUSTAVO TABLADA ZELAYA , Presidente de la Asamblea Nacional, FRANCISCO DUARTE TAPIA, Secretario de la Asamblea Nacional.
 
 Por Tanto:
 
