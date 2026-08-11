@@ -290,7 +290,7 @@ Schulgesetz (SchulG)
 
 - Kinder  und  Jugendliche,  die  in  ihrer  Entwicklung  beeinträchtigt sind,  werden  durch  geeignete  pädagogisch-therapeutische  Massnahmen gefördert.  In  der  Regelschule  ist  darauf  zu  achten,  dass  diese  Massnahmen in Koordination mit den besonderen schulischen Massnahmen (Art. 15a) durchgeführt werden.
 
-- Pädagogisch-therapeutische  Massnahmen  haben  auch  Kinder  zu erfassen, die noch nicht schulpflichtig sind. Der Anspruch von Jugendlichen  auf  pädagogisch-therapeutische  Massnahmen  erlischt  mit  der Vollendung des 20. Altersjahres; für Jugendliche, bei denen pädagogischtherapeutische  Massnahmen  bereits  vor  dem  vollendeten  20.  Altersjahr angeordnet wurden und die Fortsetzung dieser Massnahmen notwendig ist,  dauert  der  Anspruch  bis  zum  Abschluss  der  pädagogisch-therapeutischen  Massnahmen,  längstens  jedoch  bis  zum  vollendeten  22. Altersjahr.
+- Pädagogisch-therapeutische  Massnahmen  haben  auch  Kinder  zu erfassen, die noch nicht schulpflichtig sind. Der Anspruch von Jugendlichen  auf  pädagogisch-therapeutische  Massnahmen  erlischt  mit  der Vollendung des 20. Altersjahres; für Jugendliche, bei denen pädagogisch-therapeutische  Massnahmen  bereits  vor  dem  vollendeten  20.  Altersjahr angeordnet wurden und die Fortsetzung dieser Massnahmen notwendig ist,  dauert  der  Anspruch  bis  zum  Abschluss  der  pädagogisch-therapeutischen  Massnahmen,  längstens  jedoch  bis  zum  vollendeten  22. Altersjahr.
 
 - Mit  der  Durchführung  von  pädagogisch-therapeutischen  Massnahmen  werden  fachlich  ausgewiesene  Personen  oder  private  Institutionen mit fachlich ausgewiesenem Personal betraut. Als fachlich ausgewiesen  gilt,  wer  über  das  entsprechende  Fachdiplom  einer  anerkannten heilpädagogischen Hoch- oder Fachhochschule verfügt.
 
@@ -384,7 +384,7 @@ Schulgesetz (SchulG)
 
 ###### Aufgabe
 
-Dem Kindergarten kommt in Zusammenarbeit mit der Familie und Schule  die  Aufgabe  zu,  das  Kind  nach  den  Erkenntnissen  der  Erziehungswissenschaften  und  der  Kinderpsychologie  zu  erziehen  und  entsprechend seinem Alter und seiner Eigenart so zu fördern, dass dieses die für den Eintritt in die Primarschule erforderliche allgemeine Reife erlangt. Die Regierung erlässt mit Verordnung Richtlinien über die Erziehungsund Bildungsarbeit im Kindergarten sowie über die Kindergartenführung.
+Dem Kindergarten kommt in Zusammenarbeit mit der Familie und Schule  die  Aufgabe  zu,  das  Kind  nach  den  Erkenntnissen  der  Erziehungswissenschaften  und  der  Kinderpsychologie  zu  erziehen  und  entsprechend seinem Alter und seiner Eigenart so zu fördern, dass dieses die für den Eintritt in die Primarschule erforderliche allgemeine Reife erlangt. Die Regierung erlässt mit Verordnung Richtlinien über die Erziehungs- und Bildungsarbeit im Kindergarten sowie über die Kindergartenführung.
 
 > 1 Art. 19 Abs. 1 abgeändert durch LGBl. 2004 Nr. 5.
 
@@ -947,7 +947,7 @@ Schulgesetz (SchulG)
 
 > 2 Art. 52e abgeändert durch LGBl. 2001 Nr. 29.
 
-> 3 Art. 52f Sachübeschrift abgeändert durch LGBl. 2001 Nr. 29.
+> 3 Art. 52f Sachüberschrift abgeändert durch LGBl. 2001 Nr. 29.
 
 > 4 Art. 52f Abs. 1 abgeändert durch LGBl. 2001 Nr. 29.
 
@@ -1920,7 +1920,7 @@ Schulgesetz (SchulG)
 
 ##### Art. 107 4
 
-###### Zusammensetzung, Wahl und Amtsdauer
+###### a) Zusammensetzung, Wahl und Amtsdauer
 
 - Der Schulrat setzt sich aus dem Leiter des Schulamtes als Vorsitzendem und vier Mitgliedern zusammen. Zwei weitere Mitglieder werden als Ersatz bestellt.
 
@@ -2024,7 +2024,7 @@ Schulgesetz (SchulG)
 
 ##### Art. 110 3
 
-###### Zusammensetzung und Amtsdauer
+###### a) Zusammensetzung und Amtsdauer
 
 - Der Gemeindeschulrat setzt sich aus fünf bis sieben Mitgliedern zusammen. Zusätzlich haben je ein Mitglied der Schul- und Kindergartenleitung beratende Stimme.
 
@@ -2374,9 +2374,7 @@ Schulgesetz (SchulG)
 
 Mit  dem  Inkrafttreten  dieses  Gesetzes  sind  unter  Vorbehalt  von Art. 133 ff nachstehende Vorschriften aufgehoben:
 
-- Verordnung  betreffend  die  Regelung  der  Strafgewalt  an  Elementar-
-
-- schulen vom 29. Februar 1864, LGBl. 1864 Nr. 2;
+- Verordnung betreffend die Regelung der Strafgewalt an Elementarschulen vom 29. Februar 1864, LGBl. 1864 Nr. 2;
 
 - Verordnung betreffend die Beschaffenheit und Einrichtung der Schulgebäude und die Schul- und Gesundheitspflege vom 3. Oktober 1890, LGBl. 1890 Nr. 3;
 
@@ -2394,9 +2392,7 @@ Mit  dem  Inkrafttreten  dieses  Gesetzes  sind  unter  Vorbehalt  von Art. 133 
 
 - Gesetz vom 3. April 1952 über die Abänderung der Schulzeit, LGBl. 1952 Nr. 9;
 
-- Gesetz  vom 22.  November 1956 über die Abänderung (Art. 17, 29, 30, 54, 55, 56, 57 und 106) des Schulgesetzes vom 9. November 1929,
-
-- LGBl. 1956 Nr. 17.
+- Gesetz vom 22. November 1956 über die Abänderung (Art. 17, 29, 30, 54, 55, 56, 57 und 106) des Schulgesetzes vom 9. November 1929, LGBl. 1956 Nr. 17.
 
 ##### Art. 133 1
 
@@ -2534,11 +2530,7 @@ gez. Franz Josef gez. Dr. Alfred Hilbe Fürstlicher Regierungschef
 
 Übergangsbestimmungen
 
-.
-
-.
-
-.
+...
 
 Liechtensteinisches Landesgesetzblatt
 
@@ -2562,11 +2554,7 @@ vom 14. März 2007
 
 - Betriebskostenbeiträge,  die  nach  dem  bisherigen  Art.  127  Abs.  2 verfügt wurden, werden solange ausgerichtet, bis der betreffende Schüler die Schule abgeschlossen hat.
 
-.
-
-.
-
-.
+...
 
 > 1 Inkrafttreten: 1. August 2007.
 
