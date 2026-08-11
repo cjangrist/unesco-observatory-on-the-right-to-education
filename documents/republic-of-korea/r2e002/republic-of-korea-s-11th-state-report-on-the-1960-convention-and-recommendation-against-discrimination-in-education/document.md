@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education (“the Convention”) and the Recommendation against Discrimination in Education (“the Recommendation”), adopted by UNESCO’s General Conference in 1960, are aligned with UNESCO’s constitutional mandate to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -72,7 +72,7 @@ In the preparation of reports, Member States are encouraged to provide substanti
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls’ and women’s right to education. Information and data regarding countries’ education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -96,9 +96,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -122,7 +122,7 @@ Email and telephone number of contact person:
 
 - choishw@korea.kr / +82-44-203-6762
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -172,7 +172,7 @@ https://www.unesco.org/en/legal-affairs/convention-against-discrimination-educat
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-■ In 2023, there was a ruling related to the interference by parents/guardians in educational activities  conducted  by  teachers.  A  second-grade  student's  name  was  written  on  the blackboard as punishment for playing with a water bottle during class. He was also made to spend approximately 10 minutes cleaning up after class. The parents claimed this was child abuse and demanded a change of the homeroom teacher. The first trial judged this as an inappropriate interference by parents in the educational activities undertaken by teachers, while the second trial viewed it as a violation of the child's dignity. However, the Supreme Court ruled that it was a legitimate educational activity conducted by the teacher. This ruling marked  the  first  time  the  Supreme  Court  clarified  that  a  teacher' s  educational  judgment should not be infringed upon or unduly interfered with by parents or guardians.
+■ In 2023, there was a ruling related to the interference by parents/guardians in educational activities conducted by teachers. A second-grade student's name was written on the blackboard as punishment for playing with a water bottle during class. He was also made to spend approximately 10 minutes cleaning up after class. The parents claimed this was child abuse and demanded a change of the homeroom teacher. The first trial judged this as an inappropriate interference by parents in the educational activities undertaken by teachers, while the second trial viewed it as a violation of the child's dignity. However, the Supreme Court ruled that it was a legitimate educational activity conducted by the teacher. This ruling marked the first time the Supreme Court clarified that a teacher’s educational judgment should not be infringed upon or unduly interfered with by parents or guardians.
 
 (Law Times, September 14, 2023, https://www.lawtimes.co.kr/news/191293 (in Korean))
 
@@ -198,9 +198,9 @@ It further corresponds to the overall aspiration of SDG4 which aims to 'ensure i
 
 - If yes, please provide reference:
 
-■ The legal basis and policy framework to support the right to education and prevent discrimination in education derive from foundational legislation such as <Constitution> and <Framework Act on Education>. Article 31-1 of <Constitution> stipulates that ' All citizens shall have an equal right to receive an education corresponding to their abilities ,' embodying the principle that all citizens have the right to education without discrimination. Article 4-1 of <Framework Act on Education> further provides the foundation for equal educational opportunities for all citizens.
----
-■ As part of the <Presidential National Agenda>, the government has articulated policies to strengthen national responsibility for education and to realize an inclusive and non- discriminatory education system. Various educational support programs for North Korean defector students, multicultural students, students in crisis, and students with disabilities have been implemented to establish an "education hope ladder" to bridge educational gaps (National Agenda 84-3). In response to learning losses exacerbated by the COVID-19 pandemic, the Ministry of Education introduced measures to enhance the competitiveness of public education in June 2023. These include designating the 3rd grade of elementary school and the 1st grade of middle school as key focus years to support basic academic abilities, thus addressing the academic disparities that tend to widen during these critical periods (National Agenda 82-3, 82-5). Additionally, efforts are being made to bridge the digital education divide and to create an educational foundation for improving digital literacy among vulnerable groups, such as low-income households and adults (National Agenda 81-5). There is also a focus on strengthening the support system for higher education to ensure inclusive, non- discriminatory, and tailored education for students with disabilities (National Agenda 90-4).
+■ The legal basis and policy framework to support the right to education and prevent discrimination in education derive from foundational legislation such as <Constitution> and <Framework Act on Education>. Article 31-1 of <Constitution> stipulates that “All citizens shall have an equal right to receive an education corresponding to their abilities,” embodying the principle that all citizens have the right to education without discrimination. Article 4-1 of <Framework Act on Education> further provides the foundation for equal educational opportunities for all citizens.
+
+■ As part of the <Presidential National Agenda>, the government has articulated policies to strengthen national responsibility for education and to realize an inclusive and non-discriminatory education system. Various educational support programs for North Korean defector students, multicultural students, students in crisis, and students with disabilities have been implemented to establish an "education hope ladder" to bridge educational gaps (National Agenda 84-3). In response to learning losses exacerbated by the COVID-19 pandemic, the Ministry of Education introduced measures to enhance the competitiveness of public education in June 2023. These include designating the 3rd grade of elementary school and the 1st grade of middle school as key focus years to support basic academic abilities, thus addressing the academic disparities that tend to widen during these critical periods (National Agenda 82-3, 82-5). Additionally, efforts are being made to bridge the digital education divide and to create an educational foundation for improving digital literacy among vulnerable groups, such as low-income households and adults (National Agenda 81-5). There is also a focus on strengthening the support system for higher education to ensure inclusive, non-discriminatory, and tailored education for students with disabilities (National Agenda 90-4).
 
 #### 1.1 Non-discrimination and equality in education
 
@@ -272,14 +272,30 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 [[START OF PAGE 9]]
 
-■ <Act on Development of E-learning Industry and Promotion of Utilization of E- Learning> Article 17-2 (Support for Educational Institutions with Regard to E- Learning)
----
-■ <Framework Act on Intelligent Informatization> - Article 3-4 T he State and local governments shall endeavor to provide equal opportunities for all members of the society in utilizing intelligent information technology or in using intelligent information services. - Article 4-4 The State and local governments shall endeavor to solve inequality and actively cope with changes in work environments, which could be caused or worsened by intelligent informatization. - Article 45 (Establishment of Policy Measures for Closing Digital Divide) National agencies and local governments shall establish policy measures necessary to ensure that all citizens can practically enjoy the basic right to efficiently access and beneficially utilize the intelligent information services without any discrimination. - Article 46 (Guaranteeing Access to and Use of Information by Persons with Disabilities and Senior Citizens)
-■ <Elementary and Secondary Education Act> - Article 60-4 (Assistance with Educational Expenses), Article 28-2 (Support for Multicultural Students, etc.)
-■ <Enforcement Decree of the Higher Education Act> - Article 29 (Admission and Transfer) provides for special admissions for North Korean defectors, foreigners, overseas Koreans, and naturalized citizens, among others, under quota exemptions. - Article 42-6 (Operation of Social Integration Admission Process) designates those in need of differentiated educational support, including North Korean defectors, foreigners, overseas Koreans, and naturalized citizens, as eligible for the social integration admissions process.
-■ <Lifelong Education Act> - Article 4 (Ideals of Lifelong Education): All citizens shall be guaranteed equal opportunities for lifelong education. - Article 5 (Duties of the State and Local Governments): The State and local governments shall establish and promote the lifelong education promotion policy to provide all people with opportunities to participate in lifelong education.
-■ <Framework Act on the Promotion of Digital-Based Distance Education> - Article 3 (Basic Principles)
-■ <Act on Special Education for Persons with Disabilities> - Article 4 (Prohibition of Discrimination): (1) The head of school at each level or the head of university shall not discriminate against him/her in the educational opportunity, such as the refusal of an application for admission thereinto or of the admission of a passer in an admission screening test, for reasons of his/her disability. (2) The State, local government, the head of school at each level or the head of university shall not discriminate against the persons eligible for special education and their care giver in any of the following subparagraphs except for cases where it is evident for the performance of education in consideration of the characteristics of the disabled: a. Discrimination in
+■ <Act on Development of E-learning Industry and Promotion of Utilization of E-Learning> Article 17-2 (Support for Educational Institutions with Regard to E-Learning)
+
+■ <Framework Act on Intelligent Informatization>
+‒ Article 3-4 The State and local governments shall endeavor to provide equal opportunities for all members of the society in utilizing intelligent information technology or in using intelligent information services.
+‒ Article 4-4 The State and local governments shall endeavor to solve inequality and actively cope with changes in work environments, which could be caused or worsened by intelligent informatization.
+‒ Article 45 (Establishment of Policy Measures for Closing Digital Divide) National agencies and local governments shall establish policy measures necessary to ensure that all citizens can practically enjoy the basic right to efficiently access and beneficially utilize the intelligent information services without any discrimination.
+‒ Article 46 (Guaranteeing Access to and Use of Information by Persons with Disabilities and Senior Citizens)
+
+■ <Elementary and Secondary Education Act>
+‒ Article 60-4 (Assistance with Educational Expenses), Article 28-2 (Support for Multicultural Students, etc.)
+
+■ <Enforcement Decree of the Higher Education Act>
+‒ Article 29 (Admission and Transfer) provides for special admissions for North Korean defectors, foreigners, overseas Koreans, and naturalized citizens, among others, under quota exemptions.
+‒ Article 42-6 (Operation of Social Integration Admission Process) designates those in need of differentiated educational support, including North Korean defectors, foreigners, overseas Koreans, and naturalized citizens, as eligible for the social integration admissions process.
+
+■ <Lifelong Education Act>
+‒ Article 4 (Ideals of Lifelong Education): All citizens shall be guaranteed equal opportunities for lifelong education.
+‒ Article 5 (Duties of the State and Local Governments): The State and local governments shall establish and promote the lifelong education promotion policy to provide all people with opportunities to participate in lifelong education.
+
+■ <Framework Act on the Promotion of Digital-Based Distance Education>
+‒ Article 3 (Basic Principles)
+
+■ <Act on Special Education for Persons with Disabilities>
+‒ Article 4 (Prohibition of Discrimination): (1) The head of school at each level or the head of university shall not discriminate against him/her in the educational opportunity, such as the refusal of an application for admission thereinto or of the admission of a passer in an admission screening test, for reasons of his/her disability. (2) The State, local government, the head of school at each level or the head of university shall not discriminate against the persons eligible for special education and their care giver in any of the following subparagraphs except for cases where it is evident for the performance of education in consideration of the characteristics of the disabled: a. Discrimination in
 
 [[END OF PAGE 9]]
 
@@ -319,171 +335,35 @@ provision  of  special  education-related  services  under Article  28;  b.  Exc
 
 [[START OF PAGE 11]]
 
-expand the number of vocational high schools specializing in education for
-
-students with a multicultural background, increasing the number from 10 in
-
-2024 to 20 by 2027. In relation to this, the plan seeks to utilize vocational
-
-colleges
-
-to
-
-expand
-
-vocational
-
-education
-
-programs
-
-customized
-
-for
-
-multicultural  students  and  promote  related  projects  linking  provincial
-
-education offices and universities.
-
-∙
-
-Career counselling and academic support are provided through mentoring
-
-programs for university students with a multicultural background.
-
-∙
-
-Career education, such as work experience programs and career concert, is
-
-being expanded and diversified for migrant background youth.
-
-∙
-
-The plan includes expanding infrastructure such as Korean language classes,
-
-support personnel, and after-school programs for multicultural schools with
-
-a high concentration of students with migrant backgrounds.
-
--
-
-<4th Basic Plan for Multicultural Family Policies (2023-2027)>
-
-∙
-
-Support for early childhood care includes step-by-step parent education and
-
-services for children's language education and daily life guidance.
-
-∙
-
-A home education program for those who have difficulty attending centre-
-
-based  education  provides  Korean  language  and  parental  education  for
-
-parents and basic learning guidance, reading, and homework assistance for
-
-children.
-
-∙
-
-To  enhance  learning  capabilities  for  multicultural  children  of  school  age,
-
-support is provided for basic learning before and after entering elementary
-
-school,
-
-increasing
-
-accessibility
-
-to
-
-services,
-
-strengthening
-
-cooperation
-
-between  Korean  language  classes  in  schools  and  family  centres,  and
-
-providing translation services for school notices and family communications.
-
-∙
-
-Tailored services for older adolescents include vocational training through
-
-institutions  such  as  Korea  Polytechnics  and  Naeil-Ilum  Schools,  as  well  as
-
-subsidy programs that promote youth employment opportunities.
-
-∙
-
-Digital  skills  development  for  multicultural  youth  is  supported  through
-
-initiatives such as the National Tomorrow Learning Card and K-Digital Basic
-
-Competency Training Program (K-Digital Credit).
-
-■
-
-A state scholarship system and special admissions programs for various groups
-
-including  for  rural  students,  children  of  disabled  parents,  and  children  from
-
-multicultural families aim at preventing discrimination and ensure equal access to
-
-higher  education.  Additionally,  to  protect  the  human  rights  of  students  and
-
-education personnel, and to prevent and address sexual harassment and sexual
-
-violence, all universities are required to establish human rights centres. The duties
-
-of  these  centres  include  counselling  and  investigating  human  rights  violations,
-
-promoting  education  and  awareness  on  human  rights,  and  preventing  and
-
-responding  to  sexual  harassment  and  sexual  violence  (Article  19-3  of  <Higher
-
-Education Act> and Article 9-3 of the Enforcement Decree).
-
-■
-
-The Ministry of Education is developing and applying digital textbooks for digital
-
-education that are accessible to students with disabilities and has issued guidelines
-
-to ensure web accessibility. Additionally, the Ministry contributes to preventing
-
-educational discrimination through policies and programs in the following lifelong
-
-learning areas:
-
--
-
-Academic Credit Bank System: Recognizes various forms of learning inside and
-
-outside  schools,  allowing  learners  to  accumulate  credits  towards  a  degree,
-
-providing opportunities for educational recognition and degree acquisition.
+expand the number of vocational high schools specializing in education for students with a multicultural background, increasing the number from 10 in 2024 to 20 by 2027. In relation to this, the plan seeks to utilize vocational colleges to expand vocational education programs customized for multicultural students and promote related projects linking provincial education offices and universities.
+∙ Career counselling and academic support are provided through mentoring programs for university students with a multicultural background.
+∙ Career education, such as work experience programs and career concert, is being expanded and diversified for migrant background youth.
+∙ The plan includes expanding infrastructure such as Korean language classes, support personnel, and after-school programs for multicultural schools with a high concentration of students with migrant backgrounds.
+
+‒ <4th Basic Plan for Multicultural Family Policies (2023-2027)>
+∙ Support for early childhood care includes step-by-step parent education and services for children's language education and daily life guidance.
+∙ A home education program for those who have difficulty attending centre-based education provides Korean language and parental education for parents and basic learning guidance, reading, and homework assistance for children.
+∙ To enhance learning capabilities for multicultural children of school age, support is provided for basic learning before and after entering elementary school, increasing accessibility to services, strengthening cooperation between Korean language classes in schools and family centres, and providing translation services for school notices and family communications.
+∙ Tailored services for older adolescents include vocational training through institutions such as Korea Polytechnics and Naeil-Ilum Schools, as well as subsidy programs that promote youth employment opportunities.
+∙ Digital skills development for multicultural youth is supported through initiatives such as the National Tomorrow Learning Card and K-Digital Basic Competency Training Program (K-Digital Credit).
+
+■ A state scholarship system and special admissions programs for various groups including for rural students, children of disabled parents, and children from multicultural families aim at preventing discrimination and ensure equal access to higher education. Additionally, to protect the human rights of students and education personnel, and to prevent and address sexual harassment and sexual violence, all universities are required to establish human rights centres. The duties of these centres include counselling and investigating human rights violations, promoting education and awareness on human rights, and preventing and responding to sexual harassment and sexual violence (Article 19-3 of <Higher Education Act> and Article 9-3 of the Enforcement Decree).
+
+■ The Ministry of Education is developing and applying digital textbooks for digital education that are accessible to students with disabilities and has issued guidelines to ensure web accessibility. Additionally, the Ministry contributes to preventing educational discrimination through policies and programs in the following lifelong learning areas:
+‒ Academic Credit Bank System: Recognizes various forms of learning inside and outside schools, allowing learners to accumulate credits towards a degree, providing opportunities for educational recognition and degree acquisition.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-
+‒ Self-Study Degree System: Enables learners to earn degrees by passing a national examination, offering recognition of educational attainment and degree acquisition opportunities for self-taught learners.
+‒ Lifelong Education System Support Project for Universities (LiFE): Supports universities in establishing and operating lifelong education systems that are adult-learner-friendly, allowing adult learners who have entered the workforce after high school to balance work and study, pursue degrees, and engage in continuous career development.
+‒ Adult Literacy Education Support Program: Provides support for adult literacy education programs and establishes a literacy-based primary and middle school accreditation system to offer educational opportunities to illiterate or low-educated adults.
+‒ Lifelong Education Voucher Support Program: Provides lifelong education vouchers of up to 350,000 KRW per person annually to adults aged 19 or older from low-income households, second-lowest income bracket groups, or educationally marginalized communities, ensuring that all citizens have the opportunity to participate in learning regardless of their circumstances.
 
--Self-Study Degree System: Enables learners to earn degrees by passing a national examination, offering recognition of educational attainment and degree acquisition opportunities for self-taught learners.
+■ The Ministry of Unification, through < 4th Basic Plan for the Settlement Support of North Korean Defectors (2024-2026)>, and the Ministry of Education, through the annual Support Plan for North Korean Defector Students, work to prohibit discrimination against North Korean defector students and ensure equal access to education.
 
--Lifelong  Education  System  Support  Project  for  Universities  (LiFE):  Supports universities  in  establishing  and  operating  lifelong  education  systems  that  are adult-learner-friendly, allowing adult learners who have entered the workforce after  high  school  to  balance  work  and  study,  pursue  degrees,  and  engage  in continuous career development.
-
--Adult Literacy Education Support Program: Provides support for adult literacy education programs and establishes a literacy-based primary and middle school accreditation  system  to  offer  educational  opportunities  to  illiterate  or  loweducated adults.
-
--Lifelong  Education  Voucher  Support  Program:  Provides  lifelong  education vouchers of up to 350,000 KRW per person annually to adults aged 19 or older from low-income households, second-lowest income bracket groups, or educationally  marginalized  communities,  ensuring  that  all  citizens  have  the opportunity to participate in learning regardless of their circumstances.
-
-■ The Ministry of Unification, through < 4th Basic Plan for the Settlement Support of North Korean Defectors (2024-2026)>, and the Ministry of Education, through the annual  Support  Plan  for  North  Korean  Defector  Students,  work  to  prohibit discrimination against North Korean defector students and ensure equal access to education.
-
-Combatting discrimination in terms of curriculum:
+ Combatting discrimination in terms of curriculum:
 
  In pre-primary education (including early learning and care)
 
@@ -499,129 +379,36 @@ Combatting discrimination in terms of curriculum:
 
 - Please provide details:
 
-The 2022 Revised the National Curriculum for Elementary and Secondary Schools aims  to  provide  appropriate  educational  opportunities  to  learners  with  diverse characteristics  without  discrimination.  Throughout  all  educational  activities,  the curriculum aims to guide students to avoid holding stereotypes or biases based on gender  roles,  educational  background  or  occupation,  disability,  religion,  previous residence,  race,  ethnicity,  or  language.  The  relevant  provisions  from  the  national framework of the revised curriculum are as follows:
+The 2022 Revised the National Curriculum for Elementary and Secondary Schools aims to provide appropriate educational opportunities to learners with diverse characteristics without discrimination. Throughout all educational activities, the curriculum aims to guide students to avoid holding stereotypes or biases based on gender roles, educational background or occupation, disability, religion, previous residence, race, ethnicity, or language. The relevant provisions from the national framework of the revised curriculum are as follows:
 
-The National Framework for the Elementary and Secondary Curriculum (Proclamation of the Ministry of Education No. 2022-33 [Annex 1])
+The National Framework for the Elementary and Secondary Curriculum
+(Proclamation of the Ministry of Education No. 2022-33 [Annex 1])
 
-- Designing and Implementing the School Curriculum
+II. Designing and Implementing the School Curriculum
 
-- Teaching and Learning
+2. Teaching and Learning
 
-- Schools diversify learning activities and methods based on the characteristics of the subject matter and students' abilities, aptitudes, and careers  and  promote  personalized  lessons  by  forming  various  learning groups based on the school environment and stu dents' characteristics.
+C. Schools diversify learning activities and methods based on the characteristics of the subject matter and students’ abilities, aptitudes, and careers and promote personalized lessons by forming various learning groups based on the school environment and students’ characteristics.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-3)
-
-Schools recognize and respect the diversity of students' personal and
-
-sociocultural contexts, such as their multicultural backgrounds, family
-
-compositions,  and  disability  statuses.  Schools  also  strive  to  avoid
-
-creating
-
-bias,
-
-stereotypes,
-
-or
-
-discrimination
-
-while
-
-reflecting
-
-this
-
-diversity in teaching
+3) Schools recognize and respect the diversity of students’ personal and sociocultural contexts, such as their multicultural backgrounds, family compositions, and disability statuses. Schools also strive to avoid creating bias, stereotypes, or discrimination while reflecting this diversity in teaching
 
 4. Equal Opportunities for All Students
 
-A. Schools instruct students not to have biases and prejudices about gender
+A. Schools instruct students not to have biases and prejudices about gender roles, education levels and occupations, disabilities, religions, regions of residence, races, ethnicities, and languages throughout all of their educational activities.
 
-roles,  education  levels  and  occupations,  disabilities,  religions,  regions  of
+B. Schools ensure that students are not unfairly discriminated against or segregated from educational opportunities and learning experiences due to their personal characteristics or social and cultural backgrounds.
 
-residence,
+C. Schools provide supports for adequate learning experiences for their entire student body, including but not limited to: underachievers, gifted students, students with disabilities, returnees from overseas, students from multicultural backgrounds, and so forth.
 
-races,
+D. In the case of installing and managing classrooms for students with special needs, schools may adjust this curriculum or apply the special education curriculum textbooks and teaching and learning materials for inclusive education, by taking into account the degree and types of students’ disabilities.
 
-ethnicities,
+E. In the case of installing and managing classrooms for students with multicultural backgrounds, schools may adjust this curriculum or adopt a Korean as a Second Language (KSL) curriculum and teaching and learning materials based on the level of students’ Korean proficiency. Schools may offer the Korean Language curriculum for approximately 10 hours per week according to school circumstances and the needs of parents, teachers, and students.
 
-and  languages  throughout  all  of
-
-their
-
-educational activities.
-
-B.  Schools  ensure  that  students  are  not  unfairly  discriminated  against  or
-
-segregated from educational opportunities and learning experiences due
-
-to their personal characteristics or social and cultural backgrounds.
-
-C.  Schools provide supports for adequate learning experiences for their entire
-
-student body, including but not limited to: underachievers, gifted students,
-
-students
-
-with
-
-disabilities,
-
-returnees
-
-from
-
-overseas,
-
-students
-
-from
-
-multicultural backgrounds, and so forth.
-
-D. In the case of installing and managing classrooms for students with special
-
-needs, schools may adjust this curriculum or apply the special education
-
-curriculum  textbooks  and  teaching  and  learning  materials  for  inclusive
-
-education,
-
-by  taking  into  account  the  degree  and  types  of  students'
-
-disabilities.
-
-E.  In  the  case  of  installing  and  managing  classrooms  for  students  with
-
-multicultural backgrounds, schools may adjust this curriculum or adopt a
-
-Korean as a Second Language (KSL) curriculum and teaching and learning
-
-materials based on the level of students' Kor
-
-ean proficiency. Schools may
-
-offer the Korean Language curriculum for approximately 10 hours per week
-
-according to school circumstances and the needs of parents, teachers, and
-
-students.
-
-F.  In  the  case  of  offering  a  religion  course,  schools  should  offer  multiple
-
-courses  in  addition  to  the  religious  course  to  ensure  students'  right  to
-
-choose.  However,  in  the  case  of  religion-affiliated  schools-in  which
-
-students willingly enrol-a single course may be offered with the consent of
-
-parents and students.
+F. In the case of offering a religion course, schools should offer multiple courses in addition to the religious course to ensure students’ right to choose. However, in the case of religion-affiliated schools-in which students willingly enrol-a single course may be offered with the consent of parents and students.
 
 IV. Support for School Curriculum
 
@@ -629,160 +416,68 @@ IV. Support for School Curriculum
 
 A. Support at the national level
 
-3) Develop plans to support students with diverse characteristics, such as
+3) Develop plans to support students with diverse characteristics, such as underachievers, slow learners, students from multicultural backgrounds, and so on
 
-underachievers, slow learners, students from multicultural backgrounds,
-
-and so on
-
-4) Provide reasonable accommodations for students with special needs by
-
-assisting with teaching and learning materials, assessment methods and
-
-tools, and so on.
+4) Provide reasonable accommodations for students with special needs by assisting with teaching and learning materials, assessment methods and tools, and so on.
 
 B. Support at the level of local offices of education
 
-3)
+3) Support personalized education that values students’ diversity and prevent learning alienation and the widening of the educational gap.
 
-Support  personalized  education  that  values  students'  diversity  and
+a. Establish a support system for rural schools and small schools to reduce the educational gap across regions as well as between schools.
 
-prevent learning alienation and the widening of the educational gap.
-
-a.    Establish  a  support  system  for  rural  schools  and  small  schools  to
-
-reduce  the  educational  gap  across  regions  as  well  as  between
-
-schools.
-
-b.  Support educational communities in working together to plan and
-
-implement personalized educational activities that meet the needs
+b. Support educational communities in working together to plan and implement personalized educational activities that meet the needs
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-and  demands  of  individual  students  in  order  to  ensure  that  no student is marginalized from their learning.
+and demands of individual students in order to ensure that no student is marginalized from their learning.
 
-c.
+c. Provide various opportunities for students to make up any incomplete courses, especially for those who were unable to take certain subjects in the common curriculum or high school common courses due to transfer between schools or returning from overseas. Endeavor to provide students with the opportunity to take courses in qualified public institutions in the local community.
 
-Provide
+d. Support students from diverse backgrounds, including returnees from overseas and students from multicultural backgrounds, to ensure that their educational experiences and backgrounds do not impede their completion of the school curriculum
 
-various
+e. Prepare and provide educational opportunities for gifted students, slow learners, and students with special needs.
 
-opportunities
+■ Beyond the Republic of Korea’s national curriculum, further efforts are being made to prevent discrimination and ensure equal educational opportunities for all through the inclusion of appropriate guidelines in the Guidelines for the Compilation of Textbooks for Elementary and Secondary Schools.
 
-for
-
-students
-
-to
-
-make  up
-
-any
-
-incomplete courses, especially for those who were unable to take
-
-certain subjects in the common curriculum or high school common
-
-courses
-
-due  to
-
-transfer
-
-between  schools  or
-
-returning  from
-
-overseas.  Endeavor  to  provide  students  with  the  opportunity  to
-
-take courses in qualified public institutions in the local community.
-
-- Support  students  from  diverse  backgrounds,  including  returnees from  overseas  and  students  from  multicultural  backgrounds,  to ensure that their educational experiences and backgrounds do not impede their completion of the school curriculum
-
-e.  Prepare and provide educational opportunities for gifted students,
-
-slow learners, and students with special needs.
-
-■
-
-Beyond the
-
-Republic of Korea's
-
-national curriculum, further efforts are being made
-
-to  prevent  discrimination  and  ensure  equal  educational  opportunities  for  all
-
-through  the  inclusion  of
-
-appropriate  guidelines  in
-
-the
-
-Guidelines  for  the
-
-Compilation of Textbooks for Elementary and Secondary Schools.
-
-Guidelines  for  the  Compilation  of  Textbooks  according  to  the  2022  Revised National Curriculum
+Guidelines for the Compilation of Textbooks according to the 2022 Revised National Curriculum
 
 II. Common Guidelines for Compilation
 
-- Maintaining Neutrality in Education
+2. Maintaining Neutrality in Education
 
-- Educational content should fulfil its purpose according to the original goals
+- Educational content should fulfil its purpose according to the original goals of education and should not be used as a means to spread political, partisan, or personal bias. Content must be handled impartially and educationally.
 
-of education and should not be used as a means to spread political, partisan,
+- Educational content should not promote or criticize specific countries, races, ethnicities, political parties, religions, individuals, institutions, or products. Moreover, it should avoid any bias related to gender roles, disabilities, or occupations.
 
-or personal bias. Content must be handled impartially and educationally.
+- The content must not include any statements that defame socially disadvantaged groups or that encourage prejudice, and it should ensure that the dignity of individuals is maintained.
 
-- Educational content should not promote or criticize specific countries, races,
+■ According to the 2022 Revised National Curriculum, cross-curricular themes include character education, democratic citizenship education, human rights education, and multicultural education. Through these cross-curricular themes, students learn the value of non-discrimination.
 
-ethnicities, political parties, religions, individuals, institutions, or products.
+■ Legal and policy efforts focusing on multicultural children and youth in the curriculum can also be found in the following:
 
-Moreover, it should avoid any bias related to gender roles, disabilities, or
+‒ <Elementary and Secondary Education Act> Article 19-4 specifies that multicultural children and youth may be admitted or transferred to elementary schools with special classes for multicultural students, thus creating curricula for ethnic minorities.
 
-occupations.
-
--  The  content  must  not  include  any  statements  that  defame  socially
-
-disadvantaged groups or that encourage prejudice, and it should ensure that
-
-the dignity of individuals is maintained.
-
-■
-
-According  to  the  2022  Revised  National  Curriculum,  cross-curricular  themes
-
-include  character  education,  democratic  citizenship  education,  human  rights
-
-education, and  multicultural  education.  Through  these  cross-curricular  themes,
-
-students learn the value of non-discrimination.
-
-■ Legal  and  policy  efforts  focusing  on  multicultural  children  and  youth  in  the curriculum can also be found in the following:
-
-<Elementary and Secondary Education Act> Article 19-4 specifies that multicultural children and youth may be admitted or transferred to elementary schools with special classes for multicultural students, thus creating curricula for ethnic minorities.
-
-- Regions  with  high  concentrations  of  multicultural  children  and  youth  are designated as Special Zones for Educational Internationalization, and <Special Act  on  the  Designation,  Operation,  and  Promotion  of  Special  Zones  for Educational Internationalization> has been enacted in this regard. According to Article 10 (Special Cases for the Operation of Elementary and Secondary Schools) of this Act, elementary, middle, and high schools within the designated special zones  may  operate  schools  that  are  not  subject  to  Articles  23  and  29  of
+‒ Regions with high concentrations of multicultural children and youth are designated as Special Zones for Educational Internationalization, and <Special Act on the Designation, Operation, and Promotion of Special Zones for Educational Internationalization> has been enacted in this regard. According to Article 10 (Special Cases for the Operation of Elementary and Secondary Schools) of this Act, elementary, middle, and high schools within the designated special zones may operate schools that are not subject to Articles 23 and 29 of
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-<Elementary and Secondary Education Act> upon designation by the superintendent of the office of education of the special zone. This ensures autonomy in designing curricula and textbooks tailored to the needs of multicultural students. ∙ Relevant case: Since 2012, the Gunseo Mirae International School has operated as an integrated school under Article 60-3 (Alternative Schools) of <Elementary and Secondary Education Act>, Article 30 of the same Act, and Article 56 (Operation of Integrated Schools) of the Enforcement Decree. This school selects both Korean and multicultural students from Siheung City and provides education in Korean, English, and students' native languages (primarily Chinese and Russian), as well as global citizenship education and cultural diversity education. The school operates a non-graded system based on a credit system and is focused on student participation.
----
+<Elementary and Secondary Education Act> upon designation by the superintendent of the office of education of the special zone. This ensures autonomy in designing curricula and textbooks tailored to the needs of multicultural students.
+∙ Relevant case: Since 2012, the Gunseo Mirae International School has operated as an integrated school under Article 60-3 (Alternative Schools) of <Elementary and Secondary Education Act>, Article 30 of the same Act, and Article 56 (Operation of Integrated Schools) of the Enforcement Decree. This school selects both Korean and multicultural students from Siheung City and provides education in Korean, English, and students' native languages (primarily Chinese and Russian), as well as global citizenship education and cultural diversity education. The school operates a non-graded system based on a credit system and is focused on student participation.
+
 ■ The National Human Rights Commission of Korea separately operates various educational programs aimed at promoting human rights and raising awareness of human rights issues among public officials, teachers, social workers, and local council members. These programs include mandatory content on the prevention of hate and discrimination.
+
 ■ The national curriculum includes elements to address discrimination regarding North Korean defectors through subjects such as Moral Education and Integrated Social Studies s in elementary, middle, and high schools, which include content on improving the relationship between North and South Korea and the approaches to the issue of reunification, including education to foster understanding of North Korean defectors. The 2022 Revised National Framework for the Elementary and Secondary Curriculum also include a specific cross-curricular theme that fosters understanding of North Korean students, while four of the 10 cross-curricular themes (democratic citizenship education, human rights education, multicultural education, and unification education) emphasize the importance of respect for human dignity and rights, democratic citizenship, and respect for diversity in light of the increasing number of multicultural families and North Korean students. Unification education focuses on the peaceful reunification of the Korean Peninsula and aims to enhance competencies for the integration of the North and South Korean populations, with understanding of North Korean residents and students as part of the curriculum.
 
  Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
 ■ The National Human Rights Commission of Korea, in cooperation with the National Council of Governors of Education, has issued a joint declaration titled the Joint Declaration for Equality and Respect for Human Rights in Schools, and Response to Hate Speech. The Commission has also developed and distributed various educational materials, including guidelines for preventing hate speech and resources aimed at raising awareness, to schools at all levels.
----
-■ The Ministry of Unification has appointed a Human Rights Protection Officer at temporary protection facilities for North Korean defectors to strengthen the protection of defectors' human rights. The Human Rights Protection Officer provides advice and recommendations for improvement regarding the protection of North Korean defectors' human rights and conducts human rights education for staff at temporary protection facilities. In accordance with Article 12- 5 of <Enforcement Decree of the North Korean Defector Protection and Settlement Support Act>,
+
+■ The Ministry of Unification has appointed a Human Rights Protection Officer at temporary protection facilities for North Korean defectors to strengthen the protection of defectors’ human rights. The Human Rights Protection Officer provides advice and recommendations for improvement regarding the protection of North Korean defectors' human rights and conducts human rights education for staff at temporary protection facilities. In accordance with Article 12-5 of <Enforcement Decree of the North Korean Defector Protection and Settlement Support Act>,
 
 [[END OF PAGE 15]]
 
@@ -792,7 +487,7 @@ one Human Rights Protection Officer is assigned to each temporary protection fac
 
 #### 1.2 Equality of opportunities and inclusion in education
 
-- Please  indicate  the  actions  taken/planned  to  ensure  equality  of  opportunities  (in  terms  of  access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):
+- Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):
 
 ##### General measures:
 
@@ -806,51 +501,48 @@ one Human Rights Protection Officer is assigned to each temporary protection fac
 
  Other:
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-■ Legal Measures
-
--The  Republic  of  Korea  has  strengthened  legal  measures  based  on  Article  31  of  the Constitution, Article 4 of <Framework Act on Education>, and subordinate laws.
-
--<Enforcement Decree of the Elementary and Secondary Education Act> was amended twice, first to support the smooth and efficient integration of multicultural and migrantbackground students into public education (July 2020) and later to establish the basis for conducting a situational analysis on multicultural education (April 2024). As part of this effort,  the  Scholastic  Ability  Deliberative  Committee  was  reformed  to  facilitate  the review of academic qualifications for middle school admission, addressing the difficulties faced by migrant-background students. A Multicultural Education Support Centre will also be established to provide tailored educational support and to develop policies aimed at multicultural students.
-
--<Act  on  Guarantee  of  Basic  Academic  Ability>  enacted  in  2021  guarantees  basic academic abilities of all students, thereby realizing an education system where students
-
-> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
-
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
-
-> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
-
  Multiple and flexible learning pathways 17 are provided for
 
  Curricula and teaching methods are inclusive in design 18
 
  Multilingual and intercultural education is supported
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+■ Legal Measures
+
+‒ The Republic of Korea has strengthened legal measures based on Article 31 of the Constitution, Article 4 of <Framework Act on Education>, and subordinate laws.
+
+‒ <Enforcement Decree of the Elementary and Secondary Education Act> was amended twice, first to support the smooth and efficient integration of multicultural and migrant-background students into public education (July 2020) and later to establish the basis for conducting a situational analysis on multicultural education (April 2024). As part of this effort, the Scholastic Ability Deliberative Committee was reformed to facilitate the review of academic qualifications for middle school admission, addressing the difficulties faced by migrant-background students. A Multicultural Education Support Centre will also be established to provide tailored educational support and to develop policies aimed at multicultural students.
+
+‒ <Act on Guarantee of Basic Academic Ability> enacted in 2021 guarantees basic academic abilities of all students, thereby realizing an education system where students
+
+> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+
+> 17 Multiple and flexible learning pathways are ‘entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education’ (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+
+> 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
+
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-- can learn according to their abilities. A comprehensive plan for ensuring basic academic abilities has been formulated, and inclusive education measures are being implemented, such  as  the  establishment  of  a  Basic  Academic  Ability  Assurance  Committee,  the selection of students in need of learning support, and the provision of learning support education.
+can learn according to their abilities. A comprehensive plan for ensuring basic academic abilities has been formulated, and inclusive education measures are being implemented, such as the establishment of a Basic Academic Ability Assurance Committee, the selection of students in need of learning support, and the provision of learning support education.
 
-<Act  on  the  Support  of  Out-of-School  Youth>  was  amended,  and  starting  in  2024, information about youth who drop out of high school will automatically be linked to the support centres for out-of-school youth, enabling proactive learning support for these individuals.
+‒ <Act on the Support of Out-of-School Youth> was amended, and starting in 2024, information about youth who drop out of high school will automatically be linked to the support centres for out-of-school youth, enabling proactive learning support for these individuals.
 
 ■ Policy Measures
 
-- The Ministry of Education announced <First Comprehensive Plan for Guaranteeing Basic Academic  Abilities  (2023-2027)> in October  2022, aiming to realize a national educational system that ensures all students achieve basic academic abilities. The plan consists of four core tasks - diagnostics, support, prevention, and foundation-laying - each with 2 to 4 specific actions to be completed by 2027.
+‒ The Ministry of Education announced <First Comprehensive Plan for Guaranteeing Basic Academic Abilities (2023-2027)> in October 2022, aiming to realize a national educational system that ensures all students achieve basic academic abilities. The plan consists of four core tasks—diagnostics, support, prevention, and foundation-laying—each with 2 to 4 specific actions to be completed by 2027.
 
-- In  2023,  the  government  announced  <Support  Plan  for  At-Risk  Students  and  Out-of- School  Youth>,  which  expands  support  for  out-of-school  youth  to  complete  their education. Previously, only estimates of the number of out-of-school youth existed, but starting in 2024, basic statistics will be introduced to comprehensively track the number and location of out-of-school youth.
+‒ In 2023, the government announced <Support Plan for At-Risk Students and Out-of-School Youth>, which expands support for out-of-school youth to complete their education. Previously, only estimates of the number of out-of-school youth existed, but starting in 2024, basic statistics will be introduced to comprehensively track the number and location of out-of-school youth.
 
-<4th  Basic  Plan  for  Multicultural  Family  Policies  (2023-2027)>  includes  enhancing multicultural  acceptance  based  on  mutual  respect  as  one  of  its  main  pillars.  It strengthens education to increase understanding of multiculturalism tailored to different groups,  including  the  citizens,  public  officials,  and  staff  of  relevant  organizations.  To promote awareness of  the  need to  respect  diversity,  discriminatory  factors  affecting multicultural  families  in  the  public  sector  and  other  areas  are  being  assessed,  with initiatives  such  as  the  improvement  of  the  media  environment  and  social  awareness included as core activities. Additionally, under <2022 Multicultural Education Support Plan for Equality of Starting Lines>, efforts are made to create a school environment that embraces diversity by:
-
+‒ <4th Basic Plan for Multicultural Family Policies (2023-2027)> includes enhancing multicultural acceptance based on mutual respect as one of its main pillars. It strengthens education to increase understanding of multiculturalism tailored to different groups, including the citizens, public officials, and staff of relevant organizations. To promote awareness of the need to respect diversity, discriminatory factors affecting multicultural families in the public sector and other areas are being assessed, with initiatives such as the improvement of the media environment and social awareness included as core activities. Additionally, under <2022 Multicultural Education Support Plan for Equality of Starting Lines>, efforts are made to create a school environment that embraces diversity by:
 ① Expanding education on multicultural understanding for all students
+② Enhancing the multicultural education capacity of teachers
+③ Emphasizing connections with families and local communities.
 
-- ② Enhancing the multicultural education capacity of teachers
-
-- ③ Emphasizing connections with families and local communities.
-
-- The  2022  Revised  National  Curriculum  specifies  in  its  Framework  and  other  parts including  Designing  and  Implementing  the  School  Curriculum  and  Guidelines  for  the Compilation of Textbooks the importance  of providing appropriate educational opportunities  to  learners  with  diverse  characteristics  without  discrimination.  The curriculum  includes  cross-curricular  themes  such  as  character  education,  democratic citizenship  education,  human  rights  education,  and  multicultural  education,  through which students learn the value of non-discrimination.
+‒ The 2022 Revised National Curriculum specifies in its Framework and other parts including Designing and Implementing the School Curriculum and Guidelines for the Compilation of Textbooks the importance of providing appropriate educational opportunities to learners with diverse characteristics without discrimination. The curriculum includes cross-curricular themes such as character education, democratic citizenship education, human rights education, and multicultural education, through which students learn the value of non-discrimination.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
@@ -904,7 +596,7 @@ one Human Rights Protection Officer is assigned to each temporary protection fac
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ‘Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal’ (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -914,147 +606,59 @@ one Human Rights Protection Officer is assigned to each temporary protection fac
 
 include developing and implementing educational programs by developmental stage for elementary and secondary students, creating guidelines for teachers, conducting gender equality status surveys at national universities, and adding gender equality indicators to university information disclosure systems.
 
--
+‒ As part of <Educational Officials Act> amendment (passed in November 2019), policies for gender equality in the appointment of faculty members at national and public universities are currently being implemented.
 
-As part of <Educational Officials Act> amendment (passed in November 2019), policies
+■ Initiation of Gender-Sensitive Education Programs
 
-for  gender  equality  in  the  appointment  of  faculty  members  at  national  and  public
+‒ <Framework Act on Gender Equality>, Article 18 (Gender-Responsive Education), mandates that the state and local governments provide education to all public officials to enhance their understanding of the impact of laws, policies, customs, and systems on both women and men. In addition, Article 36 (Gender Equality Education) requires efforts to promote gender equality awareness through education in family and schools, as well as in training courses of national and public training institutions, lifelong education institutions.
 
-universities are currently being implemented.
+■ Affirmative Action / Financial Support and Fellowships
 
-■
+‒ <Act on Fostering and Supporting Women in Science and Technology> and <Basic Plan for Supporting and Fostering Women in Science and Technology> provide preferential treatment and financial support for women in STEM fields and female science and engineering students (e.g., a quota system for female principal investigators, additional points for women researchers in project selection, and start-up support for female graduate students in science and engineering).
 
-Initiation of Gender-Sensitive Education Programs
+■ Teacher Training on Gender Equality
 
--
+‒ Teachers are required to complete at least one hour of mandatory education on sexual harassment, sexual violence, prostitution, and domestic violence prevention each year. Additionally, since the Teacher Certification Regulations were amended in 2021, gender-responsive education is now a mandatory part of the curriculum for teacher training institutions (e.g., colleges of education). Under this requirement, gender-responsive education must be provided at least four times in four-year teacher training programs and at least twice in shorter programs.
 
-<Framework  Act  on  Gender  Equality>,  Article  18  (Gender-Responsive  Education),
+■ Removal of Barriers for Pregnant Girls and Young Mothers in Education
 
-mandates that the state and local governments provide education to all public officials
+‒ Efforts have been made to ensure that all barriers to education for pregnant girls and young mothers are eliminated to guarantee the continuation of their education.
 
-to enhance their understanding of the impact of laws, policies, customs, and systems on
+■ Curricula Free of All Stereotypes and Bias
 
-both  women  and  men.  In  addition,  Article  36  (Gender  Equality  Education)  requires
+‒ Under the 2022 Revised National Curriculum, common criteria for developing authorized textbooks aim to ensure that content does not promote discrimination in any area of life (political, economic, social, and cultural) based on gender, religion, or social status. Additionally, the National Human Rights Commission of Korea monitors elementary and secondary school textbooks and recommends improvements when gender stereotypes are found.
 
-efforts to promote gender equality awareness through education in family and schools,
+■ Gender Equality in STEM Fields
 
-as  well  as  in  training  courses  of  national  and  public  training  institutions,  lifelong
-
-education institutions.
-
-■
-
-Affirmative Action / Financial Support and Fellowships
-
--
-
-<Act on Fostering and Supporting Women in Science and Technology> and <Basic Plan
-
-for Supporting and Fostering Women in Science and Technology> provide preferential
-
-treatment  and  financial  support  for  women  in  STEM  fields  and  female  science  and
-
-engineering students (e.g., a quota system for female principal investigators, additional
-
-points  for  women  researchers  in  project  selection,  and  start-up  support  for  female
-
-graduate students in science and engineering).
-
-■
-
-Teacher Training on Gender Equality
-
--
-
-Teachers are required to complete at least one hour of mandatory education on sexual
-
-harassment, sexual violence, prostitution, and domestic violence prevention each year.
-
-Additionally, since the Teacher Certification Regulations were amended in 2021, gender-
-
-responsive education is now a mandatory part of the curriculum for teacher training
-
-institutions  (e.g.,  colleges  of  education).  Under  this  requirement,  gender-responsive
-
-education must be provided at least four times in four-year teacher training programs
-
-and at least twice in shorter programs.
-
-■
-
-Removal of Barriers for Pregnant Girls and Young Mothers in Education
-
--
-
-Efforts have been made to ensure that all barriers to education for pregnant girls and
-
-young mothers are eliminated to guarantee the continuation of their education.
-
-■
-
-Curricula Free of All Stereotypes and Bias
-
--
-
-Under the 2022 Revised National Curriculum, common criteria for developing authorized
-
-textbooks aim to ensure that content does not promote discrimination in any area of life
-
-(political,  economic,  social,  and  cultural)  based  on  gender,  religion,  or  social  status.
-
-Additionally, the National Human Rights Commission of Korea monitors elementary and
-
-secondary school textbooks and recommends improvements when gender stereotypes
-
-are found.
-
-■
-
-Gender Equality in STEM Fields
-
--
-
-<Act  on  Fostering  and  Supporting  Women  in  Science  and  Technology>  encourages
-
-female participation in STEM fields and provides support for female students in science
-
-and  engineering.  This  Act  recommends  maintaining  an  appropriate  ratio  of  female
-
-students in STEM fields (Article 8) and implementing a gender quota system for the hiring
-
-of  women in STEM professions (Article 11).  <Basic Plan for Fostering and Supporting
+‒ <Act on Fostering and Supporting Women in Science and Technology> encourages female participation in STEM fields and provides support for female students in science and engineering. This Act recommends maintaining an appropriate ratio of female students in STEM fields (Article 8) and implementing a gender quota system for the hiring of women in STEM professions (Article 11). <Basic Plan for Fostering and Supporting
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
 Women in Science and Technology> is established every four years to ensure the effective implementation of this law.
----
-■ Gender Equality in Technical and Vocational Education and Training (TVET) - <Act on the Promotion of Economic Activities and Prevention of Career Interruption of Women> supports the implementation of vocational education and training for women to promote economic participation and prevent career interruptions. The Women's New Employment Centres, jointly operated by the Ministry of Gender Equality and Family and the Ministry of Employment and Labour, provide vocational training for women.
+
+■ Gender Equality in Technical and Vocational Education and Training (TVET)
+
+‒ <Act on the Promotion of Economic Activities and Prevention of Career Interruption of Women> supports the implementation of vocational education and training for women to promote economic participation and prevent career interruptions. The Women’s New Employment Centres, jointly operated by the Ministry of Gender Equality and Family and the Ministry of Employment and Labour, provide vocational training for women.
 
 - What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
-■ Differences  in  gender  equality  awareness  across  educational  levels  and  conflict  due  to misogynistic culture: While gender equality awareness among Korean youth is generally high, there is an increasing gap between male and female students as they progress through school levels. According to the 2023 youth statistics from the Korea Youth Policy Institute, 96.7% of upper elementary (grades 4-6), middle, and high school students believe that men and women should have equal rights in all respects. However, there is a 3.8% point gap in this belief between male students (95.0%) and female students (98.6%) (Ministry of Gender Equality and Family press release, May 29, 2024). This gender-based awareness gap has been continuously observed, and some studies point to conflicts arising from youth misogyny and sexual harassment culture as contributing factors.
+■ Differences in gender equality awareness across educational levels and conflict due to misogynistic culture: While gender equality awareness among Korean youth is generally high, there is an increasing gap between male and female students as they progress through school levels. According to the 2023 youth statistics from the Korea Youth Policy Institute, 96.7% of upper elementary (grades 4-6), middle, and high school students believe that men and women should have equal rights in all respects. However, there is a 3.8% point gap in this belief between male students (95.0%) and female students (98.6%) (Ministry of Gender Equality and Family press release, May 29, 2024). This gender-based awareness gap has been continuously observed, and some studies point to conflicts arising from youth misogyny and sexual harassment culture as contributing factors.
 
-- Does the legal minimum age for marriage conform to international standards (18 years) 22 :
+- Does the legal minimum age for marriage conform to international standards (18 years) 22:
 
-Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
+Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child’s right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-
-
-Yes
-
-
-
-No
+ Yes  No
 
 - Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age:
 
-■ Article 807 of <Civil Act> specifies that a person who has reached the age of 18 may marry. Article  808  (Marriage  Requiring  Consent)  stipulates  that  a  minor  must  obtain  parental consent to marry; if one parent is unable to exercise the right to consent, the consent of the other parent is required, and if neither parent is able to exercise the right, the consent of the minor's guardian i s necessary. A person under adult guardianship can marry with the consent of their parents or adult guardian, and Article 826-2 (Attaining Majority by Marriage) provides that a minor who marries shall be regarded as an adult.
+■ Article 807 of <Civil Act> specifies that a person who has reached the age of 18 may marry. Article 808 (Marriage Requiring Consent) stipulates that a minor must obtain parental consent to marry; if one parent is unable to exercise the right to consent, the consent of the other parent is required, and if neither parent is able to exercise the right, the consent of the minor’s guardian is necessary. A person under adult guardianship can marry with the consent of their parents or adult guardian, and Article 826-2 (Attaining Majority by Marriage) provides that a minor who marries shall be regarded as an adult.
 
 ##### National minorities:
 
-> 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: ' a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law  and on the evidence of maturity, without deference to culture and tradition.'
+> 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: “a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.”
 
 [[END OF PAGE 20]]
 
@@ -1076,17 +680,17 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Financial incentives and fellowships are provided for national minorities
 
- Other 23 :
+ Other 23:
 
  Teachers are trained on intercultural education
 
  Teachers are trained to combat stigmatisation 24
 
-- Multilingual and intercultural education are supported
+● Multilingual and intercultural education are supported
 
-- Native language instruction is ensured for national minorities
+● Native language instruction is ensured for national minorities
 
-- Adapting curricula and teaching and learning methods to their needs for national minorities
+● Adapting curricula and teaching and learning methods to their needs for national minorities
 
  Curricula are rid of all stereotypes 25 and bias
 
@@ -1094,17 +698,17 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 ■ Legal Measures for the Right to Education of Ethnic Minorities
 
--Article  10  of  <Multicultural  Families  Support  Act>  prohibits  discrimination  against children and youth from multicultural families in childcare and education.
+‒ Article 10 of <Multicultural Families Support Act> prohibits discrimination against children and youth from multicultural families in childcare and education.
 
-- ① Neither  the  state  nor  local  governments  shall  discriminate  against  children  and juveniles of any multicultural family in providing care and education services for children and juveniles.
+① Neither the state nor local governments shall discriminate against children and juveniles of any multicultural family in providing care and education services for children and juveniles.
 
-- ② The state and local governments shall prepare measures for educational assistance to  children  and  juveniles  of  multicultural  families  to  help  them  quickly  adapt  to school life; and the Superintendent in each Special Metropolitan City, Metropolitan City,  Special  Self-Governing  City, Do,  and  Special  Self-Governing  Province,  may provide children and juveniles of multicultural families with extracurricular or afterschool educational programs.
+② The state and local governments shall prepare measures for educational assistance to children and juveniles of multicultural families to help them quickly adapt to school life; and the Superintendent in each Special Metropolitan City, Metropolitan City, Special Self-Governing City, Do, and Special Self-Governing Province, may provide children and juveniles of multicultural families with extracurricular or after-school educational programs.
 
-- ③ The  state  and  local  governments  shall  endeavor  to  support  preschool  care  and education services for members of multicultural families under 18 years of age, and to help such members develop language skills, may provide assistance necessary for improving  their  linguistic  proficiency,  such  as  teaching  materials  and  learning support  in  teaching  Korean  language  and  the  mother  tongue  of  their  father  or mother who is an immigrant by family.
+③ The state and local governments shall endeavor to support preschool care and education services for members of multicultural families under 18 years of age, and to help such members develop language skills, may provide assistance necessary for improving their linguistic proficiency, such as teaching materials and learning support in teaching Korean language and the mother tongue of their father or mother who is an immigrant by family.
 
-- ④ Principals  of  child-care  centers  under Article  10  of  <Child  Care  Act>,  heads  of kindergartens under Article 7 of <Early Childhood Education Act>, heads of all types
+④ Principals of child-care centers under Article 10 of <Child Care Act>, heads of kindergartens under Article 7 of <Early Childhood Education Act>, heads of all types
 
-> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+> 23 Please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
 > 24 Supra note 15.
 
@@ -1114,186 +718,83 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 [[START OF PAGE 22]]
 
-of schools under Article 2 of <Elementary and Secondary Education Act>, and heads of  other  organizations  prescribed  by  Presidential  Decree  shall  take  necessary measures  to  prevent  children  and  juveniles  of  multicultural  families  from  being discriminated  against  in  providing  care  and  education  services  for  children  and juveniles.
+of schools under Article 2 of <Elementary and Secondary Education Act>, and heads of other organizations prescribed by Presidential Decree shall take necessary measures to prevent children and juveniles of multicultural families from being discriminated against in providing care and education services for children and juveniles.
 
--
+‒ Article 28-2 of <Elementary and Secondary Education Act> guarantees equal educational opportunities for multicultural students and seeks to ensure a school environment where diversity is respected.
 
-Article
+③ The head of a school shall endeavor to guarantee equal educational opportunities for multicultural students, etc., and to create a school environment in which all school members respect diversity and live in harmony.
 
-28-2
+∙ Articles 19 and 75 of the Enforcement Decree ensure the right of returnees and multicultural students to apply for elementary school admission or transfer.
 
-of
+∙ Article 54-5 calls for the establishment of Multicultural Education Support Centres to provide educational support, teacher training, and multicultural education programs tailored to local needs.
 
-<Elementary
+■ Policy Measures Aim to Enhance the Right to Education of Ethnic Minorities
 
-and
+‒ <Human Capital Development Plan for Migrant Students (2023-2027)>, developed by the Ministerial Meeting of Social Affairs in cooperation with the relevant government ministries, promotes policies to strengthen the Korean language education system, foster talented individuals, and improve educational conditions in regions with a high concentration of multicultural students. The plan clearly outlines the goal of creating a discrimination-free educational environment (Vision: Establish an educational environment where all students with migration backgrounds can grow into talented individuals without discrimination).
 
-Secondary
+■ Policy Elaboration Includes Consultations with Local Communities
 
-Education
+‒ Article 54-5 ② of <Enforcement Decree of the Elementary and Secondary Education Act> mandates that regional Multicultural Education Centres cooperate with relevant institutions within the community to establish a collaborative system for multicultural education.
 
-Ac>t
+‒ <4th Basic Plan for Multicultural Family Policies (2023-2027)> emphasizes strengthening the policy cooperation system for multicultural family policies. One of the three main policy directions is to ensure that education policies for students with migration backgrounds are addressed through community participation, rather than solely by schools or teachers. The plan also includes expanding opportunities for interaction and communication between multicultural families and local residents.
 
-guarantees
+■ Affirmative Action Measures for Ethnic Minorities
 
-equal
+‒ Article 29 of <Enforcement Decree of the Higher Education Act> permits special admissions for North Korean defectors, foreigners, and overseas Koreans, allowing for quota exemptions in university admissions.
 
-educational  opportunities  for  multicultural  students  and  seeks  to  ensure  a  school
+‒ Article 42-6 of <Enforcement Decree of the Higher Education Act> designates North Korean defectors, foreigners, and overseas Koreans as "persons who require differential educational compensation" and includes them in the social integration admissions process.
 
-environment where diversity is respected.
+■ Financial Support and Fellowships for Ethnic Minorities
 
-③
-
-The head of a school shall endeavor to guarantee equal educational opportunities
-
-for  multicultural  students,  etc.,  and  to  create  a  school  environment  in  which  all
-
-school members respect diversity and live in harmony
-
-.
-
-∙
-
-Articles 19 and 75 of the Enforcement Decree ensure the right of returnees and
-
-multicultural students to apply for elementary school admission or transfer.
-
-∙
-
-Article 54-5 calls for the establishment of Multicultural Education Support Centres
-
-to  provide  educational  support,  teacher  training,  and  multicultural  education
-
-programs tailored to local needs.
-
-■
-
-Policy Measures Aim to Enhance the Right to Education of Ethnic Minorities
-
--
-
-<Human Capital Development Plan for Migrant Students (2023-2027>), developed by
-
-the Ministerial Meeting of Social Affairs in cooperation with the relevant government
-
-ministries,  promotes  policies  to  strengthen  the  Korean  language  education  system,
-
-foster talented individuals, and improve educational conditions in regions with a high
-
-concentration of multicultural students. The plan clearly outlines the goal of creating a
-
-discrimination-free
-
-educational
-
-environment
-
-(Vision:
-
-Establish
-
-an
-
-educational
-
-environment where all students with migration backgrounds can grow into talented
-
-individuals without discrimination).
-
-■
-
-Policy Elaboration Includes Consultations with Local Communities
-
--
-
-Article 54-5
-
-②
-
-of  <Enforcement Decree of the Elementary and Secondary Education
-
-Ac>t mandates that regional Multicultural Education Centres cooperate with relevant
-
-institutions within the community to establish a collaborative system for multicultural
-
-education.
-
--
-
-<4th Basic Plan for Multicultural Family Policies (2023-2027>) emphasizes strengthening
-
-the policy cooperation system for multicultural family policies. One of the three main
-
-policy  directions  is  to  ensure  that  education  policies  for  students  with  migration
-
-backgrounds  are  addressed  through  community  participation,  rather  than  solely  by
-
-schools or teachers. The plan also includes expanding opportunities for interaction and
-
-communication between multicultural families and local residents.
-
-■
-
-Affirmative Action Measures for Ethnic Minorities
-
--
-
-Article  29  of  <Enforcement  Decree  of  the  Higher  Education  Act>  permits  special
-
-admissions for North Korean defectors, foreigners, and overseas Koreans, allowing for
-
-quota exemptions in university admissions.
-
--
-
-Article 42-6 of <Enforcement Decree of the Higher Education Act> designates North
-
-Korean defectors, foreigners, and overseas Koreans as "persons who require differential
-
-educational  compensation"  and  includes  them  in  the  social  integration  admissions
-
-process.
-
-■
-
-Financial Support and Fellowships for Ethnic Minorities
-
--
-
-Article  10
-
-③
-
-of  <Multicultural  Families  Support  Act>  states  that  the  state  and  local
-
-governments  shall  endeavor  to  support  preschool  care  and  education  services  for
-
-members of multicultural families under 18 years of age, and to help such members
+‒ Article 10 ③ of <Multicultural Families Support Act> states that the state and local governments shall endeavor to support preschool care and education services for members of multicultural families under 18 years of age, and to help such members
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-develop language skills, may provide assistance necessary for improving their linguistic proficiency, such as teaching materials and learning support in teaching Korean language and the mother tongue of their father or mother who is an immigrant by family. - <4th Basic Plan for Multicultural Family Policies (2023-2027)> allocates significant funding for tailored support for multicultural children and youth. The budget increased from KRW 3.93 billion in 2022 to KRW 46.327 billion in 2023. - According to <Human Capital Development Plan for Migrant Students (2023-2027)>, the Ministry of Education budget for supporting migrant-background students is estimated to be KRW 101.4 billion in 2024, with a total of KRW 311 billion projected for the period from 2024 to 2027.
----
-■ Teachers Are Trained on Intercultural Education - Teachers are required to complete statutory training each year, including human rights, gender equality, prevention and eradication of sexual harassment and sexual violence, disability awareness improvement, and multicultural education.
-■ Teachers Are Trained to Combat Stigmatization - Teachers receive training aimed at addressing stigmatization.
-● Multilingual and intercultural education is supported. - Multicultural education policy schools, operated by the Ministry of Education, provide language education and bilingual education programs.
-● Native language instruction is ensured for ethnic minorities. - Article 10-3 of <Multicultural Families Support Act> guarantees language support for ethnic minorities, including free Korean language education, dual-language classrooms, and in-home tutoring (Korean) is provided through multicultural family centres.
-■ Curricula and teaching methods are adapted to the needs of ethnic l minorities. - Article 19-4 of <Elementary and Secondary Education Act> specifies that multicultural children and youth can enrol in or transfer to elementary schools with special classes for multicultural students, ensuring the development of curricula tailored to the needs of national minorities. - Regions with a high concentration of multicultural children and youth are designated as Special Zones for Internationalization of Education, and <Special Act on the Designation, Operation, and Promotion of Special Zones for Internationalization of Education> provides autonomy for schools in these areas to adapt curricula and teaching materials
-■ Curricula are rid of all stereotypes and bias. - The National Human Rights Commission of Korea regularly monitors national curriculum and elementary and secondary school textbooks to identify and address any elements that violates human rights including stereotypes or bias related to gender roles, multicultural families, or disabilities.
+develop language skills, may provide assistance necessary for improving their linguistic proficiency, such as teaching materials and learning support in teaching Korean language and the mother tongue of their father or mother who is an immigrant by family.
+
+‒ <4th Basic Plan for Multicultural Family Policies (2023-2027)> allocates significant funding for tailored support for multicultural children and youth. The budget increased from KRW 3.93 billion in 2022 to KRW 46.327 billion in 2023.
+
+‒ According to <Human Capital Development Plan for Migrant Students (2023-2027)>, the Ministry of Education budget for supporting migrant-background students is estimated to be KRW 101.4 billion in 2024, with a total of KRW 311 billion projected for the period from 2024 to 2027.
+
+■ Teachers Are Trained on Intercultural Education
+
+‒ Teachers are required to complete statutory training each year, including human rights, gender equality, prevention and eradication of sexual harassment and sexual violence, disability awareness improvement, and multicultural education.
+
+■ Teachers Are Trained to Combat Stigmatization
+
+‒ Teachers receive training aimed at addressing stigmatization.
+
+● Multilingual and intercultural education is supported.
+
+‒ Multicultural education policy schools, operated by the Ministry of Education, provide language education and bilingual education programs.
+
+● Native language instruction is ensured for ethnic minorities.
+
+‒ Article 10-3 of <Multicultural Families Support Act> guarantees language support for ethnic minorities, including free Korean language education, dual-language classrooms, and in-home tutoring (Korean) is provided through multicultural family centres.
+
+■ Curricula and teaching methods are adapted to the needs of ethnic minorities.
+
+‒ Article 19-4 of <Elementary and Secondary Education Act> specifies that multicultural children and youth can enrol in or transfer to elementary schools with special classes for multicultural students, ensuring the development of curricula tailored to the needs of national minorities.
+
+‒ Regions with a high concentration of multicultural children and youth are designated as Special Zones for Internationalization of Education, and <Special Act on the Designation, Operation, and Promotion of Special Zones for Internationalization of Education> provides autonomy for schools in these areas to adapt curricula and teaching materials to meet the needs of multicultural students.
+
+■ Curricula are rid of all stereotypes and bias.
+
+‒ The National Human Rights Commission of Korea regularly monitors national curriculum and elementary and secondary school textbooks to identify and address any elements that violates human rights including stereotypes or bias related to gender roles, multicultural families, or disabilities.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
-■ Overall, while efforts to realize the educational rights of multicultural students currently enrolled in schools appear to be active, support for children and youth who are unable to enter school remains  lacking.  For  example,  according  to  the  Enforcement  Decree  of  the  Elementary  and Secondary Education Act, students who have migrated from foreign countries can enrol in school
+■ Overall, while efforts to realize the educational rights of multicultural students currently enrolled in schools appear to be active, support for children and youth who are unable to enter school remains lacking. For example, according to the Enforcement Decree of the Elementary and Secondary Education Act, students who have migrated from foreign countries can enrol in school
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-- with only a residence certificate. Although elementary school admissions are generally granted, there are cases where students are denied admission at the high school level. Furthermore, since Korean language proficiency is a major factor that affects academic life as a whole, there is a need to establish learning support measures to ensure adequate protection of educational rights.
+with only a residence certificate. Although elementary school admissions are generally granted, there are cases where students are denied admission at the high school level. Furthermore, since Korean language proficiency is a major factor that affects academic life as a whole, there is a need to establish learning support measures to ensure adequate protection of educational rights.
 
-■ In the case of Korean nationals, an official school admission notice is automatically sent when children reach school age, ensuring their enrolment. However, for foreign nationals, this is not the  case,  and  they  may  miss  the  opportunity  to  enrol  in  school.  This  issue  is  particularly prominent for foreign nationals who enter Korea during the school age period. Since it is not considered problematic for them not to enrol in school, unlike Korean nationals, they may not receive an education unless they or their parents actively seek enrolment.
+■ In the case of Korean nationals, an official school admission notice is automatically sent when children reach school age, ensuring their enrolment. However, for foreign nationals, this is not the case, and they may miss the opportunity to enrol in school. This issue is particularly prominent for foreign nationals who enter Korea during the school age period. Since it is not considered problematic for them not to enrol in school, unlike Korean nationals, they may not receive an education unless they or their parents actively seek enrolment.
 
 ##### Indigenous people:
 
@@ -1327,21 +828,17 @@ develop language skills, may provide assistance necessary for improving their li
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-- What  challenges  were  encountered  in  realizing  the  right  to  education  of  indigenous  people?  If needed, brief quantitative information may be added.
+- What challenges were encountered in realizing the right to education of indigenous people? If needed, brief quantitative information may be added.
 
-26
+> 26 Supra note 15.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-##### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 28 :
+##### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 28:
 
  Legislation provides for their right to education
 
@@ -1381,17 +878,17 @@ Supra note 16.
 
 ■ Legal Measures for the Right to Education of People on the Move
 
--<North Korean Defectors Protection and Settlement Support Act> and its Enforcement Decree.
+‒ <North Korean Defectors Protection and Settlement Support Act> and its Enforcement Decree.
 
 ■ Policy Measures Aim to Enhance Their Right to Education
 
--Educational policy for North Korean students  aims to encourage their admission and integration  into  mainstream  schools  where  they  study  alongside  other  students.  The Ministry  of  Unification's <4th  Master  Plan  for  Settlement  Support  for  North  Korean Defectors (2024-2026)> and the Ministry of Education's annual <Tailored Educational Support Plan for North Korean Students> aim to eliminate discrimination and ensure equal access to education for North Korean defectors.
+‒ Educational policy for North Korean students aims to encourage their admission and integration into mainstream schools where they study alongside other students. The Ministry of Unification’s <4th Master Plan for Settlement Support for North Korean Defectors (2024-2026)> and the Ministry of Education’s annual <Tailored Educational Support Plan for North Korean Students> aim to eliminate discrimination and ensure equal access to education for North Korean defectors.
 
 ■ Inclusion in Mainstream Schools is Ensured
 
--To facilitate equal access to education for North Korean defectors, a preparatory school called  the Hana-dul  Schoo l  is  operated  within  the  Hana  Centre  (a  social  adaptation education facility for North Korean defectors). After securing housing in their settlement
+‒ To facilitate equal access to education for North Korean defectors, a preparatory school called the Hana-dul School is operated within the Hana Centre (a social adaptation education facility for North Korean defectors). After securing housing in their settlement
 
-> 28 ' Trapped  populations  are  those  who  are  unable  to  migrate  to  safe  locations  and  remain  trapped  in  locations vulnerable to the impacts of climate hazards' ( UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
+> 28 ‘Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations vulnerable to the impacts of climate hazards’ (UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
 
 > 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
@@ -1415,7 +912,7 @@ A system exists to recognize academic qualifications obtained by North Korean de
 
 abroad or in North Korea as equivalent to domestic qualifications. Article 13 of <North
 
-Korean Defectors Protection and Settlement Support Ac>t provides that the academic
+Korean Defectors Protection and Settlement Support Act> provides that the academic
 
 qualifications of protection subjects can be recognized based on regulations specified by
 
@@ -1569,9 +1066,9 @@ Yes  No
 
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
-■ Young  North  Korean  defectors  often  experience  significant  psychological  and  emotional difficulties due to the loss of or separation from parents and family members during their escape from North Korea. Many form new family units while staying in China, often resulting in single- parent households. With the weakening of mutual support and protection within families, North Korean  youth  continue  to  struggle  emotionally  and  psychologically  even  after  entering  the Republic of Korea. According to a survey on the family makeup of North Korean youth living in the Republic of Korea, 49.4% of North Korean-born youth and 45.2% of third-country-born youth lived in single-parent households (2016 Survey on the Status of North Korean Youth, Korea Hana Foundation, 2016).
+■ Young North Korean defectors often experience significant psychological and emotional difficulties due to the loss of or separation from parents and family members during their escape from North Korea. Many form new family units while staying in China, often resulting in single-parent households. With the weakening of mutual support and protection within families, North Korean youth continue to struggle emotionally and psychologically even after entering the Republic of Korea. According to a survey on the family makeup of North Korean youth living in the Republic of Korea, 49.4% of North Korean-born youth and 45.2% of third-country-born youth lived in single-parent households (2016 Survey on the Status of North Korean Youth, Korea Hana Foundation, 2016).
 
-■ North  Korean  students,  along  with  those  born  in  third  countries,  commonly  face  identity confusion, difficulties in forming friendships, and challenges in their home environments, which further impact their academic performance. Although many possess basic Korean language skills, they  often  struggle  to  communicate  effectively  in  academic  settings  due  to  differences  in terminology  and  educational  culture,  leading  to  difficulties  in  understanding  lessons  and participating in class. This issue is particularly severe for North Korean youth born in China, who face even greater language barriers. Moreover, many North Korean students who transfer to mainstream schools choose to hide their backgrounds, which can hinder the development of a healthy sense of identity. According to a survey on the challenges faced by North Korean youth in school life, 62.9% of North Korean- born youth reported 'no significant difficulties,' but 23.7% cited  'keeping  up  with  school  lessons,'  and  4.4%  mentioned  'making  friends'  as  the ir  main challenges  in  school  life  (2020  Survey  on  the  Status  of  North  Korean  Youth,  Korea  Hana Foundation, 2020).
+■ North Korean students, along with those born in third countries, commonly face identity confusion, difficulties in forming friendships, and challenges in their home environments, which further impact their academic performance. Although many possess basic Korean language skills, they often struggle to communicate effectively in academic settings due to differences in terminology and educational culture, leading to difficulties in understanding lessons and participating in class. This issue is particularly severe for North Korean youth born in China, who face even greater language barriers. Moreover, many North Korean students who transfer to mainstream schools choose to hide their backgrounds, which can hinder the development of a healthy sense of identity. According to a survey on the challenges faced by North Korean youth in school life, 62.9% of North Korean-born youth reported “no significant difficulties,” but 23.7% cited “keeping up with school lessons,” and 4.4% mentioned “making friends” as their main challenges in school life (2020 Survey on the Status of North Korean Youth, Korea Hana Foundation, 2020).
 
 ##### People with disabilities:
 
@@ -1603,27 +1100,27 @@ Yes  No
 
  Other
 
+ Curricula are rid of all stereotypes 34 and bias
+
+ Education infrastructure and learning materials are adapted
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 ■ Legislation for the Right to Education of Persons with Disabilities
 
--<Act  on  the  Prohibition  of  Discrimination  against  Persons  with  Disabilities  and  Remedy against Infringement of their Rights> prohibits discrimination based on disability in all areas of life. It aims to ensure full social participation and the realization of equal rights for persons with disabilities by effectively addressing discrimination and protecting their rights, thereby promoting their dignity and value as human beings. Articles 13 and 14 in Section 2 of this Act specifically prohibit discrimination in education, stipulating that the heads  of educational institutions must not deprive persons with disabilities of educational opportunities and must provide reasonable accommodations to prevent any disadvantage in their educational activities.
+-<Act on the Prohibition of Discrimination against Persons with Disabilities and Remedy against Infringement of their Rights> prohibits discrimination based on disability in all areas of life. It aims to ensure full social participation and the realization of equal rights for persons with disabilities by effectively addressing discrimination and protecting their rights, thereby promoting their dignity and value as human beings. Articles 13 and 14 in Section 2 of this Act specifically prohibit discrimination in education, stipulating that the heads of educational institutions must not deprive persons with disabilities of educational opportunities and must provide reasonable accommodations to prevent any disadvantage in their educational activities.
 
--<Act  on  Special  Education  for  Persons  with  Disabilities>,  based  on  Article  18  of  the <Framework Act on Education>, specifies that the state and local governments shall provide an inclusive educational environment for individuals with disabilities and those with special educational needs, ensuring that education is tailored to the type and degree of disability across different stages of life to promote self-actualization and social integration.
+-<Act on Special Education for Persons with Disabilities>, based on Article 18 of the <Framework Act on Education>, specifies that the state and local governments shall provide an inclusive educational environment for individuals with disabilities and those with special educational needs, ensuring that education is tailored to the type and degree of disability across different stages of life to promote self-actualization and social integration.
 
 -Articles 3 (Compulsory education), 4 (Prohibition of discrimination), and 11 (Installation and Operation of Special Education Support Centres) specifically outline the provision of free and compulsory education, services, and the prohibition of participation-related discrimination.
 
--Recent legislative amendments have strengthened the right to education for persons with disabilities, including the mandatory establishment of a system for reporting human rights violations  (Dec.  2019),  allowing  adjustments  to  curricula  based  on  disability  type,  age, severity, and educational needs (Dec. 2019), guaranteeing the right to education for periods when  attendance  is  disrupted  (Mar.  2021),  and  prohibiting  the  rejection  of  school admissions for applicants with disabilities (Mar. 2021). Further reforms include adjusting class sizes based on the degree of disability and for the academic continuity of persons with disabilities such as psychological support (Dec. 2021), and establishing a national centre to systematically  support  higher  education  for  persons  with  disabilities  (Oct.  2022).  A  full revision of provisions on inclusive education specially mentions the mandatory establishment and execution of inclusive education plans, prevention of discrimination, and provision of  conditions for inclusive education (Feb. 2024).
+-Recent legislative amendments have strengthened the right to education for persons with disabilities, including the mandatory establishment of a system for reporting human rights violations (Dec. 2019), allowing adjustments to curricula based on disability type, age, severity, and educational needs (Dec. 2019), guaranteeing the right to education for periods when attendance is disrupted (Mar. 2021), and prohibiting the rejection of school admissions for applicants with disabilities (Mar. 2021). Further reforms include adjusting class sizes based on the degree of disability and for the academic continuity of persons with disabilities such as psychological support (Dec. 2021), and establishing a national centre to systematically support higher education for persons with disabilities (Oct. 2022). A full revision of provisions on inclusive education specially mentions the mandatory establishment and execution of inclusive education plans, prevention of discrimination, and provision of conditions for inclusive education (Feb. 2024).
 
 ■ Policy Measures Aim to Enhance the Right to Education of Persons with Disabilities
 
 -In 2022, the Ministry of Education established <6th Five-Year Plan for the Development of Special Education (2023-2027)> under the vision of Realizing Inclusive, Customized Special Education under National Responsibility. The plan aims to guarantee equal starting points for children with disabilities, create diverse educational environments for those in need of special education, and reduce the gap in higher and lifelong education between persons with and without disabilities.
 
--The Republic of Korea  has developed a separate national curriculum for special education students, known as the Special Education Curriculum , which is tailored to their needs. The 2022 Revised National Curriculum incorporates inclusive education by providing
-
- Curricula are rid of all stereotypes 34 and bias
-
- Education infrastructure and learning materials are adapted
+-The Republic of Korea has developed a separate national curriculum for special education students, known as the Special Education Curriculum, which is tailored to their needs. The 2022 Revised National Curriculum incorporates inclusive education by providing
 
 34 Supra note 16.
 
@@ -1631,57 +1128,33 @@ Yes  No
 
 [[START OF PAGE 30]]
 
-■
-
-■
-
-■
-
-■
-
-■
-
 personalized curricula for special education students, particularly those with developmental or severe disabilities.
 
-Inclusion in Mainstream Schools is Ensured
+■ Inclusion in Mainstream Schools is Ensured
 
--
+-<Act on Special Education for Persons with Disabilities> prohibits the rejection of school admissions for applicants with disabilities, ensuring their inclusion in mainstream schools. The 2022 Revised National Curriculum explicitly includes special education students, and efforts have been made to enhance inclusive education by fostering collaboration between general and special education teachers, who share responsibility for the education of students with disabilities. The curriculum also introduces guidelines for developing resources and offering related training and consultations to support inclusive education.
 
-<Act on Special Education for Persons with Disabilities> prohibits the rejection of school
-
-admissions for applicants with disabilities, ensuring their inclusion in mainstream schools.
-
-The 2022 Revised National Curriculum explicitly includes special education students, and
-
-efforts have been made to enhance inclusive education by fostering collaboration between
-
-general  and  special  education  teachers,  who  share  responsibility  for  the  education  of
-
-students  with  disabilities.  The  curriculum  also  introduces  guidelines  for  developing
-
-resources and offering related training and consultations to support inclusive education.
-
-Special Education Teachers are Key Resources for Inclusive Schools
+■ Special Education Teachers are Key Resources for Inclusive Schools
 
 -Metropolitan and provincial offices of education operate Special Education Management Committees, which include school administrators and special education teachers, to review and develop local policies and initiatives for special and inclusive education.
 
--According  to  the  Ministry  of  Education's  <2023  Special  Education  Operation  Plan>,  the number of  inclusive  model  schools Jungdaun School,  promoting  consulting  for  inclusive education research schools and where general and special education teachers collaborate to enhance educational outcomes for students with disabilities, will be expanded to 200 schools. Experienced special education teachers are key resources for advancing inclusive education.
+-According to the Ministry of Education's <2023 Special Education Operation Plan>, the number of inclusive model schools Jungdaun School, promoting consulting for inclusive education research schools and where general and special education teachers collaborate to enhance educational outcomes for students with disabilities, will be expanded to 200 schools. Experienced special education teachers are key resources for advancing inclusive education.
 
-Mainstream Teachers are Specifically Trained on Disabilities
+■ Mainstream Teachers are Specifically Trained on Disabilities
 
--General  teachers  receive  training  on  inclusive  education,  and  pre-service  teachers  must complete  at  least  two  credits  in  special  education  courses  as  part  of  their  graduation requirements.
+-General teachers receive training on inclusive education, and pre-service teachers must complete at least two credits in special education courses as part of their graduation requirements.
 
--The  Ministry  of  Education  is  working  to  enhance  the  inclusive  education  environment through  teacher  capacity-building  as  part  of  its  five-year  plan.  The  School  Disability Awareness Index, developed in 2022, objectively measures the level of disability awareness among  students  and  teachers,  enabling  targeted  improvements  in  disability  awareness education. Plans have also been announced to develop and disseminate disability awareness education program and to expand inclusive education-related courses in teacher training programs.
+-The Ministry of Education is working to enhance the inclusive education environment through teacher capacity-building as part of its five-year plan. The School Disability Awareness Index, developed in 2022, objectively measures the level of disability awareness among students and teachers, enabling targeted improvements in disability awareness education. Plans have also been announced to develop and disseminate disability awareness education program and to expand inclusive education-related courses in teacher training programs.
 
-Teachers are Trained to Combat Stigmatization
+■ Teachers are Trained to Combat Stigmatization
 
--Teachers  receive  education  and  training  in  special  education  pedagogy  and  disability awareness during their pre-service programs. However, in practice, some parents may avoid having  their  children  diagnosed  as  special  education  students  due  to  concerns  about stigmatization, and there is currently no institutional framework in place to address this issue when it occurs.
+-Teachers receive education and training in special education pedagogy and disability awareness during their pre-service programs. However, in practice, some parents may avoid having their children diagnosed as special education students due to concerns about stigmatization, and there is currently no institutional framework in place to address this issue when it occurs.
 
-Auxiliary Assistance is Provided
+■ Auxiliary Assistance is Provided
 
--The  6th  Five-Year  Plan  includes  measures  to  strengthen  the  support  system  for  special education students through Special Education Support Centres (expected to increase to 197 centres by the end of 2024). These centres facilitate cooperation between schools and local agencies to provide tailored support for students with disabilities, including the creating of AI-based EduTech environment considering the types and characteristics of disabilities and the  provision  of  digital  literacy  resources  to  help  them  adapt  to  new  educational environments.
+-The 6th Five-Year Plan includes measures to strengthen the support system for special education students through Special Education Support Centres (expected to increase to 197 centres by the end of 2024). These centres facilitate cooperation between schools and local agencies to provide tailored support for students with disabilities, including the creating of AI-based EduTech environment considering the types and characteristics of disabilities and the provision of digital literacy resources to help them adapt to new educational environments.
 
--In  June  2022, additional support tailored to the type of disabilities was enhanced which includes tailored educational programs for severe and multiple disabilities who are newly
+-In June 2022, additional support tailored to the type of disabilities was enhanced which includes tailored educational programs for severe and multiple disabilities who are newly
 
 [[END OF PAGE 30]]
 
@@ -1701,7 +1174,7 @@ acknowledged  as  special  education  students,  introduction  of  appropriate  
 
 -Under Article 28 of <Act on Special Education for Persons with Disabilities>, metropolitan and provincial offices of education and schools are required to provide services or goods such  as  family  counselling,  parental  education,  physical,  psychological,  and  emotional support, therapy, learning support devices, and transportation for students with disabilities.
 
--The  Ministry  of  Education  provides  lifelong  education  vouchers  to  enable  learners  with disabilities to independently pursue lifelong education programs of their choice (supporting 3,000 individuals in 2023). Additionally, lifelong education vouchers have been expanded through the ' lifelong learning cit y' operations for persons with disabilities, in collaboration with local governments.
+-The Ministry of Education provides lifelong education vouchers to enable learners with disabilities to independently pursue lifelong education programs of their choice (supporting 3,000 individuals in 2023). Additionally, lifelong education vouchers have been expanded through the 'lifelong learning city' operations for persons with disabilities, in collaboration with local governments.
 
 ■ Curricula are Rid of All Stereotypes and Bias
 
@@ -1725,9 +1198,9 @@ acknowledged  as  special  education  students,  introduction  of  appropriate  
 
 -While  the  special  education  curriculum  is  provided  and  its  integration  with  the  general education  curriculum  is  allowed  in  the  2022  Revised  National  Curriculum,  teachers  face difficulties in effectively integrating the two curricula independently and in implementing the alternative methods that may be required in teaching both curricula.
 
--The rate of diagnosis for special education needs in the Republic of Korea is relatively low by international standards. Approximately 2.0% of all students are classified as persons eligible for special education, which is much lower than the international average of 5 -10% (Special Education Statistics, Ministry of Education (2024)). This low percentage is likely due to various factors, including overly strict criteria for disability diagnosis and parental reluctance to request evaluations due to concerns about stigmatization. However, with recent efforts to relax the disability  criteria  and  strengthen  support  for  special  education,  the  proportion  of  special education students has increased by 0.1 percentage points each year from 2020 to 2024.
+-The rate of diagnosis for special education needs in the Republic of Korea is relatively low by international standards. Approximately 2.0% of all students are classified as persons eligible for special education, which is much lower than the international average of 5–10% (Special Education Statistics, Ministry of Education (2024)). This low percentage is likely due to various factors, including overly strict criteria for disability diagnosis and parental reluctance to request evaluations due to concerns about stigmatization. However, with recent efforts to relax the disability criteria and strengthen support for special education, the proportion of special education students has increased by 0.1 percentage points each year from 2020 to 2024.
 
--The general education system in the Republic of Korea is still largely based on a philosophy of competition and meritocracy. Critics argue that provisions for inclusive education and the right to education for students with disabilities are lacking in <Framework Act on Education> and <Elementary  and  Secondary  Education  Ac>t.  The  system  is  often  criticized  for  focusing  on helping students with disabilities meet the average standards of general students rather than fostering their individual educational growth based on their unique needs, which is viewed as adhering to a deficit model.
+-The general education system in the Republic of Korea is still largely based on a philosophy of competition and meritocracy. Critics argue that provisions for inclusive education and the right to education for students with disabilities are lacking in <Framework Act on Education> and <Elementary and Secondary Education Act>. The system is often criticized for focusing on helping students with disabilities meet the average standards of general students rather than fostering their individual educational growth based on their unique needs, which is viewed as adhering to a deficit model.
 
 ##### Students from poor households:
 
@@ -1739,13 +1212,13 @@ acknowledged  as  special  education  students,  introduction  of  appropriate  
 
  Other:
 
-> 35 Supra note 15.
-
-> 36 Supra note 16.
-
  Teachers are trained to combat stigmatisation 35
 
  Curricula are rid of all stereotypes 36 and bias
+
+> 35 Supra note 15.
+
+> 36 Supra note 16.
 
 [[END OF PAGE 32]]
 
@@ -1769,7 +1242,7 @@ acknowledged  as  special  education  students,  introduction  of  appropriate  
 
 - ① (Educational Aid) Under <National Basic Living Security Act>, elementary, middle, and high  school  students  from  households  earning  less  than  50%  of  the  median  income receive educational activity support funds, high school textbooks, and funds to cover entrance fees and tuition fees,.
 
-- ② (Education Expense Support Program for Elementary and Secondary Students) Based on <Elementary  and  Secondary  Education  Ac>t,  this  program,  in  cooperation  with metropolitan  and  provincial  offices  of  education,  provides  after-school  vouchers,  IT support (PCs and internet access), and high school tuition fees (entrance fees, tuition fees,  school  operation  support  funds)  for  students  from  low-income  households (recipients of basic livelihood benefits, single-parent  families, legally  recognized borderline-income families, etc.).
+- ② (Education Expense Support Program for Elementary and Secondary Students) Based on <Elementary and Secondary Education Act>, this program, in cooperation with metropolitan and provincial offices of education, provides after-school vouchers, IT support (PCs and internet access), and high school tuition fees (entrance fees, tuition fees, school operation support funds) for students from low-income households (recipients of basic livelihood benefits, single-parent families, legally recognized borderline-income families, etc.).
 
 ■ Positive or Affirmative Action Measures are Provided
 
@@ -1783,15 +1256,15 @@ acknowledged  as  special  education  students,  introduction  of  appropriate  
 
 -Policies have been implemented on a continuous basis to improve educational conditions in rural, remote, and underprivileged areas, including:
 
-- ① "Support for Excellent High Schools in Rural Areas" (2004 -2009)
+- ① "Support for Excellent High Schools in Rural Areas" (2004–2009)
 
-- ② "Year-Round Care Schools in Rural Areas" (2009 -2011)
+- ② "Year-Round Care Schools in Rural Areas" (2009–2011)
 
-- ③ "Promotion of Rural Boarding Schools" (2009 -2013)
+- ③ "Promotion of Rural Boarding Schools" (2009–2013)
 
-- ④ "Improving Learning Conditions for Students in Rural Areas through ICT" (2013 -2018)
+- ④ "Improving Learning Conditions for Students in Rural Areas through ICT" (2013–2018)
 
-- ⑤ "Support for Rural Schools' Unique Program Operations" (2018present)
+- ⑤ "Support for Rural Schools' Unique Program Operations" (2018–present)
 
 ■ Curricula are Rid of All Stereotypes and Bias
 
@@ -1829,7 +1302,7 @@ acknowledged  as  special  education  students,  introduction  of  appropriate  
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”.
 
 > 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -1843,9 +1316,9 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+ ECCE services are accessible on a non-discriminatory basis
 
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -1881,7 +1354,7 @@ assist  teachers  in  guiding  play  and  communication  for  multicultural  chi
 
  Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
-■ Pre-primary education is provided free of charge for children aged 3-5, with 4 to 5 hours of instruction per day. Additionally, funded childcare is provided for children aged 0-2. While there are some differences in the specific items covered depending on the type of institution (e.g.,  public,  private,  kindergarten,  day-care  centres),  tuition  fees  are  generally  included within the scope of free services. As of 2023, subsidies for early childhood education and childcare have been increased to 280,000 KRW per child per month, and an additional 70,000 KRW is provided monthly for after-school programs that run for approximately 3 hours daily beyond regular school hours. In 2024, additional support of 50,000 KRW per month will be provided for 5-year-old children, with plans to expand this to include 3- and 4-year-olds. Starting in 2024, with the full implementation of the integration policy, further reductions in the financial burden for early childhood education and care will be introduced. By 2025, additional support ranging from 70,000 to 110,000 KRW per month will be provided for 5- year-olds, depending on the type of institution, with plans to extend this to 3- and 4-year- olds in the future.
+■ Pre-primary education is provided free of charge for children aged 3-5, with 4 to 5 hours of instruction per day. Additionally, funded childcare is provided for children aged 0-2. While there are some differences in the specific items covered depending on the type of institution (e.g., public, private, kindergarten, day-care centres), tuition fees are generally included within the scope of free services. As of 2023, subsidies for early childhood education and childcare have been increased to 280,000 KRW per child per month, and an additional 70,000 KRW is provided monthly for after-school programs that run for approximately 3 hours daily beyond regular school hours. In 2024, additional support of 50,000 KRW per month will be provided for 5-year-old children, with plans to expand this to include 3- and 4-year-olds. Starting in 2024, with the full implementation of the integration policy, further reductions in the financial burden for early childhood education and care will be introduced. By 2025, additional support ranging from 70,000 to 110,000 KRW per month will be provided for 5-year-olds, depending on the type of institution, with plans to extend this to 3- and 4-year-olds in the future.
 
  Pre-primary education is not free.
 
@@ -1892,20 +1365,6 @@ assist  teachers  in  guiding  play  and  communication  for  multicultural  chi
 [[START OF PAGE 37]]
 
 - What challenges were encountered in realizing early childhood care and education and pre-primary education?
-
-- Please elaborate. Brief quantitative information may be added.
-
-■ Limited access
-
--The dual systems for early childhood education and childcare have posed challenges in balancing and improving the quality of both services. This has raised concerns about developmental gaps emerging and accumulating from the early years of life. In January 2023,  the  Ministry  of  Education,  along  with  other  relevant  government  ministries, announced  a  joint  integration  plan  and  the  administration  has  been  consolidated under the Ministry of Education. The 2024 Integration Action Plan was announced to standardize and raise the quality of educational and childcare services and to establish a model for integrated early childhood education and care institutions.
-
-■ Issues of equity and inclusion
-
--The  Integration  Pilot  Program  (2023 -present)  has  been  implemented  to  address disparities  in  support  between  kindergartens  and  day-care  centres,  including  meal costs, facility improvement fees, and support for the Nuri Curriculum. The Integration Action Plan (June 2024) also includes measures to establish a unified selection and support system, led by the metropolitan and provincial offices of education, to ensure equal opportunities for children with disabilities, providing them with an equal starting point in early childhood education.
-
-■ Low number of professionally trained educators
-
--Efforts  have  been  made to  raise  the  minimum  qualification  standards  for  childcare teachers (from the current ISCED level 3 to level 5) and to shift from a credit-based certification  system  to  a  major-based  academic  system  (Ministry  of  Health  and Welfare,  2023).  The  2024  Integration  Action  Plan  aims  to  restructure  the  teacher training system into a department/major-based bachelor's degree program to enhance professional development of teachers in early childhood education and care.
 
  Limited access
 
@@ -1921,9 +1380,23 @@ assist  teachers  in  guiding  play  and  communication  for  multicultural  chi
 
  Lack of support to families
 
+- Please elaborate. Brief quantitative information may be added.
+
+■ Limited access
+
+-The dual systems for early childhood education and childcare have posed challenges in balancing and improving the quality of both services. This has raised concerns about developmental gaps emerging and accumulating from the early years of life. In January 2023, the Ministry of Education, along with other relevant government ministries, announced a joint integration plan and the administration has been consolidated under the Ministry of Education. The 2024 Integration Action Plan was announced to standardize and raise the quality of educational and childcare services and to establish a model for integrated early childhood education and care institutions.
+
+■ Issues of equity and inclusion
+
+-The Integration Pilot Program (2023–present) has been implemented to address disparities in support between kindergartens and day-care centres, including meal costs, facility improvement fees, and support for the Nuri Curriculum. The Integration Action Plan (June 2024) also includes measures to establish a unified selection and support system, led by the metropolitan and provincial offices of education, to ensure equal opportunities for children with disabilities, providing them with an equal starting point in early childhood education.
+
+■ Low number of professionally trained educators
+
+-Efforts have been made to raise the minimum qualification standards for childcare teachers (from the current ISCED level 3 to level 5) and to shift from a credit-based certification system to a major-based academic system (Ministry of Health and Welfare, 2023). The 2024 Integration Action Plan aims to restructure the teacher training system into a department/major-based bachelor's degree program to enhance professional development of teachers in early childhood education and care.
+
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide “12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.”
 
 ##### Primary education
 
@@ -2141,14 +1614,6 @@ basis of individual capacity'. Article 13 of the International Covenant on Econo
 
 - What challenges were encountered in realizing higher education?
 
-- Please elaborate. Brief quantitative information may be added.
-
-##### Limited access
-
--Although financial support for higher education for low-income households is provided annually through <2024 Customized National Scholarship Support Plan>, the associated costs of participating in higher education remain a burden. Particularly for students who attend institutions far from their homes, living expenses and commuting costs further exacerbate financial difficulties.
-
--Socio-cultural  barriers  also  hinder  access  to  higher  education,  as  reflected  in  the college  enrolment  rate  of  students  from  multicultural  families.  As  of  2023,  the enrolment rate for students from multicultural backgrounds was 40.5%, significantly lower  than  the  national  average  of  71.5%.  More  effective  policies  are  needed  to address the educational exclusion and discrimination faced by multicultural students in earlier stages of education (elementary, middle, and high school).
-
  Limited access
 
  Issues of equity and inclusion
@@ -2161,7 +1626,15 @@ basis of individual capacity'. Article 13 of the International Covenant on Econo
 
  Low number of professionally trained professors
 
- Insufficient  mechanisms  to  ensure  smooth transition from secondary to tertiary
+ Insufficient mechanisms to ensure smooth transition from secondary to tertiary
+
+- Please elaborate. Brief quantitative information may be added.
+
+##### Limited access
+
+-Although financial support for higher education for low-income households is provided annually through <2024 Customized National Scholarship Support Plan>, the associated costs of participating in higher education remain a burden. Particularly for students who attend institutions far from their homes, living expenses and commuting costs further exacerbate financial difficulties.
+
+-Socio-cultural barriers also hinder access to higher education, as reflected in the college enrolment rate of students from multicultural families. As of 2023, the enrolment rate for students from multicultural backgrounds was 40.5%, significantly lower than the national average of 71.5%. More effective policies are needed to address the educational exclusion and discrimination faced by multicultural students in earlier stages of education (elementary, middle, and high school).
 
 [[END OF PAGE 42]]
 
@@ -2331,12 +1804,6 @@ in literacy education.
 
 -Collaboration with private organizations continues to develop digital, financial, and life literacy content (e.g., health, road safety).
 
-- Please elaborate. Brief quantitative information may be added.
-
-##### Limited access
-
--There  are  regional  disparities  in  literacy  rates,  with  rural  areas  showing  a  higher illiteracy rate compared to large cities and medium-sized towns.
-
 - What challenges were encountered in realizing adult learning and education?
 
  Limited access
@@ -2352,6 +1819,12 @@ in literacy education.
  Poor learning outcomes
 
  Low number of professionally trained educators
+
+- Please elaborate. Brief quantitative information may be added.
+
+##### Limited access
+
+-There are regional disparities in literacy rates, with rural areas showing a higher illiteracy rate compared to large cities and medium-sized towns.
 
 ※ 12.1% of those living in rural areas are illiterate at the level of 1st to 2nd grade of elementary school, compared to 3.6% in medium-sized towns, and 4.4% in Seoul and metropolitan areas (2020 Adult Literacy Survey).
 
@@ -2375,7 +1848,7 @@ in literacy education.
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to “build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all”.
 
 #### 3.1 General measures
 
@@ -2411,7 +1884,7 @@ You may include information on policies, protocols or codes of conduct.
 
 ##### Health and sanitation
 
--<School Health Ac>" specifies provisions regarding health-related facilities and standards in schools, including Article 3 (Health Facilities), Article 4 (Environmental Sanitation and Food  Sanitation  in  School),  and  Article  9  (Health  Care  for  Students).  Additionally,  the <School  Meals  Act>  stipulates  provisions  such  as  Article  6  (Meal  Service  Facilities  and Equipment),  Article  10  (Food  Materials),  Article  11  (Nutrition  Management),  Article  12 (Management of Sanitation and Safety), and Article 18 (Evaluation of Operation of School Meal Services).
+-<School Health Act> specifies provisions regarding health-related facilities and standards in schools, including Article 3 (Health Facilities), Article 4 (Environmental Sanitation and Food Sanitation in School), and Article 9 (Health Care for Students). Additionally, the <School Meals Act> stipulates provisions such as Article 6 (Meal Service Facilities and Equipment), Article 10 (Food Materials), Article 11 (Nutrition Management), Article 12 (Management of Sanitation and Safety), and Article 18 (Evaluation of Operation of School Meal Services).
 
 ##### Safety (Educating children in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
@@ -2450,26 +1923,6 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
-- Please elaborate on each of the measures taken:
-
-##### Teacher training is provided without discrimination
-
--<Regulations on Training of Teachers>, specify that teacher training is provided without discrimination.
-
--Teachers  are  required  to  complete  statutory  training  each  year,  including  human rights, gender equality, prevention and eradication of sexual harassment and sexual violence, disability awareness improvement, and multicultural education.
-
-##### Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications
-
--According to the OECD's Education at a Glance (EAG), the starting statutory salary for public elementary and secondary school teachers in the Republic of Korea in 2021 was US$33,615 (PPP) for elementary teachers and $33,675 (PPP) for secondary teachers, slightly below the OECD average. However, the statutory salary for teachers with 15 years of experience was $59,346 (PPP) for elementary teachers and $59,406 (PPP) for secondary teachers, higher than the OECD average (OECD, 2023).
-
-##### Initial training and continuous professional development are provided
-
--Article 38 of <Educational Officials Act> mandates that public educational officials shall continuously make efforts to research and improve themselves to perform their duties.
-
--Teacher  training  can  be  categorized  into  institution-based  and  individual-based training. Institution-based training is further divided into training provided by training institutions (qualification training, in-service training, and special training) and schoolbased  training.  Qualification  training  is  provided  to  acquire  teacher  qualifications (Article 6 (1)) of the Regulations on Training of Teachers), while in-service training is provided  for  teachers  to  enhance  their  professional  skills  and  includes  mandatory training on changes in educational policy and legal requirements (Article 6 (2)), and special  training  is  provided  domestically  or  internationally  by  the  national  or  local government (Article 40 of <Educational Officials Act>).
-
--School-based training includes professional learning communities, consulting, and selfdirected supervision, with the goal of continuous teacher training at the school level.
-
  Teacher training is provided without discrimination.
 
  Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
@@ -2480,7 +1933,7 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
  Measures taken to strengthen the social status and attractiveness of the teaching profession.
 
- Measures  taken  to  promote  diversity  in  the  teaching  workforce,  including  to  redress  gender imbalances at different levels of education.
+ Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
 
  Establishment of performance monitoring systems.
 
@@ -2488,33 +1941,47 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
  Other:
 
+- Please elaborate on each of the measures taken:
+
+##### Teacher training is provided without discrimination
+
+-<Regulations on Training of Teachers>, specify that teacher training is provided without discrimination.
+
+-Teachers are required to complete statutory training each year, including human rights, gender equality, prevention and eradication of sexual harassment and sexual violence, disability awareness improvement, and multicultural education.
+
+##### Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications
+
+-According to the OECD's Education at a Glance (EAG), the starting statutory salary for public elementary and secondary school teachers in the Republic of Korea in 2021 was US$33,615 (PPP) for elementary teachers and $33,675 (PPP) for secondary teachers, slightly below the OECD average. However, the statutory salary for teachers with 15 years of experience was $59,346 (PPP) for elementary teachers and $59,406 (PPP) for secondary teachers, higher than the OECD average (OECD, 2023).
+
+##### Initial training and continuous professional development are provided
+
+-Article 38 of <Educational Officials Act> mandates that public educational officials shall continuously make efforts to research and improve themselves to perform their duties.
+
+-Teacher training can be categorized into institution-based and individual-based training. Institution-based training is further divided into training provided by training institutions (qualification training, in-service training, and special training) and school-based training. Qualification training is provided to acquire teacher qualifications (Article 6 (1)) of the Regulations on Training of Teachers), while in-service training is provided for teachers to enhance their professional skills and includes mandatory training on changes in educational policy and legal requirements (Article 6 (2)), and special training is provided domestically or internationally by the national or local government (Article 40 of <Educational Officials Act>).
+
+-School-based training includes professional learning communities, consulting, and self-directed supervision, with the goal of continuous teacher training at the school level.
+
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
-- Please elaborate. Brief quantitative information may be added.
-
-##### High student-teacher ratio
-
--As of  2021,  the  number of  students  per  teacher  in  the  Republic  of  Korea was  16.1  in elementary schools (OECD average: 14.6), 13.3 in middle schools (OECD average: 13.2), and  10.7  in  high  schools  (OECD  average:  13.3).  While  the  student-teacher  ratio  in elementary schools is higher than the OECD average, it is approximately the same as the
-
 ##### Minimum standards and qualifications required for the teaching profession exist
 
-<Elementary and Secondary Education Act> Article 21 and <Early Childhood Education Act> Article 22 specify the qualification standards for teachers.
+-<Elementary and Secondary Education Act> Article 21 and <Early Childhood Education Act> Article 22 specify the qualification standards for teachers.
 
 - Detailed criteria, such as subject-specific and education-related credits, are established by the Minister of Education under the Detailed Standards for Acquiring Qualifications to Teach in Kindergarten, Elementary, Middle, and Special Schools.
 
 ##### Measures to enhance the social status and attractiveness of the teaching profession have been implemented
 
-<Special Research Year for Teachers Program> has been introduced as a measure to enhance teachers' professional development and address teacher burnout. Under < Directive on Implementing Teacher Competency Evaluations>, superintendents of the offices of education and school principals must analyse the results of evaluations and offer outstanding teachers special research leave.
+-<Special Research Year for Teachers Program> has been introduced as a measure to enhance teachers' professional development and address teacher burnout. Under <Directive on Implementing Teacher Competency Evaluations>, superintendents of the offices of education and school principals must analyse the results of evaluations and offer outstanding teachers special research leave.
 
 ##### A performance monitoring system is implemented
 
-- The Republic of Korea has been implementing the Teacher Competency Development Evaluation since 2010, based on Articles 18 to 23 of the Regulations on Training of Teachers,  which  establish  the  principles,  criteria,  and  utilization  of  evaluations  for teacher development.
+- The Republic of Korea has been implementing the Teacher Competency Development Evaluation since 2010, based on Articles 18 to 23 of the Regulations on Training of Teachers, which establish the principles, criteria, and utilization of evaluations for teacher development.
 
 ##### Measures to increase the participation of women in leadership positions in education have been introduced
 
-- The Female Professors Quota System for National and Public Universities: Article 11-5 (Formulation of Appointment Plans Based on Equal Opportunities for Both Genders) of <Educational Officials Act> stipulates that the State shall endeavor to ensure that either  gender  does  not  exceed  three  fourths  of  faculty  members  in  the  entire universities  established  and  operated  by  the  State.  In  such  case,  the  annual  target gender ratio of faculty members shall be prescribed by Presidential Decree. <Decree on  the  Appointment  of  Public  Education  Officials>  has  set  annual  goals  for  the proportion of female professors in national and public universities, targeting 25% by 2030.
+- The Female Professors Quota System for National and Public Universities: Article 11-5 (Formulation of Appointment Plans Based on Equal Opportunities for Both Genders) of <Educational Officials Act> stipulates that the State shall endeavor to ensure that either gender does not exceed three fourths of faculty members in the entire universities established and operated by the State. In such case, the annual target gender ratio of faculty members shall be prescribed by Presidential Decree. <Decree on the Appointment of Public Education Officials> has set annual goals for the proportion of female professors in national and public universities, targeting 25% by 2030.
 
 - What challenges were encountered in the education personnel?
 
@@ -2528,9 +1995,15 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
  Low quality educational infrastructure and materials
 
- High student - teacher ratio
+ High student – teacher ratio
 
 ■ Educational activity infringement issues
+
+- Please elaborate. Brief quantitative information may be added.
+
+##### High student-teacher ratio
+
+-As of 2021, the number of students per teacher in the Republic of Korea was 16.1 in elementary schools (OECD average: 14.6), 13.3 in middle schools (OECD average: 13.2), and 10.7 in high schools (OECD average: 13.3). While the student-teacher ratio in elementary schools is higher than the OECD average, it is approximately the same as the
 
 [[END OF PAGE 49]]
 
@@ -2582,7 +2055,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
  Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43 explicitly apply to non-state educational institutions. Please specify:
 
-##### < Private School Act>
+##### <Private School Act>
 
 -This law was enacted to promote the sound development of private schools by ensuring their autonomy and public interest. It clarifies the authority and responsibilities of private school founders and heads, preventing founders from unjustly interfering with school administration. The  aim  is  to  enhance  the  public  character  and  sound  development  of  private  education institutions.
 
@@ -2662,9 +2135,9 @@ citizens according to their abilities and aptitudes. It aims to ensure the safet
 
 - ① Where  it  is  impossible  to  manage  normal  school  affairs  under  the  following circumstances, the competent authority may order the relevant school to close:
 
-- Where the head, founder, or manager of a school violates the Act or an order issued under the Act intentionally or by gross negligence; 2. Where the head, founder, or manager of a school repeatedly violates the Act or orders issued by the competent authority under other education-related statutes or regulations;
+- 1. Where the head, founder, or manager of a school violates the Act or an order issued under the Act intentionally or by gross negligence; 2. Where the head, founder, or manager of a school repeatedly violates the Act or orders issued by the competent authority under other education-related statutes or regulations;
 
-- Where a school fails to hold lessons for at least three months except for a period of suspension and temporary closure of the school.
+- 3. Where a school fails to hold lessons for at least three months except for a period of suspension and temporary closure of the school.
 
 - ② If  any  person  uses  the  title  of  a  school  or  invites  students  and  operates  the facilities  in  the  de  facto  form  of  a  school  without  obtaining  authorization  to establish a school as referred to in Article 4 (2) or authorization to establish a branch school as referred to in Article 50, the competent authority may order such person to close the facilities which he or she has established and operates.
 
@@ -2722,13 +2195,13 @@ Please indicate the relevant text and provisions:
 
 [[START OF PAGE 55]]
 
--Article  23-3  of  the  <Framework  Act  on  Education  (Principles  of  Student  Information Protection)>  states  that  student  information  shall  be  collected,  processed,  used  or managed for educational purpose, and sets principles  for  providing  minors'  personal information to third parties. Other relevant regulations include the <Personal Information Protection Act>, <Ministry of Education's Personal Information Protection Guidelines>, and < Ministry of Education's Security Regulations >.
+-Article  23-3  of  the  <Framework  Act  on  Education  (Principles  of  Student  Information Protection)>  states  that  student  information  shall  be  collected,  processed,  used  or managed for educational purpose, and sets principles  for  providing  minors'  personal information to third parties. Other relevant regulations include the <Personal Information Protection Act>, <Ministry of Education's Personal Information Protection Guidelines>, and <Ministry of Education's Security Regulations>.
 
 ##### The regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
--The  Ministry  of  Education's  regulatory  framework  guarantees  access  to  curriculum -aligned  digital  content  available  on  free  public  multi-modal  platforms.  High-quality content  is  provided  for  core  subjects  in  the  national  official  language,  designed  with inclusive features to assist learners with disabilities.
+-The  Ministry  of  Education's  regulatory  framework  guarantees  access  to  curriculum-aligned  digital  content  available  on  free  public  multi-modal  platforms.  High-quality content  is  provided  for  core  subjects  in  the  national  official  language,  designed  with inclusive features to assist learners with disabilities.
 
--Additionally, legal measures have been taken to remove barriers for vulnerable groups accessing  digital  content.  <Framework  Act  on  Intelligent  Informatization>  Article (Guaranteeing Access to and Use of Information by Persons with Disabilities and Senior Citizens) mandates that state agencies and stakeholders, such as intelligent information service providers, information and communication or intelligent information technology manufacturers, telecommunications operators, and relevant government agencie s , shall endeavor  to  enhance  access  to  intelligence  information  services  by  persons  with disabilities, senior citizens, etc., and user convenience when providing such services.
+-Additionally, legal measures have been taken to remove barriers for vulnerable groups accessing  digital  content.  <Framework  Act  on  Intelligent  Informatization>  Article (Guaranteeing Access to and Use of Information by Persons with Disabilities and Senior Citizens) mandates that state agencies and stakeholders, such as intelligent information service providers, information and communication or intelligent information technology manufacturers, telecommunications operators, and relevant government agencies, shall endeavor  to  enhance  access  to  intelligence  information  services  by  persons  with disabilities, senior citizens, etc., and user convenience when providing such services.
 
 ##### Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) are integrated into the formal curriculum at all levels of education.
 
@@ -2746,7 +2219,7 @@ Please indicate the relevant text and provisions:
 
 [[START OF PAGE 56]]
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
@@ -2816,7 +2289,7 @@ Please indicate the relevant text and provisions:
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -2830,7 +2303,7 @@ https://www.evaluation.go.kr/web/board/boardList.do?menu_id=63
 
 ■ The Ministry of Education publishes five-year performance management reports on its website after <Implementation Plans for Performance Management> are established and the relevant monitoring results are collected.
 
-https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=333&boardSeq=91351 &lev=0&searchType=null&statusYN=W&page=1&s=moe&m=020501&opType=N
+https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=333&boardSeq=91351&lev=0&searchType=null&statusYN=W&page=1&s=moe&m=020501&opType=N
 
  Monitoring processes are participatory, inclusive and regular.
 
@@ -2860,7 +2333,7 @@ https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=333&boardSeq=91351 &lev=0&s
 
 #### Monitoring processes are participatory, inclusive, and conducted regularly
 
--Performance  monitoring  is  conducted  through  the  Ministry  of  Education's  self -evaluation  committee,  composed  entirely  of  external  members,  and  performed annually.  A  variety  of  experts  including  professors,  teachers,  and  researchers,  are included in the evaluation.
+-Performance  monitoring  is  conducted  through  the  Ministry  of  Education's  self-evaluation  committee,  composed  entirely  of  external  members,  and  performed annually.  A  variety  of  experts  including  professors,  teachers,  and  researchers,  are included in the evaluation.
 
 #### Sector-wide and multi-sector approaches are adopted in education governance
 
@@ -2886,7 +2359,7 @@ education, which is higher than the OECD average (primary education: $10,658 (PP
 
 -Decision-making process: Local education finance is organized as a budget with local education  finance  grants  supported  by  the  state  and  local  governments,  and  is  then determined through government and local assembly procedures, with decisions made by local assemblies. On the other hand, school accounting is organized as a revenue and expenditure  budget with  the  transfer  funds  of  metropolitan  and  provincial  offices  of education and parental income as the main financial sources, and the budget is executed after deliberation and advice by the School Management Committee. Currently, school accounting is operated based on the education rules for school accounting put in place by each metropolitan and provincial offices of education, and unlike the accounting for the education expenses special account, the accounting year for school accounting starts on March 1st of each year when school starts and ends at the end of February of the following year. (Local Education Finance Information Portal: https://eduinfo.go.kr).
 
--Public disclosure of financial information: The Ministry of Education and metropolitan and  provincial  offices  of  education  are  required  to  publish  financial  operations, information and outcomes to the public through objective procedures. Article 60 of the <Local Finance Act> specifies the target, procedure and timing for the announcement. The public announcement is prepared in accordance with guidelines provided by the Ministry of Education, considering factors such as clarity, accessibility, and usefulness from the user's pe rspective.
+-Public disclosure of financial information: The Ministry of Education and metropolitan and  provincial  offices  of  education  are  required  to  publish  financial  operations, information and outcomes to the public through objective procedures. Article 60 of the <Local Finance Act> specifies the target, procedure and timing for the announcement. The public announcement is prepared in accordance with guidelines provided by the Ministry of Education, considering factors such as clarity, accessibility, and usefulness from the user's perspective.
 
 #### Ensuring crisis-sensitive and disaster risk-informed planning and programming, including the provision of quality education in emergencies
 
@@ -2912,7 +2385,7 @@ education, which is higher than the OECD average (primary education: $10,658 (PP
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
