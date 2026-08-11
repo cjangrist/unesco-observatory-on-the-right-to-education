@@ -16,6 +16,8 @@ Amending Acts Date of Royal Assent and Publication
 
 - Higher Secondary Education (Second Amendment) Act, 2049 (1992) 2050-2-20 (May 2, 1993)
 
+- 3.
+
 - Education and sports Related some Nepal Acts Amendment Act, 2063
 
 2063-9-14 (Dec 29, 2006)
@@ -25,7 +27,7 @@ Act No. 21 of 2046 B.S.
 ## An Act to Provide for Higher Secondary Education
 
 ## Preamble:
-Whereas, it is expedient to scissorschilds ............  maintain good conduct, friendliness and morality of people  in  general; in order to produce mid-level human resources of good  quality  having  mobilized  people's  participatio n  for  expanding  knowledge, science,  skills  in  various  sectors  and  in  order  to  create  a  level  of  higher  secondary education  having  added  one  academic  level  of  two  years  in  the  ten-year  education system which is in practice as the foundation of entry into higher education;
+Whereas, it is expedient to ✂............ maintain good conduct, friendliness and morality of people in general; in order to produce mid-level human resources of good quality having mobilized people's participation for expanding knowledge, science, skills in various sectors and in order to create a level of higher secondary education having added one academic level of two years in the ten-year education system which is in practice as the foundation of entry into higher education;
 
 Be it enacted by His Majesty the King Birendra Bir Bikram Shahdev the advice with and consent of the Rastriya Panchayat .
 
@@ -35,9 +37,9 @@ Be it enacted by His Majesty the King Birendra Bir Bikram Shahdev the advice wit
 
 - 1.2 This  Act  shall  come  into  force  in  the  areas  and  on  such  date  as prescribed in Notification as published by  Government of Nepal  in the Nepal Gazette # .
 
-> scissorschilds Deleted by Education and sports Related some Nepal Acts Amendment Act, 2063
+> ✂ Deleted by Education and sports Related some Nepal Acts Amendment Act, 2063
 
-#Appointed to be commenced since 12 th of Falgun, 2046 (Feb. 23, 1990 A.D.) Nepal Gazette dated 2046-11-8 (Feb. 19, 1990 A.D.)
+#Appointed to be commenced since 12th of Falgun, 2046 (Feb. 23, 1990 A.D.) Nepal Gazette dated 2046-11-8 (Feb. 19, 1990 A.D.)
 
 1
 
@@ -45,7 +47,7 @@ Be it enacted by His Majesty the King Birendra Bir Bikram Shahdev the advice wit
 
 [[START OF PAGE 2]]
 
-## Definitions:
+## 2. Definitions:
 In  this  Act,  unless  the  subject  or  the  context  otherwise requires;
 
 - 2.1 "Higher  Secondary  Education"  means  the  education  to  be  imparted  in classes eleven and twelve.
@@ -62,15 +64,15 @@ In  this  Act,  unless  the  subject  or  the  context  otherwise requires;
 
 ## ∗ 3. Schools Imparting Higher Secondary Education to get Affiliation:
 
-- 3.1 If  a  secondary  school  approved  by  Government  of  Nepal  fulfills,  the prescribed terms and conditions, the Council,  on the recommendation of  District  Education  Committee  and  Department  of  Education  may grant  affiliation to such secondary school as a school to  impart higher secondary education.
+- 3.1 If a secondary school approved by Government of Nepal fulfills, the prescribed terms and conditions, the Council, ™ on the recommendation of District Education Committee and Department of Education may grant affiliation to such secondary school as a school to impart higher secondary education.
 
-- 3.2 If  any  individual  or  organization  willing  to  operate  higher  secondary education fulfills  the prescribed  terms and conditions,  the Council  on the  recommendation  of  District  Education  Committee  and  Department of Education may grant approval to the school to be established by such an individual or organization for imparting higher secondary education.
+- 3.2 If any individual or organization willing to operate higher secondary education fulfills the prescribed terms and conditions, the Council ™ on the recommendation of District Education Committee and Department of Education may grant approval to the school to be established by such an individual or organization for imparting higher secondary education.
 
 ◊ Inserted by the Second Amendment.
 
- Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
-
 ∗ Amended by the Second Amendment.
+
+™ Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
 
 2
 
@@ -78,7 +80,7 @@ In  this  Act,  unless  the  subject  or  the  context  otherwise requires;
 
 [[START OF PAGE 3]]
 
-## Operation of Higher Secondary School:
+## 4. Operation of Higher Secondary School:
 Operation of a higher secondary school shall be as prescribed.
 
 ## ◊ 4A. Formation of Senate of Higher Secondary Education:
@@ -87,39 +89,29 @@ Operation of a higher secondary school shall be as prescribed.
 
 4A.2 There shall be the following members in the Senate referred to in Sub-section 4A.1: -
 
-- handbckptright
+- ☞ 4A.2.1 Minister or Minister for State for Education and Sport -Chairperson
 
-- 4A.2.1 Minister or Minister for State for Education and Sport -Chairperson
+™ 4A.2.1a Person nominated by Government of Nepal from amongst educationists -Vice Chairperson
 
- 4A.2.1a   Person  nominated  by  Government  of  Nepal  from amongst educationists -Vice
+- 4A.2.2 ✂.........
 
-- Chairperson
+- 4A.2.3 President, Population and Social Committee, the House of Representatives® -Member
 
-- 4A.2.2 scissorschilds .........
+- 4A.2.4 Two persons nominated by Government of Nepal from amongst the members of the National Assembly and the House of Representatives• -Member
 
-- 4A.2.3 President, Population and Social Committee, the House of Representatives  -Member
-
-- 4A.2.4 Two persons nominated by Government of Nepal from amongst  the  members  of  the  National  Assembly  and the House of Representatives · -Member
-
-- 4A.2.5 Member, The National Planning
-
-Commission (Education)
-
-Member
+- 4A.2.5 Member, The National Planning Commission (Education) -Member
 
 ◊ Inserted by the Second Amendment
 
-> handbckptright Amended by the Education and sports Related some Nepal Acts Amendment Act, 2063
+☞ Amended by the Education and sports Related some Nepal Acts Amendment Act, 2063
 
- Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
+™ Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
 
-> scissorschilds Deleted by Education and sports Related some Nepal Acts Amendment Act, 2063
+✂ Deleted by Education and sports Related some Nepal Acts Amendment Act, 2063
 
- Interim Constitution of Nepal, 2063 does not provide for House of Representives.
+® Interim Constitution of Nepal, 2063 does not provide for House of Representives.
 
-· At present there is a Constituent Assembly in Nepal.
-
--
+• At present there is a Constituent Assembly in Nepal.
 
 3
 
@@ -133,9 +125,7 @@ Member
 
 - 4A.2.8 Vice Chancellors of the Universities established as per law -Member
 
-- 4A.2.9 school getting affiliation
-
-- Five persons nominated by  Government of Nepal from amongst  the  Headmasters  of  the  higher  secondary -Member
+- 4A.2.9 Five persons nominated by Government of Nepal from amongst the Headmasters of the higher secondary school getting affiliation -Member
 
 - 4A.2.10 One  Representative  of  the  Nepal  University  Teachers Association -Member
 
@@ -145,7 +135,7 @@ Member
 
 - 4A.2.13 One person nominated by  Government of Nepal from amongst the donors donating higher secondary school getting affiliation and founders thereof -Member
 
-- handbckptright 4A.2.14  Person nominated by Government of Nepal -MemberSecretary
+- ☞ 4A.2.14 Person nominated by Government of Nepal -Member-Secretary
 
 - 4A.3 The term of office of nominated members shall be of four years and they may be re-appointed upon expiry of the term of office.
 
@@ -153,7 +143,7 @@ Member
 
 ♣ At present this Ministry has been named as "Education Ministry'.
 
-> handbckptright Amended by the Education and sports Related some Nepal Acts Amendment Act, 2063
+> ☞ Amended by the Education and sports Related some Nepal Acts Amendment Act, 2063
 
 4
 
@@ -183,21 +173,15 @@ Member
 
 - 5.1 There shall be a Higher Secondary Education Council as follows for the operation of functions of the Higher Secondary Education Senate: -
 
-- 5.1.1 Chairperson of the Senate
+- 5.1.1 Chairperson of the Senate -Chairperson
 
-- Chairperson
-
-- Vice-Chairperson of the Senate -Vice    ,,
-
-- 5.1.2
+- 5.1.2 Vice-Chairperson of the Senate -Vice ,,
 
 - 5.1.3 Four persons nominated by the Chairperson on the recommendation of the Senate from amongst the members of the Senate -Member
 
 ◊ Inserted by the Second Amendment
 
 ∗ Amended by the Second Amendment.
-
--
 
 5
 
@@ -211,15 +195,15 @@ Member
 
 - 5.3 Functions, duties and powers of the Council shall be as prescribed.
 
- 5.3a  Functions,  Duties,  Powers  and  other  condition  of  service  of  the  vice chairperson shall be as prescribed.
+™ 5.3a Functions, Duties, Powers and other condition of service of the vice chairperson shall be as prescribed.
 
-- 5.4 scissorschilds ............
+- 5.4 ✂............
 
 - 5.5 Procedures relating to meeting of the Council shall be as prescribed.
 
 ## 6. Committees may be Formed:
 
-- 6.1 The  Council  may,  in  order  for scissorschilds ........  operation  of  examination  and affiliation of higher secondary education, form one or more committees.
+- 6.1 The Council may, in order for ✂........ operation of examination and affiliation of higher secondary education, form one or more committees.
 
 - 6.2 Composition,  functions,  duties  and  powers  of  committees  formed pursuant to Sub-section 6.1 shall be as prescribed by the Council.
 
@@ -235,9 +219,9 @@ Member
 
 - 7.5 Central office of the Council shall be located at Kathmandu valley.
 
- Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
+™ Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
 
-> scissorschilds Deleted by Education and sports Related some Nepal Acts Amendment Act, 2063
+✂ Deleted by Education and sports Related some Nepal Acts Amendment Act, 2063
 
 6
 
@@ -245,19 +229,19 @@ Member
 
 [[START OF PAGE 7]]
 
-## Qualification  Required  for  Admission  to  Higher  Secondary  School:
+## 8. Qualification Required for Admission to Higher Secondary School:
 Students  having  passed  the  School  Leaving  Certificate  Examination  or  the equivalent shall be eligible for admission to higher secondary school.
 
-## Recognition of Higher Secondary Education:
+## 9. Recognition of Higher Secondary Education:
 Certificate of having passed Higher Secondary Education Examination shall be recognized as equivalent  to passing Proficiency Certificate level of universities in the  Nepal.
 
-##  9A. Approval of Curricula and Determination of Text Book :
+## ™ 9A. Approval of Curricula and Determination of Text Book :
 
 - 9A.1 Council shall submit the curricula to be taught in the Higher Secondary School before the Education and Sports Ministry for its approval.
 
 - 9A.2 Ministry of  Education and Sports may examine the curricula submitted to it pursuant to Sub-section 9A.1 and approve it .
 
-- 9A.3 Higher Secondary School  shall conduct the teaching process as per the curricula    approved  by    the  Ministry  of  Education  and  Sports pursuant to Subsection 9A.2 .
+- 9A.3 Higher Secondary School shall conduct the teaching process as per the curricula approved by the Ministry of Education and Sports pursuant to Sub-section 9A.2 .
 
 ## 10. Provisions Relating to Employees:
 
@@ -272,7 +256,7 @@ The  Council  may,  with  the prior  approval  of    Government  of  Nepal,  sec
 
 ## 11. Fund of the Council:
 
- Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
+™ Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
 
 ◊ Inserted by the Second Amendment
 
@@ -306,7 +290,7 @@ The  Council  may,  with  the prior  approval  of    Government  of  Nepal,  sec
 
 - 13.1 The  classes  of  proficiency  certificate  level  being  conducted  at  the campuses under the affiliation to, or as constituent of, ∗ universities in  at the  time  of  commencement  of  this  Act  may  be  transferred  to  higher secondary school.
 
-- 13.2 Notwithstanding  anything  contained  in  the  prevailing  law  relating  to universities, Tribhuvan University or any other university shall not give approval or affiliation to any academic institution to conduct proficiency certificate level classes in the areas where this Act has been enforced.
+- ∗13.2 Notwithstanding anything contained in the prevailing law relating to universities, Tribhuvan University or any other university shall not give approval or affiliation to any academic institution to conduct proficiency certificate level classes in the areas where this Act has been enforced.
 
 ∗ Amended by the Second Amendment.
 
@@ -319,7 +303,7 @@ The  Council  may,  with  the prior  approval  of    Government  of  Nepal,  sec
 ## ++ 13A. Special Provision:
 Notwithstanding anything contained in Section 13, there shall be no hindrance for Tribhuvan University to give approval or affiliation to any academic institution to conduct proficiency certificate level classes  in the area  or  areas  in  which  this Act has been  enforced for  a period  of  four years from the date of commencement of this Section.
 
-##  13b. Power to Supervision and monitoring:
+## ™ 13b. Power to Supervision and monitoring:
 
 13b.1   Notwithstanding anything contained in this Act and Rules framed under this  Act,  Director  General  of  the  Education  Department    shall  have  the following powers:
 
@@ -327,7 +311,7 @@ Notwithstanding anything contained in Section 13, there shall be no hindrance fo
 
 - 13b.1.2 to manage for any of the amount provided by the Government of Nepal   to the  Higher Secondary school .
 
-## Delegation of Powers:
+## 14. Delegation of Powers:
 The Council may delegate all or some of the powers conferred  on  it  by  this  Act  or  Rules  framed  under  this  Act  to * Regional Education Director, * District Education Officer or Committee or officer of the Council.
 
 ## 15. Government of Nepal may Issue Directives:
@@ -336,12 +320,12 @@ The Council may delegate all or some of the powers conferred  on  it  by  this  
 
 - 15.2 It  shall  be  the  duty  of  the  Council  to  abide  by  the  directives  issued pursuant to  Sub-section 15.1
 
-## Power to Frame Rules:
+## 16. Power to Frame Rules:
 To implement the objectives of this Act, Government of Nepal may frame Rules.
 
 ++ Inserted by the First Amendment.
 
- Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
+™ Inserted Education and sports Related some Nepal Acts Amendment Act, 2063
 
 9
 
@@ -349,7 +333,7 @@ To implement the objectives of this Act, Government of Nepal may frame Rules.
 
 [[START OF PAGE 10]]
 
-## Power to Frame Byelaws:
+## 17. Power to Frame Byelaws:
 Subject  to this Act and Rules framed  thereunder Council  may,  in  order  to  make  its  internal  functioning  well  organized,  frame byelaws.
 
 ## ◊ 18. Liaison with Government of Nepal:
