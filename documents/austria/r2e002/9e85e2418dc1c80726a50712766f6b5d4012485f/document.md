@@ -54,15 +54,15 @@ Der  Abschnitt  I  gilt  für  die  im  Schulorganisationsgesetz,  BGBl.  Nr. 24
 #### § 2.
 (1)  Das  Schuljahr  beginnt  in  den  Bundesländern  Burgenland,  Niederösterreich  und  Wien  am ersten Montag,  in den Bundesländern Kärnten, Oberösterreich, Salzburg, Steiermark, Tirol und Vorarlberg am zweiten Montag im September und dauert bis zum Beginn des nächsten Schuljahres.
 
-- Das Schuljahr besteht aus dem Unterrichtsjahr (Z 1) und den Hauptferien (Z 2).
+(2) Das Schuljahr besteht aus dem Unterrichtsjahr (Z 1) und den Hauptferien (Z 2).
 
-- Das Unterrichtsjahr umfaßt
+1. Das Unterrichtsjahr umfaßt
 
-- das erste Semester, welches mit  dem Schuljahr beginnt und mit  dem Anfang der Semesterferien endet;
+a) das erste Semester, welches mit dem Schuljahr beginnt und mit dem Anfang der Semesterferien endet;
 
-- die Semesterferien in der Dauer einer Woche, welche in den Bundesländern Niederösterreich und  Wien  am  ersten  Montag  im  Februar,  in  den  Bundesländern  Burgenland,  Kärnten, Salzburg,  Tirol  und  Vorarlberg  am  zweiten  Montag  im  Februar  und  in  den  Bundesländern Oberösterreich und Steiermark am dritten Montag im Februar beginnen;
+b) die Semesterferien in der Dauer einer Woche, welche in den Bundesländern Niederösterreich und Wien am ersten Montag im Februar, in den Bundesländern Burgenland, Kärnten, Salzburg, Tirol und Vorarlberg am zweiten Montag im Februar und in den Bundesländern Oberösterreich und Steiermark am dritten Montag im Februar beginnen;
 
-- das zweite Semester, welches an dem den Semesterferien folgenden Montag beginnt und mit dem  Beginn  der  Hauptferien  endet;  für  die  letzte  Stufe  von  Schulen,  in  welchen  Reife-,
+c) das zweite Semester, welches an dem den Semesterferien folgenden Montag beginnt und mit dem Beginn der Hauptferien endet; für die letzte Stufe von Schulen, in welchen Reife-,
 
 www.ris.bka.gv.at
 
@@ -76,7 +76,7 @@ Bundesrecht konsolidiert
 
 Diplom-, Befähigungs- oder Abschlußprüfungen vorgesehen sind, endet das zweite Semester mit dem Tag vor dem Beginn der Klausurprüfung.
 
-- Die Hauptferien beginnen in den Bundesländern Burgenland, Niederösterreich und Wien an dem Samstag, der frühestens auf den 28. Juni und spätestens auf den 4. Juli fällt, in den Bundesländern  Kärnten,  Oberösterreich,  Salzburg,  Steiermark,  Tirol  und  Vorarlberg  an  dem Samstag, der frühestens auf den 5. Juli und spätestens auf den 11. Juli fällt; sie enden mit dem Beginn des nächsten Schuljahres.
+2. Die Hauptferien beginnen in den Bundesländern Burgenland, Niederösterreich und Wien an dem Samstag, der frühestens auf den 28. Juni und spätestens auf den 4. Juli fällt, in den Bundesländern Kärnten, Oberösterreich, Salzburg, Steiermark, Tirol und Vorarlberg an dem Samstag, der frühestens auf den 5. Juli und spätestens auf den 11. Juli fällt; sie enden mit dem Beginn des nächsten Schuljahres.
 
 (2a) Abweichend von Abs. 2 Z 1 lit. b kann der zuständige Bundesminister, wenn der Landesschulrat und das Land aus fremdenverkehrspolitischen Gründen gleichlautende Anträge stellen, durch Verordnung den  Beginn  der  Semesterferien  um  eine  Woche  verlegen,  sofern  verkehrspolitische  Gründe  oder überregionale Interessen nicht entgegenstehen. Eine solche Verordnung ist vor Beginn des Kalenderjahres zu erlassen, das den Semesterferien vorangeht.
 
@@ -84,21 +84,21 @@ Diplom-, Befähigungs- oder Abschlußprüfungen vorgesehen sind, endet das zweit
 
 (4) Schulfrei sind die folgenden Tage des Unterrichtsjahres:
 
-- die  Samstage (ausgenommen in der Oberstufe der allgemein bildenden höheren Schule, in den berufsbildenden mittleren und höheren Schulen sowie in den höheren Anstalten der Lehrer- und Erzieherbildung);
+1. die Samstage (ausgenommen in der Oberstufe der allgemein bildenden höheren Schule, in den berufsbildenden mittleren und höheren Schulen sowie in den höheren Anstalten der Lehrer- und Erzieherbildung);
 
-- die Sonntage und gesetzlichen Feiertage, der Allerseelentag, in jedem Bundesland der Festtag des Landespatrons  sowie  der  Landesfeiertag,  wenn  ein  solcher  in  dem  betreffenden  Bundesland arbeitsfrei begangen wird;
+2. die Sonntage und gesetzlichen Feiertage, der Allerseelentag, in jedem Bundesland der Festtag des Landespatrons sowie der Landesfeiertag, wenn ein solcher in dem betreffenden Bundesland arbeitsfrei begangen wird;
 
-- die Tage vom 24. Dezember bis einschließlich 6. Jänner (Weihnachtsferien); der 23. Dezember, sofern er auf einen Montag fällt; überdies können der 23. Dezember sowie der 7. Jänner, wenn es für  einzelne  Schulen  aus  Gründen  der  Ab-  oder  Anreise  der  Schüler  zweckmäßig  ist,  von  der zuständigen Schulbehörde durch Verordnung schulfrei erklärt werden;
+3. die Tage vom 24. Dezember bis einschließlich 6. Jänner (Weihnachtsferien); der 23. Dezember, sofern er auf einen Montag fällt; überdies können der 23. Dezember sowie der 7. Jänner, wenn es für einzelne Schulen aus Gründen der Ab- oder Anreise der Schüler zweckmäßig ist, von der zuständigen Schulbehörde durch Verordnung schulfrei erklärt werden;
 
-- der einem gemäß Z 1 oder 2 schulfreien Freitag unmittelbar folgende Samstag;
+4. der einem gemäß Z 1 oder 2 schulfreien Freitag unmittelbar folgende Samstag;
 
-- die Tage vom Montag bis einschließlich Samstag der Semesterferien (Abs. 2);
+5. die Tage vom Montag bis einschließlich Samstag der Semesterferien (Abs. 2);
 
-- die Tage  vom  Samstag  vor  dem  Palmsonntag  bis einschließlich Dienstag nach Ostern (Osterferien);
+6. die Tage vom Samstag vor dem Palmsonntag bis einschließlich Dienstag nach Ostern (Osterferien);
 
-- die Tage vom Samstag vor bis einschließlich Dienstag nach Pfingsten (Pfingstferien).
+7. die Tage vom Samstag vor bis einschließlich Dienstag nach Pfingsten (Pfingstferien).
 
-(5)  Aus  Anlässen  des  schulischen  oder  sonstigen  öffentlichen  Lebens  kann  das  Klassen-  oder Schulforum bzw. der Schulgemeinschaftsausschuß höchstens fünf Tage in jedem Unterrichtsjahr schulfrei erklären. Ferner kann die zuständige Schulbehörde in besonderen Fällen des schulischen oder sonstigen öffentlichen Lebens einen weiteren Tag durch Verordnung schulfrei erklären. Für öffentliche Praxisschulen sowie für jene mit Unter- und Oberstufe geführten allgemein bildenden höheren Schulen, an  denen  für  alle  Klassen  und  Schulstufen  der  Samstag  schulfrei  ist,  hat  die  zuständige  Schulbehörde zwei  zwischen  unterrichtsfreie  Tage  fallende  Schultage  in  jedem  Unterrichtsjahr  durch  Verordnung schulfrei zu erklären. Diese schulfrei erklärten Tage vermindern die im ersten Satz für die Schulfreierklärung durch das Klassenoder Schulforum bzw. den Schulgemeinschaftsausschuss vorgesehenen  Tage.  Verordnungen  gemäß  dem  dritten  Satz  sind  bis  spätestens  30. September  des vorangehenden Schuljahres zu erlassen.
+(5) Aus Anlässen des schulischen oder sonstigen öffentlichen Lebens kann das Klassen- oder Schulforum bzw. der Schulgemeinschaftsausschuß höchstens fünf Tage in jedem Unterrichtsjahr schulfrei erklären. Ferner kann die zuständige Schulbehörde in besonderen Fällen des schulischen oder sonstigen öffentlichen Lebens einen weiteren Tag durch Verordnung schulfrei erklären. Für öffentliche Praxisschulen sowie für jene mit Unter- und Oberstufe geführten allgemein bildenden höheren Schulen, an denen für alle Klassen und Schulstufen der Samstag schulfrei ist, hat die zuständige Schulbehörde zwei zwischen unterrichtsfreie Tage fallende Schultage in jedem Unterrichtsjahr durch Verordnung schulfrei zu erklären. Diese schulfrei erklärten Tage vermindern die im ersten Satz für die Schulfreierklärung durch das Klassen- oder Schulforum bzw. den Schulgemeinschaftsausschuss vorgesehenen Tage. Verordnungen gemäß dem dritten Satz sind bis spätestens 30. September des vorangehenden Schuljahres zu erlassen.
 
 (6)  Wenn  die  für  die  Durchführung  von  kommissionellen  Prüfungen  notwendige  Anzahl  von aufeinanderfolgenden  Schultagen  in  der  in  Betracht  kommenden  Zeit  des  Unterrichtsjahres  nicht  zur Verfügung steht oder die Durchführung solcher Prüfungen den Unterrichtsbetrieb wesentlich erschwert, können diese Prüfungen auch an sonst schulfreien Tagen  - ausgenommen die in  Abs. 4 Z 2 genannten Tage, der 24. und der 31. Dezember und die letzten drei Tage der Karwoche - abgehalten werden.
 
@@ -114,7 +114,7 @@ Seite 2 von 9
 
 Bundesrecht konsolidiert
 
-(8) Das  Klassenoder Schulforum  bzw. der Schulgemeinschaftsausschuss kann auf  Grund besonderer  regionaler  Erfordernisse  den  Samstag  für  die  gesamte  Schule,  einzelne  Schulstufen  oder einzelne Klassen zum Schultag erklären. An Schulen, an denen der Samstag ein Schultag ist, kann der Schulgemeinschaftsausschuss auf  Grund regionaler Erfordernisse den Samstag  für die gesamte Schule, einzelne Schulstufen oder einzelne Klassen schulfrei erklären.
+(8) Das Klassen- oder Schulforum bzw. der Schulgemeinschaftsausschuss kann auf Grund besonderer regionaler Erfordernisse den Samstag für die gesamte Schule, einzelne Schulstufen oder einzelne Klassen zum Schultag erklären. An Schulen, an denen der Samstag ein Schultag ist, kann der Schulgemeinschaftsausschuss auf Grund regionaler Erfordernisse den Samstag für die gesamte Schule, einzelne Schulstufen oder einzelne Klassen schulfrei erklären.
 
 (9) und (10) (Anm.: aufgehoben durch BGBl. Nr. 467/1995)
 
@@ -139,13 +139,13 @@ Bundesrecht konsolidiert
 #### Sonderbestimmungen für einzelne Schularten
 
 #### § 5.
-(1) Für das Werkschulheim, für Schulen, deren Lehrplan Praktika (ausgenommen Ferialpraktika)  vorsieht,  für  die  mittleren  und  höheren  Schulen  für  Berufstätige  sowie  für  die  BundesBerufsschule  für  Uhrmacher  in  Karlstein  in  Niederösterreich  sind  die  den  §§ 2  bis  4  entsprechenden Regelungen  durch  Verordnung  des  zuständigen  Bundesministers  zu  treffen,  wobei  vom  Inhalt  der genannten Bestimmungen nur insofern abgewichen werden darf, als es im Hinblick auf die besonderen Erfordernisse der betreffenden Schulart zweckmäßig und unter Berücksichtigung des Alters der Schüler vertretbar ist.
+(1) Für das Werkschulheim, für Schulen, deren Lehrplan Praktika (ausgenommen Ferialpraktika) vorsieht, für die mittleren und höheren Schulen für Berufstätige sowie für die Bundes-Berufsschule für Uhrmacher in Karlstein in Niederösterreich sind die den §§ 2 bis 4 entsprechenden Regelungen durch Verordnung des zuständigen Bundesministers zu treffen, wobei vom Inhalt der genannten Bestimmungen nur insofern abgewichen werden darf, als es im Hinblick auf die besonderen Erfordernisse der betreffenden Schulart zweckmäßig und unter Berücksichtigung des Alters der Schüler vertretbar ist.
 
 (2) Für Schulen, deren Bildungsgang lehrplanmäßig eine Ferialpraxis einschließt und die nicht unter Abs. 1  fallen,  ist  durch  Verordnung  des  zuständigen  Bundesministers  eine  vom  § 2  abweichende Regelung zu treffen, soweit dies wegen der Dauer der Ferialpraxis erforderlich ist; dabei sind mindestens vier nach Möglichkeit zusammenhängende Wochen der Hauptferien von Ferialpraxis freizuhalten.
 
 (3) Für Schulen für Fremdenverkehrsberufe ist durch Verordnung des zuständigen Bundesministers eine  vom  § 3  Abs. 2  abweichende  Regelung  insoweit  zu  treffen,  als  es  den  Erfordernissen  dieser Schularten entspricht.
 
-(4) Für Praxisschulen gemäß § 33a Abs. 1 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962, für das  Bundes-Blindenerziehungsinstitut  in  Wien  und  das  Bundesinstitut  für  Gehörlosenbildung  in  Wien gelten  über  die  §§ 2  bis  4  hinaus  folgende  Bestimmungen:  Die  Zahl  der  Unterrichtsstunden  an  einem Schultag darf einschließlich der Freigegenstände und unverbindlichen Übungen  für  Schüler der Vorschulstufe  sowie  der  1.  und  2.  Schulstufe  höchstens  fünf,  für  Schüler  der  3.  und  4.  Schulstufe höchstens sechs betragen.
+(4) Für Praxisschulen gemäß § 33a Abs. 1 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962, für das Bundes-Blindenerziehungsinstitut in Wien und das Bundesinstitut für Gehörlosenbildung in Wien
 
 www.ris.bka.gv.at
 
@@ -157,9 +157,11 @@ Seite 3 von 9
 
 Bundesrecht konsolidiert
 
-- Für die Bundes-Berufsschule für Uhrmacher in Karlstein in Niederösterreich gelten über die §§ 2 bis  4  hinaus  folgende  Bestimmungen:  Die  Zahl  der  Unterrichtsstunden  in  den  Pflichtgegenständen  an einem Tag darf neun nicht übersteigen; die Zahl der im Lehrplan vorgesehenen Unterrichtsstunden für eine Schulstufe darf durch schulfreie Tage um nicht mehr als ein Zehntel unterschritten werden.
+gelten über die §§ 2 bis 4 hinaus folgende Bestimmungen: Die Zahl der Unterrichtsstunden an einem Schultag darf einschließlich der Freigegenstände und unverbindlichen Übungen für Schüler der Vorschulstufe sowie der 1. und 2. Schulstufe höchstens fünf, für Schüler der 3. und 4. Schulstufe höchstens sechs betragen.
 
-- An  ganztägigen  Schulformen  ist  der  Betreuungsteil  an  allen  Schultagen  mit  Ausnahme  des Samstags bis mindestens 16.00 Uhr und längstens 18.00 Uhr anzubieten; während der Unterrichtsstunden (einschließlich der dazugehörigen Pausen) für die zum Betreuungsteil angemeldeten Schüler entfällt die Betreuung.  Eine  Stunde  des  Betreuungsteiles  umfaßt  50  Minuten  und  die  Dauer  einer  allenfalls vorangehenden Pause.
+(5) Für die Bundes-Berufsschule für Uhrmacher in Karlstein in Niederösterreich gelten über die §§ 2 bis 4 hinaus folgende Bestimmungen: Die Zahl der Unterrichtsstunden in den Pflichtgegenständen an einem Tag darf neun nicht übersteigen; die Zahl der im Lehrplan vorgesehenen Unterrichtsstunden für eine Schulstufe darf durch schulfreie Tage um nicht mehr als ein Zehntel unterschritten werden.
+
+(6) An ganztägigen Schulformen ist der Betreuungsteil an allen Schultagen mit Ausnahme des Samstags bis mindestens 16.00 Uhr und längstens 18.00 Uhr anzubieten; während der Unterrichtsstunden (einschließlich der dazugehörigen Pausen) für die zum Betreuungsteil angemeldeten Schüler entfällt die Betreuung. Eine Stunde des Betreuungsteiles umfaßt 50 Minuten und die Dauer einer allenfalls vorangehenden Pause.
 
 #### Schulversuche
 
@@ -188,11 +190,11 @@ Für die Ausführungsgesetzgebung der Länder über die Unterrichtszeit an den �
 ##### § 8.
 (1)  Das  Schuljahr  hat  zwischen  dem 16. August und dem 30. September zu beginnen und bis zum Beginn des nächsten Schuljahres zu dauern. Es besteht aus dem Unterrichtsjahr und den Hauptferien. Das Unterrichtsjahr beginnt mit dem Schuljahr und endet mit dem Beginn der Hauptferien. Es besteht aus zwei Semestern.
 
-- Die Hauptferien dauern mindestens sieben, und, sofern nicht Abs. 6 anzuwenden ist, höchstens neun zusammenhängende Wochen am Ende des Schuljahres. Wird die Dauer der Hauptferien mit weniger als  neun  Wochen  bestimmt,  so  sind  die  auf  neun  Wochen  fehlenden  Tage  in  einem  anderen  Teil  des Schuljahres zusammenhängend als schulfreie Zeit vorzusehen (Sonderferien).
+(2) Die Hauptferien dauern mindestens sieben, und, sofern nicht Abs. 6 anzuwenden ist, höchstens neun zusammenhängende Wochen am Ende des Schuljahres. Wird die Dauer der Hauptferien mit weniger als neun Wochen bestimmt, so sind die auf neun Wochen fehlenden Tage in einem anderen Teil des Schuljahres zusammenhängend als schulfreie Zeit vorzusehen (Sonderferien).
 
-- Schulfrei sind außer den Hauptferien die Samstage, die Sonntage und die gesetzlichen Feiertage, der Allerseelentag, der 24. und 31. Dezember, die letzten drei Tage der Karwoche, in jedem Bundesland der  Festtag  des  Landespatrons  sowie  der  Landesfeiertag,  wenn  ein  solcher  in  dem  betreffenden Bundesland arbeitsfrei begangen wird.
+(3) Schulfrei sind außer den Hauptferien die Samstage, die Sonntage und die gesetzlichen Feiertage, der Allerseelentag, der 24. und 31. Dezember, die letzten drei Tage der Karwoche, in jedem Bundesland der Festtag des Landespatrons sowie der Landesfeiertag, wenn ein solcher in dem betreffenden Bundesland arbeitsfrei begangen wird.
 
-- Über die Abs. 2 und 3 hinaus können in der Zeit vom 23. Dezember bis einschließlich 7. Jänner, in der Zeit vom Samstag vor dem Palmsonntag bis einschließlich Dienstag nach Ostern und in der Zeit vom Samstag vor bis einschließlich Dienstag nach Pfingsten alle oder einzelne Tage sowie bis zu einer
+(4) Über die Abs. 2 und 3 hinaus können in der Zeit vom 23. Dezember bis einschließlich 7. Jänner, in der Zeit vom Samstag vor dem Palmsonntag bis einschließlich Dienstag nach Ostern und in der Zeit vom Samstag vor bis einschließlich Dienstag nach Pfingsten alle oder einzelne Tage sowie bis zu einer
 
 www.ris.bka.gv.at
 
@@ -212,9 +214,9 @@ Woche aus Anlaß des Abschlusses des ersten Semesters schulfrei erklärt werden.
 
 (7) Für die Ausführung der Abs. 1 bis 6 gelten folgende allgemeine Grundsätze:
 
-- Die  Landesgesetzgebung  hat,  insbesondere  hinsichtlich  des  Beginns  und  des  Endes  der  Ferien sowie der gemäß § 2 Abs. 5 dritter Satz für Bundesschulen durch Verordnung der Schulbehörden erster  Instanz  schulfrei  erklärten  Tage,  die  Übereinstimmung  mit  Abschnitt  I  bzw.  mit  den Schulfreierklärungen  gemäß  § 2  Abs. 5  dritter  Satz  anzustreben,  soweit  zwingende  örtliche Notwendigkeiten nicht entgegenstehen.
+1. Die Landesgesetzgebung hat, insbesondere hinsichtlich des Beginns und des Endes der Ferien sowie der gemäß § 2 Abs. 5 dritter Satz für Bundesschulen durch Verordnung der Schulbehörden erster Instanz schulfrei erklärten Tage, die Übereinstimmung mit Abschnitt I bzw. mit den Schulfreierklärungen gemäß § 2 Abs. 5 dritter Satz anzustreben, soweit zwingende örtliche Notwendigkeiten nicht entgegenstehen.
 
-- Wenn  örtliche  Gegebenheiten  es  zwingend  erfordern,  kann  die  Landesgesetzgebung  auch  für einzelne Teile eines Bundeslandes unterschiedliche Regelungen treffen.
+2. Wenn örtliche Gegebenheiten es zwingend erfordern, kann die Landesgesetzgebung auch für einzelne Teile eines Bundeslandes unterschiedliche Regelungen treffen.
 
 (8) Bei Unbenützbarkeit des Schulgebäudes, in Katastrophenfällen oder aus sonstigen zwingenden oder aus im öffentlichen Interesse gelegenen Gründen kann die unumgänglich notwendige Zeit schulfrei erklärt  werden.  Die  Landesgesetzgebung  hat  vorzusehen,  daß  in  diesen  Fällen  die  Einbringung  der hiedurch  entfallenen  Schultage  angeordnet  werden  kann  und  ab  welchem  Ausmaß  die  Einbringung anzuordnen  ist.  Die  Einbringung  kann  durch  Verringerung  der  im  Sinne  der  Abs. 2,  4,  5,  9  und  10 schulfrei  erklärten  Tage  geschehen;  die  Hauptferien  dürfen  jedoch  um  nicht  mehr  als  zwei  Wochen verkürzt werden.
 
@@ -243,7 +245,7 @@ Grundsatzbestimmung
 #### Grundsätze für Berufsschulen
 
 ##### § 10.
-(1) Das Schuljahr hat im September zu beginnen und bis zum Beginn des nächsten Schuljahres zu dauern. Es besteht aus dem Unterrichtsjahr und den Hauptferien. Das Unterrichtsjahr beginnt mit dem Schuljahr und endet mit dem Beginn der Hauptferien. Es besteht an ganzjährigen Berufsschulen aus zwei Semestern.
+(1) Das Schuljahr hat im September zu beginnen und bis zum Beginn des nächsten Schuljahres zu dauern. Es besteht aus dem Unterrichtsjahr und den Hauptferien. Das Unterrichtsjahr beginnt mit dem
 
 www.ris.bka.gv.at
 
@@ -255,15 +257,17 @@ Seite 5 von 9
 
 Bundesrecht konsolidiert
 
-(2)  Die  Hauptferien  dauern  mindestens  sieben,  höchstens  neun  zusammenhängende  Wochen  am Ende des Schuljahres.
+Schuljahr und endet mit dem Beginn der Hauptferien. Es besteht an ganzjährigen Berufsschulen aus zwei Semestern.
+
+(2) Die Hauptferien dauern mindestens sieben, höchstens neun zusammenhängende Wochen am Ende des Schuljahres.
 
 (3) Schultage sind
 
-- an ganzjährigen Berufsschulen mindestens ein voller Tag oder mindestens zwei halbe Tage in der Woche,
+1. an ganzjährigen Berufsschulen mindestens ein voller Tag oder mindestens zwei halbe Tage in der Woche,
 
-- an lehrgangsmäßigen Berufsschulen die innerhalb der Lehrgangsdauer liegenden Tage und
+2. an lehrgangsmäßigen Berufsschulen die innerhalb der Lehrgangsdauer liegenden Tage und
 
-- an saisonmäßigen Berufsschulen mindestens zwei volle Tage in der Woche innerhalb des Teiles des Jahres, auf den der Unterricht zusammengezogen wird,
+3. an saisonmäßigen Berufsschulen mindestens zwei volle Tage in der Woche innerhalb des Teiles des Jahres, auf den der Unterricht zusammengezogen wird,
 
 soweit sie nicht gemäß den folgenden Absätzen schulfrei sind.
 
@@ -334,7 +338,7 @@ Das  letzte  Schuljahr  der  allgemeinen  Schulpflicht  im  Sinne  des  Schulpfl
 #### Anwendung auf Privatschulen
 
 #### § 15.
-(1)  Soweit  gesetzliche  Vorschriften  über  die  Unterrichtszeit  gemäß  § 13  Abs. 2  lit. c  des Privatschulgesetzes,  BGBl.  Nr. 244/1962,  bzw.  gemäß  dieser  Bestimmung  in  Verbindung  mit  § 1  des Landund forstwirtschaftlichen Privatschulgesetzes, BGBl. Nr. 318/1975, auf Privatschulen mit Öffentlichkeitsrecht anzuwenden sind, gilt die Einschränkung, daß bei gleichem Ausmaß der tatsächlich gehaltenen Unterrichtsstunden geringfügige Abweichungen von den für öffentliche Schulen gleicher Art geltenden Bestimmungen zulässig sind.
+(1) Soweit gesetzliche Vorschriften über die Unterrichtszeit gemäß § 13 Abs. 2 lit. c des Privatschulgesetzes, BGBl. Nr. 244/1962, bzw. gemäß dieser Bestimmung in Verbindung mit § 1 des Land- und forstwirtschaftlichen Privatschulgesetzes, BGBl. Nr. 318/1975, auf Privatschulen mit Öffentlichkeitsrecht anzuwenden sind, gilt die Einschränkung, daß bei gleichem Ausmaß der tatsächlich gehaltenen Unterrichtsstunden geringfügige Abweichungen von den für öffentliche Schulen gleicher Art geltenden Bestimmungen zulässig sind.
 
 www.ris.bka.gv.at
 
@@ -372,31 +376,31 @@ Abs. 4 Z 3, Abs. 5 Z 3 und Abs. 7 Z 2: Grundsatzbestimmung
 #### § 16a.
 (1) Die folgenden Paragraphen in der Fassung des Bundesgesetzes BGBl. Nr. 516/1993 treten wie folgt in Kraft:
 
-§ 2 Abs. 5 und 7 bis 10, § 5 Abs. 1, 2 und 3, § 6, § 13 Abs. 3, § 15 Abs. 2 und § 17 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt,
+1. § 2 Abs. 5 und 7 bis 10, § 5 Abs. 1, 2 und 3, § 6, § 13 Abs. 3, § 15 Abs. 2 und § 17 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt,
 
-§ 3, § 4 und § 5 Abs. 6 mit 1. September 1994 und
+2. § 3, § 4 und § 5 Abs. 6 mit 1. September 1994 und
 
-§ 9 Abs. 3 und 4 und § 10 Abs. 5a gegenüber den Ländern für die Ausführungsgesetzgebung mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt.
+3. § 9 Abs. 3 und 4 und § 10 Abs. 5a gegenüber den Ländern für die Ausführungsgesetzgebung mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt.
 
-- Die folgenden Paragraphen in der Fassung des Bundesgesetzes BGBl. Nr. 467/1995 treten wie folgt in Kraft:
+(2) Die folgenden Paragraphen in der Fassung des Bundesgesetzes BGBl. Nr. 467/1995 treten wie folgt in Kraft:
 
-§ 2 Abs. 2 sowie der Entfall des letzten Satzes des § 5 Abs. 1 mit 1. Februar 1997,
+1. § 2 Abs. 2 sowie der Entfall des letzten Satzes des § 5 Abs. 1 mit 1. Februar 1997,
 
-§ 2 Abs. 5 und 8, die Überschrift des Unterabschnittes B, § 15 Abs. 3 sowie der Entfall des § 2 Abs. 9 und 10 mit 1. September 1995,
+2. § 2 Abs. 5 und 8, die Überschrift des Unterabschnittes B, § 15 Abs. 3 sowie der Entfall des § 2 Abs. 9 und 10 mit 1. September 1995,
 
-§ 2 Abs. 7 und 9, § 5 Abs. 1 bis 3, § 6, § 13 Abs. 3, § 15 Abs. 2, der Entfall des § 16a Abs. 3, § 16b und § 17 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt und
+3. § 2 Abs. 7 und 9, § 5 Abs. 1 bis 3, § 6, § 13 Abs. 3, § 15 Abs. 2, der Entfall des § 16a Abs. 3, § 16b und § 17 mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt und
 
-§ 8 Abs. 5, 9 und 10 gegenüber den Ländern für die Ausführungsgesetzgebung mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt.
+4. § 8 Abs. 5, 9 und 10 gegenüber den Ländern für die Ausführungsgesetzgebung mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt.
 
-§ 2 Abs. 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 45/1998 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
+(3) § 2 Abs. 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 45/1998 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
 
-- Die  nachstehenden  Bestimmungen  dieses  Bundesgesetzes  in  der  Fassung  des  Bundesgesetzes BGBl. I Nr. 91/2005 treten wie folgt in Kraft:
+(4) Die nachstehenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 91/2005 treten wie folgt in Kraft:
 
-§ 2 Abs. 7 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 2 Abs. 7 tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 2 Abs. 4 Z 1 bis 7 und Abs. 8 sowie § 4 Abs. 4 treten mit 1. September 2006 in Kraft und
+2. § 2 Abs. 4 Z 1 bis 7 und Abs. 8 sowie § 4 Abs. 4 treten mit 1. September 2006 in Kraft und
 
-(Grundsatzbestimmung) die Überschrift des Unterabschnittes A des Abschnittes II, § 8 Abs. 3 und 9 sowie § 9 Abs. 1 treten gegenüber den Ländern mit Ablauf des Tages der Kundmachung
+3. (Grundsatzbestimmung) die Überschrift des Unterabschnittes A des Abschnittes II, § 8 Abs. 3 und 9 sowie § 9 Abs. 1 treten gegenüber den Ländern mit Ablauf des Tages der Kundmachung
 
 www.ris.bka.gv.at
 
@@ -410,35 +414,35 @@ Bundesrecht konsolidiert
 
 im Bundesgesetzblatt in Kraft; die Ausführungsgesetze sind binnen einem Jahr zu erlassen und mit 1. September 2006 in Kraft zu setzen.
 
-- Die  nachstehenden  Bestimmungen  dieses  Bundesgesetzes  in  der  Fassung  des  Bundesgesetzes BGBl. I Nr. 20/2006 treten wie folgt in Kraft:
+(5) Die nachstehenden Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 20/2006 treten wie folgt in Kraft:
 
-§ 2 Abs. 2a und 7, § 5 Abs. 1, 2 und 3, § 13 Abs. 3, § 15 Abs. 2, § 16 Abs. 2, § 16c sowie § 17 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 2 Abs. 2a und 7, § 5 Abs. 1, 2 und 3, § 13 Abs. 3, § 15 Abs. 2, § 16 Abs. 2, § 16c sowie § 17 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 2 Abs. 5 sowie § 3 Abs. 1 treten mit 1. September 2006 in Kraft,
+2. § 2 Abs. 5 sowie § 3 Abs. 1 treten mit 1. September 2006 in Kraft,
 
-(Grundsatzbestimmung) § 8  Abs. 3  tritt  gegenüber  den  Ländern  mit  Ablauf  des  Tages  der Kundmachung im Bundesgesetzblatt in Kraft; die Ausführungsgesetze sind binnen einem Jahr zu erlassen und mit 1. September 2006 in Kraft zu setzen.
+3. (Grundsatzbestimmung) § 8 Abs. 3 tritt gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft; die Ausführungsgesetze sind binnen einem Jahr zu erlassen und mit 1. September 2006 in Kraft zu setzen.
 
-§ 1  samt  Überschrift  sowie  § 5  Abs. 1  und  4  dieses  Bundesgesetzes  in  der  Fassung  des Bundesgesetzes BGBl. I Nr. 113/2006 treten mit 1. Oktober 2007 in Kraft.
+(6) § 1 samt Überschrift sowie § 5 Abs. 1 und 4 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 113/2006 treten mit 1. Oktober 2007 in Kraft.
 
-- Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 29/2008 treten wie folgt in Kraft:
+(7) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 29/2008 treten wie folgt in Kraft:
 
-§ 2 Abs. 5 und 6, § 5 Abs. 4 sowie § 16b Abs. 1a treten mit 1. Jänner 2008 in Kraft;
+1. § 2 Abs. 5 und 6, § 5 Abs. 4 sowie § 16b Abs. 1a treten mit 1. Jänner 2008 in Kraft;
 
-(Grundsatzbestimmung)  § 8 Abs. 7  Z 1  tritt  gegenüber  den  Ländern  mit  Ablauf  des  Tages  der Kundmachung im Bundesgesetzblatt in Kraft; die Ausführungsgesetze sind binnen einem Jahr zu erlassen.
+2. (Grundsatzbestimmung) § 8 Abs. 7 Z 1 tritt gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft; die Ausführungsgesetze sind binnen einem Jahr zu erlassen.
 
-- Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2012 treten wie folgt in Kraft:
+(8) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2012 treten wie folgt in Kraft:
 
-§ 4 Abs. 4 tritt mit 1. September 2012 in Kraft;
+1. § 4 Abs. 4 tritt mit 1. September 2012 in Kraft;
 
-( Grundsatzbestimmung )  die  Überschrift des Unterabschnitts A in Abschnitt II tritt gegenüber den  Ländern  mit  Ablauf  des  Tages  der  Kundmachung  im  Bundesgesetzblatt  in  Kraft;  die Ausführungsgesetze sind binnen einem Jahr zu erlassen und mit 1. September 2012 in Kraft zu setzen.
+2. (Grundsatzbestimmung) die Überschrift des Unterabschnitts A in Abschnitt II tritt gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft; die Ausführungsgesetze sind binnen einem Jahr zu erlassen und mit 1. September 2012 in Kraft zu setzen.
 
-§ 2  Abs. 4  Z 3,  Abs. 5  und  7  sowie  § 4  Abs. 1  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 75/2013 treten mit 1. Jänner 2014 in Kraft.
+(9) § 2 Abs. 4 Z 3, Abs. 5 und 7 sowie § 4 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2013 treten mit 1. Jänner 2014 in Kraft.
 
-- Die  nachstehend  genannten  Bestimmungen  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 48/2014 treten wie folgt in bzw. außer Kraft:
+(10) Die nachstehend genannten Bestimmungen in der Fassung des Bundesgesetzes BGBl. I Nr. 48/2014 treten wie folgt in bzw. außer Kraft:
 
-§ 2 Abs. 7, § 6 und § 17 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+1. § 2 Abs. 7, § 6 und § 17 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-( Grundsatzbestimmung ) § 12 tritt gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
+2. (Grundsatzbestimmung) § 12 tritt gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
 
 #### § 16b.
 (1)  Verordnungen auf  Grund der  Änderungen durch die in § 16a genannten Bundesgesetze können bereits von dem ihrer Kundmachung folgenden Tag an erlassen werden. Sie treten frühestens mit dem jeweils in § 16a genannten Zeitpunkt in Kraft.
