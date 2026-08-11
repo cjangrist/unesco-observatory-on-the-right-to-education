@@ -6,7 +6,7 @@ Kingdom of Cambodia Nation Religion King
 
 Endorsed by the National Committee of Early Childhood Care and Development in the Session dated 13th August 2014
 
-1
+
 
 [[END OF PAGE 1]]
 
@@ -36,13 +36,35 @@ National Committee of Early Childhood Care and Development Chairperson
 
 ## Content
 
+Preface .......................................................................................................... 1
+Content.......................................................................................................... 2
+1. Background ................................................................................................ 1
+2. Strategies ................................................................................................... 8
+Strategy 1: ............................................................................................... 8
+Strategy 2: ............................................................................................. 11
+Strategy 3: ............................................................................................. 12
+Strategy 4: ............................................................................................. 12
+Strategy 5: ............................................................................................. 13
+Strategy 6: ............................................................................................. 13
+Strategy 7: ............................................................................................. 14
+Strategy 8: ............................................................................................. 15
+Strategy 9: ............................................................................................. 16
+3. Action Plan ............................................................................................... 18
+4. Expenditure .............................................................................................. 35
+Budget for each of the nine strategies is presented below: ................................. 35
+5. Collection of resources to support the implementation of the action plan .......... 36
+5.1 Procedure of collecting resources ............................................................... 37
+5.2 The participation and responsibility of stakeholders ...................................... 37
+6. Monitoring and Evaluation........................................................................... 39
+7. Conclusion ................................................................................................ 42
+
 2
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-## BACKGROUND
+## 1. BACKGROUND
 
 3
 
@@ -76,7 +98,7 @@ Goals and objectives of the Policy include:
 
 - All  women  are  provided  with  care,  health  education  services  and  nutrition  during pregnancy;
 
-- All  children  have  their  births  registered,  are  provided  with  care,  regular  health  checkups, adequate immunisation and nutrition, and early learning;
+- All  children  have  their  births  registered,  are  provided  with  care,  regular  health  check-ups, adequate immunisation and nutrition, and early learning;
 
 - All young children are ready to start grade one at age six;
 
@@ -116,9 +138,21 @@ Although general health status is improving in Cambodia, life expectancy is only
 
 [[START OF PAGE 7]]
 
-Malnutrition remains a significant problem in Cambodia despite some improvements in the first half  of  the  decade.  In  2010,  child  stunting  was  stagnant  at  around  40%  and  Cambodia  was considered  as  one  of  the  countries  with  the  highest  child  stunting  rate  in  the  region.  Child wasting decreased from 17% in 2000 to 8% in 2005 but increased to 10.9% in 2010 (CDHS). Micronutrient  deficiencies  remain  widespread  and  anaemia  is  common  among  52.7%  of pregnant women, 44.4% of women in reproductive age and 55% of children (CDHS 2010). After some improvement, vitamin A supplementation of children aged 6 to 59 months now reaches 71%. Every  year,  approximately  2,300  children  die  from  diarrhoea.  Malnutrition  increases  the number and duration of diarrhoea  episodes.  In  rural  areas  of  Cambodia  only  24.7%  of  rural households  have  a  toilet  and  approximately  53.1%  have  access  to  improved  drinking  water. With sanitation  and  safe  water  supply  this  low,  Cambodia  is  constantly  exposed  to  infection which can cause environmental entropy. Children who are often sick as a result of unsafe water and inadequate sanitation develop poor intestinal capacity to absorb nutrients. Stunted children are less likely to learn well because they suffer long-term cognitive damage. The use of contraceptives is still poor. Only 27% of adults used contraceptives in 2007 and had inadequate  antenatal health  and  nutrition care.    In  2008,  the  proportion  of  pregnant  women with  two  or  more  antenatal  care  visits  with  skilled  health  personnel  was  81%  and  89%  of pregnant women had at least one antenatal care visit before birth.  In 2010, only 59% had the 4 or  more  antenatal  visits.    Skilled  attendants  were  present  at  71%  of  deliveries  and  54%  of women delivered in  a  health  care  centre  or  hospital.  The  quality  of  antenatal  education  and deliveries at hospital should be further improved. Prompt registration at birth is seen as an essential means of protecting a child's right to identity, as well as ensuring realisation of his/her fundamental rights. Birth registration is also essential to  protection  efforts  such  as:  (i)  preventing  child  labour  by  enforcing  minimum-employment age  laws;  (ii)  ensuring  that  children  in  conflict  with  the  law  are  not  treated  legally  and practically as adults; (iii) protecting children from under age military service or conscription; (iv) prohibiting child marriage; and (v) reducing child trafficking as well as assessing children who are repatriation and reunited family member. Data for births are essential for government for  planning  of  services  for  populations,  setting  priorities,  formulating  essential  national strategies and making decision about resource allocation at national and sub-national level. In 2010, only 62% of children under five are registered in Cambodia, which is lower than the 2005 figure of 65%. 60% of children live in rural area registered their birth compared to 74% of children living in urban area. 48% of the poorest children registered as opposed to 78% of the richest. Early  Childhood  Intervention  (ECI)  services  are  low  at  present  for  vulnerable  children  from birth to three years of age with or at high risk of developmental delays, malnutrition, disabilities or atypical behaviours. In addition, children with underweight or disabilities at brith are often not detected until they are enrolled in primary school. Immunisation  rates  have  greatly  improved  in  recent  years  due  to  effective  nationwide
+Malnutrition remains a significant problem in Cambodia despite some improvements in the first half of the decade. In 2010, child stunting was stagnant at around 40% and Cambodia was considered as one of the countries with the highest child stunting rate in the region. Child wasting decreased from 17% in 2000 to 8% in 2005 but increased to 10.9% in 2010 (CDHS).
 
-campaigns.    According  to  Cambodia  Demographic  and  Health  Survey  2010,  94%  were immunised  against  Tuberculosis,  83.8%  against  Polio  (PV3),  77%  against  Measles,  83.6% against Diphtheria, Pertussis and Tetanus (DPT3), 73% against Hepatitis B and 73.6% for all vaccinations above. The incidence of mortality is quite high among children under five. 48% were taken to a health provider with suspected pneumonia, and respiratory diseases are endemic to this population of young  children.  50%  received  oral  rehydration  for  diarrhoea  (and  many  more  were  not treated). Malaria case fatality rate reported by the Public Health Sector was 0.36% (MoH 2004) and the proportion of population at high risk who did not slept under insecticide-treated bed nets during the previous night was 64% (MoH HIS 2007); and HIV/AIDS infected or affected children are increasing and prevention rates are low. In recent years, Early Childhood Education (ECE) sub-sector in Cambodia has shown significant improvement through four ECE programmes  i.e. (i) State Preschools, (ii)  Community Preschools, (iii) Home-based Programmes and (iv) Private Preschools. Enrolment rate among children  aged  3  to  5  has  increased  from  13.6  per  cent  in  2005/06  school  year  to  32.7%  in 2012/13 and from 27.3 to  56.5%  among  five-year  olds  (Education  Congress  Report,  MoEYS, 2013).  Curriculum, teacher training modules and teaching materials have been developed for different  kinds  of  ECE  programmes.    Bilingual  Preschool  Education  and  Inclusive  Preschool Education  programmes  were  initiated  in  2011  to  extend  ECE  to  children  from  ingenious minority groups and children with disabilities, who were most marginalized from early learning opportunities.  Despite all those progress, issues on insufficient outreach to most rural areas, standardization  of  learning  quality  among  the  different  programmes,  and  low  incentive  and retention of community preschool teachers, remain as the major challenges to be addressed. Formal basic education is a function of early childhood development and planning to maximise educational budgetary resources. Net primary school enrolment has risen to 98.2% in 2013 2014  (MoEYS  2014).    Primary  school  completion  rate  in  2012-2013  was  88.94%.  Primary school  dropout  rate  was  10.5%.  Repetition  rate  averages  4.8%  and  is  higher  in  rural  areas (MOEYS 2014).  These levels of internal inefficiency of the education system have led to high costs  to  society.    Many  researches  throughout  the  world  have  shown  that  investing  in  early childhood care and development (ECCD) greatly reduces the internal inefficiencies of education systems, improves student achievement and expands the literate workforce. In addition, it has been shown that the savings pertaining to improving the internal efficiency of primary school education more than pays the costs for all ECCD services (Jaramillo and Mingat 2007). It  is  estimated that 600,000 Cambodian children from birth to 17 years are orphans (UNICEF 2007), and only 83% of school age orphans are reported to be attending school.  Due to lack of social  welfare  services,  many  families  in  poverty  are  abandoning  traditional  values  that prioritize family- and community-based care and relying on residential care facilities, a trend that has contributed to a rapidly increasing and largely unregulated residential care industry in Cambodia. While around more than 11,000 children are living in residential care in 2013, an estimated 72% have at least one living parent. International research has shown that some of residential care institutions were not good conditions, so it can prevent the healthy development of children, leading to delays in their development, emotional insecurity and an inability  to  develop  the  social  skills  needed.    More  strategic  support  is  necessary  to  improve residential care institutions with standard and prevent unnecessary separation of children from parents and promote family reintegration for those separated.
+Micronutrient deficiencies remain widespread and anaemia is common among 52.7% of pregnant women, 44.4% of women in reproductive age and 55% of children (CDHS 2010). After some improvement, vitamin A supplementation of children aged 6 to 59 months now reaches 71%.
+
+Every year, approximately 2,300 children die from diarrhoea. Malnutrition increases the number and duration of diarrhoea episodes. In rural areas of Cambodia only 24.7% of rural households have a toilet and approximately 53.1% have access to improved drinking water. With sanitation and safe water supply this low, Cambodia is constantly exposed to infection which can cause environmental entropy. Children who are often sick as a result of unsafe water and inadequate sanitation develop poor intestinal capacity to absorb nutrients. Stunted children are less likely to learn well because they suffer long-term cognitive damage.
+
+The use of contraceptives is still poor. Only 27% of adults used contraceptives in 2007 and had inadequate antenatal health and nutrition care. In 2008, the proportion of pregnant women with two or more antenatal care visits with skilled health personnel was 81% and 89% of pregnant women had at least one antenatal care visit before birth. In 2010, only 59% had the 4 or more antenatal visits. Skilled attendants were present at 71% of deliveries and 54% of women delivered in a health care centre or hospital. The quality of antenatal education and deliveries at hospital should be further improved.
+
+Prompt registration at birth is seen as an essential means of protecting a child's right to identity, as well as ensuring realisation of his/her fundamental rights. Birth registration is also essential to protection efforts such as: (i) preventing child labour by enforcing minimum-employment age laws; (ii) ensuring that children in conflict with the law are not treated legally and practically as adults; (iii) protecting children from under age military service or conscription; (iv) prohibiting child marriage; and (v) reducing child trafficking as well as assessing children who are repatriation and reunited family member. Data for births are essential for government for planning of services for populations, setting priorities, formulating essential national strategies and making decision about resource allocation at national and sub-national level.
+
+In 2010, only 62% of children under five are registered in Cambodia, which is lower than the 2005 figure of 65%. 60% of children live in rural area registered their birth compared to 74% of children living in urban area. 48% of the poorest children registered as opposed to 78% of the richest.
+
+Early Childhood Intervention (ECI) services are low at present for vulnerable children from birth to three years of age with or at high risk of developmental delays, malnutrition, disabilities or atypical behaviours. In addition, children with underweight or disabilities at brith are often not detected until they are enrolled in primary school.
+
+Immunisation rates have greatly improved in recent years due to effective nationwide campaigns. According to Cambodia Demographic and Health Survey 2010, 94% were
 
 3
 
@@ -126,13 +160,25 @@ campaigns.    According  to  Cambodia  Demographic  and  Health  Survey  2010,  
 
 [[START OF PAGE 8]]
 
+immunised against Tuberculosis, 83.8% against Polio (PV3), 77% against Measles, 83.6% against Diphtheria, Pertussis and Tetanus (DPT3), 73% against Hepatitis B and 73.6% for all vaccinations above.
+
+The incidence of mortality is quite high among children under five. 48% were taken to a health provider with suspected pneumonia, and respiratory diseases are endemic to this population of young children. 50% received oral rehydration for diarrhoea (and many more were not treated). Malaria case fatality rate reported by the Public Health Sector was 0.36% (MoH 2004) and the proportion of population at high risk who did not slept under insecticide-treated bed nets during the previous night was 64% (MoH HIS 2007); and HIV/AIDS infected or affected children are increasing and prevention rates are low.
+
+In recent years, Early Childhood Education (ECE) sub-sector in Cambodia has shown significant improvement through four ECE programmes i.e. (i) State Preschools, (ii) Community Preschools, (iii) Home-based Programmes and (iv) Private Preschools. Enrolment rate among children aged 3 to 5 has increased from 13.6 per cent in 2005/06 school year to 32.7% in 2012/13 and from 27.3 to 56.5% among five-year olds (Education Congress Report, MoEYS, 2013). Curriculum, teacher training modules and teaching materials have been developed for different kinds of ECE programmes. Bilingual Preschool Education and Inclusive Preschool Education programmes were initiated in 2011 to extend ECE to children from ingenious minority groups and children with disabilities, who were most marginalized from early learning opportunities. Despite all those progress, issues on insufficient outreach to most rural areas, standardization of learning quality among the different programmes, and low incentive and retention of community preschool teachers, remain as the major challenges to be addressed.
+
+Formal basic education is a function of early childhood development and planning to maximise educational budgetary resources. Net primary school enrolment has risen to 98.2% in 2013 -2014 (MoEYS 2014). Primary school completion rate in 2012-2013 was 88.94%. Primary school dropout rate was 10.5%. Repetition rate averages 4.8% and is higher in rural areas (MOEYS 2014). These levels of internal inefficiency of the education system have led to high costs to society. Many researches throughout the world have shown that investing in early childhood care and development (ECCD) greatly reduces the internal inefficiencies of education systems, improves student achievement and expands the literate workforce. In addition, it has been shown that the savings pertaining to improving the internal efficiency of primary school education more than pays the costs for all ECCD services (Jaramillo and Mingat 2007).
+
+It is estimated that 600,000 Cambodian children from birth to 17 years are orphans (UNICEF 2007), and only 83% of school age orphans are reported to be attending school. Due to lack of social welfare services, many families in poverty are abandoning traditional values that prioritize family- and community-based care and relying on residential care facilities, a trend that has contributed to a rapidly increasing and largely unregulated residential care industry in Cambodia. While around more than 11,000 children are living in residential care in 2013, an estimated 72% have at least one living parent. International research has shown that some of residential care institutions were not good conditions, so it can prevent the healthy development of children, leading to delays in their development, emotional insecurity and an inability to develop the social skills needed. More strategic support is necessary to improve
+
 4
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-Violence  against  children  remains  a  significant  issue  in  Cambodia,  resulting  in  actual  or potential harm to the child's health, survival, development or dignity. As of July 01, 2014, there were 31 children, including 18 girls, detained with their mother, most of them are under 3 years age,  according  to  the  figure  of  the  General  Department  of  Prison,  Ministry  of  Interio.  In accordance with the 2011 Law on Prisons, children who are residing with incarcerated mothers should be removed as of the age of 3.
+residential care institutions with standard and prevent unnecessary separation of children from parents and promote family reintegration for those separated.
+
+Violence against children remains a significant issue in Cambodia, resulting in actual or potential harm to the child's health, survival, development or dignity. As of July 01, 2014, there were 31 children, including 18 girls, detained with their mother, most of them are under 3 years age, according to the figure of the General Department of Prison, Ministry of Interio. In accordance with the 2011 Law on Prisons, children who are residing with incarcerated mothers should be removed as of the age of 3.
 
 Cambodia ratified the Convention on the Rights of the Child on Oct 15, 1992 and two Optional Protocols on Involvement of Children in Armed Conflicts and the Protocl on the Sale of Children, Child Prostitution and Child Ponorgraphy on Feb 21, 2002.
 
@@ -238,7 +284,7 @@ Priority issues include:
 
 [[START OF PAGE 13]]
 
-- Approve and disseminate the National Policy and National Action Plan on Early Childhood Care and Development to relevant ministries, agencies, national and international organizations as well as development partners at national and subnational levels;
+- Approve and disseminate the National Policy and National Action Plan on Early Childhood Care and Development to relevant ministries, agencies, national and international organizations as well as development partners at national and sub-national levels;
 
 - Develop legal framework for implementing Early Childhood Care and Development Program;
 
@@ -280,6 +326,21 @@ Priority issues include:
 
 [[START OF PAGE 14]]
 
+NC-ECCD General Secretariat based in Ministry of Education, Youth and Sport
+
+Sectoral Early Childhood Coordinating Committees
+
+Technical Advisors
+
+Policy Section
+
+Admin and Finance Section
+
+M&E Section
+
+- (Capital, Provincial, Municiple, District, Khan) Consultative Committee on Women and Children
+- (Commune/Sangkat) Committee for Women and Children
+
 10
 
 [[END OF PAGE 14]]
@@ -302,7 +363,7 @@ Priority issues include:
 
 - o The database will be reviewed and updated every five years.
 
- ECCD programmes supported by Development Partners, NGOs, civil organizations and private  sector  should  be  also  included  in  monitoring  and  evaluation,  so  that  the  NCECCD  can  identify  the  best  practices  for  potential  nationwide  replication  through mainstreaming.
+ ECCD programmes supported by Development Partners, NGOs, civil organizations and private  sector  should  be  also  included  in  monitoring  and  evaluation,  so  that  the  NC-ECCD  can  identify  the  best  practices  for  potential  nationwide  replication  through mainstreaming.
 
 11
 
@@ -314,7 +375,7 @@ Priority issues include:
 
  Provide pre- and in-service training for ECCD service providers to expand ECCD services and improve the quality of work of the service providers based on sound ethics.
 
-- o Provide  training  to  ECCD  service  management  including  managers  of  private  preschools,  community  pre-schools,  civil  society  organizations,  NGOs,  institutes  and others;
+- o Provide  training  to  ECCD  service  management  including  managers  of  private  pre-schools,  community  pre-schools,  civil  society  organizations,  NGOs,  institutes  and others;
 
 - o Provide pre- and in-service training to personnel at national and sub-national levels and local ECCD service providers in the areas of education, health, nutrition, hygiene and education, child protection, social work, psychology, early childhood interventions and community development;
 
@@ -366,7 +427,7 @@ Priority issues include:
 
 - o Promoting  early  breastfeeding  within  the  first  hour  after  birth  and  exclusive breastfeeding during the first six months of life, continued breastfeeding until two years of age, and appropriate complementary feeding.
 
-- o Ensuring  the  timely  immunization  for  all  children  against  all  kinds  of  vaccinepreventable  diseases,  i.e.  Tuberculosis  (BCG),  Polio  (PV3),  measles,  Diphtheria, Pertussis and Tetanus (DPT3), Hepatitis B.
+- o Ensuring  the  timely  immunization  for  all  children  against  all  kinds  of  vaccine-preventable  diseases,  i.e.  Tuberculosis  (BCG),  Polio  (PV3),  measles,  Diphtheria, Pertussis and Tetanus (DPT3), Hepatitis B.
 
 - o Providing  nutritious  food  supplements  and  early  stimulation  for  children  with malnutrition, along with guidance for food security and safety.
 
@@ -518,10 +579,10 @@ appropriate  developmental  activities  to  them  daily,  and  2)  children  wit
 
 No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsibile Person | Budget (USD)
 --- | --- | --- | --- | --- | --- | ---
-1 | Ensure sustained and effective working sysem of the National Committee for Early Childhood Care and Development | o Urge relevant ministries, agencies and development partners to carry out roles and tasks as elaborated in the National Policy on Early Childhood Care and Development o Urge and provide coordination to all relevant ministries and agencies to set up sectoral Early Childhood Technical Coordinating Committees | o Guidelines and regulations for the undertakingof roles and duties o Decision on the establishment of sectoral Early Childhood Technical Coordinating Committees | 2014-2018 | NC-ECCD | 25,000.00
+1 | Ensure sustained and effective working system of the National Committee for Early Childhood Care and Development | o Urge relevant ministries, agencies and development partners to carry out roles and tasks as elaborated in the National Policy on Early Childhood Care and Development o Urge and provide coordination to all relevant ministries and agencies to set up sectoral Early Childhood Technical Coordinating Committees | o Guidelines and regulations for the undertakingof roles and duties o Decision on the establishment of sectoral Early Childhood Technical Coordinating Committees | 2014-2018 | NC-ECCD | 25,000.00
 o Promote and coordinate the implementation of the National Policy on Early Childhood Care and Development at sub-national level | o Guidelines and operational plan for the implemnetation of the National Policy and National Action Plan on Early Childhood Care and Development at sub-national level | 2014-2018 | NC-ECCD, DPs and Stakeholders | 60,000.00
 o Cooperate with Consultative Committee on Women and Children at capital, provincial and municipal, district and khan levels and Commune/Sangkat Committee for Women and Children in terms of action planning and ECCD monitoring | o 20% of provinces and districts, commune developed their own NAP -ECCD | 2015-2018 | NC-ECCD, Relevant Ministries, DPs | 500,000.00
-o Approve and disseminate the National Policy and National Action Plan on Early Childhood Care and Development to relevant ministries, agencies, national and international organizations as well as development partners at national and sub-national levels | o The number of officials at national and sub- national level participating in the dissemination workshop on the National Policy and National Action Plan on | 2014-2015 | NC-ECCD, DPs | 210,000.00
+o Approve and disseminate the National Policy and National Action Plan on Early Childhood Care and Development to relevant ministries, agencies, national and international organizations as well as development partners at national and sub-national levels | o The number of officials at national and sub-national level participating in the dissemination workshop on the National Policy and National Action Plan on | 2014-2015 | NC-ECCD, DPs | 210,000.00
 
 18
 
@@ -531,14 +592,14 @@ o Approve and disseminate the National Policy and National Action Plan on Early 
 
 Early Childhood Care and Development
 --- | --- | --- | --- | --- | --- | ---
-o Develop legal framework for Early Childhood Care and Development Program | implementing o Regulation and guidelines for sectoral implementation of ECCD program | 2014-2018 | NC-ECCD, Relevant Ministries, DPs | 15,000.00
-o Set up a research mechanism to for and early detect young children needs and disabilities | identify, search with special o Working framwork for identifying young children with special needs and disabilities developed | 2014-2016 | NC-ECCD, Relevant Ministries, DPs | 20,000.00
-o Develop supporting mechanisms for service, community-based service, service and home-based and house based service on early childhood development with special care for disadvantaged areas, ethnic minority | public private group- care and children in children o Working framework for supporing public, community-based, private, home-based ECCD developed | 2014-2016 | NC-ECCD, Relevant Ministries, DPs | 50,000.00
-o Mobilize resources for supporting undertaking of early childhood care development | the and o Percentage of fund for ECCD increased | 2014-2018 | NC-ECCD, Relevant Ministries, DPs | 10,000.00
-o Report the progress of early childhood and development to the Royal | care Government o Report on the progress of ECCD prepared | 2014-2018 | NC-ECCD, Relevant Ministries | 10,000.00
-2 | Ensure sustained and effective working sysem of the General Secretariat of the National Committee for Early Childhood Care and Development | o Undertake administrative and technical management to ensure sustainable functioning of NC-ECCD | o Workplan for the operation of the General Secretariat of NC-ECCD | 2014-2018 | GS-ECCD | 50,000.00
-o Disseminate regulations approved ECCD to all relevant ministries, development partners | by NC- agencies and o Officials of relevant ministries, agencies and development partners receive information on regulations | 2014-2018 | GS-ECCD | 50,000.00
-o Develop and Stregnthen financial system for NC-ECCD | management o Budget plan and income-expense statements of NC-ECCD prepared | 2014-2018 | GS-ECCD | 50,000.00
+o Develop legal framework for implementing Early Childhood Care and Development Program | o Regulation and guidelines for sectoral implementation of ECCD program | 2014-2018 | NC-ECCD, Relevant Ministries, DPs | 15,000.00
+o Set up a research mechanism to identify, search for and early detect young children with special needs and disabilities | o Working framwork for identifying young children with special needs and disabilities developed | 2014-2016 | NC-ECCD, Relevant Ministries, DPs | 20,000.00
+o Develop supporting mechanisms for public service, community-based service, private service and home-based and house group-based service on early childhood care and development with special care for children in disadvantaged areas, ethnic minority children and marginalized children | o Working framework for supporing public, community-based, private, home-based ECCD developed | 2014-2016 | NC-ECCD, Relevant Ministries, DPs | 50,000.00
+o Mobilize resources for supporting the undertaking of early childhood care and development | o Percentage of fund for ECCD increased | 2014-2018 | NC-ECCD, Relevant Ministries, DPs | 10,000.00
+o Report the progress of early childhood care and development to the Royal Government | o Report on the progress of ECCD prepared | 2014-2018 | NC-ECCD, Relevant Ministries | 10,000.00
+2 | Ensure sustained and effective working system of the General Secretariat of the National Committee for Early Childhood Care and Development | o Undertake administrative and technical management to ensure sustainable functioning of NC-ECCD | o Workplan for the operation of the General Secretariat of NC-ECCD | 2014-2018 | GS-ECCD | 50,000.00
+o Disseminate regulations approved by NC-ECCD to all relevant ministries, agencies and development partners | o Officials of relevant ministries, agencies and development partners receive information on regulations | 2014-2018 | GS-ECCD | 50,000.00
+o Develop and Stregnthen financial management system for NC-ECCD | o Budget plan and income-expense statements of NC-ECCD prepared | 2014-2018 | GS-ECCD | 50,000.00
 
 19
 
@@ -546,7 +607,7 @@ o Develop and Stregnthen financial system for NC-ECCD | management o Budget plan
 
 [[START OF PAGE 24]]
 
-o Propose review and revision of the National Policy and National Action Plan on Early Childhood Care and Development to NC-ECCD | o Approval from NC- ECCD on the proposed review and revision of the National Policy and National Action Plan on Early Childhood Care and Development | 2014-2018 | GS-ECCD | 5,000.00
+o Propose review and revision of the National Policy and National Action Plan on Early Childhood Care and Development to NC-ECCD | o Approval from NC-ECCD on the proposed review and revision of the National Policy and National Action Plan on Early Childhood Care and Development | 2014-2018 | GS-ECCD | 5,000.00
 --- | --- | --- | --- | --- | --- | ---
 3 | Identify and establish sectoral Early Childhood Technical Coordinating Committees | o Develop regulation on the establishment of sectoral Early Childhood Technical Coordinating Committees | o Regulations prepared | 2014 | NC-ECCD, Relevant Ministries | 2,000.00
 o Develop sectoral action plans and budget plans to incorporate into the National Action Plan on Early Childhood Care and Development | o Action plan and budget plan prepared | 2014 | NC-ECCD, Relevant Ministries | 15,000.00
@@ -559,6 +620,8 @@ o Prepare a stocktaking report and submit to NC-ECCD | o Periodical report prepa
 
 [[START OF PAGE 25]]
 
+### Strategy  2: Improve  existing  or  newly  established  monitoring  and  evaluation  mechanism  including  database  with  participation  from  ministries/institutions, communities and development partners, and improve national and sub-National Technical Coordination Committees with clear divisions of roles and responsibilities.
+
 No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsibile Person | Budget (USD)
 --- | --- | --- | --- | --- | --- | ---
 1 | Develop and improve joint and sectoral monitoring and evaluating mechanisms on ECCD | o Develop a joint monitoring and evaluating mechanism on ECCD | o A joint monitoring and evaluating mechanism on ECCD | 2014-2018 | NC-ECCD, Relevant Ministries, DPs | 20,000.00
@@ -567,22 +630,20 @@ o Monitor, evaluate and report at all levels from commune level | o M&E plan dev
 o Procedures for reporting and compiling quarterly, semester and annual reports to submit to NC-ECCD | o Quarterly, semester and annual progress reports prepared | 2014-2018 | NC-ECCD, Relevant Ministries, DPs | 10,000.00
 o Database will be reviewed and updated every 5 years o Input the indicator for M and E on the implementation ECE by the Development Partners | o Baseline data and update data prepared o Baseline data prepared based on progress reports and mid-term report | 2014-2018 | GS-ECCD | 20,000.00
 
-### Strategy  2: Improve  existing  or  newly  established  monitoring  and  evaluation  mechanism  including  database  with  participation  from  ministries/institutions, communities and development partners, and improve national and sub-National Technical Coordination Committees with clear divisions of roles and responsibilities.
-
 21
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsibile Person | Budget (USD)
+### Strategy 3: Build capacity (pre-service and in-service training) for programme practitioners, child care supervisors and implementers in line with curriculum and decentralisation and deconcentration policy.
+
+No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsible Person | Budget (USD)
 --- | --- | --- | --- | --- | --- | ---
 1 | Pre- and in-service trainings for ECCD service providers | o Training for management and in-service training for personnel on ECCD | o The number of ECCD personnel trained | 2014-2018 | MOEYS | 400,000.00
-2 | Pre- and in-service training systems at national level developed for implementation in existing training | o Study and review ECCD progress | o Study and progress reports on ECCD prepared and disseminated | 2014-2018 | MOEYS, Relevant Ministries, DPs | 10,000.00
-institutions | o Develop curriculum and training materials and provide in-service training on ECCD skills according to the national curriculum and curricular of countries in the region | o Curriculum and ECCD skill training materials prepared | 2014 | MOEYS | 40,000.00
-3 | Improve technical coordinating committees at national and sub- national levels | o Develop procedures and framework for implementation | o Legal framework and regulations related to code of conduct on ECCD developed | 2014-2018 | NC-ECCD, Relevant Ministries, DPs | 5,000.00
-
-### Strategy 3: Build capacity (pre-service and in-service training) for programme practitioners, child care supervisors and implementers in line with curriculum and decentralisation and deconcentration policy.
+2 | Pre- and in-service training systems at national level developed for implementation in existing training institutions | o Study and review ECCD progress | o Study and progress reports on ECCD prepared and disseminated | 2014-2018 | MOEYS, Relevant Ministries, DPs | 10,000.00
+ |  | o Develop curriculum and training materials and provide in-service training on ECCD skills according to the national curriculum and curricular of countries in the region | o Curriculum and ECCD skill training materials prepared | 2014 | MOEYS | 40,000.00
+3 | Improve technical coordinating committees at national and sub-national levels | o Develop procedures and framework for implementation | o Legal framework and regulations related to code of conduct on ECCD developed | 2014-2018 | NC-ECCD, Relevant Ministries, DPs | 5,000.00
 
 22
 
@@ -590,13 +651,13 @@ institutions | o Develop curriculum and training materials and provide in-servic
 
 [[START OF PAGE 27]]
 
-No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsibile Person | Budget (USD)
---- | --- | --- | --- | --- | --- | ---
-1 | Provide diplomas and certificates to those who have gone through all forms of pre- and in- service trainings | o Develop standards for training institutions and training programs and provide accreditation to all forms of ECCD trainings | o Manuals on standards for training institutions and training programs and accreditation for all forms of ECCD trainings developed | 2014-2018 | MOEYS, Relevant Ministries, DPs | 20,000.00
-o Provide certificates to those who complete pre- and in-service trainings | o The number of trainees awarded with certificates | 2014-2018 | MOEYS, Relevant Ministries, | 50,000.00
-o Develop a database to manage those who have been awarded diplomas or certificates | o A database to manage those who have been awarded diplomas or certificates developed | 2014-2018 | MOEYS, Relevant Ministries, | 5,000.00
-
 ### Strategy 4: Develop national and sub-national mechanisms for the provision of certificates or recognition letters to programme practitioners based on actual care service.
+
+No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsible Person | Budget (USD)
+--- | --- | --- | --- | --- | --- | ---
+1 | Provide diplomas and certificates to those who have gone through all forms of pre- and in-service trainings | o Develop standards for training institutions and training programs and provide accreditation to all forms of ECCD trainings | o Manuals on standards for training institutions and training programs and accreditation for all forms of ECCD trainings developed | 2014-2018 | MOEYS, Relevant Ministries, DPs | 20,000.00
+ |  | o Provide certificates to those who complete pre- and in-service trainings | o The number of trainees awarded with certificates | 2014-2018 | MOEYS, Relevant Ministries, | 50,000.00
+ |  | o Develop a database to manage those who have been awarded diplomas or certificates | o A database to manage those who have been awarded diplomas or certificates developed | 2014-2018 | MOEYS, Relevant Ministries, | 5,000.00
 
 23
 
@@ -604,15 +665,15 @@ o Develop a database to manage those who have been awarded diplomas or certifica
 
 [[START OF PAGE 28]]
 
-No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsibile Person | Budget (USD)
+### Strategy 5: Expand services and education on health care and nutrition to all pregnant women and their partners.
+
+No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsible Person | Budget (USD)
 --- | --- | --- | --- | --- | --- | ---
 1 | Disseminate information on family planning and pre-conception counselling as needed | o Develop plans on the use, revision and/or preparation of documents related to: 1. Family planning and 2. Education on readiness for pregnancy | o plans on the use, revision and/or preparation of documents related to: 1. Family planning and 2. Education on readiness for pregnancy prepared | 2015 | MoH, Relevant Ministries, DPs | 20,000.00
-o Use materials from health center and ECCD services during home visits and group meetings | o The number health centers, villages and houses where the materials are disseminated | 2014-2018 | MoH, GS-ECCD | 50,000.00
-o Develop plans and training schedules to train local staff of MOH and ECCD personnel so that they know how to use these materials during home visits and group meetings | o Training plans and schedules prepared | 2014-2015 | MoH, GS-ECCD | 40,000.00
+ |  | o Use materials from health center and ECCD services during home visits and group meetings | o The number health centers, villages and houses where the materials are disseminated | 2014-2018 | MoH, GS-ECCD | 50,000.00
+ |  | o Develop plans and training schedules to train local staff of MOH and ECCD personnel so that they know how to use these materials during home visits and group meetings | o Training plans and schedules prepared | 2014-2015 | MoH, GS-ECCD | 40,000.00
 2 | Raise awareness on antenatal care and early and regulary pregnancy care | o Develop booklets and teaching materials on key messages on antenatal care, delivery, neonatal care and maternal health | o Training materials developed | 2014-2015 | MoH, GS-ECCD | 50,000.00
-o Train community volunteers and pilot the program in 4 districts in different provinces | o The number of volunteers trained | 2014-2015 | MoH, GS-ECCD | 500,000.00
-
-### Strategy 5: Expand services and education on health care and nutrition to all pregnant women and their partners.
+ |  | o Train community volunteers and pilot the program in 4 districts in different provinces | o The number of volunteers trained | 2014-2015 | MoH, GS-ECCD | 500,000.00
 
 24
 
@@ -633,16 +694,16 @@ o Field test the messages and adapt them to the culture, translate them and diss
 
 [[START OF PAGE 30]]
 
-No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsibile Person | Budget (USD)
+### Strategy 6: Expand health care and healing services for all infants from birth to three years with regular health check-ups, timely and adequate provision of immunisation and monitoring of nutritional services for children with malnutrition, chronic illnesses, delayed development and disabilities.
+
+No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsible Person | Budget (USD)
 --- | --- | --- | --- | --- | --- | ---
 1 | Health and nutrition services focus on Integrated Management of Child Illness (IMCI) and Community-based IMCI (C-IMCI) services | o Promote early breastfeeding within the first hour after birth and exclusive breastfeeding during the first six months of life | o Percentage of mothers who breastfeed the infant early | 2014-2018 | MoH, 10 Ministries, DPs | 30,000.00
-o Ensure the timely immunization for all children | o Percentage of children immunized | 2014-2018 | MoH, Relevant Ministries, DPs | 100,000.00
-o Provide nutritious food supplements and early stimulation for children with malnutrition | o The number of children provided with nutritious food supplements and o The number of children provided with treatment food | 2014-2018 | MoH, Relevant Ministries, DPs | 1,000,000.00
-o Ensuring the provision of essential micronutrients to children | o The number of children provided with essential micronutrients | 2014-2018 | MoH, Relevant Ministries, DPs | 200,000.00
-o Provide deworming pills through established health centres, outreach and schools | o Percentage of children provided with deworming pills | 2014-2018 | MoH, Relevant Min, DPs | 180,000.00
+ |  | o Ensure the timely immunization for all children | o Percentage of children immunized | 2014-2018 | MoH, Relevant Ministries, DPs | 100,000.00
+ |  | o Provide nutritious food supplements and early stimulation for children with malnutrition | o The number of children provided with nutritious food supplements and o The number of children provided with treatment food | 2014-2018 | MoH, Relevant Ministries, DPs | 1,000,000.00
+ |  | o Ensuring the provision of essential micronutrients to children | o The number of children provided with essential micronutrients | 2014-2018 | MoH, Relevant Ministries, DPs | 200,000.00
+ |  | o Provide deworming pills through established health centres, outreach and schools | o Percentage of children provided with deworming pills | 2014-2018 | MoH, Relevant Min, DPs | 180,000.00
 2 | Establish strong coordinating mechanisms with all existing health posts and health centers at commune and district levels | o Put in place regulations, human resources and action plan | o Coordinating mechanisms developed o The number of health centers with health workers according Minimum Package of Activities | 2014-2015 | MoH, Relevant Ministries, DPs | 10,000.00
-
-### Strategy  6: Expand  health  care  and  healing  services  for  all  infants  from  birth  to  three  years  with  regular  health  check-ups,  timely  and  adequate  provision  of immunisation and monitoring of nutritional services for children with malnutrition, chronic illnesses, delayed development and disabilities.
 
 26
 
@@ -662,18 +723,16 @@ o Monitoring at service level | o The number of houses with services and monitor
 
 ### Strategy 7: Expand early childhood care and development services provision, including state, community, private and home-based services, especially early learning for young children.
 
-403,376.00
-
-No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsibil e Person | Budget (USD)
+No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsible Person | Budget (USD)
 --- | --- | --- | --- | --- | --- | ---
 1 | Educate parents to recognize their role as the key ECCD providers | Develop parenting program documents | o Parenting program documents developed | 2014 | MOEYS, DPs | 50,000.00
-2 | Develop a multi- disciplinary parenting education package | Develop training modules for implementers | o Training modules developed | 2014 | MOEYS, DPs | 35,000.00
-3 | Provide community- based and home-based ECCD services | o Parenting program linked with public pre- schools and community-based pre-schools | o The number of public pre-schools and community pre-schools implementing parenting program | 2014-2018 | MOEYS, DPs | 5,695,321.00
-o Home-based ECCD services for home-based care | o The number of home- based ECCD services established | 2014 | MOEYS, DPs | 1,582,190.00
-o Center-based ECCD services provided by the public sector, private sector and civil society organizations | o Number of services established | 2014 | MOEYS, DPs | 10,000,000.00
-o Decentralization of ECCD services for children between 0 to 3 at sub-national level | o ECCD services for children between 0 to 3 at sub-national level are implemented in a decentralized manner | 2014 | MOEYS, DPs | 50,000.00
-o Minimum standards and accreditation for ECCD centers | o Minimum standards developed | 2014 | MOEYS, DPs | 403,376.00
-o Mapping of ECCD needs | o Map of ECCD needs prepared | 2014 | MOEYS, DPs | 30,000.00
+2 | Develop a multi-disciplinary parenting education package | Develop training modules for implementers | o Training modules developed | 2014 | MOEYS, DPs | 35,000.00
+3 | Provide community-based and home-based ECCD services | o Parenting program linked with public pre-schools and community-based pre-schools | o The number of public pre-schools and community pre-schools implementing parenting program | 2014-2018 | MOEYS, DPs | 5,695,321.00
+ |  | o Home-based ECCD services for home-based care | o The number of home-based ECCD services established | 2014 | MOEYS, DPs | 1,582,190.00
+ |  | o Center-based ECCD services provided by the public sector, private sector and civil society organizations | o Number of services established | 2014 | MOEYS, DPs | 10,000,000.00
+ |  | o Decentralization of ECCD services for children between 0 to 3 at sub-national level | o ECCD services for children between 0 to 3 at sub-national level are implemented in a decentralized manner | 2014 | MOEYS, DPs | 50,000.00
+ |  | o Minimum standards and accreditation for ECCD centers | o Minimum standards developed | 2014 | MOEYS, DPs | 403,376.00
+ |  | o Mapping of ECCD needs | o Map of ECCD needs prepared | 2014 | MOEYS, DPs | 30,000.00
 
 28
 
@@ -681,15 +740,12 @@ o Mapping of ECCD needs | o Map of ECCD needs prepared | 2014 | MOEYS, DPs | 30,
 
 [[START OF PAGE 33]]
 
-4,610,920.00
-
-o | Attention on high-risk children | o Number of high risk children protected 2014-2018 | MOEYS, DPs | 100,000.00
---- | --- | --- | --- | --- | --- | ---
-o | Maximize agricultural productivity including vegetable garden, animal raising and multiple crops in the yard o | The number of houses with vegetable gardens, animal raising and 2015-2018 | MAFF, DPs | 260,000.00
-4 | Expansion and strengthening of ECE services | o | Expand all forms of early childhood education services in every place for children from 3 to 6 o Number of services increased and service coverage strengthened | 2014-2018 | MOEYS, DPs | 4,610,920.00
-o | Strengthen and expand bilingual community pre-schools for indigenous areas o | Bilingual community pre-schools expanded 2014-2018 | MOEYS, DPs | 5,772,764.00
-o Expand inclusive education children with disabilities in and community pre-schools | program for public pre-schools o The number of inclusive education program in public pre-schools and community pre-schools expanded | 2014-2018 | MOEYS, DPs | 100,000.00
-o Construct and expand public community pre-schools and centers according to quality | pre-schools, pre-school resource standards o The number of public pre-schools, community pre-schools and pre- school resource centers complying with the quality standards increased | 2014-2018 | MOEYS, DPs | 15,869,930.00
+ |  | o Attention on high-risk children | o Number of high risk children protected | 2014-2018 | MOEYS, DPs | 100,000.00
+ |  | o Maximize agricultural productivity including vegetable garden, animal raising and multiple crops in the yard | o The number of houses with vegetable gardens, animal raising and multiple crops increased | 2015-2018 | MAFF, DPs | 260,000.00
+4 | Expansion and strengthening of ECE services | o Expand all forms of early childhood education services in every place for children from 3 to 6 | o Number of services increased and service coverage strengthened | 2014-2018 | MOEYS, DPs | 4,610,920.00
+ |  | o Strengthen and expand bilingual community pre-schools for indigenous areas | o Bilingual community pre-schools expanded | 2014-2018 | MOEYS, DPs | 5,772,764.00
+ |  | o Expand inclusive education program for children with disabilities in public pre-schools and community pre-schools | o The number of inclusive education program in public pre-schools and community pre-schools expanded | 2014-2018 | MOEYS, DPs | 100,000.00
+ |  | o Construct and expand public pre-schools, community pre-schools and pre-school resource centers according to quality standards | o The number of public pre-schools, community pre-schools and pre-school resource centers complying with the quality standards increased | 2014-2018 | MOEYS, DPs | 15,869,930.00
 5 | Increase budget for ECCD in the commune development budget and other sources | o Develop regulations on the increase of budget for ECCD in the commune development budget and other sources o Identify Community Preschool functions and relegulated as obligatory function for transfering to commune/sangkat councils. | o Percentage of budget for ECCD in the commune development budget and other sources increased o Community Preschool will be implemented by all commune/sangkat councils | 2014-2018 | MOEYS, MOI, GS-ECCD | 10,000.00
 
 29
@@ -698,10 +754,9 @@ o Construct and expand public community pre-schools and centers according to qua
 
 [[START OF PAGE 34]]
 
-6 | Conduct feasibility studies to encourage factories and enterprises to organize ECCD services | o | Develop regulations and set up working group to conduct feasibility studies to encourage factories, enterprises and investment companies to organize ECCD services | o The number of factories, enterprises and investment companies to organizing ECCD services | 2014-2016 | MOEYS, Relevant Ministries, | 43,000.00
---- | --- | --- | --- | --- | --- | --- | ---
-7 | Access to community pre-school program and parenting and family support program | o | Parents recognize the value and importance of ECCD and early childhood education | o The number of officials at national and sub- national levels implemented ECCD increased o The number of parents and stakeholders increasing their attention and recognizing clearly the value of ECE | 2014-2018 | MOWA, MOEYS, MOI, DPs | 250,000.00
-8 | Conduct monitoring and evaluatoin on the effectiveness of ECCD and community pre- school | o | Visit target provinces to provide technical support and conduct M&E | o Community pre-school process and parenting and family education process proceed safely and with quality | 2014-2018 | MOWA, MOEYS, MOI, DPs | 150,000.00
+6 | Conduct feasibility studies to encourage factories and enterprises to organize ECCD services | o Develop regulations and set up working group to conduct feasibility studies to encourage factories, enterprises and investment companies to organize ECCD services | o The number of factories, enterprises and investment companies to organizing ECCD services | 2014-2016 | MOEYS, Relevant Ministries, | 43,000.00
+7 | Access to community pre-school program and parenting and family support program | o Parents recognize the value and importance of ECCD and early childhood education | o The number of officials at national and sub-national levels implemented ECCD increased o The number of parents and stakeholders increasing their attention and recognizing clearly the value of ECE | 2014-2018 | MOWA, MOEYS, MOI, DPs | 250,000.00
+8 | Conduct monitoring and evaluatoin on the effectiveness of ECCD and community pre-school | o Visit target provinces to provide technical support and conduct M&E | o Community pre-school process and parenting and family education process proceed safely and with quality | 2014-2018 | MOWA, MOEYS, MOI, DPs | 150,000.00
 
 30
 
@@ -709,15 +764,15 @@ o Construct and expand public community pre-schools and centers according to qua
 
 [[START OF PAGE 35]]
 
-No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsibil e Person | Budget (USD)
+### Strategy 8: Ensure that all households have access to such information and services as safe water and sanitation, health, nutrition, breastfeeding, food supplementation, immunisation, Vitamin A, iron and iodised salt, early learning, birth registration, prevention of all types of diseases, such as HIV/AIDS, malaria, protection from violence, including corporal punishment, and other forms of vulnerabilities.
+
+No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsible Person | Budget (USD)
 --- | --- | --- | --- | --- | --- | ---
 1 | Provide parents and children with information and services related toon good sanitation and hygiene practices, safety and nutrition | o Develop relevant techical messages o Develop and disseminate agricultural technical messages related to nutrition, hygiene and sanitation, health and safety to parents and children | o The number of media disseminating the messages | 2015-2018 | MOEYS, MAFF, MoInfo, MRD, DPs | 1,805,500.00
 2 | Provide communities with information and services related to hygiene practices and environment support | o Develop relevant techical messages | o The number of media disseminating the messages | 2015-2018 | MOEYS, MoInfo, MRD, DPs | 406,400.00
-3 | Provide safe water facilities and latrines in schools and public places | o Equip safe water facilities and latrines in schools and public places | o The number of schools and public places provided with safe water facilities and latrines | 2014-2018 | MRD , DPs | 412,500.00
-o Develop training modules on safe water and options for safe water treatment and storage | o Training modules on safe water and options for safe water treatment and storage developed | 2014-2015 | MOEYS, MRD, DPs | 100,000.00
-o Construct and repair basic latrines and provide cash for latrine construction | o The number of basic latrines constructed | 2014-2018 | MOEYS, MRD, DPs | 1,000,000.00
-
-### Strategy 8: Ensure that all households have access to such information and services as safe water and sanitation, health, nutrition, breastfeeding, food supplementation, immunisation, Vitamin A, iron and iodised salt, early learning, birth registration, prevention of all types of diseases, such as HIV/AIDS, malaria, protection from violence, including corporal punishment, and other forms of vulnerabilities.
+3 | Provide safe water facilities and latrines in schools and public places | o Equip safe water facilities and latrines in schools and public places | o The number of schools and public places provided with safe water facilities and latrines | 2014-2018 | MRD, DPs | 412,500.00
+ |  | o Develop training modules on safe water and options for safe water treatment and storage | o Training modules on safe water and options for safe water treatment and storage developed | 2014-2015 | MOEYS, MRD, DPs | 100,000.00
+ |  | o Construct and repair basic latrines and provide cash for latrine construction | o The number of basic latrines constructed | 2014-2018 | MOEYS, MRD, DPs | 1,000,000.00
 
 31
 
@@ -725,15 +780,14 @@ o Construct and repair basic latrines and provide cash for latrine construction 
 
 [[START OF PAGE 36]]
 
-4 | Raise awareness on the importance and requirements for birth registration | o o | Develop mechanisms and materials for dissemination Provide sufficient equipment and supplies for birth registration | o | The number of children with birth registration increased | 2014-2018 MOI, MOEYS, DPs | 20,000.00
---- | --- | --- | --- | --- | --- | --- | ---
-o | Reinforce existing laws and regulations on civil registration and eliminate informal fees | 10,000.00
-5 | Ensure that vulnerable children aged 0 to 6 are provided with care | o | Establish mechanisms to collect those children for services | o The | number of children provided with services 2014-2018 | MOSVY, DPs | 50,000.00
-6 | Build capacity of social workers, parents and community-based caregivers | o o o | Establish mechanisms for implementation Provide ToTs to farmer community, village animal health workers, commune agricultural extension workers, animal raising communities, fisheries communities, forestry communities (2015 - 2016) Disseminate further to local community (2015 - 2018) | o MOSVY, parents community-based providers have capacity enhanced | and care their 2014-2018 | MOSVY, MAFF, DPs | 433,000.00
-7 | Prevention of domestic violence | o | Establish mechanisms for implementation | o The number of violence case decreased | 2014-2018 | MOI, MOSVY, MOEYS, DPs | 60,000.00
-8 | Enhance awareness on the rights of the child | o o | Establish mechanisms for implementation Prepare dissmination materials and conduct outreach on the rights of the child in local communities | o The number of media disseminating | 2014-2018 | MOI, MOSVY, MOEYS, DPs | 45,000.00
-9 | o Develop and improve regulations related to child protection | o o | Develop and improve regulations related to child protection Develop the policy on ECCD in agriculture sector | o Regulations related to child protection improved and developed | 2014-2018 | MOI, MOSVY, MOEYS, DPs | 35,000.00
-10 | o Supporting Childrend in an emergency or disaster | o | Create program such as education, nutrition, health, care, and protection for children that located in an emergency or disaster | o The number of children who benefit from projects | 2014-2018 | MoEYS Relevant ministries DPs | 1,200,000.00
+4 | Raise awareness on the importance and requirements for birth registration | o Develop mechanisms and materials for dissemination o Provide sufficient equipment and supplies for birth registration | o The number of children with birth registration increased | 2014-2018 | MOI, MOEYS, DPs | 20,000.00
+ |  | o Reinforce existing laws and regulations on civil registration and eliminate informal fees |  |  |  | 10,000.00
+5 | Ensure that vulnerable children aged 0 to 6 are provided with care | o Establish mechanisms to collect those children for services | o The number of children provided with services | 2014-2018 | MOSVY, DPs | 50,000.00
+6 | Build capacity of social workers, parents and community-based caregivers | o Establish mechanisms for implementation o Provide ToTs to farmer community, village animal health workers, commune agricultural extension workers, animal raising communities, fisheries communities, forestry communities (2015 - 2016) o Disseminate further to local community (2015 - 2018) | o MOSVY, parents and community-based care providers have their capacity enhanced | 2014-2018 | MOSVY, MAFF, DPs | 433,000.00
+7 | Prevention of domestic violence | o Establish mechanisms for implementation | o The number of violence case decreased | 2014-2018 | MOI, MOSVY, MOEYS, DPs | 60,000.00
+8 | Enhance awareness on the rights of the child | o Establish mechanisms for implementation o Prepare dissmination materials and conduct outreach on the rights of the child in local communities | o The number of media disseminating | 2014-2018 | MOI, MOSVY, MOEYS, DPs | 45,000.00
+9 | o Develop and improve regulations related to child protection | o Develop and improve regulations related to child protection o Develop the policy on ECCD in agriculture sector | o Regulations related to child protection improved and developed | 2014-2018 | MOI, MOSVY, MOEYS, DPs | 35,000.00
+10 | o Supporting Childrend in an emergency or disaster | o Create program such as education, nutrition, health, care, and protection for children that located in an emergency or disaster | o The number of children who benefit from projects | 2014-2018 | MoEYS Relevant ministries DPs | 1,200,000.00
 
 32
 
@@ -741,16 +795,16 @@ o | Reinforce existing laws and regulations on civil registration and eliminate 
 
 [[START OF PAGE 37]]
 
-No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsibile Person | Budget (USD)
---- | --- | --- | --- | --- | --- | --- | ---
-1 | Develop a website and facebook page for broad information dissemination and bulletins on activities and reports related to early childhood care and development | o | Develop a website for broad information dissemination and bulletins on activities and reports related to early childhood care and development | o Website for broad information dissemination and bulletins on activities and reports related to early childhood care and development developed | 2015 | MoInfo, DPs Relevant ministries | 778,110.00
-2 | Develop a communication program through: - policy dialogues - social media - community forum - inter-personal communications through different formats | o | Promote effective involvement of policy makers | o Effective involvement of policy makers | 2014-2018 | MOI, MOSAVY, MOEYS, DPs | 29,000.00
-o | Increase awareness of parents and stakeholders in communities | o The number of parents and stakeholders in communities where ECCD services are supported | 2014-2018 | MOI, MOSAVY, MOEYS, DPs | 18,000.00
-3 | The General Secretariat of ECCD will undertake preliminary research, take stock of consultative for | o | Conduct comprehensive review on the current sectoral practices | o Relevant sectors have update information on ECCD services | 2014-2018 | GS-ECCD, DPs | 16,000.00
-o | Provide feedback to include recommendations in sectoral action plans | o Feedback to include recommendations in sectoral action plans received | 2014-2018 | GS-ECCD, DPs | 18,000.00
-o | Monitor the implementation of action plans to mobilize additional support and resources | o Monitoring of the implementation of action plans organized | 2014-2018 | NC-ECCD, DPs | 50,000.00
-
 ### Strategy 9: Develop communication mechanisms on early childhood care and development to attract support for these services.
+
+No. | Sub-Strategies, Programs, Main Activities | Taks and Program Coverage Activities | Indicators | Deadline | Responsible Person | Budget (USD)
+--- | --- | --- | --- | --- | --- | ---
+1 | Develop a website and facebook page for broad information dissemination and bulletins on activities and reports related to early childhood care and development | o Develop a website for broad information dissemination and bulletins on activities and reports related to early childhood care and development | o Website for broad information dissemination and bulletins on activities and reports related to early childhood care and development developed | 2015 | MoInfo, DPs Relevant ministries | 778,110.00
+2 | Develop a communication program through: - policy dialogues - social media - community forum - inter-personal communications through different formats | o Promote effective involvement of policy makers | o Effective involvement of policy makers | 2014-2018 | MOI, MOSAVY, MOEYS, DPs | 29,000.00
+ |  | o Increase awareness of parents and stakeholders in communities | o The number of parents and stakeholders in communities where ECCD services are supported | 2014-2018 | MOI, MOSAVY, MOEYS, DPs | 18,000.00
+3 | The General Secretariat of ECCD will undertake preliminary research, take stock of consultative for | o Conduct comprehensive review on the current sectoral practices | o Relevant sectors have update information on ECCD services | 2014-2018 | GS-ECCD, DPs | 16,000.00
+ |  | o Provide feedback to include recommendations in sectoral action plans | o Feedback to include recommendations in sectoral action plans received | 2014-2018 | GS-ECCD, DPs | 18,000.00
+ |  | o Monitor the implementation of action plans to mobilize additional support and resources | o Monitoring of the implementation of action plans organized | 2014-2018 | NC-ECCD, DPs | 50,000.00
 
 33
 
@@ -780,7 +834,7 @@ No. | Topics of the Strategies | Budget (USD)
 6 | Expand health care and healing services for all infants from birth to three years with regular health check-ups, timely and adequate provision of immunisation and monitoring of nutritional services for children with malnutrition, chronic illnesses, delayed development and disabilities | 1,653,989.00
 7 | Expand early childhood care and development services provision, including state, community, private and home-based services, especially early learning for young children | 45,012,501.00
 8 | Ensure that all households have access to such information and services as safe water and sanitation, health, nutrition, breastfeeding, food supplementation, immunisation, Vitamin A, iron and iodised salt, early learning, birth registration, prevention of all types of diseases, such as HIV/AIDS, malaria, protection from violence, including corporal punishment, and other forms of vulnerabilities | 5,164,900.00
-9 | Develop communication mechanisms on early childhood care and development to attract support for these services | 909 , 110.00
+9 | Develop communication mechanisms on early childhood care and development to attract support for these services | 909,110.00
 Total | 56,538,000.00
 
 35
@@ -809,7 +863,7 @@ Partnership Fund: the  resources are gathered to support activities that focus o
 
 Separate project: resources  will  be  focused  on  intervention  or  action  or  secondary  priority  that government  services  are  not  accessible.  Resource  management  will  be  applied  directly  develop partners or organizations.
 
-In the short future with the Public Finance Management Reform Programme, relevant ministries will be responsible for implementing programs or activities that are currently running. In accordance with the decentralized management reforms and decentralization action plan will be reviewed by examining the response coordination and study of the transfer of resources and responsibilities to subnational levels.
+In the short future with the Public Finance Management Reform Programme, relevant ministries will be responsible for implementing programs or activities that are currently running. In accordance with the decentralized management reforms and decentralization action plan will be reviewed by examining the response coordination and study of the transfer of resources and responsibilities to sub-national levels.
 
 ### 5.2 The participation and responsibility of stakeholders
 
@@ -873,8 +927,8 @@ Monitoring Methodologies | Timeframe | Responsible Person
 --- | --- | ---
  Mid-term review | 2016 | NC-ECCD
  Final evaluation | 2018 | NC-ECCD
- Progress of sectoral ECCD | 2 times per year | GS-ECCD Secotral Technical Coordinating Committees
- Progress of the implementation of sectoral ECCD programs or services | 4 times per year | GS-ECCD Secotral Technical Coordinating Committees
+ Progress of sectoral ECCD | 2 times per year | GS-ECCD Sectoral Technical Coordinating Committees
+ Progress of the implementation of sectoral ECCD programs or services | 4 times per year | GS-ECCD Sectoral Technical Coordinating Committees
 
 40
 
@@ -896,7 +950,7 @@ Within the ECCD NAP, it is critically important that Strategy 1 be given initial
 
 The  National  Action  Plan  on  Early  Childhood  Care  and  Development  focuses  mainly  on developmental  activities  that  will  assist  with  the  future  planning  of  ECCD  services.  Both  the Government and international partners are slated to increase their investments in ECCD, with this first period focusing especially on developmental activities.  Developmental activities will emphasise:  developing,  field  testing  and  ensuring  cultural  and  linguistic  appropriateness  of educational curricula, materials, manuals,  methods and media; designing, piloting and evaluating  quality  ECCD  services;  and  conducting  a  few  key  studies  that  will  support  future programme development.
 
-In line with current plans of ministries and international development partners, some on-going services  have  been  selected for  improvement  and  expansion.    These  services include: preconception  education,  antenatal  health  and  nutrition  care;  medically  attended  births  and birth registration; preventive and basic IMCI and C-IMCI services from birth to three years of age; early childhood care and development services for children; State, Community and HomeBased  Preschool  Education  services;  child  rights  and  protective  services;  and  sanitation  and hygiene services.
+In line with current plans of ministries and international development partners, some on-going services  have  been  selected for  improvement  and  expansion.    These  services include: preconception  education,  antenatal  health  and  nutrition  care;  medically  attended  births  and birth registration; preventive and basic IMCI and C-IMCI services from birth to three years of age; early childhood care and development services for children; State, Community and Home-Based  Preschool  Education  services;  child  rights  and  protective  services;  and  sanitation  and hygiene services.
 
 During the five years of this first ECCD NAP, a few new ECCD services will be designed to fill gap areas in essential services, including especially:
 
