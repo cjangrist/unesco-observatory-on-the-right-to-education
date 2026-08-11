@@ -12,7 +12,7 @@
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education (“the Convention”) and the Recommendation against Discrimination in Education (“the Recommendation”), adopted by UNESCO’s General Conference in 1960, are aligned with UNESCO’s constitutional mandate to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -42,7 +42,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -72,7 +72,7 @@ In the preparation of reports, Member States are encouraged to provide substanti
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls’ and women’s right to education. Information and data regarding countries’ education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -96,9 +96,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -116,7 +116,7 @@ Biljana Čamur Veselinović
 
 Email and telephone number of contact person: Biljana.camur@mcp.gov.ba +387 33 492 533
 
-# Ratification and applicability of the Convention against Discrimination in Education 10
+# I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -166,7 +166,7 @@ Yes: Have the provisions of the Convention been invoked?
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-# Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+# II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ## 1. Towards an inclusive non-discriminatory education system
 
@@ -216,31 +216,31 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
  Legal texts 15 prohibit discrimination and guarantee equal access to education:
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
-- In technical and vocational education and training
+✓ In technical and vocational education and training
 
-- In higher education
+✓ In higher education
 
-- In adult education and alternative learning
+✓ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
-- In  Framework  Law  on  Preschool  Education  (Official  Gazette  of  Bosnia  and Herzegovina no. 88/07) in article 6 non-discrimination is prescribed. Eight cantonal laws on preschool education in the entity of Federation of Bosnia and Herzegovina are aligned with this law.
+1. In Framework Law on Preschool Education (Official Gazette of Bosnia and Herzegovina no. 88/07) in article 6 non-discrimination is prescribed. Eight cantonal laws on preschool education in the entity of Federation of Bosnia and Herzegovina are aligned with this law.
 
-- The  Framework  Law  on  Primary  and  Secondary  Education  in  Bosnia  and Herzegovina ((Official Gazette of Bosnia and Herzegovina no. 18/03), mentioned in the answer  to the previous questions, also has articles  which  define  nondiscrimination. As already mentioned, all cantonal laws on primary and secondary education in the entity of Federation of Bosnia and Herzegovina are aligned with the Framework Law on Primary and Secondary Education in Bosnia and Herzegovina.
+2. The Framework Law on Primary and Secondary Education in Bosnia and Herzegovina ((Official Gazette of Bosnia and Herzegovina no. 18/03), mentioned in the answer to the previous questions, also has articles which define non-discrimination. As already mentioned, all cantonal laws on primary and secondary education in the entity of Federation of Bosnia and Herzegovina are aligned with the Framework Law on Primary and Secondary Education in Bosnia and Herzegovina.
 
-- The  Framework  Law  on  Vocational  Education  and  Training  Education  (Official Gazette of Bosnia and Herzegovina no. 63/08) in article 3 mentions that in addition to  all  general  goals  defined  in  the  Framework  Law  on  Primary  and  Secondary Education in Bosnia and Herzegovina (including goals of non-discrimination) some additional goals are prescribed by that law including ' ensuring the right to secondary vocational education and training to student under the same conditions, according to his/hers interests and abilities'. Eight cantonal laws on secondary education in the entity of Federation of Bosnia and Herzegovina are aligned with this law.
+3. The Framework Law on Vocational Education and Training Education (Official Gazette of Bosnia and Herzegovina no. 63/08) in article 3 mentions that in addition to all general goals defined in the Framework Law on Primary and Secondary Education in Bosnia and Herzegovina (including goals of non-discrimination) some additional goals are prescribed by that law including “ensuring the right to secondary vocational education and training to student under the same conditions, according to his/hers interests and abilities”. Eight cantonal laws on secondary education in the entity of Federation of Bosnia and Herzegovina are aligned with this law.
 
-- In  article  4, bullet 5, of the Framework Law on Higher Education in Bosnia and Herzegovina Education (Official Gazette of Bosnia and Herzegovina no. 59/07), it is stated that higher education in Bosnia and Herzegovina is based on the respect of human  rights  and  citizen  freedoms,  including  the  prohibition  of  all  forms  of discrimination.   All cantonal laws on higher education in the entity of Federation of
+4. In article 4, bullet 5, of the Framework Law on Higher Education in Bosnia and Herzegovina Education (Official Gazette of Bosnia and Herzegovina no. 59/07), it is stated that higher education in Bosnia and Herzegovina is based on the respect of human rights and citizen freedoms, including the prohibition of all forms of discrimination. All cantonal laws on higher education in the entity of Federation of
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to “substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes”.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -249,20 +249,37 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 [[START OF PAGE 9]]
 
 Bosnia and Herzegovina are aligned with the Framework Law on Higher Education in Bosnia and Herzegovina.
----
-6. Principles and Standards in the field of Adult Education in Bosnia and Herzegovina (Official Gazette of Bosnia and Herzegovina no. 39/14) under the section 2. International and European Standards in the field of Adult Education mentions, among other values, that everyone has the right to education. In addition, it is mentioned that principles and standards defined in this document are based on the international and European standards and principles of adult education. All cantonal laws on adult education in the entity of Federation of Bosnia and Herzegovina are aligned with Principles and Standards in the field of Adult Education in Bosnia and Herzegovina. In entity of Republika Srpska, 10 cantons in entity of the Federation of Bosnia and Herzegovina and Brcko District, equal and non-discriminatory access to all levels of education is ensured in accordance with the provisions of the framework laws for all levels of education in Bosnia and Herzegovina. All laws at all administrative levels in Bosnia and Herzegovina are harmonized with framework laws at the level of the state of Bosnia and Herzegovina.
+
+6. Principles and Standards in the field of Adult Education in Bosnia and Herzegovina (Official Gazette of Bosnia and Herzegovina no. 39/14) under the section 2. International and European Standards in the field of Adult Education mentions, among other values, that everyone has the right to education. In addition, it is mentioned that principles and standards defined in this document are based on the international and European standards and principles of adult education. All cantonal laws on adult education in the entity of Federation of Bosnia and Herzegovina are aligned with Principles and Standards in the field of Adult Education in Bosnia and Herzegovina.
+
+In entity of Republika Srpska, 10 cantons in entity of the Federation of Bosnia and Herzegovina and Brcko District, equal and non-discriminatory access to all levels of education is ensured in accordance with the provisions of the framework laws for all levels of education in Bosnia and Herzegovina. All laws at all administrative levels in Bosnia and Herzegovina are harmonized with framework laws at the level of the state of Bosnia and Herzegovina.
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
 Gender, race, ethnicity, social and cultural background and status, family status, religion, psycho-social and other personal traits.
----
+
 #### CHAPTER I. PRINCIPLES AND GOALS OF PRESCHOOL UPBRINGING AND EDUCATION
 ##### Section A. Basic Principles and Goals - Framework Law on Preschool Education
 (Official Gazette of Bosnia and Herzegovina no. 88/07)
 ###### Article 4 (Development Principles)
-The preschool upbringing and education in Bosnia and Herzegovina are characterized by the following development principles: a) humanistic development principle, b) principle of professional autonomy and expert responsibility, and c) principle of democracy.
-###### Article 5 (Recognition of the Degree of Child's Development)
+The preschool upbringing and education in Bosnia and Herzegovina are characterized by the following development principles:
+a) humanistic development principle,
+b) principle of professional autonomy and expert responsibility, and
+c) principle of democracy.
 
+###### Article 5 (Recognition of the Degree of Child’s Development)
+
+The preschool upbringing and education based on the humanistic principle of upbringing and education, through modern scientific accomplishments and theories on child’s development and rights of the child, shall on a mandatory basis recognize the degree of child’s development, specific qualities of development possibilities and individual needs of the child.
+
+###### Article 6 (Ban of Discrimination)
+
+(1) Every child shall have an equal right to access to and an equal opportunity for participation in appropriate upbringing and education without discrimination on any basis.
+
+(2) Equal access and equal opportunities understand ensuring of equal conditions and opportunities for all, for beginning and continuation of further upbringing and education.
+
+##### Section B. Principles and Goals Ensuring the Basic Rights of Children
+
+###### Article 7 (Ensuring of the Best Interest of the Child)
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
@@ -305,13 +322,13 @@ Also, for example Law on Higher Education of Republika Srpska: Article 8 - The R
 
 - Please provide details:
 
-The joint European Union and Council of Europe programme 'Horizontal Facility for the Western Balkans and Turkey ' (Horizontal Facility III) is a co -operation initiative,
+The joint European Union and Council of Europe programme “Horizontal Facility for the Western Balkans and Turkey” (Horizontal Facility III) is a co-operation initiative,
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-running from 2023 until 2026. The programme covers actions in Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, Serbia and Turkey. It enables the Beneficiaries to meet their reform agendas in the fields of human rights, rule of law and democracy and to comply with European standards, which is also a priority for the EU enlargement process. The Horizontal Facility builds upon the results and progress  achieved  by  the  programme,  since  2016  which,  among  others,  includes b etter legislation, policies and capacities on inclusiveness and integrity in education, anti- discrimination, protection of minorities, women's access to justice and the fight against trafficking in human beings.
+running from 2023 until 2026. The programme covers actions in Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, Serbia and Turkey. It enables the Beneficiaries to meet their reform agendas in the fields of human rights, rule of law and democracy and to comply with European standards, which is also a priority for the EU enlargement process. The Horizontal Facility builds upon the results and progress achieved by the programme, since 2016 which, among others, includes better legislation, policies and capacities on inclusiveness and integrity in education, anti-discrimination, protection of minorities, women’s access to justice and the fight against trafficking in human beings.
 
 https://rm.coe.int/hfiii-leaflet-web-eng/1680ab5922
 
@@ -331,7 +348,7 @@ ustanova-BOS-1.pdf
 
 Standards of learning and development of a child at preschool age:
 
-https://aposo.gov.ba/bs/standardi-ucenja-i-razvoja-djeteta-u-dobi-pred-polazak-u- osnovnu-skolu/
+https://aposo.gov.ba/bs/standardi-ucenja-i-razvoja-djeteta-u-dobi-pred-polazak-u-osnovnu-skolu/
 
 Common core of comprehensive developmental programs for preschool upbringing and education defined by learning outcomes
 
@@ -381,21 +398,21 @@ Moreover,  statutes  of  the  higher  education  institutions  in  Bosnia  and  
 
 #### General measures:
 
-- Legislation provides for inclusive education for all
+✓ Legislation provides for inclusive education for all
 
-- Policy measures aim to enhance inclusion in education for all
+✓ Policy measures aim to enhance inclusion in education for all
 
-- Teachers are trained on inclusive education 16 and to value diversity
+✓ Teachers are trained on inclusive education 16 and to value diversity
 
  Multiple and flexible learning pathways 17 are provided for
 
-- Curricula and teaching methods are inclusive in design 18
+✓ Curricula and teaching methods are inclusive in design 18
 
-- Multilingual and intercultural education is supported
+✓ Multilingual and intercultural education is supported
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  co mpetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are ‘entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education’ (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -405,7 +422,7 @@ Moreover,  statutes  of  the  higher  education  institutions  in  Bosnia  and  
 
  Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
-- Other:
+✓ Other:
 
 Ministry  of  Education  and  Science  of  the  entity  of  Federation  of  Bosnia  and  Herzegovina implements  several  programs  aiming  to  enhance  inclusion  of  all  at  all  levels  and  types  of education. Examples of programs that are being implemented are: 1) the Support to Projects of Improving the Inclusiveness od Preschool, Primary and Secondary Education; 2) the Support to Excellent Roma Pupils in Primary and Secondary Education in entity of Federation of Bosnia and Herzegovina;  3)  the  Support  to  Roma  Students    (B&H  citizens  with  residence  in  entity  of Federation of Bosnia and Herzegovina) Studying at the Higher Education Institutions in entity of Federation of Bosnia and Herzegovina; 4) the Support to Students with Disabilities (B&H citizens with  residence  in  entity  of  Federation  of  Bosnia  and  Herzegovina)  Studying  at  the  Higher Education Institutions in the entity of Federation of Bosnia and Herzegovina.
 
@@ -413,7 +430,7 @@ Ministry  of  Education  and  Science  of  the  entity  of  Federation  of  Bosn
 
 The policy document ' Policy Recommendations with a Roadmap for Improving Inclusive Education in Bosnia and Herzegovina ' was adopted in 2020 by Council of Ministers of Bosnia and Herzegovina. (Original title of the document: Preporuke za politike djelovanja s Mapom puta za unapređenje inkluzivnog obrazovanja u Bosni i Hercegovini ).
 ---
-Authorities in Bosnia and Herzegovina (BiH) continue to support the implementation of the Policy Recommendations with a Roadmap for Improving Inclusive Education in Bosnia and Herzegovina developed jointly by relevant ministries at state level, entity ministries of education and 10 cantonal ministries of education in April 2019 under the joint European Union/Council of Europe action 'Quality education in multi - ethnic societies' and adopted by
+Authorities in Bosnia and Herzegovina (BiH) continue to support the implementation of the Policy Recommendations with a Roadmap for Improving Inclusive Education in Bosnia and Herzegovina developed jointly by relevant ministries at state level, entity ministries of education and 10 cantonal ministries of education in April 2019 under the joint European Union/Council of Europe action “Quality education in multi-ethnic societies” and adopted by the Council of Ministers in September 2020.
 The Policy Recommendations with a Roadmap aim to improve quality of education for all in Bosnia and Herzegovina, in line with European standards and according to the vision for quality education reflected in the Council of Europe's Committee of Ministers recommendations. The Roadmap foresees Bosnia and Herzegovina's diverse society to be further integrated and enhanced by increasing social cohesion based on the intercultural competences of students, their parents and teachers.
 The joint European Union/Council of Europe action 'Quality Education for all' is supporting effective implementation of the Roadmap including capacity building for different target groups (teachers, members of school management, pedagogical institutions) and providing tools, instruments and practical examples related to the Reference Framework of Competences for Democratic Culture (RFCDC) .
 The progress on the implementation of the Roadmap was discussed during the session of the Council of Ministers of BiH on 20 December 2023. This discussion was based on a report
@@ -430,25 +447,25 @@ The action 'Quality education for all' is part of the joint  European Union and 
 
 Bosnia and Herzegovina's Council of Ministers ensures its commitment to quality education for all -Council of Europe Office in Sarajevo (coe.int)
 
-Also  In  the  entity  of  Republka  Srpska,  equal  and  non-discriminatory  access  to  higher  education  is ensured in accordance with the provision of the Law on Higher Education of Republika Srpska: Articele 8, paragraph 2. -The right to Higher Education: 'Access to higher Education c annot be limited directly or indirectly on the basis of: gender, gender identity, race, sexual orientation, physical or other disability, maritial status, color skin, language, religion, political or other opinion, national , ethnic or social origin, conne ction with a national community, property, number of years or some other status'.
+Also In the entity of Republka Srpska, equal and non-discriminatory access to higher education is ensured in accordance with the provision of the Law on Higher Education of Republika Srpska: Articele 8, paragraph 2. – The right to Higher Education: “Access to higher Education cannot be limited directly or indirectly on the basis of: gender, gender identity, race, sexual orientation, physical or other disability, maritial status, color skin, language, religion, political or other opinion, national , ethnic or social origin, connection with a national community, property, number of years or some other status”.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
 #### Other relevant general measures, including gender equality
 
-- Legislation provides for gender equality in education
+✓ Legislation provides for gender equality in education
 
-- Policy measures aim to enhance gender equality
+✓ Policy measures aim to enhance gender equality
 
  Gender-responsive education sector planning is undertaken
 
-- All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
+✓ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
  Re-entry programmes for young mothers are provided for
 
  Ensuring safe and adequate gender-sensitive sanitation facilities 20
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ‘Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal’ (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 [[END OF PAGE 14]]
 
@@ -462,11 +479,11 @@ Also  In  the  entity  of  Republka  Srpska,  equal  and  non-discriminatory  ac
 
  Teachers are trained to combat stigmatisation 19
 
-- Other:
+✓ Other:
 
  Curricula are rid of all stereotypes 21 and bias
 
-- Ensuring gender parity in science, technology, engineering and mathematics (STEM)
+✓ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
 ✓ Ensuring gender parity in technical and vocational training education and training (TVET)
 
@@ -504,29 +521,29 @@ Please note that child marriage is a discriminatory practice as often girls can 
 
 Article  35  of  the  Family  Law  of  entity  of  Republika  Srpska  (Official  Gazette  of  Republika Srpska", no. 54/2002, 41/2008 i 63/2014) prescribes:
 
-'(1) Marriage cannot be concluded by a person who has not reached the age of 18.
+“(1) Marriage cannot be concluded by a person who has not reached the age of 18.
 
-- For justified reasons, the court may, in non-litigation proceedings, allow the marriage of a  minor over the age of 16, if it is established that this person is physically and mentally capable of exercising the rights and duties arising from marriage.
+(2) For justified reasons, the court may, in non-litigation proceedings, allow the marriage of a minor over the age of 16, if it is established that this person is physically and mentally capable of exercising the rights and duties arising from marriage.
 
-- A proposal for a marriage license from paragraph 2 of this article may be submitted to the court by an interested minor.
+(3) A proposal for a marriage license from paragraph 2 of this article may be submitted to the court by an interested minor.
 
-- Before making a decision, the court obtains the opinion of the competent guardianship authority '.
+(4) Before making a decision, the court obtains the opinion of the competent guardianship authority”.
 
 Family  Law  of  entity  of  the  Federation  of  Bosnia  and  Herzegovina  (Official  gazette  of Federation of  BiH», no 31/14 od 23.04.2014)  stipulates:
 
 ##### Article 15.
 
-- Marriage cannot be concluded by a person who has not reached the age of 18.
+(1) Marriage cannot be concluded by a person who has not reached the age of 18.
 
-- Exceptionally, the court may, in a non-litigation procedure, allow marriage to a person who has reached 16 years of age if it determines that there are justified reasons that this person is physically  and mentally capable of exercising the rights  and duties  arising  from marriage and that marriage is in her/his interest.
+(2) Exceptionally, the court may, in a non-litigation procedure, allow marriage to a person who has reached 16 years of age if it determines that there are justified reasons that this person is physically and mentally capable of exercising the rights and duties arising from marriage and that marriage is in her/his interest.
 
 ##### Article 16
 
-- The marriage is not valid if the spouse consented to its conclusion in fear by a serious threat or in a delusion about the personality of the other spouse or about his essential traits.
+(1) The marriage is not valid if the spouse consented to its conclusion in fear by a serious threat or in a delusion about the personality of the other spouse or about his essential traits.
 
-- A delusion about the personality of the spouse exists when the spouse thought he was entering into a marriage with one person, and he made it with another person.
+(2) A delusion about the personality of the spouse exists when the spouse thought he was entering into a marriage with one person, and he made it with another person.
 
-- A delusion about an essential characteristic of a spouse exists when it is a characteristic or circumstance which would have deterred the other spouse from entering into marriage if he  knew  about  her,  especially  in  the  case  extremely  dangerous  or  serious  diseases, permanent and incurable sexual impotence, pregnancy of a woman with another  man and previous convictions for a criminal offense committed against the dignity of a person and morals.
+(3) A delusion about an essential characteristic of a spouse exists when it is a characteristic or circumstance which would have deterred the other spouse from entering into marriage if he knew about her, especially in the case extremely dangerous or serious diseases, permanent and incurable sexual impotence, pregnancy of a woman with another man and previous convictions for a criminal offense committed against the dignity of a person and morals.
 
 [[END OF PAGE 16]]
 
@@ -538,35 +555,9 @@ Familiy Law of Brcko District of Bosniaa nd Herzegovina stipulets (adopted at se
 
 (Majority as a condition for concluding marriage)
 
-- Marriage cannot be concluded by a person who has not reached the age of 18.
+(1) Marriage cannot be concluded by a person who has not reached the age of 18.
 
-- For justified reasons, the court may allow in non-litigation proceedings marriage to a minor over 16 years old.
-
-##### C) Prohibitions for marriage
-
-###### Article 27
-
-(Marriage of adoptee and adopter)
-
-(1) Marriage cannot be concluded by the adopted person and the adoptive parent during the duration of the incomplete marriage
-
-- of adoption.
-
-- For justified reasons, the court may, in non-litigation proceedings, to persons from
-
-- of the previous paragraph, upon their request, allow the conclusion of the marriage.
-
-- A  marriage  concluded in accordance with the provisions of paragraph 2 of this article cannot be annulled.
-
-Familiy Law of Brcko District of Bosniaa nd Herzegovina stipulets (adopted at session of the Government of Brcko District on June 17, 2007):
-
-##### Article 26
-
-(Majority as a condition for concluding marriage)
-
-- Marriage cannot be concluded by a person who has not reached the age of 18.
-
-- For justified reasons, the court may allow in non-litigation proceedings marriage to a minor over 16 years old.
+(2) For justified reasons, the court may allow in non-litigation proceedings marriage to a minor over 16 years old.
 
 ##### C) Prohibitions for marriage
 
@@ -574,23 +565,19 @@ Familiy Law of Brcko District of Bosniaa nd Herzegovina stipulets (adopted at se
 
 (Marriage of adoptee and adopter)
 
-(1) Marriage cannot be concluded by the adopted person and the adoptive parent during the duration of the incomplete marriage
+(1) Marriage cannot be concluded by the adopted person and the adoptive parent during the duration of the incomplete marriage of adoption.
 
-- of adoption.
+(2) For justified reasons, the court may, in non-litigation proceedings, to persons from of the previous paragraph, upon their request, allow the conclusion of the marriage.
 
-- For justified reasons, the court may, in non-litigation proceedings, to persons from
-
-- of the previous paragraph, upon their request, allow the conclusion of the marriage.
-
-- A  marriage  concluded in accordance with the provisions of paragraph 2 of this article cannot be annulled.
+(3) A marriage concluded in accordance with the provisions of paragraph 2 of this article cannot be annulled.
 
 #### National minorities:
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
-- Legislation provides for the right to education of national minorities
+✓ Legislation provides for the right to education of national minorities
 
-- Policy measures aim to enhance the right to education of national minorities
+✓ Policy measures aim to enhance the right to education of national minorities
 
  Policy elaboration includes consultations with local communities
 
@@ -598,9 +585,9 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Teachers are trained to combat stigmatisation 24
 
-- o Multilingual and intercultural education are supported
+o Multilingual and intercultural education are supported
 
-- o Native language instruction is ensured for national minorities
+o Native language instruction is ensured for national minorities
 
 24 Supra note 15.
 
@@ -632,15 +619,13 @@ In  article  3.  of  the  Framework  Law  on  Primary  and  Secondary  Education
 
 For  example  Article  10  of  the  Law  on  Protection  of  the  Rights  of  Members  of  National Minorities of the entity of Republika Srpska prescribes:
 
-'1. Members of national minorities can establish and run their own private institutions for education and professional training.
+“1. Members of national minorities can establish and run their own private institutions for education and professional training.
 
-- Financing  of the institutions referred to in paragraph 1 of this article shall be provided by members of national minorities.'
+2. Financing of the institutions referred to in paragraph 1 of this article shall be provided by members of national minorities.”
 
-> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the
+> 23 Please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
-25
-
-> 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. Supra note 16.
+> 25 Supra note 16.
 
 [[END OF PAGE 18]]
 
@@ -648,11 +633,11 @@ For  example  Article  10  of  the  Law  on  Protection  of  the  Rights  of  Me
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
+The main issue to be solved in order to promote equal educational opportunities is to provide the financial resources to exercise the rights guaranteed by law in practice, and ensure the social conditions for inclusion of children from marginalized social groups and positive action when it comes to these groups (children, members of national minorities - especially Roma, children with disabilities, children from socially and economically disadvantaged families, children from traffic-separated areas, etc). Educational inclusion cannot be successfully implemented if it is not part of the overall social inclusion.
+
+Work on the improvement of education conditions, equal access and nondiscrimination is a constant, continued and unpredictable process that needs more investments through the education of parents, students and entire school staff, a change of consciousness in society about the others, various events, the organization of panel discussions, workshops, seminars and conferences at local and state levels, and promotion through the media.
+
 #### Indigenous people:
-
-The main issue to be solved in order to promote equal educational opportunities is to provide the financial  resources  to  exercise  the  rights  guaranteed  by  law  in  practice,  and  ensure  the  social conditions for inclusion of children from marginalized social  groups and positive action when it comes to these groups (children, members of national minorities - especially Roma, children with disabilities, children from socially and economically disadvantaged families, children from traffic- separated areas, etc). Educational inclusion cannot be successfully implemented if it is not part of the overall social inclusion.
-
-Work  on  the  improvement  of  education  conditions,  equal  access  and  nondiscrimination  is  a constant,  continued  and  unpredictable  process  that  needs  more  investments  through  the education of parents, students and entire school staff, a change of consciousness in society about the  others,  various  events,  the  organization  of  panel  discussions,  workshops,  seminars  and conferences at local and state levels, and promotion through the media.
 
  Legislation provides for the right to education of indigenous people
 
@@ -686,9 +671,7 @@ Work  on  the  improvement  of  education  conditions,  equal  access  and  nond
 
 > 26 Supra note 15.
 
-27
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 19]]
 
@@ -700,7 +683,7 @@ Supra note 16.
 
 ✓ Legislation provides for their right to education
 
-- Policy measures aim to enhance their right to education
+✓ Policy measures aim to enhance their right to education
 
  Inclusion in mainstream schools is ensured
 
@@ -794,7 +777,7 @@ In article 19. paragraf 1 of the Framework Law on Primary and Secondary Educatio
 
 #### Students from poor households:
 
-- Financial incentives and fellowships for school enrolment are provided
+✓ Financial incentives and fellowships for school enrolment are provided
 
  Teachers are trained to combat stigmatisation 35
 
@@ -822,11 +805,11 @@ For example, in entity of Republika Srpska, the Law on Student Standards is in f
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-## Progress made with respect to implementing the right to education across all levels and forms of education
+## 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 ### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -836,7 +819,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  ECCE services are accessible on a non- discriminatory basis
 
-- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+✓ ECCE services respect a child’s need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 > 36 Supra note 16.
 
@@ -852,7 +835,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 - Is compulsory and free of charge pre-primary education available?
 
-- Pre-primary education is compulsory. Please provide the age of enrolment and duration:
+✓ Pre-primary education is compulsory. Please provide the age of enrolment and duration:
 
 Framework Law on Preschool Upbringing and Education in Bosnia and Herzegovina (Official Gazette of Bosnia and Herzegovina no. 88/07)
 
@@ -902,27 +885,27 @@ Bosnia and Herzegovina have the lowest rate of inclusion of children in organize
 
 ### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide “12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.”
 
 #### Primary education
 
 - Please provide the age of enrolment and duration of primary education:
 
-- What challenges were encountered in realizing primary education?
-
 Children are enrolled at the earliest at the age of 5.5 years, and the duration of primary education is nine years.
 
 - Is primary education compulsory and free of charge?
 
-- Primary education is compulsory
+✓ Primary education is compulsory
 
  Primary education is not compulsory.
 
-- Primary education is free of charge.
+✓ Primary education is free of charge.
 
  Primary education is not free.
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
+
+- What challenges were encountered in realizing primary education?
 
 [[END OF PAGE 24]]
 
@@ -934,19 +917,21 @@ Children are enrolled at the earliest at the age of 5.5 years, and the duration 
 
  High dropout rates
 
-- Poor quality programmes
+✓ Poor quality programmes
 
  Other:
 
-- Poor learning outcomes in:
+✓ Poor learning outcomes in:
 
 Foundation literacy
 
 Numeracy
 
-- Social and emotional learning Others
+✓ Social and emotional learning
 
-- Disparity in learning outcomes
+Others
+
+✓ Disparity in learning outcomes
 
  Low number of professionally trained teachers
 
@@ -974,17 +959,17 @@ In this part, please provide information on the general availability and accessi
 
 - Please provide the age of enrolment and duration of lower secondary education:
 
-In  the  formal  secondary  vocational  education  programs,  students  are  enrolled  after  completing primary education (14/15 years old). D uration of the secondary education is 3-4 years, depending on the programme (some vocational education programs last for three years, other programs (exp. general and technical) last for four years.
+In the formal secondary vocational education programs, students are enrolled after completing primary education (14/15 years old). Duration of the secondary education is 3-4 years, depending on the programme (some vocational education programs last for three years, other programs (exp. general and technical) last for four years.
 
 The principles of organization of secondary vocational education and training are determined by the Framework Law on Secondary Vocational Education and Training in Bosnia and Herzegovina (Official Gazette of Bosnia and Herzegovina no. 63/08).
 
 The Article 6 of this law defines the duration of education:
 
-- Secondary technical, art and special-purpose schools which fulfil the conditions determined by the classification of occupations as a rule are implementing a four-year curriculum for obtaining a professional title which enables continuation of education in higher education institutions.
+1. Secondary technical, art and special-purpose schools which fulfil the conditions determined by the classification of occupations as a rule are implementing a four-year curriculum for obtaining a professional title which enables continuation of education in higher education institutions.
 
-- Vocational-craft  schools  as  a  rule  have  a  three-year  curriculum  for  obtaining  appropriate professional title.
+2. Vocational-craft schools as a rule have a three-year curriculum for obtaining appropriate professional title.
 
-- According  to  the  labor  market  requirements,  the  competent  authorities  may  determine education and training less than three years for performing less complex and simple jobs, as a form of obtaining qualification according to the related profession.
+3. According to the labor market requirements, the competent authorities may determine education and training less than three years for performing less complex and simple jobs, as a form of obtaining qualification according to the related profession.
 
 According to the Baseline Qualification Framework in Bosnia and Herzegovina, these are the levels 2,  3  and  4  in  accordance  with  EQF  (the  programs  of  vocational  training,  secondary  vocational education and training and secondary technical education).
 
@@ -1056,9 +1041,9 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
-- Higher education is free of charge
+✓ Higher education is free of charge
 
-- Higher  education  is  accessible  on  the  basis  of  individual  capacity  (as  assessed  by  reference  to relevant qualifications and experience)
+✓ Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
 
 ✓ Higher education is accessible through financial incentives and scholarships
 
@@ -1084,7 +1069,7 @@ The Framework Law on Higher Education in BiH (Official Gazette of BiH, No. 59/07
 
 The students who have completed secondary school abroad submit proof of completion of secondary school, certificate or diploma, for evaluation to the competent institution that takes into account the criteria and procedures for the recognition of foreign qualifications established  in  accordance  with  the  principles  of  the  Convention  on  the  Recognition  of Qualifications  concerning  Higher  Education  in  the  European  Region,  as  defined  in  the Framework Law on Higher Education in BiH, Article 8.
 
-Based  on  criteria  defined  in  the  rulebooks,  most  successful  students  are  given scholarships  (through  public  competition),  accommodation  in  student  centers  is  cofunded for full-time students, and other incentives of a financial nature are also provided in  order  to  facilitate  the  general  living  conditions  of  families,  students  (one-time assistance), and co-financing of MA theses and PhD dissertations.
+Based on criteria defined in the rulebooks, most successful students are given scholarships (through public competition), accommodation in student centers is co-funded for full-time students, and other incentives of a financial nature are also provided in order to facilitate the general living conditions of families, students (one-time assistance), and co-financing of MA theses and PhD dissertations.
 
 Also, in accordance with the Law on Higher Education of entity of Republika Srpska, the higher education is free of charge. Only students that repeat the year of studies or do not enroll into the approved quotas (from Government).
 
@@ -1116,15 +1101,15 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please  indicate  the  measures  taken  to  establish  a  system  of  continuing  education  and  equitable access to learning and training opportunities (several items may be ticked):
 
-- Provision of education for persons who have not received or completed the whole period of their primary education
+✓ Provision of education for persons who have not received or completed the whole period of their primary education
 
  Provision of literacy programmes
 
-- Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
+✓ Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
 
  Provision of free of charge learning opportunities
 
-- Provision of professional training including reskilling and upskilling programmes
+✓ Provision of professional training including reskilling and upskilling programmes
 
  Recognition, validation and certification of non-formal and informal learning
 
@@ -1158,11 +1143,11 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please elaborate. Brief quantitative information may be added.
 
-Through  the  project  the  European  Agenda  for  Adult  Learning,  ERASMUS+,  Agency  for Preschool, Primary and Secondary Education developed a document Improving the skills of adults -a  social  challenge  for  Bosnia  and  Herzegovina  which  provides  the  information about  the  European  trends  and  needs  in  the  area  of  adult  education.  This  publication represents the progress made in the area of arrangement and improvement of the Adult education system in Bosnia and Herzegovina until 2017. On the way to adopting European principles,  one  of  the  tasks  is  increasing  the  possibilities  for  social  inclusion  of  all  the members, especially those who have to obtain new skills for specific requirements which modern times require. The projects which in Bosnia and Herzegovina contribute to the accomplishment of this task are represented in one part of the publication.
+Through the project the European Agenda for Adult Learning, ERASMUS+, Agency for Preschool, Primary and Secondary Education developed a document Improving the skills of adults – a social challenge for Bosnia and Herzegovina which provides the information about the European trends and needs in the area of adult education. This publication represents the progress made in the area of arrangement and improvement of the Adult education system in Bosnia and Herzegovina until 2017. On the way to adopting European principles, one of the tasks is increasing the possibilities for social inclusion of all the members, especially those who have to obtain new skills for specific requirements which modern times require. The projects which in Bosnia and Herzegovina contribute to the accomplishment of this task are represented in one part of the publication.
 
 ## 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 ### 3.1 General measures
 
@@ -1270,9 +1255,9 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
-- Curriculum includes human rights education.
+✓ Curriculum includes human rights education.
 
-- Educational and/or extracurricular activities are organized on human rights education.
+✓ Educational and/or extracurricular activities are organized on human rights education.
 
 > 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
@@ -1300,7 +1285,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
  Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
-- Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
+✓ Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
 ✓ Registration
 
@@ -1315,8 +1300,6 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
-
-### 3.5 Digital education
 
 ✓ Health and sanitation
 
@@ -1354,6 +1337,8 @@ The cantons in the entity of Federation of Bosnia and Herzegovina, entity of Rep
 
 - Please elaborate. Brief quantitative information may be added.
 
+### 3.5 Digital education
+
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 44 .
 
 > 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
@@ -1364,35 +1349,35 @@ Digital education is both an opportunity for enhancing access but also can lead 
 
 - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked):
 
-- What challenges were encountered in digital education provision (check all that apply)?
-
-- Lack of quality, curriculum-aligned  digital teaching and learning content that supports flexible learning and teaching pathways
-
-- Digital technology use in education is provided for in the legal framework.
+✓ Digital technology use in education is provided for in the legal framework.
 
 Please indicate the relevant text and provisions:
 
 ✓ Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
-- Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
+✓ Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
- Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
+ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
-✓ Future-ready  skills  (including  digital  skills,  data  and  AI  competencies,  critical  thinking,  etc.) integrated into formal curriculum at all levels of education
+✓ Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
 
- Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet  connectivity  at  school  and  at  home,  devices  suitable  for  learning  and  teaching,  safe  and sustainable software and secure platforms, and integrated education data systems.
+ Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
 
- A well-established, sustainable, and cost-effective budget secured from a range of funding sources and  intersectoral  cooperation,  supported  by  impact  focused  reporting  linked  to  regional  strategic goals.
+ A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.
 
 - Please elaborate on each of the measures taken:
 
-The  Common  Core  Curriculum  of  Technical  Education  and  IT  Defined  on  the  Learning Outcomes ((Official Gazette of Bosnia and Herzegovina no. 24/16) defines learning outcomes on the level of primary and secondary education.
+The Common Core Curriculum of Technical Education and IT Defined on the Learning Outcomes ((Official Gazette of Bosnia and Herzegovina no. 24/16) defines learning outcomes on the level of primary and secondary education.
+
+- What challenges were encountered in digital education provision (check all that apply)?
+
+✓ Lack of quality, curriculum-aligned digital teaching and learning content that supports flexible learning and teaching pathways
+
+✓ Limited access to internet and/or electricity
 
 > 45 Lack of internet connection, basic infrastructure or devices.
-
-- Limited access to internet and/or electricity
 
 [[END OF PAGE 36]]
 
@@ -1400,19 +1385,15 @@ The  Common  Core  Curriculum  of  Technical  Education  and  IT  Defined  on  t
 
  Lack of equity and inclusion in digital learning solutions
 
-
-
-inadequate safety measures and IT or reduce cyber security risks
-
-- support to respond to issues of child online safety
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
  Other:
 
-- Difficulty in regulating the use of digital education solutions
+✓ Difficulty in regulating the use of digital education solutions
 
  Difficulty in sustainably financing digital education solutions at national scale
 
-- Lack of digital skills development for meaningful use of digital technology in teaching practice
+✓ Lack of digital skills development for meaningful use of digital technology in teaching practice
 
  Disjointed or fragmented solutions that are not centrally systematized or regulated
 
@@ -1430,7 +1411,7 @@ Agency  for  Preschool,  Primary  and  Secondary  Education  developed  a  Commo
 
 ## 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1442,7 +1423,7 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 ✓ Sector-wide and multisector approach is adopted to education governance.
 
-- Financial  resources  are  effectively  allocated  to  prioritise  the  provision  of  free,  quality,  public education and are adequately budgeted for in government plans.
+✓ Financial resources are effectively allocated to prioritise the provision of free, quality, public education and are adequately budgeted for in government plans.
 
  The decision-making process for the allocation of resources to education is transparent.
 
@@ -1466,7 +1447,7 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 [[START OF PAGE 39]]
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
