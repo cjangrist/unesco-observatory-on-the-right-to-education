@@ -10,61 +10,61 @@ Education
 
 ### ARRANGEMENT OF SECTIONS
 
-#### PART I-
+#### PART I—
 
 PRELIMINARY SECTION
 
-- Short title.
+1. Short title.
 
-- Interpretation.
+2. Interpretation.
 
-#### PART II-CENTRAL ADMINISTRATION
+#### PART II—CENTRAL ADMINISTRATION
 
-- Pupils to be educated in accordance with the wishes of their parents.
+3. Pupils to be educated in accordance with the wishes of their parents.
 
-- Minister may give directions.
+4. Minister may give directions.
 
-- Director's powers in respect of public funds, etc.
+5. Director's powers in respect of public funds, etc.
 
-#### PART III-EDUCATION FORUM
+#### PART III—EDUCATION FORUM
 
-- Education Forum.
+6. Education Forum.
 
-- Membership of Education Forum.
+7. Membership of Education Forum.
 
-- Proceedings and meetings.
+8. Proceedings and meetings.
 
-- Reports.
+9. Reports.
 
-#### PART IV-CURRICULA AND EXAMINATIONS
+#### PART IV—CURRICULA AND EXAMINATIONS
 
-- Curricula and examinations.
+10. Curricula and examinations.
 
-#### PART V-RELIGIOUS INSTRUCTION
+#### PART V—RELIGIOUS INSTRUCTION
 
-- Religious instruction in schools.
+11. Religious instruction in schools.
 
-#### PART VI-MANAGEMENT OF SCHOOLS
+#### PART VI—MANAGEMENT OF SCHOOLS
 
-- Vesting of management of schools.
+12. Vesting of management of schools.
 
-- Establishment of Boards of Government Schools.
+13. Establishment of Boards of Government Schools.
 
-- Continuance of existing Boards.
+14. Continuance of existing Boards.
 
-#### PART VII-CONTROL OF SCHOOLS
+#### PART VII—CONTROL OF SCHOOLS
 
-- Classification and nomenclature of schools.
+15. Classification and nomenclature of schools.
 
-- Establishment of schools.
+16. Establishment of schools.
 
-- Health and safety.
+17. Health and safety.
 
-- Inspection of schools.
+18. Inspection of schools.
 
-- Closing of schools.
+19. Closing of schools.
 
-- Offence.
+20. Offence.
 
 [[END OF PAGE 1]]
 
@@ -74,61 +74,62 @@ Education
 
 Cap. 262    Ed. 1978
 
-- Regulations.
+#### PART VIII—TEACHERS
 
-#### PART VIII-TEACHERS
+21. Certificate or licence to teach required.
 
-- Certificate or licence to teach required.
+22. Issue and cancellation of certificates or licences and appeals against cancellation.
 
-- Issue  and  cancellation  of certificates or licences and appeals against cancellation.
+23. Approval of appointment of teachers.
 
-- Approval of appointment of teachers.
+24. Offences.
 
-- Offences.
+#### PART IX—FEES
 
-#### PART IX-FEES
+25. Fees to be prescribed, etc.
 
-- Fees to be prescribed, etc.
+26. Crediting of fees.
 
-- Crediting of fees.
+#### PART X—MEDICAL INSPECTION
 
-#### PART X-MEDICAL INSPECTION
+27. Medical Inspection.
 
-- Medical Inspection.
+#### PART XI—COMPULSORY EDUCATION
 
-#### PART XI-COMPULSORY EDUCATION
+28. Order applying compulsory education.
 
-- Order applying compulsory education.
+#### PART XII—REGULATIONS
 
-#### PART XII-REGULATIONS
+29. Regulations.
 
-#### PART XIII-GENERAL
+#### PART XIII—GENERAL
 
-- Unsuitable publications.
+30. Unsuitable publications.
 
-- Penalty for disturbance.
+31. Penalty for disturbance.
 
-- Saving.
+32. Saving.
 
-- Signification of documents.
+33. Signification of documents.
 
-Ordinances Nos. 36 of 1966, 21 of 1968, Acts Nos. 14 of 1975, 30 of 1976
+Ordinances Nos. 36 of 1966, 21 of 1968,
+Acts Nos. 14 of 1975, 30 of 1976
 
 ### AN ACT TO CONSOLIDATE AND AMEND THE LAW RELATING TO EDUCATION IN FIJI
 
-### PART I-PRELIMINARY
+[1st September, 1966.]
+
+### PART I—PRELIMINARY
 
 #### Short title
 
-- This Act may be cited as the Education Act.
+1. This Act may be cited as the Education Act.
 
 #### Interpretation
 
-2. -(1) In this Act, unless the context otherwise requires-
+2.—(1) In this Act, unless the context otherwise requires—
 
 "aided school" means any school aided by way of a recurrent grant out of public funds;
-
-[1st September, 1966.]
 
 [[END OF PAGE 2]]
 
@@ -152,17 +153,13 @@ to teach, granted under the provisions of section 27;
 
 "hostel" means a boarding establishment run in conjunction with a school;
 
-"licence" means a licence in the prescribed form authorising a person to teach, granted under the provisions of section 27; "manager" in
+"licence" means a licence in the prescribed form authorising a person to teach, granted under the provisions of section 27;
 
-- relation to any school, other than a Government school, means the person or body of persons responsible for the management of the school and for the purposes of the provisions of this Act relating to applications   for   the   establishment   of  schools   and  registration   or recognition   of   schools,   includes   any   person   or  body  of  persons proposing to be so responsible; "medical inspection" includes the
+"manager" in relation to any school, other than a Government school, means the person or body of persons responsible for the management of the school and for the purposes of the provisions of this Act relating to applications for the establishment of schools and registration or recognition of schools, includes any person or body of persons proposing to be so responsible;
 
-- physical examination of pupils and the
+"medical inspection" includes the physical examination of pupils and the consideration of all matters affecting the health of such pupils;
 
-consideration of all matters affecting the health of such pupils;
-
-"parent" in relation to any pupil or child, includes a guardian and every
-
-- person who has the actual custody of the pupil or child;
+"parent" in relation to any pupil or child, includes a guardian and every person who has the actual custody of the pupil or child;
 
 "Permanent Secretary" means the Permanent Secretary for Education;
 
@@ -216,7 +213,7 @@ teach in any school or schools, except a student under training;
 
 #### Director's powers in respect of public funds, etc.
 
-- The Permanent Secretary may from time to time from public funds-
+5. The Permanent Secretary may from time to time from public funds—
 
 (a) establish or maintain or make grants-in-aid to, or advances on loan in respect of, schools, school libraries, school staffs and school buildings upon and subject to such conditions and upon such conditions and upon  such  security  or  otherwise  as  the  Permanent  Secretary  may consider appropriate;
 
@@ -336,7 +333,7 @@ Cap. 262    Ed. 1978
 
 (c) while he was manager or assisting in the management of any school any of the circumstances mentioned in paragraphs (a), (c) and (d) of subsection (1) of section 24 arose, in consequence of which the school was closed under the powers conferred by that section. (Amended by 30 of 1976, s. 4.)
 
-(4)  Any person who manages or assists in the management of a school or group  of  schools  when  not  registered  as  the manager or after he has been prohibited from so doing under the provisions of subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding two hundred dollars and in default of payment to imprisonment for a term not exceeding six months.
+(4) Any person who manages or assists in the management of a school or group of schools when not registered as the manager or after he has been
 
 [[END OF PAGE 6]]
 
@@ -345,6 +342,8 @@ Cap. 262    Ed. 1978
 Cap. 262    Ed. 1978
 
 Education
+
+prohibited from so doing under the provisions of subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding two hundred dollars and in default of payment to imprisonment for a term not exceeding six months.
 
 #### Establishment of Boards of Governors for Government Schools
 
@@ -370,7 +369,7 @@ Education
 
 #### Establishment of schools
 
-- 16.-(1) (a) Any person desirous of establishing a school shall first apply in the prescribed manner and when approving such application, the  Permanent Secretary may impose such conditions as he thinks fit.
+16.—(1) (a) Any person desirous of establishing a school shall first apply in the prescribed manner and when approving such application, the Permanent Secretary may impose such conditions as he thinks fit.
 
 (b) After  approval  being  given,  the  applicant  shall  apply  for  a prescribed certificate of recognition or registration, as the case may be.
 
@@ -384,9 +383,39 @@ Education
 
 Cap. 262    Ed.
 
-(2)  For the purposes of this Act, the establishment of a school, without prejudice to the generality of that expression, shall be deemed to include(a)  the provision of any nature or form of education in any school, being a nature or form of education different from the nature or form of education falling within the classification in which the school is, for the time being, classified; (b) the adoption by the manager of any school, by any means, in relation to the  school,  of  a  different  nomenclature  from  that  in  which  that school is, for the time being, classified; (c) the reopening of any school which has remained closed for a consecutive period of six months or more; (d) for the transfer of ownership or change of controlling authority of any school, whether such transfer or change takes effect by way of partnership or otherwise; (e) the transfer of a school to a new site. (3)  The Permanent Secretary may refuse any application for approval of the establishment of a school if he is satisfied that(a) the number of potential pupils in the area capable of benefiting from the facilities offered by the proposed school is too small to warrant the establishment of such a school; or (b) the proposed site or premises is unsuitable or inadequate for the type of school sought to be established; or (c) the proposed school will not be in the best interests of education in relation to the best use of Government funds, or otherwise; or (d) adequate provision already exists for the type of education which it is proposed to give in the school; or (e) the proposed manager or any proposed assistant in the management of such school is prohibited or is liable to be prohibited from serving in such capacity under the provisions of section 12. (4) Where the Permanent Secretary has refused his approval under the provisions of subsection (3), the applicant for such approval may, within thirty days of the date of such refusal, appeal to the Minister whose decision shall be final. (5) The Permanent Secretary may refuse an application for a certificate of registration or recognition or if, in his opinion, there has been a breach(a) of any prescribed condition of registration or recognition; (b) of any condition imposed by the Permanent Secretary when approving the application under subsection (1). (6)  The Permanent Secretary may, when issuing a certificate of registration or recognition, classify the school in a category which restricts the highest form or type of eduction which may be provided therein and shall specify in such certificate any condition thereof which may be prescribed from time to time or any condition
+(2) For the purposes of this Act, the establishment of a school, without prejudice to the generality of that expression, shall be deemed to include—
 
-which the Permanent Secretary thinks fit to impose.
+(a) the provision of any nature or form of education in any school, being a nature or form of education different from the nature or form of education falling within the classification in which the school is, for the time being, classified;
+
+(b) the adoption by the manager of any school, by any means, in relation to the school, of a different nomenclature from that in which that school is, for the time being, classified;
+
+(c) the reopening of any school which has remained closed for a consecutive period of six months or more;
+
+(d) for the transfer of ownership or change of controlling authority of any school, whether such transfer or change takes effect by way of partnership or otherwise;
+
+(e) the transfer of a school to a new site.
+
+(3) The Permanent Secretary may refuse any application for approval of the establishment of a school if he is satisfied that—
+
+(a) the number of potential pupils in the area capable of benefiting from the facilities offered by the proposed school is too small to warrant the establishment of such a school; or
+
+(b) the proposed site or premises is unsuitable or inadequate for the type of school sought to be established; or
+
+(c) the proposed school will not be in the best interests of education in relation to the best use of Government funds, or otherwise; or
+
+(d) adequate provision already exists for the type of education which it is proposed to give in the school; or
+
+(e) the proposed manager or any proposed assistant in the management of such school is prohibited or is liable to be prohibited from serving in such capacity under the provisions of section 12.
+
+(4) Where the Permanent Secretary has refused his approval under the provisions of subsection (3), the applicant for such approval may, within thirty days of the date of such refusal, appeal to the Minister whose decision shall be final.
+
+(5) The Permanent Secretary may refuse an application for a certificate of registration or recognition or if, in his opinion, there has been a breach—
+
+(a) of any prescribed condition of registration or recognition;
+
+(b) of any condition imposed by the Permanent Secretary when approving the application under subsection (1).
+
+(6) The Permanent Secretary may, when issuing a certificate of registration or recognition, classify the school in a category which restricts the highest form or type of eduction which may be provided therein and shall specify in such certificate any condition thereof which may be prescribed from time to time or any condition which the Permanent Secretary thinks fit to impose.
 
 [[END OF PAGE 8]]
 
@@ -404,11 +433,13 @@ Education
 
 11
 
-(a) The controlling authority of any registered or recognized school shall be specified in the certificate of registration or recognition of such school and  when  any  change  of  controlling  authority  occurs,  within  three months  of  such  change,  the  Permanent  Secretary  shall  be  informed thereof in writing and the certificate shall be returned for endorsement thereon  of  the  change  of  controlling  authority. (b) The provisions  of paragraph (a) shall  be  deemed  to  be  a  prescribed  condition  of  any certificate of registration or recognition.
+(9) (a) The controlling authority of any registered or recognized school shall be specified in the certificate of registration or recognition of such school and when any change of controlling authority occurs, within three months of such change, the Permanent Secretary shall be informed thereof in writing and the certificate shall be returned for endorsement thereon of the change of controlling authority.
 
-(a) (i) A certificate of registration or recognition shall be returned to the Permanent Secretary within fourteen days of his request therefor being received in writing, to be endorsed to give effect to the powers of the Permanent Secretary prescribed by this section or under this Act;
+(b) The provisions of paragraph (a) shall be deemed to be a prescribed condition of any certificate of registration or recognition.
 
-(ii)  the  provisions  of  sub-paragraph  (i)  shall  be  deemed  to  be  a prescribed  condition  of  any  certificate  of  registration  or recognition;
+(10) (a) (i) A certificate of registration or recognition shall be returned to the Permanent Secretary within fourteen days of his request therefor being received in writing, to be endorsed to give effect to the powers of the Permanent Secretary prescribed by this section or under this Act;
+
+(ii) the provisions of sub-paragraph (i) shall be deemed to be a prescribed condition of any certificate of registration or recognition;
 
 (b) the Permanent Secretary may, instead of endorsing any such certificate, cancel the same and issue another in its place;
 
@@ -432,7 +463,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 #### Health and safety
 
-17.-(1) If the Permanent Secretary is satisfied with respect to any school that having regard to the nature of the site or to any existing buildings thereon or to other special circumstances affecting the school premises it would be unreasonable in that case to require conformity with the prescribed requirements relating to health and safety in schools, in any particular respect, he may waive all or any of such prescribed requirements.
+17.—(1) If the Permanent Secretary is satisfied with respect to any school that having regard to the nature of the site or to any existing buildings thereon or to other special circumstances affecting the school premises it would be unreasonable in that case to require conformity with the prescribed requirements relating to
 
 [[END OF PAGE 10]]
 
@@ -443,6 +474,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 Education
 
 Cap. 262    Ed. 1978
+
+health and safety in schools, in any particular respect, he may waive all or any of such prescribed requirements.
 
 (2) Where it appears to the Permanent Secretary that the premises of any school do not conform with any such regulations, he may order the manager of such school to execute within a resonable period to be stated in the order, such specified works as are necessary to secure such conformity and, if the Permanent Secretary is satisfied that such an order has not been carried out, he may order the manager to close the school.
 
@@ -468,9 +501,11 @@ Provided that no inspection of any staff living quarter shall be carried out exc
 
 (e) any school is not for the time being registered or recognized under and in accordance with this Part; or
 
-(/) any person is managing or assisting in the management of any school after having been prohibited from serving in such capacity under the provisions of subsection (3) of section 12; or (g) it is not in the best interests of education in relation to the best use of
+(f) any person is managing or assisting in the management of any school after having been prohibited from serving in such capacity under the provisions of subsection (3) of section 12; or
 
-Government funds, or otherwise to keep any school open, he may order the manager of such school to close the school.
+(g) it is not in the best interests of education in relation to the best use of Government funds, or otherwise to keep any school open,
+
+he may order the manager of such school to close the school.
 
 (Amended by 30 of 1976, s. 7.)
 
@@ -550,7 +585,9 @@ Education
 
 15
 
-- Any person who-
+#### Offences
+
+24. Any person who—
 
 (a) not being the holder of a certificate or licence to teach issued under the provisions  of  section  22  and  not  being  a  person  authorised  by  the Permanent Secretary to teach under the provisons of the proviso to section 21, teaches or assists in teaching in any school; or
 
@@ -579,8 +616,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (3) The Permanent Secretary may remit, in whole or in part, the fees due in respect of tuition, books, board or medical attention from any individual pupil or group of pupils.
 
 (4) Fees for tuition, books, board or medical attention payable in respect of the pupils in any Government school shall be payable at such time and in such manner as may be prescribed.
-
-#### Offences
 
 [[END OF PAGE 14]]
 
@@ -622,7 +657,7 @@ Provided that if a  parent  of  any  pupil  objects  to  medical  inspection  or
 
 #### Regulations
 
-29.  The  Permanent  Secretary,  with  the  approval  of  the  Minister,  may  make regulations for any purposes for which regulations may be made by him under this Act  and  for  prescribing  anything  which  may  be  prescribed  thereunder  and otherwise for the pupose of carrying this Act into effect, and in particular, but without prejudice to the generality of the foregoing, may make regulations with respect to all or any of the following matters:-
+29. The Permanent Secretary, with the approval of the Minister, may make regulations for any purposes for which regulations may be made by him under this Act and for prescribing anything which may be prescribed thereunder and otherwise for the pupose of carrying this Act into effect, and in particular, but
 
 [[END OF PAGE 15]]
 
@@ -634,7 +669,9 @@ Education
 
 17
 
-(a) providing for the procedure to be adopted by the Education Forum and any  Board,  Committee  or  other  body  constituted,  appointed  or established under the provisions of this Act;
+without prejudice to the generality of the foregoing, may make regulations with respect to all or any of the following matters:—
+
+(a) providing for the procedure to be adopted by the Education Forum and any Board, Committee or other body constituted, appointed or established under the provisions of this Act;
 
 (b) providing for the grant and withdrawal of scholarships and prescribing conditions therefor;
 
@@ -656,7 +693,7 @@ Education
 
 (k) providing for and regulating the making and maintenance of grants in aid of or in respect to the establishment and maintenance of schools, school  buildings,  school  staffs and  school  libraries and  the establishment,  maintenance  and  repair  of  hostels  in  connexion  with schools,  and  otherwise  to  assist  in  promoting  the  education  of  the people or any substantial section thereof;
 
-(I) providing  for  and  regulating  the  compilation  and  production  of  proper accounts  of  income  and  expenditure  of  schools  and  of  controlling authorities of schools. (Amended by 30 of 1976, s. 9.)
+(l) providing for and regulating the compilation and production of proper accounts of income and expenditure of schools and of controlling authorities of schools. (Amended by 30 of 1976, s. 9.)
 
 ### PART XV-GENERAL
 
@@ -700,31 +737,7 @@ Cap. 262    Ed. 1978 Subsidiary Legislation
 
 Education
 
-2.  In these Rules-
-
-"advocate" means a person enrolled as a barrister and solicitor of the Supreme Court; "Board" means the Teachers' Appeals Board constituted under subsection
-
-(3) of section 22 of the Act.
-
-#### Grounds of appeal
-
-3.-(1) Every appeal to the Board pursuant to subsection (2) of section 22 of the Act, shall be in the form set out in the Schedule or to the like effect, signed by the appellant or his advocate. The petition of appeal shall set forth concisely and under distinct headings the grounds of appeal against the decision of the Permanent Secretary but shall not contain any matters of argument or statement of facts.
-
-(2)  The  petition  shall  contain  the  decision  appealed  against  and  shall  be supported by an affidavit or affidavits relating to the facts of the matter.
-
-#### Copies of petition of appeal to be lodged with Secretary of Board
-
-4.  Four copies of the petition of appeal shall be lodged with the Secretary of the Board in Suva, within thirty days from the service of the notification against which the appeal is brought. A copy of the petition of appeal together with any other documents filed therewith shall be served forthwith upon the Permanent Secretary at his office in Suva either personally or by registered post.
-
-#### Permanent Secretary may file affidavit in reply
-
-5.  Not later than seven days before the date of hearing of the appeal the Permanent Secretary may file an affidavit or affidavits in reply. The original and two copies of any such affidavits shall be lodged with the Secretary of the Board and one copy thereof shall be served either personally or by registered post on the appellant or his advocate not later than such time of lodging.
-
-#### Board to fix time and place of hearing
-
-6. As soon as possible after the lodging of a petition of appeal the Board shall fix a time and place for the hearing of the appeal, such time to be not more than twenty-eight days after the date upon which the petition of appeal is lodged; and the Secretary shall give to the appellant and to the Permanent Secretary not less than ten days' notice of the time and place of hearing.
-
-### EDUCATION SECTION 22.- EDUCATION (TEACHERS' APPEALS) RULES
+### EDUCATION SECTION 22.—EDUCATION (TEACHERS' APPEALS) RULES
 
 Rules 3rd April, 1964 [in force 17th April, 1964].
 
@@ -732,9 +745,33 @@ Made by the Governor
 
 #### Short title
 
-1.  These Rules may be cited as the Education (Teachers' Appeals) Rules.
+1. These Rules may be cited as the Education (Teachers' Appeals) Rules.
 
 #### Interpretation
+
+2. In these Rules—
+
+"advocate" means a person enrolled as a barrister and solicitor of the Supreme Court;
+
+"Board" means the Teachers' Appeals Board constituted under subsection (3) of section 22 of the Act.
+
+#### Grounds of appeal
+
+3.—(1) Every appeal to the Board pursuant to subsection (2) of section 22 of the Act, shall be in the form set out in the Schedule or to the like effect, signed by the appellant or his advocate. The petition of appeal shall set forth concisely and under distinct headings the grounds of appeal against the decision of the Permanent Secretary but shall not contain any matters of argument or statement of facts.
+
+(2) The petition shall contain the decision appealed against and shall be supported by an affidavit or affidavits relating to the facts of the matter.
+
+#### Copies of petition of appeal to be lodged with Secretary of Board
+
+4. Four copies of the petition of appeal shall be lodged with the Secretary of the Board in Suva, within thirty days from the service of the notification against which the appeal is brought. A copy of the petition of appeal together with any other documents filed therewith shall be served forthwith upon the Permanent Secretary at his office in Suva either personally or by registered post.
+
+#### Permanent Secretary may file affidavit in reply
+
+5. Not later than seven days before the date of hearing of the appeal the Permanent Secretary may file an affidavit or affidavits in reply. The original and two copies of any such affidavits shall be lodged with the Secretary of the Board and one copy thereof shall be served either personally or by registered post on the appellant or his advocate not later than such time of lodging.
+
+#### Board to fix time and place of hearing
+
+6. As soon as possible after the lodging of a petition of appeal the Board shall fix a time and place for the hearing of the appeal, such time to be not more than twenty-eight days after the date upon which the petition of appeal is lodged; and the Secretary shall give to the appellant and to the Permanent Secretary not less than ten days' notice of the time and place of hearing.
 
 [[END OF PAGE 18]]
 
@@ -746,7 +783,7 @@ Cap. 262    Ed. 1978 Subsidiary Legislation
 
 #### Parties may appear personally or by advocate
 
-- The parties may appear before the Board either personally or by advocate.
+7. The parties may appear before the Board either personally or by advocate.
 
 #### Additional evidence
 
@@ -754,7 +791,7 @@ Cap. 262    Ed. 1978 Subsidiary Legislation
 
 #### Non-appearance of parties
 
-9. If the appellant shall not appear at the time and place fixed for the hearing of the appeal and shall not furnish to the Board sufficient excuse for his' nonappearance the  appeal shall be dismissed.  If the Permanent Secretary or his representative shall not appear the appeal may be heard and determined in his absence.
+9. If the appellant shall not appear at the time and place fixed for the hearing of the appeal and shall not furnish to the Board sufficient excuse for his' non-appearance the appeal shall be dismissed. If the Permanent Secretary or his representative shall not appear the appeal may be heard and determined in his absence.
 
 #### Decision of the Board
 
@@ -770,7 +807,17 @@ Cap. 262    Ed. 1978 Subsidiary Legislation
 
 #### SCHEDULE FORM OF PETITION OF APPEAL
 
-The Secretary, Teachers' Appeals Board, Suva. Take notice that I .......................................................................................................... of ......................................................................................................   do hereby petition to the Teachers' Appeals Board against the decision of the Permanent Secretary for Education in "'refusing to issue me with a certificate or licence to teach "'cancelling my certificate or licence to teach given on the day of , 1 9 , a copy of which decision is attached to this petition.
+The Secretary,
+Teachers' Appeals Board,
+Suva.
+Take notice that I.......................................................................................................... of
+...................................................................................................... do hereby petition to
+the Teachers' Appeals Board against the decision of the Permanent Secretary for
+Education in
+*refusing to issue me with a certificate or licence to teach
+*cancelling my certificate or licence to teach given on the
+day of                         , 19        , a copy of which decision is attached to this
+petition.
 
 * Omit whichever is inapplicable.
 
@@ -810,23 +857,23 @@ Appellant
 
 Barrister and Solicitor for Appellant
 
-### SECTION 25EDUCATION (FEES) RULES
+### SECTION 25—EDUCATION (FEES) RULES
 
 #### Short title
 
-- These Rules may be cited as the Education (Fees) Rules.
+1. These Rules may be cited as the Education (Fees) Rules.
 
 #### Fees: Resident pupils
 
-- The fees set out in the First Schedule shall be charged in respect of pupils who are ordinarily resident in Fiji and who are in full time attendance at the Government Schools specified in such Schedule.
+2. The fees set out in the First Schedule shall be charged in respect of pupils who are ordinarily resident in Fiji and who are in full time attendance at the Government Schools specified in such Schedule.
 
 #### Fees: Pupils not ordinarily resident in Fiji
 
-- The fees set out in the Second Schedule shall be charged in respect of pupils who are not ordinarily resident in Fiji or who are in part time attendance at the Government Schools specified in such Schedule.
+3. The fees set out in the Second Schedule shall be charged in respect of pupils who are not ordinarily resident in Fiji or who are in part time attendance at the Government Schools specified in such Schedule.
 
 #### Interpretation
 
-- For the purposes of these Rules, "a pupil ordinarily resident in Fiji" includes a pupil whose parents or 1 of whose parents are or is in employment in Fiji.
+4. For the purposes of these Rules, "a pupil ordinarily resident in Fiji" includes a pupil whose parents or 1 of whose parents are or is in employment in Fiji.
 
 #### FIRST SCHEDULE
 
@@ -834,13 +881,13 @@ Barrister and Solicitor for Appellant
 
 ##### FEES: RESIDENTS
 
-School | Tuition fee per annum | Boardin fee per annum $ | Total per term
+School | Tuition fee per annum $ | Boarding fee per annum $ | Total per term $
 --- | --- | --- | ---
-Secondary Schools-Forms 1-4 ........................... | $ 48 | - | $ 16
-Forms5-6 ........................... | 84 | - | 28
-Adi Cakobau School............................................ | - | 60 | 20
-Ratu Kadavulevu School..................................... | - | 48 | 16
-Forms 3-6 Vocational....................................... | 42 | 36 | 26
+Secondary Schools—Forms 1-4 | 48 | — | 16
+Forms 5-6 | 84 | — | 28
+Adi Cakobau School | — | 60 | 20
+Ratu Kadavulevu School | — | 48 | 16
+Forms 3-6 Vocational | 42 | 36 | 26
 
 [[END OF PAGE 20]]
 
@@ -852,7 +899,7 @@ Gap. 262 Rev. 1985 Subsidiary Legislation
 
 S-4
 
-School | Tuition fee per annum | Boarding fee per annum | Total fee per term
+School | Tuition fee per annum $ | Boarding fee per annum $ | Total fee per term $
 --- | --- | --- | ---
 Queen Victoria School......................................... | - | 66 | 22
 Bucalevu Junior Secondary School ...................... | - | 42 | 14
@@ -873,12 +920,13 @@ Nawela Girls'Hostel-........................................ | - | 78 | 26
 ##### FEES: NON-RESIDENTS
 
 Details | Fees
---- | --- | ---
-Fiji Institutes of Technology: Derrick Technical Institute- Registered Apprentices (ordinarily resident in Fiji) ................................ | Tuition .................. Boarding .............. | $24 per annum $ 8 per week
-Registered Apprentices (not ordin arily resident in (Fiji)....................... | Tuition .................. Boarding .............. | $96 per annum $ 8 per week
-Ba Technical Centre- Registered Apprentices ................... Extension class pupils ............................. | Tuition ................. Tuition ................. at the annual rate | $24 per annum $ 3 per term for for courses shorter
-each weekly hour of tuition, or pro rata than 1 term Nasinu Teachers' College- Full-time pupils (not ordinarily resi- dentinFiji)....................................... ing .................................................... | Tuition and Board $1200 per annum
-Pupils not ordinarily resident in Fiji who are attending full-time at Schools listed in the First Schedule ............... | Tuition.................. | 4 times the fee shown in the First Schedule
+--- | ---
+Fiji Institutes of Technology: Derrick Technical Institute—Registered Apprentices (ordinarily resident in Fiji) | Tuition: $24 per annum; Boarding: $8 per week
+Registered Apprentices (not ordinarily resident in (Fiji)) | Tuition: $96 per annum; Boarding: $8 per week
+Ba Technical Centre—Registered Apprentices | Tuition: $24 per annum
+Extension class pupils | Tuition: $3 per term for each weekly hour of tuition, or pro rata at the annual rate for courses shorter than 1 term
+Nasinu Teachers' College—Full-time pupils (not ordinarily resident in Fiji) | Tuition and Boarding: $1200 per annum
+Pupils not ordinarily resident in Fiji who are attending full-time at Schools listed in the First Schedule | Tuition: 4 times the fee shown in the First Schedule
 
 [[END OF PAGE 21]]
 
@@ -888,9 +936,9 @@ Cap. 262    Ed. 1978 Subsidiary Legislation
 
 Education
 
-Boarding...............    Twice    the    fee shown in the First Schedule except  for  Derrick Technical I n s t i t u t e for which the boarding  fee  is  $300 per annum.
+Boarding | Twice the fee shown in the First Schedule except for Derrick Technical Institute for which the boarding fee is $300 per annum.
 
-### SECTION 29.-EDUCATION (GRANTS AND ASSISTANCE TO NONGOVERNMENT SCHOOLS) REGULATIONS
+### SECTION 29.—EDUCATION (GRANTS AND ASSISTANCE TO NON-GOVERNMENT SCHOOLS) REGULATIONS
 
 Regulations   1st Dec,   1966 [in force  16th  Dec, 1966], 18th Feb., 1969, 2nd June, 1977.
 
@@ -898,11 +946,11 @@ Made by the Director of Education
 
 #### Short title
 
-- These Regulations may be cited as the Education (Grants and Assistance to Non-Government Schools) Regulations.
+1. These Regulations may be cited as the Education (Grants and Assistance to Non-Government Schools) Regulations.
 
 #### Eligibility for grants, schools other than secondary schools
 
-- The Permanent Secretary may, in his discretion, make grants to schools other than secondary schools for the building or extension of such schools and, in addition, where such a school has been registered, may make provision for all or any of the following forms of assistance:-
+2. The Permanent Secretary may, in his discretion, make grants to schools other than secondary schools for the building or extension of such schools and, in addition, where such a school has been registered, may make provision for all or any of the following forms of assistance:—
 
 (a) the secondment of Government teachers;
 
@@ -916,7 +964,7 @@ Made by the Director of Education
 
 #### Eligibility for grants, secondary schools
 
-- The Permanent Secretary may make grants to secondary schools for all or any of the following purposes:-
+3. The Permanent Secretary may make grants to secondary schools for all or any of the following purposes:—
 
 (a) new buildings or the extension of existing buildings;
 
@@ -956,7 +1004,7 @@ Cap. 262    Ed. 1978 Subsidiary Legislation
 
 (Amended by Regulations 2nd June, 1977.)
 
-### SECTION  29.-EDUCATION (ESTABLISHMENT AND REGISTRATION OF SCHOOLS) REGULATIONS
+### SECTION 29.—EDUCATION (ESTABLISHMENT AND REGISTRATION OF SCHOOLS) REGULATIONS
 
 Regulations 1st Dec, 1966 [in force 16th Dec, 1966].
 
@@ -964,17 +1012,21 @@ Made by the Director of Education
 
 #### Short title
 
-- These Regulations may be  cited  as the Education (Establishment and Registration of Schools) Regulations.
+1. These Regulations may be cited as the Education (Establishment and Registration of Schools) Regulations.
 
 #### Interpretation
 
-- In these Regulations, "appropriate form" means any form approved by the Permanent Secretary for use in any particular case pursuant to the provisions of these Regulations.
+2. In these Regulations, "appropriate form" means any form approved by the Permanent Secretary for use in any particular case pursuant to the provisions of these Regulations.
 
 #### Classification of schools
 
-- Schools shall be classified into the following categories:(a) kindergartens, being schools in which instruction is given to children between  the  ages  of  three  and  six  years  in  games,  stories,  simple handwork and other activities aimed in inculcating good physical and social habits; (b) primary schools, being schools in which full time instruction is given from the first year to the eighth year of formal education or for any shorter period; intermediate schools, being schools in which full time instruction is given to  the  pupils  in  the  seventh  and  eighth  or  the  sixth,  seventh  and
+3. Schools shall be classified into the following categories:—
 
-(c) eighth years of formal education;
+(a) kindergartens, being schools in which instruction is given to children between the ages of three and six years in games, stories, simple handwork and other activities aimed in inculcating good physical and social habits;
+
+(b) primary schools, being schools in which full time instruction is given from the first year to the eighth year of formal education or for any shorter period;
+
+(c) intermediate schools, being schools in which full time instruction is given to the pupils in the seventh and eighth or the sixth, seventh and eighth years of formal education;
 
 [[END OF PAGE 23]]
 
@@ -1016,7 +1068,9 @@ Provided that-
 
 #### Conditions for registered or recognized schools
 
-- Registered and recognized schools shall-(a) be open for not less than 195 days in any school year;
+7. Registered and recognized schools shall—
+
+(a) be open for not less than 195 days in any school year;
 
 [[END OF PAGE 24]]
 
@@ -1032,7 +1086,7 @@ Provided that the Permanent Secretary may, on prior application being made, vary
 
 (c) keep such books and records and submit such returns as the Permanent Secretary may from time to time require;
 
-(d) provide instruction for full-time pupils for a period exclusive of the luncheon recess of not less than 4 l k hours a day during the first two years  of  formal  education  and  of  not  less  than  5  hours  a  day  in subsequent years:
+(d) provide instruction for full-time pupils for a period exclusive of the luncheon recess of not less than 4¼ hours a day during the first two years of formal education and of not less than 5 hours a day in subsequent years:
 
 Provided that in special circumstances the Permanent Secretary may vary the provisions of this paragraph;
 
@@ -1074,7 +1128,7 @@ Education
 
 (2) Except in a case where a member of the staff of the school is temporarily absent,  no  teacher  in  any  classification  of  school  other  than  a  primary  or intermediate school shall be in charge of a class or classes of more than 40 pupils without the approval in writing of the Permanent Secretary and any such approval, once given shall automatically lapse at the end of the school year for which it has been granted.
 
-### SECTION   29.-EDUCATION   (CERTIFICATION   AND   LICENSING   OF TEACHERS) REGULATIONS
+### SECTION 29.—EDUCATION (CERTIFICATION AND LICENSING OF TEACHERS) REGULATIONS
 
 Regulations 1st Dec, 1966 [in force 16th Dec, 1966].
 
@@ -1090,11 +1144,11 @@ Made by the Director of Education
 
 #### Application for registration
 
-3.  A certificate to teach in the appropriate form may be issued to an applicant who-
+3.  A certificate to teach in the appropriate form may be issued to an applicant who—
 
 (a) has  satisfactorily completed the  approved course of training either locally or outside Fiji:
 
-Provided that-
+Provided that—
 
 (i)  upon  the  completion  of  such  course  an  applicant  for  a certificate to teach may be issued by the Permanent Secretary with a  provisional  certificate  in  the  appropriate  form  which,  upon reports  being  received  by  the  Permanent  Secretary  as  to  the satisfactory service of the applicant after a minimum period of one year,  shall  be  replaced  by  a  full  certificate  in  which  case  the provisional certificate  shall  remain in  force  until  it  is  replaced by  a  full  certificate  or  is  revoked  for  any  other  reason;  (ii)  the Permanent Secretary may, if he considers that special circumstances  exist,  grant  a  certificate  to  teach  to  an  applicant who has not completed such a course of training;
 
@@ -1116,7 +1170,7 @@ Cap. 262    Ed. 1978 Subsidiary Legislation
 
 #### Licences to teach
 
-4. A licence to teach in the appropriate form may be issued to an applicant who-
+4. A licence to teach in the appropriate form may be issued to an applicant who—
 
 (a) makes application to the Permanent Secretary on the appropriate form;
 
@@ -1130,17 +1184,17 @@ Cap. 262    Ed. 1978 Subsidiary Legislation
 
 #### Validity of licences
 
-- A licence to teach shall be valid only for the period and for the school specified therein.
+5. A licence to teach shall be valid only for the period and for the school specified therein.
 
 #### Register
 
-6.-(1) The Permanent Secretary shall keep registers of all teachers to whom certificates and licences to teach have been issued and whose certificates have been recognized under the provisions of section 21 of the Act.
+6.—(1) The Permanent Secretary shall keep registers of all teachers to whom certificates and licences to teach have been issued and whose certificates have been recognized under the provisions of section 21 of the Act.
 
 (2) Each certificate issued under the provisions of these Regulations shall bear a  registration  number  which  number  shall  be  retained  by  the  holder  of  the certificate throughout his teaching career.
 
 #### Amendment, loss or destruction of certificates
 
-7.-(1) In the event of there being any necessity for an alteration to be made to a certificate or a licence, the holder thereof shall return the certificate or licence, as  the  case  may  be,  to  the  Permanent  Secretary  whereupon a new certificate or licence, as the case may be, shall be issued.
+7.—(1) In the event of there being any necessity for an alteration to be made to a certificate or a licence, the holder thereof shall return the certificate or licence, as the case may be, to the Permanent Secretary whereupon a new certificate or licence, as the case may be, shall be issued.
 
 (2) In the event of any certificate or licence issued under the provisions of these regulations being lost or destroyed or becoming illegible for any reason, the Permanent Secretary may issue a duplicate certificate or licence, as the case may be, upon payment by the holder of the sum of fifty cents.
 
@@ -1160,7 +1214,7 @@ Education
 
 11
 
-### SECTION  29.-EDUCATION   (PAYMENT  AND  REMISSION  OF FEES) REGULATIONS
+### SECTION 29.—EDUCATION (PAYMENT AND REMISSION OF FEES) REGULATIONS
 
 Regulations 26th Nov., 1964 [in force 4th Dec, 1964] 2nd June, 1978
 
@@ -1168,27 +1222,29 @@ Made by the Director of Education
 
 #### Short title
 
-- These Regulations may be cited as the Education (Payment and Remission of Fees) Regulations.
+1. These Regulations may be cited as the Education (Payment and Remission of Fees) Regulations.
 
 #### Interpretation
 
-2. In these Regulations"manager"  in  relation  to  a  hostel  means  a  person  appointed  by  the Permanent Secretary as manager of a hostel or, in default of any such appointment, the Head Teacher or Principal of the school to which the hostel is attached.
+2. In these Regulations—
+
+"manager" in relation to a hostel means a person appointed by the Permanent Secretary as manager of a hostel or, in default of any such appointment, the Head Teacher or Principal of the school to which the hostel is attached.
 
 #### Application
 
-- These  Regulations  shall,   except  where  otherwise  stated,   apply to  all Government primary,  secondary  and technical  schools  and to school hostels maintained and run by the Education Department.
+3. These Regulations shall, except where otherwise stated, apply to all Government primary, secondary and technical schools and to school hostels maintained and run by the Education Department.
 
 #### Tuition fees
 
-- Tuition fees for pupils from Fiji and for pupils from other administrations, shall be as laid down from time to time by the Cabinet:
+4. Tuition fees for pupils from Fiji and for pupils from other administrations, shall be as laid down from time to time by the Cabinet:
 
 Provided that in the event of a pupil being enrolled after half term or leaving school before half term the tuition fee in respect of such pupil shall be half the full tuition fees payable for the term.
 
 #### Tuition fees payable in advance
 
-- No pupil shall be admitted or readmitted to a Government school unless his tuition fees for that term are paid in full within fourteen days from the opening day of term:
+5. No pupil shall be admitted or readmitted to a Government school unless his tuition fees for that term are paid in full within fourteen days from the opening day of term:
 
-Provided that-
+Provided that—
 
 (a) where a pupil has been granted partial remission, or a partly-free place, or where a proportion of his tuition fees is being met from some other source or sources, the balance of the annual tuition fees payable may, in cases where such assistance is equivalent to or greater than one term's fees, be paid in equal instalments on or before the opening day of the second and third terms of the year in respect of which such balance is payable;
 
@@ -1208,15 +1264,15 @@ Cap. 262    Ed. 1978
 
 Subsidiary Legislation
 
-- provisional  admission  of  which  pupil  is  subsequently  cancelled  by reason  of  his  failure  to  achieve  an  adequate  standard  of  pass  in  the School Certificate examination;
+provisional admission of which pupil is subsequently cancelled by reason of his failure to achieve an adequate standard of pass in the School Certificate examination;
 
 (d) the  Permanent  Secretary  may,  in  exceptional  circumstances,  in  his absolute discretion and subject to such conditions as he may see fit to impose, permit a pupil to be admitted or readmitted to a Government school on special terms as to payment of the tuition fees in respect of such pupil. (Amended by Regulations, 2nd June, 1978.)
 
 #### Remission of tuition fees
 
-- In the case of primary school pupils from Fiji, the Permanent Secretary may remit tuition fees either in whole or in part on production of satisfactory evidence of inability to pay.
+6. In the case of primary school pupils from Fiji, the Permanent Secretary may remit tuition fees either in whole or in part on production of satisfactory evidence of inability to pay.
 
-Provided that-
+Provided that—
 
 (a) save in exceptional circumstances, applications for remission of fees shall  be  lodged  with  the  Head  Teacher  or  Principal  of  the  primary school concerned on or before the first day of January in the year in respect of which remission is sought;
 
@@ -1226,13 +1282,13 @@ Provided that-
 
 #### Pupil refused remission to pay fees within one month
 
-- No pupil, whose application for remission of fees has been refused and whose fees remain unpaid one month after notice of refusal, shall be allowed to remain at the school.
+7. No pupil, whose application for remission of fees has been refused and whose fees remain unpaid one month after notice of refusal, shall be allowed to remain at the school.
 
 #### Hostel fees
 
-- The   hostel   fees   for   pupils   from   Fiji,   and   for   pupils   from   other administrations,   shall  be   at  such  annual  rate  as  may  from  time to time be determined by the Cabinet:
+8. The hostel fees for pupils from Fiji, and for pupils from other administrations, shall be at such annual rate as may from time to time be determined by the Cabinet:
 
-Provided that-
+Provided that—
 
 (a) in the event of a boarder being admitted after the first fortnight of the term, the hostel fee in respect of that term shall be calculated at the rate of one-fortieth of the annual rate for each week or part of a week during  which the  boarder  is  in  residence  in  the  hostel  during  that term;
 
@@ -1258,7 +1314,7 @@ hostel fees for that part of the term during which the boarder is so absent may,
 
 9. No  pupil  shall  be  admitted  or  readmitted  to  a  hostel  managed  by Government unless his hostel fees for that term are paid in full within fourteen days from the opening day of term:
 
-Provided that-
+Provided that—
 
 (a) where a pupil has been granted partial remission, or a partly-free place, or where a proportion of his hostel fees is being met from some other source or sources, the balance of the annual hostel fees payable may, in  cases  where  such  assistance  is  equivalent  to  or  greater  than  one term's fees, be paid in equal instalments on or before the opening day of  the  second  and  third  terms  of  the  year  in  respect  of  which  such balance is payable;
 
@@ -1272,7 +1328,7 @@ Provided that-
 
 10.  The Permanent Secretary, on the advice of the Board of Governors, if any, may remit hostel fees in respect of primary school pupils either wholly or in part on production of satisfactory evidence of inability to pay:
 
-Provided that-
+Provided that—
 
 (a) save in exceptional circumstances,'applications for remission of hostel fees shall be lodged with the manager of the hostel on or before the first  day  of  January  in  the  year  in  respect  of  which  remission  is sought; and
 
@@ -1294,7 +1350,7 @@ Cap. 262    Ed. 1978 Subsidiary Legislation
 
 #### Boarder not to remain in hostel during vacations
 
-- Save  in  exceptional  circumstances,  no  boarder  shall  be  permitted  to remain in a Government hostel during school vacations. Where such permission is granted-
+12. Save in exceptional circumstances, no boarder shall be permitted to remain in a Government hostel during school vacations. Where such permission is granted—
 
 (a) hostel fees will be charged at the rate of one-fortieth of the annual rate for each week or part of a week for which the boarder is in residence during any school vacation; or
 
