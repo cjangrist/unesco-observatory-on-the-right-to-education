@@ -142,7 +142,7 @@ La Alfabetización es un proceso de interés social, por lo tanto se declara de 
 ### CAPITULO II EDUCACION INICIAL
 
 #### Art. 16.-
-La educación inicial comienza desde el nacimiento del niño hasta los cuatro años de edad; y favorecerá  el  desarrollo  socio-afectivo,  psicomotriz,  censo-perceptivo,  de  lenguaje  y  de  juego,  por medio de una adecuada estimulación temprana.
+La educación inicial comienza desde el nacimiento del niño hasta los cuatro años de edad; y favorecerá  el  desarrollo  socio-afectivo,  psicomotriz,  senso-perceptivo,  de  lenguaje  y  de  juego,  por medio de una adecuada estimulación temprana.
 
 La  educación  inicial  centrará  sus  acciones  en  la  familia  y  en  la  comunidad;  el  Ministerio  de Educación normará y facilitará la ejecución de los programas de esta naturaleza desarrollados por instituciones públicas y privadas.
 
@@ -163,7 +163,7 @@ La acreditación de la culminación de educación parvularia, aunque no es requi
 #### Art. 19.-
 La Educación Parvularia tiene los objetivos siguientes:
 
-- Estimular  el  desarrollo  integral  de  los  educandos,  por  medio  de  procesos  pedagógicos que tomen en cuenta su naturaleza psicomotora, efectiva y social.
+- Estimular  el  desarrollo  integral  de  los  educandos,  por  medio  de  procesos  pedagógicos que tomen en cuenta su naturaleza psicomotora, afectiva y social.
 
 - Fortalecer la identidad y la autoestima de los educandos como condición necesaria para el desarrollo de sus potencialidades en sus espacios vitales, familia, escuela y comunidad; y
 
@@ -377,7 +377,7 @@ La Educación No formal debe ser oportuna, ajustada a las condiciones individual
 ### CAPITULO I CURRICULO NACIONAL
 
 #### Art. 47.-
-El currículo nacional es establecido por el Ministerio de Educación, se basa en los fines y objetivos de la educación nacional, desarrolla las políticas educativas y culturales del Estado y se expresa  en:  planes  y  programas  de  estudio,  metodologías  didácticas  y  recursos  de  enseñanzaaprendizaje, instrumentos de evaluación y orientación, el accionar general de los educadores y otros agentes educativos y la administración educativa.
+El currículo nacional es establecido por el Ministerio de Educación, se basa en los fines y objetivos de la educación nacional, desarrolla las políticas educativas y culturales del Estado y se expresa  en:  planes  y  programas  de  estudio,  metodologías  didácticas  y  recursos  de  enseñanza-aprendizaje, instrumentos de evaluación y orientación, el accionar general de los educadores y otros agentes educativos y la administración educativa.
 
 10
 
@@ -417,7 +417,7 @@ La  evaluación  curricular  contemplará  dos  aspectos.  El  primero  se  refi
 
 La evaluación de logros de aprendizaje se orientará a la medición y valoración del alcance y calidad de los aprendizajes en relación con los propósitos curriculares de cada nivel del sistema educativo.
 
-La  evaluación  de  la  gestión  institucional  estará  referida  a  las  políticas,  programas  y  proyectos  de apoyo al  desarrollo  cunicular,  relacionados  con  la  calidad  de  la  educación,  cobertura,  eficiencia  y eficacia del sistema educativo.
+La  evaluación  de  la  gestión  institucional  estará  referida  a  las  políticas,  programas  y  proyectos  de apoyo al  desarrollo  curricular,  relacionados  con  la  calidad  de  la  educación,  cobertura,  eficiencia  y eficacia del sistema educativo.
 
 #### Art. 54.-
 La evaluación de los aprendizajes de los educandos es inherente a la actividad educativa y deberá ser continua, global, integradora, oportuna y participativa.
@@ -592,7 +592,7 @@ El  Estado  podrá  subvencionar  instituciones  privadas,  sin  fines  de  lucr
 #### Art. 80.-
 El acuerdo Ejecutivo que autoriza la creación y funcionamiento de los centros privados de educación  deberá  sustentarse  en  comprobaciones  que  garanticen  la  organización  académica  y administrativa  adecuada,  los  recursos  físicos  y  financieros  necesarios  y  el  personal  docente calificado,  de  conformidad  a  los  servicios  que  ofrezca.  La  solicitud  de  creación  y  funcionamiento deberá resolverse dentro de los sesenta días, contados a partir de la fecha de su presentación.
 
-#### Art. 81.
+#### Art. 81.-
 Los centros privados que imparten educación no formal, solicitarán autorización, únicamente en los casos en que los patrocinadores requieran reconocimiento oficial de sus estudios.
 
 #### Art. 82.-
@@ -615,7 +615,7 @@ La dirección del centro educativo deberá comunicar al Ministerio de Educación
 
 La dirección del centro educativo enviará al Ministerio de Educación, a más tardar en los ocho días hábiles  siguientes  a  la  Asamblea  indicada  en  el  inciso  anterior,  el  punto  de  acta  concerniente  al incremento de la carga económica, y a los padres de familia, a través de un comunicado por escrito. El  Ministerio  de  Educación  podrá  designar  un  representante,  quien  verificará  la  realización  de  la Asamblea y el levantamiento del acta respectiva.
 
-## CAPITULO V DE LOS EDUCADORES, EDUCANDOS Y PADRES DE FAMILIA
+## TITULO V DE LOS EDUCADORES, EDUCANDOS Y PADRES DE FAMILIA
 
 ### CAPITULO I DE LOS EDUCADORES
 
@@ -968,9 +968,9 @@ Ministra de Educación.
 
 # REFORMAS:
 
-- D.L.  Nº  194,  del  9  de  noviembre  de  2000,  publicado  en  el D.O.  Nº  238, Tomo  349,  del  19  de diciembre de 2000.
+- (1) D.L.  Nº  194,  del  9  de  noviembre  de  2000,  publicado  en  el D.O.  Nº  238, Tomo  349,  del  19  de diciembre de 2000.
 
-- D.L.  Nº  222,  del  7  de  diciembre  de  2000,  publicado  en  el  D.O.  Nº  241,  Tomo  349,  del  22  de diciembre de 2000.
+- (2) D.L.  Nº  222,  del  7  de  diciembre  de  2000,  publicado  en  el  D.O.  Nº  241,  Tomo  349,  del  22  de diciembre de 2000.
 
 Comentarios: LA PRESENTE LEY DEROGA A LA ANTERIOR LEY GENERAL DE EDUCACION, CONTENIDA EN EL D.L. Nº  495,  DEL  11  DE  MAYO  DE  1990,  P.D.O.Nº  162,T.  308  DEL  4  DE JULIO DE 1990.
 
