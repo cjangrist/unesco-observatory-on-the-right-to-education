@@ -96,7 +96,7 @@ Las  apreciaciones  cualitativas  enunciadas  se  concretan  en indicadores cuan
 
 Estos  alarmantes  indicadores,  de  por  sí  reveladores  de  esta situación,  son  expresión  de  un  proceso  acumulativo  de  injusticia social,  económica,  política  y  cultural,  heredado  desde  la  época colonial,  por  lo  que,  para  afrontar  el  problema  del  analfabetismo, con la responsabilidad política, la seriedad científica y la propiedad técnica requeridas, es necesario estructurar acciones integradas de participación  directa  y  consciente  de  todos  los  sectores  del  país, para lograr su erradicación.
 
-### BASES  CONCEPTUALES  Y  ORIENTACIÓN  PARA  UN NUEVO PROCESO DE ALFABETIZACIÓN
+### 3. BASES CONCEPTUALES Y ORIENTACIÓN PARA UN NUEVO PROCESO DE ALFABETIZACIÓN
 
 - El hombre es la razón de ser de la sociedad, por lo que toda acción a ejecutarse debe orientarse al logro del Bien Común dentro de los principios de subsidiaridad, solidaridad, justicia social y paz nacional.
 
@@ -108,19 +108,19 @@ Estos  alarmantes  indicadores,  de  por  sí  reveladores  de  esta situación,
 
 - La alfabetización se concibe como un instrumento de desarrollo que contribuye a la formación de ciudadanos responsables, a la vez como un elemento de  apoyo  para  el  establecimiento  de  un  proceso  de democratización  del  país  que  permita  salvaguardar la identidad guatemalteca y la incorporación de los sectores populares para que participen en el proceso de toma de decisiones que conduzcan al mejoramiento de su calidad de vida y a la estabilidad y bienestar social en general.
 
-### CONDICIONES ACTUALES PROPICIAS PARA PONER EN MARCHA UN NUEVO PROCESO DE ALFABETIZACIÓN
+### 4. CONDICIONES ACTUALES PROPICIAS PARA PONER EN MARCHA UN NUEVO PROCESO DE ALFABETIZACIÓN
 
 a) Marco  Legal: El cumplimiento de un mandato constitucional a través del cual se declara la alfabetización de urgencia nacional, y que instituye un Comité Nacional de Alfabetización para ejecutarla.
 
 b) Marco Político: La apertura del proceso de institucionalización que permite la decisión política de asumir la responsabilidad, con carácter prioritario, de erradicar el analfabetismo en el país para  contribuir  al  fortalecimiento  de  un  sistema democrático cada vez más participativo y de orden perfectible.
 
-- Marco Financiero: Además del financiamiento existe,  la  Constitución  Política  de  la  República  fija una  asignación  específica  para  la  realización  del proceso  de  alfabetización  equivalente  al  uno  por ciento  (1%)  del  Presupuesto  General  de  Ingresos Ordinarios del Estado.
+c) Marco Financiero: Además del financiamiento existe, la Constitución Política de la República fija una asignación específica para la realización del proceso de alfabetización equivalente al uno por ciento (1%) del Presupuesto General de Ingresos Ordinarios del Estado.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-### ASPECTOS RELEVANTES QUE CONTIENE EL PROYECTO DE LA NUEVA LEY DE ALFABETIZACIÓN
+### 5. ASPECTOS RELEVANTES QUE CONTIENE EL PROYECTO DE LA NUEVA LEY DE ALFABETIZACIÓN
 
 Con  base  a lo anterior y para poder cumplir con los propósitos de esta nueva acción de alfabetización, se ha elaborado el presente Proyecto de Ley que someta a la consideración y aprobación del Organismo Legislativo y cuyos aspectos sustantivos son los siguientes:
 
@@ -178,17 +178,17 @@ Que el proceso de alfabetización debe realizarse dentro de los principios de su
 
 [[START OF PAGE 11]]
 
-La siguiente
-
 ### CONSIDERANDO:
 
-Que los artículos 75, 13 y 14 transitorios, de la Constitución Política  de  la  República,  declaran  la  alfabetización  de  urgencia nacional  y  como  obligación  social  contribuir  a  ella,  llamando  a participar en su realización a los sectores público y privado a través de un Comité Nacional de Alfabetización, asignándole a la vez los recursos financieros necesarios y disponiendo que el Estado organice,  promueva y norme el proceso de alfabetización mediante una ley específica,
+Que los artículos 75, 13 y 14 transitorios, de la Constitución Política de la República, declaran la alfabetización de urgencia nacional y como obligación social contribuir a ella, llamando a participar en su realización a los sectores público y privado a través de un Comité Nacional de Alfabetización, asignándole a la vez los recursos financieros necesarios y disponiendo que el Estado organice, promueva y norme el proceso de alfabetización mediante una ley específica,
 
 ### POR TANTO:
 
-Con  fundamento  en  lo  considerado  y  en  las  disposiciones constitucionales  citadas  y  en  el  ejercicio  de  las  facultades  que  le confiere el inciso a) del artículo 171 de la Constitución Política de la República.
+Con fundamento en lo considerado y en las disposiciones constitucionales citadas y en el ejercicio de las facultades que le confiere el inciso a) del artículo 171 de la Constitución Política de la República.
 
 ### DECRETA:
+
+La siguiente
 
 # LEY DE ALFABETIZACIÓN
 
@@ -401,7 +401,7 @@ Son  obligaciones de las personas individuales y jurídicas, públicas y privada
 
 [[START OF PAGE 19]]
 
-- Los prioritarios de las empresas que operan en el área rural y  urbana,  están  obligados  a  proporcionar  la  educación primaria gratuita a los hijos de sus trabajadores, empleando para  ello  maestros  graduados.    Bajo  la  supervisión  del Ministerio de Educación.
+- Los propietarios de las empresas que operan en el área rural y urbana, están obligados a proporcionar la educación primaria gratuita a los hijos de sus trabajadores, empleando para ello maestros graduados. Bajo la supervisión del Ministerio de Educación.
 
 ### ARTÍCULO 16. Colaboraciones especiales:
 
@@ -417,7 +417,7 @@ El reglamento de esta ley dispondrá la forma de cumplir con las obligaciones es
 ### Artículo 17. Régimen Financiero.
 El proceso de Alfabetización contará con las fuentes de financiamiento siguientes:
 
-- En  el  presupuesto  de  Ingresos  y  Egresos  del  Estado  del Ejercicio  Fiscal  2001  se  asignará  al  Comité  Nacional  de Alfabetización -CONALFA- el uno por ciento (1%) de los ingresos  tributarios  del  Gobierno  Central.    En  los  siete ejercicios fiscales subsiguientes se asignará a dicho Comité ese  porcentaje  disminuido  en  un  décimo  de  cada  año,  es decir, el cero punto ocho por ciento (0.8%); el año 2003 y así,  en  forma  descendente, hasta el año 2008 en que se le asignará el cero punto tres por ciento (0.3%) de los ingresos tributarios del Gobierno Central.
+- En el presupuesto de Ingresos y Egresos del Estado del Ejercicio Fiscal 2001 se asignará al Comité Nacional de Alfabetización -CONALFA- el uno por ciento (1%) de los ingresos tributarios del Gobierno Central. En los siete ejercicios fiscales subsiguientes se asignará a dicho Comité ese porcentaje disminuido en un décimo de cada año, es decir, el cero punto nueve por ciento (0.9%); el año 2002, el cero punto ocho por ciento (0.8%); el año 2003 y así, en forma descendente, hasta el año 2008 en que se le asignará el cero punto tres por ciento (0.3%) de los ingresos tributarios del Gobierno Central.
 
 - La  asignación  presupuestaria,  equivalente  a  un  monto  no menor del uno por ciento (1%) del Presupuesto General de Gastos  del  Ministerio  de  Educación,  para  cada  ejercicio fiscal.
 
@@ -470,7 +470,7 @@ Del cumplimiento de la disposición contenida en la literal a) del artículo 17 
 El Comité emitirá su propio reglamento de administración de puestos y salarios y todo lo relativo al régimen de personal.
 
 ### ARTÍCULO 7.
-La presente ley será traducida y ampliamente difundida por lo menos en cuatro idiomas indígenas del país: Quiché, Cakchiquel,  Kekchi  y  Man.    Para  tal  efecto,  el  Ministerio  de Educación podrá requerir la participación de las instituciones, cuyas funciones sean afines con esta disposición.
+La presente ley será traducida y ampliamente difundida por lo menos en cuatro idiomas indígenas del país: Quiché, Cakchiquel, Kekchi y Mam. Para tal efecto, el Ministerio de Educación podrá requerir la participación de las instituciones, cuyas funciones sean afines con esta disposición.
 
 ### ARTÍCULO  8.
 Con  la  emisión  de  la  presente  Ley,  queda derogado el Decreto número 9-78 del Congreso de la República, su Reglamento y todas las disposiciones que se opongan a la misma.
@@ -491,7 +491,7 @@ MARINA MOLINA DE MARTÍNEZ MONT
 
 Secretario
 
-Palacio Nacional: Guatemala, cinco de agosto de novecientos ochenta y seis.
+Palacio Nacional: Guatemala, cinco de agosto de mil novecientos ochenta y seis.
 
 Publíquese y cúmplase.
 
@@ -500,8 +500,6 @@ MARCO VINICIO
 CEREZO AREVALO
 
 El Ministro de Educación EDUARDO ARTURO MEYER MALDONADO
-
-mil
 
 [[END OF PAGE 22]]
 
@@ -522,18 +520,7 @@ Acuerdo Gubernativo No. 137-91
 
 PALACIO NACIONAL
 
-Aprobar el siguiente:
-
-# REGLAMENTO DE LA LEY DE ALFABETIZACIÓN
-
-## TITULO 1
-
-## DISPOSICIONES  GENERALES
-
-#### ARTÍCULO 1.  Objeto.
-El   presente   Reglamento    regula lo relativo a la estructura administrativa, funciones y
-
-Guatemala, 15 de marzo de  1,991
+Guatemala, 15 de marzo de 1,991
 
 # ACUERDO GUBERNATIVO No. 137-91
 
@@ -541,17 +528,28 @@ Guatemala, 15 de marzo de  1,991
 
 ### CONSIDERANDO:
 
-Que  el  artículo  19  de  la  Ley  de  Alfabetización  ordena  la emisión  del  reglamento  que  desarrolla  las  normas  contenidas  en dicha Ley facilite su aplicación, por que emitió el Acuerdo Gubernativo número 898-87 del 12 de octubre de 1,987, conteniendo tal instrumento legal;
+Que el artículo 19 de la Ley de Alfabetización ordena la emisión del reglamento que desarrolla las normas contenidas en dicha Ley facilite su aplicación, por que emitió el Acuerdo Gubernativo número 898-87 del 12 de octubre de 1,987, conteniendo tal instrumento legal;
 
 ### CONSIDERANDO:
 
-Que el Reglamento citado en el considerando anterior contiene disposiciones no del todo congruentes con los principios y normas de la  Ley  de  Alfabetización,  restándole  eficacia  y  positividad  a  la misma, por lo que se hace imperativo reformar, mediante sustitución total, el citado Reglamento;
+Que el Reglamento citado en el considerando anterior contiene disposiciones no del todo congruentes con los principios y normas de la Ley de Alfabetización, restándole eficacia y positividad a la misma, por lo que se hace imperativo reformar, mediante sustitución total, el citado Reglamento;
 
 ### POR TANTO:
 
-En ejercicio  de  las  facultades  que  le  confiere  el  artículo  183 literal e) de la Constitución Política de la República de Guatemala, y con fundamento en el artículo 19 de la Ley de Alfabetización;
+En ejercicio de las facultades que le confiere el artículo 183 literal e) de la Constitución Política de la República de Guatemala, y con fundamento en el artículo 19 de la Ley de Alfabetización;
 
 ### ACUERDA:
+
+Aprobar el siguiente:
+
+# REGLAMENTO DE LA LEY DE ALFABETIZACIÓN
+
+## TITULO I
+
+## DISPOSICIONES GENERALES
+
+#### ARTÍCULO 1. Objeto.
+El presente Reglamento regula lo relativo a la estructura administrativa, funciones y
 
 [[END OF PAGE 25]]
 
@@ -578,12 +576,13 @@ Las personas analfabetas integrantes de una población migrante temporal, serán
 Para  los efectos  de      este  reglamento,  la      fase  inicial      de  la  alfabetización consiste  en  aprender  a  leer,    escribir  y  los    cálculos  matemáticos elementales, mediante un proceso de enseñanza-aprendizaje integral, motivador y práctico, en el sentido de proporcionar beneficios inmediatos al alfabetizando.
 
 #### ARTÍCULO 6.  Post-alfabetización.
-Para   los   efectos  de este Reglamento, la post-alfabetización, como etapa de seguimiento, retroalimentación y ampliación hacia la consecución de   una  educación    básica integral   de neoalfabeta, forma        parte      del      proceso        de      alfabetización  y        todo neoalfabeta   debe   ser  sujeto  de    la misma.  La    situación   de neoalfabeta   se establecerá mediante procedimientos permanentes de supervisión  y  evaluación.    Corresponde  a  la  Entidad  Ejecutora acreditar dicha situación.
+Para los efectos de este Reglamento, la post-alfabetización, como etapa de seguimiento, retroalimentación y ampliación hacia la consecución de una educación básica integral de neoalfabeta, forma parte del proceso de alfabetización y todo neoalfabeta debe ser sujeto de la misma. La situación de neoalfabeta se establecerá mediante procedimientos permanentes de
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
+supervisión y evaluación. Corresponde a la Entidad Ejecutora acreditar dicha situación.
 #### ARTÍCULO  7.    Agentes  de  alfabetización.
 Los  agentes  de alfabetizacion pueden ser:
 
@@ -665,12 +664,13 @@ Además  de  las presentes disposiciones, el Comité podrá emitir y aprobar su 
 ## CONSEJO DIRECTIVO DEL COMITÉ NACIONAL DE ALFABETIZACIÓN
 
 #### ARTÍCULO 19.     Funciones.
-El    Consejo    Directivo  del Comité  Nacional  de  Alfabetización  tendrá  las  funciones  generales establecidas en el artículo 10 de la Ley de Alfabetización, correspondiéndole además el nombramiento y remoción del Secretario Ejecutivo y del personal de la Entidad Ejecutora, en este último caso a propuesta del Secretario Ejecutivo.
+El Consejo Directivo del
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
+Comité Nacional de Alfabetización tendrá las funciones generales establecidas en el artículo 10 de la Ley de Alfabetización, correspondiéndole además el nombramiento y remoción del Secretario Ejecutivo y del personal de la Entidad Ejecutora, en este último caso a propuesta del Secretario Ejecutivo.
 #### ARTÍCULO  20.    Integración  del  Consejo  Directivo.
 El consejo directivo se integra por cinco miembros del Comité Nacional de Alfabetización, de la siguiente manera: dos miembros del Sector Público,  dos  del  Sector  Privado  y  el  presidente  del  Consejo,  cuyo cargo corresponde al Ministro de Educación.  En ausencia de uno de los  miembros  del  Consejo  Directivo,  éste  será  sustituido  por  su suplente.
 
@@ -715,12 +715,13 @@ Corresponde a la Auditoría, las siguientes funciones:
 ### ESTRUCTURA ORGANIZATIVA
 
 #### ARTÍCULO 25.  Entidad Ejecutora.
-La Entidad Ejecutora es el  órgano  encargado  de        ejecutar  las        políticas,      estrategias, planes y programas aprobados por el Comité Nacional de Alfabetización   y de   coordinar   y    supervisar   a nivel nacional, las  acciones  de  alfabetización  que  realizan  la  propia  Entidad  y  las organizaciones gubernamentales y no gubernamentales que participan en el proceso.
+La Entidad Ejecutora es el órgano encargado de ejecutar las políticas, estrategias, planes y programas aprobados por el Comité Nacional de Alfabetización y de coordinar y supervisar a nivel nacional,
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
+las acciones de alfabetización que realizan la propia Entidad y las organizaciones gubernamentales y no gubernamentales que participan en el proceso.
 #### ARTÍCULO 26.  Organización.
 Para el cumplimiento de sus funciones, la Entidad Ejecutora del Comité Nacional de Alfabetización  estará  a  cargo  y  bajo  la  dirección  de  un  Secretario Ejecutivo y se conforma con las siguientes dependencias.
 
@@ -1012,12 +1013,13 @@ Corresponde  a  la  Unidad  de Seguimiento y Evaluación, lo siguiente:
 ### Unidad de Apoyo Administrativo
 
 #### ARTÍCULO 44. Objetivo.
-La Unidad de Apoyo Administrativo deberá garantizar el apoyo administrativo al proceso de    alfabetización,    mediante      la      ejecución      de      acciones de  administración  de  personal,  prestación  de  servicios  generales, dotación  de  recursos  materiales  y  otras,  a  efecto  de  contribuir    al cumplimiento de los planes operativos anuales de la Entidad Ejecutora.
+La Unidad de Apoyo Administrativo deberá garantizar el apoyo administrativo al proceso de alfabetización, mediante la ejecución de acciones
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
 
+de administración de personal, prestación de servicios generales, dotación de recursos materiales y otras, a efecto de contribuir al cumplimiento de los planes operativos anuales de la Entidad Ejecutora.
 #### ARTÍCULO  45.    Funciones.
 Corresponde  a  esta  unidad realizar las siguientes funciones.
 
@@ -1059,12 +1061,13 @@ Corresponde  a  esta  unidad realizar las siguientes funciones.
 Las Coordinaciones Regionales y Departamentales son las unidades de la Entidad Ejecutora responsables de coordinar a nivel regional o  departamental, la  formulación  y  ejecución  de programas de alfabetización a cargo de la propia Entidad Ejecutora o de entidades gubernamentales  y  no  gubernamentales.    Para  el cumplimiento de sus funciones dispondrá de los recursos que previo análisis se determinen necesarios.
 
 #### ARTÍCULO 47. Funciones de las Coordinaciones Regionales       y          Departamentales.
-Corresponde    a   las coordinaciones realizar, las siguientes funciones:
+Corresponde a las
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
+coordinaciones realizar, las siguientes funciones:
 - Formular  en  coordinación  con  la  Unidad  de  Investigación  y Planificación,  los  planes  y  programas  de  alfabetización  a  nivel regional  o  departamental,  según  corresponda,  a  través  de  un proceso participativo de las entidades a cargo de la alfabetización en el área geográfica respectiva.
 
 - Coordinar la ejecución de los programas de alfabetización en la región  o  departamento,  a  cargo  de  la  Entidad  Ejecutora  o  de organizaciones gubernamentales  y  no  gubernamentales  para verificar  el  cumplimiento  de  los  mismos  y  el  alcance  de  los objetivos y metas propuestos.
@@ -1085,7 +1088,7 @@ Corresponde    a   las coordinaciones realizar, las siguientes funciones:
 
 [[START OF PAGE 47]]
 
-- acuerdo a las directrices  y lineamientos emanados de Secretaría Ejecutiva y bajo la coordinación de la Unidad de Seguimiento y Evaluación,  a  efecto  de  alcanzar  los  objetivos  de  capacitación para garantizar la participación de personal idóneo como agentes del proceso de alfabetización.
+acuerdo a las directrices y lineamientos emanados de Secretaría Ejecutiva y bajo la coordinación de la Unidad de Seguimiento y Evaluación, a efecto de alcanzar los objetivos de capacitación para garantizar la participación de personal idóneo como agentes del proceso de alfabetización.
 
 - Recopilar información cualitativa y cuantitativa de los programas  de  alfabetización  a  nivel  departamental,  regional  y local con el propósito de suministrar información actualizada y veraz al Centro de Cómputo para la generación de estadísticas e informes en la materia.
 
@@ -1098,12 +1101,13 @@ Corresponde    a   las coordinaciones realizar, las siguientes funciones:
 ## ENTIDADES REGIONALES Y LOCALES DE ALFABETIZACIÓN
 
 #### ARTÍCULO 48. Entidades Regionales y locales de alfabetización.
-Las entidades regionales y locales de alfabetización son entidades gubernamentales y no gubernamentales, con personalidad  jurídica,  a  través  de  las  cuales    pueden  realizarse programas  de  alfabetización  a  nivel  regional  o  local.    También podrán organizarse tales  entidades,  con  o  sin  personalidad  jurídica, por personas obligadas a contribuir al proceso de alfabetización o por aquellas que voluntariamente deseen hacerlo como  agentes  de alfabetización.    Las  entidades  regionales  y  locales  realizarán  sus programas bajo la coordinación de la Entidad Ejecutora del Comité Nacional de Alfabetización.
+Las entidades regionales y locales de alfabetización son entidades gubernamentales y no gubernamentales, con personalidad jurídica, a través de las cuales pueden realizarse programas de alfabetización a nivel regional o local. También podrán organizarse tales entidades, con o sin personalidad jurídica, por personas obligadas a contribuir al proceso de alfabetización o por aquellas que voluntariamente deseen hacerlo como agentes de
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
+alfabetización. Las entidades regionales y locales realizarán sus programas bajo la coordinación de la Entidad Ejecutora del Comité Nacional de Alfabetización.
 ## TITULO VII
 
 ## DERECHOS Y OBLIGACIONES
@@ -1262,11 +1266,13 @@ La  persona  que  considere  afectados  sus derechos, por resoluciones emitidas 
 Para complementar las disposiciones del presente Reglamento, la Secretaría Ejecutiva elaborará  los  proyectos  de  manuales  de  funciones  y  otros  que  se estimen  necesarios,  los  cuales  deben  ser  aprobados  por  el  Comité Nacional de Alfabetización.
 
 #### ARTÍCULO  66.    Administración  de  Personal.
-La  entidad Ejecutora  del  Comité  Nacional  de  Alfabetización  administrará  su personal con sus propios instrumentos técnicos y legales, para lo cual la Secretaría             Ejecutiva            deberá          elaborar      los proyectos  y  someterlos  a  la  aprobación  del  Comité  Nacional  de Alfabetización.
+La  entidad Ejecutora  del  Comité  Nacional  de  Alfabetización  administrará  su personal con sus propios instrumentos técnicos y legales, para lo cual la Secretaría Ejecutiva deberá elaborar los
 
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
+
+proyectos y someterlos a la aprobación del Comité Nacional de Alfabetización.
 
 #### ARTÍCULO 67.  Casos no previstos.
 Los casos no previstos en el presente Reglamento serán resueltos por el Comité Nacional de Alfabetización de conformidad con la ley.
