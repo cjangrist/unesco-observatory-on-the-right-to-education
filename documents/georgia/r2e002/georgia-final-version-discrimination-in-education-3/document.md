@@ -48,7 +48,7 @@ In  the  preparation  of  reports,  Member  States  are  kindly  requested  to  
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States in the preparation of responses, two series of questions/remarks are presented:
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
 > 1 Please note that the 1974 Recommendation concerning Education for International Understanding, Co-operation and  Peace  and  Education  relating  to  Human  Rights  and  Fundamental  Freedoms  is  used  specifically  for monitoring SDG target 4.7. The 1960 Convention and Recommendation contribute more generally to the body of evidence for monitoring the targets of SDG4.
 
@@ -56,7 +56,7 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses  to  the  open-ended  questions  (including  remarks  on  how  to  respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In  their  responses,  Member  States  are  encouraged  to  provide  information  in  a  concise  manner while preserving substantive and relevant content.
 
@@ -72,9 +72,9 @@ Georgia
 
 Organization or entity  responsible  for  the  preparation  of  the  report: Ministry  of  Education, Science, Culture and Sport of Georgia
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -108,7 +108,7 @@ o No, not considering ratification in the near future. Please explain why:
 
 [[START OF PAGE 5]]
 
-### Ratification of the Protocol 4 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 4 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -116,7 +116,7 @@ o Yes
 
 x No , please briefly explain the difficulties encountered:
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -160,9 +160,9 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-## Information on the implementation of the Convention or Recommendation
+## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
 Articles/Paragraphs  1(1),  2  and  3of  the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
@@ -242,21 +242,21 @@ In Georgia the Issues of Accessibility to Education is regulated by the followin
 
 ###### Article 27 - Right to education and academic freedom
 
-- Everyone has the right to receive education and the right to choose the form of education they receive.
+1. Everyone has the right to receive education and the right to choose the form of education they receive.
 
-- Pre-school education shall be guaranteed in accordance with the procedures established by  law.  Elementary  and  basic  education  shall  be  compulsory.  General  education  shall  be fully  funded  by  the  State,  in  accordance  with  the  procedures  established  by  law.  Citizens shall have the right to state-funded vocational and higher education, in accordance with the procedures established by law.
+2. Pre-school education shall be guaranteed in accordance with the procedures established by law. Elementary and basic education shall be compulsory. General education shall be fully funded by the State, in accordance with the procedures established by law. Citizens shall have the right to state-funded vocational and higher education, in accordance with the procedures established by law.
 
-##### Law of Georgia on General Education
+##### 2. Law of Georgia on General Education
 
 ###### Article 7 - Access to general education
 
-- The  State  shall  ensure  the  right  of  each  pupil  (including  pupils  with  special  educational needs) to acquire general education in the official, or in his/her native, language, as close to his/her place of residence as possible.
+1. The State shall ensure the right of each pupil (including pupils with special educational needs) to acquire general education in the official, or in his/her native, language, as close to his/her place of residence as possible.
 
-- If  the  right  determined  by  paragraph  1  of  this  article  cannot  be  exercised  through  a standard school voucher, the State shall provide such pupils with increased vouchers and/or additional  funding  within  an  appropriate  targeted  programme  approved  by  the  Ministry  of Education and Science of Georgia.
+2. If the right determined by paragraph 1 of this article cannot be exercised through a standard school voucher, the State shall provide such pupils with increased vouchers and/or additional funding within an appropriate targeted programme approved by the Ministry of Education and Science of Georgia.
 
-- Through increased vouchers and additional funding the Ministry of Education and Science of Georgia shall ensure:
+3. Through increased vouchers and additional funding the Ministry of Education and Science of Georgia shall ensure:
 
-- Openness  of  and  equal  access  to  lifelong  general  education  for  everyone  in  public
+a) Openness of and equal access to lifelong general education for everyone in public
 
 > 7 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
 
@@ -266,41 +266,41 @@ In Georgia the Issues of Accessibility to Education is regulated by the followin
 
 schools;
 
-- Introduction of inclusive and multilingual education in public schools;
+b) Introduction of inclusive and multilingual education in public schools;
 
-- Improvement of logistics, software and human resources in public schools;
+c) Improvement of logistics, software and human resources in public schools;
 
-- An  appropriate  remuneration  for  labour  of  public  school  teachers,  administration  and support staff;
+d) An appropriate remuneration for labour of public school teachers, administration and support staff;
 
-- A healthy environment in public schools;
+e) A healthy environment in public schools;
 
-- a  smooth study process in public schools, especially in public schools where more than one  administrative  facility,  used  in  the  study  process,  is  on  balance  as  a  result  of  the reorganisation,  as  well  as  in  public  schools  located  in  villages/townships  and  highland regions, and in multi-sector public schools.
+f) a smooth study process in public schools, especially in public schools where more than one administrative facility, used in the study process, is on balance as a result of the reorganisation, as well as in public schools located in villages/townships and highland regions, and in multi-sector public schools.
 
-- The  State  shall  ensure  acquisition  of  a  general  education  in  places  of  detention  as provided for by the Imprisonment Code of Georgia.
+4. The State shall ensure acquisition of a general education in places of detention as provided for by the Imprisonment Code of Georgia.
 
-##### Law of Georgia on Vocational Education
+##### 3. Law of Georgia on Vocational Education
 
 ###### Article 4 - Right to receive vocational education and basic guarantees
 
-- Everyone  has  the  right  to  exercise,  without  any  discrimination,  the  right  to  receive vocational  education  in  accordance  with  the  procedure  established  by  the  legislation  of Georgia.
+1. Everyone has the right to exercise, without any discrimination, the right to receive vocational education in accordance with the procedure established by the legislation of Georgia.
 
-- Vocational students, listeners, and vocational education teachers and their associations, shall  have  the  right  to  exercise,  without  any  discrimination,  all  the  rights  and  freedoms defined by the legislation of Georgia and educational institutions.
+2. Vocational students, listeners, and vocational education teachers and their associations, shall have the right to exercise, without any discrimination, all the rights and freedoms defined by the legislation of Georgia and educational institutions.
 
-- Educational  institutions  shall  ensure  the  availability  of  an  individually  tailored  learning process  and  necessary  special  educational  services,  as  well  as  access  to  a  learning environment in  the  educational  institution,  for  persons  with  special  educational  needs  and persons with disabilities.
+3. Educational institutions shall ensure the availability of an individually tailored learning process and necessary special educational services, as well as access to a learning environment in the educational institution, for persons with special educational needs and persons with disabilities.
 
 ##### 4. Law of Georgia on Higher Education
 
 ###### Article 3 - Goals of higher education
 
-- In  order  to  achieve  the  goals  determined  by  paragraph  1  of  this  article  the  State  shall ensure:
+2. In order to achieve the goals determined by paragraph 1 of this article the State shall ensure:
 
-- access to and openness of higher education and academic freedom in learning, teaching and scientific research;
+a) access to and openness of higher education and academic freedom in learning, teaching and scientific research;
 
-- the opportunity to acquire higher education at any time during a person's lifetime;
+b) the opportunity to acquire higher education at any time during a person's lifetime;
 
-- the integration of higher education and science;
+c) the integration of higher education and science;
 
-- the development  of  quality assurance  systems,  which  implies the functioning of authorization and accreditation systems, and quality management assurance mechanisms at
+d) the development of quality assurance systems, which implies the functioning of authorization and accreditation systems, and quality management assurance mechanisms at
 
 [[END OF PAGE 9]]
 
@@ -308,25 +308,25 @@ schools;
 
 higher education institutions;
 
-- full participation in a unified European educational and research area for the processes of learning,  teaching  and  for  conducting  scientific  research  works,  as  well  as  in  other international systems of cooperation;
+e) full participation in a unified European educational and research area for the processes of learning, teaching and for conducting scientific research works, as well as in other international systems of cooperation;
 
-- the autonomy of higher education institutions;
+f) the autonomy of higher education institutions;
 
-- the  participation  of  academic  personnel,  scientific  personnel  and  students  of  a  higher education institution in the process of making decisions and monitoring of their execution;
+g) the participation of academic personnel, scientific personnel and students of a higher education institution in the process of making decisions and monitoring of their execution;
 
-- the  prevention  of  any  forms  of  discrimination  in  the  field  of  higher  education,  including academic,  religious  or  ethnic  discrimination,  as  well  as  discrimination  on  the  grounds  of opinion, sex, social origin and others;
+h) the prevention of any forms of discrimination in the field of higher education, including academic, religious or ethnic discrimination, as well as discrimination on the grounds of opinion, sex, social origin and others;
 
-- publicity and transparency of the management of higher education institutions and of the competitions held in these institutions;
+i) publicity and transparency of the management of higher education institutions and of the competitions held in these institutions;
 
-- the  provision  of  other  conditions  that  facilitate  achievement  of  the  goals  specified  by paragraph 1 of this article.
+j) the provision of other conditions that facilitate achievement of the goals specified by paragraph 1 of this article.
 
 ##### 5. Law of Georgia on Early and Preschool Education
 
 ###### Article 4- The principles of preschool education
 
-- The  children  of  Georgia  at  the  public  preschool  education  institutions  of  Georgia  are ensured free education and catering services as provided for by the legislation of Georgia .
+1. The children of Georgia at the public preschool education institutions of Georgia are ensured free education and catering services as provided for by the legislation of Georgia .
 
-- Preschool  education,  including  the  school  readiness  programme,  is  voluntary,  universal and available for every child of relevant age.
+2. Preschool education, including the school readiness programme, is voluntary, universal and available for every child of relevant age.
 
 #### 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities  (in  terms  of  access,  participation  and  completion),  equal  treatment  and  to support the inclusion of all learners (including girls and women, the economically and socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
 
@@ -384,11 +384,13 @@ x Other:
 
 Enrolment in vocational education programs is possible for youths after 9th grade of general education. Within each vocational education program, at least 15% of quota is set  for  the  persons  with  special  educational  needs  and  disabilities.  An  alternative vocational testing procedure has been developed to tailor enrolment procedure to the individual  needs  of  persons  with  special  educational  needs  and  disabilities.  This procedure  gives  possibility  to  practically  try/test  vocational  programs  in  individually adapted  conditions  and  make  the  best  vocational  choice  by  the  applicants.  Since 2017, students with special educational needs are provided with the additional funding - quarterly voucher of 1000.0 GEL. This funding is used according to the individual needs of students during their learning process. Different types of special education services is available at the vocational education settings such as: inclusive education specialist, assistant, sign language interpreter, orientation and mobility trainer, mobility facilitator, transportation etc. In addition, vocational students with special educational needs are provided with adapted learning materials, individual educational plans, and supportive equipment. Electronic bank of Georgian Sign Language (which is located on a special web page) and its mobile application was created to support education of sign  language  users.  Audio  versions  of  the  textbooks  was  prepared  to  support learners  with  visual  impairments  and  reading  difficulties.  To  support  professional orientation  of  persons  with  diverse  needs,  videos,  which  based  on  universal  design principles, were prepared. Besides, different methodological guidelines are developed on a regular basis to support inclusive vocational education.
 
-Professional development trainings and workshops are carried permanently to support competence development of specialists involved in inclusive vocational education. The field specialists provide monitoring and professional supervision in vocational educational  settings  monthly.Most  vocational  education  facilities  have  a  ramp  and adapted bathrooms and in 4 vocational education institutions the physical environment is tailored to the universal design principles.
+Professional development trainings and workshops are carried permanently to support
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+competence development of specialists involved in inclusive vocational education. The field specialists provide monitoring and professional supervision in vocational educational settings monthly.Most vocational education facilities have a ramp and adapted bathrooms and in 4 vocational education institutions the physical environment is tailored to the universal design principles.
 
 - Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
 
@@ -408,21 +410,21 @@ Please provide reference to the relevant laws and provisions:
 
 ###### Article 1106 - Concept of marriage
 
-Marriage is a voluntary union of a woman and a man for the purpose of creating a family, which is registered with a territorial office of the Legal Entity under Public Law (LEPL)  Public Service Development Agency of the Ministry of Justice of G eorgia ('a territorial office of the Agency').
+Marriage is a voluntary union of a woman and a man for the purpose of creating a family, which is registered with a territorial office of the Legal Entity under Public Law (LEPL) Public Service Development Agency of the Ministry of Justice of Georgia ('a territorial office of the Agency').
 
 ###### Article 1107 - Conditions for entering into marriage
 
 Entry into marriage shall require:
 
-- marriageable age
+a) marriageable age
 
-- consent of the persons to be married.
+b) consent of the persons to be married.
 
 ###### Article 1108 - Marriageable age
 
-- Marriage shall be permitted from the age of 18.
+1. Marriage shall be permitted from the age of 18.
 
-- The marriage of an adult with limited capacity to contract shall be permitted with a prior written consent of his/her custodian.
+2. The marriage of an adult with limited capacity to contract shall be permitted with a prior written consent of his/her custodian.
 
 ### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
@@ -524,7 +526,7 @@ Please list the laws and policies that ensure the free availability of secondary
 
 Duration of secondary education is X-XII grades.
 
-- Teaching in general educational institutions is regulated on the basis of the following legislative framework: the Constitution (Supreme); National Goals for General Education; Law onGeneral Educat i on; National Curriculum.
+- Teaching in general educational institutions is regulated on the basis of the following legislative framework: the Constitution (Supreme); National Goals for General Education; Law onGeneral Education; National Curriculum.
 
 o No: What are the measures your government intends to take to ensure free secondary education?
 
@@ -548,11 +550,11 @@ No o
 
 ##### Labour Code of Georgia
 
-###### Article  4  -  Minimum  employment  age  and  origination  of  legal  capacity  to  enter  into labour agreements
+###### Article 4 - Minimum employment age and origination of legal capacity to enter into labour agreement
 
-- Legal capacity of natural persons to enter into a labour agreement shall originate at the ag e of 16.
+1. Legal capacity of natural persons to enter into a labour agreement shall originate at the age of 16.
 
-- Legal  capacity  of  minors  under  16  to  enter  into  a  labour  agreement  shall  originate  by consent of their  legal  representative  or  a  custody/guardianship  authority  unless  the  labour relations contradicts minors' interests, prejudice their moral, physical and mental development, and limit their right and opportunity to acquire compulsory primary and basic
+2. Legal capacity of minors under 16 to enter into a labour agreement shall originate by consent of their legal representative or a custody/guardianship authority unless the labour relations contradicts minors' interests, prejudice their moral, physical and mental development, and limit their right and opportunity to acquire compulsory primary and basic
 
 [[END OF PAGE 15]]
 
@@ -560,11 +562,11 @@ No o
 
 education.  Consent  of  the  legal  representative  or  custody/guardianship  authority  shall  be valid with respect to similar type of subsequent labour relations as well.
 
-- A labour agreement with minors under 14 may be concluded solely in connection with the activities in sport, art, and culture, as well as for performing certain advertising work.
+3. A labour agreement with minors under 14 may be concluded solely in connection with the activities in sport, art, and culture, as well as for performing certain advertising work.
 
-- Concluding labour agreements with minors involving them in performing works related to gambling, nightclubs, preparation, transportation, and sale of erotic and pornographic products, as well as pharmaceutical and toxic substances, shall b e prohibited.
+4. Concluding labour agreements with minors involving them in performing works related to gambling, nightclubs, preparation, transportation, and sale of erotic and pornographic products, as well as pharmaceutical and toxic substances, shall be prohibited.
 
-- Concluding labour agreements with minors, as well as with pregnant women or nursing mothers, to perform hard, harmful, or hazardous work shall be prohibited.
+5. Concluding labour agreements with minors, as well as with pregnant women or nursing mothers, to perform hard, harmful, or hazardous work shall be prohibited.
 
 #### 2.3 Higher education
 
@@ -616,7 +618,7 @@ x Higher education is accessible through credit transfer system between states
 
 o Other:
 
-Students are admitted to universities based on the results of centralized standardized admission tests. Based on the results of their test scores students are awarded meritbased grants for funding their studies at bachelor and master degree level.
+Students are admitted to universities based on the results of centralized standardized admission tests. Based on the results of their test scores students are awarded merit-based grants for funding their studies at bachelor and master degree level.
 
 In  addition,  Needs-based  grants  are  allocated  to  the  students  with  different  social background: students from highland areas; graduates from minority schools (Azerbaijanian  and  Armenian);  students  of  the  KIA13 and  MIA14 military  families; repatriates; orphans and students from large families, students under the state care; students impacted by Russian aggression; students from occupied territories; students  with  special  education  needs/disabilities;  socially  vulnerable  students.  In 2019 the program was extended to cover the students with autistic spectrum disorder. In  addition  to  this,  the  Ministry  developed  the  special  preparatory  program  for  the university entrants from the Occupied territories of Georgia to ensure their access to higher education in Georgian universities.
 
@@ -708,7 +710,7 @@ Within the restriction of Covid-19 School offers online training programs to all
 
 #### 2.5 Quality education provision and learning environment
 
-Articles/Paragraphs 2, 4(b) and 5(b)of the Convention/Recommendation provide for quality education.Quality  education  is  fundamental  to  achieve  all  targets  of  SDG4.  It  is  also particularly  highlighted  in  SDG  target  4.a  that  recommends  states  to  'build  and  upgrade education  facilities  that  are  child,  disability  and  gender  sensitive  and  provide  safe,  nonviolent, inclusive and effective learning environments for all'.
+Articles/Paragraphs 2, 4(b) and 5(b)of the Convention/Recommendation provide for quality education.Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 [[END OF PAGE 20]]
 
@@ -720,7 +722,7 @@ x Establishment of minimum norms and standards in education
 
 - x Establishment of conditions relating to the quality of the education provided (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT)
 
-- x Adoption of legal or regulatory provisions to ensure that children learn in a safe environment  free  from  violence  or  harassment,  including  school-related  genderbased violence (in and around schools).
+- x Adoption of legal or regulatory provisions to ensure that children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools).
 
 - Please elaborate further on the measures taken:
 
@@ -774,7 +776,7 @@ Accreditation of higher education programmes is an external mechanism of higher 
 
 LEPL National Centre for Educational Quality Enhancement (NCEQE) under the Ministry has developed  quality  assurance  standards  in  general,  vocational  and  higher  education  and undertakes external quality evaluations that establishes and encourages minimum standards and norms in education.
 
-The  NCEQE  has  considered  conditions  relating  to  the  quality  of  education  in  its  higher education quality assurance standards. Evaluation of infrastructure is a part of a Standard 7 Material, information and financial resources. It considers to evaluate infrastructure and its safety for students and staff, environment necessary for implementing educational activities and  adapted  environment  for  people  with  special  needs.  Teaching  materials  are  also evaluated within standard 7, in material resources.
+The NCEQE has considered conditions relating to the quality of education in its higher education quality assurance standards. Evaluation of infrastructure is a part of a Standard 7 - Material, information and financial resources. It considers to evaluate infrastructure and its safety for students and staff, environment necessary for implementing educational activities and adapted environment for people with special needs. Teaching materials are also evaluated within standard 7, in material resources.
 
 Evaluation of learner/teacher ratios is a part of a Standard 4 - Staff of the HEI. It considers to evaluate  ratios  at  institutions  to  evaluate  staff  workload  and  therefore  quality  of  program implementations within workloads and ratios.
 
@@ -850,7 +852,7 @@ Yes x No o
 
 - Please provide a brief description:
 
-- According to the Law of Georgia on General Education, private school is a general education institution established as a legal entity under pri vate law.  Law  of  Georgia  on  General  Education  regulates  basic  goals  of  the  state policy in the field of general education.
+- According to the Law of Georgia on General Education, private school is a general education institution established as a legal entity under private law. Law of Georgia on General Education regulates basic goals of the state policy in the field of general education.
 
 - According to the Law of Georgia on Higher Education (9th Article, 2nd Paragraph) 'A higher education institution shall be established in a form of a legal entity under public or  private  law'.  Besides,  external  quality  regulatory  provisions  apply  equally  to  all types of higher education institutions operating across the country.
 
@@ -908,7 +910,7 @@ o Other:
 
 Information could also cover the language facilities, such as the availability of teaching in the mother  tongue of the students, use of teaching of languages  in education policy, multilinguism, etc.
 
-A special attention is devoted to ensuring access to quality education and to improving the knowledge of the state language, as important means for civic integration. Ethnic minorities have access to all levels of education (pre-school, general education, higher education and professional education and training), including in their native language. There are 207 nonGeorgian language public schools and 84 non-Georgian language sectors in Georgia.
+A special attention is devoted to ensuring access to quality education and to improving the knowledge of the state language, as important means for civic integration. Ethnic minorities have access to all levels of education (pre-school, general education, higher education and professional education and training), including in their native language. There are 207 non-Georgian language public schools and 84 non-Georgian language sectors in Georgia.
 
 The National Curriculum is translated into national minority languages. A bilingual programme has been elaborated in the framework of the 'New School Model', which is to be introduced  in  non-Georgian  language  schools.  The  process  of  recruitment  of  bilingual teachers  has  been  launched  for  the  purpose  of  their  employment  at  the  non-Georgian language schools. The implementation of the renewed (upgraded) National Curriculum was launched  in  the  non-Georgian  language  schools  from  the  academic  year  2019-2020.All certified  textbooks  for  I-VI  grades  have  been  fully  translated.  In  order  to  ensure  quality  of translation, the additional quality control mechanisms were introduced.
 
@@ -928,25 +930,27 @@ The state  program  for  VET  development  and  the  state  program  for  raisin
 
 the logging costs at the dormitories of the state vocational education and training institutions will  be  fully  covered.  Since  the  beginning  of  2018  the  training  course  in  Abkhaz  language was launched at the Batumi Public School N14, while Abkhaz language 'Sunday school' was launched in the public school of village Peria.
 
-Representatives  of  ethnic  minorities  have  access  to  higher  education.  The  Programme '1+4',offering  simplified  procedures  for  the  representatives  of  ethnic  minorities  to  enroll  in higher education  institutions,is rather popular  among  national  minority  youth  (Official statistical  data:  in  2010,  299  non-Georgian  students  got  enrolled  in  higher  education institution;  in 2011 - 429, in 2012 - 584, in 2013 - 890, in 2014 - 673, in 2015 - 741, in 2016960; in 2017 -1047, in 2018 - 1231 and in 2019- 1335).
+Representatives  of  ethnic  minorities  have  access  to  higher  education.  The  Programme '1+4',offering  simplified  procedures  for  the  representatives  of  ethnic  minorities  to  enroll  in higher education  institutions,is rather popular  among  national  minority  youth  (Official statistical  data:  in  2010,  299  non-Georgian  students  got  enrolled  in  higher  education institution;  in 2011 - 429, in 2012 - 584, in 2013 - 890, in 2014 - 673, in 2015 - 741, in 2016-960; in 2017 -1047, in 2018 - 1231 and in 2019- 1335).
 
 The program, which supports the ethnic minority entrants in receiving a higher education, is one of the initiatives of the Ministry aimed at providing a quality education to ethnic minority students. Quotas are defined specially for Azerbaijanian and Armenian entrants for national unified  exams,  they  are  asked  to  take  a  general  ability  test  in  their  own  languages (Azerbaijani and Armenian), on the basis of which the students are enrolled at preparatory programs. Furthermore, Azerbaijani and Armenian students will take up a yearlong intensive course  in  Georgian  Language;  afterwards,  they  will  be  enrolled  at  the  faculties  of  their choice. Receiving a higher education in Georgian language proves to be an effective tool for building a career for the ethnic minority population.
 
 Moreover,  Georgian  universities  provide  ample  opportunities  for  teaching  and  learning  of minority  language  and  culture.    Several  activities  are  carried  out  in  order  to  encourage teaching  of  minority  language  and  culture  by  universities.  Issue  of  protection  of  minority rights is widely covered in ethics codes of universities.
 
-Under the program, representatives of national minorities employed in the public sector, local self-government  bodies,  regional  administrations,  the  resource  centres  of  the  Ministry  of Education, employees of public schools, teachers and all other stakeholders became able to study the official language at Zhvania School with the state's budget support for free, in 11 municipalities,  as  in  Regional  Centres,  as  well  as  in  mobile  groups  (in  villages  at  public schools  and  community  centres).  The  teaching  process  complies  with  the  European language competency levels (A1, A2, B1 and B2). Total number of trained people in 20172019 is 10710 .Under this program school has created several books and manuals.
+Under the program, representatives of national minorities employed in the public sector, local self-government  bodies,  regional  administrations,  the  resource  centres  of  the  Ministry  of Education, employees of public schools, teachers and all other stakeholders became able to study the official language at Zhvania School with the state's budget support for free, in 11 municipalities,  as  in  Regional  Centres,  as  well  as  in  mobile  groups  (in  villages  at  public schools  and  community  centres).  The  teaching  process  complies  with  the  European language competency levels (A1, A2, B1 and B2). Total number of trained people in 2017-2019 is 10710.Under this program school has created several books and manuals.
 
 The LEPL Zurab Zhvania School of Public Administation implements a program of teaching the state language at its 10 regional training centres (in Akhalkalaki, Ninotsminda, Tsalka, Bolnisi, Dmanisi, Marneuli, Gardabani, Sagarejo, Akhmeta, Lagodekhi) and through mobile groups, which make training available at the towns and villages far from the regional training centres.  The  program  is  fully  state  funded.  During  2016-2019,  13 385  representatives  of national minorities participated in the programme. Beneficiaries of different ages (16 to 83 years), religious beliefs, profession and social status are engaged in the program.
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for inthe Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 17 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement  and  influx  of  refugees  worldwide  and  the  emergence  of  major  educational challenges  in  this  area,  as  well  as  the  frameworks  recently  adopted  by  the  international community, 18 demonstrate  the  opportunity  for  states  to  report  on  measures  adopted  to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for inthe Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 17 In this context,  a  number  of  Member  States  that  participated  in  the  9th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement  and  influx  of  refugees  worldwide  and  the  emergence  of  major  educational
 
 17 Articles/Paragraphs 1 and 3.
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+challenges in this area, as well as the frameworks recently adopted by the international community, 18 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
 
@@ -988,9 +992,9 @@ international information network.
 
 Zhvania School of PA is providing State Language program for refugees and migrants since 2017. 358 people are already trained.
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-### Challenges and obstacles
+### 1. Challenges and obstacles
 
 #### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
@@ -1032,7 +1036,7 @@ UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.
 
 - x Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-- x Activities undertaken  or supported by the  National  Commission  to  promote  nondiscrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+- x Activities undertaken  or supported by the  National  Commission  to  promote  non-discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
 
 - o Other:
 
