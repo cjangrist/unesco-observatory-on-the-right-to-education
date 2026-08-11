@@ -4,13 +4,14 @@
 
 D10502
 
-(Vide ADI 6590)
-
-Presidência da República Secretaria-Geral
+Presidência da República
+Secretaria-Geral
 
 Subchefia para Assuntos Jurídicos
 
 # DECRETO Nº 10.502, DE 30 DE SETEMBRO DE 2020
+
+(Vide ADI 6590)
 
 Institui a Política Nacional de Educação Especial: Equitativa,  Inclusiva  e  com  Aprendizado  ao  Longo  da Vida.
 
@@ -29,7 +30,7 @@ Para fins do disposto neste Decreto, considera-se:
 
 - I  -  educação especial - modalidade de educação escolar oferecida, preferencialmente, na rede regular de ensino aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação;
 
-- II  -  educação  bilíngue  de  surdos  -  modalidade  de  educação  escolar  que  promove  a  especificidade  linguística  e cultural dos educandos surdos, deficientes auditivos e surdocegos que optam pelo uso da Língua Brasileira de Sinais Libras, por meio de recursos e de serviços educacionais especializados, disponíveis em escolas bilíngues de surdos e em classes bilíngues de surdos nas escolas regulares inclusivas, a partir da adoção da Libras como primeira língua e como língua  de  instrução,  comunicação,  interação  e  ensino,  e  da  língua  portuguesa  na  modalidade  escrita  como  segunda língua;
+- II - educação bilíngue de surdos - modalidade de educação escolar que promove a especificidade linguística e cultural dos educandos surdos, deficientes auditivos e surdocegos que optam pelo uso da Língua Brasileira de Sinais - Libras, por meio de recursos e de serviços educacionais especializados, disponíveis em escolas bilíngues de surdos e em classes bilíngues de surdos nas escolas regulares inclusivas, a partir da adoção da Libras como primeira língua e como língua de instrução, comunicação, interação e ensino, e da língua portuguesa na modalidade escrita como segunda língua;
 
 - III  -  política  educacional  equitativa  -  conjunto  de  medidas  planejadas  e  implementadas  com  vistas  a  orientar  as práticas  necessárias  e  diferenciadas  para  que  todos  tenham  oportunidades  iguais  e  alcancem  os  seus  melhores resultados, de modo a valorizar ao máximo cada potencialidade, e eliminar ou minimizar as barreiras que possam obstruir a participação plena e efetiva do educando na sociedade;
 
