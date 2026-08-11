@@ -1,12 +1,20 @@
 [[START OF PAGE 1]]
 
-# S S Sc c ch h hé é ém m ma a a d d di i i r r re e ec c ct t te e eu u ur r r 2 2 20 0 01 1 10 0 0- - 2 2 20 0 01 1 19 9 9
+RÉPUBLIQUE DE DJIBOUTI
+Unité-Egalité-Paix
+Ministère de l'Education Nationale et de l'Enseignement Supérieur
+جمهورية جيبوتي
+وحدة - مساواة - سلام
+وزارة التربية الوطنية
+والتعليم العالي
+
+# Schéma directeur 2010-2019
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-# S S SC C CH H HE E E M M MA A A D D DI I I R R RE E E C C CT T T E E E U U UR R R 2 2 20 0 01 1 10 0 0- - - 2 2 20 0 01 1 19 9 9
+# SCHEMA DIRECTEUR 2010-2019
 
 du Ministère de l'Education Nationale et de l'Enseignement supérieur
 
@@ -32,6 +40,40 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 # Sommaire
 
+TABLE DES SIGLES 7
+1. PROFIL DU PAYS 9
+1.1. GENERALITES 9
+1.2. CADRE GENERAL ECONOMIQUE 9
+1.2.1. Cadre général 9
+1.2.2. Evolution de la croissance économique 10
+1.2.3. Rôle de l'éducation et de la formation dans l'économie 11
+1.3. STRUCTURES D'EDUCATION ET DE FORMATION 11
+2. DIAGNOSTIC DU SYSTEME EDUCATIF 13
+2.1. ORIENTATION STRATEGIQUE 1 : ACCES ET PARTICIPATION A L'EDUCATION 13
+2.1.1. Education préscolaire 13
+2.1.2. Enseignement fondamental 13
+2.1.3. Enseignement secondaire 14
+2.1.4. Enseignement et formation technique et professionnelle (EFTP) 14
+2.1.5. Enseignement supérieur 14
+2.1.6. Participation scolaire 15
+2.2. ORIENTATION STRATEGIQUE 2 : REDUCTION DES DISPARITES 15
+2.2.1. Réduction des disparités 15
+2.2.2. Education préscolaire 16
+2.2.3. Education inclusive 16
+2.2.4. Santé et de l'hygiène scolaire, 16
+2.3. ORIENTATION STRATEGIQUE 3: QUALITE 16
+2.3.1. Réforme des curricula de l'enseignement scolaire 17
+2.3.2. Manuels scolaires et politique du livre 17
+2.3.3. Réforme de l'enseignement et formation technique et professionnel 18
+2.3.4. Enseignement supérieur 18
+2.4. ORIENTATION STRATEGIQUE 4: DEVELOPPEMENT PROFESSIONNEL DES ENSEIGNANTS 18
+2.4.1. Formation initiale 18
+2.4.2. Formation continue 18
+2.5. ORIENTATION STRATEGIQUE 5: CAPACITES DE GESTION ET DE PILOTAGE DU SYSTEME 19
+2.6. ORIENTATION 6 : MAITRISER ET RATIONNALISER LES COUTS 19
+2.6.1. Evolution du financement 19
+2.6.2. Structure des dépenses publiques d'éducation 20
+
 Schéma Directeur 2010-2019
 
 Page 5
@@ -41,6 +83,28 @@ Page 5
 [[START OF PAGE 6]]
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
+
+3. OPTIONS EN MATIERE DE POLITIQUE D'EDUCATION (2010-2019) 21
+3.1. MISSIONS DU MINISTERE 21
+3.2. DISPOSITIONS REGLEMENTAIRES ET ANCRAGE DE LA POLITIQUE EDUCATIVE 21
+3.3. ENJEUX 22
+3.4. TABLEAU DE SYNTHESE DES ORIENTATIONS STRATEGIQUES 23
+3.5. PRIORITES ET OBJECTIFS DU SCHEMA DIRECTEUR 24
+3.6. OBJECTIFS ET STRATEGIES DE MISE EN ŒUVRE DES ORIENTATIONS STRATEGIQUES 26
+3.6.1. Orientation stratégique 1: Améliorer la qualité et la pertinence des enseignements et des apprentissages 26
+3.6.2. Orientation stratégique 2: Renforcer l'accès et la participation à l'Education 30
+3.6.3. Orientation stratégique 3: Réduire les disparités de scolarisation et de formation 32
+3.6.4. Orientation stratégique 4: Renforcer l'efficacité de l'enseignement supérieur pour la réalisation du transfert qualitatif souhaité 34
+3.6.5. Orientation stratégique 5: Ajuster la structure, la vision et les contenus de formation de l'EFTP 36
+3.6.6. Orientation stratégique 6: Améliorer l'efficacité et l'efficience de la gouvernance, du pilotage de l'éducation et de gestion des ressources 37
+4. SUIVI EVALUATION 41
+4.1. LE DISPOSITIF INSTITUTIONNEL DE SUIVI ET DE PILOTAGE 41
+4.2. LE SYSTÈME D'INFORMATION 41
+4.3. LA DIMENSION PARTICIPATIVE ET LA COMMUNICATION 41
+5. RISQUES 42
+6. INDICATEURS STRATEGIQUES DE LA STRATEGIE 43
+6.1. MATRICE DES INDICATEURS DE CONTEXTE 43
+6.2. MATRICE DES INDICATEURS DE RESULTATS PAR PROGRAMMES 46
 
 Schéma Directeur 2010-2019
 
@@ -52,7 +116,47 @@ Page 6
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-# T T T a a a b b b l l l e e e d d d e e e s s s s s s i i i g g g l l l e e e s s s
+# Table des sigles
+
+APC Approche par les compétences
+APE Association de Parents d'Elèves
+BAC Baccalauréat. Diplôme de fin d'études secondaire
+BAC PRO Baccalauréat professionnel.
+BEF Brevet de l'Enseignement Fondamental
+BEP Brevet d'Etudes Professionnelles
+CFPEN Centre de Formation des Personnels de l'Education Nationale
+CGE Comités de Gestion des Etablissements scolaires
+CP Conseiller pédagogique
+CPE Conseiller principal d'éducation
+CRE Comités Régionaux de l'Education
+CRIPEN Centre de Recherche, d'Information et de Production de l'Education nationale
+CSE Comité Supérieur de l'Education
+DPI Direction de la planification -MENESUP
+DSRP Document de stratégie de réduction de la pauvreté
+EABS Enfants ayants des besoins spéciaux
+EFTP Enseignement & Formation Technique et professionnel
+FDJ Franc Djibouti
+GPE Groupe des Partenaires de l'Education
+IEN Inspecteurs de l'éducation nationale
+IENEMS Inspecteurs de l'enseignement moyen et secondaire
+INDS Initiative Nationale de Développement Sociale
+LFI Loi de finance initiale
+LFR Loi de finance rectificative
+MENESUP Ministère de l'Education Nationale et de l'Enseignement Supérieur
+MEFPP Ministère de l'Economie, des Finances et de la Planification, chargé de la Privatisation
+MPFBEF Ministère délégué, chargé de la Promotion de la Femme, du Bien-Etre familial et des affaires sociales
+MS Ministère de la Santé
+ODM Objectifs du Millénaire
+PAE Plan d'action de l'éducation
+PIB Produit Intérieur Brut
+PIC Pôle Information Communication
+PUD Pôle Universitaire de Djibouti
+SPU Scolarisation Primaire Universelle
+TBA Taux brut d'admission
+TBS Taux brut de scolarisation
+TNA Taux net d'admission
+TNS Taux net de scolarisation
+US$ Dollar des Etats-Unis d'Amérique
 
 Schéma Directeur 2010-2019
 
@@ -74,17 +178,17 @@ Page 8
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-# 1 1. . P PR RO OF FI IL L    D DU U    P PA AY YS S
+# 1. PROFIL DU PAYS
 
-## 1 1. .1 1. . G Gé én né ér ra al li it té és s
+## 1.1.Généralités
 
 1. Indépendante depuis le 27 juin 1977, la République de Djibouti est située au sud de la Mer Rouge et du Golfe d'Aden. Elle est limitée au nord-ouest par l'Erythrée, à l'ouest et au Sud par l'Ethiopie et au sud- est par la Somalie. Sa situation, sur la corne de l'Afrique, au débouché de la Mer Rouge et du Golfe d'Aden (entre Suez et l'Extrême-Orient), lui donne une position carrefour important de communication dans la corne de l'Afrique, l'Europe et  l'Asie et source de revenu pour le pays. Le pays est divisé, depuis 2005, en six régions subdivisées en circonscriptions administratives. 2. Le  relief  du  pays  est  marqué  par  son  origine  volcanique  avec  d'énormes  failles  au  milieu  desquelles  se trouvent  des  plaines  effondrées  et  des  chaînes  basaltiques.  Le  climat  est  de  type  semi-désertique.  Les températures sont très élevées, à l'exception des régions montagneuses et côtières. L'année est partagée en deux saisons : une saison relativement fraîche d'octobre à avril (la moyenne des températures étant de 25°) et une saison chaude de mai à septembre (la moyenne des températures étant de 37° avec des pointes de plus de 45°). Les précipitations sont faibles (moyenne annuelle inférieure à 180mm) et irrégulières. Les zones situées  en  altitude  bénéficient,  toutefois,  d'une  pluviométrie  plus  élevée  avec  des  précipitations  annuelles atteignant en moyenne 3000 mm. 3. La  population  Djiboutienne  est  estimée  entre  700  milles  et  800  milles  habitants,  selon  les  sources.  La capitale, Djibouti-ville et sa banlieue abritent environ 65% de la population Djiboutienne. Les habitants des chefs lieux et des agglomérations secondaires des régions représentent environ 20%. La population rurale est estimée à 15% du total. 4. Les  approximations  sur  la  population  et  la  qualité  des  données  selon  les  sources  représentent  un  défi critique pour la planification du développement économique et social du pays. Conscientes de l'importance d'une base démographique fiable, les Autorités nationales ont lancé en juin 2009 un recensement général de la population dont les résultats sont attendus courant 2010.
 
-## 1 1. .2 2. . C Ca ad dr re e   g gé én né ér ra al l   é éc co on no om mi iq qu ue e
+## 1.2.Cadre général économique
 
 ### 1.2.1. Cadre général
 
-5. Pays aux  ressources naturelles faibles, la République de Djibouti a une économie centrée principalement sur le secteur des services qui compte pour 80% du Produit Intérieur Brut (PNB) et 80% des emplois. Les secteurs primaire et industriel peu développés, représentent respectivement 5 % et 15 % du PIB. 6. Le  secteur  des  services  est  principalement  axé  sur  les  activités  portuaires,  les  connexions  routières  et ferroviaires  ainsi  que  les  activités  bancaires.  La  part  de  l'administration  publique  dans  la  valeur  ajoutée représente 27% et les transports et télécommunications 18%. Avec des terres peu fertiles (moins de 0,3% des 23 000 km2 sont arables) et une faible  pluviométrie,  l'agriculture  joue  un  rôle  restreint.  Le  secteur  de  la pêche, ressource au potentiel important, demeure inexploité par manque de demande intérieure et du fait de politiques de prix et de travail non concurrentielles. 7. Le Gouvernement a entrepris, depuis 1999, d'importantes réformes structurelles axées sur le développement de la place commerciale de Djibouti, l'amélioration de l'environnement global du marché du travail  et  la  mobilisation  des  investissements  directs  en  République  de  Djibouti.  Les  efforts  entrepris  ont considérablement améliorées les perspectives économiques de Djibouti comme en témoignent le développement  de  l'investissement  privé  intérieur  ou  la  montée  en  puissance  des  investissements  directs étrangers (IDE) dont la part dans le PIB  est passé de 6% du PIB en moyenne dans les années 1990 pour atteindre  en  2008  environ  42  %  du  PIB.    L'envolée  des  IDE  s'explique  par  le  choix  des  autorités  d'une diversification du partenariat et par la mise  en valeur du  potentiel géostratégique.
+5. Pays aux ressources naturelles faibles, la République de Djibouti a une économie centrée principalement sur le secteur des services qui compte pour 80% du Produit Intérieur Brut (PNB) et 80% des emplois. Les secteurs primaire et industriel peu développés, représentent respectivement 5 % et 15 % du PIB. 6. Le secteur des services est principalement axé sur les activités portuaires, les connexions routières et ferroviaires ainsi que les activités bancaires. La part de l'administration publique dans la valeur ajoutée représente 27% et les transports et télécommunications 18%. Avec des terres peu fertiles (moins de 0,3% des 23 000 km2 sont arables) et une faible pluviométrie, l'agriculture joue un rôle restreint. Le secteur de la pêche, ressource au potentiel important, demeure inexploité par manque de demande intérieure et du fait de politiques de prix et de travail non concurrentielles. 7. Le Gouvernement a entrepris, depuis 1999, d'importantes réformes structurelles axées sur le développement de la place commerciale de Djibouti, l'amélioration de l'environnement global du marché du travail et la mobilisation des investissements directs en République de Djibouti. Les efforts entrepris ont
 
 Schéma Directeur 2010-2019 Page 9
 
@@ -94,27 +198,25 @@ Schéma Directeur 2010-2019 Page 9
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-- Les  stratégies  de  recherche  d'une  croissance  économique  forte  et  équitable,  associée  à  un  haut  niveau d'emploi ne négligent pas la recherche et la mobilisation des nouvelles sources de croissance que sont la pêche, le tourisme, l'agriculture, l'élevage et les ressources minières. C'est dans cette vision que le Chef de l'Etat  a  lancé  en  janvier  2007,  l'Initiative  Nationale  pour  le  Développement  Social  (INDS)  dont  l'objectif central est la lutte contre la pauvreté.
+considérablement améliorées les perspectives économiques de Djibouti comme en témoignent le développement de l'investissement privé intérieur ou la montée en puissance des investissements directs étrangers (IDE) dont la part dans le PIB est passé de 6% du PIB en moyenne dans les années 1990 pour atteindre en 2008 environ 42 % du PIB. L'envolée des IDE s'explique par le choix des autorités d'une diversification du partenariat et par la mise en valeur du potentiel géostratégique.
 
-- L'INDS met l'accent sur la nécessité de mettre en œuvre un développement durable et solidaire. Il repose sur une vision de long terme qui vise le développement de tous les atouts du pays au premier rang duquel le capital  humain.  Conscient  du  fait  que  la  valorisation  des  ressources  humaines  est  un  investissement essentiel pour maintenir sur le long terme la compétitivité de la place de Djibouti, assurer le développement des potentiels agricoles, halieutiques et industriels et participer à l'amélioration des conditions de vie de la population Djiboutienne, la valorisation du capital humain constitue pour Djibouti un enjeu stratégique des politiques sociales et économiques du pays. C'est ainsi que le Gouvernement a lancé en 1999 une ambitieuse politique de développement du système d'éducation et de formation.
+8. Les stratégies de recherche d'une croissance économique forte et équitable, associée à un haut niveau d'emploi ne négligent pas la recherche et la mobilisation des nouvelles sources de croissance que sont la pêche, le tourisme, l'agriculture, l'élevage et les ressources minières. C'est dans cette vision que le Chef de l'Etat a lancé en janvier 2007, l'Initiative Nationale pour le Développement Social (INDS) dont l'objectif central est la lutte contre la pauvreté.
+
+9. L'INDS met l'accent sur la nécessité de mettre en œuvre un développement durable et solidaire. Il repose sur une vision de long terme qui vise le développement de tous les atouts du pays au premier rang duquel le capital humain. Conscient du fait que la valorisation des ressources humaines est un investissement essentiel pour maintenir sur le long terme la compétitivité de la place de Djibouti, assurer le développement des potentiels agricoles, halieutiques et industriels et participer à l'amélioration des conditions de vie de la population Djiboutienne, la valorisation du capital humain constitue pour Djibouti un enjeu stratégique des politiques sociales et économiques du pays. C'est ainsi que le Gouvernement a lancé en 1999 une ambitieuse politique de développement du système d'éducation et de formation.
 
 ### 1.2.2. Evolution de la croissance économique
 
-- Afin  de  soutenir  une  croissance  économique  diversifiée  et  rapide,  le  Gouvernement  s'est  engagé  à maintenir un cadre macroéconomique stable et viable. Pour cela, il a conclu avec le FMI le 17  septembre 2008 une seconde  Facilité de Réduction de la Pauvreté et la Croissance (F.R.P.C.) pour appuyer les efforts du gouvernement visant à :
+10. Afin de soutenir une croissance économique diversifiée et rapide, le Gouvernement s'est engagé à maintenir un cadre macroéconomique stable et viable. Pour cela, il a conclu avec le FMI le 17 septembre 2008 une seconde Facilité de Réduction de la Pauvreté et la Croissance (F.R.P.C.) pour appuyer les efforts du gouvernement visant à :
 
 - orienter l'économie sur une trajectoire de croissance durable afin de réduire le chômage, atténuer la pauvreté et améliorer les indicateurs sociaux du pays;
-
 - maintenir la stabilité financière intérieure, notamment en maîtrisant l'inflation qui pénalise surtout les populations les plus vulnérables ;
-
 - améliorer la position extérieure afin de la rendre plus viable sur le moyen terme en renforçant la compétitivité de l'économie et en maintenant une gestion prudente de l'endettement extérieur;
-
 - améliorer la gestion des finances publiques et la transparence ;
+- et hiérarchiser les dépenses afin de dégager des ressources complémentaires pour financer des programmes de lutte contre la pauvreté et en premier lieu le programme d'accès à l'éducation et à la formation.
 
-- et  hiérarchiser  les  dépenses  afin  de  dégager  des  ressources  complémentaires  pour  financer  des programmes de lutte contre la pauvreté et en premier lieu le programme d'accès à l'éducation et à la formation.
+11. En outre, Djibouti a également conclu un accord pour rééchelonner ses obligations au titre de la dette envers les créanciers du Club de Paris et apurer ses arriérés extérieurs en octobre 2008.
 
-- En  outre,  Djibouti  a  également  conclu  un accord pour rééchelonner ses obligations au titre de la dette envers les créanciers du Club de Paris et apurer ses arriérés extérieurs en octobre 2008.
-
-- La figure ci-contre illustre l'évolution du PIB entre les années 1990 et 2007. Elle montre, Sur la base du PIB en monnaie courante, on observe une  augmentation  globale  sur  l'ensemble  de  la période avec un PIB passant de 80,4 milliards de Francs  Djiboutiens    (FDJ)  en  1990  à  150,7 milliards de FDJ en 2007.
+12. La figure ci-contre illustre l'évolution du PIB entre les années 1990 et 2007. Elle montre, Sur la base du PIB en monnaie courante, on observe une augmentation globale sur l'ensemble de la période avec un PIB passant de 80,4 milliards de Francs Djiboutiens (FDJ) en 1990 à 150,7 milliards de FDJ en 2007.
 
 Figure 1.1 : Evolution du PIB entre 1990 et 2007
 
@@ -196,7 +298,7 @@ collectifs, dont l'éducation.
 
 14. Le rôle déterminant de la formation et de l'éducation dans le processus de développement fait l'objet d'un consensus de la communauté internationale quand bien même sa contribution à la formation du Produit Intérieur Brut n'apparaît pas dans les agrégats économiques. Il existe des faisceaux empiriques convergents démontrant  que  l'éducation  est  indispensable  à  la  croissance  et  au  développement  humain.  L'impact  de l'éducation se manifesté dans une dimension sociale et dans une dimension économique. 15. Concernant la dimension sociale, les études de comparaisons internationales montrent clairement le rôle positif  de  l'enseignement  en  termes  impact  positif  sur  la  santé  des  personnes,  de  construction  de  la citoyenneté,  de  réduction  l'incidence  de  la  pauvreté.  Concernant  la  dimension  économique,  l'impact  de l'éducation  se  lit  sur  deux  niveaux.  D'abord,  en  mettant    l'accent  sur  la  vocation  professionnalisant  de l'éducation,  on  observe  que  l'éducation  rend  les  individus  plus  efficaces,  à  l'intérieur  d'une  structure productive donnée et que ceci justifie que l'on augmente sans cesse les niveaux scolaires.  Ensuite, on note que  l'éducation  transforme  la  structure  productive  en  étant  une  source  de  progrès  technique  et  de croissance. Dans ce second cas, l'éducation serait davantage conçue comme facteur de développement des capacités individuelles d'adaptation au changement et à l'innovation. 16. Dans  cet  esprit  et  dans  un  contexte  local  et  mondial  marqué  par  des  transformations  profondes  du système  économique  et  social  et  par  des  contraintes  d'adaptation  de  plus  en  plus  fortes  dans  un environnement  concurrentiel  en  perpétuel  changement,  l'éducation  est  plus  que  jamais  nécessaire  aux individus  comme  aux  nations.  C'est  pourquoi  le  Gouvernement  a  placé  au  cœur  de  l'INDS  et  plus généralement de ses politiques de développement économique la valorisation du capital humain.
 
-## 1 1. .3 3. . S St tr ru uc ct tu ur re es s   d d' 'é éd du uc ca at ti io on n   e et t   d de e f fo or rm ma at ti io on n
+## 1.3.Structures d'éducation et de formation
 
 17. Le système éducatif djiboutien est constitué de l'ensemble des instances d'initiative et de recherche, des structures  de  planification,  de  production  et  de  gestion  ainsi  que  des  établissements  et  circonscriptions d'enseignement et de formation œuvrant à la transmission des savoirs, des savoir-faire et des savoirs être. 18. Il repose, essentiellement, sur un cadre scolaire et universitaire constitué de cinq ordres d'éducation et de formation : l'éducation préscolaire, l'enseignement fondamental, l'enseignement secondaire, l'enseignement  et  la  formation  technique  et  professionnel  et  l'enseignement  supérieur  et  la  recherche.  La scolarisation est obligatoire pour les jeunes de 6-16 ans.
 
@@ -210,6 +312,56 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 Figure 1.2 : Architecture actuel du système éducatif
 
+Enseignement fondamental
+Enseignement de base
+Préscolaire
+PS 1
+PS 2
+Facultatif
+Primaire
+1ère année
+2ème année
+3ème année
+4ème année
+5ème année
+TEST
+ORIENTATION
+Moyen
+Filière générale
+6ème année
+7ème année
+8ème année
+9ème année
+BEF
+Filière professionnelle
+6ème année
+7ème année
+8ème année
+9ème année
+CAP
+ORIENTATION
+Secondaire général
+Secondaire Général et technologique
+2nde
+1ère
+Term
+BAC
+Bac Pro
+Bac pro 1
+Bac pro 2
+BAC
+BEP
+BEP2
+BEP1
+BEP
+Secondaire EFTP
+Enseignement supérieur
+Segment d'enseignement obligatoire
+Vie active
+Orientation principale
+Orientation secondaire
+Orientation vie active
+
 Schéma Directeur 2010-2019
 
 Page 12
@@ -220,13 +372,13 @@ Page 12
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-# 2 2. . D DI IA AG GN NO OS ST TI IC C   D DU U   S SY YS ST TE EM ME E   E ED DU UC CA AT TI IF F
+# 2. DIAGNOSTIC DU SYSTEME EDUCATIF
 
 19. Un diagnostic approfondi du système éducatif, portant à la fois sur tous les niveaux d'éducation mais également sur les structures administratives afin d'apprécier leurs capacités de gestion et de pilotage, a été réalisé pour d'une part évaluer le niveau d'achèvement des objectifs du Schéma Directeur 2000-2010 issu des Etats Généraux de l'Education de décembre 1999 et d'autre part, d'identifier les forces et faiblesses des stratégies de mise en œuvre des actions prioritaires de la politique éducative. 20. Pour  ce  faire,  le  Ministère  de  l'Education  Nationale  et  de  l'Enseignement  Supérieur  (MENESUP)  a privilégie deux approches complémentaires : des études techniques réalisées par le MENESUP sans ou sous la  direction  d'experts  internationaux  et  des  revues  participatives  impliquant,  à  côté  du  MENESUP,  les usagers et les Partenaires Techniques et Financiers (PTF). 21. Ainsi, au titre des études techniques, une analyse de l'état du système scolaire réalisée -le RESEN-, une analyse  économique  de  l'éducation,  des  tests  d'évaluation  des  performances  des  élèves  du  primaire,      un audit  organisationnel  et  une  évaluation  de  l'impact  de  la  mobilisation  sociale  ainsi  qu'une  série  de consultations sur l'état du sous secteur de l'enseignement et la formation technique et professionnel ont été réalisées. Au titre des revues participatives, le Ministère a réalisée dans toutes les régions et communes du
 
 pays des ateliers d'évaluation des réalisations et des stratégies de mise en œuvre des actions.
 
-## 2 2. .1 1. . O Or ri ie en nt ta at ti io on n   s st tr ra at té ég gi iq qu ue e   1 1   : :   A Ac cc cè ès s   e et t   p pa ar rt ti ic ci ip pa at ti io on n   à à   l l' ' é éd du uc ca at ti io on n
+## 2.1. Orientation stratégique 1 : Accès et participation à l'éducation
 
 ### 2.1.1. Education préscolaire
 
@@ -270,7 +422,7 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 31. En cohérence avec les recommandations des Etats Généraux de l'Education, le Gouvernement a créé, à la  rentrée  2000-2001,  un  pôle  d'enseignement  supérieur  en  partenariat  étroit  avec  des  Universités Françaises. Devenue une université de plein exercice en 2006, l'Université de Djibouti (UD) est constituée de quatre  unités  d'enseignement :  une  faculté  de  Droit,  Economie  et  Gestion,  une  faculté  de  Lettres,  de Langues et de Sciences Humaine, une faculté de Sciences et un Institut de Technologie  et d''une unité de recherche.
 
-32. Conformément  aux  évolutions  universitaires  mondiales,  l'UD  a  adopté  le  système  Licence-MasterDoctorat. Actuellement, l'UD dispense des enseignements généraux et professionnels de premier cycle. La mise  en  service  du  nouveau  campus  de  l'Université  de  Djibouti  en  2012  ou  2013  devrait  permettre  le démarrage des cursus du second cycle universitaire. Le nombre de boursiers devrait alors diminuer.
+32. Conformément aux évolutions universitaires mondiales, l'UD a adopté le système Licence-Master-Doctorat. Actuellement, l'UD dispense des enseignements généraux et professionnels de premier cycle. La mise en service du nouveau campus de l'Université de Djibouti en 2012 ou 2013 devrait permettre le démarrage des cursus du second cycle universitaire. Le nombre de boursiers devrait alors diminuer.
 
 33. En  2000-01,  le  nombre  total  d'étudiants  était  de  1315  dont  838  étudiants  à  l'étranger.  Ce  nombre s'établit en 2009-10 à 3 757 étudiants dont: 3650 étudiants à l'UD, 107 étudiants à l'Ecole de Médecine de Djibouti sous la du Ministère de la Santé et 765 étudiants à l'étranger. Sur la période, le nombre d'étudiants de l'Université de Djibouti  a été multiplié par un facteur 7. Tandis que le nombre d'étudiants à l'étranger s'est légèrement tassé.
 
@@ -292,22 +444,22 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 L'analyse de la rétention et des flux des élèves menée dans le cadre du RESEN, font ressortir des résultats globalement positifs. Le tableau, ci-dessous, adapté du RESEN offre une bonne  synthèse de l'évolution de la couverture quantitative globale et des flux d'élèves dans le système éducatif djiboutien entre 1990 et 2008. On y relève une rétention est globalement très bonne dans tous les cycles d'enseignement, généralement de l'ordre de 90 % et des taux de transition, entre le primaire et le moyen d'une part et entre le moyen et le secondaire de l'autre, qui vont croissant.
 
-Indicateur | 1990 | 2001 | 2005 | 2006
+Tableau 2.1 : Indicateurs de rétention intra-cycles et de transition inter-cycles, 1990-2006
+
+Indicateur |  | 1990 |  | 2001 |  | 2005 |  | 2006 | 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Accès en 1ère année du primaire | Base | 33,1% | 100 | 46,3% | 100 | 64,6% | 100 | 73,6% | 100
 Accès en dernière année du primaire | % Rétention Primaire | 26,7% | 81 | 40% | 86 | 55,8% | 86 | 69% | 94
-% Transition Primaire-Moyen | 49,3% | 65,9% | 86,2% | 87,5%
-Accès en 6 ème | Base | 13,2% | 100 | 26,3% | 100 | 43,8% | 100 | 60,4% | 100
+% Transition Primaire-Moyen |  | 49,3% |  | 65,9% |  | 86,2% |  | 87,5% | 
+Accès en 6ème | Base | 13,2% | 100 | 26,3% | 100 | 43,8% | 100 | 60,4% | 100
 Accès en dernière année du Moyen | % Rétention Moyen | 9,2% | 70 | 24,2% | 92 | 40% | 91 | 50% | 83
-% Transition Moyen-Secondaire | 38,2% | 56,3% | 55,1% | 76,7%
-Accès en 2 nde | Base | 3,5% | 100 | 13,6% | 100 | 22% | 100 | 38,30% | 100
+% Transition Moyen-Secondaire |  | 38,2% |  | 56,3% |  | 55,1% |  | 76,7% | 
+Accès en 2nde | Base | 3,5% | 100 | 13,6% | 100 | 22% | 100 | 38,30% | 100
 Accès en Terminale | % Rétention Secondaire | 3,2% | 92 | 12,5% | 92 | 22 % | 100 | 35,30% | 92
-
-Tableau 2.1 : Indicateurs de rétention intra-cycles et de transition inter-cycles, 1990-2006
 
 Sources RESEN- Djibouti & DPI MENESUP
 
-## 2 2. .2 2. . O Or ri ie en nt ta at ti io on n   s st tr ra at té ég gi iq qu ue e   2 2   : :   R Ré éd du uc ct ti io on n   d de es s   d di is sp pa ar ri it té és s
+## 2.2.Orientation stratégique 2 : Réduction des disparités
 
 36. Deux principes  majeurs  sous-tendent  cette  orientation,  ceux  d'équité  et  d'égalité  des  chances,  vise  la réduction des disparités pour favoriser la scolarisation et la rétention de l'ensemble des élèves Djiboutiens et plus particulièrement des filles notamment en zone rurale. Elle est articulée autour de trois axes principaux :
 
@@ -349,7 +501,7 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 42. Les  résultats  obtenus  sont  particulièrement  faibles.  Les  seules  actions  réalisées  sur  les  onze  prévues concernent le développement d'un cadre intersectoriel de promotion de la santé et de l'hygiène scolaire  et la réalisation de quelques activités à caractère ponctuelles de dépistages dans les écoles.
 
-## 2 2. .3 3. . O Or ri ie en nt ta at ti io on n   s st tr ra at té ég gi iq qu ue e   3 3: :   Q Qu ua al li it té é
+## 2.3.Orientation stratégique 3: Qualité
 
 43. Pour les citoyens, l'éducation et la formation se définit avant tout qualitativement. En effet, scolariser le plus grand nombre de jeunes n'a de sens que la scolarisation leur permet l'acquisition des connaissances et compétences utiles à leur autonomie. En ce sens, la qualité et la pertinence des apprentissages constituent un des enjeux centraux de la réforme dus système éducatif. C'est pourquoi, le schéma directeur 2000-2010 avait défini, pour traiter les enjeux de qualité, deux orientations stratégiques : l'orientation 3 et l'orientation 4 focalisant sur le développement professionnel des enseignants.
 
@@ -381,37 +533,37 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 #### Education préscolaire
 
-- En vue de garantir la qualité de l'éducation préscolaire marquée actuellement par l'absence de référentiel pédagogique, le Ministère a engagé dès 2006, un processus de développement de programmes d'éducation préscolaire  et  de  matériaux  pédagogiques.  Les  contenus  du  programme  et  les  matériels  spécifiques  sont rédigés et ont été expérimentés pour le niveau 1. Ils s'accompagnent d'un guide pédagogique d'accompagnement pour le maître. Ceux du niveau 2 sont en cours de finalisation. Ces programmes sont testés dans des écoles pilotes. La validation et la distribution des versions définitives devraient intervenir à court termes.
+46. En vue de garantir la qualité de l'éducation préscolaire marquée actuellement par l'absence de référentiel pédagogique, le Ministère a engagé dès 2006, un processus de développement de programmes d'éducation préscolaire et de matériaux pédagogiques. Les contenus du programme et les matériels spécifiques sont rédigés et ont été expérimentés pour le niveau 1. Ils s'accompagnent d'un guide pédagogique d'accompagnement pour le maître. Ceux du niveau 2 sont en cours de finalisation. Ces programmes sont testés dans des écoles pilotes. La validation et la distribution des versions définitives devraient intervenir à court termes.
 
 #### Enseignement Fondamental
 
-- Les curricula du cycle Primaire sont finalisés et utilisés dans les écoles et ceux du  cycle Moyen sont stabilisés  jusqu'à la 8ème année en accompagnement de l'écriture des manuels.  Les curricula de la 9ème année sont en cours de stabilisation.
+47. Les curricula du cycle Primaire sont finalisés et utilisés dans les écoles et ceux du cycle Moyen sont stabilisés jusqu'à la 8ème année en accompagnement de l'écriture des manuels. Les curricula de la 9ème année sont en cours de stabilisation.
 
 #### Enseignement secondaire
 
-- Après  l'enseignement  fondamental,  la  réforme  des  curricula  devra  toucher  le  secondaire.  La  phase préparatoire des travaux de réforme des curricula du secondaire a débutée en 2009. Une feuille de route a été adoptée en vue de la contextualisation des curricula du secondaire dont les premiers éléments devraient être expérimentés à la rentrée 2011.
+48. Après l'enseignement fondamental, la réforme des curricula devra toucher le secondaire. La phase préparatoire des travaux de réforme des curricula du secondaire a débutée en 2009. Une feuille de route a été adoptée en vue de la contextualisation des curricula du secondaire dont les premiers éléments devraient être expérimentés à la rentrée 2011.
 
 ### 2.3.2. Manuels scolaires et politique du livre
 
-- Les diverses évaluations réalisées ont relevé la tenue effective du plan éditorial prévu (par la conjonction de financements croisés)  et souligné  l'exemplarité  du dispositif mis en place à Djibouti qui aboutit à la production nationale de documents pédagogiques adaptés à l'APC (prix unitaire de revient inférieur à celui de manuels anciens coédités et réimprimés à l'achat) et les dispositions institutionnelles qui ont conduit à la naissance de l'entité autonome du CRIPEN.
+49. Les diverses évaluations réalisées ont relevé la tenue effective du plan éditorial prévu (par la conjonction de financements croisés) et souligné l'exemplarité du dispositif mis en place à Djibouti qui aboutit à la production nationale de documents pédagogiques adaptés à l'APC (prix unitaire de revient inférieur à celui de manuels anciens coédités et réimprimés à l'achat) et les dispositions institutionnelles qui ont conduit à la naissance de l'entité autonome du CRIPEN.
 
-- Les analyses ont également saluées le travail des « Groupes de Travail sur la Politique du Livre » mis en place dans les deux cycles de l'enseignement fondamental durant le second plan d'action du secteur. Pilotée par le CRIPEN, cette initiative a permis la formation d'animateurs et la sensibilisation aux pratiques actives de la lecture.
-
-- En  décembre  2009,  le  CRIPEN  a  abrité  deux  séminaires  interafricains  pour  partager  l'expérience  de Djibouti.  Le  premier  consacré  à  l'édition  scolaire  a  réuni  une  vingtaine  de  pays  africains  avec  l'appui  des partenaires au développement. Le second a été co-organisé avec l'UNESCO sur la question des réformes des curricula dans l'optique d'un passage d'un enseignement primaire de 5/6 ans à un enseignement de base de 8/9 ans.
-
-Rentrée scolaire | Primaire | Moyen | Total enseignement fondamental | Bilan
---- | --- | --- | --- | --- | --- | --- | ---
-Livres élève | Guides enseignant | Livres élève | Guides enseignant | Livres élève | Guides enseignant
-2006 | 3 | 10 | 0 | 0 | 3 | 10 | réalisé
-2007 | 4 | 10 | 4 | 7 | 8 | 17 | réalisé
-2008 8 | (a) | 12 | 5 | 9 | 13 | 21 | réalisé
-2009 3 | 5 | 6 | 9 | 9 | 14 | en cours
-2010 1 | 1 | 4 | 7 | 5 | 8
-Total | 19 | 38 | 19 | 32 | 38 | 70
+50. Les analyses ont également saluées le travail des « Groupes de Travail sur la Politique du Livre » mis en place dans les deux cycles de l'enseignement fondamental durant le second plan d'action du secteur. Pilotée par le CRIPEN, cette initiative a permis la formation d'animateurs et la sensibilisation aux pratiques actives de la lecture.
 
 Tableau 2.2: Plan d'édition actualisé du CRIPEN 2006/2010
 
+Rentrée scolaire | Primaire |  | Moyen |  | Total enseignement fondamental |  | Bilan
+--- | --- | --- | --- | --- | --- | --- | ---
+ | Livres élève | Guides enseignant | Livres élève | Guides enseignant | Livres élève | Guides enseignant | 
+2006 | 3 | 10 | 0 | 0 | 3 | 10 | réalisé
+2007 | 4 | 10 | 4 | 7 | 8 | 17 | réalisé
+2008 | 8(a) | 12 | 5 | 9 | 13 | 21 | réalisé
+2009 | 3 | 5 | 6 | 9 | 9 | 14 | en cours
+2010 | 1 | 1 | 4 | 7 | 5 | 8 | 
+Total | 19 | 38 | 19 | 32 | 38 | 70 | 
+
 (a) dont deux cahiers d'exercices de mathématiques - Source : CRIPEN
+
+51. En décembre 2009, le CRIPEN a abrité deux séminaires interafricains pour partager l'expérience de Djibouti. Le premier consacré à l'édition scolaire a réuni une vingtaine de pays africains avec l'appui des partenaires au développement. Le second a été co-organisé avec l'UNESCO sur la question des réformes des curricula dans l'optique d'un passage d'un enseignement primaire de 5/6 ans à un enseignement de base de 8/9 ans.
 
 Schéma Directeur 2010-2019
 
@@ -433,7 +585,7 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 54. Devenu Université de plein exercice, l'UD qui dispose d'une masse critique d'enseignants a développé ses maquettes de formation dans la plupart des enseignements de niveau licence offerts. Elle a établi, en outre, des  conventions  et  des  partenariats  avec  des  universités  étrangères  pour  développer,  avec  elles,  la concertation  et  l'échange  indispensable  au  renforcement  de  la  qualité  pédagogique  de  l'enseignement universitaire.
 
-## 2 2. .4 4. . O Or ri ie en nt ta at ti io on n   s st tr ra at té ég gi iq qu ue e   4 4: :   D Dé év ve el lo op pp pe em me en nt t   p pr ro of fe es ss si io on nn ne el l   d de es s   e en ns se ei ig gn na an nt ts s
+## 2.4.Orientation stratégique 4: Développement professionnel des enseignants
 
 55. Acteur  essentiel  de  la  réussite  des  élèves  le  développement  des  compétences,  le  renforcement  de  la motivation et du bien-être de l'enseignant constitue une préoccupation centrale la stratégie éducative et des actions du Gouvernement. Les efforts déployés en ce sens se sont concrétisés :
 
@@ -467,7 +619,7 @@ Page 18
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-## 2 2. .5 5. . O Or ri ie en nt ta at ti io on n   s st tr ra at té ég gi iq qu ue e   5 5: :   C Ca ap pa ac ci it té és s   d de e   g ge es st ti io on n   e et t   d de e   p pi il lo ot ta ag ge e   d du u   s sy ys st tè èm me e
+## 2.5. Orientation stratégique 5: Capacités de gestion et de pilotage du système
 
 61. La performance de gestion du système éducatif est évaluée par sa capacité :
 
@@ -481,7 +633,7 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 64. Ces constats  révèlent une désarticulation entre les ambitions politiques et les réalités opérationnelles observée au cours de la décennie écoulée pose la question de la pertinence des pratiques et de la culture managériales  au  regard  des  ambitions  et  des  besoins  de  la  réforme  du  secteur. En  effet, l'audit organisationnel mené en 2008 révèle que, malgré la réorganisation du MENESUP, les pratiques de gestions ont très  peu  évoluées,  demeurant  caractérisées  par  des  visions  et  des  procédures  d'action  axées, fondamentalement,  sur les ressources et les moyens, et rarement sur les résultats. Il contraste en outre le fonctionnement des services  privilégiant le cloisonnement et une mauvaise circulation de l'information avec la vision holistique, systémique et dynamique de la politique éducative.
 
-## 2 2. .6 6. . O Or ri ie en nt ta at ti io on n   6 6   : :   M Ma aî ît tr ri is se er r   e et t r ra at ti io on nn na al li is se er r l le es s c co oû ût ts s
+## 2.6.Orientation 6 : Maîtriser et rationnaliser les coûts
 
 ### 2.6.1. Evolution du financement
 
@@ -531,15 +683,15 @@ Page 20
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-# 3 3. . O OP PT TI IO ON NS S    E EN N    M MA AT TI IE ER RE E    D DE E    P PO OL LI IT TI IQ QU UE E    D D' 'E ED DU UC CA AT TI IO ON N ( (2 20 01 10 0- -2 20 01 19 9) )
+# 3. OPTIONS EN MATIERE DE POLITIQUE D'EDUCATION (2010-2019)
 
-## 3 3. .1 1. . M Mi is ss si io on ns s   d du u   M Mi in ni is st tè èr re e
+## 3.1.Missions du Ministère
 
 70. Le  Ministère  de  l'Education  Nationale  et  de  l'Enseignement  Supérieur  (MENESUP)  est  l'instance gouvernementale  chargée  des  services  éducatifs.  A  ce  titre,  il  exerce  ses  fonctions  dans  les  domaines  de l'éducation préscolaire, de l'enseignement fondamental, de l'enseignement secondaire, de l'enseignement et formation  techniques  et  professionnels  ainsi  que  de  l'enseignement  et  de  la  recherche  universitaires,  à l'exception d'enseignement ou de formation  relevant d'un autre ministère  en vue, notamment : · de contribuer, par le développement, le pilotage et le soutien de ces domaines, à l'élévation du niveau scientifique, culturel et professionnel de la population Djiboutienne; · de favoriser l'accès aux connaissances scientifiques, technologiques et/ou culturelles les plus élevées à tout citoyen qui en a la volonté et l'aptitude; · de contribuer à l'harmonisation de ses stratégies et leur mise en œuvre avec l'ensemble des politiques gouvernementales et avec les besoins économiques, sociaux et culturels. 71. Pour remplir ses missions, le Ministère dispose de structures centrales et décentralisées de gestion et de pilotage du système disposant des ressources humaines, matérielles et financières nécessaires. Il bénéficie, par  ailleurs,  de la  collaboration  des  autres  Ministères  et  organismes  gouvernementaux,  de  l'appui  de
 
 partenaires techniques et financiers, du concours des instances intersectorielles ou consultatives 2 .
 
-## 3 3. .2 2. . D Di is sp po os si it ti io on ns s r ré ég gl le em me en nt ta ai ir re es s   e et t a an nc cr ra ag ge e   d de e l la a   p po ol li it ti iq qu ue e é éd du uc ca at ti iv ve e
+## 3.2.Dispositions réglementaires et ancrage de la politique éducative
 
 72. Le droit à l'éducation et à la formation est un droit reconnu par la Loi portant Orientation du Système éducatif en conformité avec la Convention Internationale sur les Droits des enfants, à chaque Djiboutienne et Djiboutien sans distinction d'âge, de sexe, d'origine sociale ethnique ou religieuse. L'Etat garantit l'éducation aux  enfants  de  6  à  16  ans  et  la  gratuité    de  l'école  primaire.  La  Loi  stipule,  par  ailleurs,  que  l'intérêt supérieur  de  l'enfant  doit  être  une  considération  majeure  dans  toutes  les  mesures  d'éducation  et  de formation. 73. Partant  des  conclusions  des  analyses  diagnostiques  du  secteur,  des  recommandations  des  revues participatives  et  des  politiques  de  développement  social  et  économique  du  Gouvernement,  le  Schéma Directeur  2010-2019  présente  les  choix  majeurs  et  les  stratégies  et  moyens  essentiels  que  le  Ministère entend déployer pour  remplir efficacement ses missions. 74. Ces  orientations  sont  articulées  autour  des  trois  dimensions  de  l'enjeu  de  qualité :  (i)  la  qualité  de l'éducation scolaire au premier rang de laquelle l'enseignement fondamental, socle du système éducatif, (ii) la qualité  et  la  pertinence  de  l'enseignement  universitaire  et  de  l'EFTP,  et,  (iii)  la  qualité  de  la  prestation  de services  tant  au  niveau  central,  qu'au  niveau  régional  et  au    niveau  des  établissements  scolaire.  Elles constituent la référence  des plans opérationnels à court termes qui seront développés par la suite. 75. Composante  stratégique  de  la  politique  d'éducation  et  de  formation  de  Djibouti  pour  la  prochaine décennie, le sous-secteur de l'enseignement et de la formation techniques et professionnels (EFTP) fera l'objet d'un schéma directeur spécifique.
 
@@ -555,31 +707,37 @@ Schéma Directeur 2010-2019 Page 21
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-## 3 3. .3 3. . E En nj je eu ux x
+## 3.3.Enjeux
 
 76. Suite à la tenue des assises nationales de l'éducation en décembre 1999, le Gouvernement djiboutien a engagé  une  ambitieuse  réforme  de  renouvellement  de  l'Ecole    Djiboutienne.  Au  cours  des  dix  dernières années,  la  scolarisation  des  jeunes  Djiboutiens  et les  exigences  des  programmes  d'études  ont  été progressivement  augmentées.  Des  ressources  supplémentaires  ont  été  consenties  pour  des  interventions précoces auprès des jeunes et pour le soutien aux milieux défavorisés. Les parents et la communauté ont été davantage associés au succès des jeunes et les services complémentaires ont été revus en profondeur. De nouvelles  orientations  en  matière  de  formation  des  maîtres  ainsi  qu'un  référentiel  de  compétences relativement  à  cette  profession  ont  été  publiés  afin  de  guider  les  universités  dans  la  révision  de  leurs programmes de formation en enseignement et de tenir compte des impératifs de la réforme.
 
 77. Si  nous  pouvons  nous  réjouir  des  progrès  réalisés  durant  les  dix  dernières  années,  il  faut  constater, cependant, que le pari d'une Ecole inclusive citoyenne, efficace, pilier du  développement socio-économique de notre pays n'est pas encore gagné.
 
-- Des  efforts  additionnels  doivent  être  consentis  pour  améliorer  la  qualité  et  de  la  pertinence  de  notre système  d'éducation  et  de  formation  pour  réaliser  les  objectifs  stratégiques  du  secteur  qui  consistent à relever,  à  la  fois,  les  défis  de  scolarisation  fondamentale  universelle,  de  consolidation  de  la  qualité pédagogique du système universitaire et sa pertinence au regard des évolutions du contexte économique et d'amélioration des performances de la gestion du secteur.
+78. Des efforts additionnels doivent être consentis pour améliorer la qualité et de la pertinence de notre système d'éducation et de formation pour réaliser les objectifs stratégiques du secteur qui consistent à relever, à la fois, les défis de scolarisation fondamentale universelle, de consolidation de la qualité pédagogique du système universitaire et sa pertinence au regard des évolutions du contexte économique et d'amélioration des performances de la gestion du secteur.
 
-- L'impératif de réussite individuelle et sociale des élèves et étudiants nécessite, pour chaque  niveau  d'étude  ou  de  formation,  le déploiement  d'un  environnement  éducatif  et de  prestations  de  services  aptes  à  répondre de  manière  efficace  et  efficiente  aux  besoins éducatifs  personnels  des  élèves  et  étudiants et  aux  attentes  sociales  et  économiques  des Djiboutiens.
-
-- L'enjeu  de  qualité  étant  constitué  d'un ensemble d'éléments en interaction dynamique  structurés  en  fonction  d'un  but,
+79. L'impératif de réussite individuelle et sociale des élèves et étudiants nécessite, pour chaque niveau d'étude ou de formation, le déploiement d'un environnement éducatif et de prestations de services aptes à répondre de manière efficace et efficiente aux besoins éducatifs personnels des élèves et étudiants et aux attentes sociales et économiques des Djiboutiens.
 
 Figure 3.1: Dimensions de l'enjeu
 
-le  défi consiste à renouveler les approches unifactorielles basées sur des interventions ciblées et juxtaposées au profit d'une vision holistique et systémique concevant les interventions comme un tout en  interaction, non réductible à leur somme, simultanément non-isolées sur le plan relationnelle quoique clos sur une cible sur le plan opérationnel.
+Qualité de l'environnement scolaire et universitaire
+Qualité de situations d'enseignement et de formation
+Réussite des élèves et des étudiants
+Qualité de la gestion, du pilotage et du suivi-évaluation
+Qualité de l'encadrement des élèves /étudiants
+
+80. L'enjeu de qualité étant constitué d'un ensemble d'éléments en interaction dynamique structurés en fonction d'un but, le défi consiste à renouveler les approches unifactorielles basées sur des interventions ciblées et juxtaposées au profit d'une vision holistique et systémique concevant les interventions comme un tout en interaction, non réductible à leur somme, simultanément non-isolées sur le plan relationnelle quoique clos sur une cible sur le plan opérationnel.
 
 Figure 3.2: interaction des dimensions de l'enjeu de qualité
 
-- Gagner le challenge de la qualité nécessite que cet enjeu soit clair, sans équivoque et  mobilise tous les acteurs de l'éducation:
+Un environnement éducatif adapté aux besoins des personnes
+Une prestation des services et un pilotage de qualité
+Un système d'éducation et de formation répondant aux besoins des personnes et de la Nation
 
-- les personnels de l'éducation dans leur mission fondamentale de transmission de savoir,  de  valeurs    et  de  compétences,  car  la réussite scolaire et la qualification des jeunes se construit au quotidien dans les établissements;
+81. Gagner le challenge de la qualité nécessite que cet enjeu soit clair, sans équivoque et mobilise tous les acteurs de l'éducation:
 
-- les  parents,  premier  acteur  de  la  réussite  de leurs enfants;
-
-- les services centraux et régionaux pour permettre au réseau scolaire, universitaire et de formation  de faire face aux enjeux d'efficacité et de pertinence des enseignements et des formations offerts.
+- les personnels de l'éducation dans leur mission fondamentale de transmission de savoir, de valeurs et de compétences, car la réussite scolaire et la qualification des jeunes se construit au quotidien dans les établissements;
+- les parents, premier acteur de la réussite de leurs enfants;
+- les services centraux et régionaux pour permettre au réseau scolaire, universitaire et de formation de faire face aux enjeux d'efficacité et de pertinence des enseignements et des formations offerts.
 
 Schéma Directeur 2010-2019
 
@@ -591,29 +749,30 @@ Page 22
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-- Pour répondre à l'enjeu de qualité et de pertinence du système d'éducation et de formation, les options stratégiques  de  la  politique  éducative  2010-2019  sont  reposent  sur  trois  grands  chantiers  énoncés  en orientations et axes d'intervention prioritaire intégrant toutes les dimensions de l'enjeu.
+82. Pour répondre à l'enjeu de qualité et de pertinence du système d'éducation et de formation, les options stratégiques de la politique éducative 2010-2019 sont reposent sur trois grands chantiers énoncés en orientations et axes d'intervention prioritaire intégrant toutes les dimensions de l'enjeu.
 
-## 3 3. .4 4. . T Ta ab bl le ea au u   d de e   s sy yn nt th hè ès se e   d de es s   o or ri ie en nt ta at ti io on ns s   s st tr ra at té ég gi iq qu ue es s
+## 3.4.Tableau de synthèse des orientations stratégiques
 
-Options en matière de politique éducative: Enjeux et orientations stratégiques Tableau de synthèse
+Options en matière de politique éducative: Enjeux et orientations stratégiques
+Tableau de synthèse
 
 Orientation stratégique | N° | Axes d'intervention prioritaire | Sous secteurs cibles
 --- | --- | --- | ---
-Enjeu : Un enseignement scolaire citoyen, inclusif et de qualité centré sur la réussite des élèves
+Enjeu : Un enseignement scolaire citoyen, inclusif et de qualité centré sur la réussite des élèves |  |  | 
 Améliorer la qualité et la pertinence des enseignements et des apprentissages | OS1 | OS1-A1- Mise à jour périodique des curricula et définition des savoirs et compétences minimaux garantis pour tout élèves du fondamental. | Préscolaire, Fondamental & Secondaire
-OS1-A2 -Développement professionnel du personnel d'éducation | Préscolaire, Fondamental et Secondaire
-OS1-A3 - Renforcement de la qualité de l'environnement et de la vie scolaire pour conserver des conditions favorables à l'apprentissage | Fondamental & Secondaire
-OS1-A4 -Développement de l'évaluation en tant que support à l'apprentissage | Fondamental
-OS1-A5 -Développement de l'accès aux technologies de l'information et de la communication comme connaissance à acquérir et en leur qualité de supports d'apprentissage et de source riche en informations et en savoirs | Fondamental : primaire (+/-) moyen(+) Secondaire (++)
-OS1-A6 -Développement de l'éducation préscolaire conformément aux principes de qualité et d'équité en collaboration avec le secteur privé et le tissu associatif | Education Préscolaire
-Renforcer l'accès et la participation à l'Education | OS2 | OS2-A1 - Scolarisation primaire universelle d'ici l'horizon 2015 | Fondamental primaire
-OS2-A2 - Définition et mise en œuvre de mesures de carte scolaire d'enseignement | Préscolaire, Fondamental & Secondaire
-OS2-A3 - Amélioration du rendement interne de l'éducation | Fondamental et Secondaire
-OS2-A4- Développement progressif de l'offre d'éducation préscolaire | Préscolaire
-OS2-A5 - Développement et normalisation de l'enseignement privé | Enseignement privé
-Réduire les disparités de scolarisation et de formation | OS3 | OS3-A1 -Education inclusive pour l'élimination des disparités d'accès et de participation à l'éducation | Préscolaire, Fondamental et Secondaire
-OS3-A2 - Développement de services de santé scolaire et universitaire | Préscolaire, Fondamental et Secondaire
-OS1-A3- Stimulation du partenariat entre les familles et des associations de parents d'élèves et les établissements scolaires | Fondamental et Secondaire
+ |  | OS1-A2-Développement professionnel du personnel d'éducation | Préscolaire, Fondamental et Secondaire
+ |  | OS1-A3- Renforcement de la qualité de l'environnement et de la vie scolaire pour conserver des conditions favorables à l'apprentissage | Fondamental & Secondaire
+ |  | OS1-A4-Développement de l'évaluation en tant que support à l'apprentissage | Fondamental
+ |  | OS1-A5-Développement de l'accès aux technologies de l'information et de la communication comme connaissance à acquérir et en leur qualité de supports d'apprentissage et de source riche en informations et en savoirs | Fondamental : primaire (+/-) moyen(+) Secondaire (++)
+ |  | OS1-A6-Développement de l'éducation préscolaire conformément aux principes de qualité et d'équité en collaboration avec le secteur privé et le tissu associatif | Education Préscolaire
+Renforcer l'accès et la participation à l'Education | OS2 | OS2-A1- Scolarisation primaire universelle d'ici l'horizon 2015 | Fondamental primaire
+ |  | OS2-A2- Définition et mise en œuvre de mesures de carte scolaire d'enseignement | Préscolaire, Fondamental & Secondaire
+ |  | OS2-A3- Amélioration du rendement interne de l'éducation | Fondamental et Secondaire
+ |  | OS2-A4- Développement progressif de l'offre d'éducation préscolaire | Préscolaire
+ |  | OS2-A5- Développement et normalisation de l'enseignement privé | Enseignement privé
+Réduire les disparités de scolarisation et de formation | OS3 | OS3-A1-Education inclusive pour l'élimination des disparités d'accès et de participation à l'éducation | Préscolaire, Fondamental et Secondaire
+ |  | OS3-A2- Développement de services de santé scolaire et universitaire | Préscolaire, Fondamental et Secondaire
+ |  | OS1-A3- Stimulation du partenariat entre les familles et des associations de parents d'élèves et les établissements scolaires | Fondamental et Secondaire
 
 Schéma Directeur 2010-2019
 
@@ -625,32 +784,32 @@ Page 23
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-Renforcer l'efficacité de l'enseignement supérieur pour la réalisation du transfert qualitatif souhaité | OS4 | OS4-A1 - Renforcement de la qualité, l'accessibilité et le financement de l'enseignement supérieur | Enseignement supérieur
+Enjeu : Une éducation et des formations de qualité répondant aux besoins des personnes et de la Nation
+
+Renforcer l'efficacité de l'enseignement supérieur pour la réalisation du transfert qualitatif souhaité | OS4 | OS4-A1- Renforcement de la qualité, l'accessibilité et le financement de l'enseignement supérieur | Enseignement supérieur
 --- | --- | --- | ---
-OS4-A2 - Renforcement de la politique de formation des enseignants OS4-A3 -Renforcement de la formation continue et
-l'offre d'enseignement non-présentiel pour répondre aux besoins des personnes et du Pays
-OS4-A4 -Soutien de la recherche universitaire
+ |  | OS4-A2- Renforcement de la politique de formation des enseignants | 
+ |  | OS4-A3-Renforcement de la formation continue et l'offre d'enseignement non-présentiel pour répondre aux besoins des personnes et du Pays | 
+ |  | OS4-A4-Soutien de la recherche universitaire | 
 Ajuster la structure, la vision et les contenus de formation de l'EFTP | OS5 | Elaborer et mettre en œuvre une réforme d'envergure visant à développer la capacité du sous secteur, la qualité de ses prestations et ses liens avec le marché de l'emploi pour répondre aux besoins de formation des personnes et aux besoins du marché de l'emploi. | EFTP
-
-Enjeu : Une éducation et des formations de qualité répondant aux besoins  des personnes et de la  Nation
-
-Améliorer les règles de gouvernance, de pilotage des services et des réseaux de l'éducation. | OS6 | OS6-A1 - Amélioration de la gouvernance et la reddition de comptes à tous les niveaux du système éducatif | Transversal
---- | --- | --- | ---
-OS6-A2- Restructuration de l'encadrement pédagogique pour répondre aux besoins des enseignants et des établissements scolaires | Inspections Directions des établissements
-OS6-A3- Rationalisation des dépenses et maîtrise des coûts | Transversal
-OS6-A4- Transformation de la région en pôle éducatif actif | MENESUP Régions
 
 Enjeu : Une gestion et un pilotage de qualité axés sur les performances
 
-## 3 3. .5 5. . P Pr ri io or ri it té és s   e et t   o ob bj je ec ct ti if fs s   d du u   s sc ch hé ém ma a   d di ir re ec ct te eu ur r
+Améliorer les règles de gouvernance, de pilotage des services et des réseaux de l'éducation. | OS6 | OS6-A1- Amélioration de la gouvernance et la reddition de comptes à tous les niveaux du système éducatif | Transversal
+--- | --- | --- | ---
+ |  | OS6-A2-Restructuration de l'encadrement pédagogique pour répondre aux besoins des enseignants et des établissements scolaires | Inspections Directions des établissements
+ |  | OS6-A3-Rationalisation des dépenses et maîtrise des coûts | Transversal
+ |  | OS6-A4- Transformation de la région en pôle éducatif actif | MENESUP Régions
 
-- Compte tenu des leçons tirées des réalisations de la décade 2000-2009, des orientations de la politique de développement social et économique du Gouvernement réaffirmée par le déclaration de politique générale devant l'assemblée nationale et  des enjeux de qualité, cœur du schéma directeur 2010-2019, l'éducation reste une priorité nationale absolue. Une priorité au cœur de laquelle la généralisation de  l'enseignement fondamental, la valorisation de l'enseignement et la formation technique et professionnelle, le développement de l'Université.
+## 3.5.Priorités et objectifs du schéma directeur
 
-- Les  options  de  politique  éducative,  objet  du  Schéma  Directeur  2010-2019  visent  à  relever  le  défi  de qualité en termes d'équité , de rendement des élèves et étudiants , de pertinence des apprentissages et des  formations  aux  besoins  des  personnes  et  de  la  société ,  d'exigence d'efficience  des  mesures d'actions pour accroître la confiance du public dans notre système éducatif .
+83. Compte tenu des leçons tirées des réalisations de la décade 2000-2009, des orientations de la politique de développement social et économique du Gouvernement réaffirmée par le déclaration de politique générale devant l'assemblée nationale et des enjeux de qualité, cœur du schéma directeur 2010-2019, l'éducation reste une priorité nationale absolue. Une priorité au cœur de laquelle la généralisation de l'enseignement fondamental, la valorisation de l'enseignement et la formation technique et professionnelle, le développement de l'Université.
 
-- Tenant compte des évolutions récentes de notre système éducatif et des enjeux actuels, le système sera restructuré comme suit :
+84. Les options de politique éducative, objet du Schéma Directeur 2010-2019 visent à relever le défi de qualité en termes d'équité, de rendement des élèves et étudiants, de pertinence des apprentissages et des formations aux besoins des personnes et de la société, d'exigence d'efficience des mesures d'actions pour accroître la confiance du public dans notre système éducatif.
 
-- Un  enseignement  fondamental  de  neuf  années  d'études  constitué  d'un  cycle  d'enseignement primaire de cinq années et un cycle d'enseignement moyen de quatre années. A l'intérieur de chacun de ces cycles, le parcours scolaire sera par palier deux ou trois années  d'études reposant sur des évaluations bilans ou certificatives.
+85. Tenant compte des évolutions récentes de notre système éducatif et des enjeux actuels, le système sera restructuré comme suit :
+
+- Un enseignement fondamental de neuf années d'études constitué d'un cycle d'enseignement primaire de cinq années et un cycle d'enseignement moyen de quatre années. A l'intérieur de chacun de ces cycles, le parcours scolaire sera par palier deux ou trois années d'études reposant sur des évaluations bilans ou certificatives.
 
 Schéma Directeur 2010-2019
 
@@ -672,6 +831,52 @@ Le graphique suivant présente l'architecture du système éducatif et les passe
 
 Figure 3.3 : Structure du système éducatif
 
+Enseignement supérieur
+Baccalauréat Général
+Secondaire 3
+Secondaire 2
+Baccalauréat Technologique
+Secondaire 3
+Secondaire 2
+Baccalauréat Professionnel
+Bac Pro 2
+Bac Pro 1
+Orientation
+BEP
+BEP 2
+BEP 1
+CAP
+CAP 3
+CAP 2
+CAP 1
+Vie active
+Orientation
+Secondaire 1
+Orientation
+Brevet de l'Ens. Fondamental
+BEF
+Enseignement Fondamental (scole obligatoire)
+Cycle Moyen
+9ème année
+8ème année
+7ème année
+6ème année
+Cycle primaire
+5ème année
+4ème année
+3ème année
+2ème année
+1ère année
+OTI
+Education préscolaire
+PS2
+PS1
+Tests d'évaluation
+Orientation principale
+Orientation secondaire
+Orientation vie active
+Diplomation
+
 Schéma Directeur 2010-2019
 
 Page 25
@@ -682,13 +887,13 @@ Page 25
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-## 3 3. .6 6. . O Ob bj je ec ct ti if fs s   e et t   s st tr ra at té ég gi ie es s   d de e   m mi is se e   e en n   œ œu uv vr re e   d de es s   o or ri ie en nt ta at ti io on ns s   s st tr ra at té ég gi iq qu ue es s
+## 3.6.Objectifs et stratégies de mise en œuvre des orientations stratégiques
 
 ### Enjeu : Un enseignement scolaire citoyen, inclusif et de qualité centré sur la réussite des élèves
 
 #### 3.6.1. Orientation  stratégique  1: Améliorer  la  qualité  et  la  pertinence  des  enseignements    et  des apprentissages
 
-##### Axes d'intervention  (OS1-A1 ): Mise à jour périodique des curricula et  définition des savoirs et compétences minimaux garantis pour tout élèves du fondamental.
+##### Axes d'intervention (OS1-A1): Mise à jour périodique des curricula et définition des savoirs et compétences minimaux garantis pour tout élèves du fondamental.
 
 ###### Objectifs :
 
@@ -732,9 +937,9 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 - 5- Disposer de personnels (enseignement, direction, vie scolaire, orientation) qualitativement adapté
 
-- La professionnalisation des personnels d'éducation est un paramètre essentiel de la stratégie d'amélioration de la qualité. A cette fin, l'Etat entend développer la formation initiale des enseignants pour qu'à l'horizon 2020 aucun enseignant ne débute sans formation initiale préalable. Il prévoit la subordination du  recrutement  des  chefs  d'établissement,  des  documentalistes  et  des  personnels  de  vie  scolaire  à  une formation initiale.
+92. La professionnalisation des personnels d'éducation est un paramètre essentiel de la stratégie d'amélioration de la qualité. A cette fin, l'Etat entend développer la formation initiale des enseignants pour qu'à l'horizon 2020 aucun enseignant ne débute sans formation initiale préalable. Il prévoit la subordination du recrutement des chefs d'établissement, des documentalistes et des personnels de vie scolaire à une formation initiale.
 
-- Dans  la  perspective  de  la  création,  au  sein  de  l'Université,  d'un  Institut  supérieur  des  métiers  de l'éducation  à  l'horizon  2012,  le  Ministère  entreprendra  l'élaboration  et  la  validation    (i)  des  référentiels  de formation  des  enseignant  garantissant  une  formation  académique  pédagogique  de  haut  niveau,  (ii)  de référentiel de formation des personnels de direction, d'encadrement, d'orientation et de vie scolaire, et (iii) de cadres  institutionnels  réglementant  le  recrutement,  la  formation  et  la  certification  des  enseignants  et  des personnels de direction, d'encadrement et de vie pédagogique.
+93. Dans la perspective de la création, au sein de l'Université, d'un Institut supérieur des métiers de l'éducation à l'horizon 2012, le Ministère entreprendra l'élaboration et la validation (i) des référentiels de formation des enseignant garantissant une formation académique pédagogique de haut niveau, (ii) de référentiel de formation des personnels de direction, d'encadrement, d'orientation et de vie scolaire, et (iii) de cadres institutionnels réglementant le recrutement, la formation et la certification des enseignants et des personnels de direction, d'encadrement et de vie pédagogique.
 
 L'Institut accueillera prioritairement les formations d'enseignants du préscolaire au secondaire et s'ouvrira progressivement à la formation des autres catégories intervenant dans le système éducatif.
 
@@ -891,9 +1096,9 @@ Page 30
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-- La  maîtrise  des  redoublements  et  la  réduction  des  abandons  en  cours  de  scolarité  passeront, d'abord, par le renforcement de l'efficacité de l'enseignement. C'est l'objectif des mesures axées sur la qualité  de  l'enseignement  présentées  ci  devant 3.   Cumulativement  à  ces  options,  le  Ministère  entend accélérer  la  réduction  du  gaspillage  par  l'offre  d'une  palette  de  services  et  d'activités  de  vie  scolaire allant de la mise en place au sein des établissements scolaires d'un dispositif de  opérationnel  de suivi de la fréquentation régulière des élèves, d'amélioration de la communication entre l'élève et son milieu scolaire,  social  et  familial.  Dans  cette  perspective,  le  renforcement  des  compétences  des  Conseillers d'éducation  et  la  création  de  structures  d'information  et  d'orientation    dans  le  fondamental  2  et  le secondaire sera un atout.
+109. La maîtrise des redoublements et la réduction des abandons en cours de scolarité passeront, d'abord, par le renforcement de l'efficacité de l'enseignement. C'est l'objectif des mesures axées sur la qualité de l'enseignement présentées ci devant3. Cumulativement à ces options, le Ministère entend accélérer la réduction du gaspillage par l'offre d'une palette de services et d'activités de vie scolaire allant de la mise en place au sein des établissements scolaires d'un dispositif de opérationnel de suivi de la fréquentation régulière des élèves, d'amélioration de la communication entre l'élève et son milieu scolaire, social et familial. Dans cette perspective, le renforcement des compétences des Conseillers d'éducation et la création de structures d'information et d'orientation dans le fondamental 2 et le secondaire sera un atout.
 
-- Augmenter  le  rendement  du  système  ne  se  résume  pas  seulement  à  la  réduction  des  déperditions (redoublements, abadons…). Il s'agit également que les compétences acquises répondent quantitativement et qualitativement aux besoins présents et futurs du marché de l'emploi. Les mesures de réforme des curricula de  l'enseignement  secondaire  et    de  l'EFTP,  et  de  généralisation  de  l'approche  par  compétences  qui renforceront l'employabilité des jeunes diplômés des degrés d'enseignement et de formation postfondamental devront être accompagnées de mesures de suivi de l'insertion professionnelle des sortants du système.  Le  vide  constaté  dans  le  suivi  sera  comblé  par  le  développement  de  la  fonction  de  veille  et d'observation  visant  à  fournir  aux  décideurs  les  contraintes  des  environnements  socio-économiques  pour aider la régulation des enseignements et des formations.
+110. Augmenter le rendement du système ne se résume pas seulement à la réduction des déperditions (redoublements, abadons…). Il s'agit également que les compétences acquises répondent quantitativement et qualitativement aux besoins présents et futurs du marché de l'emploi. Les mesures de réforme des curricula de l'enseignement secondaire et de l'EFTP, et de généralisation de l'approche par compétences qui renforceront l'employabilité des jeunes diplômés des degrés d'enseignement et de formation post-fondamental devront être accompagnées de mesures de suivi de l'insertion professionnelle des sortants du système. Le vide constaté dans le suivi sera comblé par le développement de la fonction de veille et d'observation visant à fournir aux décideurs les contraintes des environnements socio-économiques pour aider la régulation des enseignements et des formations.
 
 ##### Axes d'intervention  (OS2-A4): Développement progressif de l'offre d'éducation préscolaire
 ###### Objectif : Renforcer l'accès à l'enseignement primaire
@@ -908,9 +1113,9 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 - 2 : Améliorer le suivi et l'encadrement pédagogique de l'enseignement privé
 
-- L'harmonisation  des  programmes  et  contenus  d'enseignement  des  établissements  scolaires  privés  de langue arabe commencée devra se poursuivre en vue de conformer les curricula de l'enseignement privé aux exigences des curricula officiel.  De même, se poursuivront les travaux de normalisation des examens pour mettre fin d'ici 2015 les certifications de fin d'études fondamentales aujourd'hui laissées à la discrétion des établissements d'enseignement privé.
+112. L'harmonisation des programmes et contenus d'enseignement des établissements scolaires privés de langue arabe commencée devra se poursuivre en vue de conformer les curricula de l'enseignement privé aux exigences des curricula officiel. De même, se poursuivront les travaux de normalisation des examens pour mettre fin d'ici 2015 les certifications de fin d'études fondamentales aujourd'hui laissées à la discrétion des établissements d'enseignement privé.
 
-- Les  actions  d'harmonisation  des  curricula,  de  normalisation  de  la  certification  s'accompagneront naturellement  d'un  renforcement  de  l'encadrement  et  du  suivi  pédagogique.  A  cette  fin  le service actuellement  en  charge  de  l'enseignement  privé  sera  renforcé  en  ressources  humaines  et  ses  charges réorientées vers les missions de suivi, d'encadrement et de régulation du secteur. Par ailleurs, l'accès aux subventions de l'Etat sera subordonné à des indicateurs de performances et en particulier du poids de leur participation  à  l'effort  de  scolarisation.  Enfin,  la  stratégie  soutiendra  par  la  formation  des  enseignants  et l'offre de suivi pédagogique les créations d'offres d'éducation préscolaire.
+113. Les actions d'harmonisation des curricula, de normalisation de la certification s'accompagneront naturellement d'un renforcement de l'encadrement et du suivi pédagogique. A cette fin le service actuellement en charge de l'enseignement privé sera renforcé en ressources humaines et ses charges réorientées vers les missions de suivi, d'encadrement et de régulation du secteur. Par ailleurs, l'accès aux subventions de l'Etat sera subordonné à des indicateurs de performances et en particulier du poids de leur participation à l'effort de scolarisation. Enfin, la stratégie soutiendra par la formation des enseignants et l'offre de suivi pédagogique les créations d'offres d'éducation préscolaire.
 
 3  Cf. orientation 1
 
@@ -1195,7 +1400,7 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 C'est  pourquoi,  les  mesures  d'amélioration  de  la  qualité  de  la  gouvernance  devront  être  associées  à  une révision  et  à  une  redéfinition  de  l'organisation  et  du  fonctionnement  des  instances  d'encadrement,  de pilotage et de direction du réseau scolaire.
 
-144. Pour ce faire, une forte priorité sera accordée à la révision des missions des corps d'inspectio n pour faire évoluer les missions et les pratiques de l'encadrement pédagogique et de la gestion des établissements scolaires afin d'assurer un pilotage efficace et efficiente de l'éducation et de la formation des élèves. Il s'agira de procéder à une  harmonisation  plus  systémique  et  plus  efficace  des  missions  à  l'enjeu  qualité  et  d'efficience  de  la politique  éducative  en  restructurant  de  manière  cohérente  et  opérationnelle  les  fonctions  d'expertise, d'encadrement, de pilotage et d'évaluation du corps.
+144. Pour ce faire, une forte priorité sera accordée à la révision des missions des corps d'inspection pour faire évoluer les missions et les pratiques de l'encadrement pédagogique et de la gestion des établissements scolaires afin d'assurer un pilotage efficace et efficiente de l'éducation et de la formation des élèves. Il s'agira de procéder à une harmonisation plus systémique et plus efficace des missions à l'enjeu qualité et d'efficience de la politique éducative en restructurant de manière cohérente et opérationnelle les fonctions d'expertise, d'encadrement, de pilotage et d'évaluation du corps.
 
 145. Les efforts de transformation des pratiques de gestion seront également déployés en direction des personnels de  direction  et  des  équipes  pédagogiques des  établissements  scolaires  pour  qu'ils  s'approprient  de  la nouvelle  logique  de  gestion  efficace  et  de  services  pédagogique  de  qualité.  A  cette  fin,  les  formations  et l'encadrement devront favoriser l'émergence de culture de construction de l'excellence par le développement collégial, au regard des besoins éducatifs, des projets d'établissements centrée sur la réussite des élèves.
 
@@ -1230,7 +1435,7 @@ le Gouvernement visant l'amélioration de la gouvernance des finances publiques 
 
 - adapter  la gestion budgétaire à une logique des résultats.
 
-149. Instrum ent de planification financière et de préparation du budget, l'introduction d'un CDMT est ainsi conçu  comme  moyen  de  renforcer  la  discipline  budgétaire  d'ensemble,  comme  outil  responsabilisant  les gestionnaires et comme moyen d'orientation des traditions et pratiques de gestion des ressources sur une culture de  l'efficacité et des résultats.
+149. Instrument de planification financière et de préparation du budget, l'introduction d'un CDMT est ainsi conçu comme moyen de renforcer la discipline budgétaire d'ensemble, comme outil responsabilisant les gestionnaires et comme moyen d'orientation des traditions et pratiques de gestion des ressources sur une culture de l'efficacité et des résultats.
 
 ##### Axes d'intervention  (OS6-A4): Transformation de la région en pôle éducatif actif
 ###### Objectifs
@@ -1241,7 +1446,7 @@ le Gouvernement visant l'amélioration de la gouvernance des finances publiques 
 
 150. Dans le cadre du renforcement de la décentralisation, les régions doivent peu à peu devenir des pôles éducatifs  actifs  dans  le  développement  quantitatif  et  qualitatif  de  l'éducation.  Le  rôle,  les  missions  et  les ressources de Directions Régionales de l'Education (DRE) seront de revus  dans le sens d'une plus grande autonomie, spécialement dans le domaine pédagogique et du suivi des projets éducatifs, et d'autorité sur l'ensemble du réseau d'établissements d'éducation et de formation de leur région.
 
-- Dans  cette  perspective,  les  textes  réglementaires  relatifs  à  l'organisation  et  aux  prérogatives  des Directions  Régionales  de  l'Education  seront  étudiés  et  promulgués,  des  actions  de  formation  des  cadres mises en œuvre et les ressources nécessaires au fonctionnement des DRE et à leur mission mises en place. Le renforcement des moyens et des compétences des DRE s'accompagnera d'une implication plus grande des régions dans le pilotage et le suivi locaux du développement de la politique éducative. Les Comités Régionaux de l'Education seront repositionnés pour conformés leur rôles et places à l'évolution des Conseils Régionaux et aux objectifs d'implication plus forte de la région dans le soutien au développement quantitatif et qualitatif des structures locales d'enseignement et de formation.
+151. Dans cette perspective, les textes réglementaires relatifs à l'organisation et aux prérogatives des Directions Régionales de l'Education seront étudiés et promulgués, des actions de formation des cadres mises en œuvre et les ressources nécessaires au fonctionnement des DRE et à leur mission mises en place. Le renforcement des moyens et des compétences des DRE s'accompagnera d'une implication plus grande des régions dans le pilotage et le suivi locaux du développement de la politique éducative. Les Comités Régionaux de l'Education seront repositionnés pour conformés leur rôles et places à l'évolution des Conseils Régionaux et aux objectifs d'implication plus forte de la région dans le soutien au développement quantitatif et qualitatif des structures locales d'enseignement et de formation.
 
 4  Modèle de simulation
 
@@ -1255,13 +1460,13 @@ Page 40
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-# 4 4. . S SU UI IV VI I   E EV VA AL LU UA AT TI IO ON N
+# 4. SUIVI EVALUATION
 
 152. Le Suivi-Évaluation du schéma directeur 2000-2010 s'inscrira dans le cadre d'un processus évolutif, basé sur les mécanismes de suivi existants et sur l'exploitation des différents outils déjà utilisés par elles. De nouveaux  mécanismes  et  outils  viendront  renforcer,  progressivement,  l'existant  pour  faire  évoluer  la performance, la cohérence et la complémentarité des outils pour mieux rendre compte de la performance de la mise en œuvre de la stratégie.
 
 153. Le renforcement de la qualité du dispositif de suivi-évaluation portera sur trois niveaux : (i) le niveau du dispositif de suivi et de pilotage ; (ii) le niveau du système d'informations et ; (iii) le niveau communication et implication des acteurs.
 
-## 4 4. .1 1. . L Le e   d di is sp po os si it ti if f   i in ns st ti it tu ut ti io on nn ne el l   d de e s su ui iv vi i   e et t   d de e   p pi il lo ot ta ag ge e
+## 4.1.Le dispositif institutionnel de suivi et de pilotage
 
 154. Les faiblesses constatées durant la décade 2000-2010 vont être traitées par une série d'actions sur cinq piliers complémentaires :
 
@@ -1277,11 +1482,11 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 (vi) et  la  culture  des  résultats  à  tous  les  niveaux  qui  constitue  la  clé  de  voûte  de  la  réussite  de  la stratégie, et la notion de responsabilité et d'obligation de rendre compte qu'elle sous entend .
 
-## 4 4. .2 2. . L Le e s sy ys st tè èm me e   d d' 'i in nf fo or rm ma at ti io on n
+## 4.2.Le système d'information
 
 155. La levée de l'hypothèque des données démographiques par la publication des résultats du recensement de la population de 2009 et le renforcement de la division des statistiques scolaires de la DPI constituent des atouts pour le système de suivi-évaluation qui est à même de créer une banque de données sur mise en œuvre du Schéma directeur accessible à tous les acteurs et de fournir les analyse statistiques nécessaires à la régulation de la stratégie. Un plan directeur spécifiant les données et les informations nécessaires pour les besoins  de  suivi,  sera  préparé  de  façon  participative,  associant  les  principaux  producteurs  et  utilisateurs ainsi  que  les  partenaires  techniques  et  financiers  dès  la  première  année  de  mise  en  œuvre  du  Schéma Directeur. Ce plan s'appuiera sur le noyau d'indicateurs présenté ci-dessous.
 
-## 4 4. .3 3. . L La a   d di im me en ns si io on n   p pa ar rt ti ic ci ip pa at ti iv ve e   e et t l la a   c co om mm mu un ni ic ca at ti io on n
+## 4.3. La dimension participative et la communication
 
 156. La dimension participative dans le suivi de la mise en œuvre sera assurée à travers trois mesures: (i) la communication  large  en  langues  nationales  autour  du  Schéma  Directeur  et  des  plans  opérationnels triennaux  qui  en  seront  tirés  de  façon  à  permettre  à  tous  les  citoyens  d'être  informés  des  enjeux,  des objectifs et programmes de la stratégie décennale; (ii) la tenue annuelle de revues conjointes avec les PTF et de séminaires d'information des collectivités locales et des associations de parents d'élèves sur l'avancement de la stratégie et des plans d'action.
 
@@ -1308,7 +1513,7 @@ Bilan financiers des programmes | Exécution financière et physique | DRHF/ BEP
 #### Périodicité triennale
 Rapport d'achèvement des plans d'action triennaux | Évolution des indicateurs de scolarisation Évolution des disparités entre les sexes et de l'éducation inclusive Évolution du rendement interne Évolution des indicateurs de qualité | DPI
 
-# 5 5. . R RI IS SQ QU UE ES S
+# 5. RISQUES
 
 158. La stratégie est très ambitieuse. Cette ambition si elle est la seule réponse possible face à l'ampleur du défi de développement qualitatif et quantitatif, suppose, pour sa réalisation, une modification radicale dans la gestion économique d'ensemble et dans le pilotage, la mise en œuvre et le suivi des programmes et des réformes. Les principaux risques  de la stratégie sont de trois ordres. 159. Il y a en premier lieu le risque associé à un possible ralentissement dans la mise en œuvre des réformes macro-économiques et structurelles, et notamment des finances publiques et des entreprises publiques. Les conséquences d'un  tel  ralentissement  seraient  la  déstabilisation  du  cadre  macro-économique,  la  perte  de compétitivité  et  partant  le  ralentissement  de  la  croissance  économique.  En  particulier,  une    insuffisance dans la mobilisation des ressources et une allocation  des dépenses qui ne respecteraient pas les priorités de la stratégie affecteraient la réalisation de l'ensemble des objectifs, de croissance, d'emploi et d'amélioration des conditions de vie. 160.
 
@@ -1324,7 +1529,7 @@ Page 42
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-# 6 6. . I IN ND DI IC CA AT TE EU UR RS S   S ST TR RA AT TE EG GI IQ QU UE ES S   D DE E L LA A   S ST TR RA AT TE EG GI IE E
+# 6. INDICATEURS STRATEGIQUES DE LA STRATEGIE
 
 161. Le noyau d'indicateurs sélectionné pour le suivi général du Schéma Directeur est formé de deux types d'indicateurs :
 
@@ -1336,16 +1541,17 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 163. Les matrices suivantes présentent ces indicateurs ventilés à la fois par orientations stratégiques et par grands programmes. Elles indiquent chaque fois que nécessaire, les données de base, la cible, l'échéance de la période d'observation. Il va de soi que les indicateurs retenus sont susceptibles d'être désagrégés selon le genre et es milieux d'habitation.
 
-## 6 6. .1 1. . M Ma at tr ri ic ce e   d de es s   i in nd di ic ca at te eu ur rs s   d de e   c co on nt te ex xt te e
+## 6.1.Matrice des indicateurs de contexte
 
 Domaines | Programmes | INDICATEURS | Orientation d'ancrage | Année horizon
 --- | --- | --- | --- | ---
 Réforme des curricula | Préscolaire | Curriculum du préscolaire et les référentiels de formation des enseignants mise en place avant … | OS1 | Rentrée 2011
-Textes, outils & procédures de gestion & de pilotage | Cadre réglementaire de l'éducation préscolaire promulgué avant… Structure d'encadrement, de pilotage et de suivi- évaluation du préscolaire mise en place avant … | OS1 OS1 | Rentrée 2011 Rentrée 2011
-Capacité d'accueil | Enseignement Fondamental | Nombre de nouvelles salles de classes construites, de salles réhabilitées dans l'enseignement primaire. | Rentrée
-OS2 | 2011
-Cadre de formation initiale Cadre évaluation des élèves | Référentiel de formation initiale des enseignants du secondaire validé et mis en œuvre | OS1 | Rentrée 2011
-Référentiel du socle de connaissances et compétences minimales visées par l'enseignement fondamental validé et mis en œuvre | OS1 | Rentrée 2011
+Textes, outils & procédures de gestion & de pilotage |  | Cadre réglementaire de l'éducation préscolaire promulgué avant… | OS1 | Rentrée 2011
+ |  | Structure d'encadrement, de pilotage et de suivi-évaluation du préscolaire mise en place avant … | OS1 | Rentrée 2011
+Capacité d'accueil | Enseignement Fondamental | Nombre de nouvelles salles de classes construites, de salles réhabilitées dans l'enseignement primaire. | OS2 | Rentrée 2011
+Cadre de formation initiale |  | Référentiel de formation initiale des enseignants du secondaire validé et mis en œuvre | OS1 | Rentrée 2011
+Cadre évaluation des élèves |  | Référentiel du socle de connaissances et compétences minimales visées par l'enseignement fondamental validé et mis en œuvre | OS1 | Rentrée 2011
+ |  | Cadre de référence de la politique d'évaluation validé et disséminé | OS1 | Rentrée 2011
 
 Schéma Directeur 2010-2019
 
@@ -1360,17 +1566,17 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 Domaines | Programmes | INDICATEURS | Orientation d'ancrage | Année horizon
 --- | --- | --- | --- | ---
 Réforme des curricula | Enseignement Secondaire | Curricula du secondaire élaboré et utilisé | OS1 | Rentrée 2011
-Cadre de formation initiale | Référentiel de formation initiale des enseignants du secondaire validé et mis en œuvre | OS1 | Rentrée 2015
+Cadre de formation initiale |  | Référentiel de formation initiale des enseignants du secondaire validé et mis en œuvre | OS1 | Rentrée 2015
 Plan d'action | EFTP | Schéma directeur et plan d'action de l'EFTP développés et opérationnels | OS5 | Rentrée 2011
-Textes, outils & procédures de gestion & de pilotage | Cadre institutionnel régissant l'EFTP promulgué et mis en œuvre. | OS5 | Rentrée 2011
-Vie scolaire | Cadre de développement d'activités péri scolaires au sein des écoles et établissements définis | OS1 | Rentrée 2011
-Cadre de renforcement de la participation des lycéens aux conseils d'établissements défini | OS1 | Rentrée 2011
-Enseignement | Cadre de développement du sport scolaire et universitaire défini | OS1 | Rentrée 2011
-Réforme des curricula | Fondamental & Secondaire | Renforcement de l'apprentissage des langues y compris les langues nationales défini | OS1 | Rentrée 2011
-Cadre Formation continue des enseignants | Cadre institutionnel régissant la formation continue promulgué et mis en œuvre. | OS1 | Rentrée 2011
-Cadre d'action pour l'intégration des TICE dans les pratiques scolaires élaboré et opérationnel | OS1 | Rentrée 2011
-Textes, outils & procédures de gestion & de pilotage | Enseignement Privé | Procédures de création et d'accréditation d'institutions scolaires privées définies et appliquées; | OS2 | Rentrée 2011
-Normes de qualité du fonctionnement et des caractéristiques des curricula d'enseignement des écoles privées. | OS2 | Rentrée 2011
+Textes, outils & procédures de gestion & de pilotage |  | Cadre institutionnel régissant l'EFTP promulgué et mis en œuvre. | OS5 | Rentrée 2011
+Vie scolaire | Enseignement Fondamental & Secondaire | Cadre de développement d'activités péri scolaires au sein des écoles et établissements définis | OS1 | Rentrée 2011
+ |  | Cadre de renforcement de la participation des lycéens aux conseils d'établissements défini | OS1 | Rentrée 2011
+ |  | Cadre de développement du sport scolaire et universitaire défini | OS1 | Rentrée 2011
+Réforme des curricula |  | Renforcement de l'apprentissage des langues y compris les langues nationales défini | OS1 | Rentrée 2011
+Cadre Formation continue des enseignants |  | Cadre institutionnel régissant la formation continue promulgué et mis en œuvre. | OS1 | Rentrée 2011
+Textes, outils & procédures de gestion & de pilotage |  | Cadre d'action pour l'intégration des TICE dans les pratiques scolaires élaboré et opérationnel | OS1 | Rentrée 2011
+ | Enseignement Privé | Procédures de création et d'accréditation d'institutions scolaires privées définies et appliquées; | OS2 | Rentrée 2011
+ |  | Normes de qualité du fonctionnement et des caractéristiques des curricula d'enseignement des écoles privées. | OS2 | Rentrée 2011
 
 Schéma Directeur 2010-2019
 
@@ -1384,23 +1590,23 @@ Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
 Domaines | Programmes | INDICATEURS | Orientation d'ancrage | Année horizon
 --- | --- | --- | --- | ---
-Plan d'action | Disponibilité d'un plan de développement de la recherche universitaire | OS4 | Rentrée 2011
-Réforme des curricula | Enseignement Supérieur | Offre de formation LMD disponible | OS4 | Rentrée 2011
-Structure de suivi du marché de l'emploi et de l'insertion des diplômés fonctionnel | OS4 | Rentrée 2011
-Procédures de recrutement et de certification des personnels d'éducation et de formation rénovées | OS1 | Rentrée 2011
-Mise en place d'une structure en charge de l'évaluation externe à un niveau proche des niveaux de décision, | OS1 | Rentrée 2011
-Stratégies de mobilisation sociale ciblée développée et mise en œuvre, | OS2 | Rentrée 2011
-Carte scolaire définissant les normes architecturales et de fonctionnement des établissements scolaires disponible et mise en œuvre. | OS2 | Rentrée 2011
-Mise en place d'un système de suivi de la scolarité aux niveaux local, régional et central, | OS6 | Rentrée 2011
-Textes, outils & procédures de gestion & de pilotage | Gestion des ressources er Pilotage de l'accès, l'équité et la qualité | Structure d'information et d'orientation des élèves et étudiants opérationnelle | OS2 | Rentrée 2011
-Missions, attributions et ressources des DRE définies | OS2 | Rentrée 2011
-CDMT élaboré et mis en œuvre | OS6 | Rentrée 2011
-Création au sein de la Direction de la Planification d'une structure en charge du suivi-évaluation des politiques genres | OS6 | Rentrée 2011
-Système SIGE opérationnel | OS6 | Rentrée 2011
-Fonctions & missions des organes centraux et décentralisés rénovées (Textes réglementaires révisés et promulgués) | OS6 | Rentrée 2011
-Manuel(s) de procédure(s) de gestion et de pilotage administratives élaborés et diffusés | OS6 | Rentrée 2011
-Missions, attributions et position des IEN et des CP redéfinies | OS6 | Rentrée 2011
-Rôles et fonctions des CRE redéfinis | OS6 | Rentrée 2011
+Plan d'action | Enseignement Supérieur | Disponibilité d'un plan de développement de la recherche universitaire | OS4 | Rentrée 2011
+Réforme des curricula |  | Offre de formation LMD disponible | OS4 | Rentrée 2011
+Textes, outils & procédures de gestion & de pilotage |  | Structure de suivi du marché de l'emploi et de l'insertion des diplômés fonctionnel | OS4 | Rentrée 2011
+ | Gestion des ressources er Pilotage de l'accès, l'équité et la qualité | Procédures de recrutement et de certification des personnels d'éducation et de formation rénovées | OS1 | Rentrée 2011
+ |  | Mise en place d'une structure en charge de l'évaluation externe à un niveau proche des niveaux de décision, | OS1 | Rentrée 2011
+ |  | Stratégies de mobilisation sociale ciblée développée et mise en œuvre, | OS2 | Rentrée 2011
+ |  | Carte scolaire définissant les normes architecturales et de fonctionnement des établissements scolaires disponible et mise en œuvre. | OS2 | Rentrée 2011
+ |  | Mise en place d'un système de suivi de la scolarité aux niveaux local, régional et central, | OS6 | Rentrée 2011
+ |  | Structure d'information et d'orientation des élèves et étudiants opérationnelle | OS2 | Rentrée 2011
+ |  | Missions, attributions et ressources des DRE définies | OS2 | Rentrée 2011
+ |  | CDMT élaboré et mis en œuvre | OS6 | Rentrée 2011
+ |  | Création au sein de la Direction de la Planification d'une structure en charge du suivi-évaluation des politiques genres | OS6 | Rentrée 2011
+ |  | Système SIGE opérationnel | OS6 | Rentrée 2011
+ |  | Fonctions & missions des organes centraux et décentralisés rénovées (Textes réglementaires révisés et promulgués) | OS6 | Rentrée 2011
+ |  | Manuel(s) de procédure(s) de gestion et de pilotage administratives élaborés et diffusés | OS6 | Rentrée 2011
+ |  | Missions, attributions et position des IEN et des CP redéfinies | OS6 | Rentrée 2011
+ |  | Rôles et fonctions des CRE redéfinis | OS6 | Rentrée 2011
 
 Schéma Directeur 2010-2019
 
@@ -1412,7 +1618,7 @@ Page 45
 
 Ministère de l'Education Nationale et de l'Enseignement Supérieur
 
-## 6 6. .2 2. . M Ma at tr ri ic ce e   d de es s   i in nd di ic ca at te eu ur rs s   d de e r ré és su ul lt ta at ts s   p pa ar r   p pr ro og gr ra am mm me es s
+## 6.2.Matrice des indicateurs de résultats par programmes
 
 N° | INDICATEURS | Orientation d'ancrage | Programmes
 --- | --- | --- | ---
