@@ -22,13 +22,13 @@ In exercise of the powers conferred on the National Assembly for Wales by sectio
 
 ## Name, commencement and application
 
--(1)  These Regulations are called the Independent School Standards (Wales) Regulations 2003 and come into force on 1st January 2004.
+1.—(1) These Regulations are called the Independent School Standards (Wales) Regulations 2003 and come into force on 1st January 2004.
 
-- These Regulations apply in relation to Wales.
+(2) These Regulations apply in relation to Wales.
 
 ## Interpretation
 
-- In these Regulations-
+2. In these Regulations—
 
 'the 1996 Act' (' Deddf 1996 ') means the Education Act 1996( 2 );
 
@@ -68,7 +68,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 'statement'  (' datganiad ')  means  a  statement  of  special  educational  needs  made  under section 324 of the 1996 Act.
 
-- The requirements set out in the Schedule are the independent school standards for the purposes of Part 10 of the 2002 Act.
+3. The requirements set out in the Schedule are the independent school standards for the purposes of Part 10 of the 2002 Act.
 
 Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998( 6 ).
 
@@ -92,11 +92,13 @@ Status: This is the original version (as it was originally made). This item of l
 
 ## SCHEDULE
 
+Regulation 3
+
 ### THE INDEPENDENT SCHOOL STANDARDS
 
 #### Quality of education provided
 
-1. -(1)  The quality of education provided by the school meets the standard if the requirements in sub-paragraphs (2) to (5) are met.
+1.—(1) The quality of education provided by the school meets the standard if the requirements in sub-paragraphs (2) to (5) are met.
 
 (2)    The  school  must  draw  up  and  implement  effectively  a  written  policy  on  the  curriculum supported by appropriate plans and schemes of work, which provides for -
 
@@ -140,8 +142,6 @@ Status: This is the original version (as it was originally made). This item of l
 
 (4)    The  school  must  have  in  place  a  framework  for  pupil  performance  to  be  evaluated,  by reference either to the school's own aims as provided to parents or national norms, or to both.
 
-Regulation 3
-
 3
 
 [[END OF PAGE 3]]
@@ -170,7 +170,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 #### Welfare, health and safety of pupils
 
-3. -(1)  The welfare, health and safety of pupils at the school meet the standard if the requirements in sub-paragraphs (2) to (9) are met.
+3.—(1) The welfare, health and safety of pupils at the school meet the standard if the requirements in sub-paragraphs (2) to (9) are met.
 
 (2)  The school must draw up and implement effectively a written policy to -
 
@@ -192,7 +192,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 (b) any report from the Fire Authority.
 
-- The school must have and implement effectively a satisfactory policy on First Aid.
+(6) The school must have and implement effectively a satisfactory policy on First Aid.
 
 (7)  School staff must be deployed to ensure the proper and effective supervision of pupils.
 
@@ -220,7 +220,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 #### The suitability of proprietors and staff
 
-- The suitability of proprietors and staff at the school meets the standard if -
+4. The suitability of proprietors and staff at the school meets the standard if —
 
 (a) the proprietor is subject to a check with the Criminal Records Bureau which confirms his or her suitability to work with children, that check to be at an enhanced level if his or her duties involve regularly caring for, training, supervising or being in sole charge of persons aged under 18;
 
@@ -294,7 +294,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 #### The provision of information
 
-6. -(1)  The provision of information by the school meets the standard if the requirements in subparagraphs (2) to (9) are met.
+6.—(1) The provision of information by the school meets the standard if the requirements in sub-paragraphs (2) to (9) are met.
 
 (2)  Subject to sub-paragraph (10), the school must provide to parents of pupils and prospective pupils and on request to the Chief Inspector, the National Assembly, or a body approved under section 163(1)(b) of the 2002 Act -
 
@@ -421,7 +421,6 @@ The Schedule sets out the details of the standards.
 Document Generated: 2017-07-24
 
 Status: This is the original version (as it was originally made). This item of legislation is currently only available in its original format.
----
 
 9
 
