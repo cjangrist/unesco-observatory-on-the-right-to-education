@@ -133,7 +133,9 @@ Print
 Subscribe Now
 
 ### 第一条
-为了维护残疾人的合法权益，发展残疾人事 业，保障残疾人平等地充分参与社会生活，共享社会物质文 化成果，根据宪法，制定本法。 Online Support
+为了维护残疾人的合法权益，发展残疾人事业，保障残疾人平等地充分参与社会生活，共享社会物质文化成果，根据宪法，制定本法。
+
+Online Support
 
 Comments
 
@@ -160,10 +162,10 @@ The China Disabled Persons' Federation (hereinafter referred to as the CDPF) and
 ### Article 9
 The supporters of disabled persons must perform their obligation to support the disabled person. The guardians of disabled persons must perform their duties of guardianship, and respect the wills and protect the lawful rights and interests of the persons under guardianship. The family members and guardians of disabled persons shall encourage and help the disabled persons to build up their self-reliance capabilities. It shall be prohibited to commit domestic violence against, maltreat or abandon a disabled person.
 ### Article 10
-The state encourages disabled persons to insist on self-respect, self-confidence, self-exertion and self-reliance and make contributions to the socialist construction. Disabled persons shall abide by laws and regulations, perform their due obligations, observe the public order and respect the social ethics. leadership in this regard, publicize and popularize the knowledge about maternal and child health care and
+The state encourages disabled persons to insist on self-respect, self-confidence, self-exertion and self-reliance and make contributions to the socialist construction. Disabled persons shall abide by laws and regulations, perform their due obligations, observe the public order and respect the social ethics.
 
 ### Article 11
-The State shall, in a planned manner, carry out the disability prevention work, strengthen the prevention of disabilities, establish a sound mechanism for the prevention, early detection and early treatment of birth defects, and in view of such disability-causing factors as heredity, disease, medicine,
+The State shall, in a planned manner, carry out the disability prevention work, strengthen the leadership in this regard, publicize and popularize the knowledge about maternal and child health care and prevention of disabilities, establish a sound mechanism for the prevention, early detection and early treatment of birth defects, and in view of such disability-causing factors as heredity, disease, medicine,
 
 残疾人包括视力残疾、听力残疾、言语残疾、肢体残疾、智 力残疾、精神残疾、多重残疾和其他残疾的人。
 
@@ -194,18 +196,26 @@ The State shall, in a planned manner, carry out the disability prevention work, 
 禁止对残疾人实施家庭暴力，禁止虐待、遗弃残疾人。
 
 ### 第十条
-国家鼓励残疾人自尊、自信、自强、自立，为 社会主义建设贡献力量。 Subscribe Now
+国家鼓励残疾人自尊、自信、自强、自立，为社会主义建设贡献力量。
 
-残疾人应当遵守法律、法规，履行应尽的义务，遵守公共秩 序，尊重社会公德。 Online
+残疾人应当遵守法律、法规，履行应尽的义务，遵守公共秩序，尊重社会公德。
+
+### 第十一条
+国家有计划地开展残疾预防工作，加强对残疾预防工作的领导，宣传、普及母婴保健和预防残疾的知识，建立健全出生缺陷预防和早期发现、早期治疗机制，针对遗传、疾病、药物、事故、灾害、环境污染和其他致残因
+
+Subscribe Now
+
+Online
 
 Support
 
-### 第十一条
-国家有计划地开展残疾预防工作，加强对残 疾预防工作的领导，宣传、普及母婴保健和预防残疾的知 识，建立健全出生缺陷预防和早期发现、早期治疗机制，针 对遗传、疾病、药物、事故、灾害、环境污染和其他致残因 Comments accident, calamity and environmental pollution, organize and mobilize social forces to take measures to prevent the occurrence and reduce the degree of disability.
+Comments
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+accident, calamity and environmental pollution, organize and mobilize social forces to take measures to prevent the occurrence and reduce the degree of disability.
 
 The state shall establish a sound statistical investigation system for disabled persons so as to conduct statistical investigation and analysis of the status of disabled persons.
 
@@ -296,14 +306,18 @@ The government, society and schools shall take effective measures to solve the a
 
 ## 第三章　教　育
 
+### 第二十一条
+国家保障残疾人享有平等接受教育的权利。
+
+各级人民政府应当将残疾人教育作为国家教育事业的组成部分，统一规划，加强领导，为残疾人接受教育创造条件。
+
+政府、社会、学校应当采取有效措施，解决残疾儿童、少年就学存在的实际困难，帮助其完成义务教育。
+
 Subscribe Now
 
-Online
+Online Support
 
-### 第二十一条
-国家保障残疾人享有平等接受教育的权 利。 Comments Support
-
-各级人民政府应当将残疾人教育作为国家教育事业的组成部 分，统一规划，加强领导，为残疾人接受教育创造条件。 政府、社会、学校应当采取有效措施，解决残疾儿童、少年 就学存在的实际困难，帮助其完成义务教育。
+Comments
 
 [[END OF PAGE 3]]
 
@@ -317,9 +331,9 @@ The guideline of 'combining popularization with quality enhancement and laying a
 ### Article 23
 The education of disabled persons shall be carried out on the basis of their physical and psychological features and according to the following requirements:
 
-- Strengthening physical and psychological compensation and vocational training while providing ideological and cultural education;
+(1) Strengthening physical and psychological compensation and vocational training while providing ideological and cultural education;
 
-- Adopting normal or special education methods according to the disability category and receivability; and
+(2) Adopting normal or special education methods according to the disability category and receivability; and
 
 (3) The curricula, teaching materials, teaching methods and age requirements for admission and schooling for special education may be of appropriate flexibility.
 
@@ -343,7 +357,7 @@ Special education institutions at and above the senior middle school level, spec
 An institution providing special education shall have places and facilities commensurate with the features of disabled persons in their study, rehabilitation and living.
 
 ### Article 27
-The relevant departments of the government, employers of disabled persons and relevant social organizations shall carry out anti-illiteracy education, vocational training, business-starting training and other forms of adult education for disabled persons, and encourage them to become talents through selfstudy.
+The relevant departments of the government, employers of disabled persons and relevant social organizations shall carry out anti-illiteracy education, vocational training, business-starting training and other forms of adult education for disabled persons, and encourage them to become talents through self-study.
 
 ### Article 28
 The state shall, in a planed manner, set up various levels and categories of teachers colleges and universities and majors for special education, and attach special education classes to ordinary teachers colleges and universities, to educate and train teachers for special education. Ordinary teachers colleges and universities shall offer courses or lectures on special education so that ordinary teachers could have the necessary knowledge of special education.
@@ -370,11 +384,7 @@ The relevant departments of the government shall organize and support the resear
 （三）特殊教育的课程设置、教材、教学方法、入学和在校 年龄，可以有适度弹性。
 
 ### 第二十四条
-县级以上人民政府应当根据残疾人的数
-
-- 量、分布状况和残疾类别等因素，合理设置残疾人教育机
-
-- 构，并鼓励社会力量办学、捐资助学。
+县级以上人民政府应当根据残疾人的数量、分布状况和残疾类别等因素，合理设置残疾人教育机构，并鼓励社会力量办学、捐资助学。
 
 ### 第二十五条
 普通教育机构对具有接受普通教育能力的 残疾人实施教育，并为其学习提供便利和帮助。
@@ -395,13 +405,17 @@ The relevant departments of the government shall organize and support the resear
 ### 第二十七条
 政府有关部门、残疾人所在单位和有关社 会组织应当对残疾人开展扫除文盲、职业培训、创业培训和 其他成人教育，鼓励残疾人自学成才。
 
-Subscribe Now
-
 ### 第二十八条
-国家有计划地举办各级各类特殊教育师范 院校、专业，在普通师范院校附设特殊教育班，培养、培训 特殊教育师资。普通师范院校开设特殊教育课程或者讲授有 关内容，使普通教师掌握必要的特殊教育知识。 特殊教育教师和手语翻译，享受特殊教育津贴。
+国家有计划地举办各级各类特殊教育师范院校、专业，在普通师范院校附设特殊教育班，培养、培训特殊教育师资。普通师范院校开设特殊教育课程或者讲授有关内容，使普通教师掌握必要的特殊教育知识。
+
+特殊教育教师和手语翻译，享受特殊教育津贴。
 
 ### 第二十九条
-政府有关部门应当组织和扶持盲文、手语 的研究和应用，特殊教育教材的编写和出版，特殊教育教学 用具及其他辅助用品的研制、生产和供应。 Online Support
+政府有关部门应当组织和扶持盲文、手语的研究和应用，特殊教育教材的编写和出版，特殊教育教学用具及其他辅助用品的研制、生产和供应。
+
+Subscribe Now
+
+Online Support
 
 Comments
 
@@ -428,10 +442,10 @@ To an entity employer that has reached or exceeded the prescribed proportion for
 ### Article 37
 The public employment service agencies established by the relevant departments of the government shall provide gratuitous employment services to disabled persons. The employment service agencies set up by the CDPF shall organize and carry out gratuitous vocational guidance, job referral and vocational training, and provide services and assistance for disabled persons to get employed and for entity employers to employ disabled persons.
 ### Article 38
-The state shall protect the property ownership and the managerial decision-making power of welfare entities for disabled persons, and their lawful rights and interests shall not be infringed upon. No discrimination shall be practiced against disabled persons in the employment, status regularization, promotion, determination of technical and professional titles, labor remunerations, welfare, rest and vacation, social insurances, etc., of employees. An entity employer of disabled employees shall, in light of the features of disabled employees, provide them with proper working conditions and protection, and in light of their actual needs, renovate the working place, equipment and living facilities. The state shall take measures to protect the lawful rights and interests of blind man healthcare and medical massage practitioners. An entity employer of disabled persons shall carry out in-service technical training of disabled
+The state shall protect the property ownership and the managerial decision-making power of welfare entities for disabled persons, and their lawful rights and interests shall not be infringed upon. No discrimination shall be practiced against disabled persons in the employment, status regularization, promotion, determination of technical and professional titles, labor remunerations, welfare, rest and vacation, social insurances, etc., of employees. An entity employer of disabled employees shall, in light of the features of disabled employees, provide them with proper working conditions and protection, and in light of their actual needs, renovate the working place, equipment and living facilities. The state shall take measures to protect the lawful rights and interests of blind man healthcare and medical massage practitioners.
 
 ### Article 39
-employees so as to enhance their work skills and technical level.
+An entity employer of disabled persons shall carry out in-service technical training of disabled employees so as to enhance their work skills and technical level.
 
 ### 第三十条
 国家保障残疾人劳动的权利。 各级人民政府应当对残疾人劳动就业统筹规划，为残疾人创 造劳动就业条件。
@@ -458,16 +472,20 @@ employees so as to enhance their work skills and technical level.
 ### 第三十八条
 国家保护残疾人福利性单位的财产所有权 和经营自主权，其合法权益不受侵犯。
 
-在职工的招用、转正、晋级、职称评定、劳动报酬、生活福 利、休息休假、社会保险等方面，不得歧视残疾人。 残疾职工所在单位应当根据残疾职工的特点，提供适当的劳 动条件和劳动保护，并根据实际需要对劳动场所、劳动设备 和生活设施进行改造。 Subscribe Now
+在职工的招用、转正、晋级、职称评定、劳动报酬、生活福利、休息休假、社会保险等方面，不得歧视残疾人。
 
-国家采取措施，保障盲人保健和医疗按摩人员从业的合法权 益。
+残疾职工所在单位应当根据残疾职工的特点，提供适当的劳动条件和劳动保护，并根据实际需要对劳动场所、劳动设备和生活设施进行改造。
+
+国家采取措施，保障盲人保健和医疗按摩人员从业的合法权益。
+
+### 第三十九条
+残疾职工所在单位应当对残疾职工进行岗位技术培训，提高其劳动技能和技术水平。
+
+Subscribe Now
 
 Online Support
 
 Comments
-
-### 第三十九条
-残疾职工所在单位应当对残疾职工进行岗 位技术培训，提高其劳动技能和技术水平。
 
 [[END OF PAGE 5]]
 
@@ -479,16 +497,16 @@ No entity or individual shall force any disabled person to work by means of viol
 ## Chapter V Cultural Life
 
 ### Article 41
-The state shall ensure that disabled persons enjoy an equal right to participate in the cultural life. The people's governments at all levels and relevant departments shall encourage and help disabled persons to participate in various cultural, sports and recreational activities, and actively create conditions to
+The state shall ensure that disabled persons enjoy an equal right to participate in the cultural life.
 
-- enrich the spiritual and cultural life of disabled persons.
+The people's governments at all levels and relevant departments shall encourage and help disabled persons to participate in various cultural, sports and recreational activities, and actively create conditions to enrich the spiritual and cultural life of disabled persons.
 ### Article 42
 The cultural, sports and recreational activities of disabled persons shall be oriented to the grassroots, integrated into the cultural life of the general public, and adapted to the different features and needs of various kinds of disabled persons, so that vast disabled persons could participate in them.
 ### Article 43
-The government and society shall take the following measures to enrich the spiritual and cultural life of disabled persons: 1. To serve disabled persons by timely publicizing and reporting information about the work and life of disabled persons through radio, film, television, newspapers and periodicals, books, network and other channels; 2. To organize and support the compilation and publication of Braille readers, talking books for visually impaired persons and other readers for disabled persons, and in light of the actual needs of visually impaired persons, set up reading rooms of Braille readers and talking books for visually impaired persons in a public library; 3. To launch television programs in sign language and special radio programs for disabled persons, and promote the adding of captions or narrations to television columns and film and television works; 4. To organize and support disabled persons carrying out mass cultural, sports and recreational activities, hold special artistic performances and sports games for disabled persons, and participate in international games and exchanges; and 5. To provide convenience and care for disabled persons at the cultural, sports, recreational and other public activity places, and set up activity places for disabled persons in a planned manner. The government and society shall encourage and help disabled persons to be engaged in
+The government and society shall take the following measures to enrich the spiritual and cultural life of disabled persons: 1. To serve disabled persons by timely publicizing and reporting information about the work and life of disabled persons through radio, film, television, newspapers and periodicals, books, network and other channels; 2. To organize and support the compilation and publication of Braille readers, talking books for visually impaired persons and other readers for disabled persons, and in light of the actual needs of visually impaired persons, set up reading rooms of Braille readers and talking books for visually impaired persons in a public library; 3. To launch television programs in sign language and special radio programs for disabled persons, and promote the adding of captions or narrations to television columns and film and television works; 4. To organize and support disabled persons carrying out mass cultural, sports and recreational activities, hold special artistic performances and sports games for disabled persons, and participate in international games and exchanges; and 5. To provide convenience and care for disabled persons at the cultural, sports, recreational and other public activity places, and set up activity places for disabled persons in a planned manner.
 
 ### Article 44
-literature, art, education, science, technology and other creative work for the benefit of the people.
+The government and society shall encourage and help disabled persons to be engaged in literature, art, education, science, technology and other creative work for the benefit of the people.
 
 ### Article 45
 The government and society shall promote the mutual understanding and communication between disabled persons and other citizens, publicize the cause of disabled persons and deeds of support of disabled persons, carry forward the unyielding spirit of disabled persons, and advocate a social fashion of solidarity, friendship and mutual assistance.
@@ -511,9 +529,9 @@ disabled persons in such aspects as basic medical treatment, rehabilitation serv
 ## 第五章　文化生活
 
 ### 第四十一条
-国家保障残疾人享有平等参与文化生活的 权利。 各级人民政府和有关部门鼓励、帮助残疾人参加各种文化、 体育、娱乐活动，积极创造条件，丰富残疾人精神文化生
+国家保障残疾人享有平等参与文化生活的权利。
 
-- 活。
+各级人民政府和有关部门鼓励、帮助残疾人参加各种文化、体育、娱乐活动，积极创造条件，丰富残疾人精神文化生活。
 ### 第四十二条
 残疾人文化、体育、娱乐活动应当面向基 层，融于社会公共文化生活，适应各类残疾人的不同特点和 需要，使残疾人广泛参与。
 ### 第四十三条
@@ -531,9 +549,17 @@ disabled persons in such aspects as basic medical treatment, rehabilitation serv
 ### 第四十七条
 残疾人及其所在单位应当按照国家有关规 定参加社会保险。 残疾人所在城乡基层群众性自治组织、残疾人家庭，应当鼓 励、帮助残疾人参加社会保险。 对生活确有困难的残疾人，按照国家有关规定给予社会保险 补贴。
 ### 第四十八条
-各级人民政府对生活确有困难的残疾人， 通过多种渠道给予生活、教育、住房和其他社会救助。 县级以上地方人民政府对享受最低生活保障待遇后生活仍有 特别困难的残疾人家庭，应当采取其他措施保障其基本生 活。 Subscribe Now Comments Online Support
+各级人民政府对生活确有困难的残疾人，通过多种渠道给予生活、教育、住房和其他社会救助。
 
-各级人民政府对贫困残疾人的基本医疗、康复服务、必要的 辅助器具的配置和更换，应当按照规定给予救助。
+县级以上地方人民政府对享受最低生活保障待遇后生活仍有特别困难的残疾人家庭，应当采取其他措施保障其基本生活。
+
+各级人民政府对贫困残疾人的基本医疗、康复服务、必要的辅助器具的配置和更换，应当按照规定给予救助。
+
+Subscribe Now
+
+Online Support
+
+Comments
 
 [[END OF PAGE 6]]
 
@@ -549,11 +575,13 @@ The state shall encourage and support the social forces setting up support and n
 The support and nursing institutions for disabled persons and workers thereof shall not insult, maltreat and abandon disabled persons.
 
 ### Article 50
-The people's government at and above the county level shall, in light of the actual persons may carry necessary personal auxiliary devices free of charge.
+The people's government at and above the county level shall, in light of the actual circumstances, provide convenience and preferences to disabled persons taking public transport. Disabled persons may carry necessary personal auxiliary devices free of charge.
 
-circumstances, provide convenience and preferences to disabled persons taking public transport. Disabled Visually impaired persons may, upon valid certificates, take urban buses, trolleybuses, subways and ferries free of charge. The mailing and delivery of Braille readers shall be free of charge. The state shall encourage and support telecommunication, radio and television service providers granting preferences to visually and aurally impaired persons and persons with speech disability. The people's governments at all levels shall gradually increase other care and support for disabled
+Visually impaired persons may, upon valid certificates, take urban buses, trolleybuses, subways and ferries free of charge. The mailing and delivery of Braille readers shall be free of charge.
 
-persons.
+The state shall encourage and support telecommunication, radio and television service providers granting preferences to visually and aurally impaired persons and persons with speech disability.
+
+The people's governments at all levels shall gradually increase other care and support for disabled persons.
 
 ### Article 51
 The relevant departments of the government and organizations of disabled persons shall establish and improve the channels for all walks of life to make donations and provide services to disabled persons, encourage and support the development of charity for disabled persons, and carry out such activities for the public good as volunteer assistance of disabled persons.
@@ -655,18 +683,20 @@ A visually impaired person who brings a guide dog into and out of a public place
 
 共停车场应当为残疾人设置专用停车位。
 
-Subscribe
-
 ### 第五十六条
-组织选举的部门应当为残疾人参加选举提 供便利；有条件的，应当为盲人提供盲文选票。 Now
+组织选举的部门应当为残疾人参加选举提供便利；有条件的，应当为盲人提供盲文选票。
+
+### 第五十七条
+国家鼓励和扶持无障碍辅助设备、无障碍交通工具的研制和开发。
+
+### 第五十八条
+盲人携带导盲犬出入公共场所，应当遵守国家有关规定。
+
+Subscribe Now
 
 Online Support
 
-### 第五十七条
-国家鼓励和扶持无障碍辅助设备、无障碍 交通工具的研制和开发。 Comments
-
-### 第五十八条
-盲人携带导盲犬出入公共场所，应当遵守 国家有关规定。
+Comments
 
 [[END OF PAGE 7]]
 
@@ -755,22 +785,18 @@ This Law shall come into force as of July 1, 2008.
 
 ## 第九章　附　则
 
+### 第六十八条
+本法自2008年7月1日起施行。（相关资料: 修订沿革条文释义）
+
 Subscribe
 
 Now
-
-### 第六十八条
-本法自 2008 年 7 月 1 日起施行。（相关资料
-
-:
 
 Online
 
 Support
 
 Comments
-
-修订沿革条文释义）
 
 [[END OF PAGE 8]]
 
@@ -784,21 +810,25 @@ Message: Please kindly comment on the present translation.
 
 Confirmation Code:
 
-网站管理体系符合 GB/T19001-2008/ISO 9001:2008 标准
+2323
 
 Click image to reset code
 
 Submit
-
-Home | About us | Disclaimer | Chinese
-
-北京市著名商标， 法律行业信息化最佳产品奖
 
 Translations are by lawinfochina.com, and we retain exclusive copyright over content found on our website except for content we publish as authorized by respective copyright owners or content that is publicly available from government sources.
 
 Due to differences in language, legal systems, and culture, English translations of Chinese law are for reference purposes only. Please use the official Chinese-language versions as the final authority. Lawinfochina.com and its staff will not be directly or indirectly liable for use of materials found on this website.
 
 We welcome your comments and suggestions, which assist us in continuing to improve the quality of our materials as we dynamically expand content.
+
+Home | About us | Disclaimer | Chinese
+
+网站管理体系符合 GB/T19001-2008/ISO 9001:2008 标准
+
+北京市著名商标， 法律行业信息化最佳产品奖
+
+可信网站 身份验证
 
 版权所有 ©
 
