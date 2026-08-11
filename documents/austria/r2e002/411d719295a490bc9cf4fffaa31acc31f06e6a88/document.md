@@ -12,7 +12,23 @@ StF: BGBl. I Nr.  22/1999 (NR: GP XX RV 1470 AB 1513 S. 149. BR: AB 5824 S. 647.
 
 ## Änderung
 
+BGBl. I Nr. 95/1999 (NR: GP XX AB 1795 S. 169. BR: AB 5947 S. 655.)
+BGBl. I Nr. 18/2001 (NR: GP XXI RV 394 AB 414 S. 56. BR: 6295 AB 6312 S. 672.)
+BGBl. I Nr. 1/2005 idF BGBl. I Nr. 19/2005 (VFB) (NR: GP XXII IA 465/A AB 764 S. 90. BR: 7162 AB 7195 S. 717.)
+BGBl. I Nr. 160/2006 (VfGH)
+BGBl. I Nr. 12/2007 (NR: GP XXIII IA 97/A AB 26 S. 14. BR: AB 7659 S. 743.)
+BGBl. I Nr. 47/2007 (NR: GP XXIII RV 76 AB 131 S. 25. BR: AB 7719 S. 746.)
+BGBl. I Nr. 2/2008 (1. BVRBG) (NR: GP XXIII RV 314 AB 370 S. 41. BR: 7799 AB 7830 S. 751.)
+BGBl. I Nr. 79/2013 (NR: GP XXIV RV 2164 AB 2282 S. 199. BR: 8945 AB 8957 S. 820.)
+BGBl. I Nr. 45/2014 (NR: GP XXV RV 136 AB 171 S. 30. BR: 9189 AB 9192 S. 831.)
+
 ## Präambel/Promulgationsklausel
+
+## Inhaltsverzeichnis
+
+### 1. Hauptstück
+
+### Allgemeine Bestimmungen
 
 §  1. Geltungsbereich
 
@@ -59,12 +75,6 @@ StF: BGBl. I Nr.  22/1999 (NR: GP XX RV 1470 AB 1513 S. 149. BR: AB 5824 S. 647.
 § 14. Aufgaben der Universitätsvertretung der Studierenden
 
 § 15. Organ gemäß § 12 Abs. 2
-
-## Inhaltsverzeichnis
-
-### 1. Hauptstück
-
-### Allgemeine Bestimmungen
 
 www.ris.bka.gv.at
 
@@ -200,6 +210,10 @@ Bundesrecht konsolidiert
 
 #### Direkte Mitbestimmung der Mitglieder
 
+§ 49. Antragsrecht
+
+§ 50. Urabstimmung
+
 ### 5. Hauptstück
 
 ### Aufsicht und Kontrolle
@@ -230,10 +244,6 @@ Bundesrecht konsolidiert
 
 ## Text
 
-§ 49. Antragsrecht
-
-§ 50. Urabstimmung
-
 #### 3. Abschnitt
 
 #### Vertretung der Studierenden an den Pädagogischen Hochschulen
@@ -243,19 +253,19 @@ Bundesrecht konsolidiert
 ###### § 20a.
 (1) An den Pädagogischen Hochschulen sind einzurichten:
 
-- eine Studiengangsvertretung für jeden Studiengang,
+1. eine Studiengangsvertretung für jeden Studiengang,
 
-- eine Pädagogische Hochschulvertretung.
+2. eine Pädagogische Hochschulvertretung.
 
-- Die  Studiengangsvertretung  besteht  an  Studiengängen  mit  bis  zu  250  Studierenden  aus  drei Vertreterinnen oder Vertretern, an Studiengängen mit mehr als 250 Studierenden aus fünf Vertreterinnen oder  Vertretern.  Die  Studiengangsvertretung  wählt  unter  sinngemäßer  Anwendung  des  § 24  aus  ihrer Mitte eine Vorsitzende oder einen Vorsitzenden (Vorsitzende oder Vorsitzender der Studiengangsvertretung) und eine Stellvertreterin oder einen Stellvertreter. Den Studiengangsvertretungen obliegt die Vertretung der Interessen der Studierenden des jeweiligen Studienganges.
+(2) Die Studiengangsvertretung besteht an Studiengängen mit bis zu 250 Studierenden aus drei Vertreterinnen oder Vertretern, an Studiengängen mit mehr als 250 Studierenden aus fünf Vertreterinnen oder Vertretern. Die Studiengangsvertretung wählt unter sinngemäßer Anwendung des § 24 aus ihrer Mitte eine Vorsitzende oder einen Vorsitzenden (Vorsitzende oder Vorsitzender der Studiengangsvertretung) und eine Stellvertreterin oder einen Stellvertreter. Den Studiengangsvertretungen obliegt die Vertretung der Interessen der Studierenden des jeweiligen Studienganges.
 
-- Die  Wahl  der  Studiengangsvertretung  ist  jedes  Jahr  innerhalb  der  ersten  beiden  Monate  des Studienjahres von der Rektorin oder dem  Rektor der Pädagogischen Hochschule in geheimer Abstimmung  durchzuführen.  Die  Vertreterinnen  und  Vertreter  sind  als  Personen  zu  wählen.  Das Wahlergebnis ist der oder dem Vorsitzenden der Österreichischen Hochschülerinnenund Hochschülerschaft umgehend bekanntzugeben.
+(3) Die Wahl der Studiengangsvertretung ist jedes Jahr innerhalb der ersten beiden Monate des Studienjahres von der Rektorin oder dem Rektor der Pädagogischen Hochschule in geheimer Abstimmung durchzuführen. Die Vertreterinnen und Vertreter sind als Personen zu wählen. Das Wahlergebnis ist der oder dem Vorsitzenden der Österreichischen Hochschülerinnen- und Hochschülerschaft umgehend bekanntzugeben.
 
-- Aktiv und passiv wahlberechtigt sind alle Studierenden des jeweiligen Studienganges, wenn sie zu Studien zugelassen sind, deren Curricula mindestens 30 ECTS-Anrechnungspunkte umfassen.
+(4) Aktiv und passiv wahlberechtigt sind alle Studierenden des jeweiligen Studienganges, wenn sie zu Studien zugelassen sind, deren Curricula mindestens 30 ECTS-Anrechnungspunkte umfassen.
 
-- Der Pädagogischen Hochschulvertretung gehören alle Mitglieder der Studiengangsvertretungen der  jeweiligen  Pädagogischen  Hochschule  an.  Die  Pädagogische  Hochschulvertretung  wählt  unter sinngemäßer Anwendung des § 24 aus ihrer Mitte eine Vorsitzende oder einen Vorsitzenden (Vorsitzende oder Vorsitzender der Pädagogischen Hochschulvertretung) und eine Stellvertreterin oder einen Stellvertreter. Der Pädagogischen Hochschulvertretung obliegt die Vertretung der Interessen der Studierenden an der jeweiligen Pädagogischen Hochschule gegenüber den Organen der Pädagogischen Hochschule (insbesondere Rektorin oder Rektor und Lehrpersonal).
+(5) Der Pädagogischen Hochschulvertretung gehören alle Mitglieder der Studiengangsvertretungen der jeweiligen Pädagogischen Hochschule an. Die Pädagogische Hochschulvertretung wählt unter sinngemäßer Anwendung des § 24 aus ihrer Mitte eine Vorsitzende oder einen Vorsitzenden (Vorsitzende oder Vorsitzender der Pädagogischen Hochschulvertretung) und eine Stellvertreterin oder einen Stellvertreter. Der Pädagogischen Hochschulvertretung obliegt die Vertretung der Interessen der Studierenden an der jeweiligen Pädagogischen Hochschule gegenüber den Organen der Pädagogischen Hochschule (insbesondere Rektorin oder Rektor und Lehrpersonal).
 
-- An  Pädagogischen  Hochschulen  mit  weniger  als  250  Studierenden  kann  die  Pädagogische Hochschulvertretung beschließen, dass eine Pädagogische Hochschulvertretung direkt von allen
+(6) An Pädagogischen Hochschulen mit weniger als 250 Studierenden kann die Pädagogische Hochschulvertretung beschließen, dass eine Pädagogische Hochschulvertretung direkt von allen
 
 www.ris.bka.gv.at
 
@@ -294,7 +304,7 @@ Anteile an den Wirtschaftsbetrieben,
 
 Vermögen (Aktiva und Passiva),
 
-Vereinbarungen  über  die  gemeinsame  Nutzung  von  Einrichtungen.  Der  Übertragungsplan  hat vorzusehen, dass für die Teilung der Anteile an den Wirtschaftsbetrieben sowohl jener Hochschülerinnenund  Hochschülerschaft,  aus  welcher  diese  Anteile  des  Wirtschaftsbetriebes  stammen,  als  auch  der Universitätsvertretung  Medizin  ein  Vorkaufsrecht  einzuräumen  ist.  Der  Vermögensübergang  erfolgt  im Wege  der  Gesamtrechtsnachfolge.  Der  Übertragungsplan  kann  auch  vorsehen,  dass  hinsichtlich  der Übertragung der Anteile an den Wirtschaftsbetrieben sowohl jener Hochschülerinnenund Hochschülerschaft, aus welcher diese Anteile stammten, als auch der Hochschülerinnenund Hochschülerschaft  an  der  jeweiligen  Medizinischen  Universität  eine  Behaltefrist  von  höchstens  einem Jahr  aufzuerlegen  ist.  Der  Übertragungsplan  ist  bis  zum  31. Mai  2005  der  Bundesministerin  oder  dem Bundesminister vorzulegen und von dieser oder diesem zu prüfen. Bei Vorliegen von Zweckmäßigkeit, Sparsamkeit und Rechtmäßigkeit ist der Übertragungsplan bescheidmäßig zu genehmigen. Mit Zustellung des Bescheides wird die Teilung rechtswirksam. Der Bescheid ist im amtlichen Teil der Wiener Zeitung zu verlautbaren.
+Vereinbarungen über die gemeinsame Nutzung von Einrichtungen. Der Übertragungsplan hat vorzusehen, dass für die Teilung der Anteile an den Wirtschaftsbetrieben sowohl jener Hochschülerinnen- und Hochschülerschaft, aus welcher diese Anteile des Wirtschaftsbetriebes stammen, als auch der Universitätsvertretung Medizin ein Vorkaufsrecht einzuräumen ist. Der Vermögensübergang erfolgt im Wege der Gesamtrechtsnachfolge. Der Übertragungsplan kann auch vorsehen, dass hinsichtlich der Übertragung der Anteile an den Wirtschaftsbetrieben sowohl jener Hochschülerinnen- und Hochschülerschaft, aus welcher diese Anteile stammten, als auch der Hochschülerinnen- und Hochschülerschaft an der jeweiligen Medizinischen Universität eine Behaltefrist von höchstens einem Jahr aufzuerlegen ist. Der Übertragungsplan ist bis zum 31. Mai 2005 der Bundesministerin oder dem Bundesminister vorzulegen und von dieser oder diesem zu prüfen. Bei Vorliegen von Zweckmäßigkeit, Sparsamkeit und Rechtmäßigkeit ist der Übertragungsplan bescheidmäßig zu genehmigen. Mit Zustellung des Bescheides wird die Teilung rechtswirksam. Der Bescheid ist im amtlichen Teil der Wiener Zeitung zu verlautbaren.
 
 www.ris.bka.gv.at
 
