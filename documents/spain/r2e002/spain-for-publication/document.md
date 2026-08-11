@@ -6,19 +6,19 @@
 
 ### A. Sobre la Recomendación de 1974
 
-- La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades  Fundamentales 1   (la  'Recomendación  de  1974')  tiene  por  objetivo  promover  la educación  internacional  y  la  paz  mundial  mediante  la  comprensión,  la  solidaridad  y  la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
+1. La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades Fundamentales1 (la “Recomendación de 1974”) tiene por objetivo promover la educación internacional y la paz mundial mediante la comprensión, la solidaridad y la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
 
-- La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos los niveles, desde la educación preescolar hasta la terciaria y a la educación de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 'adoptando las medidas legislativas o  de  otra  índole'  que  proporcionen  apoyo  institucional  (por  ejemplo,  políticas  y  marcos jurídicos)  y  pedagógico  (por  ejemplo,  planes  de  estudios,  formación  docente,  materiales educativos, equipo y evaluación del estudiantado) para su implementación, basándose en los 'objetivos'  mencionados  en  el  párrafo  4  de  la  Recomendación  y  considerados  como  'los principios  rectores  de  la  política  educacional',  a  saber:  una  dimensión  internacional  y  una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
+2. La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos los niveles, desde la educación preescolar hasta la terciaria y a la educación de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 “adoptando las medidas legislativas o de otra índole” que proporcionen apoyo institucional (por ejemplo, políticas y marcos jurídicos) y pedagógico (por ejemplo, planes de estudios, formación docente, materiales educativos, equipo y evaluación del estudiantado) para su implementación, basándose en los “objetivos” mencionados en el párrafo 4 de la Recomendación y considerados como “los principios rectores de la política educacional”, a saber: una dimensión internacional y una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
 
-- Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
+3. Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
 
-- La  Conferencia  General,  en  su  39ª  reunión,  recomendó  utilizar  el  proceso  de presentación  de  informes  en  el  marco  de  la  Recomendación  de  1974  para  apoyar  la implementación y el seguimiento de la meta 4.7 del ODS 4 (Resolución 39 C/79). [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los principios rectores vigentes tanto para el seguimiento de la Recomendación de 1974 como para la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
+4. La Conferencia General, en su 39ª reunión, recomendó utilizar el proceso de presentación de informes en el marco de la Recomendación de 1974 para apoyar la implementación y el seguimiento de la meta 4.7 del ODS 4 (Resolución 39 C/79). [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los principios rectores vigentes tanto para el seguimiento de la Recomendación de 1974 como para la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
 
 4.7.1, 12.8.1 y 13.3.1: Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en: a) las políticas nacionales de educación, b) los planes de estudios, c) la formación de docentes y d) la evaluación de los educandos.
 
-- Las  preguntas  marcadas  con  un  asterisco  (*)  se  emplearán  en  el  cálculo  de  los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
+5. Las preguntas marcadas con un asterisco (*) se emplearán en el cálculo de los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
 
-> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_ SECTION=201.html.
+> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html.
 
 [[END OF PAGE 1]]
 
@@ -34,23 +34,25 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Obligaciones en materia de presentación de informes
 
-6. La  Conferencia  General,  en  su  18ª  reunión,  al  aprobar  la  Recomendación  de  1974 recomendó a 'los Estados Miembros que presenten [...] informes relativos al accionar llevado adelante para la aplicación dela presente Recomendación'. Además, de conformidad con el artículo VIII de la Constitución de la UNESCO, '[cada] Estado Miembro someterá [...] informes sobre [...] el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV'.7. Así, se  espera  que  todos  los  Estados  Miembros  de  la  UNESCO presenten informes sobre las medidas que han adoptado para aplicar la Recomendación de 1974, de preferencia completando el siguiente cuestionario. Los informes deberán presentarse cada cuatro años.
+6. La Conferencia General, en su 18ª reunión, al aprobar la Recomendación de 1974 recomendó a “los Estados Miembros que presenten [...] informes relativos al accionar llevado adelante para la aplicación dela presente Recomendación”. Además, de conformidad con el artículo VIII de la Constitución de la UNESCO, “[cada] Estado Miembro someterá [...] informes sobre [...] el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV”.
+
+7. Así, se espera que todos los Estados Miembros de la UNESCO presenten informes sobre las medidas que han adoptado para aplicar la Recomendación de 1974, de preferencia completando el siguiente cuestionario. Los informes deberán presentarse cada cuatro años.
 
 ## II. Orientaciones para completar el cuestionario
 
 8. El presente cuestionario y las orientaciones que lo acompañan se dirigen a los Ministros encargados de las relaciones con la UNESCO. Por lo general, los Ministerios de Educación y otras autoridades públicas encargadas de la educación son quienes completan el cuestionario. En la medida de lo posible, las respuestas deberán abarcar la educación en todos los niveles de gobierno, incluidos los niveles subnacionales cuando corresponda, así como la educación privada.
 
-- Se alienta a quienes respondan al cuestionario en cada país a que celebren amplias consultas dentro y fuera del gobierno, así como de manera transversal, en particular con los ministerios de Medio Ambiente, instituciones nacionales de derechos humanos, el sector de la educación, los asociados de la sociedad civil y otras instancias, según sea necesario, a fin de reunir la información necesaria.
+9. Se alienta a quienes respondan al cuestionario en cada país a que celebren amplias consultas dentro y fuera del gobierno, así como de manera transversal, en particular con los ministerios de Medio Ambiente, instituciones nacionales de derechos humanos, el sector de la educación, los asociados de la sociedad civil y otras instancias, según sea necesario, a fin de reunir la información necesaria.
 
-- Las respuestas a la séptima consulta deberían abarcar:
+10. Las respuestas a la séptima consulta deberían abarcar:
 
-- el período 2017-2020;
+i) el período 2017-2020;
 
-- ii) la  educación  en  todos  los  niveles  de  la  educación  formal,  desde  la  preescolar hasta la terciaria, así como la educación no formal;
+ii) la educación en todos los niveles de la educación formal, desde la preescolar hasta la terciaria, así como la educación no formal;
 
-- iii) todos los niveles de gobierno encargados de la educación en el país;
+iii) todos los niveles de gobierno encargados de la educación en el país;
 
-- iv) cuando sea posible, la educación privada.
+iv) cuando sea posible, la educación privada.
 
 11. Para  ayudar  a  los  países  a  responder  el  cuestionario,  la  UNESCO  ha  elaborado  el siguiente conjunto de temas relacionados con la ECM y la EDS. La lista se basa en un examen de  las  prácticas  comunes  utilizadas  en  muchos  países,  así  como  en  un  análisis  de  las publicaciones pertinentes. Aunque los conceptos de EDS y ECM pueden utilizarse de manera diferente  en  algunos  países,  la  lista  de  temas  recoge  por  lo  general  los  elementos considerados fundamentales de la meta 4.7. Sírvase consultar las definiciones de los términos principales en la sección III antes de completar el cuestionario.
 
@@ -60,71 +62,71 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Educación para la ciudadanía mundial y educación para el desarrollo sostenible
 
-- Diversidad cultural y tolerancia
+1. Diversidad cultural y tolerancia
 
-- 1.1 Entendimiento internacional o intercultural, solidaridad y cooperación.
+1.1 Entendimiento internacional o intercultural, solidaridad y cooperación.
 
-- 1.2 Diálogo intercultural e interreligioso
+1.2 Diálogo intercultural e interreligioso
 
-- 1.3 Ciudadanía local, nacional o mundial
+1.3 Ciudadanía local, nacional o mundial
 
-- Educación para la igualdad de género
+2. Educación para la igualdad de género
 
-- 2.1 Igualdad de oportunidades basadas en el género
+2.1 Igualdad de oportunidades basadas en el género
 
-- 2.2 Igualdad de género y justicia
+2.2 Igualdad de género y justicia
 
-- 2.3 Roles, identidad y estereotipos de género
+2.3 Roles, identidad y estereotipos de género
 
-- Educación en derechos humanos
+3. Educación en derechos humanos
 
-- 3.1 Igualdad  y  no  discriminación  por  motivos  de  raza,  color,  idioma,  religión, discapacidad,  opinión  política  o  de  otra  índole,  origen  nacional  o  social, nacimiento o cualquier otra condición
+3.1 Igualdad y no discriminación por motivos de raza, color, idioma, religión, discapacidad, opinión política o de otra índole, origen nacional o social, nacimiento o cualquier otra condición
 
-- 3.2 Valores  de  derechos  humanos,  dignidad  humana,  justicia,  inclusión  y participación
+3.2 Valores de derechos humanos, dignidad humana, justicia, inclusión y participación
 
-- 3.3 Respeto de los derechos humanos y las libertades fundamentales (tal como son definidos en las convenciones y declaraciones internacionales)
+3.3 Respeto de los derechos humanos y las libertades fundamentales (tal como son definidos en las convenciones y declaraciones internacionales)
 
-- Paz y no violencia
+4. Paz y no violencia
 
-- 4.1 Relaciones amistosas entre los pueblos y las naciones
+4.1 Relaciones amistosas entre los pueblos y las naciones
 
-- 4.2 Cuestionamiento  a  los  estereotipos  negativos,  promoción  de  soluciones pacíficas,  aprendizaje  para  la  convivencia,  inclusión  y  prevención  del extremismo violento
+4.2 Cuestionamiento a los estereotipos negativos, promoción de soluciones pacíficas, aprendizaje para la convivencia, inclusión y prevención del extremismo violento
 
-- 4.3 Prevención de todas las formas de violencia, como el acoso, la agresión verbal y la violencia de género
+4.3 Prevención de todas las formas de violencia, como el acoso, la agresión verbal y la violencia de género
 
-- Educación sobre el cambio climático
+5. Educación sobre el cambio climático
 
-- 5.1 Mitigación
+5.1 Mitigación
 
-- 5.2 Adaptación
+5.2 Adaptación
 
-- 5.3 Reducción del impacto
+5.3 Reducción del impacto
 
-- 5.4 Alerta temprana
+5.4 Alerta temprana
 
-- Sostenibilidad ambiental
+6. Sostenibilidad ambiental
 
-- 6.1 Cuidado del planeta y protección de la naturaleza
+6.1 Cuidado del planeta y protección de la naturaleza
 
-- 6.2 Justicia ambiental
+6.2 Justicia ambiental
 
-- 6.3 Biodiversidad, agua
+6.3 Biodiversidad, agua
 
-- Supervivencia y bienestar humanos
+7. Supervivencia y bienestar humanos
 
-- 7.1 Salud ambiental en la medida en la medida en que se relaciona con el al bienestar humano y la reducción del riesgo de desastres
+7.1 Salud ambiental en la medida en la medida en que se relaciona con el al bienestar humano y la reducción del riesgo de desastres
 
-- 7.2 Salud del planeta para las generaciones venideras
+7.2 Salud del planeta para las generaciones venideras
 
-- 7.3 Ciudades y comunidades sostenibles
+7.3 Ciudades y comunidades sostenibles
 
-- Consumo y producción sostenibles
+8. Consumo y producción sostenibles
 
-- 8.1 Estilos de vida responsables y sostenibles
+8.1 Estilos de vida responsables y sostenibles
 
-- 8.2 Economía verde y empleos verdes
+8.2 Economía verde y empleos verdes
 
-- 8.3 Energía sostenible
+8.3 Energía sostenible
 
 [[END OF PAGE 3]]
 
@@ -181,13 +183,7 @@ Formación profesional | Educación diseñada para que el estudiantado adquiera 
 
 [[START OF PAGE 8]]
 
-## Información sobre la persona que responde a la encuesta
-
-ESPAÑA
----
-
-14.05.2021
----
+## IV. Información sobre la persona que responde a la encuesta
 
 País:
 
@@ -229,7 +225,7 @@ Otros (indique cuáles):
 
 ## VI. Cuestionario
 
-### Leyes y políticas (preámbulo y párrafos 4 y 7 de la Recomendación de 1974)
+### A. Leyes y políticas (preámbulo y párrafos 4 y 7 de la Recomendación de 1974)
 
 #### A1a.  Por favor describa las leyes, legislación o marcos jurídicos nacionales o subnacionales específicos  de  su  país  que  rigen  la  promoción  de  la  educación  para  la  ciudadanía mundial (ECM) y la educación para el desarrollo sostenible (EDS). Explique si los temas de la ECM y la EDS 2  se mencionan de manera explícita o implícita y qué tipos o niveles de educación abarcan.
 
@@ -241,7 +237,7 @@ Así, la educación para el desarrollo sostenible y la ciudadanía mundial ha de
 
 También recoge la norma que los centros docentes deben convertirse en lugares de cuidado del  medio  ambiente  y  promover  una  cultura  de  sostenibilidad  ambiental  y  cooperación social, desarrollando programas de estilos de vida sostenible y fomentando el reciclaje y el contacto con los espacios verdes.
 
-La LOMLOE recoge, entre otros principios del sistema educativo, la equidad, que garantice la igualdad de oportunidades, la inclusión educativa, la igualdad de derechos y oportunidades, y no discriminación de las personas por razón de nacimiento, sexo, origen racial  o  étnico,  religión,  convicción,  edad,  orientación  o  identidad  sexual,  enfermedad,  o cualquier otra condición o circunstancia. La accesibilidad universal a la educación, que actúe como elemento compensador de las desigualdades personales, culturales, económicas y sociales, sobre todo las que se deriven de cualquier tipo de discapacidad, de acuerdo con lo  establecido en la Convención sobre los Derechos de las Personas con Discapacidad, ratificada  en  2008,  por  España.  Asimismo,  recoge  la  educación  para  la  convivencia,  el respeto, la prevención de conflictos y la resolución pacífica de los mismos. Presta atención al acoso escolar y ciberacoso con el fin de ayudar al alumnado a reconocer toda forma de maltrato, abuso sexual, violencia o discriminación y reaccionar frente a ella. Fomenta el desarrollo de la igualdad de derechos, deberes y oportunidades, el respeto a la diversidad afectivo-sexual  y  familiar  la  igualdad  efectiva  de  mujeres  y  hombres  a  través  de  la coeducación de niños y niñas, la educación afectivo-sexual, y la prevención de la violencia de  género,  así  como  el  fomento  del  espíritu  crítico  y  la  ciudadanía  activa.  Finalmente reconoce  la  educación  para  la  transición  ecológica  con  criterios  de  justicia  social  como contribución a la sostenibilidad ambiental, social y económica.
+La LOMLOE recoge, entre otros principios del sistema educativo, la equidad, que garantice la igualdad de oportunidades, la inclusión educativa, la igualdad de derechos y oportunidades, y no discriminación de las personas por razón de nacimiento, sexo, origen racial o étnico, religión, convicción, edad, orientación o identidad sexual, enfermedad, o cualquier otra condición o circunstancia. La accesibilidad universal a la educación, que actúe como elemento compensador de las desigualdades personales, culturales, económicas y sociales, sobre todo las que se deriven de cualquier tipo de discapacidad, de acuerdo con lo establecido en la Convención sobre los Derechos de las Personas con Discapacidad, ratificada en 2008, por España. Asimismo, recoge la educación para la convivencia, el respeto, la prevención de conflictos y la resolución pacífica de los mismos. Presta atención al acoso escolar y ciberacoso con el fin de ayudar al alumnado a reconocer toda forma de
 
 > 2 Véase el esquema que figura en el párrafo 11 de la sección II de estas orientaciones.
 
@@ -249,7 +245,9 @@ La LOMLOE recoge, entre otros principios del sistema educativo, la equidad, que 
 
 [[START OF PAGE 11]]
 
-Esta base permite desarrollar en la legislación educativa una nueva estructura que permite trabajar la sostenibilidad en las relaciones con el entorno cercano al centro escolar. En el articulado se suscribe que con el fin de promover una cultura de la sostenibilidad ambiental y  de  la  cooperación  social  para  proteger  nuestra  biodiversidad,  las  Administraciones educativas  favorecerán,  en  coordinación  con  las  instituciones  y  organizaciones  de  su entorno, la sostenibilidad de los centros, su relación con el medio natural y su adaptación a las  consecuencias  derivadas  del  cambio  climático.  Asimismo,  garantizarán  los  caminos escolares seguros  y  promoverán  desplazamientos  sostenibles  en  los  diferentes  ámbitos territoriales, como fuente de experiencia y aprendizaje vital.
+maltrato, abuso sexual, violencia o discriminación y reaccionar frente a ella. Fomenta el desarrollo de la igualdad de derechos, deberes y oportunidades, el respeto a la diversidad afectivo-sexual y familiar la igualdad efectiva de mujeres y hombres a través de la coeducación de niños y niñas, la educación afectivo-sexual, y la prevención de la violencia de género, así como el fomento del espíritu crítico y la ciudadanía activa. Finalmente reconoce la educación para la transición ecológica con criterios de justicia social como contribución a la sostenibilidad ambiental, social y económica.
+
+Esta base permite desarrollar en la legislación educativa una nueva estructura que permite trabajar la sostenibilidad en las relaciones con el entorno cercano al centro escolar. En el articulado se suscribe que con el fin de promover una cultura de la sostenibilidad ambiental y de la cooperación social para proteger nuestra biodiversidad, las Administraciones educativas favorecerán, en coordinación con las instituciones y organizaciones de su entorno, la sostenibilidad de los centros, su relación con el medio natural y su adaptación a las consecuencias derivadas del cambio climático. Asimismo, garantizarán los caminos escolares seguros y promoverán desplazamientos sostenibles en los diferentes ámbitos territoriales, como fuente de experiencia y aprendizaje vital.
 
 Referido a las diferentes etapas del sistema educativo, en la educación infantil, los principios pedagógicos de la etapa destacan que se atenderá progresivamente al desarrollo afectivo, a la gestión emocional, al movimiento y los hábitos de control corporal, a las manifestaciones de la comunicación y del lenguaje, a las pautas elementales de convivencia y relación social, así  como al descubrimiento del entorno, de los seres vivos que en él conviven y de las características  físicas  y  sociales  del  medio  en  el  que  viven.  También  se  incluirán  la educación  en  valores,  la  educación  para  el  consumo  responsable  y  sostenible  y  la promoción y educación para la salud.
 
@@ -295,7 +293,7 @@ https://www.boe.es/boe/dias/2005/12/01/pdfs/A39418-39419.pdf
 
 - Proyecto de Ley de cambio climático y transición energética.
 
-https://www.senado.es/legis14/publicaciones/pdf/senado/bocg/BOCG_D_14_170_1737.P DF
+https://www.senado.es/legis14/publicaciones/pdf/senado/bocg/BOCG_D_14_170_1737.PDF
 
 [[END OF PAGE 12]]
 
@@ -305,17 +303,17 @@ https://www.senado.es/legis14/publicaciones/pdf/senado/bocg/BOCG_D_14_170_1737.P
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica (por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
 
-Nacional | Subnacional
---- | --- | --- | --- | --- | --- | --- | ---
-Preescolar | Primaria/ secundaria | Terciaria | No formal | Preescolar | Primaria/ secundaria | Terciaria | No formal
-1. | Diversidad cultural y tolerancia | 1 | 1 | 1 | 1
-2. | Igualdad de género | 1 | 1 | 1 | 1
-3. | Derechos humanos | 1 | 1 | 1 | 1
-4. | Paz y no violencia | 1 | 1 | 1 | 1
-5. | Cambio climático | 1 | 1 | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1 | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1 | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1 | 1 | 1
+ | Nacional |  |  |  | Subnacional |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Preescolar | Primaria/secundaria | Terciaria | No formal | Preescolar | Primaria/secundaria | Terciaria | No formal
+1. Diversidad cultural y tolerancia | 1 | 1 |  |  | 1 | 1 |  | 
+2. Igualdad de género | 1 | 1 |  |  | 1 | 1 |  | 
+3. Derechos humanos | 1 | 1 |  |  | 1 | 1 |  | 
+4. Paz y no violencia | 1 | 1 |  |  | 1 | 1 |  | 
+5. Cambio climático | 1 | 1 |  |  | 1 | 1 |  | 
+6. Sostenibilidad ambiental | 1 | 1 |  |  | 1 | 1 |  | 
+7. Supervivencia y bienestar humanos | 1 | 1 |  |  | 1 | 1 |  | 
+8. Consumo y producción sostenibles | 1 | 1 |  |  | 1 | 1 |  | 
 
 #### A3a.  Por  favor  describa  las  políticas,  marcos  u  objetivos  estratégicos  de  educación nacionales o subnacionales específicos de su país que estén actualmente vigentes y que  promueven  la  ECM  y  la  EDS.  Explique  si  los  temas  de  la  ECM  y  la  EDS 3 se mencionan de manera explícita o implícita y qué tipos o niveles de educación abarcan.
 
@@ -331,24 +329,24 @@ Este desarrollo se concreta no solo a nivel de materias como las indicadas con a
 
 Tanto la actual y la futura ley de cooperación internacional para el desarrollo como la recientemente aprobada  Ley de cambio climático y transición energética, refieren el trabajo en materai de EDS y ECM. Asimismo el PAEAS, actualmente en desarrollo y propuesto desde el Acuerdo de consejo de ministros por el que se aprueba la declaración del gobierno ante la emergencia climática y ambiental, trabaja la componente más ecosocial de la EDS y, la estrategía de educación para el desarrollo de la cooperacion española apuntan en esta misma línea de trabajo sobre los enfoques de desarrollo sostenible y ciudadanía global
 
-#### A3b.  Por  favor  proporcione  los  nombres  completos  de  las  políticas,  marcos  u  objetivos estratégicos de educación a que se hace referencia en el apartado A3a y, de ser posible, los enlaces de Internet a los documentos pertinentes.
-
-#### *A4.  Por favor indique qué temas de la ECM y la EDS están contemplados en las políticas, marcos  u  objetivos  estratégicos  de  educación  nacionales  o  subnacionales  que  se aplican a cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
+#### A3b. Por favor proporcione los nombres completos de las políticas, marcos u objetivos estratégicos de educación a que se hace referencia en el apartado A3a y, de ser posible, los enlaces de Internet a los documentos pertinentes.
 
 Igual que en A1b
 
+#### *A4. Por favor indique qué temas de la ECM y la EDS están contemplados en las políticas, marcos u objetivos estratégicos de educación nacionales o subnacionales que se aplican a cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
+
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1
-2. | Igualdad de género | 1 | 1
-3. | Derechos humanos | 1 | 1
-4. | Paz y no violencia | 1 | 1
-5. | Cambio climático | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+1. Diversidad cultural y tolerancia | 1 | 1 |  | 
+2. Igualdad de género | 1 | 1 |  | 
+3. Derechos humanos | 1 | 1 |  | 
+4. Paz y no violencia | 1 | 1 |  | 
+5. Cambio climático | 1 | 1 |  | 
+6. Sostenibilidad ambiental | 1 | 1 |  | 
+7. Supervivencia y bienestar humanos | 1 | 1 |  | 
+8. Consumo y producción sostenibles | 1 | 1 |  | 
 
 [[END OF PAGE 14]]
 
@@ -356,24 +354,24 @@ Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 
 #### *A5.  Por  favor  indique  si  las  políticas,  marcos  u  objetivos  estratégicos  de  educación nacionales  o  subnacionales  prevén  el  mandato  de  integrar  la  ECM  y  la  EDS  en  los siguientes ámbitos, introduciendo el número correspondiente en cada casilla blanca.
 
-CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica ( por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
+CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica (por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Nacional
-Elaboración o revisión de los planes de estudios | 1 | 1
-Establecimiento de los objetivos de aprendizaje del programa | 1 | 1
-Elaboración de libros de texto | 1 | 1
-Educación y formación docente | 1 | 1
-Evaluación de los resultados del aprendizaje de las y los estudiantes | 1 | 1
-Subnacional
-Elaboración o revisión de los planes de estudios | 1 | 1
-Establecimiento de los objetivos de aprendizaje del programa | 1 | 1
-Elaboración de libros de texto | 1 | 1
-Educación y formación docente | 1 | 1
-Evaluación de los resultados del aprendizaje de las y los estudiantes | 1 | 1
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+Nacional |  |  |  | 
+Elaboración o revisión de los planes de estudios | 1 | 1 |  | 
+Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 |  | 
+Elaboración de libros de texto | 1 | 1 |  | 
+Educación y formación docente | 1 | 1 |  | 
+Evaluación de los resultados del aprendizaje de las y los estudiantes | 1 | 1 |  | 
+Subnacional |  |  |  | 
+Elaboración o revisión de los planes de estudios | 1 | 1 |  | 
+Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 |  | 
+Elaboración de libros de texto | 1 | 1 |  | 
+Educación y formación docente | 1 | 1 |  | 
+Evaluación de los resultados del aprendizaje de las y los estudiantes | 1 | 1 |  | 
 
-### Plan de estudios (párrafos 4 y 10 a 19 de la Recomendación de 1974)
+### B. Plan de estudios (párrafos 4 y 10 a 19 de la Recomendación de 1974)
 
 #### B1a.  Por  favor  describa  de  qué  manera  se  transversalizan  en  los  planes  de  estudios escolares la ECM y la EDS. Indique si se enseñan como asignaturas independientes o se integran en los planes de estudios de otras asignaturas. Explique si los temas de la ECM y la EDS 4  se mencionan de manera explícita o implícita y qué tipos o niveles de educación abarcan.
 
@@ -411,26 +409,26 @@ https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-17264
 
 [[START OF PAGE 17]]
 
-#### *B2.  Por favor indique qué temas de la ECM y la EDS se enseñan como parte del plan de estudios en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
-
-#### *B3.  Por favor indique en qué asignaturas o campos de estudio se imparten la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
+#### *B2. Por favor indique qué temas de la ECM y la EDS se enseñan como parte del plan de estudios en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1
-2. | Igualdad de género | 1 | 1
-3. | Derechos humanos | 1 | 1
-4. | Paz y no violencia | 1 | 1
-5. | Cambio climático | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+1. Diversidad cultural y tolerancia | 1 | 1 |  | 
+2. Igualdad de género | 1 | 1 |  | 
+3. Derechos humanos | 1 | 1 |  | 
+4. Paz y no violencia | 1 | 1 |  | 
+5. Cambio climático | 1 | 1 |  | 
+6. Sostenibilidad ambiental | 1 | 1 |  | 
+7. Supervivencia y bienestar humanos | 1 | 1 |  | 
+8. Consumo y producción sostenibles | 1 | 1 |  | 
+
+#### *B3. Por favor indique en qué asignaturas o campos de estudio se imparten la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Diversidad cultural y tolerancia | Igualdad de género | Derechos humanos | Paz y no violencia | Cambio climático | Sostenibilidad ambiental | Supervivencia y bienestar humanos | Consumo y producción sostenibles
+ | Diversidad cultural y tolerancia | Igualdad de género | Derechos humanos | Paz y no violencia | Cambio climático | Sostenibilidad ambiental | Supervivencia y bienestar humanos | Consumo y producción sostenibles
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Artes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Educación cívica, civil o para la ciudadanía | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -444,39 +442,39 @@ Educación religiosa | 1 | 1 | 1 | 1 | 9 | 9 | 1 | 9
 Ciencia | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Estudios sociales | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Estudios integrados | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-Otros (indique cuáles)
+Otros (indique cuáles) |  |  |  |  |  |  |  | 
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-#### *B4.  Por favor indique los enfoques utilizados para la enseñanza de la ECM y la EDS en la enseñanza primaria y secundaria,  introduciendo  el  número  correspondiente  en  cada casilla blanca.
-
-#### B5. Por favor indique qué temas de la educación en derechos humanos se enseñan como parte  del  plan  de  estudios  en  cada  nivel  de  educación,  introduciendo  el  número correspondiente en cada casilla blanca.
+#### *B4. Por favor indique los enfoques utilizados para la enseñanza de la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Educación para la ciudadanía mundial y educación para el desarrollo sostenible
+ | Educación para la ciudadanía mundial y educación para el desarrollo sostenible
 --- | ---
 La ECM y la EDS se enseñan como asignaturas separadas | 0
 Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 1
 Enfoque integrado (por ejemplo, la ECM y la EDS se enseñan en todo el plan de estudios) | 1
 Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíritu, la gestión, la gobernanza, el plan de estudios, la formación docente, las prácticas de enseñanza y el entorno de aprendizaje de la escuela, así como en las experiencias de aprendizaje en la comunidad y la vida fuera de la escuela) | 1
 
+#### B5. Por favor indique qué temas de la educación en derechos humanos se enseñan como parte del plan de estudios en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
+
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-3. | Educación en derechos humanos
-3.1 | Igualdad y no discriminación por motivos de raza, color, idioma, religión, discapacidad, opinión política o de otra índole, origen nacional o social, nacimiento o cualquier otra condición | 1 | 1
-3.2 | Valores de derechos humanos, dignidad humana, justicia, inclusión y participación | 1 | 1
-3.3 | Respeto de los derechos humanos y las libertades fundamentales (definidos en las convenciones y declaraciones internacionales) | 1 | 1
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+3. Educación en derechos humanos |  |  |  | 
+3.1 Igualdad y no discriminación por motivos de raza, color, idioma, religión, discapacidad, opinión política o de otra índole, origen nacional o social, nacimiento o cualquier otra condición | 1 | 1 |  | 
+3.2 Valores de derechos humanos, dignidad humana, justicia, inclusión y participación | 1 | 1 |  | 
+3.3 Respeto de los derechos humanos y las libertades fundamentales (definidos en las convenciones y declaraciones internacionales) | 1 | 1 |  | 
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-### Formación docente (incluida la formación de formadores y educadores) (párrafos 4 y 33 a 37 de la Recomendación de 1974)
+### C. Formación docente (incluida la formación de formadores y educadores) (párrafos 4 y 33 a 37 de la Recomendación de 1974)
 
 #### C1a.  Por favor describa de qué manera se transversalizan la ECM y la EDS en la formación inicial  y  en  el  desarrollo  profesional  continuo  de  las  y  los  docentes,  formadores  y educadores. Indique si todos los docentes, formadores y educadores o solo algunos deben recibir formación para enseñar la ECM y la EDS.
 
@@ -490,66 +488,80 @@ Así  mismo,  la  Orden  ECI/3858/2007,  de  27  de  diciembre,  por  la  que  s
 
 Ejemplos de cursos de formación en línea y enlace a última convocatoria cursos de verano para el desarrollo profesional continuo y relacionados con la ECM y la EDS:
 
-http://aprende.intef.es/aprendiario/tutorizadas/educacion-para-un-desarrollo-y-estilos-devida-sostenibles-2a-ed-2020
+http://aprende.intef.es/aprendiario/tutorizadas/educacion-para-un-desarrollo-y-estilos-de-vida-sostenibles-2a-ed-2020
 
 https://enlinea.intef.es/courses/course-v1:INTEF+UNICEFMOOC+2020_ED1/about
 
 https://enlinea.intef.es/courses/course-v1:INTEF+ClimaMOOC+2019_4T/about
 
-https://enlinea.intef.es/courses/course-v1:NOOCINTEF+SostenibilidadDIG+2018_ED2/about https://enlinea.intef.es/courses/course-v1:INTEF+EducaIguales+2020_ED4/about https://enlinea.intef.es/courses/course-v1:INTEF+EcoahorroDig+2019_ED1/about https://enlinea.intef.es/courses/course-v1:INTEF+CO2TIC+2019_ED1/about https://enlinea.intef.es/courses/course-v1:INTEF+EduEmocionalMooc+2018_ED1/about http://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/profesorado/profesoradono-universitario/cursos-y-jornadas/cursos-verano-profesorado.html https://www.miteco.gob.es/es/ceneam/recursos/mini-portales-tematicos/ESenRED/que-esesenred.aspx https://www.aecid.es/ES/la-aecid/educaci%C3%B3n-y-sensibilizaci%C3%B3n-para-eldesarrollo/programa-docentes-para-el-desarrollo-epd-en-centros-educativos
+https://enlinea.intef.es/courses/course-v1:NOOC-INTEF+SostenibilidadDIG+2018_ED2/about
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-#### *C2.  Por favor indique si las y los docentes, formadores y educadores reciben formación para la enseñanza de la ECM y la EDS durante la formación inicial o previa al ejercicio de la docencia o mediante el desarrollo profesional continuo. Introduzca el número apropiado en cada casilla blanca.
+https://enlinea.intef.es/courses/course-v1:INTEF+EducaIguales+2020_ED4/about
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Formación inicial o previa al ejercicio de la docencia
-Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 1 | 1
-Para docentes de otras asignaturas | 1 | 1
-Desarrollo profesional continuo
-Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 1 | 1
-Para docentes de otras asignaturas | 1 | 1
+https://enlinea.intef.es/courses/course-v1:INTEF+EcoahorroDig+2019_ED1/about
+
+https://enlinea.intef.es/courses/course-v1:INTEF+CO2TIC+2019_ED1/about
+
+https://enlinea.intef.es/courses/course-v1:INTEF+EduEmocionalMooc+2018_ED1/about
+
+http://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/profesorado/profesorado-no-universitario/cursos-y-jornadas/cursos-verano-profesorado.html
+
+https://www.miteco.gob.es/es/ceneam/recursos/mini-portales-tematicos/ESenRED/que-es-esenred.aspx
+
+https://www.aecid.es/ES/la-aecid/educaci%C3%B3n-y-sensibilizaci%C3%B3n-para-el-desarrollo/programa-docentes-para-el-desarrollo-epd-en-centros-educativos
+
+#### *C2. Por favor indique si las y los docentes, formadores y educadores reciben formación para la enseñanza de la ECM y la EDS durante la formación inicial o previa al ejercicio de la docencia o mediante el desarrollo profesional continuo. Introduzca el número apropiado en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
+
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+Formación inicial o previa al ejercicio de la docencia |  |  |  | 
+Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 1 | 1 |  | 
+Para docentes de otras asignaturas | 1 | 1 |  | 
+Desarrollo profesional continuo |  |  |  | 
+Solo para docentes de determinadas asignaturas (en las que se suele enseñar ECM y EDS) | 1 | 1 |  | 
+Para docentes de otras asignaturas | 1 | 1 |  | 
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-#### *C3.  Por  favor  indique  sobre  qué  temas  de  la  ECM  y  la  EDS  existe  formación  inicial  o formación  continua  dirigida  a  docentes,  formadores  y  educadores  en  cada  nivel  de educación, introduciendo el número correspondiente en cada casilla blanca.
-
-#### *C4.  Por favor indique si las y los docentes, formadores y educadores reciben formación para enseñar las siguientes dimensiones del aprendizaje de la ECM y la EDS. Introduzca el número apropiado en cada casilla blanca.
-
-#### *C5.  Por  favor  indique  si  los  docentes,  formadores  y  educadores  reciben  formación  para utilizar los siguientes enfoques para la enseñanza de la ECM y la EDS en los niveles primario y secundario, introduciendo el número correspondiente en cada casilla blanca.
+#### *C3. Por favor indique sobre qué temas de la ECM y la EDS existe formación inicial o formación continua dirigida a docentes, formadores y educadores en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1
-2. | Igualdad de género | 1 | 1
-3. | Derechos humanos | 1 | 1
-4. | Paz y no violencia | 1 | 1
-5. | Cambio climático | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+1. Diversidad cultural y tolerancia | 1 | 1 |  | 
+2. Igualdad de género | 1 | 1 |  | 
+3. Derechos humanos | 1 | 1 |  | 
+4. Paz y no violencia | 1 | 1 |  | 
+5. Cambio climático | 1 | 1 |  | 
+6. Sostenibilidad ambiental | 1 | 1 |  | 
+7. Supervivencia y bienestar humanos | 1 | 1 |  | 
+8. Consumo y producción sostenibles | 1 | 1 |  | 
+
+#### *C4. Por favor indique si las y los docentes, formadores y educadores reciben formación para enseñar las siguientes dimensiones del aprendizaje de la ECM y la EDS. Introduzca el número apropiado en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Conocimientos | 1 | 1
-Habilidades | 1 | 1
-Valores | 1 | 1
-Actitudes y comportamientos | 1 | 1
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+Conocimientos | 1 | 1 |  | 
+Habilidades | 1 | 1 |  | 
+Valores | 1 | 1 |  | 
+Actitudes y comportamientos | 1 | 1 |  | 
+
+#### *C5. Por favor indique si los docentes, formadores y educadores reciben formación para utilizar los siguientes enfoques para la enseñanza de la ECM y la EDS en los niveles primario y secundario, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Educación para la ciudadanía mundial y educación para el desarrollo sostenible
+ | Educación para la ciudadanía mundial y educación para el desarrollo sostenible
 --- | ---
 La ECM y la EDS se enseñan como asignaturas separadas | 0
 Enfoque transversal (por ejemplo, la ECM y la EDS se enseñan en más de una asignatura, pero no en todo el plan de estudios) | 1
@@ -562,7 +574,7 @@ Enfoque escolar integral (por ejemplo, la ECM y la EDS se integran en el espíri
 
 experiencias de aprendizaje en la comunidad y la vida fuera de la escuela)
 
-### Evaluación de las y los estudiantes (párrafos 4 y 5 de la Recomendación de 1974)
+### D. Evaluación de las y los estudiantes (párrafos 4 y 5 de la Recomendación de 1974)
 
 #### D1a.  Por  favor  describa  de  qué  manera  la  ECM  y  la  EDS  se  tienen  en  cuenta  en  las evaluaciones y exámenes de las y los estudiantes. Indique si se evalúa a los educandos únicamente por sus conocimientos y habilidades relacionados con los temas del examen o también por sus valores, actitudes o comportamientos.
 
@@ -570,39 +582,37 @@ La ECM y la EDS aparecen tanto en los objetivos de las diferentes etapas, como e
 
 La evaluación del proceso de aprendizaje del alumnado es integradora y tiene en cuenta todas y cada una de las asignaturas, la consecución de los objetivos de cada etapa y el desarrollo de las competencias en todas sus dimensiones: conocimientos, habilidades y actitudes.
 
-#### *D2.  Por favor indique si los temas de la ECM y la EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
-
-#### *D3.  Por favor indique qué dimensiones del aprendizaje de la ECM y EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
-
-CLAVE:
-
-0 = no, 1 = sí, 9 = no sabe
-
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1
-2. | Igualdad de género | 1 | 1
-3. | Derechos humanos | 1 | 1
-4. | Paz y no violencia | 1 | 1
-5. | Cambio climático | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1
+#### *D2. Por favor indique si los temas de la ECM y la EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Conocimientos | 1 | 1
-Habilidades | 1 | 1
-Valores | 1 | 1
-Actitudes y comportamientos | 1 | 1
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+1. Diversidad cultural y tolerancia | 1 | 1 |  | 
+2. Igualdad de género | 1 | 1 |  | 
+3. Derechos humanos | 1 | 1 |  | 
+4. Paz y no violencia | 1 | 1 |  | 
+5. Cambio climático | 1 | 1 |  | 
+6. Sostenibilidad ambiental | 1 | 1 |  | 
+7. Supervivencia y bienestar humanos | 1 | 1 |  | 
+8. Consumo y producción sostenibles | 1 | 1 |  | 
+
+#### *D3. Por favor indique qué dimensiones del aprendizaje de la ECM y EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
+
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
+
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+Conocimientos | 1 | 1 |  | 
+Habilidades | 1 | 1 |  | 
+Valores | 1 | 1 |  | 
+Actitudes y comportamientos | 1 | 1 |  | 
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-### Transversalización de la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a 5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
+### E. Transversalización de la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a 5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
 
 #### *E1.  Sobre la base de sus respuestas a las preguntas de las cuatro secciones anteriores (leyes y políticas, planes de estudios, formación de docentes y evaluación de las y los estudiantes), indique por favor en qué medida la ECM y la EDS se transversalizan 5  en: a) las leyes y políticas de educación, b) los planes de estudios, c) la formación docente (incluida  la  formación  de  formadores  y  educadores)  y  d)  la  evaluación  de  las  y  los estudiantes en su país. Introduzca el número apropiado en cada casilla blanca.
 
@@ -630,18 +640,18 @@ El nivel de gobierno que se indica no se encarga del componente en cuestión
 
 (políticas, planes de estudios, formación docente o evaluación de los educandos) o no se encarga del nivel o el tipo de educación en cuestión. Esto puede ocurrir a nivel nacional en los países federales donde la educación es competencia de los diferentes estados o a nivel subnacional en los países pequeños donde hay un solo nivel de gobierno.
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Nacional
-a) | Leyes y políticas educativas | 2 | 2
-b) | Planes de estudios | 2 | 2
-c) | Formación docente | 2 | 2
-d) | Evaluación de las y los estudiantes | 2 | 2
-Subnacional
-a) | Leyes y políticas educativas | 2 | 2
-b) | Planes de estudios | 2 | 2
-c) | Formación docente | 2 | 2
-d) | Evaluación de educandos | 2 | 2
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+Nacional |  |  |  | 
+a) Leyes y políticas educativas | 2 | 2 |  | 
+b) Planes de estudios | 2 | 2 |  | 
+c) Formación docente | 2 | 2 |  | 
+d) Evaluación de las y los estudiantes | 2 | 2 |  | 
+Subnacional |  |  |  | 
+a) Leyes y políticas educativas | 2 | 2 |  | 
+b) Planes de estudios | 2 | 2 |  | 
+c) Formación docente | 2 | 2 |  | 
+d) Evaluación de educandos | 2 | 2 |  | 
 
 > 5 Se  considera  que  la  ECM  y  la  EDS  están  transversalizadas  si  sus  temas  se  mencionan  de manera explícita en los documentos pertinentes y se espera que sean implementadas por las autoridades competentes (por ejemplo, ministerios, autoridades educativas regionales o locales), las instituciones educativas (por ejemplo, escuelas, institutos de formación y universidades) o los profesionales de la educación (por ejemplo, docentes, conferencistas, formadores y educadores), según proceda.
 
@@ -731,7 +741,7 @@ http://www.sepie.es/doc/comunicacion/buenas-practicas/BBPP_CENTROS_ASOCIADOS_FP.
 
 VET Schools as entrepreneurial hubs:
 
-http://www.sepie.es/doc/comunicacion/buenaspracticas/VET_schools_entrepreneurial_hubs_KA202 .pdf
+http://www.sepie.es/doc/comunicacion/buenaspracticas/VET_schools_entrepreneurial_hubs_KA202.pdf
 
 El SEPIE, Agencia Nacional encargada de gestionar el programa Erasmus+ en España, hace un trabajo intensivo en coordinación con las administraciones regionales tanto para que las mismas pongan en marcha cursos de formación para ayudar a los centros en la presentación de proyectos Erasmus+ de movilidad como para hacer difusión de los beneficios y oportunidades que ofrecen estos  programas,  identificando  las  regiones  menos  activas  en  cuanto  a  su  participación  en  las mismas para involucrarlas en el programa.
 
@@ -755,9 +765,9 @@ En  cuanto  a  Políticas  educativas  relacionadas  con  la  Recomendación  de
 
 En la normativa actual que regula estas enseñanzas, en el artículo 66 de la Ley Orgánica 2/2006,  de  3  de  mayo,  de  Educación,  modificada  por  Ley  Orgánica  8/2013,  de  9  de diciembre: https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899 ya se establecen los siguientes  objetivos  relacionados  con  la  Recomendación  de  1974,  en  particular,  los siguientes: « d) Desarrollar su capacidad de participación en la vida social, cultural, política y  económica  y  hacer  efectivo  su  derecho  a  la  ciudadanía  democrática.  e)  Desarrollar programas que corrijan los riesgos de exclusión social, especialmente de los sectores más desfavorecidos. f) Responder adecuadamente a los desafíos que supone el envejecimiento progresivo de la población asegurando a las personas de mayor edad la oportunidad de incrementar y actualizar sus competencias». El índice de participación de los adultos en esta enseñanzas se ha incrementado un punto procentual en el perido comprendido entre el 2017 y 2020, según las estadísticas oficiales a nivel país.
 
-Unos  de  los  principios  rectores  que  regula  el  sistema  educativo  en  su  conjunto  es  la concepción de la educación como aprendizaje permanente que se desarrolla a lo largo de la vida, desarrollando los objetivos de la educación de las personas adultas en el artículo 66 de la citada Ley Orgánica. El desarrollo normativo de esta ley ha dado lugar a planes y programas  que  se  desarrollan  por  toda  la  red  de  centros  de  enseñanzas  tecnicoprofesionales y de educación de personas adultas diseminados por todo el territorio nacional para alcanzar en la población adulta los objetivos y contenidos de la educación para la ciudadanía mundial y educación para el desarrollo sostenible.
+Unos  de  los  principios  rectores  que  regula  el  sistema  educativo  en  su  conjunto  es  la concepción de la educación como aprendizaje permanente que se desarrolla a lo largo de la vida, desarrollando los objetivos de la educación de las personas adultas en el artículo 66 de la citada Ley Orgánica. El desarrollo normativo de esta ley ha dado lugar a planes y programas  que  se  desarrollan  por  toda  la  red  de  centros  de  enseñanzas  tecnico-profesionales y de educación de personas adultas diseminados por todo el territorio nacional para alcanzar en la población adulta los objetivos y contenidos de la educación para la ciudadanía mundial y educación para el desarrollo sostenible.
 
-Los  planes  de  estudios  destinados  a  las  personas  adultas,  tanto  los  referidos  a  la Enseñanza Básica como las Enseñanzas técnico-profesionales, se desarrollan mediante un currículo competencial donde se incluye específicamente la competencia social y cívica que se  basa su desarrollo en el conocimiento crítico de los conceptos de democracia, justicia, igualdad, ciudadanía y derechos humanos y civiles, y el desarrollo de actitudes coherentes así  como  de  su  formulación  en  la  Constitución  española,  la  Carta  de  los  Derechos Fundamentales de la Unión Europea y en declaraciones internacionales, y de su aplicación, por parte de diversas instituciones a escala local, regional, nacional, europea  e internacional. Organización de estas enseñanzas: http://www.educacionyfp.gob.es/servicios-alciudadano/normativa/educacion/administracion-educativa/educacion-personas-
+Los  planes  de  estudios  destinados  a  las  personas  adultas,  tanto  los  referidos  a  la Enseñanza Básica como las Enseñanzas técnico-profesionales, se desarrollan mediante un currículo competencial donde se incluye específicamente la competencia social y cívica que se  basa su desarrollo en el conocimiento crítico de los conceptos de democracia, justicia, igualdad, ciudadanía y derechos humanos y civiles, y el desarrollo de actitudes coherentes así  como  de  su  formulación  en  la  Constitución  española,  la  Carta  de  los  Derechos Fundamentales de la Unión Europea y en declaraciones internacionales, y de su aplicación, por parte de diversas instituciones a escala local, regional, nacional, europea  e internacional. Organización de estas enseñanzas: http://www.educacionyfp.gob.es/servicios-al-ciudadano/normativa/educacion/administracion-educativa/educacion-personas-
 
 adultas.html  La  organización  y  la  metodología  de  las  enseñanzas  se  basa  en  el autoaprendizaje y tiene en  cuenta  sus  experiencias,  necesidades  e  intereses,  pudiendo desarrollarse  a  través  de  la  enseñanza  presencial  y  también  mediante  la  educación  a distancia.  Asimismo  mediante  el  establecimiento  de  convenios  de  colaboración  con  las universidades, corporaciones locales y otras entidades públicas o privadas. En la educación de personas adultas se presta una atención adecuada a aquellas que presenten necesidad específica de apoyo educativo.
 
@@ -767,7 +777,7 @@ adultas.html  La  organización  y  la  metodología  de  las  enseñanzas  se  
 
 Para el desarrollo de estas enseñanzas en la modalidad de distancia, el Centro para la Innovación  y  el  Desarrollo  de  la  Educación  a  Distancia  (CIDEAD)  proporciona  atención educativa a través de la impartición de Educación Secundaria para Adultos, propuesta en la que se adapta el currículo de la Educación Secundaria Obligatoria a través de ámbitos de conocimiento nivelados, con ayuda de materiales de elaboración propia adaptados a las características de dicha población. Igualmente, CIDEAD, se encarga de la elaboración de materiales para la impartición a distancia de los Ciclos Formativos de Formación Profesional de las familias de Electricidad y Electrónica, Energía y Agua e Informática y Comunicaciones. Este material, posteriormente, se incorpora en las plataformas virtuales de impartición de Formación Profesional a Distancia de las Comunidades Autónomas del Estado Español y en la plataforma propia  de  CIDEAD,  a  través  de  la cual  se  imparten actualmente seis Ciclos Formativos, uno de Grado Medio y cinco de Grado Superior.  El sistema de estudios y el plan de trabajo de cada etapa se pueden consultar en el siguiente enlace: https://www.educacionyfp.gob.es/mc/cidead/el-cidead.html. Esta oferta de Formación  Profesional  de  CIDEAD  está  concebida  de  forma  modular  y  flexible,  y  su vocación  es  la  de  adaptarse  en  la  mayor  medida  a  las  necesidades  de  formación  y actualización de la población adulta. Se imparte formación actualmente a un total de 1187 estudiantes mayores de dieciocho años, integrados en Educación Secundaria para Adultos y  Formación  Profesional,  lo  que  constituye  un  33%,  aproximadamente,  del  conjunto  de estudiantes del CIDEAD.
 
-Adicionalmente,  procede  señalar  que,  para  la  promocion    de  buenas  prácticas  en  este ámbito educativo, anualmente el Ministerio de Educación y Formación Profesional convoca los Premios Miguel Hernández: http://www.educacionyfp.gob.es/gl/servicios-alciudadano/catalogo/centros-docentes/premios/premios-miguel-hernandez.html    que  están destinados a reconocer, distinguir y divulgar las actuaciones educativas cuyo objetivo sea fomentar el aprendizaje a lo largo de la vida, la puesta en práctica de proyectos relacionados con los ECM y ECM  en personas adultas, promover sistemas de segunda oportunidad y aumentar su participación y continuidad en la educación y formación permanente, con el fin de compensar desigualdades sociales, facilitar el desarrollo personal, social y laboral de la población adulta y hacer frente a los retos de  la  actual  sociedad  del  conocimiento.  Los benificiarios de estos premios son instituciones públicas o entidades privadas sin ánimo de lucro,  legalmente  constituidas,  de  todo  el  Estado  y  centros  públicos  de  educación  de personas adultas que se hayan destacado por estas actuaciones. Estos premios se publican anualmente  y  forman  parte  del  plan  editorial  del  Ministerio  de  Educación  y  Formación Profesional, accesible en :
+Adicionalmente,  procede  señalar  que,  para  la  promocion    de  buenas  prácticas  en  este ámbito educativo, anualmente el Ministerio de Educación y Formación Profesional convoca los Premios Miguel Hernández: http://www.educacionyfp.gob.es/gl/servicios-al-ciudadano/catalogo/centros-docentes/premios/premios-miguel-hernandez.html    que  están destinados a reconocer, distinguir y divulgar las actuaciones educativas cuyo objetivo sea fomentar el aprendizaje a lo largo de la vida, la puesta en práctica de proyectos relacionados con los ECM y ECM  en personas adultas, promover sistemas de segunda oportunidad y aumentar su participación y continuidad en la educación y formación permanente, con el fin de compensar desigualdades sociales, facilitar el desarrollo personal, social y laboral de la población adulta y hacer frente a los retos de  la  actual  sociedad  del  conocimiento.  Los benificiarios de estos premios son instituciones públicas o entidades privadas sin ánimo de lucro,  legalmente  constituidas,  de  todo  el  Estado  y  centros  públicos  de  educación  de personas adultas que se hayan destacado por estas actuaciones. Estos premios se publican anualmente  y  forman  parte  del  plan  editorial  del  Ministerio  de  Educación  y  Formación Profesional, accesible en :
 
 https://sede.educacion.gob.es/publiventa/descarga.action?f_codigo_agc=18864 (edición 2017)
 
@@ -775,25 +785,29 @@ https://sede.educacion.gob.es/publiventa/descarga.action?f_codigo_agc=19671 (edi
 
 Dos buenas prácticas que merecen una especial atención son las vinculadas a EPALE y a Eramus +.
 
-El  Ministerio  de  Educación  y  Formación  Profesional,  desde  el  año  2018,  participa activamente en la promoción de la Plataforma Electrónica dedicada a la Enseñanza para Adultos  en  Europa_EPALE:  https://epale.ec.europa.eu/es.        EPALE  es  una  comunidad europea multilingüe de libre acceso integrada por profesionales del aprendizaje de adultos, tales como educadores y formadores, orientadores y personal de apoyo, investigadores y miembros  de  instituciones  académicas  o  responsables  políticos.  Algunos  de  sus  focos temáticos  están  claramente  relacionados  con  los  ECM  y  los  ODS,  como  por  ejemplo: https://epale.ec.europa.eu/es/blog/epale-focus-volunteering-adult-learning y https://epale.ec.europa.eu/es/resource-centre/content/focos-tematicos-epale-202
+El  Ministerio  de  Educación  y  Formación  Profesional,  desde  el  año  2018,  participa activamente en la promoción de la Plataforma Electrónica dedicada a la Enseñanza para Adultos  en  Europa_EPALE:  https://epale.ec.europa.eu/es.        EPALE  es  una  comunidad
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
+europea multilingüe de libre acceso integrada por profesionales del aprendizaje de adultos, tales como educadores y formadores, orientadores y personal de apoyo, investigadores y miembros de instituciones académicas o responsables políticos. Algunos de sus focos temáticos están claramente relacionados con los ECM y los ODS, como por ejemplo: https://epale.ec.europa.eu/es/blog/epale-focus-volunteering-adult-learning y https://epale.ec.europa.eu/es/resource-centre/content/focos-tematicos-epale-202
+
 De igual modo, es pertinente señalar la participación de la Educación de Adultos en los Programas  Erasmus  +  que  ofrece  al  personal  de  Educación  de  Personas  Adultas oportunidades de Movilidad para el aprendizaje, con el objetivo de ampliar y mejorar su desarrollo profesional, además de posibilitar la colaboración con sus homólogos de otros países de Europa. Mediante las Asociaciones Estratégicas apoya el intercambio de buenas prácticas y criterios de innovación para abordar retos comunes, tales como el reconocimiento de la formación cursada fuera del sistema oficial, logrando que la educación sea más accesible a los adultos y enriqueciendo la capacitación de la ciudadanía europea: http://sepie.es/educacion-adultos/index.html y
 
-https://epale.ec.europa.eu/es/blog/proyectos-erasmus-de-educacion-de-adultos-yformacion-profesional-0
+https://epale.ec.europa.eu/es/blog/proyectos-erasmus-de-educacion-de-adultos-y-formacion-profesional-0
 
 La ampliación de oportunidades de formación no reglada para la población adulta el Ministerio la canaliza a través del Programa Aula Mentor: http://www.aulamentor.es/.  Aula  Mentor es  un programa  de  formación  online no reglada, flexible y con tutorización personalizada, dirigido a personas adultas mayores de 18 años con un extenso catálogo de cursos con los que ampliar sus competencias básicas y profesionales. La iniciativa está promovida por el Ministerio de Educación y Formación Profesional en  colaboración  con  otras  instituciones  públicas  y  privadas  tanto  nacionales como  internacionales.  Entre  los  cursos  de  su  amplio  catálogo,  se  localizan  ofertas formativas relacionadas con los ECM y ODS : http://www.aulamentor.es/es/cursos-mentor . En esta plataforma de formación a distancia y on line participan cerca de 17.000 alumnos adultos anualmente.
 
-Para el desarrollo de la formación de la población adulta residente en zonas rurales,  el Ministerio de Educación y Formación Profesional ha realizado una convocatoria en el año 2020 de Ayudas a Entidades locales territoriales con el objeto de promover la creación de nuevas  Aulas  Mentor  que  refuercen  el  equipamiento  socioeducativo  en  zonas  de  baja densidad de población y, con ello, la accesibilidad y la igualdad de oportunidades ante la formación (https://www.educacionyfp.gob.es/servicios-alciudadano/catalogo/general/99/991994/ficha/991994-2020-creacion.html). La ampliación de esta red de aulas permite poner a disposición de la población adulta un sistema de formación modular, flexible y acreditable donde un buen número de cursos se relacionan con los contenidos y objetivos de la EMC y los ODS.
+Para el desarrollo de la formación de la población adulta residente en zonas rurales,  el Ministerio de Educación y Formación Profesional ha realizado una convocatoria en el año 2020 de Ayudas a Entidades locales territoriales con el objeto de promover la creación de nuevas  Aulas  Mentor  que  refuercen  el  equipamiento  socioeducativo  en  zonas  de  baja densidad de población y, con ello, la accesibilidad y la igualdad de oportunidades ante la formación (https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/99/991994/ficha/991994-2020-creacion.html). La ampliación de esta red de aulas permite poner a disposición de la población adulta un sistema de formación modular, flexible y acreditable donde un buen número de cursos se relacionan con los contenidos y objetivos de la EMC y los ODS.
 
-Por último, es preciso señalar que las personas adultas requieren de acompañamiento y orientación  profesional  para  poder  tomar  decisiones  de  configuración  de  itinerarios formativos  que  favorezcan  la  relación  formación-empleo.    El  Ministerio  de  Educación  y Formación Profesional, durante el periodo sobre el que se informa, pone a disposición de esta población información de calidad sobre las oportunidades de formación y trabajo que otras  redes  europeas  plantean  a  través  de  sinergias  entre  las  siguientes  redes:  Eures https://ec.europa.eu/eures/,  Erasmus  +  http://www.erasmusplus.gob.es/,  Cuerpo  europeo de Solidaridad https://europa.eu/youth/solidarity_es, y Europass https://europa.eu/europass/es. Mediante un buen acompañamiento desde la Orientación, a través  de  estas  redes  europeas  a  las  que  el  Ministerio  de  Educación  y  Formación Profesional pertenece, se viene apoyando a la persona adulta en materia de promoción personal  y  desarrollo  profesional.  Particularmente,  la  Red  Euroguidance-España,  como parte de la red europea del mismo nombre, está trabajando en el diseño de herramientas para la autoevaluación de competencias básicas, como parte de los trabajos en curso para eldiseño de un procedimiento de evaluación de competencias básicas en personas adultos y de validación de los aprendizajes adquiridos por vías no formales, para incorporarse a ofertas  formativas  regladas.  Esta  red  promociona  el  desarrollo  de  competencias  del orientador, según los dictámenes europeos, de forma que los profesionales que intervengan en  la  educación  de  personas  adultas  puedan  contribuir  de  manera  fundamentada  en  la elección de los itinerarios personales/profesionales para garantizar el aprendizaje a lo largo de la vida.
+Por último, es preciso señalar que las personas adultas requieren de acompañamiento y orientación  profesional  para  poder  tomar  decisiones  de  configuración  de  itinerarios formativos  que  favorezcan  la  relación  formación-empleo.    El  Ministerio  de  Educación  y Formación Profesional, durante el periodo sobre el que se informa, pone a disposición de esta población información de calidad sobre las oportunidades de formación y trabajo que otras  redes  europeas  plantean  a  través  de  sinergias  entre  las  siguientes  redes:  Eures https://ec.europa.eu/eures/,  Erasmus  +  http://www.erasmusplus.gob.es/,  Cuerpo  europeo de Solidaridad https://europa.eu/youth/solidarity_es, y Europass https://europa.eu/europass/es. Mediante un buen acompañamiento desde la Orientación, a través  de  estas  redes  europeas  a  las  que  el  Ministerio  de  Educación  y  Formación Profesional pertenece, se viene apoyando a la persona adulta en materia de promoción personal  y  desarrollo  profesional.  Particularmente,  la  Red  Euroguidance-España,  como parte de la red europea del mismo nombre, está trabajando en el diseño de herramientas para la autoevaluación de competencias básicas, como parte de los trabajos en curso para
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+eldiseño de un procedimiento de evaluación de competencias básicas en personas adultos y de validación de los aprendizajes adquiridos por vías no formales, para incorporarse a ofertas formativas regladas. Esta red promociona el desarrollo de competencias del orientador, según los dictámenes europeos, de forma que los profesionales que intervengan en la educación de personas adultas puedan contribuir de manera fundamentada en la elección de los itinerarios personales/profesionales para garantizar el aprendizaje a lo largo de la vida.
 
 En enero, desde la página web de Euroguidance Europa: https://www.euroguidance.eu/ se podrá descargar un manual accesible y gratuito sobre movilidad dirigida a la Comunidad Orientadora. Además se pondrá en funcionamiento la página web española https://euroguidance-spain.educacionyfp.gob.es/ que servirá para mantener informados y formados a los profesionales de la orientación de las distintas Comunidades Autónomas que conforman el territorio español.
 
@@ -809,22 +823,22 @@ España ha participado en la evaluación de la competencia global en PISA 2018 d
 
 #### H2. Por favor indicar qué tipos de actividades que promueven la cooperación internacional están disponibles en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
-### Cualquier otra observación
-
-#### I.1     Por favor indique si su país ha enfrentado alguna limitación en la implementación de la Recomendación de 1974, relacionada particularmente con crisis globales o nacionales, incluyendo desastres naturales.
-
-#### I.2. Proporcione cualquier otra información o aclaración pertinente sobre la aplicación de la Recomendación de 1974 o la transversalización de la ECM y la EDS en el sistema educativo de su país.
-
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | ---
-Organización de reuniones internacionales sobre la ECM y la EDS | 1 | 1
-Participación en reuniones internacionales en el extranjero sobre la ECM y la EDS | 1 | 1
-Apoyo a los programas que acogen a estudiantes, investigadores o docentes extranjeros | 9 | 9
-Composición de las redes internacionales, como la redPEA | 1 | 1
-Proyectos conjuntos de investigación sobre la ECM y la EDS con instituciones extranjeras | 9 | 9
-Otras actividades (especifique cuáles): | 1 | 1
-Participación en proyectos internacionales como: *Proyecto eTwinning *Proyecto Scientix *Proyecto MasDiv *Proyecto STEM PD Net Experiencias educativas innovadoras Procomún Seguridad del menor en internet GENE ( Global Education Network Europe)
+| | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+| --- | --- | --- | --- | --- |
+| Organización de reuniones internacionales sobre la ECM y la EDS | 1 | 1 |  |  |
+| Participación en reuniones internacionales en el extranjero sobre la ECM y la EDS | 1 | 1 |  |  |
+| Apoyo a los programas que acogen a estudiantes, investigadores o docentes extranjeros | 9 | 9 |  |  |
+| Composición de las redes internacionales, como la redPEA | 1 | 1 |  |  |
+| Proyectos conjuntos de investigación sobre la ECM y la EDS con instituciones extranjeras | 9 | 9 |  |  |
+| Otras actividades (especifique cuáles): | 1 | 1 |  |  |
+| Participación en proyectos internacionales como: *Proyecto eTwinning *Proyecto Scientix *Proyecto MasDiv *Proyecto STEM PD Net Experiencias educativas innovadoras Procomún Seguridad del menor en internet GENE (Global Education Network Europe) |  |  |  |  |
+
+### I. Cualquier otra observación
+
+#### I.1 Por favor indique si su país ha enfrentado alguna limitación en la implementación de la Recomendación de 1974, relacionada particularmente con crisis globales o nacionales, incluyendo desastres naturales.
+
+#### I.2. Proporcione cualquier otra información o aclaración pertinente sobre la aplicación de la Recomendación de 1974 o la transversalización de la ECM y la EDS en el sistema educativo de su país.
 
 [[END OF PAGE 31]]
