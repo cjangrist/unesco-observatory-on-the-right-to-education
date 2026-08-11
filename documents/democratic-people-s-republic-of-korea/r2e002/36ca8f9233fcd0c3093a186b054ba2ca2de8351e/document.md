@@ -12,6 +12,38 @@ DPRK Ministry of Education DPRK National Commission for UNESCO
 
 # Table of Contents
 
+Chapter 1. Present Status of Education in DPR of Korea................4
+1.1 Summary...........................................................................................................................4
+1.2 EFA Analysis...................................................................................................................6
+1.2.1 Pre-school Education............................................................................6
+1.2.2 Primary and Secondary Education .......................................................7
+1.2.3 Training and Refresher Training of Teachers ....................................12
+1.2.4 Eradication of Illiteracy and Adult Education....................................14
+1.2.5 Development of Higher Education.....................................................17
+Chapter 2. Education Policy of the DPR of Korea........................................24
+2.1 Socialist Constitution of the DPR of Korea...........................................................24
+2.2 Education Law of the DPR of Korea.......................................................................25
+2.3 Content of the Educational Policy............................................................................26
+Chapter 3. Educational Development Plan for the Period up to 2015 in the DPR of Korea .....................................................................................................30
+3.1 Educational development goal to be attained by 2015........................................30
+3.2 Preschool education goal and strategy for its implementation.........................30
+3.2.1 Goal for preschool education..............................................................30
+3.2.2 Implementation strategies for preschool education goal....................31
+3.3 Primary and secondary education goals and strategy for their implementation
+..................................................................................................................................................38
+3.3.1 Primary and secondary education goals .............................................38
+3.3.2 Implementation strategies for primary and secondary education ......38
+3.4 Higher Education Goal and Its Implementation Strategies................................48
+3.4.1 Higher Education Goal.......................................................................48
+3.4.2 Strategy for Attaining Higher Education Goal...................................48
+Chapter 4. Medium Plan (2004-2008) for Education Development in DPR of Korea ..............................................................................................................54
+4.1 Goal to be reached by 2008.........................................................................................54
+4.1.1 Preschool education............................................................................54
+4.1.2 Primary and Secondary Education .....................................................54
+4.2 Strategies for Education Development.....................................................................56
+4.3 Priorities in Education and Their Strategies..........................................................58
+Chapter 5. Monitoring and Evaluation.................................................62
+
 2
 
 [[END OF PAGE 2]]
@@ -91,103 +123,47 @@ Specialized education is given to those who have finished the 11-year compulsory
 
 - o Formal Higher Education
 
-Specialized Schools
-
-Universities and Colleges
-
-2 ~ 3 years
-
-4 ~ 6 years
+Specialized Schools                                      2 ~ 3 years
+Universities and Colleges                                4 ~ 6 years
 
 - o Informal Higher Education (Study-While-Working System)
 
-Factory Colleges
-
-Farm Colleges
-
-Fishermen's Colleges
-
-4 years
-
-4 years
-
-4 years
-
-Specialized Factory Schools (evening courses)
-
-Evening Courses at Regular Universities
-
-Correspondence Courses at Regular Universities
-
-Licensing at Specialized Schools
-
-Licensing at Teacher Training Colleges
-
-Licensing at Universities of Education
-
-Licensing at other University-level Institutions
+Factory Colleges                                           4 years
+Farm Colleges                                              4 years
+Fishermen's Colleges                                       4 years
+Specialized Factory Schools (evening courses)              3 ~ 4 years
+Evening Courses at Regular Universities                    5 years
+Correspondence Courses at Regular Universities             5 years
+Licensing at Specialized Schools                           4 years
+(It may be shortened to 3 yrs)
+Licensing at Teacher Training Colleges                     4 years
+(It may be shortened to 3 yrs)
+Licensing at Universities of Education                     6 years
+(It may be shortened to 4 yrs)
+Licensing at other University-level Institutions           7 years
+(It may be shortened to 5 yrs)
 
 - o Education of skilled hands
 
-Skilled hand schools                      1
+Skilled hand schools                                       1～3 years
 
 - o Special education
 
-Schools for the blind                    9 years    9
+Schools for the blind                                      9 years    9～18 years old
+Schools for the deaf                                       9 years    9～18 years old
 
-～ 18 years old
-
-～ 18 years old
-
-Schools for the deaf                     9 years     9
-
-Also belonging to this category are  orphanages, boarding schools and schools for the children with step-parents.
+Also belonging to this category are orphanages, boarding schools and schools for the children with step-parents.
 
 - o Post-graduate Courses
 
-Master Course (full-time/correspondence)
+Master Course (full-time/correspondence)                    3 ~ 4 years
+Master Course (special course)                              1 year
+Doctorate Course (full-time/correspondence)                 2 ~ 3 years
+Doctorate Course (special course)                           1 year
 
-3 ~ 4 years
-
-Master Course (special course)
-
-1 year
-
-Doctorate Course (full-time/correspondence)
-
-2 ~ 3 years
-
-Doctorate Course (special course)
-
-1 year
-
-The  socialist  educational  system  of  the  DPRK  is  characterized  by  the  fact  that  it  is  a universal free and compulsory system, and that it is an education for all people.
+The socialist educational system of the DPRK is characterized by the fact that it is a universal free and compulsory system, and that it is an education for all people.
 
 Education is open to all without exception, and continued education is ensured for all.
-
-～ 3 years
-
-3 ~ 4 years
-
-5 years
-
-5 years
-
-4 years
-
-(It may be shortened to 3 yrs)
-
-4 years
-
-(It may be shortened to 3 yrs)
-
-6 years
-
-(It may be shortened to 4 yrs)
-
-7 years
-
-(It may be shortened to 5 yrs)
 
 5
 
@@ -237,7 +213,7 @@ In order to bring up all preschool children at the State and public expense, the
 
 To  meet  the  demand  of  working  women,  and  for  their  own  convenience,  weekly nurseries and kindergartens, as well as 10-day kindergartens in rural areas, are run along with daily nurseries and kindergartens.
 
-A nursery is divided into breastfeeding class for newly-born babies, weaning class for 1-year-olds, weaned class for 2-year-olds, transitional (from nursery to kindergarten) class for 3-year-olds. A kindergarten is divided into junior class (for 4year-olds) and senior class (for 5-year-olds).
+A nursery is divided into breastfeeding class for newly-born babies, weaning class for 1-year-olds, weaned class for 2-year-olds, transitional (from nursery to kindergarten) class for 3-year-olds. A kindergarten is divided into junior class (for 4-year-olds) and senior class (for 5-year-olds).
 
 The  universal  11-year  compulsory  education  system  introduced  in  1972  includes compulsory  1-year  pre-school  education,  which  is  given  to  all  5-year-old  children without any discrimination in the senior class of kindergarten.
 
@@ -317,9 +293,9 @@ The  DPRK  established  in  many  parts  of  the  country  2-year  technical  sc
 
 [[START OF PAGE 10]]
 
-2-year  technical  school  was  a  school,  which  gave  basic  modern  technical education while completing general secondary education as a continuation of 3year secondary school.
+2-year technical school was a school, which gave basic modern technical education while completing general secondary education as a continuation of 3-year secondary school.
 
-First  of  all,  the  Government  directed  a  great  effort  to  increasing  the  number  of technical schools. In 1960 the number of technical schools was 555 all over  the country and the number increased to 1,207 in 1966 which resulted in at least one technical school in three or four ri s. It also ensured that schools were distributed in a rational way and curriculum was properly made up in full consideration of the practical  and  perspective  need  of  the  national  economy  for  technical personnel and the specific realities of each locality.
+First of all, the Government directed a great effort to increasing the number of technical schools. In 1960 the number of technical schools was 555 all over the country and the number increased to 1,207 in 1966 which resulted in at least one technical school in three or four ris. It also ensured that schools were distributed in a rational way and curriculum was properly made up in full consideration of the practical and perspective need of the national economy for technical personnel and the specific realities of each locality.
 
 Besides,  the  Government  made  a  special  effort  to  consolidate  the  material  and technical foundation  of  technical  schools.  It also  established  a  college  of technical education for the systematic training of teachers for technical subjects. In  addition,  it  set  up  a  system  of  training  technical  teachers  at  universities  of education and technical universities so that they could produce a large number of teachers who had mastered technical knowledge of industry, agriculture and other fields of the economy.
 
@@ -343,7 +319,7 @@ The introduction of universal 9-year compulsory technical education enabled all 
 
 #### 1.2.2.4 Universal 11-year Compulsory Education
 
-On the basis of the successes achieved in the course of the 9-year  compulsory technical education, a new compulsory education system was prepared, for which it was envisaged to lower the school age from 7 to 6. Accordingly, a new epochmaking  measure  was  taken  to  give  compulsory  1-year  pre-school  education  at
+On the basis of the successes achieved in the course of the 9-year compulsory technical education, a new compulsory education system was prepared, for which it was envisaged to lower the school age from 7 to 6. Accordingly, a new epoch-making measure was taken to give compulsory 1-year pre-school education at
 
 kindergartens so that 6-year-old children could readily get school education. In  the  light  of  lowering  the  school-entering  age  and  introducing  a  compulsory
 
@@ -395,9 +371,9 @@ Stemming from this point of view, the DPRK Government has consistently directed 
 
 After the liberation, the country started the training of teachers from scratch.
 
-In  order  to  train  many  new  teachers  of  working  people's  origin,  the  Government immediately established the regular teacher-training system as well as many shortterm teacher-training centres.
+In order to train many new teachers of working people's origin, the Government immediately established the regular teacher-training system as well as many short-term teacher-training centres.
 
-Already by 1948, 13 specialized schools of education were established, one in each province,  to  train  primary  school  teachers.  Subsequently,  there  opened  3  teachertraining colleges for producing teachers of junior middle schools and 1 university of education for training teachers of senior middle schools, as a result, well-regulated teacher-training system was established.
+Already by 1948, 13 specialized schools of education were established, one in each province, to train primary school teachers. Subsequently, there opened 3 teacher-training colleges for producing teachers of junior middle schools and 1 university of education for training teachers of senior middle schools, as a result, well-regulated teacher-training system was established.
 
 Besides, many short-term teacher-training centres were established in the capital and localities  of  the  country  to  contribute  to  meeting  the  rapidly  increasing  need  for teachers in time.
 
@@ -409,13 +385,13 @@ Besides, many short-term teacher-training centres were established in the capita
 
 Even  during  the  Fatherland  Liberation  War  (June  25,  1950  ~  July  27,  1953)  the Government did not stop the training of teachers. After the war, it steadily improved the teacher-training system to keep abreast with the rapid development of education.
 
-When the  universal  compulsory  primary  and  secondary  education  was  introduced, the  Government  increased  the  registration  of  students  for  teacher-training  colleges and universities of education, and on the other hand, established short-term teachertraining centres in each province, in order to meet the need for teachers.
+When the universal compulsory primary and secondary education was introduced, the Government increased the registration of students for teacher-training colleges and universities of education, and on the other hand, established short-term teacher-training centres in each province, in order to meet the need for teachers.
 
-With  the  introduction  of  9-year  compulsory  technical  education,  the  Government newly  opened  a  university  of  technical  education.  It  also  gave  teacher-training assignment to technical universities to produce teachers of corresponding technical subjects.
+With the introduction of 9-year compulsory technical education, the Government newly opened a university of technical education. It also gave teacher-training assignment to technical universities to produce teachers of corresponding technical subjects.
 
-At  present  the  teacher-training  system  in  the  DPRK  includes  teacher-training colleges, universities of education and post-graduate courses of universities.
+At present the teacher-training system in the DPRK includes teacher-training colleges, universities of education and post-graduate courses of universities.
 
-Teachers  of  kindergartens  and  primary  schools  are  produced  by  2-3  year  teachertraining colleges; teachers of secondary schools, by 4-year universities of education; teachers of teacher-training colleges and universities of education, by Kim Hyong Jik University of Education; and teachers of universities and colleges, through their own post-graduate courses.
+Teachers of kindergartens and primary schools are produced by 2-3 year teacher-training colleges; teachers of secondary schools, by 4-year universities of education; teachers of teacher-training colleges and universities of education, by Kim Hyong Jik University of Education; and teachers of universities and colleges, through their own post-graduate courses.
 
 Each province has one or two universities of education and teacher-training colleges, thus producing its own teachers for the schools of all levels under its jurisdiction.
 
@@ -439,7 +415,7 @@ Since kindergartens are all scattered to different districts, villages and work-
 
 The Government also encourages teachers to improve their teaching skill and raise their academic degrees so that they can have normal education by correspondence  or pass qualification examination.
 
-All teachers go through 3 ~ 6-month refresher training every four or five years on a regular  basis  at  universities  of  education,  teacher-training  colleges  and  refreshertraining centres in provinces, cities and counties.
+All teachers go through 3 ~ 6-month refresher training every four or five years on a regular basis at universities of education, teacher-training colleges and refresher-training centres in provinces, cities and counties.
 
 At  present  there  are  37,000  kindergarten  teachers,  69,000  primary  school  teachers and  11,2000  secondary  school  teachers,  and  the  teacher-student  ratio  is  1  to  21  in general education.
 
@@ -453,7 +429,7 @@ Immediately  after  the  liberation  of  the  country  in  1945,  there  were  m
 
 Without eradicating illiteracy was it impossible to establish a democratic independent sovereign state and provide free civilized life to working people.
 
-Therefore,  the  Government  called  upon  all  people  to  launch  a  nation-wide  antiilliteracy campaign under the unified guidance of the State.
+Therefore, the Government called upon all people to launch a nation-wide anti-illiteracy campaign under the unified guidance of the State.
 
 ##### Adult Education System
 
@@ -545,13 +521,13 @@ In  addition,  different  forms  of  technical  study  system  was  established 
 
 At the same time, skilled-worker-training schools were set up at major factories and enterprises. On the other hand, working people steadily raised their technical standard through regular training courses, technical study and passing-on-skill work.
 
-In the rural areas, agricultural scientific and technical dissemination rooms opened in all ri s  to  disseminate  Juche  farming  methods  as  well  as  scientific  and  technical knowledge to agricultural workers on a systematic basis.
+In the rural areas, agricultural scientific and technical dissemination rooms opened in all ris to disseminate Juche farming methods as well as scientific and technical knowledge to agricultural workers on a systematic basis.
 
 In  this  way  the  goal  that  aimed  at  making  all  working  people  acquire  general  and technical  knowledge  equivalent  to  that  of  senior  middle  school  graduates  was successfully hit in 1989.
 
 ### 1.2.5 Development of Higher Education
 
-Higher education has developed mainly in two systems: regular education and studywhile-working system.
+Higher education has developed mainly in two systems: regular education and study-while-working system.
 
 #### 1.2.5.1 Regular Higher Education
 
@@ -804,6 +780,7 @@ The Education Law also stipulates that all forms of education shall be free of c
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+higher education, schools for the talented children and schools for the blind and the deaf.
 
 -Chapter 3 'Educational Institutions and Workers' defines the position and types of the  educational  establishments  and  the  status  of  the  educational  workers  and  the problems arising in the guidance to educational administration.
 
@@ -905,7 +882,7 @@ In  order  to  intensify  the  training  of  technicians  and  experts,  emphasi
 
 At  present,  active  measures  are  taken  to  further  develop  various  scientific  fields, including IT, electronic engineering, thermal engineering and biological engineering, and to intensify the education for the introduction of various cutting-edge techniques in  the fields of machine-building industry, electronic and automation industry, etc.
 
-he requirement of the education policy for the improvement of the teaching method is to  discard  the  old  dictating  and  'force-feeding'  methods  and  widely  introduce heuristic teaching method. It is also imperative to combine theory with practice and the education with production labor, as well as to maintain close cooperation between school  education  and  social  education  and  carry  on  pre-school  education,  school education and adult education simultaneously.
+The requirement of the education policy for the improvement of the teaching method is to  discard  the  old  dictating  and  'force-feeding'  methods  and  widely  introduce heuristic teaching method. It is also imperative to combine theory with practice and the education with production labor, as well as to maintain close cooperation between school  education  and  social  education  and  carry  on  pre-school  education,  school education and adult education simultaneously.
 
 In  particular,  the  Government  is  paying  special  attention  to  the  modernization  of technical means of education and increasing the proportion of the practice in education.
 
@@ -1613,11 +1590,11 @@ The Government shall:
 
 [[START OF PAGE 51]]
 
-- Introduce  new  credit  system  in  order  to  comprehensively  assess  learning achievement and scores of pupils.
+i. Introduce  new  credit  system  in  order  to  comprehensively  assess  learning achievement and scores of pupils.
 
-- Encourage  a  test  method  in  which  textbooks,  reference  books  and  other study materials are` used altogether and introduce new test method aimed at giving comprehensive assessment of theoretical and practical abilities of students.
+ii. Encourage  a  test  method  in  which  textbooks,  reference  books  and  other study materials are` used altogether and introduce new test method aimed at giving comprehensive assessment of theoretical and practical abilities of students.
 
-- Ensure that the proportion of test scores and daily study.
+iii. Ensure that the proportion of test scores and daily study.
 
 - For the purpose of encouraging development of new teaching methods the 'new teaching methods' introduced by teachers shall be examined by the state and those who have developed good ones shall be conferred 'Diploma for the Development of New Teaching Method'.
 
@@ -1627,11 +1604,11 @@ The Government shall:
 
 - Strengthen training of hard cores needed in education and science sectors through postgraduate course.
 
-- Broaden the training scope of postgraduate courses and enhance the level of their standardization.
+i. Broaden the training scope of postgraduate courses and enhance the level of their standardization.
 
-- Introduce postgraduate courses in the universities that  have  enough educational and scientific forces and sufficient conditions.
+ii. Introduce postgraduate courses in the universities that  have  enough educational and scientific forces and sufficient conditions.
 
-- Increase the number of students attending the postgraduate courses.
+iii. Increase the number of students attending the postgraduate courses.
 
 - Encourage  all  teachers  to  win  academic  degrees  or  titles  by  enabling  them  to intensify scientific research work and improve their qualifications.
 
@@ -1641,7 +1618,7 @@ The Government shall:
 
 - Intensify  re-education of in-service teachers.
 
-- As the renewal cycle of science and technology has reduced to 2 to 3 years the cycle of re-education of teachers shall also be reduced and its quality raised.
+i. As the renewal cycle of science and technology has reduced to 2 to 3 years the cycle of re-education of teachers shall also be reduced and its quality raised.
 
 51
 
@@ -1649,15 +1626,15 @@ The Government shall:
 
 [[START OF PAGE 52]]
 
-- On the principle, the teachers of universities shall be re-educated every 4 to 5 years.
+ii. On the principle, the teachers of universities shall be re-educated every 4 to 5 years.
 
 In  those  sectors  that  have  shorter  technical  renewal  cycle,  teachers  shall have re-education every 2 to 3 years.
 
-- Re-education  shall  be  divided  into  re-education  in  political  subjects,  reeducation  in  basic  subjects,  re-education  in  foreign  languages  and  reeducation  in  major  subjects  according  to  its  content;  and  into  central  reeducation, regional re-education and re-education organized by an institution itself according to its  organizer.
+iii. Re-education  shall  be  divided  into  re-education  in  political  subjects,  re-education  in  basic  subjects,  re-education  in  foreign  languages  and  re-education  in  major  subjects  according  to  its  content;  and  into  central  re-education, regional re-education and re-education organized by an institution itself according to its  organizer.
 
-- The term of re-education shall be 3 to 6 months.
+iv. The term of re-education shall be 3 to 6 months.
 
-- In  order  that  all  teachers  have  access  to  re-education,  night-  time  reeducation classes and short-term courses shall be widely introduced.
+v. In  order  that  all  teachers  have  access  to  re-education,  night-  time  re-education classes and short-term courses shall be widely introduced.
 
 #### 3.4.2.5. Reinforcement of material and technical foundation of universities
 
@@ -1665,21 +1642,21 @@ In  those  sectors  that  have  shorter  technical  renewal  cycle,  teachers  s
 
 The Government shall:
 
-- Intensify  research  work  in  experimental  apparatuses  among  teachers  and actively wage  the  work  of  making  new  experimental  apparatuses by themselves.
+i. Intensify  research  work  in  experimental  apparatuses  among  teachers  and actively wage  the  work  of  making  new  experimental  apparatuses by themselves.
 
 For  this  purpose  national  experimental  apparatuses  exhibition  shall  be organized  every  2  to  3  years  and  excellent  ones  shall  be  generalized throughout the country.
 
-- Increase the number of computers of all universities, establish computer net within the universities and realize education management information system throughout the country.
+ii. Increase the number of computers of all universities, establish computer net within the universities and realize education management information system throughout the country.
 
-- Provide universities with modern experimental and practice equipments such as  high  performance  machine  tools,  high  vacuum  induction  furnace,  high performance analyzing and measuring equipments and electronic microscope.
+iii. Provide universities with modern experimental and practice equipments such as  high  performance  machine  tools,  high  vacuum  induction  furnace,  high performance analyzing and measuring equipments and electronic microscope.
 
-- Provide  sufficient  amount  of  general  experimental and practice equipments and apparatuses, reagents and materials.
+iv. Provide  sufficient  amount  of  general  experimental and practice equipments and apparatuses, reagents and materials.
 
 - Enough education and service facilities shall be provided.
 
 The Government shall:
 
-- Overcome the shortage of university buildings and dormitories according to yearly plan by 2015.
+i. Overcome the shortage of university buildings and dormitories according to yearly plan by 2015.
 
 52
 
@@ -1687,9 +1664,9 @@ The Government shall:
 
 [[START OF PAGE 53]]
 
-- Making and implement yearly plans for the construction of science libraries, electronic libraries and in-door stadiums by 2015.
+ii. Making and implement yearly plans for the construction of science libraries, electronic libraries and in-door stadiums by 2015.
 
-- Equip  universities  with  sufficient  service  facilities  in  order  to  provide students with satisfactory living conditions.
+iii. Equip  universities  with  sufficient  service  facilities  in  order  to  provide students with satisfactory living conditions.
 
 53
 
@@ -1707,19 +1684,19 @@ Drawing on the policy  of  giving  precedence  to  education  the  Government  s
 
 The Government shall:
 
-- Expand  the kindergarten networks and increase the existing capacities of kindergartens  in  order  to  enroll  all  the  4-year-old  children  in  the  junior  class  of kindergartens.
+a) Expand  the kindergarten networks and increase the existing capacities of kindergartens  in  order  to  enroll  all  the  4-year-old  children  in  the  junior  class  of kindergartens.
 
-- Finish  the  work  of  reformulating  education  program  and  reweiting  textbooks  to suit the requirements of the times and intellectual faculties of children.
+b) Finish  the  work  of  reformulating  education  program  and  reweiting  textbooks  to suit the requirements of the times and intellectual faculties of children.
 
-- Improve generally the childhood care and education conditions for the children in the  regions  affected  by  natural  calamities,  the  disadvantaged  children  and  the children in the remote mountainous villages, isolated islets and other unfavorable conditions.
+c) Improve generally the childhood care and education conditions for the children in the  regions  affected  by  natural  calamities,  the  disadvantaged  children  and  the children in the remote mountainous villages, isolated islets and other unfavorable conditions.
 
-- Meet  the  demands  for  nursery  and  kindergarten  teachers  and  ensure  that  their degrees are upgraded.
+d) Meet  the  demands  for  nursery  and  kindergarten  teachers  and  ensure  that  their degrees are upgraded.
 
-- Reinforce the equipments in children's foodstuff factories and toy factories in the provinces, cities and counties on a large scale and normalize their production.
+e) Reinforce the equipments in children's foodstuff factories and toy factories in the provinces, cities and counties on a large scale and normalize their production.
 
-- Build  pleasure  grounds,  parks  and  swimming  pools  in  all  communities  and normalize their operation.
+f) Build  pleasure  grounds,  parks  and  swimming  pools  in  all  communities  and normalize their operation.
 
-- Reinforce scientific research bases for childcare and education so that comprehensive research about the characteristics of mental and physical development of children can win success.
+g) Reinforce scientific research bases for childcare and education so that comprehensive research about the characteristics of mental and physical development of children can win success.
 
 ### 4.1.2 Primary and Secondary Education
 
@@ -1731,31 +1708,31 @@ The Government shall:
 
 [[START OF PAGE 55]]
 
-- Promote mental, emotional and physical development of male and female pupils and lay firm foundation for the intensive moral education and education through environment.
+a) Promote mental, emotional and physical development of male and female pupils and lay firm foundation for the intensive moral education and education through environment.
 
-- Encourage school age children to maintain their attendance rate at higher than 98% at primary and secondary schools.
+b) Encourage school age children to maintain their attendance rate at higher than 98% at primary and secondary schools.
 
-- Pay  special  attention  to  the  rehabilitation  of  schools  in  the  regions  affected  by natural calamities in order to restore them to the original state and wage a dynamic movement  to  construct  school  buildings  to  go  over  to  one-shift  system  at  all primary and secondary schools.
+c) Pay  special  attention  to  the  rehabilitation  of  schools  in  the  regions  affected  by natural calamities in order to restore them to the original state and wage a dynamic movement  to  construct  school  buildings  to  go  over  to  one-shift  system  at  all primary and secondary schools.
 
-- Provide schoolchildren with textbooks for all subjects every year on a regular basis and meet demand for basic school things on a satisfactory level and improve their qualities.
+d) Provide schoolchildren with textbooks for all subjects every year on a regular basis and meet demand for basic school things on a satisfactory level and improve their qualities.
 
-- Scientifically  formulate  education  program  and  rewrite  most  of  the  textbooks  in the primary and secondary schools to suit the demands of the new century.
+e) Scientifically  formulate  education  program  and  rewrite  most  of  the  textbooks  in the primary and secondary schools to suit the demands of the new century.
 
-- Widely  introduce  heuristic  method  of  teaching,  which  encourages  pupils  to develop  their  own  independence  and  creative  ability  and  enhance  the  level  of audio-visual education.
+f) Widely  introduce  heuristic  method  of  teaching,  which  encourages  pupils  to develop  their  own  independence  and  creative  ability  and  enhance  the  level  of audio-visual education.
 
-- Broaden  the  training  scope  of  teacher  training  colleges  and  universities  of education  to meet the demands for teachers and ensure that degrees of teachers are upgraded by strengthening re-education work of teachers.
+g) Broaden  the  training  scope  of  teacher  training  colleges  and  universities  of education  to meet the demands for teachers and ensure that degrees of teachers are upgraded by strengthening re-education work of teachers.
 
 ### 4.1.3 Higher Education
 
 The Government shall:
 
-- Broaden the training scope of the existing formal universities systematically.
+a) Broaden the training scope of the existing formal universities systematically.
 
-- Make preparations for the introduction of more informal universities and colleges, such as those attached to factories, farms and fishing farms.
+b) Make preparations for the introduction of more informal universities and colleges, such as those attached to factories, farms and fishing farms.
 
-- Recompile and increase training indices and size of vocational technical education institutions such  as specialized schools meant  for  the training of assistant engineers and skilled workers in accordance with the requirements of developing economy.
+c) Recompile and increase training indices and size of vocational technical education institutions such  as specialized schools meant  for  the training of assistant engineers and skilled workers in accordance with the requirements of developing economy.
 
-- Renew education content and methods at Kim Il Sung University and other main universities based on state-of-the art scientific and technological achievements and make it a regular practice to continue studying in the post graduate course after completion of graduate course.
+d) Renew education content and methods at Kim Il Sung University and other main universities based on state-of-the art scientific and technological achievements and make it a regular practice to continue studying in the post graduate course after completion of graduate course.
 
 55
 
@@ -1763,7 +1740,7 @@ The Government shall:
 
 [[START OF PAGE 56]]
 
-- Set examples in main universities for realizing information-oriented education and generalize those examples model to lay foundation for materialization of information-oriented education throughout the country.
+e) Set examples in main universities for realizing information-oriented education and generalize those examples model to lay foundation for materialization of information-oriented education throughout the country.
 
 ## 4.2 Strategies for Education Development
 
@@ -1819,9 +1796,9 @@ The Government shall:
 
 - Improve the qualifications of teachers.
 
-- Make sure that teachers improve their qualifications through well established re-education system and define 3-5 years as a re-education cycle.
+i. Make sure that teachers improve their qualifications through well established re-education system and define 3-5 years as a re-education cycle.
 
-- Regularly organize inspections of model and demonstration classes at work, seminars  and  meetings  for  exchange  of  experiences  among  teachers,  apply stricter regulations in the state examination for screening the qualification of teachers  and  ensure  that  teachers  enhance  their  qualifications  to  a  higher level.
+ii. Regularly organize inspections of model and demonstration classes at work, seminars  and  meetings  for  exchange  of  experiences  among  teachers,  apply stricter regulations in the state examination for screening the qualification of teachers  and  ensure  that  teachers  enhance  their  qualifications  to  a  higher level.
 
 - Give  precedence  to  the  training  of  teachers  to  suit  the  requirements  of  the development of education.
 
@@ -1831,9 +1808,9 @@ The Government shall:
 
 [[START OF PAGE 58]]
 
-- Reinforce  teacher  training  colleges  and  universities  of  education,  define training scope of students in accordance with the demands for teachers and enhance the quality of pedagogical education to a higher level.
+i. Reinforce  teacher  training  colleges  and  universities  of  education,  define training scope of students in accordance with the demands for teachers and enhance the quality of pedagogical education to a higher level.
 
-- ii  Give preferential treatment to teachers and have people respect them
+ii  Give preferential treatment to teachers and have people respect them
 
 - Find out, as many as possible, teachers who devote all their hearts to the education of the rising generation and give wide publicity to them through mass media and give them official commendations.
 
@@ -1849,15 +1826,15 @@ The  Government  shall  strengthen  cooperation  and  exchange  with  internatio
 
 The Government shall:
 
-- Ensure one-shift system for all primary  and secondary schools by building new schools or increasing the capacities of existing schools by 2008.
+a) Ensure one-shift system for all primary  and secondary schools by building new schools or increasing the capacities of existing schools by 2008.
 
-- Pay  special  attention  to  rehabilitation  of  schools  in  the  areas  affected  by natural calamities and restore them to original state by 2005.
+b) Pay  special  attention  to  rehabilitation  of  schools  in  the  areas  affected  by natural calamities and restore them to original state by 2005.
 
-- Form primary and middle school networks in rational manner according to the distribution of school age children so that not a single school-age child is excluded from compulsory education.
+c) Form primary and middle school networks in rational manner according to the distribution of school age children so that not a single school-age child is excluded from compulsory education.
 
-- Ensure  that  pupils  do  not  suffer  from  commuting  inconvenience  and normalize the operation of the commuting means, which  failed to work due to strained fuel and electricity situation, by 2005.
+d) Ensure  that  pupils  do  not  suffer  from  commuting  inconvenience  and normalize the operation of the commuting means, which  failed to work due to strained fuel and electricity situation, by 2005.
 
-- Modernize school buildings and education facilities to suit the requirements of developing science and technology in the new century and provide enough material conditions to  improve  the  quality  of  primary  and  secondary education.
+e) Modernize school buildings and education facilities to suit the requirements of developing science and technology in the new century and provide enough material conditions to  improve  the  quality  of  primary  and  secondary education.
 
 58
 
@@ -1865,31 +1842,31 @@ The Government shall:
 
 [[START OF PAGE 59]]
 
-- Have school buildings repaired and education facilities renewed in a planned manner and direct special attention to the provision of heating conditions to the schools during the winter season in the northern and northeastern areas.
+f) Have school buildings repaired and education facilities renewed in a planned manner and direct special attention to the provision of heating conditions to the schools during the winter season in the northern and northeastern areas.
 
-- Install  swimming  pools  at  all  primary  and  secondary  schools  by  2005  and provide all the classrooms in the primary schools with musical instruments by 2008.
+g) Install  swimming  pools  at  all  primary  and  secondary  schools  by  2005  and provide all the classrooms in the primary schools with musical instruments by 2008.
 
-- Modernize the production equipment of the education books printing factory by 2008 and satisfactorily solve the problem of paper to meet the needs of pupils for textbooks and increase the circulation of reference books.
+h) Modernize the production equipment of the education books printing factory by 2008 and satisfactorily solve the problem of paper to meet the needs of pupils for textbooks and increase the circulation of reference books.
 
-- Meet  the  needs  for  notebooks,  pencils,  schoolbags  and  other  basic  school things and pay special attention to the improvement of their qualities.
+i) Meet  the  needs  for  notebooks,  pencils,  schoolbags  and  other  basic  school things and pay special attention to the improvement of their qualities.
 
-- Operate, in a rational manner, special schools for disabled children such as the  deaf  and  the  dumb  and  improve  the  education  and  service  facilities  of these schools.
+j) Operate, in a rational manner, special schools for disabled children such as the  deaf  and  the  dumb  and  improve  the  education  and  service  facilities  of these schools.
 
-- Pay special attention to having disadvantaged children who happened to lose their parents due to natural disasters receive education with no discrimination and preferentially provide them with education and living conditions.
+k) Pay special attention to having disadvantaged children who happened to lose their parents due to natural disasters receive education with no discrimination and preferentially provide them with education and living conditions.
 
 ### 4.3.2 Improvement  of  educational  content  in  accordance  with  the  requirements  of social development in the new century and of the quality of education.
 
 The Government shall:
 
-- Complete by 2005 the education program of primary and secondary school in the direction of giving pupils sufficient basic knowledge and skills required by the information era and finish rewriting of textbooks by 2008.
+a) Complete by 2005 the education program of primary and secondary school in the direction of giving pupils sufficient basic knowledge and skills required by the information era and finish rewriting of textbooks by 2008.
 
-- Try computer and foreign language education at the primary school affiliated to Pyongyang Middle School No. 1 by 2005 and confirm its possibility.
+b) Try computer and foreign language education at the primary school affiliated to Pyongyang Middle School No. 1 by 2005 and confirm its possibility.
 
-- Improve  and  intensify  life  skills  education  and  technical  and  vocational education among students in the secondary education stage by strengthening education  that  suits  regional  and  local  features,  and  to  this  end,  examine education program of secondary schools and take relevant measures.
+c) Improve  and  intensify  life  skills  education  and  technical  and  vocational education among students in the secondary education stage by strengthening education  that  suits  regional  and  local  features,  and  to  this  end,  examine education program of secondary schools and take relevant measures.
 
-- Pay  special attention to the education geared to  the  development  of personality  of  pupils,  and  to  this  end,  timely  find  out  talented  pupils  and further develop an educational system for developing their talents.
+d) Pay  special attention to the education geared to  the  development  of personality  of  pupils,  and  to  this  end,  timely  find  out  talented  pupils  and further develop an educational system for developing their talents.
 
-- Recompose education program of middle schools No 1 in cities and counties by  2005  and  finish  the  work  of  rewriting  textbooks  within  2  to  3  years, improve and complete the content of child psychology, one of basic subjects of education, and to this end, install Institute of Psychology in the Academy
+e) Recompose education program of middle schools No 1 in cities and counties by  2005  and  finish  the  work  of  rewriting  textbooks  within  2  to  3  years, improve and complete the content of child psychology, one of basic subjects of education, and to this end, install Institute of Psychology in the Academy
 
 59
 
@@ -1903,27 +1880,27 @@ of  Pedagogy  by  2005,  equip  this  institute  with  modern  facilities  and i
 
 The Government shall:
 
-- Actively  develop  and  disseminate  heuristic  method  of  teaching  geared  to developing independence and creativity of pupils.
+a) Actively  develop  and  disseminate  heuristic  method  of  teaching  geared  to developing independence and creativity of pupils.
 
-- Conduct trial education based on educational and psychological research on the  characteristics  of  the  process  of  pupils'  acquisition  of  knowledge  and generalize good intellectual teaching methods through observation of model classes and training courses.
+b) Conduct trial education based on educational and psychological research on the  characteristics  of  the  process  of  pupils'  acquisition  of  knowledge  and generalize good intellectual teaching methods through observation of model classes and training courses.
 
-- See that the  production and dissemination of various audio-visual teaching materials  including  video  materials  and  the  supply  of  modern  educational means including computers shall be promoted  stage by stage according to the state plan and plans for assistance from international organizations.
+c) See that the  production and dissemination of various audio-visual teaching materials  including  video  materials  and  the  supply  of  modern  educational means including computers shall be promoted  stage by stage according to the state plan and plans for assistance from international organizations.
 
-- Renovate  and  modernize  technical  equipment  in  the  video  materials producing  center  by  2005  and  ensure  that  video  teaching  materials  are produced on a timely basis.
+i. Renovate  and  modernize  technical  equipment  in  the  video  materials producing  center  by  2005  and  ensure  that  video  teaching  materials  are produced on a timely basis.
 
-- Make  model  units  which  introduce  modernization  of  education  in  each province  within  two  to  three  years  and  generalize  their  successes  and experiences.
+ii. Make  model  units  which  introduce  modernization  of  education  in  each province  within  two  to  three  years  and  generalize  their  successes  and experiences.
 
-- Increase the number of computers in secondary schools stage by stage in order  to  raise  the  utilization  rate  of  computers  in  the  education  of different subjects.
+iii. Increase the number of computers in secondary schools stage by stage in order  to  raise  the  utilization  rate  of  computers  in  the  education  of different subjects.
 
-- Establish  the  system  of  synthetically  assessing  learning  achievement  of pupils based on how they have understood texts and on their ability to put into practice and take measures to introduce information technical means in the analysis and summing up of pupils' learning achievement.
+d) Establish  the  system  of  synthetically  assessing  learning  achievement  of pupils based on how they have understood texts and on their ability to put into practice and take measures to introduce information technical means in the analysis and summing up of pupils' learning achievement.
 
 ### 4.3.4. Closer Tie among School, Home and Social Education
 
 The Government shall:
 
-- Enhance  the  sense  of  responsibility  of  parents  on  children's  education  by keeping closer ties of schools and homes.
+a) Enhance  the  sense  of  responsibility  of  parents  on  children's  education  by keeping closer ties of schools and homes.
 
-- Build  and  operate  schoolchildren's  palaces  and  halls,  juvenile    libraries, camps, parks  and  pleasure  grounds  in  residential  areas  and  scenic  spots  in provinces, cities and counties.
+b) Build  and  operate  schoolchildren's  palaces  and  halls,  juvenile    libraries, camps, parks  and  pleasure  grounds  in  residential  areas  and  scenic  spots  in provinces, cities and counties.
 
 60
 
@@ -1931,9 +1908,9 @@ The Government shall:
 
 [[START OF PAGE 61]]
 
-- Increase  the  number  of  fables,  juvenile  novels,  films  for  children    and scientific films for the development of intellectual faculties of pupils.
+c) Increase  the  number  of  fables,  juvenile  novels,  films  for  children    and scientific films for the development of intellectual faculties of pupils.
 
-- Systematically increase broadcasting hours for primary and secondary school children out of the currently broadcasting education and culture TV channel.
+d) Systematically increase broadcasting hours for primary and secondary school children out of the currently broadcasting education and culture TV channel.
 
 61
 
