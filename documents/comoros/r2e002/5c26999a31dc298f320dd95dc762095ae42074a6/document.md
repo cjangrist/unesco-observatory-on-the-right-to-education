@@ -58,14 +58,14 @@ Ce préambule fait partie intégrante de la Constitution.
 
 ## TITRE I - DE L'UNION DES COMORES
 
-#### Article  1 er .
-­  L'Union  des  Comores  est  une  République,  composée  des  îles autonomes  de  Mwali  (Mohéli),  Maoré  (Mayotte),  Ndzuwani  (Anjouan),  Ngazidja (Grande Comores).
+#### Article 1er.
+- L'Union des Comores est une République, composée des îles autonomes de Mwali (Mohéli), Maoré (Mayotte), Ndzuwani (Anjouan), Ngazidja (Grande Comores).
 
 L'emblème national est [jaune, blanc, rouge, bleu, un croissant blanc tourné vers la droite et 4 étoiles blanches alignées d'un bout à l'autre du croissant dans un triangle isocèle en fond vert.
 
 L'hymne national est : [Umodja Wa Massiwa]
 
-La devise de l'Union est : Unité ­ Solidarité ­ Développement.
+La devise de l'Union est : Unité - Solidarité - Développement.
 
 La loi de l'Union détermine le sceau de l'Union.
 
@@ -262,18 +262,20 @@ Le Président de l'Union en informe la Nation par message. L'Assemblée de l'Uni
   -  Le  Président  de  l'Union  peut,  sur  habilitation  de  l'Assemblée  de l'Union,  légiférer  par  ordonnances  sur  des  matières  relevant  de  la  compétence  de celle-ci.  Ces  ordonnances  sont  déposées  sur  le  bureau  de  l'Assemblée  à  la prochaine session suivant le terme du délai fixé par la loi d'habilitation
 
 #### Article 12-5 .
-- Dans le respect de la Constitution de l'Union, en vue de l'examen des questions intéressant la vie politique, sociale ou économique, nationale, le Président de  l'Union  peut  réunir  et  présider  une  Conférence  à  laquelle  participent  les  Viceprésidents, le Président de l'Assemblée de l'Union, les Gouverneurs et les Présidents des Conseils insulaires.
+- Dans le respect de la Constitution de l'Union, en vue de l'examen des questions intéressant la vie politique, sociale ou économique, nationale, le Président de l'Union peut réunir et présider une Conférence à laquelle participent les Vice-
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
+présidents, le Président de l'Assemblée de l'Union, les Gouverneurs et les Présidents des Conseils insulaires.
+
 Un Vice-président ou le Président de l'Assemblée de l'Union peut sur délégation du Président de l'Union présider la Conférence.
 
 #### Article  13 .
-­ La  Présidence  est  tournante  entre  les  îles.  Le  Président  et  les  Viceprésidents sont élus ensemble au suffrage universel direct majoritaire à un tour pour un mandat de cinq (5) ans renouvelable dans le respect de la tournante. Une élection primaire  est  organisée  dans  cette  île  et  seuls  les  trois  candidats  ayant  obtenu  les plus grand  nombre  de  suffrages  exprimés  peuvent  se  présenter  à  l'élection présidentielle. Dans  tous  les cas, la primaire  ne peut s'organiser deux  fois successives dans la même île.
+- La Présidence est tournante entre les îles. Le Président et les Vice-présidents sont élus ensemble au suffrage universel direct majoritaire à un tour pour un mandat de cinq (5) ans renouvelable dans le respect de la tournante. Une élection primaire est organisée dans cette île et seuls les trois candidats ayant obtenu les plus grand nombre de suffrages exprimés peuvent se présenter à l'élection présidentielle. Dans tous les cas, la primaire ne peut s'organiser deux fois successives dans la même île.
 
-Avant  d'entrer  en  fonction  le  président  de  l'Union  et  les  vice-présidents  prêtent serment devant la Cour Constitutionnelle selon la formule suivante et en comorien : « Je  jure  devant  Allah,  le  Clément  et  le  très  Miséricordieux  de  fidèlement  et honnêtement  remplir  les  devoirs  de  ma  charge,  de  n'agir  que  dans  l'intérêt général et dans le respect de la Constitution . »
+Avant d'entrer en fonction le président de l'Union et les vice-présidents prêtent serment devant la Cour Constitutionnelle selon la formule suivante et en comorien : « Je jure devant Allah, le Clément et le très Miséricordieux de fidèlement et honnêtement remplir les devoirs de ma charge, de n'agir que dans l'intérêt général et dans le respect de la Constitution. »
 
 Les conditions d'éligibilité et les modalités d'application du présent article sont fixées par une loi organique.
 
@@ -295,7 +297,7 @@ En cas d'absence ou d'empêchement temporaire, le Président de l'Union est supp
 
 [[START OF PAGE 8]]
 
-Une loi organique détermine les matières pour lesquelles le contreseing des Viceprésidents est requis.
+Une loi organique détermine les matières pour lesquelles le contreseing des Vice-présidents est requis.
 
 #### Article  16 .
 ­  Le  Président  de  l'Union,  assisté  de  trois  Vice-présidents  nomme  les Ministres  et  les  autres  membres  du  Gouvernement  et  dont  le  nombre  ne  saurait dépasser dix (10). Le gouvernement de l'Union est composé de manière à assurer une représentation juste et équitable des Iles.
