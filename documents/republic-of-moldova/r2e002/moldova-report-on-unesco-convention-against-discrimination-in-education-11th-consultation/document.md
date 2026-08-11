@@ -10,7 +10,7 @@ Name of contact person: Elena Turcan, Main advisor, Directorate for Public Polic
 
 Email and telephone number of contact person: elena.turcan@mec.gov.md
 
-# Ratification and applicability of the Convention against Discrimination in Education  [1]
+# I. Ratification and applicability of the Convention against Discrimination in Education [1]
 
 - Is your country a State Party to the Convention?
 
@@ -32,7 +32,7 @@ Republic of Moldova acceded to the Convention by the Parliament Decision No. 707
 
 o No, not considering ratification. Please explain why:
 
--Is the Convention directly applicable in your country's domestic law?
+- Is the Convention directly applicable in your country’s domestic law?
 
 - o Yes
 
@@ -102,7 +102,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 - In primary education
 
-- I n secondary education
+- In secondary education
 
 - In technical and vocational education and training
 
@@ -116,31 +116,32 @@ The legal framework to ensure the respect of the rights to education is guarante
 
 Thus, the Constitution of the Republic of Moldova in Article 35, Right to education, stipulates that:
 
-- The right to education is ensured through compulsory general education, through high school and vocational  education,  through  higher  education,  as  well  as  through  other  forms  of  education  and training.
+(1) The right to education is ensured through compulsory general education, through high school and vocational education, through higher education, as well as through other forms of education and training.
 
-- The state ensures, in accordance with the law, the right to choose the language of education and training of persons.
+(2) The state ensures, in accordance with the law, the right to choose the language of education and training of persons.
 
-- The study of the state language is ensured in educational institutions of all levels.
+(3) The study of the state language is ensured in educational institutions of all levels.
 
-- State public education is free of charge.
+(4) State public education is free of charge.
 
 (5) Educational institutions, including the non-state ones, are established and operate in accordance with the law.
 
 https://www.legis.md/cautare/getResults?doc_id=83916&lang=ro
 
-Constitution of the Republic of Moldova, available in Romanian at: https://www.legis.md/cautare/getResults?doc_id=111918&lang=ro
+Constitution of the Republic of Moldova, available in Romanian at:
+https://www.legis.md/cautare/getResults?doc_id=111918&lang=ro
 
-- Higher education institutions benefit from the right for autonomy.
+(6) Higher education institutions benefit from the right for autonomy.
 
 (7) High school, vocational and higher education are equally accessible to all, based on personal merit.
 
-- The state ensures, in accordance with the law, the freedom of religious education.
+(8) The state ensures, in accordance with the law, the freedom of religious education.
 
 State education is secular.
 
-(9) The parents have the priority right to choose the appropriate sphere of education for their children. The Education Code of the Republic of Moldova No. 152/2014 establishes the legal framework for planning,  organization,  operation  and  development  of  the  education  system  in  the  Republic  of Moldova at all levels of education, from early childhood to
+(9) The parents have the priority right to choose the appropriate sphere of education for their children.
 
-higher education. The citizens of the Republic of Moldova have equal rights of access to education and initial and continuing vocational training through the national education system.
+The Education Code of the Republic of Moldova No. 152/2014 establishes the legal framework for planning, organization, operation and development of the education system in the Republic of Moldova at all levels of education, from early childhood to higher education. The citizens of the Republic of Moldova have equal rights of access to education and initial and continuing vocational training through the national education system.
 
 The  state  ensures  the  inclusion  of  children  and  students  with  special  educational  needs  through individualized  approach,  determining  the  form  of  integrating  them  in  educational  institutions.  In general  education,  in  the  institutions  that  integrate  students  with  special  needs,  trained  support teachers are working to assist the integration and learning process.
 
@@ -154,7 +155,7 @@ The state promotes lifelong learning, in order to ensure support for citizens in
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
-Education Code of the Republic of Moldova No. 152/2014, Article 7. Education shall be based on the following fundamental principles: a) equity principle ─ under which the access to learning is carried out without discrimination; b) quality principle ─ unde r which the educational activities are related to the reference standards and to the best national and international practices; c) relevance principle ─ under which the education meets the personal and social-economic development needs; d) learnercentred teaching principle; e) principle of freedom to thinking and independence towards ideologies, religious dogma and political doctrines; f) principle of observing the right to freedom of opinion for pupil/student as direct beneficiaries of the education process; g) social inclusion principle; h) equality assurance principle; i) principle of recognition and guaranty of the rights of persons belonging to the national minorities, including the right to maintaining, development and expression of their ethnical, cultural, linguistic and religious identity; j) principle of unity and integrity of the educational space; k) managerial and financial efficiency principle; l) decentralization and institutional autonomy principle; m) public accountability principle ─ under which the educational institutions are publicly responsible for  their  performances; n) transparency principle; o) principle of participation and accountability of community,  parents  and  other  social  stakeholders;  p)  principle  of  support  and  promotion  of  the education personnel; q) secular education principle.
+Education Code of the Republic of Moldova No. 152/2014, Article 7. Education shall be based on the following fundamental principles: a) equity principle ─ under which the access to learning is carried out without discrimination; b) quality principle ─ under which the educational activities are related to the reference standards and to the best national and international practices; c) relevance principle ─ under which the education meets the personal and social-economic development needs; d) learner-centred teaching principle; e) principle of freedom to thinking and independence towards ideologies, religious dogma and political doctrines; f) principle of observing the right to freedom of opinion for pupil/student as direct beneficiaries of the education process; g) social inclusion principle; h) equality assurance principle; i) principle of recognition and guaranty of the rights of persons belonging to the national minorities, including the right to maintaining, development and expression of their ethnical, cultural, linguistic and religious identity; j) principle of unity and integrity of the educational space; k) managerial and financial efficiency principle; l) decentralization and institutional autonomy principle; m) public accountability principle ─ under which the educational institutions are publicly responsible for their performances; n) transparency principle; o) principle of participation and accountability of community, parents and other social stakeholders; p) principle of support and promotion of the education personnel; q) secular education principle.
 
 - Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
@@ -172,21 +173,22 @@ Education Code of the Republic of Moldova No. 152/2014, Article 7. Education sha
 
 - Please provide details:
 
-- The Implementation Program for the years 2023-2025 aimed at strengthening inter-ethnic relations in the Republic of Moldova, aligning with the overarching Strategy for the years 20172027  [1], [2] .
+- The Implementation Program for the years 2023-2025 aimed at strengthening inter-ethnic relations in the Republic of Moldova, aligning with the overarching Strategy for the years 2017-2027 [1], [2].
 
-- The Program to support the Roma population in the Republic of Moldova for the years 20222025, which prioritizes access to education for Roma children  [3]  .
+- The Program to support the Roma population in the Republic of Moldova for the years 2022-2025, which prioritizes access to education for Roma children [3].
 
-- The  National  Program  for  promoting  the  learning  of  the  Romanian  language  by  national minorities, encompassing the adult population, spanning from 2023 to 2025 [4] .
+- The National Program for promoting the learning of the Romanian language by national minorities, encompassing the adult population, spanning from 2023 to 2025 [4].
 
-- The National Program for inclusive education (2024-2027)  [5] , endorsed through Government Decision no. 950/2023
+- The National Program for inclusive education (2024-2027) [5], endorsed through Government Decision no. 950/2023
 
-- Strategy for strengthening inter-ethnic relations in the Republic of Moldova for the years 20172027
-
+[1] Strategy for strengthening inter-ethnic relations in the Republic of Moldova for the years 2017-2027
 https://www.legis.md/cautare/getResults?doc_id=97804&lang=ro
 
-- Program for the years 2022-2025 regarding the implementation of the Strategy for strengthening inter-ethnic relations in the Republic of Moldova for the years 2017-2027 https://www.legis.md/cautare/getResults?doc_id=136873&lang=ro
+[2] Program for the years 2022-2025 regarding the implementation of the Strategy for strengthening inter-ethnic relations in the Republic of Moldova for the years 2017-2027
+https://www.legis.md/cautare/getResults?doc_id=136873&lang=ro
 
-- Program to support the Roma population in the Republic of Moldova for the years 2022-2025 https://www.legis.md/cautare/getResults?doc_id=133208&lang=ro
+[3] Program to support the Roma population in the Republic of Moldova for the years 2022-2025
+https://www.legis.md/cautare/getResults?doc_id=133208&lang=ro
 
 [[END OF PAGE 4]]
 
@@ -230,33 +232,33 @@ Reference framework of early education in the Republic of Moldova (2018)
 
 [[START OF PAGE 6]]
 
-From the perspective of the basic value of the Convention on the Rights of the Child [9] -Human Dignity -early education in the Republic of Moldova promotes the following values:
+From the perspective of the basic value of the Convention on the Rights of the Child [9] – Human Dignity – early education in the Republic of Moldova promotes the following values:
 
--The supreme interest of the child;
+- The supreme interest of the child;
 
--The fundamental right to life and growth, learning -guaranteed full development in accordance with native potential; equity and non-discrimination, equal attitude towards all children: equal chances  for  harmonious  development,  regardless  of  gender,  ethnicity,  religion,  level  of development, environment of origin, ensured through a balanced and inclusive educational approach;
+- The fundamental right to life and growth, learning – guaranteed full development in accordance with native potential; equity and non-discrimination, equal attitude towards all children: equal chances for harmonious development, regardless of gender, ethnicity, religion, level of development, environment of origin, ensured through a balanced and inclusive educational approach;
 
--Respect for the opinion of the child and the parent;
+- Respect for the opinion of the child and the parent;
 
--Respect for one's own culture, language and beliefs - national and cultural values: love for one's  native  land,  for  one's  mother  tongue,  honoring  the  historical  past,  the  traditions  and customs of the people they belong to, as well as the customs of neighboring peoples.
+- Respect for one's own culture, language and beliefs - national and cultural values: love for one's native land, for one's mother tongue, honoring the historical past, the traditions and customs of the people they belong to, as well as the customs of neighboring peoples.
 
 Within the early education system, the child has the following RIGHTS:
 
--to  be  educated  in  a  safe  environment,  where  they  benefit  from  physical  and  emotional protection;
+- to be educated in a safe environment, where they benefit from physical and emotional protection;
 
--to have access to all educational materials and resources;
+- to have access to all educational materials and resources;
 
--to participate in the educational process and to be assisted and supported by the educator;
+- to participate in the educational process and to be assisted and supported by the educator;
 
--to be treated with respect and fairness and to be protected from abuse of authority;
+- to be treated with respect and fairness and to be protected from abuse of authority;
 
--to be protected from the imposition of restrictions that are not absolutely necessary;
+- to be protected from the imposition of restrictions that are not absolutely necessary;
 
--to learn with pleasure and interest and to understand the usefulness of acquired knowledge;
+- to learn with pleasure and interest and to understand the usefulness of acquired knowledge;
 
--to benefit from the assistance of social services, when necessary;
+- to benefit from the assistance of social services, when necessary;
 
--the right to privacy and confidentiality.
+- the right to privacy and confidentiality.
 
 According to the Reference Framework of the National Curriculum (2017, https://mecc.gov.md/sites/default/files/cadrul_de_referinta_final_rom_tipar.pdf ), some of the principles that formed the basis of the curriculum design for school subjects in the years 2018-2019 were: The principle of individualizing the curriculum (respecting the characteristics of the student's age, interest, motivation), The principle of equality of chances (ensuring equivalent opportunities), the Principle of flexibility (ensuring individual pathways, the possibility of individualizing education), the Principle of social connection, including professional insertion, etc.
 
@@ -296,27 +298,30 @@ The  curriculum  for  the  optional  subjects,  likewise,  gives  the  opportuni
 
 The Constitution of the Republic of Moldova in Article 35, Right to education, stipulates that:
 
-- The right to education is ensured through compulsory general education, through high school and vocational education, through higher education, as well as through other forms of education and training.
+(1) The right to education is ensured through compulsory general education, through high school and vocational education, through higher education, as well as through other forms of education and training.
 
-- The state ensures, in accordance with the law, the right to choose the language of education and training of persons.
+(2) The state ensures, in accordance with the law, the right to choose the language of education and training of persons.
 
-- The study of the state language is ensured in educational institutions of all levels.
+(3) The study of the state language is ensured in educational institutions of all levels.
 
-- State public education is free of charge.
+(4) State public education is free of charge.
 
-- Educational institutions, including the non-state ones, are established and operate in accordance with the law.
+(5) Educational institutions, including the non-state ones, are established and operate in accordance with the law.
 
 https://www.legis.md/cautare/getResults?doc_id=83916&lang=ro
 
-Constitution of the Republic of Moldova, available in Romanian at: https://www.legis.md/cautare/getResults?doc_id=111918&lang=ro
+Constitution of the Republic of Moldova, available in Romanian at:
+https://www.legis.md/cautare/getResults?doc_id=111918&lang=ro
 
-- Higher education institutions benefit from the right for autonomy.
+(6) Higher education institutions benefit from the right for autonomy.
 
-- High school, vocational and higher education are equally accessible to all, based on personal merit.
+(7) High school, vocational and higher education are equally accessible to all, based on personal merit.
 
-- The state ensures, in accordance with the law, freedom of religious education. State education is secular.
+(8) The state ensures, in accordance with the law, freedom of religious education.
 
-- The  parents  have  the  priority  right  to  choose  the  appropriate  sphere  of  education  for  their children.
+State education is secular.
+
+(9) The parents have the priority right to choose the appropriate sphere of education for their children.
 
 The Education Code of the Republic of Moldova No. 152/2014 establishes the legal framework for planning,  organization,  operation  and  development  of  the  education  system  in  the  Republic  of Moldova at all levels of education, from early childhood to higher education. The citizens of the Republic of Moldova have equal rights of access to education and initial and continuing vocational training through the national education system.
 
@@ -336,33 +341,33 @@ In Early Education, the culture, customs and history of the people from which th
 
 Another  important  document  is  Quality  Standards  for  primary  and  general  secondary  education institutions from the perspective of the child-friendly school
 
-https://mecc.gov.md/sites/default/files/document/attachments/o970din_11_10_13_standarde_spc_ 0.pdf
+https://mecc.gov.md/sites/default/files/document/attachments/o970din_11_10_13_standarde_spc_0.pdf
 
 The Child-Friendly School (CFS) represents a holistic, systemic approach to improving the quality of education that places the child at the center of educational reform.
 
 The quality standards developed for the child-friendly school cover the entire activity system of the institution and pursue the following objectives:
 
-- respecting the rights of each child;
+1. respecting the rights of each child;
 
-- approaching the child as a whole, in a broad context;
+2. approaching the child as a whole, in a broad context;
 
-- centering on the child and his family
+3. centering on the child and his family
 
-- gender sensitivity;
+4. gender sensitivity;
 
-- promoting the quality of academic results;
+5. promoting the quality of academic results;
 
-- basing education on real life and the integration of the school into the community;
+6. basing education on real life and the integration of the school into the community;
 
-- flexibility and the promotion of diversity;
+7. flexibility and the promotion of diversity;
 
-- ensuring inclusion and ensuring equal opportunities for all children;
+8. ensuring inclusion and ensuring equal opportunities for all children;
 
-- promoting the child's mental and physical health;
+9. promoting the child's mental and physical health;
 
-- the acceptability and accessibility of educational programs for each child;
+10. the acceptability and accessibility of educational programs for each child;
 
-- strengthening the competences and status of teachers.
+11. strengthening the competences and status of teachers.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -374,13 +379,17 @@ The subsequent normative framework, which guarantees the right to education incl
 
 - The  standard  regulation  of  the  early  education  institution  approved  by  the  Ministry  of Education Culture and Research (MECR) Order No. 254/2017791; Education Code of the Republic of Moldova No. 152/2014, available in Romanian at: https://www.legis.md/cautare/getResults?doc_id=110112&lang=ro
 
-- Draft Law on dual vocational education and training, available in Romanian at: https://www.parlament.md/ProcesulLegislativ/Proiectedeactelegislative/tabid/61/LegislativI d/5916/language/roRO/Default.aspx
+- Draft Law on dual vocational education and training, available in Romanian at:
+https://www.parlament.md/ProcesulLegislativ/Proiectedeactelegislative/tabid/61/LegislativId/5916/language/roRO/Default.aspx
 
-- Standard regulation of the early education institution, available in Romanian at: https://mecc.gov.md/sites/default/files/reg-tip_.iet_14.11.2017_rom.pdf
+- Standard regulation of the early education institution, available in Romanian at:
+https://mecc.gov.md/sites/default/files/reg-tip_.iet_14.11.2017_rom.pdf
 
-- Quality  Standards  for  primary  and  general  secondary  education  institutions  from  the perspective of the child-friendly school, available in Romanian at: https://mecc.gov.md/sites/default/files/document/attachments/o970din_11_10_13_standar de_spc_0.pdf
+- Quality Standards for primary and general secondary education institutions from the perspective of the child-friendly school, available in Romanian at:
+https://mecc.gov.md/sites/default/files/document/attachments/o970din_11_10_13_standarde_spc_0.pdf
 
-- The  minimum  standards  for  equipping  general  education  institutions  with  means  of information technologies and the Internet, available in Romanian at: https://mecc.gov.md/sites/default/files/ordin_675_din_07.05.2024_standarde_minime_tic.p df
+- The minimum standards for equipping general education institutions with means of information technologies and the Internet, available in Romanian at:
+https://mecc.gov.md/sites/default/files/ordin_675_din_07.05.2024_standarde_minime_tic.pdf
 
 - The  standard  regulation  for  the  organization  and  functioning  of  primary  and  secondary education institutions, cycle I and II, approved by the Ministry of Education (ME) Order No. 235/2016;
 
@@ -402,7 +411,7 @@ The subsequent normative framework, which guarantees the right to education incl
 
 - Regulation on the organization of higher doctoral studies, cycle III, approved by Government Decision No. 1007/2014;
 
-- Government Decision No. 1009/2006 On the amounts of scholarships, monthly balances of other forms of social assistance for students in higher education institutions, students in post-secondary and post-secondary non-tertiary Order No. 235/2016, available in Romanian at:https://mecc.gov.md/sites/default/files/regulament_organizare_si_functionare_institutii_i nvatamint_gene.pdf
+- Government Decision No. 1009/2006 On the amounts of scholarships, monthly balances of other forms of social assistance for students in higher education institutions, students in post-secondary and post-secondary non-tertiary Order No. 235/2016, available in Romanian at:https://mecc.gov.md/sites/default/files/regulament_organizare_si_functionare_institutii_invatamint_gene.pdf
 
 Order No. 1095/2016, available in Romanian at:
 
@@ -414,25 +423,46 @@ Order No. 1934/2018, available in Romanian at:
 
 [[START OF PAGE 10]]
 
-https://mecc.gov.md/sites/default/files/ordinul_nr._1934_din_28.12.2018.pdf MECR Order No. 70/2020, available in Romanian at: https://mecc.gov.md/sites/default/files/ordin_modificare_regulament_evaluare.pdf Joint Order of the Ministry of Education, Culture and Research (No. 970/2021) and of the Ministry of Justice (No. 90/2021), available in Romanian at: https://mecc.gov.md/sites/default/files/ordin_nr_970_din_2021.pdf
----
-Order No. 641/2021, available in Romanian at: https://mecc.gov.md/sites/default/files/ordin_641_regulament_admitere_2021.pdf
-Government Decision No. 170/2021, available in Romanian at: https://mecc.gov.md/sites/default/files/hg_107_din_14.07.2021_admiterea_2021.pdf
-Order of the MECR No. 1625/2019, available in Romanian at: https://mecc.gov.md/sites/default/files/ordinul_nr._1625_din_12.12.2019.pdf
-Government Decision No. 80/2022, available in Romanian at: https://www.legis.md/cautare/getResults?doc_id=130035&lang=ro
-Government Decision No. 1007/2014, available in Romanian at: https://www.legis.md/cautare/getResults?doc_id=115655&lang=ro
+https://mecc.gov.md/sites/default/files/ordinul_nr._1934_din_28.12.2018.pdf
+
+MECR Order No. 70/2020, available in Romanian at:
+https://mecc.gov.md/sites/default/files/ordin_modificare_regulament_evaluare.pdf
+
+Joint Order of the Ministry of Education, Culture and Research (No. 970/2021) and of the Ministry of Justice (No. 90/2021), available in Romanian at:
+https://mecc.gov.md/sites/default/files/ordin_nr_970_din_2021.pdf
+
+Order No. 641/2021, available in Romanian at:
+https://mecc.gov.md/sites/default/files/ordin_641_regulament_admitere_2021.pdf
+
+Government Decision No. 170/2021, available in Romanian at:
+https://mecc.gov.md/sites/default/files/hg_107_din_14.07.2021_admiterea_2021.pdf
+
+Order of the MECR No. 1625/2019, available in Romanian at:
+https://mecc.gov.md/sites/default/files/ordinul_nr._1625_din_12.12.2019.pdf
+
+Government Decision No. 80/2022, available in Romanian at:
+https://www.legis.md/cautare/getResults?doc_id=130035&lang=ro
+
+Government Decision No. 1007/2014, available in Romanian at:
+https://www.legis.md/cautare/getResults?doc_id=115655&lang=ro
+
 technical vocational education institutions, secondary technical vocational and persons studying in post-graduate education;
-• The framework regulation on the organization and development of distance higher education, approved by the Order of the ME No. 474/2016;
-• The regulation on granting guarantees and compensations to employees who combine work with studies, approved by Government Decision No. 435/2007;
-• The framework regulations for the organization and functioning of technical vocational education institutions, approved by the orders of the ME No. 550/2015, No. 840/2015 and No. 1158/2015;
-• Regulation on internships in production in secondary technical vocational education, approved by ME order No. 233/2016; • Regulation on the organization and conduct of internships in post-secondary and
-non-tertiary post-secondary technical vocational education, approved by the order of the ME No. 1086/2016;
-• Regulation on the organization and conduct of the qualification exam, approved by the order of the Ministry of Education No. 1127/2018;
-• Regulation on the organization and conduct of admission to technical vocational programs, approved by MECR Order No. 459/2020;
-• Government Decision No. 1077/2016 on the cost-based financing per student of
-institutions of technical vocational education.
-training
-public
+
+- The framework regulation on the organization and development of distance higher education, approved by the Order of the ME No. 474/2016;
+
+- The regulation on granting guarantees and compensations to employees who combine work with studies, approved by Government Decision No. 435/2007;
+
+- The framework regulations for the organization and functioning of technical vocational education institutions, approved by the orders of the ME No. 550/2015, No. 840/2015 and No. 1158/2015;
+
+- Regulation on internships in production in secondary technical vocational education, approved by ME order No. 233/2016;
+
+- Regulation on the organization and conduct of internships in post-secondary and non-tertiary post-secondary technical vocational education, approved by the order of the ME No. 1086/2016;
+
+- Regulation on the organization and conduct of the qualification exam, approved by the order of the Ministry of Education No. 1127/2018;
+
+- Regulation on the organization and conduct of admission to technical vocational training programs, approved by MECR Order No. 459/2020;
+
+- Government Decision No. 1077/2016 on the cost-based financing per student of public institutions of technical vocational education.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
@@ -468,13 +498,13 @@ Also, the Ministry of Education and Research proposed the modernization of the s
 
 - o Teachers are trained (initial and in-service) on gender equality
 
-- Teachers are trained to combat stigmatisation [10 ]
+- Teachers are trained to combat stigmatisation [10]
 
 - o All  barriers  for  pregnant  girls  and  young mothers  in  education  are  eliminated  to ensure the continuity of their education
 
 - o Re-entry programs for young mothers are provided for
 
-- o Ensuring safe and adequate gendersensitive sanitation facilities [11]
+- o Ensuring safe and adequate gender-sensitive sanitation facilities [11]
 
 - o Curricula are rid of all stereotypes [12] and bias
 
@@ -486,11 +516,13 @@ Also, the Ministry of Education and Research proposed the modernization of the s
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-In  2022,  the  Regulation  on  the  selection  and  purchase  of  school  textbooks  was  amended (https://www.legis.md/cautare/getResults?doc_id=142363&lang=ro). Thus, one of the criteria for evaluating the quality of the manual is "Non-discriminating character". It stipulates that the draft school  textbook  respects  the  principles of equity, diversity,  inclusion  and  nondiscrimination regardless of race, colour, nationality, ethnic origin, social, national and social status, language, religion or beliefs, sex, gender identity and sexual orientation, age , marital status, disability, health and HIV status, political or any other opinions, wealth, birth, or any other  criteria;  does  not  contain  information  that  harms  national  identity  and  values,  racist, xenophobic elements or promoting national-extremist ideology; the informational content/activities/learning tasks contribute to the formation of opinion, the promotion of human rights and the development of general human values; the information transmitted through text, images, maps, graphs, tables, diagrams, symbols respects the gender balance.
+In 2022, the Regulation on the selection and purchase of school textbooks was amended (https://www.legis.md/cautare/getResults?doc_id=142363&lang=ro). Thus, one of the criteria for evaluating the quality of the manual is "Non-discriminating character". It stipulates that the draft school textbook respects the principles of equity, diversity, inclusion and non-discrimination regardless of race, colour, nationality, ethnic origin, social, national and social status, language, religion or beliefs, sex, gender identity and sexual orientation, age , marital status, disability, health and HIV status, political or any other opinions, wealth, birth, or any
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+other criteria; does not contain information that harms national identity and values, racist, xenophobic elements or promoting national-extremist ideology; the informational content/activities/learning tasks contribute to the formation of opinion, the promotion of human rights and the development of general human values; the information transmitted through text, images, maps, graphs, tables, diagrams, symbols respects the gender balance.
 
 - What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
@@ -540,15 +572,13 @@ For reference: Article/Paragraph 5(1)(c) of the  Convention/Recommendation provi
 
 - o Curricula are rid of all stereotypes[16] and bias
 
-o
+- o Other:
 
-Other:
+- The Implementation Program for the years 2023-2025 aimed at strengthening inter-ethnic relations in the Republic of Moldova, aligning with the overarching Strategy for the years 2017-2027
 
-- The  Implementation  Program  for  the  years  2023-2025  aimed  at  strengthening  inter-ethnic relations in the Republic of Moldova, aligning with the overarching Strategy for the years 20172027
+- The Program to support the Roma population in the Republic of Moldova for the years 2022-2025, which prioritizes access to education for Roma children.
 
-- The Program to support the Roma population in the Republic of Moldova for the years 20222025, which prioritizes access to education for Roma children.
-
-- The  National  Program  for  promoting  the  learning  of  the  Romanian  language  by  national minorities, encompassing the adult population, spanning from 2023 to 2025.
+- The National Program for promoting the learning of the Romanian language by national minorities, encompassing the adult population, spanning from 2023 to 2025.
 
 All these policy documents target equal access, equity, and quality education for all children and young  people,  with  particular  attention  to  those  from  vulnerable  groups,  children  with  Special Educational Needs, migrants, and Ukrainian refugees.
 
@@ -580,7 +610,7 @@ As measures undertaken by the Ministry of Education and Research (MER) to ensure
 
 - organizing informational and awareness-raising campaigns for parents on the necessity of children's enrolment in the education system, the importance of compulsory primary and secondary education, and the need to pursue studies;
 
-- organizing special training on intercultural education for teachers and managers to create an  inclusive  and  effective  educational  system  based  on  the  principles  of  equity,  nondiscrimination, and respect for diversity;
+- organizing special training on intercultural education for teachers and managers to create an inclusive and effective educational system based on the principles of equity, non-discrimination, and respect for diversity;
 
 - provision of free travel for children from localities mainly inhabited by Roma to the nearest educational institution, if it is located not less than 3 kilometers away;
 
@@ -804,33 +834,33 @@ There was also training on this subject for teachers from all 24 higher educatio
 
 - o Positive or affirmative action measures are provided
 
--Government Decision no. 198/1993 regarding the protection of socially vulnerable children and families https://www.legis.md/cautare/getResults?doc_id=87107&lang=ro  provides that:
-
--the local self-administration bodies, ministries and state departments, which have secondary schools and high schools under their authority, are granted the right to fully or partially exempt the students of the above-mentioned institutions, from families with many children and socially vulnerable, from paying for food, the expenses to be borne from the account of own budgetary and extra-budgetary means (pt. 6)
-
--District  executive  committees  and  village  town  halls·  to  ensure,  free  of  charge,  from  the budget, the supply of special food products for children up to one year old and children up to 2 years old· from families with many children and socially vulnerable families, domiciled in rural localities (pt.8)
-
--The  Ministry  of  Trade  and  Material  Resources,  the  Republican  Union  of  Consumer Associations of Moldova,  the State Association of Fuel Production and  local selfadministration bodies to contribute to improving the provision of family-type children's homes with food, machinery, inventory items, construction materials and fuel in accordance with the rules  provided  for  the  maintenance  of  orphaned  children  and  children  without  parental guardianship, distributed in boarding-type institutions (pt. 12)
-
-At  the  same  time,  Government  Decision  no.  234/2005  regarding  the  feeding  of  students https://www.legis.md/cautare/getResults?doc_id=97277&lang=ro recommends  that local public authorities extend the practice of financial insurance of free feeding to students of grades V-XII who come from socially disadvantaged families vulnerable, students with special educational needs and
-
 - o Teachers are trained to combat stigmatization [26]
 
 - o Curricula are rid of all stereotypes [27] and bias
 
 - o Other:
 
+- Government Decision no. 198/1993 regarding the protection of socially vulnerable children and families https://www.legis.md/cautare/getResults?doc_id=87107&lang=ro provides that:
+
+- the local self-administration bodies, ministries and state departments, which have secondary schools and high schools under their authority, are granted the right to fully or partially exempt the students of the above-mentioned institutions, from families with many children and socially vulnerable, from paying for food, the expenses to be borne from the account of own budgetary and extra-budgetary means (pt. 6)
+
+- District executive committees and village town halls· to ensure, free of charge, from the budget, the supply of special food products for children up to one year old and children up to 2 years old· from families with many children and socially vulnerable families, domiciled in rural localities (pt.8)
+
+- The Ministry of Trade and Material Resources, the Republican Union of Consumer Associations of Moldova, the State Association of Fuel Production and local self-administration bodies to contribute to improving the provision of family-type children's homes with food, machinery, inventory items, construction materials and fuel in accordance with the rules provided for the maintenance of orphaned children and children without parental guardianship, distributed in boarding-type institutions (pt. 12)
+
+At the same time, Government Decision no. 234/2005 regarding the feeding of students https://www.legis.md/cautare/getResults?doc_id=97277&lang=ro recommends that local public authorities extend the practice of financial insurance of free feeding to students of grades V-XII who come from socially disadvantaged families vulnerable, students with special educational needs and
+
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
-
-## Progress made with respect to implementing the right to education across all levels and forms of education
 
 students transported to/from educational institutions in rural localities, over distances exceeding 2 km.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
--  What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
+- What challenges were encountered in realizing the right to education of students from poor households? If needed, brief quantitative information may be added.
+
+## 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 ### 2.1 Early childhood care and education
 
@@ -942,17 +972,21 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
 - Please provide the age of enrolment and duration of primary education:
 
+From 7 years to 11 years. Duration 4 years
+
 - Is primary education compulsory and free of charge?
 
 - o Primary education is compulsory
 
 - o Primary education is not compulsory.
 
-- o Primary education is free of charge .
+- o Primary education is free of charge.
 
 - o Primary education is not free.
 
-- Please list the relevant laws and policies. Where applicable, provide information on the direct  costs  (e.g.,  enrolment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
+- Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
+
+No fees
 
 - What challenges were encountered in realizing primary education?
 
@@ -970,7 +1004,7 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
 - Numeracy
 
-- Social and  emotional learning
+- Social and emotional learning
 
 - Others
 
@@ -979,10 +1013,6 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 - o Low number of professionally trained teachers
 
 - o Other:
-
-From  7 years to 11 years. Duration 4 years
-
-No fees
 
 No obstacles were encountered for enrollment in primary classes. Education is compulsory according to the Education Code no. 152/2014, art. 13
 
@@ -1042,12 +1072,12 @@ Order  no.  635  of  03.05.2021,  regarding  the  approval  of  the  Instruction
 
 Order no. 970 of 21.07.2021, regarding the organization of secondary and high school education for prisoners in penitentiary institutions
 
-Government Decision No. 876 dated22-12-2015 regarding insurance with manuals of students The National Bureau of Statistics informs at the beginning of 2023/24 study year.
+Government Decision No. 876 dated22-12-2015 regarding insurance with manuals of students
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
+The National Bureau of Statistics informs at the beginning of 2023/24 study year.
 - were active 1 761 gymnasiums, 344 lyceums, 7 schools for children with mental or physical handicaps and 2 evening schools.
 
 - the number of pupils in general secondary education amounted to 334.4 thousand persons, of which 322233 students;
@@ -1128,11 +1158,13 @@ Trafficking  of  children  for  both  labor  and  sexual  exploitation,  coopera
 
 - Specialized Prosecution Office for Organized Crime and Special Cases and Anti-Trafficking Bureau within the Prosecutor General's Office (PGO) monitors and analyzes human trafficking cases in the Anti-Trafficking  Bureau  within  PGO. It  also  includes  a  unit to  investigate  and prosecute cases.
 
-Even though the lack of unannounced inspections in sectors in which child labour is known to occur exists, labour law enforcement agencies in Moldova took important actions to combat child labour. In 2019 authorities in Moldova found 109 violations, conducted 34 investigations, initiated 30 prosecutions, and imposed 16 convictions and 7 penalties for violations related to the worst forms of child labour. In 2020, authorities identified 23 child victims of trafficking, 20 of  whom were trafficked for  sexual  exploitation, 2  for  labour  exploitation,  and  1  for  forced begging. Separately, nine minors ages 16 to 17 were used by criminal groups to traffic drugs. The government funds and participates in programs that include the goal of eliminating or preventing child labour. One of them is the Decent Work Country Program that is renewed every four year. The current program for 2021-2024 and the previous program for 2016-2020 mandates that the programs must gather statistics on the prevalence of child labour, build the capacity  of  the  labour  inspectorate,  and  combat  labour  exploitation  in  construction  and agriculture sectors. In 2020, the government approved legislative changes proposed as a part of this program that returned OSH inspections to the State Labour Inspectorate.
+Even though the lack of unannounced inspections in sectors in which child labour is known to occur exists, labour law enforcement agencies in Moldova took important actions to combat child labour. In 2019 authorities in Moldova found 109 violations, conducted 34 investigations, initiated 30 prosecutions, and imposed 16 convictions and 7 penalties for violations related to the worst forms of child labour. In 2020, authorities identified 23 child victims of trafficking, 20 of  whom were trafficked for  sexual  exploitation, 2  for  labour  exploitation,  and  1  for  forced begging. Separately, nine minors ages 16 to 17 were used by criminal groups to traffic drugs. The government funds and participates in programs that include the goal of eliminating or preventing child labour. One of them is the Decent Work Country Program that is renewed every four year. The current program for 2021-2024 and the previous program for 2016-2020 mandates that the programs must gather statistics on the prevalence of child labour, build the
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+capacity of the labour inspectorate, and combat labour exploitation in construction and agriculture sectors. In 2020, the government approved legislative changes proposed as a part of this program that returned OSH inspections to the State Labour Inspectorate.
 
 - What challenges were encountered in realizing secondary education?
 
@@ -1282,7 +1314,7 @@ For  reference:  Article/Paragraph  4(c)  of  the  Convention/Recommendation  pr
 
 In accordance with the provisions of the Education Code (Title VII, Chapter I, Art. 123,124), lifelong learning is carried out in contexts of formal, non-formal and informal education.
 
-- 1.The lifelong learning in the formal education context may be carried out in the following institutions or organizations:
+1. 1.The lifelong learning in the formal education context may be carried out in the following institutions or organizations:
 
 - General education, technical vocational and higher education institutions;
 
@@ -1294,7 +1326,7 @@ In accordance with the provisions of the Education Code (Title VII, Chapter I, A
 
 - Enterprises  or  organizations  providing  provisionally  authorized  or  accredited  training programs to their own employees.
 
-- The  lifelong  learning  in  the  non-formal  education  context  is  carried  out  in  the  following institutions or organizations:
+2. The  lifelong  learning  in  the  non-formal  education  context  is  carried  out  in  the  following institutions or organizations:
 
 - Institutions and organizations provided in paragraph (1);
 
@@ -1312,7 +1344,7 @@ In accordance with the provisions of the Education Code (Title VII, Chapter I, A
 
 - Other organizations.
 
-- The  lifelong  learning  in  the  informal  education  context  is  carried  out  through  activities organized  in  the  family,  at  the  workplace,  in  the  community,  within  social  networks, volunteering  activities,  sport,  cultural  or  other  activities  of  the  same  kind,  which  leads  to building of competences and skills.
+3. The  lifelong  learning  in  the  informal  education  context  is  carried  out  through  activities organized  in  the  family,  at  the  workplace,  in  the  community,  within  social  networks, volunteering  activities,  sport,  cultural  or  other  activities  of  the  same  kind,  which  leads  to building of competences and skills.
 
 The certification of knowledge and skills acquired in non-formal and informal education contexts is realized by competent structures in this respect, based on a regulation approved by the Ministry of Education and Research.
 
@@ -1334,7 +1366,7 @@ The continuous professional training of adults, in the context of lifelong learn
 
 In lifelong learning, 840 adults continuing education programs are provisionally authorized/accredited and  provided  by  13  higher  education  institutions,  4  technical  vocational  education  institutions,  4 continuing education institutions and NGOs, 78 economic agents with the right to provide continuing vocational training services for adults.
 
-All  institutions  which  provide  continuing  vocational  training  services  are  required  to  follow  the provisional authorization/accreditation procedure in order to provide continuing vocational training courses for adults. The decision on the authorization of provisional operation, accreditation, nonaccreditation or withdrawal of the right to organise a continuing professional training program shall be adopted by the Ministry of Education and Research based on the results of the evaluation carried out  by  the  National  Agency  for  Quality  Assurance  in  Education  and  Research.  Therefore,  public control  is  carried  out  through  institutionalized  mechanisms  by  the  Ministry  of  Education  and Research, the National Agency for Quality Assurance in Education and Research (NAQAER).
+All  institutions  which  provide  continuing  vocational  training  services  are  required  to  follow  the provisional authorization/accreditation procedure in order to provide continuing vocational training courses for adults. The decision on the authorization of provisional operation, accreditation, non-accreditation or withdrawal of the right to organise a continuing professional training program shall be adopted by the Ministry of Education and Research based on the results of the evaluation carried out  by  the  National  Agency  for  Quality  Assurance  in  Education  and  Research.  Therefore,  public control  is  carried  out  through  institutionalized  mechanisms  by  the  Ministry  of  Education  and Research, the National Agency for Quality Assurance in Education and Research (NAQAER).
 
 - Please elaborate further on the measures taken:
 
@@ -1364,7 +1396,7 @@ To  ensure  the  employment  of  adults,  the  Ministry  of  Education  and  Res
 
 ## 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 ### 3.1 General measures
 
@@ -1400,23 +1432,23 @@ Legislative framework governing Quality Assurance:
 
 The management of quality in vocational, higher education and CPD  is ensured:
 
-- at  the  national  level -by  the  Ministry  of  Education  and  the  National  Agency  for  Quality Assurance in Education and Research;
+a) at  the  national  level -by  the  Ministry  of  Education  and  the  National  Agency  for  Quality Assurance in Education and Research;
 
-- at the institutional level -by internal structures for quality assurance.
+b) at the institutional level -by internal structures for quality assurance.
 
 A fully operational quality assurance system shall imply two successive stages:
 
-- the provisional operation authorization, which is the act for establishing the institution and grants  the  right  to  carry  out  the  educational  process  and  to  organize  the  admission  to education;
+a) the provisional operation authorization, which is the act for establishing the institution and grants  the  right  to  carry  out  the  educational  process  and  to  organize  the  admission  to education;
 
-- the accreditation, which besides the rights set forth in item a) of this paragraph, shall grant the right to organize the graduation exam, as well as the right to issue diplomas, certificates, and other study documents, recognized by the Ministry of Education
+b) the accreditation, which besides the rights set forth in item a) of this paragraph, shall grant the right to organize the graduation exam, as well as the right to issue diplomas, certificates, and other study documents, recognized by the Ministry of Education
 
 Professional competence standards of general education teachers (2018)
 
-https://mecc.gov.md/sites/default/files/standarde_de_competente_profesionale_ale_cadrelor_didact ice_din_invatamantul_general_2018.pdf
+https://mecc.gov.md/sites/default/files/standarde_de_competente_profesionale_ale_cadrelor_didactice_din_invatamantul_general_2018.pdf
 
 Standards of professional skills of general education managers (2018)
 
-https://mecc.gov.md/sites/default/files/standarde_de_competente_profesionale_ale_cadrelor_de_co nducere_din_invatamantul_general_2018.pdf
+https://mecc.gov.md/sites/default/files/standarde_de_competente_profesionale_ale_cadrelor_de_conducere_din_invatamantul_general_2018.pdf
 
 Quality standards for primary and general secondary education institutions from the perspective of child-friendly schools (2013)
 
@@ -1428,7 +1460,7 @@ https://mec.gov.md/sites/default/files/standarde_dotarecabinetescolaremodiford.4
 
 Evaluation methodology of general education institutions
 
-https://mecc.gov.md/sites/default/files/anexa_1_ord_581_metodologie_evaluare_institutii_invatama nt.pdf
+https://mecc.gov.md/sites/default/files/anexa_1_ord_581_metodologie_evaluare_institutii_invatamant.pdf
 
 Methodology for the evaluation of general education management staff
 
@@ -1518,13 +1550,13 @@ For  reference:  Article/Paragraph  4(d)  of  the  Convention/Recommendation  pr
 
 Article  132  of  the  Education  Code  on  the  minimum  qualification  requirements  for  teaching  and scientific-didactic positions
 
-- in the early education -holding training qualification in the area of at least ISCED level 4 -non-tertiary post-secondary technical and vocational education and training;
+a) in the early education -holding training qualification in the area of at least ISCED level 4 -non-tertiary post-secondary technical and vocational education and training;
 
-- in the primary education -holding a training qualification of at least ISCED level 5 -bachelor's degree
+b) in the primary education -holding a training qualification of at least ISCED level 5 -bachelor's degree
 
-- in gymnasium education - holding a training qualification of at least ISCED level 6 -bachelor's degree
+c) in gymnasium education - holding a training qualification of at least ISCED level 6 -bachelor's degree
 
-- in the lyceum education -holding a training qualification of at least ISCED level 7 -master's degree
+d) in the lyceum education -holding a training qualification of at least ISCED level 7 -master's degree
 
 e)
 
@@ -1532,7 +1564,7 @@ The initial training of teachers, psychologists and psycho-pedagogues in General
 
 In  the  first  5  years  of  teaching  activity,  teaching  staff  from  public  general  education  institutions benefited from support for professional insertion, including the reduction to 75% of the teaching norm for a position salary, as well as assistance from the mentor teaching staff.
 
-STRATEGIC OBJECTIVE no. 3 (EDUCATION 2030 STRATEGY) The quality of the teaching staff the quality of education - the quality of human resources - the quality of the economy focused on:
+STRATEGIC OBJECTIVE no. 3 (EDUCATION 2030 STRATEGY) The quality of the teaching staff - the quality of education - the quality of human resources - the quality of the economy focused on:
 
 - Modernization  of  the  system  and  the  process  of  continuous  professional  training  of teaching/managerial staff at all levels, so that the percentage of quality human resource in the system increases by at least 5% annually.
 
@@ -1578,9 +1610,9 @@ For  reference:  Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation 
 
 - o Other:
 
-- Development partnerships  in  order  to  diversify  educational  offers  in  formal  and  non-formal education.
+I. Development partnerships  in  order  to  diversify  educational  offers  in  formal  and  non-formal education.
 
-- Additional training for teachers.
+II. Additional training for teachers.
 
 - Please elaborate on each of the measures taken:
 
@@ -1588,13 +1620,13 @@ For  reference:  Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation 
 
 [[START OF PAGE 37]]
 
-- Curriculum reform in general education to reconceptualize the compulsory school subject Education for society based on the Reference Framework of Competences for Democratic Culture (CoE)
+I. Curriculum reform in general education to reconceptualize the compulsory school subject Education for society based on the Reference Framework of Competences for Democratic Culture (CoE)
 
 Gradual  development  of  the  curriculum  package  (evaluation,  guides,  methodological materials)
 
 - CDC in educational policies, integrated transversally into other subjects
 
-- Monitoring methodology of the implementation of the school curricula
+II. Monitoring methodology of the implementation of the school curricula
 
 - Partnerships for the professional training of teachers in the application of CDC Inclusive and participatory school policies
 
@@ -1654,13 +1686,13 @@ https://www.legis.md/cautare/getResults?doc_id=143290&lang=ro#
 
 The Education Code, Article 38. Educational alternatives stipulates:
 
-- The state guarantees the right to differentiated education based on educational pluralism by admitting educational alternatives in the national education system.
+(1) The state guarantees the right to differentiated education based on educational pluralism by admitting educational alternatives in the national education system.
 
-- Educational alternatives, public and private, are established with the approval of the Ministry of Education and Research, according to the legislation in force.
+(2) Educational alternatives, public and private, are established with the approval of the Ministry of Education and Research, according to the legislation in force.
 
-- The way of organization, operation, evaluation and accreditation of educational alternatives is established by the Ministry of Education and Research.
+(3) The way of organization, operation, evaluation and accreditation of educational alternatives is established by the Ministry of Education and Research.
 
-- Educational alternatives benefit from organizational autonomy and function in accordance with state educational standards and the specifics of the alternative. No school districts are established for educational alternatives.
+(4) Educational alternatives benefit from organizational autonomy and function in accordance with state educational standards and the specifics of the alternative. No school districts are established for educational alternatives.
 
 - o Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
@@ -1706,6 +1738,10 @@ Art. 3 of the Educational Code stipulates: state educational standards - the man
 
 - o Other:
 
+- o Issues in terms of equity and inclusion
+
+- o Weak government regulatory and monitoring capacity
+
 - Please elaborate. Brief quantitative information may be added.
 
 ### 3.5 Digital education
@@ -1729,10 +1765,6 @@ https://mecc.gov.md/sites/default/files/ordin_675_din_07.05.2024_standarde_minim
 Standards of digital skills of primary, secondary and high school students https://mecc.gov.md/sites/default/files/cnc4_final_competente_digitale_elevi_22iulie2015_1.pdf
 
 - Core legislations,  policies,  strategies  or  plans  for  the  management,  privacy,  security, storage, transfer, use, and sharing of education data internally and externally to ensure
-
-- o Issues in terms of equity and inclusion
-
-- o Weak government regulatory and monitoring capacity
 
 [[END OF PAGE 39]]
 
@@ -1824,7 +1856,7 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 According  to  the  Framework  Regulation  on  the  Functioning  of  the  Board  of  Governors  of  the Educational Institution, 23 the Board of Governors acts as the governing body of the educational institution with a decision-making role in administrative matters.
 
-According to its area of competence, the Board of Directors participates in the governance process of the educational institution in the following ways: participates in the competition committee for the appointment  and  evaluation  of  the  director  and  deputy  directors  of  the  educational  institution; determines  the  development  directions  of  the  educational  institution,  approves  the  school component of the framework plan for the educational institution; engages with the community by collecting feedback on the i nstitution's services and development priorities. In the area of financial administration: organises public hearings concerning the execution of the budget for the previous year and the approval of the budget for the budget year following the school year in which the draft is  presented,  as  well  as  in  other  cases,  participates  in  the  drafting  of  the  budget,  ensuring  the transparency  of  the  process  by  organizing  public  hearings,  and  approves  the  budget  of  the educational institution and its amendments, manages financial resources from sources other than the budget, ensuring transparency and fairness in their use.
+According to its area of competence, the Board of Directors participates in the governance process of the educational institution in the following ways: participates in the competition committee for the appointment  and  evaluation  of  the  director  and  deputy  directors  of  the  educational  institution; determines  the  development  directions  of  the  educational  institution,  approves  the  school component of the framework plan for the educational institution; engages with the community by collecting feedback on the institution's services and development priorities. In the area of financial administration: organises public hearings concerning the execution of the budget for the previous year and the approval of the budget for the budget year following the school year in which the draft is  presented,  as  well  as  in  other  cases,  participates  in  the  drafting  of  the  budget,  ensuring  the transparency  of  the  process  by  organizing  public  hearings,  and  approves  the  budget  of  the educational institution and its amendments, manages financial resources from sources other than the budget, ensuring transparency and fairness in their use.
 
 Monitoring the implementation of the Methodology of financing on the basis of standard cost per pupil is carried out at the central level by the Ministry of Education and Research jointly with the Ministry of Finance, and at the local level - by the education directorates jointly with the finance directorates.
 
@@ -1912,6 +1944,10 @@ Also, educational institutions, in order to achieve the flexible component (opti
 
 - o Other:
 
+- o Absence of supportive/ inconsistent/obsolete legal and policy environment
+
+- Lack or weakness of monitoring systems -including the lack of reliable data
+
 - Please elaborate. Brief quantitative information may be added.
 
 # III. Methods used to draw the attention of the various authorities in the country to the instruments
@@ -1922,77 +1958,73 @@ For reference: UNESCO governing bodies have underlined the need for awareness ra
 
 - o Translation  of  the  Convention/Recommendation  into  the  national  and  possibly  local languages
 
-- o Absence of supportive/ inconsistent/obsolete legal and policy environment
-
-- Lack or weakness of monitoring systems -including the lack of reliable data
-
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
 - o Dissemination and advocacy of the core content of the Convention/Recommendation or the core  principles  of  the  right  to  education  including  through  appropriate  materials  and resources
 
-- o Activities undertaken or supported by the National Commission  to promote nondiscrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
+- o Activities undertaken or supported by the National Commission  to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 - o Other:
 
-- https://www.unesco.org/en/legal-affairs/convention-against-discrimination-education
+[1] https://www.unesco.org/en/legal-affairs/convention-against-discrimination-education
 
-- Judicial mechanisms play an important role in enforcing the right to education by ensuring legal accountability and therefore contributing to the practical realization of the right to education.
+[2] Judicial mechanisms play an important role in enforcing the right to education by ensuring legal accountability and therefore contributing to the practical realization of the right to education.
 
-- Which calls on states to ' eliminate gender disparities in education and ensure equal access to all  levels  of  education  and  vocational  training  for  the  vulnerable,  including  persons  with  disabilities, indigenous peoples and children in vulnerable situations'.
+[3] Which calls on states to 'eliminate gender disparities in education and ensure equal access to all  levels  of  education  and  vocational  training  for  the  vulnerable,  including  persons  with  disabilities, indigenous peoples and children in vulnerable situations'.
 
-- See: Article/Paragraph 1(1).
+[4] See: Article/Paragraph 1(1).
 
-- Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programm es'.
+[5] Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
-- Constitution, laws, decrees, regulations, circulars, etc.
+[6] Constitution, laws, decrees, regulations, circulars, etc.
 
-- Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+[7] Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-- Multiple  and  flexible  learning  pathways  are  'entry  points  and  re -entry  points  at  all  ages  and  all educational  levels,  strengthened  links  between  formal  and  non-formal  structures,  and  recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' ( Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+[8] Multiple  and  flexible  learning  pathways  are  'entry  points  and  re-entry  points  at  all  ages  and  all educational  levels,  strengthened  links  between  formal  and  non-formal  structures,  and  recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
-- In designing the curricula and teaching methods, care is given to ensure that all students are provided with  an  inclusive  and  supportive  learning  experience  that  offers  them  the  opportunity  to  succeed whatever their background.
+[9] In designing the curricula and teaching methods, care is given to ensure that all students are provided with  an  inclusive  and  supportive  learning  experience  that  offers  them  the  opportunity  to  succeed whatever their background.
 
-- Stigmatization is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
+[10] Stigmatization is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-- Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' ( UNGEI blog post, Gender-sensitive sanitation, 2018)
+[11] Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-[12[ Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
+[12] Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
-[13] Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evi dence of maturity, without deference to culture and tradition.'
+[13] Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
 
 [14]   Minorities include national or ethnic, religious and linguistic minorities. Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
-- Supra note 15.
+[15] Supra note 15.
 
-- Supra note 16.
+[16] Supra note 16.
 
-- Supra note 15.
+[17] Supra note 15.
 
-- Supra note 16.
+[18] Supra note 16.
 
-[19] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations  vulnerable  to  the  impacts  of  climate  hazards'  ( UNESCO  report:  The  impact  of  climate displacement on the right to education, 2020, p. 2).
+[19] 'Trapped populations are those who are unable to migrate to safe locations and remain trapped in locations  vulnerable  to  the  impacts  of  climate  hazards'  (UNESCO  report:  The  impact  of  climate displacement on the right to education, 2020, p. 2).
 
 [20] While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should  not  be  an  obstacle  to  access  education,  these  can  constitute  a  barrier  to  education  See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
-- Supra note 15.
+[21] Supra note 15.
 
-- Supra note 13
+[22] Supra note 13
 
-- Supra note 16.
+[23] Supra note 16.
 
-- Supra note 15.
+[24] Supra note 15.
 
-- Supra note 16.
+[25] Supra note 16.
 
-- Supra note 15.
+[26] Supra note 15.
 
-- Supra note 16.
+[27] Supra note 16.
 
 [28] Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -2006,7 +2038,7 @@ For reference: UNESCO governing bodies have underlined the need for awareness ra
 
 [31] Which recommends to 'substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship'.
 
-[32]  Which  calls  on  states  to  'ensure  that  all  learners  acquire  the  knowledge  and  skills  needed  to promote  sustainable  development,  including,  among  others,  through  education  for  sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and nonviolence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
+[32]  Which  calls  on  states  to  'ensure  that  all  learners  acquire  the  knowledge  and  skills  needed  to promote  sustainable  development,  including,  among  others,  through  education  for  sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
 [33] Private, faith-based, NGOs, community actors.
 
