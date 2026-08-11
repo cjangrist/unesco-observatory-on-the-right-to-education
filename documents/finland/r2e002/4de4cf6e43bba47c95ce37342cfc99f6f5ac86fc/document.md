@@ -38,7 +38,7 @@ Maahanmuuttajille ja vieraskielisille järjestettävän lukiokoulutukseen valmis
 
 Tässä laissa tarkoitetun koulutuksen järjestäminen edellyttää opetus- ja kulttuuriministeriön myöntämää koulutuksen järjestämislupaa. Lupa voidaan myöntää hakemuksesta kunnalle, kuntayhtymälle, rekisteröidylle yhteisölle tai säätiölle. Lupa voidaan myöntää myös ulkomailla järjestettävää koulutusta varten.
 
-Tässä laissa tarkoitettua koulutusta voidaan järjestää myös valtion oppilaitoksessa. Opetus- ja kulttuuriministeriö päättää koulutuksen järjestämisestä ja toiminnan lopettamisesta valtion oppilaitoksessa noudattaen, mitä 4-7 §:ssä säädetään.
+Tässä laissa tarkoitettua koulutusta voidaan järjestää myös valtion oppilaitoksessa. Opetus- ja kulttuuriministeriö päättää koulutuksen järjestämisestä ja toiminnan lopettamisesta valtion oppilaitoksessa noudattaen, mitä 4–7 §:ssä säädetään.
 
 #### 4 § Koulutuksen järjestämisluvan myöntäminen
 
@@ -68,7 +68,9 @@ Opetus- ja kulttuuriministeriö päättää koulutuksen järjestäjän hakemukse
 
 Opetus- ja kulttuuriministeriö voi ilman 1 momentissa tarkoitettua hakemusta muuttaa tai peruuttaa luvan, jos koulutusta ei enää järjestetä, koulutus ei enää täytä 4 §:n 1 momentissa luvan myöntämiselle säädettyjä edellytyksiä tai koulutus järjestetään olennaisesti vastoin tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä.
 
-Opetus- ja kulttuuriministeriön tulee varata koulutuksen järjestäjälle mahdollisuus 2 momentissa tarkoitettujen puutteiden korjaamiseen kohtuullisessa ajassa ennen luvan muuttamista tai peruuttamista. Opetus- ja kulttuuriministeriön on luvan peruuttamista koskevan päätöksenteon yhteydessä huolehdittava siitä, että lukiokoulutuksen riittävä saatavuus ei luvan peruuttamisen vuoksi vaarannu.
+Opetus- ja kulttuuriministeriön tulee varata koulutuksen järjestäjälle mahdollisuus 2 momentissa tarkoitettujen puutteiden korjaamiseen kohtuullisessa ajassa ennen luvan muuttamista tai peruuttamista.
+
+Opetus- ja kulttuuriministeriön on luvan peruuttamista koskevan päätöksenteon yhteydessä huolehdittava siitä, että lukiokoulutuksen riittävä saatavuus ei luvan peruuttamisen vuoksi vaarannu.
 
 #### 6 § Erityinen koulutustehtävä
 
@@ -106,11 +108,11 @@ Koulutuksen järjestäjä voi täydentää järjestämäänsä koulutusta hankki
 
 #### 9 § Tilauskoulutus
 
-Koulutuksen järjestäjä, jonka 3 §:ssä tarkoitettuun lupaan sisältyy lupa järjestää ylioppilastutkinnon järjestämisestä annetun lain 17 §:ssä tarkoitettua International Baccalaureate -tutkintoon johtavaa koulutusta, saa järjestää Suomeen tuleville opiskelijoille kyseiseen tutkintoon johtavaa opetusta, jos koulutuksen tilaa ja rahoittaa toinen valtio, kansainvälinen järjestö taikka suomalainen tai ulkomainen julkisyhteisö, säätiö tai yksityinen yhteisö ( tilauskoulutus ).
+Koulutuksen järjestäjä, jonka 3 §:ssä tarkoitettuun lupaan sisältyy lupa järjestää ylioppilastutkinnon järjestämisestä annetun lain 17 §:ssä tarkoitettua International Baccalaureate -tutkintoon johtavaa koulutusta, saa järjestää Suomeen tuleville opiskelijoille kyseiseen tutkintoon johtavaa opetusta, jos koulutuksen tilaa ja rahoittaa toinen valtio, kansainvälinen järjestö taikka suomalainen tai ulkomainen julkisyhteisö, säätiö tai yksityinen yhteisö (tilauskoulutus).
 
-Tilauskoulutusta ei saa järjestää Euroopan talousalueeseen kuuluvien valtioiden kansalaisille eikä niille, jotka
+Tilauskoulutusta ei saa järjestää Euroopan talousalueeseen kuuluvien valtioiden kansalaisille eikä niille, jotka Euroopan unionin ja sen jäsenvaltioiden muun sopimuspuolen kanssa tekemän sopimuksen mukaan rinnastetaan Euroopan unionin jäsenvaltion kansalaisiin, eikä heidän perheenjäsenilleen. Tilauskoulutusta ei myöskään saa järjestää niille, joilla on ulkomaalaislaissa (301/2004) tarkoitettu Euroopan unionin sininen kortti, jatkuva tai pysyvä oleskelulupa tai pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa, eikä heidän perheenjäsenilleen. Perheenjäsenen määrittelyyn sovelletaan ulkomaalaislakia.
 
-Euroopan unionin ja sen jäsenvaltioiden muun sopimuspuolen kanssa tekemän sopimuksen mukaan rinnastetaan Euroopan unionin jäsenvaltion kansalaisiin, eikä heidän perheenjäsenilleen. Tilauskoulutusta ei myöskään saa järjestää niille, joilla on ulkomaalaislaissa (301/2004) tarkoitettu Euroopan unionin sininen kortti, jatkuva tai pysyvä oleskelulupa tai pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa, eikä heidän perheenjäsenilleen. Perheenjäsenen määrittelyyn sovelletaan ulkomaalaislakia. Tilauskoulutukseen osallistuvaan ei sovelleta tämän lain 1 §:n 2 momenttia, 10, 15, 16 ja 19-22 §:ää, 28 §:n 3 momenttia, 32 §:n 1 momenttia eikä 34 §:n 2 momenttia.
+Tilauskoulutukseen osallistuvaan ei sovelleta tämän lain 1 §:n 2 momenttia, 10, 15, 16 ja 19–22 §:ää, 28 §:n 3 momenttia, 32 §:n 1 momenttia eikä 34 §:n 2 momenttia.
 
 Tilauskoulutuksen järjestäminen ei saa heikentää koulutuksen järjestäjän tämän lain perusteella antamaa muuta lukiokoulutusta.
 
@@ -121,7 +123,7 @@ Koulutuksen järjestäjä voi valita opiskelijaksi tilauskoulutukseen henkilön,
 ### 3 luku Opetus
 #### 10 § Oppimäärien tavoitteelliset suorittamisajat, mitoitus ja laajuus
 
-Lukiokoulutus muodostaa oppimäärän, jonka tavoitteellinen suorittamisaika on kolme vuotta. Lukiokoulutusta järjestetään erikseen nuorille ja aikuisille tarkoitettuina oppimäärinä. Nuorille tarkoitettuun oppimäärään kuuluvat opinnot mitoitetaan päätoimista opiskelua varten ja aikuisille tarkoitettuun oppimäärään kuuluvat opinnot sivutoimista opiskelua varten. Lukiokoulutukseen valmistava koulutus muodostaa oppimäärän, jonka tavoitteellinen suorittamisaika on yksi vuosi.
+Lukiokoulutus muodostaa oppimäärän, jonka tavoitteellinen suorittamisaika on kolme vuotta. Lukiokoulutusta järjestetään erikseen nuorille ja aikuisille tarkoitettuina oppimäärinä. Nuorille tarkoitettuun oppimäärään kuuluvat opinnot mitoitetaan päätoimista opiskelua varten ja aikuisille tarkoitettuun
 
 https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 
@@ -135,25 +137,27 @@ https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 
 Lukiolaki 714/2018 - Ajantasainen lainsäädäntö - FINLEX ®
 
+oppimäärään kuuluvat opinnot sivutoimista opiskelua varten. Lukiokoulutukseen valmistava koulutus muodostaa oppimäärän, jonka tavoitteellinen suorittamisaika on yksi vuosi.
+
 Oppimäärien ja niihin kuuluvien opintojen mitoituksen peruste on opintopiste. Mitoituksesta säädetään tarkemmin valtioneuvoston asetuksella.
 
 Nuorille tarkoitetun lukiokoulutuksen oppimäärän laajuus on 150 opintopistettä ja aikuisille tarkoitetun lukiokoulutuksen oppimäärän laajuus 88 opintopistettä. Lukiokoulutukseen valmistavan koulutuksen oppimäärän laajuus on 50 opintopistettä.
 
 #### 11 § Oppimäärän sisältö
 
-Lukiokoulutuksen oppimäärä sisältää äidinkielen ja kirjallisuuden, toisen kotimaisen kielen ja vieraiden kielten opintoja, matemaattis-luonnontieteellisiä opintoja, humanistis-yhteiskunnallisia ja uskonnon tai elämänkatsomustiedon opintoja ja taito- ja taideaineiden opintoja ( oppiaineryhmät ) sekä opinto-ohjausta . Taito- ja taideaineiden opinnot ovat kuitenkin vapaaehtoisia niille opiskelijoille, jotka suorittavat lukiokoulutuksen aikuisille tarkoitetun oppimäärän mukaan.
+Lukiokoulutuksen oppimäärä sisältää äidinkielen ja kirjallisuuden, toisen kotimaisen kielen ja vieraiden kielten opintoja, matemaattis-luonnontieteellisiä opintoja, humanistis-yhteiskunnallisia ja uskonnon tai elämänkatsomustiedon opintoja ja taito- ja taideaineiden opintoja (oppiaineryhmät) sekä opinto-ohjausta. Taito- ja taideaineiden opinnot ovat kuitenkin vapaaehtoisia niille opiskelijoille, jotka suorittavat lukiokoulutuksen aikuisille tarkoitetun oppimäärän mukaan.
 
-Lukiokoulutuksen oppimäärä voi sisältää laaja-alaista osaamista kehittäviä temaattisia opintoja. Lukiokoulutuksen oppimäärä voi sisältää myös eri oppiaineryhmissä tai oppiaineissa suoritettavia erityistä osaamista ja harrastuneisuutta osoittavan näytön sisältäviä opintokokonaisuuksia ( lukiodiplomi ).
+Lukiokoulutuksen oppimäärä voi sisältää laaja-alaista osaamista kehittäviä temaattisia opintoja. Lukiokoulutuksen oppimäärä voi sisältää myös eri oppiaineryhmissä tai oppiaineissa suoritettavia erityistä osaamista ja harrastuneisuutta osoittavan näytön sisältäviä opintokokonaisuuksia (lukiodiplomi).
 
-Lukiokoulutukseen valmistavan koulutuksen oppimäärä sisältää suomen tai ruotsin kielen ja tarvittaessa muiden kielten opintoja, muita lukiokoulutuksessa tarvittavia valmiuksia tuottavia opintoja sekä opintoohjausta. Oppimäärä voi sisältää myös lukiokoulutuksen oppimäärään sisältyviä opintoja.
+Lukiokoulutukseen valmistavan koulutuksen oppimäärä sisältää suomen tai ruotsin kielen ja tarvittaessa muiden kielten opintoja, muita lukiokoulutuksessa tarvittavia valmiuksia tuottavia opintoja sekä opinto-ohjausta. Oppimäärä voi sisältää myös lukiokoulutuksen oppimäärään sisältyviä opintoja.
 
-Valtioneuvoston asetuksella säädetään tässä laissa tarkoitetun koulutuksen yleisistä valtakunnallisista tavoitteista, oppiaineryhmiin kuuluvista oppiaineista, opintojen rakenteesta sekä 1-3 momentissa tarkoitettujen opintojen laajuuksista.
+Valtioneuvoston asetuksella säädetään tässä laissa tarkoitetun koulutuksen yleisistä valtakunnallisista tavoitteista, oppiaineryhmiin kuuluvista oppiaineista, opintojen rakenteesta sekä 1–3 momentissa tarkoitettujen opintojen laajuuksista.
 
 Lukiokoulutuksen ja lukiokoulutukseen valmistavan koulutuksen oppimäärä voi sisältää myös muita kuin valtioneuvoston asetuksella säädettyjä lukion tehtävään soveltuvia opintoja sen mukaan kuin koulutuksen järjestäjän opetussuunnitelmassa päätetään. Opinnot ovat opiskelijalle valinnaisia.
 
 #### 12 § Opetussuunnitelma
 
-Opetushallitus määrää 11 §:n 4 momentissa tarkoitetussa valtioneuvoston asetuksessa säädettyjen opintojen tavoitteista ja keskeisistä sisällöistä 11 §:n 2 momentissa tarkoitettuja temaattisia opintoja lukuun ottamatta ( opetussuunnitelman perusteet ). Opetussuunnitelman perusteet määrätään erikseen nuorille ja aikuisille tarkoitettuja lukiokoulutuksen oppimääriä ja lukiokoulutukseen valmistavan koulutuksen oppimäärää varten.
+Opetushallitus määrää 11 §:n 4 momentissa tarkoitetussa valtioneuvoston asetuksessa säädettyjen opintojen tavoitteista ja keskeisistä sisällöistä 11 §:n 2 momentissa tarkoitettuja temaattisia opintoja lukuun ottamatta (opetussuunnitelman perusteet). Opetussuunnitelman perusteet määrätään erikseen nuorille ja aikuisille tarkoitettuja lukiokoulutuksen oppimääriä ja lukiokoulutukseen valmistavan koulutuksen oppimäärää varten.
 
 Koulutuksen järjestäjän tulee laatia opetussuunnitelma, jossa päätetään opetuksen, opintojen ohjauksen ja oppimisen tuen toteuttamisesta, opiskelijoille tarjottavista opintojaksoista ja niihin osallistumisen edellytyksenä olevista opintosuorituksista sekä opetuksen tarkemmista tavoitteista ja sisällöistä. Opetussuunnitelma hyväksytään erikseen nuorille ja aikuisille tarkoitettuja lukiokoulutuksen oppimääriä ja lukiokoulutukseen valmistavan koulutuksen oppimäärää varten sekä erikseen suomenkielistä, ruotsinkielistä, saamenkielistä ja tarvittaessa muulla kielellä annettavaa opetusta varten.
 
@@ -205,7 +209,7 @@ Muuhun kuin 2 momentissa mainittuihin uskonnollisiin yhdyskuntiin kuuluvalle vä
 
 Jos opiskelija kuuluu useampaan kuin yhteen uskonnolliseen yhdyskuntaan, opiskelija päättää, minkä uskonnon opetukseen hän osallistuu.
 
-Uskonnollisiin yhdyskuntiin kuulumattomalle opiskelijalle, joka ei osallistu 1 momentissa tarkoitettuun uskonnonopetukseen, opetetaan elämänkatsomustietoa. Uskonnolliseen yhdyskuntaan kuuluvalle opiskelijalle, jolle ei järjestetä hänen oman uskontonsa opetusta, opetetaan hänen pyynnöstään elämänkatsomustietoa. Koulutuksen järjestäjän tulee järjestää elämänkatsomustiedon opetusta, jos opetukseen oikeutettuja opiskelijoita on vähintään kolme.
+Uskonnollisiin yhdyskuntiin kuulumattomalle opiskelijalle, joka ei osallistu 1 momentissa tarkoitettuun uskonnonopetukseen, opetetaan elämänkatsomustietoa. Uskonnolliseen yhdyskuntaan kuuluvalle
 
 https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 
@@ -218,6 +222,8 @@ https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 2/28/2020
 
 Lukiolaki 714/2018 - Ajantasainen lainsäädäntö - FINLEX ®
+
+opiskelijalle, jolle ei järjestetä hänen oman uskontonsa opetusta, opetetaan hänen pyynnöstään elämänkatsomustietoa. Koulutuksen järjestäjän tulee järjestää elämänkatsomustiedon opetusta, jos opetukseen oikeutettuja opiskelijoita on vähintään kolme.
 
 Uskonnolliseen yhdyskuntaan kuulumaton opiskelija voi osallistua myös sellaiseen koulutuksen järjestäjän järjestämään uskonnon opetukseen, joka opiskelijan saaman kasvatuksen ja kulttuuritaustan perusteella ilmeisesti vastaa hänen uskonnollista katsomustaan.
 
@@ -252,9 +258,9 @@ Opiskelijaksi ottamisesta oppilaitokseen päättää koulutuksen järjestäjä.
 
 Opiskelija otetaan suorittamaan:
 
-- nuorille tai aikuisille tarkoitettua lukiokoulutuksen oppimäärää sekä ylioppilastutkintoa tai 6 §:ssä tarkoitettua erityisen koulutustehtävän mukaista ylioppilastutkintoa tasoltaan vastaavaa kansainvälistä tutkintoa;
+1) nuorille tai aikuisille tarkoitettua lukiokoulutuksen oppimäärää sekä ylioppilastutkintoa tai 6 §:ssä tarkoitettua erityisen koulutustehtävän mukaista ylioppilastutkintoa tasoltaan vastaavaa kansainvälistä tutkintoa;
 
-- yhden tai useamman lukiokoulutuksen oppimäärään kuuluvan oppiaineen opintoja ( aineopiskelija ); tai
+2) yhden tai useamman lukiokoulutuksen oppimäärään kuuluvan oppiaineen opintoja (aineopiskelija); tai
 
 https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 
@@ -268,7 +274,7 @@ https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 
 Lukiolaki 714/2018 - Ajantasainen lainsäädäntö - FINLEX ®
 
-- lukiokoulutukseen valmistavan koulutuksen oppimäärää.
+3) lukiokoulutukseen valmistavan koulutuksen oppimäärää.
 
 Poiketen siitä, mitä hallintolain (434/2003) 7 luvussa säädetään, valitsematta jättämisestä voidaan ilmoittaa hakijalle kirjallisesti, jos opiskelijaksi ottamisessa käytetään 19 §:n 2 momentissa tarkoitettuja valtakunnallisia hakumenettelyitä. Koulutuksen järjestäjän tulee kuitenkin antaa opiskelijaksi ottamista koskeva hallintopäätös, jos hakija sitä kirjallisesti tai suullisesti pyytää 30 päivän kuluessa siitä, kun hän on saanut tässä momentissa tarkoitetun ilmoituksen opiskelijavalinnan tuloksesta.
 
@@ -278,13 +284,13 @@ Tämän lain mukaiseen koulutukseen voidaan ottaa opiskelijaksi henkilö, joka o
 
 Lukiokoulutukseen valmistavaan koulutukseen opiskelijaksi ottamisen edellytyksenä on sen lisäksi, mitä 1 momentissa säädetään, että:
 
-- hakija on kotoutumisen edistämisestä annetussa laissa (1386/2010) tarkoitettu maahanmuuttaja tai hänen äidinkielensä on väestötietojärjestelmästä ja Digi- ja väestötietoviraston varmennepalveluista annetussa laissa (661/2009) tarkoitetussa väestötietojärjestelmässä muu kuin suomi, ruotsi tai saame; (29.11.2019/1185)
+1) hakija on kotoutumisen edistämisestä annetussa laissa (1386/2010) tarkoitettu maahanmuuttaja tai hänen äidinkielensä on väestötietojärjestelmästä ja Digi- ja väestötietoviraston varmennepalveluista annetussa laissa (661/2009) tarkoitetussa väestötietojärjestelmässä muu kuin suomi, ruotsi tai saame; (29.11.2019/1185)
 
-- hakijalla ei ole riittäviä kielellisiä valmiuksia suoriutua lukio-opinnoista suomen tai ruotsin kielellä;
+2) hakijalla ei ole riittäviä kielellisiä valmiuksia suoriutua lukio-opinnoista suomen tai ruotsin kielellä;
 
-- hakijan tavoitteena on lukiokoulutuksen oppimäärän suorittaminen valmistavan koulutuksen jälkeen; ja
+3) hakijan tavoitteena on lukiokoulutuksen oppimäärän suorittaminen valmistavan koulutuksen jälkeen; ja
 
-- hakija ei ole suorittanut korkeakoulututkintoa.
+4) hakija ei ole suorittanut korkeakoulututkintoa.
 
 #### 22 § Opiskelijaksi ottamisen perusteet
 
@@ -331,7 +337,7 @@ Koulutuksen järjestäjä antaa opiskeluoikeuden päättymisestä erillisen pä�
 
 Opiskelijalla on oikeus saada opetussuunnitelman mukaista opetusta. Osa lukiokoulutuksen oppimäärään sisältyvistä opinnoista voidaan edellyttää opiskeltavaksi itsenäisesti, jos se ei vaaranna koulutukselle asetettujen tavoitteiden toteutumista ja opiskelijan edellytyksiä oppimäärän ja ylioppilastutkinnon suorittamiseen. Opiskelijalle voidaan vastaavin edellytyksin myös hakemuksesta myöntää lupa suorittaa opintoja itsenäisesti.
 
-Lukiokoulutuksen oppimäärää suorittavalla opiskelijalla on oikeus saada säännöllisesti 11 §:n 1 momentissa tarkoitetun opinto-ohjauksen lisäksi tarpeidensa mukaista henkilökohtaista ja muuta opintojen ja jatkoopintoihin hakeutumiseen liittyvää ohjausta.
+Lukiokoulutuksen oppimäärää suorittavalla opiskelijalla on oikeus saada säännöllisesti 11 §:n 1 momentissa tarkoitetun opinto-ohjauksen lisäksi tarpeidensa mukaista henkilökohtaista ja muuta opintojen ja jatko-opintoihin hakeutumiseen liittyvää ohjausta.
 
 Opiskelijalla, jonka opiskeluoikeus lukiokoulutuksen oppimäärän suorittamiseen on päättymässä tai joka on ilmoittanut eroamisestaan, on oikeus saada ohjausta muihin opintoihin hakeutumisessa.
 
@@ -381,11 +387,11 @@ Opiskelijan oikeudesta opiskelun edellyttämiin avustajapalveluihin, erityisiin 
 
 Opiskelijan opiskelu voidaan opiskelijan hakemuksesta tai suostumuksella järjestää osittain toisin kuin tässä laissa ja sen nojalla säädetään ja määrätään, jos:
 
-- opiskelijalla katsotaan joltakin osin ennestään olevan lukiokoulutuksen oppimäärää vastaavat tiedot ja taidot;
+1) opiskelijalla katsotaan joltakin osin ennestään olevan lukiokoulutuksen oppimäärää vastaavat tiedot ja taidot;
 
-- lukiokoulutuksen oppimäärän suorittaminen olisi opiskelijalle olosuhteet ja aikaisemmat opinnot huomioon ottaen joltakin osin kohtuutonta;
+2) lukiokoulutuksen oppimäärän suorittaminen olisi opiskelijalle olosuhteet ja aikaisemmat opinnot huomioon ottaen joltakin osin kohtuutonta;
 
-- se on perusteltua opiskelijan sairauteen, vammaan tai muuhun terveydentilaan liittyvistä syistä.
+3) se on perusteltua opiskelijan sairauteen, vammaan tai muuhun terveydentilaan liittyvistä syistä.
 
 #### 30 § Opiskelijan velvollisuudet
 
@@ -395,7 +401,7 @@ Opiskelijan on suoritettava tehtävänsä tunnollisesti ja käyttäydyttävä as
 
 #### 31 § Kodin ja oppilaitoksen yhteistyö
 
-Nuorille tarkoitettuun lukiokoulutuksen oppimäärään kuuluvia opintoja järjestettäessä koulutuksen järjestäjän tulee olla yhteistyössä opiskelijoiden huoltajien kanssa. Huoltajille on annettava riittävän usein tietoa opiskelijan työskentelystä ja opintojen edistymisestä. Koulutuksen järjestäjän tulee määräajoin selvittää opiskelijoiden huoltajien näkemyksiä oppilaitoksen ja koulutuksen järjestäjän toiminnasta.
+Nuorille tarkoitettuun lukiokoulutuksen oppimäärään kuuluvia opintoja järjestettäessä koulutuksen järjestäjän tulee olla yhteistyössä opiskelijoiden huoltajien kanssa. Huoltajille on annettava riittävän usein
 
 https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 
@@ -408,6 +414,8 @@ https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 2/28/2020
 
 Lukiolaki 714/2018 - Ajantasainen lainsäädäntö - FINLEX ®
+
+tietoa opiskelijan työskentelystä ja opintojen edistymisestä. Koulutuksen järjestäjän tulee määräajoin selvittää opiskelijoiden huoltajien näkemyksiä oppilaitoksen ja koulutuksen järjestäjän toiminnasta.
 
 Opetushallitus määrää kodin ja oppilaitoksen yhteistyössä noudatettavista keskeisistä periaatteista 12 §:ssä tarkoitetuissa opetussuunnitelman perusteissa.
 
@@ -465,7 +473,7 @@ Asuminen koulutuksen järjestäjän osoittamassa asuntolassa on opiskelijalle ma
 
 Lukiokoulutuksen oppimäärä tai lukiokoulutukseen valmistavan koulutuksen oppimäärä tulee suoritetuksi, kun oppimäärään kuuluvat opinnot on suoritettu siten kuin 11 §:n 4 momentissa tarkoitetussa valtioneuvoston asetuksessa säädetään ottaen lisäksi huomioon mahdollinen 6 §:ssä tarkoitettu erityinen koulutustehtävä tai 18 §:ssä tarkoitettu kokeilulupa.
 
-Henkilö, jota ei ole otettu 20 §:ssä tarkoitetuksi opiskelijaksi, voi suorittaa lukiokoulutuksen oppimäärän tai osan siitä kokeissa, joiden toimeenpanosta ja arvostelusta huolehtii tässä laissa tarkoitettu koulutuksen järjestäjä ( erityinen tutkinto ). Erityisen tutkinnon kokeisiin osallistuvan tulee osoittaa, että hänen tietonsa ja taitonsa niiden hankkimistavasta riippumatta vastaavat eri oppiaineissa aikuisille tarkoitetun lukiokoulutuksen oppimäärän mukaisia tietoja ja taitoja.
+Henkilö, jota ei ole otettu 20 §:ssä tarkoitetuksi opiskelijaksi, voi suorittaa lukiokoulutuksen oppimäärän tai osan siitä kokeissa, joiden toimeenpanosta ja arvostelusta huolehtii tässä laissa tarkoitettu koulutuksen järjestäjä (erityinen tutkinto). Erityisen tutkinnon kokeisiin osallistuvan tulee osoittaa, että hänen tietonsa ja taitonsa niiden hankkimistavasta riippumatta vastaavat eri oppiaineissa aikuisille tarkoitetun lukiokoulutuksen oppimäärän mukaisia tietoja ja taitoja.
 
 #### 37 § Opiskelijan arvioinnin perusteet
 
@@ -522,7 +530,7 @@ Mitä 3 momentissa säädetään, ei koske aikuisten koulutukseen tarkoitettuja 
 
 #### 41 § Kurinpito
 
-Opiskelijalle, joka häiritsee opetusta tai muuten rikkoo järjestystä taikka menettelee vilpillisesti, voidaan antaa kirjallinen varoitus. Jos rikkomus on vakava tai jos opiskelija jatkaa edellä tarkoitettua epäasiallista käyttäytymistä kirjallisen varoituksen saatuaan, hänet voidaan erottaa oppilaitoksesta määräajaksi, enintään yhdeksi vuodeksi, sekä erottaa asuntolasta määräajaksi tai opintojen jäljellä olevaksi ajaksi. Edellä mainitut toimenpiteet ovat kurinpitorangaistuksia.
+Opiskelijalle, joka häiritsee opetusta tai muuten rikkoo järjestystä taikka menettelee vilpillisesti, voidaan antaa kirjallinen varoitus. Jos rikkomus on vakava tai jos opiskelija jatkaa edellä tarkoitettua epäasiallista käyttäytymistä kirjallisen varoituksen saatuaan, hänet voidaan erottaa oppilaitoksesta määräajaksi, enintään
 
 https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 
@@ -535,6 +543,8 @@ https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 2/28/2020
 
 Lukiolaki 714/2018 - Ajantasainen lainsäädäntö - FINLEX ®
+
+yhdeksi vuodeksi, sekä erottaa asuntolasta määräajaksi tai opintojen jäljellä olevaksi ajaksi. Edellä mainitut toimenpiteet ovat kurinpitorangaistuksia.
 
 Opetusta häiritsevä opiskelija voidaan määrätä poistumaan jäljellä olevan oppitunnin ajaksi luokkahuoneesta tai muusta tilasta, jossa opetusta annetaan, taikka oppilaitoksen järjestämästä tilaisuudesta.
 
@@ -637,15 +647,15 @@ Jos huoltaja ei kolmen kuukauden kuluessa haltuunottoa koskevasta ilmoituksesta 
 
 Tässä laissa tarkoitettuun päätökseen saa vaatia oikaisua aluehallintovirastolta siten kuin hallintolaissa säädetään, jos päätös koskee:
 
-- opiskelijaksi ottamista;
+1) opiskelijaksi ottamista;
 
-- 23 §:n 2 momentissa tarkoitettua lisäajan myöntämistä tai 24 §:ssä tarkoitettua opiskeluoikeuden päättymistä;
+2) 23 §:n 2 momentissa tarkoitettua lisäajan myöntämistä tai 24 §:ssä tarkoitettua opiskeluoikeuden päättymistä;
 
-- suoritettujen opintojen hyväksi lukemista;
+3) suoritettujen opintojen hyväksi lukemista;
 
-- opiskelun poikkeavaa järjestämistä;
+4) opiskelun poikkeavaa järjestämistä;
 
-- oikeutta saada uskonnon tai elämänkatsomustiedon opetusta.
+5) oikeutta saada uskonnon tai elämänkatsomustiedon opetusta.
 
 #### 50 § Muutoksenhaku hallinto-oikeuteen
 
@@ -722,13 +732,13 @@ Rehtorin ja opettajien kelpoisuusvaatimuksista säädetään valtioneuvoston ase
 
 Vastaanottajan tehtävien hoidon kannalta välttämättömiä opiskelijan terveydentilaa ja toimintakykyä koskevia tietoja on tiedon haltijalla salassapitosäännösten estämättä oikeus antaa:
 
-- oppilaitoksen rehtorille ja oppilaitoksen turvallisuudesta vastaavalle muulle henkilölle opiskelun turvallisuuden varmistamiseksi;
+1) oppilaitoksen rehtorille ja oppilaitoksen turvallisuudesta vastaavalle muulle henkilölle opiskelun turvallisuuden varmistamiseksi;
 
-- opinto-ohjauksesta vastaaville henkilöille muihin opintoihin ja tukipalveluihin ohjaamista varten;
+2) opinto-ohjauksesta vastaaville henkilöille muihin opintoihin ja tukipalveluihin ohjaamista varten;
 
-- opiskeluterveydenhuollosta vastaaville henkilöille opiskelijan terveyden ja turvallisuuden varmistamiseksi ja tarvittaviin tukitoimiin ohjaamista varten;
+3) opiskeluterveydenhuollosta vastaaville henkilöille opiskelijan terveyden ja turvallisuuden varmistamiseksi ja tarvittaviin tukitoimiin ohjaamista varten;
 
-- poliisille ja koulutuksen järjestäjän edustajalle, joka on ensisijaisessa vastuussa turvallisuusuhan selvittämisestä, välittömän turvallisuusuhan arvioimiseksi tai jos opiskelijan todetaan terveydentilan arvioinnissa olevan vaaraksi muiden turvallisuudelle.
+4) poliisille ja koulutuksen järjestäjän edustajalle, joka on ensisijaisessa vastuussa turvallisuusuhan selvittämisestä, välittömän turvallisuusuhan arvioimiseksi tai jos opiskelijan todetaan terveydentilan arvioinnissa olevan vaaraksi muiden turvallisuudelle.
 
 Tässä laissa tarkoitettuja tehtäviä hoitavalla on salassapitovelvollisuuden estämättä oikeus ilmoittaa poliisille henkeen tai terveyteen kohdistuvan uhkan arviointia ja uhkaavan teon estämistä varten välttämättömät tiedot, jos hän tehtäviä hoitaessaan on saanut tietoja olosuhteista, joiden perusteella hänellä on syytä epäillä jonkun olevan vaarassa joutua väkivallan kohteeksi.
 
@@ -769,7 +779,7 @@ Lukiolaki 714/2018 - Ajantasainen lainsäädäntö - FINLEX ®
 
 Tämä laki tulee voimaan 1 päivänä elokuuta 2019.
 
-Tällä lailla kumotaan lukiolaki (629/1998), jäljempänä kumottu laki .
+Tällä lailla kumotaan lukiolaki (629/1998), jäljempänä kumottu laki.
 
 Tämän lain 4 lukua sovelletaan jo ennen lain voimaantuloa otettaessa opiskelijoita koulutukseen, joka alkaa tämän lain voimaan tultua.
 
@@ -779,7 +789,7 @@ Muualla lainsäädännössä olevalla viittauksella kumottuun lakiin tarkoitetaa
 
 Kumotun lain nojalla myönnetyt koulutuksen järjestämisluvat jäävät tämän lain voimaan tullessa voimaan ja kumotussa laissa tarkoitetut koulutuksen järjestäjät saavat jatkaa toimintaansa tässä laissa tarkoitettuina koulutuksen järjestäjinä. Opetus- ja kulttuuriministeriö voi ilman 5 §:n 1 momentissa tarkoitettua hakemusta muuttaa kumotun lain nojalla myönnetyt erityistä koulutustehtävää koskevat määräykset tämän lain ja sen nojalla annettujen säännösten mukaisiksi.
 
-Kumotun lain 7, 10-11, 17, 17 a, 22-23 ja 27 §:ää, lukioasetuksen (810/1998) 1-4 ja 6-8 §:ää ja lukiolaissa tarkoitetun koulutuksen yleisistä valtakunnallisista tavoitteista ja tuntijaosta annettua valtioneuvoston asetusta (942/2014) sovelletaan ja kumotun lain ja sen nojalla annettujen säännösten ja määräysten mukaan laadittua opetussuunnitelmaa noudatetaan, kunnes Opetushallitus päättää 12 §:n 1 momentin mukaisten opetussuunnitelmien perusteiden ja niiden mukaan laadittujen opetussuunnitelmien käyttöönotosta. Opetushallituksen tulee hyväksyä 12 §:n mukaiset opetussuunnitelman perusteet niin, että niiden mukaisesti laadittavat opetussuunnitelmat otetaan käyttöön viimeistään 1 päivänä elokuuta 2021.
+Kumotun lain 7, 10–11, 17, 17 a, 22–23 ja 27 §:ää, lukioasetuksen (810/1998) 1–4 ja 6–8 §:ää ja lukiolaissa tarkoitetun koulutuksen yleisistä valtakunnallisista tavoitteista ja tuntijaosta annettua valtioneuvoston asetusta (942/2014) sovelletaan ja kumotun lain ja sen nojalla annettujen säännösten ja määräysten mukaan laadittua opetussuunnitelmaa noudatetaan, kunnes Opetushallitus päättää 12 §:n 1 momentin mukaisten opetussuunnitelmien perusteiden ja niiden mukaan laadittujen opetussuunnitelmien käyttöönotosta. Opetushallituksen tulee hyväksyä 12 §:n mukaiset opetussuunnitelman perusteet niin, että niiden mukaisesti laadittavat opetussuunnitelmat otetaan käyttöön viimeistään 1 päivänä elokuuta 2021.
 
 Tämän lain tultua voimaan ja ennen kuin tämän lain mukaiset opetussuunnitelmien perusteet ja niiden mukaan laaditut opetussuunnitelmat otetaan käyttöön, koulutuksen järjestäjä ottaa opiskelijan suorittamaan lukiokoulutuksen tai lukiokoulutukseen valmistavan koulutuksen oppimäärää kumotun lain mukaisten opetussuunnitelman perusteiden mukaan laadittujen opetussuunnitelmien mukaisesti.
 
@@ -791,17 +801,17 @@ Kumotun lain nojalla annetut ylioppilastutkintolautakunnan määräykset jääv�
 
 Seuraavat asetukset jäävät edelleen voimaan myös siltä osin kuin ne on annettu kumotun lain nojalla:
 
-- opetustoimen henkilöstön kelpoisuusvaatimuksista annettu asetus (986/1998);
+1) opetustoimen henkilöstön kelpoisuusvaatimuksista annettu asetus (986/1998);
 
-- ylioppilastutkinnosta annettu valtioneuvoston asetus (915/2005);
+2) ylioppilastutkinnosta annettu valtioneuvoston asetus (915/2005);
 
-- koulutuksen arvioinnista annettu valtioneuvoston asetus (1061/2009);
+3) koulutuksen arvioinnista annettu valtioneuvoston asetus (1061/2009);
 
-- ammatillisen koulutuksen, lukiokoulutuksen ja perusopetuksen jälkeisen valmistavan koulutuksen hakumenettelystä annettu valtioneuvoston asetus (294/2014);
+4) ammatillisen koulutuksen, lukiokoulutuksen ja perusopetuksen jälkeisen valmistavan koulutuksen hakumenettelystä annettu valtioneuvoston asetus (294/2014);
 
-- eräiden oppilailta ja opiskelijoilta perittävien maksujen perusteista annettu opetusministeriön asetus (1323/2001);
+5) eräiden oppilailta ja opiskelijoilta perittävien maksujen perusteista annettu opetusministeriön asetus (1323/2001);
 
-- opiskelijaksi ottamisen perusteista lukiokoulutuksessa annettu opetusministeriön asetus (856/2006);
+6) opiskelijaksi ottamisen perusteista lukiokoulutuksessa annettu opetusministeriön asetus (856/2006);
 
 https://www.finlex.fi/fi/laki/ajantasa/2018/20180714#L4
 
