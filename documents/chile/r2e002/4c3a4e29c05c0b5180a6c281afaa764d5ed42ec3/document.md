@@ -8,15 +8,15 @@ Fecha Promulgación       :25-01-2008
 
 Organismo                :MINISTERIO DE EDUCACION
 
+Título                   :ESTABLECE LEY DE SUBVENCIÓN ESCOLAR PREFERENCIAL
+
+Tipo Version             :Ultima Version     De : 01-03-2011
+
 Inicio Vigencia          :01-03-2011
 
 Id Norma                 :269001
 
 Ultima Modificación      :26-FEB-2011 Ley 20501
-
-Título                   :ESTABLECE LEY DE SUBVENCIÓN ESCOLAR PREFERENCIAL
-
-Tipo Version             :Ultima Version     De : 01-03-2011
 
 URL                      :http://www.leychile.cl/N?i=269001&f=2011-03-01&p=
 
@@ -34,7 +34,11 @@ Proyecto de ley:
 ### Párrafo 1° Subvención Preferencial
 
 #### Artículo 1º.-
-Créase una subvención educacional                Ley 20501 denominada preferencial, destinada al mejoramiento de la            Art. 12 a) calidad de la educación de los establecimientos                     D.O. 26.02.2011 educacionales subvencionados, que se impetrará por los alumnos prioritarios que estén cursando primer o segundo nivel de transición de la educación parvularia, educación general básica y enseñanza media.
+Créase una subvención educacional denominada preferencial, destinada al mejoramiento de la calidad de la educación de los establecimientos educacionales subvencionados, que se impetrará por los alumnos prioritarios que estén cursando primer o segundo nivel de transición de la educación parvularia, educación general básica y enseñanza media.
+
+Ley 20501
+Art. 12 a)
+D.O. 26.02.2011
 
 #### Artículo 2º.-
 Para los efectos de la aplicación de la subvención escolar preferencial se entenderá por prioritarios a los alumnos para quienes la situación socioeconómica de sus hogares dificulte sus posibilidades de enfrentar el proceso educativo.
@@ -91,7 +95,9 @@ Los padres y apoderados de los alumnos postulantes que opten por un establecimie
 
 - Retener en el establecimiento a los alumnos, entre primer nivel de transición y sexto básico, sin que el rendimiento escolar sea obstáculo para la renovación de su matrícula. Los alumnos tendrán derecho a repetir de curso en un mismo establecimiento a lo menos en una oportunidad en cada nivel de enseñanza, sin que por esa causal les sea cancelada o no renovada su matrícula.
 
-- Destinar la subvención y los aportes que contempla esta ley a la implementación de las medidas comprendidas en el Plan de Mejoramiento Educativo, con especial énfasis en los alumnos prioritarios, e impulsar una asistencia técnico-pedagógica especial para mejorar el rendimiento escolar de los alumnos con bajo rendimiento académico.              NOTA
+- Destinar la subvención y los aportes que contempla esta ley a la implementación de las medidas comprendidas en el Plan de Mejoramiento Educativo, con especial énfasis en los alumnos prioritarios, e impulsar una asistencia técnico-pedagógica especial para mejorar el rendimiento escolar de los alumnos con bajo rendimiento académico.
+
+NOTA
 
 ##### NOTA
 
@@ -147,11 +153,13 @@ Para dar cumplimiento a lo dispuesto en la letra d) del artículo anterior, el s
 
 - Acciones en el área de liderazgo escolar, tales como fortalecimiento del Consejo de Profesores; participación en el establecimiento de personalidades de la vida cultural y científica y de profesionales o dirigentes de la sociedad local o nacional; proyección de la escuela en la comunidad; fortalecimiento de la formación valórica y cívica de los alumnos, entre otras.
 
-- Acciones en el área de convivencia escolar, tales como apoyo sicológico y de asistencia social a los alumnos y a sus familias; mejoramiento de la convivencia y gestión del clima escolar; fortalecimiento del Consejo Escolar; fortalecimiento de las familias y de los apoderados en el vínculo educativo y afectivo con los alumnos y la escuela; apoyos a los aprendizajes de todos los alumnos, y contratación de personal idóneo para el logro de las acciones mencionadas en este número, entre otras.                   Ley 20501
+- Acciones en el área de convivencia escolar, tales como apoyo sicológico y de asistencia social a los alumnos y a sus familias; mejoramiento de la convivencia y gestión del clima escolar; fortalecimiento del Consejo Escolar; fortalecimiento de las familias y de los apoderados en el vínculo educativo y afectivo con los alumnos y la escuela; apoyos a los aprendizajes de todos los alumnos, y contratación de personal idóneo para el logro de las acciones mencionadas en este número, entre otras.
 
+Ley 20501
 Art. 12 b)
+D.O. 26.02.2011
 
-- Acciones en el área de gestión de recursos, tales           D.O. 26.02.2011 como la definición de una política de perfeccionamiento para los docentes del establecimiento, destinada a fortalecer aquellas áreas del currículo en que los alumnos han obtenido resultados educativos insatisfactorios, y establecimiento de sistemas de evaluación de los docentes, esto último en el caso de los establecimientos particulares subvencionados; fortalecimiento de los instrumentos de apoyo a la actividad educativa, tales como biblioteca escolar, computadores, Internet, talleres, sistemas de fotocopia y materiales educativos, entre otras.
+- Acciones en el área de gestión de recursos, tales como la definición de una política de perfeccionamiento para los docentes del establecimiento, destinada a fortalecer aquellas áreas del currículo en que los alumnos han obtenido resultados educativos insatisfactorios, y establecimiento de sistemas de evaluación de los docentes, esto último en el caso de los establecimientos particulares subvencionados; fortalecimiento de los instrumentos de apoyo a la actividad educativa, tales como biblioteca escolar, computadores, Internet, talleres, sistemas de fotocopia y materiales educativos, entre otras.
 
 Tratándose de establecimientos educacionales emergentes y en recuperación de conformidad a lo establecido en el artículo 9º, deberán incluir las acciones comprometidas en el Plan de Mejoramiento Educativo para establecimientos educacionales emergentes a que hace referencia el artículo 19 y en el Plan de Mejoramiento Educativo para establecimientos educacionales en recuperación a que se refiere el artículo 26, respectivamente.
 
@@ -192,11 +200,13 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 a 8º básico.
 
 #### Artículo 11.-
-Con el objeto de permitir la clasificación en las categorías que señala el artículo 9º, de aquellos establecimientos cuya matrícula sea insuficiente para efectos de realizar inferencias estadísticas confiables acerca de sus resultados educativos, medidos conforme a lo dispuesto en el artículo 21 del decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.962, el Ministerio de Educación adecuará el mecanismo de evaluación antes referido para las características de estos establecimientos.                                             Ley 20501
+Con el objeto de permitir la clasificación en las categorías que señala el artículo 9º, de aquellos establecimientos cuya matrícula sea insuficiente para efectos de realizar inferencias estadísticas confiables acerca de sus resultados educativos, medidos conforme a lo dispuesto en el artículo 21 del decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.962, el Ministerio de Educación adecuará el mecanismo de evaluación antes referido para las características de estos establecimientos.
 
+Ley 20501
 Art. 12 c)
+D.O. 26.02.2011
 
-Adicionalmente, el Ministerio de Educación                     D.O. 26.02.2011 considerará las características de los establecimientos educacionales rurales uni, bi o tri docentes, así como de aquellos multigrado o en situación de aislamiento, con el fin de orientar la elaboración del Plan de Mejoramiento Educativo de dichos establecimientos y brindarles apoyo y supervisión pedagógica especial, acorde con sus necesidades, ya sea otorgada por sí o mediante personas o entidades pedagógicas y técnicas de apoyo registradas.
+Adicionalmente, el Ministerio de Educación considerará las características de los establecimientos educacionales rurales uni, bi o tri docentes, así como de aquellos multigrado o en situación de aislamiento, con el fin de orientar la elaboración del Plan de Mejoramiento Educativo de dichos establecimientos y brindarles apoyo y supervisión pedagógica especial, acorde con sus necesidades, ya sea otorgada por sí o mediante personas o entidades pedagógicas y técnicas de apoyo registradas.
 
 El Convenio de Igualdad de Oportunidades y Excelencia Educativa que establece el artículo 7º, tratándose de los establecimientos educacionales de los incisos precedentes, podrá incluir la obligación de funcionar en red, en colaboración con otros establecimientos de similares características y cercanía geográfica, conforme con los procedimientos que se establezcan en el reglamento. El Ministerio de Educación deberá proponer a los municipios rurales y a los establecimientos educacionales municipales rurales, Planes de Mejoramiento Educativo a desarrollar conjuntamente entre establecimientos educacionales de distintas comunas y con el apoyo del Ministerio.
 
@@ -219,11 +229,17 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 La resolución del Secretario Regional Ministerial de Educación que establezca la clasificación indicada en el artículo 9º, será notificada en forma personal o mediante carta certificada al postulante, y podrá ser apelada ante el Subsecretario de Educación dentro del plazo de quince días hábiles contados desde la fecha de la notificación, disponiendo éste de igual plazo para pronunciarse acerca de la misma.
 
 #### Artículo 14.-
-La subvención escolar preferencial tendrá el siguiente valor unitario mensual por alumno prioritario, expresado en unidades de subvención educacional (USE), según la categoría del establecimiento educacional establecida en la resolución del Secretario Regional Ministerial de Educación de                 Ley 20501 acuerdo al artículo 9º:                                             Art. 12 d)
+La subvención escolar preferencial tendrá el siguiente valor unitario mensual por alumno prioritario, expresado en unidades de subvención educacional (USE), según la categoría del establecimiento educacional establecida en la resolución del Secretario Regional Ministerial de Educación de acuerdo al artículo 9º:
 
+Ley 20501
+Art. 12 d)
 D.O. 26.02.2011
 
 Valor Subvención en USE
+
+| | Desde 1° nivel de transición hasta 4° año de la educación básica | 5° y 6° año básico | 7° y 8° año básico | Desde 1° año hasta 4° año de enseñanza media |
+| A: Establecimientos educacionales autónomos | 1,4 | 0.93 | 0.47 | 0.47 |
+| B: Establecimientos educacionales emergentes | 0,7 | 0.465 | 0.235 | 0.235 |
 
 #### Artículo 15.-
 Los sostenedores de establecimientos educacionales clasificados como autónomos o emergentes percibirán mensualmente la subvención escolar preferencial establecida en esta ley. Su monto se determinará multiplicando el valor que corresponda conforme al artículo anterior por la asistencia media promedio de los alumnos prioritarios durante los tres meses precedentes al pago.
@@ -247,13 +263,31 @@ El procedimiento de cálculo de la subvención a que se refieren los incisos ant
 #### Artículo 16.-
 Créase una subvención denominada subvención por concentración de alumnos prioritarios.
 
-La subvención por concentración de alumnos prioritarios tendrá el siguiente valor unitario mensual por alumno, expresado en unidades de subvención educacional (U.S.E.), según los tramos que se fijan de              Ley 20501 acuerdo al porcentaje de alumnos prioritarios del                   Art. 12 e) i. establecimiento:                                                    D.O. 26.02.2011
+La subvención por concentración de alumnos prioritarios tendrá el siguiente valor unitario mensual por alumno, expresado en unidades de subvención educacional (U.S.E.), según los tramos que se fijan de acuerdo al porcentaje de alumnos prioritarios del establecimiento:
+
+Ley 20501
+Art. 12 e) i.
+D.O. 26.02.2011
+
+| Tramos según el porcentaje de alumnos prioritarios del establecimiento educacional | Desde el 1° nivel de transición hasta 4° año básico (U.S.E.) | 5° y 6° año básico (U.S.E.) | 7° y 8° año básico (U.S.E.) | Desde 1° año hasta 4° año de enseñanza media (U.S.E.) |
+| 60% o más | 0,302 | 0,202 | 0,101 | 0,101 |
+| Entre 45% y menos de 60% | 0,269 | 0,179 | 0,090 | 0,090 |
+| Entre 30% y menos de 45% | 0,202 | 0,134 | 0,067 | 0,067 |
+| Entre 15% y menos de 30% | 0,118 | 0,078 | 0,040 | 0,040 |
 
 Tendrán derecho a la subvención por concentración de alumnos prioritarios los establecimientos que se incorporen y se mantengan en el régimen de educación preferencial, de conformidad a lo establecido en el artículo 7º.
 
-Los sostenedores de los establecimientos señalados             Ley 20501 en el inciso anterior podrán impetrar la subvención por             Art. 12 e) ii. concentración de alumnos prioritarios por todos los                 D.O. 26.02.2011 alumnos que estén cursando el primer y segundo nivel de transición de la educación parvularia, educación general básica y enseñanza media del establecimiento.
+Los sostenedores de los establecimientos señalados en el inciso anterior podrán impetrar la subvención por concentración de alumnos prioritarios por todos los alumnos que estén cursando el primer y segundo nivel de transición de la educación parvularia, educación general básica y enseñanza media del establecimiento.
 
-El monto mensual de esta subvención, para cada establecimiento educacional, se determinará multiplicando el valor que corresponda, según los tramos que se señalan en el inciso segundo, por la asistencia              Ley 20501 media promedio de los alumnos de primer y segundo nivel             Art. 12 e) iii. de transición de parvularia, educación general básica y             D.O. 26.02.2011 enseñanza media durante los tres meses precedentes al pago, siéndoles aplicables, en los casos que corresponda, las normas establecidas en los incisos segundo, tercero y cuarto del artículo 13 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+Ley 20501
+Art. 12 e) ii.
+D.O. 26.02.2011
+
+El monto mensual de esta subvención, para cada establecimiento educacional, se determinará multiplicando el valor que corresponda, según los tramos que se señalan en el inciso segundo, por la asistencia media promedio de los alumnos de primer y segundo nivel de transición de parvularia, educación general básica y enseñanza media durante los tres meses precedentes al pago, siéndoles aplicables, en los casos que corresponda, las normas establecidas en los incisos segundo, tercero y cuarto del artículo 13 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+
+Ley 20501
+Art. 12 e) iii.
+D.O. 26.02.2011
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -271,7 +305,11 @@ Los resultados de la evaluación del tercer o anteriores años, según correspon
 ### Párrafo 2° Establecimientos Educacionales Autónomos con evaluación del Ministerio de Educación o de Personas o Entidades Pedagógicas y Técnicas de Apoyo registradas
 
 #### Artículo 18.-
-En los establecimientos autónomos se evaluará el cumplimiento de las obligaciones contenidas en el Convenio de Igualdad de Oportunidades y Excelencia Educativa, en especial la de retención de los alumnos prioritarios con dificultades académicas y la de cumplimiento de los logros académicos de todos los                  Ley 20501 alumnos, conforme a los resultados obtenidos en las                 Art. 12 f) mediciones de carácter nacional a que se refiere el                 D.O. 26.02.2011 artículo 37 de la Ley General de Educación.
+En los establecimientos autónomos se evaluará el cumplimiento de las obligaciones contenidas en el Convenio de Igualdad de Oportunidades y Excelencia Educativa, en especial la de retención de los alumnos prioritarios con dificultades académicas y la de cumplimiento de los logros académicos de todos los alumnos, conforme a los resultados obtenidos en las mediciones de carácter nacional a que se refiere el artículo 37 de la Ley General de Educación.
+
+Ley 20501
+Art. 12 f)
+D.O. 26.02.2011
 
 La evaluación de estos establecimientos, según los logros académicos antes referidos, se realizará por el Ministerio de Educación al menos cada 4 años.
 
@@ -310,7 +348,11 @@ Para la implementación del Plan a que se refiere el inciso anterior, los establ
 
 La suma anual de los recursos que reciban los establecimientos emergentes por la aplicación de la letra B del artículo 14 y el aporte adicional a que se refiere este artículo, será equivalente a lo que le correspondería recibir al mismo establecimiento si éste estuviera en la categoría de Autónomo, por los niveles que se especifican en el inciso siguiente.
 
-Este aporte adicional será de 0,7 U.S.E. por los alumnos que cursen desde el primer y segundo año de transición de la educación parvularia y hasta el 4º año de la educación general básica; de 0,465 U.S.E. en el caso de los alumnos que cursen 5º y 6º año de la educación general básica; de 0,235 U.S.E. por los alumnos que cursen 7º y 8º año de la educación general básica; y de 0,235 U.S.E. por los alumnos que cursen desde el 1° hasta 4° año de enseñanza media.                                             Ley 20501
+Este aporte adicional será de 0,7 U.S.E. por los alumnos que cursen desde el primer y segundo año de transición de la educación parvularia y hasta el 4º año de la educación general básica; de 0,465 U.S.E. en el caso de los alumnos que cursen 5º y 6º año de la educación general básica; de 0,235 U.S.E. por los alumnos que cursen 7º y 8º año de la educación general básica; y de 0,235 U.S.E. por los alumnos que cursen desde el 1° hasta 4° año de enseñanza media.
+
+Ley 20501
+Art. 12 g)
+D.O. 26.02.2011
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -318,9 +360,7 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 12]]
 
-Art. 12 g)
-
-No obstante lo anterior, durante el primer año de              D.O. 26.02.2011 vigencia del convenio se entregará a los sostenedores de los establecimientos educacionales que no cuenten con un plan aprobado por el Ministerio de Educación, un tercio del aporte adicional mensual a que se refiere el inciso anterior, para financiar la obligación establecida en el Nº 1 del artículo 19, recibiendo del Ministerio de Educación los dos tercios restantes una vez que comiencen a ejecutar el Plan de Mejoramiento Educativo, pagándose este saldo con efecto retroactivo calculado desde el mes siguiente al acto de aprobación del convenio a que se refiere el artículo 7º.
+No obstante lo anterior, durante el primer año de vigencia del convenio se entregará a los sostenedores de los establecimientos educacionales que no cuenten con un plan aprobado por el Ministerio de Educación, un tercio del aporte adicional mensual a que se refiere el inciso anterior, para financiar la obligación establecida en el Nº 1 del artículo 19, recibiendo del Ministerio de Educación los dos tercios restantes una vez que comiencen a ejecutar el Plan de Mejoramiento Educativo, pagándose este saldo con efecto retroactivo calculado desde el mes siguiente al acto de aprobación del convenio a que se refiere el artículo 7º.
 
 A contar del segundo año de vigencia del convenio, el aporte a que se refiere el inciso cuarto se suspenderá cuando el Ministerio de Educación certifique que las acciones no se han efectuado conforme al Plan de Mejoramiento Educativo aprobado.
 
@@ -373,7 +413,7 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 La resolución que clasifique al establecimiento en la categoría en recuperación será notificada en forma personal o mediante carta certificada al sostenedor y podrá ser apelada ante el Subsecretario de Educación dentro del plazo de quince días hábiles contados desde la fecha de su notificación.
 
 #### Artículo 25.-
-Las escuelas que sean clasificadas en Recuperación, en relación con lo establecido en el artículo 23, y que hayan apelado de ello de conformidad al articulo 24, serán evaluadas por un panel de expertos con el objetivo de emitir un informe respecto de dicha clasificación, el cual deberá ser considerado por el Subsecretario de Educación al resolver la apelación. Este panel tomará en cuenta los antecedentes de las escuelas evaluadas y otros relevantes a juicio del panel.
+Las escuelas que sean clasificadas en Recuperación, en relación con lo establecido en el artículo 23, y que hayan apelado de ello de conformidad al artículo 24, serán evaluadas por un panel de expertos con el objetivo de emitir un informe respecto de dicha clasificación, el cual deberá ser considerado por el Subsecretario de Educación al resolver la apelación. Este panel tomará en cuenta los antecedentes de las escuelas evaluadas y otros relevantes a juicio del panel.
 
 Este panel estará conformado por tres expertos, designados uno por el Ministerio de Educación, otro por el sostenedor del establecimiento y otro por una persona o entidad evaluadora externa de aquellas a que se refiere el artículo 30.
 
@@ -420,13 +460,15 @@ El reglamento a que alude el artículo 3º establecerá el modo y la oportunidad
 Durante el primer año de incorporación de un establecimiento educacional al régimen de subvención escolar preferencial, el aporte a que se refiere el inciso primero será determinado según la fórmula establecida en el inciso segundo, dividido por doce y multiplicado por el número de meses que resten del año, contados desde el mes siguiente a la firma del convenio complementario.
 
 #### Artículo 28.-
-Si concluido el plazo de cuatro años establecido en el Nº 1 del artículo 26, el establecimiento educacional en Recuperación alcanza los objetivos de los numerales 1, 2 y 3 de dicho artículo será clasificado automáticamente como Emergente o Autónomo, según corresponda. No obstante, los establecimientos educacionales en recuperación podrán solicitar a contar del segundo semestre del segundo año el cambio a la categoría de emergentes, si sus evaluaciones indican que ha logrado los estándares nacionales correspondientes a dicha categoría, renovándose en ese caso el convenio automáticamente por un nuevo período de cuatro años con las adecuaciones pertinentes a la nueva clasificación. Esta clasificación tendrá efecto a partir del año escolar siguiente.
+Si concluido el plazo de cuatro años establecido en el Nº 1 del artículo 26, el establecimiento educacional en Recuperación alcanza los objetivos de los numerales 1, 2 y 3 de dicho artículo será clasificado automáticamente como Emergente o Autónomo, según corresponda. No obstante, los establecimientos educacionales en recuperación podrán solicitar a contar del segundo semestre del segundo año el cambio a la categoría de
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+emergentes, si sus evaluaciones indican que ha logrado los estándares nacionales correspondientes a dicha categoría, renovándose en ese caso el convenio automáticamente por un nuevo período de cuatro años con las adecuaciones pertinentes a la nueva clasificación. Esta clasificación tendrá efecto a partir del año escolar siguiente.
 
 Por otra parte, si el establecimiento en recuperación no logra dichos objetivos en el plazo indicado, el Ministerio de Educación informará a todos los miembros de la comunidad escolar la circunstancia de que el establecimiento no ha alcanzado los resultados académicos esperados y ofrecerá a las familias del mismo, la posibilidad de buscar otro centro educativo. Esta comunicación la efectuará el Ministerio de Educación por carta certificada a cada uno de los apoderados y familias del establecimiento.
 
@@ -449,7 +491,9 @@ En tal virtud, le corresponderá:
 
 - Efectuar la supervisión de la ejecución de los Planes de Mejoramiento Educativo a que se refieren los artículos 8º, 19 y 26, y del cumplimiento del convenio del artículo 7º, informando de ello al sostenedor del establecimiento y a la comunidad escolar que percibe subvención preferencial sobre el grado de avance de dichos planes;
 
-- Determinar los instrumentos y la oportunidad en que se verificará el cumplimiento de los compromisos contraídos por los establecimientos educacionales que forman parte del régimen de la subvención preferencial; e) Realizar una supervisión y dar apoyo pedagógico
+- Determinar los instrumentos y la oportunidad en que se verificará el cumplimiento de los compromisos contraídos por los establecimientos educacionales que forman parte del régimen de la subvención preferencial;
+
+- Realizar una supervisión y dar apoyo pedagógico
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -792,13 +836,15 @@ Durante el año 2008, para determinar el porcentaje de alumnos prioritarios del 
 El reglamento correspondiente a la presente ley deberá ser dictado dentro del plazo de tres meses, contado desde la fecha de entrada en vigencia de esta ley.
 
 #### Artículo undécimo.-
-La atribución del Ministerio de Educación para suscribir los convenios de la presente ley sólo podrá ejercerse hasta el tercer año de su entrada en vigencia, o hasta que entre en operación el Sistema de Aseguramiento de la Calidad de la Educación, si ello ocurriere antes de los tres años.
+La atribución del Ministerio de Educación para suscribir los convenios de la presente ley sólo podrá ejercerse hasta el tercer año de su entrada en vigencia, o hasta que entre en operación el Sistema de Aseguramiento de la Calidad de la Educación, si ello
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+ocurriere antes de los tres años.
 
 #### Artículo duodécimo.-
 Los niveles de 1° año de enseñanza media a 4° año de enseñanza media se incorporarán gradualmente a la percepción de la subvención escolar preferencial, de la subvención por concentración de alumnos prioritarios y de los aportes adicionales establecidos en esta ley, a razón de un nivel por año, comenzando el año escolar 2014 con 1° año de enseñanza media.                                                    Ley 20501
@@ -821,11 +867,11 @@ El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Hono
 
 ### Declaró:
 
-- Que la letra b) del artículo 6º del proyecto remitido es constitucional.
+1. Que la letra b) del artículo 6º del proyecto remitido es constitucional.
 
-- Que el inciso tercero del artículo 28 y la letra c) del número 6) del artículo 37 del proyecto remitido son constitucionales.
+2. Que el inciso tercero del artículo 28 y la letra c) del número 6) del artículo 37 del proyecto remitido son constitucionales.
 
-- Que no le corresponde al Tribunal pronunciarse respecto de la letra f) del artículo 7º del proyecto remitido, por versar sobre materias que no son propias de ley orgánica constitucional.
+3. Que no le corresponde al Tribunal pronunciarse respecto de la letra f) del artículo 7º del proyecto remitido, por versar sobre materias que no son propias de ley orgánica constitucional.
 
 Santiago, 24 de enero de 2008.- Rafael Larraín Cruz, Secretario.
 
