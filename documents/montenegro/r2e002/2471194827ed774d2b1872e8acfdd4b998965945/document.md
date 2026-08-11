@@ -4,11 +4,86 @@
 
 ## C o n t e n t s
 
+I BASIC PROVISIONS ............................................................................................101
+The Scope (Article 1) ..........................................................................................101
+Aims (Article 2) ...................................................................................................101
+Types of High Schools (Article 3) .......................................................................101
+The Duration of Education (Article 4) .................................................................101
+The Matura Exam (Article 5) ..............................................................................102
+The Acquisition of Education (Article 6) .............................................................102
+Horizontal Passing (Article 7) .............................................................................102
+Vertical Passing (Article 8) .................................................................................102
+The Education of Foreign Citizens (Article 9).....................................................102
+The Education of Students with Special Needs (Article 10) ...............................102
+The Adult Education (Article 11) ........................................................................103
+The Supervision (Article 12) ...............................................................................103
+II THE ENROLLMENT INTO HIGH SCHOOLS ......................................................103
+Enrollment Requirements (Article 13) ................................................................103
+The Enrollment of Foreign Citizens (Article 14) .................................................103
+The Competition for Enrollment (Article 15) .......................................................104
+III THE ORGANIZATION OF EDUCATIONAL WORK ...........................................104
+1. Educational Work ..........................................................................................104
+The contents of educational work (Article 16) ....................................................104
+The Organization of Teaching (Article 17) .........................................................104
+The Annual Schedule of Work (Article 18) .........................................................105
+Week Number of Lectures, and the Duration of a School Lecture (Article 19) ..105
+The Number of Students in a Class (Article 20) .................................................106
+2. Progression and Marking ................................................................................106
+The Aim (Article 21) ............................................................................................106
+Marking Scale (Article 22) ..................................................................................106
+Student Success (Article 23) ..............................................................................106
+Repetition (Article 24) .........................................................................................107
+The Establishing of Marks (Article 25) ...............................................................107
+The Manner of Marking (Article 26) ....................................................................107
+Re-assessment of Knowledge (Article 27) .........................................................107
+The Right to Complain (Article 28) .....................................................................108
+Manners (Article 29) ...........................................................................................108
+By-laws (Article 30) ............................................................................................108
+3. Exams..............................................................................................................108
+The Types of exams (Article 31) ........................................................................108
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
 Law on High School
+
+Remedial Exams (Article 32) ..............................................................................109
+Extra Exam (Article 33) ......................................................................................109
+Differential Exams (Article 34) ............................................................................109
+The Grade Exam of Full-Time Students (Article 35) ..........................................110
+The Grade Exams of Part-Time Students (Article 36) .......................................110
+By-laws (Article 37) ............................................................................................110
+Matura Exams (Article 38) ..................................................................................110
+Matura Course (Article 39) .................................................................................111
+The enrollment into the Matura Course (Article 40) ...........................................111
+Annulment of Exams (Article 41) ........................................................................111
+IV STUDENTS .........................................................................................................112
+The Status of Student (Article 42) ......................................................................112
+Parallel Education (Article 43) ............................................................................112
+Accelerated Progression (Article 44) ..................................................................112
+The Cessation of the Status of Student (Article 45) ...........................................112
+The leaving of School (Article 46) ......................................................................113
+The Prolongation of the Status of Students (Article 47) .....................................113
+Prizes and Rewards (Article 48) .........................................................................113
+Disciplinary Measures (Article 49) ......................................................................113
+Deciding on the Status of Students (Article 50) .................................................114
+Consistent Application of the Law (Article 51)....................................................114
+V TEACHERS AND ASSOCIATES ........................................................................114
+Teachers, Associates in the Teaching Process and Professional Associates (Article 52) ........................................................................................114
+Teachers (Article 53) ..........................................................................................114
+Associates in the Teaching Process (Article 54) ................................................115
+Professional Associates (Article 55) ...................................................................115
+The Working Hours of Teachers (Article 56) ......................................................115
+The Working Hours of Associates in Teaching Process and Professional Associates (Article 57) ........................................................................................115
+The Profile of Qualification (Article 58) ...............................................................116
+VI TRANSITIONAL AND FINAL PROVISIONS .....................................................116
+The Application of Educational Curricula (Article 59) .........................................116
+The Right to Continue the Started Education (Article 60, 61 and 62) ................116
+The Employed Associates in Teaching Process (Article 63) .............................117
+The Harmonization of School’s Documents (Article 64) ....................................117
+The Passing of By-laws (Article 65) ...................................................................117
+Coming into Force (Article 66) ...........................................................................117
 
 100
 
@@ -20,11 +95,11 @@ Ministry of Education and Science Montenegro
 
 Law on High School
 
+# LAW ON HIGH SCHOOL
+
 ## I BASIC PROVISIONS
 
 #### The Scope
-
-# LAW ON HIGH SCHOOL
 
 ##### Article 1
 
@@ -180,7 +255,7 @@ The  Ministry  may  prescribe  the  testing  of  the  knowledge  of  persons, re
 
 The enrollment into high schools shall be carried out in June and August terms, on the basis of public competition that has been announced by the Ministry.
 
-The  decision  on  the  number  of  students  that  are  enrolled  into  the  first grade  of  high  schools,  the  Founder  of  which  the  Republic  or  a  local  selfgovernment unit is, shall be passed by high school and upon the approval of the Ministry.
+The decision on the number of students that are enrolled into the first grade of high schools, the Founder of which the Republic or a local self-government unit is, shall be passed by high school and upon the approval of the Ministry.
 
 The Ministry shall announce the competition for the enrollment into the first grade of high schools referred to in paragraph 2 of this Article four months before the commencement of a school year, at the proposal of high school.
 
@@ -298,13 +373,13 @@ The educational curriculum can prescribe the smaller number of students per clas
 
 ### 2. Progression and Marking
 
+#### The Aim
+
 ##### Article 21
 
-The monitoring of students achievements, the assessment and marking of their  knowledge  shall  establish  their  success  in  the  achievement  of  knowledge standards, or the fulfillment of duties that have been prescribed by the education curriculum.
+The monitoring of students achievements, the assessment and marking of their knowledge shall establish their success in the achievement of knowledge standards, or the fulfillment of duties that have been prescribed by the education curriculum.
 
 #### Marking Scale
-
-#### The Aim
 
 ##### Article 22
 
@@ -394,8 +469,6 @@ If a student gets smaller mark on the occasion of the written re-assessment of  
 
 #### The Right to Complain
 
-#### The Types of exams
-
 ##### Article 28
 
 Students, or their parents, shall have the right to complain because of the final marks in teaching subjects or in manners at the end of a teaching, or a school year.
@@ -424,6 +497,8 @@ The  Panel  of  Class  teachers,  at  the  proposal  of  the  Class  Master,  sh
 The  monitoring  of  the  achievements  of  students,  of  the  manner  and  the procedure of progress, and of the marking shall be closer defined by the Ministry's regulations.
 
 ### 3. Exams
+
+#### The Types of exams
 
 ##### Article 31
 
@@ -547,7 +622,7 @@ The participants at Matura course are in obligation to attend the teaching regul
 
 ##### Article 40
 
-Any person who finished the grade before the high school final grade and stopped the schooling during one year at least, or any person who finished a fouryear vocational school may be enrolled in the Matura course.
+Any person who finished the grade before the high school final grade and stopped the schooling during one year at least, or any person who finished a four-year vocational school may be enrolled in the Matura course.
 
 #### Annulment of Exams
 
@@ -557,7 +632,7 @@ In  case  the  competent  educational  inspection,  or  the  Principal  of  a  h
 
 If the Panel of Teachers has not passed the decision on the annulment of exams and certificates in the prescribed period of time, the Principal of such high school shall pass the decision.
 
-The  decision  on  the  annulment  of  exams,  or  certificates  referred  to  in paragraph 1 of this Article, shall be published in 'Official Gazette of the Republic of Montenegro'.
+The decision on the annulment of exams, or certificates referred to in paragraph 1 of this Article, shall be published in “Official Gazette of the Republic of Montenegro”.
 
 Ministry of Education and Science Montenegro 111
 
@@ -567,15 +642,15 @@ Ministry of Education and Science Montenegro 111
 
 Law on High School
 
-#### The Status of Student
-
 ## IV STUDENTS
+
+#### The Status of Student
 
 ##### Article 42
 
 The  status  of  student  shall  be  acquired  upon  the  enrollment  into  a  high school.
 
-Students  are  enrolled  into  high  school  as  full-time  students  and  as  parttime students.
+Students are enrolled into high school as full-time students and as part-time students.
 
 Any person attending the teaching process regularly shall be considered as a full-time student.
 
@@ -791,9 +866,9 @@ The  decision  on  the  introduction  of  educational  curricula  and  on  the f
 
 ##### Article 60
 
-Students who have started secondary education before the effective date of this Law and according to the curriculum for high schools, which was passed on the basis of the Law on Secondary Education ('Official Gazette of SRM', No. 28/91 and 'Official Gazette of RM', No. 56/92 and 27/94), shall have the right to continue and  to  finish  the  education  in  line  with  that  curricula  and  within  the  time  period foreseen for its  implementation, but in two years time after the expiration of that deadline at latest.
+Students who have started secondary education before the effective date of this Law and according to the curriculum for high schools, which was passed on the basis of the Law on Secondary Education (“Official Gazette of SRM”, No. 28/91 and “Official Gazette of RM”, No. 56/92 and 27/94), shall have the right to continue and to finish the education in line with that curricula and within the time period foreseen for its implementation, but in two years time after the expiration of that deadline at latest.
 
-The students referred to in paragraph 1 of this Article shall have the right to finish  high  school  under  the  conditions  and  in  the  manner  prescribed  by  the provisions  of  the  Law  on  Secondary  Education  ('Official  Gazette  of  SRM',  No. 28/91 and 'Official Gazette of RM', No. 56/92 and 27/94), unless they are contrary to the provisions of this Law.
+The students referred to in paragraph 1 of this Article shall have the right to finish high school under the conditions and in the manner prescribed by the provisions of the Law on Secondary Education (“Official Gazette of SRM”, No. 28/91 and “Official Gazette of RM”, No. 56/92 and 27/94), unless they are contrary to the provisions of this Law.
 
 116
 
@@ -811,7 +886,7 @@ Students who have been enrolled into high school after the effective date of  th
 
 ##### Article 62
 
-The right to sit for the Matura exam in line with this Law shall be entitled also to the students who finished high school according to the educational curricula passed  on  the  basis  of  the  Law  on  Secondary  Education    ('Official  Gazette  of SRM', No. 28/91 and 'Official Gazette of RM', No. 56/92 and 27/94),
+The right to sit for the Matura exam in line with this Law shall be entitled also to the students who finished high school according to the educational curricula passed on the basis of the Law on Secondary Education (“Official Gazette of SRM”, No. 28/91 and “Official Gazette of RM”, No. 56/92 and 27/94),
 
 #### The Employed Associates in Teaching Process
 
@@ -839,7 +914,7 @@ they are contrary to this Law.
 
 ##### Article 66
 
-This  Law  shall  enter  into  force  on  the  eighth  day  as  of  the  day  of  its publication on the 'Official gazette of the Republic of Montenegro', and it shall be applied in high schools working according to the educational curriculum passed in line with the law.
+This Law shall enter into force on the eighth day as of the day of its publication on the “Official gazette of the Republic of Montenegro”, and it shall be
 
 Ministry of Education and Science Montenegro 117
 
@@ -848,6 +923,8 @@ Ministry of Education and Science Montenegro 117
 [[START OF PAGE 20]]
 
 Law on High School
+
+applied in high schools working according to the educational curriculum passed in line with the law.
 
 Ministry of Education and Science 118
 
