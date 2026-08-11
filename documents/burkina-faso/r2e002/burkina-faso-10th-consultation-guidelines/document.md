@@ -24,11 +24,13 @@ La nature juridique des obligations découlant de la Convention diffère à plus
 
 Compte tenu des différences de formulation et de portée juridique dues à la nature même de ces deux instruments, la teneur de la Recommandation et celle de la Convention sont identiques. Les États  membres  doivent  donner  effet  à  l'un  ou  l'autre  de  ces  instruments  dans  leur  législation nationale et dans leurs politiques de l'éducation.
 
-Par-dessus tout, les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates  et  sous  la  forme  que  déterminera  la  Conférence  générale,  des  rapports  sur  les  lois,  les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la  science  et  de  la  culture,  ainsi  que  sur  la  suite  donnée  aux  recommandations  et  conventions visées  à  l'article IV,  paragraphe 4 » .  Par  conséquent,  même  si  un  État  n'est  pas  partie  à  la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous  les  États  membres  de  l'UNESCO  sont  censés  soumettre  un  rapport  national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
+Par-dessus tout, les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme que déterminera la Conférence générale, des rapports sur les lois, les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
 
 ### 3. Participation aux consultations
 
@@ -46,7 +48,7 @@ La  durée  de  la  période  d'établissement  des  rapports  au  titre  de  la
 
 Les  États  membres  qui  ont  déjà  soumis  un  rapport  dans  le  cadre  de  la  neuvième consultation (2016-2017) sont invités à s'y référer le cas échéant. Les informations pertinentes soumises lors d'autres exercices de présentation de rapports peuvent être reproduites ou faire l'objet d'un renvoi indiquant précisément où les consulter. De même, des liens vers tous documents utiles ou textes juridiques ou politiques pertinents seront les bienvenus ; certains textes peuvent également être joints en annexe au rapport.
 
-Lors de l'établissement des rapports, il est demandé aux États membres de bien vouloir être brefs et concis, tout en fournissant de plus amples détails sur telle ou telle question lorsqu'ils le jugent nécessaire. Outre la description du cadre constitutionnel, législatif, administratif et politique mis en place aux fins de l'application des dispositions garanties par les instruments, ils doivent expliquer comment leurs dispositions législatives et leurs pratiques donnent effet à la Convention ou à la Recommandation.
+Lors de l'établissement des rapports, il est demandé aux États membres de bien vouloir être brefs et concis, tout en fournissant de plus amples détails sur telle ou telle question lorsqu'ils le jugent nécessaire. Outre la description du cadre constitutionnel, législatif, administratif et politique mis en
 
 > 1 Il est à noter que les rapports concernant l'application de la Recommandation de 1974 sur l'éducation pour la compréhension, la coopération et la paix internationales et l'éducation relative aux droits de l'homme  et  aux  libertés  fondamentales  servent  au  suivi  spécifique  de  la  cible  4.7.  La  consultation relative à la Convention et à la Recommandation de 1960 contribue de manière plus générale à la collecte de données aux fins du suivi de toutes les cibles de l'ODD 4.
 
@@ -54,13 +56,15 @@ Lors de l'établissement des rapports, il est demandé aux États membres de bie
 
 [[START OF PAGE 3]]
 
+place aux fins de l'application des dispositions garanties par les instruments, ils doivent expliquer comment leurs dispositions législatives et leurs pratiques donnent effet à la Convention ou à la Recommandation.
+
 ### 5. Modalités
 
 Afin  de  simplifier  les  principes  directeurs  tout  en  apportant  aux  États  membres  les  indications indispensables pour les guider dans la formulation de leurs réponses, il est proposé deux séries de questions/remarques :
 
-- Des  questions  ouvertes  ou  fermées  auxquelles  les  États  membres  sont  invités  à répondre  directement  à  l'issue  d'un  processus  participatif.  Veuillez  noter  qu'il  est possible, le cas échéant, de fournir des réponses multiples.
+(1) Des questions ouvertes ou fermées auxquelles les États membres sont invités à répondre directement à l'issue d'un processus participatif. Veuillez noter qu'il est possible, le cas échéant, de fournir des réponses multiples.
 
-- Des indications additionnelles visant à aider les États membres à mieux structurer et détailler  leurs  réponses  aux  questions  ouvertes  (y  compris  des  remarques  sur  la manière  de  répondre  efficacement  aux  questions  posées).  Ces  indications  sont  en italiques.
+(2) Des indications additionnelles visant à aider les États membres à mieux structurer et détailler leurs réponses aux questions ouvertes (y compris des remarques sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
 
 Les  États  membres  sont  encouragés  à  répondre  de  manière  concise,  tout  en  veillant  à  la substance et à la pertinence de leurs réponses.
 
@@ -78,9 +82,9 @@ BURKINA FASO
 
 Organisation(s)  ou  entité(s)  chargée(s)  de  l'établissement  du  rapport : Cabinet/  Ministère  de l'éducation  nationale,  de  l'alphabétisation  et  de  la  promotion  des  langues  nationales (MENAPLN)
 
-## Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'État au niveau national
+## I. Renseignements sur les mesures législatives, judiciaires, administratives ou autres prises par l'État au niveau national
 
-### Ratification de la Convention 2
+### 1. Ratification de la Convention 2
 
 Votre pays est-il un État partie à la Convention ?
 
@@ -114,7 +118,7 @@ http://portal.unesco.org/fr/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-### Ratification du Protocole 3 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
+### 2. Ratification du Protocole 3 instituant une Commission de conciliation et de bons offices chargée de rechercher la solution des différends qui naîtraient entre États parties à la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
 
 Votre pays a-t-il ratifié le Protocole ?
 
@@ -122,7 +126,7 @@ o Oui
 
 o X Non : veuillez exposer succinctement les difficultés rencontrées :
 
-### Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
+### 3. Cadre juridique régissant la protection des droits garantis par la Convention et la Recommandation dans le système juridique national
 
 #### Si votre pays est un État partie à la Convention :
 
@@ -186,15 +190,15 @@ Dans l'affirmative, le rapport pourrait énumérer les principaux textes qui ont
 
 Les informations fournies pourraient montrer en quoi ces politiques et programmes sont conformes  aux  engagements  en  faveur  du  droit  à  l'éducation  souscrits  au  titre  de  la Recommandation.
 
-## Renseignements concernant l'application de la Convention ou de la Recommandation
+## II. Renseignements concernant l'application de la Convention ou de la Recommandation
 
-### Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD 4)
+### 1. Non-discrimination et égalité des chances en matière d'éducation dans le cadre de l'Objectif de développement durable 4 (ODD 4)
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-Les articles / paragraphes 1(1), 2 et 3 de la Convention / Recommandation prévoient la nondiscrimination et l'égalité des chances en matière d'éducation. Cette partie porte sur l'objet principal  de  la  Convention/Recommandation, c'est-à-dire souligner l'obligation qui incombe aux États de proscrire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances en matière d'éducation.
+Les articles / paragraphes 1(1), 2 et 3 de la Convention / Recommandation prévoient la non-discrimination et l'égalité des chances en matière d'éducation. Cette partie porte sur l'objet principal de la Convention/Recommandation, c'est-à-dire souligner l'obligation qui incombe aux États de proscrire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances en matière d'éducation.
 
 Cette obligation correspond à l'ambition globale énoncée dans l'ODD 4, à savoir « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités  d'apprentissage  tout  au  long  de  la  vie » d'ici  à  2030.  Elle  couvre  donc l'ensemble des cibles de l'ODD 4, mais aussi, plus particulièrement, la cible 4.5 4 .
 
@@ -302,6 +306,8 @@ o x Adaptation de l'infrastructure
 
 [[START OF PAGE 10]]
 
+scolaire
+
 o x Mesures positives ou affirmatives
 
 o x Inclusion de tous les apprenants dans les écoles ordinaires
@@ -313,8 +319,6 @@ o x Mesures garantissant la parité des genres dans le domaine des sciences, de 
 o x Programmes de rescolarisation des jeunes mères
 
 o x Élimination de tous les obstacles empêchant l'accès à l'enseignement des filles enceintes et des jeunes mères
-
-scolaire
 
 o x Adaptation des programmes et des méthodes d'enseignement
 
@@ -412,7 +416,7 @@ L'éducation pré primaire n'est  pas gratuite au Burkina Faso.
 
 - Le PSEF dont un des objectifs est « d'accroitre le taux brut de scolarisation au préscolaire de 5,3% en 2016 à 25% en 2030 ».
 
-Les  principales  difficultés  au  niveau  du  préscolaire  sont  l'insuffisance  de  l'offre  en  éducation préscolaire. Par exemple sur la période de 2016-2019, au total, 294 salles de classe du préscolaire ont été construites et 395 moniteurs et éducateurs de jeunes enfants ont été recrutés. (Rapport à mi- parcours du Cadre sectoriel de dialogue éducation et formation, août 2020).
+Les principales difficultés au niveau du préscolaire sont l'insuffisance de l'offre en éducation préscolaire. Par exemple sur la période de 2016-2019, au total, 294 salles de classe du préscolaire ont été construites et 395 moniteurs et éducateurs de jeunes enfants ont été recrutés. (Rapport à mi-parcours du Cadre sectoriel de dialogue éducation et formation, août 2020).
 
 Des efforts restent à fournir afin d'augmenter l'offre en éducation préscolaire. La mise en œuvre de la stratégie  nationale  de  développement  accélérée  de  l'éducation  préscolaire  en  cours  d'élaboration contribuera à relever ce défi.
 
@@ -542,7 +546,7 @@ L'enseignement secondaire concerne les enfants et adolescents de douze (12) à s
 
 La durée des études secondaires obligatoires est de quatre (04) ans pour le cycle moyen. La tranche d''âge concernée est 12-16 ans.
 
-L'enseignement secondaire (cycle supérieur) non obligatoire, accueille les sortants du postprimaire  et est  sanctionné par un examen terminal pour l'accès à l'enseignement supérieur et à la vie professionnelle. Il comprend l'enseignement secondaire général, l'enseignement secondaire technique et professionnel. La tranche d''âge concernée est 16-18 ans.
+L'enseignement secondaire (cycle supérieur) non obligatoire, accueille les sortants du post-primaire et est sanctionné par un examen terminal pour l'accès à l'enseignement supérieur et à la vie professionnelle. Il comprend l'enseignement secondaire général, l'enseignement secondaire technique et professionnel. La tranche d''âge concernée est 16-18 ans.
 
 Vous pouvez aussi donner ci-dessous  des  informations  sur  les  difficultés  rencontrées  par votre  Gouvernement  dans  la  mise  en  œuvre  de  l'accès  à  l'enseignement  secondaire, éventuellement assorties de données quantitatives.
 
@@ -698,7 +702,7 @@ Réduire de moitié la population d'adultes analphabètes d'ici 2015 a constitu�
 
 [[START OF PAGE 19]]
 
-- è le Programme national d'accélération de l'Alphabétisation (PRONAA) 20112015 dont l'objectif global est d'accroître  le taux national d'alphabétisation de 28 ,7% en 2006 à 60% en 2015  dont  au moins 60 % de femmes ;
+- è le Programme national d'accélération de l'Alphabétisation (PRONAA) 2011-2015 dont l'objectif global est d'accroître le taux national d'alphabétisation de 28 ,7% en 2006 à 60% en 2015 dont au moins 60 % de femmes ;
 
 - è le  Programme  d'Alphabétisation/formation  en  faveur  des  adolescents, jeunes et adultes (PAFAJA) 2019-2024dont l'objectif global est de renforcer les capacités et les compétences des populations à travers une alphabétisation fonctionnelle de masse.
 
@@ -854,7 +858,7 @@ o Non o
 
 - è Loi  n°012-2010/AN du 1 er avril  2010  portant  protection  et  promotion  des  droits  des personnes handicapées dispose en son Article 9 que « L'éducation inclusive est garantie dans les établissements préscolaires, primaires, post-primaires, secondaires et universitaires du Burkina Faso ».
 
-- è Le  décret  2012-300/PRES  du  19  avril  2012  promulguant  la  loi  n°0022012/AN du 27 mars 2012 portant autorisation d'adhésion du Burkina Faso à  la  Convention  de  l'UNESCO  concernant  la  lutte  contre  la  discrimination dans  l'enseignement, adoptée par la conférence générale des Etats membres de l'UNESCO, en sa onzième session, le 14 décembre 1960 à Paris, en France.
+- è Le décret 2012-300/PRES du 19 avril 2012 promulguant la loi n°002-2012/AN du 27 mars 2012 portant autorisation d'adhésion du Burkina Faso à la Convention de l'UNESCO concernant la lutte contre la discrimination dans l'enseignement, adoptée par la conférence générale des Etats membres de l'UNESCO, en sa onzième session, le 14 décembre 1960 à Paris, en France.
 
 - è Le décret 2012-348 du 04 mai 2012 portant adhésion du Burkina Faso à la Convention de l'UNESCO concernant la lutte contre la discrimination dans l'enseignement, adoptée par la conférence générale des Etats membres de l'UNESCO,  en  sa  onzième  session,  le  14  décembre  1960  à  Paris,  en France.
 
@@ -1030,7 +1034,9 @@ o Sensibilisation accrue du public par des documents faisant la promotion de la 
 
 o Activités  entreprises  par  les  commissions  nationales  ou  avec  leur  concours  en  vue  de plaider  pour  la  non-discrimination  et  l'égalité  des  chances  en  matière  d'éducation  et  de susciter un débat sur les grandes questions concernant les droits énoncés dans les deux instruments
 
-- o Autres :
+o Autres :
+
+26
 
 [[END OF PAGE 26]]
 
