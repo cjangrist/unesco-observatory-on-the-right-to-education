@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ("the Convention") and the Recommendation against  Discrimination  in  Education  ("the  Recommendation"),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to "advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ("the Convention") and the Recommendation against Discrimination in Education ("the Recommendation"), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to "advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -98,9 +98,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 4]]
 
-- Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Member  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Member States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 4]]
 
@@ -116,7 +116,7 @@ Name of contact person: Alexandra Dimitrova - Head of the Department "Policies f
 
 Email and telephone number of contact person: al.dimitrova@mon.bg, +359 882 101 244
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -164,9 +164,9 @@ n/a
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -332,11 +332,11 @@ MES supports municipalities in fulfilling their obligation to provide safe and r
 
 √ Teachers are trained on inclusive education 16 and to value diversity
 
+√ Multiple and flexible learning pathways 17 are provided for
+
 > 16 Teachers are prepared to teach all students (beyond just students with disabilities), equipping them with knowledge, values and attitudes that allow every student to succeed. See: UNESCO policy paper : Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple  and  flexible  learning  pathways  are  'entry  points  and  re-entry  points  at  all  ages  and  all  educational  levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  competencies  acquired  through  non-formal  and  informal  education'  (  Education  2030 Framework for Action , para. 33). This may include student transfers between courses and institutions and various learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
-
-√ Multiple and flexible learning pathways 17 are provided for
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through non-formal and informal education' ( Education 2030 Framework for Action , para. 33). This may include student transfers between courses and institutions and various learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 13
 
@@ -354,17 +354,17 @@ MES supports municipalities in fulfilling their obligation to provide safe and r
 
 In Art. 32 - 32c of the Law on Vocational Education and Training Act (LVET) the following texts are written for students with special educational needs.
 
-- Art. 32. (1) For students with special educational needs, vocational education and vocational training is organized according to their respective disability.
+Art. 32. (1) For students with special educational needs, vocational education and vocational training is organized according to their respective disability.
 
-- Vocational education or vocational training is organized for students with sensory disabilities in professions or in a part of a profession, the training and exercise of which are suitable for their health condition.
+(2) Vocational education or vocational training is organized for students with sensory disabilities in professions or in a part of a profession, the training and exercise of which are suitable for their health condition.
 
-- Vocational training is organized for students with mental retardation in a part of a profession  or  in  professions  for  the  acquisition  of  the  first  degree  of  professional qualification.
+(3) Vocational training is organized for students with mental retardation in a part of a profession or in professions for the acquisition of the first degree of professional qualification.
 
-- Art.  32а.  Vocational  education  or  vocational  training  is  organized  for  students with chronic diseases and physical disabilities in professions or in a part of a profession, the training and practice of which are suitable for their health condition.
+Art. 32а. Vocational education or vocational training is organized for students with chronic diseases and physical disabilities in professions or in a part of a profession, the training and practice of which are suitable for their health condition.
 
-- Art. 32b. Vocational education and vocational training is provided for students from care homes for children deprived of parental care.
+Art. 32b. Vocational education and vocational training is provided for students from care homes for children deprived of parental care.
 
-- Art. 32c. Vocational education or vocational training in a profession or part of a profession is organized for students with deviant behavior in socio-pedagogical boarding schools and educational boarding schools.
+Art. 32c. Vocational education or vocational training in a profession or part of a profession is organized for students with deviant behavior in socio-pedagogical boarding schools and educational boarding schools.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -386,19 +386,21 @@ To ensure  the  right  to  education,  MES  implements  measures  in  three  mai
 
 For schools that work under more specific conditions, it is legally stipulated to be able to organize the learning process with a small number of pupils in a class. Such are protected schools, schools with a concentration of students from vulnerable groups and  schools  with  state-protected  occupational  specialties  and  with  occupational specialties in which there is an expected shortage of specialists on the labor market. These schools also receive additional funding from the state budget in order to ensure their activities and to guarantee the right to education for every child - Art. 282, para. 14 of the LPSE.
 
-The Erasmus+ Program offers flexible study paths and funding opportunities for  mobility  project  activities.  The  implementation  of  projects  related  to  nondiscrimination in education is encouraged.
+The Erasmus+ Program offers flexible study paths and funding opportunities for mobility project activities. The implementation of projects related to non-discrimination in education is encouraged.
 
 Through Key Action 1 Educational mobility for citizens, educational mobility projects  promote  transnational  mobility  for  the  purpose  of  training  or  practice  of learners and staff in the fields of school education, vocational education and training, adult education, higher education and youth.
 
 Through Key Activity 2 Cooperation between organizations and institutions , activities  related  to  international  cooperation  and  increasing  the capacity of partner countries,  the  development,  transfer  and/or  implementation  of  innovative  practices and/or educational products at organizational, local, national or European level are supported, as well as joint initiatives, exchange of experience and the achievement of common long-term goals.
 
-The suitable applicants for financing under Key Activity 1 can be: schools state,  municipal,  private  or  religious;  independent  nurseries;  kindergartens  -  state, municipal  or  private;  personal  development  support  centers,  including  centers  for special educational support; specialized service units; regional centers for supporting the  process  of  inclusive  education,  vocational  high  schools,  vocational  secondary schools,  vocational  colleges,  including  private  vocational  colleges  in  secondary education,  as  well  as  centers  for  special  educational  support;  vocational  training centers (providing vocational training to persons over the age of 16); national agency for vocational education and training; organizations providing formal, non-formal and independent education for adults; local and regional public authorities; coordination bodies and other organizations with a role in the field of adult education - public body at local, regional or national level working in the field of non-professional education for adults (adult education organization); regional administrations of education; trade union  organizations; employer  organizations;  cultural  institutions  -  community centers; vocational training centers. All information can be found on the website of the Human Resources Development Center, which manages the largest European program for education, training, youth and sports "Erasmus +" - https://hrdc.bg/
+The suitable applicants for financing under Key Activity 1 can be: schools -
 
 15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+state, municipal, private or religious; independent nurseries; kindergartens - state, municipal or private; personal development support centers, including centers for special educational support; specialized service units; regional centers for supporting the process of inclusive education, vocational high schools, vocational secondary schools, vocational colleges, including private vocational colleges in secondary education, as well as centers for special educational support; vocational training centers (providing vocational training to persons over the age of 16); national agency for vocational education and training; organizations providing formal, non-formal and independent education for adults; local and regional public authorities; coordination bodies and other organizations with a role in the field of adult education - public body at local, regional or national level working in the field of non-professional education for adults (adult education organization); regional administrations of education; trade union organizations; employer organizations; cultural institutions - community centers; vocational training centers. All information can be found on the website of the Human Resources Development Center, which manages the largest European program for education, training, youth and sports "Erasmus +" - https://hrdc.bg/
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
@@ -426,19 +428,7 @@ Additional funds are provided from the state budget for working with children an
 
  Other:
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-The  educational  process  in  the  preschool  and  school  education  system,  in accordance with Art. 3 of the LPSE is implemented in accordance with the principles of equal access to quality education and the inclusion of every child and every student, equality  and  non-discrimination  in  preschool  and  school  education,  humanism  and tolerance.
-
-Equality and the non-admission of discrimination based on gender are regulated in  the  Constitution  of  the  Republic  of  Bulgaria  in  Art.  6,  para.  2;  in  the  Law  on Protection from Discrimination in Art. 4, para. 1; in the provisions of Art. 3 and in Art. 4 of the Law on Higher Education.
-
-> 19 'Stigmatisation  is  the  act  of  treating  someone  or  something  unfairly  by  publicly  disapproving  of  them'  (Cambridge Dictionary).
-
-> 20 'Gender-sensitive sanitation includes  clean,  safe  and  separate  toilets,  with  access  to  water  and  garbage  disposal'  ( UNGEI blog post , Gender-sensitive sanitation, 2018)
-
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
-
-√ All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
+√ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
  Re-entry programs for young mothers are provided for
 
@@ -449,6 +439,18 @@ Equality and the non-admission of discrimination based on gender are regulated i
 √ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
 √ Ensuring gender parity in technical and vocational training education and training (TVET)
+
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+The educational process in the preschool and school education system, in accordance with Art. 3 of the LPSE is implemented in accordance with the principles of equal access to quality education and the inclusion of every child and every student, equality and non-discrimination in preschool and school education, humanism and tolerance.
+
+Equality and the non-admission of discrimination based on gender are regulated in the Constitution of the Republic of Bulgaria in Art. 6, para. 2; in the Law on Protection from Discrimination in Art. 4, para. 1; in the provisions of Art. 3 and in Art. 4 of the Law on Higher Education.
+
+> 19 'Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
+
+> 20 'Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' ( UNGEI blog post , Gender-sensitive sanitation, 2018)
+
+> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
 17
 
@@ -464,7 +466,7 @@ During  the  implementation  of  the  activities  for  coverage,  retention  and
 
 Reasons  for  dropping  out  of  children  and  students  in  compulsory  preschool  and school age, reflected by the scope teams in the information system for the implementation of the Mechanism for the period from the beginning of the 2023/2024 academic year to the beginning of the second academic term, are:
 
-- cultural reasons - reluctance, lack of commitment and support on the part of parents and family, the presence of the child in kindergarten or school is not ensured 27.49 %;
+- cultural reasons - reluctance, lack of commitment and support on the part of parents and family, the presence of the child in kindergarten or school is not ensured - 27.49 %;
 
 - dropped out due to unjustified absences - 7.9%;
 
@@ -508,14 +510,6 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Other 23 :
 
-> 22 Please  note  that  according  to  the  Joint  general  recommendation  No.  31  of  the  Committee  on  the  Elimination  of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practices, para. 20: "a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
-
-> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
-
-> 24 Supra note 15.
-
-> 25 Supra note 16.
-
 √ Teachers are trained on intercultural education
 
 √ Teachers are trained to combat stigmatisation 24
@@ -527,6 +521,14 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 √ Adapting curricula and teaching and learning methods to their needs for national minorities
 
 √ Curricula are rid of all stereotypes 25 and bias
+
+> 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practices, para. 20: "a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.”
+
+> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+
+> 24 Supra note 15.
+
+> 25 Supra note 16.
 
 19
 
@@ -540,7 +542,7 @@ According to Art. 76, para. 1, para. 7 of the LPSE curricula have been created a
 
 To help children and students from minority groups, the website of the MES has a separate heading "Inclusive education" and a sub-heading "Educational integration of children and students from ethnic minorities".
 
-link:  https://www.mon.bg/dyasno-menyu/priobshtavashto-obrazovanie/podkrepa-zalichnostno-razvitie-na-deczata-i-ucheniczite/obrazovatelna-integratsiya-na-detsa-iuchenitsi-ot-etnicheskite- maltsinstva/
+link: https://www.mon.bg/dyasno-menyu/priobshtavashto-obrazovanie/podkrepa-za-lichnostno-razvitie-na-deczata-i-ucheniczite/obrazovatelna-integratsiya-na-detsa-i-uchenitsi-ot-etnicheskite-maltsinstva/
 
 ###### Strategic documents:
 
@@ -610,7 +612,7 @@ n/a
 
  All administrative barriers to access education are removed
 
- A lternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29 are provided for
+ Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29 are provided for
 
 √ Teachers are specifically trained to ensure their inclusion
 
@@ -662,7 +664,7 @@ The  acceptance  and  training  of  persons  seeking  or  granted  protection  i
 
 - Ordinance No. 10 on the organization of activities in school education - the changes in this normative act were made in 2022 and regulate the admission of students from  Ukraine  who  have  Bulgarian  citizenship,  but  do  not  have  a  document  for  a completed class, stage or degree of education.
 
-According to Art. 17 of the LPSE (1) children and students of compulsory preschool  and  school  age  residing  in  the  country,  regardless  of  their  citizenship,  are provided free education in the Bulgarian language under the conditions and according to  the  order  specified  in  the  state  educational  standard  for  the  acquisition  of  the Bulgarian written language and in the state educational standard for the financing of institutions.
+According to Art. 17 of the LPSE (1) children and students of compulsory pre-school and school age residing in the country, regardless of their citizenship, are provided free education in the Bulgarian language under the conditions and according to the order specified in the state educational standard for the acquisition of the Bulgarian written language and in the state educational standard for the financing of institutions.
 
 (2)  Students  of  compulsory  school  age  residing  in  the  country,  whose  parents  are citizens of other member states and work in the territory of the Republic of Bulgaria, are also provided with training in their mother tongue and culture in cooperation with the countries of origin under conditions and order determined by the state educational standard for the organization of activities in school education.
 
@@ -722,14 +724,6 @@ In order to assist Ukrainian citizens on the territory of Bulgaria for admission
 
  Other
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-The  system  of  preschool  and  school  education  in  the  Bulgarian  institutions  has assigned  psychologists,  pedagogical  advisers,  special  pedagogues,  resource  teachers, speech therapists, teachers of visually impaired pupils, hearing and speech rehabilitators of hearing impaired pupils, social workers, teacher's assistants and other specialists who provide support for the personal development of children and pupils, which support is regulated in the Law on Preschool and School Education and the Ordinance on Inclusive Education.
-
-> 33 Supra note 15.
-
-> 34 Supra note 16.
-
 √ Mainstream teachers are specifically trained on disabilities
 
 √ Teachers are trained to combat stigmatisation 33
@@ -741,6 +735,14 @@ The  system  of  preschool  and  school  education  in  the  Bulgarian  institut
 √ Curricula are rid of all stereotypes 34 and bias
 
 √ Education infrastructure and learning materials are adapted
+
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+The system of preschool and school education in the Bulgarian institutions has assigned psychologists, pedagogical advisers, special pedagogues, resource teachers, speech therapists, teachers of visually impaired pupils, hearing and speech rehabilitators of hearing impaired pupils, social workers, teacher's assistants and other specialists who provide support for the personal development of children and pupils, which support is regulated in the Law on Preschool and School Education and the Ordinance on Inclusive Education.
+
+> 33 Supra note 15.
+
+> 34 Supra note 16.
 
 [[END OF PAGE 24]]
 
@@ -786,9 +788,9 @@ The regional teams at the regional centers to support the inclusive education pr
 
 support;
 
-- proposes  and  organizes,  if  necessary,  the  provision  of  methodological  support  for working with children and pupils with special educational needs at kindergartens, schools and personal development support centers;
+3. proposes  and  organizes,  if  necessary,  the  provision  of  methodological  support  for working with children and pupils with special educational needs at kindergartens, schools and personal development support centers;
 
-- informs  parents  about  the  possibilities  for  continuing  education  or  acquiring  a professional qualification for pupils with special educational needs after the VII and X grade.
+4. informs  parents  about  the  possibilities  for  continuing  education  or  acquiring  a professional qualification for pupils with special educational needs after the VII and X grade.
 
 Exceptionally, when the goals of education cannot be achieved in any other way for the support and training of children and pupils for whom the assessment of individual needs has established that, in accordance with their educational needs, they should be educated in a center for special educational support or in special groups after the expressed wish  of  the  parent  and  opinion  of  the  regional  center  for  supporting  the  process  of inclusive education, at the suggestion of the team in the kindergarten or school, outside support is organized.
 
@@ -806,7 +808,7 @@ The groups and classes are organized by order of the director of the relevant ce
 
 To help children and students with special educational needs, the website of MES has  a  section  "Inclusive  education"  and  a  sub-section  "Support  for  the  personal development of children and students".
 
-link: https://www.mon.bg/dyasno-menyu/priobshtavashto-obrazovanie/podkrepaza-lichnostno-razvitie-na-deczata-i-ucheniczite/obrazovatelna-integratsiya-na-detsa-iuchenitsi-ot-etnicheskite- maltsinstva/
+link: https://www.mon.bg/dyasno-menyu/priobshtavashto-obrazovanie/podkrepa-za-lichnostno-razvitie-na-deczata-i-ucheniczite/obrazovatelna-integratsiya-na-detsa-i-uchenitsi-ot-etnicheskite-maltsinstva/
 
 Students with special educational needs are provided with more time to take the National  External  Assessment  (NEA)  and  State  Matriculation  Examinations  (SME) exams - Ordinance on Inclusive Education, Art. 107, para. 1 and 2.
 
@@ -822,7 +824,7 @@ An essential measure is the adoption and implementation of the Law on Bulgarian 
 
 [[START OF PAGE 28]]
 
-- Adaptation, standardization and approval for competence in Bulgarian sign language in  accordance  with  the  current  common  European  language  framework:  learning, teaching, assessment
+2. Adaptation, standardization and approval for competence in Bulgarian sign language in  accordance  with  the  current  common  European  language  framework:  learning, teaching, assessment
 
 - Methodology  for  training  in  Bulgarian  sign  language,  consistent  with  the  European language framework (for trainers, teachers, parents).
 
@@ -834,23 +836,23 @@ In the exercise of the right to education, reliefs are provided for in the Law o
 
 According  to  Art.  68.  para.3  under  reduced  conditions  and  in  accordance  with  the procedure  determined  by  the  regulations  for  the  activities  of  the  higher  education institution,  the  following  candidate  students  who  successfully  participated  in  the competitive exams are admitted:
 
-- persons with permanent disabilities and reduced working capacity of 70 and over 70 percent;
+2. persons with permanent disabilities and reduced working capacity of 70 and over 70 percent;
 
-- war disabled and war injured;
+3. war disabled and war injured;
 
-- orphans;
+4. orphans;
 
-- mothers with three or more children.
+5. mothers with three or more children.
 
 According to Art. 70. para. 2 students, doctoral students and specialists - orphans, people with  sensory  disabilities  and  others  with  permanent  disabilities  and  reduced  working capacity of 70 and over 70 percent, military disabled, and war victims and persons who, at  the  time  of  reaching  the  age  of  majority,  have  a  measure  of  protection  taken  in accordance with the Child Protection Act - placement in a foster family, social service of a residential type or a specialized institution, mothers with children up to 6 years of age and those with dispensaries are entitled to special reliefs, regulated in the rules of the higher education institution.
 
 According to Art. 95. para.7 the following are exempted from paying fees in public higher education institutions:
 
-- persons who are orphans;
+1. persons who are orphans;
 
-- persons with permanent disabilities and reduced working capacity of 70 and over 70 percent; orphans;
+2. persons with permanent disabilities and reduced working capacity of 70 and over 70 percent; orphans;
 
-- war disabled and war injured;
+3. war disabled and war injured;
 
 [[END OF PAGE 28]]
 
@@ -870,27 +872,29 @@ According to Art. 95. para.7 the following are exempted from paying fees in publ
 
  Other:
 
+√ Teachers are trained to combat stigmatisation 35
+
+√ Curricula are rid of all stereotypes 36 and bias
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-Students from poor households receive scholarships provided by the school budget. Pursuant  to  Decree  of  the  Council  of  Ministers  No.  328/2017  on  the  terms  and conditions  for  students  to  receive  scholarships  after  completing  primary  education  in Article 4. para.1 it is recorded that the monthly stipends are for:
+Students from poor households receive scholarships provided by the school budget.
 
-- achieved educational results;
+Pursuant  to  Decree  of  the  Council  of  Ministers  No.  328/2017  on  the  terms  and conditions  for  students  to  receive  scholarships  after  completing  primary  education  in Article 4. para.1 it is recorded that the monthly stipends are for:
 
-- supporting access to education and preventing dropout;
+1. achieved educational results;
 
-- supporting students with permanent disabilities;
+2. supporting access to education and preventing dropout;
 
-- students without parents.
+3. supporting students with permanent disabilities;
+
+4. students without parents.
 
 para.2 The school may also grant monthly scholarships to students with only one parent on the proposal of a school committee.
 
 > 35 Supra note 15.
 
 > 36 Supra note 16.
-
-√ Teachers are trained to combat stigmatisation 35
-
-√ Curricula are rid of all stereotypes 36 and bias
 
 29
 
@@ -930,9 +934,9 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 √ Prior to pre-primary education, ECCE services are affordable
 
-√ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+√ ECCE services are accessible on a non-discriminatory basis
 
-√ ECCE services are accessible on a nondiscriminatory basis
+√ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -984,21 +988,21 @@ n/a
 
 Difficulties related to care and education in early childhood care are ensuring access, full coverage  and  permanent  inclusion  of  children  from  families  whose  mother  tongue  is  not Bulgarian.
 
-According  to  Art.  8,  para.  1  of  the  Ordinance  on  Inclusive  Education  "The  early assessment of the needs of support for the personal development of children is carried out in the process  of  preschool  education.  The  early  assessment  is  carried  out  by  the  pedagogical specialists in the kindergarten.' According to Art. 8, para. 3 of the Ordinance early assessment of the needs of support for personal development of children in kindergarten includes:
+According  to  Art.  8,  para.  1  of  the  Ordinance  on  Inclusive  Education  "The  early assessment of the needs of support for the personal development of children is carried out in the process  of  preschool  education.  The  early  assessment  is  carried  out  by  the  pedagogical specialists in the kindergarten.” According to Art. 8, para. 3 of the Ordinance early assessment of the needs of support for personal development of children in kindergarten includes:
 
-- early assessment of the child's development and the risk of learning difficulties;
+1. early assessment of the child's development and the risk of learning difficulties;
 
-- additional modules for children who do not speak Bulgarian;
+2. additional modules for children who do not speak Bulgarian;
 
-- determination  of  the  need  to  carry  out  an  assessment  by  a  personal  development support  team  of  the  individual  needs  for  providing  additional  support  for  the  personal development of the child in case of:
+3. determination  of  the  need  to  carry  out  an  assessment  by  a  personal  development support  team  of  the  individual  needs  for  providing  additional  support  for  the  personal development of the child in case of:
 
-- difficulties in the child's physical, cognitive, linguistic, social, sensory, emotional and creative development compared to children of the same age group;
+a) difficulties in the child's physical, cognitive, linguistic, social, sensory, emotional and creative development compared to children of the same age group;
 
-- presence of risk factors and circumstances in the child's environment;
+b) presence of risk factors and circumstances in the child's environment;
 
-- presence  of  chronic  diseases  that  hinder  the  child's  education  and  inclusion  in  the activities of the kindergarten;
+c) presence  of  chronic  diseases  that  hinder  the  child's  education  and  inclusion  in  the activities of the kindergarten;
 
-- presence of pronounced strengths of the child in the field of arts and sports.
+d) presence of pronounced strengths of the child in the field of arts and sports.
 
 The early assessment of the child's development and the risk of the occurrence of learning difficulties (whether there are indications of the occurrence of learning difficulties or not) is carried out for children from 3 years to 3 years and 6 months when the child enters kindergarten for the first time. The assessment is carried out by screening to determine the risk of learning
 
@@ -1050,11 +1054,13 @@ In terms of securing places in kindergartens, there are difficulties in only a f
 
 For  7  years,  there  is  an  established  and  functioning  interdepartmental Mechanism for the coverage of children and students, which ensures that there are no  children  and  students  who  are  not  covered  and  who  have  dropped  out  of  the education  system.  Teams  are  working,  including  specialists  from  kindergartens, schools,  regional  departments  of  education,  municipalities,  the  Ministry  of  the Interior,  the  State  Agency  for  Child  Protection.  The  help  of  mediators  is  used. Measures for inclusion, support and retention in the system are applied.
 
-Additional funds are provided from the state budget for working with children and students from vulnerable groups, i.e. children whose parents have low education or no education. The funds can be used to pay for salaries for employees included in the teams for the inclusion and retention in the education system of children and students of compulsory preschool and school age, for paying for additional lessons in Bulgarian in schools and for additional modules for children, who do not speak Bulgarian, in kindergartens, as well as for personnel engaged in measures to support access  to  education  and  prevent  the  risk  of  dropping  out  of  the  system.  More information is presented on page 15.
+Additional funds are provided from the state budget for working with children and students from vulnerable groups, i.e. children whose parents have low education
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
+or no education. The funds can be used to pay for salaries for employees included in the teams for the inclusion and retention in the education system of children and students of compulsory preschool and school age, for paying for additional lessons in Bulgarian in schools and for additional modules for children, who do not speak Bulgarian, in kindergartens, as well as for personnel engaged in measures to support access  to  education  and  prevent  the  risk  of  dropping  out  of  the  system.  More information is presented on page 15.
 
 Over 75,000 parents and children in kindergartens and nursery groups will receive  support  under  the  "Strong  Start"  project,  financed  under  the  "Education" program - 2021-2027, co-financed by the EU, which is implemented by the MES. One of its  main  goals  is  to  develop  the  potential  in  preschool  education  through support for personal development with a view to more successful social realization. The focus will also be on access and permanent inclusion of children in pre-school education  in  order  to  reduce  the  number  of  dropouts  from  the  education  system. Already at the kindergarten or nursery level, children will be included in additional training, interest-based  activities, sports  activities, activities  related  to  nature conservation, etc. Through various initiatives and events, parents will be actively involved  in  the  process  of  preschool  education  and  in  the  life  of  the  educational institution.  Intensive  interaction  with  parents  will  be  implemented  at  the  level  of kindergarten and nursery groups and at the school level with groups for compulsory preschool  education  in  order  to  form  positive  attitudes  towards  education  and towards the full participation of children in the educational process. Training for over 3,500  pedagogical  specialists  and  non-pedagogical  staff  (mediators  and  social workers)  who  provide  expert  methodical  assistance  in  personal  development activities is also planned.
 
@@ -1080,7 +1086,7 @@ According to Art. 8, paragraphs 2, 3, 4 of the LPSE (2) School education is mand
 
 According to Art. 73 of the LPSE: (1) According to the degree the school education is primary and secondary; (2) Schooling for the acquisition of primary education is carried out from I to VII grade inclusively in two stages, as follows: 1. elementary school - from I to IV grade inclusive (4 years) , and 2. junior high school - from V to VII grade inclusive (3 years) .
 
-According to Art. 47 and Art. 50 of Ordinance No. 11 of September 1, 2016 for evaluating the results of students' training , national external assessment (NEA) in the form of  a  test  is  conducted  at  the  end  of  the  primary  stage,  in  the  IV  grade,  in  two  subjects  Bulgarian language and Literature and Mathematics.
+According to Art. 47 and Art. 50 of Ordinance No. 11 of September 1, 2016 for evaluating the results of students' training , national external assessment (NEA) in the form of  a  test  is  conducted  at  the  end  of  the  primary  stage,  in  the  IV  grade,  in  two  subjects - Bulgarian language and Literature and Mathematics.
 
 According  to  Art.  129.  (1)  students  who  have  completed  their  studies  in  grade  IV receive a certificate of completion of the initial stage of primary education.
 
@@ -1152,11 +1158,13 @@ With funding of BGN 151,123,000, the schools will be able to support nearly 100,
 
 - Please elaborate. Brief quantitative information may be added.
 
-In 2022, the Center for Educational Integration of Children and Students from Ethnic Minorities (CEICSEM) completed the implementation of the National Program "Supporting municipalities to implement activities for educational desegregation  and  prevention  to  prevent  secondary  segregation"  for  the  2022/2023 academic year and began the implementation of the National Program "Supporting Municipalities  for  Educational  Desegregation"  for  the  2023/2024  school  year.  The national program for 2023 has a total budget of BGN 500,000.
+In 2022, the Center for Educational Integration of Children and Students from Ethnic Minorities (CEICSEM) completed the implementation of the National Program "Supporting municipalities to implement activities for educational desegregation  and  prevention  to  prevent  secondary  segregation"  for  the  2022/2023 academic year and began the implementation of the National Program "Supporting
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+Municipalities  for  Educational  Desegregation"  for  the  2023/2024  school  year.  The national program for 2023 has a total budget of BGN 500,000.
 
 In this regard, it should be noted that the term "educational segregation" refers to the ethnic segregation of educational institutions (kindergartens and schools) located within the Roma neighborhoods or close to them and is entirely a working term aimed at to overcome certain processes that are the result of the aspiration of certain communities over time to separate their ethno-cultural territories within the framework of large cities. This working term does not and has never described legally established norms limiting the Roma ethnicity in any way. Ethnic origin cannot and should not be seen as a sign of vulnerability or to put some Bulgarian citizens at  a disadvantage compared to other Bulgarian citizens.
 
@@ -1188,11 +1196,11 @@ Students continue their education in the first high school stage, being able to 
 
 Art. 74 of the LPSE (1) According to the preparation, school education is general, profiled and vocational.
 
-- General education is carried out mainly through schooling for the acquisition of general education and advanced training.
+(2) General education is carried out mainly through schooling for the acquisition of general education and advanced training.
 
-- Profiled  education  is  carried  out  at  the  secondary  level  through  the  general education  and  extended  training  -  in  the  first  high  school  stage,  and  through  the  general education and profiled training - in the second high school stage, where it can also be carried out through the extended training.
+(3) Profiled  education  is  carried  out  at  the  secondary  level  through  the  general education  and  extended  training  -  in  the  first  high  school  stage,  and  through  the  general education and profiled training - in the second high school stage, where it can also be carried out through the extended training.
 
-- Vocational education takes place at the secondary level - in the first and second high  school  stage,  through  general  education  and  professional  training.  It  can  also  be supplemented by advanced training.
+(4) Vocational education takes place at the secondary level - in the first and second high  school  stage,  through  general  education  and  professional  training.  It  can  also  be supplemented by advanced training.
 
 [[END OF PAGE 40]]
 
@@ -1204,7 +1212,7 @@ According to Art. 73, para.3 of the LPSE schooling for the acquisition of second
 
 The age of students in class VIII is 14 years.
 
-According to Art. 47 and Art. 52 of Ordinance No. 11 of September 1, 2016 for evaluating the results of students' education, national external assessment (NEA) in the form of a test is conducted at the end of the first high school stage, in class X, in two subjects Bulgarian language and Literature and Mathematics. In addition to the mandatory exams, students may, at their own discretion, also take exams - on the subject of foreign language English, French, German, Italian, Spanish, Russian, studied in the compulsory school hours, which measure the degree of achievement of individual language competences in the field in the foreign language, and/or in the subject of information technology, through which the degree of achievement of individual key competences in the field of digital competences is measured.
+According to Art. 47 and Art. 52 of Ordinance No. 11 of September 1, 2016 for evaluating the results of students' education, national external assessment (NEA) in the form of a test is conducted at the end of the first high school stage, in class X, in two subjects - Bulgarian language and Literature and Mathematics. In addition to the mandatory exams, students may, at their own discretion, also take exams - on the subject of foreign language - English, French, German, Italian, Spanish, Russian, studied in the compulsory school hours, which measure the degree of achievement of individual language competences in the field in the foreign language, and/or in the subject of information technology, through which the degree of achievement of individual key competences in the field of digital competences is measured.
 
 According to Art. 131 of the LPSE students receive a certificate of completion of the first high school stage of secondary education, which gives them the right to continue their studies in the second high school stage of secondary education and to study for the acquisition of a professional qualification.
 
@@ -1278,7 +1286,7 @@ The  Labor  Code  regulates  the  conditions  for  concluding  an  employment co
 
 The  training  contract  for  the  dual  system  determines  the  form,  place  and duration of the training, as well as other issues related to the implementation of the training. In the dual system, the duration of the training is determined according to the curricula according to which the student is trained.
 
-The employment contract with the condition of training students in the dual system is concluded subject to compliance with the conditions for special protection of minors, regulated in Chapter Fifteen of the Labor Code. According to this protection, the employment of persons under 16 years of age is prohibited. Students who have reached  the  age  of  16  are  accepted  for  work  after  a  thorough  preliminary  medical examination and a medical conclusion that they are fit to perform the relevant work. For these students, there must also be a permit from the labor inspectorate on a caseby-case basis.
+The employment contract with the condition of training students in the dual system is concluded subject to compliance with the conditions for special protection of minors, regulated in Chapter Fifteen of the Labor Code. According to this protection, the employment of persons under 16 years of age is prohibited. Students who have reached  the  age  of  16  are  accepted  for  work  after  a  thorough  preliminary  medical examination and a medical conclusion that they are fit to perform the relevant work. For these students, there must also be a permit from the labor inspectorate on a case-by-case basis.
 
 - What challenges were encountered in achieving secondary education?
 
@@ -1298,7 +1306,7 @@ Efforts in the field of pre-school and school education, and more specifically t
 
 - Please elaborate. Brief quantitative information may be added.
 
-The PISA survey is conducted once every 3 years, and the last survey for which data has been published was conducted in the period 21 March - 22 April 2022. The results of the survey were published on 5 th December, 2023, according to which the proportion of 15-year-olds with low achievements in the 3 subjects of the research is:
+The PISA survey is conducted once every 3 years, and the last survey for which data has been published was conducted in the period 21 March - 22 April 2022. The results of the survey were published on 5th December, 2023, according to which the proportion of 15-year-olds with low achievements in the 3 subjects of the research is:
 
 Reading - 52.9% against an EU average of 22.5%;
 
@@ -1364,17 +1372,17 @@ According  to  Art.  8  of  the  Law  on  Higher  Education,  the  state  create
 
  Poor learning outcomes
 
+ Other:
+
  Low number of professionally trained professors
 
  Insufficient mechanisms to ensure smooth transition from secondary to tertiary
-
- Other:
 
 There is low number of university graduates aged 25-34.
 
 In the carried-out Analysis of Bulgaria's progress towards the implementation of the UN Sustainable Development Goals, the relative share of the population aged 25-34 with  completed  higher  education  in  Bulgaria  for  2022  is  33.8%,  which  is  below  the average for EU (42.0 %).
 
-For  2023,  an  improvement  in  the  index  is  observed.  According  to  National Statistical Institute data as of 15 th March, 2024, it is 35.8%, with the relative share of male graduates being 28.7% and female graduates being 43.3%.
+For  2023,  an  improvement  in  the  index  is  observed.  According  to  National Statistical Institute data as of 15th March, 2024, it is 35.8%, with the relative share of male graduates being 28.7% and female graduates being 43.3%.
 
 Due to the predominance of small and medium-sized enterprises in the national economy, there are difficulties in consolidating general requirements for curricula.
 
@@ -1390,7 +1398,7 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 [[START OF PAGE 48]]
 
-Furthermore, under target 4.4, states are called "to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.'
+Furthermore, under target 4.4, states are called "to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.”
 
 - Please  indicate  the  measures  taken  to  establish  a  system  of  continuing  education  and  equitable access to learning and training opportunities (several items may be ticked):
 
@@ -1456,7 +1464,7 @@ One  of  the  challenges  in  adult  education  is  the  low  number  of  profes
 
 - Please elaborate. Brief quantitative information may be added.
 
-According to National Statistics Institute data as of 15 th March, 2024, the relative share of the population (aged 25-64) participating in education and training in 2023 is 1.4%, including: men - 1.3 % and women - 1.6 %.
+According to National Statistics Institute data as of 15th March, 2024, the relative share of the population (aged 25-64) participating in education and training in 2023 is 1.4%, including: men - 1.3 % and women - 1.6 %.
 
 ### 3. Quality education provision and learning environment
 
@@ -1558,15 +1566,17 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please elaborate on each of the measures taken:
 
-The implementation of the main priorities in the national policy regarding the qualification of teachers, together with other policies of the Ministry of Education and Science, contribute to increasing the authority and social status of pedagogical specialists.
+The implementation of the main priorities in the national policy regarding the qualification of teachers, together with other policies of the Ministry of Education
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
 
+and Science, contribute to increasing the authority and social status of pedagogical specialists.
+
 The main measure to increase the social status of teachers is the income policy - the increase in the remuneration of pedagogical specialists.
 
-The  main  emphasis  is  on  raising  the  social  status  of  the  Bulgarian  teacher, providing  conditions  for  qualification  and  career  development  of  pedagogical specialists  and  providing  the  educational  system  with  motivated  teachers.  In  this regard, the measures to maintain the level of teachers' salaries at 125% of the average remuneration in the country, to update the salaries of principals and other specialists in  the  school  system,  to  raise  the  salaries  of  those  working  in  kindergartens  and nurseries  (pedagogical  staff  and  specialists,  assistant  educators  and  other  nonpedagogical staff) are all essential. Pursuant to the Collective Labor Agreement for the system of preschool and school education, signed on 28.12.2023 by the Minister of Education and Science and social partners, teacher salaries have been increased by 8.4%, starting from 01.01.2024. The minimum basic salary of teachers and all other pedagogical specialists -resource teachers, educators, heads of the "Information  and  Communication  Technologies"  department,  speech  therapists, psychologists,  pedagogical  advisors,  tutors,  choreographers,  hearing  and  speech rehabilitators and sports coaches in schools and kindergarten costs 1,853 BGN. The minimum basic salary for senior teachers and senior educators becomes BGN 1911, and for head teachers and head educators - BGN 1985. The increase covers more than  92,000  teachers  working  in  state  and  municipal  educational  institutions. Measures aimed at increasing the income of pedagogical specialists contribute to increasing the prestige of the teaching profession.
+The main emphasis is on raising the social status of the Bulgarian teacher, providing conditions for qualification and career development of pedagogical specialists and providing the educational system with motivated teachers. In this regard, the measures to maintain the level of teachers' salaries at 125% of the average remuneration in the country, to update the salaries of principals and other specialists in the school system, to raise the salaries of those working in kindergartens and nurseries (pedagogical staff and specialists, assistant educators and other non-pedagogical staff) are all essential. Pursuant to the Collective Labor Agreement for the system of preschool and school education, signed on 28.12.2023 by the Minister of Education and Science and social partners, teacher salaries have been increased by 8.4%, starting from 01.01.2024. The minimum basic salary of teachers and all other pedagogical specialists - resource teachers, educators, heads of the "Information and Communication Technologies" department, speech therapists, psychologists, pedagogical advisors, tutors, choreographers, hearing and speech rehabilitators and sports coaches in schools and kindergarten costs 1,853 BGN. The minimum basic salary for senior teachers and senior educators becomes BGN 1911, and for head teachers and head educators - BGN 1985. The increase covers more than 92,000 teachers working in state and municipal educational institutions. Measures aimed at increasing the income of pedagogical specialists contribute to increasing the prestige of the teaching profession.
 
 Dynamic changes in the public environment require a change in the role and competences of pedagogical specialists through continuous improvement of qualifications in the pedagogical and specific subject area.
 
@@ -1585,7 +1595,7 @@ For the period 2021 - 2024, the Decision of the Council of Ministers approved na
 ##### National program "Qualification" 2021
 - trained pedagogical specialists and participants  in  conferences  -  a  total  of  8041,  of  them  60  participants  in  one-year trainings to acquire an additional professional qualification "teacher of religion".
 
-##### National Program 'Motivated Teachers' 2021
+##### National Program "Motivated Teachers" 2021
 
 Module 1 "Activities aimed at teachers new to the system (with or without acquired professional qualification "teacher") with a view to providing pedagogical specialists in schools with a permanent shortage of such" - a total of 94 participants;
 
@@ -1609,21 +1619,21 @@ Module 4 "Continuing qualification for teachers, principals and other pedagogica
 
 ##### National Program "Qualification of Pedagogical Specialists" 2023
 
-Module  "Support  of  newly  appointed  teachers  and  principals  and  continuing qualification to increase the competences  of teachers, principals and other pedagogical specialists' - trained 7,032 pedagogical specialists;
+Module "Support of newly appointed teachers and principals and continuing qualification to increase the competences of teachers, principals and other pedagogical specialists" - trained 7,032 pedagogical specialists;
 
-Module "Acquisition of professional qualification "teacher of...", as an additional professional  qualification  of  teachers  employed  in  the  preschool  and  school education system' - 77 teachers included;
+Module "Acquisition of professional qualification "teacher of...", as an additional professional qualification of teachers employed in the preschool and school education system" - 77 teachers included;
 
 Module "International cooperation in the field of the qualification of pedagogical specialists  -  training  under  international  agreements  for  teacher  training"  -  76 teachers.
 
 ##### National Program "Qualification of Pedagogical Specialists" 2024
 
-Module  1  "Support  of  newly  appointed  teachers  and  principals.  Continuing qualification to increase the competences  of teachers, principals and other pedagogical  specialists.'  Organizing  and  holding  forums  and  conferences  for  the presentation of good practices, research analyses, motivation and information about the opportunities for the professional development of teachers, principals and other pedagogical specialists - planned trainings for 3,000 pedagogical specialists;
+Module 1 "Support of newly appointed teachers and principals. Continuing qualification to increase the competences of teachers, principals and other pedagogical specialists." Organizing and holding forums and conferences for the presentation of good practices, research analyses, motivation and information about the opportunities for the professional development of teachers, principals and other pedagogical specialists - planned trainings for 3,000 pedagogical specialists;
 
 Module  2  "Acquisition  of  professional  qualification  "subject teacher" as an additional  professional  qualification  of  teachers  employed  in  the  preschool  and school education system" - planned participation of a minimum of 75 teachers;
 
-Module  3  "International  cooperation  in  the  field  of  the  qualification  of pedagogical specialists - trainings under international teacher training agreements" planned participation of a minimum of 85 teachers.
+Module 3 "International cooperation in the field of the qualification of pedagogical specialists - trainings under international teacher training agreements" - planned participation of a minimum of 85 teachers.
 
-The Rating System of Higher Education Institutions in Bulgaria has collected and summarized data on nearly 100 indicators that measure various aspects of the activity of higher education institutions, including the learning process, the learning environment, social and administrative services, scientific work, prestige, as well as realization of graduates on the labor market and regional relevance. These indicators are formed on the basis of statistical data collected from various sources, including sociological surveys.
+The Rating System of Higher Education Institutions in Bulgaria has collected and summarized data on nearly 100 indicators that measure various aspects of the
 
 55
 
@@ -1631,7 +1641,9 @@ The Rating System of Higher Education Institutions in Bulgaria has collected and
 
 [[START OF PAGE 56]]
 
-The register of the academic staff in the Republic of Bulgaria is an electronic database with public access, which is maintained by the Ministry of Education and Science through the National Center for Information and Documentation. It contains information  about  the  persons  who  have  acquired  the  educational  and  scientific degree "doctor" and/or the scientific degree "doctor of sciences", about the protected dissertation works and about the persons in academic positions in the Republic of Bulgaria.
+activity of higher education institutions, including the learning process, the learning environment, social and administrative services, scientific work, prestige, as well as realization of graduates on the labor market and regional relevance. These indicators are formed on the basis of statistical data collected from various sources, including sociological surveys.
+
+The register of the academic staff in the Republic of Bulgaria is an electronic database with public access, which is maintained by the Ministry of Education and Science through the National Center for Information and Documentation. It contains information about the persons who have acquired the educational and scientific degree "doctor" and/or the scientific degree "doctor of sciences", about the protected dissertation works and about the persons in academic positions in the Republic of Bulgaria.
 
 Medium-term programs  for  the  qualification  and  retraining  of  teachers  and lecturers are nearing completion, so far 1,500 teachers and lecturers have undergone training  under  the  programs  -  National  program  "Increasing  the  competences  of teachers  from  state  higher  education  institutions  preparing  future  teachers"  and National program "Digital qualification".
 
@@ -1645,15 +1657,15 @@ Medium-term programs  for  the  qualification  and  retraining  of  teachers  an
 
  Other:
 
-In  order  for  educators  of  adults  to  teach,  they  need  to  be  trained  first.  There  are  no requirements for training educators of adults.
+ Low quality educational infrastructure and materials
+
+ High student-teacher ratio
+
+In order for educators of adults to teach, they need to be trained first. There are no requirements for training educators of adults.
 
 - Please elaborate. Brief quantitative information may be added.
 
 #### 3.3 Respect for human rights and fundamental freedoms
-
-- o Low quality educational infrastructure and materials
-
-- o High student-teacher ratio
 
 [[END OF PAGE 56]]
 
@@ -1673,7 +1685,7 @@ According  to  Art.  22  of  the  Higher  Education  Act,  the  autonomy  of  th
 
 - Please elaborate on each of the measures taken:
 
-In relation to compliance with the objectives of SDG 4 and especially with 4.7. we can note the identification of the 9th key competence (Skills to support sustainable development and for a healthy lifestyle and sports) and a standard for civic, health, environmental and intercultural education in the LPSE. Through Ordinance No. 13 on civic,  health,  environmental  and  intercultural  education,  in  which  this  standard  is implemented, key policies are laid to prevent discrimination in education on various grounds. The main goals in the regulation are aimed at forming an autonomous and active  person  who  understands  and  defends  universal  human  values,  the  values  of democracy  and  human  rights,  participates  in  civil,  political  and  social  life  in  a responsible,  creative  and  effective  way  for  himself  and  for  society, respects  the importance of each human personality in the diversity of their identities, recognizes the right and value of difference, accepts the equality of all in the common social space, is able to make connections between different spheres of public life and understand the causes of social inequalities, environmental and global challenges. The goals are also aimed  at  the  Bulgarian  educational  institution,  which  should  "affirm  a  sustainable, inclusive, democratic and healthy environment, free from various forms of aggression and discrimination" and "create a positive educational environment for dialog between representatives of different cultural  communities  depending  on  their  age  and competences, including through the forms of student participation and selfmanagement". According to the cited regulation (art. 15, paragraph 1), educational institutions are obliged to include in their strategy priorities related to civic, health, environmental and intercultural education.
+In relation to compliance with the objectives of SDG 4 and especially with 4.7. we can note the identification of the 9th key competence (Skills to support sustainable development and for a healthy lifestyle and sports) and a standard for civic, health, environmental and intercultural education in the LPSE. Through Ordinance No. 13 on civic, health, environmental and intercultural education, in which this standard is implemented, key policies are laid to prevent discrimination in education on various grounds. The main goals in the regulation are aimed at forming an autonomous and active person who understands and defends universal human values, the values of democracy and human rights, participates in civil, political and social life in a responsible, creative and effective way for himself and for society, respects the importance of each human personality in the diversity of their identities, recognizes the
 
 > 41 Which calls  on  states  to  "ensure  that  all  learners  acquire  the  knowledge  and  skills  needed  to  promote  sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human  rights,  gender  equality,  promotion  of  a  culture  of  peace  and  non-  violence,  global  citizenship  and appreciation of cultural diversity and of culture's contribution to sustainable development".
 
@@ -1683,7 +1695,9 @@ In relation to compliance with the objectives of SDG 4 and especially with 4.7. 
 
 [[START OF PAGE 58]]
 
-Topics  related  to  intercultural  education  can  be  included  in  the  process  of acquiring all types of school training, including in elective classes, in interest activities, in class time or in general support activities for personal development in accordance with the order and under the conditions of the Ordinance for inclusive education. The elements of intercultural education are related to the formation of tolerance and respect for  different  dimensions  of  socio-cultural  identity,  to  build  the  key  competence  in children/students for intercultural dialog, getting to know,  understanding and appreciating  cultural  diversity,  as  well  as  in  the  acquisition  of  competences  for  a democratic culture. Pedagogical specialists, at their discretion and depending on the needs  of  their  students,  can  prepare  teaching  materials,  use  resources  and  conduct initiatives related to intercultural learning and understanding of diversity, democratic rights and values, etc. In accordance with these goals, educational institutions prepare and approve school policies related to intercultural education.
+right and value of difference, accepts the equality of all in the common social space, is able to make connections between different spheres of public life and understand the causes of social inequalities, environmental and global challenges. The goals are also aimed at the Bulgarian educational institution, which should "affirm a sustainable, inclusive, democratic and healthy environment, free from various forms of aggression and discrimination" and "create a positive educational environment for dialog between representatives of different cultural communities depending on their age and competences, including through the forms of student participation and self-management". According to the cited regulation (art. 15, paragraph 1), educational institutions are obliged to include in their strategy priorities related to civic, health, environmental and intercultural education.
+
+Topics related to intercultural education can be included in the process of acquiring all types of school training, including in elective classes, in interest activities, in class time or in general support activities for personal development in accordance with the order and under the conditions of the Ordinance for inclusive education. The elements of intercultural education are related to the formation of tolerance and respect for different dimensions of socio-cultural identity, to build the key competence in children/students for intercultural dialog, getting to know, understanding and appreciating cultural diversity, as well as in the acquisition of competences for a democratic culture. Pedagogical specialists, at their discretion and depending on the needs of their students, can prepare teaching materials, use resources and conduct initiatives related to intercultural learning and understanding of diversity, democratic rights and values, etc. In accordance with these goals, educational institutions prepare and approve school policies related to intercultural education.
 
 The curricula do not contain negative stereotypes and prejudices. During their creation and optimization, the aspiration to include in them (in view of the specifics of the program) the cultural achievements and way of life of the various ethnic groups living in Bulgaria is noticeable. Issues related to human rights education are explicitly present in programs in the social sciences and humanities. There is such an increased emphasis  in  the  curricula  of  civic  education,  philosophy,  history  and  civilizations, geography and economics, man and society. In the other curricula, human rights are not so much present through topics and concepts, but they are woven into the expected results. In class and in extracurricular activities, there are also forms of civic education and human rights. For example, Bulgaria is the initiator of a student Olympiad in civic education,  in  which  the  problems  of  discrimination  and  human  rights  have  their significant presence.
 
@@ -1835,7 +1849,7 @@ According  to  the  Ordinance  on  State  Requirements  for  Distance  Learning 
 
 The implementation of the aforementioned activities and in relation to UNESCO's Goal 4 is carried out through:
 
-- National program  "Information and communication  technologies in preschool and school education". The goals of the national program are  to provide Internet connectivity to schools and the support network of the regional administrations of education; to provide a modern educational environment that guarantees a unified approach to the application of key competencies in the field of formal education, nonformal education and informal learning; access to cloud ICT educational electronic resources - support through the implementation of modern tools for training, provision and management of cloud services in a hybrid environment; purchase of innovative hardware and modern equipment, construction of new Wi-Fi zones, etc.; software for professional  training,  software  products  for  administration  and  management  of  the learning process for the needs of the education system.
+- National program "Information and communication technologies in preschool and school education". The goals of the national program are to provide Internet connectivity to schools and the support network of the regional administrations of education; to provide a modern educational environment that guarantees a unified approach to the application of key competencies in the field of formal education, non-formal education and informal learning; access to cloud ICT educational electronic resources - support through the implementation of modern tools for training, provision and management of cloud services in a hybrid environment; purchase of innovative hardware and modern equipment, construction of new Wi-Fi zones, etc.; software for professional training, software products for administration and management of the learning process for the needs of the education system.
 
 Granted budget for 2023 - BGN 12,500,000.
 
@@ -1893,17 +1907,19 @@ The Digital Backpack has the following set of free resources:
 
 Under the "Education for Tomorrow" project, computer modeling/coding interest clubs for students from grades V-XII and collective clubs of various grades have been formed. Interest clubs are additional classes on key digital skills - basic and advanced, in which students from I to XII grade are included. After the successful completion of the activities, the degree of the acquired digital competences of the students is assessed through questionnaires. Approximately 70,000 students have been trained in interest club schools in key digital skills - basic and advanced.
 
-- Project BG05M2OP001-5.001-0001 "Equal access to school education in crisis conditions'. The aim of the project was to prevent interruption of the educational process and inclusive education in crisis conditions and to counter the risk of dropping out in a distance learning situation. The planned activities are logically linked to ensure the continuity of the educational process. They were directly related to overcoming the consequences  caused  by  the  COVID-19  pandemic  and  the  need  for  the  technical provision of the education system, as well as the provision of conditions for conducting distance learning in an electronic environment. Ensuring full access for all pupils to a virtual classroom during the ongoing pandemic is an important priority. Through the project,  equal  conditions  are  ensured  for  all  pupils  for  the  development  of  digital literacy and quality education in all subjects for all educational stages. The project had a total value of 101,642.48 and a duration of 35 months (until 31.12.2023)
+- Project BG05M2OP001-5.001-0001 "Equal access to school education in crisis conditions". The aim of the project was to prevent interruption of the educational process and inclusive education in crisis conditions and to counter the risk of dropping out in a distance learning situation. The planned activities are logically linked to ensure the continuity of the educational process. They were directly related to overcoming the consequences caused by the COVID-19 pandemic and the need for the technical provision of the education system, as well as the provision of conditions for conducting distance learning in an electronic environment. Ensuring full access for all pupils to a virtual classroom during the ongoing pandemic is an important priority. Through the project, equal conditions are ensured for all pupils for the development of digital literacy and quality education in all subjects for all educational stages. The project had a total value of 101,642.48 and a duration of 35 months (until 31.12.2023)
 
 With  the  amendments  to  the  Law  on  Vocational  Education  and  Training, promulgated  in  March  2024,  all  state  educational  standards  for  the  acquisition  of professional  qualifications  contain  embedded  training  for  the  acquisition  of  digital skills in the "Specific Vocational Training" section.
 
-In  the  field  of  higher  education,  the  MES  has  developed  and  successfully implemented a National Program for Digital Competence of Teachers, as well as a National  Program  for  Anti-Plagiarism  in  Higher  Schools.  On  an  annual  basis,  the rectors of state higher education institutions report to the Minister of Education and Science the results of the construction of new infrastructure to increase professional qualifications in the field of digitization and Industry 4.0; for the upgrading of the used electronic platforms and other modern educational technologies both for training and for evaluating and controlling its results; for the provision of systematic technological training to assist teachers in the acquisition of basic and additional technologies for teaching and research; for increasing the share of curricula with integrated e-learning.
+In the field of higher education, the MES has developed and successfully implemented a National Program for Digital Competence of Teachers, as well as a National Program for Anti-Plagiarism in Higher Schools. On an annual basis, the rectors of state higher education institutions report to the Minister of Education and
 
 65
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
+
+Science the results of the construction of new infrastructure to increase professional qualifications in the field of digitization and Industry 4.0; for the upgrading of the used electronic platforms and other modern educational technologies both for training and for evaluating and controlling its results; for the provision of systematic technological training to assist teachers in the acquisition of basic and additional technologies for teaching and research; for increasing the share of curricula with integrated e-learning.
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
@@ -1931,13 +1947,15 @@ In  the  field  of  higher  education,  the  MES  has  developed  and  successfu
 
 Digital media literacy (DML) is part of the basic competences that should be acquired in the process of school education. In terms of content, it includes a complex of competencies, among which confident mastery and active use of existing media, critical  attitude  to  the  quality  and  correctness  of  content,  informed  judgment  and creative use of media to create, distribute and manage information while taking into account the problems of copyright law and the protection of personal data, etc.
 
-That is why DML finds a place in the form of expected learning outcomes both at the level of state educational standards - for civic education and for general education preparation, as well as through the curricula of a number of study subjects, among which computer modeling and information technology. DML is also worked on during special  hours  during  class  time  from  grade  IV  to  grade  XI  inclusive.  Through  the curricula, educational activities have been proposed for its integration into the other subjects.
+That is why DML finds a place in the form of expected learning outcomes both at the level of state educational standards - for civic education and for general education preparation, as well as through the curricula of a number of study subjects, among which computer modeling and information technology. DML is also worked on during
 
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
 
-So for example in computer modeling, students in grades III-IV get to know the place and role of information in modern society and learn the conditions for safety in  a  digital  environment,  and in computer modeling and information technology in grades V-VII, they improve their skills in knowing and following the rules for safe behavior  on  the  Internet,  to  observe  ethical  rules  in  electronic  correspondence,  to respect the copyright of the finished materials they use, to correctly cite the information sources.
+special hours during class time from grade IV to grade XI inclusive. Through the curricula, educational activities have been proposed for its integration into the other subjects.
+
+So for example in computer modeling, students in grades III-IV get to know the place and role of information in modern society and learn the conditions for safety in a digital environment, and in computer modeling and information technology in grades V-VII, they improve their skills in knowing and following the rules for safe behavior on the Internet, to observe ethical rules in electronic correspondence, to respect the copyright of the finished materials they use, to correctly cite the information sources.
 
 The training for obtaining DML continues in the first high school stage, when in  information  technology  students  work  on  the  topics  "Computer  networks  and services", "Information culture" and "Team development and protection of a project" and  acquire  competencies  to  apply  adequate  techniques  for  critical  and  systematic filtering of information, to know the different ways in which digital technologies affect human health and methods of prevention, to know the impact of digital technologies on the environment. Those who choose targeted training in the field of information technology, in the last two years, develop on a higher level critical thinking, teamwork, communication, social-emotional and ethical skills, which supports the prevention of aggressive behavior, alienation, exposure to risk from terrorism, the abuse of personal data, interference and the imposition of negative models on a personal and moral level, desocialization and others.
 
@@ -2007,13 +2025,15 @@ In the field of vocational education and training (VET) in 2023, MES established
 
 - Development of modular training programs for vocational teachers.
 
-The Regional Directorates of Education (RDEs) are territorial administrations under  the  Minister  of  Education  and  Science  for  management  and  control  of  the preschool and school education system.
+The Regional Directorates of Education (RDEs) are territorial administrations
 
 69
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
+
+under the Minister of Education and Science for management and control of the preschool and school education system.
 
 RDEs supervise the implementation of the implemented state policy and the achieved training results. RDEs also provide methodological support to kindergartens, schools, regional centers for supporting the process of inclusive education and personal development support centers in the relevant area.
 
