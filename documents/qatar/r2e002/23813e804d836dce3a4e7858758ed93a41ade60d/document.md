@@ -1,4 +1,5 @@
 [[START OF PAGE 1]]
+# Qatar National Vision 2030
 
 July 2008
 
@@ -46,19 +47,15 @@ Doha July 2008
 
 1
 
-1
+The State of Qatar is enjoying a period of unparalleled prosperity, with exceptional economic progress being evident in the increasing standard of living of its people. Major advances in economic, human and social developments continue to occur. Qatar has also progressed politically. Qatar's Permanent Constitution was ratified in 2004 and came into effect in June 2005. The Constitution defines the roles of the three state powers and the rights and duties of Qatari citizens.
 
-'Comprehensive development is our main goal in striving for the progress and prosperity of our people.'
+Despite rapid economic and social gains, as well as political change, Qatar has maintained its cultural and traditional values as an Arab and Islamic nation that considers the family to be the main pillar of society. Under the wise leadership of HH the Emir, Sheikh Hamad bin Khalifa Al-Thani, the country continues to implement important initiatives that will propel Qatar to fully developed nationhood, and strengthen its role in the international community.
+
+Qatar is at a crossroads. The country's abundant wealth creates previously undreamt of opportunities and formidable challenges.
+
+“Comprehensive development is our main goal in striving for the progress and prosperity of our people.”
 
 Hamad bin Khalifa Al-Thani
-
-T he  State  of  Qatar  is  enjoying  a period  of  unparalleled  prosperity, with exceptional economic progress being evident  in  the  increasing  standard  of  living
-
-of  its  people.  Major  advances  in  economic,  human  and  social developments  continue  to  occur.    Qatar  has  also  progressed politically.  Qatar's  Permanent  Constitution  was  ratified  in  2004 and came into effect in June 2005. The Constitution defines the roles  of  the  three  state  powers  and  the  rights  and  duties  of Qatari citizens.
-
-Despite  rapid  economic  and  social  gains,  as  well  as  political change, Qatar has maintained its cultural and traditional values as  an  Arab  and  Islamic  nation  that  considers  the  family  to  be the main pillar of society. Under the wise leadership of HH the Emir, Sheikh Hamad bin Khalifa Al-Thani, the country continues to  implement important initiatives that  will  propel  Qatar  to fully  developed nationhood, and strengthen its role in the international community.
-
-Qatar is at a crossroads.  The country's abundant wealth creates previously undreamt of opportunities and formidable challenges.
 
 [[END OF PAGE 5]]
 
@@ -72,9 +69,7 @@ The  National  Vision  defines  broad  future  trends  and  reflects the  aspira
 
 Qatar's  National  Vision  defines  the  long-term  outcomes  for the country as a whole rather than the processes for reaching these outcomes. It provides a framework within which national strategies and implementation plans can be developed.
 
-The National Vision  aims  at  transforming  Qatar  into  an advanced country by 2030, capable of sustaining its own development and providing for a high standard of living for all of its people for generations to come.
-
-2
+The National Vision aims at transforming Qatar into an advanced country by 2030, capable of sustaining its own development and providing for a high standard of living for all of its people for generations to come.
 
 [[END OF PAGE 6]]
 
@@ -82,11 +77,9 @@ The National Vision  aims  at  transforming  Qatar  into  an advanced country by
 
 3
 
-3
+# Defining Characteristics of Qatar's Future – Opportunities and Challenges
 
-# Defi n i n g   C h a r a c t e r i s t i c s   o f   Q a t a r 's Future - Opportunities and Challenges
-
-Q atar's  sound  management  of  its  bountiful  hydrocarbon resources will continue to secure improvements in standards  of  living.  However,  an  improved  standard  of  living cannot be the only goal of a society. To remain true to its values, Qatar must balance five major challenges:
+Qatar's sound management of its bountiful hydrocarbon resources will continue to secure improvements in standards of living. However, an improved standard of living cannot be the only goal of a society. To remain true to its values, Qatar must balance five major challenges:
 
 - Modernization and preservation of traditions
 
@@ -108,15 +101,11 @@ Q atar's  sound  management  of  its  bountiful  hydrocarbon resources will cont
 
 Preservation of  cultural  traditions  is  a  major  challenge that confronts many societies in a rapidly globalizing and increasingly interconnected world.
 
-Qatar's very rapid economic and population growth have created intense strains between the old and new in almost every aspect of life. Modern work patterns and pressures of competitiveness sometimes  clash  with  traditional  relationships  based  on  trust and personal ties, and create strains for family life. Moreover, the greater freedoms and wider choices that accompany economic and social progress pose a challenge to deep-rooted social values highly cherished by society. Yet it is possible to combine modern life  with  values  and  culture.  Other  societies  have  successfully molded  modernization  around  local  culture  and  traditions. Qatar's National Vision responds to this challenge and seeks to connect and balance the old and the new.
-
-4
+Qatar's very rapid economic and population growth have created intense strains between the old and new in almost every aspect of life. Modern work patterns and pressures of competitiveness sometimes clash with traditional relationships based on trust and personal ties, and create strains for family life. Moreover, the greater freedoms and wider choices that accompany economic and social progress pose a challenge to deep-rooted social values highly cherished by society. Yet it is possible to combine modern life with values and culture. Other societies have successfully molded modernization around local culture and traditions. Qatar's National Vision responds to this challenge and seeks to connect and balance the old and the new.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
-
-5
 
 5
 
@@ -160,15 +149,11 @@ Qatar is currently experiencing high rates of population growth due mainly to ma
 
 Economic development and protection of the environment are two demands neither of which should be sacrificed for the sake of the other.
 
-Development patterns can, and often do, have negative effects on the natural environment. Environmental degradation can be reduced through investment in advanced technologies designed to minimize the damage caused by economic projects. It can also be reduced by avoiding rapid and unplanned growth. Even with Qatar's best efforts, it is impossible to entirely avoid harming the environment, given a development pattern that depends in its early stages on oil, gas, petrochemicals and heavy industries. Qatar has already committed to enforcing international standards for environmental protection when designing and implementing its industrial projects. The country must also commit to making its future path of development compatible with the requirements of protecting and conserving the environment. Wherever there is  an  environmental  cost  to  be  paid  for  economic  progress,  it must  be  compensated  with  investments  in  technologies  that help improve the environment.
-
-8
+Development patterns can, and often do, have negative effects on the natural environment. Environmental degradation can be reduced through investment in advanced technologies designed to minimize the damage caused by economic projects. It can also be reduced by avoiding rapid and unplanned growth. Even with Qatar's best efforts, it is impossible to entirely avoid harming the environment, given a development pattern that depends in its early stages on oil, gas, petrochemicals and heavy industries. Qatar has already committed to enforcing international standards for environmental protection when designing and implementing its industrial projects. The country must also commit to making its future path of development compatible with the requirements of protecting and conserving the environment. Wherever there is an environmental cost to be paid for economic progress, it must be compensated with investments in technologies that help improve the environment.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
-
-9
 
 9
 
@@ -184,17 +169,15 @@ The next step in Qatar's National Vision will be to resolve these five critical 
 
 # Guiding Principles of Qatar's National Vision
 
-Q atar's  National  Vision  is  based  on  the  Guiding  Principles of the Permanent Constitution and the directions of Their Highnesses the Emir, the Heir Apparent and Sheikha Mozah, as well as on extensive consultation with government institutions and local and international experts.
+Qatar's National Vision is based on the Guiding Principles of the Permanent Constitution and the directions of Their Highnesses the Emir, the Heir Apparent and Sheikha Mozah, as well as on extensive consultation with government institutions and local and international experts.
 
-The  National Vision  builds  on  a  society  that  promotes  justice, benevolence and equality.  The Vision embodies the principles of the Permanent Constitution which:
+The National Vision builds on a society that promotes justice, benevolence and equality. The Vision embodies the principles of the Permanent Constitution which:
 
 - protects public and personal freedoms;
 
 - promotes moral and religious values and traditions; and,
 
 - guarantees security, stability and equal opportunities.
-
-10
 
 [[END OF PAGE 14]]
 
@@ -220,21 +203,17 @@ Development of a competitive and diversified economy capable of meeting the need
 
 Management of the environment such that there is harmony between economic growth, social development and environmental protection.
 
-11
-
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
 12
 
-Social Development
-
-12
-
 Human Development
 
 Economic Development
+
+Social Development
 
 Environmental Development
 
@@ -244,19 +223,14 @@ Environmental Development
 
 13
 
-13
+# The First Pillar – Human Development
 
-# T h e   F i r s t   P i l l a r   -   H u m a n   D e v e l o p m e n t
+Hitherto, Qatar's progress has depended primarily on the exploitation of its oil and gas resources. But the country's hydrocarbon resource will eventually run out. Future economic success will increasingly depend on the ability of the Qatari people to deal with a new international order that is knowledge-based and extremely competitive. To meet the challenge, Qatar is establishing advanced educational and health systems, as well as increasing the effective participation of Qataris in the labor force. In addition, Qatar will continue to augment its labor force by attracting qualified expatriate workers in all fields.
 
-H itherto, Qatar's progress has depended primarily on the exploitation of its oil and gas resources.  But the country's  hydrocarbon  resource  will  eventually  run  out. Future economic success will increasingly depend on the ability of the Qatari people to deal with a new international order that is knowledge-based and extremely competitive. To  meet  the  challenge,  Qatar  is  establishing  advanced educational  and  health  systems,  as  well  as  increasing the effective participation of Qataris in the labor force. In addition, Qatar will continue to augment its labor force by attracting qualified expatriate workers in all fields.
+Qatar aims to build a modern world-class educational system that provides students with a first-rate education, comparable to that offered anywhere in the world. The system will provide citizens with excellent training and opportunities to develop to their full potential, preparing them for success in a changing world with increasingly complex technical requirements. The system will also encourage analytical and critical thinking, as well as creativity and innovation. It will promote social cohesion and respect for Qatari society's values and heritage, and will advocate for constructive interaction with other nations.
 
-Qatar  aims  to  build  a  modern  world-class  educational system that provides students with a first-rate education,
-
-comparable to that offered anywhere in the world. The system will provide citizens  with  excellent  training  and opportunities to develop to their full potential, preparing them for success Education is one of the basic pillars of social progress.  The state shall ensure, foster and endeavor to spread it. '
-
+“Education is one of the basic pillars of social progress. The state shall ensure, foster and endeavor to spread it.”
 Permanent Constitution
-
-in a changing world with increasingly complex technical requirements. The system will also encourage analytical and critical  thinking,  as  well  as  creativity  and  innovation.  It  will promote social cohesion and respect for Qatari society's values and heritage,  and  will  advocate  for  constructive  interaction with other nations.
 
 [[END OF PAGE 17]]
 
@@ -264,23 +238,17 @@ in a changing world with increasingly complex technical requirements. The system
 
 14
 
-18
-
 In order to further support human development, Qatar will aspire to be an active centre in the fields of scientific research and intellectual activity.
 
-To  improve  the  health  of  Qatar's  population,  Qatar  aspires  to develop an integrated system for health care, managed according to world-class standards.  This system will meet the needs of The State shall foster public health; provide means of prevention from diseases  and  epidemics  and  their cure in accordance with the law. ' Permanent Constitution
+To improve the health of Qatar's population, Qatar aspires to develop an integrated system for health care, managed according to world-class standards. This system will meet the needs of existing and future generations and provide for an increasingly healthy and lengthy life for all citizens. All health services will be accessible to the entire population.
 
-existing and future generations and provide for an increasingly healthy and lengthy life for all citizens.  All health services will be accessible to the entire population.
-
-Qatar will strive to increase the effective labor force participation of  its  citizens.  However,  for  the  foreseeable  future  Qatar  will
-
-not have a sufficient number of citizens to manage the complex systems, infrastructure and other requirements of a rapidly growing, The employee-employer relationship shall be based on the ideals of social justice and shall be regulated by law. '
-
+“The State shall foster public health; provide means of prevention from diseases and epidemics and their cure in accordance with the law.”
 Permanent Constitution
 
-diversifying and technologically sophisticated economy. In order to realize Qatar's future ambitions, it will be necessary to make up for the shortages of local labor with expatriate workers. Attracting and  retaining  the  right  mix  of  skills  will  require  appropriate incentives, as well as institutional arrangements for ensuring the rights and safety of expatriate labor.
+Qatar will strive to increase the effective labor force participation of its citizens. However, for the foreseeable future Qatar will not have a sufficient number of citizens to manage the complex systems, infrastructure and other requirements of a rapidly growing, diversifying and technologically sophisticated economy. In order to realize Qatar's future ambitions, it will be necessary to make up for the shortages of local labor with expatriate workers. Attracting and retaining the right mix of skills will require appropriate incentives, as well as institutional arrangements for ensuring the rights and safety of expatriate labor.
 
-14
+“The employee-employer relationship shall be based on the ideals of social justice and shall be regulated by law.”
+Permanent Constitution
 
 [[END OF PAGE 18]]
 
@@ -288,16 +256,12 @@ diversifying and technologically sophisticated economy. In order to realize Qata
 
 15
 
-15
-
 ## Human Development
 
 ### An Educated Population
-### A Healthy Population:  Physically and Mentally
+### A Healthy Population: Physically and Mentally
 
 ### A Capable and Motivated Workforce
-
-15
 
 [[END OF PAGE 19]]
 
@@ -381,33 +345,26 @@ Targeted participation of expatriate labor:
 
 - Recruitment of the right mix of expatriate labor, protecting their rights, securing their safety, and retaining those who are outstanding among them
 
-18
-
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
 19
 
-19
+# The Second Pillar – Social Development
 
-# The Second Pillar - Social Development
+The State of Qatar aspires to advance and develop the social dimensions of its society by nurturing Qatari citizens capable of dealing effectively and flexibly with the requirements of the age they live in, and by preserving a strong and coherent family that enjoys support, care and social protection. Women will assume a significant role in all spheres of life, especially through participating in economic and political decision-making.
 
-T he  State  of  Qatar  aspires  to  advance  and  develop the  social  dimensions  of  its  society  by  nurturing
-
-The family is the basis of the society. A Qatari family is founded on religion, ethics, and patriotism. The law shall regulate adequate means to protect the family, support its structure, strengthen its ties, and protect maternity, childhood, and old age.' Permanent Constitution
-
-Qatari citizens capable of dealing effectively  and  flexibly  with  the requirements of the age they live in, and by preserving a strong  and  coherent  family  that enjoys  support,  care  and  social protection. Women will assume a significant role in all spheres of life, especially  through  participating in economic and political decision-making.
-
-Qatar will seek to build a safe, secure and stable society based on  effective  institutions.  The  country  will  promote  tolerance,
-
-benevolence,  constructive  dialogue and openness toward  other cultures in the context of its Arab and Islamic  identity.    Moreover,  it  will provide its citizens with their basic needs and guarantee them equal opportunities.
-
-The  State  shall  maintain  the pillars of the society and ensure security,  stability,  and  equal opportunities for all citizens.
-
+“The family is the basis of the society. A Qatari family is founded on religion, ethics, and patriotism. The law shall regulate adequate means to protect the family, support its structure, strengthen its ties, and protect maternity, childhood, and old age.”
 Permanent Constitution
 
-The Qatari society is based on the values of justice, benevolence, freedom, equality, and high morals.' Permanent Constitution Qatar  will  also  enhance  its  important  and  constructive regional  role,  especially  within  the  framework  of  the  Gulf Cooperation Council, the Arab League and the Organization of Islamic Conference.
+Qatar will seek to build a safe, secure and stable society based on effective institutions. The country will promote tolerance, benevolence, constructive dialogue and openness toward other cultures in the context of its Arab and Islamic identity. Moreover, it will provide its citizens with their basic needs and guarantee them equal opportunities.
+
+“The State shall maintain the pillars of the society and ensure security, stability, and equal opportunities for all citizens.”
+Permanent Constitution
+
+“The Qatari society is based on the values of justice, benevolence, freedom, equality, and high morals.”
+Permanent Constitution
 
 [[END OF PAGE 23]]
 
@@ -415,9 +372,9 @@ The Qatari society is based on the values of justice, benevolence, freedom, equa
 
 20
 
-As a responsible member of the international community, Qatar  will  contribute  to  attaining  international  security and peace and will fulfill its international commitments.
+Qatar will also enhance its important and constructive regional role, especially within the framework of the Gulf Cooperation Council, the Arab League and the Organization of Islamic Conference.
 
-20
+As a responsible member of the international community, Qatar will contribute to attaining international security and peace and will fulfill its international commitments.
 
 [[END OF PAGE 24]]
 
@@ -430,8 +387,6 @@ As a responsible member of the international community, Qatar  will  contribute 
 ### Social Care and Protection
 ### A Sound Social Structure
 ### International Cooperation
-
-21
 
 [[END OF PAGE 25]]
 
@@ -479,29 +434,29 @@ Sponsorship and support of dialogue among civilizations, promoting  coexistence 
 
 Contribution  towards  international  peace  and  security through  political  initiatives  and  developmental  and humanitarian assistance.
 
-23
-
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
 24
 
-# The Third Pillar - Economic Development
+# The Third Pillar – Economic Development
 
-A vibrant Qatari economy  is the foundation on which economic prosperity and steady improvement in livelihoods will be built. Sustaining prosperity over the long term requires wise management of exhaustible resources to ensure that future generations inherit ample means to meet their aspirations. This management must secure optimum utilization of these resources and  create  a  balance  between  reserves  and  production,  and between  economic  diversification  and  the  depletion  of  nonrenewable hydrocarbon resources.
+A vibrant Qatari economy  is the foundation on which economic prosperity and steady improvement in livelihoods will be built. Sustaining prosperity over the long term requires wise management of exhaustible resources to ensure that future generations inherit ample means to meet their aspirations. This management must secure optimum utilization of these resources and  create  a  balance  between  reserves  and  production,  and between  economic  diversification  and  the  depletion  of  non-renewable hydrocarbon resources.
 
 Qatar's bountiful hydrocarbon resources can be leveraged to make sustainable  development  a  reality  for  all  its  people. Converting  these  natural  assets  into  financial  wealth provides a means to invest in world-class infrastructure; build efficient delivery mechanisms for public services; create a highly skilled and productive labour force; and support the development of entrepreneurship and innovation capabilities. If  attained,  these  achievements  would  in  turn  provide  a broader platform for the diversification of Qatar's economy and its positioning as a regional hub for knowledge and for high  value  industrial  and  service  activities.  However,  the challenges should not be underestimated.
 
-The first challenge is to enable the private sector to play an essential role in achieving sustainable development.  Training and  support  for  entrepreneurs  is  a  basic  precondition  for enabling the private sector to carry out its required role, besides providing  financial  and  non-financial  support  mechanisms that  will  help  incubate  and grow small and mediumscale  enterprises.  Qatar  has already made good  headway in developing a political and organizational  climate  that supports the business sector. But further steps to enhance The State shall guarantee freedom of economic enterprise on the basis of social justice and balanced cooperation between private and public activity in order to achieve socio-economic development, increase in production, achieve public welfare, raise standard of living, and provide job opportunities in accordance with the provision of the law.'
+The first challenge is to enable the private sector to play an essential role in achieving sustainable development.  Training and  support  for  entrepreneurs  is  a  basic  precondition  for enabling the private sector to carry out its required role, besides
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-Permanent Constitution
+providing financial and non-financial support mechanisms that will help incubate and grow small and medium-scale enterprises. Qatar has already made good headway in developing a political and organizational climate that supports the business sector. But further steps to enhance competitiveness and attract investment will be needed in a dynamic and increasingly borderless international economy.
 
-competitiveness  and  attract  investment  will  be  needed  in  a dynamic and increasingly borderless international economy.
+“The State shall guarantee freedom of economic enterprise on the basis of social justice and balanced cooperation between private and public activity in order to achieve socio-economic development, increase in production, achieve public welfare, raise standard of living, and provide job opportunities in accordance with the provision of the law.”
+
+Permanent Constitution
 
 A second challenge will be to choose and manage a pathway that delivers prosperity yet avoids economic imbalances and  stresses.  Once  inflation  becomes  ingrained,  or  hurried development  projects  are  implemented,  or  public  services can no longer cope with bourgeoning demands, there will be risks  to  sustaining  prosperity  and  to  social  cohesion.  Skillful and farsighted economic management and effective and agile institutions will be needed to attenuate these risks.
 
@@ -582,17 +537,17 @@ A diversified economy that gradually reduces its dependence on hydrocarbon indus
 
 30
 
-# The Fourth Pillar - Environmental Development
+# The Fourth Pillar – Environmental Development
 
-T he State of Qatar seeks to preserve and protect its unique environment and nurture the abundance of nature granted by God. Accordingly,  development  will  be  carried  out  with responsibility and respect, balancing the needs of economic growth  and  social  development  with  the  conditions  for environmental protection.
+The State of Qatar seeks to preserve and protect its unique environment and nurture the abundance of nature granted by God. Accordingly,  development  will  be  carried  out  with responsibility and respect, balancing the needs of economic growth  and  social  development  with  the  conditions  for environmental protection.
 
-The environmental pillar will be increasingly i mportant as Qatar is forced to deal with  local  environmental  issues,  such  as the  impact  of  diminishing  water  and hydrocarbon resources, and the effects of pollution  and  environmental  degradation, as well as international environmental issues such as the potential impact of global The State shall preserve the environment and its natural balance in order to achieve comprehensive and sustainable development for all generations.'
+The environmental pillar will be increasingly important as Qatar is forced to deal with  local  environmental  issues,  such  as the  impact  of  diminishing  water  and hydrocarbon resources, and the effects of pollution  and  environmental  degradation, as well as international environmental issues such as the potential impact of global warming  on  water  levels  in  Qatar  and  thereby  on coastal urban development. Assessing the severity of risks and dealing with anticipated changes will require mobilizing capacities and coordinating efforts to tackle problems that arise.
+
+“The State shall preserve the environment and its natural balance in order to achieve comprehensive and sustainable development for all generations.”
 
 Permanent Constitution
 
-warming  on  water  levels  in  Qatar  and  thereby  on coastal urban development. Assessing the severity of risks and dealing with anticipated changes will require mobilizing capacities and coordinating efforts to tackle problems that arise.
-
-' We need to care for our natural environment for it was entrusted to us by God to use with responsibility and respect for the benefit of human kind. If we nurture our environment, it will nurture us.'
+“We need to care for our natural environment for it was entrusted to us by God to use with responsibility and respect for the benefit of human kind. If we nurture our environment, it will nurture us.”
 
 Mozah bint Nasser Al-Misnid
 
@@ -600,13 +555,9 @@ Mozah bint Nasser Al-Misnid
 
 [[START OF PAGE 35]]
 
-33
-
 ## Environmental Development
 
 ### A Balance Between Development Needs and Protecting the Environment
-
-'
 
 31
 
@@ -628,13 +579,9 @@ Preserving  and  protecting  the  environment,  including  air,  land, water and
 
 - Effective and sophisticated environmental institutions that build and strengthen public awareness about environmental protection, and encourage the use of environmentally sound technologies. These institutions will  also conduct awareness raising campaigns, employ environmental planning tools, and carry out environmental research
 
-34
-
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
-
-35
 
 ## Environmental Development Outcomes (cont.)
 
@@ -658,7 +605,7 @@ Support  for  international  efforts  to  mitigate  the  effects  of climate cha
 
 # A c h i e v i n g   t h e   V i s i o n
 
-Q atar's  National  Vision  provides  the  foundation  for  the formulation of a National Strategy. The Strategy will help the  nation  to  realize  the  Vision  by  setting  and  prioritizing concrete development goals with time-bound targets.  It will also articulate the necessary processes, stakeholder roles, and the  expected  performance  standards  which  are  needed  to deliver on the Vision.
+Qatar's  National  Vision  provides  the  foundation  for  the formulation of a National Strategy. The Strategy will help the  nation  to  realize  the  Vision  by  setting  and  prioritizing concrete development goals with time-bound targets.  It will also articulate the necessary processes, stakeholder roles, and the  expected  performance  standards  which  are  needed  to deliver on the Vision.
 
 As a next step, the General Secretariat for Development Planning (GSDP),  with  the guidance  of  Qatar's  Higher  Authorities, will  coordinate  the  formulation  of  this  National  Strategy,  in consultation  and  in  full  partnership  with  all  stakeholders, especially civil society, the private sector, ministries  and government agencies.  As part of this process, GSDP will initiate and encourage broad stakeholder engagement so as to ensure wide understanding of, and commitment to, the Vision.
 
