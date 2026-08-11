@@ -1,8 +1,29 @@
 [[START OF PAGE 1]]
+QUỐC HỘI
+Số: Không số
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày 12 tháng 08 năm 1991
+
+# LUẬT
+
+## PHỔ CẬP GIÁO DỤC TIỂU HỌC
+
+Giáo dục tiểu học là điều kiện cơ bản để nâng cao dân trí, là cơ sở ban đầu hết sức quan trọng cho việc đào tạo trẻ em trở thành công dân tốt của đất nước;
+
+Căn cứ vào các điều 40, 41, 60 và 83 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam;
+
+Luật này quy định chế độ phổ cập giáo dục tiểu học.
+
+### CHƯƠNG I
+
+#### NHỮNG QUY ĐỊNH CHUNG
 
 ##### Điều 1
 
-Nhà nước thực hiện chính sách phổ cấp giáo dục tiểu học bắt buộc từ lớp 1 đến hết lớp 5 đối với tất cả trẻ em Việt Nam trong độ tuổi từ 6 đến 14 tuổi.
+Nhà nước thực hiện chính sách phổ cập giáo dục tiểu học bắt buộc từ lớp 1 đến hết lớp 5 đối với tất cả trẻ em Việt Nam trong độ tuổi từ 6 đến 14 tuổi.
 
 ##### Điều 2
 
@@ -31,25 +52,6 @@ Nhà nước bảo đảm các điều kiện cần thiết để thực hiện 
 ##### Điều 7
 
 Cơ quan Nhà nước, tổ chức xã hội, tổ chức kinh tế, gia đình, công dân có trách nhiệm tham gia vào việc thực hiện phổ cập giáo dục tiểu học.
-
-QUỐC HỘI Số: Không số
-
-CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc
-
-Hà Nội, ngày 12 tháng 08 năm 1991
-
-# LUẬT
-
-## PHỔ CẬP GIÁO DỤC TIỂU HỌC
-
-Giáo dục tiểu học là điều kiện cơ bản để nâng cao dân trí, là cơ sở ban đầu hết sức quan trọng cho việc đào tạo trẻ em trở thành công dân tốt của đất nước;
-
-Căn cứ vào các điều 40, 41, 60 và 83 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam; Luật này quy định chế độ phổ cập giáo dục tiểu học.
-
-### CHƯƠNG I
-
-#### NHỮNG QUY ĐỊNH CHUNG
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -155,7 +157,7 @@ Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt t
 
 - 2- Phối hợp với các cơ quan giáo dục, chính quyền địa phương và gia đình trong việc giáo dục trẻ em;
 
-- 3- Vận động giúp đỡ về tài chính, cơ sở vật chất và nhân lực theo khả năng của mình nhằm thực hiện phố cập giáo dục tiểu học.
+- 3- Vận động giúp đỡ về tài chính, cơ sở vật chất và nhân lực theo khả năng của mình nhằm thực hiện phổ cập giáo dục tiểu học.
 
 ### CHƯƠNG III
 
@@ -209,7 +211,7 @@ Chính quyền địa phương các cấp có trách nhiệm:
 
 - 5- Tổ chức việc mở trường, lớp tiểu học; bảo đảm trường, lớp, thiết bị đồ dùng dạy học, sách, vở, học cụ đủ và đúng thời điểm cần thiết;
 
-Chính quyền xã, phường, thị trần chỉ đạo việc tổ chức đăng ký và huy động trẻ em vào học lớp 1, tổ chức và quản lý để trẻ em hoàn thành giáo dục tiểu học;
+Chính quyền xã, phường, thị trấn chỉ đạo việc tổ chức đăng ký và huy động trẻ em vào học lớp 1, tổ chức và quản lý để trẻ em hoàn thành giáo dục tiểu học;
 
 - 6- Cơ quan quản lý giáo dục các cấp có trách nhiệm giúp chính quyền địa phương thực hiện các quy định tại Điều này.
 
@@ -235,7 +237,7 @@ Cá nhân, tổ chức có thành tích đóng góp vào sự nghiệp phổ c�
 
 ##### Điều 26
 
-Người gây khó khăn, cản trở việc phổ cập giáo dục tiểu học; cho phép hoặc mở trường, lớp trái pháp luật; giáo dục trái với nội dung chương trình do Nhà nước quy định; xâm phạm thân thể và danh dự của học sinh, giáo viên, cán bộ quản lý giáo dục; xâm phạm cơ sở vật chất của trường, lớp; vì thiếu tinh thân trách nhiệm mà không hoàn thành chương trình - mục tiêu phổ cập giáo dục tiểu học, lạm dụng quyền hạn sử dụng trái phép kinh phí dành cho giáo dục tiểu học hoặc vi phạm các quy định khác của Luật này, thì tuỳ mức độ mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường.
+Người gây khó khăn, cản trở việc phổ cập giáo dục tiểu học; cho phép hoặc mở trường, lớp trái pháp luật; giáo dục trái với nội dung chương trình do Nhà nước quy định; xâm phạm thân thể và danh dự của học sinh, giáo viên, cán bộ quản lý giáo dục; xâm phạm cơ sở vật chất của trường, lớp; vì thiếu tinh thần trách nhiệm mà không hoàn thành chương trình - mục tiêu phổ cập giáo dục tiểu học, lạm dụng quyền hạn sử dụng trái phép kinh phí dành cho giáo dục tiểu học hoặc vi phạm các quy định khác của Luật này, thì tuỳ mức độ mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường.
 
 ### CHƯƠNG V
 #### ĐIỀU KHOẢN CUỐI CÙNG
