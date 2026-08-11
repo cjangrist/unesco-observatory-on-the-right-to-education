@@ -43,13 +43,13 @@ In performing preschool education activities and other activities of preschool i
 
 The objectives of preschool education include support to:
 
-1)  the  overall  development  and  welfare  of  a  preschool  child,  providing  the conditions  and  incentives  for  them  to  develop  capacities,  gain  experiences  and acquire knowledge about themselves, others and the world;
+1) the overall development and welfare of a preschool child, providing the conditions and incentives for them to develop capacities, gain experiences and acquire knowledge about themselves, others and the world;
 
-- the educational function of the family;
+2) the educational function of the family;
 
-- further education and inclusion in society;
+3) further education and inclusion in society;
 
-- the development  of child's potentials as a prerequisite for further development of society and its own development.
+4) the development of child’s potentials as a prerequisite for further development of society and its own development.
 
 The principles of preschool education are:
 
@@ -249,17 +249,17 @@ The program referred to in paragraph 2 of this Article shall be approved by the 
 
 Preschool program allows implementation of specific and specialized programs, including:
 
-- Programs of special areas of educational activities;
+1) Programs of special areas of educational activities;
 
-- Programs for fostering language and culture of an ethnic minority;
+2) Programs for fostering language and culture of an ethnic minority;
 
-- Appropriate and periodic programs aiming at the realization of cultural and recreational activities, i.e. relaxation of children;
+3) Appropriate and periodic programs aiming at the realization of cultural and recreational activities, i.e. relaxation of children;
 
-- Family support programs;
+4) Family support programs;
 
-- Programs for  the  work  with  children in  the  family  (family  day-care,  baby service);
+5) Programs for the work with children in the family (family day-care, baby service);
 
-- Other programs and forms of work and services.
+6) Other programs and forms of work and services.
 
 Comprehensive requirements concerning the types, methods of implementation and financing of specific, specialized programs, and other forms of work and services offered in preschool institutions, shall be stipulated by the Minister.
 
@@ -283,9 +283,13 @@ Preschool institution may, in lack of spatial capacities or an insufficient numb
 
 #### Article 22
 
-Preparatory  preschool  program  shall  be  part  of  the  regular  program  of preschool  institutions  in  all-day  or  half-day  duration,  and  shall  be  conducted  with children in the year before starting school. Preparatory preschool program for the children who are not included in the regular program of preschool institution, shall be organized in a preschool institution, in some cases in a school, and in accordance with the Law and the Statute of the preschool institution, i.e. school. In some cases, a preparatory preschool program for children at home can be organized in the short term. preschool
+Preparatory preschool program shall be part of the regular program of preschool institutions in all-day or half-day duration, and shall be conducted with children in the year before starting school.
 
-Detailed requirements  for the implementation of preparatory program shall be laid down by the Minister.
+Preparatory preschool program for the children who are not included in the regular program of preschool institution, shall be organized in a preschool institution, in some cases in a school, and in accordance with the Law and the Statute of the preschool institution, i.e. school.
+
+In some cases, a preparatory preschool program for children at home can be organized in the short term.
+
+Detailed requirements for the implementation of preparatory preschool program shall be laid down by the Minister.
 
 #### Article 23
 
@@ -351,9 +355,9 @@ Preschool  program  shall  be  conducted  in  school  year  timeframe,  from Sep
 
 A preschool institution can acquire the status of a model center, if:
 
-- as  the  experimental  center  have participated in the research project that have  launched  innovations  in  the  implementation  of  educational  practice  or  has developed a new model of preschool education program;
+1) as the experimental center have participated in the research project that have launched innovations in the implementation of educational practice or has developed a new model of preschool education program;
 
-- there are enough personnel and spatial requirements for the organization of training and professional development of teachers and professional staff.
+2) there are enough personnel and spatial requirements for the organization of training and professional development of teachers and professional staff.
 
 The Institution of higher education or scientific research organization as the project  manager,  shall  advise  on  obtaining  the  status  of  the  model  center  for  the launch of innovation, and the preschool institution in question shall be a model for a period of five years.
 
@@ -369,14 +373,6 @@ Educational  work  with  children  shall  be  organized  in  educational  groups
 Educational  groups can  be formed for the children of  the  same or different ages.
 
 Number of children enrolled in an educational group of the same age is:
-
-12
-
-16
-
-20
-
-24
 
 From 6 months to 1 year | 7
 --- | ---
@@ -415,10 +411,6 @@ Number of children enrolled in the mixed groups shall be:
 - From 1 to 3 years | 12
 - From 3 years to school age | 20
 - From 2 years to school age | 15
-
-20
-
-15
 
 Preschool  institution  may  also  form  mixed  groups  with  children  of  different ages.
 
@@ -494,9 +486,9 @@ The  task  of  nurse-educators  is  to  provide  valueing  of  basic  principles
 
 Educator activities may be performed by a person who meets the requirements as referred to in the Law and who has the proper education, as follows:
 
-- with children aged from six months to two years - a person with secondary education title- a nurse-educator, and with children aged from two to three years - a person  with  secondary  education  -  a  nurse-educator  and  a  person  who  has  the prpper  higher  education  degree,  i.e.  the  appropriate  higher  education  of  the  first degree (basic professional studies), where he or she has been trained to work with children in nursery - educator;
+1) with children aged from six months to two years - a person with secondary education title- a nurse-educator, and with children aged from two to three years - a person with secondary education - a nurse-educator and a person who has the prpper higher education degree, i.e. the appropriate higher education of the first degree (basic professional studies), where he or she has been trained to work with children in nursery - educator;
 
-- with children from three years to the school age - a person who has the proper higher education degree, i.e. proper higher education of the first degree (basic professional  studies  or  primary  academic  studies)  for  a  period  of  three  years  of studies, or second degree (graduate academic studies -Master's degree,
+2) with children from three years to the school age - a person who has the proper higher education degree, i.e. proper higher education of the first degree (basic professional studies or primary academic studies) for a period of three years of studies, or second degree (graduate academic studies - Master's degree,
 
 [[END OF PAGE 14]]
 
@@ -506,13 +498,13 @@ Educator activities may be performed by a person who meets the requirements as r
 
 postgraduate  academic  studies  or  postgraduate  specialist  studies)  -  educator,  in accordance with the Law;
 
-3)  in  a  mixed  group  (with  children  from  two  years  to  the  school  age)  -  a person who meets the requirements laid down in point 1 and 2 of this paragraph educator;
+3) in a mixed group (with children from two years to the school age) - a person who meets the requirements laid down in point 1 and 2 of this paragraph - educator;
 
 4) with children in hospital treatment - a person who meets the requirements referred to in point 2 of this paragraph - educator;
 
 5)  with  children  with  developmental  disabilities  in  an  educational  group  -  a person who meets the requirements under points 1 and 2 of this paragraph, who has been trained in professional courses or approved programs to work with children with special needs - educator;
 
-6) with children with developmental disabilities in a developmental group - a person  with  the  proper  higher  education  of  the  second  degree  (graduate  studies  Master  studies  and  postgraduate  studies)  and  a  person  with  the  proper  higher education title  of  of  at  least  four-year  graduate  studies  -  defectologist-educator,  in accordance with the Law.
+6) with children with developmental disabilities in a developmental group - a person with the proper higher education of the second degree (graduate studies - Master studies and postgraduate studies) and a person with the proper higher education title of of at least four-year graduate studies - defectologist-educator, in accordance with the Law.
 
 7)  with  children  -  members of national  minorities - a person  who  meets the requirements under points 1, 2, 3, 4, 5 and 6 of this paragraph, who has acquired the proper  education  in  the  language  in  which  the  educational  activities  shall  be conducted, or who has passed the exam in that language, with methodology studied at the appropriate higher education institution - educator, in accordance with the Law.
 
@@ -576,11 +568,11 @@ The task of other personnel is to exercise their duties and improve the quality 
 
 Activities of personnel can be performe by a person, as follows:
 
-- Activities related to the promotion of social protection - a person who has the  appropriate  higher  education  title  of  the  second  degree  (graduate  studies  Master's degree, postgraduate academic studies or postgraduate specialist studies) and a person with higher education title in the basic studies of at least four years, in accordance with the Law .
+1) Activities related to the promotion of social protection - a person who has the appropriate higher education title of the second degree (graduate studies – Master’s degree, postgraduate academic studies or postgraduate specialist studies) and a person with higher education title in the basic studies of at least four years, in accordance with the Law .
 
-- Activities related to the promotion of preventive health care and supporting, planning and organization of nutrition - a person who has the appropriate education title  of  the first degree (basic professional studies, i.e. basic academic studies), i.e. studies of three years or higher education title in the field of medicine, in accordance with the Law;
+2) Activities related to the promotion of preventive health care and supporting, planning and organization of nutrition - a person who has the appropriate education title of the first degree (basic professional studies, i.e. basic academic studies), i.e. studies of three years or higher education title in the field of medicine, in accordance with the Law;
 
-- Activities related to nurture and preventive health care - a person who has an adequate title of secondary education in the field of medicine.
+3) Activities related to nurture and preventive health care - a person who has an adequate title of secondary education in the field of medicine.
 
 ### Pedagogical Assistant
 
@@ -628,7 +620,7 @@ Funds  for  implementation  of  preschool  education  activities  in  a  private
 
 The salary, allowance and other benefits shall be unique for all employees in a preschool institution founded by the Republic of Serbia, an autonomous province or local self-government, in accordance with regulations on salaries, benefits and other employment incomes in public services.
 
-The base for  the  calculation  of  salaries  in  preschool  institutions  cannot  be lower than the base for calculation and payment of salaries in elementary schools, nevertheless  may  be  increased  from  the  funds  of  the  institution  or  local  selfgovernment departments.
+The base for the calculation of salaries in preschool institutions cannot be lower than the base for calculation and payment of salaries in elementary schools, nevertheless may be increased from the funds of the institution or local self-government departments.
 
 [[END OF PAGE 18]]
 
@@ -640,15 +632,15 @@ The base for  the  calculation  of  salaries  in  preschool  institutions  canno
 
 #### Article 53
 
-A  fine  of  10,000  to  1,000,000  dinars  shall  be  imposed  on  a  preschool institution, i.e. a school implementing preschool progra if it:
+A fine of 10,000 to 1,000,000 dinars shall be imposed on a preschool institution, i.e. a school implementing preschool progra if it:
 
-- does  not  allow  parents  to  choose  the  language  on  which  a  child  shall attend preschool education (Article 5, Paragraph 2);
+1) does not allow parents to choose the language on which a child shall attend preschool education (Article 5, Paragraph 2);
 
-- does  not  keep  records, inaccurately  keeps  records  or does not save the records of educational work and activities (Articles 6 and 7);
+2) does not keep records, inaccurately keeps records or does not save the records of educational work and activities (Articles 6 and 7);
 
-- fails  to  notify  the  parents  and  local  authorities  in  due  course  about  the children  who  are  not  enrolled,  i.e.  do  not  attend  a  preparatory  preschool  program (Article 23, paragraph 2);
+3) fails to notify the parents and local authorities in due course about the children who are not enrolled, i.e. do not attend a preparatory preschool program (Article 23, paragraph 2);
 
-- does not organize educational groups in accordance with Article 30 and 31 of this Law;
+4) does not organize educational groups in accordance with Article 30 and 31 of this Law;
 
 A fine of 500 to 50,000 dinars shall be imposed for the infringement referred to  in  paragraph  1  of  this  Article  and  the  principal,  or  the  person  in  charge  of  the preschool institution, i.e. the school implementing preschool program.
 
