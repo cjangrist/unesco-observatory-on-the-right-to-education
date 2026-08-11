@@ -30,7 +30,7 @@ Most importantly, the reporting obligation under the provisions of Article VII o
 
 [[START OF PAGE 2]]
 
-### Participation in consultations
+### 3. Participation in consultations
 
 [[END OF PAGE 2]]
 
@@ -78,9 +78,9 @@ Country name: The Slovak Republic
 
 Organization or entity responsible for the preparation of the report: The Ministry of Education, Science, Research and Sport
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -106,7 +106,7 @@ Describe:
 
 o No, not considering ratification in the near future. Please explain why:
 
-#### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -122,7 +122,7 @@ o Yes
 
 o No, please briefly explain the difficulties encountered:
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 In case your country is a State Party to the Convention:
 
 - Is  the  Convention  directly  applicable  in  your  country's  domestic  law  following  its ratification?
@@ -177,11 +177,11 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-### Information on the implementation of the Convention or Recommendation
+### II. Information on the implementation of the Convention or Recommendation
 
-#### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+#### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable  quality  education  and  promote  lifelong  learning  opportunities  for  all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
@@ -309,7 +309,7 @@ Act no. 245/2008 Coll. on Education (School Act) and on Amendments to Certain Ac
 
 § 4 Objectives of education
 
-- to prepare for a responsible life in a free society, in a spirit of understanding and tolerance, equality between men and women, friendships between nations, ethnic and ethnic groups and religious tolerance.
+h) to prepare for a responsible life in a free society, in a spirit of understanding and tolerance, equality between men and women, friendships between nations, ethnic and ethnic groups and religious tolerance.
 
 The Act No. 131/2002 Higher Education - The rights established by this Act are equally guaranteed to all applicants and students in accordance with the principle of equal treatment in education established by a special law. In accordance with the principle of equal treatment, discrimination on the grounds of age, sex, sexual orientation, marital status and marital status. Race, colour, disability, language, political or other opinion, membership of a national minority, religion or belief, trade union activity, national or social origin, property, gender or other status is prohibited.
 
@@ -381,9 +381,9 @@ Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/
 
 - X Pre-primary education is compulsory: Please provide the age of enrolment and duration:
 
-With  effect  from  1  January  2021,  under  the  Act  no.  209/2019  Coll.,  amending  and supplementing  Act  no.  245/2008  Coll.  on  Training  and  Education  (School  Act)  and  on Amendments  to  Certain  Acts,  as  amended,  and  Amending  Certain  Acts  (hereinafter referred to as the 'School Act'), shall be for each child who has reached the age of five by 31  August,  which  precedes  the  beginning  of  the  school  year  from  which  the  child  will complete  compulsory  schooling  in  primary  school,  pre  -  primary  education  compulsory. This legislation will relate to children who reach the age of 5 years by 31 August 2021 and will start compulsory schooling in primary school from the school year 2022/2023. Respecting the fact that it will not be sufficient for all to complete one, compulsory, year of be  possible  for  children  who,  based  on  professional examination,  to  show  the  fulfillment  of  compulsory  school  attendance  in  primary  school continued in the compulsory pre-primary education of a child for another additional school
+With effect from 1 January 2021, under the Act no. 209/2019 Coll., amending and supplementing Act no. 245/2008 Coll. on Training and Education (School Act) and on Amendments to Certain Acts, as amended, and Amending Certain Acts (hereinafter referred to as the “School Act”), shall be for each child who has reached the age of five by 31 August, which precedes the beginning of the school year from which the child will complete compulsory schooling in primary school, pre - primary education compulsory. This legislation will relate to children who reach the age of 5 years by 31 August 2021 and will start compulsory schooling in primary school from the school year 2022/2023.
 
-pre-primary  education,  it will year.
+Respecting the fact that it will not be sufficient for all to complete one, compulsory, year of pre-primary education, it will be possible for children who, based on professional examination, to show the fulfillment of compulsory school attendance in primary school continued in the compulsory pre-primary education of a child for another additional school year.
 
 > 8 Which  states  that  'ECCE  is  part  of  the  right  to  education  and  the  main  foundation  for  holistic  human development'.
 
@@ -393,7 +393,7 @@ pre-primary  education,  it will year.
 
 - X Pre-primary education is free of charge for all: Please provide the duration:
 
-Compulsory  pre-primary  education  is  exempt  from  fees  for  partial  reimbursement  of kindergarten expenses. The state provides a lunch allowance to children for whom the preprimary education is compulsory.
+Compulsory pre-primary education is exempt from fees for partial reimbursement of kindergarten expenses. The state provides a lunch allowance to children for whom the pre-primary education is compulsory.
 
 - Please list the laws and policies that ensure the availability of pre-primary education for all and provide information on the difficulties experienced by your government in the realization of access to pre-primary education. Brief quantitative information could be added.
 
@@ -581,7 +581,7 @@ In this part, please provide information on the general availability and accessi
 
 - Is secondary education (middle/high) available free of charge?
 
-o Y es: Please provide the duration and describe the extent to which it is.
+o Yes: Please provide the duration and describe the extent to which it is.
 
 Upper  secondary  education  is  free  of  charge  (exceptions  are  some  private  schools), duration from 2 to 5 years depending on type of education program and achieved level of education:
 
@@ -605,9 +605,7 @@ Upper  secondary  education  is  free  of  charge  (exceptions  are  some  priva
 
 [[START OF PAGE 14]]
 
-- 2.3
-
-Please list the laws and policies that ensure the free availability of secondary education and describe  whether  direct  and  indirect  costs  are  covered  (such  as  tuition  fees,  exam  fees, school supplies, uniforms, transport costs and compulsory levies on parents).
+Please list the laws and policies that ensure the free availability of secondary education and describe whether direct and indirect costs are covered (such as tuition fees, exam fees, school supplies, uniforms, transport costs and compulsory levies on parents).
 
 Education Act 245/2008 Coll.
 
@@ -643,7 +641,7 @@ No
 
 - Please provide reference to the relevant laws and provisions:
 
-##### Higher education
+##### 2.3 Higher education
 Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher  education.
 
 Ensuring higher education is essential to achieve SDG4, both targets 4.3 9 , and target 4.4 10 .
@@ -732,7 +730,7 @@ Provision of professional training and qualifications: In recent years, the Slov
 
 ##### 2.5 Quality education provision and learning environment
 
-Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education.  Quality  education  is  fundamental  to  achieve  all  targets  of  SDG4.  It  is  also particularly  highlighted  in  SDG  target  4.a  that  recommends  states  to  'build  and  upgrade education  facilities  that  are  child,  disability  and  gender  sensitive  and  provide  safe,  nonviolent, inclusive and effective learning environments for all'.
+Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 -  Please  indicate  the  measures  taken  by  your  country  to  ensure  equivalence  in  all educational institutions with regard to (several items could be ticked/mentioned):
 
@@ -898,16 +896,7 @@ Other:
 
 - Please briefly elaborate further on the measures taken:
 
--
-
-the salaries of teaching and professional staff are regularly increasing, nevertheless they
-
-are not yet at a competitive or comparable level with other professions requiring similar or
-
-equivalent qualifications,
-
-the salaries of teaching and professional staff are regularly increasing, nevertheless they are not yet at a competitive or comparable level with other professions requiring similar or equivalent qualifications,
----
+- the salaries of teaching and professional staff are regularly increasing, nevertheless they are not yet at a competitive or comparable level with other professions requiring similar or equivalent qualifications,
 
 [[END OF PAGE 18]]
 
@@ -956,27 +945,25 @@ The Committee for Research, Education and Training in the Field of Human Rights 
 [[START OF PAGE 20]]
 
 Development Education, whose secretariat operates at the Ministry of Education of the Slovak Republic, is active under the advisory body of the Government of the Slovak Republic to the Human Government, National Minorities and Gender Equality. MŠVVaŠ SR as well as the directly managed organization the National Institute for Education cooperates with the Slovak National Center for Human Rights in the field of children's rights. It implements the principles and principles of the Convention on the Rights of the Child, including Optional Protocols (Optional Protocol on the Participation of Children in Armed Conflict, Optional Protocol on the Sale of Children, Child Prostitution and Child Pornography) into an innovated State Education Program (ISP) at all levels of education in selected subjects (especially civics, history, ethical / religious education, cross-sectional topic Multicultural education). The curriculum of these subjects is focused on the development of value competencies - respect for human dignity and human rights, children's rights, respect for cultural diversity, respect for democracy, justice, equality and the law.
----
-According to §4 of Act no. 138/2019 Coll. on Pedagogical Employees (PZ) and Professional Employees (OZ) and on Amendments to Certain Acts of 10.05.2019 are among the obligations of PZ and OZ to protect and respect the rights of the child, pupil, listener and his / her legal representative and also to act in accordance with the Code of
-In the education sector, in accordance with §13 of Act no. 596/2003 Coll. on state administration in education and school self-government established the State School Inspectorate, which in its activities also deals with discrimination and respect for human rights and regularly publishes a Report on the state and level of education in schools and school facilities in the Slovak Republic for each school year school year 2019/2020 link: https://www.ssiba.sk/default.aspx?text=g&id=3&lang=sk#2019_2020). The Center for Scientific and Technical Information of the Slovak Republic (hereinafter
-'CVTI') as one of the directly managed organizations of the Ministry of Education, Science, Research and Sport of the Slovak Republic carries out research within long-term monitoring of education and application of human rights in connection with the
-https://www.cvtisr.sk/cvti-sr-vedecka-kniznica/informacie-o-skolstve/vyskumy-a- prevencia/vyskumy-mladeze.html?page_id=10281
-of the results of research and surveys of CVTI can be found
-of the National Strategy for Human Rights Protection and Support in the
-Republic.
-at:
-Presentations
+According to §4 of Act no. 138/2019 Coll. on Pedagogical Employees (PZ) and Professional Employees (OZ) and on Amendments to Certain Acts of 10.05.2019 are among the obligations of PZ and OZ to protect and respect the rights of the child, pupil, listener and his / her legal representative and also to act in accordance with the Code of Ethics PZ and OZ.
+
+In the education sector, in accordance with §13 of Act no. 596/2003 Coll. on state administration in education and school self-government established the State School Inspectorate, which in its activities also deals with discrimination and respect for human rights and regularly publishes a Report on the state and level of education in schools and school facilities in the Slovak Republic for each school year school year 2019/2020 link: https://www.ssiba.sk/default.aspx?text=g&id=3&lang=sk#2019_2020).
+
+The Center for Scientific and Technical Information of the Slovak Republic (hereinafter “CVTI”) as one of the directly managed organizations of the Ministry of Education, Science, Research and Sport of the Slovak Republic carries out research within long-term monitoring of education and application of human rights in connection with the implementation of the National Strategy for Human Rights Protection and Support in the Slovak Republic.
+
+Presentations of the results of research and surveys of CVTI can be found at:
+https://www.cvtisr.sk/cvti-sr-vedecka-kniznica/informacie-o-skolstve/vyskumy-a-prevencia/vyskumy-mladeze.html?page_id=10281
+
 For more details, see Annex to 2_7.
-Slovak
-implementation
 
 ##### 2.8 Private education
 
 Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for private education. -  Does  your  country  have  a  regulatory  framework  relating  to  the  establishment  and functioning of private educational institutions? Yes x No - Please provide a brief description:
 
 The Slovak education system is diverse, with both public and non-public (religious/church and private) school providers. Non-state education is composed of private and church schools. According to the present legislation private schools and school facilities may be established by natural persons and legal entities. The constitution of church schools is allowed to the registered churches and religious societies.
----
 Church and other private providers receive public funding on a similar basis to state schools. The school network is defined in the Slovak Republic as the totality of schools formally accredited by the Ministry of Education, Science, Research and Sports of the Slovak Republic to provide education and care in the country.
+
+Private and church founders must also enclose the approval obtained either from the
 
 [[END OF PAGE 20]]
 
@@ -1110,11 +1097,7 @@ It is set out in more detail in Annex 2_9.
 
 ##### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this
-
-th
-
-context,  a  number  of  Member  States  that  participated  in  the  9 Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement  and  influx  of  refugees  worldwide  and  the  emergence  of  major  educational challenges  in  this  area,  as  well  as  the  frameworks  recently  adopted  by  the  international community, 15 demonstrate  the  opportunity  for  states  to  report  on  measures  adopted  to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin.14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community,15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 14 Articles/Paragraphs 1 and 3.
 
@@ -1182,13 +1165,11 @@ Methodological  guideline  no.  48/2011  for  the  admission  of  aliens  to  ca
 
 It is set out in more detail in Annex 2_10.
 
-### Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-#### Challenges and obstacles
+#### 1. Challenges and obstacles
 
-#### Awareness-raising
-
-##### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
+##### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing the key provisions of the Convention/Recommendation (including legal and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
 Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
 
@@ -1200,7 +1181,9 @@ Other:
 
 ##### 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
-UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.  Given  the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
+#### 2. Awareness-raising
+
+UNESCO governing bodies have underlined the need for awareness raising. Given the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
 -  Have  activities  been  carried  out  to  draw  the  attention  of  the  various  authorities  of  the country to the Convention/Recommendation and their provisions about the right to education and to  raise  awareness  of  the  principles  of  non-discrimination  and  equality  of  educational opportunities? (several items could be ticked/mentioned)
 
@@ -1212,9 +1195,9 @@ Translation  of  the  Convention/Recommendation  into  the  national  and  possi
 
 Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
-Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+Activities undertaken  or supported by the  National  Commission  to  promote  non-discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
 
 Other:
 
