@@ -192,7 +192,7 @@ b ) Ser assíduo, pontual e empenhado no cumprimento de todos os seus deveres no
 
 c ) Seguir as orientações dos professores relativas ao seu processo de ensino;
 
-- d ) Tratar com respeito e correção qualquer membro da comunidade educativa, não podendo, em caso algum, ser discriminado em razão da origem étnica, saúde, sexo, orientação sexual, idade, identidade de género, condição económica, cultural ou social, ou convicções políticas, ideológicas, filosóficas ou religiosas.
+- d ) Tratar com respeito e correção qualquer membro da comunidade educativa, não podendo, em caso algum, ser discriminado em razão da origem étnica, saúde, sexo, orientação sexual, idade, identidade de género, condição económica, cultural ou social, ou convicções políticas, ideológicas, filosóficas ou religiosas;
 
 - e ) Guardar lealdade para com todos os membros da comunidade educativa;
 
@@ -1234,7 +1234,7 @@ O disposto na presente lei aplica  -se apenas às situações constituídas apó
 
 1 - São revogados:
 
-- a ) O Estatuto do Aluno dos Ensinos Básico e Secundário, aprovado pela Lei n.º 30/2002, de 20 de dezembro, alterado pelas Leis n. os 3/2008, de 18 de janeiro, e 39/2012, de 2 de setembro;
+- a ) O Estatuto do Aluno dos Ensinos Básico e Secundário, aprovado pela Lei n.º 30/2002, de 20 de dezembro, alterado pelas Leis n. os 3/2008, de 18 de janeiro, e 39/2010, de 2 de setembro;
 
 - b ) Os artigos 26.º e 27.º do Decreto  -Lei n.º 301/93, de 31 de agosto.
 
