@@ -1,19 +1,5 @@
 [[START OF PAGE 1]]
 
-### ARTICULO 1° - OBJETO.
-
-Esta ley tiene por objeto la protección integral de los derechos de las niñas, niños y adolescentes que se encuentren en el territorio de la República Argentina, para garantizar el ejercicio y disfrute pleno, efectivo y permanente de aquellos reconocidos en el ordenamiento jurídico nacional y en los tratados internacionales en los que la Nación sea parte.
-
-Los  derechos  aquí  reconocidos  están  asegurados  por  su  máxima  exigibilidad  y  sustentados  en  el principio del interés superior del niño.
-
-La  omisión  en  la  observancia  de  los  deberes  que  por  la  presente  corresponden  a  los  órganos gubernamentales  del  Estado  habilita  a  todo  ciudadano  a  interponer  las  acciones  administrativas  y judiciales  a  fin  de  restaurar  el  ejercicio  y  goce  de  tales  derechos,  a  través  de  medidas  expeditas  y eficaces.
-
-### ARTICULO 2° - APLICACION OBLIGATORIA.
-
-La  Convención  sobre  los  Derechos  del  Niño  es  de  aplicación  obligatoria  en  las  condiciones  de  su vigencia,  en  todo  acto,  decisión  o  medida  administrativa,  judicial  o  de  cualquier  naturaleza  que  se adopte  respecto  de  las  personas  hasta  los  dieciocho  años  de  edad.  Las  niñas,  niños  o  adolescentes tienen  derecho  a  ser  oídos  y  atendidos  cualquiera  sea  la  forma  en  que  se  manifiesten,  en  todos  los ámbitos.
-
-Los  derechos  y  las  garantías  de  los  sujetos  de  esta  ley  son  de  orden  público,  irrenunciables, interdependientes, indivisibles e intransigibles.
-
 Ley  26.061
 
 HONORABLE CONGRESO DE LA NACION ARGENTINA 28-sep-2005
@@ -41,6 +27,20 @@ El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, e
 # TITULO I
 
 DISPOSICIONES GENERALES
+
+### ARTICULO 1° - OBJETO.
+
+Esta ley tiene por objeto la protección integral de los derechos de las niñas, niños y adolescentes que se encuentren en el territorio de la República Argentina, para garantizar el ejercicio y disfrute pleno, efectivo y permanente de aquellos reconocidos en el ordenamiento jurídico nacional y en los tratados internacionales en los que la Nación sea parte.
+
+Los  derechos  aquí  reconocidos  están  asegurados  por  su  máxima  exigibilidad  y  sustentados  en  el principio del interés superior del niño.
+
+La  omisión  en  la  observancia  de  los  deberes  que  por  la  presente  corresponden  a  los  órganos gubernamentales  del  Estado  habilita  a  todo  ciudadano  a  interponer  las  acciones  administrativas  y judiciales  a  fin  de  restaurar  el  ejercicio  y  goce  de  tales  derechos,  a  través  de  medidas  expeditas  y eficaces.
+
+### ARTICULO 2° - APLICACION OBLIGATORIA.
+
+La  Convención  sobre  los  Derechos  del  Niño  es  de  aplicación  obligatoria  en  las  condiciones  de  su vigencia,  en  todo  acto,  decisión  o  medida  administrativa,  judicial  o  de  cualquier  naturaleza  que  se adopte  respecto  de  las  personas  hasta  los  dieciocho  años  de  edad.  Las  niñas,  niños  o  adolescentes tienen  derecho  a  ser  oídos  y  atendidos  cualquiera  sea  la  forma  en  que  se  manifiesten,  en  todos  los ámbitos.
+
+Los  derechos  y  las  garantías  de  los  sujetos  de  esta  ley  son  de  orden  público,  irrenunciables, interdependientes, indivisibles e intransigibles.
 
 1
 
@@ -108,9 +108,9 @@ La prioridad absoluta implica:
 
 [[START OF PAGE 3]]
 
-- 4.- Asignación privilegiada e intangibilidad de los recursos públicos que las garantice;
+4.- Asignación privilegiada e intangibilidad de los recursos públicos que las garantice;
 
-- 5.- Preferencia de atención en los servicios esenciales.
+5.- Preferencia de atención en los servicios esenciales.
 
 ### ARTICULO 6° - PARTICIPACION COMUNITARIA.
 
@@ -356,7 +356,7 @@ a) Políticas, planes y programas de protección de derechos;
 
 b) Organismos administrativos y judiciales de protección de derechos;
 
-- Recursos económicos;
+c) Recursos económicos;
 
 d) Procedimientos;
 
@@ -601,7 +601,7 @@ Las decisiones de esta Comisión se adoptarán por el voto de las dos terceras p
 
 El  Defensor  de  los  Derechos  de  las  Niñas,  Niños  y  Adolescentes,  deberá  reunir  los  siguientes requisitos:
 
-- Ser Argentino;
+a) Ser Argentino;
 
 b) Haber cumplido TREINTA (30) años de edad;
 
@@ -689,7 +689,7 @@ El Defensor de los Derechos de las Niñas, Niños y Adolescentes determinará en
 
 El Defensor de los Derechos de las niñas, niños y adolescentes cesa en sus funciones por alguna de las siguientes causas:
 
-- Por renuncia;
+a) Por renuncia;
 
 b) Por vencimiento del plazo de su mandato;
 
