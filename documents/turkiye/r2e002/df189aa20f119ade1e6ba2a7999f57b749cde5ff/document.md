@@ -42,9 +42,9 @@ Bu  Kanun,  Türk  milli  eğitiminin  düzenlenmesinde  esas  olan  amaç  ve  
 ###### Madde 2
 Türk Milli Eğitiminin genel amacı,Türk Milletinin bütün fertlerini,
 
-(Değişik:  16/6/1983  -  2842/1  md.) Atatürk  inkılap  ve  ilkelerine  ve  Anayasada  ifadesini  bulan  Atatürk milliyetçiliğine bağlı; Türk Milletinin milli, ahlaki, insani, manevi ve kültürel değerlerini benimseyen, koruyan ve geliştiren; ailesini, vatanını, milletini seven ve daima yüceltmeye çalışan, insan haklarına ve Anayasanın başlangıcındaki temel ilkelere dayanan demokratik, laik ve sosyal bir hukuk Devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen ve bunları davranış haline getirmiş yurttaşlar olarak yetiştirmek;
+1. (Değişik: 16/6/1983 - 2842/1 md.) Atatürk inkılap ve ilkelerine ve Anayasada ifadesini bulan Atatürk milliyetçiliğine bağlı; Türk Milletinin milli, ahlaki, insani, manevi ve kültürel değerlerini benimseyen, koruyan ve geliştiren; ailesini, vatanını, milletini seven ve daima yüceltmeye çalışan, insan haklarına ve Anayasanın başlangıcındaki temel ilkelere dayanan demokratik, laik ve sosyal bir hukuk Devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen ve bunları davranış haline getirmiş yurttaşlar olarak yetiştirmek;
 
-- Beden, zihin, ahlak, ruh ve duygu bakımlarından dengeli ve sağlıklı şekilde gelişmiş bir kişiliğe ve karaktere, hür ve  bilimsel  düşünme  gücüne,  geniş  bir  dünya  görüşüne  sahip,  insan  haklarına  saygılı,  kişilik  ve  teşebbüse  değer  veren, topluma karşı sorumluluk duyan; yapıcı, yaratıcı ve verimli kişiler olarak yetiştirmek;
+2. Beden, zihin, ahlak, ruh ve duygu bakımlarından dengeli ve sağlıklı şekilde gelişmiş bir kişiliğe ve karaktere, hür ve bilimsel düşünme gücüne, geniş bir dünya görüşüne sahip, insan haklarına saygılı, kişilik ve teşebbüse değer veren, topluma karşı sorumluluk duyan; yapıcı, yaratıcı ve verimli kişiler olarak yetiştirmek;
 
 ----------
 
@@ -87,7 +87,7 @@ Fertlerin genel ve mesleki eğitimlerinin hayat boyunca devam etmesi esastır.
 Gençlerin eğitimi yanında, hayata ve iş alanlarına olumlu bir şekilde uymalarına yardımcı olmak üzere, yetişkinlerin sürekli eğitimini sağlamak için gerekli tedbirleri almak da bir eğitim görevidir.
 
 -------------
-##### VII - Atatürk İnkılap ve İlkeleri ve Atatürk Milliyetçiliği:
+
 
 (1)  6/2/2014  tarihli  ve  6518  sayılı  Kanunun  11  inci  maddesiyle,  bu  maddede  yer  alan  'cinsiyet'  ibaresinden  sonra  gelmek  üzere  ', engellilik' ibaresi eklenmiştir.
 
@@ -97,11 +97,13 @@ Gençlerin eğitimi yanında, hayata ve iş alanlarına olumlu bir şekilde uyma
 
 5103
 
+##### VII – Atatürk İnkılap ve İlkeleri ve Atatürk Milliyetçiliği:
+
 ###### Madde 10 - (Değişik: 16/6/1983 - 2842/2 md.)
 
 Eğitim sistemimizin her derece ve türü ile ilgili ders programlarının hazırlanıp uygulanmasında ve her türlü eğitim faaliyetlerinde Atatürk inkılap ve ilkeleri ve Anayasada ifadesini bulmuş olan Atatürk milliyetçiliği temel olarak alınır. Milli ahlak  ve  milli  kültürün  bozulup  yozlaşmadan  kendimize  has  şekli  ile  evrensel  kültür  içinde  korunup  geliştirilmesine  ve öğretilmesine önem verilir.
 
-Milli  birlik  ve  bütünlüğün  temel  unsurlarından  biri  olarak  Türk  dilinin,  eğitimin  her  kademesinde,  özellikleri bozulmadan ve aşırılığa kaçılmadan öğretilmesine önem verilir; çağdaş eğitim ve bilim dili halinde zenginleşmesine çalışılır ve  bu  maksatla  Atatürk  Kültür,  Dil  ve  Tarih  Yüksek  Kurumu  ile  işbirliği  yapılarak  Mili  Eğitim  Bakanlığınca  gereken tedbirler alınır.
+Milli birlik ve bütünlüğün temel unsurlarından biri olarak Türk dilinin, eğitimin her kademesinde, özellikleri bozulmadan ve aşırılığa kaçılmadan öğretilmesine önem verilir; çağdaş eğitim ve bilim dili halinde zenginleşmesine çalışılır ve bu maksatla Atatürk Kültür, Dil ve Tarih Yüksek Kurumu ile işbirliği yapılarak Milli Eğitim Bakanlığınca gereken tedbirler alınır.
 
 ##### VIII - Demokrasi eğitimi:
 
@@ -127,7 +129,7 @@ Bilgi ve teknoloji üretmek ve kültürümüzü geliştirmekle görevli eğitim 
 ##### XI - Planlılık :
 
 ###### Madde  14
-Milli  eğitimin  gelişmesi  iktisadi,  sosyal  ve  kültürel  kalkınma  hedeflerine  uygun  olarak  eğitim  insangücü - istihdam ilişkileri dikkate alınmak suretiyle, sanayileşme ve tarımda modernleşmede gerekli teknolojik gelişmeyi sağlayacak mesleki ve teknik eğitime ağırlık verecek biçimde planlanır ve gerçekleştirilir.
+Milli eğitimin gelişmesi iktisadi, sosyal ve kültürel kalkınma hedeflerine uygun olarak eğitim - insangücü - istihdam ilişkileri dikkate alınmak suretiyle, sanayileşme ve tarımda modernleşmede gerekli teknolojik gelişmeyi sağlayacak mesleki ve teknik eğitime ağırlık verecek biçimde planlanır ve gerçekleştirilir.
 
 Mesleklerin  kademeleri  ve  her  kademenin  unvan,  yetki  ve  sorumlulukları  kanunla  tespit  edilir  ve  her  derece  ve türdeki örgün ve yaygın mesleki eğitim kurumlarının kuruluş ve programları bu kademelere uygun olarak düzenlenir.
 
@@ -144,7 +146,7 @@ Okullarda kız ve erkek karma eğitim yapılması esastır. Ancak eğitimin tür
 
 5104
 
-##### XIII Eğitim  k am p ü sleri v e o k u l ile ailen in  işb irliği: ( 1 )
+##### XIII – Eğitim kampüsleri ve okul ile ailenin işbirliği: (1)
 
 ###### Madde 16 - (Değişik: 25/6/2009-5917/17 md.)
 
@@ -163,7 +165,7 @@ Eğitim  kampüsü  yönetimleri  ve  okul-aile  birlikleri,  bu  madde  kapsam�
 ###### Madde 17
 Milli eğitimin amaçları yalnız resmi ve özel eğitim kurumlarında değil, aynı zamanda evde, çevrede, işyerlerinde, her yerde ve her fırsatta gerçekleştirilmeye çalışılır.
 
-Resmi, özel ve gönüllü her kuruluşun eğitimle ilgili faaliyetleri, Milli Eğitim amaçlarına uygunluğu bakımından Millİ Eğitim Bakanlığının denetimine tabidir.
+Resmi, özel ve gönüllü her kuruluşun eğitimle ilgili faaliyetleri, Milli Eğitim amaçlarına uygunluğu bakımından Milli Eğitim Bakanlığının denetimine tabidir.
 
 -----------------
 
@@ -172,6 +174,8 @@ Resmi, özel ve gönüllü her kuruluşun eğitimle ilgili faaliyetleri, Milli E
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+5104-1
 
 ## İKİNCİ KISIM
 
@@ -191,7 +195,7 @@ Okul öncesi eğitimi, mecburi ilköğrenim çağına gelmemiş çocukların eğ
 ###### Madde 20
 Okul öncesi eğitiminin amaç ve görevleri, milli eğitimin genel amaçlarına ve temel ilkelerine uygun olarak, 1. Çocukların beden, zihin ve duygu gelişmesini ve iyi alışkanlıklar kazanmasını sağlamak; 2. Onları ilk öğretime hazırlamak; 3. Şartları elverişsiz çevrelerden ve ailelerden gelen çocuklar için ortak bir yetişme ortamı yaratmak; 4. Çocukların Türkçeyi doğru ve güzel konuşmalarını sağlamaktır.
 
-5104-1
+
 
 [[END OF PAGE 5]]
 
@@ -220,11 +224,11 @@ Mecburi  ilköğretim  çağı,  6-14  yaş  grubundaki  çocukları  kapsar.  �
 ###### Madde 23
 İlköğretimin amaç ve görevleri, milli eğitimin genel amaçlarına ve temel ilkelerine uygun olarak,
 
-- Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak; onu milli ahlak anlayışına uygun olarak yetiştirmek;
+1. Her Türk çocuğuna iyi bir vatandaş olmak için gerekli temel bilgi, beceri, davranış ve alışkanlıkları kazandırmak; onu milli ahlak anlayışına uygun olarak yetiştirmek;
 
-- Her Türk çocuğunu ilgi, istidat ve kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamaktır.
+2. Her Türk çocuğunu ilgi, istidat ve kabiliyetleri yönünden yetiştirerek hayata ve üst öğrenime hazırlamaktır.
 
-(Ek:  16/8/1997  -  4306/4  md.) İlköğretimin  son  ders  yılının  ikinci  yarısında  öğrencilere,  ortaöğretimde  devam edilebilecek  okul  ve  programların  hangi  mesleklerin  yolunu  açabileceği  ve  bu  mesleklerin  kendilerine  sağlayacağı  yaşam standardı konusunda tanıtıcı bilgiler vermek üzere rehberlik servislerince gerekli çalışmalar yapılır.
+3. (Ek: 16/8/1997 - 4306/4 md.) İlköğretimin son ders yılının ikinci yarısında öğrencilere, ortaöğretimde devam edilebilecek okul ve programların hangi mesleklerin yolunu açabileceği ve bu mesleklerin kendilerine sağlayacağı yaşam standardı konusunda tanıtıcı bilgiler vermek üzere rehberlik servislerince gerekli çalışmalar yapılır.
 
 ##### III - Kuruluş:
 ###### a) İlköğretim kurumları:
@@ -236,7 +240,7 @@ Mecburi  ilköğretim  çağı,  6-14  yaş  grubundaki  çocukları  kapsar.  �
 
 ###### Madde 25 - (Değişik: 16/6/1983 - 2842/9 md.)
 
-(Mülga birinci fıkra: 16/8/1997 - 4306/9 md.; Yeniden düzenleme: 30/3/2012-6287/9 md.) İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile  imam-hatip  ortaokullarından  oluşur.  Ortaokullar  ile  imam-hatip  ortaokullarında  lise  eğitimini  destekleyecek  şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Ortaokul ve liselerde, Kur'an-ı Kerim ve Hz. Peygamberimizin hayatı, isteğe bağlı seçmeli ders olarak okutulur. Bu okullarda okutulacak diğer seçmeli dersler ile imamhatip ortaokulları ve diğer ortaokullar için oluşturulacak program seçenekleri Bakanlıkça belirlenir.
+(Mülga birinci fıkra: 16/8/1997 - 4306/9 md.; Yeniden düzenleme: 30/3/2012-6287/9 md.) İlköğretim kurumları; dört yıl süreli ve zorunlu ilkokullar ile dört yıl süreli, zorunlu ve farklı programlar arasında tercihe imkân veren ortaokullar ile imam-hatip ortaokullarından oluşur. Ortaokullar ile imam-hatip ortaokullarında lise eğitimini destekleyecek şekilde öğrencilerin yetenek, gelişim ve tercihlerine göre seçimlik dersler oluşturulur. Ortaokul ve liselerde, Kur'an-ı Kerim ve Hz. Peygamberimizin hayatı, isteğe bağlı seçmeli ders olarak okutulur. Bu okullarda okutulacak diğer seçmeli dersler ile imam-hatip ortaokulları ve diğer ortaokullar için oluşturulacak program seçenekleri Bakanlıkça belirlenir.
 
 [[END OF PAGE 6]]
 
@@ -259,14 +263,14 @@ Ortaöğretim;  ilköğretime  dayalı  dört  yıllık  zorunlu  örgün  veya 
 ###### Madde 27
 İlköğretimini tamamlayan ve ortaöğretime girmeye hak kazanmış olan her öğrenci, ortaöğretime devam etmek ve ortaöğretim imkanlarından ilgi, istidat ve kabiliyetleri ölçüsünde yararlanmak hakkına sahiptir.
 
-##### III -- - A m aç v e  gö re v le r:
+##### III – Amaç ve görevler:
 
 ###### Madde 28
 Ortaöğretimin amaç ve görevleri, Milli Eğitimin genel amaçlarına ve temel ilkelerine uygun olarak,
 
 1.  Bütün  öğrencilere  ortaöğretim  seviyesinde  asgari  ortak  bir  genel  kültür  vermek  suretiyle  onlara  kişi  ve  toplum sorunlarını tanımak, çözüm yolları aramak ve yurdun iktisadi sosyal ve kültürel kalkınmasına katkıda bulunmak bilincini ve gücünü kazandırmak,
 
-- Öğrencileri, çeşitli program ve okullarla ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yüksek öğretime veya hem mesleğe hem de yüksek öğretime veya hayata ve iş alanlarına hazırlamaktır.
+2. Öğrencileri, çeşitli program ve okullarla ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yüksek öğretime veya hem mesleğe hem de yüksek öğretime veya hayata ve iş alanlarına hazırlamaktır.
 
 Bu görevler yerine getirilirken öğrencilerin istekleri ve kabiliyetleri ile toplum ihtiyaçları arasında denge sağlanır.
 
@@ -316,19 +320,19 @@ Yüksek öğretim, orta öğretime dayalı en az iki yıllık yüksek öğrenim 
 ##### II - Amaç ve görevler:
 
 ###### Madde 35
-Yüksek ögretimin amaç ve görevleri, milli eğitimin genel amaçlarına ve temel ilkelerine uygun olarak,
+Yüksek öğretimin amaç ve görevleri, milli eğitimin genel amaçlarına ve temel ilkelerine uygun olarak,
 
-- Öğrencileri  ilgi,  istidat  ve  kabiliyetleri  ölçüsünde  ve  doğrultusunda  yurdumuzun bilim politikasına ve toplumun yüksek seviyede ve çeşitli kademelerdeki insan gücü ihtiyaçlarına göre yetiştirmek;
+1. Öğrencileri ilgi, istidat ve kabiliyetleri ölçüsünde ve doğrultusunda yurdumuzun bilim politikasına ve toplumun yüksek seviyede ve çeşitli kademelerdeki insan gücü ihtiyaçlarına göre yetiştirmek;
 
-- Çeşitli kademelerde bilimsel öğretim yapmak;
+2. Çeşitli kademelerde bilimsel öğretim yapmak;
 
-- Yurdumuzu ilgilendirenler başta olmak üzere, bütün bilimsel, teknik ve kültürel sorunları çözmek için bilimleri genişletip derinleştirecek inceleme ve araştırmalarda bulunmak;
+3. Yurdumuzu ilgilendirenler başta olmak üzere, bütün bilimsel, teknik ve kültürel sorunları çözmek için bilimleri genişletip derinleştirecek inceleme ve araştırmalarda bulunmak;
 
-- Yurdumuzun türlü yönde ilerleme ve gelişmesini ilgilendiren bütün sorunları, Hükümet ve kurumlarla da elbirliği etmek suretiyle öğretim ve araştırma konusu yaparak sonuçlarını toplumun yararlanmasına sunmak ve Hükümetçe istenecek inceleme ve araştırmaları sonuçlandırarak düşüncelerini bildirmek;
+4. Yurdumuzun türlü yönde ilerleme ve gelişmesini ilgilendiren bütün sorunları, Hükümet ve kurumlarla da elbirliği etmek suretiyle öğretim ve araştırma konusu yaparak sonuçlarını toplumun yararlanmasına sunmak ve Hükümetçe istenecek inceleme ve araştırmaları sonuçlandırarak düşüncelerini bildirmek;
 
-- Araştırma  ve  incelemelerinin  sonuçlarını  gösteren,  bilim  ve  tekniğin  ilerlemesini  sağlayan  her  türlü  yayınları yapmak;
+5. Araştırma ve incelemelerinin sonuçlarını gösteren, bilim ve tekniğin ilerlemesini sağlayan her türlü yayınları yapmak;
 
-- Türk  toplumunun  genel  seviyesini  yükseltici  ve  kamu  oyunu  aydınlatıcı  bilim  verilerini  sözle,  yazı  ile  halka yaymak ve yaygın eğitim hizmetlerinde bulunmaktır.
+6. Türk toplumunun genel seviyesini yükseltici ve kamu oyunu aydınlatıcı bilim verilerini sözle, yazı ile halka yaymak ve yaygın eğitim hizmetlerinde bulunmaktır.
 
 ##### III - Kuruluş:
 
@@ -338,19 +342,19 @@ Yüksek ögretimin amaç ve görevleri, milli eğitimin genel amaçlarına ve te
 
 Yükseköğretim kurumları şunlardır:
 
-- Üniversiteler,
+1. Üniversiteler,
 
-- Fakülteler,
+2. Fakülteler,
 
-- Enstitüler,
+3. Enstitüler,
 
-- Yüksekokullar,
+4. Yüksekokullar,
 
-- Konservatuvarlar,
+5. Konservatuvarlar,
 
-- Meslek yüksekokulları
+6. Meslek yüksekokulları
 
-- Uygulama ve araştırma merkezleri,
+7. Uygulama ve araştırma merkezleri,
 
 Yükseköğretim  kurumlarının  amaçları,  açılış,  kuruluş  ve  işleyişleri  ile  öğretim  elemanlarına  ilişkin  esaslar  ve yükseköğretim kurumları ile ilgili diğer hususlar, özel kanunlarında belirlenir.
 
@@ -372,7 +376,7 @@ Yüksek öğretim paralıdır. Başarılı olan fakat maddi imkanları elverişl
 
 5108
 
-Öğrenim harç ve ücretlerinin tutarları ve bunların ödenme tarzları ile burs ve kredilerin tutarları ve bunların veriliş esasları, Maliye Bakanlığı ile birlikle hazırlanacak yönetmelikle tespit edilir. (1)
+Öğrenim harç ve ücretlerinin tutarları ve bunların ödenme tarzları ile burs ve kredilerin tutarları ve bunların veriliş esasları, Maliye Bakanlığı ile birlikte hazırlanacak yönetmelikle tespit edilir. (1)
 
 Bazı alanlar için mecburi hizmet karşılığı öğrenci yetiştirilmesi hakkındaki hükümler saklıdır.
 
@@ -396,7 +400,7 @@ Yaygın eğitimin özel amacı, milli eğitimin genel amaçlarına ve temel ilke
 
 3. Milli kültür değerlerimizi koruyucu, geliştirici, tanıtıcı, benimsetici nitelikte eğitim yapmak,
 
-- Toplu yaşama, dayanışma, yardımlaşma, birlikte çalışma ve örgütlenme anlayış ve alışkanlıkları kazandırmak,
+4. Toplu yaşama, dayanışma, yardımlaşma, birlikte çalışma ve örgütlenme anlayış ve alışkanlıkları kazandırmak,
 
 5. İktisadi gücün arttırılması için gerekli beslenme ve sağlıklı yaşama şekil ve usullerini benimsetmek,
 
@@ -414,7 +418,7 @@ Yaygın eğitim, örgün eğitim ile birbirini tamamlayacak, gereğinde aynı va
 Yaygın  eğitim,  genel  ve  mesleki  -  teknik  olmak  üzere  iki  temel  bölümden  meydana  gelir.  Bu  bölümler  birbirini destekleyici biçimde hazırlanır.
 
 ----------
-##### III - Koordinasyon:
+
 
 (1) Bu  fıkradaki  öğrenim  harç  ve  ücretlerine  ilişkin  düzenlemenin  yönetmelikle  yapılmasını  öngören  kural  Anayasa  Mahkemesinin 26/3/1974 tarih ve E.1973/32, K. 1974/11 sayılı Kararı ile iptal edilmiştir.
 
@@ -423,6 +427,8 @@ Yaygın  eğitim,  genel  ve  mesleki  -  teknik  olmak  üzere  iki  temel  bö
 [[START OF PAGE 11]]
 
 5109
+
+##### III – Koordinasyon:
 
 ###### Madde  42
 Genel,  mesleki  ve  teknik  yaygın  eğitim  alanında  görev  alan  resmi,  özel  ve  gönüllü  kuruluşların çalışmaları arasındaki koordinasyon Milli Eğitim Bakanlığınca sağlanır.
@@ -435,7 +441,7 @@ Mesleki  ve  teknik  yaygın  eğitim  faaliyetlerini  yürüten  Bakanlıklar  
 
 ## Öğretmenlik Mesleği
 
-##### 1 -  Öğretmenlik :  (1)
+##### I – Öğretmenlik : (1)
 
 ###### Madde 43
 Öğretmenlik, Devletin eğitim, öğretim ve bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir.  Öğretmenler  bu  görevlerini  Türk  Milli  Eğitiminin  amaçlarına  ve  temel  ilkelerine  uygun  olarak  ifa  etmekle yükümlüdürler.
@@ -492,7 +498,7 @@ sayılı Kararı ile.)
 
 ------------
 
-( 1 )   1 9 / 11/ 20 1 4   t arih li  v e   6 5 6 9   say ılı  Kan u n u n   2 4   ü n cü   m ad d e siy le ,  b u   f ık rad a  y e r  alan   ''sak lıd ır''  ib are si ''ad ay  ö ğretm en ler h ak k ın d a u y gu lan m az ''  şek lin d e d eğişt irilm iştir.
+(1) 19/11/2014 tarihli ve 6569 sayılı Kanunun 24 üncü maddesiyle, bu fıkrada yer alan ‘‘saklıdır’’ ibaresi ‘‘aday öğretmenler hakkında uygulanmaz’’ şeklinde değiştirilmiştir.
 
 (2) Anayasa Mahkemesi'nin 21/5/2008 tarihli ve E.: 2004/83, K.: 2008/107 sayılı Kararı ile; bu maddeye 30/6/2004 tarihli ve 5204 sayılı Kanunun 1 inci  maddesiyle  eklenen bu  fıkrada  yer  alan  '  …  hizmet  içi  eğitim,  …'  ibaresi  iptal  edilmiş  olup,  İptal  Kararının  Resmi Gazete'de yayım tarihi olan 18/3/2009 tarihinden başlayarak bir yıl sonra yürürlüğe gireceği hüküm altına alınmıştır.
 
@@ -507,11 +513,17 @@ sayılı Kararı ile.)
 Öğretmenlik  formasyonu  veren  ve  öğretmen  yetiştiren  Milli  Eğitim  Bakanlığına  bağlı  eğitim  yüksekokulları, Cumhurbaşkanı kararı ile kurulabilirler.
 ##### III - Öğretmenlerin nitelikleri ve seçimi:
 ###### Madde 45
-Öğretmen adaylarında  genel  kültür,  özel  alan  eğitimi  ve  pedagöjik  formasyon  bakımından  aranacak nitelikler Milli Eğitim Bakanlığınca tespit olunur. (Değişik:  16/6/1983  -  2842/13  md.) Öğretmenler,öğretmen  yetiştiren  yükseköğretim  kurumlarından  ve  bunlara denkliği kabul edilen yurtdışı yükseköğretim kurumlarından mezun olanlar arasından, Milli Eğitim Bakanlığınca seçilirler. Yüksek  öğrenimleri  sırasında  pedagojik  formasyon  kazanmamış  olanların  ihtiyaç  duyulan  alanlarda,  öğretmenliğe atanmaları halinde bu gibilerin adaylık dönemi içinde yetişmeleri için Milli Eğitim Bakanlığınca gerekli tedbirler alınır. Hangi  derece  ve  türdeki  eğitim,  öğretim,  teftiş  ve  yönetim  görevlerine,  hangi  seviye  ve  alanda  öğrenim  görmüş olanların ne gibi şartlarla seçilebilecekleri yönetmelikle düzenlenir.
+Öğretmen adaylarında genel kültür, özel alan eğitimi ve pedagojik formasyon bakımından aranacak nitelikler Milli Eğitim Bakanlığınca tespit olunur.
+
+(Değişik: 16/6/1983 - 2842/13 md.) Öğretmenler,öğretmen yetiştiren yükseköğretim kurumlarından ve bunlara denkliği kabul edilen yurtdışı yükseköğretim kurumlarından mezun olanlar arasından, Milli Eğitim Bakanlığınca seçilirler.
+
+Yüksek öğrenimleri sırasında pedagojik formasyon kazanmamış olanların ihtiyaç duyulan alanlarda, öğretmenliğe atanmaları halinde bu gibilerin adaylık dönemi içinde yetişmeleri için Milli Eğitim Bakanlığınca gerekli tedbirler alınır.
+
+Hangi derece ve türdeki eğitim, öğretim, teftiş ve yönetim görevlerine, hangi seviye ve alanda öğrenim görmüş olanların ne gibi şartlarla seçilebilecekleri yönetmelikle düzenlenir.
 ##### IV - Öğretmenlerin bölge hizmeti:
 ###### Madde 46
 Öğretmenlikte yurdun çeşitli bölgelerinde görev yapmak esastır. Hizmet bölgeleri ve ihtiyaçlara göre bu bölgelerarası yer değiştirme esasları yönetmelikle düzenlenir.
-##### V - Uzman ve usta ögreticiler:
+##### V - Uzman ve usta öğreticiler:
 ###### Madde 47 - (Değişik: 16/6/1983 - 2842/14 md.)
 Örgün  ve  yaygın  eğitim  kurumlarında  ve  hizmetiçi  yetiştirme  kurs,seminer  ve  konferanslarında  uzman  ve  usta öğreticiler de geçici veya sürekli olarak görevlendirilebilir. Öğretim  tür  ve  seviyelerine  göre  uzman  ve  usta  öğreticilerin  seçimlerinde  aranacak  şartlar,  görev  ve  yetkileri, yönetmeliklerle tespit edilir.
 ##### VI - Öğretmenlerin hizmet içi yetiştirilmesi:
@@ -525,11 +537,13 @@ tutularak, hazırlanacak yönetmelikle belirtilir.
 
 -----------------
 
-( 1 )   2 / 7 / 2 0 1 8   t arih li  v e   7 0 0   say ılı  KHK'n in   6 2   n ci  m ad d esiy le,  b u   m ad d ed e y e r  alan   ''Yü k sek ö ğretim Kurulun un  görü şü  alın arak , Bak an lar Ku ru lu '' ib aresi ''Cu m h u rb aşk an ı'' şek lin d e d eğiştirilm iştir.
+(1) 2/7/2018 tarihli ve 700 sayılı KHK’nin 62 nci maddesiyle, bu maddede yer alan ‘‘Yükseköğretim Kurulunun görüşü alınarak, Bakanlar Kurulu’’ ibaresi ‘‘Cumhurbaşkanı’’ şeklinde değiştirilmiştir.
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+5110-2
 
 ##### VIII - Öğretmen konutları:
 
@@ -554,15 +568,13 @@ Eğitim araç ve gereçleri, eğitim  kurumlarında kullanılacak ders kitaplar�
 
 ------------------
 
-(1)  Bu  madde  başlığı'I-Okul  yapıları:'  iken,  3/12/2003  tarihli  ve  5005  sayılı  Kanunun  1  inci  maddesiyle  metne  işlendiği  şekilde
-
-değiştirilmiştir.
-
-5110-2
+(1) Bu madde başlığı “I-Okul yapıları:” iken, 3/12/2003 tarihli ve 5005 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+5111
 
 ##### II - Görev:
 
@@ -574,11 +586,11 @@ Milli Eğitim Bakanlığı, kendisine bağlı eğitim kurumlarının eğitim ara
 ###### Madde 54
 Milli Eğitim Bakanlığı eğitim araç ve gereçlerini,
 
-- Hazırlamak, imal etmek ve satın almak;
+1. Hazırlamak, imal etmek ve satın almak;
 
-- Kişilere veya kuracağı komisyonlara veya yarışmalar düzenleyerek hazırlatmak;
+2. Kişilere veya kuracağı komisyonlara veya yarışmalar düzenleyerek hazırlatmak;
 
-- Özel  kesimce  hazırlananlar  veya  imal  edilenler  arasından  seçmek  veya  tavsiye  etmek  suretiyle  53  üncü  maddede  belirtilen görevini yerine getirir.
+3. Özel kesimce hazırlananlar veya imal edilenler arasından seçmek veya tavsiye etmek suretiyle 53 üncü maddede belirtilen görevini yerine getirir.
 
 ##### IV - Okullarda okutulacak kitapların tespiti ve ücret ödenmesi:
 ###### Madde 55 - (Değişik: 3/12/2003 - 5005/2 md.)
@@ -591,7 +603,7 @@ redaksiyonunda görevlendirilenlere ücret ödenir. Ders kitaplarına ilişkin y
 
 düzenlenir.
 
-5111
+
 
 ## ALTINCI KISIM
 
@@ -605,11 +617,11 @@ Eğitim ve öğretim hizmetinin, bu kanun hükümlerine göre Devlet adına yür
 Askeri maksatlarla açılacak okullar hariç, bu kanun hükümlerine aykırı hiç bir eğitim faaliyetinde bulunulamaz.
 ##### III - Okul açma yetkisi:
 ###### Madde 58 - (Değişik: 16/6/1983 - 2842/16 md.)
-Türkiye'de ilköğretim okulu, lise veya dengi okullar, Milli Eğitim Bakanlığının izni olmaksızın açılamaz. Milli Eğitim Bakanlığı veya diğer bir bakanlık tarafından açılmış veya açılacak okullar (…) (1) ile özel okulların derecelerinin tayini, Milli Eğitim Bakanlığına aittir. (1) Askeri
+Türkiye'de ilköğretim okulu, lise veya dengi okullar, Milli Eğitim Bakanlığının izni olmaksızın açılamaz. Milli Eğitim Bakanlığı veya diğer bir bakanlık tarafından açılmış veya açılacak okullar (…) (1) ile özel okulların derecelerinin tayini, Milli Eğitim Bakanlığına aittir. (1)
 
-( Değişik  üçüncü  fıkra:  2 5 / 7 / 2 0 1 6 -KHK-6 6 9 / 5 1   m d.;  Ay n en   kabul:  9 / 1 1 / 2 0 1 6 -6 7 5 6 / 5 1   m d .) eğitim  ku r u m la r ın ın  d er eceler i ve m ü fr ed a tı, Milli Sa vu n m a  Ba ka n lığı ile b ir likte tesp it ed ilir .
+(Değişik üçüncü fıkra: 25/7/2016-KHK-669/51 md.; Aynen kabul: 9/11/2016-6756/51 md.) Askeri eğitim kurumlarının dereceleri ve müfredatı, Milli Savunma Bakanlığı ile birlikte tespit edilir.
 
---------------- Diğer  bakanlıklara  bağlı  lise  ve  dengi  okulların  program  ve  yönetmelikleri,  ilgili  bakanlıkla  Milli  Eğitim  Bakanlığı  tarafından birlikte yapılır ve Milli Eğitim Bakanlığınca onanır.
+---------------
 
 (1) 25/7/2016 tarihli ve 669 sayılı KHK'nin 51 inci maddesiyle, bu fıkrada yer alan "(Askeri liseler dahil)" ibaresi yürürlükten kaldırılmış olup,  daha sonra bu hüküm 9/11/2016 tarihli ve 6756 sayılı Kanunun 51 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
@@ -618,6 +630,8 @@ Türkiye'de ilköğretim okulu, lise veya dengi okullar, Milli Eğitim Bakanlı�
 [[START OF PAGE 16]]
 
 5112
+
+Diğer bakanlıklara bağlı lise ve dengi okulların program ve yönetmelikleri, ilgili bakanlıkla Milli Eğitim Bakanlığı tarafından birlikte yapılır ve Milli Eğitim Bakanlığınca onanır.
 
 Diğer  bakanlıklara  bağlı  okullar,  Milli  Eğitim  Bakanlığının  gözetim  ve  denetimine  tabidir.  Gözetim  ve  denetim  sonunda  uygun eğitim  ortamı  ve  niteliği  taşımayan  kurumların  denkliği  usulüne  uygun  şekilde  Milli  Eğitim  Bakanlığınca  iptal  edilir.  Buna  ait  esaslar Cumhurbaşkanınca çıkarılan bir yönetmelikle düzenlenir. (1)
 
@@ -657,7 +671,7 @@ hükmü uygulanmaz.
 ###### Geçici Madde 2 - (Ek: 16/6/1983 - 2842/18 md.; Mülga: 16/8/1997 - 4306/9 md.)
 ###### Geçici Madde 3 - (Ek: 30/3/2012 - 6287/11 md.)
 
-Zorunlu ortaöğretim 2012-2013 eğitim-öğretim yılından itibaren uygulanmaya başlanır. Bakanlar Kurulu uygulamayı bir eğitimöğretim yılı ertelemeye yetkilidir.
+Zorunlu ortaöğretim 2012-2013 eğitim-öğretim yılından itibaren uygulanmaya başlanır. Bakanlar Kurulu uygulamayı bir eğitim-öğretim yılı ertelemeye yetkilidir.
 
 ###### Geçici Madde 4 - (Ek: 1/3/2014-6528/6 md.)
 
@@ -678,7 +692,7 @@ Bu Kanunu Bakanlar Kurulu yürütür.
 
 -----------------
 
-( 1 )   2 / 7 / 2 0 1 8   t arih li  v e   7 0 0   say ılı  KHK'n in   6 2   n ci  m ad d e siy le ,  b u   f ık rad a  y e r  alan     ''Bak an lar  Ku ru lu n ca'' ib aresi ''Cu m h u rb aşk an ın ca'' şek lin d e d eğiştirilm iştir.
+(1) 2/7/2018 tarihli ve 700 sayılı KHK’nin 62 nci maddesiyle, bu fıkrada yer alan ‘‘Bakanlar Kurulunca’’ ibaresi ‘‘Cumhurbaşkanınca’’ şeklinde değiştirilmiştir.
 
 [[END OF PAGE 16]]
 
@@ -690,10 +704,10 @@ Bu Kanunu Bakanlar Kurulu yürütür.
 
 Değiştiren Kanunun/KHK'nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası | 1739 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 --- | --- | ---
-2842 | - | 18/6/1983
-2947 | - | 11/11/1983
-4306 | - | 18/8/1997
-5005 | - | 9/12/2003
+2842 | — | 18/6/1983
+2947 | — | 11/11/1983
+4306 | — | 18/8/1997
+5005 | — | 9/12/2003
 5204 | 43 | 8/7/2004
 5257 | 16 | 13/11/2004
 5763 | 21 | 26/5/2008
