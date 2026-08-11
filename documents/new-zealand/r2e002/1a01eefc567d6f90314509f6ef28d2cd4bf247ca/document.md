@@ -1,16 +1,19 @@
 [[START OF PAGE 1]]
 
-# Pasifika Education Plan 2013-2017
+MINISTRY OF EDUCATION
+Te Tāhuhu o te Mātauranga
+
+# Pasifika Education Plan 2013–2017
 
 ## Foreword
 
 Talofa lava, Kia orana, Fakaalofa lahi atu, Talofa ni, Mālō e lelei, Ni sa bula, Greetings, Tēnā koutou katoa.
 
-A key goal for our Government is to create the conditions for strong, vibrant and successful Pasifika communities - communities that can help build a more productive and competitive economy for all New Zealanders.
+A key goal for our Government is to create the conditions for strong, vibrant and successful Pasifika communities – communities that can help build a more productive and competitive economy for all New Zealanders.
 
-We are pleased to present the Pasifika Education Plan 2013-2017 which sets out the Government's strategic direction for improving Pasifika education outcomes over the next five years. It is one of the Government's key strategies that will contribute to economic growth and social well-being.
+We are pleased to present the Pasifika Education Plan 2013–2017 which sets out the Government’s strategic direction for improving Pasifika education outcomes over the next five years. It is one of the Government’s key strategies that will contribute to economic growth and social well-being.
 
-We have been working to improve outcomes for Pasifika learners through increased participation in early childhood education, enhanced school experiences, and a sharper focus on provider performance. As a result, Pasifika learners' participation, engagement and achievement in education have improved markedly during the last five years. More Pasifika learners are achieving NCEA Level 2 or equivalent qualifications and gaining entrance to university.
+We have been working to improve outcomes for Pasifika learners through increased participation in early childhood education, enhanced school experiences, and a sharper focus on provider performance. As a result, Pasifika learners’ participation, engagement and achievement in education have improved markedly during the last five years. More Pasifika learners are achieving NCEA Level 2 or equivalent qualifications and gaining entrance to university.
 
 We have seen an increase in the number of Pasifika students gaining Level 4 and above qualifications, or equivalent, by age 25 from18% (836) in 2007 to 26% (1,300) in 2010.
 
@@ -20,19 +23,28 @@ Practically, this means increasing participation in quality early childhood educ
 
 Higher level tertiary qualifications bring people the greatest benefits, including better income and employment opportunities. When compared with all other groups, despite the progress we have made, Pasifika people still have the second lowest proportion with degrees or higher qualifications.
 
-Hon Hekia Parata Minister of Education We need Pasifika learners to be achieving at all levels at least on a par with other learners.
+We need Pasifika learners to be achieving at all levels at least on a par with other learners.
 
-The Pasifika Education Plan aims to not only keep up the momentum we have achieved to date but also step up the pace by increasing the responsibility and accountability of everyone in the education system. The Pasifika Education Plan will also contribute to achieving the Government's education priorities by focusing on achieving the Better Public Services (BPS) targets for education.
+The Pasifika Education Plan aims to not only keep up the momentum we have achieved to date but also step up the pace by increasing the responsibility and accountability of everyone in the education system. The Pasifika Education Plan will also contribute to achieving the Government’s education priorities by focusing on achieving the Better Public Services (BPS) targets for education.
 
-We look forward to seeing a significant lift in outcomes for Pasifika learners with the implementation of the new Pasifika Education Plan 2013-2017. We expect the Ministry of Education and its Education Partner Agencies to ensure that everything they do works well so that successful Pasifika participation, engagement and achievement in education are a sustained reality.
+We look forward to seeing a significant lift in outcomes for Pasifika learners with the implementation of the new Pasifika Education Plan 2013–2017. We expect the Ministry of Education and its Education Partner Agencies to ensure that everything they do works well so that successful Pasifika participation, engagement and achievement in education are a sustained reality.
 
-Hon Steven Joyce Minister for Tertiary Education Skills and Employment
+Hon Hekia Parata
+Minister of Education
+
+Hon Steven Joyce
+Minister for Tertiary Education
+Skills and Employment
+
+Pasifika
+Education
+it’s a shared responsibility
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-PASIFIKA IDENTITIES INTERGENERATIONAL DIVERSE MULTIPLE WORLD VIEWS LOCATION CONNECTEDNESS IDENTITIES CULTURES LANGUAGES TALANOA AKO
+PASIFIKA IDENTITIES IDENTITIES CULTURES INTERGENERATIONAL TALANOA AKO LANGUAGES DIVERSE MULTIPLE WORLD VIEWS LOCATION CONNECTEDNESS
 
 ## A Message from the Secretary for Education and Chief Executives of Partner Agencies
 
@@ -50,53 +62,63 @@ The Ministry of Education alongside the Ministry of Pacific Island Affairs, the 
 
 The PEP is the overarching education strategy from which other Education Partner Agencies' Pasifika frameworks and strategies link. These links are seen through the NZQA's Pasifika Strategy 2012-2015, TEC's Pasifika Framework 2013-2017 and ERO's Pacific Strategy.
 
-Lesley Longstone Secretary for Education Ministry of Education
-
-Dr Graham Stoop Chief Review Officer & Chief Executive Education Review Office
-
-Belinda Clark Chief Executive Tertiary Education Commission
-
-Director New Zealand Teachers Council
-
-Dr Peter Lind
-
 By prioritising the achievement of Pasifika learners, Education Partner Agencies will ensure all our performances in lifting achievement are measured and transparent. The Ministry will closely monitor the implementation of the PEP and expects to see increased Pasifika participation, engagement and outcomes.
 
 Together we will work towards achieving the goals that Pasifika learners, their parents, families and communities demand as citizens of Aotearoa New Zealand.
 
-Pauline Winter Chief Executive Ministry of Pacific Island Affairs
+Lesley Longstone
+Secretary for Education
+Ministry of Education
+
+Pauline Winter
+Chief Executive
+Ministry of Pacific Island Affairs
+
+Dr Graham Stoop
+Chief Review Officer & Chief Executive
+Education Review Office
 
 Dr Karen Poutasi
-
 Chief Executive
-
 New Zealand Qualifications Authority
 
-Dr Graeme Benny Chief Executive Careers New Zealand
+Belinda Clark
+Chief Executive
+Tertiary Education Commission
 
-Lorraine Kerr President New Zealand School Trustees Association
+Dr Graeme Benny
+Chief Executive
+Careers New Zealand
+
+Dr Peter Lind
+Director
+New Zealand Teachers Council
+
+Lorraine Kerr
+President
+New Zealand School Trustees Association
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-PASIFIKA VALUES RECIPROCAL RELATIONSHIPS SERVICE INCLUSION RESPECT SPIRITUALITY LEADERSHIP BELONGING LOVE FAMILY SERVICE SPIRITUALITY LEADERSHIP BELONGING FAMILY RECIPROCAL RELATIONSHIPS
+PASIFIKA VALUES RECIPROCAL RELATIONSHIPS SERVICE INCLUSION RESPECT SPIRITUALITY LEADERSHIP BELONGING LOVE FAMILY SERVICE SPIRITUALITY LEADERSHIP BELONGING RECIPROCAL RELATIONSHIPS FAMILY
 
 ## Pasifika Success
 
-The Pasifika Education Plan 2013-2017 (PEP) personalises all of the Ministry of Education and Education Partner Agencies' work to Pasifika. Personalising is used to show that the PEP puts Pasifika learners, their parents, families and communities at the centre, so that all activities ensure the Ministry of Education and Education Partner Agencies are responding to the identities, languages and cultures of each Pasifika group. This requires the PEP to take account of processes, methodologies, theories and knowledges that are fa'asamoa (the Samoan way), faka-Tonga (the Tongan way), faka- Tokelau (the Tokelau way), faka-Niue (the Niue way), akano'anga Kūki 'Āirani (the Cook Islands way), and vaka-Viti (the Fijian way), for the major Pasifika populations.
+The Pasifika Education Plan 2013–2017 (PEP) personalises all of the Ministry of Education and Education Partner Agencies’ work to Pasifika. Personalising is used to show that the PEP puts Pasifika learners, their parents, families and communities at the centre, so that all activities ensure the Ministry of Education and Education Partner Agencies are responding to the identities, languages and cultures of each Pasifika group. This requires the PEP to take account of processes, methodologies, theories and knowledges that are fa‘asamoa (the Samoan way), faka-Tonga (the Tongan way), faka-Tokelau (the Tokelau way), faka-Niue (the Niue way), akano‘anga Kūki ‘Āirani (the Cook Islands way), and vaka-Viti (the Fijian way), for the major Pasifika populations.
 
 Pasifika Success will be characterised by demanding, vibrant, dynamic, successful Pasifika learners, secure and confident in their identities, languages and cultures, navigating through all curriculum areas such as the arts, sciences, technology, social sciences and mathematics.
 
 Data and information will be used to increase the knowledge and voice of Pasifika learners, parents, families and communities, so they can demand better outcomes and influence the education system from within.
 
-SCHOOLING                   EARLY LEARNING                                                 PARENTS, FAMILIES AND COMMUNITIES                                             EDUCA TION SECT OR-WIDE      TERTIARY EDUCATION
+SCHOOLING                   EARLY LEARNING                                                 PARENTS, FAMILIES AND COMMUNITIES                                             EDUCATION SECTOR-WIDE      TERTIARY EDUCATION
 
 Literacy and Numeracy
 
 Quality and
 
-Effective T eaching
+Effective Teaching
 
 Accountability and
 
@@ -188,9 +210,13 @@ across their education journeys
 
 Love
 
-Pasifika Education Plan 2013-2017
+Pasifika Education Plan 2013–2017
 
-Vision: Five out of five Pasifika learners participating, engaging and achieving in education, secure in their identities, languages and cultures and contributing fully to Aotearoa New Zealand's social, cultural and economic wellbeing.
+Pasifika
+Education
+it’s a shared responsibility
+
+Vision: Five out of five Pasifika learners participating, engaging and achieving in education, secure in their identities, languages and cultures and contributing fully to Aotearoa New Zealand’s social, cultural and economic wellbeing.
 
 [[END OF PAGE 3]]
 
@@ -202,17 +228,17 @@ IDENTITIES
 
 DIVERSE
 
-MULTIPLE WORLD VIEWS
-
 CULTURES
-
-LANGUAGES
-
-LOCATION
 
 INTERGENERATIONAL
 
+LOCATION
+
 CONNECTEDNESS
+
+LANGUAGES
+
+MULTIPLE WORLD VIEWS
 
 TALANOA AKO
 
@@ -224,15 +250,15 @@ Improving education outcomes for Māori learners, Pasifika learners, learners wi
 ### PRIORITY OUTCOME 2
 Maximising the contribution of education to the New Zealand economy.
 
-The Pasifika Education Plan 2013-2017 (PEP) aims to achieve optimum learning by promoting closer alignment and compatibility between:
+The Pasifika Education Plan 2013–2017 (PEP) aims to achieve optimum learning by promoting closer alignment and compatibility between:
 
-- the learner's educational environment, and
+- the learner’s educational environment, and
 
 - their home and/or cultural environment,
 
 so that communities, education providers and services, are using their individual, collective and cultural connections and affiliations to work together towards better outcomes and better results.
 
-The Pasifika Education Implementation Plan is the accompanying document designed as a guide to support Pasifika learners, their parents, families, communities, education providers, stakeholders, the Ministry of Education and Education Partner Agencies to achieve the goals and targets of the PEP . It outlines the resources and support available from the Ministry of Education and Education Partner Agencies.
+The Pasifika Education Implementation Plan is the accompanying document designed as a guide to support Pasifika learners, their parents, families, communities, education providers, stakeholders, the Ministry of Education and Education Partner Agencies to achieve the goals and targets of the PEP. It outlines the resources and support available from the Ministry of Education and Education Partner Agencies.
 
 The Pasifika Education Implementation Plan will be available from January 2013 at Pasifika Online www.pasifika.tki.org.nz and other Education Partner Agency websites.
 
@@ -271,9 +297,32 @@ www.tec.govt.nz
 
 www.nzsta.org.nz
 
-For further information contact: Pule Ma'ata, Senior Manager Pasifika
+For further information contact: Pule Ma’ata, Senior Manager Pasifika
 
 pasifika.unit@minedu.govt.nz
+
+MINISTRY OF EDUCATION
+Te Tāhuhu o te Mātauranga
+
+MINISTRY OF PACIFIC ISLAND AFFAIRS
+
+careersnz
+mana rapuara aotearoa
+
+EDUCATION REVIEW OFFICE
+TE TARI AROTAKE MĀTAURANGA
+
+NZQA
+NEW ZEALAND QUALIFICATIONS AUTHORITY
+MANA TOHU MĀTAURANGA O AOTEAROA
+
+New Zealand Teachers Council
+Te Pouherenga Kaiako o Aotearoa
+
+Tertiary Education Commission
+Te Amorangi Mātauranga Matua
+
+NZSTA
 
 [[END OF PAGE 4]]
 
@@ -375,7 +424,7 @@ Pakeha | Māori | Pasifika | All Children
 
 Table 1: Percentage of prior participation in ECE by ethnic group (June 2012)
 
-#### Percentage of Pasifika children starting school who participated in ECE in New Zealand Total - actual performance vs. performance required to meet 2016 target of 98% (2010-2016)
+#### Percentage of Pasifika children starting school who participated in ECE in New Zealand Total – actual performance vs. performance required to meet 2016 target of 98% (2010-2016)
 
 Percent of Year 1 Pasifika children
 
@@ -413,9 +462,9 @@ Male
 
 Total
 
-Forecast
-
 Required path
+
+Forecast
 
 [[END OF PAGE 7]]
 
@@ -481,7 +530,45 @@ The Ministry of Education and Education Partner Agencies will:
 
 #### Pasifika National Standards Achievement: required progress to meet 85%
 
+Writing
+
+46.2%
+
+53.8%
+
+31.2%
+
+18,000 additional learners required
+
+Mathematics
+
+43.3%
+
+56.7%
+
+28.3%
+
+17,000 additional learners required
+
 Reading
+
+41%
+
+59%
+
+26%
+
+15,000 additional learners required
+
+Target: 85% achieving the Standard by 2017
+
+Below /
+
+Well Below
+
+At /
+
+Above
 
 0%
 
@@ -525,71 +612,25 @@ Reading
 
 100%
 
-59%
-
-Target: 85% achieving the Standard by 2017
-
-15,000 additional learners required
-
-26%
-
-Mathematics
-
-56.7%
-
-17,000 additional learners required
-
-28.3%
-
-Writing
-
-53.8%
-
-18,000 additional learners required
-
-31.2%
-
-46.2%
-
-41%
-
-43.3%
-
-Below /
-
-Well Below
-
-At /
-
-Above
-
 #### Percentage of School Leavers achieving NCEA Level 1 and path required to reach target of 95% in 2017
-
-Pasifika
-
-Required Path - Pasifika
-
-non-Pasifika
-
-Required Path - non-Pasifika
-
-2009
 
 Leavers with NCEA Level 1 (%)
 
-40
-
-50
-
-60
-
-70
-
-80
+100
 
 90
 
-100
+80
+
+70
+
+60
+
+50
+
+40
+
+2009
 
 2010
 
@@ -607,19 +648,23 @@ Leavers with NCEA Level 1 (%)
 
 2017
 
+Pasifika
+
+Required Path – Pasifika
+
+non-Pasifika
+
+Required Path – non-Pasifika
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 #### BPS target: 85% of 18 year olds will achieve NCEA Level 2 qualification or equivalent in 2017
 
-Pasifika
-
-All Ethnic Groups
-
 Percentage of 18-year-olds
 
-with  Level 2 or equivalent
+with Level 2 or equivalent
 
 40
 
@@ -633,61 +678,65 @@ with  Level 2 or equivalent
 
 90
 
-2011
-
-2012
-
-2013
-
-2014
-
-2015
-
-2016
-
-2017
+All Ethnic Groups
 
 2011
 
 2012
-
-2013
-
-2014
-
-2015
-
-2016
-
-2017
-
-Current Trend-forecast
-
-Required Path - Shortfall
 
 1.1
 
+2013
+
 2.1
+
+2014
 
 3.1
 
+2015
+
 4.1
+
+2016
 
 5.1
 
+2017
+
 6.1
+
+Pasifika
+
+2011
+
+2012
 
 2.3
 
+2013
+
 4.5
+
+2014
 
 6.8
 
+2015
+
 9.0
+
+2016
 
 11.2
 
+2017
+
 13.4
+
+Current Trend-forecast
+
+Required Path – Shortfall
 
 [[END OF PAGE 10]]
 
@@ -719,7 +768,7 @@ Improve the quality of tertiary education and achievement of Pasifika learners.
 
 Improve foundation education to lift the language, literacy and numeracy skills of the working-age Pasifika population and provide clear pathways into study at NZ Qualifications Framework Level 4 and above.
 
-Increase transparency to drive higher system performance and support wellinformed study choices by Pasifika learners and their parents, families and communities.
+Increase transparency to drive higher system performance and support well-informed study choices by Pasifika learners and their parents, families and communities.
 
 - Incentivise providers to ensure Pasifika completions and progression into higher level tertiary education.
 
