@@ -142,6 +142,8 @@ respective higher school and/or a proposal by the Minister of Education, Science
 
 ### Article 12
 
+Higher schools are public and private.
+
 ### Article 13
 
 Public higher schools shall be established and function on the basis of the state property given at their disposal and the annual state subsidy.
@@ -177,8 +179,6 @@ Public higher schools shall be established and function on the basis of the stat
 - Property and funding schemes;
 
 - Management and representative powers;
-
-Higher schools are public and private.
 
 [[END OF PAGE 4]]
 
@@ -646,7 +646,7 @@ The positions under Art. 48 shall be occupied on the basis of competition and af
 
 [[START OF PAGE 16]]
 
-- Develop and teach their subject freely and in a c cordance with the curriculum and the syllabus;
+- Develop and teach their subject freely and in accordance with the curriculum and the syllabus;
 
 - Conduct research freely, on the basis of their interests, and publish the results thereof;
 
@@ -928,7 +928,7 @@ The National Agency for Assessment and Accreditation shall:
 
 ### Article 79
 
-- The term of office of the Accreditation Board is four years. No person may seek reelection after two successive terms of office.
+- The term of office of the Accreditation Board is four years. No person may seek re-election after two successive terms of office.
 
 - Any member of the Accreditation Board may be relieved from duties earlier in any of the following events:
 
@@ -1178,9 +1178,7 @@ Students enrolled prior to the entry into force of this Act shall continue their
 ### § 11.
 (1) Employment contracts of assistant professors shall be considered fixed-term contracts as of the date of the entry into force of this Act within the meaning of Art. 54, para 1. (2) Employment contracts of professors or associate professors may be continued, at a decision of the Academic Board, for up to one year after the retirement age in accordance with Art. 39a of the Academic Degrees and Titles Act but not more than a total of five years. The continued employment contract shall not entitle such persons to hold leading positions. (3) Full-time senior researchers and researchers at the chairs and departments of higher schools who have also performed teaching functions for three academic years prior to the entry into force of this Act shall be re-appointed as faculty members depending on their degree.
 ### § 12.
-Higher schools shall introduce the degrees within one year after the entry into
-
-- force of this Act.
+Higher schools shall introduce the degrees within one year after the entry into force of this Act.
 
 [[END OF PAGE 27]]
 
