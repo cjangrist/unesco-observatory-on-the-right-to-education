@@ -2,9 +2,9 @@
 
 PROIECT PENTRU DISCUŢII
 
-# EDUCAŢIA - 2020
+# EDUCAŢIA – 2020
 
-## STRATEGIA SECTORIALĂ DE DEZVOLTARE PENTRU ANII 2014 - 2020
+## STRATEGIA SECTORIALĂ DE DEZVOLTARE PENTRU ANII 2014 – 2020
 
 MINISTERUL EDUCAŢIEI 2013
 
@@ -14,7 +14,28 @@ MINISTERUL EDUCAŢIEI 2013
 
 # Cuprins
 
-NOTĂ: Informaţia  statistică  din  acest  document  se  bazează  pe  datele  oficiale  ale  Biroului Naţional de Statistică, cu excepţia cazurilor în care este indicat altfel. Anii de referinţă au fost selectaţi în funcţie de relevanţa acestora pentru informaţia în discuţie.
+I. PREAMBUL ........................................................................................................................................3
+II. SCOPUL, OBIECTIVELE GENERALE ŞI PRINCIPIILE FUNDAMENTALE ALE STRATEGIEI ..........................................................................................................................................4
+SCOPUL STRATEGIEI .........................................................................................................................4
+OBIECTIVELE GENERALE ALE STRATEGIEI.........................................................................................4
+PRINCIPIILE STRATEGIEI ...................................................................................................................4
+III. SITUAŢIA ACTUALĂ, DEFINIREA PROBLEMELOR ŞI TENDINŢE GENERALE.................6
+ACCES ...............................................................................................................................................9
+RELEVANŢĂ ....................................................................................................................................16
+CALITATE ........................................................................................................................................19
+TIC ÎN EDUCAŢIE ............................................................................................................................27
+IV. VIZIUNE STRATEGICĂ ...............................................................................................................29
+CONTEXTUL EUROPEAN.................................................................................................................29
+VIZIUNEA STRATEGICĂ „MOLDOVA 2020” ....................................................................................30
+VIZIUNEA STRATEGICĂ „EDUCAŢIA 2020” .....................................................................................31
+V. DIRECŢII STRATEGICE, ACŢIUNI PRIORITARE ŞI REZULTATE SCONTATE...................32
+ACCES LA EDUCAŢIE ŞI ŞANSE EGALE.............................................................................................32
+STUDII RELEVANTE PENTRU ECONOMIE ŞI SOCIETATE .................................................................35
+RESURSE UMANE CALIFICATE, MANAGEMENT EFICIENT ŞI ASIGURAREA CALITĂŢII ...................38
+VI. IMPLEMENTAREA, MONITORIZAREA ŞI EVALUAREA STRATEGIEI..............................46
+VII. RISCURI ÎN PROCESUL DE IMPLEMENTARE A STRATEGIEI ...........................................47
+
+NOTĂ: Informaţia statistică din acest document se bazează pe datele oficiale ale Biroului Naţional de Statistică, cu excepţia cazurilor în care este indicat altfel. Anii de referinţă au fost selectaţi în funcţie de relevanţa acestora pentru informaţia în discuţie.
 
 2
 
@@ -30,15 +51,15 @@ Ministerul  Educaţiei  propune  schimbarea  accentelor  în  educaţie  în  fa
 
 Ministerul Educaţiei  mizează pe dezvoltarea  unei expectaţii înalte a cetăţenilor faţă  de  sistemul  educaţional  şi  pe  larga  lor  implicare  în  procesul  de  reformare. În Republica Moldova, educaţia se plasează pe primele locuri în clasamentele ce descriu nivelul de satisfacţie a cetăţenilor privind principalele aspecte ale vieţii social-economice. Ponderea celor care se declară mulţumiţi şi foarte mulţumiţi de serviciile educaţionale depăşeşte nivelul de  50% 1 .  Această  percepţie,  corelată  cu  rezultatele  scăzute  la  testele  internaţionale  şi naţionale, cu gradul redus de angajare în cîmpul muncii a tinerilor absolvenţi şi cu legătura slabă dintre dezvoltarea profesională şi cerinţele pieţei muncii, precum şi rata înaltă a plăţilor neformale 2 ,  indică  o  lipsă  de  informare  a  populaţiei  cu  privire  la  menirea  sistemului educaţional.  Calitatea  vieţii  şi  competitivitatea  economică  a  ţării  depind  de  accesibilitatea, calitatea şi relevanţa educaţiei.
 
-Strategia Sectorială de Dezvoltare a Educaţiei pentru anii 2013-2020  (în continuare - 'Strategia') este principalul document de politici în domeniul educaţiei . Ea stabileşte obiectivele şi sarcinile pe termen mediu în vederea dezvoltării educaţiei şi defineşte orientările  şi  direcţiile  prioritare  de  dezvoltare  a  sistemului  de  învăţămînt  din  Republica Moldova. În scopul coordonării integrate a procesului de planificare strategică sectorială în domeniul  educaţiei,  prevederile  Strategiei au fost corelate  cu  documentele  de  politici relevante,  cu  reformele  demarate  în  sistemul  de  învăţămînt,  cu  alte  reforme  ce  reprezintă  o continuitate operaţională a acţiunilor proiectate în Strategia Naţională de Dezvoltare 'Moldova - 2020'.
+Strategia Sectorială de Dezvoltare a Educaţiei pentru anii 2013–2020 (în continuare – „Strategia”) este principalul document de politici în domeniul educaţiei. Ea stabileşte obiectivele şi sarcinile pe termen mediu în vederea dezvoltării educaţiei şi defineşte orientările şi direcţiile prioritare de dezvoltare a sistemului de învăţămînt din Republica Moldova. În scopul coordonării integrate a procesului de planificare strategică sectorială în domeniul educaţiei, prevederile Strategiei au fost corelate cu documentele de politici relevante, cu reformele demarate în sistemul de învăţămînt, cu alte reforme ce reprezintă o continuitate operaţională a acţiunilor proiectate în Strategia Naţională de Dezvoltare „Moldova – 2020”.
 
-Strategia este organizată pe baza a trei piloni: acces, relevanţă, calitate . Sistemul educaţional are menirea să asigure valorificarea potenţialului fiecărei persoane şi să educe o forţă  de  muncă  competitivă.  În  acest  context,  strategia  este  orientată  spre  rezultate  şi abordează problemele şi soluţiile atît pe trepte de învătămînt, cît şi pe subiecte transversale. Multe  dintre  problemele  analizate  sînt  interconectate  şi  nu  se  referă  la  un  singur  pilon  al strategiei, dar sînt incluse într-un anumit capitol pentru a asigura o abordare coerentă.
+Strategia este organizată pe baza a trei piloni: acces, relevanţă, calitate. Sistemul educaţional are menirea să asigure valorificarea potenţialului fiecărei persoane şi să educe o forţă de muncă competitivă. În acest context, strategia este orientată spre rezultate şi abordează problemele şi soluţiile atît pe trepte de învăţămînt, cît şi pe subiecte transversale. Multe dintre problemele analizate sînt interconectate şi nu se referă la un singur pilon al strategiei, dar sînt incluse într-un anumit capitol pentru a asigura o abordare coerentă.
 
 Procesele  de  implementare  a  Strategiei  vor  fi  organizate  pe  baza  unui  Plan  de acţiuni ce  va  include  componentele  operaţionale  ale  politicilor  educaţionale  ale  statului. Finanţarea  proceselor  de  implementare  a  Strategiei  va  fi  efectuată  de  la  bugetul  de  stat, bugetele locale, prin atragerea de granturi, fonduri, sponsorizări şi alte surse legale, accentul punîndu-se pe metodele de bugetare bazate pe proiecte, programe şi performanţă.
 
 > 1 Institutul de Politici Publice, Barometrul Opiniei Publice , 2001  2012.
 
-> 2 Institutul de Politici Publice şi Centrul de Investigaţii Sociologice şi Marketing 'CBS-AXA', Plăţile formale şi neformale achitate de către părinţi în instituţiile de învăţămînt preuniversitar , 2013.
+> 2 Institutul de Politici Publice şi Centrul de Investigaţii Sociologice şi Marketing „CBS-AXA”, Plăţile formale şi neformale achitate de către părinţi în instituţiile de învăţămînt preuniversitar, 2013.
 
 3
 
@@ -50,7 +71,7 @@ Procesele  de  implementare  a  Strategiei  vor  fi  organizate  pe  baza  unui 
 
 ## SCOPUL STRATEGIEI
 
-Strategia 'Educaţia 2020' oferă o diagnoză a stării actuale a sistemului de educaţie din Republica Moldova, identifică principalele probleme ale sistemului şi selectează soluţiile cele mai potrivite pentru rezolvarea acestora, astfel încît sistemul de educaţie să devină principalul factor de progres economic şi social al ţării.
+Strategia „Educaţia 2020” oferă o diagnoză a stării actuale a sistemului de educaţie din Republica Moldova, identifică principalele probleme ale sistemului şi selectează soluţiile cele mai potrivite pentru rezolvarea acestora, astfel încît sistemul de educaţie să devină principalul factor de progres economic şi social al ţării.
 
 ## OBIECTIVELE GENERALE ALE STRATEGIEI
 
@@ -60,7 +81,7 @@ Strategia 'Educaţia 2020' oferă o diagnoză a stării actuale a sistemului de 
 
 (iii)  sporirea  eficienţei  sistemului  educaţional,  extinderea  şi  diversificarea  serviciilor educaţionale prin valorificarea oportunităţilor oferite de tehnologia informaţiei şi a comunicaţiilor;
 
-(iv) asigurarea dezvoltării durabile a sistemului educaţional în vederea formării unei personalităţi integre, active, sociale şi creative  - factori principali ai dezvoltării umane şi ai progresului social-economic al ţării;
+(iv) asigurarea dezvoltării durabile a sistemului educaţional în vederea formării unei personalităţi integre, active, sociale şi creative – factori principali ai dezvoltării umane şi ai progresului social-economic al ţării;
 
 (v) extinderea şi diversificarea sistemului de instruire a adulţilor pe parcursul întregii vieţi din perspectiva formării generale şi a formării profesionale continue, în corespundere cu nevoile persoanei raportate la necesităţile socioeconomice;
 
@@ -94,11 +115,180 @@ Viabilitatea  instituţională. Construcţia  instituţională  propusă  a  fos
 
 # III. SITUAŢIA ACTUALĂ, DEFINIREA PROBLEMELOR ŞI TENDINŢE GENERALE
 
+## SISTEMUL EDUCAŢIONAL ÎN CIFRE
+
+19% DIN POPULAŢIE ESTE IMPLICATĂ ÎN PROCESUL EDUCAŢIONAL
+
+În anul de studii 2012/2013, din totalul de peste 3,5 milioane de oameni, aproximativ 662 mii sau 18,6%, au fost implicaţi în procesul educaţional.
+
+NIVEL PREŞCOLAR (3-6 ANI)
+141 mii copii
+1 418 instituţii
+82 din 100 de copii merg la grădiniţă
+14 copii revin la 1 educator
+12,5 mii cadre didactice
+
+NIVEL PRIMAR ŞI SECUNDAR GENERAL (7-18 ANI)
+367,2 mii elevi
+1 397 instituţii
+
+cl. I-IV (7-10 ani)
+8 468 cadre didactice
+16 elevi revin la 1 profesor
+92 din 100 de copii merg la şcoală
+
+cl. V-IX (11-15 ani)
+18 929 cadre didactice
+9 elevi revin la 1 profesor
+86 din 100 de copii merg la şcoală
+
+cl. X-XII (16-18 ani)
+4 987 cadre didactice
+11 elevi revin la 1 profesor
+62 din 100 de copii studiază
+
+Fiecare al 5-lea cadru didactic e de vîrstă pensionară
+Fiecare al 14-lea se va pensiona în cel mult 3 ani
+
+Din 100 absolvenţi de gimnaziu:
+- 47 merg la liceu
+- 21 merg la şcoală profesională
+- 19 merg la colegiu
+- 13 abandonează studiile
+
+NIVEL SECUNDAR PROFESIONAL
+67 instituţii (2 nestatale)
+19,6 mii elevi (din care 3,2% cu taxă)
+2 171 cadre didactice
+
+NIVEL MEDIU DE SPECIALITATE
+46 instituţii (5 nestatale)
+30,7 mii elevi (din care 39,5% cu taxă)
+2 551 cadre didactice
+
+DOCTORAT ŞI POSTDOCTORAT
+47 instituţii cu activitate de doctorat
+1 485 doctoranzi (din care 38,5% cu taxă)
+18 instituţii cu activitate de postdoctorat
+39 postdoctoranzi
+
+LICENŢĂ ŞI MASTERAT
+6 003 cadre didactice (5 213 în instituţii de stat)
+102,4 mii studenţi (din care 68,1% cu taxă în instituţiile de stat)
+34 instituţii (19 de stat)
+
+NIVEL SUPERIOR
+28,1 mii studenţi înmatriculaţi:
+70% - licenţă; 27,3% - masterat;
+2,7% - studii superioare integrate medicale şi farmaceutice
+
+NIVELUL DE PREGĂTIRE AL POPULAŢIEI ACTIVE DE PESTE 15 ANI
+1 214,5 mii persoane
+studii secundar profesionale – 22,6%
+studii medii de specialitate – 16%
+studii superioare – 24,8%
+doar studii primare sau fără studii – 1,6%
+studii gimnaziale – 15,8%
+studii medii generale şi liceale – 19,1%
+
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+### 2002-2012. CHELTUIELI DIN BPN ŞI PONDEREA ACESTORA ÎN PIB
+
+Cheltuieli din BPN pentru educaţie (milioane lei)
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+Ponderea în PIB
+0,00%
+2,00%
+4,00%
+6,00%
+8,00%
+10,00%
+
+### 2012. RESURSE UMANE ŞI FINANCIARE
+
+PONDEREA CHELTUIELILOR PENTRU FIECARE NIVEL EDUCAŢIONAL
+22,5%
+46,3%
+4,5%
+5,3%
+13,2%
+1,2%
+7,1%
+
+Cheltuieli în educaţie din BPN
+7.465,3 mln lei
+
+Nivel preşcolar – 1.678,3 mln lei
+În mediu 11,9 mii lei per copil
+
+Nivel primar şi secundar general – 3.454,7 mln lei*
+inclusiv învăţămînt special – 211,4 mln lei
+În mediu 8,9 mii lei per elev
+*din 2013 toate şcolile au început să fie finanţate în funcţie de numărul de elevi
+
+Nivel secundar profesional – 336,9 mln lei
+În mediu 17,3 mii lei per elev (în instituţiile de stat)
+
+Nivel mediu de specialitate – 392,4 mln lei
+În mediu 13,6 mii lei per elev (în instituţiile de stat)
+
+Nivel superior – 983,9 mln lei
+În mediu 11,8 mii lei per student (în instituţiile de stat)
+
+Nivel postuniversitar – 88,2 mln lei
+În mediu 57,9 mii lei per doctorand şi postdoctorand
+
+Organe administrative, curricula, perfecţionarea cadrelor ş.a. – 530,8 mln lei
+
+Salariul mediu în învăţămînt – 3.024,9 lei
+(87% faţă de salariul mediu pe economie)
+
+Salariul mediu pe economie – 3.477,7 lei
+
+Numărul total de persoane angajate în sistem este de 114,3 mii (9,1% din populaţia activă), dintre care: 59,6 mii cadre didactice şi 55,1 mii personal administrativ şi auxiliar
+
+Preşcolar
+2897 – cadru didactic
+1134 – personal auxiliar
+
+Primar şi secundar general
+3381 – cadru didactic
+1198 – personal auxiliar
+
+Secundar profesional
+3087 – cadru didactic
+1119 – personal auxiliar
+
+Superior
+4106 – cadru didactic
+1173 – personal auxiliar
+
+Salariul în sector este direct proporţional stagiului de muncă şi gradului didactic al profesorului. Diferenţe salariale nu se fac între treptele de învăţămînt
+
+Salarizarea pe nivele educaţionale (pe post), lei
 
 7
 
@@ -234,7 +424,7 @@ educație
 
 a scăzut cu 12,5% timp de 10 ani
 
-a scăzut cu 24.5% timp de 10 ani
+a scăzut cu 24,5% timp de 10 ani
 
 mii
 
@@ -258,12 +448,12 @@ Accesul copiilor de vîrstă timpurie la educaţie creşte într-un ritm susţin
 
 Numărul  instituţiilor  preşcolare  este  în  creştere,  după  scăderea  dramatică  în perioada  de  recesiune  din  anii  '90. La  începutul  anului  2013,  existau  1418  instituţii preşcolare, sau cu circa 6,3% mai multe faţă de anul 2007. Această creştere a avut ca rezultat majorarea numărului de copii care frecventează aceste instituţii pînă la 141,1 mii de copii în anul 2012, cu 17,5% mai mult faţă de anul 2007. Astfel, se înregistrează o sporire a ratei brute de cuprindere în învăţămîntul preşcolar, aceasta constituind 82,1% în anul 2012 faţă de 72,6% în anul 2007. Discrepanţele dintre rata de cuprindere în mediul urban şi cea din mediul rural persistă, constituind 29,1 p.p. în 2012 comparativ cu 25,2 p.p. în 2007 6 (Tabelul 1).
 
+Tabelul 1. Rata brută de înrolare în învăţămîntul preşcolar, în %
+
 Anul | Rata brută total | Rata brută urban | Rata brută rural | Discrepanţa
 --- | --- | --- | --- | ---
 2007 | 72,6 | 88,8 | 63,6 | 25,2
 2012 | 82,1 | 100,5 7 | 71,4 | 29,1
-
-Tabelul 1. Rata brută de înrolare în învăţămîntul preşcolar, în %
 
 Sursa: Biroul Naţional de Statistică
 
@@ -287,19 +477,19 @@ Datele statistice oficiale denotă rate stabile de înrolare în învăţămînt
 
 Studiile recente privind problema copiilor în afara şcolii şi fenomenul de abandon şcolar au arătat că există un număr de copii care nu au fost înscrişi în învăţămînt sau nu frecventează  şcoala .  Datele  oficiale  ale  Ministerului  Educaţiei  raportează  că  circa  143  de copii lipseau de la şcoală în anii 2011-2012. Absenteismul rămîne a fi un motiv de îngrijorare sporită.  Studiile  recent  efectuate  de  către  Banca  Mondială  şi  UNICEF  atestă  că  există  o corelaţie între treapta educaţională şi numărul de absenţe. Astfel, în anul de studii 2011-2012, elevii  din  ciclul  primar  au  absentat  în  medie  24  de  ore,  în  cel  gimnazial,  numărul  de  ore absentate a fost de 65. Semnificativ este faptul că numărul de absenţe, în general, este mai mare  în  mediul  urban,  pe  cînd  cota  absenţelor  nemotivate  este  mai  înaltă  în  mediul  rural. Băieţii  absentează  mai  frecvent  decît  fetele,  remarcîndu-se  şi  printr-un  număr  important  de absenţe nemotivate.
 
+Tabelul 2. Rata brută de înrolare în învăţămîntul primar, în %
+
 Anul | Rata brută total | Rata brută urban | Rata brută rural | Discrepanţa
 --- | --- | --- | --- | ---
 2007 | 94,0 | 100,9 | 90,5 | 10,4
 2012 | 93,8 | 107,4 | 86,1 | 21,3
 
-Tabelul 2. Rata brută de înrolare în învăţămîntul primar, în %
+Tabelul 3. Rata brută de înrolare în învăţămîntul gimnazial, în %
 
 Anul | Rata brută total | Rata brută urban | Rata brută rural | Discrepanţa
 --- | --- | --- | --- | ---
 2007 | 90,1 | 95,4 | 87,3 | 8,1
 2012 | 86,7 | 96,2 | 81,8 | 14,4
-
-Tabelul 3. Rata brută de înrolare în învăţămîntul gimnazial, în %
 
 Principalele cauze ale reducerii ratelor de înrolare în învăţămîntul primar şi  în cel gimnazial sînt determinate, în special, de disparităţile de acces dintre mediul urban şi cel  rural  şi  în  funcţie  de  grupurile  de  venituri ,  de problemele de incluziune a copiilor cu necesităţi educaţionale speciale şi de migraţia copiilor pentru reîntregirea familiei. În acelaşi timp, lipseşte un sistem clar de evidenţă a copiilor de vîrstă şcolară şi de responsabilizare a părinţilor, cadrelor didactice, conducătorilor instituţiilor de învăţămînt şi organelor administraţiei publice locale în domeniul şcolarizării copiilor.
 
@@ -347,7 +537,7 @@ Sursa: Biroul Naţional de Statistică
 
 În  anul  2013,  toate  instituţiile  de  învăţămînt  secundar  general  au  trecut  la finanţarea per elev, ceea ce a permis realocarea eficientă a resurselor financiare. Noul mecanism de finanţare  promovează eficienţa, avantajînd şcolile cu mai mulţi elevi mai mult decît  pe  cele  cu  un  număr  mic  de  elevi  şi  motivînd  APL  să  reorganizeze  şcolile  mici  şi ineficiente. Drept şcoli mici, în Republica Moldova, sînt considerate şcolile care au un număr egal sau mai mic de 41 de elevi ponderaţi la ciclul primar şi un număr egal sau mai mic de 91 de elevi ponderaţi la ciclul secundar 9 .  Numărul mediu de elevi per şcoală în aceste instituţii este de 23 de elevi ponderaţi la ciclul primar şi 46 de elevi la treapta gimnazială. Deşi este nevoie de timp ca beneficiile noii formule de finanţare să se facă simţite, unele efecte pozitive pot fi deja observate.
 
-Noul  mecanism  de  finanţare  în educaţie oferă şcolilor o autonomie  şi o flexibilitate  mai  mare  în  utilizarea  resurselor. Analizele  arată  că  investiţiile  şcolare  în raioanele-pilot  se  fac  în  renovări  şi  active  pe  termen  lung.  În  2011,  şcolile  din  Căuşeni  şi Rîşcani, unde noua formulă de finanţare a fost introdusă în 2010, au depăşit pentru prima dată, din  2006,  media  naţională  a  investiţiilor  capitale.  În  aceste  raioane,  şcolile  au  înregistrat  o creştere  bugetară  de  pînă  la  50%,  iar  una  dintre  ele  -  63% 10 faţă  de  anul  2009.  Totuşi, finanţarea per elev, deşi este necesară, nu este suficientă pentru creşterea calităţii serviciilor educaţionale.  Este  importantă  identificarea  şi  soluţionarea  factorilor  ce  împiedică  luarea obiectivă de decizii manageriale în condiţiile autonomiei şcolare şi responsabilizarea managerilor.  În  acelaşi  timp,  la  fel  de  importantă  este  corelarea  finanţării  per  elev  cu  un mecanism de evaluare a performanţei elevului, profesorului şi a şcolii în ansamblu.
+Noul mecanism de finanţare în educaţie oferă şcolilor o autonomie şi o flexibilitate mai mare în utilizarea resurselor. Analizele arată că investiţiile şcolare în raioanele-pilot se fac în renovări şi active pe termen lung. În 2011, şcolile din Căuşeni şi Rîşcani, unde noua formulă de finanţare a fost introdusă în 2010, au depăşit pentru prima dată, din 2006, media naţională a investiţiilor capitale. În aceste raioane, şcolile au înregistrat o creştere bugetară de pînă la 50%, iar una dintre ele – 63%10 faţă de anul 2009. Totuşi,
 
 > 8 Skills beyond schools, OECD, http://www.oecd.org/edu/skills-beyond-school/48631144.pdf
 
@@ -361,17 +551,19 @@ Noul  mecanism  de  finanţare  în educaţie oferă şcolilor o autonomie  şi 
 
 [[START OF PAGE 13]]
 
-Starea clădirilor în care sînt amplasate  unităţile şcolare nu  oferă deplină siguranţă, protecţie şi sănătate elevilor. Din datele sistemului de cartografiere a instituţiilor de  învăţămînt  rezultă  că  41%  din  edificiile  şcolare  necesită  reparaţii  capitale  şi  că  doar  în 11,2% din ele pot fi construite rampe pentru accesul persoanelor cu posibilităţi locomotorii limitate.  O  problemă  stringentă  rămîne  încălzirea  edificiilor  şcolare,  în  special,  a  celor  din localităţile rurale. Circa 29% din aceste şcoli nu dispun de sisteme moderne de încălzire, fapt care are repercusiuni grave asupra procesului de învăţămînt în perioada rece a anului şi asupra sănătăţii  copiilor.  Majoritatea  şcolilor  nu  au  sistem  centralizat  de  alimentare  cu  apă  şi  bloc sanitar în încăpere. În lipsa unei viziuni de optimizare a reţelei şcolare, investiţiile din ultimul deceniu, şi  aşa  limitate,  au  fost  ineficient  concentrate  în  şcolile  fără  perspectivă.  Ministerul Educaţiei a încurajat proiectele de izolare termică a clădirilor şi de eficientizare a sistemelor de încălzire a şcolilor.
+finanţarea per elev, deşi este necesară, nu este suficientă pentru creşterea calităţii serviciilor educaţionale. Este importantă identificarea şi soluţionarea factorilor ce împiedică luarea obiectivă de decizii manageriale în condiţiile autonomiei şcolare şi responsabilizarea managerilor. În acelaşi timp, la fel de importantă este corelarea finanţării per elev cu un mecanism de evaluare a performanţei elevului, profesorului şi a şcolii în ansamblu.
+
+Starea clădirilor în care sînt amplasate unităţile şcolare nu oferă deplină siguranţă, protecţie şi sănătate elevilor. Din datele sistemului de cartografiere a instituţiilor de învăţămînt rezultă că 41% din edificiile şcolare necesită reparaţii capitale şi că doar în 11,2% din ele pot fi construite rampe pentru accesul persoanelor cu posibilităţi locomotorii limitate. O problemă stringentă rămîne încălzirea edificiilor şcolare, în special, a celor din localităţile rurale. Circa 29% din aceste şcoli nu dispun de sisteme moderne de încălzire, fapt care are repercusiuni grave asupra procesului de învăţămînt în perioada rece a anului şi asupra sănătăţii copiilor. Majoritatea şcolilor nu au sistem centralizat de alimentare cu apă şi bloc sanitar în încăpere. În lipsa unei viziuni de optimizare a reţelei şcolare, investiţiile din ultimul deceniu, şi aşa limitate, au fost ineficient concentrate în şcolile fără perspectivă. Ministerul Educaţiei a încurajat proiectele de izolare termică a clădirilor şi de eficientizare a sistemelor de încălzire a şcolilor.
 
 Numărul copiilor din învăţămîntul special este în scădere. Incluziunea copiilor cu cerinţe educaţionale speciale în şcolile generale este dificilă, acest lucru fiind cauzat atît de lipsa condiţiilor necesare, cît şi de neînţelegerea şi rezistenţa din partea unor manageri şcolari, cadre didactice şi părinţi.
 
-Învăţământul  special  include  29  de  instituţii  şi  este  organizat  pentru  copiii  cu deficienţe în dezvoltarea intelectuală sau fizică. Numărul copiilor care frecventează aceste instituţii este în scădere, de la 4,0 mii de elevi în anul de studii 2007-2008 la 2,5 mii în 20112012.  Majoritatea  elevilor  din  cadrul  acestor  instituţii  sînt  cu  deficienţe  în  dezvoltarea intelectuală  -  80,3%.  Totodată,  pentru  circa  1600  de  copii  cu  necesităţi  speciale,  care  din diferite motive nu pot frecventa şcoala, sînt organizate studii la domiciliu.
+Învăţămîntul special include 29 de instituţii şi este organizat pentru copiii cu deficienţe în dezvoltarea intelectuală sau fizică. Numărul copiilor care frecventează aceste instituţii este în scădere, de la 4,0 mii de elevi în anul de studii 2007-2008 la 2,5 mii în 2011-2012. Majoritatea elevilor din cadrul acestor instituţii sînt cu deficienţe în dezvoltarea intelectuală – 80,3%. Totodată, pentru circa 1600 de copii cu necesităţi speciale, care din diferite motive nu pot frecventa şcoala, sînt organizate studii la domiciliu.
 
 Problema  incluziunii rămîne  actuală în pofida politicilor Ministerului Educaţiei îndreptate  spre  integrarea  copiilor  cu  cerinţe  educaţionale  speciale  în  şcolile  convenţionale. Factorii principali care împiedică incluziunea sînt lipsa condiţiilor necesare integrării acestor copii  (cadre  didactice  pregătite  pentru  a  lucra  cu  copiii  cu  cerinţe  educaţionale  speciale, infrastructură şi materiale didactice adaptate), precum şi rezistenţa la schimbare manifestată de unii manageri şcolari, cadre didactice şi părinţi.
 
 Circa jumătate din absolvenţii învăţămîntului gimnazial îşi continuă studiile în licee. Cei 12,8 la sută din absolvenţi care rămîn în afara şcolarizării au un grad de angajabilitate scăzut.
 
-După  absolvirea  învăţămîntului  gimnazial,  copii  au  posibilitatea  să-şi  continue studiile  în  liceu  sau  se  orientează  spre  învăţămîntul  secundar  profesional  şi  mediu  de specialitate , care oferă posibilitatea alegerii profesiei sau specialităţii în funcţie de interesele şi  capacităţile  individuale.  Astfel,  din  cei  38,6  de  mii  de  absolvenţi  ai  învăţămîntului gimnazial  din  anul  2012,  aproape  jumătate  (46,5%)  îşi  continuă  studiile  în  liceе,  21,4% studiază în instituţii de învăţămînt secundar profesional, iar 19,2% - în instituţii de învăţămînt mediu de specialitate. Numărul absolvenţilor de gimnaziu care rămîn în afara şcolarizării este în scădere, de la 18,7%, în 2007, la 12,9%, în 2012. Chiar şi în aceste condiţii, ţinînd seama de gradul scăzut de angajabilitate a acestor tineri, se impune necesitatea extinderii învăţămîntului obligatoriu pîna la învăţămîntul secundar general complet sau învăţămîntul secundar vocaţional tehnic.
+După absolvirea învăţămîntului gimnazial, copii au posibilitatea să-şi continue studiile în liceu sau se orientează spre învăţămîntul secundar profesional şi mediu de specialitate, care oferă posibilitatea alegerii profesiei sau specialităţii în funcţie de interesele şi capacităţile individuale. Astfel, din cei 38,6 de mii de absolvenţi ai învăţămîntului gimnazial din anul 2012, aproape jumătate (46,5%) îşi continuă studiile în licee, 21,4% studiază în instituţii de învăţămînt secundar profesional, iar 19,2% – în instituţii de învăţămînt mediu de specialitate. Numărul absolvenţilor de gimnaziu care rămîn în afara şcolarizării este
 
 13
 
@@ -379,25 +571,27 @@ După  absolvirea  învăţămîntului  gimnazial,  copii  au  posibilitatea  s�
 
 [[START OF PAGE 14]]
 
-Învăţămîntul secundar profesional şi mediu de specialitate nu este suficient de atractiv  pentru  elevi,  dar  este  costisitor  pentru  stat.  Reţeaua  de  instituţii  de învăţămînt secundar profesional şi mediu de specialitate este supradimensionată şi  cu  o  infrastructură  învechită,  fapt  ce  duce  la  cheltuieli  nejustificate  de întreţinere. În acelaşi timp, peste 1/3 din numărul total de şomeri sînt absolvenţi cu  studii  secundare  profesionale  şi  medii  de  specialitate.  Colaborarea  dintre instituţiile de învăţămînt de acest tip şi mediul economic este slabă.
+în scădere, de la 18,7%, în 2007, la 12,9%, în 2012. Chiar şi în aceste condiţii, ţinînd seama de gradul scăzut de angajabilitate a acestor tineri, se impune necesitatea extinderii învăţămîntului obligatoriu pîna la învăţămîntul secundar general complet sau învăţămîntul secundar vocaţional tehnic.
 
-Învaţămîntul  secundar  profesional  şi  mediu  de  specialitate  a  devenit  mai  puţin solicitat  pe  parcursul  ultimelor  două  decenii. În  perioada  anilor  1990-2012,  în  contextul declinului  demografic,  economic,  precum  şi  al  expansiunii  învăţămîntului  superior,  unde numărul studenţilor s-a dublat, numărul elevilor cuprinşi în învătămîntul secundar profesional şi mediu de specialitate s-a redus cu aproape 53% (de la 109,5 mii la 51,7 mii de persoane).
+Învăţămîntul secundar profesional şi mediu de specialitate nu este suficient de atractiv pentru elevi, dar este costisitor pentru stat. Reţeaua de instituţii de învăţămînt secundar profesional şi mediu de specialitate este supradimensionată şi cu o infrastructură învechită, fapt ce duce la cheltuieli nejustificate de întreţinere. În acelaşi timp, peste 1/3 din numărul total de şomeri sînt absolvenţi cu studii secundare profesionale şi medii de specialitate. Colaborarea dintre instituţiile de învăţămînt de acest tip şi mediul economic este slabă.
+
+Învăţămîntul secundar profesional şi mediu de specialitate a devenit mai puţin solicitat pe parcursul ultimelor două decenii. În perioada anilor 1990-2012, în contextul declinului demografic, economic, precum şi al expansiunii învăţămîntului superior, unde numărul studenţilor s-a dublat, numărul elevilor cuprinşi în învăţămîntul secundar profesional şi mediu de specialitate s-a redus cu aproape 53% (de la 109,5 mii la 51,7 mii de persoane).
 
 Reducerea numărului de elevi în învăţămîntul secundar profesional s-a înregistrat în pofida unor alocări financiare sporite . Costurile totale pentru instruirea unui elev în şcolile profesionale şi de meserii s-au triplat din anul 2006 pînă în anul 2011, iar în colegii au crescut de peste două ori (Tabelul 4). Eficacitatea acestor cheltuieli este însă redusă - în anul 2012, numărul şomerilor cu studii secundare profesionale şi medii de specialitate a constituit  25,1  mii  de  persoane,  sau  37,1%  din  numărul  total  de  şomeri,  mai  mare  faţă  de numărul  şomerilor  cu  studii  superioare  (15,9  mii),  liceale,  medii  generale  (15,3  mii)  şi gimnaziale (10,2 mii).
 
-2006 | 2007 | 2008 | 2009 | 2010 | 2011
+Tabelul 4. Costurile totale pentru instruirea unui elev/ student la fiecare treaptă a învăţămîntului profesional pentru un an de studii (MDL)
+
+ | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | --- | --- | ---
 Învăţămîntul secundar profesional | 5399 | 7366 | 8510 | 10224 | 15335 | 16776
 Învăţămîntul mediu de specialitate | 6979 | 6900 | 8200 | 8709 | 14725 | 15029
 Învăţămîntul superior | 4714 | 5050 | 5873 | 6802 | 17861 | 20158
 
-Tabelul  4. Costurile  totale  pentru  instruirea  unui  elev/  student  la  fiecare  treaptă  a învăţămîntului profesional pentru un an de studii (MDL)
-
 Sursa: IDIS Viitorul, calculele Ministerului Educaţiei
 
 Infrastructura  celor  67  de  instituţii  de  învăţămînt  secundar  profesional  este utilizată la doar jumătate de capacitate. Numărul mediu de elevi per instituţie este de 297, în  timp  ce  capacitatea  medie  a  acestora  este  de  500-600  de  locuri.  În  contextul  declinului demografic, păstrarea unui număr mare de instituţii a căror capacitate nu este utilizată deplin implică cheltuieli de întreţinere nejustificate în detrimentul investiţiilor în calitatea studiilor. Totodată,  infrastructura  existentă  este  depăşită  fizic  şi  funcţional.  De  asemenea,  se  atestă  o concentrare  a  reţelei  de  instituţii  în  zona  de  nord  şi  de  centru  a  republicii,  precum  şi necorespunderea  profilului  instituţiilor  caracteristicilor  socioeconomice  ale  regiunii  în  care acestea sînt localizate. Infrastructura instituţiilor de învăţămînt secundar profesional şi mediu de specialitate nu este adaptată pentru a oferi acces la studii persoanelor cu nevoi educaţionale speciale.
 
-Baza tehnico-materială a instituţiilor de învăţămînt secundar profesional şi mediu de  specialitate  nu  facilitează  dezvoltarea  competenţelor  profesionale solicitate  pe  piaţa muncii  şi  necesită  investiţii  majore  pentru  modernizare.  Colaborarea  acestor  instituţii  cu mediul  de  afaceri  pentru  utilizarea  echipamentelor  şi  tehnologiilor  moderne  la  pregătirea profesională a elevilor este slabă şi episodică.
+Baza tehnico-materială a instituţiilor de învăţămînt secundar profesional şi mediu de specialitate nu facilitează dezvoltarea competenţelor profesionale solicitate pe piaţa muncii şi necesită investiţii majore pentru modernizare. Colaborarea acestor instituţii cu
 
 14
 
@@ -405,11 +599,13 @@ Baza tehnico-materială a instituţiilor de învăţămînt secundar profesional
 
 [[START OF PAGE 15]]
 
-În  ianuarie  2013, Guvernul  a  aprobat Strategia  de  dezvoltare  a  învăţămîntului vocaţional/tehnic  pentru  anii  2013-2020 şi Planul  de  acţiuni  pentru  implementarea Strategiei (aprobate prin HG nr.97 din 01.02.2013), care prevăd o amplă reformă structurală, de  conţinut  şi  de  modernizare  a  sistemului  de  învăţămînt  secundar  profesional  şi  mediu  de specialitate, aceasta reformă fiind în faza iniţială de implementare.
+mediul de afaceri pentru utilizarea echipamentelor şi tehnologiilor moderne la pregătirea profesională a elevilor este slabă şi episodică.
 
-Numărul  de  studenţi  în  instituţiile  de  învăţămînt  superior  este  în  descreştere, după o expansiune semnificativă în anii '90. Se menţin dezechilibrele structurale în formarea specialiştilor cu studii superioare pe specialităţi.
+În ianuarie 2013, Guvernul a aprobat Strategia de dezvoltare a învăţămîntului vocaţional/tehnic pentru anii 2013-2020 şi Planul de acţiuni pentru implementarea Strategiei (aprobate prin HG nr.97 din 01.02.2013), care prevăd o amplă reformă structurală, de conţinut şi de modernizare a sistemului de învăţămînt secundar profesional şi mediu de specialitate, aceasta reformă fiind în faza iniţială de implementare.
 
-După o dublare a numărului de studenţi în instituţiile de învătămînt superior în anii '90, în ultimii ani, contingentul de studenţi s-a redus în mod constant. Numărul de studenţi în cele 34 de instituţii de învăţămînt superior a constituit 102,5 mii de persoane, la începutul anului de studii 2012-2013, sau cu 16,7% mai puţin faţă de anul de studii 2007-2008 (dar de 1,9 ori mai mult decît în anul de studii 1990-1991). Astfel, la începutul anului de studii 2012-2013, în învăţămîntul superior, la 10 mii de locuitori reveneau, în medie, 288 de studenţi şi 75 de absolvenţi, faţă de 344 de studenţi şi 56 de absolvenţi în anul de studii 2007-2008. Pe parcursul ultimilor cinci ani s-a înregistrat o evoluţie oscilantă a numărului absolvenţilor, care se  datorează  atît  realizării  învăţămîntului  superior  în  două  cicluri,  cît  şi  finalizării  studiilor superioare în forma pre-Bologna (durata de 4-5 ani de studii, fără structurare pe cicluri).
+Numărul de studenţi în instituţiile de învăţămînt superior este în descreştere, după o expansiune semnificativă în anii ’90. Se menţin dezechilibrele structurale în formarea specialiştilor cu studii superioare pe specialităţi.
+
+După o dublare a numărului de studenţi în instituţiile de învăţămînt superior în anii ’90, în ultimii ani, contingentul de studenţi s-a redus în mod constant. Numărul de studenţi în cele 34 de instituţii de învăţămînt superior a constituit 102,5 mii de persoane, la începutul anului de studii 2012-2013, sau cu 16,7% mai puţin faţă de anul de studii 2007-2008 (dar de 1,9 ori mai mult decît în anul de studii 1990-1991). Astfel, la începutul anului de studii 2012-2013, în învăţămîntul superior, la 10 mii de locuitori reveneau, în medie, 288 de studenţi şi 75 de absolvenţi, faţă de 344 de studenţi şi 56 de absolvenţi în anul de studii 2007-2008. Pe parcursul ultimilor cinci ani s-a înregistrat o evoluţie oscilantă a numărului absolvenţilor, care se datorează atît realizării învăţămîntului superior în două cicluri, cît şi finalizării studiilor superioare în forma pre-Bologna (durata de 4-5 ani de studii, fără structurare pe cicluri).
 
 Totodată, instituţiile de învăţămînt superior nu sînt adaptate suficient nici pentru instruirea modernă, nici pentru a răspunde solicitărilor persoanelor cu cerinţe educaţionale speciale .  Acestea duc lipsă de infrastructură de acces în blocurile de studii şi cămine, de tehnologii specifice de instruire şi programe de studii centrate pe student.  Baza tehnico-materială nu permite implementarea noilor tehnologii didactice şi realizarea cercetărilor relevante pentru piaţă.
 
@@ -417,7 +613,7 @@ Totodată, instituţiile de învăţămînt superior nu sînt adaptate suficient
 
 Incidenţa  cazurilor  de  violenţă  şi  abuz  al  copiilor  este  relativ  înaltă,  dar  nu toate cazurile sînt raportate. Au fost adoptate proceduri pentru recunoaşterea, prevenirea  şi  raportarea  cazurilor  de  abuz,  dar  aplicarea  acestora  necesită formare continuă.
 
-Deşi  studiile  indică  o  incidenţă  relativ  înaltă  a  cazurilor  de  abuz,  multe  dintre cazurile de violenţă nu sînt raportate. Conform Studiului naţional Violenţa faţă de copii în Republica Moldova 11 (2007),  25%  din  copii  afirmă  că  sînt  abuzaţi  fizic  de  părinţi,  iar  10% afirmă că au cunoscut pe cineva care a fost abuzat sexual. Acelaşi studiu relevă că o treime din copii sînt agresaţi verbal de către profesori, 13% din copii sînt abuzaţi fizic de profesori, iar unul din zece părinţi cunoaşte profesori care au hărţuit sau au abuzat sexual copii. Aproape 24% din copii au recunoscut că se simt discriminaţi de către profesori, în special copiii din familiile  cu  venituri  reduse.  Multe  dintre  cazurile  de  violenţă  faţă  de  copii,  identificate  de şcoală,  nu  au  fost  raportate,  inclusiv  pentru  faptul  că  lucrătorii  din  sistemul  educaţional  nu cunoşteau  procedurile  de  identificare  şi  referire,  iar  managementul  şcolar  nu  dispunea  de instrumente pentru monitorizarea situaţiei. Pentru  a  asigura  contribuţia  grădiniţei  şi  şcolii  la  încurajarea  copiilor  în  vederea recunoaşterii,  prevenirii  şi  raportării  cazurilor  de  abuz,  prin  ordinul  nr.  77  din  22  februarie 2012 a fost instituită  Procedura  de  organizare  instituţională şi de intervenţie a lucrătorilor instituţiilor de învăţămînt în cazurile de abuz, neglijare, exploatare, trafic al copilului .  În  conformitate  cu  procedura  instituită,  fiecare  direcţie  de  învăţămînt  şi  instituţie educaţională  a  desemnat  coordonatori  pentru  protecţia  copilului,  care  vor  avea  sarcina  să instruiască lucrătorii instituţiilor de învăţămînt, să stabilească relaţii de colaborare cu echipele multidisciplinare  din  localitate,  să  monitorizeze  şi  să  raporteze  situaţia  privind  cazurile  de abuz şi neglijare, precum şi acţiunile întreprinse la nivelul şcolii. Pe baza acestei proceduri, în 2013 au fost instruiţi specialiştii direcţiilor de învăţămînt, managerii şcolari şi diriginţii.
+Deşi studiile indică o incidenţă relativ înaltă a cazurilor de abuz, multe dintre cazurile de violenţă nu sînt raportate. Conform Studiului naţional Violenţa faţă de copii în Republica Moldova11 (2007), 25% din copii afirmă că sînt abuzaţi fizic de părinţi, iar 10% afirmă că au cunoscut pe cineva care a fost abuzat sexual. Acelaşi studiu relevă că o treime din copii sînt agresaţi verbal de către profesori, 13% din copii sînt abuzaţi fizic de profesori, iar unul din zece părinţi cunoaşte profesori care au hărţuit sau au abuzat sexual copii. Aproape 24% din copii au recunoscut că se simt discriminaţi de către profesori, în special copiii din familiile cu venituri reduse. Multe dintre cazurile de violenţă faţă de copii, identificate de
 
 > 11 Studiul naţional Violenţa faţă de copii în Republica Moldova (2007).
 
@@ -426,6 +622,10 @@ Deşi  studiile  indică  o  incidenţă  relativ  înaltă  a  cazurilor  de  a
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+şcoală, nu au fost raportate, inclusiv pentru faptul că lucrătorii din sistemul educaţional nu cunoşteau procedurile de identificare şi referire, iar managementul şcolar nu dispunea de instrumente pentru monitorizarea situaţiei.
+
+Pentru a asigura contribuţia grădiniţei şi şcolii la încurajarea copiilor în vederea recunoaşterii, prevenirii şi raportării cazurilor de abuz, prin ordinul nr. 77 din 22 februarie 2012 a fost instituită Procedura de organizare instituţională şi de intervenţie a lucrătorilor instituţiilor de învăţămînt în cazurile de abuz, neglijare, exploatare, trafic al copilului. În conformitate cu procedura instituită, fiecare direcţie de învăţămînt şi instituţie educaţională a desemnat coordonatori pentru protecţia copilului, care vor avea sarcina să instruiască lucrătorii instituţiilor de învăţămînt, să stabilească relaţii de colaborare cu echipele multidisciplinare din localitate, să monitorizeze şi să raporteze situaţia privind cazurile de abuz şi neglijare, precum şi acţiunile întreprinse la nivelul şcolii. Pe baza acestei proceduri, în 2013 au fost instruiţi specialiştii direcţiilor de învăţămînt, managerii şcolari şi diriginţii.
 
 ## RELEVANŢĂ
 
@@ -451,7 +651,7 @@ pregătire profesională instituţionalizată. Cei care urmează studii profesio
 
 Conţinuturile  curriculare  sînt  congestionate  şi  nu  asigură  relevanţă  pentru dezvoltarea  şi  afirmarea  personală,  socială  şi  profesională  a  beneficiarilor procesului educaţional.
 
-Reforma  curriculară  în  învăţămîntul  preuniversitar,  iniţiată  în  perioada  19972001,  nu  a  reuşit  trecerea  la  o  paradigmă  modernă  a  construirii  conţinuturilor  de învăţare .  După  o  perioadă  de  implementare,  monitorizată  şi  sprijinită  prin  programe  de formare a cadrelor didactice, în 2006 a fost publicată o nouă ediţie a documentelor curriculare, specificul declarat al acesteia fiind 'descongestionarea' sau încercarea de a reduce volumul de informaţie teoretică.  Nici în 2006, nici  în următoarea etapă a reformei curriculare nu a fost însă realizată această descongestionare. În 2010, revizuirea curriculară s-a axat pe încorporarea  conceptului  de competenţe,  începînd  de  la  competenţele-cheie,  vizate  de documentele europene, pînă la competenţele specifice ale disciplinelor şcolare şi aşa-numitele 'subcompetenţe', termen care a generat discuţii controversate în mediul academic şi şcolar.
+Reforma curriculară în învăţămîntul preuniversitar, iniţiată în perioada 1997-2001, nu a reuşit trecerea la o paradigmă modernă a construirii conţinuturilor de învăţare. După o perioadă de implementare, monitorizată şi sprijinită prin programe de formare a cadrelor didactice, în 2006 a fost publicată o nouă ediţie a documentelor curriculare, specificul declarat al acesteia fiind „descongestionarea” sau încercarea de a reduce volumul de informaţie teoretică. Nici în 2006, nici în următoarea etapă a reformei curriculare nu a fost însă realizată această descongestionare. În 2010, revizuirea curriculară s-a axat pe încorporarea conceptului de competenţe, începînd de la competenţele-cheie, vizate de documentele europene, pînă la competenţele specifice ale disciplinelor şcolare şi aşa-numitele „subcompetenţe”, termen care a generat discuţii controversate în mediul academic şi şcolar.
 
 Problemele  principale,  scoase  în  evidenţă  de  cadrele  didactice,  elevi,  părinţi, precum şi în studiile diferitor organizaţii neguvernamentale, includ :
 
@@ -503,9 +703,9 @@ O altă problemă ţine de integrarea eficientă a metodologiilor interactive, c
 
 Sistemul de monitorizare, evaluare şi asigurare a calităţii rezultatelor şcolare nu este racordat la prevederile curriculare privind formarea de competenţe, la rigorile programelor internaţionale de evaluare.
 
-În  învăţămîntul  general  se  constată  o  continuă  scădere  a  reuşitei  şcolare. Nota medie  a  examenului  de  bacalaureat  a  fost  6,11,  în  2013,  în  scădere  faţă  de  7,71,  în  2008. Notele care se pun elevilor în şcoli nu corespund cu notele de la evaluările finale. Un exemplu relevant în acest sens este situaţia atestată în acest an la examenele de bacalaureat, cînd circa 42%  din  candidaţi  aveau  media  pe  anii  de  studii  de  8  şi  mai  mare,  iar  la  examenele  de bacalaureat, media de 8 şi mai mare a fost obţinută doar de circa 8% din candidaţi. În plus, rata de promovare a examenului de bacalaureat a fost de 68,17%, în 2013, în scădere faţă de 95,78%, în 2009. Parţial, această scădere se explică prin înăsprirea pedepselor pentru copiere şi introducerea în 2010 a sistemului automat de prelucrare a datelor, care a permis securizarea informaţiei şi o mai bună monitorizare a procesului. Totuşi, este larg recunoscută necesitatea modernizării  şi  mai  bunei  corelări  a  sistemului  de  examinare  şi  evaluare  cu  curriculumul şcolar.
+În învăţămîntul general se constată o continuă scădere a reuşitei şcolare. Nota medie a examenului de bacalaureat a fost 6,11, în 2013, în scădere faţă de 7,71, în 2008. Notele care se pun elevilor în şcoli nu corespund cu notele de la evaluările finale. Un exemplu relevant în acest sens este situaţia atestată în acest an la examenele de bacalaureat, cînd circa 42% din candidaţi aveau media pe anii de studii de 8 şi mai mare, iar la examenele de
 
-> 15 Studiu de evaluare a utilizării documentelor reglatoare: Curriculum pentru educaţia copiilor de vîrstă preşcolară , Standarde de dezvoltare a copiilor de la naştere până la 7 ani , Standarde profesionale pentru cadrele didactice .
+> 15 Studiu de evaluare a utilizării documentelor reglatoare: Curriculum pentru educaţia copiilor de vîrstă preşcolară, Standarde de dezvoltare a copiilor de la naştere până la 7 ani, Standarde profesionale pentru cadrele didactice.
 
 19
 
@@ -513,7 +713,9 @@ Sistemul de monitorizare, evaluare şi asigurare a calităţii rezultatelor şco
 
 [[START OF PAGE 20]]
 
-Performanţa  Republicii Moldova  la evaluarea internaţională PISA  este o ilustrare de fond a simptomelor provocărilor care vizează calitatea sistemului. Rezultatele  PISA  2009  Plus  denotă  că  performanţa  elevilor  cu  vîrsta  de  15  ani  la  lectură, matematică şi ştiinţe este printre cele mai joase din regiune. Diferenţa de performanţă dintre Moldova şi vecinii săi, inclusiv din CSI, este estimată la doi ani de şcolarizare 16 .  Conform PISA, peste jumătate din elevii de 15 ani din Moldova nu au nivelul de bază de competenţă în lectură  şi  matematică  necesar  pentru  a  participa  în  mod  eficient  şi  productiv  la  viaţa socioeconomică.  Aceste  rezultate  arată  necesitatea  continuării,  consolidării  şi  extinderii reformelor  ce  vizează  curriculumul,  evaluarea  elevilor  şi  a  cadrelor  didactice  şi  formatul manualelor.
+bacalaureat, media de 8 şi mai mare a fost obţinută doar de circa 8% din candidaţi. În plus, rata de promovare a examenului de bacalaureat a fost de 68,17%, în 2013, în scădere faţă de 95,78%, în 2009. Parţial, această scădere se explică prin înăsprirea pedepselor pentru copiere şi introducerea în 2010 a sistemului automat de prelucrare a datelor, care a permis securizarea informaţiei şi o mai bună monitorizare a procesului. Totuşi, este larg recunoscută necesitatea modernizării şi mai bunei corelări a sistemului de examinare şi evaluare cu curriculumul şcolar.
+
+Performanţa Republicii Moldova la evaluarea internaţională PISA este o ilustrare de fond a simptomelor provocărilor care vizează calitatea sistemului. Rezultatele PISA 2009 Plus denotă că performanţa elevilor cu vîrsta de 15 ani la lectură, matematică şi ştiinţe este printre cele mai joase din regiune. Diferenţa de performanţă dintre Moldova şi vecinii săi, inclusiv din CSI, este estimată la doi ani de şcolarizare16. Conform PISA, peste jumătate din elevii de 15 ani din Moldova nu au nivelul de bază de competenţă în lectură şi matematică necesar pentru a participa în mod eficient şi productiv la viaţa socioeconomică. Aceste rezultate arată necesitatea continuării, consolidării şi extinderii reformelor ce vizează curriculumul, evaluarea elevilor şi a cadrelor didactice şi formatul manualelor.
 
 Lipsa  diferitor  standarde  și  aplicarea  deficientă  a  celor  existente  reprezintă  o constrîngere importantă în construirea unui sistem bazat pe performanțe. Standardele de eficienţă a învăţării la fiecare dintre disciplinele şcolare, elaborate în 2010, nu au devenit un instrument de lucru eficient pentru cadrele didactice, majoritatea acestora neştiind cum să le aplice.    Standardele  de  calitate  din  perspectiva  şcolii  prietenoase  copilului  urmează  a  fi definitivate  şi  aprobate,  dar,  pentru  ca  acestea  să  devină  un  instrument  real  de  evaluare  a calităţii  instituţiei  educaţionale,  este  nevoie  de  programe  de  abilitare  a  cadrelor  didactice  şi manageriale.  Lipsa  standardelor  profesionale  pentru  cadrele  didactice  şi  manageriale  face imposibilă realizarea unei evaluări adecvate a performanţei acestora şi, respectiv, construirea unui sistem de salarizare bazat pe performanţă.
 
@@ -551,9 +753,7 @@ Performanţa în cercetare este mult sub potenţialul demonstrat de Armenia şi 
 
 [[START OF PAGE 22]]
 
-17
-
-Conform  datelor  prezentate  de  SCImago pentru  perioada  1996-2012, contribuţia comunităţii ştiinţifice a Republicii Moldova la patrimoniul ştiinţific mondial şi regional în Europa de Est este destul de modestă, situîndu-se la circa 0,02%, respectiv 0,25%. Datele arată că mediul de cercetare din Republica Moldova  are o contribuţie cu tendinţă descrescătoare la  patrimoniul ştiinţific şi cultural mondial  şi regional, cu revirimente temporale de scurtă durată şi mică intensitate.
+Conform datelor prezentate de SCImago17 pentru perioada 1996-2012, contribuţia comunităţii ştiinţifice a Republicii Moldova la patrimoniul ştiinţific mondial şi regional în Europa de Est este destul de modestă, situîndu-se la circa 0,02%, respectiv 0,25%. Datele arată că mediul de cercetare din Republica Moldova are o contribuţie cu tendinţă descrescătoare la patrimoniul ştiinţific şi cultural mondial şi regional, cu revirimente temporale de scurtă durată şi mică intensitate.
 
 Republica Moldova are  o performanţă scăzută  în  ce  priveşte  productivitatea  şi calitatea cercetărilor în comparaţie cu ţările similare . Republica Moldova se plasează pe locul  20  din  24  la  productivitate  ştiinţifică  în  Europa  de  Est,  multe  dintre  ţările  de  aceleaşi dimensiuni  ca  populaţie  şi  economie  fiind  situate  pe  locuri  considerabil  superioare.  De exemplu, Armenia, cu o populaţie de aproximativ 2,9 milioane de locuitori şi PIB-ul de 9,9 miliarde de dolari SUA, în 2012 se plasează pe locul 16, cu o producţie ştiinţifică de peste două ori mai mare decît a Moldovei, în timp ce Georgia, cu o populaţie de 4,5 milioane de locuitori şi un PIB de 15,8 miliarde de dolari SUA, se plasează pe locul 17, cu o producţie ştiinţifică mai mare cu circa 65% decît cea a Republicii Moldova. Într-un clasament al calităţii rezultatelor de cercetare, măsurate prin numărul de citări acumulat de publicaţiile ştiinţifice cu autori  afiliaţi  unor  instituţii  din  Republica  Moldova  şi  exprimate  prin  indicele  Hirsch, Moldova se situează pe locul 19, cu valoarea indicelui 60, fiind din nou devansată de Georgia - locul 16, cu indicele 78, şi Armenia - situată pe locul 14, cu indicele Hirsch 105.
 
@@ -568,6 +768,8 @@ Evoluţia productivităţii ştiinţifice a grupurilor de cercetare din diferite
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+Tabelul 5. Performanţa colectivelor din diferite domenii de cercetare în Republica Moldova
 
 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -593,13 +795,10 @@ Medicine | 4 | 3 | 5 | 9 | 2 | 4 | 3 | 7 | 11 | 17 | 11 | 11 | 16 | 18 | 15 | 21
 Multidisciplinary | 2 | 1 | - | - | - | - | - | - | 1 | 1 | - | 1 | 2 | 1 | - | - | 2
 Neuroscience | - | - | - | 2 | - | - | 1 | - | - | - | 1 | 1 | - | - | 1 | 1 | -
 Nursing | - | - | - | - | - | - | - | - | - | - | - | - | - | - | 1 | 2 | -
-Pharmacology, Toxicology | - | 1 | 1 | 1 | 2 | 5 | 3 | 5 | 3 | 3 | 2 | 6 | 1
-and Pharmaceutics Physics and Astronomy | 62 | 4 70 | - 61 | 2 65 | 1 73 | 57 | 65 | 67 | 52 | 99 | 91 | 81 | 121 | 121 | 111 | 137 | 110
+Pharmacology, Toxicology and Pharmaceutics | - | 4 | - | 2 | 1 | 1 | 1 | 1 | 2 | 5 | 3 | 5 | 3 | 3 | 2 | 6 | 1
+Physics and Astronomy | 62 | 70 | 61 | 65 | 73 | 57 | 65 | 67 | 52 | 99 | 91 | 81 | 121 | 121 | 111 | 137 | 110
 Psychology | - | 1 | - | - | - | - | - | - | - | - | 1 | - | - | - | - | - | -
 Social Sciences | - | - | 1 | 3 | - | 1 | 1 | 1 | 3 | 1 | 2 | 2 | 1 | 11 | 5 | 6 | 8
-
-Tabelul  5. Performanţa  colectivelor  din  diferite  domenii  de  cercetare  în  Republica Moldova
-
 Sursa: SCImago
 
 23
@@ -728,7 +927,7 @@ mii persoane
 
 Programele  de  formare  continuă  nu  sînt  centrate  pe  necesităţile    cadrelor didactice. Instituţiile prestatoare de servicii de formare continuă au nevoie de modernizarea procesului de instruire şi de evaluarea nevoilor de formare reale, axate pe formarea de competenţe profesionale necesare asigurării unui proces educaţional de calitate.
 
-Din  perspectiva  dezvoltării  curriculare,  se  impune  deplasarea  accentelor  de  pe formarea  de  cunoştinţe  pe  formarea  de  abilităţi  şi  competenţe  profesionale (prin majorarea  stagiilor  de  practică  pedagogică  şi  prin  aprofundarea  tehnicilor,  metodelor  în vederea eficientizării procesului de instruire). De asemenea, curriculumul de formare iniţială a cadrelor  didactice la  universităţile  de  stat  nu  include  ca  formare  iniţială  componenta managerială, avînd ca rezultat lipsa unei pregătiri corespunzătoare a personalului managerial din unităţile de învăţămînt.
+Din perspectiva dezvoltării curriculare, se impune deplasarea accentelor de pe formarea de cunoştinţe pe formarea de abilităţi şi competenţe profesionale (prin majorarea stagiilor de practică pedagogică şi prin aprofundarea tehnicilor, metodelor în vederea eficientizării procesului de instruire). De asemenea, curriculumul de formare iniţială a cadrelor didactice la universităţile de stat nu include ca formare iniţială componenta
 
 > 18 Institutul pentru  Politici Publice, Raport  'Colectarea şi analiza datelor privind educaţia generală în Republica Moldova'.
 
@@ -737,8 +936,9 @@ Din  perspectiva  dezvoltării  curriculare,  se  impune  deplasarea  accentelor
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+managerială, avînd ca rezultat lipsa unei pregătiri corespunzătoare a personalului managerial din unităţile de învăţămînt.
 
-Formarea profesională/ dezvoltarea continuă a cadrelor didactice este obligatorie (art.  54  din  Legea  învăţămîntului)  şi  se  realizează  pe  parcursul  a  5  ani,  avîndu-se  drept obiectiv racordarea permanentă a nivelului de calificare la renovarea conceptuală metodologică, curriculară şi tehnologică a învăţămîntului, în funcţie de cerinţele sistemului, precum şi de opţiunile individuale. Formarea profesională continuă a cadrelor didactice şi de conducere se realizează, de regulă, în instituţiile de învăţămînt superior sau în alte instituţii abilitate.  În  prezent,  din  27  408  cadre  didactice  care  deţin  grad  didactic,  1319  deţin  gradul didactic superior, 5920 deţin gradul didactic I, iar 7087 activează fără grad didactic.  În anul de  studii  2012-2013,  în  cele  13  centre  de  formare/  dezvoltare  profesională  continuă,  şi-au perfecţionat competenţele profesionale 6256  de cadre didactice şi de conducere.
+Formarea profesională/ dezvoltarea continuă a cadrelor didactice este obligatorie (art. 54 din Legea învăţămîntului) şi se realizează pe parcursul a 5 ani, avîndu-se drept obiectiv racordarea permanentă a nivelului de calificare la renovarea conceptuală metodologică, curriculară şi tehnologică a învăţămîntului, în funcţie de cerinţele sistemului, precum şi de opţiunile individuale. Formarea profesională continuă a cadrelor didactice şi de conducere se realizează, de regulă, în instituţiile de învăţămînt superior sau în alte instituţii abilitate. În prezent, din 27 408 cadre didactice care deţin grad didactic, 1319 deţin gradul didactic superior, 5920 deţin gradul didactic I, iar 7087 activează fără grad didactic. În anul de studii 2012-2013, în cele 13 centre de formare/ dezvoltare profesională continuă, şi-au perfecţionat competenţele profesionale 6256 de cadre didactice şi de conducere.
 
 Atestarea  cadrelor  didactice/  de  conducere  constituie  actualmente  un  factor important  pentru  avansarea  profesională  în  cariera  didactică,  dar  mecanismul  de realizare al acesteia este unul depăşit . Este nevoie de un sistem de evaluare modern, axat pe performanţe, care va asigura obiectivitatea evaluării şi modernizarea sistemului de evaluare a cadrelor  didactice/  de  conducere,  avînd  ca  fundament  tendinţa  de  îmbunătăţire  a  calităţii acestui  proces  prin  sistemul  de  operare  a  creditelor  profesionale,  care  vor  contribui  la transparenţă  şi  obiectivitate  în  conferirea  şi  confirmarea  gradelor  didactice,  după  principiul inteligenţă şi profesionalism.
 
@@ -750,7 +950,7 @@ Deseori,  cadrele  didactice  nu dispun de  o  calificare  adecvată. Astfel, î
 
 În  condiţiile  autonomiei  financiare  s-a  reconceptualizat  rolul  managementului instituţional,  de  la  manager  de  proces  către  administrator  de  sistem.  Totuşi, mecanismul  de  selectare  şi  responsabilizare  a  managerilor  instituţiilor  de
 
-> 19 Studiu de referinţă în contextul 'Procesului Torino', ETF, 25 mai 2010.
+> 19 Studiu de referinţă în contextul „Procesului Torino”, ETF, 25 mai 2010.
 
 26
 
@@ -770,9 +970,9 @@ Lipsa  mecanismelor interne  şi  externe  de  asigurare  a  calităţii  conver
 
 Majoritatea universităţilor au instituit propriile sisteme de management intern al calităţii. Există  însă  mai  multe  probleme  în  sistemele  instituţionale  de  management  al calităţii, precum insuficienţa competenţelor în domeniul managementului calităţii la persoanele  implicate  în  asigurarea  calităţii  în  IÎS;  insuficienţa  orientării  către  beneficiar  în abordarea  asigurării  calităţii;  mentalităţi,  atitudini  şi  comportamente  reactive  în  locul  celor proactive;  comunicarea  ineficientă  cu  partenerii  interni  şi  externi;  resurse  financiare  reduse pentru investiţii în echipamente de laborator, tehnologia informaţiei şi echipamente multimedia;  insuficienţa  programelor  şi  proiectelor  de  finanţare  naţionale  pentru  asigurarea calităţii în educaţie.
 
-## TIC ÎN EDUCA Ţ IE
+## TIC ÎN EDUCAŢIE
 
-Familiarizarea  elevilor  cu  TIC  este  limitată  de  rata  scăzută  de  acoperire  cu calculatoare  şi  de  utilizarea  lor  tîrzie.  Aplicarea  limitată  a  metodelor  şi dispozitivelor interactive TIC în scopuri didactice şi de management nu permite atingerea  obiectivelor  de  calitate,  incluziune  şi  eficienţă,  care  i-ar  pregăti  pe tineri pentru cerinţele pieţei muncii şi pentru o viaţă socioeconomică satisfăcătoare.
+Familiarizarea elevilor cu TIC este limitată de rata scăzută de acoperire cu calculatoare şi de utilizarea lor tîrzie. Aplicarea limitată a metodelor şi
 
 27
 
@@ -780,13 +980,15 @@ Familiarizarea  elevilor  cu  TIC  este  limitată  de  rata  scăzută  de  aco
 
 [[START OF PAGE 28]]
 
-Familiarizarea  elevilor  cu  TIC  este  limitată  de  rata  scăzută  de  acoperire  cu calculatoare şi de utilizarea lor tîrzie. În anul de studii 2012-2013, în sistemul educaţional existau circa 25 701 computere. Avem nu doar o rată scăzută de acoperire cu calculatoare: 20 elevi/ studenţi la un calculator în comparaţie cu maximum 3 copii la un calculator în UE, dar şi  o  uzură  înaltă,  jumătate  din  calculatoare  fiind  depăşite  moral.  Aproximativ  40%  dintre acestea  sînt  de  generaţie  veche.  Mai  mult,  elevii  sînt  familiarizaţi  cu  TIC  prin  intermediul disciplinei şcolare Informatica, care este predată obligatoriu începînd cu clasa a VII-a. Totuşi, în majoritatea covîrşitoare a statelor membre UE, predarea TIC sub o formă sau alta începe din ciclul primar.
+dispozitivelor interactive TIC în scopuri didactice şi de management nu permite atingerea obiectivelor de calitate, incluziune şi eficienţă, care i-ar pregăti pe tineri pentru cerinţele pieţei muncii şi pentru o viaţă socioeconomică satisfăcătoare.
+
+Familiarizarea elevilor cu TIC este limitată de rata scăzută de acoperire cu calculatoare şi de utilizarea lor tîrzie. În anul de studii 2012-2013, în sistemul educaţional existau circa 25 701 computere. Avem nu doar o rată scăzută de acoperire cu calculatoare: 20 elevi/ studenţi la un calculator în comparaţie cu maximum 3 copii la un calculator în UE, dar şi o uzură înaltă, jumătate din calculatoare fiind depăşite moral. Aproximativ 40% dintre acestea sînt de generaţie veche. Mai mult, elevii sînt familiarizaţi cu TIC prin intermediul disciplinei şcolare Informatica, care este predată obligatoriu începînd cu clasa a VII-a. Totuşi, în majoritatea covîrşitoare a statelor membre UE, predarea TIC sub o formă sau alta începe din ciclul primar.
 
 Metodele  şi  dispozitivele  interactive  TIC  nu  sînt  utilizate  la  scară  largă  în predarea disciplinelor. Doar 4052 de computere sînt utilizate în scopuri didactice. Pentru a integra  TIC  mai  profund  în  procesul  de  studii,  circa  140  de  şcoli  au  fost  dotate  cu  softuri specializate  pentru  disciplinele  de  bază,  însă  acestea  sînt  utilizate  în  proporţie  diferită  din cauza motivaţiei scăzute şi a instruirii insuficiente a cadrelor didactice în domeniu.
 
 Din totalul de 1400 de cadre didactice care predau Informatica în învăţămîntul general, 50% au studii în domeniul ştiinţelor reale şi doar 36% au studii nemijlocit în domeniul  predării  informaticii. Majoritatea  cadrelor  didactice  nu  participă  la  activităţi  de formare  continuă  şi  deseori  nu  au  acces  la  curriculumul  adaptat  în  domeniul  informaticii. Curriculumul pentru clasele VII-IX nu corespunde rigorilor europene. Gradul de dificultate a materiei  predate  nediscriminatoriu  este  cu  mult  peste  cerinţele  specificate  atît  de  către UNESCO, cît şi de Boardul Şcolilor Europene.
 
-Comunicarea la nivel de management şcolar este dominată de metode clasice -adunări, scrisori pe suport de hîrtie etc. Utilizarea TIC în managementul instituţiilor şcolare ar permite eficientizarea timpului şi micşorarea cheltuielilor. Totodată, ar permite transparentizarea  procesului  educaţional  şi  disciplinarea  profesorilor  prin  crearea  registrelor electronice, dezvoltarea şi plasarea conţinuturilor digitale şi a temelor pentru acasă în format electronic pentru vizualizarea de către elevi şi părinţi, ar servi în comunitate drept exemplu pentru utilizarea eficientă a resurselor TIC.
+Comunicarea la nivel de management şcolar este dominată de metode clasice – adunări, scrisori pe suport de hîrtie etc. Utilizarea TIC în managementul instituţiilor şcolare ar permite eficientizarea timpului şi micşorarea cheltuielilor. Totodată, ar permite transparentizarea procesului educaţional şi disciplinarea profesorilor prin crearea registrelor electronice, dezvoltarea şi plasarea conţinuturilor digitale şi a temelor pentru acasă în format electronic pentru vizualizarea de către elevi şi părinţi, ar servi în comunitate drept exemplu pentru utilizarea eficientă a resurselor TIC.
 
 28
 
@@ -798,7 +1000,7 @@ Comunicarea la nivel de management şcolar este dominată de metode clasice -adu
 
 ## CONTEXTUL EUROPEAN
 
-Abordarea  educaţiei  la  nivel  european  atestă  că  educaţia  de  toate  nivelurile reprezintă un pilon fundamental al succesului european . Mai mult, într-o lume în continuă schimbare,  învăţarea  pe  tot  parcursul  vieţii  devine  din  ce  în  ce  mai  mult  o  necesitate  şi  o prioritate - este cheia pentru angajabilitate, pentru succesul economic şi permite cetăţenilor să participe deplin la viaţa socială. În acest context şi în condiţiile în care fiecare stat membru al UE  este  responsabil  de  sistemul  propriu  de  educaţie,  politicile  la  nivelul  Uniunii  sînt proiectate  să  sprijine  acţiunile  naţionale  şi  să  contribuie  la  abordarea  la  nivelul  Uniunii  a provocărilor comune, generale, cum ar fi: îmbătrînirea societăţilor, deficitul de calificări pe piaţa  forţei  de  muncă  şi  competiţia  globală.  Obiectivele  strategice  pe  termen  lung  ale politicilor educaţionale la nivel european sînt:
+Abordarea educaţiei la nivel european atestă că educaţia de toate nivelurile reprezintă un pilon fundamental al succesului european. Mai mult, într-o lume în continuă schimbare, învăţarea pe tot parcursul vieţii devine din ce în ce mai mult o necesitate şi o prioritate – este cheia pentru angajabilitate, pentru succesul economic şi permite cetăţenilor să participe deplin la viaţa socială. În acest context şi în condiţiile în care fiecare stat membru al UE este responsabil de sistemul propriu de educaţie, politicile la nivelul Uniunii sînt proiectate să sprijine acţiunile naţionale şi să contribuie la abordarea la nivelul Uniunii a provocărilor comune, generale, cum ar fi: îmbătrînirea societăţilor, deficitul de calificări pe piaţa forţei de muncă şi competiţia globală. Obiectivele strategice pe termen lung ale politicilor educaţionale la nivel european sînt:
 
  punerea în practică a învăţării pe tot parcursul vieţii şi a mobilităţii;
 
@@ -816,7 +1018,7 @@ Cadrul de competenţe-cheie pentru învăţarea pe tot parcursul vieţii
 
 Acest cadru defineşte opt competenţe-cheie şi descrie cunoştinţele, abilităţile şi atitudinile esenţiale legate de fiecare dintre acestea. Aceste competenţe-cheie sînt:
 
- comunicarea  în  limba  maternă ,  care  reprezintă  capacitatea  de  a  exprima  şi  a interpreta concepte, gînduri, sentimente, fapte şi opinii, atît în formă orală, cît şi în formă scrisă (ascultare, vorbire, citire şi scriere) şi de a interacţiona lingvistic întrun mod adecvat şi creativ într-o serie completă de contexte culturale şi sociale;
+ comunicarea în limba maternă, care reprezintă capacitatea de a exprima şi a interpreta concepte, gînduri, sentimente, fapte şi opinii, atît în formă orală, cît şi în formă scrisă (ascultare, vorbire, citire şi scriere) şi de a interacţiona lingvistic într-un mod adecvat şi creativ într-o serie completă de contexte culturale şi sociale;
 
  comunicarea în limbi străine , care, pe lîngă dimensiunea principală a abilităţilor de  comunicare  în  limba  maternă,  implică  şi  abilităţile  de  mediere  şi  înţelegere interculturală. Nivelul de cunoştinţe depinde de mai mulţi factori şi de capacitatea de ascultare, vorbire, citire şi scriere;
 
@@ -828,7 +1030,7 @@ Acest cadru defineşte opt competenţe-cheie şi descrie cunoştinţele, abilit�
 
 [[START OF PAGE 30]]
 
-matematică la rezolvarea diferitor probleme în situaţii cotidiene, accentul punînduse  pe  proces,  activitate  şi  cunoştinţe.  Competenţele  de  bază  privind  ştiinţa  şi tehnologia se referă la stăpînirea, utilizarea şi aplicarea cunoştinţelor şi a metodologiilor de explicare a lumii înconjurătoare. Acestea implică o înţelegere a schimbărilor cauzate de activitatea umană şi a responsabilităţii fiecărui individ în calitate de cetăţean;
+matematică la rezolvarea diferitor probleme în situaţii cotidiene, accentul punîndu-se pe proces, activitate şi cunoştinţe. Competenţele de bază privind ştiinţa şi tehnologia se referă la stăpînirea, utilizarea şi aplicarea cunoştinţelor şi a metodologiilor de explicare a lumii înconjurătoare. Acestea implică o înţelegere a schimbărilor cauzate de activitatea umană şi a responsabilităţii fiecărui individ în calitate de cetăţean;
 
  competenţa digitală implică utilizarea cu încredere şi în mod critic a tehnologiei din  societatea  informaţională  (TSI)  şi  deci  abilităţile  de  bază  privind  tehnologia informaţiei şi comunicării (TIC);
 
@@ -842,9 +1044,9 @@ matematică la rezolvarea diferitor probleme în situaţii cotidiene, accentul p
 
 Toate aceste competenţe-cheie sînt interdependente, iar accentul se pune, în fiecare caz, pe gîndirea critică, creativitate, iniţiativă, rezolvarea problemelor, evaluarea riscurilor, luarea deciziilor şi gestionarea constructivă a sentimentelor.
 
-## VIZIUNEA STRATEGICĂ 'MOLDOVA 2020'
+## VIZIUNEA STRATEGICĂ „MOLDOVA 2020”
 
-Strategia naţională 'Moldova 2020' are ca primă prioritate sectorul educaţional , vizînd 'Racordarea  sistemului  educaţional  la  cerinţele  pieţei  forţei  de  muncă,  în  scopul  sporirii productivităţii forţei de muncă şi al majorării ratei de ocupare în economie'.
+Strategia naţională „Moldova 2020” are ca primă prioritate sectorul educaţional, vizînd „Racordarea sistemului educaţional la cerinţele pieţei forţei de muncă, în scopul sporirii productivităţii forţei de muncă şi al majorării ratei de ocupare în economie”.
 
 ### Studii relevante pentru carieră
 
@@ -860,7 +1062,7 @@ Corelarea  dintre  cererea  pieţei  forţei  de  muncă  şi  oferta  educaţio
 
 Politica în domeniul educaţiei va fi orientată spre asigurarea calităţii studiilor.
 
-## VIZIUNEA STRATEGICĂ 'EDUCAȚIA 2020'
+## VIZIUNEA STRATEGICĂ „EDUCAȚIA 2020”
 
 Sistemul  de  educaţie  al  Republicii  Moldova  în  2020  este  accesibil  tuturor cetăţenilor, oferă educaţie de calitate, relevantă pentru societate şi economie, în condiţii de eficienţă economică.
 
@@ -898,7 +1100,7 @@ Viziunea strategică include următoarele componente ale sistemului de educaţie
 
 Decizia  de  înrolare  în  procesele  educaţionale  şi  de  formare  profesională  este,  în  general, considerată  ca  fiind  determinată  fundamental  de  o  multitudine  de  factori,  inclusiv  cei  de natură socioeconomică, precum şi de gradul de participare anterioară la procese educaţionale, începînd chiar cu educaţia timpurie. Analizele efectuate arată că impedimentele care stau în calea  implicării  indivizilor  în  educaţie  sînt  diverse,  nu  se  exclud,  ba  chiar  se  pot  amplifica reciproc, intensificînd descurajarea indivizilor şi a familiilor acestora de a participa la procese educaţionale la toate nivelurile. Natura transversală a acestor bariere a stat la baza stabilirii următoarelor obiective specifice, menite să crească gradul de participare şi accesul la educaţie pe parcursul întregii vieţi.
 
-#### Obiectiv specific 1.1. Extinderea accesului la educaţia timpurie de calitate, astfel încît să fie asigurată sporirea ratei de includere în educaţia preşcolară a copiilor de 3-6 ani de la 82%, în 2012, pînă la 95%, în 2020, şi a copiilor de 6-7 ani - de la 92%, în 2012, pînă la 98%, în 2020.
+#### Obiectiv specific 1.1. Extinderea accesului la educaţia timpurie de calitate, astfel încît să fie asigurată sporirea ratei de includere în educaţia preşcolară a copiilor de 3-6 ani de la 82%, în 2012, pînă la 95%, în 2020, şi a copiilor de 6-7 ani – de la 92%, în 2012, pînă la 98%, în 2020.
 
 ##### Acţiuni prioritare:
 
@@ -998,7 +1200,7 @@ Decizia  de  înrolare  în  procesele  educaţionale  şi  de  formare  profesi
 
 - 1.6.4. Asigurarea infrastructurii şi a condiţiilor materiale propice pentru o educaţie incluzivă în instituţiile de învăţămînt din ţară.
 
-#### Obiectiv specific 1.7. Reintegrarea socioeducaţională a copiilor aflaţi în instituţiile de tip rezidenţial,  care  să  ducă  la  reducerea  numărului  de  copii  aflaţi  în  aceste  instituţii  cu 25%, către anul 2015, şi cu 50%, pînă în anul 2020, şi la transformarea, către anul 2015, a cel puţin 20%, iar către anul 2020 - a cel puţin 25% din instituţiile de învăţămînt de tip rezidenţial în instituţii de învăţămînt general.
+#### Obiectiv specific 1.7. Reintegrarea socioeducaţională a copiilor aflaţi în instituţiile de tip rezidenţial, care să ducă la reducerea numărului de copii aflaţi în aceste instituţii cu 25%, către anul 2015, şi cu 50%, pînă în anul 2020, şi la transformarea, către anul 2015, a cel puţin 20%, iar către anul 2020 – a cel puţin 25% din instituţiile de învăţămînt de tip rezidenţial în instituţii de învăţămînt general.
 
 ##### Acţiuni prioritare:
 
@@ -1054,7 +1256,7 @@ Decizia  de  înrolare  în  procesele  educaţionale  şi  de  formare  profesi
 
 ### DIRECŢIE STRATEGICĂ 2: ASIGURAREA RELEVANŢEI STUDIILOR PENTRU VIAŢĂ, CETĂŢENIE ACTIVĂ ŞI SUCCES ÎN CARIERĂ
 
-Competitivitatea  economică  a  unei  ţări  depinde  în  mod  esenţial  de  nivelul  de  pregătire  a propriei  forţe  de  muncă,  care,  la  rîndul  ei,  depinde  de  calitatea  sistemului  de  educaţie  şi pregătire profesională al ţării respective. Educaţia este, în general, percepută drept instrumentul  crucial  de  creştere  a  competitivităţii  economice  şi  a  calităţii  vieţii.  Analiza efectuată pe sistemul educaţional din Republica Moldova a arătat că pe piaţa muncii se atestă un  dezechilibru  substanţial  între  cerere  şi  ofertă,  precum  şi  un  deficit  de  forţă  de  muncă calificată, şi că sistemul educaţional nu oferă calificări relevante. De asemenea, lipsa Cadrului Naţional  al Calificărilor,  a  Nomenclatoarelor  de  formare  profesională  actualizate  şi  a standardelor  ocupaţionale  este  un  impediment  major  în  asigurarea  setului  de  competenţe solicitat  de  piaţa  muncii  şi,  în  pofida  deficitului  forţei  de  muncă  calificată,  nu  există mecanisme de recunoaştere a abilităţilor, experienţei şi calificărilor obţinute prin învăţare în contexte  nonformale  şi  informale.  În  aceste  condiţii  se  propun  acţiuni  determinate,  cu următoarele obiective specifice.
+Competitivitatea economică a unei ţări depinde în mod esenţial de nivelul de pregătire a propriei forţe de muncă, care, la rîndul ei, depinde de calitatea sistemului de educaţie şi pregătire profesională al ţării respective. Educaţia este, în general, percepută drept instrumentul crucial de creştere a competitivităţii economice şi a calităţii vieţii. Analiza efectuată pe sistemul educaţional din Republica Moldova a arătat că pe piaţa muncii se atestă un dezechilibru substanţial între cerere şi ofertă, precum şi un deficit de forţă de muncă calificată, şi că sistemul educaţional nu oferă calificări relevante. De asemenea, lipsa Cadrului Naţional al Calificărilor, a Nomenclatoarelor de formare profesională actualizate şi a
 
 35
 
@@ -1062,7 +1264,9 @@ Competitivitatea  economică  a  unei  ţări  depinde  în  mod  esenţial  de 
 
 [[START OF PAGE 36]]
 
-#### Obiectiv  specific  2.1.  Ajustarea  conţinutului  pentru  educaţia  timpurie  la  metodele moderne pentru o pregătire mai bună pentru lumea de mîine.
+standardelor ocupaţionale este un impediment major în asigurarea setului de competenţe solicitat de piaţa muncii şi, în pofida deficitului forţei de muncă calificată, nu există mecanisme de recunoaştere a abilităţilor, experienţei şi calificărilor obţinute prin învăţare în contexte nonformale şi informale. În aceste condiţii se propun acţiuni determinate, cu următoarele obiective specifice.
+
+#### Obiectiv specific 2.1. Ajustarea conţinutului pentru educaţia timpurie la metodele moderne pentru o pregătire mai bună pentru lumea de mîine.
 
 ##### Acţiuni prioritare:
 
@@ -1172,7 +1376,7 @@ Resursele  umane  sînt  factorul-cheie  al  oricărui  sistem  performant  de  
 
 ##### Acţiuni prioritare:
 
-- 3.1.1. Ameliorarea şi promovarea imaginii şi statutului pedagogului prin campanii în massmedia.
+- 3.1.1. Ameliorarea şi promovarea imaginii şi statutului pedagogului prin campanii în mass-media.
 
 - 3.1.2. Monitorizarea,  ameliorarea  şi  susţinerea  motivaţiei  cadrelor  didactice  prin  corelarea salarizării cu performanţa profesională.
 
@@ -1252,7 +1456,7 @@ Resursele  umane  sînt  factorul-cheie  al  oricărui  sistem  performant  de  
 
 - 3.4.6. Dezvoltarea de programe de formare profesională continuă şi la nivel de masterat în management educaţional.
 
-- 3.4.7. Dezvoltarea modelelor de formare profesională continuă a maiştrilor/ instructorilor din învăţămîntul  vocaţional/  tehnic  din  perspectiva  principiului  'învăţare  pe  parcursul  întregii vieţi' şi a sistemului de credite profesionale cumulative.
+- 3.4.7. Dezvoltarea modelelor de formare profesională continuă a maiştrilor/ instructorilor din învăţămîntul vocaţional/ tehnic din perspectiva principiului „învăţare pe parcursul întregii vieţi” şi a sistemului de credite profesionale cumulative.
 
 - 3.4.8. Crearea sistemului de formare profesională continuă a cadrelor didactice din învăţămîntul superior, centrat pe acumularea de credite profesionale şi autoformare.
 
@@ -1364,7 +1568,7 @@ Republica  Moldova  are  una  dintre  cele  mai  ridicate  cote  procentuale  di
 
 ### DIRECŢIE STRATEGICĂ 6: INTEGRAREA EFICIENTĂ A TIC ÎN EDUCAŢIE
 
-Politicile  în  educaţie  trebuie  să  susţină  pregătirea  tinerilor  pentru  participarea  activă  la construcţia şi dezvoltarea unei societăţi a cunoaşterii, care să constituie motorul de dezvoltare socioeconomică  a  societăţii  competitive  la  nivel  global.  Tehnologiile  informaţionale  şi comunicaţionale au permis dezvoltarea unei palete largi de instrumente de educaţie şi formare profesională,  astfel  încît  utilizarea  TIC  în  educaţie  a  devenit  o  trăsătură  comună  a  ţărilor dezvoltate, cu economii puternice. Analiza situaţiei în care se găseşte Republica Moldova în prezent a arătat că familiarizarea elevilor cu TIC este limitată de rata scăzută de acoperire cu calculatoare  şi  de  utilizarea  lor  tîrzie.  Aplicarea  limitată  a  metodelor  şi  dispozitivelor interactive  TIC  în  scopuri  didactice  şi  de  management  nu  permite  atingerea  obiectivelor  de calitate,  incluziune şi  eficienţă,  care  îi  vor  pregăti  pe  tineri  pentru  cerinţele  pieţei  muncii  şi pentru o viaţă socioeconomică satisfăcătoare. În scopul integrării eficiente a TIC în educaţie, au fost prevăzute acţiuni prioritare, subordonate obiectivelor specifice descrise în continuare.
+Politicile în educaţie trebuie să susţină pregătirea tinerilor pentru participarea activă la construcţia şi dezvoltarea unei societăţi a cunoaşterii, care să constituie motorul de dezvoltare socioeconomică a societăţii competitive la nivel global. Tehnologiile informaţionale şi comunicaţionale au permis dezvoltarea unei palete largi de instrumente de educaţie şi formare profesională, astfel încît utilizarea TIC în educaţie a devenit o trăsătură comună a ţărilor dezvoltate, cu economii puternice. Analiza situaţiei în care se găseşte Republica Moldova în
 
 42
 
@@ -1372,11 +1576,13 @@ Politicile  în  educaţie  trebuie  să  susţină  pregătirea  tinerilor  pen
 
 [[START OF PAGE 43]]
 
+prezent a arătat că familiarizarea elevilor cu TIC este limitată de rata scăzută de acoperire cu calculatoare şi de utilizarea lor tîrzie. Aplicarea limitată a metodelor şi dispozitivelor interactive TIC în scopuri didactice şi de management nu permite atingerea obiectivelor de calitate, incluziune şi eficienţă, care îi vor pregăti pe tineri pentru cerinţele pieţei muncii şi pentru o viaţă socioeconomică satisfăcătoare. În scopul integrării eficiente a TIC în educaţie, au fost prevăzute acţiuni prioritare, subordonate obiectivelor specifice descrise în continuare.
+
 #### Obiectiv specific 6.1. Sporirea accesului la educaţie de calitate prin dotarea instituţiilor de învăţămînt cu echipamente moderne, utile procesului de studii.
 
 ##### Acţiuni prioritare:
 
-- 6.1.1. Pilotarea proiectului 'Un calculator pentru fiecare elev' în 15 şcoli, începînd din 2013 (3 ani).
+- 6.1.1. Pilotarea proiectului „Un calculator pentru fiecare elev” în 15 şcoli, începînd din 2013 (3 ani).
 
 - 6.1.2. Elaborarea  unui  plan  pe  termen  mediu  de  dotare  a  instituţiilor  de  învăţămînt  cu calculatoare, acces la internet şi infrastructura necesară implementării cu succes a tehnologiilor informaţionale şi a comunicaţiilor în procesul educaţional.
 
@@ -1496,15 +1702,15 @@ Atingerea obiectivelor din Strategie depinde atît de capacităţile Ministerulu
 
 Strategia este expusă următoarelor riscuri:
 
-- Instabilitate politică și lipsa consensului politic între grupurile vizate de Strategie pe politicile propuse.
+1. Instabilitate politică și lipsa consensului politic între grupurile vizate de Strategie pe politicile propuse.
 
-- Capacități slabe de implementare la nivelul autorităților publice centrale, locale și la nivel de instituție;
+2. Capacități slabe de implementare la nivelul autorităților publice centrale, locale și la nivel de instituție;
 
-- Rezistența atât instituțională, cât și la nivelul factorului uman la schimbările propuse în Strategie;
+3. Rezistența atât instituțională, cât și la nivelul factorului uman la schimbările propuse în Strategie;
 
-- Insuficiența resurselor financiare pentru a acoperi cheltuielile asociate cu implementarea acțiunilor Strategiei;
+4. Insuficiența resurselor financiare pentru a acoperi cheltuielile asociate cu implementarea acțiunilor Strategiei;
 
-- Capacități reduse în coordonarea și monitorizarea implementării acțiunilor stipulate în Strategie.
+5. Capacități reduse în coordonarea și monitorizarea implementării acțiunilor stipulate în Strategie.
 
 Ministerul  Educației  va  întreprinde  toate  măsurile  necesare  pentru  a  reduce  aceste riscuri,  dar  și  pentru  a  evita  emergența  riscurilor  imprevizibile.  Ministerul  Educației  va desfășura un proces cuprinzător de comunicare și consultare pentru a obține un consens cît mai  larg  al  societății  și  al  forțelor  politice  pe  Strategie  în  vederea  asigurării  durabilității implementării  acesteia.  Ministerul  va  investi  în  fortificarea  capacităților  tuturor  instituțiilor implicate  în  implementarea  strategiei.  Riscurile  financiare  vor  fi  abordate  prin  continuarea implementării măsurilor de îmbunătățire a eficienței cheltuielilor publice în educație, păstrarea mijloacelor economisite în sector, planificarea mai bună a resurselor interne în Cadrul Bugetar pe Termen Mediu (CBTM) și atragerea surselor suplimentare, inclusiv externe.  O parte din acțiunile prevăzute în strategie sunt deja incluse în  CBTM, iar pentru altele, sursele urmează să fie identificate.
 
