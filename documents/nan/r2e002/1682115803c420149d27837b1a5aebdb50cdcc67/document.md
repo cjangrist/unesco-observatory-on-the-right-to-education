@@ -10,17 +10,19 @@ We have sent Our apostles with veritable signs and brought down with them script
 
 The Constitution of the Islamic Republic of Iran sets forth the cultural, social, political and economic institutions of the people of Iran, based on Islamic principles and rules, and reflecting the fundamental desires of the Islamic people. The essence of the great Islamic Revolution  of  Iran,  and  the  course  of  the  struggle  of  the  Muslim  people  from  its beginning to its victory, as manifested by the categorical and striking slogans used by all classes of the people, get their special character from this fundamental desire. Now our nation, with the whole of its being is in the vanguard of this great victory, and strives for the attainment of that desire.
 
-The unique characteristic of this Revolution, as compared with other Iranian movements of  the  last  century,  is  that  it  is  religious  and  Islamic.  The  Muslim  people  of  Iran,  after living  through  an  anti-despotic  movement  for  constitutional  government,  and  anticolonialist movement for the nationalization of petroleum, gained precious experience in that  they realized that the basic and specific reason for the failure of those movements was that that they were not religious ones. Although in those movements Islamic thinking and the guidance of a militant clergy played a basic and prominent part, yet they swiftly trailed off into stagnation, because the struggle deviated from the true Islam. But now the nation's  conscience  has  awakened  to  the  leadership  of  an  exalted  Authority,  His Eminence Ayatollah Imam Khomeini, and has grasped the necessity of following the line of the true religious and Islamic movement. This time the country's militant clergy, which has always been in the front lines of the people's movement, together with writers and committed intellectuals, has gained new strength (lit: impetus) under his leadership (The most  recent  movement  of  the  Iranian  nation  began  in  the  HEGIRA  lunar  year  1382, equivalent to the HEGIRA solar year 1341) -
+The unique characteristic of this Revolution, as compared with other Iranian movements of the last century, is that it is religious and Islamic. The Muslim people of Iran, after living through an anti-despotic movement for constitutional government, and anti-colonialist movement for the nationalization of petroleum, gained precious experience in that they realized that the basic and specific reason for the failure of those movements was that that they were not religious ones. Although in those movements Islamic thinking and the guidance of a militant clergy played a basic and prominent part, yet they swiftly trailed off into stagnation, because the struggle deviated from the true Islam. But now the nation's conscience has awakened to the leadership of an exalted Authority, His Eminence Ayatollah Imam Khomeini, and has grasped the necessity of following the line of the true religious and Islamic movement. This time the country's militant clergy, which has always been in the front lines of the people's movement, together with writers and committed intellectuals, has gained new strength (lit: impetus) under his leadership (The most recent movement of the Iranian nation began in the HEGIRA lunar year 1382, equivalent to the HEGIRA solar year 1341) -
 
 ### THE VANGUARD OF THE MOVEMENT
 
-Imam  Khomeini's  crushing  protest  against  that  American  plot,  The  White  Revolution, which  was  a  step  taken  with  a  view  to  strengthening  the  foundations  of  the  despotic regime  and  consolidating  Iran's  political,  cultural  and  economic  links  with  World Imperialism,  was  the  motive  force  behind  the  united  uprising  of  the  nation.  There followed  the  great  and  bloody  revolution  of  the  Islamic  people  in  the  month  of KHORDAD  1342  (Translator's  note:  equivalent  to  June  1963)  -This  was  indeed  the starting-point of the flowering of that magnificent and widespread  revolt  which consolidated and confirmed the Imam's central position as the Islamic leader. Despite his banishment from Iran following on his protest against the shameful Law of Capitulation (immunity  for  American  advisers),  the  firm  bond  (of  the  people)  with  the  Imam  was strengthened. The Muslim nation, in particular committed intellectuals and the militant clergy,  continued  along  its  path,  amid  banishment  and  imprisonment,  torture  and execution.
+Imam Khomeini's crushing protest against that American plot, The White Revolution, which was a step taken with a view to strengthening the foundations of the despotic regime and consolidating Iran's political, cultural and economic links with World Imperialism, was the motive force behind the united uprising of the nation. There followed the great and bloody revolution of the Islamic people in the month of KHORDAD 1342 (Translator's note: equivalent to June 1963) -This was indeed the starting-point of the flowering of that magnificent and widespread revolt which consolidated and confirmed the Imam's central position as the Islamic leader. Despite his banishment from Iran following on his protest against the shameful Law of Capitulation (immunity for American advisers), the firm bond (of the people) with the Imam was
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Meanwhile  the  informed  and  responsible  section  of  the  community  was  busy  with clarification  of  the  issues,  within  the  strongholds  of  mosques,  places  of  learning,  and universities.  Inspired  by  the  revolutionary  religious  feeling  and  the  rich  fruitfulness  of Islam, they began a persistent and rewarding struggle to raise the level of awareness and vigilance  as  regards  the  fight,  and  its  religious  nature,  among  the  Muslim  nation.  The despotic regime began the suppression of the Islamic movement with a malignant attack on the FEIZIYE and the University and all the clamorous Clubs (that were part) of the Revolution.  It  took  bloodthirsty  but  futile  steps  to  quell  the  revolutionary  fury  of  the people. While this was going on firing squads, medieval torture, and long imprisonment were the price our Muslim nation paid to demonstrate its firm resolution to continue the struggle. The blood of hundreds of  young men and women flowed for the Faith in the shooting yards at dawn as they raised the cry of "God is Great". Or they were the target for  hostile  bullets  in  lanes  and  bazaars  in  forwarding  the  Islamic  revolution  of  Iran, distributing the ever-continuing proclamations and messages of the Imam on a variety of occasions, and the awareness and determination of the Islamic nation ever more widely and deeply.
+strengthened. The Muslim nation, in particular committed intellectuals and the militant clergy, continued along its path, amid banishment and imprisonment, torture and execution.
+
+Meanwhile the informed and responsible section of the community was busy with clarification of the issues, within the strongholds of mosques, places of learning, and universities. Inspired by the revolutionary religious feeling and the rich fruitfulness of Islam, they began a persistent and rewarding struggle to raise the level of awareness and vigilance as regards the fight, and its religious nature, among the Muslim nation. The despotic regime began the suppression of the Islamic movement with a malignant attack on the FEIZIYE and the University and all the clamorous Clubs (that were part) of the Revolution. It took bloodthirsty but futile steps to quell the revolutionary fury of the people. While this was going on firing squads, medieval torture, and long imprisonment were the price our Muslim nation paid to demonstrate its firm resolution to continue the struggle. The blood of hundreds of young men and women flowed for the Faith in the shooting yards at dawn as they raised the cry of "God is Great". Or they were the target for hostile bullets in lanes and bazaars in forwarding the Islamic revolution of Iran, distributing the ever-continuing proclamations and messages of the Imam on a variety of occasions, and the awareness and determination of the Islamic nation ever more widely and deeply.
 
 ### ISLAMIC GOVERNMENT
 
@@ -30,11 +32,13 @@ The movement continued along this basic line until eventually the dissatisfactio
 
 ### THE PEOPLES' ANGER
 
-The publication by the regime on the 17th of the month of DEY, 1356 (equals 7 January 1978) (Translator's note: not 1977 as in original translation) of the letter which insulted the  sacred  order  of  the  clergy,  and  in  particular  the  Imam  Khomeini,  hastened  this movement. It caused the people's anger to explode all over the country. In an effort to control this volcano of popular anger, the regime tried to suppress the protest uprising by bloodshed.  This  very  fact  set  more  blood  pulsing  through  the  veins  of  the  Revolution. Continuing revolutionary passion at the time of the seven-day and forty-day commemoration of the martyrs of the Revolution, added on an ever-increasing scale to the  vitality  and  ardor  and  fervent  unity  of  the  movement  throughout  the  country.  It continued  and  extended  the  people's  upheaval  in  all  the  country's  organizations  by  a general strike and joining in street demonstrations while actively seeking the downfall of the despotic regime. Widespread co-operation of men and women of all classes, and of religious and political groups, in this struggle, took place in decisive and dramatic fashion In particular women joined openly on all the scenes of this great Holy War, ever more actively  and  extensively.  Such  a  scene  would  be  a  mother  with  a  child  in  her  bosom hastening to the battlefield and facing machine gun fire This large section of society took a main and decisive part in the struggle.
+The publication by the regime on the 17th of the month of DEY, 1356 (equals 7 January 1978) (Translator's note: not 1977 as in original translation) of the letter which insulted the sacred order of the clergy, and in particular the Imam Khomeini, hastened this movement. It caused the people's anger to explode all over the country. In an effort to
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+control this volcano of popular anger, the regime tried to suppress the protest uprising by bloodshed. This very fact set more blood pulsing through the veins of the Revolution. Continuing revolutionary passion at the time of the seven-day and forty-day commemoration of the martyrs of the Revolution, added on an ever-increasing scale to the vitality and ardor and fervent unity of the movement throughout the country. It continued and extended the people's upheaval in all the country's organizations by a general strike and joining in street demonstrations while actively seeking the downfall of the despotic regime. Widespread co-operation of men and women of all classes, and of religious and political groups, in this struggle, took place in decisive and dramatic fashion In particular women joined openly on all the scenes of this great Holy War, ever more actively and extensively. Such a scene would be a mother with a child in her bosom hastening to the battlefield and facing machine gun fire This large section of society took a main and decisive part in the struggle.
 
 ### THE PRICE THE NATION PAID
 
@@ -48,13 +52,15 @@ Now the Constitution of the Islamic Republic, as the announcement of the structu
 
 ### STRUCTURE OF GOVERNMENT IN ISLAM
 
-From the viewpoint of Islam, government does not spring from the sphere of classes or domination by individuals or groups.  It crystallizes the political aspirations of a nation united  in  faith  and  thinking  which  provides  itself  with  an  organization  so  that  in  the process  of  transformation  of  ideas  and  beliefs,  its  way  may  be  opened  towards  the ultimate  goal.  In  the  course  of  its  revolutionary  development  our  nation  was  cleansed from the dust and rust of idolatry, and from foreign ideological influence. It returned to true Islamic intellectual attitudes and views of the world. Now it is planning to build its new  model  society  on  such  a  basis,  with  Islamic  standards.  The  Mission  of  the Constitution is to identify itself with the basic beliefs of the movement and to bring about the conditions under which the lofty and worldwide values' of Islam will flourish.
+From the viewpoint of Islam, government does not spring from the sphere of classes or domination by individuals or groups. It crystallizes the political aspirations of a nation united in faith and thinking which provides itself with an organization so that in the
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-The Constitution, having regard to the Islamic contents of the Iranian Revolution, which was a movement for the victory of all the oppressed over the arrogant, provides a basis for the continuation of that revolution both inside and outside the country. It particularly tries  to  do  this  in  developing  international  relations  with  other  Islamic  movements  and peoples, so as to prepare the way towards a united single world community
+process of transformation of ideas and beliefs, its way may be opened towards the ultimate goal. In the course of its revolutionary development our nation was cleansed from the dust and rust of idolatry, and from foreign ideological influence. It returned to true Islamic intellectual attitudes and views of the world. Now it is planning to build its new model society on such a basis, with Islamic standards. The Mission of the Constitution is to identify itself with the basic beliefs of the movement and to bring about the conditions under which the lofty and worldwide values' of Islam will flourish.
+
+The Constitution, having regard to the Islamic contents of the Iranian Revolution, which was a movement for the victory of all the oppressed over the arrogant, provides a basis for the continuation of that revolution both inside and outside the country. It particularly tries to do this in developing international relations with other Islamic movements and peoples, so as to prepare the way towards a united single world community
 
 ("Your  community is  one  community,  and  I  am  your  Lord  who  you  are  to  worship") Quotation  from  the  Arabic  and  to  the  continuation  of  the  progressive  struggle  for  the rescue of deprived and oppressed nations throughout the world.
 
@@ -66,7 +72,7 @@ In creating the political structures and foundations for organizing society on t
 
 ("The earth will be inherited by my pious followers"). Quotation from the Arabic.
 
-Legislation which is to set out the codes for the management of society will have as its central  axis  the  Koran  and  tradition.  Therefore  there  is  great  necessity  for  exact  and serious  supervision  by  just  and  virtuous  and  dedicated  Islamic  scholars  (FEQHA-yeADEL = just men of religious law). Because the aim of government is to help mankind to develop towards the divine order and until the ground is cleared and the human talents have  blossomed  forth  for  the  glorification  of  God's  nature  in  all  its  dimensions,  ("To emulate God's morality11) Quotation from the Arabic, there cannot, except by delegation,  be  active  and  extensive  participation  at  all  stages  in  the  taking  of  political decisions  and  the  determination  of  destiny  for  all  persons  in  society,  so  that  every individual has a hand in the task of human development and is responsible for growth and progress and guidance. This will be the assurance of government for the oppressed of the earth.
+Legislation which is to set out the codes for the management of society will have as its central axis the Koran and tradition. Therefore there is great necessity for exact and serious supervision by just and virtuous and dedicated Islamic scholars (FEQHA-ye-ADEL = just men of religious law). Because the aim of government is to help mankind to develop towards the divine order and until the ground is cleared and the human talents have blossomed forth for the glorification of God's nature in all its dimensions, ("To emulate God's morality") Quotation from the Arabic, there cannot, except by delegation, be active and extensive participation at all stages in the taking of political decisions and the determination of destiny for all persons in society, so that every individual has a hand in the task of human development and is responsible for growth and progress and guidance. This will be the assurance of government for the oppressed of the earth.
 
 ### THE GUARDIANSHIP OF THE JUST MAN OF RELIGIOUS LAW
 
@@ -76,13 +82,13 @@ Legislation which is to set out the codes for the management of society will hav
 
 ### (FAQIYEH-e-ADEL)
 
-On  the  basis  of  continuous  Guardianship  and  Leadership  (Imamate)  the  Constitution provides for leadership under all conditions, (by a person) recognized by the people as lender, so that there shall be security against deviation by various organizations
+On the basis of continuous Guardianship and Leadership (Imamate) the Constitution provides for leadership under all conditions, (by a person) recognized by the people as leader, so that there shall be security against deviation by various organizations
 
 ("The course of affairs is in the hands of those who know God and who are trustworthy in matters having to do with what he permits and forbids") - Quotation from the Arabic
 
 ### THE ECONOMY AS A MEANS NOT AN END
 
-In  strengthening  the  foundations  of  the  economy,  the  governing  principle  is  the satisfaction of mankind's needs in the course of its growth and development. It is not of other economic objectives, such as centralization and the accumulation of wealth and the search  for  profit.  In  materialistic  schools  of  thought,  economic  activity  is  its  own  end This  at  stages  of  growth,  economic  activity  is  a  factor  working  for  destruction  and corruption and decay. But in Islam economic activity is a means. As an ultimate means there can be no more effective instrument on the path towards the goal.
+In strengthening the foundations of the economy, the governing principle is the satisfaction of mankind's needs in the course of its growth and development. It is not of other economic objectives, such as centralization and the accumulation of wealth and the search for profit. In materialistic schools of thought, economic activity is its own end. Thus at stages of growth, economic activity is a factor working for destruction and corruption and decay. But in Islam economic activity is a means. As an ultimate means there can be no more effective instrument on the path towards the goal.
 
 From this point of view, the Islamic program of economic activity to provide a suitable field  for  the  emergence  of  human  creative  power  in  various  forms,  and  in  this  way provide equal and well-balanced opportunities, and make work, for all people, and satisfy the essential requirements of the advance towards development is the responsibility of the Islamic Government.
 
@@ -100,7 +106,7 @@ Women were drawn away from the family unit and (put into) the condition of "bein
 
 ### THE RELIGIOUS ARMY
 
-In the organization and equipping of the countries defense forces, there must be regard for faith and religion as their basis and rules. And so the Islamic Republic's army, and the corps of Revolutionary Guards must be organized in accordance with this aim. They have responsibility  not  only  for  the  safeguarding  of  the  frontiers,  but  also  for  a  religious mission, which is Holy War (JIHAD) along the way of God, and the struggle to extend the supremacy of God's Law in the world.
+In the organization and equipping of the country's defense forces, there must be regard for faith and religion as their basis and rules. And so the Islamic Republic's army, and the corps of Revolutionary Guards must be organized in accordance with this aim. They have responsibility not only for the safeguarding of the frontiers, but also for a religious mission, which is Holy War (JIHAD) along the way of God, and the struggle to extend the supremacy of God's Law in the world.
 
 ("Against them make ready your strength to the utmost of your power, including steeds of war, to strike terror into the hearts of the enemies of God and your enemies, and others beside") Quotation from the Arabic.
 
@@ -138,7 +144,7 @@ The Council of Experts (MAJLIS-e-KHEBREGAN), composed of representatives of the 
 
 #### Article 1
 
-The form of government of Iran is that of an Islamic Republic, endorsed by the people of Iran  on  the  basis  of  their  long-standing  belief  in  the  sovereignty  of  truth  and  Qur'anic justice,  in  the  referendum  of  Farvardin  9  and  10  in  the  year  1358  of  the  solar  Islamic calendar,  corresponding  to  Jamadi  al-'Awwal  1  and  2  in  the  year  1399  of  the  lunar Islamic calendar (March 29 and 30, 1979], through the affirmative vote of a majority of 98.2% of eligible voters, held after the victorious Islamic Revolution led by the eminent marji' al-taqlid, Ayatullah al-Uzma Imam Khomeyni.
+The form of government of Iran is that of an Islamic Republic, endorsed by the people of Iran on the basis of their long-standing belief in the sovereignty of truth and Qur'anic justice, in the referendum of Farvardin 9 and 10 in the year 1358 of the solar Islamic calendar, corresponding to Jamadi al-'Awwal 1 and 2 in the year 1399 of the lunar Islamic calendar [March 29 and 30, 1979], through the affirmative vote of a majority of 98.2% of eligible voters, held after the victorious Islamic Revolution led by the eminent marji' al-taqlid, Ayatullah al-Uzma Imam Khomeyni.
 
 #### Article 2
 
@@ -150,17 +156,17 @@ The Islamic Republic is a system based on belief in:
 
 [[START OF PAGE 8]]
 
-- divine revelation and its fundamental role in setting forth the laws;
+2. divine revelation and its fundamental role in setting forth the laws;
 
-- the  return  to  God  in  the  Hereafter,  and  the  constructive  role  of  this belief in the course of man's ascent towards God;
+3. the return to God in the Hereafter, and the constructive role of this belief in the course of man's ascent towards God;
 
-- the justice of God in creation and legislation;
+4. the justice of God in creation and legislation;
 
 5. continuous leadership (imamat) and perpetual guidance, and its fundamental role in ensuring the uninterrupted process of the revolution of Islam;
 
 6.  the  exalted  dignity  and  value  of  man,  and  his  freedom  coupled  with responsibility  before  God;  in  which  equity,  justice,  political,  economic, social,  and  cultural  independence,  and  national  solidarity  are  secured  by recourse to:
 
-a.  continuous  Jtihad  of  the  fuqaha'  possessing  necessary qualifications, exercised on the basis off the Qur'an and the Sunnah of the Ma'sumun, upon all of whom be peace;
+a. continuous ijtihad of the fuqaha' possessing necessary qualifications, exercised on the basis of the Qur'an and the Sunnah of the Ma'sumun, upon all of whom be peace;
 
 b.  sciences  and  arts  and  the  most  advanced  results  of human experience, together with the effort to advance them further;
 
@@ -174,7 +180,7 @@ In  order  to  attain  the  objectives  specified  in  Article  2,  the  governm
 
 2. raising the level of public awareness in all areas, through the proper use of the press, mass media, and other means;
 
-- free education and physical training for everyone at all levels, and the facilitation and expansion of higher education;
+3. free education and physical training for everyone at all levels, and the facilitation and expansion of higher education;
 
 4. strengthening the spirit of inquiry, investigation, and innovation in all areas  of  science,  technology,  and  culture,  as  well  as  Islamic  studies,  by establishing research centers and encouraging researchers;
 
@@ -182,27 +188,27 @@ In  order  to  attain  the  objectives  specified  in  Article  2,  the  governm
 
 [[START OF PAGE 9]]
 
-- the complete elimination of imperialism and the prevention of foreign influence;
+5. the complete elimination of imperialism and the prevention of foreign influence;
 
-- the elimination of all forms of despotism and autocracy and all attempts to monopolize power;
+6. the elimination of all forms of despotism and autocracy and all attempts to monopolize power;
 
-- ensuring political and social freedoms within the framework of the law;
+7. ensuring political and social freedoms within the framework of the law;
 
-- the  participation  of  the  entire  people  in  determining  their  political, economic, social, and cultural destiny;
+8. the participation of the entire people in determining their political, economic, social, and cultural destiny;
 
-- the  abolition  of  all  forms  of  undesirable  discrimination  and  the provision  of  equitable  opportunities  for  all,  in  both  the  material  and intellectual spheres;
+9. the abolition of all forms of undesirable discrimination and the provision of equitable opportunities for all, in both the material and intellectual spheres;
 
-10.  the  creation  of  a  correct  administrative  system  and  elimination  of superfluous government organizations;
+10. the creation of a correct administrative system and elimination of superfluous government organizations;
 
-- all  round strengthening of the foundations of national defence to the utmost  degree  by  means  of  universal  military  training  for  the  sake  of safeguarding the independence, territorial integrity, and the Islamic order of the country;
+11. all round strengthening of the foundations of national defence to the utmost degree by means of universal military training for the sake of safeguarding the independence, territorial integrity, and the Islamic order of the country;
 
-- the planning of a correct and just economic system, in accordance with Islamic criteria in order to create welfare, eliminate poverty, and abolish all forms of deprivation with respect to food, housing, work, health care, and the provision of social insurance for all;
+12. the planning of a correct and just economic system, in accordance with Islamic criteria in order to create welfare, eliminate poverty, and abolish all forms of deprivation with respect to food, housing, work, health care, and the provision of social insurance for all;
 
-- the attainment of self-sufficiency in scientific, technological, industrial, agricultural, and military domains, and other similar spheres;
+13. the attainment of self-sufficiency in scientific, technological, industrial, agricultural, and military domains, and other similar spheres;
 
-- securing the multifarious rights of all citizens, both women and men, and providing legal protection for all, as well as the equality of-all before the law;
+14. securing the multifarious rights of all citizens, both women and men, and providing legal protection for all, as well as the equality of all before the law;
 
-- the  expansion  and  strengthening  of  Islamic  brotherhood  and  public cooperation among all the people;
+15. the expansion and strengthening of Islamic brotherhood and public cooperation among all the people;
 
 16.  framing  the  foreign  policy  of  the  country  on  the  basis  of  Islamic criteria, fraternal commitment to all Muslims, and unsparing support to the mustad'afiin of the world.
 
@@ -216,7 +222,7 @@ All civil, penal financial, economic, administrative, cultural, military, politi
 
 #### Article 5
 
-During  the  Occultation  of  the  Wali  al-Asr  (may  God  hasten  his  reappearance),  the wilayah and leadership of the Ummah devolve upon the just ('adil] and pious [muttaqi] faqih, who is fully aware of the circumstances of his age; courageous, resourceful, and possessed  of  administrative  ability,  will  assume  the  responsibilities  of  this  office  in accordance with Article 107.
+During the Occultation of the Wali al-'Asr (may God hasten his reappearance), the wilayah and leadership of the Ummah devolve upon the just ['adil] and pious [muttaqi] faqih, who is fully aware of the circumstances of his age; courageous, resourceful, and possessed of administrative ability, will assume the responsibilities of this office in accordance with Article 107.
 
 #### Article 6
 
@@ -232,15 +238,17 @@ In the Islamic Republic of Iran, al-'amr bilma'ruf wa al-nahy 'an al-munkar is a
 
 #### Article 9
 
-In the Islamic Republic of Iran, the freedom, independence, unity, and territorial integrity of the country are inseparable from one another, and their preservation is the duty of the government and all individual citizens. No individual, group, or authority, has the right to infringe in the slightest  way  upon  the  political,  cultural,  economic,  and  military independence or the territorial integrity of Iran under the pretext of exercising freedom. Similarly,  no  authority  has  the  right  to  abrogate  legitimate  freedoms,  not  even  by enacting  laws  and  regulations  for  that  purpose,  under  the  pretext  of  preserving  the independence and territorial integrity of the country.
+In the Islamic Republic of Iran, the freedom, independence, unity, and territorial integrity of the country are inseparable from one another, and their preservation is the duty of the government and all individual citizens. No individual, group, or authority, has the right to infringe in the slightest way upon the political, cultural, economic, and military independence or the territorial integrity of Iran under the pretext of exercising freedom. Similarly, no authority has the right to abrogate legitimate freedoms, not even by
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
+enacting laws and regulations for that purpose, under the pretext of preserving the independence and territorial integrity of the country.
+
 #### Article 10
 
-Since  the  family  is  the  fundamental  unit  of  Islamic  society,  all  laws,  regulations,  and pertinent programs must tend to facilitate the formation of a family, ,and to safeguard its sanctity  and  the  stability  of  family  relations  on  the  basis  of  the  law  and  the  ethics  of Islam.
+Since the family is the fundamental unit of Islamic society, all laws, regulations, and pertinent programs must tend to facilitate the formation of a family, and to safeguard its sanctity and the stability of family relations on the basis of the law and the ethics of Islam.
 
 #### Article 11
 
@@ -248,7 +256,7 @@ In  accordance  with  the  sacred  verse  of  the  Qur'an  ("This  your  communi
 
 #### Article 12
 
-The official religion of Iran is Islam and the Twelver Ja'fari school [in usual al-Din and fiqh], and this principle will remain eternally immutable. Other Islamic schools, including the Hanafi, Shafi'i, Maliki, Hanbali, and Zaydi, are to be accorded full respect, and their followers are free to act in accordance with their own jurisprudence in performing their religious  rites.  These  schools  enjoy  official  status  in  matters  pertaining  to  religious education, affairs of personal status (marriage, divorce, inheritance, and wills) and related litigation in courts of law. In regions of the country where Muslims following any one of these schools of fiqh constitute the majority, local regulations, within the bounds of the jurisdiction of local councils, are to be in accordance with the respective school of fiqh, without infringing upon the rights of the followers of other schools.
+The official religion of Iran is Islam and the Twelver Ja'fari school [in usul al-Din and fiqh], and this principle will remain eternally immutable. Other Islamic schools, including the Hanafi, Shafi'i, Maliki, Hanbali, and Zaydi, are to be accorded full respect, and their followers are free to act in accordance with their own jurisprudence in performing their religious rites. These schools enjoy official status in matters pertaining to religious education, affairs of personal status (marriage, divorce, inheritance, and wills) and related litigation in courts of law. In regions of the country where Muslims following any one of these schools of fiqh constitute the majority, local regulations, within the bounds of the jurisdiction of local councils, are to be in accordance with the respective school of fiqh, without infringing upon the rights of the followers of other schools.
 
 #### Article 13
 
@@ -256,11 +264,13 @@ Zoroastrian, Jewish, and Christian Iranians are the only recognized religious mi
 
 #### Article 14
 
-In accordance with the sacred verse; ("God does not forbid you to deal kindly and justly with those who have not fought against you because of your religion and who have not expelled you from your homes" [60:8]), the government of the Islamic Republic of Iran and all Mu slims are duty-bound to treat non-Muslims in conformity with ethical norms and the principles of Islamic justice and equity, and to respect their human rights. This principle applies to all who refrain from engaging in conspiracy or activity against Islam and the Islamic Republic of Iran.
+In accordance with the sacred verse; ("God does not forbid you to deal kindly and justly with those who have not fought against you because of your religion and who have not expelled you from your homes" [60:8]), the government of the Islamic Republic of Iran and all Muslims are duty-bound to treat non-Muslims in conformity with ethical norms and the principles of Islamic justice and equity, and to respect their human rights. This
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+principle applies to all who refrain from engaging in conspiracy or activity against Islam and the Islamic Republic of Iran.
 
 ## CHAPTER II:
 
@@ -304,15 +314,13 @@ The  government  must  ensure  the  rights  of  women  in  all  respects,  in  c
 
 1.  create  a  favorable environment for the growth of woman's personality and the restoration of her rights, both the material and intellectual;
 
-- the protection of mothers, particularly during pregnancy and childbearing, and the protection of children
+2. the protection of mothers, particularly during pregnancy and childbearing, and the protection of children without guardians;
 
-without guardians;
+3. establishing competent courts to protect and preserve the family;
 
-- establishing competent courts to protect and preserve the family;
+4. the provision of special insurance for widows, and aged women and women without support;
 
-- the  provision  of  special  insurance  for  widows,  and  aged  women  and women without support;
-
-- the awarding of guardianship of children to worthy mothers, in order to protect the interests of the children, in the absence of a legal guardian.
+5. the awarding of guardianship of children to worthy mothers, in order to protect the interests of the children, in the absence of a legal guardian.
 
 #### Article 22
 
@@ -328,11 +336,13 @@ Publications and the press have freedom of expression except when it is where th
 
 #### Article 25
 
-Examination of (the contents of), and non-delivery of, letters; recording and divulging of telephone conversations; disclosure of telegraphic or telex communications; censorship, pruning  or  non-transmission  of  messages;  tapping  and  bugging  and  any  kind  of investigation are all forbidden, unless when so ordered by the law.
+Examination of (the contents of), and non-delivery of, letters; recording and divulging of telephone conversations; disclosure of telegraphic or telex communications; censorship,
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+pruning or non-transmission of messages; tapping and bugging and any kind of investigation are all forbidden, unless when so ordered by the law.
 
 #### Article 26
 
@@ -356,7 +366,7 @@ The Government is bound, in accordance with the laws, to use public revenues and
 
 #### Article 30
 
-The Government is bound to make available, tree of charge, educational facilities for all up to the close of the secondary stage, and to expand free facilities for higher education up to the limits of the country's own capacity
+The Government is bound to make available, free of charge, educational facilities for all up to the close of the secondary stage, and to expand free facilities for higher education up to the limits of the country's own capacity
 
 #### Article 31
 
@@ -372,7 +382,7 @@ No person may be arrested except according to and in the manner laid down in the
 
 #### Article 33
 
-No person may be ousted from his residence, or forbidden to reside in the locality of his choice, or compelled to reside In a particular locality, unless the law prescribes this.
+No person may be ousted from his residence, or forbidden to reside in the locality of his choice, or compelled to reside in a particular locality, unless the law prescribes this.
 
 #### Article 34
 
@@ -422,37 +432,41 @@ Foreign  nationals  may  within  the  limits  of  the  law  take  up  Iranian  c
 
 #### Article 43
 
-The  economy  of  the  Islamic  Republic  of  Iran,  with  its  objectives  of  achieving  the economic independence of the society, uprooting poverty and deprivation, and fulfilling human needs in the process of development while preserving human liberty, is. based on the following criteria:
+The economy of the Islamic Republic of Iran, with its objectives of achieving the economic independence of the society, uprooting poverty and deprivation, and fulfilling human needs in the process of development while preserving human liberty, is based on the following criteria:
 
 1.  the  provision  of  basic  necessities  for  all  citizens:  housing,  food, clothing, hygiene, medical treatment, education, and the necessary facilities for the establishment of a family;
 
-2.  ensuring  conditions  and  opportunities  of  employment  for  everyone, with a view to attaining full employment; placing the means of work at the disposal of everyone who is able to work but lacks the means, in the form of  cooperatives,  through  granting  interest-free  loans  or  recourse  to  any other legitimate means  that neither results in the concentration or circulation of wealth in the hands of a few individuals or groups, nor turns the government into a major absolute employer. These steps must be taken with  due  regard  for  the  requirements  governing  the  general  economic planning of the country at each stage of its growth;
+2. ensuring conditions and opportunities of employment for everyone, with a view to attaining full employment; placing the means of work at the disposal of everyone who is able to work but lacks the means, in the form of cooperatives, through granting interest-free loans or recourse to any other legitimate means that neither results in the concentration or
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-- the plan for the national economy, must be structured in such a manner that the form, con-tent, and hours of work of every individual will allow him  sufficient  leisure  and  energy  to  engage,  beyond  his  professional endeavor, in intellectual, political, and social activities leading to all-round development  of  his  self,  to  take  active  part  in  leading  the  affairs  of  the country, improve his skills, and to make full use of his creativity;
+circulation of wealth in the hands of a few individuals or groups, nor turns the government into a major absolute employer. These steps must be taken with due regard for the requirements governing the general economic planning of the country at each stage of its growth;
 
-- respect for the right to choose freely one's occupation; refraining from compelling  anyone  to  engage  in  a  particular  job;  and  preventing  the exploitation of another's labor;
+3. the plan for the national economy, must be structured in such a manner that the form, content, and hours of work of every individual will allow him sufficient leisure and energy to engage, beyond his professional endeavor, in intellectual, political, and social activities leading to all-round development of his self, to take active part in leading the affairs of the country, improve his skills, and to make full use of his creativity;
 
-- the  prohibition  of  infliction  of  harm  and  loss  upon  others,  monopoly, hoarding, usury, and other illegitimate and evil practices;
+4. respect for the right to choose freely one's occupation; refraining from compelling anyone to engage in a particular job; and preventing the exploitation of another's labor;
 
-- the prohibition of extravagance and wastefulness in all matters related to the economy, including consumption, investment, production, distribution, and services;
+5. the prohibition of infliction of harm and loss upon others, monopoly, hoarding, usury, and other illegitimate and evil practices;
 
-- the  utilization  of  science  and  technology,  and  the  training  of  skilled personnel  in  accordance  with  the  developmental  needs  of  the  country's economy;
+6. the prohibition of extravagance and wastefulness in all matters related to the economy, including consumption, investment, production, distribution, and services;
 
-- prevention of foreign economic domination over the country's economy;
+7. the utilization of science and technology, and the training of skilled personnel in accordance with the developmental needs of the country's economy;
 
-- emphasis on increase of agricultural, livestock, and industrial production in order to satisfy public needs and to make the country selfsufficient and free from dependence.
+8. prevention of foreign economic domination over the country's economy;
+
+9. emphasis on increase of agricultural, livestock, and industrial production in order to satisfy public needs and to make the country self-sufficient and free from dependence.
 
 #### Article 44
 
-The  economy  of  the  Islamic  Republic  of  Iran  is  to  consist  of  three  sectors:  state, cooperative, and private, and is to be based on systematic and sound planning. The state sector is to include all large-scale and mother industries, foreign trade, major minerals, banking,  insurance,  power  generation,  dams  and  large-scale  irrigation  networks,  radio and television, post, telegraph and telephone services, aviation, shipping, roads, railroads and  the  like;  all  these  will  be  publicly  owned  and  administered  by  the  State.  The cooperative  sector  is  to  include  cooperative  companies  and  enterprises  concerned  with production and distribution, in urban and rural areas, in accordance with Islamic criteria. The  private  sector  consists  of  those  activities  concerned  with  agriculture,  animal husbandry,  industry,  trade,  and  services  that  supplement  the  economic  activities  of  the state and cooperative sectors. Ownership in each of these three sectors is protected by the laws of the Islamic Republic, in so far as this ownership is in conformity with the other articles of this chapter, does not go beyond the bounds of Islamic law, contributes to the economic growth and progress of the country, and does not harm society. The [precise] scope of each of these sectors, as well as the regulations and conditions governing their operation, will be specified by law.
+The economy of the Islamic Republic of Iran is to consist of three sectors: state, cooperative, and private, and is to be based on systematic and sound planning. The state sector is to include all large-scale and mother industries, foreign trade, major minerals, banking, insurance, power generation, dams and large-scale irrigation networks, radio and television, post, telegraph and telephone services, aviation, shipping, roads, railroads and the like; all these will be publicly owned and administered by the State. The cooperative sector is to include cooperative companies and enterprises concerned with production and distribution, in urban and rural areas, in accordance with Islamic criteria. The private sector consists of those activities concerned with agriculture, animal husbandry, industry, trade, and services that supplement the economic activities of the
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+state and cooperative sectors. Ownership in each of these three sectors is protected by the laws of the Islamic Republic, in so far as this ownership is in conformity with the other articles of this chapter, does not go beyond the bounds of Islamic law, contributes to the economic growth and progress of the country, and does not harm society. The [precise] scope of each of these sectors, as well as the regulations and conditions governing their operation, will be specified by law.
 
 #### Article 45
 
@@ -488,7 +502,7 @@ No form of taxation may be imposed except in accordance with the law. Provisions
 
 #### Article 52
 
-The  annual  budget  of  the  country  will  be  drain  up  by  the  government,  in  the  manner specified by law, and submitted to the Islamic Consultative Assembly for discussion and approval. Any change in the figures contained in the budget will be in accordance with the procedures prescribed by law.
+The annual budget of the country will be drawn up by the government, in the manner specified by law, and submitted to the Islamic Consultative Assembly for discussion and approval. Any change in the figures contained in the budget will be in accordance with the procedures prescribed by law.
 
 #### Article 53
 
@@ -520,7 +534,7 @@ The  powers  of  government  in  the  Islamic  Republic  are  vested  in  the  l
 
 #### Article 58
 
-The  function  of  the  legislature  are  to  be  exercised  through  the  Islamic  Consultative Assembly, consisting of the elected representatives of the people. Legislation approved by  this  body, after going  through  the stages specified in the articles below,  is communicated to the executive and the judiciary for implementation.
+The functions of the legislature are to be exercised through the Islamic Consultative Assembly, consisting of the elected representatives of the people. Legislation approved by this body, after going through the stages specified in the articles below, is communicated to the executive and the judiciary for implementation.
 
 #### Article 59
 
@@ -532,7 +546,7 @@ The functions of the executive, except in the matters that are directly placed u
 
 #### Article 61
 
-The function of the judiciary are to be performed by courts of justice, which are to be formed  in  accordance  with  the  criteria  of  Islam,  and  are  vested  with  the  authority  to examine and settle lawsuits, protect the rights of the public, dispense and enact justice, and implement the Divine limits [al-hudud al-Ilahiyyah].
+The functions of the judiciary are to be performed by courts of justice, which are to be formed in accordance with the criteria of Islam, and are vested with the authority to examine and settle lawsuits, protect the rights of the public, dispense and enact justice, and implement the Divine limits [al-hudud al-Ilahiyyah].
 
 ## CHAPTER VI
 
@@ -546,7 +560,7 @@ The function of the judiciary are to be performed by courts of justice, which ar
 
 #### Article 62
 
-The  Islamic  consultative  Assembly  is  constituted  by  the  representatives  of  the  people elected directly and by secret ballot. The qualifications of voters and candidates, as well as the nature of election, will be specified by law.
+The Islamic Consultative Assembly is constituted by the representatives of the people elected directly and by secret ballot. The qualifications of voters and candidates, as well as the nature of election, will be specified by law.
 
 #### Article 63
 
@@ -554,11 +568,11 @@ The term of membership in the Islamic Consultative Assembly is four years. Elect
 
 #### Article 64
 
-There  are  to  be  two  hundred  seventy  members  of  the  Islamic  Consultative  Assembly which, keeping in view the human, political, geographic and other similar factors, may increase by not more than twenty for each ten-year period from the date of the national referendum of the year 1368 of the solar Islamic calendar. The Zoroastrians and Jews will each  elect  one  representative;  Assyrian  and  Chaldean  Christians  will  jointly  elect  one representative; and Armenian Christians in the north and those in the south of the country will  each  elect  one  representative.  The  limits  of  the  election  constituencies  and  the number of representatives will be deter-mined by law.
+There are to be two hundred seventy members of the Islamic Consultative Assembly which, keeping in view the human, political, geographic and other similar factors, may increase by not more than twenty for each ten-year period from the date of the national referendum of the year 1368 of the solar Islamic calendar. The Zoroastrians and Jews will each elect one representative; Assyrian and Chaldean Christians will jointly elect one representative; and Armenian Christians in the north and those in the south of the country will each elect one representative. The limits of the election constituencies and the number of representatives will be determined by law.
 
 #### Article 65
 
-After  the  holding  of  elections,  sessions  of  the  Islamic  Consultative  Assembly  are considered  legally  valid  when  two-thirds  of  the  total  number  of  members  are  present. Drafts and bills will be approved in accordance with the code of procedure approved by it, except in cases where the Constitution has specified a certain quorum. The consent of two-thirds of all members present is necessary for the approve of the code of procedure of the Assembly.
+After the holding of elections, sessions of the Islamic Consultative Assembly are considered legally valid when two-thirds of the total number of members are present. Drafts and bills will be approved in accordance with the code of procedure approved by it, except in cases where the Constitution has specified a certain quorum. The consent of two-thirds of all members present is necessary for the approval of the code of procedure of the Assembly.
 
 #### Article 66
 
@@ -566,13 +580,15 @@ The  manner  of  election  of  the  Speaker  and  the  Presiding  Board  of  the
 
 #### Article 67
 
-Members  of  the  Assembly  must  take  the  following  oath  at  the  first  session  of  the Assembly and affix their signatures to its text: In the Name of God, the Compassionate, the  Merciful.  In  the  presence  of  the  Glorious  Qur'an,  I  swear  by  God,  the  Exalted  and Almighty, and undertake, swearing by my own honor as a human being, to protect the sanctity of Islam and guard the accomplishments of the Islamic Revolution of the Iranian people and the foundations of the Islamic Republic; to protect, as a just trustee, the honor bestowed  upon  me  by  the  people,  to  observe  piety  in  fulfilling  my  duties  as  people's representative;  to  remain  always  committed  to  the  independence  and  honor  of  the country; to fulfill my duties towards the nation and the service of the people; to defend the Constitution; and to bear in mind, both in speech and writing and in the expression of my views, the independence of the country, the freedom of the people, and the security of their interests.
+Members of the Assembly must take the following oath at the first session of the Assembly and affix their signatures to its text: In the Name of God, the Compassionate, the Merciful. In the presence of the Glorious Qur'an, I swear by God, the Exalted and Almighty, and undertake, swearing by my own honor as a human being, to protect the sanctity of Islam and guard the accomplishments of the Islamic Revolution of the Iranian
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-Members  belonging  to  the  religious  minorities  will  swear  by  their  own  sacred  books while taking this oath.
+people and the foundations of the Islamic Republic; to protect, as a just trustee, the honor bestowed upon me by the people, to observe piety in fulfilling my duties as people's representative; to remain always committed to the independence and honor of the country; to fulfill my duties towards the nation and the service of the people; to defend the Constitution; and to bear in mind, both in speech and writing and in the expression of my views, the independence of the country, the freedom of the people, and the security of their interests.
+
+Members belonging to the religious minorities will swear by their own sacred books while taking this oath.
 
 Members not attending the first session will perform the ceremony of taking the oath at the first session they attend.
 
@@ -602,7 +618,7 @@ The Islamic Consultative Assembly can establish laws on all matters, within the 
 
 #### Article 72
 
-The Islamic Consultative Assembly cannot enact laws contrary to the usual and ahkam of the official religion of the country or to the Constitution. It is the duty of the Guardian Council to determine whether a violation has occurred, in accordance with Article 96.
+The Islamic Consultative Assembly cannot enact laws contrary to the usul and ahkam of the official religion of the country or to the Constitution. It is the duty of the Guardian Council to determine whether a violation has occurred, in accordance with Article 96.
 
 #### Article 73
 
@@ -614,7 +630,7 @@ Government bills are presented to the Islamic Consultative Assembly after receiv
 
 #### Article 75
 
-Members'  bills  and  proposals  and  amendments  to  governments  bills  proposed  by members  that  entail  the  reduction  of  the  public  income  or  the  increase  of  public expenditure may be introduced in the Assembly only if means for compensating for the decrease in income or for meeting the new expenditure are also specified.
+Members' bills and proposals and amendments to government bills proposed by members that entail the reduction of the public income or the increase of public expenditure may be introduced in the Assembly only if means for compensating for the decrease in income or for meeting the new expenditure are also specified.
 
 #### Article 76
 
@@ -626,11 +642,13 @@ International  treaties,  protocols,  contracts,  and  agreements  must  be  app
 
 #### Article 78
 
-All changes in the boundaries of the country are forbidden, with the exception of minor amendments in keeping with the interests of the country, on condition that they are not unilateral,  do  not  encroach  on  the  independence  and territorial integrity of the country, and receive the approval of four-fifths of the total members of the Islamic Consultative Assembly.
+All changes in the boundaries of the country are forbidden, with the exception of minor amendments in keeping with the interests of the country, on condition that they are not unilateral, do not encroach on the independence and territorial integrity of the country,
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+and receive the approval of four-fifths of the total members of the Islamic Consultative Assembly.
 
 #### Article 79
 
@@ -658,7 +676,7 @@ Every representative is responsible to the entire nation and has the right to ex
 
 #### Article 85
 
-The right of membership is vested with the individual, and is not transferable to others. The Assembly cannot delegate the power of legislation to an individual or  committee. But whenever necessary, it can delegate the power of legislating certain laws to its own committees, in accordance with Article 72. In such a case, the laws will be implemented on a tentative basis for a period specified by the Assembly, and their final approval willrest  with  the  Assembly.  Likewise,  the  Assembly  may,  in  accordance  with  Article  72, delegate to the relevant committees the responsibility for permanent approval of articles of  association  of  organizations,  companies,  government  institutions,  or  organizations affiliated to the government and or invest the authority in the government. In such a case, the government approvals must not be inconsistent with the principles and commandments  of  the  official  religion  in  the  country  and  or  the  Constitution  which question shall be determined by the Guardian Council in accordance with what is stated in Article 96. In addition to this, the government approvals shall not be against the laws and other general rules of the country and, while calling for implementation, the same shall be brought to the knowledge of the Speaker of the Islamic Consultative Assembly for his study and indication that the approvals in question are not inconsistent with the aforesaid rules.
+The right of membership is vested with the individual, and is not transferable to others. The Assembly cannot delegate the power of legislation to an individual or committee. But whenever necessary, it can delegate the power of legislating certain laws to its own committees, in accordance with Article 72. In such a case, the laws will be implemented on a tentative basis for a period specified by the Assembly, and their final approval will rest with the Assembly. Likewise, the Assembly may, in accordance with Article 72, delegate to the relevant committees the responsibility for permanent approval of articles of association of organizations, companies, government institutions, or organizations affiliated to the government and or invest the authority in the government. In such a case, the government approvals must not be inconsistent with the principles and commandments of the official religion in the country and or the Constitution which question shall be determined by the Guardian Council in accordance with what is stated in Article 96. In addition to this, the government approvals shall not be against the laws and other general rules of the country and, while calling for implementation, the same shall be brought to the knowledge of the Speaker of the Islamic Consultative Assembly for his study and indication that the approvals in question are not inconsistent with the aforesaid rules.
 
 [[END OF PAGE 24]]
 
@@ -678,15 +696,15 @@ Whenever at least one-fourth of the total members of the Islamic Consultative As
 
 #### Article 89
 
-1.  Members  of  the  Islamic  Consultative  Assembly  can  interpolate  the  Council  of Ministers or an individual minister in instances they deem necessary. Interpolations can be tabled if they bear the signatures of at least ten members. The Council of Ministers or interpolated minister must be present in the Assembly within ten days after the tabling of the interpolation in order to answer it and seek a vote of confidence. If the Council of Ministers or the minister concerned fails to attend the Assembly, the members who tabled the interpolation will explain their reasons, and the Assembly will declare a vote of noconfidence  if  it  deems  it  necessary.  If  the  Assembly  does  not  pronounce  a  vote  of confidence, the Council of Ministers or the minister subject to interpolation is dismissed.
+1. Members of the Islamic Consultative Assembly can interpellate the Council of Ministers or an individual minister in instances they deem necessary. Interpellations can be tabled if they bear the signatures of at least ten members. The Council of Ministers or interpellated minister must be present in the Assembly within ten days after the tabling of the interpellation in order to answer it and seek a vote of confidence. If the Council of Ministers or the minister concerned fails to attend the Assembly, the members who tabled the interpellation will explain their reasons, and the Assembly will declare a vote of no-confidence if it deems it necessary. If the Assembly does not pronounce a vote of confidence, the Council of Ministers or the minister subject to interpellation is dismissed.
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-In both cases, the ministers subject to interpolation cannot become members of the next Council of Ministers formed immediately afterwards.
+In both cases, the ministers subject to interpellation cannot become members of the next Council of Ministers formed immediately afterwards.
 
-- In  the  event  at  least  one-third  of  the  members of the Islamic Consultative Assembly interpolate  the  President  concerning  his  executive  responsibilities  in  relation  with  the Executive Power and the executive affairs of the country, the President must be present in the  Assembly  within  one  month  after  the  tabling  of  the  interpolation  in  order  to  give adequate  explanations  in  regard  to  the  matters  raised.  In  the  event,  after  hearing  the statements of the opposing and favoring members and the reply of the  President, twothirds of the members of the Assembly declare a vote of no confidence, the same will be communicated to the Leadership for information and implementation of Section (10) of Article 110 of the Constitution.
+2. In the event at least one-third of the members of the Islamic Consultative Assembly interpellate the President concerning his executive responsibilities in relation with the Executive Power and the executive affairs of the country, the President must be present in the Assembly within one month after the tabling of the interpellation in order to give adequate explanations in regard to the matters raised. In the event, after hearing the statements of the opposing and favoring members and the reply of the President, two-thirds of the members of the Assembly declare a vote of no confidence, the same will be communicated to the Leadership for information and implementation of Section (10) of Article 110 of the Constitution.
 
 #### Article 90
 
@@ -696,9 +714,9 @@ Whoever has a complaint concerning the work of the Assembly or the executive pow
 
 With a view to safeguard the Islamic ordinances and the Constitution, in order to examine the  compatibility  of  the  legislation  passed  by  the  Islamic  Consultative  Assembly  with Islam,  a  council  to  be  known  as  the  Guardian  Council  is  to  be  constituted  with  the following composition:
 
-- six 'adil fuqaha' conscious of the present needs and the issues of the day, to be selected by the Leader, and
+1. six 'adil fuqaha' conscious of the present needs and the issues of the day, to be selected by the Leader, and
 
-- six  jurists,  specializing  in  different  areas  of  law,  to  be  elected  by  the Islamic Consultative Assembly from among the Muslim jurists nominatedby the Head of the Judicial Power.
+2. six jurists, specializing in different areas of law, to be elected by the Islamic Consultative Assembly from among the Muslim jurists nominated by the Head of the Judicial Power.
 
 #### Article 92
 
@@ -740,9 +758,13 @@ The Guardian Council has the responsibility of supervising the elections of the 
 
 [[START OF PAGE 28]]
 
+## CHAPTER VII
+
+### Public Councils
+
 #### Article 100
 
-In order to expedite social, economic,  development,  public health, cultural, and educational  programs  and  facilitate  other  affairs  relating  to  public  welfare  with  the cooperation  of  the  people  according  to  local  needs,  the  administration  of  each  village, division, city, municipality, and province will be supervised by a council to be named the Village, Division, City, Municipality, or Provincial Council. Members of each of these councils will be elected by the people of the locality in question. Qualifications for the eligibility  of  electors  and  candidates  for  these  councils,  as  well  as  their  functions  and powers,  the  mode  of  election,  the  jurisdiction  of  these  councils,  the  hierarchy  of  their authority,  will  be  determined  by  law,  in  such  a  way  as  to  preserve  national  unity, territorial integrity, the system of the Islamic Republic, and the sovereignty of the central government.
+In order to expedite social, economic, development, public health, cultural, and educational programs and facilitate other affairs relating to public welfare with the cooperation of the people according to local needs, the administration of each village, division, city, municipality, and province will be supervised by a council to be named the Village, Division, City, Municipality, or Provincial Council. Members of each of these councils will be elected by the people of the locality in question. Qualifications for the eligibility of electors and candidates for these councils, as well as their functions and powers, the mode of election, the jurisdiction of these councils, the hierarchy of their authority, will be determined by law, in such a way as to preserve national unity, territorial integrity, the system of the Islamic Republic, and the sovereignty of the central government.
 
 #### Article 101
 
@@ -754,15 +776,11 @@ The Supreme Council of the Provinces has the right within its jurisdiction to dr
 
 #### Article 103
 
-Provincial governors, city governors, divisional governors, and other officials appointed by  the  government  must  abide  by  all  decisions  taken  by  the  councils  within  their jurisdiction.
+Provincial governors, city governors, divisional governors, and other officials appointed by the government must abide by all decisions taken by the councils within their jurisdiction.
 
 #### Article 104
 
-In  order  to  ensure  Islamic  equity  and  cooperation  in  chalking  out  the  programs  and  to bring  about  the  harmonious  progress  of  all  units  of  production,  both  industrial  and agricultural,  councils  consisting  of  the  representatives  of  the  workers,  peasants,  other employees, and managers, will be formed in educational and administrative units, units of service  industries,  and  other  units  of  a  like  nature,  similar  councils  will  be  formed,
-
-## CHAPTER VII
-
-### Public Councils
+In order to ensure Islamic equity and cooperation in chalking out the programs and to bring about the harmonious progress of all units of production, both industrial and agricultural, councils consisting of the representatives of the workers, peasants, other employees, and managers, will be formed in educational and administrative units, units of service industries, and other units of a like nature, similar councils will be formed,
 
 [[END OF PAGE 28]]
 
@@ -784,11 +802,11 @@ The councils may not be dissolved unless they deviate from their legal duties. T
 
 #### Article 107
 
-After the demise of the eminent marji' al-taqlid and great leader of the universal Islamic revolution,  and  founder  of  the  Islamic  Republic  of  Iran,  Ayatullah  al-'Uzma  Imam Khomeyni - quddisa sirruh  al-sharif  -  who  was  recognized  and  accepted  as  marji'  and Leader by a decisive majority of the people, the task of appointing the Leader shall be vested with the experts elected by the people. The experts will review and consult among themselves concerning all the fuqaha' possessing the qualifications specified in Articles 5 and  109.  In  the  event  they  find  one  of  them  better  versed  in  Islamic  regulations,  the subjects of the fiqh, or in political and social Issues, or possessing general popularity or special prominence for any of the qualifications mentioned in Article 109, they shall elect him as the Leader. Otherwise, in the absence of such a superiority, they shall elect and declare one of them as the Leader. The Leader thus elected by the Assembly of Experts shall  assume  all  the  powers  of  the  wilayat  al-amr  and  all  the  responsibilities  arising therefrom. The Leader is equal with the rest of the people of the country in the eyes of law.
+After the demise of the eminent marji' al-taqlid and great leader of the universal Islamic revolution, and founder of the Islamic Republic of Iran, Ayatullah al-'Uzma Imam Khomeyni - quddisa sirruh al-sharif - who was recognized and accepted as marji' and Leader by a decisive majority of the people, the task of appointing the Leader shall be vested with the experts elected by the people. The experts will review and consult among themselves concerning all the fuqaha' possessing the qualifications specified in Articles 5 and 109. In the event they find one of them better versed in Islamic regulations, the subjects of the fiqh, or in political and social issues, or possessing general popularity or special prominence for any of the qualifications mentioned in Article 109, they shall elect him as the Leader. Otherwise, in the absence of such a superiority, they shall elect and declare one of them as the Leader. The Leader thus elected by the Assembly of Experts shall assume all the powers of the wilayat al-amr and all the responsibilities arising therefrom. The Leader is equal with the rest of the people of the country in the eyes of law.
 
 #### Article 108
 
-The  law  setting  out  the  number  and  qualifications  of  the  experts  [mentioned  in,  the preceding article], the mode of their election, and the code of procedure regulating the sessions  during  the  first  term,  must  be  drawn  up  by  the  fuqaha'  on  the  first  Guardian Council, passed by a majority of votes and then finally approved by the Leader of the Revolution.  The  power  to  make  any  subsequent  change  or  a  review  of  this  law,  or approval of all the provisions concerning the duties of the experts is vested in themselves.
+The law setting out the number and qualifications of the experts [mentioned in the preceding article], the mode of their election, and the code of procedure regulating the sessions during the first term, must be drawn up by the fuqaha' on the first Guardian Council, passed by a majority of votes and then finally approved by the Leader of the Revolution. The power to make any subsequent change or a review of this law, or approval of all the provisions concerning the duties of the experts is vested in themselves.
 
 [[END OF PAGE 29]]
 
@@ -798,11 +816,11 @@ The  law  setting  out  the  number  and  qualifications  of  the  experts  [men
 
 Following are the essential qualifications and conditions for the Leader:
 
-- scholarship,  as  required  for  performing  the  functions  of  mufti  in different fields of fiqh.
+a. scholarship, as required for performing the functions of mufti in different fields of fiqh.
 
-- Justice and piety, as required for the leadership of the Islamic Ummah.
+b. justice and piety, as required for the leadership of the Islamic Ummah.
 
-- right political and social perspicacity, prudence, courage, administrative facilities and adequate capability for leadership.
+c. right political and social perspicacity, prudence, courage, administrative facilities and adequate capability for leadership.
 
 In case of multiplicity of persons fulfilling the above qualifications and conditions, the person  possessing  the  better  jurisprudential  and  political  perspicacity  will  be  given preference.
 
@@ -810,49 +828,49 @@ In case of multiplicity of persons fulfilling the above qualifications and condi
 
 Following are the duties and powers of the Leadership:
 
-- Delineation of the general policies of the Islamic Republic of Iran after consultation with the Nation's Exigency Council.
+1. Delineation of the general policies of the Islamic Republic of Iran after consultation with the Nation's Exigency Council.
 
-- Supervision  over  the  proper  execution  of  the  general  policies  of  the system.
+2. Supervision over the proper execution of the general policies of the system.
 
-- Issuing decrees for national referenda.
+3. Issuing decrees for national referenda.
 
-- Assuming supreme command of the armed forces.
+4. Assuming supreme command of the armed forces.
 
-- Declaration of war and peace, and the mobilization of the armed forces.
+5. Declaration of war and peace, and the mobilization of the armed forces.
 
-- Appointment, dismissal, and acceptance of resignation of:
+6. Appointment, dismissal, and acceptance of resignation of:
 
-- the fuqaha' on the Guardian Council.
+a. the fuqaha' on the Guardian Council.
 
-- the supreme judicial authority of the country.
+b. the supreme judicial authority of the country.
 
-- the  head  of  the  radio  and  television  network  of  the Islamic Republic of Iran.
+c. the head of the radio and television network of the Islamic Republic of Iran.
 
-- the chief of the joint staff.
+d. the chief of the joint staff.
 
-- the  chief  commander  of  the  Islamic  Revolution  Guards Corps.
+e. the chief commander of the Islamic Revolution Guards Corps.
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-- the supreme commanders of the armed forces.
+f. the supreme commanders of the armed forces.
 
-- Resolving differences between the three wings of the armed forces and regulation of their relations.
+7. Resolving differences between the three wings of the armed forces and regulation of their relations.
 
-- Resolving  the  problems,  which  cannot  be  solved  by  conventional methods, through the Nation's Exigency Council.
+8. Resolving the problems, which cannot be solved by conventional methods, through the Nation's Exigency Council.
 
-- Signing  the  decree  formalizing  the  election  of  the  President  of  the Republic by the people. The suitability of candidates for the Presidency of the Republic, with respect to the qualifications specified in the Constitution,  must  be  confirmed  before  elections  take  place  by  the Guardian Council; and, in the case of the first term [of the Presidency], by the Leadership;
+9. Signing the decree formalizing the election of the President of the Republic by the people. The suitability of candidates for the Presidency of the Republic, with respect to the qualifications specified in the Constitution, must be confirmed before elections take place by the Guardian Council; and, in the case of the first term [of the Presidency], by the Leadership;
 
-- Dismissal  of  the'  President  of  the  Republic,  with  due  regard  for  the interests of the country, after the Supreme Court holds him guilty of the violation  of  his  constitutional  duties,  or  after  a  vote  of  the  Islamic Consultative  Assembly  testifying  to  his  incompetence  on  the  basis  of Article 89 of the Constitution.
+10. Dismissal of the President of the Republic, with due regard for the interests of the country, after the Supreme Court holds him guilty of the violation of his constitutional duties, or after a vote of the Islamic Consultative Assembly testifying to his incompetence on the basis of Article 89 of the Constitution.
 
-- Pardoning or reducing the sentences of convicts, within the framework of Islamic criteria, on a recommendation [to that effect] from the Head of judicial power.
+11. Pardoning or reducing the sentences of convicts, within the framework of Islamic criteria, on a recommendation [to that effect] from the Head of judicial power.
 
 The Leader may delegate part of his duties and powers to another person.
 
 #### Article 111
 
-Whenever the  Leader  becomes  incapable  of  fulfilling  his  constitutional  duties,  or  lobs one of the qualifications mentioned in Articles 5 and 109, or it becomes known that he did not possess some of the qualifications initially, he will be dismissed. The authority of determination  in  this  matter  is  vested  with  the  experts  specified  in  Article  108.  In  the event of the death, or resignation or dismissal of the Leader, the experts shall take steps within  the  shortest  possible  time  for  the  appointment  of  the  new  Leader.  Till  the appointment of the new Leader, a council consisting of the President, head of the judicial power,  and  a  faqih  from  the  Guardian  Council,  upon  the  decision  of  the  Nation's Exigency Council, shall temporarily take over all the duties of the Leader. In the event, during this period, any one of them is unable to fulfill his duties for whatsoever reason, another person, upon the decision of majority of fuqaha' in the Nation's Exigency Council shall be elected in his place. This council shall take action in respect of items 1,3,5, and 10, and sections d, e and f of item 6 of Article 110, upon the decision of three-fourths of the members  of  the Nation's Exigency Council. Whenever  the Leader  becomes temporarily unable to perform the duties of leadership owing to his illness or any other incident, then during this period, the council mentioned in this Article shall assume his duties.
+Whenever the Leader becomes incapable of fulfilling his constitutional duties, or loses one of the qualifications mentioned in Articles 5 and 109, or it becomes known that he did not possess some of the qualifications initially, he will be dismissed. The authority of determination in this matter is vested with the experts specified in Article 108. In the event of the death, or resignation or dismissal of the Leader, the experts shall take steps within the shortest possible time for the appointment of the new Leader. Till the appointment of the new Leader, a council consisting of the President, head of the judicial power, and a faqih from the Guardian Council, upon the decision of the Nation's Exigency Council, shall temporarily take over all the duties of the Leader. In the event, during this period, any one of them is unable to fulfill his duties for whatsoever reason, another person, upon the decision of majority of fuqaha' in the Nation's Exigency Council shall be elected in his place. This council shall take action in respect of items 1,3,5, and 10, and sections d, e and f of item 6 of Article 110, upon the decision of three-fourths of the members of the Nation's Exigency Council. Whenever the Leader becomes temporarily unable to perform the duties of leadership owing to his illness or any other incident, then during this period, the council mentioned in this Article shall assume his duties.
 
 [[END OF PAGE 31]]
 
@@ -860,7 +878,7 @@ Whenever the  Leader  becomes  incapable  of  fulfilling  his  constitutional  d
 
 #### Article 112
 
-Upon the order of the Leader, the Nation's Exigency Council shall meet at any time the Guardian  Council  judges  a  proposed  bill  of  the  Islamic  Consultative  Assembly  to  be against the principles of Shariah or the Constitution, and the Assembly is 'unable to meet the expectations of the Guardian Council. Also, the Council shall meet for consideration on any issue forwarded to it by the Leader and shall carry out any other responsibility as mentioned in this Constitution. The permanent and changeable members of the Council shall  be  appointed  by  the  Leader.  The  rules  for  the  Council  shall  be  formulated  and approved by the Council members subject to the confirmation by the Leader.
+Upon the order of the Leader, the Nation's Exigency Council shall meet at any time the Guardian Council judges a proposed bill of the Islamic Consultative Assembly to be against the principles of Shariah or the Constitution, and the Assembly is unable to meet the expectations of the Guardian Council. Also, the Council shall meet for consideration on any issue forwarded to it by the Leader and shall carry out any other responsibility as mentioned in this Constitution. The permanent and changeable members of the Council shall be appointed by the Leader. The rules for the Council shall be formulated and approved by the Council members subject to the confirmation by the Leader.
 
 ## CHAPTER IX
 
@@ -876,7 +894,7 @@ After the office of Leadership, the President is the highest official in the cou
 
 #### Article 114
 
-The  President  is  elected  for  a  four-year  term  by  the  direct  vote  of  the  people.  His  reelection for a successive term is permissible only once.
+The President is elected for a four-year term by the direct vote of the people. His re-election for a successive term is permissible only once.
 
 #### Article 115
 
@@ -892,15 +910,15 @@ Candidates nominated for the post of President must declare their candidature of
 
 [[START OF PAGE 33]]
 
-The President is elected by an absolute majority of votes polled by the voters. But if none of the candidates is able to win such a majority In the first round, voting will take place a second  time  on  Friday  of  the  following  week.  In  the  second  round  only  the  two candidates who received greatest number of votes in the first round will participate. If, however, some of the candidates securing greatest votes in the first round withdraw from the  elections,  the  final  choice  will  be  between  the  two  candidates  who  won  greater number of votes than all the remaining candidates.
+The President is elected by an absolute majority of votes polled by the voters. But if none of the candidates is able to win such a majority in the first round, voting will take place a second time on Friday of the following week. In the second round only the two candidates who received greatest number of votes in the first round will participate. If, however, some of the candidates securing greatest votes in the first round withdraw from the elections, the final choice will be between the two candidates who won greater number of votes than all the remaining candidates.
 
 #### Article 118
 
-Responsibility for the supervision of the election, of the President lies with the Guardian Council, as stipulated in Article 99.  But  before  the  establishment  of  the  first  Guardian Council, however, it lies with a supervisory body to be constituted by law.
+Responsibility for the supervision of the election of the President lies with the Guardian Council, as stipulated in Article 99. But before the establishment of the first Guardian Council, however, it lies with a supervisory body to be constituted by law.
 
 #### Article 119
 
-The election of a new President must take place no later than one month before the end of the term of the outgoing President. In the interim period before the election of the new President and the end of the term of the outgoing President, the outgoing President will perform the duties of the, President.
+The election of a new President must take place no later than one month before the end of the term of the outgoing President. In the interim period before the election of the new President and the end of the term of the outgoing President, the outgoing President will perform the duties of the President.
 
 #### Article 120
 
@@ -910,11 +928,13 @@ In case any of the candidates whose suitability is established in terms of the q
 
 The President must take the following oath and affix his signature to it at a session of the Islamic Consultative Assembly in the presence of the head of the judicial power and the members of the Guardian Council:
 
-"In,  the  Name  of  God,  the  Compassionate,  the  Merciful,  I,  as  President,  swear,  in  the presence of the Noble Qur'an and the people of Iran, by God, the Exalted and Almighty, that I will guard the official religion of the country, the order of the Islamic Republic and the Constitution of the country; that I will devote all my capacities and abilities to the fulfillment of the responsibilities that I have assumed; that I will dedicate myself to the service of the people, the honor of the country, the propagation of religion and morality, and the support of truth and justice, refraining from every kind of arbitrary behavior; that I will protect the freedom and dignity of all citizens and the rights that the Constitution has accorded the people; that in guarding the frontiers and the political, economic, and cultural independence of the country I will not shirk any necessary measure; that, seeking help from God and following the Prophet of  Islam and the infallible  Imams (peace be upon them), I will guard, as a pious and selfless trustee, the authority vested in me by the people as a sacred trust, and transfer it to whomever the people may elect after me."
+"In the Name of God, the Compassionate, the Merciful, I, as President, swear, in the presence of the Noble Qur'an and the people of Iran, by God, the Exalted and Almighty, that I will guard the official religion of the country, the order of the Islamic Republic and the Constitution of the country; that I will devote all my capacities and abilities to the fulfillment of the responsibilities that I have assumed; that I will dedicate myself to the service of the people, the honor of the country, the propagation of religion and morality, and the support of truth and justice, refraining from every kind of arbitrary behavior; that I will protect the freedom and dignity of all citizens and the rights that the Constitution has accorded the people; that in guarding the frontiers and the political, economic, and cultural independence of the country I will not shirk any necessary measure; that, seeking help from God and following the Prophet of Islam and the infallible Imams (peace be
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+upon them), I will guard, as a pious and selfless trustee, the authority vested in me by the people as a sacred trust, and transfer it to whomever the people may elect after me."
 
 #### Article 122
 
@@ -938,7 +958,7 @@ The  President  is  responsible  for  national  planning  and  budget  and  stat
 
 #### Article 127
 
-In  special  circumstances,  subject  to  approval  of  the  Council  of  Ministers  the  President may appoint one or more special representatives with specific powers. In such cases, the decisions of his representative(s) will be considered as tee same as those of the President and the Council of Ministers.
+In special circumstances, subject to approval of the Council of Ministers the President may appoint one or more special representatives with specific powers. In such cases, the decisions of his representative(s) will be considered as the same as those of the President and the Council of Ministers.
 
 #### Article 128
 
@@ -946,7 +966,7 @@ In  special  circumstances,  subject  to  approval  of  the  Council  of  Minist
 
 [[START OF PAGE 35]]
 
-The  ambassadors  shall  be  appointed  upon  the  recommendation  of  the  foreign  minister and  approval  of  the  President.  The  President  signs  the  credentials  of  ambassadors  and receives the credentials presented by the ambassadors ,of the foreign countries.
+The ambassadors shall be appointed upon the recommendation of the foreign minister and approval of the President. The President signs the credentials of ambassadors and receives the credentials presented by the ambassadors of the foreign countries.
 
 #### Article 129
 
@@ -962,7 +982,7 @@ In case of death, dismissal, resignation, absence, or illness lasting longer tha
 
 #### Article 132
 
-During the period when the powers and responsibilities of the President are assigned to his  first  deputy  or  the  other  person  in  accordance  with  Article  131,  neither  can  the ministers be interpolated nor can a vote of no-confidence be passed against them. Also, neither  can  any  step  be  undertaken  for  a  review  of  the  Constitution,  nor  a  national referendum be held.
+During the period when the powers and responsibilities of the President are assigned to his first deputy or the other person in accordance with Article 131, neither can the ministers be interpellated nor can a vote of no-confidence be passed against them. Also, neither can any step be undertaken for a review of the Constitution, nor a national referendum be held.
 
 ### SECTION TWO
 
@@ -982,7 +1002,7 @@ The  President  is  the  head  of  the  Council  of  Ministers.  He  supervises 
 
 #### Article 135
 
-The ministers shall continue in office unless they are dismissed, or given a vote of noconfidence by the Assembly as a result of their interpolation, or a motion for a vote of noconfidence against them.
+The ministers shall continue in office unless they are dismissed, or given a vote of no-confidence by the Assembly as a result of their interpellation, or a motion for a vote of no-confidence against them.
 
 The resignation of the Council of Ministers, or that of each of them shall be submitted to the President, and the Council of Ministers shall continue to function until such time as the new government is appointed.
 
@@ -994,7 +1014,7 @@ The  President  can  dismiss  the  ministers  and  in  such  a  case  he  must  
 
 #### Article 137
 
-Each of the ministers is responsible for his duties to the President and the Assembly, but in meters approved by the Council of Ministers as a whole, he is also responsible for the actions of the others.
+Each of the ministers is responsible for his duties to the President and the Assembly, but in matters approved by the Council of Ministers as a whole, he is also responsible for the actions of the others.
 
 #### Article 138
 
@@ -1008,11 +1028,11 @@ The  ratification  and  the  regulations  of  the  government  and  the  decisio
 
 #### Article 139
 
-The settlement, of claims relating to public and state property or the referral thereof to arbitration is in every case dependent on the approval of the Council of Ministers, and the Assembly must be informed of these matters. In cases where one party to the dispute is a foreigner,  as  well  as  in  important  cases  that  are  purely  domestic,  the  approval  of  the Assembly must also be obtained. Law will specify the important cases intended here.
+The settlement of claims relating to public and state property or the referral thereof to arbitration is in every case dependent on the approval of the Council of Ministers, and the Assembly must be informed of these matters. In cases where one party to the dispute is a foreigner, as well as in important cases that are purely domestic, the approval of the Assembly must also be obtained. Law will specify the important cases intended here.
 
 #### Article 140
 
-Allegations of common crimes against the President, his deputies, and the ministers will be  investigated  in  common  courts  of  justice  with  the'  knowledge  of  the  Islamic Consultative Assembly.
+Allegations of common crimes against the President, his deputies, and the ministers will be investigated in common courts of justice with the knowledge of the Islamic Consultative Assembly.
 
 #### Article 141
 
@@ -1072,7 +1092,7 @@ In accordance with the noble Qur'anic verse:
 
 "(Prepare against them whatever force you are able to muster, and horses ready for battle, striking fear into God's enemy and your enemy, and others beyond them unknown to you but known to God... [8:60])"
 
-the  government  is  obliged  to  provide  a  program  of  military  training,  with  all  requisite facilities, fob all its citizens, in accordance with the Islamic criteria, in such a way that all citizens will always be able to engage in the armed defence of the Islamic Republic of Iran.  The  possession  of  arms,  however,  requires  the  granting  of  permission  by  the competent authorities.
+the government is obliged to provide a program of military training, with all requisite facilities, for all its citizens, in accordance with the Islamic criteria, in such a way that all citizens will always be able to engage in the armed defence of the Islamic Republic of Iran. The possession of arms, however, requires the granting of permission by the competent authorities.
 
 ## CHAPTER X
 
@@ -1098,37 +1118,37 @@ The government of the Islamic Republic of Iran may grant political asylum to tho
 
 [[START OF PAGE 40]]
 
+## CHAPTER XI
+
+### The Judiciary
+
 #### Article 156
 
 The judiciary is an independent power, the protector of the rights of the individual and society, responsible for the implementation of justice, and entrusted with the following duties:
 
-- investigating and passing judgment on grievances, violations of rights, and complaints; the resolving of litigation; the settling of disputes; and the taking of all necessary decisions and measures in probate matters as the law may determine;
+1. investigating and passing judgment on grievances, violations of rights, and complaints; the resolving of litigation; the settling of disputes; and the taking of all necessary decisions and measures in probate matters as the law may determine;
 
-- restoring public rights and promoting justice and legitimate freedoms;
+2. restoring public rights and promoting justice and legitimate freedoms;
 
-- supervising the proper enforcement of laws;
+3. supervising the proper enforcement of laws;
 
-- uncovering  crimes;  prosecuting,  punishing,  and  chastising  criminals; and enacting the penalties and provisions of the Islamic penal code;
+4. uncovering crimes; prosecuting, punishing, and chastising criminals; and enacting the penalties and provisions of the Islamic penal code;
 
-- taking  suitable  measures  to  prevent  the  occurrence  of  crime  and  to reform criminals.
+5. taking suitable measures to prevent the occurrence of crime and to reform criminals.
 
 #### Article 157
 
-In order to fulfill the responsibilities of the judiciary power in all the matters concerning judiciary,  administrative  and  executive  areas,  the  Leader  shall  appoint  a  just  Mujtahid well versed in judiciary affairs and possessing prudence. and administrative abilities as the head of the judiciary power for a period of five years who shall be the highest judicial authority.
+In order to fulfill the responsibilities of the judiciary power in all the matters concerning judiciary, administrative and executive areas, the Leader shall appoint a just Mujtahid well versed in judiciary affairs and possessing prudence and administrative abilities as the head of the judiciary power for a period of five years who shall be the highest judicial authority.
 
 #### Article 158
 
 The head of the judiciary branch is responsible for the following:
 
-- Establishment of the organizational structure necessary for the administration of justice commensurate with the responsibilities mentioned under Article 156.
+1. Establishment of the organizational structure necessary for the administration of justice commensurate with the responsibilities mentioned under Article 156.
 
-- Drafting judiciary bills appropriate for the Islamic Republic.
+2. Drafting judiciary bills appropriate for the Islamic Republic.
 
-- Employment  of  just  and  worthy  judges,  their  dismissal,  appointment, transfer,  assignment  to  particular  duties,  promotions,  and  carrying  out similar administrative duties, in accordance with the law.
-
-## CHAPTER XI
-
-### The Judiciary
+3. Employment of just and worthy judges, their dismissal, appointment, transfer, assignment to particular duties, promotions, and carrying out similar administrative duties, in accordance with the law.
 
 [[END OF PAGE 40]]
 
@@ -1186,7 +1206,7 @@ No act or omission may be regarded as a crime with retrospective effect on the b
 
 #### Article 170
 
-Judges  of  courts  are  obliged  to  refrain  from  executing  statutes  and  regulations  of  the government that are in conflict with the laws or the norms of Islam, or lie outside the competence of, the executive power. Everyone has the right to demand the annulment of any such regulation from the Court of Administrative Justice.
+Judges of courts are obliged to refrain from executing statutes and regulations of the government that are in conflict with the laws or the norms of Islam, or lie outside the competence of the executive power. Everyone has the right to demand the annulment of any such regulation from the Court of Administrative Justice.
 
 #### Article 171
 
@@ -1206,7 +1226,7 @@ In  order  to  investigate  the  complaints,  grievances,  and  objections  of  
 
 #### Article 174
 
-In accordance with the right of the judiciary to supervise the proper conducting of affairs and the correct implementation of laws by the administrative organs of the government, an organization I will be constituted under the supervision of the head of the judiciary branch to be known as the National General Inspectorate. The powers and duties of this organization will be determined by law.
+In accordance with the right of the judiciary to supervise the proper conducting of affairs and the correct implementation of laws by the administrative organs of the government, an organization will be constituted under the supervision of the head of the judiciary branch to be known as the National General Inspectorate. The powers and duties of this organization will be determined by law.
 
 ## CHAPTER XII
 
@@ -1214,7 +1234,7 @@ In accordance with the right of the judiciary to supervise the proper conducting
 
 #### Article 175
 
-The freedom of expression and dissemination of thoughts in the Radio and Television of the Islamic Republic of Iran must be guaranteed in keeping with the Islamic' criteria and the best interests of the country. The appointment and dismissal of the head of the Radio and Television of the Islamic Republic of Iran rests with the Leader. A council consisting of  two  representatives  each  of  the  President,  the  head  of  the  judiciary  branch  and  the Islamic Consultative Assembly shall supervise the functioning of this organization.
+The freedom of expression and dissemination of thoughts in the Radio and Television of the Islamic Republic of Iran must be guaranteed in keeping with the Islamic criteria and the best interests of the country. The appointment and dismissal of the head of the Radio and Television of the Islamic Republic of Iran rests with the Leader. A council consisting of two representatives each of the President, the head of the judiciary branch and the Islamic Consultative Assembly shall supervise the functioning of this organization.
 
 ## CHAPTER XIII
 
@@ -1236,7 +1256,7 @@ In order to safeguarding the national interests and preserving the Islamic Revol
 
 The  Council  shall  consist  of:  heads  of  three  branches  of  the  government,  chief  of  the Supreme Command Council of the Armed Forces, the officer in charge of the planning and  budget  affairs,  two  representatives  nominated  by  the  Leader,  ministers  of  foreign affairs,  interior,  and  information,  a  minister  related  with  the  subject,  and  the  highest ranking officials from the Armed Forces and the Islamic Revolution's Guards Corps.
 
-Commensurate with its duties, the Supreme Council for National Security shall form subcouncils  such  as  Defence  Sub-council  and  National  Security  Sub-council.  Each  Subcouncil will be presided over by the President or a member of the Supreme Council for National Security appointed by the President. The scope of authority and responsibility of the  Sub-councils  will  be  determined  by  law  and  their  organizational  structure  will  be approved by the Supreme Council for National Defence. The decisions of the Supreme Council for National Security shall be effective after the confirmation by the Leader.
+Commensurate with its duties, the Supreme Council for National Security shall form sub-councils such as Defence Sub-council and National Security Sub-council. Each Sub-council will be presided over by the President or a member of the Supreme Council for National Security appointed by the President. The scope of authority and responsibility of the Sub-councils will be determined by law and their organizational structure will be approved by the Supreme Council for National Defence. The decisions of the Supreme Council for National Security shall be effective after the confirmation by the Leader.
 
 ## CHAPTER XIV
 
@@ -1248,28 +1268,28 @@ Revision  of  the  Constitution  of  the  Islamic  Republic  of  Iran,  whenever
 
 The Leader issues an edict to the President after consultation with the Nation's Exigency Council stipulating the amendments or additions to be made by the Council for Revision of the Constitution which consists of:
 
-- Members of the Guardian Council.
+1. Members of the Guardian Council.
 
-- Heads of the three branches of the government.
+2. Heads of the three branches of the government.
 
-- Permanent members of the Nation's Exigency Council.
+3. Permanent members of the Nation's Exigency Council.
 
-- Five members from among the Assembly of Experts.
+4. Five members from among the Assembly of Experts.
 
-- Ten representatives selected by the Leader.
+5. Ten representatives selected by the Leader.
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
-- Three representatives from the Council of Ministers.
+6. Three representatives from the Council of Ministers.
 
-- Three representatives from the judiciary branch.
+7. Three representatives from the judiciary branch.
 
-- Ten representatives from among the members of the Islamic Consultative Assembly.
+8. Ten representatives from among the members of the Islamic Consultative Assembly.
 
-- Three representatives from among the university professors.
+9. Three representatives from among the university professors.
 
-The method of working, manner of selection and the terms and conditions of the Council shall  be  determined  by  law.  The  decisions  of  the  Council,  after  the  confirmation  and signatures  of  the  Leader,  shall  be  valid  if  approved  by  an  absolute  majority  vote  in  a national referendum. The provisions of Article 59 of the Constitution shall not apply to the referendum for the, "Revision of the Constitution." The contents of the Articles of the Constitution related to the Islamic character of the political system; the basis of all the rules and regulations according to Islamic criteria; the religious footing; the objectives of the Islamic Republic of Iran; the democratic character of the government; the wilayat al'mr the Imamate of Ummah; and the administration of the affairs of the country based on national  referenda,  official  religion  of  Iran  [Islam]  and  the  school  [Twelver  Ja'fari]  are unalterable.
+The method of working, manner of selection and the terms and conditions of the Council shall be determined by law. The decisions of the Council, after the confirmation and signatures of the Leader, shall be valid if approved by an absolute majority vote in a national referendum. The provisions of Article 59 of the Constitution shall not apply to the referendum for the "Revision of the Constitution." The contents of the Articles of the Constitution related to the Islamic character of the political system; the basis of all the rules and regulations according to Islamic criteria; the religious footing; the objectives of the Islamic Republic of Iran; the democratic character of the government; the wilayat al-'amr; the Imamate of Ummah; and the administration of the affairs of the country based on national referenda, official religion of Iran [Islam] and the school [Twelver Ja'fari] are unalterable.
 
 [[END OF PAGE 45]]
