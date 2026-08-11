@@ -122,9 +122,9 @@ La présente Charte remplace la Charte culturelle de l'Afrique adoptée par les 
 
 #### Article 2 Relations entre les parties à la Charte révisée et les parties liées par la Charte Culturelle de l'Afrique de 1976
 
-- Seules les dispositions de la présente Charte s'appliquent  aux relations entre les parties liées par ladite charte;
+a) Seules les dispositions de la présente Charte s'appliquent  aux relations entre les parties liées par ladite charte;
 
-- Les relations entre les parties à la première Charte culturelle de l'Afrique de 1976  et les parties à la présente Charte sont régies par les dispositions de la Charte culturelle de l'Afrique originale.
+b) Les relations entre les parties à la première Charte culturelle de l'Afrique de 1976  et les parties à la présente Charte sont régies par les dispositions de la Charte culturelle de l'Afrique originale.
 
 ## TITRE I OBJECTIFS ET PRINCIPES
 
@@ -132,7 +132,7 @@ La présente Charte remplace la Charte culturelle de l'Afrique adoptée par les 
 
 Les objectifs de la présente Charte sont les suivants:
 
-- affirmer la dignité de l'homme africain et de la femme africaine ainsi que le fondement populaire de leur culture;
+a) affirmer la dignité de l'homme africain et de la femme africaine ainsi que le fondement populaire de leur culture;
 
 [[END OF PAGE 5]]
 
@@ -140,41 +140,41 @@ Les objectifs de la présente Charte sont les suivants:
 
 5
 
-- promouvoir  la  liberté d'expression  et  la démocratie  culturelle qui est indissociable de la démocratie sociale et politique ;
+b) promouvoir  la  liberté d'expression  et  la démocratie  culturelle qui est indissociable de la démocratie sociale et politique ;
 
-- promouvoir un environnement propice permettant aux peuples africains de maintenir et de renforcer le sens et la volonté de progrès et de développement ;
+c) promouvoir un environnement propice permettant aux peuples africains de maintenir et de renforcer le sens et la volonté de progrès et de développement ;
 
-- préserver et promouvoir le patrimoine culturel africain à travers la conservation, la restitution et la réhabilitation;
+d) préserver et promouvoir le patrimoine culturel africain à travers la conservation, la restitution et la réhabilitation;
 
-- combattre et éliminer toutes les formes d'aliénation, d'exclusion et d'oppression  culturelle partout en Afrique ;
+e) combattre et éliminer toutes les formes d'aliénation, d'exclusion et d'oppression  culturelle partout en Afrique ;
 
-- encourager  la  coopération  culturelle  entre  les  Etats  membres  en  vue  du renforcement de l'unité africaine à travers l'usage des langues africaines et la promotion du dialogue entre les cultures;
+f) encourager  la  coopération  culturelle  entre  les  Etats  membres  en  vue  du renforcement de l'unité africaine à travers l'usage des langues africaines et la promotion du dialogue entre les cultures;
 
-- Intégrer les objectifs culturels aux stratégies de développement ;
+g) Intégrer les objectifs culturels aux stratégies de développement ;
 
-- encourager  la  coopération  culturelle  internationale  pour  une  meilleure compréhension  entre  les  peuples  à  l'intérieur  comme  à  l'extérieur  de l'Afrique ;
+h) encourager  la  coopération  culturelle  internationale  pour  une  meilleure compréhension  entre  les  peuples  à  l'intérieur  comme  à  l'extérieur  de l'Afrique ;
 
-- promouvoir  dans  chaque  pays  la  vulgarisation  de  la  science  et  de  la technologie, y compris les systèmes traditionnels de savoir, condition d'une meilleure compréhension et  préservation du patrimoine culturel et naturel ;
+i) promouvoir  dans  chaque  pays  la  vulgarisation  de  la  science  et  de  la technologie, y compris les systèmes traditionnels de savoir, condition d'une meilleure compréhension et  préservation du patrimoine culturel et naturel ;
 
-- renforcer  le  rôle  du  patrimoine  culturel  et  naturel  dans  la  promotion  de  la paix et de la bonne gouvernance ;
+j) renforcer  le  rôle  du  patrimoine  culturel  et  naturel  dans  la  promotion  de  la paix et de la bonne gouvernance ;
 
-- développer toutes les valeurs dynamiques du patrimoine culturel africain qui favorisent  les  droits  de  l'homme,  la  cohésion  sociale  et  le  développement humain ;
+k) développer toutes les valeurs dynamiques du patrimoine culturel africain qui favorisent  les  droits  de  l'homme,  la  cohésion  sociale  et  le  développement humain ;
 
-- doter les peuples africains de ressources leur permettant de faire face à la mondialisation.
+l) doter les peuples africains de ressources leur permettant de faire face à la mondialisation.
 
 #### Article 4
 
 Les  Etats  africains,  pour  atteindre  les  objectifs  énoncés  à  l'article  précédent, affirment solennellement les principes suivants:
 
-- accès  de tous les citoyens à l'éducation et à la culture;
+a) accès  de tous les citoyens à l'éducation et à la culture;
 
-- respect de la liberté de création et libération du génie créateur du peuple ;
+b) respect de la liberté de création et libération du génie créateur du peuple ;
 
-- respect des identités  nationales et régionales dans le domaine de la culture et celui des  droits culturels des minorités;
+c) respect des identités  nationales et régionales dans le domaine de la culture et celui des  droits culturels des minorités;
 
-- renforcement  de la place de la science et de la technologie,  y compris les systèmes endogènes de connaissance, dans la vie des peuples africains en incluant l'usage  des langues africaines;
+d) renforcement  de la place de la science et de la technologie,  y compris les systèmes endogènes de connaissance, dans la vie des peuples africains en incluant l'usage  des langues africaines;
 
-- échange et diffusion des expériences culturelles entre pays  africains.
+e) échange et diffusion des expériences culturelles entre pays  africains.
 
 [[END OF PAGE 6]]
 
@@ -186,9 +186,9 @@ Les  Etats  africains,  pour  atteindre  les  objectifs  énoncés  à  l'articl
 
 #### Article 5
 
-- Les  Etats  africains  reconnaissent  que  la  diversité  culturelle  est  un  facteur d'enrichissement mutuel des peuples et des nations. En conséquence, ils s'engagent  à  défendre  les  minorités,  leurs  cultures,  leurs  droits  et  leurs  libertés fondamentales.
+1. Les  Etats  africains  reconnaissent  que  la  diversité  culturelle  est  un  facteur d'enrichissement mutuel des peuples et des nations. En conséquence, ils s'engagent  à  défendre  les  minorités,  leurs  cultures,  leurs  droits  et  leurs  libertés fondamentales.
 
-- La  diversité  culturelle  contribue  à  l'expression  des  identités  nationales  et régionales et, plus généralement, à l'édification du panafricanisme.
+2. La  diversité  culturelle  contribue  à  l'expression  des  identités  nationales  et régionales et, plus généralement, à l'édification du panafricanisme.
 
 #### Article 6
 
@@ -196,9 +196,9 @@ Sur le plan national, l'affirmation des identités consiste à encourager la com
 
 #### Article 7
 
-- Les  Etats  africains  s'engagent  à  œuvrer  pour  la  renaissance  africaine.  Ils conviennent de la nécessité d'une reconstruction de la mémoire et de la conscience historique de l'Afrique et de la diaspora africaine.
+1. Les  Etats  africains  s'engagent  à  œuvrer  pour  la  renaissance  africaine.  Ils conviennent de la nécessité d'une reconstruction de la mémoire et de la conscience historique de l'Afrique et de la diaspora africaine.
 
-- Ils  considèrent  que  l'Histoire  générale  de  l'Afrique  publiée  par  l'UNESCO, constitue une  base  valable pour l'enseignement  de  l'histoire de l'Afrique et recommandent  sa  large diffusion y compris dans les langues africaines et recommandent  en  outre  la  publication  de  versions  abrégées  et  simplifiées  de l'histoire de l'Afrique pour le  grand public.
+2. Ils  considèrent  que  l'Histoire  générale  de  l'Afrique  publiée  par  l'UNESCO, constitue une  base  valable pour l'enseignement  de  l'histoire de l'Afrique et recommandent  sa  large diffusion y compris dans les langues africaines et recommandent  en  outre  la  publication  de  versions  abrégées  et  simplifiées  de l'histoire de l'Afrique pour le  grand public.
 
 ## TITRE III DEVELOPPEMENT CULTUREL
 
@@ -206,7 +206,7 @@ Sur le plan national, l'affirmation des identités consiste à encourager la com
 
 #### Article 8
 
-L'expérience des décennies précédentes recommande de procéder à un renouvellement en profondeur des approches nationales et régionales en matière de politique culturelle. En tant que production des peuples, des communautés de base, des artistes  et  des  intellectuels,  la  culture  est  un  facteur  de  progrès  social  et  une force motrice  pour l'innovation.
+L'expérience des décennies précédentes recommande de procéder à un renouvellement en profondeur des approches nationales et régionales en matière de politique culturelle. En tant que production des peuples, des communautés de base,
 
 [[END OF PAGE 7]]
 
@@ -214,15 +214,17 @@ L'expérience des décennies précédentes recommande de procéder à un renouve
 
 7
 
+des artistes et des intellectuels, la culture est un facteur de progrès social et une force motrice pour l'innovation.
+
 #### Article 9
 
 Les Etats ont pour mission essentielle de construire un environnement favorable à l'innovation et au développement culturel. A cette fin, ils sont les garants de la liberté d'expression de  l'ensemble des citoyens et des acteurs culturels.
 
 #### Article 10
 
-- Les Etats s'engagent à assurer l'introduction des valeurs culturelles africaines  et  les  principes  universels  des  droits  humains  dans  l'enseignement  et dans les programmes d'information et de communication.
+1. Les Etats s'engagent à assurer l'introduction des valeurs culturelles africaines  et  les  principes  universels  des  droits  humains  dans  l'enseignement  et dans les programmes d'information et de communication.
 
-- Les Etats s'engagent en outre à :
+2. Les Etats s'engagent en outre à :
 
 -protéger  et  promouvoir  la  liberté  des  artistes,  des  intellectuels,  des hommes et des femmes de culture ;
 
@@ -236,13 +238,13 @@ Les Etats ont pour mission essentielle de construire un environnement favorable 
 
 #### Article 11
 
-- Les  Etats  reconnaissent  qu'un  grand  nombre  d'acteurs  non  institutionnels concourt  au  développement  culturel :  créateurs,  promoteurs  privés,  associations, collectivités locales, secteur privé.
+1. Les  Etats  reconnaissent  qu'un  grand  nombre  d'acteurs  non  institutionnels concourt  au  développement  culturel :  créateurs,  promoteurs  privés,  associations, collectivités locales, secteur privé.
 
-- Les Etats s'engagent à soutenir le développement culturel par des mesures incitatives aux plans fiscal, législatif et administratif. Ces mesures s'adresseront aux porteurs d'initiatives, aux associations, à la société civile et au secteur privé.
+2. Les Etats s'engagent à soutenir le développement culturel par des mesures incitatives aux plans fiscal, législatif et administratif. Ces mesures s'adresseront aux porteurs d'initiatives, aux associations, à la société civile et au secteur privé.
 
 #### Article 12
 
-- Les Etats renforceront les capacités des secteurs et des acteurs culturels par l'organisation  de  festivals,  séminaires,  conférences,  stages  de  formation  et  de perfectionnement à l'échelle nationale, sous -régionale, continentale, et panafricaine.
+1. Les Etats renforceront les capacités des secteurs et des acteurs culturels par l'organisation  de  festivals,  séminaires,  conférences,  stages  de  formation  et  de perfectionnement à l'échelle nationale, sous -régionale, continentale, et panafricaine.
 
 [[END OF PAGE 8]]
 
@@ -250,13 +252,13 @@ Les Etats ont pour mission essentielle de construire un environnement favorable 
 
 8
 
-- Les Etats veilleront en particulier à assurer l'égal accès des femmes et des hommes à l'expression culturelle, à la prise de décisions, aux métiers de l'art et de la culture.
+2. Les Etats veilleront en particulier à assurer l'égal accès des femmes et des hommes à l'expression culturelle, à la prise de décisions, aux métiers de l'art et de la culture.
 
 #### Article 13
 
-- Les jeunes représentent la grande majorité de la population africaine.  C'est en leur sein que se trouve l'essentiel des ressources de la création contemporaine.
+1. Les jeunes représentent la grande majorité de la population africaine.  C'est en leur sein que se trouve l'essentiel des ressources de la création contemporaine.
 
-- Les  Etats  s'engagent  à  reconnaître  à  leur  juste  valeur  les  expressions culturelles  de  la  jeunesse  et  à  répondre  à  ses  aspirations,  en  conformité  avec  la culture et les valeurs africaines.
+2. Les  Etats  s'engagent  à  reconnaître  à  leur  juste  valeur  les  expressions culturelles  de  la  jeunesse  et  à  répondre  à  ses  aspirations,  en  conformité  avec  la culture et les valeurs africaines.
 
 #### Article 14
 
@@ -300,11 +302,11 @@ Les Etats africains reconnaissent le lien entre les politiques en matière de cu
 
 Les Etats africains devront :
 
-- s'assurer que les technologies de l'information et de la communication sont utilisées pour promouvoir la culture africaine
+a) s'assurer que les technologies de l'information et de la communication sont utilisées pour promouvoir la culture africaine
 
-- promouvoir  la  création  de maisons  d'édition  et  de  distribution  des  livres  et manuels scolaires, d'ouvrages de littérature enfantine et des oeuvres audiovisuelles ;
+b) promouvoir  la  création  de maisons  d'édition  et  de  distribution  des  livres  et manuels scolaires, d'ouvrages de littérature enfantine et des oeuvres audio-visuelles ;
 
-- créer plus particulièrement un environnement favorable au renforcement de la création, de la protection, de la production et de la distribution des œuvres culturelles.
+c) créer plus particulièrement un environnement favorable au renforcement de la création, de la protection, de la production et de la distribution des œuvres culturelles.
 
 [[END OF PAGE 10]]
 
@@ -320,17 +322,17 @@ Les Etats africains devront :
 
 Les Etats doivent créer un environnement favorable au renforcement de la créativité dans toute sa diversité, à travers notamment :
 
-- la  mise  en  place  d'un  cadre  institutionnel  approprié  en  vue  de  faciliter  la créativité et l'expression artistique ;
+a) la  mise  en  place  d'un  cadre  institutionnel  approprié  en  vue  de  faciliter  la créativité et l'expression artistique ;
 
-- le  soutien  financier,  technique  et  toute  autre  forme  d'aide  pour  stimuler  la création  et  l'expression  artistiques  de  préférence  par  la  création  de  fonds nationaux pour la promotion de la culture et des Arts ;
+b) le  soutien  financier,  technique  et  toute  autre  forme  d'aide  pour  stimuler  la création  et  l'expression  artistiques  de  préférence  par  la  création  de  fonds nationaux pour la promotion de la culture et des Arts ;
 
-- l'aide fiscale et les mesures incitatives, notamment la détaxation des biens et services culturels africains ;
+c) l'aide fiscale et les mesures incitatives, notamment la détaxation des biens et services culturels africains ;
 
-- l'adhésion  et  la  ratification  des  chartes,  conventions  et  autres  instruments normatifs  de préservation et de promotion de la création et de l'expression artistiques,  notamment,  la  Convention  Internationale  sur  la  protection  et  la promotion  des  expressions  de  la  diversité  culturelle  (2005),  qui  est  un important  instrument  de  protection  des  langues  locales,  des  arts  et  de  la culture  contre  les  effets  de  l'uniformisation  induite  par  la mondialisation culturelle en particulier dans les pays en développement,
+d) l'adhésion  et  la  ratification  des  chartes,  conventions  et  autres  instruments normatifs  de préservation et de promotion de la création et de l'expression artistiques,  notamment,  la  Convention  Internationale  sur  la  protection  et  la promotion  des  expressions  de  la  diversité  culturelle  (2005),  qui  est  un important  instrument  de  protection  des  langues  locales,  des  arts  et  de  la culture  contre  les  effets  de  l'uniformisation  induite  par  la mondialisation culturelle en particulier dans les pays en développement,
 
-- la  prise  de  mesures  appropriées  de  protection  des  droits  de  la  propriété intellectuelle liés à l'expression de la  diversité culturelle ;
+e) la  prise  de  mesures  appropriées  de  protection  des  droits  de  la  propriété intellectuelle liés à l'expression de la  diversité culturelle ;
 
-- l'harmonisation des politiques et des législations nationales avec les chartes, conventions et autres instruments normatifs internationaux.
+f) l'harmonisation des politiques et des législations nationales avec les chartes, conventions et autres instruments normatifs internationaux.
 
 ### CHAPITRE IV La protection des biens et services artistiques africains
 
@@ -340,13 +342,15 @@ Les  Etats  africains  devront  élaborer  une  convention  interafricaine  sur 
 
 #### Article 24
 
-Les  Etats  africains  devront  promulguer  des  lois  et  des  règlements  nationaux  et interafricains garantissant la protection des droits d'auteurs et mettre en place des sociétés d'auteurs et des bureaux de droits d'auteurs nationaux  et favoriser la mise en  place  d'associations d'auteurs responsables  de  la  protection  des  intérêts matériels et moraux des producteurs des biens et services culturels.
+Les  Etats  africains  devront  promulguer  des  lois  et  des  règlements  nationaux  et interafricains garantissant la protection des droits d'auteurs et mettre en place des
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 11
+
+sociétés d'auteurs et des bureaux de droits d'auteurs nationaux et favoriser la mise en place d'associations d'auteurs responsables de la protection des intérêts matériels et moraux des producteurs des biens et services culturels.
 
 ### CHAPITRE V La protection du patrimoine culturel africain
 
@@ -410,21 +414,21 @@ L'Union  africaine  devra  prendre  les  mesures  nécessaires  en  vue  de  cr�
 
 13
 
-- promouvoir une prise de conscience positive de l'Afrique ;
+a) promouvoir une prise de conscience positive de l'Afrique ;
 
-- promouvoir les positions et les perspectives africaines ;
+b) promouvoir les positions et les perspectives africaines ;
 
-- soutenir la Diaspora africaine dans ses efforts visant à nouer des relations avec ses communautés et ses gouvernements en Afrique et dans le reste du monde.
+c) soutenir la Diaspora africaine dans ses efforts visant à nouer des relations avec ses communautés et ses gouvernements en Afrique et dans le reste du monde.
 
 ## TITRE IX DISPOSITIONS FINALES
 
 #### Article 34 Signature et ratification
 
-- La présente Charte est ouverte à la signature de tous les Etats membres de l'Union  africaine  et  sera  ratifiée  par  les  Etats  signataires  conformément  à leurs procédures constitutionnelles respectives.
+a) La présente Charte est ouverte à la signature de tous les Etats membres de l'Union  africaine  et  sera  ratifiée  par  les  Etats  signataires  conformément  à leurs procédures constitutionnelles respectives.
 
-- L'Instrument original rédigé si possible en langues africaines, et  en langues anglaise, arabe, française et portugaise, tous les textes faisant également foi, sont  déposés  auprès  de  la  Commission  de    l'Union  africaine  qui  transmet des copies à tous les Etats membres.
+b) L'Instrument original rédigé si possible en langues africaines, et  en langues anglaise, arabe, française et portugaise, tous les textes faisant également foi, sont  déposés  auprès  de  la  Commission  de    l'Union  africaine  qui  transmet des copies à tous les Etats membres.
 
-- Les  instruments  de  ratification  sont  déposés  auprès  de  la  Commission  de l'Union africaine qui doit les notifier  aux Etats signataires.
+c) Les  instruments  de  ratification  sont  déposés  auprès  de  la  Commission  de l'Union africaine qui doit les notifier  aux Etats signataires.
 
 #### Article 35 Entrée en vigueur
 
@@ -446,23 +450,23 @@ Toute  question  soulevée  concernant  l'interprétation  de  la  présente  Ch
 
 #### Article 38 Adhésion et accès
 
-- Tout  Etat  membre  de  l'Union  africaine  peut  à  tout  moment  notifier  à  la Commission  de l'Union africaine son intention d'adhérer à la présente Charte ou d'y accéder.
+a) Tout  Etat  membre  de  l'Union  africaine  peut  à  tout  moment  notifier  à  la Commission  de l'Union africaine son intention d'adhérer à la présente Charte ou d'y accéder.
 
-- La Commission  de l'Union africaine doit, après réception d'une telle notification, en communiquer une copie à tous les Etats Membres de l'Union. L'adhésion et l'accession prennent effet quatorze jours après que la demande de  l'Etat    requérant  ait  été  communiquée  à  tous  les  Etats  membres  par  la Commission de l'Union africaine.
+b) La Commission  de l'Union africaine doit, après réception d'une telle notification, en communiquer une copie à tous les Etats Membres de l'Union. L'adhésion et l'accession prennent effet quatorze jours après que la demande de  l'Etat    requérant  ait  été  communiquée  à  tous  les  Etats  membres  par  la Commission de l'Union africaine.
 
 #### Article 39 Amendement et révision
 
-- Tout  Etat  membre  peut  soumettre  des  propositions  d'amendement  ou  de révision de la présente Charte.
+a) Tout  Etat  membre  peut  soumettre  des  propositions  d'amendement  ou  de révision de la présente Charte.
 
-- Les propositions d'amendement ou de révision sont soumises au Président de  la  Commission  qui  en  communique  copies  aux  Etats  parties  dans  les trente (30) jours suivant la date de réception.
+b) Les propositions d'amendement ou de révision sont soumises au Président de  la  Commission  qui  en  communique  copies  aux  Etats  parties  dans  les trente (30) jours suivant la date de réception.
 
-- La Conférence de l'Union examine ces
+c) La Conférence de l'Union examine ces
 
-- propositions  conformément  aux  dispositions  du  paragraphe  (2)  du  présent article.
+d) propositions  conformément  aux  dispositions  du  paragraphe  (2)  du  présent article.
 
-- Les  amendements  ou  révisions  sont  adoptés  par  la  Conférence  de  l'Union par consensus ou, à défaut, à la majorité des deux tiers.
+e) Les  amendements  ou  révisions  sont  adoptés  par  la  Conférence  de  l'Union par consensus ou, à défaut, à la majorité des deux tiers.
 
-- Les amendements ou révisions entrent en vigueur, pour Chaque Etat partie qui  les  a  acceptés,  trente  (30)  jours  après  que  l'avis  d'acceptation  soit parvenu au Président de la Commission de l'Union africaine.
+f) Les amendements ou révisions entrent en vigueur, pour Chaque Etat partie qui  les  a  acceptés,  trente  (30)  jours  après  que  l'avis  d'acceptation  soit parvenu au Président de la Commission de l'Union africaine.
 
 ADOPTEE  PAR  LA  SIXIEME  SESSION  ORDINAIRE DE LA CONFERENCE TENUE LE 24 JANVIER 2006 A KHARTOUM (SOUDAN)
 
