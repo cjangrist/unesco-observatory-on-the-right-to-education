@@ -3,6 +3,7 @@
 LegalActs
 
 Page 1 of 7
+THE NATIONAL LEGAL INTERNET PORTAL OF THE REPUBLIC OF BELARUS
 
 Legal Acts
 
@@ -49,7 +50,7 @@ Every  person  has  the  right  to  freely  choose,  have,  change,  express,  a
 
 Parents or the person substituting them at the mutual consent shall have the right to bring up their children according to the own attitude towards religion. The state can not interfere with education of the child based on certain religious outlook of parents or persons backup them except for cases when prompting to religious actions threatens directly the life or health of the child, or violates his legitimate rights.
 
-23/06/2010 http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb...
+http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb... 23/06/2010
 
 [[END OF PAGE 1]]
 
@@ -135,7 +136,7 @@ Appeals  to  the  court  with  the  application  on  liquidation  of  the  relig
 
 Carries out the state registration of religious associations, monasteries and monastic communities, religious brotherhoods and sisterhoods, religious missions, religious educational establishments;
 
-23/06/2010 http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb...
+http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb... 23/06/2010
 
 [[END OF PAGE 2]]
 
@@ -221,7 +222,7 @@ For  registration  of  a  religious  community  founders  submit  to  the  Minsk
 
 The following are enclosed to the application:
 
-23/06/2010 http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb...
+http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb... 23/06/2010
 
 [[END OF PAGE 3]]
 
@@ -313,7 +314,7 @@ The state registration of the religious organization can be refused on the follo
 
 The created religious organization does not correspond with the requirements contained in article 13 of the present Law; The charter and other submitted documents do not correspond to the requirements of the legislation of the Republic of Belarus or the information contained in them is invalid;
 
-23/06/2010 http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb...
+http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb... 23/06/2010
 
 [[END OF PAGE 4]]
 
@@ -397,7 +398,7 @@ The religious organizations have the right to carry out charities in the order e
 
 Religious associations according to the charters have the right to create mass media in the order and on the conditions established by the legislation of the Republic of Belarus.
 
-23/06/2010 http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb...
+http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb... 23/06/2010
 
 [[END OF PAGE 5]]
 
@@ -479,7 +480,7 @@ The  religious  organizations  make  deductions  in  the  appropriate  funds  in
 
 ### Article 36. Control  Over  Execution  of  the  Legislation  of  Republic  on  the  Freedom  of  Conscience,  Religion  and  the Religious Organizations Of the Republic of Belarus.
 
-23/06/2010 http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb...
+http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb... 23/06/2010
 
 [[END OF PAGE 6]]
 
@@ -495,7 +496,7 @@ Oblasts, Minsk city executive committees create their divisions on affairs of th
 
 ### Article 37. The Notice Warning.
 
-In case of the violence by the religious organization of the legislation of the Republic of Belarus or realization of the activity contradicting to the charter of the religious organization, registering body bears the prevention which goes to threeday term to managing body of the religious organization.
+In case of the violence by the religious organization of the legislation of the Republic of Belarus or realization of the activity contradicting to the charter of the religious organization, registering body bears the prevention which goes to three-day term to managing body of the religious organization.
 
 If the infringements indicated in the first part of the present article within six months were not eliminated or took place repeatedly  within  one  year,  registering  body  has  the  right  to  appeal  to  court  with  the  application  for  liquidation  of  the religious  organization.  The  registering  body  has  the  right  to  make  the  decision  on  abeyance  of  the  activity  of  religious organization before adjudication.
 
@@ -535,6 +536,6 @@ Address: Berson Str., 1a, 220701, Minsk, Republic of Belarus Tel/fax: 375-17-222
 
 Site's design: "Art-Mission"
 
-23/06/2010 http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb...
+http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/098ec0fb1eb... 23/06/2010
 
 [[END OF PAGE 7]]
