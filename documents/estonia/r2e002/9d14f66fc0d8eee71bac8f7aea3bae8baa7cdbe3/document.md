@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-# Gender Equality Act 1
+# Gender Equality Act¹
 
-Passed 7 April 2004 (RT 2 I 2004, 27, 181), entered into force 1 May 2004. amended by the following Acts:24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323;
+Passed 7 April 2004 (RT² I 2004, 27, 181), entered into force 1 May 2004. amended by the following Acts:24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323;
 
 11.12.2008 entered into force 01.01.2009 - RT I 2008, 56, 315.
 
@@ -108,7 +108,7 @@ humiliating or offensive environment.
 
 (24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323)
 
-(1 1 ) Adverse treatment of a person, as well as causing negative consequences for the person due to the fact that the person has relied on the rights and obligations provided for in this Act or has supported another person upon the protection of his or her rights provided for in this Act shall also be deemed to be discrimination.
+(1¹) Adverse treatment of a person, as well as causing negative consequences for the person due to the fact that the person has relied on the rights and obligations provided for in this Act or has supported another person upon the protection of his or her rights provided for in this Act shall also be deemed to be discrimination.
 
 (24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323)
 
@@ -122,7 +122,7 @@ humiliating or offensive environment.
 
 - as regards access to employment including the training leading thereto, a difference of treatment which is based on a characteristic related to sex where, by reason of the nature of the particular occupational activities concerned or of the context in which they are carried out, such characteristic constitutes a genuine and determining occupational requirement, provided that the objective is legitimate and the requirement is proportionate;
 
-- 4 1 ) differences in treatment of persons due to their sex upon supplying goods and services pursuant to subsection 14 1 (2) of the Insurance Activities Act and in the case the provision of the goods and services exclusively or primarily to members of one sex is justified by a legitimate aim and the means of achieving that aim are proportional to the aim;
+- 4¹) differences in treatment of persons due to their sex upon supplying goods and services pursuant to subsection 14¹ (2) of the Insurance Activities Act and in the case the provision of the goods and services exclusively or primarily to members of one sex is justified by a legitimate aim and the means of achieving that aim are proportional to the aim;
 
 (24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323)
 
@@ -150,7 +150,7 @@ humiliating or offensive environment.
 
 (24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323)
 
-(Repealed - 24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323)
+6) (Repealed - 24.09.2009 entered into force 23.10.2009 – RT I 2009, 48, 323)
 
 [[END OF PAGE 5]]
 
@@ -188,7 +188,7 @@ humiliating or offensive environment.
 
 possible to decide whether discrimination specified in clause 6 (2) 3) of this Act has occurred.
 
-### § 7 1 . Duty of supplier of goods or services to provide explanations
+### § 7¹. Duty of supplier of goods or services to provide explanations
 Within fifteen working days as of receipt of a written application describing facts relating to a possible case of discrimination, the supplier of goods or services is required to provide written explanation concerning his or her activities to the person who believes that he or she has been discriminated in relation to access to and supply of goods or services on grounds of sex.
 
 (24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323)
@@ -206,13 +206,19 @@ prohibited unless the reasons specified in clauses 5 (2) 4) and 5) of this Act e
 
 - Upon planning, implementation and assessment of national, regional and institutional strategies, policies and action plans, the agencies specified in subsection (1) of this section shall take into account the different needs and social status of men and women and consider how the measures applied and to be applied will affect the situation of men and women in society.
 
-(2 1 ) Upon planning the performance of the obligations imposed in subsections (1) and (2) of this section and upon performance of such obligations, the state and local government agencies shall, if necessary, consult the relevant interested groups and nonprofit organisations who have legitimate interest to help to combat discrimination based on sex in order to support compliance with the principle of equal treatment. (24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323) (3) The Minister of Social Affairs shall make recommendations concerning performance of the obligations set out in subsections (1) and (2) of this section. The recommendations shall be published on the website of the Ministry of Social Affairs. (4) The membership of committees, councils and other collegial bodies formed by
+(2¹) Upon planning the performance of the obligations imposed in subsections (1) and (2) of this section and upon performance of such obligations, the state and local government agencies shall, if necessary, consult the relevant interested groups and non-
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- state and local government agencies shall, if possible, include both sexes.
+profit organisations who have legitimate interest to help to combat discrimination based on sex in order to support compliance with the principle of equal treatment.
+
+(24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323)
+
+(3) The Minister of Social Affairs shall make recommendations concerning performance of the obligations set out in subsections (1) and (2) of this section. The recommendations shall be published on the website of the Ministry of Social Affairs.
+
+(4) The membership of committees, councils and other collegial bodies formed by state and local government agencies shall, if possible, include both sexes.
 
 ### § 10. Promotion of gender equality in field of education and training
 Educational and research institutions and institutions engaged in the organisation of training shall ensure equal treatment for men and women upon vocational guidance, acquisition of education, professional and vocational development and re-training. The curricula, study material used and research conducted shall facilitate abolishment of the unequal treatment of men and women and promote equality.
@@ -283,7 +289,7 @@ A claim provided for in § 13 of this Act expires within one year as of the date
 
 (11.12.2008 entered into force 01.01.2009 - RT I 2008, 56, 315)
 
-### § 16 - 21 (Repealed - 11.12.2008 entered into force 01.01.2009 - RT I 2008, 56, 315)
+### § 16 – 21 (Repealed - 11.12.2008 entered into force 01.01.2009 - RT I 2008, 56, 315)
 
 ## Chapter 6 Duties of Ministry of Social Affairs upon Implementation of Gender Equality Act
 
@@ -334,7 +340,7 @@ A claim provided for in § 13 of this Act expires within one year as of the date
 ### § 25. Entry into force of Act
 This Act enters into force on 1 May 2004.
 
-Council Directive 79/7/EEC on the progressive implementation of the principle of equal treatment for men and women in matters of social security (OJ L 6, 10.01.1979, p. 2425); Council Directive 86/613/EEC on the application of the principle of equal treatment between men and women engaged in an activity, including agriculture, in a selfemployed capacity, and on the protection of self-employed women during pregnancy and motherhood (OJ L 359, 19.12.1986, p. 56-58); Council Directive 92/85/EEC on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding (OJ L 348, 28.11.1992, p. 1-8); Council Directive 2004/113/EC implementing the principle of equal treatment between men and women in the access to and supply of goods and services (OJ L 373, 21.12.2004, p. 37-43); Directive 2006/54/EC of the European Parliament and of the Council on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation (recast) (OJ L 204, 26.07.2006, p. 23-36).
+Council Directive 79/7/EEC on the progressive implementation of the principle of equal treatment for men and women in matters of social security (OJ L 6, 10.01.1979, p. 24–25); Council Directive 86/613/EEC on the application of the principle of equal treatment between men and women engaged in an activity, including agriculture, in a self-employed capacity, and on the protection of self-employed women during pregnancy and motherhood (OJ L 359, 19.12.1986, p. 56–58); Council Directive 92/85/EEC on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding (OJ L 348, 28.11.1992, p. 1–8); Council Directive 2004/113/EC implementing the principle of equal treatment between men and women in the access to and supply of goods and services (OJ L 373, 21.12.2004, p. 37–43); Directive 2006/54/EC of the European Parliament and of the Council on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation (recast) (OJ L 204, 26.07.2006, p. 23–36).
 
 (24.09.2009 entered into force 23.10.2009 - RT I 2009, 48, 323)
 
