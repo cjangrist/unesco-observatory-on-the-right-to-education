@@ -20,11 +20,11 @@ El Sistema Nacional de Educación que se crea por esta Ley comprenderá los Nive
 
 siguientes:
 
-- Primaria.
+- a) Primaria.
 
-- Secundaria.
+- b) Secundaria.
 
-- Universitaria.
+- c) Universitaria.
 
 #### Artículo  4:
 La  fase  inicial  del  Sistema  Educacional  Cubano  será  la  Escuela Primaria,  extendida  desde  su  etapa  Pre-escolar  hasta  el  Sexto  Grado.  Por medio de ella ha de lograrse que el educando se convierta gradualmente en ciudadano,  asistido  de  permanente  seguridad  económica;  poseedor  de  clara conciencia de su nacionalidad, deberes y derechos; y de la cultura indispensable  para  intervenir  útil  y  responsablemente  en  el progreso  de  su comunidad.
@@ -59,16 +59,18 @@ Las Escuelas de Oficios a que se refiere el artículo 2 se organizarán: en los 
 #### Artículo 8:
 La Enseñanza Secundaria comprenderá el conjunto de instituciones escolares y demás servicios docentes encargados de atender la formación y el aprendizaje de los alumnos entre el sexto grado y el nivel universitario, con el objetivo de abarcar la etapa educacional propia de la adolescencia. Tendrá dos ciclos o etapas:
 
-- Secundaria  básica, con  una  duración  de  tres  años  y  de  carácter  prevocacional,  servirá  de  base  obligatoria  a  todas  las  ramas  de  la  enseñanza Secundaria Superior, y
+- a) Secundaria básica, con una duración de tres años y de carácter pre-vocacional, servirá de base obligatoria a todas las ramas de la enseñanza Secundaria Superior, y
 
-- Secundaria superior, que tendrá una duración de tres años en los Institutos Pre-Universitarios  y  Escuelas  de  Agrimensura,  y  duración  variable  en  las enseñanzas vocacionales o profesionales que se cursarán en las Escuelas de Maestros  Primarios,  de  Comercio,  Bellas  Artes  e  Institutos  Tecnológicos, Agrícolas e Industriales.
+- b) Secundaria superior, que tendrá una duración de tres años en los Institutos Pre-Universitarios y Escuelas de Agrimensura, y duración variable en las enseñanzas vocacionales o profesionales que se cursarán en las Escuelas de Maestros Primarios, de Comercio, Bellas Artes e Institutos Tecnológicos, Agrícolas e Industriales.
 
 #### Artículo 9:
-La Enseñanza Secundaria Básica será gratuita cuando la impartan el  Estado,  la  Provincia  o  el  Municipio,  tendrá  un  contenido  común,  general  y elemental, que proporcione al adolescente una firme base de cultura integrada, que  ofrezca la oportunidad de exploración de las aptitudes personales diferenciadas de los estudiantes, con vistas a su estímulo y encauce en cuanto a la selección de los oficios o profesiones que desempeñarán en la vida, y que les  permita,  en  caso de interrupción de los estudios, una preparación de tipo utilitario  para  su  vida  económica,  a  cuyo  fin  en  sus  planes  de  estudios  se incluirán  asignaturas  vocacionales  con  la  potestad  de  optar  entre  ellas,  para permitirles conseguir este esencial objetivo de su educación.
+La Enseñanza Secundaria Básica será gratuita cuando la impartan el Estado, la Provincia o el Municipio, tendrá un contenido común, general y elemental, que proporcione al adolescente una firme base de cultura integrada, que ofrezca la oportunidad de exploración de las aptitudes personales diferenciadas de los estudiantes, con vistas a su estímulo y encauce en cuanto
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+a la selección de los oficios o profesiones que desempeñarán en la vida, y que les permita, en caso de interrupción de los estudios, una preparación de tipo utilitario para su vida económica, a cuyo fin en sus planes de estudios se incluirán asignaturas vocacionales con la potestad de optar entre ellas, para permitirles conseguir este esencial objetivo de su educación.
 
 #### Artículo  10:
 Las  Escuelas  Tecnológicas,  Agrícolas  e  Industriales  de  Nivel Secundario Básico, tendrán un plan de estudios de tres años y serán para los alumnos  graduados  de  sexto  grado  en  la  Escuela  Primaria  y  para  los graduados en las Escuelas de Oficios. Los alumnos graduados en las Escuelas Tecnológicas  Agrícolas  e  Industriales  podrán  promoverse  a  los  Institutos Tecnológicos Agrícolas e Industriales y una vez graduados podrán llegar a las escuelas universitarias correspondientes.
@@ -77,7 +79,7 @@ Las  Escuelas  Tecnológicas,  Agrícolas  e  Industriales  de  Nivel Secundario
 Los alumnos graduados en las Escuelas Tecnológicas Agrícolas e Industriales  podrán  obtener  ingreso  en  las  Escuelas  Secundarias  Superiores, siempre  que  cursaren  las  materias  del  plan  de  estudios  de  las  Escuelas Secundarias Básicas que no estén incluidas en aquellas.
 
 #### Artículo 12:
-La Enseñanza Secundaria Superior comprenderá los Institutos PreUniversitarios,  Escuelas  de  Agrimensura,  Escuelas  de  Maestros  Primarios, Escuelas  Profesionales  de  Comercio,  Escuelas  de  Bellas  Artes  e  Institutos Tecnológicos,  Agrícolas  e  Industriales.  En  los  Institutos  Pre-Universitarios  se bifurcarán los estudios en una Sección de Ciencias y otra de Letras, dotadas de flexibilidad,  para  permitir  las  selecciones  vocacionales.  Las  Escuelas  de Agrimensura funcionarán anexas a los Institutos Pre-Universitarios. Las Escuelas de Maestros Primarios tendrán planes de estudios que capaciten de modo  integral  para  la  enseñanza  a  quienes  aspiren  a  ejercer  la  docencia primaria. Las Escuelas Profesionales de Comercio, de Bellas Artes e Institutos Tecnológicos  Agrícolas  e  Industriales,  se  reestructurarán  de  modo  que  su organización  y  funciones  se  adapten  a  los  fines  que  persigue  la  Reforma Integral de la Enseñanza. Será gratuita la Enseñanza Secundaria Superior que impartan  el  Estado,  la  Provincia  o  el  Municipio,  excepto  los  estudios  de Bachillerato  Pre-Universitario  para  los  cuales  podrá  establecerse  el  pago  de una  matrícula  módica  de  cooperación  que  se  destinará  íntegramente  a  las atenciones de los respectivos establecimientos.
+La Enseñanza Secundaria Superior comprenderá los Institutos Pre-Universitarios, Escuelas de Agrimensura, Escuelas de Maestros Primarios, Escuelas Profesionales de Comercio, Escuelas de Bellas Artes e Institutos Tecnológicos, Agrícolas e Industriales. En los Institutos Pre-Universitarios se bifurcarán los estudios en una Sección de Ciencias y otra de Letras, dotadas de flexibilidad, para permitir las selecciones vocacionales. Las Escuelas de Agrimensura funcionarán anexas a los Institutos Pre-Universitarios. Las Escuelas de Maestros Primarios tendrán planes de estudios que capaciten de modo integral para la enseñanza a quienes aspiren a ejercer la docencia primaria. Las Escuelas Profesionales de Comercio, de Bellas Artes e Institutos Tecnológicos Agrícolas e Industriales, se reestructurarán de modo que su organización y funciones se adapten a los fines que persigue la Reforma Integral de la Enseñanza. Será gratuita la Enseñanza Secundaria Superior que impartan el Estado, la Provincia o el Municipio, excepto los estudios de Bachillerato Pre-Universitario para los cuales podrá establecerse el pago de una matrícula módica de cooperación que se destinará íntegramente a las atenciones de los respectivos establecimientos.
 
 ### De la Enseñanza Superior
 
@@ -173,7 +175,7 @@ El ingreso en los Institutos Pre-Universitarios exigirá el diploma de graduado 
 Solo para alumnos de 18 años o más, se admitirá el ingreso mediante examen general de suficiencia.
 
 #### Artículo 27:
-El Ministerio de Educación  podrá crear los Institutos PreUniversitarios que fueren necesarios de acuerdo con los requerimientos de la Nación, previas las investigaciones correspondientes.
+El Ministerio de Educación podrá crear los Institutos Pre-Universitarios que fueren necesarios de acuerdo con los requerimientos de la Nación, previas las investigaciones correspondientes.
 
 Los  estudios  de  los  Institutos  Pre-Universitarios  tendrán  una  duración  de  no menos de tres años. El primero será común para todos los alumnos, y los otros, de  especialización  en  las  ramas  de  Letras  o  Ciencias  con  flexibilidad  de materias, para servir las solicitaciones vocacionales.
 
@@ -225,13 +227,15 @@ A dicho efecto se utilizarán métodos activos de aprendizaje y se aplicarán la
 Se reemplazará el tipo tradicional de examen que mide casi exclusivamente la memorización  de  datos,  por  pruebas  que  permitan  apreciar  cabalmente  la formación intelectual de los alumnos, en particular el desarrollo de su espíritu crítico y la capacidad de utilizar inteligentemente los libros y demás instrumentos de cultura, conforme a lo dispuesto en cuanto a evaluaciones por el artículo 6 de la Ley No. 559 de 1959.
 
 #### Artículo  35:
-Los  planes  de  estudios  que  se  dictarán  por  el  Ministerio  de Educación  para  la  enseñanza  primaria  y  secundaria  responderán  a  las realidades socio-económicas del país, al Ideal democrático de la Revolución, y atenderán a las características del niño y del joven cubano, a sus capacidades, habilidades, hábitos, aptitudes, equilibrio de su vida emocional y cultivo de su espiritualidad, con el fin de lograr su maduración y crecimiento en una forma integral y armónica.
+Los planes de estudios que se dictarán por el Ministerio de Educación para la enseñanza primaria y secundaria responderán a las realidades socio-económicas del país, al Ideal democrático de la Revolución, y atenderán a las características del niño y del joven cubano, a sus capacidades,
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-Los  programas  de  las  materias  serán  selectivos  y  no  exhaustivos,  de  líneas directrices  y  flexibles,  sin  que  ello  se  oponga  a  la  exigencia  de  mínimos esenciales  y  se  elaborarán  atendiendo  a  planes  de  estudios  que  no  sean rígidos y permitan un margen adecuado a las preferencias individuales de los alumnos, sin daño de su preparación general.
+habilidades, hábitos, aptitudes, equilibrio de su vida emocional y cultivo de su espiritualidad, con el fin de lograr su maduración y crecimiento en una forma integral y armónica.
+
+Los programas de las materias serán selectivos y no exhaustivos, de líneas directrices y flexibles, sin que ello se oponga a la exigencia de mínimos esenciales y se elaborarán atendiendo a planes de estudios que no sean rígidos y permitan un margen adecuado a las preferencias individuales de los alumnos, sin daño de su preparación general.
 
 ### DE LA ENSEÑANZA SECUNDARIA
 ### Edificios Escolares
@@ -255,11 +259,13 @@ A los efectos de la colaboración entre Profesores y familiares de alumnos, en l
 ### Cursos Nocturnos
 
 #### Artículo  40:
-Se  organizarán  de  modo  especial  cursos  nocturnos  en  aquellos Centros que a juicio del Ministro de Educación así lo requieran, en atención a que personas que desempeñan ocupaciones durante el día puedan concurrir a los  mismos.  Se  exceptúan  de  esta  disposición  las  Escuelas  de  Maestros Primarios.
+Se organizarán de modo especial cursos nocturnos en aquellos Centros que a juicio del Ministro de Educación así lo requieran, en atención a que personas que desempeñan ocupaciones durante el día puedan concurrir a
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+los mismos. Se exceptúan de esta disposición las Escuelas de Maestros Primarios.
 
 ### Planteles Anexos
 
@@ -313,7 +319,7 @@ Se  crean  tantos  Institutos  Pre-Universitarios  como  Institutos  de Segunda 
 Se  crean  tres  nuevos  Institutos  Pre-Universitarios,  uno  en  cada  una  de  las siguientes ciudades: Santiago de Cuba, Bayamo y Guanabacoa.
 
 #### Artículo 50:
-Se crean ocho Escuelas de Maestros Primarios, las que se situarán en cada una de las capitales de Provincia, así como en lasciudades de Holguín y Cienfuegos.
+Se crean ocho Escuelas de Maestros Primarios, las que se situarán en cada una de las capitales de Provincia, así como en las ciudades de Holguín y Cienfuegos.
 
 [[END OF PAGE 10]]
 
@@ -364,7 +370,7 @@ El  Ministro  de  Educación  dispondrá  la  jubilación  forzosa  del personal
 ### Nueva Denominación y Jurisdicción de los Subdirectores Provinciales
 
 #### Artículo  59:
-Las  denominaciones  de  Subdirector  Provincial  de  Enseñanza Secundaria  y  Enseñanza  Profesional  de  Nivel  Medio  establecidas  por  la  Ley No. 76 de 1959, se cambian por las de Subdirector Provincial de Enseñanza Media  General  y  Subdirector  Provincial  de  Enseñanza  Media  Profesional, respectivamente. El primero de dichos funcionarios tendrá a su cargo todo lo relacionado con los centros de Enseñanza Secundaria Básica e Institutos PreUniversitarios,  y  el  segundo  lo  concerniente  a  los  Centros  Profesionales  de Enseñanza Media.
+Las denominaciones de Subdirector Provincial de Enseñanza Secundaria y Enseñanza Profesional de Nivel Medio establecidas por la Ley No. 76 de 1959, se cambian por las de Subdirector Provincial de Enseñanza Media General y Subdirector Provincial de Enseñanza Media Profesional, respectivamente. El primero de dichos funcionarios tendrá a su cargo todo lo relacionado con los centros de Enseñanza Secundaria Básica e Institutos Pre-Universitarios, y el segundo lo concerniente a los Centros Profesionales de Enseñanza Media.
 
 ## CAPÍTULO VI
 ### Disposiciones Transitorias
@@ -380,11 +386,13 @@ Los  Maestros  Especiales  o  de  Especialidades  integrados  como  Maestros  de
 El  derecho  de  excedencia  a  que  se  refiere  el  párrafo  anterior  se    otorga  sin perjuicio  del  que  esta  Ley  les  concede  para  integrar  los  Escalafones  de Maestros en Ejercicio del Departamento Municipal de Educación donde prestan sus servicios.
 
 #### Tercera:
-Con  los créditos de las aulas de Maestros Especiales y de Especialidades de la Enseñanza Primaria, podrán crearse Escuelas Secundarias  Básicas,  en  los  lugares  en  que  sea  necesario,  siempre  que  los maestros propietarios de las mismas posean el título requerido para desempeñar estos cargos, hasta tanto no se exija el de la carrera profesoral.
+Con los créditos de las aulas de Maestros Especiales y de Especialidades de la Enseñanza Primaria, podrán crearse Escuelas
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+Secundarias Básicas, en los lugares en que sea necesario, siempre que los maestros propietarios de las mismas posean el título requerido para desempeñar estos cargos, hasta tanto no se exija el de la carrera profesoral.
 
 #### Cuarta:
 Queda facultado el Ministro de Educación para disponer la forma  en que deba llevarse a efecto el replanteo de las Auxiliares de Kindergarten como Maestras Primarias, en virtud del título de capacidad que posean, en las aulas creadas con sus respectivos créditos, en el propio Departamento Municipal en que venían prestando sus servicios, y dictar las medidas necesarias para que las  mismas  pasen  a  integrar  los  Escalafones  de  Maestros  Primarios  en Ejercicio.
@@ -395,18 +403,20 @@ Los  Maestros  interinos  de  las  aulas  Especiales  o  de  Especialidades que 
 Las Auxiliares interinas que se encuentren prestando servicios en las Auxiliarías de Kindergarten, continuarán en el desempeño de sus cargos con iguales  derechos  y  deberes  que  tenían  de  acuerdo  con  las  disposiciones legales. En caso de que las llegaren a ocupar en propiedad, si tuvieren el título de capacidad conforme al artículo 14 de esta Ley, sus Auxiliarías se convertirán en  aulas  de  Enseñanza  Primaria;  si  no  tuvieren  el  título  de  capacidad, continuarán como Auxiliares.
 
 #### Sexta:
-Las vacantes de Auxiliares de Kindergarten que se produzcan hasta el 31  de  agosto  de  1960  serán  cubiertas  de  acuerdo  con  los  respectivos Escalafones de Aspirantes. Cada vez que una de dichas vacantes sea ocupada por una auxiliar que posea alguno de los títulos relacionados en el artículo 14 de  esta  Ley,  o  el  de  Doctor  o  Licenciado  en  Pedagogía,  la  plaza  será cancelada,  y  con  el  correspondiente  crédito  se  creará  una  nueva  aula, preferentemente de Kindergarten, en la que será ubicada la Auxiliar referida. Las  vacantes  que  se  produzcan  hasta  el  31  de  agosto  de  1960  en  aulas originadas por la conversión a que se refiere este artículo, serán cubiertas por la  aspirante  del  Escalafón  correspondiente  que  posea  alguno  de  los  títulos relacionados  en  el  artículo  14  de  esta  Ley,  o  de  Doctor  o  Licenciado  en esos
+Las vacantes de Auxiliares de Kindergarten que se produzcan hasta el 31 de agosto de 1960 serán cubiertas de acuerdo con los respectivos Escalafones de Aspirantes. Cada vez que una de dichas vacantes sea ocupada por una auxiliar que posea alguno de los títulos relacionados en el artículo 14 de esta Ley, o el de Doctor o Licenciado en Pedagogía, la plaza será cancelada, y con el correspondiente crédito se creará una nueva aula, preferentemente de Kindergarten, en la que será ubicada la Auxiliar referida.
 
-Pedagogía. Si ninguno de los integrantes del Escalafón reuniere requisitos se cubrirá por el Escalafón de Aspirantes de Enseñanza Común.
+Las vacantes que se produzcan hasta el 31 de agosto de 1960 en aulas originadas por la conversión a que se refiere este artículo, serán cubiertas por la aspirante del Escalafón correspondiente que posea alguno de los títulos relacionados en el artículo 14 de esta Ley, o de Doctor o Licenciado en Pedagogía. Si ninguno de los integrantes del Escalafón reuniere esos requisitos se cubrirá por el Escalafón de Aspirantes de Enseñanza Común.
 
 A partir del primero de septiembre de 1960, cada vez que ocurra una vacante de Auxiliar  de  Kindergarten,  en  un  departamento  municipal  de  Educación,  se procederá  a  la  cancelación  de  la  plaza,  y  el  crédito  correspondiente  será aplicado  a  la  creación  de  un  aula,  de  acuerdo,  con  las  necesidades  de  la población escolar del departamento que así lo requiere.
 
 #### Séptima:
-Los maestros públicos de Enseñanzas Especiales o de Especialidades que no sean graduados de las Escuelas Normales de Maestros, Normales  de  Kindergarten,  del  Hogar,  o  del  Instituto  Nacional  de  Educación Física,  que  en  virtud  de  lo  dispuesto  en  esta  Ley,  se  consideran  Maestros Primarios,  podrán  obtener  una  certificación  acreditativa  de  su  integración.  A ese efecto, en el término de un año, a partir de la vigencia de esta Ley, podrán promover en el Departamento Municipal respectivo el oportuno expediente. La certificación  le  será  expedida  por  el  Director  Municipal  de  Educación,  con  el visto bueno del Director del Departamento Provincial respectivo.
+Los maestros públicos de Enseñanzas Especiales o de Especialidades que no sean graduados de las Escuelas Normales de Maestros, Normales de Kindergarten, del Hogar, o del Instituto Nacional de Educación Física, que en virtud de lo dispuesto en esta Ley, se consideran Maestros Primarios, podrán obtener una certificación acreditativa de su integración. A ese efecto, en el término de un año, a partir de la vigencia de esta Ley, podrán
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+promover en el Departamento Municipal respectivo el oportuno expediente. La certificación le será expedida por el Director Municipal de Educación, con el visto bueno del Director del Departamento Provincial respectivo.
 
 #### Octava:
 Las  extinguidas  Escuelas  Primarias  Superiores  Rurales  funcionarán como  Centros  de  Experimentación  durante  el  Curso  Escolar  1959-1960,  de acuerdo con la organización, planes de estudios y programas que el Ministerio de Educación dispondrá a través de la Dirección General de Educación Rural, y con  vistas  a  su  ulterior  conversión  en  Escuelas  Tecnológicas  Agrícolas  e Industriales.
@@ -425,20 +435,22 @@ Los maestros primarios que posean títulos de Ingenieros, Arquitectos, Contadore
 
 Los  maestros  primarios  que  posean  títulos  de  Doctor  en  Medicina  o  de Dentista, podrán ser trasladados por el Ministro de Educación, con sus créditos respectivos, a la Dirección de Higiene Escolar, y sus servicios serán utilizados como  médicos  o  dentistas  escolares  en  los  Departamentos  Municipales  de Educación en que estuvieren ubicadas las escuelas de que procedan, siempre que exista la posibilidad de cubrir su aula de origen con un maestro primario de los que por esta Ley se integran y con cargo a su crédito correspondiente.
 
-Los Profesores propietarios de las extinguidas Escuelas del Hogar, Normales de Maestros y Kindergarten que posean los títulos a que se refiere el párrafo primero de este artículo, sin perjuicio de lo dispuesto en cuanto al replanteo, podrán  ser  trasladados,  por  el  Ministro  de  Educación,  con  sus  créditos respectivos, a los Institutos o Escuelas Tecnológicos, como Profesores de las materias  concernientes.  Los  que  posean  títulos  de  Doctor  o  Licenciado  en Música, o título superior no Universitario de Música con validez oficial en Cuba, podrán pasar a las Escuelas de Bellas Artes.
+Los Profesores propietarios de las extinguidas Escuelas del Hogar, Normales de Maestros y Kindergarten que posean los títulos a que se refiere el párrafo primero de este artículo, sin perjuicio de lo dispuesto en cuanto al replanteo, podrán ser trasladados, por el Ministro de Educación, con sus créditos respectivos, a los Institutos o Escuelas Tecnológicos, como Profesores de las materias concernientes. Los que posean títulos de Doctor o Licenciado en
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-Los  Profesores  de  la  Cátedra  de  Puericultura,  Higiene  y  Cuidado  de  los Enfermos, de las extinguidas Escuelas del Hogar que posean títulos de Doctor en Medicina  o de Dentista, podrán  ser trasladados por el Ministro de Educación, con sus créditos respectivos a la Dirección de Higiene Escolar, y sus  servicios  serán  utilizados  como  médicos  y  dentistas  escolares  en  el Departamento Municipal de Educación en que estuviere ubicado el Centro de que procedan.
+Música, o título superior no Universitario de Música con validez oficial en Cuba, podrán pasar a las Escuelas de Bellas Artes.
+
+Los Profesores de la Cátedra de Puericultura, Higiene y Cuidado de los Enfermos, de las extinguidas Escuelas del Hogar que posean títulos de Doctor en Medicina o de Dentista, podrán ser trasladados por el Ministro de Educación, con sus créditos respectivos a la Dirección de Higiene Escolar, y sus servicios serán utilizados como médicos y dentistas escolares en el Departamento Municipal de Educación en que estuviere ubicado el Centro de que procedan.
 
 Los traslados a que la presente Transitoria se refiere se efectuarán únicamente dentro de un término de seis meses contados a partir de la fecha de vigencia de  la  presente  Ley,  y  de  acuerdo  con  las  regulaciones  que  oportunamente dictará el Ministerio de Educación.
 
 #### Décimo Primera:
-Todo el personal docente que ocupe cargos em propiedad en los  Centros  de  Enseñanza  Media  que  por  esta  Ley  se  suprimen  será nombrado, sin perjuicio de lo establecido en la disposición transitoria  décimo cuarta, en iguales o similares funciones, con los propios haberes y categorías, en  los  planteles  que  se  crean  y  con  ellos  se  estructurarán  las  respectivas plantillas,  de  acuerdo  con  las  normas  que  al  efecto  dicte  el  Ministro  de Educación,  quien  tendrá  en  cuenta  para  ello  la  similitud  de  Cátedras,  la capacidad legal y la antigüedad de los Profesores en la Enseñanza Secundaria General o Profesional.
+Todo el personal docente que ocupe cargos en propiedad en los Centros de Enseñanza Media que por esta Ley se suprimen será nombrado, sin perjuicio de lo establecido en la disposición transitoria décimo cuarta, en iguales o similares funciones, con los propios haberes y categorías, en los planteles que se crean y con ellos se estructurarán las respectivas plantillas, de acuerdo con las normas que al efecto dicte el Ministro de Educación, quien tendrá en cuenta para ello la similitud de Cátedras, la capacidad legal y la antigüedad de los Profesores en la Enseñanza Secundaria General o Profesional.
 
-En caso de empate, decidirá la antigüedad en la docencia oficial, y de continuar este, los méritos académicos. Ningún profesor se afectará em el cobro de sus haberes.
+En caso de empate, decidirá la antigüedad en la docencia oficial, y de continuar este, los méritos académicos. Ningún profesor se afectará en el cobro de sus haberes.
 
 #### Décimo Segunda:
 Los Escalafones de Profesores de los Centros Secundarios se adecuarán a las nuevas nomenclaturas de las Cátedras, ya sea que haya habido refundición, supresión, adición o modificación de las materias integrantes de las mismas. En caso de las materias de divisiones de Cátedras, los  Profesores  optarán  por  la  que  prefieran,  siempre  que  lo  permitan  las necesidades del servicio docente.
@@ -449,13 +461,13 @@ Los Escalafones de Aspirantes de las Escuelas Normales de Maestros regirán para
 Los  Escalafones  de  Aspirantes  de  los  Institutos  de  Segunda  Enseñanza, regirán para las respectivas Cátedras de los Institutos Pre-Universitarios.
 
 #### Décimo Cuarta:
-Los Claustros de las Escuelas de Maestros Primarios que se crean por la presente Ley se integrarán, en La Habana, con los Profesores de las Escuelas oficiales del Holgar, Normales de Kindergarten y Maestros que se extinguen, de la propia ciudad o términos municipales limítrofes, en Cátedras o Grupos similares,  si  poseyeran  los  títulos  correspondientes;  en  Cienfuegos  y Holguín, como  personal  docente  de  las escuelas oficiales de ese tipo suprimidas  que  no  radicaban  en  la  capital  de  la  provincia  respectiva.  A  los efectos de la formación de estas dos últimas Escuelas de Maestros Primarios, ningún profesor podrá ser trasladado de Municipio sin su consentimiento.
+Los Claustros de las Escuelas de Maestros Primarios que se crean por la presente Ley se integrarán, en La Habana, con los Profesores de las Escuelas oficiales del Hogar, Normales de Kindergarten y Maestros que se extinguen, de la propia ciudad o términos municipales limítrofes, en Cátedras o Grupos similares, si poseyeran los títulos correspondientes; en Cienfuegos y Holguín, con el personal docente de las escuelas oficiales de ese tipo suprimidas que no radicaban en la capital de la provincia respectiva. A los efectos de la formación de estas dos últimas Escuelas de Maestros Primarios, ningún profesor podrá ser trasladado de Municipio sin su consentimiento.
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-Los demás Profesores podrán ser designados en los Institutos Pre Universitarios o Escuelas Profesionales de Comercio que también se crean, si estuvieren  en  posesión  de  los  títulos  exigibles  en  estos  planteles,  y  los  que excedieren  en  número  al  de  plazas  a  cubrir,  o  carecieren  de  los  títulos correspondientes,  pasarán  a  prestar  servicios  en  las  Escuelas  Secundarias Básicas, en las Tecnológicas o en las de Oficios, de acuerdo con las normas que al efecto dictará el Ministerio de Educación.
+Los demás Profesores podrán ser designados en los Institutos Pre-Universitarios o Escuelas Profesionales de Comercio que también se crean, si estuvieren en posesión de los títulos exigibles en estos planteles, y los que excedieren en número al de plazas a cubrir, o carecieren de los títulos correspondientes, pasarán a prestar servicios en las Escuelas Secundarias Básicas, en las Tecnológicas o en las de Oficios, de acuerdo con las normas que al efecto dictará el Ministerio de Educación.
 
 #### Décimo Quinta:
 A los efectos de la estructuración de las plantillas del personal docente de las Escuelas Profesionales de Comercio que se crean, se aplicarán, únicamente, los preceptos relativos a la provisión de Cátedras por el escalafón de  aspirantes  a  las  plazas  que  no  resultaren  cubiertas  por  consecuencia  del replanteo profesoral efectuado.
@@ -493,7 +505,7 @@ Para las demás Cátedras de las Escuelas de Maestros Primarios, el de Doctor o 
 
 Para las Cátedras de los estudios específicos de los Institutos y Escuelas
 
-Tecnológicos, el de Ingeniero de validez oficial en la especialidad correspondiente, o, si se tratare de enseñanzas que no se cursan em nuestras Universidades, el de Ingeniero de universidad extranjera de buena reputación o el título oficial superior de la especialidad existente en Cuba.
+Tecnológicos, el de Ingeniero de validez oficial en la especialidad correspondiente, o, si se tratare de enseñanzas que no se cursan en nuestras Universidades, el de Ingeniero de universidad extranjera de buena reputación o el título oficial superior de la especialidad existente en Cuba.
 
 Para las Cátedras de los estudios específicos de las Escuelas Profesionales de Comercio, el de Contador Público o Doctor o Licenciado en Ciencias Comerciales o Ciencias Económicas.
 
@@ -528,7 +540,7 @@ Los empleados  administrativos y subalternos de las Escuelas extinguidas serán 
 El  Ministro  de  Educación podrá destinar cualquier crédito vacante en un servicio docente, a otro que se entienda de mayor rendimiento educacional, dentro del término de un año a partir de la vigencia de la presente Ley.
 
 #### Vigésimo Tercera:
-Se autoriza al Ministro de Educación para dictar las normas oportunas a fin de que los alumnos que resulten afectados por la supresión de Centros  de  Enseñanza  Media,  oficiales,  oficializados  o  incorporados,  en localidades donde no exista o no se cree o utro plantel de igual clase, puedan continuar sus estudios en los más cercanos o de más fácil acceso.
+Se autoriza al Ministro de Educación para dictar las normas oportunas a fin de que los alumnos que resulten afectados por la supresión de Centros de Enseñanza Media, oficiales, oficializados o incorporados, en localidades donde no exista o no se cree otro plantel de igual clase, puedan continuar sus estudios en los más cercanos o de más fácil acceso.
 
 #### Vigésimo Cuarta:
 Mientras no existan graduados de las Escuelas Secundarias Básicas, el Ministro de Educación dictará las normas convenientes para regular el ingreso de los alumnos en los Centros de Enseñanza Secundaria Profesional.
@@ -539,7 +551,7 @@ Los  alumnos  de  las  extinguidas  Escuelas  Normales  de Maestros,  Escuelas  
 En  las  nuevas  Escuelas  de  Maestros  Primarios  se  mantendrán  los  cursos nocturnos de las Escuelas Normales de Maestros; pero se irán cancelando los mismos, de acuerdo con las normas que se dicten para la liquidación de los planes que regían en las Escuelas extinguidas.
 
 #### Vigésimo  Sexta:
-Los  Institutos  Pre-Universitarios  funcionarán  com  planes  de transición que se ajustarán a los anteriores; pero cada curso se irá cancelando un año de estudios hasta liquidar los que reglan a la promulgación de esta Ley. Los  nuevos  planes  de  estudios  que  se  establecen  para  estos  planteles  no comenzarán  a  funcionar  hasta que  existan graduados  de  las  Escuelas Secundarias Básicas.
+Los Institutos Pre-Universitarios funcionarán con planes de transición que se ajustarán a los anteriores; pero cada curso se irá cancelando un año de estudios hasta liquidar los que regían a la promulgación de esta Ley. Los nuevos planes de estudios que se establecen para estos planteles no comenzarán a funcionar hasta que existan graduados de las Escuelas Secundarias Básicas.
 
 Los  alumnos  a  quienes  correspondería  cursar  el  séptimo  grado  de  las extinguidas Escuelas Primarias Superiores, ingresarán en el primer año de las Escuelas Secundarias Básicas, donde continuarán sus estudios.
 
@@ -570,11 +582,15 @@ Los  bienes  y  enseres  adquiridos  o  pagados  por  el  Estado  que posean  la
 #### Trigésimo  Primera:
 El  Ministro  de  Educación  podrá  autorizar  la  jubilación  o retiro  que  establecen  las  Leyes  de  Retiro  Civil  y  de  Retiro  Escolar  a  los maestros, Profesores y demás personal técnico, administrativo y subalterno de los  Centros  de  cualquiera  de  los  niveles  de  la  enseñanza,  así  como  a  los funcionarios y empleados del Ministerio y de los Departamentos Provinciales y Municipales  de  Educación,  que  los  soliciten  dentro  de  los  noventa  días siguientes  a  la  promulgación  de  esta  Ley.  El  Ministro  resolverá  antes  de  los treinta días siguientes al recibo de la solicitud.
 
-La  cuantía  de  la  jubilación  será  igual  a  la  que  otorgan  dichas  Leyes  en  los casos de retiro forzoso de acuerdo con los años de servicios, independientemente  de  la  edad  de  la  persona  cuyo  retiro  se  disponga,  pero siempre  se  tendrá  derecho  al  máximo  de  la  jubilación  otorgada  por  dichas Leyes  en  los  casos  en  que  el  profesor,  maestro,  funcionario  o  empleado, tuviera más de veinte años de servicios prestados en la Administración Pública. Los maestros de enseñanzas especiales o de especialidades que con motivo de  las  disposiciones  contenidas  en  esta  Ley  fuere  necesario  ubicarlos  en Departamentos  Municipales  limítrofes  a  los  de  los  cargos  en  que  venían prestando servicios, si tuvieren diez o más años como maestros, podrán optar entre  el  traslado  o  acogerse  a  los  beneficios  del  retiro,  en  los  términos  y condiciones  establecidos  en  esta  Disposición  Transitoria.  En  estos  casos  el Ministro de Educación autorizará la jubilación o retiro.
+La cuantía de la jubilación será igual a la que otorgan dichas Leyes en los casos de retiro forzoso de acuerdo con los años de servicios,
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+independientemente de la edad de la persona cuyo retiro se disponga, pero siempre se tendrá derecho al máximo de la jubilación otorgada por dichas Leyes en los casos en que el profesor, maestro, funcionario o empleado, tuviera más de veinte años de servicios prestados en la Administración Pública.
+
+Los maestros de enseñanzas especiales o de especialidades que con motivo de las disposiciones contenidas en esta Ley fuere necesario ubicarlos en Departamentos Municipales limítrofes a los de los cargos en que venían prestando servicios, si tuvieren diez o más años como maestros, podrán optar entre el traslado o acogerse a los beneficios del retiro, en los términos y condiciones establecidos en esta Disposición Transitoria. En estos casos el Ministro de Educación autorizará la jubilación o retiro.
 
 #### Trigésimo  Segunda:
 Una  vez  autorizada  la  jubilación,  el  maestro,  profesor, funcionario o empleado que la solicitó está obligado a acogerse a los beneficios de la misma, tan pronto sea firme el auto o resolución que la concede.
@@ -595,14 +611,16 @@ Se  prorroga  hasta  el  31  de  marzo  de  1960,  el  término señalado para e
 Disposición Transitoria de la Ley 559 de 1959.
 
 #### Trigésimo  Sexta:
-Los  Profesores  de  Enseñanza  Media  jubilados  o  que  se jubilen de acuerdo con lo dispuesto en la Disposición Transitoria Tercera de la Ley No. 559, de 15 de septiembre de 1959, o cualquiera otra disposición legal, podrán  ser  designados  en  otras  funciones  técnicas  en  el Ministerio  de Educación, según lo autoriza la propia Disposición Transitoria, pero no podrán serlo  como  Inspectores  Técnicos  de  los  establecidos  por  el  artículo  12  de  la referida Ley No. 559.
+Los Profesores de Enseñanza Media jubilados o que se jubilen de acuerdo con lo dispuesto en la Disposición Transitoria Tercera de la Ley No. 559, de 15 de septiembre de 1959, o cualquiera otra disposición legal, podrán ser designados en otras funciones técnicas en el Ministerio de
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
+Educación, según lo autoriza la propia Disposición Transitoria, pero no podrán serlo como Inspectores Técnicos de los establecidos por el artículo 12 de la referida Ley No. 559.
+
 #### Trigésimo Séptima:
-Los maestros de Enseñanzas Especiales o de Especialidades  integrados  como  maestros  primarios  por  lo  dispuesto  em  la presente Ley, que estén prestando servicios actualmente en Centros Especiales de esas enseñanzas, continuarán prestándolos hasta tanto por el Ministerio de Educación se determine la forma en que quedarán dichos centros y la situación definitiva de estos maestros.
+Los maestros de Enseñanzas Especiales o de Especialidades integrados como maestros primarios por lo dispuesto en la presente Ley, que estén prestando servicios actualmente en Centros Especiales de esas enseñanzas, continuarán prestándolos hasta tanto por el Ministerio de Educación se determine la forma en que quedarán dichos centros y la situación definitiva de estos maestros.
 
 ## DISPOSICIONES FINALES
 
@@ -611,9 +629,9 @@ El Ministro de Educación queda encargado del cumplimiento de esta
 
 Ley.
 ### Segunda:
-Se  derogan  cuantas  disposiciones  se  opongan  a  la  presente  Ley, que  comenzará  a  regir  desde  su  publicación  en  la Gaceta  Oficial de  la República: Mando  que  se  cumpla  y  ejecute  la  presente  Ley  en  todas  sus
+Se derogan cuantas disposiciones se opongan a la presente Ley, que comenzará a regir desde su publicación en la Gaceta Oficial de la República:
 
-Por  Tanto: partes.
+Por Tanto: Mando que se cumpla y ejecute la presente Ley en todas sus partes.
 
 Fuente: Leyes del Gobierno Provisional de la Revolución (XV), pp. 103-170.
 
