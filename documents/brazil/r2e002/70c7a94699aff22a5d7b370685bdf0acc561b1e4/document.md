@@ -31,11 +31,9 @@ Será admitido, para efeito da distribuição dos recursos previstos no inciso I
 ### §  2 o
 As  instituições  a  que  se  refere  o  §  1 o deste  artigo  deverão  obrigatória  e cumulativamente: I  -  oferecer  igualdade  de  condições  para  o  acesso  e  permanência  na  escola  e atendimento educacional gratuito a todos os seus alunos; II  -  comprovar  finalidade  não  lucrativa  e  aplicar  seus  excedentes  financeiros  em educação na etapa ou modalidade previstas nos §§ 1 o , 3 o e 4 o deste artigo; III - assegurar a destinação de seu patrimônio a outra escola comunitária, filantrópica ou confessional com atuação na etapa ou modalidade previstas nos §§ 1 o , 3 o e 4 o deste artigo ou ao poder público no caso do encerramento de suas atividades; IV - atender a padrões mínimos de qualidade definidos pelo órgão normativo do sistema de ensino, inclusive, obrigatoriamente, ter aprovados seus projetos pedagógicos; V - ter certificado do Conselho Nacional de Assistência Social ou órgão equivalente, na forma do regulamento.
 ### §  3 o
-Será  admitido,  até  31  de  dezembro  de  2016,  o  cômputo  das  matrículas  das  préescolas, comunitárias, confessionais ou filantrópicas, sem fins lucrativos, conveniadas com o poder  público  e  que  atendam  a  crianças  de  4  (quatro)  a  5  (cinco)  anos,  observadas  as condições  previstas  nos  incisos  I  a  V  do  §  2 o ,  efetivadas,  conforme  o  censo  escolar  mais atualizado,  realizado  pelo  Instituto  Nacional  de  Estudos  e  Pesquisas  Educacionais  Anísio Teixeira - INEP. (Redação dada pela Lei nº 12.837, de 2013)
+Será  admitido,  até  31  de  dezembro  de  2016,  o  cômputo  das  matrículas  das  pré-escolas, comunitárias, confessionais ou filantrópicas, sem fins lucrativos, conveniadas com o poder  público  e  que  atendam  a  crianças  de  4  (quatro)  a  5  (cinco)  anos,  observadas  as condições  previstas  nos  incisos  I  a  V  do  §  2 o ,  efetivadas,  conforme  o  censo  escolar  mais atualizado,  realizado  pelo  Instituto  Nacional  de  Estudos  e  Pesquisas  Educacionais  Anísio Teixeira - INEP. (Redação dada pela Lei nº 12.837, de 2013)
 ### §  4 o
-Observado  o  disposto  no  parágrafo  único  do art.  60  da  Lei  n o dezembro de 1996, e no § 2 o
-
-- 9.394,  de  20  de deste artigo, admitir-se-á o cômputo das matrículas efetivadas, conforme  o  censo  escolar  mais  atualizado,  na  educação  especial  oferecida  em  instituições comunitárias,  confessionais  ou  filantrópicas  sem  fins  lucrativos,  conveniadas  com  o  poder público, com atuação exclusiva na modalidade.
+Observado o disposto no parágrafo único do art. 60 da Lei n o 9.394, de 20 de dezembro de 1996, e no § 2 o deste artigo, admitir-se-á o cômputo das matrículas efetivadas, conforme o censo escolar mais atualizado, na educação especial oferecida em instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos, conveniadas com o poder público, com atuação exclusiva na modalidade.
 
 [[END OF PAGE 2]]
 
@@ -98,7 +96,13 @@ Os  recursos  dos  Fundos,  inclusive  aqueles  oriundos  de  complementação  
 ### § 1 o
 Os recursos poderão ser aplicados pelos Estados e Municípios indistintamente entre
 
-etapas,  modalidades  e  tipos  de  estabelecimento  de  ensino  da  educação  básica  nos  seus respectivos âmbitos de atuação prioritária, conforme estabelecido nos  §§ 2º e 3º do art. 211 da Constituição Federal.
+etapas,  modalidades  e  tipos  de  estabelecimento  de  ensino  da  educação  básica  nos  seus
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+respectivos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 da Constituição Federal.
 ### §  2 o
 Até  5%  (cinco  por  cento)  dos  recursos  recebidos  à  conta  dos  Fundos,  inclusive relativos  à  complementação  da  União  recebidos  nos  termos  do  §  1 o do  art.  6 o desta  Lei, poderão  ser  utilizados  no  1 o (primeiro)  trimestre  do  exercício  imediatamente  subsequente, mediante abertura de crédito adicional.
 ## Art.  22.
@@ -109,10 +113,6 @@ Para os fins do disposto no caput deste artigo, considera-se: I  -  remuneraçã
 É vedada a utilização dos recursos dos Fundos: I -no financiamento das despesas  não consideradas  como  de  manutenção  e desenvolvimento da educação básica, conforme o art. 71 da Lei nº 9.394, de 20 de dezembro de 1996; II  -  como  garantia  ou  contrapartida  de  operações  de  crédito,  internas  ou  externas, contraídas pelos Estados, pelo Distrito Federal ou pelos Municípios que não se destinem ao financiamento  de  projetos,  ações  ou  programas  considerados  como  ação  de  manutenção  e desenvolvimento do ensino para a educação básica.
 ## Art. 24.
 O acompanhamento e o controle social sobre a distribuição, a transferência e a aplicação dos recursos dos Fundos serão exercidos, junto aos respectivos governos, no âmbito da  União,  dos  Estados,  do  Distrito  Federal  e  dos  Municípios,  por  conselhos  instituídos especificamente para esse fim.
-
-[[END OF PAGE 5]]
-
-[[START OF PAGE 6]]
 
 [...]
 
