@@ -8,6 +8,8 @@ Núm. 72 - any 20 - 8.10.2008
 
 # Disposicions de caràcter general
 
+Govern
+
 ## Decret de modificació del decret de prevenció i tractament de l'absentisme escolar als centres educatius del Principat d'Andorra
 
 ### Exposició de motius
@@ -18,15 +20,11 @@ L'absentisme escolar té el seu origen en un conjunt de dificultats que poden se
 
 D'aquesta manera, amb la finalitat de fomentar la prevenció i evitar l'aparició de l'absentisme escolar, el 25 d'octubre de 2006, el Govern d'Andorra aprova el Decret de prevenció i tractament de l'absentisme escolar als centres educatius del Principat d'Andorra.
 
-Després de dos anys d'aplicació d'aquest Decret, s'ha fet palesa la necessitat de millorar determinats aspectes que hi són regulats a fi de poder tractar de manera més directa i eficaç aquestes conductes d'absentisme. Així, l e s modificacions de millora que pretenen
-
-Govern
-
-incrementar el caire preventiu de la intervenció adreçada a resoldre l'absentisme se centren en tres aspectes fonamentals, essent, el primer, la reducció de les tipologies d'absentisme; el segon, la simplificació dels procediments a seguir; i el tercer, l'agilització de la comunicació entre els centres escolars i el ministeri encarregat de l'educació.
+Després de dos anys d'aplicació d'aquest Decret, s'ha fet palesa la necessitat de millorar determinats aspectes que hi són regulats a fi de poder tractar de manera més directa i eficaç aquestes conductes d'absentisme. Així, les modificacions de millora que pretenen incrementar el caire preventiu de la intervenció adreçada a resoldre l'absentisme se centren en tres aspectes fonamentals, essent, el primer, la reducció de les tipologies d'absentisme; el segon, la simplificació dels procediments a seguir; i el tercer, l'agilització de la comunicació entre els centres escolars i el ministeri encarregat de l'educació.
 
 Més concretament, s'han reduït les tipologies d'absentisme, així com el nombre d'absències injustificades abans que es posés en marxa el tractament de l'absentisme. Les conductes d'absentisme han passat de cinc a tres, al considerar que algunes d'aquestes conductes tenien el mateix component i requerien el mateix nivell d'intervenció i de tractament.
 
-Amb el mateix esperit de reforçar el caire preventiu de la intervenció, s'ha redactat l'article 24 del present text, que possibilita la intervenció dels equips directius d'un centre escolar quan es det e c t a que l a f a mília encobreix l'absentisme escolar del seu fill.
+Amb el mateix esperit de reforçar el caire preventiu de la intervenció, s'ha redactat l'article 24 del present text, que possibilita la intervenció dels equips directius d'un centre escolar quan es detecta que la família encobreix l'absentisme escolar del seu fill.
 
 Aquesta modificació reprèn íntegrament la norma actual i deroga el Decret de prevenció i tractament de l'absentisme escolar als centres educatius del Principat d'Andorra, de data 25 d'octubre de 2006.
 
@@ -52,7 +50,7 @@ a) Es considera absentisme per impuntualitat quan l'alumne arriba sistemàticame
 
 b) Es considera absentisme parcial quan l'alumne no assisteix alguns dies concrets al centre o a determinades àrees o assignatures de forma regular.
 
-- Es considera absentisme crònic quan l'alumne no assisteix de forma habitual al centre.
+c) Es considera absentisme crònic quan l'alumne no assisteix de forma habitual al centre.
 
 #### Article 5 Àmbits d'actuació
 
@@ -64,9 +62,7 @@ Els àmbits d'actuació s'organitzen en tres nivells: la prevenció, el tractame
 
 La prevenció té per finalitat evitar l'aparició de l'absentisme, que sovint pot ser indicador d'una situació de risc social i comporta sempre repercussions d'àmbit acadèmic. Aquesta prevenció abasta obligatòriament l'educació bàsica, tot i que pot iniciar-se en l'educació maternal encara que no sigui un nivell educatiu obligatori.
 
-#### Mesures de prevenció impulsades des
-
-#### Article 7 del Govern
+#### Article 7 Mesures de prevenció impulsades des del Govern
 
 El Govern ha d'impulsar les mesures següents de prevenció de l'absentisme escolar adreçades a la família o als centres escolars:
 
@@ -104,15 +100,15 @@ c) Adequar l'oferta curricular a la diversitat de l'alumnat mitjançant ajustame
 
 d) Fomentar i responsabilitzar el pare, la mare o el representant legal de l'hàbit d'assistir regularment a l'escola des de l'educació maternal.
 
-e) Establir per part del docent una relació de confiança i de diàleg amb l'al umne per sensibilitzar-lo i responsabilitzar-lo sobre la seva escolarització, segons la seva edat.
+e) Establir per part del docent una relació de confiança i de diàleg amb l'alumne per sensibilitzar-lo i responsabilitzar-lo sobre la seva escolarització, segons la seva edat.
 
 f) Fomentar i sensibilitzar els infants de la importància d'assistir a l'escola i a totes les classes per garantir la regularitat del procés d'aprenentatge.
 
-- Potenciar les vies de participació de tots els membres de la comunitat educativa a fi de prevenir l'absentisme escolar.
+g) Potenciar les vies de participació de tots els membres de la comunitat educativa a fi de prevenir l'absentisme escolar.
 
-- Acompanyar l'exclusió temporal d'un alumne de l'aula amb tasques d'interès col·lectiu que s'hagin de realitzar en el mateix centre escolar.
+h) Acompanyar l'exclusió temporal d'un alumne de l'aula amb tasques d'interès col·lectiu que s'hagin de realitzar en el mateix centre escolar.
 
-- Acompanyar una exclusió temporal d'un alumne del centre escolar amb tasques educatives.
+i) Acompanyar una exclusió temporal d'un alumne del centre escolar amb tasques educatives.
 
 ### Capítol 3. El tractament de les conductes absentistes
 
@@ -130,7 +126,7 @@ Quan es tracta d'una absència imprevista o d'última hora, la família o repres
 
 #### Article 11 Autoritzacions per absentar-se del centre a la primera ensenyança
 
-A primera ensenyança, la direcció del centre pot, de manera excepcional, autoritzar un alumne a absentar-se durant l'horari escolar, a condició que la família faci la demanda per escrit i en justifiqui l ' a b s è n c i a , i que en el moment d'abandonar el centre, l'alumne ho faci acompanyat del pare, la mare o el responsable legal.
+A primera ensenyança, la direcció del centre pot, de manera excepcional, autoritzar un alumne a absentar-se durant l'horari escolar, a condició que la família faci la demanda per escrit i en justifiqui l'absència, i que en el moment d'abandonar el centre, l'alumne ho faci acompanyat del pare, la mare o el responsable legal.
 
 #### Article 12 Autoritzacions per absentar-se del centre a segona ensenyança, batxillerat i formació professional
 
@@ -196,37 +192,37 @@ Després d'esgotar tots els recursos existents al centre escolar i de constatar 
 
 Per fer efectiva la demanda d'intervenció de l'Àrea d'Inspecció i Avaluació Educativa, cal presentar una fitxa de notificació d'absentisme escolar on s'especifiquen les dades següents:
 
-- nom i cognoms de l'alumne
+a) nom i cognoms de l'alumne
 
-- data de naixement
+b) data de naixement
 
-- adreça i telèfon
+c) adreça i telèfon
 
-- nom i cognoms del pare
+d) nom i cognoms del pare
 
-- nom i cognoms de la mare
+e) nom i cognoms de la mare
 
 f) nom i cognoms del responsable legal (si escau)
 
 g) adreça i números de telèfons de contacte (particular i feina)
 
-- nacionalitat
+h) nacionalitat
 
-- residència
+i) residència
 
 j) nom i cognoms de la persona que notifica la situació d'absentisme
 
 k) adreça i número de telèfon de contacte
 
-- centre escolar, nivell educatiu i classe on està inscrit
+l) centre escolar, nivell educatiu i classe on està inscrit
 
-- m)registre d'absències (dates i hores)
+m) registre d'absències (dates i hores)
 
-- justificants d'absències, si escau
+n) justificants d'absències, si escau
 
-- breu descripció de la situació i de les accions dutes a terme amb l'alumne i la família o representant legal
+o) breu descripció de la situació i de les accions dutes a terme amb l'alumne i la família o representant legal
 
-- altres dades d'interès
+p) altres dades d'interès
 
 #### Article 23 Temporització
 
@@ -254,7 +250,7 @@ Butlletí Oficial del Principat d'Andorra
 
 3409
 
-Uncop l'inspector ha constituït tots els elements del dossier i ha valorat la pertinença de la demanda efectuada des del centre escolar, es convoca la família a una reunió al ministeri encarregat de l'educació.
+Un cop l'inspector ha constituït tots els elements del dossier i ha valorat la pertinença de la demanda efectuada des del centre escolar, es convoca la família a una reunió al ministeri encarregat de l'educació.
 
 Aquests tràmits no poden tardar més de 15 dies naturals després de la notificació a l'Àrea d'Inspecció i Avaluació Educativa.
 
@@ -298,9 +294,9 @@ El conveni d'accions per al retorn de l'assiduïtat ha de preveure com a mínim 
 
 a) Descripció de la situació d'absentisme;
 
-- Objectius;
+b) Objectius;
 
-- Temporització;
+c) Temporització;
 
 d) Definició d'accions per a cadascuna de les parts implicades (alumne, família, centre escolar, ministeri encarregat de l'educació, ministeri encarregat dels afers socials);
 
@@ -428,7 +424,7 @@ c) identificar els recursos existents
 
 d) potenciar la posada en marxa d'estratègies de prevenció i tractament
 
-- detectar i redreçar situacions d'absentisme escolar
+e) detectar i redreçar situacions d'absentisme escolar
 
 f) avaluar les mesures empreses.
 
