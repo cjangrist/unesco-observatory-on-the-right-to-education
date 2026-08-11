@@ -79,7 +79,7 @@ freedom to demonstrate: that is, the freedom to organise or take part in demonst
 
 freedom  of  association:  that  is,  the  freedom  to  associate  with others for public or private purposes; and
 
-freedom  of  worship:  that  is,  the  freedom  to  practise  one's religion alone or in the company of others.
+freedom  of  worship:  that  is,  the  freedom  to  practise  one’s religion alone or in the company of others.
 
 The  provisions  of  the  Freedom  of  the  Press  Act  and  the Fundamental  Law  on  Freedom  of  Expression  shall  apply concerning  the  freedom  of  the  press  and  the  corresponding freedom  of  expression  on  sound  radio,  television  and  certain similar  transmissions,  as  well  as  in  films,  video  recordings, sound recordings and other technical recordings.
 
@@ -108,7 +108,7 @@ Everyone shall be protected against corporal punishment.  No  one  may  be  subj
 #### Art. 6.
 Everyone shall be protected in their relations with the public  institutions  against  any  physical  violation  also  in  cases other than cases under Articles 4 and 5. Everyone shall likewise be  protected  against  body  searches,  house  searches  and  other such invasions of privacy, against examination of mail or other confidential correspondence, and against eavesdropping and the recording  of telephone  conversations  or  other  confidential communications.
 
-In addition to what is laid down in paragraph one, everyone shall be protected in their relations with the public institutions against significant invasions of their personal privacy, if these occur  without  their  consent  and  involve  the  surveillance  or systematic monitoring of the individual's personal circumstances.
+In addition to what is laid down in paragraph one, everyone shall be protected in their relations with the public institutions against significant invasions of their personal privacy, if these occur  without  their  consent  and  involve  the  surveillance  or systematic monitoring of the individual’s personal circumstances.
 
 #### Art.  7.
 No  Swedish  citizen  may  be  deported  from  or  refused entry into the Realm.
@@ -158,7 +158,7 @@ No  act  of  law  or  other  provision  may  imply  the unfavourable  treatment 
 No  act  of  law  or  other  provision  may  imply  the unfavourable treatment of anyone on grounds of gender, unless the provision forms part of efforts to promote equality between men  and  women  or  relates  to  compulsory  military  service  or other equivalent official duties.
 
 #### Art. 14.
-A trade union or an employer or employers' association  shall  be  entitled  to  take  industrial  action  unless otherwise provided in an act of law or under an agreement.
+A trade union or an employer or employers’ association  shall  be  entitled  to  take  industrial  action  unless otherwise provided in an act of law or under an agreement.
 
 ### Protection of property and the right of public access
 
@@ -199,7 +199,7 @@ The freedom of research is protected according to rules laid down in law.
 ### The European Convention
 
 #### Art. 19.
-No act of law or other provision may be adopted which contravenes Sweden's undertakings under the European Convention for the Protection of Human Rights and Fundamental Freedoms.
+No act of law or other provision may be adopted which contravenes Sweden’s undertakings under the European Convention for the Protection of Human Rights and Fundamental Freedoms.
 
 ### Conditions for limiting rights and freedoms
 
@@ -208,7 +208,7 @@ To  the  extent  provided  for  in  Articles  21  to  24,  the following rights 
 
 - freedom of expression, freedom of information, freedom  of  assembly,  freedom  to  demonstrate  and freedom of association (Article 1, points 1 to 5);
 
-- protection against any physical violation in cases other than cases under Articles 4 and 5, against body searches,  house  searches  and  other  such  invasions  of privacy, against violations of confidential items of mail or  communications  and  otherwise  against  violations involving surveillance and monitoring of the individual's personal circumstances (Article 6);
+- protection against any physical violation in cases other than cases under Articles 4 and 5, against body searches,  house  searches  and  other  such  invasions  of privacy, against violations of confidential items of mail or  communications  and  otherwise  against  violations involving surveillance and monitoring of the individual’s personal circumstances (Article 6);
 
 - freedom of movement (Article 8); and
 
@@ -220,7 +220,7 @@ To  the  extent  provided  for  in  Articles  21  to  24,  the following rights 
 
 [[START OF PAGE 8]]
 
-With  authority  in  law,  the  rights  and  freedoms  referred  to  in paragraph one may be limited by other statute in cases under Chapter  8,  Article  5,  and  in  respect  of  prohibition  of  the disclosure of matters which have come to a person's knowledge in  the  performance  of  public  or  official  duties.  Freedom  of assembly and freedom to demonstrate may similarly be limited also in cases under Article 24, paragraph one, sentence two.
+With  authority  in  law,  the  rights  and  freedoms  referred  to  in paragraph one may be limited by other statute in cases under Chapter  8,  Article  5,  and  in  respect  of  prohibition  of  the disclosure of matters which have come to a person’s knowledge in  the  performance  of  public  or  official  duties.  Freedom  of assembly and freedom to demonstrate may similarly be limited also in cases under Article 24, paragraph one, sentence two.
 
 #### Art.  21.
 The  limitations  referred  to  in  Article  20  may  be imposed  only  to  satisfy  a  purpose  acceptable  in  a  democratic society. The limitation must never go beyond what is necessary with regard to the purpose which occasioned it, nor may it be carried  so  far  as  to  constitute  a  threat  to  the  free  shaping  of opinion as one of the fundaments of democracy. No limitation may  be  imposed  solely  on  grounds  of  a  political,  religious, cultural or other such opinion.
@@ -230,7 +230,7 @@ A draft law under Article 20 shall be held in abeyance, unless  rejected  by  th
 
 Paragraph  one  shall  not  apply  to  any  draft  law  prolonging the life of a law for a period not exceeding two years. Nor shall it apply to any draft law concerned only with:
 
-- prohibition  of  the  disclosure  of  matters  which  have come  to  a  person's  knowledge  in  the  performance  of public  or  official  duties,  where  secrecy  is  called  for with regard to interests under Chapter 2, Article 2 of the Freedom of the Press Act;
+- prohibition  of  the  disclosure  of  matters  which  have come  to  a  person’s  knowledge  in  the  performance  of public  or  official  duties,  where  secrecy  is  called  for with regard to interests under Chapter 2, Article 2 of the Freedom of the Press Act;
 
 - house searches and similar invasions of privacy; or
 
@@ -261,7 +261,7 @@ For foreign nationals within the Realm,  special limitations  may  be  introduce
 
 - protection against coercion to divulge an opinion (Article 2, sentence one);
 
-- protection against physical violations also in cases other than cases under Articles 4 and 5, against body searches,  house  searches  and  other  such  invasions  of privacy, against violations of confidential items of mail or  communications  and  otherwise  against  violations involving surveillance and monitoring of the individual's personal circumstances (Article 6);
+- protection against physical violations also in cases other than cases under Articles 4 and 5, against body searches,  house  searches  and  other  such  invasions  of privacy, against violations of confidential items of mail or  communications  and  otherwise  against  violations involving surveillance and monitoring of the individual’s personal circumstances (Article 6);
 
 88
 
@@ -275,7 +275,7 @@ For foreign nationals within the Realm,  special limitations  may  be  introduce
 
 - public  court  proceedings  (Article  11,  paragraph  two, sentence two);
 
-- authors', artists'  and  photographers'  rights  to  their works (Article 16);
+- authors’, artists’  and  photographers’  rights  to  their works (Article 16);
 
 - the right to trade or practise a profession (Article 17);
 
@@ -436,7 +436,7 @@ When  a  vote  is  taken  in  the  Chamber,  the  opinion supported  by  more  t
 ### Follow-up and evaluation
 
 #### Art. 8.
-Each committee follows up and evaluates decisions of the Riksdag within the committee's subject area.
+Each committee follows up and evaluates decisions of the Riksdag within the committee’s subject area.
 
 93
 
@@ -449,13 +449,13 @@ Each committee follows up and evaluates decisions of the Riksdag within the comm
 #### Art.  9.
 Meetings  of  the  Chamber  are  open  to  the  public. A meeting may, nevertheless,  be  held  behind  closed  doors  in accordance with rules laid down in the Riksdag Act.
 
-### Members' legal status
+### Members’ legal status
 
 #### Art.  10.
 Members  of  the  Riksdag  or  alternates  for  such members may exercise their mandate as members notwithstanding any official duty or other similar obligation.
 
 #### Art.  11.
-Members  of  the  Riksdag  or  alternates  for  such members may not resign their mandate without the Riksdag's consent.
+Members  of  the  Riksdag  or  alternates  for  such members may not resign their mandate without the Riksdag’s consent.
 
 Where  there  are  grounds,  the  Election  Review  Board  shall examine on its own initiative whether a particular member or an  alternate  is  eligible  under  Chapter  3,  Article  4,  paragraph two. A person pronounced to be ineligible is thereby deprived of his or her mandate.
 
@@ -477,7 +477,7 @@ During such time as a member is acting as Speaker of the  Riksdag  or  is  a  me
 
 [[START OF PAGE 16]]
 
-The rules laid down in Articles 10 and 12, paragraph one also apply to the Speaker and the Speaker's mandate.
+The rules laid down in Articles 10 and 12, paragraph one also apply to the Speaker and the Speaker’s mandate.
 
 The rules relating to a member of the Riksdag apply also to an alternate exercising a mandate as a member.
 
@@ -539,7 +539,7 @@ The ministers must be Swedish citizens. A minister may not  have  any  other  em
 ### Vote on the Prime Minister after an election
 
 #### Art. 3.
-No later than two weeks after it has convened, a newlyelected Riksdag shall determine by means of a vote whether the Prime Minister has sufficient  support  in  the  Riksdag.  If  more than  half  of  the  members  of  the  Riksdag  vote  no,  the  Prime Minister shall be discharged. No vote shall be held if the Prime Minister has already been discharged.
+No later than two weeks after it has convened, a newly-elected Riksdag shall determine by means of a vote whether the Prime Minister has sufficient  support  in  the  Riksdag.  If  more than  half  of  the  members  of  the  Riksdag  vote  no,  the  Prime Minister shall be discharged. No vote shall be held if the Prime Minister has already been discharged.
 
 96
 
@@ -553,12 +553,12 @@ No later than two weeks after it has convened, a newlyelected Riksdag shall dete
 When a Prime Minister is to be appointed, the Speaker summons  for  consultation  representatives  from  each  party group  in  the  Riksdag.  The  Speaker  confers  with  the  Deputy Speakers  before  presenting  a  proposal  to  the  Riksdag.  The Riksdag  shall  vote  on  the  proposal  within  four  days,  without prior preparation in committee. If more than half the members of the Riksdag vote against the proposal, it is rejected. In any other case, it is adopted.
 
 #### Art.  5.
-If  the  Riksdag  rejects  the  Speaker's  proposal,  the procedure  laid  down  in  Article  4  is  repeated.  If  the  Riksdag rejects  the  Speaker's  proposal  four  times,  the  procedure  for appointing  a  Prime  Minister  is  abandoned  and  resumed  only after  an  election  to  the  Riksdag  has  been  held.  If  no  ordinary election is due in any case to be held within three months, an extraordinary  election  shall  be  held  within  the  same  space  of time.
+If  the  Riksdag  rejects  the  Speaker’s  proposal,  the procedure  laid  down  in  Article  4  is  repeated.  If  the  Riksdag rejects  the  Speaker’s  proposal  four  times,  the  procedure  for appointing  a  Prime  Minister  is  abandoned  and  resumed  only after  an  election  to  the  Riksdag  has  been  held.  If  no  ordinary election is due in any case to be held within three months, an extraordinary  election  shall  be  held  within  the  same  space  of time.
 
 #### Art. 6.
 When the Riksdag has approved a proposal for a new Prime Minister, the Prime Minister shall inform the Riksdag as soon  as  possible  of  the  names  of  the  ministers.  Government changes hands thereafter at a Council of State before the Head of  State  or,  in  his  or  her  absence,  before  the  Speaker.  The Speaker is always summoned to attend such a Council.
 
-The  Speaker  issues  a  letter  of  appointment  for  the  Prime Minister on the Riksdag's behalf.
+The  Speaker  issues  a  letter  of  appointment  for  the  Prime Minister on the Riksdag’s behalf.
 
 ### Discharge of the Prime Minister or a minister
 
@@ -931,7 +931,7 @@ The Riksdag's approval is required before the Government  concludes  an  interna
 
 If,  in  a  case  under  paragraph  one,  points  1  or  2,  a  special procedure has been prescribed for the required Riksdag decision, the same procedure shall be applied in approving the agreement.
 
-The Riksdag's approval is also required in cases other those under  paragraph  one,  before  the  Government  concludes  an international agreement which is binding upon the Realm, if the agreement  is  of  major  significance.  The  Government  may however  act  without  obtaining  the  Riksdag's  approval  if  the interests of the Realm so require. In such a case the Government shall instead confer with the Advisory Council on Foreign Affairs before concluding the agreement.
+The Riksdag's approval is also required in cases other than those under  paragraph  one,  before  the  Government  concludes  an international agreement which is binding upon the Realm, if the agreement  is  of  major  significance.  The  Government  may however  act  without  obtaining  the  Riksdag's  approval  if  the interests of the Realm so require. In such a case the Government shall instead confer with the Advisory Council on Foreign Affairs before concluding the agreement.
 
 108
 
@@ -959,7 +959,7 @@ The Riksdag may approve a transfer of authority, provided at least  three  fourt
 #### Art.  7.
 Decision-making  authority  which  is  directly  based  on the present Instrument of Government and which relates to the laying down of provisions, the use of assets of the State, tasks connected  with  judicial  or  administrative  functions,  or  the conclusion  or  denunciation  of  an  international  agreement  or obligation  may,  in  cases  other  than  those  under  Article  6,  be transferred to a limited extent, to an international organisation for  peaceful  cooperation  of  which  Sweden is a member, or is about to become a member, or to an international court of law.
 
-Decision-making authority relating to matters concerning the enactment,  amendment  or  abrogation  of  fundamental  law,  the Riksdag Act or a law on elections to the Riksdag, or relating to the restriction of any of the rights and freedoms referred to in Chapter 2 may not transferred under paragraph one.
+Decision-making authority relating to matters concerning the enactment,  amendment  or  abrogation  of  fundamental  law,  the Riksdag Act or a law on elections to the Riksdag, or relating to the restriction of any of the rights and freedoms referred to in Chapter 2 may not be transferred under paragraph one.
 
 109
 
@@ -1118,7 +1118,7 @@ The Chancellor of Justice and other State administrative authorities come  under
 ### Independence of administration
 
 #### Art. 2.
-No public authority, including the Riksdag, or decisionmaking  body  of  any  local  authority,  may  determine  how  an administrative authority shall decide in a particular case relating to the exercise of public authority vis-à-vis an individual or a local authority, or relating to the application of law.
+No public authority, including the Riksdag, or decision-making  body  of  any  local  authority,  may  determine  how  an administrative authority shall decide in a particular case relating to the exercise of public authority vis-à-vis an individual or a local authority, or relating to the application of law.
 
 #### Art.  3.
 No  administrative  function  may  be  performed  by  the Riksdag except inasmuch as this follows from fundamental law or from the Riksdag Act.
@@ -1240,7 +1240,7 @@ Further provisions concerning the National Audit Office are laid down in the Rik
 Sweden has municipalities and county councils. Decision-making powers in these local authorities are exercised by elected assemblies.
 
 #### Art.  2.
-The  local  authorities  are  responsible  for  local  and regional matters of public interest on the principle of local selfgovernment. More detailed rules on this are laid down in law. By the same principle, the local authorities are also responsible for other matters laid down in law.
+The  local  authorities  are  responsible  for  local  and regional matters of public interest on the principle of local self-government. More detailed rules on this are laid down in law. By the same principle, the local authorities are also responsible for other matters laid down in law.
 
 #### Art.  3.
 Any  restriction  in  local  self-government  should  not exceed  what  is  necessary  with  regard  to  the  purpose  of  the restriction.
