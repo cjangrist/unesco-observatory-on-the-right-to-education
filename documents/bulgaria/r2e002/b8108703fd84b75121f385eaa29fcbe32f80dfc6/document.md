@@ -19,22 +19,22 @@ The state educational requirement referred to in Article 1 shall determine the c
 #### Article 3.
 (1) The levels of education shall ensure the necessary level of learning, as well as succession and continuity of education.
 
-- The levels of education shall be basic education and secondary education.
+(2) The levels of education shall be basic education and secondary education.
 
-- The basic level shall consist of two stages:
+(3) The basic level shall consist of two stages:
 
-- elementary - with a duration of four years (grades 1st through 4th);
+1. elementary - with a duration of four years (grades 1st through 4th);
 
-- primary - with a duration of four years (grades 5th through 8th);
+2. primary - with a duration of four years (grades 5th through 8th);
 
-- The secondary level shall consist of one stage - secondary, with a duration of four years (grades 9th through 12th).
+(4) The secondary level shall consist of one stage - secondary, with a duration of four years (grades 9th through 12th).
 
 #### Article  4.
 A  duration  of  the  levels  different  from  the  one  referred  to  in  Article  3, Paragraphs 3 and 4 shall be determined with an ordinance issued by the Minister of Education, Youth and Science in the cases when the education takes place:
 
-- in forms of education different from the regular one;
+1. in forms of education different from the regular one;
 
-(supplemented,  SG  No.  95/2002)  in  profiled  and  professional  secondary  schools,  in sports schools and in art schools;
+2. (supplemented, SG No. 95/2002) in profiled and professional secondary schools, in sports schools and in art schools;
 
 1
 
@@ -67,7 +67,7 @@ The  completion  of  the  respective  level  of  education  shall  guarantee  th
 
 (4) (New, SG No. 95/2002) Persons who have passed the state matriculation examinations may  be  admitted  to  higher  schools  without  an  entrance  examination  upon  a  decision  of  the academic council of the respective higher school.
 
-(5)  (Previously  Paragraph  4  -  amended,  SG  No.  95/2002;  amended,  SG  No.  40/2004) Students  who  have  successfully  completed  12th  grade  and  have  not  taken  state  matriculation examinations shall receive, at their own choice, a certificate for completed secondary education giving  them  the  right  to  continue  with  vocational  training  for  acquisition  of  professional qualification.
+(5) (Previously Paragraph 4 - amended, SG No. 95/2002; amended, SG No. 40/2004) Students who have successfully completed 12th grade and have not taken state matriculation examinations shall receive, at their own choice, a certificate for completed secondary education
 
 2
 
@@ -75,11 +75,13 @@ The  completion  of  the  respective  level  of  education  shall  guarantee  th
 
 [[START OF PAGE 3]]
 
-(Previously Paragraph 5 - SG No. 95/2002; repealed, SG No. 40/2004)
+giving them the right to continue with vocational training for acquisition of professional qualification.
 
-(New,  SG  No.  41/2006)  The  terms  and  conditions  of  holding  state  matriculation examinations shall be stipulated by the Public Education Act and the secondary legislation related to it.
+(6) (Previously Paragraph 5 - SG No. 95/2002; repealed, SG No. 40/2004)
 
-(Renumbered from Paragraph 6, SG No. 95/2002, renumbered from Paragraph 7, SG No.  41/2006)  The  organisation  and  the  content  of  the  state  matriculation  examinations  for acquisition of professional qualification shall be determined with the Vocational Education and Training Act.
+(7) (New, SG No. 41/2006) The terms and conditions of holding state matriculation examinations shall be stipulated by the Public Education Act and the secondary legislation related to it.
+
+(8) (Renumbered from Paragraph 6, SG No. 95/2002, renumbered from Paragraph 7, SG No. 41/2006) The organisation and the content of the state matriculation examinations for acquisition of professional qualification shall be determined with the Vocational Education and Training Act.
 
 ## Chapter Three GENERAL EDUCATIONAL MINIMUM
 
@@ -88,28 +90,28 @@ The  completion  of  the  respective  level  of  education  shall  guarantee  th
 #### Article  8.
 (1)  General  education  shall  be  determined  by  the  purpose  of  the  Bulgarian school to ensure to all Bulgarian citizens an opportunity to develop themselves.
 
-- General education shall be built on the principles of respecting:
+(2) General education shall be built on the principles of respecting:
 
-- the basic human rights;
+1. the basic human rights;
 
-- children`s rights;
+2. children`s rights;
 
-- the traditions of Bulgarian culture and education;
+3. the traditions of Bulgarian culture and education;
 
-- the achievements of world culture;
+4. the achievements of world culture;
 
-- the values of civil society;
+5. the values of civil society;
 
-- the freedom of consciousness and the freedom of thought.
+6. the freedom of consciousness and the freedom of thought.
 
 #### Article 9.
 The basic objectives of general education shall be:
 
-- to  facilitate  the  physical  and  spiritual  development  of  students,  their  successful orientation, adaptation and realisation in society.
+1. to facilitate the physical and spiritual development of students, their successful orientation, adaptation and realisation in society.
 
-- to create conditions for the formation of value orientations connected with the feeling of Bulgarian national identity, respect to others, compassion and civil responsibility;
+2. to create conditions for the formation of value orientations connected with the feeling of Bulgarian national identity, respect to others, compassion and civil responsibility;
 
-- to create conditions for development of needs, interests and intentions for life-long study, education and self-improvement.
+3. to create conditions for development of needs, interests and intentions for life-long study, education and self-improvement.
 
 #### Article  10.
 General  education  in  the  Bulgarian  school  shall  be  realised  by  studying
@@ -122,44 +124,44 @@ General  education  in  the  Bulgarian  school  shall  be  realised  by  studyin
 
 subjects grouped in the following cultural and education fields:
 
-- Bulgarian language and culture;
+1. Bulgarian language and culture;
 
-- foreign languages;
+2. foreign languages;
 
-- mathematics, informatics and information technologies;
+3. mathematics, informatics and information technologies;
 
-(Amended, SG No. 95/2002) social sciences, civil education and religion;
+4. (Amended, SG No. 95/2002) social sciences, civil education and religion;
 
-- natural sciences and ecology;
+5. natural sciences and ecology;
 
-- arts;
+6. arts;
 
-- household and technologies;
+7. household and technologies;
 
-- physical culture and sports.
+8. physical culture and sports.
 
 #### Article  11.
 (1)  The  cultural  and  education  fields  shall  correspond  to  the  formulated objectives of general education and shall provide opportunity for choice within the curriculum.
 
-- Each cultural and education field shall ensure interconnectivity between the individual subjects.
+(2) Each cultural and education field shall ensure interconnectivity between the individual subjects.
 
 ### Section II Characteristics of the general education minimum
 
 #### Article 12.
 (1) The general education minimum shall be the basis of general education. It  shall  include  obligatory  knowledge  and  skills  necessary  for  the  successful  realisation  of students in the next level of education.
 
-(Amended, SG No. 95/2002) The general education minimum for the elementary and primary stages of primary education shall be uniform and obligatory for all schools.
+(2) (Amended, SG No. 95/2002) The general education minimum for the elementary and primary stages of primary education shall be uniform and obligatory for all schools.
 
-(New,  SG  No.  95/2002)  The  general  education  minimum  for  the  secondary  level  of education shall include:
+(3) (New, SG No. 95/2002) The general education minimum for the secondary level of education shall include:
 
-- the cultural and education fields referred to in Article 10, items 1, 2, 3, 4, 5 and 8 - for all types of schools;
+1. the cultural and education fields referred to in Article 10, items 1, 2, 3, 4, 5 and 8 - for all types of schools;
 
-- the cultural and education fields referred to in Article 10, items 1, 2, 3, 4, 5, 6 and 8 - for the schools referred to in Article 26, Paragraph 1, items 4, 5 and 6 of the Public Education Act.
+2. the cultural and education fields referred to in Article 10, items 1, 2, 3, 4, 5, 6 and 8 - for the schools referred to in Article 26, Paragraph 1, items 4, 5 and 6 of the Public Education Act.
 
 #### Article 13.
 (1) (Previous text of Article 13 - SG No. 95/2002) The distribution of school time among the subjects with a view to achieving the general education minimum for each grade, stage and level shall be determined with an ordinance issued by the Minister of Education, Youth and Science.
 
-(New, SG No. 95/2002) The conditions and the procedure for including new elements
+(2) (New, SG No. 95/2002) The conditions and the procedure for including new elements
 
 4
 
@@ -188,21 +190,21 @@ The  content  of  the  general  education  minimum  determined  pursuant  to Art
 
 (2)  (Amended,  SG  No.  40/2004)  The  compulsory  number  of  classes  in  one  study  week shall be:
 
-- twenty-two classes - in 1st and 2nd grade;
+1. twenty-two classes - in 1st and 2nd grade;
 
-- twenty-five classes - in 3rd and 4th grade;
+2. twenty-five classes - in 3rd and 4th grade;
 
-- thirty classes - in 5th through 8th grade inclusive;
+3. thirty classes - in 5th through 8th grade inclusive;
 
-- thirty-five classes - in 9th through 12th grade.
+4. thirty-five classes - in 9th through 12th grade.
 
 (3) The ratio between the compulsory and the mandatorily elective education shall depend on the stage and the level of education. Compulsory schooling shall be:
 
-- for the elementary stage - 90% of the compulsory classes;
+1. for the elementary stage - 90% of the compulsory classes;
 
-- for the primary stage - 80 to 90% of the compulsory classes;
+2. for the primary stage - 80 to 90% of the compulsory classes;
 
-- for the secondary level - from 45 to 80% of the compulsory classes.
+3. for the secondary level - from 45 to 80% of the compulsory classes.
 
 5
 
@@ -215,15 +217,15 @@ The  content  of  the  general  education  minimum  determined  pursuant  to Art
 #### Article 17.
 The curriculum shall contain:
 
-- the names of the subjects included in the compulsory, mandatorily elective and optional schooling;
+1. the names of the subjects included in the compulsory, mandatorily elective and optional schooling;
 
-- the distribution of the subjects in each grade;
+2. the distribution of the subjects in each grade;
 
-(amended, SG No. 95/2002) the annual and the weekly number of classes for studying the subjects;
+3. (amended, SG No. 95/2002) the annual and the weekly number of classes for studying the subjects;
 
-- schedule of the academic year.
+4. schedule of the academic year.
 
-(new,  SG  No.  95/2002)  description  of  the  organisation  of  schooling  in  the  respective school.
+5. (new, SG No. 95/2002) description of the organisation of schooling in the respective school.
 
 #### Article  18.
 (1)  Each  school  shall  develop  its  curriculum  in  compliance  with  the provisions of this Act.
@@ -236,18 +238,20 @@ The curriculum shall contain:
 
 (5)  (Amended,  SG  No.  95/2002,  renumbered  from  Paragraph  4,  SG  No.  50/2008)  The school curricula shall be adopted with a decision of the pedagogical council of the school and shall be approved by:
 
-- the head of the inspectorate of education - for municipal schools and for state schools financed through the budget of the Ministry of Education, Youth and Science;
+1. the head of the inspectorate of education - for municipal schools and for state schools financed through the budget of the Ministry of Education, Youth and Science;
 
-- the respective minister or head of administrative body in coordination with the Minister of Education, Youth and Science - for state schools financed by the budget of another ministry or administrative body.
+2. the respective minister or head of administrative body in coordination with the Minister of Education, Youth and Science - for state schools financed by the budget of another ministry or administrative body.
 
 #### Article 19.
-(1) The curricula of special schools shall be appropriate for the health status or the social status of the students.
+(1) The curricula of special schools shall be appropriate for the health status
 
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+or the social status of the students.
 
 (2) The curricula referred to in Paragraph 1 shall be approved by the Minister of Education, Youth and Science.
 
@@ -310,7 +314,7 @@ Education Minimum and Curriculum Act
 (SG No. 95/2002, effective 8.10.2002)
 
 ### §  10.
-The  general education minimum shall be introduced from 1st grade for the 2002 2003 academic year.
+The general education minimum shall be introduced from 1st grade for the 2002 - 2003 academic year.
 
 ## TRANSITIONAL AND FINAL PROVISIONS
 
