@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-Pursuant to Article 82 paragraph 1 item 1 and Article 156 paragraphs 1 and 6 of  the  Constitution  of  Montenegro,  the  Parliament  of  Montenegro  -  25 th Parliamentary  Term,  at  the  12 th sitting  of  the  first  ordinary  (spring)  session  in 2013, held on 31 July 2013 adopted
+Pursuant to Article 82 paragraph 1 item 1 and Article 156 paragraphs 1 and 6 of the Constitution of Montenegro, the Parliament of Montenegro – 25th Parliamentary Term, at the 12th sitting of the first ordinary (spring) session in 2013, held on 31 July 2013 adopted
 
 # AMENDMENTS I TO XVI TO THE CONSTITUTION OF MONTENEGRO
 
@@ -30,9 +30,9 @@ This  Amendment  shall  replace  the  title  of  Article  34  and  Article  34  
 
 ## AMENDMENT  III
 
-- elect  and  release  from  duty  the  judges  of  the  Constitutional  Court, Supreme State Prosecutor and four members of the Judicial Council out of reputable lawyers;
+13) elect and release from duty the judges of the Constitutional Court, Supreme State Prosecutor and four members of the Judicial Council out of reputable lawyers;
 
-- appoint  and  release  from  duty:  the    Protector  of  Human  Rights  and Liberties;  the  Governor  of  the  Central  Bank  and  members  of  the  Council  of  the
+14) appoint and release from duty: the Protector of Human Rights and Liberties; the Governor of the Central Bank and members of the Council of the
 
 [[END OF PAGE 1]]
 
@@ -65,7 +65,7 @@ This Amendment replaces Article 95 item 5 of the Constitution of Montenegro.
 ## AMENDMENT  VI
 ### 5. JUDICIARY
 
-This Amendment replaces the title of the section 5. 'COURT' in Part 3 Regulation of authorities
+This Amendment replaces the title of the section 5. “COURT” in Part 3 – Regulation of authorities
 
 ## AMENDMENT VII
 
@@ -85,13 +85,13 @@ The Judicial Council shall have a president and nine members.
 
 The members of the Judicial Council shall be:
 
-- president of the Supreme Court;
+1) president of the Supreme Court;
 
-- four  judges  to  be  elected  and  released  from  duty  by  the  Conference  of Judges, taking into account equal representation of courts and judges;
+2) four judges to be elected and released from duty by the Conference of Judges, taking into account equal representation of courts and judges;
 
-- four  reputable  lawyers  that  are  elected  and  released  from  duty  by  the Parliament  at  proposal  of  the  competent  working  body  of  the  Parliament  upon announced public invitation;
+3) four reputable lawyers that are elected and released from duty by the Parliament at proposal of the competent working body of the Parliament upon announced public invitation;
 
-- Minister in charge of judicial affairs.
+4) Minister in charge of judicial affairs.
 
 The President of the Judicial Council shall be elected by the Judicial Council from among its members who do not perform judicial functions, by two-third majority vote of the members of the Judicial Council.
 
@@ -113,23 +113,23 @@ This Amendment shall replace the Article 127 of the Constitution of Montenegro.
 
 The Judicial Council shall:
 
-- elect and release from duty the president of the Supreme Court;
+1) elect and release from duty the president of the Supreme Court;
 
-- elect and release from duty the president of the Judicial Council;
+2) elect and release from duty the president of the Judicial Council;
 
-- submit the Report on the Performance of the Judicial Council and the Overall Judicial Situation to the Parliament;
+3) submit the Report on the Performance of the Judicial Council and the Overall Judicial Situation to the Parliament;
 
-- elect and release from duty the judge, the president of the court and the lay judge;
+4) elect and release from duty the judge, the president of the court and the lay judge;
 
-- deliberate  on  the  report  on  the  court  activities,  applications  and  complaints regarding the work of the court and take a standpoint with regard to them;
+5) deliberate on the report on the court activities, applications and complaints regarding the work of the court and take a standpoint with regard to them;
 
-- establish the cessation of the judicial duty;
+6) establish the cessation of the judicial duty;
 
-- establish the number of judges and lay judges;
+7) establish the number of judges and lay judges;
 
-- propose  to  the  Government  the  amount  of  funds  required  for  the  work  of courts;
+8) propose to the Government the amount of funds required for the work of courts;
 
-- perform other duties as stipulated by the law.
+9) perform other duties as stipulated by the law.
 
 The  Judicial  Council  shall  make  decisions  by  majority  vote  of  all  its  members except in the cases prescribed by the Constitution.
 
@@ -167,17 +167,17 @@ The  composition,  election,  mandate,  organisation  and  manner  of  work  of 
 
 The Prosecution Council shall:
 
-- establish the proposal for the election of the Supreme State Prosecutor;
+1) establish the proposal for the election of the Supreme State Prosecutor;
 
-- elect and release from the duty the heads of the state prosecution offices and state prosecutors;
+2) elect and release from the duty the heads of the state prosecution offices and state prosecutors;
 
-- establish  the  termination  of  the  function  of  the  heads  of  state  prosecution offices and state prosecutors;
+3) establish the termination of the function of the heads of state prosecution offices and state prosecutors;
 
-- propose  to  the  Government  the  amount  of  funds  for  the  work  of  the  state prosecution;
+4) propose to the Government the amount of funds for the work of the state prosecution;
 
-- submit the Report on Performance of the State Prosecution to the Parliament;
+5) submit the Report on Performance of the State Prosecution to the Parliament;
 
-- perform other activities as defined by the law.
+6) perform other activities as defined by the law.
 
 The  Prosecution  Council  shall  make  decisions  by  majority  vote  of  all  its members.
 
@@ -235,7 +235,7 @@ This Amendment shall replace Article 153 of the Constitution of Montenegro.
 
 Number: 00-13/13-1/10 EPA: 224 XXV Podgorica, 31 July 2013
 
-P A R L I A M E N T  O F  M O N T E N E G R O - 25 TH  PARLIAMENTARY TERM
+P A R L I A M E N T O F M O N T E N E G R O – 25TH PARLIAMENTARY TERM
 
 PRESIDENT Ranko Krivokapić
 
@@ -243,7 +243,7 @@ PRESIDENT Ranko Krivokapić
 
 [[START OF PAGE 8]]
 
-Based on Article  82  paragraph  1  item  2  and  Article  158  of  the  Constitution  of Montenegro, the Parliament of Montenegro, 25 th Parliamentary Term, at the 12 th sitting of the first regular (spring) session in 2013, held on 31 July 2013 adopted
+Based on Article 82 paragraph 1 item 2 and Article 158 of the Constitution of Montenegro, the Parliament of Montenegro, 25th Parliamentary Term, at the 12th sitting of the first regular (spring) session in 2013, held on 31 July 2013 adopted
 
 # CONSTITUTIONAL LAW ON IMPLEMENTATION OF AMENDMENTS I TO XVI TO THE CONSTITUTION OF MONTENEGRO
 
@@ -305,7 +305,7 @@ Podgorica, 31 July 2013
 
 [[START OF PAGE 10]]
 
-PARLIAMENT OF MONTENEGRO   -  25 TH  PARLIAMENTARY TERM
+PARLIAMENT OF MONTENEGRO - 25TH PARLIAMENTARY TERM
 
 PRESIDENT
 
