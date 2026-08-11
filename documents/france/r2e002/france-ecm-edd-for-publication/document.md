@@ -6,17 +6,17 @@
 
 ### A. À propos de la Recommandation de 1974
 
-- La Recommandation  sur  l'éducation  pour  la  compréhension,  la  coopération  et  la  paix internationales et l'éducation relative aux droits de l'homme et aux libertés fondamentales (1974) 1 (la « Recommandation de 1974 » ) vise à promouvoir l'éducation internationale et la paix mondiale par  la  compréhension,  la  solidarité  et  la  coopération  internationales.  Elle  a  été  adoptée  le 19 novembre 1974 par la Conférence générale de l'UNESCO à sa 18 e  session.
+1. La Recommandation sur l'éducation pour la compréhension, la coopération et la paix internationales et l'éducation relative aux droits de l'homme et aux libertés fondamentales (1974)1 (la « Recommandation de 1974 ») vise à promouvoir l'éducation internationale et la paix mondiale par la compréhension, la solidarité et la coopération internationales. Elle a été adoptée le 19 novembre 1974 par la Conférence générale de l'UNESCO à sa 18e session.
 
-- La Recommandation  de  1974 s'applique  à  tous  les  niveaux  de  l'éducation  formelle,  non formelle et informelle, de l'enseignement préprimaire à l'enseignement supérieur, à l'éducation des adultes et à l'apprentissage tout au long de la vie. La Conférence générale a recommandé « aux États membres d'appliquer » les dispositions de la Recommandation de 1974 « en adoptant, sous forme  de  loi  nationale  ou  autrement », des  mesures  qui  fournissent  un  appui  institutionnel  (par exemple, des politiques et des cadres juridiques) et pédagogique (par exemple, la formation des enseignants, les ressources pédagogiques, le matériel ou l'évaluation des apprenants) à sa mise en œuvre, sur la  base  des « objectifs » énoncés  au  paragraphe 4  de  la Recommandation de 1974 « considérés comme des principes directeurs de la politique de l'éducation », tels que la dimension internationale de l'éducation et son inscription dans une perspective mondiale, la diversité culturelle, l'interdépendance,  la  communication,  les  droits  et  responsabilités,  la  solidarité  et  la  coopération internationales et la résolution des problèmes.
+2. La Recommandation de 1974 s'applique à tous les niveaux de l'éducation formelle, non formelle et informelle, de l'enseignement préprimaire à l'enseignement supérieur, à l'éducation des adultes et à l'apprentissage tout au long de la vie. La Conférence générale a recommandé « aux États membres d'appliquer » les dispositions de la Recommandation de 1974 « en adoptant, sous forme de loi nationale ou autrement », des mesures qui fournissent un appui institutionnel (par exemple, des politiques et des cadres juridiques) et pédagogique (par exemple, la formation des enseignants, les ressources pédagogiques, le matériel ou l'évaluation des apprenants) à sa mise en œuvre, sur la base des « objectifs » énoncés au paragraphe 4 de la Recommandation de 1974 « considérés comme des principes directeurs de la politique de l'éducation », tels que la dimension internationale de l'éducation et son inscription dans une perspective mondiale, la diversité culturelle, l'interdépendance, la communication, les droits et responsabilités, la solidarité et la coopération internationales et la résolution des problèmes.
 
-- De nos jours, les principes de la Recommandation de 1974 s'appliquent  tout  aussi  bien  à l'éducation  en  vue  du  développement  durable  (EDD)  qu'à  l'éducation  à  la  citoyenneté  mondiale (ECM) et représentent donc un outil de choix pour promouvoir le Programme de développement durable à l'horizon 2030, et en particulier certaines cibles des objectifs de développement durable (ODD) : la cible 4.7 sur la promotion du développement durable et de la citoyenneté mondiale par l'éducation, la cible 12.8 sur l'accès aux informations nécessaires au développement durable et la cible 13.3 sur l'éducation aux changements climatiques.
+3. De nos jours, les principes de la Recommandation de 1974 s'appliquent tout aussi bien à l'éducation en vue du développement durable (EDD) qu'à l'éducation à la citoyenneté mondiale (ECM) et représentent donc un outil de choix pour promouvoir le Programme de développement durable à l'horizon 2030, et en particulier certaines cibles des objectifs de développement durable (ODD) : la cible 4.7 sur la promotion du développement durable et de la citoyenneté mondiale par l'éducation, la cible 12.8 sur l'accès aux informations nécessaires au développement durable et la cible 13.3 sur l'éducation aux changements climatiques.
 
-- À  sa  39 e session,  la  Conférence  générale  a  recommandé  de  s'appuyer  sur  le  processus d'établissement des rapports sur la Recommandation de 1974 afin de soutenir la mise en œuvre et le suivi de la cible 4.7 de l'ODD 4 (résolution 39 C/79). [À sa 209 e session, le Conseil exécutif de l'UNESCO a approuvé l'utilisation des présents principes directeurs à la fois aux fins du suivi de la Recommandation de 1974 et de la collecte des données nécessaires à cet indicateur mondial relatif aux ODD dont l'UNESCO est chargée (décision 209 EX/18.II)] :
+4. À sa 39e session, la Conférence générale a recommandé de s'appuyer sur le processus d'établissement des rapports sur la Recommandation de 1974 afin de soutenir la mise en œuvre et le suivi de la cible 4.7 de l'ODD 4 (résolution 39 C/79). [À sa 209e session, le Conseil exécutif de l'UNESCO a approuvé l'utilisation des présents principes directeurs à la fois aux fins du suivi de la Recommandation de 1974 et de la collecte des données nécessaires à cet indicateur mondial relatif aux ODD dont l'UNESCO est chargée (décision 209 EX/18.II)] :
 
-- 4.7.1,  12.8.1  et  13.3.1 : degré  d'intégration  de  (i) l'éducation  à  la  citoyenneté  mondiale  et (ii) l'éducation  au  développement  durable  dans  (a) les  politiques  nationales  d'éducation ; (b) les programmes d'enseignement ; (c) la formation des enseignants ; et (d) l'évaluation des étudiants.
+4.7.1, 12.8.1 et 13.3.1 : degré d'intégration de (i) l'éducation à la citoyenneté mondiale et (ii) l'éducation au développement durable dans (a) les politiques nationales d'éducation ; (b) les programmes d'enseignement ; (c) la formation des enseignants ; et (d) l'évaluation des étudiants.
 
-- Les questions signalées par un astérisque (*) serviront à calculer les indicateurs auxquels elles se  rapportent  ( tableau 1 ).  Conformément  à  ce  qui  a  été  approuvé  par  le  Groupe  d'experts  des Nations  Unies  et  de  l'extérieur  chargé  des  indicateurs  relatifs  aux  ODD,  les  indicateurs  seront uniquement calculés pour l'enseignement primaire et secondaire.
+5. Les questions signalées par un astérisque (*) serviront à calculer les indicateurs auxquels elles se rapportent (tableau 1). Conformément à ce qui a été approuvé par le Groupe d'experts des Nations Unies et de l'extérieur chargé des indicateurs relatifs aux ODD, les indicateurs seront uniquement calculés pour l'enseignement primaire et secondaire.
 
 > 1 http://portal.unesco.org/fr/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
@@ -30,19 +30,19 @@ Politiques | Programmes d'enseignement | Formation des enseignants | Évaluation
 --- | --- | --- | ---
 A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
-### Obligations en matière d'établissement des rapports
+### B. Obligations en matière d'établissement des rapports
 
-- À sa 18 e session, lors de l'adoption de la Recommandation de 1974, la Conférence générale, a recommandé « aux États membres de leur présenter […] des rapports concernant la suite donnée par eux à la présente recommandation ». En outre, en application de l'article VIII de l'Acte constitutif de l'UNESCO, « chaque État membre adresse à l'Organisation […] des rapports […] sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ».
+6. À sa 18e session, lors de l'adoption de la Recommandation de 1974, la Conférence générale, a recommandé « aux États membres de leur présenter […] des rapports concernant la suite donnée par eux à la présente recommandation ». En outre, en application de l'article VIII de l'Acte constitutif de l'UNESCO, « chaque État membre adresse à l'Organisation […] des rapports […] sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ».
 
-- Ainsi, tous les États membres de l'UNESCO sont censés rendre compte des mesures qu'ils ont prises pour faire appliquer la Recommandation de 1974, de préférence en complétant le présent questionnaire. Les rapports à ce sujet sont présentés tous les quatre ans.
+7. Ainsi, tous les États membres de l'UNESCO sont censés rendre compte des mesures qu'ils ont prises pour faire appliquer la Recommandation de 1974, de préférence en complétant le présent questionnaire. Les rapports à ce sujet sont présentés tous les quatre ans.
 
-## Principes directeurs relatifs au questionnaire
+## II. Principes directeurs relatifs au questionnaire
 
-- Le présent questionnaire et les principes directeurs qui l'accompagnent sont adressés aux ministres chargés des relations avec l'UNESCO. Le questionnaire est habituellement rempli par le Ministère de l'éducation et d'autres pouvoirs publics responsables de l'éducation. Dans la mesure du possible, les réponses doivent englober tous les niveaux administratifs chargés de l'éducation, y compris à l'échelle sous-nationale le cas échéant, ainsi que l'enseignement privé.
+8. Le présent questionnaire et les principes directeurs qui l'accompagnent sont adressés aux ministres chargés des relations avec l'UNESCO. Le questionnaire est habituellement rempli par le Ministère de l'éducation et d'autres pouvoirs publics responsables de l'éducation. Dans la mesure du possible, les réponses doivent englober tous les niveaux administratifs chargés de l'éducation, y compris à l'échelle sous-nationale le cas échéant, ainsi que l'enseignement privé.
 
-- Dans chaque pays, les personnes qui répondent au questionnaire sont encouragées à mener de larges consultations à la fois au sein, au travers et à l'extérieur du gouvernement, y compris auprès du Ministère de l'environnement, d'institutions nationales des droits de l'homme, du secteur de  l'éducation et de  partenaires de  la société civile, au  besoin,  afin  de  rassembler  les renseignements nécessaires pour le compléter.
+9. Dans chaque pays, les personnes qui répondent au questionnaire sont encouragées à mener de larges consultations à la fois au sein, au travers et à l'extérieur du gouvernement, y compris auprès du Ministère de l'environnement, d'institutions nationales des droits de l'homme, du secteur de l'éducation et de partenaires de la société civile, au besoin, afin de rassembler les renseignements nécessaires pour le compléter.
 
-- Les réponses à la septième consultation devraient couvrir :
+10. Les réponses à la septième consultation devraient couvrir :
 
 (i) la période 2017-2020 ;
 
@@ -52,7 +52,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) si possible, l'enseignement privé.
 
-- Pour aider les pays à remplir le présent questionnaire, l'UNESCO a défini un ensemble de thèmes relatifs à l'éducation à la citoyenneté mondiale et à l'éducation en vue du développement durable. Cette liste repose sur un examen des pratiques courantes dans de nombreux pays ainsi que sur l'analyse de publications pertinentes. Bien que certains pays puissent délimiter différemment l'EDD  et  l'ECM,  la  liste  des  thèmes  reprend  en  général  les  éléments  considérés  comme fondamentaux  de  la  cible 4.7.  Prière  de  se  référer  à  la  définition  des  termes  principaux  à  la section III avant de remplir le questionnaire.
+11. Pour aider les pays à remplir le présent questionnaire, l'UNESCO a défini un ensemble de thèmes relatifs à l'éducation à la citoyenneté mondiale et à l'éducation en vue du développement durable. Cette liste repose sur un examen des pratiques courantes dans de nombreux pays ainsi que sur l'analyse de publications pertinentes. Bien que certains pays puissent délimiter différemment l'EDD et l'ECM, la liste des thèmes reprend en général les éléments considérés comme fondamentaux de la cible 4.7. Prière de se référer à la définition des termes principaux à la section III avant de remplir le questionnaire.
 
 [[END OF PAGE 2]]
 
@@ -60,7 +60,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Éducation à la citoyenneté mondiale et éducation en vue du développement durable
 
-#### Diversité culturelle et tolérance
+#### 1. Diversité culturelle et tolérance
 
 - 1.1 Compréhension, solidarité et coopération à l'échelle internationale ou interculturelle
 
@@ -68,7 +68,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 1.3 Citoyenneté locale, nationale ou mondiale
 
-#### Égalité des genres dans l'éducation
+#### 2. Égalité des genres dans l'éducation
 
 - 2.1 Égalité des chances et parité
 
@@ -76,7 +76,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 2.3 Rôles, identités et stéréotypes fondés sur le genre
 
-#### Éducation aux droits de l'homme
+#### 3. Éducation aux droits de l'homme
 
 - 3.1 Respect de l'égalité et refus de toute discrimination fondée sur des motifs de race, de couleur, de sexe, de langue, de religion, de handicap, d'opinion politique ou toute autre opinion, d'origine nationale ou sociale, de naissance ou toute autre situation
 
@@ -92,7 +92,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 4.3 Lutte contre toutes les formes de violence parmi lesquelles le harcèlement, les insultes et les violences sexistes
 
-#### Éducation aux changements climatiques
+#### 5. Éducation aux changements climatiques
 
 - 5.1 Atténuation
 
@@ -102,7 +102,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 5.4 Alerte rapide
 
-#### Durabilité environnementale
+#### 6. Durabilité environnementale
 
 - 6.1 Protection de la planète et de la nature
 
@@ -110,7 +110,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 6.3 Eau et biodiversité
 
-#### Survie et bien-être de l'espèce humaine
+#### 7. Survie et bien-être de l'espèce humaine
 
 - 7.1 Salubrité  de  l'environnement  en  tant  qu'élément  essentiel  au  bien-être  de l'humanité et réduction des risques de catastrophe
 
@@ -118,7 +118,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 7.3 Villes et communautés durables
 
-#### Consommation et production durables
+#### 8. Consommation et production durables
 
 - 8.1 Modes de vie responsables et durables
 
@@ -135,7 +135,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 Terme | Définition
 --- | --- | ---
 Thèmes de l'éducation à la citoyenneté mondiale et de l'éducation en vue du développement durable
-1 | Diversité culturelle et tolérance | Il s'agit de l'éducation au sujet et en faveur de la diversité, y compris par le prisme de la langue, de l'appartenance ethnique, de la race ou de la religion. Son o bjectif est également de promouvoir la tolérance, le respect mutuel et l'appréciation de la diversité culturelle. Ce domaine englobe le dialogue interculturel et interreligieux ; la compréhension, la solidarité et la coopération ; et l'éducation civique.
+1 | Diversité culturelle et tolérance | Il s'agit de l'éducation au sujet et en faveur de la diversité, y compris par le prisme de la langue, de l'appartenance ethnique, de la race ou de la religion. Son objectif est également de promouvoir la tolérance, le respect mutuel et l'appréciation de la diversité culturelle. Ce domaine englobe le dialogue interculturel et interreligieux ; la compréhension, la solidarité et la coopération ; et l'éducation civique.
 2 | Égalité des genres dans l'éducation | Cet enseignement porte sur la question plus vaste de l'égalité des genres en favorisant l'adoption de nouveaux comportements et de nouvelles façons de penser, en faisant évoluer la façon dont chacun envisage les rôles traditionnellement assignés aux genres et en aidant à instaurer des changements pérennes, à long terme. Elle étudie la manière dont les rôles, les activités, les besoins, les possibilités, les droits et les avantages liés à chaque genre affectent différemment les hommes, les femmes, les filles et les garçons. Elle analyse les relations entre les personnes des deux genres, leur accès aux ressources et le contrôle qu'elles en ont ainsi que leurs contraintes les unes à l'égard des autres. Elle respecte au même titre les droits de tous les apprenants - femmes, hommes, garçons et filles - et leur ouvre un accès égal à des possibilités d'apprentissage, des ressources et des protections. L'ensemble des apprenants bénéficient d'une instruction et sont traités sur un pied d'égalité, sans être limités par des stéréotypes, des rôles attribués en fonction du genre et des préjugés. Ce domaine aborde l'égalité des genres et la parité ; l'égalité des genres et la justice de genre ; ainsi que les rôles, les identités et les stéréotypes fondés sur le genre.
 3 | Éducation aux droits de l'homme | L'éducation aux droits de l'homme défend le respect universel et effectif de tous les droits de l'homme et de toutes les libertés fondamentales et contribue ainsi, entre autres, à prévenir les atteintes aux droits de l'homme en permettant aux personnes de développer leurs connaissances, leurs compétences et leur compréhension de ces droits et en faisant évoluer leurs attitudes et comportements, en vue de leur donner les moyens de contribuer à l'édification et à la promotion d'une culture universelle des droits de l'homme. Elle englobe l'égalité et la non-discrimination ; les valeurs des droits de l'homme, la dignité humaine, la justice, l'inclusion et la participation ; ainsi que le respect des droits de l'homme et des libertés fondamentales.
 4 | Paix et non-violence | Il s'agit de l'éducation à la paix et à la consolidation de la paix, à la médiation, à la prévention et à la résolution des conflits, à la non-violence, à la réconciliation et au vivre-ensemble. L'éducation à la paix et à la non-violence consiste notamment à prôner des relations pacifiques entre les peuples et les nations ; à remettre en question les stéréotypes négatifs ; à promouvoir des solutions pacifiques ; à apprendre le vivre-ensemble ; et à lutter contre l'extrémisme violent ou toute autre forme de violence, y compris le harcèlement.
@@ -144,7 +144,7 @@ Thèmes de l'éducation à la citoyenneté mondiale et de l'éducation en vue du
 
 [[START OF PAGE 5]]
 
-5 | Éducation aux changements climatiques L'éducation aux changements climatiques consiste à enseigner à chacun, et en particulier aux jeunes, à comprendre les effets des changements climatiques, à s'en préoccuper, à les atténuer et à s'y adapter. Elle encourage les changements de mentalité et de comportement nécessaires pour engager la planète sur la voie d'un développement plus durable et pour
+5 | Éducation aux changements climatiques | L'éducation aux changements climatiques consiste à enseigner à chacun, et en particulier aux jeunes, à comprendre les effets des changements climatiques, à s'en préoccuper, à les atténuer et à s'y adapter. Elle encourage les changements de mentalité et de comportement nécessaires pour engager la planète sur la voie d'un développement plus durable et pour favoriser l'avènement d'une nouvelle génération de citoyens conscients des changements climatiques. Elle aborde différentes mesures face aux changements climatiques, dont l'atténuation des dégâts, l'adaptation, la réduction des effets et l'alerte rapide.
 --- | ---
 6 Durabilité environnementale | Il s'agit de l'éducation à des interactions responsables avec l'environnement afin d'éviter l'épuisement ou la dégradation des ressources et de défendre la qualité et la salubrité de l'environnement. Elle intègre la protection de la planète et de la nature ; la justice environnementale ; et l'eau et la biodiversité.
 7 Survie et bien-être de l'espèce humaine | Cet enseignement encourage le bien-être social et l'harmonie, y compris pour les générations futures, grâce à des écosystèmes sains. Il englobe l'état de la planète et de l'environnement en tant qu'élément du bien-être de l'humanité ; la réduction des risques de catastrophe ; et les villes et les communautés durables.
@@ -216,7 +216,7 @@ Autres (préciser) :
 
 ## VI. Questionnaire
 
-### Lois et politiques (préambule et paragraphes 4 et 7 de la Recommandation de 1974 )
+### A. Lois et politiques (préambule et paragraphes 4 et 7 de la Recommandation de 1974 )
 
 - A1a.  Veuillez  indiquer  les  lois,  législations  ou  cadres  juridiques  nationaux  ou  sous-nationaux spécifiques en vigueur dans votre pays qui favorisent la mise en place de l'éducation à la citoyenneté mondiale (ECM) et/ou de l'éducation en vue du développement durable (EDD). Expliquez  si  des  thèmes  de  l'ECM  et/ou  de  l'EDD 2 sont  mentionnés  de  façon  explicite  ou implicite et précisez les types d'éducation ou les niveaux d'enseignement concernés.
 
@@ -252,17 +252,17 @@ LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas, 99 = sans objet ( par exemple, lor
 
 Échelle nationale | Échelle sous-nationale
 --- | --- | --- | --- | --- | --- | --- | ---
-Pré- primaire | Primaire et secondaire | Supérieur | Éducation non formelle | Pré- primaire | Primaire et secondaire | Supérieur | Éducation non formelle
+Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle | Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 1. | Diversité culturelle et tolérance | 1 | 1 | 99 | 99
 2. | Égalité des genres | 1 | 1 | 99 | 99
 3. | Droits de l'homme | 1 | 1 | 99 | 99
-4. | Paix et non- violence | 1 | 1 | 99 | 99
+4. | Paix et non-violence | 1 | 1 | 99 | 99
 5. | Changements climatiques
 6. | Durabilité environnementale
 7. | Survie et bien-être de l'espèce humaine
 8. | Consommation et production durables
 
-- A3a.  Veuillez  indiquer  les  politiques,  orientations  ou  objectifs  stratégiques  nationaux  ou  sousnationaux relatifs à l'éducation actuellement en vigueur dans votre pays qui favorisent la mise en  place  de  l'éducation  à  la  citoyenneté  mondiale  (ECM)  et/ou  de  l'éducation  en  vue  du développement  durable  (EDD).  Expliquez  si  des  thèmes  de  l'ECM  et/ou  de  l'EDD  sont mentionnés de façon explicite ou implicite et précisez les types d'éducation ou les niveaux d'enseignement concernés 3 .
+- A3a. Veuillez indiquer les politiques, orientations ou objectifs stratégiques nationaux ou sous-nationaux relatifs à l'éducation actuellement en vigueur dans votre pays qui favorisent la mise en place de l'éducation à la citoyenneté mondiale (ECM) et/ou de l'éducation en vue du développement durable (EDD). Expliquez si des thèmes de l'ECM et/ou de l'EDD sont mentionnés de façon explicite ou implicite et précisez les types d'éducation ou les niveaux d'enseignement concernés 3 .
 
 La mise en œuvre de l'éducation à la citoyenneté s'inscrit dans des politiques publiques définies par les textes suivants :
 
@@ -304,11 +304,11 @@ Le parcours citoyen permet d'aborder les grands champs de l'éducation à la cit
 
 - l'éducation à la défense.
 
-- A3b.  Veuillez donner l'intitulé complet des politiques, orientations ou objectifs stratégiques relatifs à l'éducation  mentionnés en  A3a  et,  si  possible,  fournir  un  lien  Internet  vers  les  documents pertinents.
-
-*A4.  Veuillez  indiquer  quels  thèmes  de  l'ECM  et  de  l'EDD  sont  abordés  dans  les  politiques, orientations ou objectifs stratégiques nationaux ou sous-nationaux relatifs à l'éducation qui s'appliquent  à  chaque  niveau  d'enseignement  en  inscrivant  le  chiffre  correspondant  dans chacune des cases vierges.
+- A3b. Veuillez donner l'intitulé complet des politiques, orientations ou objectifs stratégiques relatifs à l'éducation mentionnés en A3a et, si possible, fournir un lien Internet vers les documents pertinents.
 
 Cf supra
+
+*A4. Veuillez indiquer quels thèmes de l'ECM et de l'EDD sont abordés dans les politiques, orientations ou objectifs stratégiques nationaux ou sous-nationaux relatifs à l'éducation qui s'appliquent à chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -327,7 +327,7 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 
 [[START OF PAGE 12]]
 
-*A5 Veuillez indiquer si les politiques, orientations ou objectifs stratégiques nationaux ou sousnationaux relatifs à l'éducation énoncent des directives visant à intégrer l'ECM et l'EDD dans les domaines suivants en inscrivant le chiffre correspondant dans chacune des cases vierges.
+*A5 Veuillez indiquer si les politiques, orientations ou objectifs stratégiques nationaux ou sous-nationaux relatifs à l'éducation énoncent des directives visant à intégrer l'ECM et l'EDD dans les domaines suivants en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas, 99 = non applicable ( par exemple, lorsque le niveau administratif précisé n'est pas celui chargé de l'éducation )
 
@@ -346,7 +346,7 @@ Définition d'objectifs d'apprentissage pour les programmes | 99 | 99
 Formation initiale et continue des enseignants | 99 | 99
 Évaluation des acquis des apprenants | 99 | 99
 
-### Programmes d'enseignement (paragraphes 4 et 10 à 19 de la Recommandation de 1974 )
+### B. Programmes d'enseignement (paragraphes 4 et 10 à 19 de la Recommandation de 1974 )
 
 - B1a.  Veuillez  décrire  par  quels  moyens  l'ECM  et  l'EDD  sont  intégrées  dans  les  programmes d'enseignement. Précisez si les sujets sont enseignés à part entière ou incorporés à d'autres matières. Expliquez si des thèmes de l'ECM et/ou de l'EDD sont mentionnés de façon explicite ou implicite et précisez les types d'éducation ou les niveaux d'enseignement concernés 4 .
 
@@ -354,7 +354,7 @@ Comme  le  mentionne  le  socle  de  connaissances,  de  compétences  et  de  c
 
 Cet objectif se décline à travers « l'apprentissage et à l'expérience des principes qui garantissent la liberté de  tous »,  « des  connaissances  et  à  la  compréhension  du  sens  du  droit  et  de  la  loi,  des  règles  qui permettent  la  participation  à  la  vie  collective  et  démocratique  et  de  la  notion  d'intérêt  général »,  « la connaissance,  la  compréhension  mais  aussi  la  mise  en  pratique  du  principe  de  laïcité,  qui  permet  le déploiement du civisme et l'implication de chacun dans la vie sociale, dans le respect de la  liberté de conscience ».
 
-Toutes les disciplines participent à cette finalité fondamentale. Si l'enseignement moral et civique est par sa nature au cœur de cet apprentissage et que la citoyenneté y est un objet d'apprentissage en lui-même, aucun  enseignement  ne  peut  se  faire  sans  une  dimension  citoyenne  affirmée.  Les  démarches pédagogiques  mises  en  œuvre  permettent  également  de  développer  des  compétences  favorisant l'expression de la citoyenneté dans la classe.
+Toutes les disciplines participent à cette finalité fondamentale. Si l'enseignement moral et civique est par sa nature au cœur de cet apprentissage et que la citoyenneté y est un objet d'apprentissage en lui-même, aucun enseignement ne peut se faire sans une dimension citoyenne affirmée. Les démarches
 
 > 4 Référez-vous à la liste figurant au paragraphe 11 de la section II des présents principes directeurs.
 
@@ -362,7 +362,9 @@ Toutes les disciplines participent à cette finalité fondamentale. Si l'enseign
 
 [[START OF PAGE 13]]
 
-Il  est  possible  d'identifier  plusieurs  grands  axes  de  cet  apprentissage déclinés  dans  les  différents enseignements:
+pédagogiques mises en œuvre permettent également de développer des compétences favorisant l'expression de la citoyenneté dans la classe.
+
+Il est possible d'identifier plusieurs grands axes de cet apprentissage déclinés dans les différents enseignements:
 
 - L'acquisition  des  connaissances  nécessaires  à  l'exercice  de  la  citoyenneté,  qu'il  s'agisse  de connaissances historiques, sociologiques, littéraires et artistiques, scientifiques, linguistiques, de tout ce qui est nécessaire à la compréhension des débats de société et de tout ce qui fonde une culture commune, indispensable à l'exercice d'une citoyenneté éclairée.
 
@@ -388,7 +390,7 @@ L'accès à des valeurs morales, civiques et sociales se fait à partir de situa
 
 [[START OF PAGE 14]]
 
-Dans  le  cadre  de  l'enseignement «Questionner  le  monde», les  élèves  commencent  à acquérir une conscience citoyenne en apprenant le respect des engagements envers soi et autrui,  en  adoptant  une attitude  raisonnée  fondée  sur  la  connaissance,  en  développant  un comportement responsable vis-àvis de l'environnement et de la santé. L'expression de leurs sentiments  et  de  leurs  émotions, leur régulation,  la  confrontation  de  leurs  perceptions  à celles  des  autres  s'appuient  également  sur l'ensemble  des  activités  artistiques,  sur l'enseignement  du  français  et  de  l'éducation  physique  et sportive. Ces  enseignements nourrissent  les  goûts  et  les  capacités  expressives,  fixent  les  règles et les exigences d'une production individuelle ou collective, éduquent aux codes de communication et d'expression, aident à acquérir le respect de soi et des autres, affûtent l'esprit critique. ls permettent aux élèves de donner leur avis, d'identifier et de remplir des rôles et des statuts différents dans les situations proposées; ils s'accompagnent de l'apprentissage d'un lexique où les notions de  droits  et  de  devoirs, de  protection,  de  liberté,  de  justice,  de  respect  et  de  laïcité  sont définies et construites. Débattre, argumenter rationnellement, émettre des conjectures et des réfutations simples, s'interroger sur les objets de la connaissance, commencer à résoudre des  problèmes  notamment  en  mathématiques  en formulant  et  en  justifiant  ses  choix développent le jugement et la confiance en soi. Les  langues vivantes  étrangères  et  régionales  participent  à  la  construction  de  la  confiance en soi lorsque la prise de parole est accompagnée, étayée et respectée. Cet enseignement permet l'acceptation de l'autre et alimente l'acquisition progressive de l'autonomie. Tous les enseignements concourent à développer le sens de l'engagement et de l'initiative, principalement dans la mise en œuvre de projets individuels et collectifs, avec ses pairs ou avec d'autres partenaires.
+Dans le cadre de l'enseignement «Questionner le monde», les élèves commencent à acquérir une conscience citoyenne en apprenant le respect des engagements envers soi et autrui, en adoptant une attitude raisonnée fondée sur la connaissance, en développant un comportement responsable vis-à-vis de l'environnement et de la santé. L'expression de leurs sentiments et de leurs émotions, leur régulation, la confrontation de leurs perceptions à celles des autres s'appuient également sur l'ensemble des activités artistiques, sur l'enseignement du français et de l'éducation physique et sportive. Ces enseignements nourrissent les goûts et les capacités expressives, fixent les règles et les exigences d'une production individuelle ou collective, éduquent aux codes de communication et d'expression, aident à acquérir le respect de soi et des autres, affûtent l'esprit critique. ls permettent aux élèves de donner leur avis, d'identifier et de remplir des rôles et des statuts différents dans les situations proposées; ils s'accompagnent de l'apprentissage d'un lexique où les notions de droits et de devoirs, de protection, de liberté, de justice, de respect et de laïcité sont définies et construites. Débattre, argumenter rationnellement, émettre des conjectures et des réfutations simples, s'interroger sur les objets de la connaissance, commencer à résoudre des problèmes notamment en mathématiques en formulant et en justifiant ses choix développent le jugement et la confiance en soi. Les langues vivantes étrangères et régionales participent à la construction de la confiance en soi lorsque la prise de parole est accompagnée, étayée et respectée. Cet enseignement permet l'acceptation de l'autre et alimente l'acquisition progressive de l'autonomie. Tous les enseignements concourent à développer le sens de l'engagement et de l'initiative, principalement dans la mise en œuvre de projets individuels et collectifs, avec ses pairs ou avec d'autres partenaires.
 
 #### Programme du cycle 3 et citoyenneté
 
@@ -398,9 +400,7 @@ Tous  les  arts  concourent  au  développement  de  la  sensibilité  à  la  f
 
 [[START OF PAGE 15]]
 
-*B2 Veuillez  indiquer  quels  thèmes  de  l'ECM  et  de  l'EDD  sont  enseignés  dans  le  cadre  des programmes pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
-
-*B3 Veuillez  indiquer  dans  quelles  matières  ou  quels  domaines  d'études  du  primaire  et  du secondaire  l'ECM  ou  l'EDD  sont  dispensées  en  inscrivant  le  chiffre  correspondant  dans chacune des cases vierges.
+*B2 Veuillez indiquer quels thèmes de l'ECM et de l'EDD sont enseignés dans le cadre des programmes pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -415,12 +415,14 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 7. | Survie et bien-être de l'espèce humaine
 8. | Consommation et production durables
 
+*B3 Veuillez indiquer dans quelles matières ou quels domaines d'études du primaire et du secondaire l'ECM ou l'EDD sont dispensées en inscrivant le chiffre correspondant dans chacune des cases vierges.
+
 LÉGENDE :
 
 0 = non, 1 = oui, 9 = ne sait pas
 
-Diversité culturelle et tolérance | Égalité des genres | Droits de l'homme | Paix et non- violence | Changements climatiques | Durabilité environne- mentale | Survie et bien-être de l'espèce humaine | Consommation et production durables
---- | --- | --- | --- | --- | --- | --- | ---
+ | Diversité culturelle et tolérance | Égalité des genres | Droits de l'homme | Paix et non-violence | Changements climatiques | Durabilité environnementale | Survie et bien-être de l'espèce humaine | Consommation et production durables
+--- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1
 Éducation civique ou à la citoyenneté | 1 | 1 | 1 | 1
 Éthique/cours de morale | 99* | 99* | 99* | 99*
@@ -428,7 +430,7 @@ Géographie | 1 | 1 | 1 | 1
 Éducation à la santé et éducation physique et sportive | 1 | 1 | 1 | 1
 Histoire | 1 | 1 | 1 | 1
 Langues | 1 | 1 | 1 | 1
-Mathématiques | 1
+Mathématiques |  | 1 |  |  |  |  |  | 
 Éducation religieuse | 99 | 99 | 99 | 99
 Sciences exactes et naturelles | 1 | 1 | 1 | 1
 Sciences sociales | 1 | 1 | 1 | 1
@@ -441,9 +443,7 @@ Autre (préciser)
 
 [[START OF PAGE 16]]
 
-*B4 Veuillez  indiquer  l'approche  utilisée  pour  enseigner  l'ECM  et  l'EDD  dans  l'enseignement primaire et secondaire en inscrivant le chiffre correspondant dans chacune des cases vierges.
-
-- B5 Veuillez indiquer quels thèmes de l'éducation aux droits de l'homme sont enseignés dans le cadre  des  programmes  pour  chaque  niveau  d'enseignement  en  inscrivant  le  chiffre correspondant dans chacune des cases vierges.
+*B4 Veuillez indiquer l'approche utilisée pour enseigner l'ECM et l'EDD dans l'enseignement primaire et secondaire en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -453,6 +453,8 @@ ECM/EDD enseignée comme matière à part entière | 1
 Approche interdisciplinaire ( par exemple, l'EDD/l'ECM est enseignée dans plus d'une matière, mais pas dans toutes les matières du programme ) | 1
 Approche intégrée ( par exemple, l'EDD/l'ECM est enseignée dans toutes les matières du programme ) | 1
 Approche scolaire globale ( par exemple, l'EDD/l'ECM est intégrée à la vision, à la gestion et la gouvernance de l'établissement, aux programmes, à la formation des enseignants, aux pratiques d'enseignement, au milieu d'apprentissage ainsi qu'aux expériences d'apprentissage dans le tissu social et dans la vie à l'extérieur de l'établissement ) | 1
+
+B5 Veuillez indiquer quels thèmes de l'éducation aux droits de l'homme sont enseignés dans le cadre des programmes pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -467,7 +469,7 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 
 [[START OF PAGE 17]]
 
-### Formation  des  enseignants (y  compris  formation  des  formateurs  et  des  éducateurs) (paragraphes 4 et 33 à 37 de la Recommandation de 1974 )
+### C. Formation des enseignants (y compris formation des formateurs et des éducateurs) (paragraphes 4 et 33 à 37 de la Recommandation de 1974 )
 
 - C1a.  Veuillez décrire par quels moyens l'ECM et l'EDD sont intégrées à la formation initiale et à la formation  professionnelle  continue  des  enseignants,  des  formateurs  et  des  éducateurs. Indiquez si la totalité des enseignants, des formateurs et des éducateurs ou si seule une partie d'entre eux doivent être formés à l'enseignement de l'ECM et/ou de l'EDD.
 
@@ -507,8 +509,6 @@ Quelques ressources de formation sur l'égalité filles-garçons
 
 *C2 Veuillez indiquer si les enseignants, les formateurs et les éducateurs sont formés à enseigner l'ECM et l'EDD pendant leur formation initiale et/ou à l'occasion d'une formation professionnelle continue. Inscrivez le chiffre correspondant dans chacune des cases vierges.
 
-*C3 Veuillez indiquer dans quels thèmes de l'ECM et de l'EDD des formations initiales ou continues sont  proposées  aux  enseignants,  aux  formateurs  et  aux  éducateurs  pour  chaque  niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
-
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
 Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
@@ -519,6 +519,8 @@ Formation initiale
 Formation professionnelle continue
 À destination d'enseignants de certaines matières seulement (qui servent habituellement de support à l'ECM ou l'EDD) | 1 | 1
 À destination d'enseignants d'autres matières | 1 | 1
+
+*C3 Veuillez indiquer dans quels thèmes de l'ECM et de l'EDD des formations initiales ou continues sont proposées aux enseignants, aux formateurs et aux éducateurs pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -537,9 +539,7 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 
 [[START OF PAGE 19]]
 
-*C4   Veuillez indiquer si les enseignants, les formateurs et les éducateurs sont formés à enseigner les  dimensions  de  l'apprentissage  de  l'ECM  et  de  l'EDD  suivantes.  Inscrivez  le  chiffre correspondant dans chacune des cases vierges.
-
-*C5 Veuillez  indiquer  si  les  enseignants,  les  formateurs  et  les  éducateurs  sont  formés  aux approches  suivantes  pour  enseigner  l'ECM  et  l'EDD  dans  l'enseignement  primaire  et secondaire en inscrivant le chiffre correspondant dans chacune des cases vierges.
+*C4 Veuillez indiquer si les enseignants, les formateurs et les éducateurs sont formés à enseigner les dimensions de l'apprentissage de l'ECM et de l'EDD suivantes. Inscrivez le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -549,6 +549,8 @@ Connaissances | 1 | 1
 Compétences | 1 | 1
 Valeurs | 1 | 1
 Attitudes et comportements | 1 | 1
+
+*C5 Veuillez indiquer si les enseignants, les formateurs et les éducateurs sont formés aux approches suivantes pour enseigner l'ECM et l'EDD dans l'enseignement primaire et secondaire en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -573,9 +575,7 @@ L'éducation à citoyenneté est évaluée au DNB (Diplôme national du brevet),
 
 [[START OF PAGE 20]]
 
-*D2 Veuillez indiquer si les thèmes de l'ECM et de l'EDD suivants sont généralement abordés dans les  évaluations  ou  les  examens  des  apprenants  pour  chaque  niveau  d'enseignement  en inscrivant le chiffre correspondant dans chacune des cases vierges.
-
-*D3 Veuillez indiquer lesquelles des dimensions de l'apprentissage de l'ECM et de l'EDD suivantes sont  généralement  abordées  dans  les  évaluations  ou  les  examens  des  apprenants  pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
+*D2 Veuillez indiquer si les thèmes de l'ECM et de l'EDD suivants sont généralement abordés dans les évaluations ou les examens des apprenants pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -590,6 +590,8 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 7. | Survie et bien-être de l'espèce humaine
 8. | Consommation et production durables
 
+*D3 Veuillez indiquer lesquelles des dimensions de l'apprentissage de l'ECM et de l'EDD suivantes sont généralement abordées dans les évaluations ou les examens des apprenants pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
+
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
 Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
@@ -603,29 +605,17 @@ Attitudes et comportements | 1 | 1
 
 [[START OF PAGE 21]]
 
-### Intégration  de  l'ECM  et  de  l'EDD  dans  les  lois  et  les  politiques,  les  programmes d'enseignement, la formation des enseignants et l'évaluation des apprenants (paragraphes 4 et 5, 10 à 19 et 33 à 37 de la Recommandation de 1974 )
+### E. Intégration de l'ECM et de l'EDD dans les lois et les politiques, les programmes d'enseignement, la formation des enseignants et l'évaluation des apprenants (paragraphes 4 et 5, 10 à 19 et 33 à 37 de la Recommandation de 1974 )
 
 *E1 D'après  vos  réponses  aux  questions  des  quatre  sections  précédentes  (lois  et  politiques, programmes  d'enseignement,  formation  des  enseignants  et  évaluation  des  apprenants), veuillez  indiquer  dans  quelle  mesure  l'éducation  à  la  citoyenneté  mondiale  (ECM)  et l'éducation en vue du développement durable (EDD) sont intégrées 5  dans votre pays (a) aux lois et aux politiques dans le domaine de l'éducation, (b) aux programmes d'enseignement, (c) à la formation des enseignants (y compris la formation des formateurs et des éducateurs) et  (d) à  l'évaluation  des  apprenants.  Inscrivez  le  chiffre  correspondant  dans  chacune  des cases vierges.
 
 LÉGENDE :
 
-0 = pas du tout
-
-1 = en partie
-
-2 = en profondeur
-
-9 = ne sait pas
-
-99 = sans objet L'ECM et l'EDD ne sont pas intégrées.
-
-Certains thèmes de l'ECM et/ou de l'EDD 6 sont intégrés. Choisissez cette option si l'ECM est intégrée, mais que l'EDD ne l'est pas (ou inversement).
-
-La plupart des thèmes de l'ECM et/ou de l'EDD sont intégrés.
-
-On ignore si l'ECM et l'EDD sont intégrées.
-
-Le niveau administratif précisé n'est pas chargé de l'élément indiqué (politiques, programmes d'enseignement, formation des enseignants ou évaluation des apprenants) et/ou n'est pas chargé du niveau d'enseignement ou du type d'éducation indiqué. Cela peut se produire pour le niveau national (dans les pays fédéraux où l'éducation incombe à chaque État) ou pour le niveau sous-national (dans les petits pays où il n'existe qu'un seul niveau administratif).
+0 = pas du tout | L'ECM et l'EDD ne sont pas intégrées.
+1 = en partie | Certains thèmes de l'ECM et/ou de l'EDD6 sont intégrés. Choisissez cette option si l'ECM est intégrée, mais que l'EDD ne l'est pas (ou inversement).
+2 = en profondeur | La plupart des thèmes de l'ECM et/ou de l'EDD sont intégrés.
+9 = ne sait pas | On ignore si l'ECM et l'EDD sont intégrées.
+99 = sans objet | Le niveau administratif précisé n'est pas chargé de l'élément indiqué (politiques, programmes d'enseignement, formation des enseignants ou évaluation des apprenants) et/ou n'est pas chargé du niveau d'enseignement ou du type d'éducation indiqué. Cela peut se produire pour le niveau national (dans les pays fédéraux où l'éducation incombe à chaque État) ou pour le niveau sous-national (dans les petits pays où il n'existe qu'un seul niveau administratif).
 
 Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 --- | --- | --- | ---
@@ -640,31 +630,31 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 (c) | Formation des enseignants | 99 | 99
 (d) | Évaluation des apprenants | 99 | 99
 
-> 5 On considère l'ECM et  l'EDD  comme  intégrées  lorsque  leurs  thèmes  sont  explicitement  mentionnés  dans  les documents pertinents et que leur mise en pratique est prévue par les administrations concernées (par exemple, les ministères et les pouvoirs publics régionaux ou locaux chargés de l'éducation), les établissements d'enseignement (par exemple, les établissements scolaires, les instituts de formation et les universités) et/ou les professionnels de l'enseignement (par exemple, les enseignants, les professeurs, les formateurs et les éducateurs), le cas échéant. 6
+> 5 On considère l'ECM et l'EDD comme intégrées lorsque leurs thèmes sont explicitement mentionnés dans les documents pertinents et que leur mise en pratique est prévue par les administrations concernées (par exemple, les ministères et les pouvoirs publics régionaux ou locaux chargés de l'éducation), les établissements d'enseignement (par exemple, les établissements scolaires, les instituts de formation et les universités) et/ou les professionnels de l'enseignement (par exemple, les enseignants, les professeurs, les formateurs et les éducateurs), le cas échéant.
 
-> Référez-vous à la liste figurant au paragraphe 11 de la section II des présents principes directeurs.
+> 6 Référez-vous à la liste figurant au paragraphe 11 de la section II des présents principes directeurs.
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-### Enseignement  et  formation  techniques  et  professionnels (paragraphes 25  à  29  de  la Recommandation de 1974 )
+### F. Enseignement et formation techniques et professionnels (paragraphes 25 à 29 de la Recommandation de 1974 )
 
 - F1 Veuillez décrire les grandes initiatives qui ont été entreprises pour mettre en place l'ECM et/ou l'EDD dans l'enseignement et la formation techniques et professionnels. Décrivez brièvement les  résultats  et  les  retombées  de  ces  initiatives  et  fournissez  des  exemples  de  bonnes pratiques.
 
 Les programmes d'enseignement moral et civique, qui fixent le cadre de l'ECM dans le système éducatif français, valent aussi bien pour les formations générales que techniques et professionnelles. Les contenus d'enseignement et les méthodes pédagogiques sont comparables, à cela près que la réalisation d'un projet est au cœur des méthodes développées pour les enseignements techniques et professionnels (cf. supra)
 
-### Éducation des adultes (paragraphe 30 de la Recommandation de 1974 )
+### G. Éducation des adultes (paragraphe 30 de la Recommandation de 1974 )
 
 - G1 Veuillez décrire les grandes initiatives qui ont été entreprises pour mettre en place l'ECM et/ou l'EDD  dans  l'éducation  des  adultes  et  dans  d'autres  formes  d'éducation  non  formelle,  y compris la sensibilisation des jeunes, l'éducation extrascolaire, etc. Décrivez brièvement les résultats et les retombées de ces initiatives et fournissez des exemples de bonnes pratiques.
 
-### Recherche et coopération internationale (paragraphes 41 à 45 de la Recommandation de 1974 )
+### H. Recherche et coopération internationale (paragraphes 41 à 45 de la Recommandation de 1974 )
 
 - H1 Veuillez  décrire  quels  travaux  de  recherche  ou  d'expérimentation  ont  été  menés  afin  de favoriser le déploiement de l'ECM et/ou de l'EDD. Décrivez brièvement la manière dont les résultats de ces activités ont influencé les politiques éducatives, les programmes d'enseignement et/ou les pratiques pédagogiques.
 
-Dans le cadre des appels à projets de la Commission européenne (programme Erasmus +), la France a participé à une expérimentation sur l'apprentissage actif de la citoyenneté (projet ACT - https://www.france-education-international.fr/mobilite-internationale/expertise/projets-fondseuropeens/act et https://www.act-euproject.com/?lang=fr)
+Dans le cadre des appels à projets de la Commission européenne (programme Erasmus +), la France a participé à une expérimentation sur l'apprentissage actif de la citoyenneté (projet ACT - https://www.france-education-international.fr/mobilite-internationale/expertise/projets-fonds-europeens/act et https://www.act-euproject.com/?lang=fr)
 
-La France est par ailleurs membre du réseau EPAN mis en place par le Conseil de l'Europe / https://www.coe.int/en/web/reference-framework-of-competences-for-democraticculture/education-policy-advisers-network-epan-
+La France est par ailleurs membre du réseau EPAN mis en place par le Conseil de l'Europe / https://www.coe.int/en/web/reference-framework-of-competences-for-democratic-culture/education-policy-advisers-network-epan-
 
 [[END OF PAGE 22]]
 
@@ -699,17 +689,17 @@ Autres activités (précisez) :
 
 ### A. À propos de la Recommandation de 1974
 
-- La Recommandation  sur  l'éducation  pour  la  compréhension,  la  coopération  et  la  paix internationales et l'éducation relative aux droits de l'homme et aux libertés fondamentales (1974) 1 (la « Recommandation de 1974 » ) vise à promouvoir l'éducation internationale et la paix mondiale par  la  compréhension,  la  solidarité  et  la  coopération  internationales.  Elle  a  été  adoptée  le 19 novembre 1974 par la Conférence générale de l'UNESCO à sa 18 e  session.
+1. La Recommandation sur l'éducation pour la compréhension, la coopération et la paix internationales et l'éducation relative aux droits de l'homme et aux libertés fondamentales (1974)1 (la « Recommandation de 1974 ») vise à promouvoir l'éducation internationale et la paix mondiale par la compréhension, la solidarité et la coopération internationales. Elle a été adoptée le 19 novembre 1974 par la Conférence générale de l'UNESCO à sa 18e session.
 
-- La Recommandation  de  1974 s'applique  à  tous  les  niveaux  de  l'éducation  formelle,  non formelle et informelle, de l'enseignement préprimaire à l'enseignement supérieur, à l'éducation des adultes et à l'apprentissage tout au long de la vie. La Conférence générale a recommandé « aux États membres d'appliquer » les dispositions de la Recommandation de 1974 « en adoptant, sous forme  de  loi  nationale  ou  autrement », des  mesures  qui  fournissent  un  appui  institutionnel  (par exemple, des politiques et des cadres juridiques) et pédagogique (par exemple, la formation des enseignants, les ressources pédagogiques, le matériel ou l'évaluation des apprenants) à sa mise en œuvre, sur la  base  des « objectifs » énoncés  au  paragraphe 4  de  la Recommandation de 1974 « considérés comme des principes directeurs de la politique de l'éducation », tels que la dimension internationale de l'éducation et son inscription dans une perspective mondiale, la diversité culturelle, l'interdépendance,  la  communication,  les  droits  et  responsabilités,  la  solidarité  et  la  coopération internationales et la résolution des problèmes.
+2. La Recommandation de 1974 s'applique à tous les niveaux de l'éducation formelle, non formelle et informelle, de l'enseignement préprimaire à l'enseignement supérieur, à l'éducation des adultes et à l'apprentissage tout au long de la vie. La Conférence générale a recommandé « aux États membres d'appliquer » les dispositions de la Recommandation de 1974 « en adoptant, sous forme de loi nationale ou autrement », des mesures qui fournissent un appui institutionnel (par exemple, des politiques et des cadres juridiques) et pédagogique (par exemple, la formation des enseignants, les ressources pédagogiques, le matériel ou l'évaluation des apprenants) à sa mise en œuvre, sur la base des « objectifs » énoncés au paragraphe 4 de la Recommandation de 1974 « considérés comme des principes directeurs de la politique de l'éducation », tels que la dimension internationale de l'éducation et son inscription dans une perspective mondiale, la diversité culturelle, l'interdépendance, la communication, les droits et responsabilités, la solidarité et la coopération internationales et la résolution des problèmes.
 
-- De nos jours, les principes de la Recommandation de 1974 s'appliquent  tout  aussi  bien  à l'éducation  en  vue  du  développement  durable  (EDD)  qu'à  l'éducation  à  la  citoyenneté  mondiale (ECM) et représentent donc un outil de choix pour promouvoir le Programme de développement durable à l'horizon 2030, et en particulier certaines cibles des objectifs de développement durable (ODD) : la cible 4.7 sur la promotion du développement durable et de la citoyenneté mondiale par l'éducation, la cible 12.8 sur l'accès aux informations nécessaires au développement durable et la cible 13.3 sur l'éducation aux changements climatiques.
+3. De nos jours, les principes de la Recommandation de 1974 s'appliquent tout aussi bien à l'éducation en vue du développement durable (EDD) qu'à l'éducation à la citoyenneté mondiale (ECM) et représentent donc un outil de choix pour promouvoir le Programme de développement durable à l'horizon 2030, et en particulier certaines cibles des objectifs de développement durable (ODD) : la cible 4.7 sur la promotion du développement durable et de la citoyenneté mondiale par l'éducation, la cible 12.8 sur l'accès aux informations nécessaires au développement durable et la cible 13.3 sur l'éducation aux changements climatiques.
 
-- À  sa  39 e session,  la  Conférence  générale  a  recommandé  de  s'appuyer  sur  le  processus d'établissement des rapports sur la Recommandation de 1974 afin de soutenir la mise en œuvre et le suivi de la cible 4.7 de l'ODD 4 (résolution 39 C/79). [À sa 209 e session, le Conseil exécutif de l'UNESCO a approuvé l'utilisation des présents principes directeurs à la fois aux fins du suivi de la Recommandation de 1974 et de la collecte des données nécessaires à cet indicateur mondial relatif aux ODD dont l'UNESCO est chargée (décision 209 EX/18.II)] :
+4. À sa 39e session, la Conférence générale a recommandé de s'appuyer sur le processus d'établissement des rapports sur la Recommandation de 1974 afin de soutenir la mise en œuvre et le suivi de la cible 4.7 de l'ODD 4 (résolution 39 C/79). [À sa 209e session, le Conseil exécutif de l'UNESCO a approuvé l'utilisation des présents principes directeurs à la fois aux fins du suivi de la Recommandation de 1974 et de la collecte des données nécessaires à cet indicateur mondial relatif aux ODD dont l'UNESCO est chargée (décision 209 EX/18.II)] :
 
-- 4.7.1,  12.8.1  et  13.3.1 : degré  d'intégration  de  (i) l'éducation  à  la  citoyenneté  mondiale  et (ii) l'éducation  au  développement  durable  dans  (a) les  politiques  nationales  d'éducation ; (b) les programmes d'enseignement ; (c) la formation des enseignants ; et (d) l'évaluation des étudiants.
+4.7.1, 12.8.1 et 13.3.1 : degré d'intégration de (i) l'éducation à la citoyenneté mondiale et (ii) l'éducation au développement durable dans (a) les politiques nationales d'éducation ; (b) les programmes d'enseignement ; (c) la formation des enseignants ; et (d) l'évaluation des étudiants.
 
-- Les questions signalées par un astérisque (*) serviront à calculer les indicateurs auxquels elles se  rapportent  ( tableau 1 ).  Conformément  à  ce  qui  a  été  approuvé  par  le  Groupe  d'experts  des Nations  Unies  et  de  l'extérieur  chargé  des  indicateurs  relatifs  aux  ODD,  les  indicateurs  seront uniquement calculés pour l'enseignement primaire et secondaire.
+5. Les questions signalées par un astérisque (*) serviront à calculer les indicateurs auxquels elles se rapportent (tableau 1). Conformément à ce qui a été approuvé par le Groupe d'experts des Nations Unies et de l'extérieur chargé des indicateurs relatifs aux ODD, les indicateurs seront uniquement calculés pour l'enseignement primaire et secondaire.
 
 > 1 http://portal.unesco.org/fr/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
@@ -723,19 +713,19 @@ Politiques | Programmes d'enseignement | Formation des enseignants | Évaluation
 --- | --- | --- | ---
 A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
-### Obligations en matière d'établissement des rapports
+### B. Obligations en matière d'établissement des rapports
 
-- À sa 18 e session, lors de l'adoption de la Recommandation de 1974, la Conférence générale, a recommandé « aux États membres de leur présenter […] des rapports concernant la suite donnée par eux à la présente recommandation ». En outre, en application de l'article VIII de l'Acte constitutif de l'UNESCO, « chaque État membre adresse à l'Organisation […] des rapports […] sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ».
+6. À sa 18e session, lors de l'adoption de la Recommandation de 1974, la Conférence générale, a recommandé « aux États membres de leur présenter […] des rapports concernant la suite donnée par eux à la présente recommandation ». En outre, en application de l'article VIII de l'Acte constitutif de l'UNESCO, « chaque État membre adresse à l'Organisation […] des rapports […] sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ».
 
-- Ainsi, tous les États membres de l'UNESCO sont censés rendre compte des mesures qu'ils ont prises pour faire appliquer la Recommandation de 1974, de préférence en complétant le présent questionnaire. Les rapports à ce sujet sont présentés tous les quatre ans.
+7. Ainsi, tous les États membres de l'UNESCO sont censés rendre compte des mesures qu'ils ont prises pour faire appliquer la Recommandation de 1974, de préférence en complétant le présent questionnaire. Les rapports à ce sujet sont présentés tous les quatre ans.
 
-## Principes directeurs relatifs au questionnaire
+## II. Principes directeurs relatifs au questionnaire
 
-- Le présent questionnaire et les principes directeurs qui l'accompagnent sont adressés aux ministres chargés des relations avec l'UNESCO. Le questionnaire est habituellement rempli par le Ministère de l'éducation et d'autres pouvoirs publics responsables de l'éducation. Dans la mesure du possible, les réponses doivent englober tous les niveaux administratifs chargés de l'éducation, y compris à l'échelle sous-nationale le cas échéant, ainsi que l'enseignement privé.
+8. Le présent questionnaire et les principes directeurs qui l'accompagnent sont adressés aux ministres chargés des relations avec l'UNESCO. Le questionnaire est habituellement rempli par le Ministère de l'éducation et d'autres pouvoirs publics responsables de l'éducation. Dans la mesure du possible, les réponses doivent englober tous les niveaux administratifs chargés de l'éducation, y compris à l'échelle sous-nationale le cas échéant, ainsi que l'enseignement privé.
 
-- Dans chaque pays, les personnes qui répondent au questionnaire sont encouragées à mener de larges consultations à la fois au sein, au travers et à l'extérieur du gouvernement, y compris auprès du Ministère de l'environnement, d'institutions nationales des droits de l'homme, du secteur de  l'éducation et de  partenaires de  la société civile, au  besoin,  afin  de  rassembler  les renseignements nécessaires pour le compléter.
+9. Dans chaque pays, les personnes qui répondent au questionnaire sont encouragées à mener de larges consultations à la fois au sein, au travers et à l'extérieur du gouvernement, y compris auprès du Ministère de l'environnement, d'institutions nationales des droits de l'homme, du secteur de l'éducation et de partenaires de la société civile, au besoin, afin de rassembler les renseignements nécessaires pour le compléter.
 
-- Les réponses à la septième consultation devraient couvrir :
+10. Les réponses à la septième consultation devraient couvrir :
 
 (i) la période 2017-2020 ;
 
@@ -745,7 +735,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) si possible, l'enseignement privé.
 
-- Pour aider les pays à remplir le présent questionnaire, l'UNESCO a défini un ensemble de thèmes relatifs à l'éducation à la citoyenneté mondiale et à l'éducation en vue du développement durable. Cette liste repose sur un examen des pratiques courantes dans de nombreux pays ainsi que sur l'analyse de publications pertinentes. Bien que certains pays puissent délimiter différemment l'EDD  et  l'ECM,  la  liste  des  thèmes  reprend  en  général  les  éléments  considérés  comme fondamentaux  de  la  cible 4.7.  Prière  de  se  référer  à  la  définition  des  termes  principaux  à  la section III avant de remplir le questionnaire.
+11. Pour aider les pays à remplir le présent questionnaire, l'UNESCO a défini un ensemble de thèmes relatifs à l'éducation à la citoyenneté mondiale et à l'éducation en vue du développement durable. Cette liste repose sur un examen des pratiques courantes dans de nombreux pays ainsi que sur l'analyse de publications pertinentes. Bien que certains pays puissent délimiter différemment l'EDD et l'ECM, la liste des thèmes reprend en général les éléments considérés comme fondamentaux de la cible 4.7. Prière de se référer à la définition des termes principaux à la section III avant de remplir le questionnaire.
 
 [[END OF PAGE 25]]
 
@@ -753,7 +743,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Éducation à la citoyenneté mondiale et éducation en vue du développement durable
 
-#### Diversité culturelle et tolérance
+#### 1. Diversité culturelle et tolérance
 
 - 1.1 Compréhension, solidarité et coopération à l'échelle internationale ou interculturelle
 
@@ -761,7 +751,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 1.3 Citoyenneté locale, nationale ou mondiale
 
-#### Égalité des genres dans l'éducation
+#### 2. Égalité des genres dans l'éducation
 
 - 2.1 Égalité des chances et parité
 
@@ -769,7 +759,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 2.3 Rôles, identités et stéréotypes fondés sur le genre
 
-#### Éducation aux droits de l'homme
+#### 3. Éducation aux droits de l'homme
 
 - 3.1 Respect de l'égalité et refus de toute discrimination fondée sur des motifs de race, de couleur, de sexe, de langue, de religion, de handicap, d'opinion politique ou toute autre opinion, d'origine nationale ou sociale, de naissance ou toute autre situation
 
@@ -785,7 +775,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 4.3 Lutte contre toutes les formes de violence parmi lesquelles le harcèlement, les insultes et les violences sexistes
 
-#### Éducation aux changements climatiques
+#### 5. Éducation aux changements climatiques
 
 - 5.1 Atténuation
 
@@ -795,7 +785,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 5.4 Alerte rapide
 
-#### Durabilité environnementale
+#### 6. Durabilité environnementale
 
 - 6.1 Protection de la planète et de la nature
 
@@ -803,7 +793,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 6.3 Eau et biodiversité
 
-#### Survie et bien-être de l'espèce humaine
+#### 7. Survie et bien-être de l'espèce humaine
 
 - 7.1 Salubrité  de  l'environnement  en  tant  qu'élément  essentiel  au  bien-être  de l'humanité et réduction des risques de catastrophe
 
@@ -811,7 +801,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 7.3 Villes et communautés durables
 
-#### Consommation et production durables
+#### 8. Consommation et production durables
 
 - 8.1 Modes de vie responsables et durables
 
@@ -828,7 +818,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 Terme | Définition
 --- | --- | ---
 Thèmes de l'éducation à la citoyenneté mondiale et de l'éducation en vue du développement durable
-1 | Diversité culturelle et tolérance | Il s'agit de l'éducation au sujet et en faveur de la diversité, y compris par le prisme de la langue, de l'appartenance ethnique, de la race ou de la religion. Son o bjectif est également de promouvoir la tolérance, le respect mutuel et l'appréciation de la diversité culturelle. Ce domaine englobe le dialogue interculturel et interreligieux ; la compréhension, la solidarité et la coopération ; et l'éducation civique.
+1 | Diversité culturelle et tolérance | Il s'agit de l'éducation au sujet et en faveur de la diversité, y compris par le prisme de la langue, de l'appartenance ethnique, de la race ou de la religion. Son objectif est également de promouvoir la tolérance, le respect mutuel et l'appréciation de la diversité culturelle. Ce domaine englobe le dialogue interculturel et interreligieux ; la compréhension, la solidarité et la coopération ; et l'éducation civique.
 2 | Égalité des genres dans l'éducation | Cet enseignement porte sur la question plus vaste de l'égalité des genres en favorisant l'adoption de nouveaux comportements et de nouvelles façons de penser, en faisant évoluer la façon dont chacun envisage les rôles traditionnellement assignés aux genres et en aidant à instaurer des changements pérennes, à long terme. Elle étudie la manière dont les rôles, les activités, les besoins, les possibilités, les droits et les avantages liés à chaque genre affectent différemment les hommes, les femmes, les filles et les garçons. Elle analyse les relations entre les personnes des deux genres, leur accès aux ressources et le contrôle qu'elles en ont ainsi que leurs contraintes les unes à l'égard des autres. Elle respecte au même titre les droits de tous les apprenants - femmes, hommes, garçons et filles - et leur ouvre un accès égal à des possibilités d'apprentissage, des ressources et des protections. L'ensemble des apprenants bénéficient d'une instruction et sont traités sur un pied d'égalité, sans être limités par des stéréotypes, des rôles attribués en fonction du genre et des préjugés. Ce domaine aborde l'égalité des genres et la parité ; l'égalité des genres et la justice de genre ; ainsi que les rôles, les identités et les stéréotypes fondés sur le genre.
 3 | Éducation aux droits de l'homme | L'éducation aux droits de l'homme défend le respect universel et effectif de tous les droits de l'homme et de toutes les libertés fondamentales et contribue ainsi, entre autres, à prévenir les atteintes aux droits de l'homme en permettant aux personnes de développer leurs connaissances, leurs compétences et leur compréhension de ces droits et en faisant évoluer leurs attitudes et comportements, en vue de leur donner les moyens de contribuer à l'édification et à la promotion d'une culture universelle des droits de l'homme. Elle englobe l'égalité et la non-discrimination ; les valeurs des droits de l'homme, la dignité humaine, la justice, l'inclusion et la participation ; ainsi que le respect des droits de l'homme et des libertés fondamentales.
 4 | Paix et non-violence | Il s'agit de l'éducation à la paix et à la consolidation de la paix, à la médiation, à la prévention et à la résolution des conflits, à la non-violence, à la réconciliation et au vivre-ensemble. L'éducation à la paix et à la non-violence consiste notamment à prôner des relations pacifiques entre les peuples et les nations ; à remettre en question les stéréotypes négatifs ; à promouvoir des solutions pacifiques ; à apprendre le vivre-ensemble ; et à lutter contre l'extrémisme violent ou toute autre forme de violence, y compris le harcèlement.
@@ -837,8 +827,7 @@ Thèmes de l'éducation à la citoyenneté mondiale et de l'éducation en vue du
 
 [[START OF PAGE 28]]
 
-5 | Éducation aux changements climatiques L'éducation aux changements climatiques consiste à enseigner à chacun, et en particulier aux jeunes, à comprendre les effets des changements climatiques, à s'en préoccuper, à les atténuer et à s'y adapter. Elle encourage les changements de mentalité et de comportement nécessaires pour engager la planète sur la voie d'un développement plus durable et pour
---- | ---
+5 | Éducation aux changements climatiques | L'éducation aux changements climatiques consiste à enseigner à chacun, et en particulier aux jeunes, à comprendre les effets des changements climatiques, à s'en préoccuper, à les atténuer et à s'y adapter. Elle encourage les changements de mentalité et de comportement nécessaires pour engager la planète sur la voie d'un développement plus durable et pour favoriser l'avènement d'une nouvelle génération de citoyens conscients des changements climatiques. Elle aborde différentes mesures face aux changements climatiques, dont l'atténuation des dégâts, l'adaptation, la réduction des effets et l'alerte rapide.
 6 Durabilité environnementale | Il s'agit de l'éducation à des interactions responsables avec l'environnement afin d'éviter l'épuisement ou la dégradation des ressources et de défendre la qualité et la salubrité de l'environnement. Elle intègre la protection de la planète et de la nature ; la justice environnementale ; et l'eau et la biodiversité.
 7 Survie et bien-être de l'espèce humaine | Cet enseignement encourage le bien-être social et l'harmonie, y compris pour les générations futures, grâce à des écosystèmes sains. Il englobe l'état de la planète et de l'environnement en tant qu'élément du bien-être de l'humanité ; la réduction des risques de catastrophe ; et les villes et les communautés durables.
 8 Consommation et production durables | Il s'agit d'éduquer à l'utilisation et à la production de ressources, de produits et de services ayant le moins d'effets néfastes possibles sur l'environnement. Cet enseignement fait valoir l'efficacité énergétique et l'efficacité des ressources, les infrastructures durables et les emplois verts. Il porte notamment sur les modes de vie responsables et durables ; l'économie verte ; ainsi que les énergies renouvelables
@@ -909,7 +898,7 @@ Autres (préciser) :
 
 ## VI. Questionnaire
 
-### Lois et politiques (préambule et paragraphes 4 et 7 de la Recommandation de 1974 )
+### A. Lois et politiques (préambule et paragraphes 4 et 7 de la Recommandation de 1974 )
 
 - A1a.  Veuillez  indiquer  les  lois,  législations  ou  cadres  juridiques  nationaux  ou  sous-nationaux spécifiques en vigueur dans votre pays qui favorisent la mise en place de l'éducation à la citoyenneté mondiale (ECM) et/ou de l'éducation en vue du développement durable (EDD). Expliquez  si  des  thèmes  de  l'ECM  et/ou  de  l'EDD 2 sont  mentionnés  de  façon  explicite  ou implicite et précisez les types d'éducation ou les niveaux d'enseignement concernés.
 
@@ -951,11 +940,11 @@ En France, l'échelon sous-national de mise en œuvre est l'échelon des académ
 
 A1b.  Veuillez donner l'intitulé complet des lois, législations ou cadres juridiques mentionnés en A1a et, si possible, fournir un lien Internet vers les documents pertinents.
 
-- Charte de l'environnement adossée à la Constitution française en 2005 : Article 8 : « L'éducation et la formation à l'environnement doivent contribuer à l'exercice des droits et devoirs définis par la présente Charte. » (https://www.legifrance.gouv.fr/contenu/menu/droit-national-envigueur/constitution/charte-de-l-environnement)
+- Charte de l'environnement adossée à la Constitution française en 2005 : Article 8 : « L'éducation et la formation à l'environnement doivent contribuer à l'exercice des droits et devoirs définis par la présente Charte. » (https://www.legifrance.gouv.fr/contenu/menu/droit-national-en-vigueur/constitution/charte-de-l-environnement)
 
 -Code de l'éducation : l'EDD fait partie des missions de l'Ecole : article L. 312-19 du code de l'éducation
 
-https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000027680 249/#LEGISCTA000027680249
+https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000027680249/#LEGISCTA000027680249
 
 -Loi d'orientation et de refondation de l'École du 8 juillet 2013 (article 42) https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000027678260
 
@@ -969,7 +958,7 @@ https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000
 
 -Circulaire du 24 septembre 2020 : « Renforcement de l'éducation au développement durable » https://www.education.gouv.fr/bo/20/Hebdo36/MENE2025449C.htm
 
-- Projet de loi n°3875 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (projet déposé à l'Assemblée nationale le 10 février 2021) https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/lutte-contre-le-dereglementclimatique-fin-de-l-examen-des-articles-en-1ere-lecture
+- Projet de loi n°3875 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (projet déposé à l'Assemblée nationale le 10 février 2021) https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/lutte-contre-le-dereglement-climatique-fin-de-l-examen-des-articles-en-1ere-lecture
 
 *A2 Veuillez indiquer quels thèmes de l'ECM et de l'EDD sont abordés dans les lois, législations ou cadres juridiques nationaux ou sous-nationaux relatifs à l'éducation en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
@@ -977,17 +966,17 @@ LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas, 99 = sans objet ( par exemple, lor
 
 Échelle nationale | Échelle sous-nationale
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pré- primaire | Primaire et secondaire | Supérieur | Éducation non formelle | Pré- primaire | Primaire et secondaire | Supérieur | Éducation non formelle
+Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle | Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 1. | Diversité culturelle et tolérance
 2. | Égalité des genres
 3. | Droits de l'homme
-4. | Paix et non- violence
+4. | Paix et non-violence
 5. | Changements climatiques | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 6. | Durabilité environnementale | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 7. | Survie et bien-être de l'espèce humaine | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 8. | Consommation et production durables | 1 | 1 | 1 | 1 | 99 | 99 | 99 | 99
 
-- A3a.  Veuillez  indiquer  les  politiques,  orientations  ou  objectifs  stratégiques  nationaux  ou  sousnationaux relatifs à l'éducation actuellement en vigueur dans votre pays qui favorisent la mise en  place  de  l'éducation  à  la  citoyenneté  mondiale  (ECM)  et/ou  de  l'éducation  en  vue  du développement  durable  (EDD).  Expliquez  si  des  thèmes  de  l'ECM  et/ou  de  l'EDD  sont mentionnés de façon explicite ou implicite et précisez les types d'éducation ou les niveaux d'enseignement concernés 3 .
+- A3a.  Veuillez  indiquer  les  politiques,  orientations  ou  objectifs  stratégiques  nationaux  ou  sous-nationaux relatifs à l'éducation actuellement en vigueur dans votre pays qui favorisent la mise en  place  de  l'éducation  à  la  citoyenneté  mondiale  (ECM)  et/ou  de  l'éducation  en  vue  du développement  durable  (EDD).  Expliquez  si  des  thèmes  de  l'ECM  et/ou  de  l'EDD  sont mentionnés de façon explicite ou implicite et précisez les types d'éducation ou les niveaux d'enseignement concernés 3 .
 
 Comme indiqué précédemment, l'EDD fait l'objet de politiques et orientations nationales depuis les années 1990.
 
@@ -1072,7 +1061,7 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 
 [[START OF PAGE 37]]
 
-*A5 Veuillez indiquer si les politiques, orientations ou objectifs stratégiques nationaux ou sousnationaux relatifs à l'éducation énoncent des directives visant à intégrer l'ECM et l'EDD dans les domaines suivants en inscrivant le chiffre correspondant dans chacune des cases vierges.
+*A5 Veuillez indiquer si les politiques, orientations ou objectifs stratégiques nationaux ou sous-nationaux relatifs à l'éducation énoncent des directives visant à intégrer l'ECM et l'EDD dans les domaines suivants en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas, 99 = non applicable ( par exemple, lorsque le niveau administratif précisé n'est pas celui chargé de l'éducation )
 
@@ -1127,7 +1116,9 @@ Cet apprentissage est approfondi et complexifié dans les cycles 3 et 4, notamme
 
 [[START OF PAGE 39]]
 
-Un autre axe essentiel est la réflexion sur les relations entre les humains et l'environnement, sur la façon dont cette relation  influe  sur  la  vie  des  femmes  et  des  hommes.  Dès  les  premiers  cycles,  le  domaine « Questionner le monde » amène à réfléchir sur ces relations, en complément du travail sur la notion ellemême, en appuyant notamment sur les effets de l'activité humaine. Cette réflexion est reprise en français et dans les disciplines artistiques, pour travailler le regard sur la nature et l'environnement à travers des auteurs et artistes de différentes époques. On la retrouve en histoire, notamment autour de l'accélération de l'influence des hommes sur leur environnement depuis les débuts de l'industrialisation. Enfin,  les  programmes  amènent  à  porter  la  réflexion  sur  les  conséquences  des  questions  liées  au développement  durable  sur  la  vie  en  société.  La  géographie  a  placé  au  cœur  de  sa  réflexion  le développement durable, dans le but de comprendre et d'évaluer la façon dont les sociétés organisent leurs territoires  par  rapport  à  ces  problématiques.  Les  enseignements  de  langues  permettent  également  de mieux comprendre ces notions en montrant la façon dont elles sont perçues dans d'autres sociétés, par exemple par la façon dont les phénomènes y sont nommés. L'enseignement moral et civique, comme les sciences de la vie de la terre, pose la question de la responsabilité humaine, individuelle comme collective, ainsi que celle de l'engagement, à la lumière de ces connaissances mobilisées sur l'environnement et sa relation avec les sociétés.
+Un autre axe essentiel est la réflexion sur les relations entre les humains et l'environnement, sur la façon dont cette relation influe sur la vie des femmes et des hommes. Dès les premiers cycles, le domaine « Questionner le monde » amène à réfléchir sur ces relations, en complément du travail sur la notion elle-même, en appuyant notamment sur les effets de l'activité humaine. Cette réflexion est reprise en français et dans les disciplines artistiques, pour travailler le regard sur la nature et l'environnement à travers des auteurs et artistes de différentes époques. On la retrouve en histoire, notamment autour de l'accélération de l'influence des hommes sur leur environnement depuis les débuts de l'industrialisation.
+
+Enfin, les programmes amènent à porter la réflexion sur les conséquences des questions liées au développement durable sur la vie en société. La géographie a placé au cœur de sa réflexion le développement durable, dans le but de comprendre et d'évaluer la façon dont les sociétés organisent leurs territoires par rapport à ces problématiques. Les enseignements de langues permettent également de mieux comprendre ces notions en montrant la façon dont elles sont perçues dans d'autres sociétés, par exemple par la façon dont les phénomènes y sont nommés. L'enseignement moral et civique, comme les sciences de la vie de la terre, pose la question de la responsabilité humaine, individuelle comme collective, ainsi que celle de l'engagement, à la lumière de ces connaissances mobilisées sur l'environnement et sa relation avec les sociétés.
 
 B1b.  Veuillez proposer des exemples de programmes d'enseignement qui intègrent l'ECM et/ou l'EDD et, si possible, fournir un lien Internet vers les documents pertinents.
 
@@ -1175,7 +1166,7 @@ D'abord, une nécessaire et progressive compréhension de l'environnement et du 
 
 Cet apprentissage est approfondi et complexifié dans les cycles 3 et 4, notamment en sciences, que ce soit par la contextualisation de notions mathématiques (la nécessité de calculs, de modèles pour comprendre le système climatique) ou de physique-chimie (identification des gaz à effet de serre, conversion d'énergie, interaction, équilibres). En sciences de la vie et de la Terre, la compréhension des enjeux du réchauffement climatique et de la biodiversité (notion au cœur des programmes) est travaillée de façon spiralaire, de façon à montrer d'un cycle à l'autre la nécessité d'une approche systémique des phénomènes pour en saisir de mieux en mieux la complexité.
 
-Un autre axe essentiel est la réflexion sur les relations entre les humains et l'environnement, sur la façon dont cette relation influe sur la vie des femmes et des hommes. Dès les premiers cycles, le domaine « Questionner le monde » amène à réfléchir sur ces relations, en complément du travail sur la notion ellemême, en appuyant notamment sur les effets de l'activité humaine. Cette réflexion est reprise en français et dans les disciplines artistiques, pour travailler le regard sur la nature et l'environnement à travers des auteurs et artistes de différentes époques. On la retrouve en histoire, notamment autour de l'accélération de l'influence des hommes sur leur environnement depuis les débuts de l'industrialisation.
+Un autre axe essentiel est la réflexion sur les relations entre les humains et l'environnement, sur la façon dont cette relation influe sur la vie des femmes et des hommes. Dès les premiers cycles, le domaine « Questionner le monde » amène à réfléchir sur ces relations, en complément du travail sur la notion elle-même, en appuyant notamment sur les effets de l'activité humaine. Cette réflexion est reprise en français et dans les disciplines artistiques, pour travailler le regard sur la nature et l'environnement à travers des auteurs et artistes de différentes époques. On la retrouve en histoire, notamment autour de l'accélération de l'influence des hommes sur leur environnement depuis les débuts de l'industrialisation.
 
 Enfin, les programmes amènent à porter la réflexion sur les conséquences des questions liées au développement durable sur la vie en société . La géographie a placé au cœur de sa réflexion le développement durable, dans le but de comprendre et d'évaluer la façon dont les sociétés organisent leurs territoires par rapport à ces problématiques. Les enseignements de langues permettent également de mieux comprendre ces notions en montrant la façon dont elles sont perçues dans d'autres sociétés, par exemple par la façon dont les phénomènes y sont nommés. L'Enseignement moral et civique, comme les sciences de la vie de la terre, posent la question de la responsabilité humaine, individuelle comme collective, ainsi que celle de l'engagement, à la lumière de ces connaissances mobilisées sur l'environnement et sa relation avec les sociétés
 
@@ -1187,7 +1178,7 @@ Enfin, les programmes amènent à porter la réflexion sur les conséquences des
 
 Programmes de SVT du cycle 4 (5 e  - 4 e  - 3 e )
 
-https://eduscol.education.fr/svt/enseigner/ressources-par-theme-de-programme/ecolecollege/cycle-4.html
+https://eduscol.education.fr/svt/enseigner/ressources-par-theme-de-programme/ecole-college/cycle-4.html
 
 ##### Organisation en 3 thèmes :
 
@@ -1205,11 +1196,11 @@ Pour les 3 années de lycée (SVT obligatoire en 2de à raison d'1h30 semaine - 
 
 2019/00/8/spe647_annexe_1063008.pdf
 
--Programme de spécialité SVT en classe de 1 ère https://cache.media.eduscol.education.fr/file/SP1-MEN-22-12019/54/2/spe648_annexe_1063542.pdf
+-Programme de spécialité SVT en classe de 1ère https://cache.media.eduscol.education.fr/file/SP1-MEN-22-1-2019/54/2/spe648_annexe_1063542.pdf
 
 -Programme de spécialité SVT en classe de Tle
 
-https://cache.media.eduscol.education.fr/file/SPE8_MENJ_25_7_2019/11/4/spe252_annexe_115 9114.pdf
+https://cache.media.eduscol.education.fr/file/SPE8_MENJ_25_7_2019/11/4/spe252_annexe_1159114.pdf
 
 ##### Quelques exemples :
 
@@ -1237,19 +1228,17 @@ Programmes enseignement scientifique de 1 ère  :
 
 [[START OF PAGE 42]]
 
-https://cache.media.eduscol.education.fr/file/Enseignement_scientifique/58/3/Programme2020_Ens_Sci_ COM_1eG_modifie_1313583.pdf
+https://cache.media.eduscol.education.fr/file/Enseignement_scientifique/58/3/Programme2020_Ens_Sci_COM_1eG_modifie_1313583.pdf
 
 Programmes d'enseignement scientifique de Terminale :
 
-https://cache.media.eduscol.education.fr/file/SPE8_MENJ_25_7_2019/84/7/spe241_annexe_1158847.pd f
+https://cache.media.eduscol.education.fr/file/SPE8_MENJ_25_7_2019/84/7/spe241_annexe_1158847.pdf
 
 Exemple de thème en 1ère : « le soleil, notre source d'énergie »
 
 Exemple de thème en Terminale : « sciences, climat et société » - « le futur des énergies » - « une histoire du vivant »
 
 *B2 Veuillez  indiquer  quels  thèmes  de  l'ECM  et  de  l'EDD  sont  enseignés  dans  le  cadre  des programmes pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
-
-*B3 Veuillez  indiquer  dans  quelles  matières  ou  quels  domaines  d'études  du  primaire  et  du secondaire  l'ECM  ou  l'EDD  sont  dispensées  en  inscrivant  le  chiffre  correspondant  dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -1264,9 +1253,11 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 7. | Survie et bien-être de l'espèce humaine | 1 | 1 | 1 | 1
 8. | Consommation et production durables | 1 | 1 | 1 | 1
 
+*B3 Veuillez  indiquer  dans  quelles  matières  ou  quels  domaines  d'études  du  primaire  et  du secondaire  l'ECM  ou  l'EDD  sont  dispensées  en  inscrivant  le  chiffre  correspondant  dans chacune des cases vierges.
+
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
-Diversité culturelle et tolérance | Égalité des genres | Droits de l'homme | Paix et non- violence | Changements climatiques | Durabilité environne- mentale | Survie et bien-être de l'espèce humaine | Consommation et production durables
+Diversité culturelle et tolérance | Égalité des genres | Droits de l'homme | Paix et non-violence | Changements climatiques | Durabilité environnementale | Survie et bien-être de l'espèce humaine | Consommation et production durables
 --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1
 Éducation civique ou à la citoyenneté | 1 | 1 | 1 | 1
@@ -1283,7 +1274,7 @@ Mathématiques | 1 | 1 | 1 | 1
 
 Éducation religieuse | 99 | 99 | 99 | 99
 --- | --- | --- | --- | --- | ---
-Sciences exactes naturelles | et | 1 | 1 | 1 | 1
+Sciences exactes et naturelles | 1 | 1 | 1 | 1
 Sciences sociales | 1 | 1 | 1 | 1
 Études intégrées | 1 | 1 | 1 | 1
 Autre (préciser)
@@ -1326,7 +1317,7 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 3.2 | Valeurs des droits de l'homme, dignité humaine, justice, inclusion et participation
 3.3 | Respect des droits de l'homme et des libertés fondamentales (comme énoncé dans les conventions et déclarations internationales)
 
-### Formation  des  enseignants (y  compris  formation  des  formateurs  et  des  éducateurs) (paragraphes 4 et 33 à 37 de la Recommandation de 1974 )
+### C. Formation des enseignants (y compris formation des formateurs et des éducateurs) (paragraphes 4 et 33 à 37 de la Recommandation de 1974 )
 
 - C1a.  Veuillez décrire par quels moyens l'ECM et l'EDD sont intégrées à la formation initiale et à la formation  professionnelle  continue  des  enseignants,  des  formateurs  et  des  éducateurs. Indiquez si la totalité des enseignants, des formateurs et des éducateurs ou si seule une partie d'entre eux doivent être formés à l'enseignement de l'ECM et/ou de l'EDD.
 
@@ -1344,7 +1335,7 @@ https://eduscol.education.fr/425/plan-national-de-formation-pnf
 
 Plan national de formation (PNF) :
 
-https://cache.media.eduscol.education.fr/file/Formation_continue_enseignants/97/8/Programme _du_PNF_2020-2021_1310978.pdf
+https://cache.media.eduscol.education.fr/file/Formation_continue_enseignants/97/8/Programme_du_PNF_2020-2021_1310978.pdf
 
 Schéma directeur de la formation continue des personnels de l'éducation nationale 2019-2022 https://www.education.gouv.fr/bo/19/Hebdo35/MENH1927275C.htm?cid_bo=145323
 
@@ -1369,12 +1360,10 @@ Formation professionnelle continue
 
 *C3 Veuillez indiquer dans quels thèmes de l'ECM et de l'EDD des formations initiales ou continues sont  proposées  aux  enseignants,  aux  formateurs  et  aux  éducateurs  pour  chaque  niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
-*C4   Veuillez indiquer si les enseignants, les formateurs et les éducateurs sont formés à enseigner les  dimensions  de  l'apprentissage  de  l'ECM  et  de  l'EDD  suivantes.  Inscrivez  le  chiffre correspondant dans chacune des cases vierges.
-
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
 Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | --- | ---
 1. | Diversité culturelle et tolérance
 2. | Égalité des genres
 3. | Droits de l'homme
@@ -1383,6 +1372,8 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 6. | Durabilité environnementale | 1 | 1 | 1 | 1
 7. | Survie et bien-être de l'espèce humaine | 1 | 1 | 1 | 1
 8. | Consommation et production durables | 1 | 1 | 1 | 1
+
+*C4 Veuillez indiquer si les enseignants, les formateurs et les éducateurs sont formés à enseigner les dimensions de l'apprentissage de l'ECM et de l'EDD suivantes. Inscrivez le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -1414,7 +1405,7 @@ Approche scolaire globale ( par exemple, l'EDD/l'ECM est intégrée à la vision
 
 L'évaluation de l'EDD se fait à travers l'évaluation de toutes les matières. Il n'y a pas d'évaluation spécifique, à part,  de l'EDD
 
-D'autre part, une rubrique est également prévue dans le livret scolaire pour valoriser l'engagement des élèves ce qui permet notamment de valoriser l'engagement des élèves qui se sont engagés comme écodélégués dans leur classe
+D'autre part, une rubrique est également prévue dans le livret scolaire pour valoriser l'engagement des élèves ce qui permet notamment de valoriser l'engagement des élèves qui se sont engagés comme éco-délégués dans leur classe
 
 [[END OF PAGE 47]]
 
@@ -1422,12 +1413,10 @@ D'autre part, une rubrique est également prévue dans le livret scolaire pour v
 
 *D2 Veuillez indiquer si les thèmes de l'ECM et de l'EDD suivants sont généralement abordés dans les  évaluations  ou  les  examens  des  apprenants  pour  chaque  niveau  d'enseignement  en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
-*D3 Veuillez indiquer lesquelles des dimensions de l'apprentissage de l'ECM et de l'EDD suivantes sont  généralement  abordées  dans  les  évaluations  ou  les  examens  des  apprenants  pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
-
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
 Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | --- | ---
 1. | Diversité culturelle et tolérance
 2. | Égalité des genres
 3. | Droits de l'homme
@@ -1436,6 +1425,8 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 6. | Durabilité environnementale | 1 | 1 | 1 | 1
 7. | Survie et bien-être de l'espèce humaine | 1 | 1 | 1 | 1
 8. | Consommation et production durables | 1 | 1 | 1 | 1
+
+*D3 Veuillez indiquer lesquelles des dimensions de l'apprentissage de l'ECM et de l'EDD suivantes sont généralement abordées dans les évaluations ou les examens des apprenants pour chaque niveau d'enseignement en inscrivant le chiffre correspondant dans chacune des cases vierges.
 
 LÉGENDE : 0 = non, 1 = oui, 9 = ne sait pas
 
@@ -1450,7 +1441,7 @@ Attitudes et comportements | 1 | 1 | 1 | 1
 
 [[START OF PAGE 49]]
 
-### Intégration  de  l'ECM  et  de  l'EDD  dans  les  lois  et  les  politiques,  les  programmes d'enseignement, la formation des enseignants et l'évaluation des apprenants (paragraphes 4 et 5, 10 à 19 et 33 à 37 de la Recommandation de 1974 )
+### E. Intégration de l'ECM et de l'EDD dans les lois et les politiques, les programmes d'enseignement, la formation des enseignants et l'évaluation des apprenants (paragraphes 4 et 5, 10 à 19 et 33 à 37 de la Recommandation de 1974 )
 
 *E1 D'après  vos  réponses  aux  questions  des  quatre  sections  précédentes  (lois  et  politiques, programmes  d'enseignement,  formation  des  enseignants  et  évaluation  des  apprenants), veuillez  indiquer  dans  quelle  mesure  l'éducation  à  la  citoyenneté  mondiale  (ECM)  et l'éducation en vue du développement durable (EDD) sont intégrées 5  dans votre pays (a) aux lois et aux politiques dans le domaine de l'éducation, (b) aux programmes d'enseignement, (c) à la formation des enseignants (y compris la formation des formateurs et des éducateurs) et  (d) à  l'évaluation  des  apprenants.  Inscrivez  le  chiffre  correspondant  dans  chacune  des cases vierges.
 
@@ -1495,7 +1486,7 @@ Préprimaire | Primaire et secondaire | Supérieur | Éducation non formelle
 
 [[START OF PAGE 50]]
 
-### Enseignement  et  formation  techniques  et  professionnels (paragraphes 25  à  29  de  la Recommandation de 1974 )
+### F. Enseignement et formation techniques et professionnels (paragraphes 25 à 29 de la Recommandation de 1974 )
 
 - F1 Veuillez décrire les grandes initiatives qui ont été entreprises pour mettre en place l'ECM et/ou l'EDD dans l'enseignement et la formation techniques et professionnels. Décrivez brièvement les  résultats  et  les  retombées  de  ces  initiatives  et  fournissez  des  exemples  de  bonnes pratiques.
 
@@ -1509,7 +1500,7 @@ Dans les nouveaux programmes de la rentrée de septembre 2019 pour le lycée pro
 
 [[START OF PAGE 51]]
 
-### Éducation des adultes (paragraphe 30 de la Recommandation de 1974 )
+### G. Éducation des adultes (paragraphe 30 de la Recommandation de 1974 )
 
 - G1 Veuillez décrire les grandes initiatives qui ont été entreprises pour mettre en place l'ECM et/ou l'EDD  dans  l'éducation  des  adultes  et  dans  d'autres  formes  d'éducation  non  formelle,  y compris la sensibilisation des jeunes, l'éducation extrascolaire, etc. Décrivez brièvement les résultats et les retombées de ces initiatives et fournissez des exemples de bonnes pratiques.
 
@@ -1521,7 +1512,7 @@ Orientations décidées en 2021 pour développer l'EDD dans la sensibilisation d
 
 -lier le déploiement du plan national « aisance aquatique » , destiné aux enfants de maternelle, puis le savoir nager dans le second degré, avec une première découverte des milieux aquatiques et des enjeux liés au changement climatique pour l'ensemble des ressources en eau
 
-### Recherche et coopération internationale (paragraphes 41 à 45 de la Recommandation de 1974 )
+### H. Recherche et coopération internationale (paragraphes 41 à 45 de la Recommandation de 1974 )
 
 - H1 Veuillez  décrire  quels  travaux  de  recherche  ou  d'expérimentation  ont  été  menés  afin  de favoriser le déploiement de l'ECM et/ou de l'EDD. Décrivez brièvement la manière dont les résultats de ces activités ont influencé les politiques éducatives, les programmes d'enseignement et/ou les pratiques pédagogiques.
 
