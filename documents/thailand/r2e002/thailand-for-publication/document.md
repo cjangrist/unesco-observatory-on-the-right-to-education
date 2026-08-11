@@ -90,7 +90,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 - 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+- 4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
 - climate change education
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -225,7 +225,7 @@ Others (please specify) :
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
 
 #### A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -245,11 +245,11 @@ Others (please specify) :
 
 #### A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
-- National  Strategy  Plan  B.E.  2561  -  2580  (2018  -  2037)  http://nscr.nesdb.go.th/wpcontent/uploads/2019/10/National-Strategy-Eng-Final-25-OCT-2019.pdf
+- National  Strategy  Plan  B.E.  2561  -  2580  (2018  -  2037)  http://nscr.nesdb.go.th/wp-content/uploads/2019/10/National-Strategy-Eng-Final-25-OCT-2019.pdf
 
 - The 12 th National Economic and Social Development Plan (2017-2021) https://www.nesdc.go.th/ewt_dl_link.php?nid=9640
 
-- The National Scheme of Education, B.E. 2560-2579 (2017-2036) https://edubrights.com/resource/2018/11/27/the-national-scheme-of-education-b-e-2560-25792017-2036/
+- The National Scheme of Education, B.E. 2560-2579 (2017-2036) https://edubrights.com/resource/2018/11/27/the-national-scheme-of-education-b-e-2560-2579-2017-2036/
 
 - The Education Act of B.E. 2542 (1999) https://asean.org/storage/2016/08/Thailand184.pdf
 
@@ -263,7 +263,7 @@ Others (please specify) :
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -277,7 +277,7 @@ Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Prim
 7. | Human survival and well-being | 9 | 1 | 9 | 1 | 9 | 1 | 9 | 1
 8. | Sustainable consumption and production | 9 | 1 | 9 | 1 | 9 | 1 | 9 | 1
 
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 According to the National Strategy Plan B.E. 2561 - 2580 (2018 - 2037), under the area of capacity building and human resource development, the plan focuses on preparation of people to have necessary skills for 21 st century such as critical thinking, love to learn and social responsibility as they are citizen. Educational reform aims to promote all people can access to education along with to develop the quality of education. The students have knowledges to cope with the global challenges today, have efficiency of communication skill, work effectively with the others, keep disciplines, self direct lifelong learning and behave as citizen with social responsibility and respect the rights of the others.
 
@@ -319,7 +319,7 @@ http://academic.obec.go.th/images/document/1525235513_d_1.pdf
 
  Bangkok, Declaration on Advancing Partnership in Education for 2030 Agenda for Sustainable Development in ASEAN (2019)
 
- Sustainable Consumption and Production Roadmap 2017-2036 (SCP Roadmap 20172036)
+ Sustainable Consumption and Production Roadmap 2017-2036 (SCP Roadmap 2017-2036)
 
 #### *A4.  Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
 
@@ -359,7 +359,7 @@ Textbook development | 1 | 1 | 1 | 1
 Teacher education and training | 1 | 1 | 1 | 1
 Assessment of student outcomes | 1 | 1 | 1 | 1
 
-### Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
+### B. Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
 
 #### B1a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate  whether  topics  are  taught  as  standalone  subjects  or  are  integrated  into  the curricula of other subjects. Explain whether GCED and/or ESD themes 4  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -449,7 +449,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 15]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -467,6 +467,8 @@ The Office of Basic Education Commission (OBEC) , Ministry of Education provides
 
 #### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Initial or pre-service training
@@ -476,17 +478,11 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 1
 For teachers of other subjects | 1 | 1 | 1 | 1
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
 #### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
-
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
-
-#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -501,6 +497,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 9
 8. | Sustainable consumption and production | 1 | 1 | 1 | 9
 
+#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -509,6 +507,8 @@ Knowledge | 9 | 1 | 1 | 9
 Skills | 9 | 1 | 1 | 9
 Values | 9 | 1 | 1 | 9
 Attitudes and behaviours | 9 | 1 | 1 | 9
+
+#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -523,7 +523,7 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 
 [[START OF PAGE 17]]
 
-### Student assessment (paras 4 and 5 of the 1974 Recommendation )
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation )
 
 #### D1a.  Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills  related  to  the  topics  being  tested  or  also  on  their  values,  attitudes  and/or behaviours.
 
@@ -532,8 +532,6 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 - Standard tests developed by ONIE based on core curriculum of Ministry of Education.
 
 #### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
-
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -547,6 +545,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 6. | Environmental sustainability | 0 | 1 | 9 | 1
 7. | Human survival and well-being | 0 | 1 | 9 | 1
 8. | Sustainable consumption and production | 0 | 1 | 9 | 1
+
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -608,19 +608,19 @@ Sub-national
 
 [[START OF PAGE 19]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
 - Continuing Education Programmes. There are quality products sold at 7,424 of Community Learning Centres (CLC) across the country.
 
-### Adult education (para 30 of the 1974 Recommendation )
+### G. Adult education (para 30 of the 1974 Recommendation )
 
 #### G1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school  education,  etc.  Describe  briefly  the  outcomes and  impact  of such initiatives and provide examples of good practices.
 
 - Building learning cities (pilot project undertaken during 2016-2020) in 19 Provinces covering 5 regions across the country. People in the communities learn to solve the problems together based on the context of their communities.
 
-### Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
+### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
 
 #### H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
@@ -638,7 +638,7 @@ Bhutan, India, Sri Lanka, Malaysia, Philippines, Thailand, China, Japan, Republi
 
 [[START OF PAGE 20]]
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -651,7 +651,7 @@ Membership of international networks including ASPnet | 9 | 9 | 9 | 1
 Joint research projects on GCED and/or ESD with foreign institutions | 9 | 9 | 9 | 0
 Other activities (please specify):
 
-### Any other comments
+### I. Any other comments
 
 #### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
 
