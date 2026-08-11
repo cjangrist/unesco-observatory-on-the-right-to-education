@@ -18,6 +18,23 @@ PDF generated: 29 Jan 2019, 23:15
 
 ## Table of contents
 
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+CHAPTER I: GENERAL PROVISIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+CHAPTER II: FUNDAMENTAL RIGHTS, FREEDOMS AND DUTIES . . . . . . . . . . 4
+CHAPTER III: THE PEOPLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+CHAPTER IV: THE RIIGIKOGU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+CHAPTER V: THE PRESIDENT OF THE REPUBLIC . . . . . . . . . . . . . . . . . . . . . 17
+CHAPTER VI: THE GOVERNMENT OF THE REPUBLIC . . . . . . . . . . . . . . . . . . . 20
+CHAPTER VII: LEGISLATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+CHAPTER VIII: FINANCE AND THE STATE BUDGET . . . . . . . . . . . . . . . . . . . . 26
+CHAPTER IX: FOREIGN RELATIONS AND INTERNATIONAL TREATIES . . . . . . 28
+CHAPTER X: NATIONAL DEFENSE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+CHAPTER XI: THE STATE AUDIT OFFICE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+CHAPTER XII: THE CHANCELLOR OF JUSTICE . . . . . . . . . . . . . . . . . . . . . . . 31
+CHAPTER XIII: THE COURTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+CHAPTER XIV: LOCAL GOVERNMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+CHAPTER XV: AMENDMENT OF THE CONSTITUTION . . . . . . . . . . . . . . . . . 35
+
 Estonia 1992 (rev. 2015)
 
 Page 2
@@ -290,17 +307,17 @@ Everyone has the right to liberty and security of person.
 
 No one shall be deprived of his or her liberty except in the cases and pursuant to procedure provided by law:
 
-- to execute a conviction or detention ordered by a court;
+1. to execute a conviction or detention ordered by a court;
 
-- in the case of non-compliance with a direction of the court or to ensure the fulfillment of a duty provided by law;
+2. in the case of non-compliance with a direction of the court or to ensure the fulfillment of a duty provided by law;
 
-- to  combat  a  criminal  or  administrative  offence,  to  bring  a  person  who  is reasonably suspected  of such an offence before  a  competent  state authority, or to prevent his or her escape;
+3. to combat a criminal or administrative offence, to bring a person who is reasonably suspected of such an offence before a competent state authority, or to prevent his or her escape;
 
-- to place a minor under disciplinary supervision or to bring him or her before a competent  state authority to  determine  whether  to  impose  such supervision;
+4. to place a minor under disciplinary supervision or to bring him or her before a competent state authority to determine whether to impose such supervision;
 
-- to detain a person suffering from an infectious disease, a person of unsound mind, an alcoholic or a drug addict, if such person is dangerous to himself or herself or to others;
+5. to detain a person suffering from an infectious disease, a person of unsound mind, an alcoholic or a drug addict, if such person is dangerous to himself or herself or to others;
 
-- to prevent illegal settlement in Estonia and to expel a person from Estonia or to extradite a person to a foreign state.
+6. to prevent illegal settlement in Estonia and to expel a person from Estonia or to extradite a person to a foreign state.
 
 No one shall be deprived of his or her liberty merely on the ground of inability to fulfill a contractual obligation.
 
@@ -794,9 +811,9 @@ Citizens  of  foreign  states  and  stateless  persons  who  are  in  Estonia  h
 
 The supreme power of state shall be exercised by the people through citizens with the right to vote:
 
-- by electing the Riigikogu;
+1. by electing the Riigikogu;
 
-- through a referendum.
+2. through a referendum.
 
 ### Article 57
 
@@ -878,15 +895,15 @@ The  authority  of  a  member  of  the  Riigikogu  shall  be  suspended  upon  h
 
 The authority of a member of the Riigikogu shall terminate prematurely:
 
-- upon his or her assumption of another state office;
+1. upon his or her assumption of another state office;
 
-- upon the entry into force of a conviction by a court against him or her;
+2. upon the entry into force of a conviction by a court against him or her;
 
-- upon his or her resignation, pursuant to procedure provided by law;
+3. upon his or her resignation, pursuant to procedure provided by law;
 
-- if the Supreme Court decides that he or she is incapable of performing his or her duties for an extended period;
+4. if the Supreme Court decides that he or she is incapable of performing his or her duties for an extended period;
 
-- upon his or her death.
+5. upon his or her death.
 
 Upon the suspension or premature termination of the authority of a member of the Riigikogu, he or she shall be replaced by an alternate member, pursuant to procedure provided by law. An alternate member has all the rights and duties of a member of the Riigikogu.
 
@@ -938,37 +955,37 @@ PDF generated: 29 Jan 2019, 23:15
 
 The Riigikogu shall:
 
-- pass laws and resolutions;
+1. pass laws and resolutions;
 
-- decide on the holding of a referendum;
+2. decide on the holding of a referendum;
 
-- elect the President of the Republic, pursuant to Article 79 of  the Constitution;
+3. elect the President of the Republic, pursuant to Article 79 of the Constitution;
 
-- ratify and denounce international treaties, in accordance with Article 121 of the Constitution;
+4. ratify and denounce international treaties, in accordance with Article 121 of the Constitution;
 
-- authorize the candidate for Prime Minister to form the Government of the Republic;
+5. authorize the candidate for Prime Minister to form the Government of the Republic;
 
-- pass the state budget and approve the report on its implementation;
+6. pass the state budget and approve the report on its implementation;
 
-- on the proposal of the President of the Republic, appoint to office the Chief Justice  of  the  Supreme  Court,  the  Chairman  of  the  Board  of  the  Bank  of Estonia, the Auditor General and the Chancellor of Justice;
+7. on the proposal of the President of the Republic, appoint to office the Chief Justice of the Supreme Court, the Chairman of the Board of the Bank of Estonia, the Auditor General and the Chancellor of Justice;
 
-- on the proposal of the Chief Justice of the Supreme Court, appoint to office justices of the Supreme Court;
+8. on the proposal of the Chief Justice of the Supreme Court, appoint to office justices of the Supreme Court;
 
-- appoint members of the Board of the Bank of Estonia;
+9. appoint members of the Board of the Bank of Estonia;
 
-- on the proposal of the Government, decide on borrowing by the state and on the assumption of other proprietary obligations by the state;
+10. on the proposal of the Government, decide on borrowing by the state and on the assumption of other proprietary obligations by the state;
 
-- present  statements,  declarations  and  appeals  to  the  people  of  Estonia, other states, and international organizations;
+11. present statements, declarations and appeals to the people of Estonia, other states, and international organizations;
 
-- establish state awards, and military and diplomatic ranks;
+12. establish state awards, and military and diplomatic ranks;
 
-- decide  on  the  expression  of  no  confidence  in  the  Government  of  the Republic, the Prime Minister or individual ministers;
+13. decide on the expression of no confidence in the Government of the Republic, the Prime Minister or individual ministers;
 
-- declare  a  state  of  emergency  in  the  state,  pursuant  to  Article  129  of  the Constitution;
+14. declare a state of emergency in the state, pursuant to Article 129 of the Constitution;
 
-- on the proposal of the President of the Republic, declare a state of war, and order mobilization and demobilization;
+15. on the proposal of the President of the Republic, declare a state of war, and order mobilization and demobilization;
 
-- resolve other national issues which the Constitution does not vest in the President  of  the  Republic,  the  Government  of  the  Republic,  other  state bodies or local governments.
+16. resolve other national issues which the Constitution does not vest in the President of the Republic, the Government of the Republic, other state bodies or local governments.
 
 Estonia 1992 (rev. 2015)
 
@@ -1086,17 +1103,17 @@ The President of the Republic is the head of state of Estonia.
 
 The President of the Republic shall:
 
-- represent the Republic of Estonia in international relations;
+1. represent the Republic of Estonia in international relations;
 
-- appoint  and  recall  diplomatic  agents  of  the  Republic  of  Estonia,  on  the proposal of the Government of the Republic, and receive the credentials of diplomatic agents accredited to Estonia;
+2. appoint and recall diplomatic agents of the Republic of Estonia, on the proposal of the Government of the Republic, and receive the credentials of diplomatic agents accredited to Estonia;
 
-- declare regular elections to the Riigikogu and, pursuant to Article 89, 97, 105 and 119 of the Constitution, extraordinary elections to the Riigikogu;
+3. declare regular elections to the Riigikogu and, pursuant to Article 89, 97, 105 and 119 of the Constitution, extraordinary elections to the Riigikogu;
 
-- convene the new membership of the Riigikogu, pursuant to Article 66 of the Constitution, and open its first session;
+4. convene the new membership of the Riigikogu, pursuant to Article 66 of the Constitution, and open its first session;
 
-- propose  to  the  Chairman  of  the  Riigikogu  to  convene  an  extra-ordinary session of the Riigikogu, pursuant to Article 68 of the Constitution;
+5. propose to the Chairman of the Riigikogu to convene an extra-ordinary session of the Riigikogu, pursuant to Article 68 of the Constitution;
 
-- proclaim laws, pursuant to Article 105 and 107 of the Constitution, and sign instruments of ratification;
+6. proclaim laws, pursuant to Article 105 and 107 of the Constitution, and sign instruments of ratification;
 
 Estonia 1992 (rev. 2015)
 
@@ -1148,33 +1165,33 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Eligibility for head of state
 
-- issue decrees, pursuant to Article 109 and 110 of the Constitution;
+7. issue decrees, pursuant to Article 109 and 110 of the Constitution;
 
-- initiate amendment of the Constitution;
+8. initiate amendment of the Constitution;
 
-- designate the candidate for Prime Minister, pursuant to Article 89 of the Constitution;
+9. designate the candidate for Prime Minister, pursuant to Article 89 of the Constitution;
 
-- appoint to and release from office members of the Government, pursuant to Article 89, 90, and 92 of the Constitution;
+10. appoint to and release from office members of the Government, pursuant to Article 89, 90, and 92 of the Constitution;
 
-- make proposals to the Riigikogu for appointments to the offices of Chief Justice  of  the  Supreme  Court,  Chairman  of  the  Board  of  the  Bank  of Estonia, Auditor General and Chancellor of Justice;
+11. make proposals to the Riigikogu for appointments to the offices of Chief Justice of the Supreme Court, Chairman of the Board of the Bank of Estonia, Auditor General and Chancellor of Justice;
 
-- on the proposal of the Board of the Bank of Estonia, appoint to office the President of the Bank of Estonia;
+12. on the proposal of the Board of the Bank of Estonia, appoint to office the President of the Bank of Estonia;
 
-- on the proposal of the Supreme Court, appoint judges;
+13. on the proposal of the Supreme Court, appoint judges;
 
-[repealed by RT I, 27.04.2011, 1 - entry into force 22.07.2011];
+14. [repealed by RT I, 27.04.2011, 1 - entry into force 22.07.2011];
 
-- confer state awards, and military and diplomatic ranks;
+15. confer state awards, and military and diplomatic ranks;
 
-- be the supreme commander of the national defense of Estonia;
+16. be the supreme commander of the national defense of Estonia;
 
-- make  proposals  to  the  Riigikogu  to  declare  a  state  of  war,  to  order mobilization  and  demobilization,  and,  pursuant  to  Article  129  of  the Constitution, to declare a state of emergency;
+17. make proposals to the Riigikogu to declare a state of war, to order mobilization and demobilization, and, pursuant to Article 129 of the Constitution, to declare a state of emergency;
 
-- declare, in the case of aggression against Estonia, a state of war and order mobilization pursuant to Article 128 of the Constitution;
+18. declare, in the case of aggression against Estonia, a state of war and order mobilization pursuant to Article 128 of the Constitution;
 
-- by  way  of  clemency  release  or  grant  commutation  to  convicts  at  their request;
+19. by way of clemency release or grant commutation to convicts at their request;
 
-- initiate  the  bringing  of  criminal  charges  against  the  Chancellor  of  Justice, pursuant to Article 145 of the Constitution.
+20. initiate the bringing of criminal charges against the Chancellor of Justice, pursuant to Article 145 of the Constitution.
 
 ### Article 79
 
@@ -1206,7 +1223,9 @@ Scheduling of elections
 
 - Oaths to abide by constitution
 
-· Head of state removal the membership of the Riigikogu votes shall be considered elected. If no candidate receives the required majority, a new round of voting shall be held on the next day. Before the second round of voting, a new nomination of candidates shall be held. If no candidate receives the required majority in the second round of voting, a third round  of  voting  shall  be  held  on  the  same  day  between  the  two  candidates  who receive  the  greatest  number  of  votes  in  the  second  round.  If  the  President  of  the Republic  is  still  not  elected  in  the  third  round  of  voting,  the  Chairman  of  the Riigikogu shall, within one month, convene an electoral body to elect the President of the Republic.
+- Head of state removal
+
+the membership of the Riigikogu votes shall be considered elected. If no candidate receives the required majority, a new round of voting shall be held on the next day. Before the second round of voting, a new nomination of candidates shall be held. If no candidate receives the required majority in the second round of voting, a third round of voting shall be held on the same day between the two candidates who receive the greatest number of votes in the second round. If the President of the Republic is still not elected in the third round of voting, the Chairman of the Riigikogu shall, within one month, convene an electoral body to elect the President of the Republic.
 
 The electoral body shall be comprised of members of the Riigikogu and representatives  of  the  local  government  councils.  Each  local  government  council shall elect at least one representative to the electoral body, who must be an Estonian citizen.
 
@@ -1226,17 +1245,17 @@ The regular election of the President of the Republic shall be held not earlier 
 
 The President of the Republic shall assume office by swearing the following oath of office to the people of Estonia before the Riigikogu:
 
-"In  assuming  the  office  of  President  of  the  Republic,  I  (given  name  and  surname), solemnly swear to steadfastly defend the Constitution and the laws of the Republic of Estonia, to exercise the power entrusted to me in a just and impartial manner, and to  faithfully  perform  my  duties  with  all  of  my  abilities  and  to  the  best  of  my under-standing, for the benefit of the people of Estonia and the Republic of Estonia.'
+"In assuming the office of President of the Republic, I (given name and surname), solemnly swear to steadfastly defend the Constitution and the laws of the Republic of Estonia, to exercise the power entrusted to me in a just and impartial manner, and to faithfully perform my duties with all of my abilities and to the best of my under-standing, for the benefit of the people of Estonia and the Republic of Estonia.”
 
 ### Article 82
 
 The powers of the President of the Republic shall terminate upon:
 
-- his or her resignation from office;
+1. his or her resignation from office;
 
-- the entry into force of a conviction by a court against him or her;
+2. the entry into force of a conviction by a court against him or her;
 
-- his or her death;
+3. his or her death;
 
 Estonia 1992 (rev. 2015)
 
@@ -1260,7 +1279,7 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Powers of cabinet
 
-- the assumption of office of the new President of the Republic.
+4. the assumption of office of the new President of the Republic.
 
 ### Article 83
 
@@ -1290,9 +1309,9 @@ Executive power is vested in the Government of the Republic.
 
 The Government of the Republic shall:
 
-- execute the domestic and foreign policies of the state;
+1. execute the domestic and foreign policies of the state;
 
-- direct and co-ordinate the activities of government agencies;
+2. direct and co-ordinate the activities of government agencies;
 
 Estonia 1992 (rev. 2015)
 
@@ -1324,19 +1343,19 @@ Emergency provisions
 
 · Dismissal of the legislature
 
-- administer  the  implementation  of  laws,  resolutions  of  the  Riigikogu,  and legislation of the President of the Republic;
+3. administer the implementation of laws, resolutions of the Riigikogu, and legislation of the President of the Republic;
 
-- introduce  bills,  and  submit  international  treaties  to  the  Riigikogu  for ratification and denunciation;
+4. introduce bills, and submit international treaties to the Riigikogu for ratification and denunciation;
 
-- prepare  the  draft  of  the  state  budget  and  submit  it  to  the  Riigikogu, administer the implementation of the state budget and present a report on the implementation of the state budget to the Riigikogu;
+5. prepare the draft of the state budget and submit it to the Riigikogu, administer the implementation of the state budget and present a report on the implementation of the state budget to the Riigikogu;
 
-- issue regulations and orders on the basis of and for the implementation of law;
+6. issue regulations and orders on the basis of and for the implementation of law;
 
-- manage relations with other states;
+7. manage relations with other states;
 
-- declare an emergency situation throughout the state or in a part thereof, in the case of a natural disaster or a catastrophe, or to prevent the spread of an infectious disease;
+8. declare an emergency situation throughout the state or in a part thereof, in the case of a natural disaster or a catastrophe, or to prevent the spread of an infectious disease;
 
-- perform  other  duties  which  the  Constitution  and  the  laws  vest  in  the Government of the Republic.
+9. perform other duties which the Constitution and the laws vest in the Government of the Republic.
 
 ### Article 88
 
@@ -1372,7 +1391,9 @@ PDF generated: 29 Jan 2019, 23:15
 
 - Head of government removal
 
-· Powers of cabinet The Riigikogu shall nominate a candidate for Prime Minister who shall present the membership of a government to the President of the Republic. If the membership of a government is not presented to the President of the Republic within fourteen days after  the  transfer  to  the  Riigikogu  of  the  right  to  nominate  a  candidate  for  Prime Minister, the President of the Republic shall declare extraordinary elections to the Riigikogu.
+- Powers of cabinet
+
+The Riigikogu shall nominate a candidate for Prime Minister who shall present the membership of a government to the President of the Republic. If the membership of a government is not presented to the President of the Republic within fourteen days after the transfer to the Riigikogu of the right to nominate a candidate for Prime Minister, the President of the Republic shall declare extraordinary elections to the Riigikogu.
 
 ### Article 90
 
@@ -1386,11 +1407,11 @@ The Government shall assume office by taking an oath of office before the Riigik
 
 The Government of the Republic shall resign upon:
 
-- the convention of the new membership of the Riigikogu;
+1. the convention of the new membership of the Riigikogu;
 
-- the resignation or death of the Prime Minister;
+2. the resignation or death of the Prime Minister;
 
-- the expression of no confidence in the Government of the Republic or the Prime Minister by the Riigikogu.
+3. the expression of no confidence in the Government of the Republic or the Prime Minister by the Riigikogu.
 
 The  President  of  the  Republic  shall  release  the  Government  of  the  Republic  from office upon the assumption of office of the new Government.
 
@@ -1522,15 +1543,15 @@ Laws shall be passed in accordance with the Constitution.
 
 The following have the right to initiate laws:
 
-- a member of the Riigikogu;
+1. a member of the Riigikogu;
 
-- a faction of the Riigikogu;
+2. a faction of the Riigikogu;
 
-- a committee of the Riigikogu;
+3. a committee of the Riigikogu;
 
-- the Government of the Republic;
+4. the Government of the Republic;
 
-- the President of the Republic, for amendment of the Constitution.
+5. the President of the Republic, for amendment of the Constitution.
 
 The Riigikogu  has  the  right,  on  the  basis  of  a  resolution  made  by  a  majority  of  its membership, to propose to the Government of the Republic to initiate a bill desired by the Riigikogu.
 
@@ -1540,9 +1561,9 @@ The procedure for the passage of laws shall be provided by the Riigikogu Procedu
 
 The  following  laws  may  be  passed  and  amended  only  by  a  majority  of  the membership of the Riigikogu:
 
-- Citizenship Act;
+1. Citizenship Act;
 
-- Riigikogu Election Act;
+2. Riigikogu Election Act;
 
 Estonia 1992 (rev. 2015)
 
@@ -1560,35 +1581,35 @@ PDF generated: 29 Jan 2019, 23:15
 
 · Dismissal of the legislature
 
-- President of the Republic Election Act;
+3. President of the Republic Election Act;
 
-- Local Government Election Act;
+4. Local Government Election Act;
 
-- Referendum Act;
+5. Referendum Act;
 
-- Riigikogu Procedure Act and Riigikogu Administration Act;
+6. Riigikogu Procedure Act and Riigikogu Administration Act;
 
-- Remuneration  of  the  President  of  the  Republic  and  Members  of  the Riigikogu Act;
+7. Remuneration of the President of the Republic and Members of the Riigikogu Act;
 
-- Government of the Republic Act;
+8. Government of the Republic Act;
 
-- Institution of Court Proceedings against the President of the Republic and Members of the Government Act;
+9. Institution of Court Proceedings against the President of the Republic and Members of the Government Act;
 
-- National Minorities Cultural Autonomy Act;
+10. National Minorities Cultural Autonomy Act;
 
-- State Budget Act;
+11. State Budget Act;
 
-- Bank of Estonia Act;
+12. Bank of Estonia Act;
 
-- State Audit Office Act;
+13. State Audit Office Act;
 
-- Courts Administration Act and court procedure Acts;
+14. Courts Administration Act and court procedure Acts;
 
-- Acts  pertaining  to  foreign  and  domestic  borrowing,  and  to  proprietary obligations of the state;
+15. Acts pertaining to foreign and domestic borrowing, and to proprietary obligations of the state;
 
-- State of Emergency Act;
+16. State of Emergency Act;
 
-- Peace-Time National Defense Act and War-Time National Defense Act.
+17. Peace-Time National Defense Act and War-Time National Defense Act.
 
 ### Article 105
 
@@ -1780,15 +1801,15 @@ The procedure for the relations of the Republic of Estonia with other states and
 
 The Riigikogu shall ratify and denounce treaties of the Republic of Estonia:
 
-- which alter state borders;
+1. which alter state borders;
 
-- the implementation of which requires the passage, amendment or repeal of Estonian laws;
+2. the implementation of which requires the passage, amendment or repeal of Estonian laws;
 
-- by  which  the  Republic  of  Estonia  joins  international  organizations  or unions;
+3. by which the Republic of Estonia joins international organizations or unions;
 
-- by which the Republic of Estonia assumes military or proprietary obligations;
+4. by which the Republic of Estonia assumes military or proprietary obligations;
 
-- in which ratification is prescribed.
+5. in which ratification is prescribed.
 
 ### Article 122
 
@@ -1836,7 +1857,7 @@ PDF generated: 29 Jan 2019, 23:15
 
 A person who refuses to serve in the Armed Forces for religious or moral reasons has a duty to perform alternative service pursuant to procedure prescribed by law.
 
-Persons  in  the  armed  forces  and  alternative  service  have  all  constitutional  rights, freedoms and duties, unless otherwise prescribed by law due to the special interests of the service. The rights and freedoms prescribed in paragraphs 3 and 4 of Article 8, Article 11-18, paragraph 3 of Article 20, Article 21-28, Article 32, Article 33, Article 36-43, paragraphs 1 and 2 of Article 44, Article 49-51 of the Constitution shall not be restricted. The legal status of persons in the armed forces and alternative service shall be provided by law.
+Persons  in  the  armed  forces  and  alternative  service  have  all  constitutional  rights, freedoms and duties, unless otherwise prescribed by law due to the special interests of the service. The rights and freedoms prescribed in paragraphs 3 and 4 of Article 8, Article 11–18, paragraph 3 of Article 20, Article 21–28, Article 32, Article 33, Article 36–43, paragraphs 1 and 2 of Article 44, Article 49–51 of the Constitution shall not be restricted. The legal status of persons in the armed forces and alternative service shall be provided by law.
 
 ### Article 125
 
@@ -1884,7 +1905,7 @@ PDF generated: 29 Jan 2019, 23:15
 
 ### Article 130
 
-During a state of emergency or a state of war, the rights and freedoms of a person may  be  restricted,  and  duties  may  be  placed  upon  him  or  her  in  the  interests  of national  security  and  public  order,  under  conditions  and  pursuant  to  procedure prescribed  by  law.  The  rights  and  freedoms  provided  by  Article  8,  Article  11-18, paragraph 3 of Article 20, Article 22, Article 23, paragraphs 2 and 4 of Article 24, Article  25,  Article  27,  Article  28,  paragraph  2  of  Article  36,  Article  40,  Article  41, Article 49 and paragraph 1 of Article 51 of the Constitution shall not be restricted.
+During a state of emergency or a state of war, the rights and freedoms of a person may  be  restricted,  and  duties  may  be  placed  upon  him  or  her  in  the  interests  of national  security  and  public  order,  under  conditions  and  pursuant  to  procedure prescribed  by  law.  The  rights  and  freedoms  provided  by  Article  8,  Article  11–18, paragraph 3 of Article 20, Article 22, Article 23, paragraphs 2 and 4 of Article 24, Article  25,  Article  27,  Article  28,  paragraph  2  of  Article  36,  Article  40,  Article  41, Article 49 and paragraph 1 of Article 51 of the Constitution shall not be restricted.
 
 ### Article 131
 
@@ -1902,13 +1923,13 @@ The  State  Audit  Office  shall  be,  in  its  activities,  an  independent  st
 
 The State Audit Office shall audit:
 
-- the economic activities of state agencies, state enterprises and other state organizations;
+1. the economic activities of state agencies, state enterprises and other state organizations;
 
-- the use and preservation of state assets;
+2. the use and preservation of state assets;
 
-- the use and disposal of state assets which have been transferred into the control of local governments;
+3. the use and disposal of state assets which have been transferred into the control of local governments;
 
-- the economic activities of enterprises in which the state holds more than one-half  of  the  votes  by  way  of  parts  or  shares,  or  whose  loans  or contractual obligations are guaranteed by the state.
+4. the economic activities of enterprises in which the state holds more than one-half  of  the  votes  by  way  of  parts  or  shares,  or  whose  loans  or contractual obligations are guaranteed by the state.
 
 ### Article 134
 
@@ -2084,11 +2105,11 @@ The legal status of judges and guarantees for their independence shall be provid
 
 The court system shall consist of:
 
-- county and city courts, and administrative courts;
+1. county and city courts, and administrative courts;
 
-- circuit courts;
+2. circuit courts;
 
-- the Supreme Court.
+3. the Supreme Court.
 
 The creation of specialized courts with specific jurisdiction shall be provided by law. The formation of emergency courts is prohibited.
 
@@ -2212,17 +2233,17 @@ Amendment of the Constitution shall not be initiated, nor shall the Constitution
 
 ### Article 162
 
-Chapter I 'General Provisions' and Chapter XV 'Amendment of the Constitution' of the Constitution may be amended only by a referendum.
+Chapter I “General Provisions” and Chapter XV “Amendment of the Constitution” of the Constitution may be amended only by a referendum.
 
 ### Article 163
 
 The Constitution shall be amended by an Act which has been passed by:
 
-- a referendum;
+1. a referendum;
 
-- two successive memberships of the Riigikogu;
+2. two successive memberships of the Riigikogu;
 
-- the Riigikogu, as a matter of urgency.
+3. the Riigikogu, as a matter of urgency.
 
 A bill to amend the Constitution shall be debated for three readings in the Riigikogu, in  which  the  interval  between  the  first  and  second  readings  shall  be  not  less  than three months, and the interval between the second and third readings shall be not less than one month. The manner in which the Constitution is to be amended shall be decided at the third reading.
 
@@ -2276,6 +2297,45 @@ PDF generated: 29 Jan 2019, 23:15
 
 ## Topic index
 
+A
+Accession of territory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Administrative court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Administrative court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Advisory bodies to the head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+B
+Binding effect of const rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 21, 27
+C
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 22, 23, 24, 31
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 21
+Central bank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 26
+Compensation of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Compulsory education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 24, 35
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 26, 31, 32, 33
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 26, 32, 33
+Customary international law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+D
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 29
+Dismissal of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21, 23, 25, 27
+Duty to obey the constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Duty to serve in the military . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+E
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 21, 26, 29, 30, 35
+Equality regardless of creed or belief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Equality regardless of financial status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Equality regardless of language . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Equality regardless of nationality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Equality regardless of origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Equality regardless of political party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
 Estonia 1992 (rev. 2015)
 
 Page 37
@@ -2287,6 +2347,47 @@ Page 37
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
+
+Equality regardless of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Equality regardless of social status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Establishment of administrative courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 9
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 17
+F
+Federal review of subnational legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31, 32
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 14
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Free education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Freedom of press . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+G
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+H
+Head of government immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24, 31
+Head of government removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 22, 23, 24, 31
+Head of government selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 21
+Head of government's role in the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Head of state decree power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 26
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 31
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Head of state term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+I
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 17, 31
+Inalienable rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 9
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21, 24
+Integration of ethnic communities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
 
 Estonia 1992 (rev. 2015)
 
@@ -2300,6 +2401,46 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 9, 15, 21, 26, 28, 29
+International organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 28
+J
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+L
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Legal status of treaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 24
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Length of legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Limits on removing head of government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+M
+Mentions of social class . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Motives for writing constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Municipal government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33, 34
+N
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 21
+National flag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+National vs subnational laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+O
+Oaths to abide by constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 19
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 12
+Official religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Ordinary court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 33
+Ordinary court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Ownership of natural resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+P
+Power to declare/approve war . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 29
+Power to deport citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 22
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Privileges for juveniles in criminal process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Prohibited political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
 Estonia 1992 (rev. 2015)
 
 Page 39
@@ -2312,6 +2453,49 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
 
+Prohibition of double jeopardy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Protection from ex post facto laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Protection from self-incrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 12
+Protection of language use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 12
+Protection of stateless persons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Protection of victim's rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 7
+Provision for matrimonial equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Provisions for intellectual property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Public or private sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Q
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+R
+Reference to art . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Reference to science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 10
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 15, 25, 26, 35, 36
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 11
+Regulation of political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Replacement of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Restrictions on entry or exit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 9
+Restrictions on the armed forces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right of petition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to academic freedom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to appeal judicial decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 33
+Right to choose occupation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to conscientious objection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 12
+Right to development of personality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Right to establish a business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to form political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to found a family . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
 Estonia 1992 (rev. 2015)
 
 Page 40
@@ -2323,6 +2507,47 @@ Page 40
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:15
+
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Right to overthrow government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Right to own property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 9, 11
+Right to protect one's reputation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to self determination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 12
+Right to strike . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to transfer property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Right to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Rights of debtors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+S
+Scheduling of elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 19
+Secession of territory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Secrecy of legislative votes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Selection of active-duty commanders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Source of constitutional authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+State support for children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+State support for the disabled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+State support for the elderly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Supreme court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 20, 34
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 33
+Supreme court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Supreme/ordinary court judge removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+T
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Treaty ratification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 21, 28
+Trial in native language of accused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+U
+Ultra-vires administrative actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+V
+Veto override procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
 
 Estonia 1992 (rev. 2015)
 
