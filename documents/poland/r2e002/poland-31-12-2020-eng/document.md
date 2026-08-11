@@ -8,6 +8,35 @@ Warsaw, October 2020
 
 [[START OF PAGE 2]]
 
+Introduction.............................................................................................................................................. 2
+I. Legal instruments for the implementation of the Convention.............................................................. 3
+I.1. Ratifications................................................................................................................................... 3
+I.2. The protection of rights guaranteed in the Convention in the national legal system .................... 3
+II. Implementation of the Convention ..................................................................................................... 4
+II.1. Access to eduaction – legal guarantees........................................................................................ 4
+II.2. Equal opportunities in education.................................................................................................. 8
+II.2.1. Ensuring the possibility of learning in nursery schools and general schools to all learners. 8
+II.2.2. Monitoring the fulfilment of obligatory education and learning duty .................................. 9
+II.2.3. Education of people coming from abroad........................................................................... 10
+II.2.4. Financial aid for pupils and students................................................................................... 13
+II.2.5. Persons with special educational needs .............................................................................. 15
+II.2.5.1. Disabled persons..........................................................................................................15
+II.2.5.2. Support for pregnant girls and young mothers.............................................................22
+II.2.5.3. Minors in juvenile detention centres and juvenile shelters ..........................................23
+II.3. Right to education ...................................................................................................................... 26
+II.3.1. Pre-school education........................................................................................................... 26
+II.3.2. Primary and secondary education ....................................................................................... 30
+II.3.3. Higher education................................................................................................................. 34
+II.3.4. Adult education and lifelong learning................................................................................. 35
+II.3.5. Quality of education and learning....................................................................................... 41
+II.3.6. Education personnel............................................................................................................ 47
+II.3.7. Respect for human rights and fundamental freedoms......................................................... 51
+II.3.8. Non-public education. Religious and moral education....................................................... 53
+II.3.9. Rights of national minorities............................................................................................... 61
+II.3.10. Rights of refugees and migrants........................................................................................ 63
+III. Dissemination and promotion of the provisions of the Convention ................................................ 68
+III.1. Country-wide activities............................................................................................................. 68
+III.2. Activities undertaken and supported by the Polish Committee for UNESCO......................... 69
 1
 
 [[END OF PAGE 2]]
@@ -16,11 +45,11 @@ Warsaw, October 2020
 
 ## Introduction
 
-- This interim report of the Republic of Poland on the implementation of the Convention against Discrimination in Education drafted in Paris on 15 December 1960 was prepared at the Ministry of National Education, in cooperation with the Ministry of Digital Affairs, Ministry of Climate, Ministry of Culture and National Heritage, Ministry of Science and Higher Education, Ministry of Family, Labour and Social Policy, Ministry of Agriculture and Rural Development, Ministry of Sport, Ministry of Justice, Ministry of the Interior and Administration,  the  Office  for  Foreigners,  and  the  Polish  National  Commission  for UNESCO,  for  the  purpose  of  the  10 th Consultation  of  UNESCO  Member  States  on implementation of the Convention by them.
+- This interim report of the Republic of Poland on the implementation of the Convention against Discrimination in Education drafted in Paris on 15 December 1960 was prepared at the Ministry of National Education, in cooperation with the Ministry of Digital Affairs, Ministry of Climate, Ministry of Culture and National Heritage, Ministry of Science and Higher Education, Ministry of Family, Labour and Social Policy, Ministry of Agriculture and Rural Development, Ministry of Sport, Ministry of Justice, Ministry of the Interior and Administration, the Office for Foreigners, and the Polish National Commission for UNESCO, for the purpose of the 10th Consultation of UNESCO Member States on implementation of the Convention by them.
 
 - The Ministry of National Education has put forward a draft of this report for consultation to the Ombudsman for Civil Rights and the Ombudsman for Children Rights, and to civil society  representatives:  Koalicja  na  rzecz  Osób  Niepełnosprawnych,  Koalicja  Otwartej Edukacji, Obywatele dla Edukacji, the Polish Committee of the Helsinki Foundation for Human Rights, Social Education Society, and to the Youth representatives: Polska Rada Organizacji Młodzieżowych (the Polish Council of Youth Organizations), Rada Dialogu z Młodym pokoleniem (the Council for the Dialogue with the Young Generation) and Rada Dzieci  i  Młodzieży  Rzeczypospolitej  Polskiej  przy  Ministrze  Edukacji  Narodowej  (the Council  of  Children  and  Youth  of  the  Republic  of  Poland  at  the  Minister  of  National Education).
 
-- Pursuant to Article 7 of the Convention, this report contains information about the legal solutions decided upon and measures undertaken by Poland to implement this Convention in the years 20127-2020. This document was drawn up based on the UNESCO Guidelines for Preparing Reports on the Implementation of the Convention (annex to the document No. 207 EX/2s.II Implementation of Standard-Setting Instruments Part II, published on 7 August 2019 ).
+- Pursuant to Article 7 of the Convention, this report contains information about the legal solutions decided upon and measures undertaken by Poland to implement this Convention in the years 20127-2020. This document was drawn up based on the UNESCO Guidelines for Preparing Reports on the Implementation of the Convention (annex to the document No. 207 EX/2s.II – Implementation of Standard-Setting Instruments Part II, published on 7 August 2019).
 
 The following abbreviations have been used in the text: the Constitution 1 , MEN 2 , USO 3 , UPO 4 , UKN 5 , UFZO 6 , UPSWiN 7 , ORE 8 , SIO 9 .
 
@@ -60,7 +89,7 @@ The following abbreviations have been used in the text: the Constitution 1 , MEN
 
 - The sources of universally binding law of the Republic of Poland shall be: the Constitution, acts, ratified international agreements and regulations (Article 87 of the Constitution). The Constitution shall be the supreme law of the Republic of Poland.
 
-- Pursuant  to  the  constitutional  principle  (Article  32  and  33  of  the  Constitution)  that  no person may be discriminated against in political, social, or economic life for any reason whatsoever, and that women and men shall have equal rights in family, political, social, and economic life, in particular, an equal right to education the education system and the system of higher education in Poland shall provide equal access to education at all stages .
+- Pursuant to the constitutional principle (Article 32 and 33 of the Constitution) that no person may be discriminated against in political, social, or economic life for any reason whatsoever, and that women and men shall have equal rights in family, political, social, and economic life, in particular, an equal right to education - the education system and the system of higher education in Poland shall provide equal access to education at all stages.
 
 - Article 70 of the Constitution provides that all persons in the Republic of Poland have the right  to  education.  Education  shall  be  compulsory  up  to  the  age  of  18.  The  manner  of pursuing obligatory education and learning duty are defined in the UPO.
 
@@ -278,7 +307,7 @@ for approval. The curriculum should be adapted to the needs and capabilities of 
 
 The provisions of the core curriculum indicate that schools and individual teachers take actions aimed at individualised support of each student in accordance with his or her needs and capabilities.
 
-- Teaching pupils with disabilities, including pupils with mild intellectual disabilities, shall be adapted to their psychophysical capabilities and learning pace. The choice of forms of individualisation  should  result  from  identification  of  the  potential  of  each  pupil.  The teacher should select tasks so that on one hand they do not interrupt learning opportunities, and on the other hand they do not reduce motivation to deal with challenges (regulation of the Minister of National Education of 14 February 2017 on the core curriculum for preschool  education  and  general  education  in  primary  schools,  including  for  pupils  with moderate or severe intellectual disability, general education for stage-one sectoral VET schools, general education for special schools preparing for employment, and general education for post-secondary schools (Dziennik Ustaw [ Polish Journal of Laws ] item 356, as amended) and the regulation  of the Minister of National Education of 30 September 2018 on  the  core  curriculum  for  general  upper  secondary  schools,  technical  upper secondary  schools,  and  second-stage  sectoral  VET  schools (Dziennik  Ustaw  [ Polish Journal of Laws ] item 467, as amended).
+- Teaching pupils with disabilities, including pupils with mild intellectual disabilities, shall be adapted to their psychophysical capabilities and learning pace. The choice of forms of individualisation should result from identification of the potential of each pupil. The teacher should select tasks so that on one hand they do not interrupt learning opportunities, and on the other hand they do not reduce motivation to deal with challenges (regulation of the Minister of National Education of 14 February 2017 on the core curriculum for pre-school education and general education in primary schools, including for pupils with moderate or severe intellectual disability, general education for stage-one sectoral VET schools, general education for special schools preparing for employment, and general education for post-secondary schools (Dziennik Ustaw [ Polish Journal of Laws ] item 356, as amended) and the regulation of the Minister of National Education of 30 September 2018 on the core curriculum for general upper secondary schools, technical upper secondary schools, and second-stage sectoral VET schools (Dziennik Ustaw [ Polish Journal of Laws ] item 467, as amended).
 
 - Admission  to  higher  education  institutions, conditions for graduation, rights  and obligations of a student (including the right to material aid, to a discount on fees for public transport, disciplinary responsibility of students) are regulated by the provisions of the UPSWiN, including:
 
@@ -378,7 +407,7 @@ Failure to fulfil the obligation of compulsory one-year pre-primary education, o
 
 #### II.2.3. Education of people coming from abroad
 
-- Foreigners taking advantage of education and care in public nursery schools, public other forms of preschool education and in non-public nursery schools, preschool units in nonpublic primary schools and in non-public other forms of preschool education, as well as in public primary schools, public art schools and in public facilities, including art facilities,
+- Foreigners taking advantage of education and care in public nursery schools, public other forms of preschool education and in non-public nursery schools, preschool units in non-public primary schools and in non-public other forms of preschool education, as well as in public primary schools, public art schools and in public facilities, including art facilities,
 
 10
 
@@ -418,7 +447,7 @@ Educational services provided by public schools for adults, public second-stage 
 
 - persons for whom such entitlement results from international agreements;
 
-)  holders  of  a  residence  card  with  the  annotation  'access  to  the  labour  market', Schengen visa, or national visa issued in order to perform work in the territory of the Republic of Poland.
+8) ) holders of a residence card with the annotation “access to the labour market”, Schengen visa, or national visa issued in order to perform work in the territory of the Republic of Poland.
 
 - In light of Article 165 (5) of the UPO, other foreigners may learn in public schools for adults,  public  post-secondary  schools,  public  art  schools,  public  facilities  and  public colleges of social services employees, and take advantage of further education in the form of  qualification  vocational courses as: scholarship holders receiving scholarship of the minister  responsible  for  education  and  upbringing,  scholarship  holders  receiving  the scholarship  granted  by  the  authority  governing  the  school  or  the  facility  or  by  the headmaster of the school or the facility, as well as on a paid basis. The fee amount and method of payment thereof, taking into account the anticipated costs of education and the possibility of total or partial exemption from this payment, shall be determined by the authority governing the school.
 
@@ -432,7 +461,7 @@ Educational services provided by public schools for adults, public second-stage 
 
 A public school headmaster may qualify a pupil coming from abroad to an appropriate class or an appropriate semester, taking into account also the age thereof, the opinion of a parent of the pupil or the student himself/herself if he/she is a legal adult.
 
-- Foreigners subject to obligatory education or learning duty, who do not have the command of the Polish language or whose command thereof is on a level that is insufficient to be able to take advantage of the education system shall have the right to additional free-ofcharge Polish language lessons. Additional Polish language lessons shall be organised, in the school the foreigner learns in accordance with the core curricula of general education, by  the  local  commune  authority  that  operates  the  school.  Taking  additional  Polish language classes by foreigners shall not be time-limited. Foreign nationals may also take part in remedial classes concerning a given subject for 12 months. The total duration of additional Polish language and remedial classes cannot exceed 5 hours a week.
+- Foreigners subject to obligatory education or learning duty, who do not have the command of the Polish language or whose command thereof is on a level that is insufficient to be able to take advantage of the education system shall have the right to additional free-of-charge Polish language lessons. Additional Polish language lessons shall be organised, in the school the foreigner learns in accordance with the core curricula of general education, by the local commune authority that operates the school. Taking additional Polish language classes by foreigners shall not be time-limited. Foreign nationals may also take part in remedial classes concerning a given subject for 12 months. The total duration of additional Polish language and remedial classes cannot exceed 5 hours a week.
 
 Authorities operating public and non-public schools may create preparatory classes for students coming from abroad. The purpose of introducing this organisational form is to support the effectiveness of education of persons who have learned in schools functioning in foreign education systems.
 
@@ -502,9 +531,9 @@ The scholarship for sports achievements shall not be granted to pupils of grades
 
 ###### Scholarship of the minister responsible for education and upbringing (Article 90i of the USO)
 
-The scholarship granted by the minister responsible for education and upbringing may be granted to pupils and students of a public and non-public school for youth, public and nonpublic second-stage sectoral VET school, and a post-secondary school with outstanding academic achievements, in particular:
+The scholarship granted by the minister responsible for education and upbringing may be granted to pupils and students of a public and non-public school for youth, public and non-public second-stage sectoral VET school, and a post-secondary school with outstanding academic achievements, in particular:
 
--winners of an international competition or winners and finalists of nationwide singlesubject competitions or tournaments,
+-winners of an international competition or winners and finalists of nationwide single-subject competitions or tournaments,
 
 -winners of contests for the best academic thesis organised by a scientific institute or association,
 
@@ -522,7 +551,7 @@ Between  2016  and  2019  the  minister  responsible  for  culture  and  nationa
 
 ##### 41. Benefits for students
 
-The UPSWiN (Articles 86-97) provides for the possibility for a student to apply for a maintenance grant, a  scholarship for the disabled, aid payment, the rector's scholarship financed from state budget, as well as the possibility of granting a student a scholarship financed  by  a  local  government  unit,  and  a  merit-based  scholarship  for  academic performance  or  sports  achievements  financed  by  a  natural  person  or  a  legal  person who/that is not a state or local government legal person.
+The UPSWiN (Articles 86-97) provides for the possibility for a student to apply for a maintenance grant, a scholarship for the disabled, aid payment, the rector's scholarship – financed from state budget, as well as the possibility of granting a student a scholarship financed by a local government unit, and a merit-based scholarship for academic performance or sports achievements financed by a natural person or a legal person who/that is not a state or local government legal person.
 
 14
 
@@ -638,7 +667,7 @@ The  curriculum  may  also  be  implemented  with  the  use  of,  in particular,
 
 [[START OF PAGE 20]]
 
-- of  disabled  pupils),  which  will  significantly  affect  the  accessibility  of  contents  and friendly nature of the textbook for the pupil 16 ;
+of disabled pupils), which will significantly affect the accessibility of contents and friendly nature of the textbook for the pupil 16 ;
 
 - for  stage  I  of  the  education  (grades  I-III  of  primary  school),  versions  of  textbooks admitted for use in schools were developed:
 
@@ -662,7 +691,7 @@ The  curriculum  may  also  be  implemented  with  the  use  of,  in particular,
 
 -practice materials in the form of task sheet notebooks. Task sheets are not linked to any single textbook. Their purpose is to support the work of teachers, regardless of which  textbooks  they  use.  Task  sheets  help  to  implement  the  universal  contents included  in  the  general  education  core  curriculum.  Task  sheets  are  a  used  to consolidate and expand the knowledge of pupils. In addition, they may constitute attractive homework or a form of a test. The proposed sheets should be used in a manner tailored to the capabilities of a given child, e.g. when working with a child with a severe hearing impairment, it is crucial to take into account the fast-growing requirements related to language competence. Cards introducing a new letter may serve as an illustrated dictionary, which will help remember known words and serve to remind less frequently used words. A child who does not acquire language by hearing must learn it with the use of written texts. The dictionary created on their
 
-> 16 https://www.gov.pl/web/edukacja/wytyczne-edytorskie-i-jezykowe-do-opracowania-podrecznikow-orazwytyczne-do-uniwersalnego-projektowania-graficznego-podrecznikow
+> 16 https://www.gov.pl/web/edukacja/wytyczne-edytorskie-i-jezykowe-do-opracowania-podrecznikow-oraz-wytyczne-do-uniwersalnego-projektowania-graficznego-podrecznikow
 
 > 17 PCS - graphic symbols showing individual concepts (the system is a support for people with difficulties in communication, with understanding contents, and participation in the didactic process).
 
@@ -713,7 +742,7 @@ The program is the implementation of one of the priority tasks of the state whic
 
 [[START OF PAGE 23]]
 
-In  the  years  2020-2022,  the  program  will  cover  students  with  disabilities:  visually impaired,  deaf,  hard  of  hearing,  with  motor  disabilities,  including  aphasia,  autism, including Asperger syndrome, with mild, moderate or severe intellectual disability, and students with multiple disabilities (in the case when these are disabilities from among the above-mentioned  disabilities),  having  a  certificate  of  the  need  for  special  education, referred to in Article 127 (10) of the UPO, or a decision on the need for special education, referred to in article 312 (1) of the Act of 14 December 14, 2016 Regulations introducing the Educational Law Act (Dziennik Ustaw [ Polish Journal of Laws ] of 2017, item 60, as amended) - studying in secondary schools and art schools providing general education in the field of secondary school general education.
+In the years 2020-2022, the program will cover students with disabilities: visually impaired, deaf, hard of hearing, with motor disabilities, including aphasia, autism, including Asperger syndrome, with mild, moderate or severe intellectual disability, and students with multiple disabilities (in the case when these are disabilities from among the above-mentioned disabilities), having a certificate of the need for special education, referred to in Article 127 (10) of the UPO, or a decision on the need for special education, referred to in article 312 (1) of the Act of 14 December 14, 2016 – Regulations introducing the Educational Law Act (Dziennik Ustaw [ Polish Journal of Laws ] of 2017, item 60, as amended) - studying in secondary schools and art schools providing general education in the field of secondary school general education.
 
 In the years 2020-2022, financing of the equipment with textbooks, educational materials and exercise materials students with disabilities studying in primary schools and in art schools providing general education in the field of primary school is carried out as part of the task of the minister responsible for education and upbringing, carried out in accordance with the UFZO.
 
@@ -746,7 +775,7 @@ The leave for a pregnant student shall be granted for the period until the date 
 
 ###### Minimum age for marriage
 
-- Pursuant to Article 10 (1) of the Act of 25 February 1964 - the Family and Guardianship Code (Kodeks rodzinny i opiekuńczy - Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1359), a person below eighteen years of age may not enter into marriage. However, for important reasons, the guardianship court may allow a woman of at least sixteen years of age to marry if the circumstances indicate that the marriage will be for the good of the raised family' .
+- Pursuant to Article 10 (1) of the Act of 25 February 1964 - the Family and Guardianship Code (Kodeks rodzinny i opiekuńczy - Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1359), a person below eighteen years of age may not enter into marriage. However, for important reasons, the guardianship court may allow a woman of at least sixteen years of age to marry if the circumstances indicate that the marriage will be for the good of the raised family”.
 
 ##### II.2.5.3. Minors in juvenile detention centres and juvenile shelters
 
@@ -771,13 +800,13 @@ Juvenile  detention  centres  and  juvenile  shelters  educate  the  minors  in 
 name of profession, where a given qualification is distinguished | name of qualification | designation of qualification in the professions defined in the classification of vocational education professions | designation of qualification in the professions defined in the classification of sectoral VET school professions | numerical symbol of the profession
 --- | --- | --- | --- | ---
 carpenter | manufacturing carpentry products | AU.15. | --- | 752205
-manufacturing products from wood and similar-to-wood materials | --- | DRM.04.
+carpenter | manufacturing products from wood and similar-to-wood materials | --- | DRM.04. | 752205
 locksmith | manufacture and repair of machinery, equipment, and tool components | MG.20. | MEC.08. | 722204
-bricklayer- plasterer | performance of masonry and plaster works | BD.14. | BUD.12. | 711204
+bricklayer-plasterer | performance of masonry and plaster works | BD.14. | BUD.12. | 711204
 cook | preparation of dishes and beverages | TG.07. | --- | 512001
-preparation and serving courses | --- | HGT.02.
+cook | preparation and serving courses | --- | HGT.02. | 512001
 hairdresser | performing of hairdressing treatment | AU.21. | --- | 514101
-performing of hairdressing service | --- | FRK.01.
+hairdresser | performing of hairdressing service | --- | FRK.01. | 514101
 tailor | design and manufacture of clothing items | AU.14. | MOD.03. | 753105
 blacksmith | manufacture and repair of blacksmith products | MG.21. | MEC.02. | 722101
 
@@ -797,21 +826,21 @@ bookbinder | bookbinding process implementation | AU.16. | --- | 732301
 --- | --- | --- | --- | ---
 building and finishing works assembler in construction industry | performance of assembly, coverings and finishing works | BD.04. | BUD.04. | 712905
 
-- On the basis of the Regulation of the Minister of National Education of 11 January 2012 on further education in out-of-school forms (Dziennik Ustaw [ Polish Journal of Laws ] of 2014, item 622, as amended) and the Regulation of the Minister of National Education of 18 August 2017 on further  education  in  out-of-school  forms (Dziennik  Ustaw  [ Polish Journal of Laws ] of 2017, item 1632), and - since 1 September 2019 - on the basis of the Regulation of the Minister of National Education of 19 March 2019 on further education in out-of-school forms (Dziennik Ustaw [ Polish Journal of Laws ] of 2019, item 652), at juvenile detention centres and shelters for minors teaching can be conducted as part of qualification vocational courses.
+66. On the basis of the Regulation of the Minister of National Education of 11 January 2012 on further education in out-of-school forms (Dziennik Ustaw [ Polish Journal of Laws ] of 2014, item 622, as amended) and the Regulation of the Minister of National Education of 18 August 2017 on further  education  in  out-of-school  forms (Dziennik  Ustaw  [ Polish Journal of Laws ] of 2017, item 1632), and - since 1 September 2019 - on the basis of the Regulation of the Minister of National Education of 19 March 2019 on further education in out-of-school forms (Dziennik Ustaw [ Polish Journal of Laws ] of 2019, item 652), at juvenile detention centres and shelters for minors teaching can be conducted as part of qualification vocational courses.
 
 A popular form of gaining additional professional skills by wards of juvenile detention centres are courses and trainings in the following scope: forklift operating, cash register handling, welder's course, driving licence course.
 
-- The  Minister  of  Justice  recommends  a  model  of  vocational  education  that  envisages gaining qualifications and professional skills in course form. Such forms of education provide a possibility of flexible improvement of professional qualifications and general competences adjusted to the needs and capabilities of juvenile detention centre wards.
+67. The  Minister  of  Justice  recommends  a  model  of  vocational  education  that  envisages gaining qualifications and professional skills in course form. Such forms of education provide a possibility of flexible improvement of professional qualifications and general competences adjusted to the needs and capabilities of juvenile detention centre wards.
 
 The above solutions create an opportunity to adapt the period of education to individual needs of the wards of juvenile detention centres and shelters remedy educational deficits by individualising the mode of teaching and educational activities and pedagogical support as part of work with pupils with special educational needs.
 
-- In the process of education and upbringing, the facilities have a wide range of offers in the field of development of cultural and social competences, as well as pro-health, preventive, and sports and recreational competences. In order to achieve better results of care and upbringing work, juvenile detention centres and shelters establish contact and cooperate with the family of the minor, while respecting the national, cultural and religious identity of their wards.
+68. In the process of education and upbringing, the facilities have a wide range of offers in the field of development of cultural and social competences, as well as pro-health, preventive, and sports and recreational competences. In order to achieve better results of care and upbringing work, juvenile detention centres and shelters establish contact and cooperate with the family of the minor, while respecting the national, cultural and religious identity of their wards.
 
 Facilities supplement their educational offers by including wards in therapeutic programmes,  engage  them  in  volunteer  activities,  and  animate  their  free  time  in cooperation with the local community, as well as enable development of interests and abilities of the minors within the institutions.
 
 ###### Implementation of the learning duty in school for adults
 
-- On the basis of Regulation of the Minister of National Education of 8 December 2017 on instances where public or non-public schools for adults can admit a person who is 16 or 15 years of age, and instances where a person who graduated from an eight-year primary school  may  carry  out  their  learning  duty  by  attending  a  qualifying  vocational  course (Dziennik Ustaw [ Polish Journal of Laws ] of 2017, item 1562, as amended):
+69. On the basis of Regulation of the Minister of National Education of 8 December 2017 on instances where public or non-public schools for adults can admit a person who is 16 or 15 years of age, and instances where a person who graduated from an eight-year primary school  may  carry  out  their  learning  duty  by  attending  a  qualifying  vocational  course (Dziennik Ustaw [ Polish Journal of Laws ] of 2017, item 1562, as amended):
 
 -public or non-public primary schools for adults can admit a person who reached the age of 16 at the latest on the day of commencement of classes, if this person is behind
 
@@ -827,33 +856,33 @@ in the education cycle and is not likely to graduate from primary school for chi
 
 In  2017/2018 - 2019/2020, a general upper secondary school for adults could admit a person who attended a public or non-public upper secondary school or a first-stage sectoral VET school for pupils who graduated from lower secondary school.
 
-- Public or non-public general upper-secondary school for adults can admit a person who graduated from a first-stage sectoral VET school and who reached the age of 16 at the latest on the date of commencement of classes.
+70. Public or non-public general upper-secondary school for adults can admit a person who graduated from a first-stage sectoral VET school and who reached the age of 16 at the latest on the date of commencement of classes.
 
-- A public or non-public school for adults can admit a person who reached the age of 15 if the person is in prison or jail.
+71. A public or non-public school for adults can admit a person who reached the age of 15 if the person is in prison or jail.
 
 A person who graduated from an eight-year primary school and:
 
-- is  behind  in  the  education  cycle  due  to  their  life  situation  or  health  condition  that prevents or impedes them from starting or continuing education at a secondary school for youth, or that prevents or impedes the, from pursuing practice at the workplace in accordance with the provisions on on-the-job training and remuneration of youth; or
+1) is  behind  in  the  education  cycle  due  to  their  life  situation  or  health  condition  that prevents or impedes them from starting or continuing education at a secondary school for youth, or that prevents or impedes the, from pursuing practice at the workplace in accordance with the provisions on on-the-job training and remuneration of youth; or
 
-- remains in prison, jail, juvenile detention centre, or shelter for minors
+2) remains in prison, jail, juvenile detention centre, or shelter for minors
 
--may fulfil the learning duty by attending a qualification vocational course.
+- may fulfil the learning duty by attending a qualification vocational course.
 
-- Pursuant to Article 12 (4) of the Act of 20 April 2004 on the Promotion of Employment and Labour Market Institutions (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1409), a public or non-public school for adults can admit a participant of a Voluntary Labour Corps, who reached the age of 15 at the latest on the date of commencement of classes,  or  who  is  behind  on  their  education  cycle  and  is  not  likely  to  graduate  from primary school for children and youth, or has psychological and/or physical predispositions or a difficult life situation that impede his/her ability to learn at a school.
+72. Pursuant to Article 12 (4) of the Act of 20 April 2004 on the Promotion of Employment and Labour Market Institutions (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1409), a public or non-public school for adults can admit a participant of a Voluntary Labour Corps, who reached the age of 15 at the latest on the date of commencement of classes,  or  who  is  behind  on  their  education  cycle  and  is  not  likely  to  graduate  from primary school for children and youth, or has psychological and/or physical predispositions or a difficult life situation that impede his/her ability to learn at a school.
 
 ### II.3. Right to education
 
 #### II.3.1. Pre-school education
 
-- Children  aged  6  shall  undergo  one-year  pre-school  preparatory  education  at  a  nursery school, preschool class at a primary school, or in another form of pre-school education. This obligation starts at the beginning of the school year in the calendar year in which the child reaches the age of 6. In the case of a child that has been issued a decision on the need for special education, this obligation shall commence at the beginning of the school year preceding the school year in which the child starts obligatory education.
+73. Children  aged  6  shall  undergo  one-year  pre-school  preparatory  education  at  a  nursery school, preschool class at a primary school, or in another form of pre-school education. This obligation starts at the beginning of the school year in the calendar year in which the child reaches the age of 6. In the case of a child that has been issued a decision on the need for special education, this obligation shall commence at the beginning of the school year preceding the school year in which the child starts obligatory education.
 
 Ensuring  conditions  to  meet  the  obligation  to  complete  the  one-year  pre-school preparatory education shall be the task of the commune [gmina].
 
-- Parents of a child subject to compulsory one-year pre-school preparatory education shall:
+74. Parents of a child subject to compulsory one-year pre-school preparatory education shall:
 
-- carry out any acts necessary to register the child in a nursery school, preschool class at a primary school or another preschool setting;
+1) carry out any acts necessary to register the child in a nursery school, preschool class at a primary school or another preschool setting;
 
-- ensure that the child attends classes regularly;
+2) ensure that the child attends classes regularly;
 
 26
 
@@ -861,31 +890,31 @@ Ensuring  conditions  to  meet  the  obligation  to  complete  the  one-year  pr
 
 [[START OF PAGE 28]]
 
-- inform, by 30 September each year, the headmaster of a primary school, catchment area  of  which  includes  the  child's  place  of  residence,  that  the  child  fulfils  this obligation by attending a nursery school abroad, including on the basis of international contracts or agreements on direct cooperation concluded by schools, local government units, and government administration bodies, or within education programmes of the European Union, or by attending a nursery school with a diplomatic mission of another country in Poland;
+3) inform, by 30 September each year, the headmaster of a primary school, catchment area  of  which  includes  the  child's  place  of  residence,  that  the  child  fulfils  this obligation by attending a nursery school abroad, including on the basis of international contracts or agreements on direct cooperation concluded by schools, local government units, and government administration bodies, or within education programmes of the European Union, or by attending a nursery school with a diplomatic mission of another country in Poland;
 
-- provide the child with conditions enabling implementation of the core curriculum of pre-school education - in the case of a child who fulfils the obligation outside a nursery school, preschool class at a primary school, or other preschool setting, on the basis of a permit issued by the headmaster of a public or non-public nursery school or primary school to which the child was admitted.
+4) provide the child with conditions enabling implementation of the core curriculum of pre-school education - in the case of a child who fulfils the obligation outside a nursery school, preschool class at a primary school, or other preschool setting, on the basis of a permit issued by the headmaster of a public or non-public nursery school or primary school to which the child was admitted.
 
 Controlling  the  fulfilment  of  the  abovementioned  obligation  shall  be  the  task  of  the headmaster of the primary school catchment area of which encompasses the child's place of residence.
 
-- A public nursery school operated by a local government unit shall as well as a public nursery school operated by legal person other than local government unit, and by natural person:
+75. A public nursery school operated by a local government unit shall as well as a public nursery school operated by legal person other than local government unit, and by natural person:
 
-- implement preschool education programmes taking into account the core curriculum of preschool education;
+1) implement preschool education programmes taking into account the core curriculum of preschool education;
 
-- ensure  free  teaching,  upbringing,  and  care  within  the  period  determined  by  the operating authority, not shorter than 5 hours a day (applies only to the public nursery school operated by local government unit);
+2) ensure  free  teaching,  upbringing,  and  care  within  the  period  determined  by  the operating authority, not shorter than 5 hours a day (applies only to the public nursery school operated by local government unit);
 
-- recruit children on the basis of the principle of universal availability;
+3) recruit children on the basis of the principle of universal availability;
 
-- employ teachers who have qualifications defined in separate regulations.
+4) employ teachers who have qualifications defined in separate regulations.
 
-- In public nursery schools and public other forms of preschool education, operated by legal persons other than local government units, and natural persons, the time of free teaching, upbringing, and care determined by the person operating the establishment may not be shorter than the time of free teaching, upbringing, and care determined by the commune council for public nursery schools and other forms of preschool education operated by the commune.
+76. In public nursery schools and public other forms of preschool education, operated by legal persons other than local government units, and natural persons, the time of free teaching, upbringing, and care determined by the person operating the establishment may not be shorter than the time of free teaching, upbringing, and care determined by the commune council for public nursery schools and other forms of preschool education operated by the commune.
 
-- Public another form of preschool education shall ensure free teaching, upbringing, and care within the period determined by the operating authority, not shorter however, than the period determined by law 23 .
+77. Public another form of preschool education shall ensure free teaching, upbringing, and care within the period determined by the operating authority, not shorter however, than the period determined by law 23 .
 
-- The minister responsible for education and upbringing shall define, by way of a regulation, the types of other forms of preschool education, the conditions for creating and organising them,  the  manner  of  their  operation,  and  the  minimum  daily  period  of  education, upbringing and care provided by thereby, taking into account, in particular, the need to adapt  forms  of  preschool  education  to  the  local  situation  and  needs,  as  well  as  the possibility of conducting classes only on certain days of the week.
+78. The minister responsible for education and upbringing shall define, by way of a regulation, the types of other forms of preschool education, the conditions for creating and organising them,  the  manner  of  their  operation,  and  the  minimum  daily  period  of  education, upbringing and care provided by thereby, taking into account, in particular, the need to adapt  forms  of  preschool  education  to  the  local  situation  and  needs,  as  well  as  the possibility of conducting classes only on certain days of the week.
 
 ##### Fees for using preschool education
 
-- Fees  for  using  preschool  education  -  shall  be  understood  as  charges  for  teaching, upbringing, and care at a preschool education institution, conducted for a period exceeding
+79. Fees  for  using  preschool  education  -  shall  be  understood  as  charges  for  teaching, upbringing, and care at a preschool education institution, conducted for a period exceeding
 
 > 23 Regulation of the Minister of National Education of 28 August 2017 on the types of other forms of preschool education, conditions for their establishment and organisation as well as their methods of operation (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1520).
 
@@ -899,31 +928,31 @@ the  time  of  free  teaching,  upbringing,  and  care  determined  in  accordan
 
 According to Article 52 of the UFZO:
 
-- The commune council shall determine the amount of fees for using preschool education by pupils covered by preschool education until the end of the school year in the calendar year  in  which  they  turn  6  years  of  age,  in  the  following  institutions  operated  by  the commune:
+1. The commune council shall determine the amount of fees for using preschool education by pupils covered by preschool education until the end of the school year in the calendar year  in  which  they  turn  6  years  of  age,  in  the  following  institutions  operated  by  the commune:
 
-- public  nursery  school  and  preschool  class  in  a  public  primary  school,  for  a  period exceeding the period of free teaching, upbringing, and care (at least 5 hours a day);
+1) public  nursery  school  and  preschool  class  in  a  public  primary  school,  for  a  period exceeding the period of free teaching, upbringing, and care (at least 5 hours a day);
 
-- public other preschool forms of preschool education for a period exceeding the period of free teaching, upbringing, and care determined for public preschools on the basis of Article 13 (2) of the UPO.
+2) public other preschool forms of preschool education for a period exceeding the period of free teaching, upbringing, and care determined for public preschools on the basis of Article 13 (2) of the UPO.
 
-- The  commune  council  may  determine  the  terms  and  conditions  of  a  partial  or  full exemption of the abovementioned fees.
+2. The  commune  council  may  determine  the  terms  and  conditions  of  a  partial  or  full exemption of the abovementioned fees.
 
-- The fee may not be higher than PLN 1 for each commenced hour of the child's actual stay at a nursery school, preschool class in a primary school, and other preschool form of education.
+3. The fee may not be higher than PLN 1 for each commenced hour of the child's actual stay at a nursery school, preschool class in a primary school, and other preschool form of education.
 
-- Since the 2017/2018 school year, all children taking advantage of preschool education receive free foreign language courses.
+80. Since the 2017/2018 school year, all children taking advantage of preschool education receive free foreign language courses.
 
-- Preschool  education  shall  be  conducted  in  accordance  with  the  core  curriculum  of preschool education, which states that the aim of preschool education shall be to support the overall development of the child. This support shall be provided throughout the process of care, upbringing, and teaching - learning, which enables the child to discover their own abilities,  the  meaning  of  action,  and  gather  experiences  on  the  way  leading  to  truth, welfare, and beauty. As a result of such support, the child becomes mature enough to start education at stage I.
+81. Preschool  education  shall  be  conducted  in  accordance  with  the  core  curriculum  of preschool education, which states that the aim of preschool education shall be to support the overall development of the child. This support shall be provided throughout the process of care, upbringing, and teaching - learning, which enables the child to discover their own abilities,  the  meaning  of  action,  and  gather  experiences  on  the  way  leading  to  truth, welfare, and beauty. As a result of such support, the child becomes mature enough to start education at stage I.
 
-- Preschool education covers children from the beginning of the school year in the calendar year in which they reached the age of 3, until the end of the school year in the calendar year in which they reach the age of 7.
+82. Preschool education covers children from the beginning of the school year in the calendar year in which they reached the age of 3, until the end of the school year in the calendar year in which they reach the age of 7.
 
 In the case of children who were issued a decision on the need to receive special education, preschool education may cover a child of more than 7 years of age, however not longer than until the end of the school year in the calendar year in which the child reaches the age of 9. In particularly justified cases, preschool education may also cover a child aged 2.5.
 
-- Children aged 3-5 shall have the right to use preschool education. The child shall acquire this right at the beginning of the school year in the calendar year in which they reach the age of 3.
+83. Children aged 3-5 shall have the right to use preschool education. The child shall acquire this right at the beginning of the school year in the calendar year in which they reach the age of 3.
 
-- Preschool  education  is  implemented  at  nursery  schools,  preschool  classes  in  primary schools, and in other forms of preschool education.
+84. Preschool  education  is  implemented  at  nursery  schools,  preschool  classes  in  primary schools, and in other forms of preschool education.
 
 Ensuring conditions for exercising the right to use preschool education shall be the task of the commune.
 
-- If the number of children to whom the commune is obliged to ensure the possibility of using  preschool  education,  residing  within  a  given  commune,  reported  during  the recruitment  procedure  to  a  public  nursery  school,  preschool  class  in  a  public  primary school, public other form of preschool education, non-public nursery school, preschool
+85. If the number of children to whom the commune is obliged to ensure the possibility of using  preschool  education,  residing  within  a  given  commune,  reported  during  the recruitment  procedure  to  a  public  nursery  school,  preschool  class  in  a  public  primary school, public other form of preschool education, non-public nursery school, preschool
 
 28
 
@@ -933,15 +962,15 @@ Ensuring conditions for exercising the right to use preschool education shall be
 
 class in a non-public primary school, or other non-public form of preschool education exceeds the number of places in that nursery school, preschool class or another form of preschool education, the leader of the nursery school or leader of the primary school shall release information that the child was not admitted to the nursery school, preschool class at a primary school, or another form of preschool education to the commune head (mayor, city president). In this case, the head of the commune (mayor, city president) shall indicate in writing, not later than before the commencement of the supplementary proceedings, other public nursery school, a preschool class in a public primary school, or another public form of preschool education, or non-public nursery school, preschool class in a non-public primary school, or another non-public form of preschool education that may admit the child.  The  work  hours  of  the  other  public  nursery  school,  preschool  class  in  a  public primary  school,  other  public  form  of  preschool  education,  non-public  nursery  school, preschool  class  in  a  non-public  primary  school,  other  non-public  form  of  preschool education indicated by the commune head (mayor, city president) should be similar to the work hours of, accordingly, the nursery school, preschool class in a primary school, or other form of preschool education admittance to which was applied for by the child's parents.
 
-In such a case, the head of the commune (mayor, city president) shall, if possible, indicate, accordingly a public nursery school, preschool class in a public primary school, other public form of preschool education, non-public nursery school, preschool class in a nonpublic primary school, other non-public form of preschool education that are closest to the preschool,  preschool  class  in  a  primary  school,  other  form  of  preschool  education admittance to which was applied for by the child's parents (Article 31 of the UPO).
+In such a case, the head of the commune (mayor, city president) shall, if possible, indicate, accordingly a public nursery school, preschool class in a public primary school, other public form of preschool education, non-public nursery school, preschool class in a non-public primary school, other non-public form of preschool education that are closest to the preschool,  preschool  class  in  a  primary  school,  other  form  of  preschool  education admittance to which was applied for by the child's parents (Article 31 of the UPO).
 
-- The commune council shall determine a network of public nursery schools and preschool classes  in  primary  schools  operated  by  the  commune.  The  resolution  of  the  commune council shall be announced in the province official journal.
+86. The commune council shall determine a network of public nursery schools and preschool classes  in  primary  schools  operated  by  the  commune.  The  resolution  of  the  commune council shall be announced in the province official journal.
 
 In cases justified by demographic and geographic conditions the commune council may supplement  the  network  of  public  nursery  schools  and  preschool  classes  in  primary schools  with  other  preschool  settings.  Other  forms  of  preschool  education  shall  be organised for children at their place of residence or another location that is as close to their place of residence as possible.
 
 A network of public nursery schools and preschool classes in public primary schools, together with public nursery schools, preschool classes in public primary schools, and other  public  forms  of  preschool  education  operated  by  legal  persons  other  than  local government units or by natural persons, other public form of preschool education operated by the commune, non-public nursery schools, preschool classes in non-public primary schools,  and  other  non-public  forms  of  preschool  education,  should  provide  children residing in the commune with the possibility of using pre-school education (Article 32 of the UPO).
 
-- In the school year 2019/2020 (according to the SIO data as at 30 September 2019), there were  12,931 nursery  schools (including  4.156  in  rural  areas).  In  the  school  year 2018/2019 there 12,535 (including 4,056 in rural areas). In the school year 2017/2018 12,146 (including 3,944 in rural areas).
+87. In the school year 2019/2020 (according to the SIO data as at 30 September 2019), there were  12,931 nursery  schools (including  4.156  in  rural  areas).  In  the  school  year 2018/2019 there 12,535 (including 4,056 in rural areas). In the school year 2017/2018 - 12,146 (including 3,944 in rural areas).
 
 In the school year 2019/2020 14,109 preschool classes were organised in 7,808 primary schools  (including  in  5,847  schools  in  rural  areas  -  were  10,099  preschool  classes operated). In the school year 2018/2019 there were 13,697 preschool classes organised in 7,924  primary  schools  (including  in  9,780  classes  in  rural  areas).  In  the  school  year 2017/2018 there were 13,433 of them in 8,030 primary schools.
 
@@ -955,9 +984,9 @@ In the school year 2019/2020 there were 1,613 public and non-public preschool ed
 
 According to the above data, there is a small but constant decrease in the number of other forms of preschool education. On the other hand, nursery schools become the most popular place for providing preschool education. According to earlier predictions, the popularity of preschool classes in primary schools increased.
 
-- In  the  2017/2018  school  year, a  total of  1,361.2  thousand children were covered by preschool education , in the school year 2018/2019 - 1,392.9 thousand children, and in the school year 2019/2020 this number increased to 1,413.6 thousand. It is a consequence of a systematic increase of parents' interest in this form of education. The increase in the number of children covered by preschool education resulted in the ratio of promotion of preschool education of children aged 3-5 increased from 84.7% in 2017 to 87.4% in 2018 and to 89.3% in 2019. It should be expected that this indicator will continue to grow due to demographic tendencies - the population will be reduced in subsequent years and new preschool education units will be opened. This will allow to achieve the planned rate of dissemination of pre-school education of children aged 3-5 of 90% by 2020.
+88. In  the  2017/2018  school  year, a  total of  1,361.2  thousand children were covered by preschool education , in the school year 2018/2019 - 1,392.9 thousand children, and in the school year 2019/2020 this number increased to 1,413.6 thousand. It is a consequence of a systematic increase of parents' interest in this form of education. The increase in the number of children covered by preschool education resulted in the ratio of promotion of preschool education of children aged 3-5 increased from 84.7% in 2017 to 87.4% in 2018 and to 89.3% in 2019. It should be expected that this indicator will continue to grow due to demographic tendencies - the population will be reduced in subsequent years and new preschool education units will be opened. This will allow to achieve the planned rate of dissemination of pre-school education of children aged 3-5 of 90% by 2020.
 
-- Preschool education in 2018 covered 35,678 children who were issued decisions on the need for special education (as at 30 September 2018 according to the SIO data), of which:
+89. Preschool education in 2018 covered 35,678 children who were issued decisions on the need for special education (as at 30 September 2018 according to the SIO data), of which:
 
 -14,005 children on the autism spectrum, including Asperger syndrome,
 
@@ -977,7 +1006,7 @@ According to the above data, there is a small but constant decrease in the numbe
 
 -28 blind children.
 
-- Preschool education in 2019 covered 35,422 children who were issued decisions on the need for special education (as at 30 September 2019 according to the SIO data), of which:
+90. Preschool education in 2019 covered 35,422 children who were issued decisions on the need for special education (as at 30 September 2019 according to the SIO data), of which:
 
 -14,274 children on the autism spectrum, including Asperger syndrome,
 
@@ -1003,7 +1032,7 @@ According to the above data, there is a small but constant decrease in the numbe
 
 ##### Primary education
 
-- Obligatory education for a child shall begin with the beginning of the school year in the calendar year the child reaches the age of 7 and shall end until graduation from primary school, however, no longer than until the time the child reaches the age of 18. On request
+91. Obligatory education for a child shall begin with the beginning of the school year in the calendar year the child reaches the age of 7 and shall end until graduation from primary school, however, no longer than until the time the child reaches the age of 18. On request
 
 30
 
@@ -1017,43 +1046,43 @@ Obligatory education is pursued by way of attending eight years of public or non
 
 92. A public primary school shall:
 
-- provide free education in the scope of framework curricula;
+1) provide free education in the scope of framework curricula;
 
-- recruit pupils on the basis of the principle of universal availability;
+2) recruit pupils on the basis of the principle of universal availability;
 
-- employ teachers who have qualifications defined in separate regulations;
+3) employ teachers who have qualifications defined in separate regulations;
 
-- implement:
+4) implement:
 
-- curricula taking into account the core curriculum of general education,
+a) curricula taking into account the core curriculum of general education,
 
-- framework teaching plan;
+b) framework teaching plan;
 
-- fulfil the rules for evaluating, classifying, and promoting pupils and conducting the exams referred to in chapters 3a and 3b of the USO.
+5) fulfil the rules for evaluating, classifying, and promoting pupils and conducting the exams referred to in chapters 3a and 3b of the USO.
 
 A non-public school which is not an art school is a school which:
 
-- implements syllabuses taking into account the core curriculum of general education, and in the case of a school providing vocational education - also the core curriculum of vocational education professions;
+1) implements syllabuses taking into account the core curriculum of general education, and in the case of a school providing vocational education - also the core curriculum of vocational education professions;
 
-- carries out mandatory educational classes in a period not shorter and no less than the total time of individual classes defined in the framework teaching plan for a given type of school;
+2) carries out mandatory educational classes in a period not shorter and no less than the total time of individual classes defined in the framework teaching plan for a given type of school;
 
-- applies the classification and promotion of students and conducting exams referred to in chapters 3a and 3b of the USO;
+3) applies the classification and promotion of students and conducting exams referred to in chapters 3a and 3b of the USO;
 
-- keeps documentation of the course of education determined for public schools;
+4) keeps documentation of the course of education determined for public schools;
 
-- in  the  case  of  a  school  providing  vocational  education  -  educates  in  professions defined in the classification of the sectoral TVET education professions;
+5) in  the  case  of  a  school  providing  vocational  education  -  educates  in  professions defined in the classification of the sectoral TVET education professions;
 
-- employs teachers  of  mandatory  subjects,  having  qualifications  defined  for  public school teachers;
+6) employs teachers  of  mandatory  subjects,  having  qualifications  defined  for  public school teachers;
 
-- applies the organisation of a school year established for public schools.
+7) applies the organisation of a school year established for public schools.
 
 Public  schools  and  non-public  schools  enable  obtaining  school  reports,  certificates, statements, annexes or state diplomas.
 
-- In order to ensure the proper implementation of care tasks, in particular supporting the proper development of pupils, the school may organise a canteen. The  conditions  for using the school canteen, including the amount of fees for meals, are determined by the school headmaster in consultation with the authority operating the school.
+93. In order to ensure the proper implementation of care tasks, in particular supporting the proper development of pupils, the school may organise a canteen. The  conditions  for using the school canteen, including the amount of fees for meals, are determined by the school headmaster in consultation with the authority operating the school.
 
 The authority operating the school may exempt parents or an adult student from all or part of the abovementioned fees if the family is in a particularly difficult financial situation or in particularly justified cases of random events (Article 106 of the UPO) - also applies to secondary schools.
 
-- In order to ensure the proper implementation of care tasks, in particular supporting the proper  development  of  students,  the  school  may  organise boarding houses for  pupils pursuing compulsory education outside their place of permanent residence. The conditions
+94. In order to ensure the proper implementation of care tasks, in particular supporting the proper  development  of  students,  the  school  may  organise boarding houses for  pupils pursuing compulsory education outside their place of permanent residence. The conditions
 
 31
 
@@ -1065,41 +1094,41 @@ for using the boarding house, including the amount of fees for accommodation and
 
 The authority operating the school may exempt parents or an adult student from all or part of the fees for accommodation in a boarding house if the family is in a particularly difficult financial situation or in particularly justified cases of random events (Article 107 of the UPO) - also applies to secondary schools.
 
-- A parents' council appointed at the school or facility may gather funds from voluntary contributions made by parents or from other sources. Funds from the parents' council may also be spent on the statutory activities of the school. The rules for spending these funds are set out in the regulations adopted by the parents' council (Article 84 of the UPO) also applies to secondary schools.
+95. A parents' council appointed at the school or facility may gather funds from voluntary contributions made by parents or from other sources. Funds from the parents' council may also be spent on the statutory activities of the school. The rules for spending these funds are set out in the regulations adopted by the parents' council (Article 84 of the UPO) – also applies to secondary schools.
 
 ##### Secondary education
 
-- A public secondary school is a school which:
+96. A public secondary school is a school which:
 
-- provides free education in the scope of framework teaching plans;
+1) provides free education in the scope of framework teaching plans;
 
-- recruits pupils on the basis of the principle of universal availability;
+2) recruits pupils on the basis of the principle of universal availability;
 
-- employs teachers who have qualifications defined in separate regulations;
+3) employs teachers who have qualifications defined in separate regulations;
 
-- implements:
+4) implements:
 
-- curricula taking into account the core curriculum of general education, and in the case  of  a  school  providing  vocational  education  -  also  the  core  curriculum  of sectoral VET education professions or the core curriculum of fine arts professions education,
+a) curricula taking into account the core curriculum of general education, and in the case  of  a  school  providing  vocational  education  -  also  the  core  curriculum  of sectoral VET education professions or the core curriculum of fine arts professions education,
 
-- framework teaching plan;
+b) framework teaching plan;
 
-- fulfils the rules for evaluating, classifying, and promoting students and conducting the exams referred to in chapters 3a and 3b of the USO.
+5) fulfils the rules for evaluating, classifying, and promoting students and conducting the exams referred to in chapters 3a and 3b of the USO.
 
 Public  schools  and  non-public  schools  enable  obtaining  school  reports,  certificates, statements, annexes or state diplomas.
 
-- Public and non-public upper secondary schools are divided into the following types:
+97. Public and non-public upper secondary schools are divided into the following types:
 
-- four-year general upper secondary school (czteroletnie liceum ogólnokształcące),
+a) four-year general upper secondary school (czteroletnie liceum ogólnokształcące),
 
-- five-year technical upper secondary school (pięcioletnie technikum),
+b) five-year technical upper secondary school (pięcioletnie technikum),
 
-- three-year first-stage sectoral VET school (trzyletnia szkoła branżowa I stopnia),
+c) three-year first-stage sectoral VET school (trzyletnia szkoła branżowa I stopnia),
 
-- three-year  special  school  preparing  for  employment  (trzyletnia  szkoła  specjalna przysposabiająca do pracy),
+d) three-year  special  school  preparing  for  employment  (trzyletnia  szkoła  specjalna przysposabiająca do pracy),
 
-- two-year second-stage sectoral VET school (dwuletnia szkoła branżowa II stopnia),
+e) two-year second-stage sectoral VET school (dwuletnia szkoła branżowa II stopnia),
 
-- post-secondary school (szkoła policealna) for people with secondary education or sectoral secondary education, lasting no more than 2.5 years.
+f) post-secondary school (szkoła policealna) for people with secondary education or sectoral secondary education, lasting no more than 2.5 years.
 
 Special school preparing for employment shall be a special school intended solely for pupils  with  moderate  or  severe  intellectual  disability  and  for  pupils  with  multiple disabilities.
 
@@ -1107,7 +1136,7 @@ General upper secondary school, technical upper secondary school, first-stage se
 
 A school for adults shall provide education in a 4-day-a-week or extramural mode.
 
-- Education shall be compulsory until one reaches 18 years of age (Article 35 of the UPO).
+98. Education shall be compulsory until one reaches 18 years of age (Article 35 of the UPO).
 
 32
 
@@ -1119,13 +1148,13 @@ After graduating from primary school, the learning duty is fulfilled by attendin
 
 ##### Minimum age to enter the labour market
 
-- In accordance with the Act of 26 June 1974 the Labour Code (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1320), any person above the age of 18 may be employed. Under the terms and conditions set out in section 9 of the Act of 26 June 1974 the Labour Code , an employee may also be a person who is under 18 years of age.
+99. In accordance with the Act of 26 June 1974 - the Labour Code (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1320), any person above the age of 18 may be employed. Under the terms and conditions set out in section 9 of the Act of 26 June 1974 - the Labour Code, an employee may also be a person who is under 18 years of age.
 
 ###### Article 190
 
 § 1. A minor within the meaning of the Code shall be a person over 15 and under 18 years of age.
 
-§ 2. Employment of a person under the age of 15 shall be prohibited, subject to Article 191 § 2 1 to 2 3 .
+§ 2. Employment of a person under the age of 15 shall be prohibited, subject to Article 191 § 2¹ to 2³.
 
 ###### Article 191
 
@@ -1137,17 +1166,17 @@ After graduating from primary school, the learning duty is fulfilled by attendin
 
 § 2. A minor without professional qualifications may be employed solely for the purpose of vocational training.
 
-§ 2 1 . A person who graduated from an eight-year primary school and is under the age of 15 may be employed on terms set out for minors, in the calendar year in which he/she reaches the age of 15.
+§ 2¹. A person who graduated from an eight-year primary school and is under the age of 15 may be employed on terms set out for minors, in the calendar year in which he/she reaches the age of 15.
 
-§ 2 2 . A person who graduated from an eight-year primary school and is under the age of 15, except for the person referred to in § 2 1 , may be employed on terms set out for minors for the purpose of vocational training in the form of practical learning of a profession.
+§ 2². A person who graduated from an eight-year primary school and is under the age of 15, except for the person referred to in § 2¹, may be employed on terms set out for minors for the purpose of vocational training in the form of practical learning of a profession.
 
-§ 2 3 . A person who did not graduate from an eight-year primary school and is under the age of 15 may be employed on terms set out for minors for the purpose of vocational training in the form of training for a specific job.
+§ 2³. A person who did not graduate from an eight-year primary school and is under the age of 15 may be employed on terms set out for minors for the purpose of vocational training in the form of training for a specific job.
 
-§ 2 4 .  It  is  permitted to conclude an employment contract for the purpose of vocational training  with  the  person  referred  to  in  §  2 2 and  §  2 3 if  a  legal  representative  or  legal guardian of that person gave their consent and a positive opinion has been obtained from a psychological and pedagogical counselling centre.
+§ 2⁴.  It  is  permitted to conclude an employment contract for the purpose of vocational training  with  the  person  referred  to  in  § 2² and  § 2³ if  a  legal  representative  or  legal guardian of that person gave their consent and a positive opinion has been obtained from a psychological and pedagogical counselling centre.
 
-§ 2 5 . In the case of the person referred to in § 2 3 , it is also required to obtain permission of the leader of the eight-year primary school, catchment area of which encompasses that person's place of residence, to complete obligatory education outside the school.
+§ 2⁵. In the case of the person referred to in § 2³, it is also required to obtain permission of the leader of the eight-year primary school, catchment area of which encompasses that person's place of residence, to complete obligatory education outside the school.
 
-§ 2 6 .  It  is  permitted to conclude an employment contract for the purpose of vocational training in the form of training for a specific job with a person who reached the age of 15 but  did  not  graduate  from  an  eight-year  primary  school,  at  the  request  of  their  legal representative or legal guardian, where:
+§ 2⁶.  It  is  permitted to conclude an employment contract for the purpose of vocational training in the form of training for a specific job with a person who reached the age of 15 but  did  not  graduate  from  an  eight-year  primary  school,  at  the  request  of  their  legal representative or legal guardian, where:
 
 33
 
@@ -1159,11 +1188,11 @@ After graduating from primary school, the learning duty is fulfilled by attendin
 
 2) that person obtained a permission to fulfil obligatory education outside school from the leader  of  the  eight-year  primary  school,  catchment  area  of  which  encompasses  that person's  place  of  residence  and  obtained  a  positive  opinion  from  a  psychological  and pedagogical counselling centre.
 
-§ 2 7 .  It  is  permitted to conclude an employment contract for the purpose of vocational training in the form of training for a specific job with a person who reached the age of 15 but did not graduate from an eight-year primary school and fulfils obligatory education outside school, provided that they completed vocational training in the form training to perform a specific job. The provision of § 2 6 (2) shall apply accordingly.
+§ 2⁷.  It  is  permitted to conclude an employment contract for the purpose of vocational training in the form of training for a specific job with a person who reached the age of 15 but did not graduate from an eight-year primary school and fulfils obligatory education outside school, provided that they completed vocational training in the form training to perform a specific job. The provision of § 2⁶ (2) shall apply accordingly.
 
 § 3. The Council of Ministers shall define, by way of a regulation, the terms and conditions of on the job training, as well as the terms and conditions of remuneration of minors in this period.
 
-###### Article 191 1
+###### Article 191¹
 
 A person who reached the age of 18 while attending an eight-year primary school may be employed on terms set out for minors in the calendar year in which he/she graduated from that school.
 
@@ -1187,11 +1216,11 @@ If a minor has not completed vocational training prior to reaching 18 years of a
 
 #### II.3.3. Higher education
 
-- The higher education system in Poland ensures equal access to education at all stages thereof.
+100. The higher education system in Poland ensures equal access to education at all stages thereof.
 
 Articles 32 - 33 of the Constitution state that all persons shall be equal before the law and shall have the right to equal treatment by public authorities. No one shall be discriminated against in political, social or economic life for any reason whatsoever. Men and women shall have equal rights in family, political, social and economic life, including equal right to education.
 
-- Equal treatment rules shall apply to all students, including foreigners.
+101. Equal treatment rules shall apply to all students, including foreigners.
 
 All candidates for tertiary studies shall be subject to the recruitment procedure specified by a given higher education institution. Higher education institutions shall independently define  the  conditions,  procedure,  and  date  of  commencement  and  completion  of  the recruitment process for tertiary studies and the manner in which it shall be conducted. Nevertheless, the UPSWiN contains a provision that foreigners may start and continue their  studies  on  the  basis  of  an  administrative  decision  of  the  rector,  i.e.  without  the recruitment  criteria  set  out  in  the  resolution  of  the  senate  of  the  higher  education institution.
 
@@ -1201,11 +1230,11 @@ All candidates for tertiary studies shall be subject to the recruitment procedur
 
 [[START OF PAGE 36]]
 
-- Pursuant  to  the  provisions  of  the  UPSWiN,  a  public  higher  education  institution  may charge fees for educational services. The list of these services is included in Article 79 of the UPSWiN. These fees should be the same for all students, including foreigners. Article 324 (2) of the UPSWiN lists the categories of persons from whom fees for education at full-time studies in the Polish language shall not be collected under law.
+102. Pursuant  to  the  provisions  of  the  UPSWiN,  a  public  higher  education  institution  may charge fees for educational services. The list of these services is included in Article 79 of the UPSWiN. These fees should be the same for all students, including foreigners. Article 324 (2) of the UPSWiN lists the categories of persons from whom fees for education at full-time studies in the Polish language shall not be collected under law.
 
-- The principle of equal treatment, inter alias, in terms of access and conditions of taking advantage of primary/secondary and tertiary education, as well as vocational education, including upskilling, professional development, vocational retraining, and apprenticeships, shall be guaranteed by the provisions of the Act of 3 December 2010 on the  implementation  of  certain  provisions  of  the  European  Union  in  terms  of  equal treatment .
+103. The principle of equal treatment, inter alias, in terms of access and conditions of taking advantage of primary/secondary and tertiary education, as well as vocational education, including upskilling, professional development, vocational retraining, and apprenticeships, shall be guaranteed by the provisions of the Act of 3 December 2010 on the  implementation  of  certain  provisions  of  the  European  Union  in  terms  of  equal treatment .
 
-- Disabled  persons  may  obtain  support  under  programmes  financed  from  the  National Rehabilitation  Fund  for  Disabled  Persons  (Państwowy  Fundusz  Rehabilitacji  Osób Niepełnosprawnych).  One  of  them  is  the  'Active  Local  Government'  (Aktywny samorząd) programme.
+104. Disabled  persons  may  obtain  support  under  programmes  financed  from  the  National Rehabilitation  Fund  for  Disabled  Persons  (Państwowy  Fundusz  Rehabilitacji  Osób Niepełnosprawnych).  One  of  them  is  the “Active  Local  Government” (Aktywny samorząd) programme.
 
 The  main  purpose  of  the  programme  is  to  eliminate  or  reduce  barriers  limiting  the participation of beneficiaries of the programme in social and professional life, and access to education. A detailed objective of the programme is, inter alias, to improve the chances of beneficiaries of the programme to compete for employment on an open labour market, by increasing qualifications.
 
@@ -1227,7 +1256,7 @@ The conditions for participation of a disabled person in the Module II programme
 
 ##### Vocational education
 
-- On 22 November 2018 an Act was passed on amending the Act - Education Law, Act on the  System  of  Education,  and  Certain  Other  Acts (Ustawa o  zmianie  ustawy  -  Prawo
+105. On 22 November 2018 an Act was passed on amending the Act - Education Law, Act on the  System  of  Education,  and  Certain  Other  Acts (Ustawa o  zmianie  ustawy  -  Prawo
 
 35
 
@@ -1253,25 +1282,25 @@ Most solutions are instruments aimed at linking education to the labour market.
 
 Actions preceding the adoption of the Act, implemented since the 2017/2018 school year:
 
-- the  structure  of  education  has  been  made  more  flexible,  and  access  to  further education has been ensured, first-stage and second-stage sectoral VET schools have been introduced, ensuring the efficiency of the education process and the possibility of taking the maturity exam;
+1) the  structure  of  education  has  been  made  more  flexible,  and  access  to  further education has been ensured, first-stage and second-stage sectoral VET schools have been introduced, ensuring the efficiency of the education process and the possibility of taking the maturity exam;
 
-- a model of practical training was made more flexible by enabling schools to increase the number of hours allocated for its implementation
+2) a model of practical training was made more flexible by enabling schools to increase the number of hours allocated for its implementation
 
-( in a technical upper secondary school or a post-secondary school - at least 50% of the hours of vocational education a week has been devoted to practical training, and in a first-stage sectoral VET school - at least 60% of those hours );
+(in a technical upper secondary school or a post-secondary school - at least 50% of the hours of vocational education a week has been devoted to practical training, and in a first-stage sectoral VET school - at least 60% of those hours);
 
-- mandatory  career  counselling  classes  were  introduced  in  order  to  increase  the accuracy of decisions related to the selection of a profession
+3) mandatory  career  counselling  classes  were  introduced  in  order  to  increase  the accuracy of decisions related to the selection of a profession
 
-( minimum 10 hours a year in grades VII and VIII of primary school and minimum 10 hours  in  the  education  cycle  in  secondary  schools  -  first-stage  sectoral  VET school,  five-year  technical  upper  secondary  school,  four-year  general  upper secondary school );
+(minimum 10 hours a year in grades VII and VIII of primary school and minimum 10 hours  in  the  education  cycle  in  secondary  schools  -  first-stage  sectoral  VET school,  five-year  technical  upper  secondary  school,  four-year  general  upper secondary school);
 
-- a pilot division of educational subsidy was carried out, taking into account the cost of education in groups of professions;
+4) a pilot division of educational subsidy was carried out, taking into account the cost of education in groups of professions;
 
-- agreements or letters of intent of the MEN with representatives of industries (rail transport, road transport, air transport, construction, and  power  supply)  are successfully signed;
+5) agreements or letters of intent of the MEN with representatives of industries (rail transport, road transport, air transport, construction, and  power  supply)  are successfully signed;
 
-- Regional Education Authorities have appointed vocational education coordinators whose  task  is  to  support  employers  interested  in  establishing  cooperation  with schools;
+6) Regional Education Authorities have appointed vocational education coordinators whose  task  is  to  support  employers  interested  in  establishing  cooperation  with schools;
 
-- over  1,000  employers  participated  in  the  preparation  of  programme  changes (including the development of new core curricula of education in sectoral vocational professions that entered into force on 1September 2019);
+7) over  1,000  employers  participated  in  the  preparation  of  programme  changes (including the development of new core curricula of education in sectoral vocational professions that entered into force on 1September 2019);
 
-- on  the  initiative  of  the  MEN,  the  Central  Statistical  Office  conducted  a  pilot programme of a new tool for monitoring labour market demand for graduates of schools providing vocational education;
+8) on  the  initiative  of  the  MEN,  the  Central  Statistical  Office  conducted  a  pilot programme of a new tool for monitoring labour market demand for graduates of schools providing vocational education;
 
 36
 
@@ -1279,7 +1308,7 @@ Actions preceding the adoption of the Act, implemented since the 2017/2018 schoo
 
 [[START OF PAGE 38]]
 
-- an auxiliary body was established with the minister responsible for education and upbringing  -  the  Council  of  Vocational  School  Leaders,  which  took  part  in  the preparation of changes in vocational education and consulting them in the school environment on an ongoing basis.
+9) an auxiliary body was established with the minister responsible for education and upbringing  -  the  Council  of  Vocational  School  Leaders,  which  took  part  in  the preparation of changes in vocational education and consulting them in the school environment on an ongoing basis.
 
 Particularly important changes from the perspective of employers, including craftsmen :
 
@@ -1295,7 +1324,7 @@ Particularly important changes from the perspective of employers, including craf
 
 -the condition for the introduction of education in the new profession shall also be to obtain the opinion of the province labour market council, issued for 5 years, on the validity  of  education  in  this  profession  in  accordance  with  the  needs  of  the  labour market  (not  required  in  the  case  of  education  of  minor  workers  and  education  in auxiliary professions),
 
--dissemination of practical education under real working conditions - introduction of internship contracts with pupils of technical upper secondary schools and sectoral firststage VET schools who are not minors (employers can include benefits for trainees in tax deductibles),
+- dissemination of practical education under real working conditions - introduction of internship contracts with pupils of technical upper secondary schools and sectoral first-stage VET schools who are not minors (employers can include benefits for trainees in tax deductibles),
 
 -increasing the attractiveness of education in craftsmanship professions - increasing the minimum percentage rates of remunerations of minor employees for which employers will  be  entitled  to  reimbursement  (from 4%,  5%, 6% of the average monthly salary in subsequent years of education to 5%, 6% and 7%, respectively),
 
@@ -1319,9 +1348,9 @@ Particularly important changes from the perspective of employers, including craf
 
 -introduction of tax preferences (exemptions) for employers (natural persons and legal persons) transferring donations to public schools providing vocational education,
 
--introduction of the obligation to take a vocational exam (and a journeyman exam - for pupils-minor  employees  learning  a  craft  at  the  employer  who  is  a  craftsman)  constituting  a  condition  for  obtaining  promotion  to  the  next  class  and  obtaining  a graduation certificate.
+- introduction of the obligation to take a vocational exam (and a journeyman exam - for pupils-minor  employees  learning  a  craft  at  the  employer  who  is  a  craftsman) – constituting  a  condition  for  obtaining  promotion  to  the  next  class  and  obtaining  a graduation certificate.
 
-- The structure of sectoral education (2019/2020) includes:
+106. The structure of sectoral education (2019/2020) includes:
 
 -five-year technical upper secondary school;
 
@@ -1333,13 +1362,13 @@ Particularly important changes from the perspective of employers, including craf
 
 Introduction of the first-stage sectoral VET school in place of the basic vocational school took place on 1 September 2017.
 
-Since 1 September 2019, the total number of hours allocated for vocational education in five-year technical upper secondary schools was increased to 56 hours/week in the fiveyear education period.
+Since 1 September 2019, the total number of hours allocated for vocational education in five-year technical upper secondary schools was increased to 56 hours/week in the five-year education period.
 
-- A  special  analysis  was  conducted  on  the  possibility  of  strengthening  the  impact  of companies and enterprise associations on the functioning of vocational education, e.g. on the  creation  of  a  vocational  education  offer,  activation  of  education  in  professions, implementation by pupils of practical vocational education under real working conditions, training of vocational education teachers.
+107. A  special  analysis  was  conducted  on  the  possibility  of  strengthening  the  impact  of companies and enterprise associations on the functioning of vocational education, e.g. on the  creation  of  a  vocational  education  offer,  activation  of  education  in  professions, implementation by pupils of practical vocational education under real working conditions, training of vocational education teachers.
 
-It  was  assumed, by way of an act, that the education system in Poland in the field of vocational education is supported by employers, employer organisations, economic selfgovernments,  or  other economic  organisations, associations, or professional selfgovernments, sectoral competence boards and the Competence Programme Board.
+It  was  assumed, by way of an act, that the education system in Poland in the field of vocational education is supported by employers, employer organisations, economic self-governments,  or  other economic  organisations, associations, or professional self-governments, sectoral competence boards and the Competence Programme Board.
 
-- Starting from the 2019/2020 school year, all activities of the school providing vocational education  are  focused  on  ensuring  that  graduates  have  full  professional  qualifications confirmed by relevant documents issued as a result of submitted exams. In addition, a graduate should be prepared to obtain professional qualifications or market qualifications necessary  for  the  future  employer,  specified  in  the  Integrated  Qualifications  System (Zintegrowany  System  Kwalifikacji) 24 or  additional  professional  skills  related  to  the profession taught.
+108. Starting from the 2019/2020 school year, all activities of the school providing vocational education  are  focused  on  ensuring  that  graduates  have  full  professional  qualifications confirmed by relevant documents issued as a result of submitted exams. In addition, a graduate should be prepared to obtain professional qualifications or market qualifications necessary  for  the  future  employer,  specified  in  the  Integrated  Qualifications  System (Zintegrowany  System  Kwalifikacji) 24 or  additional  professional  skills  related  to  the profession taught.
 
 > 24 Act of 22 December 2015 on Integrated Qualifications System (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 226).
 
@@ -1353,15 +1382,15 @@ Schools  which  launch  courses  in  a  given  profession  are  therefore  oblig
 
 Local  government  units  receive  an  increased  education  subsidy  for  schools  teaching professions  with  higher  demand  on  the  labour  market,  indicated  in  the  prognosis  of demand for employees in vocational education professions. This prognosis is determined by the minister responsible for education and upbringing by way of announcement and takes  into  account  data  of  public  statistics,  social  insurance,  the  SIO,  and  results  of available research and labour market analyses. In addition, a new criterion is introduced for the division of subsidies consisting in the diversification of amounts determined for students covered by vocational education in vocational education professions of particular importance  for  culture  and  national  heritage.  The  list  of  professions  of  particular importance  for  culture  and  national  heritage  shall  be  determined  by  the  minister responsible for education and upbringing in consultation with the minister responsible for culture and national heritage, also by way of announcement. Thanks to such mechanisms, in  first-stage  and  second-stage  sectoral  schools  and  technical  upper  secondary  schools includes education in the professions needed on the labour market is provided.
 
-- A minor employee, in most cases, is at the same time a pupil learning at a first-stage sectoral VET school. It will be necessary to start cooperation between the employer and the school in which said minor employee pursues theoretical vocational education and general education. Both of these entities shall be responsible for educating a pupil - minor employee  who  fulfils  their  learning  duty  in  this  form.  Employers  who  educate  minor employees in professions where there is an increased demand for employees will receive higher subsidies to the costs of that education.
+109. A minor employee, in most cases, is at the same time a pupil learning at a first-stage sectoral VET school. It will be necessary to start cooperation between the employer and the school in which said minor employee pursues theoretical vocational education and general education. Both of these entities shall be responsible for educating a pupil - minor employee  who  fulfils  their  learning  duty  in  this  form.  Employers  who  educate  minor employees in professions where there is an increased demand for employees will receive higher subsidies to the costs of that education.
 
 In  addition,  pupils  attending  first-degree  sectoral  VET  school  who  are  not  minor employees and technical upper secondary schools may, on the basis of a contract with an employer, undergo student internship. Participation in pupil internships enables the pupils to learn a profession under real working conditions, get to know the workplace, and get acquainted with specific positions. Employers on the other hand, have an opportunity to learn about a potential future employee and prepare him/her for work. The employers shall include costs of cash benefits that the pupil will receive during the internship in their tax deductibles.
 
 Pupils who choose education at a post-secondary school learn trades that are, as a rule, assigned  to  the  5th  level  of  the  Polish  Qualifications  Framework  (Polska  Rama Kwalifikacji).
 
-- In order for a pupil to achieve success, it is necessary to prepare a vocational teacher who systematically improves his/her own skills. Therefore, obligatory training at a workplace is introduced. As a result of industry training, teachers will regularly improve their skills and competences, broaden their knowledge on new technologies and the functioning of enterprises in a given industry sector. In this way, qualifications of vocational education teachers will be regularly improved, which will translate into the quality of education they provide.
+110. In order for a pupil to achieve success, it is necessary to prepare a vocational teacher who systematically improves his/her own skills. Therefore, obligatory training at a workplace is introduced. As a result of industry training, teachers will regularly improve their skills and competences, broaden their knowledge on new technologies and the functioning of enterprises in a given industry sector. In this way, qualifications of vocational education teachers will be regularly improved, which will translate into the quality of education they provide.
 
-- Since the school year 2019/2020, changes in sectoral education also focus on improving and increasing the effectiveness of vocational exams. These exams should, on the one hand, verify the quality of the education process, and on the other hand, constitute a pass to  success  on  the  labour  market.  The  effectiveness  of  vocational  education  should  be measured by the number of graduates who obtain professional qualifications. In order to obtain a relevant document confirming professional qualifications, it is necessary not only
+111. Since the school year 2019/2020, changes in sectoral education also focus on improving and increasing the effectiveness of vocational exams. These exams should, on the one hand, verify the quality of the education process, and on the other hand, constitute a pass to  success  on  the  labour  market.  The  effectiveness  of  vocational  education  should  be measured by the number of graduates who obtain professional qualifications. In order to obtain a relevant document confirming professional qualifications, it is necessary not only
 
 39
 
@@ -1373,47 +1402,47 @@ to adequate preparation of pupils, but also to take the exam which, so far, has 
 
 ##### Continuing education (Lifelong learning)
 
-- Continuing education is organised and conducted in:
+112. Continuing education is organised and conducted in:
 
-- public and non-public schools for adults, second-stage sectoral VET schools and postsecondary schools;
+1) public and non-public schools for adults, second-stage sectoral VET schools and post-secondary schools;
 
-- out-of-school forms conducted by public and non-public further education institutions and  vocational  education  centres,  and  public  and  non-public  schools  conducting vocational education (Article 117 (1) of the UPO).
+2) out-of-school forms conducted by public and non-public further education institutions and  vocational  education  centres,  and  public  and  non-public  schools  conducting vocational education (Article 117 (1) of the UPO).
 
 Continuing education is conducted in the following out-of-school forms:
 
-- qualification vocational course;
+1) qualification vocational course;
 
-- vocational skills course;
+2) vocational skills course;
 
-- general competences course;
+3) general competences course;
 
-- theoretical training camps for minor employees;
+4) theoretical training camps for minor employees;
 
-- course, other than those listed in points 1-3, enabling to obtain and complete vocational knowledge, skills and qualification (Article 117 (1a) of the UPO).
+5) course, other than those listed in points 1-3, enabling to obtain and complete vocational knowledge, skills and qualification (Article 117 (1a) of the UPO).
 
 Qualification vocational courses may be conducted by:
 
-- public and non-public schools conducting vocational education schools, except for art schools - in the scope of professions they conduct training and in the scope of other professions from the sectors to which these professions are assigned to, the school conduct training;
+1) public and non-public schools conducting vocational education schools, except for art schools - in the scope of professions they conduct training and in the scope of other professions from the sectors to which these professions are assigned to, the school conduct training;
 
-- public and non-public further education institutions and vocational educations centres;
+2) public and non-public further education institutions and vocational educations centres;
 
-- labour market institutions which lead education and training activities;
+3) labour market institutions which lead education and training activities;
 
-- entities conducting educational activities that receive accreditation (Article 117 (2) of the UPO).
+4) entities conducting educational activities that receive accreditation (Article 117 (2) of the UPO).
 
 Skills vocational courses may be conducted by:
 
-- public and non-public schools conducting vocational education schools, except for art schools - in the scope of professions they conduct training and in the scope of other professions from the sectors to which these professions are assigned to, the school conduct training;
+1) public and non-public schools conducting vocational education schools, except for art schools - in the scope of professions they conduct training and in the scope of other professions from the sectors to which these professions are assigned to, the school conduct training;
 
-- public and non-public further education institutions and vocational educations centres (Article 117 (2a) of the UPO).
+2) public and non-public further education institutions and vocational educations centres (Article 117 (2a) of the UPO).
 
 General competences courses and courses that enable to obtain and complete vocational knowledge, skills and qualifications may be conducted by public and non-public further education institutions and vocational educations centres (Article 117 (2b) of the UPO).
 
 Theoretical training camps for minor employees may be conducted by:
 
-- public and non-public schools conducting vocational education schools, except for art schools - in the scope of professions they conduct training and in the scope of other professions from the sectors to which these professions are assigned to, the school conduct training;
+1) public and non-public schools conducting vocational education schools, except for art schools - in the scope of professions they conduct training and in the scope of other professions from the sectors to which these professions are assigned to, the school conduct training;
 
-- public and non-public vocational educations centres (Article 117 (2c) of the UPO).
+2) public and non-public vocational educations centres (Article 117 (2c) of the UPO).
 
 40
 
@@ -1421,33 +1450,33 @@ Theoretical training camps for minor employees may be conducted by:
 
 [[START OF PAGE 42]]
 
-Further education may be conducted as full-time or extramural courses, and in out-ofschool  forms  with  the  use  of  distance  learning  methods  and  techniques. A theoretical training camp for minor employees may be conduct only as a full-time course.
+Further education may be conducted as full-time or extramural courses, and in out-of-school  forms  with  the  use  of  distance  learning  methods  and  techniques. A theoretical training camp for minor employees may be conduct only as a full-time course.
 
-- Training for adults working in agriculture, rural residents, teachers, and agricultural  advisers ,  pursuant  to  the  Act  of  22  October  2004 on  Agricultural Consultancy Units (Dziennik  Ustaw  [ Polish  Journal  of  Laws ]  of  2020,  item  721),  are conducted, accordingly, by provincial Agricultural Consultancy Centres (Ośrodki Doradztwa  Rolniczego  -  ODR)  and  the  Agricultural  Advisory  Centre  in  Brwinów (Centrum Doradztwa Rolniczego - CDR). CDR conducts training for agricultural advisers, primarily in the area of advisory work methodology and tasks carried out by centres in the field  of  agricultural  consultancy.  In  addition,  CDR  also  conducts  training  courses  for teachers working in agricultural schools in the field of sustainable development of rural areas.
+113. Training for adults working in agriculture, rural residents, teachers, and agricultural  advisers,  pursuant  to  the  Act  of  22  October  2004 on  Agricultural Consultancy Units (Dziennik  Ustaw  [ Polish  Journal  of  Laws ]  of  2020,  item  721),  are conducted, accordingly, by provincial Agricultural Consultancy Centres (Ośrodki Doradztwa  Rolniczego  -  ODR)  and  the  Agricultural  Advisory  Centre  in  Brwinów (Centrum Doradztwa Rolniczego - CDR). CDR conducts training for agricultural advisers, primarily in the area of advisory work methodology and tasks carried out by centres in the field  of  agricultural  consultancy.  In  addition,  CDR  also  conducts  training  courses  for teachers working in agricultural schools in the field of sustainable development of rural areas.
 
 Training for farmers and residents of rural areas is conducted by ODRs, based on Article 4.2 (1) of the Act of 22 October 2004 on Agricultural Consultancy Units , in particular in the scope of:
 
-- application of modern agrotechnics methods, breeding and agri-food processing;
+1) application of modern agrotechnics methods, breeding and agri-food processing;
 
-- solving  technological  and  organisational  and  economic  problems  of  agricultural holdings;
+2) solving  technological  and  organisational  and  economic  problems  of  agricultural holdings;
 
-- accountancy in agricultural holdings;
+3) accountancy in agricultural holdings;
 
-- organic farming;
+4) organic farming;
 
-- development of entrepreneurship in rural areas;
+5) development of entrepreneurship in rural areas;
 
-- modernisation of the rural household;
+6) modernisation of the rural household;
 
-- applying for aid financed or co-financed from EU funds or funds of other domestic or foreign institutions;
+7) applying for aid financed or co-financed from EU funds or funds of other domestic or foreign institutions;
 
-- modernisation of agricultural holdings, improvement of the quality of agricultural and food products and their processing, and strengthening of the position of farmers on the market;
+8) modernisation of agricultural holdings, improvement of the quality of agricultural and food products and their processing, and strengthening of the position of farmers on the market;
 
-- agricultural holding management;
+9) agricultural holding management;
 
-- promotion of local and regional products.
+10) promotion of local and regional products.
 
-In addition, training activities aimed at the development of knowledge and professional skills of farmers in the field of conducting business activity are carried out as part of submeasure 'Support for activities in the field of vocational education and acquiring skills of the  Rural  Development  Programme  for  2014-2020'  (Wsparcie  dla  działań  w  zakresie kształcenia  zawodowego  i  nabywania  umiejętności  Programu  Rozwoju  Obszarów Wiejskich), co-funded by the European Union. On the other hand, as part of the submeasure 'Support for training of advisors' (Wsparcie dla szkolenia doradców) to the same Programme,  trainings/post-graduate  studies  are  organised  and  conducted  for  persons professionally  providing  advice  to  farmers.  The  Contractor  conducting  the  training  in question shall be selected in accordance with the provisions of the Public Procurement Law (Prawo Zamówień Publicznych). The abovementioned training shall be conducted in a manner that guarantees equal access to it, without any discrimination, e.g. on grounds of sex or material status.
+In addition, training activities aimed at the development of knowledge and professional skills of farmers in the field of conducting business activity are carried out as part of sub-measure 'Support for activities in the field of vocational education and acquiring skills of the  Rural  Development  Programme  for  2014-2020'  (Wsparcie  dla  działań  w  zakresie kształcenia  zawodowego  i  nabywania  umiejętności  Programu  Rozwoju  Obszarów Wiejskich), co-funded by the European Union. On the other hand, as part of the sub-measure 'Support for training of advisors' (Wsparcie dla szkolenia doradców) to the same Programme,  trainings/post-graduate  studies  are  organised  and  conducted  for  persons professionally  providing  advice  to  farmers.  The  Contractor  conducting  the  training  in question shall be selected in accordance with the provisions of the Public Procurement Law (Prawo Zamówień Publicznych). The abovementioned training shall be conducted in a manner that guarantees equal access to it, without any discrimination, e.g. on grounds of sex or material status.
 
 #### II.3.5. Quality of education and learning
 
@@ -1459,7 +1488,7 @@ In addition, training activities aimed at the development of knowledge and profe
 
 [[START OF PAGE 43]]
 
-- Creating high-quality education is based, inter alias, on developing and implementing new core  curricula  that  meet  the  current  social  expectations  and  labour  market  needs.  The requirements formulated in core curricula are aimed at developing pupils' key competencies  using  modern  technologies  and  the  design  approach.  General  education creates  a  coherent  whole,  programme-wise,  and  constitutes  a  foundation  of  education enabling the acquisition of diverse professional qualifications, and then their improvement or modification, opening the lifelong learning process.
+114. Creating high-quality education is based, inter alias, on developing and implementing new core  curricula  that  meet  the  current  social  expectations  and  labour  market  needs.  The requirements formulated in core curricula are aimed at developing pupils' key competencies  using  modern  technologies  and  the  design  approach.  General  education creates  a  coherent  whole,  programme-wise,  and  constitutes  a  foundation  of  education enabling the acquisition of diverse professional qualifications, and then their improvement or modification, opening the lifelong learning process.
 
 The core curriculum of general education defines mandatory sets of education goals and teaching content, including skills that the pupil should acquire after the end of a specific educational stage, which are included in syllabuses (Article 4 (24) of the UPO).
 
@@ -1469,31 +1498,31 @@ A  description  of  the  manner  in  which  educational  objectives  and  teachi
 
 ##### Pedagogical supervision
 
-- Pedagogical supervision consists in:
+115. Pedagogical supervision consists in:
 
-- observing, analysing and assessing the course of education and upbringing processes and the effects  of  didactic,  upbringing,  and  care  activities  as  well  as  other  statutory activities of schools and facilities;
+1) observing, analysing and assessing the course of education and upbringing processes and the effects  of  didactic,  upbringing,  and  care  activities  as  well  as  other  statutory activities of schools and facilities;
 
-- assessing the situation and conditions of didactic, upbringing, and care activities as well as other statutory activities of schools and facilities;
+2) assessing the situation and conditions of didactic, upbringing, and care activities as well as other statutory activities of schools and facilities;
 
-- providing assistance to schools and facilities as well as teachers in the performance of their didactic, upbringing, and care tasks;
+3) providing assistance to schools and facilities as well as teachers in the performance of their didactic, upbringing, and care tasks;
 
-- inspiring  teachers  to  improve  existing  or  implement  new  solutions  in  the  education process, using innovative programme, organisational or methodological activities aimed at developing pupils' competencies.
+4) inspiring  teachers  to  improve  existing  or  implement  new  solutions  in  the  education process, using innovative programme, organisational or methodological activities aimed at developing pupils' competencies.
 
 In the scope referred to in the points 1 and 2, in particular the following shall be subject to supervision:
 
-- having by teachers the qualifications required to conduct the classes assigned to them;
+1) having by teachers the qualifications required to conduct the classes assigned to them;
 
-- implementation of core curriculum and framework teaching plans;
+2) implementation of core curriculum and framework teaching plans;
 
-- compliance  with  the  rules  for  assessing,  classifying  and  promoting  students  and conducting exams, as well as compliance with the provisions of law on the schooling obligation and the learning duty;
+3) compliance  with  the  rules  for  assessing,  classifying  and  promoting  students  and conducting exams, as well as compliance with the provisions of law on the schooling obligation and the learning duty;
 
-- compliance with the statute of the school or facility;
+4) compliance with the statute of the school or facility;
 
-- compliance with the rights of the child and the rights of the pupil and dissemination of knowledge about these rights;
+5) compliance with the rights of the child and the rights of the pupil and dissemination of knowledge about these rights;
 
-- ensuring safe and hygienic conditions for education, upbringing, and care for pupils (Article 55 of the UPO).
+6) ensuring safe and hygienic conditions for education, upbringing, and care for pupils (Article 55 of the UPO).
 
-- The minister responsible for education and upbringing shall:
+116. The minister responsible for education and upbringing shall:
 
 - conduct pedagogical supervision over the established and operated by the minister:
 
@@ -1529,29 +1558,29 @@ In the scope referred to in the points 1 and 2, in particular the following shal
 
 - prepare annual information on the results of pedagogical supervision exercised by the regional education superintendents and announce it on the website of the office providing services thereto.
 
-- The Minister of Justice and subordinated authorities exercise pedagogical supervision over juvenile detention centres, shelters for minors and schools in these institutions (pursuant to Article 60 (4) of the UPO).
+117. The Minister of Justice and subordinated authorities exercise pedagogical supervision over juvenile detention centres, shelters for minors and schools in these institutions (pursuant to Article 60 (4) of the UPO).
 
-- Pursuant to § 4 of the Regulation of the Minister of National Education of 25 August 2017 on  pedagogical  supervision (Dziennik  Ustaw  [ Polish  Journal  of  Laws ]  of  2020,  item 1551), pedagogical supervision is exercised taking into account:
+118. Pursuant to § 4 of the Regulation of the Minister of National Education of 25 August 2017 on  pedagogical  supervision (Dziennik  Ustaw  [ Polish  Journal  of  Laws ]  of  2020,  item 1551), pedagogical supervision is exercised taking into account:
 
-- cooperation of the bodies exercising pedagogical supervision with school or facility authorities; headmasters of schools and facilities, and teachers;
+1) cooperation of the bodies exercising pedagogical supervision with school or facility authorities; headmasters of schools and facilities, and teachers;
 
-- creating conditions conducive to the development of schools and facilities;
+2) creating conditions conducive to the development of schools and facilities;
 
-- obtaining information ensuring objective and full assessment of didactic, upbringing, and care activities and other statutory activities of a school or facility.
+3) obtaining information ensuring objective and full assessment of didactic, upbringing, and care activities and other statutory activities of a school or facility.
 
 Forms of supervision are: evaluation, control, support, monitoring.
 
-- Pursuant  to  Article  60  (3.1)  of  the  UPO,  the  minister  responsible  for  education  and upbringing has determined the following basic directions of implementation of the state education policy:
+119. Pursuant  to  Article  60  (3.1)  of  the  UPO,  the  minister  responsible  for  education  and upbringing has determined the following basic directions of implementation of the state education policy:
 
-- in the 2017/2018 school year:
+I. in the 2017/2018 school year:
 
-- Implementation of a new general education core curriculum.
+1) Implementation of a new general education core curriculum.
 
-- Raising the quality of education in mathematics, natural science and IT.
+2) Raising the quality of education in mathematics, natural science and IT.
 
-- Online safety; responsible use of social media.
+3) Online safety; responsible use of social media.
 
-- Introduction of professional counselling in schools and facilities.
+4) Introduction of professional counselling in schools and facilities.
 
 43
 
@@ -1559,39 +1588,39 @@ Forms of supervision are: evaluation, control, support, monitoring.
 
 [[START OF PAGE 45]]
 
-- Increasing  the  quality  of  inclusive  education  in  schools  and  educational  system facilities.
+5) Increasing  the  quality  of  inclusive  education  in  schools  and  educational  system facilities.
 
 II. in the 2018/2019 school year:
 
-- 100th anniversary of regaining independence - upbringing with values and shaping patriotic attitudes of pupils.
+1) 100th anniversary of regaining independence - upbringing with values and shaping patriotic attitudes of pupils.
 
-- Implementation of a new general education core curriculum. Education to develop independence, creativity, and innovativeness of pupils.
+2) Implementation of a new general education core curriculum. Education to develop independence, creativity, and innovativeness of pupils.
 
-- Vocational education based on close cooperation with employers. Development of career counselling.
+3) Vocational education based on close cooperation with employers. Development of career counselling.
 
-- Development of digital competences of pupils and teachers. Safe and responsible use of resources available online.
+4) Development of digital competences of pupils and teachers. Safe and responsible use of resources available online.
 
 III. in the 2019/2020 school year:
 
-- Prevention of addiction in schools and educational facilities.
+1) Prevention of addiction in schools and educational facilities.
 
-- Upbringing with values through shaping civic and patriotic attitudes.
+2) Upbringing with values through shaping civic and patriotic attitudes.
 
-- Implementation  of  a  new  general  education  core  curriculum  in  primary  and secondary schools.
+3) Implementation  of  a  new  general  education  core  curriculum  in  primary  and secondary schools.
 
-- Developing mathematical competencies of pupils.
+4) Developing mathematical competencies of pupils.
 
-- Development  of  creativity,  entrepreneurship  and  digital  competences  of  pupils, including safe and deliberate use of information and communication technologies in the implementation of the general education core curriculum.
+5) Development  of  creativity,  entrepreneurship  and  digital  competences  of  pupils, including safe and deliberate use of information and communication technologies in the implementation of the general education core curriculum.
 
-- Creating a programme offer in vocational education. Implementation of new core curricula for education in the sectoral VET school professions.
+6) Creating a programme offer in vocational education. Implementation of new core curricula for education in the sectoral VET school professions.
 
 ##### Upbringing and care activities of schools
 
-- The preamble of the UPO stipulates that education in the Republic of Poland is a common good of the whole society, is guided by the principles contained in the Constitution of the Republic of Poland, as well as the indications laid out in the Universal Declaration of Human Rights, International Covenant on Civil and Political Rights, and the Convention on the Rights of the Child. Education and upbringing- while respecting the Christian value system - adopts universal principles of ethics as its basis. Education and upbringing serves to help youth develop a sense of responsibility, love for the Homeland, and respect for Polish  cultural  heritage,  while  opening  them  up  to  the  values  of  European  and  other cultures  around  the  world.  The  school  shall  ensure  that  each  pupil  has  the  conditions necessary for development, prepare them to fulfil family and civic duties based on the principles of solidarity, democracy, tolerance, justice, and freedom.
+120. The preamble of the UPO stipulates that education in the Republic of Poland is a common good of the whole society, is guided by the principles contained in the Constitution of the Republic of Poland, as well as the indications laid out in the Universal Declaration of Human Rights, International Covenant on Civil and Political Rights, and the Convention on the Rights of the Child. Education and upbringing- while respecting the Christian value system - adopts universal principles of ethics as its basis. Education and upbringing serves to help youth develop a sense of responsibility, love for the Homeland, and respect for Polish  cultural  heritage,  while  opening  them  up  to  the  values  of  European  and  other cultures  around  the  world.  The  school  shall  ensure  that  each  pupil  has  the  conditions necessary for development, prepare them to fulfil family and civic duties based on the principles of solidarity, democracy, tolerance, justice, and freedom.
 
 Pursuant to the general education core curriculum the school and individual teachers take up activities  aimed  at  individualised  support  of  the  development  of  each  pupil/student according  to  his/her  needs  and  abilities.  For  disabled  pupils/students  education  is additionally adjusted to their psychophysical abilities and pace of learning. The choice of individualised forms of teaching should result from the recognizing of the potential of each pupil/student.
 
-- Definition of upbringing included into the Article 1 (3) of the UPO on 1 September 2017 states that: ' Upbringing [is] understood as supporting the child in the development to full maturity in the physical, emotional, intellectual, spiritual and social sphere, strengthened
+121. Definition of upbringing included into the Article 1 (3) of the UPO on 1 September 2017 states that: “Upbringing [is] understood as supporting the child in the development to full maturity in the physical, emotional, intellectual, spiritual and social sphere, strengthened
 
 44
 
@@ -1599,21 +1628,21 @@ Pursuant to the general education core curriculum the school and individual teac
 
 [[START OF PAGE 46]]
 
-and supplemented by activities related to prevention in terms of the problems of children and youth '.
+and supplemented by activities related to prevention in terms of the problems of children and youth”.
 
 Pursuant to Article 4 (24) of the UPO the definition of pre-school education curricula and of general education curricula covers both compulsory set of education aims and teaching content,  including  skills  that  should  be  achieved  by  a  pupil/student  after  completion  a given level of education, as well as the education and prevention tasks of school have been entered  accordingly,  in  pre-school  upbringing  programmes,  school  education  curricula and during lessons with class teachers.
 
-- Pursuant to Article 26 of the UPO schools and education facilities implement upbringing and prevention programme that includes upbringing contents and activities addressed to pupils and preventive activities addressed to pupils, teachers, and parents. It should be developed  on  the  basis  of  the  results  of  an  annual  diagnosis  in  the  scope  of  pupils' development needs in the school environment, including protection and risk factors, with particular emphasis on threats related to the use of psychotropic substances, substitute substances, and new psychoactive substances. The diagnosis is conducted by the leader of the school or facility or an employee of the school or facility authorised thereby.
+122. Pursuant to Article 26 of the UPO schools and education facilities implement upbringing and prevention programme that includes upbringing contents and activities addressed to pupils and preventive activities addressed to pupils, teachers, and parents. It should be developed  on  the  basis  of  the  results  of  an  annual  diagnosis  in  the  scope  of  pupils' development needs in the school environment, including protection and risk factors, with particular emphasis on threats related to the use of psychotropic substances, substitute substances, and new psychoactive substances. The diagnosis is conducted by the leader of the school or facility or an employee of the school or facility authorised thereby.
 
 The  upbringing  and  prevention  programme  is  adopted  by  the  parents'  council  in consultation with the school board (Article 84 (2) of the UPO) . In the 2017/2018 school year,  a  new  core  curriculum  for  general  education 25 for  primary  schools  and  a  part  of secondary  schools  was  introduced,  and  in  the  2019/2020  school  year,  for  the  other secondary schools, 26 which determine objectives, teaching contents, and upbringing and prevention tasks have been defined, with a focus on upbringing to values.
 
-- Except  for  political  parties  and  political  organisations,  in  the  school  and  facility  may operate  associations  and  other  organisations,  in  particular  scouting  organisations  the statutory objective of which is upbringing activity or expanding and enriching forms of didactic, upbringing, care, and innovation activities of a school or facility (Article 86 (1) of the UPO). Commencing activities at a school or a facility by an association or another organisation shall require consent of the leader of the school or facility given upon prior agreement on the conditions of such activity and receiving positive opinion of the board of the school or facility, and the parents' council (Article 86 (2) of the UPO).
+123. Except  for  political  parties  and  political  organisations,  in  the  school  and  facility  may operate  associations  and  other  organisations,  in  particular  scouting  organisations  the statutory objective of which is upbringing activity or expanding and enriching forms of didactic, upbringing, care, and innovation activities of a school or facility (Article 86 (1) of the UPO). Commencing activities at a school or a facility by an association or another organisation shall require consent of the leader of the school or facility given upon prior agreement on the conditions of such activity and receiving positive opinion of the board of the school or facility, and the parents' council (Article 86 (2) of the UPO).
 
 ##### Safe learning environment
 
 ###### Online safety
 
-- On 27 October 2017 the Act on the Nationwide Education Network (OSE) (Ustawa o Ogólnopolskiej Sieci Edukacyjnej; Dziennik Ustaw [ Polish Journal of Laws ]  of  2020, item 1334) was adopted under which a nationwide ICT network shall be created, linking all primary and secondary schools that will enable them to use broadband Internet with a throughput of at least 100 Mb/s and advanced ICT security services covering protection against  malware,  monitoring  online  threats  and  security,  and  counteracting  access  to content that may pose a threat to the proper development of the pupils, as well as access to  multimedia  tools  and  educational  content  supporting  ongoing  work  of  pupils  and
+124. On 27 October 2017 the Act on the Nationwide Education Network (OSE) (Ustawa o Ogólnopolskiej Sieci Edukacyjnej; Dziennik Ustaw [ Polish Journal of Laws ]  of  2020, item 1334) was adopted under which a nationwide ICT network shall be created, linking all primary and secondary schools that will enable them to use broadband Internet with a throughput of at least 100 Mb/s and advanced ICT security services covering protection against  malware,  monitoring  online  threats  and  security,  and  counteracting  access  to content that may pose a threat to the proper development of the pupils, as well as access to  multimedia  tools  and  educational  content  supporting  ongoing  work  of  pupils  and
 
 > 25 Regulation of the Minister of National Education of 14 September 2017 on the core curriculum for pre-school education and general education in primary schools, including for pupils with moderate or severe intellectual disability, general education for stage-one sectoral VET schools, general education for special schools preparing for employment, and general education for post-secondary schools (Dziennik Ustaw [ Polish Journal of Laws ] of 2017, item 356, as amended).
 
@@ -1629,9 +1658,9 @@ teachers. The OSE operator may also equip schools with computer equipment and ot
 
 OSE is a pioneering initiative, on a European scale, to equalise educational opportunities of children and youth, on a unique scale (it concerns over 20,000 schools - public and non-public,  600  thousand  teachers  and  nearly  5  million  pupils)  and  a  budget  for  its implementation estimated at over PLN 1.6 billion over 10 years.
 
-- Within  the  framework  of the Cyfrowobezpieczni.pl  -  Bezpieczna  Szkoła  Cyfrowa [ Digitallysafe.pl  -  Safe  Digital  School ]  project,  implemented  by  the  'Cities  on  the Internet' Association (Stowarzyszenie 'Miasta w Internecie') on order of the MEN (under a public task 'Improving competence of school employees, pupils and their parents in the scope  of  safe  usage  of  cyberspace  and  reacting  to  threats'  (Poprawa  kompetencji pracowników  szkoły,  uczniów  i  ich  rodziców  w zakresie  bezpiecznego  korzystania z cyberprzestrzeni oraz reagowania na zagrożenia), a group of experts created 'Recommendations for local governments - implementers of projects under the EU 2014-2020 budget perspective' (Zalecenia i rekomendacje dla samorządów -realizatorów  projektów  w  ramach  unijnej  perspektywy  budżetowej  2014-2020).  The purpose of this publication is to support the creators of educational and infrastructural projects  aimed  at  improving  the  digital  and  information  competences  of  teachers  and pupils,  as  well  as  to  provide  schools  with  modern  digital  equipment  and  broadband Internet  access,  in  their  substantive  preparation  and  effective  implementation.  The recommendations presented in the document will enable implementation of systems and solutions  in  terms  of  information  and  communication  technologies  that  are  fully functional, safe, and adapted to performing didactic and administrative tasks.
+125. Within  the  framework  of the Cyfrowobezpieczni.pl  -  Bezpieczna  Szkoła  Cyfrowa [ Digitallysafe.pl  -  Safe  Digital  School ]  project,  implemented  by  the  'Cities  on  the Internet' Association (Stowarzyszenie 'Miasta w Internecie') on order of the MEN (under a public task 'Improving competence of school employees, pupils and their parents in the scope  of  safe  usage  of  cyberspace  and  reacting  to  threats'  (Poprawa  kompetencji pracowników  szkoły,  uczniów  i  ich  rodziców  w zakresie  bezpiecznego  korzystania z cyberprzestrzeni oraz reagowania na zagrożenia), a group of experts created 'Recommendations for local governments - implementers of projects under the EU 2014-2020 budget perspective' (Zalecenia i rekomendacje dla samorządów -realizatorów  projektów  w  ramach  unijnej  perspektywy  budżetowej  2014-2020).  The purpose of this publication is to support the creators of educational and infrastructural projects  aimed  at  improving  the  digital  and  information  competences  of  teachers  and pupils,  as  well  as  to  provide  schools  with  modern  digital  equipment  and  broadband Internet  access,  in  their  substantive  preparation  and  effective  implementation.  The recommendations presented in the document will enable implementation of systems and solutions  in  terms  of  information  and  communication  technologies  that  are  fully functional, safe, and adapted to performing didactic and administrative tasks.
 
-' Smartphones in school. Let's set the rules of the game ' (Smartfony w szkole. Ustalmy zasady gry) - a participatory project implemented by the Educational Research Institute. The project is of a research and implementation nature. It includes a series of debates and workshops attended by:
+126. “Smartphones in school. Let's set the rules of the game” (Smartfony w szkole. Ustalmy zasady gry) - a participatory project implemented by the Educational Research Institute. The project is of a research and implementation nature. It includes a series of debates and workshops attended by:
 
 -representatives of the school community (school leaders, teachers, parents, pupils),
 
@@ -1641,9 +1670,9 @@ OSE is a pioneering initiative, on a European scale, to equalise educational opp
 
 The project objective is creation of a set of recommendations concerning standards and methods of using smartphones in primary schools. The task of the project participants will be to develop solutions in several areas:
 
-- Effective  use  of  smartphones  in  education.  This  issue  applies  both  to  the  use  of mobile devices by teachers and pupils during classes, as well as education among children in regard to skills related to the proper use of knowledge resources - critical thinking and assessing the value and reliability of information.
+1) Effective  use  of  smartphones  in  education.  This  issue  applies  both  to  the  use  of mobile devices by teachers and pupils during classes, as well as education among children in regard to skills related to the proper use of knowledge resources - critical thinking and assessing the value and reliability of information.
 
-- Risks occurring when using smartphones. This area includes both problems related to the phenomenon of aggression on the Internet and access to inappropriate content, as well as misuse of smartphones.
+2) Risks occurring when using smartphones. This area includes both problems related to the phenomenon of aggression on the Internet and access to inappropriate content, as well as misuse of smartphones.
 
 46
 
@@ -1651,17 +1680,17 @@ The project objective is creation of a set of recommendations concerning standar
 
 [[START OF PAGE 48]]
 
-- Culture of using smartphones. Determining clear rules, defining e.g. when and how to use a smartphone, whose photo may be taken and in what situations, and for what purposes it can be used.
+3) Culture of using smartphones. Determining clear rules, defining e.g. when and how to use a smartphone, whose photo may be taken and in what situations, and for what purposes it can be used.
 
 Patronage over the project was assumed by the MEN. Project partners are: 'Cities on the Internet'  Association  (Stowarzyszenie  'Miasta  w  Internecie'),  Orange  Foundation, Samsung, Microsoft, and the Digital Poland Project Centre (Centrum Projektów Polska Cyfrowa).
 
 ###### Safe school and surroundings
 
-' Safe School. Threats and recommended preventive measures in the field of physical and  digital  safety  of  pupils' (Bezpieczna  Szkoła.  Zagrożenia  i  zalecane  działania profilaktyczne  w  zakresie  bezpieczeństwa  fizycznego  i  cyfrowego  uczniów)  -  the document was prepared at the Department of Integrated Upbringing and Education of the MEN  (Departament  Wychowania  i  Kształcenia  Integracyjnego)  with  participation  of experts, after consultation with other ministries and institutions responsible for safety. It is  a  set  of  recommendations  and  guidelines  for  school  leaders  and  school  governing bodies. The guidelines and recommendations presented in the document regarding safety at  school constitute a proposal of actions to be taken by school leaders in their school environments together with teachers and parents of the pupils.
+127. “Safe School. Threats and recommended preventive measures in the field of physical and  digital  safety  of  pupils” (Bezpieczna  Szkoła.  Zagrożenia  i  zalecane  działania profilaktyczne  w  zakresie  bezpieczeństwa  fizycznego  i  cyfrowego  uczniów)  -  the document was prepared at the Department of Integrated Upbringing and Education of the MEN  (Departament  Wychowania  i  Kształcenia  Integracyjnego)  with  participation  of experts, after consultation with other ministries and institutions responsible for safety. It is  a  set  of  recommendations  and  guidelines  for  school  leaders  and  school  governing bodies. The guidelines and recommendations presented in the document regarding safety at  school constitute a proposal of actions to be taken by school leaders in their school environments together with teachers and parents of the pupils.
 
 ###### Visual monitoring
 
-- If it is necessary to ensure the safety of pupils and employees or to protect property, the headmaster  of  the  school  or  facility,  in  consultation  with  the  authority  governing  the school or facility, and after consultations with the school board, parents' council and the student  council,  may  introduce  special  supervision  over  the  premises  of  the  school  or facility or the area around the school or facility in the form of technical measures enabling the recording of images (monitoring).
+128. If it is necessary to ensure the safety of pupils and employees or to protect property, the headmaster  of  the  school  or  facility,  in  consultation  with  the  authority  governing  the school or facility, and after consultations with the school board, parents' council and the student  council,  may  introduce  special  supervision  over  the  premises  of  the  school  or facility or the area around the school or facility in the form of technical measures enabling the recording of images (monitoring).
 
 Monitoring  should  not  constitute  a  means  of  supervision  over  the  quality  of  work performed by school or facility employees.
 
@@ -1671,7 +1700,7 @@ Monitoring does not cover premises where didactic, upbringing, and care activiti
 
 ##### Financing of upskilling and professional development of teachers
 
-- The  provisions  of  the  education  law  provide  for  a  built-in  permanent  mechanism  to provide teachers with the possibility of co-financing a part or entirety of upskilling and professional development.
+129. The  provisions  of  the  education  law  provide  for  a  built-in  permanent  mechanism  to provide teachers with the possibility of co-financing a part or entirety of upskilling and professional development.
 
 Financing of upskilling and professional development of teachers employed in juvenile detention centres and shelters for minors takes place on the general terms and conditions set out in the provisions of the MEN.
 
@@ -1681,25 +1710,25 @@ Financing of upskilling and professional development of teachers employed in juv
 
 [[START OF PAGE 49]]
 
-- Issues related to the co-financing of teacher upskilling are regulated by the provisions of Article 70a of the UKN and the Regulation of the Minister of National Education of 23 August 2019 on co-financing the professional development of teachers, detailed objectives of sectoral training, as well as the procedure and conditions for directing teachers for sectoral training (Dziennik Ustaw [ Polish Journal of Laws ] of 2019, item 1653).
+130. Issues related to the co-financing of teacher upskilling are regulated by the provisions of Article 70a of the UKN and the Regulation of the Minister of National Education of 23 August 2019 on co-financing the professional development of teachers, detailed objectives of sectoral training, as well as the procedure and conditions for directing teachers for sectoral training (Dziennik Ustaw [ Polish Journal of Laws ] of 2019, item 1653).
 
-- As of 1 January 2019 funds for subsidising professional development of teachers are a separate item in:
+131. As of 1 January 2019 funds for subsidising professional development of teachers are a separate item in:
 
-- budgets of the school governing bodies -for co-financing the professional development of teachers - in the amount of 0.8% of the planned annual funds allocated to the personal remuneration of teachers (Article 70a (1) of the UKN) (estimated value of approx. PLN 250,000 thousand);
+1) budgets of the school governing bodies - for co-financing the professional development of teachers - in the amount of 0.8% of the planned annual funds allocated to the personal remuneration of teachers (Article 70a (1) of the UKN) (estimated value of approx. PLN 250,000 thousand);
 
-- province  (voivode)  budgets  -  to  support  methodological  consultancy  organisation within the province, in the total amount of 12400 average remunerations of a certified teacher (Article 70a (4) of the UKN) (PLN 76,150 thousand);
+2) province  (voivode)  budgets  -  to  support  methodological  consultancy  organisation within the province, in the total amount of 12400 average remunerations of a certified teacher (Article 70a (4) of the UKN) (PLN 76,150 thousand);
 
-- budget of the minister responsible for education and upbringing -for the implementation of national tasks in the field of professional development of teachers in the total amount of 2700 average remunerations of a certified teacher (Article 70a (7) of the UKN) (PLN 13,677 thousand).
+3) budget of the minister responsible for education and upbringing - for the implementation of national tasks in the field of professional development of teachers in the total amount of 2700 average remunerations of a certified teacher (Article 70a (7) of the UKN) (PLN 13,677 thousand).
 
-- The  school  leader  shall  specify  the  needs  related  to  the  professional  development  of teachers for each school year.
+132. The  school  leader  shall  specify  the  needs  related  to  the  professional  development  of teachers for each school year.
 
 In  its  budget,  the  school  governing  authority  shall  include  funds  for  co-financing  the professional development of teachers in the amount of 0.8% of the planned annual funds allocated to the personal remuneration of teachers.
 
 These funds may be used to subsidise, in part or in whole, the costs of teacher training in forms  granting new  qualifications (as part of studies, postgraduate studies, and qualification courses), as well as various forms of improvement addressed to the teachers at a given school and to individual teachers raising professional competences as part of their qualifications and promoting personal development.
 
-- In  order  to  improve  the  quality  of  vocational  education,  as  at  1  September  2019,  an obligation was introduced to conduct three-year cycles - a total of 40 hours - of sectoral training courses to improve skills and professional qualifications necessary for teachers of theoretical professional classes and teachers of practical vocational education, respectively, at a workplace or in individual agricultural holdings.
+133. In  order  to  improve  the  quality  of  vocational  education,  as  at  1  September  2019,  an obligation was introduced to conduct three-year cycles - a total of 40 hours - of sectoral training courses to improve skills and professional qualifications necessary for teachers of theoretical professional classes and teachers of practical vocational education, respectively, at a workplace or in individual agricultural holdings.
 
-The costs of sectoral training may be financed from the abovementioned funds for cofinancing  the  professional  development  of  teachers  included  in  budgets  of  school governing bodies (referred to in p. 132 of the report), and may also be financed:
+The costs of sectoral training may be financed from the abovementioned funds for co-financing  the  professional  development  of  teachers  included  in  budgets  of  school governing bodies (referred to in p. 132 of the report), and may also be financed:
 
 -by employers or persons operating individual agricultural holdings,
 
@@ -1709,7 +1738,7 @@ The costs of sectoral training may be financed from the abovementioned funds for
 
 ###### Province governor (Voivode) funds to finance expenses related to the employment of teachers in public teacher training institutions in order to perform tasks of a methodological adviser.
 
-- Since 2019, the tasks of a methodological adviser are entrusted by the Regional Education Superintendent in consultation with the headmaster of the public development institution,
+134. Since 2019, the tasks of a methodological adviser are entrusted by the Regional Education Superintendent in consultation with the headmaster of the public development institution,
 
 48
 
@@ -1717,7 +1746,7 @@ The costs of sectoral training may be financed from the abovementioned funds for
 
 [[START OF PAGE 50]]
 
-with  the  consent  of  the  leader  of  the  school  or  the  facility  in  which  the  teacher  is employed. 27 Funds  for  the  implementation  of  this  task  are  secured  in  the  province governors'  budgets  in  the  total  amount  of  12400  average  remunerations  of  a  certified teacher.  These  funds  are  used  by  the  province  governor  to  grant  subsidies  to  local government  units operating teacher development  institutions employing  teachersmethodological  advisers  to  finance  expenses  related  to  their  employment  in  order  to perform tasks of a methodological adviser.
+with  the  consent  of  the  leader  of  the  school  or  the  facility  in  which  the  teacher  is employed. 27 Funds  for  the  implementation  of  this  task  are  secured  in  the  province governors'  budgets  in  the  total  amount  of  12400  average  remunerations  of  a  certified teacher.  These  funds  are  used  by  the  province  governor  to  grant  subsidies  to  local government  units operating teacher development  institutions employing  teachers-methodological  advisers  to  finance  expenses  related  to  their  employment  in  order  to perform tasks of a methodological adviser.
 
 The aim of the changes introduced in the methodological counselling system is to improve and  balance  the  access  of  teachers  to  methodological  mentoring  and  better  use  of  the didactic potential of good teachers than before.
 
@@ -1729,11 +1758,11 @@ The minister responsible for education and upbringing allocates funds for the im
 
 ##### Teachers' duties
 
-- The basic obligations of teachers employed in the Polish education system are laid down in Article 6 of the UKN. These include: reliably perform tasks related to their position and basic functions of the school: teaching, upbringing, and care, including tasks related to ensuring safety to pupils during classes organised by the school; support each pupil in their development; striving for complete personal development; professional training, in accordance with the needs of the school; educating and upbringing of youth with love of the Homeland, respecting the Constitution of the Republic of Poland, in an atmosphere of freedom of conscience and respect for every human being; care for shaping pupils' moral and  civic  attitudes  in  accordance  with  the  idea  of  democracy,  peace  and  friendship between people of different nations, races and worldviews.
+135. The basic obligations of teachers employed in the Polish education system are laid down in Article 6 of the UKN. These include: reliably perform tasks related to their position and basic functions of the school: teaching, upbringing, and care, including tasks related to ensuring safety to pupils during classes organised by the school; support each pupil in their development; striving for complete personal development; professional training, in accordance with the needs of the school; educating and upbringing of youth with love of the Homeland, respecting the Constitution of the Republic of Poland, in an atmosphere of freedom of conscience and respect for every human being; care for shaping pupils' moral and  civic  attitudes  in  accordance  with  the  idea  of  democracy,  peace  and  friendship between people of different nations, races and worldviews.
 
 ##### Assessment of the teacher's work
 
-- Pursuant to Article 6a of the UKN, the work of a teacher employed in the Polish education system, except for the work of a trainee teacher, is subject to assessment. Teacher's work assessment may be performed at any time, not earlier than after a year from the previous
+136. Pursuant to Article 6a of the UKN, the work of a teacher employed in the Polish education system, except for the work of a trainee teacher, is subject to assessment. Teacher's work assessment may be performed at any time, not earlier than after a year from the previous
 
 > 27 Regulation  of  the  Minister  of  Education  of  28  May  2019 on  teacher  professional  development  facilities (Dziennik Ustaw [ Polish Journal of Laws ] of 2019, item 1045)
 
@@ -1749,7 +1778,7 @@ The minister responsible for education and upbringing, and in relation to teache
 
 ##### Required qualifications
 
-- The position of teacher may be held by a person who: has higher education with proper pedagogical training or who graduated from a teacher training institution and takes the job on  the  position  for  which  these  qualifications  are  sufficient;  observes  the  basic  moral principles; meets the health conditions necessary to perform the profession (Article 9 (1) of the UKN).
+137. The position of teacher may be held by a person who: has higher education with proper pedagogical training or who graduated from a teacher training institution and takes the job on the position for which these qualifications are sufficient; observes the basic moral principles; meets the health conditions necessary to perform the profession (Article 9 (1) of the UKN).
 
 The  minister  responsible  for  education  and  upbringing,  and  in  relation  to  art  school teachers  -  the  minister  responsible  for  culture  and  national  heritage  protection,  in consultation  with  interested  ministers,  by  way  of  a  regulation,  shall  specify  detailed qualifications required from teachers, indicating, in particular, the level of education and its scope in relation to individual types of schools and facilities, conditions for obtaining qualifications to teach foreign languages, also through language exams and a list of those exams, and may determine schools and instances in which teachers who do not have higher education nor graduated from a teacher education institution can be employed, taking into account, in particular, the needs of vocational education (Article 9 (2) of the UKN).
 
@@ -1757,15 +1786,15 @@ The minister responsible for culture and national heritage protection may define
 
 ##### Professional promotion
 
-- Chapter  3a  of  the  UKN  specifies  professional  promotion  of  teachers  employed  in  the Polish  education  system,  including  professional  ranks  and  conditions  of  achieving  a subsequent rank. Article 9a of the UKN sets four stages of professional promotion of teachers:
+138. Chapter 3a of the UKN specifies professional promotion of teachers employed in the Polish education system, including professional ranks and conditions of achieving a subsequent rank. Article 9a of the UKN sets four stages of professional promotion of teachers:
 
-- trainee teacher;
+1) trainee teacher;
 
-- contract teacher;
+2) contract teacher;
 
-- appointed teacher;
+3) appointed teacher;
 
-- chartered teacher.
+4) chartered teacher.
 
 50
 
@@ -1777,25 +1806,25 @@ A person who does not have a professional rank as of the date of establishment o
 
 ##### Disciplinary liability
 
-- In the Polish system of education, each teacher, regardless of their professional rank, as well as the basis of employment, shall be subject to disciplinary liability, as defined in chapter 10 of the UKN. Teachers shall be subject to disciplinary liability for failure to uphold the dignity of the teaching profession or the obligations referred to in Article 6 of the UKN.
+139. In the Polish system of education, each teacher, regardless of their professional rank, as well as the basis of employment, shall be subject to disciplinary liability, as defined in chapter 10 of the UKN. Teachers shall be subject to disciplinary liability for failure to uphold the dignity of the teaching profession or the obligations referred to in Article 6 of the UKN.
 
 #### II.3.7. Respect for human rights and fundamental freedoms
 
-- The Council of Children and Youth of the Republic of Poland to the Minister of National Education (Rada Dzieci i Młodzieży Rzeczypospolitej Polskiej przy Ministrze Edukacji  Narodowej)  has  been  operating  since  2016.  The  Council's  tasks  include expressing  opinions  and  submitting  proposals  on  issues  concerning  children  and adolescents in the scope of matters covered by the department of  government administration for education and upbringing, in particular presenting opinions on planned changes and proposals of solutions, as well as promoting patriotic and civic attitudes and activity of young people in public life, who play a key role in creating civil society. The Council consists of 16 members and their deputies appointed by the Minister of National Education, one member and one deputy from each province.
+140. The Council of Children and Youth of the Republic of Poland to the Minister of National Education (Rada Dzieci i Młodzieży Rzeczypospolitej Polskiej przy Ministrze Edukacji Narodowej) has been operating since 2016. The Council's tasks include expressing opinions and submitting proposals on issues concerning children and adolescents in the scope of matters covered by the department of government administration for education and upbringing, in particular presenting opinions on planned changes and proposals of solutions, as well as promoting patriotic and civic attitudes and activity of young people in public life, who play a key role in creating civil society. The Council consists of 16 members and their deputies appointed by the Minister of National Education, one member and one deputy from each province.
 
-- A breakthrough in the creation of a dialogue between the most important state authorities and the young generation of Poles was the appointment of a Council for Dialogue with the Young Generation (Rada Dialogu z Młodym Pokoleniem) - an opinion-giving and advisory  body  to  the  Chair  of  the  Public  Benefit  Committee  (Komitet  Pożytku Publicznego), established by virtue of the Act of 19 July 2019 amending the Act on Public Benefit Activity and Volunteer Work (Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie ) (Dziennik Ustaw [ Polish Journal of Laws ] of 2019, item 1570).
+141. A breakthrough in the creation of a dialogue between the most important state authorities and the young generation of Poles was the appointment of a Council for Dialogue with the Young Generation (Rada Dialogu z Młodym Pokoleniem) – an opinion-giving and advisory body to the Chair of the Public Benefit Committee (Komitet Pożytku Publicznego), established by virtue of the Act of 19 July 2019 amending the Act on Public Benefit Activity and Volunteer Work (Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie) (Dziennik Ustaw [Polish Journal of Laws] of 2019, item 1570).
 
 The tasks of the of the Council for Dialogue with the Young Generation shall include in particular:
 
-- expressing opinions on issues concerning the application of the Act of 24 April 2003 on Public Benefit Activity and Volunteer Work (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item1057) in the scope concerning the young generation;
+1) expressing opinions on issues concerning the application of the Act of 24 April 2003 on Public Benefit Activity and Volunteer Work (Dziennik Ustaw [Polish Journal of Laws] of 2020, item1057) in the scope concerning the young generation;
 
-- expressing opinions on drafts of legal acts and government programmes in the scope concerning the young generation;
+2) expressing opinions on drafts of legal acts and government programmes in the scope concerning the young generation;
 
-- initiating and supporting actions aimed at increasing the level of civic participation of young people in the Republic of Poland;
+3) initiating and supporting actions aimed at increasing the level of civic participation of young people in the Republic of Poland;
 
-- creation  of  a  dialogue  forum  between  non-governmental  organisations  and  other social  institutions  and  public  authorities  in  the  scope  concerning  the  young generation;
+4) creation of a dialogue forum between non-governmental organisations and other social institutions and public authorities in the scope concerning the young generation;
 
-- supporting the activities of civil dialogue institutions acting for the benefit of the young generation, including children and youth, with particular emphasis on youth councils of communes.
+5) supporting the activities of civil dialogue institutions acting for the benefit of the young generation, including children and youth, with particular emphasis on youth councils of communes.
 
 Council for Dialogue with the Young Generation consists, inter alias, of representatives of the President of the Republic of Poland, Commissioner for Child Rights, President of the  Council  of  Ministers,  minister  responsible  for  education  and  upbringing,  minister responsible for higher education and science, minister responsible for physical culture; Chair  of  the  Public  Benefit  Committee,  local  government  units,  non-governmental organisations,  unions  and  agreements  of  non-governmental  organisations  and  entities listed  in  the  Article  3  (3)  of  the  Act  of  24  April  2003 on  Public  Benefit  Activity  and Volunteer Work , and youth councils of communes, and the Parliament of the Students of the Republic of Poland (Parlament Studentów Rzeczpospolitej Polskiej).
 
@@ -1807,25 +1836,25 @@ Council for Dialogue with the Young Generation consists, inter alias, of represe
 
 In 2019, the Council members met twice (in October and December). The third Council meeting held on 10 January 2020.
 
-- On 23 September 2020, the Regulation of the Council of Ministers of 22 September 2020 on the appointment of the Government Plenipotentiary for Youth Policy (Dziennik Ustaw [ Polish Journal of Laws ] of 2020, item 1631) entered into force.
+142. On 23 September 2020, the Regulation of the Council of Ministers of 22 September 2020 on the appointment of the Government Plenipotentiary for Youth Policy (Dziennik Ustaw [Polish Journal of Laws] of 2020, item 1631) entered into force.
 
 The Plenipotentiary's tasks include:
 
-- initiating activities and cooperation with government administration authorities, local government bodies, and non-governmental organisations in the scope of activities that increase the involvement of young people in public life;
+1) initiating activities and cooperation with government administration authorities, local government bodies, and non-governmental organisations in the scope of activities that increase the involvement of young people in public life;
 
-- coordinating dialogue between the government administration and socio-economic partners,  non-governmental  organisations,  and  local  government  authorities  in  the field of initiatives in the area of youth policy;
+2) coordinating dialogue between the government administration and socio-economic partners, non-governmental organisations, and local government authorities in the field of initiatives in the area of youth policy;
 
-- monitoring  the  work  undertaken  by  government  administration  bodies  and  local government authorities in matters related to the situation of young people in Poland;
+3) monitoring the work undertaken by government administration bodies and local government authorities in matters related to the situation of young people in Poland;
 
-- cooperation with the Council for Dialogue with the Young Generation in the field of issuing opinions on draft legal acts and presenting recommendations on the activities of  government  administration  bodies  and  local  government  authorities  in  matters concerning youth;
+4) cooperation with the Council for Dialogue with the Young Generation in the field of issuing opinions on draft legal acts and presenting recommendations on the activities of government administration bodies and local government authorities in matters concerning youth;
 
-- coordinating the preparation and implementation - based on consultations conducted with a broad circle of stakeholders - a strategic document concerning state's actions in the area of youth policy.
+5) coordinating the preparation and implementation – based on consultations conducted with a broad circle of stakeholders – a strategic document concerning state's actions in the area of youth policy.
 
-- On 31 March 2020, the Regulation of the Minister of Climate of 30 March 2020 on the establishment of the Youth Climate Council (Dziennik Urzędowy Mininistra Klimatu [ Official Journal of the Minister of Climate ] of 2020, item 20) entered into force.
+143. On 31 March 2020, the Regulation of the Minister of Climate of 30 March 2020 on the establishment of the Youth Climate Council (Dziennik Urzędowy Mininistra Klimatu [Official Journal of the Minister of Climate] of 2020, item 20) entered into force.
 
 The Youth Climate Council is an advisory body to the Minister of Climate. The scope of the  Council's  activities  includes  expressing  opinions  on  issues  covered  by  government administration departments on climate and energy, in particular presenting opinions on planned  changes  in  policies,  strategies  and  legislative  changes  in  the  scope  of  the competence of the Minister of Climate, including proposals of solutions. The Council consists of 32 members aged 13-26, selected from among candidacies submitted as part of the recruitment process organised by the Ministry of Climate. The council members were nominated pursuant to the decision of the Minister of Climate of 8 September 2020 on the nomination of the Youth Climate Council members.
 
-- 1 June 2020 the Minister of Environment and the Commissioner for Child Rights signed an  agreement  on  the  establishment  of  the Youth Ecological Council .  The  Council  is composed of 32 persons aged 13-21 recruited from all over Poland. The first meeting took place on 30 September 2020 during the Green Forum of the Youth .  The  meetings  are scheduled  to  be  held  at  least  once  a  quarter,  with  the  participation  of  the  Minister  of Environment and the Commissioner for Child Rights.
+144. 1 June 2020 the Minister of Environment and the Commissioner for Child Rights signed an agreement on the establishment of the Youth Ecological Council. The Council is composed of 32 persons aged 13-21 recruited from all over Poland. The first meeting took place on 30 September 2020 during the Green Forum of the Youth. The meetings are scheduled to be held at least once a quarter, with the participation of the Minister of Environment and the Commissioner for Child Rights.
 
 52
 
@@ -1839,29 +1868,29 @@ Project substantive partners are: State Forests (Lasy Państwowe), National Park
 
 ##### Edukacja globalna
 
-'Global Education. Educational Leaders for Development II' 7th edition of the 2module 2018-2019 project ('Edukacja globalna. Liderzy edukacji na rzecz rozwoju II' VII edycja 2-modułowego projektu 2018-2019) - project implemented in Polish schools in  accordance  with  the  core  curriculum  and  'Multi-Year  Programme  of  Development Cooperation for 2016-2020' (Wieloletni program współpracy rozwojowej na lata 20162020) http://www.edukacjaglobalna.ore.edu.pl/
+145. “Global Education. Educational Leaders for Development II” 7th edition of the 2-module 2018-2019 project (“Edukacja globalna. Liderzy edukacji na rzecz rozwoju II” VII edycja 2-modułowego projektu 2018-2019) – project implemented in Polish schools in accordance with the core curriculum and “Multi-Year Programme of Development Cooperation for 2016-2020” (Wieloletni program współpracy rozwojowej na lata 2016-2020) http://www.edukacjaglobalna.ore.edu.pl/
 
 #### II.3.8. Non-public education. Religious and moral education
 
-- The  functioning  of  public  and  non-public  schools  operated  by  legal  persons  other  than  local government units or natural persons is regulated by the provisions of the UPO, and the subsidising of them - by the provisions of the UFZO .
+146. The functioning of public and non-public schools operated by legal persons other than local government units or natural persons is regulated by the provisions of the UPO, and the subsidising of them – by the provisions of the UFZO.
 
-- The school and facility may be public or non-public .
+1. The school and facility may be public or non-public.
 
-- The school and facility may be established and conducted by :
+2. The school and facility may be established and conducted by:
 
-- a local government unit ;
+1) a local government unit;
 
-- other legal person ;
+2) other legal person;
 
-- a natural person ;
+3) a natural person;
 
-- competent minister .
+4) competent minister.
 
-- Local government units may establish and operate only public schools and facilities .
+3. Local government units may establish and operate only public schools and facilities.
 
 ##### Public schools
 
-- In order to establish a public school, a legal person other than a local government unit, or a natural person, is required to obtain, in accordance with Article 88 of the UPO, a permit from a competent authority of a local government unit whose task is to run public schools of a given type, issued after obtaining a positive opinion of the Head of Regional Education Authority .
+147. In order to establish a public school, a legal person other than a local government unit, or a natural person, is required to obtain, in accordance with Article 88 of the UPO, a permit from a competent authority of a local government unit whose task is to run public schools of a given type, issued after obtaining a positive opinion of the Head of Regional Education Authority.
 
 The application for the permit referred to above shall be submitted together with the draft of the founding act and statute of the school. The application should also contain data necessary to enter the school into the national official business register. The application shall be submitted no later than by 30 September of the year preceding the year in which the school is to be opened .
 
@@ -1879,41 +1908,41 @@ The founding act and statute of a public school shall be sent to the competent R
 
 ##### Non-public schools and facilities
 
-- Legal  persons  and  natural  persons  may  establish  non-public  schools  and  facilities  after  being entered in the register kept by a local government unit obliged to operate a given type of public schools and facilities .
+148. Legal persons and natural persons may establish non-public schools and facilities after being entered in the register kept by a local government unit obliged to operate a given type of public schools and facilities.
 
-- Pursuant to Article 14 (3) of the UPO, a non-public school which is not an art school shall :
+149. Pursuant to Article 14 (3) of the UPO, a non-public school which is not an art school shall:
 
-- implement school curricula taking into account the core curriculum of general education, and in the case of a school providing vocational education - also the core curricula of education in the sectoral VET school professions ;
+1) implement school curricula taking into account the core curriculum of general education, and in the case of a school providing vocational education - also the core curricula of education in the sectoral VET school professions;
 
-- carry out mandatory educational classes in a period not shorter and no less than the total time of individual classes defined in the framework teaching plan for a given type of school ;
+2) carry out mandatory educational classes in a period not shorter and no less than the total time of individual classes defined in the framework teaching plan for a given type of school;
 
-- apply the rules for classifying and promoting pupils and conducting the exams referred to in chapters 3a and 3b of the USO ;
+3) apply the rules for classifying and promoting pupils and conducting the exams referred to in chapters 3a and 3b of the USO;
 
-- keep documentation of the course of education determined for public schools ;
+4) keep documentation of the course of education determined for public schools;
 
-- in the case of a school providing vocational education - educate in the professions defined in the classification of sectoral VET school professions ;
+5) in the case of a school providing vocational education - educate in the professions defined in the classification of sectoral VET school professions;
 
-- employs  teachers  of  mandatory  educational  classes,  referred  to  in  point  2,  having qualifications defined for teachers of public schools .
+6) employs teachers of mandatory educational classes, referred to in point 2, having qualifications defined for teachers of public schools.
 
-- Pursuant to Article 168 (4) of the UPO, registration should include :
+150. Pursuant to Article 168 (4) of the UPO, registration should include:
 
-- designation of the person intending to operate a school or facility, its place of residence or registered office ;
+1) designation of the person intending to operate a school or facility, its place of residence or registered office;
 
-- specification of the kind and type of school and the date of commencement of its operation, and in the case of a school providing vocational education - also the names of professions the  school  will  educate  in,  consistent  with  the  names  the  professions  specified  in  the classification of sectoral VET school professions ;
+2) specification of the kind and type of school and the date of commencement of its operation, and in the case of a school providing vocational education - also the names of professions the school will educate in, consistent with the names the professions specified in the classification of sectoral VET school professions;
 
-- in the case of primary school or general upper secondary school - information weather the school is for children and youth or for adults ;
+3) in the case of primary school or general upper secondary school – information weather the school is for children and youth or for adults;
 
-- in the case of primary school - information weather pre-school education class or classes will be organized in the school ;
+4) in the case of primary school – information weather pre-school education class or classes will be organized in the school;
 
-- indication  of  the  place  where  the  school  or  facility  operates  and  of  other  premises  of providing education, upbringing and care activities, if setting-up of them is planned, whereby other premises must be situated on the territory of a local government unit which responsible to register the school/facility, and in the case of an art school - other premises must be located in the same city/tows, as well as the information on conditions of premises that ensure :
+5) indication of the place where the school or facility operates and of other premises of providing education, upbringing and care activities, if setting-up of them is planned, whereby other premises must be situated on the territory of a local government unit which responsible to register the school/facility, and in the case of an art school – other premises must be located in the same city/tows, as well as the information on conditions of premises that ensure:
 
-- a possibility of conducting didactic and upbringing classes ,
+a) a possibility of conducting didactic and upbringing classes,
 
-- performance of other statutory tasks ,
+b) performance of other statutory tasks,
 
-- in  the  case  of  a  school  providing  vocational  education,  except  for  art  school  -  a possibility of learning a given profession in practice ,
+c) in the case of a school providing vocational education, except for art school – a possibility of learning a given profession in practice,
 
-- safe  and  hygienic  working  conditions,  meeting  the  requirements  laid  down  in  the provisions  on  safety  and  hygiene  in  public  and  non-public  schools  and  facilities, environmental  protection  regulations,  provisions  on  the  State  Sanitary  Inspection (Państwowa  Inspekcja  Sanitarna),  technical  and  construction  and  fire  protection
+d) safe and hygienic working conditions, meeting the requirements laid down in the provisions on safety and hygiene in public and non-public schools and facilities, environmental protection regulations, provisions on the State Sanitary Inspection (Państwowa Inspekcja Sanitarna), technical and construction and fire protection
 
 54
 
@@ -1923,31 +1952,31 @@ The founding act and statute of a public school shall be sent to the competent R
 
 regulations; compliance with these requirements is confirmed by enclosing a positive opinion of a competent state district sanitary inspector and a positive opinion of the district (municipal) commandant of the State Fire Service (Państwowa Straż Pożarna) ;
 
-- the school or facility statute ;
+6) the school or facility statute;
 
-- data on qualifications of pedagogical staff and headmaster to be employed at the school or facility ;
+7) data on qualifications of pedagogical staff and headmaster to be employed at the school or facility;
 
-- in the case of a non-public school which is not an art school - an obligation to comply with the requirements specified in Article 14 (3) of the UPO ;
+8) in the case of a non-public school which is not an art school – an obligation to comply with the requirements specified in Article 14 (3) of the UPO;
 
-- in the case of the art school which provide general education, to which powers of a public art school shall be granted in the date of commencement of its operation - an obligation to apply with the requirements specified in Article 14 (4) of the UPO ;
+9) in the case of the art school which provide general education, to which powers of a public art school shall be granted in the date of commencement of its operation – an obligation to apply with the requirements specified in Article 14 (4) of the UPO;
 
-- in  the  case  of  the  school  indicated  in  Article  178  (1)  of  the  UPO  -  information  on  the permission of the minister responsible for education and upbringing to establish and conduct a non-public school which does not fulfil the conditions specified in Article 14 (3) of the UPO ;
+10) in the case of the school indicated in Article 178 (1) of the UPO – information on the permission of the minister responsible for education and upbringing to establish and conduct a non-public school which does not fulfil the conditions specified in Article 14 (3) of the UPO;
 
-- data necessary for the school or facility to be entered to the national official business register (krajowy rejestr urzędowy podmiotów gospodarki narodowej) .
+11) data necessary for the school or facility to be entered to the national official business register (krajowy rejestr urzędowy podmiotów gospodarki narodowej).
 
 A local government unit obliged to operate a given type of school shall make an entry in the register within 30 days from the date of notification and the agency shall provide the applicant with a certificate of entry into the register, and a copy of the certificate shall be provided to the competent Regional Education Superintendent and tax authority .
 
-- The requirements for non-public schools are laid down in detail in Article 14 (3) of the UPO, imposing a number of duties on them in the scope of approximating standards of conducted  educational  activities  to  those  of  public  schools.  Failure  to  meet  these requirements shall lead to the deletion from the register and closure of the school.
+151. The requirements for non-public schools are laid down in detail in Article 14 (3) of the UPO, imposing a number of duties on them in the scope of approximating standards of conducted educational activities to those of public schools. Failure to meet these requirements shall lead to the deletion from the register and closure of the school.
 
 An art school providing general education may only be a public school or non-public school with the rights of public art school (Article 17 (2) of the UPO).
 
 Non-public primary schools, after fulfilling the information obligations specified by law, receive  a  guarantee  of  subsidising  from  the  budget  of  local  authorities  (commune  or district) and - in the case of non-public art schools having the rights of public art schools - directly from the state budget. The subsidy corresponds to at least 100% of the subsidy amount per student paid by the state budget to local governments in order to operate public schools. The subsidiary is significantly higher in relation to disabled students.
 
-- Non-public upper secondary schools on similar terms as primary non-public schools - are subsidised from the budget of local authorities (commune or district) and, in case of nonpublic art schools having the rights of public art schools - directly from the state budget. Non-public art schools which do not have the rights of public art schools may receive subsidiary from the state budget.
+152. Non-public upper secondary schools on similar terms as primary non-public schools – are subsidised from the budget of local authorities (commune or district) and, in case of non-public art schools having the rights of public art schools – directly from the state budget. Non-public art schools which do not have the rights of public art schools may receive subsidiary from the state budget.
 
 ##### Conditions for establishing non-public schools and facilities
 
-- Legal persons and natural persons may establish non-public schools and facilities after being entered in the register kept by a local government unit obliged to operate a given type of public schools and facilities.
+153. Legal persons and natural persons may establish non-public schools and facilities after being entered in the register kept by a local government unit obliged to operate a given type of public schools and facilities.
 
 Legal persons and natural persons may establish non-public art schools after being entered into the register kept by a specialised supervisory unit referred to in Article 53 (1) of the UPO.
 
@@ -1959,47 +1988,47 @@ Legal persons and natural persons may establish non-public art schools after bei
 
 The minister responsible for culture and national heritage protection, at the request of the person operating a non-public art school without rights of a public art school, submitted not earlier than after the end of the first year of education provided by that school, and in the case of an art post-secondary school - the first semester of education, shall grant this school the rights of a public art school after having determined that this school meets the conditions set out in Article 14 (4) of the UPO, and in the case of an art school providing general education - also after the person operating it presents a positive opinion of the Regional Education Superintendent.
 
-The minister responsible for culture and national heritage protection may, by way of a regulation, entrust a specialist supervision unit with issuing decisions on granting a nonpublic school the rights of a public school or on revoking these rights.
+The minister responsible for culture and national heritage protection may, by way of a regulation, entrust a specialist supervision unit with issuing decisions on granting a non-public school the rights of a public school or on revoking these rights.
 
 ##### Creating optimal learning conditions
 
-- Schools and facilities undertake necessary actions in order to create optimal conditions for didactic, upbringing, and care activities as well as other statutory activities, to provide each pupil with conditions necessary for development, improvement of the quality of work of the school or facility and its organisational development.
+154. Schools and facilities undertake necessary actions in order to create optimal conditions for didactic, upbringing, and care activities as well as other statutory activities, to provide each pupil with conditions necessary for development, improvement of the quality of work of the school or facility and its organisational development.
 
 The aforementioned activities concern:
 
-- effects  in  the  scope  of  education,  upbringing,  and  care  as  well  as  achievement  of statutory objectives and implementation of statutory tasks;
+1) effects in the scope of education, upbringing, and care as well as achievement of statutory objectives and implementation of statutory tasks;
 
-- organisation of education, upbringing, and care processes;
+2) organisation of education, upbringing, and care processes;
 
-- creation  of  conditions  for  development,  and  activity,  including  creativity,  of  the students;
+3) creation of conditions for development, and activity, including creativity, of the students;
 
-- cooperation with parents and local communities;
+4) cooperation with parents and local communities;
 
-- managing a school or facility.
+5) managing a school or facility.
 
 The minister responsible for education and upbringing shall define, by way of a regulation, with regard to various types of schools and facilities, requirements for the schools and facilities concerning the correctness and effectiveness of these activities in the scope of:
 
-- course of education, upbringing, and care processes;
+1) course of education, upbringing, and care processes;
 
-- enabling each pupil to develop as far as their individual capabilities allow;
+2) enabling each pupil to develop as far as their individual capabilities allow;
 
-- taking actions aimed at improving the quality of its work;
+3) taking actions aimed at improving the quality of its work;
 
-- engaging pupils, parents, and teachers in the activities of a school or facility;
+4) engaging pupils, parents, and teachers in the activities of a school or facility;
 
-- cooperate with the local community;
+5) cooperate with the local community;
 
-- the effects of education and upbringing achieved;
+6) the effects of education and upbringing achieved;
 
-- activity of pupils and their development adequately to the needs and capabilities;
+7) activity of pupils and their development adequately to the needs and capabilities;
 
-- improve  the  work  of  the  school  or  facility  with  the  involvement  of  the  school community and the local community.
+8) improve the work of the school or facility with the involvement of the school community and the local community.
 
 ##### Ensuring the quality of education in public and non-public schools/facilities
 
 ###### Accreditation
 
-- A  further  education  institution  and  a  vocational  education  centre  may  obtain  an accreditation for further education conducted in an out-of-school form. Accreditation shall be a confirmation of meeting specific requirements and ensuring high quality of further education conducted in a given out-of-school form.
+155. A further education institution and a vocational education centre may obtain an accreditation for further education conducted in an out-of-school form. Accreditation shall be a confirmation of meeting specific requirements and ensuring high quality of further education conducted in a given out-of-school form.
 
 Accreditation,  by  way  of  an  administrative  decision,  shall  be  granted  by  Regional Education  Superintendent  having  jurisdiction  over  the  place  of  conducting  further education in a given out-of-school form for a period of 5 years.
 
@@ -2011,7 +2040,7 @@ Accreditation,  by  way  of  an  administrative  decision,  shall  be  granted  
 
 ###### Pedagogical supervision system
 
-- The system distinguishes four related forms of supervision:
+156. The system distinguishes four related forms of supervision:
 
 -evaluation which is a quality research aimed consisting in collecting, analysing and communicating information on the value of activities undertaken by school/facility in the scope of the requirements specified in the regulations;
 
@@ -2023,19 +2052,19 @@ Accreditation,  by  way  of  an  administrative  decision,  shall  be  granted  
 
 157. The  main  role  in  external  quality  assurance  is  played  by pedagogical  supervision authorities :
 
-- the minister responsible for education and upbringing, the minister responsible for culture and national heritage protection, the minister responsible for agriculture, the minister  responsible  for  environment,  and  the  Minister  of  Justice  who  supervise specific types of schools;
+a) the minister responsible for education and upbringing, the minister responsible for culture and national heritage protection, the minister responsible for agriculture, the minister responsible for environment, and the Minister of Justice who supervise specific types of schools;
 
 The minister  responsible  for  education  and  upbringing  shall  supervise  and  coordinate pedagogical  supervision  throughout  the  country,  in  particular  the  activities  of  the Regional Education Superintendents in this respect. To this end, the minister responsible for education and upbringing:
 
-- shall determine the basic directions of implementation of the state education policy, in particular tasks related to pedagogical supervision;
+1) shall determine the basic directions of implementation of the state education policy, in particular tasks related to pedagogical supervision;
 
-- shall control the efficiency and effectiveness of pedagogical supervision exercised by Regional Education Superintendents and compliance with the provisions in this regard, and may also issue for the Superintendents written guidelines and instructions binding to them, except for individual cases resolved by way of an administrative decision;
+2) shall control the efficiency and effectiveness of pedagogical supervision exercised by Regional Education Superintendents and compliance with the provisions in this regard, and may also issue for the Superintendents written guidelines and instructions binding to them, except for individual cases resolved by way of an administrative decision;
 
-- may  request the Regional Education Superintendents to provide information, documents, and periodic reports or reports on specific cases;
+3) may request the Regional Education Superintendents to provide information, documents, and periodic reports or reports on specific cases;
 
-- may organise training, meetings, and conferences of Regional Education Superintendents;
+4) may organise training, meetings, and conferences of Regional Education Superintendents;
 
-- may announce recommended standards of school equipment necessary for teaching general subjects in the minister's official journal.
+5) may announce recommended standards of school equipment necessary for teaching general subjects in the minister's official journal.
 
 In  the  basic  directions  of  implementation  of  the  state  educational  policy  the  minister responsible  for  education  and  upbringing  specifies  thematic  scope  of  pedagogical supervision implemented by Regional Education Superintendents in a given school year (control, evaluation and monitoring).
 
@@ -2063,25 +2092,25 @@ A Regional Education Superintendent conducts pedagogical supervision over public
 
 ###### Teacher assessment
 
-- The provisions of the UKN provide for evaluation of a teacher's work and professional achievements. The evaluation rules are the same for teachers employed in the early care and education sector and the school education sector, as well as in the public and nonpublic sector.
+158. The provisions of the UKN provide for evaluation of a teacher's work and professional achievements. The evaluation rules are the same for teachers employed in the early care and education sector and the school education sector, as well as in the public and non-public sector.
 
 ###### Pupil assessment
 
-- Assessment shall encompass educational achievements of the pupil and pupil's behaviour.
+159. Assessment shall encompass educational achievements of the pupil and pupil's behaviour.
 
 Evaluation of educational accomplishments and behaviour of the pupil is performed under an in-school assessment process in line with in-school evaluation principles aimed at:
 
-- informing the pupil about the level of educational achievements and their behaviour and about the progress in this regard;
+1) informing the pupil about the level of educational achievements and their behaviour and about the progress in this regard;
 
-- providing pupils with assistance in learning by providing them with information on what they did well and how to continue learning;
+2) providing pupils with assistance in learning by providing them with information on what they did well and how to continue learning;
 
-- providing guidance on self-planning of one's own development;
+3) providing guidance on self-planning of one's own development;
 
-- motivating pupils to further progress in learning and behaviour;
+4) motivating pupils to further progress in learning and behaviour;
 
-- providing  parents  and  teachers  with  information  on  progress  and  difficulties  in learning and behaviour, and on special talents of the pupil;
+5) providing parents and teachers with information on progress and difficulties in learning and behaviour, and on special talents of the pupil;
 
-- enabling teachers to improve organisation and methods of didactic and upbringing work.
+6) enabling teachers to improve organisation and methods of didactic and upbringing work.
 
 58
 
@@ -2089,7 +2118,7 @@ Evaluation of educational accomplishments and behaviour of the pupil is performe
 
 [[START OF PAGE 60]]
 
-- The eight-grader exam is conducted on the basis of the requirements set out in the general education core curriculum for primary school and it checks to what degree the pupil or student meets these requirements.
+160. The eight-grader exam is conducted on the basis of the requirements set out in the general education core curriculum for primary school and it checks to what degree the pupil or student meets these requirements.
 
 The maturity exam is conducted on the basis of the requirements set out in the general education core curriculum referred to in the provisions issued on the basis of Article 47 (1.1)  (c)  and  (d)  of  the  UPO  and  checks  to  what  degree  the  graduate  meets  these requirements.
 
@@ -2097,7 +2126,7 @@ The person responsible for organising and course of the eight-grader exam or mat
 
 The minister responsible for education and upbringing shall define, by way of a regulation, detailed conditions of conducting the eight-grader or maturity exam.
 
-- The vocational  exam is  a  form  of  assessment  of  the  level  of  proficiency  in  terms  of knowledge and skills of a person mentioned in Article 44zzzb (3) of the USO, in the scope of a single qualification distinguished in a profession determined in the core curriculum for  education  in  the  professions  of  sectoral  VET  schools.  The  vocational  exam  is conducted on the basis of requirements defined in the core curriculum for education in the professions  of  sectoral  VET  schools.  The  minister  responsible  for  education  and upbringing  shall  define,  by  way  of  a  regulation,  detailed  conditions  and  manners  of conducting vocational exam.
+161. The vocational exam is a form of assessment of the level of proficiency in terms of knowledge and skills of a person mentioned in Article 44zzzb (3) of the USO, in the scope of a single qualification distinguished in a profession determined in the core curriculum for education in the professions of sectoral VET schools. The vocational exam is conducted on the basis of requirements defined in the core curriculum for education in the professions of sectoral VET schools. The minister responsible for education and upbringing shall define, by way of a regulation, detailed conditions and manners of conducting vocational exam.
 
 162. Extramural exam
 
@@ -2111,9 +2140,9 @@ A person who is 18 years of age or more may obtain a certificate professional qu
 
 The minister responsible for education and upbringing shall define, by way of a regulation, detailed conditions and manners of conducting extramural exams, including assessment conditions, and education classes from which extramural exams are conducted; conditions for  admission  to  extramural  exams;  conditions  for  remunerations  of  the  examiners conducting extramural exams.
 
-- The tasks of the Central Examination Board shall include, in particular:
+163. The tasks of the Central Examination Board shall include, in particular:
 
-- drawing  up and determining examination materials, in particular tasks and examination  sheets  to  conduct  an  eight-grader  exam,  maturity  exam,  vocational exam, and extramural exams;
+1) drawing up and determining examination materials, in particular tasks and examination sheets to conduct an eight-grader exam, maturity exam, vocational exam, and extramural exams;
 
 59
 
@@ -2121,27 +2150,27 @@ The minister responsible for education and upbringing shall define, by way of a 
 
 [[START OF PAGE 61]]
 
-- determining the rules for preparation of proposals for tasks, examination sheets, and examination materials;
+2) determining the rules for preparation of proposals for tasks, examination sheets, and examination materials;
 
-- drawing  up  and  determining  the  rules  for  evaluating  solutions  for  tasks  used  to conduct examinations in order to ensure comparability of evaluation;
+3) drawing up and determining the rules for evaluating solutions for tasks used to conduct examinations in order to ensure comparability of evaluation;
 
-- developing and publishing information bulletins containing, in particular, examples of tasks that may be included in the exam along with solutions thereto in the Public Information Bulletin (Biuletyn Informacji Publicznej) on the Central Examination Board's website;
+4) developing and publishing information bulletins containing, in particular, examples of tasks that may be included in the exam along with solutions thereto in the Public Information Bulletin (Biuletyn Informacji Publicznej) on the Central Examination Board's website;
 
-- organising the printing and distribution of examination materials;
+5) organising the printing and distribution of examination materials;
 
-- analysing the examination results, as well as submitting annual reports on the results thereof to the minister responsible for education and upbringing;
+6) analysing the examination results, as well as submitting annual reports on the results thereof to the minister responsible for education and upbringing;
 
-- drawing  up  training  materials  for  candidates  for  examiners  in  cooperation  with regional examination boards;
+7) drawing up training materials for candidates for examiners in cooperation with regional examination boards;
 
-- cooperate with domestic and foreign institutions in the field of examination;
+8) cooperate with domestic and foreign institutions in the field of examination;
 
-- initiating or organising research, analyses, and diagnostic tests and developing new solutions in the field of examination;
+9) initiating or organising research, analyses, and diagnostic tests and developing new solutions in the field of examination;
 
-- implementing  international and inter-ministerial agreements in the scope of conducting exams;
+10) implementing international and inter-ministerial agreements in the scope of conducting exams;
 
-- annual publications in the Public Information Bulletin on the website of the Central Examination Commission of:
+11) annual publications in the Public Information Bulletin on the website of the Central Examination Commission of:
 
-- messages on:
+a) messages on:
 
 -the  schedule  of  conducting  eight-grader  exam,  maturity  exam,  vocational exam, and extramural exams, including:
 
@@ -2151,7 +2180,7 @@ The minister responsible for education and upbringing shall define, by way of a 
 
 - deadlines  for  passing  the  results  of  vocational  exams  and  professional qualifications certificates to schools, institutions or centres, employers and entities conducting qualification vocational courses, as well as deadlines for passing vocational diplomas to schools,,
 
--auxiliary materials and supplies which can be used during the eight-grader exam, maturity exam, vocational exam, and extramural exams, as well as a list of operating systems, utility programmes, and programming languages in the case of an IT maturity exam,
+- auxiliary materials and supplies which can be used during the eight-grader exam, maturity exam, vocational exam, and extramural exams, as well as a list of operating systems, utility programmes, and programming languages - in the case of an IT maturity exam,
 
 -detailed  methods  of  adjusting  the  conditions  and  forms  of  conducting  the eight-grader exam, maturity exam, vocational exam, and extramural exams to the  needs  of  the  persons  referred  to  in  Article  44zzr,  Article  44zzzf,  and Article 44zzzh of the USO,
 
@@ -2165,9 +2194,9 @@ The minister responsible for education and upbringing shall define, by way of a 
 
 are open, together with an indication of the location where the tasks are made available to the public,
 
-- information on the manner of organising and conducting the eight-grader exam, maturity exam, vocational exam, and extramural exams.
+b) information on the manner of organising and conducting the eight-grader exam, maturity exam, vocational exam, and extramural exams.
 
-- The legal framework for teaching religion in nursery schools and public schools are, inter alias, included in the following provisions of:
+164. The legal framework for teaching religion in nursery schools and public schools are, inter alias, included in the following provisions of:
 
 -the Constitution of the Republic of Poland, in particular:
 
@@ -2195,11 +2224,11 @@ See also: the information presented in the point 124 of the report of the Republ
 
 #### II.3.9. Rights of national minorities
 
-- A school or a public institution shall be established on the basis of a founding act which defines its type, name, and registered office accordingly.
+165. A school or a public institution shall be established on the basis of a founding act which defines its type, name, and registered office accordingly.
 
-- There  are  no  districts  for  special  schools,  integration  schools,  two-language  schools, schools for national and ethnic minorities and communities using regional language, sports schools, schools for sport champions, art schools, schools in juvenile detention centres and shelters for minors, and schools in correctional facilities and detention centres (Article 88 (1) and (3) of the UPO).
+166. There are no districts for special schools, integration schools, two-language schools, schools for national and ethnic minorities and communities using regional language, sports schools, schools for sport champions, art schools, schools in juvenile detention centres and shelters for minors, and schools in correctional facilities and detention centres (Article 88 (1) and (3) of the UPO).
 
-- Dla nauczycieli zatrudnionych w szkołach z językiem nauczania mniejszości narodowych In  accordance  with  their  needs,  for  teachers  employed  in  schools  where  the  teaching
+167. Dla nauczycieli zatrudnionych w szkołach z językiem nauczania mniejszości narodowych In accordance with their needs, for teachers employed in schools where the teaching
 
 61
 
@@ -2213,11 +2242,11 @@ Since  2019,  the  Regional  Education  Superintendent  shall  organise  a  netw
 
 ##### Activities  aimed  at  maintaining  the  sense  of  national,  ethnic  and language  identity  of pupils  belonging  to  national  and  ethnic  minorities,  and  communities  using  a  regional language
 
-- Nursery schools and schools shall undertake activities aimed at maintaining the sense of national,  ethnic  and  language  identity  of  pupils  on  the  basis  of  the  provisions  of  the Regulation of the Minister of National Education of 14 November 2007 on the conditions and manner of performing tasks by nursery schools, schools and public establishments, enabling  pupils  belonging  to  national  and  ethnic  minorities  and  communities  using regional language to maintain a sense of national, ethnic and language identity (Dziennik Ustaw [ Polish Journal of Laws ] of 2014, item 263) - applies to lower secondary schools and upper secondary schools (repealed on 1 September 2017) and to the Regulation of 18 August 2017 (Dziennik Ustaw [ Polish Journal of Laws ] of 2017, item 1627) - applies to nursery schools, primary schools, and secondary schools. These regulations are correlated to the provisions of the Act of 6 January 2005 on National and Ethnic Minorities and Regional Language (Dziennik Ustaw [ Polish Journal of Laws ] of 2017, item 823).
+168. Nursery schools and schools shall undertake activities aimed at maintaining the sense of national, ethnic and language identity of pupils on the basis of the provisions of the Regulation of the Minister of National Education of 14 November 2007 on the conditions and manner of performing tasks by nursery schools, schools and public establishments, enabling pupils belonging to national and ethnic minorities and communities using regional language to maintain a sense of national, ethnic and language identity (Dziennik Ustaw [Polish Journal of Laws] of 2014, item 263) – applies to lower secondary schools and upper secondary schools (repealed on 1 September 2017) and to the Regulation of 18 August 2017 (Dziennik Ustaw [Polish Journal of Laws] of 2017, item 1627) – applies to nursery schools, primary schools, and secondary schools. These regulations are correlated to the provisions of the Act of 6 January 2005 on National and Ethnic Minorities and Regional Language (Dziennik Ustaw [Polish Journal of Laws] of 2017, item 823).
 
 In  2019,  teaching  the  languages  of  national  minorities  or  teaching  in  these  languages (Belarusian, Lithuanian, German, Armenian, Russian, Slovak, Ukrainian and Jewish), the Lemkos ethnic minority, and regional language (Kashubian) was conducted in more than 1,300 facilities (including schools and inter-school minority language teaching complexes and nursery school) and included 77453 students in total. In addition, schools organised additional educational classes for 2029 pupils of Roma origin (remedial classes and classes to maintain ethnic identity) and employed Roma education assistants.
 
-- Pursuant to Article 68 of the UFZO, the MEN financed publishing of 17 textbooks and auxiliary  books,  intended  for  national  and  ethnic  minorities  and  communities  using regional  languages  of  a  total  circulation  of  9,709 copies  -  for  a  total  amount  of  PLN 1,129,695.  The  expenses  covered  financing  the  preparation,  development,  printing  of school textbooks and auxiliary books for teaching the Lithuanian language, the Kashubian language,  the  German  language  as  a  language  of  a  national  minority,  the  Belarusian language,  and  the  Slovak  language,  and  their  delivery  to  relevant  Regional  Education Authorities.
+169. Pursuant to Article 68 of the UFZO, the MEN financed publishing of 17 textbooks and auxiliary books, intended for national and ethnic minorities and communities using regional languages of a total circulation of 9,709 copies – for a total amount of PLN 1,129,695. The expenses covered financing the preparation, development, printing of school textbooks and auxiliary books for teaching the Lithuanian language, the Kashubian language, the German language as a language of a national minority, the Belarusian language, and the Slovak language, and their delivery to relevant Regional Education Authorities.
 
 In  order  to  ensure  access  to  textbooks  for  the  Ukrainian  language,  in  2019  the  MEN concluded an agreement with John Paul II Catholic University of Lublin for preparing textbooks  for  the  Ukrainian  language  for  grades  I-III  of  general  and  technical  upper secondary  schools  in  the  years  2019-2022.  The  textbook  for  grade  I  of  general  and technical upper secondary schools will be issued in 2020, for grade II - in 2021, for grades III and IV - in 2022.
 
@@ -2229,29 +2258,29 @@ In  order  to  ensure  access  to  textbooks  for  the  Ukrainian  language,  in
 
 ##### Government programme for integration of the Roma community in Poland for 2014-2020
 
-- State budget funds spent in 2019 were mainly used for the purchase of textbooks and school supplies, payment of insurance against consequences of accidents, scholarships for Roma pupils, purchase of sports clothing, financial support for integration day-care rooms, summer  recreation,  integration  and  sightseeing  trips,  subsidising  preschool  education, payment  of  costs  of  improving  the  qualifications  of  the  Roma  teaching  assistant,  and financing activities for the protection of historical education of the Roma community.
+170. State budget funds spent in 2019 were mainly used for the purchase of textbooks and school supplies, payment of insurance against consequences of accidents, scholarships for Roma pupils, purchase of sports clothing, financial support for integration day-care rooms, summer recreation, integration and sightseeing trips, subsidising preschool education, payment of costs of improving the qualifications of the Roma teaching assistant, and financing activities for the protection of historical education of the Roma community.
 
 In 2019, a total of 1576 pupils took advantage of the Roma programme as part of the above-mentioned tasks.
 
 #### II.3.10. Rights of refugees and migrants
 
-- The  terms  and  conditions  for  foreigners  to  take  up  education  in  Polish  schools  are governed by the following provisions:
+171. The terms and conditions for foreigners to take up education in Polish schools are governed by the following provisions:
 
 -Article  165  and  166  of  the  UPO  and  the  Regulation  of  the  Minister  of  National Education of 3 August 2017 on the education of persons not being Polish citizens and persons being Polish citizens who received education in schools operating in education systems of other countries (Dziennik Ustaw [ Polish Journal of Laws ]  of  2020, item 1283) - in relation to nursery schools and schools operating according to the new school system
 
 and
 
--Article  363  of  the  Act  of  14  December  2016  Regulations  Introducing  the  Act -Education  Law and  the  Regulation  of  the  Minister  of    National  Education  of  9 September 2016 on education of persons who are not Polish citizens and persons who are Polish citizens who received education in schools operating in education systems of other countries (Dziennik Ustaw [ Polish Journal of Laws ] of 2016, item 1453, as amended) - in relation to lower secondary schools and upper secondary schools until the end of education in these schools.
+- Article 363 of the Act of 14 December 2016 – Regulations Introducing the Act - Education Law and the Regulation of the Minister of National Education of 9 September 2016 on education of persons who are not Polish citizens and persons who are Polish citizens who received education in schools operating in education systems of other countries (Dziennik Ustaw [Polish Journal of Laws] of 2016, item 1453, as amended) – in relation to lower secondary schools and upper secondary schools until the end of education in these schools.
 
 See also the information included in the points 30-37 of the report.
 
-- Pursuant to the Act of 12 December 2013 on foreigners ,  minors  staying  in  a  guarded centres for foreigners have the right to participate, at the time and place specified by the head  of  the  centre,  in  educational  and  upbringing  classes  and  recreational  and  sports classes. The curriculum is adapted to the age of the minor and the length of their stay within the territory of the Republic of Poland (Article 416 (2) of the Act of 12 December 2013 on foreigners ).
+172. Pursuant to the Act of 12 December 2013 on foreigners, minors staying in a guarded centres for foreigners have the right to participate, at the time and place specified by the head of the centre, in educational and upbringing classes and recreational and sports classes. The curriculum is adapted to the age of the minor and the length of their stay within the territory of the Republic of Poland (Article 416 (2) of the Act of 12 December 2013 on foreigners).
 
-- In accordance with the obligations resulting from the Act of 13 June 2003 on Granting Protection  to  Foreigners  in  the  Territory  of  the  Republic  of  Poland (Dziennk  Ustaw [ Polish Journal of Laws ]  of  2019,  item1666,  as  amended),  the  Head  of  the  Office  for Foreigners  provides  the  Polish  language  classes  and  basic  supplies  necessary  for  its learning for foreigners remaining in the care of the Office who apply for international protection in the Republic of Poland.
+173. In accordance with the obligations resulting from the Act of 13 June 2003 on Granting Protection to Foreigners in the Territory of the Republic of Poland (Dziennk Ustaw [Polish Journal of Laws] of 2019, item1666, as amended), the Head of the Office for Foreigners provides the Polish language classes and basic supplies necessary for its learning for foreigners remaining in the care of the Office who apply for international protection in the Republic of Poland.
 
 Teaching the Polish language to children consists in helping them with homework and conducting remedial classes. The teacher conducting the classes remains in touch with schools attended by the children, which allows for exchanging information about progress and problems in learning, giving the opportunity to adjust the classes to their needs.
 
-Children who start obligatory education in Poland have (since 2017) the possibility to participate in a Polish language course intended specifically for them, aimed at facilitating their  integration  in  the  school  community.  These  classes  are  conducted  in  the  form  of learning Polish as a foreign language with elements of Polish realities, social and cultural matters. Children referred to above and who start obligatory education in Poland, take advantage  of  the  Polish  language  teaching  programme  and  model  methodological solutions. The curriculum takes into account specific communication needs of children applying for international protection in Poland, including content of Polish realities and socio-cultural  matters.  It  includes  acquisition  of  basic  skills,  such  as  presentation  of oneself  and  family,  as  well  as  simulations  of  communication  situations  at  school.  It focuses on gaining and consolidating knowledge on the basis of communication at a Polish school and the rules prevailing therein. It takes into account the age differentiation of participants,  and  didactic  materials  are  adapted  for  two  groups  -  children  performing compulsory  one-year  pre-primary  education  and  pupils  of  primary  school  as  well  as secondary school pupils. As part of the programme, a teacher's textbook containing lesson scenarios  and  educational  materials  for  children  was  developed.  The  programme  was developed from FAMI funds ( The Asylum, Migration and Integration Fund s) under the 'Material and Educational Support for Foreigners Applying for International Protection in  Poland'  (Wsparcie  materialne  i  edukacyjne  dla  cudzoziemców  ubiegających  się  o ochronę międzynarodową w Polsce) project.
+Children who start obligatory education in Poland have (since 2017) the possibility to participate in a Polish language course intended specifically for them, aimed at facilitating their integration in the school community. These classes are conducted in the form of learning Polish as a foreign language with elements of Polish realities, social and cultural matters. Children referred to above and who start obligatory education in Poland, take advantage of the Polish language teaching programme and model methodological solutions. The curriculum takes into account specific communication needs of children applying for international protection in Poland, including content of Polish realities and socio-cultural matters. It includes acquisition of basic skills, such as presentation of oneself and family, as well as simulations of communication situations at school. It focuses on gaining and consolidating knowledge on the basis of communication at a Polish school and the rules prevailing therein. It takes into account the age differentiation of participants, and didactic materials are adapted for two groups – children performing compulsory one-year pre-primary education and pupils of primary school as well as secondary school pupils. As part of the programme, a teacher's textbook containing lesson scenarios and educational materials for children was developed. The programme was developed from FAMI funds (The Asylum, Migration and Integration Funds) under the “Material and Educational Support for Foreigners Applying for International Protection in Poland” (Wsparcie materialne i edukacyjne dla cudzoziemców ubiegających się o ochronę międzynarodową w Polsce) project.
 
 63
 
@@ -2259,9 +2288,9 @@ Children who start obligatory education in Poland have (since 2017) the possibil
 
 [[START OF PAGE 65]]
 
-Children  who  apply  for  international  protection  and  remain  in  the  care  of  the  Social Assistance Department in the Office for Foreigners are enrolled to schools after arriving to the centre for foreigners. Parents are supported in that by the employees of the centres for  foreigners  who  provide  information  about  the  nearest  schools  and  regulations concerning obligatory education and learning education, as well as assistance in filling in forms and completing documents, and, if necessary, also assisting during the first visit to school.  Under  the  'Material  and  Educational  Support  for  Foreigners  Applying  for International Protection in Poland' project, co-financed from FAMI funds, in the centres for foreigners in the years 2018 - 2020 after-school activities for school-age children were held aimed at releasing positive emotions, increasing their self-esteem, learning positive attitudes,  expressing  respect  and  empathy  towards  others,  shaping  the  ability  to  solve problem situations in a peaceful way on the basis of dialogue and compromise. In addition, during the activities social, linguistic, motor and manual skills were developed, and the children were introduced to the host country - Poland, through the presentation of rules, laws, norms, and learning to respect them. In 2018, a study visit to Finland took place (cofinanced by the Asylum, Migration and Integration Fund as part of the project 'Study visits of employees of the Office for Foreigners'), in which participated, on the invitation of the Office, headmasters of the schools where compulsory education is performed by children living in centres for foreigners. The visit made it possible to get to know the Finnish education system, including the issue of teaching foreigners, and also allowed for the exchange of good practices among participants and establishing closer cooperation.
+Children who apply for international protection and remain in the care of the Social Assistance Department in the Office for Foreigners are enrolled to schools after arriving to the centre for foreigners. Parents are supported in that by the employees of the centres for foreigners who provide information about the nearest schools and regulations concerning obligatory education and learning education, as well as assistance in filling in forms and completing documents, and, if necessary, also assisting during the first visit to school. Under the “Material and Educational Support for Foreigners Applying for International Protection in Poland” project, co-financed from FAMI funds, in the centres for foreigners in the years 2018 – 2020 after-school activities for school-age children were held aimed at releasing positive emotions, increasing their self-esteem, learning positive attitudes, expressing respect and empathy towards others, shaping the ability to solve problem situations in a peaceful way on the basis of dialogue and compromise. In addition, during the activities social, linguistic, motor and manual skills were developed, and the children were introduced to the host country – Poland, through the presentation of rules, laws, norms, and learning to respect them. In 2018, a study visit to Finland took place (co-financed by the Asylum, Migration and Integration Fund as part of the project “Study visits of employees of the Office for Foreigners”), in which participated, on the invitation of the Office, headmasters of the schools where compulsory education is performed by children living in centres for foreigners. The visit made it possible to get to know the Finnish education system, including the issue of teaching foreigners, and also allowed for the exchange of good practices among participants and establishing closer cooperation.
 
-- The Polish language is also taught to adult foreigners applying for international protection and  staying  in  the  care  of  the  Office  for  Foreigners.  Classes  in  groups  for  adults  are conducted on the basis of unified didactic material, which was created as a result of project undertaken  by  the  Office  and  Linguae  Mundi  Foundation.  This  material  constitutes  a curriculum at level A1 with elements of A2. It emphasises the development of listening and speaking, reading and writing skills. Furthermore, the curriculum takes into account specific communication needs of persons applying for international protection in Poland, including  content  concerning  Polish  realities  and  socio-cultural  matters.  It  includes acquisition  of  basic  skills,  such  as  presentation  of  oneself  and  family,  as  well  as simulations  of  communication  situations:  at  stores,  restaurants,  on  the  street,  at  the
+174. The Polish language is also taught to adult foreigners applying for international protection and staying in the care of the Office for Foreigners. Classes in groups for adults are conducted on the basis of unified didactic material, which was created as a result of project undertaken by the Office and Linguae Mundi Foundation. This material constitutes a curriculum at level A1 with elements of A2. It emphasises the development of listening and speaking, reading and writing skills. Furthermore, the curriculum takes into account specific communication needs of persons applying for international protection in Poland, including content concerning Polish realities and socio-cultural matters. It includes acquisition of basic skills, such as presentation of oneself and family, as well as simulations of communication situations: at stores, restaurants, on the street, at the
 
 64
 
@@ -2273,15 +2302,15 @@ doctor's  office,  during  travel,  at  school,  while  looking  for  a  job,  o
 
 Under the 'Material and Educational Support for Foreigners Applying for International Protection in Poland' project, co-financed from FAMI funds, in 2020 didactic materials for  the  Polish  language learning at level A2 with elements of B1 will be created. The didactic materials will take into account specific communication needs of adult foreigners applying  for  international  protection  in  Poland,  including  content  concerning  Polish realities and socio-cultural matters. The learning program will cover the development of skills and enrichment of the vocabulary in the field of introducing oneself and family, familiarizing with the customs and traditions, the administrative division of Poland, tourist regions, as well as simulations of communication situations: at a hairdresser's, in a grocery and  clothing  store,  a  pharmacy,  at  a  specialist  doctor's,  at  the  police  station,  at  a  job interview, when choosing or arranging an apartment.
 
-- In addition, both at centres of the Office for Foreigners and those rented by the Office, educational  and  adaptive  classes  for  children  of  preschool  age  are  held,  which  are conducted by qualified and experienced teachers for 5 hours a day, 5 days a week. The Office also provides - whenever possible - funding of extracurricular and recreational and sports activities for children.
+175. In addition, both at centres of the Office for Foreigners and those rented by the Office, educational and adaptive classes for children of preschool age are held, which are conducted by qualified and experienced teachers for 5 hours a day, 5 days a week. The Office also provides – whenever possible – funding of extracurricular and recreational and sports activities for children.
 
 Minor foreigners who take advantage of education and care at public institutions, primary and secondary schools receive a school starter kit (in the form of supplies or in the form of vouchers for purchase thereof); pupils and children performing compulsory one-year pre-primary education are supplied with school textbooks.
 
 ##### The solutions adopted in order to ensure that refugees and migrants have the opportunity to exercise their right to education
 
-- Facilities  have  been  envisaged  for  persons  not  being  Polish  citizens,  who  take  part  in external exams (see point 183 of that report).
+176. Facilities have been envisaged for persons not being Polish citizens, who take part in external exams (see point 183 of that report).
 
-- Every year, when determining the directions of the state education policy, the minister responsible  for  education  and  upbringing  analyses  the  needs,  also  in  the  field  of professional development of teachers, taking into account, inter alias, changes introduced in the education system, results of external exams, and results of pedagogical supervision. The needs identified by the minister responsible for education and upbringing are taken into account in various ways by units subordinated to and supervised by that minister, and constant  mechanisms  defined  in  the  provisions  of  Article  70a  of  the  UKN  and  the Regulation of the Minister of National Education of 28 May 2019 on teacher training facilities (Dziennik Ustaw [ Polish Journal of Laws ] of 2019, item 1045), and earlier the Regulation  of  the  Minister  of  National  Education  of  29  September  2016  on teacher training facilities (Dziennik Ustaw [ Polish Journal of Laws ] of 2016, item 1591).
+177. Every year, when determining the directions of the state education policy, the minister responsible for education and upbringing analyses the needs, also in the field of professional development of teachers, taking into account, inter alias, changes introduced in the education system, results of external exams, and results of pedagogical supervision. The needs identified by the minister responsible for education and upbringing are taken into account in various ways by units subordinated to and supervised by that minister, and constant mechanisms defined in the provisions of Article 70a of the UKN and the Regulation of the Minister of National Education of 28 May 2019 on teacher training facilities (Dziennik Ustaw [Polish Journal of Laws] of 2019, item 1045), and earlier the Regulation of the Minister of National Education of 29 September 2016 on teacher training facilities (Dziennik Ustaw [Polish Journal of Laws] of 2016, item 1591).
 
 In  school  years  2016/2017  -  2019/2020,  the  minister  responsible  for  education  and upbringing considered the needs related to professional training of teachers conducting classes with students/pupils coming from abroad, including activities for methodological advisers as significant - by adequately shaping the work plan of the ORE. During the aforementioned period the ORE provided training for teachers, methodological advisers, teacher-consultants, as well as specialists employed in teacher training facilities in the field  of  methodology  of  teaching  Polish  as  a  foreign  language,  as  well  as  support  for schools and teachers in the field of work with pupils returning to the Polish education system.
 
@@ -2291,9 +2320,9 @@ In  school  years  2016/2017  -  2019/2020,  the  minister  responsible  for  ed
 
 [[START OF PAGE 67]]
 
-- The directions of implementation of the state education policy are also important for the work of teacher development facilities. Public development facilities are obliged under the Regulation of the Minister of National Education of 28 May 2019 on teacher training facilities (and previously applicable regulations) to organise and conduct professional training for teachers to the extent resulting from the directions of state education policy set  out  by  the  minister  responsible  for  education  and  upbringing  and  from  changes introduced to the education system.
+178. The directions of implementation of the state education policy are also important for the work of teacher development facilities. Public development facilities are obliged under the Regulation of the Minister of National Education of 28 May 2019 on teacher training facilities (and previously applicable regulations) to organise and conduct professional training for teachers to the extent resulting from the directions of state education policy set out by the minister responsible for education and upbringing and from changes introduced to the education system.
 
-- In Polish nursery schools and schools, including post-secondary ones, according to the SIO data, in the school year 2018/2019 there were approx. 44,000 foreigners, of whom:
+179. In Polish nursery schools and schools, including post-secondary ones, according to the SIO data, in the school year 2018/2019 there were approx. 44,000 foreigners, of whom:
 
 -206 were granted refugee status,
 
@@ -2301,13 +2330,13 @@ In  school  years  2016/2017  -  2019/2020,  the  minister  responsible  for  ed
 
 -1,747  had  other  forms  of  protection  (e.g.  tolerated  stay  or  stay  for  humanitarian reasons).
 
-- In order to enable quick and effective inclusion of pupils coming from abroad into the Polish education system, from 1 September 2017 there is a possibility to create preparatory classes in schools. A pupil can be admitted to such a class if he/she does not know or has a  limited  command  of  the  Polish  language,  has  adaptation  problems  due  to  cultural differences  or  change  in  the  educational  environment  caused  by  e.g.  being  previously educated abroad or difficulties caused by crises or traumatic events, resulting from armed conflicts, natural disasters, or other humanitarian crises.
+180. In order to enable quick and effective inclusion of pupils coming from abroad into the Polish education system, from 1 September 2017 there is a possibility to create preparatory classes in schools. A pupil can be admitted to such a class if he/she does not know or has a limited command of the Polish language, has adaptation problems due to cultural differences or change in the educational environment caused by e.g. being previously educated abroad or difficulties caused by crises or traumatic events, resulting from armed conflicts, natural disasters, or other humanitarian crises.
 
 It is also important that in case of a larger number of pupils coming from abroad being admitted to a school, a preparatory class may also be created during the school year.
 
 It is assumed that the pupil will attend that class during the school year in which he/she was admitted to the school. However, taking their progress into account, the school board may decide to shorten or extend the learning period, in this case - not more than one school year. At the preparatory class, Polish as a foreign language is taught at least 3 hours a week, and at the same time, the pupil implements the core curriculum in a manner adapted to their capabilities and knowledge of Polish. Each class cannot have more than 15 pupils. In the 2018/2019 school year there were approx. 300 pupils attending preparatory classes. The SIO does not collect separate data on the number of persons employed in schools as teacher assistants. Employing such persons is the responsibility of a local government unit, i.e. the body governing the school.
 
-- Local government units are entitled to a part of the general subsidy for education to carry out tasks connected with educating pupils coming from abroad. It provides for additional weights,  including  students  using additional  Polish  language  courses.  Pursuant  to  the Regulation of the Minister of National Education of 15 December 2017 on the method of subdivision of the educational part of the general subsidy for local government units in 2018 (Dziennik  Ustaw  [ Polish  Journal  of  Laws ]  of  2017,  item  2395)  the  weight  was P 41 =1.5. A weight was also introduced for pupils attending preparatory classes of P 42 =0.3. In 2019, these were P 44 =1.5 and P 45 =0.3.
+181. Local government units are entitled to a part of the general subsidy for education to carry out tasks connected with educating pupils coming from abroad. It provides for additional weights, including students using additional Polish language courses. Pursuant to the Regulation of the Minister of National Education of 15 December 2017 on the method of subdivision of the educational part of the general subsidy for local government units in 2018 (Dziennik Ustaw [Polish Journal of Laws] of 2017, item 2395) the weight was P41=1.5. A weight was also introduced for pupils attending preparatory classes of P42=0.3. In 2019, these were P44=1.5 and P45=0.3.
 
 The  issues  related  to  the  professional  development  of  teachers  are  also  within  the competences of the governing bodies of schools. An example of professional training can be the activities of the Warsaw Centre for Education and Social Innovation and Training, a  local-government  teacher  training  facility  where  a  Contact  Point  and  the  Foreign Children Teaching Team and the advisor in terms of working with a foreign pupil were created,  and  where  regular  training  courses  for  teachers  working  with  children  with migration experience are conducted.
 
@@ -2317,13 +2346,13 @@ The  issues  related  to  the  professional  development  of  teachers  are  als
 
 [[START OF PAGE 68]]
 
-The minister responsible for education and upbringing organises an annual competition for the implementation of the public task entitled Supporting educational initiatives in the multicultural  school  environment ('Wspieranie  inicjatyw  edukacyjnych  w  szkolnym środowisku wielokulturowym'). In the years 2017-2019 PLN 1,000,000 was allocated for this purpose. One of the objectives of this competition is to prepare a school for admission of pupils with migration experience, including refugees. Projects implemented within the framework of the competition include organisation of language and cultural classes for refugees, integration classes for Polish and refugee children, training courses for teachers working with children with migration experience. One of the objectives of the competition in 2017 was to subsidise projects for the preparation of teachers and school environments for work with pupils with migration experience and supporting commencement of their education at public schools. As part of the competition, the MEN subsidised, inter alias, a project  covering  the  preparation  of  didactic  materials  for  teachers,  for  working  with children with migration experience, in the field of teaching Polish as a language of school education. Under the project, a series of training sessions for school leaders, teachers and counsellors took place in Kraków. Over 200 people took part in the workshops. Materials are available on the website of the Mikołaj Rej Foundation at  http://fundacjareja.eu/wpolskiej-szkole free of charge.
+The minister responsible for education and upbringing organises an annual competition for the implementation of the public task entitled Supporting educational initiatives in the multicultural school environment (“Wspieranie inicjatyw edukacyjnych w szkolnym środowisku wielokulturowym”). In the years 2017-2019 PLN 1,000,000 was allocated for this purpose. One of the objectives of this competition is to prepare a school for admission of pupils with migration experience, including refugees. Projects implemented within the framework of the competition include organisation of language and cultural classes for refugees, integration classes for Polish and refugee children, training courses for teachers working with children with migration experience. One of the objectives of the competition in 2017 was to subsidise projects for the preparation of teachers and school environments for work with pupils with migration experience and supporting commencement of their education at public schools. As part of the competition, the MEN subsidised, inter alias, a project covering the preparation of didactic materials for teachers, for working with children with migration experience, in the field of teaching Polish as a language of school education. Under the project, a series of training sessions for school leaders, teachers and counsellors took place in Kraków. Over 200 people took part in the workshops. Materials are available on the website of the Mikołaj Rej Foundation at http://fundacjareja.eu/w-polskiej-szkole free of charge.
 
-- The ORE organises training courses and workshops devoted to working with pupils with migration experience, e.g. for teachers learning Polish as the second language or working in a multicultural environment. The ORE website offers materials, free of charge, for work with pupils with migration experience and materials showcasing previous experiences and difficulties in working with, inter alias, refugee pupils. Useful materials on supporting pupils  coming  from  abroad  are  also  available  on  the  website  of  the  Centre  for  the Development  of  Polish  Education  Abroad  (Ośrodek  Rozwoju  Edukacji  Polskiej  za Granicą) (http://powroty.otwarteaszkola.pl/).
+182. The ORE organises training courses and workshops devoted to working with pupils with migration experience, e.g. for teachers learning Polish as the second language or working in a multicultural environment. The ORE website offers materials, free of charge, for work with pupils with migration experience and materials showcasing previous experiences and difficulties in working with, inter alias, refugee pupils. Useful materials on supporting pupils coming from abroad are also available on the website of the Centre for the Development of Polish Education Abroad (Ośrodek Rozwoju Edukacji Polskiej za Granicą) (http://powroty.otwarteaszkola.pl/).
 
 ##### Facilitation for persons not being Polish citizens who take external exams
 
-- Pupils or graduates who have limited command of the Polish language that hinders their understanding written text may take:
+183. Pupils or graduates who have limited command of the Polish language that hinders their understanding written text may take:
 
 -an eight-grader exam - except for an eight-grader modern foreign language exam, under conditions and in the form adapted to their educational needs and psychophysical capabilities, based on a positive opinion of the school board;
 
@@ -2341,7 +2370,7 @@ Until 10 September of the school year in which external exams are to be conducte
 
 [[START OF PAGE 69]]
 
-- On 30 May 2019, a conference on 'Education of a child with migration experience' held in Warsaw. The conference was organised by the Regional Education Superintendent of the Mazowieckie Province in cooperation with the Representative of the United Nations High Commissioner for Refugees in Poland.
+184. On 30 May 2019, a conference on “Education of a child with migration experience” held in Warsaw. The conference was organised by the Regional Education Superintendent of the Mazowieckie Province in cooperation with the Representative of the United Nations High Commissioner for Refugees in Poland.
 
 The guiding idea of the meeting was a social and educational dimension of education of a child with migration experience. The purpose of the meeting was to inspire participants to search for and find the best solutions in work with a group of refugee children or those changing their place of stay for other reasons.
 
@@ -2351,15 +2380,15 @@ The  main  topic  of  the  discussion  panel  was  learning  Polish  as  a  fore
 
 ### III.1. Country-wide activities
 
-- The nationwide scientific conference 'School of Equal Opportunities' held on May 19-21, 2019 in Gdynia. It concerned the diagnosis of the existing social and educational inequalities  at  school  and  the  methods  of  reducing  them.  The  speakers  discussed  the following  areas:  sociology  and  philosophy  of  education,  social  pedagogy,  special education, care pedagogy, intercultural education, psychology and social prevention.
+185. The nationwide scientific conference “School of Equal Opportunities” held on May 19-21, 2019 in Gdynia. It concerned the diagnosis of the existing social and educational inequalities at school and the methods of reducing them. The speakers discussed the following areas: sociology and philosophy of education, social pedagogy, special education, care pedagogy, intercultural education, psychology and social prevention.
 
 About 150 people took part in the conference. Participants included educational decision makers, school headmasters, teachers, representatives of the academic community, school boards, teacher training centres, psychological and pedagogical counseling centres and Erasmus + program beneficiaries. The conference participants took part in lectures, an expert panel and thematic sessions. They could learn about the current research relating to the social determinants of educational inequalities, as well as the solutions that affect the equalization of opportunities for children and youth in education.
 
-The honorary patronage over the event was taken by the Minister of National Education, the  Board  of  Education  in  Gdańsk  and  the  Mayor  of  Gdynia.  The  organizer  of  the conference was the Foundation for the Development of the Education System (FRSE) the National Agency of the Erasmus + Program.
+The honorary patronage over the event was taken by the Minister of National Education, the Board of Education in Gdańsk and the Mayor of Gdynia. The organizer of the conference was the Foundation for the Development of the Education System (FRSE) - the National Agency of the Erasmus + Program.
 
 #### 186. Congress for the Development of the Education System
 
-During the 1st Congress entitled 'Competences of the Future' (September 2018) - the importance  of  competences  acquired  in  formal,  non-formal  and  informal  learning processes was discussed for each employee and citizen, the importance of the impact of the quality of education on the level of competences of Poles and their competitiveness on the labour market was emphasized. It was discussed how to educate for the future. An important issue of the Congress was also the restoration of vocational (sectoral) education in Europe, especially in Poland. The issues of teachers' competences and the presence of new technologies at all stages of education were also discussed. The event was attended by many experts and decision-makers of local, regional and national level with a real impact on reforming the education system in Poland, as well as teachers and educators. As  a  result,  it  was  possible  to  deepen  the  dialogue  on  the  development  of  education between  theoreticians  and  practitioners.  There  were  also  representatives  of  the  young generation for whom education is the key to consciously shaping their own future.
+During the 1st Congress entitled “Competences of the Future” (September 2018) – the importance of competences acquired in formal, non-formal and informal learning processes was discussed for each employee and citizen, the importance of the impact of the quality of education on the level of competences of Poles and their competitiveness on the labour market was emphasized. It was discussed how to educate for the future. An important issue of the Congress was also the restoration of vocational (sectoral) education in Europe, especially in Poland. The issues of teachers’ competences and the presence of new technologies at all stages of education were also discussed. The event was attended by many experts and decision-makers of local, regional and national level with a real
 
 68
 
@@ -2367,19 +2396,21 @@ During the 1st Congress entitled 'Competences of the Future' (September 2018) - 
 
 [[START OF PAGE 70]]
 
-2nd Congress (September 2019) entitled 'Wisdom-Creativity-Innovation. Education for the  Future'  -  was  devoted  to  teaching  programs  and  methods  that  contribute  to  the acquisition of personal, social and civic competences by learners.
+impact on reforming the education system in Poland, as well as teachers and educators. As a result, it was possible to deepen the dialogue on the development of education between theoreticians and practitioners. There were also representatives of the young generation for whom education is the key to consciously shaping their own future.
+
+2nd Congress (September 2019) entitled “Wisdom-Creativity-Innovation. Education for the Future” – was devoted to teaching programs and methods that contribute to the acquisition of personal, social and civic competences by learners.
 
 3rd Congress (2nd October, 2020, online) - under the slogan 'Erasmus + FRSE. Education of the future + The future of education'. Sessions and thematic workshops focused on preparing for learning and teaching in the future through the participation in international educational programs.
 
 ### III.2. Activities undertaken and supported by the Polish Committee for UNESCO
 
-- Since 1956, a network of UNESCO Associated Schools (ASPNet) has been operating in Poland, which at present consists of 110 member schools. These institutions commit to spread the ideas set out in UNESCO conventions, and from 2015, to participate in the achievement of the objectives adopted by the Sustainable Development Agenda 2030, and in particular goal 4.
+187. Since 1956, a network of UNESCO Associated Schools (ASPNet) has been operating in Poland, which at present consists of 110 member schools. These institutions commit to spread the ideas set out in UNESCO conventions, and from 2015, to participate in the achievement of the objectives adopted by the Sustainable Development Agenda 2030, and in particular goal 4.
 
 Member schools implement projects in the field of sustainable development (as part of global education), education for peace and human rights in the field of dialogue between cultures and religions (intercultural education promoting knowledge and respect for  people  from  different  cultures,  national  minorities,  and  emigrants)  and  organise celebrations  of  days  and  anniversaries  established  by  UNESCO  and  UN,  such  as: International Day of Education, International Holocaust Remembrance Day, International Day of Women and Girls in Science, World Radio Day, International Mother Language Day, International Day of Women's Rights and World Peace, International Day for the Elimination of Racial Discrimination, World Telecommunication and Information Society Day, World Day for Cultural Diversity for Dialogue and Development, International Day of Innocent Children Victims of Aggression, World Refugee Day, International Day of the World's Indigenous Peoples, International Literacy Day.
 
 The coordinator  for  participation  of  Polish  schools  in  the  ASPNet  shall  be  the  Polish Committee for UNESCO (Polski Komitet do spraw UNESCO).
 
-- In addition, the Polish Committee for UNESCO, especially through the work of the Polish Information  for  All  Programme  (IFAP)  Committee,  conducts  activities  aimed  at promoting  Media  and  Information  Literacy  (MIL)  in  Poland  as  part  of  publishing activities, as well as organising and supporting conferences and congresses in Poland on media education.
+188. In addition, the Polish Committee for UNESCO, especially through the work of the Polish Information for All Programme (IFAP) Committee, conducts activities aimed at promoting Media and Information Literacy (MIL) in Poland as part of publishing activities, as well as organising and supporting conferences and congresses in Poland on media education.
 
 69
 
