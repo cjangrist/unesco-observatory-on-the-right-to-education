@@ -46,51 +46,46 @@ Droits fondamentaux
 
 4  Il  y  a  inégalité  dans  l'accès  à  une  prestation  lorsque  cet  accès  est  impossible  ou difficile aux personnes handicapées.
 
-5  Il  y a inégalité dans l'accès à la formation ou à la formation continue notamment lorsque:
+5  Il y a inégalité dans l'accès à la formation ou à la formation continue notamment lorsque:
 
-- l'utilisation de moyens auxiliaires spécifiques aux personnes handicapées ou une assistance personnelle qui leur est nécessaire ne leur sont pas accordées;
+a. l'utilisation de moyens auxiliaires spécifiques aux personnes handicapées ou une assistance personnelle qui leur est nécessaire ne leur sont pas accordées;
 
-- la durée et l'aménagement des prestations de formation offertes ainsi que les examens exigés ne sont pas adaptés aux besoins spécifiques des personnes handicapées.
+b. la durée et l'aménagement des prestations de formation offertes ainsi que les examens exigés ne sont pas adaptés aux besoins spécifiques des personnes handicapées.
 
 ### Art. 3 Champ d'application
 
 La présente loi s'applique:
 
-- aux  constructions  et  installations  accessibles  au  public  pour  lesquelles l'autorisation de construire ou de rénover des parties accessibles au public est accordée après l'entrée en vigueur de la présente loi;
+a. aux constructions et installations accessibles au public pour lesquelles l'autorisation de construire ou de rénover des parties accessibles au public est accordée après l'entrée en vigueur de la présente loi;
 
-- aux équipements (constructions, installations, systèmes de communication et systèmes  d'émission  de  billets)  et  aux  véhicules  accessibles  au  public  qui sont exploités par les transports publics et soumis à l'une des lois suivantes:
+b. aux équipements (constructions, installations, systèmes de communication et systèmes d'émission de billets) et aux véhicules accessibles au public qui sont exploités par les transports publics et soumis à l'une des lois suivantes:
 
-- loi fédérale du 20 décembre 1957 sur les chemins de fer 3 ,
+1. loi fédérale du 20 décembre 1957 sur les chemins de fer3,
 
-- loi fédérale du 20 mars 1998 sur les chemins de fer fédéraux 4 ,
+2. loi fédérale du 20 mars 1998 sur les chemins de fer fédéraux4,
 
-- loi  fédérale du 18 juin 1993 sur le transport de voyageurs 5 , exception faite des téléskis, des télésièges et des télécabines comprenant moins de neuf places par unité de transport,
+3. loi fédérale du 18 juin 1993 sur le transport de voyageurs5, exception faite des téléskis, des télésièges et des télécabines comprenant moins de neuf places par unité de transport,
 
-- loi fédérale du 29 mars 1950 sur les entreprises de trolleybus 6 ,
+4. loi fédérale du 29 mars 1950 sur les entreprises de trolleybus6,
 
-- loi fédérale du 3 octobre 1975 sur la navigation intérieure 7 ,
+5. loi fédérale du 3 octobre 1975 sur la navigation intérieure7,
 
-- loi fédérale du 21 décembre 1948 sur l'aviation 8 ;
+6. loi fédérale du 21 décembre 1948 sur l'aviation8;
 
-- aux habitations collectives de plus de huit logements pour lesquelles l'autorisation de construire ou de rénover est accordée après l'entrée en vigueur de la présente loi;
+c. aux habitations collectives de plus de huit logements pour lesquelles l'autorisation de construire ou de rénover est accordée après l'entrée en vigueur de la présente loi;
 
-- aux bâtiments de plus de 50 places de travail pour lesquels l'autorisation de construire ou de rénover est accordée après l'entrée en vigueur de la présente loi;
+d. aux bâtiments de plus de 50 places de travail pour lesquels l'autorisation de construire ou de rénover est accordée après l'entrée en vigueur de la présente loi;
 
-- aux prestations accessibles au public qui sont fournies par des particuliers, par les Chemins de fer fédéraux (CFF), par d'autres entreprises concessionnaires ou par des collectivités publiques;
+e. aux prestations accessibles au public qui sont fournies par des particuliers, par les Chemins de fer fédéraux (CFF), par d'autres entreprises concessionnaires ou par des collectivités publiques;
 
-- à la formation et à la formation continue;
+f. à la formation et à la formation continue;
 
-- 3 RS 742.101
-
-> 5 RS 744.10
-
-- 4 RS 742.31
-
-> 6 RS 744.21
-
-> 8 RS 748.0
-
-> 7 RS 747.201
+3 RS 742.101
+4 RS 742.31
+5 RS 744.10
+6 RS 744.21
+7 RS 747.201
+8 RS 748.0
 
 2
 
@@ -102,7 +97,7 @@ Egalité pour les handicapés - Loi
 
 151.3
 
-- aux rapports de travail régis par la loi fédérale du 24 mars 2000 sur le personnel de la Confédération 9 .
+g. aux rapports de travail régis par la loi fédérale du 24 mars 2000 sur le personnel de la Confédération9.
 
 ### Art. 4 Rapport avec le droit cantonal
 
@@ -124,9 +119,9 @@ Les particuliers qui fournissent des prestations au public ne doivent pas traite
 
 1  Toute  personne  qui  subit  une  inégalité  au  sens  de  l'art.  2,  al.  3,  peut  en  cas  de construction  ou  de  rénovation  d'une  construction  ou  d'une  installation  au  sens  de l'art. 3, let. a, c ou d:
 
-- demander à l'autorité compétente, dans la procédure d'autorisation de construire, qu'on s'abstienne de l'inégalité;
+a. demander à l'autorité compétente, dans la procédure d'autorisation de construire, qu'on s'abstienne de l'inégalité;
 
-- à l'issue de la procédure d'autorisation de construire, demander exceptionnellement aux instances de la juridiction civile l'élimination de l'inégalité, si l'absence des mesures légalement requises ne pouvait être constatée lors de la procédure d'autorisation de construire.
+b. à l'issue de la procédure d'autorisation de construire, demander exceptionnellement aux instances de la juridiction civile l'élimination de l'inégalité, si l'absence des mesures légalement requises ne pouvait être constatée lors de la procédure d'autorisation de construire.
 
 2  Toute personne qui subit une inégalité au sens de l'art. 2, al. 3, peut, dans le cas d'un équipement ou d'un véhicule des transports publics au sens de l'art. 3, let. b, demander à l'autorité compétente que les CFF ou une autre entreprise concessionnaire élimine l'inégalité ou s'en abstienne.
 
@@ -158,35 +153,30 @@ Droits fondamentaux
 
 3  Ce droit comprend:
 
-- la qualité pour agir devant les instances de la juridiction civile afin de faire constater une discrimination au sens de l'art. 6;
+a. la qualité pour agir devant les instances de la juridiction civile afin de faire constater une discrimination au sens de l'art. 6;
 
-- la qualité pour recourir contre une autorisation de construire ou une autorisation de rénover afin de faire valoir le droit prévu à l'art. 7;
+b. la qualité pour recourir contre une autorisation de construire ou une autorisation de rénover afin de faire valoir le droit prévu à l'art. 7;
 
-- la  qualité  pour  recourir  contre  les  décisions  d'approbation  des  plans  et d'admission ou de contrôle des véhicules prises par les autorités fédérales en vertu:
+c. la qualité pour recourir contre les décisions d'approbation des plans et d'admission ou de contrôle des véhicules prises par les autorités fédérales en vertu:
 
-- de l'art. 13, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière 10 ;
+1. de l'art. 13, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière10;
 
-- des art. 18 et 18 w de la loi fédérale du 20 décembre 1957 sur les chemins de fer 11 ;
+2. des art. 18 et 18w de la loi fédérale du 20 décembre 1957 sur les chemins de fer11;
 
-- des art. 11 et 13 de la loi fédérale du 29 mars 1950 sur les entreprises de trolleybus 12 ;
+3. des art. 11 et 13 de la loi fédérale du 29 mars 1950 sur les entreprises de trolleybus12;
 
-- de l'art. 8 de la loi fédérale du 3 octobre 1975 sur la navigation intérieure 13 ;
+4. de l'art. 8 de la loi fédérale du 3 octobre 1975 sur la navigation intérieure13;
 
-- de l'art. 37 de la loi fédérale du 21 décembre 1948 sur l'aviation 14 ;
+5. de l'art. 37 de la loi fédérale du 21 décembre 1948 sur l'aviation14;
 
-- de  l'art.  27  de  l'ordonnance  du  10  mars  1986  sur  les  installations  de transport à câbles 15 ;
+6. de l'art. 27 de l'ordonnance du 10 mars 1986 sur les installations de transport à câbles15;
 
-> 10 RS 741.01
-
-> 12 RS 744.21
-
-> 11 RS 742.101
-
-> 13 RS 747.201
-
-> 15 RS 743.12
-
-> 14 RS 748.0
+10 RS 741.01
+11 RS 742.101
+12 RS 744.21
+13 RS 747.201
+14 RS 748.0
+15 RS 743.12
 
 4
 
@@ -198,25 +188,25 @@ Egalité pour les handicapés - Loi
 
 151.3
 
-- la qualité pour recourir contre les décisions des autorités fédérales accordant une concession en vertu:
+d. la qualité pour recourir contre les décisions des autorités fédérales accordant une concession en vertu:
 
-- des art. 28 et 30 de la loi fédérale du 21 décembre 1948 sur l'aviation,
+1. des art. 28 et 30 de la loi fédérale du 21 décembre 1948 sur l'aviation,
 
-- de l'art. 14 de la loi fédérale du 30 avril 1997 sur les télécommunications 16 ,
+2. de l'art. 14 de la loi fédérale du 30 avril 1997 sur les télécommunications16,
 
-- de  l'art.  10  de  la  loi  fédérale  du  21  juin  1991  sur  la  radio  et  la  télévision 17 .
+3. de l'art. 10 de la loi fédérale du 21 juin 1991 sur la radio et la télévision17.
 
-- 4  Si une décision au sens de l'al. 3, let. c et d, peut faire l'objet d'un recours par des organisations d'aide aux personnes handicapées, l'autorité la leur communique par notification écrite ou par publication dans la Feuille fédérale ou dans l'organe officiel du canton. L'organisation qui n'a pas recouru ne peut intervenir comme partie dans la suite de la procédure que si la décision est modifiée au détriment des personnes handicapées.
+4  Si une décision au sens de l'al. 3, let. c et d, peut faire l'objet d'un recours par des organisations d'aide aux personnes handicapées, l'autorité la leur communique par notification écrite ou par publication dans la Feuille fédérale ou dans l'organe officiel du canton. L'organisation qui n'a pas recouru ne peut intervenir comme partie dans la suite de la procédure que si la décision est modifiée au détriment des personnes handicapées.
 
-- 5  Si une procédure d'opposition précède la décision, la demande doit être communiquée conformément à l'al. 4. L'organisation n'a qualité pour recourir que si elle est intervenue dans la procédure d'opposition à titre de partie.
+5  Si une procédure d'opposition précède la décision, la demande doit être communiquée conformément à l'al. 4. L'organisation n'a qualité pour recourir que si elle est intervenue dans la procédure d'opposition à titre de partie.
 
 ### Art. 10 Gratuité de la procédure
 
-- 1  Les procédures prévues aux art. 7 et 8 sont gratuites.
+1  Les procédures prévues aux art. 7 et 8 sont gratuites.
 
-- 2  Des frais de procédure peuvent être mis à la charge de la partie qui agit de manière téméraire ou témoigne de légèreté.
+2  Des frais de procédure peuvent être mis à la charge de la partie qui agit de manière téméraire ou témoigne de légèreté.
 
-- 3  Pour la procédure devant le Tribunal fédéral, les frais judiciaires sont régis par la loi du 17 juin 2005 sur le Tribunal fédéral 18 . 19
+3  Pour la procédure devant le Tribunal fédéral, les frais judiciaires sont régis par la loi du 17 juin 2005 sur le Tribunal fédéral18.19
 
 ## Section 3 Proportionnalité
 
@@ -224,21 +214,18 @@ Egalité pour les handicapés - Loi
 
 1  Le tribunal ou l'autorité administrative n'ordonnent pas l'élimination de l'inégalité lorsqu'il y a disproportion entre l'avantage qui serait procuré aux personnes handicapées et notamment:
 
-- la dépense qui en résulterait;
+a. la dépense qui en résulterait;
 
-- l'atteinte qui serait portée à l'environnement, à la nature ou au patrimoine;
+b. l'atteinte qui serait portée à l'environnement, à la nature ou au patrimoine;
 
-- l'atteinte qui serait portée à la sécurité du trafic ou de l'exploitation.
+c. l'atteinte qui serait portée à la sécurité du trafic ou de l'exploitation.
 
 2  Le tribunal fixe l'indemnité prévue à l'art. 8, al. 3, en tenant compte des circonstances, de la gravité de la discrimination et de la valeur de la prestation en cause. L'indemnité est de 5000 francs au maximum.
 
-> 16 RS 784.10
-
-> 18 RS 173.110
-
-> 17 RS 784.40
-
-> 19 Nouvelle teneur selon le ch. 5 de l'annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, en vigueur depuis le 1 er  janv. 2007 (RS 173.32 ).
+16 RS 784.10
+17 RS 784.40
+18 RS 173.110
+19 Nouvelle teneur selon le ch. 5 de l'annexe à la loi du 17 juin 2005 sur le Tribunal administratif fédéral, en vigueur depuis le 1er janv. 2007 (RS 173.32).
 
 5
 
@@ -274,7 +261,7 @@ Droits fondamentaux
 
 3  En complément des prestations de l'assurance invalidité, la Confédération peut:
 
-- soutenir les mesures prises par les cantons pour encourager l'utilisation du langage des signes et du langage articulé dans la formation scolaire et professionnelle des handicapés de la parole ou de l'ouïe et pour encourager les connaissances linguistiques des handicapés de la vue;
+a. soutenir les mesures prises par les cantons pour encourager l'utilisation du langage des signes et du langage articulé dans la formation scolaire et professionnelle des handicapés de la parole ou de l'ouïe et pour encourager les connaissances linguistiques des handicapés de la vue;
 
 20 RS 172.220.1
 
@@ -288,7 +275,7 @@ Egalité pour les handicapés - Loi
 
 151.3
 
-- soutenir les organisations et les institutions à but non lucratif d'importance nationale qui s'occupent de problèmes de langage et de compréhension rencontrés par les handicapés de la parole, de l'ouïe ou de la vue.
+b. soutenir les organisations et les institutions à but non lucratif d'importance nationale qui s'occupent de problèmes de langage et de compréhension rencontrés par les handicapés de la parole, de l'ouïe ou de la vue.
 
 4  La Confédération peut soutenir les mesures prises pour rendre les émissions télévisées accessibles aux handicapés de l'ouïe ou de la vue.
 
@@ -296,19 +283,19 @@ Egalité pour les handicapés - Loi
 
 1  Afin  d'assurer  aux  personnes  handicapées  des  transports  publics  adaptés  à  leurs besoins, le Conseil fédéral édicte, à l'intention des CFF et des autres entreprises au bénéfice d'une concession fédérale, des prescriptions sur l'aménagement:
 
-- des gares, des haltes et des arrêts ainsi que des aéroports;
+a. des gares, des haltes et des arrêts ainsi que des aéroports;
 
-- des systèmes de communication et des systèmes d'émission de billets;
+b. des systèmes de communication et des systèmes d'émission de billets;
 
-- des véhicules.
+c. des véhicules.
 
 2  Le Conseil fédéral édicte des prescriptions sur les mesures à prendre en faveur des personnes handicapées dans les constructions et installations que la Confédération fait édifier ou subventionne.
 
-- 3  Les  prescriptions  visées  aux  al.  1  et  2  sont  adaptées  régulièrement  à  l'état  de  la technique. Le Conseil fédéral peut déclarer obligatoires des normes techniques ou d'autres règles établies par des organisations privées.
+3  Les prescriptions visées aux al. 1 et 2 sont adaptées régulièrement à l'état de la technique. Le Conseil fédéral peut déclarer obligatoires des normes techniques ou d'autres règles établies par des organisations privées.
 
-- 4  Le Conseil fédéral consulte les milieux concernés avant d'édicter les prescriptions visées aux al. 1 et 2.
+4  Le Conseil fédéral consulte les milieux concernés avant d'édicter les prescriptions visées aux al. 1 et 2.
 
-- 5  Des prescriptions différentes peuvent être édictées selon que des constructions, des installations, des systèmes de communication et d'émission des billets ou des véhicules sont existants ou nouveaux.
+5  Des prescriptions différentes peuvent être édictées selon que des constructions, des installations, des systèmes de communication et d'émission des billets ou des véhicules sont existants ou nouveaux.
 
 ### Art. 16 Programmes en faveur de l'intégration des personnes handicapées
 
@@ -316,17 +303,17 @@ Egalité pour les handicapés - Loi
 
 2  Ces programmes portent notamment sur:
 
-- la formation;
+a. la formation;
 
-- l'activité professionnelle;
+b. l'activité professionnelle;
 
-- le logement;
+c. le logement;
 
-- le transport de personnes;
+d. le transport de personnes;
 
-- la culture;
+e. la culture;
 
-- le sport.
+f. le sport.
 
 3  La Confédération peut participer aux programmes mis sur pied par une organisation  d'aide  aux  personnes  handicapées  œuvrant  au  niveau  national  ou  au  niveau d'une région linguistique, notamment en lui accordant des aides financières.
 
@@ -356,13 +343,13 @@ Le Conseil fédéral peut mettre en œuvre ou encourager des projets pilotes de 
 
 Le Conseil fédéral institue un Bureau de l'égalité pour les personnes handicapées. Celui-ci est chargé de promouvoir notamment:
 
-- l'information  sur  les  bases  légales  et  les  directives  visant  à  prévenir,  à réduire ou à éliminer les inégalités frappant les personnes handicapées;
+a. l'information sur les bases légales et les directives visant à prévenir, à réduire ou à éliminer les inégalités frappant les personnes handicapées;
 
-- les programmes et les campagnes au sens des art. 16 et 18;
+b. les programmes et les campagnes au sens des art. 16 et 18;
 
-- l'analyse et la recherche dans le domaine de l'égalité et de l'intégration des personnes handicapées;
+c. l'analyse et la recherche dans le domaine de l'égalité et de l'intégration des personnes handicapées;
 
-- la coordination de l'activité des différentes institutions publiques et privées actives dans ce domaine.
+d. la coordination de l'activité des différentes institutions publiques et privées actives dans ce domaine.
 
 ## Section 5 Dispositions spéciales relatives aux cantons
 
@@ -412,11 +399,11 @@ Le droit en vigueur est modifié conformément à l'annexe.
 
 2  Le Conseil fédéral fixe la date de l'entrée en vigueur.
 
-Date de l'entrée en vigueur 21 : 1 er  janvier 2004
+Date de l'entrée en vigueur21: 1er janvier 2004
 
-Annexe ch. 2 et 3: 1 er  janvier 2005
+Annexe ch. 2 et 3: 1er janvier 2005
 
-> 21 ACF du 25 juin 2003 (RO 2003 4496).
+21 ACF du 25 juin 2003 (RO 2003 4496).
 
 9
 
@@ -428,36 +415,39 @@ Annexe ch. 2 et 3: 1 er  janvier 2005
 
 Droits fondamentaux
 
+## Annexe (art. 21)
+
 ### Modification du droit en vigueur
 
 Les lois suivantes sont modifiées comme suit:
 
-#### 1. Loi du 9 octobre 1992 sur la statistique fédérale 22
+#### 1. Loi du 9 octobre 1992 sur la statistique fédérale22
 
 ##### Art. 3, al. 2, let. d
 ...
 
-#### 2. Loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct 23
+#### 2. Loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct23
 
-##### Art. 33, al. 1, let. h et h bis
+##### Art. 33, al. 1, let. h et hbis
 ...
 
-#### 3. Loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts directs des cantons et des communes 24
+#### 3. Loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts directs des cantons et des communes24
 
-##### Art. 9, al. 2, let. h et h bis
+##### Art. 9, al. 2, let. h et hbis
 ...
 
-#### 4. Loi fédérale du 19 décembre 1958 sur la circulation routière 25
+#### 4. Loi fédérale du 19 décembre 1958 sur la circulation routière25
 
-##### Art. 3, al. 4, 1 re  phrase
+##### Art. 3, al. 4, 1re phrase
 
 ...
-##### Art. 8, al. 2, 2 e  phrase
+##### Art. 8, al. 2, 2e phrase
 ...
 
-22 RS 431.01 . La modification mentionnée ci-dessous est insérée dans ladite loi. 23 RS 642.11 . La modification mentionnée ci-dessous est insérée dans ladite loi. 24 RS 642.14 . La modification mentionnée ci-dessous est insérée dans ladite loi. 25 RS 741.01 . Les modifications mentionnées ci-dessous sont insérées dans ladite loi.
-
-## Annexe (art. 21)
+22 RS 431.01. La modification mentionnée ci-dessous est insérée dans ladite loi.
+23 RS 642.11. La modification mentionnée ci-dessous est insérée dans ladite loi.
+24 RS 642.14. La modification mentionnée ci-dessous est insérée dans ladite loi.
+25 RS 741.01. Les modifications mentionnées ci-dessous sont insérées dans ladite loi.
 
 10
 
@@ -469,15 +459,15 @@ Egalité pour les handicapés - Loi
 
 151.3
 
-#### 5. Loi fédérale du 30 avril 1997 sur les télécommunications 26
+#### 5. Loi fédérale du 30 avril 1997 sur les télécommunications26
 
-##### Art. 16, al. 1, let. e, et al. 1 bis
+##### Art. 16, al. 1, let. e, et al. 1bis
 
-- abrogée
+e. abrogée
 
 ...
 
-> 26 RS 784.10 . La modification mentionnée ci-dessous est insérée dans ladite loi.
+26 RS 784.10. La modification mentionnée ci-dessous est insérée dans ladite loi.
 
 11
 
