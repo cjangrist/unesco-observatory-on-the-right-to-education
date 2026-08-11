@@ -14,27 +14,27 @@ The Minister has, under Section 4 of the Seychelles Qualifications Authority Act
 
 ### ARRANGEMENT OF REGULATIONS
 
-- Definitions
+1. Definitions
 
-- Establishment of the NQF
+2. Establishment of the NQF
 
-- Structure of the NQF
+3. Structure of the NQF
 
-- Qualification types
+4. Qualification types
 
-- Unit standard types
+5. Unit standard types
 
-- Structure of qualifications
+6. Structure of qualifications
 
-- Standards setting
+7. Standards setting
 
-- Quality assurance
+8. Quality assurance
 
-- Recognition of foreign qualifications
+9. Recognition of foreign qualifications
 
-- Information management system
+10. Information management system
 
-- Generic regulations
+11. Generic regulations
 
 ### Definitions
 
@@ -90,55 +90,55 @@ Validation: The assessment of a programme of education or training with regards 
 
 ### Establishment of the NQF
 
-- A National Qualifications Framework is hereby established and it shall consist of the components specified in regulations two (2) to forty-three (43).
+1. A National Qualifications Framework is hereby established and it shall consist of the components specified in regulations two (2) to forty-three (43).
 
 ### Structure of the NQF
 
-- The National Qualifications Framework shall consist of ten-levels, which shall be entitled Levels one (1) to ten (10).
+2. The National Qualifications Framework shall consist of ten-levels, which shall be entitled Levels one (1) to ten (10).
 
-- Each level shall be described by level descriptors in terms of:
+3. Each level shall be described by level descriptors in terms of:
 
-- Reasoning and problem solving,
+a. Reasoning and problem solving,
 
-- Autonomy and responsibility,
+b. Autonomy and responsibility,
 
-- Knowledge,
+c. Knowledge,
 
-- Degree of complexity of tasks.
+d. Degree of complexity of tasks.
 
-- The Seychelles Qualifications Authority shall allocate a unique field description to each organizing field and shall divide each organizing field into sub-fields with a unique sub-field description.
+4. The Seychelles Qualifications Authority shall allocate a unique field description to each organizing field and shall divide each organizing field into sub-fields with a unique sub-field description.
 
 ### Qualifications types
 
-- There shall be eleven (11) qualifications types on the National Qualifications Framework:
+5. There shall be eleven (11) qualifications types on the National Qualifications Framework:
 
-- Primary Certificate
+a. Primary Certificate
 
-- Secondary Certificate
+b. Secondary Certificate
 
-- High School Certificate
+c. High School Certificate
 
-- National Certificate
+d. National Certificate
 
-- National Advanced Certificate
+e. National Advanced Certificate
 
-- National Diploma
+f. National Diploma
 
-- National Advanced Diploma
+g. National Advanced Diploma
 
-- Bachelors Degree
+h. Bachelors Degree
 
-- Post-graduate Certificate
+i. Post-graduate Certificate
 
-- Master's Degree
+j. Master's Degree
 
-- Doctorate Degree
+k. Doctorate Degree
 
-- The term 'National' when used in conjunction with the name of a qualification is  a  protected  NQF  term  and  may  only  be  used  in  naming  a  qualification developed  in  and  for  a  context  that  meets  the  criteria  specified  by  the Seychelles Qualifications Authority.
+6. The term 'National' when used in conjunction with the name of a qualification is a protected NQF term and may only be used in naming a qualification developed in and for a context that meets the criteria specified by the Seychelles Qualifications Authority.
 
 ### Unit standard types
 
-- There shall be three (3) unit standard types on the National Qualifications Framework, namely:
+7. There shall be three (3) unit standard types on the National Qualifications Framework, namely:
 
 [[END OF PAGE 3]]
 
@@ -146,41 +146,41 @@ Validation: The assessment of a programme of education or training with regards 
 
 4
 
-- Specific unit standards that refer to specific knowledge, skills, attitudes and values which forms the grounding or basis needed to undertake the education, training or further learning required in the obtaining of a qualification.
+a. Specific unit standards that refer to specific knowledge, skills, attitudes and values which forms the grounding or basis needed to undertake the education, training or further learning required in the obtaining of a qualification.
 
-- Essential unit standards that refer to generic knowledge, skills, attitudes and values deemed necessary for all qualifications.  These are:
+b. Essential unit standards that refer to generic knowledge, skills, attitudes and values deemed necessary for all qualifications. These are:
 
-- Communication
+i. Communication
 
-- Information and Communication Technology
+ii. Information and Communication Technology
 
-- Life Skills
+iii. Life Skills
 
-- Numeracy
+iv. Numeracy
 
-- Elective unit standards that refer to additional knowledge, skills, attitudes and values from which a choice may be made to ensure that the purpose of a qualification is achieved.
+c. Elective unit standards that refer to additional knowledge, skills, attitudes and values from which a choice may be made to ensure that the purpose of a qualification is achieved.
 
 ### Structure of qualifications
 
-- Qualifications on the National Qualifications Framework shall be structured in two ways:
+8. Qualifications on the National Qualifications Framework shall be structured in two ways:
 
-- Based on unit standards
+a. Based on unit standards
 
-- Not based on unit standards
+b. Not based on unit standards
 
-- Qualifications based on unit standards shall adhere to the following rules of combination:
+9. Qualifications based on unit standards shall adhere to the following rules of combination:
 
-- At least sixty (60) percent of the unit standards shall be at or above the level at which the qualification is registered
+a. At least sixty (60) percent of the unit standards shall be at or above the level at which the qualification is registered
 
-- At least forty (40) percent of the unit standards shall be specific unit standards
+b. At least forty (40) percent of the unit standards shall be specific unit standards
 
-- All four (4) essential unit standards shall be included.
+c. All four (4) essential unit standards shall be included.
 
-- A notional hour shall refer to direct contact with teachers and trainers and non-contact time which is time spent on independent study, working on assignments and on other forms of assessment.
+10. A notional hour shall refer to direct contact with teachers and trainers and non-contact time which is time spent on independent study, working on assignments and on other forms of assessment.
 
-- A credit shall be equal to ten (10) notional hours.
+11. A credit shall be equal to ten (10) notional hours.
 
-- The minimum number of credits for a qualification shall be one hundred and twenty (120).
+12. The minimum number of credits for a qualification shall be one hundred and twenty (120).
 
 [[END OF PAGE 4]]
 
@@ -190,57 +190,57 @@ Validation: The assessment of a programme of education or training with regards 
 
 ### Standards setting
 
-- The Seychelles Qualifications Authority shall take the overall responsibility for standards setting with the participation of industry, training institutions, professional bodies and other relevant stakeholders.
+13. The Seychelles Qualifications Authority shall take the overall responsibility for standards setting with the participation of industry, training institutions, professional bodies and other relevant stakeholders.
 
-- The Seychelles Qualifications Authority shall develop and implement policyguidelines for standards setting.
+14. The Seychelles Qualifications Authority shall develop and implement policy-guidelines for standards setting.
 
-- The Seychelles Qualifications Authority shall set criteria for the registration of unit standards and qualifications on the National Qualifications Framework.
+15. The Seychelles Qualifications Authority shall set criteria for the registration of unit standards and qualifications on the National Qualifications Framework.
 
-- Qualifications offered five (5) years prior to the establishment of the National Qualifications Framework shall be evaluated by the Seychelles Qualifications Authority following which a recommendation for the registration of such qualifications on the National Qualifications Framework shall be made.
+16. Qualifications offered five (5) years prior to the establishment of the National Qualifications Framework shall be evaluated by the Seychelles Qualifications Authority following which a recommendation for the registration of such qualifications on the National Qualifications Framework shall be made.
 
-- The following information shall be required for qualifications to be registered on the framework:
+17. The following information shall be required for qualifications to be registered on the framework:
 
-- Title
+a. Title
 
-- Qualification type
+b. Qualification type
 
-- Qualification number
+c. Qualification number
 
-- Level number
+d. Level number
 
-- Number of credits
+e. Number of credits
 
-- Field and sub-field
+f. Field and sub-field
 
-- Registration date
+g. Registration date
 
-- Review date
+h. Review date
 
-- Purpose
+i. Purpose
 
-- Unit standards (for qualifications based on unit standards) or specific outcomes (for qualifications not based on unit standards)
+j. Unit standards (for qualifications based on unit standards) or specific outcomes (for qualifications not based on unit standards)
 
-- Integrated assessment
+k. Integrated assessment
 
-- International comparability
+l. International comparability
 
-- The following information shall be required for standards to be registered on the framework:
+18. The following information shall be required for standards to be registered on the framework:
 
-- Title
+a. Title
 
-- Unit standard type
+b. Unit standard type
 
-- Unit standard number
+c. Unit standard number
 
-- Level number
+d. Level number
 
-- Number of credits
+e. Number of credits
 
-- Field and sub-field
+f. Field and sub-field
 
-- Registration date
+g. Registration date
 
-- Review date
+h. Review date
 
 [[END OF PAGE 5]]
 
@@ -248,35 +248,35 @@ Validation: The assessment of a programme of education or training with regards 
 
 6
 
-- Purpose
+i. Purpose
 
-- Elements
+j. Elements
 
-- Performance criteria
+k. Performance criteria
 
-- Range statement
+l. Range statement
 
-- All unit standards and qualifications shall be reviewed within a period not exceeding 5 years from date of registration on the National Qualifications Framework.
+19. All unit standards and qualifications shall be reviewed within a period not exceeding 5 years from date of registration on the National Qualifications Framework.
 
 ### Quality assurance
 
-- The Seychelles Qualifications Authority shall take the overall responsibility for quality assurance with the participation of industry, training institutions, professional bodies and other relevant stakeholders.
+20. The Seychelles Qualifications Authority shall take the overall responsibility for quality assurance with the participation of industry, training institutions, professional bodies and other relevant stakeholders.
 
-- The Seychelles Qualifications Authority shall develop and implement policyguidelines for quality assurance.
+21. The Seychelles Qualifications Authority shall develop and implement policy-guidelines for quality assurance.
 
-- The Seychelles Qualifications Authority shall set criteria for the accreditation of education and training providers for specific unit standards and/or qualifications registered on the National Qualifications Framework.
+22. The Seychelles Qualifications Authority shall set criteria for the accreditation of education and training providers for specific unit standards and/or qualifications registered on the National Qualifications Framework.
 
-- A certificate of accreditation shall be awarded to an education and training provider for a period of five (5) years if the provider meets all accreditation criteria during that period.
+23. A certificate of accreditation shall be awarded to an education and training provider for a period of five (5) years if the provider meets all accreditation criteria during that period.
 
-- A certificate of provisional accreditation status shall be awarded to an education and training provider for an agreed period of time, not exceeding two (2) years, if the provider does not meet all accreditation criteria.
+24. A certificate of provisional accreditation status shall be awarded to an education and training provider for an agreed period of time, not exceeding two (2) years, if the provider does not meet all accreditation criteria.
 
-- The Seychelles Qualifications Authority shall monitor the compliance with accreditation criteria and policies of education and training providers
+25. The Seychelles Qualifications Authority shall monitor the compliance with accreditation criteria and policies of education and training providers
 
-- The Seychelles Qualifications Authority shall set criteria for the validation of programmes of education and training based on unit standards and/or qualifications registered on the National Qualifications Framework.
+26. The Seychelles Qualifications Authority shall set criteria for the validation of programmes of education and training based on unit standards and/or qualifications registered on the National Qualifications Framework.
 
-- The Seychelles Qualifications Authority shall take overall responsibility for the validation of programmes of education and training with the participation of industry, training institutions, professional bodies and other relevant stakeholders.
+27. The Seychelles Qualifications Authority shall take overall responsibility for the validation of programmes of education and training with the participation of industry, training institutions, professional bodies and other relevant stakeholders.
 
-- The Seychelles Qualifications Authority may delegate its authority to the Department of Education and/or to individual public or private providers to award national qualifications.
+28. The Seychelles Qualifications Authority may delegate its authority to the Department of Education and/or to individual public or private providers to award national qualifications.
 
 [[END OF PAGE 6]]
 
@@ -284,33 +284,33 @@ Validation: The assessment of a programme of education or training with regards 
 
 7
 
-- The logo of the Seychelles Qualifications Authority shall be used on all national certificates awarded by accredited education and training providers according to set criteria.
+29. The logo of the Seychelles Qualifications Authority shall be used on all national certificates awarded by accredited education and training providers according to set criteria.
 
 ### Recognition of foreign qualifications
 
-- The Seychelles Qualifications Authority shall take the overall responsibility for the recognition of foreign qualifications.
+30. The Seychelles Qualifications Authority shall take the overall responsibility for the recognition of foreign qualifications.
 
-- The Seychelles Qualifications Authority shall develop and implement policyguidelines for the recognition of foreign qualifications.
+31. The Seychelles Qualifications Authority shall develop and implement policy-guidelines for the recognition of foreign qualifications.
 
-- The Seychelles Qualifications Authority shall inform persons or agencies outside of Seychelles of the qualifications offered in the country.
+32. The Seychelles Qualifications Authority shall inform persons or agencies outside of Seychelles of the qualifications offered in the country.
 
-- Application for the recognition of a foreign qualification shall be made in a form and manner as prescribed by the Seychelles Qualifications Authority.
+33. Application for the recognition of a foreign qualification shall be made in a form and manner as prescribed by the Seychelles Qualifications Authority.
 
-- The decision of the Seychelles Qualifications Authority to recognise a foreign qualification shall be legally binding.
+34. The decision of the Seychelles Qualifications Authority to recognise a foreign qualification shall be legally binding.
 
 ### Recognition of prior learning
 
-- The Seychelles Qualifications Authority shall take the overall responsibility for the recognition of prior learning in collaboration with relevant partners, if the credits awarded exceed twenty-five (25) percent of the total credits of the qualification.
+35. The Seychelles Qualifications Authority shall take the overall responsibility for the recognition of prior learning in collaboration with relevant partners, if the credits awarded exceed twenty-five (25) percent of the total credits of the qualification.
 
-- In the case of qualifications not based on unit standards, the maximum number of credits awarded through the recognition of prior learning shall not exceed fifty (50) percent of the total credits of the qualification.
+36. In the case of qualifications not based on unit standards, the maximum number of credits awarded through the recognition of prior learning shall not exceed fifty (50) percent of the total credits of the qualification.
 
-- The Seychelles Qualifications Authority shall develop and implement policyguidelines for the recognition of prior learning.
+37. The Seychelles Qualifications Authority shall develop and implement policy-guidelines for the recognition of prior learning.
 
 ### Information management system
 
-- The Seychelles Qualifications Authority shall undertake to establish a national information management system to assist in the implementation and maintenance of the National Qualifications Framework in collaboration with relevant partners, and by participating in other national initiatives.
+38. The Seychelles Qualifications Authority shall undertake to establish a national information management system to assist in the implementation and maintenance of the National Qualifications Framework in collaboration with relevant partners, and by participating in other national initiatives.
 
-- The database shall contain information pertaining to:
+39. The database shall contain information pertaining to:
 
 [[END OF PAGE 7]]
 
@@ -318,42 +318,42 @@ Validation: The assessment of a programme of education or training with regards 
 
 8
 
-- Registered unit standards
+a. Registered unit standards
 
-- Registered qualifications
+b. Registered qualifications
 
-- Accredited education and training providers
+c. Accredited education and training providers
 
-- Validated learning programmes
+d. Validated learning programmes
 
-- Recognised foreign qualifications
+e. Recognised foreign qualifications
 
-- Learner records
+f. Learner records
 
-- Other particulars as necessary
+g. Other particulars as necessary
 
 ### Generic regulations
 
-- The Seychelles Qualifications Authority shall reserve the right to charge fees for the following services:
+40. The Seychelles Qualifications Authority shall reserve the right to charge fees for the following services:
 
-- Standard setting if such activities exceed normal operational costs
+a. Standard setting if such activities exceed normal operational costs
 
-- Quality assurance including accreditation and validation
+b. Quality assurance including accreditation and validation
 
-- Recognition of foreign qualifications
+c. Recognition of foreign qualifications
 
-- Recognition of prior learning if credits awarded exceed twenty-five (25) percent of the total credits of a qualification
+d. Recognition of prior learning if credits awarded exceed twenty-five (25) percent of the total credits of a qualification
 
-- Confirmation of achievements
+e. Confirmation of achievements
 
-- Authentication of certificates
+f. Authentication of certificates
 
-- Any other services
+g. Any other services
 
-- A person or organisation wishing to appeal against a decision of the Seychelles Qualifications Authority shall make a written submission to the Board within three calendar months of such decision being made.
+41. A person or organisation wishing to appeal against a decision of the Seychelles Qualifications Authority shall make a written submission to the Board within three calendar months of such decision being made.
 
-- The Board of the Seychelles Qualifications Authority may delegate any of its powers to a committee but shall not be divested of any power so delegated and may at any time withdraw the delegation.
+42. The Board of the Seychelles Qualifications Authority may delegate any of its powers to a committee but shall not be divested of any power so delegated and may at any time withdraw the delegation.
 
-- Policy-guidelines of the Seychelles Qualifications Authority shall be developed and reviewed under the aegis of person(s) nominated by Executive Director of the Seychelles Qualifications Authority and endorsed by the Board.
+43. Policy-guidelines of the Seychelles Qualifications Authority shall be developed and reviewed under the aegis of person(s) nominated by Executive Director of the Seychelles Qualifications Authority and endorsed by the Board.
 
 [[END OF PAGE 8]]
