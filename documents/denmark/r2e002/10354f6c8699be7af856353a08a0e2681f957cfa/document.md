@@ -1,8 +1,11 @@
 [[START OF PAGE 1]]
 
+DANISH MINISTRY
+OF EDUCATION
+
 # Improving the Public School
 
-- overview of reform of standards in the Danish public school (primary and lower secondary education)
+– overview of reform of standards in the Danish public school (primary and lower secondary education)
 
 [[END OF PAGE 1]]
 
@@ -10,7 +13,7 @@
 
 # Improving the Public School
 
-- overview of reform of standards in the Danish public school (primary and lower secondary education)
+– overview of reform of standards in the Danish public school (primary and lower secondary education)
 
 Publisher and copyright:
 
@@ -24,7 +27,14 @@ Editor: The Danish Ministry of Education
 
 Producers: Jens P. Kragelund and Thomas Bech Hansen, The Danish Ministry of Education
 
-Language: English URL: www.uvm.dk/publicschool ISBN (Electronic version): 978-87-603 ISBN (Printed version): 978-87-603Version: 1.0
+Language: English
+URL: www.uvm.dk/publicschool
+ISBN (Electronic version): 978-87-603
+ISBN (Printed version): 978-87-603-
+Version: 1.0
+
+DANISH MINISTRY
+OF EDUCATION
 
 2 · Improving the Public School - overview of reform of standards in the Danish public school (primary and lower secondary education)
 
@@ -48,7 +58,8 @@ The Danish Folkeskole is an open and inclusive school that creates whole persons
 
 The Danish Folkeskole is a place where all children, regardless of social background, must reach their academic potential, while at the same time enjoying their school day. A strong Folkeskole is a crucial part of our welfare society. And it is important that we both uphold and improve it.
 
-Christine Antorini Minister of Education
+Christine Antorini
+Minister of Education
 
 > 1)  Common Danish term for the state-funded primary and lower secondary school
 
@@ -60,9 +71,23 @@ Improving the Public School - overview of reform of standards in the Danish publ
 
 ## Content
 
-5
-
-7
+Facts about the Danish Folkeskole 5
+1. A longer and more varied school day 7
+2. Assisted learning 8
+3. More PE and physical exercise and activity 9
+4. Homework assistance 10
+5. Better teaching 11
+6. More lessons in Danish and maths 12
+7. Strengthening of foreign languages 13
+8. New subjects: Crafts and design and Nutrition knowledge 14
+9. The open school 15
+10. Improved transition to higher education 16
+11. Few and clear objectives for the Folkeskole 18
+12. Competency development 19
+13. Better learning environment and quietness in class 20
+14. Learning consultants 21
+15. Stronger parental influence and increased pupil participation 22
+16. Simplification of rules 23
 
 4 · Improving the Public School - overview of reform of standards in the Danish public school (primary and lower secondary education)
 
@@ -96,7 +121,58 @@ Improving the Public School - overview of reform of standards in the Danish publ
 
 ### The position of the Folkeskole (Basic School) in the Danish education system:
 
-### Reform of the Danish Folkeskole - get an overview
+Level
+20
+19
+18
+PhD
+17
+16
+Master's programmes (candidatus)
+15
+14
+13
+Bachelor programmes
+Professional bachelor programmes
+Academy profession programmes
+13
+12
+11
+10
+Stx
+Hhx
+Htx
+Hf
+Adult upper secondary level course
+Vocational education and training including EUX
+Vocational education and training
+maritime education
+Egu
+Upper secondary education
+Vocationally oriented education and training etc.
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Basic School
+ISCED97
+6
+5
+4
+3
+2
+1
+0
+Special needs education
+
+### Reform of the Danish Folkeskole – get an overview
 
 In June 2013 a broad political agreement was signed with a view to giving the Folkeskole an academic lift.
 
@@ -164,7 +240,7 @@ The longer and more varied school day will give schools more time to teach by me
 
 Assisted learning will be used to work with a number of components which are important in order to ensure that the pupils are able to fully benefit from subject-divided lessons. It may be in the form of varied and differentiated learning techniques, exercises, in-depth study and practice in homework cafés and other assisted learning activities.
 
-The purpose is to develop the pupils' receptiveness to education by working with their social skills, allround development, motivation and well-being. In the transition period until the next general election it will, however, only be possible to offer homework assistance during the last lesson each afternoon and thus not as part of the school day.
+The purpose is to develop the pupils' receptiveness to education by working with their social skills, all-round development, motivation and well-being. In the transition period until the next general election it will, however, only be possible to offer homework assistance during the last lesson each afternoon and thus not as part of the school day.
 
 The aim of both assisted learning and subject-divided lessons is to strengthen the pupils' academic levels. What distinguishes assisted learning from subject-divided lessons is that schools will have more freedom to plan assisted learning in such a way that it accommodates local needs and areas where a special effort is required.
 
@@ -172,7 +248,7 @@ It is the headmaster's responsibility to create coherence between subject-divide
 
 Municipalities and individual schools may decide to convert additional time for assisted learning to subject-divided lessons in various subjects.
 
-In addition, municipalities will be able to grant schools special permission to reduce the weekly teaching time in excess of the minimum number of subject-divided lessons - for specific classes by up to one year - provided that the number of subject-divided lessons is simultaneously increased by two adults, especially in Danish and maths.
+In addition, municipalities will be able to grant schools special permission to reduce the weekly teaching time in excess of the minimum number of subject-divided lessons – for specific classes by up to one year – provided that the number of subject-divided lessons is simultaneously increased by two adults, especially in Danish and maths.
 
 Generally, the permission will apply to the younger classes, pre-school and form levels 1 to 3, and for form levels 4 to 9 to classes with special needs.
 
@@ -216,7 +292,7 @@ Until the next general election the schools must offer homework assistance durin
 
 The academic standards of all children must be improved, and a focused effort will thus be made to improve the quality of the lessons and ensure measurable improvements.
 
-The clarification and simplification of Common Objectives must support the continuous im-provement of the pupils' academic standards and ensure that pupils are at a higher academic level than previously when they leave the Folkeskole.
+The clarification and simplification of Common Objectives must support the continuous improvement of the pupils' academic standards and ensure that pupils are at a higher academic level than previously when they leave the Folkeskole.
 
 Common Objectives will be clarified and simplified to ensure learning objectives which are more focused on pupils' learning outcome, and which support the schools' work with goal-oriented teaching. Clear objectives for pupils' learning will contribute to increased academic standards for both the academically strong and the academically weak pupils.
 
@@ -240,11 +316,11 @@ Danish and maths will be strengthened at form levels 4 to 9 by increasing the nu
 
 The increase in the number of lessons will be implemented at all schools by stipulating that the compulsory minimum number of lessons for Danish and maths at form levels 4 to 9 is 210 and 150 60-minute lessons, respectively, per form level.
 
-The purpose of increasing the number of lessons for these two fundamental subjects is to provide more time for in-depth academic study and allow for a variation of teaching forms where all pupils - both the slow and the fast learners - may fully benefit from the teaching.
+The purpose of increasing the number of lessons for these two fundamental subjects is to provide more time for in-depth academic study and allow for a variation of teaching forms where all pupils – both the slow and the fast learners – may fully benefit from the teaching.
 
 To improve the quality of Danish and maths lessons, funds will be set aside for a three-year research and development project which will develop new teaching methods for Danish and maths in order to challenge all children and make the teaching more relevant.
 
-This may be done by incorporating IT as an integrated part of the teaching and - at the most advanced form levels - by using maths to solve practical tasks such as personal finances in order to make the subject more meaningful to pupils.
+This may be done by incorporating IT as an integrated part of the teaching and – at the most advanced form levels – by using maths to solve practical tasks such as personal finances in order to make the subject more meaningful to pupils.
 
 12 · Improving the Public School - overview of reform of standards in the Danish public school (primary and lower secondary education)
 
@@ -258,7 +334,7 @@ English will be introduced already from form level 1, and lessons in German or F
 
 Most children will encounter English at an early age and are motivated to learn the language. Therefore, English will be introduced already from form level 1. The net number of lessons in English will be increased compared to the presently suggested number of lessons by one weekly lesson at form levels 1 and 2, respectively.
 
-A good linguistic foundation will prepare Danish pupils for life in a globalised world where the demand for linguistic skills needed in order to survive in the job market is high - both in Denmark and abroad.
+A good linguistic foundation will prepare Danish pupils for life in a globalised world where the demand for linguistic skills needed in order to survive in the job market is high – both in Denmark and abroad.
 
 In order to strengthen the learning of a second foreign language, the lessons in German or French will be moved up to form level 5 and made compulsory. This means that at form levels 5 and 6, the suggested distribution of lessons will include one and two lessons respectively in either German or French. At the same time it will become possible to exempt pupils from having to take a second foreign language starting from form level 7. As is the case according to the present rules for selection of subjects, the decision about exempting a pupil will be made in consultation with the pupil's parents and teachers, possibly including the Educational Youth Guidance.
 
@@ -384,7 +460,7 @@ The objectives will be estimated at national level, municipal level, school leve
 
 ## 12. Competency development
 
-The government will allocate DKK one billion between 20142020 to strengthen continued development of competencies among teachers and pedagogues in the Folkeskole.
+The government will allocate DKK one billion between 2014-2020 to strengthen continued development of competencies among teachers and pedagogues in the Folkeskole.
 
 To secure the best possible result of these efforts, all parties must accept greater responsibility, ensuring that efforts are planned and executed more efficiently, and thus that the latest evidence-based knowledge will be used in the daily teaching and the daily interaction with the children.
 
@@ -458,7 +534,7 @@ To ensure local democracy at schools with a divisional structure, it is suggeste
 
 Pupil involvement and pupil democracy are important factors in the development of a future school. Therefore, a project is being conducted in collaboration with the Danish Public School Students' Association concerning the involvement of pupils, which will provide a deeper understanding of the effects of involving pupils in planning and evaluation of the teaching.
 
-To strengthen pupils' engagement and participation in the Folkeskole, an effort will be launched under the auspices of the learning consultants, aimed at deeper pupil involvement. Furthermore, a number of steps are taken to increase the number of pupil-topupil activities.
+To strengthen pupils' engagement and participation in the Folkeskole, an effort will be launched under the auspices of the learning consultants, aimed at deeper pupil involvement. Furthermore, a number of steps are taken to increase the number of pupil-to-pupil activities.
 
 22 · Improving the Public School - overview of reform of standards in the Danish public school (primary and lower secondary education)
 
@@ -480,7 +556,7 @@ In connection with the Folkeskole Act, the following simplification of rules mus
 
 - The demand that only teachers at the school may run the library is repealed
 
-- Simplification of the rules concerning common management between the Folkeskole and afterschool care
+- Simplification of the rules concerning common management between the Folkeskole and after-school care
 
 - More flexible rules in relation to school boards
 
@@ -506,6 +582,6 @@ Improving the Public School - overview of reform of standards in the Danish publ
 
 # Improving the Public School
 
-- overview of reform of standards in the Danish public school (primary and lower secondary education)
+– overview of reform of standards in the Danish public school (primary and lower secondary education)
 
 [[END OF PAGE 24]]
