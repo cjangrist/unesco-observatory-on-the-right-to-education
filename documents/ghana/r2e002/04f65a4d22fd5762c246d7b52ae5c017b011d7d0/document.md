@@ -30,11 +30,13 @@ This policy document is set out with presentations on the Rationale for the poli
 
 ### The Rational Of the Policy
 
-The policy provides a framework for the guidance of Government and all stakeholders specifically Sector Ministries,  District  Assemblies  and  its  Structures,  communities,  families,  Civil  Society  including  Non- Government Organisations and the Donor Community in their effort to support the survival, protection and development of the children of Ghana in their early years.
+The policy provides a framework for the guidance of Government and all stakeholders specifically Sector Ministries, District Assemblies and its Structures, communities, families, Civil Society including Non-
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+Government Organisations and the Donor Community in their effort to support the survival, protection and development of the children of Ghana in their early years.
 
 The basis for this policy framework is defined under this chapter while detailed consideration is given to the conglomerate of policies and strategies formulated over years.
 
@@ -134,7 +136,7 @@ There  is  no  doubt  that  the  ECCD  programmes,  when  implemented  in  an  i
 
 ## 2.0 RATIONALE
 
-The rationale of the policy is to provide a framework for the guidance of Government, as well as other relevant Sector Ministries, District Assemblies, communities, families, the private sector,  NonGovernmental  Organisations  (NGOs)  and  the  Donor  Community  for  investment  in,  and  effective implementation of, ECCD programmes.
+The rationale of the policy is to provide a framework for the guidance of Government, as well as other relevant Sector Ministries, District Assemblies, communities, families, the private sector, Non-Governmental Organisations (NGOs) and the Donor Community for investment in, and effective implementation of, ECCD programmes.
 
 Ghana as a sovereign nation is obliged to ensure the survival and development of the child through the provision of ECCD services leading to the realization of a healthy nation.
 
@@ -312,7 +314,7 @@ The  national  machinery  for  ensuring  the  successful  implementation  of  th
 
  Any other body co-opted by the Committee.
 
-Representation  of  above  institutions  shall  be  a  Director  or  her/his  representative.  There  shall  be established  within  MOWAC  a  Unit  which  shall  provide  the  Secretariat  for  the  National  ECCD  Coordinating Committee.
+Representation of above institutions shall be a Director or her/his representative. There shall be established within MOWAC a Unit which shall provide the Secretariat for the National ECCD Co-ordinating Committee.
 
 At the Regional level, the membership of the Regional ECCD Committees shall be appointed from among the Regional Co-ordinating Council, and any other relevant stakeholders of ECCD according to guidelines provided by the National ECCD Co-ordinating Committee.
 
@@ -350,7 +352,7 @@ The  Ministry  of  Women  and  Children's  Affairs  shall  have  the  sole  resp
 
  Develop  a  Communications  and  Advocacy  Strategy  to  create  a  nation-wide  awareness  on  the Policy and ECCD issues;
 
- establish  a  Unit  within  its  offices  which  shall  serve  as  the  Secretariat  for  National  ECCD  Coordinating Committee;
+ establish a Unit within its offices which shall serve as the Secretariat for National ECCD Co-ordinating Committee;
 
  recommend, in consultation with relevant MDAs and other stakeholders, minimum standards for the operation of ECCD Centres;
 
@@ -546,7 +548,7 @@ To make ECCD service delivery holistic and to ensure efficient use of resources,
 
 ### 5.3 Encourage the Establishment of Conventional and Non-Conventional ECCD Systems for all Children
 
-All  children  have  a  basic  right  to  quality  ECCD  Services.  There  is,  therefore,  the  need  to  design  and establish programmes that will cater for children from poor homes, those in need of special attention, as well as girls. In addition to the above, both Centre-based and non-Centre based care will be encouraged so that children who cannot benefit from one can do so from the
+All children have a basic right to quality ECCD Services. There is, therefore, the need to design and establish programmes that will cater for children from poor homes, those in need of special attention, as well as girls. In addition to the above, both Centre-based and non-Centre based care will be encouraged so that children who cannot benefit from one can do so from the other.
 
 ### 5.4 Build Capacity of ECCD Practitioners and Institutions
 
@@ -578,7 +580,9 @@ The use of local resources, indigenous knowledge, skills and experiences shall b
 
 ### 6.1 Costs
 
-All types of ECCD programmes entail some financial and/or resource cost. These costs, however, differ from locality to locality, and will depend also on the type of programme, whether it is centre-based, homebased, home visiting, or parent education. Whatever the cost, it is expected that it will be borne by one, or a combination of the following: parents, communities, private proprietors, NGOs, development partners, philanthropic personalities and organisation and the Government.
+All types of ECCD programmes entail some financial and/or resource cost. These costs, however, differ from locality to locality, and will depend also on the type of programme, whether it is centre-based, home-based, home visiting, or parent education. Whatever the cost, it is expected that it will be borne by one, or a combination of the following: parents, communities, private proprietors, NGOs, development partners, philanthropic personalities and organisation and the Government.
+
+#### 6.1.1 Cost Centres
 
 ECCD costs will be incurred at five main levels; national, regional, district, sub district and community levels. The main costs to be incurred in the implementation of this policy shall include, but not be limited to,  the  following areas: research, policy formulation/review, advocacy, capacity building, empowerment of parents, implementation of projects, co-ordination, monitoring and evaluation.
 
@@ -720,7 +724,7 @@ This policy sets out the Vision and Mission of Early Childhood Care and Developm
 
 The main goal of the policy is the survival, growth, development and protection of all Ghanaian children. Government  shall  therefore  take  measures  to  expand  access  and  improve  the  quality  of  ECCD programmes in that direction to 100 per cent of children aged 0-8 by the year 2015. Quality, equity in delivery,  cost  sharing,  holistic  approach,  community  and  parent  participation  will  be  the  guiding principles.
 
-The  implementation  strategy  for  the  policy  shall  involve  the  creation  of  a  conducive  environment  for developing ECCD programmes, promotion of integrated services, establishment of conventional and nonconventional  ECCD  systems,  training  of  care-givers,  capacity-building  for  individuals  and  institutions towards the growth and sustenance of the systems and mobilization of resources.
+The implementation strategy for the policy shall involve the creation of a conducive environment for developing ECCD programmes, promotion of integrated services, establishment of conventional and non-conventional ECCD systems, training of care-givers, capacity-building for individuals and institutions towards the growth and sustenance of the systems and mobilization of resources.
 
 The institutional framework is modeled on the existing of decentralisation. Provision is therefore made for committees  at  the  community,  district  and  its  sub-structures,  regional  and  national  levels.  Parents, Community  members,  District  Assemblies,  Regional  Co-ordinating  Councils,  NGOs,  Development Partners and the Government will be actively involved.
 
