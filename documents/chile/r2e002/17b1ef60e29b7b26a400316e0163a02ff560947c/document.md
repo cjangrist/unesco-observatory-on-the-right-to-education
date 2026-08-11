@@ -1,7 +1,5 @@
 [[START OF PAGE 1]]
 
-INDIGENA
-
 Tipo Norma               :Ley 19253
 
 Fecha Publicación        :05-10-1993
@@ -10,15 +8,17 @@ Fecha Promulgación       :28-09-1993
 
 Organismo                :MINISTERIO DE PLANIFICACION Y COOPERACION
 
-Título                   :ESTABLECE NORMAS SOBRE PROTECCION, FOMENTO Y DESARROLLO DE LOS INDIGENAS, Y CREA LA CORPORACION NACIONAL DE DESARROLLO
+Título                   :ESTABLECE NORMAS SOBRE PROTECCION, FOMENTO Y DESARROLLO DE LOS INDIGENAS, Y CREA LA CORPORACION NACIONAL DE DESARROLLO INDIGENA
 
 Tipo Version             :Ultima Version     De : 09-05-2008
 
 Inicio Vigencia          :09-05-2008
 
-URL                      :http://www.leychile.cl/Navegar/?idNorma=30620&idVersion=2008 -05-09&idParte
+URL                      :http://www.leychile.cl/Navegar/?idNorma=30620&idVersion=2008-05-09&idParte
 
-# ESTABLECE NORMAS SOBRE PROTECCION, FOMENTO Y                             NOTA DESARROLLO DE LOS INDIGENAS, Y CREA LA CORPORACION NACIONAL DE DESARROLLO INDIGENA
+# ESTABLECE NORMAS SOBRE PROTECCION, FOMENTO Y DESARROLLO DE LOS INDIGENAS, Y CREA LA CORPORACION NACIONAL DE DESARROLLO INDIGENA
+
+NOTA
 
 Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
 
@@ -37,7 +37,13 @@ DE LOS INDIGENAS, SUS CULTURAS Y SUS COMUNIDADES
 #### Artículo 1°.-
 El Estado reconoce que los indígenas de Chile son los descendientes de las agrupaciones humanas que existen en el territorio nacional desde tiempos precolombinos, que conservan manifestaciones étnicas y culturales propias siendo para ellos la tierra el fundamento principal de su existencia y cultura.
 
-El Estado reconoce como principales etnias indígenas de Chile a: la Mapuche, Aimara, Rapa Nui o Pascuenses, la de las comunidades Atacameñas, Quechuas, Collas y                     LEY 20117 Diaguita del norte del país, las comunidades Kawashkar                   Art. único o Alacalufe y Yámana o Yagán de los canales australes.                   D.O. 08.09.2006 El Estado valora su existencia por ser parte esencial de las raíces de la Nación chilena, así como su integridad y desarrollo, de acuerdo a sus costumbres y valores.
+El Estado reconoce como principales etnias indígenas de Chile a: la Mapuche, Aimara, Rapa Nui o Pascuenses, la de las comunidades Atacameñas, Quechuas, Collas y Diaguita del norte del país, las comunidades Kawashkar o Alacalufe y Yámana o Yagán de los canales australes.
+
+LEY 20117
+Art. único
+D.O. 08.09.2006
+
+El Estado valora su existencia por ser parte esencial de las raíces de la Nación chilena, así como su integridad y desarrollo, de acuerdo a sus costumbres y valores.
 
 Es deber de la sociedad en general y del Estado en particular, a través de sus instituciones respetar, proteger y promover el desarrollo de los indígenas, sus culturas, familias y comunidades, adoptando las medidas adecuadas para tales fines y proteger las tierras indígenas, velar por su adecuada explotación, por su equilibrio ecológico y propender a su ampliación.
 
@@ -101,13 +107,13 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 por Comunidad Indígena, toda agrupación de personas pertenecientes a una misma etnia indígena y que se encuentren en una o más de las siguientes situaciones:
 
-- Provengan de un mismo tronco familiar;
+a) Provengan de un mismo tronco familiar;
 
-- Reconozcan una jefatura tradicional;
+b) Reconozcan una jefatura tradicional;
 
-- Posean o hayan poseído tierras indígenas en común, y
+c) Posean o hayan poseído tierras indígenas en común, y
 
-- Provengan de un mismo poblado antiguo.
+d) Provengan de un mismo poblado antiguo.
 
 #### Artículo 10.-
 La constitución de las Comunidades Indígenas será acordada en asamblea que se celebrará con la presencia del correspondiente notario, oficial del Registro Civil o Secretario Municipal.
@@ -130,7 +136,11 @@ Un reglamento detallará la forma de integración los derechos de los ausentes e
 ### TIERRAS INDIGENAS Párrafo 1°
 
 #### Artículo 12.-
-Son tierras indígenas:                                 NOTA 2 1° Aquellas que las personas o comunidades indígenas actualmente ocupan en propiedad o posesión provenientes de los siguientes títulos:
+Son tierras indígenas:
+
+1° Aquellas que las personas o comunidades indígenas actualmente ocupan en propiedad o posesión provenientes
+
+NOTA 2
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -138,19 +148,23 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 4]]
 
-- Títulos de comisario de acuerdo a la ley de 10 de junio de 1823.
+de los siguientes títulos:
 
-- Títulos de merced de conformidad a las leyes de 4 de diciembre de 1866; de 4 de agosto de 1874, y de 20 de enero de 1883.
+a) Títulos de comisario de acuerdo a la ley de 10 de junio de 1823.
 
-- Cesiones gratuitas de dominio efectuadas conforme a la ley N° 4.169, de 1927; ley N° 4.802, de 1930; decreto supremo N° 4.111, de 1931; ley N° 14.511, de 1961, y ley N° 17.729, de 1972, y sus modificaciones posteriores.
+b) Títulos de merced de conformidad a las leyes de 4 de diciembre de 1866; de 4 de agosto de 1874, y de 20 de enero de 1883.
 
-- Otras formas que el Estado ha usado para ceder, regularizar, entregar o asignar tierras a indígenas, tales como, la ley N° 16.436, de 1966; decreto ley N° 1.939, de 1977, y decreto ley N° 2.695, de 1979, y e) Aquellas que los beneficiarios indígenas de las leyes N° 15.020, de 1962, y N° 16.640, de 1967, ubicadas en las Regiones VIII, IX y X, inscriban en el Registro de Tierras Indígenas, y que constituyan agrupaciones indígenas homogéneas lo que será calificado por la Corporación.
+c) Cesiones gratuitas de dominio efectuadas conforme a la ley N° 4.169, de 1927; ley N° 4.802, de 1930; decreto supremo N° 4.111, de 1931; ley N° 14.511, de 1961, y ley N° 17.729, de 1972, y sus modificaciones posteriores.
 
-- 2° Aquellas que históricamente han ocupado y poseen las personas o comunidades mapuches, aimaras, rapa nui o pascuenses, atacameñas, quechuas, collas, kawashkar y yámana, siempre que sus derechos sean inscritos en el Registro de Tierras Indígenas que crea esta ley, a solicitud de las respectivas comunidades o indígenas titulares de la propiedad.
+d) Otras formas que el Estado ha usado para ceder, regularizar, entregar o asignar tierras a indígenas, tales como, la ley N° 16.436, de 1966; decreto ley N° 1.939, de 1977, y decreto ley N° 2.695, de 1979, y
 
-- 3° Aquellas que, proviniendo de los títulos y modos referidos en los números precedentes, se declaren a futuro pertenecientes en propiedad a personas o comunidades indígenas por los Tribunales de Justicia.
+e) Aquellas que los beneficiarios indígenas de las leyes N° 15.020, de 1962, y N° 16.640, de 1967, ubicadas en las Regiones VIII, IX y X, inscriban en el Registro de Tierras Indígenas, y que constituyan agrupaciones indígenas homogéneas lo que será calificado por la Corporación.
 
-- 4° Aquellas que indígenas o sus comunidades reciban a título gratuito del Estado. La propiedad de las tierras indígenas a que se refiere este artículo, tendrá como titulares a las personas naturales indígenas o a la comunidad indígena definida por esta ley.
+2° Aquellas que históricamente han ocupado y poseen las personas o comunidades mapuches, aimaras, rapa nui o pascuenses, atacameñas, quechuas, collas, kawashkar y yámana, siempre que sus derechos sean inscritos en el Registro de Tierras Indígenas que crea esta ley, a solicitud de las respectivas comunidades o indígenas titulares de la propiedad.
+
+3° Aquellas que, proviniendo de los títulos y modos referidos en los números precedentes, se declaren a futuro pertenecientes en propiedad a personas o comunidades indígenas por los Tribunales de Justicia.
+
+4° Aquellas que indígenas o sus comunidades reciban a título gratuito del Estado. La propiedad de las tierras indígenas a que se refiere este artículo, tendrá como titulares a las personas naturales indígenas o a la comunidad indígena definida por esta ley.
 
 La propiedad de las tierras indígenas a que se refiere este artículo, tendrá como titulares a las personas naturales indígenas o a la comunidad indígena definida por esta ley.
 
@@ -167,7 +181,7 @@ Igualmente las tierras cuyos titulares sean Comunidades Indígenas no podrán se
 
 Las de personas naturales indígenas podrán serlo por un plazo no superior a cinco años. En todo caso, éstas con la autorización de la Corporación, se podrán permutar por tierras de no indígenas, de similar valor comercial debidamente acreditado, las que se considerarán tierras indígenas, desafectándose las primeras.
 
-Los actos y contratos celebrados en contravención a este artículo adolecerán de nulidad absoluta.
+Los actos y contratos celebrados en contravención a este
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -175,11 +189,15 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 5]]
 
+artículo adolecerán de nulidad absoluta.
+
 #### Artículo 14.-
 Tanto en las enajenaciones entre indígenas como en los gravámenes a que se refiere el artículo anterior, el titular de la propiedad deberá contar con la autorización establecida en el artículo 1.749 del Código Civil a menos que se haya pactado separación total de bienes y, en caso de no existir matrimonio civil, deberá contar con la autorización de la mujer con la cual ha constituido familia. La omisión de este requisito acarreará la nulidad del acto.
 
 #### Artículo 15.-
-La Corporación abrirá y mantendrá un                   VER NOTA 2 Registro Público de Tierras Indígenas. En este Registro se inscribirán todas las tierras a que alude el artículo 12 de esta ley. Su inscripción acreditará la calidad de tierra indígena. La Corporación podrá denegar esta inscripción por resolución fundada.
+La Corporación abrirá y mantendrá un Registro Público de Tierras Indígenas. En este Registro se inscribirán todas las tierras a que alude el artículo 12 de esta ley. Su inscripción acreditará la calidad de tierra indígena. La Corporación podrá denegar esta inscripción por resolución fundada.
+
+VER NOTA 2
 
 Los Conservadores de Bienes Raíces deberán enviar al citado Registro, en el plazo de treinta días, copia de las inscripciones que realice y que recaigan sobre los actos o contratos, a que alude el artículo 13 de esta ley.
 
@@ -232,11 +250,13 @@ En el caso que no se cumpliere o existiere entorpecimiento en el ejercicio de lo
 ### Párrafo 2° Del Fondo para Tierras y Aguas Indígenas
 
 #### Artículo 20.-
-Créase un Fondo para Tierras y Aguas                   NOTA Indígenas administrado por la Corporación. A través de este Fondo la Corporación podrá cumplir con los siguientes objetivos:
+Créase un Fondo para Tierras y Aguas Indígenas administrado por la Corporación. A través de este Fondo la Corporación podrá cumplir con los siguientes objetivos:
+
+NOTA
 
 a) Otorgar subsidios para la adquisición de tierras por personas, Comunidades Indígenas o una parte de éstas cuando la superficie de las tierras de la respectiva comunidad sea insuficiente, con aprobación de la Corporación.
 
-Para obtener este subsidio se distinguirá entre postulaciones individuales y de comunidades.
+Para obtener este subsidio se distinguirá entre
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -244,17 +264,19 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 7]]
 
+postulaciones individuales y de comunidades.
+
 Para las postulaciones individuales el puntaje estará dado por el ahorro previo, situación socio-económica y grupo familiar.
 
 Para las postulaciones de comunidades el puntaje estará determinado, además de los requisitos de la postulación individual, por su antigüedad y número de asociados.
 
 Un Reglamento establecerá la forma, condiciones y requisitos de su operatoria;
 
-- Financiar mecanismos que permitan solucionar los problemas de tierras, en especial, con motivo del cumplimiento de resoluciones o transacciones, judiciales o extrajudiciales, relativas a tierras indígenas en que existan soluciones sobre tierras indígenas o transferidas a los indígenas, provenientes de los títulos de merced o reconocidos por títulos de comisario u otras cesiones o asignaciones hechas por el Estado en favor de los indígenas.
+b) Financiar mecanismos que permitan solucionar los problemas de tierras, en especial, con motivo del cumplimiento de resoluciones o transacciones, judiciales o extrajudiciales, relativas a tierras indígenas en que existan soluciones sobre tierras indígenas o transferidas a los indígenas, provenientes de los títulos de merced o reconocidos por títulos de comisario u otras cesiones o asignaciones hechas por el Estado en favor de los indígenas.
 
-- Financiar la constitución, regularización o compra de derechos de aguas o financiar obras destinadas a obtener este recurso.
+c) Financiar la constitución, regularización o compra de derechos de aguas o financiar obras destinadas a obtener este recurso.
 
-- El Presidente de la República, en un reglamento, establecerá el modo de operación del Fondo de Tierras y Aguas Indígenas.
+El Presidente de la República, en un reglamento, establecerá el modo de operación del Fondo de Tierras y Aguas Indígenas.
 
 ##### NOTA:
 
@@ -265,22 +287,22 @@ La Ley de Presupuestos de cada año dispondrá anualmente de una suma destinada 
 
 El Fondo de Tierras y Aguas Indígenas se incrementará con los siguientes recursos:
 
-- Los provenientes de la cooperación internacional donados expresamente al Fondo.
+a) Los provenientes de la cooperación internacional donados expresamente al Fondo.
 
-- Los aportes en dinero de particulares. Las donaciones estarán exentas del trámite de insinuación judicial que establece el artículo 1.401 del Código Civil y de toda contribución o impuesto.
+b) Los aportes en dinero de particulares. Las donaciones estarán exentas del trámite de insinuación judicial que establece el artículo 1.401 del Código Civil y de toda contribución o impuesto.
 
-- Los que reciba de Ministerios y otros organismos públicos o privados destinados al financiamiento de convenios específicos.
+c) Los que reciba de Ministerios y otros organismos públicos o privados destinados al financiamiento de convenios específicos.
 
-- Las devoluciones contempladas en el artículo siguiente.
+d) Las devoluciones contempladas en el artículo siguiente.
 
-- Las rentas que devenguen los bienes que ingresen al Fondo.
+e) Las rentas que devenguen los bienes que ingresen al Fondo.
 
-- La Corporación podrá recibir del Estado, tierras fiscales, predios, propiedades, derechos de agua, y otros bienes de esta especie para radicar, entregar títulos permanentes, realizar proyectos de colonización, reubicación y actividades semejantes destinados a comunidades indígenas o indígenas individualmente considerados. Igualmente los podrá recibir de particulares para los mismos fines, y en general los aportes que en dinero se hagan por parte de particulares.
+La Corporación podrá recibir del Estado, tierras fiscales, predios, propiedades, derechos de agua, y otros bienes de esta especie para radicar, entregar títulos permanentes, realizar proyectos de colonización, reubicación y actividades semejantes destinados a comunidades indígenas o indígenas individualmente considerados. Igualmente los podrá recibir de particulares para los mismos fines, y en general los aportes que en dinero se hagan por parte de particulares.
 
 #### Artículo 22.-
 Las tierras no indígenas y los derechos de aguas para beneficio de tierras indígenas adquiridas con recursos de este Fondo, no podrán ser enajenados durante veinticinco años, contados desde el día de su inscripción. Los Conservadores de Bienes Raíces, conjuntamente con la inscripción de las tierras o derechos de aguas, procederán a inscribir esta prohibición por el solo ministerio de la ley. En todo caso será aplicable el artículo 13.
 
-No obstante la Corporación, por resolución del Director que deberá insertarse en el instrumento respectivo, podrá autorizar la enajenación de estas tierras o derechos de aguas previo reintegro al Fondo del valor del subsidio, crédito o beneficio recibido, actualizado conforme al Indice de Precios al Consumidor. La contravención de esta obligación producirá la nulidad absoluta del acto o contrato.
+No obstante la Corporación, por resolución del Director que deberá insertarse en el instrumento respectivo, podrá autorizar la enajenación de estas tierras o derechos de aguas previo reintegro al Fondo del valor del subsidio, crédito o beneficio recibido, actualizado conforme al Indice de Precios al Consumidor. La contravención de esta obligación producirá la
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -288,34 +310,38 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 8]]
 
+nulidad absoluta del acto o contrato.
+
 ## TITULO DEL DESARROLLO INDIGENA
 
 ### Párrafo 1° Del Fondo de Desarrollo Indígena
 
 #### Artículo 23.-
-Créase un Fondo de Desarrollo Indígena                 NOTA cuyo objeto será financiar programas especiales dirigidos al desarrollo de las personas y comunidades indígenas, el que será administrado por la Corporación.
+Créase un Fondo de Desarrollo Indígena cuyo objeto será financiar programas especiales dirigidos al desarrollo de las personas y comunidades indígenas, el que será administrado por la Corporación.
+
+NOTA
 
 A través de él se podrán desarrollar planes especiales de crédito, sistemas de capitalización y otorgamiento de subsidios en beneficio de las Comunidades Indígenas e indígenas individuales. Le corresponderá, especialmente, el cumplimiento de los siguientes objetivos:
 
-- Facilitar y/o financiar el pago de las mejoras, prestaciones mutuas o restituciones a que sean obligadas personas indígenas naturales o Comunidades Indígenas que resulten del ejercicio de acciones civiles promovidas por o contra particulares, en que se litigue acerca del dominio, posesión, uso, goce, administración o mera tenencia de tierras indígenas.
+a) Facilitar y/o financiar el pago de las mejoras, prestaciones mutuas o restituciones a que sean obligadas personas indígenas naturales o Comunidades Indígenas que resulten del ejercicio de acciones civiles promovidas por o contra particulares, en que se litigue acerca del dominio, posesión, uso, goce, administración o mera tenencia de tierras indígenas.
 
-- Administrar líneas de crédito para el funcionamiento de programas de superación del minifundio, tales como planes de reasignación, financiamiento especial para adquisición de derechos sucesorios y otros mecanismos necesarios para estos fines.
+b) Administrar líneas de crédito para el funcionamiento de programas de superación del minifundio, tales como planes de reasignación, financiamiento especial para adquisición de derechos sucesorios y otros mecanismos necesarios para estos fines.
 
-- Financiar planes para la recuperación de la calidad de las tierras indígenas degradadas o diversificar su uso y producción.
+c) Financiar planes para la recuperación de la calidad de las tierras indígenas degradadas o diversificar su uso y producción.
 
-- Financiar la obtención de concesiones y autorizaciones de acuicultura y pesca, y la compra de utensilios de pesca artesanal.
+d) Financiar la obtención de concesiones y autorizaciones de acuicultura y pesca, y la compra de utensilios de pesca artesanal.
 
-- La Ley de Presupuestos de cada año dispondrá anualmente de una suma destinada exclusivamente al Fondo de Desarrollo Indígena.
+La Ley de Presupuestos de cada año dispondrá anualmente de una suma destinada exclusivamente al Fondo de Desarrollo Indígena.
 
-- El Fondo de Desarrollo Indígena se incrementará con los siguientes recursos:
+El Fondo de Desarrollo Indígena se incrementará con los siguientes recursos:
 
-- Los aportes de cooperación internacional que reciba para el cumplimiento de su objeto.
+a) Los aportes de cooperación internacional que reciba para el cumplimiento de su objeto.
 
-- Las donaciones que le efectúen particulares, las que estarán exentas del trámite de insinuación judicial que establece el artículo 1.401 del Código Civil y de toda contribución o impuesto.
+b) Las donaciones que le efectúen particulares, las que estarán exentas del trámite de insinuación judicial que establece el artículo 1.401 del Código Civil y de toda contribución o impuesto.
 
-- Con los recursos y bienes que a cualquier título reciba.
+c) Con los recursos y bienes que a cualquier título reciba.
 
-- El Presidente de la República, mediante un reglamento, establecerá la operatoria de este Fondo, los sistemas de postulación a sus beneficios, las modalidades de pago de los créditos que otorgue y las demás condiciones que sea necesario reglamentar para su adecuado funcionamiento.
+El Presidente de la República, mediante un reglamento, establecerá la operatoria de este Fondo, los sistemas de postulación a sus beneficios, las modalidades de pago de los créditos que otorgue y las demás condiciones que sea necesario reglamentar para su adecuado funcionamiento.
 
 ##### NOTA:
 
@@ -324,7 +350,7 @@ Ver el DTO 396, Planificación y Cooperación, publicado el 17.05.1994, que apru
 Para el logro de los objetivos indicados en el artículo anterior, la Corporación podrá celebrar convenios con otros organismos públicos o privados, con las Municipalidades y Gobiernos Regionales.
 
 #### Artículo 25.-
-Los informes a que se refiere el artículo 71 de la ley N° 19.175 deberán dejar expresa constancia de si éstos benefician a los indígenas o a sus Comunidades existentes en la región correspondiente; tal circunstancia deberá ser considerada como un factor favorable en las evaluaciones que le corresponda realizar a los organismos de planificación nacional o regional en virtud del mismo artículo.
+Los informes a que se refiere el artículo 71 de la ley N° 19.175 deberán dejar expresa constancia de si
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -332,20 +358,22 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 9]]
 
+éstos benefician a los indígenas o a sus Comunidades existentes en la región correspondiente; tal circunstancia deberá ser considerada como un factor favorable en las evaluaciones que le corresponda realizar a los organismos de planificación nacional o regional en virtud del mismo artículo.
+
 ### Párrafo 2° De las Areas de Desarrollo Indígena
 
 #### Artículo 26.-
 El Ministerio de Planificación y Cooperación, a propuesta de la Corporación, podrá establecer áreas de desarrollo indígena que serán espacios territoriales en que los organismos de la administración del Estado focalizarán su acción en beneficio del desarrollo armónico de los indígenas y sus comunidades. Para su establecimiento deberán concurrir los siguientes criterios:
 
-- Espacios territoriales en que han vivido ancestralmente las etnias indígenas;
+a) Espacios territoriales en que han vivido ancestralmente las etnias indígenas;
 
-- Alta densidad de población indígena;
+b) Alta densidad de población indígena;
 
-- Existencia de tierras de comunidades o individuos indígenas;
+c) Existencia de tierras de comunidades o individuos indígenas;
 
-- Homogeneidad ecológica, y
+d) Homogeneidad ecológica, y
 
-- Dependencia de recursos naturales para el equilibrio de esos territorios, tales como manejo de cuencas, ríos, riberas, flora y fauna.
+e) Dependencia de recursos naturales para el equilibrio de esos territorios, tales como manejo de cuencas, ríos, riberas, flora y fauna.
 
 #### Artículo 27.-
 La Corporación, en beneficio de las áreas de desarrollo indígena, podrá estudiar, planificar, coordinar y convenir planes, proyectos, trabajos y obras con ministerios y organismos públicos; gobiernos regionales y municipalidades; universidades y otros establecimientos educacionales; corporaciones y organismos no gubernamentales; organismos de cooperación y asistencia técnica internacional, y empresas públicas o privadas.
@@ -357,21 +385,21 @@ La Corporación, en beneficio de las áreas de desarrollo indígena, podrá estu
 #### Artículo 28.-
 El reconocimiento, respeto y protección de las culturas e idiomas indígenas contemplará:
 
-- El uso y conservación de los idiomas indígenas, junto al español en las áreas de alta densidad indígena;
+a) El uso y conservación de los idiomas indígenas, junto al español en las áreas de alta densidad indígena;
 
-- El establecimiento en el sistema educativo nacional de una unidad programática que posibilite a los educandos acceder a un conocimiento adecuado de las culturas e idiomas indígenas y que los capacite para valorarlas positivamente;
+b) El establecimiento en el sistema educativo nacional de una unidad programática que posibilite a los educandos acceder a un conocimiento adecuado de las culturas e idiomas indígenas y que los capacite para valorarlas positivamente;
 
-- El fomento a la difusión en las radioemisoras y canales de televisión de las regiones de alta presencia indígena de programas en idioma indígena y apoyo a la creación de radioemisoras y medios de comunicación indígenas;
+c) El fomento a la difusión en las radioemisoras y canales de televisión de las regiones de alta presencia indígena de programas en idioma indígena y apoyo a la creación de radioemisoras y medios de comunicación indígenas;
 
-- La promoción y el establecimiento de cátedras de historia, cultura e idiomas indígenas en la enseñanza superior;
+d) La promoción y el establecimiento de cátedras de historia, cultura e idiomas indígenas en la enseñanza superior;
 
-- La obligatoriedad del Registro Civil de anotar los nombres y apellidos de las personas indígenas en la forma como lo expresen sus padres y con las normas de transcripción fonética que ellos indiquen, y
+e) La obligatoriedad del Registro Civil de anotar los nombres y apellidos de las personas indígenas en la forma como lo expresen sus padres y con las normas de transcripción fonética que ellos indiquen, y
 
-- La promoción de las expresiones artísticas y culturales y la protección del patrimonio arquitectónico, arqueológico, cultural e histórico indígena.
+f) La promoción de las expresiones artísticas y culturales y la protección del patrimonio arquitectónico, arqueológico, cultural e histórico indígena.
 
 Para el cumplimiento de lo señalado en el inciso anterior, la Corporación, en coordinación con el Ministerio de Educación, promoverá planes y programas de fomento de las culturas indígenas.
 
-Se deberá considerar convenios con organismos públicos o privados de carácter nacional, regional o comunal, que tengan objetivos coincidentes con los señalados en este artículo. Asimismo deberá involucrarse para el cumplimiento de dichas finalidades a los gobiernos regionales y municipalidades.
+Se deberá considerar convenios con organismos públicos o privados de carácter nacional, regional o comunal, que tengan objetivos coincidentes con los señalados en este artículo. Asimismo deberá involucrarse para el cumplimiento de dichas
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -379,16 +407,18 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 10]]
 
+finalidades a los gobiernos regionales y municipalidades.
+
 #### Artículo 29.-
 Con el objeto de proteger el patrimonio histórico de las culturas indígenas y los bienes culturales del país, se requerirá informe previo de la Corporación para:
 
-- La venta, exportación o cualquier otra forma de enajenación al extranjero del patrimonio arqueológico, cultural o histórico de los indígenas de Chile.
+a) La venta, exportación o cualquier otra forma de enajenación al extranjero del patrimonio arqueológico, cultural o histórico de los indígenas de Chile.
 
-- La salida del territorio nacional de piezas, documentos y objetos de valor histórico con el propósito de ser exhibidos en el extranjero.
+b) La salida del territorio nacional de piezas, documentos y objetos de valor histórico con el propósito de ser exhibidos en el extranjero.
 
-- La excavación de cementerios históricos indígenas con fines científicos la que se ceñirá al procedimiento establecido en la ley N° 17.288 y su reglamento, previo consentimiento de la comunidad involucrada.
+c) La excavación de cementerios históricos indígenas con fines científicos la que se ceñirá al procedimiento establecido en la ley N° 17.288 y su reglamento, previo consentimiento de la comunidad involucrada.
 
-- La sustitución de topónimos indígenas.
+d) La sustitución de topónimos indígenas.
 
 #### Artículo 30.-
 Créase, dependiente del Archivo Nacional de la Dirección de Bibliotecas, Archivos y Museos, un departamento denominado Archivo General de Asuntos Indígenas, con sede en la ciudad de Temuco, que reunirá y conservará tanto los documentos oficiales que se vayan generando sobre materias indígenas, cuanto los instrumentos, piezas, datos, fotos, audiciones y demás antecedentes que constituyen el patrimonio histórico de los indígenas de Chile. Esta sección, para todos los efectos, pasará a ser la sucesora legal del Archivo General de Asuntos Indígenas a que se refiere el artículo 58 de la ley N° 17.729.
@@ -415,7 +445,7 @@ La ley de presupuestos del sector público considerará recursos especiales para
 ### Párrafo 1° De la Participación Indígena
 
 #### Artículo 34.-
-Los servicios de la administración del Estado y las organizaciones de carácter territorial, cuando traten materias que tengan injerencia o relación con cuestiones indígenas, deberán escuchar y considerar la opinión de las organizaciones indígenas que reconoce esta ley.
+Los servicios de la administración del Estado
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -440,11 +470,11 @@ Las Asociaciones Indígenas obtendrán personalidad jurídica conforme al proced
 
 Cuando se constituya una Asociación Indígena se tendrá que exponer en forma precisa y determinada su objetivo, el que podrá ser, entre otros, el desarrollo de las siguientes actividades:
 
-- Educacionales y culturales;
+a) Educacionales y culturales;
 
-- Profesionales comunes a sus miembros, y
+b) Profesionales comunes a sus miembros, y
 
-- Económicas que beneficien a sus integrantes tales como agricultores, ganaderos, artesanos y pescadores.
+c) Económicas que beneficien a sus integrantes tales como agricultores, ganaderos, artesanos y pescadores.
 
 Podrán también operar economatos, centrales de comercialización, unidades de prestación de servicios agropecuarios, técnicos, de maquinarias y otras similares. En estos casos deberán practicar balance al 31 de diciembre de cada año.
 
@@ -457,7 +487,11 @@ DE LA CORPORACION NACIONAL DE DESARROLLO INDIGENA
 #### Artículo 38.-
 Créase la Corporación Nacional de Desarrollo Indígena como un servicio público, funcionalmente descentralizado, dotado de personalidad jurídica y patrimonio propio, sometido a la supervigilancia del Ministerio de Planificación y Cooperación. Podrá usar la sigla CONADI. Tendrá su domicilio y sede principal en la ciudad de Temuco.
 
-Existirán dos Subdirecciones Nacionales: una en la                   DFL 2, HACIENDA ciudad de Temuco para la VIII, IX, X y XIV Región, y                     Art. único a) otra en la ciudad de Iquique para la I, II y XV Región.                  D.O. 09.05.2008 La Subdirección Nacional de Temuco tendrá a su cargo una Dirección Regional con sede en Cañete para atender a la VIII Región, otra con sede en Valdivia para atender a la XIV Región y otra con sede en Osorno para atender a la X Región. La Subdirección Nacional de Iquique tendrá a su cargo la Dirección Regional de Arica y la Oficina de Asuntos Indígenas de San Pedro de Atacama. Existirán,
+Existirán dos Subdirecciones Nacionales: una en la ciudad de Temuco para la VIII, IX, X y XIV Región, y otra en la ciudad de Iquique para la I, II y XV Región. La Subdirección Nacional de Temuco tendrá a su cargo una Dirección Regional con sede en Cañete para atender a la VIII Región, otra con sede en Valdivia para atender a la XIV Región y otra con sede en Osorno para atender a la X Región. La Subdirección Nacional de Iquique tendrá a su cargo la Dirección Regional de Arica y la Oficina de Asuntos Indígenas de San Pedro de Atacama. Existirán,
+
+DFL 2, HACIENDA
+Art. único a)
+D.O. 09.05.2008
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -472,36 +506,36 @@ La Corporación Nacional de Desarrollo Indígena es el organismo encargado de pr
 
 Además le corresponderán las siguientes funciones:
 
-- Promover el reconocimiento y respeto de las etnias indígenas, de sus comunidades y de las personas que las integran, y su participación en la vida nacional;
+a) Promover el reconocimiento y respeto de las etnias indígenas, de sus comunidades y de las personas que las integran, y su participación en la vida nacional;
 
-- Promover las culturas e idiomas indígenas y sistemas de educación intercultural bilingüe en coordinación con el Ministerio de Educación;
+b) Promover las culturas e idiomas indígenas y sistemas de educación intercultural bilingüe en coordinación con el Ministerio de Educación;
 
-- Incentivar la participación y el desarrollo integral de la mujer indígena, en coordinación con el Servicio Nacional de la Mujer;
+c) Incentivar la participación y el desarrollo integral de la mujer indígena, en coordinación con el Servicio Nacional de la Mujer;
 
-- Asumir, cuando así se le solicite, la defensa jurídica de los indígenas y sus comunidades en conflictos sobre tierras y aguas y, ejercer las funciones de conciliación y arbitraje de acuerdo a lo establecido en esta ley;
+d) Asumir, cuando así se le solicite, la defensa jurídica de los indígenas y sus comunidades en conflictos sobre tierras y aguas y, ejercer las funciones de conciliación y arbitraje de acuerdo a lo establecido en esta ley;
 
-- Velar por la protección de las tierras indígenas a través de los mecanismos que establece esta ley y posibilitar a los indígenas y sus comunidades el acceso y ampliación de sus tierras y aguas a través del Fondo respectivo;
+e) Velar por la protección de las tierras indígenas a través de los mecanismos que establece esta ley y posibilitar a los indígenas y sus comunidades el acceso y ampliación de sus tierras y aguas a través del Fondo respectivo;
 
-- Promover la adecuada explotación de las tierras indígenas, velar por su equilibrio ecológico, por el desarrollo económico y social de sus habitantes a través del Fondo de Desarrollo Indígena y, en casos especiales, solicitar la declaración de Areas de Desarrollo Indígena de acuerdo a esta ley;
+f) Promover la adecuada explotación de las tierras indígenas, velar por su equilibrio ecológico, por el desarrollo económico y social de sus habitantes a través del Fondo de Desarrollo Indígena y, en casos especiales, solicitar la declaración de Areas de Desarrollo Indígena de acuerdo a esta ley;
 
-- Mantener un Registro de Comunidades y Asociaciones Indígenas y un Registro Público de Tierras Indígenas sin perjuicio de la legislación general de Registro de la Propiedad Raíz;
+g) Mantener un Registro de Comunidades y Asociaciones Indígenas y un Registro Público de Tierras Indígenas sin perjuicio de la legislación general de Registro de la Propiedad Raíz;
 
-- Actuar como árbitro frente a controversias que se susciten entre los miembros de alguna asociación indígena, relativas a la operación de la misma, pudiendo establecer amonestaciones, multas a la asociación e incluso llegar a su disolución. En tal caso, actuará como partidor sin instancia de apelación;
+h) Actuar como árbitro frente a controversias que se susciten entre los miembros de alguna asociación indígena, relativas a la operación de la misma, pudiendo establecer amonestaciones, multas a la asociación e incluso llegar a su disolución. En tal caso, actuará como partidor sin instancia de apelación;
 
-- Velar por la preservación y la difusión del patrimonio arqueológico, histórico y cultural de las etnias y promover estudios e investigaciones al respecto;
+i) Velar por la preservación y la difusión del patrimonio arqueológico, histórico y cultural de las etnias y promover estudios e investigaciones al respecto;
 
-- Sugerir al Presidente de la República los proyectos de reformas legales y administrativas necesarios para proteger los derechos de los indígenas, y
+j) Sugerir al Presidente de la República los proyectos de reformas legales y administrativas necesarios para proteger los derechos de los indígenas, y
 
-- Desarrollar todas las demás funciones establecidas en esta ley.
+k) Desarrollar todas las demás funciones establecidas en esta ley.
 
-- En el cumplimiento de sus objetivos, la Corporación podrá convenir con los Gobiernos Regionales y Municipalidades respectivos, la formulación de políticas y la realización de planes y proyectos destinados al desarrollo de las personas y comunidades indígenas.
+En el cumplimiento de sus objetivos, la Corporación podrá convenir con los Gobiernos Regionales y Municipalidades respectivos, la formulación de políticas y la realización de planes y proyectos destinados al desarrollo de las personas y comunidades indígenas.
 
 #### Artículo 40.-
 La Corporación podrá recibir del Fisco, a título gratuito, a través del Ministerio de Bienes Nacionales, de otros organismos públicos o de personas privadas, bienes raíces o derechos de agua para asignarlos a comunidades o personas indígenas en propiedad, uso o administración.
 
 Estas asignaciones se podrán realizar directamente o aplicando los mecanismos señalados en el Párrafo 2° del Título II de esta ley, según sea decidido por el Consejo Nacional de la Corporación, por los dos tercios de sus miembros en ejercicio.
 
-Las donaciones que la Corporación reciba de personas privadas no requerirán del trámite de insinuación y estarán exentas de toda contribución o impuesto.
+Las donaciones que la Corporación reciba de personas
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -509,18 +543,22 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 13]]
 
+privadas no requerirán del trámite de insinuación y estarán exentas de toda contribución o impuesto.
+
 ### Párrafo 2° De la Organización
 
 #### Artículo 41.-
 La dirección superior de la Corporación estará a cargo de un Consejo Nacional integrado por los siguientes miembros:
 
-- El Director Nacional de la Corporación, nombrado por el Presidente de la República, quien lo presidirá;
+a) El Director Nacional de la Corporación, nombrado por el Presidente de la República, quien lo presidirá;
 
-- Los Subsecretarios o su representante, especialmente nombrados para el efecto, de cada uno de los siguientes Ministerios: Secretaría General de Gobierno, de Planificación y Cooperación, de Agricultura, de Educación y de Bienes Nacionales;
+b) Los Subsecretarios o su representante, especialmente nombrados para el efecto, de cada uno de los siguientes Ministerios: Secretaría General de Gobierno, de Planificación y Cooperación, de Agricultura, de Educación y de Bienes Nacionales;
 
-- Tres consejeros designados por el Presidente de la República;
+c) Tres consejeros designados por el Presidente de la República;
 
-- Ocho representantes indígenas: cuatro mapuches,                   NOTA 5 un aimara, un atacameño, un rapa nui y uno con domicilio en un área urbana del territorio nacional. Estos serán designados, a propuesta de las Comunidades y Asociaciones Indígenas, por el Presidente de la República, conforme al reglamento que se dicte al efecto.
+d) Ocho representantes indígenas: cuatro mapuches, un aimara, un atacameño, un rapa nui y uno con domicilio en un área urbana del territorio nacional. Estos serán designados, a propuesta de las Comunidades y Asociaciones Indígenas, por el Presidente de la República, conforme al reglamento que se dicte al efecto.
+
+NOTA 5
 
 Los consejeros a que se refieren las letras a), b) y c) se mantendrán en sus cargos mientras cuenten con la confianza de la autoridad que los designó y, los de la letra d), durarán cuatro años a contar de la fecha de publicación del decreto de nombramiento, pudiendo ser reelegidos.
 
@@ -533,24 +571,24 @@ Ver el Decreto Supremo N° 464, del Ministerio de Planificación y Cooperación,
 #### Artículo 42.-
 Serán funciones y atribuciones del Consejo Nacional:
 
-- Definir la política de la institución y velar por su cumplimiento.
+a) Definir la política de la institución y velar por su cumplimiento.
 
-- Proponer el proyecto de presupuesto anual del Servicio. Si ello no ocurriere oportunamente el Ministro de Planificación y Cooperación procederá a presentarlo al Ministro de Hacienda.
+b) Proponer el proyecto de presupuesto anual del Servicio. Si ello no ocurriere oportunamente el Ministro de Planificación y Cooperación procederá a presentarlo al Ministro de Hacienda.
 
-- Aprobar los diferentes programas que tiendan al cumplimiento de los objetivos de la Corporación, evaluarlos y asegurar su ejecución.
+c) Aprobar los diferentes programas que tiendan al cumplimiento de los objetivos de la Corporación, evaluarlos y asegurar su ejecución.
 
-- Estudiar y proponer las reformas legales, reglamentarias y administrativas relativas a los indígenas o que les afecten directa o indirectamente.
+d) Estudiar y proponer las reformas legales, reglamentarias y administrativas relativas a los indígenas o que les afecten directa o indirectamente.
 
-- Sugerir a los diversos ministerios y reparticiones del Estado los planes y programas que estime conveniente aplicar y desarrollar en beneficio de los indígenas.
+e) Sugerir a los diversos ministerios y reparticiones del Estado los planes y programas que estime conveniente aplicar y desarrollar en beneficio de los indígenas.
 
-- Proponer al Ministerio de Planificación y Cooperación el establecimiento de áreas de desarrollo.
+f) Proponer al Ministerio de Planificación y Cooperación el establecimiento de áreas de desarrollo.
 
-- Decidir sobre todas las otras materias que la presente ley encomienda a este Consejo Nacional.
+g) Decidir sobre todas las otras materias que la presente ley encomienda a este Consejo Nacional.
 
 #### Artículo 43.-
 Para sesionar, y tomar acuerdos, el Consejo deberá contar con la presencia de la mayoría absoluta de sus miembros en ejercicio. Salvo que la ley exija un quórum distinto, sus acuerdos se adoptarán por simple mayoría. En caso de empate dirimirá el Director Nacional.
 
-- El Consejo Nacional se reunirá, a lo menos, trimestralmente. Los miembros que no sean funcionarios públicos, percibirán una dieta por cada sesión a la que asistan equivalente a 3 unidades tributarias mensuales y la Corporación les cancelará pasajes y
+El Consejo Nacional se reunirá, a lo menos, trimestralmente. Los miembros que no sean funcionarios públicos, percibirán una dieta por cada sesión a la que asistan equivalente a 3 unidades tributarias mensuales y la Corporación les cancelará pasajes y
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -565,47 +603,49 @@ La inasistencia de los consejeros individualizados en la letra d) del artículo 
 #### Artículo 44.-
 Un funcionario, con el título de Director Nacional, será el Jefe Superior del Servicio y tendrá las siguientes funciones y atribuciones:
 
-- Representar judicial y extrajudicialmente a la Corporación.
+a) Representar judicial y extrajudicialmente a la Corporación.
 
-- Fijar, con acuerdo del Consejo, la organización interna del Servicio y las demás funciones y atribuciones correspondientes a los cargos directivos, así como los departamentos y demás dependencias.
+b) Fijar, con acuerdo del Consejo, la organización interna del Servicio y las demás funciones y atribuciones correspondientes a los cargos directivos, así como los departamentos y demás dependencias.
 
-- Designar y poner término a los servicios de los funcionarios de la Corporación, de conformidad al Estatuto Administrativo.
+c) Designar y poner término a los servicios de los funcionarios de la Corporación, de conformidad al Estatuto Administrativo.
 
-- Preparar el proyecto de presupuesto anual de la Corporación para su sanción por el Consejo.
+d) Preparar el proyecto de presupuesto anual de la Corporación para su sanción por el Consejo.
 
-- Ejecutar el presupuesto anual de la Corporación.
+e) Ejecutar el presupuesto anual de la Corporación.
 
-- Informar al Consejo sobre la marcha de las actividades de la Corporación y someter a su consideración los planes y proyectos específicos.
+f) Informar al Consejo sobre la marcha de las actividades de la Corporación y someter a su consideración los planes y proyectos específicos.
 
-- Supervigilar las Oficinas de Asuntos Indígenas de Santiago, Isla de Pascua y Punta Arenas y apoyar las asociaciones indígenas de las regiones no cubiertas por las Subdirecciones.
+g) Supervigilar las Oficinas de Asuntos Indígenas de Santiago, Isla de Pascua y Punta Arenas y apoyar las asociaciones indígenas de las regiones no cubiertas por las Subdirecciones.
 
-- Suscribir toda clase de actos y contratos sobre bienes muebles e inmuebles, corporales e incorporales.
+h) Suscribir toda clase de actos y contratos sobre bienes muebles e inmuebles, corporales e incorporales.
 
-- Desempeñar las demás funciones generales o específicas necesarias para el logro de los objetivos de la Corporación.
+i) Desempeñar las demás funciones generales o específicas necesarias para el logro de los objetivos de la Corporación.
 
-- En caso de ausencia, el Director Nacional será subrogado por el Fiscal.
+En caso de ausencia, el Director Nacional será subrogado por el Fiscal.
 
 ### Párrafo 3° De las Subdirecciones Nacionales, de las Direcciones Regionales y de las Oficinas de Asuntos Indígenas
 
 #### Artículo 45.-
 Las Subdirecciones Nacionales serán las encargadas de orientar y ejecutar, descentralizadamente, la acción de la Corporación en favor de las personas, agrupaciones y Comunidades Indígenas dentro de su respectivo ámbito. Estarán a cargo de un Subdirector Nacional que será asesorado por un Consejo Indígena.
 
-- Son funciones y atribuciones de los Subdirectores Nacionales: a) Asumir la representación judicial o extrajudicial de la Corporación en el ámbito de su jurisdicción.
+Son funciones y atribuciones de los Subdirectores Nacionales:
 
-- Designar y poner término a los servicios de los funcionarios de la Subdirección, Direcciones Regionales y Oficinas de Asuntos Indígenas que de él dependan, previa ratificación del Director Nacional, de conformidad al Estatuto Administrativo.
+a) Asumir la representación judicial o extrajudicial de la Corporación en el ámbito de su jurisdicción.
 
-- Someter al Consejo Nacional, por medio del Director, la aprobación de planes y programas de desarrollo indígena para su ejecución en el ámbito de la Subdirección.
+b) Designar y poner término a los servicios de los funcionarios de la Subdirección, Direcciones Regionales y Oficinas de Asuntos Indígenas que de él dependan, previa ratificación del Director Nacional, de conformidad al Estatuto Administrativo.
 
-- Ejecutar los planes y programas aprobados por la Corporación en el ámbito de su jurisdicción, pudiendo, al efecto, suscribir todos los actos y contratos necesarios para su eficaz cumplimiento.
+c) Someter al Consejo Nacional, por medio del Director, la aprobación de planes y programas de desarrollo indígena para su ejecución en el ámbito de la Subdirección.
 
-- Proponer al Director Nacional el presupuesto anual para la Subdirección.
+d) Ejecutar los planes y programas aprobados por la Corporación en el ámbito de su jurisdicción, pudiendo, al efecto, suscribir todos los actos y contratos necesarios para su eficaz cumplimiento.
 
-- Representar a la Corporación, en materias de su competencia, ante las autoridades públicas en sus respectivas regiones.
+e) Proponer al Director Nacional el presupuesto anual para la Subdirección.
 
-- Desempeñar las demás funciones que esta ley les encomienda.
+f) Representar a la Corporación, en materias de su competencia, ante las autoridades públicas en sus respectivas regiones.
+
+g) Desempeñar las demás funciones que esta ley les encomienda.
 
 #### Artículo 46.-
-En cada Subdirección existirá un Consejo Indígena que cumplirá funciones de participación y consulta. Los integrantes de estos Consejos no percibirán remuneración por el ejercicio de sus funciones. Serán nombrados mediante resolución del Subdirector Nacional oyendo a las comunidades y asociaciones indígenas con domicilio en la o las regiones que comprenda el territorio jurisdiccional de la respectiva Subdirección.
+En cada Subdirección existirá un Consejo
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -613,35 +653,43 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 15]]
 
-- El Consejo será presidido por el respectivo Subdirector y tendrá las siguientes funciones y atribuciones:
+Indígena que cumplirá funciones de participación y consulta. Los integrantes de estos Consejos no percibirán remuneración por el ejercicio de sus funciones. Serán nombrados mediante resolución del Subdirector Nacional oyendo a las comunidades y asociaciones indígenas con domicilio en la o las regiones que comprenda el territorio jurisdiccional de la respectiva Subdirección.
 
-- Analizar las acciones, planes y programas que la Corporación ejecute en su jurisdicción.
+El Consejo será presidido por el respectivo Subdirector y tendrá las siguientes funciones y atribuciones:
 
-- Hacer las sugerencias que estime conveniente, en especial, aquellas destinadas a coordinar la acción de los órganos del Estado en función del desarrollo indígena.
+a) Analizar las acciones, planes y programas que la Corporación ejecute en su jurisdicción.
 
-- Sugerir mecanismos de participación de los indígenas.
+b) Hacer las sugerencias que estime conveniente, en especial, aquellas destinadas a coordinar la acción de los órganos del Estado en función del desarrollo indígena.
 
-- Dar su opinión sobre todas aquellas materias que sean sometidas a su conocimiento.
+c) Sugerir mecanismos de participación de los indígenas.
 
-- El Presidente de la República reglamentará el período de duración de los consejeros indígenas, los requisitos que deberán cumplir, las causas de cesación en el cargo, las fórmulas de reemplazo y toda otra norma que permita el expedito funcionamiento de este órgano de participación y consulta.
+d) Dar su opinión sobre todas aquellas materias que sean sometidas a su conocimiento.
+
+El Presidente de la República reglamentará el período de duración de los consejeros indígenas, los requisitos que deberán cumplir, las causas de cesación en el cargo, las fórmulas de reemplazo y toda otra norma que permita el expedito funcionamiento de este órgano de participación y consulta.
 
 #### Artículo 47.-
 Son funciones y atribuciones de los Directores Regionales:
 
-- Asumir la representación judicial o extrajudicial de la Corporación en el ámbito de su jurisdicción, con expresa autorización del Subdirector.
+a) Asumir la representación judicial o extrajudicial de la Corporación en el ámbito de su jurisdicción, con expresa autorización del Subdirector.
 
-- Someter al Consejo Regional, por medio del Subdirector, la aprobación de planes y programas de desarrollo indígena para su ejecución en el ámbito de su jurisdicción.
+b) Someter al Consejo Regional, por medio del Subdirector, la aprobación de planes y programas de desarrollo indígena para su ejecución en el ámbito de su jurisdicción.
 
-- Ejecutar los planes y programas aprobados por la Corporación en el ámbito de su jurisdicción.
+c) Ejecutar los planes y programas aprobados por la Corporación en el ámbito de su jurisdicción.
 
-- Proponer al Subdirector el presupuesto anual para la Dirección Regional.
+d) Proponer al Subdirector el presupuesto anual para la Dirección Regional.
 
-- Representar a la Corporación, en materias de su competencia, ante las autoridades públicas en su respectiva región.
+e) Representar a la Corporación, en materias de su competencia, ante las autoridades públicas en su respectiva región.
 
-- Desempeñar las demás funciones que esta ley establece. El Director Regional podrá organizar un Consejo Indígena de carácter asesor.
+f) Desempeñar las demás funciones que esta ley establece.
+
+El Director Regional podrá organizar un Consejo Indígena de carácter asesor.
 
 #### Artículo 48.-
-Los Jefes de Oficina, en el ámbito de su jurisdicción, asumirán las funciones y atribuciones que expresamente les sean delegadas por el Director Nacional, en el caso de las Oficinas de Santiago, Isla de Pascua y Punta Arenas, o por el Subdirector Nacional de Iquique, en el caso de la Oficina de San Pedro de                     DFL 2, HACIENDA Atacama, sin perjuicio de las funciones propias                          Art. único b) contempladas en el Título VIII.                                          D.O. 09.05.2008
+Los Jefes de Oficina, en el ámbito de su jurisdicción, asumirán las funciones y atribuciones que expresamente les sean delegadas por el Director Nacional, en el caso de las Oficinas de Santiago, Isla de Pascua y Punta Arenas, o por el Subdirector Nacional de Iquique, en el caso de la Oficina de San Pedro de Atacama, sin perjuicio de las funciones propias contempladas en el Título VIII.
+
+DFL 2, HACIENDA
+Art. único b)
+D.O. 09.05.2008
 
 #### Artículo 49.-
 Los Subdirectores Nacionales, Directores Regionales o Jefes de Oficina, en su caso, asesorarán y colaborarán con los respectivos Intendentes en todas las materias propias de la competencia de la Corporación que deban resolverse en los ámbitos jurisdiccionales respectivos.
@@ -651,11 +699,11 @@ Los Subdirectores Nacionales, Directores Regionales o Jefes de Oficina, en su ca
 #### Artículo 50.-
 El patrimonio de la Corporación estará compuesto por:
 
-- Los recursos que le asigne anualmente la Ley de Presupuestos de la Nación y todo otro que se le asigne en conformidad a la ley.
+a) Los recursos que le asigne anualmente la Ley de Presupuestos de la Nación y todo otro que se le asigne en conformidad a la ley.
 
-- Los aportes reembolsables y no reembolsables de la cooperación internacional.
+b) Los aportes reembolsables y no reembolsables de la cooperación internacional.
 
-- Los bienes muebles o inmuebles que reciba o adquiera a
+c) Los bienes muebles o inmuebles que reciba o adquiera a
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -663,7 +711,13 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 16]]
 
-cualquier título y los frutos de tales bienes. d) Las herencias, legados y donaciones que reciba. e) Todo otro bien o aporte que le sea asignado por ley. Las donaciones a favor de la Corporación no requerirán del trámite de insinuación judicial a que se refiere el artículo 1.401 del Código Civil y estarán exentas de toda contribución o impuesto.
+cualquier título y los frutos de tales bienes.
+
+d) Las herencias, legados y donaciones que reciba.
+
+e) Todo otro bien o aporte que le sea asignado por ley.
+
+Las donaciones a favor de la Corporación no requerirán del trámite de insinuación judicial a que se refiere el artículo 1.401 del Código Civil y estarán exentas de toda contribución o impuesto.
 
 #### Artículo 51.-
 La Corporación se regirá por las normas de la ley de Administración Financiera del Estado y contará, anualmente, además del presupuesto de la planta del personal, administración, inversión, operación y programas, con recursos especiales para los Fondos de Tierras y Aguas Indígenas y de Desarrollo Indígena de que trata esta ley.
@@ -673,37 +727,48 @@ La Corporación se regirá por las normas de la ley de Administración Financier
 #### Artículo 52.-
 Fíjase la siguiente planta de personal de la Corporación Nacional de Desarrollo Indígena:
 
-Planta/Cargo                     Grado     N° de cargos                 NOTA
+Planta/Cargo | Grado E.U.S. | N° de cargos
+NOTA
 
-Planta/Cargo | Grado | N° de cargos E.U.S.
---- | --- | ---
 Director Nacional | 2 | 1
-PLANTA DE DIRECTIVOS Subdirectores Nacionales | 3 | 2
+PLANTA DE DIRECTIVOS
+Subdirectores Nacionales | 3 | 2
 Fiscal | 3 | 1
-Directores Regionales (Cañete, Osorno) Jefe de Departamento | 5 | 2
-(Fondo de Desarrollo) Jefe de Departamento | 6 | 1
-(Fondo de Tierras) Jefe de Departamento | 6 | 1
-(Administrativo) Jefes de Oficina | 6 | 1
-(Arica, San Pedro de Atacama, Isla de Pascua, Santiago, Punta Arenas) | 7 | 5
-Jefe de Sección | 9 | 1 ----
-PLANTA DE PROFESIONALES Profesionales | 5 | 2
+Directores Regionales (Cañete, Osorno) | 5 | 2
+Jefe de Departamento (Fondo de Desarrollo) | 6 | 1
+Jefe de Departamento (Fondo de Tierras) | 6 | 1
+Jefe de Departamento (Administrativo) | 6 | 1
+Jefes de Oficina (Arica, San Pedro de Atacama, Isla de Pascua, Santiago, Punta Arenas) | 7 | 5
+Jefe de Sección | 9 | 1
+----
+15
+PLANTA DE PROFESIONALES
+Profesionales | 5 | 2
+Profesionales | 7 | 5
 Profesionales | 8 | 11
-Profesionales
 Profesionales | 9 | 3
-Profesionales | 10 12 | 4 2
----- 27
-PLANTA DE TECNICOS Técnicos | 10 12 14 | 5 3
-Técnicos Técnicos Técnicos | 18 | 4 3
-PLANTA DE ADMINISTRATIVOS Administrativos Administrativos | 14 16 | ---- 15 4
-Administrativos | 17 | 4 2
+Profesionales | 10 | 4
+Profesionales | 12 | 2
+----
+27
+PLANTA DE TECNICOS
+Técnicos | 10 | 5
+Técnicos | 12 | 3
+Técnicos | 14 | 4
+Técnicos | 18 | 3
+----
+15
+PLANTA DE ADMINISTRATIVOS
+Administrativos | 14 | 4
+Administrativos | 16 | 4
+Administrativos | 17 | 2
 Administrativos | 18 | 3
-Administrativos | 20
-Administrativos | 2
-23 | 2
-PLANTA DE | ---- 17
-AUXILIARES
-Auxiliares | 19
-2
+Administrativos | 20 | 2
+Administrativos | 23 | 2
+----
+17
+PLANTA DE AUXILIARES
+Auxiliares | 19 | 2
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -712,11 +777,12 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 [[START OF PAGE 17]]
 
 Auxiliar | 20 | 1
---- | --- | ---
 Auxiliares | 22 | 3
 Auxiliares | 23 | 6
 Auxiliares | 25 | 2
+----
 14
+----
 TOTAL GENERAL | 88
 
 ##### REQUISITOS
@@ -797,7 +863,7 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 - 7.- Vencido el término probatorio, de oficio o a petición de parte, el Tribunal remitirá a la Dirección copia del expediente y de la prueba instrumental que pudiera estar guardada en custodia.
 
-- La Corporación Nacional de Desarrollo Indígena, dentro del plazo de quince días de recibidos los antecedentes, evacuará un informe jurídico, técnico y socio-económico acerca de la cuestión debatida adjuntando, si fuere el caso, los instrumentos fundantes que se estimen pertinentes. Este informe será suscrito por el Director de la Corporación haciéndose responsable de su autenticidad.
+La Corporación Nacional de Desarrollo Indígena, dentro del plazo de quince días de recibidos los antecedentes, evacuará un informe jurídico, técnico y socio-económico acerca de la cuestión debatida adjuntando, si fuere el caso, los instrumentos fundantes que se estimen pertinentes. Este informe será suscrito por el Director de la Corporación haciéndose responsable de su autenticidad.
 
 - 8.- El Tribunal dictará sentencia dentro del plazo de treinta días contados desde la fecha que haya recibido el informe de la Corporación. Además de contener las referencias generales a toda sentencia, deberá considerar lo dispuesto en el párrafo primero de este título.
 
@@ -855,11 +921,11 @@ Estas disposiciones se aplicarán a otras comunidades indígenas del norte del p
 #### Artículo 63.-
 La Corporación, en los procesos de saneamiento y constitución de la propiedad de las comunidades señaladas en este párrafo, deberá salvaguardar los siguientes tipos de dominio:
 
-- Tierras de propiedad de indígenas individualmente considerados, que por lo general comprenden la casa habitación y terrenos de cultivo y forrajes;
+a) Tierras de propiedad de indígenas individualmente considerados, que por lo general comprenden la casa habitación y terrenos de cultivo y forrajes;
 
-- Tierras de propiedad de la Comunidad Indígena constituida en conformidad con esta ley y correspondientes, por lo general, a pampas y laderas de cultivo rotativas.
+b) Tierras de propiedad de la Comunidad Indígena constituida en conformidad con esta ley y correspondientes, por lo general, a pampas y laderas de cultivo rotativas.
 
-- Tierras patrimoniales de propiedad de varias Comunidades Indígenas, tales como pastizales, bofedales, cerros, vegas y otras de uso del ganado auquénido.
+c) Tierras patrimoniales de propiedad de varias Comunidades Indígenas, tales como pastizales, bofedales, cerros, vegas y otras de uso del ganado auquénido.
 
 #### Artículo 64.-
 Se deberá proteger especialmente las aguas de las comunidades Aimaras y Atacameñas. Serán considerados bienes de propiedad y uso de la Comunidad Indígena establecida por esta ley, las aguas que se encuentren en los terrenos de la comunidad, tales como los ríos, canales, acequias y vertientes, sin perjuicio de los derechos que terceros hayan inscrito de conformidad al Codigo General de Aguas.
@@ -872,7 +938,11 @@ La Corporación, sin perjuicio de lo establecido en las normas del Fondo de Tier
 ### Párrafo 3° Disposiciones Particulares Complementarias Referidas a la Etnia Rapa Nui o Pascuense
 
 #### Artículo 66.-
-Son rapa nui o pascuenses los miembros                LEY 19587 de la comunidad originaria de Isla de Pascua y los                       Art. único Nº 1° provenientes de ella, que cumplan con los requisitos                     D.O. 13.11.1998 exigidos por las letras a) o b) del artículo 2º. Reconócese que esta Comunidad posee sistemas de vida
+Son rapa nui o pascuenses los miembros de la comunidad originaria de Isla de Pascua y los provenientes de ella, que cumplan con los requisitos exigidos por las letras a) o b) del artículo 2º. Reconócese que esta Comunidad posee sistemas de vida
+
+LEY 19587
+Art. único N° 1°
+D.O. 13.11.1998
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
@@ -889,11 +959,15 @@ Créase la Comisión de Desarrollo de Isla de Pascua que tendrá las siguientes 
 
 - 2.- Cumplir las funciones y atribuciones que el decreto ley N° 2.885, de 1979, entrega a la Comisión de Radicaciones. En el cumplimiento de estas funciones y atribuciones, deberá considerar los requisitos establecidos en el Título I del decreto ley referido y, además, los siguientes criterios:
 
-- Analizar las necesidades de tierras de la                        LEY 19587 población rapa nui o pascuense.                                          Art. único Nº 2°
+a) Analizar las necesidades de tierras de la población rapa nui o pascuense.
 
-- Evaluar el aporte que dichas tierras hacen al                    D.O. 13.11.1998 desarrollo de Isla de Pascua y la comunidad rapa nui o pascuense.
+b) Evaluar el aporte que dichas tierras hacen al desarrollo de Isla de Pascua y la comunidad rapa nui o pascuense.
 
-- Fomentar la riqueza cultural y arqueológica de Isla de Pascua;
+c) Fomentar la riqueza cultural y arqueológica de Isla de Pascua;
+
+LEY 19587
+Art. único N° 2°
+D.O. 13.11.1998
 
 - 3.- Formular y ejecutar en su caso, programas, proyectos y planes de desarrollo tendientes a elevar el nivel de vida de la comunidad rapa nui o pascuense, conservar su cultura, preservar y mejorar el medio ambiente y los recursos naturales existentes en Isla de Pascua;
 
@@ -904,7 +978,9 @@ Créase la Comisión de Desarrollo de Isla de Pascua que tendrá las siguientes 
 - 6.- Preparar convenios con personas e instituciones nacionales y extranjeras para el cumplimiento de los objetivos precedentes.
 
 #### Artículo 68.-
-La Comisión de Desarrollo de Isla de                   NOTA 6 Pascua estará integrada por un representante de los Ministerios de Planificación y Cooperación, Educación, Bienes Nacionales y Defensa Nacional; por un representante de la Corporación de Fomento de la Producción, otro de la Corporación Nacional Forestal y otro de la Corporación Nacional de Desarrollo Indígena; el Gobernador de Isla de Pascua; el Alcalde de Isla de Pascua, y por seis miembros de la comunidad rapa nui o pascuense elegidos de conformidad al reglamento que se dicte al efecto, uno de los cuales deberá ser el Presidente del Consejo de Ancianos. Presidirá esta Comisión el Gobernador y actuará como Secretario Técnico el Jefe de la Oficina de Asuntos Indígenas de Isla de Pascua.
+La Comisión de Desarrollo de Isla de Pascua estará integrada por un representante de los Ministerios de Planificación y Cooperación, Educación, Bienes Nacionales y Defensa Nacional; por un representante de la Corporación de Fomento de la Producción, otro de la Corporación Nacional Forestal y otro de la Corporación Nacional de Desarrollo Indígena; el Gobernador de Isla de Pascua; el Alcalde de Isla de Pascua, y por seis miembros de la comunidad rapa nui o pascuense elegidos de conformidad al reglamento que se dicte al efecto, uno de los cuales deberá ser el Presidente del Consejo de Ancianos. Presidirá esta Comisión el Gobernador y actuará como Secretario Técnico el Jefe de la Oficina de Asuntos Indígenas de Isla de Pascua.
+
+NOTA 6
 
 ##### NOTA:  6
 
@@ -919,7 +995,11 @@ www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[START OF PAGE 22]]
 
-La Comisión podrá, en relación con los miembros                     LEY 19587 de la comunidad rapa nui o pascuense, estudiar y                         Art. único Nº 3º proponer al Ministerio de Bienes Nacionales la entrega                   D.O. 13.11.1998 gratuita de tierras fiscales en dominio, concesión u otras formas de uso, acorde con la tradición de esta etnia y con el ordenamiento territorial que se determine para la Isla de Pascua. Estos podrán reclamar dentro de los 120 días siguientes de haber tomado conocimiento de la resolución, ante la Comisión de Desarrollo de la Isla de Pascua solicitando la reconsideración de la medida la que será conocida y resuelta dentro del mismo plazo contado desde la fecha de su presentación. De esta resolución podrá reclamarse ante el Juzgado respectivo de conformidad al procedimiento establecido en el artículo 56 de esta ley.
+La Comisión podrá, en relación con los miembros de la comunidad rapa nui o pascuense, estudiar y proponer al Ministerio de Bienes Nacionales la entrega gratuita de tierras fiscales en dominio, concesión u otras formas de uso, acorde con la tradición de esta etnia y con el ordenamiento territorial que se determine para la Isla de Pascua. Estos podrán reclamar dentro de los 120 días siguientes de haber tomado conocimiento de la resolución, ante la Comisión de Desarrollo de la Isla de Pascua solicitando la reconsideración de la medida la que será conocida y resuelta dentro del mismo plazo contado desde la fecha de su presentación. De esta resolución podrá reclamarse ante el Juzgado respectivo de conformidad al procedimiento establecido en el artículo 56 de esta ley.
+
+LEY 19587
+Art. único N° 3°
+D.O. 13.11.1998
 
 En todo caso tanto las tierras asignadas a personas de la comunidad rapa nui o pascuense en virtud de textos legales anteriores a la presente ley, cuanto las que se asignen de conformidad a este párrafo, se considerarán tierras indígenas de aquéllas contempladas en el N° 4 del artículo 12, rigiendo a su respecto las disposiciones que les son aplicables en esta ley, con excepción de la facultad de permutarlas contenida en el inciso tercero del artículo 13.
 
@@ -956,13 +1036,13 @@ La Corporación tendrá a su cargo la realización de un plan especial para el d
 #### Artículo 74.-
 La Corporación, en relación con los indígenas de los canales australes, procurará:
 
-- Estimular la participación de ellos en los planes y programas que les atañen.
+a) Estimular la participación de ellos en los planes y programas que les atañen.
 
-- Obtener su reasentamiento en sus lugares de origen u otros apropiados.
+b) Obtener su reasentamiento en sus lugares de origen u otros apropiados.
 
-- Establecer zonas especiales de pesca y caza y áreas de extracción racional de elementos necesarios para su supervivencia y desarrollo.
+c) Establecer zonas especiales de pesca y caza y áreas de extracción racional de elementos necesarios para su supervivencia y desarrollo.
 
-- Conservar su lengua e identidad.
+d) Conservar su lengua e identidad.
 
 ### Párrafo 5°
 
@@ -987,22 +1067,24 @@ Derógase la ley N° 17.729 y sus modificaciones posteriores, el N° 4 del artí
 #### Artículo 79.-
 Introdúcense al decreto ley N° 2.885, de 1979, las siguientes modificaciones:
 
-- Derógase el inciso primero del artículo 6°; el inciso primero del artículo 11 y el artículo 15.
+a) Derógase el inciso primero del artículo 6°; el inciso primero del artículo 11 y el artículo 15.
 
-- Sustitúyese en el inciso primero del artículo 2°, en el inciso segundo del artículo 2° y en el inciso primero del artículo 4° las expresiones "Dirección de Tierras y Bienes Nacionales", "Dirección" y "Dirección de Fronteras y Límites del Estado", por "Comisión de Desarrollo de Isla de Pascua", respectivamente.
+b) Sustitúyese en el inciso primero del artículo 2°, en el inciso segundo del artículo 2° y en el inciso primero del artículo 4° las expresiones "Dirección de Tierras y Bienes Nacionales", "Dirección" y "Dirección de Fronteras y Límites del Estado", por "Comisión de Desarrollo de Isla de Pascua", respectivamente.
 
-- Reemplázanse en el artículo 10 las expresiones "el Presidente de la República" y "del Presidente de la República" por "la Comisión de Desarrollo de Isla de Pascua" o "de la Comisión de Desarrollo de Isla de Pascua", según corresponda.
+c) Reemplázanse en el artículo 10 las expresiones "el Presidente de la República" y "del Presidente de la República" por "la Comisión de Desarrollo de Isla de Pascua" o "de la Comisión de Desarrollo de Isla de Pascua", según corresponda.
 
-- Otórgase un nuevo plazo de cinco años, contado desde la fecha de caducidad del plazo señalado en la ley N° 18.797, de 1989, para que los actuales poseedores de tierras de Isla de Pascua ejerzan el derecho a que se refiere el artículo 7° del decreto ley N° 2.885, de 1979.
+d) Otórgase un nuevo plazo de cinco años, contado desde la fecha de caducidad del plazo señalado en la ley N° 18.797, de 1989, para que los actuales poseedores de tierras de Isla de Pascua ejerzan el derecho a que se refiere el artículo 7° del decreto ley N° 2.885, de 1979.
 
 #### Artículo 80.-
-Los reglamentos a que se refieren los artículos 20 y 23 de la presente ley, deberán dictarse mediante uno o más decretos del Ministerio de Planificación y Cooperación los que deberán ser suscritos, además, por el Ministro de Hacienda.
+Los reglamentos a que se refieren los
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+artículos 20 y 23 de la presente ley, deberán dictarse mediante uno o más decretos del Ministerio de Planificación y Cooperación los que deberán ser suscritos, además, por el Ministro de Hacienda.
 
 ## DISPOSICIONES TRANSITORIAS
 
@@ -1028,13 +1110,15 @@ Las Asociaciones Gremiales y Organizaciones Comunitarias Funcionales vigentes a 
 Tratándose de Asociaciones Gremiales, la Corporación oficiará al Ministerio de Economía, Fomento y Reconstrucción de los casos presentados para ser cancelados en el Registro de Asociaciones Gremiales que posee esa repartición. Tratándose de Organizaciones Comunitarias Funcionales, la Corporación oficiará a la Municipalidad respectiva para que sea cancelado su registro pertinente.
 
 #### Artículo 6°.-
-Los bienes muebles e inmuebles de propiedad fiscal, actualmente destinados tanto al funcionamiento de la Comisión Especial de Pueblos Indígenas como al Departamento de Asuntos Indígenas del Instituto de Desarrollo Agropecuario, se transferirán en dominio a la Corporación Nacional de Desarrollo Indígena.
+Los bienes muebles e inmuebles de propiedad fiscal, actualmente destinados tanto al funcionamiento de la Comisión Especial de Pueblos Indígenas como al Departamento de Asuntos Indígenas del Instituto de Desarrollo Agropecuario, se
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+transferirán en dominio a la Corporación Nacional de Desarrollo Indígena.
 
 Mediante decreto supremo expedido por intermedio del Ministerio Secretaría General de Gobierno o Ministerio de Agricultura en su caso, se determinarán los bienes referidos que comprenderán los que figuren en el inventario de ambas dependencias del año 1992.
 
@@ -1063,16 +1147,18 @@ El Presidente de la República designará, por una sola vez, los consejeros a qu
 b) Los Consejeros no indígenas se nombrarán de acuerdo a lo estipulado en esta ley y por una sola vez durarán también seis meses en sus cargos.
 
 #### Artículo 11.-
-Dentro de los tres primeros meses posteriores a la publicación de esta ley se dictará un Reglamento para determinar la colaboración de la Comisión de Desarrollo de Isla de Pascua en la administración del Parque Nacional de Isla de Pascua.
+Dentro de los tres primeros meses posteriores
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+a la publicación de esta ley se dictará un Reglamento para determinar la colaboración de la Comisión de Desarrollo de Isla de Pascua en la administración del Parque Nacional de Isla de Pascua.
 
 #### Artículo 12.-
-Suprímese la Comisión de Radicaciones                  VER NOTA 6 creada por el decreto ley N° 2.885, de 1979. Sus funciones y atribuciones serán ejercidas por la Comisión de Desarrollo de Isla de Pascua, de conformidad a lo dispuesto en el Párrafo 3° del Título VIII de esta ley y las referencias que a la Comisión de Radicaciones se hagan en cualquier texto legal se entenderán hechas a la Comisión de Desarrollo de Isla de Pascua.
+Suprímese la Comisión de Radicaciones creada por el decreto ley N° 2.885, de 1979. Sus funciones y atribuciones serán ejercidas por la Comisión de Desarrollo de Isla de Pascua, de conformidad a lo dispuesto en el Párrafo 3° del Título VIII de esta ley y las referencias que a la Comisión de Radicaciones se hagan en cualquier texto legal se entenderán hechas a la Comisión de Desarrollo de Isla de Pascua.
+VER NOTA 6
 
 Un reglamento determinará la forma de realizar el traspaso de archivos y documentos de la Comisión de Radicaciones a la Comision de Desarrollo de Isla de Pascua.
 
@@ -1095,14 +1181,15 @@ Nueva Imperial, 28 de septiembre de 1993.- PATRICIO AYLWIN AZOCAR, Presidente de
 Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud.- Carlos Fuensalida Claro, Subsecretario de Planificación y Cooperación.
 
 # Tribunal Constitucional
-## Proyecto de ley que establece normas sobre protección y desarrollo de los indígenas
-El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de la constitucionalidad de los siguientes artículos: 16; 17 -inciso tercero-; 19; 38; 41; 42; 43; 44; 45; 46; 48; 49; 52; 56; 57; y 59 permanentes, y 1°; 7° y 10 transitorios, y que por sentencia de 24 de septiembre de 1993, declaró: 1. Que las normas establecidas en los artículos 16; 17, inciso tercero; 19, inciso tercero; 38; 41, incisos primero y tercero; 42; 43, inciso tercero; 44; 45; 48; 56, inciso primero, en la parte que establece: "Las cuestiones a que diere lugar el dominio, posesión, división, administración, explotación, uso y goce de tierras indígenas, y los actos y contratos que se refieran o incidan en ellas, y en que sean parte o tengan interés indígenas, serán resueltas por el Juez de Letras competente en la comuna donde se encontrare ubicado el inmueble", y su numeral 9; 59; inciso segundo del artículo 1° transitorio; inciso primero del artículo 7° transitorio, en la parte que establece: "Suprímese, en el Instituto de Desarrollo Agropecuario, el Departamento de Asuntos Indígenas. Veinte funcionarios de ese Departamento pasarán a desempeñarse como titulares de cargos de la Corporación y serán individualizados mediante uno o más decretos supremos emanados del Ministro de Planificación y Cooperación y del Ministro de Hacienda, sin sujeción a las normas de la ley N° 18.834; en ningún caso, este traslado podrá significar disminución de sus remuneraciones. Cualquier diferencia de remuneraciones que se produzca será pagada por la planilla suplementaria, la que será reajustable e imponible en la misma forma en que lo sean las remuneraciones que compensa y que absorberá por futuras promociones.", y la parte del inciso segundo que dispone: "El traspaso de personal a que se refiere el inciso anterior, se dispondrá sin solución de continuidad y no será considerado, para efecto legal alguno, como causal de término de los servicios.", del proyecto de ley remitido, son constitucionales. 2. Que no corresponde al Tribunal pronunciarse sobre los incisos primero y segundo del artículo 19; inciso segundo del artículo 41; inciso primero y segundo del artículo 43; artículo 46; artículo 49; artículo 52; artículo 56, inciso primero, a partir de la oración "de conformidad con las disposiciones de los Libros I y II del Código de Procedimiento Civil, de acuerdo a las siguientes normas:", y los numerales que siguen a continuación, excepto el numeral 9; artículo 57; inciso primero del artículo 1° transitorio; la última oración del inciso primero, y la última oración del inciso segundo del artículo 7° transitorio; y artículo 10 transitorio del proyecto remitido, por versar sobre materias que no son propias de ley orgánica constitucional. Santiago, Septiembre 27 de 1993.- Rafael Larraín Cruz, Secretario.
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+## Proyecto de ley que establece normas sobre protección y desarrollo de los indígenas
+El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de la constitucionalidad de los siguientes artículos: 16; 17 -inciso tercero-; 19; 38; 41; 42; 43; 44; 45; 46; 48; 49; 52; 56; 57; y 59 permanentes, y 1°; 7° y 10 transitorios, y que por sentencia de 24 de septiembre de 1993, declaró: 1. Que las normas establecidas en los artículos 16; 17, inciso tercero; 19, inciso tercero; 38; 41, incisos primero y tercero; 42; 43, inciso tercero; 44; 45; 48; 56, inciso primero, en la parte que establece: "Las cuestiones a que diere lugar el dominio, posesión, división, administración, explotación, uso y goce de tierras indígenas, y los actos y contratos que se refieran o incidan en ellas, y en que sean parte o tengan interés indígenas, serán resueltas por el Juez de Letras competente en la comuna donde se encontrare ubicado el inmueble", y su numeral 9; 59; inciso segundo del artículo 1° transitorio; inciso primero del artículo 7° transitorio, en la parte que establece: "Suprímese, en el Instituto de Desarrollo Agropecuario, el Departamento de Asuntos Indígenas. Veinte funcionarios de ese Departamento pasarán a desempeñarse como titulares de cargos de la Corporación y serán individualizados mediante uno o más decretos supremos emanados del Ministro de Planificación y Cooperación y del Ministro de Hacienda, sin sujeción a las normas de la ley N° 18.834; en ningún caso, este traslado podrá significar disminución de sus remuneraciones. Cualquier diferencia de remuneraciones que se produzca será pagada por la planilla suplementaria, la que será reajustable e imponible en la misma forma en que lo sean las remuneraciones que compensa y que absorberá por futuras promociones.", y la parte del inciso segundo que dispone: "El traspaso de personal a que se refiere el inciso anterior, se dispondrá sin solución de continuidad y no será considerado, para efecto legal alguno, como causal de término de los servicios.", del proyecto de ley remitido, son constitucionales. 2. Que no corresponde al Tribunal pronunciarse sobre los incisos primero y segundo del artículo 19; inciso segundo del artículo 41; inciso primero y segundo del artículo 43; artículo 46; artículo 49; artículo 52; artículo 56, inciso primero, a partir de la oración "de conformidad con las disposiciones de los Libros I y II del Código de Procedimiento Civil, de acuerdo a las siguientes normas:", y los numerales que siguen a continuación, excepto el numeral 9; artículo 57; inciso primero del artículo 1° transitorio; la última oración del inciso primero, y la última oración del inciso segundo del artículo 7° transitorio; y artículo 10 transitorio del proyecto remitido, por versar sobre materias que no son propias de ley orgánica constitucional. Santiago, Septiembre 27 de 1993.- Rafael Larraín Cruz, Secretario.
 
 www.bcn.cl - Biblioteca del Congreso Nacional de Chile
 
