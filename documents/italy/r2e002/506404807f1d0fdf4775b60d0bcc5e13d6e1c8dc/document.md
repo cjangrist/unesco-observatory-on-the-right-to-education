@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-Ministero dell'Istruzione, dell' Università e della Ricerca
+Ministero dell'Istruzione, dell'Università e della Ricerca
 
 # Indicazioni nazionali per il curricolo della scuola dell'infanzia e del primo ciclo d'istruzione
 
@@ -16,17 +16,17 @@ Le presenti Indicazioni nazionali sono state elaborate ai sensi dell'articolo 1,
 
 Hanno collaborato alla stesura di questo documento:
 
-Il nucleo redazionale : Giancarlo Cerini, Paolo Mazzoli, Damiano Previtali, Maria Rosa Silvestro.
+Il nucleo redazionale: Giancarlo Cerini, Paolo Mazzoli, Damiano Previtali, Maria Rosa Silvestro.
 
-I  consulenti esperti :  Eraldo  Affinati,  Maria  Arcà,  Daniela  Bertocchi,  Giorgio  Bolondi,  Antonio Brusa, Giancarlo Cerini, Federico Corni, Stefania Cotoneschi, Gino De Vecchis, Rossella Garuti, Gisella Langé, Ivo Mattozzi, Paolo Mazzoli,  Monica Oppici, Raffaela Paggi, Damiano Previtali, Enrica Ricciardi, Guglielmo Rispoli, Maria Rosa Silvestro.
+I consulenti esperti: Eraldo Affinati, Maria Arcà, Daniela Bertocchi, Giorgio Bolondi, Antonio Brusa, Giancarlo Cerini, Federico Corni, Stefania Cotoneschi, Gino De Vecchis, Rossella Garuti, Gisella Langé, Ivo Mattozzi, Paolo Mazzoli, Monica Oppici, Raffaela Paggi, Damiano Previtali, Enrica Ricciardi, Guglielmo Rispoli, Maria Rosa Silvestro.
 
-Altri esperti consultati :  Rosa Calò, Andrea Ceciliani, Sergio Cicatelli, Elita Maule, Angelo Raffaele Meo, Marco Mezzalama, Ermanno Morello, Marco Pedrelli, Simonetta Polato, Gian Carlo Sacchi, Andrea Sassoli, Paolo Seclì, Maria  Teresa Spinosi, Benedetta Toni, Rita Zanotto.
+Altri esperti consultati: Rosa Calò, Andrea Ceciliani, Sergio Cicatelli, Elita Maule, Angelo Raffaele Meo, Marco Mezzalama, Ermanno Morello, Marco Pedrelli, Simonetta Polato, Gian Carlo Sacchi, Andrea Sassoli, Paolo Seclì, Maria Teresa Spinosi, Benedetta Toni, Rita Zanotto.
 
 Un ringraziamento particolare per gli autorevoli suggerimenti ai professori: Luigi Berlinguer, Tullio De Mauro, Francesco Sabatini.
 
-Lucrezia Stellacci , Capo dipartimento per l'Istruzione.
+Lucrezia Stellacci, Capo dipartimento per l'Istruzione.
 
-Carmela Palumbo , Direttore generale, direzione per gli ordinamenti scolastici e l'autonomia scolastica.
+Carmela Palumbo, Direttore generale, direzione per gli ordinamenti scolastici e l'autonomia scolastica.
 
 _______________
 
@@ -40,6 +40,49 @@ Un ringraziamento particolare ai professori Mauro Ceruti e Italo Fiorin, rispett
 
 ## INDICE
 
+CULTURA SCUOLA PERSONA.......................................................................................................4
+La scuola nel nuovo scenario...........................................................................................................4
+Centralità della persona....................................................................................................................5
+Per una nuova cittadinanza ..............................................................................................................6
+Per un nuovo umanesimo.................................................................................................................7
+FINALITÀ GENERALI ......................................................................................................................9
+Scuola, Costituzione, Europa...........................................................................................................9
+Profilo dello studente .....................................................................................................................10
+L'ORGANIZZAZIONE DEL CURRICOLO....................................................................................12
+Dalle Indicazioni al curricolo.........................................................................................................12
+Aree disciplinari e discipline..........................................................................................................12
+Continuità ed unitarietà del curricolo.............................................................................................12
+Traguardi per lo sviluppo delle competenze ..................................................................................13
+Obiettivi di apprendimento ............................................................................................................13
+Valutazione ....................................................................................................................................13
+Certificazione delle competenze ....................................................................................................14
+Una scuola di tutti e di ciascuno ....................................................................................................14
+Comunità educativa, comunità professionale, cittadinanza...........................................................14
+LA SCUOLA DELL'INFANZIA......................................................................................................16
+I bambini, le famiglie, i docenti, l'ambiente di apprendimento.....................................................16
+I campi di esperienza......................................................................................................................18
+Il sé e l'altro ...............................................................................................................................18
+Il corpo e il movimento..............................................................................................................19
+Immagini, suoni, colori ..............................................................................................................20
+I discorsi e le parole ...................................................................................................................21
+La conoscenza del mondo..........................................................................................................21
+Dalla scuola dell'infanzia alla scuola primaria ..............................................................................23
+LA SCUOLA DEL PRIMO CICLO..................................................................................................24
+Il senso dell'esperienza educativa..................................................................................................24
+L'alfabetizzazione culturale di base...............................................................................................24
+Cittadinanza e Costituzione ...........................................................................................................25
+L'ambiente di apprendimento ........................................................................................................26
+Italiano .......................................................................................................................................28
+Lingua inglese e seconda lingua comunitaria ............................................................................37
+Storia ..........................................................................................................................................41
+Geografia....................................................................................................................................46
+Matematica.................................................................................................................................49
+Scienze .......................................................................................................................................54
+Musica........................................................................................................................................58
+Arte e immagine.........................................................................................................................60
+Educazione fisica .......................................................................................................................63
+Tecnologia..................................................................................................................................66
+
 3
 
 [[END OF PAGE 3]]
@@ -50,23 +93,23 @@ Un ringraziamento particolare ai professori Mauro Ceruti e Italo Fiorin, rispett
 
 ### La scuola nel nuovo scenario
 
-In un tempo molto breve, abbiamo vissuto il passaggio da una società relativamente stabile a una società caratterizzata da molteplici cambiamenti e discontinuità. Questo nuovo scenario è ambivalente: per ogn i persona, per ogni comunità, per ogni società si moltiplicano sia i rischi che le opportunità.
+In un tempo molto breve, abbiamo vissuto il passaggio da una società relativamente stabile a una società caratterizzata da molteplici cambiamenti e discontinuità. Questo nuovo scenario è ambivalente: per ogni persona, per ogni comunità, per ogni società si moltiplicano sia i rischi che le opportunità.
 
-Gli ambienti in cui la scuola è immersa sono più ri cchi di stimoli culturali, ma anche più contraddittori. Oggi l'apprendimento scolastico è solo una delle ta nte esperienze di formazione che i bambini 1 e gli adolescenti vivono e per acquisire competenze specifiche spesso non vi è bisogno dei contesti scolastici. M a proprio per questo la scuola non può abdicare al compito di promuovere la capacità degli studenti di dare senso alla varietà delle loro esperienze, al fine di ridurre la frammentazione e il carattere episodico che rischiano di caratterizzare la vita dei bambini e degli adolescenti.
+Gli ambienti in cui la scuola è immersa sono più ricchi di stimoli culturali, ma anche più contraddittori. Oggi l'apprendimento scolastico è solo una delle tante esperienze di formazione che i bambini 1 e gli adolescenti vivono e per acquisire competenze specifiche spesso non vi è bisogno dei contesti scolastici. Ma proprio per questo la scuola non può abdicare al compito di promuovere la capacità degli studenti di dare senso alla varietà delle loro esperienze, al fine di ridurre la frammentazione e il carattere episodico che rischiano di caratterizzare la vita dei bambini e degli adolescenti.
 
-Il paesaggio educativo è diventato estremamente com plesso. Le funzioni educative sono meno definite di quando è sorta la scuola pubblica. In particolare v i è un'attenuazione della capacità adulta di presid io delle regole e del senso del limite e sono, così, diventa ti più faticosi i processi di identificazione e differenziazione da parte di chi cresce e anche i compiti della scuola in quanto luogo dei diritti di ognuno e delle regole condivise. Sono anche mutate le forme della socialità spontanea, dello stare insieme e crescere tra bambini e ragazzi. La scuola è perciò investita da una domanda  che comprende, insieme, l'apprendimento e 'il saper stare al mondo'. E per potere assolvere al meglio alle sue funzioni istituzionali, la scuola è da tempo c hiamata a occuparsi anche di altre delicate dimensioni dell'educazione. L'intesa tra adulti non è più scontata e  implica la faticosa costruzione di un'interazione tra le famiglie e la scuola, cui tocca, ciascuno con il proprio ruolo, esplicitare e condividere i comuni intenti educativi.
+Il paesaggio educativo è diventato estremamente complesso. Le funzioni educative sono meno definite di quando è sorta la scuola pubblica. In particolare vi è un'attenuazione della capacità adulta di presidio delle regole e del senso del limite e sono, così, diventati più faticosi i processi di identificazione e differenziazione da parte di chi cresce e anche i compiti della scuola in quanto luogo dei diritti di ognuno e delle regole condivise. Sono anche mutate le forme della socialità spontanea, dello stare insieme e crescere tra bambini e ragazzi. La scuola è perciò investita da una domanda che comprende, insieme, l'apprendimento e 'il saper stare al mondo'. E per potere assolvere al meglio alle sue funzioni istituzionali, la scuola è da tempo chiamata a occuparsi anche di altre delicate dimensioni dell'educazione. L'intesa tra adulti non è più scontata e implica la faticosa costruzione di un'interazione tra le famiglie e la scuola, cui tocca, ciascuno con il proprio ruolo, esplicitare e condividere i comuni intenti educativi.
 
-Inoltre l'orizzonte territoriale della scuola si allarga. Ogni specifico territorio possiede legami con le varie aree del mondo e con ciò stesso costituisce un microcosmo che su scala locale riproduce opportunità, interazioni, tensioni, convivenze globali. Anche ogni singola persona, nella sua esperienza quotidiana, deve tener conto di informazioni sempre più numerose ed eterogenee e si confronta con la pluralità delle culture. Nel suo itinerario formativo ed esistenziale lo studente si trova a interagire con culture diverse, senza tuttavia avere strumenti adatti per comprenderle e metterle in relazione con la propria. Alla scuola spetta il compito di fornire supporti adeguati affinché ogni persona svi luppi un'identità consapevole e aperta.
+Inoltre l'orizzonte territoriale della scuola si allarga. Ogni specifico territorio possiede legami con le varie aree del mondo e con ciò stesso costituisce un microcosmo che su scala locale riproduce opportunità, interazioni, tensioni, convivenze globali. Anche ogni singola persona, nella sua esperienza quotidiana, deve tener conto di informazioni sempre più numerose ed eterogenee e si confronta con la pluralità delle culture. Nel suo itinerario formativo ed esistenziale lo studente si trova a interagire con culture diverse, senza tuttavia avere strumenti adatti per comprenderle e metterle in relazione con la propria. Alla scuola spetta il compito di fornire supporti adeguati affinché ogni persona sviluppi un'identità consapevole e aperta.
 
-La piena attuazione del riconoscimento e della garanzia della libertà e dell'uguaglianza (articoli 2 e 3 della Costituzione), nel rispetto delle differenze di tutti e dell'identità di ciascuno, richiede oggi, in modo ancor più attento e mirato, l'impegno dei docenti e di tutti gli operatori della scuola, con particolare attenzione alle disabilità e ad ogni fragilità, ma richiede altresì  la collaborazione delle formazioni sociali, in una nuova dimensione di integrazione fra scuola e territorio, per far sì che ognuno possa 'svolgere, secondo le pr oprie possibilità e la propria scelta, un'attività o una funzione che concorra al progresso materiale e spirituale della società' (articolo 4 della Costituzione).
+La piena attuazione del riconoscimento e della garanzia della libertà e dell'uguaglianza (articoli 2 e 3 della Costituzione), nel rispetto delle differenze di tutti e dell'identità di ciascuno, richiede oggi, in modo ancor più attento e mirato, l'impegno dei docenti e di tutti gli operatori della scuola, con particolare attenzione alle disabilità e ad ogni fragilità, ma richiede altresì la collaborazione delle formazioni sociali, in una nuova dimensione di integrazione fra scuola e territorio, per far sì che ognuno possa 'svolgere, secondo le proprie possibilità e la propria scelta, un'attività o una funzione che concorra al progresso materiale e spirituale della società' (articolo 4 della Costituzione).
 
-Una molteplicità di culture e di lingue sono entrate nella scuola. L'intercultura è già oggi il modell o che permette a tutti i bambini e ragazzi il riconoscimento reciproco e dell'identità di ciascuno. A centocinquanta anni dall'Unità, l'Italiano è diventata la lingua c omune di chi nasce e cresce in Italia al di là della cittadinanza italiana o straniera. La scuola raccoglie con successo una sfida universale, di apertura verso il mondo, di pratica dell'uguaglianza nel riconoscimento delle differenze.
+Una molteplicità di culture e di lingue sono entrate nella scuola. L'intercultura è già oggi il modello che permette a tutti i bambini e ragazzi il riconoscimento reciproco e dell'identità di ciascuno. A centocinquanta anni dall'Unità, l'Italiano è diventata la lingua comune di chi nasce e cresce in Italia al di là della cittadinanza italiana o straniera. La scuola raccoglie con successo una sfida universale, di apertura verso il mondo, di pratica dell'uguaglianza nel riconoscimento delle differenze.
 
 In questa situazione di grande ricchezza formativa sono presenti, al contempo, vecchie e nuove forme di emarginazione culturale e di analfabetismo. Queste si intrecciano con analfabetismi di ritorno, che rischiano di impedire a molti l'esercizio di una piena cittadinanza.
 
-La diffusione delle tecnologie di informazione e di comunicazione è una grande opportunità e rappresen ta la frontiera decisiva per la scuola. Si tratta di una rivoluzione epocale, non riconducibile a un semplice aumento dei mezzi implicati nell'apprendimento. La scuola non ha più il monopolio delle informazioni e dei modi di apprendere. Le discipline e le vaste aree di cerniera tra le discipline sono tutte accessibili ed esplorate  in  mille  forme  attraverso  risorse  in  continua  evoluzione.  Sono  chiamati in causa l'organizzazione  della memoria, la presenza simultanea di molti e diversi codici, la compresenza di procedure logiche e analogiche, la relazione immediata tra progettazione, operatività, controllo, tra fruizione e produzione.
+La diffusione delle tecnologie di informazione e di comunicazione è una grande opportunità e rappresenta la frontiera decisiva per la scuola. Si tratta di una rivoluzione epocale, non riconducibile a un semplice aumento dei mezzi implicati nell'apprendimento. La scuola non ha più il monopolio delle informazioni e dei modi di apprendere. Le discipline e le vaste aree di cerniera tra le discipline sono tutte accessibili ed esplorate in mille forme attraverso risorse in continua evoluzione. Sono chiamati in causa l'organizzazione della memoria, la presenza simultanea di molti e diversi codici, la compresenza di procedure logiche e analogiche, la relazione immediata tra progettazione, operatività, controllo, tra fruizione e produzione.
 
-Dunque il 'fare scuola' oggi significa mettere in relazione la complessità di modi radicalmente nuovi di apprendimento  con  un'opera  quotidiana  di  guida,  attenta  al  metodo,  ai  nuovi  media  e  alla  ricerca  multidimensionale. Al contempo significa curare e consolidare le competenze e i saperi di base, che sono irrinunciabili perché sono le fondamenta per l'uso consape vole del sapere diffuso e perché rendono precocemen te effettiva ogni possibilità di apprendimento nel corso della vita. E poiché le relazioni con gli strume nti informatici sono tuttora assai diseguali fra gli studenti come fra gli insegnanti il lavoro di apprendimento e riflessione dei docenti e di attenzione alla diversità di accesso ai nuovi media diventa di decisiva rilevanza.
+Dunque il 'fare scuola' oggi significa mettere in relazione la complessità di modi radicalmente nuovi di
 
 > 1 Nel testo si troveranno sempre termini quali: 'bambini, adolescenti, alunni, allievi, studenti, …'. Si sollecita il lettore a considerare tale scelta semplicemente una semplificazione di scrittura, mentre nell'azione educativa bisognerà considerare la persona nella sua peculiarità e specificità, anche di genere.
 
@@ -75,12 +118,13 @@ Dunque il 'fare scuola' oggi significa mettere in relazione la complessità di m
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+apprendimento con un'opera quotidiana di guida, attenta al metodo, ai nuovi media e alla ricerca multidimensionale. Al contempo significa curare e consolidare le competenze e i saperi di base, che sono irrinunciabili perché sono le fondamenta per l'uso consapevole del sapere diffuso e perché rendono precocemente effettiva ogni possibilità di apprendimento nel corso della vita. E poiché le relazioni con gli strumenti informatici sono tuttora assai diseguali fra gli studenti come fra gli insegnanti il lavoro di apprendimento e riflessione dei docenti e di attenzione alla diversità di accesso ai nuovi media diventa di decisiva rilevanza.
 
-Anche le relazioni fra il sistema formativo e il mondo del lavoro stanno rapidamente cambiando. Ogni persona si trova nella ricorrente necessità di riorganizzare e reinventare i propri saperi, le proprie competenze e persino il proprio stesso lavoro. Le tecniche e le competenze diventano obsolete nel volgere di pochi anni. Per questo l'obiettivo della scuola non può essere soprattutto quello di inseguire lo sviluppo di singole tecniche e competenze; piuttosto, è quello di formare sa ldamente ogni persona sul piano cognitivo e culturale, affinché possa affrontare positivamente l'incertezza  e la mutevolezza degli scenari sociali e professionali, presenti e futuri. Le trasmissioni standardizzate e normative delle conoscenze, che comunicano contenuti invarianti pensati per individui medi, non sono più adeguate. Al contrario, la scuola è chiamata a realizz are percorsi formativi sempre più rispondenti alle inclinazioni personali degli studenti, nella prospettiva di valorizzare gli aspetti peculiari della personalità di ognuno.
+Anche le relazioni fra il sistema formativo e il mondo del lavoro stanno rapidamente cambiando. Ogni persona si trova nella ricorrente necessità di riorganizzare e reinventare i propri saperi, le proprie competenze e persino il proprio stesso lavoro. Le tecniche e le competenze diventano obsolete nel volgere di pochi anni. Per questo l'obiettivo della scuola non può essere soprattutto quello di inseguire lo sviluppo di singole tecniche e competenze; piuttosto, è quello di formare saldamente ogni persona sul piano cognitivo e culturale, affinché possa affrontare positivamente l'incertezza e la mutevolezza degli scenari sociali e professionali, presenti e futuri. Le trasmissioni standardizzate e normative delle conoscenze, che comunicano contenuti invarianti pensati per individui medi, non sono più adeguate. Al contrario, la scuola è chiamata a realizzare percorsi formativi sempre più rispondenti alle inclinazioni personali degli studenti, nella prospettiva di valorizzare gli aspetti peculiari della personalità di ognuno.
 
 In tale scenario, alla scuola spettano alcune finalità specifiche: offrire agli studenti occasioni di apprendimento dei saperi e dei linguaggi culturali di base; far sì che gli studenti acquisiscano gli strumenti  di pensiero necessari per apprendere a selezionare le informazioni; promuovere negli studenti la capacità di elaborare metodi e categorie che siano in grado di fare da bussola negli itinerari personali; favorire l'autonomia di pensiero  degli  studenti,  orientando  la  propria  didattica  alla  costruzione  di  saperi  a  partire  da  concreti  bisogni formativi.
 
-La scuola realizza appieno la propria funzione pubblica impegnandosi, in questa prospettiva, per il successo scolastico di tutti gli studenti, con una particolare attenzione al sostegno delle varie forme di diversità, di disabilità o di svantaggio. Questo comporta saper accettare la sfida che la diversità pone: innanzi tutto nella classe, dove le diverse situazioni individuali vanno riconosciute e valorizzate, evitando che la differenza si trasformi in disuguaglianza; inoltre nel Paese, affinché le situazioni di svantaggio sociale, economic he, culturali non impediscano il raggiungimento degli essenziali obiettivi di qualità che è doveroso garantire.
+La scuola realizza appieno la propria funzione pubblica impegnandosi, in questa prospettiva, per il successo scolastico di tutti gli studenti, con una particolare attenzione al sostegno delle varie forme di diversità, di disabilità o di svantaggio. Questo comporta saper accettare la sfida che la diversità pone: innanzi tutto nella classe, dove le diverse situazioni individuali vanno riconosciute e valorizzate, evitando che la differenza si trasformi in disuguaglianza; inoltre nel Paese, affinché le situazioni di svantaggio sociale, economiche, culturali non impediscano il raggiungimento degli essenziali obiettivi di qualità che è doveroso garantire.
 
 In entrambi i casi con la finalità sancita dalla nostra Costituzione di garantire e di promuovere la dignità e l'uguaglianza di tutti gli studenti 'senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali' e impegnandosi a rimuovere gli ostacoli di qualsiasi natura che possano impedire 'il pieno sviluppo della persona umana'.
 
@@ -92,29 +136,30 @@ Lo studente è posto al centro dell'azione educativa  in tutti i suoi aspetti: c
 
 Sin dai primi anni di scolarizzazione è importante che i docenti definiscano le loro proposte in una relazione costante con i bisogni fondamentali e i desideri dei bambini e degli adolescenti. È altrettanto  importante valorizzare simbolicamente i momenti di passaggio che segnano le tappe principali di apprendimento e di crescita di ogni studente.
 
-Particolare cura è necessario dedicare alla formazi one della classe come gruppo, alla promozione dei legami cooperativi fra i suoi componenti, alla gestione degli inevitabili conflitti indotti dalla socializzazione. La scuola si deve costruire come luogo accogliente, coinvolgendo in questo compito gli studenti stessi. Sono, infatti, importanti le condizioni che favoriscono lo star bene a scuola, al fine di ottenere la partecipazione più ampia dei bambini e degli adolescenti a un progetto educativo condiviso. La formazione di importanti legami di gruppo non contraddice la scelta di porre la persona al centro dell'azione educativa, ma è al contr ario condizione indispensabile per lo sviluppo della personalità di ognuno.
+Particolare cura è necessario dedicare alla formazione della classe come gruppo, alla promozione dei legami cooperativi fra i suoi componenti, alla gestione degli inevitabili conflitti indotti dalla socializzazione. La scuola si deve costruire come luogo accogliente, coinvolgendo in questo compito gli studenti stessi. Sono, infatti, importanti le condizioni che favoriscono lo star bene a scuola, al fine di ottenere la partecipazione più ampia dei bambini e degli adolescenti a un progetto educativo condiviso. La formazione di importanti legami di gruppo non contraddice la scelta di porre la persona al centro dell'azione educativa, ma è al contrario condizione indispensabile per lo sviluppo della personalità di ognuno.
 
-La scuola deve porre le basi del percorso formativo dei bambini e degli adolescenti sapendo che esso proseguirà in tutte le fasi successive della vita. In tal modo la scuola fornisce le chiavi per apprendere ad apprendere, per costruire e per trasformare le mappe dei saperi rendendole continuamente coerenti con la rapida e spesso imprevedibile evoluzione delle conoscenze e dei loro oggetti. Si tratta di elaborare gli strumenti di conoscenza necessari per comprendere i contesti naturali, sociali, culturali, antropologici nei quali gli studenti si troveranno a vivere e a operare.
+La scuola deve porre le basi del percorso formativo dei bambini e degli adolescenti sapendo che esso pro-
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+seguirà in tutte le fasi successive della vita. In tal modo la scuola fornisce le chiavi per apprendere ad apprendere, per costruire e per trasformare le mappe dei saperi rendendole continuamente coerenti con la rapida e spesso imprevedibile evoluzione delle conoscenze e dei loro oggetti. Si tratta di elaborare gli strumenti di conoscenza necessari per comprendere i contesti naturali, sociali, culturali, antropologici nei quali gli studenti si troveranno a vivere e a operare.
 
 ### Per una nuova cittadinanza
 
 La  scuola  persegue  una  doppia  linea  formativa:  verticale  e  orizzontale.  La  linea  verticale  esprime l'esigenza di impostare una formazione che possa poi continuare lungo l'intero arco della vita; quella orizzontale indica la necessità di un'attenta collaborazione fra la scuola e gli attori extrascolastici con funzioni a vario titolo educative: la famiglia in primo luogo.
 
-Insegnare le regole del vivere e del convivere è pe r la scuola un compito oggi ancora più ineludibile rispetto al passato, perché sono molti i casi nei qua li le famiglie incontrano difficoltà più o meno grandi nello svolgere il loro ruolo educativo.
+Insegnare le regole del vivere e del convivere è per la scuola un compito oggi ancora più ineludibile rispetto al passato, perché sono molti i casi nei quali le famiglie incontrano difficoltà più o meno grandi nello svolgere il loro ruolo educativo.
 
-La scuola non può interpretare questo compito come semplice risposta a un'emergenza. Non è opportuno trasformare le sollecitazioni che le provengono da vari ambiti della società in un moltiplicarsi di microprogetti che investano gli aspetti più disparati della vita degli studenti, con l'intento di definire norme di comportamento specifiche per ogni situazione. L'obiettivo non è di accompagnare passo dopo passo lo stude nte nella quotidianità di tutte le sue esperienze, bensì di proporre un'educazione che lo spinga a fare sc elte autonome e feconde, quale risultato di un confronto continuo della sua progettualità con i valori che orientano la società in cui vive.
+La scuola non può interpretare questo compito come semplice risposta a un'emergenza. Non è opportuno trasformare le sollecitazioni che le provengono da vari ambiti della società in un moltiplicarsi di microprogetti che investano gli aspetti più disparati della vita degli studenti, con l'intento di definire norme di comportamento specifiche per ogni situazione. L'obiettivo non è di accompagnare passo dopo passo lo studente nella quotidianità di tutte le sue esperienze, bensì di proporre un'educazione che lo spinga a fare scelte autonome e feconde, quale risultato di un confronto continuo della sua progettualità con i valori che orientano la società in cui vive.
 
 La scuola perseguirà costantemente l'obiettivo di costruire un'alleanza educativa con i genitori. Non si tratta di rapporti da stringere solo in momenti critici, ma di relazioni costanti che riconoscano i reciproci ruoli e che si supportino vicendevolmente nelle comuni finalità educative.
 
-La  scuola  si  apre  alle  famiglie  e  al territorio  circostante,  facendo  perno  sugli  strumenti  forniti dall'autonomia scolastica, che prima di essere un insieme di norme è un modo di concepire il rapporto delle scuole  con  le  comunità  di  appartenenza,  locali  e  nazionali.  L'acquisizione  dell'autonomia  rappresenta  un momento decisivo per le istituzioni scolastiche. Grazie a essa si è già avviato un processo di sempre  maggiore responsabilizzazione condiviso dai docenti e dai dirigenti, che favorisce altresì la stretta connes sione di ogni scuola con il suo territorio.
+La scuola si apre alle famiglie e al territorio circostante, facendo perno sugli strumenti forniti dall'autonomia scolastica, che prima di essere un insieme di norme è un modo di concepire il rapporto delle scuole con le comunità di appartenenza, locali e nazionali. L'acquisizione dell'autonomia rappresenta un momento decisivo per le istituzioni scolastiche. Grazie a essa si è già avviato un processo di sempre maggiore responsabilizzazione condiviso dai docenti e dai dirigenti, che favorisce altresì la stretta connessione di ogni scuola con il suo territorio.
 
-In quanto comunità educante, la scuola genera una diffusa convivialità relazionale, intessuta di linguaggi affettivi  ed  emotivi,  e  è  anche  in  grado  di  promuov ere  la  condivisione  di  quei  valori  che  fanno  sentire  i membri  della  società  come  parte  di  una  comunità  vera  e  propria.  La  scuola  affianca  al  compito 'dell'insegnare ad apprendere' quello 'dell'insegnare a essere'.
+In quanto comunità educante, la scuola genera una diffusa convivialità relazionale, intessuta di linguaggi affettivi ed emotivi, e è anche in grado di promuovere la condivisione di quei valori che fanno sentire i membri della società come parte di una comunità vera e propria. La scuola affianca al compito 'dell'insegnare ad apprendere' quello 'dell'insegnare a essere'.
 
 L'obiettivo è quello di valorizzare l'unicità e la  singolarità dell'identità culturale di ogni studente. La presenza di bambini e adolescenti con radici culturali diverse è un fenomeno ormai strutturale e non può  più essere considerato episodico: deve trasformarsi in un'opportunità per tutti. Non basta riconoscere e conservare le diversità preesistenti, nella loro pura e semplice autonomia. Bisogna, invece, sostenere attivamente la loro interazione e la loro integrazione attraverso la conoscenza della nostra e delle altre culture, in un confronto che non eluda questioni quali le convinzioni religiose, i ruoli familiari, le differenze di genere.
 
@@ -122,41 +167,43 @@ La promozione e lo sviluppo di ogni persona stimola in maniera vicendevole la pr
 
 Il  sistema educativo deve formare cittadini in grado di partecipare consapevolmente alla costruzione di collettività più ampie e composite, siano esse quella nazionale, quella europea, quella mondiale. Non dobbiamo dimenticare che fino a tempi assai recenti la scuola ha avuto il compito di formare cittadini nazionali attraverso una cultura omogenea. Oggi, invece, può porsi il compito più ampio di educare alla convivenza proprio attraverso la valorizzazione delle diverse identità e radici culturali di ogni studente. La finalità è una cittadinanza che certo permane coesa e vincolata ai valori fondanti della tradizione nazionale, ma che può essere alimentata da una varietà di espressioni ed esperienze personali molto più ricca che in passato.
 
-Per educare a questa cittadinanza unitaria e plurale a un tempo, una via privilegiata è proprio la con oscenza e la trasmissione delle nostre tradizioni e memorie nazionali: non si possono realizzare appieno le possibilità del presente senza una profonda memoria e condivisione delle radici storiche. A tal fine sarà indispensabile una piena valorizzazione dei beni culturali presenti sul territorio nazionale, proprio per arricchire l'esperienza quotidiana dello studente con culture materiali, espressioni artistiche, idee, valori che sono il lascito vitale di altri tempi e di altri luoghi.
+Per educare a questa cittadinanza unitaria e plurale a un tempo, una via privilegiata è proprio la conoscenza e la trasmissione delle nostre tradizioni e memorie nazionali: non si possono realizzare appieno le possibilità del presente senza una profonda memoria e condivisione delle radici storiche. A tal fine sarà indispensabile una piena valorizzazione dei beni culturali presenti sul territorio nazionale, proprio per arricchire l'esperienza quotidiana dello studente con culture materiali, espressioni artistiche, idee, valori che sono il lascito
 
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+vitale di altri tempi e di altri luoghi.
 
-La nostra scuola, inoltre, deve formare cittadini italiani che siano nello stesso tempo cittadini dell'Europa e del mondo. I problemi più importanti che oggi toccano il nostro continente e l'umanità tutta intera non possono essere affrontati e risolti all'interno dei confini nazionali tradizionali, ma solo attraverso la comprensione di far parte di grandi tradizioni comuni, di un'unica comunità di destino europea così come di un'u nica comunità di destino planetaria. Perché gli studenti  acquisiscano una tale comprensione, è necessario c he la scuola li aiuti a mettere in relazione le molteplici esperienze culturali emerse nei diversi spazi e nei diversi tempi  della  storia  europea  e  della  storia  dell'umanità.  La  scuola  è  luogo  in  cui  il  presente  è  elabora to nell'intreccio tra passato e futuro, tra memoria e progetto.
+La nostra scuola, inoltre, deve formare cittadini italiani che siano nello stesso tempo cittadini dell'Europa e del mondo. I problemi più importanti che oggi toccano il nostro continente e l'umanità tutta intera non possono essere affrontati e risolti all'interno dei confini nazionali tradizionali, ma solo attraverso la comprensione di far parte di grandi tradizioni comuni, di un'unica comunità di destino europea così come di un'unica comunità di destino planetaria. Perché gli studenti acquisiscano una tale comprensione, è necessario che la scuola li aiuti a mettere in relazione le molteplici esperienze culturali emerse nei diversi spazi e nei diversi tempi della storia europea e della storia dell'umanità. La scuola è luogo in cui il presente è elaborato nell'intreccio tra passato e futuro, tra memoria e progetto.
 
 ### Per un nuovo umanesimo
 
 Le relazioni fra il microcosmo personale e il macrocosmo dell'umanità e del pianeta oggi devono essere intese  in  un  duplice  senso.  Da  un  lato  tutto  ciò  che  accade  nel  mondo  influenza  la  vita  di  ogni  persona; dall'altro, ogni persona tiene nelle sue stesse mani una responsabilità unica e singolare nei confronti del futuro dell'umanità.
 
-La scuola può e deve educare a questa consapevolezza e a questa responsabilità i bambini e gli adolescenti, in tutte le fasi della loro formazione. A questo scopo il bisogno di conoscenze degli studenti non si soddisfa con il semplice accumulo di tante informazioni in vari campi, ma solo con il pieno dominio dei singoli ambiti  disciplinari  e,  contemporaneamente,  con  l'elaborazione  delle  loro  molteplici  connessioni.  È  qui ndi decisiva una nuova alleanza fra scienza, storia, discipline umanistiche, arti e tecnologia, in grado di delineare la prospettiva di un nuovo umanesimo.
+La scuola può e deve educare a questa consapevolezza e a questa responsabilità i bambini e gli adolescenti, in tutte le fasi della loro formazione. A questo scopo il bisogno di conoscenze degli studenti non si soddisfa con il semplice accumulo di tante informazioni in vari campi, ma solo con il pieno dominio dei singoli ambiti disciplinari e, contemporaneamente, con l'elaborazione delle loro molteplici connessioni. È quindi decisiva una nuova alleanza fra scienza, storia, discipline umanistiche, arti e tecnologia, in grado di delineare la prospettiva di un nuovo umanesimo.
 
 In tale prospettiva, la scuola potrà perseguire alcuni obiettivi, oggi prioritari:
 
--  insegnare  a  ricomporre  i  grandi  oggetti  della  conoscenza  -  l'universo,  il  pianeta,  la  natura,  la  vita, l'umanità, la società,  il  corpo,  la  mente,  la  storia  -  in  una  prospettiva  complessa,  volta  cioè  a  supe rare  la frammentazione delle discipline e a integrarle in nuovi quadri d'insieme.
+- insegnare a ricomporre i grandi oggetti della conoscenza - l'universo, il pianeta, la natura, la vita, l'umanità, la società, il corpo, la mente, la storia - in una prospettiva complessa, volta cioè a superare la frammentazione delle discipline e a integrarle in nuovi quadri d'insieme.
 
 - promuovere i saperi propri di un nuovo umanesimo: la capacità di cogliere gli aspetti essenziali dei problemi; la capacità di comprendere le implicazioni, per la condizione umana, degli inediti sviluppi delle scienze e delle tecnologie; la capacità di valutare i limiti e le possibilità delle conoscenze; la capacità di vivere e di agire in un mondo in continuo cambiamento.
 
 - diffondere la consapevolezza che i grandi problemi dell'attuale condizione umana (il degrado ambientale,  il  caos  climatico,  le  crisi  energetiche,  la  distribuzione  ineguale  delle  risorse,  la  salute  e  la  malattia, l'incontro e il confronto di culture e di religioni, i dilemmi bioetici, la ricerca di una nuova qualità della vita) possono essere affrontati e risolti attraverso una stretta collaborazione non solo fra le nazioni, ma anche fra le discipline e fra le culture.
 
-Tutti  questi  obiettivi  possono  essere  realizzati  sin  dalle  prime  fasi  della  formazione  degli  alunni. L'esperimento, la manipolazione, il gioco, la narrazione, le espressioni artistiche e musicali sono infatti altrettante occasioni privilegiate per apprendere per via pratica quello che successivamente dovrà essere fatto oggetto di più elaborate conoscenze teoriche e sperimentali. Nel contempo, lo studio dei contesti storici, sociali, culturali nei quali si sono sviluppate le conoscenze è condizione di una loro piena comprension e. Inoltre, le esperienze personali che i bambini e gli adolescenti hanno degli aspetti a loro prossimi della natura, della cultura, della società e della storia sono una via di accesso importante per la sensibilizzazione ai problemi più generali e per la conoscenza di orizzonti più estesi nello spazio e nel tempo. Ma condizione indispensabile per raggiungere questo obiettivo è ricos truire insieme agli studenti le coordinate spaziali e temporali necessarie per comprendere la loro collocazione rispetto agli spazi e ai tempi assai ampi della geografia e della storia umana, così come rispetto agli spazi e  ai tempi ancora più ampi della natura e del cosmo.
+Tutti questi obiettivi possono essere realizzati sin dalle prime fasi della formazione degli alunni. L'esperimento, la manipolazione, il gioco, la narrazione, le espressioni artistiche e musicali sono infatti altrettante occasioni privilegiate per apprendere per via pratica quello che successivamente dovrà essere fatto oggetto di più elaborate conoscenze teoriche e sperimentali. Nel contempo, lo studio dei contesti storici, sociali, culturali nei quali si sono sviluppate le conoscenze è condizione di una loro piena comprensione. Inoltre, le esperienze personali che i bambini e gli adolescenti hanno degli aspetti a loro prossimi della natura, della cultura, della società e della storia sono una via di accesso importante per la sensibilizzazione ai problemi più generali e per la conoscenza di orizzonti più estesi nello spazio e nel tempo. Ma condizione indispensabile per raggiungere questo obiettivo è ricostruire insieme agli studenti le coordinate spaziali e temporali necessarie per comprendere la loro collocazione rispetto agli spazi e ai tempi assai ampi della geografia e della storia umana, così come rispetto agli spazi e ai tempi ancora più ampi della natura e del cosmo.
 
-Definire un tale quadro d'insieme è compito sia del la formazione scientifica (chi sono e dove sono io nell'universo, sulla terra, nell'evoluzione?) sia della formazione umanistica (chi sono e dove sono io nelle culture umane, nelle società, nella storia?). Negli ultimi decenni, infatti, discipline una volta distanti hanno collaborato nel ricostruire un albero genealogico delle popolazioni umane e nel tracciare i tempi e i percorsi delle  grandi  migrazioni  con  cui  il  pianeta  è  stato popolato.  La  genetica,  la  linguistica,  l'archeologia, l'antropologia, la climatologia, la storia comparata dei miti e delle religioni hanno cominciato a delineare una storia globale dell'umanità. Da parte loro, la filosofia, le arti, l'economia, la storia delle idee, delle società, delle  scienze  e  delle  tecnologie  stanno  mettendo  in  evidenza  come  le  popolazioni  umane  abbiano  sempre comunicato fra loro e come le innovazioni materiali e culturali siano sempre state prodotte da una lunga storia di scambi, interazioni, tradizioni. A loro volta, le scienze del vivente oggi allargano ancora di più questo quadro: le collaborazioni fra genetica, paleontologia, embriologia, ecologia, etologia, geologia, biochimica, biofisica, ci danno per la prima volta un quadro delle grandi tappe della storia della vita sulla terra e mostrano la stretta interdipendenza fra tutte le forme viventi.
+Definire un tale quadro d'insieme è compito sia della formazione scientifica (chi sono e dove sono io nell'universo, sulla terra, nell'evoluzione?) sia della formazione umanistica (chi sono e dove sono io nelle culture umane, nelle società, nella storia?). Negli ultimi decenni, infatti, discipline una volta distanti hanno collaborato nel ricostruire un albero genealogico delle popolazioni umane e nel tracciare i tempi e i percorsi delle grandi migrazioni con cui il pianeta è stato popolato. La genetica, la linguistica, l'archeologia, l'antropologia, la climatologia, la storia comparata dei miti e delle religioni hanno cominciato a delineare una storia globale dell'umanità. Da parte loro, la filosofia, le arti, l'economia, la storia delle idee, delle società, delle scienze e delle tecnologie stanno mettendo in evidenza come le popolazioni umane abbiano sempre comunicato fra loro e come le innovazioni materiali e culturali siano sempre state prodotte da una lunga storia di scambi, interazioni, tradizioni. A loro volta, le scienze del vivente oggi allargano ancora di più questo
 
 7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+quadro: le collaborazioni fra genetica, paleontologia, embriologia, ecologia, etologia, geologia, biochimica, biofisica, ci danno per la prima volta un quadro delle grandi tappe della storia della vita sulla terra e mostrano la stretta interdipendenza fra tutte le forme viventi.
 
-L'elaborazione dei saperi necessari per comprendere l'attuale condizione dell'uomo planetario, definita dalle  molteplici  interdipendenze  fra  locale  e  globale,  è  dunque  la  premessa  indispensabile  per  l'eserc izio consapevole di una cittadinanza nazionale, europea e planetaria. Oggi la scuola italiana può proporsi concretamente un tale obiettivo, contribuendo con ciò a creare le condizioni propizie per rivitalizzare gli aspetti più alti e fecondi della nostra tradizione. Questa, infatti, è stata ricorrentemente caratterizzata da mom enti di intensa  creatività  -  come  la  civiltà  classica  greca  e  latina,  la  Cristianità,  il  Rinascimento  e,  più  in generale, l'apporto degli artisti, dei musicisti, degli scienziati, degli esploratori e degli artigiani in tutto il mondo e per tutta l'età moderna - nei quali l'incontro fra culture diverse ha saputo generare l'idea di un essere umano integrale, capace di concentrare nella singolarità del microcosmo personale i molteplici aspetti del macrocosmo umano.
+L'elaborazione dei saperi necessari per comprendere l'attuale condizione dell'uomo planetario, definita dalle molteplici interdipendenze fra locale e globale, è dunque la premessa indispensabile per l'esercizio consapevole di una cittadinanza nazionale, europea e planetaria. Oggi la scuola italiana può proporsi concretamente un tale obiettivo, contribuendo con ciò a creare le condizioni propizie per rivitalizzare gli aspetti più alti e fecondi della nostra tradizione. Questa, infatti, è stata ricorrentemente caratterizzata da momenti di intensa creatività - come la civiltà classica greca e latina, la Cristianità, il Rinascimento e, più in generale, l'apporto degli artisti, dei musicisti, degli scienziati, degli esploratori e degli artigiani in tutto il mondo e per tutta l'età moderna - nei quali l'incontro fra culture diverse ha saputo generare l'idea di un essere umano integrale, capace di concentrare nella singolarità del microcosmo personale i molteplici aspetti del macrocosmo umano.
 
 8
 
@@ -168,9 +215,9 @@ L'elaborazione dei saperi necessari per comprendere l'attuale condizione dell'uo
 
 ### Scuola, Costituzione, Europa
 
-Nella consapevolezza della relazione che unisce cultura, scuola e persona, la finalità generale della scuola è lo sviluppo armonico e integrale della persona, a ll'interno dei principi della Costituzione italiana e della tradizione culturale europea, nella promozione della conoscenza e nel rispetto e nella valorizzazione delle diversità individuali, con il coinvolgimento attivo degli studenti e delle famiglie.
+Nella consapevolezza della relazione che unisce cultura, scuola e persona, la finalità generale della scuola è lo sviluppo armonico e integrale della persona, all'interno dei principi della Costituzione italiana e della tradizione culturale europea, nella promozione della conoscenza e nel rispetto e nella valorizzazione delle diversità individuali, con il coinvolgimento attivo degli studenti e delle famiglie.
 
-La scuola italiana, statale e paritaria, svolge l'insostituibile funzione pubblica assegnatale dalla Costituzione della Repubblica, per la formazione di ogni persona e la crescita civile e sociale del Paese. Assicura a tutti i cittadini l'istruzione obbligatoria di almeno otto anni (articolo 34), elevati ora a dieci. Contribuisce a rimuovere ' gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese ' (articolo 3).
+La scuola italiana, statale e paritaria, svolge l'insostituibile funzione pubblica assegnatale dalla Costituzione della Repubblica, per la formazione di ogni persona e la crescita civile e sociale del Paese. Assicura a tutti i cittadini l'istruzione obbligatoria di almeno otto anni (articolo 34), elevati ora a dieci. Contribuisce a rimuovere 'gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese' (articolo 3).
 
 L'azione della scuola si esplica attraverso la collaborazione con la famiglia (articolo 30), nel reciproco rispetto dei diversi ruoli e ambiti educativi nonché  con le altre formazioni sociali ove si svolge la personalità di ciascuno (articolo 2).
 
@@ -180,7 +227,7 @@ L'ordinamento scolastico tutela la libertà di insegnamento (articolo 33) ed è 
 
 Con le Indicazioni nazionali s'intendono fissare gli obiettivi generali, gli obiettivi di apprendimento e i relativi traguardi per lo sviluppo delle competenze dei bambini e ragazzi per ciascuna disciplina o campo di esperienza. Per l'insegnamento della Religione Cattolica, disciplinata dagli accordi concordatari, i traguardi di sviluppo delle competenze e gli obiettivi di apprendimento sono definiti d'intesa con l'autorità ecclesiastica (decreto del Presidente della Repubblica dell'11 febbraio 2010).
 
-Il sistema scolastico italiano assume come orizzonte di riferimento verso cui tendere il quadro delle competenze-chiave per l'apprendimento permanente definite dal Parlamento europeo e dal Consiglio dell'Unione europea (Raccomandazione del 18 dicembre 2006 i ) che sono: 1) comunicazione nella madrelingua; 2) comunicazione nelle lingue straniere; 3) competenza matematica e competenze di base in scienza e tecnologia; 4) competenza digitale; 5) imparare a imparare; 6) competenze sociali e civiche; 7) spirito di iniziativa e imprenditorialità; 8) consapevolezza ed espressione culturale . Queste sono il punto di arrivo odierno di un vasto confronto scientifico e culturale sulle competenze utili per la vita al quale l'Italia ha attivamente partecipato. L'impegno a far conseguire tali competenze a tutti i cittadini europei di qualsiasi età, indipendentemente dalle caratteristiche proprie di ogni sistema scolastico nazionale, non implica da parte degli Stati aderenti all'Unione europea l'adozione di ordinamenti e curricoli scolastici conformi ad uno stesso modello. Al contrario, la diversità di obiettivi specifici, di contenuti e di metodi di insegnamento, così come le di fferenze storiche e culturali di ogni paese, pur orientati verso le stesse competenze generali, favoriscono l'espressione di una pluralità di modi di sviluppare e realizzare tali competenze. Tale processo non si esaurisce al termine del primo ciclo di istruzione, ma prosegue con l'estensione dell'obbligo di istruzione nel ciclo secondario e oltre, in una prospettiva di educazione permanente, per tutto l'arco della vita.
+Il sistema scolastico italiano assume come orizzonte di riferimento verso cui tendere il quadro delle competenze-chiave per l'apprendimento permanente definite dal Parlamento europeo e dal Consiglio dell'Unione europea (Raccomandazione del 18 dicembre 2006i) che sono: 1) comunicazione nella madrelingua; 2) comunicazione nelle lingue straniere; 3) competenza matematica e competenze di base in scienza e tecnologia; 4) competenza digitale; 5) imparare a imparare; 6) competenze sociali e civiche; 7) spirito di iniziativa e imprenditorialità; 8) consapevolezza ed espressione culturale. Queste sono il punto di arrivo odierno di un vasto confronto scientifico e culturale sulle competenze utili per la vita al quale l'Italia ha attivamente partecipato. L'impegno a far conseguire tali competenze a tutti i cittadini europei di qualsiasi età, indipendentemente dalle caratteristiche proprie di ogni sistema scolastico nazionale, non implica da parte degli Stati aderenti all'Unione europea l'adozione di ordinamenti e curricoli scolastici conformi ad uno stesso modello. Al contrario, la diversità di obiettivi specifici, di contenuti e di metodi di insegnamento, così come le differenze storiche e culturali di ogni paese, pur orientati verso le stesse competenze generali, favoriscono l'espressione di una pluralità di modi di sviluppare e realizzare tali competenze. Tale processo non si esaurisce al termine del primo ciclo di istruzione, ma prosegue con l'estensione dell'obbligo di istruzione nel ciclo secondario e oltre, in una prospettiva di educazione permanente, per tutto l'arco della vita.
 
 Nell'ambito del costante processo di elaborazione e verifica dei propri obiettivi e nell'attento confronto con gli altri sistemi scolastici europei, le Indicazioni nazionali intendono promuovere e consolidare le competenze culturali basilari e irrinunciabili tese a sviluppare progressivamente, nel corso della vita, le competenze-chiave europee.
 
@@ -192,15 +239,15 @@ Nell'ambito del costante processo di elaborazione e verifica dei propri obiettiv
 
 ### Profilo dello studente
 
-La storia della scuola italiana, caratterizzata da un approccio pedagogico e antropologico che cura la centralità della persona che apprende, assegna alla scuola dell'infanzia e del primo ciclo d'istruzione un ruolo preminente in considerazione del rilievo che tale periodo assume nella biografia di ogni alunno. Entro tale ispirazione la scuola attribuisce grande importanza alla relazione educativa e ai metodi didattici capaci di attivare pienamente le energie e le potenzialità di ogni bambino e ragazzo. Al tempo stesso la scuola italiana ha imparato a riconoscere e a valorizzare apprendimenti diffusi che avvengono fuori dalle sue mura, nei molteplici ambienti di vita in cui i bambini e i ragazzi crescono e attraverso nuovi media , in costante evoluzione, ai quali essi pure partecipano in modi diversificati e creativi.
+La storia della scuola italiana, caratterizzata da un approccio pedagogico e antropologico che cura la centralità della persona che apprende, assegna alla scuola dell'infanzia e del primo ciclo d'istruzione un ruolo preminente in considerazione del rilievo che tale periodo assume nella biografia di ogni alunno. Entro tale ispirazione la scuola attribuisce grande importanza alla relazione educativa e ai metodi didattici capaci di attivare pienamente le energie e le potenzialità di ogni bambino e ragazzo. Al tempo stesso la scuola italiana ha imparato a riconoscere e a valorizzare apprendimenti diffusi che avvengono fuori dalle sue mura, nei molteplici ambienti di vita in cui i bambini e i ragazzi crescono e attraverso nuovi media, in costante evoluzione, ai quali essi pure partecipano in modi diversificati e creativi.
 
-La generalizzazione degli istituti comprensivi, che riuniscono scuola d'infanzia, primaria e secondaria di primo grado, crea le condizioni perché si affermi u na scuola unitaria di base che prenda in carico i bambini dall'età di tre anni e li guidi fino al termine del primo ciclo di istruzione e che sia capace di riportare i molti apprendimenti che il mondo oggi offre entro un unico percorso strutturante.
+La generalizzazione degli istituti comprensivi, che riuniscono scuola d'infanzia, primaria e secondaria di primo grado, crea le condizioni perché si affermi una scuola unitaria di base che prenda in carico i bambini dall'età di tre anni e li guidi fino al termine del primo ciclo di istruzione e che sia capace di riportare i molti apprendimenti che il mondo oggi offre entro un unico percorso strutturante.
 
 Il profilo che segue descrive, in forma essenziale, le competenze riferite alle discipline di insegnamento e al pieno esercizio della cittadinanza, che un ragazzo deve mostrare di possedere al termine del primo ciclo di istruzione. Il conseguimento delle competenze delineate nel profilo costituisce l'obiettivo generale del sistema educativo e formativo italiano.
 
 #### Profilo delle competenze al termine del primo ciclo di istruzione
 
-Lo studente al termine del primo ciclo, attraverso gli apprendimenti sviluppati a scuola, lo studio personale, le esperienze educative vissute in famiglia e nella comunità, è in grado di iniziare ad affronta re in autonomia e con responsabilità, le situazioni di vita tipiche della propria età, riflettendo ed esprimendo la propria personalità in tutte le sue dimensioni.
+Lo studente al termine del primo ciclo, attraverso gli apprendimenti sviluppati a scuola, lo studio personale, le esperienze educative vissute in famiglia e nella comunità, è in grado di iniziare ad affrontare in autonomia e con responsabilità, le situazioni di vita tipiche della propria età, riflettendo ed esprimendo la propria personalità in tutte le sue dimensioni.
 
 Ha consapevolezza delle proprie potenzialità e dei propri limiti, utilizza gli strumenti di conoscenza per comprendere se stesso e gli altri, per riconoscere ed apprezzare le diverse identità, le tradizioni culturali e religiose, in un'ottica di dialogo e di rispetto reciproco. Interpreta i sistemi simbolici e culturali della società, orienta le proprie scelte in modo consapevole, rispetta le regole condivise, collabora con gli altri per la costruzione del bene comune esprimendo le proprie personali opinioni e sensibilità. Si impegna per portare a compimento il lavoro iniziato da solo o insieme ad altri.
 
@@ -218,19 +265,20 @@ Ha buone competenze digitali, usa con consapevolezza le tecnologie della comunic
 
 Possiede un patrimonio di conoscenze e nozioni di base ed è allo stesso tempo capace di ricercare e di procurarsi velocemente nuove informazioni ed impegnarsi in nuovi apprendimenti anche in modo autonomo.
 
-Ha cura e rispetto di sé, come presupposto di un sa no e corretto stile di vita. Assimila il senso e la necessità del rispetto della convivenza civile. Ha attenzione per le funzioni pubbliche alle quali partecipa nelle diverse forme in cui questo può avvenire: momenti educativi informali e non formali, esposizione pubblica del proprio lavoro, occasioni rituali nelle comunità che frequenta, azioni di solidarietà, manifestazioni sportive non agonistiche, volontariato, ecc.
+Ha cura e rispetto di sé, come presupposto di un sano e corretto stile di vita. Assimila il senso e la necessità del rispetto della convivenza civile. Ha attenzione per le funzioni pubbliche alle quali partecipa nelle di-
 
 10
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+verse forme in cui questo può avvenire: momenti educativi informali e non formali, esposizione pubblica del proprio lavoro, occasioni rituali nelle comunità che frequenta, azioni di solidarietà, manifestazioni sportive non agonistiche, volontariato, ecc.
 
 Dimostra originalità e spirito di iniziativa. Si assume le proprie responsabilità e chiede aiuto quando si trova in difficoltà e sa fornire aiuto a chi lo chiede.
 
-In relazione alle proprie potenzialità e al proprio talento si impegna in campi espressivi, motori ed artistici che gli sono congeniali. È disposto ad analiz zare se stesso e a misurarsi con le novità e gli imprevisti.
+In relazione alle proprie potenzialità e al proprio talento si impegna in campi espressivi, motori ed artistici che gli sono congeniali. È disposto ad analizzare se stesso e a misurarsi con le novità e gli imprevisti.
 
-> i Si  riporta  di  seguito  la  definizione  ufficiale  delle  otto  competenze-chiave  (Raccomandazione  del  Parlamento  Europeo  e  del Consiglio del 18 dicembre 2006 (2006/962/CE)).
+> i Si riporta di seguito la definizione ufficiale delle otto competenze-chiave (Raccomandazione del Parlamento Europeo e del Consiglio del 18 dicembre 2006 (2006/962/CE)).
 
 La comunicazione nella madrelingua è la capacità di esprimere e interpretare concetti, pensieri, sentimenti, fatti e opinioni in forma sia orale sia scritta (comprensione orale, espressione orale, comprensione scritta ed espressione scritta) e di interagire adeguatamente e in modo creativo sul piano linguistico in un'intera gamma di contesti culturali e sociali, quali istruzione e formazione, lavoro, vita domestica e tempo libero.
 
@@ -238,9 +286,9 @@ La comunicazione nelle lingue straniere condivide essenzialmente le principali a
 
 La competenza matematica è l'abilità di sviluppare e applicare il pensiero matematico per risolvere una serie di problemi in situazioni quotidiane. Partendo da una solida padronanza delle competenze aritmetico-matematiche, l'accento è posto sugli aspetti del processo e dell'attività oltre che su quelli della conoscenza. La competenza matematica comporta, in misura variabile, la capacità e la disponibilità a usare modelli matematici di pensiero (pensiero logico e spaziale) e di presentazione (formule, modelli, schemi, grafici, rappresentazioni). La competenza in campo scientifico si riferisce alla capacità e alla disponibilità a usare l'insieme delle conoscenze e delle metodologie possedute per spiegare il mondo che ci circonda sapendo identificare le problematiche e traendo le conclusioni che siano basate su fatti comprovati. La competenza in campo tecnologico è  considerata l'applicazione di tale conoscenza e metodologia per dare risposta ai desideri o bisogni avvertiti dagli esseri umani. La competenza in campo scientifico e tecnologico comporta la comprensione dei cambiamenti determinati dall'attività umana e la consapevolezza della responsabilità di ciascun cittadino.
 
-La  competenza  digitale consiste nel saper utilizzare con  dimestichezza e spirito critico le tecnologie della società dell'informazione per il lavoro, il tempo libero e la comunicazione. Essa implica abilità di base nelle tecnologie dell'informazione e della comunicazione (TIC): l'uso del computer per reperire, valutare, conservare, produrre, presentare e scambiare informazioni nonché per comunicare e partecipare a reti collabor ative tramite Internet.
+La competenza digitale consiste nel saper utilizzare con dimestichezza e spirito critico le tecnologie della società dell'informazione per il lavoro, il tempo libero e la comunicazione. Essa implica abilità di base nelle tecnologie dell'informazione e della comunicazione (TIC): l'uso del computer per reperire, valutare, conservare, produrre, presentare e scambiare informazioni nonché per comunicare e partecipare a reti collaborative tramite Internet.
 
-Imparare a imparare è  l'abilità  di  perseverare  nell'apprendimento,  di organizzare  il proprio apprendimento anche mediante una gestione efficace del tempo e delle informazioni, sia a livello individuale che in gruppo. Questa competenza comprende la consapevolezza del proprio processo di apprendimento e dei propri bisogni, l'identificazione delle opportunità disponibili e la capacità di  sormontare  gli  ostacoli  per  apprendere  in  modo  efficace.  Questa  competenza  comporta  l'acquisizione,  l'elaborazione  e l'assimilazione di nuove conoscenze e abilità come anche la ricerca e l'uso delle opportunità di orientamento. Il fatto di imparare a imparare fa sì che i discenti prendano le mosse da  quanto hanno appreso in precedenza e dalle loro esperienze di vita per usare e applicare conoscenze e abilità in tutta una serie di contesti: a casa, sul lavoro, nell'istruzione e nella formazione. La motivazione e la fiducia sono elementi essenziali perché una pers ona possa acquisire tale competenza.
+Imparare a imparare è l'abilità di perseverare nell'apprendimento, di organizzare il proprio apprendimento anche mediante una gestione efficace del tempo e delle informazioni, sia a livello individuale che in gruppo. Questa competenza comprende la consapevolezza del proprio processo di apprendimento e dei propri bisogni, l'identificazione delle opportunità disponibili e la capacità di sormontare gli ostacoli per apprendere in modo efficace. Questa competenza comporta l'acquisizione, l'elaborazione e l'assimilazione di nuove conoscenze e abilità come anche la ricerca e l'uso delle opportunità di orientamento. Il fatto di imparare a imparare fa sì che i discenti prendano le mosse da quanto hanno appreso in precedenza e dalle loro esperienze di vita per usare e applicare conoscenze e abilità in tutta una serie di contesti: a casa, sul lavoro, nell'istruzione e nella formazione. La motivazione e la fiducia sono elementi essenziali perché una persona possa acquisire tale competenza.
 
 Le competenze sociali e civiche includono competenze personali, interpersonali e interculturali e riguardano tutte le forme di comportamento che consentono alle persone di partecipare in modo efficace e costruttivo alla vita sociale e lavorativa, in particolare alla vita in società sempre più diversificate, come anche a risolvere i conflitti ove ciò sia necessario. La competenza civica dota le persone degli strumenti per partecipare appieno alla vita civile grazie alla conoscenza dei concetti e delle strutture sociopolitici e all'impegno a una partecipazione attiva e democratica.
 
@@ -258,9 +306,9 @@ Consapevolezza  ed  espressione  culturale riguarda  l'importanza  dell'espressi
 
 ### Dalle Indicazioni al curricolo
 
-Nel rispetto e nella valorizzazione dell'autonomia delle istituzioni scolastiche, le Indicazioni costituiscono il quadro di riferimento per la progettazione curricolare affidata alle scuole. Sono un testo aperto, che la comunità professionale è chiamata ad assumere e a c ontestualizzare, elaborando specifiche scelte relative a contenuti, metodi, organizzazione e valutazione coerenti con i traguardi formativi previsti dal documento nazionale.
+Nel rispetto e nella valorizzazione dell'autonomia delle istituzioni scolastiche, le Indicazioni costituiscono il quadro di riferimento per la progettazione curricolare affidata alle scuole. Sono un testo aperto, che la comunità professionale è chiamata ad assumere e a contestualizzare, elaborando specifiche scelte relative a contenuti, metodi, organizzazione e valutazione coerenti con i traguardi formativi previsti dal documento nazionale.
 
-Il curricolo di istituto è espressione della libert à d'insegnamento e dell'autonomia scolastica e, al tempo stesso, esplicita le scelte della comunità scolastica e l'identità dell'istituto. La costruzione del curricolo è il processo attraverso il quale si sviluppano e organizzano la ricerca e l'innovazione educativa.
+Il curricolo di istituto è espressione della libertà d'insegnamento e dell'autonomia scolastica e, al tempo stesso, esplicita le scelte della comunità scolastica e l'identità dell'istituto. La costruzione del curricolo è il processo attraverso il quale si sviluppano e organizzano la ricerca e l'innovazione educativa.
 
 Ogni scuola predispone il curricolo all'interno del Piano dell'offerta formativa con riferimento al profilo dello studente al termine del primo ciclo di istruzione, ai traguardi per lo sviluppo delle competenze, agli obiettivi di apprendimento specifici per ogni disciplina.
 
@@ -270,25 +318,26 @@ A partire dal curricolo di istituto, i docenti individuano le esperienze di appr
 
 Fin dalla scuola dell'infanzia, nella scuola primaria e nella scuola secondaria di primo grado l'attività didattica è orientata alla qualità dell'apprendimento  di ciascun alunno e non ad una sequenza lineare, e necessariamente incompleta, di contenuti disciplinari. I docenti, in stretta collaborazione, promuovono attività significative nelle quali gli strumenti e i metodi caratteristici delle discipline si confrontano e si intrecciano tra loro, evitando trattazioni di argomenti distanti dall'esperienza e frammentati in nozioni da memorizzare.
 
-Le discipline, così come noi le conosciamo, sono st ate storicamente separate l'una dall'altra da confini convenzionali che non hanno alcun riscontro con l'unitarietà tipica dei processi di apprendimento. Ogni persona, a scuola come nella vita, impara infatti attingendo liberamente dalla sua esperienza, dalle conoscenze o dalle discipline, elaborandole con un'attività continua e autonoma.
+Le discipline, così come noi le conosciamo, sono state storicamente separate l'una dall'altra da confini convenzionali che non hanno alcun riscontro con l'unitarietà tipica dei processi di apprendimento. Ogni persona, a scuola come nella vita, impara infatti attingendo liberamente dalla sua esperienza, dalle conoscenze o dalle discipline, elaborandole con un'attività continua e autonoma.
 
 Oggi, inoltre, le stesse fondamenta delle discipline sono caratterizzate da un'intrinseca complessità e da vaste aree di connessione che rendono improponibili rigide separazioni.
 
 Nelle Indicazioni le discipline non sono aggregate in aree precostituite per non favorire un'affinità più intensa tra alcune rispetto ad altre, volendo rafforzare così trasversalità e interconnessioni più ampie  e assicurare l'unitarietà del loro insegnamento. Sul piano organizzativo e didattico la definizione di aree o di assi funzionali all'ottimale utilizzazione delle risorse è  comunque rimessa all'autonoma valutazione di ogni scuola.
 
-Un ruolo strategico essenziale svolge l'acquisizione di efficaci competenze comunicative nella lingua italiana che non è responsabilità del solo insegnante  di italiano ma è compito condiviso da tutti gli ins egnanti, ciascuno per la propria area o disciplina, al fine di curare in ogni campo una precisa espressione scritta ed orale.
+Un ruolo strategico essenziale svolge l'acquisizione di efficaci competenze comunicative nella lingua italiana che non è responsabilità del solo insegnante di italiano ma è compito condiviso da tutti gli insegnanti, ciascuno per la propria area o disciplina, al fine di curare in ogni campo una precisa espressione scritta ed orale.
 
 ### Continuità ed unitarietà del curricolo
 
-L'itinerario scolastico dai tre ai quattordici anni, pur abbracciando tre tipologie di scuola caratterizzate ciascuna da una specifica identità educativa e professionale, è progressivo e continuo. La presenza, s empre più diffusa, degli istituti comprensivi consente la progettazione di un unico curricolo verticale e facilita il raccordo con il secondo ciclo del sistema di istruzione e formazione.
+L'itinerario scolastico dai tre ai quattordici anni, pur abbracciando tre tipologie di scuola caratterizzate ciascuna da una specifica identità educativa e professionale, è progressivo e continuo. La presenza, sempre più diffusa, degli istituti comprensivi consente la progettazione di un unico curricolo verticale e facilita il raccordo con il secondo ciclo del sistema di istruzione e formazione.
 
-Negli anni dell'infanzia la scuola accoglie, promuove e arricchisce l'esperienza vissuta dei bambini in una prospettiva evolutiva, le attività educative offrono occasioni di crescita all'interno di un contesto educativo orientato al benessere, alle domande di senso e al graduale sviluppo di competenze riferibili alle diverse età, dai tre ai sei anni.
+Negli anni dell'infanzia la scuola accoglie, promuove e arricchisce l'esperienza vissuta dei bambini in una prospettiva evolutiva, le attività educative offrono occasioni di crescita all'interno di un contesto educativo
 
 12
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+orientato al benessere, alle domande di senso e al graduale sviluppo di competenze riferibili alle diverse età, dai tre ai sei anni.
 
 Nella scuola del primo ciclo la progettazione didattica, mentre continua a valorizzare le esperienze con approcci educativi attivi, è finalizzata a guidare i ragazzi lungo percorsi di conoscenza progressivamente orientati alle discipline e alla ricerca delle connessioni tra i diversi saperi.
 
@@ -308,7 +357,7 @@ Gli obiettivi sono organizzati in nuclei tematici e definiti in relazione a peri
 
 ### Valutazione
 
-Agli insegnanti competono la responsabilità della valutazione e la cura della documentazione, nonché l a scelta dei relativi strumenti, nel quadro dei criteri deliberati dagli organi collegiali. Le verifiche intermedie e le valutazioni periodiche e finali devono essere coerenti con gli obiettivi e i traguardi previsti dalle Indicazioni e declinati nel curricolo.
+Agli insegnanti competono la responsabilità della valutazione e la cura della documentazione, nonché la scelta dei relativi strumenti, nel quadro dei criteri deliberati dagli organi collegiali. Le verifiche intermedie e le valutazioni periodiche e finali devono essere coerenti con gli obiettivi e i traguardi previsti dalle Indicazioni e declinati nel curricolo.
 
 La valutazione precede, accompagna e segue i percorsi curricolari. Attiva le azioni da intraprendere, regola quelle avviate, promuove il bilancio critico su quelle condotte a termine. Assume una preminente funzione formativa, di accompagnamento dei processi di apprendimento e di stimolo al miglioramento continuo.
 
@@ -316,7 +365,7 @@ Occorre assicurare agli studenti e alle famiglie un'informazione tempestiva e tr
 
 Alle singole istituzioni scolastiche spetta, inoltre, la responsabilità dell'autovalutazione, che ha la funzione di introdurre modalità riflessive sull'intera organizzazione dell'offerta educativa e didattica della scuola, per svilupparne l'efficacia, anche attraverso dati di rendicontazione sociale o emergenti da valutazioni esterne.
 
-Il sistema nazionale di valutazione ha il compito di rilevare la qualità dell'intero sistema scolastico, fornendo alle scuole, alle famiglie e alla comunità sociale, al Parlamento e al Governo elementi di informazione essenziali circa la salute e le criticità del nostro sistema di istruzione. L'Istituto nazionale di valutazione rileva e misura gli apprendimenti con riferimento ai traguardi e agli obiettivi previsti dalle Indicazioni, promuovendo,  altresì,  una  cultura  della  valutazione  che  s coraggi  qualunque  forma  di  addestramento  finalizzata all'esclusivo superamento delle prove.
+Il sistema nazionale di valutazione ha il compito di rilevare la qualità dell'intero sistema scolastico, fornendo alle scuole, alle famiglie e alla comunità sociale, al Parlamento e al Governo elementi di informazione essenziali circa la salute e le criticità del nostro sistema di istruzione. L'Istituto nazionale di valutazione rileva e misura gli apprendimenti con riferimento ai traguardi e agli obiettivi previsti dalle Indicazioni, promuovendo, altresì, una cultura della valutazione che scoraggi qualunque forma di addestramento finalizzata all'esclusivo superamento delle prove.
 
 13
 
@@ -324,7 +373,7 @@ Il sistema nazionale di valutazione ha il compito di rilevare la qualità dell'i
 
 [[START OF PAGE 14]]
 
-La promozione, insieme, di autovalutazione e valutazione costituisce la condizione decisiva per il miglioramento delle scuole e del sistema di istruzione poiché unisce il rigore delle procedure di verifica c on la riflessione dei docenti coinvolti nella stessa classe, nella stessa area disciplinare, nella stessa scuola o operanti in rete con docenti di altre scuole. Nell'aderire a tale prospettiva, le scuole, al contempo, esercitano la loro autonomia partecipando alla riflessione e alla ricerca nazionale sui contenuti delle Indicazioni entro un processo condiviso che potrà continuare nel tempo, secondo le modalità previste al momento della loro emanazione, nella prospettiva del confronto anche con le scuole e i sistemi di istruzione europei.
+La promozione, insieme, di autovalutazione e valutazione costituisce la condizione decisiva per il miglioramento delle scuole e del sistema di istruzione poiché unisce il rigore delle procedure di verifica con la riflessione dei docenti coinvolti nella stessa classe, nella stessa area disciplinare, nella stessa scuola o operanti in rete con docenti di altre scuole. Nell'aderire a tale prospettiva, le scuole, al contempo, esercitano la loro autonomia partecipando alla riflessione e alla ricerca nazionale sui contenuti delle Indicazioni entro un processo condiviso che potrà continuare nel tempo, secondo le modalità previste al momento della loro emanazione, nella prospettiva del confronto anche con le scuole e i sistemi di istruzione europei.
 
 ### Certificazione delle competenze
 
@@ -338,9 +387,9 @@ Solo a seguito di una regolare osservazione, documentazione e valutazione delle 
 
 La scuola italiana sviluppa la propria azione educativa in coerenza con i principi dell'inclusione delle persone e dell'integrazione delle culture, considerando l'accoglienza della diversità un valore irrinunciabile. La scuola consolida le pratiche inclusive nei confronti di bambini e ragazzi di cittadinanza non italiana promuovendone la piena integrazione. Favorisce inoltre, con specifiche strategie e percorsi personalizzati, la prevenzione e il recupero della dispersione scolastica e del fallimento formativo precoce; a tal fine attiva risorse e iniziative mirate anche in collaborazione con gli enti locali e le altre agenzie educative del territorio.
 
-Particolare cura è riservata agli allievi con disab ilità o con bisogni educativi speciali, attraverso adeguate strategie organizzative e didattiche, da considerare nella normale progettazione dell'offerta formativa. Per affrontare difficoltà non risolvibili dai soli insegnanti curricolari, la scuola si avvale dell'apporto di professionalità specifiche come quelle dei docenti di sostegno e di altri operatori.
+Particolare cura è riservata agli allievi con disabilità o con bisogni educativi speciali, attraverso adeguate strategie organizzative e didattiche, da considerare nella normale progettazione dell'offerta formativa. Per affrontare difficoltà non risolvibili dai soli insegnanti curricolari, la scuola si avvale dell'apporto di professionalità specifiche come quelle dei docenti di sostegno e di altri operatori.
 
-Tali scelte sono bene espresse in alcuni documenti di forte valore strategico per la scuola, quali ' La via italiana  per  la  scuola  interculturale  e  l'integrazione  degli  alunni  stranieri' del  2007,  ' Linee  guida  per l'integrazione scolastica degli alunni con disabilità ' del 2009, e ' Linee guida per il diritto allo studio degli alunni e degli studenti con disturbi specifici di apprendimento ' del 2011, che sintetizzano i criteri che devono ispirare il lavoro quotidiano degli insegnanti.
+Tali scelte sono bene espresse in alcuni documenti di forte valore strategico per la scuola, quali 'La via italiana per la scuola interculturale e l'integrazione degli alunni stranieri' del 2007, 'Linee guida per l'integrazione scolastica degli alunni con disabilità' del 2009, e 'Linee guida per il diritto allo studio degli alunni e degli studenti con disturbi specifici di apprendimento' del 2011, che sintetizzano i criteri che devono ispirare il lavoro quotidiano degli insegnanti.
 
 ### Comunità educativa, comunità professionale, cittadinanza
 
@@ -348,17 +397,18 @@ Ogni scuola vive e opera come comunità nella quale cooperano studenti, docenti 
 
 Al suo interno assume particolare rilievo la comunità professionale dei docenti che, valorizzando la libertà, l'iniziativa e la collaborazione di tutti, si impegna a riconoscere al proprio interno le differenti capacità, sensibilità e competenze, a farle agire in sinergia, a negoziare in modo proficuo le diversità e gli eventuali conflitti per costruire un progetto di scuola partendo dalle Indicazioni nazionali.
 
-Questo processo richiede attività di studio, di formazione e di ricerca da parte di tutti gli operatori scolastici ed in primo luogo da parte dei docenti. Determinante al riguardo risulta il ruolo del dirigente scolastico per la direzione, il coordinamento e la promozione delle professionalità interne e, nello stesso tempo, per favorire la collaborazione delle famiglie, degli enti locali, e per la valorizzazione delle risorse sociali, culturali ed economiche del territorio.
+Questo processo richiede attività di studio, di formazione e di ricerca da parte di tutti gli operatori scolastici ed in primo luogo da parte dei docenti. Determinante al riguardo risulta il ruolo del dirigente scolastico per la direzione, il coordinamento e la promozione delle professionalità interne e, nello stesso tempo, per fa-
 
 14
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+vorire la collaborazione delle famiglie, degli enti locali, e per la valorizzazione delle risorse sociali, culturali ed economiche del territorio.
 
 L'elaborazione  e  la  realizzazione  del  curricolo  costituiscono  pertanto  un  processo  dinamico  e  aperto,  e rappresentano per la comunità scolastica un'occasione di partecipazione e di apprendimento continuo.
 
-La presenza di comunità scolastiche, impegnate nel proprio compito, rappresenta un presidio per la vita democratica e civile perché fa di ogni scuola un lu ogo aperto, alle famiglie e ad ogni componente della società, che promuove la riflessione sui contenuti e sui modi dell'apprendimento, sulla funzione adulta e le sfide educative del nostro tempo, sul posto decisivo della conoscenza per lo sviluppo economico, rafforzando la tenuta etica e la coesione sociale del Paese.
+La presenza di comunità scolastiche, impegnate nel proprio compito, rappresenta un presidio per la vita democratica e civile perché fa di ogni scuola un luogo aperto, alle famiglie e ad ogni componente della società, che promuove la riflessione sui contenuti e sui modi dell'apprendimento, sulla funzione adulta e le sfide educative del nostro tempo, sul posto decisivo della conoscenza per lo sviluppo economico, rafforzando la tenuta etica e la coesione sociale del Paese.
 
 La centralità della persona trova il suo pieno significato nella scuola intesa come comunità educativa, aperta anche alla più larga comunità umana e civile, capace di includere le prospettive locale, nazionale, europea e mondiale.
 
@@ -370,17 +420,17 @@ La centralità della persona trova il suo pieno significato nella scuola intesa 
 
 ## LA SCUOLA DELL'INFANZIA
 
-La scuola dell'infanzia, statale e paritaria, si rivolge a tutte le bambine e i bambini dai tre ai sei anni di età ed è la risposta al loro diritto all'educazione e a lla cura, in coerenza con i principi di pluralismo culturale ed istituzionale  presenti  nella  Costituzione  della  Repubblica,  nella  Convenzione  sui  diritti  dell'infanzia  e dell'adolescenza e nei documenti dell'Unione Europea.
+La scuola dell'infanzia, statale e paritaria, si rivolge a tutte le bambine e i bambini dai tre ai sei anni di età ed è la risposta al loro diritto all'educazione e alla cura, in coerenza con i principi di pluralismo culturale ed istituzionale presenti nella Costituzione della Repubblica, nella Convenzione sui diritti dell'infanzia e dell'adolescenza e nei documenti dell'Unione Europea.
 
 Essa si pone la finalità di promuovere nei bambini lo sviluppo dell'identità, dell'autonomia, della competenza e li avvia alla cittadinanza.
 
-Consolidare l' identità significa vivere serenamente tutte le dimensioni del proprio io, stare bene, essere rassicurati nella molteplicità del proprio fare e sentire, sentirsi sicuri in un ambiente sociale allargato, imparare a conoscersi e ad essere riconosciuti come persona unica e irripetibile. Vuol dire sperimentare diversi ruoli e forme di identità: quelle di figlio, alunno, compagno, maschio o femmina, abitante di un territorio, membro di un gruppo, appartenente a una comunità sempre più ampia e plurale, caratterizzata da valori comuni, abitudini, linguaggi, riti, ruoli.
+Consolidare l'identità significa vivere serenamente tutte le dimensioni del proprio io, stare bene, essere rassicurati nella molteplicità del proprio fare e sentire, sentirsi sicuri in un ambiente sociale allargato, imparare a conoscersi e ad essere riconosciuti come persona unica e irripetibile. Vuol dire sperimentare diversi ruoli e forme di identità: quelle di figlio, alunno, compagno, maschio o femmina, abitante di un territorio, membro di un gruppo, appartenente a una comunità sempre più ampia e plurale, caratterizzata da valori comuni, abitudini, linguaggi, riti, ruoli.
 
-Sviluppare l' autonomia significa avere fiducia in sé e fidarsi degli altr i; provare soddisfazione nel fare da sé e saper chiedere aiuto o poter esprimere insoddi sfazione e frustrazione elaborando progressivamente risposte e strategie; esprimere sentimenti ed emozioni; partecipare alle decisioni esprimendo opinioni, imparando ad operare scelte e ad assumere comportamenti e atteggiamenti sempre più consapevoli.
+Sviluppare l'autonomia significa avere fiducia in sé e fidarsi degli altri; provare soddisfazione nel fare da sé e saper chiedere aiuto o poter esprimere insoddisfazione e frustrazione elaborando progressivamente risposte e strategie; esprimere sentimenti ed emozioni; partecipare alle decisioni esprimendo opinioni, imparando ad operare scelte e ad assumere comportamenti e atteggiamenti sempre più consapevoli.
 
 Acquisire competenze significa giocare, muoversi, manipolare, curiosare, domandare, imparare a riflettere sull'esperienza attraverso l'esplorazione, l'osservazione e il confronto tra proprietà, quantità, caratteristiche, fatti; significa ascoltare, e comprendere, narrazioni e discorsi, raccontare e rievocare azioni ed esperienze e tradurle in tracce personali e condivise; essere in grado di descrivere, rappresentare e immaginare, 'ripetere', con simulazioni e giochi di ruolo, situazioni ed eventi con linguaggi diversi.
 
-Vivere le prime esperienze di cittadinanza significa scoprire l'altro da sé e attribuire prog ressiva importanza agli altri e ai loro bisogni; rendersi sempre meglio conto della necessità di stabilire regole condivise; implica il primo esercizio del dialogo che è fondat o sulla reciprocità dell'ascolto, l'attenzione al punto di vista dell'altro e alle diversità di genere, il primo riconoscimento di diritti e doveri uguali per tutti; significa porre le fondamenta di un comportamento eticamente orientato, rispettoso degli altri, dell'ambiente e della natura.
+Vivere le prime esperienze di cittadinanza significa scoprire l'altro da sé e attribuire progressiva importanza agli altri e ai loro bisogni; rendersi sempre meglio conto della necessità di stabilire regole condivise; implica il primo esercizio del dialogo che è fondato sulla reciprocità dell'ascolto, l'attenzione al punto di vista dell'altro e alle diversità di genere, il primo riconoscimento di diritti e doveri uguali per tutti; significa porre le fondamenta di un comportamento eticamente orientato, rispettoso degli altri, dell'ambiente e della natura.
 
 Tali finalità sono perseguite attraverso l'organizzazione di un ambiente di vita, di relazioni e di apprendimento di qualità, garantito dalla professionalità degli operatori e dal dialogo sociale ed educativo con le famiglie e con la comunità.
 
@@ -402,7 +452,7 @@ I bambini sono alla ricerca di legami affettivi e di punti di riferimento, di co
 
 [[START OF PAGE 17]]
 
-La scuola  dell'infanzia  si  presenta  come  un  ambiente  protettivo,  capace  di  accogliere  le  diversità  e  di promuovere le potenzialità di tutti i bambini, che fra i tre e i sei anni esprimono una grande ricchezza di bisogni ed emozioni, che sono pronti ad incontrare e sperimentare nuovi linguaggi, che pongono a se stessi, ai coetanei e agli adulti domande impegnative e inattese, che osservano e interrogano la natura, che elaborano le prime ipotesi sulle cose, sugli eventi, sul corpo, sulle relazioni, sulla lingua, sui diversi sistemi simbolici e sui media , dei quali spesso già fruiscono non soltanto e non sempre in modo passivo; e sull'esistenza di altri punti di vista.
+La scuola dell'infanzia si presenta come un ambiente protettivo, capace di accogliere le diversità e di promuovere le potenzialità di tutti i bambini, che fra i tre e i sei anni esprimono una grande ricchezza di bisogni ed emozioni, che sono pronti ad incontrare e sperimentare nuovi linguaggi, che pongono a se stessi, ai coetanei e agli adulti domande impegnative e inattese, che osservano e interrogano la natura, che elaborano le prime ipotesi sulle cose, sugli eventi, sul corpo, sulle relazioni, sulla lingua, sui diversi sistemi simbolici e sui media, dei quali spesso già fruiscono non soltanto e non sempre in modo passivo; e sull'esistenza di altri punti di vista.
 
 La scuola dell'infanzia riconosce questa pluralità di elementi che creano tante possibilità di crescita, emotiva e cognitiva insieme, per far evolvere le potenzialità di tutti e di ciascuno, creare la disponibilità nei bambini a fidarsi e ad essere accompagnati, nell'avventura della conoscenza. La scuola promuove lo star bene e un sereno apprendimento attraverso la cura degli ambienti, la predisposizione degli spazi educativi, la conduzione attenta dell'intera giornata scolastica.
 
@@ -418,7 +468,7 @@ Le famiglie dei bambini con disabilità trovano nella scuola un adeguato support
 
 #### I docenti
 
-La presenza di  insegnanti motivati,  preparati,  attenti  alle  specificità  dei  bambini  e  dei  gruppi  di  cui  si prendono cura, è un indispensabile fattore di quali tà per la costruzione di un ambiente educativo accogliente, sicuro, ben organizzato, capace di suscitare la fiducia dei genitori e della comunità.
+La presenza di insegnanti motivati, preparati, attenti alle specificità dei bambini e dei gruppi di cui si prendono cura, è un indispensabile fattore di qualità per la costruzione di un ambiente educativo accogliente, sicuro, ben organizzato, capace di suscitare la fiducia dei genitori e della comunità.
 
 Lo stile educativo dei docenti si ispira a criteri di ascolto, accompagnamento, interazione partecipata, mediazione comunicativa, con una continua capacità di osservazione del bambino, di presa in carico del suo 'mondo', di lettura delle sue scoperte, di sostegno e incoraggiamento all'evoluzione dei suoi apprendimenti verso forme di conoscenza sempre più autonome e consapevoli.
 
@@ -430,19 +480,20 @@ La professionalità docente si arricchisce attraverso il lavoro collaborativo, l
 
 Il curricolo della scuola dell'infanzia non coincide con la sola organizzazione delle attività didattiche che si realizzano nella sezione e nelle intersezioni, negli spazi esterni, nei laboratori, negli ambienti di vita comune, ma si esplica in un'equilibrata integrazione di momenti di cura, di relazione, di apprendimento, dove le stesse routine (l'ingresso, il pasto, la cura del corpo, il riposo, ecc.) svolgono una funzione di regolazione dei ritmi della giornata e si offrono come 'base sicura' per nuove esperienze e nuove sollecitazioni.
 
-L'apprendimento avviene attraverso l'azione, l'esplorazione, il contatto con gli oggetti, la natura, l'arte, il territorio, in una dimensione ludica, da intendersi come forma tipica di relazione e di conoscenza. Nel gioco, particolarmente in quello simbolico, i bambini si esprimono, raccontano, rielaborano in modo creativo le esperienze personali e sociali. Nella relazione educativa, gli insegnanti svolgono una funzione di mediazione e di facilitazione e, nel fare propria la ricerca dei bambini, li aiutano a pensare e a riflettere meglio, sollecitandoli a osservare, descrivere, narrare, fare ipotesi, dare e chiedere spiegazioni in contesti cooperativi e di confronto diffuso.
+L'apprendimento avviene attraverso l'azione, l'esplorazione, il contatto con gli oggetti, la natura, l'arte, il territorio, in una dimensione ludica, da intendersi come forma tipica di relazione e di conoscenza. Nel gioco,
 
 17
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+particolarmente in quello simbolico, i bambini si esprimono, raccontano, rielaborano in modo creativo le esperienze personali e sociali. Nella relazione educativa, gli insegnanti svolgono una funzione di mediazione e di facilitazione e, nel fare propria la ricerca dei bambini, li aiutano a pensare e a riflettere meglio, sollecitandoli a osservare, descrivere, narrare, fare ipotesi, dare e chiedere spiegazioni in contesti cooperativi e di confronto diffuso.
 
 L'organizzazione degli spazi e dei tempi diventa elemento di qualità pedagogica dell'ambiente educativo e pertanto deve essere oggetto di esplicita progettazione e verifica. In particolare:
 
 - lo spazio dovrà essere accogliente, caldo, ben curato, orientato dal gusto estetico, espressione della pedagogia e delle scelte educative di ciascuna scuola. Lo spazio parla dei bambini, del loro valore, dei loro bisogni di gioco, di movimento, di espressione, di intimità e di socialità, attraverso l'ambientazione fisica, la scelta di arredamenti e oggetti volti a creare un luogo funzionale e invitante;
 
-- il tempo disteso consente al bambino di vivere con serenità la propria giornata, di giocare, esplorare, parlare, capire, sentirsi padrone di sé e delle att ività che sperimenta e nelle quali si esercita.
+- il tempo disteso consente al bambino di vivere con serenità la propria giornata, di giocare, esplorare, parlare, capire, sentirsi padrone di sé e delle attività che sperimenta e nelle quali si esercita.
 
 L'osservazione, nelle sue diverse modalità, rappresenta uno strumento fondamentale per conoscere e accompagnare il bambino in tutte le sue dimensioni di sviluppo, rispettandone l'originalità, l'unicità, le potenzialità attraverso un atteggiamento di ascolto, empatia e rassicurazione. La pratica della documentazione va intesa come processo che produce tracce, memoria e riflessione, negli adulti e nei bambini, rendendo visibili le modalità e i percorsi di formazione e permettendo di apprezzare i progressi dell'apprendimento individuale e di gruppo. L'attività di valutazione nella scuola dell'infanzia risponde ad una funzione di carattere formativo, che riconosce, accompagna, descrive e documenta i processi di crescita, evita di classificare e giudicare le prestazioni dei bambini, perché è orientata a esplorare e incoraggiare lo sviluppo di tutte le loro potenzialità.  Analogamente,  per  l'istituzione  scolastica,  le  pratiche  dell'autovalutazione,  della  valutazione  esterna, della rendicontazione sociale, sono volte al miglioramento continuo della qualità educativa.
 
@@ -454,17 +505,18 @@ L'esperienza diretta, il gioco, il procedere per tentativi ed errori, permettono
 
 Nella scuola dell'infanzia i traguardi per lo sviluppo della competenza suggeriscono all'insegnante orientamenti, attenzioni e responsabilità nel creare piste di lavoro per organizzare attività ed esperienze volte a promuovere la competenza, che a questa età va intesa in modo globale e unitario.
 
-#### IL SÉ E L 'ALTRO
+#### IL SÉ E L'ALTRO
 
-I bambini formulano tanti perché sulle questioni co ncrete, sugli eventi della vita quotidiana, sulle trasformazioni personali e sociali, sull'ambiente e sull'uso delle risorse, sui valori culturali, sul futuro vicino e lontano, spesso a partire dalla dimensione quotidiana della vita scolastica. Al contempo pongono domande di senso sul mondo e sull'esistenza umana. I molti perché rappresentano la loro spinta a capire il signif icato della vita che li circonda e il valore morale delle loro azioni. Nella scuola hanno molte occasioni per prendere  coscienza  della  propria  identità,  per  scoprire  le  diversità  culturali,  religiose,  etniche,  per  apprendere  le prime regole del vivere sociale, per riflettere sul senso e le conseguenze delle loro azioni.
+I bambini formulano tanti perché sulle questioni concrete, sugli eventi della vita quotidiana, sulle trasformazioni personali e sociali, sull'ambiente e sull'uso delle risorse, sui valori culturali, sul futuro vicino e lontano, spesso a partire dalla dimensione quotidiana della vita scolastica. Al contempo pongono domande di senso sul mondo e sull'esistenza umana. I molti perché rappresentano la loro spinta a capire il significato della vita che li circonda e il valore morale delle loro azioni. Nella scuola hanno molte occasioni per prendere coscienza della propria identità, per scoprire le diversità culturali, religiose, etniche, per apprendere le prime regole del vivere sociale, per riflettere sul senso e le conseguenze delle loro azioni.
 
-Negli anni della scuola dell'infanzia il bambino osserva la natura e i viventi, nel loro nascere, evolversi ed estinguersi. Osserva l'ambiente che lo circonda e coglie le diverse relazioni tra le persone; ascolta le narrazioni degli adulti, le espressioni delle loro opinioni e della loro spiritualità e fede; è testimone d egli eventi e ne vede la rappresentazione attraverso i media; partecipa alle tradizioni della famiglia e della comunità di appartenenza, ma si apre al confronto con altre culture e costumi; si accorge di essere uguale e diverso nella varietà delle situazioni, di poter essere accolto o escluso, di poter accogliere o escludere. Raccoglie discorsi circa gli orientamenti morali, il cosa è giusto e c osa è sbagliato, il valore attribuito alle pratiche  religiose. Si chiede dov'era prima di nascere e se e dove finirà la sua esistenza. Pone domande sull'esistenza di Dio, la vita e la morte, la gioia e il dolore.
+Negli anni della scuola dell'infanzia il bambino osserva la natura e i viventi, nel loro nascere, evolversi ed estinguersi. Osserva l'ambiente che lo circonda e coglie le diverse relazioni tra le persone; ascolta le narrazioni degli adulti, le espressioni delle loro opinioni e della loro spiritualità e fede; è testimone degli eventi e ne vede la rappresentazione attraverso i media; partecipa alle tradizioni della famiglia e della comunità di appartenenza, ma si apre al confronto con altre culture e costumi; si accorge di essere uguale e diverso nella varietà delle situazioni, di poter essere accolto o escluso, di poter accogliere o escludere. Raccoglie discorsi circa gli orientamenti morali, il cosa è giusto e cosa è sbagliato, il valore attribuito alle pratiche religiose. Si chiede dov'era prima di nascere e se e dove finirà la sua esistenza. Pone domande sull'esistenza di Dio, la
 
 18
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+vita e la morte, la gioia e il dolore.
 
 Le domande dei bambini richiedono un atteggiamento di ascolto costruttivo da parte degli adulti, di rasserenamento, comprensione ed esplicitazione delle diverse posizioni.
 
@@ -486,7 +538,7 @@ Sa di avere una storia personale e familiare, conosce le tradizioni della famigl
 
 Riflette, si confronta, discute con gli adulti e con gli altri bambini e comincia e riconoscere la reciprocità di attenzione tra chi parla e chi ascolta.
 
-Pone domande sui temi esistenziali e religiosi, sulle diversità culturali, su ciò che è bene o male, s ulla giustizia, e ha raggiunto una prima consapevolezza dei propri diritti e doveri, delle regole del vivere insieme.
+Pone domande sui temi esistenziali e religiosi, sulle diversità culturali, su ciò che è bene o male, sulla giustizia, e ha raggiunto una prima consapevolezza dei propri diritti e doveri, delle regole del vivere insieme.
 
 Si orienta nelle prime generalizzazioni di passato, presente, futuro e si muove con crescente sicurezza e autonomia negli spazi che gli sono familiari, modulando progressivamente voce e movimento anche in rapporto con gli altri e con le regole condivise.
 
@@ -514,7 +566,7 @@ La scuola dell'infanzia mira a sviluppare gradualmente nel bambino la capacità 
 
 Il  bambino  vive  pienamente  la  propria  corporeità,  ne  percepisce  il  potenziale  comunicativo  ed  espressivo, matura condotte che gli consentono una buona autonomia nella gestione della giornata a scuola.
 
-Riconosce i segnali e i ritmi del proprio corpo, le differenze sessuali e di sviluppo e adotta pratiche corrette di cura di sé, di igiene e di sana aliment azione.
+Riconosce i segnali e i ritmi del proprio corpo, le differenze sessuali e di sviluppo e adotta pratiche corrette di cura di sé, di igiene e di sana alimentazione.
 
 Prova piacere nel movimento e sperimenta schemi posturali e motori, li applica nei giochi individuali e  di  gruppo,  anche  con  l'uso  di  piccoli  attrezzi  ed  è  in  grado  di  adattarli  alle  situazioni  ambientali all'interno della scuola e all'aperto.
 
@@ -524,11 +576,11 @@ Riconosce il proprio corpo, le sue diverse parti e rappresenta il corpo fermo e 
 
 #### IMMAGINI, SUONI, COLORI
 
-I bambini esprimono pensieri ed emozioni con immaginazione e creatività: l'arte orienta questa propensione, educando al piacere del bello e al sentire estetico. L'esplorazione dei materiali a disposizione consente di vivere le prime esperienze artistiche, che sono in grado di stimolare la creatività e contagiare altri apprendimenti. I linguaggi a disposizione dei bambini, come la voce, il gesto, la drammatizzazione, i suoni, la musica, la manipolazione dei materiali, le esperienze grafico-pittoriche, i mass-media, vanno scoperti ed educati perché sviluppino nei piccoli il senso del bello, l a conoscenza di se stessi, degli altri e della realtà.
+I bambini esprimono pensieri ed emozioni con immaginazione e creatività: l'arte orienta questa propensione, educando al piacere del bello e al sentire estetico. L'esplorazione dei materiali a disposizione consente di vivere le prime esperienze artistiche, che sono in grado di stimolare la creatività e contagiare altri apprendimenti. I linguaggi a disposizione dei bambini, come la voce, il gesto, la drammatizzazione, i suoni, la musica, la manipolazione dei materiali, le esperienze grafico-pittoriche, i mass-media, vanno scoperti ed educati perché sviluppino nei piccoli il senso del bello, la conoscenza di se stessi, degli altri e della realtà.
 
-L'incontro dei bambini con l'arte è occasione per g uardare con occhi diversi il mondo che li circonda. I materiali esplorati con i sensi, le tecniche sperimentate e condivise nell'atelier della scuola, le osservazioni di luoghi (piazze, giardini, paesaggi) e di opere (quadri, musei, architetture) aiuteranno a migliorare le capacità percettive, coltivare il piacere della fruizione, della produzione e dell'invenzione e ad avvicinare alla cultura e al patrimonio artistico.
+L'incontro dei bambini con l'arte è occasione per guardare con occhi diversi il mondo che li circonda. I materiali esplorati con i sensi, le tecniche sperimentate e condivise nell'atelier della scuola, le osservazioni di luoghi (piazze, giardini, paesaggi) e di opere (quadri, musei, architetture) aiuteranno a migliorare le capacità percettive, coltivare il piacere della fruizione, della produzione e dell'invenzione e ad avvicinare alla cultura e al patrimonio artistico.
 
-La musica è un'esperienza universale che si manifes ta in modi e generi diversi, tutti di pari dignità, carica di emozioni e ricca di tradizioni culturali. Il bambino, interagendo con il paesaggio sonoro, sviluppa le proprie capacità cognitive e relazionali, impara a percepire, ascoltare, ricercare e discriminare i suoni all'interno di  contesti  di  apprendimento  significativi.  Esplora  le  proprie  possibilità  sonoro-espressive  e  simbolicorappresentative, accrescendo la fiducia nelle proprie potenzialità. L'ascolto delle produzioni sonore personali lo apre al piacere di fare musica e alla condivisione di repertori appartenenti a vari generi musicali.
+La musica è un'esperienza universale che si manifesta in modi e generi diversi, tutti di pari dignità, carica di emozioni e ricca di tradizioni culturali. Il bambino, interagendo con il paesaggio sonoro, sviluppa le proprie capacità cognitive e relazionali, impara a percepire, ascoltare, ricercare e discriminare i suoni all'interno di contesti di apprendimento significativi. Esplora le proprie possibilità sonoro-espressive e simbolico-rappresentative, accrescendo la fiducia nelle proprie potenzialità. L'ascolto delle produzioni sonore personali lo apre al piacere di fare musica e alla condivisione di repertori appartenenti a vari generi musicali.
 
 Il bambino si confronta con i nuovi media e con i nuovi linguaggi della comunicazione, come spettatore e come attore. La scuola può aiutarlo a familiarizzare con l'esperienza della multimedialità (la fotografia, il cinema, la televisione, il digitale), favorendo un contatto attivo con i 'media' e la ricerca delle loro possibilità espressive e creative.
 
@@ -536,13 +588,14 @@ Il bambino si confronta con i nuovi media e con i nuovi linguaggi della comunica
 
 Il  bambino comunica, esprime emozioni, racconta, utilizzando le varie possibilità che il linguaggio del corpo consente.
 
-Inventa storie e sa esprimerle attraverso la drammatizzazione, il disegno, la pittura e altre attività manipolative; utilizza  materiali e strumenti, tecniche espressive e creative; esplora le potenzialità offerte dalle tecnologie.
+Inventa storie e sa esprimerle attraverso la drammatizzazione, il disegno, la pittura e altre attività manipolative; utilizza materiali e strumenti, tecniche espressive e creative; esplora le potenzialità offerte
 
 20
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+dalle tecnologie.
 
 Segue con curiosità e piacere spettacoli di vario tipo (teatrali, musicali, visivi, di animazione …); sviluppa interesse per l'ascolto della musica e per la fruizione di opere d'arte.
 
@@ -554,7 +607,7 @@ Esplora i primi alfabeti musicali, utilizzando anche i simboli di una notazione 
 
 #### I DISCORSI E LE PAROLE
 
-La lingua, in tutte le sue funzioni e forme, è uno strumento essenziale per comunicare e conoscere, per rendere via via più complesso e meglio definito, il proprio pensiero, anche grazie al confronto con gli altri e con l'esperienza concreta e l'osservazione. È il me zzo per esprimersi in modi personali, creativi e sempre più articolati.  La  lingua  materna  è  parte  dell'identità   di  ogni  bambino,  ma  la  conoscenza  di  altre  lingue  apre all'incontro con nuovi mondi e culture.
+La lingua, in tutte le sue funzioni e forme, è uno strumento essenziale per comunicare e conoscere, per rendere via via più complesso e meglio definito, il proprio pensiero, anche grazie al confronto con gli altri e con l'esperienza concreta e l'osservazione. È il mezzo per esprimersi in modi personali, creativi e sempre più articolati. La lingua materna è parte dell'identità di ogni bambino, ma la conoscenza di altre lingue apre all'incontro con nuovi mondi e culture.
 
 I bambini si presentano alla scuola dell'infanzia con un patrimonio linguistico significativo, ma con competenze differenziate,  che  vanno  attentamente  osservate  e  valorizzate.  In  un  ambiente  linguistico  curato  e stimolante i bambini sviluppano nuove capacità quando interagiscono tra di loro, chiedono spiegazioni, confrontano punti di vista, progettano giochi e attività, elaborano e condividono conoscenze. I bambini imparano ad ascoltare storie e racconti, dialogano con adulti e compagni, giocano con la lingua che usano, provano il piacere di comunicare, si cimentano con l'esplorazione della lingua scritta.
 
@@ -586,7 +639,7 @@ Si avvicina alla lingua scritta, esplora e sperimenta prime forme di comunicazio
 
 [[START OF PAGE 22]]
 
-I bambini esplorano continuamente la realtà e imparano a riflettere sulle proprie esperienze descrivendole, rappresentandole, riorganizzandole con diversi criteri. Pongono così le basi per la successiva elabora zione di concetti scientifici e matematici che verranno proposti nella scuola primaria.
+I bambini esplorano continuamente la realtà e imparano a riflettere sulle proprie esperienze descrivendole, rappresentandole, riorganizzandole con diversi criteri. Pongono così le basi per la successiva elaborazione di concetti scientifici e matematici che verranno proposti nella scuola primaria.
 
 La curiosità e le domande sui fenomeni naturali, su se stessi e sugli organismi viventi e su storie, fiabe e giochi tradizionali con riferimenti matematici, possono cominciare a trovare risposte guardando sempre meglio i fatti del mondo, cercando di capire come e quando succedono, intervenendo per cambiarli e sperimentando gli effetti dei cambiamenti. Si avviano così  le prime attività di ricerca che danno talvolta risultati imprevedibili, ma che costruiscono nel bambino la necessaria fiducia nelle proprie capacità di capire e di trovare spiegazioni. Esplorando oggetti, materiali e simboli, osservando la vita di piante ed animali, i bambini elaborano idee personali da confrontare con quelle dei compagni e degli insegnanti.
 
@@ -598,11 +651,11 @@ I bambini elaborano la prima 'organizzazione fisica' del mondo esterno attravers
 
 Toccando, smontando, costruendo e ricostruendo, affinando i propri gesti, i bambini individuano qualità e proprietà degli oggetti e dei materiali, ne immaginano la struttura e sanno assemblarli in varie costruzioni; riconoscono e danno un nome alle proprietà individuate, si accorgono delle loro eventuali trasformazioni. Cercano di capire come sono fatti e come funzionano macchine e meccanismi che fanno parte della loro esperienza, cercando di capire anche quello che non si vede direttamente: le stesse trasformazioni della materia possono essere intuite in base a elementari modelli di strutture 'invisibili'.
 
-Il proprio corpo è sempre oggetto di interesse, sop rattutto per quanto riguarda i processi nascosti, e la curiosità dei bambini permette di avviare le prime interpretazioni sulla sua struttura e sul suo funzionamento. Gli organismi animali e vegetali, osservati nei loro ambienti o in microambienti artificiali, possono suggerire un 'modello di vivente' per capire i processi più elementari e la varietà dei modi di vivere. Si può così portare l'attenzione dei bambini sui cambiamenti insensibili o vistosi che avvengono nel loro corpo, in quello degli animali e delle piante e verso le continue trasformazioni dell'ambiente naturale.
+Il proprio corpo è sempre oggetto di interesse, soprattutto per quanto riguarda i processi nascosti, e la curiosità dei bambini permette di avviare le prime interpretazioni sulla sua struttura e sul suo funzionamento. Gli organismi animali e vegetali, osservati nei loro ambienti o in microambienti artificiali, possono suggerire un 'modello di vivente' per capire i processi più elementari e la varietà dei modi di vivere. Si può così portare l'attenzione dei bambini sui cambiamenti insensibili o vistosi che avvengono nel loro corpo, in quello degli animali e delle piante e verso le continue trasformazioni dell'ambiente naturale.
 
 ##### Numero e spazio
 
-La familiarità con i numeri può nascere a partire da quelli che si usano nella vita di ogni giorno; poi, ragionando sulle quantità e sulla numerosità di oggetti diversi, i bambini costruiscono le prime fondamentali competenze  sul  contare  oggetti  o  eventi,  accompagnandole  con  i  gesti  dell'indicare,  del  togliere  e dell'aggiungere. Si avviano così alla conoscenza de l numero e della struttura delle prime operazioni, suddividono in parti i materiali e realizzano elementari attività di misura. Gradualmente, avviando i primi processi di astrazione, imparano a rappresentare con simboli semplici i risultati delle loro esperienze.
+La familiarità con i numeri può nascere a partire da quelli che si usano nella vita di ogni giorno; poi, ragionando sulle quantità e sulla numerosità di oggetti diversi, i bambini costruiscono le prime fondamentali competenze sul contare oggetti o eventi, accompagnandole con i gesti dell'indicare, del togliere e dell'aggiungere. Si avviano così alla conoscenza del numero e della struttura delle prime operazioni, suddividono in parti i materiali e realizzano elementari attività di misura. Gradualmente, avviando i primi processi di astrazione, imparano a rappresentare con simboli semplici i risultati delle loro esperienze.
 
 Muovendosi nello spazio, i bambini scelgono ed eseguono i percorsi più idonei per raggiungere una meta prefissata scoprendo concetti geometrici come quelli di direzione e di angolo. Sanno descrivere le forme di oggetti tridimensionali, riconoscendo le forme geometriche e individuandone le proprietà (ad esempio, riconoscendo nel 'quadrato' una proprietà dell'oggetto e non l'oggetto stesso).
 
@@ -616,13 +669,14 @@ Sa collocare le azioni quotidiane nel tempo della giornata e della settimana.
 
 Riferisce correttamente eventi del passato recente; sa dire cosa potrà succedere in un futuro immediato e prossimo.
 
-Osserva con attenzione il suo corpo, gli organismi viventi e i loro ambienti, i fenomeni naturali, accorgendosi dei loro cambiamenti.
+Osserva con attenzione il suo corpo, gli organismi viventi e i loro ambienti, i fenomeni naturali, ac-
 
 22
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+corgendosi dei loro cambiamenti.
 
 Si interessa a macchine e strumenti tecnologici, sa scoprirne le funzioni e i possibili usi.
 
@@ -632,13 +686,13 @@ Individua  le  posizioni  di  oggetti  e  persone  nello  spazio,  usando  termi
 
 ### Dalla scuola dell'infanzia alla scuola primaria
 
-Ogni campo di esperienza offre specifiche opportunità di apprendimento, ma contribuisce allo stesso tempo a realizzare i compiti di sviluppo pensati unitariamente per i bambini dai tre ai sei anni, in termini di identità (costruzione del sé, autostima, fiducia nei prop ri mezzi), di autonomia (rapporto sempre più consapevole con gli altri), di competenza (come elaborazione di conoscenze, abilità, atteggiamenti), di cittadinanza (come attenzione alle dimensioni etiche e sociali).
+Ogni campo di esperienza offre specifiche opportunità di apprendimento, ma contribuisce allo stesso tempo a realizzare i compiti di sviluppo pensati unitariamente per i bambini dai tre ai sei anni, in termini di identità (costruzione del sé, autostima, fiducia nei propri mezzi), di autonomia (rapporto sempre più consapevole con gli altri), di competenza (come elaborazione di conoscenze, abilità, atteggiamenti), di cittadinanza (come attenzione alle dimensioni etiche e sociali).
 
-Al termine del percorso triennale della scuola dell'infanzia, è ragionevole attendersi che ogni bambin o abbia sviluppato alcune competenze di base che strutturano la sua crescita personale.
+Al termine del percorso triennale della scuola dell'infanzia, è ragionevole attendersi che ogni bambino abbia sviluppato alcune competenze di base che strutturano la sua crescita personale.
 
-Riconosce ed esprime le proprie emozioni, è consape vole di desideri e paure, avverte gli stati d'animo propri e altrui.
+Riconosce ed esprime le proprie emozioni, è consapevole di desideri e paure, avverte gli stati d'animo propri e altrui.
 
-Ha un positivo rapporto con la propria corporeità, ha maturato una sufficiente fiducia in sé, è progre ssivamente consapevole delle proprie risorse e dei propri limiti, quando occorre sa chiedere aiuto.
+Ha un positivo rapporto con la propria corporeità, ha maturato una sufficiente fiducia in sé, è progressivamente consapevole delle proprie risorse e dei propri limiti, quando occorre sa chiedere aiuto.
 
 Manifesta curiosità e voglia di sperimentare, interagisce con le cose, l'ambiente e le persone, percependone le reazioni ed i cambiamenti.
 
@@ -648,15 +702,13 @@ Ha sviluppato l'attitudine a porre e a porsi domande di senso su questioni etich
 
 Coglie diversi punti di vista, riflette e negozia significati, utilizza gli errori come fonte di conoscenza.
 
-Sa raccontare, narrare, descrivere situazioni ed esperienze vissute, comunica e si esprime con una pluralità
-
-di linguaggi, utilizza con sempre maggiore proprietà la lingua italiana.
+Sa raccontare, narrare, descrivere situazioni ed esperienze vissute, comunica e si esprime con una pluralità di linguaggi, utilizza con sempre maggiore proprietà la lingua italiana.
 
 Dimostra prime abilità di tipo logico, inizia ad interiorizzare le coordinate spazio-temporali e ad orientarsi nel mondo dei simboli, delle rappresentazioni, dei media, delle tecnologie.
 
 Rileva le caratteristiche principali di eventi, oggetti, situazioni, formula ipotesi, ricerca soluzioni a situazioni problematiche di vita quotidiana.
 
-È attento alle consegne, si appassiona, porta a ter mine il lavoro, diventa consapevole dei processi realizzati e li documenta.
+È attento alle consegne, si appassiona, porta a termine il lavoro, diventa consapevole dei processi realizzati e li documenta.
 
 Si esprime in modo personale, con creatività e partecipazione, è sensibile alla pluralità di culture,  lingue, esperienze.
 
@@ -676,9 +728,9 @@ In questa prospettiva ogni scuola pone particolare attenzione ai processi di app
 
 ### Il senso dell'esperienza educativa
 
-Fin dai primi anni la scuola promuove un percorso di attività nel quale ogni alunno possa assumere un ruolo attivo nel proprio apprendimento, sviluppare al meglio le inclinazioni, esprimere le curiosità, riconoscere ed intervenire sulle difficoltà, assumere sempre maggiore consapevolezza di sé, avviarsi a costr uire un proprio progetto di vita. Così la scuola svolge un  fondamentale ruolo educativo e di orientamento, fornendo all'alunno le occasioni per acquisire consapevolezza delle sue potenzialità e risorse, per progettare la realizzazione di esperienze significative e verificare gli esiti conseguiti in relazione alle attese. Tutta la scuola in genere ha una funzione orientativa in quanto preparazione alle scelte decisive della vita, ma in particolare la scuola  del  primo  ciclo,  con  la  sua  unitarietà  e  progressiva  articolazione  disciplinare,  intende  favorire l'orientamento verso gli studi successivi mediante esperienze didattiche non ripiegate su se stesse ma aperte e stimolanti, finalizzate a suscitare la curiosità dell'alunno e a fargli mettere alla prova le proprie capacità.
+Fin dai primi anni la scuola promuove un percorso di attività nel quale ogni alunno possa assumere un ruolo attivo nel proprio apprendimento, sviluppare al meglio le inclinazioni, esprimere le curiosità, riconoscere ed intervenire sulle difficoltà, assumere sempre maggiore consapevolezza di sé, avviarsi a costruire un proprio progetto di vita. Così la scuola svolge un fondamentale ruolo educativo e di orientamento, fornendo all'alunno le occasioni per acquisire consapevolezza delle sue potenzialità e risorse, per progettare la realizzazione di esperienze significative e verificare gli esiti conseguiti in relazione alle attese. Tutta la scuola in genere ha una funzione orientativa in quanto preparazione alle scelte decisive della vita, ma in particolare la scuola del primo ciclo, con la sua unitarietà e progressiva articolazione disciplinare, intende favorire l'orientamento verso gli studi successivi mediante esperienze didattiche non ripiegate su se stesse ma aperte e stimolanti, finalizzate a suscitare la curiosità dell'alunno e a fargli mettere alla prova le proprie capacità.
 
-La scuola propone situazioni e contesti in cui gli alunni riflettono per capire il mondo e se stessi, diventano consapevoli che il proprio corpo è un bene di cu i prendersi cura, trovano stimoli per sviluppare il pensiero analitico e critico, imparano ad imparare, coltivano la fantasia e il pensiero originale, si confrontano per ricercare significati e condividere possibili schemi di comprensione della realtà, riflettendo sul senso e le conseguenze delle proprie scelte. Favorisce lo sviluppo delle capacità necessarie per imparare a leggere le proprie emozioni e a gestirle, per porsi obiettivi non immediati e perseguirli. Promuove inoltre quel primario senso di responsabilità che si traduce nel fare bene il proprio lavoro e nel portarlo a termine, nell'avere cura di sé, degli oggetti, degli ambienti che si frequen tano, sia naturali sia sociali.
+La scuola propone situazioni e contesti in cui gli alunni riflettono per capire il mondo e se stessi, diventano consapevoli che il proprio corpo è un bene di cui prendersi cura, trovano stimoli per sviluppare il pensiero analitico e critico, imparano ad imparare, coltivano la fantasia e il pensiero originale, si confrontano per ricercare significati e condividere possibili schemi di comprensione della realtà, riflettendo sul senso e le conseguenze delle proprie scelte. Favorisce lo sviluppo delle capacità necessarie per imparare a leggere le proprie emozioni e a gestirle, per porsi obiettivi non immediati e perseguirli. Promuove inoltre quel primario senso di responsabilità che si traduce nel fare bene il proprio lavoro e nel portarlo a termine, nell'avere cura di sé, degli oggetti, degli ambienti che si frequentano, sia naturali sia sociali.
 
 Sollecita gli alunni a un'attenta riflessione sui comportamenti di gruppo al fine di individuare quegli atteggiamenti che violano la dignità della persona e il rispetto reciproco, li orienta a sperimentare situazioni di studio e di vita dove sviluppare atteggiamenti positivi ed imparare a collaborare con altri.
 
@@ -690,21 +742,22 @@ Di fronte alla complessa realtà sociale, la scuola ha bisogno di stabilire con 
 
 ### L'alfabetizzazione culturale di base
 
-Il  compito  specifico  del  primo  ciclo  è  quello  di  pr omuovere  l'alfabetizzazione  di  base  attraverso l'acquisizione dei linguaggi e dei codici che costituiscono la struttura della nostra cultura, in un orizzonte allargato alle altre culture con cui conviviamo e all'uso consapevole dei nuovi media.
+Il compito specifico del primo ciclo è quello di promuovere l'alfabetizzazione di base attraverso l'acquisizione dei linguaggi e dei codici che costituiscono la struttura della nostra cultura, in un orizzonte al-
 
 24
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+largato alle altre culture con cui conviviamo e all'uso consapevole dei nuovi media.
 
 Si tratta di una alfabetizzazione culturale e sociale che include quella strumentale, da sempre sintetizzata nel 'leggere, scrivere e far di conto', e la potenzia attraverso i linguaggi e i saperi delle varie discipline.
 
 All'alfabetizzazione culturale e sociale concorre in via prioritaria l'educazione plurilingue e interculturale. La lingua materna, la lingua di scolarizzazione e le lingue europee, in quanto lingue dell'educazione, contribuiscono infatti a promuovere i diritti del soggetto al pieno sviluppo della propria identità nel contatto con l'alterità linguistica e culturale. L'educazione plurilingue e interculturale rappresenta una risorsa funzionale alla  valorizzazione  delle  diversità  e  al  successo  scolastico  di  tutti  e  di  ognuno  ed  è  presupposto  per l'inclusione sociale e per la partecipazione democratica.
 
-La scuola primaria mira all'acquisizione degli apprendimenti di base, come primo esercizio dei diritti costituzionali. Ai bambini e alle bambine che la frequentano offre l'opportunità di sviluppare le dimensioni cognitive, emotive, affettive, sociali, corporee, etiche e religiose, e di acquisire i saperi irrinunciabili. Si pone come scuola formativa che, attraverso gli alfabeti caratteristici di ciascuna disciplina, permette di esercitare differenti stili cognitivi, ponendo così le premess e per lo sviluppo del pensiero riflessivo e critico. Per questa via si formano cittadini consapevoli e responsabili a tutti i livelli, da quello locale a quello europeo.
+La scuola primaria mira all'acquisizione degli apprendimenti di base, come primo esercizio dei diritti costituzionali. Ai bambini e alle bambine che la frequentano offre l'opportunità di sviluppare le dimensioni cognitive, emotive, affettive, sociali, corporee, etiche e religiose, e di acquisire i saperi irrinunciabili. Si pone come scuola formativa che, attraverso gli alfabeti caratteristici di ciascuna disciplina, permette di esercitare differenti stili cognitivi, ponendo così le premesse per lo sviluppo del pensiero riflessivo e critico. Per questa via si formano cittadini consapevoli e responsabili a tutti i livelli, da quello locale a quello europeo.
 
-La padronanza degli strumenti culturali di base è a ncor più importante per bambini che vivono in situazioni di svantaggio: più solide saranno le capacità acquisite nella scuola primaria, maggiori saranno le probabilità di inclusione sociale e culturale attraverso il sistema dell'istruzione.
+La padronanza degli strumenti culturali di base è ancor più importante per bambini che vivono in situazioni di svantaggio: più solide saranno le capacità acquisite nella scuola primaria, maggiori saranno le probabilità di inclusione sociale e culturale attraverso il sistema dell'istruzione.
 
 Nella scuola secondaria di primo grado si realizza l'accesso alle discipline come punti di vista sulla realtà e come modalità di conoscenza, interpretazione e rappresentazione del mondo.
 
@@ -716,41 +769,41 @@ Le competenze sviluppate nell'ambito delle singole discipline concorrono a loro 
 
 ### Cittadinanza e Costituzione
 
-È compito peculiare di questo ciclo scolastico porr e le basi per l'esercizio della cittadinanza attiva, potenziando e ampliando gli apprendimenti promossi nella scuola dell'infanzia.
+È compito peculiare di questo ciclo scolastico porre le basi per l'esercizio della cittadinanza attiva, potenziando e ampliando gli apprendimenti promossi nella scuola dell'infanzia.
 
-L'educazione alla cittadinanza viene promossa attraverso esperienze significative che consentano di apprendere il concreto prendersi cura di se stessi, degli altri e dell'ambiente e che favoriscano forme di cooperazione  e  di  solidarietà.  Questa  fase  del  processo  formativo  è  il  terreno  favorevole  per  lo  sviluppo  d i un'adesione consapevole a valori condivisi e di atteggiamenti cooperativi e collaborativi che costituiscono la condizione per praticare la convivenza civile.
+L'educazione alla cittadinanza viene promossa attraverso esperienze significative che consentano di apprendere il concreto prendersi cura di se stessi, degli altri e dell'ambiente e che favoriscano forme di cooperazione e di solidarietà. Questa fase del processo formativo è il terreno favorevole per lo sviluppo di un'adesione consapevole a valori condivisi e di atteggiamenti cooperativi e collaborativi che costituiscono la condizione per praticare la convivenza civile.
 
 Obiettivi irrinunciabili dell'educazione alla cittadinanza sono la costruzione del senso di legalità e lo sviluppo di un'etica della responsabilità, che si realizzano nel dovere di scegliere e agire in modo consapevole e che implicano l'impegno a elaborare idee e a promuovere azioni finalizzate al miglioramento continuo del proprio contesto di vita, a partire dalla vita quotidiana a scuola e dal personale coinvolgimento in routine consuetudinarie che possono riguardare la pulizia e il buon uso dei luoghi, la cura del giardino o del cortile, la custodia dei sussidi,  la  documentazione,  le  prime  forme  di  partecipazione  alle  decisioni  comuni,  le  piccole  riparazioni, l'organizzazione del lavoro comune, ecc.
 
-Accanto ai valori e alle competenze inerenti la cittadinanza, la scuola del primo ciclo include nel proprio curricolo la prima conoscenza della Costituzione della Repubblica italiana. Gli allievi imparano così  a riconoscere e a rispettare i valori sanciti e tutelati nella Costituzione, in particolare i diritti inviolabili di ogni essere umano (articolo 2), il riconoscimento della pari dignità sociale (articolo 3), il dovere di contribuire in modo concreto alla qualità della vita della società (articolo 4), la libertà di religione (articolo 8), le varie forme di libertà (articoli 13-21). Imparano altresì l' importanza delle procedure nell'esercizio della cittadinanza e la distinzione tra diversi compiti, ruoli e poteri. Questo favorisce una prima conoscenza di come sono organizzate la nostra società (articoli 35-54) e le nostre istituzioni politiche (articoli 55-96). Al tempo stesso contribuisce a dare un valore più largo e consapevole alla partecipazione alla vita della scuola intesa come comunità che funziona sulla base di regole condivise.
+Accanto ai valori e alle competenze inerenti la cittadinanza, la scuola del primo ciclo include nel proprio curricolo la prima conoscenza della Costituzione della Repubblica italiana. Gli allievi imparano così a rico-
 
 25
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
-Parte integrante dei diritti costituzionali e di cittadinanza è il diritto alla parola (articolo 21) i l cui esercizio dovrà essere prioritariamente tutelato ed incoraggiato in ogni contesto scolastico e in ciascun alunno, avendo particolare attenzione a sviluppare le regole di una conversazione corretta. È attraverso la par ola e il dialogo tra interlocutori che si rispettano reciprocamente, infatti, che si costruiscono significati condivisi e si opera per sanare le divergenze, per acquisire punti di vista nuovi, per negoziare e dare un senso positivo alle differenze così come per prevenire e regolare i con flitti.
+noscere e a rispettare i valori sanciti e tutelati nella Costituzione, in particolare i diritti inviolabili di ogni essere umano (articolo 2), il riconoscimento della pari dignità sociale (articolo 3), il dovere di contribuire in modo concreto alla qualità della vita della società (articolo 4), la libertà di religione (articolo 8), le varie forme di libertà (articoli 13-21). Imparano altresì l'importanza delle procedure nell'esercizio della cittadinanza e la distinzione tra diversi compiti, ruoli e poteri. Questo favorisce una prima conoscenza di come sono organizzate la nostra società (articoli 35-54) e le nostre istituzioni politiche (articoli 55-96). Al tempo stesso contribuisce a dare un valore più largo e consapevole alla partecipazione alla vita della scuola intesa come comunità che funziona sulla base di regole condivise.
+Parte integrante dei diritti costituzionali e di cittadinanza è il diritto alla parola (articolo 21) il cui esercizio dovrà essere prioritariamente tutelato ed incoraggiato in ogni contesto scolastico e in ciascun alunno, avendo particolare attenzione a sviluppare le regole di una conversazione corretta. È attraverso la parola e il dialogo tra interlocutori che si rispettano reciprocamente, infatti, che si costruiscono significati condivisi e si opera per sanare le divergenze, per acquisire punti di vista nuovi, per negoziare e dare un senso positivo alle differenze così come per prevenire e regolare i conflitti.
 
 La lingua italiana costituisce il primo strumento di comunicazione e di accesso ai saperi. La lingua scritta, in particolare, rappresenta un mezzo decisivo per l'esplorazione del mondo, l'organizzazione del pensiero e per la riflessione sull'esperienza e il sapere dell'umanità.
 
-È responsabilità di tutti i docenti garantire la pa dronanza della lingua italiana, valorizzando al contempo gli idiomi nativi e le lingue comunitarie. Così int esa, la scuola diventa luogo privilegiato di apprendimento e di confronto libero e pluralistico.
+È responsabilità di tutti i docenti garantire la padronanza della lingua italiana, valorizzando al contempo gli idiomi nativi e le lingue comunitarie. Così intesa, la scuola diventa luogo privilegiato di apprendimento e di confronto libero e pluralistico.
 
 ### L'ambiente di apprendimento
 
 Una buona scuola primaria e secondaria di primo grado si costituisce come un contesto idoneo a promuovere apprendimenti significativi e a garantire il successo formativo per tutti gli alunni.
 
-A tal fine è possibile indicare, nel rispetto dell' autonomia delle scuole e della libertà di insegnamento, alcuni principi metodologici che contraddistinguono un'efficace azione formativa senza pretesa di esaustività.
+A tal fine è possibile indicare, nel rispetto dell'autonomia delle scuole e della libertà di insegnamento, alcuni principi metodologici che contraddistinguono un'efficace azione formativa senza pretesa di esaustività.
 
 L'acquisizione dei saperi richiede un uso flessibile degli spazi, a partire dalla stessa aula scolastica, ma anche la disponibilità di luoghi attrezzati che facilitino approcci operativi alla conoscenza per le scienze, la tecnologia, le lingue comunitarie, la produzione musicale, il teatro, le attività pittoriche, la motricità.
 
 Particolare importanza assume la biblioteca scolastica, anche in una prospettiva multimediale, da intendersi come luogo privilegiato per la lettura e la scoperta di una pluralità di libri e di testi, che sostiene lo studio autonomo e l'apprendimento continuo; un luogo pubblico, fra scuola e territorio, che favorisce la partecipazione delle famiglie, agevola i percorsi di integrazione, crea ponti tra lingue, linguaggi, religioni e culture.
 
-Valorizzare l'esperienza e le conoscenze degli alunni , per ancorarvi nuovi contenuti. Nel processo di apprendimento l'alunno porta una grande ricchezza di esperienze e conoscenze acquisite fuori dalla scuola e attraverso i diversi media oggi disponibili a tutti, mette in gioco aspettative ed emozioni, si presenta con una dotazione di informazioni, abilità, modalità di apprendere che l'azione didattica dovrà opportunamente richiamare, esplorare, problematizzare. In questo modo l'allievo riesce a dare senso a quello che va imparando.
+Valorizzare l'esperienza e le conoscenze degli alunni, per ancorarvi nuovi contenuti. Nel processo di apprendimento l'alunno porta una grande ricchezza di esperienze e conoscenze acquisite fuori dalla scuola e attraverso i diversi media oggi disponibili a tutti, mette in gioco aspettative ed emozioni, si presenta con una dotazione di informazioni, abilità, modalità di apprendere che l'azione didattica dovrà opportunamente richiamare, esplorare, problematizzare. In questo modo l'allievo riesce a dare senso a quello che va imparando.
 
-Attuare interventi adeguati nei riguardi delle diversità , per fare in modo che non diventino disuguaglianze. Le classi sono oggi caratterizzate da molteplici diversità, legate alle differenze nei modi e nei livelli di apprendimento, alle specifiche inclinazioni e ai personali interessi, a particolari stati emotivi e affettivi. La scuola deve progettare e realizzare percorsi didattici specifici per rispondere ai bisogni educativi degli allievi. Particolare attenzione va rivolta agli alunni con cittadinanza non italiana i quali, ai fini di una piena integrazione, devono acquisire sia un adeguato livello di uso e controllo della lingua italiana per comunicare e avviare i processi di apprendimento, sia una sempre più sicura padronanza linguistica e culturale per proseguire nel proprio itinerario di istruzione. Tra loro vi sono alunni giunti da poco in Italia (immigrati 'di prima generazione') e alunni nati in Italia (immigrati 'di seconda generazione'). Questi alunni richiedono interventi differenziati che non devono investire il solo insegnamento della lingua italiana ma la progettazione didattica complessiva della scuola e quindi dei docenti di tutte le discipline. L'integrazione degli alunni con disabilità nelle scuole comuni, inoltre, anche se è da tempo un fatto culturalmente e normat ivamente acquisito e consolidato, richiede un'effettiva progettualità, utilizzando le forme di flessibilità previste dall'autonomia e le opportunità offerte dalle tecnologie.
+Attuare interventi adeguati nei riguardi delle diversità, per fare in modo che non diventino disuguaglianze. Le classi sono oggi caratterizzate da molteplici diversità, legate alle differenze nei modi e nei livelli di apprendimento, alle specifiche inclinazioni e ai personali interessi, a particolari stati emotivi e affettivi. La scuola deve progettare e realizzare percorsi didattici specifici per rispondere ai bisogni educativi degli allievi. Particolare attenzione va rivolta agli alunni con cittadinanza non italiana i quali, ai fini di una piena integrazione, devono acquisire sia un adeguato livello di uso e controllo della lingua italiana per comunicare e avviare i processi di apprendimento, sia una sempre più sicura padronanza linguistica e culturale per proseguire nel proprio itinerario di istruzione. Tra loro vi sono alunni giunti da poco in Italia (immigrati 'di prima generazione') e alunni nati in Italia (immigrati 'di seconda generazione'). Questi alunni richiedono interventi differenziati che non devono investire il solo insegnamento della lingua italiana ma la progettazione didattica complessiva della scuola e quindi dei docenti di tutte le discipline. L'integrazione degli alunni con disabilità nelle scuole comuni, inoltre, anche se è da tempo un fatto culturalmente e normativamente acquisito e consolidato, richiede un'effettiva progettualità, utilizzando le forme di flessibilità previste dall'autonomia e le opportunità offerte dalle tecnologie.
 
-Favorire l'esplorazione e la scoperta , al fine di promuovere il gusto per la ricerca di nuove conoscenze. In questa prospettiva, la problematizzazione svolge una funzione insostituibile: sollecita gli alunni a individuare problemi, a sollevare domande, a mettere in discussione le conoscenze già elaborate, a trovare appropriate piste d'indagine, a cercare soluzioni originali.
+Favorire l'esplorazione e la scoperta, al fine di promuovere il gusto per la ricerca di nuove conoscenze. In
 
 26
 
@@ -758,11 +811,13 @@ Favorire l'esplorazione e la scoperta , al fine di promuovere il gusto per la ri
 
 [[START OF PAGE 27]]
 
-Incoraggiare l'apprendimento collaborativo . Imparare non è solo un processo individuale. La d imensione sociale dell'apprendimento svolge un ruolo significativo. In tal senso, molte sono le forme di interazione e collaborazione che possono essere introdotte (dall'aiuto reciproco all'apprendimento cooperativo, all'apprendimento tra pari), sia all'interno della classe, sia attraverso la formazione di gruppi di lavoro con alunni di classi e di età diverse. A questo scopo risulta molto efficace l'utilizzo delle nuove tecnologie che permettono agli alunni di operare insieme per costruire nuove conoscenze, ad esempio attraverso ricerche sul web e per corrispondere con coetanei anche di altri paesi.
+questa prospettiva, la problematizzazione svolge una funzione insostituibile: sollecita gli alunni a individuare problemi, a sollevare domande, a mettere in discussione le conoscenze già elaborate, a trovare appropriate piste d'indagine, a cercare soluzioni originali.
 
-Promuovere la consapevolezza del proprio modo di apprendere , al fine di 'imparare ad apprendere'. Riconoscere le difficoltà incontrate e le strategie adottate per superarle, prendere atto degli errori commessi, ma anche comprendere le ragioni di un insuccesso, conoscere i propri punti di forza, sono tutte competenze necessarie a rendere l'alunno consapevole del proprio stile di apprendimento e capace di sviluppare autonomia nello studio. Occorre che l'alunno sia attivamente impegnato nella costruzione del suo sapere e di un suo metodo di studio, sia sollecitato a riflettere su come e quanto impara, sia incoraggiato a esplicitare i suoi modi di comprendere e a comunicare ad altri i traguardi raggiunti. Ogni alunno va posto nelle condizioni di capire il compito assegnato e i traguardi da raggiungere, riconoscere le difficoltà e stimare le proprie abilità, imparando così a riflettere sui propri risultati, valutare  i progressi compiuti, riconoscere i limiti e le sfide da affrontare, rendersi conto degli esiti delle proprie azioni e trarne considerazioni per migliorare.
+Incoraggiare l'apprendimento collaborativo. Imparare non è solo un processo individuale. La dimensione sociale dell'apprendimento svolge un ruolo significativo. In tal senso, molte sono le forme di interazione e collaborazione che possono essere introdotte (dall'aiuto reciproco all'apprendimento cooperativo, all'apprendimento tra pari), sia all'interno della classe, sia attraverso la formazione di gruppi di lavoro con alunni di classi e di età diverse. A questo scopo risulta molto efficace l'utilizzo delle nuove tecnologie che permettono agli alunni di operare insieme per costruire nuove conoscenze, ad esempio attraverso ricerche sul web e per corrispondere con coetanei anche di altri paesi.
 
-Realizzare attività didattiche in forma di laboratorio , per favorire l'operatività e allo stesso tempo il dialogo e la riflessione su quello che si fa. Il laboratorio, se ben organizzato, è la modalità di lavoro  che meglio incoraggia la ricerca e la progettualità, coinvolge gli alunni nel pensare, realizzare, valutare attività vissute in modo condiviso e partecipato con altri, e può essere attivata sia nei diversi spazi e occasioni interni alla scuola sia valorizzando il territorio come risorsa per l'apprendimento.
+Promuovere la consapevolezza del proprio modo di apprendere, al fine di 'imparare ad apprendere'. Riconoscere le difficoltà incontrate e le strategie adottate per superarle, prendere atto degli errori commessi, ma anche comprendere le ragioni di un insuccesso, conoscere i propri punti di forza, sono tutte competenze necessarie a rendere l'alunno consapevole del proprio stile di apprendimento e capace di sviluppare autonomia nello studio. Occorre che l'alunno sia attivamente impegnato nella costruzione del suo sapere e di un suo metodo di studio, sia sollecitato a riflettere su come e quanto impara, sia incoraggiato a esplicitare i suoi modi di comprendere e a comunicare ad altri i traguardi raggiunti. Ogni alunno va posto nelle condizioni di capire il compito assegnato e i traguardi da raggiungere, riconoscere le difficoltà e stimare le proprie abilità, imparando così a riflettere sui propri risultati, valutare i progressi compiuti, riconoscere i limiti e le sfide da affrontare, rendersi conto degli esiti delle proprie azioni e trarne considerazioni per migliorare.
+
+Realizzare attività didattiche in forma di laboratorio, per favorire l'operatività e allo stesso tempo il dialogo e la riflessione su quello che si fa. Il laboratorio, se ben organizzato, è la modalità di lavoro che meglio incoraggia la ricerca e la progettualità, coinvolge gli alunni nel pensare, realizzare, valutare attività vissute in modo condiviso e partecipato con altri, e può essere attivata sia nei diversi spazi e occasioni interni alla scuola sia valorizzando il territorio come risorsa per l'apprendimento.
 
 27
 
@@ -772,7 +827,7 @@ Realizzare attività didattiche in forma di laboratorio , per favorire l'operati
 
 ### ITALIANO
 
-Lo sviluppo di competenze linguistiche ampie e sicure è una condizione indispensabile per la crescita  della persona e per l'esercizio pieno della cittadinanza, per l'accesso critico a tutti gli ambiti culturali e per il raggiungimento del successo scolastico in ogni settore di studio. Per realizzare queste finalità estese e trasversali, è necessario che l'apprendimento della li ngua sia oggetto di specifiche attenzioni da parte di tutti i docenti, che in questa prospettiva coordineranno le loro attività.
+Lo sviluppo di competenze linguistiche ampie e sicure è una condizione indispensabile per la crescita della persona e per l'esercizio pieno della cittadinanza, per l'accesso critico a tutti gli ambiti culturali e per il raggiungimento del successo scolastico in ogni settore di studio. Per realizzare queste finalità estese e trasversali, è necessario che l'apprendimento della lingua sia oggetto di specifiche attenzioni da parte di tutti i docenti, che in questa prospettiva coordineranno le loro attività.
 
 Nel nostro paese l'apprendimento della lingua avviene oggi in uno spazio antropologico caratterizzato da una varietà di elementi: la persistenza, anche se quanto mai ineguale e diversificata, della dialettofonia; la ricchezza e la varietà delle lingue minoritarie; la compresenza di più lingue di tutto il mondo; la presenza infine dell'italiano parlato e scritto con livelli assai diversi di padronanza e con marcate varianti regionali. Tutto questo comporta che nell'esperienza di molti bambini e ragazzi l'italiano rappresenti una seconda lingua. La cura costante rivolta alla progressiva padronanza dell'italiano implica, dunque, che l'apprendimento della lingua italiana avvenga a partire dalle competenze linguistiche e comunicative che gli allievi hanno già maturato nell'idioma nativo e guardi al loro sviluppo in funzione non solo del miglior rendimento scolastico, ma come componente essenziale delle abilità per la vita.
 
@@ -784,11 +839,11 @@ La complessità dell'educazione linguistica rende necessario che i docenti delle
 
 #### Oralità
 
-La comunicazione orale nella forma dell'ascolto e del parlato è il modo naturale con cui il bambino, a d un tempo, entra in rapporto con gli altri e 'dà i nomi alle cose' esplorandone la complessità. Tale capacità di interagire, di nominare in modo sempre più esteso, di elaborare il pensiero attraverso l'oralità e di comprendere discorsi e testi di vario tipo viene sviluppata e gradualmente sistematizzata a scuola, dove si promuove la capacità di ampliare il lessico, ascoltare e produrre discorsi per scopi diversi e man mano più articolati e meglio pianificati. La pratica delle abilità linguistiche orali nella comunità scolastica passa attraverso l'esperienza dei diversi usi della lingua (comunicativi, euristici, cognitivi, espressivi, argomentativi) e la predisposizione di ambienti sociali di apprendimento idonei al dialogo, all'interazione, alla ricerca e alla costruzione di significati, alla condivisione di conoscenze, al riconoscimento di punti di vista e alla loro negoziazione.
+La comunicazione orale nella forma dell'ascolto e del parlato è il modo naturale con cui il bambino, ad un tempo, entra in rapporto con gli altri e 'dà i nomi alle cose' esplorandone la complessità. Tale capacità di interagire, di nominare in modo sempre più esteso, di elaborare il pensiero attraverso l'oralità e di comprendere discorsi e testi di vario tipo viene sviluppata e gradualmente sistematizzata a scuola, dove si promuove la capacità di ampliare il lessico, ascoltare e produrre discorsi per scopi diversi e man mano più articolati e meglio pianificati. La pratica delle abilità linguistiche orali nella comunità scolastica passa attraverso l'esperienza dei diversi usi della lingua (comunicativi, euristici, cognitivi, espressivi, argomentativi) e la predisposizione di ambienti sociali di apprendimento idonei al dialogo, all'interazione, alla ricerca e alla costruzione di significati, alla condivisione di conoscenze, al riconoscimento di punti di vista e alla loro negoziazione.
 
 #### Lettura
 
-La pratica della lettura, centrale in tutto il primo ciclo di istruzione, è proposta come momento di s ocializzazione e di discussione dell'apprendimento di contenuti, ma anche come momento di ricerca autonoma e individuale, in grado di sviluppare la capacità di concentrazione e di riflessione critica, quindi come attività particolarmente utile per favorire il processo di maturazione dell'allievo. Per lo sviluppo di una sicura competenza di lettura è necessaria l'acquisizione di o pportune strategie e tecniche, compresa la lettura a voce alta, la cura dell'espressione e la costante messa in atto di operazioni cognitive per la comprensione del testo. Saper leggere è essenziale per il reperimento delle  informazioni, per ampliare le proprie conoscenze, per ottenere risposte significative. La cura della comprensione di testi espositivi e argomentativi - anche utilizzando il dibattito e il dialogo intorno ai testi presentati - è esercizio di fondamentale importanza. La nascita del gusto per la lettura produce aumento di attenzione e curiosità, sviluppa la fantasia e il piacere della ricerca in proprio, fa incontrare i racconti e le storie di ogni civiltà e tempo, avvicina all'altro e al diverso da sé. Tutte queste esperienze sono componenti imprescindibili per il raggiungimento di una solida competenza nella lettura e per lo sviluppo di ogni futura conoscenza.
+La pratica della lettura, centrale in tutto il primo ciclo di istruzione, è proposta come momento di socializzazione e di discussione dell'apprendimento di contenuti, ma anche come momento di ricerca autonoma e individuale, in grado di sviluppare la capacità di concentrazione e di riflessione critica, quindi come attività particolarmente utile per favorire il processo di maturazione dell'allievo. Per lo sviluppo di una sicura competenza di lettura è necessaria l'acquisizione di opportune strategie e tecniche, compresa la lettura a voce alta, la cura dell'espressione e la costante messa in atto di operazioni cognitive per la comprensione del testo. Saper leggere è essenziale per il reperimento delle informazioni, per ampliare le proprie conoscenze, per ottenere risposte significative. La cura della comprensione di testi espositivi e argomentativi - anche utilizzando il dibattito e il dialogo intorno ai testi presentati - è esercizio di fondamentale importanza. La nascita del gusto per la lettura produce aumento di attenzione e curiosità, sviluppa la fantasia e il piacere della ricerca in proprio, fa incontrare i racconti e le storie di ogni civiltà e tempo, avvicina all'altro e al diverso da sé. Tutte queste esperienze sono componenti imprescindibili per il raggiungimento di una solida competenza nella lettura e per lo sviluppo di ogni futura conoscenza.
 
 28
 
@@ -796,7 +851,7 @@ La pratica della lettura, centrale in tutto il primo ciclo di istruzione, è pro
 
 [[START OF PAGE 29]]
 
-A scuola si apprende la strumentalità del leggere e si attivano i numerosi processi cognitivi necessari alla comprensione. La lettura va costantemente praticata su un'ampia gamma di testi appartenenti ai vari tipi e forme testuali (da testi continui a moduli, orari, grafici, mappe ecc.) per scopi diversi e con strategie funzionali al compito, senza mai tralasciare la pratica della lettura personale e dell'ascolto di testi letti dall'insegnante realizzata abitualmente senza alcuna finalizzazione, al solo scopo di alimentare il piacere di leggere. Lo sviluppo della competenza di lettura riguarda tutte le discipline. È compito di ciascun insegnante favorire con appos ite attività il superamento degli ostacoli alla comprensione dei testi che possono annidarsi a livello lessicale o sintattico oppure al livello della strutturazione logico-concettuale.
+A scuola si apprende la strumentalità del leggere e si attivano i numerosi processi cognitivi necessari alla comprensione. La lettura va costantemente praticata su un'ampia gamma di testi appartenenti ai vari tipi e forme testuali (da testi continui a moduli, orari, grafici, mappe ecc.) per scopi diversi e con strategie funzionali al compito, senza mai tralasciare la pratica della lettura personale e dell'ascolto di testi letti dall'insegnante realizzata abitualmente senza alcuna finalizzazione, al solo scopo di alimentare il piacere di leggere. Lo sviluppo della competenza di lettura riguarda tutte le discipline. È compito di ciascun insegnante favorire con apposite attività il superamento degli ostacoli alla comprensione dei testi che possono annidarsi a livello lessicale o sintattico oppure al livello della strutturazione logico-concettuale.
 
 La consuetudine con i libri pone le basi per una pratica di lettura come attività autonoma e personale che duri per tutta la vita. Per questo occorre assicurare le condizioni (biblioteche scolastiche, accesso ai libri, itinerari di ricerca, uso costante sia dei libri che dei nuovi media, ecc.) da cui sorgono bisogni e gusto di esplorazione dei testi scritti. La lettura connessa con lo studio e l'apprendimento e la lettura più spontanea, legata ad aspetti estetici o emotivi, vanno parimenti praticate in quanto rispondono a bisogni presenti nella persona.
 
@@ -806,7 +861,7 @@ In questa prospettiva ruolo primario assume il leggere per soddisfare il piacere
 
 La pratica della scrittura viene introdotta in modo  graduale: qualunque sia il metodo usato dall'insegnante, durante la prima alfabetizzazione il bambino, partendo dall'esperienza, viene guidato contemporaneamente a leggere e scrivere parole e frasi sempre legate a bisogni comunicativi e inserite in contesti motivanti. L'acquisizione della competenza strumentale della scrittura, entro i primi due anni di scuola, comporta una costante attenzione alle abilità grafico-manuali e alla correttezza ortografica. Questo indispensabile apprendistato non esaurisce la complessità dell'insegnare e dell'imparare a scrivere ma ne costituisce il necessario requisito. La scrittura di un testo si presenta come un processo complesso nel quale si riconoscono  fasi  specifiche,  dall'ideazione  alla  pianificazione,  alla  prima  stesura,  alla  revisione  e  all'autocorrezione, su ognuna delle quali l'insegnante deve far lavorare gli allievi con progressione graduale e assicurando ogni volta la stabilizzazione e il consolidamento di quanto ciascun alunno ha acquisito. La frequentazione assidua di testi permetterà all'allievo di individuare i modelli che ne sono alla base e di assumerli come riferimento nelle proprie produzioni comunicative.
 
-In tutto il primo ciclo il percorso di apprendimento della scrittura richiede tempi distesi, diversificazione delle attività didattiche e interdisciplinarità in quanto la produzione testuale si realizza in varie discipline. Può altresì richiedere attenzione dedicata a piccol i gruppi e a singoli alunni, soprattutto nella fase iniziale durante la quale ogni bambino ha bisogno di acquisire sicurezza.
+In tutto il primo ciclo il percorso di apprendimento della scrittura richiede tempi distesi, diversificazione delle attività didattiche e interdisciplinarità in quanto la produzione testuale si realizza in varie discipline. Può altresì richiedere attenzione dedicata a piccoli gruppi e a singoli alunni, soprattutto nella fase iniziale durante la quale ogni bambino ha bisogno di acquisire sicurezza.
 
 In particolare, l'insegnante di italiano fornisce le indicazioni essenziali per la produzione di testi per lo studio (ad esempio schema, riassunto, esposizione di argomenti, relazione di attività e progetti svolti nelle varie discipline), funzionali (ad esempio istruzioni, questionari), narrativi, espositivi e argomentativi. Tali testi possono muovere da esperienze concrete, da conoscenze condivise, da scopi reali, evitando trattazioni generiche  e  luoghi  comuni.  Inoltre,  attraverso  la  produzione  di  testi  fantastici  (sia  in  prosa  sia  in  versi), l'allievo  sperimenta fin dai primi anni le potenzialità espressive della lingua italiana e apprende come sia possibile intrecciare la lingua scritta con altri linguaggi, anche attraverso la produzione di testi multimediali.
 
@@ -814,7 +869,7 @@ Al termine della scuola secondaria di primo grado l'allievo dovrebbe essere in g
 
 #### Acquisizione ed espansione del lessico ricettivo e produttivo
 
-I bambini entrano nella scuola primaria con un patrimonio lessicale diverso da un allievo all'altro. Data la grande importanza della comprensione e dell'uso attivo del lessico, il primo compito dell'insegnante è  proprio quello di rendersi conto, attraverso attività anche ludiche e creative, della consistenza e tipologia (varietà) del patrimonio lessicale di ognuno. È un compit o tanto più importante quanto più vi è oggi evidenz a di un progressivo impoverimento del lessico.
+I bambini entrano nella scuola primaria con un patrimonio lessicale diverso da un allievo all'altro. Data la grande importanza della comprensione e dell'uso attivo del lessico, il primo compito dell'insegnante è proprio quello di rendersi conto, attraverso attività anche ludiche e creative, della consistenza e tipologia (varietà) del patrimonio lessicale di ognuno. È un compito tanto più importante quanto più vi è oggi evidenza di un progressivo impoverimento del lessico.
 
 Il patrimonio iniziale dovrà essere consolidato in un nucleo di vocaboli di base (fondamentali e di alto uso),  a  partire  dal  quale  si  opererà  man  mano  un'estensione  alle  parole-chiave  delle  discipline  di  studio: l'acquisizione dei linguaggi specifici delle discipline deve essere responsabilità comune di tutti gli insegnanti.
 
@@ -826,7 +881,7 @@ Il patrimonio iniziale dovrà essere consolidato in un nucleo di vocaboli di bas
 
 I docenti di tutto il primo ciclo di istruzione dovranno promuovere, all'interno di attività orali e di lettura e scrittura, la competenza lessicale relativamente sia all'ampiezza del lessico compreso e usato (ricettivo e produttivo) sia alla sua padronanza nell'uso sia alla sua crescente specificità. Infatti l'uso del lessico, a seconda delle discipline, dei destinatari, delle situazioni comunicative e dei mezzi utilizzati per l'espressione orale e quella scritta richiede lo sviluppo di conoscenze, capacità di selezione e adeguatezza ai contesti. Lo sviluppo della competenza lessicale deve rispettare gli stadi cognitivi del bambino e del ragazzo e avvenire in stretto rapporto con l'uso vivo e reale della lingua, non attraverso forme di apprendimento meccanico e mnemonico. Va, in questo senso, tenuta in considerazione la ricchezza delle espressioni locali, 'di strada', gergali e dei molti modi di dire legati alle esperienze, che spesso racchiudono un senso identitario e capacità narrative e che rappresentano un bagaglio attraverso il quale ampliare l'espressione anche in italiano corretto.
 
-Per l'apprendimento di un lessico sempre più preciso e specifico è fondamentale che gli allievi impari no, fin dalla scuola primaria, a consultare dizionari e repertori tradizionali e online .
+Per l'apprendimento di un lessico sempre più preciso e specifico è fondamentale che gli allievi imparino, fin dalla scuola primaria, a consultare dizionari e repertori tradizionali e online.
 
 #### Elementi di grammatica esplicita e riflessione sugli usi della lingua
 
@@ -834,15 +889,15 @@ Ogni persona, fin dall'infanzia, possiede una grammatica implicita, che le perme
 
 Inoltre, sin dai primi anni di scolarità, i bambini hanno una naturale predisposizione a riflettere sulla lingua. È su queste attitudini che l'insegnante si può  basare per condurre gradualmente l'allievo verso forme di 'grammatica esplicita'.
 
-È molto importante acquisire una progressiva consap evolezza e sicurezza nell'uso dello strumento linguistico (che si avvia, ma non si completa, nel primo ciclo). Si tratta, infatti, di una delle condizioni per un uso critico  e  libero  della lingua,  a  cui  deve  giungere  presto  ogni  cittadino.  Perciò, nei  primi  anni  della  scuola primaria l'uso della lingua e la riflessione su di essa vanno curate insieme. Del resto nella pratica coincidono: l'apprendimento della strumentalità del leggere e dello scrivere è da considerarsi infatti attività li nguistica e metalinguistica al tempo stesso.
+È molto importante acquisire una progressiva consapevolezza e sicurezza nell'uso dello strumento linguistico (che si avvia, ma non si completa, nel primo ciclo). Si tratta, infatti, di una delle condizioni per un uso critico e libero della lingua, a cui deve giungere presto ogni cittadino. Perciò, nei primi anni della scuola primaria l'uso della lingua e la riflessione su di essa vanno curate insieme. Del resto nella pratica coincidono: l'apprendimento della strumentalità del leggere e dello scrivere è da considerarsi infatti attività linguistica e metalinguistica al tempo stesso.
 
-Per quanto riguarda l'ortografia, da una parte è fo ndamentale che essa sia acquisita e automatizzata in modo sicuro nei primi anni di scuola, in quanto diventa difficile apprenderla più in là con gli anni; dall'altra la correttezza ortografica deve essere costantemente monitorata a tutti i livelli di scuola.
+Per quanto riguarda l'ortografia, da una parte è fondamentale che essa sia acquisita e automatizzata in modo sicuro nei primi anni di scuola, in quanto diventa difficile apprenderla più in là con gli anni; dall'altra la correttezza ortografica deve essere costantemente monitorata a tutti i livelli di scuola.
 
 Gli oggetti della riflessione sulla lingua e della grammatica esplicita sono: le strutture sintattiche delle frasi semplici e complesse (per la descrizione delle quali l'insegnante sceglierà il modello grammaticale di riferimento che gli sembra più adeguato ed efficace); le parti del discorso, o categorie lessicali; gli elementi di coesione che servono a mettere in rapporto le diverse parti della frase e del testo (connettivi di vario tipo, pronomi, segni di interpunzione); il lessico e la sua organizzazione; le varietà dell'italiano più diffuse.
 
 Nella scuola primaria la riflessione privilegia il livello lessicale-semantico e si attua a partire dai testi orali e scritti recepiti e prodotti dagli allievi. Gli aspetti morfologici e quelli sintattici, semantici e testuali, che sono introdotti nella scuola primaria attraverso riflessioni sull'uso, devono essere ripresi ciclicamente, al fine di poter operare precisazioni e approfondimenti e raggiungere una valida sistematizzazione dei concetti centrali.
 
-La riflessione sulla lingua, se condotta in modo induttivo e senza un'introduzione troppo precoce della terminologia specifica, contribuisce a una maggiore duttilità nel capire i testi e riflettere  e  discutere  sulle proprie produzioni. Essa, inoltre, si intreccia con la riflessione sulle altre lingue del repertorio dell'allievo, in una prospettiva plurilingue e interculturale. Ma il ruolo probabilmente più significativo della riflessione sulla lingua è quello metacognitivo: la riflessione conco rre infatti a sviluppare le capacità di categorizzare, di connettere, di analizzare, di indurre e dedurre, utilizzando di fatto un metodo scientifico.
+La riflessione sulla lingua, se condotta in modo induttivo e senza un'introduzione troppo precoce della terminologia specifica, contribuisce a una maggiore duttilità nel capire i testi e riflettere e discutere sulle proprie produzioni. Essa, inoltre, si intreccia con la riflessione sulle altre lingue del repertorio dell'allievo, in una prospettiva plurilingue e interculturale. Ma il ruolo probabilmente più significativo della riflessione sulla lingua è quello metacognitivo: la riflessione concorre infatti a sviluppare le capacità di categorizzare, di connettere, di analizzare, di indurre e dedurre, utilizzando di fatto un metodo scientifico.
 
 La riflessione sulla lingua riguarda anche il lessico, di cui verranno esplorate e definite le caratteristiche fondamentali, come le relazioni di significato e i meccanismi di formazione delle parole.
 
@@ -870,7 +925,7 @@ Capisce e utilizza nell'uso orale e scritto i vocaboli fondamentali e quelli di 
 
 Riflette sui testi propri e altrui per cogliere regolarità morfosintattiche e caratteristiche del lessico; riconosce che le diverse scelte linguistiche sono correlate alla varietà di situazioni comunicative.
 
-È consapevole che nella comunicazione sono usate va rietà diverse di lingua e lingue differenti (plurilinguismo).
+È consapevole che nella comunicazione sono usate varietà diverse di lingua e lingue differenti (plurilinguismo).
 
 Padroneggia e applica in situazioni diverse le conoscenze fondamentali relative all'organizzazione logico-sintattica della frase semplice, alle parti del discorso (o categorie lessicali) e ai principali connettivi.
 
@@ -934,7 +989,7 @@ Padroneggia e applica in situazioni diverse le conoscenze fondamentali relative 
 
 -Confrontare testi per coglierne alcune caratteristiche specifiche (ad es. maggiore o minore efficacia comunicativa, differenze tra testo orale e testo scritto, ecc.).
 
--Riconoscere se una frase è o no completa, costituit a cioè dagli elementi essenziali (soggetto, verbo, complementi necessari).
+-Riconoscere se una frase è o no completa, costituita cioè dagli elementi essenziali (soggetto, verbo, complementi necessari).
 
 -Prestare attenzione alla grafia delle parole nei testi e applicare le conoscenze ortografiche nella propria produzione scritta.
 
@@ -1026,9 +1081,9 @@ scolastico o per il sito web della scuola, adeguando il testo ai destinatari e a
 
 -Comprendere le principali relazioni di significato tra le parole (somiglianze, differenze, appartenenza a un campo semantico).
 
--Riconoscere la struttura del nucleo della frase semplice (la cosiddetta frase minima ): predicato, soggetto, altri elementi richiesti dal verbo.
+-Riconoscere la struttura del nucleo della frase semplice (la cosiddetta frase minima): predicato, soggetto, altri elementi richiesti dal verbo.
 
--Riconoscere in una frase o in un testo le parti del discorso, o categorie lessicali, riconoscerne i principali tratti grammaticali; riconoscere le congiunzioni di uso più frequente (come e, ma, infatti, perché, quando )
+-Riconoscere in una frase o in un testo le parti del discorso, o categorie lessicali, riconoscerne i principali tratti grammaticali; riconoscere le congiunzioni di uso più frequente (come e, ma, infatti, perché, quando)
 
 -Conoscere le fondamentali convenzioni ortografiche e servirsi di questa conoscenza per rivedere la propria produzione scritta e correggere eventuali errori.
 
@@ -1132,7 +1187,7 @@ Padroneggia e applica in situazioni diverse le conoscenze fondamentali relative 
 
 ##### Acquisizione ed espansione del lessico ricettivo e produttivo
 
--Ampliare, sulla base delle esperienze scolastiche ed extrascolastiche, delle letture e di attività specifiche, il proprio patrimonio lessicale, così da com prendere e usare le parole dell'intero vocabolario di base, anche in accezioni diverse.
+-Ampliare, sulla base delle esperienze scolastiche ed extrascolastiche, delle letture e di attività specifiche, il proprio patrimonio lessicale, così da comprendere e usare le parole dell'intero vocabolario di base, anche in accezioni diverse.
 
 -Comprendere e usare parole in senso figurato.
 
@@ -1184,15 +1239,15 @@ L'apprendimento della lingua inglese e di una seconda lingua comunitaria, oltre 
 
 La consapevolezza della cittadinanza europea attraverso il contatto con due lingue comunitarie, lo sviluppo di un repertorio diversificato di risorse linguistiche e culturali per interagire con gli altri e la capacità di imparare le lingue concorrono all'educazione plurilingue e interculturale, nell'ottica dell'educazione permanente. Accostandosi a più lingue, l'alunno impara a riconoscere che esistono differenti sistemi linguistici e culturali e diviene man mano consapevole della varietà di mezzi che ogni lingua offre per pensare, esprimersi e comunicare.
 
-Per facilitare i processi che rendono possibili questi risultati è necessario che all'apprendimento de lle lingue venga assicurata sia trasversalità in 'orizzontale', sia continuità in 'verticale'. Attraverso la progettazione concordata degli insegnamenti d'italiano, delle due lingue straniere e di altre discipline si realizza la trasversalità in orizzontale come area di intervento comune per lo sviluppo linguistico-cognitivo. La continuità verticale si realizza dalla scuola primaria alla scuola secondaria di primo grado mediante la progressione degli obiettivi relativi alle diverse competenze e lo sviluppo delle strategie per imparare le lingue.
+Per facilitare i processi che rendono possibili questi risultati è necessario che all'apprendimento delle lingue venga assicurata sia trasversalità in 'orizzontale', sia continuità in 'verticale'. Attraverso la progettazione concordata degli insegnamenti d'italiano, delle due lingue straniere e di altre discipline si realizza la trasversalità in orizzontale come area di intervento comune per lo sviluppo linguistico-cognitivo. La continuità verticale si realizza dalla scuola primaria alla scuola secondaria di primo grado mediante la progressione degli obiettivi relativi alle diverse competenze e lo sviluppo delle strategie per imparare le lingue.
 
 Per quanto riguarda la lingua inglese nella scuola primaria, l'insegnante terrà conto della maggiore capacità del bambino di appropriarsi spontaneamente di modelli di pronuncia e intonazione per attivare più naturalmente un sistema plurilingue. Tale processo integrerà elementi della nuova lingua nel sistema della lingua madre, della lingua di scolarizzazione e di eventuali altre lingue in possesso dell'alunno, ampliandone e differenziandone implicitamente le varie componenti linguistiche (aspetti fonico-acustici, articolatori, sintattici e semantici). Al fine dell'educazione plurilingue e interculturale potranno essere utili esperienze di sensibilizzazione a lingue presenti nei repertori linguistici di singoli alunni.
 
-Nella scuola secondaria di primo grado l'insegnante guiderà l'alunno a riconoscere gradualmente, rielaborare e interiorizzare modalità di comunicazione e regole della lingua che egli applicherà in modo sempre più autonomo e consapevole, nonché a sviluppare la capa cità di riflettere sugli usi e di scegliere tra forme e codici linguistici diversi quelli più adeguati ai suoi scopi e alle diverse situazioni.
+Nella scuola secondaria di primo grado l'insegnante guiderà l'alunno a riconoscere gradualmente, rielaborare e interiorizzare modalità di comunicazione e regole della lingua che egli applicherà in modo sempre più autonomo e consapevole, nonché a sviluppare la capacità di riflettere sugli usi e di scegliere tra forme e codici linguistici diversi quelli più adeguati ai suoi scopi e alle diverse situazioni.
 
 Rispetto  alla  seconda  lingua  comunitaria  che  viene  introdotta  nella  scuola  secondaria  di  primo  grado, l'insegnante terrà conto delle esperienze linguistiche già maturate dall'alunno per ampliare l'insieme delle sue competenze. Nella prospettiva dell'educazione plurilingue, la nuova lingua dovrà essere considerata come  una  opportunità  di  ampliamento  e/o  di  approfondimento  del  repertorio  linguistico  già  acquisito dall'alunno e come occasione per riutilizzare sempre più consapevolmente le strategie di apprendimento delle lingue.
 
-Nell'apprendimento delle lingue la motivazione nasce dalla naturale attitudine degli alunni a comunicare, socializzare, interagire e dalla loro naturale propensione a 'fare con la lingua'. L'insegnante avrà cura di alternare diverse strategie e attività: ad esempio proposte di canzoni, filastrocche, giochi con i compagni, giochi di ruolo, consegne che richiedono risposte corporee a indicazioni verbali in lingua. Introdurrà gradualmente delle attività che possono contribuire ad aumentare la motivazione, quali ad esempio l'analisi di materiali autentici (immagini, oggetti, testi, ecc.), l'ascolto di storie e tradizioni di altri paesi, l'interazione in forma di corrispondenza con coetanei stranieri, la partecipazione a progetti con scuole di altri paesi. L'uso di tecnologie informatiche consentirà di ampliare spazi, tempi e modalità di contatto e interazione sociale tra individui, comunità scolastiche e territoriali. L'alunno potrà così passare progressivamente da una in terazione centrata essenzialmente sui propri bisogni a una comunicazione attenta all'interlocutore fino a sviluppare competenze socio-relazionali adeguate a interlocutori e contesti diversi.
+Nell'apprendimento delle lingue la motivazione nasce dalla naturale attitudine degli alunni a comunicare, socializzare, interagire e dalla loro naturale propensione a 'fare con la lingua'. L'insegnante avrà cura di alternare diverse strategie e attività: ad esempio proposte di canzoni, filastrocche, giochi con i compagni, giochi di ruolo, consegne che richiedono risposte corporee a indicazioni verbali in lingua. Introdurrà gradualmente delle attività che possono contribuire ad aumentare la motivazione, quali ad esempio l'analisi di materiali autentici (immagini, oggetti, testi, ecc.), l'ascolto di storie e tradizioni di altri paesi, l'interazione in forma di corrispondenza con coetanei stranieri, la partecipazione a progetti con scuole di altri paesi. L'uso di tecnologie informatiche consentirà di ampliare spazi, tempi e modalità di contatto e interazione sociale tra individui, comunità scolastiche e territoriali. L'alunno potrà così passare progressivamente da una interazione centrata essenzialmente sui propri bisogni a una comunicazione attenta all'interlocutore fino a sviluppare competenze socio-relazionali adeguate a interlocutori e contesti diversi.
 
 Si potranno inoltre creare situazioni in cui la lingua straniera sia utilizzata, in luogo della lingua di scolarizzazione, per promuovere e veicolare apprendimenti collegati ad ambiti disciplinari diversi.
 
@@ -1271,7 +1326,7 @@ Individua alcuni elementi culturali e coglie rapporti tra forme linguistiche e u
 
 -Osservare la struttura delle frasi e mettere in relazione costrutti e intenzioni comunicative.
 
--Riconoscere che cosa si è imparato e che cosa si de ve imparare.
+-Riconoscere che cosa si è imparato e che cosa si deve imparare.
 
 #### Traguardi per lo sviluppo delle competenze al termine della scuola secondaria di primo grado per la lingua inglese
 
@@ -1411,19 +1466,19 @@ Nel nostro Paese la storia si manifesta alle nuove generazioni nella straordinar
 
 Lo studio della storia, insieme alla memoria delle generazioni viventi, alla percezione del presente e alla visione del futuro, contribuisce a formare la coscienza storica dei cittadini e li motiva al senso di responsabilità nei confronti del patrimonio e dei beni comuni
 
-Per questa ragione la scuola è chiamata ad esplorar e, arricchire, approfondire e consolidare la conoscenza e il senso della storia.
+Per questa ragione la scuola è chiamata ad esplorare, arricchire, approfondire e consolidare la conoscenza e il senso della storia.
 
 #### I metodi didattici della storia
 
-I libri, le attività laboratoriali, in classe e fuori della classe, e l'utilizzazione dei molti media oggi disponibili, ampliano, strutturano e consolidano questa dimensione di apprendimento. La capacità e la possibilità di usufruire di ogni opportunità di studio della storia, a scuola e nel territorio circostante, permettono un lavoro pedagogico ricco, a partire dalle narrazioni e dalle attività laboratori ali e ludiche con i più piccoli per attraversare molte esperienze esplorative sul passato: un lavoro indispensabile per avvicinare gli alunni alla capacità di ricostruire e concepire progressivamente il 'fatto storico' per indagarne i diversi aspetti, le molteplici prospettive, le cause e le ragioni.
+I libri, le attività laboratoriali, in classe e fuori della classe, e l'utilizzazione dei molti media oggi disponibili, ampliano, strutturano e consolidano questa dimensione di apprendimento. La capacità e la possibilità di usufruire di ogni opportunità di studio della storia, a scuola e nel territorio circostante, permettono un lavoro pedagogico ricco, a partire dalle narrazioni e dalle attività laboratoriali e ludiche con i più piccoli per attraversare molte esperienze esplorative sul passato: un lavoro indispensabile per avvicinare gli alunni alla capacità di ricostruire e concepire progressivamente il 'fatto storico' per indagarne i diversi aspetti, le molteplici prospettive, le cause e le ragioni.
 
 .
 
-È attraverso questo lavoro a scuola e nel territori o che vengono affrontati i primi 'saperi della storia': la conoscenza cronologica, la misura del tempo, le periodizzazioni. Al contempo gli alunni incominciano ad acquisire la capacità di ricostruire i fatti della storia e i loro molteplici significati in relazione ai problemi con i quali l'uomo si è dovuto confrontare, fino alle g randi questioni del presente.
+È attraverso questo lavoro a scuola e nel territorio che vengono affrontati i primi 'saperi della storia': la conoscenza cronologica, la misura del tempo, le periodizzazioni. Al contempo gli alunni incominciano ad acquisire la capacità di ricostruire i fatti della storia e i loro molteplici significati in relazione ai problemi con i quali l'uomo si è dovuto confrontare, fino alle grandi questioni del presente.
 
 #### La storia come campo disciplinare
 
-La storia, come campo scientifico di studio, è la d isciplina nella quale si imparano a conoscere e interpretare fatti, eventi e processi del passato. Le conoscenze del passato offrono metodi e saperi utili per comprendere e interpretare il presente.
+La storia, come campo scientifico di studio, è la disciplina nella quale si imparano a conoscere e interpretare fatti, eventi e processi del passato. Le conoscenze del passato offrono metodi e saperi utili per comprendere e interpretare il presente.
 
 Le conoscenze prodotte dagli storici, innumerevoli e in continuo accrescimento, sono sottoposte a revisione continua a seconda del mutare dei rapporti tra presente e passato e della continua reinterpretazione delle fonti. La scuola tiene conto di questo e, in modo via via più accurato, in relazione alle diverse età e alle capacità cognitive degli alunni, progetta percorsi didattici che approfondiscono la conoscenza della storia e l'attenzione alle diverse fonti.
 
@@ -1431,7 +1486,7 @@ Le conoscenze prodotte dagli storici, innumerevoli e in continuo accrescimento, 
 
 Nei tempi più recenti il passato e, in particolare, i temi della memoria, dell'identità e delle radici hanno fortemente caratterizzato il discorso pubblico e dei media sulla storia. Un insegnamento che promuova la padronanza degli strumenti critici permette di evitare che la storia venga usata strumentalmente, in modo improprio.
 
-Inoltre la formazione di una società multietnica e multiculturale porta con sé la tendenza a trasforma re la storia da disciplina di studio a strumento di rappresentanza delle diverse identità, con il rischio di comprometterne il carattere scientifico e, conseguentemente, di diminuire la stessa efficacia formativa del curricolo. È opportuno sottolineare come proprio la ricerca st orica e il ragionamento critico sui fatti essenziali relativi alla storia italiana ed europea offrano una base per riflettere in modo articolato ed argomentato sulle diversità dei gruppi umani che hanno popolato il pianeta, a partire dall'unità del genere umano. Ricerca storica e ragionamento critico rafforzano altresì la possibilit à di confronto e dialogo intorno alla complessità del passato e del presente fra le diverse componenti di una società multiculturale e multietnica. Per questo motivo il curricolo sarà articolato intorno ad alcuni snodi periodizzanti della vicenda umana quali: il processo di ominazione, la rivoluzione neolitica, la rivoluzione industriale e i processi di mondializzazione e globalizzazione.
+Inoltre la formazione di una società multietnica e multiculturale porta con sé la tendenza a trasformare la storia da disciplina di studio a strumento di rappresentanza delle diverse identità, con il rischio di comprometterne il carattere scientifico e, conseguentemente, di diminuire la stessa efficacia formativa del curricolo. È opportuno sottolineare come proprio la ricerca storica e il ragionamento critico sui fatti essenziali relativi alla storia italiana ed europea offrano una base per riflettere in modo articolato ed argomentato sulle diversità dei gruppi umani che hanno popolato il pianeta, a partire dall'unità del genere umano. Ricerca storica e ragionamento critico rafforzano altresì la possibilità di confronto e dialogo intorno alla complessità del passato e del presente fra le diverse componenti di una società multiculturale e multietnica. Per questo motivo il curricolo sarà articolato intorno ad alcuni snodi periodizzanti della vicenda umana quali: il processo di ominazione, la rivoluzione neolitica, la rivoluzione industriale e i processi di mondializzazione e globalizzazione.
 
 41
 
@@ -1441,11 +1496,11 @@ Inoltre la formazione di una società multietnica e multiculturale porta con sé
 
 #### La storia generale a scuola
 
-Occorre, dunque, aggiornare gli argomenti di studio, adeguandoli alle nuove prospettive, facendo sì ch e la storia nelle sue varie dimensioni - mondiale, europea, italiana e locale - si presenti come un intreccio significativo di persone, culture, economie, religioni, avvenimenti che hanno costituito processi di grande rilevanza per la comprensione del mondo attuale: dal preistorico alle prime società del protostorico, dalle grandi civiltà  antiche  alla  colonizzazione  greca  e  al  processo  di  unificazione  del  Mediterraneo,  dalla  costituzione dell'Impero Romano alla diffusione del Cristianesimo, dalla progressiva strutturazione dei territori alla nascita di una società ricca per i diversi apporti di genti e di culture nel Medioevo; dall'Umanesimo e dal Rinascimento alle scoperte geografiche e all'espansione europea, dalla Riforma protestante alla costruzione degli stati moderni; dalla Rivoluzione scientifica all'Illuminismo e alla formazione di stati di diritto; dalla colonizzazione alla formazione degli stati nazionali, in particolare quello italiano, dall'industrializzazione al diffondersi della società di massa e all'emancipazione femminile; dai conflitti mondiali all'affermazione di dittature e all'espansione della democrazia, dai movimenti di resistenza alla formazione della Repubblica italiana, dalla decolonizzazione all'avvento della globalizzazione; dalle rivoluzioni scientifiche alla rivoluzione digitale.
+Occorre, dunque, aggiornare gli argomenti di studio, adeguandoli alle nuove prospettive, facendo sì che la storia nelle sue varie dimensioni - mondiale, europea, italiana e locale - si presenti come un intreccio significativo di persone, culture, economie, religioni, avvenimenti che hanno costituito processi di grande rilevanza per la comprensione del mondo attuale: dal preistorico alle prime società del protostorico, dalle grandi civiltà antiche alla colonizzazione greca e al processo di unificazione del Mediterraneo, dalla costituzione dell'Impero Romano alla diffusione del Cristianesimo, dalla progressiva strutturazione dei territori alla nascita di una società ricca per i diversi apporti di genti e di culture nel Medioevo; dall'Umanesimo e dal Rinascimento alle scoperte geografiche e all'espansione europea, dalla Riforma protestante alla costruzione degli stati moderni; dalla Rivoluzione scientifica all'Illuminismo e alla formazione di stati di diritto; dalla colonizzazione alla formazione degli stati nazionali, in particolare quello italiano, dall'industrializzazione al diffondersi della società di massa e all'emancipazione femminile; dai conflitti mondiali all'affermazione di dittature e all'espansione della democrazia, dai movimenti di resistenza alla formazione della Repubblica italiana, dalla decolonizzazione all'avvento della globalizzazione; dalle rivoluzioni scientifiche alla rivoluzione digitale.
 
-In particolare la conoscenza dei diversi e profondi legami, dei conflitti e degli scambi che si sono svolti nel tempo fra le genti del Mediterraneo e le popolazioni di altre regioni del mondo, rende comprensibili questioni che, altrimenti, sarebbero interamente schiacciate nella dimensione del presente. I due poli temporali, il passato e il presente, devono entrambi avere il loro giusto peso nel curricolo ed è opportuno che s i richiamino continuamente.
+In particolare la conoscenza dei diversi e profondi legami, dei conflitti e degli scambi che si sono svolti nel tempo fra le genti del Mediterraneo e le popolazioni di altre regioni del mondo, rende comprensibili questioni che, altrimenti, sarebbero interamente schiacciate nella dimensione del presente. I due poli temporali, il passato e il presente, devono entrambi avere il loro giusto peso nel curricolo ed è opportuno che si richiamino continuamente.
 
-È tuttavia evidente che proprio l'attenzione alle v icende complesse del presente chiamano in causa le conoscenze di storia generale, articolate nell'arco del primo ciclo, sulla base della loro significatività ai fini di una prima comprensione del mondo.
+È tuttavia evidente che proprio l'attenzione alle vicende complesse del presente chiamano in causa le conoscenze di storia generale, articolate nell'arco del primo ciclo, sulla base della loro significatività ai fini di una prima comprensione del mondo.
 
 #### La ripartizione delle conoscenze storiche per livelli scolastici
 
@@ -1455,13 +1510,13 @@ La storia generale nella scuola primaria è deputata  a far scoprire agli alunni
 
 Una più sistematica strutturazione cronologica delle conoscenze storiche sarà distribuita lungo tutto l'arco del primo ciclo d'istruzione.
 
-In particolare alla scuola primaria sono assegnate le conoscenze storiche che riguardano il periodo compreso dalla comparsa dell'uomo alla tarda antichità; alla scuola secondaria le conoscenze che riguardano il periodo compreso dalla tarda antichità agli inizi del XXI secolo . L'ultimo anno della scuola secondaria di primo grado viene dedicato allo studio della storia del Novecento.
+In particolare alla scuola primaria sono assegnate le conoscenze storiche che riguardano il periodo compreso dalla comparsa dell'uomo alla tarda antichità; alla scuola secondaria le conoscenze che riguardano il periodo compreso dalla tarda antichità agli inizi del XXI secolo. L'ultimo anno della scuola secondaria di primo grado viene dedicato allo studio della storia del Novecento.
 
 Tuttavia è importante sottolineare l'importanza, a partire dalla scuola primaria, dell'apprendimento della storia centrato su temi che riguardano l'insieme dei problemi della vita umana sul pianeta: l'uso delle diverse fonti di energia, la difesa dagli elementi naturali avversi e la trasformazione progressiva dell'ambiente naturale, i molti passaggi dello sviluppo tecnico, la conservazione dei beni e del cibo, la divisione del lavoro e la differenziazione sociale,  le  migrazioni  e la  conquista  dei  territori,  il  conflitto  interno  e  quello  esterno  alle comunità, la custodia e la trasmissione del sapere, i codici e i mezzi della comunicazione, la nascita e lo sviluppo delle credenze e della ritualità, il sorgere e l'evoluzione del sentimento religioso e delle norme, la costruzione delle diverse forme di governo. Un tale approccio, costruito tra passato e presente, permette anche di non doversi soffermare troppo a lungo su singoli temi e civiltà remote nella convinzione che in una data classe si debbano svolgere solo argomenti specifici.
 
 #### Gli intrecci disciplinari
 
-La storia si apre all'utilizzo di metodi, conoscenze, visioni, concettualizzazioni di altre discipline. Gli insegnanti, mettendo a profitto tale peculiarità, potenziano gli intrecci disciplinari suggeriti dai temi proposti agli alunni. In particolare è importante curare le aree di sovrapposizione tra la storia e la geografia in considerazione dell'intima connessione che c'è tra i pop oli e le regioni in cui vivono.
+La storia si apre all'utilizzo di metodi, conoscenze, visioni, concettualizzazioni di altre discipline. Gli insegnanti, mettendo a profitto tale peculiarità, potenziano gli intrecci disciplinari suggeriti dai temi proposti agli alunni. In particolare è importante curare le aree di sovrapposizione tra la storia e la geografia in considerazione dell'intima connessione che c'è tra i popoli e le regioni in cui vivono.
 
 42
 
@@ -1479,9 +1534,7 @@ L'insegnamento e l'apprendimento della storia contribuiscono all'educazione al p
 
 L'alunno riconosce elementi significativi del passato del suo ambiente di vita.
 
-Riconosce e esplora in modo via via più approfondito le tracce storiche presenti nel territorio e compren-
-
-- de l'importanza del patrimonio artistico e culturale.
+Riconosce e esplora in modo via via più approfondito le tracce storiche presenti nel territorio e comprende l'importanza del patrimonio artistico e culturale.
 
 Usa la linea del tempo per organizzare informazioni, conoscenze, periodi e individuare successioni, contemporaneità, durate, periodizzazioni.
 
@@ -1568,8 +1621,7 @@ Comprende  aspetti  fondamentali  del  passato  dell'Italia  dal  paleolitico  a
 -Elaborare in testi orali e scritti gli argomenti studiati, anche usando risorse digitali.
 
 #### Traguardi per lo sviluppo delle competenze al termine della scuola secondaria di primo grado
-L'alunno si informa in modo autonomo su fatti e problemi storici anche mediante l'uso di risorse digitali. Produce informazioni storiche con fonti di vario genere - anche digitali - e le sa organizzare in testi. Comprende testi storici e li sa rielaborare con un personale metodo di studio, Espone oralmente e con scritture - anche digitali - le conoscenze storiche acquisite operando collegamenti e argomentando le proprie riflessioni. Usa le conoscenze e le abilità per orientarsi nella complessità del presente, comprende opinioni e culture diverse, capisce i problemi fondamentali del mondo contemporaneo. Comprende aspetti, processi e avvenimenti fondamentali della storia italiana dalle forme di insediamento e di potere medievali alla formazione dello stato unitario fino alla nascita della Repubblica, anche con possibilità di aperture e confronti con il mondo antico. Conosce aspetti e processi fondamentali della storia europea medievale, moderna e contemporanea, anche con possibilità di aperture e confronti con il mondo antico. Conosce aspetti e processi fondamentali della storia mondiale, dalla civilizzazione neolitica alla rivoluzione industriale, alla globalizzazione. Conosce aspetti e processi essenziali della storia del suo ambiente. Conosce aspetti del patrimonio culturale, italiano e dell'umanità e li sa mettere in relazione con i feno-
-meni storici studiati.
+L'alunno si informa in modo autonomo su fatti e problemi storici anche mediante l'uso di risorse digitali. Produce informazioni storiche con fonti di vario genere - anche digitali - e le sa organizzare in testi. Comprende testi storici e li sa rielaborare con un personale metodo di studio, Espone oralmente e con scritture - anche digitali - le conoscenze storiche acquisite operando collegamenti e argomentando le proprie riflessioni. Usa le conoscenze e le abilità per orientarsi nella complessità del presente, comprende opinioni e culture diverse, capisce i problemi fondamentali del mondo contemporaneo. Comprende aspetti, processi e avvenimenti fondamentali della storia italiana dalle forme di insediamento e di potere medievali alla formazione dello stato unitario fino alla nascita della Repubblica, anche con possibilità di aperture e confronti con il mondo antico. Conosce aspetti e processi fondamentali della storia europea medievale, moderna e contemporanea, anche con possibilità di aperture e confronti con il mondo antico. Conosce aspetti e processi fondamentali della storia mondiale, dalla civilizzazione neolitica alla rivoluzione industriale, alla globalizzazione. Conosce aspetti e processi essenziali della storia del suo ambiente. Conosce aspetti del patrimonio culturale, italiano e dell'umanità e li sa mettere in relazione con i fenomeni storici studiati.
 
 #### Obiettivi di apprendimento al termine della classe terza della scuola secondaria di primo grado
 
@@ -1617,23 +1669,23 @@ meni storici studiati.
 
 ### GEOGRAFIA
 
-La geografia studia i rapporti delle società umane tra loro e con il pianeta che le ospita. È discipli na 'di cerniera'  per  eccellenza  poiché  consente  di  mettere   in  relazione  temi  economici,  giuridici,  antropologici, scientifici e ambientali di rilevante importanza per ciascuno di noi.
+La geografia studia i rapporti delle società umane tra loro e con il pianeta che le ospita. È disciplina 'di cerniera' per eccellenza poiché consente di mettere in relazione temi economici, giuridici, antropologici, scientifici e ambientali di rilevante importanza per ciascuno di noi.
 
 In un tempo caratterizzato dalla presenza a scuola di alunni di ogni parte del mondo, la geografia consente il confronto sulle grandi questioni comuni a partire dalla conoscenza dei differenti luoghi di nascita o di origine famigliare.
 
 La conoscenza geografica riguarda anche i processi di trasformazione progressiva dell'ambiente ad opera dell'uomo o per cause naturali di diverso tipo. La storia della natura e quella dell'uomo, però, si svolgono con tempi diversi: i tempi lunghi della natura si intrecciano, spesso confliggendo, con quelli molto più brevi dell'uomo, con ritmi che a volte si fanno più serrati in seguito a rapide trasformazioni, dovute a nuove prospettive culturali o all'affermarsi di tecnologie innovative.
 
-La geografia è attenta al presente, che studia nell e varie articolazioni spaziali e nei suoi aspetti demografici, socio-culturali e politico-economici. L'apertura al mondo attuale è necessaria anche per sviluppar e competenze relative alla cittadinanza attiva, come la consapevolezza di far parte di una comunità territoriale organizzata. Tuttavia, poiché lo spazio non è statico , la geografia non può prescindere dalla dimensione temporale, da cui trae molte possibilità di leggere e interpretare i fatti che proprio nel territorio hanno lasciato testimonianza, nella consapevolezza che ciascuna azione implica ripercussioni nel futuro.
+La geografia è attenta al presente, che studia nelle varie articolazioni spaziali e nei suoi aspetti demografici, socio-culturali e politico-economici. L'apertura al mondo attuale è necessaria anche per sviluppare competenze relative alla cittadinanza attiva, come la consapevolezza di far parte di una comunità territoriale organizzata. Tuttavia, poiché lo spazio non è statico, la geografia non può prescindere dalla dimensione temporale, da cui trae molte possibilità di leggere e interpretare i fatti che proprio nel territorio hanno lasciato testimonianza, nella consapevolezza che ciascuna azione implica ripercussioni nel futuro.
 
 Altra irrinunciabile opportunità formativa offerta dalla geografia è quella di abituare a osservare la  realtà da punti di vista diversi, che consentono di considerare e rispettare visioni plurime, in un approccio interculturale dal vicino al lontano.
 
-La conoscenza e la valorizzazione del patrimonio culturale ereditato dal passato, con i suoi 'segni' leggibili sul territorio, si affianca allo studio del paesaggio, contenitore di tutte le memorie materiali e immateriali, anche nella loro proiezione futura. Tali percorsi consentono sintesi con la storia e le scienze sociali, con cui la geografia condivide pure la progettazione di azioni di salvaguardia e di recupero del patrimonio naturale, affinché le generazioni future possano giovarsi di  un ambiente sano. Riciclaggio e smaltimento dei rifiuti, lotta all'inquinamento, sviluppo delle tecniche di produzione delle energie rinnovabili, tutela della biodiversità,  adattamento  al  cambiamento  climatico: sono  temi  di  forte rilevanza  geografica,  in  cui è  essenzia le il raccordo con le discipline scientifiche e tecniche. Il punto di convergenza sfocia nell'educazione al territorio, intesa come esercizio della cittadinanza attiva, e nell'educazione all'ambiente e allo sviluppo.
+La conoscenza e la valorizzazione del patrimonio culturale ereditato dal passato, con i suoi 'segni' leggibili sul territorio, si affianca allo studio del paesaggio, contenitore di tutte le memorie materiali e immateriali, anche nella loro proiezione futura. Tali percorsi consentono sintesi con la storia e le scienze sociali, con cui la geografia condivide pure la progettazione di azioni di salvaguardia e di recupero del patrimonio naturale, affinché le generazioni future possano giovarsi di un ambiente sano. Riciclaggio e smaltimento dei rifiuti, lotta all'inquinamento, sviluppo delle tecniche di produzione delle energie rinnovabili, tutela della biodiversità, adattamento al cambiamento climatico: sono temi di forte rilevanza geografica, in cui è essenziale il raccordo con le discipline scientifiche e tecniche. Il punto di convergenza sfocia nell'educazione al territorio, intesa come esercizio della cittadinanza attiva, e nell'educazione all'ambiente e allo sviluppo.
 
 La presenza della geografia nel curricolo contribuisce a fornire gli strumenti per formare persone autonome e critiche, che siano in grado di assumere decisioni responsabili nella gestione del territorio e nella tutela dell'ambiente, con un consapevole sguardo al futuro.
 
 Il primo incontro con la disciplina avviene attraverso un approccio attivo all'ambiente circostante, attraverso un'esplorazione diretta; in questa fase la geografia opera insieme alle scienze motorie, per consolidare il rapporto del corpo con lo spazio.
 
-Costruendo le proprie geografie ,  anche attraverso le testimonianze di adulti come referenti culturali, gli allievi possono avvicinarsi alla dimensione sistematica della disciplina. Alla geografia, infatti, spetta il delicato compito di costruire il senso dello spazio, accanto a quello del tempo, con il quale va costantemente correlato. Gli allievi devono attrezzarsi di coordinate spaziali per orientarsi nel territorio, abituandosi ad analizzare ogni elemento nel suo contesto spaziale e in modo multiscalare, da quello locale fino ai contesti mondiali. Il raffronto della propria realtà (spazio vissuto) con quella globale, e viceversa, è agevolato da lla continua comparazione di rappresentazioni spaziali, lette e interpretate a scale diverse, servendosi anche di carte geografiche, di fotografie e immagini da satellite, del globo terrestre, di materiali prodotti dalle nuove tecnologie legate ai Sistemi Informativi Geografici (GIS).
+Costruendo le proprie geografie, anche attraverso le testimonianze di adulti come referenti culturali, gli allievi possono avvicinarsi alla dimensione sistematica della disciplina. Alla geografia, infatti, spetta il delicato compito di costruire il senso dello spazio, accanto a quello del tempo, con il quale va costantemente correlato. Gli allievi devono attrezzarsi di coordinate spaziali per orientarsi nel territorio, abituandosi ad analizzare ogni elemento nel suo contesto spaziale e in modo multiscalare, da quello locale fino ai contesti mondiali. Il raffronto della propria realtà (spazio vissuto) con quella globale, e viceversa, è agevolato dalla continua comparazione di rappresentazioni spaziali, lette e interpretate a scale diverse, servendosi anche di carte geografiche, di fotografie e immagini da satellite, del globo terrestre, di materiali prodotti dalle nuove tecnologie legate ai Sistemi Informativi Geografici (GIS).
 
 #### Traguardi per lo sviluppo delle competenze al termine della scuola primaria
 
@@ -1657,7 +1709,7 @@ Individua i caratteri che connotano i paesaggi (di montagna, collina, pianura, v
 
 Coglie nei paesaggi mondiali della storia le progressive trasformazioni operate dall'uomo sul paesaggio naturale.
 
-Si rende conto che lo spazio geografico è un sistem a territoriale, costituito da elementi fisici e antropici legati da rapporti di connessione e/o di interdipendenza.
+Si rende conto che lo spazio geografico è un sistema territoriale, costituito da elementi fisici e antropici legati da rapporti di connessione e/o di interdipendenza.
 
 #### Obiettivi di apprendimento al termine della classe terza della scuola primaria
 
@@ -1679,7 +1731,7 @@ Si rende conto che lo spazio geografico è un sistem a territoriale, costituito 
 
 ##### Regione e sistema territoriale
 
--Comprendere che il territorio è uno spazio organizz ato e modificato dalle attività umane.
+-Comprendere che il territorio è uno spazio organizzato e modificato dalle attività umane.
 
 -Riconoscere, nel proprio ambiente di vita, le funzioni dei vari spazi e le loro connessioni, gli interventi positivi e negativi dell'uomo e progettare soluzioni, esercitando la cittadinanza attiva.
 
@@ -1761,9 +1813,9 @@ di azioni dell'uomo sui sistemi territoriali alle diverse scale geografiche.
 
 Le conoscenze matematiche contribuiscono alla formazione culturale delle persone e delle comunità, sviluppando le capacità di mettere in stretto rapporto il "pensare" e il "fare" e offrendo strumenti adatti a percepire, interpretare e collegare tra loro fenomeni naturali, concetti e artefatti costruiti dall'uomo, eventi quotidiani.  In  particolare,  la  matematica  dà  strumenti  per  la  descrizione  scientifica  del  mondo  e  per  affrontare problemi utili nella vita quotidiana; contribuisce a sviluppare la capacità di comunicare e discutere, di argomentare in modo corretto, di comprendere i punti di vista e le argomentazioni degli altri.
 
-In matematica, come nelle altre discipline scientifiche, è elemento fondamentale il laboratorio, intes o sia come luogo fisico sia come momento in cui l'alunno è attivo, formula le proprie ipotesi e ne controlla  le conseguenze, progetta e sperimenta, discute e argomenta le proprie scelte, impara a raccogliere dati, negozia e costruisce significati, porta a conclusioni temporanee e a nuove aperture la costruzione delle conoscenze personali e collettive. Nella scuola primaria si potrà utilizzare il gioco, che ha un ruolo cruciale nella comunicazione, nell'educazione al rispetto di regole condivise, nell'elaborazione di strategie adatte a contesti diversi.
+In matematica, come nelle altre discipline scientifiche, è elemento fondamentale il laboratorio, inteso sia come luogo fisico sia come momento in cui l'alunno è attivo, formula le proprie ipotesi e ne controlla le conseguenze, progetta e sperimenta, discute e argomenta le proprie scelte, impara a raccogliere dati, negozia e costruisce significati, porta a conclusioni temporanee e a nuove aperture la costruzione delle conoscenze personali e collettive. Nella scuola primaria si potrà utilizzare il gioco, che ha un ruolo cruciale nella comunicazione, nell'educazione al rispetto di regole condivise, nell'elaborazione di strategie adatte a contesti diversi.
 
-La  costruzione  del  pensiero  matematico  è  un  process o  lungo  e  progressivo  nel  quale  concetti,  abilità, competenze e atteggiamenti vengono ritrovati, intrecciati, consolidati e sviluppati a più riprese; è u n processo che comporta anche difficoltà linguistiche e che richiede un'acquisizione graduale del linguaggio matematico. Caratteristica della pratica matematica è la ri soluzione di problemi, che devono essere intesi come questioni autentiche e significative, legate alla vita quotidiana, e non solo esercizi a carattere ripetitivo o quesiti ai quali si risponde semplicemente ricordando una definizione o una regola. Gradualmente, stimolato dalla guida dell'insegnante e dalla discussione con i pari, l'alunno imparerà ad affrontare con fiducia e determinazione situazioni problematiche, rappresentandole in diversi modi, conducendo le esplorazioni opportune, dedicando il tempo necessario alla precisa individuazione di ciò che è noto e di ciò che s'intende trova re, congetturando soluzioni e risultati, individuando possibili strategie risolutive. Nella scuola secondaria di primo grado  si  svilupperà  un'attività  più  propriamente  di  matematizzazione,  formalizzazione,  generalizzazione. L'alunno analizza le situazioni per tradurle in termini matematici, riconosce schemi ricorrenti, stabilisce analogie con modelli noti, sceglie le azioni da compiere (operazioni, costruzioni geometriche, grafici, formalizzazioni, scrittura e risoluzione di equazioni, …) e le concatena in modo efficace al fine di produrre una risoluzione del problema. Un'attenzione particolare andrà dedicata allo sviluppo della capacità di esporre e di discutere con i compagni le soluzioni e i procedimenti seguiti.
+La costruzione del pensiero matematico è un processo lungo e progressivo nel quale concetti, abilità, competenze e atteggiamenti vengono ritrovati, intrecciati, consolidati e sviluppati a più riprese; è un processo che comporta anche difficoltà linguistiche e che richiede un'acquisizione graduale del linguaggio matematico. Caratteristica della pratica matematica è la risoluzione di problemi, che devono essere intesi come questioni autentiche e significative, legate alla vita quotidiana, e non solo esercizi a carattere ripetitivo o quesiti ai quali si risponde semplicemente ricordando una definizione o una regola. Gradualmente, stimolato dalla guida dell'insegnante e dalla discussione con i pari, l'alunno imparerà ad affrontare con fiducia e determinazione situazioni problematiche, rappresentandole in diversi modi, conducendo le esplorazioni opportune, dedicando il tempo necessario alla precisa individuazione di ciò che è noto e di ciò che s'intende trovare, congetturando soluzioni e risultati, individuando possibili strategie risolutive. Nella scuola secondaria di primo grado si svilupperà un'attività più propriamente di matematizzazione, formalizzazione, generalizzazione. L'alunno analizza le situazioni per tradurle in termini matematici, riconosce schemi ricorrenti, stabilisce analogie con modelli noti, sceglie le azioni da compiere (operazioni, costruzioni geometriche, grafici, formalizzazioni, scrittura e risoluzione di equazioni, …) e le concatena in modo efficace al fine di produrre una risoluzione del problema. Un'attenzione particolare andrà dedicata allo sviluppo della capacità di esporre e di discutere con i compagni le soluzioni e i procedimenti seguiti.
 
 L'uso consapevole e motivato di calcolatrici e del computer deve essere incoraggiato opportunamente fin dai primi anni della scuola primaria, ad esempio per verificare la correttezza di calcoli mentali e scritti e per esplorare il mondo dei numeri e delle forme.
 
@@ -1919,9 +1971,7 @@ Confronta procedimenti diversi e produce formalizzazioni che gli consentono di p
 
 Produce argomentazioni in base alle conoscenze teoriche acquisite (ad esempio sa utilizzare i concetti di proprietà caratterizzante e di definizione).
 
-Sostiene le proprie convinzioni, portando esempi e controesempi adeguati e utilizzando concatenazioni di affermazioni; accetta di cambiare opinione riconoscendo le conseguenze logiche di una argomentazione cor-
-
-retta.
+Sostiene le proprie convinzioni, portando esempi e controesempi adeguati e utilizzando concatenazioni di affermazioni; accetta di cambiare opinione riconoscendo le conseguenze logiche di una argomentazione corretta.
 
 Utilizza e interpreta il linguaggio matematico (piano cartesiano, formule, equazioni, ...) e ne coglie il rapporto col linguaggio naturale.
 
@@ -2023,7 +2073,7 @@ Ha rafforzato un atteggiamento positivo rispetto alla matematica attraverso espe
 
 -Esprimere la relazione di proporzionalità con un'uguaglianza di frazioni e viceversa.
 
--Usare il piano cartesiano per rappresentare relazioni e funzioni empiriche o ricavate da tabelle, e per conoscere in particolare le funzioni del tipo y=ax, y=a/x, y=ax 2 ,  y=2 n e  i  loro  grafici  e  collegare  le prime due al concetto di proporzionalità.
+-Usare il piano cartesiano per rappresentare relazioni e funzioni empiriche o ricavate da tabelle, e per conoscere in particolare le funzioni del tipo y=ax, y=a/x, y=ax², y=2ⁿ e i loro grafici e collegare le prime due al concetto di proporzionalità.
 
 -Esplorare e risolvere problemi utilizzando equazioni di primo grado.
 
@@ -2043,15 +2093,15 @@ Ha rafforzato un atteggiamento positivo rispetto alla matematica attraverso espe
 
 ### SCIENZE
 
-La moderna conoscenza scientifica del mondo si è co struita nel tempo, attraverso un metodo di indagine fondato sull'osservazione dei fatti e sulla loro interpretazione, con spiegazioni e modelli sempre suscettibili di revisione e di riformulazione. L'osservazione dei fatti e lo spirito di ricerca dovrebbero caratterizzare anche un efficace insegnamento delle scienze e dovrebbero essere attuati attraverso un coinvolgimento diretto degli alunni incoraggiandoli, senza un ordine temporale rigido e senza forzare alcuna fase, a porre domande sui fenomeni e le cose, a progettare esperimenti/esplorazioni seguendo ipotesi di lavoro e a costruire i loro modelli interpretativi.
+La moderna conoscenza scientifica del mondo si è costruita nel tempo, attraverso un metodo di indagine fondato sull'osservazione dei fatti e sulla loro interpretazione, con spiegazioni e modelli sempre suscettibili di revisione e di riformulazione. L'osservazione dei fatti e lo spirito di ricerca dovrebbero caratterizzare anche un efficace insegnamento delle scienze e dovrebbero essere attuati attraverso un coinvolgimento diretto degli alunni incoraggiandoli, senza un ordine temporale rigido e senza forzare alcuna fase, a porre domande sui fenomeni e le cose, a progettare esperimenti/esplorazioni seguendo ipotesi di lavoro e a costruire i loro modelli interpretativi.
 
 La ricerca sperimentale, individuale e di gruppo, rafforza nei ragazzi la fiducia nelle proprie capacità di pensiero, la disponibilità a dare e ricevere aiuto, l'imparare dagli errori propri e altrui, l'apertura ad opinioni diverse e la capacità di argomentare le proprie.
 
-Le esperienze concrete potranno essere realizzate in aula o in spazi adatti: laboratorio scolastico, ma anche spazi naturali o ambienti raggiungibili facilmente. È importante disporre di tempi e modalità di l avoro che consentano, in modo non superficiale o affrettato, la produzione di idee originali da parte dei ragazzi, anche a costo di fare delle scelte sui livelli di approfondimento e limitarsi alla trattazione di temi rilevanti. La valorizzazione del pensiero spontaneo dei ragazzi consentirà di costruire nel tempo le prime formalizzazioni in modo convincente per ciascun alunno. La gradualità e non dogmaticità dell'insegnamento favorirà neg li alunni la fiducia nelle loro possibilità di capire sempre quello che si studia, con i propri mezzi e al proprio livello.
+Le esperienze concrete potranno essere realizzate in aula o in spazi adatti: laboratorio scolastico, ma anche spazi naturali o ambienti raggiungibili facilmente. È importante disporre di tempi e modalità di lavoro che consentano, in modo non superficiale o affrettato, la produzione di idee originali da parte dei ragazzi, anche a costo di fare delle scelte sui livelli di approfondimento e limitarsi alla trattazione di temi rilevanti. La valorizzazione del pensiero spontaneo dei ragazzi consentirà di costruire nel tempo le prime formalizzazioni in modo convincente per ciascun alunno. La gradualità e non dogmaticità dell'insegnamento favorirà negli alunni la fiducia nelle loro possibilità di capire sempre quello che si studia, con i propri mezzi e al proprio livello.
 
 Con lo sviluppo dei linguaggi e delle capacità di comunicazione, i ragazzi dovrebbero saper descrivere la loro attività di ricerca in testi di vario tipo (racconti orali, testi scritti, immagini, disegni, schemi, mappe, tabelle, grafici, ecc.) sintetizzando il problema affrontato, l'esperimento progettato, la sua realizzazione e i suoi risultati, le difficoltà incontrate, le scelte adottate, le risposte individuate.
 
-Le scienze naturali e sperimentali sono fra loro diverse per quanto riguarda i contenuti ma, almeno a livello elementare, sono accomunate da metodologie di indagine simili. È opportuno, quindi, potenziare nel  percorso di studio, l'impostazione metodologica, mettendo in evidenza i modi di ragionare, le strutture di pensiero e le informazioni trasversali, evitando così  la frammentarietà nozionistica dei differenti contenuti. Gli allievi potranno così riconoscere in quello che van no studiando un'unitarietà della conoscenza. Per questo, in rapporto all'età e con richiami graduali lungo tutto l'arco degli anni scolastici fino alla scuola secondaria, dovranno  essere  focalizzati  alcuni  grandi  'organizzatori  concettuali'  quali:  causa/effetto,  sistema,  stato/trasformazione, equilibrio, energia, ecc.
+Le scienze naturali e sperimentali sono fra loro diverse per quanto riguarda i contenuti ma, almeno a livello elementare, sono accomunate da metodologie di indagine simili. È opportuno, quindi, potenziare nel percorso di studio, l'impostazione metodologica, mettendo in evidenza i modi di ragionare, le strutture di pensiero e le informazioni trasversali, evitando così la frammentarietà nozionistica dei differenti contenuti. Gli allievi potranno così riconoscere in quello che vanno studiando un'unitarietà della conoscenza. Per questo, in rapporto all'età e con richiami graduali lungo tutto l'arco degli anni scolastici fino alla scuola secondaria, dovranno essere focalizzati alcuni grandi “organizzatori concettuali” quali: causa/effetto, sistema, stato/trasformazione, equilibrio, energia, ecc.
 
 Il percorso dovrà comunque mantenere un costante riferimento alla realtà, imperniando le attività didattiche sulla scelta di casi emblematici quali l'osservazione diretta di un organismo o di un micro-ambiente, di un  movimento,  di  una  candela  che  brucia,  di  una  fusione,  dell'ombra  prodotta  dal  Sole,  delle  proprietà dell'acqua, ecc.
 
@@ -2067,13 +2117,25 @@ Esplora i fenomeni con un approccio scientifico: con l'aiuto dell'insegnante, de
 
 Individua nei fenomeni somiglianze e differenze, fa misurazioni, registra dati significativi, identifica relazioni spazio/temporali.
 
-Individua aspetti quantitativi e qualitativi nei fenomeni, produce rappresentazioni grafiche e schemi di livello adeguato, elabora semplici modelli. Riconosce le principali caratteristiche e i modi di vivere di organismi animali e vegetali. Ha consapevolezza della struttura e dello sviluppo del proprio corpo, nei suoi diversi organi e apparati, ne riconosce e descrive il funzionamento, utilizzando modelli intuitivi ed ha cura della sua salute. Ha atteggiamenti di cura verso l'ambiente scolastico che condivide con gli altri; rispetta e apprezza il valore dell'ambiente sociale e naturale. Espone in forma chiara ciò che ha sperimentato, utilizzando un linguaggio appropriato. Trova da varie fonti (libri, internet, discorsi degli adulti, ecc.) informazioni e spiegazioni sui problemi che lo interessano.
+Individua aspetti quantitativi e qualitativi nei fenomeni, produce rappresentazioni grafiche e schemi di li-
 
 54
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
+
+vello adeguato, elabora semplici modelli.
+
+Riconosce le principali caratteristiche e i modi di vivere di organismi animali e vegetali.
+
+Ha consapevolezza della struttura e dello sviluppo del proprio corpo, nei suoi diversi organi e apparati, ne riconosce e descrive il funzionamento, utilizzando modelli intuitivi ed ha cura della sua salute.
+
+Ha atteggiamenti di cura verso l'ambiente scolastico che condivide con gli altri; rispetta e apprezza il valore dell'ambiente sociale e naturale.
+
+Espone in forma chiara ciò che ha sperimentato, utilizzando un linguaggio appropriato.
+
+Trova da varie fonti (libri, internet, discorsi degli adulti, ecc.) informazioni e spiegazioni sui problemi che lo interessano.
 
 #### Obiettivi di apprendimento al termine della classe terza di scuola primaria
 
@@ -2095,7 +2157,7 @@ Individua aspetti quantitativi e qualitativi nei fenomeni, produce rappresentazi
 
 -Osservare e interpretare le trasformazioni ambientali naturali (ad opera del sole, di agenti atmosferici, dell'acqua, ecc.) e quelle ad opera dell'uomo (urbanizzazione, coltivazione, industrializzazione, ecc.).
 
--Avere familiarità con la variabilità dei fenomeni atmosferici (venti, nuvole, pioggia, ecc.) e con la periodicità dei fenomeni celesti (dì/notte, percors i del sole, stagioni).
+-Avere familiarità con la variabilità dei fenomeni atmosferici (venti, nuvole, pioggia, ecc.) e con la periodicità dei fenomeni celesti (dì/notte, percorsi del sole, stagioni).
 
 ##### L'uomo i viventi e l'ambiente
 
@@ -2113,7 +2175,7 @@ Individua aspetti quantitativi e qualitativi nei fenomeni, produce rappresentazi
 
 -Cominciare a riconoscere regolarità nei fenomeni e a costruire in modo elementare il concetto di energia.
 
--Osservare, utilizzare e, quando è possibile, costru ire semplici strumenti di misura: recipienti per misure di volumi/capacità, bilance a molla, ecc.) imparando a servirsi di unità convenzionali.
+-Osservare, utilizzare e, quando è possibile, costruire semplici strumenti di misura: recipienti per misure di volumi/capacità, bilance a molla, ecc.) imparando a servirsi di unità convenzionali.
 
 -Individuare le proprietà di alcuni materiali come, ad esempio: la durezza, il peso, l'elasticità, la trasparenza, la densità, ecc.; realizzare sperimentalmente semplici soluzioni in acqua (acqua e zucchero, acqua e inchiostro, ecc).
 
@@ -2151,7 +2213,7 @@ L'alunno esplora e sperimenta, in laboratorio e all'aperto, lo svolgersi dei pi�
 
 Sviluppa semplici schematizzazioni e modellizzazioni di fatti e fenomeni ricorrendo, quando è il caso,  a misure appropriate e a semplici formalizzazioni.
 
-Riconosce nel proprio organismo strutture e funzionamenti a livelli macroscopici e microscopici, è con sapevole delle sue potenzialità e dei suoi limiti.
+Riconosce nel proprio organismo strutture e funzionamenti a livelli macroscopici e microscopici, è consapevole delle sue potenzialità e dei suoi limiti.
 
 Ha una visione della complessità del sistema dei viventi e della loro evoluzione nel tempo; riconosce nella loro diversità i bisogni fondamentali di animali e piante, e i modi di soddisfarli negli specifici contesti ambientali.
 
@@ -2209,15 +2271,15 @@ Ha curiosità e interesse verso i principali problemi legati all'uso della scien
 
 ### MUSICA
 
-La musica, componente fondamentale e universale dell'esperienza umana, offre uno spazio simbolico e relazionale  propizio  all'attivazione  di  processi  di  cooperazione  e  socializzazione,  all'acquisizione  di  strumenti di conoscenza, alla valorizzazione della creatività e della partecipazione, allo sviluppo del senso di appartenenza a una comunità, nonché all'interazione f ra culture diverse.
+La musica, componente fondamentale e universale dell'esperienza umana, offre uno spazio simbolico e relazionale propizio all'attivazione di processi di cooperazione e socializzazione, all'acquisizione di strumenti di conoscenza, alla valorizzazione della creatività e della partecipazione, allo sviluppo del senso di appartenenza a una comunità, nonché all'interazione fra culture diverse.
 
 L'apprendimento della musica consta di pratiche e di conoscenze, e nella scuola si articola su due dimensioni: a) produzione, mediante l'azione diretta (esplorativa, compositiva, esecutiva) con e sui materiali sonori, in particolare attraverso l'attività corale e di musica d'insieme; b) fruizione consapevole, che implica la costruzione e l'elaborazione di significati personali, sociali e culturali, relativamente a fatti, eventi, opere del presente e del passato.
 
-Il canto, la pratica degli strumenti musicali, la produzione creativa, l'ascolto, la comprensione e la riflessione  critica  favoriscono  lo  sviluppo  della  musicalità  che  è  in  ciascuno;  promuovono  l'integrazione  de lle componenti  percettivo-motorie,  cognitive  e  affettivo-sociali  della  personalità;  contribuiscono  al  benessere psicofisico in una prospettiva di prevenzione del disagio, dando risposta a bisogni, desideri, domande, caratteristiche delle diverse fasce d'età. In particolare, attraverso l'esperienza del far musica insieme, ognuno potrà cominciare a leggere e a scrivere musica, a produrla anche attraverso l'improvvisazione, intesa come gesto e pensiero che si scopre nell'attimo in cui avviene: improvvisare vuol dire comporre nell'istante.
+Il canto, la pratica degli strumenti musicali, la produzione creativa, l'ascolto, la comprensione e la riflessione critica favoriscono lo sviluppo della musicalità che è in ciascuno; promuovono l'integrazione delle componenti percettivo-motorie, cognitive e affettivo-sociali della personalità; contribuiscono al benessere psicofisico in una prospettiva di prevenzione del disagio, dando risposta a bisogni, desideri, domande, caratteristiche delle diverse fasce d'età. In particolare, attraverso l'esperienza del far musica insieme, ognuno potrà cominciare a leggere e a scrivere musica, a produrla anche attraverso l'improvvisazione, intesa come gesto e pensiero che si scopre nell'attimo in cui avviene: improvvisare vuol dire comporre nell'istante.
 
 L'apprendimento della musica esplica specifiche funzioni formative, tra loro interdipendenti. Mediante la funzione cognitivo-culturale gli alunni esercitano la capacità di rappresentazione simbolica della realtà, sviluppano un pensiero flessibile, intuitivo, creativo e partecipano al patrimonio di diverse culture musicali; utilizzano le competenze specifiche della disciplina per cogliere significati, mentalità, modi di vita e valori della comunità a cui fanno riferimento. Mediante la funzione linguistico-comunicativa la musica educa gli alunni all'espressione e alla comunicazione attraverso gli strumenti e le tecniche specifiche del proprio linguaggio. Mediante la funzione emotivo-affettiva gli alunni, nel rapporto con l'opera d'arte, sviluppano la riflessione sulla  formalizzazione simbolica delle emozioni. Mediante la funzioni identitaria e interculturale la musica induce gli alunni a prendere coscienza della loro appartenenza a una tradizione culturale e nel contempo fornisce loro gli strumenti per la conoscenza, il confronto e il rispetto di altre tradizioni culturali e religiose. Mediante la funzione relazionale essa instaura relazioni interpersonali e di gruppo, fondate su pratiche compartecipate e sull'ascolto condiviso. Mediante la funzione critico-estetica essa sviluppa negli alunni una sensibilità artistica basata sull'interpretazione sia di messaggi sonori sia di opere d'arte, eleva la loro autonomia di giudizio e il livello di fruizione estetica del patrimonio culturale.
 
-In quanto mezzo di espressione e di comunicazione, la musica interagisce costantemente con le altre arti ed è aperta agli scambi e alle interazioni con i va ri ambiti del sapere.
+In quanto mezzo di espressione e di comunicazione, la musica interagisce costantemente con le altre arti ed è aperta agli scambi e alle interazioni con i vari ambiti del sapere.
 
 #### Traguardi per lo sviluppo delle competenze al termine della scuola primaria
 
@@ -2261,9 +2323,11 @@ L'alunno  partecipa  in  modo  attivo  alla  realizzazione  di  esperienze  musi
 
 Usa diversi sistemi di notazione funzionali alla lettura, all'analisi e alla produzione di brani musicali.
 
-È in grado di ideare e realizzare, anche attraverso  l'improvvisazione o partecipando a processi di elaborazione collettiva, messaggi musicali e multimediali, nel confronto critico con modelli appartenenti al patrimonio musicale, utilizzando anche sistemi informatici. Comprende e valuta eventi, materiali, opere musicali riconoscendone i significati, anche in relazione alla propria esperienza musicale e ai diversi contesti storico-culturali. Integra con altri saperi e altre pratiche artistiche le proprie esperienze musicali, servendosi anche di ap-
+È in grado di ideare e realizzare, anche attraverso l'improvvisazione o partecipando a processi di elaborazione collettiva, messaggi musicali e multimediali, nel confronto critico con modelli appartenenti al patrimonio musicale, utilizzando anche sistemi informatici.
 
-propriati codici e sistemi di codifica.
+Comprende e valuta eventi, materiali, opere musicali riconoscendone i significati, anche in relazione alla propria esperienza musicale e ai diversi contesti storico-culturali.
+
+Integra con altri saperi e altre pratiche artistiche le proprie esperienze musicali, servendosi anche di appropriati codici e sistemi di codifica.
 
 (*) per il quadro delle competenze specifiche connesse allo studio dello strumento musicale, si rinvia alle specifiche norme di settore.
 
@@ -2295,25 +2359,25 @@ La disciplina arte e immagine ha la finalità di sviluppare e potenziare nell'al
 
 Il percorso formativo, attento all'importanza della soggettività degli allievi, dovrà riconoscere, valorizzare e ordinare conoscenze ed esperienze acquisite dall'alunno nel campo espressivo e multimediale anche fuori dalla scuola, come elementi utili al processo di formazione della capacità di riflessione critica.
 
-La disciplina contribuisce così in modo rilevante a  far sì che la scuola si apra al mondo, portandola  a confrontarsi criticamente con 'la cultura giovanile' e con le nuove modalità di apprendimento proposte dalle tecnologie della comunicazione.
+La disciplina contribuisce così in modo rilevante a far sì che la scuola si apra al mondo, portandola a confrontarsi criticamente con “la cultura giovanile” e con le nuove modalità di apprendimento proposte dalle tecnologie della comunicazione.
 
 Attraverso il percorso formativo di tutto il primo ciclo, l'alunno impara a utilizzare e fruire del linguaggio visivo e dell'arte, facendo evolvere l'esperienza espressiva spontanea verso forme sempre più consapevoli e strutturate di comunicazione.
 
 Il percorso permette agli alunni di esprimersi e comunicare sperimentando attivamente le tecniche e i codici propri del linguaggio visivo e audiovisivo; di leggere e interpretare in modo critico e attivo i linguaggi delle immagini e quelli multimediali; di comprendere le opere d'arte; di conoscere e apprezzare i beni culturali e il patrimonio artistico.
 
-L'alunno può così sviluppare le proprie capacità cr eative attraverso l'utilizzo di codici e linguaggi espressivi e la rielaborazione di segni visivi.
+L'alunno può così sviluppare le proprie capacità creative attraverso l'utilizzo di codici e linguaggi espressivi e la rielaborazione di segni visivi.
 
-Con l'educazione all'arte e  all'immagine,  caratterizzata  da  un  approccio  di  tipo  laboratoriale,  l'alunno sviluppa le capacità di osservare e descrivere, di leggere e comprendere criticamente le opere d'arte. Lo sviluppo di queste capacità è una condizione necessari a per creare un atteggiamento di curiosità e di interazione positiva con il mondo artistico. È importante infat ti che l'alunno apprenda, a partire dai primi anni, gli elementi di base del linguaggio delle immagini e allo stesso tempo sperimenti diversi metodi di approccio alle opere d'arte, anche attraverso esperienze dirette nel territorio e nei musei. È necessario, inoltre, c he abbia una conoscenza dei luoghi e dei contesti storici, degli stili e delle funzioni che caratterizzano la produzione artistica.
+Con l'educazione all'arte e all'immagine, caratterizzata da un approccio di tipo laboratoriale, l'alunno sviluppa le capacità di osservare e descrivere, di leggere e comprendere criticamente le opere d'arte. Lo sviluppo di queste capacità è una condizione necessaria per creare un atteggiamento di curiosità e di interazione positiva con il mondo artistico. È importante infatti che l'alunno apprenda, a partire dai primi anni, gli elementi di base del linguaggio delle immagini e allo stesso tempo sperimenti diversi metodi di approccio alle opere d'arte, anche attraverso esperienze dirette nel territorio e nei musei. È necessario, inoltre, che abbia una conoscenza dei luoghi e dei contesti storici, degli stili e delle funzioni che caratterizzano la produzione artistica.
 
 La familiarità con immagini di qualità ed opere d'arte sensibilizza e potenzia nell'alunno le capacità creative, estetiche ed espressive, rafforza la preparazione culturale e contribuisce ad educarlo a una cittadinanza attiva e responsabile. In questo modo l'alunno si educa alla salvaguardia, e alla conservazione del patrimonio artistico e ambientale a partire dal territorio di appartenenza. La familiarità con i linguaggi artistici, di tutte le arti, che sono universali, permette di sviluppare relazioni interculturali basate sulla comunicazione, la conoscenza e il confronto tra culture diverse.
 
-Per far sì che la disciplina contribuisca allo svil uppo di tutti gli aspetti della personalità dell'alunno è necessario che il suo apprendimento sia realizzato attraverso l'integrazione dei suoi nuclei costitutivi: sensoriale (sviluppo delle dimensioni tattile, olfattiva, uditiva, visiva); linguistico-comunicativo (il messaggio visivo, i segni dei codici iconici e non iconici, le funzioni, ecc.); storico-culturale (l'arte come documento per comprendere la storia, la società, la cultura, la religione di una specifica epoca); espressivo/comunicativa (produzione e sperimentazione di tecniche, codici e materiali diversificati, incluse le nuove tecnologie); patrimoniale (il museo, i beni culturali e ambientali presenti nel territorio).
+Per far sì che la disciplina contribuisca allo sviluppo di tutti gli aspetti della personalità dell'alunno è necessario che il suo apprendimento sia realizzato attraverso l'integrazione dei suoi nuclei costitutivi: sensoriale (sviluppo delle dimensioni tattile, olfattiva, uditiva, visiva); linguistico-comunicativo (il messaggio visivo, i segni dei codici iconici e non iconici, le funzioni, ecc.); storico-culturale (l'arte come documento per comprendere la storia, la società, la cultura, la religione di una specifica epoca); espressivo/comunicativa (produzione e sperimentazione di tecniche, codici e materiali diversificati, incluse le nuove tecnologie); patrimoniale (il museo, i beni culturali e ambientali presenti nel territorio).
 
 #### Traguardi per lo sviluppo delle competenze al termine della scuola primaria
 
 L'alunno utilizza le conoscenze e le abilità relative al linguaggio visivo per produrre varie tipologie di testi visivi (espressivi, narrativi, rappresentativi e comunicativi) e rielaborare in modo creativo le immagini con molteplici tecniche, materiali e strumenti (grafico-espressivi, pittorici e plastici, ma anche audiovisivi e multimediali).
 
-È  in  grado  di  osservare,  esplorare,  descrivere  e  le ggere  immagini  (opere  d'arte,  fotografie,  manifesti, fumetti, ecc) e messaggi multimediali (spot, brevi filmati, videoclip, ecc.)
+È in grado di osservare, esplorare, descrivere e leggere immagini (opere d'arte, fotografie, manifesti, fumetti, ecc) e messaggi multimediali (spot, brevi filmati, videoclip, ecc.)
 
 Individua i principali aspetti formali dell'opera d'arte; apprezza le opere artistiche e artigianali provenienti da culture diverse dalla propria.
 
@@ -2355,9 +2419,15 @@ Conosce i principali beni artistico-culturali presenti nel proprio territorio e 
 
 #### Traguardi di sviluppo delle competenze al termine della scuola secondaria di primo grado
 
-L'alunno realizza elaborati personali e creativi sulla base di un'ideazione e progettazione originale, applicando le conoscenze e le regole del linguaggio visivo, scegliendo in modo funzionale tecniche e materiali differenti anche con l'integrazione di più media e codici espressivi. Padroneggia gli elementi principali del linguaggio visivo, legge e comprende i significati di immagini statiche e in movimento, di filmati audiovisivi e di prodotti multimediali. Legge le opere più significative prodotte nell'arte antica, medievale, moderna e contemporanea, sapendole collocare nei rispettivi contesti storici, culturali e ambientali; riconosce il valore culturale di immagini, di opere e di oggetti artigianali prodotti in paesi diversi dal proprio. Riconosce gli elementi principali del patrimonio culturale, artistico e ambientale del proprio territorio e è sensibile ai problemi della sua tutela e conservazione. Analizza e descrive beni culturali, immagini statiche e multimediali, utilizzando il linguaggio appro-
+L'alunno realizza elaborati personali e creativi sulla base di un'ideazione e progettazione originale, applicando le conoscenze e le regole del linguaggio visivo, scegliendo in modo funzionale tecniche e materiali differenti anche con l'integrazione di più media e codici espressivi.
 
-priato.
+Padroneggia gli elementi principali del linguaggio visivo, legge e comprende i significati di immagini statiche e in movimento, di filmati audiovisivi e di prodotti multimediali.
+
+Legge le opere più significative prodotte nell'arte antica, medievale, moderna e contemporanea, sapendole collocare nei rispettivi contesti storici, culturali e ambientali; riconosce il valore culturale di immagini, di opere e di oggetti artigianali prodotti in paesi diversi dal proprio.
+
+Riconosce gli elementi principali del patrimonio culturale, artistico e ambientale del proprio territorio e è sensibile ai problemi della sua tutela e conservazione.
+
+Analizza e descrive beni culturali, immagini statiche e multimediali, utilizzando il linguaggio appropriato.
 
 #### Obiettivi di apprendimento al termine della scuola secondaria di primo grado
 
@@ -2403,11 +2473,11 @@ priato.
 
 ### EDUCAZIONE FISICA
 
-Nel primo ciclo l'educazione fisica promuove la conoscenza di sé e delle proprie potenzialità nella co stante relazione con l'ambiente, gli altri, gli oggetti. Contribuisce, inoltre, alla formazione della personalità dell'alunno attraverso la conoscenza e la consapevolezza della propria identità corporea, nonché del c ontinuo bisogno di movimento come cura costante della propria persona e del proprio benessere.
+Nel primo ciclo l'educazione fisica promuove la conoscenza di sé e delle proprie potenzialità nella costante relazione con l'ambiente, gli altri, gli oggetti. Contribuisce, inoltre, alla formazione della personalità dell'alunno attraverso la conoscenza e la consapevolezza della propria identità corporea, nonché del continuo bisogno di movimento come cura costante della propria persona e del proprio benessere.
 
-In particolare, lo 'stare bene con se stessi' richiama l'esigenza che il curricolo dell'educazione al movimento preveda esperienze tese ad consolidare stili di vita corretti e salutari, come presupposto di una cultura personale che valorizzi le esperienze motorie e sportive, anche extrascolastiche, come prevenzione di ipocinesia, sovrappeso e cattive abitudini alimentari, involuzione delle capacità motorie, precoce abbandono della pratica sportiva e utilizzo di sostanze che inducono dipendenza.
+In particolare, lo “stare bene con se stessi” richiama l'esigenza che il curricolo dell'educazione al movimento preveda esperienze tese ad consolidare stili di vita corretti e salutari, come presupposto di una cultura personale che valorizzi le esperienze motorie e sportive, anche extrascolastiche, come prevenzione di ipocinesia, sovrappeso e cattive abitudini alimentari, involuzione delle capacità motorie, precoce abbandono della pratica sportiva e utilizzo di sostanze che inducono dipendenza.
 
-Le attività motorie e sportive forniscono agli alunni le occasioni per riflettere sui cambiamenti del proprio corpo, per accettarli e viverli serenamente come espressione della crescita e del processo di maturazione di ogni persona; offrono altresì occasioni per riflett ere sulle valenze che l'immagine di sé assume nel c onfronto col gruppo dei pari. L'educazione motoria è quindi  l'occasione per promuovere esperienze cognitive, sociali, culturali e affettive.
+Le attività motorie e sportive forniscono agli alunni le occasioni per riflettere sui cambiamenti del proprio corpo, per accettarli e viverli serenamente come espressione della crescita e del processo di maturazione di ogni persona; offrono altresì occasioni per riflettere sulle valenze che l'immagine di sé assume nel confronto col gruppo dei pari. L'educazione motoria è quindi l'occasione per promuovere esperienze cognitive, sociali, culturali e affettive.
 
 Attraverso il movimento, con il quale si realizza una vastissima gamma di gesti che vanno dalla mimica del volto, alla danza, alle più svariate prestazioni sportive, l'alunno potrà conoscere il suo corpo ed esplorare lo spazio, comunicare e relazionarsi con gli altri in modo adeguato ed efficace.
 
@@ -2415,15 +2485,15 @@ La conquista di abilità motorie e la possibilità di sperimentare il successo d
 
 L'attività motoria e sportiva, soprattutto nelle occasioni in cui fa sperimentare la vittoria o la sconfitta, contribuisce all'apprendimento della capacità di modulare e controllare le proprie emozioni.
 
-Attraverso la dimensione motoria l'alunno è facilit ato nell'espressione di istanze comunicative e disagi di varia natura che non sempre riesce a comunicare con il linguaggio verbale.
+Attraverso la dimensione motoria l'alunno è facilitato nell'espressione di istanze comunicative e disagi di varia natura che non sempre riesce a comunicare con il linguaggio verbale.
 
 L'attività motoria praticata in ambiente naturale rappresenta un elemento determinante per un'azione educativa integrata, per la formazione di futuri cittadini del mondo, rispettosi dei valori umani, civili e ambientali.
 
-Partecipare alle attività motorie e sportive significa condividere con altre persone esperienze di gruppo, promuovendo l'inserimento anche di alunni con varie forme di diversità ed esaltando il valore della cooperazione e del lavoro di squadra. Il gioco e lo sport sono, infatti, mediatori e facilitatori di relazioni e 'incontri'.
+Partecipare alle attività motorie e sportive significa condividere con altre persone esperienze di gruppo, promuovendo l'inserimento anche di alunni con varie forme di diversità ed esaltando il valore della cooperazione e del lavoro di squadra. Il gioco e lo sport sono, infatti, mediatori e facilitatori di relazioni e “incontri”.
 
 L'attività sportiva promuove il valore del rispetto di regole concordate e condivise e i valori etici che sono alla base della convivenza civile. I docenti sono impegnati a trasmettere e a far vivere ai ragazzi i principi di una cultura sportiva portatrice di rispetto per sé  e per l'avversario, di lealtà, di senso di appartenenza e di responsabilità, di controllo dell'aggressività, di negazione di qualunque forma di violenza.
 
-L'esperienza  motoria  deve  connotarsi  come  'vissuto  positivo',  mettendo  in  risalto  la  capacità  di  fare dell'alunno, rendendolo costantemente protagonista e progressivamente consapevole delle competenze motorie via via acquisite.
+L'esperienza motoria deve connotarsi come “vissuto positivo”, mettendo in risalto la capacità di fare dell'alunno, rendendolo costantemente protagonista e progressivamente consapevole delle competenze motorie via via acquisite.
 
 #### Traguardi per lo sviluppo delle competenze al termine della scuola primaria
 
@@ -2479,17 +2549,17 @@ Comprende, all'interno delle varie occasioni di gioco e di sport, il valore dell
 
 #### Traguardi per lo sviluppo delle competenze al termine della scuola secondaria di primo grado
 
-L'alunno è consapevole delle proprie competenze mot orie sia nei punti di forza che nei limiti.
+L'alunno è consapevole delle proprie competenze motorie sia nei punti di forza che nei limiti.
 
 Utilizza le abilità motorie e sportive acquisite adattando il movimento in situazione.
 
-Utilizza gli aspetti comunicativo-relazionali del linguaggio motorio per entrare in relazione con gli altri, praticando, inoltre, attivamente i valori sportivi ( fair - play ) come modalità di relazione quotidiana e di rispetto delle regole.
+Utilizza gli aspetti comunicativo-relazionali del linguaggio motorio per entrare in relazione con gli altri, praticando, inoltre, attivamente i valori sportivi (fair – play) come modalità di relazione quotidiana e di rispetto delle regole.
 
-Riconosce, ricerca e applica a se stesso comportamenti di promozione dello 'star bene' in ordine a un sano stile di vita e alla prevenzione.
+Riconosce, ricerca e applica a se stesso comportamenti di promozione dello “star bene” in ordine a un sano stile di vita e alla prevenzione.
 
 Rispetta criteri base di sicurezza per sé e per gli  altri.
 
-È capace di integrarsi nel gruppo, di assumersi res ponsabilità e di impegnarsi per il bene comune.
+È capace di integrarsi nel gruppo, di assumersi responsabilità e di impegnarsi per il bene comune.
 
 #### Obiettivi di apprendimento al termine della classe terza della scuola secondaria di primo grado
 
@@ -2513,7 +2583,7 @@ Rispetta criteri base di sicurezza per sé e per gli  altri.
 
 [[START OF PAGE 65]]
 
-- e storie mediante gestualità e posture svolte in forma individuale, a coppie, in gruppo.
+e storie mediante gestualità e posture svolte in forma individuale, a coppie, in gruppo.
 
 -Saper decodificare i gesti di compagni e avversari in situazione di gioco e di sport.
 
@@ -2557,7 +2627,7 @@ La  tecnologia  si  occupa  degli  interventi  e  delle  trasformazioni  che  l'
 
 Lo sguardo tecnologico su oggetti e sistemi di dimensione e complessità differente - un cavatappi, un frullatore, un ciclomotore, un ristorante, una centrale termica, una discarica - consente di mettere in evidenza una molteplicità di aspetti e di variabili: dalle risorse materiali o immateriali utilizzate alle fasi del processo di fabbricazione o costruzione, dagli aspetti organizzativi della produzione o della fornitura del servizio ai problemi di dismissione e smaltimento. Questo particolare approccio, caratteristico della tecnologia, favorisce lo sviluppo nei ragazzi di un atteggiamento responsabile verso ogni azione trasformativa dell'ambiente e di una sensibilità al rapporto, sempre esistente e spesso conflittuale, tra interesse individuale e bene collettivo, decisiva per il formarsi di un autentico senso civico.
 
-I nuovi strumenti e i nuovi linguaggi della multimedialità rappresentano ormai un elemento fondamentale di tutte le discipline, ma è precisamente attraverso la progettazione e la simulazione, tipici metodi della tecnologia, che le conoscenze teoriche e quelle pratiche si combinano e concorrono alla comprensione di sistemi complessi. Inoltre, per quanto riguarda le tecnologie dell'informazione e della comunicazione e le tecnologie digitali, è  necessario  che  oltre alla padrona nza degli strumenti, spesso  acquisita al di fuori dell'ambiente scolastico, si sviluppi un atteggiamento critico e una maggiore consapevolezza rispetto agli effetti  sociali e culturali della loro diffusione, alle conseguenze relazionali e psicologiche dei possibili modi d'impiego, alle ricadute di tipo ambientale o sanitario, compito educativo cruciale che andrà condiviso tra le diverse discipline.
+I nuovi strumenti e i nuovi linguaggi della multimedialità rappresentano ormai un elemento fondamentale di tutte le discipline, ma è precisamente attraverso la progettazione e la simulazione, tipici metodi della tecnologia, che le conoscenze teoriche e quelle pratiche si combinano e concorrono alla comprensione di sistemi complessi. Inoltre, per quanto riguarda le tecnologie dell'informazione e della comunicazione e le tecnologie digitali, è necessario che oltre alla padronanza degli strumenti, spesso acquisita al di fuori dell'ambiente scolastico, si sviluppi un atteggiamento critico e una maggiore consapevolezza rispetto agli effetti sociali e culturali della loro diffusione, alle conseguenze relazionali e psicologiche dei possibili modi d'impiego, alle ricadute di tipo ambientale o sanitario, compito educativo cruciale che andrà condiviso tra le diverse discipline.
 
 Quando possibile, gli alunni potranno essere introdotti ad alcuni linguaggi di programmazione particolarmente semplici e versatili che si prestano a sviluppare il gusto per l'ideazione e la realizzazione di progetti (siti web interattivi, esercizi, giochi, programmi di utilità) e per la comprensione del rapporto che c'è tra codice sorgente e risultato visibile.
 
@@ -2567,7 +2637,7 @@ L'alunno riconosce e identifica nell'ambiente che lo circonda elementi e fenomen
 
 È a conoscenza di alcuni processi di trasformazione  di risorse e di consumo di energia, e del relativo impatto ambientale.
 
-Conosce e utilizza semplici oggetti e strumenti di uso quotidiano ed è in grado di descriverne la funz ione principale e la struttura e di spiegarne il funzionamento.
+Conosce e utilizza semplici oggetti e strumenti di uso quotidiano ed è in grado di descriverne la funzione principale e la struttura e di spiegarne il funzionamento.
 
 Sa ricavare informazioni utili su proprietà e caratteristiche di beni o servizi leggendo etichette, volantini o altra documentazione tecnica e commerciale.
 
@@ -2579,9 +2649,7 @@ Si orienta tra i diversi mezzi di comunicazione ed è in grado di farne un uso a
 
 [[START OF PAGE 67]]
 
-Produce semplici modelli o rappresentazioni grafiche del proprio operato utilizzando elementi del dise-
-
-gno tecnico o strumenti multimediali.
+Produce semplici modelli o rappresentazioni grafiche del proprio operato utilizzando elementi del disegno tecnico o strumenti multimediali.
 
 Inizia a riconoscere in modo critico le caratteristiche, le funzioni e i limiti della tecnologia attuale.
 
@@ -2627,9 +2695,23 @@ Inizia a riconoscere in modo critico le caratteristiche, le funzioni e i limiti 
 
 #### Traguardi per lo sviluppo delle competenze al termine della scuola secondaria di primo grado
 
-L'alunno riconosce nell'ambiente che lo circonda i principali sistemi tecnologici e le molteplici relazioni che essi stabiliscono con gli esseri viventi e gli altri elementi naturali. Conosce i principali processi di trasformazione di risorse o di produzione di beni e riconosce le diverse forme di energia coinvolte. È in grado di ipotizzare le possibili conseguenze d i una decisione o di una scelta di tipo tecnologico, riconoscendo in ogni innovazione opportunità e rischi. Conosce e utilizza oggetti, strumenti e macchine di uso comune ed è in grado di classificarli e di des criverne la funzione in relazione alla forma, alla struttura e ai materiali. Utilizza adeguate risorse materiali, informative e organizzative per la progettazione e la realizzazione di semplici prodotti, anche di tipo digitale. Ricava dalla lettura e dall'analisi di testi o tabelle informazioni sui beni o sui servizi disponibili sul mercato, in modo da esprimere valutazioni rispetto a criteri di tipo diverso. Conosce le proprietà e le caratteristiche dei diversi mezzi di comunicazione ed è in grado di farne un  uso efficace e responsabile rispetto alle proprie necessità di studio e socializzazione. Sa utilizzare comunicazioni procedurali e istruzioni tecniche per eseguire, in maniera metodica e razionale, compiti operativi complessi, anche collaborando e cooperando con i compagni. , relative alla struttura e al funzionamento di sistemi materiali o immateriali, utilizzando elementi del disegno tecnico o altri linguaggi multimediali e di
+L'alunno riconosce nell'ambiente che lo circonda i principali sistemi tecnologici e le molteplici relazioni che essi stabiliscono con gli esseri viventi e gli altri elementi naturali.
 
-Progetta e realizza rappresentazioni grafiche o infografiche programmazione.
+Conosce i principali processi di trasformazione di risorse o di produzione di beni e riconosce le diverse forme di energia coinvolte.
+
+È in grado di ipotizzare le possibili conseguenze di una decisione o di una scelta di tipo tecnologico, riconoscendo in ogni innovazione opportunità e rischi.
+
+Conosce e utilizza oggetti, strumenti e macchine di uso comune ed è in grado di classificarli e di descriverne la funzione in relazione alla forma, alla struttura e ai materiali.
+
+Utilizza adeguate risorse materiali, informative e organizzative per la progettazione e la realizzazione di semplici prodotti, anche di tipo digitale.
+
+Ricava dalla lettura e dall'analisi di testi o tabelle informazioni sui beni o sui servizi disponibili sul mercato, in modo da esprimere valutazioni rispetto a criteri di tipo diverso.
+
+Conosce le proprietà e le caratteristiche dei diversi mezzi di comunicazione ed è in grado di farne un uso efficace e responsabile rispetto alle proprie necessità di studio e socializzazione.
+
+Sa utilizzare comunicazioni procedurali e istruzioni tecniche per eseguire, in maniera metodica e razionale, compiti operativi complessi, anche collaborando e cooperando con i compagni.
+
+Progetta e realizza rappresentazioni grafiche o infografiche, relative alla struttura e al funzionamento di sistemi materiali o immateriali, utilizzando elementi del disegno tecnico o altri linguaggi multimediali e di programmazione.
 
 #### Obiettivi di apprendimento al termine della classe terza della scuola secondaria di primo grado
 
