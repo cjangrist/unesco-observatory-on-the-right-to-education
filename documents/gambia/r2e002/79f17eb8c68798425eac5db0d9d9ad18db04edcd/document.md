@@ -12,9 +12,108 @@ MAY 2004
 
 ## TABLE OF CONTENTS
 
+FOREWORD ........................................................................................................................................................ 4
+LIST OF ACRONYMS ........................................................................................................................................ 5
+OPERATIONAL DEFINITIONS OF TERMS .................................................................................................. 7
+1 NATIONAL EDUCATIONAL DEVELOPMENT: A POLICY FRAMEWORK ............................... 8
+1.1 INTRODUCTION ............................................................................................................................... 8
+2 BACKGROUND TO THE EDUCATION POLICY ................................................................................ 9
+2.1 RETHINKING EDUCATION ..................................................................................................................... 9
+2.2 POLICY DIALOGUE ............................................................................................................................... 9
+2.3 PUBLIC EXPENDITURE REVIEW .......................................................................................................... 10
+2.4 EDUCATION EXPENDITURE ................................................................................................................. 10
+2.5 ACCESS AND ENROLMENT .................................................................................................................. 10
+2.6 FEMALE ENROLMENT ......................................................................................................................... 11
+2.7 THE PRIVATE COSTS AND BENEFITS OF EDUCATION ............................................................................ 11
+2.8 EFFICIENCY OF THE EDUCATION SYSTEM ............................................................................................ 11
+2.9 QUALITY AND RELEVANCE OF EDUCATION ........................................................................................ 12
+3 GUIDING PRINCIPLES AND AIMS OF EDUCATION ..................................................................... 13
+3.1 GUIDING PRINCIPLES .......................................................................................................................... 13
+3.2 AIMS OF EDUCATION .......................................................................................................................... 13
+4 POLICY PRIORITIES AND OBJECTIVES ......................................................................................... 15
+4.1 POLICY PRIORITIES ............................................................................................................................. 15
+4.1.1.1. Access to Education: ................................................................................................................ 15
+4.1.1.2. Quality Education .................................................................................................................... 15
+4.1.1.3. Vocational and Technical Education ....................................................................................... 16
+4.1.1.4. Tertiary and Higher Education ................................................................................................ 16
+4.1.1.5. Capacity Building .................................................................................................................... 16
+4.2 POLICY OBJECTIVES ........................................................................................................................... 17
+5 BASIC EDUCATION ............................................................................................................................... 19
+5.1 BASIC EDUCATION FOR ALL ............................................................................................................... 19
+5.2 EARLY CHILDHOOD DEVELOPMENT ................................................................................................... 19
+5.3 LOWER AND UPPER BASIC .................................................................................................................. 20
+5.4 MADRASSA ......................................................................................................................................... 20
+5.5 FACILITIES .......................................................................................................................................... 21
+5.6 SPECIAL NEEDS EDUCATION .............................................................................................................. 21
+5.7 ADULT AND NON-FORMAL EDUCATION ............................................................................................. 22
+6 SECONDARY EDUCATION .................................................................................................................. 24
+6.1 ACCESS .............................................................................................................................................. 24
+6.2 CURRICULUM ..................................................................................................................................... 24
+6.3 EXAMINATIONS .................................................................................................................................. 24
+6.4 STAFFING ........................................................................................................................................... 25
+6.5 GOVERNANCE .................................................................................................................................... 25
+7 GENDER MAINSTREAMING ............................................................................................................... 26
+7.1 ENROLMENT TRENDS ......................................................................................................................... 26
+8 SCHOOL AGRICULTURE AND FOOD MANAGEMENT ................................................................ 28
+8.1 SCHOOL AGRICULTURE FOR POVERTY REDUCTION ............................................................................ 28
+9 LIFE SKILLS EDUCATION ................................................................................................................... 29
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+9.1 LIFE SKILLS ........................................................................................................................................ 29
+9.2 HIV/AIDS PREVENTION .................................................................................................................... 29
+9.3 GENDER RESPONSIVENESS AND PERSPECTIVES .................................................................................. 29
+9.4 PEACE BUILDING AND TOLERANCE .................................................................................................... 30
+9.5 POPULATION AND FAMILY LIFE EDUCATION ...................................................................................... 30
+9.6 GUIDANCE AND COUNSELLING ........................................................................................................... 30
+9.7 PATRIOTISM ....................................................................................................................................... 31
+10 SCIENCE AND TECHNOLOGY EDUCATION .................................................................................. 32
+10.1 SCIENCE AND TECHNOLOGY POLICY .................................................................................................. 32
+10.2 INFORMATION AND COMMUNICATIONS TECHNOLOGY ....................................................................... 32
+10.3 EDUCATIONAL BROADCASTING ......................................................................................................... 34
+11 IMPROVEMENT OF QUALITY AND RELEVANCE ........................................................................ 35
+11.1 CURRICULUM ..................................................................................................................................... 35
+11.2 TEACHING AND LEARNING MATERIALS ............................................................................................. 36
+11.3 ASSESSMENT OF STUDENT ACHIEVEMENT AND EXAMINATIONS ........................................................ 36
+11.4 TEACHER SUPPLY AND QUALITY ........................................................................................................ 37
+11.5 MONITORING AND SUPERVISION ........................................................................................................ 37
+11.6 SCHOOL ORGANISATION AND DEVELOPMENT .................................................................................... 38
+11.7 FLEXIBLE SCHOOL CALENDAR ........................................................................................................... 38
+12 VOCATIONAL EDUCATION AND TRAINING ................................................................................. 39
+12.1 GOVERNANCE .................................................................................................................................... 39
+12.2 FINANCING ......................................................................................................................................... 39
+13 TERTIARY AND HIGHER EDUCATION ........................................................................................... 40
+13.1 TERTIARY EDUCATION ....................................................................................................................... 40
+13.2 OVERVIEW OF TERTIARY AND HIGHER EDUCATION ........................................................................... 40
+13.3 TECHNICAL EDUCATION ..................................................................................................................... 41
+13.4 TEACHER EDUCATION ........................................................................................................................ 42
+13.5 UNIVERSITY EDUCATION ................................................................................................................... 43
+13.6 RESEARCH .......................................................................................................................................... 44
+14 MANAGEMENT OF EDUCATION ....................................................................................................... 45
+14.1 ORGANISATIONAL STRUCTURE .......................................................................................................... 45
+14.2 DIRECTORATES ................................................................................................................................... 45
+I. Planning and Budgeting Directorate ................................................................................................. 45
+II. Human Resource Directorate ............................................................................................................ 46
+III. Basic and Secondary Education Directorate ................................................................................ 46
+IV. Science, Information and Communication Technology Directorate .................................................. 46
+V. Standards and Quality Assurance Directorate .................................................................................. 46
+VI. Tertiary / Higher Education and Research Directorate .................................................................... 46
+VII. Regional Education Directorates ................................................................................................. 47
+14.3 SUPPORT STRUCTURES ....................................................................................................................... 47
+I. National Training Authority .............................................................................................................. 47
+II. Gambia College Council ................................................................................................................... 47
+III. University Governing Council ...................................................................................................... 47
+IV. The Higher Education Observatory ................................................................................................... 48
+V. Advisory Council on Education ......................................................................................................... 48
+VI. Programme and Donor Co-ordination Unit (PDCU) ....................................................................... 48
+14.4 DECENTRALISATION AND GOVERNANCE ............................................................................................ 48
+15 TEACHER WELFARE AND DEVELOPMENT .................................................................................. 49
+15.1 TEACHER WELFARE ............................................................................................................................ 49
+16 FINANCING OF EDUCATION .............................................................................................................. 50
+16.1. RESOURCE ALLOCATION AND UTILISATION ....................................................................................... 50
+16.2. RESOURCE REQUIREMENT AND MOBILISATION .................................................................................. 51
 
 3
 
@@ -281,7 +380,8 @@ Literacy | Ability to read and write in any language
 Madrassa | Derived from the Arabic word 'madras' - a school where the medium of instruction is Arabic with emphasis on Islamic education
 Net Enrolment Rate | Total enrolment of relevant school age as a proportion of the relevant school age population
 Numeracy | Ability to recognise numerals, interpret and use numbers
-Recurrent Spending Quintile | Total recurrent spending in a given period (one year). One-fifth of a population
+Recurrent Spending | Total recurrent spending in a given period (one year).
+Quintile | One-fifth of a population
 
 7
 
@@ -311,9 +411,9 @@ AN EDUCATION POLICY FOR THE GAMBIA: 2004 - 2015
 
 - Expanded Vision of Basic Education
 
-- Lower and Upper Basic
-
 - Early Childhood Development
+
+- Lower and Upper Basic
 
 - Adult and Non-Formal Education
 
@@ -469,7 +569,7 @@ target of 5%). During the period 1996/97 to 2000/03, however, enrolment grew at 
 
 - 3.1.2 These  guiding  principles  are  in  conformity  with  the  national  development  agenda  of The Gambia as articulated in Vision 2020 statement:
 
-'to  transform  The  Gambia  into  a  financial  centre,  a  tourist  paradise,  a trading, export-oriented, agricultural and manufacturing nation, thriving on free  market  policies  and  a  vibrant  private  sector,  sustained  by  a  welleducated, trained, skilled, healthy, self-reliant and enterprising population, and  guaranteeing  a  well-balanced  eco-system  and  a  decent  standard  of living for one and all, under a system of government based on the consent of the citizenry.'
+'to  transform  The  Gambia  into  a  financial  centre,  a  tourist  paradise,  a trading, export-oriented, agricultural and manufacturing nation, thriving on free  market  policies  and  a  vibrant  private  sector,  sustained  by  a  well-educated, trained, skilled, healthy, self-reliant and enterprising population, and  guaranteeing  a  well-balanced  eco-system  and  a  decent  standard  of living for one and all, under a system of government based on the consent of the citizenry.'
 
 - 3.1.3 In order to translate the above vision into reality, the sector will be guided by a Mission Statement embodied in the following statement:  'A Provision of Responsive, Relevant and Quality Education for All Gambians for Poverty Reduction'
 
@@ -535,7 +635,7 @@ Equitable  access  to  basic,  senior  secondary,  tertiary  and  higher  educat
 
 The learning outcomes at all levels will be improved through:
 
-- Provision of an adequate supply of trained teachers through cost effective preService teacher education and in-service training programmes
+- Provision of an adequate supply of trained teachers through cost effective pre-Service teacher education and in-service training programmes
 
 15
 
@@ -551,7 +651,7 @@ The learning outcomes at all levels will be improved through:
 
 - Instructional materials - Children will have access to a set of textbooks and the provision of instructional materials will be enhanced
 
-- Assessments and examinations -classroom assessment practices will be improved and continuous assessment strengthened to monitor student performance and learning achievements
+- Assessments and examinations – classroom assessment practices will be improved and continuous assessment strengthened to monitor student performance and learning achievements
 
 - ECD - the growth and development of children between the ages of three and six through an integrated approach will be promoted
 
@@ -657,7 +757,7 @@ With  these  priority  areas  and  key  strategies  in  mind,  the  policy  seek
 
 - 5.2.3. In the main, however, the DoSE will continue to co-ordinate, support and facilitate the early years' education, care and development of children through monitoring, assessing and developing guidelines for the establishment and management of nursery schools.
 
-- 5.2.4. The  DoSE  has  developed  strong  linkages  with  other  government  departments,  nongovernmental organisations (NGOs) and committees to promote an integrated approach to ECD. Through these linkages, the DoSE will participate in the implementation of the National Policy on Integrated Early Childhood Development and strengthen its ties and collaboration  with  parties  interested  in  this  area.  Through  the  multi-sectoral  working group and the committees set up for the promotion of ECD, partnerships and alliances with civil society and international agencies will be promoted and sustained.
+- 5.2.4. The  DoSE  has  developed  strong  linkages  with  other  government  departments,  non-governmental organisations (NGOs) and committees to promote an integrated approach to ECD. Through these linkages, the DoSE will participate in the implementation of the National Policy on Integrated Early Childhood Development and strengthen its ties and collaboration  with  parties  interested  in  this  area.  Through  the  multi-sectoral  working group and the committees set up for the promotion of ECD, partnerships and alliances with civil society and international agencies will be promoted and sustained.
 
 - 5.2.5. Communities will be mobilised, sensitised and motivated to initiate and maintain ECD centres.  They will be  expected to complement government's efforts by providing the necessary inputs and participate in programme design, implementation, monitoring and evaluation.  The  DoSE  will  promote  parenting  education  and  develop  indigenous knowledge for better results educationally, socially and economically.
 
@@ -771,6 +871,8 @@ education.  This  will  enable  adult  and  non-formal  education  participants 
 
 [[START OF PAGE 24]]
 
+## 6 SECONDARY EDUCATION
+
 ### 6.1 Access
 
 - 6.1.1. In  view  of  the  envisaged  expansion  at  the  basic  education  level,  it  is  imperative  to further increase the number of senior secondary school (SSS) places for the three-year programme from grade  10 - 12. Therefore, to  complement efforts  aimed at  attaining quality education for all at the basic level, SSS  education will be  expanded correspondingly. In this direction, a minimum transition rate of 50% by 2015 will be targeted.  In  principle,  transition  of  the  basic  education  graduates  to  SSS  will  be determined  by  satisfactory  performance  at  the  Gambia  Basic  Education  Certificate Examination (GABECE), and measures will be taken to curb dropout rates and grade repetition whilst increasing completion rates.
@@ -806,8 +908,6 @@ education.  This  will  enable  adult  and  non-formal  education  participants 
 ### 6.3 Examinations
 
 - 6.3.1. Entry  to  SSS  will  depend  on  performance  in  the  GABECE.  Thereafter,  following  a three-year  course,  students  in  grade  12  will  be  required  to  sit  for  the  West  African Senior Secondary Certificate Examination (WASSCE), which the WAEC will continue
-
-## 6 SECONDARY EDUCATION
 
 24
 
@@ -891,9 +991,9 @@ documented and monitored for effectiveness and efficiency. A gender equity commi
 
 - 8.1.3. To  promote  agricultural  livelihood  skills,  and  desired  attitude  to  farming  and  the environment,  agriculture  will  be  given  more  prominence  in  both  the  conventional schools and Madrassas with emphasis on practical work. To this end,  efforts will be strengthened  to  improve  the  productivity  of  diversified  agricultural  programmes  to supplement  and  complement  the  World  Food  Programme  (WFP)  supported  School Feeding  Programme  (SFP)  in  the  short  and  medium  terms,  paving  the  way  for sustainability. The special community agricultural schools will be expanded while the schools  farms  and  gardens  (SFG)  in  the  regular  schools  will  be  enhanced  for  use  as learning resource.
 
-- 8.1.4. Agriculturally  biased  schools  at  the  level  of  senior  secondary  and  agro-vocational institutions  in  deprived  communities  will  be  gradually  established.  A  special  agrovocational  syllabus  will  be  developed  for  these  schools  and  institutions  and  50%  of assessment derived from practical work will also be introduced.
+- 8.1.4. Agriculturally  biased  schools  at  the  level  of  senior  secondary  and  agro-vocational institutions  in  deprived  communities  will  be  gradually  established.  A  special  agro-vocational  syllabus  will  be  developed  for  these  schools  and  institutions  and  50%  of assessment derived from practical work will also be introduced.
 
-- 8.1.5. In  collaboration  with  School  Agriculture  and  Food  Management  Unit  (SAFMU), Curriculum  Research,  Evaluation  and  Development  Unit  (CREDU)  will  develop  a relevant  agricultural  curriculum  and  appropriate  learning  materials  for  basic  schools and Madrassas with a view to improving the quality of agricultural education for selfreliance.  The  curriculum  will  be  continually  reviewed  and  improved  to  incorporate latest scientific and cross-curricula competencies as they emerge.
+- 8.1.5. In  collaboration  with  School  Agriculture  and  Food  Management  Unit  (SAFMU), Curriculum  Research,  Evaluation  and  Development  Unit  (CREDU)  will  develop  a relevant  agricultural  curriculum  and  appropriate  learning  materials  for  basic  schools and Madrassas with a view to improving the quality of agricultural education for self-reliance.  The  curriculum  will  be  continually  reviewed  and  improved  to  incorporate latest scientific and cross-curricula competencies as they emerge.
 
 - 8.1.6. WAEC,  in collaboration with SAFMU  and  Standards and Quality Assurance Directorate  (SQAD),  will  also  develop  a  proactive,  practically  biased  assessment system using the SFGs to assess students' acquired  skills and knowledge in agriculture.
 
@@ -902,6 +1002,8 @@ documented and monitored for effectiveness and efficiency. A gender equity commi
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+## 9 LIFE SKILLS EDUCATION
 
 ### 9.1 Life Skills
 
@@ -925,9 +1027,7 @@ documented and monitored for effectiveness and efficiency. A gender equity commi
 
 ### 9.3 Gender Responsiveness and Perspectives
 
-- 9.3.1. Apart from poverty, which mitigates the participation of girls and women in education, other  factors  that  also  relegate  women  in  general  to  a  disadvantaged  and  disempowered position include the  value, attitudes and  practices  that  consider  girls  and women as objects of sex, thus leading to early and forced marriage, sexual harassment and abuse.  Women are also largely prevented from participating in decision-making, leading to a socialisation process that produces girls who adequately lack assertiveness, self-confidence  or  self-esteem.  All  these  factors  in  turn  lead  to  gender  inequity  and inequality and seriously affect girls' access, retention and performance in education at all  levels.  To  this  end,  the  policy  on  sexual  harassment  will  be  institutionalised  and implemented.  Schools  will  be  encouraged  and  supported  to  establish  disciplinary committees, which will include teachers, parents and students. Gender responsiveness will usher in gender perspectives in the decision-making processes and leadership. This policy  will  promote  equity  in  all  facets  of  management  at  the  school  level;  teacher recruitment; promotion; and student enrolment and completion across all levels of the education system.
-
-## 9 LIFE SKILLS EDUCATION
+- 9.3.1. Apart from poverty, which mitigates the participation of girls and women in education, other  factors  that  also  relegate  women  in  general  to  a  disadvantaged  and  dis-empowered position include the  value, attitudes and  practices  that  consider  girls  and women as objects of sex, thus leading to early and forced marriage, sexual harassment and abuse.  Women are also largely prevented from participating in decision-making, leading to a socialisation process that produces girls who adequately lack assertiveness, self-confidence  or  self-esteem.  All  these  factors  in  turn  lead  to  gender  inequity  and inequality and seriously affect girls' access, retention and performance in education at all  levels.  To  this  end,  the  policy  on  sexual  harassment  will  be  institutionalised  and implemented.  Schools  will  be  encouraged  and  supported  to  establish  disciplinary committees, which will include teachers, parents and students. Gender responsiveness will usher in gender perspectives in the decision-making processes and leadership. This policy  will  promote  equity  in  all  facets  of  management  at  the  school  level;  teacher recruitment; promotion; and student enrolment and completion across all levels of the education system.
 
 29
 
@@ -941,7 +1041,7 @@ documented and monitored for effectiveness and efficiency. A gender equity commi
 
 - 9.4.2. To meet the objectives and focus for  a peace education programme, learners will be exposed to skills in conflict resolution and management  (grievance handling, negotiations, arbitration).  Schools will be encouraged to establish clubs and societies through  which  such  skills  can  be  practised  and  promoted  or  integrate  the  program within the existing ones.
 
-- 9.4.3. LSE will be developed and integrated into the curriculum using Population and Family Life  Education  (POP/FLE)  as  an  entry  point.  In  order  to  meet  the  needs  of  both  inschool and out-of-school youth, the DoSE will collaborate with relevant stakeholders through a multi-sectoral working group.
+- 9.4.3. LSE will be developed and integrated into the curriculum using Population and Family Life  Education  (POP/FLE)  as  an  entry  point.  In  order  to  meet  the  needs  of  both  in-school and out-of-school youth, the DoSE will collaborate with relevant stakeholders through a multi-sectoral working group.
 
 ### 9.5 Population, Family Life Education and the Environment
 
@@ -1059,7 +1159,7 @@ documented and monitored for effectiveness and efficiency. A gender equity commi
 
 - 10.2.8. In collaboration with other stakeholders, such as WAEC and USPC, a national ICT policy for basic and SSS will be developed. ICT will be offered at the GABECE and WASSCE and will include programming, database design, website and administration, maintenance and repair and network and systems administration.
 
-- 10.2.9. Access to  ICT  resources  and  facilities  in  schools  will  be  made  available  to  out-ofschool youth and other members of the community. Communities in which schools are located  will  be  encouraged  to  use  the  ICT  resources  and  facilities  in  the  schools  in order to communicate and also improve their numeracy and literacy skills. Cyber café and computer resource centres will be established in every region to enhance the ODL programmes of both the University and the Gambia College.
+- 10.2.9. Access to  ICT  resources  and  facilities  in  schools  will  be  made  available  to  out-of-school youth and other members of the community. Communities in which schools are located  will  be  encouraged  to  use  the  ICT  resources  and  facilities  in  the  schools  in order to communicate and also improve their numeracy and literacy skills. Cyber café and computer resource centres will be established in every region to enhance the ODL programmes of both the University and the Gambia College.
 
 33
 
@@ -1073,7 +1173,7 @@ documented and monitored for effectiveness and efficiency. A gender equity commi
 
 - 10.3.2. These programmes will be based on the school curriculum, not only to complement instruction  provided  by  teachers  but  also,  improve  on  teacher  effectiveness.  The broadcasts  will  also  be  used,  in  tandem,  for  advocacy  and  sensitisation  of  the  wider community on educational and relevant topical issues. In this endeavour, the DoSE will collaborate with the Gambia Radio and Television Services (GRTS), NGOs, international agencies and other partners to produce and broadcast documentaries and other education-related programmes for children and adults.
 
-- 10.3.3. The services will be expanded to incorporate broadcasts for adult learners and out-ofschool youth. Thus, EBS will gradually cover all components of the sector programmes for effective implementation of all activities at the basic and post-basic levels. Closer co-operation and collaboration will be established to better produce the forum devoted to educational issues on GRTS: Education Forum.
+- 10.3.3. The services will be expanded to incorporate broadcasts for adult learners and out-of-school youth. Thus, EBS will gradually cover all components of the sector programmes for effective implementation of all activities at the basic and post-basic levels. Closer co-operation and collaboration will be established to better produce the forum devoted to educational issues on GRTS: Education Forum.
 
 34
 
@@ -1097,7 +1197,7 @@ documented and monitored for effectiveness and efficiency. A gender equity commi
 
 - 11.1.6. During the first three years of basic education (grades 1-3), the medium of instruction will  be  in  the  predominant  Gambian  language  of  the  area  in  which  the  child  lives. English will be taught as a subject from grade one and will be used as a medium of instruction from grade 4. Gambian languages will be taught as subjects from grade 4.
 
-- 11.1.7. The  upper  basic  curriculum  will  continue  to  provide  a  variety  of  basic  skills, knowledge and capabilities in science, technology, agriculture and general subjects. It will  also  provide  opportunities  to  acquire  pre-technical  knowledge,  pre-vocational, agriculture and basic scientific knowledge and skills to enable pupils to become selfreliant. The use of ICT as a teaching and learning tool, which commenced in the SSS, will be expanded progressively across all levels before the end of the policy period. The pursuit of excellence in the teaching and learning process of the education system for the transformation of the Gambian economy will be emphasised.
+- 11.1.7. The  upper  basic  curriculum  will  continue  to  provide  a  variety  of  basic  skills, knowledge and capabilities in science, technology, agriculture and general subjects. It will  also  provide  opportunities  to  acquire  pre-technical  knowledge,  pre-vocational, agriculture and basic scientific knowledge and skills to enable pupils to become self-reliant. The use of ICT as a teaching and learning tool, which commenced in the SSS, will be expanded progressively across all levels before the end of the policy period. The pursuit of excellence in the teaching and learning process of the education system for the transformation of the Gambian economy will be emphasised.
 
 - 11.1.8. Regarding  special needs education, the main  policy objective will  emphasise inclusiveness.    Support  and  equipment  will  be  provided  to  enable  pupils  with  mild disabilities to participate effectively in mainstream education. The curriculum will be the  same  as  the  mainstream  schools  but  spiral  in  nature.  Vocational  and  technical subjects will be given priority.
 
@@ -1179,7 +1279,7 @@ level in the core subject areas. This will be used to inform curriculum revision
 
 - 11.7.1. Quality  educational  processes  do  not  only  require  well-trained  teachers  able  to  use learner-centred  teaching  and  learning  methods  and  life  skills  approaches,  but  equally strategies that will enhance the attainment of sufficient hours of instructions and regular attendance of students. It is for this reason that the DoSE is committed to achieving a minimum of 880 quality hours  of  student-teacher  contact  time  and  at  the  same  time creating  the  enabling  environment  for  the  enhancement  of  regular  attendance  of students.
 
-- 11.7.2. In facilitating such attainment, the DoSE, in consultation with the regional education directorates, will introduce a flexible school calendar to be effectively and efficiently implemented  at  the  decentralised  level.  The  regional  education  directorates  will  be empowered to manage and implement their own school calendars but guided by wellthought out strategies for the attainment of regular attendance of students in school and the target number of instructional hours.
+- 11.7.2. In facilitating such attainment, the DoSE, in consultation with the regional education directorates, will introduce a flexible school calendar to be effectively and efficiently implemented  at  the  decentralised  level.  The  regional  education  directorates  will  be empowered to manage and implement their own school calendars but guided by well-thought out strategies for the attainment of regular attendance of students in school and the target number of instructional hours.
 
 38
 
@@ -1193,7 +1293,7 @@ level in the core subject areas. This will be used to inform curriculum revision
 
 - 12.1.1. Beyond basic education provision, The Gambia has well articulated programmes for continuing  education  on  the  basis  of  merit  for  students  with  potential  to  pursue university  level  education  at  the  UTG  or  other  middle  level  courses  at  some  of  the tertiary level institutions or vocational and training centres.
 
-- 12.1.2. The Government has set up a National Training Authority (NTA) through a publicprivate partnership in response to the need for a highly trained professional workforce. The establishment of the NTA offers the opportunity and the platform to launch a major initiative  in  the  expansion  of  the  TVET  provision  in  The  Gambia.  Through  this instrumentality,  efforts  will  be  made  to  design  and  develop  a  variety  of  national diploma  and  higher  national  diploma  programmes  to  meet  the  existing  shortages  of trained manpower in the country. The NTA will be responsible for the validation of the qualifications obtained on completion of these programmes.
+- 12.1.2. The Government has set up a National Training Authority (NTA) through a public-private partnership in response to the need for a highly trained professional workforce. The establishment of the NTA offers the opportunity and the platform to launch a major initiative  in  the  expansion  of  the  TVET  provision  in  The  Gambia.  Through  this instrumentality,  efforts  will  be  made  to  design  and  develop  a  variety  of  national diploma  and  higher  national  diploma  programmes  to  meet  the  existing  shortages  of trained manpower in the country. The NTA will be responsible for the validation of the qualifications obtained on completion of these programmes.
 
 - 12.1.3. This is based on the belief that there is no terminal point in education, hence life long learning and training is crucial to the development of self-reliant individuals, communities and a free market economy.
 
@@ -1285,7 +1385,7 @@ operation from business, industry, the professions and other institutions will b
 
 - 13.4.1. The  schooling  system  in  The  Gambia  is  projected  to  grow  significantly  during  the period  covered  by  this  policy.  It  would  follow  that  a  corresponding  growth  in  the availability of qualified and trained teachers will be ensured to meet the objectives of this policy.
 
-- 13.4.2. In  addition  to  meeting  the demands of the expansion for new teachers through preservice  training  programmes,  the  continuing  need  for  upgrading  the  knowledge  and skills of serving teachers will be equally essential. Through sustained efforts during the past few years, it has been possible to address the critical issue of shortage of trained and qualified teachers in The Gambia. Nonetheless, the need for continuing education for serving teachers will receive attention.
+- 13.4.2. In  addition  to  meeting  the demands of the expansion for new teachers through pre-service  training  programmes,  the  continuing  need  for  upgrading  the  knowledge  and skills of serving teachers will be equally essential. Through sustained efforts during the past few years, it has been possible to address the critical issue of shortage of trained and qualified teachers in The Gambia. Nonetheless, the need for continuing education for serving teachers will receive attention.
 
 - 13.4.3. The programmes of training of teachers for the basic level will continue to use a mix of  one  year  face-to-face  (college-based  training),  two  years  of  apprenticeship  with  a combined ODL following which, qualifying examinations will be written for certificate requirement.
 
@@ -1343,29 +1443,29 @@ operation from business, industry, the professions and other institutions will b
 
 - Institutional central policy for research:
 
-- xrhombus The role of research as a component of the activities of the institution
+- The role of research as a component of the activities of the institution
 
-- xrhombus The  type  of  research  activities  that  individual  institutions  may  wish  to promote
+- The  type  of  research  activities  that  individual  institutions  may  wish  to promote
 
 - Resources for research:
 
-- xrhombus Provision of plans for human resources development for research
+- Provision of plans for human resources development for research
 
-- xrhombus Provision of resources for promoting the development  of existing research units
+- Provision of resources for promoting the development  of existing research units
 
 - Research quality:
 
-- xrhombus Review of policies and procedures for ensuring research quality
+- Review of policies and procedures for ensuring research quality
 
 - Strategic policy for institutional research activities:
 
-- xrhombus Research committee structures, membership and responsibilities
+- Research committee structures, membership and responsibilities
 
-- xrhombus Research plans
+- Research plans
 
-- xrhombus Procedures for monitoring research performance
+- Procedures for monitoring research performance
 
-- xrhombus Project quality.
+- Project quality.
 
 44
 
@@ -1485,7 +1585,7 @@ This council will be renamed Quality Assurance Council on Education with the tas
 
 #### VI. Programme and Donor Co-ordination Unit (PDCU)
 
-The  Programme  and  Donor  Co-ordination  Unit  will  continue  its  role of  donor mobilisation and co-ordination. The PDCU will continue to manage and co-ordinate the classroom construction programme through a partnership arrangement and undertake the overall contracts management for the procurement of goods, works and services, arrange for  the  disbursement  and  replenishment  of  funds  for  project-supported  activities,  coordination  of  programme  reviews  and  supervision,  facilitate  training  activities  and technical assistance requirements under the external support programme. It will support the DoSE in the procurement of all goods and services but will be gradually phased out and integrated into a directorate within the DoSE with the very same functions by the end of the current master plan 2007. In recognition of the contribution of The Gambia's development partners to the education enterprise, effective co-operation will continue to be  promoted  with  the  donor  community  in  this  regard.  To  this  end,  efforts  will  be intensified to mobilise resources for the sector through bi-lateral and multi-lateral grant financing.
+The  Programme  and  Donor  Co-ordination  Unit  will  continue  its  role of  donor mobilisation and co-ordination. The PDCU will continue to manage and co-ordinate the classroom construction programme through a partnership arrangement and undertake the overall contracts management for the procurement of goods, works and services, arrange for  the  disbursement  and  replenishment  of  funds  for  project-supported  activities,  co-ordination  of  programme  reviews  and  supervision,  facilitate  training  activities  and technical assistance requirements under the external support programme. It will support the DoSE in the procurement of all goods and services but will be gradually phased out and integrated into a directorate within the DoSE with the very same functions by the end of the current master plan 2007. In recognition of the contribution of The Gambia's development partners to the education enterprise, effective co-operation will continue to be  promoted  with  the  donor  community  in  this  regard.  To  this  end,  efforts  will  be intensified to mobilise resources for the sector through bi-lateral and multi-lateral grant financing.
 
 ### 14.4 Decentralisation and Governance
 
@@ -1609,7 +1709,7 @@ The  Programme  and  Donor  Co-ordination  Unit  will  continue  its  role of  d
 
 - insufficient resource allocation
 
-- skewed distribution of resources - inequitable access to educational services
+- skewed distribution of resources – inequitable access to educational services
 
 - population  growth  and  migration,  creating  excess  demand  and  demands  from disadvantaged groups and people
 
@@ -1625,7 +1725,7 @@ The  Programme  and  Donor  Co-ordination  Unit  will  continue  its  role of  d
 
 secondary education and other priority areas.
 
-- 16.2.4. In the face of increasing challenges that affect government's  ability to  meet differentiated  educational  requirements,  the  DoSE  will  mobilise  resources  from  the following sources for the financing of the competing educational demands:
+- 16.2.4. In the face of increasing challenges that affect government’s  ability to  meet differentiated  educational  requirements,  the  DoSE  will  mobilise  resources  from  the following sources for the financing of the competing educational demands:
 
 - Government  budgetary  allocation  to  be  increased  to  meet  the  new  targets  of 100% transition from grade 6 to 7
 
