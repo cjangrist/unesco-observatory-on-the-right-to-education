@@ -171,13 +171,15 @@ Everyone shall be guaranteed by an Act the right to basic subsistence in the eve
 
 The public authorities shall guarantee for everyone, as provided in more detail by an Act, adequate social, health and medical services and promote the health of the population. Moreover, the public authorities shall support families and others responsible for providing for children so that they have the ability to ensure the wellbeing and personal development of the children.
 
-The public authorities shall promote the right of everyone to housing and the opportunity to arrange their own housing.
+The public authorities shall promote the right of everyone to housing and the opportunity to arrange their own
 
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+housing.
 
 ### Section 20 - Responsibility for the environment
 
@@ -257,13 +259,15 @@ A Representative is obliged to follow justice and truth in his or her office. He
 
 A Representative shall not be prevented from carrying out his or her duties as a Representative.
 
-A Representative shall not be charged in a court of law nor be deprived of liberty owing to opinions expressed by the Representative in the Parliament or owing to conduct in the consideration of a matter, unless the Parliament has consented to the same by a decision supported by at least five sixths of the votes cast.
+A Representative shall not be charged in a court of law nor be deprived of liberty owing to opinions expressed by the Representative in the Parliament or owing to conduct in the consideration of a matter, unless the Parliament has
 
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+consented to the same by a decision supported by at least five sixths of the votes cast.
 
 If a Representative has been arrested or detained, the Speaker of the Parliament shall be immediately notified of this. A Representative shall not be arrested or detained before the commencement of a trial without the consent of the Parliament, unless he or she is for substantial reasons suspected of having committed a crime for which the minimum punishment is imprisonment for at least six months.
 
@@ -295,13 +299,15 @@ The Speaker, the Deputy Speakers and the chairpersons of parliamentary Committee
 
 ### Section 35 - Committees of the Parliament
 
-For each electoral term, the Parliament appoints the Grand Committee, the Constitutional Law Committee, the Foreign Affairs Committee, the Finance Committee, the Audit Committee and the other standing Committees provided in the Parliament's Rules of Procedure. In addition, the Parliament appoints Committees ad hoc for the preparation of, or inquiry into, a given matter. (596/2007, entry into force 1.6.2007)
+For each electoral term, the Parliament appoints the Grand Committee, the Constitutional Law Committee, the Foreign
 
 7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+Affairs Committee, the Finance Committee, the Audit Committee and the other standing Committees provided in the Parliament’s Rules of Procedure. In addition, the Parliament appoints Committees ad hoc for the preparation of, or inquiry into, a given matter. (596/2007, entry into force 1.6.2007)
 
 The Grand Committee shall have twenty-five members. The Constitutional Law Committee, the Foreign Affairs Committee and the Finance Committee shall have at least seventeen members each. The other standing Committees shall have at least eleven members each. In addition, each Committee shall have the necessary number of alternate members.
 
@@ -381,13 +387,15 @@ At the conclusion of the consideration of a statement, a vote of confidence in t
 
 Each Representative has the right to address questions to a Minister on matters within the Minister's competence. Provisions on the questions and the answers are laid down in the Parliament's Rules of Procedure.
 
-The Prime Minister or a Minister designated by the Prime Minister may present an announcement to the Parliament on any topical issue.
+The Prime Minister or a Minister designated by the Prime Minister may present an announcement to the Parliament
 
 9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+on any topical issue.
 
 A debate on any topical issue may be held in a plenary session, as provided in more detail in the Parliament's Rules of Procedure.
 
@@ -445,7 +453,7 @@ More detailed provisions on the procedures to be followed in the Parliament, as 
 
 The Parliament may issue instructions for the detailed arrangement of internal administration, for elections to be carried out by the Parliament and for other parliamentary work. In addition, the Parliament may issue rules of procedure for the organs appointed by it.
 
-### Section 53 - Referendum and citizens' initiative ( new title , 1112/2011, entry into force 1.3.2012)
+### Section 53 – Referendum and citizens’ initiative (new title, 1112/2011, entry into force 1.3.2012)
 
 The decision to organise a consultative referendum is made by an Act, which shall contain provisions on the time of the referendum and on the choices to be presented to the voters.
 
@@ -461,13 +469,15 @@ The President of the Republic is elected by a direct vote for a term of six year
 
 The candidate who receives more than half of the votes cast in the election shall be elected President. If none of the candidates has received a majority of the votes cast, a new election shall be held between the two candidates who have received most votes. In the new election, the candidate receiving the most votes is elected President. If only one presidential candidate has been nominated, he or she is appointed President without an election.
 
-The right to nominate a candidate in the election for President is held by any registered political party from whose candidate list at least one Representative was elected to the Parliament in the most recent parliamentary elections, as well as by any group of twenty thousand persons who have the right to vote. The time of the election and the procedure in the election of a President are laid down by an Act.
+The right to nominate a candidate in the election for President is held by any registered political party from whose candidate list at least one Representative was elected to the Parliament in the most recent parliamentary elections, as well as by any group of twenty thousand persons who have the right to vote. The time of the election and the
 
 11
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+procedure in the election of a President are laid down by an Act.
 
 ### Section 55 - The presidential term
 
@@ -499,7 +509,7 @@ Notwithstanding the provision in paragraph (1), the President makes decisions on
 
 (2) The issuance of an order concerning extraordinary parliamentary elections;
 
-- Presidential pardons and other matters, as specifically laid down by Acts, concerning private individuals or matters not requiring consideration in a plenary meeting of the Government; and
+(3) Presidential pardons and other matters, as specifically laid down by Acts, concerning private individuals or matters not requiring consideration in a plenary meeting of the Government; and
 
 (4) Matters referred to in the Act on the Autonomy of the Åland Islands, other than those relating to the finances of the Åland Islands.
 
@@ -549,13 +559,15 @@ A Minister shall, without delay after being appointed, present to the Parliament
 
 The President of the Republic grants, upon request, the resignation of the Government or a Minister. The President may also grant the resignation of a Minister on the proposal of the Prime Minister.
 
-The President shall in any event dismiss the Government or a Minister, if either no longer enjoys the confidence of Parliament, even if no request is made.
+The President shall in any event dismiss the Government or a Minister, if either no longer enjoys the confidence of
 
 13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+Parliament, even if no request is made.
 
 If a Minister is elected President of the Republic or the Speaker of Parliament, he or she shall be considered to have resigned the office of Minister as from the day of election.
 
@@ -591,13 +603,15 @@ Provisions on the maximum number of Ministries and on the general principles for
 
 ### Section 69 - The Chancellor of Justice of the Government
 
-Attached to the Government, there is a Chancellor of Justice and a Deputy Chancellor of Justice, who are appointed by the President of the Republic, and who shall have outstanding knowledge of law. In addition, the President appoints a substitute for the Deputy Chancellor of Justice for a term of office not exceeding five years. When the Deputy Chancellor of Justice is prevented from performing his or her duties, the substitute shall take responsibility for them.
+Attached to the Government, there is a Chancellor of Justice and a Deputy Chancellor of Justice, who are appointed by the President of the Republic, and who shall have outstanding knowledge of law. In addition, the President appoints a substitute for the Deputy Chancellor of Justice for a term of office not exceeding five years. When the Deputy Chancellor of Justice is prevented from performing his or her duties, the substitute shall take responsibility
 
 14
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+for them.
 
 The provisions on the Chancellor of Justice apply, in so far as appropriate, to the Deputy Chancellor of Justice and the substitute.
 
@@ -801,13 +815,15 @@ The provisions of treaties and other international obligations, in so far as the
 
 A Government bill for the bringing into force of an international obligation is considered in accordance with the ordinary legislative procedure pertaining to an Act. However, if the proposal concerns the Constitution or a change to the national territory, or such transfer of authority to the European Union, an international organisation or an international body that is of significance with regard to Finland's sovereignty, the Parliament shall adopt it, without leaving it in abeyance, by a decision supported by at least two thirds of the votes cast. (1112/2011, entry into force 1.3.2012)
 
-An Act may state that for the bringing into force of an international obligation its entry into force is provided by a Decree. General provisions on the publication of treaties and other international obligations are laid down by an Act.
+An Act may state that for the bringing into force of an international obligation its entry into force is provided by a
 
 19
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+Decree. General provisions on the publication of treaties and other international obligations are laid down by an Act.
 
 ### Section 96 - Participation of the Parliament in the national preparation of European Union matters
 
@@ -957,7 +973,7 @@ An inquiry into the lawfulness of the official acts of a Minister may be initiat
 
 (1) A notification submitted to the Constitutional Law Committee by the Chancellor of Justice or the Ombudsman;
 
-- A petition signed by at least ten Representatives; or
+(2) A petition signed by at least ten Representatives; or
 
 (3) A request for an inquiry addressed to the Constitutional Law Committee by another Committee of the Parliament.
 
@@ -1019,13 +1035,15 @@ Provisions on the principles governing the other educational services arranged b
 
 ### Section 124 - Delegation of administrative tasks to others than the authorities
 
-A public administrative task may be delegated to others than public authorities only by an Act or by virtue of an Act, if this is necessary for the appropriate performance of the task and if basic rights and liberties, legal remedies and other requirements of good governance are not endangered. However, a task involving significant exercise of public powers can only be delegated to public authorities.
+A public administrative task may be delegated to others than public authorities only by an Act or by virtue of an Act,
 
 24
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+if this is necessary for the appropriate performance of the task and if basic rights and liberties, legal remedies and other requirements of good governance are not endangered. However, a task involving significant exercise of public powers can only be delegated to public authorities.
 
 ### Section 125 - General qualifications for public office and other grounds for appointment
 
@@ -1065,7 +1083,7 @@ Detailed provisions necessary for the implementation of the Constitution are lai
 
 ### Section 131 - Repeal of Constitutional Acts
 
-> This Constitution repeals the following constitutional Acts, as amended:
+This Constitution repeals the following constitutional Acts, as amended:
 
 (1) The Constitution Act of Finland, of 17 July 1919;
 
@@ -1073,9 +1091,7 @@ Detailed provisions necessary for the implementation of the Constitution are lai
 
 (3) The Act on the High Court of Impeachment, of 25 November 1922 (273/1922); and
 
-(4) The Act on the Right of Parliament to Inspect the Lawfulness of the Official Acts of the Members of the Council
-
-> of State, the Chancellor of Justice and the Parliamentary Ombudsman, of 25 November 1922 (274/1922).
+(4) The Act on the Right of Parliament to Inspect the Lawfulness of the Official Acts of the Members of the Council of State, the Chancellor of Justice and the Parliamentary Ombudsman, of 25 November 1922 (274/1922).
 
 25
 
