@@ -364,6 +364,12 @@ Movement and residence of foreigner citizens shall be regulated by the law.
 
 [[START OF PAGE 10]]
 
+#### Right to privacy Article 40
+
+Every person shall have the right to respect for private and family life.
+
+#### Inviolability of home Article 41
+
 Home shall be inviolable.
 
 No one shall enter  the  dwelling  place  or  other  premises  against  the  will  of  the possessor thereof and search them without a court warrant.
@@ -391,12 +397,6 @@ Everyone  shall  have  the  right  to  be  informed  about  the  personal  data 
 A foreign national reasonably fearing from persecution on the grounds of his/her race, language, religion or association with a nation or a group or due to own political beliefs may request asylum in Montenegro.
 
 A foreign  national  shall  not  be  expelled  from  Montenegro  to  where  due  to  his race,  religion,  language  or  association  with  a  nation  he/she  is  threatened  with  death sentence, torture, inhuman  degradation,  persecution  or  serious violation of rights guaranteed by this Constitution.
-
-#### Right to privacy Article 40
-
-Every person shall have the right to respect for private and family life.
-
-#### Inviolability of home Article 41
 
 10
 
@@ -726,6 +726,14 @@ The protector of human rights and liberties shall be appointed for the period of
 
 [[START OF PAGE 19]]
 
+## PART THREE
+
+## ORGANIZATION OF POWERS
+
+### 1. PARLIAMENT OF MONTENEGRO
+
+#### Responsibility Article 82
+
 The Parliament shall:
 
 - Adopt the Constitution;
@@ -773,14 +781,6 @@ The Parliament shall:
 The Parliament shall consist of the Members of the Parliament elected directly on the basis of the general and equal electoral right and by secret ballot.
 
 The Parliament shall have 81 Members.
-
-## PART THREE
-
-## ORGANIZATION OF POWERS
-
-### 1. PARLIAMENT OF MONTENEGRO
-
-#### Responsibility Article 82
 
 19
 
@@ -1086,7 +1086,7 @@ The  duties  of  the  civil  service  shall  be  discharged  by  the  ministries
 
 #### Delegation and entrusting of duties Article 112
 
-Individual  duties of the civil service  may  be  delegated  to  the  local  selfgovernment or some other legal entity by the law.
+Individual  duties of the civil service  may  be  delegated  to  the  local  self-government or some other legal entity by the law.
 
 Individual duties of the civil service may be entrusted to the local self-government or some other legal entity by the regulation of the Government.
 
