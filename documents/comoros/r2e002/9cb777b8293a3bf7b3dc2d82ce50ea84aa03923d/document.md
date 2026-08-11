@@ -1,357 +1,257 @@
 [[START OF PAGE 1]]
 
-Président  de I'Union
-
 UNION DES COMORES
 
-Unité - Sol idarité - Développement
+Unité - Solidarité - Développement
 
-Morbhi,,le  1F  jÀru  lfll5 ,
+Président de l’Union
 
-# DECRET N' ls.ICIO
+Moroni, le 15 JAN 2015
 
-;;:'
+# DECRET N° 15-007 /PR
 
-Portant promulgation  de la loi No 14-034/AU, du 22 décembre 2014, portant lutte contre le travail eI la traite des enfants.
+Portant promulgation de la loi N° 14-034/AU, du 22 décembre 2014, portant lutte contre le travail et la traite des enfants.
 
-LE PRESIDENT  DE L'UNION,
+LE PRESIDENT DE L’UNION,
 
-VU la Constitution de l'Union des Conrores du 23 décembre 2001, révisée, notamment en son article l7 ;
+VU la Constitution de l’Union des Comores du 23 décembre 2001, révisée, notamment en son article 17 ;
 
-DECRET[,:
+DECRETE:
 
-## ARTICLE 1"'' :
-Est promulguée la loi N' 14-034/AU, du 22 décembre 2014, portant lutte contre le travail et la traite des enfants,  par I'Assemblée de I'Union des Comores et dont la teneur  suit  :
+## ARTICLE 1er :
+Est promulguée la loi N° 14-034/AU, du 22 décembre 2014, portant lutte contre le travail et la traite des enfants, par l’Assemblée de l’Union des Comores et dont la teneur suit :
 
-###### "-Artiçle*!,":
-Au sens de la présenle  loi on entend por enfont, tout âïie  humoin âgé, de moins de dix-huit  ons. Il fqit  portie de lo catégorie des personnes les plus vulnérobles de la société. A ceT effet, I'Etot doit, conformément à lo constitution,  d'une port, proléger  ses droits et so sécurité,  contre Toute forme d'obondon,  d'exploitotion et de violence, promouvoir son bien-âlre  physique et morol eï  d'outre port, centrer  qu  cæur de ses priorités l'intérêt supérieur de l'enfonT.
+###### " Article 1er :
+Au sens de la présente loi on entend par enfant, tout être humain âgé de moins de dix-huit ans. Il fait partie de la catégorie des personnes les plus vulnérables de la société. A cet effet, l’Etat doit, conformément à la constitution, d’une part, protéger ses droits et sa sécurité contre toute forme d’abandon, d’exploitation et de violence, promouvoir son bien-être physique et moral et d’autre part, centrer au cœur de ses priorités l’intérêt supérieur de l’enfant.
 
-###### Article 2  I
-L'enfont occupe ou sein de lo société,  une ploce privilé.giée.Considâré comme une personne à port entiàre, il devient un véritoble  sujet des droits notionol et internotionol. Il est en eff et Tituloire  de foçon inoliénoble des droits de l'Homme et des libertés  fondomentoles,  sûns discriminotion  ni distinction oucune. Il o droit à un éponouissement hormonieux  et une sécurité  physigue, motérielle  et morole oussi complète  gue possible.
+###### Article 2 :
+L’enfant occupe au sein de la société une place privilégiée. Considéré comme une personne à part entière, il devient un véritable sujet des droits national et international. Il est en effet titulaire de façon inaliénable des droits de l’Homme et des libertés fondamentales, sans discrimination ni distinction aucune. Il a droit à un épanouissement harmonieux et une sécurité physique, matérielle et morale aussi complète que possible.
 
-###### Article  .3 :
-Lo présente loi o pour objet de déf inir, de prévenir  et de réprimer toutes formes de tnovoil dangareux et toutes sgrtes de pires formes des trovoux des enfonts oinsi que l'exploitotion  et lq tràitedes  enfqnts  :  elledéfini'T égolement les dispositions  relotives à lo-p11-ç-ç_.*en  chorge des victimes.
+###### Article 3 :
+La présente loi a pour objet de définir, de prévenir et de réprimer toutes formes de travail dangereux et toutes sortes de pires formes des travaux des enfants ainsi que l’exploitation et la traite des enfants ; elle définit également les dispositions relatives à la prise en charge des victimes.
 
-###### Article-4  :
-Lo présente  loi ,it" È'ÉbtthLî:*rrÙ;èponse pluridisciplinoire,  étont enîendu  que les îrqvoux  o.^r"r/"#,f*Iîffimes de rrovoit oinsi que to troite des enfqnts ont une dirnension trqnsversole  d'ordre politique, sociole et économique  oux conséquences préjudiciobles pour leur  qvenir  eI celui de lo société,. rls privent  les enfonts de leur droit à l'éducotion,  retordent etlou freinent leur développernent eI celui des poys, dans lesquels ils vivent et omoindrissent  leurs perspectives de grondir  dons un egvironnement  soin.
+###### Article 4 :
+La présente loi vise à donner une réponse pluridisciplinaire, étant entendu que les travaux dangereux et les pires formes de travail ainsi que la
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-###### Ar:ticle b :
-Les dispositions  de lo présente ioi visen! tous les enfonts,  quels que ioit leur rece,leur nqtionolité, leur sexe,leur  religidp "t leur origine,  résidont  ou séjournont sur le territoire de l'Union des Comores"
+traite des enfants ont une dimension transversale d’ordre politique, sociale et économique aux conséquences préjudiciables pour leur avenir et celui de la société. Ils privent les enfants de leur droit à l’éducation, retardent et/ou freinent leur développement et celui des pays dans lesquels ils vivent et amoindrissent leurs perspectives de grandir dans un environnement sain.
+
+###### Article 5 :
+Les dispositions de la présente loi visent tous les enfants, quels que soit leur race, leur nationalité, leur sexe, leur religion et leur origine, résidant ou séjournant sur le territoire de l’Union des Comores.
 
 ### TITRE II :
 
-### DU TRAVAIL DES ENFANT5  ET DEs PRATTQUES ASSII^ILEES
-#### CHAPTTRE I :
+### DU TRAVAIL DES ENFANTS ET DES PRATIQUES ASSIMILEES
 
-#### Du Trovoil des enfonts
+#### CHAPITRE I :
 
-##### Section I  : Des  pires formes  de trovoil d'enfonf
+#### Du Travail des enfants
 
-###### 4rticle_  6 :
-Au sens de lo présente loi sonT considéré,s  comme pires formes de trovoil d'enfont,  toute octivité  oyont troit -::":'r'i
+##### Section I : Des pires formes de travail d’enfant
 
-- oux formes d'esclqvoge ou protiques onologues  telles que lo uunt" et lq troiTe des enfonts, lo servitude pour dettes et le servoge  oinsi que le -trovqil  forcé.ou obligotoire,y  compris  lerecruternent forcé'  ou obligatoire des enfonts en vue de leur utilisqtion dans des conf lits armés
+###### Article 6 :
+Au sens de la présente loi sont considérés comme pires formes de travail d’enfant, toute activité ayant trait
 
-- à I'uTilisotion, le recrutement  ou I'offre d'un enfqnt à des fins  de prostitution,  de producTion de moténiel  pornogrophigue  ou de spectocles pornogrophiques;
+a) aux formes d’esclavage ou pratiques analogues telles que la vente et la traite des enfants, la servitude pour dettes et le servage ainsi que le travail forcé ou obligatoire, y compris le recrutement forcé ou obligatoire des enfants en vue de leur utilisation dans des conflits armés
 
-- à I'utilisoTion,  le recrutement ou I'offre d'un enfqnt oux fins d'qctivités illicites  noTomment  pour lo production et le trqfic de stupéfionts, tel que les déf inissent  les conventions  infernotionoles pertinentes ;
+b) à l’utilisation, le recrutement ou l’offre d’un enfant à des fins de prostitution, de production de matériel pornographique ou de spectacles pornographiques;
 
-- oux trovqux gui por leur notur. o, les conditions dons lesqualles ils s'exetcent sont susceptibles de nuire à lo sonté  (morole ou physique),  à lo sé,curiré,  ou à lo morolité  da l'enfont.
+c) à l’utilisation, le recrutement ou l’offre d’un enfant aux fins d’activités illicites notamment pour la production et le trafic de stupéfiants, tel que les définissent les conventions internationales pertinentes ;
 
-\i
+d) aux travaux qui par leur nature ou les conditions dans lesquelles ils s’exercent sont susceptibles de nuire à la santé (morale ou physique), à la sécurité ou à la moralité de l’enfant.
 
-- Ainsi gu'oux types des trovoux définis por dirâté du ministre  en chorge du Trovoil.
+e) Ainsi qu’aux types des travaux définis par arrêté du ministre en charge du Travail.
 
-9u  de foit gui Tenta de faire t\É$È'de 18 ons dons l'une des  Pires Slnuùoux  dongereux, prévues dons ri),/  iTT I
+Toute personne morale ou physique, de droit ou de fait qui tente de faire travailler ou fait travailler un enfant âgé de moins de 18 ans dans l’une des pires formes de travail des enfants, autre que des travaux dangereux, prévues dans
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-l'orTicle 131 du code du trqvqil  ,les  alinéns  A à C, ou por omêté Ministériel sero punie d'une omonde de 100 OOO à 5 OOO 000 et d'un emprisonnement de cinq mois à dix ons.
+l’article 131 du code du travail, les alinéas A à C, ou par arrêté Ministériel sera punie d’une amande de 100 000 à 5 000 000 et d’un emprisonnement de cinq mois à dix ans.
 
-Lo réclusion criminelle de dix à vingt ons esT encoûrue lorsgue l'infroction a été commise  dons l'une des circonstonces suivcntes , i
+La réclusion criminelle de dix à vingt ans est encourue lorsque l’infraction a été commise dans l’une des circonstances suivantes :
 
-- si lo personne  est porticulièrumenf  Ityulnérable déficience  physigue  ou psychigue due,à son étot son âge  ovoncé ou de son étoT de sonté ; en raison d'une de grossesse,  de
+a. si la victime est un mineur d’au moins quinze ans ;
 
-- si lo victim e est un mineur d'ou moins quihre ons ;
+b. si la personne est particulièrement vulnérable en raison d’une déficience physique ou psychique due à son état de grossesse, de son âge avancé ou de son état de santé ;
 
-- si l'qcTe a été commis por froude ou violence,  par usoge de fousse quolité,  foux titne ou des documents  fqlsjfiés  ou oltérés  ou de fousse outorisotion;
+c. si l’acte a été commis par fraude ou violence, par usage de fausse qualité, faux titre ou des documents falsifiés ou altérés ou de fausse autorisation ;
 
-- si l'quTeur  foiï  usoge de s'rupéfionts  ou de ioute  qutre  substonce de nqfure à oltérer lo volonté de  Jo victime ;
+d. si l’auteur fait usage de stupéfiants ou de toute autre substance de nature à altérer la volonté de la victime ;
 
-- si l'outeur esT un oscendont  ou une personne  oyont outorité  sur lo victime;
+e. si l’auteur est porteur d’une arme apparente ou cachée ;
 
-- si l'outeur  est porteur d'une orme opporente  ou cachée ;
+f. si l’auteur est un ascendant ou une personne ayant autorité sur la victime ;
 
-- 9-  si lo victime o été séquestrée,  privée  d'oliments ou exposé,e dons un endroit public ou privé  de recrutement;
+g. si la victime a été séquestrée, privée d’aliments ou exposée dans un endroit public ou privé de recrutement ;
 
-- si la victitne  est exposé,e  à des trovoux dongereux, pénibles ou oux pines  formes du trsvoil des enfqnTs ;
+h. si la victime est exposée à des travaux dangereux, pénibles ou aux pires formes du travail des enfants ;
 
-ï:*.
+i. si l’auteur a commis des abus sexuels sur la victime.
 
-- si l'outeur o commis des abus sexuels  sur lo  vicïime.
+##### Section II : Des travaux dangereux
 
-##### Section  II  : !s5 trqvoux dongereux
+###### Article 7 :
+Au sens de la présente loi sont considérés comme travaux dangereux des enfants; les types des travaux faisant référence à l’ensemble des activités :
 
-###### Artide  7:
-Au sens de lq présenre  loi sonï  considérés  comme trcvqux dongereux des enfqnts; les types des trovaux  fqisont réf  érenceà l,ensemble des octivités :
+1. Qui sont exercés par un enfant n’ayant pas l’âge légal d’accès à l’emploi ;
 
-- Qui sont exercés  por un enfont n'cyonT pos r'ôge régar d,acces  à r,emproi  ;
+2. Qui sont mentalement physiquement, socialement ou moralement dangereuses et nuisibles pour les enfants ;
 
-- 2'  Qui sont mentolement physiguement,  sociqlement  ou moralernent dongereuses  el nuisibles  pour les enfonts ;
+3. Et qui compromettent leur éducation en les privant de toute scolarisation
 
-- 3' Et qui compromettent  leur éducoTion en les privont de toute scolorisotion
+4. En les contraignant à abandonner prématurément l’école, ou en les obligeant à cumuler les activités scolaires et des activités professionnelles trop lourdes pour eux ;
 
-- En les contraignont  à obondonner prémoturément  r,é,core',  og en res obligeont  à  cumuler les octivités  scoloires  et  des octivités professionnelles  trop lourdes  pour eux;
-
-- 5' Ainsi que lo liste des trovqux donger eux défini!  por orra)adu  ministre en chorge du  Trovoi ,,'"î'l;  r i:::. .. '
-
-t*u),;Ar;;t:l;.,?_..
-
-/.-:
-
-/  :j.r:  rr.':1r.",
-
-r1.'\.  --,.
-
-:
-
-t -,.:
-
-i :i
-
-' J,:,:,:,:;:"ri.-::
-
-i ,
-
-i..j
-
-:
-
-i
-
-/,ii.
-
-iï\rji/:;,r.t:.\r,,',
-
-:;...
-
-i
-
-x {,I,;  r;i;iïfgi:',.r  j
-
-;ll
-
-,
-
-\t;\it'i'),'',':
-
-;",'t'r{7!  l"t'
-
-i
-
+5. Ainsi que la liste des travaux dangereux définis par arrêté du ministre en charge du Travail.
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-Sero punie toute personne  morole ou physigue,  de droit ou de foit qui tente de foire Trovoiller ou 'foit  trovoiller  un enfont âgé de moins de 18 ons dans l'un des Trovoux dangereux  prévus por l'orTicle 129 du code de trovoil ou por un orrâté Ministériel pris en son opplicotion, d'un emprisonneme$t  de deux mois à un on et d'une  qmende  de 50 000 à I OOO 000 f rqncs,'ou l'une  lle  ces des deux peines.
+Sera punie toute personne morale ou physique, de droit ou de fait qui tente de faire travailler ou fait travailler un enfant âgé de moins de 18 ans dans l’un des travaux dangereux prévus par l’article 129 du code de travail ou par un arrêté Ministériel pris en son application, d’un emprisonnement de deux mois à un an et d’une amende de 50 000 à 1 000 000 francs, ou l’une de ces des deux peines.
 
-.l Les ïrovoux Forcés à Perpétuité  (TFP) sont inf ligés lôrsque  :
+Les Travaux Forcés à Perpétuité (TFP) sont infligés lorsque :
 
--il en est résult  é  une muf ilotion ou une inf irmité  permanenTe :
+- les actes de traite ou de pires formes de travail ont entraîné la disparition ou la mort de la victime, ou une incapacité permanente de plus de 30%.
 
--les octes de troite ou de pires formes de trovail ont enTroiné lo disporilion ou lo mort de lo victime,  ou une incopocité permonenle  de plus de 3A%.
+- il en est résulté une mutilation ou une infirmité permanente ;
 
--lo troiTe o eu pour but le prélèvement d'orgone.
+- la traite a eu pour but le prélèvement d’organe.
 
-Le juge peut é,galement priver le ou lo condomné (e) de I'exercice de ses droits civigues et prononcer l'interdiction de poroître  pour une durée  de trois ons.
+Le juge peut également priver le ou la condamné (e) de l’exercice de ses droits civiques et prononcer l’interdiction de paraître pour une durée de trois ans.
 
-#### CHAPITRE  II:
+#### CHAPITRE II :
 
-#### Des protigues  ossimilées
+#### Des pratiques assimilées
 
-##### Section  I  : De l'exploitotion  d'enfont
+##### Section I : De l’exploitation d’enfant
 
-###### Arti.cfç 8 ;
-Au sens de lo loi, l'exploitotion  dé,signe  toutes octivités  ouxquelles  est soutnis l'enfont eT qui ne présenlent,  pour ce dernier, oucun intérêt éeonomique, morol, mentol ou psychique  mois qui, por contre, procurent à l'quteur ou à toute outre personne,  de monière directe ou indirecte, des  qvontages  économiques, morouX ou psychiques. ,
+###### Article 8 :
+Au sens de la loi, l’exploitation désigne toutes activités auxquelles est soumis l’enfant et qui ne présentent, pour ce dernier, aucun intérêt économique, moral, mental ou psychique mais qui, par contre, procurent à l’auteur ou à toute autre personne, de manière directe ou indirecte, des avantages économiques, moraux ou psychiques.
 
-l
+Le terme exploitation comprend également la prostitution de l’enfant et toutes formes d’utilisations à des fins sexuelles de l’enfant, le travail ou les services forcés, l’adoption illicite, l’union matrimoniale précoce ou forcée, ou toutes formes d’abus à des fins économiques ou sexuelles préjudiciables à la santé, au développement physique, mental, spirituel, moral et social de l’enfant.
 
-Le terme exploitotion  comprend  égalernent lo prostitution  de l'enfont et toutes formes d'utilisotions  à des fins sexuelles de l'enfont, le trovoil ou les services forcé,s,  l'odoption illicite, l'union motrimoniole  pré,coce  ou forcé.e,  ou toutes fonmes d'obus à des fins économiques ou sexuelles préjudiciobles  à lo sqnté, ou dâveloppement  physique,  mentol, spirituel, morol et sociol de l'enfont.
+Est puni d’un emprisonnement de cinq à dix ans et d’une amende de un à deux millions de francs comoriens, toute personne qui emploie des enfants et qui entretient des relations sexuelles avec eux ou leur fait subir des sévices physiques, psychologiques et sexuels.
 
-EsT puni d'un emprisonnemenï  de cing à dix ons et d'une  qmende  de un à deux millions de froncs comoriens,  toute personne  gui emploie  des enfànts  et gui entretient des relotions sexualles ovec eux ou leur  foit subir des sévices physigues, psychologigues  et sexuels.
+##### Section II : De la pornographie infantile
 
-##### Section  II : pornogrophie infonfile
-
-###### Artic_le.  9 :
-Ëst
-
-considé,rée  c
-
-infontile,
-
-le foiT d'utiliser  du
-
-ou qui reproduit des
-
-motériel impliquont des enf
-
-të$
-
-r:
-
-i sexuel
+###### Article 9 :
+Est considérée comme pornographie infantile, le fait d’utiliser du matériel impliquant des enfants dans un contexte sexuel ou qui reproduit des
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-imoges  sexuellement explicites d'enfonts. Il  s'ogiT également des octes de commerciolisotion,  de diffusion, de production ou de possession  oux mâmes fins de tous rnqtériels constiluont une représentotion d'un enfonï  se livront ou présenté  comme se livront à une octivité  sexuelle explicite ou toutes repré.sentotions  d'un enfont dont lo coroctéristiguC dominonte seroit d'âtre ,ll réolisée  à des f ins sexuelles. -rïr,
+images sexuellement explicites d’enfants. Il s’agit également des actes de commercialisation, de diffusion, de production ou de possession aux mêmes fins de tous matériels constituant une représentation d’un enfant se livrant ou présenté comme se livrant à une activité sexuelle explicite ou toutes représentations d’un enfant dont la caractéristique dominante serait d’être réalisée à des fins sexuelles.
 
-###### Article 10:
-Quiconque  emploie,  utilise, persuode,  incite, encouroge  ou controint un enfont, ou le tronsporte  d'un Etot étronger sur le territoire  de l'Union des Comores  ou inversement pour que celui-ci sa livre à des octes sexuels oux f ins de lo  producTion d'une représentotion visuelle de tels  qctes  est  puni d'emprisonnement de cinq à dix ons et d'une omende deZAO0 000 à 5000000 de froncs comoriens
+###### Article 10 :
+Quiconque emploie, utilise, persuade, incite, encourage ou contraint un enfant, ou le transporte d’un Etat étranger sur le territoire de l’Union des Comores ou inversement pour que celui-ci se livre à des actes sexuels aux fins de la production d’une représentation visuelle de tels actes est puni d’emprisonnement de cinq à dix ans et d’une amende de 2 000 000 à 5 000 000 de francs comoriens.
 
-##### Section III  : De l'incitotion des mineurs  à lo débouche et à lo prostitufion
+##### Section III : De l’incitation des mineurs à la débauche et à la prostitution
 
-###### Article 1l , :.
-EsT consid é.ré  comme incitoTion des mineurs à lo débouche  et à la prostiTution, le foit d'ogir sur les mineurs en vue de sotisfoire les intérêts illicites d'outrui ou en tout cqs comme ogent intermédisire  de corruption, de lo débouche eI de lo prostitution -':..
+###### Article 11 :
+Est considéré comme incitation des mineurs à la débauche et à la prostitution, le fait d’agir sur les mineurs en vue de satisfaire les intérêts illicites d’autrui ou en tout cas comme agent intermédiaire de corruption, de la débauche et de la prostitution
 
-Est puni d'un emprisonnement  de trois ons à cing ons et d'une amende  de 500 000 à 1000 000 de froncs comoriens, louTe personne, gui, oyont lo gorde ou la chorge d'un erifont, le controint ou l'encouroge  à lo débouche ou à lo prostitution.
+Est puni d’un emprisonnement de trois ans à cinq ans et d’une amende de 500 000 à 1 000 000 de francs comoriens, toute personne, qui, ayant la garde ou la charge d’un enfant, le contraint ou l’encourage à la débauche ou à la prostitution.
 
 ###### Article 12
 
-- 1- Toute personne condomnée en vertu de lo présente loi est Ténu de poyer les dépenses occosionnâ,es  por les prestotions de prise en chargede  lo victime et couverte  por l'odministrotion  ou toute outre structure étotigue  ou poroétotigue ou tout ouTre orgonisme ou pensonne  privée ogissont dons le cadre d'une mission de sarvice public. \
+1- Toute personne condamnée en vertu de la présente loi est ténu de payer les dépenses occasionnées par les prestations de prise en charge de la victime et couverte par l’administration ou toute autre structure étatique ou paraétatique ou tout autre organisme ou personne privée agissant dans le cadre d’une mission de service public.
 
-- 2- Toute personne  de notionolité éIrangère condomnée  en vertu de lo présente  loi peut âtre frappée  de l'interdiction du territoire de l'Union des  Comores. ï
+2- Toute personne de nationalité étrangère condamnée en vertu de la présente loi peut être frappée de l’interdiction du territoire de l’Union des Comores.
 
-,,
-
-##### Section IV : De lo troite des enfonts
+##### Section IV : De la traite des enfants
 
 ###### Article 13 :
-On entend por troite des enfonts  :
+On entend par traite des enfants :
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- le recru|ernent,  le tronsport, le tronsfert, l'hébergement ou l'occueil de personnes,  por lo menoce de recours ou le recours à lo force ou à d'outres formes de controinte, por enlèvement,  froude, tnomperie,  obus d'outorité ou d'une situotion de vulnérobilité,  ou par..l'offre ou l'acceptotion de poiements ou d'ovqntqges pour oblenir le consent egent d'une personne;
+1. le recrutement, le transport, le transfert, l’hébergement ou l’accueil de personnes, par la menace de recours ou le recours à la force ou à d’autres formes de contrainte, par enlèvement, fraude, tromperie, abus d’autorité ou d’une situation de vulnérabilité, ou par l’offre ou l’acceptation de paiements ou d’avantages pour obtenir le consentement d’une personne;
 
-- les formes d'exploitoTions  incluqnt  ,  l'exploitdtion de lo prostituîion d'ouTrui ou d'ouïres  formes d'exploiTotion -qâxuelle,  le trovoil forcé,, l'esclovoge  ou des protigues anologues, lo se&itude ou le prélèvement d'or9ones.
+2. les formes d’exploitations incluant : l’exploitation de la prostitution d’autrui ou d’autres formes d’exploitation sexuelle, le travail forcé, l’esclavage ou des pratiques analogues, la servitude ou le prélèvement d’organes.
 
-La trqife des personnes, lorsqu'elle a été  commise oux fins d'exploitotion  de mineurs de moins de 18 ons, est punie de dix à vingt ons de prison  f erme eI de trente millions d'omende.
+La traite des personnes, lorsqu’elle a été commise aux fins d’exploitation de mineurs de moins de 18 ans, est punie de dix à vingt ans de prison ferme et de trente millions d’amende.
 
-##### Section V : Du trofic des enfonts
+##### Section V : Du trafic des enfants
 
-###### Article  14:
+###### Article 14 :
 
-- Le trofic d'enfont est I'ensemble du processus  por lequel un enfont est déploc,é,  à l'intérieur ou à I'exTérieur  d'un poys dons les conditions gui le trqnsforment en voleur morchonde pour I'une ou moins des personnes en pr,é.sence,  et quelque  soit lo finolité  du déplocement de I'enfont :
+1. Le trafic d’enfant est l’ensemble du processus par lequel un enfant est déplacé, à l’intérieur ou à l’extérieur d’un pays dans les conditions qui le transforment en valeur marchande pour l’une au moins des personnes en présence, et quelque soit la finalité du déplacement de l’enfant :
 
-- Tout octe comporfont le recruternent,  le tronsport,le recel d'enfcnt;
+- tout acte comportant le recrutement, le transport, le recel d’enfant ;
 
-- toute affre, occeptotion de poiement  ou d'ovontoges consenJemenl de lo victime ou de lo personne oyont outorité é,galement des octes illicites contribuqnt  ou trof ic d'enfonts. pour obtenir le sur celle-ci sont
+- tout acte qui entraîne le déplacement de l’enfant à l’intérieur ou à l’extérieur d’un pays.
 
-- touT acte gui entroîne  le déplocemenT  de l'enfont à I'intérieur  ou à I' extérieur  d'uri poys.
+- toute offre, acceptation de paiement ou d’avantages pour obtenir le consentement de la victime ou de la personne ayant autorité sur celle-ci sont également des actes illicites contribuant au trafic d’enfants.
 
-Sero punie d'une réclusion de sept à vingt ons toute personne  convoincue de tnofic d'enfont.
+Sera punie d’une réclusion de sept à vingt ans toute personne convaincue de trafic d’enfant.
 
-- le foit de tenter de commettre, de se rendre complica, d'orgoniser lo commission  d'une infrqction  établie conformérnent ou pnésent  orficle ou de donner des instrucTions  à d'outres personnes pour gu'elles lq commettent, est puni de dix à vingt ons de prison  f erme. \
+2. le fait de tenter de commettre, de se rendre complice, d’organiser la commission d’une infraction établie conformément au présent article ou de donner des instructions à d’autres personnes pour qu’elles la commettent, est puni de dix à vingt ans de prison ferme.
 
-3'Les compognies  de tronsports aériens ou moritimes ou tout outne orgonisme similoire oinsi que les porticuliers  oyont ossuré le tronsporl de lo victime en violotion  des dispositioirs de lo prése;nte loi, sont teirus de couvrir  les chorges liées,à son ropoTriement.
+3. Les compagnies de transports aériens ou maritimes ou tout autre organisme similaire ainsi que les particuliers ayant assuré le transport de la victime en violation des dispositions de la présente loi, sont tenus de couvrir les charges liées à son rapatriement.
 
-A défqut, le moyen de tronsport est soisi pqr judicioire  compétente,  mis en fourrière  ou confisgu
-
-ou
+A défaut, le moyen de transport est saisi par l’autorité administrative ou judiciaire compétente, mis en fourrière ou confisqué.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-### TTTRE III :
+### TITRE III :
 
-### E LA PREVENTION
+### DE LA PREVENTION
 
-#### CHAPITRE I:
+#### CHAPITRE I :
 
-"n
+#### Des institutions de prévention et de protection et des moyens de mise en œuvre
 
-._,
+###### Article 15 :
+L’Etat, est chargé de mener des actions garantissant la prévention et la lutte contre la traite des enfants et de toute forme d’exploitation. A cet effet, il renforcera les capacités institutionnelles et humaines des structures et organes chargés de la prévention, la protection et la répression contre le travail et la traite des enfants.
 
-#### Des institutions  de prévention  et de protecfion et des moyens de mise auur" -rt,
+###### Article 16 :
+Les institutions et structures chargées de la prévention et de la protection de l’enfance peuvent ester en justice en faveur et au nom des enfants victimes de la traite et du travail des enfants.
 
-.i
+###### Article 17 :
+Les administrations universitaires et scolaires doivent intégrer dans leurs curriculums des modules sur les travaux dangereux, les pires formes du travail des enfants, la traite et les pratiques assimilées.
 
-###### Afticle 15:
-L'EtqI, est chorgé, de mener  des ocTions gorontissont la prévention et lo luTte contre lo troite des enfonts et de foute f orme d'exploitotion. A cet effet, il renforcero les copocités  insTitutionnelles  et humaines  des stnuctures  et orgones  chargés de lo prévention, lo protection eT larépreision conTre le trovqil et lo troit e des enfonts.
+###### Article 18 :
+Des campagnes d’information, de formation et de sensibilisation doivent être menées à l’endroit de toutes les couches socioprofessionnelles pour prévenir ce fléau.
 
-###### Arlicle 1.6:
-Les insTitutions et stnuctures  cfiûrgé,esde lo prévention et de la protection  de l'enfqncepeuvent esler en justice en fqveur et ou nom des enfonts victimes  de lo troite et du trovoil  des enfonts.
-
-###### Article  1_7 ;
-Les odministrotions universitaires  et scoloires doivent intégrer dons leurs curriculums  des modules  sur les tnovoux dongeraux,  les pires formes du trovoil des enfonts, lo froite et les protigues  ossimilées.
-
-###### Anticle 1-8 :
-Des compognes d'informoTion, de formotiôn  et de sen$.ibilisotion doivent âtre mené,es à l'endroiT de toutes les couches  socioprofessionrtâlles pour prévenir  èe flé,au.
-
-###### Article, 19 :
-Un fonds de soutien et de sécurilé  sociole sero mis en place ou bënéfice des enfqnts exposés à une vulnérqbilité  extrâme risquont d'âlre exposés dons des situotions des pires formas de trovoil et de trofic des enfonts.
+###### Article 19 :
+Un fonds de soutien et de sécurité sociale sera mis en place au bénéfice des enfants exposés à une vulnérabilité extrême risquant d’être exposés dans des situations des pires formes de travail et de trafic des enfants.
 
 #### CHAPITRE II :
 
-#### De lo protection  des victimes
+#### De la protection des victimes
 
-###### Article 20:
-L'Etot prend toutes les mesures  qppropriées  en vue d'ossurer lo protecTion  de Tous les enfonts contre le trovcil dongereux,  lo troite eT toute forme d'exploitotion.
+###### Article 20 :
+L’Etat prend toutes les mesures appropriées en vue d’assurer la protection de tous les enfants contre le travail dangereux, la traite et toute forme d’exploitation.
 
-###### Articl.e.2l:
-Des méconismes de victimes  seronT déf inis .por arrêlé retroit el de suivi en du Minislre  en chorige du fqveur des enfonts Trovoil.  '
-
-ir6;r,[1i.;'
-
-/{);î'l:i:,1:îc;i
-
-a.'
-
-i,fivï,''i
-
-,îi
-
-i:
-
-\ç-\"*.i,ir.,,'
-
-i',' u'
-
-'.ifriL:ffi+'
-
-.,  ,
+###### Article 21 :
+Des mécanismes de retrait et de suivi en faveur des enfants victimes seront définis par arrêté du Ministre en charge du Travail.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-### TTTRË  IV  :
+### TITRE IV :
 
-### t FrrlnLEs DEs DI5POSTTTONS
+### DES DISPOSITIONS FINALES
 
-..,
+###### Article 22 :
+Sont abrogées toutes dispositions antérieures contraires à celles de la présente loi.
 
-###### Article  22 :
-Sont de lo présente  loi. abrogées  toutes dispositions ontâFieures  controires  à celles
-
-*'!
-
-###### Artiçle  ?9  :
-Lo présente loi sera exë,cutée  commeloi de l'Etot."
+###### Article 23 :
+La présente loi sera exécutée comme loi de l’Etat."
 
 ## ARTICLE 2 :
-Le présent décret  sera enregistré, publié  au Journal  Officiel de I'Union des Comores et communiqué partout où besoin sera.
+Le présent décret sera enregistré, publié au Journal Officiel de l’Union des Comores et communiqué partout où besoin sera.
 
-U DHOININE
+Dr IKILILOU DHOININE
 
 [[END OF PAGE 8]]
