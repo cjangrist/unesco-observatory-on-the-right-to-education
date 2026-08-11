@@ -22,11 +22,13 @@ Compte tenu de l'agenda Éducation 2030, le suivi de la Convention et de la Reco
 
 Étant donné que la portée et la teneur des obligations juridiques en vertu du droit à l'éducation concordent avec les 10 cibles de l'ODD 4, des efforts ont été engagés pour que le contenu des cibles  soit  inclus  dans  les  présents  Principes  directeurs  et  que  ces  principes  constituent  un instrument  précieux  pour  mesurer  les  progrès  accomplis  en  vue  de  la  réalisation  des  cibles  de l'ODD 4.
 
-La  Convention  est  en  étroite  concordance  non  seulement  avec  l'ODD 4  mais  aussi  avec  le Pacte international relatif  aux  droits  économiques,  sociaux  et  culturels  (1966), la  Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes (1979), la Convention relative aux droits de l'enfant (1989) et la Convention relative aux droits des personnes handicapées (2006).
+La Convention est en étroite concordance non seulement avec l'ODD 4 mais aussi avec le Pacte international relatif aux droits économiques, sociaux et culturels (1966), la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes (1979), la
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Convention relative aux droits de l'enfant (1989) et la Convention relative aux droits des personnes handicapées (2006).
 
 Cette consultation est en outre l'occasion de contribuer à l' Initiative en cours de l'UNESCO sur l'évolution du droit à l'éducation dans la perspective de l'apprentissage tout au long de la vie 1 (lancée  en  décembre  2021).  Cette  Initiative  cherche  des  solutions  pour  renforcer  le  droit  à l'éducation, qu'elle replace dans le contexte de l'apprentissage tout au long de la vie, en tenant compte des nouvelles exigences imposées à l'éducation. Elle s'appuie sur le rapport préparé par la Commission internationale sur Les futurs de l'éducation 2 , qui propose d'élargir explicitement notre conception du droit à l'éducation à tous les âges, à tous les temps et à tous les espaces. L'Initiative est également conforme à l' Énoncé de vision du Secrétaire général des Nations Unies sur la transformation de l'éducation 3 ainsi qu'au Rapport du Sommet sur la transformation de l'éducation (2022) 4 , selon lequel la transformation des systèmes éducatifs doit tendre à « l'inclusion de tous, indépendamment des circonstances, du contexte et des origines ». L'Initiative sur l'évolution du droit à l'éducation a pour objet d'engager une réflexion collaborative et participative sur le cadre international afin de garantir l'application effective du droit à l'éducation à l'apprentissage pour tous et tout au long de la vie. L'Initiative s'appuie également sur les dialogues intergouvernementaux entamés  récemment,  en  particulier  le  Cadre  d'action  de  Marrakech  -  Exploiter  le  pouvoir  de transformation de l'apprentissage et de l'éducation des adultes 5  et la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance 6 .
 
@@ -38,7 +40,7 @@ La nature juridique des obligations découlant de la Convention diffère à plus
 
 Compte tenu des différences de portée juridique dues à la nature même de ces deux instruments, la  teneur  de  la  Recommandation et celle  de  la  Convention  sont  identiques.  Les  États  membres doivent donner effet à l'un ou l'autre de ces instruments dans leur législation nationale et dans leurs politiques de l'éducation.
 
-Les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme  que  déterminera  la  Conférence  générale,  des  rapports  sur  les  lois,  les  règlements  et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
+Les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme que déterminera la Conférence générale, des rapports sur les lois, les règlements et statistiques relatifs à ses institutions et à son activité dans l'ordre de l'éducation, de la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre
 
 > 1 Comment les droits s'adaptent à l'évolution de l'éducation | UNESCO.
 
@@ -55,6 +57,8 @@ Les dispositions relatives à l'obligation de soumettre des rapports de l'articl
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
 
 ## 4. Participation aux consultations
 
@@ -94,9 +98,9 @@ non-discrimination dans le domaine de l'enseignement (section 1), à tous les de
 
 Afin  de  simplifier  les  Principes  directeurs  tout  en  apportant  aux  États  membres  les  indications indispensables qui les guideront dans la formulation de leurs réponses à l'issue d'un processus participatif, les orientations proposées sont de deux types :
 
-- Des  questions  ouvertes  ou  fermées  auxquelles  les  États  membres  sont  invités  à répondre  directement.  Veuillez  noter  qu'il  est  possible,  le  cas  échéant,  de  fournir plusieurs réponses.
+(1) Des questions ouvertes ou fermées auxquelles les États membres sont invités à répondre directement. Veuillez noter qu'il est possible, le cas échéant, de fournir plusieurs réponses.
 
-- Des  indications  complémentaires  visant  à  aider  les  États  membres  à  structurer  et  à détailler les réponses apportées aux questions ouvertes (des conseils seront notamment donnés sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
+(2) Des indications complémentaires visant à aider les États membres à structurer et à détailler les réponses apportées aux questions ouvertes (des conseils seront notamment donnés sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
 
 [[END OF PAGE 4]]
 
@@ -106,7 +110,7 @@ Afin  de  simplifier  les  Principes  directeurs  tout  en  apportant  aux  Éta
 
 Nom du pays : France
 
-Organisation(s)  ou  entité(s)  chargée(s)  de  l'établissement  du  rapport  : m inistère  de  l'Education nationale
+Organisation(s) ou entité(s) chargée(s) de l'établissement du rapport : ministère de l'Education nationale
 
 Nom de la personne à contacter :
 
@@ -120,7 +124,7 @@ dominique.bordes@education.gouv.fr
 
 camille.mallez@education.gouv.fr / 01 55 55 75 31
 
-# Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement  10
+# I. Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement 10
 
 - Votre pays est-il Partie à la Convention ?
 
@@ -254,7 +258,7 @@ En  France,  les  dispositions  adoptées  interdisant  toute  forme  de  discri
 
 #### Les  dispositions  juridiques  du  code  de  l'Éducation  qui  portent  sur  le  système scolaire sont les suivantes :
 
--Article  L.  111-1  du  Code  de  l'éducation :  « L'éducation  est  la  première  priorité nationale ».  Il  spécifie  également  que  le  service  public  contribue  à  l'égalité  des chances et à lutter contre les inégalités sociales et territoriales en matière de réussite scolaire et éducative. […] Il veille à la scolarisation inclusive de tous les enfants, sans aucune distinction. Il veille également à la mixité sociale des publics scolarisés au sein des établissements d'enseignement. […] Le droit à l'éducation est garanti à chacun afin de lui permettre de développer sa personnalité, d'élever son niveau de formation initiale et continue, de s'insérer dans la vie sociale et professionnelle, d'exercer sa citoyenneté. Pour garantir ce droit dans le respect de l'égalité des chances, des aides sont attribuées aux élèves et aux étudiants selon leurs ressources et leurs mérites. […]  Elle  a  pour  but  de  renforcer  l'encadrement  des  élèves  dans  les  écoles  et établissements  d'enseignement  situés  dans  des  zones  d'environnement  social défavorisé et des zones d'habitat dispersé, et de permettre de façon générale aux élèves en difficulté, quelle qu'en soit l'origine, en particulier de santé, de bénéficier d'actions de soutien individualisé. L'école garantit à tous les élèves l'apprentissage et la  maîtrise  de  la  langue  française.  L'acquisition  d'une  culture  générale  et  d'une qualification  reconnue  est  assurée  à  tous  les  jeunes,  quelle  que  soit  leur  origine sociale,  culturelle  ou  géographique.  L'autorité  de  l'Etat  compétente  en  matière d'éducation veille, en  lien avec  les  établissements  scolaires  publics  et  privés  sous contrat et en concertation avec les collectivités territoriales, à l'amélioration de la mixité sociale au sein de ces établissements. ».
+-Article L. 111-1 du Code de l'éducation : « L'éducation est la première priorité nationale ». Il spécifie également que le service public contribue à l'égalité des chances et à lutter contre les inégalités sociales et territoriales en matière de réussite scolaire et éducative. […] Il veille à la scolarisation inclusive de tous les enfants, sans aucune distinction. Il veille également à la mixité sociale des publics scolarisés au sein des établissements d'enseignement. […] Le droit à l'éducation est garanti à chacun afin de lui permettre de développer sa personnalité, d'élever son niveau de formation initiale et continue, de s'insérer dans la vie sociale et professionnelle, d'exercer sa citoyenneté. Pour garantir ce droit dans le respect de l'égalité des chances, des aides sont attribuées aux élèves et aux étudiants selon leurs ressources et leurs mérites. […] Elle a pour but de renforcer l'encadrement des élèves dans les écoles et établissements d'enseignement situés dans des zones d'environnement social défavorisé et des zones d'habitat dispersé, et de permettre de façon générale aux
 
 > 17 Voir article/paragraphe 1(1).
 
@@ -266,9 +270,11 @@ En  France,  les  dispositions  adoptées  interdisant  toute  forme  de  discri
 
 [[START OF PAGE 9]]
 
+élèves en difficulté, quelle qu'en soit l'origine, en particulier de santé, de bénéficier d'actions de soutien individualisé. L'école garantit à tous les élèves l'apprentissage et la maîtrise de la langue française. L'acquisition d'une culture générale et d'une qualification reconnue est assurée à tous les jeunes, quelle que soit leur origine sociale, culturelle ou géographique. L'autorité de l'Etat compétente en matière d'éducation veille, en lien avec les établissements scolaires publics et privés sous contrat et en concertation avec les collectivités territoriales, à l'amélioration de la mixité sociale au sein de ces établissements. ».
+
 -Article L.  111-2  du  Code  de  l'éducation :  « Tout  enfant  a  droit  à  une  formation scolaire qui, complétant l'action de sa famille, concourt à son éducation. […] Pour favoriser l'égalité des chances, des dispositions appropriées rendent possible l'accès de chacun, en fonction de ses aptitudes et de ses besoins particuliers, aux différents types ou niveaux de la formation scolaire. […] ».
 
--Article L. 111-6 du Code de l'éducation : « Aucun élève ou étudiant ne doit subir de faits  de  harcèlement  résultant  de  propos  ou  comportements,  commis  au  sein  de l'établissement d'enseignement ou en marge de la vie scolaire ou universitaire et ayant  pour  objet ou  pour  effet  de  porter  atteinte  à  sa  dignité,  d'altérer  sa  santé physique  ou  mentale  ou  de  dégrader  ses  conditions  d'apprentissage.  Ces  faits peuvent être constitutifs du délit de harcèlement scolaire prévu à l'article 222-33-23 du code pénal.
+-Article L. 111-6 du Code de l'éducation : « Aucun élève ou étudiant ne doit subir de faits de harcèlement résultant de propos ou comportements, commis au sein de l'établissement d'enseignement ou en marge de la vie scolaire ou universitaire et ayant pour objet ou pour effet de porter atteinte à sa dignité, d'altérer sa santé physique ou mentale ou de dégrader ses conditions d'apprentissage. Ces faits peuvent être constitutifs du délit de harcèlement scolaire prévu à l'article 222-33-2-3 du code pénal.
 
 Les établissements d'enseignement scolaire et supérieur publics et privés ainsi que le réseau des œuvres universitaires prennent les mesures appropriées visant à lutter contre  le  harcèlement  dans  le  cadre  scolaire  et  universitaire.  Ces  mesures  visent notamment à prévenir  l'apparition  de  situations  de  harcèlement,  à  favoriser  leur détection  par  la  communauté  éducative  afin  d'y  apporter  une  réponse  rapide  et coordonnée et à orienter les victimes, les témoins et les auteurs, le cas échéant, vers les services appropriés  et  les associations  susceptibles  de  leur  proposer  un accompagnement.  Une  information  sur  les  risques  liés  au  harcèlement  scolaire, notamment au cyber-harcèlement, est délivrée chaque année aux élèves et parents d'élèves. »
 
@@ -368,41 +374,35 @@ En  France,  plusieurs  motifs  de  discrimination  sont  interdits  dans  le  d
 
 Les motifs de discriminations interdits dans le domaine de l'enseignement sont les suivants :
 
-- Discriminations liées à l'origine sociale
-
-- Discriminations sociales et territoriales
-
-- Discriminations en matière de réussite scolaire et éducative
-
-- Discriminations en matière d'égalité de traitement, d'enseignement et d'accès et de droit à l'enseignement et à l'éducation
-
-- Discriminations en matière de handicap
-
-- Discriminations en matière de ségrégation
+1. Discriminations liées à l'origine sociale
+2. Discriminations sociales et territoriales
+3. Discriminations en matière de réussite scolaire et éducative
+4. Discriminations en matière d'égalité de traitement, d'enseignement et d'accès et de droit à l'enseignement et à l'éducation
+5. Discriminations en matière de handicap
+6. Discriminations en matière de ségrégation
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-7. | Discriminations liées aux difficultés scolaires de l'élève
---- | ---
-8. | Harcèlement commis au sein de l'établissement d'enseignement ou en marge de la vie scolaire ou universitaire
-9. | Discriminations liées au genre
-10. | Discriminations liées au coût d'accès à l'éducation et à l'enseignement supérieur
-11. | Discriminations liées à la religion
-12. | Discriminations liées à l'âge
-13. | Discriminations liées à l'origine
-14. | Discriminations liées à l'orientation sexuelle
-15. | Discriminations liées à l'identité de genre
-16. | Discriminations liées aux patronymes
-17. | Discriminations liées à la situation de famille ou de grossesse
-18. | Discriminations liées à l'état de santé
-19. | Discriminations liées à l'apparence physique
-20. | Discriminations liées à l'appartenance ou la non-appartenance, vraie ou supposée, à une ethnie ou une race prétendue
-21. | Discriminations liées à des opinions politiques, syndicales, philosophiques ou religieuses
-22. | Discriminations liées à la qualité de lanceur d'alerte ou de facilitateur de lanceur d'alerte ou de personne en lien avec un lanceur d'alerte
-23. | Discriminations liées à la capacité à s'exprimer dans une autre langue que le français ;
-24. | Discriminations liées à la domiciliation
+7. Discriminations liées aux difficultés scolaires de l'élève
+8. Harcèlement commis au sein de l'établissement d'enseignement ou en marge de la vie scolaire ou universitaire
+9. Discriminations liées au genre
+10. Discriminations liées au coût d'accès à l'éducation et à l'enseignement supérieur
+11. Discriminations liées à la religion
+12. Discriminations liées à l'âge
+13. Discriminations liées à l'origine
+14. Discriminations liées à l'orientation sexuelle
+15. Discriminations liées à l'identité de genre
+16. Discriminations liées aux patronymes
+17. Discriminations liées à la situation de famille ou de grossesse
+18. Discriminations liées à l'état de santé
+19. Discriminations liées à l'apparence physique
+20. Discriminations liées à l'appartenance ou la non-appartenance, vraie ou supposée, à une ethnie ou une race prétendue
+21. Discriminations liées à des opinions politiques, syndicales, philosophiques ou religieuses
+22. Discriminations liées à la qualité de lanceur d'alerte ou de facilitateur de lanceur d'alerte ou de personne en lien avec un lanceur d'alerte
+23. Discriminations liées à la capacité à s'exprimer dans une autre langue que le français ;
+24. Discriminations liées à la domiciliation
 
 ☒ Les politiques, les programmes et les initiatives visent à interdire et à prévenir la discrimination et à garantir l'égalité d'accès à l'éducation :
 
@@ -462,7 +462,11 @@ Pour répondre aux besoins des élèves, des stages de réussite scolaire peuven
 
 [[START OF PAGE 17]]
 
-dans un environnement social défavorisé, que ce soit dans les zones urbaines, rurales et de montagne ainsi que dans les départements et régions d'outre-mer. » Le ministère de l'Education nationale a accompagné cette mesure par le biais d'un appel à projets visant à déployer 60 postes sur le territoire à la rentrée scolaire 2024. -L'article 11 de la loi pour une école de la confiance du 26 juillet 2019 , donne priorité aux  premières  années  d'école  pour  combattre  l'échec  scolaire,  en  instaurant l'instruction obligatoire pour les enfants de 3 à 5 ans. Ce texte s'applique aux enfants français et étrangers. L'école maternelle est un service gratuit pour les familles. Les apprentissages que les enfants y réalisent sont décisifs, notamment au niveau de la langue,  compétence  déterminante  pour  la  réussite  ultérieure  de  leur  parcours scolaire.
+dans un environnement social défavorisé, que ce soit dans les zones urbaines, rurales et de montagne ainsi que dans les départements et régions d'outre-mer. »
+
+Le ministère de l'Education nationale a accompagné cette mesure par le biais d'un appel à projets visant à déployer 60 postes sur le territoire à la rentrée scolaire 2024.
+
+- L'article 11 de la loi pour une école de la confiance du 26 juillet 2019, donne priorité aux premières années d'école pour combattre l'échec scolaire, en instaurant l'instruction obligatoire pour les enfants de 3 à 5 ans. Ce texte s'applique aux enfants français et étrangers. L'école maternelle est un service gratuit pour les familles. Les apprentissages que les enfants y réalisent sont décisifs, notamment au niveau de la langue, compétence déterminante pour la réussite ultérieure de leur parcours scolaire.
 
 ##### 2. L'école élémentaire :
 
@@ -476,7 +480,7 @@ dans un environnement social défavorisé, que ce soit dans les zones urbaines, 
 
 ##### 1. Politiques d'établissements :
 
--Les internats d'excellence offrent un cadre propice au travail et un accompagnement  au  plus près des besoins des élèves. Ils sont des lieux d'épanouissement  et  de  réussite  scolaire.  En  effet,  collégiens  et  lycéens  motives peuvent, dans ces cadres adaptés à leur besoin, construire leur projet personnel en exprimant leur potentiel et en développant leur ambition scolaire.
+-Les internats d'excellence offrent un cadre propice au travail et un accompagnement au plus près des besoins des élèves. Ils sont des lieux d'épanouissement et de réussite scolaire. En effet, collégiens et lycéens motivés peuvent, dans ces cadres adaptés à leur besoin, construire leur projet personnel en exprimant leur potentiel et en développant leur ambition scolaire.
 
 [[END OF PAGE 17]]
 
@@ -494,7 +498,7 @@ Ces politiques, programmes et initiatives forment un ensemble cohérent qui vise
 
 - Pédagogie égalitaire autour des mathématiques au collège :
 
-- Pour lutter contre les stéréotypes de genre et leurs effets avec la production de ressources  (fiches  actions  et  vidéos)  https://eduscol.education.fr/3739/faireevoluer-les-representations-des-eleves-sur-les-mathematiques
+- Pour lutter contre les stéréotypes de genre et leurs effets avec la production de ressources (fiches actions et vidéos) https://eduscol.education.fr/3739/faire-evoluer-les-representations-des-eleves-sur-les-mathematiques
 
 - Depuis  la  rentrée  2023,  le  ministère  de  l'éducation  nationale  organise  une opération  qui  vise  à  encourager  la  création  de  clubs  de  mathématiques  en collège (au nombre de 1720), afin de développer une image positive et vivante des mathématiques auprès de tous les élèves, en particulier des filles. A cette occasion, des actions de marrainage de clubs de mathématiques par des femmes scientifiques connues sont impulsées.
 
@@ -530,7 +534,7 @@ Un partage des compétences État-région à la suite de la promulgation de la l
 
 La découverte des métiers pour tous les élèves du cycle 4 au collège : depuis  la rentrée 2022, la découverte des métiers a fait l'objet d'une mesure visant à la rendre progressivement  obligatoire  et  systématique  pour  tous  les  collégiens  à  tous  les niveaux du cycle 4 en 2024/2025. Cette mesure permet de faire connaître la diversité des métiers et d'ouvrir les horizons des élèves, contribuant ainsi à lutter contre les effets  d'autocensure  dans  les  choix  des  élèves  liés  aux  déterminismes  de  genre, sociaux,  géographiques  ou  ceux  liés  aux  situations  de  handicap.  Un  référent  par collège sera formé, notamment sur la thématique de l'égalité filles garçons.
 
-L'axe 4 du Plan interministériel pour l'égalité entre les femmes et les hommes 20232027 « Toutes et tous égaux » est dédié à l'objectif de promouvoir la « Culture de l'égalité », à travers les mesures suivantes :
+L'axe 4 du Plan interministériel pour l'égalité entre les femmes et les hommes 2023-2027 « Toutes et tous égaux » est dédié à l'objectif de promouvoir la « Culture de l'égalité », à travers les mesures suivantes :
 
 - La labellisation « égalité filles-garçons » des établissements scolaires, lancée en 2022, avec pour objectif que l'intégralité des établissements du second degré soient engagés dans la démarche d'ici 2027. Plus de 550 établissements qui se sont portés candidats en 2023 sont désormais titulaires d'un label académique reconnaissant leur engagement (niveau 1) ou l'approfondissement de leur démarche (niveau 2).
 
@@ -545,15 +549,15 @@ L'axe 4 du Plan interministériel pour l'égalité entre les femmes et les homme
 [[START OF PAGE 21]]
 
 - Plan interministériel pour l'égalité entre les femmes et les hommes 2023-2027 « Toutes et Tous égaux ». Lancé à l'occasion du 8 mars 2023, journée internationale du droit des femmes, il vise à poursuivre la politique volontariste du Gouvernement en faveur de l'égalité femme-homme et se décline en 161 mesures. Ce plan est structuré en 4 axes : Lutte contre les violences faites aux femmes, santé des femmes, égalité professionnelle et économique et culture de l'égalité. De nombreuses mesures sont dédiées à l'interdiction et la prévention des discriminations et à la garantie de l'égalité dans l'accès à l'égalité. Parmi ces mesures, on peut citer la lutte contre la précarité menstruelle et le remboursement des protections périodiques réutilisables pour les jeunes jusqu'à 25 ans, la diffusion de la culture de l'égalité à l'école et le développement de la mixité dans les filières d'avenir comme le numérique.
----
+
 - Plan national de lutte contre les violences sexistes et sexuelles dans l'enseignement supérieur et la recherche 2021-2025. L'objectif de ce Plan est de franchir une étape supplémentaire dans la prise en charge des situations de violences sexistes et sexuelles. Parmi les axes phares, on compte la formation et la sensibilisation de toute la communauté, le renforcement des dispositifs d'écoute et de signalement, une communication renforcée au niveau local et national et la valorisation de l'engagement des étudiants et des personnels sur le sujet. Ce Plan est doté de 3,5 millions par année.
 - Plan national de lutte contre le racisme, l'antisémitisme et les discriminations liées à l'origine (PRADO) : le ministère est impliqué dans plusieurs actions de ce plan et notamment le soutien à la recherche (travail en collaboration avec l'observatoire ONDES https://ondes.univ-gustave-eiffel.fr/, et appui au développement de bourses CIFRE).
 - Plan national pour l'égalité, contre la haine et les discriminations anti-LGBT+. La politique de lutte contre les discriminations anti-LGBT du MESR est mise en œuvre dans le cadre d'un plan interministériel triennal porté par la Délégation interministérielle à la lutte contre le racisme, l'antisémitisme et la haine anti-LGBT+ (DILCRAH) et par le ministère chargé de l'Égalité entre les femmes et les hommes, et de la lutte contre les discriminations. Le MESR déploie sept mesures de deux axes prioritaires du plan : « Mesurer les phénomènes de LGBTphobie et de discriminations » et « Garantir l'accès et l'effectivité des droits ». Parmi ces mesures : la mise en place d'un groupe de travail sur le respect de l'identité de genre et les prénoms d'usage des personnels et étudiants trans ; le renforcement de l'activité de recherche sur les LGBTphobies ; l'intégration d'un module de sensibilisation sur les LGBTphobies dans les formations de santé. Le ministère soutient également des associations spécialisées sur les droits LGBT+ qui déploient des actions de prévention et de sensibilisation dans les établissements d'enseignement supérieur et de recherche.
 
+☒ Lutte contre la discrimination à travers les programmes d'enseignement :
 ☒ Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de la petite enfance)
-
-☒ Lutte contre la discrimination à travers les programmes d'enseignement : ☒ Dans l'enseignement primaire ☒ Dans l'enseignement secondaire
-
+☒ Dans l'enseignement primaire
+☒ Dans l'enseignement secondaire
 ☒ Dans l'enseignement et la formation techniques et professionnels
 
 [[END OF PAGE 21]]
@@ -570,7 +574,7 @@ L'axe 4 du Plan interministériel pour l'égalité entre les femmes et les homme
 
 L'égalité filles-garçons et la lutte contre les discriminations (sexistes, racistes, antisémites, liées à l'origine et anti-LGBT) sont inscrites dans les programmes d'enseignement de toutes les disciplines dès l'école élémentaire et dans ceux d'enseignement moral et civique (EMC).
 
-Dans les nouveaux programmes d'enseignement moral et civique (EMC), publiés en juin 2024 et dont la mise en œuvre progressive a débuté à partir de la rentrée de septembre 2024, la lutte contre les discriminations est clairement identifiée comme sujet d'études, en particulier pour les classes de CM1, de CM2, de 5 ème et de Première. Pour l'école élémentaire, une attention particulière est portée au développement des compétences psychosociales (empathie, lutte contre les préjugés, etc .).
+Dans les nouveaux programmes d'enseignement moral et civique (EMC), publiés en juin 2024 et dont la mise en œuvre progressive a débuté à partir de la rentrée de septembre 2024, la lutte contre les discriminations est clairement identifiée comme sujet d'études, en particulier pour les classes de CM1, de CM2, de 5ème et de Première. Pour l'école élémentaire, une attention particulière est portée au développement des compétences psychosociales (empathie, lutte contre les préjugés, etc.).
 
 Les programmes d'histoire-géographie, de lettres, de langues, de sciences économiques et sociales et de philosophie permettent également d'aborder la question des inégalités et des discriminations.
 
@@ -628,7 +632,7 @@ Par ailleurs on peut relever différentes initiatives lancées par les établiss
 
  DU de Paris 8 « Formation à la lutte contre le racisme et l'antisémitisme »
 
-☒  Autres mesures adoptées en vue d'éliminer et de prévenir la discrimination dans le domaine de l'enseignement et de garantir l'égalité d'accès à tous les degrés et dans tous les types d'enseignement:
+☒ Autres mesures adoptées en vue d'éliminer et de prévenir la discrimination dans le domaine de l'enseignement et de garantir l'égalité d'accès à tous les degrés et dans tous les types d'enseignement:
 
 La lutte contre toutes formes de ségrégation implique de revoir le modèle d'organisation de l'espace social tout en travaillant à une mixité sociale des populations dans l'espace scolaire qui revient à repenser l'affectation des élèves dans les établissements scolaires comme gage de justice sociale et de cohésion nationale. Ainsi, le ministère de l'éducation nationale et de la jeunesse conduit depuis 2021 une politique plus volontariste encore pour renforcer la mixité sociale au collège et au lycée. Une mesure à portée générale, réaffirmant la priorité des élèves boursiers dans les dérogations à la sectorisation,  est  complétée  par  des  mesures  ciblées,  contribuant  à  renforcer  l'attractivité  des établissements les moins favorisés et à améliorer l'accès des élèves boursiers aux établissements les plus favorisés.
 
@@ -666,21 +670,9 @@ Dans  ce  cas,  la garantie  de  la  lutte  contre  la  discrimination  est  d'a
 
 Selon ces logiques, Education prioritaire et Cités éducatives sont fondatrices de la volonté de l'Etat français  de  « donner  le  plus  à  ceux  qui  ont  le  moins ».  Cette  formule,  associée  à  la  création  de l'éducation prioritaire, rappelle l'enjeu d'assoir le droit à l'éducation dans un pacte social de lutte contre la ségrégation et le déterminisme social.
 
-Dans cet esprit,
+Dans cet esprit, la circulaire du 4 juin 2014 relative à la refondation de l'éducation prioritaire définit trois priorités :
 
-la circulaire du 4 juin 2014 relative à la refondation de l'éducation prioritaire
-
-définit
-
-trois priorités :
-
-
-
-Renforcer l'encadrement par le personnel enseignant : les moyens mobilisés visent à alléger
-
-le nombre d'élèves par classe (dédoublement des classes en GS, CP et CE1) et à dégager du
-
-temps hors classe à l'enseignant pour valoriser la formation et le lien avec les familles,
+ Renforcer l'encadrement par le personnel enseignant : les moyens mobilisés visent à alléger le nombre d'élèves par classe (dédoublement des classes en GS, CP et CE1) et à dégager du temps hors classe à l'enseignant pour valoriser la formation et le lien avec les familles,
 
  Améliorer la rémunération des personnels pour fidéliser les équipes et garantir des repères aux population;
 
@@ -760,7 +752,7 @@ Par ailleurs, des mesures de Prévention des discriminations en éducation physi
 
 ☒ Les enseignants sont formés à l'éducation inclusive 20 et apprennent à valoriser la diversité
 
-☒ D es parcours d'apprentissage variés et flexibles 21 sont proposés
+☒ Des parcours d'apprentissage variés et flexibles 21 sont proposés
 
 ☒ Les programmes et les méthodes d'enseignement sont conçus selon une approche inclusive 22
 
@@ -788,15 +780,15 @@ Par ailleurs, des mesures de Prévention des discriminations en éducation physi
 
 #### Concernant la réduction des inégalités sociales :
 
-- L'implantation d'offres de formation attractives dans les établissements défavorisés , tels les parcours renforcés en langues, joue un rôle important. Ainsi, depuis la rentrée 2022, plus de 50 sections internationales, dont les modalités de recrutement incluent un critère de mixité sociale, ont été ouvertes dans des collèges en REP et REP+.
+- L'implantation d'offres de formation attractives dans les établissements défavorisés, tels les parcours renforcés en langues, joue un rôle important. Ainsi, depuis la rentrée 2022, plus de 50 sections internationales, dont les modalités de recrutement incluent un critère de mixité sociale, ont été ouvertes dans des collèges en REP et REP+.
 
--L'enrichissement fort de la culture des collégiens en matière d'orientation, à travers la mise en œuvre renforcée de la « découverte des métiers » .
+- L'enrichissement fort de la culture des collégiens en matière d'orientation, à travers la mise en œuvre renforcée de la « découverte des métiers ».
 
 À travers cette politique, il s'agit de réduire les déterminismes (notamment sociaux et de genre) en  matière  d'orientation,  en  ouvrant  l'horizon  des  élèves.  En  lien  avec  les  ambitions  du  Plan interministériel égalité femmes-hommes, une attention particulière est portée à la question de la formation  des  filles  aux  filières  et  métiers  scientifiques,  notamment  dans  le  domaine  du numérique.
 
--La mise en place de parcours d'apprentissage variés et flexibles ,  le  ministère  de  l'éducation nationale et de la jeunesse met en place à la rentrée scolaire 2024 l'enseignement par « groupes de besoins » en mathématiques et en français. Cette organisation concerne tous les élèves des niveaux 6 e et 5 e . Références : Arrêté du 15 mars 2024 modifiant l'arrêté du 19 mai 2015 relatif à l'organisation des enseignements dans les classes de collège (MENE2400745A) et note de service « Organiser les enseignements de français et de mathématiques en groupes afin d'élever le niveau de tous les élèves » (MENE2407076N).
+- La mise en place de parcours d'apprentissage variés et flexibles, le ministère de l'éducation nationale et de la jeunesse met en place à la rentrée scolaire 2024 l'enseignement par « groupes de besoins » en mathématiques et en français. Cette organisation concerne tous les élèves des niveaux 6e et 5e. Références : Arrêté du 15 mars 2024 modifiant l'arrêté du 19 mai 2015 relatif à l'organisation des enseignements dans les classes de collège (MENE2400745A) et note de service « Organiser les enseignements de français et de mathématiques en groupes afin d'élever le niveau de tous les élèves » (MENE2407076N).
 
-Voir également https://eduscol.education.fr/4014/les-groupes-en-francais-et-en-mathematiquesen-6e-et-en-5e.
+Voir également https://eduscol.education.fr/4014/les-groupes-en-francais-et-en-mathematiques-en-6e-et-en-5e.
 
 Les groupes de besoins sont évolutifs. Au fil de l'année, un même élève a vocation à faire partie de  groupes  de  besoins  différents.  Le  professeur  en  charge  d'un  « groupe  de  besoins »  est  en mesure de proposer un enseignement le plus adapté possible aux besoins des élèves, pour le cas échéant surmonter les difficultés qui sinon feraient obstacle aux apprentissages.
 
@@ -814,7 +806,7 @@ La  Conférence  nationale  du  handicap  (CNH)  qui  s'est  tenue  le  26  avri
 
 ##### A la rentrée scolaire 2024 :
 
--plus de 490 00 enfants en situation de handicap sont scolarisés dans les établissements scolaires publics et privés sous contrat ;
+- plus de 490 000 enfants en situation de handicap sont scolarisés dans les établissements scolaires publics et privés sous contrat ;
 
 -132 000 accompagnants d'élèves en situation de handicap (AESH) accompagnent 60 % d'entre eux au sein des établissements scolaires ;
 
@@ -857,7 +849,7 @@ Ces mesures témoignent de la volonté de mettre en œuvre le droit commun pour 
 
 Plus  globalement,  l'égalité  des  chances  en  matière  d'enseignement  est  poursuivie  par  des politiques  publiques  permettant  une  différenciation  des  réponses  qui  tiennent  compte  des situations économique, territoriale et sociale de la population scolaire afin de rendre l'école plus juste.
 
-Les Réseaux d'Éducation Prioritaire (REP et REP+) ciblent les établissements scolaires situés dans des zones socialement défavorisées. Ils bénéficient de moyens supplémentaires pour réduire les inégalités scolaires, comme des classes à effectifs réduits, un accompagnement personnalisé pour les élèves, et des formations spécifiques pour les enseignants. Ces réseaux concernent aujourd'hui près de 20% des élèves scolarisés, dont 91% en milieu urbain, ce qui facilite la coopération avec la politique  de  la  ville.  Ainsi,  les  Programmes  de  Réussite  Éducative  (PRE) sont  des  dispositifs d'accompagnement personnalisé pour les élèves en difficultés, mis en œuvre dans les Quartier Politique de la Ville (QPV). Ils mobilisent des acteurs éducatifs, sociaux, et de santé pour apporter un soutien global à l'élève, en dehors du temps scolaire. Le programme de s  cités  éducatives a facilité la coordination des alliances éducatives entre tous les acteurs et les partenaires de l'école . Enfin, à la rentrée 2024, les collèges de l'Éducation prioritaire mettront en place un accueil sur la base du volontariat des élèves, de 8h à 18h, afin de favoriser leurs progrès scolaires et de leur proposer des activités artistiques, culturelles et sportives répondant ainsi à un besoin de soutien pour les familles les plus éloignées de la culture scolaire et les plus défavorisées. La refondation de l'Education prioritaire (EP) avec la mise place des réseaux d'Éducation Prioritaire (REP/REP+) consacrée  dans  la  circulaire  n°  2014-077  du  4-6-2014  vise  à  offrir  des  moyens supplémentaires  pour  garantir  aux  élèves  issus  de  milieux  défavorisés  les  mêmes  chances  de réussite que les autres et répond aux objectifs de l'article L.111.1 du code de l'éducation. Les enseignants, et ceux particulièrement en Éducation prioritaire renforcée (REP+) pour lesquels il existe des journées de formation complémentaire (jusqu'à neuf journées pour les enseignants du premier degré), sont formés tout au long de leur carrière à l'accueil des enfants les plus éloignés de l'École. Ils sont encouragés à utiliser des approches pédagogiques différenciées pour répondre aux besoins spécifiques des élèves, y compris ceux en situation de handicap ou ayant des besoins éducatifs particuliers. Par ailleurs, d'autres dispositifs d'accueil et d'accompagnement ont été mis en œuvre pour soutenir les familles défavorisées en tenant compte de leurs spécificités. Il en est ainsi de l'opération d'accueil des familles migrantes, « Ouvrir l'école aux parents pour la réussite des enfants », conduite en partenariat entre le ministère de l'Intérieur et le ministère chargé de l'Éducation  nationale  (Circulaire  n°  2017-060  du  3-4-2017),  qui  permet  de  renforcer  les compétences  linguistiques  des  parents,  de  leur  expliciter  le  fonctionnement  de  l'école  et  de construire le socle des connaissances citoyennes.
+Les Réseaux d'Éducation Prioritaire (REP et REP+) ciblent les établissements scolaires situés dans des zones socialement défavorisées. Ils bénéficient de moyens supplémentaires pour réduire les inégalités scolaires, comme des classes à effectifs réduits, un accompagnement personnalisé pour les élèves, et des formations spécifiques pour les enseignants. Ces réseaux concernent aujourd'hui près de 20% des élèves scolarisés, dont 91% en milieu urbain, ce qui facilite la coopération avec la politique de la ville. Ainsi, les Programmes de Réussite Éducative (PRE) sont des dispositifs d'accompagnement personnalisé pour les élèves en difficultés, mis en œuvre dans les Quartier Politique de la Ville (QPV). Ils mobilisent des acteurs éducatifs, sociaux, et de santé pour apporter un soutien global à l'élève, en dehors du temps scolaire. Le programme des cités éducatives a facilité la coordination des alliances éducatives entre tous les acteurs et les partenaires de l'école. Enfin, à la rentrée 2024, les collèges de l'Éducation prioritaire mettront en place un accueil sur la base du volontariat des élèves, de 8h à 18h, afin de favoriser leurs progrès scolaires et de leur proposer des activités artistiques, culturelles et sportives répondant ainsi à un besoin de soutien pour les familles les plus éloignées de la culture scolaire et les plus défavorisées. La refondation de l'Education prioritaire (EP) avec la mise place des réseaux d'Éducation Prioritaire (REP/REP+) consacrée dans la circulaire n° 2014-077 du 4-6-2014 vise à offrir des moyens supplémentaires pour garantir aux élèves issus de milieux défavorisés les mêmes chances de réussite que les autres et répond aux objectifs de l'article L.111.1 du code de l'éducation. Les enseignants, et ceux particulièrement en Éducation prioritaire renforcée (REP+) pour lesquels il existe des journées de formation complémentaire (jusqu'à neuf journées pour les enseignants du premier degré), sont formés tout au long de leur carrière à l'accueil des enfants les plus éloignés de l'École. Ils sont encouragés à utiliser des approches pédagogiques différenciées pour répondre aux besoins spécifiques des élèves, y compris ceux en situation de handicap ou ayant des besoins éducatifs particuliers. Par ailleurs, d'autres dispositifs d'accueil et d'accompagnement ont été mis en œuvre pour soutenir les familles défavorisées en tenant compte de leurs spécificités. Il en est ainsi de l'opération d'accueil des familles migrantes, « Ouvrir l'école aux parents pour la réussite des enfants », conduite en partenariat entre le ministère de l'Intérieur et le ministère chargé de l'Éducation nationale (Circulaire n° 2017-060 du 3-4-2017), qui permet de renforcer les compétences linguistiques des parents, de leur expliciter le fonctionnement de l'école et de construire le socle des connaissances citoyennes.
 
 [[END OF PAGE 31]]
 
@@ -875,7 +867,7 @@ Les Territoires Éducatifs Ruraux (TER) ciblent quant à eux les établissements
 
 Des mesures d'ordre systémiques viennent compléter les dispositifs d'aménagement du territoire et la mixité sociale est recherchée dans tous les établissements scolaires. En ajustant les secteurs de recrutement des collèges et des lycées, les instances locales cherchent à éviter la ségrégation sociale  et  à  promouvoir  une  répartition  plus  équilibrée  des  élèves  issus  de  différents  milieux sociaux.
 
-Les « Cordées de la réussite » font  partie  d'un  dispositif  co-piloté  par  la  DGESCO et la DGESIP permettant à des élèves de la 4 e  à la Terminale de bénéficier d'un accompagnement renforcé à l'orientation  comprenant un soutien à la scolarité, un  renforcement des compétences psychosociale et une ouverture sociale et culturelle à la poursuite d'études. Ce dispositif est destiné en priorité aux élèves issus de QPV, aux élèves ruraux et aux élèves scolarisés en voie professionnelle. Il est complété par la mise en œuvre d'une plateforme « mon stage de 3 e » qui aide les élèves des QPV à trouver un stage sans le soutien du réseau familial de connaissances.
+Les « Cordées de la réussite » font partie d'un dispositif co-piloté par la DGESCO et la DGESIP permettant à des élèves de la 4e à la Terminale de bénéficier d'un accompagnement renforcé à l'orientation comprenant un soutien à la scolarité, un renforcement des compétences psycho-sociale et une ouverture sociale et culturelle à la poursuite d'études. Ce dispositif est destiné en priorité aux élèves issus de QPV, aux élèves ruraux et aux élèves scolarisés en voie professionnelle. Il est complété par la mise en œuvre d'une plateforme « mon stage de 3e » qui aide les élèves des QPV à trouver un stage sans le soutien du réseau familial de connaissances.
 
 Les  « Vacances  apprenantes » sont  un  dispositif  qui  permet,  d'une  part,  de  renforcer  les connaissances des élèves pendant les vacances pour ne pas les laisser plusieurs semaines sans « école » et, d'autre part, de leur proposer des activités artistiques, culturelles et sportives de loisir.  Ce  dispositif  est  particulièrement  mis  en  œuvre  dans  les  établissements  d'Éducation prioritaire.
 
@@ -885,7 +877,7 @@ Ces mesures, en constante évolution, visent à créer un environnement éducati
 
 [[START OF PAGE 33]]
 
-- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de nondiscrimination et d'égalité des chances  dans  le  domaine  de  l'enseignement ?  Des  données quantitatives succinctes pourront être ajoutées si nécessaire.
+- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de non-discrimination et d'égalité des chances dans le domaine de l'enseignement ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
 Malgré les actions mises en œuvre, les choix d'orientation des élèves sont encore marqués par les déterminismes de genre et sociaux : les élèves de milieu favorisé choisissent des parcours scolaires plus généraux et longs, les filles choisissent des filières plus littéraires et tournées vers le soin aux personnes. Les biais persistent et ont un effet involontaire de renforcement de ces différences. Ainsi,  les  conseils  de  classe  tendent  à  proposer  plus  souvent  aux  élèves  de  milieu  favorisé  des parcours  vers  des  voies  générale  et  technologique  qu'aux  élèves  de  milieu  défavorisé  ou  aux garçons des filières scientifiques et techniques qu'aux filles.
 
@@ -897,7 +889,7 @@ Malgré les actions mises en œuvre, les choix d'orientation des élèves sont e
 
  La  planification  du  secteur  éducatif  tient compte du genre
 
-☒ M esures positives ou affirmatives
+☒ Mesures positives ou affirmatives
 
  Incitations financières et bourses d'études
 
@@ -907,7 +899,7 @@ Malgré les actions mises en œuvre, les choix d'orientation des élèves sont e
 
  Autres:
 
- L es obstacles qui entravent l'accès à l'éducation des filles enceintes et des jeunes mères ont tous été éliminés pour garantir la continuité de l'enseignement
+ Les obstacles qui entravent l'accès à l'éducation des filles enceintes et des jeunes mères ont tous été éliminés pour garantir la continuité de l'enseignement
 
  Des programmes de réintégration des jeunes mères sont prévus
 
@@ -972,13 +964,15 @@ Par exception, l'article 145 du code civil prévoit que le procureur de la Répu
 
 Les statistiques de l'INSEE établissent qu'entre 2012 et 2022, le nombre de mariages dont l'un des époux est mineur est en constante diminution : 32 en 2012, 11 entre 2014 et 2015, inférieur à 5 depuis 2018 (à l'exception des 7 mariages célébrés en 2020).
 
-L'article 145 du code civil ne prévoit pas d'âge minimal en-deçà duquel le procureur de la République ne peut pas accorder de dispense pour motifs graves. Toutefois, les données de l'INSEE  relatives  aux  mariages  des  mineurs  concernent  uniquement  des  mineurs  âgés  de quinze  ans  et  plus.  Par  ailleurs,  l'article  227-25  du  code  pénal  réprime,  pour  défaut  de consentement, les relations sexuelles entre un adulte et un mineur de 15 ans et entre un adulte et un mineur de 18 ans lorsque l'adulte a une autorité de fait ou de droit sur le mineur. Il est donc possible d'estimer que le procureur de la République n'accordera pas de dispense d'âge pour un futur époux mineur âgé de moins de 15 ans.
+L'article 145 du code civil ne prévoit pas d'âge minimal en-deçà duquel le procureur de la République ne peut pas accorder de dispense pour motifs graves. Toutefois, les données de l'INSEE relatives aux mariages des mineurs concernent uniquement des mineurs âgés de
 
 > 26 On notera que selon la Recommandation générale/observation générale conjointe no 31 du Comité pour l'élimination de la discrimination à l'égard des femmes et no 18 du Comité des droits de l'enfant sur les pratiques préjudiciables, para. 20: « à titre exceptionnel, le mariage d'un enfant mature de moins de 18 ans et doté de toutes ses capacités peut être autorisé, à condition que l'enfant ait au moins 16 ans et que la décision soit prise par un juge pour des motifs légitimes exceptionnels définis par la loi et sur la base de preuves de la maturité de l'intéressé et non par soumission aux cultures et traditions ».
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
+quinze ans et plus. Par ailleurs, l'article 227-25 du code pénal réprime, pour défaut de consentement, les relations sexuelles entre un adulte et un mineur de 15 ans et entre un adulte et un mineur de 18 ans lorsque l'adulte a une autorité de fait ou de droit sur le mineur. Il est donc possible d'estimer que le procureur de la République n'accordera pas de dispense d'âge pour un futur époux mineur âgé de moins de 15 ans.
 
 #### Minorités nationales :
 
@@ -1064,17 +1058,19 @@ Le principe constitutionnel énoncé à l'alinéa 13 du préambule de la constit
 
 L'article L. 111-1 du code de l'éducation dispose que le service public de l'éducation veille à la scolarisation inclusive de tous les enfants, sans aucune distinction. L'article L. 111-2 de ce même code dispose que tout enfant a droit à une formation scolaire. Il résulte de ces dispositions que l'instruction est un droit mais aussi une obligation pour tout enfant présent ou arrivant sur le territoire français.  A cet égard, l'article L. 131-1 du code de l'éducation dispose que l'instruction est obligatoire pour chaque enfant dès l'âge de trois ans et jusqu'à l'âge de seize ans.
 
-L'article  L.  312-10  du code de l'éducation dispose que l'enseignement des langues et cultures régionales appartenant au patrimoine de la France est favorisé prioritairement dans les régions où elles sont en usage. L'article L. 321-4 de ce même code vise les outre-mer en précisant que dans les académies d'outre-mer, des approches pédagogiques spécifiques sont prévues dans l'enseignement de l'expression orale et écrite et de la lecture au profit des élèves issus de milieux principalement créolophone ou amérindien. Pour l'application de ces dispositions, la circulaire du 14 décembre 2021 relative à la promotion de l'enseignement des langues et cultures régionales vise des langues d'outre-mer s'agissant du tahitien, des langues mélanésiennes (drehu, nangone, païci, aïje), du wallésien, du futunien, du kibushi et du shimaoré). L'article L. 311-4 du code de l'éducation porte sur l'adaptation des programmes d'enseignement. Il  dispose  que  « Les  programmes  scolaires  comportent,  à  tous  les  stades  de  la  scolarité,  des enseignements destinés à faire connaître la diversité et la richesse des cultures représentées en France,  y  compris  dans  les  territoires  d'outre-mer ».  En  application  de  cette  disposition,  de  la classe  de  cours  moyen  première  année à  la  classe  terminale,  les  programmes d'histoire et  de géographie, ainsi que les enseignements de spécialité histoire-géographie, géopolitique, sciences politiques ont été adaptés. Le programme d'enseignement des sciences de la vie et de la terre a également été adapté pour le cycle 4.
+L'article L. 312-10 du code de l'éducation dispose que l'enseignement des langues et cultures régionales appartenant au patrimoine de la France est favorisé prioritairement dans les régions où elles sont en usage. L'article L. 321-4 de ce même code vise les outre-mer en précisant que dans les académies d'outre-mer, des approches pédagogiques spécifiques sont prévues dans l'enseignement de l'expression orale et écrite et de la lecture au profit des élèves issus de milieux
 
-30
-
-> Supra note 15.
+> 30 Supra note 15.
 
 > 31 Supra note 16.
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+
+principalement créolophone ou amérindien. Pour l'application de ces dispositions, la circulaire du 14 décembre 2021 relative à la promotion de l'enseignement des langues et cultures régionales vise des langues d'outre-mer s'agissant du tahitien, des langues mélanésiennes (drehu, nangone, païci, aïje), du wallésien, du futunien, du kibushi et du shimaoré).
+
+L'article L. 311-4 du code de l'éducation porte sur l'adaptation des programmes d'enseignement. Il dispose que « Les programmes scolaires comportent, à tous les stades de la scolarité, des enseignements destinés à faire connaître la diversité et la richesse des cultures représentées en France, y compris dans les territoires d'outre-mer ». En application de cette disposition, de la classe de cours moyen première année à la classe terminale, les programmes d'histoire et de géographie, ainsi que les enseignements de spécialité histoire-géographie, géopolitique, sciences politiques ont été adaptés. Le programme d'enseignement des sciences de la vie et de la terre a également été adapté pour le cycle 4.
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des peuples autochtones? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
@@ -1101,9 +1097,7 @@ Dans le contexte d'une forte pression démographique, ces deux  académies  bén
 Dans le cadre des dispositions législatives prévues par le code de l'éducation (cf. supra : minorités nationales),  le  plurilinguisme  est  pris  en  compte.  Il  constitue  un  levier  pour  l'apprentissage  du français et des fondamentaux pour des enfants dont la langue maternelle n'est pas le français. Tel est l'objectif poursuivi, avec le dispositif des intervenants en langue maternelle (ILM) en Guyane ou 'Eveil aux langues' à Mayotte.
 
 ##### Des adaptations de programmes pour la Nouvelle-Calédonie et de la Polynésie française
-Calédonie et Polynésie française), l'Etat y conserve la collation et la délivrance des titres et des diplômes. Ces territoires ont la faculté de suivre les programmes nationaux en les adaptant ou de créer  des  enseignements  qui  leur  sont  propres  (en  Nouvelle-Calédonie,  enseignement  des
-
-Dans les territoires ultramarins où la compétence enseignement scolaire a été transférée (Nouvelle- fondamentaux de la culture kanak - EFCK).
+Dans les territoires ultramarins où la compétence enseignement scolaire a été transférée (Nouvelle-Calédonie et Polynésie française), l'Etat y conserve la collation et la délivrance des titres et des diplômes. Ces territoires ont la faculté de suivre les programmes nationaux en les adaptant ou de créer des enseignements qui leur sont propres (en Nouvelle-Calédonie, enseignement des fondamentaux de la culture kanak - EFCK).
 
 #### Populations  en  déplacement  (migrants,  réfugiés,  demandeurs  d'asile,  personnes  apatrides  et personnes déplacées dans leur propre pays) et populations prises au piège 32 :
 
@@ -1169,7 +1163,7 @@ Contrairement à d'autres pays européens, l'arrivée accrue de nouveaux migrant
 
 ##### Les dispositifs pour les élèves allophones
 
-La  Circulaire  n°2012-141  du  novembre  2012  réaffirme la  scolarisation  des  élèves  allophones nouvellement arrivés en France comme relevant du droit commun et de l'instruction obligatoire. Cette circulaire renforce le principe d'inclusion scolaire de chaque enfant et organise la prise en compte des besoins éducatifs particuliers des élèves allophones nouvellement arrivés en France : enseignement  complémentaire  de  Français  Langue  Seconde  dispensé  par  des  enseignants spécifiquement formés, différenciation pédagogique durant les cours suivis en classe ordinaire pour  garantir  l'acquisition  du  socle  commun  de  connaissances,  de  compétences  et  de  culture devant être acquis par tout élève. https://eduscol.education.fr/139/le-socle-commun-deconnaissances-de-competences-et-de-culture)
+La Circulaire n°2012-141 du novembre 2012 réaffirme la scolarisation des élèves allophones nouvellement arrivés en France comme relevant du droit commun et de l'instruction obligatoire. Cette circulaire renforce le principe d'inclusion scolaire de chaque enfant et organise la prise en compte des besoins éducatifs particuliers des élèves allophones nouvellement arrivés en France : enseignement complémentaire de Français Langue Seconde dispensé par des enseignants spécifiquement formés, différenciation pédagogique durant les cours suivis en classe ordinaire pour garantir l'acquisition du socle commun de connaissances, de compétences et de culture devant être acquis par tout élève. https://eduscol.education.fr/139/le-socle-commun-de-connaissances-de-competences-et-de-culture)
 
 Les articles D.321-3 et D. 332-6 confirment la prise en compte des besoins éducatifs particuliers des élèves allophones nouvellement arrivés : « À tout  moment  de la scolarité, un accompagnement pédagogique spécifique est apporté aux élèves qui manifestent des besoins éducatifs  particuliers  […].  Les  élèves  allophones  nouvellement  arrivés  en  France  bénéficient d'actions particulières favorisant leur accueil et leur scolarisation. »
 
@@ -1199,7 +1193,7 @@ A  l'échelle  régionale, les  Centres  académiques  pour  la  scolarisation  
 
 ☒ Leur inclusion dans les écoles ordinaires est garantie
 
- L es écoles spéciales font office de centres de ressources pour les écoles inclusives
+ Les écoles spéciales font office de centres de ressources pour les écoles inclusives
 
 ☒ Mesures d'action positive ou affirmative
 
@@ -1217,9 +1211,7 @@ A  l'échelle  régionale, les  Centres  académiques  pour  la  scolarisation  
 
 > 37 Supra note 15.
 
-38
-
-Supra note 16.
+> 38 Supra note 16.
 
 [[END OF PAGE 41]]
 
@@ -1265,7 +1257,7 @@ Afin de favoriser la continuité des adaptations et aménagements des méthodes 
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des personnes handicapées? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
-Les difficultés rencontrées sont qualitatives et relatives à l'évaluation continue du besoin des élèves.  Si  en  principe  et  en  droit,  les  élèves  en  situation  de  handicap  sont  désormais massivement scolarisés en milieu ordinaire - près d'1/2 millions durant l'année scolaire 20242025 -  la qualité des réponses apportées en lien avec le secteur médico-social doit encore progresser. Par ailleurs, l'attribution d'une aide humaine qui ne correspond pas au besoin de l'élève peut constituer un frein au développement de son autonomie, voire contribuer à une forme de stigmatisation mal vécue par l'élève. Si l'attribution de l'aide humaine peut rassurer les parents, elle ne constitue pas la réponse unique aux besoins de l'élève.
+Les difficultés rencontrées sont qualitatives et relatives à l'évaluation continue du besoin des élèves. Si en principe et en droit, les élèves en situation de handicap sont désormais massivement scolarisés en milieu ordinaire - près d'1/2 millions durant l'année scolaire 2024-2025 - la qualité des réponses apportées en lien avec le secteur médico-social doit encore progresser. Par ailleurs, l'attribution d'une aide humaine qui ne correspond pas au besoin de l'élève peut constituer un frein au développement de son autonomie, voire contribuer à une forme de stigmatisation mal vécue par l'élève. Si l'attribution de l'aide humaine peut rassurer les parents, elle ne constitue pas la réponse unique aux besoins de l'élève.
 
 #### Étudiants issus de familles pauvres :
 
@@ -1292,16 +1284,16 @@ Les difficultés rencontrées sont qualitatives et relatives à l'évaluation co
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 
 Le ministère de l'Éducation nationale est responsable de l'élaboration et de la mise en œuvre des mesures politiques et juridiques qui garantissent une scolarité équitable et inclusive pour tous les élèves, y compris ceux issus de milieux défavorisés.
----
+
 ##### L'éducation prioritaire
 est un dispositif mis en place pour réduire les inégalités sociales et scolaires. Les Réseaux d'Éducation Prioritaire (REP) et les Réseaux d'Éducation Prioritaire Renforcés (REP+) concentrent des moyens supplémentaires dans les établissements scolaires situés dans les zones les plus défavorisées très souvent situées en Quartier politique de la ville (QPV), tels que des financements en heures supplémentaires pour les enseignants qui portent des projets éducatifs, des classes à effectifs réduits pour un suivi différencié plus fin, et enfin une formation spécifique et renforcée pour les enseignants qui est intégrée dans leur temps de service. Cela permet d'assurer un meilleur encadrement des élèves et de lutter contre l'échec scolaire en adaptant les modalités d'accueil et de traitement de la difficulté scolaire de chaque élève.
 ##### Les aides spécifiques couvrant les frais annexes à la scolarité
-L'école publique en France est gratuite, ce qui signifie que les familles n'ont pas à payer de frais de scolarité pour que leurs enfants puissent recevoir une éducation de qualité. De plus, des aides spécifiques, comme les bourses de collège et de lycée, attribuées en fonction des revenus et des charges des familles, sont mises en place pour aider les familles à faible revenu à couvrir les frais annexes tels que les repas à la cantine, les activités périscolaires... D'autres aides, comme l'Allocation de rentrée scolaire (ARS), sont également disponibles pour aider à l'achat de
+L'école publique en France est gratuite, ce qui signifie que les familles n'ont pas à payer de frais de scolarité pour que leurs enfants puissent recevoir une éducation de qualité. De plus, des aides spécifiques, comme les bourses de collège et de lycée, attribuées en fonction des revenus et des charges des familles, sont mises en place pour aider les familles à faible revenu à couvrir les frais annexes tels que les repas à la cantine, les activités périscolaires... D'autres aides, comme l'Allocation de rentrée scolaire (ARS), sont également disponibles pour aider à l'achat de fournitures scolaires.
 ##### Les internats de la réussite
 s'adressent aux élèves de familles en situation précaire ou résidant dans des zones rurales éloignées et offrent une solution permettant de garantir un environnement propice aux études. Ces internats sont gratuits ou proposés à des tarifs modulés selon les ressources des familles. Une prime d'internat vise notamment à permettre un reste à charge minimum pour les familles les plus pauvres.
 ##### Des initiatives locales afin de favoriser la mixité sociale et scolaire :
 des expérimentations et des politiques de sectorisation ont été mises en place dans certaines académies pour diversifier le recrutement des élèves dans les établissements scolaires. Cela vise à éviter la ségrégation socio-spatiale et à garantir une répartition plus équitable des ressources entre les établissements.
-- L'Éducation nationale collabore avec des associations et des collectivités locales pour développer des programmes de soutien scolaire, des activités périscolaires enrichissantes, et des aides aux devoirs. Ces initiatives contribuent à offrir des opportunités d'apprentissage supplémentaires et à combler les écarts entre les élèves de différents milieux socio- économiques.
+- L'Éducation nationale collabore avec des associations et des collectivités locales pour développer des programmes de soutien scolaire, des activités périscolaires enrichissantes, et des aides aux devoirs. Ces initiatives contribuent à offrir des opportunités d'apprentissage supplémentaires et à combler les écarts entre les élèves de différents milieux socio-économiques.
 En conclusion, l'État, à travers ces mesures, s'efforce de garantir une éducation inclusive et de qualité pour tous les élèves, indépendamment de leur origine sociale ou économique. Ces politiques visent à réduire les inégalités, à offrir des chances égales de réussite à tous les élèves, et à promouvoir une école qui soit un lieu de mixité sociale et d'égalité des chances.
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des étudiants issus de familles pauvres? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
@@ -1395,7 +1387,7 @@ L'article  L  131-5  du  Code  de  l'Education précise  que  «  La  présente 
 
 ☒ L'enseignement préprimaire est gratuit pour tous. Veuillez indiquer la durée de l'enseignement et préciser dans quelle mesure il est proposé à titre gratuit :
 
-L'article L132-1 du Code de l'Education stipule la gratuité de l'enseignement préélémentaire : « L'enseignement public dispensé dans les écoles maternelles et élémentaires est gratuit. » https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038901897/#:~:text=L'enseigne ment%20public%20dispens%C3%A9%20dans,%C3%A0%20la%20rentr%C3%A9e%20scolaire% 202019
+L'article L132-1 du Code de l'Education stipule la gratuité de l'enseignement préélémentaire : « L'enseignement public dispensé dans les écoles maternelles et élémentaires est gratuit. » https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038901897/#:~:text=L'enseignement%20public%20dispens%C3%A9%20dans,%C3%A0%20la%20rentr%C3%A9e%20scolaire%202019
 
  L'enseignement préprimaire n'est pas gratuit.
 
@@ -1411,9 +1403,7 @@ L'article  131-2 prévoit  que  «  L'instruction  obligatoire  peut  être  don
 
 Dans le cadre  du  service  public  de  l'enseignement et  afin  de  contribuer  à  ses  missions,  un service  public  du  numérique  éducatif  et  de  l'enseignement  à  distance  est  organisé  pour, notamment […] pour assurer l'instruction des enfants qui ne peuvent être scolarisés dans une école ou dans un établissement scolaire, notamment ceux à besoins éducatifs particuliers. Des supports  numériques  adaptés  peuvent  être  fournis  en  fonction  des  besoins  spécifiques  de l'élève. »
 
-- Quelles  sont  les  difficultés  rencontrées  en  ce  qui  concerne  la  réalisation  de  l'éducation  et  de  la protection de la petite enfance et de l'enseignement préprimaire?
-
-- Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.
+- Quelles sont les difficultés rencontrées en ce qui concerne la réalisation de l'éducation et de la protection de la petite enfance et de l'enseignement préprimaire?
 
  Accès limité
 
@@ -1429,9 +1419,11 @@ Dans le cadre  du  service  public  de  l'enseignement et  afin  de  contribuer 
 
  Manque de soutien de la part des familles
 
+- Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.
+
 98,4% de scolarisation des élèves de 3 ans à la rentrée 2023 (instruction obligatoire)
 
-- 9,3 % de scolarisation des élèves de 2 ans à la rentrée 2023
+9,3 % de scolarisation des élèves de 2 ans à la rentrée 2023
 
 ### 2.2 Enseignement primaire et secondaire
 
@@ -1455,7 +1447,7 @@ https://www.legifrance.gouv.fr/codes/id/LEGIARTI000038901972/2019-09-
 
 02/#:~:text=Article%20L131%2D1,-
 
-Modifi%C3%A9%20par%20LOI&text=L'instruction%20est%20obligatoire%20pour,imposant%20un e%20scolarit%C3%A9%20plus%20longue
+Modifi%C3%A9%20par%20LOI&text=L'instruction%20est%20obligatoire%20pour,imposant%20une%20scolarit%C3%A9%20plus%20longue
 
 - L'enseignement primaire est-il obligatoire et gratuit ?
 
@@ -1469,7 +1461,7 @@ Modifi%C3%A9%20par%20LOI&text=L'instruction%20est%20obligatoire%20pour,imposant%
 
 - Veuillez donner la liste des lois et politiques pertinentes. Le cas échéant, veuillez fournir des renseignements  sur  les  coûts  directs  (tels  que  les  frais  d'inscription  et  de  scolarisation)  et indirects (frais d'examen, fournitures scolaires, uniformes, transports et contributions obligatoires  des  parents).  Des  données  quantitatives  succinctes  pourront  être  ajoutées  si nécessaire.
 
-L'article L132-1 du Code de l'Education stipule la gratuité de l'enseignement primaire :  « L'enseignement  public  dispensé  dans  les  écoles  maternelles  et  élémentaires  est  gratuit.  » https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038901897/#:~:text=L'enseign ement%20public%20dispens%C3%A9%20dans,%C3%A0%20la%20rentr%C3%A9e%20scolaire %202019
+L'article L132-1 du Code de l'Education stipule la gratuité de l'enseignement primaire : « L'enseignement public dispensé dans les écoles maternelles et élémentaires est gratuit. » https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038901897/#:~:text=L'enseignement%20public%20dispens%C3%A9%20dans,%C3%A0%20la%20rentr%C3%A9e%20scolaire%202019
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation de l'enseignement primaire?
 
@@ -1549,7 +1541,7 @@ Selon l'article L. 131-1 du code de l'éducation , l'instruction est obligatoire
 
 Selon l'article L. 114-1 du même code (loi du 26 juillet 2019), la formation est obligatoire pour tout jeune  jusqu'à  l'âge  de  sa  majorité  :  «  cette  obligation  est  remplie  lorsque  le  jeune  poursuit  sa scolarité dans un établissement d'enseignement public ou privé, lorsqu'il est apprenti ou stagiaire de la formation professionnelle, lorsqu'il occupe un emploi ou effectue un service civique ou lorsqu'il bénéficie d'un dispositif d'accompagnement ou d'insertion sociale et professionnelle. »
 
-La  lutte  contre  le  décrochage  scolaire  repose  sur  une  politique  publique  interministérielle, déconcentrée et décentralisée ,  qui prend appui sur une coordination des acteurs de l'éducation nationale, de la formation et de l'insertion, en lien avec les régions, pour le repérage, la prise en charge  et  le  suivi  des  jeunes  décrocheurs.    En  France,  le  taux  de  sortants  précoces  du  système éducatif,  avec  au  plus  le  diplôme  national  du  brevet,  parmi  les  jeunes  âgés  entre  18  et  24  ans, s'élevait à 13 % en 2003, et à 7,6 % en 2022, ce qui place le pays en bonne position, comparable à celle de la Finlande, en deçà de la moyenne actuelle de l'Union européenne à 9,6 %. Des référents « décrochages scolaires » interviennent dans les établissements du second degré les plus exposés à l'absentéisme  et  aux  ruptures  scolaires,  pour  mobiliser  et  coordonner  l'activité  préventive  des éducatives. Des politiques de la ville mettent en œuvre  des démarches  de soutien et d'accompagnement scolaires. De plus, de manière plus conjoncturelle, à l'occasion de la crise de la Covid 19, l'objectif permanent est d'assurer la continuité pédagogique des enseignements pour les élèves (notamment les plus fragiles, et pour éviter le décrochage), tant pour ce qui concerne l'accès aux enseignements à distance dans des conditions équitables pour tous que pour veiller en tant que de besoin, à la cohérence entre la partie dispensée en présentiel et celle dispensée en distanciel.
+La lutte contre le décrochage scolaire repose sur une politique publique interministérielle, déconcentrée et décentralisée, qui prend appui sur une coordination des acteurs de l'éducation nationale, de la formation et de l'insertion, en lien avec les régions, pour le repérage, la prise en charge et le suivi des jeunes décrocheurs. En France, le taux de sortants précoces du système éducatif, avec au plus le diplôme national du brevet, parmi les jeunes âgés entre 18 et 24 ans, s'élevait à 13 % en 2003, et à 7,6 % en 2022, ce qui place le pays en bonne position, comparable à celle de la Finlande, en deçà de la moyenne actuelle de l'Union européenne à 9,6 %. Des référents « décrochages scolaires » interviennent dans les établissements du second degré les plus exposés à l'absentéisme et aux ruptures scolaires, pour mobiliser et coordonner l'activité préventive des équipes éducatives. Des politiques de la ville mettent en œuvre des démarches de soutien et d'accompagnement scolaires. De plus, de manière plus conjoncturelle, à l'occasion de la crise de la Covid 19, l'objectif permanent est d'assurer la continuité pédagogique des enseignements pour les élèves (notamment les plus fragiles, et pour éviter le décrochage), tant pour ce qui concerne l'accès aux enseignements à distance dans des conditions équitables pour tous que pour veiller en tant que de besoin, à la cohérence entre la partie dispensée en présentiel et celle dispensée en distanciel.
 
 - Les premier et deuxième cycles de l'enseignement secondaire sont-ils obligatoires et gratuits?
 
@@ -1584,9 +1576,9 @@ Dans l'enseignement secondaire, si le département a la charge des collèges, la
 ##### Les fournitures scolaires
 restent à la charge des familles mais une allocation de rentrée scolaire est allouée pour permettre aux plus défavorisées socialement de faire face aux coûts qu'elles entraînent. Les bourses nationales du second degré, complétées parfois par les départements ou les régions, aident les familles à faire face aux dépenses de scolarisation. La collectivité territoriale « Ville de Paris » va octroyer à la rentrée scolaire 2024, un kit de fournitures scolaires (composé d'une ardoise, d'une règle, de ciseaux, de stylos, de crayons de couleur, de feutres, d'un bâton de colle et d'un taille-crayon) à l'ensemble des 13 000 élèves qui entreront en cours préparatoire. D'autres villes telles que Lille ou Marseille sont déjà inscrites dans cette démarche depuis quelques années.
 
--  Veuillez  indiquer  si  l'âge  minimum  d'admission  à  l'emploi  correspond  à  la  fin  de  la  scolarité obligatoire : Pour mémoire: la législation du travail et les lois relatives à la scolarité obligatoire sont interdépendantes et l'âge minimum d'admission à l'emploi, une fois que l'enfant a terminé la scolarité obligatoire, il est exposé à
+- Veuillez indiquer si l'âge minimum d'admission à l'emploi correspond à la fin de la scolarité obligatoire :
 
-se renforcent mutuellement. Si l'âge minimum d'admission à l'emploi est inférieur à l'âge de fin de la scolarité obligatoire, il y a un risque que l'enfant abandonne l'école pour travailler et, de ce fait, ne parvienne pas au terme de la scolarité obligatoire. À l'inverse, si l'âge de fin de la scolarité est inférieur à l'exploitation des enfants et à des violations de la législation du travail.
+Pour mémoire: la législation du travail et les lois relatives à la scolarité obligatoire sont interdépendantes et se renforcent mutuellement. Si l'âge minimum d'admission à l'emploi est inférieur à l'âge de fin de la scolarité obligatoire, il y a un risque que l'enfant abandonne l'école pour travailler et, de ce fait, ne parvienne pas au terme de la scolarité obligatoire. À l'inverse, si l'âge de fin de la scolarité est inférieur à l'âge minimum d'admission à l'emploi, une fois que l'enfant a terminé la scolarité obligatoire, il est exposé à l'exploitation des enfants et à des violations de la législation du travail.
 
 Oui o Non o
 
@@ -1666,7 +1658,7 @@ D'une manière générale, les  évaluations  nationales et  internationales  so
 
 ###### En français
 
-27,2 % des élèves n'ont pas le niveau attendu à l'entrée en 6e. La fluence est mal maîtrisée par une part croissante des collégiens : 42,7% des élèves de 6e ont des fragilités voire un En mathématiques , la tendance est inversée : 35,6 % des filles appartiennent aux groupes des élèves les moins performants contre 30,9 % des garçons (respectivement 23,6 % et 31,1 % dans ceux des élèves les plus performants).
+27,2 % des élèves n'ont pas le niveau attendu à l'entrée en 6e. La fluence est mal maîtrisée par une part croissante des collégiens : 42,7% des élèves de 6e ont des fragilités voire un
 
 [[END OF PAGE 53]]
 
@@ -1696,7 +1688,9 @@ En français, 38,3 % des garçons appartiennent aux groupes des élèves les moi
 
 [[START OF PAGE 55]]
 
-Aux évaluations PISA de mai 2022, qui testent les élèves âgés de 15 ans, les élèves dits « à l'heure » en seconde générale et technologique obtiennent des résultats parmi les meilleurs des  pays  de  l'OCDE.  Cependant,  le  nombre  d'élèves  en  réussite  diminue  et  les  élèves  en difficulté sont encore trop nombreux. Les 10 % des élèves français les plus faibles, issus très majoritairement de milieux défavorisés, obtiennent un score inférieur aux élèves des autres pays dans la même situation. Si la France obtient un score global en mathématiques dans la moyenne de l'OCDE, soit 474 points, en baisse de 19 points par rapport à 2018, cette baisse est à mettre en relation avec l'augmentation du taux d'élèves en difficulté et pour la première fois, une diminution du taux d'élèves très performants selon la DEPP.
+En mathématiques, la tendance est inversée : 35,6 % des filles appartiennent aux groupes des élèves les moins performants contre 30,9 % des garçons (respectivement 23,6 % et 31,1 % dans ceux des élèves les plus performants).
+
+Aux évaluations PISA de mai 2022, qui testent les élèves âgés de 15 ans, les élèves dits « à l'heure » en seconde générale et technologique obtiennent des résultats parmi les meilleurs des pays de l'OCDE. Cependant, le nombre d'élèves en réussite diminue et les élèves en difficulté sont encore trop nombreux. Les 10 % des élèves français les plus faibles, issus très majoritairement de milieux défavorisés, obtiennent un score inférieur aux élèves des autres pays dans la même situation. Si la France obtient un score global en mathématiques dans la moyenne de l'OCDE, soit 474 points, en baisse de 19 points par rapport à 2018, cette baisse est à mettre en relation avec l'augmentation du taux d'élèves en difficulté et pour la première fois, une diminution du taux d'élèves très performants selon la DEPP.
 
 Cette situation se traduit, de fait, par l'installation durable de la difficulté scolaire, conduisant la majorité des élèves en grande difficulté à l'entrée en 6e à le rester jusqu'à l'entrée au lycée.
 
@@ -1798,11 +1792,11 @@ Pour mémoire : l'article/paragraphe 4(c) de la Convention/Recommandation prévo
 
 Des dispositifs de formation spécifiques pour adultes sont mis en place, prenant appui sur les  financements  état  ou  région  ou  pôle  emploi  pour  les  demandeurs  d'emploi  et  des opérateurs  de  compétences  pour  les  salariés  en  apprentissage  et  formation  continue. https://www.francecompetences.fr/la-formation-professionnelle/
 
-Pour faciliter la reconnaissance des compétences travaillées, des certifications sont mises en place : reférentiels de diplômes professionnels de niveau 5, 4 et 3 https://eduscol.education.fr/771/diplomes-professionnels, titres professionnels, certificat de qualification professionnelle, certification de compétences de base nommée CLEA, le référentiel de certification ayant été travaillé en interprofessionnel https://www.certificat- clea.fr/le-dispositif-clea/le-referentiel/  ;  une  déclinaison  portant  sur  les  compétences numériques https://www.certificat-clea.fr/referentiel-clea-numerique/ ou encore PIX https://pix.fr/competences
+Pour faciliter la reconnaissance des compétences travaillées, des certifications sont mises en place : référentiels de diplômes professionnels de niveau 5, 4 et 3 https://eduscol.education.fr/771/diplomes-professionnels, titres professionnels, certificat de qualification professionnelle, certification de compétences de base nommée CLEA, le référentiel de certification ayant été travaillé en interprofessionnel https://www.certificat-clea.fr/le-dispositif-clea/le-referentiel/ ; une déclinaison portant sur les compétences numériques https://www.certificat-clea.fr/referentiel-clea-numerique/ ou encore PIX https://pix.fr/competences
 
 L'ensemble de ces certifications 'métier' bénéficient d'un enregistrement au répertoire des certifications professionnelles et sont accessibles par blocs de compétences. Les autres certifications  (habilitations…)  sont  inscrites  au  répertoire  spécifique.  Un  moteur  de recherche spécifique permet d'accéder à la liste de ces certifications : https://www.francecompetences.fr/recherche_certificationprofessionnelle/
 
-La  période  COVID  19  et  le  programme  de  continuité  pédagogique  a  donné  lieu  à  un repérage  et  une  mise  à  disposition  d'un  ensemble  de  ressources  disponibles  mise  à disposition des personnes formées : https://eduscol.education.fr/2227/plan-de- continuite-pedagogique
+La période COVID 19 et le programme de continuité pédagogique a donné lieu à un repérage et une mise à disposition d'un ensemble de ressources disponibles mise à disposition des personnes formées : https://eduscol.education.fr/2227/plan-de-continuite-pedagogique
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation de l'apprentissage et de l'éducation des adultes ?
 
@@ -1822,7 +1816,7 @@ La  période  COVID  19  et  le  programme  de  continuité  pédagogique  a  do
 
 - Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
-## Qualité du cadre d'enseignement et d'apprentissage
+## 3. Qualité du cadre d'enseignement et d'apprentissage
 
 [[END OF PAGE 58]]
 
@@ -1865,7 +1859,7 @@ Des  informations  pourront  être  ajoutées  sur  les  politiques,  protocoles
 #### En matière de sécurité des élèves, des personnels et des établissements scolaires,
 le plan ministériel publié en avril 2024 s'articule autour de trois axes principaux :
 
-##### Assurer la sécurité de tous les élèves pour un climat scolaire apaisé, notamment grâce à :
+##### 1. Assurer la sécurité de tous les élèves pour un climat scolaire apaisé, notamment grâce à :
 
  Des mesures visant à lutter contre toutes les formes de racisme, d'antisémitisme et de discrimination : visite obligatoire au cours de la scolarité d'un lieu de mémoire pour
 
@@ -1873,7 +1867,7 @@ le plan ministériel publié en avril 2024 s'articule autour de trois axes princ
 
 [[START OF PAGE 60]]
 
-- chaque élève ; renforcement de la formation de tous les personnels pour favoriser la détection, la prise en charge des victimes et des auteurs et les réponses pédagogiques ;
+chaque élève ; renforcement de la formation de tous les personnels pour favoriser la détection, la prise en charge des victimes et des auteurs et les réponses pédagogiques ;
 
  Des mesures visant à prévenir et à lutter contre les comportements et violences à caractère  sexiste,  sexuel  et  LGBTphobe,  y  compris  les  faits  de  harcèlement  et  de cyberharcèlement : publication de ressources d'accompagnement des personnels pour prendre en charge les situations des violences de genre, disponibles sur la page éduscol « Focus : prévention des violences sexistes et sexuelles à l'École » ; des enjeux inscrits dans les objectifs de l'éducation à la sexualité (circulaire du 12 septembre 2018) ; des actions  éducatives pour éduquer contre les stéréotypes organisées par le ministère (prix NAH, catégorie harcèlement sexiste et sexuel) ou par des partenaires et soutenues par le ministère.
 
@@ -1891,11 +1885,11 @@ le plan ministériel publié en avril 2024 s'articule autour de trois axes princ
 
  Un  partenariat  avec  la  gendarmerie  et  la  police  nationales pour  des  actions  de sensibilisation  contre  les  violences  et  toutes  les  formes  de  harcèlement,  y  compris cyber ;
 
-##### Protéger tous les personnels de l'éducation nationale, notamment grâce à :
+##### 2. Protéger tous les personnels de l'éducation nationale, notamment grâce à :
 
  L'engagement  par  le  chef  d'établissement  d'une  procédure  disciplinaire et la possibilité de prononcer des sanctions immédiates lorsqu'un élève est l'auteur d'un acte grave à l'égard d'un membre du personnel, y compris des menaces, ou d'un autre élève ou commet une atteinte grave aux principes de la République.
 
-##### Sécuriser les enceintes scolaires , notamment grâce à :
+##### 3. Sécuriser les enceintes scolaires, notamment grâce à :
 
  Des investissements : plus de 1,53 milliard d'euros d'investissement total en faveur du bâti scolaire sur les cinq dernières années ; 55 millions d'euros ont été, en complément, mobilisés par l'État au travers du fonds interministériel de prévention de la délinquance (FIPD) dans la sécurisation des écoles, collèges et lycées publics et privés sous contrat.
 
@@ -1982,7 +1976,7 @@ Pour mémoire: l'article/paragraphe 4(d) de la Convention/Recommandation s'appli
 
 - Veuillez préciser chacune des mesures prises:
 
-#### Formation initiale et continue des enseignants:
+#### 1) Formation initiale et continue des enseignants:
 
 ##### La formation initiale :
 
@@ -2338,7 +2332,7 @@ Ainsi, les attestations Pix Junior et Pix 6 e s'inscrivent dans un continuum de 
 
 ## 4 Le renforcement des systèmes de gouvernance
 
-Pour mémoire: le Cadre d'action Éducation 2030 énonce « pour garantir la qualité de l'éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs ; des systèmes d'assurance qualité ; des systèmes d'information pour a gestion de l'éducation ; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
+Pour mémoire: le Cadre d'action Éducation 2030 énonce « pour garantir la qualité de l'éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs ; des systèmes d'assurance qualité ; des systèmes d'information pour la gestion de l'éducation ; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
 
 - Veuillez indiquer les mesures prises en ce qui concerne la gouvernance (plusieurs réponses possibles):
 
