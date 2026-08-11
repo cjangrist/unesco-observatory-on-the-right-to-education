@@ -8,7 +8,7 @@ LAWS OF THE REPUBLIC OF VANUATU CONSOLIDATED EDITION 2006
 
 Commencement: 25 February 2002
 
-# CHAPTER 275 VANUATU INSTITUTE OF
+# CHAPTER 275 VANUATU INSTITUTE OF TEACHER EDUCATION
 
 Act 25 of 2001
 
@@ -16,55 +16,53 @@ Act 25 of 2001
 
 ## PART 1 - INTERPRETATION
 
-TEACHER EDUCATION
-
 1. Definitions
 
 ## PART 2 - VANUATU INSTITUTE OF TEACHER EDUCATION
 
-- Establishment of the Institute
+2. Establishment of the Institute
 
-- Purpose of the Institute
+3. Purpose of the Institute
 
-- Functions of the Institute
+4. Functions of the Institute
 
-- Powers of the Institute
+5. Powers of the Institute
 
 ## PART 3 - VANUATU INSTITUTE OF TEACHER EDUCATION COUNCIL
 
 ### Division 1 - Establishment, functions and powers
 
-- Establishment of the Council
+6. Establishment of the Council
 
-- Functions of the Council
+7. Functions of the Council
 
-- Powers of the Council
+8. Powers of the Council
 
-- Council to have regard to Government policy and other matters
+9. Council to have regard to Government policy and other matters
 
 ### Division 2 - Membership of Council and meetings
 
-- Composition of the Council
+10. Composition of the Council
 
-- Application of Leadership Code
+11. Application of Leadership Code
 
-- Chairperson and Deputy Chairperson
+12. Chairperson and Deputy Chairperson
 
-- Removal and resignation of members
+13. Removal and resignation of members
 
-- Vacancies and acting members
+14. Vacancies and acting members
 
-- Allowances for appointed members
+15. Allowances for appointed members
 
-- Meetings of the Council
+16. Meetings of the Council
 
 ### Division 3 - Other matters
 
-- Committees
+17. Committees
 
-- Delegation
+18. Delegation
 
-- Rules
+19. Rules
 
 ## PART 4 - ACADEMIC BOARD FOR THE VANUATU INSTITUTE OF TEACHER EDUCATION
 
@@ -74,15 +72,37 @@ TEACHER EDUCATION
 
 [[START OF PAGE 2]]
 
-- Funds of the Institute
+LAWS OF THE REPUBLIC OF VANUATU Consolidated Edition 2006
 
-- Auditing of accounts
+VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
-- Annual reports
+20. Establishment of Academic Board
 
-- Transfer of assets.
+21. Functions of Academic Board
 
-- Regulations
+## PART 5 - MANAGEMENT AND STAFF
+
+22. Principal
+
+23. Deputy Principal
+
+24. Academic and general staff
+
+25. Appointments on merit
+
+26. Transitional arrangements
+
+## PART 6 - MISCELLANEOUS
+
+27. Funds of the Institute
+
+28. Auditing of accounts
+
+29. Annual reports
+
+30. Transfer of assets.
+
+31. Regulations
 
 # VANUATU INSTITUTE OF TEACHER EDUCATION
 
@@ -92,27 +112,25 @@ An Act to establish the Institute of Teacher Education and for related purposes.
 
 #### 1. Definitions
 
-LAWS OF THE REPUBLIC OF VANUATU Consolidated Edition 2006
+In this Act, unless the contrary intention appears:
 
-VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
+"Academic Board" means the Academic Board of the Vanuatu Institute of Teacher Education established by section 19;
 
-- Establishment of Academic Board
+"academic staff" means teaching staff appointed by the Teaching Service Commission under section 23(1);
 
-- Functions of Academic Board
+"Council" means the Vanuatu Institute of Teacher Education Council established by section 6;
 
-## PART 5 - MANAGEMENT AND STAFF
+"Deputy Principal" means the Deputy Principal of the Institute appointed under section 22;
 
-- Principal
+"general staff" means administrative and support staff appointed by the Council under section 23(3);
 
-- Deputy Principal
+"Institute" means the Vanuatu Institute of Teacher Education established by section 2;
 
-- Academic and general staff
+"member" means a member of the Council or a member of the Academic Board;
 
-- Appointments on merit
+"Minister" means the Minister responsible for education;
 
-- Transitional arrangements
-
-## PART 6 - MISCELLANEOUS
+"Principal" means the Principal of the Institute appointed under section 21;
 
 2
 
@@ -126,13 +144,13 @@ VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
 "staff" means:
 
-- the Principal; or
+a) the Principal; or
 
-- the Deputy Principal; or
+b) the Deputy Principal; or
 
-- the academic staff; or
+c) the academic staff; or
 
-- the general staff.
+d) the general staff.
 
 ## PART 2 - VANUATU INSTITUTE OF TEACHER EDUCATION
 
@@ -140,7 +158,7 @@ VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
 (1) The Vanuatu Institute of Teacher Education is established.
 
-- The Institute is:
+(2) The Institute is:
 
 (a) a body corporate with perpetual succession; and
 
@@ -286,9 +304,9 @@ LAWS OF THE REPUBLIC OF VANUATU Consolidated Edition 2006
 
 VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
-- The Council consists of 8 members.
+(1) The Council consists of 8 members.
 
-- The members are:
+(2) The members are:
 
 (a) the Principal; and
 
@@ -298,7 +316,7 @@ VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
 (d) 5 persons appointed by the Minister from nominations recommended by the Principal.
 
-- A person must not be nominated under subsection (2)(d) unless he or she has:
+(3) A person must not be nominated under subsection (2)(d) unless he or she has:
 
 (a) knowledge or experience in the education and training of teachers; or
 
@@ -350,7 +368,7 @@ VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
 #### 14. Vacancies and acting members
 
-- If a vacancy occurs on the Council, the Council must ensure that:
+(1) If a vacancy occurs on the Council, the Council must ensure that:
 
 (a) in the case of a vacancy for an elected member - an election is held as soon as possible to fill the vacancy; and
 
@@ -396,7 +414,7 @@ VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
 (3) A committee is to determine its own procedures.
 
-- Committee members are not entitled to any remuneration or allowances in that capacity.
+(4) Committee members are not entitled to any remuneration or allowances in that capacity.
 
 #### 18. Delegation
 
@@ -410,7 +428,7 @@ VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
 (b) to approve plans and policies for the Institute.
 
-- A delegation:
+(4) A delegation:
 
 (a) must be made in writing; and
 
@@ -422,7 +440,7 @@ VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
 (6) The Council may continue to perform a function or exercise a power that it has delegated.
 
-#### Rules
+#### 19. Rules
 
 (1) The Council may make rules not inconsistent with this Act for the control, management, good governance and discipline of the students and staff of the Institute.
 
@@ -466,19 +484,19 @@ VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
 (1) The Academic Board is responsible for:
 
-- determining academic policy for the Institute and implementing that policy; and
+a) determining academic policy for the Institute and implementing that policy; and
 
-- ensuring high academic standards are maintained at the Institute.
+b) ensuring high academic standards are maintained at the Institute.
 
 (2) The Academic Board may make rules in writing about all or any of the following:
 
-- the selection of students for programs at the Institute;
+a) the selection of students for programs at the Institute;
 
-- the assessment of students;
+b) the assessment of students;
 
-- the attendance of students, including leave of absence;
+c) the attendance of students, including leave of absence;
 
-- the levels of academic performance;
+d) the levels of academic performance;
 
 9
 
@@ -490,13 +508,13 @@ LAWS OF THE REPUBLIC OF VANUATU Consolidated Edition 2006
 
 VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
-- the certification of examination results;
+e) the certification of examination results;
 
 f) the establishment of committees, including disciplinary committees, to assist the Academic Board;
 
-- awards for academic achievement;
+g) awards for academic achievement;
 
-- such other matters as are referred to it by the Council.
+h) such other matters as are referred to it by the Council.
 
 ## PART 5 - MANAGEMENT AND STAFF
 
@@ -526,7 +544,7 @@ f) the establishment of committees, including disciplinary committees, to assist
 
 #### 25. Appointments on merit
 
-- Subject to subsection (3), all appointments under sections 22, 23 and 24 must be made
+(1) Subject to subsection (3), all appointments under sections 22, 23 and 24 must be made
 
 10
 
@@ -594,7 +612,7 @@ VANUATU INSTITUTE OF TEACHER EDUCATION [CAP. 275]
 
 #### 28. Auditing of accounts
 
-(1) The Institute's account for each financial year must be audited within 3 months after the end of the financial year by the Auditor-General, or a person authorised by the AuditorGeneral.
+(1) The Institute's account for each financial year must be audited within 3 months after the end of the financial year by the Auditor-General, or a person authorised by the Auditor-General.
 
 (2) The Council must keep proper accounting records in relation to the Institute's financial affairs, and must have annual statement of accounts prepared for each year.
 
