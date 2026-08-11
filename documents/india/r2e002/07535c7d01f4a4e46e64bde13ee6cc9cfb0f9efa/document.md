@@ -1,84 +1,87 @@
 [[START OF PAGE 1]]
 
-WE.NO. D.L.-33M
+रजिस्ट्री सं. डी. एल.-33004/99
+REGD. NO. D. L.-33004/99
 
-d 18151
+भारत का राजपत्र
+The Gazette of India
+असाधारण
+EXTRAORDINARY
+भाग II—खण्ड 3—उप-खण्ड (ii)
+PART II—Section 3—Sub-section (ii)
+प्राधिकार से प्रकाशित
+PUBLISHED BY AUTHORITY
 
-No.  18151
+सं. 1815]
+नई दिल्ली, मंगलवार, अगस्त 31, 2010/भाद्र 9, 1932
+No. 1815]
+NEW DELHI, TUESDAY, AUGUST 31, 2010/BHADRA 9, 1932
 
-3.143 GUZOlD
+मानव संसाधन विकास मंत्रालय
+(उच्च शिक्षा विभाग)
+अधिसूचना
+नई दिल्ली, 31 अगस्त, 2010
+का.आ. 2135(अ).—केन्द्रीय सरकार, राष्ट्रीय अल्पसंख्यक शैक्षणिक संस्था आयोग (संशोधन) अधिनियम, 2010 की धारा 1 की उप-धारा (2) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए, 1 सितम्बर, 2010 को उस तारीख के रूप में नियत करती है जिसको उक्त अधिनियम के उपबंध प्रवृत्त होंगे।
+[फा. सं. 7-15/2006-एमसी]
+सुनील कुमार, अपर सचिव
 
-C" Ctze Gazette o f dndia 3 1 w m w
-
-EXTRAORDINARY .rTm Il-ZWS Wr l - m (ii) PART II-Section Wub-section (ii) ~ -i PUBLISHED BY AUTHOrn
-
-r
-
-~
-
-3$ m, m,3mfiT 31,  201O/WZ 9,  1932 NEW  DELHI, TUESDAY, AUGUST 31,20lO/BHADRA 9, 1932
-
-# MINISTRY OF HUMAN RESOURCE D E v E r n r n
+# MINISTRY OF HUMAN RESOURCE DEVELOPMENT
 ## (Department of Higher Education)
-
 ### NOTIFICATION
+New Delhi, the 31st August, 2010
+S.O. 2135(E).—In exercise of the powers conferred by sub-section (2) of Section 1 of the National Commission for Minority Educational Institutions (Amendment) Act, 2010, the Central Government hereby appoints the 1st day of September, 2010 as the date on which the provisions of the said Act shall come into force.
+[F. No. 7-15/2006-MC]
+SUNIL KUMAR, Addl. Secy.
 
-New Delhi, the3lst August, 2010
-
-S.O. 2135(E).-In exercise of the powers conferred by subsection (2) of Section 1 ofthe  National Commission for Minority Educational Institutions (Amendment) Act, 2010, the CentralGovemrnent hereby appoints the 1st  day of September,  2010 as the datebn which the provisions  of the said Act shall come into force
-
-IF  No.7-15ROWMC] SUNU. KUMAQ Addl  Secy.
-
-Printed by t h e   Manager. Ciovemmmt of lndta Press,  Rmg Road,  Mayapun, New Dslhi-IlOD@ and Published b y the Conmllcr of Publioationg. Dew-110054.
+3443 GI/2010
+Printed by the Manager, Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+and Published by the Controller of Publications, Delhi-110054.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-d* * 'W--(W) 041@00712003--10
+रजिस्ट्री सं० डी० एल०—(एन) 04/0007/2003—10
+REGISTERED NO. DL—(N)04/0007/2003—10
 
-REGISTERED NO DL(N)0410007/2003-10
+भारत का राजपत्र
+The Gazette of India
+असाधारण
+EXTRAORDINARY
+भाग II—खण्ड 1
+PART II—Section 1
+प्राधिकार से प्रकाशित
+PUBLISHED BY AUTHORITY
 
-%be Gcrtette
+सं० 35]
+नई दिल्ली, सोमवार, अगस्त 16, 2010 / श्रावण 25, 1932
+No. 35]
+NEW DELHI, MONDAY, AUGUST 16, 2010 / SRAVANA 25, 1932
 
-JTflTsmPT
+इस भाग में भिन्न पृष्ठ संख्या दी जाती है जिससे कि यह अलग संकलन के रूप में रखा जा सके।
+Separate paging is given to this Part in order that it may be filed as a separate compilation.
 
-EXlRAORDINARY
+# MINISTRY OF LAW AND JUSTICE
+## (Legislative Department)
 
-mn-=I PARTI1 -Seetion 1 *tmml
+New Delhi, August 16, 2010/Sravana 25, 1932 (Saka)
 
-PUBLISHED BY AUTHORTTY
+The following Act of Parliament received the assent of the President on the 16th August, 2010, and is hereby published for general information:—
 
-f  m , ?kWR, PTR 16,2010 I 25,  1932
-
-NEW DELHI, MONDAY, AUGUST 16,2010 / SRAVANA 25,1932
-
-* 351 No. 351
-
-n r y m ~ f i n ~ ~ 4 4 ~ b ~ ~ z r i r m ~ t w i i m r c ~ ~ Separate paging i s   given to this Parl in order that it may be filed as a separate compilation.
-
-# MINISTRYOFLAWANDJUSTICE
-## (LegislatmeDepartment)
-
-New Delhi August l6,2010/Sravana25,1932 (Soh)
-
-The following Act of Parliament received  the assent  of the  President  on  the 16thAugust.  2010, and is hereby published for general information:-
-
-# THE NATIONAL COMMISSIONFOR MINORITYEDUCATIONAL lNSTITUTIONS(AMENDMENT)ACT, 2010
+# THE NATIONAL COMMISSION FOR MINORITY EDUCATIONAL INSTITUTIONS (AMENDMENT) ACT, 2010
 
 No. 20 OF 2010
 
-AnAct firherto amendtheNational Commission f o r MinorityEducational InstitutionsAct 2004.
+[16th August, 2010.]
 
-Brrit enacted by P d i e n t in the Sixty-first yearaftheRepublic ofIndia asfollows:-
+An Act further to amend the National Commission for Minority Educational Institutions Act, 2004.
 
-(I) This Act may be called the National Commission for Minority Educational Institutions  (Amendment)Act, 2010.
+BE it enacted by Parliament in the Sixty-first Year of the Republic of India as follows:—
 
-- It shall come into force onsuch dateasthecentral  Government  may, by notifbation inthe Official Gazette, appoint.
+## Short title and commencement.
+1. (1) This Act may be called the National Commission for Minority Educational Institutions (Amendment) Act, 2010.
 
-## Short tdle and wmnm-t
-## Amendmcd of
-2 . In section 2 of the Nabonal CoqisSion for Minority Educational Institutions Seoc'on Act, 2004 (heninafter referredto as the principl&t),-
+(2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.
 
 [[END OF PAGE 2]]
 
@@ -86,43 +89,36 @@ Brrit enacted by P d i e n t in the Sixty-first yearaftheRepublic ofIndia asfoll
 
 2
 
-THE GAZETTE OF  I N D I A EXTRAORDMARY [PARTII-SPT. I]
+THE GAZETTE OF INDIA EXTRAORDINARY [PART II—SEC. 1]
 
-(13 clause (b) shall be omitted;
+## Amendment of section 2.
+2. In section 2 of the National Commission for Minority Educational Institutions Act, 2004 (hereinafter referred to as the principal Act),—
 
-- C@iW gbuas:(gF, t@fo&wing clauseshaltt i . & ' s ~ - ~ ~ R a g , e & ~ -. , . .
+2 of 2005.
 
-. .
+(i) clause (b) shall be omitted;
 
-; i
+(ii) for clause (g), the following clause shall be substituted, namely:—
 
-..>! .
+‘(g) "Minority Educational Institution" means a college or an educational institution established and administered by a minority or minorities;’.
 
-,. '
+## Amendment of section 3.
+3. In section 3 of the principal Act, in sub-section (2), for the words "two members", the words "three members" shall be substituted.
 
-).
+## Amendment of section 10.
+4. In section 10 of the principal Act, for sub-section (1), the following sub-section shall be substituted, namely:—
 
-: : .
+"(1) Subject to the provisions contained in any other law for the time being in force, any person, who desires to establish a Minority Educational Institution may apply to the competent authority for the grant of no objection certificate for the said purpose.".
 
-'
+## Amendment of section 12B.
+5. In section 12B of the principal Act, in sub-section (4), the words "and in consultation with the State Government" shall be omitted.
 
-, ' . -' & l ; $ & & & $ . 4 * ~ n a l LSMurion.* &V"lrrcolgige$i:*@~ : . ..  , , ; i&+o"kst$;i&h&j and administerea'by amino* or,minoriti&:.
+V. K. BHASIN,
+Secy. to the Govt. of India.
 
-- I9&&&3 ofrnRipcip&~a@t,  in,&b::&ti&n (iih kaaew&ds "mi&%&en", the words "threemembers" shall be substituted.
+PRINTED BY THE GENERAL MANAGER, GOVT. OF INDIA PRESS, MINTO ROAD, NEW DELHI AND
+PUBLISHED BY THE CONTROLLER OF PUBLICATIONS, DELHI—2010.
 
-- In  section 10 of tho principal Act, for sub-section (I),the following  sub-section shall be substituted, namely:-
-
-## Amendmen1 of section 3.
-
-## Amendment  of "' I o n ' 0
-
-"(I)Subjectto the provisiofis  contained in any other l w for the time being in force,  any person, who desires to dtablish a  Minority Educational Institution may applyto the competent authority  for th e grant of no objection certifwate for the said purpose.".
-
-## Amendment of
-5.   In section12B ofthe principal Act, in sub-section (6, t h e words "and in wnsuJ $ t i o n with the State Government" shall be omitted.
-
-V.K. BHASIN, Secy  to the Govt. o f India.
-
-2 of ZOO5
+GMGIPMRND—3925GI(S-4)—25.08.2010.
 
 [[END OF PAGE 3]]
