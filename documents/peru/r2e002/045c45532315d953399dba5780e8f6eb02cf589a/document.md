@@ -209,10 +209,9 @@ Los ingresos recaudados por concepto de multas son destinados al Consejo Naciona
 
 ## DISPOSICIONES COMPLEMENTARIAS
 
-En lo no previsto por la presente Ley, es de aplicación la Ley Nº 27444, Ley del
-
 ### PRIMERA.- Supletoriedad
-Procedimiento Administrativo General.
+
+En lo no previsto por la presente Ley, es de aplicación la Ley Nº 27444, Ley del Procedimiento Administrativo General.
 
 ### SEGUNDA.- Emisión de normas complementarias
 
