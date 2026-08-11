@@ -120,7 +120,7 @@ Email and telephone number of contact person:
 
 chia_kai_tiak@moe.gov.sg; +65 6879 7059
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -142,7 +142,7 @@ No: Does your country plan to ratify this instrument?
 
 ☒ No, not considering ratification. Please explain why:
 
-While  Singapore  does  not  plan  to  ratify  the  Convention,  Singapore  appreciates  the significant work undertaken in the Convention and its contribution to ensure education as  a  fundamental  right  without  any  form  of  discrimination.  Singapore  continues  to share  the  Convention's  vision  for  a  full  enjoyment  of  the  rig ht  to  education  as  a cornerstone to achieve sustainable development. We have taken the necessary steps to ensure this, taking into account our unique national context.
+While Singapore does not plan to ratify the Convention, Singapore appreciates the significant work undertaken in the Convention and its contribution to ensure education as a fundamental right without any form of discrimination. Singapore continues to share the Convention’s vision for a full enjoyment of the right to education as a cornerstone to achieve sustainable development. We have taken the necessary steps to ensure this, taking into account our unique national context.
 
 - Is the Convention directly applicable in your country's domestic law?
 
@@ -172,9 +172,9 @@ https://www.unesco.org/en/legal-affairs/convention-against-discrimination-educat
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -200,9 +200,7 @@ Not applicable.
 
 [[START OF PAGE 7]]
 
-- Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation 13 , and ensure equal access to all levels and types of education (please tick all that apply):
-
-- Please indicate the relevant legal provisions:
+- Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation 13, and ensure equal access to all levels and types of education (please tick all that apply):
 
 For reference: This notably is covered under SDG target 4.1 and partly target 4.b 14
 
@@ -220,7 +218,9 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 ☐ In adult education and alternative learning
 
-Article 16(1) of the Constitution of the Republic of Singapore (provides that there shall  be  no  discrimination  against  any  Singapore  citizen  on  the  grounds  only  of religion, race, descent or place in the administration of any educational institution maintained by a public authority, and in the admission of pupils or students or the payments or fees).
+- Please indicate the relevant legal provisions:
+
+Article 16(1) of the Constitution of the Republic of Singapore (provides that there shall be no discrimination against any Singapore citizen on the grounds only of religion, race, descent or place in the administration of any educational institution maintained by a public authority, and in the admission of pupils or students or the payments or fees).
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
@@ -253,71 +253,65 @@ Religion, race, descent or place of birth.
 - Please provide details:
 
 Singapore believes in education as a social leveler. All programmes and pathways are available to students, regardless of race, gender, or socio-economic background. Singapore has embarked on efforts to ensure that children from disadvantaged backgrounds receive sufficient and continuous support throughout their educational journey.
---- | --- | --- | --- | --- | ---
-A conducive home environment and preschool education during a child's early years are key to better outcomes later in life. Lower-income families, however, may find it harder to support the early childhood needs of their young children due to limited resources and bandwidth tax. To address this, the Government provides additional support to lower-income families by making preschool education more (1) affordable and (2) accessible. The Government also seeks to (3) level early childhood opportunities for such families in the preschool and home settings.
+
+A conducive home environment and preschool education during a child’s early years are key to better outcomes later in life. Lower-income families, however, may find it harder to support the early childhood needs of their young children due to limited resources and bandwidth tax. To address this, the Government provides additional support to lower-income families by making preschool education more (1) affordable and (2) accessible. The Government also seeks to (3) level early childhood opportunities for such families in the preschool and home settings.
+
 • Affordability.
-o | All lower-income families with a gross monthly household income of $6,000 and below qualify for maximum childcare subsidies based on their income tier. This means that children from lower-income families attending a government-supported preschool can pay as low as $3 for full-day childcare or $1 for half-day kindergarten per month. Families living in public rental flats under the Housing Development Board's (HDB) Public Rental Scheme and/or receiving MSF's ComCare financial assistance, are also automatically eligible for maximum
-and receiving Child one-time affordable • | who require subsidies, may Care Financial grant to cover infant or Accessibility. All lower-income | further assistance apply for Assistance the initial childcare centre families | with additional and/or Start costs of in have | preschool assistance Up Grant. enrolling their Singapore. priority | fees after such as the The latter is a child in an enrolment into
+
+o All lower-income families with a gross monthly household income of $6,000 and below qualify for maximum childcare subsidies based on their income tier. This means that children from lower-income families attending a government-supported preschool can pay as low as $3 for full-day childcare or $1 for half-day kindergarten per month. Families living in public rental flats under the Housing Development Board’s (HDB) Public Rental Scheme and/or receiving MSF’s ComCare financial assistance, are also automatically eligible for maximum preschool subsidies.
+
+o Lower-income families experiencing difficult family circumstances, and who require further assistance with preschool fees after receiving subsidies, may apply for additional assistance such as the Child Care Financial Assistance and/or Start Up Grant. The latter is a one-time grant to cover the initial costs of enrolling their child in an affordable infant or childcare centre in Singapore.
+
+• Accessibility. All lower-income families have priority enrolment into Government-supported preschools.
+
 • Levelling Opportunity.
-o | Parents play a key role in the development of their children. The KidSTART programme equips parents from eligible lower-income families with the skills and knowledge to support their children's development, from the antenatal stage until the child is 6 years old. KidSTART is being expanded nationwide and the expansion will complete in 2025. We are shifting from episodic social assistance to partnering with families and supplementing their efforts towards their longer-term goals. Under ComLink+, Social Service Office (SSO) family coaches
+
+o Parents play a key role in the development of their children. The KidSTART programme equips parents from eligible lower-income families with the skills and knowledge to support their children’s development, from the antenatal stage until the child is 6 years old. KidSTART is being expanded nationwide and the expansion will complete in 2025.
+
+o We are shifting from episodic social assistance to partnering with families and supplementing their efforts towards their longer-term goals. Under ComLink+, Social Service Office (SSO) family coaches and Family Service Centre (FSC) case workers work and journey with eligible lower-income families to achieve stability, self-reliance, and social mobility across different six domains (income security, financial resilience, family functioning, health., children’s development and education, and housing). For ComLink+ families with young children, family coaches and FSC case workers facilitate child immunisations, timely preschool enrolment, and regular preschool attendance.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-ComLink+  families  can  also  benefit  from  the  ComLink+  Progress Package for Preschool, which provides financial top-ups to families that enrol their children in preschool in the year they turn three and ensure regular attendance.
+ComLink+ families can also benefit from the ComLink+ Progress Package for Preschool, which provides financial top-ups to families that enrol their children in preschool in the year they turn three and ensure regular attendance.
 
-o
-
-Children  from  lower-income  families  may  also  require  additional
-
-learning and attendance support in preschool. This is why, from April
-
-2024, ECDA has also provided more resources to selected preschools
-
-to equip them in providing effective and timely support to children
-
-from
-
-lower-income
-
-families.
-
-This
-
-includes
-
-providing
-
-learning
-
-support, monitoring children's attendance and working with parents
-
-to address challenges in sending their children to preschool regularly.
+o Children from lower-income families may also require additional learning and attendance support in preschool. This is why, from April 2024, ECDA has also provided more resources to selected preschools to equip them in providing effective and timely support to children from lower-income families. This includes providing learning support, monitoring children’s attendance and working with parents to address challenges in sending their children to preschool regularly.
 
 Beyond  financial  assistance,  MOE  supports  our  students  from  disadvantaged backgrounds to achieve their  fullest  potential  through  MOE's  coordinated  UPLIFT efforts, in partnership with other agencies and the community. Through UPLIFT, MOE has dedicated additional resources to schools, established after-school support and leveraged partnerships between schools and the community to strengthen upstream wraparound support disadvantaged students and their families across primary and secondary schools. For instance, primary schools work with community partners to proactively enrol disadvantaged students into school-based Student Care Centres, which provide a supervised, conducive environment and targeted programmes to engage  them  meaningfully.  Secondary  schools  focus  on  building  socio-emotional competencies and improving connectedness to learning, peers and school through after-school  engagement  programmes  under  GEAR-UP.  Students  are  engaged through befriending and mentoring by partners and volunteers, and interest-based activities that build peer support and relationshipsUPLIFT also leverages community efforts and resources more systematically to address multi-faceted issues faced by disadvantaged  students  and  their  families.  Schools  partner  the  social  services  to customise financial and non-financial assistances for the family, employment support for the parents, and children and youth services like drop-in centres and academic coaching for the children. These efforts help to ensure a stable home environment to better meet students' educational needs .  In 2023, UPLIFT supported about 16,500 students in around 300 schools.
 
-As part of the National Digital Literacy Programme , every secondary school student owns a Personal Learning Device (PLD) such as a laptop or tablet since 2021 to access educational  technology  tools  and  resources,  especially  the  Singapore  Student Learning Space (SLS), Singapore's national online learning platform, which provides curriculum-aligned resources and system tools to all students. To help defray the cost of the PLDs, MOE has provided Edusave top-ups annually since 2020 to all eligible Singaporean students in primary and secondary schools. Students from low-income households  receive  additional  support  so  that  there  will  be  no  out-of-pocket payment for the purchase of the PLD. MOE has provided all primary schools with sufficient internet- enabled devices to support students' learning in school. In cases where primary school students need to use devices after school hours but lack digital devices, schools can loan computers and internet-enabling devices to students who need to use the devices at home for school work. Students also have the option to use the computing facilities in school. Subsidised broadband and digital devices are also  available  to  eligible  low-income  Singaporean  households  with  school-going children  via  the  Infocomm  Media  Development  Authority's  DigitalAccess@Home scheme.
+As part of the National Digital Literacy Programme, every secondary school student owns a Personal Learning Device (PLD) such as a laptop or tablet since 2021 to access educational technology tools and resources, especially the Singapore Student Learning Space (SLS), Singapore’s national online learning platform, which provides curriculum-aligned resources and system tools to all students. To help defray the cost of the PLDs, MOE has provided Edusave top-ups annually since 2020 to all eligible Singaporean students in primary and secondary schools. Students from low-income households receive additional support so that there will be no out-of-pocket payment for the purchase of the PLD. MOE has provided all primary schools with sufficient internet-enabled devices to support students’ learning in school. In cases where primary school students need to use devices after school hours but lack digital devices, schools can loan computers and internet-enabling devices to students who need to use the devices at home for school work. Students also have the option to use the computing facilities in school. Subsidised broadband and digital devices are also available to eligible low-income Singaporean households with school-going children via the Infocomm Media Development Authority’s DigitalAccess@Home scheme.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-☒
+Schools and Institutes of Higher Learning (IHLs) are committed to providing a supportive and safe environment for all students, MOE takes a serious view of all forms of hurtful behaviour, from one-off insensitive remarks to more persistent, intentional acts of bullying, including physical and sexual violence, and gender-based bullying. School rules and disciplinary frameworks are clearly and regularly communicated. Similarly, IHL staff and students are briefed on their respective Codes of Conduct when they first join the IHL, such as during induction for staff and orientation for students. Schools and IHLs also make channels accessible for the safe reporting of cases and take educative, preventive and intervention measures to address them promptly.
 
-Schools  and  Institutes  of  Higher  Learning  (IHLs)  are  committed  to  providing  a supportive and safe environment for all students, MOE takes a serious view of all forms  of  hurtful  behaviour,  from  one-off  insensitive  remarks  to  more  persistent, intentional acts of bullying, including physical and sexual violence, and gender-based bullying. School  rules  and  disciplinary  frameworks are clearly  and  regularly communicated. Similarly, IHL staff and students are briefed on their respective Codes of  Conduct when  they  first  join  the  IHL,  such  as  during  induction  for  staff  and orientation for students. Schools and IHLs also make channels accessible for the safe reporting  of  cases  and  take  educative,  preventive  and  intervention  measures  to address them promptly.
+When alleged sexual harassment or bullying is reported, trained school personnel will investigate, decide on appropriate disciplinary action and provide counselling support for students involved and decide on appropriate disciplinary action. In the IHLs, there are compulsory modules on respect and appropriate behaviour for students. These cover the importance of respecting boundaries, exhibiting appropriate behaviour and how to manage situations when boundaries are disrespected. Beyond education, parents and community groups also play a crucial role in supporting students to stand up against acts of sexual harassment or/ bullying and raise these concerns to their respective schools.
 
-When alleged sexual harassment or bullying is reported, trained school personnel will investigate,  decide  on  appropriate  disciplinary  action  and  provide  counselling support for students involved and decide on appropriate disciplinary action. In the IHLs,  there  are compulsory  modules  on  respect  and  appropriate  behaviour for students. These cover the importance of respecting boundaries, exhibiting appropriate  behaviour  and  how  to  manage  situations  when  boundaries  are disrespected. Beyond education, parents and community groups also play a crucial role in supporting students to stand up against acts of sexual harassment or/ bullying and raise these concerns to their respective schools.
+☒ Combatting discrimination in terms of curriculum:
 
-Combatting discrimination in terms of curriculum: ☒ In pre-primary education (including early learning and care) ☒ In primary education ☒ In secondary education ☒ In technical and vocational education and training ☒ In higher education ☐ In adult education and alternative learning
+☒ In pre-primary education (including early learning and care)
+
+☒ In primary education
+
+☒ In secondary education
+
+☒ In technical and vocational education and training
+
+☒ In higher education
+
+☐ In adult education and alternative learning
 
 - Please provide details:
 
-MOE's school curriculum emphasises the importance of non -discrimination to students, with opportunities for learning and discussion. Through the Character and Citizenship Education curriculum in schools, students are taught the importance of respect, care, empathy, and how to establish and respect boundaries for themselves and others, as well as understand the consequences of overstepping these boundaries. Students are also equipped to look out for their peers in distress and to seek help from trusted adults in school.
----
+MOE’s school curriculum emphasises the importance of non-discrimination to students, with opportunities for learning and discussion. Through the Character and Citizenship Education curriculum in schools, students are taught the importance of respect, care, empathy, and how to establish and respect boundaries for themselves and others, as well as understand the consequences of overstepping these boundaries. Students are also equipped to look out for their peers in distress and to seek help from trusted adults in school.
+
 As early as preschool, children are taught the importance of showing care and respect for others. Educators design meaningful experiences for children.
-All students are taught that respect should be accorded to all. Students learn not stereotype and to appreciate individuals for their unique qualities, strengths
-to and talents.
+
+All students are taught that respect should be accorded to all. Students learn not to stereotype and to appreciate individuals for their unique qualities, strengths and talents.
+
 The History and Social Studies curricula, which span from primary to pre-university levels, include topics that examine the consequences of prejudice and discrimination.
 
 [[END OF PAGE 10]]
@@ -372,11 +366,11 @@ All  Singaporeans  have  equal  and  full  access  to  quality  education,  incl
 
 ##### Inclusive education
 
-Singapore's  educational  policy  is  inclusive  and  supports  the  education  of  children  with disabilities as well as other developmental and learning needs. In the preschool sector, the Government is working with the sector towards every preschool appointing a staff as an Inclusion  Coordinator  (ICO).  About  90%  of  preschools  now  have  ICOs  appointed  who  are trained to work with their fellow early childhood educators to identify children with potential developmental needs for further assessment and refer educators and parents to relevant early  intervention  resources  and  services.  The  Government  has  also  piloted  an  Inclusive Support Programme (InSP) to integrate early childhood and early intervention services at preschools for children aged 3 to 6, who require medium levels of early intervention support. MOE works closely with SG Enable and the Special Education (SPED) sector to ensure that SPED schools are adequately resourced to support students with higher support needs. The majority  of children  with  disabilities  and  special  educational  needs  are  enrolled  in mainstream schools and around 20% of them are enrolled in government and communityfunded SPED schools.
+Singapore’s educational policy is inclusive and supports the education of children with disabilities as well as other developmental and learning needs. In the preschool sector, the Government is working with the sector towards every preschool appointing a staff as an Inclusion Coordinator (ICO). About 90% of preschools now have ICOs appointed who are trained to work with their fellow early childhood educators to identify children with potential developmental needs for further assessment and refer educators and parents to relevant early intervention resources and services. The Government has also piloted an Inclusive Support Programme (InSP) to integrate early childhood and early intervention services at preschools for children aged 3 to 6, who require medium levels of early intervention support. MOE works closely with SG Enable and the Special Education (SPED) sector to ensure that SPED schools are adequately resourced to support students with higher support needs. The majority of children with disabilities and special educational needs are enrolled in mainstream schools and around 20% of them are enrolled in government and community-funded SPED schools.
 
 Students  with  disabilities  in  mainstream  schools  benefit  from  specialised  manpower, including teachers and school-based personnel trained in implementing inclusive education practices. Dedicated teachers receive in-depth courses on pedagogical strategies to support diverse learning needs. For instance, Physical Education (PE) lessons and outdoor education activities  are  adapted  to  ensure  students  with  disabilities  can  participate  meaningfully alongside their peers.
 
-Mainstream schools tap on a special needs grant to purchase resources and fund learning activities for students with disabilities. Educational Psychologists work closely with schools to implement  appropriate  classroom  and  learning  interventions  to  develop these  students' learning,  socio-emotional  and  behavioural  needs.  Social  service  agencies  and  health organisations also provide specialised services for students with physical/sensory and socioemotional needs.
+Mainstream schools tap on a special needs grant to purchase resources and fund learning activities for students with disabilities. Educational Psychologists work closely with schools to implement appropriate classroom and learning interventions to develop these students’ learning, socio-emotional and behavioural needs. Social service agencies and health organisations also provide specialised services for students with physical/sensory and socio-emotional needs.
 
 Students  with  higher  needs  who  would  benefit  from  more  intensive  and  specialised interventions are supported in SPED schools, which are resourced with specialised facilities to meet higher needs. SPED school provide either the national or customised curriculum, with pedagogy  delivered  by  specially-trained  teachers,  together  with  support  from  allied professionals  such  as  psychologists,  therapists  and  social  workers. The  National  SPED Curriculum provides comprehensive guidance to SPED schools to enable them to customise a quality curriculum that equips their students with the knowledge, skills and attributes to lead independent lives, learn continuously and contribute meaningfully to society.
 
@@ -406,7 +400,7 @@ Not applicable.
 
 ☒ Ensuring safe and adequate gender-sensitive sanitation facilities 21
 
-> 19  School Partnerships is a school-led partnership programme, where a planned and gradual approach seeks to develop selfconfidence and the needed social-communication skills to foster successful interactions between students with disabilities and their peers.
+> 19 School Partnerships is a school-led partnership programme, where a planned and gradual approach seeks to develop self-confidence and the needed social-communication skills to foster successful interactions between students with disabilities and their peers.
 
 > 21 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
@@ -434,7 +428,7 @@ Not applicable.
 
 In  Singapore,  we  are  committed to  providing  high-quality  and  affordable education  to  all Singaporeans, regardless of their background. Our principles of meritocracy and equal access to opportunities have ensured that all Singaporeans have equal access to education.
 
-Women  in  Singapore  have  made  great  strides  in  education  since  independence.  Our enrolment and completion rates are high. Currently, over 97% of each Primary 1 cohort, of which roughly  half  are  girls,  complete  their  secondary  education  and  progress  to  a  postsecondary education institution. They have achieved high literacy rates: 96.4% in 2021 (for resident females aged 15 years and older) as compared to 32.8% in 1960. The proportion of university  graduates who are female has been stable at around 50% from 2018 to 2022, reflecting the equal representation of male and female students in universities. There are no barriers for pregnant girls and young mothers to continue education.
+Women in Singapore have made great strides in education since independence. Our enrolment and completion rates are high. Currently, over 97% of each Primary 1 cohort, of which roughly half are girls, complete their secondary education and progress to a post-secondary education institution. They have achieved high literacy rates: 96.4% in 2021 (for resident females aged 15 years and older) as compared to 32.8% in 1960. The proportion of university graduates who are female has been stable at around 50% from 2018 to 2022, reflecting the equal representation of male and female students in universities. There are no barriers for pregnant girls and young mothers to continue education.
 
 Singapore takes a holistic and age-appropriate approach to promote gender equality (and counter gender stereotypes) across the education system. Students from as young as 6-7 years old are taught to appreciate the equity of roles, regardless of gender, in school, in the family and at the workplace. Students learn to appreciate that families are unique, that roles played  by  males  and  females  in  the  family  differ  from  family  to  family,  the  equality  of parenting roles and the importance of not ascribing gender stereotypes in parenting, and that family responsibilities like caregiving, household chores and income-generation are not tied to gender.
 
@@ -452,17 +446,17 @@ In our national curriculum, students are exposed to a healthy representation of 
 
 We recognise that students may be influenced by inaccurate media portrayals or implicit bias in  society  to  pursue  stereotypical  gender  roles  in  their  careers.  Education  and  Career Guidance  Counsellors  guide  students  to  recognise  how  gender  stereotypes  may  limit education or career pathways. Students are encouraged to understand their interests and strengths, and to explore career sectors accordingly. Students can access resources with a balanced  representation  of  genders  across  careers  in  the  MySkillsFuture  Student  portal, including resources to support students in their journey of self-discovery, industry videos and write ups about careers and their requirements, and features on role models, such as female alumni successful in Science, Technology, Engineering and Mathematics (STEM) fields.
 
-In schools, both boys and girls have equal access to STEM subjects. Singapore continues to encourage students, both boys and girls, to consider careers in STEM so that they can benefit from the digital future. Women are also well-represented in STEM courses in the Institutes of Higher Learning (IHLs) as female students enrolled in STEM courses at IHLs has been stable at close to 4 in 10 (40%). Females were also well-represented in the enrolment of specific courses in 2022 as follows: a) 68% of enrolment in applied & health sciences courses at ITE; b)  65%  of  enrolment  in  the  natural,  physical  and  mathematical  sciences  courses  at polytechnics; and c) 57% of enrolment in natural, physical and mathematical sciences courses in universities. There are also programmes (e.g. NTU's Promotion of Women in Engineering, Research  and  Science  (POWERS)  programmme  and  polytechnics'  collaboration  with  the Singapore Women in Tech Initiative) to encourage female students to pursue STEM subjects and careers, and increased recognition and mentorship efforts for females in the STEM fields in Singapore. Both boys and girls also have equal opportunities to join a wide variety of cocurricular activities (CCA), catering to their interests and talents. Overall, the participation rate of females across the various CCA types is very healthy.
+In schools, both boys and girls have equal access to STEM subjects. Singapore continues to encourage students, both boys and girls, to consider careers in STEM so that they can benefit from the digital future. Women are also well-represented in STEM courses in the Institutes of Higher Learning (IHLs) as female students enrolled in STEM courses at IHLs has been stable at close to 4 in 10 (40%). Females were also well-represented in the enrolment of specific courses in 2022 as follows: a) 68% of enrolment in applied & health sciences courses at ITE; b) 65% of enrolment in the natural, physical and mathematical sciences courses at polytechnics; and c) 57% of enrolment in natural, physical and mathematical sciences courses in universities. There are also programmes (e.g. NTU’s Promotion of Women in Engineering, Research and Science (POWERS) programmme and polytechnics’ collaboration with the Singapore Women in Tech Initiative) to encourage female students to pursue STEM subjects and careers, and increased recognition and mentorship efforts for females in the STEM fields in Singapore. Both boys and girls also have equal opportunities to join a wide variety of co-curricular activities (CCA), catering to their interests and talents. Overall, the participation rate of females across the various CCA types is very healthy.
 
 All educators are guided by the Ethos of the Teaching Profession and the Code of Professional Conduct for Educators. As educators play a role in building and maintaining an atmosphere of  mutual  trust  and  respect,  they  are  expected  to  conduct  themselves  in  a  way  that  is professional, respectful and  appropriate  in  their  interactions.  Wrongful  practices  or misconduct can be reported to the School Leader or the ministry and will be investigated and addressed accordingly.
 
 - What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
-- Does the legal minimum age for marriage conform to international standards (18 years) 23 :
-
 Not applicable.
 
-> 23 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law  and on the evidence of maturity, without deference to culture and tradition.'
+- Does the legal minimum age for marriage conform to international standards (18 years) 23:
+
+> 23 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: ‘a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.’
 
 [[END OF PAGE 15]]
 
@@ -476,7 +470,7 @@ Please note that child marriage is a discriminatory practice as often girls can 
 
 - Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age:
 
-Under the Women's Charter, marriages between persons either of whom is below 18 years of age are void. The only exception to this provision is where the marriage is authorised by a Special Marriage Licence issued by the Minister (see Section 9 of the Women 's Charter) under conditions set out in Section 21A(2) of the Women's Charter as extracted below:
+Under the Women’s Charter, marriages between persons either of whom is below 18 years of age are void. The only exception to this provision is where the marriage is authorised by a Special Marriage Licence issued by the Minister (see Section 9 of the Women’s Charter) under conditions set out in Section 21A(2) of the Women’s Charter as extracted below:
 
 ###### s9: Avoidance of marriages where either party is below 18
 
@@ -486,15 +480,15 @@ A marriage solemnised in Singapore or elsewhere between persons either of whom i
 
 The Minister must not grant a special marriage licence for the marriage of a minor unless one of the following conditions is satisfied in relation to each person mentioned in the Second Schedule as a person whose consent is required for the marriage of the minor:
 
-- the person consents to the marriage;
+a)the person consents to the marriage;
 
-- the person refuses to consent to the marriage but the court consents to the marriage in lieu of the person;
+b)the person refuses to consent to the marriage but the court consents to the marriage in lieu of the person;
 
-- the Minister -
+c) the Minister —
 
-- is satisfied that the consent of the person cannot be obtained because the person is absent, inaccessible or under a disability; and
+a. is satisfied that the consent of the person cannot be obtained because the person is absent, inaccessible or under a disability; and
 
-- dispenses with the consent of the person.
+b. dispenses with the consent of the person.
 
 ##### National minorities:
 
@@ -548,7 +542,9 @@ Students and staff who experience any form of discrimination are encouraged to b
 
 Singapore has maintained a bilingual policy since 1966. Bilingualism entails learning English and the respective official mother tongue languages (MTL) of the three main ethnic groups: Mandarin for the Chinese, Malay for the Malay community, and Tamil for the Indians. Some flexibility  is  provided  for  students  with  reason  to offer  a  different  language  in lieu  of  an official  MTL:  e.g.,  Non-Tamil  speaking  Indian  students  can  apply  to  study  one  of  the approved Non-Tamil Indian Languages, and students who have lived abroad for a long period of time and had formal learning in approved Foreign/Asian languages may apply to study one  of  these  languages.    The  bilingual  policy  is  a  cornerstone  of Singapore's education system. While English Language is the common language of communication in Singapore, all students are required to learn an MTL, which reflects our historical roots as a multicultural society and facilitates the transmission of our cultural heritage and values. Being able to listen  and  communicate  in  these  MTL  also  helps  our  students  to  build  confidence  and connect with communities across Asia.
 
-> 24 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. 26 Supra note 16.
+> 24 Please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+
+> 26 Supra note 16.
 
 [[END OF PAGE 17]]
 
@@ -556,9 +552,9 @@ Singapore has maintained a bilingual policy since 1966. Bilingualism entails lea
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
-##### Indigenous people:
-
 Not applicable.
+
+##### Indigenous people:
 
 ☐ Legislation provides for the right to education of indigenous people
 
@@ -692,18 +688,6 @@ Not applicable.
 
 ☐ Other
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-Singapore  strives  to  be  an  inclusive  and  caring  society  to  enable  persons  with  disabilities  to participate fully as integral and contributing members of society. In education, Singapore has been strengthening support for students with diverse learning needs, so that every child can maximise his/her potential. The majority of children with disabilities and special educational needs are enrolled in mainstream schools and around 20% of them are enrolled in government and  community-funded  Special  Education  (SPED)  schools. Singapore's  Compulsory  Education Act, which was extended to include children with moderate-to-severe disabilities born after 1 Jan  2012,  ensures  that  all  children  have  the  right  to  government-funded  primary  education, unless granted an exemption.
-
-Students with disabilities in mainstream schools benefit from specialised manpower, including teachers and school-based personnel trained in implementing inclusive education practices in all schools. In SPED schools, students are supported by specially-trained teachers, together with allied professionals such as psychologists, therapists and social workers. SPED teachers attend a specialised pre-service training, the Diploma in Special Education, and can attend customised inservice courses conducted by training institutions.
-
-To  support  students  with  disabilities,  a  range  of  educational  programmes  and  services  are available  in  mainstream  schools,  and  government  and  community-funded  SPED  schools.  In mainstream schools, case management teams coordinate intervention programmes and support services for students with disabilities in respective schools. To foster a positive peer support
-
-> 34 Supra note 15.
-
-> 35 Supra note 16.
-
 ☒ Mainstream teachers are specifically trained on disabilities
 
 ☒ Teachers are trained to combat stigmatisation 34
@@ -716,6 +700,18 @@ To  support  students  with  disabilities,  a  range  of  educational  programme
 
 ☒ Education infrastructure and learning materials are adapted
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+Singapore strives to be an inclusive and caring society to enable persons with disabilities to participate fully as integral and contributing members of society. In education, Singapore has been strengthening support for students with diverse learning needs, so that every child can maximise his/her potential. The majority of children with disabilities and special educational needs are enrolled in mainstream schools and around 20% of them are enrolled in government and community-funded Special Education (SPED) schools. Singapore’s Compulsory Education Act, which was extended to include children with moderate-to-severe disabilities born after 1 Jan 2012, ensures that all children have the right to government-funded primary education, unless granted an exemption.
+
+Students with disabilities in mainstream schools benefit from specialised manpower, including teachers and school-based personnel trained in implementing inclusive education practices in all schools. In SPED schools, students are supported by specially-trained teachers, together with allied professionals such as psychologists, therapists and social workers. SPED teachers attend a specialised pre-service training, the Diploma in Special Education, and can attend customised in-service courses conducted by training institutions.
+
+To support students with disabilities, a range of educational programmes and services are available in mainstream schools, and government and community-funded SPED schools. In mainstream schools, case management teams coordinate intervention programmes and support services for students with disabilities in respective schools. To foster a positive peer support
+
+> 34 Supra note 15.
+
+> 35 Supra note 16.
+
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
@@ -726,12 +722,11 @@ Beyond providing quality education, MOE also works closely with SPED schools, SG
 
 Students with disabilities who progress to the Institutes of Higher Learning (IHLs) continue to receive the necessary support. Each IHL has a Disability Support Office which coordinates support for students with disabilities from pre-enrolment to graduation. Examples include working with lecturers and tutors to establish access arrangements for students with disabilities, administering funds from MOE and/or the institution for students to purchase education-related Assistive Technology devices and support services, and implementing staff training on disability support. The Offices have also put in place various initiatives to prepare students with disabilities for  the  workforce,  including  working  with  Social  Service  Agencies  (SSAs)  to  run  mentorship programmes, internship placements and job matching programmes.
 
-Education is heavily subsidised for Singaporean children in all schools, including SPED schools, such that families pay only a fraction of the cost of education. Singaporean children from lower- income families in SPED schools also have access to government financial assistance schemes which fully cover school fees, the cost of textbooks and school attire, and provide subsidies for school  meals  and  public  transport  fees.  In  addition,  all  SPED  schools  administer  their  own financial assistance schemes to those who require more support.
+Education is heavily subsidised for Singaporean children in all schools, including SPED schools, such that families pay only a fraction of the cost of education. Singaporean children from lower-income families in SPED schools also have access to government financial assistance schemes which fully cover school fees, the cost of textbooks and school attire, and provide subsidies for school meals and public transport fees. In addition, all SPED schools administer their own financial assistance schemes to those who require more support.
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
 Not applicable.
----
 
 ##### Students from poor households:
 
@@ -759,7 +754,7 @@ Not applicable.
 
 Singapore  has  been  strengthening  support  for  students  with  diverse  learning  needs,  so  that every child can maximise her/her potential.
 
-For the National Budget 2023, the Singapore Government stepped up efforts to support children from disadvantaged backgrounds. Lower-income families enjoy generous subsidies at government-supported preschools, including centres  operated  by  Anchor Operators, Partner Operators or MOE Kindergartens with Kindergarten Care. They would also be encouraged to enrol their children in preschool by age three, so they can benefit sufficiently from preschool, learn alongside their peers and start their formal education on a stronger footing. To better support  these  children's  attendance  and  learning  ne eds,  selected  government-supported preschools will be provided with additional funding or manpower to strengthen their curriculum and professional capabilities.
+For the National Budget 2023, the Singapore Government stepped up efforts to support children from disadvantaged backgrounds. Lower-income families enjoy generous subsidies at government-supported preschools, including centres operated by Anchor Operators, Partner Operators or MOE Kindergartens with Kindergarten Care. They would also be encouraged to enrol their children in preschool by age three, so they can benefit sufficiently from preschool, learn alongside their peers and start their formal education on a stronger footing. To better support these children’s attendance and learning needs, selected government-supported preschools will be provided with additional funding or manpower to strengthen their curriculum and professional capabilities.
 
 Through the Character and Citizenship Education curriculum in schools, students are taught the importance  of  respect,  care,  empathy,  and  how  to  establish  and  respect  boundaries  for themselves and others.
 
@@ -767,11 +762,11 @@ Through the Character and Citizenship Education curriculum in schools, students 
 
 Not applicable.
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during e arly childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 40 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 41 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized ‘the right to education during early childhood as beginning at birth’ (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 40 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 41. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to ‘the provision of at least one year of free and compulsory pre-primary education’.
 
 > 38 Supra note 15.
 
@@ -787,7 +782,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 ☒ Prior to pre-primary education, ECCE services are affordable
 
-☒ ECCE services are accessible on a non- discriminatory basis
+☒ ECCE services are accessible on a non-discriminatory basis
 
 ☒ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
@@ -795,7 +790,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 The Government is committed to enhancing access to affordable and quality preschools to give  every  child  a  good  start  in  life.  The  Government  ensures  that  preschools  remain affordable through provision of subsidies to parents of Singapore Citizen children, and fee caps (i.e. preschools cannot charge above a stipulated amount) at government-supported preschools. We are also increasing the number of government-supported preschool places, which allows more families to benefit from these lower fee caps. By around 2025, 80% of preschoolers can have a place in a government-supported preschool. Today, about 9 in 10 children aged 3 to 6 are enrolled in preschools.
 
-To  improve  the  quality  of  preschool  providers,  we  introduced  the  Singapore  Preschool Accreditation Framework (SPARK) in 2011. We will implement a revised SPARK 2.0 from January 2025, with a sharper focus on teaching and learning, more flexibility for preschools to develop their own programmes, and greater autonomy for preschools to take charge of their  own  quality  journey.  To  raise  the  quality  of  early  childhood  (EC)  programmes,  we implemented national learning and development frameworks, the Nurturing Early Learners (NEL) framework and the Early Years Development Framework (EYDF), for children from birth to six. The Early Childhood Development Agency (ECDA) had recently updated the EYDF  to  better  guide  educators  in  planning  and  implementing  meaningful  learning experiences for children's holistic development and well -being. The NEL Framework was revised in 2022, to provide updated guidelines for quality teaching and learning, including a stronger emphasis on developing children's values, social and emotional competencies, and learning dispositions. The National Institute of Early Childhood Development (NIEC) has worked to enhance its courses to reflect latest industry practices and cater to a range of educators  at  different  stages  of  their  careers.  NIEC  courses  take  reference  from  Early Childhood  Deve lopment  Agency  (ECDA)'s  Early  Years  Development  Framework  (EYDF), MOE's  Nurturing  Early  Learners  (NEL)  Framework  and  the  Skills  Framework  for  Early Childhood. The NEL Framework was revised in 2022, to provide updated guidelines for quality  teaching  and  lea rning,  including  a  stronger  emphasis  on  developing  children's values, social and emotional competencies, and learning dispositions.
+To improve the quality of preschool providers, we introduced the Singapore Preschool Accreditation Framework (SPARK) in 2011. We will implement a revised SPARK 2.0 from January 2025, with a sharper focus on teaching and learning, more flexibility for preschools to develop their own programmes, and greater autonomy for preschools to take charge of their own quality journey. To raise the quality of early childhood (EC) programmes, we implemented national learning and development frameworks, the Nurturing Early Learners (NEL) framework and the Early Years Development Framework (EYDF), for children from birth to six. The Early Childhood Development Agency (ECDA) had recently updated the EYDF to better guide educators in planning and implementing meaningful learning experiences for children’s holistic development and well-being. The NEL Framework was revised in 2022, to provide updated guidelines for quality teaching and learning, including a stronger emphasis on developing children’s values, social and emotional competencies, and learning dispositions. The National Institute of Early Childhood Development (NIEC) has worked to enhance its courses to reflect latest industry practices and cater to a range of educators at different stages of their careers. NIEC courses take reference from Early Childhood Development Agency (ECDA)’s Early Years Development Framework (EYDF), MOE’s Nurturing Early Learners (NEL) Framework and the Skills Framework for Early Childhood. The NEL Framework was revised in 2022, to provide updated guidelines for quality teaching and learning, including a stronger emphasis on developing children’s values, social and emotional competencies, and learning dispositions.
 
 In raising the quality of EC professionals, ECDA developed a Quality Teaching Tool (QTT) to establish a common standard for quality teaching in Singapore's context. QTT focuses on the quality of teacher-child interaction and will help teachers evaluate their pedagogical practices. The National Institute of Early Childhood Development (NIEC) has also worked to enhance its courses to reflect latest industry practices and cater to a range of educators at different stages of their careers. NIEC courses take reference from ECDA's EYDF, MOE's NEL Framework and the Skills Framework for Early Childhood. We have also revised the Code of Ethics for EC professionals, expanding it to encompass practices for early intervention educators and to provide guiding principles and more actionable commitments.
 
@@ -825,11 +820,11 @@ Not applicable.
 
 The Singapore Government has ensured preschools remain affordable by providing preschool subsidies  to  all  Singaporean  children  and  imposing  fee  caps  at  government-supported preschools.
 
-All Singapore Citizen (SC) children enrolled in an ECDA-licensed infant or childcare centre are eligible for a Basic Subsidy of up to $600 for infant care and up to $300 for childcare. Meanstested Additional Subsidy, on top of Basic Subsidy, is also available for eligible families. Eligible families whose children are enrolled in government-supported kindergarten programmes can benefit  from means-tested kindergarten subsidies (Kindergarten Fee Assistance Scheme, or KiFAS).
+All Singapore Citizen (SC) children enrolled in an ECDA-licensed infant or childcare centre are eligible for a Basic Subsidy of up to $600 for infant care and up to $300 for childcare. Means-tested Additional Subsidy, on top of Basic Subsidy, is also available for eligible families. Eligible families whose children are enrolled in government-supported kindergarten programmes can benefit from means-tested kindergarten subsidies (Kindergarten Fee Assistance Scheme, or KiFAS).
 
 In 2020, ECDA raised the monthly income ceiling for Additional Subsidy and KiFAS to $12,000, and increased subsidy amounts across all eligible income tiers.
 
-To keep fees at government-supported preschools affordable, we impose fee caps. These fee caps are supported by government grants to operators and have been steadily reduced over the  years.  By  2026,  a  dual-income  family  with  a  child  enrolled  in  full-day  childcare  in  a government-supported preschool will pay around the equivalent of primary school and afterschool student care fees, before means-tested preschool subsidies. Fee caps at Governmentsupported  preschools  have  also  kept  the  median  fees  in  the  preschool  sector  stable  and affordable despite the rising cost of preschool services. Industry median fees for infant care and childcare are lower today as compared to fees in 2013.
+To keep fees at government-supported preschools affordable, we impose fee caps. These fee caps are supported by government grants to operators and have been steadily reduced over the years. By 2026, a dual-income family with a child enrolled in full-day childcare in a government-supported preschool will pay around the equivalent of primary school and after-school student care fees, before means-tested preschool subsidies. Fee caps at Government-supported preschools have also kept the median fees in the preschool sector stable and affordable despite the rising cost of preschool services. Industry median fees for infant care and childcare are lower today as compared to fees in 2013.
 
 [[END OF PAGE 24]]
 
@@ -839,7 +834,7 @@ We are also increasing the number of government-supported preschool places, whic
 
 The monthly fee for MOE Kindergartens (MK) in 2024 is $160 for Singapore Citizens and $320 for Singapore Permanent Residents, which includes complementary programmes such as field trips.
 
-Uniforms inclusive of a polo T-shirt and khaki shorts/skorts are priced at S$14-S$15 (~US$10- US$11) per set.
+Uniforms inclusive of a polo T-shirt and khaki shorts/skorts are priced at S$14-S$15 (~US$10-US$11) per set.
 
 - What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
@@ -955,7 +950,7 @@ In this part, please provide information on the general availability and accessi
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms,  transport  and  compulsory  levies  on  parents).  Brief  quantitative  information  may  be added.
 
-General education in Singapore is heavily subsidised  by the Government. Singapore Citizen students  in  primary  education  do  not  need  to  pay  school  fees,  while  those  in  secondary education pay monthly school fees of S$5 (~US$3) for secondary level and $6 (~US$4) for pre- university  level  respectively.  They  also  pay  monthly  miscellaneous  fees  of  $13  (~US$9)  for primary level, S$20 (~US$14) for secondary level and S$25 (~US$18) for pre-university level respectively.
+General education in Singapore is heavily subsidised by the Government. Singapore Citizen students in primary education do not need to pay school fees, while those in secondary education pay monthly school fees of S$5 (~US$3) for secondary level and $6 (~US$4) for pre-university level respectively. They also pay monthly miscellaneous fees of $13 (~US$9) for primary level, S$20 (~US$14) for secondary level and S$25 (~US$18) for pre-university level respectively.
 
 It  is  the  Government's  philosophy  that  parents  pay  a  token  amount  of  fees  to  share  the responsibility for their children's education. There are financial assistance schemes available to further  defray  school  fees  for  students  who  have  difficulties  paying,  such  that  no  child  is deprived of education due to financial difficulties.
 
@@ -1083,7 +1078,7 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please elaborate further on the measures taken:
 
-Singapore has a national SkillsFuture movement, where we have developed a high-quality Training and Adult Education ecosystem, comprising higher education institutions, private training providers and enterprises. They deliver a wide range of Continuing Education and Training (CET) programmes including short modular certificate courses that provide just-intime skills top-up and longer-form full qualifications for more substantive upskilling and reskilling. Those eligible can access financial support provided by the Government, to make training more affordable and lower the opportunity cost for them to upskill and reskill. We are also providing more opportunities for fresh school leavers and adult learners to upgrade and  attain  qualifications  via  subsidised  degree  programmes,  with  the  Lifetime  Cohort Participation rate rising to 60% by 2025. In 2022, the Government invested S$0.9 billion (≈US$0.64 billion) in CET.
+Singapore has a national SkillsFuture movement, where we have developed a high-quality Training and Adult Education ecosystem, comprising higher education institutions, private training providers and enterprises. They deliver a wide range of Continuing Education and Training (CET) programmes including short modular certificate courses that provide just-in-time skills top-up and longer-form full qualifications for more substantive upskilling and reskilling. Those eligible can access financial support provided by the Government, to make training more affordable and lower the opportunity cost for them to upskill and reskill. We are also providing more opportunities for fresh school leavers and adult learners to upgrade and attain qualifications via subsidised degree programmes, with the Lifetime Cohort Participation rate rising to 60% by 2025. In 2022, the Government invested S$0.9 billion (≈US$0.64 billion) in CET.
 
 - What challenges were encountered in realizing adult learning and education?
 
@@ -1095,15 +1090,15 @@ Singapore has a national SkillsFuture movement, where we have developed a high-q
 
 ☒ Other:
 
-None of the above.
-
-- Please elaborate. Brief quantitative information may be added.
-
 ☐ Limited funding
 
 ☐ Poor learning outcomes
 
 ☐ Low number of professionally trained educators
+
+None of the above.
+
+- Please elaborate. Brief quantitative information may be added.
 
 [[END OF PAGE 30]]
 
@@ -1113,7 +1108,7 @@ Not applicable.
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1199,7 +1194,7 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 The National Institute of Education accredits and qualifies teachers of different teacher education levels. The Initial Teacher Education Programmes and Professional Development Programmes  are  available  for  teachers,  school  leaders  and  practitioners.  Postgraduate programmes are also offered to award Masters and doctoral degrees in various disciplines including Education, Arts, Science and Psychology.
 
-For primary, secondary and junior college teachers, the SkillsFuture for Educators initiative was  launched  in  2020  aims  to  improve  teachers'  competencies  and  encourage  lifelong learning  in  6  prioritised  areas  -  Assessment  Literacy,  Differentiated  Instruction,  Inquiry- based Learning, E-pedagogy, Character and Citizenship Education, and Support for Students with Special Educational Needs.
+For primary, secondary and junior college teachers, the SkillsFuture for Educators initiative was launched in 2020 aims to improve teachers' competencies and encourage lifelong learning in 6 prioritised areas - Assessment Literacy, Differentiated Instruction, Inquiry-based Learning, E-pedagogy, Character and Citizenship Education, and Support for Students with Special Educational Needs.
 
 [[END OF PAGE 32]]
 
@@ -1207,7 +1202,7 @@ For primary, secondary and junior college teachers, the SkillsFuture for Educato
 
 Last, the Teacher Work Attachment Plus programme provides teachers short-term work attachments to organisations in the people, public or private sectors. Teachers are granted professional paid leave of 2-4 weeks to participate in work attachments, with provisions in place to cover their duties in schools. In 2023, the Academy of Singapore Teachers (AST) partnered more than 77 organisations across a diverse range of industries, offering around 450 work attachment opportunities, complemented with more than 2200 half-day learning journey  placements  under  the  programme  and  regular  dialogue  sessions  with  industry experts  and  thought  leaders  on  current  challenges  and  future  opportunities.    These professional learning opoprtunities broaden teachers' perspectives, keeping them abreast of the latest issues and emerging trends in the world beyond school. MOE appreciates the keen  participation  of  industry  partners  and  values  their  support  in  strengthening  the capability  of  teachers  to  develop  in  students  the  21st  century  competencies  and dispositions to thrive in the world of life and work.
 
-Efforts to strengthen and elevate the teaching profession include having a rigorous teacher selection process to hire people with the right values, dispositions and competencies, and who could  teach  well;  providing  attractive  career  development  pathways  that  cater  to teachers'  different  talents,  abilities  and  aspirations;  and  offering  our  teachers  rich  and diverse  professional  learning  opportunities  to  hone  their  craft;  having  a  performance management system that balances performance and development; and employing various support mechanisms and programmes to support teachers' well -being including regular gathering  of  sentiments  from  teachers,  Wellness  Ambassadors  in  schools,  targeted workshops,  in-house  professional  counselling  services,  and  access  to  government-wide well-being resources.
+Efforts to strengthen and elevate the teaching profession include having a rigorous teacher selection process to hire people with the right values, dispositions and competencies, and who could teach well; providing attractive career development pathways that cater to teachers' different talents, abilities and aspirations; and offering our teachers rich and diverse professional learning opportunities to hone their craft; having a performance management system that balances performance and development; and employing various support mechanisms and programmes to support teachers' well-being including regular gathering of sentiments from teachers, Wellness Ambassadors in schools, targeted workshops, in-house professional counselling services, and access to government-wide well-being resources.
 
 - What challenges were encountered in the education personnel?
 
@@ -1301,17 +1296,13 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
 - Please elaborate:
 
-46
-
-See: Article/Paragraph 1(1).
+> 46 See: Article/Paragraph 1(1).
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
 Private education institutions (PEIs) are required to comply with the Private Education Act and its Regulations, which set standards to safeguard consumer interest and promote informed decision-making.
-
-#### 3.5 Digital education
 
 - What challenges were encountered in non-state education provision?
 
@@ -1333,6 +1324,8 @@ None of the above.
 
 Not applicable.
 
+#### 3.5 Digital education
+
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 47 .
 
 - Please indicate the measures taken to ensure the provision of quality digital education (several items may be ticked):
@@ -1345,7 +1338,7 @@ Please indicate the relevant text and provisions:
 
 ☒ Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
-☒ Measures to remove barriers to accessing digital content 48 , including ensuring access to curriculum- aligned digital content available on free, public, multi-modal national platforms; high-quality content
+☒ Measures to remove barriers to accessing digital content 48 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content
 
 > 47 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
 
@@ -1387,7 +1380,7 @@ In addition, MOE has set up the Singapore Learning Designers Circle (SgLDC) onli
 
 MOE launched the "Transforming Education through Technology" (EdTech) Masterplan 2030 in  September 2023 to harness the transformative potential of technology in teaching and learning for the General Education sector to further address and seize the opportunities of the  post-COVID  landscape.  This  is  done  through  (i)  enhancing  the  development  of  our students'  digital  literacy  and  technological  skills  needed  to  thrive  in  an  increasingly technology-saturated future; (ii) leveraging new technologies, such as Artificial Intelligence, to better customise learning for every child; and (iii) strengthening and scaling the culture of sharing and adapting technology-enabled lessons, resources, and good practices across all schools.  Initiatives  under  the  EdTech  Masterplan  2030  will  be  implemented  in  schools progressively from 2024.
 
-Under the EdTech Masterplan 2030, MOE is strengthening students' digital literacy, including digital information management skills, so that they are able to better discern the accuracy, credibility, and relevance of information. MOE will also strengthen st udents' technological skills, starting with AI literacy to equip students with knowledge about AI, and its applications for their learning and for life.
+Under the EdTech Masterplan 2030, MOE is strengthening students' digital literacy, including digital information management skills, so that they are able to better discern the accuracy, credibility, and relevance of information. MOE will also strengthen students' technological skills, starting with AI literacy to equip students with knowledge about AI, and its applications for their learning and for life.
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
@@ -1425,7 +1418,7 @@ Not applicable.
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available" (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1435,25 +1428,25 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
 - SDG4 Indicators (https://www.singstat.gov.sg/find-data/sdg/goal-4)
 
-- Education Statistics Digest (https://www.moe.gov.sg/aboutus/publications/education-statistics-digest)
+- Education Statistics Digest (https://www.moe.gov.sg/about-us/publications/education-statistics-digest)
 
 - Data.gov.sg (https://data.gov.sg)
-
-- What challenges were encountered in terms of governance?
 
 ☐ Monitoring processes are participatory, inclusive and regular.
 
 ☒ Sector-wide and multisector approach is adopted to education governance.
 
-☐ Financial  resources  are  effectively  allocated  to  prioritise  the  provision  of  free,  quality,  public education and are adequately budgeted for in government plans.
+☐ Financial resources are effectively allocated to prioritise the provision of free, quality, public education and are adequately budgeted for in government plans.
 
 ☐ The decision-making process for the allocation of resources to education is transparent.
 
-☐ Ensuring  crisis-sensitive  and  disaster  risk-informed  planning  and  programming,  including  the provision of quality education in emergencies.
+☐ Ensuring crisis-sensitive and disaster risk-informed planning and programming, including the provision of quality education in emergencies.
 
 ☐ There is a certain degree of decentralization in favour of local public authorities and autonomy for schools to ensure context relevance of their teaching.
 
 - Please elaborate on each of the measures taken:
+
+- What challenges were encountered in terms of governance?
 
 [[END OF PAGE 39]]
 
