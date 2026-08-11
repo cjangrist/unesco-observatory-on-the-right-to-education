@@ -10,17 +10,17 @@ An Act to establish and incorporate an Open University at the national level for
 
 Be it enacted by Parliament in the Thirty-sixth Year of the Republic of India as follows:
 
-(1)   This Act may be called the Indira Gandhi National Open University Act, 1985.
+1. (1) This Act may be called the Indira Gandhi National Open University Act, 1985.
 
-(2) It shall come into force on such date as the Central Government may be notification in the Official Gazette.* appoint.
+(2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette,* appoint.
 
-- In this Act, and the Statutes made hereunder, unless the context otherwise requires.
+2. In this Act, and the Statutes made hereunder, unless the context otherwise requires:
 
 (a) 'Academic Council' means the Academic Council of the University;
 
 (b) 'Board of Management' means the Board of Management of the University;
 
-(c) 'Board of Management' means the Board of Recognition of the University;
+(c) 'Board of Recognition' means the Board of Recognition of the University;
 
 (d) 'College' means a College or other academic institution established or maintained by, or admitted to the privileges of the University;
 
@@ -30,11 +30,11 @@ Be it enacted by Parliament in the Thirty-sixth Year of the Republic of India as
 
 (g) 'Finance Committee' means the Finance Committee of the University;
 
-(h) 'Governing  Body',  in  relation  to  a  College,  means  any  body  (by  whatever  name called-charged with the management of the affairs of the College and recognized as such by the University;
+(h) 'Governing Body', in relation to a College, means any body (by whatever name called) charged with the management of the affairs of the College and recognized as such by the University;
 
 (i) 'Planning Board' means the Planning Board of the University;
 
-(j) 'Regional Centre' means a centre established or maintained by the University for the purpose  of  co-ordinating  and  supervising  the  work  of  Study  Centres  and  recognized  and  for performing  such  other  functions  as  may  be  co0nferred  on  such  centre  by  the  Board  of Management;
+(j) 'Regional Centre' means a centre established or maintained by the University for the purpose of co-ordinating and supervising the work of Study Centres and for performing such other functions as may be conferred on such centre by the Board of Management;
 
 *Vide notification No.SO.678(E) dated 19.9.1985 Gazette of India: Extraordinary, Part II.Sec.3(ii)
 
@@ -56,13 +56,13 @@ Indira Gandhi National Open University
 
 (o) 'Study  Centre'  means  a  centre  established,  maintained  or  recognized  by  the University for the purpose of advising, counseling or for rendering any other assistance required by the students;
 
-(p) 'Teachers' means Professors, Readers, Lecturers and such other persons as may be designated  at  such  by  the  Ordinance  for  imparting  instruction  in  the  University  or  for  giving guidance or rendering assistance to students for pursuing any course of study of the University;
+(p) 'Teachers' means Professors, Readers, Lecturers and such other persons as may be designated as such by the Ordinances for imparting instruction in the University or for giving guidance or rendering assistance to students for pursuing any course of study of the University;
 
 (q) 'University'  means  the  Indira  Gandhi  National  Open  University  established  under this Act;
 
-(r) 'Vice-Chancellor' and 'Pro-Vice-Chancellor' mean, respectively, the ViceChancellor and a Pro-Vice-Chancellor of the University;
+(r) 'Vice-Chancellor' and 'Pro-Vice-Chancellor' mean, respectively, the Vice-Chancellor and a Pro-Vice-Chancellor of the University;
 
-( 1 )  There  shall  be  established  a  University  by  the  name  of  'the  Indira  Gandhi  National Open University';
+3. (1) There shall be established a University by the name of 'the Indira Gandhi National Open University';
 
 ( 2 )  The headquarters of the University shall be at Delhi and it may establish or maintain Colleges, Regional Centres and Study Centres at such other places in India as it may deem fit.
 
@@ -74,11 +74,11 @@ Provided  that  the  University  may,  with  the  prior  approval  of  the  Visi
 
 4. The objects of the University shall be to advance and disseminate learning and knowledge by  a  diversity  of  means,  including  the  use  of  any  communication  technology,  to  provide opportunities  for  higher  education  to  a  larger  segment  of  the  population  and  to  promote  the educational  well  being  of  the  community  generally,  to  encourage  the  Open  University  and distance  education  systems  in  the  educational  pattern  of  the  country  and  to  coordinate  and determine  the  standards  in  such  systems,  and  the  University  shall,  in  organizing  its  activities, have due regard to the objects specified in the first Schedule.
 
-( 1 ) The University shall have the following powers, namely:
+5. (1) The University shall have the following powers, namely:
 
 (i) to provide for instruction in such branches of knowledge, technology,
 
-> Provisio to Sub-Section(2) of Section 3 of the Indira Gandhi National Open University Act, 1985, enacted by the Parliament in August, 1997.  The amended Act shall come into force from 16 th December, 1997.
+> Proviso to Sub-Section (2) of Section 3 of the Indira Gandhi National Open University Act, 1985, enacted by the Parliament in August, 1997. The amended Act shall come into force from 16th December, 1997.
 
 [[END OF PAGE 2]]
 
@@ -138,9 +138,9 @@ Indira Gandhi National Open University
 
 (xxi) to recognize any institution of higher learning or studies for such purposes as the University may determine and to withdraw such recognition;
 
-(xxii) to appoint, either on contract or otherwise, visiting Professors, Emeritus Professors, Consultants, fellows, scholars, artists, course writer and such other persons who may contribute to the advancement of te objects of the University;
+(xxii) to appoint, either on contract or otherwise, visiting Professors, Emeritus Professors, Consultants, fellows, scholars, artists, course writers and such other persons who may contribute to the advancement of the objects of the University;
 
-(xxiii) to recoginse persons working in other universities, institutions or organizations as teachers of the University on such terms and conditions as may be laid down by the Ordinances;
+(xxiii) to recognize persons working in other universities, institutions or organizations as teachers of the University on such terms and conditions as may be laid down by the Ordinances;
 
 (xxiv) to  determine standards and to specify conditions for the admission of students to courses  of  study  of  the  University  which  may  include  examination,  evaluation  and  any  other method of testing;
 
@@ -150,15 +150,17 @@ Indira Gandhi National Open University
 
 (xxvii) to admit to its privileges any College in or outside India subject to such conditions as may be laid down by the Statutes;
 
-Provided that no College shall be so admitted except with the prior approval of the Visitor; (xviii) to do all such acts as may be necessary or incidental to the exercise of all or any of the powers of the University as are necessary and conducive to the promotion of all or any of the objects of the University.
+Provided that no College shall be so admitted except with the prior approval of the Visitor;
+
+(xxviii) to do all such acts as may be necessary or incidental to the exercise of all or any of the powers of the University as are necessary and conducive to the promotion of all or any of the objects of the University.
 
 ( 2) Notwithstanding anything contained in any other law for the time being in force, but without prejudice to the provisions of sub-section (1), it shall be the duty of the University to take all such steps as it may deem fit for the promotion of the open university and distance education systems  and  for  the  determination  of  standards  of  teaching,  evaluation  and  research  in  such systems, and for the purpose of performing this function, the University shall have such powers, including the power to allocate and disburse grants to Colleges, whether admitted to its privileges or  not,  or  to  any  other  university  or  institution  of  higher  learning,  as  may  be  specified  by  the Statutes.
 
-- The  University  shall  in  the  exercise  of  its  powers  have  jurisdiction  over  the  whole  of India and to the Study Centres outside India.
+6. The University shall in the exercise of its powers have jurisdiction over the whole of India and to the Study Centres outside India.
 
-( 1 )    The  University shall be open to persons of either sex and of whatever race, creed, caste or class, and it shall not be lawful for the University to adopt or impose on any
+7. (1) The University shall be open to persons of either sex and of whatever race, creed, caste or class, and it shall not be lawful for the University to adopt or impose on any
 
-> Amendment  of  Section  6  of  the  Indira  Gandhi  National  Open  University  Act,  1985  enacted  by  the Parliament  in  August,  1997.    The  amended  Act  shall  come  into  force  from  16 th December,  1997.
+> Amendment of Section 6 of the Indira Gandhi National Open University Act, 1985 enacted by the Parliament in August, 1997. The amended Act shall come into force from 16th December, 1997.
 
 [[END OF PAGE 4]]
 
@@ -168,29 +170,29 @@ Indira Gandhi National Open University
 
 5
 
-Person any test whatsoever of religious belief or profession in order to entitle him to be appointed as a teacher of the University or to hold any other office therein or admitted as a student in the University, or to graduate there at, or to enjoy or exercise any privilege thereof.
+person any test whatsoever of religious belief or profession in order to entitle him to be appointed as a teacher of the University or to hold any other office therein or admitted as a student in the University, or to graduate thereat, or to enjoy or exercise any privilege thereof.
 
 ( 2 )  Nothing in sub-section (1) shall be deemed to prevent the University from making any special  provision  for  the  appointment  or  admission  of  women  or  of  persons  belonging  to  the weaker sections of the society, and in particular, of persons belonging to the Scheduled Castes or Scheduled Tribes.
 
 8. ( 1 )  The President of India shall be the Visitor of the University .
 
-( 2 )  Subject to the provisions of sub-sections ( 3 ) and ( 4 ),  the Visitor shall have the right to cause an inspection to be made, by such person or persons as he may direct, of the University, its buildings, laboratories and equipment, and of any College, Regional Centre, a Study Centre and also of the examination, instruction and other work conducted or done by the University, and to cause  an  inquiry  to  be  made  in  like  manner  in  respect  of  any  matter  connected  with  the administration and finances of the University.
+(2) Subject to the provisions of sub-sections (3) and (4), the Visitor shall have the right to cause an inspection to be made, by such person or persons as he may direct, of the University, its buildings, laboratories and equipment, and of any College, Regional Centre or Study Centre and also of the examination, instruction and other work conducted or done by the University, and to cause an inquiry to be made in like manner in respect of any matter connected with the administration and finances of the University.
 
-(3) The Visitor shall, in every case, give notice to the University of his intention to cause an inspection or inquire to be made and the University shall, on receipt of such notice, have the right to  make,  within  thirty  days  from  the  date  of  receipt  of  the  notice  or  such  other  period  as  the Visitor may determine, such representations to him as it may consider necessary.
+(3) The Visitor shall, in every case, give notice to the University of his intention to cause an inspection or inquiry to be made and the University shall, on receipt of such notice, have the right to make, within thirty days from the date of receipt of the notice or such other period as the Visitor may determine, such representations to him as it may consider necessary.
 
 (4) After  considering  the  representations,  if  any,  made  by  the  University,  the  Visitor  may cause to be made such inspection or inquiry as is referred to in sub-section (2).
 
 (5) Where an inspection or inquiry has been caused to be made by the Visitor, the University shall be entitled to appoint a representative who shall have the right to appear in person and to be heard on such inspection or inquiry.
 
-(6) The  Visitor  may  address  the  Vice-Chancellor  with  reference  to  the  results  of  such inspection or inquiry together with such views and advice with regard to the action to be taken thereon as the Visitor may be pleased to officer and on receipt of the address made by the Visitor, the Vice-Chancellor shall communicate forthwith to the Board of Management the results of the inspection or inquiry and the views of the Visitor and the advice tendered by him upon the action to be taken thereon.
+(6) The Visitor may address the Vice-Chancellor with reference to the results of such inspection or inquiry together with such views and advice with regard to the action to be taken thereon as the Visitor may be pleased to offer and on receipt of the address made by the Visitor, the Vice-Chancellor shall communicate forthwith to the Board of Management the results of the inspection or inquiry and the views of the Visitor and the advice tendered by him upon the action to be taken thereon.
 
 (7) The Board of Management shall communicate through the Vice-Chancellor to the Visitor such  action,  if  any,  as  it  proposes  to  take  or  has  been  taken  by  it  upon  the  results  of  such inspection or inquiry.
 
 (8) Where the Board of Management does not within a reasonable time, take action to the satisfaction  of  the  Visitor,  the  Visitor  may,  after  considering  any  explanation  furnished  or representation made by the Board of Management, issue such directions as he may think fit and the Board of Management shall be bound to comply with such directions.
 
-(9) Without prejudice to the foregoing provisions of this section, the Visitor may, by an order in writing, annual any proceedings of the University which is not in conformity with this Act, the Statutes or the Ordinances.
+(9) Without prejudice to the foregoing provisions of this section, the Visitor may, by an order in writing, annul any proceedings of the University which is not in conformity with this Act, the Statutes or the Ordinances.
 
-Provided that before making nay such order, he shall call upon the University to show cause why such an order should not be made and, if any cause is shown within a reasonable time, he shall consider the same.
+Provided that before making any such order, he shall call upon the University to show cause why such an order should not be made and, if any cause is shown within a reasonable time, he shall consider the same.
 
 (10) The Visitor shall have such other powers as may be specified by the Statutes.
 
@@ -202,7 +204,7 @@ Provided that before making nay such order, he shall call upon the University to
 
 Indira Gandhi National Open University
 
-- The following shall be the officers of the University
+9. The following shall be the officers of the University:
 
 ( 1 )  The Vice-Chancellor;
 
@@ -216,17 +218,17 @@ Indira Gandhi National Open University
 
 ( 6 )  Such other officers as may be declared by the Statutes to be the officers of the University.
 
-10. (1) The Vice-Chancellor Shall be appointed by the Visitor in such manner, for such term and on such emoluments and other conditions of service as may be prescribed by the Statutes.
+10. (1) The Vice-Chancellor shall be appointed by the Visitor in such manner, for such term and on such emoluments and other conditions of service as may be prescribed by the Statutes.
 
 (2)  The  Vice-Chancellor  shall  be  the  principal  academic  and  executive  officer  of  the University, and shall exercise supervision and control over the affairs of the University and give effect to the decisions of all the authorities of the University.
 
-(3) The Vice-Chancellors may, if he is of the opinion that immediate action is necessary on any matter, exercise any power conferred on any authority of the University by or under this Act and shall report to such authority the action taken by him on such matter:
+(3) The Vice-Chancellor may, if he is of the opinion that immediate action is necessary on any matter, exercise any power conferred on any authority of the University by or under this Act and shall report to such authority the action taken by him on such matter:
 
 Provided that if the authority concerned is of the opinion that such action ought not to have been taken, it may refer the matter to the Visitor whose decision thereon shall be final:
 
-Provided  further  that  any  person  in  the  service  of  the  University  who  is  aggrieved  by  the action taken by the Vice-Chancellor under this sub-section shall have the right to appeal against such action on the Board of Management within ninety days from the date on which such action is communicated to him and thereupon the Board of management may confirm, modify or reverse the action taken by the Vice-Chancellor.
+Provided further that any person in the service of the University who is aggrieved by the action taken by the Vice-Chancellor under this sub-section shall have the right to appeal against such action to the Board of Management within ninety days from the date on which such action is communicated to him and thereupon the Board of Management may confirm, modify or reverse the action taken by the Vice-Chancellor.
 
-(4) The Vice-Chancellor, if he is of the opinion that any decision of any authority is beyond the powers of the authority conferred by the provisions of this Act, Statutes or Ordinances or that any decision taken is not in the interests of the University, may ask the authority concerned to review its decision within sixty days of such decision and if the authority refuses to review its decision either in whole or in part or no decision is taken by it with in the said period of sixty days, the matter shall be referred to the Visitor whose decision thereon shall be final:
+(4) The Vice-Chancellor, if he is of the opinion that any decision of any authority is beyond the powers of the authority conferred by the provisions of this Act, Statutes or Ordinances or that any decision taken is not in the interests of the University, may ask the authority concerned to review its decision within sixty days of such decision and if the authority refuses to review its decision either in whole or in part or no decision is taken by it within the said period of sixty days, the matter shall be referred to the Visitor whose decision thereon shall be final:
 
 Provided  that  the  decision  of  the  authority  concerned  shall  remain  suspended  during  the period of review of such decision by the authority or the Visitor, as the case may be, under this sub-section.
 
@@ -248,7 +250,7 @@ Indira Gandhi National Open University
 
 (2) A Registrar empowered by the Board of Management shall have the power to enter into, and sign, agreements and authenticate records on behalf of the University.
 
-(3) Every  Registrar  shall  exercise  such  powers  ands  perform  such  functions  as  may  be prescribed by the Statutes.
+(3) Every Registrar shall exercise such powers and perform such functions as may be prescribed by the Statutes.
 
 14. The Finance Officer shall be appointed in such manner, on such emoluments and other conditions  of  service  and  shall  exercise  such  powers  and  perform  such  functions  as  may  be prescribed by the Statutes.
 
@@ -268,7 +270,7 @@ Indira Gandhi National Open University
 
 - The Finance Committee; and
 
-- Such other authorities as may be declared by the Statues to be the authorities of the University.
+- Such other authorities as may be declared by the Statutes to be the authorities of the University.
 
 17. ( 1) The Board of Management shall be the principal executive body of the University.
 
@@ -280,7 +282,7 @@ Indira Gandhi National Open University
 
 19. (1) There shall be constituted a Planning Board of the University which shall be the principal planning body of the University and shall also be responsible for the monitoring of the developments of the University on the lines indicated in the objects of the University.
 
-(2) The constitution of the Planning Board, the term of office of its members and itws powers and functions shall be prescribed by the Statutes.
+(2) The constitution of the Planning Board, the term of office of its members and its powers and functions shall be prescribed by the Statutes.
 
 20. (1) The  Board  of  Management  shall  be  responsible  for  admitting  Colleges  to  the privileges of the University.
 
@@ -302,11 +304,11 @@ Indira Gandhi National Open University
 
 23. The constitution, powers and functions of the other authorities which may be declared by the Statutes to be authorities of the University shall be prescribed by the Statutes.
 
-24. Subject to the provisions of this Act, the Statues may provide for all or any of the following matters, namely:
+24. Subject to the provisions of this Act, the Statutes may provide for all or any of the following matters, namely:
 
-(a) the manner of appointment of the Vice-Chancellor, the term of his appointment, the emoluments  and  other  conditions  of  his  serviced  and  the  powers  and  functions  that  may  be exercised and performed by him;
+(a) the manner of appointment of the Vice-Chancellor, the term of his appointment, the emoluments and other conditions of his service and the powers and functions that may be exercised and performed by him;
 
-(b) the manner  of  appointment  of Pro-Vice-Chancellor, Directors, Registrars, the Finances Officer and other officers, the emoluments and other conditions of their service and the powers and functions that may be exercised and performed by each of the officers.
+(b) the manner of appointment of Pro-Vice-Chancellor, Directors, Registrars, the Finance Officer and other officers, the emoluments and other conditions of their service and the powers and functions that may be exercised and performed by each of the officers.
 
 (c) The constitution of the Board of Management and other authorities of the University, the terms of office of the members of such authorities and the powers and functions that may be exercised and performed by such authorities;
 
@@ -318,7 +320,7 @@ Indira Gandhi National Open University
 
 (g) The procedure in relation to any appeal or application for review by any employee or student of the University against the action of any officer or authority of the University, including the time within which such appeal or application for review shall be preferred or made;
 
-(h) The procedure for the settlement of disputes between the employees students of the University, and the University;
+(h) The procedure for the settlement of disputes between the employees or students of the University and the University;
 
 (i) The conferment of autonomous status on Colleges and Study Centres;
 
@@ -338,29 +340,31 @@ Indira Gandhi National Open University
 
 9
 
-(4) The Board of Management may, from time to time, make new or additional Statutes or may amend or repeal the Statutes referred to in sub-section ( 1 ):
+(2) The Board of Management may, from time to time, make new or additional Statutes or may amend or repeal the Statutes referred to in sub-section (1):
 
 Provided  that  the  Board  of  Management  shall  not  make,  amend  or  repeal  any  Statute affecting the status, powers or constitution of any authority of the University until such authority has been given a reasonable opportunity to express its opinion in writing on the proposed changes and any opinion so expressed has been considered by the Board of Management.
 
 (3) Every new Statute or addition to the Statutes or any amendment or repeal thereof shall require  the  approval  of  the  Visitor,  who  may  assent  thereto  or  withhold  assent  or  remit  to  the Board of Management for re-consideration in the light of the observations, if any, made by him.
 
-(4) A new Statute or a Statue amending or repealing an existing Statute shall not be valid unless it has been assented to by the Visitor
+(4) A new Statute or a Statute amending or repealing an existing Statute shall not be valid unless it has been assented to by the Visitor.
 
-(5) Notwithstanding anything contained in the foregoing sub-section, the Visitor may make new or additional Statues or amend or repeal the Statutes referred to in sub-section ( 1 ), during the period of three years immediately after the commencement of this Act.
+(5) Notwithstanding anything contained in the foregoing sub-section, the Visitor may make new or additional Statutes or amend or repeal the Statutes referred to in sub-section (1), during the period of three years immediately after the commencement of this Act.
 
-(6) Notwithstanding  anything  contained  in  the  foregoing  sub-section,  the  Visitor  may direct the University to make provisions in the Statutes in respect of any matter specified by him and if the Board of Management is unable to implement such a direction within sixty days of its receipt,  the  Visitor  may,  after  considering  the  reasons,  if  any,  communicated  by  the  Board  of Management for its inability to comply with such directions, make or amend the Statutes suitably.
+(6) Notwithstanding anything contained in the foregoing sub-section, the Visitor may direct the University to make provisions in the Statutes in respect of any matter specified by him and if the Board of Management is unable to implement such a direction within sixty days of its receipt, the Visitor may, after considering the reasons, if any, communicated by the Board of Management for its inability to comply with such directions, make or amend the Statutes suitably.
 
-26. ( 1 )  Subject to the provisions of this Act and the Statutes, the Ordinances may provide for all or any of the following matters, namely:
+26. (1) Subject to the provisions of this Act and the Statutes, the Ordinances may provide for all or any of the following matters, namely:
 
-(a) the  admission  of  students,  the  courses  of  study  and  fees  therefore,  the  qualifications pertaining  to  degrees,  diplomas,  certificates  and  other  courses,  the  conditions  for  the  grant  of fellowships awards and the like;
+(a) the admission of students, the courses of study and fees therefor, the qualifications pertaining to degrees, diplomas, certificates and other courses, the conditions for the grant of fellowships, awards and the like;
 
-(b) the  conduct  of  examinations,  including  the  terms  and  conditions  and  appointment  of examiners;
+(b) the conduct of examinations, including the terms and conditions of appointment of examiners;
 
 (c) the management of Colleges admitted to the privileges of the University; and
 
 (d) any other matter which by this Act or the Statutes is to be or may be, provided for by the Ordinances.
 
-(2)  The first Ordinances shall be made by the Vice-Chancellor with the previous approval of the Central Government and the Ordinances so made may be amended, repealed or added to at any time by the Board of Management in the manner prescribed by the Statutes.
+(2) The first Ordinances shall be made by the Vice-Chancellor with the previous approval of the Central Government and the Ordinances so made may be amended, repealed or added to at any time by the Board of Management in the manner prescribed by the Statutes.
+
+27. The authorities of the University may make Regulations, consistent with this Act, the Statutes and the Ordinances, for the conduct of their own business and that of the committees appointed by them and not provided for by this Act, the Statutes or the Ordinances, in the manner prescribed by the Statutes.
 
 [[END OF PAGE 9]]
 
@@ -370,7 +374,7 @@ Provided  that  the  Board  of  Management  shall  not  make,  amend  or  repeal
 
 Indira Gandhi National Open University
 
-28. (1) The annual report of the University shall be prepared under the directions of the Board of  Management  which  shall  include,  among  other  matters,  the  steps  taken  by7  the  University towards the fulfillment of its objects.
+28. (1) The annual report of the University shall be prepared under the directions of the Board of Management which shall include, among other matters, the steps taken by the University towards the fulfillment of its objects.
 
 (2) The annual report so prepared shall be submitted to the Visitor on or before such date as may be prescribed by the Statutes.
 
@@ -388,7 +392,7 @@ Indira Gandhi National Open University
 
 30. (1) Every employee of the University shall be appointed under a written contract and such contract shall not be inconsistent with the provisions of this Act, the Statutes and the Ordinances.
 
-(2) The contract referred to in-sub-section (1) shall be lodged with the University and a copy of which shall be furnished to the employee concerned.
+(2) The contract referred to in sub-section (1) shall be lodged with the University and a copy thereof shall be furnished to the employee concerned.
 
 31. (1) Any dispute arising out of a contract of employment referred to in section 30 between the University and an employee shall, at the request of either party, be referred to a Tribunal of Arbitration  which  shall  consist  of  one  member  nominated  by  the  Board  of  Management,  one member nominated by the employee concerned and an umpire to be nominated by the Visitor.
 
@@ -416,7 +420,7 @@ Indira Gandhi National Open  University
 
 35. No act or proceedings of any authority or any other body shall be invalidated merely by reason of the existence of any vacancy or vacancies among its members.
 
-36.  No  suit  or  other  legal  proceedings  shall  lie  against  any  officer  or  employee  of  the University for any thing which is in good faith done or intended to be done in pursuance of any of the provisions of this Act or the Statutes or the Ordinances.
+36. No suit or other legal proceedings shall lie against any officer or employee of the University for anything which is in good faith done or intended to be done in pursuance of any of the provisions of this Act or the Statutes or the Ordinances.
 
 37. A copy of any receipt, application, notice, order, proceedings, resolution of any authority or committee of the University, or other documents in the possession of the University, or any entry in any register duly maintained by the University, if certified by the Registrar so designated shall, notwithstanding anything contained in the Indian Evidence Act, 1872, or in any other law for  the  time  being  in  force,  be  admitted  as  evidence  of  the  matters  and  transactions  specified therein, where the original thereof would, if produced, have been admissible in evidence.
 
@@ -430,9 +434,9 @@ Provided that no such order shall be made under this section after the expiry of
 
 Provided that the first Vice-Chancellor shall be eligible for appointment in the manner specified in the Statutes for another term;
 
-(b) The first Board of Management shall consist of not more than fifteen members who shall be nominated by the Visitor and they shall hold office for a term of three year; and
+(b) The first Board of Management shall consist of not more than fifteen members who shall be nominated by the Visitor and they shall hold office for a term of three years; and
 
-(c)  (i) The first Planning Board shall consist of not more than ten members who shall be nominated by the Visitor and they shall hold for a term of three years;
+(c) (i) The first Planning Board shall consist of not more than ten members who shall be nominated by the Visitor and they shall hold office for a term of three years;
 
 [[END OF PAGE 11]]
 
@@ -442,11 +446,11 @@ Provided that the first Vice-Chancellor shall be eligible for appointment in the
 
 Indira Gandhi National Open University
 
-(ii) The planning Board shall, in addition to the powers and functions conferred on it by this  Act,  exercise  the  powers  of  the  Academic  Council,  until  the  Academic  Council  is constituted  under  the  provisions  of  this  Act  and  the  Statutes,  and  in  the  exercise  of  such powers, the Planning Board may co-opt such members as it may decide.
+(ii) The Planning Board shall, in addition to the powers and functions conferred on it by this Act, exercise the powers of the Academic Council, until the Academic Council is constituted under the provisions of this Act and the Statutes, and in the exercise of such powers, the Planning Board may co-opt such members as it may decide.
 
 40. (1) Every Statute, Ordinance or Regulation made under this Act shall be published in the Official Gazette.
 
-(2) Every Statute, Ordinance or Regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive session, and if, before  the  expiry  of  the  session  immediately  following  the  session  or  successive  sessions aforesaid, both Houses agree in making any modification in the Statute, Ordinance or Regulation or both Houses agree that the Statute, Ordinance or Regulation should not be made, the Statute, Ordinance  or  Regulation  shall  thereafter  have  effect  only  in  such  modified  form  or  be  of  no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that Statute, Ordinance or Regulation.
+(2) Every Statute, Ordinance or Regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or successive sessions aforesaid, both Houses agree in making any modification in the Statute, Ordinance or Regulation or both Houses agree that the Statute, Ordinance or Regulation should not be made, the Statute, Ordinance or Regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that Statute, Ordinance or Regulation.
 
 [[END OF PAGE 12]]
 
@@ -468,7 +472,7 @@ Indira Gandhi National Open University
 
 (d)  provide  an  innovative  system  of  university  level  education,  flexible  and  open,  in regard to methods and pace of learning, combination of courses, eligibility for enrolment, age of entry, conduct of examination and operation of the programmes with a view to promote learning and encourage excellence in new fields of knowledge;
 
-(e) contribute to the improvement of the educational system in India by providing a nonformal channel complementary to the formal system and encouraging transfer of credits and exchange of teaching staff by making wide use of texts and other software developed by the University;
+(e) contribute to the improvement of the educational system in India by providing a non-formal channel complementary to the formal system and encouraging transfer of credits and exchange of teaching staff by making wide use of texts and other software developed by the University;
 
 (f)  provide  education  and  training  in  the  various  arts,  crafts  and  skills  of  the  country, raising their quality and improving their availability to the people;
 
@@ -486,37 +490,37 @@ Indira Gandhi National Open University
 
 [[START OF PAGE 14]]
 
-#### The Vice-Chancellor
-
-- The Vice-Chancellor shall be a whole-time salaried officer of the University.
-
-- The  Vice-Chancellor  shall  be  appointed  by  the  Visitor  from  out  of  a panel  of  not  less  than  three  persons  recommended  (the  names  being arranged  in  the  alphabetical  order)  by  a  committee  constituted  under clause ( 3):
-
-- Provided  that  if  the  Visitor  doe  not  approve  of  any  of  the  persons  so recommended the may call for fresh recommendations.
-
-- The committee referred to in clause ( 2) shall consist of three members of whom two shall be nominated by the Board of Management and one by the  Visitor,  and  the  person  nominated  by  the  Visitor  shall  be  the Convener of the committee:
-
-- Provided  that  no  person  who  is  an  employee  of  the  University  of  any affiliated College or a member of any authority of the University shall be nominated to bean member of the Committee.
-
-- The Vice-Chancellor shall hold office for a term of five years from the date  on  which  he  enters  upon  his  office,  or  until  he  attains  the  age  of sixty-five years, whichever is earlier, and he shall not be eligible for reappointment:
-
-- Provided  than  the  Visitor  may  require  any  Vice-Chancellor  after  his term has expired, to continue in office for such period, not exceeding a total period of one year as may be specified by him.
-
-- The emolument and other conditions of service of the Vice-Chancellor shall be as follows:
-
-(i) There shall be paid to the Vice-Chancellor a salary of Rs.7600/- (fixed) (prerevised) per month and he would be entitled to the free use of the University car and without payment of rent, to the use of furnished residence throughout his  term  of  the  office  and  no  charge  shall  fall  on  the  Vice-Chancellor personally in respect of the maintenance of such residence.
-
-Note: The above will be effective from 1.1.1986.
-
-(ii) In addition to the salary specified in sub-clause (i), the Vice-Chancellor shall be entitled to such other allowances  as are admissible to University employees from time to time.
-
-Amendment regarding salary of Vice-Chancellor in Sub-clause (i) of Clause (5) of Statute 1 is approved by the Board of Management at its Meeting held on December 31, 1987 and modified in its Meeting held on August 30, 1988 (Resolution No.6.11.1 and 11.17.1 respectively) received the approval of the Visitor vide MHRD letter No.F.5-16/88-U.I.(Desk) dated November 10,1989)
-
 ## THE SECOND SCHEDULE
 (See Section 24)
 
 ### STATUTES OF THE UNIVERSITY
 (as amended upto 31.3.1998)
+
+#### 1. The Vice-Chancellor
+
+(1) The Vice-Chancellor shall be a whole-time salaried officer of the University.
+
+(2) The Vice-Chancellor shall be appointed by the Visitor from out of a panel of not less than three persons recommended (the names being arranged in the alphabetical order) by a committee constituted under clause (3):
+
+Provided that if the Visitor does not approve of any of the persons so recommended he may call for fresh recommendations.
+
+(3) The committee referred to in clause (2) shall consist of three members of whom two shall be nominated by the Board of Management and one by the Visitor, and the person nominated by the Visitor shall be the Convener of the committee:
+
+Provided that no person who is an employee of the University or any affiliated College or a member of any authority of the University shall be nominated to be a member of the Committee.
+
+(4) The Vice-Chancellor shall hold office for a term of five years from the date on which he enters upon his office, or until he attains the age of sixty-five years, whichever is earlier, and he shall not be eligible for re-appointment:
+
+Provided that the Visitor may require any Vice-Chancellor after his term has expired, to continue in office for such period, not exceeding a total period of one year as may be specified by him.
+
+(5) The emoluments and other conditions of service of the Vice-Chancellor shall be as follows:
+
+(i) There shall be paid to the Vice-Chancellor a salary of Rs.7600/- (fixed) (pre-revised) per month and he would be entitled to the free use of the University car and without payment of rent, to the use of furnished residence throughout his term of office and no charge shall fall on the Vice-Chancellor personally in respect of the maintenance of such residence.
+
+Note: The above will be effective from 1.1.1986.
+
+(ii) In addition to the salary specified in sub-clause (i), the Vice-Chancellor shall be entitled to such other allowances as are admissible to University employees from time to time.
+
+Amendment regarding salary of Vice-Chancellor in Sub-clause (i) of Clause (5) of Statute 1 is approved by the Board of Management at its Meeting held on December 31, 1987 and modified in its Meeting held on August 30, 1988 (Resolution No.6.11.1 and 11.17.1 respectively) received the approval of the Visitor vide MHRD letter No.F.5-16/88-U.I.(Desk) dated November 10,1989)
 
 [[END OF PAGE 14]]
 
@@ -534,17 +538,17 @@ Provided  further  that  where  such  employee  had  been  a  member  of  any  p
 
 (iv)    The  Vice-Chancellor  shall  be  entitled  to  Leave  Travel  Concession,  Medical  Facilities  and Traveling Allowance at such rates as may be fixed by the Board of Management.
 
-(v)   The Vice-Chancellor shall be entitled to leave on full pay for one-eleventh of the period spent by him to active service.
+(v) The Vice-Chancellor shall be entitled to leave on full pay for one-eleventh of the period spent by him in active service.
 
-(vi)  In addition to the leave referred to in sub-clause(v), the Vice-Chancellor shall be entitled to half pay leave at the rate of twenty days per year of every completed year of service and the half pay leave may be availed of as commuted leave on full pay on medical certificate.
+(vi) In addition to the leave referred to in sub-clause(v), the Vice-Chancellor shall be entitled to half pay leave at the rate of twenty days per year of every completed year of service and the half pay leave may be availed of as commuted leave on full pay on medical certificate.
 
-- If the Office of the Vice-Chancellor becomes vacant due to death, resignation or otherwise, or if he is unable to perform his duties due to ill health or any other cause, the senior-most Pro ViceChancellor, shall perform the duties of the Vice-Chancellor, and if there is no Pro Vice-Chancellor, the Senior-most Professor from amongst Directors of the Schools shall perform the functions of the Vice-Chancellor until the new Vice-Chancellor assumes his office or until the existing ViceChancellor attends to the duties of his office, as the case may be.
+(6) If the Office of the Vice-Chancellor becomes vacant due to death, resignation or otherwise, or if he is unable to perform his duties due to ill health or any other cause, the senior-most Pro-Vice-Chancellor shall perform the duties of the Vice-Chancellor, and if there is no Pro-Vice-Chancellor, the Senior-most Professor from amongst Directors of the Schools shall perform the functions of the Vice-Chancellor until the new Vice-Chancellor assumes his office or until the existing Vice-Chancellor attends to the duties of his office, as the case may be.
 
-#### Powers and functions of the Vice-Chancellor
+#### 2. Powers and functions of the Vice-Chancellor
 
-- The Vice-Chancellor shall be ex officio Chairman of the Board of Management, the Academic Council, the Planning Board and the Finance Committee.
+(1) The Vice-Chancellor shall be ex officio Chairman of the Board of Management, the Academic Council, the Planning Board and the Finance Committee.
 
-- The Vice-Chancellor shall be entitled to be present at, and address, any meeting of any other authority or other body of the University, but shall not be entitled to vote there at unless he is a member of such authority or body.
+(2) The Vice-Chancellor shall be entitled to be present at, and address, any meeting of any other authority or other body of the University, but shall not be entitled to vote thereat unless he is a member of such authority or body.
 
 - It shall be the duty of the Vice-Chancellor to see that this Act, the Statutes, Ordinances and Regulations are duly observed and he shall have all the powers necessary to ensure such observance.
 
@@ -554,9 +558,9 @@ Provided  further  that  where  such  employee  had  been  a  member  of  any  p
 
 _________________________
 
-> Amendment to Sub-clause (iv) of Clause (5) of Statute 1 regarding Vice-Chancellor is made by the BOM at its meeting held on 18.02.1991, received the approval of the Visitor vide MHRD letter No.F.5-25/91-u.1.(Desk) dated 14.08.1991.
+> Amendment to Sub-clause (iv) of Clause (5) of Statute 1 regarding Vice-Chancellor is made by the BOM at its meeting held on 18.02.1991, received the approval of the Visitor vide MHRD letter No.F.5-25/91-U.I.(Desk) dated 14.08.1991.
 
-Amendment to Clause (6) of Statute 1, regarding Vice-Chancellor in made by the BOM at its 74 th meeting held on 28-2-03, received the approval of the Visitor vide MHRD letter No. F-5-24/2003-Desk (U)(A) dt.  22-11-04.
+Amendment to Clause (6) of Statute 1, regarding Vice-Chancellor is made by the BOM at its 74th meeting held on 28-2-03, received the approval of the Visitor vide MHRD letter No. F-5-24/2003-Desk (U)(A) dt. 22-11-04.
 
 [[END OF PAGE 15]]
 
@@ -580,7 +584,7 @@ Provided  that  arrangement  made  under  sub-clause(ii)  of  Clause  (6)  may  
 
 (8) The Vice-Chancellor shall have the power to convene or cause to be convened the meetings of the Board of Management, the Academic Council, the Planning Board and the Finance Committee.
 
-- The Vice-Chancellor shall have the following further powers, namely:
+(9) The Vice-Chancellor shall have the following further powers, namely:
 
 (i) to  appoint  such  Professors,  Readers,  Lecturers  and  other  teachers  as  may  be necessary with the prior approval of the Board of Management;
 
@@ -596,7 +600,7 @@ Provided  that  arrangement  made  under  sub-clause(ii)  of  Clause  (6)  may  
 
 Provided that if any recommendation of the Vice-Chancellor is not accepted by the Board of Management, the matter shall be referred to the Visitor who may either appoint the person recommended by the Vice-Chancellor or request the Vice-Chancellor to recommend another person for consideration by the Board of Management:
 
-Provided further that the Board of Management may, on the recommendation of the ViceChancellor, appoint a Professor or a Director of a School/Division to perform the functions of a Pro- ViceChancellor in addition to his own functions as a Professor or a Director of a School/Division.
+Provided further that the Board of Management may, on the recommendation of the Vice-Chancellor, appoint a Professor or a Director of a School/Division to perform the functions of a Pro-Vice-Chancellor in addition to his own functions as a Professor or a Director of a School/Division.
 
 (2) The term of office of a Pro-Vice-Chancellor shall be such as may be decided by the Board of Management, but it shall not in any case exceed three years or until the expiration of the term of office of the Vice-Chancellor, whichever, is earlier and he shall be eligible for re-appointment:
 
@@ -616,69 +620,67 @@ Indira Gandhi National Open University
 
 17
 
-Provided  further  that  a  Pro-Vice-Chancellor    shall,  while  performing  the  functions  of  the  ViceChancellor under clause (6) of Statute 1, continue in office notwithstanding the expiration of his term of office as Pro-Vcie-Chancellor until a new Vice-Chancellor assumes his office or until the existing Vice-Chancellor attends to the duties of his office, as the case may be.
+Provided further that a Pro-Vice-Chancellor shall, while performing the functions of the Vice-Chancellor under clause (6) of Statute 1, continue in office notwithstanding the expiration of his term of office as Pro-Vice-Chancellor until a new Vice-Chancellor assumes his office or until the existing Vice-Chancellor attends to the duties of his office, as the case may be.
 
 (3) (a) The Salary of a Pro-Vice-Chancellor shall be fixed in the scale of pay of Rs.5900-200-7300 (pre-revised)  subject  to  a  minimum  of  Rs.6500  per  month.    Where  a  Professor/Director  of School/Division is appointed to perform the functions of a Pro-Vice-Chancellor in addition to his own function as such Professor/Director of School/Division he shall draw his pay in his substantive post plus a special pay of Rs.500 per month, or Rs.7300 (pre-revised) whichever is less.
 
-(b) Every Pro-Vice Chancellor during his tenure shall be entitled, without  payment  of  rent,  to  the  use  of  a  furnished  residence throughout his term of office and no charge shall fall on the ProVice-Chancellor  personally  in  respect  of  maintenance  of  such residence.
+(b) Every Pro-Vice-Chancellor during his tenure shall be entitled, without payment of rent, to the use of a furnished residence throughout his term of office and no charge shall fall on the Pro-Vice-Chancellor personally in respect of maintenance of such residence.
 
-(c) In addition to the salary specified in sub-clause (a), a Pro-ViceChancellor  shall  be  intitiled  to  such  other  allowances  as  are admissible  to  the  emiployees  of  the  University  from  time  to time.
+(c) In addition to the salary specified in sub-clause (a), a Pro-Vice-Chancellor shall be entitled to such other allowances as are admissible to the employees of the University from time to time.
 
-(d) The Pro-Vice-Chancellor  during his tenure shall be entitled to leave,  as  admissible  to  the  employee  of  the  University  from time to time.  Provided further that where an employee of the University or a College affiliated to it or of any other University or institution maintained by or affiliated to such other University,  is  appointed  as  a  Pro-Vice-Chancellor  he  shall continue to be governed by the same Leave Rules to which he was  entitiled  prior  to  his  appointment  as  Pro-Vice-Chancellor till he continues to hold his lian on that post.
+(d) The Pro-Vice-Chancellor during his tenure shall be entitled to leave, as admissible to the employee of the University from time to time. Provided further that where an employee of the University or a College affiliated to it or of any other University or institution maintained by or affiliated to such other University, is appointed as a Pro-Vice-Chancellor he shall continue to be governed by the same Leave Rules to which he was entitled prior to his appointment as Pro-Vice-Chancellor till he continues to hold his lien on that post.
 
-(e) The Pro-Vice-Chancellor shall beentitled to Travelling Allowance, Leave Travel Concession and Medical Concession as are admissible to the employees of the University from time to time.
+(e) The Pro-Vice-Chancellor shall be entitled to Travelling Allowance, Leave Travel Concession and Medical Concession as are admissible to the employees of the University from time to time.
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-Gandhi National Open University
-
-Indira
-
 18
 
-(h)  Every Pro-Vice-Chancellor shall assist the Vice-Chancellor in respect of such matters as may be specified by the Vice-Chancellor in this behalf from time to time and shall also exercise such powers and perform such functions as may be delegated to him by the Vice-Chancellor.
+Indira Gandhi National Open University
 
-#### The Directors
+(4) Every Pro-Vice-Chancellor shall assist the Vice-Chancellor in respect of such matters as may be specified by the Vice-Chancellor in this behalf from time to time and shall also exercise such powers and perform such functions as may be delegated to him by the Vice-Chancellor.
 
-- Every Director shall be appointed by the Board of Management on the recommendation of
+#### 4. The Directors
+
+(1) Every Director shall be appointed by the Board of Management on the recommendation of
 
 (i) the Vice-Chancellor, in case the candidate to be appointed is already a teacher of the University; and
 
 (ii) a Selection Committee constituted for the purpose as per the qualifications prescribed by the Board of Management in each case.
 
-'Provided that
+“Provided that
 
-(a) A Director of a School shall be appointed from among the Professors of the School by the Board of management on the recommendation of the Vice-Chancellor;
+(a) A Director of a School shall be appointed from among the Professors of the School by the Board of Management on the recommendation of the Vice-Chancellor;
 
 (b) The rotation of directorship among the disciplines of a School be kept in view while making the recommendation;
 
-(c) The Director of STRIDE and the Director, Regional Services Division shall be appointed by the Board of Management on the recommendations of the Vice Chancellor from amongst the Professors in STRIDE and the Regional Directors in Professors scale, respectively; and
+(c) The Director of STRIDE and the Director, Regional Services Division shall be appointed by the Board of Management on the recommendations of the Vice-Chancellor from amongst the Professors in STRIDE and the Regional Directors in Professors scale, respectively; and
 
-(d) A Director shall hold office for a period of the years and that he shall be eligible for re-appointment.'
+(d) A Director shall hold office for a period of three years and that he shall be eligible for re-appointment.”
 
-- Every Director shall be a whole-time salaried officer of the University:
+(2) Every Director shall be a whole-time salaried officer of the University:
 
 Provided that one of the Directors shall be in charge of the administrative affairs of the teachers.
 
-- The emoluments and other conditions of service of the Director shall be prescribed by the Ordinances;
+(3) The emoluments and other conditions of service of the Director shall be prescribed by the Ordinances;
 
 Provided that a Director shall retire on attaining the age of sixty two years.
 
-- A Director shall exercise such powers and perform such functions as may be prescribed by the Ordinances.
+(4) A Director shall exercise such powers and perform such functions as may be prescribed by the Ordinances.
 
-#### The Registrar
+#### 5. The Registrar
 
-- Every Registrar shall be appointed by the Board of Management on the recommendation of a Selection Committee constituted for the purpose and he shall be a whole-time salaried officer of the University.
+(1) Every Registrar shall be appointed by the Board of Management on the recommendation of a Selection Committee constituted for the purpose and he shall be a whole-time salaried officer of the University.
 
-- The emoluments and other conditions of service of a Registrar shall be prescribed by the Ordinances:
+(2) The emoluments and other conditions of service of a Registrar shall be prescribed by the Ordinances:
 
-- Provided that a Registrar shall retire on attaining the age of sixty years.
+Provided that a Registrar shall retire on attaining the age of sixty years.
 
-- A Registrar designated by the Board of Management shall have power to take disciplinary action against such of the employees, excluding teachers and other members as may be specified by the Board of Management by order.
+(3) A Registrar designated by the Board of Management shall have power to take disciplinary action against such of the employees, excluding teachers and other members as may be specified by the Board of Management by order.
 
-- An appeal shall lie to an officer so designated by the Board of Management against any order made by the Registrar in pursuance of clause (3).
+(4) An appeal shall lie to an officer so designated by the Board of Management against any order made by the Registrar in pursuance of clause (3).
 
 [[END OF PAGE 18]]
 
@@ -686,7 +688,7 @@ Provided that a Director shall retire on attaining the age of sixty two years.
 
 (5)   In cases where an inquiry discloses that a punishment beyond the powers of a Registrar is called for, the Registrar shall, consequent to the enquiry, make a report to the Vice-Chancellor along with his recommendations for such action as the Vice-Chancellor may deem fit:
 
-Provided that an appeal shall lie to the Board of Management against an order of the ViceChancellor imposing any penalty.
+Provided that an appeal shall lie to the Board of Management against an order of the Vice-Chancellor imposing any penalty.
 
 (6)  Such of the Registrar as is designated by the Board of Management shall be:
 
@@ -700,7 +702,29 @@ Addition to Clause (1)(ii) of Statute 4 was approved by the Board of Management 
 
 Amendment to Clause (1)(ii) (c ) and addition of Sub Clause (ii) (d) and Clause (3) of Statute 4 approved by the Board of Management at its meeting held on 28.2.03 and assent of the Visitor conveyed vide MHRD letter No. F.5-2/2003-Desk (U)(A) dt. 6.10.04.
 
-Amendment to Clause (6) (i)(ii) and (iii) of Statute 5 regarding the Registrar approved by the Board of Management at its meeting held on 28.2.03 and assent of Visitor conveyed vide MHRD letter No.F-5-25/2003Desk(U)(A) dated 15.3.04.
+Amendment to Clause (6) (i)(ii) and (iii) of Statute 5 regarding the Registrar approved by the Board of Management at its meeting held on 28.2.03 and assent of Visitor conveyed vide MHRD letter No.F-5-25/2003-Desk(U)(A) dated 15.3.04.
+
+#### 6. The Finance Officer
+
+(1) The Finance Officer shall be appointed by the Board of Management on the recommendation of a Selection Committee constituted for the purpose and he shall be a whole-time salaried officer of the University.
+
+(2) The emoluments and other conditions of service of the Finance Officer shall be prescribed by the Ordinances:
+
+Provided that the Finance Officer shall retire on attaining the age of sixty years.
+
+(3) The Finance Officer shall be ex officio Secretary to the Finance Committee, but shall not be deemed to be a member of the Committee.
+
+(4) The Finance Officer shall—
+
+(a) exercise general supervision over the funds of the University and shall advise it as regards its financial policy; and
+
+(b) perform such other financial functions as may be assigned to him by the Board of Management or as may be prescribed by the Ordinances:
+
+Provided that the Finance Officer shall not incur any expenditure or make any investment exceeding such amount as may be prescribed without the previous approval of the Board of Management.
+
+(5) Subject to the control of the Board of Management, the Finance Officer shall—
+
+(a) hold and manage the property and investments of the University including
 
 [[END OF PAGE 19]]
 
@@ -722,7 +746,7 @@ trust and immovable properties for fulfilling any of the objects of the Universi
 
 (f)  ensure that the registers of properties of the University are maintained properly and that  stock  checking  is  conducted  of  equipments  and  other  materials  in  the  offices  of  the University  including  Regional  Centres,  Study  Centres  and  other  institutions  maintained  by the University;
 
-(g)  bring  to  the  notice  of  the  Vice-chancellor  any  unauthorized  expenditure  or  other financial irregularities and suggest appropriate action against persons at fault;
+(g) bring to the notice of the Vice-Chancellor any unauthorized expenditure or other financial irregularities and suggest appropriate action against persons at fault;
 
 (h) call from any office of the University, including Regional Centre, Study Centres and other  institutions  maintained  by  the  University,  any  information  or  reports  that  he  may consider necessary for the performance of his functions.
 
@@ -738,17 +762,19 @@ Provided that the Librarian and Information Officer shall retire on attaining th
 
 #### 6A. The Board of Management
 
-(1) The Board on Management shall consist of the following members, namely;
+(1) The Board of Management shall consist of the following members, namely;
 
 (i) Vice-Chancellor;
 
 (ii) Senior-most Pro-Vice-Chancellor;
 
-(iii) Three employees of the University who shall be nominated by 'the Vice-Chancellor, of which one shall be from the Directors of School of Studies; and the other two from the teachers and other academic staff other than the Directors of School;
+(iii) Three employees of the University who shall be nominated by the Vice-Chancellor, of which one shall be from the Directors of School of Studies; and the other two from the teachers and other academic staff other than the Directors of School;
 
 ______________________________
 
-> Statute 6A on Board of Management, made by the Board of Management at its meeting held on October 7, 1988 and October, 5, 1989 received the approval of the Visitor vide MHRD letter No. F.5-81/88-U.I.(Desk) dated April 20, 1990. Statute 6.1 on Librarian and Information Officer, made by the Board of Management at its meeting held on 28.3.97 received the approval of the Visitor vide MHRD letter No. F.5-33/97-Desk(U)(A_ and dated 20.3.97.
+> Statute 6A on Board of Management, made by the Board of Management at its meeting held on October 7, 1988 and October 5, 1989 received the approval of the Visitor vide MHRD letter No. F.5-81/88-U.I.(Desk) dated April 20, 1990.
+
+> Statute 6.1 on Librarian and Information Officer, made by the Board of Management at its meeting held on 28.3.97 received the approval of the Visitor vide MHRD letter No. F.5-33/97-Desk(U)(A) dated 20.3.97.
 
 [[END OF PAGE 20]]
 
@@ -770,7 +796,7 @@ Indira Gandhi National Open University
 
 ( v ) Two representatives of the Government of India; Secretary, Department of Education and Secretary, Information and Broadcasting, to be nominated by the Visitor; and
 
-( vi ) Tree persons to be co-opted by the Board of Management from among the following;
+(vi) Three persons to be co-opted by the Board of Management from among the following;
 
 ( a ) A Vice-Chancellor of a State Open University;
 
@@ -830,11 +856,11 @@ Indira Gandhi National Open University
 
 the  Finance  Officer  or  any  other  officer,  employee  or  authority  of  the  University,  or  to  a committee appointed by it.
 
-(p) to institute fellowships, scholarships, studentship; and
+(p) to institute fellowships, scholarships, studentships; and
 
 (q) to exercise such other powers and perform such other functions as may be conferred or imposed on it by the Act or the Statutes.
 
-(3)  'The  Board of Management shall exercise all the powers of the University not otherwise provided  for  by  the  Act,  Statutes,  Ordinances  and  the  Regulations  for  the  fulfillment  of  the University.
+(3) The Board of Management shall exercise all the powers of the University not otherwise provided for by the Act, Statutes, Ordinances and the Regulations for the fulfillment of the objects of the University.
 
 #### 8. Omitted
 
@@ -850,7 +876,7 @@ ___________________________________
 
 > Statute  9  on    the  Academic  Council  made  by  the  Board  of  Management  at  its  meeting  held  on  October  7,  1988 (Resolution  No.  12.1.2)  received  the  approval  of  the  Visitor  vide  MHRD    letter  No.  F.5-46/88-U.I  (Desk)  dated 25.1.1989 and 16.3.1989. The existing statute 9 'Powers of the Academic Council', stands renumbered as 9A.
 
-Amendment to clause (1) of Statute 9 was approved by the Board of Management at its meeting held on 17-5-1996 and the assent of the visitor is conveyed 'vide MHRD letter No. F.5-50/96-U.I. (Desk)/Desk(U)(A) dated 4.11.1996.
+Amendment to clause (1) of Statute 9 was approved by the Board of Management at its meeting held on 17-5-1996 and the assent of the visitor is conveyed vide MHRD letter No. F.5-50/96-U.I. (Desk)/Desk(U)(A) dated 4.11.1996.
 
 [[END OF PAGE 22]]
 
@@ -880,9 +906,9 @@ Provided that while making these nominations, the principle of rotation among sc
 
 (2) The members of the Academic Council, other than ex-officio members, shall hold office for a term of two years from the date of their appointment or co-option, as the case may be.
 
-- Ten members of the Academic Council shall form the quorum for a meeting.
+(3) Ten members of the Academic Council shall form the quorum for a meeting.
 
-#### 9A . Powers of the Academic Council
+#### 9A. Powers of the Academic Council
 
 Subject to the Act, the Statutes and the Ordinances, the Academic Council shall, in addition to all other powers vested in it under the Statutes, shall have the following powers, namely:
 
@@ -890,13 +916,13 @@ Subject to the Act, the Statutes and the Ordinances, the Academic Council shall,
 
 Provided that all matters relating to research shall under the overall guidance and supervision of the Academic Council, be the responsibility of a Research Council whose functions and composition shall be provided in the Ordinances.
 
-(b) to consider matters of general academic interest either on its own initiative or on a reference from the Planning Board of a School of Studies or the Board of Management and to take appropriate action thereon; and
+(b) to consider matters of general academic interest either on its own initiative or on a reference from the Planning Board or a School of Studies or the Board of Management and to take appropriate action thereon; and
 
 (c) to frame such regulations and rules consistent with the Statutes and the Ordinances regarding the academic functioning of the University, including
 
 _______________________
 
-> Addition of Proviso to Clause (a) to Statute 9A was approved by the Board of Management at its 48 th meeting held on 30.7.96 and assent of the Visitor was conveyed vide MHRD's letter No. F.5-65/96-U. 1 (Desk)/Desk (U)(A) dated 21-11-96
+> Addition of Proviso to Clause (a) to Statute 9A was approved by the Board of Management at its 48th meeting held on 30.7.96 and assent of the Visitor was conveyed vide MHRD's letter No. F.5-65/96-U.I. (Desk)/Desk (U)(A) dated 21-11-96
 
 > Amendment  to  Clause  (1)  Sub  Clause  (vii)  and  adding  sub  Clause  (x)  under  the  Statute  9  was  approved  by  the  Board  of Management held on 28.2.03 and approved by the Visitor vide MHRD letter No. F.5-25/2003/Desk(U)(A) dated 15.3.04.
 
@@ -912,7 +938,7 @@ discipline, admissions, award of fellowships and studentships, fees and other ac
 
 #### 10. The Planning Board
 
-- The Planning Board shall consist of the following:
+(1) The Planning Board shall consist of the following:
 
 (i) Vice-Chancellor;
 
@@ -930,17 +956,17 @@ discipline, admissions, award of fellowships and studentships, fees and other ac
 
 (e) Women's Studies.
 
-(iv) Five persons, who are not employees of the University, to be nominated by the Board of management, for their expertise, one each of the following areas of specialization:
+(iv) Five persons, who are not employees of the University, to be nominated by the Board of Management, for their expertise, one each of the following areas of specialization:
 
 (a) Management;
 
 (b) Learned Professions;
 
-(c) Education
+(c) Education;
 
 (d) Distance Education; and
 
-(e) Commerce and Industry
+(e) Commerce and Industry;
 
 (v) Such of the Registrar as is designated by the Board of Management shall be a Member (Ex-officio)
 
@@ -956,11 +982,11 @@ Provided that in case there is any difference of opinion between the Planning Bo
 
 ____________________
 
-> Substitution of Clause (1) and addition of Clause (6) to Statute 10 on the Planning Board, made by the Board of Management at its meeting  held  on  October  7,  1988  (Resolution  No.  12.9.1)  received  approval  of  the  Visitor  vide  MHRD  letter  No.  P.5-80/88-U.I. (Desk) dated 30.1..89.
+> Substitution of Clause (1) and addition of Clause (6) to Statute 10 on the Planning Board, made by the Board of Management at its meeting held on October 7, 1988 (Resolution No. 12.9.1) received approval of the Visitor vide MHRD letter No. F.5-80/88-U.I. (Desk) dated 30.1.89.
 
 > Amendment to Sub-Clause (iv) of Clause (1) of Statute 10 (the word 'co-opted' in the first line of the Clause substituted with the word 'nominated')  was  made  by  the  Board  of  Management  at  its  meetings  held  on  Aug.  17,  1990  and  Dec.  14,  1990  respectively  and received the approval of the Visitor vide MHRD letter No. F.5-55/90-U.I. (Desk) dated April 18, 1991.
 
-> Addition to Clause (1) Sub Clauses (v) and (vi) of the Statute 10 regarding the Planning Board approved by the Board of Management at its meeting held on 28.2.03 and as sent of the visitor was conveyed vide MHRD letter No. F.5-25/2003-Desk (U)(A) dated 5.3.04.
+> Addition to Clause (1) Sub Clauses (v) and (vi) of the Statute 10 regarding the Planning Board approved by the Board of Management at its meeting held on 28.2.03 and assent of the Visitor was conveyed vide MHRD letter No. F.5-25/2003-Desk (U)(A) dated 5.3.04.
 
 [[END OF PAGE 24]]
 
@@ -978,25 +1004,25 @@ Indira Gandhi National Open University
 
 (1) The University shall have the following Schools of Studies, namely:
 
-- School of Humanities;
+1. School of Humanities;
 
-- School of Social Sciences;
+2. School of Social Sciences;
 
-- School of Sciences;
+3. School of Sciences;
 
-- School of Education;
+4. School of Education;
 
-- School of Continuing Education;
+5. School of Continuing Education;
 
-- School of Engineering and Technology;
+6. School of Engineering and Technology;
 
-- School of Management Studies;
+7. School of Management Studies;
 
-- School of Health Sciences;
+8. School of Health Sciences;
 
-- School of Computer and Information Sciences; and
+9. School of Computer and Information Sciences; and
 
-- Such other Schools as may be set-up by the Statutes.
+10. Such other Schools as may be set-up by the Statutes.
 
 ( 2 )  Every  School  of  Studies,  hereinafter  called  'School',  shall  have  a  Board,  which  shall comprise of the following;
 
@@ -1004,11 +1030,11 @@ Indira Gandhi National Open University
 
 ( b )  All  Professors  of  the  disciplines  assigned  to  the  School  of  Studies,  as  may  be determined by the Academic Council, from time to time;
 
-( c )  At  least  four  Reader/Lecturers  assigned  to  the  School,  nominated  by  the  ViceChancellor;
+(c) At least four Reader/Lecturers assigned to the School, nominated by the Vice-Chancellor;
 
 ( d ) Not more than four Professors/Readers/Lecturers from disciplines not assigned to the School, nominated by the Vice-Chancellor; and
 
-( e ) Not more than five person, who are not the employees of the University, co-opted by the Board for their specialized knowledge in any discipline assigned to the School or in any allied branch of knowledge.
+(e) Not more than five persons, who are not the employees of the University, co-opted by the Board for their specialized knowledge in any discipline assigned to the School or in any allied branch of knowledge.
 
 ( 3 ) All members of the Board, other than the ex-officio members, shall hold office for a term of two years. The term of members will commence from such date as may be notified.
 
@@ -1020,7 +1046,7 @@ Indira Gandhi National Open University
 
 _______________________________
 
-> Statute  10A  on  Schools  of  Studies,  made  by  the  Board  of  Management  at  its  meetings  held  on  May  20,  1988  and August  30,  1988  (Resolution  No.  11.29.1)  received  the  approval  of  the  Visitor  vide  MHRD  letter  No  F.5-42/.88U.I(Desk) dated November 1, 1988.
+> Statute 10A on Schools of Studies, made by the Board of Management at its meetings held on May 20, 1988 and August 30, 1988 (Resolution No. 11.29.1) received the approval of the Visitor vide MHRD letter No. F.5-42/88-U.I.(Desk) dated November 1, 1988.
 
 > Amendment to Clause (1) of Statute 10A made by the Board of Management at its meeting held on February 18, 1991 is approved by the Visitor vide letter No. F.5-26/91-U.I. Desk dated 6.5. 1991.
 
@@ -1052,7 +1078,7 @@ Indira Gandhi National Open University
 
 ( xii ) To delegate to the Director or to any other members of the Board or to a Committee such general or specific powers, as may be decided upon by the School, from time to time.
 
-(5) The Board shall meet, as and when necessary, but shall meet at least twice a year. Onethird of the total membership of the Board shall form a quorum for a meeting of the School.
+(5) The Board shall meet, as and when necessary, but shall meet at least twice a year. One-third of the total membership of the Board shall form a quorum for a meeting of the School.
 
 #### 11. The Finance Committee
 
@@ -1100,7 +1126,7 @@ of Management,
 
 (7) The Finance Committee shall fix the limits for the total recurring and non-recurring expenditure for the year, based on income and resources of the University, and no expenditure shall be incurred by the University in excess of the limits so fixed.
 
-#### 12 . Selection Committee
+#### 12. Selection Committee
 
 (1 )  There shall be Selection Committees for making recommendations to the Board of Management for  appointments  to  the  post  of  Professors,  Readers,  Lecturers  and  other  academic  staff  and  heads  of institutions maintained by the University.
 
@@ -1108,7 +1134,7 @@ of Management,
 
 (a) the Vice-Chancellor;
 
-(b) Pro-Vice Chancellor associated with the School/Division/Centre nominated by the ViceChancellor;
+(b) Pro-Vice Chancellor associated with the School/Division/Centre nominated by the Vice-Chancellor;
 
 (c) a person nominated by the Visitor;
 
@@ -1142,7 +1168,7 @@ Indira Gandhi National Open University
 
 (e) one  person  not  in  the  service  of  the  University  nominated  by  the  Board  of Management.
 
-(3) The quorum for a meeting of a Selection Committee shall be four, which will include at least two experts in the case of the Selecting Committee mentioned in Sub-clause (2)(i) of this Statute.
+(3) The quorum for a meeting of a Selection Committee shall be four, which will include at least two experts in the case of the Selection Committee mentioned in Sub-clause (2)(i) of this Statute.
 
 (4) The procedure to be followed by a Selection Committee in making recommendations shall be laid down in the Ordinances.
 
@@ -1170,7 +1196,7 @@ The  Board  of  Management  may  appoint  a  person  selected  in  accordance  w
 
 > Amendment  to  sub-clause  (2)(ii)(e)  of  Statute  12  regarding  Selection  Committees  is  approved  by  the Visitor vide Ministry of HRD's letter No.F.5-26/93-U.I (Desk) dated 20 th October, 1994.
 
-> Amendment to clause (2) of statute 13 (the word 'statutes' is substituted y the work 'ordinances') was made by  the  the  Board  of  Management  at  its  meeting  held  on  August  17,  1990  (Resolution  No.19.17.1)  and approved by the Visitor vide MHRD letter No.F.6-62/90-U.I (Desk) dated 14.12.90.
+> Amendment to clause (2) of statute 13 (the word 'statutes' is substituted by the word 'ordinances') was made by the Board of Management at its meeting held on August 17, 1990 (Resolution No.19.17.1) and approved by the Visitor vide MHRD letter No.F.6-62/90-U.I (Desk) dated 14.12.90.
 
 [[END OF PAGE 28]]
 
@@ -1211,7 +1237,7 @@ Every  teacher  shall  take  part  in  the  activities  of  the  University  and
 ##### ( 6 ) Probation -
 Teachers  shall  be  appointed  on  probation  ordinarily  for  a  period  of  12 months, but in no case shall the total period of probation exceed 24 months.
 
-Provided that the Board of Management may, for reasons to be recorded, waive the September 2, 1987 and July 22, 1988 respectively and received he approval of te Visitor vide letter No.F.5-54/87.UI(Desk) dated August 1, 1989 and April 4, 1990.
+Provided that the Board of Management may, for reasons to be recorded, waive the
 
 > Additions to Statute 7 (from Clause(4) to (14) and subsequent amendments to Clauses (12), (13) and  (14)  of  the  said  statute  were  made  by  the  Board  of  Management  at  its  meetings  held  on
 
@@ -1219,7 +1245,7 @@ Provided that the Board of Management may, for reasons to be recorded, waive the
 
 [[START OF PAGE 30]]
 
-(this page came through the extractor with no text)
+> September 2, 1987 and July 22, 1988 respectively and received the approval of the Visitor vide letter No.F.5-54/87.U.I.(Desk) dated August 1, 1989 and April 4, 1990.
 
 [[END OF PAGE 30]]
 
@@ -1231,7 +1257,7 @@ Indira Gandhi National Open University
 
 Condition of probation: provided further that the condition of probation shall not apply in the case of teachers appointed by the Board of Management under the provision of Statute 13(1).
 
-Provided also that a Lecturer appointed on probation would be confirmed only after he has satisfactorily completed a proper short-term orientation of programme as may be determined by the University and that his performance appraisal reports and satisfactory.
+Provided also that a Lecturer appointed on probation would be confirmed only after he has satisfactorily completed a proper short-term orientation of programme as may be determined by the University and that his performance appraisal reports are satisfactory.
 
 ##### (7)  Confirmation -
 (a)  It shall be the duty of the Registrar to place before the Board of Management the case of confirmation of a teacher on probation not later than forty days before the end of period of probation.
@@ -1241,14 +1267,14 @@ Provided also that a Lecturer appointed on probation would be confirmed only aft
 (c) A teacher appointed by the Board of Management under Statute 13(1) shall be deemed to be confirmed with effect from the date he joins duty.
 
 ##### (8)  Increment -
-Every  teacher  shall  draw  increment  in  the  scale  of  pay  unless  it  is withheld or postponed by a resolution of the Board of Management on reference by the ViceChancellor  and  after  the  teacher  has  been  given  sufficient  opportunity  to  make  his  written representation.
+Every teacher shall draw increment in the scale of pay unless it is withheld or postponed by a resolution of the Board of Management on reference by the Vice-Chancellor and after the teacher has been given sufficient opportunity to make his written representation.
 
 ##### (9)  Age  of  retirement -
 (a)  Save  as  otherwise  provided  in  the  Act,  Statutes  and Ordinances all teachers of the University shall retire from service on the afternoon of the last date of the month in which he/she attains the age of 60 years.
 
-(b) The Board of Management it it is satisfied, on the recommendation of the ViceChancellor, may, in the interest of the University, re-employ a teacher who has retired after the expiry of his contract.
+(b) The Board of Management if it is satisfied, on the recommendation of the Vice-Chancellor, may, in the interest of the University, re-employ a teacher who has retired after the expiry of his contract.
 
-Provided that no teacher shall be eligible to be re-employ under this clause or on such re-employment to continue as a teacher after he has attained the age of 65 years.
+Provided that no teacher shall be eligible to be re-employed under this clause or on such re-employment to continue as a teacher after he has attained the age of 65 years.
 
 Provided further that a teacher so re-employed shall not be eligible to hold an office which involves administrative work; provided also that the salary of such teachers shall be fixed after taking into consideration the pension or other retirement benefits drawn or to be drawn by him in accordance with the rules prescribed by the Central Government.
 
@@ -1272,7 +1298,7 @@ Indira Gandhi National Open University
 
 Provided  that  the  Board  of  Management  may  waive  the  requirement  of  notice  at  its discretion.
 
-##### Members  of  the  teaching  staff -
+##### (12) Members of the teaching staff -
 The  members  of  the  teaching  staff  shall  be designated as:
 
 ( 1 )  Professor
@@ -1286,7 +1312,7 @@ The  members  of  the  teaching  staff  shall  be designated as:
 ( 5 )  Lecturer
 
 ##### ( 13) Scale of pay -
-The scale of pay for these posts specified in column (i) of the teachers below shall be those specified against each in column (ii).
+The scale of pay for these posts specified in column (i) of the table below shall be those specified against each in column (ii).
 
 _______________________________________________________________________
 
@@ -1337,15 +1363,15 @@ Provided that where the teachers, member of the academic staff or other employee
 
 Provided that such resignation shall take effect only on the date on which the resignation is accepted by the Board of Management, or the appointing authority, as the case may be.
 
-(c) the appointing authority may, however, waive the notice period in respect of a nonacademic  permanent  or  temporary  employee  on  technical  resignation  to take up an appointment in the same or other organisation, if he/she has applied through proper channel.
+(c) the appointing authority may, however, waive the notice period in respect of a non-academic permanent or temporary employee on technical resignation to take up an appointment in the same or other organisation, if he/she has applied through proper channel.
 
 #### 20. Maintenance of discipline amongst students of the University
 
 (1) The powers regarding discipline and disciplinary action in regard to the students of the University shall vest with the Vice-Chancellor.  The Vice Chancellor may delegate all or any of his powers, as he may deem fit.
 
-(2) Without prejudice to the generality of his powers relating to the maintenance of discipline and taking such action as he may deem appropriate for the maintenance of discipline, the ViceChancellor  may,  in  the  exercise  of  his  power,  by  order,  direct  that  any  student  or  students  be expelled or rusticated for a specified period and not admitted to a Course or courses of study in the University or a recognized inssitution for a stated period, or be punished with a fine for an amount to be specified in the order, or, debar him from taking an examination or examinations conducted by the University or a recognized institution for one or more  years  or  that  theresult  of  the  student  or  students  concerned  in  theexamination  or examinations in which he or she has appeared to be concelled.
+(2) Without prejudice to the generality of his powers relating to the maintenance of discipline and taking such action as he may deem appropriate for the maintenance of discipline, the Vice-Chancellor may, in the exercise of his power, by order, direct that any student or students be expelled or rusticated for a specified period and not admitted to a
 
-> Addition of sub-clause (c) to Clause (6) of the Statute 19 was approved by the Board of Management at its 46 th meeting held on 19.3.96 and assent of the visitor was conveyed vide MHRD's letter No.F.5-39/960U.I (Desk) dated 25.7.96.
+> Addition of sub-clause (c) to Clause (6) of the Statute 19 was approved by the Board of Management at its 46th meeting held on 19.3.96 and assent of the visitor was conveyed vide MHRD's letter No.F.5-39/96-U.I (Desk) dated 25.7.96.
 
 [[END OF PAGE 33]]
 
@@ -1355,17 +1381,19 @@ Indira Gandhi National Open University
 
 33
 
-(3) The  heads  of  recognsed  institutions  shall  have  the  authority  to  exercise  all  such disciplinary powers over the students in their respective institutions a may be necessary for proper conduct of such institution.
+Course or courses of study in the University or a recognized institution for a stated period, or be punished with a fine for an amount to be specified in the order, or, debar him from taking an examination or examinations conducted by the University or a recognized institution for one or more years or that the result of the student or students concerned in the examination or examinations in which he or she has appeared be cancelled.
+
+(3) The heads of recognised institutions shall have the authority to exercise all such disciplinary powers over the students in their respective institutions as may be necessary for proper conduct of such institution.
 
 #### 21. Convocation
 
-Convocations  of  the  University  for  the  conferring  of  degrees  or  diplomas  or  for  other purposes may be held in such manner as many be prescribed by the Ordinances.
+Convocations of the University for the conferring of degrees or diplomas or for other purposes may be held in such manner as may be prescribed by the Ordinances.
 
 #### 22 . Honorary Degrees.
 
-All  proposals  for  the  conferment  of  honorary  degrees  shall  be  initiated  by  the  ViceChancellor who, after consultation with the Academic Council and the Board of Management, shall submit the same to the Visitor for confirmation.
+All proposals for the conferment of honorary degrees shall be initiated by the Vice-Chancellor who, after consultation with the Academic Council and the Board of Management, shall submit the same to the Visitor for confirmation.
 
-#### 23. General Provident Fund-cum-Pension-cum-Gratuity and Contributory Provident Fund-cumGratuity.
+#### 23. General Provident Fund-cum-Pension-cum-Gratuity and Contributory Provident Fund-cum-Gratuity.
 
 (1) The management of the following schemes:
 
@@ -1377,7 +1405,7 @@ All  proposals  for  the  conferment  of  honorary  degrees  shall  be  initiate
 
 ##### Definitions
 
-- In  these  schemes,  unless  there  is  anything  repugnant  in  the  subject  or  context.
+(3) In these schemes, unless there is anything repugnant in the subject or context.
 
 (a)   'employee' means any person appointed by the University as a member of its staff and includes teachers and other academic staff of the University.
 
@@ -1401,7 +1429,7 @@ Indira Gandhi National Open University
 
 ###### Note
 
-(1) In respect of persons who have come over to the revised scales of pay introduced w.e.f. 1.1.86, emoluments mean basic pa only from that date.
+(1) In respect of persons who have come over to the revised scales of pay introduced w.e.f. 1.1.86, emoluments mean basic pay only from that date.
 
 (2) If an employee immediately before his retirement or relinquishment of service, has been absent from duty on leave with allowances, his emoluments for purposes of calculating service gratuity/or death or retirement gratuity shall be taken as what he would have drawn had he not been absent from duty:
 
@@ -1411,15 +1439,15 @@ Provided  that  the  amount  of  gratuity  is  not  increased  on  account  of  
 
 (4) Pay includes the pay drawn on tenure appointment(s).
 
-( c ) 'Average Emoluments' means the average of the emoluments as defined above calculated in respect of the last ten months of serves:
+(c) 'Average Emoluments' means the average of the emoluments as defined above calculated in respect of the last ten months of service:
 
 Provided that if, during the last 10 months of service, a person has been absent from duty on leave without allowances or suspended under such circumstances that the period of suspension does not count as service, the period so passed shall be disregarded in the calculation of average emoluments and an equivalent period prior to 10 months being included.
 
 (d) 'family'  for  the  purpose  of  General  Provident  Fund  and  Contributory  Provident  Fund means:
 
-(i) in the case of male subscriber, the wife or wives and children of a subscriber and the widow  or  widow  and  children  of  a  deceased  son  of  the  subscriber;  provided  that  if  a subscriber proves that his wife has been judicially separated from him or has ceased under the customary  law  of  the  community  to  which  she  belongs  to  be  entitled  to  maintenance,  she shall henceforth be deemed to be no longer a member of the subscriber's family in matters to which  these  rules  relate,  unless  the  subscriber  subsequently  intimates  in  writing  to  the Finance Officer that she shall continue to be regarded;
+(i) in the case of male subscriber, the wife or wives and children of a subscriber and the widow or widows and children of a deceased son of the subscriber; provided that if a subscriber proves that his wife has been judicially separated from him or has ceased under the customary law of the community to which she belongs to be entitled to maintenance, she shall henceforth be deemed to be no longer a member of the subscriber's family in matters to which these rules relate, unless the subscriber subsequently intimates in writing to the Finance Officer that she shall continue to be regarded;
 
-(ii) in  the  case  of  female  subscriber,  the  husband  and  children  of  a  subscriber  and  the window  or  windows  and  children  of  a  deceased  son  of  a  subscriber  provided  that  if  a subscriber  by  notice  in  writing  to  the  Finance  Officer  expresses  her  desire  to  exclude  her husband from her family, the husband shall henceforth be deemed to be no longer a member of  the  subscriber's  family  in  matters  to  which  these  rules  relate,  unless  the  subscriber subsequently cancels such notice in writing.
+(ii) in the case of female subscriber, the husband and children of a subscriber and the widow or widows and children of a deceased son of a subscriber provided that if a subscriber by notice in writing to the Finance Officer expresses her desire to exclude her husband from her family, the husband shall henceforth be deemed to be no longer a member of the subscriber's family in matters to which these rules relate, unless the subscriber subsequently cancels such notice in writing.
 
 ###### Note
 
@@ -1437,41 +1465,41 @@ Indira Gandhi National Open University
 
 35
 
-###### Note
-
-Extraordinary leave may be allowed to count at the discretion of the appointing authority in the following circumstances:
-
-(1) if it is taken on appointment in another University institution or any other Authority and that University Institution/Authority or 'the person concerned makes necessary contribution towards his pension;
-
-(2) it is taken on medical certificates;
-
 (g) 'leave' means any variety of leave recognized by the University.
 
-(h) 'pay'  means  the  amount  drawn  monthly  by  a  person  as  pay  which  has  been sanctioned for the post held by him substantively or in an officiating capacity and includes special pay, personal pay and deputation duty allowance, if any.
+(h) 'pay' means the amount drawn monthly by a person as pay which has been sanctioned for the post held by him substantively or in an officiating capacity and includes special pay, personal pay and deputation duty allowance, if any.
 
 ###### Note
 
-In  respect  of  persons  who  have  come  over  to  the  revised  scale  of  pay  introduced  with effect from 1.1.86 pay means 'basic pay' only.
+In respect of persons who have come over to the revised scale of pay introduced with effect from 1.1.86 pay means 'basic pay' only.
 
 (i) 'personal pay' means additional pay granted to a person
 
-(i) to save him from a loss of substantive pay in respect of a permanent post owing to  revision  of  pay  or  to  any  reduction  of  such  substantive  pay  other  wise  than  as disciplinary measure; or
+(i) to save him from a loss of substantive pay in respect of a permanent post owing to revision of pay or to any reduction of such substantive pay otherwise than as disciplinary measure; or
 
 (ii) in exceptional circumstances on other personal considerations.
 
-(j) 'qualifying  service'  means  service  rendered  by  an  employee  in  a  substantive capacity including periods spent on probation.  All service rendered in the University on a full time basis in a temporary or officiating capacity without interruption followed by confirmation in the same or another post shall count as qualifying service except in respect of periods of service paid from contingencies.
+(j) 'qualifying service' means service rendered by an employee in a substantive capacity including periods spent on probation. All service rendered in the University on a full time basis in a temporary or officiating capacity without interruption followed by confirmation in the same or another post shall count as qualifying service except in respect of periods of service paid from contingencies.
 
 ###### Explanation I Counting of period of leave as qualifying service:
 
 (i) All periods of leave with pay and allowances shall count as qualifying service.
 
-(ii) The period spent on deputation or training or deputation for any special purpose including periods of travel to and from the country of deputation, shall count as qualifying service;  provided  that  if  the  employee  has  availed  himself  of  any  extraordinary  leave without allowances during the period of deputation, the period of such extraordinary leave shall be excluded except as provided under Note below sub-clause (ii) of Explanation II.
+(ii) The period spent on deputation or training or deputation for any special purpose including periods of travel to and from the country of deputation, shall count as qualifying service; provided that if the employee has availed himself of any extraordinary leave without allowances during the period of deputation, the period of such extraordinary leave shall be excluded except as provided under Note below sub-clause (ii) of Explanation II.
 
 ###### Explanation II Periods not counting as qualifying service:
 
-(i) Time passed under suspension by a member of the staff pending inquiry into his conduct  where  on  conclusion  of  the  inquiry  he  has  not  been  fully  exonerated  or  the suspension is not held to have been wholly unjustified; unless the Board of management expressly declares at the time that it shall count, and then it shall count only to such extent as the Board of management may declare.
+(i) Time passed under suspension by a member of the staff pending inquiry into his conduct where on conclusion of the inquiry he has not been fully exonerated or the suspension is not held to have been wholly unjustified; unless the Board of management expressly declares at the time that it shall count, and then it shall count only to such extent as the Board of management may declare.
 
 (ii) Extraordinary leave without allowances.
+
+###### Note
+
+Extraordinary leave may be allowed to count at the discretion of the appointing authority in the following circumstances:
+
+(1) if it is taken on appointment in another University institution or any other Authority and that University Institution/Authority or the person concerned makes necessary contribution towards his pension;
+
+(2) it is taken on medical certificates;
 
 [[END OF PAGE 36]]
 
@@ -1497,7 +1525,7 @@ An employee may add to his service qualifying for superannuation pension but not
 
 (b) to which candidates of more than twenty-five years of age are normally recruited.
 
-Provided that  this  concession  shall  not  be  admissible  to  any  such  employee  unless  his actual decision to grant this concession shall be taken by the Board of Management at the time of recruitment of the employee.
+Provided that this concession shall not be admissible to any such employee unless his actual qualifying service at the time he quits the University service is not less than ten years. The decision to grant this concession shall be taken by the Board of Management at the time of recruitment of the employee.
 
 ###### Explanation IV
 
@@ -1511,7 +1539,7 @@ Provided that  this  concession  shall  not  be  admissible  to  any  such  empl
 
 (k) 'special pay' means an addition in the nature of pay to the emoluments of a post or of a person granted in consideration of the specially arduous nature of his duties or of a specific addition to his work or responsibility.
 
-(l) 'tenure post' means a permanent post which an individual may not hold for more thana limited period.
+(l) 'tenure post' means a permanent post which an individual may not hold for more than a limited period.
 
 (m) 'year' means the financial year of the University.
 
@@ -1531,19 +1559,19 @@ Indira Gandhi National Open University
 
 ##### (4) (a) Application of Statutes
 
-A person who joins the University service on or after the 20 th September, 1985 shall opt for one of the two alternative schemes set out in Appendices A and B to this Statute.  The option provided for in this sub-clause shall be exercised and communicated to the Registrar in writing within  3months  of  the  date  of  notification  of  the  General  Provident  Fund-cum-Pension-cumGratuity Scheme and Contributory Provident Fund-cum-Gratuity Scheme or within 3 months of joining the University service in the case of a new entrant and, option when once exercised, shall be final.
+A person who joins the University service on or after the 20th September, 1985 shall opt for one of the two alternative schemes set out in Appendices A and B to this Statute. The option provided for in this sub-clause shall be exercised and communicated to the Registrar in writing within 3 months of the date of notification of the General Provident Fund-cum-Pension-cum-Gratuity Scheme and Contributory Provident Fund-cum-Gratuity Scheme or within 3 months of joining the University service in the case of a new entrant and the option, when once exercised, shall be final.
 
 A person who does not exercise his option within the aforesaid period of three months, shall  be  deemed  to  have  opted  for  the  General  Provident  Fund-cum-Pension-cum-Gratuity Scheme set out in Appendix 'A'.
 
-(b) A person who holds a temporary appointment in the service of the University shall, after continuous service of one year, be entitled to the benefits of the General Provident Fundcum-Pension-cum-Gratuity Scheme set out in Appendix 'A' to this Statute, or according to his option of the Contributory Provident Fund-cum-Gratuity Scheme set out in Appendix 'B' to this Statute, from the date of commencement of service.
+(b) A person who holds a temporary appointment in the service of the University shall, after continuous service of one year, be entitled to the benefits of the General Provident Fund-cum-Pension-cum-Gratuity Scheme set out in Appendix 'A' to this Statute, or according to his option of the Contributory Provident Fund-cum-Gratuity Scheme set out in Appendix 'B' to this Statute, from the date of commencement of service.
 
 (5) The provisions of this Statute shall not apply to purely temporary and daily wage staff, persons appointed on consolidated salary or on special terms and deputationists.  The pensioners re-employed after superannuation are eligible only for Contributory Provident Fund.  The persons appointed on contract, for a fixed term, shall be governed by the provisions of Appendix 'B' to this Statute.  No person who is permitted to subscribe to the Contributory Provident Fund shall be eligible to subscribe to the General Provident Fund.
 
 Provided that a person who is initially appointed on contract and is subsequently continued permanently shall have on cancellation of his contract terms, the option to choose either of the two Schemes set out in Appendices A and B and he shall have for the purpose of these schemes the  benefit  of  the  service  rendered  under  contract,  if  the  retirement  benefits  under  the  contract terms are paid back by him to the University.
 
-##### 6(i) Transfer of employees from Central Government, Central University or autonomous bodies of Cenntral Government
+##### 6(i) Transfer of employees from Central Government, Central University or autonomous bodies of Central Government
 
-Where an employee of Central Government/Central University/autonomous body of Central Government including a statutory body is permanently absorbed in the University, such of the past services rendered by him as would have counted for retirement benefits in that Government/organisation shall count for retirement benefits palpable by the University subject to the following:
+Where an employee of Central Government/Central University/autonomous body of Central Government including a statutory body is permanently absorbed in the University, such of the past services rendered by him as would have counted for retirement benefits in that Government/organisation shall count for retirement benefits payable by the University subject to the following:
 
 (a) The  transfer  is  with  the  consent  of  the  parent  Government/organisation  and  is  in public interest.
 
@@ -1559,7 +1587,7 @@ Where an employee of Central Government/Central University/autonomous body of Ce
 
 Indira Gandhi National Open University
 
-(d) In case the employee is on CPF Scheme the accumulations in the CPF account and the capitalized value of gratuity, if any, is transferred by the parent government/organisation to the University at the time of permanent absorption.  I, however, the employee has opted, within  one  year  of  permanent  absorption,  for  counting  past  service  rendered  in  the  parent body  as  qualifying  for  pension  by  foregoing  employers  share  of  CPF  Contribution  with interest, such accumulations, along with capitalized value of gratuity, if any, he transferred by the parent organisaion to the University at the time of permanent absorption.
+(d) In case the employee is on CPF Scheme the accumulations in the CPF account and the capitalized value of gratuity, if any, is transferred by the parent government/organisation to the University at the time of permanent absorption. If, however, the employee has opted, within one year of permanent absorption, for counting past service rendered in the parent body as qualifying for pension by foregoing employer's share of CPF Contribution with interest, such accumulations, along with capitalized value of gratuity, if any, be transferred by the parent organisation to the University at the time of permanent absorption.
 
 ##### (ii)  When an employee of State Government/State University is permanently absorbed in the University.
 
@@ -1577,7 +1605,7 @@ The orders issued by the Government of India and as may be amended from time to 
 
 (iv) In  all  cases  of  absorption  where  the  liability  of  retirement  benefits  is  to  be  borne  by  a body other than the University, prior approval of that body to the arrangement proposed should be obtained.
 
-(7) As and when the Central Government mends its rules relating to the General Provident Fund, Contributory Provident Fund, Pension, Gratuity etc., such amendments shall be deemed to have been incorporated in the Statutes with effect from the date such amendments are brought into force by the Central Government with respect to its employees.
+(7) As and when the Central Government amends its rules relating to the General Provident Fund, Contributory Provident Fund, Pension, Gratuity etc., such amendments shall be deemed to have been incorporated in the Statutes with effect from the date such amendments are brought into force by the Central Government with respect to its employees.
 
 ##### General (Miscellaneous)
 
@@ -1595,7 +1623,7 @@ Indira Gandhi National Open University
 
 #### 24. Seniority Lists
 
-(1) Whenever, accordance with these Statutes, any person is to hold an officer or be a member  of  an  authority  of  the  University  by  seniority,  such  seniority  shall  be  determined according to length of continuous service of  such person in his  grade, and in accordance  with such other principles as the Board of Management may, from time to time, determine.
+(1) Whenever, in accordance with these Statutes, any person is to hold an office or be a member of an authority of the University by seniority, such seniority shall be determined according to length of continuous service of such person in his grade, and in accordance with such other principles as the Board of Management may, from time to time, determine.
 
 (2) It  shall  be  the  duty  of  the  Registrar,  designated  by  the  Board  of  Management  to prepare and maintain in respect of each class of persons to whom the provisions of these Statutes apply a complete and up to-date seniority list in accordance with the provisions of the foregoing clause.
 
@@ -1617,9 +1645,9 @@ Provided further that if the Board of management considers any amendment necessa
 
 > Statute  24  on  Seniority  Lists,  made  by  the  Board  of  Management  at  its  meeting  held  on  7 th October,  1988  (Res. No.12.9.1) received the approval of the Visitor vide MHRD letter No.F.5-77/88-U.I.(Desk) dated 21.12.88
 
-> Statute 25 on Date of submission of Annual Report, made by the Board of Management at its meeting held on October 7,  1988 (Res. No.12.9.1) received the approval of the Visitor vide MHRD letter No. No.F.5-77/88-U.I.(Desk) dated August, 1 1989.
+> Statute 25 on Date of submission of Annual Report, made by the Board of Management at its meeting held on October 7, 1988 (Res. No.12.9.1) received the approval of the Visitor vide MHRD letter No. No.F.5-77/88-U.I.(Desk) dated August 1, 1989.
 
-> Statue 26 was made by the Board of Management at its meeting held on December 14, 1990 and received the approval of the Visitor vide MHRD letter No. No.F.5/16/91-U.I.(Desk) dated April 18, 1991.
+> Statute 26 was made by the Board of Management at its meeting held on December 14, 1990 and received the approval of the Visitor vide MHRD letter No. No.F.5/16/91-U.I.(Desk) dated April 18, 1991.
 
 [[END OF PAGE 40]]
 
@@ -1629,7 +1657,7 @@ Provided further that if the Board of management considers any amendment necessa
 
 Indira Gandhi National Open University
 
-(4) All Ordinances made by the Board of Management shall be submitted to the Visitor within  three  weeks  from  the  date  of  its  adoption.    The  Visitor  may,  within  four  weeks  of  the receipt of any Ordinance, inform the University about his objection, if any, to that Ordinance, and direct that its operation shall remain suspended until he has had an opportunity of exercising his power of disallowance.  The Visitor may, after receiving the Ordinance, and his decision shall be final.
+(4) All Ordinances made by the Board of Management shall be submitted to the Visitor within three weeks from the date of its adoption. The Visitor may, within four weeks of the receipt of any Ordinance, inform the University about his objection, if any, to that Ordinance, and direct that its operation shall remain suspended until he has had an opportunity of exercising his power of disallowance. The Visitor may, after receiving the comments of the University, either withdraw the order suspending the Ordinance or disallow the Ordinance, and his decision shall be final.
 
 #### 27. Regulation how made
 
@@ -1649,7 +1677,7 @@ Indira Gandhi National Open University
 
 (1) Consistent with the duty of the University to take all such steps as it may deem fit for the promotion of the Open University and distance education systems in the educational pattern of the country and for the coordination and determination of standards of teaching, evaluation & research in such systems; and in pursuance of the objects of the University to encourage greater flexibility, diversity, accessibility, mobility and innovation in education at the University level by making full use of the latest scientific knowledge and new educational technology, and to further cooperation  between  the  existing  Universities;  it  is  considered  necessary  and  expedient  to establish a Distance Education Council as an authority of the University under Section 16 of the Act.
 
-(2)  (a) There shall  be  a  Distance  Education  Council  (DEC)  which  shall,  within  the frame work of the policies and guidelines laid down by the Board of Management, be responsible for the promotion and coordination of the open university and distance education system, and for the determination of its standards.
+(2) (a) There shall be a Distance Education Council (DEC) which shall, within the framework of the policies and guidelines laid down by the Board of Management, be responsible for the promotion and coordination of the open university and distance education system, and for the determination of its standards.
 
 (b) The Distance Education Council is declared by this Statute as an authority of the IGNOU under Section 16 of the IGNOU Act.
 
@@ -1665,9 +1693,9 @@ Indira Gandhi National Open University
 
 41
 
-(4) (a) The Distance Education Council shall consist of the following members;
+(3) (a) The Distance Education Council shall consist of the following members;
 
-- The Vice-Chancellor, IGNOU, who shall be its Chairman;
+ i) The Vice-Chancellor, IGNOU, who shall be its Chairman;
 
 ii) The  Secretary,  Incharge  of  Education  in  the  Dept.  of  Education,  Ministry  of Human Resource Development or his nominee;
 
@@ -1679,11 +1707,11 @@ iii) A  member  of  the  University  Grants  Commission  to  be  nominated  by  
 
 v) Two  members  of  the  Board  of  Management,  who  are  not  employees  of  the IGNOU, to be nominated by the Board of Management;
 
-vi) Two Vice-Chancellors of Statute Open Universities which have been declared fit to  receive  assistance  under  Section  12B  of  the  UGC  Act,  to  be  nominated  by  the Chairman, DEC, by rotation.
+vi) Two Vice-Chancellors of State Open Universities which have been declared fit to receive assistance under Section 12B of the UGC Act, to be nominated by the Chairman, DEC, by rotation.
 
 vii) Two Heads of institutions of Correspondence/distance education from universities  other  than  open  universities  which  have  been  declared  fit  to  receive assistance  under  Section  12B  of  the  UGC  Act,  to  be  nominated  by  the  Board  of Management;
 
-viii) Three  persons  to  be  nominated  by  the  Visitor  or  whom  one  may  be  a  ViceChancellor of a University other than an open university, one, an expert in vocational/technical education, and one, an expert in mass media/communication.
+viii) Three persons to be nominated by the Visitor of whom one may be a Vice-Chancellor of a University other than an open university, one, an expert in vocational/technical education, and one, an expert in mass media/communication.
 
 ix) One teacher from the open university/distance education system to be nominated by the Board of Management on the recommendation of the Chairman, DEC.
 
@@ -1691,7 +1719,7 @@ ix) One teacher from the open university/distance education system to be nominat
 
 (c) (i) The members of the Distance Education Council nominated under sub-clauses (3)  (a)  (iii),  (viii)  and  (ix)  shall  hold  office  for  a  term  of  three  years  from  the  date  on which they are nominated;
 
-(ii) The  members  nominated  under  sub-clause  (3)(a)(v),  (vi)  and  (vii)  shall  hold office for a period of two years from the date on which they are nominated; provided that one-half  of  the  members  nominated  under  these  sub-clauses  at  the  time  of  the  initial constitution  of  the  DEC,  shall  retire  on  completion  on  one  year  from  the  date  of  their nomination according to the alphabetical order of their names;
+(ii) The members nominated under sub-clause (3)(a)(v), (vi) and (vii) shall hold office for a period of two years from the date on which they are nominated; provided that one-half of the members nominated under these sub-clauses at the time of the initial constitution of the DEC, shall retire on completion of one year from the date of their nomination according to the alphabetical order of their names;
 
 (d) Six members of the Distance Education Council shall form the quorum for the meeting of the Council.
 
@@ -1703,7 +1731,7 @@ ix) One teacher from the open university/distance education system to be nominat
 
 [[START OF PAGE 43]]
 
-Amendment/addition to the Clause (3a) of Statute 28 was made by the Board of Management at its meeting held on 28.3.97 and received the approval of the Visitor vide MHRD letter No.F.554/97-Desk(U)(A) dated 11.11.97.
+Amendment/addition to the Clause (3a) of Statute 28 was made by the Board of Management at its meeting held on 28.3.97 and received the approval of the Visitor vide MHRD letter No.F.5-54/97-Desk(U)(A) dated 11.11.97.
 
 [[END OF PAGE 43]]
 
@@ -1713,35 +1741,35 @@ Amendment/addition to the Clause (3a) of Statute 28 was made by the Board of Man
 
 Indira Gandhi National Open University
 
-- to  develop  a  network  of  open  universities/distance  education  institutions  in  the country in consultation with the State Governments, Universities, and other concerned agencies.
+i) to develop a network of open universities/distance education institutions in the country in consultation with the State Governments, Universities, and other concerned agencies.
 
-ii) to  identify  priority  areas  in  which  distance  education  programmes  should  be organized  and  to  provide  such  support  as  may  be  considered  necessary  for  organizing  such programmes;
+ii) to identify priority areas in which distance education programmes should be organized and to provide such support as may be considered necessary for organizing such programmes;
 
-iii) to identify the specific client groups and the types of programmes to be organized for them, and to promote and encourage the organisation of such programmes through the network of open universities/distance, education institutions;
+iii) to identify the specific client groups and the types of programmes to be organized for them, and to promote and encourage the organisation of such programmes through the network of open universities/distance education institutions;
 
-- iv) to promote an innovative system of University level education, flexible and open, in regard to methods and pace of learning, combination of courses, eligibility for enrolment, age of entry, conduct of examination and organize various courses and programmes.
+iv) to promote an innovative system of University level education, flexible and open, in regard to methods and pace of learning, combination of courses, eligibility for enrolment, age of entry, conduct of examination and organize various courses and programmes.
 
-- to promote the organisation of programmes of human resource development for the open university/distance education system;
+v) to promote the organisation of programmes of human resource development for the open university/distance education system;
 
-- vi) to initiate and organize measures for joint development of courses and programmes and research in distance education technology and practices;
+vi) to initiate and organize measures for joint development of courses and programmes and research in distance education technology and practices;
 
-- vii) to  recommend  to  the  Board  of  management  the  pattern  and  nature  of  financial assistance  that  may  be  sanctioned  to  open  universities/distance  education  institutions  and  the conditions that may have to be fulfilled by them to receive such assistance;
+vii) to recommend to the Board of management the pattern and nature of financial assistance that may be sanctioned to open universities/distance education institutions and the conditions that may have to be fulfilled by them to receive such assistance;
 
-- viii) to take such steps as are necessary to ensure the coordinated development of the open university/distance education system in the country;
+viii) to take such steps as are necessary to ensure the coordinated development of the open university/distance education system in the country;
 
-- ix) to establish and develop arrangements for coordinating and sharing the instructional materials prepared by different open universities/distance education institutions, and the student support systems with a view to avoiding duplication of efforts;
+ix) to establish and develop arrangements for coordinating and sharing the instructional materials prepared by different open universities/distance education institutions, and the student support systems with a view to avoiding duplication of efforts;
 
-- to evolve procedures for sharing of courses and programmes and for the payment of royalty or other charges to the members of the network whose courses and programmes are used by other members;
+x) to evolve procedures for sharing of courses and programmes and for the payment of royalty or other charges to the members of the network whose courses and programmes are used by other members;
 
-- xi) to prescribe broad norms  for charging fees from  students who  join various programmes offered by the network of open universities/distance education institutions;
+xi) to prescribe broad norms for charging fees from students who join various programmes offered by the network of open universities/distance education institutions;
 
-- xii) to collect, compile and disseminate information relating to the courses and programmes offered by various open universities/distance education institutions;
+xii) to collect, compile and disseminate information relating to the courses and programmes offered by various open universities/distance education institutions;
 
-- xiii) to  advise  State  Government,  universities  and  other  concerned  agencies  on  their proposals to set up open universities, or to introduce programmes of distance education;
+xiii) to advise State Government, universities and other concerned agencies on their proposals to set up open universities, or to introduce programmes of distance education;
 
-- xiv) to appoint Review  Committees  from  time  to time to study and assess the performance-of the open universities/distance education institutions participating in the network on any aspect relevant to the functioning of the network;
+xiv) to appoint Review Committees from time to time to study and assess the performance of the open universities/distance education institutions participating in the network on any aspect relevant to the functioning of the network;
 
-- xv) to prescribe a broad framework for courses and programmes including their pattern and structure;
+xv) to prescribe a broad framework for courses and programmes including their pattern and structure;
 
 [[END OF PAGE 44]]
 
@@ -1751,27 +1779,27 @@ Indira Gandhi National Open University
 
 43
 
-xvi) to evelove norms, procedures and practices in respect of admission, evaluation, completion  of  course  requirements,  transfer  of  credits,  etc.  of  students  admitted  to  the programmes  of  the  open  university/distance  education  network  and  for  the  award  of certificates, diplomas and degrees to them;
+xvi) to evolve norms, procedures and practices in respect of admission, evaluation, completion of course requirements, transfer of credits, etc. of students admitted to the programmes of the open university/distance education network and for the award of certificates, diplomas and degrees to them;
 
 xvii) to evolve guidelines for the organisation of student support services for the open university/distance education programmes;
 
-xviii) to  take  such  measures  as  are  necessary,  consistent  with  the  objects  of  the University to provide an innovative, flexible and open system of University education, for the promotion,  including  introduction  and  continuation,  of  courses  and  programmes  which conform to the standards prescribed by the DEC, to maintain such standards in the institutions offering  distance  education  programmes  and  to  prevent,  through  such  measures  as  are considered  appropriate,  institutions  from  offering  courses  and  programmes  which  do  not confirm to the standards laid down by the Council;
+xviii) to take such measures as are necessary, consistent with the objects of the University to provide an innovative, flexible and open system of University education, for the promotion, including introduction and continuation, of courses and programmes which conform to the standards prescribed by the DEC, to maintain such standards in the institutions offering distance education programmes and to prevent, through such measures as are considered appropriate, institutions from offering courses and programmes which do not conform to the standards laid down by the Council;
 
 xix) to appoint Committee for advising and assisting the DEC in the performance of any of its functions or exercise of any of its powers.
 
 (b) The Distance Education Council shall:
 
-- appoint  Committees  which  shall  assess,  in  consultation  with  the  concerned  open universities/distance  education  institutions,  the  development  grants  required  by  them  for  a five-year  period  and  make  recommendations  to  the  Board  of  Management  for  sanctioning such grant;
+i) appoint Committees which shall assess, in consultation with the concerned open universities/distance education institutions, the development grants required by them for a five-year period and make recommendations to the Board of Management for sanctioning such grant;
 
 ii) sanction  grants  to open  universities/distance  education  institutions  for specific projects  on  the  basis  of  reports  by  duly  appointed  committees  and  in  accordance  with guidelines prescribed for the purpose and report such approvals to the Board of Management.
 
 (c) Financial  assistance  under  clause  (4)  (b)  may  be  sanctioned  only  to  the  following categories of institutions:
 
-- An  Open  University  established  by  or  under  an  Act  of,  a  State  Legislature,  and declared fit to receive assistance from central sources under Section 12-B of the UGC Act;
+i) An Open University established by or under an Act of, a State Legislature, and declared fit to receive assistance from central sources under Section 12-B of the UGC Act;
 
 ii) Any other university as defined in Section 2(f) of the UGC Act provided that such a university is also declared fit, wherever applicable, under Section 12-B of that Act;
 
-- iii) An institution deemed to be a university under Section 3 of the UGC Act.
+iii) An institution deemed to be a university under Section 3 of the UGC Act.
 
 #### 30. Procedure for regulating the work of Tribunal of Arbitration
 
@@ -1779,9 +1807,9 @@ ii) Any other university as defined in Section 2(f) of the UGC Act provided that
 
 In this Statute, unless the context otherwise requires,
 
-'Tribunal' means the Tribunal of Arbitration referred to in Section 31 of the IGNOU Act, 1985, and
+i) 'Tribunal' means the Tribunal of Arbitration referred to in Section 31 of the IGNOU Act, 1985, and
 
-- ii) 'Party'  means  either  the  employee  or  the  Indira  Gandhi  National  Open University, as the case may be, whose dispute is referred to the Tribunal of Arbitration.
+ ii) 'Party' means either the employee or the Indira Gandhi National Open University, as the case may be, whose dispute is referred to the Tribunal of Arbitration.
 
 ##### (2) Equal treatment of parties:
 
@@ -1805,31 +1833,31 @@ Provided  that  if  a  Party  so  desires,  he  can  present  his  case  through
 
 (iii) The power of the Tribunal under sub-clause (ii) includes the power to determine the admissibility, relevance, materiality and weight of any evidence.
 
-##### Place of arbitration:
+##### (4) Place of arbitration:
 
 The  place of arbitration shall ordinarily be the office of the University at its Headquarters.
 
-Provided that the Tribunal can meet at any other place where the University offices are located for purpose of consultation among its members, for hearing witnesses, expewrts or the parties, or for inspection of documents etc.
+Provided that the Tribunal can meet at any other place where the University offices are located for purpose of consultation among its members, for hearing witnesses, experts or the parties, or for inspection of documents etc.
 
 ##### (5) Commencement of arbitral proceedings:
 
 Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute commence on the date on which a request for that dispute to be referred to arbitration is received by the respondent.
 
-##### Language:
+##### (6) Language:
 
 (i) The  parties  may  agree  upon  the  language  or  languages  to  be  used  in  the proceedings of the Tribunal.
 
 (ii) In the absence of such an agreement, the proceedings shall be conducted either in English or in Hindi.
 
-(iii) The Tribunal may direct that any documentary evidence shall be accompanied by a translation into the language or languages agreed upon the parties of determined by the Tribunal.
+(iii) The Tribunal may direct that any documentary evidence shall be accompanied by a translation into the language or languages agreed upon by the parties or determined by the Tribunal.
 
 ##### (7) Statements of claim and defence:
 
-(i) Within  the  period  of  time  agreed  upon  by  the  parties  or  determined  by  the Tribunal the claimant shall state the facts supporting hi claim.  The points at issue and the relief  or  rmedy  sought,  and  the  respondent  shall  state  his  defence  in  respect  of  these particulars, unless the parties have otherwise agreed as to the required elements of those statements.
+(i) Within the period of time agreed upon by the parties or determined by the Tribunal the claimant shall state the facts supporting his claim, the points at issue and the relief or remedy sought, and the respondent shall state his defence in respect of these particulars, unless the parties have otherwise agreed as to the required elements of those statements.
 
-(ii) The parties may submit with their statements all documents they consider to be relevant or may add a reference to the documents of other evidence they will submit.
+(ii) The parties may submit with their statements all documents they consider to be relevant or may add a reference to the documents or other evidence they will submit.
 
-(iii) Unless otherwise agreed by the parties, either party may amend or supplment his claim  or  defence  during  the  course  of  the  proceedings  unless  the  Tribunal  considers  it inappropriate  to  allow  the  amendment  or  supplement  having  regard  to  the  delay  in making it.
+(iii) Unless otherwise agreed by the parties, either party may amend or supplement his claim or defence during the course of the proceedings unless the Tribunal considers it inappropriate to allow the amendment or supplement having regard to the delay in making it.
 
 [[END OF PAGE 46]]
 
@@ -1841,7 +1869,7 @@ Indira Gandhi National Open University
 
 ##### (8) Hearing and written proceedings:
 
-(j) Unless  otherwise  agreed  by  the  parties,  the  Tribunal  shall  decide  whether  to hold oral hearings for the presentation of evidence or for oral argument, or whether the proceedings shall be conducted on the basis of documents and other materials:
+(i) Unless otherwise agreed by the parties, the Tribunal shall decide whether to hold oral hearings for the presentation of evidence or for oral argument, or whether the proceedings shall be conducted on the basis of documents and other materials:
 
 Provided  that  the  Tribunal  shall  hold  hearings,  at  an  appropriate  stage  of  the proceedings, on a request by a party, unless the parties have agreed that no oral hearing shall be held.
 
@@ -1851,13 +1879,13 @@ Provided  that  the  Tribunal  shall  hold  hearings,  at  an  appropriate  stag
 
 ##### (9) Default of a party:
 
-Unless otherwise agreed by the parties, where, without showing sufficient cause.
+Unless otherwise agreed by the parties, where, without showing sufficient cause:
 
 (a) the Claimant fails to communicate his statement of claim in accordance with Sub-Clause (i) of Clause (6), the Tribunal shall terminate the proceedings;
 
 (b) the  respondent  fails  to  communicate  his  statement  of  defense  in  accordance with Sub-Clause (i) of Clause (6), the  Tribunal shall continue the proceedings without treating the failure in itself as an admission of the allegations by the claimant;
 
-(c) a party fails to appear at an oral hearing or to produce documentary
+(c) a party fails to appear at an oral hearing or to produce documentary evidence, the Tribunal may continue the proceedings and make the arbitral award on the evidence before it.
 
 ##### (10) Expert appointment by the Tribunal:
 
@@ -1873,41 +1901,43 @@ Unless otherwise agreed by the parties, where, without showing sufficient cause.
 
 (11) The meetings of the Tribunal shall be conducted by the Umpire nominated by the Visitor on a Tribunal.
 
-> Statute  30  was  made  by  the  Board  of  Management  as  its  51 st meeting  held  on  19.6.97  and  received  the approval of the Visitor vide MHRD letter No.F.5-7/97-Desk(4)(A) dt.30.10.98.
+> Statute 30 was made by the Board of Management at its 51st meeting held on 19.6.97 and received the approval of the Visitor vide MHRD letter No.F.5-7/97-Desk(4)(A) dt.30.10.98.
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-###### 1. Nominations
-
-1.1.    A  subscriber  shall,  at  the  time  of  joining  the  Fund,  send  to  the  Finance  Officer,  a nomination  in  the  prescribed  form  conferring  on  one  or  more  persons  the  right  to  receive  the amount that may stand to his credit in the Fund, in the event of his death, before that amount has become payable or having become payable has not been paid:
-
-1.1.1. Provided, that if, at the time of making nomination, the subscriber has a family the nomination  shall  not  be  infavour  of  any  person  or  persons  other  than  the  members  of  his family.
-
-1.1.2. Provided further that the nomination made by the subscriber in respect of any other fund to which he was subscribing before joining the Provident Fund shall, if the amount to this credit, in such other fund, has been transferred to his credit in the Fund, be deemed to be a nomination duly made under this rule until he makes a nomination in accordance with this rule.
-
-1.2   If a subscriber nominates more than one person under Rule 1.1 he shall specify in the nomination the amou7nt or share payable to each of the nominees in such manner as to cover the whole of the amount that may stand to his credit in the Fund at any time.
-
-1.3 Every nomination shall be in the Form I appended.
-
-1.4   A subscriber may at any time cancel a nomination by sending a notice in writing to the Finance  Officer.  The  subscriber  shall,  along  with  such  notice  or  separately,  send  a  fresh nomination made in accordance with the provisions of this rule.
-
-1.5   A subscriber may provide in a nomination:
-
-(a)  in  respect  of  any  specified  nominee,  that  in  the  event  of  his  predeceasing  the subscriber, the right  conferred upon that nominee shall pass to such other person or persons as  may be specified in the nomination, provided that such other person or persons shall if the subscriber has other  member of his family, be such other member of  members.  Where  the  subscriber  confers  such  a  right  on  more  than  one  person under  this  clause,  he  shall  specify  the  amount  or  share  payable  to  each  of  such persons  in  such  a  manner  as  to  cover  the  whole  of  the  amount  payable  to  the nominees.
-
-(b)  that  the  nomination  shall  become  invalid  in  the  event  of  the  happening  of  a contingency specified therein; Provided  that  if  at  the  time  of  making  the  nomination  the  subscriber  has  no
-
 ### APPENDIX 'A'
 
-[to statute 23-Refer to 23 (i) (a)]
+[to statute 23-Refer to 23 (1) (a)]
 
 #### GENERAL PROVIDENT FUND-CUM-PENSION-CUM GRATUITY SCHEME
 
 ##### SECTION 1
 
 ##### GENERAL PROVIDENT FUND
+
+###### 1. Nominations
+
+1.1. A subscriber shall, at the time of joining the Fund, send to the Finance Officer, a nomination in the prescribed form conferring on one or more persons the right to receive the amount that may stand to his credit in the Fund, in the event of his death, before that amount has become payable or having become payable has not been paid:
+
+1.1.1. Provided, that if, at the time of making nomination, the subscriber has a family the nomination shall not be in favour of any person or persons other than the members of his family.
+
+1.1.2. Provided further that the nomination made by the subscriber in respect of any other fund to which he was subscribing before joining the Provident Fund shall, if the amount to his credit, in such other fund, has been transferred to his credit in the Fund, be deemed to be a nomination duly made under this rule until he makes a nomination in accordance with this rule.
+
+1.2 If a subscriber nominates more than one person under Rule 1.1 he shall specify in the nomination the amount or share payable to each of the nominees in such manner as to cover the whole of the amount that may stand to his credit in the Fund at any time.
+
+1.3 Every nomination shall be in the Form I appended.
+
+1.4 A subscriber may at any time cancel a nomination by sending a notice in writing to the Finance Officer. The subscriber shall, along with such notice or separately, send a fresh nomination made in accordance with the provisions of this rule.
+
+1.5 A subscriber may provide in a nomination:
+
+(a) in respect of any specified nominee, that in the event of his predeceasing the subscriber, the right conferred upon that nominee shall pass to such other person or persons as may be specified in the nomination, provided that such other person or persons shall if the subscriber has other members of his family, be such other member or members. Where the subscriber confers such a right on more than one person under this clause, he shall specify the amount or share payable to each of such persons in such a manner as to cover the whole of the amount payable to the nominees.
+
+(b) that the nomination shall become invalid in the event of the happening of a contingency specified therein;
+
+Provided that if at the time of making the nomination the subscriber has no
 
 [[END OF PAGE 48]]
 
@@ -1917,35 +1947,35 @@ Indira Gandhi National Open University
 
 47
 
-Family, he shall provide in the nomination that is shall become invalid in the event of his subsequently acquiring a family;
+Family, he shall provide in the nomination that it shall become invalid in the event of his subsequently acquiring a family;
 
-Provided further that if at the time of making the nomination the subscriber has only one member of the family he shall provide in the nomination that the right conferred upon the alternate nominee  under  clause  (a)  shall become  invalid  in  the event of is subsequently acquiring other member or members of his family.
+Provided further that if at the time of making the nomination the subscriber has only one member of the family he shall provide in the nomination that the right conferred upon the alternate nominee under clause (a) shall become invalid in the event of his subsequently acquiring other member or members of his family.
 
-- 1.6   Immediately on the death of a nominee in respect of whom no special provision has been made in the nomination under clause (a) of Rule 1.5 or on the occurrence of any event by reason of which the nomination becomes invalid in pursuance of clause (b) of Rule 1.5 or the  proviso  thereto,  the  subscriber  shall  send  t  the  Finance  Officer  a  notice  in  writing canceling the nomination, together with a fresh nomination made in accordance with the provisions of this rule.
+1.6 Immediately on the death of a nominee in respect of whom no special provision has been made in the nomination under clause (a) of Rule 1.5 or on the occurrence of any event by reason of which the nomination becomes invalid in pursuance of clause (b) of Rule 1.5 or the proviso thereto, the subscriber shall send to the Finance Officer a notice in writing canceling the nomination, together with a fresh nomination made in accordance with the provisions of this rule.
 
-- 1.7  Every nomination made an every notice of cancellation given by the subscriber shall, to the  extent  that  it  is  valid,  take  effect  on  the  date  on  which  it  is  received  by  the  Finance Officer.
+1.7 Every nomination made and every notice of cancellation given by the subscriber shall, to the extent that it is valid, take effect on the date on which it is received by the Finance Officer.
 
-2. The  University  will  not  be  bound  by,  nor  shall  it  recognize,  any  assignment  or encumbrance executed or attempted to be created which affects the disposal of the amount standing to the credit of a subscriber who dies before the amount becomes payable.
+2. The University will not be bound by, nor shall it recognize, any assignment or encumbrance executed or attempted to be created which affects the disposal of the amount standing to the credit of a subscriber who dies before the amount becomes payable.
 
 ###### 3. Subscriber's Account
 
-- 3.1 An account shall be opened in the name of each subscriber in which will be shown:
+3.1 An account shall be opened in the name of each subscriber in which will be shown:
 
 (i) his subscriptions;
 
-(ii)  interest as provided in Rule 6 on subscriptions; and
+(ii) interest as provided in Rule 6 on subscriptions; and
 
-(ii)  advances and withdrawals from the fund.
+(iii) advances and withdrawals from the fund.
 
-- 3.2 If an employee admitted to the benefit of the fund was previously a subscriber to any contributory/non-contributory  provident  fund  of  the  Central  Government  /State Government  or  of  a  body  corporate,  owned    or  controlled  by  Government    or Universities  /  Institutions,  of  University  Status  or  an  autonomous  organisation registered under the Societies Registration Act 1860, the amount of his accumulation in  such  contributory  or  non-contributory  provident  fund  shall  be  transferred  to  his credit in the fund.
+3.2 If an employee admitted to the benefit of the fund was previously a subscriber to any contributory/non-contributory provident fund of the Central Government /State Government or of a body corporate, owned or controlled by Government or Universities / Institutions, of University Status or an autonomous organisation registered under the Societies Registration Act 1860, the amount of his accumulation in such contributory or non-contributory provident fund shall be transferred to his credit in the fund.
 
-###### Condition of Subscription
+###### 4. Condition of Subscription
 
-- 4.1  Every subscriber shall subscribe monthly to the Fund except during the period when he is under suspension.
+4.1 Every subscriber shall subscribe monthly to the Fund except during the period when he is under suspension.
 
-- 4.1.1  Provided that a subscriber may at his option not subscribe during leave which either  does  not  carry  any  leave  salary  or  carries  leave  salary  equal  to  or  less than half pay.
+4.1.1 Provided that a subscriber may at his option not subscribe during leave which either does not carry any leave salary or carries leave salary equal to or less than half pay.
 
-- 4.1.2  Provided further that a subscriber on reinstatement after a period passed under suspension shall be allowed the option of paying in one sum or in instalments any sum not exceeding the maximum amount of arrear of subscription payable for that period.
+4.1.2 Provided further that a subscriber on reinstatement after a period passed under suspension shall be allowed the option of paying in one sum or in instalments any sum not exceeding the maximum amount of arrear of subscription payable for that period.
 
 [[END OF PAGE 49]]
 
@@ -1955,31 +1985,31 @@ Provided further that if at the time of making the nomination the subscriber has
 
 Indira Gandhi National Open University
 
-- 4.2  The subscriber shall intimate his election not to subscribe during leave by a written communication addressed to the Finance Officer before he proceeds on leave. Failure to  make  due  and  timely  intimation  shall  be  deemed  to  constitute  an  election  to subscribe. The option of a subscriber intimated under this sub-rule shall be final.
+4.2 The subscriber shall intimate his election not to subscribe during leave by a written communication addressed to the Finance Officer before he proceeds on leave. Failure to make due and timely intimation shall be deemed to constitute an election to subscribe. The option of a subscriber intimated under this sub-rule shall be final.
 
-###### Rates of Subscription
+###### 5. Rates of Subscription
 
-- 5.1  The amount of subscription shall be fixed by subscription shall be fixed by subscriber himself subject to the following conditions:
+5.1 The amount of subscription shall be fixed by the subscriber himself subject to the following conditions:
 
-5.1.1  The rate of subscription may not be less than 6 percent of his emoluments and not more than his total emoluments, the amount so calculated being rounded off to the nearest  rupee,  provided  that  in  the  case  of  subscriptions  at  the  minimum  or  maximum rates, the rounding off will be to the next higher or the next lower rupee respectively.
+5.1.1 The rate of subscription may not be less than 6 percent of his emoluments and not more than his total emoluments, the amount so calculated being rounded off to the nearest rupee, provided that in the case of subscriptions at the minimum or maximum rates, the rounding off will be to the next higher or the next lower rupee respectively.
 
-5.1.2  It shall be expressed in whole rupees.
+5.1.2 It shall be expressed in whole rupees.
 
-- 5.2  For the purpose of this rule, the emoluments of a subscriber shall be:
+5.2 For the purpose of this rule, the emoluments of a subscriber shall be:
 
-5.2.1  In the case of a subscriber who was in service on 31 st March of the preceding year, the emoluments to which he was entitled on that date, provided as follows:
+5.2.1 In the case of a subscriber who was in service on 31st March of the preceding year, the emoluments to which he was entitled on that date, provided as follows:
 
-(i) if  the  subscriber  was  on  leave  on  the  said  date  and  elected  not  to  subscribe  during such  leave  or  was  under  suspension  of  the  said  date,  his  emoluments  shall  be  the emoluments to which he was entitled on the first day after his return to duty;
+(i) if the subscriber was on leave on the said date and elected not to subscribe during such leave or was under suspension on the said date, his emoluments shall be the emoluments to which he was entitled on the first day after his return to duty;
 
-(ii)  if the subscriber was on deputation out of India on the said date or was on leave on the said date and continues to be on leave and has elected to subscribe during such leave, his emoluments shall be the emoluments to which he would have been entitled had he been on duty in India;
+(ii) if the subscriber was on deputation out of India on the said date or was on leave on the said date and continues to be on leave and has elected to subscribe during such leave, his emoluments shall be the emoluments to which he would have been entitled had he been on duty in India;
 
-(iii)  if  the  subscriber  joined  the  Fund  for  the  first  time  on  a  day  subsequent  to  the  said date,  his  emoluments  shall  be  the  emoluments  to  which  he  was  entitled  on  such subsequent date.
+(iii) if the subscriber joined the Fund for the first time on a day subsequent to the said date, his emoluments shall be the emoluments to which he was entitled on such subsequent date.
 
-5.2.2 In the case of a subscriber who was not in service on the 31 st of  March of the preceding year, the emoluments to which he was entitled on the first day of his service or, if he joined the Fund for the first time on a date subsequent to the first date of his service, the emoluments to which he was entitled on such subsequent date.
+5.2.2 In the case of a subscriber who was not in service on the 31st of March of the preceding year, the emoluments to which he was entitled on the first day of his service or, if he joined the Fund for the first time on a date subsequent to the first date of his service, the emoluments to which he was entitled on such subsequent date.
 
-5.3  The amount of subscription so fixed may be (a) enhanced twice during the course of the year  (b)  or  reduced  one  at  any  time  during  the  course  of  a  year  (c)  reduced  and  enhanced  as aforesaid provided that when the amount of subscription is so reduced it shall not be less than the minimum prescribed under Rule 5.1.1.
+5.3 The amount of subscription so fixed may be (a) enhanced twice during the course of the year (b) or reduced once at any time during the course of a year (c) reduced and enhanced as aforesaid provided that when the amount of subscription is so reduced it shall not be less than the minimum prescribed under Rule 5.1.1.
 
-5.4  Provided further that if a subscriber is on leave without pay or leave on half pay for a part of  a  celender  month  and  he  had  elected  not  to  subscribe  during  such  leave,  the  amount  of subscription  payable  shall  be  proportionate  to  the  number  of  days  spent  on  duty  inclusive  of leave, if any.
+5.4 Provided further that if a subscriber is on leave without pay or leave on half pay for a part of a calendar month and he had elected not to subscribe during such leave, the amount of subscription payable shall be proportionate to the number of days spent on duty inclusive of leave, if any.
 
 [[END OF PAGE 50]]
 
@@ -1993,9 +2023,9 @@ Indira Gandhi National Open University
 
 5A.1  When emoluments are drawn from the University, recovery of subscription on account of these emoluments and of the principal and interest of advances shall be made from the emoluments themselves.
 
-5A.2    When  emoluments  are  drawn  from  any  other  source  the  subscriber  shall foraward his dues monthly to the Finance Officer.
+5A.2    When  emoluments  are  drawn  from  any  other  source  the  subscriber  shall forward his dues monthly to the Finance Officer.
 
-Provided that the case of a subscriber on deputation to a body corporate owned or controlled by Government, the subscriptions shall be recovered and forwarded to the Finance Officer by such body.
+Provided that in the case of a subscriber on deputation to a body corporate owned or controlled by Government, the subscriptions shall be recovered and forwarded to the Finance Officer by such body.
 
 ###### 6. Interest
 
@@ -2003,11 +2033,11 @@ Provided that the case of a subscriber on deputation to a body corporate owned o
 
 6.2  Interest  shall  be  credited  with  effect  from  the  last  day  in  each  year  in  the following manner:
 
-6.2.1 On the amount at the credit of a subscriber on the 31 st of  March  of  the preceding year less any sums withdrawn during the current year-Interest for twelve months;
+6.2.1 On the amount at the credit of a subscriber on the 31st of  March  of  the preceding year less any sums withdrawn during the current year-Interest for twelve months;
 
-6.2.2 On sums withdrawn during the current year-Interest from the 1 st of April of the current year up to the last day of the month preceding the month of withdrawal;
+6.2.2 On sums withdrawn during the current year-Interest from the 1st of April of the current year up to the last day of the month preceding the month of withdrawal;
 
-6.2.3 On all sums credited to the subscriber's account after the 31 st March of the preceding year-Interest from the date of credit up to the 31 st of March of the current year;
+6.2.3 On all sums credited to the subscriber's account after the 31st March of the preceding year-Interest from the date of credit up to the 31st of March of the current year;
 
 6.2.4 The total amount of interest shall be rounded to the nearest rupee (50 p. and above counting as the next higher rupee).
 
