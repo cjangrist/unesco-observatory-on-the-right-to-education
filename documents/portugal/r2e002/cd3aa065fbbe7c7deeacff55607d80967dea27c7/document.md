@@ -30,31 +30,31 @@ A autorização referida no artigo anterior tem o seguinte sentido e extensão:
 
 - a ) Estabelecer contra-ordenações aplicáveis às pessoas singulares, puníveis com coima cujo montante se poderá elevar até ao valor máximo de 2 000 000$, visando sancionar:
 
-- A abertura e funcionamento dos estabelecimentos que não se encontrem licenciados nem disponham de autorização provisória de funcionamento, de harmonia com a legislação aplicável;
+- 1) A abertura e funcionamento dos estabelecimentos que não se encontrem licenciados nem disponham de autorização provisória de funcionamento, de harmonia com a legislação aplicável;
 
-- Ainadequação das instalações, bem como as deficientes condições de higiene e segurança, face aos requisitos legalmente estabelecidos;
+- 2) A inadequação das instalações, bem como as deficientes condições de higiene e segurança, face aos requisitos legalmente estabelecidos;
 
-- A inexistência injustificada do pessoal técnico e auxiliar indicado no respectivo mapa;
+- 3) A inexistência injustificada do pessoal técnico e auxiliar indicado no respectivo mapa;
 
-- Aalimentação claramente deficiente para as necessidades dos utentes;
+- 4) A alimentação claramente deficiente para as necessidades dos utentes;
 
-- O excesso de lotação em relação à capacidade autorizada para o estabelecimento;
+- 5) O excesso de lotação em relação à capacidade autorizada para o estabelecimento;
 
-- O impedimento das acções de fiscalização;
+- 6) O impedimento das acções de fiscalização;
 
-- A violação de quaisquer outras normas ou exigências legais;
+- 7) A violação de quaisquer outras normas ou exigências legais;
 
 - b ) Punir os factos praticados com negligência, sendo em tais casos os limites mínimos e máximos das coimas reduzidos a metade;
 
 - c ) Estabelecer, simultaneamente com a coima, as seguintes sanções acessórias:
 
-- Interdição do exercício da actividade em quaisquer estabelecimentos abrangidos pelo artigo 1. o ;
+- 1) Interdição do exercício da actividade em quaisquer estabelecimentos abrangidos pelo artigo 1. o ;
 
-- Privação do direito a subsídio ou benefício outorgado por entidade ou serviço público;
+- 2) Privação do direito a subsídio ou benefício outorgado por entidade ou serviço público;
 
-- Encerramento do estabelecimento;
+- 3) Encerramento do estabelecimento;
 
-- Suspensão do alvará ou da autorização provisória;
+- 4) Suspensão do alvará ou da autorização provisória;
 
 - d ) Determinar a publicidade das decisões definitivas que apliquem coima de montante igual ou superior a 200 000$ ou decretem o encerramento do estabelecimento.
 
@@ -62,7 +62,7 @@ A autorização referida no artigo anterior tem o seguinte sentido e extensão:
 
 #### Duração
 
-Aautorização concedida pela presente lei tem a duração de 90 dias.
+A autorização concedida pela presente lei tem a duração de 90 dias.
 
 Aprovada em 19 de Dezembro de 1996.
 
@@ -70,7 +70,7 @@ Aprovada em 19 de Dezembro de 1996.
 
 Promulgada em 24 de Janeiro de 1997. Publique-se.
 
-OPresidente da República, JORGE SAMPAIO.
+O Presidente da República, JORGE SAMPAIO.
 
 Referendada em 27 de Janeiro de 1997.
 
@@ -158,7 +158,7 @@ Incumbe ao Estado:
 
 ##### Participação das autarquias locais
 
-OGoverno fixará, através de decreto-lei, as condições de participação das autarquias locais na concretização dos objectivos previstos no presente diploma, assegurando os correspondentes meios financeiros.
+O Governo fixará, através de decreto-lei, as condições de participação das autarquias locais na concretização dos objectivos previstos no presente diploma, assegurando os correspondentes meios financeiros.
 
 #### Artigo 7. o
 
@@ -282,9 +282,9 @@ A rede privada integra os estabelecimentos de educação pré-escolar que funcio
 
 - 1 - São modalidades, entre outras, da educação pré-escolar:
 
-- a ) Aeducação de infância itinerante;
+- a ) A educação de infância itinerante;
 
-- b ) Aanimação infantil comunitária.
+- b ) A animação infantil comunitária.
 
 - 2 - A educação de infância itinerante consiste na prestação de serviços de educação pré-escolar mediante a deslocação regular de um educador de infância a zonas de difícil acesso ou a zonas com um número reduzido de crianças.
 
@@ -306,7 +306,7 @@ A rede privada integra os estabelecimentos de educação pré-escolar que funcio
 
 ##### Administração e gestão
 
-Aadministração e gestão dos estabelecimentos públicos de educação pré-escolar serão definidas em decreto-lei.
+A administração e gestão dos estabelecimentos públicos de educação pré-escolar serão definidas em decreto-lei.
 
 #### Artigo 18. o
 
@@ -368,13 +368,11 @@ Cabe à Inspecção-Geral da Educação o controlo do funcionamento pedagógico 
 
 - 2 - As normas a que se refere o número anterior devem prever:
 
-- a ) Oplaneamento plurianual;
+- a ) O planeamento plurianual;
 
 - b ) A explicitação do investimento público directo e do apoio a iniciativas de outros sectores;
 
-- c ) Os critérios a adoptar visando a concretização da igualdade de oportunidades educativas, de acordo com o disposto no artigo 16. o do presente diploma, e a melhoria da qualidade da educação, designadamente através de incentivos à valorização dos profissionais da educação pré-es-
-
-colar e do alargamento da oferta de horários adequados aos interesses das famílias.
+- c ) Os critérios a adoptar visando a concretização da igualdade de oportunidades educativas, de acordo com o disposto no artigo 16. o do presente diploma, e a melhoria da qualidade da educação, designadamente através de incentivos à valorização dos profissionais da educação pré-escolar e do alargamento da oferta de horários adequados aos interesses das famílias.
 
 #### Artigo 23. o
 
@@ -400,7 +398,7 @@ Promulgada em 24 de Janeiro de 1997.
 
 Publique-se.
 
-- OPresidente da República, JORGE SAMPAIO.
+- O Presidente da República, JORGE SAMPAIO.
 
 Referendada em 27 de Janeiro de 1997.
 
