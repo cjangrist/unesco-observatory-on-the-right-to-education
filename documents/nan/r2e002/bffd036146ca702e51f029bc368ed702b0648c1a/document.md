@@ -14,17 +14,19 @@ Texte en vigueur
 
 - Titre 1: De l'organisation
 
-■  Section 2 : De l'inspection des services
+- Chapitre 1: De la direction de cabinet
 
-◦
+- Chapitre 2 : De l'inspection générale des services
+
+■  Section 1 : De l'inspection des enseignements et de recherche
+
+■  Section 2 : De l'inspection des services
 
 - Chapitre  3 : De l'administration centrale,
 
 ■  Section 1 : Du secrétariat général
 
-■  Sous-section  1  : De  la direction générale de l'administration et de la
-
-- planification
+■  Sous-section  1  : De la direction générale de l'administration et de la planification
 
 ■  Paragraphe 1 : De la direction des affaires administratives, financières et du matériel
 
@@ -47,12 +49,6 @@ Texte en vigueur
 - Chapitre 7 : Des organes consultatifs
 
 - Titre 2 : Des dispositions diverses et finales
-
-- Chapitre 1: De la direction de cabinet
-
-- Chapitre 2 : De l'inspection générale des services
-
-■  Section 1 : De l'inspection des enseignements et de recherche
 
 Vu la Constitution ;
 
@@ -546,7 +542,7 @@ D'autres organes consultatifs peuvent être créés au tant que de besoin.
 L'organisation et les attributions des Services des différentes Directions, des Organes Consultatifs et  des  Services Communs sont régis par Arrêté(s) du Ministre de l'Enseignement Supérieur, de la Recherche Scientifique et de la Formation Professionnelle.
 
 ###### Article  32 :
-Le  Secrétaire  Général,  l'inspecteur  Général  des  Services,  les  Directeurs  Généraux  des  Services Centraux,  les  Recteurs  d'Universités  et/ou  Présidents  d'Université,  les  Directeurs  Généraux  des  Instituts Universitaires,  l'inspecteur  des  Enseignements  et  de  Recherche  et  l'inspecteur  de  Services  sont  nommés  par Décret pris en Conseil des Ministres sur proposition du Ministre de l'Enseignement Supérieur, de la Recherche Scientifique. et de la Formation Professionnelle.
+Le  Secrétaire  Général,  l'inspecteur  Général  des  Services,  les  Directeurs  Généraux  des  Services Centraux,  les  Recteurs  d'Universités  et/ou  Présidents  d'Université,  les  Directeurs  Généraux  des  Instituts
 
 http://legitchad.cefod-tchad.org/texte/878
 
@@ -559,6 +555,8 @@ http://legitchad.cefod-tchad.org/texte/878
 Légitchad
 
 Page 8 sur 8
+
+Universitaires, l'inspecteur des Enseignements et de Recherche et l'inspecteur de Services sont nommés par Décret pris en Conseil des Ministres sur proposition du Ministre de l'Enseignement Supérieur, de la Recherche Scientifique. et de la Formation Professionnelle.
 
 ###### Article 33 :
 Le Directeur de Cabinet, les Conseillers et les Directeurs Techniques sont nommés par Décret sur proposition  du  Ministre  de  l'Enseignement  Supérieur,  de  la  Recherche  Scientifique  et  de  la  Formation Professionnelle.
