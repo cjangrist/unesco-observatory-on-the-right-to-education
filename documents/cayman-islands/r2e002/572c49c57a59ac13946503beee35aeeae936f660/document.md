@@ -8,23 +8,11 @@ CARIBBEAN AND NORTH ATLANTIC TERRITORIES
 
 # The Cayman Islands Constitution Order 2009
 
-Made -
+Made - - - - - 10th June 2009
 
--
-
--
-
--
-
-Laid before Parliament
-
-10th June 2009
-
-17th June 2009
+Laid before Parliament 17th June 2009
 
 Coming into force in accordance with section 1(2)
-
--
 
 £10.50
 
@@ -40,19 +28,9 @@ CARIBBEAN AND NORTH ATLANTIC TERRITORIES
 
 # The Cayman Islands Constitution Order 2009
 
-Made
+Made - - - - 10th June 2009
 
--
-
--
-
--
-
-Laid before Parliament
-
-10th June 2009
-
-17th June 2009
+Laid before Parliament 17th June 2009
 
 Coming into force in accordance with section 1(2)
 
@@ -62,7 +40,7 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of the West Indies Act 1962( a ) and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:
+Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of the West Indies Act 1962(a) and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:
 
 ## Citation and commencement
 
@@ -78,7 +56,7 @@ Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of
 
 'the Constitution' means the Constitution set out in Schedule 2;
 
-'the  former  Constitution'  means  the  Constitution established  by  the  Cayman  Islands (Constitution) Order 1972( b );
+'the former Constitution' means the Constitution established by the Cayman Islands (Constitution) Order 1972(b);
 
 'the Legislative Assembly' means the Legislative Assembly established by the Constitution;
 
@@ -86,11 +64,9 @@ Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of
 
 (2) Section 124 of the Constitution shall apply for the purposes of interpreting sections 1 to 9 of this Order and otherwise in relation to them as it applies for the purposes of interpreting and in relation to the Constitution.
 
-( a ) 1962 c.19.
+(a) 1962 c.19.
 
-( b ) S.I.  1972/1101,  amended  by  S.I.  1984/126,  1987/2199,  1992/226,  1993/3143,  2003/1515,  2004/2029,  2004/2673, 2008/3127.
-
--
+(b) S.I. 1972/1101, amended by S.I. 1984/126, 1987/2199, 1992/226, 1993/3143, 2003/1515, 2004/2029, 2004/2673, 2008/3127.
 
 [[END OF PAGE 2]]
 
@@ -214,29 +190,29 @@ The Instructions issued under the Royal Sign Manual and Signet to the Governor o
 
 ###### BILL OF RIGHTS, FREEDOMS AND RESPONSIBILITIES
 
-- Guarantee of Rights, Freedoms and Responsibilities
+1. Guarantee of Rights, Freedoms and Responsibilities
 
-- Life
+2. Life
 
-- Torture and inhuman treatment
+3. Torture and inhuman treatment
 
-- Slavery or forced or compulsory labour
+4. Slavery or forced or compulsory labour
 
-- Personal liberty
+5. Personal liberty
 
-- Treatment of prisoners
+6. Treatment of prisoners
 
-- Fair trial
+7. Fair trial
 
-- No punishment without law
+8. No punishment without law
 
-- Private and family life
+9. Private and family life
 
-- Conscience and religion
+10. Conscience and religion
 
-- Expression
+11. Expression
 
-- Assembly and association
+12. Assembly and association
 
 4
 
@@ -244,17 +220,281 @@ The Instructions issued under the Royal Sign Manual and Signet to the Governor o
 
 [[START OF PAGE 6]]
 
+13. Movement
+
+14. Marriage
+
+15. Property
+
+16. Non-discrimination
+
+17. Protection of children
+
+18. Protection of the environment
+
+19. Lawful administrative action
+
+20. Education
+
+21. Public emergencies
+
+22. Protection of persons detained under emergency laws
+
+23. Declaration of incompatibility
+
+24. Duty of public officials
+
+25. Interpretive obligation
+
+26. Enforcement of rights and freedoms
+
+27. Remedies
+
+28. Interpretation of the Bill of Rights
+
+##### PART II
+
+###### THE GOVERNOR
+
+29. The office of Governor
+
+30. Oaths to be taken by the Governor
+
+31. Functions of the Governor
+
+32. Exercise of the Governor's functions
+
+33. The Governor may act contrary to the advice of the Cabinet
+
+34. The office of Deputy Governor
+
+35. Acting Governor
+
+36. Temporary exercise of certain functions of the Governor
+
+37. Emoluments, personal staff and expenditure of the Governor
+
+38. Powers to dispose of land
+
+39. Powers of pardon, etc.
+
+40. Advisory Committee on the Prerogative of Mercy
+
+41. Public seal
+
+42. Constitution of offices
+
+##### PART III
+
+###### THE EXECUTIVE
+
+43. Executive authority
+
+44. The Cabinet
+
+45. Meetings of the Cabinet
+
+46. Proceedings in and quorum of the Cabinet
+
+47. Attendance of persons at meetings
+
+48. Cabinet Secretary
+
+49. Appointment of the Premier and other Ministers
+
+50. Functions of the Premier
+
+51. Tenure of office of the Premier
+
+52. Tenure of office of Ministers
+
+53. Performance of functions of Ministers in certain events
+
 5
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
+54. Allocation of responsibilities to Ministers
+
+55. Special responsibilities of the Governor
+
+56. Attorney General
+
+57. Director of Public Prosecutions
+
+58. National Security Council
+
+##### PART IV
+
+###### THE LEGISLATURE
+
+59. Composition of the Legislature and power to make laws
+
+60. The Legislative Assembly
+
+61. Qualifications for elected membership of the Legislative Assembly
+
+62. Disqualifications for elected membership
+
+63. Tenure of office of elected members
+
+64. Delay in vacation of seat to allow for an appeal
+
+65. Speaker and Deputy Speaker
+
+66. Determination of questions as to membership of the Legislative Assembly
+
+67. Penalty for sitting or voting in the Legislative Assembly when unqualified
+
+68. Leader of the Opposition
+
+69. Power to provide for a referendum
+
+70. People-initiated referendums
+
+71. Standing Orders and committees
+
+72. Presiding in the Legislative Assembly
+
+73. The Legislative Assembly may transact business notwithstanding vacancies
+
+74. Quorum
+
+75. Voting
+
+76. Summoning of persons to assist the Legislative Assembly
+
+77. Introduction of Bills
+
+78. Assent to Bills
+
+79. Return of Bills by the Governor
+
+80. Disallowance of laws
+
+81. Governor's reserved power
+
+82. Privileges of the Legislative Assembly and its members
+
+83. Sessions of the Legislative Assembly
+
+84. Prorogation and dissolution
+
+85. Recalling dissolved Legislative Assembly
+
+86. General elections and bye-elections
+
+87. Public Accounts Committee
+
+88. Electoral Boundary Commission
+
+89. Review and alteration of electoral district boundaries
+
+90. Qualifications of electors
+
+91. Disqualifications of electors
+
+92. Right to vote at elections
+
+93. Law as to elections
+
+##### PART V
+
+###### THE JUDICATURE
+
+The Grand Court
+
+94. Constitution and jurisdiction of the Grand Court
+
 6
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+95. Composition of the Grand Court
+
+96. Tenure of office of judges of the Grand Court
+
+97. Acting judges of the Grand Court
+
+98. Oaths to be taken by judges of the Grand Court
+
+The Court of Appeal
+
+99. Constitution and jurisdiction of the Court of Appeal
+
+100. Composition of the Court of Appeal
+
+101. Tenure of office of judges of the Court of Appeal
+
+102. Acting judges of the Court of Appeal
+
+103. Oaths to be taken by judges of the Court of Appeal
+
+Other matters
+
+104. Subordinate courts
+
+105. Judicial and Legal Services Commission
+
+106. Functions of Judicial and Legal Services Commission
+
+107. Judicial administration
+
+##### PART VI
+
+###### THE PUBLIC SERVICE
+
+108. Overriding duty of public officers
+
+109. Appointment, etc., of public officers
+
+110. Applicability of pensions law
+
+##### PART VII
+
+###### FINANCE
+
+111. Revenue and Expenditure
+
+112. Reporting
+
+113. Public debt
+
+114. Auditor General
+
+115. Financial Secretary
+
+##### PART VIII
+
+###### INSTITUTIONS SUPPORTING DEMOCRACY
+
+116. Human Rights Commission
+
+117. Commission for Standards in Public Life
+
+118. Constitutional Commission
+
+119. Advisory District Councils
+
+120. Complaints Commissioner
+
+121. Register of Interests
+
+122. Freedom of information
+
+##### PART IX
+
+###### MISCELLANEOUS
+
+123. Official language of the Cayman Islands
+
+124. Interpretation
+
+125. Power reserved to Her Majesty
 
 7
 
@@ -272,43 +512,43 @@ The people of the Cayman Islands, recalling the events that have shaped their hi
 
 Affirm their intention to be-
 
-- x A God-fearing country based on traditional Christian values, tolerant of other religions and beliefs.
+- A God-fearing country based on traditional Christian values, tolerant of other religions and beliefs.
 
-- x A country with open, responsible and accountable government, that includes a working partnership  with  the  private  sector  and  continuing  beneficial  ties  with  the  United Kingdom.
+- A country with open, responsible and accountable government, that includes a working partnership with the private sector and continuing beneficial ties with the United Kingdom.
 
-- x A country in which religion finds its expression in moral living and social justice.
+- A country in which religion finds its expression in moral living and social justice.
 
-- x A caring community based on mutual respect for all individuals and their basic human rights.
+- A caring community based on mutual respect for all individuals and their basic human rights.
 
-- x A country committed to the democratic values of human dignity, equality and freedom.
+- A country committed to the democratic values of human dignity, equality and freedom.
 
-- x A community that practises honest and open dialogue to ensure mutual understanding and social harmony.
+- A community that practises honest and open dialogue to ensure mutual understanding and social harmony.
 
-- x A safe, secure and law-abiding community.
+- A safe, secure and law-abiding community.
 
-- x A country that is free from crime and drug abuse.
+- A country that is free from crime and drug abuse.
 
-- x A country with an education system that identifies and develops on a continuing basis the abilities of each person, allowing them to reach their full potential and productivity.
+- A country with an education system that identifies and develops on a continuing basis the abilities of each person, allowing them to reach their full potential and productivity.
 
-- x A community that encourages and prepares young people to assume leadership roles.
+- A community that encourages and prepares young people to assume leadership roles.
 
-- x A country that provides a comprehensive healthcare system.
+- A country that provides a comprehensive healthcare system.
 
-- x A community protective of traditional Caymanian heritage and the family unit.
+- A community protective of traditional Caymanian heritage and the family unit.
 
-- x A country that honours the sacrifice of its seafaring men who left the shores of the Islands to  enhance  the  quality  of  life  of  their  people,  and  in  doing  so  established  themselves amongst the finest within the global maritime community of that time and through their remittances,  endeavours  and  experiences  built  the  foundations  of  the  Cayman  Islands' modern economy.
+- A country that honours the sacrifice of its seafaring men who left the shores of the Islands to enhance the quality of life of their people, and in doing so established themselves amongst the finest within the global maritime community of that time and through their remittances, endeavours and experiences built the foundations of the Cayman Islands' modern economy.
 
-- x A  country  that  honours  and  acknowledges  the  important  contribution  of  Caymanian women who during the absence of the seafaring men of the Islands managed the affairs of their homes, businesses and communities and passed on the values and traditions of the Islands' people.
+- A country that honours and acknowledges the important contribution of Caymanian women who during the absence of the seafaring men of the Islands managed the affairs of their homes, businesses and communities and passed on the values and traditions of the Islands' people.
 
-- x A country with a vibrant diversified economy, which provides full employment.
+- A country with a vibrant diversified economy, which provides full employment.
 
-- x A country that makes optimal use of modern technology.
+- A country that makes optimal use of modern technology.
 
-- x A country that manages growth and maintains prosperity, while protecting its social and natural environment.
+- A country that manages growth and maintains prosperity, while protecting its social and natural environment.
 
-- x A country that respects, protects and defends its environment and natural resources as the basis of its existence.
+- A country that respects, protects and defends its environment and natural resources as the basis of its existence.
 
-- x A country that fosters the highest standards of integrity in the dealings of the private and public sectors.
+- A country that fosters the highest standards of integrity in the dealings of the private and public sectors.
 
 8
 
@@ -316,9 +556,9 @@ Affirm their intention to be-
 
 [[START OF PAGE 10]]
 
-- x A country with an immigration system that protects Caymanians, gives security to longterm residents and welcomes legitimate visitors and workers.
+- A country with an immigration system that protects Caymanians, gives security to long-term residents and welcomes legitimate visitors and workers.
 
-- x A country that plays its full part in the region and in the international community.
+- A country that plays its full part in the region and in the international community.
 
 Now,  therefore,  the  following  provisions  shall  have  effect  as  the  Constitution  of  the  Cayman Islands.
 
@@ -1096,13 +1336,15 @@ the Governor may, acting in his or her discretion and by instrument under the pu
 
 ###### Powers to dispose of land
 
-38. Subject to any law for the time being in force in the Cayman Islands, the Governor or any person duly authorised by him or her in writing under his or her hand may, in Her Majesty's name and on Her Majesty's behalf, make and execute under the public seal grants and dispositions of any land or other immovable property within the Cayman Islands that may be lawfully granted or disposed of by Her Majesty.
+38. Subject to any law for the time being in force in the Cayman Islands, the Governor or any person duly authorised by him or her in writing under his or her hand may, in Her Majesty's name
 
 25
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+and on Her Majesty's behalf, make and execute under the public seal grants and dispositions of any land or other immovable property within the Cayman Islands that may be lawfully granted or disposed of by Her Majesty.
 
 ###### Powers of pardon, etc.
 
@@ -1762,13 +2004,15 @@ and  the  election  of  the  Speaker  and  the  Deputy  Speaker  shall  take  pr
 
 ###### Power to provide for a referendum
 
-69. A law enacted by the Legislature may make provision to hold a referendum amongst persons registered as electors in accordance with section 90, on a matter or matters of national importance, when so resolved by the majority of the elected members of the Assembly; but the question of whether the Cayman Islands should seek any amendment to this Constitution that may result in their independence shall be deemed to be a matter of national importance.
+69. A law enacted by the Legislature may make provision to hold a referendum amongst persons registered as electors in accordance with section 90, on a matter or matters of national importance,
 
 39
 
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+
+when so resolved by the majority of the elected members of the Assembly; but the question of whether the Cayman Islands should seek any amendment to this Constitution that may result in their independence shall be deemed to be a matter of national importance.
 
 ###### People-initiated referendums
 
@@ -2200,7 +2444,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 97. -(1) If the office of Chief Justice is vacant, or if the holder of it is for any reason unable to perform the functions of that office, then, until some other person has been appointed to, and has assumed the functions of, that office, or until the holder of that office has resumed those functions, as the case may be, such one of the other judges of the Grand Court or such other person qualified for appointment as a judge of the Grand Court as the Governor, acting in accordance with section 106, may appoint for that purpose shall act in that office.
 
-(2) If the office of a judge of the Grand Court other than the Chief Justice is vacant, or if any such judge is acting as Chief Justice or is for any reason unable to perform the functions of his or her office, the Governor, acting in accordance with section 106, may appoint a person qualified for appointment as a judge of the Grand Court to act as such a judge.
+(2) If the office of a judge of the Grand Court other than the Chief Justice is vacant, or if any such judge is acting as Chief Justice or is for any reason unable to perform the functions of his or
 
 ( a ) 1833 c.41.
 
@@ -2209,6 +2453,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+her office, the Governor, acting in accordance with section 106, may appoint a person qualified for appointment as a judge of the Grand Court to act as such a judge.
 
 (3) A person may be appointed under subsection (1) or (2) even though he or she has attained the age of 65 years.
 
@@ -2222,7 +2467,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Constitution and jurisdiction of the Court of Appeal
 
-99. -(1) There shall  be  a  Court  of  Appeal  for  the  Cayman  Islands  which  shall  be  a  superior Court of Record and shall have jurisdiction and powers to hear and determine such appeals from the Grand Court as may be prescribed by this Constitution or any other law.
+99.—(1) There shall be a Court of Appeal for the Cayman Islands which shall be a superior Court of Record and shall have jurisdiction and powers to hear and determine such appeals from the Grand Court as may be prescribed by this Constitution or any other law.
 
 (2) The Court of Appeal shall, subject to this Constitution and any other law, have all the powers and  jurisdiction  that  are  possessed  by  the  Grand  Court  under  any  law  in  force  in  the  Cayman Islands; and decisions of the Court of Appeal in respect of any appeal from the Grand Court shall, subject as aforesaid, be enforced in the Cayman Islands in the same way as decisions of that Court.
 
@@ -2232,7 +2477,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Composition of the Court of Appeal
 
-100. -(1) The judges of the Court of Appeal shall be a President and not less than two Justices of Appeal.
+100.—(1) The judges of the Court of Appeal shall be a President and not less than two Justices of Appeal.
 
 (2) The judges of the Court of Appeal shall be appointed by the Governor by instrument under the public seal in accordance with section 106; but the office of a judge shall not, without his or her consent, be abolished during his or her continuance in office.
 
@@ -2242,19 +2487,20 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Tenure of office of judges of the Court of Appeal
 
-101. -(1) The  judges  of  the  Court  of  Appeal  shall  be  appointed  for  such  period  as  may  be specified  in  their  respective  instruments  of  appointment;  but  a  person  whose  appointment  as  a judge of the Court of Appeal has expired may, with the permission of the Governor, acting in his or her discretion, continue in office for such period as may be necessary to enable him or her to deliver  judgment or to do any other thing in relation to any proceeding previously  commenced before him or her.
+101.—(1) The judges of the Court of Appeal shall be appointed for such period as may be specified in their respective instruments of appointment; but a person whose appointment as a judge of the Court of Appeal has expired may, with the permission of the Governor, acting in his or her discretion, continue in office for such period as may be necessary to enable him or her to
 
 50
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+deliver judgment or to do any other thing in relation to any proceeding previously commenced before him or her.
 
-(2) A judge of the Court of Appeal may be removed from office only for inability to discharge the  functions  of  his  or  her  office  (whether  arising  from  infirmity  of  body  or  mind  or  any  other cause) or for misbehaviour, and shall not be so removed except in accordance with subsection (3).
+(2) A judge of the Court of Appeal may be removed from office only for inability to discharge the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and shall not be so removed except in accordance with subsection (3).
 
-(3) A judge of the Court of Appeal shall be removed from office by the Governor by instrument under the public seal if the question of the removal of that judge from office has, at the request of the Governor made in pursuance of subsection (4), been referred by Her Majesty to the Judicial Committee of Her Majesty's Privy Council under section 4 of the Judicial Committee Act 1833 or any other enactment enabling Her Majesty in that behalf, and the Judicial Committee has advised Her  Majesty  that  the  judge  ought  to  be  removed  from  office  for  inability  as  aforesaid  or misbehaviour.
+(3) A judge of the Court of Appeal shall be removed from office by the Governor by instrument under the public seal if the question of the removal of that judge from office has, at the request of the Governor made in pursuance of subsection (4), been referred by Her Majesty to the Judicial Committee of Her Majesty’s Privy Council under section 4 of the Judicial Committee Act 1833 or any other enactment enabling Her Majesty in that behalf, and the Judicial Committee has advised Her Majesty that the judge ought to be removed from office for inability as aforesaid or misbehaviour.
 
-(4) If the Governor considers that the question of removing a judge of the Court of Appeal from office for inability as aforesaid or misbehaviour ought to be investigated, then-
+(4) If the Governor considers that the question of removing a judge of the Court of Appeal from office for inability as aforesaid or misbehaviour ought to be investigated, then—
 
 (a) the Governor shall refer the matter to the Judicial and Legal Services Commission;
 
@@ -2264,7 +2510,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 (5) The  Commissions  of  Inquiry  Law  as  in  force  on  the  date  of  commencement  of  this Constitution shall, subject to this section, apply as nearly as may be in relation to the Judicial and Legal  Services  Commission  conducting  inquiries  under  subsection  (4)  or,  as  the  context  may require,  to  the  members  of  that  Commission  as  it  applies  to  Commissions  or  Commissioners appointed under that Law.
 
-(6) If the question of removing a judge of the Court of Appeal from office has been referred to the Judicial and Legal Services Commission under subsection (4), the Governor may suspend the judge from performing the functions of his or her office, and any such suspension may at any time be revoked by the Governor, and shall in any case cease to have effect-
+(6) If the question of removing a judge of the Court of Appeal from office has been referred to the Judicial and Legal Services Commission under subsection (4), the Governor may suspend the judge from performing the functions of his or her office, and any such suspension may at any time be revoked by the Governor, and shall in any case cease to have effect—
 
 (a) if the Judicial and Legal Services Commission advises the Governor that he or she should not request that the question of the removal of the judge from office should be referred by Her Majesty to the Judicial Committee; or
 
@@ -2274,17 +2520,18 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Acting judges of the Court of Appeal
 
-102. -(1) If the office of the President of the Court of Appeal is vacant, or if the holder of it is for any reason unable to perform the functions of that office, then, until some other person has been  appointed  to,  and  has  assumed  the  functions  of,  that  office  or  until  the  holder  of  it  has resumed those functions, as the case may be, such one of the Justices of Appeal or such other person qualified  for  appointment  as  a  judge  of  the  Court  of  Appeal  as  the  Governor,  acting  in accordance with section 106, may appoint for that purpose shall act in the office of the President.
+102.—(1) If the office of the President of the Court of Appeal is vacant, or if the holder of it is for any reason unable to perform the functions of that office, then, until some other person has been appointed to, and has assumed the functions of, that office or until the holder of it has resumed those functions, as the case may be, such one of the Justices of Appeal or such other person qualified for appointment as a judge of the Court of Appeal as the Governor, acting in accordance with section 106, may appoint for that purpose shall act in the office of the President.
 
 (2) If  the  office  of  a  Justice  of  Appeal  is  vacant,  or  if  any  Justice  of  Appeal  is  acting  as  the President or is for any reason unable to perform the functions of his or her office, the Governor, acting in accordance with section 106, may appoint a person qualified for appointment as a judge of the Court of Appeal to act as a Justice of Appeal.
 
-(3) Any person appointed under this section to act as a Justice of Appeal shall, unless he or she is  removed  from  office  under  section  101,  continue  so  to  act  for  the  period  of  his  or  her appointment  or,  if  no  such  period  is  specified,  until  his  or  her  appointment  is  revoked  by  the Governor, acting in his or her discretion; but a person whose appointment so to act has expired or been revoked may, with the permission of the Governor, acting in his or her discretion, continue so to act for such period as may be necessary to enable him or her to deliver judgment or to do any other thing in relation to any proceeding previously commenced before him or her.
+(3) Any person appointed under this section to act as a Justice of Appeal shall, unless he or she is removed from office under section 101, continue so to act for the period of his or her appointment or, if no such period is specified, until his or her appointment is revoked by the
 
 51
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
+Governor, acting in his or her discretion; but a person whose appointment so to act has expired or been revoked may, with the permission of the Governor, acting in his or her discretion, continue so to act for such period as may be necessary to enable him or her to deliver judgment or to do any other thing in relation to any proceeding previously commenced before him or her.
 
 ###### Oaths to be taken by judges of the Court of Appeal
 
@@ -2294,17 +2541,17 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Subordinate courts
 
-104. -(1) A law enacted by the Legislature may establish courts subordinate to the Grand Court.
+104.—(1) A law enacted by the Legislature may establish courts subordinate to the Grand Court.
 
 (2) The Grand Court shall have jurisdiction to supervise the proceedings before any subordinate court and may make such orders, issue such process and give such directions as it may consider appropriate for the purpose of ensuring that justice is duly administered by any such courts.
 
 ###### Judicial and Legal Services Commission
 
-105. -(1) There  shall  be  in  and  for  the  Cayman  Islands  a  Judicial  and  Legal  Services Commission which shall consist of-
+105.—(1) There shall be in and for the Cayman Islands a Judicial and Legal Services Commission which shall consist of—
 
 (a) a Chairman and one other member, neither of whom shall be a lawyer, appointed by the Governor, acting after consultation with the Premier and the Leader of the Opposition;
 
-(b) the President of the Court of Appeal, ex officio ;
+(b) the President of the Court of Appeal, ex officio;
 
 (c) a person appointed by the Governor, acting in his or her discretion, who holds or has held high  judicial  office  in  the  Cayman  Islands  and  has  recent  personal  knowledge  of  the courts in the Cayman Islands;
 
@@ -2314,7 +2561,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 (2) No person shall be qualified to be appointed to the Judicial and Legal Services Commission if he or she is a member of, or a candidate for election to, the Legislative Assembly or (except for appointment under subsection (1)(e)) holds or is acting in any public office.
 
-(3) The  office  of  a  member  of  the  Judicial  and  Legal  Services  Commission  shall  become vacant-
+(3) The office of a member of the Judicial and Legal Services Commission shall become vacant—
 
 (a) at the expiration of five years from the date of his or her appointment or such earlier time as may be specified in the instrument by which he or she was appointed;
 
@@ -2340,13 +2587,13 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Functions of Judicial and Legal Services Commission
 
-106. -(1) Power  to  make  appointments  to  the  offices  to  which  this  section  applies,  and  to remove and to exercise disciplinary control over persons holding or acting in such offices, shall vest  in  the  Governor,  acting  in  accordance  with  the  advice  of  the  Judicial  and  Legal  Services Commission;  but  the  Governor,  acting  in  his  or  her  discretion,  may  act  otherwise  than  in accordance  with  that  advice  if  he  or  she  determines  that  compliance  with  that  advice  would prejudice Her Majesty's service.
+106.—(1) Power to make appointments to the offices to which this section applies, and to remove and to exercise disciplinary control over persons holding or acting in such offices, shall vest in the Governor, acting in accordance with the advice of the Judicial and Legal Services Commission; but the Governor, acting in his or her discretion, may act otherwise than in accordance with that advice if he or she determines that compliance with that advice would prejudice Her Majesty’s service.
 
 (2) Before exercising the powers vested in the Governor by subsection (1) the Governor may, acting  in  his  or  her  discretion,  once  refer  the  advice  of  the  Judicial  and  Legal  Services Commission back to the Commission for reconsideration by it.
 
 (3) If the Judicial and Legal Services Commission, having reconsidered its original advice under subsection (2), substitutes for it different advice, subsection (2) shall apply to that different advice as it applies to the original advice.
 
-(4) This section applies to the offices of-
+(4) This section applies to the offices of—
 
 (a) Chief Justice and other judge of the Grand Court;
 
@@ -2376,7 +2623,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 [[START OF PAGE 55]]
 
-(10) The Judicial and Legal Services Commission shall-
+(10) The Judicial and Legal Services Commission shall—
 
 (a) draw up a code of conduct for the judiciary and a procedure for dealing with complaints; and
 
@@ -2394,7 +2641,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Overriding duty of public officers
 
-108. Subject to this Constitution, all public officers must-
+108. Subject to this Constitution, all public officers must—
 
 (a) act  in  accordance  with  the  best  interests  of  the  Cayman  Islands  and  not  in  their  own private interests; and
 
@@ -2402,7 +2649,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Appointment, etc., of public officers
 
-109. -(1) Power to make appointments  to  public  offices,  and  to  transfer,  remove  or  exercise disciplinary control over persons holding or acting in such offices, is, subject to this Constitution, vested in the Governor acting in his or her discretion.
+109.—(1) Power to make appointments to public offices, and to transfer, remove or exercise disciplinary control over persons holding or acting in such offices, is, subject to this Constitution, vested in the Governor acting in his or her discretion.
 
 (2) Subject  to  subsections  (3)  and  (4),  the  Governor,  acting  in  his  or  her  discretion,  may  by regulations  delegate,  to  such  extent  and  subject  to  such  conditions  as  may  be  specified  in  the regulations, the powers vested in him or her by subsection (1) to such public officers as may be specified.
 
@@ -2412,9 +2659,9 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Applicability of pensions law
 
-110. -(1) The law applicable to the grant and payment to any officer, or to his or her widow or widower, children, dependants or personal representatives, of any pension, gratuity or other like allowance (in this section referred to as 'an award') in respect of the service of that officer in a public office shall be that in force on the relevant day or any later law not less favourable to the person concerned.
+110.—(1) The law applicable to the grant and payment to any officer, or to his or her widow or widower, children, dependants or personal representatives, of any pension, gratuity or other like allowance (in this section referred to as “an award”) in respect of the service of that officer in a public office shall be that in force on the relevant day or any later law not less favourable to the person concerned.
 
-(2) For the purposes of this section the relevant day is-
+(2) For the purposes of this section the relevant day is—
 
 (a) in relation to an award granted before the appointed day, the day on which the award was granted;
 
@@ -2428,7 +2675,7 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 (c) in  relation  to  an  award  granted  or  to  be  granted  to  or  in  respect  of  a  person  who  first becomes  a  public  officer  on  or  after  the  appointed  day,  the  day  on  which  he  or  she becomes a public officer.
 
-(3) In subsection (2) 'the appointed day' means the date of commencement of this Constitution.
+(3) In subsection (2) “the appointed day” means the date of commencement of this Constitution.
 
 (4) For the purposes of this section, insofar as the law applicable to an award depends on the option of the person to or in respect of whom it is granted or to be granted, the law for which he or she opts shall be taken to be more favourable to him or her than any other law for which he or she might have opted.
 
@@ -2440,21 +2687,21 @@ serves, be regarded as serving a sentence exceeding twelve months if (but not un
 
 ###### Revenue and Expenditure
 
-111. -(1) The Legislature shall have the authority to levy or change the rates of revenue unless otherwise provided by law.
+111.—(1) The Legislature shall have the authority to levy or change the rates of revenue unless otherwise provided by law.
 
 (2) All Government expenses, assets and the incurrence of liabilities shall require appropriation by the Legislature, unless otherwise provided by law.
 
-(3) A law enacted by the Legislature shall govern the operation of the Government's financial system and processes.
+(3) A law enacted by the Legislature shall govern the operation of the Government’s financial system and processes.
 
 ###### Reporting
 
-112. -(1) At  least  one  report  annually  shall  be  made  to  the  Legislative  Assembly  on  the Government's financial performance and fiscal position.
+112.—(1) At least one report annually shall be made to the Legislative Assembly on the Government’s financial performance and fiscal position.
 
 (2) The content, timing and process for financial reporting and the agencies that are to report to the Legislative Assembly shall be prescribed by law.
 
 ###### Public debt
 
-113. -(1) Total Government borrowing shall not exceed an amount for which the sum of-
+113.—(1) Total Government borrowing shall not exceed an amount for which the sum of—
 
 (a) total interest payments;
 
@@ -2466,7 +2713,7 @@ for a financial year is more than a percentage of Government revenue set out in 
 
 (2) Subject  to  this  Constitution,  a  law  enacted  by  the  Legislature  may  provide  for  a  higher percentage for a limited period where a matter arises of a nature or urgency which in the opinion of the Cabinet makes it necessary to do so.
 
-(3) For the purposes of this section, 'Government borrowing' means borrowing in the name of the Government regardless of whether repayments are made directly by the Government or by a public or governmental body (including any statutory body, company or association).
+(3) For the purposes of this section, “Government borrowing” means borrowing in the name of the Government regardless of whether repayments are made directly by the Government or by a public or governmental body (including any statutory body, company or association).
 
 55
 
@@ -2476,7 +2723,7 @@ for a financial year is more than a percentage of Government revenue set out in 
 
 ###### Auditor General
 
-114. -(1) There shall be an Auditor General whose office shall be a public office, and power to make  appointments  to  the  office  of  Auditor  General,  and  to  remove  or  exercise  disciplinary control over any person holding or acting in that office, is vested in the Governor, acting in his or her discretion.
+114.—(1) There shall be an Auditor General whose office shall be a public office, and power to make appointments to the office of Auditor General, and to remove or exercise disciplinary control over any person holding or acting in that office, is vested in the Governor, acting in his or her discretion.
 
 (2) The  Auditor  General  may  be  removed  from  office  only  for  inability  to  discharge  the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour.
 
@@ -2500,9 +2747,9 @@ for a financial year is more than a percentage of Government revenue set out in 
 
 ###### Human Rights Commission
 
-116. -(1) There shall be in and for the Cayman Islands a Human Rights Commission (referred to in this section as 'the Commission').
+116.—(1) There shall be in and for the Cayman Islands a Human Rights Commission (referred to in this section as “the Commission”).
 
-(2) The Commission's primary responsibility shall be promoting understanding and observance of human rights in the Cayman Islands.
+(2) The Commission’s primary responsibility shall be promoting understanding and observance of human rights in the Cayman Islands.
 
 (3) The  Commission  shall  consist  of  a  Chairman  and  four  other  members  appointed  by  the Governor, acting after consultation with the Premier and the Leader of the Opposition, at least two of whom shall be experienced lawyers.
 
@@ -2510,7 +2757,7 @@ for a financial year is more than a percentage of Government revenue set out in 
 
 (5) The Commission shall replace the Human Rights Committee.
 
-(6) The Commission shall have power to-
+(6) The Commission shall have power to—
 
 (a) receive and investigate complaints of breaches or infringements of any right or freedom contained  in  the  Bill  of  Rights  or  international  human  rights  treaties  that  have  been extended to the Cayman Islands, and investigate such possible breaches or infringements on its own initiative;
 
@@ -2532,7 +2779,7 @@ for a financial year is more than a percentage of Government revenue set out in 
 
 (g) undertake  such  other  functions,  for  the  purpose  of  fulfilling  its  primary  responsibility under subsection (2), as may be conferred on it by a law enacted by the Legislature.
 
-(7) The Commission shall have no power to-
+(7) The Commission shall have no power to—
 
 (a) represent or provide representation to parties to litigation;
 
@@ -2546,7 +2793,7 @@ but  any  public  official  to  which  the  Commission  addresses  a  recommenda
 
 (9) Further  provision  relating  to  the  establishment  and  operation  of  the  Commission  may  be made by the Legislature, but such legislation shall not derogate from any provision of this section.
 
-(10) Nothing contained in or done pursuant to this section or any law made under subsection (9) shall-
+(10) Nothing contained in or done pursuant to this section or any law made under subsection (9) shall—
 
 (a) oblige a person to refer any complaint of a breach or infringement of any right or freedom referred to in the Bill of Rights to the Commission; or
 
@@ -2554,15 +2801,15 @@ but  any  public  official  to  which  the  Commission  addresses  a  recommenda
 
 ###### Commission for Standards in Public Life
 
-117. -(1) There shall be in and for the Cayman Islands a Commission for Standards in Public Life (referred to in this section as 'the Commission').
+117.—(1) There shall be in and for the Cayman Islands a Commission for Standards in Public Life (referred to in this section as “the Commission”).
 
 (2) The Commission shall consist of a Chairman and not less than two nor more than four other members, who shall be appointed by the Governor, acting after consultation with the Premier and the Leader of the Opposition, and who shall be people of the highest integrity with knowledge of practice in the private or public sector.
 
-(3) At least one member of the Commission shall be a chartered or certified accountant of at least ten years' experience.
+(3) At least one member of the Commission shall be a chartered or certified accountant of at least ten years’ experience.
 
 (4) At least one member of the Commission shall be a legal practitioner who has practised in the Commonwealth for at least ten years.
 
-(5) A person shall not be appointed as a member of the Commission if-
+(5) A person shall not be appointed as a member of the Commission if—
 
 (a) he or she is a member of the Legislative Assembly;
 
@@ -2572,7 +2819,7 @@ but  any  public  official  to  which  the  Commission  addresses  a  recommenda
 
 (d) he or she is not a Caymanian.
 
-(6) The office of a member of the Commission shall become vacant-
+(6) The office of a member of the Commission shall become vacant—
 
 57
 
@@ -2594,7 +2841,7 @@ but  any  public  official  to  which  the  Commission  addresses  a  recommenda
 
 (8) In the exercise of their functions, the Commission and its members shall not be subject to the direction or control of any other person or authority.
 
-(9) The functions of the Commission shall be-
+(9) The functions of the Commission shall be—
 
 (a) to assist in the setting of the highest standards of integrity and competence in public life in order to ensure the prevention of corruption or conflicts of interest;
 
@@ -2614,11 +2861,11 @@ but  any  public  official  to  which  the  Commission  addresses  a  recommenda
 
 ###### Constitutional Commission
 
-118. -(1) There shall be in and for the Cayman Islands a Constitutional Commission.
+118.—(1) There shall be in and for the Cayman Islands a Constitutional Commission.
 
 (2) The  Constitutional  Commission  shall  consist  of  a  Chairman  and  two  other  members appointed  by  the  Governor,  acting  after  consultation  with  the  Premier  and  the  Leader  of  the Opposition, at least one of whom shall be an experienced lawyer.
 
-(3) The functions of the Constitutional Commission shall be-
+(3) The functions of the Constitutional Commission shall be—
 
 (a) to advise the Government on questions concerning constitutional status and development in the Cayman Islands;
 
@@ -2644,17 +2891,17 @@ but  any  public  official  to  which  the  Commission  addresses  a  recommenda
 
 ###### Complaints Commissioner
 
-120. -(1) Subject to this Constitution, a law enacted by the Legislature may make provision for the  office,  functions  and  jurisdiction  of  a  Complaints  Commissioner,  otherwise  called  an Ombudsman.
+120.—(1) Subject to this Constitution, a law enacted by the Legislature may make provision for the office, functions and jurisdiction of a Complaints Commissioner, otherwise called an Ombudsman.
 
 (2) The Complaints Commissioner shall be appointed by the Governor, acting after consultation with the Premier and the Leader of the Opposition, by instrument under the public seal.
 
-(3) No person shall be qualified to be appointed as Complaints Commissioner if he or she is or has been within the preceding three years-
+(3) No person shall be qualified to be appointed as Complaints Commissioner if he or she is or has been within the preceding three years—
 
 (a) an elected member of the Legislative Assembly; or
 
 (b) the holder of any office in any political party.
 
-(4) The office of the Complaints Commissioner shall become vacant-
+(4) The office of the Complaints Commissioner shall become vacant—
 
 (a) at  the  expiration  of  the  period  specified  in  the  instrument  by  which  he  or  she  was appointed;
 
@@ -2670,7 +2917,7 @@ but  any  public  official  to  which  the  Commission  addresses  a  recommenda
 
 ###### Register of Interests
 
-121. -(1) There  shall  be  for  the  Cayman  Islands  a  Register  of  Interests,  which  shall  be maintained by the Commission for Standards in Public Life.
+121.—(1) There shall be for the Cayman Islands a Register of Interests, which shall be maintained by the Commission for Standards in Public Life.
 
 (2) It shall be the duty of any person to whom this section applies to declare to the Commission for Standards in Public Life, for entry in the Register of Interests, such interests, assets, income and  liabilities  of  that  person,  or  of  any  other  person  connected  with  him  or  her,  as  may  be prescribed by law.
 
@@ -2700,49 +2947,49 @@ but  any  public  official  to  which  the  Commission  addresses  a  recommenda
 
 ###### Interpretation
 
-124. -(1) In this Constitution, unless it is otherwise provided or required by the context-
+124.—(1) In this Constitution, unless it is otherwise provided or required by the context—
 
-'Assembly' means the Legislative Assembly;
+“Assembly” means the Legislative Assembly;
 
-'Bill of Rights' means the Bill of Rights, Freedoms and Responsibilities set out in Part I of this Constitution;
+“Bill of Rights” means the Bill of Rights, Freedoms and Responsibilities set out in Part I of this Constitution;
 
-'Caymanian' has the meaning ascribed to it in the laws of the Cayman Islands for the time being in force;
+“Caymanian” has the meaning ascribed to it in the laws of the Cayman Islands for the time being in force;
 
-'Court of Appeal' means the court established by section 99;
+“Court of Appeal” means the court established by section 99;
 
-'functions' includes jurisdiction, powers and duties;
+“functions” includes jurisdiction, powers and duties;
 
-'Government' means the Government of the Cayman Islands;
+“Government” means the Government of the Cayman Islands;
 
-'Government Notice' means a Cayman Islands Government Notice;
+“Government Notice” means a Cayman Islands Government Notice;
 
-'Governor' means the person for the time being holding the office of Governor of the Cayman Islands, and includes any person for the time being lawfully performing the functions of that office and, to the extent to which a person appointed under section 36 is authorised to act (but except where the word 'Governor' appears in that section), that person;
+“Governor” means the person for the time being holding the office of Governor of the Cayman Islands, and includes any person for the time being lawfully performing the functions of that office and, to the extent to which a person appointed under section 36 is authorised to act (but except where the word “Governor” appears in that section), that person;
 
-'Grand Court' means the court established by section 94;
+“Grand Court” means the court established by section 94;
 
-'high judicial office' means the office of judge of a court having unlimited jurisdiction in civil and  criminal  matters  in  some  part  of  the  Commonwealth  or  in  Ireland  or  a  court  having jurisdiction in appeals from such a court;
+“high judicial office” means the office of judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or in Ireland or a court having jurisdiction in appeals from such a court;
 
-'Judicial and Legal Services Commission' means the Commission established by section 105;
+“Judicial and Legal Services Commission” means the Commission established by section 105;
 
-'law' includes any instrument having the force of law made in exercise of a power conferred by law;
+“law” includes any instrument having the force of law made in exercise of a power conferred by law;
 
-'Leader of the Opposition' means a Leader of the Opposition appointed under section 68;
+“Leader of the Opposition” means a Leader of the Opposition appointed under section 68;
 
-'Legislature' means the Legislature established by section 59(1);
+“Legislature” means the Legislature established by section 59(1);
 
-'Minister' means a member of the Cabinet who is appointed as the Premier or other Minister;
+“Minister” means a member of the Cabinet who is appointed as the Premier or other Minister;
 
-'oath' includes affirmation;
+“oath” includes affirmation;
 
-'political party' means a group of persons who have united to contest election for membership of the Legislative Assembly;
+“political party” means a group of persons who have united to contest election for membership of the Legislative Assembly;
 
-'Premier' means a Premier appointed under section 49;
+“Premier” means a Premier appointed under section 49;
 
-'public office' means, subject to subsection (2), an office of emolument in the public service;
+“public office” means, subject to subsection (2), an office of emolument in the public service;
 
-'public officer' means the holder of any public office, and includes a person appointed to act in any public office;
+“public officer” means the holder of any public office, and includes a person appointed to act in any public office;
 
-'the  public  service'  means  the  service  of  the  Crown  in  a  civil  capacity  in  respect  of  the government of the Cayman Islands;
+“the public service” means the service of the Crown in a civil capacity in respect of the government of the Cayman Islands;
 
 60
 
@@ -2750,11 +2997,11 @@ but  any  public  official  to  which  the  Commission  addresses  a  recommenda
 
 [[START OF PAGE 62]]
 
-'session' means the meetings of the Legislative Assembly commencing when the Assembly first meets  after  being  constituted  under  this  Constitution,  or  after  its  prorogation  or dissolution  at  any  time,  and  terminating  when  the  Assembly  is  prorogued  or  is  dissolved without having been prorogued;
+“session” means the meetings of the Legislative Assembly commencing when the Assembly first meets after being constituted under this Constitution, or after its prorogation or dissolution at any time, and terminating when the Assembly is prorogued or is dissolved without having been prorogued;
 
-'sitting'  means  a  period  during  which  the  Legislative  Assembly  is  sitting  continuously without adjournment and includes any period during which the Assembly is in committee.
+“sitting” means a period during which the Legislative Assembly is sitting continuously without adjournment and includes any period during which the Assembly is in committee.
 
-(2) For the purposes of this Constitution, references to public offices shall not be construed as including-
+(2) For the purposes of this Constitution, references to public offices shall not be construed as including—
 
 (a) references to the office of Speaker, Deputy Speaker or elected member of the Legislative Assembly, Premier or other Minister, or Leader of the Opposition;
 
@@ -2770,7 +3017,7 @@ and a person shall not be considered as holding a public office by reason only t
 
 (4) A reference in this Constitution to the holder of an office by the term designating his or her office shall be construed as a reference to any person for the time being acting in that office or otherwise lawfully performing the functions of that office.
 
-(5) Without prejudice to subsection (4)-
+(5) Without prejudice to subsection (4)—
 
 (a) where the holder of any office constituted  by  or  under this  Constitution  is  on  leave  of absence pending the relinquishment of that office, the person or authority having power to make appointments to that office may appoint another person to it; and
 
@@ -2812,7 +3059,7 @@ I………………..do  swear  that  I  will  well  and  truly  serve  Her  Maj
 
 ###### 129. Affirmations
 
-In the forms above respectively set forth, for the word 'swear' there shall be substituted the words 'solemnly and sincerely affirm and declare', and the words 'So help me God' shall be omitted.
+In the forms above respectively set forth, for the word “swear” there shall be substituted the words “solemnly and sincerely affirm and declare”, and the words “So help me God” shall be omitted.
 
 62
 
@@ -2824,13 +3071,11 @@ In the forms above respectively set forth, for the word 'swear' there shall be s
 
 (This note is not part of the Order)
 
-This Order establishes a new Constitution for the Cayman Islands, to replace the Constitution of 1972. The new Constitution includes, for the first time, a Bill of Rights setting out the fundamental rights  and  freedoms  of  the  individual  and  provisions  for  their  enforcement.  It  provides  for  a Governor as Her Majesty's representative in the Islands, and for a Premier and other Ministers who form a Cabinet together with the Deputy Governor and the Attorney General. It provides for an  elected  Legislative  Assembly,  which  together  with  Her  Majesty  forms  the  Legislature.  It provides for a Grand Court and a Court of Appeal as superior courts, and a Judicial and Legal Services Commission to advise on judicial and senior legal appointments. Provision is also made for a Human Rights Commission, a Commission for Standards in Public Life, and a Constitutional Commission. A new National Security Council is established, as is the new office of Director of Public Prosecutions. Provision is also made for the public service, public finance, a Complaints Commissioner, a Register of Interests, and freedom of information. ____________________________________________________________________________________________________________
-
-¤ Crown copyright 2009
-
-> Printed and published in the UK by The Stationery Office Limited under the authority and superintendence of Carol Tullo, Controller of Her Majesty's Stationery Office and Queen's Printer of Acts of Parliament.
-
+This Order establishes a new Constitution for the Cayman Islands, to replace the Constitution of 1972. The new Constitution includes, for the first time, a Bill of Rights setting out the fundamental rights and freedoms of the individual and provisions for their enforcement. It provides for a Governor as Her Majesty’s representative in the Islands, and for a Premier and other Ministers who form a Cabinet together with the Deputy Governor and the Attorney General. It provides for an elected Legislative Assembly, which together with Her Majesty forms the Legislature. It provides for a Grand Court and a Court of Appeal as superior courts, and a Judicial and Legal Services Commission to advise on judicial and senior legal appointments. Provision is also made for a Human Rights Commission, a Commission for Standards in Public Life, and a Constitutional Commission. A new National Security Council is established, as is the new office of Director of Public Prosecutions. Provision is also made for the public service, public finance, a Complaints Commissioner, a Register of Interests, and freedom of information.
 E4397 6/2009 194397T 19585
+____________________________________________________________________________________________________________
+© Crown copyright 2009
+Printed and published in the UK by The Stationery Office Limited under the authority and superintendence of Carol Tullo, Controller of Her Majesty’s Stationery Office and Queen’s Printer of Acts of Parliament.
 
 [[END OF PAGE 64]]
 
