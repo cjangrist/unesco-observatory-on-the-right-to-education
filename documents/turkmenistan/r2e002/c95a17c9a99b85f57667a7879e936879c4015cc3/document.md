@@ -18,6 +18,25 @@ PDF generated: 13 Aug 2019, 15:21
 
 ## Table of contents
 
+Preamble . . . 3
+SECTION I: FUNDAMENTALS OF THE CONSTITUTIONAL SYSTEM OF
+TURKMENISTAN . . . 3
+SECTION II: RIGHTS, FREEDOMS AND DUTIES OF A PERSON AND A CITIZEN
+OF TURKMENISTAN . . . 7
+SECTION III: SYSTEM OF GOVERNMENT AND ADMINISTRATION BODIES IN
+TURKMENISTAN . . . 13
+CHAPTER I: GENERAL PROVISIONS . . . 13
+CHAPTER II: PRESIDENT OF TURKMENISTAN . . . 14
+CHAPTER III: MEJLIS OF TURKMENISTAN . . . 16
+CHAPTER IV: CABINET OF MINISTERS OF TURKMENISTAN . . . 19
+CHAPTER V: JUDICIAL POWER . . . 21
+CHAPTER VI: LOCAL GOVERNMENT AUTHORITIES . . . 22
+SECTION IV: LOCAL SELF-GOVERNMENT . . . 23
+SECTION V: ELECTION SYSTEM, REFERENDUM . . . 24
+SECTION VI: PROSECUTOR’S OFFICE . . . 26
+SECTION VII: ECONOMY AND FINANCIAL SYSTEM . . . 26
+SECTION VIII: FINAL PROVISIONS . . . 27
+
 Turkmenistan 2008 (rev. 2016)
 
 Page 2
@@ -58,7 +77,7 @@ With  the  aim  of  protecting  the  national  values  and  interests,  strength
 
 Guaranteeing  the  rights  and  freedoms  of  each  person  and  citizen,  and  seeking  to ensure  civil  tranquility  and  unity  in  the  society,  to  substantiate  the  basis  of democracy and democratic, legal, secular state,
 
-we adopt the present Constitution - the Basic Law of Turkmenistan.
+we adopt the present Constitution – the Basic Law of Turkmenistan.
 
 ## SECTION I: FUNDAMENTALS OF THE CONSTITUTIONAL SYSTEM OF TURKMENISTAN
 
@@ -74,7 +93,7 @@ The  State  shall  protect  the  independence,  territorial  integrity,  and  co
 
 Turkmenistan, has the status of permanent neutrality recognized by the international community and fixed in accordance with law.
 
-The United Nations through the General Assembly Resolutions  'Permanent Neutrality of Turkmenistan' dated 12 December 1995 and 3 June 2015: Recognizes and supports the proclaimed status of permanent neutrality of Turkmenistan; Calls upon the member states of the United Nations to respect and support this status of Turkmenistan  and  also  to  respect  its  independence,  sovereignty  and  territorial integrity.
+The United Nations through the General Assembly Resolutions “Permanent Neutrality of Turkmenistan” dated 12 December 1995 and 3 June 2015: Recognizes and supports the proclaimed status of permanent neutrality of Turkmenistan; Calls upon the member states of the United Nations to respect and support this status of Turkmenistan and also to respect its independence, sovereignty and territorial integrity.
 
 The  permanent  neutrality  of  Turkmenistan,  shall  be  the  basis  of  its  national  and foreign policy.
 
@@ -892,21 +911,14 @@ The  procedure  for  electing  the  President  of  Turkmenistan  and  his  assum
 
 The President of Turkmenistan shall:
 
-- implement the Constitution and laws;
-
-- supervise  the  execution  of  foreign  policy,  represents  Turkmenistan  in relations  with  other  nations,  negotiates  and  signs  international  treaties, appoint and dismiss ambassadors and other diplomatic representatives of Turkmenistan  to foreign countries, with interstate and international organizations,  accepts  the  credentials  and  letters  of  recall  of  diplomatic representatives of foreign countries;
-
-- form the Apparatus [Office] of the President of Turkmenistan;
-
-- be  the  Supreme  Commander of the Armed Forces of Turkmenistan, shall issue  orders  for  general  or  partial  mobilization,  thei  military  [readiness] status and use of armed forces,
-
-- approve the military doctrine of Turkmenistan;
-
-- appoint and dismiss the top command of the Armed Forces, other forces and military units of Turkmenistan;
-
-- form and preside over the National Security Council of Turkmenistan;
-
-- approve basic areas of national and foreign state policy and the programme of the political, economic, social and cultural development of the country;
+1. implement the Constitution and laws;
+2. supervise the execution of foreign policy, represents Turkmenistan in relations with other nations, negotiates and signs international treaties, appoint and dismiss ambassadors and other diplomatic representatives of Turkmenistan to foreign countries, with interstate and international organizations, accepts the credentials and letters of recall of diplomatic representatives of foreign countries;
+3. form the Apparatus [Office] of the President of Turkmenistan;
+4. be the Supreme Commander of the Armed Forces of Turkmenistan, shall issue orders for general or partial mobilization, thei military [readiness] status and use of armed forces,
+5. approve the military doctrine of Turkmenistan;
+6. appoint and dismiss the top command of the Armed Forces, other forces and military units of Turkmenistan;
+7. form and preside over the National Security Council of Turkmenistan;
+8. approve basic areas of national and foreign state policy and the programme of the political, economic, social and cultural development of the country;
 
 Turkmenistan 2008 (rev. 2016)
 
@@ -922,7 +934,8 @@ PDF generated: 13 Aug 2019, 15:21
 
 - Budget bills
 
-- Approval of general legislation · Veto override procedure
+- Approval of general legislation
+- Veto override procedure
 
 - Legislative oversight of the executive
 
@@ -948,29 +961,18 @@ PDF generated: 13 Aug 2019, 15:21
 
 - Head of state decree power
 
-- submit  for  consideration  and  approval  of  the  Mejlis  of  Turkmenistan  the state budget of Turkmenistan and report on performance of the budget;
-
-- sign the laws, in case of disagreement shall be entitled to, no later than two weeks,  using  the  right  of  suspensive  veto,  return  the  law  with  his/her objections to the parliament  for a second  hearing  and  vote.  If  the parliament,  with  at  least  two-thirds  of  the  total  number  of  deputies, confirms its decision taken earlier, the President of Turkmenistan shall sign the  law.  The  President  of  Turkmenistan  shall  not  have  the  right  of suspensive veto in relation to the laws on adoption of the Constitution and introduction of changes and amendments in it;
-
-- address the people and the Mejlis of Turkmenistan with annual statements on  the  state  of  affairs  of  the  country,  basic  areas  of  national  and  foreign policy of the state;
-
-- form the Central Commission for Elections and Referenda in Turkmenistan, make changes in its composition;
-
-- designate  the  date  of  referenda,  shall  have  the  right  to  convene  an  early session of the Mejlis;
-
-- address issues related to grant of citizenship of Turkmenistan, reinstatement  of  citizenship  and  renunciation  from  citizenship,as  well  as grant of asylum;
-
-- award state awards of Turkmenistan and grant military and other special state titles;
-
-- with the consent of the Mejlis, appoint and dismiss the Chairperson of the Supreme Court of Turkmenistan, the Prosecutor General of Turkmenistan, the  Minister  of  Internal  Affairs  of  Turkmenistan,  the  Minister  of  Adalat [Justice] of Turkmenistan, the Commissioner for Human Rights [Ombudsman] of Turkmenistan;
-
-- submit a proposal to the Mejlis of Turkmenistan on election of Authorized Representative for Human Rights in Turkmenistan;
-
-- grant pardon and amnesty;
-
-- order a state of emergency and martial law;
-
-- address other issues, assigned to his competence by the Constitution and the laws.
+9. submit for consideration and approval of the Mejlis of Turkmenistan the state budget of Turkmenistan and report on performance of the budget;
+10. sign the laws, in case of disagreement shall be entitled to, no later than two weeks, using the right of suspensive veto, return the law with his/her objections to the parliament for a second hearing and vote. If the parliament, with at least two-thirds of the total number of deputies, confirms its decision taken earlier, the President of Turkmenistan shall sign the law. The President of Turkmenistan shall not have the right of suspensive veto in relation to the laws on adoption of the Constitution and introduction of changes and amendments in it;
+11. address the people and the Mejlis of Turkmenistan with annual statements on the state of affairs of the country, basic areas of national and foreign policy of the state;
+12. form the Central Commission for Elections and Referenda in Turkmenistan, make changes in its composition;
+13. designate the date of referenda, shall have the right to convene an early session of the Mejlis;
+14. address issues related to grant of citizenship of Turkmenistan, reinstatement of citizenship and renunciation from citizenship,as well as grant of asylum;
+15. award state awards of Turkmenistan and grant military and other special state titles;
+16. with the consent of the Mejlis, appoint and dismiss the Chairperson of the Supreme Court of Turkmenistan, the Prosecutor General of Turkmenistan, the Minister of Internal Affairs of Turkmenistan, the Minister of Adalat [Justice] of Turkmenistan, the Commissioner for Human Rights [Ombudsman] of Turkmenistan;
+17. submit a proposal to the Mejlis of Turkmenistan on election of Authorized Representative for Human Rights in Turkmenistan;
+18. grant pardon and amnesty;
+19. order a state of emergency and martial law;
+20. address other issues, assigned to his competence by the Constitution and the laws.
 
 #### Article 72
 
@@ -1052,9 +1054,8 @@ PDF generated: 13 Aug 2019, 15:21
 
 - Referenda
 
-- Legislative committees · Leader of first chamber
-
-·
+- Legislative committees
+- Leader of first chamber
 
 - Constitution amendment procedure
 
@@ -1074,11 +1075,9 @@ The Mejlis shall consist of 125 deputies, elected from constituencies with appro
 
 The Mejlis shall be dissolved prematurely in the following cases:
 
-- on the basis of a decision through national referendum;
-
-- on the basis of a resolution of the Mejlis, accepted by no less than two-third of the votes of the total number of deputies of the Mejlis (self-dissolution).
-
-- by  the  President  of  Turkmenistan  in  case  the  formation  of  Mejlis  office bearers  [Chairperson,  deputy  chairpersons  etc.]  was  not  done  within  six months.
+1. on the basis of a decision through national referendum;
+2. on the basis of a resolution of the Mejlis, accepted by no less than two-third of the votes of the total number of deputies of the Mejlis (self-dissolution).
+3. by the President of Turkmenistan in case the formation of Mejlis office bearers [Chairperson, deputy chairpersons etc.] was not done within six months.
 
 #### Article 80
 
@@ -1090,17 +1089,12 @@ The deputies of the Mejlis of the previous convocation shall remain in office un
 
 The Mejlis shall:
 
-- Adopt the Constitution, enact laws, make amendments and changes to the Constitution and laws, monitor their performance and their interpretation;
-
-- Consider  the  approval  of  the  programme  of  activities  of  the  Cabinet  of Ministers;
-
-- Examine the issues related to approval of the state budget of Turkmenistan and report on its implementation;
-
-- Consider the basic areas of national and foreign policy and programmes of political, economic social and cultural development of the country;
-
-- Address issues of national referenda;
-
-- Appoint  [decide  for] the election  of  the  President  of  Turkmenistan, deputies of the Mejlis, members of Halk maslahaty and the Gengeshes.
+1. Adopt the Constitution, enact laws, make amendments and changes to the Constitution and laws, monitor their performance and their interpretation;
+2. Consider the approval of the programme of activities of the Cabinet of Ministers;
+3. Examine the issues related to approval of the state budget of Turkmenistan and report on its implementation;
+4. Consider the basic areas of national and foreign policy and programmes of political, economic social and cultural development of the country;
+5. Address issues of national referenda;
+6. Appoint [decide for] the election of the President of Turkmenistan, deputies of the Mejlis, members of Halk maslahaty and the Gengeshes.
 
 Turkmenistan 2008 (rev. 2016)
 
@@ -1136,19 +1130,13 @@ PDF generated: 13 Aug 2019, 15:21
 
 - Legislative oversight of the executive
 
-- Consider  the  recommendations  of  the  President  of  Turkmenistan  on  the issues related to the appointment and dismissal of the Chairperson of the Supreme Court of Turkmenistan, the Prosecutor General of Turkmenistan, the  Minister  of  Internal  Affairs  of  Turkmenistan,  the  Minister  of  Adalat [Justice] of Turkmenistan, the Ombudsman in Turkmenistan;
-
-- Upon proposal  of  the  President  of  Turkmenistan,  establish  state  awards, awards state decorations to the President of Turkmenistan, assign him/her the military and other ranks;
-
-- Determine  conformity  to  or  divergence  from  the  Constitution  and  the normative legal acts by the state authorities and administration;
-
-- Ratify and denounce international treaties;
-
-- Consider  issues  related  to  change  of  state  borders  and  administrative  territorial division of Turkmenistan;
-
-- Examine the issues related to peace and security;
-
-- Address  other  issues  within  the  competence  of  the  Mejlis  under  the Constitution and laws.
+7. Consider the recommendations of the President of Turkmenistan on the issues related to the appointment and dismissal of the Chairperson of the Supreme Court of Turkmenistan, the Prosecutor General of Turkmenistan, the Minister of Internal Affairs of Turkmenistan, the Minister of Adalat [Justice] of Turkmenistan, the Ombudsman in Turkmenistan;
+8. Upon proposal of the President of Turkmenistan, establish state awards, awards state decorations to the President of Turkmenistan, assign him/her the military and other ranks;
+9. Determine conformity to or divergence from the Constitution and the normative legal acts by the state authorities and administration;
+10. Ratify and denounce international treaties;
+11. Consider issues related to change of state borders and administrative - territorial division of Turkmenistan;
+12. Examine the issues related to peace and security;
+13. Address other issues within the competence of the Mejlis under the Constitution and laws.
 
 #### Article 82
 
@@ -1156,11 +1144,9 @@ The Mejlis may transfer the right to issue laws on certain matters to the Presid
 
 The Mejlis may not transfer to anyone the right to legislate on:
 
-- adoption and amendments in the Constitution;
-
-- criminal and administrative law;
-
-- legal proceedings.
+1. adoption and amendments in the Constitution;
+2. criminal and administrative law;
+3. legal proceedings.
 
 #### Article 83
 
@@ -1274,25 +1260,16 @@ The  Cabinet  of  Ministers  within  its  competence  shall  approve  decrees  a
 
 The Cabinet of Ministers shall:
 
-- arrange  execution  of  the  laws  of  Turkmenistan,  acts  of  the  President  of Turkmenistan and the Mejlis of Turkmenistan;
-
-- carry  out  measures  to  ensure  and  protect  the  rights  and  freedoms  of citizens, protection of property rights and maintaining public order, national security;
-
-- develop and submit for the consideration of the Mejlis proposals on basic areas  of  the  national  and  foreign  policy  of  the  state,  programmes  of political, economic, social and cultural development of the country;
-
-- carry out the state management of economic, social and cultural development;
-
-- organize management of public enterprises, institutions and organizations;
-
-- ensure rational use and conservation of natural resources;
-
-- take measures to strengthen monetary and credit system;
-
-- form, as appropriate, committees, senior management and other departments under the Cabinet of Ministers;
-
-- carry out foreign economic activities; ensure development of cultural and other relations with foreign states;
-
-- lead  the  activities  of  the  government  agencies,  state  enterprises  and organizations;  have  the  right  to  revoke  the  legal  acts  of  ministries  and departments and the bodies of local executive authority;
+1. arrange execution of the laws of Turkmenistan, acts of the President of Turkmenistan and the Mejlis of Turkmenistan;
+2. carry out measures to ensure and protect the rights and freedoms of citizens, protection of property rights and maintaining public order, national security;
+3. develop and submit for the consideration of the Mejlis proposals on basic areas of the national and foreign policy of the state, programmes of political, economic, social and cultural development of the country;
+4. carry out the state management of economic, social and cultural development;
+5. organize management of public enterprises, institutions and organizations;
+6. ensure rational use and conservation of natural resources;
+7. take measures to strengthen monetary and credit system;
+8. form, as appropriate, committees, senior management and other departments under the Cabinet of Ministers;
+9. carry out foreign economic activities; ensure development of cultural and other relations with foreign states;
+10. lead the activities of the government agencies, state enterprises and organizations; have the right to revoke the legal acts of ministries and departments and the bodies of local executive authority;
 
 Turkmenistan 2008 (rev. 2016)
 
@@ -1314,7 +1291,7 @@ PDF generated: 13 Aug 2019, 15:21
 
 - Supreme/ordinary court judge removal
 
-- address other issues referred to its competence by the Constitution, laws and other normative legal acts of Turkmenistan.
+11. address other issues referred to its competence by the Constitution, laws and other normative legal acts of Turkmenistan.
 
 #### Article 95
 
@@ -1416,9 +1393,8 @@ In  the  provinces,  districts  and  cities,  local  representative  bodies  -  
 
 Halk maslahaty in the respective territory shall:
 
-- it  participates  in  organizing  the  implementation  of  the  programmes  of economic, social and cultural development;
-
-- approve the local budget and report on its performance;
+1. it participates in organizing the implementation of the programmes of economic, social and cultural development;
+2. approve the local budget and report on its performance;
 
 Turkmenistan 2008 (rev. 2016)
 
@@ -1434,11 +1410,9 @@ PDF generated: 13 Aug 2019, 15:21
 
 · Municipal government
 
-- contribute in law enforcement and maintaining public order, protection of rights and legal interests of citizens;
-
-- hear  reports  from  heads  of  local  executive  bodies  on  the  implemented activities in the areas of economic, social and cultural development of the territory;
-
-- deal with other issues assigned by Turkmenistan law to the competition of Halk maslahaty.
+3. contribute in law enforcement and maintaining public order, protection of rights and legal interests of citizens;
+4. hear reports from heads of local executive bodies on the implemented activities in the areas of economic, social and cultural development of the territory;
+5. deal with other issues assigned by Turkmenistan law to the competition of Halk maslahaty.
 
 Resolutions  adopted  by  Halk  maslahaty  shall  be  binding  within  their  respective territory.
 
@@ -1496,19 +1470,13 @@ PDF generated: 13 Aug 2019, 15:21
 
 The Gengeshes in the respective territory shall:
 
-- determine the basic areas of economic, social and cultural development;
-
-- draw up and approve the budget and report on its performance;
-
-- set local taxes and fees, and their treatment (administration);
-
-- manage property, which they own;
-
-- define  measures  for  rational  use  of  natural  resources  and  environmental protection;
-
-- contribute to maintaining public order;
-
-- deal with other issues assigned by law to the competence of the Gengesh.
+1. determine the basic areas of economic, social and cultural development;
+2. draw up and approve the budget and report on its performance;
+3. set local taxes and fees, and their treatment (administration);
+4. manage property, which they own;
+5. define measures for rational use of natural resources and environmental protection;
+6. contribute to maintaining public order;
+7. deal with other issues assigned by law to the competence of the Gengesh.
 
 The decisions taken by the Gengeshes within the limits of their competence shall be binding in their respective territory.
 
@@ -1560,7 +1528,9 @@ PDF generated: 13 Aug 2019, 15:21
 
 · Municipal government
 
-· Referenda Citizens recognized by the court as legally incapable, as well as serving sentence in prisons, shall not participate in elections. Limiting the electoral rights of citizens in other cases shall not be acceptable, and shall be punishable by law.
+- Referenda
+
+Citizens recognized by the court as legally incapable, as well as serving sentence in prisons, shall not participate in elections. Limiting the electoral rights of citizens in other cases shall not be acceptable, and shall be punishable by law.
 
 #### Article 120
 
@@ -1616,13 +1586,13 @@ PDF generated: 13 Aug 2019, 15:21
 
 - Referenda
 
-· Attorney general
-
 #### Article 128
 
 The  procedure  for  conduct  of  elections,  national  and  local  referenda,  shall  be determined by law. The elections and referenda shall not be held during the period of state of emergency and martial law.
 
 ## SECTION VI: PROSECUTOR'S OFFICE
+
+- Attorney general
 
 #### Article 129
 
@@ -1666,7 +1636,7 @@ constituteproject.org
 
 PDF generated: 13 Aug 2019, 15:21
 
-· Central bank The state shall encourage and support entrepreneurship, promote development of small and medium enterprises.
+The state shall encourage and support entrepreneurship, promote development of small and medium enterprises.
 
 #### Article 135
 
@@ -1683,6 +1653,8 @@ In Turkmenistan shall be implemented the common budget, financial, tax, monetary
 The budget system of Turkmenistan shall consist of aggregate budgets of all levels constituting components of the State Budget of Turkmenistan.
 
 General principles of budgeting and operation of the budget system of Turkmenistan, as well as the basis for budget operations and inter-budget relations in Turkmenistan shall be determined by law.
+
+- Central bank
 
 #### Article 138
 
@@ -1744,6 +1716,54 @@ PDF generated: 13 Aug 2019, 15:21
 
 ## Topic index
 
+### A
+
+Access to higher education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Advisory bodies to the head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 26
+
+### B
+
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 17
+
+### C
+
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 20
+Central bank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Civil service recruitment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Claim of executive independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Claim of universal suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Compulsory education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 28
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 18
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Customary international law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 7
+
+### D
+
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Dismissal of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Duty to obey the constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Duty to pay taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Duty to serve in the military . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+### E
+
+Economic plans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 17, 20
+Electoral commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 15, 26
+Equality regardless of financial status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 8
+Equality regardless of language . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of nationality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of political party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
 Turkmenistan 2008 (rev. 2016)
 
 Page 29
@@ -1755,6 +1775,58 @@ Page 29
 constituteproject.org
 
 PDF generated: 13 Aug 2019, 15:21
+
+Equality regardless of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+### F
+
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 24, 25
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Free education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 9
+
+### G
+
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Guarantee of due process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+### H
+
+Head of state decree power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 20
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 24, 25
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 8, 12
+
+### I
+
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Inalienable rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 4, 7
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Integration of ethnic communities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 7, 14, 18
+International organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 14
+
+### J
+
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 21
+
+### L
+
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 19
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18
 
 Turkmenistan 2008 (rev. 2016)
 
@@ -1768,6 +1840,57 @@ constituteproject.org
 
 PDF generated: 13 Aug 2019, 15:21
 
+Limits on employment of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+### M
+
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Motives for writing constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Municipal government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 22, 23, 24, 25
+
+### N
+
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+National anthem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+National capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+National flag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+### O
+
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Ownership of natural resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 11
+
+### P
+
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 13
+Prohibited political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Prohibition of capital punishment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Prohibition of double jeopardy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Protection from ex post facto laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Protection from self-incrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 11, 20
+Protection of language use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Protection of stateless persons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Provision for matrimonial equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Provisions for intellectual property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 12
+
+### R
+
+Reference to art . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 12
+Reference to science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 8, 12
+
 Turkmenistan 2008 (rev. 2016)
 
 Page 31
@@ -1780,7 +1903,51 @@ constituteproject.org
 
 PDF generated: 13 Aug 2019, 15:21
 
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16, 17, 25, 26, 28
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 13
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Right to appeal judicial decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Right to choose occupation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 22
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 12
+Right to development of personality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Right to enjoy the benefits of science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to establish a business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to form political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to found a family . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Right to health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 10
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to marry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Right to own property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 10
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 11
+Right to protect one's reputation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 12
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Right to reasonable standard of living . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to renounce citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Right to rest and leisure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to safe work environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to self determination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Right to shelter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to transfer property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
 ### S
+
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Selection of active-duty commanders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Separation of church and state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 6
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Source of constitutional authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+State operation of the media . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+State support for children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 12
+State support for the disabled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+State support for the elderly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+State support for the unemployed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
 
 Turkmenistan 2008 (rev. 2016)
 
@@ -1793,6 +1960,30 @@ Page 32
 constituteproject.org
 
 PDF generated: 13 Aug 2019, 15:21
+
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Subsidiary unit government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 22, 24
+Supreme court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 18, 21
+Supreme/ordinary court judge removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+### T
+
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Treaty ratification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 18
+Trial in native language of accused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+### U
+
+Ultra-vires administrative actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Unamendable provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+### V
+
+Veto override procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
 
 Turkmenistan 2008 (rev. 2016)
 
