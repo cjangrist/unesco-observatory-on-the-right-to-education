@@ -16,25 +16,39 @@ NAVTEC
 
 # The National Skills Strategy 2009-2013
 
-National Vocational and Technical Education Commission Prime Minister's Secretariat (Public) Islamabad Published by National Vocational and Technical Education Commission Prime Minister Secretariat Islamabad, Pakistan Copyright © 2009
+National Vocational and Technical Education Commission
+Prime Minister's Secretariat (Public) Islamabad
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-Cover page Designed by Bilal Khan
+Published by
+National Vocational and Technical Education Commission
+Prime Minister Secretariat
+Islamabad, Pakistan
+
+Copyright © 2009
+
+Cover page Designed by
+Bilal Khan
 
 All measurements are given in inches, height before width.
 
 All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, without prior permission from the NAVTEC
 
-Printed at Maryah Printing Khi, Lhr, Rwp, Isb, 051-4492624  Ext. 103
+Printed at
+Maryah Printing
+Khi, Lhr, Rwp, Isb, 051-4492624 Ext. 103
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-IN THE NAME OF ALLAH THE MOST GRACIOUS, THE MOST MERCIFUL
+بسم الله الرحمن الرحيم
+
+IN THE NAME OF ALLAH
+THE MOST GRACIOUS, THE MOST MERCIFUL
 
 [[END OF PAGE 5]]
 
@@ -46,8 +60,13 @@ IN THE NAME OF ALLAH THE MOST GRACIOUS, THE MOST MERCIFUL
 
 [[START OF PAGE 7]]
 
-A WORKMAN IS ALLAH'S FRIEND THE HOLY PROPHET
+الکاسب حبیب اللہ
 
+وہ خدا کا دوست ہے
+جو ہاتھ سے کام کرتا ہے
+
+A WORKMAN IS ALLAH'S FRIEND
+THE HOLY PROPHET
 (Peace Be Upon Him)
 
 [[END OF PAGE 7]]
@@ -77,6 +96,43 @@ Extract from Speech, November 27, 1947
 [[START OF PAGE 11]]
 
 ## Table of Content
+
+Message | i
+Foreword | iii
+Board of Members | v
+Acronyms | vi
+
+1 | Skilling Pakistan: The National Skills Strategy (2009-2013) | 01
+2 | The Need for Reform | 03
+3 | The National Vocational and Technical Education Commission | 06
+4 | Objective 1: Providing Relevant Skills for Industrial & Economic Development | 08
+4.1 | Introducing Competency Based Training | 08
+4.2 | Establishing Industry Specific Centers of Excellence | 10
+4.3 | Increasing the Role of the Private Sector | 12
+4.4 | Reforming the Apprenticeship System | 15
+4.5 | Encouraging Entrepreneurship | 16
+5 | Objective 2: Improving Access, Equity and Employability | 17
+5.1 | Expanding Geographical Provision | 17
+5.2 | Making Training Delivery Flexible | 18
+5.3 | Focusing on Skills for Women | 19
+5.4 | Training for Disadvantaged Groups | 21
+5.5 | Integrating Informal Economy Workers | 22
+5.6 | Enhancing the Mobility of Skilled Workers | 22
+5.7 | Providing Career Guidance and Placement Services | 24
+5.8 | Offering Vocational Education in Schools | 26
+5.9 | Enhancing the Status of Skills Training | 26
+6 | Objective 3: Assuring Quality | 28
+6.1 | Streamlining Policymaking | 28
+6.2 | Establishing a National Qualifications Framework | 28
+6.3 | Registering and Accrediting Institutes | 29
+6.4 | Reforming the Management of Training Institutes | 30
+6.5 | Training Trainers | 31
+6.6 | Undertaking Research | 33
+7 | Resources | 35
+8 | Implementation | 37
+9 | Monitoring and Performance Evaluation | 39
+10 | Conclusion | 41
+References | 42
 
 National Skills Strategy
 
@@ -108,7 +164,8 @@ i
 
 [[START OF PAGE 14]]
 
-National Skills Strategy ii
+ii
+National Skills Strategy
 
 [[END OF PAGE 14]]
 
@@ -134,7 +191,8 @@ iii
 
 [[START OF PAGE 16]]
 
-National Skills Strategy iv
+iv
+National Skills Strategy
 
 [[END OF PAGE 16]]
 
@@ -142,45 +200,24 @@ National Skills Strategy iv
 
 ## Board of Members
 
-- Chairman, NAVTEC. 1.
-
-- Secretary, Ministry of Labour & Manpower.
-
-- Secretary, Ministry of Finance.
-
-- Secretary, Ministry of Industries, Production & Special Initiatives.
-
-- Secretary, Ministry of Education.
-
-- Chairman, Punjab Technical Education & Vocational Training Authority.
-
-- Chairman, Sindh Technical Education & Vocational Training Authority
-
-- Chairman, Balochistan Technical Education & Vocational Training Authority.
-
-- Secretary, Department of Industries, Government of NWFP, Peshawar till such time that provincial authority is established.
-
-- Mr. Aamir Mansoor.
-
-- Ms. Sarah Hashwani. 11.
-
-- Mr. Ahmad Sheikh. 12.
-
-- Mr. Muhammad Ali Jameel. 13.
-
-- President, Balochistan Chamber of Commerce & Industry, Quetta. 14.
-
-- Mr. Khurram Farid Khakwani. 15.
-
-- Mr. Asfand Yar Shah. 16.
-
-- Engr. Kamal Nasir Khan. 17.
-
-- Executive Director, NAVTEC. 18.
-
-Chairman
-
-Secretary
+1. Chairman, NAVTEC. | Chairman
+2. Secretary, Ministry of Labour & Manpower.
+3. Secretary, Ministry of Finance.
+4. Secretary, Ministry of Industries, Production & Special Initiatives.
+5. Secretary, Ministry of Education.
+6. Chairman, Punjab Technical Education & Vocational Training Authority.
+7. Chairman, Sindh Technical Education & Vocational Training Authority
+8. Chairman, Balochistan Technical Education & Vocational Training Authority.
+9. Secretary, Department of Industries, Government of NWFP, Peshawar till such time that provincial authority is established.
+10. Mr. Aamir Mansoor.
+11. Ms. Sarah Hashwani.
+12. Mr. Ahmad Sheikh.
+13. Mr. Muhammad Ali Jameel.
+14. President, Balochistan Chamber of Commerce & Industry, Quetta.
+15. Mr. Khurram Farid Khakwani.
+16. Mr. Asfand Yar Shah.
+17. Engr. Kamal Nasir Khan.
+18. Executive Director, NAVTEC. | Secretary
 
 National Skills Strategy
 
@@ -235,19 +272,19 @@ To provide policy direction, support and an enabling environment to the public a
 
 To provide a framework for skills development which achieves two main paradigm shifts:
 
-- l The  shift  from  time  bound,  curriculum  based  training  to  flexible, competency  based training, &
+- The shift from time bound, curriculum based training to flexible, competency based training, &
 
-- l The shift from supply led training to demand driven skills development by promoting the role of industry in both the design and delivery of TVET.
+- The shift from supply led training to demand driven skills development by promoting the role of industry in both the design and delivery of TVET.
 
 ### 1.4 Objectives
 
 The proposed paradigm shifts are required to achieve three main objectives:
 
-- l Providing Relevant Skills for Industrial and Economic Development.
+- Providing Relevant Skills for Industrial and Economic Development.
 
-- l Improving  Access, Equity & Employability.
+- Improving Access, Equity & Employability.
 
-- l Assuring Quality.
+- Assuring Quality.
 
 ### 1.5 Reforms
 
@@ -255,27 +292,27 @@ In order to achieve the three objectives, twenty reforms are proposed:
 
 #### 1.5.1 Objective 1:Providing Relevant Skills for Industrial & Economic Development
 
-- l Introducing competency based training
+- Introducing competency based training
 
-- l Establishing  industry specific Centres of Excellence
+- Establishing industry specific Centres of Excellence
 
-- l Increasing the role of the private sector
+- Increasing the role of the private sector
 
-- l Reforming the apprenticeship system
+- Reforming the apprenticeship system
 
-- l Encouraging entrepreneurship
+- Encouraging entrepreneurship
 
 #### 1.5.2 Objective 2: Improving Access, Equity and Employability
 
-- l Expanding geographical provision
+- Expanding geographical provision
 
-- l Making training delivery flexible
+- Making training delivery flexible
 
-- l Focusing on skills for women
+- Focusing on skills for women
 
-- l Training for disadvantaged groups
+- Training for disadvantaged groups
 
-- l Integrating informal economy workers
+- Integrating informal economy workers
 
 National Skills Strategy
 
@@ -285,27 +322,27 @@ National Skills Strategy
 
 [[START OF PAGE 20]]
 
-- l Enhancing the mobility of skilled workers
+- Enhancing the mobility of skilled workers
 
-- l Providing career guidance and placement services
+- Providing career guidance and placement services
 
-- l Offering vocational education in schools
+- Offering vocational education in schools
 
-- l Improving the status of skills development
+- Improving the status of skills development
 
 #### 1.5.3 Objective 3: Assuring Quality
 
-- l Streamlining policymaking
+- Streamlining policymaking
 
-- l Establishing a National Qualifications Framework
+- Establishing a National Qualifications Framework
 
-- l Registering and accrediting institutes
+- Registering and accrediting institutes
 
-- l Reforming the management of training institutes
+- Reforming the management of training institutes
 
-- l Training of Trainers
+- Training of Trainers
 
-- l Undertaking research
+- Undertaking research
 
 02
 
@@ -319,41 +356,30 @@ National Skills Strategy
 
 In developed countries and increasingly so in developing ones, the far-reaching benefits of having a skilled, mobile workforce have been acknowledged. Countries that are successfully competing in the global workplace and achieving social and economic gains, invest heavily in skills development. Pakistan, unfortunately, has fallen behind not only according to international levels of TVET, but also regional ones.
 
-In  order  to  achieve  sustained  economic  and  social  development,  remain  globally competitive and be able to respond to changes in technology and work patterns, the Pakistan government has recently made skills development a political priority. This is one reason why the importance of skills features in several  contemporary  policies including draft policies on Employment, 2007, Education, 2007,  the Economic Survey of Pakistan, 2007 and the Medium-Term Development Framework (MTDF) 20052010.
-
-World Bank, 2007
+In order to achieve sustained economic and social development, remain globally competitive and be able to respond to changes in technology and work patterns, the Pakistan government has recently made skills development a political priority. This is one reason why the importance of skills features in several contemporary policies including draft policies on Employment, 2007, Education, 2007, the Economic Survey of Pakistan, 2007 and the Medium-Term Development Framework (MTDF) 2005-2010.
 
 Proportion of workers trained by occupation, %
 
+25
+20
+15
+10
+5
 0
 
-5
-
-10
-
-15
-
-20
-
-25
-
 Bangladesh
-
 Pakistan
-
 India
-
 Sri Lanka
 
 Managers
-
 Professionals
-
 Production
-
 Non-production
 
-Anticipating strong demand for skilled workers given the current 7% rate of growth of Pakistan's economy, the MTDF 2005-2010 sets an annual training target of  950,000 appropriately skilled workers, of which 700,000 are expected to be trained in publicsector training institutes and 250,000 by private-sector training providers.
+World Bank, 2007
+
+Anticipating strong demand for skilled workers given the current 7% rate of growth of Pakistan's economy, the MTDF 2005-2010 sets an annual training target of 950,000 appropriately skilled workers, of which 700,000 are expected to be trained in public-sector training institutes and 250,000 by private-sector training providers.
 
 There  are  currently  only  315,000  enrolled  students  across  1,522  technical  and vocational education and training institutes in Pakistan. It is quite evident therefore, that major renewal is necessary to achieve this quantitative target.
 
@@ -367,19 +393,40 @@ National Skills Strategy
 
 More  importantly,  the  present  system  would  not  be  able  to  deliver  the  qualitative requirements, either. District-level data reveals that there is little congruity between the local industry and the training available in vocational training institutes. Rather than training according to the needs of the local economy, institutes tend to offer simply what they  have  traditionally  taught,  or  have  been  directed  to  teach  through  centralised decision making. Trainees therefore, emerge from the system inadequately skilled and consequently, with limited opportunities of employment.
 
-2007, National Institute of Population Studies National Institute of Population Studies, 2007
+Age
+80+
+75-79
+70-74
+65-69
+60-64
+55-59
+50-54
+45-49
+40-44
+35-39
+30-34
+25-29
+20-24
+15-19
+10-14
+5-9
+0-4
+Thousands
 
-What has been described as a 'time-bomb' could be an imminent situation for Pakistan. The emerging demographic trends point towards a burgeoning population between the ages of 10 to 25 who will enter the labour market expecting to find jobs, only to find that their education and training has not provided them with the appropriate skills. Pakistan must prepare a policy response to such demographic trends and related employment expectations. 1
+National Institute of Population Studies, 2007
+
+What has been described as a 'time-bomb'¹ could be an imminent situation for Pakistan. The emerging demographic trends point towards a burgeoning population between the ages of 10 to 25 who will enter the labour market expecting to find jobs, only to find that their education and training has not provided them with the appropriate skills. Pakistan must prepare a policy response to such demographic trends and related employment expectations.
 
 Migration  of  skilled,  semi-skilled  and  unskilled  workers  has  been  a  constant  and encouraged employment trend. Importantly, remittances from the Pakistani diaspora represent a significant source of our foreign exchange earnings.
 
-In 2005-06, foreign remittances from abroad approximated Rs. 4.6 billion, a large part of  which  originated  from  the  earnings  of  semi-skilled  and  unskilled  workers. Internationally however, the types of skills demanded are changing and higher skilled workers from other countries are being preferred over Pakistani ones. It is important therefore, to improve the skills profile of Pakistani migrant workers for them to be able 2
+In 2005-06, foreign remittances from abroad approximated Rs. 4.6 billion,² a large part of which originated from the earnings of semi-skilled and unskilled workers. Internationally however, the types of skills demanded are changing and higher skilled workers from other countries are being preferred over Pakistani ones. It is important therefore, to improve the skills profile of Pakistani migrant workers for them to be able
 
 04
 
-1  -   UNESCO, 2003 2  -   State Bank of Pakistan
-
 National Skills Strategy
+
+1 - UNESCO, 2003
+2 - State Bank of Pakistan
 
 [[END OF PAGE 22]]
 
@@ -409,41 +456,18 @@ To provide a framework against which to deliver its mandate, NAVTEC has develope
 
 To complement this consultation process a review of a wide range of national policy statements by different federal ministries has been undertaken including:
 
-·
-
-Medium Term Development Framework 2005-10, Planning Commission,  May 2005
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-Medium Term Development Framework  2005-10, Higher Education Commission
-
-National Education Policy (Draft) 2007, Ministry of Education A Growth Oriented National Employment Policy. Policy Planning Cell, Labour and Manpower Division 2007
-
-Ensuring a Demographic Dividend: Unleashing Human Potential in a Globalised World, Draft Summary of the Poverty Reduction Strategy Paper-II, April 25, 2007, Ministry of Finance
-
-Trade Policy 2007-8, Ministry of Commerce
-
-National Youth Policy (Draft), Ministry of Youth Affairs
-
-National Action Plan, Ministry of Women's Development
+- Medium Term Development Framework 2005-10, Planning Commission, May 2005
+- Medium Term Development Framework 2005-10, Higher Education Commission
+- National Education Policy (Draft) 2007, Ministry of Education
+- A Growth Oriented National Employment Policy. Policy Planning Cell, Labour and Manpower Division 2007
+- Ensuring a Demographic Dividend: Unleashing Human Potential in a Globalised World, Draft Summary of the Poverty Reduction Strategy Paper-II, April 25, 2007, Ministry of Finance
+- Trade Policy 2007-8, Ministry of Commerce
+- National Youth Policy (Draft), Ministry of Youth Affairs
+- National Action Plan, Ministry of Women's Development
 
 The Strategy proposes a framework to create a high quality skills development system that ensures inclusion and employability, is responsive to the changing demands of the local  and  global  economy,  and  helps  promote  and  sustain  social  and  economic development. It provides the basis of cooperation between industry, training providers, the government and other stakeholders.
 
 Further it provides a basis to:
-
-l
 
 - identify new priority areas for developing workforce skills.
 
@@ -455,17 +479,17 @@ National Skills Strategy
 
 [[START OF PAGE 25]]
 
-- l negotiate and develop national and provincial training plans
+- negotiate and develop national and provincial training plans
 
-- l devise  sectoral training strategies in consultation with stakeholders
+- devise sectoral training strategies in consultation with stakeholders
 
-- l undertake structural changes and reforms necessary to meet policy goals
+- undertake structural changes and reforms necessary to meet policy goals
 
-- l deliver  quality  training  and  promote  international  recognition  of  the system.
+- deliver quality training and promote international recognition of the system.
 
-- l support employment generation strategies to address unemployment and poverty.
+- support employment generation strategies to address unemployment and poverty.
 
-- l monitor and measure performance
+- monitor and measure performance
 
 National Skills Strategy
 
@@ -479,19 +503,19 @@ National Skills Strategy
 
 Changes in technology, the emergence of global markets for products and services, international competition, the emphasis on attracting foreign direct investment and new forms of business organisation and production, have created a demand for new, diversified, industry relevant skills and knowledge. To ensure the skills development system in Pakistan is able to deliver accordingly, the Strategy outlines four reforms:
 
-- l Introducing competency based training
+- Introducing competency based training
 
-- l stablishing  industry specific centres of excellence E
+- Establishing industry specific centres of excellence
 
-- l ncreasing the role of the private sector I
+- Increasing the role of the private sector
 
-- l eforming the apprenticeship system R
+- Reforming the apprenticeship system
 
-- l ncouraging entrepreneurship E
+- Encouraging entrepreneurship
 
 ### 4.1 Introducing Competency Based Training.
 
-The present skills development system in Pakistan follows a curriculum-based, timebound approach. Certification is based on completion of courses and passing exams rather than demonstration of competency.
+The present skills development system in Pakistan follows a curriculum-based, time-bound approach. Certification is based on completion of courses and passing exams rather than demonstration of competency.
 
 The rigidity of this approach makes it difficult for training programs to meet the skill needs  of  industry.  They  focus  on  how  far  learners  have  progressed  through  an institution's curriculum rather than assessing how well they are able to demonstrate the competencies required in the workplace.
 
@@ -499,7 +523,7 @@ A competency describes exactly what a worker should be able to do and must know 
 
 The  requirements  of  the  workplace  can  be  best  determined  by  the  employers themselves. In Pakistan unfortunately, employers play a negligible role in influencing what is taught in TVET institutes. Because of weak institutional linkages with the industry,  training  is  designed  around  skills  and  knowledge  that  are  not  necessarily relevant to the market.
 
-The government has in the past attempted to liaise with employers in the development of skill standards and endorsement of curricula, but this engagement was not wide enough to be truly meaningful. As a result, only a few skill standards were developed , which have now become obsolete since they were not properly reviewed, updated or improved according to international best practices. 3
+The government has in the past attempted to liaise with employers in the development of skill standards and endorsement of curricula, but this engagement was not wide enough to be truly meaningful. As a result, only a few skill standards were developed³, which have now become obsolete since they were not properly reviewed, updated or improved according to international best practices.
 
 08
 
@@ -511,13 +535,11 @@ National Skills Strategy
 
 [[START OF PAGE 27]]
 
-Many countries have institutionalised employers' input into training through the establishment of  industry  advisory  bodies.  These  are  employer-led,  government  licensed,  and  usually government funded, independent organisations that cover a specific sector in the country. They function as the communication channel between policy makers and training providers and provide  accurate  industry  intelligence  about  current  and  future  skill  needs  and  training requirements. 4
+Many countries have institutionalised employers' input into training through the establishment of industry advisory bodies.⁴ These are employer-led, government licensed, and usually government funded, independent organisations that cover a specific sector in the country. They function as the communication channel between policy makers and training providers and provide accurate industry intelligence about current and future skill needs and training requirements.
 
 #### What is a 'Competency'?
 
-##### Sector: Hospitality core competencies
-
-:
+##### Sector: Hospitality core competencies:
 
 - Work with colleagues and customers
 
@@ -545,17 +567,17 @@ Many countries have institutionalised employers' input into training through the
 
 - Provide valet service
 
+ILO, 2006
+
 #### Action Plan
 
-To  provide  the  essential  link  between  industry  and  government,  it  is  proposed  to establish sector specific Industry Advisory Groups (IAG). Each IAG will be represented by members of large, medium and small industry, including all sub-industries that fall within the category, international employers, employees and civil society. Their primary responsibilities will be to carryout periodic sector surveys, identify skills needs in their sectors, indicate new and emerging areas and occupations and determine and update competency standards for workers.
+To provide the essential link between industry and government, it is proposed to establish sector specific Industry Advisory Groups (IAG). Each IAG will be represented by members of large, medium and small industry, including all sub-industries that fall within the category, international employers, employees and civil society. Their primary responsibilities will be to carryout periodic sector surveys, identify skills needs in their sectors, indicate new and emerging areas and occupations and determine and update competency standards for workers.
 
 IAGs will be established gradually over time, with the aim to establish two each year until all the major sectors are represented.
 
 IAG endorsed competency standards will provide the basis for the development of competency based curricula and training materials to be used by training providers. The competency based system will be supported by the development of Training Packs,
 
-> 4  and Training Authorities, South Africa. Sector Skills Councils, UK; Industries Skills Councils, Australia; Industry Advisory Committee, Malaysia; Sector Education
-
-ILO, 2006
+4 - Sector Skills Councils, UK; Industries Skills Councils, Australia; Industry Advisory Committee, Malaysia; Sector Education and Training Authorities, South Africa.
 
 National Skills Strategy
 
@@ -597,23 +619,23 @@ National Skills Strategy
 
 To qualify as a Centre of Excellence, institutes will be required to meet certain criteria such as:
 
-- l Appropriate staffing in terms of qualifications and structure.
+- Appropriate staffing in terms of qualifications and structure.
 
-- l Delivering industry need focused training programmes, based on NAVTEC endorsed competency standards.
+- Delivering industry need focused training programmes, based on NAVTEC endorsed competency standards.
 
-- l Establishing linkages with industry.
+- Establishing linkages with industry.
 
-- l Providing input and expertise towards the development of curricula and training materials.
+- Providing input and expertise towards the development of curricula and training materials.
 
-- l Providing career guidance and job placement services.
+- Providing career guidance and job placement services.
 
-- l Disseminating best practices and acting as a resource centre for other relatedinstitutes.
+- Disseminating best practices and acting as a resource centre for other related institutes.
 
-- l Collaborating with other institutes of the sector and with Staff Training Institutes for the professional development of staff and the provision of Master Trainers.
+- Collaborating with other institutes of the sector and with Staff Training Institutes for the professional development of staff and the provision of Master Trainers.
 
-- l Being accredited.
+- Being accredited.
 
-- l Having evidence of positive outcomes for employability for graduates.
+- Having evidence of positive outcomes for employability for graduates.
 
 NAVTEC will pilot the Centres of Excellence Programme with TEVTA's assistance before rolling it out for all sectors.
 
@@ -645,7 +667,7 @@ Training by firms is usually workplace based and therefore, practical and releva
 
 #### In-Service Training in Pakistan
 
-In the South Asian region the incidence of in-service training is very low . Amongst, the four larger South Asian economies, Pakistan has the lowest incidence of in-service training i.e. at 8%. Major reasons for low in-service training in Pakistan are low demand for training, high turnover rate of workers and limited financial resources. Small and medium sized firms in particular, cannot afford to train their staff and both the firm and their workers, remain therefore, at a disadvantage.
+In the South Asian region the incidence of in-service training is very low. Amongst, the four larger South Asian economies, Pakistan has the lowest incidence of in-service training i.e. at 8%. Major reasons for low in-service training in Pakistan are low demand for training, high turnover rate of workers and limited financial resources. Small and medium sized firms in particular, cannot afford to train their staff and both the firm and their workers, remain therefore, at a disadvantage.
 
 Incidence of formal training by region (%)
 
@@ -693,6 +715,48 @@ National Skills Strategy
 
 [[START OF PAGE 31]]
 
+Incidence of formal training by country (%)
+
+China
+
+Brazil
+
+Peru
+
+Guatemala
+
+ElSalvador
+
+Kenya
+
+Tanzania
+
+Algeria
+
+Serbia
+
+Montenegro
+
+SriLanka
+
+Zambia
+
+Ethiopia
+
+Bangladesh
+
+India
+
+Morocco
+
+Philippines
+
+Egypt
+
+Indonesia
+
+Pakistan
+
 0
 
 10
@@ -714,48 +778,6 @@ National Skills Strategy
 90
 
 100
-
-Incidence of formal training by country (%)
-
-Pakistan
-
-Indonesia
-
-Egypt
-
-Philippines
-
-Morocco
-
-India
-
-Bangladesh
-
-Ethiopia
-
-Zambia
-
-SriLanka
-
-Montenegro
-
-Serbia
-
-Algeria
-
-Tanzania
-
-Kenya
-
-ElSalvador
-
-Guatemala
-
-Peru
-
-Brazil
-
-China
 
 World Bank, 2007
 
@@ -816,7 +838,7 @@ NAVTEC will constitute the committee to discuss fiscal measures for private sect
 
 ### 4.4 Reforming the Apprenticeship System
 
-A system of apprenticeships in collaboration with the industry is in place under the Apprenticeship Ordinance, 1962 .  However, the system is not operating effectively. The main weakness of the present system seems to be that it is coercive and provides little choice to industry in the selection of apprentices, or to trainees in how the training is structured. Trades presently identified in which apprentices can be trained, are by and large those in which men dominate. Therefore, chances for women to benefit from apprenticeship training are limited. For example, the Ordinance does not provide for apprenticeship training in a number of new trades such as Services related occupations. There are few incentives for the industry to support the system of training apprentices and many of the legal obligations can be circumvented in practice with ease.
+A system of apprenticeships in collaboration with the industry is in place under the Apprenticeship Ordinance, 1962. However, the system is not operating effectively. The main weakness of the present system seems to be that it is coercive and provides little choice to industry in the selection of apprentices, or to trainees in how the training is structured. Trades presently identified in which apprentices can be trained, are by and large those in which men dominate. Therefore, chances for women to benefit from apprenticeship training are limited. For example, the Ordinance does not provide for apprenticeship training in a number of new trades such as Services related occupations. There are few incentives for the industry to support the system of training apprentices and many of the legal obligations can be circumvented in practice with ease.
 
 The government realises the strength of an effective apprenticeship training system as an effective way of addressing skill shortages, providing realistic, workplace training, involving employers and ensuring the availability of trained workers.
 
@@ -840,7 +862,7 @@ National Skills Strategy
 
 A representative  group  of  people  from  government,  industry  and  apprentices,  will recommend on how the Apprenticeship training system can be improved, made more flexible and incentivised for employers.
 
-NAVTEC will move for the Apprenticeship Ordinance, 1962 , to be amended according to consultative, participatory recommendations.
+NAVTEC will move for the Apprenticeship Ordinance, 1962, to be amended according to consultative, participatory recommendations.
 
 TEVTAs will implement the Apprenticeship  Ordinance,  1962 and  report  to  NAVTEC against  decided  criteria,  on  the  efficacy  of  the  reforms  from  the  perspective  of employers and apprentices.
 
@@ -860,7 +882,7 @@ Career  guides  will  also  be  required  to  inform  about  self  employment  o
 
 #### Roles and Responsibilities
 
-NAVTEC will work with organisations that support the development of small and medium  enterprises ,  international  and  national  experts   and  TEVTAs  to  design modules on entrepreneurship development. The content of the modules will be decided in consultation with local entrepreneurs, trainees, organisations engaged in entrepreneurship development and according to creditable  courses. 5 6 5 6
+NAVTEC will work with organisations that support the development of small and medium enterprises⁵, international and national experts⁶ and TEVTAs to design modules on entrepreneurship development. The content of the modules will be decided in consultation with local entrepreneurs, trainees, organisations engaged in entrepreneurship development and according to creditable courses.
 
 > 5  -  Such as the National Rural Support Programme (NRSP), Pakistan Poverty Alleviation Fund (PPAF) and Shell Tameer.
 
@@ -908,7 +930,7 @@ In order to expand the provision of skills development opportunities TVET instit
 
 As far as possible, existing buildings will be used, rather than constructing new ones. First  preference  will  be  given  to  using  under-utilised  government  buildings  and secondly, to hiring premises.
 
-In these institutes it would be ensured that skills development conforms to the needs of the  local  economy.  Where  opportunities  in  the  local  industry  are  limited  or  nonexistent, skills requirements of other areas in Pakistan  shall be considered.
+In these institutes it would be ensured that skills development conforms to the needs of
 
 National Skills Strategy
 
@@ -917,6 +939,8 @@ National Skills Strategy
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
+the local economy. Where opportunities in the local industry are limited or non-existent, skills requirements of other areas in Pakistan shall be considered.
 
 #### Roles and Responsibilities
 
@@ -958,29 +982,31 @@ TEVTAs will be required to report to NAVTEC on the success and problems of both 
 
 ### 5.3 Focusing on Skills for Women
 
-In Pakistan, the reported rate of women's participation in the labour force is very low 28.82% ,  when  compared  with  other  countries  of  the  region  such  as  Philippines, Malaysia and Indonesia, where the female labour force participation rates are 50.2%, 46.1% and 51%, respectively . There are undoubtedly a number of barriers that inhibit women's  participation  in  employment  and  therefore  employment  related  skills development.  These  barriers  include  enduring  social  and  cultural  attitudes  about women's roles and suitable occupations for them, employers' attitudes, limited mobility of women and girls, their reproductive roles, and lack of access to information, career guidance and skills development opportunities. 7 8 7 8
+In Pakistan, the reported rate of women's participation in the labour force is very low 28.82%⁷, when compared with other countries of the region such as Philippines, Malaysia and Indonesia, where the female labour force participation rates are 50.2%, 46.1% and 51%, respectively⁸. There are undoubtedly a number of barriers that inhibit women's participation in employment and therefore employment related skills development. These barriers include enduring social and cultural attitudes about women's roles and suitable occupations for them, employers' attitudes, limited mobility of women and girls, their reproductive roles, and lack of access to information, career guidance and skills development opportunities.
 
 Despite such constraints, women can be found pursuing a diverse range of employment. In fact, conventional labour market surveys may not even accurately capture the whole range  of  occupations  in  which  men  and  especially  women  are  actually  involved, because  of  well  documented  methodological  shortcomings.  For  instance,  a  lot  of women's work is  confused  with  reproductive  work,  or  takes  place  in  the  informal economy, and therefore is not recognised or reported as productive employment. Much women's work remains therefore, invisible, under-reported and outside the ambit of skills development initiatives.
 
-Other  than  a  few  exceptions,  training  offered  in  vocational  training  institutes  also reflects this perceived gender division of labour. Training is available to women and girls in only a narrow, more conventional range of courses. Such courses either have poor linkages  with  the  formal  labour  market  or  are  associated  with  lower  incomes. Vocational diplomas for girls in hand embroidery, knitting and similar skills represent a major proportion of female enrolment. This is not to say, that these courses do not lead to income generation or employment. But that there is over-emphasis on traditional courses for women to the neglect of other sectors. Unless women are trained for a wider, even unconventional range of occupations, they will be at a disadvantage in the labour market.
-
-> 7 - Augmented Participation Rate, Federal Bureau of Statistics, 2005-06
+Other than a few exceptions, training offered in vocational training institutes also reflects this perceived gender division of labour. Training is available to women and girls in only a narrow, more conventional range of courses. Such courses either have poor linkages with the formal labour market or are associated with lower incomes. Vocational diplomas for girls in hand embroidery, knitting and similar skills represent a major proportion of female enrolment. This is not to say, that these courses do not lead to income generation or employment. But that there is over-emphasis on traditional courses for women to the neglect of other sectors. Unless women are trained for a wider, even unconventional range of occupations, they will be at a disadvantage in the labour
 
 National Skills Strategy
 
-8 - ADB 2005-06, UNESCAP 2006
-
 19
+
+7 - Augmented Participation Rate, Federal Bureau of Statistics, 2005-06
+
+8 - ADB 2005-06, UNESCAP 2006
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
+market.
+
 #### Action Plan
 
-Structures and strategies are to be developed that encourage increased enrolment of women and girls in traditional as well as non-traditional areas of training, and its social acceptance. Social mobilisation and raising of awareness   among women and girls, their families and communities, and potential employers, would be a necessary, overarching strategy.
+Structures and strategies are to be developed that encourage increased enrolment of women and girls in traditional as well as non-traditional areas of training, and its social acceptance. Social mobilisation and raising of awareness among women and girls, their families and communities, and potential employers, would be a necessary, over-arching strategy.
 
-To  diversify  skills  development  opportunities,  research  into  new  and  emerging occupations  with  the  potential  for  women's  employment  will  be  conducted,  and training targeted accordingly . Training providers will be required to introduce nontraditional courses for women. These courses should be relevant to the labour market and  lead  to  improved  employability.  Based  on  initial  analyses,  sectors  including Information  Technology,  Services,  Gems  and  Jewellery,  Health,  Agriculture  and Textiles and Fashion, have been identified as priority areas where women's involvement can be improved and expanded with training. 9 9
+To diversify skills development opportunities, research into new and emerging occupations with the potential for women's employment will be conducted, and training targeted accordingly⁹. Training providers will be required to introduce non-traditional courses for women. These courses should be relevant to the labour market and lead to improved employability. Based on initial analyses, sectors including Information Technology, Services, Gems and Jewellery, Health, Agriculture and Textiles and Fashion, have been identified as priority areas where women's involvement can be improved and expanded with training.
 
 Increasing provision of training institutes for women and girls is also proposed as well as improving utilisation in existing institutes. Blended delivery approaches combining classroom and distance learning, will also be introduced.
 
@@ -1000,7 +1026,7 @@ Based on research, either existing or commissioned by NAVTEC, NAVTEC will work w
 
 National Skills Strategy
 
-9 -  This  is  in  accordance  with  the  Convention on the Elimination of Discrimination Against Women (CEDAW)  to which Pakistan  is a signatory, which includes in its concluding comments, 'The Committee…further recommends women be actively encouraged to diversify educational and professional choices.'
+9 - This is in accordance with the Convention on the Elimination of Discrimination Against Women (CEDAW) to which Pakistan is a signatory, which includes in its concluding comments, “The Committee…further recommends women be actively encouraged to diversify educational and professional choices.”
 
 [[END OF PAGE 38]]
 
@@ -1026,7 +1052,7 @@ Proposed measures include reserved seats for disadvantaged groups, scholarships 
 
 Providing skills development opportunities for people in rural areas will be a priority and it will be ensured that training offered includes; agriculture, non-agriculture and entrepreneurial skills, relevant to local needs and demanded by local markets.
 
-For craftspeople, special training programmes will be designed and delivered through various training organisations. These programmes will train craftspeople in the whole ambit of crafts production activities, including product diversification, international quality  standards,  marketing  techniques.  To  coordinate  the  activities  of  other ministries, provincial governments and NGOs, it is proposed that a Crafts Coordination 10
+For craftspeople, special training programmes will be designed and delivered through various training organisations. These programmes will train craftspeople in the whole ambit of crafts production activities, including product diversification, international quality standards, marketing techniques. To coordinate the activities of other ministries, provincial governments and NGOs, it is proposed that a Crafts Coordination
 
 National Skills Strategy
 
@@ -1046,7 +1072,7 @@ NAVTEC  will  work  with  TEVTAs  in  identifying  any  specific  training  need
 
 ### 5.5 Integrating Informal Economy Workers
 
-Of  Pakistan's  labour  force,  73%  is  employed  in  the  informal  economy,  a  growing percentage  of  which  is  women.  Work  in  the  informal  economy  is  undocumented, unregulated and characterised by low earnings and low productivity. Skills are passed on from one generation to the next through the indigenous Master-Apprentice, UstaadShagird , systems. Skills thus gained are no doubt practically sound, but they are usually outdated, static, job-specific, non-portable, lacking in theoretical understanding, and uncertified.
+Of Pakistan's labour force, 73% is employed in the informal economy, a growing percentage of which is women. Work in the informal economy is undocumented, unregulated and characterised by low earnings and low productivity. Skills are passed on from one generation to the next through the indigenous Master-Apprentice, Ustaad-Shagird, systems. Skills thus gained are no doubt practically sound, but they are usually outdated, static, job-specific, non-portable, lacking in theoretical understanding, and uncertified.
 
 Informal economy workers are skilled workers, and this learning should be validated through Recognition of Prior Learning (RPL). RPL allows existing skills to be assessed, recognised and certified.
 
@@ -1054,11 +1080,11 @@ Informal economy workers are skilled workers, and this learning should be valida
 
 Programmes to compensate for skill deficits identified through RPL processes will be developed to help workers meet national qualifications and therefore, gain access to the formal labour market.
 
-To  address  skills  development  needs  of  workers  in  the  informal  sector,  innovative approaches which integrate economic opportunities assessment, social mobilisation, training and post-training support will be explored. Imparting core skills such as basic literacy and numeracy would be an essential part of these initiatives. Such programmes should  be  in  conjunction  with  measures  to  address  the  wider  legal,  credit  and macroeconomic  environment  of  the  informal  economy  and  to  help  mainstream informal economic activity. 10 10
+To address skills development needs of workers in the informal sector, innovative approaches¹⁰ which integrate economic opportunities assessment, social mobilisation, training and post-training support will be explored. Imparting core skills such as basic literacy and numeracy would be an essential part of these initiatives. Such programmes should be in conjunction with measures to address the wider legal, credit and macroeconomic environment of the informal economy and to help mainstream informal economic activity.
 
 ### 5.6 Enhancing the Mobility of Skilled Workers
 
-Foreign remittances form an important and stable part of Pakistan's foreign exchange earnings. Unfortunately, remittances to Pakistan have increased at a much lower rate than those to other countries, reflecting to some degree the difference in skills people from different countries in the region have,  and the wages they command.
+Foreign remittances form an important and stable part of Pakistan's foreign exchange earnings. Unfortunately, remittances to Pakistan have increased at a much lower rate than those to other countries, reflecting to some degree the difference in skills people
 
 22
 
@@ -1070,9 +1096,51 @@ National Skills Strategy
 
 [[START OF PAGE 41]]
 
+from different countries in the region have, and the wages they command.
+
 The types of skills demanded in the international job market are also changing. Even countries of the Gulf, which have traditionally welcomed relatively low-skilled migrant workers, are now looking for much higher levels of skills.
 
-It is necessary to be aware of how the demand for skills is changing internationally and the  impact  this  shift  will  have  on  our  workers.  Training  will  be  revised  to  be commensurate  with  international  standards  so  that  skilled  people  can  access opportunities both locally and internationally. The government will therefore, devise strategies to facilitate opportunities for people to work abroad, gain increased incomes and provide remittances to their families.
+It is necessary to be aware of how the demand for skills is changing internationally and the impact this shift will have on our workers. Training will be revised to be commensurate with international standards so that skilled people can access opportunities both locally and internationally. The government will therefore, devise strategies to facilitate opportunities for people to work abroad, gain increased incomes and provide remittances to their families.
+
+% Change in Inflow of Remittances: 1990-2007
+
+% Change
+
+4000
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+0
+
+% Change
+
+Indonesia
+
+India
+
+Philippines
+
+Bangladesh
+
+Sri Lanka
+
+Pakistan
+
+Country
+
+World Development Indicators, 2007
 
 #### Action Plan
 
@@ -1080,7 +1148,7 @@ NAVTEC  will  develop  an  information  management  system  which  will  collate
 
 As part of its information gathering and awareness raising strategy, NAVTEC will focus on  the Middle East to interact with counterpart organisations to assess skills needs in the region and opportunities for Pakistani skilled workers.
 
-Supplementary  programmes  will  be  developed  for  skilled  workers  planning  to  go abroad. These will include language courses and preparatory information regarding the social and legal structures of the host country.
+Supplementary programmes will be developed for skilled workers planning to go abroad. These will include language courses and preparatory information regarding the
 
 National Skills Strategy
 
@@ -1089,6 +1157,8 @@ National Skills Strategy
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+social and legal structures of the host country.
 
 On-site  training  in  the  country  of  work,  to  upgrade  workers'  skills,  will  also  be organised.
 
@@ -1108,7 +1178,7 @@ NAVTEC will work with related Ministries and counterpart organisations abroad on
 
 Career guidance services are almost non-existent in Pakistan, and therefore, many people  remain  unaware  of  different  training  opportunities  and  career  choices. Furthermore, there are no formal employment placement services at the institute level or even the provincial level, except in the case of Sindh where employment exchanges provide placement services for both unemployed as well as new entrants in the labour market.
 
-Pakistan  needs  to  have  a  more  systemised  method  of  career  guidance  and  job placement.Career guidance should make  available all necessary information concerning career opportunities and actively disseminate it. It should take into account the needs of industry as well as the individual, and encourage them to pursue training that helps the individuals realise their potential, employability and industry needs.
+Pakistan needs to have a more systemised method of career guidance and job placement. Career guidance should make available all necessary information concerning career opportunities and actively disseminate it. It should take into account the needs of industry as well as the individual, and encourage them to pursue training that helps the individuals realise their potential, employability and industry needs.
 
 To facilitate job placement, institutes will have to maintain a close, active liaison with industry.  They  will  have  to  ensure  training  is  competency  based  and  aligned  with industry  endorsed  competency  standards,  thereby  increasing  acceptance  of  their trainees in industry.
 
@@ -1134,22 +1204,6 @@ About  314,864  students  are  enrolled  in  TVET  institutes  in  Pakistan.  In
 
 The chart shows that overall only 3% of students pursue TVET qualifications. Even if secondary level enrolment is not counted, people in TVET institutes still only form a mere 9% of the entire post-secondary enrolment.
 
-AEPAM 2007 and NAVTEC Survey 2006-07
-
-71%
-
-10%
-
-2%
-
-9%
-
-2%
-
-3%
-
-3%
-
 Enrolment in Educational Institutes
 
 Secondary
@@ -1165,6 +1219,22 @@ General Univeristy
 Professional
 
 TVET
+
+71%
+
+10%
+
+2%
+
+9%
+
+2%
+
+3%
+
+3%
+
+AEPAM 2007 and NAVTEC Survey 2006-07
 
 #### Roles and Responsibilities
 
@@ -1184,7 +1254,7 @@ Provincial government departments will co-ordinate with TEVTAs to develop job in
 
 Vocational education and general education are seen as distinct, separate streams in Pakistan, with little overlap. Experiments with vocationalising general education with the  introduction  of  Matric-Tech,  have  had  mixed  results.  In  some  cases  the vocational/technical stream has failed because of the inability to meet the required expansion  of  infrastructure  and  staff.  In  other  cases,  it  has  been  successful  and  is followed even in the absence of supporting policy articulation.
 
-In the absence of school level career guidance, students are forced to choose a particular stream of education. Most prefer the academic over the vocational. As a result, students who may not have fared  well  in  general  education  but  could  have  benefited  from vocational education, remain unable to realise their potential. 11
+In the absence of school level career guidance, students are forced to choose a particular stream of education. Most prefer the academic over the vocational. As a result, students who may not have fared well in general education but could have benefited from vocational education, remain unable to realise their potential.
 
 There is no doubt that quality basic and secondary education is the foundation on which an effective  vocational  education  and  training  system  can  be  built.  General education should incorporate aspects of vocational education, so that students are aware of different career choices and employment. Perhaps this is why the MTDF (2005-2010) endorses the merit of vocational education in schools.
 
@@ -1200,7 +1270,7 @@ NAVTEC will work in coordination with the Ministry of Education.
 
 ### 5.9 Enhancing the Status of Skills Training
 
-Despite skills development being a national priority, it is not always a priority for parents and youth. In Pakistan, TVET is accorded little social status. It is often regarded as a last option, only to be taken if access to further general education is not possible. The relatively low status of TVET also originates from lack of quality and the fact that the present  skills  development  system  does  not  adequately  prepare  individuals  for  the workplace.
+Despite skills development being a national priority, it is not always a priority for parents and youth. In Pakistan, TVET is accorded little social status. It is often regarded as a last option, only to be taken if access to further general education is not possible. The relatively low status of TVET also originates from lack of quality and the fact that the
 
 26
 
@@ -1210,7 +1280,9 @@ National Skills Strategy
 
 [[START OF PAGE 45]]
 
-This low status is also reflected in Pakistan's enrolment figures. In developed countries, the ratio of enrolment in post secondary vocational education and training is almost twice  as  high  as  enrolment  in  general  education.  Compared  to  this,  in  Pakistan enrolment in arts and science colleges, universities and professional colleges is 4.5 times the enrolment in TVET , even though graduates of general education do not always succeed in finding employment according to, or commensurate with, their qualifications. 11 11
+present skills development system does not adequately prepare individuals for the workplace.
+
+This low status is also reflected in Pakistan's enrolment figures. In developed countries, the ratio of enrolment in post secondary vocational education and training is almost twice as high as enrolment in general education. Compared to this, in Pakistan enrolment in arts and science colleges, universities and professional colleges is 4.5 times the enrolment in TVET¹¹, even though graduates of general education do not always succeed in finding employment according to, or commensurate with, their qualifications.
 
 #### Action Plan
 
@@ -1228,11 +1300,11 @@ NAVTEC  will  coordinate  with  TEVTAs  in  designing,  organising  and  executi
 
 NAVTEC will organise Skills Competitions in collaboration with TEVTAs.
 
-National Skills Strategy National Skills Strategy
-
-11  -  Calculated from Economic Survey of Pakistan, 2005-2006.
+National Skills Strategy
 
 27
+
+11 - Calculated from Economic Survey of Pakistan, 2005-2006.
 
 [[END OF PAGE 45]]
 
@@ -1240,15 +1312,84 @@ National Skills Strategy National Skills Strategy
 
 ## 6.  Objective 3: Assuring Quality
 
-12
+In Pakistan the quality of training differs greatly from area to area, even institute to institute. The reasons for this are many, but one fundamental cause is the absence of uniform quality assurance measures. Quality must be ensured in all aspects of the new skills development system, from design to delivery. This will be achieved through:
+
+- Streamlining policymaking
+
+- Establishing a National Qualifications Framework
+
+- Registering and accrediting institutes
+
+- Reforming the management of training institutes
+
+- Training of trainers
+
+- Undertaking research
+
+### 6.1 Streamlining Policymaking
+
+It has been said that 'too many actors are doing the same thing for the same target group'¹². Presently, many different departments and organisations are involved in skills development and each tends to have its own, often overlapping, mandates and strategies. This causes inefficiency and inconsistency across policies and programmes, which makes assessment and quality assurance very difficult.
+
+In order to move forward in this critical area of intermediate skills development, alignment and synergies across the work of federal ministries and provincial departments need to be created. NAVTEC suggests that there is no better way to create these, than for all to endorse the proposed National Skills Strategy and ensure their place within it.
+
+#### Action Plan
+
+NAVTEC will compare the mandates of different ministries and departments involved in skills development and in consultation with them, remove areas of duplication.
+
+In the development of work plans for each of the proposed reforms, NAVTEC will ensure that all stakeholder ministries and groups are involved in setting targets, activities and determining responsibilities in order to create synergy and symbiosis in their work towards common skills development goals.
+
+#### Roles and Responsibilities
+
+NAVTEC will work in consultation with all concerned ministries and groups.
+
+### 6.2 Establishing the National Qualifications Framework
+
+Presently in Pakistan there are four levels of technical/vocational certification i.e. G-III (basic level), G-II, G-I and diplomas. Though progression within the vocational/technical stream is provided for, pathways from secondary education, to TVET and from TVET to higher education are limited. Neither are there any systems of
 
 28
 
 National Skills Strategy
 
+12 - Ministry of Education, National Education Policy (Draft for Restricted Circulation), 2007, pp. 38-9. The same point in ILO Final Report (June -December 2006) Project of Support to the Prime Minister's Programme for Skills Training, ILO Office for Pakistan, Islamabad, pages i and C-7.
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+
+credit transfer nor formal linkage between apprenticeships and national qualifications.
+
+A National Qualifications Framework (NQF) provides a way of structuring existing and new qualifications awarded at defined levels. It indicates the interrelationships of the qualifications and how one can progress from one level to another and across vocational and academic fields.
+
+#### Action Plan
+
+While there are a number of potential benefits, developing an NQF can be technically, institutionally and financially demanding, in particular for developing countries such as Pakistan where there regional disparities in training and little standardisation of quality assurance. It is proposed to study international best practices and the experiences of other countries that have developed NQF. Having examined the potential benefits, challenges and preconditions, it is proposed to develop the National Qualifications Framework for Pakistan to ensure coherence of all national qualifications within the skills development system. The complete implementation of the NQF for all industrial sectors will be done in a phased manner.
+
+#### Roles and Responsibilities
+
+NAVTEC will work with the Ministry of Education and TEVTAs to develop and implement the NQF.
+
+### 6.3 Registering and Accrediting Institutes
+
+Registration of training providers, their accreditation and continued re-validation are important fundamentals to ensure quality provision of training.
+
+#### Action Plan
+
+Assessment criteria will be developed against which institutes will be assessed, ranked, accredited and required to report upon periodically. These include:
+
+- Instructors' qualifications
+
+- Facilities and equipment
+
+- Financial management
+
+- Engagement with the private sector
+
+- Career guidance & job placement services
+
+- Professional development of trainers and managers
+
+- Assessment by private sector groups such as the IAGs
+
+- Success rates of graduates.
 
 National Skills Strategy
 
@@ -1258,6 +1399,41 @@ National Skills Strategy
 
 [[START OF PAGE 48]]
 
+Institutes will be accredited and ranked according to the criteria they achieve. Those that fall below the minimum criteria will not be accredited. All institutes will be subject to review regarding their ranking and accreditation status. Incentives to improve performance and meet more criteria for assessment will be given.
+
+Grade 1
+center of excellence (reward of greater autonomy & financial independence)
+
+Grade 2
+Second step to excellence achieved
+(tougher criteria - with even greater benefits)
+
+Grade 3
+First step to excellence achieved
+(Slightly light criteria - with greater benefits to ‘pull’ Grade 4)
+
+Grade 4
+Entry level ‘Committed to building excellence’
+(light criteria - intended to bring as many institutions in)
+
+In addition to accrediting institutes, NAVTEC will also explore other models of accreditation including, programme and organisation accreditation.
+
+Programmes and institutions will be accredited with regional accrediting bodies to facilitate mobility of skilled workers and allow for credit transfers for further education abroad. Internationally certified programmes will also be introduced which will enhance trainees' position in the national and international labour markets.
+
+#### Roles and Responsibilities
+
+NAVTEC will develop national assessment and accreditation criteria.
+
+Accrediting bodies will be established in the provinces which will assist with accreditation of the Institutes and their ranking. NAVTEC will have the right to check and validate the rank of any institute.
+
+TEVTAs will register all accredited institutes. Renewal of registration will be subject to meeting the criteria at the time of registration renewal.
+
+NAVTEC will appoint a national coordinator for accreditation to assist provincial governments in getting international accreditation for their institutes. The Asia-Pacific Accreditation and Certification Commission (APACC) has been chosen as one of the international accrediting agencies.
+
+### 6.4 Reforming the Management of Training Institutes
+
+The performance and responsiveness of public TVET institutions in Pakistan is
+
 30
 
 National Skills Strategy
@@ -1266,11 +1442,55 @@ National Skills Strategy
 
 [[START OF PAGE 49]]
 
+hampered by the lack of administrative autonomy. Centralised decision making means that individual TVET institutions cannot take decisions on key issues such as curricula, financial and personnel management, and sectors of involvement, thus limiting their capacity to change and adapt according to the needs of the growing economy. Furthermore, institutions emphasise on quantitative expansion and outputs rather than on monitoring performance and outcomes for trainees.
+
+#### Action Plan
+
+As system reforms are implemented and the capacity of training providers is strengthened, models to create incentives for institutes to better respond to the needs of individuals and employers, and introduce more autonomy to them will be introduced. Financial autonomy will be accompanied by increased financial accountability.
+
+Managers and principals of institutes cannot be expected to comply with reforms unless they understand the reforms, how they will be affected by them and most importantly are enabled and empowered to lead change. It is proposed therefore, that as changes are introduced, managers and principals will be trained to build capacity to undertake the reforms.
+
+#### Roles and Responsibilities
+
+TEVTAs will design programmes specifically for principals and managers of institutes, and plan for their implementation.
+
+NAVTEC will have the right to review the training programmes and make amendments as required.
+
+NAVTEC will work with TEVTAs in deciding appropriate financial reforms and how and when to introduce them.
+
+### 6.5 Training of Trainers
+
+Fundamental to the effectiveness and sustainability of a successful skills development system is the quality and quantity of TVET teachers and trainers. The training of instructors within the TVET system in Pakistan however, is uncoordinated and attenuated by issues such as time constraints, lack of equipment, insufficient financing and lack of incentives to train.
+
+Instructor training facilities, except in the case of Punjab, are inadequate. Staff training facilities are often ill-equipped, badly maintained and can only offer training in trades that are not necessarily relevant to industry, or the learner. Institutes are also slow and often unable to provide for the introduction of new trades and technologies. Professional development programmes being run in these institutes also offer a very narrow range of skills upgradation courses.
+
+Lack of well-defined standards leads to varying training quality levels within the same
+
 31
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+province. For vocational institutes outside the administrative control of the TEVTAs, instructor training systems are virtually non-existent.
+
+In some of the provinces, low budgetary support to professional development institutes has meant an increasing dependence on federal institutes, primarily the National Institute of Science and Technology, and the National Training Bureau. Though the facilities are much better, both are located in Islamabad. They do offer training for instructors from all over Pakistan, but it is difficult for a teacher to be away from his/her place of posting for an extended period of time. This is especially true for women. Even many men, it has been reported, are unable to attend because they cannot be spared from ongoing responsibilities.
+
+There exists no framework outlining instructors' qualifications for entry into TVET teaching/training or for their continuing professional development. There are cases of teachers having qualifications of the same level they are teaching. In most countries they are required to be qualified at least one level higher. Many teachers have not received sufficient pedagogical training, or training in the use of new technologies and teaching techniques. Similarly, many teachers have not had any workplace experience. Again, this is especially marked in women trainers.
+
+#### Action Plan
+
+A number of measures are proposed to address these issues. In order to support the new competency based training approach, NAVTEC will assist provinces in delivering two types of teacher training: upgrading knowledge in new technologies, critical for new and/or emerging sectors; and upgrading teaching and assessment skills in competency based training approaches.
+
+Competency standards for teachers and assessors will also be developed. As a competency based training system is introduced in a sector, a comprehensive trainers and assessors training programme will be introduced to bring the knowledge base of the teachers in accordance with the latest competency standards.
+
+A system of continuing professional development for teachers will be established which will combine workplace experience and professional development.
+
+Incentives to attract qualified, experienced people into TVET teaching, and also to encourage them to undergo continuing professional development, will be considered.
+
+Staff training institutes will be strengthened in terms of equipment and variety and quality of courses. Where possible, staff training institutes will be linked with centres of excellence to ensure the provision of current, relevant training courses and master trainers.
+
+An Instructors' Qualifications Framework has been developed in consultation with the provincial authorities and instructor training experts. The Framework describes
 
 32
 
@@ -1279,6 +1499,29 @@ National Skills Strategy
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+instructors' qualifications for entry into TVET teaching, a structure for continuous professional development and a staffing structure for different levels of courses. The framework also sets out financial incentives for trained instructors. The framework will be evaluated and reviewed and adapted as thought necessary.
+
+#### Roles and Responsibilities
+
+TEVTAs will identify instructors who will undergo NAVTEC supported training.
+
+NAVTEC will devise competency standards for teachers and on its basis design a teaching and assessing qualification.
+
+NAVTEC will work with TEVTAs to implement a system of financial incentives to instructors, linked to continuous professional development.
+
+All planners must ensure that women instructors are given sufficient opportunity to avail training opportunities. Any special requirements they may have with regards to facilities, time and such factors, be accommodated.
+
+### 6.6 Undertaking Research
+
+There is very little, systematic research conducted specifically on skills development in Pakistan. Reports such as the Labour Force Survey, Pakistan Employment Trends Report, and the Pakistan Economic Survey give some information that relates to skill gaps and emerging trends. A new Labour Force Survey currently being piloted in Faisalabad, includes a set of questions specifically on training. However, it is now an acknowledged fact that macro-level approaches, such as labour forecasts, are not alone sufficient to take informed decisions. These have to be complemented by a range of methods such as sector surveys, tracer studies, survey of job opportunities and labour market signals.
+
+Some industries or government departments do carry out their own sector specific research. But more in-depth, systematic, multi-dimensional research needs to be generated. Such research would inform policy on a wide range of issues related to skills development and help design policies and programmes that are more holistic in understanding and effective in implementation.
+
+It is important that information related to skills needs and skills development both at the national and international level, available at different fora, is collated, analysed and made available to a wider audience.
+
+#### Action Plan
+
+It is proposed that NAVTEC should develop an information and knowledge management system, where information related to skills' needs, best practices in skills development and emerging trends that different agencies generate, can be channelled, collated, analysed and shared.
 
 National Skills Strategy
 
@@ -1287,6 +1530,20 @@ National Skills Strategy
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+The government should also develop its own capacity to conduct research, facilitate other organisations involved in research relating to skills development, as well as commission specific research reports and analyses.
+
+All information must be disaggregated for gender. Presenting data in terms of gender, opens up new dimensions of understanding and analysis. This can help guide policies and target programmes more effectively.
+
+Both specific and broad research will be conducted. Specific research would include information and analyses on emerging trends in national and international labour markets, new training methodologies, the effectiveness and impact of training, and the identification of barriers in accessing training. Equally important is wider research that would measure the impact of skills development on progress towards broad social development goals such as poverty eradication and gender equity. Information generated from such goals such as poverty eradication and gender equity. Information generated from such research will help guide not only national and provincial training plans, but all skills development policies and programmes.
+
+#### Roles and Responsibilities
+
+All government organisations carrying out research or generating data related to skills development will channel their information to NAVTEC's information management system. This includes information regarding international skills needs collected by Ministry of Foreign Affairs' labour attachés, Ministry of Labour's regional Skills Development Councils and Ministry of Commerce's Trade bodies.
+
+Private organisations such as Chambers of Commerce, or international development agencies, will also be encouraged to make their information available to NAVTEC, so that it can be collated, analysed and shared with a wide group of stakeholders.
+
+Provincial governments will be required to report progress on some key performance indicators to NAVTEC for the purposes of monitoring, evaluation and research.
 
 34
 
@@ -1302,21 +1559,21 @@ To  achieve  the  required  reforms,  considerable  financial  resources  will  
 
 Though the importance of increased government budget allocations to TVET cannot be over-emphasised, it is also essential to examine other creative, unconventional ways of mobilising resources and generating revenue. Additional funding mechanisms, besides the traditional direct allocation transfers, can play a role in creating incentives to solicit better response  to the needs of individuals and employers, and promote efficiency and relevance.
 
-NAVTEC and Provincial Governments, 2009
-
 Provincial Expenditure on Education and TVET
 
-0
+(Rs. Million)
 
-10,000
-
-20,000
-
-30,000
+50,000
 
 40,000
 
-50,000
+30,000
+
+20,000
+
+10,000
+
+0
 
 Balochistan
 
@@ -1326,35 +1583,45 @@ Punjab
 
 Sindh
 
-(Rs. Million)
-
 Education
 
 TVET
 
 Budgetary Allocation for TVET
 
-0
+In Rs. million
 
-500
+Punjab
 
-1000
+Sindh
 
-1500
+NWFP
 
-2000
+Balochistan
 
-2500
+NAVTEC
 
-3000
-
-3500
-
-4000
+5000
 
 4500
 
-5000
+4000
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+0
 
 2003-04
 
@@ -1370,17 +1637,7 @@ Budgetary Allocation for TVET
 
 Financial Year
 
-In Rs. million
-
-Punjab
-
-Sindh
-
-NWFP
-
-Balochistan
-
-NAVTEC
+NAVTEC and Provincial Governments, 2009
 
 National Skills Strategy
 
@@ -1412,6 +1669,22 @@ National Skills Strategy
 
 NAVTEC will follow a sectoral implementation approach, whereby different elements of  the  reform  process  are  strengthened  sector  by  sector.  NAVTEC  aims  to  reform training in at least two priority sectors each year.
 
+Hospitality
+
+Employment | international | ●
+ | national public sector | ●
+ | national private sector | ●
+ | small and medium enterprises | ●
+ | self-employment | ●
+Learners | new entrants | ●
+ | current workers | ●
+ | women | ●
+ | from remote regions | ●
+ | physically challenged | ●
+ | informal economy | ●
+Eco | potential for growth | ●
+ | national priority | ●
+
 Priority sectors have been and will be chosen according to national economic growth priorities  and  for  their  potential  in  reaching  the  widest  range  of  learners,  including disadvantaged  groups  and  the  range  of  employers  that  can  be  targeted,  including opportunities for self employment. Priority sectors include dairy and livestock, textiles, hospitality and tourism, oil and gas, mining and gems, information technology, health and engineering. Sectors will be included in subsequent phases according to labour market information and economic priorities, until all major sectors and sub-sectors have been covered.
 
 Reforms will be implemented in a phased manner and progress on each monitored and evaluated.
@@ -1428,26 +1701,26 @@ National Skills Strategy
 
 Activities | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
 --- | --- | --- | --- | --- | ---
-Expanding Geographical Provision
-Reforming the Apprenticeship System
-Focusing on Skills for Women
-Introducing Competency Based Training
-Enhancing the Role of industry
-Training for Disadvantaged Regions
-Facilitating the Mobility of Skilled Workers
-Training of Trainers
-Encouraging Entrepreneurship
-Undertaking Research
-Streamlining Policymaking
-Developing a National Qualifications Framework
-Establishing Industry Specific Centres of Excellence
-Making Training Delivery Flexible
-Reforming the Management of training institutes
-Providing Career Guidance & Placement
-Accrediting Institutes
-Enhancing the Status of Skills Development
-Introducing Vocational Education in Schools
-Integrating Informal Economy Workers
+Expanding Geographical Provision | ■ | ■ | ■ |  |
+Reforming the Apprenticeship System | ■ | ■ | ■ |  |
+Focusing on Skills for Women | ■ | ■ | ■ | ■ |
+Introducing Competency Based Training | ■ | ■ | ■ | ■ | ■
+Enhancing the Role of industry | ■ | ■ | ■ | ■ | ■
+Training for Disadvantaged Regions | ■ | ■ | ■ | ■ | ■
+Facilitating the Mobility of Skilled Workers | ■ | ■ | ■ | ■ | ■
+Training of Trainers | ■ | ■ | ■ | ■ | ■
+Encouraging Entrepreneurship | ■ | ■ | ■ | ■ | ■
+Undertaking Research |  | ■ | ■ |  |
+Streamlining Policymaking |  | ■ | ■ | ■ | ■
+Developing a National Qualifications Framework |  | ■ | ■ | ■ | ■
+Establishing Industry Specific Centres of Excellence |  | ■ | ■ | ■ | ■
+Making Training Delivery Flexible |  | ■ | ■ | ■ | ■
+Reforming the Management of training institutes |  | ■ | ■ | ■ | ■
+Providing Career Guidance & Placement |  | ■ | ■ | ■ | ■
+Accrediting Institutes |  |  | ■ | ■ | ■
+Enhancing the Status of Skills Development |  |  | ■ | ■ | ■
+Introducing Vocational Education in Schools |  |  |  | ■ | ■
+Integrating Informal Economy Workers |  |  |  | ■ | ■
 
 38
 
@@ -1469,23 +1742,23 @@ Employers  in  identified  priority  sectors  have  specified  the  skills  they
 
 #### Key Performance Indicator
 
-##### Competency Based  Training
+##### Competency Based Training
 
-- Number of IAGs established and functioning according to established agreements.
+1. Number of IAGs established and functioning according to established agreements.
 
-- Number of competency standards endorsed by NAVTEC.
+2. Number of competency standards endorsed by NAVTEC.
 
-- Number of training providers using NAVTEC endorsed training materials.
+3. Number of training providers using NAVTEC endorsed training materials.
 
-- Number of certified graduates.
+4. Number of certified graduates.
 
 ##### Industry Involvement
 
-- Number of public-private partnerships (PPP) established.
+5. Number of public-private partnerships (PPP) established.
 
-- Number of Apprentices enrolled and completing training.
+6. Number of Apprentices enrolled and completing training.
 
-- Employer satisfaction.
+7. Employer satisfaction.
 
 It is proposed that reporting on the KPIs will take place from the institutions to the provincial governments, to the federal government. The provincial governments may decide to develop additional indicators. All training providers in receipt of government funding will be required to report according to the relevant KPIs.
 
@@ -1501,6 +1774,55 @@ National Skills Strategy
 
 [[START OF PAGE 58]]
 
+### Objective 2: Improving Access, Equity and Employability
+
+#### Overall Success Indicator
+
+An increasing number of people, including those from target populations, have the skills they need to secure and create employment.
+
+#### Key Performance Indicator
+
+##### Access, Equity and Employment
+
+8. No. of people enrolled.
+
+9. Completion rates.
+
+10. Number of people continuing education.
+
+11. Number of people finding employment, disaggregated for national, international & self employment.
+
+12. Number of blended delivery training programmes.
+
+13. Number of districts without skills development institutes.
+
+### Objective 3: Assuring Quality
+
+#### Overall Success Indicator
+
+An increasing number of institutions per sector deliver quality assured programmes and are positively assessed by both learners and employers for whom they subsequently work.
+
+#### Key Performance Indicator
+
+##### Training Instructors and Managers
+
+14. Number of Instructors Trained | Men | Women
+Pedagogical | Pre-service |  |
+ | In-service |  |
+Trade specific | Pre-service |  |
+ | In-service |  |
+15. Number of managers of institutions trained |  |
+
+##### Accreditation
+
+16. Number of institutes delivering NAVTEC quality assured programmes.
+
+17. Number of institutes with improved ranking.
+
+18. Number of institutes qualifying as Centers of Excellence.
+
+19. Trainee satisfaction.
+
 40
 
 National Skills Strategy
@@ -1513,15 +1835,15 @@ National Skills Strategy
 
 The Strategy's success requires an explicit commitment from its stakeholders:
 
-- l from  the  government  to  invest  in  and  facilitate  skills  development  and employment creation
+- from the government to invest in and facilitate skills development and employment creation
 
-- l from employers to interact meaningfully with policy makers, to train their employees and to ensure decent working conditions
+- from employers to interact meaningfully with policy makers, to train their employees and to ensure decent working conditions
 
-- l from   training   providers   to   deliver training according to the needs of industry and best practice, and
+- from training providers to deliver training according to the needs of industry and best practice, and
 
-- l from individuals to make use of skills development opportunities to advance personal   a  n d social development and to contribute to national economic growth.
+- from individuals to make use of skills development opportunities to advance personal and social development and to contribute to national economic growth.
 
-The National Skills Strategy, 2009- 2013 has endeavoured to build upon existing strengths and  opportunities,  and  to  reflect  both  international  best  practices  and  indigenous knowledge. It presents a realistic view of the challenges Pakistan faces and attempts to offer practical proposals for reform. This Strategy however, cannot be realised without a genuine,  unselfish,  concerted  and  most  importantly,  combined  effort  from  all stakeholders.  Whether  we  are  industrialists,  students,  teachers,  policy  makers  or donors, we must all work towards the common goal: Skilling Pakistan .
+The National Skills Strategy, 2009- 2013 has endeavoured to build upon existing strengths and opportunities, and to reflect both international best practices and indigenous knowledge. It presents a realistic view of the challenges Pakistan faces and attempts to offer practical proposals for reform. This Strategy however, cannot be realised without a genuine, unselfish, concerted and most importantly, combined effort from all stakeholders. Whether we are industrialists, students, teachers, policy makers or donors, we must all work towards the common goal: Skilling Pakistan.
 
 National Skills Strategy
 
@@ -1533,29 +1855,29 @@ National Skills Strategy
 
 ## References
 
-Consulting Services for Revitalizing TVET Institutions: Assessment of Training Needs, Draft  Final  Paper,  Semiotics,  Japanese  International  Cooperation  Agency  (JICA), 2007.  Islamabad.
+Consulting Services for Revitalizing TVET Institutions: Assessment of Training Needs, Draft Final Paper, Semiotics, Japanese International Cooperation Agency (JICA), 2007. Islamabad.
 
-Economic Survey of  Pakistan,  2007 .  Government of Pakistan.
+Economic Survey of Pakistan, 2007. Government of Pakistan.
 
-Guidelines for Development of  Regional Model Competency Standards , International Labour Office, 2006. Bangkok.
+Guidelines for Development of Regional Model Competency Standards, International Labour Office, 2006. Bangkok.
 
-Learning and Training for Work in the Knowledge Society ,  International Labour Office, 2003. Geneva.
+Learning and Training for Work in the Knowledge Society, International Labour Office, 2003. Geneva.
 
-Presentation  at  NAVTEC  Stakeholder  Consultation,  Tan,  H.,  2007,  World  Bank. Pakistan.
+Presentation at NAVTEC Stakeholder Consultation, Tan, H., 2007, World Bank. Pakistan.
 
-Recommendation  195:  Recommendation  Concerning  Human  Resources Development:  Education,  Training  and  Lifelong  Learning,  International  Labour Office, 2005. Geneva.
+Recommendation 195: Recommendation Concerning Human Resources Development: Education, Training and Lifelong Learning, International Labour Office, 2005. Geneva.
 
-Reforming TVET in the Middle East and North Africa: Experiences and Challenges , European Training Foundation & The World Bank, 2005. Turin. Italy.
+Reforming TVET in the Middle East and North Africa: Experiences and Challenges, European Training Foundation & The World Bank, 2005. Turin. Italy.
 
-Survey of TVET in Pakistan, NAVTEC, 2006.  Pakistan.
+Survey of TVET in Pakistan, NAVTEC, 2006. Pakistan.
 
-Technical and Vocational Skills Development , King, K. & R. Palmer, 2007. DFID Practice Paper, U.K.
+Technical and Vocational Skills Development, King, K. & R. Palmer, 2007. DFID Practice Paper, U.K.
 
-The Politics of  Skill, and the Challenge of  Supporting Technical Vocational Education and Training  (TVET)  in  Pakistan .  The  Role  of  UNESCO,  Past,  Present  and  Future, (unpublished),  King, K, 2007. Edinburgh, UK.
+The Politics of Skill, and the Challenge of Supporting Technical Vocational Education and Training (TVET) in Pakistan. The Role of UNESCO, Past, Present and Future, (unpublished), King, K, 2007. Edinburgh, UK.
 
-Towards  A  Skilled  Australia,  A  National  Strategy  for  Vocational  Education  and Training , Department  of  Education,  Science  and  Training  (DEST).  1994.  Government  of Australia.
+Towards A Skilled Australia, A National Strategy for Vocational Education and Training, Department of Education, Science and Training (DEST). 1994. Government of Australia.
 
-' Vocational  Education:  the  Come-back ',  Education  Today,  No.  13,  April-June,  2005. UNEVOC,  Paris.
+“Vocational Education: the Come-back”, Education Today, No. 13, April-June, 2005. UNEVOC, Paris.
 
 42
 
