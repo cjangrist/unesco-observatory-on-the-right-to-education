@@ -4,6 +4,44 @@
 
 ## C o n t e n t s:
 
+I BASIC PROVISIONS ................................................................................................ 7
+Contents of Law (Article 1) ..................................................................................... 7
+Aims (Article 2) ....................................................................................................... 7
+The acquisition of education (Article 3) .................................................................. 7
+Public interest (Article 4) ........................................................................................ 8
+Public education (Article 5)..................................................................................... 8
+Institution autonomy (Article 6) ............................................................................... 8
+Non-profitability (Article 7) ...................................................................................... 8
+Access (Article 8) ................................................................................................... 8
+Equality (Article 9) .................................................................................................. 8
+The performance of educational work (Article 10) ................................................. 9
+The Use of Language (Article 11) .......................................................................... 9
+Teaching in the foreign language (Article 12) ........................................................ 9
+Textbooks (Article 13) ............................................................................................ 9
+Public documents (Article 14)............................................................................... 10
+Health protection (Article 15) ................................................................................ 10
+Supervision (Article 16) ........................................................................................ 10
+The quality assurance and improvement (Article 17) ........................................... 10
+Interpretation clause (Article 18) .......................................................................... 10
+II THE EDUCATIONAL CURRICULUM .................................................................... 11
+The Educational Curriculum (Article 19) .............................................................. 11
+Public validity of educational curriculum (Article 20) ............................................ 11
+The contents of the educational curriculum (Article 21) ....................................... 11
+The passing of publicly valid educational curriculum (Article 22) ......................... 12
+The passing of the private institutions educational curricula (Article 23) ............. 13
+Acknowledged educational curricula (Article 24) ................................................. 13
+Publishing of the educational curricula (Article 25) .............................................. 13
+Experimental assessment (Article 26) .................................................................. 13
+Performers (Article 27) ......................................................................................... 14
+III PROFESSIONAL BODIES ................................................................................... 14
+The Council (Article 28) ........................................................................................ 14
+Foundation (Article 29) ......................................................................................... 14
+Working bodies of the Council (Article 30) ........................................................... 15
+Rules of Procedure (Article 31) ............................................................................ 15
+The composition of the Council for General Education (Article 32) ..................... 15
+The composition of the Council for Vocational Education (Article 33) ................. 15
+The composition of the Council for the Adult Education (Article 34) .................... 15
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -13,6 +51,49 @@ General Law on Education
 2
 
 Ministry of Education and Science Montenegro
+
+The competence of the Council for General Education (Article 35) ..................... 16
+The competence of the Council for Vocational Education (Article 36) ................. 17
+The competence of the Council for the Adult Education (Article 37) ................... 17
+IV EXTERNAL QUALITY ASSESSMENT AND QUALITY
+ASSURANCE ............................................................................................................ 18
+The Bureau for Educational Services (Article 38) ................................................ 18
+The Center for Vocational Education (Article 39) ................................................. 18
+The Bureau for Educational Services’ competence (Article 40)........................... 18
+The Center’s competence (Article 41) .................................................................. 19
+V EDUCATIONAL INSTITUTIONS ........................................................................... 20
+The network of institutions (Article 42) ................................................................. 20
+The founding (Article 43) ...................................................................................... 20
+Decision-making (Article 44) ................................................................................ 20
+The contents of the document on foundation (Article 45) .................................... 21
+The conditions of founding (Article 46) ................................................................. 21
+Branch institutions (Article 47) ............................................................................. 21
+The founding of branch institutions (Article 48) .................................................... 22
+The verification of institutions (Article 49) ............................................................ 22
+The commencement of work (Article 50) ............................................................. 22
+The permission for the performance of activity (Article 51) .................................. 22
+The Register (Article 52) ...................................................................................... 22
+The Court Register (Article 53) ............................................................................ 23
+Prohibition of work (Article 54) ............................................................................. 23
+The cessation of the work of institutions (Article 55) ............................................ 23
+The manner of the cessation of work (Article 56) ................................................ 23
+The changes of status (Article 57) ....................................................................... 24
+The change of title and seat (Article 58) .............................................................. 24
+Institution Statute (Article 59) ............................................................................... 24
+The approval for the institution’s documents (Article 60) ..................................... 25
+The time of organizing teaching (Article 61) ......................................................... 25
+School calendar (Article 62) ................................................................................. 25
+The duration of teaching year (Article 63) ............................................................ 25
+The Break of Educational Process (Article 64) .................................................... 26
+VI THE EXECUTION OF EDUCATIONAL ACTIVITY ON
+THE BASIS OF A CONCESSION CONTRACT ....................................................... 26
+Concessionaires (Article 65) ................................................................................ 26
+The granting of concession (Article 66) ................................................................ 26
+The contents of competition (Article 67) ............................................................... 26
+Concession contract (Article 68) .......................................................................... 27
+The concession cancellation (Article 69) .............................................................. 27
+The deprivation of concession (Article 70) ........................................................... 27
+Consistent application (Article 71) ........................................................................ 28
 
 [[END OF PAGE 2]]
 
@@ -24,6 +105,49 @@ Ministry of Education and Science Montenegro
 
 3
 
+VII THE MANAGING OF INSTITUTIONS ................................................................. 28
+The School Board, or the Managing Board (Article 72) ....................................... 28
+The composition of the School Board, or of the Managing Board (Article 73) ..... 28
+The term of office (Article 74) ............................................................................... 29
+The interim School Board (Article 75) .................................................................. 29
+Competences (Article 76) ..................................................................................... 29
+VIII ADMINISTERING................................................................................................ 30
+The Principal (Article 77) ...................................................................................... 30
+Conditions (Article 78) .......................................................................................... 30
+The training of Principals (Article 79) ................................................................... 30
+The selection and release of Principal (Article 80) ............................................... 30
+Acting Principal (Article 81) .................................................................................. 31
+The Principal’s competences (Article 82) ............................................................. 31
+Conditions for release (Article 83) ........................................................................ 32
+The rights stemming from employment (Article 84) ............................................. 33
+Assistant Principal (Article 85) ............................................................................. 33
+The conditions for the selection of the Assistant Principal (Article 86) ................ 33
+IX PROFESSIONAL BODIES ................................................................................... 33
+Types of professional bodies (Article 87) ............................................................. 33
+The composition of professional bodies (Article 88) ............................................ 34
+The competences of the Panel of Teachers, or of the Professional Panel (Article 89) 34
+The Board of Class Teachers (Article 90) ............................................................ 34
+Professional Section (Article 91) .......................................................................... 35
+Class Master (Article 92) ...................................................................................... 35
+Competence (Article 93) ....................................................................................... 35
+X PARENTS COUNCIL ............................................................................................. 35
+Parents Council (Article 94) .................................................................................. 35
+Competencies of the Parents Council (Article 95) ................................................ 36
+XI THE RIGHTS AND THE RESPONSIBILITIES OF
+STUDENTS ............................................................................................................... 36
+Student Community (Article 96) ........................................................................... 36
+Students’ rights (Article 97) .................................................................................. 36
+The responsibilities of students (Article 98) ......................................................... 37
+XII THE TEACHERS ................................................................................................. 37
+Teachers Autonomy (Article 99) ........................................................................... 37
+Prohibition of delivery of teaching (Article 100) .................................................... 37
+The employing of teachers (Article 101) .............................................................. 37
+Teacher-Trainee (Article 102) .............................................................................. 38
+Mentor (Article 103) .............................................................................................. 38
+Passing of program (Article 104) .......................................................................... 38
+The crediting of trainee period (Article 105) ......................................................... 39
+The professional exam (Article 106) .................................................................... 39
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -34,6 +158,49 @@ General Law on Education
 
 Ministry of Education and Science Montenegro
 
+The sitting for professional exam (Article 107) ..................................................... 39
+The number of lessons reduction (Article 108) .................................................... 39
+The employment of teachers by means of agreement (Article 109) .................... 39
+The additional activities of teachers (Article 110) ................................................ 40
+The cessation of employment (Article 111) .......................................................... 40
+XIII IN SERVICE TRAINING AND PROMOTION OF
+TEACHERS ............................................................................................................... 41
+In service training (Article 112) ............................................................................. 41
+The promotion (Article 113) .................................................................................. 41
+XIV PEDAGOGICAL RECORDS AND PUBLIC
+DOCUMENTS ............................................................................................................ 41
+Pedagogical records (Article 114) ........................................................................ 41
+Public documents (Article 115) ............................................................................ 42
+The issuing of public documents (Article 116) ..................................................... 42
+The authentication of documents (Article 117)..................................................... 42
+The prescribing of forms (Article 118) .................................................................. 42
+XV VALIDATION AND EQUIVALENCY ................................................................... 43
+The right to the validation of education (Article 119) ............................................ 43
+The validation (Article 120)................................................................................... 43
+Equivalency (Article 121) ...................................................................................... 43
+Competencies (Article 122) .................................................................................. 43
+The comparability of education (Article 123) ........................................................ 43
+A stipulation (Article 124) ..................................................................................... 44
+Absoluteness of the procedure (Article 125) ........................................................ 44
+Consistent application (Article 126) ...................................................................... 44
+The Register (Article 127) .................................................................................... 44
+Closer regulations (Article 128) ............................................................................ 44
+XVI THE RIGHTS AND OBLIGATIONS IN THE AREA OF
+STUDENT STANDARD............................................................................................. 45
+The rights of students (Article 129) ...................................................................... 45
+The type of rights (Article 130) ............................................................................. 45
+The rights of accommodation and diet (Article 131) ............................................ 45
+Competition (Article 132) ...................................................................................... 45
+The right to the provision of scholarship (Article 133) .......................................... 46
+The cessation of scholarship (Article 134) ........................................................... 46
+XVII FINANCING ....................................................................................................... 46
+The sources of financing (Article 135) .................................................................. 46
+The providing of funds (Article 136) ..................................................................... 47
+Limitation for the participation in the financing (Article 137) ................................ 48
+Scale of norms and standards (Article 138) ......................................................... 48
+The conditions for the financing of private institution (Article 139) ...................... 48
+The right to subvention (Article 140) .................................................................... 49
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -43,6 +210,32 @@ General Law on Education
 Ministry of Education and Science Montenegro
 
 5
+
+The limitation of financing (Article 141) ................................................................ 49
+The compensation of tuition fees (Article 142) ..................................................... 49
+The limitation of salaries (Article 143) .................................................................. 49
+The providing of funds for concessionaire (Article 144) ....................................... 49
+The completion of started education (Article 145) ............................................... 50
+XVIII PENAL PROVISIONS ...................................................................................... 50
+The sanctions for violations (Article 146) ............................................................. 50
+XIX TRANSITIONAL AND FINAL PROVISIONS ..................................................... 51
+The harmonization of the work of institutions (Article 147) .................................. 51
+The defining of the institution network (Article 148) ............................................. 51
+By-laws (Article 149) ............................................................................................ 51
+The foundation of the Councils (Article 150) ........................................................ 51
+The Council work cessation (Article 151) ............................................................. 51
+The establishment of the Bureau for Educational Services and of the Center (Article 152) 52
+The status of former managing and administrative bodies (Article 153) .............. 52
+The establishment of the Parents Council (Article 154) ....................................... 52
+The started procedure of employment (Article 155) ............................................. 52
+The started trainee period (Article 156) ................................................................ 52
+The acknowledgment of professional exam (Article 157) .................................... 52
+The acknowledgement of acquired ranks (Article 158) ........................................ 53
+The commenced procedure of verification and equivalency (Article 159) ........... 53
+Textbooks and teaching aids (Article 160) ........................................................... 53
+The application of the certain provisions (Article 161) ......................................... 53
+The cessation to be in effect (Article 162) ............................................................ 53
+Coming into force (Article 163) ............................................................................. 54
 
 [[END OF PAGE 5]]
 
@@ -60,17 +253,19 @@ Ministry of Education and Science Montenegro
 
 General Law on Education
 
-### Contents of Law
-
 # GENERAL LAW ON EDUCATION
 
 ## I BASIC PROVISIONS
+
+### Contents of Law
 
 #### Article 1
 
 This Law regulates the organization of and the conditions for the carrying out of educational work within the areas of preschool education, primary education, secondary general, vocational education, education of persons with special needs and the adult education.
 
 ### Aims
+
+#### Article 2
 
 The education is aimed to:
 
@@ -91,8 +286,6 @@ The education is aimed to:
 - facilitate the involvement  into the process of European integrations.
 
 ### The acquisition of education
-
-#### Article 2
 
 #### Article 3
 
@@ -410,8 +603,6 @@ General Law on Education
 
 ### Performers
 
-### The Council
-
 #### Article 27
 
 The preschool institutions  shall  execute  preschool  education,  in  line  with the law.
@@ -433,6 +624,8 @@ Schools or other organizers of education shall carry out the adult education in 
 The  student  dormitories  shall  carry  out  the  accommodation,  diet  and education  of  the  students  that  are  acquiring  education  out  of  their  residence places.
 
 ## III PROFESSIONAL BODIES
+
+### The Council
 
 #### Article 28
 
@@ -648,7 +841,7 @@ The Bureau for Educational Services is the administrative organization.
 
 ### The Center for Vocational Education
 
-#### A rticle 39
+#### Article 39
 
 Development, advisory, research and professional jobs relating to vocational education and the adult education shall be performed by the Center for Vocational Education (hereinafter referred to as: the Center) .
 
@@ -934,9 +1127,13 @@ The  Founder  is  in  obligation  to  announce  the  cessation  of  an  institut
 
 #### Article 56
 
-An institution may be closed promptly, or gradually. The document on the cessation of an institution work shall define the day of the cessation of its work. The institution shall cease its work at the end of school year, as a rule. The Founder of the institution that ceases its work promptly is in obligation started
+An institution may be closed promptly, or gradually.
 
-to enable children, students or apprentices the completion of the educational curriculum (education).
+The document on the cessation of an institution work shall define the day of the cessation of its work.
+
+The institution shall cease its work at the end of school year, as a rule.
+
+The Founder of the institution that ceases its work promptly is in obligation to enable children, students or apprentices the completion of the started educational curriculum (education).
 
 Ministry of Education and Science Montenegro
 
@@ -1024,11 +1221,11 @@ The Ministry shall give the approval for the Statute and for the document on  in
 
 #### Article 61
 
-A school year shall start on the 1 st of September and shall end on the 31 st of August.
+A school year shall start on the 1st of September and shall end on the 31st of August.
 
 A teaching year shall start on the first Monday in September and shall last 180 days at least, as the rule.
 
-The  teaching  year  for  students  of  final  grades  shall  last  until  the  15 th of May.
+The  teaching  year  for  students  of  final  grades  shall  last  until  the  15th of May.
 
 A  teaching  year  shall  be  composed  of  four  classification  periods:  two quarters and two terms.
 
@@ -1156,7 +1353,7 @@ If  it  is  detected  that  a  concessionary  has  not  performed  the  activity
 
 If the concessionary has not eliminated the shortages within the fixed time period, the Minister shall deprive the concession by the decision on deprivation.
 
-In  case  referred  to  in  paragraph  2  of  this  Article,  the  conceder  is  in obligation  to  provide  students,  pupils  or  apprentices  with  the  finalization  of  the started  educational  curriculum,  or  to  provide  the  education  in  another  preschool institution, or in a student dormitory.
+In case referred to in paragraph 2 of this Article, the conceder is in obligation to provide students, pupils or apprentices with the finalization of the
 
 Ministry of Education and Science Montenegro
 
@@ -1167,6 +1364,8 @@ Ministry of Education and Science Montenegro
 [[START OF PAGE 28]]
 
 General Law on Education
+
+started educational curriculum, or to provide the education in another preschool institution, or in a student dormitory.
 
 ### Consistent application
 
@@ -1266,11 +1465,17 @@ The School, or the Managing Board shall decide by the majority of votes of the t
 
 ## VIII ADMINISTERING
 
+### The Principal
+
 #### Article 77
 
-The Principal shall administer an institution. The institution Principal shall be also the pedagogical head.
+The Principal shall administer an institution.
+
+The institution Principal shall be also the pedagogical head.
 
 ### Conditions
+
+#### Article 78
 
 Any person, who:
 
@@ -1287,10 +1492,6 @@ Exceptionally  to  indent  1  in  paragraph  1  of  this  Article,  any  person 
 An institution principal shall be selected for the period of four years.
 
 ### The training of Principals
-
-### The Principal
-
-#### Article 78
 
 #### Article 79
 
@@ -1482,7 +1683,7 @@ The Board of Class Teachers shall be composed of teachers, educators and profess
 
 The Professional Section of Teachers shall be composed of the teachers of the same teaching subject or of two, or more related teaching subjects.
 
-The  Professional  Panel  shall  be  composed  of:  educators,  educatorsassociates, special teacher-pedagogues, professional assistants and associates.
+The Professional Panel shall be composed of: educators, educators-associates, special teacher-pedagogues, professional assistants and associates.
 
 The Professional  Section  within  preschool  institution  shall  be  composed, as the rule, of educators, special teacher-pedagogues, pedagogue-assistants and associates engaged in the performance of certain courses of study relating to the educational groups of the children of approximately the same age.
 
@@ -1514,7 +1715,7 @@ The Panel of Teachers, or the Professional Panel of the institution shall:
 
 #### Article 90
 
-The Board of Class Teachers shall consider  the educational work within the  classes,  establish  the  courses  of  study  relating  to  the  work  with  talented students  and  with  students  having  learning  difficulties,  decide  on  disciplinary measures  and  perform  other  jobs  in  line  with  the  law  and  the  Statute  of  the institution.
+The Board of Class Teachers shall consider the educational work within the classes, establish the courses of study relating to the work with talented students and with students having learning difficulties, decide on disciplinary
 
 34
 
@@ -1526,9 +1727,9 @@ Ministry of Education and Science Montenegro
 
 General Law on Education
 
-### Professional Section
+measures and perform other jobs in line with the law and the Statute of the institution.
 
-### Parents Council
+### Professional Section
 
 #### Article 91
 
@@ -1547,6 +1748,8 @@ Class  Master  shall  analyze  the  educational  and  teaching  results  of  the
 The Statute of an institution shall closer define the competencies and the manner of professional bodies work.
 
 ## X PARENTS COUNCIL
+
+### Parents Council
 
 #### Article 94
 
@@ -1634,8 +1837,6 @@ General Law on Education
 
 ### The responsibilities of students
 
-### Teachers Autonomy
-
 #### Article 98
 
 Students shall have the following responsibilities:
@@ -1667,6 +1868,8 @@ Students shall have the following responsibilities:
 - to execute other duties defined by the institution Statute.
 
 ## XII THE TEACHERS
+
+### Teachers Autonomy
 
 #### Article 99
 
@@ -1702,9 +1905,9 @@ After the termination of the probation work period defined by the Contract on Pr
 
 #### Article 102
 
-The person that has started the employment in school for the first time and for  the  purpose  of  on-the-job  training  aimed  for  the  self-reliable  performance  of work  within  the  range  of  his/her  qualifications  shall  be  considered  a  teachertrainee.
+The person that has started the employment in school for the first time and for  the  purpose  of  on-the-job  training  aimed  for  the  self-reliable  performance  of work  within  the  range  of  his/her  qualifications  shall  be  considered  a  teacher-trainee.
 
-The trainee period of a teacher-trainee with higher and University degree of qualifications shall last one year, and it shall last six months in case of a teachertrainee with secondary school degree of qualification.
+The trainee period of a teacher-trainee with higher and University degree of qualifications shall last one year, and it shall last six months in case of a teacher-trainee with secondary school degree of qualification.
 
 The employment of a teacher-trainee shall cease after the expiration of the trainee period.
 
@@ -1766,7 +1969,7 @@ The working hours of a teacher-trainee, during the trainee period, or of a teach
 
 #### Article 109
 
-A teacher that does not have the obligatory number of lessons prescribed by the law, or a teacher that has been declared surplus manpower because of the change in the educational curriculum, or because of the alteration of standards and of the scale of norms, or because of the decrease in the scope of enrolment, may be  employed  in  another  institution,  on  the  basis  of  the  agreement  between  the Principals  of  those  institutions,  in  order  to  supplement  the  obligatory  number  of lessons.
+A teacher that does not have the obligatory number of lessons prescribed by the law, or a teacher that has been declared surplus manpower because of the change in the educational curriculum, or because of the alteration of standards and
 
 Ministry of Education and Science Montenegro 39
 
@@ -1775,6 +1978,8 @@ Ministry of Education and Science Montenegro 39
 [[START OF PAGE 40]]
 
 General Law on Education
+
+of the scale of norms, or because of the decrease in the scope of enrolment, may be employed in another institution, on the basis of the agreement between the Principals of those institutions, in order to supplement the obligatory number of lessons.
 
 ### The additional activities of teachers
 
@@ -1956,7 +2161,7 @@ A decision shall be made on the validation, or on the equivalency of foreign cer
 
 #### Article 123
 
-The  system  of  education,  the  educational  curriculum,  the  conditions prescribed  for  the  enrollment  into  the  educational  curriculum,  the  rights  that  are given  by  certain  certificate  within  the  country  in  which  it  was  acquired  and  other circumstances of importance for the validation, or for the equivalency that relate to the  country  in  which  the  foreign  certificate  was  acquired  shall  be  taken  into consideration in the procedure of the validation, or of the equivalency.
+The system of education, the educational curriculum, the conditions prescribed for the enrollment into the educational curriculum, the rights that are given by certain certificate within the country in which it was acquired and other circumstances of importance for the validation, or for the equivalency that relate to
 
 Ministry of Education and Science Montenegro
 
@@ -1967,6 +2172,8 @@ Ministry of Education and Science Montenegro
 [[START OF PAGE 44]]
 
 General Law on Education
+
+the country in which the foreign certificate was acquired shall be taken into consideration in the procedure of the validation, or of the equivalency.
 
 In  case  the  procedure  of  the  validation,  or  of  the  equivalency  has established that the educational curriculum of a foreign institution deviates significantly  from  the  educational  curriculum  of  an  institution  in  the  Republic,  the obligatory sitting for the additional, or the differential exams shall be defined by a decision on the validation or on the equivalency.
 
@@ -2398,13 +2605,13 @@ The procedure for the selection of Principal, Assistant Principal, or for the no
 
 #### Article 154
 
-The Parents Council referred to in Article 94 of this Law shall be composed in all institutions until 31 st of October 2003.
+The Parents Council referred to in Article 94 of this Law shall be composed in all institutions until 31st of October 2003.
 
 ### The started procedure of employment
 
 #### Article 155
 
-The  procedure  of  a  teacher's  employment  that  has  started  before  the effective date of this Law shall be finalized according to the regulations valid until the effective date of this Law.
+The  procedure  of  a  teacher’s  employment  that  has  started  before  the effective date of this Law shall be finalized according to the regulations valid until the effective date of this Law.
 
 ### The started trainee period
 
@@ -2460,7 +2667,7 @@ The  provisions  of  Articles  from  135  to  145  of  this  Law,  relating  to 
 
 #### Article 162
 
-As  of  the  day  of  this  Law  comes  into  effect,  there  shall  cease  to  be  in effect:  The  Law  on  In-service  Training  of  Teachers  and  Teaching  Staff  ('Official Gazette of SRM', No.26/87); The Law on the Financing of the Requirements in the Field of Education, Culture and Physical Education ('Official Gazette of SRM', No. 29/90  and  7/92);  the  provisions  of  The  Law  on  Verification  and  Equivalency  of Certificates and Diplomas Acquired Abroad ('Official Gazette of SRM', No. 6/87), relating to the provisions on the verification and the  equivalency of certificates on the completed primary and secondary education, or on the acquired qualification degree, and on the completion of particular grades; the provisions of Article 1110 of the Law on Primary school (('Official Gazette of RM', No. 34/91, 56/92, 32/93 and  20/95);  provisions  of  Article  103  of  the  Law  on  secondary  school  ('Official Gazette of RM', No. 28/91, and 'Official Gazette of RM', No. 56/92 and 27/94); the provisions  of  Article  29  of  the  Law  on  Preschool  education  ('Official  Gazette  of RM', No. 56/92); the provisions of The Law on Basic Rights Stemming from Pupil and Student Standard ('Official Gazette of RM', No.6/94 and 27/94), relating to the rights  of  students;  provisions  of  Chapter  III  -  'The  Publishing  of  Textbooks  and Teaching Aids', except the provision of Article 14 of the Law on Publishing ('Official Gazette  of  RM',  No.  20/95);  and  provisions  of  the  Law  on  the  Educational Inspection ('Official Gazette of RM', No. 20/95), relating to the supervision on the organizing  and  executing  of  educational  work  in  preschool  institutions,  primary, secondary and special schools, student dormitories and in other organizations that execute education.
+As  of  the  day  of  this  Law  comes  into  effect,  there  shall  cease  to  be  in effect:  The  Law  on  In-service  Training  of  Teachers  and  Teaching  Staff  (“Official Gazette of SRM”, No.26/87); The Law on the Financing of the Requirements in the Field of Education, Culture and Physical Education (“Official Gazette of SRM”, No. 29/90  and  7/92);  the  provisions  of  The  Law  on  Verification  and  Equivalency  of Certificates and Diplomas Acquired Abroad (“Official Gazette of SRM”, No. 6/87), relating to the provisions on the verification and the  equivalency of certificates on the completed primary and secondary education, or on the acquired qualification
 
 Ministry of Education and Science Montenegro
 
@@ -2472,11 +2679,13 @@ Ministry of Education and Science Montenegro
 
 General Law on Education
 
+degree, and on the completion of particular grades; the provisions of Article 1110 of the Law on Primary school ((“Official Gazette of RM”, No. 34/91, 56/92, 32/93 and 20/95); provisions of Article 103 of the Law on secondary school (“Official Gazette of RM”, No. 28/91, and “Official Gazette of RM”, No. 56/92 and 27/94); the provisions of Article 29 of the Law on Preschool education (“Official Gazette of RM”, No. 56/92); the provisions of The Law on Basic Rights Stemming from Pupil and Student Standard (“Official Gazette of RM”, No.6/94 and 27/94), relating to the rights of students; provisions of Chapter III – “The Publishing of Textbooks and Teaching Aids”, except the provision of Article 14 of the Law on Publishing (“Official Gazette of RM”, No. 20/95); and provisions of the Law on the Educational Inspection (“Official Gazette of RM”, No. 20/95), relating to the supervision on the organizing and executing of educational work in preschool institutions, primary, secondary and special schools, student dormitories and in other organizations that execute education.
+
 ### Coming into force
 
 #### Article 163
 
-This law shall come into force on the eighth day as of its publication in the 'Official Gazette of RM'.
+This law shall come into force on the eighth day as of its publication in the “Official Gazette of RM”.
 
 54
 
