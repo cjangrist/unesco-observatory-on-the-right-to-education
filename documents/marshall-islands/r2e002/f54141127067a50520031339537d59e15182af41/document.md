@@ -18,7 +18,7 @@ Section.
 
 §502. Definitions.
 
-§503. Establishment of a Teachers' Standards and Licensing Board .
+§503. Establishment of a Teachers’ Standards and Licensing Board.
 
 §504. Functions of the Board.
 
@@ -48,7 +48,7 @@ Section.
 
 ______________________________________________________________________________
 
-An Act to set the standards by which teachers are to be certified and licensed to teach in the Republic,  and  to  establish  a  Teachers'  Standards  and  Licensing  Board  to  and  administer  and monitor the teacher certification standards.
+An Act to set the standards by which teachers are to be certified and licensed to teach in the Republic,  and  to  establish  a  Teachers’  Standards  and  Licensing  Board  to  and  administer  and monitor the teacher certification standards.
 
 Commencement:
 
@@ -64,13 +64,13 @@ This Act may be cited as the Ministry of Education (Teacher Certification) Act, 
 
 ## §502. Definitions.
 
-In this Act, unless the context otherwise requires -
+In this Act, unless the context otherwise requires –
 
-(a) 'Board' means the Republic of the Marshall Islands Teachers' Standards and Licensing Board established under Section 3 of this Act;
+(a) “Board” means the Republic of the Marshall Islands Teachers’ Standards and Licensing Board established under Section 3 of this Act;
 
-(b) 'certificate' means a certificate issued by the Board in accordance with the Teacher Certification regulations;
+(b) “certificate” means a certificate issued by the Board in accordance with the Teacher Certification regulations;
 
-(c) 'head teacher' means a teaching principal;
+(c) “head teacher” means a teaching principal;
 
 636.1
 
@@ -84,21 +84,19 @@ CHAPTER 5 - TEACHER CERTIFICATION
 
 _______________________________________________________________________________________________
 
-(d) 'license' means the document signifying the Board's grant of permission to practice the profession of teaching in accordance with the Teacher Certification regulations;
+(d) “license” means the document signifying the Board’s grant of permission to practice the profession of teaching in accordance with the Teacher Certification regulations;
 
-(e) 'Minister'
+(e) “Minister” means the Minister responsible for the Ministry of Education;
 
-(f) 'Secretary'
+(f) “Secretary” means the Secretary of the Ministry of Education;
 
-means the Minister responsible for the Ministry of Education; means the Secretary of the Ministry of Education;
+(g) “school administrator” means a school principal;
 
-(g) 'school administrator' means a school principal;
+(h) “Teacher Certification regulations” means the Integrated Teacher Certification, Teacher Salary and Teacher Management System Regulations, to be promulgated under this Act.
 
-(h) 'Teacher Certification regulations' means the Integrated Teacher Certification, Teacher Salary and Teacher Management System Regulations, to be promulgated under this Act.
+## §503. Establishment of a Teachers’ Standards and Licensing Board.
 
-## §503. Establishment of a Teachers' Standards and Licensing Board.
-
-(1)The  Republic  of  the  Marshall  Islands  Teachers'  Standards  and  Licensing  Board  is hereby established.
+(1)The  Republic  of  the  Marshall  Islands  Teachers’  Standards  and  Licensing  Board  is hereby established.
 
 (2) The Board shall consist of the following members:
 
@@ -108,7 +106,7 @@ means the Minister responsible for the Ministry of Education; means the Secretar
 
 (c) Secretary for Education (or designee);
 
-(d) Two (02) teachers' representatives appointed by the Minister;
+(d) Two (02) teachers’ representatives appointed by the Minister;
 
 (e) One (01) school administrators appointed by the Minister;
 
@@ -124,7 +122,7 @@ means the Minister responsible for the Ministry of Education; means the Secretar
 
 ## §504. Functions of the Board.
 
-- Functions of the Board are to:
+(1) Functions of the Board are to:
 
 (a) issue teacher certificates and licenses, including their renewal, in accordance with the Teacher Certification regulations promulgated under this Act;
 
