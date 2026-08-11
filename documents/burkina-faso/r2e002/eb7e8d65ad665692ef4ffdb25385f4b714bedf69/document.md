@@ -151,7 +151,7 @@ déroulement des  études,  sur  les  débouchés  et  sur  le  passage  possibl
 
 La  formation  initiale  consiste  à  donner  une  formation  de  base,  de culture générale, de spécialité et une formation professionnelle théorique  et  pratique.  Elle  s'adresse  à  des  personnes  qui  n'ont  pas d'expérience professionnelle et se déroule pendant la scolarité normale.
 
-La formation continue fait partie de l'éducation permanente. Elle a pour objet de permettre à un individu de développer ses connaissances et ses capacités tout au long de sa vie et d'améliorer ses conditions d'existence en complétant , par les moyens pédagogiques appropriées, les données initiales fournies par l'école ou l'enseignement supérieur. Elle s'adresse aux personnes ayant eu une formation initiale.
+La formation continue fait partie de l'éducation permanente. Elle a pour objet de permettre à un individu de développer ses connaissances et ses capacités tout au long de sa vie et d'améliorer ses conditions d'existence en complétant , par les moyens pédagogiques appropriées,
 
 4 de 17
 
@@ -162,6 +162,8 @@ La formation continue fait partie de l'éducation permanente. Elle a pour objet 
 [[START OF PAGE 5]]
 
 DECRET N°2008-645/PRES/PM/MESSRS du 20  octobre 2008 portan... http://www.legiburkina.bf/jo/jo2008/no_45/D%E9cret_PM_2008_006...
+
+les données initiales fournies par l'école ou l'enseignement supérieur. Elle s'adresse aux personnes ayant eu une formation initiale.
 
 La formation professionnelle vise l'acquisition de connaissances, de qualifications et d'aptitudes nécessaires pour exercer une profession ou une fonction avec compétence et efficacité. Elle est dispensée dans les établissements d'enseignement supérieur technique ou professionnel.
 
@@ -553,7 +555,7 @@ Les  avantages  attachés  aux  postes  de  responsabilité dans les institution
 Les  activités  des  associations  des  étudiants  et  des enseignants sont régies par les textes relatifs aux libertés publiques et aux franchises et libertés universitaires.
 
 ##### ARTICLE 62:
-Le présent décret abroge toutes dispositions antérieures contraires.
+Le présent décret abroge toutes dispositions antérieures
 
 16 de 17
 
@@ -566,6 +568,8 @@ Le présent décret abroge toutes dispositions antérieures contraires.
 DECRET N°2008-645/PRES/PM/MESSRS du 20  octobre 2008 portan...
 
 http://www.legiburkina.bf/jo/jo2008/no_45/D%E9cret_PM_2008_006...
+
+contraires.
 
 ##### ARTICLE 63 :
 Le Ministre des enseignements secondaire, supérieur et de la recherche scientifique est chargé de l'exécution du présent décret.
