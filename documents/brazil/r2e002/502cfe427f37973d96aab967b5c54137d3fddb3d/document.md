@@ -4,7 +4,8 @@
 
 Decreto nº 7626
 
-Presidência da República Casa Civil
+Presidência da República
+Casa Civil
 
 Subchefia para Assuntos Jurídicos
 
@@ -12,7 +13,7 @@ Subchefia para Assuntos Jurídicos
 
 Institui  o  Plano  Estratégico  de  Educação no âmbito do Sistema Prisional.
 
-A PRESIDENTA DA REPÚBLICA , no uso das atribuições que lhe confere o art. 84, incisos IV e VI, alínea 'a', da Constituição, e tendo em vista o disposto nos arts. 17 a 21 e § 4º do art. 83 da Lei nº 7.210, de 11 de julho de 1984,
+A PRESIDENTA DA REPÚBLICA , no uso das atribuições que lhe confere o art. 84, incisos IV e VI, alínea “a”, da Constituição, e tendo em vista o disposto nos arts. 17 a 21 e § 4º do art. 83 da Lei nº 7.210, de 11 de julho de 1984,
 
 DECRETA:
 
@@ -122,7 +123,9 @@ Este Decreto entra em vigor na data de sua publicação.
 
 Brasília, 24 de novembro de 2011; 190º da Independência e 123º da República.
 
-DILMA ROUSSEFF José Eduardo Cardozo Fernando haddad
+DILMA ROUSSEFF
+José Eduardo Cardozo
+Fernando haddad
 
 Este texto não substitui o publicado no DOU de 25.11.2011
 
