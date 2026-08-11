@@ -16,21 +16,27 @@ The purpose of this Act is to promote equal rights for students and applicants i
 #### Section 2
 In this Act
 
-University: refers to a university or other institute of higher education which is managed by the State, a
+University: refers to a university or other institute of higher education which is managed by the State, a municipality or a county council and which is subject to the Higher Education Act (1992:1434), or to a private education provider licensed to award degrees under the Award of Certain Degrees Licensing Act (1993:792),
 
-municipality or a county council and which is subject to the Higher Education Act (1992:1434), or to a private education provider licensed to award degrees under the Award of Certain Degrees Licensing Act (1993:792), Student: refers to a person who has been admitted to and is pursuing a course of basic, advanced-level or postgraduate training under the Higher Education Act, or is taking part in a course leading to a degree awarded by a private education provider under the Award of Certain Degrees Licensing Act; a person employed as a doctoral student, however, shall not be considered a student under the Act, Applicant: refers to a person who in due form has given notice that he or she wishes to be admitted to basic, advanced-level or postgraduate training under the Higher Education Act or to a training course leading to a degree awarded by a private education provider under the Award of Certain Degrees Licensing Act, Ethnic affiliation: refers to the state of belonging to a group of people who share the same colour or national or ethnic origin, Sexual orientation: refers to homosexual, bisexual or heterosexual orientation, either caused by an injury or illness already present at birth, which arose thereafter or which may be expected
+Student: refers to a person who has been admitted to and is pursuing a course of basic, advanced-level or postgraduate training under the Higher Education Act, or is taking part in a course leading to a degree awarded by a private education provider under the Award of Certain Degrees Licensing Act; a person employed as a doctoral student, however, shall not be considered a student under the Act,
 
-Disability: refers to a permanent physical, mental or intellectual impairment of functional capacity which was to arise. (2006:308).
+Applicant: refers to a person who in due form has given notice that he or she wishes to be admitted to basic, advanced-level or postgraduate training under the Higher Education Act or to a training course leading to a degree awarded by a private education provider under the Award of Certain Degrees Licensing Act,
+
+Ethnic affiliation: refers to the state of belonging to a group of people who share the same colour or national or ethnic origin,
+
+Sexual orientation: refers to homosexual, bisexual or heterosexual orientation,
+
+Disability: refers to a permanent physical, mental or intellectual impairment of functional capacity which was either caused by an injury or illness already present at birth, which arose thereafter or which may be expected to arise. (2006:308).
 
 ## ACTIVE MEASURES
 
 ### Goal-oriented work
-#### Section 3
-A university shall, within the framework of its activities, conduct goal-oriented work to actively promote the equal rights of students irrespective of their sex, ethnic belonging, religion or other religious faith, sexual orientation or disability.
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+#### Section 3
+A university shall, within the framework of its activities, conduct goal-oriented work to actively promote the equal rights of students irrespective of their sex, ethnic belonging, religion or other religious faith, sexual orientation or disability.
 
 More detailed regulations concerning the obligations of universities in accordance with the first paragraph are contained in Sections 4 and 5. (2003:311).
 
@@ -64,27 +70,52 @@ A university that becomes cognisant of a student considering him or herself to h
 ## PROHIBITION OF DISCRIMINATION
 
 ### Direct discrimination
-#### Section 7
-A university may not disfavour a student or an applicant by treating him or her worse than the university treats, has treated or would have treated someone else in a comparable situation, if the disfavour is connected with sex, ethnic belonging, religion or other religious faith, sexual orientation or disability. The prohibition does not apply if the treatment is justified taking into account a special interest that is manifestly more important than the interest of preventing discrimination at the university. (2003:311).
-### Indirect discrimination
-#### Section 8
-A university may not disfavour a student or an applicant by applying a provision, a criterion or a method of procedure that appears to be neutral but which in practice especially disfavours persons of a particular sex, with a particular ethnic belonging, religion or religious faith, or sexual orientation or particular disability. However, this does not apply if the provision, criterion or method of procedure can objectively be justified owing to a reasonable goal and the means are appropriate and necessary in order to achieve the goal. (2003:311).
-### Harassment
-#### Section 8 a
-A university may not discriminate against a student or an applicant by harassing him or her. (2003:311).
-### Instructions to discriminate
-#### Section 8 b
-A university may not issue orders or instructions to an employee at the university concerning the discrimination of a student or an applicant according to Sections 7-8 a. (2003:311).
-### Scope of the prohibitions
-The prohibitions against discrimination contained in Sections 7-8 b shall apply when a university
-#### Section 9
-1. decides on entry to higher education or takes any other measure that is important for entry, 2. decides on examinations or makes any other assessment of study performance, 3. decides or conducts any other similar assessment on matters concerning a) crediting of education, b) respite with studies or continuation of studies after study breaks, c) change of tutor, d) withdrawal of tutor or other resources in connection with research education, e) training allowance for doctoral students, or
-
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- takes a disciplinary measure against a student. Act (2006:308).
+#### Section 7
+A university may not disfavour a student or an applicant by treating him or her worse than the university treats, has treated or would have treated someone else in a comparable situation, if the disfavour is connected with sex, ethnic belonging, religion or other religious faith, sexual orientation or disability.
+
+The prohibition does not apply if the treatment is justified taking into account a special interest that is manifestly more important than the interest of preventing discrimination at the university. (2003:311).
+
+### Indirect discrimination
+
+#### Section 8
+A university may not disfavour a student or an applicant by applying a provision, a criterion or a method of procedure that appears to be neutral but which in practice especially disfavours persons of a particular sex, with a particular ethnic belonging, religion or religious faith, or sexual orientation or particular disability. However, this does not apply if the provision, criterion or method of procedure can objectively be justified owing to a reasonable goal and the means are appropriate and necessary in order to achieve the goal. (2003:311).
+
+### Harassment
+
+#### Section 8 a
+A university may not discriminate against a student or an applicant by harassing him or her. (2003:311).
+
+### Instructions to discriminate
+
+#### Section 8 b
+A university may not issue orders or instructions to an employee at the university concerning the discrimination of a student or an applicant according to Sections 7–8 a. (2003:311).
+
+### Scope of the prohibitions
+
+#### Section 9
+The prohibitions against discrimination contained in Sections 7–8 b shall apply when a university
+
+1. decides on entry to higher education or takes any other measure that is important for entry,
+
+2. decides on examinations or makes any other assessment of study performance,
+
+3. decides or conducts any other similar assessment on matters concerning
+
+a) crediting of education,
+
+b) respite with studies or continuation of studies after study breaks,
+
+c) change of tutor,
+
+d) withdrawal of tutor or other resources in connection with research education,
+
+e) training allowance for doctoral students, or
+
+4. takes a disciplinary measure against a student. Act (2006:308).
 
 [[END OF PAGE 3]]
 
@@ -144,7 +175,7 @@ A university is liable, if directed by an Ombudsman, to provide the information 
 ### Applicable rules
 
 #### Section 17
-Cases concerning damages in accordance with Sections 6-11 and also Section 13 shall be dealt with in accordance with that prescribed in the Code of Judicial Procedure regarding litigation in contentious cases where settlement of the matter is allowed.
+Cases concerning damages in accordance with Sections 6–11 and also Section 13 shall be dealt with in accordance with that prescribed in the Code of Judicial Procedure regarding litigation in contentious cases where settlement of the matter is allowed.
 
 However, in such cases it may be ordered that either party shall bear his or her own litigation costs, if the party that lost the case had reasonable cause to have the dispute considered.
 
@@ -169,7 +200,7 @@ That prescribed by the Code of Judicial Procedure concerning situations of disqu
 ## LIMITATION PERIODS, ETC.
 
 #### Section 19
-An action in a case for damages in accordance with Sections 6-11 and also Section 13 shall be instituted within two years after when the act complained of occurred or an obligation should have at the latest been performed. Otherwise the right to bring proceedings expires.
+An action in a case for damages in accordance with Sections 6–11 and also Section 13 shall be instituted within two years after when the act complained of occurred or an obligation should have at the latest been performed. Otherwise the right to bring proceedings expires.
 
 #### Section 20
 An action that is brought by the Equal Opportunities Ombudsman, the Ombudsman against Ethnic Discrimination, the Ombudsman against discrimination because of Sexual Orientation or the Disability Ombudsman shall be treated as if the action had been brought by the student or by the applicant him or herself.
@@ -178,8 +209,8 @@ An action that is brought by the Equal Opportunities Ombudsman, the Ombudsman ag
 
 ### 2006:308
 
-- This Act enters into force on 1 July 2007.
+1. This Act enters into force on 1 July 2007.
 
-- The new provisions also apply to students who, prior to the date on which the present Act entered into force, had been admitted to and were pursuing basic or postgraduate training under the Higher Education Act.
+2. The new provisions also apply to students who, prior to the date on which the present Act entered into force, had been admitted to and were pursuing basic or postgraduate training under the Higher Education Act.
 
 [[END OF PAGE 6]]
