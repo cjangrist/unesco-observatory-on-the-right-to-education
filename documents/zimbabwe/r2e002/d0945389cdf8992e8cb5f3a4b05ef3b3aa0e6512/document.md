@@ -2,8 +2,6 @@
 
 TITLE    25
 
-TITLE    25
-
 Chapter 25:04                                                                    PREVIOUS  CHAPTER
 
 # EDUCATION ACT
@@ -18,87 +16,89 @@ Acts 5/1987, 26/1991, 24/1994 (s. 70), 19/1998 ( s. 15), 22/2001.
 
 Section
 
-- Short title.
+1. Short title.
 
-- Interpretation.
+2. Interpretation.
 
-- Application.
+3. Application.
 
 ### PART II
 
 #### FUNDAMENTAL RIGHTS AND OBJECTIVES OF EDUCATION IN ZIMBABWE
 
-- Children's fundamental right to education in Zimbabwe.
+4. Children’s fundamental right to education in Zimbabwe.
 
-- Compulsory education.
+5. Compulsory education.
 
-- Minimum fees for education.
+6. Minimum fees for education.
 
-- General function of Minister.
+7. General function of Minister.
 
-- General duty of local authorities.
+8. General duty of local authorities.
 
 ### PART III
 
 #### CLASSIFICATION  OF  SCHOOLS  AND  RIGHT  OF  ACCESS  TO  SCHOOL EDUCATION
 
-- Classification of schools.
+9. Classification of schools.
 
-- Children's entitlement to enrolment at schools.
+10. Children’s entitlement to enrolment at schools.
 
-- Enrolment at alternative schools.
+11. Enrolment at alternative schools.
 
 ### PART IV
 
 #### GOVERNMENT SCHOOLS
 
-- Establishment,  maintenance  and  closure  of  Government  schools  and hostels.
+12. Establishment,  maintenance  and  closure  of  Government  schools  and hostels.
 
-- Prescribing of fees at Government schools.
+13. Prescribing of fees at Government schools.
 
-- Establishment of general purpose funds.
+14. Establishment of general purpose funds.
 
 ### PART V
 
 #### NON-GOVERNMENT SCHOOLS
 
-- Registration of non-Government schools.
+15. Registration of non-Government schools.
 
-- Recommendations by Secretary in the national interest.
+16. Recommendations by Secretary in the national interest.
 
-- Cancellation of provisional registration or registration.
+17. Cancellation of provisional registration or registration.
 
-- Appeals in relation to registration of schools.
+18. Appeals in relation to registration of schools.
 
-- Certificate of registration or provisional registration.
+19. Certificate of registration or provisional registration.
 
-- Premises on which schools may be operated.
+20. Premises on which schools may be operated.
 
-- Fees payable at non-Government schools.
+21. Fees payable at non-Government schools.
 
-- Appeals in relation to fees.
+22. Appeals in relation to fees.
 
-- Keeping of records and provision of information.
+23. Keeping of records and provision of information.
 
 ### PART VI
 
 #### OTHER GOVERNMENT EDUCATIONAL FACILITIES
 
-- Other Government educational institutions.
+24. Other Government educational institutions.
 
-- Adult education.
+25. Adult education.
 
-- Prescribing of fees for other Government educational facilities
+26. Prescribing of fees for other Government educational facilities.
 
 ### PART VII
 
 #### NURSERY SCHOOLS
 
-- Regulation of nursery schools.
+27. Regulation of nursery schools.
 
 ### PART VIII
 
 #### NATIONAL EDUCATION ADVISORY BOARD AND REGIONAL EDUCATION
+
+TITLE    25
 
 [[END OF PAGE 1]]
 
@@ -106,111 +106,111 @@ Section
 
 ADVISORY BOARDS
 
-- Establishment and functions of Board.
+28. Establishment and functions of Board.
 
-- Membership of Board.
+29. Membership of Board.
 
-- Disqualifications for membership of Board.
+30. Disqualifications for membership of Board.
 
-- Terms and conditions of office of members of Board.
+31. Terms and conditions of office of members of Board.
 
-- Vacation of office by members and filling of vacancies.
+32. Vacation of office by members and filling of vacancies.
 
-- Meetings and procedure of Board.
+33. Meetings and procedure of Board.
 
-- Regional education advisory boards.
+34. Regional education advisory boards.
 
 ### PART IX
 
 #### FINANCIAL PROVISIONS
 
-- Grants to schools, colleges, etc.
+35. Grants to schools, colleges, etc.
 
-- School development committees.
+36. School development committees.
 
-- Expenses of administration, etc.
+37. Expenses of administration, etc.
 
-- Fees to be paid into Consolidated Revenue Fund.
+38. Fees to be paid into Consolidated Revenue Fund.
 
 ### PART X
 
 #### CORRESPONDENCE AND INDEPENDENT COLLEGES
 
-- Interpretation and application of this Part.
+39. Interpretation and application of this Part.
 
-- Registrar of Correspondence and Independent Colleges.
+40. Registrar of Correspondence and Independent Colleges.
 
-- Functions of Registrar.
+41. Functions of Registrar.
 
-- Prohibition  of  unregistered correspondence colleges and independent colleges and certain advertisements.
+42. Prohibition  of  unregistered correspondence colleges and independent colleges and certain advertisements.
 
-- Registration of correspondence colleges and independent colleges.
+43. Registration of correspondence colleges and independent colleges.
 
-- Annual registration and guarantee fund fee.
+44. Annual registration and guarantee fund fee.
 
-- Correspondence Colleges Guarantee Fund.
+45. Correspondence Colleges Guarantee Fund.
 
-- Independent Colleges Guarantee Fund.
+46. Independent Colleges Guarantee Fund.
 
-- Accounts and audit of funds.
+47. Accounts and audit of funds.
 
-- Variation  of  scope  of  registration  otherwise  than  at  request  of correspondence college or independent college.
+48. Variation  of  scope  of  registration  otherwise  than  at  request  of correspondence college or independent college.
 
-- Variation of scope of registration at request of correspondence college or independent college.
+49. Variation of scope of registration at request of correspondence college or independent college.
 
-- Cancellation of registration.
+50. Cancellation of registration.
 
-- Appeals against decision of Secretary.
+51. Appeals against decision of Secretary.
 
-- Registered  correspondence  college  or  independent  college  to  have principal office in Zimbabwe.
+52. Registered  correspondence  college  or  independent  college  to  have principal office in Zimbabwe.
 
-- Formation of advisory council.
+53. Formation of advisory council.
 
-- Tuition by independent colleges.
+54. Tuition by independent colleges.
 
 ### PART XI
 
 #### CONDITIONS OF SERVICE OF TEACHERS
 
-- Interpretation in Part XI.
+55. Interpretation in Part XI.
 
-- Abolition of Unified Teaching Service and savings of pension rights.
+56. Abolition of Unified Teaching Service and savings of pension rights.
 
-- Transfer of teachers to Public Service.
+57. Transfer of teachers to Public Service.
 
-- Conditions of service of transferred teachers.
+58. Conditions of service of transferred teachers.
 
-- Conditions of service of teachers who do not transfer.
+59. Conditions of service of teachers who do not transfer.
 
-- Discipline  of  former  Unified  Teaching  Service  teachers who  are  not members of Public Service.
+60. Discipline  of  former  Unified  Teaching  Service  teachers who  are  not members of Public Service.
 
-- Any teacher may apply to join Public Service.
+61. Any teacher may apply to join Public Service.
 
 ### PART XII
 
 #### GENERAL
 
-- Languages to be taught in schools.
+62. Languages to be taught in schools.
 
-- Curricula and examinations.
+63. Curricula and examinations.
 
-- Health in schools.
+64. Health in schools.
 
-- Delegation of functions by Secretary.
+65. Delegation of functions by Secretary.
 
-- Powers  of  officials  to  enter  premises  of  registered  schools,  colleges and other educational institutions.
+66. Powers  of  officials  to  enter  premises  of  registered  schools,  colleges and other educational institutions.
 
-- Penalties
+67. Penalties.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- Recognition of national association of teachers.
+68. Recognition of national association of teachers.
 
-- Regulations.
+69. Regulations.
 
-- Savings.
+70. Savings.
 
 AN ACT to provide for the declaration of the fundamental rights to, and objectives of,  education  in  Zimbabwe;  to  provide  for  the  establishment,  maintenance  and regulation of Government schools, Government teachers colleges and other Government educational facilities; to provide for the establishment and administration of  non-Government  schools  and  teachers  colleges,  and  for  the registration  and  control  thereof;  to  provide  for  the  registration  and  control  of correspondence  colleges  and  independent  colleges  and  for  the  establishment  of  an advisory  council  for  such  colleges;  to  make  financial  provision  for  schools  and teachers colleges; to provide for the transfer of teachers to the Public Service; and to provide for matters connected with or incidental to the foregoing.
 
@@ -226,63 +226,63 @@ This Act may be cited as the Education Act [Chapter 25:04].
 
 #### 2          Interpretation
 
-In this Act-
+In this Act—
 
-'adult  education'  means  any  educational  training  which  the  Minister  considers suitable for persons beyond the age of sixteen years to develop them into useful adult members of society;
+“adult education” means any educational training which the Minister considers suitable for persons beyond the age of sixteen years to develop them into useful adult members of society;
 
-'Board'  means  the  National  Education  Advisory  Board  established  in  terms  of section twenty-eight;
+“Board” means the National Education Advisory Board established in terms of section twenty-eight;
 
-'child  of  school-going  age'  means  a  child  of  an  age  within  such  limits  as  may  be prescribed;
+“child of school-going age” means a child of an age within such limits as may be prescribed;
 
-'fixed date' means the 8th June, 1987;
+“fixed date” means the 8th June, 1987;
 
-'Government school' means a school administered and controlled by the Ministry;
+“Government school” means a school administered and controlled by the Ministry;
 
-'hostel', in relation to a school,  means  any  building  used  for  the  boarding accommodation of pupils or students attending such school;
+“hostel”, in relation to a school, means any building used for the boarding accommodation of pupils or students attending such school;
 
-'Minister'  means  the  Minister  of  Education  or  any  other  Minister  to  whom  the President  may,  from  time  to  time,  assign  the  administration  of  this  Act,  and 'Ministry' shall be construed accordingly;
+“Minister” means the Minister of Education or any other Minister to whom the President may, from time to time, assign the administration of this Act, and “Ministry” shall be construed accordingly;
 
-'non-Government  school'  means  any  school  which  is  not  a  Government  school, whether or not it receives aid from the State;
+“non-Government school” means any school which is not a Government school, whether or not it receives aid from the State;
 
-'nursery school' means an institution which provides for early childhood education and care and the physical, mental and social development of children who are not old enough to be enrolled at a primary school;
+“nursery school” means an institution which provides for early childhood education and care and the physical, mental and social development of children who are not old enough to be enrolled at a primary school;
 
-'parent', in relation to a pupil or child, includes a guardian or any other person who has the duty to maintain the pupil or child;
+“parent”, in relation to a pupil or child, includes a guardian or any other person who has the duty to maintain the pupil or child;
 
-'registered',  in  relation  to  a  school,  means  registered  or  provisionally  registered  in terms of section fifteen;
+“registered”, in relation to a school, means registered or provisionally registered in terms of section fifteen;
 
-'responsible  authority',  in  relation  to  or  a  school,  means  the  person,  body  or organization responsible for the establishment and management of the school;
+“responsible authority”, in relation to a school, means the person, body or organization responsible for the establishment and management of the school;
 
-'school' means an institution, other than a correspondence college, recognized by the Ministry, which provides school education;
+“school” means an institution, other than a correspondence college, recognized by the Ministry, which provides school education;
 
-'school development committee' means a school development committee established in terms of section thirty-six;
+“school development committee” means a school development committee established in terms of section thirty-six;
 
-'school education' means primary or secondary education for children comprising a complete range of suitable  full-time  instruction  and  activities,  having  regard  to  the age and sex of the children;
+“school education” means primary or secondary education for children comprising a complete range of suitable full-time instruction and activities, having regard to the age and sex of the children;
 
-'school year' means the period of twelve months ending on the 31st December of each year;
+“school year” means the period of twelve months ending on the 31st December of each year;
 
-'Secretary' means the Secretary of the Ministry for which the Minister is responsible;
+“Secretary” means the Secretary of the Ministry for which the Minister is responsible;
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-'teacher' includes a head of a school;
+“teacher” includes a head of a school;
 
-'term' means any one of the periods into which the teaching school year is divided.
+“term” means any one of the periods into which the teaching school year is divided.
 
 #### 3          Application
 
-(1) This Act shall not apply to-
+(1) This Act shall not apply to—
 
 (a)        the University of Zimbabwe; or
 
-(b)        any institution which is established, administered and controlled-
+(b)        any institution which is established, administered and controlled—
 
 (i)         under any other enactment; or
 
 (ii)        by any Department or Ministry of State, other than the Ministry; or
 
-(c)         any  institution  which  provides  education  which  is  solely  religious, social or recreational.
+(c)         any institution which provides education which is solely religious, social or recreational.
 
 (2)  The  Minister  may,  at  the  written  request  of  the  responsible  authority  of  any school,  and  subject  to  such  conditions  as  he  may  specify  by  statutory  instrument, exempt such school from all or any provisions of this Act that would otherwise apply to such school, and may, by like notice, vary or revoke such exemption.
 
@@ -290,41 +290,41 @@ In this Act-
 
 ### FUNDAMENTAL RIGHTS AND OBJECTIVES OF EDUCATION IN ZIMBABWE
 
-#### 4          Children's fundamental right to education in Zimbabwe
+#### 4          Children’s fundamental right to education in Zimbabwe
 
-(1)  Notwithstanding anything to the contrary contained in any other enactment, but subject to this Act, every child in Zimbabwe shall have the right to school education.
+(1) Notwithstanding anything to the contrary contained in any other enactment, but subject to this Act, every child in Zimbabwe shall have the right to school education.
 
-(2)  Subject to subsection (5), no child in Zimbabwe shall-
+(2) Subject to subsection (5), no child in Zimbabwe shall—
 
 (a)        be refused admission to any school; or
 
-(b)         be  discriminated  against  by  the  imposition  of  onerous  terms  and conditions in regard to his admission to any school;
+(b)        be discriminated against by the imposition of onerous terms and conditions in regard to his admission to any school;
 
 on the grounds of his race, tribe, place of origin, national or ethnic origin, political opinions, colour, creed or gender.
 
-(3)  For  the  purposes  of  subsection  (2),  a  term  or  condition  shall  be  deemed  to  be onerous if it requires the child upon whom it is imposed or the child's parent-
+(3) For the purposes of subsection (2), a term or condition shall be deemed to be onerous if it requires the child upon whom it is imposed or the child’s parent—
 
 (a)        to do anything; or
 
 (b)        to possess some quality, attribute, asset or property;
 
-which is not required to be done or possessed by children or parents, as the case may be,  of  a  different  race,  tribe,  place  of  origin,  national  or  ethnic  origin,  political opinion, colour, creed or gender.
+which is not required to be done or possessed by children or parents, as the case may be, of a different race, tribe, place of origin, national or ethnic origin, political opinion, colour, creed or gender.
 
-(4)  Any  person  who  contravenes  subsection  (2)  shall  be  guilty  of  an  offence  and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment.
+(4) Any person who contravenes subsection (2) shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment.
 
 [amended by Act 22 of 2001 with effect from the 10th September, 2002.]
 
-(5)  It shall be a defence in any criminal proceedings for an offence under subsection (2) for the accused person to show that, though he committed the act alleged against him-
+(5) It shall be a defence in any criminal proceedings for an offence under subsection (2) for the accused person to show that, though he committed the act alleged against him—
 
-(a)        he committed the act on the grounds of the creed of the child against whom  the  act  was  committed,  but  he  did  so  because  the  school  concerned  is controlled  by  a  bona  fide  religious  organization  and  members  of  that  religious organization or adherents of a particular religious belief are accorded preference in admission to that school; or
+(a)        he committed the act on the grounds of the creed of the child against whom the act was committed, but he did so because the school concerned is controlled by a bona fide religious organization and members of that religious organization or adherents of a particular religious belief are accorded preference in admission to that school; or
 
-(b)        he committed the act on the grounds of the gender of the child against whom the act was committed, but-
+(b)        he committed the act on the grounds of the gender of the child against whom the act was committed, but—
 
-(i)          the  act  was  reasonably  justified in view of physiological differences between children of different gender; or
+(i)          the act was reasonably justified in view of physiological differences between children of different gender; or
 
-(ii)         the  act  was  reasonably  necessary  in  the  interests  of  defence,  public safety or public morality; or
+(ii)         the act was reasonably necessary in the interests of defence, public safety or public morality; or
 
-(iii)        the  act  was  reasonably  justified  because  the  school  concerned  was reserved for the admission of children of one gender and the child against whom the act was committed is of the other gender.
+(iii)        the act was reasonably justified because the school concerned was reserved for the admission of children of one gender and the child against whom the act was committed is of the other gender.
 
 #### 5          Compulsory education
 It is the objective in Zimbabwe that primary education for every child of school-going age shall be compulsory and to this end it shall be the duty of the parents of any such child to ensure that such child attends primary school.
@@ -351,19 +351,19 @@ For  the  purpose  of  ensuring  a  fair  and  equitable  provision  of  primary
 
 #### 9          Classification of schools
 
-(1) Schools in Zimbabwe shall be classified-
+(1) Schools in Zimbabwe shall be classified—
 
 (a)        as either Government schools or non-Government schools; and
 
-(b)         in  such  other  categories  as  the  Minister  may  determine,  taking  into account the social and economic standards of the communities in which the schools concerned are situated.
+(b)        in such other categories as the Minister may determine, taking into account the social and economic standards of the communities in which the schools concerned are situated.
 
-(2) The Minister may at any time-
+(2) The Minister may at any time—
 
 (a)        amend or vary any category into which schools are classified in terms of paragraph (b) of subsection (1); or
 
-(b)         reclassify  any  school  that  has  been  classified  in  terms  of  subsection (1).
+(b)        reclassify any school that has been classified in terms of subsection (1).
 
-#### 10        Children's entitlement to enrolment at schools
+#### 10        Children’s entitlement to enrolment at schools
 
 Every child of school-going age shall be entitled to be enrolled at the Government primary  or  secondary  school,  as  the  case  may  be,  nearest  to  the  place  where  he  is ordinarily resident, unless such primary or secondary school is fully enrolled.
 
@@ -417,15 +417,15 @@ Every child of school-going age shall be entitled to be enrolled at the Governme
 
 (4) In the exercise of the powers conferred upon him by subsection (3), the Secretary may  fix  different  fees  for  different  Government  schools  or  different  categories  of pupils attending such schools.
 
-(5) Notwithstanding anything to the contrary contained in the Audit and Exchequer Act [Chapter 22:03]-
+(5) Notwithstanding anything to the contrary contained in the Audit and Exchequer Act [Chapter 22:03]—
 
-(a)         fees  paid  in  accordance with this section for the benefit of a general purpose fund established for a Government school shall; and
+(a)        fees paid in accordance with this section for the benefit of a general purpose fund established for a Government school shall; and
 
-(b)         any  moneys  donated  to  the  general  purpose  fund  established  for  a Government school, or received by the head of a Government school for the purposes specified in subsection (1), shall; and
+(b)        any moneys donated to the general purpose fund established for a Government school, or received by the head of a Government school for the purposes specified in subsection (1), shall; and
 
 (c)        contributions made by pupils of a Government school towards the cost of purchasing materials for practical subjects may; and
 
-(d)         moneys  received  on  account  of  the  sale  of  articles  made  at  a Government school from materials provided at the expense of the State shall;
+(d)        moneys received on account of the sale of articles made at a Government school from materials provided at the expense of the State shall;
 
 be paid into the general purpose fund established for that Government school.
 
@@ -445,7 +445,7 @@ be paid into the general purpose fund established for that Government school.
 
 (3) Upon receipt of an application in terms of subsection (2), the Secretary shall make such inquiries as he considers necessary in order to determine the application.
 
-(4)  If  in  respect  of  an  application  referred  to  in  subsection  (2)  the  Secretary  is satisfied that-
+(4) If in respect of an application referred to in subsection (2) the Secretary is satisfied that—
 
 (a)        the school premises, including any hostel or other buildings to be used in  connection  with  the  instruction  or  accommodation  of  the  pupils  attending  the school, are suitable or adequate for the purpose, having regard to the number, ages and sex of the pupils; and
 
@@ -459,7 +459,7 @@ be paid into the general purpose fund established for that Government school.
 
 he shall grant the application and register the school.
 
-(5)  If  in  respect  of  an  application  referred  to  in  subsection  (2)  the  Secretary  is  not satisfied as to any matter referred to in paragraph (a), (b), (c), (d) or (e) of subsection (4), he may-
+(5) If in respect of an application referred to in subsection (2) the Secretary is not satisfied as to any matter referred to in paragraph (a), (b), (c), (d) or (e) of subsection (4), he may—
 
 (a)        reject the application; or
 
@@ -489,7 +489,7 @@ Where the Secretary is of the opinion that adequate educational facilities alrea
 
 #### 18        Appeals in relation to registration of schools
 
-(1) A responsible authority who is aggrieved by a decision of the Secretary-
+(1) A responsible authority who is aggrieved by a decision of the Secretary—
 
 (a)        to reject an application for the registration of a school; or
 
@@ -517,21 +517,21 @@ No non-Government school shall be operated on any premises other than the premis
 
 #### 21        Fees payable at non-Government schools
 
-(1) No responsible authority shall-
+(1) No responsible authority shall—
 
 (a)        charge any fee or levy; or
 
-(b)         increase  any  fee  or  levy  by  more  than  the  prescribed  amount  or percentage in any period of twelve months;
+(b)        increase any fee or levy by more than the prescribed amount or percentage in any period of twelve months;
 
 in respect of any pupil attending a non-Government school, unless the fee or levy or increase therein, as the case may be, has been approved by the Secretary.
 
-(2) Any responsible authority who wishes to obtain approval for any fee or levy or increase therein in terms of subsection (1) shall make application to the Secretary in writing,  setting  out  the  full  details  of  the  proposed  fee  or  increase  therein,  and  the basis of calculation thereof.
+(2) Any responsible authority who wishes to obtain approval for any fee or levy or increase therein in terms of subsection (1) shall make application to the Secretary in writing, setting out the full details of the proposed fee or increase therein, and the basis of calculation thereof.
 
-(3)  The  Secretary  shall,  without  delay,  consider  any  application  made  in  terms  of subsection (2) and, if he is satisfied that the proposed fee or levy or increase therein is fair and reasonable, having regard to-
+(3) The Secretary shall, without delay, consider any application made in terms of subsection (2) and, if he is satisfied that the proposed fee or levy or increase therein is fair and reasonable, having regard to—
 
 (a)        the costs of operating and maintaining the school; and
 
-(b)         any  programme  for  improving  the  facilities  provided  at  the  school; and
+(b)        any programme for improving the facilities provided at the school; and
 
 (c)        any representations made by or on behalf of parents or pupils relating to the proposed fee or levy or increase therein; and
 
@@ -541,7 +541,7 @@ he shall grant the application.
 
 (4) If, after due consideration, the Secretary is not satisfied in respect of any of the matters specified in paragraph (a), (b), (c) or (d) of subsection (3), he shall refuse the application.
 
-(5) If at any time the Secretary is satisfied that-
+(5) If at any time the Secretary is satisfied that—
 
 [[END OF PAGE 8]]
 
@@ -549,13 +549,13 @@ he shall grant the application.
 
 (a)         his  approval  of  any  fee  or  levy  or  increase  therein  was  granted  in terms of subsection (1) on the basis of false or incorrect information supplied by the responsible authority of the non-Government school concerned; or
 
-(b)        amounts received by a responsible authority by way of any fee or levy or increase therein approved in terms of subsection (1) have not been applied-
+(b)        amounts received by a responsible authority by way of any fee or levy or increase therein approved in terms of subsection (1) have not been applied—
 
-(i)         to any purpose which was specified by the responsible authority in the application  in  terms  of  subsection  (2)  as  the  purpose  to  which  the  fee  or  levy  or increase therein, as the case may be, would be applied; or
+(i)         to any purpose which was specified by the responsible authority in the application in terms of subsection (2) as the purpose to which the fee or levy or increase therein, as the case may be, would be applied; or
 
-(ii)         in  the  interests  of  pupils  attending  the  non-Government  school concerned;
+(ii)        in the interests of pupils attending the non-Government school concerned;
 
-the Secretary may, by written notice to the responsible authority concerned, do any one or more of the following-
+the Secretary may, by written notice to the responsible authority concerned, do any one or more of the following—
 
 (i)         revoke his approval of the fee or levy or increase therein;
 
@@ -585,17 +585,17 @@ The head of every non-Government school shall keep and maintain such accounts an
 
 #### 24        Other Government educational institutions
 
-The Minister may-
+The Minister may—
 
-(a)         establish  and  maintain  such  other  educational  institutions,  including correspondence schools or classes for the teaching of any subject which forms part of school  education,  as  he  may  deem  necessary  or  desirable  for  the  discharge  of  his functions in terms of this Act; and
+(a)        establish and maintain such other educational institutions, including correspondence schools or classes for the teaching of any subject which forms part of school education, as he may deem necessary or desirable for the discharge of his functions in terms of this Act; and
 
-(b)         if  he  considers  it  appropriate for the purpose of the discharge of his functions  referred  to  in  paragraph  (a),  close  or  change  the  site  of  any  institution established in terms of that paragraph; and
+(b)        if he considers it appropriate for the purpose of the discharge of his functions referred to in paragraph (a), close or change the site of any institution established in terms of that paragraph; and
 
-(c)         make  regulations  for  the  efficient  administration  of  any  institution established  in  terms  of  paragraph  (a),  including  the  provision  of  correspondence courses by the Ministry.
+(c)        make regulations for the efficient administration of any institution established in terms of paragraph (a), including the provision of correspondence courses by the Ministry.
 
 #### 25        Adult education
 
-The Minister may provide facilities for-
+The Minister may provide facilities for—
 
 (a)        the teaching of; or
 
@@ -609,7 +609,7 @@ The Minister may provide facilities for-
 
 [[START OF PAGE 10]]
 
-- In the exercise of the powers conferred upon him by subsection (1) the Minister may fix different fees for different categories of persons.
+(2) In the exercise of the powers conferred upon him by subsection (1) the Minister may fix different fees for different categories of persons.
 
 (3) The Minister may grant such rebates, refunds or remissions, whether in whole or in part, of the fees payable in terms of this section as he may consider necessary.
 
@@ -619,15 +619,15 @@ The Minister may provide facilities for-
 
 #### 27        Regulation of nursery schools
 
-The Minister may, in terms of section sixty-nine, make regulations-
+The Minister may, in terms of section sixty-nine, make regulations—
 
 (a)        requiring nursery schools to be registered;
 
-(b)         providing,  in  relation  to  nursery  schools,  for  the  fixing  of  curricula and the standards of tuition, premises and matters relating thereto;
+(b)        providing, in relation to nursery schools, for the fixing of curricula and the standards of tuition, premises and matters relating thereto;
 
 (c)        prohibiting the teaching in nursery schools of any subject commonly taught in a school;
 
-(d)        providing for-
+(d)        providing for—
 
 (i)         the cancellation of the registration of nursery schools;
 
@@ -651,7 +651,7 @@ Provided that the Minister shall ensure that local authorities, church organizat
 
 #### 30        Disqualifications for membership of Board
 
-(1) A person shall not be appointed as a member of the Board, and no person shall be qualified to hold office as a member, if-
+(1) A person shall not be appointed as a member of the Board, and no person shall be qualified to hold office as a member, if—
 
 (a)         he  has been adjudged or otherwise declared insolvent or bankrupt in terms of a law in force in any country, and has not been rehabilitated or discharged; or
 
@@ -675,31 +675,31 @@ Provided that a member shall not continue to hold office in terms of this subsec
 
 (3) Members of the Board shall hold office on such conditions as the Minister may fix:
 
-Provided that-
+Provided that—
 
-(i)          in  fixing  the  remuneration  and  allowances  payable  to  members,  the Minister shall obtain the approval of the Minister responsible for finance;
+(i)          in fixing the remuneration and allowances payable to members, the Minister shall obtain the approval of the Minister responsible for finance;
 
 (ii)        members who are in the full-time employment of the State, a statutory body or a local authority shall not be entitled to remuneration or allowances in respect of their service on the Board.
 
 #### 32        Vacation of office by members and filling of vacancies
 
-(1)  A  member  of  the  Board  shall  vacate  his  office  and  his  office  shall  become vacant-
+(1) A member of the Board shall vacate his office and his office shall become vacant—
 
 (a)        after giving the Minister such period of notice of intention to resign as may be fixed in his conditions of service or, if no such period has been fixed, after the expiry of one month from the date he gives such notice, or after the expiry of such other period as he and the Minister may agree; or
 
-(b)        on the date he begins to serve a sentence of imprisonment the term of which is not less ,than six months, whether or not any portion has been suspended, imposed without the option of a fine in any country; or
+(b)        on the date he begins to serve a sentence of imprisonment the term of which is not less than six months, whether or not any portion has been suspended, imposed without the option of a fine in any country; or
 
 (c)        if he becomes disqualified in terms of section thirty to hold office as a member; or
 
 (d)        if he is required in terms of subsection (2) or (3) to vacate his office.
 
-(2) The Minister, after consulting the Board, may require any member of the Board to vacate his office if the member-
+(2) The Minister, after consulting the Board, may require any member of the Board to vacate his office if the member—
 
 (a)        has been guilty of conduct which renders him unsuitable to continue to hold office as a member; or
 
 (b)        has failed to comply with any conditions of his office fixed in terms of section thirty-one; or
 
-(c)         is  mentally  or  physically  incapable  of  efficiently  exercising  his functions as a member.
+(c)        is mentally or physically incapable of efficiently exercising his functions as a member.
 
 (3) The Minister, on the recommendation of the Board, may require any member of the Board to vacate his office if the Minister is satisfied that the member has been absent without the permission of the chairman of the Board from three consecutive meetings of the Board, of which he has been given not less than seven days' notice, and that there was no just cause for the member's absence.
 
@@ -743,37 +743,37 @@ Provided that the Minister shall ensure that so far as possible local authoritie
 
 #### 35        Grants to schools, colleges, etc.
 
-(1) Subject to this section, the Minister-
+(1) Subject to this section, the Minister—
 
 (a)        shall, in respect of each school year, make a grant to or in respect of every registered school; and
 
-(b)        may make a grant-
+(b)        may make a grant—
 
-(i) to or in respect of any  registered correspondence  college  or independent college referred to in Part X;
+(i)         to or in respect of any registered correspondence college or independent college referred to in Part X;
 
-(ii)         to  any  group  of  students  which  the  Minister  is  satisfied  is  properly organized  by  the  responsible  authority  of  any  school  and  which  meets  in  suitable premises to study by correspondence with or without the assistance of a teacher;
+(ii)        to any group of students which the Minister is satisfied is properly organized by the responsible authority of any school and which meets in suitable premises to study by correspondence with or without the assistance of a teacher;
 
 (iii)       in respect of any work in furtherance of education.
 
-(2) A grant referred to in subsection (1) shall be of such amount as the Minister, after consultation  with  the  Minister  responsible  for  finance,  may  fix  in  respect  of  each school, college, group or person or any class thereof:
+(2) A grant referred to in subsection (1) shall be of such amount as the Minister, after consultation with the Minister responsible for finance, may fix in respect of each school, college, group or person or any class thereof:
 
-Provided  that  any  differentiation  in  the  grants  paid  to  or  in  respect  of  different registered  schools  in  terms  of  paragraph  (a)  of  subsection  (1)  shall  be  directed towards  redressing,  where  practicable,  inequalities  in  the  financial  resources  of  the responsible authorities of the schools concerned.
+Provided that any differentiation in the grants paid to or in respect of different registered schools in terms of paragraph (a) of subsection (1) shall be directed towards redressing, where practicable, inequalities in the financial resources of the responsible authorities of the schools concerned.
 
-(3) A grant referred to in subsection (1) shall be disbursed-
+(3) A grant referred to in subsection (1) shall be disbursed—
 
-(a)         to  such  school  development  committee  as  may  be  approved  by  the Minister; or
+(a)        to such school development committee as may be approved by the Minister; or
 
-(b)         to  such  other  person  and  in  such  manner  and  subject  to  such conditions;
+(b)        to such other person and in such manner and subject to such conditions;
 
 as the Minister may determine in each individual case.
 
 (4) A grant made to or in respect of a registered school in terms of paragraph (a) of subsection (1) shall be made within four months of the commencement of the school year to which it relates:
 
-Provided that the Minister may authorize the payment in advance, not being earlier than sixty days before the commencement of the teaching period in the appropriate school year, of such part of the amount of the grant as represents-
+Provided that the Minister may authorize the payment in advance, not being earlier than sixty days before the commencement of the teaching period in the appropriate school year, of such part of the amount of the grant as represents—
 
-(a)         in  the  case  where such a grant was made to the school concerned in respect of the preceding school year, seventy per centum of the amount so granted in respect of that school year;
+(a)        in the case where such a grant was made to the school concerned in respect of the preceding school year, seventy per centum of the amount so granted in respect of that school year;
 
-(b)         in  any  case  not  referred  to  in  paragraph  (a),  a  sum  not  exceeding seventy per centum of such amount as may appear to the Minister to be a reasonable estimate  of  the  expenditure  which  is  anticipated  to  be  incurred  by  the  school concerned  within  four  months  of  the  commencement  of  the  teaching  period  in  the appropriate school year.
+(b)        in any case not referred to in paragraph (a), a sum not exceeding seventy per centum of such amount as may appear to the Minister to be a reasonable estimate of the expenditure which is anticipated to be incurred by the school concerned within four months of the commencement of the teaching period in the appropriate school year.
 
 [[END OF PAGE 12]]
 
@@ -793,9 +793,9 @@ Provided that the Minister may authorize the payment in advance, not being earli
 
 #### 37        Expenses of administration, etc.
 
-(1) All moneys necessary for the purposes of this Act shall, subject to the fourteen, be paid out of moneys appropriated for the purpose by Parliament.
+(1) All moneys necessary for the purposes of this Act shall, subject to section fourteen, be paid out of moneys appropriated for the purpose by Parliament.
 
-(2)  Nothing contained in subsection (1) shall preclude the Minister, in consultation with the Minister responsible for finance, from receiving, administering and spending on education, moneys from charitable bequests or from any other source whatsoever intended by the donors to be utilized for that purposes.
+(2) Nothing contained in subsection (1) shall preclude the Minister, in consultation with the Minister responsible for finance, from receiving, administering and spending on education, moneys from charitable bequests or from any other source whatsoever intended by the donors to be utilized for that purpose.
 
 #### 38        Fees to be paid into Consolidated Revenue Fund
 
@@ -807,15 +807,15 @@ Subject  to  section  fourteen  all  fees  paid  for  educational  facilities  p
 
 #### 39        Interpretation and application of this Part
 
-(1) In this Part-
+(1) In this Part—
 
-'Register' means the Register referred to in section forty-one;
+“Register” means the Register referred to in section forty-one;
 
-'Registrar'  means  the  Registrar  of  Correspondence  and  Independent  Colleges referred to in section forty;
+“Registrar” means the Registrar of Correspondence and Independent Colleges referred to in section forty;
 
-'correspondence  college'  means  any  person,  other  than  a  Government  educational institution, who operates or maintains any educational course or provides tuition by correspondence for reward;
+“correspondence college” means any person, other than a Government educational institution, who operates or maintains any educational course or provides tuition by correspondence for reward;
 
-'independent  college'  means  any  educational  institution,  other  than  a  Government educational institution, which maintains, manages or conducts any educational course or provides face-to-face tuition for reward for students who have completed primary education or have attained the age of sixteen years, whichever is the earlier, but does not include a school.
+“independent college” means any educational institution, other than a Government educational institution, which maintains, manages or conducts any educational course or provides face-to-face tuition for reward for students who have completed primary education or have attained the age of sixteen years, whichever is the earlier, but does not include a school.
 
 (2)  This  Part  shall  not  apply  to  any  correspondence  college  or  independent  college which  the  Minister  has  by  statutory  instrument  declared  to  be  exempted  from  this Part.
 
@@ -827,7 +827,7 @@ There shall be a Registrar of Correspondence and Independent Colleges whose offi
 
 (1) The Registrar shall establish and maintain a register of correspondence colleges and independent colleges.
 
-(2) It shall be the duty of the Registrar to-
+(2) It shall be the duty of the Registrar to—
 
 [[END OF PAGE 13]]
 
@@ -845,17 +845,17 @@ and generally in connection with the Register to comply with this Act and with a
 
 #### 42        Prohibition of unregistered correspondence colleges and independent colleges and certain advertisements
 
-No person shall-
+(1) No person shall—
 
-(a)        establish, operate or maintain a correspondence college or independent college for reward within Zimbabwe,  unless such correspondence college or independent college is registered in terms of this Act; or
+(a)        establish, operate or maintain a correspondence college or independent college for reward within Zimbabwe, unless such correspondence college or independent college is registered in terms of this Act; or
 
-(b)        publish or cause to be published in any publication circulating mainly within  Zimbabwe  any  advertisement  in  relation  to  a  correspondence  college  or independent college which is not registered in terms of this Act; or
+(b)        publish or cause to be published in any publication circulating mainly within Zimbabwe any advertisement in relation to a correspondence college or independent college which is not registered in terms of this Act; or
 
-(c)        broadcast or exhibit or cause to be broadcast or exhibited to the public view in any place within Zimbabwe, or send or cause to be sent through the post to any  address  within  Zimbabwe,  any  advertisement  relating  to  a  correspondence college or independent college which is not registered in terms of this Act.
+(c)        broadcast or exhibit or cause to be broadcast or exhibited to the public view in any place within Zimbabwe, or send or cause to be sent through the post to any address within Zimbabwe, any advertisement relating to a correspondence college or independent college which is not registered in terms of this Act.
 
 (2) For the purposes of subsection (1) a person shall be deemed to operate or maintain a correspondence college within Zimbabwe if he supplies a correspondence course or provides tuition by correspondence to a person who is resident in Zimbabwe.
 
-(3)  Any  person  who  contravenes  subsection  (1)  shall  be  guilty  of  an  offence  and liable to a fine not exceeding level six.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level six.
 
 [amended by Act 22 of 2001 with effect from the 10th September, 2002.]
 
@@ -863,27 +863,29 @@ No person shall-
 
 (1)  Any  person  who  wishes  to  establish,  operate  or  maintain  any  correspondence college  or  independent  college,  for  reward  within  Zimbabwe,  shall  make  a  written application  to  the  Secretary  for  the  registration  of  such  correspondence  college  or independent college, as the case may be, under this Act.
 
-(2) An application in terms of subsection (1) shall-
+(2) An application in terms of subsection (1) shall—
 
 (a)        be made in the prescribed form; and
 
 (b)        be accompanied by the prescribed fee:
 
-Provided that the Minister may, in any deserving case, waive the payment of such fee. (3) If in relation to an application in terms of subsection (1), the Secretary is satisfied that-
+Provided that the Minister may, in any deserving case, waive the payment of such fee.
+
+(3) If in relation to an application in terms of subsection (1), the Secretary is satisfied that—
 
 (a)        the application is bona fide; and
 
 (b)        there is a need for the correspondence college or independent college concerned; and
 
-(c)         the  financial  resources  of  the  applicant  are  sufficient  for  the  proper conduct  of  the  affairs  of  the  correspondence  college  or  independent  college  in accordance with the provisions of this Act;
+(c)        the financial resources of the applicant are sufficient for the proper conduct of the affairs of the correspondence college or independent college in accordance with the provisions of this Act;
 
-he shall grant the application and register the correspondence college or independent college,  specifying  the  scope  of  its  registration,  and  issue  to  it  a  certificate  of registration in the prescribed form.
+he shall grant the application and register the correspondence college or independent college, specifying the scope of its registration, and issue to it a certificate of registration in the prescribed form.
 
-(4)  The  Secretary  shall  not  register  any  correspondence  college  or  independent college-
+(4) The Secretary shall not register any correspondence college or independent college—
 
 (a)        if he has reasonable grounds for believing that the application for its registration does not meet the requirements of subsection (3); or
 
-(b)        whose previous registration was cancelled-
+(b)        whose previous registration was cancelled—
 
 (i)         in terms of paragraph (a) of subsection (1) of section fifty, unless the
 
@@ -905,41 +907,41 @@ annual registration fee owed by such college has been fully paid; or
 
 (b)        every registered independent college shall pay to the Secretary for the benefit of the Independent Colleges Guarantee Fund;
 
-such annual guarantee fund as may be prescribed.
+such annual guarantee fund fee as may be prescribed.
 
 #### 45        Correspondence Colleges Guarantee Fund
 
 (1) The fund established in terms of section 37 of the Correspondence Colleges Act [Chapter 81 of 1974] shall on and after the fixed date continue in existence and shall be known as the Correspondence Colleges Guarantee Fund.
 
-(2) The moneys of the fund referred to in subsection (1) shall consist of-
+(2) The moneys of the fund referred to in subsection (1) shall consist of—
 
-(a)         the  moneys  which  had  accrued  to  and  had  formed  part  of  the  fund before the fixed date;
+(a)        the moneys which had accrued to and had formed part of the fund before the fixed date;
 
 (b)        the fees which have been paid for the benefit of the fund in terms of subsection (2) of section forty-four;
 
-(c)         any  other  moneys  that  may  accrue  to  the  fund  by  way  of  grants, donations or otherwise.
+(c)        any other moneys that may accrue to the fund by way of grants, donations or otherwise.
 
-(3) The fund referred to in subsection (1) shall vest in the Minister and shall, subject to his general or specific direction, be applied-
+(3) The fund referred to in subsection (1) shall vest in the Minister and shall, subject to his general or specific direction, be applied—
 
-(a)         to  defray  any  expenses  that  may  be  incurred  by  the  Secretary  in ensuring  that  acceptable  standards  of  education  are  maintained  in  all  registered correspondence colleges; and
+(a)        to defray any expenses that may be incurred by the Secretary in ensuring that acceptable standards of education are maintained in all registered correspondence colleges; and
 
-(b)         to  refund,  wholly or partly, to students any fees paid by them in the event of insolvency of any correspondence college to which such fees have been paid, or in the event of failure by such college for whatever reason to meet its obligations to its students.
+(b)        to refund, wholly or partly, to students any fees paid by them in the event of insolvency of any correspondence college to which such fees have been paid, or in the event of failure by such college for whatever reason to meet its obligations to its students.
 
 #### 46        Independent Colleges Guarantee Fund
 
 (1)  There  is  hereby  established  a  fund  to  be  known  as  the  Independent  Colleges Guarantee Fund.
 
-(2) The moneys of the fund referred to in subsection (1) shall consist of-
+(2) The moneys of the fund referred to in subsection (1) shall consist of—
 
 (a)        the fees which have been paid for the benefit of the fund in terms of subsection (2) of section forty-four;
 
-(b)         any  other  moneys  that  may  accrue  to  the  fund  by  way  of  grants, donations or otherwise.
+(b)        any other moneys that may accrue to the fund by way of grants, donations or otherwise.
 
-(3) The fund referred to in subsection (1) shall vest in the Minister and shall, subject to his general or specific direction, be applied-
+(3) The fund referred to in subsection (1) shall vest in the Minister and shall, subject to his general or specific direction, be applied—
 
-(a)         to  defray  any  expenses  that  may  be  incurred  by  the  Secretary  in ensuring  that  acceptable  standards  of  education  are  maintained  in  all  registered independent colleges; and
+(a)        to defray any expenses that may be incurred by the Secretary in ensuring that acceptable standards of education are maintained in all registered independent colleges; and
 
-(b)         to  refund,  wholly or partly, to students any fees paid by them in the event  of  insolvency  of  any  registered  independent  college  to  which  such  fees  have been paid, or in the event of failure by such college for whatever reason to meet its obligations to its students.
+(b)        to refund, wholly or partly, to students any fees paid by them in the event of insolvency of any registered independent college to which such fees have been paid, or in the event of failure by such college for whatever reason to meet its obligations to its students.
 
 #### 47        Accounts and audit of funds
 
@@ -953,21 +955,23 @@ such annual guarantee fund as may be prescribed.
 
 #### 48        Variation of scope of registration otherwise than at request of correspondence college or independent college
 
-(1) If at any time the Secretary has reason to believe that a registered correspondence college  or  independent  college  is  no  longer  able  to  provide  tuition  in  respect  of  a qualification, course or subject for which it is registered, he may serve notice upon that college-
+(1) If at any time the Secretary has reason to believe that a registered correspondence college or independent college is no longer able to provide tuition in respect of a qualification, course or subject for which it is registered, he may serve notice upon that college—
 
 (a)        to engage suitably qualified staff within such reasonable period as he may specify; or
 
-(b)         to  take such other measures as will ensure the provision of adequate tuition; or
+(b)        to take such other measures as will ensure the provision of adequate tuition; or
 
-(c)        to show cause why the scope of its registration should not be varied. (2) If a registered correspondence college or independent college has received notice in terms of subsection (1) and fails-
+(c)        to show cause why the scope of its registration should not be varied.
+
+(2) If a registered correspondence college or independent college has received notice in terms of subsection (1) and fails—
 
 (a)        to engage suitably qualified staff within the specified period; or
 
-(b)         to  take such other measures as will ensure the provision of adequate tuition; or
+(b)        to take such other measures as will ensure the provision of adequate tuition; or
 
 (c)        to satisfy the Secretary why the scope of its registration should not be varied;
 
-the Secretary may, subject to section fifty vary the scope of the registration of such correspondence college or independent college so that it complies with the range of qualifications, courses or subjects for which that college is able to provide suitably qualified staff or adequate tuition.
+the Secretary may, subject to section fifty, vary the scope of the registration of such correspondence college or independent college so that it complies with the range of qualifications, courses or subjects for which that college is able to provide suitably qualified staff or adequate tuition.
 
 #### 49         Variation  of  scope  of  registration  at  request  of  correspondence  college  or independent college
 
@@ -975,25 +979,25 @@ The  Secretary  may,  on  the  application  of  a  registered  correspondence  c
 
 #### 50        Cancellation of registration
 
-(1) The Secretary shall cancel the registration of a registered correspondence college or independent college-
+(1) The Secretary shall cancel the registration of a registered correspondence college or independent college—
 
-(a)         if  such  college  fails  to  pay  the  annual  registration  fee  within  three months after the date referred to in subsection (1) of section forty-four, or within such further period as the Secretary may in any particular case allow; or
+(a)        if such college fails to pay the annual registration fee within three months after the date referred to in subsection (1) of section forty-four, or within such further period as the Secretary may in any particular case allow; or
 
 (b)        if he has reason to believe that such college has ceased to operate as a correspondence college or independent college within Zimbabwe; or
 
-(c)         if  he  is  directed  by  the  Minister  to  cancel  the  registration  of  such college on the grounds of dishonesty or fraud; or
+(c)        if he is directed by the Minister to cancel the registration of such college on the grounds of dishonesty or fraud; or
 
-(d)         if  he  has  reason  to  believe  that  the  college  no  longer  provides satisfactory educational services.
+(d)        if he has reason to believe that the college no longer provides satisfactory educational services.
 
-(2) Before exercising the power conferred upon him by subsection (1), the Secretary shall give to the correspondence college or independent college concerned at least one month's notice in writing of his intention to cancel the registration of such college, and invite from the college within a period specified by the Secretary representations in writing as to why such registration should not be cancelled.
+(2) Before exercising the power conferred upon him by subsection (1), the Secretary shall give to the correspondence college or independent college concerned at least one month’s notice in writing of his intention to cancel the registration of such college, and invite from the college within a period specified by the Secretary representations in writing as to why such registration should not be cancelled.
 
 (3) The Secretary shall give due consideration to any representations made in terms of subsection (2).
 
-(4) If the Secretary cancels the registration of a correspondence college or independent college in terms of subsection (1)-
+(4) If the Secretary cancels the registration of a correspondence college or independent college in terms of subsection (1)—
 
 (a)        he shall forthwith notify such college in writing accordingly; and
 
-(b)         he  shall  in  writing request such college to return to him within such
+(b)        he shall in writing request such college to return to him within such
 
 [[END OF PAGE 16]]
 
@@ -1007,23 +1011,23 @@ period,  not  being  less  than  seven  days,  as  he  may  specify,  the  certi
 
 #### 51        Appeals against decision of Secretary
 
-(1) If-
+(1) If—
 
-(a)        a college is aggrieved by a decision of the Secretary-
+(a)        a college is aggrieved by a decision of the Secretary—
 
 (i)         not to register it as a correspondence college or independent college; or
 
-(ii)         as  to  the  scope  of  its  registration  as  a  correspondence  college  or independent college; or
+(ii)        as to the scope of its registration as a correspondence college or independent college; or
 
-(b) a registered correspondence  college  or independent  college is aggrieved by-
+(b)        a registered correspondence college or independent college is aggrieved by—
 
 (i)         any decision of the Secretary to vary its scope of registration; or
 
 (ii)        any decision of the Secretary to cancel its registration;
 
-that  college  may  appeal  against  such  decision  to  the  Minister,  who  may  give  such decision in the matter as he considers the Secretary ought to have given or he may dismiss appeal.
+that college may appeal against such decision to the Minister, who may give such decision in the matter as he considers the Secretary ought to have given or he may dismiss the appeal.
 
-- Any college, registered correspondence college or independent college which is aggrieved  by  the  decision  of  the  Minister  in  terms  of  subsection  (1)  may  appeal against such decision to the High Court, which may give such decision in the matter as it considers ought to have been given or may dismiss the appeal.
+(2) Any college, registered correspondence college or independent college which is aggrieved by the decision of the Minister in terms of subsection (1) may appeal against such decision to the High Court, which may give such decision in the matter as it considers ought to have been given or may dismiss the appeal.
 
 (3) The lodging of an appeal shall suspend the decision appealed against.
 
@@ -1031,7 +1035,7 @@ that  college  may  appeal  against  such  decision  to  the  Minister,  who  ma
 
 (1) A registered correspondence college or independent college shall have a principal office within Zimbabwe and shall appoint a principal officer for Zimbabwe and shall notify the Secretary in writing of the situation of that office and the name and address of the Principal officer.
 
-- If a registered correspondence college or independent college changes its principal office  or  appoints  a  new  principal  officer  it  shall,  not  later  than  twenty-one  days thereafter, give notice in writing thereof to the Registrar.
+(2) If a registered correspondence college or independent college changes its principal office or appoints a new principal officer it shall, not later than twenty-one days thereafter, give notice in writing thereof to the Registrar.
 
 #### 53        Formation of advisory council
 
@@ -1047,9 +1051,9 @@ Independent  colleges  may  offer  tuition  only  to  students  who  have  compl
 
 #### 55        Interpretation in Part XI
 
-In this Part-
+In this Part—
 
-'Unified Teaching Service' means  the Unified Teaching Service  which  was established in terms of Part VIII of the Education Act, 1979 (No. 8 of 1979).
+“Unified Teaching Service” means the Unified Teaching Service which was established in terms of Part VIII of the Education Act, 1979 (No. 8 of 1979).
 
 #### 56        Abolition of Unified Teaching Service and savings of pension rights
 
@@ -1067,7 +1071,7 @@ Provided  that  the  Minister  may  make  regulations  providing  for  the  amen
 
 #### 57        Transfer of teachers to Public Service
 
-(1)  Every  teacher  who  immediately  before  the  fixed  date  was  a  member  of  the Unified Teaching Service shall, with effect from three months after the fixed date, be transferred to the Public Service unless, before the expiry of that period-
+(1) Every teacher who immediately before the fixed date was a member of the Unified Teaching Service shall, with effect from three months after the fixed date, be transferred to the Public Service unless, before the expiry of that period—
 
 (a)         the  teacher  gives  notice  in  writing  to  the  Secretary  that  he  does  not wish to be transferred to the Public Service; or
 
@@ -1085,13 +1089,13 @@ Every teacher who has transferred to the Public Service in terms of section fift
 
 #### 59        Conditions of service of teachers who do not transfer
 
-(1) The Minister may make regulations governing the conditions of service of every teacher who immediately before the fixed date was a member of the Unified Teaching Service and who has not transferred to the Public Service in terms of section fiftyseven, and for such purposes the Minister shall have the same powers to regulate as he had before the fixed date in relation to the Unified Teaching Service:
+(1) The Minister may make regulations governing the conditions of service of every teacher who immediately before the fixed date was a member of the Unified Teaching Service and who has not transferred to the Public Service in terms of section fifty-seven, and for such purposes the Minister shall have the same powers to regulate as he had before the fixed date in relation to the Unified Teaching Service:
 
 Provided  that  until  the  Minister  does  make  any  such  regulations  the  conditions  of service  fixed  in  terms  of  regulations  which  were  applicable  to  teachers  who  were, immediately before the fixed date, members of the Unified Teaching Service, shall continue to apply to such teachers and such regulations shall be regarded as having been made in terms of this subsection.
 
 (2)  Notwithstanding  subsection  (1),  a  responsible  authority  may  impose  upon  a teacher  in  its  employ  who  is  referred  to  in  subsection  (1)  special  conditions  not inconsistent with any regulations made under subsection (1):
 
-Provided that-
+Provided that—
 
 [[END OF PAGE 18]]
 
@@ -1123,7 +1127,7 @@ Nothing in this Part contained shall be construed as precluding any teacher, whe
 
 #### 62        Languages to be taught in schools
 
-(1)  Subject  to  this  section,  the  three  main  languages  of  Zimbabwe,  namely,  Shona, Ndebele and English, shall be taught in all primary schools from the first grade as follows-
+(1) Subject to this section, the three main languages of Zimbabwe, namely, Shona, Ndebele and English, shall be taught in all primary schools from the first grade as follows—
 
 (a)         Shona  and  English  in  all  areas  where  the  mother  tongue  of  the majority of the residents is Shona; or
 
@@ -1133,7 +1137,7 @@ Nothing in this Part contained shall be construed as precluding any teacher, whe
 
 (3) From the fourth grade, English shall be the medium of instruction:
 
-Provided  that  Shona  or  Ndebele  shall  be  taught  as  subjects  on  an  equal-timeallocation basis as the English language.
+Provided that Shona or Ndebele shall be taught as subjects on an equal-time-allocation basis as the English language.
 
 (4) In areas where minority languages exist, the Minister may authorize the teaching of such languages in primary schools in addition to those specified in subsections (1), (2) and (3).
 
@@ -1143,49 +1147,49 @@ The  Secretary  shall  determine  the  curricula  and  the  examination  system 
 
 #### 64        Health in schools
 
-(1)  The  Minister  may,  after  consultation  with  the  Minister  responsible  for  health, make regulations in terms of section sixty-nine for the purpose of safeguarding the health  of  pupils  or  students  attending,  any  educational  institution  operated  by,  or registered with, the Ministry.
+(1) The Minister may, after consultation with the Minister responsible for health, make regulations in terms of section sixty-nine for the purpose of safeguarding the health of pupils or students attending any educational institution operated by, or registered with, the Ministry.
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-(2) Regulations referred to in subsection (1) may provide for-
+(2) Regulations referred to in subsection (1) may provide for—
 
-(a)         the  appointment  of  Government  medical  officers  or  other  medical practitioners as school medical officers at Government schools and non-Government schools;
+(a)        the appointment of Government medical officers or other medical practitioners as school medical officers at Government schools and non-Government schools;
 
-(b)         the  entry  and  inspection  at  all  reasonable  times  by  a  Government medical officer or other medical practitioner authorized by the Minister of any school, residence  or  hostel  or  other  building  or  premises  whatsoever  at  any  school  or  any lodging-house catering wholly or mainly for students or pupils attending any school;
+(b)        the entry and inspection at all reasonable times by a Government medical officer or other medical practitioner authorized by the Minister of any school, residence or hostel or other building or premises whatsoever at any school or any lodging-house catering wholly or mainly for students or pupils attending any school;
 
 (c)        the closing of schools, residences, hostels or other buildings, premises or lodging-houses referred to in paragraph (b) on the grounds of health;
 
-(d)        the exclusion from any school of a student or pupil-
+(d)        the exclusion from any school of a student or pupil—
 
-(i)          who  is  suffering  or  has  recently  suffered  from  a  communicable disease or has been in contact with a person suffering from such a disease; or
+(i)         who is suffering or has recently suffered from a communicable disease or has been in contact with a person suffering from such a disease; or
 
 (ii)        who is found to be verminous; or
 
-(iii)        in  the  case  of  a  pupil,  whose  parent  fails  or  refuses  to  produce satisfactory proof that the pupil has-
+(iii)       in the case of a pupil, whose parent fails or refuses to produce satisfactory proof that the pupil has—
 
 A.        been successfully vaccinated; or
 
-- been found to be insusceptible to vaccination; or
+B.        been found to be insusceptible to vaccination; or
 
-- previously suffered from smallpox; or
+C.        previously suffered from smallpox; or
 
-- been exempted from vaccination in terms of any enactment.
+D.        been exempted from vaccination in terms of any enactment.
 
-(e)         the  appointment  of  Government  dental  officers  or  other  dental practitioners  as  school  dental  officers  at  Government  schools  and  non-Government schools;
+(e)        the appointment of Government dental officers or other dental practitioners as school dental officers at Government schools and non-Government schools;
 
 ( f )       the medical and dental examination or inspection of pupils attending any Government school or non-Government school;
 
 (g)        the examination by a psychiatrist or an educational psychologist of a student or pupil attending any school;
 
-(h)        the requirement of a student or a parent or other person with whom a student or pupil resides-
+(h)        the requirement of a student or a parent or other person with whom a student or pupil resides—
 
-(i)         to furnish certificates relating to whether the student or pupil is or has been  suffering  from  a  communicable  disease  or  has  been  in  contact  with  a  person suffering from such a disease; or
+(i)         to furnish certificates relating to whether the student or pupil is or has been suffering from a communicable disease or has been in contact with a person suffering from such a disease; or
 
-(ii)         to  make  a  report  to  the  head  relating  to  matters  referred  to  in subparagraph (1);
+(ii)        to make a report to the head relating to matters referred to in subparagraph (i);
 
-(i)         the medical or dental treatment of a student or pupil accommodated at any  hostel, the supply  of medicine  or  dental or surgical  appliances  and  the performance of X-ray and laboratory examinations in connection with such a student or pupil and the fees payable therefor;
+(i)         the medical or dental treatment of a student or pupil accommodated at any hostel, the supply of medicine or dental or surgical appliances and the performance of X-ray and laboratory examinations in connection with such a student or pupil and the fees payable therefor;
 
 ( j)        the minimum standards which shall be observed in residences, school hostels and lodging-houses catering wholly or mainly for students or pupils attending a school in regard to diet and hygienic conditions.
 
@@ -1197,7 +1201,7 @@ A.        been successfully vaccinated; or
 
 #### 66        Powers of officials to enter premises of registered schools, colleges and other educational institutions
 
-(1) The Secretary, or any person employed in the Ministry who is authorized thereto by  the  Secretary,  may,  at  all  reasonable  times,  enter  the  premises  of  any  non- Government school, college or other educational institution, as the case may be, for the purpose of-
+(1) The Secretary, or any person employed in the Ministry who is authorized thereto by the Secretary, may, at all reasonable times, enter the premises of any non-Government school, college or other educational institution, as the case may be, for the purpose of—
 
 [[END OF PAGE 20]]
 
@@ -1205,7 +1209,7 @@ A.        been successfully vaccinated; or
 
 (a)         examining  buildings,  grounds  and  equipment  in  order  to  ascertain whether this Act is being complied with or whether the registration of such school, college or other educational institution should be cancelled; or
 
-(b)        enquiring into the progress of persons attending such school, college or other educational institution, the standard of teaching the instruction provided, the qualifications  of  all  persons  engaged  in  teaching  therein  and  the  conduct  and discipline  of  pupils  or  students  attending  such  school,  college  or  other  educational institution; or
+(b)        enquiring into the progress of persons attending such school, college or other educational institution, the standard of teaching, the instruction provided, the qualifications of all persons engaged in teaching therein and the conduct and discipline of pupils or students attending such school, college or other educational institution; or
 
 (c)        inspecting any accounts or records required to be kept at or in respect of such school, college or other educational institution; or
 
@@ -1233,21 +1237,21 @@ A.        been successfully vaccinated; or
 
 (1) The Minister may make regulations providing for all matters which by this Act are required  or  permitted  to  be  prescribed  or  which  in  his  opinion,  are  necessary  or convenient to be prescribed for carrying out or giving effect to this Act.
 
-(2) Regulations made in terms of subsection (1) may provide for-
+(2) Regulations made in terms of subsection (1) may provide for—
 
-(a) in relation to the registration of correspondence colleges or independent colleges-
+(a)        in relation to the registration of correspondence colleges or independent colleges—
 
 (i)         the fixing of curricula and standards of tuition, premises and matters relating thereto, as well as the fees chargeable by such colleges; or
 
 (ii)        the cancellation of the registration of such colleges; or
 
-(iii)        the  alteration  or  variation  of  the  conditions  subject  to  which  such colleges are registered; or
+(iii)       the alteration or variation of the conditions subject to which such colleges are registered; or
 
 (iv)       the inspection at all reasonable times of such colleges for the purpose of ascertaining whether this Act is being complied with;
 
-(b)         functions  of,  and  the  procedure  to  be  followed  by,  the  advisory council formed in terms of section fifty-three;
+(b)        functions of, and the procedure to be followed by, the advisory council formed in terms of section fifty-three;
 
-(c)         discipline  in  schools  and  the  exercise  of  disciplinary  powers  over pupils attending schools, including the administration of corporal punishment and the suspension and expulsion of such pupils in respect of their attendance and conduct in schools,  and  in  public  places  when  not  accompanied  by  their  parents  or  by  adult persons into whose custody they have been entrusted by their parents;
+(c)        discipline in schools and the exercise of disciplinary powers over pupils attending schools, including the administration of corporal punishment and the suspension and expulsion of such pupils in respect of their attendance and conduct in schools, and in public places when not accompanied by their parents or by adult persons into whose custody they have been entrusted by their parents;
 
 (d)         the  circumstances  in  which  pupils  accommodated  at  school  hostels shall cease to be so accommodated;
 
@@ -1267,9 +1271,9 @@ A.        been successfully vaccinated; or
 
 ( j)        school holidays;
 
-(k)         the  precautions  to  be  taken  against  fire  or  other  peril  likely  to endanger the lives or health of teachers, public or students;
+(k)        the precautions to be taken against fire or other peril likely to endanger the lives or health of teachers, pupils or students;
 
-(l)          the  temporary  exclusion  from  any  school  or  college  of  any  teacher, pupil or student, and any other measures necessary or desirable to preserve the wellbeing of teachers, pupils or students;
+(l)        the temporary exclusion from any school or college of any teacher, pupil or student, and any other measures necessary or desirable to preserve the well-being of teachers, pupils or students;
 
 (m)        the  size  of  school  classes  and  the  hours  of  instruction  provided  by schools;
 
@@ -1285,7 +1289,7 @@ Provided that no such penalty shall exceed a fine of level five or imprisonment 
 
 #### 70        Savings
 
-Notwithstanding  the  repeal  of  the  Education  Act,  1979  (No.  8  of  1979),  and  the Correspondence  Colleges  Act  [Chapter  81  of  1974],  hereinafter  referred  to  as  the repealed Acts-
+Notwithstanding the repeal of the Education Act, 1979 (No. 8 of 1979), and the Correspondence Colleges Act [Chapter 81 of 1974], hereinafter referred to as the repealed Acts—
 
 (a)         any  Government  school,  Government  teachers  college  or  other Governmental educational institution established under a repealed Act and subsisting immediately before the fixed date shall be deemed to have been established under this Act;
 
