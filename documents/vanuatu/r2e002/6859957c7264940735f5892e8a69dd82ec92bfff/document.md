@@ -1,4 +1,15 @@
 [[START OF PAGE 1]]
+Assent: 30th December 2001
+
+Commencement: 25th February 2002
+
+REPUBLIC OF VANUATU
+
+# EDUCATION ACT NO. 21 OF 2001
+
+## Arrangement of Sections
+
+## Part 1 - Preliminary
 
 - 1 Purpose
 
@@ -52,27 +63,74 @@
 
 ### Division 3 - Applications for changes to schools
 
-Assent: 30
-
-th December 2001
-
-Commencement: 25
-
-th February 2002
-
-REPUBLIC OF VANUATU
-
-# EDUCATION ACT NO. 21 OF 2001
-
-## Arrangement of Sections
-
-## Part 1 - Preliminary
-
 1
-
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+- 21 Education Authorities must apply for changes to schools
+
+- 22 Approval of applications under section 21 for new schools and relocation of schools
+
+- 23 Approval of other applications under section 21
+
+### Division 4 - Cancellation and withdrawal of approval of Education Authorities
+
+- 24 Cancellation of approval of Education Authority
+
+- 25 Withdrawal of approval of Education Authority
+
+### Division 5 - Other matters relating to Education Authorities
+
+- 26 Responsibilities of Education Authorities
+
+- 27 Accounts
+
+- 28 Reports
+
+### Division 6 - Transitional arrangements for existing schools
+
+- 29 Application of Division
+
+- 30 Non-government schools
+
+## Part 5 - National School System
+
+### Division 1 - Funding for schools
+
+- 31 Funding of Education Authorities
+
+- 32 Funding of Provincial Education Boards
+
+- 33 Distribution of grants to schools
+
+- 34 Grants Code
+
+- 35 School fees
+
+- 36 Accountability of school fees
+
+### Division 2 - Administration and management of schools
+
+- 37 Responsibilities of Principal
+
+- 38 Discipline of students
+
+- 39 Medical examination of students
+
+- 40 School councils and school committees
+
+- 41 School community associations
+
+- 42 Inspection and advisory services
+
+### Division 3 - Cancellation of registration of schools
+
+- 43 Cancellation of registration of school by Director-General
+
+- 44 Takeover of schools
+
+## Part 6 - National Education Advisory Council, National Education Commission and Provincial Education Boards
 
 2
 
@@ -82,6 +140,62 @@ REPUBLIC OF VANUATU
 
 ### Division 1 - National Education Advisory Council
 
+- 45 Establishment and functions of National Education Advisory Council
+
+- 46 Membership of the Council
+
+### Division 2 - National Education Commission
+
+- 47 Establishment and membership of National Education Commission
+
+- 48 Functions of the Commission in relation to examinations
+
+- 49 Functions of the Commission in relation to scholarships
+
+- 50 Functions of the Commission in relation to curriculums and syllabuses
+
+### Division 3 - Provincial Education Boards
+
+- 51 Establishment and membership of Provincial Education Boards
+
+- 52 Functions of Provincial Education Boards
+
+- 53 Accounts
+
+- 54 Reports
+
+- 55 Government schools - transitional arrangements
+
+### Division 4 - Administrative provisions
+
+- 56 Schedule 3
+
+- 57 Provincial Education Board
+
+## Part 7 - Miscellaneous
+
+- 58 Appeals to the Supreme Court
+
+- 59 Delegation of functions and powers
+
+- 60 Regulations
+
+- 61 Repeal of Administration of Schools Act
+
+- 62 Commencement
+
+- Schedule 1 - Education Authorities and non-government schools
+
+- Schedule 2 - Provincial Education Boards and government schools
+
+- Schedule 3 - Administrative provisions for Education Advisory Council, National Education Commission and Provincial Education Boards
+
+REPUBLIC OF VANUATU
+
+Assent: 30th December 2001
+
+Commencement: 25th February 2002
+
 # EDUCATION ACT
 
 3
@@ -89,6 +203,14 @@ REPUBLIC OF VANUATU
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+NO. 21 OF 2001
+
+An Act to make provision for primary and secondary education in Vanuatu, and for related purposes
+
+BE IT ENACTED by the President and Parliament as follows:
+
+## Part 1 - Preliminary
 
 #### 1 Purpose
 
@@ -98,7 +220,7 @@ The purpose of this Act is to provide a clear directive for the development and 
 
 The principal objects of this Act are as follows:
 
-(a) to provide primary and secondary education which is firmly based on NiVanuatu cultures and beliefs;
+(a) to provide primary and secondary education which is firmly based on Ni-Vanuatu cultures and beliefs;
 
 (b) to provide primary and secondary education of a high standard to all children within the limits of available resources;
 
@@ -121,14 +243,6 @@ approved form means a form approved by the Director-General for use under this A
 Commencement means the commencement of this Act.
 
 Commission means the National Education Commission established by section
-
-NO. 21 OF 2001
-
-An Act to make provision for primary and secondary education in Vanuatu, and for related purposes
-
-BE IT ENACTED by the President and Parliament as follows:
-
-## Part 1 - Preliminary
 
 4
 
@@ -210,9 +324,9 @@ Secondary education means education referred to in subsection 4(2).
 
 #### 4 Primary and secondary education
 
-- Primary education comprises years 1 to 6.
+(1) Primary education comprises years 1 to 6.
 
-- Secondary education comprises years 7 to 14 and can be divided into the following categories:
+(2) Secondary education comprises years 7 to 14 and can be divided into the following categories:
 
 (a) community secondary comprising years 7 to 8;
 
@@ -226,7 +340,7 @@ Secondary education means education referred to in subsection 4(2).
 
 [[START OF PAGE 7]]
 
-- The Minister, acting on the advice of the Director-General, may prescribe by order:
+(3) The Minister, acting on the advice of the Director-General, may prescribe by order:
 
 (a) different years for primary education; or
 
@@ -238,15 +352,15 @@ Secondary education means education referred to in subsection 4(2).
 
 #### 5 Government and non-government schools
 
-- A school is either a government school or a non-government school.
+(1) A school is either a government school or a non-government school.
 
-- A school is a government school if a Provincial Education Board is responsible for the operation of the school.
+(2) A school is a government school if a Provincial Education Board is responsible for the operation of the school.
 
-- A school is a non-government school if an Education Authority is responsible for the operation of the school.
+(3) A school is a non-government school if an Education Authority is responsible for the operation of the school.
 
-- To avoid doubt, the level of funding a school receives does not affect whether it is a government school or a non-government school (for funding of schools see sections 31 and 32).
+(4) To avoid doubt, the level of funding a school receives does not affect whether it is a government school or a non-government school (for funding of schools see sections 31 and 32).
 
-- The kinds of schools that may be operated by an Education Authority or a Provincial Education Board include the following:
+(5) The kinds of schools that may be operated by an Education Authority or a Provincial Education Board include the following:
 
 (a) primary schools;
 
@@ -276,27 +390,27 @@ Secondary education means education referred to in subsection 4(2).
 
 #### 6 Language policy
 
-- In accordance with Article 3(1) of the Constitution, the principal languages of education are English and French.
+(1) In accordance with Article 3(1) of the Constitution, the principal languages of education are English and French.
 
-- All students during their primary education are to be taught in either French or English.
+(2) All students during their primary education are to be taught in either French or English.
 
-- All students who proceed to secondary education are to continue in their first language of instruction (e.g. French) and are to begin the study of the other language of instruction (e.g. English).
+(3) All students who proceed to secondary education are to continue in their first language of instruction (e.g. French) and are to begin the study of the other language of instruction (e.g. English).
 
-- However, nothing in subsection (3) is to prevent a student who has undertaken his or her primary education in one language of instruction from undertaking his or her secondary education in the other.
+(4) However, nothing in subsection (3) is to prevent a student who has undertaken his or her primary education in one language of instruction from undertaking his or her secondary education in the other.
 
-- The Minister, acting on the advice of the Director-General, may by order determine that one or more specified subjects at a specified school or schools are to be taught to students in the local vernacular or Bislama.
+(5) The Minister, acting on the advice of the Director-General, may by order determine that one or more specified subjects at a specified school or schools are to be taught to students in the local vernacular or Bislama.
 
 #### 7 Parental duty
 
-- This section applies in relation to a child who is at least 6 years old and less than 14 years old.
+(1) This section applies in relation to a child who is at least 6 years old and less than 14 years old.
 
-- It is the duty of the child's parents to ensure that the child attends a school.
+(2) It is the duty of the child's parents to ensure that the child attends a school.
 
 #### 8 Prohibition against discrimination
 
-- A child is not to be refused admission to any school on account of his or her gender, religion, nationality, race, language or disability.
+(1) A child is not to be refused admission to any school on account of his or her gender, religion, nationality, race, language or disability.
 
-- A child is not to be admitted to year 1 unless he or she is at least 6 years old and a child is not to be admitted to year 7 if he or she is over 15 years old. Otherwise, a child is not to be discriminated against on account of his or her age.
+(2) A child is not to be admitted to year 1 unless he or she is at least 6 years old and a child is not to be admitted to year 7 if he or she is over 15 years old. Otherwise, a child is not to be discriminated against on account of his or her age.
 
 #### 9 Religious instruction
 
@@ -306,7 +420,7 @@ If the parents of a student request that he or she be excused from attending rel
 
 #### 10 Functions and powers to be performed in accordance with this Act
 
-- The Minister, the Director-General, the Directors and Provincial Education Officers must perform their functions and exercise their powers, subject to and
+(1) The Minister, the Director-General, the Directors and Provincial Education Officers must perform their functions and exercise their powers, subject to and
 
 8
 
@@ -314,23 +428,23 @@ If the parents of a student request that he or she be excused from attending rel
 
 [[START OF PAGE 9]]
 
-- in accordance with the provisions of this Act and the regulations.
+in accordance with the provisions of this Act and the regulations.
 
-- To avoid doubt, subsection (1) does not in any way limit the application of the other laws of Vanuatu (eg Leadership Code Act No. 2 of 1998, the Government Act No. 5 of 1998 and the Public Service Act No. 11 of 1998) to the performance of functions and the exercise of powers by the Minister, the Director-General, the Directors and Provincial Education Officers.
+(2) To avoid doubt, subsection (1) does not in any way limit the application of the other laws of Vanuatu (eg Leadership Code Act No. 2 of 1998, the Government Act No. 5 of 1998 and the Public Service Act No. 11 of 1998) to the performance of functions and the exercise of powers by the Minister, the Director-General, the Directors and Provincial Education Officers.
 
 #### 11 Functions and powers of Minister
 
-- The Minister has such functions and powers as are conferred on the Minister by this Act.
+(1) The Minister has such functions and powers as are conferred on the Minister by this Act.
 
-- Without limiting subsection (1), the Minister must, on behalf of the Government, enter into an agreement with each Education Authority for the management of the Authority's schools.
+(2) Without limiting subsection (1), the Minister must, on behalf of the Government, enter into an agreement with each Education Authority for the management of the Authority's schools.
 
-- If the Minister, acting on the advice of the Director-General, is satisfied that there are special circumstances, he or she may, by order, declare a day or days to be a holiday for all schools, groups of schools or a particular school.
+(3) If the Minister, acting on the advice of the Director-General, is satisfied that there are special circumstances, he or she may, by order, declare a day or days to be a holiday for all schools, groups of schools or a particular school.
 
 #### 12 Functions and powers of Director-General
 
-- The Director-General is responsible to the Minister for ensuring the Ministry carries out its  functions in relation to primary and secondary education.
+(1) The Director-General is responsible to the Minister for ensuring the Ministry carries out its functions in relation to primary and secondary education.
 
-- Without limiting subsection (1), the Director-General is responsible for:
+(2) Without limiting subsection (1), the Director-General is responsible for:
 
 (a) developing the Government's policies for primary and secondary education; and
 
@@ -352,39 +466,39 @@ If the parents of a student request that he or she be excused from attending rel
 
 [[START OF PAGE 10]]
 
-- The Director-General may in writing make either or both of the following:
+(3) The Director-General may in writing make either or both of the following:
 
 (a) determinations for the purposes of improving the delivery of education services to schools;
 
 (b) advisory guidelines for the purposes of this Act or the regulations.
 
-- A determination does not come into force unless the Minister has approved it in writing.
+(4) A determination does not come into force unless the Minister has approved it in writing.
 
-- A determination or guideline that is inconsistent with the Act or the regulations is void and of no effect.
+(5) A determination or guideline that is inconsistent with the Act or the regulations is void and of no effect.
 
-- Determinations are statutory orders for the purposes of the Interpretation Act [CAP 132].
+(6) Determinations are statutory orders for the purposes of the Interpretation Act [CAP 132].
 
-- The Director-General must, so far as practicable, make any decision he or she is required to make under this Act within 45 days after receiving all information and documents necessary for him or her to make the decision.
+(7) The Director-General must, so far as practicable, make any decision he or she is required to make under this Act within 45 days after receiving all information and documents necessary for him or her to make the decision.
 
-- The Director-General has such other functions and powers as are conferred on him or her by this Act.
+(8) The Director-General has such other functions and powers as are conferred on him or her by this Act.
 
 #### 13 Functions and powers of Directors
 
-- The Directors are responsible to the Director-General for ensuring the Department carries out its functions in relation to primary and secondary education.
+(1) The Directors are responsible to the Director-General for ensuring the Department carries out its functions in relation to primary and secondary education.
 
-- Without limiting subsection (1), the Directors are responsible for implementing:
+(2) Without limiting subsection (1), the Directors are responsible for implementing:
 
 (a) the Government's policies for primary and secondary education; and
 
 (b) education practices that are consistent with those policies.
 
-- The Directors have such powers as are conferred on them by this Act.
+(3) The Directors have such powers as are conferred on them by this Act.
 
 #### 14 Functions and powers of Provincial Education Officers
 
-- The Public Service Commission is to appoint a Provincial Education Officer for each province.
+(1) The Public Service Commission is to appoint a Provincial Education Officer for each province.
 
-- The Provincial Education Officer:
+(2) The Provincial Education Officer:
 
 (a) is the senior representative of the Department in his or her province; and
 
@@ -396,9 +510,9 @@ If the parents of a student request that he or she be excused from attending rel
 
 [[START OF PAGE 11]]
 
-- The Provincial Education Officers have such powers as are conferred on them by this Act.
+(3) The Provincial Education Officers have such powers as are conferred on them by this Act.
 
-- A person occupying the position of a Provincial Education Officer immediately before commencement is to continue in that position on and after commencement as if he or she had been appointed under subsection (1).
+(4) A person occupying the position of a Provincial Education Officer immediately before commencement is to continue in that position on and after commencement as if he or she had been appointed under subsection (1).
 
 ## Part 3 - Registration of government schools and non-government schools
 
@@ -422,13 +536,13 @@ The requirements for the registration of a school are:
 
 #### 16 Schools must be registered
 
-- A person must not operate a school unless the school is registered.
+(1) A person must not operate a school unless the school is registered.
 
-- A person who contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding VT 1,000,000.
+(2) A person who contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding VT 1,000,000.
 
-- The Director-General is to keep a register to be known as the Register of Schools. The Register may be kept wholly or partly by means of a computer.
+(3) The Director-General is to keep a register to be known as the Register of Schools. The Register may be kept wholly or partly by means of a computer.
 
-- The Register is to contain the following information for each school:
+(4) The Register is to contain the following information for each school:
 
 (a) the name and location of the school;
 
@@ -444,9 +558,9 @@ The requirements for the registration of a school are:
 
 (d) such other particulars as are prescribed.
 
-- The Director-General must update the Register at least once a year and ensure that the Register is available for inspection at the office of the Ministry by any person during the ordinary hours of business of that office.
+(5) The Director-General must update the Register at least once a year and ensure that the Register is available for inspection at the office of the Ministry by any person during the ordinary hours of business of that office.
 
-- The Director-General may supply a copy of the Register or a part of the Register to a person on payment of the prescribed fee.
+(6) The Director-General may supply a copy of the Register or a part of the Register to a person on payment of the prescribed fee.
 
 ## Part 4 - Education Authorities
 
@@ -460,15 +574,15 @@ This Part applies only to non-government schools.
 
 #### 18 Only Education Authorities can operate schools
 
-- A person must not operate a school unless the person is an Education Authority.
+(1) A person must not operate a school unless the person is an Education Authority.
 
-- A person who contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding VT 1,000,000.
+(2) A person who contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding VT 1,000,000.
 
 #### 19 Application for approval to become an Education Authority
 
-- A person must apply to the Director-General for approval as an Education Authority.
+(1) A person must apply to the Director-General for approval as an Education Authority.
 
-- The application must:
+(2) The application must:
 
 (a) be in the approved form and be accompanied by the prescribed fee; and
 
@@ -476,7 +590,7 @@ This Part applies only to non-government schools.
 
 (c) contain such other information as is prescribed.
 
-- A person who makes an application containing a false or misleading statement is guilty of an offence punishable on conviction by a fine not exceeding VT 500,000.
+(3) A person who makes an application containing a false or misleading statement is guilty of an offence punishable on conviction by a fine not exceeding VT 500,000.
 
 12
 
@@ -486,9 +600,9 @@ This Part applies only to non-government schools.
 
 #### 20 Determination of applications
 
-- The Director-General must consult with the Minister before approving or rejecting an application made under section 19.
+(1) The Director-General must consult with the Minister before approving or rejecting an application made under section 19.
 
-- The Director-General is to approve an applicant as an Education Authority only if he or she is satisfied that:
+(2) The Director-General is to approve an applicant as an Education Authority only if he or she is satisfied that:
 
 (a) there is a need for the proposed Education Authority to operate a school or schools in the area concerned; and
 
@@ -504,15 +618,15 @@ This Part applies only to non-government schools.
 
 (g) the custom owners of the land on which the school or schools are, or are to be, situated have agreed in writing for the land to be used by, or transferred to, the proposed Education Authority.
 
-- The Director-General may request such additional information as he or she needs from the applicant in order to determine the application.
+(3) The Director-General may request such additional information as he or she needs from the applicant in order to determine the application.
 
-- The approval of an Education Authority may be given on such conditions as the Director-General determines in writing.
+(4) The approval of an Education Authority may be given on such conditions as the Director-General determines in writing.
 
-- The Director-General must give the applicant written notice of his or her decision within 28 days after making it.
+(5) The Director-General must give the applicant written notice of his or her decision within 28 days after making it.
 
-- An applicant may appeal against the decision of the Director-General (see section 58).
+(6) An applicant may appeal against the decision of the Director-General (see section 58).
 
-- As soon as practicable after a person is approved as an Education Authority, the Director-General must:
+(7) As soon as practicable after a person is approved as an Education Authority, the Director-General must:
 
 13
 
@@ -528,7 +642,7 @@ This Part applies only to non-government schools.
 
 #### 21 Education authorities must apply for changes to schools
 
-- An Education Authority must apply to the Director-General for approval:
+(1) An Education Authority must apply to the Director-General for approval:
 
 (a) to establish a new school; or
 
@@ -540,7 +654,7 @@ This Part applies only to non-government schools.
 
 (e) to change the name of a school.
 
-- The application must:
+(2) The application must:
 
 (a) be in the approved form and be accompanied by the prescribed fee; and
 
@@ -548,13 +662,13 @@ This Part applies only to non-government schools.
 
 (c) contain such other information as is prescribed.
 
-- The Director-General must consult with the Minister and the relevant Provincial Education Officer before approving or rejecting an application.
+(3) The Director-General must consult with the Minister and the relevant Provincial Education Officer before approving or rejecting an application.
 
-- The Director-General may request such additional information as he or she needs from the Education Authority in order to determine the application.
+(4) The Director-General may request such additional information as he or she needs from the Education Authority in order to determine the application.
 
-- The Director-General must give the Education Authority written notice of his or her decision within 28 days after making it.
+(5) The Director-General must give the Education Authority written notice of his or her decision within 28 days after making it.
 
-- An applicant may appeal against the decision of the Director - General (see section 58).
+(6) An applicant may appeal against the decision of the Director - General (see section 58).
 
 #### 22 Approval of applications under section 21 for new schools and relocation of schools
 
@@ -568,7 +682,7 @@ The Director-General is to approve an application to establish a new school or t
 
 [[START OF PAGE 15]]
 
-- The Director-General is to approve an application to cancel the registration of a school and to close the school only if he or she is satisfied that:
+(1) The Director-General is to approve an application to cancel the registration of a school and to close the school only if he or she is satisfied that:
 
 (a) there is no longer a need for the school in the area concerned; or
 
@@ -576,7 +690,7 @@ The Director-General is to approve an application to establish a new school or t
 
 (c) the Education Authority does not have sufficient resources and facilities available for the satisfactory operation of the school.
 
-- The Director-General is to approve an application by an Education Authority to takeover a school from another Education Authority only if he or she is satisfied that:
+(2) The Director-General is to approve an application by an Education Authority to takeover a school from another Education Authority only if he or she is satisfied that:
 
 (a) both Authorities have agreed to the takeover; and
 
@@ -584,13 +698,13 @@ The Director-General is to approve an application to establish a new school or t
 
 (c) the Education Authority proposing to takeover the school can competently administer the school.
 
-- The Director-General is to approve an application to change the name of a school only if he or she is satisfied that the proposed new name is acceptable to a large majority of the local community.
+(3) The Director-General is to approve an application to change the name of a school only if he or she is satisfied that the proposed new name is acceptable to a large majority of the local community.
 
 ### Division 4 - Cancellation and withdrawal of approval of Education Authorities
 
 #### 24 Cancellation of approval of Education Authority
 
-- After consultation with the Minister, the Director-General may cancel the approval of an Education Authority if he or she is satisfied that:
+(1) After consultation with the Minister, the Director-General may cancel the approval of an Education Authority if he or she is satisfied that:
 
 (a) the Authority has operated its schools in a careless and irresponsible way to the detriment of staff and students; or
 
@@ -600,7 +714,7 @@ The Director-General is to approve an application to establish a new school or t
 
 (d) the Authority cannot competently administer its schools.
 
-- The Director-General must give the Education Authority written notice of the proposed cancellation and allow the Authority at least 28 days in which to make submissions in writing as to why its approval should not be cancelled.
+(2) The Director-General must give the Education Authority written notice of the proposed cancellation and allow the Authority at least 28 days in which to make submissions in writing as to why its approval should not be cancelled.
 
 15
 
@@ -608,11 +722,11 @@ The Director-General is to approve an application to establish a new school or t
 
 [[START OF PAGE 16]]
 
-- In deciding whether to cancel the approval of an Education Authority, the Director-General must take into account any submissions made by the Education Authority.
+(3) In deciding whether to cancel the approval of an Education Authority, the Director-General must take into account any submissions made by the Education Authority.
 
-- The Director-General must give the Education Authority written notice of his or her decision within 28 days after making it.
+(4) The Director-General must give the Education Authority written notice of his or her decision within 28 days after making it.
 
-- On the making of a decision to cancel the approval of an Education Authority, the Director-General must, by order, close the Authority's schools or:
+(5) On the making of a decision to cancel the approval of an Education Authority, the Director-General must, by order, close the Authority's schools or:
 
 (a) take possession of the Authority's schools and any property of the schools or the Authority necessary for the operation of the schools; and
 
@@ -622,15 +736,15 @@ The Director-General is to approve an application to establish a new school or t
 
 (ii) the relevant Provincial Education Board.
 
-- An Education Authority may appeal against the decision of the DirectorGeneral to cancel its approval (see section 58).
+(6) An Education Authority may appeal against the decision of the Director-General to cancel its approval (see section 58).
 
-- To avoid doubt, no compensation is payable by the Government to any person in respect of an order made under this section.
+(7) To avoid doubt, no compensation is payable by the Government to any person in respect of an order made under this section.
 
 #### 25 Withdrawal of approval of Education Authority
 
-- The Director-General may, at the written request of an Education Authority, withdraw the approval of the Authority.
+(1) The Director-General may, at the written request of an Education Authority, withdraw the approval of the Authority.
 
-- On the withdrawal of an approval of an Education Authority, the DirectorGeneral must by order close the Authority's schools or:
+(2) On the withdrawal of an approval of an Education Authority, the Director-General must by order close the Authority's schools or:
 
 (a) take possession of the Authority's schools and any property of the schools or the Authority necessary for the operation of the schools; and
 
@@ -640,7 +754,7 @@ The Director-General is to approve an application to establish a new school or t
 
 (ii) the relevant Provincial Education Board.
 
-- To avoid doubt, no compensation is payable by the Government to any person in respect of an order made under this section.
+(3) To avoid doubt, no compensation is payable by the Government to any person in respect of an order made under this section.
 
 ### Division 5 - Other matters relating to Education Authorities
 
@@ -660,23 +774,23 @@ An Education Authority has the following responsibilities:
 
 (c) to ensure that people with proper qualifications and experience are employed as teachers and other staff at its schools;
 
-(d) to provide such information and reports on its schools to the DirectorGeneral as he or she may request in writing.
+(d) to provide such information and reports on its schools to the Director-General as he or she may request in writing.
 
 #### 27 Accounts
 
-- An Education Authority must:
+(1) An Education Authority must:
 
 (a) keep proper accounting records in relation to its financial affairs (including receipt and expenditure of government grants under section 31); and
 
 (b) prepare annual statements of account for each financial year.
 
-- An Education Authority's accounts for each financial year must be audited within 6 months after the end of that financial year by an auditor approved by the Auditor-General.
+(2) An Education Authority's accounts for each financial year must be audited within 6 months after the end of that financial year by an auditor approved by the Auditor-General.
 
 #### 28 Reports
 
-- An Education Authority must, within 2 months after the end of each year, provide the Director-General with a report relating to the administration of its schools for that year.
+(1) An Education Authority must, within 2 months after the end of each year, provide the Director-General with a report relating to the administration of its schools for that year.
 
-- The Education Authority must provide the Director-General with any additional information he or she requests about a matter contained in a report.
+(2) The Education Authority must provide the Director-General with any additional information he or she requests about a matter contained in a report.
 
 ### Division 6 - Transitional arrangements for existing schools
 
@@ -692,31 +806,31 @@ This Division applies to all non-government schools in existence on commencement
 
 [[START OF PAGE 18]]
 
-- On commencement, each of the churches listed in a table in Schedule 1 is taken to be approved as the Education Authority for the non-government schools listed in that table, and each of those schools is taken to be registered.
+(1) On commencement, each of the churches listed in a table in Schedule 1 is taken to be approved as the Education Authority for the non-government schools listed in that table, and each of those schools is taken to be registered.
 
-- The Director-General must, as soon as practicable after commencement:
+(2) The Director-General must, as soon as practicable after commencement:
 
 (a) enter each school listed in Schedule 1 in the Register; and
 
 (b) issue each school with a certificate of registration.
 
-- On commencement, any non-government school that is not listed in Schedule 1 ('an unregistered school') can operate until 31 December 2002.
+(3) On commencement, any non-government school that is not listed in Schedule 1 (“an unregistered school”) can operate until 31 December 2002.
 
-- However, an unregistered school cannot operate after 31 December 2002 unless on or before that date:
+(4) However, an unregistered school cannot operate after 31 December 2002 unless on or before that date:
 
 (a) a person has been approved as an Education Authority under section 20 in relation to that school; or
 
 (b) the Director-General has approved an application to become part of an existing Education Authority under subsection (5).
 
-- A person may in writing apply on behalf of an unregistered school to the Director-General for the school to become part of an existing Education Authority. The Director-General must approve the application if the DirectorGeneral is satisfied that:
+(5) A person may in writing apply on behalf of an unregistered school to the Director-General for the school to become part of an existing Education Authority. The Director-General must approve the application if the Director-General is satisfied that:
 
 (a) the Education Authority supports the application and can competently administer the school; and
 
 (b) the school complies with the requirements for registration of a school under section 15.
 
-- On approval of an application under subsection (5), the school concerned is taken to be registered, and the Director-General must enter details of the school in the Register and issue the school with a certificate of registration.
+(6) On approval of an application under subsection (5), the school concerned is taken to be registered, and the Director-General must enter details of the school in the Register and issue the school with a certificate of registration.
 
-- The Minister may by order amend Schedule 1 if the Minister is satisfied that the amendment is necessary to correct a mistake.
+(7) The Minister may by order amend Schedule 1 if the Minister is satisfied that the amendment is necessary to correct a mistake.
 
 ## Part 5 - National School System
 
@@ -724,7 +838,7 @@ This Division applies to all non-government schools in existence on commencement
 
 #### 31 Funding of Education Authorities
 
-- An Education Authority that has entered into a funding agreement with the Minister on behalf of the Government may receive funding  by way of grants from the Government.
+(1) An Education Authority that has entered into a funding agreement with the Minister on behalf of the Government may receive funding by way of grants from the Government.
 
 18
 
@@ -732,35 +846,35 @@ This Division applies to all non-government schools in existence on commencement
 
 [[START OF PAGE 19]]
 
-- An Education Authority is then responsible for funding its schools from the government grants.
+(2) An Education Authority is then responsible for funding its schools from the government grants.
 
-- The funding provided to an Education Authority by way of government grants is not intended to cover the total operating costs of the Authority or its schools.
+(3) The funding provided to an Education Authority by way of government grants is not intended to cover the total operating costs of the Authority or its schools.
 
-- An Education Authority and its schools may receive funding from other sources to supplement the government grants eg school fees and money raised by school fundraising activities.
+(4) An Education Authority and its schools may receive funding from other sources to supplement the government grants eg school fees and money raised by school fundraising activities.
 
-- Nothing in this section is to be taken to require the Minister on behalf of the Government to enter into funding agreements with all Education Authorities. Some Education Authorities will want to be financially independent, and will not want funding by way of government grants.
+(5) Nothing in this section is to be taken to require the Minister on behalf of the Government to enter into funding agreements with all Education Authorities. Some Education Authorities will want to be financially independent, and will not want funding by way of government grants.
 
-- A funding agreement may provide for direct payment of salaries and other benefits to teachers and other persons working in the schools of an Education Authority.
+(6) A funding agreement may provide for direct payment of salaries and other benefits to teachers and other persons working in the schools of an Education Authority.
 
 #### 32 Funding of Provincial Education Boards
 
-- All Provincial Education Boards are to receive funding by way of grants from the Government.
+(1) All Provincial Education Boards are to receive funding by way of grants from the Government.
 
-- A Provincial Education Board is then responsible for funding its schools from the government grants.
+(2) A Provincial Education Board is then responsible for funding its schools from the government grants.
 
-- The funding provided to a Provincial Education Board by way of government grants is intended to cover most of the operating costs of the Board and its schools.
+(3) The funding provided to a Provincial Education Board by way of government grants is intended to cover most of the operating costs of the Board and its schools.
 
-- A Provincial Education Board and its schools may receive funding from other sources to supplement the government grants e.g. school fees and money raised by school fundraising activities.
+(4) A Provincial Education Board and its schools may receive funding from other sources to supplement the government grants e.g. school fees and money raised by school fundraising activities.
 
-#### 33 Distribution of  grants to schools
+#### 33 Distribution of grants to schools
 
-- An Education Authority or a Provincial Education Board must distribute the moneys received by way of government grants to its schools in accordance with the Grants Code.
+(1) An Education Authority or a Provincial Education Board must distribute the moneys received by way of government grants to its schools in accordance with the Grants Code.
 
-- An Education Authority or a Provincial Education Board that fails to comply with any provision of the Grants Code is guilty of an offence punishable on conviction by a fine not exceeding VT 200,000.
+(2) An Education Authority or a Provincial Education Board that fails to comply with any provision of the Grants Code is guilty of an offence punishable on conviction by a fine not exceeding VT 200,000.
 
 #### 34 Grants code
 
-- As soon as possible after commencement, the Director-General must, in
+(1) As soon as possible after commencement, the Director-General must, in
 
 19
 
@@ -768,17 +882,17 @@ This Division applies to all non-government schools in existence on commencement
 
 [[START OF PAGE 20]]
 
-- consultation with Education Authorities and Provincial Education Boards, prepare a Grants Code providing for the distribution of government grants to schools.
+consultation with Education Authorities and Provincial Education Boards, prepare a Grants Code providing for the distribution of government grants to schools.
 
-- The Grants Code must be submitted to the Minister for his or her approval and does not come into force until the Minister approves it.
+(2) The Grants Code must be submitted to the Minister for his or her approval and does not come into force until the Minister approves it.
 
-- Until such time as a Grants Code is in force, the Director-General may, after consultation with the Minister, make written determinations for the distribution of government grants by Education Authorities and Provincial Education Boards.
+(3) Until such time as a Grants Code is in force, the Director-General may, after consultation with the Minister, make written determinations for the distribution of government grants by Education Authorities and Provincial Education Boards.
 
-- The Grants Code and any determinations made under subsection (3) are statutory orders for the purposes of the Interpretation Act [CAP 132].
+(4) The Grants Code and any determinations made under subsection (3) are statutory orders for the purposes of the Interpretation Act [CAP 132].
 
 #### 35 School fees
 
-- Subject to subsection (7), the Minister may, after consultation with the DirectorGeneral and the National Education Advisory Council, by order prescribe the range of fees payable at government and non-government schools in relation to the following:
+(1) Subject to subsection (7), the Minister may, after consultation with the Director-General and the National Education Advisory Council, by order prescribe the range of fees payable at government and non-government schools in relation to the following:
 
 (a) tuition;
 
@@ -788,19 +902,19 @@ This Division applies to all non-government schools in existence on commencement
 
 (d) any other facilities or services provided to students.
 
-- An Education Authority or a Provincial Education Board must not charge fees at any of its schools that are not within the prescribed range.
+(2) An Education Authority or a Provincial Education Board must not charge fees at any of its schools that are not within the prescribed range.
 
-- Different fees may be prescribed in respect of:
+(3) Different fees may be prescribed in respect of:
 
 (a) government and non-government schools; and
 
 (b) government and non-government schools in different provinces.
 
-- The parents of a child are jointly and severally liable for all fees due in respect of the child, whether or not they enrolled the child at the school.
+(4) The parents of a child are jointly and severally liable for all fees due in respect of the child, whether or not they enrolled the child at the school.
 
-- The principal of a school may, after consultation with the relevant Education Authority or Provincial Education Board, exclude from attendance at the school any student in respect of whom fees have not been paid by the due date.
+(5) The principal of a school may, after consultation with the relevant Education Authority or Provincial Education Board, exclude from attendance at the school any student in respect of whom fees have not been paid by the due date.
 
-- An Education Authority or a Provincial Education Board may waive in whole or in part the fees due in respect of a student if the Authority or Board is satisfied that the parents of the student are unable to pay such fees in whole or in part.
+(6) An Education Authority or a Provincial Education Board may waive in whole or in part the fees due in respect of a student if the Authority or Board is satisfied that the parents of the student are unable to pay such fees in whole or in part.
 
 20
 
@@ -808,19 +922,19 @@ This Division applies to all non-government schools in existence on commencement
 
 [[START OF PAGE 21]]
 
-- This section does not apply to a non-government school that receives no funding from the Government.
+(7) This section does not apply to a non-government school that receives no funding from the Government.
 
 #### 36 Accountability of school fees
 
-- The principal of a school is responsible for the collection of fees payable for any matter mentioned in subsection 35(1).
+(1) The principal of a school is responsible for the collection of fees payable for any matter mentioned in subsection 35(1).
 
-- An Education Authority or a Provincial Education Board must ensure that proper accounts are kept for each of its schools in relation to the collection and disbursement of such fees.
+(2) An Education Authority or a Provincial Education Board must ensure that proper accounts are kept for each of its schools in relation to the collection and disbursement of such fees.
 
 ### Division 2 - Administration and management of schools
 
 #### 37 Responsibilities of principal
 
-- The principal of a school is responsible for:
+(1) The principal of a school is responsible for:
 
 (a) the day to day administration and management of the school; and
 
@@ -830,7 +944,7 @@ This Division applies to all non-government schools in existence on commencement
 
 (d) reporting to the Education Authority or Provincial Education Board on matters relating to the school as required by the Authority or the Board.
 
-- Without limiting subsection (1), the principal of a school must:
+(2) Without limiting subsection (1), the principal of a school must:
 
 (a) ensure the school buildings and grounds are kept clean and tidy, and are well maintained; and
 
@@ -844,7 +958,7 @@ This Division applies to all non-government schools in existence on commencement
 
 #### 38 Discipline of students
 
-- As soon as possible after commencement, the Director-General must prepare
+(1) As soon as possible after commencement, the Director-General must prepare
 
 21
 
@@ -852,33 +966,33 @@ This Division applies to all non-government schools in existence on commencement
 
 [[START OF PAGE 22]]
 
-- guidelines for the adoption by schools of fair discipline practices that provide for the control and regulation of student discipline in schools, and that reinforce good behavior.
+guidelines for the adoption by schools of fair discipline practices that provide for the control and regulation of student discipline in schools, and that reinforce good behavior.
 
-- The guidelines must not permit corporal punishment of students attending schools. However, they may permit other reasonable forms of punishment or correction of those students, including requiring students to perform any reasonable work or service for the school.
+(2) The guidelines must not permit corporal punishment of students attending schools. However, they may permit other reasonable forms of punishment or correction of those students, including requiring students to perform any reasonable work or service for the school.
 
-- Subject to subsection (4), an Education Authority or a Provincial Education Board may, on the recommendation of the principal of a school, expel a student from the school for:
+(3) Subject to subsection (4), an Education Authority or a Provincial Education Board may, on the recommendation of the principal of a school, expel a student from the school for:
 
 (a) severe misconduct or disobedience; or
 
 (b) any other activity that has a major detrimental effect on the school.
 
-- An Education Authority or a Provincial Education Board must not expel a student unless it has conducted a thorough investigation in relation to the matter and the student has been given an opportunity to be heard.
+(4) An Education Authority or a Provincial Education Board must not expel a student unless it has conducted a thorough investigation in relation to the matter and the student has been given an opportunity to be heard.
 
-- The Education Authority or Provincial Education Board must as soon as practicable notify the parents of a student who is expelled.
+(5) The Education Authority or Provincial Education Board must as soon as practicable notify the parents of a student who is expelled.
 
-- The principal of a school may suspend a student from the school for misconduct or disobedience for a period not exceeding 2 weeks. The principal must as soon as practicable notify the parents of the suspended student.
+(6) The principal of a school may suspend a student from the school for misconduct or disobedience for a period not exceeding 2 weeks. The principal must as soon as practicable notify the parents of the suspended student.
 
-- A parent of a student who has been expelled under subsection (3) may appeal in writing to the Director-General against the expulsion.
+(7) A parent of a student who has been expelled under subsection (3) may appeal in writing to the Director-General against the expulsion.
 
-- The Director-General must determine the appeal as soon as possible and notify in writing the Education Authority or Provincial Education Board, as the case requires, and the appellant of his or her decision.
+(8) The Director-General must determine the appeal as soon as possible and notify in writing the Education Authority or Provincial Education Board, as the case requires, and the appellant of his or her decision.
 
 #### 39 Medical examination of students
 
-- Subject to subsection (2), the Director-General must cause all students at a school to be examined by a qualified medical practitioner at regular intervals to be determined by the Director-General.
+(1) Subject to subsection (2), the Director-General must cause all students at a school to be examined by a qualified medical practitioner at regular intervals to be determined by the Director-General.
 
-- The parent of a student may make a request to the principal that the student be exempt from a medical examination. The principal must allow the request if he or she is satisfied that a qualified medical practitioner will examine the student at the parent's expense.
+(2) The parent of a student may make a request to the principal that the student be exempt from a medical examination. The principal must allow the request if he or she is satisfied that a qualified medical practitioner will examine the student at the parent's expense.
 
-- Following a medical examination, the principal may exclude a student from attending the school if he or she has a condition likely to endanger the health of other students.
+(3) Following a medical examination, the principal may exclude a student from attending the school if he or she has a condition likely to endanger the health of other students.
 
 22
 
@@ -886,33 +1000,33 @@ This Division applies to all non-government schools in existence on commencement
 
 [[START OF PAGE 23]]
 
-- However, the student must be reinstated once a medical practitioner provides a report stating that the student is free from any such condition.
+(4) However, the student must be reinstated once a medical practitioner provides a report stating that the student is free from any such condition.
 
 #### 40 School councils and school committees
 
-- An Education Authority or a Provincial Education Board must establish a school council and/or a school committee for each of its schools to assist the principal in the management and administration of the school.
+(1) An Education Authority or a Provincial Education Board must establish a school council and/or a school committee for each of its schools to assist the principal in the management and administration of the school.
 
-- An Education Authority or a Provincial Education Board is to determine for each school council and committee:
+(2) An Education Authority or a Provincial Education Board is to determine for each school council and committee:
 
 (a) the membership of the school council and committee, which must wherever possible include both male and female members; and
 
 (b) the functions and responsibilities of the school council and committee.
 
-- School councils and committees are to regulate their procedures in accordance with the by-laws made by the relevant Education Authority or Provincial Education Board.
+(3) School councils and committees are to regulate their procedures in accordance with the by-laws made by the relevant Education Authority or Provincial Education Board.
 
-- Subject to subsection (5), a member of a school council or committee is not entitled to any salary or other remuneration, including by way of allowances, for his or her services provided to the council or committee.
+(4) Subject to subsection (5), a member of a school council or committee is not entitled to any salary or other remuneration, including by way of allowances, for his or her services provided to the council or committee.
 
-- Subject to the availability of funds at a school, a member of the school council or committee is to be reimbursed for expenses properly incurred when engaged on the business of the school council or committee.
+(5) Subject to the availability of funds at a school, a member of the school council or committee is to be reimbursed for expenses properly incurred when engaged on the business of the school council or committee.
 
-- To avoid doubt, nothing in this section requires an Education Authority or a Provincial Education Board to establish a school council or committee for any of its schools.
+(6) To avoid doubt, nothing in this section requires an Education Authority or a Provincial Education Board to establish a school council or committee for any of its schools.
 
 #### 41 School community associations
 
-- Parents of students attending any school together with other residents of the area served by the school who are interested in the welfare of the school may form a school community association in connection with the school.
+(1) Parents of students attending any school together with other residents of the area served by the school who are interested in the welfare of the school may form a school community association in connection with the school.
 
-- The school community association should aim to:
+(2) The school community association should aim to:
 
-(a) promote the interests of the school by bringing parents,  students, teaching staff and other residents of the school area into close co-operation; and
+(a) promote the interests of the school by bringing parents, students, teaching staff and other residents of the school area into close co-operation; and
 
 (b) assist in providing facilities and equipment for the school and in promoting the recreation and welfare of the students at the school; and
 
@@ -928,9 +1042,9 @@ education issues.
 
 #### 42 Inspection and advisory services
 
-- School inspectors must carry out inspections of schools at regular intervals to be determined by the Director of school programs.
+(1) School inspectors must carry out inspections of schools at regular intervals to be determined by the Director of school programs.
 
-- A school inspector may inspect a school to determine whether:
+(2) A school inspector may inspect a school to determine whether:
 
 (a) the Education Authority is operating the school in accordance with the requirements of this Act and the regulations; or
 
@@ -946,19 +1060,19 @@ education issues.
 
 (h) the school complies with such other matters as are specified by the Director-General.
 
-- A person who obstructs a school inspector in carrying out an inspection of a school is guilty of an offence punishable on conviction by a fine not exceeding VT 100,000 or imprisonment for a period not exceeding 3 months, or both.
+(3) A person who obstructs a school inspector in carrying out an inspection of a school is guilty of an offence punishable on conviction by a fine not exceeding VT 100,000 or imprisonment for a period not exceeding 3 months, or both.
 
-- A school inspector may also provide advice to the principal and teachers of a school in relation to any of the matters mentioned in subsection (2).
+(4) A school inspector may also provide advice to the principal and teachers of a school in relation to any of the matters mentioned in subsection (2).
 
-- If requested to do so by the Director of school programs, a school inspector must as part of a school inspection assess whether the teachers and principal of the school are performing in a satisfactory manner. The school inspector must give to the Director a report in writing of his or her assessment within 14 days after carrying out the inspection.
+(5) If requested to do so by the Director of school programs, a school inspector must as part of a school inspection assess whether the teachers and principal of the school are performing in a satisfactory manner. The school inspector must give to the Director a report in writing of his or her assessment within 14 days after carrying out the inspection.
 
-- The Director of school programs must, within 7 days of receiving the report, give a copy of it to the Director-General who must decide whether or not to refer the report to the Teaching Service Commission and/or the relevant Provincial Education Board or Education Authority for appropriate action.
+(6) The Director of school programs must, within 7 days of receiving the report, give a copy of it to the Director-General who must decide whether or not to refer the report to the Teaching Service Commission and/or the relevant Provincial Education Board or Education Authority for appropriate action.
 
 ### Division 3 - Cancellation of registration of schools
 
 #### 43 Cancellation of registration of schools by Director-General
 
-- After consultation with the Minister, the Director-General may cancel the
+(1) After consultation with the Minister, the Director-General may cancel the
 
 24
 
@@ -970,29 +1084,29 @@ registration of a school if the Director-General is satisfied that:
 
 (a) the school is being operated by the Education Authority or Provincial Education Board in a careless and irresponsible way to the detriment of its staff and students; or
 
-(b) the school does not comply with the requirements for registration of a school under  section 15 ; or
+(b) the school does not comply with the requirements for registration of a school under section 15 ; or
 
-(c) the Education Authority or Provincial Education Board does not have sufficient money  and facilities available for the satisfactory operation of the school; or
+(c) the Education Authority or Provincial Education Board does not have sufficient money and facilities available for the satisfactory operation of the school; or
 
 (d) the Education Authority or Provincial Education Board cannot competently administer the school; or
 
 (e) it is not in the public interest to keep the school open.
 
-- In deciding whether to cancel the registration of a school, the Director-General must take into account any inspection of the school carried out by a school inspector under section 42. However, the Director-General can decide to cancel the registration of a school in accordance with subsection (1) without an inspection having been carried out.
+(2) In deciding whether to cancel the registration of a school, the Director-General must take into account any inspection of the school carried out by a school inspector under section 42. However, the Director-General can decide to cancel the registration of a school in accordance with subsection (1) without an inspection having been carried out.
 
-- The Director-General must give the principal of the school and the Education Authority or the Provincial Education Board written notice of the proposed cancellation and allow at least 28 days for submissions in writing to be made as to why the school's registration should not be cancelled.
+(3) The Director-General must give the principal of the school and the Education Authority or the Provincial Education Board written notice of the proposed cancellation and allow at least 28 days for submissions in writing to be made as to why the school's registration should not be cancelled.
 
-- In deciding whether to cancel the registration of the school, the Director-General must take into account any submissions made by the Education Authority or the Provincial Education Board and the principal.
+(4) In deciding whether to cancel the registration of the school, the Director-General must take into account any submissions made by the Education Authority or the Provincial Education Board and the principal.
 
-- The Director-General must give the Education Authority or the Provincial Education Board and the principal written notice of his or her decision within 28 days after making it. The cancellation of the registration of the school takes effect on the date specified in the notice.
+(5) The Director-General must give the Education Authority or the Provincial Education Board and the principal written notice of his or her decision within 28 days after making it. The cancellation of the registration of the school takes effect on the date specified in the notice.
 
-- An Education Authority or a Provincial Education Board that continues to operate a school whose registration has been cancelled may be liable to a penalty under section 16.
+(6) An Education Authority or a Provincial Education Board that continues to operate a school whose registration has been cancelled may be liable to a penalty under section 16.
 
-- An Education Authority or a Provincial Education Board may appeal against the decision of the Director General to cancel the registration of a (see section 58).
+(7) An Education Authority or a Provincial Education Board may appeal against the decision of the Director General to cancel the registration of a (see section 58).
 
 #### 44 Takeover of schools
 
-- If the Director-General is of the opinion that a school whose registration has been cancelled under section 43 should continue to operate, the Director-
+(1) If the Director-General is of the opinion that a school whose registration has been cancelled under section 43 should continue to operate, the Director-
 
 25
 
@@ -1010,7 +1124,7 @@ General may by order:
 
 (ii) the relevant Provincial Education Board.
 
-- To avoid doubt, no compensation is payable by the Government to any person in respect of an order made under this section.
+(2) To avoid doubt, no compensation is payable by the Government to any person in respect of an order made under this section.
 
 ## Part 6 - National Education Advisory Council, National Education Commission and Provincial Education Boards
 
@@ -1018,9 +1132,9 @@ General may by order:
 
 #### 45 Establishment and functions of National Education Advisory Council
 
-- The National Education Advisory Council is established.
+(1) The National Education Advisory Council is established.
 
-- The Council has the following functions:
+(2) The Council has the following functions:
 
 (a) to advise the Minister and the Director-General on:
 
@@ -1034,7 +1148,7 @@ General may by order:
 
 (c) to develop policy proposals for consideration by the Ministry;
 
-(d) to assist, advise and co-operate with communities, practicing _ns and individuals on matters affecting primary or secondary education;
+(d) to assist, advise and co-operate with communities, practicing teachers, organisations and individuals on matters affecting primary or secondary education;
 
 (e) when requested by the Minister or the Director-General, to provide information or advice to him or her on any matter affecting primary or secondary education.
 
@@ -1046,9 +1160,9 @@ General may by order:
 
 #### 46 Membership of the Council
 
-- The National Education Advisory Council has 11 members. Each member is to be appointed by the Minister on the advice of the Director-General.
+(1) The National Education Advisory Council has 11 members. Each member is to be appointed by the Minister on the advice of the Director-General.
 
-- The members are to comprise the following persons:
+(2) The members are to comprise the following persons:
 
 (a) a representative of the Vanuatu Christian Council;
 
@@ -1066,25 +1180,25 @@ General may by order:
 
 (h) a representative of tertiary education institutions.
 
-- The Director-General is an ex officio member of the Council, but has no voting rights at a meeting of the Council.
+(3) The Director-General is an ex officio member of the Council, but has no voting rights at a meeting of the Council.
 
-- An officer of the Department is to be appointed as the secretary to the Council by the Director-General to undertake such duties as may be assigned by the Chairperson.
+(4) An officer of the Department is to be appointed as the secretary to the Council by the Director-General to undertake such duties as may be assigned by the Chairperson.
 
-- The Council is to have an equitable and balanced gender representation.
+(5) The Council is to have an equitable and balanced gender representation.
 
 ### Division 2 - National Education Commission
 
 #### 47 Establishment and membership of National Education Commission
 
-- The National Education Commission is established.
+(1) The National Education Commission is established.
 
-- The Commission has 11 members. Each member is to be appointed by the Minister on the advice of the Director-General.
+(2) The Commission has 11 members. Each member is to be appointed by the Minister on the advice of the Director-General.
 
-- At least 4 members must have qualifications and/or expertise in curriculum development.
+(3) At least 4 members must have qualifications and/or expertise in curriculum development.
 
-- At least 2 members must have qualifications and/or expertise in examination practices and policy.
+(4) At least 2 members must have qualifications and/or expertise in examination practices and policy.
 
-- At least 2 members must have qualifications and/or expertise in scholarships practices and policy.
+(5) At least 2 members must have qualifications and/or expertise in scholarships practices and policy.
 
 27
 
@@ -1092,11 +1206,11 @@ General may by order:
 
 [[START OF PAGE 28]]
 
-- The 3 other members of the Commission must be representatives of the nongovernment sector.
+(6) The 3 other members of the Commission must be representatives of the non-government sector.
 
-- The Commission is to have an equitable and balanced gender representation.
+(7) The Commission is to have an equitable and balanced gender representation.
 
-- The Commission in undertaking its functions under sections 48, 49 and 50 must consult as widely as is practicable with communities, organisations and individuals.
+(8) The Commission in undertaking its functions under sections 48, 49 and 50 must consult as widely as is practicable with communities, organisations and individuals.
 
 #### 48 Functions of the Commission in relation to examinations
 
@@ -1120,11 +1234,11 @@ The Commission has the following functions in relation to examinations:
 
 #### 49 Functions of the Commission in relation to scholarships
 
-- The Commission's primary function in relation to scholarships is to develop and implement policies that support the scholarships program.
+(1) The Commission's primary function in relation to scholarships is to develop and implement policies that support the scholarships program.
 
-- The scholarships program provides scholarships for post secondary education and training in order to develop appropriately qualified and skilled Ni-Vanuatu to further the development of Vanuatu.
+(2) The scholarships program provides scholarships for post secondary education and training in order to develop appropriately qualified and skilled Ni-Vanuatu to further the development of Vanuatu.
 
-- The scholarships program is to be administered by the training and scholarships
+(3) The scholarships program is to be administered by the training and scholarships
 
 28
 
@@ -1132,9 +1246,9 @@ The Commission has the following functions in relation to examinations:
 
 [[START OF PAGE 29]]
 
-- coordination unit or such other body within the Department as is specified by the Director-General ('the scholarships unit').
+coordination unit or such other body within the Department as is specified by the Director-General (“the scholarships unit”).
 
-- The Commission also has the following functions in relation to scholarships:
+(4) The Commission also has the following functions in relation to scholarships:
 
 (a) to undertake the fair, transparent and merit based selection of candidates for the award of scholarships;
 
@@ -1154,7 +1268,7 @@ The Commission has the following functions in relation to examinations:
 
 #### 50 Functions of the Commission in relation to curriculums and syllabuses
 
-- The Commission has the following functions in relation to curriculums and syllabuses:
+(1) The Commission has the following functions in relation to curriculums and syllabuses:
 
 (a) subject to subsection (2), to evaluate and approve the national curriculum for primary and secondary education in Vanuatu;
 
@@ -1178,25 +1292,25 @@ The Commission has the following functions in relation to examinations:
 
 (h) when requested by the Minister or the Director-General, to provide information or advice to him or her on any matter affecting the national curriculum or syllabuses.
 
-- The Commission must not approve a curriculum as the national curriculum unless it is satisfied that the curriculum takes into account national policies, needs and aspirations, and provides for the physical, spiritual, social and cultural development of students.
+(2) The Commission must not approve a curriculum as the national curriculum unless it is satisfied that the curriculum takes into account national policies, needs and aspirations, and provides for the physical, spiritual, social and cultural development of students.
 
 ### Division 3 - Provincial Education Boards
 
 #### 51 Establishment and membership of Provincial Education Boards
 
-- A Provincial Education Board is established for each province and municipality within that province.
+(1) A Provincial Education Board is established for each province and municipality within that province.
 
-- Each Board has 6 members.
+(2) Each Board has 6 members.
 
-- The provincial government council is to nominate one member of the Board. The Provincial Education Officer is a member of the Board. The remaining 4 members are to be appointed by the Minister on the advice of the DirectorGeneral.
+(3) The provincial government council is to nominate one member of the Board. The Provincial Education Officer is a member of the Board. The remaining 4 members are to be appointed by the Minister on the advice of the Director-General.
 
-- The members of each Board must so far as practicable be broadly representative of:
+(4) The members of each Board must so far as practicable be broadly representative of:
 
 (a) the teachers, and the parents of the students, at the schools in the province; and
 
 (b) organisations and individuals interested in education in the province.
 
-- Each Board is to have an equitable and balanced gender representation.
+(5) Each Board is to have an equitable and balanced gender representation.
 
 #### 52 Functions of Provincial Education Boards
 
@@ -1222,31 +1336,31 @@ The functions of each Provincial Education Board are as follows:
 
 #### 53 Accounts
 
-- A Provincial Education Board must:
+(1) A Provincial Education Board must:
 
 (a) keep proper accounting records in relation to its financial affairs (including receipt and expenditure of government grants under section 32); and
 
 (b) prepare annual statements of account for each financial year.
 
-- A Provincial Education Board's accounts for each financial year must be audited within 6 months after the end of that financial year by the Auditor-General.
+(2) A Provincial Education Board's accounts for each financial year must be audited within 6 months after the end of that financial year by the Auditor-General.
 
 #### 54 Reports
 
-- A Provincial Education Board must, within 2 months after the end of each year, provide the Director-General with a report relating to the administration of its schools for that year.
+(1) A Provincial Education Board must, within 2 months after the end of each year, provide the Director-General with a report relating to the administration of its schools for that year.
 
-- The Provincial Education Board must provide the Director-General with any additional information he or she requires about a matter contained in a report.
+(2) The Provincial Education Board must provide the Director-General with any additional information he or she requires about a matter contained in a report.
 
 #### 55 Government schools - transitional arrangements
 
-- On commencement, each of the Provincial Education Boards listed in a table in Schedule 2 is responsible for the operation of the government schools listed in that table, and each of those schools is taken to be registered.
+(1) On commencement, each of the Provincial Education Boards listed in a table in Schedule 2 is responsible for the operation of the government schools listed in that table, and each of those schools is taken to be registered.
 
-- The Director-General must, as soon as practicable after commencement:
+(2) The Director-General must, as soon as practicable after commencement:
 
 (a) enter each school listed in Schedule 2 in the Register; and
 
 (b) issue each school with a certificate of registration.
 
-- The Minister may by order amend Schedule 2 if the Minister is satisfied that the amendment is necessary to correct a mistake.
+(3) The Minister may by order amend Schedule 2 if the Minister is satisfied that the amendment is necessary to correct a mistake.
 
 31
 
@@ -1262,19 +1376,19 @@ Subject to section 57, the  administrative provisions relating to the National E
 
 #### 57 Provincial Education Boards
 
-- The Provincial Education Officer is ex officio the chairperson of the Board.
+(1) The Provincial Education Officer is ex officio the chairperson of the Board.
 
-- A Provincial Education Board must not implement a decision during the first 7 days after the decision is made. During these 7 days, if the Provincial Education Officer wishes to object to the decision, he or she must give the Board a written copy of his or her objection. The Provincial Education Officer must at the same time give the Director-General a copy of the objection.
+(2) A Provincial Education Board must not implement a decision during the first 7 days after the decision is made. During these 7 days, if the Provincial Education Officer wishes to object to the decision, he or she must give the Board a written copy of his or her objection. The Provincial Education Officer must at the same time give the Director-General a copy of the objection.
 
-- The Director-General must decide whether to accept or reject the objection within 21 days after receiving it. During these 21 days, the Provincial Education Board must not implement the decision.
+(3) The Director-General must decide whether to accept or reject the objection within 21 days after receiving it. During these 21 days, the Provincial Education Board must not implement the decision.
 
-- The Director-General must give the Provincial Education Board and the Provincial Education Officer written notice of his or her decision.
+(4) The Director-General must give the Provincial Education Board and the Provincial Education Officer written notice of his or her decision.
 
 ## Part 7 - Miscellaneous
 
 #### 58 Appeal to the Supreme Court
 
-- A person in respect of whom any of the following decisions are made may appeal to the Supreme Court against the decision:
+(1) A person in respect of whom any of the following decisions are made may appeal to the Supreme Court against the decision:
 
 (a) to reject an application for approval as an Education Authority under section 20;
 
@@ -1284,9 +1398,9 @@ Subject to section 57, the  administrative provisions relating to the National E
 
 (d) to cancel the registration of a school under section 43.
 
-- An appeal must be made not more than 28 days after the date on which the appellant is notified of the decision appealed against, or within such further period as the Supreme Court may allow.
+(2) An appeal must be made not more than 28 days after the date on which the appellant is notified of the decision appealed against, or within such further period as the Supreme Court may allow.
 
-- The Supreme Court may:
+(3) The Supreme Court may:
 
 (a) confirm, reverse or modify the decision appealed against, and make such
 
@@ -1296,15 +1410,15 @@ Subject to section 57, the  administrative provisions relating to the National E
 
 [[START OF PAGE 33]]
 
-- orders and give such directions to the Director-General as may be necessary to give effect to the Court's decision; or
+orders and give such directions to the Director-General as may be necessary to give effect to the Court's decision; or
 
 (b) refer the matter back to the Director-General with directions to reconsider the whole or any specified part of the matter.
 
 #### 59 Delegation of functions and powers
 
-- The Director-General, a Director and a Provincial Education Officer may, by instrument in writing, delegate all or any of his or her functions and powers under this Act to another officer within the Ministry with appropriate qualifications and expertise, except this power of delegation.
+(1) The Director-General, a Director and a Provincial Education Officer may, by instrument in writing, delegate all or any of his or her functions and powers under this Act to another officer within the Ministry with appropriate qualifications and expertise, except this power of delegation.
 
-- The delegation:
+(2) The delegation:
 
 (a) may be made either generally or as otherwise provided by the instrument of delegation; and
 
@@ -1312,13 +1426,13 @@ Subject to section 57, the  administrative provisions relating to the National E
 
 #### 60 Regulations
 
-- The Minister may, by order, make regulations prescribing all matters:
+(1) The Minister may, by order, make regulations prescribing all matters:
 
 (a) required or permitted by this Act to be prescribed; or
 
 (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-- The regulations may prescribe penalties for offences against the regulations. A penalty must not exceed VT 50,000.
+(2) The regulations may prescribe penalties for offences against the regulations. A penalty must not exceed VT 50,000.
 
 #### 61 Repeal of Administration of Schools Act
 
@@ -1351,10 +1465,10 @@ ST. MICHEL | PAAMAL | LO-ONE
 ST. PIERRE/OKORO | PIKAYER | MELSISI
 STE. ANNE | SESSIVI | NAMARAM
 STE. THÉRÈSE | ST. LOUIS 98 | ST. HENRI
-TOLOMAKO | ST. PIERRE CHANEL | ST. JOSEPH/RANGSUKSU K
+TOLOMAKO | ST. PIERRE CHANEL | ST. JOSEPH/RANGSUKSUK
 STE JEANNE d'ARC | TOBOL | ST. JEAN BAPTISTE (98)
 ST. JOSEPH LAGON 2 | UNMET | TSINBWEGE
-ENKATALEI | VAO IIÔT | UBIKU
+ENKATALEI | VAO ÎLÔT | UBIKU
 IKITI | IPEKEL | LOONO
 IMAFEN | ITAKU | LOWANATOM
 IMAKI | LAMLU | UMEJ
@@ -1374,9 +1488,8 @@ TASMALUM 2000 | METOUNE | ITEREI/ITASU
 TCHARANAVUSVUS 2000 | NAMBAR | YATUKUNE
 MOLI VALIVU | ORAP
 
-#### TABLE C
+#### TABLE C SCHOOLS ADMINISTERED BY SEVENTH DAY ADVENTIST CHURCH
 ---
-SCHOOLS ADMINISTERED BY
 
 34
 
@@ -1431,20 +1544,20 @@ ALOWANU | MEREI/PISULIMA 2000 | TIASIA 2000
 
 ARAKI/LEHILEHINA 2000 | MWAS | TIQUOTUQ 2000
 --- | --- | ---
-AVUNARARA/JINAUR E 2000 | NANUHU 2000 | VOVLEI 2000
+AVUNARARA/JINAURE 2000 | NANUHU 2000 | VOVLEI 2000
 AVUNATARI 2000 | NASALANVUNMOL 2000 | VUNABULU 2000
 BALON 2000 | NATAWA 2000 | WAILAPA/EBENEZER 2000
 DAMBULUA/TUTUBA 2000 | NAVELE 2000 | LATH HI 2000
 IAN LIVO 2000 | PIALUPLUP 2000 | BUTMAS
 IETH VEKAR 2000 | PICARDIE | KAMEWA 2000
-J.N MACKENZIE | PRENTER/HOG HARBOUR 2000 | KOLE/LOREVIAKARK AR 2000
+J.N MACKENZIE | PRENTER/HOG HARBOUR 2000 | KOLE/LOREVIAKARKAR 2000
 JORDON VALLEY 2000 | SANTO EAST 2000 | NANDIUTU 2000
 KAMEWA 2000 | SARA 2000 | NAVIARU 2000
 KITACU/NANDIUTU 2000 | SARAKATA 2000 | PIAMATSINA 2000
 LEIMARUA/WUSI 2000 | SELUSIA 2000 | SANTO EAST 2000
-MALAU 2000 | SULEMAORI | SARASOARI/AVUNAR ANI 2000
+MALAU 2000 | SULEMAORI | SARASOARI/AVUNARANI 2000
 MAVEA/DAMBULU 2000 | TAHARO 2000 | SELUSIA 2000
-MENEVULA/WUNPUK O 2000 | TANOVUSIVUSI/SALET UI 2000 | ST. JACQUES 2000
+MENEVULA/WUNPUKO 2000 | TANOVUSIVUSI/SALETUI 2000 | ST. JACQUES 2000
 TATA 2000 | COLLEGE DE LUGANVILLE | HOG HARBOUR
 MATAVULU COLLEGE | SANTO EAST | NANDIUTI
 
@@ -1490,7 +1603,7 @@ ATAVTABANGA | NALELEO | WAISINE
 AUTABULU | NANGOLE | WALAHA
 BAKANAO | NAONE | AMBAEBULU
 BANGABULU | NAZARETH | BIRIBIRI
-BENMOTRI | NDUINDUI | LAMORUNTOA/ABOUAG A
+BENMOTRI | NDUINDUI | LAMORUNTOA/ABOUAGA
 BWATNAPNI | PANGI | NANIVELE
 ENKUL | QUATUNEALA | NAROUAH
 GAMALMAWA | RANMAWAT | NASAWA
@@ -1563,9 +1676,9 @@ TAFEA
 
 [[START OF PAGE 39]]
 
-Section 56
-
 ## SCHEDULE 3
+
+Section 56
 
 ### ADMINISTRATIVE PROVISIONS FOR THE NATIONAL EDUCATION ADVISORY COUNCIL, NATIONAL EDUCATION COMMISSION AND PROVINCIAL EDUCATION BOARDS
 
@@ -1573,7 +1686,7 @@ Section 56
 
 In this Schedule:
 
-'education body' means:
+“education body” means:
 
 (a) the National Education Advisory Council; or
 
@@ -1581,7 +1694,7 @@ In this Schedule:
 
 (c) a Provincial Education Board.
 
-'member' means a member of an education body.
+“member” means a member of an education body.
 
 #### 2 Application of Leadership Code Act
 
@@ -1593,15 +1706,15 @@ A member is to be appointed for a term of 2 years and is eligible for reappointm
 
 #### 4 Chairperson and deputy chairperson
 
-- The members of an education body must elect one member to be the Chairperson and another member to be the Deputy Chairperson.
+(1) The members of an education body must elect one member to be the Chairperson and another member to be the Deputy Chairperson.
 
-- The Chairperson and Deputy Chairperson each hold office for a term of one year and are eligible for reappointment.
+(2) The Chairperson and Deputy Chairperson each hold office for a term of one year and are eligible for reappointment.
 
-- The Chairperson and Deputy Chairperson may resign his or her office by giving a written resignation to the education body.
+(3) The Chairperson and Deputy Chairperson may resign his or her office by giving a written resignation to the education body.
 
 #### 5 Removal and resignation of members
 
-- The Minister may, on the advice of the Director-General, remove a member by order if he or she:
+(1) The Minister may, on the advice of the Director-General, remove a member by order if he or she:
 
 (a) becomes a member of Parliament; or
 
@@ -1621,15 +1734,15 @@ A member is to be appointed for a term of 2 years and is eligible for reappointm
 
 (f) in the case of a Provincial Education Board - has repeatedly failed to carry out his or her duties in a satisfactory manner.
 
-- A member may resign at any time by giving his or her resignation in writing to the Minister.
+(2) A member may resign at any time by giving his or her resignation in writing to the Minister.
 
 #### 6 Terms and conditions
 
-- The rate of remuneration payable to a member is the rate determined under the Government Remuneration Tribunal Act No. 20 of 1998.
+(1) The rate of remuneration payable to a member is the rate determined under the Government Remuneration Tribunal Act No. 20 of 1998.
 
-- If a rate of remuneration has not been determined under that Act, a member is to be paid such remuneration as the education body determines, subject to the written approval of the Minister.
+(2) If a rate of remuneration has not been determined under that Act, a member is to be paid such remuneration as the education body determines, subject to the written approval of the Minister.
 
-- A member must:
+(3) A member must:
 
 (a) be paid such sitting fees as the education body proposes and the Minister approves in writing; and
 
@@ -1655,15 +1768,15 @@ must disclosure that interest to the education body in accordance with section 1
 
 [[START OF PAGE 41]]
 
-- At a meeting a quorum consists of:
+(2) At a meeting a quorum consists of:
 
-(a) in the case of the National Education Advisory Council and the National Education Commissi-n - 6 members; and
+(a) in the case of the National Education Advisory Council and the National Education Commission - 6 members; and
 
 (b) in the case of a Provincial Education Board - 3 members.
 
-- Questions arising at a meeting are to be determined by a majority of the votes of the members present and voting.
+(3) Questions arising at a meeting are to be determined by a majority of the votes of the members present and voting.
 
-- If the voting at a meeting is equal, the chairperson at the meeting has a casting vote.
+(4) If the voting at a meeting is equal, the chairperson at the meeting has a casting vote.
 
 #### 9 Acting members
 
@@ -1673,7 +1786,7 @@ An education body may appoint a person to act as a member if the member is absen
 
 Subject to this Schedule, an education body is to determine and regulate its own procedures.
 
------------------------------------------------------------
+
 
 41
 
