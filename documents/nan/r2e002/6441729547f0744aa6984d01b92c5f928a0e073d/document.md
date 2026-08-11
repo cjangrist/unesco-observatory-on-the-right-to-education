@@ -6,11 +6,11 @@
 
 ### CONSIDERANDO
 
-Que la Constitución Política de la República de Guatemala en su Artículo 53,  establece  que  el  Estado  garantiza  la  protección  de  los  minusválidos  y personas  con  limitaciones  físicas,  psíquicas  o  sensoriales  y  declara  de interés  nacional  su  atención  médico-social,  así  como  la  promoción  de políticas  y  servicios  que  permiten  su  rehabilitación  y  su  reincoporación integral a la sociedad.
+Que la Constitución Política de la República de Guatemala en su Artículo 53,  establece  que  el  Estado  garantiza  la  protección  de  los  minusválidos  y personas  con  limitaciones  físicas,  psíquicas  o  sensoriales  y  declara  de interés  nacional  su  atención  médico-social,  así  como  la  promoción  de políticas  y  servicios  que  permiten  su  rehabilitación  y  su  reincorporación integral a la sociedad.
 
-Que en la actualidad existen servicios f undamentales de rehabilitación de las personas con discapacidad a través de normas ordinarias y administrativas,  las  cuales  están  diseminadas  en  leyes  dispersas  que adolecen de un orden, de coordinación interinstitucional y multidisciplinario.
+Que en la actualidad existen servicios fundamentales de rehabilitación de las personas con discapacidad a través de normas ordinarias y administrativas,  las  cuales  están  diseminadas  en  leyes  dispersas  que adolecen de un orden, de coordinación interinstitucional y multidisciplinario.
 
-Que  los  tratados,  convenios  y  conferencias  internacionales,  suscritos  o ratificados  por  el  Gobierno  de  la  República,  en  las  diversas  áreas  de  la rehabilitación y derechos humanos, recomiendan la promoción, creación y apoyo  de  todos  los  esfuerzos  en  esta  material,  optimar  el  uso  de  los recursos y acelerar los procesos de incorporación plena de la población con discapacidad a la sociedad.
+Que  los  tratados,  convenios  y  conferencias  internacionales,  suscritos  o ratificados  por  el  Gobierno  de  la  República,  en  las  diversas  áreas  de  la rehabilitación y derechos humanos, recomiendan la promoción, creación y apoyo  de  todos  los  esfuerzos  en  esta  materia,  optimar  el  uso  de  los recursos y acelerar los procesos de incorporación plena de la población con discapacidad a la sociedad.
 
 ### LA LEY DE ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD.
 
@@ -19,7 +19,7 @@ Que  los  tratados,  convenios  y  conferencias  internacionales,  suscritos  o 
 ##### PRINCIPIOS GENERALES
 
 ###### Artículo  1:
-Declaración,  se  declara  de  beneficio  social  el  desarrollo integral  de  las  personas  con  discapacidad  física,  sensorial  y/o  psíquica (mental)  en  igual  de  condiciones  para  su  participación  en  el  desarrollo económico, social, cultural y político del país.
+Declaración,  se  declara  de  beneficio  social  el  desarrollo integral  de  las  personas  con  discapacidad  física,  sensorial  y/o  psíquica (mental)  en  igualdad  de  condiciones  para  su  participación  en  el  desarrollo económico, social, cultural y político del país.
 
 ###### Artículo 2:
 Los objetivos de la presente ley son los siguientes:
@@ -28,21 +28,21 @@ Los objetivos de la presente ley son los siguientes:
 
 [[START OF PAGE 2]]
 
-- Servir  como  instrumento  legal  para  la  atención  de  las  personas  con discapacidad para  que alcancen su máximo desarrollo, su participación social  y  el  ejercicio  de  los  derechos  y  deberes  en  nuestro  sistema jurídico.
+a) Servir  como  instrumento  legal  para  la  atención  de  las  personas  con discapacidad para  que alcancen su máximo desarrollo, su participación social  y  el  ejercicio  de  los  derechos  y  deberes  en  nuestro  sistema jurídico.
 
-- Garantizar la igualdad de oportunidades para las personas con discapacidad  en  ámbitos  como:  salud,  educación,  trabajo,  recreación, deportes, cultura y otros.
+b) Garantizar la igualdad de oportunidades para las personas con discapacidad  en  ámbitos  como:  salud,  educación,  trabajo,  recreación, deportes, cultura y otros.
 
-- Eliminar  cualquier  tipo  de  discriminación  hacia  las  personas  con discapacidad.
+c) Eliminar  cualquier  tipo  de  discriminación  hacia  las  personas  con discapacidad.
 
-- Establecer las bases jurídicas y materiales que le permitan a la sociedad guatemalteca  adoptar  las  medidas  necesarias  para  la  equiparación  de oportunidades y la no discriminación de las personas con discapacidad.
+d) Establecer las bases jurídicas y materiales que le permitan a la sociedad guatemalteca  adoptar  las  medidas  necesarias  para  la  equiparación  de oportunidades y la no discriminación de las personas con discapacidad.
 
-- Fortalecer  los  derechos  y  deberes  fundamentales  de  las  personas  con discapacidad.
+e) Establecer los principios básicos sobre los cuales deberá descansar toda la legislación que se relaciona con las personas con discapacidad.
 
-- Establecer los principios básicos sobre los cuales deberá descansar toda la legislación que se relaciona con las personas con discapacidad.
+f) Fortalecer  los  derechos  y  deberes  fundamentales  de  las  personas  con discapacidad.
 
-- Crear  el  ente  con  carácter  de  coordinador,  asesor  e  impulsor  de  las políticas en materia de discapacidad.
+g) Crear  el  ente  con  carácter  de  coordinador,  asesor  e  impulsor  de  las políticas en materia de discapacidad.
 
-- Definir  a  la  persona  con  discapacidad  y  determinar  las  medidas  que puedan adoptarse para su atención.
+h) Definir  a  la  persona  con  discapacidad  y  determinar  las  medidas  que puedan adoptarse para su atención.
 
 ###### Artículo 4:
 Las disposiciones de la presente ley son de orden público, por tanto, los principios en ella establecidos son de carácter irrenunciable.
@@ -54,7 +54,7 @@ Todas las medidas o acciones que adopten personas individuales o jurídicas, en 
 Para los efectos de la presente ley, se entiende por atención a la persona con discapacidad, todas aquellas acciones encaminadas a favorecer su    desarrollo  físico,  psicológico,  moral,  mental,  sensorial,  social  y afectivo,  mediante  programas  sistemáticos  y  secuenciales  que abarquen todas las áreas de desarrollo humano.
 
 ###### Artículo  9:
-La  interpretación  y  aplicación  de  las  disposiciones  de  la presente ley deberán hacerse en armonía con los principios de normalización y democratización, con los principios generales del derecho y con la doctrina y normativa internacional en esta material, de manera que garantice  los  derechos  establecidos  en  la  Constitución  Política  de  la República  de  Guatemala,  los  tratados,  convenciones,  pactos  y  demás instrumentos internacionales suscritos y ratificados por Guatemala.
+La  interpretación  y  aplicación  de  las  disposiciones  de  la presente ley deberán hacerse en armonía con los principios de normalización y democratización, con los principios generales del derecho y con la doctrina y normativa internacional en esta materia, de manera que garantice  los  derechos  establecidos  en  la  Constitución  Política  de  la República  de  Guatemala,  los  tratados,  convenciones,  pactos  y  demás instrumentos internacionales suscritos y ratificados por Guatemala.
 
 [[END OF PAGE 2]]
 
@@ -68,7 +68,7 @@ La  interpretación  y  aplicación  de  las  disposiciones  de  la presente ley
 Se crea el Consejo Nacional para la Atención de las personas con  discapacidad,  como  entidad  autónoma,  con  personalidad  jurídica  y patrimonio  propio  y  con  carácter  coordinador,  asesor  e  impulsor  de políticas generales en materia de discapacidad. Su conformación, organización, su funcionamiento y ámbito de acción estarán definidos en el reglamento de la presente ley. El Consejo Nacional  tendrá plena capacidad para  adquirir  derechos  y  obligaciones  para  lo  cual  elegirá  entre  sus miembros, a su junta directiva, para un período de dos años.
 
 ###### Artículo  24:
-El  Consejo  Nacional  para  la  Atención  de  las  Personas  con Discapacidad,  estará  integrado  p or  delegados  del  sector  público  y  de  la sociedad civil, incluyendo las universidades del país, que realizan acciones en las diversas áreas vinculadas a la rehabilitación integral, en materia de discapacidad.
+El  Consejo  Nacional  para  la  Atención  de  las  Personas  con Discapacidad,  estará  integrado  por  delegados  del  sector  público  y  de  la sociedad civil, incluyendo las universidades del país, que realizan acciones en las diversas áreas vinculadas a la rehabilitación integral, en materia de discapacidad.
 
 #### CAPÍTULO IV
 
@@ -113,7 +113,7 @@ El  Estado deberá estimular las investigaciones y tomará en cuenta  las  nueva
 El Estado deberá desarrollar políticas sociales y económicas que garanticen a la persona con discapacidad, su desarrollo físico, social  y mental en condiciones dignas.
 
 ###### Artículo  47:
-El  Ministerio  de  Salud  pública  y  Asistencia  Social  y  el Instituto  Guatemalteco  de  Seguridad  Social,  deberán  ofrecer  servicios  de rehabilitación  integrar  a  las  personas  con  discapacidad,  en  todas  las regiones del país, donde cuenten con centros de salud o centros asistenciales, respectivamente.
+El  Ministerio  de  Salud  pública  y  Asistencia  Social  y  el Instituto  Guatemalteco  de  Seguridad  Social,  deberán  ofrecer  servicios  de rehabilitación  integral  a  las  personas  con  discapacidad,  en  todas  las regiones del país, donde cuenten con centros de salud o centros asistenciales, respectivamente.
 
 ###### Artículo 48:
 Las instituciones públicas o privadas de salud responsables de suministrar  servicios  de  prevención,  promoción  y  rehabilitación  a  las discapacidades,  deberán  garantizar  que  los  servicios  a  su  cargo  estén disponibles en forma oportuna, en todos los niveles de atención.
@@ -131,7 +131,7 @@ Los  centros  de  rehabilitación  públicos  o  privados,  en  los cuales  se  
 ###### Artículo 53:
 Con el fin de no lesionar la dignidad y facilitar el logro de los objetivos  establecidos,  los  centros  de  rehabilitación  públicos  o  privados deberán  garantizar  que  sus  instalaciones  cuentan  con  las  medidas  de seguridad, comodidad y privacidad que los usuarios requieren y según la discapacidad que presenten.
 
-#### CAPICULO VIII
+#### CAPÍTULO VIII
 
 ##### Acceso a la información y a la comunicación
 
