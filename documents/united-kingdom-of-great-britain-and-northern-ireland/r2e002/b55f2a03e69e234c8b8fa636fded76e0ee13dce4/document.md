@@ -2,20 +2,6 @@
 
 Status: This version of this Act contains provisions that are prospective. Changes to legislation: There are currently no known outstanding effects for the Addressing Bullying in Schools Act (Northern Ireland) 2016. (See end of Document for details)
 
-## Definition of 'bullying'
-
-1. -(1)  In this Act 'bullying' includes (but is not limited to) the repeated use of-
-
-(a) any verbal, written or electronic communication,
-
-(b) any other act, or
-
-(c) any combination of those,
-
-by a pupil or a group of pupils against another pupil or group of pupils, with the intention of causing physical or emotional harm to that pupil or group of pupils.
-
-(2)  For the purposes of subsection (1), 'act' includes omission.
-
 # Addressing Bullying in Schools Act (Northern Ireland) 2016
 
 2016 CHAPTER 25
@@ -27,6 +13,20 @@ An Act to address bullying in grant-aided schools.
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
 PROSPECTIVE
+
+## Definition of “bullying”
+
+1.—(1) In this Act “bullying” includes (but is not limited to) the repeated use of—
+
+(a) any verbal, written or electronic communication,
+
+(b) any other act, or
+
+(c) any combination of those,
+
+by a pupil or a group of pupils against another pupil or group of pupils, with the intention of causing physical or emotional harm to that pupil or group of pupils.
+
+(2) For the purposes of subsection (1), “act” includes omission.
 
 1
 
@@ -48,11 +48,11 @@ PROSPECTIVE
 
 ## Duty of Board of Governors to secure measures to prevent bullying
 
-2. -(1)  The Board of Governors of a grant-aided school must-
+2.—(1) The Board of Governors of a grant-aided school must—
 
 (a) ensure that policies designed to prevent bullying involving a registered pupil at the school are pursued at the school;
 
-(b) determine the measures to be taken at the school (whether by the Board of Governors, the staff of the school or other persons) with a view to preventing bullying involving a registered pupil at the school-
+(b) determine the measures to be taken at the school (whether by the Board of Governors, the staff of the school or other persons) with a view to preventing bullying involving a registered pupil at the school—
 
 (i) on the premises of the school during the school day;
 
@@ -62,7 +62,7 @@ PROSPECTIVE
 
 (iv) while  the  pupil  is  receiving  educational  provision  arranged  on behalf of the school and provided elsewhere than on the premises of the school;
 
-(c) review those measures-
+(c) review those measures—
 
 (i) at intervals of no more than 4 years; and
 
@@ -72,7 +72,7 @@ PROSPECTIVE
 
 (e) in  determining  or  reviewing  those  measures,  have  due  regard  to  any guidance given by the Department;
 
-(f) prepare a written statement of such measures and secure that-
+(f) prepare a written statement of such measures and secure that—
 
 (i) a copy of that statement is given or otherwise made available, free of charge and in such form as the Board of Governors considers appropriate, to the parents of all registered pupils at the school and to the staff of the school; and
 
@@ -80,7 +80,7 @@ PROSPECTIVE
 
 (g) secure that such measures are taken.
 
-(2)  The Board of Governors of a grant-aided school may, to such extent as it thinks reasonable, consider measures to be taken at the school (whether by the Board of Governors, the staff of the school or other persons) with a view to preventing bullying involving a registered pupil at the school which- Document Generated: 2017-07-25
+(2) The Board of Governors of a grant-aided school may, to such extent as it thinks reasonable, consider measures to be taken at the school (whether by the Board of Governors, the staff of the school or other persons) with a view to preventing bullying involving a registered pupil at the school which—
 
 2
 
@@ -89,6 +89,8 @@ PROSPECTIVE
 [[START OF PAGE 3]]
 
 Addressing Bullying in Schools Act (Northern Ireland) 2016
+
+Document Generated: 2017-07-25
 
 c. 25
 
@@ -100,7 +102,7 @@ Status: This version of this Act contains provisions that are prospective. Chang
 
 (c) is  likely  to  have  a  detrimental  effect  on  that  pupil's  education  at  the school.
 
-(3)  Directions under subsection (1)(c)(ii) may be given-
+(3) Directions under subsection (1)(c)(ii) may be given—
 
 (a) in relation to grant-aided schools generally;
 
@@ -108,13 +110,13 @@ Status: This version of this Act contains provisions that are prospective. Chang
 
 (c) in relation to any particular grant-aided school or schools.
 
-(4)  In Article 3(3)(a)(ii) of the Education (Northern Ireland) Order 1998 (duty of the principal to determine measures) omit the words 'and, in particular, preventing all forms of bullying among pupils'.
+(4) In Article 3(3)(a)(ii) of the Education (Northern Ireland) Order 1998 (duty of the principal to determine measures) omit the words “and, in particular, preventing all forms of bullying among pupils”.
 
 PROSPECTIVE
 
 ## Duty to keep a record of incidents of bullying
 
-3. -(1)  The Board of Governors of a grant-aided school must ensure that a  record  is  kept  of  all  incidents  of  bullying  or  alleged  bullying  involving  a registered pupil at the school that occur-
+3.—(1) The Board of Governors of a grant-aided school must ensure that a record is kept of all incidents of bullying or alleged bullying involving a registered pupil at the school that occur—
 
 (a) on the premises of the school during the school day;
 
@@ -124,7 +126,7 @@ PROSPECTIVE
 
 (d) while the pupil is receiving educational provision arranged on behalf of the school and provided elsewhere than on the premises of the school.
 
-(2)  A record under subsection (1) must-
+(2) A record under subsection (1) must—
 
 (a) state what, from all of the circumstances, appears to be the motivation of the incident;
 
@@ -132,7 +134,7 @@ PROSPECTIVE
 
 (c) include information about how the incident was addressed.
 
-(3)    For  the  purposes  of  subsection  (2)(a),  motivation  may,  for  example, relate to-
+(3) For the purposes of subsection (2)(a), motivation may, for example, relate to—
 
 (a) differences of religious belief, political opinion, racial group, age, sex, sexual orientation or marital status;
 
@@ -168,17 +170,17 @@ PROSPECTIVE
 
 ## Interpretation
 
-4. -(1)  In this Act-
+4.—(1) In this Act—
 
-'the Department' means the Department of Education;
+“the Department” means the Department of Education;
 
-'pupil',  when  used  without  qualification,  means  a  person  of  any  age  for whom education is provided under the Education Orders except a person for whom education is provided by a nursery school.
+“pupil”, when used without qualification, means a person of any age for whom education is provided under the Education Orders except a person for whom education is provided by a nursery school.
 
 (2)    Other  words or expressions which are defined in Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 have the same meaning in this Act as in that Order.
 
 ## Short title and commencement
 
-5. -(1)  This Act may be cited as the Addressing Bullying in Schools Act (Northern Ireland) 2016.
+5.—(1) This Act may be cited as the Addressing Bullying in Schools Act (Northern Ireland) 2016.
 
 (2)  This section comes into operation on the day after this Act receives Royal Assent.
 
@@ -191,11 +193,9 @@ PROSPECTIVE
 [[START OF PAGE 5]]
 
 Status:
----
 This version of this Act contains provisions that are prospective.
 
 Changes to legislation:
----
 There are currently no known outstanding effects for the Addressing Bullying in
 Schools Act (Northern Ireland) 2016.
 
