@@ -1,13 +1,16 @@
 [[START OF PAGE 1]]
 
+北大法宝
+北大法律英文网
+www.lawinfochina.com
 Aug. 5, 2019
 
 ---------------------
 
 Monday
 
-Login >>>Welcome visitor, you're not logged in.
-
+>>>Welcome visitor, you're not logged in.
+Login
 Subscribe Now!
 
 Home
@@ -18,56 +21,30 @@ About Us
 
 Chinese
 
-Issuing authority
-
-：
-
-Standing Committee of the National People's Congress
-
-Date issued ：
-
-12-28-2002
-
-Effective date:
-
-09-01-2003
-
-Level of Authority:
-
-Laws
-
-Area of Law:
-
-Education
-
-Revised by ： Decision of the Standing Committee of the National People's Congress on Amending the Cultural Relics Protection Law of the People's Republic of China and Other Eleven Laws (Issued on 06292013 Effective on 06292013);
-
-Pkulaw Comments ： For its changes, please refer to: Decision of the State Council on Reviewing and Regulating the First Group of 89 Items of Intermediary Services for Administrative Approval of the Departments of the State Council (Issued on 10112015 Effective on 10112015);
-
-lawinfochina.com > Laws & Regulations
-
->
-
-Text
+lawinfochina.com > Laws & Regulations > Text
 
 Bookmark
-
 Download
-
 Print
-
 Search:
-
 "Fabao" Window
-
 Font Size:
-
+A A A
+EN 中
 简体 繁体
 
 # Non-state Education Promotion Law of the People's Republic of China [Revised]
 
-# 中华人民共和国民办教育促进法 [ 已被修订 ]
+# 中华人民共和国民办教育促进法 [已被修订]
 【法宝引证码】 CLI.1.44356(EN)
+
+Issuing authority： Standing Committee of the National People's Congress
+Date issued： 12-28-2002
+Effective date: 09-01-2003
+Level of Authority: Laws
+Area of Law:Education
+Revised by： Decision of the Standing Committee of the National People's Congress on Amending the Cultural Relics Protection Law of the People's Republic of China and Other Eleven Laws (Issued on 06292013 Effective on 06292013);
+Pkulaw Comments： For its changes, please refer to: Decision of the State Council on Reviewing and Regulating the First Group of 89 Items of Intermediary Services for Administrative Approval of the Departments of the State Council (Issued on 10112015 Effective on 10112015);
 
 Order of the President of the People's Republic of China
 
@@ -256,13 +233,14 @@ The social bodies applying for the establishment of a non-state school shall be 
 [[START OF PAGE 3]]
 
 As for the individuals that run non-state schools shall have political rights and full civil capacity.
+A non-state school shall be qualified as a legal person.
 
 ### Article 10
 The establishment of a non-state school shall meet the needs of the development of local education and shall satisfy the requirements in the Education Law and relevant other laws and regulations.
 
 The standards for the establishment of a non-state school shall be executed by reference to those for the establishment of a state school of the same level and category.
 ### Article 11
-Those non-state schools engaging in diploma education, pre-school education, self-taught examination, and other cultural education shall subject to the examination and approval of the administrative departments for education of the people's governments at or above the county level in accordance with their authorities defined by the state. Those nonstate schools mainly engaging in training of professional skills and vocational qualifications shall subject to the examination and approval of the administrative departments for labor & social security in accordance with their authorities defined by the state and shall submit a copy to the educational administrative departments for archival purposes.
+Those non-state schools engaging in diploma education, pre-school education, self-taught examination, and other cultural education shall subject to the examination and approval of the administrative departments for education of the people's governments at or above the county level in accordance with their authorities defined by the state. Those non-state schools mainly engaging in training of professional skills and vocational qualifications shall subject to the examination and approval of the administrative departments for labor & social security in accordance with their authorities defined by the state and shall submit a copy to the educational administrative departments for archival purposes.
 ### Article 12
 In applying for the preparations of establishing a non-state school, the applicant shall submit the following materials to the examination and approval organ: (1)An application. An application shall include such elements as the founder, purposes, scale, level, form, conditions, interior management system, financing and management etc. (2) The founder's name, domicile or name and address. (3) Sources of the assets, the amount of the fund and effective evidential documents, which shall clearly include the property ownership. (4) As for the donated school assets, an agreement of donation shall be submitted and it shall include the name of the donator(s), the amount of the donated assets, uses and management methods and relevant effective certification documents.
 ### Article 13
@@ -284,9 +262,7 @@ Those that meet the requirements for running a school and reach the establishmen
 举办实施学历教育、学前教育、自学考试 助学及其他文化教育的民办学校，由县级以上人民政府教 育行政部门按照国家规定的权限审批；举办实施以职业技 能为主的职业资格培训、职业技能培训的民办学校，由县 级以上人民政府劳动和社会保障行政部门按照国家规定的 权限审批，并抄送同级教育行政部门备案。
 
 ### 第十二条
-申请筹设民办学校，举办者应当向审批机
-
-- 关提交下列材料： （一）申办报告，内容应当主要包括：举办者、培养目 标、办学规模、办学层次、办学形式、办学条件、内部管 理体制、经费筹措与管理使用等； （二）举办者的姓名、住址或者名称、地址； （三）资产来源、资金数额及有效证明文件，并载明产 权； （四）属捐赠性质的校产须提交捐赠协议，载明捐赠人的 姓名、所捐资产的数额、用途和管理方法及相关有效证明 文件。
+申请筹设民办学校，举办者应当向审批机关提交下列材料： （一）申办报告，内容应当主要包括：举办者、培养目标、办学规模、办学层次、办学形式、办学条件、内部管理体制、经费筹措与管理使用等； （二）举办者的姓名、住址或者名称、地址； （三）资产来源、资金数额及有效证明文件，并载明产权； （四）属捐赠性质的校产须提交捐赠协议，载明捐赠人的姓名、所捐资产的数额、用途和管理方法及相关有效证明文件。
 ### 第十三条
 审批机关应当自受理筹设民办学校的申请 之日起三十日内以书面形式作出是否同意的决定。 同意筹设的，发给筹设批准书。不同意筹设的，应当说明 理由。 筹设期不得超过三年。超过三年的，举办者应当重新申 报。
 ### 第十四条
@@ -300,27 +276,33 @@ Those that meet the requirements for running a school and reach the establishmen
 [[START OF PAGE 4]]
 
 ### Article 16
-Within 3 months as of the acceptance of an application for establishing a nonstate school in due form, the examination and approval organ shall make a decision of applicant for establishing a non-state college or university, the examination and approval organ may make a decision of approval or disapproval in written form within 6 months as of the acceptance of the application, and the decision shall be served to the applicant.
+Within 3 months as of the acceptance of an application for establishing a non-state school in due form, the examination and approval organ shall make a decision of approval or disapproval in written form, and which shall be served to the applicant. As for an applicant for establishing a non-state college or university, the examination and approval organ may make a decision of approval or disapproval in written form within 6 months as of the acceptance of the application, and the decision shall be served to the applicant.
 
-### Article 24
-administrative work. He (she) shall exercise the following functions and powers:
-
-approval or disapproval in written form, and which shall be served to the applicant. As for an
 ### Article 17
 The examination and approval organ shall issue a license to the non-state schools approved to be established in due form. The examination and approval organ shall give explanations to those disproved.
+
 ### Article 18
 A non-state school shall obtain the license and register in accordance with relevant laws and administrative regulations. And the registration organ shall handle the procedures instantly pursuant to relevant regulations.
+
 ## Chapter III The Organizations and Activities of a School
+
 ### Article 19
 A non-state school shall establish a school council, a board of directors and other forms of decision-making bodies.
+
 ### Article 20
 The school council or the board of directors shall be organized by the founders, or their representative(s), the president, the representative(s) of the faculty and staff. More than 1/3 of the members of the school council or the board of the directors shall have more than five years of educational and teaching experiences. The school council or the board of directors shall consist of at least five persons, with one acting as the director-general of the school council or chairman of the board of directors. Their names shall be reported to the examination and approval organ for archival purposes.
+
 ### Article 21
 The school council or the board of directors shall exercise the following functions and powers: (1) to appoint and to dismiss the president of the school; (2) to modify the articles of incorporation of the school and to formulate the school rules & regulations; (3) to make development program and to ratify annual work plan; (4) to raise funds for the school, to check the budget and the final accounts; (5) to decide the number of faculty and staff and the wage standards; (6) to decide the division, merge and termination of the school; (7) to decide other significant matters. The functions and powers of other forms of decision-making bodies shall be executed by reference to this Article.
+
 ### Article 22
 The legal representative of a non-state school shall be the director-general of the school council or the chairman of the board of directors or the president.
+
 ### Article 23
-Non-state schools appoint their presidents by referring to the appointment requirements for the presidents of public schools of the same type and level, but the age requirement may be appropriately loosened, and the candidates shall be reported to the examination and approval authority for examination and approval. The president of a non-state school shall be in charge of teaching and
+Non-state schools appoint their presidents by referring to the appointment requirements for the presidents of public schools of the same type and level, but the age requirement may be appropriately loosened, and the candidates shall be reported to the examination and approval authority for examination and approval.
+
+### Article 24
+The president of a non-state school shall be in charge of teaching and administrative work. He (she) shall exercise the following functions and powers:
 
 ### 第十六条
 申请正式设立民办学校的，审批机关应当 自受理之日起三个月内以书面形式作出是否批准的决定， 并送达申请人；其中申请正式设立民办高等学校的，审批 机关也可以自受理之日起六个月内以书面形式作出是否批 准的决定，并送达申请人。
@@ -429,9 +411,9 @@ of a state school of the same level and category shall enjoy identical rights.
 
 [[START OF PAGE 6]]
 
-## 第五章　学校资产与财务管理
-
 ## Chapter V School Assets and Financial Management
+
+## 第五章　学校资产与财务管理
 
 ### Article 34
 A non-state school shall formulate a financial, accounting and assets management system according to law and shall set up accounting books pursuant to relevant regulations of the state.
@@ -456,10 +438,10 @@ The administrative departments for education and other relevant departments shal
 ### Article 41
 The enrollment brochures and advertisements of the non-state schools shall be reported to the examination and approval organ for archival purposes.
 ### Article 42
-Where a non-state school infringes upon the legitimate rights and interests of the educated, the educated and their relatives are entitled to complain to the administrative departments for education and at other relevant departments. Pertinent departments shall make timely solutions. The state supports and encourages social intermediary organizations to offer
+Where a non-state school infringes upon the legitimate rights and interests of the educated, the educated and their relatives are entitled to complain to the administrative departments for education and at other relevant departments. Pertinent departments shall make timely solutions.
 
 ### Article 43
-services to the non-state schools.
+The state supports and encourages social intermediary organizations to offer services to the non-state schools.
 
 ## Chapter VII Support and Award
 
@@ -511,7 +493,7 @@ services to the non-state schools.
 The people's governments at (or above) the county level may establish special funds to support the development of non-state schools, to award and commend the collectives and individuals that have made outstanding contributions.
 
 ### Article 45
-The people's governments at (or above) the county level may support the nonstate schools through providing financial aid, leasing, or transferring of the unused stateowned assets and other measures.
+The people's governments at (or above) the county level may support the non-state schools through providing financial aid, leasing, or transferring of the unused state-owned assets and other measures.
 
 ### Article 46
 A non-state school enjoys the tax preferential policies as provided by the state.
@@ -524,7 +506,7 @@ The state shall give tax preference to the citizens, legal persons or other bodi
 donations to non-state schools and commend them.
 
 ### Article 48
-The state encourages the financial institutions to support the development of nonstate education by means of credits.
+The state encourages the financial institutions to support the development of non-state education by means of credits.
 
 ### Article 49
 Where a people's government entrusts a non-state school to undertake the task of compulsory education, it shall appropriate relevant education funds to this school according to the entrustment agreement.
@@ -709,10 +691,10 @@ Where any social body or individual runs non-state schools without permission, t
 ### Article 65
 The term 'non-state schools' in the present Law include other non-state educational institutions established in accordance with the law. The term 'president' in the present Law includes the main administrative person-in-charge of other non-state educational institutions.
 ### Article 66
-The administrative measures concerning the operational non-state training institutions registered in the administrative organs of industry and commerce shall be separately formulated by the State Council. The measures governing the jointly-run schools within China by overseas
+The administrative measures concerning the operational non-state training institutions registered in the administrative organs of industry and commerce shall be separately formulated by the State Council.
 
 ### Article 67
-institution or individual shall be separately formulated by the State Council.
+The measures governing the jointly-run schools within China by overseas institution or individual shall be separately formulated by the State Council.
 
 （四）非法颁发或者伪造学历证书、结业证书、培训证 书、职业资格证书的；
 
@@ -745,9 +727,9 @@ institution or individual shall be separately formulated by the State Council.
 ## 第十章　附则
 
 ### 第六十五条
-本法所称的民办学校包括依法举办的其 他民办教育机构。
+本法所称的民办学校包括依法举办的其他民办教育机构。
 
-- 本法所称的校长包括其他民办教育机构的主要行政负责 人。
+本法所称的校长包括其他民办教育机构的主要行政负责人。
 
 ### 第六十六条
 在工商行政管理部门登记注册的经营性 的民办培训机构的管理办法，由国务院另行规定。
@@ -772,7 +754,7 @@ The present Law shall be implemented as of September 1, 2003 and the Provisions 
 Message: Please kindly comment on the present translation.
 
 Confirmation Code:
-
+3998
 Click image to reset code!
 
 Submit
