@@ -28,41 +28,41 @@ This law is enacted in accordance with the provisions of article seventeenth, fo
 
 The main objectives of this law are as fallow:
 
-- 1Ensure equal rights of education and training for the citizens of the Islamic Republic of  Afghanistan  through  promotion  and  development  of  universal,  balanced  and equitable educational manner.
+1- Ensure equal rights of education and training for the citizens of the Islamic Republic of Afghanistan through promotion and development of universal, balanced and equitable educational manner.
 
-- 2Strengthen  Islamic  spirit,  patriotism,  national  unity,  preservation  of  independence, and defense of territorial integrity, protection of interest, national pride, and loyalty to the republic system of Afghanistan.
+2- Strengthen Islamic spirit, patriotism, national unity, preservation of independence, and defense of territorial integrity, protection of interest, national pride, and loyalty to the republic system of Afghanistan.
 
-- 3Educate  children,  youth  and  adolescents  as  pious,  Afghans  and  useful  and  sound members of the Society.
+3- Educate children, youth and adolescents as pious, Afghans and useful and sound members of the Society.
 
-- 4Develop and improve moral, sentimental, mental, physical nurturing capacities and sociable spirit of the students.
+4- Develop and improve moral, sentimental, mental, physical nurturing capacities and sociable spirit of the students.
 
-- 5Strengthen  the  spirit  of  respect  to  human  rights,  protection  of  the  women  rights, democracy and elimination  of  every  kind  of  discrimination,  in  light  of  the  Islamic values and prevention of adduction to narcotics.
+5- Strengthen the spirit of respect to human rights, protection of the women rights, democracy and elimination of every kind of discrimination, in light of the Islamic values and prevention of adduction to narcotics.
 
-- 6Strengthen the spirit of individual, social responsibilities and observance of law by teachers,  lecturers,  Modrasan,  and  the  rest  of  the  employees  of  the  ministry  of education.
+6- Strengthen the spirit of individual, social responsibilities and observance of law by teachers, lecturers, Modrasan, and the rest of the employees of the ministry of education.
 
-- 7Provide opportunity for the participation of the students' parents/ guardians and other members  of  the  society  in  the  management  affairs,  and  obtaining  the  moral  and financial cooperation for the promotion and development of education.
+7- Provide opportunity for the participation of the students' parents/ guardians and other members of the society in the management affairs, and obtaining the moral and financial cooperation for the promotion and development of education.
 
-- 8Educate  and  train  citizens  by  active  participation  to  promote  economy  and  social affairs in reduction of poverty in the country.
+8- Educate and train citizens by active participation to promote economy and social affairs in reduction of poverty in the country.
 
-- 9Ensure  intermediate  (basic)  compulsory  education  and  to  provide  grounds  for secondary education, in accordance with the requirements of the society.
+9- Ensure intermediate (basic) compulsory education and to provide grounds for secondary education, in accordance with the requirements of the society.
 
-- 10Ensure  and  Develop  pre-  school  education  in  accordance  with  the  needs  of  the country's children.
+10- Ensure and Develop pre- school education in accordance with the needs of the country's children.
 
-- 11Ensure  and  develop  teacher's  training  education,  Islamic  education,  technical  professional, vocational and artistic education in the country.
+11- Ensure and develop teacher's training education, Islamic education, technical-professional, vocational and artistic education in the country.
 
-- 12Eliminate illiteracy and provide grounds for accelerated learning for the children and adults who are left behind from the school in the country.
+12- Eliminate illiteracy and provide grounds for accelerated learning for the children and adults who are left behind from the school in the country.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- 13Develop and improve the quality of education   by applying modern experiences of the      contemporary  world,  in  accordance  with  the  country's  needs,  Islamic  and national values.
+13- Develop and improve the quality of education by applying modern experiences of the contemporary world, in accordance with the country's needs, Islamic and national values.
 
-- 14Promote  and  improve  academic and professional level of teachers, lecturers, Modrasan, directors, and the rest of the employees of the ministry of education.
+14- Promote and improve academic and professional level of teachers, lecturers, Modrasan, directors, and the rest of the employees of the ministry of education.
 
-- 15Develop unified educational curriculum, in accordance with the contemporary and up to date standards.
+15- Develop unified educational curriculum, in accordance with the contemporary and up to date standards.
 
-- 16Establish, expand, promote, build, repair and mobilize schools, Madrasas and other educational institutions of the ministry of education.
+16- Establish, expand, promote, build, repair and mobilize schools, Madrasas and other educational institutions of the ministry of education.
 
 #### Equal Rights in education
 ##### Article three:
@@ -73,19 +73,19 @@ The  citizens  of  the  Islamic  Republic  of  Afghanistan  have  equal  rights 
 
 ##### Article Four:
 
-- The intermediate (basic) education in Afghanistan is compulsory.
+(1) The intermediate (basic) education in Afghanistan is compulsory.
 
-(2) Pre- school educational level , intermediate (basic) education, secondary, technicalprofessional, vocational, artistic, formal Islamic education, higher education, ( Thirteenth and fourteenth grades) teachers' training , literacy  and basic practical education in the public educational and training institutions are provided for free.
+(2) Pre- school educational level , intermediate (basic) education, secondary, technical-professional, vocational, artistic, formal Islamic education, higher education, ( Thirteenth and fourteenth grades) teachers' training , literacy and basic practical education in the public educational and training institutions are provided for free.
 
 #### Enrolment Age
 
 ##### Article five:
 
-- Children, from age six to the completion of age nine, are compulsory enrolled in the intermediate (basic) education schools level.
+(1) Children, from age six to the completion of age nine, are compulsory enrolled in the intermediate (basic) education schools level.
 
-- Children, whose ages are over kindergarten and lower than the school enrollment age, shall be enrolled in the pre-school education level.
+(2) Children, whose ages are over kindergarten and lower than the school enrollment age, shall be enrolled in the pre-school education level.
 
-- Educational  and  training  opportunities  for  children  and  youth,  over  age  nine,  are provided in accordance with its related rule.
+(3) Educational and training opportunities for children and youth, over age nine, are provided in accordance with its related rule.
 
 #### Administration and management
 ##### Article six:
@@ -97,40 +97,40 @@ The ministry of education is the highest authority to design policies, administe
 
 The ministry of education has the following duties and authorities:
 
-- 1Organize  pre-school  education  plan,  intermediate  (basic) education,  secondary, technical-professional,  vocational,  artistic,  and  formal  Islamic  education,  teachers training,  literacy  and  basic  practical  education,  unattended  education  and  education by correspondence.
+1- Organize pre-school education plan, intermediate (basic) education, secondary, technical-professional, vocational, artistic, and formal Islamic education, teachers training, literacy and basic practical education, unattended education and education by correspondence.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- 2Establish schools, Madrasases and teachers training institutions, technicalprofessional, vocational and artistic and center for literacy, with or without dormitory, in accordance with the community's needs.
+2- Establish schools, Madrasases and teachers training institutions, technical-professional, vocational and artistic and center for literacy, with or without dormitory, in accordance with the community's needs.
 
-- 3Establish and equip public schools for the out standing, gifted and talented students and students with special needs.
+3- Establish and equip public schools for the out standing, gifted and talented students and students with special needs.
 
-- 4Issue  license  to  establish  private  domestic  educational,  combined  and  international institutions and supervise their activities.
+4- Issue license to establish private domestic educational, combined and international institutions and supervise their activities.
 
-- 5Provide teaching and supplementary teaching materials.
+5- Provide teaching and supplementary teaching materials.
 
-- 6Establish libraries, laboratories, cultural centers, information technology, playgrounds, and provide sport's equipments, in accordance with educational institutions needs.
+6- Establish libraries, laboratories, cultural centers, information technology, playgrounds, and provide sport's equipments, in accordance with educational institutions needs.
 
-- 7Issue graduation certificate to the graduates of different educational levels, stated in this law.
+7- Issue graduation certificate to the graduates of different educational levels, stated in this law.
 
 #### Academic Council:
 
 ##### Article Eight:
 
-- In  order  to  issue  academic,  educational  and  professional  advises,  in  command  of drafting  policies,  drafting  appropriate  strategies,    schemes,  and  reforms  in  the educational and training system, curriculum, teachers training and scientific researches, the academic council shall be established in the ministry of education.
+(1) In order to issue academic, educational and professional advises, in command of drafting policies, drafting appropriate strategies, schemes, and reforms in the educational and training system, curriculum, teachers training and scientific researches, the academic council shall be established in the ministry of education.
 
-- Combination  and  number  of  members  of  education  academic  council  and  its activities shall be arranged in accordance with its related rules.
+(2) Combination and number of members of education academic council and its activities shall be arranged in accordance with its related rules.
 
-- The  members  of  the  academic  council  are  eligible  to  receive  adequate  attendance privilege from the budget of the ministry of education
+(3) The members of the academic council are eligible to receive adequate attendance privilege from the budget of the ministry of education
 
 #### Establishment of schools, Madrasas and educational institutions
 ##### Article Nine:
 
-- The ministry of education shall establish schools, Madrasas, educational institutions, and educational courses of different levels mentioned in this law considering social needs and the financial capability of the state,   in accordance with educational rules and standards.
+(1) The ministry of education shall establish schools, Madrasas, educational institutions, and educational courses of different levels mentioned in this law considering social needs and the financial capability of the state, in accordance with educational rules and standards.
 
-- Education and training of nomads' children, shall take place in the established and mobile  schools.    The  ministry  of  education,  within  its  financial  capabilities  shall provide facilities to the Kochi children, by establishing dormitories.
+(2) Education and training of nomads' children, shall take place in the established and mobile schools. The ministry of education, within its financial capabilities shall provide facilities to the Kochi children, by establishing dormitories.
 
 #### Establishment of Dormitories
 ##### Article Ten:
@@ -141,7 +141,7 @@ The ministry of education, in order to ensure access of the society to the diffe
 
 ##### Article Eleven:
 
-- National and foreign natural and legal persons can establish private, combined and international educational institutions, with national and international standards in the
+(1) National and foreign natural and legal persons can establish private, combined and international educational institutions, with national and international standards in the
 
 [[END OF PAGE 4]]
 
@@ -149,14 +149,14 @@ The ministry of education, in order to ensure access of the society to the diffe
 
 different educational levels in accordance with its related regulation for the Afghan and foreign citizens.
 
-- Curriculum, educational plan and their activities mentioned in paragraph (1) of this article  and  the  conditions  of  admission  of  the  students,  lecturers  ,  teachers  and Islamic teachers shall be arranged in accordance with its related regulation
+(2) Curriculum, educational plan and their activities mentioned in paragraph (1) of this article and the conditions of admission of the students, lecturers , teachers and Islamic teachers shall be arranged in accordance with its related regulation
 
 #### Educational Standards
 ##### Article Twelve:
 
-- The beginning and closing of the school year, in the different climatically regions, the number of weekly teaching hours, the number of the students in the class, curriculum, educational plan, evaluation system and examination of different educational levels, are set forth, in accordance with its related rules, by the ministry of education.
+(1) The beginning and closing of the school year, in the different climatically regions, the number of weekly teaching hours, the number of the students in the class, curriculum, educational plan, evaluation system and examination of different educational levels, are set forth, in accordance with its related rules, by the ministry of education.
 
-- Admission requirements, number, level of educational standards of teachers, lecturers, and Modrasan, and the principle method of evaluation and examination and their other academic, professional and specialization are set forth by the ministry of education  with its related rules.
+(2) Admission requirements, number, level of educational standards of teachers, lecturers, and Modrasan, and the principle method of evaluation and examination and their other academic, professional and specialization are set forth by the ministry of education with its related rules.
 
 #### Unattended education and education by correspondence
 ##### Article Thirteen:
@@ -197,29 +197,29 @@ Intermediate  (Basic)  educational  level  comprises  grade  first  to  the  end
 
 Objectives of the intermediate (basic) education are:
 
-- 1Understand  the  basic  principles  and  commandments  of  the  sacred  religion  of Islam and strengthen Islamic belief and values. Non-Muslim students are exempt from this provision.
+1- Understand the basic principles and commandments of the sacred religion of Islam and strengthen Islamic belief and values. Non-Muslim students are exempt from this provision.
 
-- 2Improve and strengthen Islamic sensation and spirit of patriotism and unity and national solidarity, justice, equality, peaceful coexistence, peace loving, tolerability and self-reliance.
+2- Improve and strengthen Islamic sensation and spirit of patriotism and unity and national solidarity, justice, equality, peaceful coexistence, peace loving, tolerability and self-reliance.
 
-- 3Improve and strengthen respecting to the human and woman rights.
+3- Improve and strengthen respecting to the human and woman rights.
 
-- 4Aware the students to the importance of the protection of the environment and its proper use and strengthen the spirit of adduction.
+4- Aware the students to the importance of the protection of the environment and its proper use and strengthen the spirit of adduction.
 
-- 5Improve and strengthen the spirit of social responsibility, law abiding, order and discipline, social behavior, respecting parents, elder, teachers, lecturers, Modrasan and effective participation in the family, schools and societal affairs and spirit of mutual assistance, kindness, and cooperation.
+5- Improve and strengthen the spirit of social responsibility, law abiding, order and discipline, social behavior, respecting parents, elder, teachers, lecturers, Modrasan and effective participation in the family, schools and societal affairs and spirit of mutual assistance, kindness, and cooperation.
 
-- 66- Develop and strengthen physical, spiritual, moral, mental, affection and social soundness of the students.
+6- 6- Develop and strengthen physical, spiritual, moral, mental, affection and social soundness of the students.
 
-- 7Develop and expand training physical education, cultural and artistic programs in accordance with the Islamic values.
+7- Develop and expand training physical education, cultural and artistic programs in accordance with the Islamic values.
 
-- 8Acquire functional literacy and develop skills  in reading, writing, speaking  and listening in the national and international languages.
+8- Acquire functional literacy and develop skills in reading, writing, speaking and listening in the national and international languages.
 
-- 9Develop and strengthen the habit and culture of reading.
+9- Develop and strengthen the habit and culture of reading.
 
-- 10Acquire basic knowledge of social and natural sciences.
+10- Acquire basic knowledge of social and natural sciences.
 
-- 11Develop  and  Strengthen  the  sense  of  initiation,  intelligence  and  indentifying problems and seeking logical solution.
+11- Develop and Strengthen the sense of initiation, intelligence and indentifying problems and seeking logical solution.
 
-- 12Prepare the students for the secondary educational level.
+12- Prepare the students for the secondary educational level.
 
 ## Chapter Three
 ### Secondary General Educational level
@@ -239,23 +239,23 @@ The  secondary  general  education  level  comprises  grades  ten,  eleven  and 
 
 The objectives of the secondary general educational level, in addition to the objectives of article eighteen of this law are:
 
-ِ Develop and strengthen understanding and solidify Islamic belief and values of the students. Non-Muslim students are exempt from this provision.
+1. ِDevelop and strengthen understanding and solidify Islamic belief and values of the students. Non-Muslim students are exempt from this provision.
 
-- Develop and strengthen the spirit of loyalty to the homeland, the system of Islamic Republic of Afghanistan, preservation of independence, defending territorial integrity and national values, protecting properties and public assets, consolidating democracy, in conformity with Islamic values and nationally accepted traditions.
+2. Develop and strengthen the spirit of loyalty to the homeland, the system of Islamic Republic of Afghanistan, preservation of independence, defending territorial integrity and national values, protecting properties and public assets, consolidating democracy, in conformity with Islamic values and nationally accepted traditions.
 
-- Develop and expand culture of peace and equality.
+3. Develop and expand culture of peace and equality.
 
-- Aware  students  of  the  harms  of  tobacco,  drugs,  intoxication,  danger  of  AIDS, terrorism,  war,  violence,  discrimination,  and  every  kinds  of  prejudices  and  other prohibitions..
+4. Aware students of the harms of tobacco, drugs, intoxication, danger of AIDS, terrorism, war, violence, discrimination, and every kinds of prejudices and other prohibitions..
 
-- Develop and expand Islamic knowledge, social and natural sciences and methamics.
+5. Develop and expand Islamic knowledge, social and natural sciences and methamics.
 
-- Develop and strengthen skills in national and international languages.
+6. Develop and strengthen skills in national and international languages.
 
-- Use of contemporary technology, including information technology.
+7. Use of contemporary technology, including information technology.
 
-- Develop  and  expand  the  habit  and  culture  of  reading,  thinking  and  analyzing academic researches and self-evaluation.
+8. Develop and expand the habit and culture of reading, thinking and analyzing academic researches and self-evaluation.
 
-- Prepare students for continuing and higher education and trade and occupation.
+9. Prepare students for continuing and higher education and trade and occupation.
 
 ## Chapter Four
 ### Islamic Education
@@ -263,24 +263,24 @@ The objectives of the secondary general educational level, in addition to the ob
 #### Islamic Education level
 ##### Article Twenty - one
 
-- Islamic formal educational level comprises grade tenth to the end of grade fourteenth, provided and expanded free in the public educational Madrasas, in a balanced and equitable manner, in accordance with the number of population and Kochis residing in  the  area  and  educational  and  training  standards  for  the  graduates  of  the  ninth grades of intermediate (basic) education level.
+(1) Islamic formal educational level comprises grade tenth to the end of grade fourteenth, provided and expanded free in the public educational Madrasas, in a balanced and equitable manner, in accordance with the number of population and Kochis residing in the area and educational and training standards for the graduates of the ninth grades of intermediate (basic) education level.
 
-- Education in Darulhefazes comprises grade one to the end of grade twelve, provided and expanded free in the public Darulhefazes.
+(2) Education in Darulhefazes comprises grade one to the end of grade twelve, provided and expanded free in the public Darulhefazes.
 
 #### Objectives of the Islamic education level
 ##### Article Twenty-two:
 
 The objectives of the formal Islamic education level and Darulhefazes, in addition to the objectives set forth in articles eighteenth and twentieth of this law are:
 
-- Gain  principles,  rules,  religious  precepts,  academic  and  ethical  orders  of  the  sacred religion of Islam, and use them in the individual and social life, effective and useful participation in the household, Madrasa and the community life.
+1. Gain principles, rules, religious precepts, academic and ethical orders of the sacred religion of Islam, and use them in the individual and social life, effective and useful participation in the household, Madrasa and the community life.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- Train scholars, orators,  preachers, Modrasan, and (memorizers) Hafezes of the Holly Quran, for teaching, preaching, propagating, directing and leading prayers (Imam).
+2. Train scholars, orators, preachers, Modrasan, and (memorizers) Hafezes of the Holly Quran, for teaching, preaching, propagating, directing and leading prayers (Imam).
 
-- Train  professional  teacher  for  Islamic  knowledge  and  Arabic  language  to  teach  in Madrasas and public and private educational institutions.
+3. Train professional teacher for Islamic knowledge and Arabic language to teach in Madrasas and public and private educational institutions.
 
 ## Chapter Five
 ### Technical- Professional, Vocational and Artistic Education
@@ -288,22 +288,22 @@ The objectives of the formal Islamic education level and Darulhefazes, in additi
 #### Technical - Professional Educational, vocational and artistic educational level
 ##### Article Twenty-Three:
 
-- Technical-professional, vocational and artistic education level comprises grade tenth to the end of grade fourteenth , provided and expanded   in public educational institutions in  a  balanced  and  equitable  manner,  considering  the  number  of  population  and  Kochis residing  in  the  area  and  educational  and  training  standards  for  the  graduates  of  the intermediate (basic) educational  schools.
+(1) Technical-professional, vocational and artistic education level comprises grade tenth to the end of grade fourteenth , provided and expanded in public educational institutions in a balanced and equitable manner, considering the number of population and Kochis residing in the area and educational and training standards for the graduates of the intermediate (basic) educational schools.
 
-- Technical  -  professional  vocational  and  artistic  education  comprise  short  terms courses in order to develop and provide professional skills in accordance with societal needs, in the educational institutions of the ministry of education.
+(2) Technical – professional vocational and artistic education comprise short terms courses in order to develop and provide professional skills in accordance with societal needs, in the educational institutions of the ministry of education.
 
 #### Objectives of the Technical- Professional, Vocational and Artistic education level
 ##### Article Twenty-Four:
 
 The  objectives  of  technical-professional,  vocational  and  artistic  educational  level,  in addition to the objectives set forth in article twentieth of this law, are:
 
-- Train  human  resources  in  the  technical-  professional,  vocational  and  artistic  fields needed by the society and international market considering national and international standards, with special concern to the woman needs.
+1. Train human resources in the technical- professional, vocational and artistic fields needed by the society and international market considering national and international standards, with special concern to the woman needs.
 
-- Develop  and  expand  knowledge  and  skills  in  the  technical-  professional,  vocational and artistic section, through theoretical and practical manner, in the needed fields.
+2. Develop and expand knowledge and skills in the technical- professional, vocational and artistic section, through theoretical and practical manner, in the needed fields.
 
-- Provide special education for the blind and disabled students in appropriate and needed field s.
+3. Provide special education for the blind and disabled students in appropriate and needed field s.
 
-- Prepare students for admission into the educational institutions and universities.
+4. Prepare students for admission into the educational institutions and universities.
 
 ## Chapter Six
 ### Teachers' Training
@@ -322,13 +322,13 @@ Teachers' training educational level comprises grade tenth to the end of grade f
 
 The objectives of the teacher's training education level are:
 
-- Train pious teachers,  lecturers  and  Modrasan, with knowledge  in highly professional standards  skills,  in  order  to  acquire  intermediate  (basic),  and  secondary  education objectives, stated in this law, in accordance with educational necessity and educational and training system.
+1. Train pious teachers, lecturers and Modrasan, with knowledge in highly professional standards skills, in order to acquire intermediate (basic), and secondary education objectives, stated in this law, in accordance with educational necessity and educational and training system.
 
-- Increase the number of professional teachers, lecturers and Modrasan.
+2. Increase the number of professional teachers, lecturers and Modrasan.
 
-- Promote knowledge and professional skills of teachers, lectures and Modrasan.
+3. Promote knowledge and professional skills of teachers, lectures and Modrasan.
 
-- Provide grounds for taking the national skills exam of teachers, lecturers and Modrasan while in service.
+4. Provide grounds for taking the national skills exam of teachers, lecturers and Modrasan while in service.
 
 #### Programs for on the job training and pre-admission to the service
 ##### Article Twenty -Seven:
@@ -372,7 +372,7 @@ The objectives of the center for science and educational and training technology
 #### Unified Educational Curriculum
 ##### Article Thirtieth:
 
-- Unified educational curriculum, is the standard which sets forth general and specific objectives of education and training and based on that, the ministry of education provides and organizes the  content of educational textbooks, method of teaching and evolution, teaching material and its auxiliary.
+(1) Unified educational curriculum, is the standard which sets forth general and specific objectives of education and training and based on that, the ministry of education provides and organizes the content of educational textbooks, method of teaching and evolution, teaching material and its auxiliary.
 
 (2) A unified educational curriculum shall apply in all public and private        educational and training institutions.
 
@@ -381,16 +381,16 @@ Private  international  educational  institutions,  stated  in  article  (11)  o
 #### Prepare, Draft and Develop Educational Curriculum
 ##### Article Thirty-One:
 
-- The  ministry  of  education,  in  order  to  prepare  and  draft  develop  educational curriculum  and  teaching  materials  and  arrange  its  related  affairs,  shall  establish  the academic  board  and  the  developing  educational  curriculum,  teaching  materials  and  its publishing office. The composition, duties and authority of this office shall be set forth in separate rules.
+(1) The ministry of education, in order to prepare and draft develop educational curriculum and teaching materials and arrange its related affairs, shall establish the academic board and the developing educational curriculum, teaching materials and its publishing office. The composition, duties and authority of this office shall be set forth in separate rules.
 
-- Unified  educational  curriculum for levels of intermediate (basic),  secondary, technical-  professional,  vocational,  and  artistic,  formal  Islamic  education,  teachers' training,  literary  and  basic  practical  education,  pre-school  education,  and  unattended education  and  education  by  correspondence,  shall  be  continuously  reviewed    and developed, in accordance with the needs of the society and considering internationally accepted academic standards , prepared and drafted by the boards mentioned in paragraph (1) of this article and by observing   acquired experiences.
+(2) Unified educational curriculum for levels of intermediate (basic), secondary, technical- professional, vocational, and artistic, formal Islamic education, teachers' training, literary and basic practical education, pre-school education, and unattended education and education by correspondence, shall be continuously reviewed and developed, in accordance with the needs of the society and considering internationally accepted academic standards , prepared and drafted by the boards mentioned in paragraph (1) of this article and by observing acquired experiences.
 
-- Educational  curriculum  stated  in  paragraph  (2)  of  this  article,  shall  apply  after  the ratification  of  the  academic  council  of  the  ministry  of  education  and  approval  of  the minister.
+(3) Educational curriculum stated in paragraph (2) of this article, shall apply after the ratification of the academic council of the ministry of education and approval of the minister.
 
 #### Language of Teaching
 ##### Article Thirty-two:
 
-- Teaching  in  the  public  educational  institutions,  stated  in  this  law,  national  private educational  institutions  and  educational  and  training  programs  and  centers  for  literacy and basic practical education, shall be taught in one of the state official languages (Pashto and  Dari).  Language  of  teaching  shall  be  selected  from  one  of  the  two  state  official
+(1) Teaching in the public educational institutions, stated in this law, national private educational institutions and educational and training programs and centers for literacy and basic practical education, shall be taught in one of the state official languages (Pashto and Dari). Language of teaching shall be selected from one of the two state official
 
 [[END OF PAGE 10]]
 
@@ -398,15 +398,15 @@ Private  international  educational  institutions,  stated  in  article  (11)  o
 
 languages,  based  on  the  current  language  spoken  by  the  majority  of  the  population residing in the area, in accordance with its related rule.
 
-- Learning  Pashto  and  Dari  languages  in  the  schools  and  educational  institutions  is compulsory.
+(2) Learning Pashto and Dari languages in the schools and educational institutions is compulsory.
 
-- In the areas where spoken language of the  majority of the people is the third official language  in  the  country  (  Uzbiki,  Turkmani,  Pashai,  Nooristani,  Balochi,  Pamiry  and other  languages),  in  addition  to  teach  Pashto  and  Dari  languages,  opportunities  for teaching of the third language as a teaching subject shall be prepared.
+(3) In the areas where spoken language of the majority of the people is the third official language in the country ( Uzbiki, Turkmani, Pashai, Nooristani, Balochi, Pamiry and other languages), in addition to teach Pashto and Dari languages, opportunities for teaching of the third language as a teaching subject shall be prepared.
 
-In order to teach the third official languages of the country, the ministry of education in the  field  of  teachers  training,  textbooks,  teaching  materials,  shall  provide  and  apply effective programs.
+In order to teach the third official languages of the country, the ministry of education in the field of teachers training, textbooks, teaching materials, shall provide and apply effective programs.
 
-- Teaching  in  the  international  educational  institution,  shall  be  taken  place  in  a language that has been selected by the educational institutions and with the agreement of the      ministry  of  education.  Teaching  one  of  the  official  languages  (Pashto  and  Dari), basics and commands of the secret religion   of Islam for the Afghan students in these educational  institutions  shall  be  provided  in  accordance  with  the  separate  procedures, prepared and organized by the ministry of education.
+(4) Teaching in the international educational institution, shall be taken place in a language that has been selected by the educational institutions and with the agreement of the ministry of education. Teaching one of the official languages (Pashto and Dari), basics and commands of the secret religion of Islam for the Afghan students in these educational institutions shall be provided in accordance with the separate procedures, prepared and organized by the ministry of education.
 
-- Foreign languages in the educational institutions stated in this law and private and public  educational  and  training  programs,  shall  be  taught  in  conformity  with  the educational curriculum.
+(5) Foreign languages in the educational institutions stated in this law and private and public educational and training programs, shall be taught in conformity with the educational curriculum.
 
 ## Chapter Nine
 ### Extra Curricula Activities
@@ -414,27 +414,27 @@ In order to teach the third official languages of the country, the ministry of e
 #### Implementation of Extra Curricula Activities
 ##### Article Thirty-three:
 
-- The ministry of education, in order to promote students personality and educational level  with  having  the  spirit  of  unity,  harmony,  equality,  sense  of  understanding, assistance, humanism, patriotism, respect to human and woman's rights, acquaintance to diverse  cultures,  participation  in  social  and  cultural  affairs  of  the  community,  shall organize and apply the following extra curricula activities under the guidance of teachers, lecturers and Modrasan:
+(1) The ministry of education, in order to promote students personality and educational level with having the spirit of unity, harmony, equality, sense of understanding, assistance, humanism, patriotism, respect to human and woman's rights, acquaintance to diverse cultures, participation in social and cultural affairs of the community, shall organize and apply the following extra curricula activities under the guidance of teachers, lecturers and Modrasan:
 
-- 1Encourage and abet students to perform obligatory duties and obey Islamic ethics.
+1- Encourage and abet students to perform obligatory duties and obey Islamic ethics.
 
-- 2Participate  actively  and  voluntarily  in  the  social  works  including  helping  needy compatriots, preserve living, environment, cleaning and greenery affairs, construct  and  rehabilitate  inside  and  out  side  of  the  educational  institution premises.
+2- Participate actively and voluntarily in the social works including helping needy compatriots, preserve living, environment, cleaning and greenery affairs, construct and rehabilitate inside and out side of the educational institution premises.
 
-- 3Participate  actively  in  field  trips  for  the  purpose  of  acquaintance  with  the compatriots, culture and rich history of the country and strengthen national unity.
+3- Participate actively in field trips for the purpose of acquaintance with the compatriots, culture and rich history of the country and strengthen national unity.
 
-- 4Participate actively in competition, gatherings and academic conferences, artistic, literary and sporting in and outside of the country.
+4- Participate actively in competition, gatherings and academic conferences, artistic, literary and sporting in and outside of the country.
 
-- 5Create students exchange programs for the  purpose of academic learning, with Islamic and other friendly nations
+5- Create students exchange programs for the purpose of academic learning, with Islamic and other friendly nations
 
-- 6Organize workshops and seminars for understanding the charter of the UN, basic declaration of the human right and respect to human dignity.
+6- Organize workshops and seminars for understanding the charter of the UN, basic declaration of the human right and respect to human dignity.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- 7Organize  other  extra  curricula  activities  resulting  mental,  intellectual,  physical and personal behavior enhancement of the students.
+7- Organize other extra curricula activities resulting mental, intellectual, physical and personal behavior enhancement of the students.
 
-- Participate in the activities stated in paragraph (1) of this article shall take place with the approval of the students' parents.
+(2) Participate in the activities stated in paragraph (1) of this article shall take place with the approval of the students' parents.
 
 #### Establishment of Boys Scout
 ##### Article Thirty-four:
@@ -454,37 +454,37 @@ Literacy and basic practical education comprises reading, writing, counting and 
 
 The objective of the literacy and basic practical education are:
 
-- 1Observe the orders of the secret religion of Islam related to literacy and knowledge.
+1- Observe the orders of the secret religion of Islam related to literacy and knowledge.
 
-- 2Provide  grounds  for  reading,  writing,  counting  and  acquiring  knowledge  in  basic practical  and  vocational  skills  for  illiterate  and  less  literate  and  prepare  them  for continuing education.
+2- Provide grounds for reading, writing, counting and acquiring knowledge in basic practical and vocational skills for illiterate and less literate and prepare them for continuing education.
 
-- 3Provide  the  opportunity  for  continuing  education  stated  in  this  law  for  adult  and children who are left behind from education.
+3- Provide the opportunity for continuing education stated in this law for adult and children who are left behind from education.
 
 #### Compulsory Learning of Literacy and Basic Practical Education
 ##### Article Thirty-Seven:
 
-- Teach  literacy  and  basic  practical  education  to  the  illiterate  and  less  literate  for contractor of employees of the public and private organizations are compulsory.
+(1) Teach literacy and basic practical education to the illiterate and less literate for contractor of employees of the public and private organizations are compulsory.
 
-- The ministries and public and private organizations shall provide grounds for literacy and basic practical education programs with cooperation of the ministry of education in their related departments.
+(2) The ministries and public and private organizations shall provide grounds for literacy and basic practical education programs with cooperation of the ministry of education in their related departments.
 
-- Method to implement literacy and basic practical education programs in their related ministries and private and public departments, shall be prepared in accordance with separate rule and be approved and organized by the ministry of education.
+(3) Method to implement literacy and basic practical education programs in their related ministries and private and public departments, shall be prepared in accordance with separate rule and be approved and organized by the ministry of education.
 
-- Ministries and public and private organizations stated in paragraph (2) of this article are obliged to provide the stationary, place to teach and employ the literacy and basic practical education teachers.
+(4) Ministries and public and private organizations stated in paragraph (2) of this article are obliged to provide the stationary, place to teach and employ the literacy and basic practical education teachers.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- The ministry of education  shall prepare and provide books, learning materials and grounds  of  learning  for  literacy  and  basic  practical  education  teachers  of  the ministries and public and private departments, stated in paragraph (2) of this article
+(5) The ministry of education shall prepare and provide books, learning materials and grounds of learning for literacy and basic practical education teachers of the ministries and public and private departments, stated in paragraph (2) of this article
 
-- The ministry of education, based on societal needs and possibility of the government financial  capabilities,  shall  set  up  and  conduct  national  literacy  and  basic  practical education programs, considering priority of the deprived people of the society, in a balanced and equitable manner, in accordance to its related procedure.
+(6) The ministry of education, based on societal needs and possibility of the government financial capabilities, shall set up and conduct national literacy and basic practical education programs, considering priority of the deprived people of the society, in a balanced and equitable manner, in accordance to its related procedure.
 
 #### Administer and Manage, Literacy and Basic Practical Education
 ##### Article Thirty -eight:
 
-- In  order  to  draft  and  apply  national  programs  in  the  domain  of  literacy  and  basic practical  education,  obtain  resources,  manage,  lead  and  supervise  the  process  of implementation of the afore mentioned programs, the high commission of literacy and basic practical education, shall be established in the ministry of education.
+(1) In order to draft and apply national programs in the domain of literacy and basic practical education, obtain resources, manage, lead and supervise the process of implementation of the afore mentioned programs, the high commission of literacy and basic practical education, shall be established in the ministry of education.
 
-- Composition  of  the  members  and  method  of  commission's  activities  stated  in paragraph (1) of this article shall be set forth in accordance with its related procedure.
+(2) Composition of the members and method of commission's activities stated in paragraph (1) of this article shall be set forth in accordance with its related procedure.
 
 ## Chapter Eleven
 ### Miscellaneous provisions
@@ -497,9 +497,9 @@ Every kind of physical and psychological punishment of students is prohibited ev
 #### Prohibition of Political Activities
 ##### Article Forty :
 
-- Political and partisan activities of the   student's, teacher's, lecturers, Modrasan and other  employees  of  the  ministry  of  education  in  the  premises  of  the  educational institutions and educational and training programs stated in this law, are forbidden.
+(1) Political and partisan activities of the student's, teacher's, lecturers, Modrasan and other employees of the ministry of education in the premises of the educational institutions and educational and training programs stated in this law, are forbidden.
 
-- Individuals,  organizations  and  political  parties,  are  prohibited  to  use  educational institutions  stated  in  this  law  and  educational  and  training  programs  for  achieving their political purposes.
+(2) Individuals, organizations and political parties, are prohibited to use educational institutions stated in this law and educational and training programs for achieving their political purposes.
 
 #### Uniforms
 
@@ -549,7 +549,7 @@ The ministry of education, in order to improve  and expand academic, professiona
 #### Council of the Parents, Students, Teachers and the Community People
 ##### Article Forty- Eight:
 
-- The council of the representatives of student's parents, teachers and local residents, to achieve the following objectives, shall be established, in the public and private schools and educational institutions:
+(1) The council of the representatives of student's parents, teachers and local residents, to achieve the following objectives, shall be established, in the public and private schools and educational institutions:
 
 - 1-Active participation of the students' parents, teachers and the local residents in the process  of  education  and  training,  in  order  to  resolve  educational  and  training
 
@@ -557,7 +557,7 @@ The ministry of education, in order to improve  and expand academic, professiona
 
 [[START OF PAGE 15]]
 
-- problems, improving educational and training quality, prevention of misuse, legal and disciplinary violations of students, teachers and employees of the ministry of education.
+problems, improving educational and training quality, prevention of misuse, legal and disciplinary violations of students, teachers and employees of the ministry of education.
 
 - 2-  Oversee and supervise from education, moral, edification and social interactive of the students' and employees of the ministry of education.
 
