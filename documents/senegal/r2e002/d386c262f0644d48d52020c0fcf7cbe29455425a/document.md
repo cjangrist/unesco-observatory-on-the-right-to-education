@@ -40,7 +40,7 @@ Sur le rapport du Ministre de l'Education,
 
 Decrete :
 
-## Article premier.
+## Article premier. -
 Les articles premier, 3, 7 et 17 du décret n° 98-564 du 26 juin 1998 fixant les conditions de la reconnaissance et les modalités d'attribution des subventions et primes aux examens aux établissements d'enseignement privés sont abrogés et remplacés par les dispositions suivantes :
 ### « Article premier :
 Les établissements d'éducation préscolaire privés, de l'enseignement élémentaire, moyen  et  secondaire  général  ou  technique,  de  formation  professionnelle  régulièrement  ouverts peuvent, sur la demande du déclarant responsable être reconnus à condition notamment :
@@ -166,7 +166,7 @@ Pour  l'enseignement  élémentaire,  le  moyen  secondaire  général  et  l'en
 ### « Article 17 :
 Les subventions et les primes aux examens sont accordées par arrêté du Ministre compétent ».
 
-## Art. 2.
+## Art. 2. -
 Le Ministre d'Etat, Ministre des Sports, le Ministre d'Etat, Ministre de l'Economie maritime, le Ministre d'Etat, Ministre de l'Agriculture et de l'Hydraulique, le Ministre de l'Economie et des Finances, le Ministre de l'Education, le Ministre du Tourisme et des Transports aériens, le Ministre de la Santé et de la Prévention médicale, le Ministre de la Culture et du Patrimoine historique classé, le Ministre de la Jeunesse, le Ministre de l'Elevage, le Ministre délégué chargé de l'Enseignement technique et de la Formation professionnelle, le Ministre délégué chargé de l'Alphabétisation, des Langues nationales et de la Francophonie sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au Journal officiel.
 
 Fait à Dakar, le 10 janvier 2005. Abdoulaye WADE. Par le Président de la République : Le Premier Ministre,
