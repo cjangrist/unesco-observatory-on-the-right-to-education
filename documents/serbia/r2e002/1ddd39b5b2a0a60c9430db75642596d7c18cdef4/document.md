@@ -350,7 +350,6 @@ Vaspitne grupe mogu biti formirane za decu istog ili različitog uzrasta.
 Broj dece koja se upisuju u vaspitnu grupu, istog uzrasta, jeste:
 
 - od 6 meseci do 1 godine | 7
---- | ---
 - od 1 do 2 godine | 12
 - od 2 do 3 godine | 16
 - od 3 do 4 godine | 20
@@ -359,23 +358,8 @@ Broj dece koja se upisuju u vaspitnu grupu, istog uzrasta, jeste:
 
 Izuzetno od stava 3. ovog člana, broj dece koja se upisuju u vaspitnu grupu, jeste:
 
-- na bolničkom lečenju
-
-- sa smetnjama u razvoju i invaliditetom - razvojna grupa
-
-7
-
-12
-
-16
-
-20
-
-24
-
-do 15
-
-4 do 6
+- na bolničkom lečenju | do 15
+- sa smetnjama u razvoju i invaliditetom - razvojna grupa | 4 do 6
 
 Ako ne postoji mogućnost za formiranje vaspitnih grupa u skladu sa stavom 3. ovog člana, osnivač može utvrditi manji, odnosno najviše 20% veći broj dece od broja koji se upisuje u vaspitnu grupu, u skladu sa kriterijumima, koje propisuje ministar.
 
@@ -390,17 +374,13 @@ Kada je autonomna pokrajina osnivač predškolske ustanove, odnosno škole koja 
 Broj dece koja se upisuju u grupe mešovitog sastava jeste:
 
 - od 1 do 3 godine | 12
---- | ---
-
-12
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- od 3 godine do polaska u školu - od 2 godine do polaska u školu
-
-20 15
+- od 3 godine do polaska u školu | 20
+- od 2 godine do polaska u školu | 15
 
 Predškolska ustanova može da formira grupe mešovitog sastava i sa drugačijim uzrastima.
 
@@ -420,11 +400,17 @@ Kriterijumi za formiranje strukture vaspitnih grupa utvrđuju se statutom predš
 
 ##### Član 34
 
-Detetu kome je usled socijalne uskraćenosti, smetnji u razvoju, invaliditeta i drugih razloga potrebna dodatna podrška u vaspitanju i obrazovanju, predškolska ustanova obezbeđuje otklanjanje fizičkih i komunikacijskih prepreka, odnosno vrši skladu sa zakonom.
+Detetu kome je usled socijalne uskraćenosti, smetnji u razvoju, invaliditeta i drugih razloga potrebna dodatna podrška u vaspitanju i obrazovanju, predškolska ustanova obezbeđuje otklanjanje fizičkih i komunikacijskih prepreka, odnosno vrši prilagođavanje i, ukoliko je potrebno, obezbeđuje izradu, donošenje i realizaciju individualnog obrazovnog plana (IOP1), u skladu sa zakonom.
 
-prilagođavanje i, ukoliko je potrebno, obezbeđuje izradu, donošenje i realizaciju individualnog obrazovnog plana (IOP1), u Predškolska ustanova u koju je upisano dete iz osetljive društvene grupe može da utvrdi potrebu za pružanjem dodatne obrazovne, zdravstvene ili socijalne podrške detetu. Inicijativu za pokretanje postupka procene potreba deteta za dodatnom podrškom koju vrši interresorna komisija može da pokrene roditelj, odnosno drugi zakonski zastupnik deteta i/ili predškolska ustanova uz saglasnost roditelja, odnosno drugog zakonskog zastupnika. Deca sa smetnjama u razvoju i invaliditetom ostvaruju pravo na dodatnu podršku u predškolskom vaspitanju i obrazovanju u vaspitnoj grupi, uz plan individualizacije ili individualni vaspitno-obrazovni plan i u razvojnoj grupi, na osnovu individualnog vaspitno-obrazovnog plana. U jednoj vaspitnoj grupi može biti do dvoje dece sa smetnjama u razvoju i invaliditetom. Broj dece u vaspitnoj grupi, utvrđen ovim zakonom, umanjuje se za tri po detetu iz stava 3. ovog člana koje ostvaruje pravo na dodatnu podršku u vaspitnoj grupi, uz plan individualizacije ili individualni vaspitno-obrazovni plan. Dete se upisuje u razvojnu grupu samo uz mišljenje interresorne komisije uz saglasnost roditelja, odnosno drugog zakonskog zastupnika. Za dete upisano u razvojnu grupu planira se i realizuje svakodnevna interakcija i uključenost u aktivnosti ostalih vaspitnih grupa. U toku pohađanja predškolskog programa prati se razvoj deteta i na osnovu predloga tima za inkluzivno obrazovanje, dete sa smetnjama u razvoju i invaliditetom može preći iz razvojne u vaspitnu grupu, u skladu sa zakonom. Prilikom prelaska deteta iz stava 1. ovog člana u drugu predškolsku ustanovu ili osnovnu školu, u partnerstvu sa roditeljem,
+Predškolska ustanova u koju je upisano dete iz osetljive društvene grupe može da utvrdi potrebu za pružanjem dodatne obrazovne, zdravstvene ili socijalne podrške detetu. Inicijativu za pokretanje postupka procene potreba deteta za dodatnom podrškom koju vrši interresorna komisija može da pokrene roditelj, odnosno drugi zakonski zastupnik deteta i/ili predškolska ustanova uz saglasnost roditelja, odnosno drugog zakonskog zastupnika.
 
-odnosno drugim zakonskim zastupnikom deteta, ostvaruje se saradnja sa ustanovom u koju dete prelazi i planiraju se zajedničke aktivnosti ustanova koje treba da doprinesu uspešnom prelasku i ostvarivanju kontinuiteta u vaspitanju i obrazovanju.
+Deca sa smetnjama u razvoju i invaliditetom ostvaruju pravo na dodatnu podršku u predškolskom vaspitanju i obrazovanju u vaspitnoj grupi, uz plan individualizacije ili individualni vaspitno-obrazovni plan i u razvojnoj grupi, na osnovu individualnog vaspitno-obrazovnog plana.
+
+U jednoj vaspitnoj grupi može biti do dvoje dece sa smetnjama u razvoju i invaliditetom. Broj dece u vaspitnoj grupi, utvrđen ovim zakonom, umanjuje se za tri po detetu iz stava 3. ovog člana koje ostvaruje pravo na dodatnu podršku u vaspitnoj grupi, uz plan individualizacije ili individualni vaspitno-obrazovni plan.
+
+Dete se upisuje u razvojnu grupu samo uz mišljenje interresorne komisije uz saglasnost roditelja, odnosno drugog zakonskog zastupnika. Za dete upisano u razvojnu grupu planira se i realizuje svakodnevna interakcija i uključenost u aktivnosti ostalih vaspitnih grupa. U toku pohađanja predškolskog programa prati se razvoj deteta i na osnovu predloga tima za inkluzivno obrazovanje, dete sa smetnjama u razvoju i invaliditetom može preći iz razvojne u vaspitnu grupu, u skladu sa zakonom.
+
+Prilikom prelaska deteta iz stava 1. ovog člana u drugu predškolsku ustanovu ili osnovnu školu, u partnerstvu sa roditeljem, odnosno drugim zakonskim zastupnikom deteta, ostvaruje se saradnja sa ustanovom u koju dete prelazi i planiraju se zajedničke aktivnosti ustanova koje treba da doprinesu uspešnom prelasku i ostvarivanju kontinuiteta u vaspitanju i obrazovanju.
 
 #### Radno vreme predškolske ustanove
 
@@ -452,7 +438,9 @@ Vaspitno-obrazovni rad ostvaruju vaspitači, i to: vaspitač, medicinska sestra-
 
 ##### Član 38
 
-Zadatak vaspitača jeste da svojim kompetencijama osigura uvažavanje principa predškolskog vaspitanja i obrazovanja, ostvarivanje ciljeva predškolskog vaspitanja i obrazovanja, ostvarivanje i unapređivanje vaspitno-obrazovnog rada. Zadatak medicinske sestre - vaspitača jeste da svojim kompetencijama osigura uvažavanje principa predškolskog vaspitanja i obrazovanja, ostvarivanje ciljeva predškolskog vaspitanja i obrazovanja, ostvarivanje i unapređivanje nege i vaspitnoobrazovnog rada.
+Zadatak vaspitača jeste da svojim kompetencijama osigura uvažavanje principa predškolskog vaspitanja i obrazovanja, ostvarivanje ciljeva predškolskog vaspitanja i obrazovanja, ostvarivanje i unapređivanje vaspitno-obrazovnog rada.
+
+Zadatak medicinske sestre - vaspitača jeste da svojim kompetencijama osigura uvažavanje principa predškolskog vaspitanja i obrazovanja, ostvarivanje ciljeva predškolskog vaspitanja i obrazovanja, ostvarivanje i unapređivanje nege i vaspitno-obrazovnog rada.
 
 Zadatak defektologa vaspitača jeste da svojim kompetencijama osigura postizanje ciljeva i principa predškolskog vaspitanja i obrazovanja, u skladu sa IOP-om i programom vaspitno-obrazovnog rada.
 
@@ -499,9 +487,7 @@ Zadatak saradnika jeste da svojim znanjem, savetodavnim i stručnim radom obezbe
 
 ##### Član 45
 
-Poslove saradnika može da obavlja lice, i to: 1) poslove unapređivanja socijalne zaštite - lice koje ima odgovarajuće visoko obrazovanje na studijama drugog stepena (master akademske studije, specijalističke akademske studije ili master strukovne studije) ili na osnovnim studijama u trajanju od najmanje četiri godine po propisima koji su uređivali visoko obrazovanje do 10. septembra 2005. godine, u skladu sa Zakonom; 2) poslove unapređivanja preventivnozdravstvene zaštite - lice koje ima odgovarajuće obrazovanje na studijama prvog stepena (osnovne strukovne studije, osnovne akademske studije ili specijalističke strukovne studije), odnosno na studijama u trajanju od tri godine ili višim obrazovanjem zdravstvene struke, u skladu sa Zakonom; 3) poslove unapređivanja, planiranja i organizacije ishrane - lice koje ima odgovarajuće obrazovanje na studijama prvog stepena (osnovne strukovne studije ili specijalističke strukovne studije), odnosno na studijama u trajanju od tri godine ili višim obrazovanjem zdravstvene struke, u skladu sa Zakonom; 4) poslove nege i preventivne zdravstvene zaštite - lice koje ima odgovarajuće srednje obrazovanje zdravstvene struke, u
-
-- skladu sa Zakonom.
+Poslove saradnika može da obavlja lice, i to: 1) poslove unapređivanja socijalne zaštite - lice koje ima odgovarajuće visoko obrazovanje na studijama drugog stepena (master akademske studije, specijalističke akademske studije ili master strukovne studije) ili na osnovnim studijama u trajanju od najmanje četiri godine po propisima koji su uređivali visoko obrazovanje do 10. septembra 2005. godine, u skladu sa Zakonom; 2) poslove unapređivanja preventivnozdravstvene zaštite - lice koje ima odgovarajuće obrazovanje na studijama prvog stepena (osnovne strukovne studije, osnovne akademske studije ili specijalističke strukovne studije), odnosno na studijama u trajanju od tri godine ili višim obrazovanjem zdravstvene struke, u skladu sa Zakonom; 3) poslove unapređivanja, planiranja i organizacije ishrane - lice koje ima odgovarajuće obrazovanje na studijama prvog stepena (osnovne strukovne studije ili specijalističke strukovne studije), odnosno na studijama u trajanju od tri godine ili višim obrazovanjem zdravstvene struke, u skladu sa Zakonom; 4) poslove nege i preventivne zdravstvene zaštite - lice koje ima odgovarajuće srednje obrazovanje zdravstvene struke, u skladu sa Zakonom.
 
 #### Pedagoški asistent
 
@@ -597,7 +583,7 @@ Osnivač koji nije utvrdio minimum procesa rada za vreme štrajka zaposlenih u p
 
 Medicinske sestre, vaspitači, stručni saradnici i saradnici - vaspitači, koji su na dan stupanja na snagu ovog zakona zaposleni u predškolskoj ustanovi, a koji su po propisima koji su važili do dana stupanja na snagu ovog zakona ispunjavali uslove za obavljanje vaspitno-obrazovnog rada u pogledu vrste i stepena obrazovanja, mogu i dalje da obavljaju vaspitno-obrazovni rad u predškolskoj ustanovi.
 
-Vaspitno-obrazovni rad u predškolskoj ustanovi mogu da obavljaju i lica iz stava 1. ovog člana, koja na dan stupanja na snagu ovog zakona nisu u radnom odnosu u predškolskoj ustanovi, ako imaju više od 20 godina radnog iskustva u vaspitnoobrazovnom radu u predškolskoj ustanovi.
+Vaspitno-obrazovni rad u predškolskoj ustanovi mogu da obavljaju i lica iz stava 1. ovog člana, koja na dan stupanja na snagu ovog zakona nisu u radnom odnosu u predškolskoj ustanovi, ako imaju više od 20 godina radnog iskustva u vaspitno-obrazovnom radu u predškolskoj ustanovi.
 
 Medicinske sestre iz stava 1. ovog člana koje obavljaju vaspitno-obrazovni rad imaju obavezu da steknu dozvolu za rad propisanu Zakonom, u roku od tri godine od dana stupanja na snagu ovog zakona.
 
