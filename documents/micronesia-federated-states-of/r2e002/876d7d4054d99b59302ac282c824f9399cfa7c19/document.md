@@ -189,7 +189,7 @@ Section  6.    Net  revenue  derived  from  ocean  floor  mineral  resources  ex
 
 Section  7.    The  President,  Vice-President,  or  a  justice  of  the  Supreme  Court  may  be removed from office for treason, bribery, or conduct involving corruption in office by a 2/3 vote  of  the  members  of  Congress.    When  the  President  or  Vice-President  is  removed,  the Supreme Court shall review the decision.  When a justice of the Supreme Court is removed, the decision shall be reviewed by a special tribunal composed of one state court judge from each state appointed by the state chief executive.  The special tribunal shall meet at the call of the President.
 
-Section 8.  The Congress consists of one member elected at large from each state on the basis of state equality, and additional members elected from congressional districts in each state apportioned by population.  Members elected on the basis of state equality serve for a 4year term, and all other members for 2 years.  Each member has one vote, except on the final reading of bills. Congressional elections are held biennially as provided by statute.
+Section 8.  The Congress consists of one member elected at large from each state on the basis of state equality, and additional members elected from congressional districts in each state apportioned by population.  Members elected on the basis of state equality serve for a 4-year term, and all other members for 2 years.  Each member has one vote, except on the final reading of bills. Congressional elections are held biennially as provided by statute.
 
 Section 9.  A person is ineligible to be a member of Congress unless he is at least 30 years of age on the day of election and has been a citizen of the Federated States of Micronesia for at least 15 years, and a resident of the state from which he is elected for at least 5 years.  A person  convicted  of  a  felony  by  a  state  or  national  government  court  is  ineligible  to  be  a member  of  Congress.    The  Congress  may  modify  this  provision  or  prescribe  additional qualifications; knowledge of the English language may not be a qualification.
 
@@ -266,7 +266,7 @@ Section 3.  The President:
 
 Section 4.  A person is ineligible to become President unless he is a member of Congress for a 4-year term, a citizen of the Federated States of Micronesia by birth, and a resident of the Federated States of Micronesia for at least 15 years.
 
-Section 5.  After the election of the President, the Vice-President is elected in the same manner as the President, has the same qualifications, and serves for the same term of office. He may not be a resident of the same state.  After the election of the President and the VicePresident, vacancies in Congress shall be declared.
+Section 5.  After the election of the President, the Vice-President is elected in the same manner as the President, has the same qualifications, and serves for the same term of office. He may not be a resident of the same state.  After the election of the President and the Vice-President, vacancies in Congress shall be declared.
 
 Section 6. If the office of the President is vacant, or the President is unable to perform his duties, the Vice-President becomes President.  The Congress shall provide by statute for the succession  in  the  event  both  offices  are  vacant,  or  either  or  both  officers  are  unable  to discharge their duties.
 
