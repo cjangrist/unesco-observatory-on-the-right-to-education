@@ -14,69 +14,69 @@ Anti-Gender-Based Violence
 
 Section
 
-- Short title
+1. Short title
 
-- Application of relevant Acts
+2. Application of relevant Acts
 
-- Interpretation
+3. Interpretation
 
 ### PART II
 
 #### FILING OF, AND DEALING WITH, COMPLIANTS OF GENDER-BASED-VIOLENCE
 
-- Number of acts amounting to gender-based violence
+4. Number of acts amounting to gender-based violence
 
-- Duty to assist or inform complainant of rights, etc.
+5. Duty to assist or inform complainant of rights, etc.
 
-- Filing of complaint to police
+6. Filing of complaint to police
 
-- Police to respond promptly
+7. Police to respond promptly
 
-- Police assistance after receipt of complaint
+8. Police assistance after receipt of complaint
 
-- Arrest by police
+9. Arrest by police
 
 ### PART III
 
 #### PROTECTION ORDERS
 
-- Application for protection order
+10. Application for protection order
 
-- Conduct of proceedings
+11. Conduct of proceedings
 
-- Interim protection order
+12. Interim protection order
 
-- Issuance of protection order
+13. Issuance of protection order
 
-- Effect of protection order
+14. Effect of protection order
 
-- Conditions of protection order
+15. Conditions of protection order
 
-- Modification of protection order
+16. Modification of protection order
 
-- Duration of final protection order
+17. Duration of final protection order
 
-- Extension of protection order to other persons
+18. Extension of protection order to other persons
 
-- Grant of protection order not to exclude criminal liability
+19. Grant of protection order not to exclude criminal liability
 
-- Occupation order
+20. Occupation order
 
-- Appeals
+21. Appeals
 
-- Power to discharge protection order
+22. Power to discharge protection order
 
-- Contravention of protection order
+23. Contravention of protection order
 
 ### PART IV
 
 #### SHELTER FOR VICTIMS
 
-- Establishment of shelters for victims
+24. Establishment of shelters for victims
 
-- Minimum norms and standards of shelters
+25. Minimum norms and standards of shelters
 
-- Inspectors of shelters
+26. Inspectors of shelters
 
 Single copies of this Act may be obtained from the Government Printer, P.O. Box 30136, 10101 Lusaka, Price K 000 each.
 
@@ -88,47 +88,47 @@ Single copies of this Act may be obtained from the Government Printer, P.O. Box 
 
 Anti-Gender-Based Violence
 
-- Shelters for child victims
+27. Shelters for child victims
 
-- Shelters for adult victims
+28. Shelters for adult victims
 
-- Assessment of victim
+29. Assessment of victim
 
-- Rehabilitation of victim
+30. Rehabilitation of victim
 
 ### PART V
 
 #### ANTI-GENDER-BASED VIOLENCE COMMITTEE
 
-- Anti-Gender-Based Violence Committee
+31. Anti-Gender-Based Violence Committee
 
 ### PART VI
 
 #### ANTI-GENDER-BASED VIOLENCE FUND
 
-- Establishment of Fund
+32. Establishment of Fund
 
-- Administration and management of Fund
+33. Administration and management of Fund
 
-- Accounts and audit
+34. Accounts and audit
 
 ### PART VII
 
 #### GENERAL PROVISIONS
 
-- Service of process
+35. Service of process
 
-- Settlement of matter out court
+36. Settlement of matter out court
 
-- Proceedings in camera
+37. Proceedings in camera
 
-- Publication of proceedings prohibited
+38. Publication of proceedings prohibited
 
-- Public education
+39. Public education
 
-- Rules of court
+40. Rules of court
 
-- Regulations
+41. Regulations
 
 ### SCHEDULE
 
@@ -148,9 +148,11 @@ No. 1 of 2011
 
 Date of Assent: 12th April, 2011
 
-- An Act to provide for the protection of victims of genderbased  violence;  constitute  the  Anti-Gender-Based Violence  Committee;  establish  the Anti-Gender-Based Violence Fund; and provide for matters connected with, or incidental to, the foregoing.
+An Act to provide for the protection of victims of gender-based violence; constitute the Anti-Gender-Based Violence Committee; establish the Anti-Gender-Based Violence Fund; and provide for matters connected with, or incidental to, the foregoing.
 
-[ 15th April, 2011
+[15th April, 2011
+
+### Enactment
 
 ENACTED by the Parliament of Zambia.
 
@@ -158,36 +160,38 @@ ENACTED by the Parliament of Zambia.
 
 ## PRELIMINARY
 
-- This Act may be cited as the Anti-Gender-Based Violence Act, 2010.
+### Short title
 
-(1) An act of gender-based violence shall be inquired into, tried, and otherwise dealt with in accordance with the Criminal Procedure Code, the Penal Code and any other written law.
+1. This Act may be cited as the Anti-Gender-Based Violence Act, 2010.
 
-- Subject to the Constitution, where there is any inconsistency between the provisions of this Act and the provisions of any other written law the provisions of this Act shall prevail to the extent of the inconsistency.
+### Application of relevant Acts
 
-(1) In this Act, unless the context otherwise requires'  abuse  '  means  conduct  that  harms  or  is  likely  to  cause harm to the safety, health or wellbeing of a person;
+2. (1) An act of gender-based violence shall be inquired into, tried, and otherwise dealt with in accordance with the Criminal Procedure Code, the Penal Code and any other written law.
 
-' aggravated ' in relation to gender-based violence, means any act of gender-based violence which-
+Cap. 88
+Cap. 87
+
+(2) Subject to the Constitution, where there is any inconsistency between the provisions of this Act and the provisions of any other written law the provisions of this Act shall prevail to the extent of the inconsistency.
+
+Cap. 1
+
+### Interpretation
+
+3. (1) In this Act, unless the context otherwise requires—
+
+“ abuse ” means conduct that harms or is likely to cause harm to the safety, health or wellbeing of a person;
+
+“ aggravated ” in relation to gender-based violence, means any act of gender-based violence which—
 
 (a) causes the victim to suffer wounding or grievous bodily harm; or
 
-(b) the court otherwise considers to be so serious as to be aggravated, taking into account-
+(b) the court otherwise considers to be so serious as to be aggravated, taking into account—
 
 (i) whether a weapon was used;
 
 (ii) evidence of pre-meditation;
 
-(iii)  whether  the  victim  is  particularly vulnerable;
-
-### Enactment
-
-### Short title
-
-### Application of relevant Acts
-Cap. 88 Cap. 87
-
-Cap. 1
-
-### Interpretation
+(iii) whether the victim is particularly vulnerable;
 
 [[END OF PAGE 3]]
 
@@ -275,7 +279,7 @@ Anti-Gender-Based Violence
 
 (c) the exhibition of obsessive possessiveness which is such as to constitute a serious invasion of the person's privacy, liberty, integrity or security; or
 
-(d) any act, omission or behaviour constituting genderbased violence which, when committed in the presence of minor members of the family, is likely to cause them mental injury;
+(d) any act, omission or behaviour constituting gender-based violence which, when committed in the presence of minor members of the family, is likely to cause them mental injury;
 
 ' gender ' means female or male and the role individuals play in society as a result of their sex and status;
 
@@ -395,7 +399,7 @@ Anti-Gender-Based Violence
 
 (o) conduct  that  in  any  way  harms  or  may  harm another person, including any omission that results in harm and either-
 
-(i)  endangers the safety, health or wellbeing of another person;
+(i) endangers the safety, health or well-being of another person;
 
 (ii) undermines another person's privacy, integrity or security; or
 
@@ -419,25 +423,19 @@ Anti-Gender-Based Violence
 
 Anti-Gender-Based Violence
 
-### Number of acts amounting to gender-based violence
+“ stalking ” includes following, pursuing or accosting a person; and
 
-### Duty  to assist or inform victim of rights, etc.
+“ victim ” means a person against whom an act of gender-based violence has been, is being or is likely to be committed.
 
-### Filing of complaint to police
+(2) A court shall, in determining whether a person is in a domestic relationship, have regard to—
 
-' stalking ' includes following, pursuing or accosting a person; and
+(a) the place where the person’s time is ordinarily spent;
 
-' victim ' means a person against whom an act of genderbased violence has been, is being or is likely to be committed.
-
-(2) A court shall, in determining whether a person is in a domestic relationship, have regard to-
-
-(a) the place where the person's time is ordinarily spent;
-
-(b) the manner in which the person's time is spent; and
+(b) the manner in which the person’s time is spent; and
 
 (c) the duration of the relationship.
 
-(3) Without prejudice to subsection (1), a person is in a domestic relationship where the person-
+(3) Without prejudice to subsection (1), a person is in a domestic relationship where the person—
 
 (a) is providing refuge to a victim whom a respondent seeks to attack; or
 
@@ -449,15 +447,21 @@ Anti-Gender-Based Violence
 
 GENDER-BASED VIOLENCE
 
-- A single act may amount to gender-based violence.
+### Number of acts amounting to gender-based violence
 
-5. A police officer, labour inspector, social worker, counsellor, medical practitioner,  legal  practitioner,  nurse,  religious  leader, traditional leader, teacher, employer or other person or institution with information concerning the commission of an act of  genderbased violence shall-
+4. A single act may amount to gender-based violence.
 
-(a) inform a victim of the victim's rights and any basic support which may be available to assist the victim;
+### Duty to assist or inform victim of rights, etc.
+
+5. A police officer, labour inspector, social worker, counsellor, medical practitioner, legal practitioner, nurse, religious leader, traditional leader, teacher, employer or other person or institution with information concerning the commission of an act of gender-based violence shall—
+
+(a) inform a victim of the victim’s rights and any basic support which may be available to assist the victim;
 
 (b) obtain for the victim, or advise the victim how to obtain shelter, medical treatment, legal services, counselling or other service that may be required in the circumstances; and
 
-(c) advise the victim of the victim's right to lodge a complaint against the respondent including remedies available to the victim under this Act.
+(c) advise the victim of the victim’s right to lodge a complaint against the respondent including remedies available to the victim under this Act.
+
+### Filing of complaint to police
 
 6. (1) A victim of gender-based violence may file a complaint about the gender-based violence.
 
@@ -471,9 +475,9 @@ Anti-Gender-Based Violence
 
 (2) A child or a person with a mental disability may be assisted by a next friend to file a complaint of gender-based violence.
 
-(3) Notwithstanding subsection (1), a complaint of genderbased violence may be filed by any other person or institution with information about the gender-based violence where the intervention is in the interest of the victim.
+(3) Notwithstanding subsection (1), a complaint of gender-based violence may be filed by any other person or institution with information about the gender-based violence where the intervention is in the interest of the victim.
 
-(4) A complaint of gender-based violence shall be filed with the police at the place-
+(4) A complaint of gender-based violence shall be filed with the police at the place—
 
 (a) where the offender resides;
 
@@ -481,19 +485,23 @@ Anti-Gender-Based Violence
 
 (c) where the gender-based violence occurred or is occurring or is likely to occur;
 
-(d) if the victim has left the victim's usual place of abode, where the victim is residing temporarily; or
+(d) if the victim has left the victim’s usual place of abode, where the victim is residing temporarily; or
 
 (e) that is convenient for the person filing the complaint.
 
+### Police to respond promptly
+
 7. A police officer shall respond promptly to a request by any person for assistance from gender-based violence and shall offer such protection as the circumstances of the case or the person who made the report requires even when the person reporting is not the victim of the gender-based violence.
 
-8. (1) Where a police officer receives  a  complaint  under subsection (4) of section six , the police officer shall-
+### Police assistance after receipt of complaint
+
+8. (1) Where a police officer receives a complaint under subsection (4) of section six, the police officer shall—
 
 (a) interview the parties and witnesses to the gender-based violence;
 
 (b) record the complaint in detail and provide the victim with an extract of the complaint, upon request, in a language the victim understands;
 
-(c) assist  the  victim  to  obtain  medical  treatment,  where necessary;
+(c) assist the victim to obtain medical treatment, where necessary;
 
 (d) assist the victim to a place of safety as the circumstances of the case or as the victim requires where the victim expresses concern about safety;
 
@@ -501,12 +509,7 @@ Anti-Gender-Based Violence
 
 (f) assist and advise the victim to preserve evidence.
 
-(2) Where one of the parties or witnesses to an act of genderbased  violence,  a  complaint  of  which  has  been  made  under subsection (4) of section six , is a child, a police officer who receives the complaint shall interview the child in the presence of -
-### Police to respond promptly
-### Police assistance after receipt of complaint
-Act No. 24 of 2009
-### Arrest  by police
-### Application for protection order
+(2) Where one of the parties or witnesses to an act of gender-based violence, a complaint of which has been made under subsection (4) of section six, is a child, a police officer who receives the complaint shall interview the child in the presence of—
 
 [[END OF PAGE 11]]
 
@@ -518,25 +521,29 @@ Anti-Gender-Based Violence
 
 (a) the parent or guardian of the child; or
 
-(b) a  next  friend,  where  the  parent  or  guardian  is  the respondent.
+(b) a next friend, where the parent or guardian is the respondent.
 
-(3) Police  assistance  to  a  victim  under  paragraph (c) of subsection (1) consists of issuing a medical form to the victim and, where necessary, sending the victim to a health facility.
+(3) Police assistance to a victim under paragraph (c) of subsection (1) consists of issuing a medical form to the victim and, where necessary, sending the victim to a health facility.
 
 (4) A victim of gender-based violence who is assisted by the police to obtain medical treatment under paragraph (c) of subsection (1), shall be entitled to free medical treatment at a public health facility and a free medical report within a reasonable period of time.
 
 (5) Family mediation or intervention shall not be a bar to the investigation or prosecution of a complaint of gender-based violence.
 
-(6) For the purposes of this section, ' health facility ' has the meaning assigned to it in the Health Professions Act, 2009.
+(6) For the purposes of this section, “ health facility ” has the meaning assigned to it in the Health Professions Act, 2009.
 
-9. A police officer may, without a warrant, arrest a person where the police officer has reasonable grounds to believe that the person-
+Act No. 24 of 2009
+
+### Arrest by police
+
+9. A police officer may, without a warrant, arrest a person where the police officer has reasonable grounds to believe that the person—
 
 (a) is committing, or has committed, an offence under this Act;
 
 (b) is about to commit an offence under this Act and there is no other way to prevent the commission of the offence;
 
-(c) unless arrested, will-
+(c) unless arrested, will—
 
-(i)  escape or cause an unreasonable delay, trouble or expense in being made answerable to justice;
+(i) escape or cause an unreasonable delay, trouble or expense in being made answerable to justice;
 
 (ii) interfere with the witnesses; or
 
@@ -550,7 +557,9 @@ Anti-Gender-Based Violence
 
 ## PROTECTION ORDERS
 
-10. (1) A victim may, in the prescribed manner, apply to a court for a protection order to prevent-
+### Application for protection order
+
+10. (1) A victim may, in the prescribed manner, apply to a court for a protection order to prevent—
 
 (a) a respondent;
 
@@ -592,13 +601,13 @@ from carrying out a threat of gender-based violence against the victim or to pre
 
 (g) an institution with information about the gender-based violence.
 
-- A person who assists a victim to make an application shall-
+(5) A person who assists a victim to make an application shall—
 
-(a) obtain the victim's consent, in writing, except where the victim-
+(a) obtain the victim’s consent, in writing, except where the victim—
 
 (i) is a child;
 
-(ii) has a mental disability ;
+(ii) has a mental disability;
 
 (iii) is unconscious; or
 
@@ -606,7 +615,7 @@ from carrying out a threat of gender-based violence against the victim or to pre
 
 (b) seek the leave of the court to make an application without the consent of the victim.
 
-- The application may be filed in a court situated where-
+(6) The application may be filed in a court situated where—
 
 (a) the victim resides, carries on business or is employed;
 
@@ -618,17 +627,17 @@ from carrying out a threat of gender-based violence against the victim or to pre
 
 Anti-Gender-Based Violence
 
-### Conduct of proceedings
-
 (b) the respondent resides, carries on business or is employed;
 
 (c) the act of gender-based violence occurred or is occurring or is likely to occur; or
 
-(d) the victim is residing temporarily, if the victim has left the victim's usual place of abode.
+(d) the victim is residing temporarily, if the victim has left the victim’s usual place of abode.
 
-(7) An application  or  action  shall  be  commenced  in  the prescribed manner and form.
+(7) An application or action shall be commenced in the prescribed manner and form.
 
-(8) A court before which criminal proceedings in relation to gender-based  violence  are  pending  may,  on  its  own  motion, considering the circumstances of the case, or on an application by the victim, issue a protection order in respect of the victim.
+(8) A court before which criminal proceedings in relation to gender-based violence are pending may, on its own motion, considering the circumstances of the case, or on an application by the victim, issue a protection order in respect of the victim.
+
+### Conduct of proceedings
 
 11. (1) Notwithstanding any other law, proceedings for a protection order shall be held in chambers in the presence of the parties, their legal representatives and any other person permitted by the court to be present.
 
@@ -658,13 +667,15 @@ Anti-Gender-Based Violence
 
 (7) The report shall contain details of the circumstances of the gender-based violence, an assessment of the effect of the violence and any other information considered expedient by the social worker, probation officer or other person appointed by the court.
 
-12. (1) Where an application is made exparte to  the  court for a protection order, the court shall issue an interim protection order  if  it  considers  the  order  to  be  in  the  best  interest  of  the applicant.
+### Interim protection order
 
-(2) In  determining  whether  it  is  in  the  best  interest  of  the applicant to issue an interim protection order, the court shall take into account-
+12. (1) Where an application is made exparte to the court for a protection order, the court shall issue an interim protection order if it considers the order to be in the best interest of the applicant.
 
-(a) whether there is a risk of harm to the applicant or a relation or  friend  of  the  applicant  if  the  order  is  not  made immediately;
+(2) In determining whether it is in the best interest of the applicant to issue an interim protection order, the court shall take into account—
 
-(b) whether it is likely that the applicant will be deterred or prevented from pursuing the  application if an order is not made immediately; and
+(a) whether there is a risk of harm to the applicant or a relation or friend of the applicant if the order is not made immediately;
+
+(b) whether it is likely that the applicant will be deterred or prevented from pursuing the application if an order is not made immediately; and
 
 (c) whether there is reason to believe that the respondent is deliberately evading service of notice of the proceedings and the applicant, or any person in a domestic relationship with the respondent, will be prejudiced by the delay involved in effecting service.
 
@@ -672,19 +683,15 @@ Anti-Gender-Based Violence
 
 (4) The court shall, when making an interim protection order where the respondent is not already before the court, summon the respondent to appear within the period of three months referred to in subsection (3) to show cause why the interim order should not be made final.
 
-(5) If  the  respondent  fails  to  appear  before  the  court  in accordance with subsection (4), the order shall become final.
+(5) If the respondent fails to appear before the court in accordance with subsection (4), the order shall become final.
 
-(6) Where an application is made on notice to the court for a protection order and the court is of the opinion that-
+(6) Where an application is made on notice to the court for a protection order and the court is of the opinion that—
 
 (a) the respondent is committing, has committed or is likely to commit an act of gender-based violence; and
 
 (b) the applicant will suffer significant harm if a protection order is not issued;
 
-the  court  may  issue  an  interim  protection  order  pending  the consideration of the order applied for.
-
-### Interim protection order
-### Issuance of protection order
-### Effect of protection order
+the court may issue an interim protection order pending the consideration of the order applied for.
 
 [[END OF PAGE 15]]
 
@@ -694,11 +701,15 @@ the  court  may  issue  an  interim  protection  order  pending  the considerati
 
 Anti-Gender-Based Violence
 
-(7) Where the court grants an interim protection order, it shall apply the provisions of section thirteen and subsection (1) of section fifteen and may apply any of the provisions contained in section fourteen .
+(7) Where the court grants an interim protection order, it shall apply the provisions of section thirteen and subsection (1) of section fifteen and may apply any of the provisions contained in section fourteen.
 
-13. The court  may  issue  a  protection  order  to  prohibit  a respondent from committing or threatening to commit an act of gender-based violence personally or otherwise, against an applicant or a relation or associate of the applicant.
+### Issuance of protection order
 
-14. A protection order may prohibit the respondent or an associated respondent, or both, from-
+13. The court may issue a protection order to prohibit a respondent from committing or threatening to commit an act of gender-based violence personally or otherwise, against an applicant or a relation or associate of the applicant.
+
+### Effect of protection order
+
+14. A protection order may prohibit the respondent or an associated respondent, or both, from—
 
 (a) physically assaulting or using physical force against the applicant or any relation, friend, a legal representative or any other person associated with the applicant;
 
@@ -748,17 +759,19 @@ Anti-Gender-Based Violence
 
 (r) doing any act which the court  considers not in the best interest of the applicant.
 
-15. (1) A protection order may, at the request of the applicant or on the court's own motion, include any or all of the following:
+### Conditions of protection order
 
-(a) a provision which-
+15. (1) A protection order may, at the request of the applicant or on the court’s own motion, include any or all of the following:
+
+(a) a provision which—
 
 (i) binds the respondent to be of good behaviour;
 
 (ii) directs the respondent to seek counselling or other rehabilitative service; or
 
-(iii)  forbids  the  respondent  to  be,  except  under conditions  specified  in  the  order,  at  or  near places frequented by the applicant or by any child or other person in the care of the applicant;
+(iii) forbids the respondent to be, except under conditions specified in the order, at or near places frequented by the applicant or by any child or other person in the care of the applicant;
 
-(b) a  provision  directing  the  respondent  to  surrender  any firearm or other specified weapon in the possession of the respondent to the police, which may also include, if appropriate-
+(b) a provision directing the respondent to surrender any firearm or other specified weapon in the possession of the respondent to the police, which may also include, if appropriate—
 
 (i) a provision suspending any firearm licence in the name of the respondent for the duration of the protection order; or
 
@@ -766,10 +779,9 @@ Anti-Gender-Based Violence
 
 (c) a provision restraining the applicant or respondent, or both, from taking, converting, damaging, or otherwise dealing in property in which the other party may have an interest or a reasonable expectation of use;
 
-(d) a provision temporarily directing the respondent to make periodic payments in respect of the maintenance of the applicant,  and  of  any  child  of  the  applicant,  if  the respondent is legally liable to support the applicant or
+(d) a provision temporarily directing the respondent to make periodic payments in respect of the maintenance of the applicant, and of any child of the applicant, if the respondent is legally liable to support the applicant or
 
-### Conditions of protection order
-the  child,  as  an  emergency  measure  where  no  such maintenance order is already in force, together with such other emergency monetary relief as is appropriate;
+the child, as an emergency measure where no such maintenance order is already in force, together with such other emergency monetary relief as is appropriate;
 
 [[END OF PAGE 17]]
 
@@ -793,7 +805,7 @@ Anti-Gender-Based Violence
 
 (iii)  allowing  such  contact  only  under  specified conditions designed to ensure the safety of the applicant, any child who may be affected, and any other family members;
 
-- if  the  court  is  satisfied  that  that  is  reasonably necessary for the safety of the child in question;
+if the court is satisfied that that is reasonably necessary for the safety of the child in question;
 
 (g) a provision ordering the relocation of the applicant to a shelter to be provided by the Minister responsible for social welfare, or other place of safety, and compelling the respondent to pay rent for the period the applicant resides  in  such  other  place  of  safety  if  the  court  is satisfied that  that is reasonably necessary for the safety of the applicant or any child or person in the care of the applicant; and
 
@@ -809,41 +821,39 @@ Anti-Gender-Based  Violence
 
 [No. 1  of 2011 19
 
-16. An applicant or respondent may apply to the court which granted an order, for the modification or cancellation of the order.
-
-17. A final protection order issued by the court shall not exceed twelve months in the first instance but may, for good cause shown, be extended, modified or rescinded by the court on application by the applicant in the original proceedings.
-
-18. (1) A court may extend a protection order to any person specified in the order other than the applicant if the court is satisfied that-
-
-(a) the respondent is engaging in or has engaged in conduct, which, if the person specified in the order, were or had been in a domestic relationship with the respondent, the conduct would amount to gender-based violence against the specified person;
-
-(b) the respondent's conduct towards the specified person is due, in whole or in part to the applicant's  relationship with the specified person; or
-
-(c) the extension of the protection order is necessary for the protection of the specified person.
-
-19. The grant of a protection order under subsection (8) of section ten does not exclude a person's criminal liability under the Penal Code or any other law.
-
-20. (1) Subject to subsections (2) and (3), where the court, in issuing a protection order, considers it expedient to issue an occupation  order,  the  court  may  issue  an  order  requiring  a respondent to vacate the matrimonial home or other home which the respondent shares with the applicant and to continue to pay rent, mortgage payment and maintenance to the applicant.
-
-(2) The court shall issue an occupation order after it considers a social enquiry report, prepared by a social worker, a probation officer or other person appointed by the court, as appropriate.
-
-(3) Where the applicant and the respondent are in a marital relationship,  the  court  shall  consider  the  effect  of  the  order  or omission of the order on the health, education and development of the family.
-
-(4) A landlord shall not evict an applicant solely on the basis that the applicant  is not a party to a lease, where a residence is rented by a respondent but exclusive occupation is given to the applicant by the court.
-
 ### Modification of protection order
+
+16. An applicant or respondent may apply to the court which granted an order, for the modification or cancellation of the order.
 
 ### Duration of final protection order
 
+17. A final protection order issued by the court shall not exceed twelve months in the first instance but may, for good cause shown, be extended, modified or rescinded by the court on application by the applicant in the original proceedings.
+
 ### Extension of protection order to other persons
 
+18. (1) A court may extend a protection order to any person specified in the order other than the applicant if the court is satisfied that—
+
+(a) the respondent is engaging in or has engaged in conduct, which, if the person specified in the order, were or had been in a domestic relationship with the respondent, the conduct would amount to gender-based violence against the specified person;
+
+(b) the respondent’s conduct towards the specified person is due, in whole or in part to the applicant’s relationship with the specified person; or
+
+(c) the extension of the protection order is necessary for the protection of the specified person.
+
 ### Grant of protection order not to exclude criminal liability
+
+19. The grant of a protection order under subsection (8) of section ten does not exclude a person’s criminal liability under the Penal Code or any other law.
+
 Cap. 87
 
 ### Occupation order
-### Appeals
-### Power to discharge order
-### Contravention of protection order
+
+20. (1) Subject to subsections (2) and (3), where the court, in issuing a protection order, considers it expedient to issue an occupation order, the court may issue an order requiring a respondent to vacate the matrimonial home or other home which the respondent shares with the applicant and to continue to pay rent, mortgage payment and maintenance to the applicant.
+
+(2) The court shall issue an occupation order after it considers a social enquiry report, prepared by a social worker, a probation officer or other person appointed by the court, as appropriate.
+
+(3) Where the applicant and the respondent are in a marital relationship, the court shall consider the effect of the order or omission of the order on the health, education and development of the family.
+
+(4) A landlord shall not evict an applicant solely on the basis that the applicant is not a party to a lease, where a residence is rented by a respondent but exclusive occupation is given to the applicant by the court.
 
 [[END OF PAGE 19]]
 
@@ -855,27 +865,33 @@ Anti-Gender-Based Violence
 
 (5) A landlord shall, in furtherance of subsection (4), provide the details of the lease to the applicant on request.
 
+### Appeals
+
 21. A person who is aggrieved by a decision of court may appeal to the High Court.
+
+### Power to discharge order
 
 22. (1) A court may discharge an order on an application by an applicant or a respondent in the prescribed manner and form, where the court is satisfied that the circumstances that led to the grant of the order have ceased to exist.
 
-(2) The discharge of the order may occur even though the order-
+(2) The discharge of the order may occur even though the order—
 
 (a) applies for the benefit of a specified person in the order other than the applicant; or
 
 (b) applies against an associated respondent.
 
-(3) Where an order is discharged under subsection (2), the order  shall cease to have effect for the benefit of any specified person  or  associated  respondent  as  if  the  specified  person  or associated respondent had applied for or been granted a discharge of the order.
+(3) Where an order is discharged under subsection (2), the order shall cease to have effect for the benefit of any specified person or associated respondent as if the specified person or associated respondent had applied for or been granted a discharge of the order.
 
-(4) Where a discharge order applies  for  the  benefit  of  a specified person or against an associated respondent, the specified person or associated respondent may apply for the order to be discharged in so far as it applies to them.
+(4) Where a discharge order applies for the benefit of a specified person or against an associated respondent, the specified person or associated respondent may apply for the order to be discharged in so far as it applies to them.
 
 (5) An application may be made under this section for the discharge of an interim order.
 
-(6) Where an application is made under subsection (5)  the court shall, within thirty days of the filing of the application,  fix a hearing date.
+(6) Where an application is made under subsection (5) the court shall, within thirty days of the filing of the application, fix a hearing date.
+
+### Contravention of protection order
 
 23. (1) A person who contravenes an order commits an offence and is liable, upon conviction, to imprisonment for a period not exceeding two years.
 
-(2) An applicant who, with intent to induce a police officer or a judicial officer to perform any act or exercise any power provided in  this Act  in  relation  to  a  contravention  of  a  protection  order, intentionally gives false information to the police officer or judicial officer or fails to provide information to the police officer or judicial officer in order to induce the police officer to do any act or exercise any power under this Act, commits an offence and is liable, upon conviction, to a fine not exceeding one thousand five hundred penalty units or to imprisonment for a period not exceeding one year, or to both.
+(2) An applicant who, with intent to induce a police officer or a judicial officer to perform any act or exercise any power provided in this Act in relation to a contravention of a protection order, intentionally gives false information to the police officer or judicial officer or fails to provide information to the police officer or judicial officer in order to induce the police officer to do any act or exercise any power under this Act, commits an offence and is liable, upon conviction, to a fine not exceeding one thousand five hundred penalty units or to imprisonment for a period not exceeding one year, or to both.
 
 [[END OF PAGE 20]]
 
@@ -889,23 +905,29 @@ Anti-Gender-Based Violence
 
 ## SHELTERS FOR VICTIMS
 
-24. The Minister responsible for social welfare shall-
+### Establishment of shelters for victims
 
-(a) from money appropriated by Parliament for that purpose, establish and operate shelters  for victims; and
+24. The Minister responsible for social welfare shall—
+
+(a) from money appropriated by Parliament for that purpose, establish and operate shelters for victims; and
 
 (b) ensure an appropriate spread of such shelters throughout Zambia.
 
+### Minimum norms and standards of shelters
+
 25. A shelter for victims shall comply with the norms and standards as the Minister may, by statutory instrument, prescribe.
 
-26. (1) The Minister may appoint suitably qualified persons as inspectors to ensure compliance with the norms and standards prescribed pursuant to section twenty-four .
+### Inspectors of shelters
 
-(2) An inspector  shall  be  provided  with  a  certificate  of appointment which shall be produced by the inspector when any person requires it to be produced.
+26. (1) The Minister may appoint suitably qualified persons as inspectors to ensure compliance with the norms and standards prescribed pursuant to section twenty-four.
 
-- An inspector may, during an inspection-
+(2) An inspector shall be provided with a certificate of appointment which shall be produced by the inspector when any person requires it to be produced.
 
-(a) examine and make copies of any book, records or other documents containing  information  relevant  to  the administration or enforcement of thisAct;
+(3) An inspector may, during an inspection—
 
-(b) examine  any  computer  and  retrieve  any  information relevant to the administration or enforcement of this  Act;
+(a) examine and make copies of any book, records or other documents containing information relevant to the administration or enforcement of this Act;
+
+(b) examine any computer and retrieve any information relevant to the administration or enforcement of this Act;
 
 (c) open and inspect any package or container;
 
@@ -913,23 +935,15 @@ Anti-Gender-Based Violence
 
 (e) examine or inspect anything relevant to the administration or enforcement of this Act.
 
-(4) An inspector may, at any reasonable time, for the purposes of performing that inspector's functions under this Act, without warrant, enter into any shelter or other premises which the inspector reasonably believes is being used as a shelter in contravention of this Act.
+(4) An inspector may, at any reasonable time, for the purposes of performing that inspector’s functions under this Act, without warrant, enter into any shelter or other premises which the inspector reasonably believes is being used as a shelter in contravention of this Act.
 
-(5) A person who-
+(5) A person who—
 
-(a) delays or obstructs an inspector in the performance of the inspector's functions;
+(a) delays or obstructs an inspector in the performance of the inspector’s functions;
 
-(b) refuses to give an inspector such reasonable assistance as  the  inspector  may  require  for  the  purpose  of exercising the inspector's functions or powers;
+(b) refuses to give an inspector such reasonable assistance as the inspector may require for the purpose of exercising the inspector’s functions or powers;
 
 (c) gives an inspector false or misleading information in answer to any query made by the inspector; or
-
-### Establishment of shelters for victims
-
-### Minimum norms and standards of shelters
-
-### Inspectors  of shelters
-### Shelters for child victims
-### Shelters for adult victims
 
 [[END OF PAGE 21]]
 
@@ -943,25 +957,29 @@ Anti-Gender-Based Violence
 
 commits an offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
 
-- A shelter for child victims-
+### Shelters for child victims
 
-(a) shall secure the physical safety of a  child victim;
+27. A shelter for child victims—
+
+(a) shall secure the physical safety of a child victim;
 
 (b) shall provide temporary basic material support for the care of a child victim;
 
-(c) shall offer a programme for-
+(c) shall offer a programme for—
 
 (i) the provision of counselling to child victims; and
 
 (ii) the provision of rehabilitation services to child victims; and
 
-(d) shall,  in  cooperation  with  the  Ministry  responsible  for education, offer a programme aimed at the provision of education to child victims.
+(d) shall, in cooperation with the Ministry responsible for education, offer a programme aimed at the provision of education to child victims.
 
-- A shelter for adult victims-
+### Shelters for adult victims
+
+28. A shelter for adult victims—
 
 (a) shall secure the safety of adult victims;
 
-(b) shall offer a programme aimed at-
+(b) shall offer a programme aimed at—
 
 (i) the provision of counselling to adult victims;
 
@@ -969,11 +987,11 @@ commits an offence and is liable, upon conviction, to a fine not exceeding two h
 
 (iii) the reintegration of adult victims into their families and communities;
 
-(c) may,  in  cooperation  with  the  Ministry  responsible  for education, offer a programme aimed at the provision of education to adult victims; and
+(c) may, in cooperation with the Ministry responsible for education, offer a programme aimed at the provision of education to adult victims; and
 
-(d) may,  in  cooperation  with  the  Ministry  responsible  for vocational training,  offer  a  programme  aimed  at  the provision of skills development training to adult victims.
+(d) may, in cooperation with the Ministry responsible for vocational training, offer a programme aimed at the provision of skills development training to adult victims.
 
-(2) A shelter for adult victims that provides accommodation to an adult victim who has a child in the victim's care shall offer a programme aimed at the reception, care and development of such a child.
+(2) A shelter for adult victims that provides accommodation to an adult victim who has a child in the victim’s care shall offer a programme aimed at the reception, care and development of such a child.
 
 (3) Subject to subsection (4), a child referred to in subsection (2) may be cared for at any other premises only with the explicit consent of the adult victim.
 
@@ -987,7 +1005,9 @@ Anti-Gender-Based  Violence
 
 [No. 1  of 2011 23
 
-29. Upon admission of a victim to a shelter, an assessment shall be made by a social worker to determine-
+### Assessment of victim
+
+29. Upon admission of a victim to a shelter, an assessment shall be made by a social worker to determine—
 
 (a) the risks to the safety and life of the victim;
 
@@ -995,7 +1015,9 @@ Anti-Gender-Based  Violence
 
 (c) the long term needs of the victim.
 
-30. (1) The Ministry responsible for  social  welfare  shall provide mechanisms and programs for the rehabilitation of victims.
+### Rehabilitation of victim
+
+30. (1) The Ministry responsible for social welfare shall provide mechanisms and programs for the rehabilitation of victims.
 
 (2) Victims may receive financial assistance from the Fund under this Act.
 
@@ -1005,11 +1027,13 @@ Anti-Gender-Based  Violence
 
 ## ANTI-GENDER-BASED VIOLENCE COMMITTEE
 
+### Anti-Gender-Based Violence Committee
+
 31. (1) There is hereby established the Anti-Gender-Based Violence Committee.
 
 (2) The provisions of the Schedule apply in respect to the Committee.
 
-(3) The Committee shall-
+(3) The Committee shall—
 
 (a) monitor the activities of all the relevant institutions on matters connected with gender-based violence;
 
@@ -1017,7 +1041,7 @@ Anti-Gender-Based  Violence
 
 (c) monitor and report on the progress of the national plan of action;
 
-(d) advise  the  Minister  on  policy  matters  connected  with gender-based violence;
+(d) advise the Minister on policy matters connected with gender-based violence;
 
 (e) propose and promote strategies to prevent and combat gender-based violence;
 
@@ -1029,25 +1053,15 @@ Anti-Gender-Based  Violence
 
 ## ANTI-GENDER-BASED VIOLENCE FUND
 
+### Establishment of Fund
+
 32. (1) There is hereby established the Anti-Gender-Based Violence Fund.
 
-- The Fund shall consist of-
+(2) The Fund shall consist of—
 
 (a) voluntary contributions to the Fund from any person;
 
 (b) such monies as Parliament may approve for purposes of the Fund; and
-
-### Assessment of victim
-
-### Rehabilitation of victim
-
-### AntiGenderBased Violence Committee
-
-### Establishment of Fund
-### Administration and management of Fund
-### Accounts and audit
-### Service of process
-Cap. 28
 
 [[END OF PAGE 23]]
 
@@ -1059,19 +1073,23 @@ Anti-Gender-Based Violence
 
 (c) any grants from any source within or outside Zambia with approval of the Minister.
 
-- The monies of the Fund shall be applied for-
+(3) The monies of the Fund shall be applied for—
 
 (a) the basic material support of victims; and
 
-(b) any  other  matter  connected  with  the  counselling  and rehabilitation of victims in their best interest.
+(b) any other matter connected with the counselling and rehabilitation of victims in their best interest.
+
+### Administration and management of Fund
 
 33. (1) The Fund shall be vested in the Minister responsible for finance and shall be managed and administered by the Minister responsible for social welfare.
 
-(2) The  Committee  shall  develop  guidelines  for  the disbursements from the Fund.
+(2) The Committee shall develop guidelines for the disbursements from the Fund.
+
+### Accounts and audit
 
 34. (1) The Ministers referred to in section thirty-three shall cause to be prepared proper books of account in relation to the Fund.
 
-(2) The accounts of the Fund for each financial year shall be audited by the Auditor-General and, for that purpose, the AuditorGeneral and any officer authorised by the Auditor-General shall have access to all books and other records relating to the accounts of the Fund.
+(2) The accounts of the Fund for each financial year shall be audited by the Auditor-General and, for that purpose, the Auditor-General and any officer authorised by the Auditor-General shall have access to all books and other records relating to the accounts of the Fund.
 
 (3) The Auditor-General shall, not later than twelve months after the end of each financial year, submit a report on the accounts of the Fund for that financial year to the Minister.
 
@@ -1081,11 +1099,15 @@ Anti-Gender-Based Violence
 
 ## GENERAL PROVISIONS
 
+### Service of process
+
 35. (1) Subject to subsections (2) and (3), the provisions of the Subordinate Courts Act apply with respect to service of process of any document issued pursuant to this Act and for which service is required.
+
+Cap. 28
 
 (2) Service of process shall be made by the Clerk of court or such other person as the court may order.
 
-(3) The court shall  not  direct  a  complainant  to  serve  any document.
+(3) The court shall not direct a complainant to serve any document.
 
 [[END OF PAGE 24]]
 
@@ -1095,41 +1117,37 @@ Anti-Gender-Based  Violence
 
 [No. 1 of 2011 25
 
-36. (1) Where in a criminal trial in respect of gender-based violence which is not aggravated-
+### Settlement of matter out of court
 
-(a) the complainant expresses the desire to have the matter settled out of  court, the court shall refer the case for settlement by any alternative dispute resolution method; or
+36. (1) Where in a criminal trial in respect of gender-based violence which is not aggravated—
 
-(b) the court is of the opinion that the case can be amicably settled, it may, with the consent of the complainant refer the  case  for  settlement  by  any  alternative  dispute resolution method.
+(a) the complainant expresses the desire to have the matter settled out of court, the court shall refer the case for settlement by any alternative dispute resolution method; or
 
-(2) Where any case is referred for settlement under subsection (1), the court shall, in addition-
+(b) the court is of the opinion that the case can be amicably settled, it may, with the consent of the complainant refer the case for settlement by any alternative dispute resolution method.
+
+(2) Where any case is referred for settlement under subsection (1), the court shall, in addition—
 
 (a) refer the complainant and the offender for counselling;
 
-(b) where  necessary,  require  the  offender  to  receive psychiatric help; or
+(b) where necessary, require the offender to receive psychiatric help; or
 
 (c) after consultation with the Ministry responsible for home affairs, appoint a probation officer to observe and report on the subsequent conduct of the offender to the court.
 
-(3) Where a probation officer reports that the offender has engaged in any act of gender-based violence after the settlement, the offender shall be brought before the court and shall, subject to section two , be prosecuted.
+(3) Where a probation officer reports that the offender has engaged in any act of gender-based violence after the settlement, the offender shall be brought before the court and shall, subject to section two, be prosecuted.
 
 (4) In any criminal trial in respect of gender-based violence which is aggravated, the court shall not consider or approve any settlement of the matter out of court, whether in accordance with subsections (1), (2) and (3), or not.
 
+### Proceedings in camera
+
 37. Proceedings under this Act may be held in camera.
+
+### Publication of proceedings prohibited
 
 38. (1) A person shall not publish a report of proceedings under this Act, other than criminal proceedings, except with the leave of court.
 
 (2) Where a person reports proceedings under subsection (1), the person shall protect the identity of the complainant and any witness to the proceedings.
 
 (3) A person who contravenes subsection (1) or (2) commits an offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
-
-### Settlement of matter out of court
-
-### Proceedings in camera
-
-### Publication of proceedings prohibited
-### Public education
-### Rules of court
-### Regulations
-### Composition of Committee
 
 [[END OF PAGE 25]]
 
@@ -1138,10 +1156,10 @@ Anti-Gender-Based  Violence
 26 No. 1  of 2011]
 
 Anti-Gender-Based Violence
-
+### Public education
 39. The Minister responsible for gender  shall, for the purpose of this Act, provide for public education on gender-based violence and the contents of this Act.
-
-40. The Chief Justice may, by rules of court, make provision with respect to the procedure on applications to any court under this Act, and in particular as to-
+### Rules of court
+40. The Chief Justice may, by rules of court, make provision with respect to the procedure on applications to any court under this Act, and in particular as to—
 
 (a) the manner and form for the commencement of an action under this Act;
 
@@ -1152,12 +1170,12 @@ Anti-Gender-Based Violence
 (d) the discharge of an order issued pursuant to this Act; and
 
 (e) the forms necessary for the purposes of this Act.
-
+### Regulations
 41. (1) The Minister may, by statutory instrument, make regulations for the better carrying out of the provisions of this Act.
 
-(2) Without limiting the generality of subsection (1), regulations made under that subsection may provide for-
+(2) Without limiting the generality of subsection (1), regulations made under that subsection may provide for—
 
-(a) the training of the police and court officials on genderbased violence;
+(a) the training of the police and court officials on gender-based violence;
 
 (b) the education and counseling of victims and perpetrators of gender-based violence;
 
@@ -1174,14 +1192,14 @@ Anti-Gender-Based Violence
 (Section  31  (2))
 
 ## ANTI-GENDER-BASED VIOLENCE COMMITTEE
-
+### Composition of Committee
 1. (1) The Committee shall consist of the following part-time
 
 members:
 
 (a) one representative each from the Ministries responsible
 
-for-
+for—
 
 (i) social services;
 
@@ -1218,10 +1236,10 @@ Anti-Gender-Based Violence
 (2) The members shall be nominated by their institutions and appointed by the Minister.
 
 (3) The  Chairperson  and  the  Vice-Chairperson  shall  be appointed by the Minister from amongst the members.
-
+### Tenure of office and vacancies
 2. (1) Subject to the other provisions of this Act, a member shall  hold  office  for  a  period  of  three  years  from  the  date  of appointment and may be re-appointed for a further like period.
 
-(2) The office of a member shall become vacant if-
+(2) The office of a member shall become vacant if—
 
 (a) the member has been absent without reasonable excuse from three consecutive meetings of the Committee of which the member has had notice;
 
@@ -1234,7 +1252,7 @@ Anti-Gender-Based Violence
 (e) the member becomes mentally or physically incapable of performing the duties of a member of the Committee; or
 
 (f) the member is convicted of an offence under any other written law and sentenced therefor to imprisonment for a term exceeding six months.
-
+### Proceedings of Committee
 3. (1) Subject to the other provisions of this  Act, the Committee may regulate its own procedure.
 
 (2) The Committee shall meet for the transaction of business at  least  once  in  every  three  months  at  such  places  and  at  such times as the Chairperson may determine.
@@ -1243,11 +1261,7 @@ Anti-Gender-Based Violence
 
 Provided that if the urgency of any particular matter does not permit the giving of such notice, a special meeting may be called upon giving a shorter notice.
 
-### Tenure of office and vacancies
 
-### Proceedings of Committee
-### Subcommittees of Committee
-### Allowances of members
 
 [[END OF PAGE 27]]
 
@@ -1257,13 +1271,15 @@ Provided that if the urgency of any particular matter does not permit the giving
 
 Anti-Gender-Based Violence
 
-(4) The quorum at any meeting of the Committee shall be onehalf of the members.
+(4) The quorum at any meeting of the Committee shall be one-half of the members.
 
-- There shall preside at any meeting of the Committee(a) the Chairperson;
+(5) There shall preside at any meeting of the Committee—
+
+(a) the Chairperson;
 
 (b) in the absence of the Chairperson, the Vice-Chairperson; or
 
-(c) in  the  absence  of  the  Chairperson  and  the  ViceChairperson, such member as the members present may elect from amongst themselves for the purpose of that meeting.
+(c) in  the  absence  of  the  Chairperson  and  the  Vice-Chairperson, such member as the members present may elect from amongst themselves for the purpose of that meeting.
 
 (6) A decision of the Committee on any question shall be by a majority of the members present and voting at the meeting and, in the event of an equality of votes, the person presiding at the meeting shall have a casting vote in addition to the deliberative vote.
 
@@ -1273,12 +1289,12 @@ Anti-Gender-Based Violence
 
 (9) The validity of any proceedings, act or decision of the Committee shall not be affected by any vacancy in the membership of  the  Committee  or  by  any  defect  in  the  appointment  of  any member or by reason that any person not entitled so to do, took part in the proceedings.
 
-(10) The Committee shall cause minutes to be kept of the proceedings of every meeting of the Committee and of any subcommittee established by the Committee.
-
+(10) The Committee shall cause minutes to be kept of the proceedings of every meeting of the Committee and of any sub-committee established by the Committee.
+### Sub-committees of Committee
 4. (1) The Committee may, for the purpose of performing its functions under this Act, constitute any sub-committee and may delegate to any such sub-committee such of its functions as it thinks fit.
 
-(2) The Committee may appoint as members of the subcommittees constituted under subparagraph (1), persons who are or are not members of the Committee and such persons shall hold office for such period as the Committee may determine.
-
+(2) The Committee may appoint as members of the sub-committees constituted under subparagraph (1), persons who are or are not members of the Committee and such persons shall hold office for such period as the Committee may determine.
+### Allowances of members
 5. There shall be paid to the members of the Committee or any sub-committee of the Committee such allowances as the Committee may, with the approval of the Minister, determine.
 
 [[END OF PAGE 28]]
@@ -1288,32 +1304,24 @@ Anti-Gender-Based Violence
 Anti-Gender-Based Violence
 
 [No. 1 of 2011 29
-
+### Disclosure of interest
 6. (1) If a member is present at a meeting of the Committee or any sub-committee of the Committee at which any matter in which the member or the member's spouse is directly or indirectly interested in a private capacity, is the subject of consideration, the member shall, as soon as is practicable after the commencement of the meeting, disclose such interest, and shall not, unless the Committee or the sub-committee otherwise directs, take part in any consideration or discussion of or vote on any question relating to that matter.
 
 (2) A disclosure of interest made under this section shall be recorded in the minutes of the meeting at which it is made.
-
+### Immunity of members
 7. No action or other proceedings shall lie or be instituted against any member or any member of a sub-committee for, or in respect of, any act or thing done or omitted to be done in good faith in the exercise or purported exercise of the member's functions under this Act.
-
+### Prohibition of publication or disclosure of information to unauthorised persons
 8. (1) A person shall not, without the consent in writing given by, or on behalf of, the Committee, publish or disclose to any other person, otherwise than in the course of the person's duties, the contents  of  any  document,  communication  or  information whatsoever, which relates to, and which has come to the person's knowledge in the course of that person's duties under this Act.
 
 (2) Any person who contravenes subsection (1) commits an offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
 
 (3) A person who, having information which to that person's knowledge has been published or disclosed in contravention of subsection  (1),  unlawfully  publishes  or  communicates  the information to any other person, commits an offence and is liable, upon conviction, to a fine not exceeding two hundred thousand penalty units or to imprisonment for a period not exceeding two years, or to both.
-
+### Secretariat of Committee
 9. (1) The Minister shall appoint a Secretariat of the Committee comprising such staff as the Minister may determine.
 
 (2) The Secretariat of the Committee shall be based at the Ministry.
 
-### Disclosure of interest
 
-### Immunity of members
-
-### Prohibition of publication or disclosure of information to unauthorised
-
-persons
-
-### Secretariat of Committee
 
 [[END OF PAGE 29]]
 
