@@ -16,23 +16,23 @@ Organización o entidad responsable de la preparación del informe:
 
 MINISTERIO DE EDUCACIÓN
 
-## Información sobre las medidas legislativas, judiciales, administrativas o de otra índole adoptadas por el Estado a escala nacional
+## I. Información sobre las medidas legislativas, judiciales, administrativas o de otra índole adoptadas por el Estado a escala nacional
 
-### Ratificación de la Convención 1
+### 1. Ratificación de la Convención 1
 
 ¿Es su país un Estado Parte en la Convención?
 
-o Sí
+☒ Sí
 
-o No: ¿Tiene previsto su país ratificar este instrumento?
+☐ No: ¿Tiene previsto su país ratificar este instrumento?
 
-o Sí: Por favor, indique en qué estado del proceso de ratificación se encuentra su país:
+☐ Sí: Por favor, indique en qué estado del proceso de ratificación se encuentra su país:
 
-- Cerca de la ratificación
+a. Cerca de la ratificación
 
-- En curso
+b. En curso
 
-- En preparación activa
+c. En preparación activa
 
 - Explique brevemente cuáles son las dificultades que ha encontrado su país en el proceso de ratificación y cómo las ha superado:
 
@@ -54,7 +54,7 @@ http://portal.unesco.org/es/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 o No, su país no está considerando la posibilidad de ratificar  este  instrumento  en  un futuro próximo. Por favor, explique por qué:
 
-### Ratificación  del  Protocolo  para  instituir  una  Comisión  de  Conciliación  y  Buenos Oficios facultada para resolver las controversias que puedan plantearse entre Estados Partes en la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 2
+### 2. Ratificación del Protocolo para instituir una Comisión de Conciliación y Buenos Oficios facultada para resolver las controversias que puedan plantearse entre Estados Partes en la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 2
 
 ¿Ha ratificado su país el Protocolo?
 
@@ -62,7 +62,7 @@ o Sí
 
 o No. Por favor, explique brevemente las dificultades encontradas:
 
-### Marco jurídico que rige la protección de los derechos consagrados en la Convención y la Recomendación en el ordenamiento jurídico interno
+### 3. Marco jurídico que rige la protección de los derechos consagrados en la Convención y la Recomendación en el ordenamiento jurídico interno
 
 Si su país es un Estado Parte en la Convención:
 
@@ -175,9 +175,9 @@ En caso afirmativo, pueden mencionarse en el informe los principales textos adop
 
 Puede facilitarse información sobre la forma en que tales políticas y programas cumplen los compromisos relativos al derecho a la educación consagrados en la Recomendación.
 
-## Información sobre la aplicación de la Convención o la Recomendación
+## II. Información sobre la aplicación de la Convención o la Recomendación
 
-### No  discriminación  e  igualdad  de  posibilidades  de  educación  en  el  contexto  del Objetivo de Desarrollo Sostenible 4 (ODS 4)
+### 1. No discriminación e igualdad de posibilidades de educación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
 
 Los artículos o párrafos 1.1, 2 y 3 de la Convención o la Recomendación hacen referencia a la no discriminación y a la igualdad de posibilidades en la esfera de la enseñanza.Esta parte se refiere al objetivo principal de la Convención y la Recomendación, a saber, subrayar la obligación  de  los  Estados  de  prohibir  toda  forma  de  discriminación  en  la  enseñanza  y promover al mismo tiempo la igualdad de oportunidades educativas.
 
@@ -240,9 +240,9 @@ Sí, a través de:
 
 - Emisión  del  Protocolo  de  Identificación,  Atención  y  Referencia  de  Casos  de  Violencia dentro  del  Sistema  Educativo  Nacional,  aprobado  mediante  Acuerdo  Ministerial  número 3346-2011,  contiene  la  'Guía  orientadora  para  la  identificación  y  referencia  de  casos  de violencia  originada  por  racismo  y  discriminación'.  Este  protocolo  'tiene  como  objeto, constituir una herramienta para llevar a cabo la intervención del Ministerio de Educación en la  identificación,  atención  y  referencia  de  casos  que  constituyen  violencia  contra  las alumnas y alumnos en los centros educativos del Sistema Nacional de Educación' 5
 
-- o La lucha contra la discriminación se extiende a los planes de estudios
+☐ La lucha contra la discriminación se extiende a los planes de estudios
 
-- o Otra:
+☒ Otra:
 
 En el año 2019 se estableció coordinación interinstitucional entre la Comisión Presidencial contra  la  Discriminación  y  el  Racismo  y  el  Ministerio  de  Educación,  a  través  de  la  Mesa Técnica 'Prevenir con Educación', que está conformada por representantes de la Dirección General de Educación Bilingüe Intercultural -DIGEBI- y de la Dirección General de Gestión de  Calidad  Educativa  -DIGECADE-,  así  como  la  implementación  de  la    Ley  de  Promoción Educativa contra la Discriminación dentro de las escuelas oficiales del nivel de educación primaria a nivel nacional.
 
@@ -266,7 +266,7 @@ Artículo 21. Definición. Los centros educativos públicos, son establecimiento
 
 Artículo 33. Obligaciones del Estado. Son obligaciones del Estado las siguientes:
 
-- Garantizar la libertad de enseñanza y criterio docente.
+1. Garantizar la libertad de enseñanza y criterio docente.
 
 > 5 Acuerdo Ministerial número 3346-2011
 
@@ -276,16 +276,16 @@ Artículo 33. Obligaciones del Estado. Son obligaciones del Estado las siguiente
 
 - 7 -
 
-- Propiciar  una  educación  gratuita  y  obligatoria  dentro  de  los  límites  de  edad  que  fija  el reglamento de esta ley.
+2. Propiciar una educación gratuita y obligatoria dentro de los límites de edad que fija el reglamento de esta ley.
 
-- Propiciar y facilitar la educación a los habitantes sin discriminación alguna.
+3. Propiciar y facilitar la educación a los habitantes sin discriminación alguna.
 
 ##### Ley de Protección Integral de la Niñez y Adolescencia, Decreto No. 27-2003
 
 ###### Artículo 41. Valores en la educación.
 La educación en Guatemala asegurará, además de fomentar los valores plasmados en otras normas, los siguientes:
 
-- El fomento y la preservación de los valores culturales, artísticos, étnicos, lingüísticos, de género y aprendizaje, costumbres y tradiciones propias del contexto social eliminando todas las formas de discriminación y exclusión por razones de género, etnia, religión o condición económica.
+c) El fomento y la preservación de los valores culturales, artísticos, étnicos, lingüísticos, de género y aprendizaje, costumbres y tradiciones propias del contexto social eliminando todas las formas de discriminación y exclusión por razones de género, etnia, religión o condición económica.
 
 ##### Ley de Educación Especial para las Personas con Capacidades Especiales, Decreto Número 58-2007
 
@@ -319,9 +319,7 @@ o Las  leyes  constitucionales  o  la  legislación  garantizan  la  igualdad  d
 
 - Programa 'Comprometidos con Primer Grado'.  En el año 2019, se tradujo y contextualizó y  en  el  presente  año,  se  publicó  el  libro  'Mis  primeras  lecturas  para  primer  grado  de primaria en los idiomas: mam, q'eqchi', k'iche' y kaqchikel.
 
-- Producción de libros de texto para estudiantes y guías para docentes para la implementación del área curricular de Comunicación y Lenguaje para estudiantes del Ciclo de Educación Básica en idiomas K'iche' y
-
-- Q'eqchi' como L1 en el marco de cooperación brindada por KfW del gobierno alemán en el año 2017.
+- Producción de libros de texto para estudiantes y guías para docentes para la implementación del área curricular de Comunicación y Lenguaje para estudiantes del Ciclo de Educación Básica en idiomas K'iche' y Q'eqchi' como L1 en el marco de cooperación brindada por KfW del gobierno alemán en el año 2017.
 
 - Realización de diálogos con 4 comunidades educativas, entre ellos participan: docentes, organizaciones  sociales,  indígenas  y  comunitarias,  para  el  desarrollo  de  la  EBI,  como resultado se contó con la participación de 316 personas en el año 2019.
 
@@ -391,43 +389,43 @@ El  derecho a la educación y la enseñanza obligatoria y gratuita, desde los 6 
 
 personas marginadas económica y socialmente, las personas con discapacidad y otros grupos vulnerables) en los procesos de aprendizaje (pueden marcarse o mencionarse varios puntos):
 
-o Ofrecer incentivos financieros y becas
+☒ Ofrecer incentivos financieros y becas
 
-o Adoptar medidas de acción positiva o afirmativa
+☐ Adoptar medidas de acción positiva o afirmativa
 
-o Garantizar la inclusión de todos los educandos en las escuelas de enseñanza general
+☒ Garantizar la inclusión de todos los educandos en las escuelas de enseñanza general
 
-o Formar a los docentes en materia de educación inclusiva
+☒ Formar a los docentes en materia de educación inclusiva
 
-o Garantizar la paridad entre los sexos en las ciencias, tecnología, ingeniería y matemáticas (STEM) y en la enseñanza y formación técnica y profesional (EFTP)
+☐ Garantizar la paridad entre los sexos en las ciencias, tecnología, ingeniería y matemáticas (STEM) y en la enseñanza y formación técnica y profesional (EFTP)
 
-o Ofrecer programas de reescolarización para las madres jóvenes
+☐ Ofrecer programas de reescolarización para las madres jóvenes
 
-o Eliminar todas las barreras para la educación de las niñas embarazadas o las madres jóvenes
+☐ Eliminar todas las barreras para la educación de las niñas embarazadas o las madres jóvenes
 
-o Otra:
+☐ Otra:
 
-o Proporcionar asistencia auxiliar
+☐ Proporcionar asistencia auxiliar
 
-o Adaptar las infraestructuras educativas
+☐ Adaptar las infraestructuras educativas
 
-o Adaptar los planes y los métodos de estudio
+☒ Adaptar los planes y los métodos de estudio
 
-o Impartir clases de idiomas a los recién llegados (por ejemplo, los refugiados)
+☐ Impartir clases de idiomas a los recién llegados (por ejemplo, los refugiados)
 
-o Eliminar las barreras administrativas a la educación 8
+☐ Eliminar las barreras administrativas a la educación 8
 
-o Ofrecer itinerarios de aprendizaje flexibles
+☐ Ofrecer itinerarios de aprendizaje flexibles
 
-o Valorar la diversidad en las escuelas
+☒ Valorar la diversidad en las escuelas
 
-o Luchar contra los estereotipos y la estigmatización
+☒ Luchar contra los estereotipos y la estigmatización
 
-En  base  al  Acuerdo  Ministerial  No.  1120  -  2014    se  da  la  'Creación  de  la  Mesa  Técnica Prevenir  con  Educación',  la  Política  Nacional  de  Promoción  y  Desarrollo  Integral  de  las Mujeres-PMPDIM-, la Ley de Protección Integral de Niñez y Adolescencia, Decreto No. 272003 y la Ley de Promoción Educativa Contra la Discriminación,  Decreto No. 81- 2002.
+En base al Acuerdo Ministerial No. 1120 - 2014 se da la 'Creación de la Mesa Técnica Prevenir con Educación', la Política Nacional de Promoción y Desarrollo Integral de las Mujeres-PMPDIM-, la Ley de Protección Integral de Niñez y Adolescencia, Decreto No. 27-2003 y la Ley de Promoción Educativa Contra la Discriminación, Decreto No. 81- 2002.
 
 El  Ministerio  de  Educación,  a  través  de  la  Dirección  General  de  Educación  Bilingüe Intercultural -DIGEBI- y la Subdirección de Educación para Poblaciones en Vulnerabilidad, ha  implementado  acciones  estratégicas    de  atención  a  la  niña  y  adolescentes  para  la prevención de violencia y embarazos en los centros educativos oficiales, fortaleciendo su liderazgo, su autoestima e identidad y empoderándolos en sus derechos, con el objeto de disminuir  los  índices  de  violencia,  deserción  y  repitencia  escolar.  En  este  marco  se  ha realizado las acciones siguientes:
 
-- ü Capacitaciones a niñas, niños y adolescentes
+- ✓ Capacitaciones a niñas, niños y adolescentes
 
 - En el año 2017, se atendió 290 niños y niñas del nivel primario de las comunidades de Sepur  Zarco,  Ponbaac,  San  Marcos  del  departamento  de  Izabal  y  la  Esperanza  del departamento  de  Alta  Verapaz,  sobre  los  temas  de  Educación  Integral  en  Sexualidad, Prevención de violencia y Derechos Humanos.
 
@@ -445,19 +443,19 @@ El  Ministerio  de  Educación,  a  través  de  la  Dirección  General  de  Ed
 
 Cobertura:  Departamentos de Guatemala, Izabal, Chimaltenango, Alta Verapaz, San Marcos, Sololá,  Santa  Rosa,  Huehuetenango,  Petén,  Baja  Verapaz,  Totonicapán,  Jalapa,  Quiché, Sacatepéquez, Jalapa, Jutiapa y Escuintla.
 
-- ü Participación en taller de construcción del protocolo 'Identificación atención y referencia  de  casos  de  violencia  en  el  Sistema  Educativo  Nacional',  que  aborda  la temática sobre discriminación y racismo.
+- ✓ Participación en taller de construcción del protocolo 'Identificación atención y referencia de casos de violencia en el Sistema Educativo Nacional', que aborda la temática sobre discriminación y racismo.
 
-- ü Entrega  pedagógica  del  material  educativo  'Si  aprendemos  conjuntamente  y  en  las mismas condiciones tendremos mejor vida', en los idiomas idioma maya Mam y k'iche, Q'eqchi' y Kaqchikel, para su implementación y uso en el aula, dirigidos a 100 técnicos de las Direcciones Departamentales de Educación.
+- ✓ Entrega pedagógica del material educativo 'Si aprendemos conjuntamente y en las mismas condiciones tendremos mejor vida', en los idiomas idioma maya Mam y k'iche, Q'eqchi' y Kaqchikel, para su implementación y uso en el aula, dirigidos a 100 técnicos de las Direcciones Departamentales de Educación.
 
-- ü Entrega  pedagógica  del  material  educativo  'Hagamos  un  viaje  por  el  mundo  de  mis derechos', dirigidos 100 técnicos y representantes las Direcciones Departamentales de Educación.
+- ✓ Entrega pedagógica del material educativo 'Hagamos un viaje por el mundo de mis derechos', dirigidos 100 técnicos y representantes las Direcciones Departamentales de Educación.
 
-- ü Textos impresos:
+- ✓ Textos impresos:
 
 Impresión 8,000 ejemplares del material educativo 'Hagamos un viaje por el mundo de mis derechos', aborda temas de Derechos Humanos y educación en sexualidad, para estudiantes del nivel de educación primaria primer ciclo.
 
 ##### Acciones estratégicas en materia de educación del Plan de Gobierno 2020 2024
 
-- ü Mejoras  en  la  calidad  de  la  educación  pública  mediante  la  provisión  de  maestros preparados y actualizados, revisión del Currículo Nacional Base (CNB), la dotación de recursos pedagógicos.
+- ✓ Mejoras en la calidad de la educación pública mediante la provisión de maestros preparados y actualizados, revisión del Currículo Nacional Base (CNB), la dotación de recursos pedagógicos.
 
 -  Explique  con  más  detalle  las  medidas  adoptadas,  incluidas  aquellas  destinadas  a garantizar la igualdad entre los géneros y el empoderamiento de las niñas y las mujeres en la educación y por medio de ella :
 
@@ -465,11 +463,11 @@ Impresión 8,000 ejemplares del material educativo 'Hagamos un viaje por el mund
 
 Tenga en cuenta que el matrimonio infantil es una práctica discriminatoria, ya que a menudo las  niñas  pueden  contraer  matrimonio  a  una  edad  más  temprana  que  los  niños.  El matrimonio infantil viola el derecho de los niños a la educación, puesto que es más probable que  los  niños  casados  abandonen  la  escuela  y  que  aquellos  que  no  van  a  la  escuela contraigan matrimonio.
 
-o Sí o No
+☒ Sí ☐ No
 
 Mencione las leyes y disposiciones pertinentes:
 
-Decreto Número 13 - 2017 del Congreso de la República de Guatemala, Reformas al Código Civil, Decreto Ley Número 106 del Jefe de Gobierno queda establecida la prohibición de contraer matrimonio a personas menores de 18 años.
+Decreto Número 13 - 2017 del Congreso de la República de Guatemala, Reformas al Código Civil, Decreto Ley Número 106 del Jefe de Gobierno - queda establecida la prohibición de contraer matrimonio a personas menores de 18 años.
 
 [[END OF PAGE 11]]
 
@@ -487,11 +485,11 @@ La enseñanza preescolar no se menciona explícitamente en la Convención o la R
 
 -¿Existe en su país la enseñanza preescolar gratuita y obligatoria?
 
-- o La enseñanza preescolar es obligatoria: Por favor, indique la edad de matriculación y la duración:
+☒ La enseñanza preescolar es obligatoria: Por favor, indique la edad de matriculación y la duración:
 
-La obligatoriedad legalmente está establecida como un derecho en la Constitución  Política de la República que establece en el Artículo 74. Educación obligatoria: Los habitantes tienen el  derecho  y  la  obligación  de  recibir  la  educación  inicial,  preprimaria,  primaria  y  básica, dentro de los límites de edad que fije la ley; sin embargo, en la operativización esto no es así, debido a que no se cuenta con suficiente presupuesto para la misma.
+La obligatoriedad legalmente está establecida como un derecho en la Constitución Política de la República que establece en el Artículo 74. Educación obligatoria: Los habitantes tienen el derecho y la obligación de recibir la educación inicial, preprimaria, primaria y básica, dentro de los límites de edad que fije la ley; sin embargo, en la operativización esto no es así, debido a que no se cuenta con suficiente presupuesto para la misma.
 
-- o La enseñanza preescolar es gratuita para todos: Por favor, indique la duración:
+☒ La enseñanza preescolar es gratuita para todos: Por favor, indique la duración:
 
 La  enseñanza  preescolar  en  Guatemala  está  dividida  en  dos  niveles:  Nivel  de  Educación Inicial que atiende a los niños de 0 a 4 años  y el Nivel de Educación Preprimaria que atiende a los niños de 4 a 6 años de edad.  Para ambos niveles el servicio educativo ofrecido por el Estado es gratuito.
 
@@ -525,9 +523,33 @@ En el artículo/párrafo 4.a de la Convención y la Recomendación se establece 
 
 ¿Es obligatoria la enseñanza primaria en su país?
 
-o Sí o No
+☒ Sí ☐ No
 
 Indique la duración actual de la enseñanza obligatoria y la edad de matriculación:
+
+Tabla N° 1. Estructura del Sistema Educativo
+
+| Nivel | Grado | Edad | Ciclos - Carreras - Títulos | |
+| --- | --- | --- | --- | --- |
+| Nivel 0 | 0 | 0-3 | Inicial | |
+|  | 1 | 4 | Pre-primaria | |
+|  | 2 | 5 |  | |
+|  | 3 | 6 |  | |
+| Nivel 1 | 1 | 7 | Primaria | |
+|  | 2 | 8 |  | |
+|  | 3 | 9 |  | |
+|  | 4 | 10 |  | |
+|  | 5 | 11 |  | |
+|  | 6 | 12 |  | |
+| Nivel 2 | 1 | 13 | Media Básico Regular/ | Media Básico Pre-vocacional |
+|  | 2 | 14 |  | |
+|  | 3 | 15 |  | |
+| Nivel 3 | 4 | 16 | Media MINEDUC Ciclo Diversificado (Bachiller, Perito, Secretaría, Magisterio) | ENCA; Perito Agrónomo; ENEG; Auxiliar de Enfermería |
+|  | 5 | 17 |  | |
+|  | 6 | 18 |  | |
+|  | 7 | 19 |  | |
+
+Fuente: MINEDUC, 2013, sobre la base de Álvarez, Schiefelbein, et al., 2008.
 
 En  esta  parte,  también  puede  proporcionar  información  sobre  las  dificultades  que  ha encontrado  su  Gobierno  para  garantizar  el  acceso  universal  a  la  enseñanza  primaria.  Se pueden añadir datos cuantitativos.
 
@@ -707,19 +729,19 @@ En el artículo/párrafo 4.c de la Convención y la Recomendación se establece 
 
 -  Indique  las  medidas  que  ha  adoptado  su  Gobierno  para  establecer  un  sistema  de educación permanente y ofrecer un acceso equitativo a las oportunidades de aprendizaje y formación (pueden marcarse o mencionarse varios puntos):
 
-- o Ofrecer educación para las personas que no hayan cursado o terminado el ciclo completo de enseñanza primaria
+☒ Ofrecer educación para las personas que no hayan cursado o terminado el ciclo completo de enseñanza primaria
 
-- o Ofrecer programas de alfabetización
+☒ Ofrecer programas de alfabetización
 
-- o Ofrecer  programas  adecuados  de  aprendizaje  y  de  preparación  para  la  vida  activa DIGEEX
+☒ Ofrecer programas adecuados de aprendizaje y de preparación para la vida activa DIGEEX
 
-- o Ofrecer oportunidades de aprendizaje gratuitas DIGEEX
+☒ Ofrecer oportunidades de aprendizaje gratuitas DIGEEX
 
-- o Ofrecer itinerarios de aprendizaje flexibles
+☒ Ofrecer itinerarios de aprendizaje flexibles
 
-- o Ofrecer formación y cualificaciones profesionales
+☒ Ofrecer formación y cualificaciones profesionales
 
-- o Otra:
+☐ Otra:
 
 - Proporcione más detalles sobre las medidas adoptadas:
 
@@ -809,7 +831,7 @@ Es  un  apoyo  económico  que  brinda  el  Ministerio  de  Educación  a  las  
 
 El Programa citado se creó mediante el Acuerdo Ministerial No. 1059-2018, de fecha 12 de abril  de  2018,  para  mejorar  progresivamente  las  condiciones  físicas  de  las  instalaciones educativas del país, con el objetivo que la niñez estudie en lugares seguros y saludables. El programa  es  flexible  porque  permite  la  atención  de  las  necesidades  identificadas  y priorizadas por la comunidad educativa, tomando en cuenta los renglones de mantenimiento establecidos por el Ministerio de Educación.
 
-Centros  de  Recursos  para  la  Educación  Inclusiva  -CREI-, Acuerdo  Ministerial  28152019, para promover la enseñanza en estudiantes con necesidades educativas asociadas o no  a  discapacidad.  Los  Centros  de  Recursos  para  la  Educación  Inclusiva  (CREI)  buscan contribuir  al  acceso,  permanencia  y  promoción  de  los  estudiantes  con  necesidades educativas  especiales.  Trabajan  en  tres  líneas  de  acción:  la  formación  del  docente, acompañamiento a estudiantes y atención a padres de familia.
+Centros de Recursos para la Educación Inclusiva -CREI-, Acuerdo Ministerial 2815-2019, para promover la enseñanza en estudiantes con necesidades educativas asociadas o no a discapacidad. Los Centros de Recursos para la Educación Inclusiva (CREI) buscan contribuir al acceso, permanencia y promoción de los estudiantes con necesidades educativas especiales. Trabajan en tres líneas de acción: la formación del docente, acompañamiento a estudiantes y atención a padres de familia.
 
 #### 2.6 Personal de educación
 
@@ -829,25 +851,25 @@ En  el  artículo/párrafo  4.d  de  la  Convención  y  la  Recomendación  se 
 
 - 22 -
 
-o Se han adoptado medidas para mejorar el prestigio social y el atractivo de la profesión docente
+☐ Se han adoptado medidas para mejorar el prestigio social y el atractivo de la profesión docente
 
-o Se utilizan sistemas de seguimiento del desempeño
+☐ Se utilizan sistemas de seguimiento del desempeño
 
-o Se han adoptado medidas para aumentar el número de mujeres en puestos directivos en la educación
+☐ Se han adoptado medidas para aumentar el número de mujeres en puestos directivos en la educación
 
-o Otra:
+☐ Otra:
 
 - Proporcione brevemente más detalles sobre las medidas adoptadas:
 
-¿Ha  habido  casos  de  discriminación  en  su  país  en  lo  que  respecta  a  la  formación  del personal de educación?
+¿Ha habido casos de discriminación en su país en lo que respecta a la formación del personal de educación?
 
-o Sí: ¿Ha abordado su Gobierno este problema?
+☐ Sí: ¿Ha abordado su Gobierno este problema?
 
-o Sí
+☐ Sí
 
-o No
+☐ No
 
-o No
+☐ No
 
 #### 2.7 Respeto de los derechos humanos y de las libertades fundamentales
 
@@ -879,15 +901,15 @@ La ruta de aprendizaje de esta estrategia, para la formación de personal técni
 
 - Estrategia  Nacional  de  Educación  para  la  Convivencia  Pacífica  y  Prevención  de  Violencia, que  propone  fortalecer  la  formación  de  niños  y  niñas,  adolescentes,  jóvenes  y  adultos guatemaltecos para la construcción de una convivencia social pacífica,  respetuosa  de  los derechos humanos, en el marco de una Estado democrático que favorece condiciones de equidades étnicas, de género y sociales.
 
-o El plan de estudios incluye educación sobre los derechos humanos
+☒ El plan de estudios incluye educación sobre los derechos humanos
 
-o Se  organizan  actividades  educativas  o  extracurriculares  relacionadas  con  la  educación sobre los derechos humanos
+☒ Se organizan actividades educativas o extracurriculares relacionadas con la educación sobre los derechos humanos
 
 Actualmente,  en  el  subsistema  de  educación  escolar,  se  ha  fortalecido  las  capacidades  de docentes del Nivel de Educación Media, Ciclo Básico y Ciclo Diversificado, en temáticas que comprende la Estrategia Nacional de Formación Ciudadana, así como con la entrega técnica de guías que proponen metodologías innovadoras para abordar estas temáticas del área de aprendizaje de Formación Ciudadana en el aula, de tal manera que se logre el desarrollo de competencias ciudadanas.
 
 En el marco de la Estrategia de Educación Integral en Sexualidad y Prevención de Violencia, se realizan  procesos  sistemáticos  de  formación,  dirigidos  a  los  actores  de  la  comunidad educativo  por  medio  de  talleres  y  diplomados  B-Learning  e  E_Learning  'Prevenir  con Educación'.  Asimismo,  procesos  de  sensibilización  e  información  en  las  temáticas  que comprende la estrategia.
 
-o Otra:
+☐ Otra:
 
 #### 2.8 Enseñanza privada
 
@@ -895,9 +917,7 @@ En  los  artículos/párrafos  2.c  y  5.1.b  de  la  Convención  y  la  Recome
 
 - ¿Existe en su país un marco normativo relativo al establecimiento y el funcionamiento de las instituciones educativas privadas?
 
-o Sí
-
-o No
+☒ Sí ☐ No
 
 - Proporcione una breve descripción:
 
@@ -925,15 +945,15 @@ Artículo 23. Definición. Los centros educativos privados, son establecimientos
 
 Artículo 24. Funcionamiento.
 
-- Los  centros  educativos  privados  funcionan  de  conformidad  con  el  artículo  73  de  la Constitución  Política  de  la  República  de  Guatemala,  previa  autorización  del  Ministerio  de Educación, cuando llenen los requisitos establecidos en el reglamento específico .
+1. Los centros educativos privados funcionan de conformidad con el artículo 73 de la Constitución Política de la República de Guatemala, previa autorización del Ministerio de Educación, cuando llenen los requisitos establecidos en el reglamento específico.
 
-- Cuando  los  centros  educativos  tengan  planes  y  programas  diferentes  a  los  centros oficiales,  serán  autorizados  a  funcionar  siempre  y  cuando  sea  aprobado  el  proyecto específico  de  funcionamiento  por  el  Ministerio  de  Educación  y  se  garanticen  adecuados niveles académicos y que los mismos no contravengan los principios y fines de la presente ley.
+2. Cuando los centros educativos tengan planes y programas diferentes a los centros oficiales, serán autorizados a funcionar siempre y cuando sea aprobado el proyecto específico de funcionamiento por el Ministerio de Educación y se garanticen adecuados niveles académicos y que los mismos no contravengan los principios y fines de la presente ley.
 
-- Para  normar  el  funcionamiento  de  los  centros  educativos  privados,  el  Ministerio  de Educación elaborará el Reglamento respectivo.
+3. Para normar el funcionamiento de los centros educativos privados, el Ministerio de Educación elaborará el Reglamento respectivo.
 
 Título III - Capítulo I - Garantías Personales de Educación Derechos y Obligaciones
 
-Obligaciones Artículo 33. Obligaciones del Estado. Son obligaciones del Estado las siguientes:
+Obligaciones
 
 > 14 Véase el artículo/párrafo 1.1.
 
@@ -943,9 +963,11 @@ Obligaciones Artículo 33. Obligaciones del Estado. Son obligaciones del Estado 
 
 - 25 -
 
-- Garantizar  el  funcionamiento  de  los  centros  educativos  oficiales,  privados  y  pro cooperativa en beneficio del desarrollo educativo.
+Artículo 33. Obligaciones del Estado. Son obligaciones del Estado las siguientes:
 
-- Subvencionar centros educativos privados gratuitos, de acuerdo a los límites regulados en el reglamento de esta ley.
+13. Garantizar el funcionamiento de los centros educativos oficiales, privados y pro cooperativa en beneficio del desarrollo educativo.
+
+19. Subvencionar centros educativos privados gratuitos, de acuerdo a los límites regulados en el reglamento de esta ley.
 
 Título IV  - Capítulo III -  Modalidades de la Educación
 
@@ -967,15 +989,15 @@ En  el  artículo/párrafo  5.1.c  de  la  Convención  y  la  Recomendación  s
 
 - Indique las medidas jurídicas, normativas y reglamentarias que protegen el derecho de las minorías nacionales a llevar a cabo sus propias actividades educativas (pueden marcarse o mencionarse varios puntos):
 
-- o Las  leyes  constitucionales  o  la  legislación  protegen  el  derecho  a  la  educación  de  las minorías nacionales
+☒ Las leyes constitucionales o la legislación protegen el derecho a la educación de las minorías nacionales
 
-- o La  legislación  o  los  reglamentos  garantizan  el  derecho  de  las  minorías  nacionales  a recibir enseñanza en su lengua materna
+☒ La legislación o los reglamentos garantizan el derecho de las minorías nacionales a recibir enseñanza en su lengua materna
 
-- Se  emite  la  Resolución  No.  780  Modelo  de  Educación  Bilingüe  Intercultural,  por  el Viceministerio Bilingüe e Intercultural, Ministerio de Educación.
+- Se emite la Resolución No. 780 Modelo de Educación Bilingüe Intercultural, por el Viceministerio Bilingüe e Intercultural, Ministerio de Educación.
 
-- Emisión del Acuerdo Ministerial  No. 1449 - 2007 y 374-2019  que contempla la base de indicadores  para  la  implementación  del  Bono  Específico  por  Bilingüismo  a  docentes bilingües de Preprimaria, Primaria, y Escuelas Normales Bilingües Interculturales.
+- Emisión del Acuerdo Ministerial No. 1449 - 2007 y 374-2019 que contempla la base de indicadores para la implementación del Bono Específico por Bilingüismo a docentes bilingües de Preprimaria, Primaria, y Escuelas Normales Bilingües Interculturales.
 
-- o Los planes de estudios se adaptan a las necesidades de las minorías nacionales
+☐ Los planes de estudios se adaptan a las necesidades de las minorías nacionales
 
 [[END OF PAGE 25]]
 
@@ -983,13 +1005,13 @@ En  el  artículo/párrafo  5.1.c  de  la  Convención  y  la  Recomendación  s
 
 - 26 -
 
-- o Los  docentes  reciben  capacitación  para  adaptarse  a  las  necesidades  de  las  minorías nacionales
+☐ Los docentes reciben capacitación para adaptarse a las necesidades de las minorías nacionales
 
 - Formación  a docentes de preprimaria y primaria en competencias  lingüísticas, comunicativas,  culturales,  sociolingüísticas    y  pedagógicas  en  los  idiomas  Achi, Akateka,  Awakateka,  Chalchiteka,    Chuj,  Itza',  Ixil,    Popti',  Kaqchikel,  K'iche',  Mam, Mopan, Poqomam, Poqomchi', Q'anjob'al, Q'eqchi',Sakapulteka,  Tz'utujil  y Uspanteka (22 idiomas mayas) con la participación de  10,864 docentes.
 
 - Formación  a docentes de preprimaria y primaria en competencias  lingüísticas, comunicativas,  culturales,  sociolingüísticas    y  pedagógicas,  en  coordinación  con    la Cooperativa El Recuerdo y el Consejo del Pueblo Xinka de Guatemala COPXIG para la implementación de diplomados en idioma xinka como L2, con la participación de 8,000 docentes.
 
-o Otra:
+☐ Otra:
 
 ##### Generalización de la Educación Bilingüe Multicultural e Intercultural
 
@@ -1017,7 +1039,6 @@ La Educación Bilingüe Intercultural -EBI- es el desarrollo y modalidad Educati
 
 - 27 -
 
-B.
 
 Desde sus inicios, la Educación Bilingüe Intercultural en Guatemala, ha tenido su respaldo legal  a  nivel  ministerial  y  gubernamental,  sin  embargo,  en  las  últimas  décadas  se  ha fortalecido institucionalmente con las siguientes leyes:
 
@@ -1051,7 +1072,7 @@ Inciso h) Perseguir el efectivo cumplimiento del derecho constitucional a la edu
 
 ###### Aspectos Socioeconómicos y Situación Agraria - II. Desarrollo social
 
-###### Educación y capacitación
+###### B. A. Educación y capacitación
 
 ###### Cobertura
 
@@ -1209,9 +1230,9 @@ o Procedimientos administrativos alternativos (pruebas de nivel, portafolio de p
 
 Está definido como una estrategia que busca nivelar la edad y grado de los estudiantes con sobreedad, es de carácter transitorio, busca que los niños, niñas y adolescentes que se  encuentran  en  situación  de  desfase  escolar  o  rezago  escolar,  alcancen  un  nivel  de escolarización  conforme  a  la  edad  requerida  y  establecida  por  el  Sistema  Educativo Nacional, en este marco se ha realizado las acciones siguientes:
 
-- Cobertura:  Departamentos  de  San  Marcos,  Huehuetenango,  Quetzaltenango,  Jutiapa, Quiché y Sololá.
+a) Cobertura: Departamentos de San Marcos, Huehuetenango, Quetzaltenango, Jutiapa, Quiché y Sololá.
 
-- Resumen de acciones ejecutadas:
+b) Resumen de acciones ejecutadas:
 
 - Capacitaciones a docentes
 
@@ -1247,7 +1268,7 @@ Educación inclusiva
 
 Innovación tecnológica
 
-Formación docente Proporcione más detalles sobre las medidas adoptadas:
+Formación docente
 
 [[END OF PAGE 32]]
 
@@ -1255,35 +1276,37 @@ Formación docente Proporcione más detalles sobre las medidas adoptadas:
 
 - 33 -
 
+Proporcione más detalles sobre las medidas adoptadas:
+
 Se da énfasis a la formación laboral a través del fortalecimiento de las competencias para la productividad y el desarrollo de las comunidades vulnerables, principalmente adolescentes y jóvenes fuera del sistema escolar, con programas alternativos de educación extra escolar.
 
-## Métodos  utilizados  para  familiarizar  a  las  diferentes  autoridades  del  país  con  los instrumentos y superar los obstáculos encontrados
+## III. Métodos utilizados para familiarizar a las diferentes autoridades del país con los instrumentos y superar los obstáculos encontrados
 
-### Desafíos y obstáculos
+### 1. Desafíos y obstáculos
 
 #### 1.1 Mencione y detalle las dificultades que ha encontrado su país en el proceso de aplicación de las  disposiciones  fundamentales  de  la  Convención  y  la  Recomendación  (incluidos  los obstáculos jurídicos y prácticos) y facilite información sobre las principales cuestiones que deben abordarse para seguir promoviendo el derecho a la educación en su país (pueden marcarse o mencionarse varios puntos):
 
-o Desafíos relacionados con el acceso equitativo y la inclusión en la educación (como la pobreza y los factores socioeconómicos, las actitudes culturales y tradicionales, la lejanía, la migración y los desplazamientos)
+☐ Desafíos relacionados con el acceso equitativo y la inclusión en la educación (como la pobreza y los factores socioeconómicos, las actitudes culturales y tradicionales, la lejanía, la migración y los desplazamientos)
 
 Acceso a la tecnología y conectividad con equidad, para todos en todas las áreas.
 
 Deserción escolar por falta de oportunidades (principalmente en nivel medio, diversificado).
 
-o Desafíos  relacionados  con  la  calidad  de  la  educación  (como  la  escasez  de  personal docente cualificado, capacitado y motivado; y la enseñanza, el aprendizaje o un entorno escolar desfavorables o inadecuados)
+☐ Desafíos relacionados con la calidad de la educación (como la escasez de personal docente cualificado, capacitado y motivado; y la enseñanza, el aprendizaje o un entorno escolar desfavorables o inadecuados)
 
 Incremento de necesidades docentes, falta de personal en algunas escuelas.
 
-o Desafíos relacionados con el sistema y la gobernanza (como las limitaciones presupuestarias; la falta o las deficiencias de los sistemas de seguimiento, incluida la falta de datos fiables; un entorno jurídico y normativo desfavorable, incoherente u obsoleto; la falta  de  participación  de  las  partes  interesadas  pertinentes,  y  la  falta  de  cooperación  o coordinación a distintos niveles)
+☐ Desafíos relacionados con el sistema y la gobernanza (como las limitaciones presupuestarias; la falta o las deficiencias de los sistemas de seguimiento, incluida la falta de datos fiables; un entorno jurídico y normativo desfavorable, incoherente u obsoleto; la falta de participación de las partes interesadas pertinentes, y la falta de cooperación o coordinación a distintos niveles)
 
 Sistemas de registro confiables que proporcionen datos reales sobre la demanda educativa de la población vulnerable y fuera del sistema.
 
-o Otra:
+☐ Otra:
 
 Mejorar la infraestructura en las escuelas es el mayor reto hacia la calidad educativa.
 
 #### 1.2 Realice  una  breve  evaluación  de  la  eficacia  de  los  métodos  aplicados  para  superar  los obstáculos encontrados:
 
-Recién  se  inició  este  año  con  la  implementación  de  las  líneas  estratégicas  2020-2024  las cuales tuvieron que modificarse o adaptarse en alguna medida debido a la pandemia COVID19,  sin  embargo  las  acciones  concretas  para  lograr  las  primeras  metas  del  2020  fueron superadas en lo  que  respecta  a  programas  específicos  tales  como:  alimentación  escolar, seguro  escolar,  programa  nacional  de  lectura,  innovación  tecnológica  para  graduandos, modalidades flexibles a través de DIGEEX, inclusión educativa con el apoyo de DIGEESP en la atención a la población con discapacidad, modelo de educación inicial CECODIT (Centros Comunitarios de Desarrollo Infantil Temprano), el modelo de gestión educativa inclusiva que responde a toda la población, la promoción de estudiantes 2020 y la retención que se espera para el 2021 como uno de los grandes desafíos.
+Recién se inició este año con la implementación de las líneas estratégicas 2020-2024 las cuales tuvieron que modificarse o adaptarse en alguna medida debido a la pandemia COVID-19, sin embargo las acciones concretas para lograr las primeras metas del 2020 fueron superadas en lo que respecta a programas específicos tales como: alimentación escolar, seguro escolar, programa nacional de lectura, innovación tecnológica para graduandos,
 
 [[END OF PAGE 33]]
 
@@ -1291,22 +1314,24 @@ Recién  se  inició  este  año  con  la  implementación  de  las  líneas  es
 
 - 34 -
 
+modalidades flexibles a través de DIGEEX, inclusión educativa con el apoyo de DIGEESP en la atención a la población con discapacidad, modelo de educación inicial CECODIT (Centros Comunitarios de Desarrollo Infantil Temprano), el modelo de gestión educativa inclusiva que responde a toda la población, la promoción de estudiantes 2020 y la retención que se espera para el 2021 como uno de los grandes desafíos.
+
 ### 2. Sensibilización
 
 Los órganos rectores de la UNESCO han subrayado la necesidad de llevar a cabo una labor de  sensibilización.  Dada  la  importancia  de  la  acción  normativa  en  el  plano  nacional,  es preciso  velar  por  que  la  Convención  se  difunda  ampliamente,  con  el  apoyo  de  las comisiones nacionales para la UNESCO.
 
 -  ¿Se han llevado a cabo actividades para familiarizar a las distintas autoridades del país con  la  Convención  y  la  Recomendación  y  con  sus  disposiciones  sobre  el  derecho  a  la educación, así como para sensibilizarlas sobre los principios de no discriminación e igualdad de oportunidades educativas? (pueden marcarse o mencionarse varios puntos)
 
-- o Traducción de la Convención o la Recomendación  a  los idiomas nacionales y posiblemente a los idiomas locales
+☐ Traducción de la Convención o la Recomendación a los idiomas nacionales y posiblemente a los idiomas locales
 
-- o Difusión y promoción del contenido básico de la Convención o la Recomendación o de los principios básicos del derecho a la educación
+☒ Difusión y promoción del contenido básico de la Convención o la Recomendación o de los principios básicos del derecho a la educación
 
-- o Aumento  de  la  sensibilización  con  material  de  promoción  sobre  la  Convención  o  la Recomendación o sobre los principios fundamentales del derecho a la educación
+☒ Aumento de la sensibilización con material de promoción sobre la Convención o la Recomendación o sobre los principios fundamentales del derecho a la educación
 
-- o Actividades  emprendidas  o  apoyadas  por  la  Comisión  Nacional  para  promover  la  no discriminación  y  la  igualdad  de  oportunidades  educativas  y  fomentar  el  debate  sobre cuestiones fundamentales relacionadas con los derechos consagrados en los instrumentos
+☒ Actividades emprendidas o apoyadas por la Comisión Nacional para promover la no discriminación y la igualdad de oportunidades educativas y fomentar el debate sobre cuestiones fundamentales relacionadas con los derechos consagrados en los instrumentos
 
-o Otra:
+☐ Otra:
 
-Se  sugiere  realizar  interpretación  a  Lengua  de  Señas  de  Guatemala,  para  respetar  lo establecido en el Decreto Legislativo No. 03 - 2020 'Ley que reconoce la Lengua de Señas de  Guatemala  -Lensegua-',  la  cual  busca  la  inclusión  de  las  personas  con  discapacidad auditiva.  Así  como  preparar  material  adaptado  en  concordancia  con  el  Tratado  de Marrakech,  Decreto  Legislativo  No.  07  -  2016,  queaprueba  el  Tratado  de  Marrakech  para facilitar el acceso a las obras publicadas a las personas ciegas, con discapacidad visual o con otras dificultades para acceder al texto impreso (2013), suscrito en Ginebra, Suiza el 2 de junio de 2014.
+Se sugiere realizar interpretación a Lengua de Señas de Guatemala, para respetar lo establecido en el Decreto Legislativo No. 03 – 2020 “Ley que reconoce la Lengua de Señas de Guatemala -Lensegua-“, la cual busca la inclusión de las personas con discapacidad auditiva. Así como preparar material adaptado en concordancia con el Tratado de Marrakech, Decreto Legislativo No. 07 – 2016, queaprueba el Tratado de Marrakech para facilitar el acceso a las obras publicadas a las personas ciegas, con discapacidad visual o con otras dificultades para acceder al texto impreso (2013), suscrito en Ginebra, Suiza el 2 de junio de 2014.
 
 [[END OF PAGE 34]]
