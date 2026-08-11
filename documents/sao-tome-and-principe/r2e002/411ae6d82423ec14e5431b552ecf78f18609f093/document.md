@@ -34,23 +34,23 @@ A República Democrática de São Tomé e Príncipe é um Estado soberano e inde
 
 ### Artigo 2.º Identidade Nacional
 
-A República Democrática de São Tomé e Príncipe assegura a identidade nacional sãotomense e integra todo e qualquer são-tomense residente dentro ou fora do seu território.
+A República Democrática de São Tomé e Príncipe assegura a identidade nacional são-tomense e integra todo e qualquer são-tomense residente dentro ou fora do seu território.
 
 ### Artigo 3.º Cidadania São-tomense
 
 - 1.São cidadãos são-tomenses todos os nascidos em território nacional, os filhos de pai ou mãe são-tomense e aqueles que como tal sejam considerados por lei.
 
-- Os cidadãos são-tomenses que adquiram a nacionalidade de outro país conservam a sua nacionalidade de origem.
+- 2. Os cidadãos são-tomenses que adquiram a nacionalidade de outro país conservam a sua nacionalidade de origem.
 
 ### Artigo 4.º Território Nacional
 
-- O território da República Democrática de São Tomé e Príncipe é composto pelas ilhas de São Tomé e do Príncipe, pelos ilhéus das Rolas, das Cabras, Bombom, Boné Jockey, Pedras Tinhosas e demais ilhéus adjacentes, pelo mar territorial compreendido num circulo de doze milhas a partir da linha de base determinada pela lei, pelas águas arquipelágicas situadas no interior da linha de base e o espaço aéreo que se estende sobre o conjunto territorial atrás definido.
+- 1. O território da República Democrática de São Tomé e Príncipe é composto pelas ilhas de São Tomé e do Príncipe, pelos ilhéus das Rolas, das Cabras, Bombom, Boné Jockey, Pedras Tinhosas e demais ilhéus adjacentes, pelo mar territorial compreendido num circulo de doze milhas a partir da linha de base determinada pela lei, pelas águas arquipelágicas situadas no interior da linha de base e o espaço aéreo que se estende sobre o conjunto territorial atrás definido.
 
-- O Estado São-tomense exerce a sua soberania sobre todo o território nacional, o subsolo do espaço terrestre, o fundo e o subsolo do território aquático formado pelo mar territorial e as águas arquipelágicas, bem como sobre os recursos naturais vivos e não vivos que se encontrem em todos os espaços supramencionados e os existentes nas águas suprajacentes imediatas às costas, fora do mar territorial, na extensão que fixa a lei, em conformidade com o direito internacional.
+- 2. O Estado São-tomense exerce a sua soberania sobre todo o território nacional, o subsolo do espaço terrestre, o fundo e o subsolo do território aquático formado pelo mar territorial e as águas arquipelágicas, bem como sobre os recursos naturais vivos e não vivos que se encontrem em todos os espaços supramencionados e os existentes nas águas suprajacentes imediatas às costas, fora do mar territorial, na extensão que fixa a lei, em conformidade com o direito internacional.
 
 ### Artigo 5.º Estado Unitário
 
-- A República Democrática de São Tomé e Príncipe é um Estado unitário, sem prejuízo da existência de autarquias locais.
+- 1. A República Democrática de São Tomé e Príncipe é um Estado unitário, sem prejuízo da existência de autarquias locais.
 
 www.tribunalconstitucional.st
 
@@ -62,13 +62,13 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-- A capital da República é a Cidade de São Tomé.
+- 2. A capital da República é a Cidade de São Tomé.
 
 ### Artigo 6.º Estado de Direito Democrático
 
-- A Republica Democrática de São Tomé e Príncipe é um Estado de Direito democrático, baseado nos direitos fundamentais da pessoa humana.
+- 1. A Republica Democrática de São Tomé e Príncipe é um Estado de Direito democrático, baseado nos direitos fundamentais da pessoa humana.
 
-- O poder político pertence ao povo, que o exerce através de sufrágio universal, igual, directo e secreto nos termos da Constituição.
+- 2. O poder político pertence ao povo, que o exerce através de sufrágio universal, igual, directo e secreto nos termos da Constituição.
 
 ### Artigo 7.º Justiça e Legalidade
 
@@ -82,25 +82,25 @@ A República Democrática de São Tomé e Príncipe é um Estado laico, nela exi
 
 - 1.A organização económica de São Tomé e Príncipe assenta no princípio de economia mista, tendo em vista a independência nacional, o desenvolvimento e a justiça social.
 
-- É garantida, nos termos da lei, a coexistência da propriedade pública, da propriedade cooperativa e da propriedade privada de meios de produção.
+- 2. É garantida, nos termos da lei, a coexistência da propriedade pública, da propriedade cooperativa e da propriedade privada de meios de produção.
 
 ### Artigo 10.º Objectivos Primordiais do Estado
 
 São objectivos primordiais do Estado:
 
-- Garantir a independência nacional;
+- a) Garantir a independência nacional;
 
-- Promover o respeito e a efectivação dos direitos pessoais, económicos, sociais, culturais e políticos dos cidadãos;
+- b) Promover o respeito e a efectivação dos direitos pessoais, económicos, sociais, culturais e políticos dos cidadãos;
 
-- Promover e garantir a democratização e o progresso das estruturas económicas, sociais e culturais;
+- c) Promover e garantir a democratização e o progresso das estruturas económicas, sociais e culturais;
 
-- Preservar o equilíbrio harmonioso da natureza e do ambiente.
+- d) Preservar o equilíbrio harmonioso da natureza e do ambiente.
 
 ### Artigo 11.º Defesa Nacional
 
-- Compete ao Estado assegurar a Defesa Nacional.
+- 1. Compete ao Estado assegurar a Defesa Nacional.
 
-- A Defesa Nacional tem como objectivos essenciais garantir a independência nacional, a integridade territorial e o respeito das instituições democráticas.
+- 2. A Defesa Nacional tem como objectivos essenciais garantir a independência nacional, a integridade territorial e o respeito das instituições democráticas.
 
 www.tribunalconstitucional.st
 
@@ -112,31 +112,31 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-- Lei especial regulará a sua forma de organização.
+- 3. Lei especial regulará a sua forma de organização.
 
 ### Artigo 12.º Relações Internacionais
 
-- A República Democrática de São Tomé e Príncipe está decidida a contribuir para a salvaguarda da paz universal, para o estabelecimento de relações de igualdade de direitos e respeito mútuo da soberania entre  todos os Estados e para o progresso social da humanidade, na base dos princípios do direito internacional e da coexistência pacífica.
+- 1. A República Democrática de São Tomé e Príncipe está decidida a contribuir para a salvaguarda da paz universal, para o estabelecimento de relações de igualdade de direitos e respeito mútuo da soberania entre todos os Estados e para o progresso social da humanidade, na base dos princípios do direito internacional e da coexistência pacífica.
 
-- A República Democrática de São Tomé e Príncipe proclama a sua adesão à Declaração Universal dos Direitos do Homem e aos seus princípios e objectivos da União Africana e da Organização das Nações Unidas.
+- 2. A República Democrática de São Tomé e Príncipe proclama a sua adesão à Declaração Universal dos Direitos do Homem e aos seus princípios e objectivos da União Africana e da Organização das Nações Unidas.
 
-- A República Democrática de São Tomé e Príncipe mantém laços especiais de amizade e de cooperação com os países de língua portuguesa e com os países de acolhimento de emigrantes são-tomenses.
+- 3. A República Democrática de São Tomé e Príncipe mantém laços especiais de amizade e de cooperação com os países de língua portuguesa e com os países de acolhimento de emigrantes são-tomenses.
 
-- A República Democrática de São Tomé e Príncipe promove e desenvolve laços privilegiados de amizade e cooperação com os países vizinhos e os da região.
+- 4. A República Democrática de São Tomé e Príncipe promove e desenvolve laços privilegiados de amizade e cooperação com os países vizinhos e os da região.
 
 ### Artigo 13.º Recepção do Direito Internacional
 
 - 1.As normas e os princípios de direito internacional geral ou comum fazem parte integrante do direito são-tomense.
 
-- As normas constantes de convenções, tratados e acordos internacionais validamente aprovadas e ratificadas pelos respectivos órgãos competentes vigoram na ordem jurídica são-tomense após a sua publicação oficial e enquanto vincularem internacionalmente o Estado São-tomense.
+- 2. As normas constantes de convenções, tratados e acordos internacionais validamente aprovadas e ratificadas pelos respectivos órgãos competentes vigoram na ordem jurídica são-tomense após a sua publicação oficial e enquanto vincularem internacionalmente o Estado São-tomense.
 
-- As normas constantes de convenções, tratados e acordos internacionais validamente aprovadas e ratificadas pelos respectivos órgãos competentes têm prevalência, após sua entrada em vigor na ordem internacional e interna, sobre todos os actos legislativos e normativos internos de valor infra - constitucional.
+- 3. As normas constantes de convenções, tratados e acordos internacionais validamente aprovadas e ratificadas pelos respectivos órgãos competentes têm prevalência, após sua entrada em vigor na ordem internacional e interna, sobre todos os actos legislativos e normativos internos de valor infra - constitucional.
 
 ### Artigo 14.º Símbolos Nacionais
 
-- A Bandeira Nacional é constituída por três barras dispostas horizontalmente, sendo verdes e de igual largura as dos extremos, e a mediana, na qual estão apostas duas estrelas negras de cinco pontas, amarela, e uma vez e  meia mais larga que cada uma das outras e por um triângulo encarnado, cuja base se situa do lado esquerdo da Bandeira. A altura do triângulo é metade da base.
+- 1. A Bandeira Nacional é constituída por três barras dispostas horizontalmente, sendo verdes e de igual largura as dos extremos, e a mediana, na qual estão apostas duas estrelas negras de cinco pontas, amarela, e uma vez e meia mais larga que cada uma das outras e por um triângulo encarnado, cuja base se situa do lado esquerdo da Bandeira. A altura do triângulo é metade da base.
 
-- O Hino Nacional é 'INDEPENDÊNCIA TOTAL'.
+- 2. O Hino Nacional é “INDEPENDÊNCIA TOTAL”.
 
 www.tribunalconstitucional.st
 
@@ -148,7 +148,7 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-- A insígnia é constituída pela figura de um falcão à esquerda e um papagaio à direita, separados por um brasão de forma ovular, cuja abcissa vertical é de dimensão 0,33 vezes superior que a horizontal e no interior do qual se destaca uma palmeira situada ao longo da abcissa vertical.
+- 3. A insígnia é constituída pela figura de um falcão à esquerda e um papagaio à direita, separados por um brasão de forma ovular, cuja abcissa vertical é de dimensão 0,33 vezes superior que a horizontal e no interior do qual se destaca uma palmeira situada ao longo da abcissa vertical.
 
 # PARTE II Direitos Fundamentais e Ordem Social
 
@@ -156,23 +156,23 @@ Tribunal Constitucional
 
 ### Artigo 15.º Princípios de Igualdade
 
-- Todos os cidadãos são iguais perante a lei, gozam dos mesmos direitos e estão sujeitos aos mesmos deveres, sem distinção de origem social, raça, sexo, tendência política, crença religiosa ou convicção filosófica.
+- 1. Todos os cidadãos são iguais perante a lei, gozam dos mesmos direitos e estão sujeitos aos mesmos deveres, sem distinção de origem social, raça, sexo, tendência política, crença religiosa ou convicção filosófica.
 
-- A mulher é igual ao homem em direitos e deveres, sendo-lhe assegurada plena participação na vida política, económica, social e cultural.
+- 2. A mulher é igual ao homem em direitos e deveres, sendo-lhe assegurada plena participação na vida política, económica, social e cultural.
 
 ### Artigo 16.º Cidadão no Estrangeiro
 
-- Todo o cidadão são-tomense que resida ou se encontre no estrangeiro goza dos mesmos direitos e está sujeito aos mesmos deveres que os demais cidadãos, salvo no que seja incompatível com a ausência do país.
+- 1. Todo o cidadão são-tomense que resida ou se encontre no estrangeiro goza dos mesmos direitos e está sujeito aos mesmos deveres que os demais cidadãos, salvo no que seja incompatível com a ausência do país.
 
-- Os cidadãos são-tomenses residentes no estrangeiro gozam do cuidado e da protecção do Estado.
+- 2. Os cidadãos são-tomenses residentes no estrangeiro gozam do cuidado e da protecção do Estado.
 
 ### Artigo 17.º Estrangeiros em São Tomé e Príncipe
 
-- Os estrangeiros e os apátridas que residam ou se encontram em São Tomé e Príncipe gozam dos mesmos direitos  e estão sujeitos aos mesmos deveres que cidadão sãotomense, excepto no que se refere aos direitos políticos, aos exercícios das funções públicas e aos demais direitos e deveres expressamente reservados por lei ao cidadão nacional.
+- 1. Os estrangeiros e os apátridas que residam ou se encontram em São Tomé e Príncipe gozam dos mesmos direitos e estão sujeitos aos mesmos deveres que cidadão são-tomense, excepto no que se refere aos direitos políticos, aos exercícios das funções públicas e aos demais direitos e deveres expressamente reservados por lei ao cidadão nacional.
 
-- O exercício de funções públicas só poderá ser permitido aos estrangeiros desde que tenham carácter predominantemente técnico, salvo acordo ou convenção internacional.
+- 2. O exercício de funções públicas só poderá ser permitido aos estrangeiros desde que tenham carácter predominantemente técnico, salvo acordo ou convenção internacional.
 
-- A lei pode atribuir aos cidadãos estrangeiros residentes no território nacional, em condições de reciprocidade, capacidade eleitoral activa e passiva para eleição dos titulares de órgãos das autarquias locais.
+- 3. A lei pode atribuir aos cidadãos estrangeiros residentes no território nacional, em condições de reciprocidade, capacidade eleitoral activa e passiva para eleição dos titulares de órgãos das autarquias locais.
 
 www.tribunalconstitucional.st
 
@@ -186,15 +186,15 @@ Tribunal Constitucional
 
 ### Artigo 18.º Âmbito e Sentido dos Direitos
 
-- Os direitos consagrados nesta Constituição não excluem quaisquer que sejam previstos nas leis ou em regras de Direitos internacionais.
+- 1. Os direitos consagrados nesta Constituição não excluem quaisquer que sejam previstos nas leis ou em regras de Direitos internacionais.
 
-- Os preceitos relativos a direitos fundamentais são interpretados e integrados de harmonia com a Declaração Universal dos Direitos do Homem.
+- 2. Os preceitos relativos a direitos fundamentais são interpretados e integrados de harmonia com a Declaração Universal dos Direitos do Homem.
 
 ### Artigo 19.º Restrição e Suspensão
 
-- O exercício dos direitos fundamentais só pode ser restringido nos casos previstos na Constituição e suspenso na vigência de estado de sítio ou de estado de emergência declarados nos termos da Constituição e da lei.
+- 1. O exercício dos direitos fundamentais só pode ser restringido nos casos previstos na Constituição e suspenso na vigência de estado de sítio ou de estado de emergência declarados nos termos da Constituição e da lei.
 
-- Nenhuma restrição ou suspensão de direitos pode ser estabelecida para além do estritamente  necessário.
+- 2. Nenhuma restrição ou suspensão de direitos pode ser estabelecida para além do estritamente necessário.
 
 ### Artigo 20.º Acesso aos Tribunais
 
@@ -208,15 +208,15 @@ Os cidadãos têm deveres para com a sociedade e o Estado, não podendo exercer 
 
 ### Artigo 22.º Direitos à Vida
 
-- A vida humana é inviolável.
+- 1. A vida humana é inviolável.
 
-- Em caso algum, haverá pena de morte.
+- 2. Em caso algum, haverá pena de morte.
 
 ### Artigo 23.º Direito à Integridade Pessoal
 
-- A integridade moral e física das pessoas é inviolável.
+- 1. A integridade moral e física das pessoas é inviolável.
 
-- Ninguém pode ser submetido a tortura, nem tratos ou penas cruéis, desumanas ou degradantes.
+- 2. Ninguém pode ser submetido a tortura, nem tratos ou penas cruéis, desumanas ou degradantes.
 
 www.tribunalconstitucional.st
 
@@ -234,31 +234,31 @@ A identidade pessoal e a reserva da intimidade da vida privada e familiar são i
 
 ### Artigo 25.º Inviolabilidade do Domicílio e da Correspondência
 
-- O domicílio e o sigilo da correspondência e dos outros meios de comunicação privada são invioláveis.
+- 1. O domicílio e o sigilo da correspondência e dos outros meios de comunicação privada são invioláveis.
 
-- A entrada no domicílio dos cidadãos contra a sua vontade só pode ser ordenada pela autoridade judicial competente, nos casos e segundo as formas previstas na lei.
+- 2. A entrada no domicílio dos cidadãos contra a sua vontade só pode ser ordenada pela autoridade judicial competente, nos casos e segundo as formas previstas na lei.
 
 ### Artigo 26.º Família, Casamento e Filiação
 
-- Todos têm o direito de constituir família e de contrair casamento em condições de plena igualdade.
+- 1. Todos têm o direito de constituir família e de contrair casamento em condições de plena igualdade.
 
-- A lei regula os requisitos e os efeitos do casamento e da dissolução, por morte ou divórcio, independentemente da forma de celebração.
+- 2. A lei regula os requisitos e os efeitos do casamento e da dissolução, por morte ou divórcio, independentemente da forma de celebração.
 
-- Os cônjuges têm iguais direitos e deveres quanto à capacidade civil e política e à manutenção e educação dos filhos.
+- 3. Os cônjuges têm iguais direitos e deveres quanto à capacidade civil e política e à manutenção e educação dos filhos.
 
-- Os filhos nascidos fora do casamento não podem, por esse motivo, ser objecto de qualquer discriminação.
+- 4. Os filhos nascidos fora do casamento não podem, por esse motivo, ser objecto de qualquer discriminação.
 
-- Os pais têm o direito e o dever de educação e manutenção dos filhos.
+- 5. Os pais têm o direito e o dever de educação e manutenção dos filhos.
 
 ### Artigo 27.º Liberdade de Consciência, de Religião e de Culto
 
-- A liberdade de consciência, de religião e de culto é inviolável.
+- 1. A liberdade de consciência, de religião e de culto é inviolável.
 
-- Ninguém pode ser perseguido, privado de direitos ou isento de obrigações ou deveres cívicos por causa das suas convicções ou prática religiosa.
+- 2. Ninguém pode ser perseguido, privado de direitos ou isento de obrigações ou deveres cívicos por causa das suas convicções ou prática religiosa.
 
-- Ninguém pode ser perguntado por qualquer autoridade acerca das suas convicções ou prática religiosa, salvo para recolha de dados estatísticos não individualmente identificáveis, nem ser prejudicado por se recusar a responder.
+- 3. Ninguém pode ser perguntado por qualquer autoridade acerca das suas convicções ou prática religiosa, salvo para recolha de dados estatísticos não individualmente identificáveis, nem ser prejudicado por se recusar a responder.
 
-- As confissões religiosas são livres no culto, no ensino e na sua organização.
+- 4. As confissões religiosas são livres no culto, no ensino e na sua organização.
 
 www.tribunalconstitucional.st
 
@@ -276,21 +276,21 @@ Tribunal Constitucional
 
 ### Artigo 29.º Liberdade de expressão e informação
 
-- Todos têm o direito de exprimir e divulgar livremente o seu pensamento pela palavra, pela imagem ou por qualquer outro meio.
+- 1. Todos têm o direito de exprimir e divulgar livremente o seu pensamento pela palavra, pela imagem ou por qualquer outro meio.
 
-- As infracções cometidas no exercício deste direito ficam submetidas aos princípios gerais de direito criminal, sendo a sua apreciação da competência dos tribunais.
+- 2. As infracções cometidas no exercício deste direito ficam submetidas aos princípios gerais de direito criminal, sendo a sua apreciação da competência dos tribunais.
 
 ### Artigo 30.º Liberdade de imprensa
 
-- Na República Democrática de São Tomé e Príncipe é garantida a liberdade de imprensa, nos termos da lei.
+- 1. Na República Democrática de São Tomé e Príncipe é garantida a liberdade de imprensa, nos termos da lei.
 
-- O Estado garante um serviço público de imprensa independente dos interesses de grupos económicos e políticos.
+- 2. O Estado garante um serviço público de imprensa independente dos interesses de grupos económicos e políticos.
 
 ### Artigo 31.º Direito de aprender e liberdade de ensinar
 
-- É garantido o direito de aprender e a liberdade de ensinar.
+- 1. É garantido o direito de aprender e a liberdade de ensinar.
 
-- O Estado não pode atribuir-se o direito de programar a educação e a cultura segundo quaisquer directrizes filosóficas, políticas, ideológicas ou religiosas.
+- 2. O Estado não pode atribuir-se o direito de programar a educação e a cultura segundo quaisquer directrizes filosóficas, políticas, ideológicas ou religiosas.
 
 ### Artigo 32. Liberdade de escolha de profissão
 
@@ -298,9 +298,9 @@ Todos têm o direito de escolher livremente a profissão ou o género de trabalh
 
 ### Artigo 33.º Direito de deslocação e de emigração
 
-- A todos os cidadãos é garantido o direito de se deslocarem e fixarem livremente em qualquer parte do território nacional.
+- 1. A todos os cidadãos é garantido o direito de se deslocarem e fixarem livremente em qualquer parte do território nacional.
 
-- A todos é garantido o direito de emigrar ou de sair do território nacional e o direito de regressar.
+- 2. A todos é garantido o direito de emigrar ou de sair do território nacional e o direito de regressar.
 
 www.tribunalconstitucional.st
 
@@ -314,37 +314,37 @@ Tribunal Constitucional
 
 ### Artigo 34.º Direito de reunião e de manifestação
 
-- Os cidadãos têm o direito de se reunir, pacificamente e sem armas, mesmo em lugares abertos ao público.
+- 1. Os cidadãos têm o direito de se reunir, pacificamente e sem armas, mesmo em lugares abertos ao público.
 
-- A todos os cidadãos é reconhecido o direito de manifestação, nos termos da lei.
+- 2. A todos os cidadãos é reconhecido o direito de manifestação, nos termos da lei.
 
 ### Artigo 35.º Liberdade de associação
 
-- Os cidadãos têm o direito de, livremente e sem dependência de qualquer autorização, constituir associações, desde que não sejam contrárias à lei penal ou não ponham em causa a Constituição e a independência nacional.
+- 1. Os cidadãos têm o direito de, livremente e sem dependência de qualquer autorização, constituir associações, desde que não sejam contrárias à lei penal ou não ponham em causa a Constituição e a independência nacional.
 
-- As associações prosseguem livremente os seus fins.
+- 2. As associações prosseguem livremente os seus fins.
 
-- Ninguém  pode ser obrigado a fazer parte de uma associação nem coagido por qualquer meio a permanecer nela.
+- 3. Ninguém pode ser obrigado a fazer parte de uma associação nem coagido por qualquer meio a permanecer nela.
 
 ### Artigo 36.º Liberdade física e segurança
 
-- Todos têm direito à liberdade física e à segurança pessoal.
+- 1. Todos têm direito à liberdade física e à segurança pessoal.
 
-- Ninguém pode ser privado da liberdade, a não ser nos casos previstos na lei e sempre por decisão ou com apreciação pelo tribunal competente.
+- 2. Ninguém pode ser privado da liberdade, a não ser nos casos previstos na lei e sempre por decisão ou com apreciação pelo tribunal competente.
 
 ### Artigo 37.º Aplicação da Lei Penal
 
-- Ninguém pode ser sentenciado criminalmente senão em virtude de lei anterior que declare punível a acção ou a omissão nem sofrer medida de segurança cujos pressupostos não estejam fixados em lei anterior.
+- 1. Ninguém pode ser sentenciado criminalmente senão em virtude de lei anterior que declare punível a acção ou a omissão nem sofrer medida de segurança cujos pressupostos não estejam fixados em lei anterior.
 
-- Aplicam-se, porém, retroactivamente as leis penais de conteúdo mais favorável ao arguido ou ao condenado.
+- 2. Aplicam-se, porém, retroactivamente as leis penais de conteúdo mais favorável ao arguido ou ao condenado.
 
 ### Artigo 38.º Limites das penas e das medidas de segurança
 
-- Não pode haver penas nem medidas de segurança privativas ou restritivas da liberdade com carácter perpétuo ou duração ilimitada ou indefinida.
+- 1. Não pode haver penas nem medidas de segurança privativas ou restritivas da liberdade com carácter perpétuo ou duração ilimitada ou indefinida.
 
-- As penas são insusceptíveis de transmissão.
+- 2. As penas são insusceptíveis de transmissão.
 
-- Nenhuma pena envolve como efeito necessário a perda de quaisquer direitos civis, profissionais ou políticos.
+- 3. Nenhuma pena envolve como efeito necessário a perda de quaisquer direitos civis, profissionais ou políticos.
 
 www.tribunalconstitucional.st
 
@@ -358,33 +358,33 @@ Tribunal Constitucional
 
 ### Artigo 39.º Habeas Corpus
 
-- Em caso de prisão ou detenção ilegal resultante de abuso do poder, o cidadão tem direito a recorrer à providência de Habeas Corpus.
+- 1. Em caso de prisão ou detenção ilegal resultante de abuso do poder, o cidadão tem direito a recorrer à providência de Habeas Corpus.
 
-- A providência de Habeas Corpus é interposta perante o Tribunal e o seu processo é fixado pela lei.
+- 2. A providência de Habeas Corpus é interposta perante o Tribunal e o seu processo é fixado pela lei.
 
 ### Artigo 40.º Garantias de processo criminal
 
-- O processo criminal assegurará todas as garantias de defesa.
+- 1. O processo criminal assegurará todas as garantias de defesa.
 
-- Todo o arguido se presume inocente até ao trânsito em julgado da sentença de condenação, devendo ser julgado no mais curto prazo compatível com as garantias de defesa.
+- 2. Todo o arguido se presume inocente até ao trânsito em julgado da sentença de condenação, devendo ser julgado no mais curto prazo compatível com as garantias de defesa.
 
-- O arguido tem direito a escolher defensor e a ser por ele assistido em todos os actos do processo, especificando a lei os casos e as fases em que essa assistência é obrigatória.
+- 3. O arguido tem direito a escolher defensor e a ser por ele assistido em todos os actos do processo, especificando a lei os casos e as fases em que essa assistência é obrigatória.
 
-- Toda a instrução é da competência de um magistrado, o qual pode, nos termos da lei, delegar noutras entidades a prática dos actos instrutórios que se não prendam directamente com os direitos fundamentais.
+- 4. Toda a instrução é da competência de um magistrado, o qual pode, nos termos da lei, delegar noutras entidades a prática dos actos instrutórios que se não prendam directamente com os direitos fundamentais.
 
-- O processo criminal tem estrutura acusatória, estando a audiência de julgamento e os actos instrutórios que a lei determinar subordinados ao princípio do contraditório.
+- 5. O processo criminal tem estrutura acusatória, estando a audiência de julgamento e os actos instrutórios que a lei determinar subordinados ao princípio do contraditório.
 
-- São nulas todas as provas obtidas mediante tortura, coacção, ofensa da integridade física ou moral da pessoa, abusiva intromissão na vida privada, no domicílio, na correspondência ou nas telecomunicações.
+- 6. São nulas todas as provas obtidas mediante tortura, coacção, ofensa da integridade física ou moral da pessoa, abusiva intromissão na vida privada, no domicílio, na correspondência ou nas telecomunicações.
 
-- Nenhuma causa pode ser subtraída ao tribunal cuja competência esteja fixada em lei anterior.
+- 7. Nenhuma causa pode ser subtraída ao tribunal cuja competência esteja fixada em lei anterior.
 
 ### Artigo 41.º Extradição, expulsão e direito de asilo
 
-- Não são admitidas a extradição e a expulsão de cidadãos são-tomenses do território nacional.
+- 1. Não são admitidas a extradição e a expulsão de cidadãos são-tomenses do território nacional.
 
-- Não é admitida a extradição por motivos políticos, nem por crimes a que corresponda pena de morte segundo o direito do Estado requisitante.
+- 2. Não é admitida a extradição por motivos políticos, nem por crimes a que corresponda pena de morte segundo o direito do Estado requisitante.
 
-- A expulsão dos estrangeiros que tenham obtido autorização de residência, só pode ser determinada por autoridade judicial, assegurando a lei formas expeditas de decisão.
+- 3. A expulsão dos estrangeiros que tenham obtido autorização de residência, só pode ser determinada por autoridade judicial, assegurando a lei formas expeditas de decisão.
 
 www.tribunalconstitucional.st
 
@@ -396,45 +396,45 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-- É concedido asilo aos estrangeiros perseguidos ou gravemente ameaçados de perseguição, em virtude da sua actividade em favor dos direitos democráticos
+- 4. É concedido asilo aos estrangeiros perseguidos ou gravemente ameaçados de perseguição, em virtude da sua actividade em favor dos direitos democráticos
 
 ## Título III Direitos Sociais e Ordem Económica, Social e Cultural
 
 ### Artigo 42.º Direito ao trabalho
 
-- Todos têm direito ao trabalho.
+- 1. Todos têm direito ao trabalho.
 
-- O dever de trabalhar é inseparável do direito ao trabalho.
+- 2. O dever de trabalhar é inseparável do direito ao trabalho.
 
-- Incumbe ao Estado assegurar a igualdade de oportunidades na escolha da profissão ou género de trabalho e condições para que não seja vedado ou limitado, em função do sexo, o acesso a quaisquer cargos, trabalho ou categorias profissionais.
+- 3. Incumbe ao Estado assegurar a igualdade de oportunidades na escolha da profissão ou género de trabalho e condições para que não seja vedado ou limitado, em função do sexo, o acesso a quaisquer cargos, trabalho ou categorias profissionais.
 
-- É garantido o direito ao exercício de profissões liberais nas condições previstas na lei.
+- 4. É garantido o direito ao exercício de profissões liberais nas condições previstas na lei.
 
 ### Artigo 43.º Direitos de trabalhadores
 
 Todos os trabalhadores têm direito:
 
-- A retribuição do trabalho, segundo a quantidade, natureza e qualidade, observando-se o princípio de que para trabalho igual salário igual, de forma a garantir uma existência condigna;
+- a) A retribuição do trabalho, segundo a quantidade, natureza e qualidade, observando-se o princípio de que para trabalho igual salário igual, de forma a garantir uma existência condigna;
 
-- A liberdade sindical como forma de promover a sua unidade, defender os seus legítimos direitos e proteger os seus interesses;
+- b) A liberdade sindical como forma de promover a sua unidade, defender os seus legítimos direitos e proteger os seus interesses;
 
-- A organização do trabalho em condições socialmente dignificantes, de forma a facultar a realização pessoal;
+- c) A organização do trabalho em condições socialmente dignificantes, de forma a facultar a realização pessoal;
 
-- A prestação do trabalho em condições de higiene e segurança;
+- d) A prestação do trabalho em condições de higiene e segurança;
 
-- A um limite máximo da jornada de trabalho, ao descanso semanal e a férias periódicas pagas;
+- e) A um limite máximo da jornada de trabalho, ao descanso semanal e a férias periódicas pagas;
 
-- A greve, nos termos a ser regulados por lei, tendo em conta os interesses dos trabalhadores e da economia nacional.
+- f) A greve, nos termos a ser regulados por lei, tendo em conta os interesses dos trabalhadores e da economia nacional.
 
 ### Artigo 44.º Segurança Social
 
-- O Estado garante a todo o cidadão, através do sistema de segurança social, o direito a protecção na doença, invalidez, velhice, viuvez, orfandade e noutros casos previstos na lei.
+- 1. O Estado garante a todo o cidadão, através do sistema de segurança social, o direito a protecção na doença, invalidez, velhice, viuvez, orfandade e noutros casos previstos na lei.
 
-- A organização do sistema de segurança social do Estado não prejudica a existência de instituições particulares, com vista à prossecução dos objectivos de Segurança Social.
+- 2. A organização do sistema de segurança social do Estado não prejudica a existência de instituições particulares, com vista à prossecução dos objectivos de Segurança Social.
 
 ### Artigo 45.º Cooperativas
 
-- É garantido o direito de livre constituição de cooperativas.
+- 1. É garantido o direito de livre constituição de cooperativas.
 
 www.tribunalconstitucional.st
 
@@ -446,37 +446,37 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-- O Estado estimula e apoia a criação e a actividade de cooperativas.
+- 2. O Estado estimula e apoia a criação e a actividade de cooperativas.
 
 ### Artigo 46.º Propriedade intelectual
 
-- O Estado protege os direitos à propriedade intelectual, incluindo os direitos do autor.
+O Estado protege os direitos à propriedade intelectual, incluindo os direitos do autor.
 
 ### Artigo 47.º Propriedade privada
 
-- A todos é garantido o  direito à propriedade privada e à sua transmissão em vida ou por morte, nos termos da lei.
+- 1. A todos é garantido o direito à propriedade privada e à sua transmissão em vida ou por morte, nos termos da lei.
 
-- A requisição e a expropriação por utilidade pública só podem ser efectuadas com base na lei.
+- 2. A requisição e a expropriação por utilidade pública só podem ser efectuadas com base na lei.
 
 ### Artigo 48.º Empresas privadas
 
-- O Estado fiscaliza o respeito da lei pelas empresas privadas e protege as pequenas e médias empresas económica e socialmente viáveis.
+- 1. O Estado fiscaliza o respeito da lei pelas empresas privadas e protege as pequenas e médias empresas económica e socialmente viáveis.
 
-- O Estado pode autorizar o investimento estrangeiro, contando que seja útil ao desenvolvimento económico e social do País.
+- 2. O Estado pode autorizar o investimento estrangeiro, contando que seja útil ao desenvolvimento económico e social do País.
 
 ### Artigo 49.º Habitação e ambiente
 
-- Todos têm direito à habitação e a um ambiente de vida humana e o dever de o defender.
+- 1. Todos têm direito à habitação e a um ambiente de vida humana e o dever de o defender.
 
-- Incumbe ao Estado programar e executar uma política de habitação inserida em planos de ordenamento do território.
+- 2. Incumbe ao Estado programar e executar uma política de habitação inserida em planos de ordenamento do território.
 
 ### Artigo 50.º Direito à protecção da saúde
 
-- Todos têm direito à protecção da saúde e o dever de a defender.
+- 1. Todos têm direito à protecção da saúde e o dever de a defender.
 
-- Incumbe ao Estado promover a Saúde Pública, que tem por objectivo o bem-estar físico e mental das populações e a sua equilibrada inserção no meio sócio-ecológico em que vivem, de acordo com o Sistema Nacional de Saúde.
+- 2. Incumbe ao Estado promover a Saúde Pública, que tem por objectivo o bem-estar físico e mental das populações e a sua equilibrada inserção no meio sócio-ecológico em que vivem, de acordo com o Sistema Nacional de Saúde.
 
-- É permitido o exercício da medicina privada, nas condições fixadas por lei.
+- 3. É permitido o exercício da medicina privada, nas condições fixadas por lei.
 
 www.tribunalconstitucional.st
 
@@ -490,15 +490,15 @@ Tribunal Constitucional
 
 ### Artigo 51.º Família
 
-- A família, como elemento fundamental da sociedade, tem direito à protecção da sociedade e do Estado.
+- 1. A família, como elemento fundamental da sociedade, tem direito à protecção da sociedade e do Estado.
 
-- Incumbe, especialmente, ao Estado:
+- 2. Incumbe, especialmente, ao Estado:
 
-- Promover a independência social e económica dos agregados familiares;
+- a) Promover a independência social e económica dos agregados familiares;
 
-- Promover a criação de uma rede nacional de assistência materno - infantil;
+- b) Promover a criação de uma rede nacional de assistência materno - infantil;
 
-- Cooperar com os pais na educação dos filhos.
+- c) Cooperar com os pais na educação dos filhos.
 
 ### Artigo 52.º Infância
 
@@ -514,19 +514,19 @@ As pessoas idosas têm direito a condições de convívio familiar e segurança 
 
 ### Artigo 55.º Educação
 
-- A educação, como direito reconhecido a todos os cidadãos, visa a formação integral do homem e a sua participação activa na comunidade.
+- 1. A educação, como direito reconhecido a todos os cidadãos, visa a formação integral do homem e a sua participação activa na comunidade.
 
-- Compete ao Estado promover a eliminação do analfabetismo e a educação permanente, de acordo com o Sistema Nacional de Ensino.
+- 2. Compete ao Estado promover a eliminação do analfabetismo e a educação permanente, de acordo com o Sistema Nacional de Ensino.
 
-- O Estado assegura o ensino básico obrigatório e gratuito.
+- 3. O Estado assegura o ensino básico obrigatório e gratuito.
 
-- O Estado promove gradualmente a igual possibilidade de acesso aos demais graus de ensino.
+- 4. O Estado promove gradualmente a igual possibilidade de acesso aos demais graus de ensino.
 
-- É permitido o ensino através de Instituições particulares, nos termos da lei.
+- 5. É permitido o ensino através de Instituições particulares, nos termos da lei.
 
 ### Artigo 56.º Cultura e desporto
 
-- Serão criadas condições para que todos os cidadãos tenham acesso à cultura e sejam incentivados a participar activamente na sua criação e difusão.
+- 1. Serão criadas condições para que todos os cidadãos tenham acesso à cultura e sejam incentivados a participar activamente na sua criação e difusão.
 
 www.tribunalconstitucional.st
 
@@ -540,7 +540,7 @@ Tribunal Constitucional
 
 2. O Estado preserva, defende e valoriza o património cultural do Povo São-Tomense.
 
-- Incumbe ao Estado encorajar e promover a prática e difusão dos desportos e da cultura física.
+- 3. Incumbe ao Estado encorajar e promover a prática e difusão dos desportos e da cultura física.
 
 ## Título IV Direitos e Deveres Cívico-Políticos
 
@@ -578,27 +578,25 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-São órgãos de soberania:
-
 ### Artigo 63.º Organizações políticas
 
-- Todo o cidadão pode constituir ou participar em organizações políticas reconhecidas por lei que enquadram a participação livre e plural dos cidadãos na vida política.
+- 1. Todo o cidadão pode constituir ou participar em organizações políticas reconhecidas por lei que enquadram a participação livre e plural dos cidadãos na vida política.
 
-- Lei especial regulará a formação dos Partidos Políticos.
+- 2. Lei especial regulará a formação dos Partidos Políticos.
 
 ### Artigo 64.º Deveres com a defesa nacional
 
-- É honra e dever supremo do cidadão participar na defesa da soberania, independência e integridade territorial do Estado.
+- 1. É honra e dever supremo do cidadão participar na defesa da soberania, independência e integridade territorial do Estado.
 
-- Todo o cidadão tem o dever de prestar serviço militar, nos termos da lei.
+- 2. Todo o cidadão tem o dever de prestar serviço militar, nos termos da lei.
 
-- A traição à Pátria é crime punível com as sanções mais graves.
+- 3. A traição à Pátria é crime punível com as sanções mais graves.
 
 ### Artigo 65.º Impostos
 
-- Todos os cidadãos têm o dever de contribuir para as despesas públicas, nos termos da lei.
+- 1. Todos os cidadãos têm o dever de contribuir para as despesas públicas, nos termos da lei.
 
-- Os impostos visam a satisfação das necessidades financeiras do Estado e uma repartição justa dos rendimentos.
+- 2. Os impostos visam a satisfação das necessidades financeiras do Estado e uma repartição justa dos rendimentos.
 
 # PARTE III Organização do Poder Político
 
@@ -612,7 +610,9 @@ A participação e o envolvimento directo e activo dos cidadãos na vida políti
 
 A formação, a composição, a competência e o funcionamento dos órgãos do poder político são definidos na Constituição.
 
-### Artigo 68.º Órgãos de Soberania Tribunal Constitucional
+### Artigo 68.º Órgãos de Soberania
+
+São órgãos de soberania:
 
 www.tribunalconstitucional.st
 
@@ -622,39 +622,41 @@ www.tribunalconstitucional.st
 
 [[START OF PAGE 16]]
 
-- Presidente da República;
+Tribunal Constitucional
 
-- Assembleia Nacional;
+- a) Presidente da República;
 
-- Governo;
+- b) Assembleia Nacional;
 
-- Tribunais.
+- c) Governo;
+
+- d) Tribunais.
 
 ### Artigo 69º. Princípio da separação e interdependência dos poderes
 
-- Os órgãos de soberania devem observar os princípios da separação e interdependência estabelecidas na Constituição.
+- 1. Os órgãos de soberania devem observar os princípios da separação e interdependência estabelecidas na Constituição.
 
-- Nenhum órgão de soberania, de poder regional ou local pode delegar os seus poderes noutros órgãos, a não ser nos casos e nos termos expressamente previstos na Constituição e na lei.
+- 2. Nenhum órgão de soberania, de poder regional ou local pode delegar os seus poderes noutros órgãos, a não ser nos casos e nos termos expressamente previstos na Constituição e na lei.
 
 ### Artigo 70º. Actos Normativos
 
-- São actos legislativos as leis, os decretos-leis, os decretos, os decretos regionais e os decretos executivos regionais.
+- 1. São actos legislativos as leis, os decretos-leis, os decretos, os decretos regionais e os decretos executivos regionais.
 
-- As leis e os decretos-leis têm igual valor, sem prejuízo da subordinação às correspondentes leis dos decretos-leis publicados no uso da autorização legislativa e dos que desenvolvam as bases gerais dos regimes jurídicos.
+- 2. As leis e os decretos-leis têm igual valor, sem prejuízo da subordinação às correspondentes leis dos decretos-leis publicados no uso da autorização legislativa e dos que desenvolvam as bases gerais dos regimes jurídicos.
 
-- Os decretos regionais e os decretos executivos regionais versam sobre matérias de interesse específico para a Região Autónoma do Príncipe e não reservadas à Assembleia Nacional ou ao Governo, não podendo dispor contra os princípios fundamentais das leis gerais da República.
+- 3. Os decretos regionais e os decretos executivos regionais versam sobre matérias de interesse específico para a Região Autónoma do Príncipe e não reservadas à Assembleia Nacional ou ao Governo, não podendo dispor contra os princípios fundamentais das leis gerais da República.
 
-- Os decretos-leis e os decretos versam sobre matéria respeitante à organização e funcionamento do Governo.
+- 4. Os decretos-leis e os decretos versam sobre matéria respeitante à organização e funcionamento do Governo.
 
-- São leis gerais da República, as leis e os decretos-leis cuja razão de ser envolva a sua aplicação sem reservas a todo o território nacional.
+- 5. São leis gerais da República, as leis e os decretos-leis cuja razão de ser envolva a sua aplicação sem reservas a todo o território nacional.
 
-- Nenhuma lei pode criar outras categorias de actos legislativos ou conferir a actos de outra natureza o poder de, com eficácia externa, interpretar, integrar, modificar, suspender ou revogar qualquer dos seus preceitos.
+- 6. Nenhuma lei pode criar outras categorias de actos legislativos ou conferir a actos de outra natureza o poder de, com eficácia externa, interpretar, integrar, modificar, suspender ou revogar qualquer dos seus preceitos.
 
-- Os regulamentos devem indicar expressamente as leis que visam regulamentar ou que definem a competência subjectiva e objectiva para a sua emissão.
+- 7. Os regulamentos devem indicar expressamente as leis que visam regulamentar ou que definem a competência subjectiva e objectiva para a sua emissão.
 
 ### Artigo 71º Referendo
 
-- Os cidadãos eleitores recenseados no território nacional, à excepção do disposto no numero 3 do Artigo 17.º, podem ser chamados a pronunciar-se directamente, a título vinculativo, através de referendo, por decreto do Presidente da República, mediante proposta da Assembleia Nacional ou do Governo, em matérias das respectivas competências, nos casos e nos termos previstos na Constituição e na lei.
+- 1. Os cidadãos eleitores recenseados no território nacional, à excepção do disposto no numero 3 do Artigo 17.º, podem ser chamados a pronunciar-se directamente, a título vinculativo, através de referendo, por decreto do Presidente da República, mediante proposta da Assembleia Nacional ou do Governo, em matérias das respectivas competências, nos casos e nos termos previstos na Constituição e na lei.
 
 www.tribunalconstitucional.st
 
@@ -666,27 +668,25 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-- O referendo só pode ter por objecto questões de relevante interesse nacional que devam ser decididas pela Assembleia Nacional ou pelo Governo através da aprovação de convenção internacional ou de acto legislativo.
+- 2. O referendo só pode ter por objecto questões de relevante interesse nacional que devam ser decididas pela Assembleia Nacional ou pelo Governo através da aprovação de convenção internacional ou de acto legislativo.
 
-- São excluídas do âmbito do referendo, designadamente, as alterações à Constituição, as matérias previstas no Artigo 97.º da Constituição e as questões e os actos  de conteúdo orçamental, tributário ou financeiro.
+- 3. São excluídas do âmbito do referendo, designadamente, as alterações à Constituição, as matérias previstas no Artigo 97.º da Constituição e as questões e os actos de conteúdo orçamental, tributário ou financeiro.
 
-- Cada referendo recairá sobre uma só matéria, devendo as questões ser formuladas em termos de SIM ou NÃO, com objectividade, clareza e precisão, num número máximo de perguntas a fixar por lei, a qual determinará igualmente as demais condições da formulação e efectivação de referendos.
+- 4. Cada referendo recairá sobre uma só matéria, devendo as questões ser formuladas em termos de SIM ou NÃO, com objectividade, clareza e precisão, num número máximo de perguntas a fixar por lei, a qual determinará igualmente as demais condições da formulação e efectivação de referendos.
 
-- São excluídas a convocação e a efectivação de referendos entre a data da convocação e a da realização de eleições gerais para os órgãos de soberania, de membros da Assembleia Regional do Príncipe e dos órgãos do poder local.
+- 5. São excluídas a convocação e a efectivação de referendos entre a data da convocação e a da realização de eleições gerais para os órgãos de soberania, de membros da Assembleia Regional do Príncipe e dos órgãos do poder local.
 
-- O Presidente da República submete à fiscalização preventiva obrigatória da constitucionalidade e da legalidade as propostas de referendo que lhe tenham sido
+- 6. O Presidente da República submete à fiscalização preventiva obrigatória da constitucionalidade e da legalidade as propostas de referendo que lhe tenham sido remetidas pela Assembleia Nacional ou pelo Governo.
 
-- remetidas pela Assembleia Nacional ou pelo Governo.
+- 7. São aplicáveis com as necessárias adaptações, as normas relativas às eleições dos titulares dos órgãos efectivos da soberania.
 
-- São aplicáveis com as necessárias adaptações, as normas relativas às eleições dos titulares dos órgãos efectivos da soberania.
-
-- As propostas de referendo recusadas pelo Presidente da República ou objecto de resposta negativa do eleitorado não podem ser renovadas na mesma sessão legislativa, salvo nova eleição da Assembleia Nacional, ou até à demissão do Governo.
+- 8. As propostas de referendo recusadas pelo Presidente da República ou objecto de resposta negativa do eleitorado não podem ser renovadas na mesma sessão legislativa, salvo nova eleição da Assembleia Nacional, ou até à demissão do Governo.
 
 ### Artigo 72.º Incompatibilidade
 
-- As funções de Presidente da República são incompatíveis com qualquer outra função pública ou privada.
+- 1. As funções de Presidente da República são incompatíveis com qualquer outra função pública ou privada.
 
-- As funções de Deputados à Assembleia Nacional, membros do Governo e de titular de órgãos de poder local estão sujeitas às incompatibilidade fixadas na lei.
+- 2. As funções de Deputados à Assembleia Nacional, membros do Governo e de titular de órgãos de poder local estão sujeitas às incompatibilidade fixadas na lei.
 
 ### Artigo 73.º Juramento
 
@@ -706,9 +706,9 @@ Tribunal Constitucional
 
 ### Artigo 74.º Controlo e responsabilidade
 
-- Os titulares dos órgãos de poder político têm o dever de manter informados os cidadãos e as suas organizações acerca dos assuntos públicos, ficando sujeitos ao controlo democrático exercido através das formas de participação política estabelecida na Constituição e na lei.
+- 1. Os titulares dos órgãos de poder político têm o dever de manter informados os cidadãos e as suas organizações acerca dos assuntos públicos, ficando sujeitos ao controlo democrático exercido através das formas de participação política estabelecida na Constituição e na lei.
 
-- Os titulares de órgãos de poder político respondem política, civil e criminalmente pelas acções e omissões que pratiquem no exercício das suas funções.
+- 2. Os titulares de órgãos de poder político respondem política, civil e criminalmente pelas acções e omissões que pratiquem no exercício das suas funções.
 
 ### Artigo 75.º Deliberações dos órgãos colegiais
 
@@ -716,9 +716,9 @@ As deliberações dos órgãos colegiais do poder político são tomadas de harm
 
 ### Artigo 76.º Publicidade dos actos
 
-- A lei determina as formas de publicidade das leis e dos demais actos do poder político.
+- 1. A lei determina as formas de publicidade das leis e dos demais actos do poder político.
 
-- A falta de publicidade das leis implica a sua ineficácia jurídica.
+- 2. A falta de publicidade das leis implica a sua ineficácia jurídica.
 
 ## Título II Presidente da República
 
@@ -728,11 +728,11 @@ O Presidente da República é o Chefe do Estado e o Comandante Supremo das Forç
 
 ### Artigo 78.º Eleição e posse
 
-- O Presidente da República é eleito por sufrágio universal, directo e secreto.
+- 1. O Presidente da República é eleito por sufrágio universal, directo e secreto.
 
-- Só pode ser eleito Presidente da República o cidadão são-tomense de origem, filho de pai ou mãe são-tomense, maior de 35 anos, que não possua outra nacionalidade e que nos três anos imediatamente anteriores à data da candidatura tenha residência permanente no território nacional.
+- 2. Só pode ser eleito Presidente da República o cidadão são-tomense de origem, filho de pai ou mãe são-tomense, maior de 35 anos, que não possua outra nacionalidade e que nos três anos imediatamente anteriores à data da candidatura tenha residência permanente no território nacional.
 
-- O Presidente da República eleito toma posse perante a Assembleia Nacional, no último dia do mandato do Presidente da República cessante ou, no caso de eleição por vagatura, no oitavo dia subsequente ao dia da publicação dos resultados eleitorais.
+- 3. O Presidente da República eleito toma posse perante a Assembleia Nacional, no último dia do mandato do Presidente da República cessante ou, no caso de eleição por vagatura, no oitavo dia subsequente ao dia da publicação dos resultados eleitorais.
 
 www.tribunalconstitucional.st
 
@@ -746,49 +746,49 @@ Tribunal Constitucional
 
 ### Artigo 79.º Mandato
 
-- O Presidente da República é eleito por cinco anos.
+- 1. O Presidente da República é eleito por cinco anos.
 
-- Em caso de vagatura, a eleição do novo Presidente da República far-se-á nos noventa dias subsequentes e este iniciará novo mandato.
+- 2. Em caso de vagatura, a eleição do novo Presidente da República far-se-á nos noventa dias subsequentes e este iniciará novo mandato.
 
-- Não é admitida a reeleição para um terceiro mandato consecutivo, nem durante o quinquénio imediatamente subsequente ao termo do segundo mandato consecutivo.
+- 3. Não é admitida a reeleição para um terceiro mandato consecutivo, nem durante o quinquénio imediatamente subsequente ao termo do segundo mandato consecutivo.
 
-- Se o Presidente da República renunciar ao cargo, não poderá candidatar-se nas eleições imediatas nem nas que se realizem no quinquénio imediatamente subsequente à renúncia.
+- 4. Se o Presidente da República renunciar ao cargo, não poderá candidatar-se nas eleições imediatas nem nas que se realizem no quinquénio imediatamente subsequente à renúncia.
 
 ### Artigo 80.º Competência própria
 
 Compete ao Presidente da República:
 
-- Defender a Constituição da República;
+- a) Defender a Constituição da República;
 
-- Exercer as funções de Comandante Supremo das Forças Armadas;
+- b) Exercer as funções de Comandante Supremo das Forças Armadas;
 
-- Marcar, de harmonia com a lei eleitoral, o dia das eleições para Presidente da República, para a Assembleia Nacional e para as Assembleias do poder regional e local;
+- c) Marcar, de harmonia com a lei eleitoral, o dia das eleições para Presidente da República, para a Assembleia Nacional e para as Assembleias do poder regional e local;
 
-- Convocar referendo a nível nacional e marcar a data da sua realização;
+- d) Convocar referendo a nível nacional e marcar a data da sua realização;
 
-- Promulgar as leis, os decretos-leis e decretos;
+- e) Promulgar as leis, os decretos-leis e decretos;
 
-- Indultar e comutar penas, ouvido o Governo;
+- f) Indultar e comutar penas, ouvido o Governo;
 
-- Declarar o estado de sítio e de emergência, ouvido o Governo e depois de autorizado pela Assembleia Nacional;
+- g) Declarar o estado de sítio e de emergência, ouvido o Governo e depois de autorizado pela Assembleia Nacional;
 
-- Autorizar a participação das Forças Armadas são-tomenses em operações de paz em território estrangeiro ou a presença de Forças Armadas estrangeiras em território nacional, sob proposta do Governo, ouvido o Conselho de Estado e mediante o assentimento da Assembleia Nacional;
+- h) Autorizar a participação das Forças Armadas são-tomenses em operações de paz em território estrangeiro ou a presença de Forças Armadas estrangeiras em território nacional, sob proposta do Governo, ouvido o Conselho de Estado e mediante o assentimento da Assembleia Nacional;
 
-- Requerer ao Tribunal de Constitucional a fiscalização preventiva da constitucionalidade ou legalidade dos diplomas legais e dos tratados internacionais;
+- i) Requerer ao Tribunal de Constitucional a fiscalização preventiva da constitucionalidade ou legalidade dos diplomas legais e dos tratados internacionais;
 
-- Conceder as condecorações do Estado.
+- j) Conceder as condecorações do Estado.
 
 ### Artigo 81.º Competência quanto a outros órgãos
 
 Compete ao Presidente da República relativamente aos outros órgãos:
 
-- Presidir ao Conselho de Estado;
+- a) Presidir ao Conselho de Estado;
 
-- Presidir ao Conselho Superior de Defesa;
+- b) Presidir ao Conselho Superior de Defesa;
 
-- Presidir ao Conselho de Ministros, à solicitação do Primeiro-Ministro;
+- c) Presidir ao Conselho de Ministros, à solicitação do Primeiro-Ministro;
 
-- Convocar extraordinariamente a Assembleia Nacional sempre que razões imperiosas de interesse público o justifiquem;
+- d) Convocar extraordinariamente a Assembleia Nacional sempre que razões imperiosas de interesse público o justifiquem;
 
 www.tribunalconstitucional.st
 
@@ -800,41 +800,41 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-- Dissolver a Assembleia Nacional, observado o disposto no Artigo 103.º e ouvidos os partidos políticos que nela tenham assento;
+- e) Dissolver a Assembleia Nacional, observado o disposto no Artigo 103.º e ouvidos os partidos políticos que nela tenham assento;
 
-- Dirigir mensagem à Assembleia Nacional;
+- f) Dirigir mensagem à Assembleia Nacional;
 
-- Nomear o Primeiro-Ministro, ouvidos os partidos políticos com assento na Assembleia Nacional e tendo em conta os resultados eleitorais;
+- g) Nomear o Primeiro-Ministro, ouvidos os partidos políticos com assento na Assembleia Nacional e tendo em conta os resultados eleitorais;
 
-- Nomear e exonerar os membros do Governo, sob proposta do Primeiro-Ministro;
+- h) Nomear e exonerar os membros do Governo, sob proposta do Primeiro-Ministro;
 
-- Demitir o Governo, nos termos do Artigo 117.º;
+- i) Demitir o Governo, nos termos do Artigo 117.º;
 
-- Nomear três membros do Conselho de Estado;
+- j) Nomear três membros do Conselho de Estado;
 
-- Nomear e exonerar o Procurador-Geral da República, sob proposta do Governo.
+- k) Nomear e exonerar o Procurador-Geral da República, sob proposta do Governo.
 
 ### Artigo 82.º Competência nas relações internacionais
 
 Compete ao Presidente da República no domínio das relações internacionais:
 
-- Representar o Estado nas relações internacionais;
+- a) Representar o Estado nas relações internacionais;
 
-- Ratificar os tratados internacionais depois de devidamente aprovados;
+- b) Ratificar os tratados internacionais depois de devidamente aprovados;
 
-- Declarar guerra e fazer a paz, sob proposta do Governo, ouvido o Conselho de Estado e mediante a autorização da Assembleia Nacional;
+- c) Declarar guerra e fazer a paz, sob proposta do Governo, ouvido o Conselho de Estado e mediante a autorização da Assembleia Nacional;
 
-- Nomear e exonerar os embaixadores, sob proposta do Governo, e acreditar os representantes diplomáticos estrangeiros;
+- d) Nomear e exonerar os embaixadores, sob proposta do Governo, e acreditar os representantes diplomáticos estrangeiros;
 
-- Conduzir, em concertação com o Governo, todo o processo negocial para conclusão de acordos internacionais na área da defesa e segurança.
+- e) Conduzir, em concertação com o Governo, todo o processo negocial para conclusão de acordos internacionais na área da defesa e segurança.
 
 ### Artigo 83.º Promulgação e veto
 
-- Os diplomas aprovadas pela Assembleia Nacional e submetidos ao Presidente da República deverão ser por este promulgados no prazo de 15 dias a contar da data da sua recepção.
+- 1. Os diplomas aprovadas pela Assembleia Nacional e submetidos ao Presidente da República deverão ser por este promulgados no prazo de 15 dias a contar da data da sua recepção.
 
-- Caso não se verifique a promulgação, o diploma será reapreciado pela Assembleia Nacional e se obtiver o voto favorável da maioria qualificada dos Deputados deverá o Presidente da República promulgá-lo no prazo de oito dias.
+- 2. Caso não se verifique a promulgação, o diploma será reapreciado pela Assembleia Nacional e se obtiver o voto favorável da maioria qualificada dos Deputados deverá o Presidente da República promulgá-lo no prazo de oito dias.
 
-- Serão considerados juridicamente inexistentes os actos normativos do Governo referidos nas alíneas c) e d) do Artigo 111.º se no prazo de vinte dias após a sua recepção não obtiverem a promulgação ou assinatura do Presidente da República.
+- 3. Serão considerados juridicamente inexistentes os actos normativos do Governo referidos nas alíneas c) e d) do Artigo 111.º se no prazo de vinte dias após a sua recepção não obtiverem a promulgação ou assinatura do Presidente da República.
 
 ### Artigo 84.º Formas de decisão
 
@@ -852,35 +852,35 @@ Tribunal Constitucional
 
 ### Artigo 85.º Ausência  do território
 
-- O Presidente  da República não pode ausentar-se do território nacional sem assentimento da Assembleia Nacional ou da sua Comissão Permanente se aquela não estiver em funcionamento.
+- 1. O Presidente da República não pode ausentar-se do território nacional sem assentimento da Assembleia Nacional ou da sua Comissão Permanente se aquela não estiver em funcionamento.
 
-- O assentimento é dispensado nos casos de viagem sem carácter oficial, de duração não superior a cinco dias, devendo, porém, o Presidente dar prévio conhecimento dela à Assembleia Nacional.
+- 2. O assentimento é dispensado nos casos de viagem sem carácter oficial, de duração não superior a cinco dias, devendo, porém, o Presidente dar prévio conhecimento dela à Assembleia Nacional.
 
-- A inobservância do disposto no numero 1 envolve, de pleno direito, a perda do cargo, mediante o respectivo processo, nos termos  definidos por lei.
+- 3. A inobservância do disposto no numero 1 envolve, de pleno direito, a perda do cargo, mediante o respectivo processo, nos termos definidos por lei.
 
 ### Artigo 86.º Responsabilidade criminal
 
-- Por crimes praticados no exercício das suas funções, o Presidente da República responde perante o Supremo Tribunal de Justiça.
+- 1. Por crimes praticados no exercício das suas funções, o Presidente da República responde perante o Supremo Tribunal de Justiça.
 
-- A iniciativa do processo de crime cabe à Assembleia Nacional, mediante proposta de um quinto e deliberação aprovada por maioria de dois terços dos Deputados em efectividade de funções.
+- 2. A iniciativa do processo de crime cabe à Assembleia Nacional, mediante proposta de um quinto e deliberação aprovada por maioria de dois terços dos Deputados em efectividade de funções.
 
-- A condenação implica a destituição do cargo e a impossibilidade de reeleição.
+- 3. A condenação implica a destituição do cargo e a impossibilidade de reeleição.
 
-- Pelos crimes praticados fora do exercício das suas funções o Presidente da República responde depois de findo o mandato perante os tribunais comuns.
+- 4. Pelos crimes praticados fora do exercício das suas funções o Presidente da República responde depois de findo o mandato perante os tribunais comuns.
 
 ### Artigo 87.º Substituição interina
 
-- Durante o impedimento temporário do Presidente da República, bem como durante a vagatura do cargo até tomar posse o novo Presidente eleito, assumirá as funções o Presidente da Assembleia Nacional ou, no impedimento deste, o seu substituto.
+- 1. Durante o impedimento temporário do Presidente da República, bem como durante a vagatura do cargo até tomar posse o novo Presidente eleito, assumirá as funções o Presidente da Assembleia Nacional ou, no impedimento deste, o seu substituto.
 
-- Enquanto exercer interinamente as funções de Presidente da República, o mandato de Deputado do Presidente da Assembleia Nacional ou de seu substituto suspende-se automaticamente.
+- 2. Enquanto exercer interinamente as funções de Presidente da República, o mandato de Deputado do Presidente da Assembleia Nacional ou de seu substituto suspende-se automaticamente.
 
-- O Presidente interino não pode exercer as competências previstas na alínea f) do Artigo 80.º e e) do Artigo 81.º.
+- 3. O Presidente interino não pode exercer as competências previstas na alínea f) do Artigo 80.º e e) do Artigo 81.º.
 
 ## TÍTULO III Conselho de Estado
 
 ### Artigo 88.º Definição e Composição
 
-- O Conselho de Estado é o órgão político de consulta do Presidente da República.
+- 1. O Conselho de Estado é o órgão político de consulta do Presidente da República.
 
 www.tribunalconstitucional.st
 
@@ -892,51 +892,51 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-- O Conselho de Estado é presidido pelo Presidente da República e composto pelos seguintes membros:
+- 2. O Conselho de Estado é presidido pelo Presidente da República e composto pelos seguintes membros:
 
-- O Presidente da Assembleia Nacional;
+- a) O Presidente da Assembleia Nacional;
 
-- O Primeiro-Ministro;
+- b) O Primeiro-Ministro;
 
-- O Presidente do Tribunal Constitucional;
+- c) O Presidente do Tribunal Constitucional;
 
-- O Procurador Geral da República;
+- d) O Procurador Geral da República;
 
-- O Presidente do Governo Regional do Príncipe;
+- e) O Presidente do Governo Regional do Príncipe;
 
-- Os antigos Presidentes da República que não hajam sido destituídos do cargo;
+- f) Os antigos Presidentes da República que não hajam sido destituídos do cargo;
 
-- Três cidadãos de reconhecida idoneidade e mérito, designados pelo Presidente da República pelo período correspondente à duração do seu mandato;
+- g) Três cidadãos de reconhecida idoneidade e mérito, designados pelo Presidente da República pelo período correspondente à duração do seu mandato;
 
-- Três cidadãos eleitos pela Assembleia Nacional, de harmonia com o princípio da representação proporcional, pelo período correspondente à duração da legislatura.
+- h) Três cidadãos eleitos pela Assembleia Nacional, de harmonia com o princípio da representação proporcional, pelo período correspondente à duração da legislatura.
 
 ### Artigo 89.º Posse e mandato
 
-- Os membros do Conselho de Estado são empossados pelo Presidente da República.
+- 1. Os membros do Conselho de Estado são empossados pelo Presidente da República.
 
-- Os membros do Conselho de Estado previstos nas alíneas a) a e) do número 2 do artigo anterior mantêm-se em funções enquanto exercerem os respectivos cargos e os previstos nas alíneas g) e h) mantêm-se em funções até à posse dos que os substituírem no exercício dos respectivos cargos.
+- 2. Os membros do Conselho de Estado previstos nas alíneas a) a e) do número 2 do artigo anterior mantêm-se em funções enquanto exercerem os respectivos cargos e os previstos nas alíneas g) e h) mantêm-se em funções até à posse dos que os substituírem no exercício dos respectivos cargos.
 
 ### Artigo 90.º Funcionamento e competência
 
-- As reuniões do Conselho de Estado não são públicas.
+- 1. As reuniões do Conselho de Estado não são públicas.
 
-- Compete ao Conselho de Estado:
+- 2. Compete ao Conselho de Estado:
 
-- Elaborar o seu regimento;
+- a) Elaborar o seu regimento;
 
-- Pronunciar-se sobre a dissolução da Assembleia Nacional;
+- b) Pronunciar-se sobre a dissolução da Assembleia Nacional;
 
-- Pronunciar-se sobre a demissão do Governo, quando se torne necessário para assegurar o regular funcionamento das instituições democráticas;
+- c) Pronunciar-se sobre a demissão do Governo, quando se torne necessário para assegurar o regular funcionamento das instituições democráticas;
 
-- Pronunciar-se sobre a declaração de guerra e a feitura da paz;
+- d) Pronunciar-se sobre a declaração de guerra e a feitura da paz;
 
-- Pronunciar-se sobre os tratados que envolvam restrições da soberania, a participação do País em organizações internacionais de segurança colectiva ou militar;
+- e) Pronunciar-se sobre os tratados que envolvam restrições da soberania, a participação do País em organizações internacionais de segurança colectiva ou militar;
 
-- Pronunciar-se sobre a participação das Forças Armadas em operações em território estrangeiro ou a presença de Forças Armadas estrangeiras em território nacional;
+- f) Pronunciar-se sobre a participação das Forças Armadas em operações em território estrangeiro ou a presença de Forças Armadas estrangeiras em território nacional;
 
-- Pronunciar-se nos demais casos previstos na Constituição e, em geral, aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar.
+- g) Pronunciar-se nos demais casos previstos na Constituição e, em geral, aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar.
 
-- As deliberações do Conselho de Estado não têm natureza vinculativa.
+- 3. As deliberações do Conselho de Estado não têm natureza vinculativa.
 
 www.tribunalconstitucional.st
 
@@ -950,43 +950,43 @@ Tribunal Constitucional
 
 ### Artigo 91º. Forma e publicidade das deliberações
 
-- As deliberações do Conselho de Estado assumem a forma de pareceres.
+- 1. As deliberações do Conselho de Estado assumem a forma de pareceres.
 
-- Os pareceres do Conselho de Estado previstos nas alíneas b) a e) do número 2 do Artigo 90.º são emitidos na reunião que para o efeito for convocada pelo Presidente da República e tornados público aquando da prática do acto a que se referem.
+- 2. Os pareceres do Conselho de Estado previstos nas alíneas b) a e) do número 2 do Artigo 90.º são emitidos na reunião que para o efeito for convocada pelo Presidente da República e tornados público aquando da prática do acto a que se referem.
 
 ## Título IV Assembleia Nacional
 
 ### Artigo 92.º Funções
 
-A Assembleia Nacional é o mais alto órgão representativo  e legislativo do Estado.
+A Assembleia Nacional é o mais alto órgão representativo e legislativo do Estado.
 
 ### Artigo 93.º Composição e eleição
 
-- A Assembleia Nacional é composta por Deputados eleitos, nos termos da lei.
+- 1. A Assembleia Nacional é composta por Deputados eleitos, nos termos da lei.
 
-- Os Deputados representam todo o povo, e não apenas os círculos eleitorais por que são eleitos.
+- 2. Os Deputados representam todo o povo, e não apenas os círculos eleitorais por que são eleitos.
 
-- O número de membros de Assembleia Nacional é fixado pela lei.
+- 3. O número de membros de Assembleia Nacional é fixado pela lei.
 
 ### Artigo 94.º Poderes dos Deputados
 
-Os Deputados têm, designadamente, os  seguintes poderes:
+Os Deputados têm, designadamente, os seguintes poderes:
 
-- Discutir todas as questões de interesse nacional;
+- a) Discutir todas as questões de interesse nacional;
 
-- Apresentar projectos de lei, de resolução e de moção;
+- b) Apresentar projectos de lei, de resolução e de moção;
 
-- Propor a constituição de comissões de inquérito.
+- c) Propor a constituição de comissões de inquérito.
 
 ### Artigo 95.º Imunidades
 
-- Nenhum Deputado pode ser incomodado, perseguido, detido, preso, julgado ou condenado pelos votos e opiniões que emitir no exercício das suas funções.
+- 1. Nenhum Deputado pode ser incomodado, perseguido, detido, preso, julgado ou condenado pelos votos e opiniões que emitir no exercício das suas funções.
 
-- Salvo em caso de flagrante delito e por crime punível com prisão maior ou por consentimento da Assembleia Nacional ou da sua Comissão Permanente, os Deputados não podem ser perseguidos ou presos por crimes praticados fora do exercício das suas funções.
+- 2. Salvo em caso de flagrante delito e por crime punível com prisão maior ou por consentimento da Assembleia Nacional ou da sua Comissão Permanente, os Deputados não podem ser perseguidos ou presos por crimes praticados fora do exercício das suas funções.
 
 ### Artigo 96.º Direitos, regalias e deveres
 
-- Os direitos, regalias e deveres dos Deputados são regulados pela lei.
+- 1. Os direitos, regalias e deveres dos Deputados são regulados pela lei.
 
 www.tribunalconstitucional.st
 
@@ -1004,55 +1004,55 @@ Tribunal Constitucional
 
 Compete à Assembleia Nacional:
 
-- Proceder à revisão constitucional;
+- a) Proceder à revisão constitucional;
 
-- Fazer leis e votar moções e resoluções;
+- b) Fazer leis e votar moções e resoluções;
 
-- Conferir ao Governo autorizações legislativas;
+- c) Conferir ao Governo autorizações legislativas;
 
-- Ratificar os decretos-leis expedidas pelo Governo no uso de autorizações legislativas;
+- d) Ratificar os decretos-leis expedidas pelo Governo no uso de autorizações legislativas;
 
-- Nomear e exonerar nos termos da lei, os juizes do Supremo Tribunal de Justiça;
+- e) Nomear e exonerar nos termos da lei, os juizes do Supremo Tribunal de Justiça;
 
-- Conceder amnistias;
+- f) Conceder amnistias;
 
-- Aprovar o Orçamento Geral do Estado;
+- g) Aprovar o Orçamento Geral do Estado;
 
-- Aprovar os planos de desenvolvimento e a respectiva lei;
+- h) Aprovar os planos de desenvolvimento e a respectiva lei;
 
-- Tomar as contas do Estado relativas a cada ano económico;
+- i) Tomar as contas do Estado relativas a cada ano económico;
 
-- Aprovar os tratados que tenham por objecto matéria de lei prevista no Artigo 98.º, os tratados que envolvam a participação de São Tomé e Príncipe em organizações internacionais, os tratados de amizades, de paz e de defesa e ainda quaisquer outros que o Governo entenda submeter-lhe;
+- j) Aprovar os tratados que tenham por objecto matéria de lei prevista no Artigo 98.º, os tratados que envolvam a participação de São Tomé e Príncipe em organizações internacionais, os tratados de amizades, de paz e de defesa e ainda quaisquer outros que o Governo entenda submeter-lhe;
 
-- Apreciar e aprovar o Programa do Governo e controlar a sua execução;
+- k) Apreciar e aprovar o Programa do Governo e controlar a sua execução;
 
-- Propor ao Presidente  da República a exoneração do Primeiro- Ministro;
+- l) Propor ao Presidente da República a exoneração do Primeiro- Ministro;
 
-- Autorizar o Presidente da República a declarar o estado de sítio  ou de emergência;
+- m) Autorizar o Presidente da República a declarar o estado de sítio ou de emergência;
 
-- Dar assentimento ao Presidente da República para autorizar a participação das Forças Armadas em operações em território estrangeiro ou a presença de Forças Armadas estrangeiras em território nacional, sob proposta do Governo;
+- n) Dar assentimento ao Presidente da República para autorizar a participação das Forças Armadas em operações em território estrangeiro ou a presença de Forças Armadas estrangeiras em território nacional, sob proposta do Governo;
 
-- Autorizar o Presidente da República a declarar a guerra e a fazer a paz;
+- o) Autorizar o Presidente da República a declarar a guerra e a fazer a paz;
 
-- Vigiar o cumprimento da Constituição e das leis e apreciar os actos do Governo e da Administração;
+- p) Vigiar o cumprimento da Constituição e das leis e apreciar os actos do Governo e da Administração;
 
-- Apreciar, modificar ou anular os diplomas legislativos ou quaisquer medidas de carácter normativo adoptadas pelo órgão do poder político que contrariem a presente Constituição;
+- q) Apreciar, modificar ou anular os diplomas legislativos ou quaisquer medidas de carácter normativo adoptadas pelo órgão do poder político que contrariem a presente Constituição;
 
-- Exercer as demais atribuições que lhe sejam cometidas pela Constituição e pela lei;
+- r) Exercer as demais atribuições que lhe sejam cometidas pela Constituição e pela lei;
 
-- Votar moções de confiança e de censura ao Governo.
+- s) Votar moções de confiança e de censura ao Governo.
 
 ### Artigo 98.º Reserva de competência legislativa
 
 Compete exclusivamente à Assembleia Nacional legislar sobre as seguintes matérias:
 
-- Cidadania;
+- a) Cidadania;
 
-- Direitos pessoais e políticos dos cidadãos;
+- b) Direitos pessoais e políticos dos cidadãos;
 
-- Eleições e demais formas de participação política;
+- c) Eleições e demais formas de participação política;
 
-- Organização Judiciária e estatutos dos magistrados;
+- d) Organização Judiciária e estatutos dos magistrados;
 
 www.tribunalconstitucional.st
 
@@ -1064,43 +1064,43 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
-- Estado de sítio e estado de emergência;
+- e) Estado de sítio e estado de emergência;
 
-- Organização da defesa nacional;
+- f) Organização da defesa nacional;
 
-- Sectores de propriedade de meios de produção;
+- g) Sectores de propriedade de meios de produção;
 
-- Impostos e sistemas fiscais;
+- h) Impostos e sistemas fiscais;
 
-- Expropriação e requisição por utilidade pública;
+- i) Expropriação e requisição por utilidade pública;
 
-- Definição dos crimes, penas e medidas de segurança e processo criminal;
+- j) Definição dos crimes, penas e medidas de segurança e processo criminal;
 
-- Organização geral de Administração do Estado, salvo o disposto na alínea c) do Artigo 111.º;
+- k) Organização geral de Administração do Estado, salvo o disposto na alínea c) do Artigo 111.º;
 
-- Estatuto dos funcionários e responsabilidade civil da Administração;
+- l) Estatuto dos funcionários e responsabilidade civil da Administração;
 
-- Organização das autarquias locais;
+- m) Organização das autarquias locais;
 
-- Estado e capacidade das pessoas.
+- n) Estado e capacidade das pessoas.
 
 ### Artigo 99.º Processo legislativo e parlamentar
 
-- A iniciativa legislativa compete aos Deputados e ao Governo.
+- 1. A iniciativa legislativa compete aos Deputados e ao Governo.
 
-- As deliberações da Assembleia Nacional assumem a forma de leis, resoluções e moções.
+- 2. As deliberações da Assembleia Nacional assumem a forma de leis, resoluções e moções.
 
 ### Artigo 100.º Autorizações legislativas
 
-- A Assembleia Nacional pode autorizar o Governo a legislar, por decreto-lei, sobre as matérias previstas no Artigo 98.º.
+- 1. A Assembleia Nacional pode autorizar o Governo a legislar, por decreto-lei, sobre as matérias previstas no Artigo 98.º.
 
-- A autorização legislativa deve estabelecer o seu objecto, a sua extensão e a sua duração.
+- 2. A autorização legislativa deve estabelecer o seu objecto, a sua extensão e a sua duração.
 
-- O termo da legislatura e a mudança de Governo acarretam a caducidade das autorizações legislativas concedidas.
+- 3. O termo da legislatura e a mudança de Governo acarretam a caducidade das autorizações legislativas concedidas.
 
 ### Artigo 101.º Ratificação dos decretos-leis
 
-Os decretos-lei publicados pelo Governo até um mês antes de cada sessão legislativa, no uso da competência legislativa delegada são considerados ratificados se, nas primeiras cinco sessões plenárias da Assembleia Nacional posteriores à sua publicação, qualquer Deputado não requer que sejam submetidos à ratificação.
+Os decretos–lei publicados pelo Governo até um mês antes de cada sessão legislativa, no uso da competência legislativa delegada são considerados ratificados se, nas primeiras cinco sessões plenárias da Assembleia Nacional posteriores à sua publicação, qualquer Deputado não requer que sejam submetidos à ratificação.
 
 ### Artigo 102.º Legislatura
 
@@ -1200,6 +1200,8 @@ www.tribunalconstitucional.st
 
 Tribunal Constitucional
 
+### Artigo 111.º Competência
+
 Compete ao Governo:
 
 - Definir e executar as actividades políticas, económicas, culturais, científicas, sociais, de defesa, segurança e relações externas, inscritas no seu Programa;
@@ -1243,8 +1245,6 @@ Compete ao Governo:
 ### Artigo 113.º Responsabilidade do Governo
 
 O Governo é responsável perante o Presidente da República e a Assembleia Nacional.
-
-### Artigo 111.º Competência
 
 www.tribunalconstitucional.st
 
@@ -1460,7 +1460,7 @@ Tribunal Constitucional
 
 ### Artigo 134.º Organização e Funcionamento
 
-A lei estabelece as regras relativas à sede, organização e ao funcionamento do Tribunal Tribunal Constitucional
+A lei estabelece as regras relativas à sede, organização e ao funcionamento do Tribunal
 
 www.tribunalconstitucional.st
 
@@ -1469,6 +1469,8 @@ www.tribunalconstitucional.st
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+Tribunal Constitucional
 
 Constitucional.
 
@@ -1574,7 +1576,7 @@ Tribunal Constitucional
 
 - A apreciação preventiva da constitucionalidade deve ser requerida no prazo de oito dias a contar da data da recepção do diploma.
 
-- Podem requerer ao Tribunal Constitucional a apreciação preventiva da constitucionalidade de qualquer norma constante de diploma que tenha sido enviado ao Presidente da República para promulgação como lei orgânica, além deste, o PrimeiroMinistro ou um quinto dos Deputados à Assembleia Nacional em efectividade de funções.
+- Podem requerer ao Tribunal Constitucional a apreciação preventiva da constitucionalidade de qualquer norma constante de diploma que tenha sido enviado ao Presidente da República para promulgação como lei orgânica, além deste, o Primeiro-Ministro ou um quinto dos Deputados à Assembleia Nacional em efectividade de funções.
 
 - O Presidente da Assembleia Nacional, na data em que enviar ao Presidente da República diploma que deva ser promulgado como lei orgânica, dará disso conhecimento ao Primeiro-Ministro e aos Grupos Parlamentares da Assembleia Nacional.
 
@@ -1662,7 +1664,7 @@ Tribunal Constitucional
 
 - Que recusem a aplicação de norma constante de diploma regional com fundamento na sua ilegalidade por violação do Estatuto Político-Administrativo da Região Autónoma do Príncipe ou de lei geral da República;
 
-- Que recusem a aplicação de norma constante de diploma emanado de um órgão de soberania com fundamento na ilegalidade por violação do Estatuto PolíticoAdministrativo da Região Autónoma do Príncipe;
+- Que recusem a aplicação de norma constante de diploma emanado de um órgão de soberania com fundamento na ilegalidade por violação do Estatuto Político-Administrativo da Região Autónoma do Príncipe;
 
 - Que apliquem norma cuja ilegalidade haja sido suscitada durante o processo com qualquer dos fundamentos referidos nas alíneas a), b) e c).
 
@@ -1778,9 +1780,9 @@ Tribunal Constitucional
 
 - Exercer as competências previstas no Artigo 133.º.
 
-- Os acórdãos do Supremo Tribunal de Justiça, em matéria de natureza jurídicoconstitucional não são passíveis de recurso e são publicados no Diário da República, detendo força obrigatória geral, nos processos de fiscalização abstracta e concreta, quando se pronunciam no sentido da inconstitucionalidade.
+- Os acórdãos do Supremo Tribunal de Justiça, em matéria de natureza jurídico-constitucional não são passíveis de recurso e são publicados no Diário da República, detendo força obrigatória geral, nos processos de fiscalização abstracta e concreta, quando se pronunciam no sentido da inconstitucionalidade.
 
-### Artigo 157.º Supremo Tribunal de Justiça - Composição enquanto acumular as funções de Tribunal Constitucional
+### Artigo 157.º Supremo Tribunal de Justiça – Composição enquanto acumular as funções de Tribunal Constitucional
 
 - Enquanto exercer as funções de Tribunal Constitucional, o Supremo Tribunal de Justiça é composto por cinco juizes, designados para um mandato de quatro anos, nos termos dos números seguintes, a saber:
 
@@ -1814,11 +1816,11 @@ O Texto Primeiro da Lei Constitucional n.º 1/80, publicado no Diário da Repúb
 
 O Texto Segundo da Lei Constitucional n.º 2/82 publicado no Diário da República n.º 35, de 31 de Dezembro de 1982 - Segunda revisão Constitucional.
 
-Lei de Emenda Constitucional n.º 1/87, de 31 de Dezembro- publicada no 4,º Suplemento ao Diário da República n.º 13, de 31 de Dezembro de 1987.- Terceira revisão Constitucional.
+Lei de Emenda Constitucional n.º 1/87, de 31 de Dezembro- publicada no 4.º Suplemento ao Diário da República n.º 13, de 31 de Dezembro de 1987.- Terceira revisão Constitucional.
 
 Texto terceiro da Lei Constitucional n.º 7/90, publicado no Diário da República n.º 13 de 20 de Setembro de 1990 - Quarta revisão Constitucional.
 
-Texto quarto da Lei Constitucional n.º   /0  , publicado no Diário da República n.º   , de........ de 2002 - Quinta Revisão Constitucional.
+Texto quarto da Lei Constitucional n.º   /0  , publicado no Diário da República n.º   , de........ de 2002 – Quinta Revisão Constitucional.
 
 ### Artigo160.º Entrada em vigor
 
@@ -1828,7 +1830,7 @@ Texto quarto da Lei Constitucional n.º   /0  , publicado no Diário da Repúbli
 
 - Até à data da entrada em vigor dos artigos referidos no número anterior, respeitantes às competências do Presidente da República, os mesmos são substituídos por um único artigo 80.º com a seguinte redacção:
 
-#### 'Artigo 80.º Competência
+#### “Artigo 80.º Competência
 
 Compete ao Presidente da República:
 
@@ -1878,7 +1880,7 @@ Tribunal Constitucional
 
 - Conceder as condecorações do Estado;
 
-- Exercer as demais funções que lhe forem atribuídas por lei.'
+- Exercer as demais funções que lhe forem atribuídas por lei.”
 
 Assembleia Nacional, em São Tomé, aos 6 de Dezembro de 2002.-
 
