@@ -1,12 +1,31 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+EACH ENDEAVOURING ALL ACHIEVING
+
+# ICT in Education Policy for Antigua and Barbuda
+
+JUNE 2013
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
 ## Table of Content
+
+Pages
+Acknowledgements 1-2
+Forward by the Minister of Education 4
+Acronyms 5
+Introduction 6-7
+Policy Statement and Strategic components:
+1. Strategic Educational Priorities 8-9
+2. Infrastructure and Connectivity 9-12
+3. Teaching and Learning 12-14
+4. Licensing 14-15
+5. Management and Administration 15-16
+6. Human Resources 16-18
+7. Governance 18-20
+8. Monitoring and Evaluation 20-21
 
 1
 
@@ -154,8 +173,6 @@ MOI-Telecom Consultant
 
 [[START OF PAGE 4]]
 
-Pecheeta Spencer Jewelle Husrt Terry-Ann Marsh-Roberts Orna David Focal point Commonwealth of Learning Teacher Education Department Teacher Education Department Teacher Education Department
-
 ### The development process was co-ordinated by:
 
 Stacey Payne-Mascall- ICT Officer- Ministry of Education
@@ -164,11 +181,25 @@ Stacey Payne-Mascall- ICT Officer- Ministry of Education
 
 Neil Butcher - Consultant, Commonwealth of Learning
 
-Gratitude  is  also  extended  to  all  persons  who  and  agencies  which  participated  in  the consultation process.
+Gratitude is also extended to all persons who and agencies which participated in the consultation process.
 
-Education Officers Principals Local Telecommunication Companies Ministry of Telecommunications Ministry of Finance Parent Teacher Associations Antigua and Barbuda Union of Teachers Antigua and Barbuda International Institute of Technology Antigua State College Teacher Education Department
+Education Officers
+Principals
+Local Telecommunication Companies
+Ministry of Telecommunications
+Ministry of Finance
+Parent Teacher Associations
+Antigua and Barbuda Union of Teachers
+Antigua and Barbuda International Institute of Technology
+Antigua State College
+Teacher Education Department
 
 Thanks to ALL.
+
+Pecheeta Spencer Focal point Commonwealth of Learning
+Jewelle Husrt Teacher Education Department
+Terry-Ann Marsh-Roberts Teacher Education Department
+Orna David Teacher Education Department
 
 3
 
@@ -196,6 +227,23 @@ ICTs are the future: it is imperative that we embrace ICTs to be enriched and en
 
 ## Acronyms
 
+ABUT Antigua and Barbuda Union of Teachers
+CACs Community Computer Access Centres
+CC Creative Commons
+CFT Computer Framework for Teachers
+CCTI Commonwealth Certificate for Teacher ICT Integration
+COL Commonwealth of Learning
+CPD Continuous Professional Development
+EMIS Education Management Information System
+ICT Information Communication Technology
+LMS Learning Management System
+NPTA National Parent Teachers Association
+OECS Organization of Eastern Caribbean States
+OER Open Education Resource
+OESS OECS Education Sector Strategy
+STEM Science Technology Engineering and Mathematics
+UNESCO United Nations Educational, Scientific and Cultural Organization
+
 5
 
 [[END OF PAGE 6]]
@@ -210,13 +258,15 @@ Our mission is to ensure that all students in Antigua and Barbuda obtain the hig
 
 Within the framework of this vision and mission, the government of Antigua and Barbuda recognizes  that  knowledge-based  activities  have  become  increasingly  important.  It  is  this recognition that has prompted Government  to develop the use of Information and Communication Technology (ICT) in its daily activities. There has been a thrust in training citizens to use available technology and to become more effective and efficient. Through the introduction of a new ICT in Education Policy for Antigua and Barbuda, it is the Ministry's hope to respond to the change which technology brings to the nature of work and the work place,  the  so-called  'Knowledge  Revolution'.  This  is  paramount  for  the  Ministry,  charged with the responsibility to educate the labour force to harness the power of ICT for continued development.  We  are  committed  to  improving  the  teaching,  learning  and  administrative processes in the education system with effective use of ICT and to provide all students with the basic ICT skills that are necessary for the information age.
 
-This commitment is consistent with broader regional education policy within the Organization  of  Eastern  Caribbean  States  (OECS).  The OECS  Education  Sector  Strategy (2012 - 2021) (or  OESS)  articulates  a  vision  for  a  whole  school  curriculum  that ' engages school  leadership,  teacher  skills,  knowledge  and  understanding,  curriculum  leadership, professional learning, data collection and use, sharing and transferring knowledge and good practice, and the use and application of resources and ICT in a cyclical and iterative process' (OECS,  2012).  It  is  also  consistent  with  the  Government's  current  emphasis  on  Science Technology,  Engineering,  and  Mathematics  (STEM),  with  are  a  key  pillar  of  national development plans in Antigua and Barbuda.
+This commitment is consistent with broader regional education policy within the Organization of Eastern Caribbean States (OECS). The OECS Education Sector Strategy (2012 - 2021) (or OESS) articulates a vision for a whole school curriculum that 'engages school leadership, teacher skills, knowledge and understanding, curriculum leadership, professional learning, data collection and use, sharing and transferring knowledge and good practice, and the use and application of resources and ICT in a cyclical and iterative process' (OECS, 2012). It is also consistent with the Government's current emphasis on Science
 
 6
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+Technology, Engineering, and Mathematics (STEM), with are a key pillar of national development plans in Antigua and Barbuda.
 
 This policy replaces the previous ICT in Education Policy from July, 2003.
 
@@ -270,7 +320,7 @@ The Government of Antigua and Barbuda is committed to integrating ICT into its e
 
 ## 2. Infrastructure and Connectivity
 
-Through  the  Ministry  of  Telecommunications,  Science  and  Technology,  extensive  ICT infrastructure  has  been  supplied  to  the  schooling  system,  including  Community  Computer Access Centres (CACs), Mobile IT Classrooms, the one-laptop-per-teacher initiative, tablets for senior secondary students, and widespread, free Internet access. Thus, the primary policy focus of the Ministry of Education, Sports, Youth, and Gender Affairs is to ensure optimal use, care, maintenance, timely replacement, and environmentally responsible disposal of this ICT infrastructure. From this perspective, the following policy commitments are noted:
+Through the Ministry of Telecommunications, Science and Technology, extensive ICT infrastructure has been supplied to the schooling system, including Community Computer Access Centres (CACs), Mobile IT Classrooms, the one-laptop-per-teacher initiative, tablets for senior secondary students, and widespread, free Internet access. Thus, the primary policy focus of the Ministry of Education, Sports, Youth, and Gender Affairs is to ensure optimal
 
 9
 
@@ -278,7 +328,9 @@ Through  the  Ministry  of  Telecommunications,  Science  and  Technology,  exte
 
 [[START OF PAGE 11]]
 
-- 2.1. Connectivity and Internet access will be expanded and improved across the education system on an ongoing basis, with a particular  focus  on  widening  access  to  include classrooms (through wireless hotspots) and the Ministry of Education headquarters.
+use, care, maintenance, timely replacement, and environmentally responsible disposal of this ICT infrastructure. From this perspective, the following policy commitments are noted:
+
+- 2.1. Connectivity and Internet access will be expanded and improved across the education system on an ongoing basis, with a particular focus on widening access to include classrooms (through wireless hotspots) and the Ministry of Education headquarters.
 
 - 2.2. The  Ministry  of  Telecommunications,  Science  and  Technology  will  provide  the necessary  hosting  infrastructure  for  key  systems  through  its  data  centre.  These systems will include a central Education Management Information System (EMIS), a Learning  Management System (LMS) to be used in supporting school learning, an open  educational  resource  (OER)  repository,  and  appropriate  communication  and social  networking  tools  to  facilitate  interaction  between  key  education  stakeholders within Antigua and Barbuda
 
@@ -348,7 +400,7 @@ Through  the  Ministry  of  Telecommunications,  Science  and  Technology,  exte
 
 ## 3. Teaching and Learning
 
-The Ministry of Education, Sports, Youth, and Gender Affairs has, embedded in its vision and mission statements, a strong commitment to upgrading its curriculum to help students to develop skills that will enable them to succeed in the new knowledge economy. Experience worldwide indicates  that  ICT  can  play  a  key  role  in  transformation  of  education.  ICT  can enhance  educational  reform  by  enabling  educators  and  students  to  move  away  from traditional  approaches  to  teaching  and  learning.  In  this  transformed  teaching  and  learning environment, there  will  be  a  shift  from  teacher-centred,  task-orientated  and  memory-based education (with technology at the periphery), to an inclusive and integrated practice where learners work collaboratively, develop shared practices, engage in meaningful contexts, and develop  creative  thinking  and  problem-solving  skills  (there  are  several  initiatives  that promote these kinds of shift already underway and demonstrating good results). With this in mind, the Government of Antigua and Barbuda notes the following policy commitments:
+The Ministry of Education, Sports, Youth, and Gender Affairs has, embedded in its vision and mission statements, a strong commitment to upgrading its curriculum to help students to develop skills that will enable them to succeed in the new knowledge economy. Experience worldwide indicates that ICT can play a key role in transformation of education. ICT can enhance educational reform by enabling educators and students to move away from traditional approaches to teaching and learning. In this transformed teaching and learning environment, there will be a shift from teacher-centred, task-orientated and memory-based education (with technology at the periphery), to an inclusive and integrated practice where learners work collaboratively, develop shared practices, engage in meaningful contexts, and
 
 12
 
@@ -356,7 +408,9 @@ The Ministry of Education, Sports, Youth, and Gender Affairs has, embedded in it
 
 [[START OF PAGE 14]]
 
-- 3.1. There will  be  ongoing  review  and  revision  of  the  national  curriculum  at  all  levels, with strong emphasis placed on adjusting assessment strategies to assess wider range of competences rather than just content recall. In this process, specific account will be taken of the ways in which ICT can, when used effectively, be harnessed to enable different kinds of teaching, support, and assessment. The objective will be to engage students in higher order thinking such as analysis and synthesis that is beyond simple recall  or  memorization,  which  encompasses  thinking  processes  such  as  critical thinking and problem  solving, and that result in active construction of  new knowledge.
+develop creative thinking and problem-solving skills (there are several initiatives that promote these kinds of shift already underway and demonstrating good results). With this in mind, the Government of Antigua and Barbuda notes the following policy commitments:
+
+- 3.1. There will be ongoing review and revision of the national curriculum at all levels, with strong emphasis placed on adjusting assessment strategies to assess wider range of competences rather than just content recall. In this process, specific account will be taken of the ways in which ICT can, when used effectively, be harnessed to enable different kinds of teaching, support, and assessment. The objective will be to engage students in higher order thinking such as analysis and synthesis that is beyond simple recall or memorization, which encompasses thinking processes such as critical thinking and problem solving, and that result in active construction of new knowledge.
 
 - 3.2. ICT will be harnessed, particularly at the secondary level, to enable more effective use of face-to-face interaction at  schools,  so  that  teachers  are  both  empowered  and provided  the  necessary  time  to  shift  their  focus  away  from  teaching  content  to supporting  and  mentoring  students  who  work  in  increasingly  diverse  and  flexible ways (including self-paced study using ICT infrastructure supplied by Government) during the school day.
 
@@ -464,13 +518,15 @@ development  so  as  to  advance  their  skills  in  pedagogy,  collaboration,  
 
 ## 7. Governance
 
-In operationalizing this policy, it is essential to facilitate collaboration between government Ministries,  most  notably  between  the  Ministry  of  Education,  Sports,  Youth,  and  Gender Affairs and the Ministry of Telecommunications, Science and Technology, but also involving other government  ministries as appropriate. Ongoing  discussion  is essential  between Ministries  during  planning  stages  of  ICT  in  education  to  ensure  more  effective  and sustainable implementation.
+In operationalizing this policy, it is essential to facilitate collaboration between government Ministries, most notably between the Ministry of Education, Sports, Youth, and Gender Affairs and the Ministry of Telecommunications, Science and Technology, but also involving other government ministries as appropriate. Ongoing discussion is essential between
 
 18
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+Ministries during planning stages of ICT in education to ensure more effective and sustainable implementation.
 
 7.1. It is noted that:
 
