@@ -6,7 +6,7 @@ Bundesrecht konsolidiert
 
 ## Langtitel
 
-Bundesgesetz vom 19. März 1959, womit für das Bundesland Kärnten Vorschriften zur Durchführung der Minderheiten-Schulbestimmungen des Österreichischen Staatsvertrages getroffen werden (MinderheitenSchulgesetz für Kärnten).
+Bundesgesetz vom 19. März 1959, womit für das Bundesland Kärnten Vorschriften zur Durchführung der Minderheiten-Schulbestimmungen des Österreichischen Staatsvertrages getroffen werden (Minderheiten-Schulgesetz für Kärnten).
 
 StF: BGBl. Nr. 101/1959 idF BGBl. Nr. 246/1959 (DFB) und BGBl. I Nr. 35/2009 (VFB) (NR: GP VIII RV 288 AB 655 S. 85. BR: S. 145.)
 
@@ -22,7 +22,7 @@ Verfassungsbestimmung
 
 ### Artikel I (Verfassungsbestimmungen).
 
-#### Kompetenzbestimmungen.
+#### a) Kompetenzbestimmungen.
 
 § 1. In  den  Angelegenheiten  des  Minderheiten-Schulwesens  im  Lande  Kärnten  (Artikel 7  § 2  des Staatsvertrages betreffend die Wiederherstellung eines unabhängigen und demokratischen Österreich vom 15. Mai 1955, BGBl. Nr. 152/1955) werden die Zuständigkeiten des Bundes und des Landes Kärnten zur Gesetzgebung und Vollziehung unbeschadet der Bestimmungen des § 6 im folgenden festgesetzt.
 
@@ -32,15 +32,15 @@ Verfassungsbestimmung
 
 § 2. Bundessache ist die Gesetzgebung und die Vollziehung in folgenden Angelegenheiten:
 
-- Die Angelegenheiten der für die slowenische Minderheit im besonderen in Betracht kommenden Volks- und Hauptschulen, mit Ausnahme der Angelegenheiten ihrer örtlichen Festlegung;
+a) Die Angelegenheiten der für die slowenische Minderheit im besonderen in Betracht kommenden Volks- und Hauptschulen, mit Ausnahme der Angelegenheiten ihrer örtlichen Festlegung;
 
-- die Angelegenheiten einer für die slowenische Minderheit im besonderen in Betracht kommenden Mittelschule;
+b) die Angelegenheiten einer für die slowenische Minderheit im besonderen in Betracht kommenden Mittelschule;
 
-- die Angelegenheiten einer ergänzenden Lehrerbildung in slowenischer Sprache;
+c) die Angelegenheiten einer ergänzenden Lehrerbildung in slowenischer Sprache;
 
-- die Angelegenheiten  eines unverbindlichen Unterrichtes in der  slowenischen  Sprache  an Pflichtschulen und mittleren Lehranstalten;
+d) die Angelegenheiten eines unverbindlichen Unterrichtes in der slowenischen Sprache an Pflichtschulen und mittleren Lehranstalten;
 
-- die Angelegenheiten der Schulaufsicht über die in lit. a und b angeführten Schulen und über den in lit. c und d angeführten Unterricht.
+e) die Angelegenheiten der Schulaufsicht über die in lit. a und b angeführten Schulen und über den in lit. c und d angeführten Unterricht.
 
 www.ris.bka.gv.at
 
@@ -56,7 +56,7 @@ Bundesrecht konsolidiert
 
 Verfassungsbestimmung
 
-§ 3. Bundessache ist die Gesetzgebung über die Grundsätze, Landessache die Ausführungsgesetzgebung und die Vollziehung in den Angelegenheiten der örtlichen Festlegung der für die slowenische Minderheit im besonderen in Betracht kommenden öffentlichen Volksund Hauptschulen.
+§ 3. Bundessache ist die Gesetzgebung über die Grundsätze, Landessache die Ausführungsgesetzgebung und die Vollziehung in den Angelegenheiten der örtlichen Festlegung der für die slowenische Minderheit im besonderen in Betracht kommenden öffentlichen Volks- und Hauptschulen.
 
 ##### Beachte für folgende Bestimmung
 
@@ -64,7 +64,7 @@ Verfassungsbestimmung
 
 § 4. (1) Hinsichtlich der im § 3 angeführten Angelegenheiten finden die Bestimmungen des Artikels 16  Abs. 1  des  Bundes-Verfassungsgesetzes  in  der  Fassung  von  1929  dem  Sinne  nach  mit  der  näheren Maßgabe Anwendung, daß das Land Kärnten innerhalb von drei Jahren nach dem Inkrafttreten dieses Bundesgesetzes  die  notwendige  ausführungsgesetzliche  Regelung  zu  treffen  hat.  Wird  diese  Frist  vom Lande Kärnten  nicht  eingehalten,  so  geht  die  Zuständigkeit  zur  ausführungsgesetzlichen  Regelung  auf den Bund über. Sobald das Land Kärnten das Ausführungsgesetz erlassen hat, tritt das Ausführungsgesetz des Bundes außer Kraft.
 
-(2)  Die  dem  Bund  gemäß  Artikel 102a  Abs. 1  erster  Satz  des  Bundes-Verfassungsgesetzes  in  der Fassung  von  1929  zustehende  oberste  Leitung  und  Aufsicht  über  das  gesamte  Erziehungs-  und Unterrichtswesen wird hinsichtlich der im § 3 angeführten Angelegenheiten durch sinngemäße Anwendung  der  Bestimmungen  des  Artikels  15  Abs. 8  und  des  Artikels  16  Abs. 2  des  BundesVerfassungsgesetzes in der Fassung von 1929 ausgeübt.
+(2) Die dem Bund gemäß Artikel 102a Abs. 1 erster Satz des Bundes-Verfassungsgesetzes in der Fassung von 1929 zustehende oberste Leitung und Aufsicht über das gesamte Erziehungs- und Unterrichtswesen wird hinsichtlich der im § 3 angeführten Angelegenheiten durch sinngemäße Anwendung der Bestimmungen des Artikels 15 Abs. 8 und des Artikels 16 Abs. 2 des Bundes-Verfassungsgesetzes in der Fassung von 1929 ausgeübt.
 
 § 6. (1) (Anm.: Durch Art. 2 § 2 Abs. 3 Z 1, BGBl. I Nr. 2/2008, als nicht mehr geltend festgestellt)
 
@@ -118,15 +118,15 @@ Die Ausführungsbestimmungen zu Abs. 1 Z 1 sind mit 1. September 1999 in Kraft z
 
 § 11. (1)  Neben  den  gemäß  § 10  festgelegten  Schulen  sind  jene  Schulen  als  für  die  slowenische Minderheit  in  Betracht  kommende  Volks-  und  Hauptschulen  festzulegen,  bei  denen  ein  nachhaltiger Bedarf  an  der  Befriedigung  des  im  Artikel 7  Z 2  des  Staatsvertrages  BGBl.  Nr. 152/1955  festgelegten Rechtsanspruches besteht. Hiebei genügt für Volksschulen ein nachhaltiger Bedarf an einer Klasse (auch Schulstufen übergreifend), für Hauptschulen gemäß § 12 lit. a an einer Klasse auf jeder Schulstufe und für  Abteilungen  an  Hauptschulen  gemäß  § 12  lit. c  an  einer  Abteilung  auf  jeder  Schulstufe.  Bei  der Feststellung des Bedarfes ist davon auszugehen, daß ab der folgenden Anzahl von Anmeldungen geführt werden darf:
 
-(Anm.: aufgehoben durch BGBl. I Nr. 137/1998)
+1. (Anm.: aufgehoben durch BGBl. I Nr. 137/1998)
 
-- eine Vorschulklasse ab sieben Anmeldungen,
+2. eine Vorschulklasse ab sieben Anmeldungen,
 
-- eine Klasse auf der 1. bis 4. Schulstufe ab sieben Anmeldungen,
+3. eine Klasse auf der 1. bis 4. Schulstufe ab sieben Anmeldungen,
 
-- eine Klasse ab der 5. Schulstufe ab neun Anmeldungen,
+4. eine Klasse ab der 5. Schulstufe ab neun Anmeldungen,
 
-- eine Abteilung an Hauptschulen ab fünf Anmeldungen.
+5. eine Abteilung an Hauptschulen ab fünf Anmeldungen.
 
 (2) Für Schulen gemäß Abs. 1 sind Berechtigungssprengel so festzulegen, daß der gesamte über das durch § 10 Abs. 1 umschriebene Gebiet hinausgehende Bereich Kärntens durch diese Berechtigungssprengel  erfaßt  wird,  wobei  Berechtigungssprengel  auch  auf  Schulen  gemäß  § 10  Abs. 1 bezogen werden können, an denen tatsächlich zweisprachiger Unterricht erteilt wird.
 
@@ -138,7 +138,7 @@ Zum Inkrafttreten vgl. § 34
 
 #### Volks- und Hauptschulen.
 
-§ 12. Neben  den  allgemeinen  Formen  der  österreichischen  Volks-  und  Hauptschule  mit  deutscher Unterrichtssprache  können  im  Lande  Kärnten  insbesondere  für  die  slowenische  Minderheit  folgende Formen von Volks- und Hauptschulen oder Klassen und Abteilungen an Volks- und Hauptschulen geführt werden:
+§ 12. Neben den allgemeinen Formen der österreichischen Volks- und Hauptschule mit deutscher Unterrichtssprache können im Lande Kärnten insbesondere für die slowenische Minderheit folgende
 
 www.ris.bka.gv.at
 
@@ -150,11 +150,13 @@ Seite 3 von 9
 
 Bundesrecht konsolidiert
 
-- Volks- und Hauptschulen mit slowenischer Unterrichtssprache;
+Formen von Volks- und Hauptschulen oder Klassen und Abteilungen an Volks- und Hauptschulen geführt werden:
 
-- Volksschulen mit deutscher und slowenischer Unterrichtssprache (zweisprachige Volksschulen), worunter im Sinne dieses Bundesgesetzes auch in Volksschulen mit deutscher Unterrichtssprache eingerichtete Volksschulklassen mit deutscher und slowenischer Unterrichtssprache (zweisprachige  Volksschulklassen)  und  in  Volksschulklassen  mit  deutscher  Unterrichtssprache eingerichtete  Abteilungen  mit  deutscher  und  slowenischer  Unterrichtssprache  (zweisprachige Volksschulabteilungen) zu verstehen sind;
+a) Volks- und Hauptschulen mit slowenischer Unterrichtssprache;
 
-- Abteilungen  für  den  Unterricht  in  slowenischer  Sprache,  die  in  Hauptschulen  mit  deutscher Unterrichtssprache eingerichtet sind.
+b) Volksschulen mit deutscher und slowenischer Unterrichtssprache (zweisprachige Volksschulen), worunter im Sinne dieses Bundesgesetzes auch in Volksschulen mit deutscher Unterrichtssprache eingerichtete Volksschulklassen mit deutscher und slowenischer Unterrichtssprache (zweisprachige Volksschulklassen) und in Volksschulklassen mit deutscher Unterrichtssprache eingerichtete Abteilungen mit deutscher und slowenischer Unterrichtssprache (zweisprachige Volksschulabteilungen) zu verstehen sind;
+
+c) Abteilungen für den Unterricht in slowenischer Sprache, die in Hauptschulen mit deutscher Unterrichtssprache eingerichtet sind.
 
 ##### Beachte für folgende Bestimmung
 
@@ -178,11 +180,11 @@ Zum Inkrafttreten vgl. § 34
 
 § 15. An  den  Volks-  und Hauptschulen  mit slowenischer  Unterrichtssprache ist der Unterricht auf allen  Schulstufen  in  slowenischer  Unterrichtssprache  zu  erteilen,  doch  ist  die  deutsche  Sprache  als Pflichtgegenstand mit sechs Wochenstunden zu führen.
 
-§ 16. (1)  An  den  zweisprachigen Volksschulen (Volksschulklassen, Volksschulabteilungen) ist der gesamte Unterricht auf der Vorschulstufe sowie auf den ersten vier Schulstufen in annähernd gleichem Ausmaß in deutscher und slowenischer Sprache zu erteilen; von der 5. Schulstufe an ist der Unterricht unbeschadet  des  Abs. 2  -  in  deutscher  Sprache  zu  erteilen,  doch  ist  die  slowenische  Sprache  mit  vier Wochenstunden  als  Pflichtgegenstand  zu  führen.  In  Volksschulklassen  mit  deutschsprachigen  und zweisprachigen Abteilungen ist der deutschsprachige Unterricht soweit wie möglich für alle Schüler der betreffenden Schulstufen gemeinsam zu erteilen.
+§ 16. (1) An den zweisprachigen Volksschulen (Volksschulklassen, Volksschulabteilungen) ist der gesamte Unterricht auf der Vorschulstufe sowie auf den ersten vier Schulstufen in annähernd gleichem Ausmaß in deutscher und slowenischer Sprache zu erteilen; von der 5. Schulstufe an ist der Unterricht - unbeschadet des Abs. 2 - in deutscher Sprache zu erteilen, doch ist die slowenische Sprache mit vier Wochenstunden als Pflichtgegenstand zu führen. In Volksschulklassen mit deutschsprachigen und zweisprachigen Abteilungen ist der deutschsprachige Unterricht soweit wie möglich für alle Schüler der betreffenden Schulstufen gemeinsam zu erteilen.
 
 (2) Der Religionsunterricht ist auf allen Schulstufen der zweisprachigen Volksschulen (Volksschulklassen, Volksschulabteilungen) für die gemäß § 13 zum zweisprachigen Unterricht angemeldeten Schüler in deutscher und in slowenischer Sprache zu erteilen.
 
-(2a)  Im  Jahreszeugnis  der  4.  Klasse  der  zweisprachigen  Volksschulen  ist  im  Pflichtgegenstand 'Deutsch,  Slowenisch,  Lesen'  im  Hinblick  auf  § 40  Abs. 1  des  Schulorganisationsgesetzes,  BGBl. Nr. 242/1962, zusätzlich die Beurteilung in 'Deutsch, Lesen' gesondert auszuweisen.
+(2a) Im Jahreszeugnis der 4. Klasse der zweisprachigen Volksschulen ist im Pflichtgegenstand “Deutsch, Slowenisch, Lesen” im Hinblick auf § 40 Abs. 1 des Schulorganisationsgesetzes, BGBl. Nr. 242/1962, zusätzlich die Beurteilung in “Deutsch, Lesen” gesondert auszuweisen.
 
 www.ris.bka.gv.at
 
@@ -198,15 +200,15 @@ Bundesrecht konsolidiert
 
 § 16a. Für die zweisprachigen Volksschulen (Volksschulklassen, Volksschulabteilungen) gelten im Sinne des § 14 Abs. 1 folgende Sonderbestimmungen:
 
-- Die  Zahl  der  Schüler  in  einer  Klasse  auf  der  Vorschulstufe  und  der  1.  bis  4.  Schulstufe  darf sieben Schüler nicht unterschreiten und 20 Schüler nicht übersteigen;
+1. Die Zahl der Schüler in einer Klasse auf der Vorschulstufe und der 1. bis 4. Schulstufe darf sieben Schüler nicht unterschreiten und 20 Schüler nicht übersteigen;
 
-- sind  auf  der  1.  bis  4.  Schulstufe  mindestens  je  neun  Kinder  zum  zweisprachigen  Unterricht angemeldet bzw. nicht angemeldet, so sind auf diesen Schulstufen Parallelklassen zu führen;
+2. sind auf der 1. bis 4. Schulstufe mindestens je neun Kinder zum zweisprachigen Unterricht angemeldet bzw. nicht angemeldet, so sind auf diesen Schulstufen Parallelklassen zu führen;
 
-- in  Klassen  der  1.  bis  4.  Schulstufe,  in  welchen  zum  zweisprachigen  Unterricht  angemeldete Schüler  gemeinsam  mit  nicht  angemeldeten  Schülern  unterrichtet  werden,  sind  weitere  Lehrer zur eigenständigen und verantwortlichen Unterrichtsund Erziehungsarbeit in Pflichtgegenständen  (ausgenommen Religion) für durchschnittlich 14 Wochenstunden zu bestellen (Teamlehrer); das Ausmaß der Verwendung als Teamlehrer in den einzelnen Klassen darf  zehn  Wochenstunden  nicht  unterschreiten;  wenn  die  Teamlehrer  die  gesamte  Unterrichtsund Erziehungsarbeit gemeinsam leisten, haben sie die Aufgaben des klassenführenden Lehrers gemeinsam wahrzunehmen;
+3. in Klassen der 1. bis 4. Schulstufe, in welchen zum zweisprachigen Unterricht angemeldete Schüler gemeinsam mit nicht angemeldeten Schülern unterrichtet werden, sind weitere Lehrer zur eigenständigen und verantwortlichen Unterrichts- und Erziehungsarbeit in Pflichtgegenständen (ausgenommen Religion) für durchschnittlich 14 Wochenstunden zu bestellen (Teamlehrer); das Ausmaß der Verwendung als Teamlehrer in den einzelnen Klassen darf zehn Wochenstunden nicht unterschreiten; wenn die Teamlehrer die gesamte Unterrichts- und Erziehungsarbeit gemeinsam leisten, haben sie die Aufgaben des klassenführenden Lehrers gemeinsam wahrzunehmen;
 
-- für  gemäß  § 13  zum  zweisprachigen  Unterricht  angemeldete  Schüler,  deren  Kenntnis  der slowenischen Sprache nicht ausreichend ist, ist ein  zusätzlicher Förderunterricht in Slowenisch anzubieten, der ab drei Schülern (erforderlichenfalls schulstufenübergreifend) zu führen ist.
+4. für gemäß § 13 zum zweisprachigen Unterricht angemeldete Schüler, deren Kenntnis der slowenischen Sprache nicht ausreichend ist, ist ein zusätzlicher Förderunterricht in Slowenisch anzubieten, der ab drei Schülern (erforderlichenfalls schulstufenübergreifend) zu führen ist.
 
-§ 17. (1) An Volksund Hauptschulen mit deutscher Unterrichtssprache kann die Landesschulbehörde  die  slowenische  Sprache  als  unverbindlichen  Unterrichtsgegenstand  einführen. Dieser Unterricht kann, soweit dies tunlich ist, gemeinsam mit dem Unterricht in slowenischer Sprache in den in der Schule eingerichteten zweisprachigen Volksschulklassen oder Volksschulabteilungen beziehungsweise slowenischsprachigen Hauptschulabteilungen erfolgen.
+§ 17. (1) An Volks- und Hauptschulen mit deutscher Unterrichtssprache kann die Landesschulbehörde die slowenische Sprache als unverbindlichen Unterrichtsgegenstand einführen. Dieser Unterricht kann, soweit dies tunlich ist, gemeinsam mit dem Unterricht in slowenischer Sprache in den in der Schule eingerichteten zweisprachigen Volksschulklassen oder Volksschulabteilungen beziehungsweise slowenischsprachigen Hauptschulabteilungen erfolgen.
 
 (2)  In  dem  im  § 10  Abs. 1  umschriebenen  Gebiet  ist  ab  fünf  Schülern  an  Volksschulen  eine unverbindliche Übung Slowenisch und an Hauptschulen ein Freigegenstand Slowenisch unter Einrechnung und Einbindung eines Förderunterrichtes in Slowenisch zu führen.
 
@@ -290,17 +292,17 @@ Bundesrecht konsolidiert
 
 § 31. Beim Landesschulrat für Kärnten ist eine Abteilung für die Angelegenheiten
 
-- der Volks- und Hauptschulen mit slowenischer Unterrichtssprache,
+a) der Volks- und Hauptschulen mit slowenischer Unterrichtssprache,
 
-- des Unterrichtes in slowenischer Sprache an den zweisprachigen Volksschulen (Volksschulklassen, Volksschulabteilungen) und an den slowenischsprachigen Hauptschulabteilungen, sowie
+b) des Unterrichtes in slowenischer Sprache an den zweisprachigen Volksschulen (Volksschulklassen, Volksschulabteilungen) und an den slowenischsprachigen Hauptschulabteilungen, sowie
 
-- der Bundesmittelschule mit slowenischer Unterrichtssprache und der zweisprachigen Handelsakademie
+c) der Bundesmittelschule mit slowenischer Unterrichtssprache und der zweisprachigen Handelsakademie
 
 einzurichten.
 
 § 32. (1)  Für  die  Inspektion  der im § 31 lit. a genannten Schulen und des im § 31 lit. b genannten Unterrichtes ist ein Organ der Schulaufsicht, das die Lehrbefähigung für den Unterricht in deutscher und slowenischer  Unterrichtssprache  an  Volks-  und  Hauptschulen  besitzt,  zu  bestellen,  dem  auch  die Inspektion des unverbindlichen Slowenischunterrichtes an sonstigen Volks- und Hauptschulen im Lande Kärnten obliegt.
 
-(2) Für die Inspektion der im § 31 lit. c genannten Schule ist ein Fachinspektor, der die Befähigung für  das  Lehramt  an  Mittelschulen  mit  Slowenisch  als  Hauptfach  besitzt,  zu  bestellen,  dem  auch  die Inspektion der ergänzenden  Lehrerbildung  in slowenischer Sprache  an  der  Bundeslehrerund  lehrerinnenbildungsanstalt  in  Klagenfurt  und  des  unverbindlichen  Slowenischunterrichtes  an  sonstigen mittleren Lehranstalten im Lande Kärnten obliegt.
+(2) Für die Inspektion der im § 31 lit. c genannten Schule ist ein Fachinspektor, der die Befähigung für das Lehramt an Mittelschulen mit Slowenisch als Hauptfach besitzt, zu bestellen, dem auch die Inspektion der ergänzenden Lehrerbildung in slowenischer Sprache an der Bundeslehrer- und -lehrerinnenbildungsanstalt in Klagenfurt und des unverbindlichen Slowenischunterrichtes an sonstigen mittleren Lehranstalten im Lande Kärnten obliegt.
 
 (3) An Stelle der in den Abs. 1 und 2 genannten Inspektionsorgane kann ein Landesschulinspektor, der beide in den Abs. 1 und 2 bezeichneten Lehrbefähigungen besitzt, bestellt werden, dem die Inspektion der in den Abs. 1 und 2 angeführten Schul- und Unterrichtsbereiche obliegt.
 
@@ -318,11 +320,11 @@ einzurichten.
 
 (2a) Die nachstehend genannten Bestimmungen  dieses  Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 137/1998 treten wie folgt in Kraft:
 
-§ 19, § 23, § 29 und § 36 Abs. 2 treten mit Ablauf des  Tages  der  Kundmachung  im Bundesgesetzblatt in Kraft,
+1. § 19, § 23, § 29 und § 36 Abs. 2 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 16a Z 1 tritt mit 1. September 1999 in Kraft,
+2. § 16a Z 1 tritt mit 1. September 1999 in Kraft,
 
-- der  Entfall  des  § 11  Abs. 1  Z 1  tritt  gegenüber  den  Ländern  mit  Ablauf  des  Tages  der Kundmachung im Bundesgesetzblatt in Kraft; die Ausführungsbestimmungen sind mit 1. September 1999 in Kraft zu setzen.
+3. der Entfall des § 11 Abs. 1 Z 1 tritt gegenüber den Ländern mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft; die Ausführungsbestimmungen sind mit 1. September 1999 in Kraft zu setzen.
 
 www.ris.bka.gv.at
 
@@ -340,9 +342,9 @@ Bundesrecht konsolidiert
 
 (2d)  Die  nachstehend  genannten  Bestimmungen  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 48/2014 treten wie folgt in Kraft:
 
-§ 19, § 23, § 29 und § 36 Abs. 2 treten mit Ablauf des  Tages  der  Kundmachung  im Bundesgesetzblatt in Kraft,
+1. § 19, § 23, § 29 und § 36 Abs. 2 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
 
-§ 32 Abs. 1 tritt mit 1. August 2014 in Kraft.
+2. § 32 Abs. 1 tritt mit 1. August 2014 in Kraft.
 
 (3)  Verordnungen  zur  Durchführung  dieses  Bundesgesetzes  können  von  dem  der  Kundmachung dieses Bundesgesetzes folgenden Tag an erlassen werden; sie können jedoch frühestens mit dem Tage des Inkrafttretens jener Bestimmungen dieses Bundesgesetzes, auf Grund deren sie erlassen werden, in Kraft gesetzt werden.
 
