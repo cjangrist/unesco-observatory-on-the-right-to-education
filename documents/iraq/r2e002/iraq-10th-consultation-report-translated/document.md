@@ -287,7 +287,7 @@ Indicator 4.1.7 | Number of years of education that are
 
 - Implementation of the fast-track system for outstanding students in the fifth grade of primary school and the second and fifth grades of secondary school by preparing special tests to measure  mental  ability  and  achievement  for  candidate  students  to  whom  the  screening regulations apply.
 
-- Implementation  of  the  central  nutrition  project  by  the  World  Food  Programme  (WFP), covering 11 governorates in 11 districts: Nineveh, Salah al-Din, Kirkuk, Diyala, Wasit AlDiwaniyah, Muthanna, Maysan, Dhi Qar, Basra and Anbar. The number of primary school students covered by the project was 322,000 male and female students, distributed over 1,060 schools.
+- Implementation  of  the  central  nutrition  project  by  the  World  Food  Programme  (WFP), covering 11 governorates in 11 districts: Nineveh, Salah al-Din, Kirkuk, Diyala, Wasit Al-Diwaniyah, Muthanna, Maysan, Dhi Qar, Basra and Anbar. The number of primary school students covered by the project was 322,000 male and female students, distributed over 1,060 schools.
 
 - Implementation of projects regarding curricula:
 
@@ -414,7 +414,7 @@ Governmental education | Private education
 Males | Females | Total | Males | Females | Total
 48 | 52 | 50 | 61 | 39 | 50
 
-###### Indicator 4.3.3 - Participation rate in technical and vocational education programmes (15-24year-olds) by gender
+###### Indicator 4.3.3 - Participation rate in technical and vocational education programmes (15-24-year-olds) by gender
 
 Indicator 4.3.3 | Participation rate (%) in technical and vocational education programmes by gender
 --- | --- | ---
@@ -469,7 +469,7 @@ Indicators | Value
 --- | ---
 Number of students and graduates who obtained jobs through university employment offices, 2018 | 1 631 students
 Number of specialized courses in universities (2016-2018) | 1 490
-Number of participants in courses at universities (2016- 2018) | 5 027
+Number of participants in courses at universities (2016-2018) | 5 027
 Number of workshops (2016-2018) | 7 438
 
 ##### 2. Programmes implemented relating to target 4.4
@@ -677,7 +677,7 @@ Males | Females | Total
 
 ##### Current indicators (2018-2019 academic year) for target 4.a.
 
-National indicators | Academic year 2018- 2019
+National indicators | Academic year 2018-2019
 --- | ---
 Percentage of school buildings with health facilities for the 2018/2019 academic year | 96.3%
 Percentage of school buildings with safe drinking water | 84.2%
@@ -694,7 +694,7 @@ There are no values for this indicator. We will supply them later if they are av
 
 #### Target  4.c  -  By  2030,  substantially  increase  the  supply  of  qualified  teachers,  including through  international  cooperation  for  teacher  training  in  developing  countries,  especially least developed countries and small island developing States.
 
-Indicators  of  participation  in  training  courses  by  instructors  and  teachers  in  training  centres  in Baghdad and the governorates for human and scientific specializations for the period 2015-2019 the national indicator for target 4-c:
+Indicators  of  participation  in  training  courses  by  instructors  and  teachers  in  training  centres  in Baghdad and the governorates for human and scientific specializations for the period 2015-2019 - the national indicator for target 4-c:
 
 Place | Total courses | Total trainees
 --- | --- | ---
