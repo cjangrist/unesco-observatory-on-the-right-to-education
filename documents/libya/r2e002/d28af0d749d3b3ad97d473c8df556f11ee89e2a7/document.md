@@ -14,7 +14,7 @@
 
 ### The Interim Transitional National Council
 
-In view  of our  belief in the Revolution of  the7 th day  of  February,  2011  AD corresponding to the 14 th day of Rabi' al-awwal, 1432 (Islamic calendar) which has been led by the Libyan people in different districts of their country and due to our faithfulness to  the  martyrs  of  this  blessed  Revolution  who  sacrificed  their  lives  for  the  sake  of freedom, living with dignity on the land of home as well as retrieving all the rights looted by Al-Gaddafi and his collapsed regime.
+In view  of our  belief in the Revolution of  the7th day  of  February,  2011  AD corresponding to the 14th day of Rabi' al-awwal, 1432 (Islamic calendar) which has been led by the Libyan people in different districts of their country and due to our faithfulness to  the  martyrs  of  this  blessed  Revolution  who  sacrificed  their  lives  for  the  sake  of freedom, living with dignity on the land of home as well as retrieving all the rights looted by Al-Gaddafi and his collapsed regime.
 
 Based on the legitimacy of this Revolution, and in response to the desire of the Libyan people  and  their  hopes  to  achieve  democracy,  establish  the  political  multitude  and  the estate of institutions, to create a society wherein all of us can live in stability, tranquility and justice; a society that can raise by science, culture, welfare and health, and that can bring up the new generations according to the Islamic spirit and love of goodness and home.
 
@@ -32,7 +32,7 @@ In the hope of seeking a society of citizenship, justice, equality, booming, pro
 
 #### Article (1)
 
-Libya is an independent Democratic State wherein the people are the source of powers.  The city of Tripoli shall be the capital of the State. Islam is the Religion of the State and the principal source  of  legislation  is  Islamic  Jurisprudence  (Shari'a).  The  State  shall  guarantee  for  nonMoslems the freedom of practicing religious rituals .Arabic is its  official  language.  The  State shall  guarantee  the  cultural  rights  for  all  components  of  the  Libyan  society  and  its  languages shall be deemed national ones.
+Libya is an independent Democratic State wherein the people are the source of powers.  The city of Tripoli shall be the capital of the State. Islam is the Religion of the State and the principal source  of  legislation  is  Islamic  Jurisprudence  (Shari'a).  The  State  shall  guarantee  for  non-Moslems the freedom of practicing religious rituals .Arabic is its  official  language.  The  State shall  guarantee  the  cultural  rights  for  all  components  of  the  Libyan  society  and  its  languages shall be deemed national ones.
 
 #### Article (2)
 
@@ -118,7 +118,7 @@ Property shall be inviolable. No owner may be prevented from disposing of his pr
 
 #### Article (17)
 
-The Interim Transitional National Council is the supreme power in the State of Libya and shall undertake  the  works  of  the  supreme  sovereignty  including  legislation  and  laying  down  the general  policy  of  the  State.  The  Transitional  National  Council  shall  be  deemed  as  the  sole legitimate  representative  of  the  Libyan  people  and  it  shall  derive  its  legitimacy  from  the Revolution of February 17 th .  The Transitional National Council shall be entrusted to guarantee the national unity, the safety of the national territory, to embody and circulate values and morals, to  ensure  the  safety  of  citizens  and  expatriates,  to  ratify  the  international  agreements  and  to establish the bases of the civil constitutional democratic state.
+The Interim Transitional National Council is the supreme power in the State of Libya and shall undertake  the  works  of  the  supreme  sovereignty  including  legislation  and  laying  down  the general  policy  of  the  State.  The  Transitional  National  Council  shall  be  deemed  as  the  sole legitimate  representative  of  the  Libyan  people  and  it  shall  derive  its  legitimacy  from  the Revolution of February 17th.  The Transitional National Council shall be entrusted to guarantee the national unity, the safety of the national territory, to embody and circulate values and morals, to  ensure  the  safety  of  citizens  and  expatriates,  to  ratify  the  international  agreements  and  to establish the bases of the civil constitutional democratic state.
 
 #### Article (18)
 
@@ -138,7 +138,7 @@ elected  by  the  Council.  In  all  cases,  election  shall  be  effected  by  
 
 The President  of  the Interim Transitional National Council shall take  oath before the  Council and the members of the Interim Transitional National Council shall take oath in the following formula :
 
-'I swear by Almighty God to carry out the duties of my job honestly and truthfully, to remain faithful  to  the  goals  and  principles  of  the  Interim  Transitional  National  Council  in  Libya,  to respect the constitutional charter and internal statutes thereof, to look after the interests of the Libyan  people  in  full  and  to  safeguard  the  independence,  security  and  unity  and  territorial integrity of the motherland."
+“I swear by Almighty God to carry out the duties of my job honestly and truthfully, to remain faithful  to  the  goals  and  principles  of  the  Interim  Transitional  National  Council  in  Libya,  to respect the constitutional charter and internal statutes thereof, to look after the interests of the Libyan  people  in  full  and  to  safeguard  the  independence,  security  and  unity  and  territorial integrity of the motherland."
 
 #### Article (20)
 
@@ -202,11 +202,11 @@ The Interim Transitional National Council shall appoint diplomatic representativ
 
 - After  the  announcement  of  liberation,  the  Interim  Transitional  National  Council  shall move  to  its  headquarters  in  Tripoli.  The  Interim  Transitional  National  Council  shall form an interim government within a period not exceeding thirty days and within a a period not later than ninety days from the date liberation is announced and made known, the Council shall:
 
-- Promulgate a law on electing the National Public Conference.
+1. Promulgate a law on electing the National Public Conference.
 
-- Appoint the National Supreme Commission for elections.
+2. Appoint the National Supreme Commission for elections.
 
-- Invite for the election of the National Public Conference.
+3. Invite for the election of the National Public Conference.
 
 - The National Public Conference shall be elected within a period of two hundred forty days from the date liberation is announced and made known.
 
@@ -216,9 +216,9 @@ The Interim Transitional National Council shall appoint diplomatic representativ
 
 - The National Public Conference shall, within  a period not later than thirty days as of the date thereof, shall:
 
-- Appoint  ministers  and  shall  propose  the  names  of  the  members  of  its government provided that all such members shall have the confidence of the  National  Public  Conference  prior  to  carrying  on  their  works  as  an Interim  Government.  The  National  Public  Conference  shall  further appoint the presidents of the sovereign posts.
+1. Appoint  ministers  and  shall  propose  the  names  of  the  members  of  its government provided that all such members shall have the confidence of the  National  Public  Conference  prior  to  carrying  on  their  works  as  an Interim  Government.  The  National  Public  Conference  shall  further appoint the presidents of the sovereign posts.
 
-- Opt for a Constitutional Power in order to formulate the constitution draft for the State which Power shall be called "the Constitutional Power for Formulating  the  Constitution"  provided  that  such  Power  shall  finish
+2. Opt for a Constitutional Power in order to formulate the constitution draft for the State which Power shall be called "the Constitutional Power for Formulating  the  Constitution"  provided  that  such  Power  shall  finish
 
 8 of 11
 
@@ -276,7 +276,7 @@ The constitutional documents and laws which were applicable before applying this
 
 #### Article(35)
 
-All the provisions prescribed in the existing legislations shall continue to be effective in so far as they  are  not  inconsistent  with  the  provisions  hereof  until  they  are  amended  or  repealed.  Each reference in these legislations to the 'People's Congresses', the 'General People's Congress', shall be deemed as a reference to the Interim Transitional National Council or to the National Public Conference. Each reference to 'General People's Committee' or the 'People's Committees'  shall  be  deemed  as  a  reference  to  the  Executive  Office,  to  the  members  of  the Executive Office, to the interim government or to the members thereof each within its respective area of jurisdiction. Each reference to (Great Socialist People's Libyan Arab Jamahiriya) shall be deemed as a reference to (Libya).
+All the provisions prescribed in the existing legislations shall continue to be effective in so far as they  are  not  inconsistent  with  the  provisions  hereof  until  they  are  amended  or  repealed.  Each reference in these legislations to the “People’s Congresses”, the “General People's Congress”, shall be deemed as a reference to the Interim Transitional National Council or to the National Public Conference. Each reference to “General People's Committee” or the “People's Committees”  shall  be  deemed  as  a  reference  to  the  Executive  Office,  to  the  members  of  the Executive Office, to the interim government or to the members thereof each within its respective area of jurisdiction. Each reference to (Great Socialist People's Libyan Arab Jamahiriya) shall be deemed as a reference to (Libya).
 
 #### Article(36)
 
@@ -294,7 +294,7 @@ This Declaration shall be published in different media and shall take effect fro
 
 The Interim  Transitional National Council
 
-Benghazi on   the 3 rd day of Ramadan, 1432 AH corresponding to 03/ 08/ 2011 AD.
+Benghazi on   the 3rd day of Ramadan, 1432 AH corresponding to 03/ 08/ 2011 AD.
 
 11 of 11
 
