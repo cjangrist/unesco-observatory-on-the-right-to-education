@@ -128,11 +128,13 @@ Main Definitions
 
 1.0.52. Tutor - academic advisor in higher educational institutions
 
-1.0.53. University - a leading multi-profile higher educational institution, which carries out a broad  range  of  specialist  training  at  all  levels  of  higher  education,  in-service  training programs, and conducts fundamental and applied scientific research.
+1.0.53. University - a leading multi-profile higher educational institution, which carries out a broad range of specialist training at all levels of higher education, in-service training
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+programs, and conducts fundamental and applied scientific research.
 
 ### Article 2. Legislation on Education of the Azerbaijan Republic
 
@@ -184,13 +186,15 @@ The main goals of education in the Azerbaijan Republic are as follows:
 
 5.2. The State secures the creation of equal opportunities for each citizen and doesn't tolerate for  any  discrimination,  regardless  of  the  individual's  gender,  race,  language,  religion, political views, nationality, social status, background, and state of health.
 
-5.3.  The  State  guarantees  equal  opportunities  for  men  and  women  in  recruitments  for  all educational  institutions,  regardless  of  their  type  of  property,  appointing  to  or  election  for positions,  stimulating  and  awarding  the  labor,  admission  of  the  learners  to  educational institutions, providing them with scholarships, selection of curricula and majors, assessment of  knowledge,  providing  the  graduates  with  jobs,  continuing  education  at  the  next  level, furthering the major, etc.
+5.3. The State guarantees equal opportunities for men and women in recruitments for all educational institutions, regardless of their type of property, appointing to or election for positions, stimulating and awarding the labor, admission of the learners to educational
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- 5.4. The state secures the right to compulsory general secondary education for each citizen. Every student enrolled in the public educational institutions enjoys the right to free-of-charge general education. The state sets forth the right to receive a one-time free-of-charge education at  secondary  vocational-professional  education  and  each  level  of  higher  education  in accordance with the legislation.
+institutions, providing them with scholarships, selection of curricula and majors, assessment of knowledge, providing the graduates with jobs, continuing education at the next level, furthering the major, etc.
+
+- 5.4. The state secures the right to compulsory general secondary education for each citizen. Every student enrolled in the public educational institutions enjoys the right to free-of-charge general education. The state sets forth the right to receive a one-time free-of-charge education at secondary vocational-professional education and each level of higher education in accordance with the legislation.
 
 - 5.5.  In  accordance  with  labor  market  demands,  the  state  makes  a  public  requisition  to  the educational institutions for the training of professional specialists and provides the graduates with employment opportunities.
 
@@ -244,7 +248,7 @@ Educational system of the Azerbaijan Republic
 
 [[START OF PAGE 9]]
 
-8.0.3. Public and non-governmental organizations, associations, societies, scientificmethodological councils, and other institutions that are involved in educational activities.
+8.0.3. Public and non-governmental organizations, associations, societies, scientific-methodological councils, and other institutions that are involved in educational activities.
 
 ### Article 9. The quality standards of education
 
@@ -346,7 +350,7 @@ Educational system of the Azerbaijan Republic
 
 14.5. The following types and kinds of educational institutions are established:
 
-14.5.1.  pre-school  educational  institutions  (child  care  institutions,  child  care  institutionkindergarten, kindergarten, special kindergarten).
+14.5.1. pre-school educational institutions (child care institutions, child care institution-kindergarten, kindergarten, special kindergarten).
 
 14.5.2. general education institutions (primary, secondary, and general secondary education institutions,  general  education  boarding  schools,  special  schools  and  special  boarding schools, special schools and boarding schools for children with restraining health conditions, institutions for children with special needs, schools, gymnasia, lyceums, and other institutions for talented students).
 
@@ -542,13 +546,15 @@ Educational system of the Azerbaijan Republic
 
 21.4. The document on completion of the secondary vocational-professional education allows for  entering  higher  educational  institutions  and  constitutes  the  basis  to  receive  higher education in the next stage of education.
 
-21.5.  The  conformity  of  the  programs  in  secondary  vocational-professional  education  with the  higher  education  programs  on  the  corresponding  majors  is  ensured,  and  the  credits obtained by the sub-bachelors, the graduates who complete this level of education with high results, are taken into account in the higher educational institutions by the respective majors in accordance with the rules established by the corresponding executive authority.
+21.5. The conformity of the programs in secondary vocational-professional education with the higher education programs on the corresponding majors is ensured, and the credits
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-### Article 22.  Higher education
+obtained by the sub-bachelors, the graduates who complete this level of education with high results, are taken into account in the higher educational institutions by the respective majors in accordance with the rules established by the corresponding executive authority.
+
+### Article 22. Higher education
 
 22.1.  Highly  specialized  experts  and  scientific-pedagogic  staff  are  trained  in  the  higher education level taking into account the demands of the society and labor market.
 
@@ -586,7 +592,7 @@ Educational system of the Azerbaijan Republic
 
 23.3.2. Doctor of science - indicating the field of science.
 
-23.4.  The  procedures  for  establishment  of  a  doctorate  program,  admissions  to  the  postgraduate study, conferring scientific degrees and the pertinent policies are determined by the respective executive authority.
+23.4. The procedures for establishment of a doctorate program, admissions to the post-graduate study, conferring scientific degrees and the pertinent policies are determined by the respective executive authority.
 
 23.5.  Foreign  citizens  are  admitted  to  the  doctorate  programs  at  the  institutions  of  higher education and scientific establishments under the international agreements that the Republic of Azerbaijan is party to, as well as through contracts for paid education signed between the institution of higher education and the foreign citizen.
 
@@ -664,7 +670,7 @@ Educational system of the Azerbaijan Republic
 
 26.3.3. the accreditation document of the educational institution.
 
-26.4. A  student's achievements  in  the  preceding  stage  of education  are taking into consideration during the admissions to the institutions of higher and secondary vocationalprofessional only in accordance with the procedures determined by the respective educational authority.
+26.4. A student's achievements in the preceding stage of education are taking into consideration during the admissions to the institutions of higher and secondary vocational-professional only in accordance with the procedures determined by the respective educational authority.
 
 26.5.  The  winners  of  world  subject  Olympiads,  reputable  international  competitions  and contests  are  entitled  to  direct  admissions  to  the  relevant  specializations  at  the  higher educational institutions. The list of these Olympiads, international competitions and contests is determined by the respective executive authority.
 
@@ -720,7 +726,7 @@ Management of the educational system, the rights, duties and social protection o
 
 [[START OF PAGE 25]]
 
-29.0.9. define the student admissions plan for institutions of primary, secondary vocationalprofessional and higher education;
+29.0.9. define the student admissions plan for institutions of primary, secondary vocational-professional and higher education;
 
 29.2.10.  conduct  the  student  assessment  during  admissions  in  accordance  with  the  defined procedure;
 
@@ -776,9 +782,9 @@ Management of the educational system, the rights, duties and social protection o
 
 29.2.34. determine the regulations and conditions for scientific titles and degrees;
 
-- 29.2.35.  provide  compensation  and  incentivize  the  work  of  the  staff  at  the  educational institutions, establish individual and aimed scholarships to particularly talented learners;
+29.2.35.  provide  compensation  and  incentivize  the  work  of  the  staff  at  the  educational institutions, establish individual and aimed scholarships to particularly talented learners;
 
-29.2.36.  maintain  teaching,  scientific,  scientific-methodological  support  and  informationcommunication technologies and other technical equipment for public educational institutions;
+29.2.36.  maintain  teaching,  scientific,  scientific-methodological  support  and  information-communication technologies and other technical equipment for public educational institutions;
 
 29.2.37. approve the basic educational plans and programs;
 
@@ -824,9 +830,9 @@ Management of the educational system, the rights, duties and social protection o
 
 31.0. The following are the participants of the educational process:
 
-31.0.1.  learners  -  children,  school  children,  students,  cadets,  master  students,  doctoral students and others;
+31.0.1.  learners  –  children,  school  children,  students,  cadets,  master  students,  doctoral students and others;
 
-31.0.2. educators (pedagogical staff) - teachers, assistants, advisors, tutors, mentors, assistant teachers, assistant mentors, pre-military training coaches, defectologists, logopedists, production  training  masters,  practicing  psychologists,  sociologists-pedagogues,  heads  of children's  unions  at  schools,  methodologists,  heads  of  study  and  music  groups,  scientificpedagogical  staff,  engineering-technical  who  are  directly  involved  in  the  teaching  process, teaching-support  staff,  babysitters,  instructors,  librarians  of  the  educational  institutions, publishing-editing  staff,  staff  at  the  leading  units  of  the  entities  managing  the  education, supervisors at educational  institutions  and  authorities  involved  in  teaching-upbringing activities, concertmasters and trainers employed by educational institutions, staff from social protection, health and other authorities who are directly involved in the pedagogical activity and other individuals involved in the teaching-upbringing process;
+31.0.2. educators (pedagogical staff) – teachers, assistants, advisors, tutors, mentors, assistant teachers, assistant mentors, pre-military training coaches, defectologists, logopedists, production  training  masters,  practicing  psychologists,  sociologists-pedagogues,  heads  of children’s  unions  at  schools,  methodologists,  heads  of  study  and  music  groups,  scientific-pedagogical  staff,  engineering-technical  who  are  directly  involved  in  the  teaching  process, teaching-support  staff,  babysitters,  instructors,  librarians  of  the  educational  institutions, publishing-editing  staff,  staff  at  the  leading  units  of  the  entities  managing  the  education, supervisors at educational  institutions  and  authorities  involved  in  teaching-upbringing activities, concertmasters and trainers employed by educational institutions, staff from social protection, health and other authorities who are directly involved in the pedagogical activity and other individuals involved in the teaching-upbringing process;
 
 31.0.3. parents or their legal representatives;
 
@@ -840,7 +846,7 @@ Management of the educational system, the rights, duties and social protection o
 
 32.2. Students and graduates of all educational institutions have equal rights.
 
-32.3. The learners' rights are to:
+32.3. The learners’ rights are to:
 
 [[END OF PAGE 28]]
 
@@ -854,33 +860,33 @@ Management of the educational system, the rights, duties and social protection o
 
 32.3.4. choose the education profile, curricula and extracurricular activity;
 
-- 32.3.5.  freely  choose  the  subjects,  number  of  credits  for  each  semester,  educators  and advisers-tutors  in  accordance  with  the  teaching  plans  offered  by  the  institution  of  higher education;
+32.3.5.  freely  choose  the  subjects,  number  of  credits  for  each  semester,  educators  and advisers-tutors  in  accordance  with  the  teaching  plans  offered  by  the  institution  of  higher education;
 
 32.3.6.  use  the  existing  infrastructure  (teaching-production,  science-research,  information, cultural-welfare, sports, fitness centers, libraries and etc.) of the educational institution;
 
-- 32.3.7. change  the educational institution and specialization in accordance with the established procedure;
+32.3.7. change  the educational institution and specialization in accordance with the established procedure;
 
-- 32.3.8. take part in the scientific-research activity;
+32.3.8. take part in the scientific-research activity;
 
-- 32.3.9. pursue uninterrupted education;
+32.3.9. pursue uninterrupted education;
 
-- 32.3.10. enjoy a learning environment that is free of health risks and hazards;
+32.3.10. enjoy a learning environment that is free of health risks and hazards;
 
-- 32.3.11.  enjoy  protection  from  behavior  that  humiliates  human  dignity  and  honor  and contradicts the human rights;
+32.3.11.  enjoy  protection  from  behavior  that  humiliates  human  dignity  and  honor  and contradicts the human rights;
 
-- 32.3.12. temporarily suspend one's education at an educational institution in accordance with the established procedure;
+32.3.12. temporarily suspend one’s education at an educational institution in accordance with the established procedure;
 
-- 32.3.13. seek re-assessment of one's knowledge in accordance with the procedure determined by the respective executive authority;
+32.3.13. seek re-assessment of one’s knowledge in accordance with the procedure determined by the respective executive authority;
 
-- 32.3.14.  receive  a  one-time  only  free-of-charge  education  at  the  secondary  professionalvocational and higher educational level in accordance with the legislation;
+32.3.14.  receive  a  one-time  only  free-of-charge  education  at  the  secondary  professional-vocational and higher educational level in accordance with the legislation;
 
-- 32.3.15.  receive  free-of-charge  textbooks  at  the  public  and  municipal  institutions  for comprehensive education;
+32.3.15.  receive  free-of-charge  textbooks  at  the  public  and  municipal  institutions  for comprehensive education;
 
-- 32.3.16.  participate  in  the  organization  and  management  of  the  educational  process,  freely express one's ideas and thoughts;
+32.3.16.  participate  in  the  organization  and  management  of  the  educational  process,  freely express one’s ideas and thoughts;
 
-- 32.3.17.  participate  in  the  scientific,  public,  social  and  cultural  life  of  the  educational institution,  take  part  in  the  establishment  of  scientific  societies,  study  groups,  associations, unions and other organizations, join similar types of national and international organizations;
+32.3.17.  participate  in  the  scientific,  public,  social  and  cultural  life  of  the  educational institution,  take  part  in  the  establishment  of  scientific  societies,  study  groups,  associations, unions and other organizations, join similar types of national and international organizations;
 
-- 32.3.18. participate in the organization of scientific-practical conferences, seminars, conventions and meetings, as well as other events associated with school life;
+32.3.18. participate in the organization of scientific-practical conferences, seminars, conventions and meetings, as well as other events associated with school life;
 
 [[END OF PAGE 29]]
 
@@ -890,25 +896,25 @@ Management of the educational system, the rights, duties and social protection o
 
 32.4. Involvement of learners in activities and events unrelated to the process of education, with the exception of cases defined by the legislation, is prohibited.
 
-32.5. The learners' responsibilities are to:
+32.5. The learners’ responsibilities are to:
 
 32.5.1.  acquire  knowledge,  abilities  and  practical  skills  in  accordance  with  the  national standards of education;
 
 32.5.2. respect the honor and dignity of pedagogical staff;
 
-- 32.5.3. comply with requirements specified by the regulations of the educational institution;
+32.5.3. comply with requirements specified by the regulations of the educational institution;
 
-- 32.5.4. recognize one's responsibility before the country, the society, the parents and oneself;
+32.5.4. recognize one’s responsibility before the country, the society, the parents and oneself;
 
-- 32.5.5.  comply  with  the  requirements  of  the  legislation  on  education,  ethical  norms  and regulations associated with the learning and upbringing process.
+32.5.5.  comply  with  the  requirements  of  the  legislation  on  education,  ethical  norms  and regulations associated with the learning and upbringing process.
 
 32.5.6. fulfill other duties assigned by the legislation.
 
-### Article 33. Educators' rights and responsibilities:
+### Article 33. Educators’ rights and responsibilities:
 
 33.1.  The  rights  and  responsibilities  of  educators  are  regulated  by  the  Constitution  of  the Republic of Azerbaijan, this Law and other relevant legislative acts, international treaties that Azerbaijan  is  party  to,  the  statute  of  the  educational  institution  and  its  internal  rules  of discipline, as well as the employment contract concluded between the employer and educator.
 
-33.2. The educators' rights are to:
+33.2. The educators’ rights are to:
 
 33.2.1.  be  provided  with  normal  conditions  for  work,  scientific-pedagogical  activity  and education and technologies that meet modern standards;
 
@@ -928,31 +934,31 @@ Management of the educational system, the rights, duties and social protection o
 
 33.2.7. receive premiums and be rewarded;
 
-33.2.8. for professors who have long performed exceptionally at educational institutions and have provided significant contributions to its scientific-pedagogical life, to hold an associateprofessor position with the retention of the monthly salaries and supplemental payments, as well as other benefits and privileges, on the condition that they are free from any academic and administrative position;
+33.2.8. for professors who have long performed exceptionally at educational institutions and have provided significant contributions to its scientific-pedagogical life, to hold an associate-professor position with the retention of the monthly salaries and supplemental payments, as well as other benefits and privileges, on the condition that they are free from any academic and administrative position;
 
 33.2.9. be entitled to other rights under the legislation.
 
-33.3. Educators' responsibilities are to:
+33.3. Educators’ responsibilities are to:
 
-- 33.3.1. participate in implementing the national policy in the field of education;
+33.3.1. participate in implementing the national policy in the field of education;
 
-- 33.3.2. ensure that the educational programs (curricula) are acquired;
+33.3.2. ensure that the educational programs (curricula) are acquired;
 
-- 33.3.3. To cultivate the learners' civic position as independent personalities, prepare them to become patriotic, develop their initiative according to their abilities and skills, for them to live and work independently;
+33.3.3. To cultivate the learners’ civic position as independent personalities, prepare them to become patriotic, develop their initiative according to their abilities and skills, for them to live and work independently;
 
-- 33.3.4.  by  his/her  own  work  and  personal  example,  instill  feelings  of  respect  and  love  to learners' for the independence of the Republic of Azerbaijan, its Constitution and laws, state attributes, the history, culture, language, customs and traditions, national and universal values of the Azerbaijani people, the society and the environment;
+33.3.4.  by  his/her  own  work  and  personal  example,  instill  feelings  of  respect  and  love  to learners’ for the independence of the Republic of Azerbaijan, its Constitution and laws, state attributes, the history, culture, language, customs and traditions, national and universal values of the Azerbaijani people, the society and the environment;
 
-- 33.3.5. comply with pedagogical ethics and moral norms, honor the reputation of the teaching profession, exhibit characteristics of an intellectual person;
+33.3.5. comply with pedagogical ethics and moral norms, honor the reputation of the teaching profession, exhibit characteristics of an intellectual person;
 
-33.3.6. respect the learners' honor and dignity;
+33.3.6. respect the learners’ honor and dignity;
 
-- 33.3.7. protect children and youth from any forms of physical, psychological violence, and deter them from harmful habits;
+33.3.7. protect children and youth from any forms of physical, psychological violence, and deter them from harmful habits;
 
-- 33.3.8. advance professional, scientific and pedagogical expertise, conduct scientific research, conduct additional workshops, extracurricular activities;
+33.3.8. advance professional, scientific and pedagogical expertise, conduct scientific research, conduct additional workshops, extracurricular activities;
 
 33.3.9. pass attestation within certain periods as defined by legislation.
 
-- 33.3.10. fulfill other duties assigned by the legislation.
+33.3.10. fulfill other duties assigned by the legislation.
 
 ### Article 34. The rights and responsibilities of parents (legal guardians)
 
@@ -964,9 +970,9 @@ Management of the educational system, the rights, duties and social protection o
 
 34.1.1. choose the education institution for their minor children;
 
-34.1.2. receive information about the organization of the educational process, the quality of education, their children's attendance, behavior and the academic performance at their chosen educational institution;
+34.1.2. receive information about the organization of the educational process, the quality of education, their children’s attendance, behavior and the academic performance at their chosen educational institution;
 
-34.1.3. protect learners' rights, participate in the management of the educational institution;
+34.1.3. protect learners’ rights, participate in the management of the educational institution;
 
 34.1.4.  collaborate  with educational institutions and organizations, put forward suggestions and render voluntary donations for the improvement and upgrade of material-technical assets and technical support of the teaching process.
 
@@ -974,9 +980,9 @@ Management of the educational system, the rights, duties and social protection o
 
 34.2. Parents and other legal guardians have the following responsibilities in the education field:
 
-34.2.1. provide conditions for their children's physical, moral and intellectual development at early age, ensure that their children receive compulsory comprehensive secondary education and upbringing;
+34.2.1. provide conditions for their children’s physical, moral and intellectual development at early age, ensure that their children receive compulsory comprehensive secondary education and upbringing;
 
-34.2.2.  ensure  their  children  are  brought  up  as  humanistic,  patriotic  and  labor-loving individuals who respect the language, literature and history of his/her people and nationalspiritual and universal values.
+34.2.2.  ensure  their  children  are  brought  up  as  humanistic,  patriotic  and  labor-loving individuals who respect the language, literature and history of his/her people and national-spiritual and universal values.
 
 34.2.3. fulfill other duties assigned by the legislation.
 
@@ -984,7 +990,7 @@ Management of the educational system, the rights, duties and social protection o
 
 35.1. Students at the public and municipal institutions of comprehensive secondary education are provided with textbooks at the expense of the state.
 
-35.2. In order to encourage the learners' activity, stipends (including special stipends) and aid is  provided  to  learners  studying  at  public  and  municipal  institutions  of  professionalvocational and higher education in accordance with legislation.
+35.2. In order to encourage the learners’ activity, stipends (including special stipends) and aid is  provided  to  learners  studying  at  public  and  municipal  institutions  of  professional-vocational and higher education in accordance with legislation.
 
 35.3. Other concessions may be offered to learners in accordance with legislation.
 
@@ -1034,7 +1040,7 @@ Educational economy
 
 37.8.  The  restitution  of  property  allocated  to  an  educational  institution  is  carried  out  in accordance with the legislation.
 
-37.9. An educational institution's bankruptcy proceedings are carried out in accordance with the legislation.
+37.9. An educational institution’s bankruptcy proceedings are carried out in accordance with the legislation.
 
 ### Article 38. Financing of the educational institutions
 
@@ -1052,7 +1058,7 @@ Educational economy
 
 38.5. The under-utilized comprehensive secondary schools set up in cases of need by order of the  respective  executive  authority  are  financed  at  the  rate  above  the  established  norms  of financing.
 
-38.6.  A  public  educational  institution  acts  independently  in  the  use  of  its  funds  generated from  the  tuition  fees  and  other  non-budget  resources  in  accordance  with  its  statute.  The public educational institution determines independently the amount of allocations from nonbudget  resources  towards  material  incentives  for  the  staff,  or  to  providing  assistance  to educators and learners.
+38.6.  A  public  educational  institution  acts  independently  in  the  use  of  its  funds  generated from  the  tuition  fees  and  other  non-budget  resources  in  accordance  with  its  statute.  The public educational institution determines independently the amount of allocations from non-budget  resources  towards  material  incentives  for  the  staff,  or  to  providing  assistance  to educators and learners.
 
 38.7. The  state provides long-term  and individual loans to support  development  of educational institutions and for eligible students to cover their tuitions and other related costs, as  well as  grants  for  scientific-research  activities,  financing  of  doctoral programs,  studying the international experience and other purposes. The procedures and conditions for receiving educational loans  and  grants  are  defined  and  regulated  under  relevant  legislative  acts.  The state grants for education and scientific-research may not be used to finance other activities of an educational institution.
 
@@ -1092,7 +1098,7 @@ Educational economy
 
 40.1. A private educational institutions is financed from the following sources:
 
-- 40.1.1. income generated for provision of educational services;
+40.1.1. income generated for provision of educational services;
 
 40.1.2. funds from founders (trustees);
 
@@ -1142,7 +1148,7 @@ International relations in the field of education
 
 [[START OF PAGE 38]]
 
-43.3.  Educational  institutions  and  establishments  are  empowered  to  carry  out  independent activity  on  the  basis  of  relevant  legislative  acts,  by  engaging  in  the  preparation  of  joint science  and  education  projects,  the  organization  of  fundamental  scientific-research  and design-construction assignments, scientific-practical conferences, symposiums, exchange of students, master's students, doctoral students, teachers and scientific personnel, the purchase and sale of intellectual property products and patents and other similar areas.
+43.3.  Educational  institutions  and  establishments  are  empowered  to  carry  out  independent activity  on  the  basis  of  relevant  legislative  acts,  by  engaging  in  the  preparation  of  joint science  and  education  projects,  the  organization  of  fundamental  scientific-research  and design-construction assignments, scientific-practical conferences, symposiums, exchange of students, master’s students, doctoral students, teachers and scientific personnel, the purchase and sale of intellectual property products and patents and other similar areas.
 
 43.4. Educational institutions (with the exception of special-purpose educational institutions) are entitled to establish joint structural bodies (centers, branches, laboratories, techno parks, etc.) in the country and abroad in cooperation with foreign counterparts, in order to improve the  quality  of  its  activities  and  expand  international  relations  in  compliance  with  the requirements of the existing legislative acts of the Republic of Azerbaijan.
 
@@ -1170,7 +1176,7 @@ Individuals and legal entities  in  violation  of  this  Law  bear  liability  i
 
 ### Article 46. Transitional provisions
 
-- 46.1.  The  candidate  of  sciences  degrees  granted  prior  to  the  effectiveness  of  this  Law  are equated to the degree of philosophy doctor in the respective field.
+46.1.  The  candidate  of  sciences  degrees  granted  prior  to  the  effectiveness  of  this  Law  are equated to the degree of philosophy doctor in the respective field.
 
 46.2.  The  individuals  enrolled  in  the  aspirantura  prior  to  the  effectiveness  of  this  Law  are granted the status of doctoral student.
 
@@ -1178,6 +1184,6 @@ Individuals and legal entities  in  violation  of  this  Law  bear  liability  i
 
 47.1. This Law comes into force on the day of publication.
 
-- 47.2.  The  Law  on  Education  of  the  Republic  of  Azerbaijan,  No.  324  of  October  7,  1992, (Information  of  High  Council  of  the  Republic  of  Azerbaijan,  1992,  No,  24,  article  1031; 1994, No. 16, article 216; 1995, No.7, article 123; Legislation of the Republic of Azerbaijan, 1997, No.3, article 226, No.4, articles 287, 294, No. 6, article 450; 1998, No.1, article 16; 1999, No.5, articles 285, 286; 2001, No.3, article 138, No.11, article 672, No.12, articles 731, 736; 2003, No.1, article 1; 2004, No.4, article 202, No. 6, article 415; 2007, No.11, article 1049) will expire after the present Law will come into force.
+47.2.  The  Law  on  Education  of  the  Republic  of  Azerbaijan,  No.  324  of  October  7,  1992, (Information  of  High  Council  of  the  Republic  of  Azerbaijan,  1992,  No,  24,  article  1031; 1994, No. 16, article 216; 1995, No.7, article 123; Legislation of the Republic of Azerbaijan, 1997, No.3, article 226, No.4, articles 287, 294, No. 6, article 450; 1998, No.1, article 16; 1999, No.5, articles 285, 286; 2001, No.3, article 138, No.11, article 672, No.12, articles 731, 736; 2003, No.1, article 1; 2004, No.4, article 202, No. 6, article 415; 2007, No.11, article 1049) will expire after the present Law will come into force.
 
 [[END OF PAGE 39]]
